@@ -1,9 +1,66 @@
 {
-  "updated_at": "2026-10-30T12:04:23.422268",
+  "updated_at": "2026-10-31T11:38:46.711221",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "af4face4-5d20-585e-a12f-9d9d94af59cf",
+      "story_id": "c7813816-bed0-53a7-8de8-7d8486e0b860",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-31T11:09:48+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 2.0182,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1174034",
+          "title": "স্পেনে ট্রেন দুর্ঘটনা, ক্ষমতা হারানোর শঙ্কায় প্রধানমন্ত্রী সানচেজ",
+          "snippet": "স্পেনে ট্রেন দুর্ঘটনা, ক্ষমতা হারানোর শঙ্কায় প্রধানমন্ত্রী সানচেজ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "স্পেনে ট্রেন দুর্ঘটনায় রেল নিরাপত্তা নিয়ে প্রশ্ন এবং প্রধানমন্ত্রীর রাজনৈতিক সংকট",
+        "title_en": "Train Crashes in Spain Spark Rail Safety Concerns and Political Pressure",
+        "summary_bn": "স্পেনে পরপর দুটি ট্রেন দুর্ঘটনায় রেলব্যবস্থার নিরাপত্তা নিয়ে প্রশ্ন ওঠায় রাজনৈতিক চাপে পড়েছেন প্রধানমন্ত্রী পেদ্রো সানচেজ।",
+        "summary_en": "Prime Minister Pedro Sanchez faces intense political pressure following two consecutive train accidents in Spain that raised safety concerns.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-31T11:09:48+00:00",
+        "lead_bn": "স্পেনে পরপর দুটি ট্রেন দুর্ঘটনায় রেলব্যবস্থার নিরাপত্তা নিয়ে প্রশ্ন ওঠায় রাজনৈতিক চাপে পড়েছেন প্রধানমন্ত্রী পেদ্রো সানচেজ।",
+        "lead_en": "Prime Minister Pedro Sanchez faces intense political pressure following two consecutive train accidents in Spain that raised safety concerns.",
+        "bullets_bn": [
+          "স্পেনে পরপর দুটি ভয়াবহ ট্রেন দুর্ঘটনা ঘটে যার ফলে রেলব্যবস্থার সামগ্রিক নিরাপত্তা নিয়ে তীব্র প্রশ্ন উঠেছে।",
+          "দুর্ঘটনাগুলোর পর আগাম নির্বাচনের আগে রাজনৈতিক চাপের মুখে পড়েছেন প্রধানমন্ত্রী পেদ্রো সানচেজ।",
+          "পরিবহন খাতে নিরাপত্তা জোরদার করতে এবং সম্ভাব্য রাজনৈতিক সংকট মোকাবিলায় জরুরি পদক্ষেপ নেওয়ার পরিকল্পনা চলছে।"
+        ],
+        "bullets_en": [
+          "Two consecutive severe train accidents occurred in Spain, raising serious questions about the overall rail network safety.",
+          "Prime Minister Pedro Sanchez faces mounting political pressure ahead of upcoming elections following the transit disasters.",
+          "Authorities are reviewing transport safety measures to address public concerns and mitigate the unfolding political crisis."
+        ],
+        "impact_bn": "রেল ব্যবস্থার নিরাপত্তা বিঘ্নিত হওয়ায় সাধারণ commuters বা যাত্রীদের মধ্যে চলাচল নিয়ে আতঙ্ক ও উদ্বেগ তৈরি হয়েছে।",
+        "impact_en": "Commuters face growing anxiety and safety concerns regarding public rail transit following the infrastructure failures.",
+        "details_bn": "স্পেনের রেল নেটওয়ার্কে পরপর ঘটে যাওয়া দুর্ঘটনাগুলো দেশটির যোগাযোগ ব্যবস্থার অবকাঠামো নিয়ে প্রশ্ন তুলেছে। আগাম নির্বাচনের ঠিক আগে এই ধরনের দুর্ঘটনা ক্ষমতাসীন সরকারের জন্য বড় ধরণের রাজনৈতিক চ্যালেঞ্জ তৈরি করেছে। প্রধানমন্ত্রী সানচেজের প্রশাসন এখন জনরোষ প্রশমিত করতে এবং রেল নিরাপত্তার ঘাটতি পূরণে কঠোর পদক্ষেপ নেওয়ার চাপে রয়েছে।",
+        "details_en": "The successive train accidents on Spain's rail network have triggered intense scrutiny over national transportation infrastructure. Occurring right before anticipated elections, the crisis poses a significant political challenge for Prime Minister Pedro Sanchez's administration, which is now under pressure to reassure the public and overhaul transit safety protocols."
+      }
+    },
+    {
+      "story_id": "10187c50-25b0-5198-8f22-d2f49334612c",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
@@ -15,327 +72,285 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-30T11:52:47+00:00",
+      "published_at": "2026-10-31T11:36:50+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.7246,
+      "rank_score": 1.9031,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/middle-east/977731/%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8-%E0%A6%9A%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%AA%E0%A7%81%E0%A6%A8%E0%A6%B0%E0%A7%81%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%BF%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%A4%E0%A7%87%E0%A6%B9%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87",
-          "title": "মার্কিন-ইরান চুক্তি পুনরুজ্জীবিত করতে তেহরানে কাতারি মধ্যস্থতাকারীরা",
-          "snippet": "মার্কিন-ইরান চুক্তি পুনরুজ্জীবিত করতে তেহরানে কাতারি মধ্যস্থতাকারীরা"
+          "url": "https://www.banglatribune.com/foreign/usa/977931/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%87-%E0%A6%AD%E0%A6%B0%E0%A6%BE%E0%A6%A1%E0%A7%81%E0%A6%AC%E0%A6%BF-%E0%A6%B9%E0%A6%B2%E0%A7%87-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%A1%E0%A6%BC-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%A8",
+          "title": "নির্বাচনে ভরাডুবি হলে ইরানে বড় হামলা চালাতে পারেন ট্রাম্প",
+          "snippet": "নির্বাচনে ভরাডুবি হলে ইরানে বড় হামলা চালাতে পারেন ট্রাম্প"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মার্কিন-ইরান পারমাণবিক চুক্তি পুনরুজ্জীবিত করতে তেহরানে কাতারি মধ্যস্থতাকারীরা",
-        "title_en": "Qatari mediators arrive in Tehran to revive US-Iran nuclear deal",
-        "summary_bn": "যুক্তরাষ্ট্র ও ইরানের মধ্যে স্থগিত আলোচনা পুনরুজ্জীবিত করতে কাতারি প্রতিনিধিদল তেহরানে উচ্চপর্যায়ের বৈঠক করেছে।",
-        "summary_en": "A Qatari delegation arrived in Tehran to hold high-level talks aimed at reviving stalled negotiations between the US and Iran.",
+        "title_bn": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচনে বিপর্যয় ঘটলে ইরানে সামরিক হামলার নির্দেশ দিতে পারেন ট্রাম্প",
+        "title_en": "Trump May Authorize Major Strike on Iran if Midterm Elections Go Poorly",
+        "summary_bn": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচনে রিপাবলিকানরা খারাপ ফল করলে মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ইরানের বিরুদ্ধে বড় ধরনের সামরিক অভিযানের অনুমোদন দিতে পারেন।",
+        "summary_en": "US President Donald Trump may authorize a major military operation against Iran if Republicans perform poorly in the midterm elections.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-30T11:52:47+00:00",
-        "lead_bn": "যুক্তরাষ্ট্র ও ইরানের মধ্যে স্থগিত আলোচনা পুনরুজ্জীবিত করতে কাতারি প্রতিনিধিদল তেহরানে উচ্চপর্যায়ের বৈঠক করেছে।",
-        "lead_en": "A Qatari delegation arrived in Tehran to hold high-level talks aimed at reviving stalled negotiations between the US and Iran.",
+        "published_at": "2026-10-31T11:36:50+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচনে রিপাবলিকানরা খারাপ ফল করলে মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ইরানের বিরুদ্ধে বড় ধরনের সামরিক অভিযানের অনুমোদন দিতে পারেন।",
+        "lead_en": "US President Donald Trump may authorize a major military operation against Iran if Republicans perform poorly in the midterm elections.",
         "bullets_bn": [
-          "যুক্তরাষ্ট্র ও ইরানের মধ্যকার স্থগিত আলোচনা পুনরুজ্জীবিত করতে কাতারি মধ্যস্থতাকারীরা তেহরান সফর শুরু করেছেন",
-          "ইরানি রাষ্ট্রীয় বার্তা সংস্থা ইরনা জানিয়েছে কাতারি প্রতিনিধিদল ঊর্ধ্বতন ইরানি কর্মকর্তাদের সঙ্গে বৈঠকে অংশ নিয়েছে",
-          "দীর্ঘদিন ধরে অচলাবস্থায় থাকা কূটনৈতিক সম্পর্ক স্বাভাবিক করতে মধ্যপ্রাচ্যের এই মধ্যস্থতা অব্যাহত থাকবে"
+          "রিপাবলিকানদের ভরাডুবি হলে ট্রাম্প ইরানে বড় ধরনের সামরিক অভিযানের অনুমোদন দিতে পারেন।",
+          "মার্কিন সংবাদমাধ্যম অ্যাক্সিওসের প্রতিবেদন অনুযায়ী ট্রাম্প নিজেকে ক্ষমতাহীন মনে করলে এমন পদক্ষেপ নিতে পারেন।",
+          "এই সম্ভাব্য সামরিক পদক্ষেপে মধ্যপ্রাচ্যে আঞ্চলিক নিরাপত্তা ঝুঁকি বাড়ার আশঙ্কা তৈরি হয়েছে।"
         ],
         "bullets_en": [
-          "Qatari mediators initiated a diplomatic mission to Tehran to restart stalled discussions between the US and Iran",
-          "Iranian state news agency IRNA confirmed that the Qatari delegation engaged in meetings with senior Iranian officials",
-          "Diplomatic efforts by regional mediators will continue to bridge gaps between Washington and Tehran"
+          "Trump may authorize a major military operation against Iran if Republicans face a heavy defeat.",
+          "According to a US media report by Axios, Trump could take drastic action if he feels politically weakened.",
+          "This potential military move raises serious concerns about escalating regional security risks in the Middle East."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "দীর্ঘদিন ধরে যুক্তরাষ্ট্র ও ইরানের মধ্যকার উত্তেজনা নিরসনে এবং ২০১৫ সালের পারমাণবিক চুক্তি পুনরুজ্জীবিত করতে বিভিন্ন আঞ্চলিক দেশ মধ্যস্থতার চেষ্টা চালিয়ে আসছে। এর ধারাবাহিকতায় কাতারের পক্ষ থেকে এই নতুন কূটনৈতিক উদ্যোগ নেওয়া হয়েছে, যা মধ্যপ্রাচ্যের আঞ্চলিক স্থিতিশীলতার ওপর বড় ধরনের প্রভাব ফেলতে পারে।",
-        "details_en": "Regional nations have continuously attempted to mediate tensions between the United States and Iran to restore the 2015 nuclear agreement. This latest diplomatic initiative by Qatar marks a renewed push to break the prolonged deadlock and ease geopolitical friction in the Middle East."
+        "details_bn": "মার্কিন রাজনীতিতে মধ্যবর্তী নির্বাচন সবসময়ই বর্তমান প্রশাসনের শক্তির বড় পরীক্ষা হিসেবে বিবেচিত হয়। কংগ্রেসের নিয়ন্ত্রণ ধরে রাখতে বা হারাতে এই নির্বাচনের ফলাফল অত্যন্ত গুরুত্বপূর্ণ ভূমিকা রাখে। এই প্রেক্ষাপটে মার্কিন প্রশাসনের অভ্যন্তরীণ কৌশল ও মধ্যপ্রাচ্য নীতি নিয়ে আন্তর্জাতিক মহলে নানা আলোচনা ও আশঙ্কা তৈরি হয়েছে। ট্রাম্প প্রশাসনের এই সম্ভাব্য পদক্ষেপ ভূ-রাজনীতিতে বড় ধরনের অস্থিরতা সৃষ্টি করতে পারে বলে বিশ্লেষকরা মনে করছেন।",
+        "details_en": "Midterm elections in US politics are traditionally viewed as a major test of the incumbent administration's strength. The electoral outcome plays a crucial role in determining control over Congress. Against this backdrop, internal strategies of the US administration and Middle East policies have sparked widespread international concern. Analysts suggest that such potential moves by the Trump administration could trigger significant geopolitical instability in the region."
       }
     },
     {
-      "story_id": "70bc2806-ca78-5e28-8dc7-f9f8b19769e7",
-      "primary_category": "governance_law",
+      "story_id": "046245b1-d23f-52df-8e74-9791b7d46575",
+      "primary_category": "tech_innovation",
       "interest_categories": [
-        "governance_law",
-        "society_education"
+        "tech_innovation",
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Technology",
+        "#Innovation"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-31%2Fttr8tlhg%2Fbinance.jpg?rect=0%2C0%2C1024%2C538&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-30T11:46:18+00:00",
+      "published_at": "2026-10-31T11:12:39+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.6203,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/politics/news/1173698",
-          "title": "স্বরাষ্ট্রমন্ত্রী-জ্বালানিমন্ত্রী পদত্যাগ না করলে আমাদের মিছিল বড় হবে",
-          "snippet": "স্বরাষ্ট্রমন্ত্রী-জ্বালানিমন্ত্রী পদত্যাগ না করলে আমাদের মিছিল বড় হবে"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "স্বরাষ্ট্রমন্ত্রী ও জ্বালানিমন্ত্রীর পদত্যাগ দাবি জাতীয় নাগরিক পার্টির",
-        "title_en": "National Citizen Party Demands Resignation of Home and Energy Ministers",
-        "summary_bn": "জাতীয় নাগরিক পার্টির আহ্বায়ক মো. নাহিদ ইসলাম স্বরাষ্ট্রমন্ত্রী ও জ্বালানিমন্ত্রীর পদত্যাগ না করলে আন্দোলন আরও জোরদার করার হুঁশিয়ারি দিয়েছেন।",
-        "summary_en": "National Citizen Party Convener Nahid Islam warned that protests will expand if the home and energy ministers do not resign.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-30T11:46:18+00:00",
-        "lead_bn": "জাতীয় নাগরিক পার্টির আহ্বায়ক মো. নাহিদ ইসলাম স্বরাষ্ট্রমন্ত্রী ও জ্বালানিমন্ত্রীর পদত্যাগ না করলে আন্দোলন আরও জোরদার করার হুঁশিয়ারি দিয়েছেন।",
-        "lead_en": "National Citizen Party Convener Nahid Islam warned that protests will expand if the home and energy ministers do not resign.",
-        "bullets_bn": [
-          "স্বরাষ্ট্রমন্ত্রী ও জ্বালানিমন্ত্রীর পদত্যাগের দাবিতে কঠোর হুঁশিয়ারি উচ্চারণ করেছে জাতীয় নাগরিক পার্টি।",
-          "দলের আহ্বায়ক মো. নাহিদ ইসলাম পদত্যাগ না করলে আন্দোলন আরও বড় করার ঘোষণা দিয়েছেন।",
-          "সরকার নির্ধারিত মন্ত্রীদের বিষয়ে পদক্ষেপ না নিলে রাজপথে কর্মসূচি আরও কঠোর হবে।"
-        ],
-        "bullets_en": [
-          "The National Citizen Party issued a strict warning demanding the resignation of the home and energy ministers.",
-          "Party Convener Nahid Islam announced that protests will escalate if the ministers fail to step down.",
-          "Further street programs will be enforced if the administration fails to address the resignation demands."
-        ],
-        "impact_bn": "রাজনৈতিক অস্থিরতা বাড়লে সাধারণ commuters এবং নিত্যদিনের কার্যক্রমে বিঘ্ন ঘটার শঙ্কা রয়েছে।",
-        "impact_en": "Political instability and street protests may disrupt daily commuting and normal civic activities.",
-        "details_bn": "সাম্প্রতিক রাজনৈতিক পরিস্থিতির প্রেক্ষাপটে আইনশৃঙ্খলা ও জ্বালানি ব্যবস্থাপনার ব্যর্থতার অভিযোগ তুলে বিভিন্ন রাজনৈতিক দল ও সংগঠন সরকারের বিভিন্ন মন্ত্রীর পদত্যাগ দাবি করে আসছে। এরই ধারাবাহিকতায় জাতীয় নাগরিক পার্টি তাদের অবস্থান স্পষ্ট করে কঠোর কর্মসূচির হুঁশিয়ারি দেয়।",
-        "details_en": "Amid ongoing political tensions and criticisms over law enforcement and energy management, various political platforms have demanded ministerial accountability. Continuing this momentum, the National Citizen Party reiterated its firm stance and warned of broader demonstrations if their demands are unaddressed."
-      }
-    },
-    {
-      "story_id": "af6a2f59-8d0f-5186-8968-1cf2686e2c70",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-30%2Fqdxlf5ya%2FAmartya-Sen.jpg?rect=0%2C102%2C790%2C415&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-30T11:01:13+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.1229,
+      "importance_score": 6.0,
+      "rank_score": 1.8813,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/india/gboidcmg96",
-          "title": "যাদবপুর বিশ্ববিদ্যালয়ে হামলার ঘটনায় মর্মাহত অমর্ত্য সেন, সহিংসতার বিরুদ্ধে বললেন",
-          "snippet": "যাদবপুর বিশ্ববিদ্যালয়ে হামলার ঘটনায় মর্মাহত অমর্ত্য সেন, সহিংসতার বিরুদ্ধে বললেন"
+          "url": "https://www.prothomalo.com/technology/cyberworld/9ymq0k8ere",
+          "title": "বাইন্যান্সে হ্যাকিং ও ২০১৬ সালে বাংলাদেশ ব্যাংকের হ্যাকিংয়ে জড়িত কি একই গ্রুপ",
+          "snippet": "বাইন্যান্সে হ্যাকিং ও ২০১৬ সালে বাংলাদেশ ব্যাংকের হ্যাকিংয়ে জড়িত কি একই গ্রুপ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "যাদবপুরে রাজনৈতিক সহিংসতার তীব্র নিন্দা ও গভীর উদ্বেগ প্রকাশ অমর্ত্য সেনের",
-        "title_en": "Amartya Sen Condemns Political Violence and Campus Infiltration at Jadavpur University",
-        "summary_bn": "নোবেলজয়ী অর্থনীতিবিদ অমর্ত্য সেন যাদবপুর বিশ্ববিদ্যালয়ে রাজনৈতিক সহিংসতা ও ডানপন্থী গোষ্ঠীগুলোর অনুপ্রবেশের ঘটনায় গভীর মর্মাহত প্রকাশ করেছেন।",
-        "summary_en": "Nobel laureate economist Amartya Sen expressed deep shock over political violence and right-wing infiltration at Jadavpur University.",
+        "title_bn": "বাইন্যান্স হ্যাকিংয়ে উত্তর কোরিয়ার হ্যাকার গ্রুপ জড়িত",
+        "title_en": "North Korean Hacker Group Linked to Binance Crypto Heist",
+        "summary_bn": "উত্তর কোরিয়া সমর্থিত হ্যাকার গ্রুপ বাইন্যান্স ক্রিপ্টোকারেন্সি এক্সচেঞ্জ থেকে কোটি কোটি ডলার চুরির ঘটনায় জড়িত বলে জানিয়েছে গোয়েন্দা সংস্থা।",
+        "summary_en": "North Korea-backed hacker groups are linked to the massive cryptocurrency theft from the Binance exchange, intelligence agencies report.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
+          "tech_innovation",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-30T11:01:13+00:00",
-        "lead_bn": "নোবেলজয়ী অর্থনীতিবিদ অমর্ত্য সেন যাদবপুর বিশ্ববিদ্যালয়ে রাজনৈতিক সহিংসতা ও ডানপন্থী গোষ্ঠীগুলোর অনুপ্রবেশের ঘটনায় গভীর মর্মাহত প্রকাশ করেছেন।",
-        "lead_en": "Nobel laureate economist Amartya Sen expressed deep shock over political violence and right-wing infiltration at Jadavpur University.",
+        "published_at": "2026-10-31T11:12:39+00:00",
+        "lead_bn": "উত্তর কোরিয়া সমর্থিত হ্যাকার গ্রুপ বাইন্যান্স ক্রিপ্টোকারেন্সি এক্সচেঞ্জ থেকে কোটি কোটি ডলার চুরির ঘটনায় জড়িত বলে জানিয়েছে গোয়েন্দা সংস্থা।",
+        "lead_en": "North Korea-backed hacker groups are linked to the massive cryptocurrency theft from the Binance exchange, intelligence agencies report.",
         "bullets_bn": [
-          "শিক্ষাঙ্গনে রাজনৈতিক সহিংসতার বিরুদ্ধে শক্তিশালী সুরক্ষাব্যবস্থা গ্রহণের আহ্বান জানিয়েছেন অমর্ত্য সেন।",
-          "যাদবপুর বিশ্ববিদ্যালয়ে ভয়াবহ হামলার ঘটনায় তিনি গভীরভাবে মর্মাহত বলে এক বার্তায় উল্লেখ করেছেন।",
-          "বিশ্ববিদ্যালয়ের ঐতিহ্যবাহী প্রতীক রক্ষা ও ক্যাম্পাসে নিরাপত্তা নিশ্চিতের দাবি জানিয়েছেন শিক্ষার্থীরা।"
+          "ল্যাজারাস গ্রুপ ও ট্রেডারট্রেটর নামের উত্তর কোরীয় সাইবার ইউনিট এই বড় হ্যাকিংয়ে জড়িত বলে ব্লকচেইন অ্যানালিটিকস জানিয়েছে।",
+          "বাইন্যান্স থেকে ৬৩০ কোটি মার্কিন ডলার চুরির ঘটনায় ৮০ শতাংশ সম্পদ উদ্ধার ও সুরক্ষিত করা গেছে।",
+          "বিশেষজ্ঞদের মতে উত্তর কোরীয় হ্যাকাররা চুরি হওয়া অর্থ ক্রিপ্টোকারেন্সিতে রূপান্তর করে মানি লন্ডারিং করেছে।"
         ],
         "bullets_en": [
-          "Amartya Sen urged for strong protective measures against political violence in educational institutions.",
-          "He stated in a message that he is deeply shocked by the horrific attacks at Jadavpur University.",
-          "Students demanded enhanced security and the protection of university traditions following the clashes."
+          "Blockchain analytics reveal North Korean cyber units Lazarus Group and TraderTraitors executed the major cyberattack.",
+          "Eighty percent of the stolen 6.3 billion US dollars from the Binance breach has been recovered and secured.",
+          "Experts indicate the North Korean hackers laundered the stolen funds by rapidly converting them into digital assets."
         ],
-        "impact_bn": "বিশ্ববিদ্যালয় ক্যাম্পাসে শিক্ষার্থীদের নিরাপত্তা এবং রাজনৈতিক সহিংসতা রোধে সচেতনতা বৃদ্ধি পাবে।",
-        "impact_en": "It raises awareness regarding student safety on campuses and the urgent need to curb political violence.",
-        "details_bn": "ভারতের যাদবপুর বিশ্ববিদ্যালয়ে ডানপন্থী গোষ্ঠী এবং বামপন্থী ছাত্র সংগঠনগুলোর মধ্যে সংঘর্ষের প্রেক্ষাপটে অমর্ত্য সেন এই সংহতি বার্তা পাঠান। অতীতে এই বিশ্ববিদ্যালয়ে শিক্ষকতা জীবন শুরু করা সেন ক্যাম্পাসে সাম্প্রদায়িক ও সহিংস কার্যকলাপের নিঃশর্ত নিন্দা জানিয়েছেন। ক্যাম্পাসে বহিরাগতদের অননুমোদিত প্রবেশ ও ভাঙচুরের ঘটনার পর শিক্ষক ও শিক্ষার্থীদের মধ্যে নিরাপত্তা নিয়ে উদ্বেগ তৈরি হয়েছে।",
-        "details_en": "Amartya Sen sent this solidarity message following clashes between right-wing groups and left-wing student organizations at Jadavpur University. Sen, who began his teaching career at the institution, unconditionally condemned communal and violent activities on campus. Security concerns have grown among teachers and students following unauthorized entry of outsiders and subsequent vandalism."
+        "impact_bn": "সাইবার সুরক্ষা জোরদার না হলে বৈশ্বিক ডিজিটাল লেনদেন ও ক্রিপ্টো ব্যবহারকারীরা বড় ধরনের আর্থিক ঝুঁকির মুখে পড়বেন।",
+        "impact_en": "Global digital transactions and crypto users face severe financial risks unless cybersecurity frameworks are substantially strengthened.",
+        "details_bn": "উত্তর কোরিয়ার রাষ্ট্রীয় অর্থায়নে পরিচালিত হ্যাকার গ্রুপগুলো অতীতেও আন্তর্জাতিক বিভিন্ন আর্থিক প্রতিষ্ঠানে সাইবার হামলা চালিয়েছে। এফবিআইয়ের তদন্তে ২০১৬ সালের বাংলাদেশ ব্যাংক রিজার্ভ চুরি এবং সোনি পিকচার্সে হামলার পেছনেও ল্যাজারাস গ্রুপের সম্পৃক্ততার প্রমাণ মিলেছে। ইন্টারনেট সুবিধা সীমিত ও দরিদ্র দেশ হওয়া সত্ত্বেও উত্তর কোরিয়া রাষ্ট্রীয়ভাবে সাইবার অপরাধকে বৈদেশিক মুদ্রা অর্জনের মাধ্যম হিসেবে ব্যবহার করে আসছে।",
+        "details_en": "State-sponsored hacker groups from North Korea have a history of targeting international financial institutions. FBI investigations previously linked the Lazarus Group to the 2016 Bangladesh Bank reserve heist and the Sony Pictures cyberattack. Despite being a poor and isolated nation, North Korea increasingly relies on state-sponsored cybercrime to generate foreign revenue."
       }
     },
     {
-      "story_id": "7e54a4c3-a713-5443-b982-6b7f49e25a0d",
-      "primary_category": "society_education",
+      "story_id": "28a3cc89-b7c8-5dca-8947-9ba84fdb53c1",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "society_education"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#TahsifMurder",
+        "#DhakaCourt"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/dengu.jpg?w=1200",
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-10/tahsif_souri%20%282%29%20%281%29.jpg",
       "image_caption": null,
-      "published_at": "2026-10-30T12:03:37+00:00",
+      "published_at": "2026-10-31T10:11:45+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9639,
+      "importance_score": 6.0,
+      "rank_score": 1.197,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/three-deaths-from-dengue/",
-          "title": "২৪ ঘন্টায় ডেঙ্গুতে তিনজনের মৃত্যু, আক্রান্ত ১২৬২",
-          "snippet": "২৪ ঘন্টায় ডেঙ্গুতে তিনজনের মৃত্যু, আক্রান্ত ১২৬২"
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/tahsif-murder-friend-dip-placed-four-day-remand-4311916",
+          "title": "Tahsif murder: Friend Dip placed on four-day remand",
+          "snippet": "Tahsif murder: Friend Dip placed on four-day remand"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/court/423357/tahsif-sauri-murder-friend-shahriar-dip-placed-on",
+          "title": "Tahsif Sauri murder: Friend Shahriar Dip placed on 4-day remand",
+          "snippet": "Tahsif Sauri murder: Friend Shahriar Dip placed on 4-day remand"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ডেঙ্গুতে আরও তিনজনের মৃত্যু, হাসপাতালে ভর্তি ১২৬২",
-        "title_en": "Three Die From Dengue With 1262 Hospitalized",
-        "summary_bn": "দেশে ডেঙ্গু আক্রান্ত হয়ে আরও তিনজন মারা গেছেন এবং একই সময়ে হাসপাতালে ভর্তি হয়েছেন এক হাজার ২৬২ জন রোগী।",
-        "summary_en": "Three people died from dengue and 1,262 new patients were hospitalized across the country over a twenty-four hour period.",
+        "title_bn": "তাহসিফ হত্যা মামলায় বন্ধু দ্বীপ চার দিনের রিমান্ডে",
+        "title_en": "Friend Dip Placed on Four-Day Remand in Tahsif Murder Case",
+        "summary_bn": "সাবেক বিমান বাহিনী কর্মকর্তা কে এম তাহসিফ সৌরি হত্যা মামলায় বন্ধু আহমেদ শাহরিয়ার রেজা দ্বীপকে চার দিনের রিমান্ডে পাঠিয়েছে আদালত।",
+        "summary_en": "A Dhaka court placed Ahmed Shahriar Reza Dip on a four-day remand in connection with the murder of former air force officer KM Tahsif Souri.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-30T12:03:37+00:00",
-        "lead_bn": "দেশে ডেঙ্গু আক্রান্ত হয়ে আরও তিনজন মারা গেছেন এবং একই সময়ে হাসপাতালে ভর্তি হয়েছেন এক হাজার ২৬২ জন রোগী।",
-        "lead_en": "Three people died from dengue and 1,262 new patients were hospitalized across the country over a twenty-four hour period.",
+        "published_at": "2026-10-31T10:11:45+00:00",
+        "lead_bn": "সাবেক বিমান বাহিনী কর্মকর্তা কে এম তাহসিফ সৌরি হত্যা মামলায় বন্ধু আহমেদ শাহরিয়ার রেজা দ্বীপকে চার দিনের রিমান্ডে পাঠিয়েছে আদালত।",
+        "lead_en": "A Dhaka court placed Ahmed Shahriar Reza Dip on a four-day remand in connection with the murder of former air force officer KM Tahsif Souri.",
         "bullets_bn": [
-          "মারা যাওয়া তিনজন রোগীই ঢাকা বিভাগের বিভিন্ন হাসপাতালে চিকিৎসাধীন অবস্থায় মারা গেছেন।",
-          "চলতি বছরে ডেঙ্গুতে মোট ৪১৮ জনের প্রাণ গেছে এবং হাসপাতালে ভর্তি রোগীর সংখ্যা ১ লাখ ৩৩ হাজার ছাড়িয়েছে।",
-          "স্বাস্থ্য অধিদপ্তর পরিস্থিতি নিয়ন্ত্রণে মশা নিধন ও চিকিৎসাসেবা জোরদার করার ওপর গুরুত্ব দিয়েছে।"
+          "পুলিশ সাত দিনের রিমান্ড আবেদন করলে ঢাকা মেট্রোপলিটন ম্যাজিস্ট্রেট আদালত চার দিনের রিমান্ড মঞ্জুর করে।",
+          "তদন্তে জানা গেছে, ঘটনার দিন সকালে দ্বীপ নিহতের সঙ্গে দেখা করে তাকে বাইরে নিয়ে গিয়েছিলেন।",
+          "পুলিশি জিজ্ঞাসাবাদ ও প্রযুক্তিগত তথ্যের ভিত্তিতে প্রাথমিক তদন্তে এই হত্যাকাণ্ডে দ্বীপের সম্পৃক্ততা পাওয়া গেছে।"
         ],
         "bullets_en": [
-          "All three deceased patients were undergoing treatment at hospitals within the Dhaka division.",
-          "The death toll from dengue reached 418 this year with total hospitalizations exceeding 133,000.",
-          "Health authorities are emphasizing intensified mosquito control and patient care management."
+          "The Dhaka Metropolitan Magistrate Court granted a four-day police remand following a seven-day remand prayer.",
+          "Investigators stated that the suspect called the victim out on the morning of the incident.",
+          "Preliminary investigations using technology and sources linked the suspect to the crime."
         ],
-        "impact_bn": "ডেঙ্গু সংক্রমণ বৃদ্ধির ফলে সাধারণ মানুষ ও শিশুদের স্বাস্থ্যঝুঁকি বেড়ে গেছে এবং হাসপাতালে ভিড় বাড়ছে।",
-        "impact_en": "Rising dengue infections increase health risks for ordinary citizens and children while adding pressure on hospitals.",
-        "details_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, চলতি বছরে ডেঙ্গুর প্রকোপ মারাত্মক আকার ধারণ করেছে। এর আগে ২০২৩ সালে ডেঙ্গুতে সর্বোচ্চ ১ হাজার ৭০৫ জনের মৃত্যু এবং ৩ লাখ ২১ হাজার ১৭৯ জন হাসপাতালে ভর্তি হয়েছিল। স্বাস্থ্য বিভাগ ২০০০ সাল থেকে ডেঙ্গুর হিসাব রাখছে এবং এবারও অক্টোবর মাসে সর্বোচ্চ সংখ্যক মৃত্যুর রেকর্ড হয়েছে।",
-        "details_en": "According to the Directorate General of Health Services, dengue has taken a severe turn this year. Previously, 2023 saw a record 1,705 deaths and 321,179 hospitalizations. Health authorities have tracked dengue data since 2000, noting that October recorded the highest casualties this season."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "উত্তরাখানের তুরাগ নদী থেকে সাবেক বিমান বাহিনী কর্মকর্তা কে এম তাহসিফ সৌরির ভাসমান মরদেহ উদ্ধার করা হয়। নিহতের পকেটে থাকা আইফোন দেখে তার পরিচয় শনাক্ত করে পুলিশ। পরে তথ্যপ্রযুক্তির সহায়তা নিয়ে এই হত্যাকাণ্ডে জড়িত থাকার অভিযোগে তার বন্ধু আহমেদ শাহরিয়ার রেজা দ্বীপকে গ্রেফতার করা হয় এবং প্রাথমিক তদন্তে তার সম্পৃক্ততা পাওয়ার কথা জানায় আইনশৃঙ্খলা বাহিনী।",
+        "details_en": "The floating body of former Bangladesh Air Force officer KM Tahsif Souri was recovered from the Turag river in Uttarkhan. Police identified the deceased using an iPhone found in his pocket. Following an investigation utilizing technology and intelligence sources, law enforcement arrested his friend Ahmed Shahriar Reza Dip, citing preliminary evidence of his involvement in the killing."
       }
     },
     {
-      "story_id": "e447344b-f527-5785-a1a2-66ca2b8f0de6",
-      "primary_category": "world_diplomacy",
+      "story_id": "a4aeb5b9-bb85-5b49-8ef7-c2a7d590d49f",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "world_diplomacy",
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#JioPlatforms",
+        "#MukeshAmbani"
+      ],
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-15T095231Z_26925466_RC2ES8A2UP7X_RTRMADP_3_JIO-PLATFORMS-IPO-PRICING-1793437276.jpg?resize=1920%2C1440",
+      "image_caption": null,
+      "published_at": "2026-10-31T10:39:15+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.12,
+      "rank_score": 0.5089,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/31/how-ambanis-jio-became-indias-second-largest-company?traffic_source=rss",
+          "title": "How Ambani’s Jio became India’s second-largest company",
+          "snippet": "How Ambani’s Jio became India’s second-largest company"
+        },
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/india-news-amit-shah-challenges-rahul-gandhi-to-debate-vote-theft-in-parliament/live-79814329?maca=en-rss-en-all-1573-rdf",
+          "title": "India news: Amit Shah challenges Rahul Gandhi to debate vote theft in Parliament",
+          "snippet": "India news: Amit Shah challenges Rahul Gandhi to debate vote theft in Parliament"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ভারতের দ্বিতীয় বৃহত্তম কোম্পানিতে পরিণত হলো আম্বানির জিও প্ল্যাটফর্ম",
+        "title_en": "Ambani is Jio Platforms Becomes India is Second-Largest Company",
+        "summary_bn": "ভারতের ইতিহাসে সবচেয়ে বড় আইপিও সম্পন্ন করার মাধ্যমে জিও প্ল্যাটফর্ম দেশের দ্বিতীয় সর্বাধিক মূল্যবান কোম্পানিতে পরিণত হয়েছে।",
+        "summary_en": "Jio Platforms has become India is second-most valuable company following the country is largest-ever initial public offering.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-31T10:39:15+00:00",
+        "lead_bn": "ভারতের ইতিহাসে সবচেয়ে বড় আইপিও সম্পন্ন করার মাধ্যমে জিও প্ল্যাটফর্ম দেশের দ্বিতীয় সর্বাধিক মূল্যবান কোম্পানিতে পরিণত হয়েছে।",
+        "lead_en": "Jio Platforms has become India is second-most valuable company following the country is largest-ever initial public offering.",
+        "bullets_bn": [
+          "জিও প্ল্যাটফর্ম তাদের স্টক মার্কেট আত্মপ্রকাশে তিনশ বিশ কোটি ডলার সংগ্রহ করেছে",
+          "কোম্পানির শেয়ারের মূল্য একুশ শতাংশ বৃদ্ধি পেয়ে মোট বাজারমূল্য একশো একত্রিশ দশমিক পাঁচ বিলিয়ন ডলারে পৌঁছেছে",
+          "এই কোম্পানি বর্তমানে পাঁচশ ত্রিশ মিলিয়নেরও বেশি গ্রাহককে ডিজিটাল ও টেলিকম পরিষেবা প্রদান করছে"
+        ],
+        "bullets_en": [
+          "Jio Platforms raised three point two billion dollars in its stock market debut",
+          "Company shares surged by twenty-one percent valuing the firm at one hundred thirty-one point five billion dollars",
+          "The telecoms and digital giant currently serves more than five hundred thirty million customers"
+        ],
+        "impact_bn": "ডিজিটাল সেবা এবং টেলিকম বাজারে এই বড় উত্থান গ্রাহকদের খরচ এবং সেবা প্রাপ্তির ওপর দীর্ঘমেয়াদী প্রভাব ফেলবে।",
+        "impact_en": "This massive market consolidation and growth will significantly shape digital service costs and consumer experiences across the region.",
+        "details_bn": "এশিয়ার সবচেয়ে ধনী ব্যক্তি মুকেশ আম্বানির মালিকানাধীন রিলায়েন্স ইন্ডাস্ট্রিজের সহযোগী প্রতিষ্ঠান হলো জিও প্ল্যাটফর্ম। ২০২০ সালে এই কোম্পানিতে মেটা এবং গুগল মাল্টিবিলিয়ন ডলার বিনিয়োগ করে। প্রতিষ্ঠার পর থেকেই ভারতীয় টেলিকম বাজারে ব্যাপক প্রতিযোগিতার সৃষ্টি করে শীর্ষ অবস্থানে চলে আসে প্রতিষ্ঠানটি।",
+        "details_en": "Jio Platforms is a subsidiary of Reliance Industries controlled by Asia is richest man Mukesh Ambani. Global tech giants Meta and Google made multibillion-dollar investments in the company in twenty-twenty. Since its inception, the company has heavily disrupted and reshaped the highly competitive Indian telecommunications market."
+      }
+    },
+    {
+      "story_id": "f5f40c06-3e27-54d4-8fb1-45b552fd990e",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
         "governance_law"
       ],
       "region": "international",
       "tags": [
-        "#IsraelElection",
-        "#MiddleEast"
+        "#ColoradoRiver",
+        "#WaterCrisis",
+        "#ClimatePolitics"
       ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ae46ad8197c-1793354456.jpg?resize=1920%2C1440",
+      "image_url": "https://insideclimatenews.org/wp-content/uploads/2026/10/GettyImages-2292827637-1024x683.jpg",
       "image_caption": null,
-      "published_at": "2026-10-30T10:50:21+00:00",
+      "published_at": "2026-10-31T09:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.369,
+      "rank_score": 0.2305,
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/10/30/how-can-israel-break-its-election-deadlock?traffic_source=rss",
-          "title": "How can Israel break its election deadlock?",
-          "snippet": "How can Israel break its election deadlock?"
+          "name": "Inside Climate News",
+          "url": "https://insideclimatenews.org/news/31102026/colorado-river-basin-gubernatorial-water-politics/",
+          "title": "Colorado River Basin Candidates Wade Into Water Politics, but Winners Are Unlikely to Make Big Changes",
+          "snippet": "Colorado River Basin Candidates Wade Into Water Politics, but Winners Are Unlikely to Make Big Changes"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইসরায়েলের সংসদ নির্বাচনে কোনো দল বা জোটের সংখ্যাগরিষ্ঠতা অর্জনে ব্যর্থতা",
-        "title_en": "Israel Election Ends Without Clear Majority for Any Bloc",
-        "summary_bn": "ইসরায়েলের সাধারণ নির্বাচনে কোনো পক্ষই এককভাবে সরকার গঠনের প্রয়োজনীয় সংখ্যাগরিষ্ঠতা অর্জন করতে পারেনি।",
-        "summary_en": "Israel faces a political deadlock after neither major political bloc secured the required parliamentary majority to form a government.",
+        "title_bn": "কলোরাডো নদীর পানিসংকট নির্বাচনে রাজনৈতিক অস্ত্র হলেও পরিবর্তনের সম্ভাবনা কম",
+        "title_en": "Colorado River Water Crisis Focuses Midterm Campaigns Despite Unlikely Policy Shifts",
+        "summary_bn": "কলোরাডো অববাহিকার গভর্নর প্রার্থীদের তীব্র রাজনৈতিক বিতর্কের কেন্দ্রবিন্দুতে রয়েছে পানির অধিকার ও সংকটের বিষয়।",
+        "summary_en": "Gubernatorial candidates across Colorado River Basin states clash over water management amid severe regional drought conditions.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
+          "climate_environment",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-30T10:50:21+00:00",
-        "lead_bn": "ইসরায়েলের সাধারণ নির্বাচনে কোনো পক্ষই এককভাবে সরকার গঠনের প্রয়োজনীয় সংখ্যাগরিষ্ঠতা অর্জন করতে পারেনি।",
-        "lead_en": "Israel faces a political deadlock after neither major political bloc secured the required parliamentary majority to form a government.",
+        "published_at": "2026-10-31T09:00:00+00:00",
+        "lead_bn": "কলোরাডো অববাহিকার গভর্নর প্রার্থীদের তীব্র রাজনৈতিক বিতর্কের কেন্দ্রবিন্দুতে রয়েছে পানির অধিকার ও সংকটের বিষয়।",
+        "lead_en": "Gubernatorial candidates across Colorado River Basin states clash over water management amid severe regional drought conditions.",
         "bullets_bn": [
-          "বেনিয়ামিন নেতানিয়াহুর ব্লকের ৫৩টি আসন এবং বিরোধী জোটের ৪৮টি আসন নিশ্চিত হয়েছে।",
-          "সরকার গঠনের জন্য ১২০ সদস্যবিশিষ্ট নেসেটে অন্তত ৬১টি আসনের সংখ্যাগরিষ্ঠতা প্রয়োজন।",
-          "দুই প্রধান রাজনৈতিক পক্ষই ফিলিস্তিনি নাগরিকদের প্রতিনিধিত্বকারী দলগুলোর সাথে কাজ করতে অস্বীকৃতি জানিয়েছে।"
+          "কলোরাডো নদী অববাহিকার ছয়টি অঙ্গরাজ্যের গভর্নর প্রার্থীরা পানি ব্যবস্থাপনা নিয়ে একে অপরকে দায়ী করেছেন।",
+          "নেভাদা ও অ্যারিজোনার প্রার্থীরা নদী ব্যবস্থাপনা এবং ফেডারেল মামলা নিয়ে রাজনৈতিক বিরোধে জড়িয়েছেন।",
+          "বিশেষজ্ঞদের মতে নির্বাচন পরবর্তী নেতৃত্ব পরিবর্তনের পরও নদীর পানি ব্যবস্থাপনার মৌলিক নীতিতে বড় কোনো পরিবর্তনের সম্ভাবনা নেই।"
         ],
         "bullets_en": [
-          "Netanyahu’s bloc secured 53 seats while the opposition coalition won 48 seats in the election.",
-          "Forming a government in the 120-member Knesset requires holding at least 61 seats.",
-          "Both major political factions have ruled out forming a coalition with parties representing Palestinian citizens."
+          "Gubernatorial candidates across six Colorado River Basin states spar over water management and shortage blame.",
+          "Nevada and Arizona candidates trade accusations regarding federal water lawsuits and botched negotiations.",
+          "Experts indicate that upcoming election outcomes are unlikely to alter long-term river management policies significantly."
         ],
-        "impact_bn": "ইসরায়েলের এই দীর্ঘমেয়াদী রাজনৈতিক অস্থিরতা মধ্যপ্রাচ্যের আঞ্চলিক ভূরাজনীতি এবং বৈদেশিক কূটনীতিতে অনিশ্চয়তা তৈরি করতে পারে।",
-        "impact_en": "The ongoing political instability and coalition struggles in Israel could significantly influence broader Middle Eastern diplomatic relations.",
-        "details_bn": "ইসরায়েলে দীর্ঘ দিন ধরে রাজনৈতিক অস্থিতিশীলতা চলছে এবং কোনো দল এককভাবে সংখ্যাগরিষ্ঠতা অর্জনে ব্যর্থ হওয়ায় বারবার জোট সরকার গঠন করতে হয়েছে। এবারের নির্বাচনেও কোনো পক্ষ একক সংখ্যাগরিষ্ঠতা না পাওয়ায় নতুন সরকার গঠন নিয়ে জটিলতা তৈরি হয়েছে।",
-        "details_en": "Israel has experienced recurrent political deadlocks requiring coalition governments due to fragmented parliamentary election outcomes. The latest election results further deepen the legislative crisis as neither the incumbent prime minister nor the opposition secured enough seats to govern independently."
-      }
-    },
-    {
-      "story_id": "6341c2e7-51fb-536a-851d-22b089113531",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "international",
-      "tags": [
-        "#Amazon",
-        "#BusinessGrowth"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-30T10:34:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.3322,
-      "sources": [
-        {
-          "name": "MarketWatch Economy",
-          "url": "https://www.marketwatch.com/story/heres-the-math-on-amazon-ceos-claim-to-be-on-path-to-two-trillion-dollar-revenue-businesses-34d648e8?mod=mw_rss_topstories",
-          "title": "Here’s the math on Amazon CEO’s claim to be on path to two trillion-dollar revenue businesses",
-          "snippet": "Here’s the math on Amazon CEO’s claim to be on path to two trillion-dollar revenue businesses"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "অ্যামাজন প্রধান দুই ট্রিলিয়ন ডলারের ব্যবসায়িক লক্ষ্য ঘোষণা করেছেন",
-        "title_en": "Amazon CEO Sets Target for Two Trillion Dollar Businesses",
-        "summary_bn": "অ্যামাজনের প্রধান নির্বাহী অ্যান্ডি জ্যাসি তৃতীয় প্রান্তিকের আয়ের প্রতিবেদনে কোম্পানিটিকে দুটি ট্রিলিয়ন ডলারের ব্যবসায় রূপান্তরের লক্ষ্য ঘোষণা করেছেন।",
-        "summary_en": "Amazon Chief Executive Andy Jassy announced a bold target to build two trillion-dollar revenue businesses during the third-quarter earnings call.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-30T10:34:00+00:00",
-        "lead_bn": "অ্যামাজনের প্রধান নির্বাহী অ্যান্ডি জ্যাসি তৃতীয় প্রান্তিকের আয়ের প্রতিবেদনে কোম্পানিটিকে দুটি ট্রিলিয়ন ডলারের ব্যবসায় রূপান্তরের লক্ষ্য ঘোষণা করেছেন।",
-        "lead_en": "Amazon Chief Executive Andy Jassy announced a bold target to build two trillion-dollar revenue businesses during the third-quarter earnings call.",
-        "bullets_bn": [
-          "অ্যামাজন প্রধান নির্বাহী তৃতীয় প্রান্তিকের আয়ের ঘোষণায় নতুন ব্যবসায়িক প্রবৃদ্ধির লক্ষ্য নির্ধারণ করেছেন",
-          "অ্যান্ডি জ্যাসি কোম্পানির সম্প্রসারণ পরিকল্পনা হিসেবে দুটি পৃথক ট্রিলিয়ন ডলারের ব্যবসার কথা উল্লেখ করেছেন",
-          "এই উচ্চাভিলাষী লক্ষ্য অর্জনে ক্লাউড কম্পিউটিং এবং বিজ্ঞাপন খাত প্রধান চালিকাশক্তি হিসেবে কাজ করবে"
-        ],
-        "bullets_en": [
-          "Amazon CEO outlined ambitious growth targets during the third-quarter earnings conference call",
-          "Andy Jassy highlighted plans to scale operations toward two distinct trillion-dollar revenue businesses",
-          "Cloud computing and digital advertising sectors are expected to drive this long-term corporate expansion"
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "অ্যামাজন বর্তমানে বিশ্বের অন্যতম বৃহৎ প্রযুক্তি ও ই-কমার্স প্রতিষ্ঠান হিসেবে কার্যক্রম পরিচালনা করছে। ক্লাউড কম্পিউটিং শাখা এডব্লিউএস এবং অনলাইন বিজ্ঞাপন খাত কোম্পানির আয়ের অন্যতম প্রধান উৎস। সাম্প্রতিক বছরগুলোতে বৈশ্বিক অর্থনৈতিক চ্যালেঞ্জের মধ্যেও প্রতিষ্ঠানটি নিজেদের ব্যবসায়িক পরিধি অব্যাহতভাবে বিস্তৃত করেছে এবং বিনিয়োগকারীদের আস্থার ওপর ভিত্তি করে নতুন প্রবৃদ্ধির ক্ষেত্র তৈরি করছে।",
-        "details_en": "Amazon operates as one of the world's largest technology and e-commerce conglomerates. Amazon Web Services and digital advertising remain primary revenue drivers. Despite recent global economic headwinds, the company continues to expand its enterprise footprint and scale infrastructure to support long-term revenue growth and maintain investor confidence."
+        "impact_bn": "নদী অববাহিকার লাখো বাসিন্দার সুপেয় পানি এবং কৃষি সেচ সরাসরি এই সংকটের রাজনীতির শিকার হচ্ছে।",
+        "impact_en": "Millions of residents and agricultural sectors in the basin face ongoing uncertainty over long-term water security.",
+        "details_bn": "কলোরাডো নদীর অতিরিক্ত ব্যবহার এবং দীর্ঘস্থায়ী খরার কারণে পানির প্রাপ্যতা এই অঞ্চলের অন্যতম বড় রাজনৈতিক ইস্যুতে পরিণত হয়েছে। মধ্যবর্তী নির্বাচনের প্রাক্কালে নেভাদা ও অ্যারিজোনাসহ বিভিন্ন অঙ্গরাজ্যের প্রার্থীরা জলবায়ু নীতি এবং ফেডারেল সরকারের সঙ্গে আইনি লড়াই নিয়ে বাকযুদ্ধে জড়িয়েছেন। তবে পরিবেশবিদদের মতে, রাজনৈতিক দল পরিবর্তনের পরও কাঠামোগত চ্যালেঞ্জগুলো অপরিবর্তিত থাকে।",
+        "details_en": "Persistent drought and historical overuse have turned the Colorado River into a major flashpoint during midterm elections across six basin states. While candidates frequently trade blame over water lawsuits and negotiation failures, environmental experts suggest that partisan leadership changes rarely produce systemic policy overhauls for the strained water system."
       }
     }
   ]
