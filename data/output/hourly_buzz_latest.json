@@ -1,70 +1,9 @@
 {
-  "updated_at": "2026-11-04T13:44:19.224968",
+  "updated_at": "2026-11-05T13:56:30.005314",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "b4b32fee-d53f-5ad0-a361-1ea5db750576",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-11-04T13:26:36+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.2,
-      "rank_score": 2.4385,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/lifestyle/978812/%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87-%E0%A6%A6%E0%A7%81%E2%80%99%E0%A6%9F%E0%A6%BF-%E0%A6%87%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%87-%E0%A6%95%E0%A6%AE%E0%A6%AC%E0%A7%87-%E0%A6%8F%E0%A6%87%E0%A6%9A%E0%A6%86%E0%A6%87%E0%A6%AD%E0%A6%BF%E0%A6%B0-%E0%A6%9D%E0%A7%81%E0%A6%81%E0%A6%95%E0%A6%BF-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%AE%E0%A7%8B%E0%A6%A6%E0%A6%A8",
-          "title": "বছরে দু’টি ইঞ্জেকশনেই কমবে এইচআইভির ঝুঁকি! অনুমোদন পেলো নতুন ওষুধ",
-          "snippet": "বছরে দু’টি ইঞ্জেকশনেই কমবে এইচআইভির ঝুঁকি! অনুমোদন পেলো নতুন ওষুধ"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/how-indias-stock-market-could-be-affected-by-the-results-of-the-us-midterm-elections/",
-          "title": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচনের ফলাফলে কীভাবে প্রভাবিত হতে পারে ভারতের শেয়ারবাজার",
-          "snippet": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচনের ফলাফলে কীভাবে প্রভাবিত হতে পারে ভারতের শেয়ারবাজার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "এইচআইভি প্রতিরোধের নতুন ওষুধ লেনাক্যাপাভির পেল এফডিএ-র প্রাথমিক অনুমোদন",
-        "title_en": "New HIV Prevention Drug Lenacapavir Receives FDA Preliminary Approval",
-        "summary_bn": "যুক্তরাষ্ট্রের খাদ্য ও ওষুধ নিয়ন্ত্রক সংস্থা এইচআইভি সংক্রমণের ঝুঁকি কমাতে বছরে দুবার নেওয়ার নতুন জেনেরিক ইঞ্জেকশনের প্রাথমিক অনুমোদন দিয়েছে।",
-        "summary_en": "US health regulators have granted preliminary approval to a new twice-yearly injectable drug to lower HIV infection risks.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-04T13:26:36+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের খাদ্য ও ওষুধ নিয়ন্ত্রক সংস্থা এইচআইভি সংক্রমণের ঝুঁকি কমাতে বছরে দুবার নেওয়ার নতুন জেনেরিক ইঞ্জেকশনের প্রাথমিক অনুমোদন দিয়েছে।",
-        "lead_en": "US health regulators have granted preliminary approval to a new twice-yearly injectable drug to lower HIV infection risks.",
-        "bullets_bn": [
-          "ভারতের ওষুধ প্রস্তুতকারী সংস্থা ডক্টর রেড্ডিজ ল্যাবরেটরিজ নতুন এই জেনেরিক ইঞ্জেকশন তৈরি করেছে।",
-          "যুক্তরাষ্ট্রের খাদ্য ও ওষুধ নিয়ন্ত্রক সংস্থা এফডিএ এই ওষুধটির প্রাথমিক অনুমোদন প্রদান করেছে।",
-          "নতুন এই ওষুধটি ব্যবহারের মাধ্যমে রোগীরা বছরে মাত্র দুইবার ইঞ্জেকশন নেওয়ার সুযোগ পাবেন।"
-        ],
-        "bullets_en": [
-          "Indian pharmaceutical company Dr. Reddy's Laboratories developed the new generic injectable drug.",
-          "The US Food and Drug Administration granted preliminary approval for the medication.",
-          "Patients will be able to receive the injection biannually to prevent HIV transmission."
-        ],
-        "impact_bn": "প্রতিদিনের ওষুধ সেবনের ঝামেলা এড়িয়ে এইচআইভি ঝুঁকি কমাতে এই ওষুধ রোগীদের জীবনযাত্রায় স্বস্তি আনবে।",
-        "impact_en": "The twice-yearly injection reduces daily medication burdens, significantly improving preventative care access for patients.",
-        "details_bn": "এইচআইভি প্রতিরোধে দীর্ঘদিন ধরে নিয়মিত বড়ি বা ওষুধ খাওয়ার প্রচলিত নিয়ম রয়েছে। ডক্টর রেড্ডিজ ল্যাবরেটরিজের তৈরি লেনাক্যাপাভির নামের এই নতুন জেনেরিক ইঞ্জেকশনটি সেই ঝামেলা দূর করতে সাহায্য করবে। এফডিএর প্রাথমিক অনুমোদন পাওয়ার পর ওষুধটির বাণিজ্যিক উৎপাদন ও ব্যবহারের পথ আরও সুগম হলো, যা বিশ্বজুড়ে স্বাস্থ্যখাতে বড় ধরনের পরিবর্তন আনতে পারে।",
-        "details_en": "Traditional HIV prevention typically requires daily oral medication adherence, which can be challenging for patients. The newly approved generic injection developed by Dr. Reddy's Laboratories offers a biannual alternative, potentially transforming global prevention strategies and patient compliance once fully commercialized."
-      }
-    },
-    {
-      "story_id": "5a2e55aa-dc71-5166-bbad-f436d6c44bdd",
+      "story_id": "c7e01a8b-c7e3-5d11-bafc-5fb27ab82b1b",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -74,287 +13,338 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2024-12-10%2Fnq71ymur%2F10122024-cm-5.jpg?rect=0%2C164%2C1235%2C648&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.channelionline.com/2026/11/mojuri-pm.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-11-04T13:17:33+00:00",
+      "published_at": "2026-11-05T13:24:47+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 2.0581,
+      "rank_score": 1.9712,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/opinion/column/2kh9llxyq8",
-          "title": "সংবিধান নিয়ে রাজনীতি, কিন্তু সংবিধান দিবস নিয়ে নীরবতা কেন?",
-          "snippet": "সংবিধান নিয়ে রাজনীতি, কিন্তু সংবিধান দিবস নিয়ে নীরবতা কেন?"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/minimum-wage-for-workers-will-be-set-within-a-month-or-two-prime-minister/",
+          "title": "দু-এক মাসের মধ্যে শ্রমিকদের সর্বনিম্ন মজুরি নির্ধারণ করা হবে: প্রধানমন্ত্রী",
+          "snippet": "দু-এক মাসের মধ্যে শ্রমিকদের সর্বনিম্ন মজুরি নির্ধারণ করা হবে: প্রধানমন্ত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাংলাদেশের রাজনীতিতে সংবিধানের গুরুত্ব থাকলেও দিবস পালনে রয়েছে দীর্ঘদিনের অবহেলা",
-        "title_en": "Constitution remains central to Bangladesh politics despite state neglect of Constitution Day",
-        "summary_bn": "বাংলাদেশের রাজনীতিতে সংবিধান নিয়ে তীব্র বিতর্ক থাকলেও এর জন্মদিবস রাষ্ট্রীয় স্বীকৃতি পেতে দীর্ঘ অর্ধশতাব্দী সময় নেয়।",
-        "summary_en": "Bangladesh politics centers heavily on the constitution, yet securing state recognition for its adoption anniversary took five decades.",
+        "title_bn": "দুই মাসের মধ্যে শ্রমিকদের নতুন সর্বনিম্ন মজুরি নির্ধারণ করা হবে: প্রধানমন্ত্রী",
+        "title_en": "Prime Minister Announces New Minimum Wage for Workers Within Two Months",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান জানিয়েছেন নবগঠিত মজুরি বোর্ড আগামী দুই মাসের মধ্যে শ্রমিকদের নতুন সর্বনিম্ন মজুরি চূড়ান্ত করবে।",
+        "summary_en": "Prime Minister Tarique Rahman announced that the newly formed Wage Board will determine a new minimum wage for workers within two months.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-04T13:17:33+00:00",
-        "lead_bn": "বাংলাদেশের রাজনীতিতে সংবিধান নিয়ে তীব্র বিতর্ক থাকলেও এর জন্মদিবস রাষ্ট্রীয় স্বীকৃতি পেতে দীর্ঘ অর্ধশতাব্দী সময় নেয়।",
-        "lead_en": "Bangladesh politics centers heavily on the constitution, yet securing state recognition for its adoption anniversary took five decades.",
+        "published_at": "2026-11-05T13:24:47+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান জানিয়েছেন নবগঠিত মজুরি বোর্ড আগামী দুই মাসের মধ্যে শ্রমিকদের নতুন সর্বনিম্ন মজুরি চূড়ান্ত করবে।",
+        "lead_en": "Prime Minister Tarique Rahman announced that the newly formed Wage Board will determine a new minimum wage for workers within two months.",
         "bullets_bn": [
-          "রাজনৈতিক দলগুলো নিজেদের ক্ষমতা ও বৈধতা প্রমাণে সংবিধানকে হাতিয়ার হিসেবে ব্যবহার করে আসছে।",
-          "সালের চার নভেম্বর গণপরিষদ সংবিধান গ্রহণ করলেও ২০২২ সালে এটি সরকারি স্বীকৃতি পায়।",
-          "সংবিধানকে রাজনৈতিক দ্বন্দ্বের ঊর্ধ্বে রেখে নাগরিকদের অধিকার রক্ষায় সাংবিধানিক সংস্কৃতি গড়ে তুলতে হবে।"
+          "প্রধানমন্ত্রী তারেক রহমান জানান শ্রমিকদের ন্যূনতম বেতন পুনর্নির্ধারণে গঠিত মজুরি বোর্ড ইতোমধ্যে কাজ শুরু করেছে।",
+          "আগামী এক থেকে দুই মাসের মধ্যে শ্রমিকদের নতুন সর্বনিম্ন মজুরি কাঠামো আনুষ্ঠানিকভাবে চূড়ান্ত করা হবে।",
+          "শিল্পখাতে সহিংসতা ও কারখানা ভাঙচুরের পেছনে উসকানিদাতাদের বিরুদ্ধে কঠোর ব্যবস্থা নেওয়ার হুঁশিয়ারি দিয়েছেন প্রধানমন্ত্রী।"
         ],
         "bullets_en": [
-          "Political parties frequently use the constitution as a tool to establish authority and mutual legitimacy.",
-          "The Constituent Assembly adopted the charter on November 4, 1972, but official recognition arrived only in 2022.",
-          "Building a true constitutional culture requires treating the charter above partisan conflicts to protect citizen rights."
+          "Prime Minister Tarique Rahman announced that the newly formed Wage Board has already begun working on pay revisions.",
+          "The official minimum wage standard for industrial workers will be finalized within one to two months.",
+          "The Prime Minister warned against factory vandalism and promised firm action against external elements inciting industrial unrest."
         ],
-        "impact_bn": "সংবিধানের সঠিক প্রয়োগ না হওয়ায় সাধারণ নাগরিকরা ক্ষমতার অপব্যবহার ও অধিকার সুরক্ষা নিয়ে অনিশ্চয়তার মুখে পড়েন।",
-        "impact_en": "Ordinary citizens face ongoing uncertainties regarding rights protection and state overreach due to partisan manipulation of foundational laws.",
-        "details_bn": "সালের ১৬ ডিসেম্বর কার্যকর হওয়া বাংলাদেশের সংবিধান রাষ্ট্র পরিচালনার মূল দলিল হলেও দীর্ঘদিন এটি রাজনৈতিক ক্ষমতার বৈধতা বা বিরোধিতার হাতিয়ার হিসেবে ব্যবহৃত হয়েছে। দলীয় স্বার্থে এর বিভিন্ন ব্যাখ্যা ও সংশোধনী আনা হয়। ফলে রাষ্ট্র পরিচালনার অভিন্ন ভিত্তি হিসেবে সংবিধান দিবসটি দীর্ঘ সময় ধরে জাতীয় আত্মপরিচয়ের অবিচ্ছেদ্য অংশ হয়ে উঠতে পারেনি, যা দেশের সামগ্রিক সাংবিধানিক সংস্কৃতিকে প্রশ্নবিদ্ধ করে.",
-        "details_en": "Enacted on December 16, 1972, the constitution defines state governance but has frequently served as a partisan tool for legitimacy or confrontation. Successive regimes modified and interpreted it to suit political agendas rather than establishing an unyielding baseline for governance. This historical politicization delayed state recognition of Constitution Day until 2022, underscoring a persistent paradox where constitutional politics thrives while foundational institutional culture remains neglected."
+        "impact_bn": "শিল্প ও পোশাক খাতের শ্রমিকেরা তাদের জীবনযাত্রার মান মানানসই করতে নতুন সর্বনিম্ন মজুরি পেতে যাচ্ছেন।",
+        "impact_en": "Industrial and garment workers can expect an officially revised minimum wage structure aimed at improving their living conditions.",
+        "details_bn": "ঢাকার শিল্পাঞ্চলগুলোতে শ্রমিক অসন্তোষের প্রেক্ষাপটে সরকার মজুরি পর্যালোচনার সিদ্ধান্ত নেয়। বাগেরহাটের এক পথসভায় প্রধানমন্ত্রী বলেন, শ্রমিকদের জীবনমান উন্নয়ন ও শিল্প প্রসারে সরকার নিরলস কাজ করছে। তবে কিছু স্বার্থান্বেষী মহল শ্রম আন্দোলনের নামে বিভিন্ন কারখানায় ভাঙচুর চালিয়ে ক্ষয়ক্ষতি করছে। দেশের শিল্প খাত সুরক্ষায় ষড়যন্ত্রকারীদের উপযুক্ত জবাব দেওয়ার প্রত্যয় ব্যক্ত করেন তিনি।",
+        "details_en": "Recent labor unrest in key industrial hubs around Dhaka prompted government intervention to review wage structures. Speaking at a public gathering in Bagerhat, the Prime Minister stressed that the administration is committed to upgrading workers' living standards while driving industrial growth. However, he noted that miscreants are taking advantage of labor demands to vandalize factory machinery and property, assuring that strict actions will be taken against such perpetrators to protect the national industry."
       }
     },
     {
-      "story_id": "3c5d8ee2-820a-5e5b-991e-39db35538e2e",
-      "primary_category": "governance_law",
+      "story_id": "1099b2b1-9177-58f2-bd07-1b1ae76e0672",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "governance_law",
-        "world_diplomacy"
+        "economy_business",
+        "climate_environment"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Economy",
+        "#Finance"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-11-04T13:34:06+00:00",
+      "published_at": "2026-11-05T13:44:02+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.7482,
+      "rank_score": 1.7096,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1175672",
-          "title": "নতুন এনআইডি পেয়েই প্রবাসীর চোখ ছানাবড়া, তার নামে ১৮ সিম তুলল কে?",
-          "snippet": "নতুন এনআইডি পেয়েই প্রবাসীর চোখ ছানাবড়া, তার নামে ১৮ সিম তুলল কে?"
+          "url": "https://www.jagonews24.com/country/news/1176092",
+          "title": "ভোলা থেকে মিয়ানমারে পাচারের সময় বিপুল পরিমাণ সারসহ আটক ৮",
+          "snippet": "ভোলা থেকে মিয়ানমারে পাচারের সময় বিপুল পরিমাণ সারসহ আটক ৮"
         }
       ],
       "daily_buzz": {
-        "title_bn": "প্রবাসীর এনআইডি ব্যবহার করে অবৈধভাবে ১৮টি সিম নিবন্ধনের অভিযোগ",
-        "title_en": "Eighteen SIM Cards Illegally Registered Using Expatriate's NID",
-        "summary_bn": "সৌদি আরব থেকে দেশে ফিরে জাতীয় পরিচয়পত্র তোলার পর এক প্রবাসী জানতে পারেন তার নামে অবৈধভাবে ১৮টি সিম নিবন্ধিত হয়েছে।",
-        "summary_en": "An expatriate returning from Saudi Arabia discovered that eighteen mobile SIM cards were illegally registered using his newly issued national identity card.",
+        "title_bn": "ভোলায় মিয়ানমারে পাচারের সময় ২৪ হাজার কেজি ইউরিয়া সার জব্দসহ আটক আট",
+        "title_en": "Coast Guard Seizes 24 Metric Tons of Urea Fertilizer Bound for Myanmar",
+        "summary_bn": "কোস্টগার্ড ভোলার তেঁতুলিয়া নদী থেকে মিয়ানমারে পাচারকালে ২৪ হাজার ৬০০ কেজি ইউরিয়া সারসহ আটজনকে আটক করেছে।",
+        "summary_en": "The Coast Guard detained eight individuals and seized 24600 kg of urea fertilizer from the Tentulia River.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "world_diplomacy"
+          "economy_business",
+          "climate_environment"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-04T13:34:06+00:00",
-        "lead_bn": "সৌদি আরব থেকে দেশে ফিরে জাতীয় পরিচয়পত্র তোলার পর এক প্রবাসী জানতে পারেন তার নামে অবৈধভাবে ১৮টি সিম নিবন্ধিত হয়েছে।",
-        "lead_en": "An expatriate returning from Saudi Arabia discovered that eighteen mobile SIM cards were illegally registered using his newly issued national identity card.",
+        "published_at": "2026-11-05T13:44:02+00:00",
+        "lead_bn": "কোস্টগার্ড ভোলার তেঁতুলিয়া নদী থেকে মিয়ানমারে পাচারকালে ২৪ হাজার ৬০০ কেজি ইউরিয়া সারসহ আটজনকে আটক করেছে।",
+        "lead_en": "The Coast Guard detained eight individuals and seized 24600 kg of urea fertilizer from the Tentulia River.",
         "bullets_bn": [
-          "আব্দুল মালেক নামের এক প্রবাসী নিজের নামে একটি মাত্র সিম তুলতে গিয়ে তার বিপরীতে অতিরিক্ত ১৮টি সিম নিবন্ধিত থাকার বিষয়টি জানতে পারেন।",
-          "অভিযুক্ত ব্যক্তির অজান্তেই ব্যক্তিগত তথ্য জালিয়াতি করে মোবাইল অপারেটরদের মাধ্যমে এই সিমগুলো তোলা হয়েছে বলে অভিযোগ উঠেছে।",
-          "ভুক্তভোগী প্রবাসী এ ঘটনায় আইনি প্রতিকার চেয়ে সংশ্লিষ্ট কর্তৃপক্ষের কাছে অভিযোগ দাখিলের প্রস্তুতি নিচ্ছেন।"
+          "কোস্টগার্ডের অভিযানে তেঁতুলিয়া নদী থেকে সার পাচারের সময় একটি বোট জব্দ করা হয়",
+          "অভিযানে ২৪ হাজার ৬০০ কেজি ইউরিয়া সার এবং পাচারের সাথে জড়িত আটজনকে আটক করা হয়েছে",
+          "জব্দকৃত সার এবং আটক ব্যক্তিদের বিরুদ্ধে আইনি ব্যবস্থা গ্রহণের প্রক্রিয়া চলছে"
         ],
         "bullets_en": [
-          "An expatriate named Abdul Malek discovered eighteen unauthorized SIM cards registered against his name while attempting to purchase a single new connection.",
-          "The extra SIM cards were reportedly registered through fraudulent use of his personal identity details without his knowledge or consent.",
-          "The victim is preparing to file a formal complaint with relevant authorities seeking legal remedy and security measures."
+          "The Coast Guard intercepted a boat smuggling fertilizer in the Tentulia River.",
+          "Officers confiscated 24600 kilograms of urea fertilizer and detained eight suspects.",
+          "Legal procedures are underway against the apprehended individuals and the seized goods."
         ],
-        "impact_bn": "জাতীয় পরিচয়পত্র জালিয়াতির মাধ্যমে এভাবে অবৈধ সিম নিবন্ধন সাধারণ নাগরিকদের মারাত্মক আইনি ও সামাজিক ঝুঁকির মধ্যে ফেলছে।",
-        "impact_en": "Illegal SIM registration through identity theft puts ordinary citizens at severe risk of legal liability and security threats.",
-        "details_bn": "জাতীয় পরিচয়পত্র তৈরি বা হালনাগাদ করার সময় জালিয়াতি চক্র অনেক সময় সাধারণ মানুষের ব্যক্তিগত তথ্য হাতিয়ে নেয়। বায়োমেট্রিক নিবন্ধনের ত্রুটি এবং কতিপয় অসাধু সিম বিক্রেতার যোগসাজশে এই ধরনের অপরাধমূলক কর্মকাণ্ড সংঘটিত হয়। সাম্প্রতিক সময়ে প্রবাসীরা দেশে ফিরে এই ধরনের প্রতারণার শিকার হওয়ার অনেক অভিযোগ সামনে আসছে, যা ডিজিটাল নিরাপত্তা ও পরিচয়পত্রের সুরক্ষার প্রশ্ন তুলেছে।",
-        "details_en": "Fraud rings often exploit security loopholes during the issuance or updating of national identity cards to steal personal information. Such illegal activities usually occur through compromised biometric registration processes and dishonest SIM vendors. Recently, returning expatriates have increasingly reported falling victim to identity theft, raising serious concerns regarding digital security and citizen privacy."
+        "impact_bn": "সার পাচার রোধ হওয়ায় স্থানীয় বাজারে কৃষি উপকুলের সরবরাহ স্বাভাবিক রাখতে সহায়তা করবে।",
+        "impact_en": "Preventing fertilizer smuggling helps stabilize agricultural input supplies for local farmers.",
+        "details_bn": "ভোটার উপকূলীয় অঞ্চলে দীর্ঘদিন ধরে সিন্ডিকেট চক্র সরকারি ভর্তুকিপ্রাপ্ত সার নদীপথে অবৈধভাবে পার্শ্ববর্তী দেশে পাচার করে আসছে। এই চক্রগুলো দেশের অভ্যন্তরীণ সারের বাজার অস্থিতিশীল করার চেষ্টা চালিয়ে যায়। আইনশৃঙ্খলা রক্ষাকারী বাহিনী সম্প্রতি এ ধরনের চোরাচালান রোধে নজরদারি ও নদীবন্দরে নিরাপত্তা তল্লাশি জোরদার করেছে।",
+        "details_en": "Smuggling syndicates have historically attempted to divert subsidized agricultural inputs across maritime and riverine borders to neighbouring countries, destabilizing domestic supplies. Law enforcement agencies have intensified river patrols and surveillance to curb illegal trafficking operations in coastal zones."
       }
     },
     {
-      "story_id": "9f85f4f3-e344-584e-93c1-8b57f816caba",
-      "primary_category": "climate_environment",
+      "story_id": "cd5f682d-1ce3-5095-a64f-ec20816e0883",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "climate_environment",
-        "governance_law",
         "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#Climate",
-        "#Environment"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://media.channelionline.com/2026/11/Untitled-6-1.jpg?w=1200",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-11-04T12:38:01+00:00",
+      "published_at": "2026-11-05T13:38:12+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 1.5102,
+      "importance_score": 4.8,
+      "rank_score": 1.6166,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/the-prime-ministers-long-standing-solar-power-plan-has-been-implemented-at-the-individual-institutional-and-industrial-levels-mahdi-amin/",
-          "title": "‘প্রধানমন্ত্রীর সৌরবিদ্যুৎ পরিকল্পনা ব্যক্তিগত, প্রাতিষ্ঠানিক ও শিল্প পর্যায়ে বাস্তবায়িত হচ্ছে’",
-          "snippet": "‘প্রধানমন্ত্রীর সৌরবিদ্যুৎ পরিকল্পনা ব্যক্তিগত, প্রাতিষ্ঠানিক ও শিল্প পর্যায়ে বাস্তবায়িত হচ্ছে’"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1176089",
+          "title": "ইউরোপজুড়ে ফের উড়োজাহাজে বোমা হামলার হুমকি, ব্যাহত একাধিক ফ্লাইট",
+          "snippet": "ইউরোপজুড়ে ফের উড়োজাহাজে বোমা হামলার হুমকি, ব্যাহত একাধিক ফ্লাইট"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ব্যক্তিগত ও শিল্প পর্যায়ে সৌরবিদ্যুৎ প্যানেল স্থাপনে সব ধরনের সহায়তা দেবে সরকার",
-        "title_en": "Government to support rooftop solar panel installation across all sectors",
-        "summary_bn": "ক্ষমতাসীনেরা সক্ষমতা অনুযায়ী ব্যক্তিগত ভবন, প্রতিষ্ঠান ও শিল্প কারখানায় সৌরবিদ্যুৎ প্যানেল স্থাপনে সব ধরনের সরকারি সহযোগিতার ঘোষণা দিয়েছেন।",
-        "summary_en": "The government announced comprehensive support for installing rooftop solar panels across residential, institutional, and industrial buildings based on capacity.",
+        "title_bn": "ইউরোপজুড়ে উড়োজাহাজে নতুন করে বোমা হামলার হুমকি",
+        "title_en": "New Bomb Threats Issued Against Flights Across Europe",
+        "summary_bn": "ইউরোপের বিভিন্ন দেশে একাধিক উড়োজাহাজে বোমা হামলার হুমকি আসায় বিমান চলাচল ব্যাহত হয়েছে।",
+        "summary_en": "Multiple European flights face severe disruptions following a new wave of bomb threats.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "climate_environment",
-          "governance_law",
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-04T12:38:01+00:00",
-        "lead_bn": "ক্ষমতাসীনেরা সক্ষমতা অনুযায়ী ব্যক্তিগত ভবন, প্রতিষ্ঠান ও শিল্প কারখানায় সৌরবিদ্যুৎ প্যানেল স্থাপনে সব ধরনের সরকারি সহযোগিতার ঘোষণা দিয়েছেন।",
-        "lead_en": "The government announced comprehensive support for installing rooftop solar panels across residential, institutional, and industrial buildings based on capacity.",
+        "published_at": "2026-11-05T13:38:12+00:00",
+        "lead_bn": "ইউরোপের বিভিন্ন দেশে একাধিক উড়োজাহাজে বোমা হামলার হুমকি আসায় বিমান চলাচল ব্যাহত হয়েছে।",
+        "lead_en": "Multiple European flights face severe disruptions following a new wave of bomb threats.",
         "bullets_bn": [
-          "সক্ষমতা ও সামর্থ্য বিবেচনা করে ফিজিবিলিটি স্টাডির মাধ্যমে সৌরবিদ্যুৎ প্যানেল স্থাপনে সহায়তা দেওয়া হবে",
-          "জ্বালানি ও বিদ্যুৎ খাতে স্বনির্ভরতা অর্জনে সৌরশক্তিকে সর্বোচ্চ অগ্রাধিকার দেওয়ার কথা জানিয়েছেন সরকারি উপদেষ্টা মাহ্দী আমিন",
-          "নবায়নযোগ্য ও পরিবেশবান্ধব জ্বালানি নিশ্চিত করতে বর্জ্য থেকে বিদ্যুৎ উৎপাদনসহ নানা বহুমুখী পরিকল্পনা নেওয়া হয়েছে"
+          "হুমকি পাওয়ার পর বেশ কয়েকটি উড়োজাহাজকে জরুরি ভিত্তিতে বিকল্প বিমানবন্দর ও সামরিক ঘাঁটিতে অবতরণ করানো হয়েছে।",
+          "নিরাপত্তা নিশ্চিত করতে কিছু কিছু বিমানকে আকাশে যুদ্ধবিমানের পাহারায় গন্তব্যে নেওয়া হয়।",
+          "সংশ্লিষ্ট কর্তৃপক্ষ ঘটনার তদন্ত শুরু করেছে এবং ইউরোপীয় আকাশসীমায় নিরাপত্তা জোরদার করা হয়েছে।"
         ],
         "bullets_en": [
-          "Government will provide support for solar panels through feasibility studies considering capacity and affordability",
-          "Adviser Mahdi Amin stated that solar energy is prioritized to achieve self-reliance in the power sector",
-          "Multifunctional plans including waste-to-electricity projects are adopted to ensure renewable energy"
+          "Several aircraft were diverted to alternative airports and military bases following the security alerts.",
+          "Fighter jets escorted specific vulnerable flights to ensure safety during the emergency maneuvers.",
+          "Aviation authorities launched comprehensive investigations while security measures were heightened across European airspace."
         ],
-        "impact_bn": "ভবনগুলোতে সৌরবিদ্যুৎ চালুর মাধ্যমে সাধারণ নাগরিক ও শিল্পখাত দীর্ঘমেয়াদে সাশ্রয়ী ও পরিবেশবান্ধব জ্বালানির সুবিধা পাবে।",
-        "impact_en": "Citizens and industries will benefit from cost-effective and eco-friendly energy through rooftop solar installations.",
-        "details_bn": "প্রধানমন্ত্রী তারেক রহমানের দীর্ঘদিনের পরিকল্পনা অনুযায়ী দেশের জ্বালানি খাতে স্বনির্ভরতা অর্জনে নবায়নযোগ্য শক্তির ওপর জোর দেওয়া হচ্ছে। দুই দশকেরও বেশি সময় আগে বিএনপি সরকারের আমলেও পরিবেশবান্ধব শক্তির প্রসারে নীতিগত উদ্যোগ নেওয়া হয়েছিল। বর্তমান সরকার রাষ্ট্র পরিচালনার দায়িত্ব পাওয়ার পর সেই দূরদর্শী ভাবনা জাতীয় নীতিমালায় প্রতিফলিত হচ্ছে এবং বর্জ্য থেকে বিদ্যুৎ উৎপাদনের পাশাপাশি ভৌগোলিক সম্ভাবনা কাজে লাগানোর উদ্যোগ নেওয়া হয়েছে।",
-        "details_en": "Renewable energy is being emphasized to achieve self-reliance in the energy sector under the long-standing vision of Prime Minister Tarique Rahman. Policy initiatives for eco-friendly power were taken even during the BNP administration over two decades ago. The current government is implementing this vision through national policies, focusing on solar potential and waste-to-energy projects."
+        "impact_bn": "উড়োজাহাজ চলাচলে বিঘ্ন ঘটায় যাত্রীদের ভ্রমণ বিলম্বিত হয়েছে এবং বিমানবন্দরগুলোতে সাময়িক ভোগান্তি তৈরি হয়েছে।",
+        "impact_en": "Flight delays and diversions caused widespread travel disruptions and temporary anxiety for passengers across Europe.",
+        "details_bn": "সাম্প্রতিক বছরগুলোতে ইউরোপের বিভিন্ন দেশের বিমানবন্দর ও উড়োজাহাজে ভুয়া বোমা হামলার হুমকি বা সাইবার হামলার প্রবণতা বেড়েছে। এর ফলে আন্তর্জাতিক রুটে চলাচলকারী যাত্রীদের সুরক্ষায় প্রতিটি হুমকিকে সর্বোচ্চ গুরুত্ব দিয়ে মোকাবিলা করছে আইনশৃঙ্খলা রক্ষাকারী বাহিনী ও বিমান চলাচল কর্তৃপক্ষ।",
+        "details_en": "European transport networks have frequently faced hoax bomb threats and security alerts in recent years. Aviation security agencies treat every warning with extreme caution, often requiring emergency diversions and military escorts to protect civilian passengers and maintain airspace security."
       }
     },
     {
-      "story_id": "d8f8b858-da18-5adb-b2f6-1f47e26f0ba7",
-      "primary_category": "world_diplomacy",
+      "story_id": "22918942-bba8-560f-8d74-18b26e08647e",
+      "primary_category": "society_education",
       "interest_categories": [
-        "world_diplomacy",
-        "governance_law",
-        "society_education"
+        "society_education",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#AIUB",
+        "#QSSummit",
+        "#HigherEducation",
+        "#Bangladesh"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-11-05T13:36:15+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.5875,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/education/423815/aiub-participates-in-qs-higher-ed-summit-in",
+          "title": "AIUB participates in QS Higher Ed Summit in Indonesia",
+          "snippet": "AIUB participates in QS Higher Ed Summit in Indonesia"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "শিক্ষাগত অংশীদারিত্ব বাড়াতে ইন্দোনেশিয়ায় কিউএস সামিটে এআইইউবি-র অংশগ্রহণ",
+        "title_en": "AIUB Participates in QS Higher Ed Summit in Indonesia for Academic Partnerships",
+        "summary_bn": "আন্তর্জাতিক শিক্ষাগত অংশীদারিত্ব বৃদ্ধির লক্ষ্যে ইন্দোনেশিয়ায় আয়োজিত কিউএস হায়ার এডুকেশন সামিটে অংশগ্রহণ করেছে এআইইউবি।",
+        "summary_en": "American International University-Bangladesh participated in the QS Higher Ed Summit in Indonesia to discuss international academic partnerships.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-05T13:36:15+00:00",
+        "lead_bn": "আন্তর্জাতিক শিক্ষাগত অংশীদারিত্ব বৃদ্ধির লক্ষ্যে ইন্দোনেশিয়ায় আয়োজিত কিউএস হায়ার এডুকেশন সামিটে অংশগ্রহণ করেছে এআইইউবি।",
+        "lead_en": "American International University-Bangladesh participated in the QS Higher Ed Summit in Indonesia to discuss international academic partnerships.",
+        "bullets_bn": [
+          "আন্তর্জাতিক সহযোগিতা বাড়াতে ইন্দোনেশিয়ায় আয়োজিত কিউএস হায়ার এডুকেশন সামিটে এআইইউবি প্রতিনিধিদল যোগ দিয়েছে।",
+          "বৈঠকে বিশ্বব্যাপী একাডেমিক অংশীদারিত্ব এবং বাংলাদেশে একটি আসন্ন কিউএস ইভেন্টের প্রস্তুতি নিয়ে আলোচনা হয়।",
+          "এই উদ্যোগের ফলে বাংলাদেশের উচ্চশিক্ষায় বৈশ্বিক সুযোগ ও আন্তর্জাতিক মেলবন্ধন আরও প্রসারিত হবে।"
+        ],
+        "bullets_en": [
+          "An AIUB delegation attended the QS Higher Ed Summit in Indonesia to enhance international academic collaboration.",
+          "Discussions focused on fostering global partnerships and preparing for an upcoming QS event in Bangladesh.",
+          "The initiative aims to expand international exposure and networking opportunities for Bangladeshi higher education."
+        ],
+        "impact_bn": "শিক্ষার্থীরা আন্তর্জাতিক শিক্ষাগত অংশীদারিত্ব এবং উচ্চশিক্ষার বৈশ্বিক সুযোগের সুবিধা পেতে পারে।",
+        "impact_en": "Students may gain access to broader international academic partnerships and global higher education opportunities.",
+        "details_bn": "কিউএস হায়ার এডুকেশন সামিট বিশ্বজুড়ে বিশ্ববিদ্যালয়ের প্রতিনিধি ও নীতি নির্ধারকদের একত্রিত করে একাডেমিক সহযোগিতা ও প্রাতিষ্ঠানিক উন্নয়ন ত্বরান্বিত করতে কাজ করে। এতে এআইইউবি-র অংশগ্রহণ আন্তর্জাতিক পরিমণ্ডলে বাংলাদেশের অবস্থান জোরদার করার প্রতিশ্রুতি তুলে ধরে। সম্মেলন চলাকালে প্রতিনিধি দলটি বাংলাদেশে একটি নতুন কিউএস ইভেন্ট ও ভবিষ্যৎ শিক্ষা বিনিময় কর্মসূচি নিয়ে আলোচনা করে।",
+        "details_en": "The QS Higher Ed Summit brings together leaders and representatives from global universities to foster academic cooperation, innovation, and institutional growth. AIUB's participation highlights its commitment to building global networks and elevating Bangladesh's presence in international higher education. During the summit, the university delegation engaged in key discussions regarding upcoming events and future academic exchange programs."
+      }
+    },
+    {
+      "story_id": "7d727fdc-c56f-554c-bee3-80411b48c241",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
       ],
       "region": "international",
       "tags": [
-        "#IsraelElection",
-        "#BenjaminNetanyahu"
+        "#InterestRates",
+        "#BankOfEngland",
+        "#UKEconomy",
+        "#Inflation"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/288a15e92c7bafcb3600eb1b2d8e20cc71573794/291_0_3027_2421/master/3027.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f0e1da9a3d5e8d3ae6e7858cca5ff918",
+      "image_url": "https://i.guim.co.uk/img/media/60308561c80255ccbb0d5174dd7aadb14404b385/683_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=66712ae13697dcf5d88de0157bd9044d",
       "image_caption": null,
-      "published_at": "2026-11-04T12:19:18+00:00",
+      "published_at": "2026-11-05T13:10:44+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.84,
-      "rank_score": 1.1801,
+      "importance_score": 5.31,
+      "rank_score": 1.4138,
       "sources": [
         {
           "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud",
-          "title": "Israel’s election commission rejects Netanyahu claims of voting fraud",
-          "snippet": "Israel’s election commission rejects Netanyahu claims of voting fraud"
+          "url": "https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous",
+          "title": "Interest rate rise in midst of cost of living crisis will leave many incredulous",
+          "snippet": "Interest rate rise in midst of cost of living crisis will leave many incredulous"
         },
         {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/israel-election-commission-rejects-benjamin-netanyahu-charges-of-fraud/article71665384.ece",
-          "title": "Israel election commission rejects Benjamin Netanyahu charges of fraud",
-          "snippet": "Israel election commission rejects Benjamin Netanyahu charges of fraud"
+          "name": "CNBC Global Economy",
+          "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+          "title": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+          "snippet": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইসরায়েলের নির্বাচন কমিশন বেনিয়ামিন নেতানিয়াহুর ভোট কারচুপির দাবি প্রত্যাখ্যান করেছে",
-        "title_en": "Israel Election Commission Rejects Benjamin Netanyahu Voting Fraud Claims",
-        "summary_bn": "ইসরায়েলের নির্বাচন কমিশন ভোট কারচুপির অভিযোগ প্রত্যাখ্যান করে চূড়ান্ত নির্বাচনের ফলাফল নিশ্চিত করেছে।",
-        "summary_en": "Israel election commission confirms final vote results after rejecting mass fraud claims promoted by Netanyahu.",
+        "title_bn": "জীবনযাত্রার ব্যয়সংকটের মাঝেই সুদের হার বাড়িয়ে ৪ শতাংশ করল ব্যাংক অব ইংল্যান্ড",
+        "title_en": "Bank of England Increases Interest Rate to 4 Percent Amid Living Crisis",
+        "summary_bn": "গৃহস্থালি ও জীবনযাত্রার ক্রমবর্ধমান ব্যয়ের চাপের মধ্যেই ব্যাংক অব ইংল্যান্ড তাদের প্রধান সুদের হার ০.২৫ শতাংশ বাড়িয়ে ৪ শতাংশে উন্নীত করেছে।",
+        "summary_en": "The Bank of England raised its benchmark interest rate by 0.25 percentage points to 4 percent despite ongoing household financial pressures.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "governance_law",
-          "society_education"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-04T12:19:18+00:00",
-        "lead_bn": "ইসরায়েলের নির্বাচন কমিশন ভোট কারচুপির অভিযোগ প্রত্যাখ্যান করে চূড়ান্ত নির্বাচনের ফলাফল নিশ্চিত করেছে।",
-        "lead_en": "Israel election commission confirms final vote results after rejecting mass fraud claims promoted by Netanyahu.",
+        "published_at": "2026-11-05T13:10:44+00:00",
+        "lead_bn": "গৃহস্থালি ও জীবনযাত্রার ক্রমবর্ধমান ব্যয়ের চাপের মধ্যেই ব্যাংক অব ইংল্যান্ড তাদের প্রধান সুদের হার ০.২৫ শতাংশ বাড়িয়ে ৪ শতাংশে উন্নীত করেছে।",
+        "lead_en": "The Bank of England raised its benchmark interest rate by 0.25 percentage points to 4 percent despite ongoing household financial pressures.",
         "bullets_bn": [
-          "ইসরায়েলের নির্বাচন কমিশন সমস্ত ভোট কারচুপির অভিযোগ আনুষ্ঠানিকভাবে প্রত্যাখ্যান করেছে।",
-          "কেন্দ্রীয় নির্বাচন কমিটির প্রধান নোয়াম সোলবার্গ জানিয়েছেন যে কোনো অনিয়মের প্রমাণ মেলেনি।",
-          "নির্বাচন কর্তৃপক্ষ চূড়ান্ত ফলাফল দেশটির রাষ্ট্রপতির কাছে হস্তান্তর করেছে।"
+          "মূল্যস্ফীতির সম্ভাব্য ঝুঁকি কমাতে ব্যাংক অব ইংল্যান্ড তাদের মূল ঋণের সুদের হার ০.২৫ শতাংশ বৃদ্ধির সিদ্ধান্ত নিয়েছে।",
+          "সেপ্টেম্বরে মূল্যস্ফীতি ৩.৫ শতাংশে পৌঁছায়, তবে কেন্দ্রীয় ব্যাংক আগামীতে মূল্যস্ফীতি ৪.৯ শতাংশ এবং প্রবৃদ্ধি ১.৬ শতাংশ হওয়ার পূর্বাভাস দিয়েছে।",
+          "সুদের হার বৃদ্ধির ফলে ইতোমধ্যে জীবনযাত্রার ব্যয়ে হিমশিম খাওয়া যুক্তরাজ্যের পরিবার ও ব্যবসা প্রতিষ্ঠানগুলোর ওপর আর্থিক চাপ আরও বাড়বে।"
         ],
         "bullets_en": [
-          "Israel election authorities officially rejected all claims of widespread voter fraud.",
-          "Central Elections Committee chair Noam Sohlberg confirmed no evidence of major irregularities.",
-          "Election authorities formally presented the verified final results to the president."
+          "The Bank of England increased borrowing costs by 0.25 percentage points to curb anticipated future inflation risks.",
+          "Inflation reached 3.5 percent in September, while the Bank forecasts CPI to peak at 4.9 percent alongside 1.6 percent economic growth.",
+          "Higher borrowing costs will increase financial pressures on UK households and businesses already struggling with rising living costs."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ইসরায়েলে অনুষ্ঠিত সাম্প্রতিক জাতীয় নির্বাচনে বেনিয়ামিন নেতানিয়াহুর নেতৃত্বাধীন কট্টর-ডানপন্থী জোট সংসদীয় সংখ্যাগরিষ্ঠতা হারায়। ফলাফল প্রকাশের পর নেতানিয়াহু ও তার সহযোগীরা নির্বাচন প্রক্রিয়া এবং বৈধ ভোট নিয়ে ব্যাপক কারচুপির অভিযোগ তোলেন। পাশাপাশি আরব নাগরিকদের রাজনৈতিক দলগুলোকে টার্গেট করার অপচেষ্টা চালানো হয়। তবে নির্বাচন কমিশন এবং অ্যাটর্নি জেনারেল কোনো প্রমাণ না পেয়ে এসব দাবি ও পদক্ষেপ সরাসরি নাকচ করে দেন এবং চূড়ান্ত ফলাফল রাষ্ট্রপতির কাছে জমা দেন।",
-        "details_en": "The final election results in Israel stripped Benjamin Netanyahu and his far-right coalition of their governing majority. Following the defeat, Netanyahu promoted allegations of mass fraud and foreign interference, while security forces attempted to target politicians representing Palestinian citizens. The attorney general blocked these moves due to a lack of evidence, and election authorities formally certified the final results and presented them to the president."
+        "impact_bn": "চলমান জীবনযাত্রার ব্যয়সংকটের মধ্যে যুক্তরাজ্যের সাধারণ নাগরিকদের জন্য মর্গেজ ও ঋণের খরচ আরও বৃদ্ধি পাবে।",
+        "impact_en": "UK residents face higher borrowing costs for mortgages and loans during an ongoing cost of living squeeze.",
+        "details_bn": "খাদ্য, জ্বালানি এবং কর বৃদ্ধির ফলে যুক্তরাজ্যের পরিবারগুলো যখন আর্থিক চাপে রয়েছে, তখনই সুদের হার বাড়ানো হলো। ব্যাংক অব ইংল্যান্ড মনে করছে, জ্বালানির বাজার অস্থির থাকায় ভবিষ্যতে মূল্যস্ফীতি ও মজুরি বৃদ্ধির দাবি আবার বাড়তে পারে। তবে বাজেট সংক্রান্ত স্বাধীন সংস্থা ওবিআর এই পূর্বাভাসের সাথে দ্বিমত পোষণ করেছে। ওবিআরের মতে, ২০২৭ সালের মধ্যে অর্থনৈতিক প্রবৃদ্ধি কমে ১ শতাংশে নামতে পারে এবং মূল্যস্ফীতি সর্বোচ্চ ৩.৭৫ শতাংশে পৌঁছাতে পারে।",
+        "details_en": "The interest rate hike comes as UK households struggle with high food, energy, and leisure costs alongside recent tax increases. While Bank of England policymakers argue that global energy shocks could trigger wage demands and a second wave of inflation, the Office for Budget Responsibility offers a more subdued outlook. The OBR projects lower economic growth of just 1 percent by 2027 and estimates consumer price index inflation will peak at 3.75 percent, contrasting with central bank forecasts."
       }
     },
     {
-      "story_id": "e3b42a75-7af7-5937-9e23-8c879bcffa10",
+      "story_id": "792bc4cb-a251-590b-aeef-ea4f234a991c",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
+        "world_diplomacy"
       ],
       "region": "international",
       "tags": [
-        "#PalestineAction",
-        "#SupremeCourt",
-        "#FreedomOfSpeech"
+        "#Poland",
+        "#Russia",
+        "#Espionage"
       ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aeb13c0566c-1793790912.jpg?resize=1920%2C1440",
+      "image_url": "https://static.dw.com/image/79863308_6.jpg",
       "image_caption": null,
-      "published_at": "2026-11-04T12:43:47+00:00",
+      "published_at": "2026-11-05T13:56:30.005322+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.67,
-      "rank_score": 1.1131,
+      "importance_score": 3.4,
+      "rank_score": 1.3766,
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/4/uk-supreme-court-hears-appeal-against-palestine-actions-proscription?traffic_source=rss",
-          "title": "UK Supreme Court hears appeal against Palestine Action’s proscription",
-          "snippet": "UK Supreme Court hears appeal against Palestine Action’s proscription"
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/poland-arrests-four-over-alleged-spying-for-russia/a-79862829?maca=en-rss-en-all-1573-rdf",
+          "title": "Poland arrests four over alleged spying for Russia",
+          "snippet": "Poland arrests four over alleged spying for Russia"
         }
       ],
       "daily_buzz": {
-        "title_bn": "যুক্তরাজ্যের সর্বোচ্চ আদালতে প্যালেস্টাইন অ্যাকশনের সন্ত্রাসী প্রscribe বিরোধী আপিল শুনানি শুরু",
-        "title_en": "UK Supreme Court Hears Appeal Challenging Palestine Action Terrorist Proscription",
-        "summary_bn": "যুক্তরাজ্যের সর্বোচ্চ আদালতে প্যালেস্টাইন অ্যাকশনকে সন্ত্রাসী সংগঠন হিসেবে নিষিদ্ধ করার সিদ্ধান্তের বিরুদ্ধে আইনি আপিল শুনানি শুরু হয়েছে।",
-        "summary_en": "The UK Supreme Court has begun hearing a legal appeal challenging the government's designation of Palestine Action as a terrorist organization.",
+        "title_bn": "রাশিয়ার হয়ে গুপ্তচরবৃত্তির অভিযোগে পোল্যান্ডে চারজন গ্রেফতার",
+        "title_en": "Poland Arrests Four Suspects Charged With Espionage for Russia",
+        "summary_bn": "আন্তর্জাতিক নিষেধাজ্ঞা লঙ্ঘন করে রাশিয়ায় সামরিক যন্ত্রাংশ অবৈধভাবে সরবরাহের মাধ্যমে গুপ্তচরবৃত্তির অভিযোগে পোল্যান্ডে চারজনকে অভিযুক্ত ও গ্রেফতার করা হয়েছে।",
+        "summary_en": "Polish authorities arrested six individuals, charging four with espionage for illegally supplying military components to Russia despite international embargoes.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-04T12:43:47+00:00",
-        "lead_bn": "যুক্তরাজ্যের সর্বোচ্চ আদালতে প্যালেস্টাইন অ্যাকশনকে সন্ত্রাসী সংগঠন হিসেবে নিষিদ্ধ করার সিদ্ধান্তের বিরুদ্ধে আইনি আপিল শুনানি শুরু হয়েছে।",
-        "lead_en": "The UK Supreme Court has begun hearing a legal appeal challenging the government's designation of Palestine Action as a terrorist organization.",
+        "published_at": "2026-11-05T13:56:30.005322+00:00",
+        "lead_bn": "আন্তর্জাতিক নিষেধাজ্ঞা লঙ্ঘন করে রাশিয়ায় সামরিক যন্ত্রাংশ অবৈধভাবে সরবরাহের মাধ্যমে গুপ্তচরবৃত্তির অভিযোগে পোল্যান্ডে চারজনকে অভিযুক্ত ও গ্রেফতার করা হয়েছে।",
+        "lead_en": "Polish authorities arrested six individuals, charging four with espionage for illegally supplying military components to Russia despite international embargoes.",
         "bullets_bn": [
-          "প্যালেস্টাইন অ্যাকশন নিষিদ্ধ করার সিদ্ধান্তের বিরুদ্ধে যুক্তরাজ্য সুপ্রিম কোর্টে দুই দিনের আইনি আপিল শুনানি শুরু হয়েছে।",
-          "সংগঠনটির সহ-প্রতিষ্ঠাতা হুদা আম্মুরি যুক্তি দিয়েছেন যে এই নিষেধাজ্ঞা মতপ্রকাশের স্বাধীনতা ও প্রতিবাদের অধিকারকে মারাত্মকভাবে খর্ব করছে।",
-          "আদালতের বাইরে বিক্ষোভ প্রদর্শনের সময় পুলিশ প্যালেস্টাইন অ্যাকশনের পক্ষে ও বিপক্ষে অবস্থান নেওয়া প্রায় ২৫ জন বিক্ষোভকারীকে গ্রেপ্তার করেছে।"
+          "পোল্যান্ডের নিরাপত্তা সংস্থা ছয়জনকে আটক করে একজন রুশ নারীসহ চারজনের বিরুদ্ধে গুপ্তচরবৃত্তির অভিযোগ আনে।",
+          "দলটি আন্তর্জাতিক নিষেধাজ্ঞা এড়িয়ে রাশিয়ায় গোলাবারুদ ও অস্ত্র ব্যবস্থা তৈরির জন্য গুরুত্বপূর্ণ যন্ত্রাংশ অবৈধভাবে সরবরাহ করেছিল।",
+          "অভিযুক্ত চার প্রধান সন্দেহভাজনকে আন্তর্জাতিক বাণিজ্য আইন লঙ্ঘনের মামলায় তিন মাসের প্রাক-বিচার কারাদণ্ডে রাখা হয়েছে।"
         ],
         "bullets_en": [
-          "A two-day legal appeal hearing began at the UK Supreme Court challenging the proscription of Palestine Action.",
-          "Cofounder Huda Ammori argued that the ban exerts a disproportionate restriction on freedom of speech and the right to protest.",
-          "Police arrested approximately twenty-five demonstrators outside the court premises during protests surrounding the hearing."
+          "Polish security agencies detained six suspects and charged four, including a Russian woman, with espionage.",
+          "The group illegally shipped critical components used to manufacture ammunition and military weapon systems to Moscow.",
+          "Four main suspects remain in pretrial detention for three months while facing charges of violating strategic trade laws."
         ],
-        "impact_bn": "এই আদালতের রায় বিশ্বজুড়ে ভিন্নমত পোষণকারী নাগরিক ও অধিকারকর্মীদের মতপ্রকাশের স্বাধীনতা এবং প্রতিবাদের অধিকারের ওপর গভীর প্রভাব ফেলবে।",
-        "impact_en": "The court's ruling will significantly influence freedom of speech and the legal boundaries of political protest rights for activists globally.",
-        "details_bn": "সরাসরি পদক্ষেপ গ্রহণকারী সংগঠন প্যালেস্টাইন অ্যাকশনকে ইসরায়েলি নীতির বিরোধিতা করার অভিযোগে বিগত সরকারের অধীনে সন্ত্রাসী সংগঠনের তালিকায় অন্তর্ভুক্ত করা হয়। অ্যামনেস্টি ইন্টারন্যাশনাল ও লিবার্টির মতো শীর্ষস্থানীয় মানবাধিকার সংস্থাগুলো এই নিষেধাজ্ঞার তীব্র সমালোচনা করে আসছে। বর্তমান আপিল শুনানির মাধ্যমে এই প্রscribe বা নিষেধাজ্ঞার আইনগত বৈধতা ও নাগরিক স্বাধীনতার সঙ্গে জাতীয় নিরাপত্তার সাংঘর্ষিক বিষয়গুলো বিচার্য হয়েছে।",
-        "details_en": "Palestine Action was proscribed under the previous UK government led by Keir Starmer, placing the direct action group on the same restrictive list as armed militant groups. Human rights organizations, including Amnesty International and Liberty, have continuously denounced the designation as a disproportionate misuse of state counter-terrorism powers that threatens civil liberties."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইউক্রেনে রাশিয়ার সামরিক অভিযানের পর পশ্চিমা দেশগুলো মস্কোর প্রতিরক্ষা সরঞ্জাম উৎপাদন সীমিত করতে কঠোর বাণিজ্য নিষেধাজ্ঞা আরোপ করে। পোল্যান্ডের অভ্যন্তরীণ নিরাপত্তা সংস্থা কৌশলগত সামরিক যন্ত্রাংশ চোরাচালানে জড়িত এই চক্রটিকে উদঘাটন করেছে, যা ন্যাটো সদস্যভুক্ত দেশগুলোতে নিষেধাজ্ঞা ফাঁকি দেওয়ার চেষ্টা ঠেকাতে ইউরোপের চলমান পদক্ষেপের অংশ।",
+        "details_en": "Following Russia's invasion of Ukraine, Western nations imposed strict trade embargoes on military goods to limit Moscow's defense manufacturing capabilities. Poland's Internal Security Agency uncovered this ring targeting strategic military supplies, highlighting ongoing European efforts to prevent sanction circumvention networks operating within NATO member countries."
       }
     }
   ]
