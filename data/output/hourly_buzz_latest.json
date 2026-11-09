@@ -1,66 +1,9 @@
 {
-  "updated_at": "2026-11-08T12:42:10.563340",
+  "updated_at": "2026-11-09T15:04:10.919565",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "881e364e-4718-5338-b788-bf6033654df3",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-08%2Fi5gzij4z%2Fmunshigonjdh071020261108img-20261108-wa0246.jpg?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-08T12:30:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.7145,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/8k0gd62q3d",
-          "title": "রিকশা ছাড়াতে থানায়, ‘ঘুষ না পেয়ে’ উল্টো চুরির মামলায় বাবা-ছেলে গ্রেপ্তার",
-          "snippet": "রিকশা ছাড়াতে থানায়, ‘ঘুষ না পেয়ে’ উল্টো চুরির মামলায় বাবা-ছেলে গ্রেপ্তার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মুন্সিগঞ্জে ঘুষ না পেয়ে রিকশা ছাড়াতে গিয়ে বাবা-ছেলে চুরির মামলায় গ্রেপ্তার",
-        "title_en": "Father and son arrested in theft case after failing to pay bribe for rickshaws",
-        "summary_bn": "টঙ্গিবাড়ী থানায় রিকশা ছাড়াতে গিয়ে পাঁচ লাখ টাকা ঘুষ না দেওয়ায় বাবা ও ছেলেকে চুরির মামলায় ফাঁসানোর অভিযোগ উঠেছে পুলিশের বিরুদ্ধে।",
-        "summary_en": "Police allegedly framed a father and son in a theft case after they failed to pay a five lakh taka bribe.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-08T12:30:00+00:00",
-        "lead_bn": "টঙ্গিবাড়ী থানায় রিকশা ছাড়াতে গিয়ে পাঁচ লাখ টাকা ঘুষ না দেওয়ায় বাবা ও ছেলেকে চুরির মামলায় ফাঁসানোর অভিযোগ উঠেছে পুলিশের বিরুদ্ধে।",
-        "lead_en": "Police allegedly framed a father and son in a theft case after they failed to pay a five lakh taka bribe.",
-        "bullets_bn": [
-          "পুলিশের বিরুদ্ধে থানায় পাঁচ লাখ টাকা ঘুষ দাবি করার এবং সেই ঘটনার ভিডিও ধারণ করায় মোবাইল ফোন ছিনিয়ে নেওয়ার অভিযোগ করা হয়েছে।",
-          "সংবাদ সম্মেলনে ভুক্তভোগী পরিবারের পক্ষ থেকে নিরপেক্ষ তদন্ত এবং জব্দ করা সাইকেল ও সিসিটিভি হার্ডডিস্ক ফেরত চাওয়া হয়েছে।",
-          "পুলিশের পক্ষ থেকে দাবি করা হয়েছে, চোরাই বাইসাইকেল ক্রয়-বিক্রয়ের সঙ্গে জড়িত থাকার অভিযোগে তাদের গ্রেপ্তার করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "Police allegedly demanded a five lakh taka bribe at the police station and seized mobile phones for recording the incident.",
-          "The victims family demanded a neutral investigation and the return of seized bicycles and the CCTV hard disk during a press conference.",
-          "Police claimed that the individuals were arrested for their alleged involvement in buying and selling stolen bicycles."
-        ],
-        "impact_bn": "পুলিশ প্রশাসনের এমন অপেশাদার আচরণ সাধারণ মানুষের আইনি সুরক্ষা ও ন্যায়বিচার পাওয়ার পথকে মারাত্মকভাবে প্রশ্নবিদ্ধ করে।",
-        "impact_en": "Such unprofessional conduct by law enforcement severely undermines the public's trust in legal protection and justice.",
-        "details_bn": "মুন্সিগঞ্জের টঙ্গিবাড়ী থানায় রিকশা ছাড়াতে গিয়ে বাবা মো. শাহজাহান শেখ ও তাঁর বড় ছেলে শামীম শেখ পুলিশি হয়রানির শিকার হন। পরিবারের দাবি, বৈধভাবে কেনা রিকশা ছাড়াতে গেলে পুলিশের এসআই ওসমান আলীসহ কয়েকজন সদস্য পাঁচ লাখ টাকা ঘুষ দাবি করেন। টাকা না দিয়ে ভিডিও ধারণ করায় তাঁদের চুরির মামলায় ফাঁসিয়ে গ্রেপ্তার দেখানো হয় এবং গ্যারেজ থেকে সাইকেল ও অটোরিকশা জব্দ করা হয়। তবে পুলিশ এই অভিযোগ অস্বীকার করে জানিয়েছে, চোরাই বাইসাইকেল কেনাবেচার সুনির্দিষ্ট অভিযোগে তাঁদের গ্রেপ্তার করা হয়েছে। বিষয়টি নিয়ে এলাকায় তীব্র ক্ষোভের সৃষ্টি হয়েছে।",
-        "details_en": "Father Md Shahjahan Sheikh and his elder son Shamim Sheikh faced police harassment while trying to retrieve rickshaws at Tongibari police station in Munshiganj. According to the family, police demanded a five lakh taka bribe, and after recording the extortion attempt, framed them in a theft case. Police seized multiple bicycles and battery-run autorickshaws from their warehouse. However, police denied the allegations, maintaining that the arrests were made based on concrete evidence linking them to a stolen bicycle syndicate."
-      }
-    },
-    {
-      "story_id": "314cf5c1-4669-5f5f-8c7a-9ababe3d60c0",
+      "story_id": "b5f55b3c-c345-5915-8183-1f36658cf714",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -72,279 +15,333 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-11-08T11:47:45+00:00",
+      "published_at": "2026-11-09T14:59:02+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 1.6449,
+      "rank_score": 2.5309,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/979616/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0-%E0%A6%93-%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A3-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0",
-          "title": "প্রধানমন্ত্রীর সঙ্গে ঢাকা উত্তর ও দক্ষিণ বিএনপির নতুন আহ্বায়ক কমিটির নেতাদের সাক্ষাৎ",
-          "snippet": "প্রধানমন্ত্রীর সঙ্গে ঢাকা উত্তর ও দক্ষিণ বিএনপির নতুন আহ্বায়ক কমিটির নেতাদের সাক্ষাৎ"
+          "url": "https://www.banglatribune.com/national/979889/%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A6%A6-%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A6%A5%E0%A7%87-%E0%A6%B8%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A7%9F-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6",
+          "title": "সংসদ সদস্যদের রাজপথে সক্রিয় থাকার নির্দেশ প্রধানমন্ত্রীর",
+          "snippet": "সংসদ সদস্যদের রাজপথে সক্রিয় থাকার নির্দেশ প্রধানমন্ত্রীর"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ঢাকা মহানগর উত্তর ও দক্ষিণ বিএনপির নতুন কমিটির নেতাদের প্রধানমন্ত্রীর সাথে সাক্ষাৎ",
-        "title_en": "New Leaders of Dhaka North and South BNP Meet the Prime Minister",
-        "summary_bn": "ঢাকা মহানগর উত্তর ও দক্ষিণ বিএনপির নবগঠিত আহ্বায়ক কমিটির শীর্ষ নেতারা প্রধানমন্ত্রীর সাথে সাক্ষাৎ করেছেন।",
-        "summary_en": "Top leaders of the newly formed convening committees of Dhaka North and South BNP met with the Prime Minister.",
+        "title_bn": "সংসদ সদস্যদের রাজপথে সক্রিয় থাকার এবং বিশৃঙ্খলা প্রতিহত করার নির্দেশ প্রধানমন্ত্রীর",
+        "title_en": "PM Directs MPs to Remain Active on Streets and Resist Unrest",
+        "summary_bn": "প্রধানমন্ত্রী ও দলীয় প্রধান তারেক রহমান সংসদ সদস্যদের রাজপথে সক্রিয় থেকে যেকোনো ধরনের বিশৃঙ্খলা প্রতিহত করার কড়া নির্দেশ দিয়েছেন।",
+        "summary_en": "Prime Minister and party chief Tarique Rahman directed members of parliament to remain active on the streets and resist any form of unrest.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-08T11:47:45+00:00",
-        "lead_bn": "ঢাকা মহানগর উত্তর ও দক্ষিণ বিএনপির নবগঠিত আহ্বায়ক কমিটির শীর্ষ নেতারা প্রধানমন্ত্রীর সাথে সাক্ষাৎ করেছেন।",
-        "lead_en": "Top leaders of the newly formed convening committees of Dhaka North and South BNP met with the Prime Minister.",
+        "published_at": "2026-11-09T14:59:02+00:00",
+        "lead_bn": "প্রধানমন্ত্রী ও দলীয় প্রধান তারেক রহমান সংসদ সদস্যদের রাজপথে সক্রিয় থেকে যেকোনো ধরনের বিশৃঙ্খলা প্রতিহত করার কড়া নির্দেশ দিয়েছেন।",
+        "lead_en": "Prime Minister and party chief Tarique Rahman directed members of parliament to remain active on the streets and resist any form of unrest.",
         "bullets_bn": [
-          "ঢাকা মহানগর উত্তর ও দক্ষিণ বিএনপির নবগঠিত আহ্বায়ক কমিটির শীর্ষ নেতারা প্রধানমন্ত্রীর সাথে সাক্ষাৎ করেছেন।",
-          "সচিবালয়ে প্রধানমন্ত্রীর কার্যালয়ে এই সাক্ষাতকালে ঢাকা মহানগর দক্ষিণ বিএনপির আহ্বায়ক আবদুস সালাম ও সদস্য সচিব তানভীর আহমেদ উপস্থিত ছিলেন।",
-          "সাক্ষাৎ শেষে নতুন কমিটির নেতৃবৃন্দকে শুভেচ্ছা জানান এবং তাদের সামগ্রিক কার্যক্রমের খোঁজখবর নেন।"
+          "দলীয় সংসদ সদস্যদের রাজপথে সক্রিয় থাকার এবং যেকোনো অস্থিরতা প্রতিহত করার নির্দেশ দেওয়া হয়েছে",
+          "আইনশৃঙ্খলার জন্য হুমকি এবং দেশি-বিদেশি ষড়যন্ত্র অব্যাহত রয়েছে বলে বৈঠকে সতর্ক করা হয়েছে",
+          "যেকোনো পরিস্থিতি মোকাবিলায় প্রস্তুত থাকার জন্য দলীয় আইনপ্রণেতাদের কঠোর বার্তা দেওয়া হয়েছে"
         ],
         "bullets_en": [
-          "Top leaders of the newly formed convening committees of Dhaka North and South BNP met with the Prime Minister.",
-          "Dhaka South BNP convener Abdus Salam and member secretary Tanvir Ahmed were present during the meeting at the Prime Minister's Office.",
-          "The Prime Minister greeted the new committee leaders and inquired about their overall activities."
+          "Party MPs were instructed to remain active on the streets and resist any instability",
+          "Leaders warned that continuous domestic and foreign conspiracies pose threats to law and order",
+          "Lawmakers received strict directives to stay prepared for handling any untoward situation"
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সম্প্রতি রাজনৈতিক পরিবর্তনের ধারাবাহিকতায় ঢাকা মহানগর উত্তর ও দক্ষিণ বিএনপির নতুন আহ্বায়ক কমিটি গঠন করা হয়। এই কমিটির শীর্ষ নেতারা সাংগঠনিক কার্যক্রমের অংশ হিসেবে সরকারের শীর্ষপর্যায়ের নীতিনির্ধারকদের সাথে সৌজন্য সাক্ষাৎ ও যোগাযোগ অব্যাহত রেখেছেন, যা দেশের রাজনৈতিক প্রেক্ষাপটে অত্যন্ত তাৎপর্যপূর্ণ।",
-        "details_en": "Following recent political developments, new convening committees for Dhaka North and South BNP were formed. The top leaders of these committees have been maintaining courtesy meetings and communication with top policymakers as part of their organizational activities, which holds significant relevance in the country's political landscape."
+        "impact_bn": "রাজনৈতিক অস্থিরতা ও সংঘাতের আশঙ্কায় সাধারণ মানুষের দৈনন্দিন চলাচলে উদ্বেগ বাড়াতে পারে।",
+        "impact_en": "Potential political tension may heighten public anxiety regarding daily security and movement.",
+        "details_bn": "জাতীয় সংসদ নির্বাচন পরবর্তী রাজনৈতিক পরিস্থিতিতে আইন শৃঙ্খলা রক্ষা এবং দলীয় শৃঙ্খলা বজায় রাখতে নীতিনির্ধারণী পর্যায়ে এই বৈঠক অনুষ্ঠিত হয়। দেশের অভ্যন্তরীণ স্থিতিশীলতা বজায় রাখতে সরকারের শীর্ষ পর্যায় থেকে বিভিন্ন দিকনির্দেশনা দেওয়া হচ্ছে।",
+        "details_en": "This high-level party meeting was convened to address law and order and maintain political discipline following the national parliamentary election. The government's top leadership continues issuing directives to preserve internal stability across the country."
       }
     },
     {
-      "story_id": "d58cfca6-0dec-5663-87b7-ba0e3af205df",
-      "primary_category": "climate_environment",
+      "story_id": "00fbf264-24ec-5494-b622-d48a32a22383",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "climate_environment"
-      ],
-      "region": "national",
-      "tags": [
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-08%2F7u7xqfwp%2Fec9114c5f66d4d429966b635b9b1f32018.webp?rect=0%2C55%2C770%2C404&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2021-06%2Fbe2d99ee-c039-4acf-a6fb-2356c69a08a6%2FKIA_OG_watermark_final.png&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-08T12:18:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.5317,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.kishoralo.com/feature/yui3ppgb6t",
-          "title": "নিউজিল্যান্ডের উপকূলে ৪৫টি পাইলট তিমি আটকে পড়ল কেন",
-          "snippet": "নিউজিল্যান্ডের উপকূলে ৪৫টি পাইলট তিমি আটকে পড়ল কেন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "নিউজিল্যান্ডের উপকূলে আটকে পড়া ৪৫টি পাইলট তিমির সবকটিই মারা গেছে",
-        "title_en": "All forty-five stranded pilot whales die on New Zealand coast",
-        "summary_bn": "নিউজিল্যান্ডের সৈকতে আটকে পড়া ৪৫টি পাইলট তিমির একটিকেও বাঁচানো সম্ভব হয়নি এবং উদ্ধারকারীরা সেগুলোকে সমাহিত করার কাজ শুরু করেছেন।",
-        "summary_en": "Rescue teams failed to save any of the forty-five pilot whales stranded on a New Zealand beach.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-08T12:18:00+00:00",
-        "lead_bn": "নিউজিল্যান্ডের সৈকতে আটকে পড়া ৪৫টি পাইলট তিমির একটিকেও বাঁচানো সম্ভব হয়নি এবং উদ্ধারকারীরা সেগুলোকে সমাহিত করার কাজ শুরু করেছেন।",
-        "lead_en": "Rescue teams failed to save any of the forty-five pilot whales stranded on a New Zealand beach.",
-        "bullets_bn": [
-          "উদ্ধারকর্মীরা নিউজিল্যান্ডের নাগাওয়াই উপকূলে আটকে পড়া পাইলট তিমিগুলোকে সমুদ্রে ফেরানোর চেষ্টা চালিয়েছিলেন।",
-          "সংরক্ষণ বিভাগ নিশ্চিত করেছে যে ঘটনাস্থলে পাওয়া ৪৩ থেকে ৪৫টি তিমির কোনোটিই জীবিত নেই।",
-          "কর্তৃপক্ষ স্থানীয় মাওরি জনগোষ্ঠীর সহায়তায় মৃত তিমিগুলোকে সমাহিত করার ব্যবস্থা করছে।"
-        ],
-        "bullets_en": [
-          "Rescue teams attempted to return the stranded pilot whales at the Ngawhai coast back to sea.",
-          "The Department of Conservation confirmed that none of the forty-three to forty-five whales found were alive.",
-          "Authorities are arranging to bury the dead whales with assistance from the local Maori community."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "নিউজিল্যান্ডের নর্থ দ্বীপের কেপ প্যালিসার এলাকার নাগাওয়াই উপকূলে একসঙ্গে ৪৫টি পাইলট তিমি আটকে পড়ার ঘটনা ঘটে। কুক প্রণালির প্রবল ঢেউ, আলগা নুড়ি ও ধারালো পাথরের কারণে উদ্ধারকাজ অত্যন্ত দুর্গম ও কঠিন হয়ে পড়েছিল। স্থানীয় পরিবেশবাদী ও মাওরি আদিবাসীরা তিমিগুলোকে বাঁচানোর চেষ্টা করলেও জোয়ারের আগেই অধিকাংশ তিমি মারা যায়। নিউজিল্যান্ডের সংরক্ষণ বিভাগ ডিওসি এবং স্বেচ্ছাসেবী সংস্থা প্রজেক্ট জোনাহ যৌথভাবে তিমিগুলোর মৃতদেহ সমাহিত করার পদক্ষেপ নেয়।",
-        "details_en": "Forty-five pilot whales stranded themselves on the Ngawhai coast in the Cape Palliser area of New Zealand's North Island. Strong waves from the Cook Strait, loose gravel, and sharp rocks made rescue operations extremely difficult. Despite efforts by local volunteers and Maori indigenous groups to keep the whales wet and alive, all of them perished. The Department of Conservation and Project Jonah subsequently coordinated efforts to bury the remains."
-      }
-    },
-    {
-      "story_id": "0e43f4ad-849e-5974-a18e-4a4e479812ba",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
         "governance_law",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-11-08T12:10:04+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.4289,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/979627/%E0%A6%B0%E0%A7%8B%E0%A6%B9%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%A8%E0%A7%87-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A6%BE%E0%A7%9F%E0%A6%95%E0%A7%87",
-          "title": "রোহিঙ্গা প্রত্যাবাসনে আন্তর্জাতিক সম্প্রদায়কে সম্পৃক্ত করতে হবে: আইনমন্ত্রী",
-          "snippet": "রোহিঙ্গা প্রত্যাবাসনে আন্তর্জাতিক সম্প্রদায়কে সম্পৃক্ত করতে হবে: আইনমন্ত্রী"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রোহিঙ্গা প্রত্যাবাসনে আন্তর্জাতিক সম্প্রদায়ের কার্যকর সম্পৃক্ততা জরুরি: আইনমন্ত্রী",
-        "title_en": "Effective International Engagement Needed for Rohingya Repatriation: Law Minister",
-        "summary_bn": "আইনমন্ত্রী মো. আসাদুজ্জামান বলেছেন, রোহিঙ্গা সংকট সমাধানে আন্তর্জাতিক সম্প্রদায়কে কার্যকরভাবে সম্পৃক্ত করতে হবে।",
-        "summary_en": "Law Minister Md. Asaduzzaman stated that the international community must be effectively engaged to resolve the Rohingya crisis.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-08T12:10:04+00:00",
-        "lead_bn": "আইনমন্ত্রী মো. আসাদুজ্জামান বলেছেন, রোহিঙ্গা সংকট সমাধানে আন্তর্জাতিক সম্প্রদায়কে কার্যকরভাবে সম্পৃক্ত করতে হবে।",
-        "lead_en": "Law Minister Md. Asaduzzaman stated that the international community must be effectively engaged to resolve the Rohingya crisis.",
-        "bullets_bn": [
-          "মিয়ানমার থেকে বাস্তুচ্যুত রোহিঙ্গাদের নিরাপদ ও মর্যাদাপূর্ণ প্রত্যাবাসন নিশ্চিত করার আহ্বান জানানো হয়েছে।",
-          "রোহিঙ্গা সংকট বাংলাদেশের একার সমস্যা নয় বরং এটি একটি আন্তর্জাতিক সমস্যা বলে উল্লেখ করা হয়।",
-          "প্রত্যাবাসনের ক্ষেত্রে রোহিঙ্গাদের নিরাপত্তা, নাগরিকত্ব, মানবাধিকার, শিক্ষা ও মর্যাদা নিশ্চিত করার ওপর জোর দেওয়া হয়েছে।"
-        ],
-        "bullets_en": [
-          "Authorities called for ensuring the safe, voluntary, and dignified repatriation of displaced Rohingyas from Myanmar.",
-          "The Rohingya crisis was highlighted as an international issue rather than Bangladesh's problem alone.",
-          "Emphasis was placed on securing safety, citizenship, human rights, education, and dignity during repatriation."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "মিয়ানমারের রাখাইন রাজ্যে অব্যাহত সংঘাত ও সহিংসতার কারণে দীর্ঘদিন ধরে বাংলাদেশে লাখ লাখ রোহিঙ্গা শরণার্থী হিসেবে আশ্রয় নিয়ে আছে। বাংলাদেশ সরকার শুরু থেকেই আন্তর্জাতিক সম্প্রদায় ও দাতা দেশগুলোর সহযোগিতায় এই সংকটের স্থায়ী রাজনৈতিক সমাধানের দাবি জানিয়ে আসছে। তবে কার্যকর আন্তর্জাতিক চাপ ও সহযোগিতার অভাবে প্রত্যাবাসন প্রক্রিয়া বারবার বিলম্বিত হচ্ছে।",
-        "details_en": "Millions of Rohingya refugees have been sheltered in Bangladesh for years due to ongoing conflict and violence in Myanmar's Rakhine State. The Bangladesh government has consistently demanded a permanent political solution to this crisis with the cooperation of the international community and donor nations. However, repatriation efforts have repeatedly stalled due to a lack of effective international pressure and cooperation."
-      }
-    },
-    {
-      "story_id": "48f03cec-607c-5e74-8d5d-66d84d2aded6",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "climate_environment"
-      ],
-      "region": "international",
-      "tags": [
-        "#UkraineWar",
-        "#RussiaUkraine",
-        "#EnergyCrisis"
-      ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260210__96UA3G6__v4__HighRes__TopshotUkraineRussiaConflictWarEnergy-1794133270.jpg?resize=1920%2C1440",
-      "image_caption": null,
-      "published_at": "2026-11-08T12:20:17+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.12,
-      "rank_score": 0.6907,
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
-          "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
-          "snippet": "Russian strikes on Ukraine leave hundreds of thousands without electricity"
-        },
-        {
-          "name": "Politico Europe",
-          "url": "https://www.politico.eu/article/russian-strikes-leave-600000-in-the-dark-in-eastern-ukraine-dnipropetrovsk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "title": "Russian strikes leave 600,000 in the dark in eastern Ukraine",
-          "snippet": "Russian strikes leave 600,000 in the dark in eastern Ukraine"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রাশিয়ান হামলায় ইউক্রেনের লাখ লাখ মানুষ বিদ্যুৎহীন",
-        "title_en": "Russian Strikes Leave Hundreds of Thousands Without Electricity in Ukraine",
-        "summary_bn": "রাশিয়ার তীব্র বিমান হামলায় ইউক্রেনের একাধিক অঞ্চলে লাখ লাখ মানুষ বিদ্যুৎবিচ্ছিন্ন হয়ে পড়েছে।",
-        "summary_en": "Intense Russian aerial strikes on energy infrastructure have left hundreds of thousands of Ukrainians without power.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "climate_environment"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-08T12:20:17+00:00",
-        "lead_bn": "রাশিয়ার তীব্র বিমান হামলায় ইউক্রেনের একাধিক অঞ্চলে লাখ লাখ মানুষ বিদ্যুৎবিচ্ছিন্ন হয়ে পড়েছে।",
-        "lead_en": "Intense Russian aerial strikes on energy infrastructure have left hundreds of thousands of Ukrainians without power.",
-        "bullets_bn": [
-          "রাশিয়ান বিমান হামলায় ইউক্রেনের পূর্ব ও উত্তর-পূর্বাঞ্চলীয় জ্বালানি অবকাঠামো মারাত্মকভাবে ক্ষতিগ্রস্ত হয়েছে।",
-          "দনিপ্রোপেত্রোভস্ক ও খারকিভ অঞ্চলে যথাক্রমে ৬ লাখ এবং আড়াই লাখের বেশি মানুষ বিদ্যুৎহীন হয়ে পড়েছেন।",
-          "ক্ষতিগ্রস্ত এলাকায় মেরামতের কাজ চলছে তবে বারবার হামলার কারণে তা ব্যাহত হচ্ছে।"
-        ],
-        "bullets_en": [
-          "Russian aerial attacks heavily damaged key energy infrastructure across eastern and northeastern Ukraine.",
-          "Power outages affected more than 600,000 residents in Dnipropetrovsk and another 250,000 in the Kharkiv region.",
-          "Engineers are struggling to restore electricity as repair work is repeatedly hampered by ongoing strikes."
-        ],
-        "impact_bn": "চরম শীতের মধ্যে বিদ্যুৎহীনতা সাধারণ মানুষের জীবনযাত্রা ও চিকিৎসাসেবা চরমভাবে ব্যাহত করছে।",
-        "impact_en": "Prolonged power outages amid harsh winter conditions severely disrupt daily life and essential services for civilians.",
-        "details_bn": "ইউক্রেনের জ্বালানি অবকাঠামো লক্ষ্য করে রাশিয়া নিয়মিত ড্রেন ও ক্ষেপণাস্ত্র হামলা চালিয়ে আসছে। শীত মৌসুম ঘনিয়ে আসার সাথে সাথে জ্বালানি খাতকে অচল করতে মস্কো এই আক্রমণ তীব্রতর করেছে। এর ফলে দেশজুড়ে বিদ্যুৎ সরবরাহ ব্যবস্থা ভেঙে পড়েছে এবং সাধারণ মানুষ চরম দুর্ভোগের মুখে পড়েছে। মেরামতের কাজ চললেও বারবার হামলার কারণে পরিস্থিতি দ্রুত সামাল দেওয়া অসম্ভব হয়ে দাঁড়িয়েছে।",
-        "details_en": "Russia has systematically targeted Ukraine's energy grid with drones and missiles as winter approaches, aiming to cripple power networks and demoralize the population. Repeated strikes on regional infrastructure have plunged multiple districts into darkness. While emergency crews work around the clock, ongoing security threats and continuous shelling significantly delay full restoration of the electrical supply."
-      }
-    },
-    {
-      "story_id": "7c6502b5-4dce-51e5-9135-15606b12f798",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
-        "#NationalAffairs"
+        "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/11/Untitled8-7.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-11-08T12:37:26+00:00",
+      "published_at": "2026-11-09T14:56:25+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9241,
+      "importance_score": 6.6,
+      "rank_score": 2.4638,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/education/news/1177142",
-          "title": "এইচএসসির পুনর্নিরীক্ষণ আবেদন বেড়ে প্রায় ১১ লাখ, আয় ১৬ কোটি",
-          "snippet": "এইচএসসির পুনর্নিরীক্ষণ আবেদন বেড়ে প্রায় ১১ লাখ, আয় ১৬ কোটি"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/the-message-is-loud-and-clear-we-are-on-the-streets-and-we-must-remain-on-the-streets-prime-minister/",
+          "title": "বক্তব্য লাউড অ্যান্ড ক্লিয়ার, আমরা রাজপথে আছি, রাজপথে থাকতে হবে: প্রধানমন্ত্রী",
+          "snippet": "বক্তব্য লাউড অ্যান্ড ক্লিয়ার, আমরা রাজপথে আছি, রাজপথে থাকতে হবে: প্রধানমন্ত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "এইচএসসি পুনর্নিরীক্ষায় আবেদন বেড়ে প্রায় ১১ লাখ এবং আয় ১৬ কোটি টাকা",
-        "title_en": "HSC Answer Script Re-scrutiny Applications Reach Nearly 11 Lakh",
-        "summary_bn": "দেশের এগারোটি শিক্ষা বোর্ডে এইচএসসি ও সমমান পরীক্ষার ফল পুনর্নিরীক্ষণে প্রায় এগারো লাখ আবেদন জমা পড়েছে।",
-        "summary_en": "Eleven education boards across the country have received nearly eleven lakh applications for HSC answer script re-scrutiny.",
+        "title_bn": "শেখ হাসিনার ফেরায় প্রত্যর্পণ চুক্তি অনুযায়ী ব্যবস্থা নেবে সরকার",
+        "title_en": "Government to Apply Extradition Treaty Regarding Sheikh Hasina Return",
+        "summary_bn": "বাংলাদেশ ও ভারতের মধ্যকার প্রত্যর্পণ চুক্তি অনুযায়ী ক্ষমতাচ্যুত সাবেক প্রধানমন্ত্রী শেখ হাসিনাকে দেশে ফেরানোর বিষয়ে আইনগত ব্যবস্থা নেবে সরকার।",
+        "summary_en": "The government will take legal steps according to the extradition treaty between Bangladesh and India to bring back ousted former prime minister Sheikh Hasina.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education"
+          "governance_law",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-08T12:37:26+00:00",
-        "lead_bn": "দেশের এগারোটি শিক্ষা বোর্ডে এইচএসসি ও সমমান পরীক্ষার ফল পুনর্নিরীক্ষণে প্রায় এগারো লাখ আবেদন জমা পড়েছে।",
-        "lead_en": "Eleven education boards across the country have received nearly eleven lakh applications for HSC answer script re-scrutiny.",
+        "published_at": "2026-11-09T14:56:25+00:00",
+        "lead_bn": "বাংলাদেশ ও ভারতের মধ্যকার প্রত্যর্পণ চুক্তি অনুযায়ী ক্ষমতাচ্যুত সাবেক প্রধানমন্ত্রী শেখ হাসিনাকে দেশে ফেরানোর বিষয়ে আইনগত ব্যবস্থা নেবে সরকার।",
+        "lead_en": "The government will take legal steps according to the extradition treaty between Bangladesh and India to bring back ousted former prime minister Sheikh Hasina.",
         "bullets_bn": [
-          "দেশের ১১টি শিক্ষা বোর্ডের অধীনে শিক্ষার্থীরা ফল পুনর্নিরীক্ষার জন্য আবেদন জমা দিয়েছে।",
-          "মোট ২ লাখ ৯১ হাজার ২০৯ জন শিক্ষার্থী এই প্রক্রিয়াটিতে অংশ নিচ্ছে এবং সরকারের ১৬ কোটি টাকা আয় হয়েছে।",
-          "শিক্ষা বোর্ডগুলো নির্ধারিত সময়ের মধ্যে খাতা পুনর্নিরীক্ষার পর সংশোধিত ফলাফল প্রকাশ করবে।"
+          "বাংলাদেশ ও ভারতের বিদ্যমান প্রত্যর্পণ চুক্তি অনুযায়ী সাবেক প্রধানমন্ত্রী শেখ হাসিনাকে দেশে ফেরানোর বিষয়ে আইনি পদক্ষেপ নেওয়া হবে।",
+          "যুক্তরাজ্যভিত্তিক আইনি পরামর্শক প্রতিষ্ঠানের মাধ্যমে নয়াদিল্লিতে বাংলাদেশ হাইকমিশনে নতুন পাসপোর্ট ও জাতীয় পরিচয়পত্রের জন্য আবেদন করা হয়েছে।",
+          "স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ জানিয়েছেন আবেদনের সত্যতা ও আইনি ভিত্তি যাচাই করে বিধি অনুযায়ী ব্যবস্থা নেওয়া হবে।"
         ],
         "bullets_en": [
-          "Students across eleven education boards have submitted applications requesting grade re-scrutiny.",
-          "A total of 291,209 students are participating in the process, generating sixteen crore taka in revenue.",
-          "The education boards will publish revised results after completing the script re-scrutiny within schedule."
+          "Legal steps will be taken to bring back former prime minister Sheikh Hasina under the existing extradition treaty between Bangladesh and India.",
+          "An application for a new passport and national ID was submitted at the Bangladesh High Commission in New Delhi via a UK-based legal firm.",
+          "Home Minister Salahuddin Ahmed stated that the authenticity and legal basis of the application are currently being verified for further action."
         ],
-        "impact_bn": "পরীক্ষার্থীদের সঠিক মূল্যায়ন নিশ্চিত করতে পুনর্নিরীক্ষার ফলাফল অত্যন্ত গুরুত্বপূর্ণ ভূমিকা পালন করবে।",
-        "impact_en": "The re-scrutiny results will play a crucial role in ensuring accurate evaluation for the examinees.",
-        "details_bn": "এইচএসসি ও সমমান পরীক্ষার ফলাফল প্রকাশের পর প্রতি বছরই বিপুল সংখ্যক শিক্ষার্থী নম্বর পুনর্নিরীক্ষার আবেদন করে থাকে। বোর্ড নির্ধারিত ফি জমা দিয়ে প্রার্থীরা নির্দিষ্ট বিষয়গুলোতে এই সুযোগ পান। পুনর্নিরীক্ষায় মূলত উত্তরপত্রের প্রাপ্ত নম্বর যোগফল ভুল বা ওএমআর শিট মূল্যায়ন ত্রুটি যাচাই করা হয়। এই প্রক্রিয়ার মাধ্যমে অনেক শিক্ষার্থীর ফলাফল পরিবর্তিত হয়ে থাকে যা তাদের উচ্চশিক্ষা প্রতিষ্ঠানে ভর্তির ক্ষেত্রে প্রভাব ফেলে।",
-        "details_en": "Following the publication of HSC and equivalent exam results, a significant number of students apply for grade re-scrutiny every year. Candidates utilize this opportunity by paying the prescribed board fee for specific subjects. Re-scrutiny primarily checks for calculation errors in marks or evaluation mistakes on OMR sheets. This process often alters results for many students, directly impacting their higher education admissions."
+        "impact_bn": "সাবেক প্রধানমন্ত্রীর সম্ভাব্য প্রত্যাবর্তন দেশের রাজনৈতিক অঙ্গনে নতুন আলোচনার জন্ম দিয়েছে।",
+        "impact_en": "The potential return of the former prime minister has sparked significant political discourse nationwide.",
+        "details_bn": "আন্তর্জাতিক সংবাদ সংস্থার তথ্য অনুযায়ী ক্ষমতাচ্যুত সাবেক প্রধানমন্ত্রী শেখ হাসিনা বাংলাদেশে ফিরে আদালতে আত্মসমর্পণ করার ইচ্ছা প্রকাশ করেছেন। এ উদ্দেশ্যে নতুন পাসপোর্ট ও জাতীয় পরিচয়পত্রের জন্য লন্ডনভিত্তিক আইনি পরামর্শক প্রতিষ্ঠানের মাধ্যমে নয়াদিল্লিতে বাংলাদেশ হাইকমিশনে আবেদন করা হয়েছে। বিষয়টি নিয়ে সরকারের পক্ষ থেকে আইনি প্রক্রিয়া ও দুই দেশের মধ্যকার প্রত্যর্পণ চুক্তির বিধানগুলো খতিয়ে দেখা হচ্ছে।",
+        "details_en": "According to international media reports, ousted former prime minister Sheikh Hasina has expressed her intention to return to Bangladesh and surrender before court. For this purpose, an application for a new passport and national ID was submitted at the Bangladesh High Commission in New Delhi through a London-based legal firm. The government is currently reviewing the legal procedures and provisions of the bilateral extradition treaty."
+      }
+    },
+    {
+      "story_id": "23ab630b-edb8-59ec-b5a2-effd98c82665",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "climate_environment"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-11-09T15:01:01+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9396,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1177583",
+          "title": "এলপিজি-জ্বালানির দাম বাড়ানোর প্রতিবাদে সংসদে আলোচনার দাবি",
+          "snippet": "এলপিজি-জ্বালানির দাম বাড়ানোর প্রতিবাদে সংসদে আলোচনার দাবি"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "এলপিজি ও জ্বালানির অস্বাভাবিক মূল্যবৃদ্ধির প্রতিবাদে সংসদে কঠোর আলোচনার দাবি",
+        "title_en": "Parliamentary Discussion Demanded Over Abnormal Hike in LPG and Fuel Prices",
+        "summary_bn": "আইনানুগ প্রক্রিয়া ছাড়া এলপিজি ও জ্বালানির মূল্যবৃদ্ধির প্রতিবাদে সংসদে জরুরি আলোচনার দাবি উঠেছে।",
+        "summary_en": "Lawmakers demanded urgent discussion in parliament protesting the abnormal hike in LPG and fuel prices without legal procedures.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-09T15:01:01+00:00",
+        "lead_bn": "আইনানুগ প্রক্রিয়া ছাড়া এলপিজি ও জ্বালানির মূল্যবৃদ্ধির প্রতিবাদে সংসদে জরুরি আলোচনার দাবি উঠেছে।",
+        "lead_en": "Lawmakers demanded urgent discussion in parliament protesting the abnormal hike in LPG and fuel prices without legal procedures.",
+        "bullets_bn": [
+          "আইনানুগ প্রক্রিয়া ও গণশুনানি ছাড়াই জ্বালানি পণ্যের দাম বাড়ানোর তীব্র প্রতিবাদ জানানো হয়েছে।",
+          "মূল্য নিয়ন্ত্রণে সরকারের পক্ষ থেকে কার্যকর ও দৃশ্যমান পদক্ষেপ নেওয়ার দাবি জানানো হয়েছে।",
+          "জ্বালানির ক্রমবর্ধমান দাম সাধারণ মানুষের ওপর যে বাড়তি আর্থিক চাপ তৈরি করেছে, তা নিয়ে সংসদে প্রশ্ন তোলা হয়েছে।"
+        ],
+        "bullets_en": [
+          "Strong protest was raised against increasing fuel prices without following legal procedures and public hearings.",
+          "Demands were made for the government to take effective and visible steps to control escalating prices.",
+          "Concerns were raised in parliament regarding the increasing financial pressure on ordinary citizens due to rising fuel costs."
+        ],
+        "impact_bn": "জ্বালানি ও এলপিজির দাম বাড়ায় সাধারণ ভোক্তাদের দৈনন্দিন জীবনযাত্রার খরচ ও মুদ্রাস্ফীতির চাপ আরও তীব্র হবে।",
+        "impact_en": "Higher fuel and LPG prices will intensify the cost of living and inflation pressure on ordinary consumers.",
+        "details_bn": "সাম্প্রতিক সময়ে এলপিজি সিলিন্ডার এবং বিভিন্ন জ্বালানি তেলের দাম দফায় দফায় বৃদ্ধির কারণে জনজীবনে অসন্তোষ দেখা দিয়েছে। সংশ্লিষ্ট মহলের অভিযোগ, কোনো ধরনের গণশুনানি কিংবা স্বচ্ছ আইনি প্রক্রিয়া অনুসরণ না করেই এই মূল্য নির্ধারণ করা হচ্ছে। এই প্রেক্ষাপটে নিত্যপ্রয়োজনীয় জ্বালানি পণ্যের বাজার নিয়ন্ত্রণে সরকারের সরাসরি হস্তক্ষেপ এবং কার্যকর নীতিমালা প্রণয়নের দাবি জোরালো হচ্ছে।",
+        "details_en": "Public dissatisfaction has grown recently due to repeated hikes in LPG cylinders and various fuel prices. Critics argue these price adjustments are made without public hearings or transparent legal procedures. Against this backdrop, demands are mounting for direct government intervention and effective policy measures to stabilize essential fuel markets."
+      }
+    },
+    {
+      "story_id": "090cfbea-e18c-5132-b57a-47917d051257",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://media.channelionline.com/2026/11/Untitled9-6.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-11-09T14:59:43+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9269,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/up-to-30000-can-be-taken-abroad-for-medical-treatment/",
+          "title": "বিদেশে চিকিৎসার জন্য নেওয়া যাবে ৩০ হাজার ডলার",
+          "snippet": "বিদেশে চিকিৎসার জন্য নেওয়া যাবে ৩০ হাজার ডলার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বিদেশে চিকিৎসার জন্য বৈদেশিক মুদ্রা পাঠানোর সীমা দ্বিগুণ করল বাংলাদেশ ব্যাংক",
+        "title_en": "Bangladesh Bank Doubles Foreign Currency Remittance Limit for Medical Treatment Abroad",
+        "summary_bn": "বাংলাদেশ ব্যাংক বিদেশে চিকিৎসার খরচ মেটাতে পূর্বানুমোদন ছাড়া বৈদেশিক মুদ্রা পাঠানোর সীমা দ্বিগুণ করে ৩০ হাজার ডলারে উন্নীত করেছে।",
+        "summary_en": "Bangladesh Bank doubled the limit for sending foreign currency abroad for medical treatment without prior approval to thirty thousand dollars.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-09T14:59:43+00:00",
+        "lead_bn": "বাংলাদেশ ব্যাংক বিদেশে চিকিৎসার খরচ মেটাতে পূর্বানুমোদন ছাড়া বৈদেশিক মুদ্রা পাঠানোর সীমা দ্বিগুণ করে ৩০ হাজার ডলারে উন্নীত করেছে।",
+        "lead_en": "Bangladesh Bank doubled the limit for sending foreign currency abroad for medical treatment without prior approval to thirty thousand dollars.",
+        "bullets_bn": [
+          "অনুমোদিত ব্যাংকের মাধ্যমে বিদেশে চিকিৎসার জন্য এখন থেকে সর্বোচ্চ ৩০ হাজার ডলার বা সমপরিমাণ বৈদেশিক মুদ্রা পাঠানো যাবে।",
+          "পূর্বের নিয়ম অনুযায়ী এই সীমা ১৫ হাজার ডলার নির্ধারণ করা ছিল এবং চিকিৎসার পাশাপাশি পড়াশোনার খরচ পাঠানোর নিয়মও শিথিল করা হয়েছে।",
+          "বৈদেশিক মুদ্রা পাঠানোর ক্ষেত্রে নমনীয়তা আনা এবং বৈধ চলতি হিসাবের লেনদেন সহজ করার লক্ষ্যে এই নতুন সিদ্ধান্ত কার্যকর করা হয়েছে।"
+        ],
+        "bullets_en": [
+          "Authorized banks can now remit up to thirty thousand dollars or equivalent foreign currency for medical treatments abroad.",
+          "The previous limit was fixed at fifteen thousand dollars, and regulations for sending education expenses have also been relaxed.",
+          "This new decision aims to introduce flexibility in remitting foreign currency and facilitate legitimate current account transactions."
+        ],
+        "impact_bn": "বিদেশি চিকিৎসাসেবা গ্রহণকারী রোগী এবং বিদেশে অধ্যয়নরত শিক্ষার্থীদের অভিভাবকেরা এখন জটিলতা ছাড়াই সহজে অর্থ পাঠাতে পারবেন।",
+        "impact_en": "Patients seeking medical care abroad and guardians of students studying overseas will now be able to remit funds easily without regulatory complexities.",
+        "details_bn": "বাংলাদেশ ব্যাংক বৈদেশিক মুদ্রানীতি বিভাগের নতুন সার্কুলারের মাধ্যমে চিকিৎসার পাশাপাশি মাধ্যমিক ও উচ্চমাধ্যমিক স্তরের পড়াশোনার খরচ পাঠানোর নিয়ম শিথিল করেছে। আগে স্কুলপর্যায়ের পড়াশোনার জন্য কেন্দ্রীয় ব্যাংকের পূর্বানুমোদন প্রয়োজন হলেও এখন ডিলার ব্যাংকগুলো নিজেরাই এসব খাতে বৈদেশিক মুদ্রা ছাড় করতে পারবে। এছাড়া আরএফসিডি হিসাবে বৈদেশিক মুদ্রা জমার নিয়মেও পরিবর্তন আনা হয়েছে।",
+        "details_en": "Through a new circular by the Foreign Exchange Policy Department, Bangladesh Bank has relaxed rules for remitting education expenses alongside medical costs. Previously, school-level studies required central bank approval, but now authorized dealer banks can directly release foreign currency for these sectors. Regulations regarding foreign currency deposits in RFCD accounts have also been revised."
+      }
+    },
+    {
+      "story_id": "3b74aa71-bfa7-5dd6-8788-9373a8cbcccc",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business",
+        "climate_environment"
+      ],
+      "region": "international",
+      "tags": [
+        "#HormuzStrait",
+        "#IranWar",
+        "#GlobalShipping"
+      ],
+      "image_url": "https://static.dw.com/image/79139673_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-09T15:04:10.919571+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.6884,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/strait-of-hormuz-still-a-source-of-leverage-for-iran/a-79901647?maca=en-rss-en-all-1573-rdf",
+          "title": "Strait of Hormuz still a source of leverage for Iran",
+          "snippet": "Strait of Hormuz still a source of leverage for Iran"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "হরমুজ প্রণালীতে বাণিজ্যিক জাহাজে হামলা অব্যাহত রেখেছে ইরান",
+        "title_en": "Iran Continues Attacks on Commercial Ships in Hormuz Strait",
+        "summary_bn": "ইরান যুদ্ধের পর থেকে হরমুজ প্রণালীতে বাণিজ্যিক জাহাজে হামলা অব্যাহত রয়েছে যা বৈশ্বিক শিপিং খরচ বৃদ্ধি করেছে।",
+        "summary_en": "Attacks on commercial vessels in the Strait of Hormuz since the Iran war have increased shipping risks and costs.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-09T15:04:10.919571+00:00",
+        "lead_bn": "ইরান যুদ্ধের পর থেকে হরমুজ প্রণালীতে বাণিজ্যিক জাহাজে হামলা অব্যাহত রয়েছে যা বৈশ্বিক শিপিং খরচ বৃদ্ধি করেছে।",
+        "lead_en": "Attacks on commercial vessels in the Strait of Hormuz since the Iran war have increased shipping risks and costs.",
+        "bullets_bn": [
+          "বাণিজ্যিক জাহাজে হামলার মাধ্যমে হরমুজ প্রণালীতে ভূরাজনৈতিক কৌশলগত প্রভাব বজায় রাখছে ইরান",
+          "যুক্তরাজ্য মেরিটাইম ট্রেড অপারেশনস সেন্টারের তথ্য অনুযায়ী প্রণালী দিয়ে সাপ্তাহিক জাহাজ চলাচল যুদ্ধের পূর্বের তুলনায় পঁয়ষট্টি শতাংশ কম রয়েছে",
+          "সামরিক শক্তির চেয়ে অর্থনৈতিক সীমাবদ্ধতা এবং রাজনৈতিক খরচই তেহরানের দীর্ঘমেয়াদী হামলা চালিয়ে যাওয়ার মূল বাধা"
+        ],
+        "bullets_en": [
+          "Iran maintains strategic leverage in the Strait of Hormuz through ongoing attacks on commercial vessels.",
+          "UK Maritime Trade Operations Center data shows weekly transits remain roughly sixty five percent below pre-war levels.",
+          "Economic burdens and political costs rather than military limits pose the main constraint on Tehran's operations."
+        ],
+        "impact_bn": "বৈশ্বিক শিপিং রুটে বিঘ্ন ঘটায় আন্তর্জাতিক বাণিজ্যে পরিবহন ব্যয় ও পণ্যের দাম বৃদ্ধি পাচ্ছে।",
+        "impact_en": "Disruptions to global shipping routes drive up transportation costs and consumer goods prices internationally.",
+        "details_bn": "ইরান যুদ্ধের সূত্রপাতের পর থেকে মধ্যপ্রাচ্যের কৌশলগত হরমুজ প্রণালীতে চলাচলকারী বাণিজ্যিক জাহাজগুলো নিয়মিত হামলার শিকার হচ্ছে। এর ফলে ক্রুদের নিরাপত্তা ঝুঁকি তৈরি হওয়ার পাশাপাশি শিপিং কোম্পানিগুলোকে উচ্চ খরচে বিকল্প পথ বেছে নিতে হচ্ছে অথবা যাত্রা বিলম্বিত করতে হচ্ছে। যুক্তরাষ্ট্র এই জলপথ সুরক্ষার চেষ্টা চালিয়ে গেলেও ইরানের ভূরাজনৈতিক কৌশল এবং অর্থনৈতিক চাপ দীর্ঘমেয়াদী সংকটের আশঙ্কা তৈরি করেছে।",
+        "details_en": "Since the onset of the conflict, commercial vessels navigating the strategic Strait of Hormuz have faced persistent attacks, endangering crews and forcing shipping companies to incur higher costs or delay cargoes. While the United States attempts to protect maritime traffic, Iran leverages the waterway for strategic advantage, though economic and political constraints limit the sustainability of complete closures."
+      }
+    },
+    {
+      "story_id": "0dae8a0b-4863-5368-97ae-9ead050075f3",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "tech_innovation"
+      ],
+      "region": "international",
+      "tags": [
+        "#Nvidia",
+        "#USChinaRelations",
+        "#TechSecurity"
+      ],
+      "image_url": "https://static.dw.com/image/75070893_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-09T15:04:10.919571+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.6884,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/why-nvidia-ceo-s-affair-with-alleged-chinese-spy-matters/a-79898338?maca=en-rss-en-all-1573-rdf",
+          "title": "Why Nvidia CEO's affair with alleged Chinese spy matters",
+          "snippet": "Why Nvidia CEO's affair with alleged Chinese spy matters"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "এনভিডিয়া প্রধানের সাথে চীনা গুপ্তচরবৃত্তির অভিযোগে তদন্ত শুরু করেছে বোর্ড",
+        "title_en": "Nvidia Board Launches Inquiry Into CEO Over Alleged Chinese Spy Affair",
+        "summary_bn": "মার্কিন গোয়েন্দাদের সতর্কবার্তার পর এনভিডিয়ার প্রধান নির্বাহী জেনসেন হুয়াংয়ের বিরুদ্ধে চীনা গুপ্তচরবৃত্তির অভিযোগের স্বাধীন তদন্ত শুরু হয়েছে।",
+        "summary_en": "Nvidia is investigating CEO Jensen Huang following US intelligence reports alleging an affair with an operative linked to China.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-09T15:04:10.919571+00:00",
+        "lead_bn": "মার্কিন গোয়েন্দাদের সতর্কবার্তার পর এনভিডিয়ার প্রধান নির্বাহী জেনসেন হুয়াংয়ের বিরুদ্ধে চীনা গুপ্তচরবৃত্তির অভিযোগের স্বাধীন তদন্ত শুরু হয়েছে।",
+        "lead_en": "Nvidia is investigating CEO Jensen Huang following US intelligence reports alleging an affair with an operative linked to China.",
+        "bullets_bn": [
+          "এনভিডিয়ার প্রধান নির্বাহী জেনসেন হুয়াংয়ের সাথে চীনা গোয়েন্দা সংস্থার সাথে সম্পৃক্ত এক নারী নির্বাহীর সম্পর্কের বিষয়টি প্রকাশ্যে এসেছে।",
+          "যুক্তরাষ্ট্রের গোয়েন্দা কর্মকর্তারা জেনসেন হুয়াংয়ের এই সম্পর্কের বিষয়ে একটি মেমো প্রস্তুত করেছেন যা মার্কিন জাতীয় নিরাপত্তার প্রশ্ন তুলেছে।",
+          "কোম্পানির স্বাধীন বোর্ড সদস্য এবং একটি বাইরের আইন ফার্ম এই ঘটনার পূর্ণাঙ্গ তদন্ত পরিচালনা করছে।"
+        ],
+        "bullets_en": [
+          "Nvidia CEO Jensen Huang admitted to an affair with a female executive suspected by US intelligence of working as a Chinese spy.",
+          "US government officials drafted an intelligence memo detailing the allegations concerning the five-trillion-dollar semiconductor giant.",
+          "Nvidia announced an independent board-led investigation utilising an external law firm to examine potential security breaches."
+        ],
+        "impact_bn": "এই তদন্তের ফলে বৈশ্বিক প্রযুক্তি বাজারে চিপ সরবরাহ এবং কৃত্রিম বুদ্ধিমত্তা খাতের প্রতিযোগিতায় বড় ধরনের প্রভাব পড়তে পারে।",
+        "impact_en": "Security concerns surrounding major semiconductor firms could impact global tech supply chains and artificial intelligence development timelines.",
+        "details_bn": "ফিন্যান্সিয়াল টাইমসের প্রতিবেদনে বলা হয়, এনভিডিয়ার একটি সিঙ্গাপুরভিত্তিক গ্রাহক প্রতিষ্ঠানের নির্বাহী অ্যালিস এইচ-এর সাথে সম্পর্ক ছিল প্রধান নির্বাহী জেনসেন হুয়াংয়ের। মার্কিন প্রশাসন মনে করে ওই নারী চীনের রাষ্ট্রীয় নিরাপত্তা মন্ত্রণালয়ের হয়ে গুপ্তচরবৃত্তি করছিলেন। এই ঘটনা ৫ ট্রিলিয়ন ডলারের মার্কিন প্রযুক্তি প্রতিষ্ঠানটির নিরাপত্তা এবং বাণিজ্য গোপনীয়তা রক্ষা নিয়ে গুরুতর প্রশ্ন তুলেছে।",
+        "details_en": "The Financial Times revealed that Nvidia CEO Jensen Huang had a relationship with Alice H., an executive at a Singapore-based customer firm whom US intelligence suspects was recruited by China's Ministry of State Security. The allegations have raised serious national and economic security concerns regarding the five-trillion-dollar company's sensitive technology and trade secrets."
       }
     }
   ]
