@@ -1,12 +1,183 @@
 {
-  "updated_at": "2026-11-10T14:16:41.139795",
+  "updated_at": "2026-11-11T13:30:22.284989",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "a6750cad-1186-591f-a026-3541b6752e91",
+      "story_id": "2e0ccd05-aa73-5f9c-b32a-5997612e962f",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#ClimateAction",
+        "#BilateralTies",
+        "#COP31"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-11-11T13:12:09+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.2,
+      "rank_score": 2.4274,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/424344/tarique-uzbek-president-discuss-strengthening",
+          "title": "Tarique, Uzbek President discuss strengthening bilateral ties",
+          "snippet": "Tarique, Uzbek President discuss strengthening bilateral ties"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "তারিক রহমান ও উজবেকিস্তানের রাষ্ট্রপতির দ্বিপক্ষীয় সম্পর্ক জোরদার নিয়ে আলোচনা",
+        "title_en": "Tarique and Uzbek President Discuss Strengthening Bilateral Ties",
+        "summary_bn": "জলবায়ু পরিবর্তন মোকাবিলা ও দ্বিপক্ষীয় সহযোগিতা প্রসারের বিষয়ে বৈঠক করেছেন তারিক রহমান এবং উজবেকিস্তানের রাষ্ট্রপতি।",
+        "summary_en": "Tarique and the Uzbek President held talks to discuss climate change impacts and expand bilateral cooperation.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-11T13:12:09+00:00",
+        "lead_bn": "জলবায়ু পরিবর্তন মোকাবিলা ও দ্বিপক্ষীয় সহযোগিতা প্রসারের বিষয়ে বৈঠক করেছেন তারিক রহমান এবং উজবেকিস্তানের রাষ্ট্রপতি।",
+        "lead_en": "Tarique and the Uzbek President held talks to discuss climate change impacts and expand bilateral cooperation.",
+        "bullets_bn": [
+          "জলবায়ু পরিবর্তন মোকাবিলায় দুই নেতা পারস্পরিক সহযোগিতা বাড়ানোর বিষয়ে ঐকমত্যে পৌঁছেছেন।",
+          "বৈঠকে দ্বিপক্ষীয় সম্পর্ক ও বিভিন্ন খাতে অংশীদারত্ব বাড়ানোর সুনির্দিষ্ট বিষয়গুলো স্থান পায়।",
+          "উভয় পক্ষ ভবিষ্যতে কূটনৈতিক ও পরিবেশগত যৌথ উদ্যোগ আরও জোরদার করার সিদ্ধান্ত নিয়েছে।"
+        ],
+        "bullets_en": [
+          "The leaders reached a consensus to enhance mutual cooperation in tackling climate change.",
+          "The discussions focused on expanding bilateral relations and sectoral partnerships.",
+          "Both sides decided to further strengthen future diplomatic and environmental joint initiatives."
+        ],
+        "impact_bn": "জলবায়ু সহযোগিতার এই উদ্যোগ দেশের পরিবেশ রক্ষা ও আন্তর্জাতিক কূটনৈতিক সম্পর্ক উন্নয়নে ইতিবাচক ভূমিকা রাখবে।",
+        "impact_en": "This climate cooperation initiative will positively contribute to national environmental protection and international diplomatic ties.",
+        "details_bn": "জলবায়ু সম্মেলন ও আন্তর্জাতিক মঞ্চগুলোতে দ্বিপক্ষীয় সম্পর্ক জোরদার করার অংশ হিসেবে বিভিন্ন দেশের রাষ্ট্রপ্রধানদের সাথে নিয়মিত উচ্চপর্যায়ের বৈঠক অনুষ্ঠিত হয়ে আসছে। এরই ধারাবাহিকতায় জলবায়ু পরিবর্তন ও পারস্পরিক স্বার্থসংশ্লিষ্ট বিষয় নিয়ে এই গুরুত্বপূর্ণ আলোচনাটি সম্পন্ন হয়।",
+        "details_en": "High-level meetings regularly take place with heads of state on the sidelines of international summits to strengthen bilateral relations. This discussion follows that ongoing diplomatic engagement to address climate change and mutual interests."
+      }
+    },
+    {
+      "story_id": "7c516964-6604-5d81-89a6-9fe6a9036695",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.channelionline.com/2026/11/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-11-11T13:29:50+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.9328,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/316-killed-in-armed-attacks-in-the-hill-regions-over-5-years-home-minister/",
+          "title": "পার্বত্য অঞ্চলে ৫ বছরে সশস্ত্র হামলায় নিহত ৩১৬ জন: স্বরাষ্ট্রমন্ত্রী",
+          "snippet": "পার্বত্য অঞ্চলে ৫ বছরে সশস্ত্র হামলায় নিহত ৩১৬ জন: স্বরাষ্ট্রমন্ত্রী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পার্বত্য অঞ্চলে পাঁচ বছরে সশস্ত্র হামলায় নিহত ৩১৬ জন",
+        "title_en": "Three Hundred Sixteen Killed in Five Years of Armed Attacks in Hill Tracts",
+        "summary_bn": "পার্বত্য চট্টগ্রামে গত পাঁচ বছরে সশস্ত্র গোষ্ঠীর হামলায় তিন শতাধিক মানুষের প্রাণহানি ঘটেছে বলে সংসদে জানিয়েছে স্বরাষ্ট্র মন্ত্রণালয়।",
+        "summary_en": "Over three hundred people were killed in armed group attacks in the Chittagong Hill Tracts over the past five years, the home ministry told parliament.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-11T13:29:50+00:00",
+        "lead_bn": "পার্বত্য চট্টগ্রামে গত পাঁচ বছরে সশস্ত্র গোষ্ঠীর হামলায় তিন শতাধিক মানুষের প্রাণহানি ঘটেছে বলে সংসদে জানিয়েছে স্বরাষ্ট্র মন্ত্রণালয়।",
+        "lead_en": "Over three hundred people were killed in armed group attacks in the Chittagong Hill Tracts over the past five years, the home ministry told parliament.",
+        "bullets_bn": [
+          "পার্বত্য চট্টগ্রামে সশস্ত্র গোষ্ঠীর হামলায় গত পাঁচ বছরে তিন শতাধিক মানুষ নিহত ও চার শতাধিক আহত হয়েছেন।",
+          "নিহতদের মধ্যে তিন শতাধিক বেসামরিক নাগরিক এবং আটজন নিরাপত্তা বাহিনীর সদস্য রয়েছে বলে সরকারি পরিসংখ্যানে জানানো হয়েছে।",
+          "পাহাড়ে শান্তিশৃঙ্খলা বজায় রাখতে এবং সন্ত্রাসীদের তৎপরতা দমনে যৌথবাহিনীর বিশেষ অভিযান চলমান রয়েছে।"
+        ],
+        "bullets_en": [
+          "Over three hundred people were killed and four hundred injured in armed group attacks in the Hill Tracts over five years.",
+          "Official statistics show that the casualties include over three hundred civilians and eight security personnel.",
+          "Joint security operations remain ongoing in the hills to maintain law and order and suppress terrorist activities."
+        ],
+        "impact_bn": "পার্বত্য অঞ্চলের সাধারণ মানুষ ও ক্ষুদ্র নৃগোষ্ঠীর নিরাপত্তা নিশ্চিত করতে আইনশৃঙ্খলা বাহিনীর নজরদারি ও অভিযান জোরদার করা হয়েছে।",
+        "impact_en": "Security forces have intensified patrols and intelligence operations to ensure the safety of ordinary residents and ethnic minorities in the region.",
+        "details_bn": "পার্বত্য চট্টগ্রামের রাঙামাটি, খাগড়াছড়ি ও বান্দরবান জেলায় দীর্ঘদিন ধরে বিভিন্ন সশস্ত্র গোষ্ঠীর তৎপরতা, অপহরণ ও চাঁদাবাজির ঘটনা ঘটছে। এসব এলাকার নিরাপত্তা পরিস্থিতি নিয়ন্ত্রণে রাখতে বাংলাদেশ সেনাবাহিনী, বিজিবি ও পুলিশের যৌথ টহল এবং গোয়েন্দা কার্যক্রম পরিচালিত হচ্ছে। সরকার পাহাড়ে অবৈধ অস্ত্রধারী ও সন্ত্রাসীদের বিরুদ্ধে কঠোর আইনানুগ ব্যবস্থা গ্রহণের কথা জানিয়েছে।",
+        "details_en": "Armed groups have long been active in the Rangamati, Khagrachhari, and Bandarban districts, engaging in extortion and kidnappings. Joint patrols and intelligence operations by the Bangladesh Army, BGB, and police are currently underway to maintain regional stability. The government maintains a strict stance against illegal arms holders and criminal syndicates operating in the hills."
+      }
+    },
+    {
+      "story_id": "e41a604f-073b-5c32-841d-aa320f083352",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-11-11T13:22:24+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.7884,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/politics/news/1178374",
+          "title": "ওপারের উসকানিতে ঢাকায় ‘একটি দলের’ গোপন বৈঠকের সম্পর্ক আছে কি না",
+          "snippet": "ওপারের উসকানিতে ঢাকায় ‘একটি দলের’ গোপন বৈঠকের সম্পর্ক আছে কি না"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ঢাকায় বিদেশি সংস্থার সাথে রাজনৈতিক গোপন বৈঠকের উসকানি খতিয়ে দেখার দাবি",
+        "title_en": "Questions Raised Over Secret Political Meetings With Foreign Agencies in Dhaka",
+        "summary_bn": "ঢাকায় একাধিক রাজনৈতিক নেতার সাথে বিদেশি সংস্থার গোপন বৈঠকের উসকানিমূলক প্রভাব খতিয়ে দেখার প্রশ্ন তোলা হয়েছে।",
+        "summary_en": "Questions have been raised regarding whether secret meetings between political leaders and foreign agencies in Dhaka involve external provocations.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-11T13:22:24+00:00",
+        "lead_bn": "ঢাকায় একাধিক রাজনৈতিক নেতার সাথে বিদেশি সংস্থার গোপন বৈঠকের উসকানিমূলক প্রভাব খতিয়ে দেখার প্রশ্ন তোলা হয়েছে।",
+        "lead_en": "Questions have been raised regarding whether secret meetings between political leaders and foreign agencies in Dhaka involve external provocations.",
+        "bullets_bn": [
+          "ঢাকায় একটি দলের শীর্ষ নেতাদের সাথে বিদেশি সংস্থার প্রতিনিধিদের গোপন বৈঠকের খবর পাওয়া গেছে।",
+          "এসব গোপন বৈঠকের সাথে সাম্প্রতিক উসকানিমূলক ঘটনার কোনো যোগসূত্র আছে কি না তা নিয়ে প্রশ্ন উঠেছে।",
+          "জাতীয় নিরাপত্তা বজায় রাখতে রাজনৈতিক দলের বিদেশি লেনদেন ও কর্মকাণ্ড পর্যবেক্ষণের তাগিদ দেওয়া হচ্ছে।"
+        ],
+        "bullets_en": [
+          "Top leaders of a political party reportedly held secret meetings with foreign agency representatives in Dhaka.",
+          "Public figures raised concerns regarding potential links between these confidential meetings and recent external provocations.",
+          "Relevant authorities are being urged to monitor foreign interactions to preserve domestic stability."
+        ],
+        "impact_bn": "রাজনৈতিক স্বচ্ছতা বজায় রাখলে দেশের সার্বিক শান্তি ও নাগরিকদের নিরাপত্তা সুরক্ষিত থাকবে।",
+        "impact_en": "Enhancing political transparency and curbing foreign interference help preserve public safety and national security.",
+        "details_bn": "ঢাকায় একটি রাজনৈতিক দলের শীর্ষ নেতাদের সঙ্গে বিভিন্ন বিদেশি সংস্থার লোকজনের গোপন বৈঠক নিয়ে নানা গুঞ্জন তৈরি হয়েছে। বিশ্লেষক ও সংশ্লিষ্ট মহল থেকে এসব গোপন আলোচনার নেপথ্য উদ্দেশ্য এবং সাম্প্রতিক উসকানিমূলক ঘটনার কোনো সরাসরি যোগসূত্র রয়েছে কি না তা খতিয়ে দেখার আহ্বান জানানো হচ্ছে। জাতীয় নিরাপত্তা নিশ্চিত করতে এবং বিদেশি প্রভাবমুক্ত রাজনীতি বজায় রাখতে পরিস্থিতি নজরদারিতে রাখা হচ্ছে।",
+        "details_en": "Reports recently surfaced regarding secret discussions between political party leaders and foreign agency representatives in Dhaka. Concerns have mounted among public figures over whether these confidential engagements are connected to external provocations designed to destabilize the political landscape. Analysts stress the necessity of monitoring foreign interactions to safeguard national sovereignty and maintain public order."
+      }
+    },
+    {
+      "story_id": "eb2a20c9-a11c-5e54-a130-f3d7dd9ffc7d",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy"
+        "world_diplomacy",
+        "society_education"
       ],
       "region": "national",
       "tags": [
@@ -15,344 +186,167 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-11-10T13:55:29+00:00",
+      "published_at": "2026-11-11T13:28:59+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 2.1651,
+      "importance_score": 2.4,
+      "rank_score": 0.9576,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/980092/%E0%A6%A4%E0%A7%81%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A7%8C%E0%A6%81%E0%A6%9B%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80",
-          "title": "তুরস্কের আন্তালিয়ায় পৌঁছেছেন প্রধানমন্ত্রী",
-          "snippet": "তুরস্কের আন্তালিয়ায় পৌঁছেছেন প্রধানমন্ত্রী"
+          "url": "https://www.banglatribune.com/foreign/middle-east/980319/%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B9%E0%A7%81%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%9A%E0%A7%87%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%B2-%E0%A6%AC%E0%A6%BF%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A6%BF",
+          "title": "নেতানিয়াহুর সঙ্গে চেহারার মিল, বিপাকে ইরানি ব্যবসায়ী",
+          "snippet": "নেতানিয়াহুর সঙ্গে চেহারার মিল, বিপাকে ইরানি ব্যবসায়ী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জলবায়ু সম্মেলনে যোগ দিতে তুরস্কের আন্তালিয়ায় পৌঁছেছেন প্রধানমন্ত্রী তারেক রহমান",
-        "title_en": "Prime Minister Tarique Rahman Arrives in Antalya for Climate Summit",
-        "summary_bn": "জাতিসংঘ জলবায়ু পরিবর্তন বিষয়ক শীর্ষ সম্মেলনে অংশ নিতে তিন দিনের সফরে তুরস্কের আন্তালিয়ায় পৌঁছান প্রধানমন্ত্রী তারেক রহমান।",
-        "summary_en": "Prime Minister Tarique Rahman arrived in Antalya, Turkey, on a three-day visit to attend the UN climate change summit.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-10T13:55:29+00:00",
-        "lead_bn": "জাতিসংঘ জলবায়ু পরিবর্তন বিষয়ক শীর্ষ সম্মেলনে অংশ নিতে তিন দিনের সফরে তুরস্কের আন্তালিয়ায় পৌঁছান প্রধানমন্ত্রী তারেক রহমান।",
-        "lead_en": "Prime Minister Tarique Rahman arrived in Antalya, Turkey, on a three-day visit to attend the UN climate change summit.",
-        "bullets_bn": [
-          "প্রধানমন্ত্রী তারেক রহমান কপ-৩১ জলবায়ু সম্মেলনে যোগ দিতে তুরস্ক সফর শুরু করেছেন।",
-          "সফরে তার সঙ্গে রয়েছেন সহধর্মিণী ডা. জুবাইদা রহমানসহ একটি উচ্চপর্যায়ের প্রতিনিধিদল।",
-          "বিমানবন্দরে পৌঁছানোর পর তাকে তুরস্ক প্রজাতন্ত্রের পক্ষ থেকে আনুষ্ঠানিকভাবে অভ্যর্থনা জানানো হয়।"
-        ],
-        "bullets_en": [
-          "Prime Minister Tarique Rahman began his Turkey visit to attend the COP31 climate summit.",
-          "He is accompanied by his spouse Dr. Zubaida Rahman and an official delegation.",
-          "He received an official welcome from representatives of the Republic of Turkey at the airport."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "জাতিসংঘের জলবায়ু পরিবর্তন বিষয়ক শীর্ষ সম্মেলন বা কপ-৩১ বিশ্বজুড়ে জলবায়ু পরিবর্তনের ঝুঁকি মোকাবিলা এবং কার্বন নিঃসরণ কমানোর বিষয়ে আলোচনার একটি গুরুত্বপূর্ণ বৈশ্বিক মঞ্চ। এই সম্মেলনে বাংলাদেশ প্রতিনিধিদলের অংশগ্রহণ জলবায়ু পরিবর্তনের কারণে ক্ষতিগ্রস্ত দেশগুলোর অধিকার এবং আন্তর্জাতিক সহায়তার বিষয়টি জোরালোভাবে তুলে ধরতে সাহায্য করবে।",
-        "details_en": "The UN climate change summit serves as a crucial global platform to address climate vulnerabilities and mitigation strategies. Bangladesh participation aims to highlight the country climate challenges and advocate for international support and climate justice."
-      }
-    },
-    {
-      "story_id": "23647dd4-22de-5e42-86d3-a01065ec11b4",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Economy",
-        "#Finance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2023-10%2F9ab3d142-b5da-496e-8554-54f19b007b37%2Fprothomalo_english_2021_06_688bf2c6_f736_4fe0_a579_016e38af36b6_Bangladesh_Bank.webp?rect=0%2C0%2C400%2C210&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-10T13:43:54+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 1.7768,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/business/bank/60xvbjlgf0",
-          "title": "হজের খরচের অর্থ সৌদি আরবে কীভাবে পাঠাতে হবে, তা জানিয়েছে বাংলাদেশ ব্যাংক",
-          "snippet": "হজের খরচের অর্থ সৌদি আরবে কীভাবে পাঠাতে হবে, তা জানিয়েছে বাংলাদেশ ব্যাংক"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "হজের সৌদি পর্বের খরচ পাঠাতে ব্যাংকিং নির্দেশনা জারি বাংলাদেশ ব্যাংকের",
-        "title_en": "Bangladesh Bank Issues Directives for Remitting Hajj Expenses to Saudi Arabia",
-        "summary_bn": "বাংলাদেশ ব্যাংক হজ ব্যবস্থাপনার খরচ সোনালী ব্যাংকসহ সংশ্লিষ্ট ব্যাংকের মাধ্যমে সরাসরি আন্তর্জাতিক ব্যাংক অ্যাকাউন্ট নম্বরে পাঠানোর নির্দেশ দিয়েছে।",
-        "summary_en": "Bangladesh Bank directs relevant banks to remit Hajj management expenses directly to international bank account numbers.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-10T13:43:54+00:00",
-        "lead_bn": "বাংলাদেশ ব্যাংক হজ ব্যবস্থাপনার খরচ সোনালী ব্যাংকসহ সংশ্লিষ্ট ব্যাংকের মাধ্যমে সরাসরি আন্তর্জাতিক ব্যাংক অ্যাকাউন্ট নম্বরে পাঠানোর নির্দেশ দিয়েছে।",
-        "lead_en": "Bangladesh Bank directs relevant banks to remit Hajj management expenses directly to international bank account numbers.",
-        "bullets_bn": [
-          "হজযাত্রীদের সৌদি পর্বের খরচের অর্থ সরাসরি আন্তর্জাতিক ব্যাংক অ্যাকাউন্ট নম্বরের মাধ্যমে পাঠানোর নির্দেশ দেওয়া হয়েছে",
-          "নিবন্ধিত হজযাত্রীদের ব্যয়ের অর্থ সোনালী ব্যাংকের নির্দিষ্ট হিসাবের মাধ্যমে পাঠাতে হবে",
-          "সুষ্ঠু হজ ব্যবস্থাপনা নিশ্চিত করতে নির্দিষ্ট সময়ের মধ্যে আবাসন ও সেবা মাশুল পরিশোধ করতে হবে"
-        ],
-        "bullets_en": [
-          "Banks are instructed to remit Hajj expenses directly via international bank account numbers",
-          "Registered pilgrims' Saudi expense funds must be sent through designated Sonali Bank accounts",
-          "Housing and service fees must be paid within the specified timeframe to ensure smooth management"
-        ],
-        "impact_bn": "হজযাত্রীদের অর্থ লেনদেন প্রক্রিয়া সহজতর হওয়ায় সঠিক সময়ে সেবা নিশ্চিত হবে।",
-        "impact_en": "Streamlines financial transactions for pilgrims to ensure timely service delivery in Saudi Arabia.",
-        "details_bn": "ধর্মবিষয়ক মন্ত্রণালয়ের চিঠির পরিপ্রেক্ষিতে বাংলাদেশ ব্যাংক এই প্রজ্ঞাপন জারি করে। সুষ্ঠু হজ ব্যবস্থাপনার স্বার্থে নির্দিষ্ট সময়ের মধ্যে আবাসন ব্যবস্থা, তাঁবু বুকিং এবং সার্ভিস কোম্পানির সঙ্গে চুক্তি সম্পাদনের জন্য এই অর্থ পাঠানো জরুরি। সৌদি সরকার ২০২৭ সালের হজে বাংলাদেশের জন্য প্রাথমিকভাবে ৭৮ হাজার ৫০০ জনের কোটা বরাদ্দ করেছে। এছাড়া প্রকাশিত প্যাকেজ অনুযায়ী সৌদি পর্বে জনপ্রতি সর্বোচ্চ চার লাখ ৭০ হাজার ৯০ টাকা এবং সর্বনিম্ন তিন লাখ ৬২ হাজার ৯১১ টাকা নির্ধারিত রয়েছে।",
-        "details_en": "Bangladesh Bank issued this directive following a letter from the Ministry of Religious Affairs. Remitting the funds promptly is crucial for securing accommodations, tent bookings in Mina-Arafat, and finalizing service contracts within the deadline. The Saudi government has initially allocated a quota of 78,500 pilgrims for Bangladesh. Under the announced packages, expenses for the Saudi phase range between Tk 3,62,911 and Tk 4,70,090 per person."
-      }
-    },
-    {
-      "story_id": "199c03e7-0a1d-5148-a48d-b6a69bc76660",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-11-10T14:07:08+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.7608,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/sports/football/1177990",
-          "title": "বাংলাদেশ-শ্রীলংকা ম্যাচের ভাগ্য নির্ধারক হতে পারেন প্রবাসী ফুটবলাররা",
-          "snippet": "বাংলাদেশ-শ্রীলংকা ম্যাচের ভাগ্য নির্ধারক হতে পারেন প্রবাসী ফুটবলাররা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সাফ চ্যাম্পিয়নশিপে শ্রীলংকার মুখোমুখি হচ্ছে বাংলাদেশ",
-        "title_en": "Bangladesh to Face Sri Lanka in SAFF Championship",
-        "summary_bn": "সাফ চ্যাম্পিয়নশিপের এ গ্রুপের শেষ ম্যাচে শ্রীলংকার বিপক্ষে মাঠে নামছে বাংলাদেশ দল।",
-        "summary_en": "Bangladesh is taking on Sri Lanka in the final match of Group A in the SAFF Championship.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-10T14:07:08+00:00",
-        "lead_bn": "সাফ চ্যাম্পিয়নশিপের এ গ্রুপের শেষ ম্যাচে শ্রীলংকার বিপক্ষে মাঠে নামছে বাংলাদেশ দল।",
-        "lead_en": "Bangladesh is taking on Sri Lanka in the final match of Group A in the SAFF Championship.",
-        "bullets_bn": [
-          "সাফ চ্যাম্পিয়নশিপে এ গ্রুপের শেষ ম্যাচে শ্রীলংকার মুখোমুখি হবে বাংলাদেশ",
-          "দুই দলের ম্যাচে জয়-পরাজয়ের ব্যবধান গড়ে দিতে পারেন প্রবাসী ফুটবলাররা",
-          "বাংলাদেশ ও শ্রীলংকা উভয় দলেই বেশ কয়েকজন প্রবাসী ফুটবলার রয়েছেন"
-        ],
-        "bullets_en": [
-          "Bangladesh will face Sri Lanka in the final Group A match of the SAFF Championship",
-          "Expatriate footballers are expected to make the decisive difference in the match",
-          "Both Bangladesh and Sri Lanka squads feature prominent foreign-based players"
-        ],
-        "impact_bn": "ফুটবলপ্রেমী তরুণ ও সমর্থকরা এই ম্যাচে দলের জয়ের মাধ্যমে নতুন সাফল্যের প্রত্যাশা করছেন।",
-        "impact_en": "Football fans and young supporters are eagerly anticipating a successful tournament run from the national team.",
-        "details_bn": "সাফ চ্যাম্পিয়নশিপে নিজেদের গ্রুপ পর্বের শেষ ম্যাচে শ্রীলংকার মোকাবেলা করবে বাংলাদেশ। টুর্নামেন্টে নিজেদের টিকে থাকা এবং পরবর্তী রাউন্ডের সমীকরণ নিশ্চিত করতে এই ম্যাচটি অত্যন্ত গুরুত্বপূর্ণ। উভয় দলের স্কোয়াডে থাকা প্রবাসী ফুটবলারদের পারফরম্যান্স খেলার মোড় ঘুরিয়ে দিতে পারে বলে মনে করছেন বিশ্লেষকরা।",
-        "details_en": "Bangladesh is set to face Sri Lanka in their final group stage match of the SAFF Championship. This fixture holds significant importance for both sides as they aim to secure their progression in the tournament. Analysts note that the inclusion of expatriate footballers in both squads could prove to be the ultimate game-changer."
-      }
-    },
-    {
-      "story_id": "6f25b79c-2af7-5156-8c3d-38c4ef8ca8cb",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-11-10T13:54:57+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.5669,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1177984",
-          "title": "হাসিবের ওপর হামলাকারীদের গ্রেফতারে পুলিশের চেষ্টা চলছে: রাশেদ খাঁন",
-          "snippet": "হাসিবের ওপর হামলাকারীদের গ্রেফতারে পুলিশের চেষ্টা চলছে: রাশেদ খাঁন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "হাসিবের ওপর হামলাকারীদের গ্রেফতারে পুলিশ কাজ করছে বলে রাশেদ খাঁনের মন্তব্য",
-        "title_en": "Police are working to arrest Hasib attackers says Rashed Khan",
-        "summary_bn": "বৈষম্যবিরোধী ছাত্র আন্দোলনের সমন্বয়ক হাসিবের ওপর হামলাকারীদের দ্রুত গ্রেফতারে পুলিশি চেষ্টা চলছে বলে জানিয়েছে জাতীয় ছাত্রশক্তি।",
-        "summary_en": "Police are making every effort to arrest the attackers of anti-discrimination student movement coordinator Hasib.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-10T13:54:57+00:00",
-        "lead_bn": "বৈষম্যবিরোধী ছাত্র আন্দোলনের সমন্বয়ক হাসিবের ওপর হামলাকারীদের দ্রুত গ্রেফতারে পুলিশি চেষ্টা চলছে বলে জানিয়েছে জাতীয় ছাত্রশক্তি।",
-        "lead_en": "Police are making every effort to arrest the attackers of anti-discrimination student movement coordinator Hasib.",
-        "bullets_bn": [
-          "হামলাকারীদের গ্রেফতারে পুলিশের পক্ষ থেকে সর্বাত্মক প্রচেষ্টা চালানো হচ্ছে।",
-          "জাতীয় ছাত্রশক্তির ঢাকা বিশ্ববিদ্যালয় শাখার সভাপতি হাসিবের ওপর এই হামলা চালানো হয়।",
-          "মৌলভীবাজারের শ্রীমঙ্গলে এই হামলার ঘটনা সংঘটিত হয়।"
-        ],
-        "bullets_en": [
-          "Police are making all-out efforts to apprehend the individuals involved in the attack.",
-          "The victim Hasib serves as the Dhaka University branch president of Jatiya Chatra Shakti.",
-          "The incident of physical assault took place in Sreemangal of Moulvibazar."
-        ],
-        "impact_bn": "শিক্ষার্থীদের নিরাপত্তা নিয়ে সাধারণ শিক্ষার্থী ও যুব সমাজের মধ্যে উদ্বেগ তৈরি হয়েছে।",
-        "impact_en": "The incident has heightened concerns regarding student safety and campus security among youth.",
-        "details_bn": "মৌলভীবাজারের শ্রীমঙ্গলে বৈষম্যবিরোধী ছাত্র আন্দোলনের সাবেক কেন্দ্রীয় সমন্বয়ক ও জাতীয় ছাত্রশক্তির ঢাবি শাখা সভাপতি হাসিবের ওপর হামলার ঘটনা ঘটে। এই ঘটনার পর দোষীদের আইনের আওতায় আনতে আইনশৃঙ্খলা বাহিনীর ভূমিকা নিয়ে আলোচনা শুরু হয়েছে। ছাত্রনেতাদের ওপর এমন হামলার তীব্র নিন্দা জানিয়েছেন বিভিন্ন সংগঠনের নেতারা।",
-        "details_en": "An attack took place in Sreemangal targeting Hasib, a former central coordinator of the anti-discrimination student movement and Dhaka University branch president of Jatiya Chatra Shakti. Following the incident, demands for swift legal action against the perpetrators have intensified among student bodies and local communities."
-      }
-    },
-    {
-      "story_id": "55b9ec9f-3a61-5a20-a77e-39c60b508679",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "tech_innovation"
-      ],
-      "region": "international",
-      "tags": [
-        "#USInflation",
-        "#FederalReserve",
-        "#Economy"
-      ],
-      "image_url": "https://i.guim.co.uk/img/media/edd11372dd6a075792b3425571de06722515ec38/886_0_6138_4911/master/6138.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6275bce8c920adf843ded781fb782be7",
-      "image_caption": null,
-      "published_at": "2026-11-10T13:36:16+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.38,
-      "rank_score": 1.7734,
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report",
-          "title": "US inflation rose 0.4% in October as price increases cooled and gas costs dipped",
-          "snippet": "US inflation rose 0.4% in October as price increases cooled and gas costs dipped"
-        },
-        {
-          "name": "CNBC Global Economy",
-          "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
-          "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
-          "snippet": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight"
-        },
-        {
-          "name": "MarketWatch Economy",
-          "url": "https://www.marketwatch.com/story/nvidia-couldnt-derail-the-stock-markets-rally-hot-inflation-might-8a572024?mod=mw_rss_topstories",
-          "title": "Nvidia couldn’t derail the stock market’s rally. Hot inflation might.",
-          "snippet": "Nvidia couldn’t derail the stock market’s rally. Hot inflation might."
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "অক্টোবরে মার্কিন মূল্যস্ফীতি শূন্য দশমিক চার শতাংশ বেড়েছে",
-        "title_en": "US Inflation Rises by Zero Point Four Percent in October",
-        "summary_bn": "জ্বালানির দাম কিছুটা কমায় মার্কিন মুল্যস্ফীতির বৃদ্ধির গতি মন্থর হয়েছে।",
-        "summary_en": "US inflation growth has cooled down as gas costs dipped during the month.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-10T13:36:16+00:00",
-        "lead_bn": "জ্বালানির দাম কিছুটা কমায় মার্কিন মুল্যস্ফীতির বৃদ্ধির গতি মন্থর হয়েছে।",
-        "lead_en": "US inflation growth has cooled down as gas costs dipped during the month.",
-        "bullets_bn": [
-          "জ্বালানির দাম সামান্য হ্রাস পাওয়ায় মার্কিন মূল্যস্ফীতির ঊর্ধ্বগতি কিছুটা মন্থর হয়েছে।",
-          "সেপ্টেম্বর থেকে অক্টোবর পর্যন্ত ভোক্তা মূল্য সূচক বা সিপিআই বেড়েছে শূন্য দশমিক চার শতাংশ।",
-          "ডিসেম্বরে মার্কিন কেন্দ্রীয় ব্যাংক সুদের হার আরও বাড়াতে পারে বলে ধারণা করা হচ্ছে।"
-        ],
-        "bullets_en": [
-          "US inflation growth cooled down as energy and gas costs dipped slightly during the month.",
-          "The consumer price index rose by zero point four percent from September to October.",
-          "The US Federal Reserve is expected to hike interest rates further at its upcoming December meeting."
-        ],
-        "impact_bn": "আমেরিকান ভোক্তারা কিছুটা স্বস্তি পেলেও জীবনযাত্রার উচ্চ ব্যয় এবং জ্বালানি মূল্য এখনো সাধারণ মানুষের ক্রয়ের সক্ষমতাকে চাপে রাখছে।",
-        "impact_en": "While consumers saw slight relief from cooling gas prices, high overall living costs continue to pressure household budgets.",
-        "details_bn": "ইরান যুদ্ধের কারণে সৃষ্ট জ্বালানি সংকটের পর থেকে মার্কিন মূল্যস্ফীতি তিন শতাংশের ওপরে রয়েছে। সরকার শাটডাউনের কারণে ব্যুরো অব লেবার স্ট্যাটিস্টিকস এবার বছরের ব্যবধানে মূল্যস্ফীতির তথ্য প্রকাশ করেনি। এদিকে মধ্যবর্তী নির্বাচনে উচ্চ মূল্যের জেরে ডেমোক্র্যাটরা কংগ্রেসের নিয়ন্ত্রণ পাওয়ার পর অর্থনীতি নিয়ন্ত্রণে সুদের হার বৃদ্ধির পথে হাঁটছে কেন্দ্রীয় ব্যাংক।",
-        "details_en": "US inflation has remained above three percent since the Iran war triggered higher energy costs. The Bureau of Labor Statistics omitted the year-over-year figure due to a government shutdown. Following midterms influenced by voter frustration over high prices, the Federal Reserve is leveraging interest rate hikes to cool the economy toward its two percent target."
-      }
-    },
-    {
-      "story_id": "b8085636-1cfb-5bb4-b6a5-61eb6a01954b",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "climate_environment"
-      ],
-      "region": "international",
-      "tags": [
-        "#COP31",
-        "#Turkey",
-        "#FossilFuels",
-        "#ClimateChange"
-      ],
-      "image_url": "https://i.guim.co.uk/img/media/b93d3307e0484de02281c9b34fd73467568202f1/207_0_4813_3853/master/4813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5180653f67759377f5eff109f37f608a",
-      "image_caption": null,
-      "published_at": "2026-11-10T13:57:35+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 3.4,
-      "rank_score": 1.1373,
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
-          "title": "Cop31 live: host Turkey celebrates new oilfields as climate summit enters second day",
-          "snippet": "Cop31 live: host Turkey celebrates new oilfields as climate summit enters second day"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জলবায়ু সম্মেলনের আবহেই ১৩ কোটি ৫০ লাখ ব্যারেল খনিজ তেল আবিষ্কারের ঘোষণা তুরস্কের",
-        "title_en": "Erdogan Announces 135 Million Barrel Oil Discovery Amid COP31 Climate Summit",
-        "summary_bn": "কপ৩১ জলবায়ু সম্মেলনের আবহেই তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়িপ এরদোয়ান ১৩ কোটি ৫০ লাখ ব্যারেল তেল সমৃদ্ধ দুটি নতুন তেলক্ষেত্র আবিষ্কারের ঘোষণা দিয়েছেন।",
-        "summary_en": "Turkish President Recep Tayyip Erdogan announced the discovery of two new oilfields holding 135 million barrels of oil during the COP31 climate summit.",
+        "title_bn": "নেতানিয়াহুর সাথে চেহারার মিল থাকায় সামাজিক যোগাযোগমাধ্যমে আলোচনায় ইরানি ব্যবসায়ী",
+        "title_en": "Iranian Shopkeeper Gains Viral Attention For Resemblance To Israeli PM Netanyahu",
+        "summary_bn": "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর সাথে চেহারার অভাবনীয় মিল থাকায় সামাজিক যোগাযোগমাধ্যমে ব্যাপক আলোচনায় এসেছেন ইরানের এক ব্যবসায়ী।",
+        "summary_en": "An Iranian merchant went viral across social media platforms for his striking physical resemblance to Israeli Prime Minister Benjamin Netanyahu.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "climate_environment"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-10T13:57:35+00:00",
-        "lead_bn": "কপ৩১ জলবায়ু সম্মেলনের আবহেই তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়িপ এরদোয়ান ১৩ কোটি ৫০ লাখ ব্যারেল তেল সমৃদ্ধ দুটি নতুন তেলক্ষেত্র আবিষ্কারের ঘোষণা দিয়েছেন।",
-        "lead_en": "Turkish President Recep Tayyip Erdogan announced the discovery of two new oilfields holding 135 million barrels of oil during the COP31 climate summit.",
+        "published_at": "2026-11-11T13:28:59+00:00",
+        "lead_bn": "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর সাথে চেহারার অভাবনীয় মিল থাকায় সামাজিক যোগাযোগমাধ্যমে ব্যাপক আলোচনায় এসেছেন ইরানের এক ব্যবসায়ী।",
+        "lead_en": "An Iranian merchant went viral across social media platforms for his striking physical resemblance to Israeli Prime Minister Benjamin Netanyahu.",
         "bullets_bn": [
-          "তুর্কি প্রেসিডেন্ট এরদোয়ান গাবার পর্বতাঞ্চলের গাজিলার ও চারদাকলি নামক দুটি তেলক্ষেত্রে উৎপাদন শুরুর তথ্য নিশ্চিত করেছেন",
-          "প্রাথমিক মূল্যায়নে দুটি ক্ষেত্র থেকে ১৩ কোটি ৫০ লাখ ব্যারেল তেল পাওয়ার সম্ভাবনা এবং আঞ্চলিক উৎপাদন ৩০ শতাংশ বাড়ার তথ্য দেওয়া হয়েছে",
-          "জলবায়ু পরিবর্তন মোকাবিলায় কপ৩১ সম্মেলন আয়োজনের মাঝেই তুরস্ক নিজেদের জীবাশ্ম জ্বালানি অবকাঠামো সম্প্রসারণ করছে"
+          "তেহরানের এক শুকনো ফল ও মিষ্টি বিক্রেতার দোকানে বসা ভিডিও সম্প্রতি অনলাইন প্ল্যাটফর্মে ছড়িয়ে পড়ে।",
+          "ভিডিওটি ইরান ও আরব সামাজিক মাধ্যমগুলোয় ছড়িয়ে পড়লে নেটিজেনদের মাঝে তৈরি হয় ব্যাপক কৌতুহল।",
+          "সামাজিক যোগাযোগমাধ্যমে ফুটেজটি ছড়িয়ে পড়ার পর ওই ব্যবসায়ী আন্তর্জাতিক নেটিজেনদের নজরে এসেছেন।"
         ],
         "bullets_en": [
-          "Turkish President Erdogan confirmed production began at the Gaziler and Cardakli oilfields located in the Gabar mountain region",
-          "Initial assessments estimate an in-situ potential of 135 million barrels of oil, expected to boost regional production by 30 percent",
-          "The fossil fuel expansion occurs simultaneously as Turkey hosts global climate negotiations during the COP31 summit"
+          "Footage of a Tehran shopkeeper sitting behind his store counter circulated widely across digital platforms.",
+          "The video gained massive traction across Iranian and Arab online communities due to his facial features.",
+          "The footage triggered widespread viral reactions and curiosity among social media users across the Middle East."
         ],
-        "impact_bn": "বৈশ্বিক জীবাশ্ম জ্বালানি সম্প্রসারণ বৈশ্বিক তাপমাত্রা বৃদ্ধির ঝুঁকি বাড়ায়, যা বাংলাদেশের মতো জলবায়ু-ঝুঁকিপূর্ণ দেশের জন্য দীর্ঘমেয়াদে ক্ষতিকর।",
-        "impact_en": "Continued global expansion of fossil fuel production threatens carbon reduction targets, worsening climate risks for vulnerable nations.",
-        "details_bn": "গ্রিনহাউস গ্যাস নির্গমন হ্রাসের লক্ষ্য নিয়ে আয়োজিত কপ৩১ জলবায়ু সম্মেলনের আয়োজক দেশ তুরস্ক। তবে বিশ্বনেতাদের উপস্থিতির মধ্যে নিজস্ব তেল অনুসন্ধান জোরদার করায় দেশটি সমালোচনার মুখে পড়েছে। জলবায়ু উষ্ণায়নের প্রধান কারণ জীবাশ্ম জ্বালানি হলেও তুরস্কের পাশাপাশি অস্ট্রেলিয়া, যুক্তরাজ্য ও নরওয়ের মতো দেশগুলো সাম্প্রতিক সময়ে নতুন খনিজ তেল ও গ্যাস প্রকল্পের কাজ এগিয়ে নিচ্ছে।",
-        "details_en": "Turkey hosted world leaders at the COP31 climate summit in Antalya to negotiate global emissions reductions. However, the nation faces criticism for simultaneously expanding its domestic oil production. Scientists emphasize that curbing fossil fuels is critical to halting rising global temperatures. Despite international pledges, several countries—including Australia, the United Kingdom, and Norway—have also recently approved or discovered new offshore oil and gas ventures alongside Turkey."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "তেহরানের এক স্থানীয় বাজারে শুকনো ফল ও মিষ্টি বিক্রি করতেন ওই ইরানি ব্যবসায়ী। দোকানে স্কেলের পেছনে তার বসে থাকার একটি সংক্ষিপ্ত ফুটেজ ধারণ করে অনলাইনে পোস্ট করা হয়। ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর অবিকল চেহারার কারণে ভিডিওটি দ্রুত ছড়িয়ে পড়ে। এর ফলে সাধারণ এই ব্যবসায়ী মধ্যপ্রাচ্যের অনলাইন প্ল্যাটফর্মগুলোতে রাতারাতি ব্যাপক পরিচিতি লাভ করেন।",
+        "details_en": "The Iranian merchant, who operates a small dry fruit and sweets shop in Tehran, became an unexpected online topic after a video recorded inside his shop surfaced. Viewers quickly pointed out his close facial resemblance to Israeli Prime Minister Benjamin Netanyahu. The video subsequently gained massive traction across Middle Eastern social media, drawing widespread reactions from digital users."
+      }
+    },
+    {
+      "story_id": "778464bf-1b6c-58f6-96ed-bca0cc39165b",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#Espionage",
+        "#USMilitary",
+        "#NATO",
+        "#Russia"
+      ],
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af446a808-1794393768.jpg?resize=1920%2C1440",
+      "image_caption": null,
+      "published_at": "2026-11-11T12:23:22+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.25,
+      "rank_score": 0.9678,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/11/us-soldier-arrested-for-russia-spying-what-we-know?traffic_source=rss",
+          "title": "US soldier arrested for Russia spying: What we know",
+          "snippet": "US soldier arrested for Russia spying: What we know"
+        },
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-all-1573-rdf",
+          "title": "British counterterrorism police arrest US soldier accused of spying on behalf of Russia",
+          "snippet": "British counterterrorism police arrest US soldier accused of spying on behalf of Russia"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রাশিয়ার পক্ষে গুপ্তচরবৃত্তির অভিযোগে যুক্তরাজ্যের পুলিশ মার্কিন সেনাকে গ্রেপ্তার করেছে",
+        "title_en": "British Police Arrest US Soldier on Suspicion of Spying for Russia",
+        "summary_bn": "যুক্তরাষ্ট্রের সামরিক বাহিনীর এক জ্যেষ্ঠ সদস্যকে রাশিয়ার পক্ষে গুপ্তচরবৃত্তির অভিযোগে যুক্তরাজ্যের কাউন্টার টেরোরিজম পুলিশ গ্রেপ্তার করেছে।",
+        "summary_en": "British counterterrorism police have arrested a senior US military member on suspicion of spying for Russia.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-11T12:23:22+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের সামরিক বাহিনীর এক জ্যেষ্ঠ সদস্যকে রাশিয়ার পক্ষে গুপ্তচরবৃত্তির অভিযোগে যুক্তরাজ্যের কাউন্টার টেরোরিজম পুলিশ গ্রেপ্তার করেছে।",
+        "lead_en": "British counterterrorism police have arrested a senior US military member on suspicion of spying for Russia.",
+        "bullets_bn": [
+          "যুক্তরাজ্যের পুলিশ কাউন্টার টেরোরিজম তদন্তের অংশ হিসেবে গ্লৌচেস্টারশায়ার থেকে এক মার্কিন সেনাকে গ্রেপ্তার করেছে।",
+          "অভিযুক্ত ৪১ বছর বয়সী ওই সেনা ন্যাটো সদর দপ্তরের কাছে অবস্থিত ইমজিন ব্যারাকে নিয়োজিত ছিলেন।",
+          "নতুন জাতীয় নিরাপত্তা আইনের অধীনে আটক ওই সেনাকে চার্জ ছাড়াই সর্বোচ্চ চৌদ্দ দিন পর্যন্ত হেফাজতে রাখা যাবে।"
+        ],
+        "bullets_en": [
+          "British police arrested a 41-year-old senior US military member near Gloucestershire following a counterterrorism investigation.",
+          "The suspect was based at Imjin Barracks in Innsworth, which serves as a strategic operational base for NATO.",
+          "Authorities detained the suspect under the National Security Act 2023, permitting detention without charge for up to 14 days."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "যুক্তরাজ্যের মেট্রোপলিটন পুলিশের কাউন্টার টেরোরিজম কমান্ড এই তদন্তের নেতৃত্ব দিচ্ছে। ন্যাটো জোটে রাশিয়ার সম্ভাব্য গোড়াসন্ধান এবং সংবেদনশীল সামরিক তথ্য ফাঁসের আশঙ্কার প্রেক্ষাপটে এই গ্রেপ্তার পশ্চিমা দেশগুলোর নিরাপত্তায় বড় ধরনের উদ্বেগ তৈরি করেছে। ন্যাশনাল সিকিউরিটি অ্যাক্ট ২০২৩-এর আওতায় এই সন্দেহভাজন ব্যক্তিকে আটক করা হয়েছে।",
+        "details_en": "The investigation is being led by London Metropolitan Police Counter Terrorism Command. The arrest underscores growing Western security concerns regarding alleged Russian espionage within strategic military installations and NATO alliances. The suspect was detained under the National Security Act 2023, which grants authorities extended powers to hold terrorism and espionage suspects without immediate formal charges."
+      }
+    },
+    {
+      "story_id": "03b7f2c7-b75e-57bc-808c-1b63dbad0034",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#ClimateChange",
+        "#Germany"
+      ],
+      "image_url": "https://static.dw.com/image/70822465_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-11T13:30:22.284997+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.6885,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/germany-slips-in-climate-protection-rankings-as-other-countries-make-gains/a-79913635?maca=en-rss-en-all-1573-rdf",
+          "title": "Germany slips in climate protection rankings as other countries make gains",
+          "snippet": "Germany slips in climate protection rankings as other countries make gains"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জলবায়ু পরিবর্তন সূচকে আরও পিছিয়ে পড়েছে জার্মানি",
+        "title_en": "Germany Slips Further Down Global Climate Protection Index",
+        "summary_bn": "বিশ্বব্যাপী জলবায়ু পরিবর্তন কর্মক্ষমতা সূচকে টানা তিন বছর ধরে অবনতি ঘটেছে জার্মানির অবস্থান।",
+        "summary_en": "Germany has dropped to the 25th spot on the Climate Change Performance Index amid global shifts.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-11T13:30:22.284997+00:00",
+        "lead_bn": "বিশ্বব্যাপী জলবায়ু পরিবর্তন কর্মক্ষমতা সূচকে টানা তিন বছর ধরে অবনতি ঘটেছে জার্মানির অবস্থান।",
+        "lead_en": "Germany has dropped to the 25th spot on the Climate Change Performance Index amid global shifts.",
+        "bullets_bn": [
+          "জলবায়ু পরিবর্তন কর্মক্ষমতা সূচকে জার্মানি নেমে গেছে ২৫তম স্থানে",
+          "তালিকায় প্রথম তিনটি শীর্ষ স্থান ফাঁকা রাখা হয়েছে কারণ কোনো দেশই পর্যাপ্ত অগ্রগতি অর্জন করতে পারেনি",
+          "ব্রাজিল, কলম্বিয়া ও রোমানিয়ার মতো দেশগুলো পরিবেশ সুরক্ষায় জার্মানিকে ছাড়িয়ে গেছে"
+        ],
+        "bullets_en": [
+          "Germany fell to the 25th position and received a medium rating on the annual climate index.",
+          "The top three positions on the index remained vacant as no country met global climate goals.",
+          "Countries like Brazil, Colombia, and Romania outperformed Germany in climate action efforts."
+        ],
+        "impact_bn": "ধীরগতির জলবায়ু নীতির ফলে বিশ্বজুড়ে চরম আবহাওয়া ও পরিবেশগত সংকট দীর্ঘায়িত হতে পারে।",
+        "impact_en": "Slow climate progress risks worsening extreme weather events and long-term environmental degradation globally.",
+        "details_bn": "জলবায়ু পরিবর্তন কর্মক্ষমতা সূচক বা সিসিপিআই ৬৪টি দেশ এবং ইউরোপীয় ইউনিয়নের শক্তি ব্যবহার, গ্রিনহাউস গ্যাস নির্গমন, নবায়নযোগ্য জ্বালানি এবং জাতীয় জলবায়ু নীতি মূল্যায়ন করে। চলতি বছর হাঙ্গেরি এক লাফে একুশ ধাপ ওপরে উঠে এলেও জার্মানি তার পূর্বের অবস্থান ধরে রাখতে ব্যর্থ হয়েছে। বৈশ্বিক উষ্ণতা রোধে পর্যাপ্ত পদক্ষেপের অভাবে সূচকের শীর্ষ তিনটি স্থান টানা খালি রাখা হয়েছে।",
+        "details_en": "The Climate Change Performance Index assesses efforts across 64 countries and the European Union based on energy use, greenhouse gas emissions, renewable energy, and national policy. While countries like Denmark lead the rankings and Hungary jumped 21 places, Germany slipped to 25th place. The top three spots remained vacant as global climate goals to curb warming and prevent weather extremes continue to be unmet by any single nation."
       }
     }
   ]
