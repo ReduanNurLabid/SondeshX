@@ -51,7 +51,8 @@ BD_OUTLETS = {
     "প্রথম আলো", "প্রথম আলো রাজনীতি", "the daily star", "the daily star politics",
     "the daily star bangladesh", "the daily star law & crime", "the business standard",
     "the business standard politics", "bangla tribune", "dhaka tribune", "jago news 24",
-    "channel i", "the financial express", "bss news"
+    "channel i", "the financial express", "bss news", "বাসস",
+    "ইত্তেফাক", "dhaka post", "sarabangla"
 }
 
 def is_article_relevant_to_bd(title: str, text: str, source_name: str) -> bool:

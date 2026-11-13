@@ -2,10 +2,10 @@ name: Dorpon Daily Autonomous Pipeline
 
 on:
   schedule:
-    # Backup fallback only — fires once daily at 6 AM UTC in case
-    # the external cron trigger (cron-job.org) is down for the day.
-    # The real hourly trigger comes from cron-job.org → workflow_dispatch.
-    - cron: '0 6 * * *'
+    # Hourly backup. The primary hourly trigger is cron-job.org -> workflow_dispatch,
+    # which is punctual; GitHub's own scheduler can run hours late. A scheduled run
+    # skips itself when another run already succeeded recently (see the guard step).
+    - cron: '17 * * * *'
   workflow_dispatch:
     inputs:
       limit:
@@ -20,6 +20,8 @@ concurrency:
 
 permissions:
   contents: write
+  actions: read
+  issues: write
 
 jobs:
   run-pipeline:
@@ -29,21 +31,41 @@ jobs:
     timeout-minutes: 12
 
     steps:
+      - name: Skip Scheduled Run If One Succeeded Recently
+        id: guard
+        if: github.event_name == 'schedule'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          last=$(gh run list --repo "$GITHUB_REPOSITORY" --workflow pipeline_cron.yml \
+            --status success --limit 1 --json createdAt --jq '.[0].createdAt // empty')
+          if [ -n "$last" ]; then
+            age_min=$(( ( $(date -u +%s) - $(date -u -d "$last" +%s) ) / 60 ))
+            echo "Last successful run started ${age_min} minutes ago."
+            if [ "$age_min" -lt 45 ]; then
+              echo "skip=true" >> "$GITHUB_OUTPUT"
+            fi
+          fi
+
       - name: Checkout Repository
+        if: steps.guard.outputs.skip != 'true'
         uses: actions/checkout@v4
 
       - name: Set up Python 3.12
+        if: steps.guard.outputs.skip != 'true'
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
           cache: 'pip'
 
       - name: Install Dependencies
+        if: steps.guard.outputs.skip != 'true'
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
       - name: Run Hourly News Pipeline & Sync to Firestore
+        if: steps.guard.outputs.skip != 'true'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
@@ -53,9 +75,26 @@ jobs:
           python -m pipeline.hourly_worker --limit ${{ github.event.inputs.limit || '6' }}
 
       - name: Commit Updated Output Data
+        if: steps.guard.outputs.skip != 'true'
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/output/hourly_buzz_latest.json || true
+          git add data/output/hourly_buzz_latest.json data/output/source_health.json || true
           git commit -m "chore(pipeline): auto-update hourly buzz [skip ci]" || echo "No changes to commit"
           git push || echo "Push failed or not needed"
+
+      - name: Open Issue For Silent Sources
+        if: steps.guard.outputs.skip != 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PYTHONPATH: .
+        run: |
+          python -m pipeline.source_health > alert.md
+          if [ -s alert.md ]; then
+            open=$(gh issue list --state open --search "Source health alert in:title" --json number --jq 'length')
+            if [ "$open" = "0" ]; then
+              gh issue create --title "Source health alert: news sources gone silent" --body-file alert.md
+            else
+              echo "A source health issue is already open; not opening another."
+            fi
+          fi

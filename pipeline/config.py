@@ -34,13 +34,13 @@ FEEDS = {
         "region": "national",
         "category_hint": "governance_law"
     },
-    "daily_star_politics": {
-        "name": "The Daily Star Politics",
-        "url": "https://www.thedailystar.net/politics/rss.xml",
+    "daily_star_business": {
+        "name": "The Daily Star Business",
+        "url": "https://www.thedailystar.net/business/rss.xml",
         "language": "en",
         "source_type": "rss",
         "region": "national",
-        "category_hint": "governance_law"
+        "category_hint": "economy_business"
     },
     "tbs_politics": {
         "name": "The Business Standard Politics",
@@ -51,8 +51,8 @@ FEEDS = {
         "category_hint": "governance_law"
     },
     "daily_star_bd": {
-        "name": "The Daily Star Bangladesh",
-        "url": "https://www.thedailystar.net/bangladesh/rss.xml",
+        "name": "The Daily Star",
+        "url": "https://www.thedailystar.net/news/bangladesh/rss.xml",
         "language": "en",
         "source_type": "rss",
         "region": "national",
@@ -68,7 +68,7 @@ FEEDS = {
     },
     "tbs_main": {
         "name": "The Business Standard",
-        "url": "https://www.tbsnews.net/rss.xml",
+        "url": "https://www.tbsnews.net/top-news/rss.xml",
         "language": "en",
         "source_type": "rss",
         "region": "national",
@@ -93,6 +93,63 @@ FEEDS = {
     "channel_i": {
         "name": "Channel i",
         "url": "https://www.channelionline.com/feed/",
+        "language": "bn",
+        "source_type": "rss",
+        "region": "national",
+        "category_hint": "governance_law"
+    },
+
+    "tbs_bangladesh": {
+        "name": "The Business Standard Bangladesh",
+        "url": "https://www.tbsnews.net/bangladesh/rss.xml",
+        "language": "en",
+        "source_type": "rss",
+        "region": "national",
+        "category_hint": "governance_law"
+    },
+    "tbs_economy": {
+        "name": "The Business Standard Economy",
+        "url": "https://www.tbsnews.net/economy/rss.xml",
+        "language": "en",
+        "source_type": "rss",
+        "region": "national",
+        "category_hint": "economy_business"
+    },
+    "ittefaq": {
+        "name": "ইত্তেফাক",
+        "url": "https://www.ittefaq.com.bd/feed/",
+        "language": "bn",
+        "source_type": "rss",
+        "region": "national",
+        "category_hint": "governance_law"
+    },
+    "dhaka_post": {
+        "name": "Dhaka Post",
+        "url": "https://www.dhakapost.com/rss/rss.xml",
+        "language": "bn",
+        "source_type": "rss",
+        "region": "national",
+        "category_hint": "governance_law"
+    },
+    "sarabangla": {
+        "name": "Sarabangla",
+        "url": "https://sarabangla.net/feed/",
+        "language": "bn",
+        "source_type": "rss",
+        "region": "national",
+        "category_hint": "governance_law"
+    },
+    "bbc_bangla": {
+        "name": "BBC News বাংলা",
+        "url": "https://feeds.bbci.co.uk/bengali/rss.xml",
+        "language": "bn",
+        "source_type": "rss",
+        "region": "national",
+        "category_hint": "governance_law"
+    },
+    "dw_bangla": {
+        "name": "DW বাংলা",
+        "url": "https://rss.dw.com/rdf/rss-ben-all",
         "language": "bn",
         "source_type": "rss",
         "region": "national",
@@ -204,23 +261,37 @@ FEEDS = {
     }
 }
 
-# Direct HTML Section Fallback Targets (Sources where RSS is broken or capped)
+# Direct HTML front-page targets (outlets with no usable RSS feed).
+# link_pattern is matched against each absolute article URL found on the page.
 SECTION_TARGETS = [
     {
         "name": "The Financial Express",
-        "url": "https://thefinancialexpress.com.bd/economy/bangladesh",
+        "url": "https://thefinancialexpress.com.bd/",
         "base_url": "https://thefinancialexpress.com.bd",
+        "link_pattern": r"thefinancialexpress\.com\.bd/(national|economy|trade|stock)/[a-z0-9-]{15,}$",
         "language": "en",
         "category_hint": "economy_business"
     },
     {
         "name": "BSS News",
-        "url": "https://www.bssnews.net/category/national",
+        "url": "https://www.bssnews.net/",
         "base_url": "https://www.bssnews.net",
+        "link_pattern": r"bssnews\.net/(news|news-flash|law-and-court|national|business)/\d+$",
         "language": "en",
+        "category_hint": "governance_law"
+    },
+    {
+        "name": "বাসস",
+        "url": "https://www.bssnews.net/bangla",
+        "base_url": "https://www.bssnews.net",
+        "link_pattern": r"bssnews\.net/bangla/(national|news-flash|news|law-and-courts|business)/\d+$",
+        "language": "bn",
         "category_hint": "governance_law"
     }
 ]
+
+# A source that yields no article newer than this is reported as silent.
+SOURCE_SILENCE_ALERT_HOURS = 24
 
 # Standard Polite Browser Headers
 DEFAULT_HEADERS = {

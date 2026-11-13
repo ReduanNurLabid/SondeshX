@@ -9,7 +9,9 @@ from datetime import datetime
 if sys.stdout:
     sys.stdout.reconfigure(encoding='utf-8')
 
+from pipeline.collectors import rss_fetcher
 from pipeline.collectors.rss_fetcher import fetch_rss_candidates
+from pipeline.source_health import record_fetch_health
 from pipeline.collectors.article_scraper import scrape_article_body, scrape_article_details
 from pipeline.collectors.unsplash_service import fetch_story_image
 from pipeline.processing.deduplicator import cluster_and_tag_articles, extract_canonical_entities
@@ -44,10 +46,14 @@ def run_hourly_buzz(limit: int = 8):
     if not candidates or len(candidates) < limit:
         print("⚠️ Candidates pool small in 6h window, expanding to 12 hours...")
         candidates = fetch_rss_candidates(max_age_hours=12.0)
+    silent = record_fetch_health(rss_fetcher.LAST_FETCH_HEALTH)
+    if silent:
+        print(f"⚠️ Silent sources (no fresh article in 24h+): {', '.join(silent)}")
+
     if not candidates:
         print("❌ No fresh articles fetched. Exiting.")
         return None
-        
+
     # 2. Cross-lingual deduplication & clustering (fast in-memory on titles & RSS summaries)
     print(f"\n🔍 Cross-lingual entity clustering on fresh candidates...")
     clusters = cluster_and_tag_articles(candidates)
