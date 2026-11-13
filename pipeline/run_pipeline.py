@@ -17,7 +17,7 @@ from pipeline.collectors.unsplash_service import fetch_story_image
 from pipeline.processing.deduplicator import cluster_and_tag_articles, extract_canonical_entities
 from pipeline.processing.selector import select_stories_for_audiences
 from pipeline.processing.news_desk import build_desk_events
-from pipeline.processing.fact_check import fact_check_story
+from pipeline.processing.fact_check import fact_check_stories
 from pipeline.processing.synthesizer import synthesize_story_with_ai, build_clean_sources
 from pipeline.models import DailyCapsule, CapsuleStory
 from pipeline.storage.firebase_service import (
@@ -141,6 +141,7 @@ def run_hourly_buzz(limit: int = 8):
     # - Max ~35% allocated for categorized international affairs (world, tech, global economy, climate).
     print(f"\n🤖 Generating 60-second Daily Buzz summaries (diverse sections with regional balance)...")
     buzz_stories = []
+    pending_checks = []  # (story, source articles) awaiting the batched fact-check
     seen_entities = set()
     seen_story_tokens = []
     category_counts = {}
@@ -211,24 +212,11 @@ def run_hourly_buzz(limit: int = 8):
             if details.get("image_url") and not primary_art.image_url:
                 primary_art.image_url = details["image_url"]
 
-        # Synthesize, then fact-check independently against the source reporting.
-        # A failed check gets one fresh attempt before the story is dropped.
-        for attempt in (1, 2):
-            story = synthesize_story_with_ai(cluster, is_bcs_pro=False)
-            if not story:
-                print(f"   🚫 Story rejected or excluded: {primary_art.title[:50]}")
-                return False
-            check = fact_check_story(story, cluster.articles)
-            if check["status"] != "failed":
-                break
-            print(f"   Fact-check FAILED (attempt {attempt}): {primary_art.title[:50]}")
-            for issue in check["issues"][:3]:
-                print(f"      - {issue['field']}: {issue['claim'][:90]} ({issue['why'][:70]})")
-        if check["status"] == "failed":
-            print("   Story dropped after two failed fact-checks.")
+        # Written by Gemini or not at all: no heuristic text reaches the site.
+        story = synthesize_story_with_ai(cluster, is_bcs_pro=False, allow_heuristic_fallback=False)
+        if not story:
+            print(f"   🚫 Story rejected or excluded: {primary_art.title[:50]}")
             return False
-        print(f"   Fact-check {check['status']}"
-              f"{' (unsupported background removed)' if check['issues'] else ''}")
 
         # ── Unsplash image enrichment ──────────────────────────────────────
         if not story.image_url:
@@ -247,7 +235,6 @@ def run_hourly_buzz(limit: int = 8):
 
         item = story.model_dump()
         item.pop("bcs_pro", None)  # Lightweight payload for free buzz
-        item["fact_check"] = {"status": check["status"], "checked_at": check["checked_at"]}
         if from_desk:
             item["importance_score"] = cluster.importance_score
             item["rank_score"] = cluster.rank_score
@@ -255,6 +242,7 @@ def run_hourly_buzz(limit: int = 8):
             item["outlet_count"] = cluster.desk["outlets"]
             item["trending"] = cluster.desk["trending"]
         buzz_stories.append(item)
+        pending_checks.append((story, cluster.articles))
         historical_stories.append(item)  # Add to memory for remaining clusters
         category_counts[story.primary_category] = category_counts.get(story.primary_category, 0) + 1
 
@@ -322,6 +310,27 @@ def run_hourly_buzz(limit: int = 8):
                 continue
             process_and_add_cluster(cluster)
         
+    # Fact-check every written story against its sources in ONE call (quota-friendly).
+    # A failed story is not published; being absent from the site's memory, it is
+    # reconsidered and rewritten on the next run.
+    if buzz_stories:
+        print(f"\nFact-checking {len(buzz_stories)} stories against their sources...")
+        checks = fact_check_stories(pending_checks)
+        verified = []
+        for item, (story, _arts), check in zip(buzz_stories, pending_checks, checks):
+            headline = (item.get("daily_buzz") or {}).get("title_en", "")[:60]
+            if check["status"] == "failed":
+                print(f"   FAILED, not published: {headline}")
+                for issue in check["issues"][:3]:
+                    print(f"      - {issue['field']}: {issue['claim'][:90]} ({issue['why'][:70]})")
+                continue
+            trimmed = " (unsupported background removed)" if check["issues"] else ""
+            print(f"   {check['status']}{trimmed}: {headline}")
+            item["daily_buzz"] = story.daily_buzz.model_dump()
+            item["fact_check"] = {"status": check["status"], "checked_at": check["checked_at"]}
+            verified.append(item)
+        buzz_stories = verified
+
     output_dir = os.path.join(os.path.dirname(__file__), "..", "data", "output")
     os.makedirs(output_dir, exist_ok=True)
     hourly_path = os.path.join(output_dir, "hourly_buzz_latest.json")

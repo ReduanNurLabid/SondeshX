@@ -168,7 +168,7 @@ export const Header: React.FC = () => {
             <p className="font-headline-sm text-headline-sm italic text-on-surface-variant text-center max-w-2xl mt-0.5">
               {isBn 
                 ? 'সংবাদের অপ্রয়োজনীয় বাহুল্য বর্জন — বাংলাদেশ ও বিশ্বের মূল খবরের কিউরেট করা সারসংক্ষেপ' 
-                : 'Cut the Noise. Bangladesh News & Verified Global Briefings Curated for Your Time.'}
+                : 'What happened in Bangladesh and the world, in a minute. Written by AI, checked against the original reports.'}
             </p>
           </div>
 

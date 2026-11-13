@@ -29,7 +29,7 @@ export const BroadsheetFooter: React.FC = () => {
             <p className="font-serif text-sm text-on-surface-variant mt-2 max-w-md leading-relaxed">
               {isBn
                 ? 'প্রতিষ্ঠিত ১ নভেম্বর ২০২৬। আপনার সময়ের মর্যাদা দিয়ে শীর্ষ সংবাদমাধ্যম থেকে যাচাইকৃত ও কিউরেট করা প্রয়োজনীয় সংবাদের সারসংক্ষেপ।'
-                : "Established 1 November 2026. Bangladesh's fast, noise-free digital news broadsheet — curating strictly what you need to know with direct source verification."}
+                : "Established 1 November 2026. Sondesh Express reads Bangladesh's leading news outlets every hour and writes short summaries with AI. Each summary is checked against the original reports and links to them."}
             </p>
             <div className="mt-4 font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider flex items-center gap-2 flex-wrap">
               <span className="flex items-center gap-1 font-semibold text-secondary">

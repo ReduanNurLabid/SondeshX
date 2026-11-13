@@ -52,6 +52,7 @@ import {
   Image as ImageIcon
 } from 'lucide-react';
 import { SocialCardStudio, StudioTab } from './SocialCardStudio';
+import { GeminiKeysPanel } from './GeminiKeysPanel';
 
 const AUTHORIZED_EMAILS = ['nurreduan.pp@gmail.com', 'reduannurlabid@gmail.com'];
 
@@ -1002,6 +1003,9 @@ export const EditorialDashboard: React.FC = () => {
           </div>
         </div>
       </header>
+
+      {/* Admin: backup Gemini API keys used by the news pipeline */}
+      <GeminiKeysPanel />
 
       {/* 2. SUB-COLLECTION TABS & SEARCH */}
       <div className="border-b border-primary/20 bg-surface-container-low px-4 sm:px-6 lg:px-8 py-2.5">

@@ -50,5 +50,11 @@ service cloud.firestore {
     match /bcs_pro_drafts/{draftId} {
       allow read, write: if isEditor();
     }
+
+    // Pipeline settings managed from the editorial dashboard (backup API keys).
+    // Never public: editors only. The pipeline reads it with the Admin SDK.
+    match /admin_config/{configId} {
+      allow read, write: if isEditor();
+    }
   }
 }

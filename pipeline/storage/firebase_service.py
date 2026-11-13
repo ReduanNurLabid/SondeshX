@@ -52,6 +52,16 @@ def get_firestore_client() -> firestore.Client:
     return _db
 
 
+def get_admin_gemini_keys() -> List[str]:
+    """Backup Gemini API keys saved by an editor in the dashboard (admin_config/gemini)."""
+    try:
+        snap = get_firestore_client().collection("admin_config").document("gemini").get()
+        stored = (snap.to_dict() or {}).get("keys", []) if snap.exists else []
+        return [k["key"].strip() for k in stored if isinstance(k, dict) and (k.get("key") or "").strip()]
+    except Exception as err:
+        print(f"[Firebase] Warning: Could not load backup Gemini keys: {err}")
+        return []
+
 def push_hourly_buzz_to_firestore(stories: List[Dict[str, Any]]) -> int:
     """
     Pushes hourly 60-second news cards into Firestore 'daily_buzz' collection.

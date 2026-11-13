@@ -14,6 +14,21 @@ MODEL_CASCADE = [
 ]
 
 
+_ADMIN_KEYS: Optional[List[str]] = None
+
+
+def _admin_keys() -> List[str]:
+    """Backup keys an editor saved in the dashboard, fetched once per process."""
+    global _ADMIN_KEYS
+    if _ADMIN_KEYS is None:
+        try:
+            from pipeline.storage.firebase_service import get_admin_gemini_keys
+            _ADMIN_KEYS = get_admin_gemini_keys()
+        except Exception:
+            _ADMIN_KEYS = []
+    return _ADMIN_KEYS
+
+
 def gemini_api_keys(api_key: Optional[str] = None) -> List[str]:
     """All configured Gemini keys, explicit key first, without duplicates."""
     keys = [k.strip() for k in (os.getenv("GEMINI_API_KEYS") or "").split(",") if k.strip()]
@@ -22,6 +37,9 @@ def gemini_api_keys(api_key: Optional[str] = None) -> List[str]:
     for env_name in ("GEMINI_API_KEY", "GEMINI_API_KEY_BACKUP", "GEMINI_BACKUP_KEY"):
         value = (os.getenv(env_name) or "").strip()
         if value and value not in keys:
+            keys.append(value)
+    for value in _admin_keys():
+        if value not in keys:
             keys.append(value)
     return keys
 

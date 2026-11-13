@@ -12,6 +12,9 @@ from pipeline.models import (
 from pipeline.processing.deduplicator import ClusteredEvent
 from pipeline.constitution_kb import find_relevant_articles
 from pipeline.config import INTEREST_CATEGORIES
+from pipeline.processing.llm import generate_json, gemini_api_keys
+from pipeline.processing.prompts import build_story_prompt
+from pipeline.processing.fact_check import build_source_text
 
 # Load seed PYQs
 PYQS_FILE = os.path.join(os.path.dirname(__file__), "..", "..", "data", "pyqs.json")
@@ -254,7 +257,8 @@ def build_clean_sources(articles: list) -> list:
 def synthesize_story_with_ai(
     cluster: ClusteredEvent,
     is_bcs_pro: bool,
-    api_key: Optional[str] = None
+    api_key: Optional[str] = None,
+    allow_heuristic_fallback: bool = True
 ) -> CapsuleStory:
     """
     Synthesizes a clustered news event into a bilingual CapsuleStory.
@@ -281,183 +285,15 @@ def synthesize_story_with_ai(
     primary_cat = cluster.matched_categories[0] if cluster.matched_categories else "governance_law"
     syllabus = map_syllabus_for_categories(cluster.matched_categories, title)
     
-    # 2. Check for Gemini API Keys (supports multi-key rotation and backup keys)
-    raw_keys = os.getenv("GEMINI_API_KEYS") or ""
-    keys_list = [k.strip() for k in raw_keys.split(",") if k.strip()]
-    if api_key and api_key not in keys_list:
-        keys_list.insert(0, api_key)
-    for env_k in ["GEMINI_API_KEY", "GEMINI_API_KEY_BACKUP", "GEMINI_BACKUP_KEY"]:
-        v = os.getenv(env_k)
-        if v and v.strip() and v.strip() not in keys_list:
-            keys_list.append(v.strip())
-
-    MODEL_CASCADE = [
-        "gemini-3.5-flash-lite",      # Primary tier: Blazing fast, highly available, minimal 503 risk
-        "gemini-flash-lite-latest",   # Stable alias
-        "gemini-3.6-flash",           # Balanced capability
-        "gemini-3.5-flash",           # Standard flash
-        "gemini-3-flash-preview",     # High-speed preview fallback
-    ]
+    # 2. Gemini keys (environment plus admin-managed backups)
+    keys_list = gemini_api_keys(api_key)
 
     if keys_list:
         try:
-            from google import genai
-            from google.genai import types
-
-            bcs_instructions = ""
-            if is_bcs_pro:
-                bcs_instructions = """
-ALSO INCLUDE BCS PRO ACADEMIC KEYS:
-"why_in_the_news_bn": "2-sentence factual trigger in Bengali",
-"why_in_the_news_en": "2-sentence factual trigger in English",
-"question_breakdowns": [{"question": "...", "anchor_points": ["**Concept:** ...", "**Mechanism:** ..."]}],
-"data_stats": [{"metric_name": "...", "value": "...", "source_org": "...", "context": "..."}],
-"challenges": ["1. First bottleneck.", "2. Second bottleneck.", "3. Third bottleneck."],
-"way_forward": ["1. First reform.", "2. Second reform.", "3. Third reform."],
-"written_prompt_bn": "Formal 15-mark written question in Bengali starting with প্রশ্ন:",
-"written_prompt_en": "Formal 15-mark written question in English starting with Q:",
-"model_outline_points": ["১. ভূমিকা", "২. সীমাবদ্ধতা", "৩. সুপারিশ"]
-"""
-
-            prompt = f"""You are the Senior Executive News Editor for 'Dorpon Daily', a fast, modern news platform for Bangladesh.
-Target Audience: Fast-paced digital readers and Gen-Z who want the core gist in 10 seconds—no clickbait, no academic exam filler, no bureaucratic abstractions.
-
-Task: Synthesize a sharp, 10-second news gist from the provided verified report.
-
-EDITORIAL REQUIREMENTS:
-1. HEADLINES (headline_en, headline_bn):
-   - Declarative, factual headline (<= 14 words).
-   - Must state WHO did WHAT or WHAT happened clearly.
-   - Absolutely ZERO clickbait, vague teasers, or question marks.
-   - Example EN: 'PM Meets Japanese Business Delegation to Boost Bilateral Trade'
-   - Example BN: 'দ্বিপক্ষীয় বাণিজ্য বাড়াতে জাপানি প্রতিনিধিদলের সাথে প্রধানমন্ত্রীর বৈঠক'
-
-2. ONE-LINE LEAD (lead_en, lead_bn):
-   - Exactly 1 high-impact declarative lead sentence capturing the single primary event (<= 25 words).
-   - Inverted pyramid style: The core action/decision right up front.
-   - NO MARKDOWN FORMATTING: Absolutely DO NOT wrap text in asterisks (e.g., no **bold** or *italics*), backticks, or quotes. Return purely raw text.
-
-3. THREE KEY TAKEAWAY BULLETS (bullets_en, bullets_bn):
-   - Provide EXACTLY 3 clean, factual bullets (<= 22 words per bullet):
-     • Bullet 1: Core Action / Decision (who decided or executed what).
-     • Bullet 2: Key Numbers, Official Quotes, or Specific Metrics (amounts, percentages, named spokespersons, dates).
-     • Bullet 3: Immediate Consequence, Next Step, or Timeline.
-   - CRITICAL FORMAT RULE: DO NOT prefix bullets with numbers ("1.", "2.", "3.", "১.", "২.", "৩."), symbols ("•", "-"), or markdown asterisks ("**"). The mobile UI automatically renders numbered badges. Return purely the raw bullet sentence.
-   - Bullets must be strictly factual, never vague generic boilerplate.
-
-4. CITIZEN IMPACT (impact_en, impact_bn):
-   - 1 concise sentence highlighting real-world impact on ordinary citizens, consumers, or youth (or null if purely diplomatic/procedural).
-
-5. BACKGROUND DETAILS (details_en, details_bn):
-   - 1 concise paragraph (<= 90 words) providing essential historical context or preceding events for readers who tap "Read Background".
-
-6. TAGS (tags):
-   - 2 to 4 strictly grounded hashtags (e.g. ["#TradeDeal", "#JapanBangladesh"]).
-   - CRITICAL: Never include sports tags on non-sports news, or entertainment tags on politics. Every tag must be strictly grounded in this story.
-
-7. RELATIVE TIME PROHIBITION:
-   - NEVER include relative weekdays or day markers ("গত সোমবার", "সোমবার", "গতকাল", "আজকে", "yesterday", "on Monday", "last week") in headlines, leads, or bullets. State actions timelessly so summaries remain grounded days later.
-
-8. CATEGORY CLASSIFICATION (primary_category):
-   - Accurately classify this story into EXACTLY ONE canonical category:
-     • "economy_business" -> Finance, banking, inflation, budget, revenue, forex, trade, commerce, stock market.
-     • "governance_law" -> Bangladesh domestic politics, ministries, law enforcement, courts, constitution, reforms, public administration.
-     • "world_diplomacy" -> International politics, foreign countries (India, US, China, Middle East, Europe, Russia, etc.), global conflicts, diplomacy, treaties, bilateral relations.
-     • "tech_innovation" -> AI, cybersecurity, software, digital platforms, telecom, science, space, tech vulnerabilities.
-     • "climate_environment" -> Climate change, natural disasters, floods, rivers, pollution, weather, renewable energy.
-     • "society_education" -> Universities, schools, healthcare, hospitals, cultural trends, youth, civic society.
-     • "sports_fitness" -> Cricket, football, international tournaments, BCB, leagues, athletics, major sports results.
-   CRITICAL RULE: If the story is about foreign nations (e.g. India, USA, Israel, Russia, Ukraine, Pakistan, etc.), it MUST be "world_diplomacy", NEVER "governance_law". "governance_law" is strictly for Bangladesh domestic governance.
-
-9. NOISE / SHOWBIZ / GOSSIP DETECTION (is_excluded):
-   - Set true ONLY if this story is cheap celebrity tabloid gossip, viral photos/scandals, or shopping discounts. Legitimate sports news is NOT excluded (classify sports as "sports_fitness").
-
-Headline from Source: {title}
-Source Text / Scraped Body: {body[:2500]}
-Primary Category Hint: {primary_cat}
-Is BCS Pro Selection: {is_bcs_pro}
-
-You MUST return a JSON object with these EXACT keys:
-{{
-  "primary_category": "one of: economy_business, governance_law, world_diplomacy, tech_innovation, climate_environment, society_education, sports_fitness",
-  "is_excluded": false,
-  "headline_bn": "Factual declarative Bengali headline without asterisks (<= 14 words)",
-  "headline_en": "Factual declarative English headline without asterisks (<= 14 words)",
-  "lead_bn": "1 declarative lead sentence in Bengali without asterisks (<= 25 words)",
-  "lead_en": "1 declarative lead sentence in English without asterisks (<= 25 words)",
-  "bullets_bn": [
-    "প্রধান সিদ্ধান্ত বা গৃহীত পদক্ষেপ",
-    "সুনির্দিষ্ট পরিসংখ্যান, উদ্ধৃতি বা তথ্য",
-    "পরবর্তী পদক্ষেপ বা দৃশ্যমান প্রভাব"
-  ],
-  "bullets_en": [
-    "The Core Action or Decision taken.",
-    "Key numbers, official quotes, or concrete metrics.",
-    "Immediate consequence, next step, or timeline."
-  ],
-  "impact_bn": "নাগরিক বা তরুণদের ওপর বাস্তব প্রভাব বা null",
-  "impact_en": "Real-world impact on ordinary citizens/students or null",
-  "details_bn": "পটভূমি ও পূর্ববর্তী ঘটনার বিবরণ (অনূর্ধ্ব ৯০ শব্দ)",
-  "details_en": "Background context and preceding events (under 90 words)",
-  "tags": [
-    "#GroundedTag1",
-    "#GroundedTag2"
-  ]
-  {bcs_instructions}
-}}
-"""
-            # Cascade across model tiers with exponential backoff & multi-key rotation
-            response = None
-            last_err = None
-
-            for active_key in keys_list:
-                try:
-                    client = genai.Client(api_key=active_key)
-                except Exception as client_err:
-                    print(f"⚠️ Failed to init Gemini client with key {active_key[:8]}...: {client_err}")
-                    continue
-
-                for model_name in MODEL_CASCADE:
-                    for attempt in range(2):
-                        try:
-                            resp = client.models.generate_content(
-                                model=model_name,
-                                contents=prompt,
-                                config=types.GenerateContentConfig(
-                                    response_mime_type="application/json"
-                                )
-                            )
-                            if resp and resp.text:
-                                response = resp
-                                break
-                        except Exception as m_err:
-                            last_err = m_err
-                            err_str = str(m_err)
-                            is_503 = "503" in err_str or "UNAVAILABLE" in err_str or "high demand" in err_str
-                            is_429 = "429" in err_str or "RESOURCE_EXHAUSTED" in err_str or "quota" in err_str.lower()
-                            is_404 = "404" in err_str or "NOT_FOUND" in err_str or "no longer available" in err_str
-
-                            if is_404:
-                                # Deprecated model: skip to next model in cascade without retry
-                                break
-
-                            if attempt == 0 and (is_503 or is_429):
-                                backoff = 1.5 + random.uniform(0.5, 1.5)
-                                print(f"⏳ Transient spike on {model_name} ({err_str[:60]}...). Backing off {backoff:.1f}s...")
-                                time.sleep(backoff)
-                                continue
-                            else:
-                                print(f"⚠️ Model {model_name} attempt note: {err_str[:80]}")
-                                break
-                    if response:
-                        break
-                if response:
-                    break
-
-            if not response or not response.text:
-                raise RuntimeError(f"All Gemini models and keys exhausted or unavailable (last error: {last_err})")
-
-            data = json.loads(response.text)
+            prompt = build_story_prompt(
+                build_source_text(cluster.articles), primary_cat, is_bcs_pro
+            )
+            data = generate_json(prompt, api_key=api_key, temperature=0.2)
             if isinstance(data, list) and len(data) > 0:
                 data = data[0]
             if not isinstance(data, dict):
@@ -583,7 +419,10 @@ You MUST return a JSON object with these EXACT keys:
                 bcs_pro=bcs_pro
             )
         except Exception as e:
-            print(f"⚠️ Gemini synthesis error ({e}), falling back to Gen-Z gist heuristic engine...")
+            if not allow_heuristic_fallback:
+                print(f"⚠️ Gemini synthesis error ({e}); story skipped (no heuristic fallback).")
+                return None
+            print(f"⚠️ Gemini synthesis error ({e}), falling back to heuristic engine...")
 
     # =========================================================================
     # Fallback High-Quality Heuristic Engine (100% Free, Zero-API Dependency)
