@@ -290,6 +290,16 @@ SECTION_TARGETS = [
     }
 ]
 
+# Google News Bangladesh top stories: used only as a "what matters now" ranking signal.
+TRENDING_SIGNAL_FEEDS = [
+    "https://news.google.com/rss?hl=bn&gl=BD&ceid=BD:bn",
+    "https://news.google.com/rss?hl=en-BD&gl=BD&ceid=BD:en",
+]
+
+# AI news desk: headlines sent per run, and the lowest importance (1-10) worth publishing.
+DESK_MAX_ARTICLES = 160
+DESK_MIN_IMPORTANCE = 5
+
 # A source that yields no article newer than this is reported as silent.
 SOURCE_SILENCE_ALERT_HOURS = 24
 

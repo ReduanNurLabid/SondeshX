@@ -112,7 +112,9 @@ def get_recent_published_stories(limit: int = 30, max_age_hours: float = 30.0) -
     try:
         db = get_firestore_client()
         # Fetch from daily_buzz
-        docs = db.collection("daily_buzz").limit(limit).stream()
+        docs = db.collection("daily_buzz").order_by(
+            "published_at", direction=firestore.Query.DESCENDING
+        ).limit(limit).stream()
         for doc in docs:
             data = doc.to_dict()
             s_id = data.get("story_id") or doc.id
@@ -134,7 +136,9 @@ def get_recent_published_stories(limit: int = 30, max_age_hours: float = 30.0) -
                 stories.append(data)
                 
         # Also check hourly_buzz
-        h_docs = db.collection("hourly_buzz").limit(limit).stream()
+        h_docs = db.collection("hourly_buzz").order_by(
+            "published_at", direction=firestore.Query.DESCENDING
+        ).limit(limit).stream()
         for doc in h_docs:
             data = doc.to_dict()
             s_id = data.get("story_id") or doc.id

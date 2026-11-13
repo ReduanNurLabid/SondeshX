@@ -16,6 +16,8 @@ from pipeline.collectors.article_scraper import scrape_article_body, scrape_arti
 from pipeline.collectors.unsplash_service import fetch_story_image
 from pipeline.processing.deduplicator import cluster_and_tag_articles, extract_canonical_entities
 from pipeline.processing.selector import select_stories_for_audiences
+from pipeline.processing.news_desk import build_desk_events
+from pipeline.processing.fact_check import fact_check_story
 from pipeline.processing.synthesizer import synthesize_story_with_ai, build_clean_sources
 from pipeline.models import DailyCapsule, CapsuleStory
 from pipeline.storage.firebase_service import (
@@ -54,15 +56,25 @@ def run_hourly_buzz(limit: int = 8):
         print("❌ No fresh articles fetched. Exiting.")
         return None
 
-    # 2. Cross-lingual deduplication & clustering (fast in-memory on titles & RSS summaries)
-    print(f"\n🔍 Cross-lingual entity clustering on fresh candidates...")
-    clusters = cluster_and_tag_articles(candidates)
-    print(f"   Generated {len(clusters)} unique event clusters.")
-    
-    # 4. Cross-Run Memory & Deduplication
+    # 2. Cross-Run Memory (loaded first: the news desk needs it to spot repeats)
     print(f"\n🧠 Loading historical event memory from past 30 hours...")
     historical_stories = get_recent_published_stories(limit=100, max_age_hours=30.0)
     print(f"   Loaded {len(historical_stories)} recent published stories for cross-run deduplication.")
+
+    # AI news desk groups, ranks and de-duplicates events; keyword clustering is the fallback
+    print("\nAI news desk: grouping and ranking events...")
+    clusters = build_desk_events(candidates, historical_stories)
+    if clusters is not None:
+        multi = sum(1 for c in clusters if c.desk["outlets"] > 1)
+        print(f"   Desk selected {len(clusters)} events ({multi} carried by more than one outlet).")
+        for c in clusters[:12]:
+            d = c.desk
+            print(f"   {c.rank_score:5.2f} | imp {d['importance']:.0f} | {d['outlets']} outlets"
+                  f"{' | trending' if d['trending'] else ''} | {c.region} | {c.primary_title[:60]}")
+    else:
+        print("   Falling back to keyword clustering...")
+        clusters = cluster_and_tag_articles(candidates)
+        print(f"   Generated {len(clusters)} unique event clusters.")
 
     def extract_clean_tokens(text: str) -> set:
         words = re.findall(r"[\w\u0980-\u09FF]{3,}", text.lower())
@@ -153,7 +165,12 @@ def run_hourly_buzz(limit: int = 8):
         primary_cat = cluster.matched_categories[0] if cluster.matched_categories else "world_diplomacy"
 
         # Check against historical coverage across previous hourly runs
-        matched_hist = find_matching_historical_story(cluster, historical_stories)
+        # Desk events carry the editor's own match; keyword clusters use token matching.
+        from_desk = hasattr(cluster, "desk")
+        if from_desk:
+            matched_hist = cluster.published_match
+        else:
+            matched_hist = find_matching_historical_story(cluster, historical_stories)
         if matched_hist:
             hist_id = matched_hist.get("story_id")
             new_sources = build_clean_sources(cluster.articles)
@@ -164,7 +181,9 @@ def run_hourly_buzz(limit: int = 8):
 
         # Check topic repetition against stories already selected in THIS current run
         specific_entities = cluster.canonical_entities - GENERIC_THEMATIC_ENTITIES
-        if specific_entities and specific_entities.intersection(seen_entities):
+        # The desk already merged same-event reports, so the two in-batch checks
+        # below apply to keyword clusters only.
+        if not from_desk and specific_entities and specific_entities.intersection(seen_entities):
             print(f"   ⏩ Skipping duplicate topic in current batch: {cluster.primary_title[:50]} (entity: {specific_entities})")
             return False
             
@@ -178,7 +197,7 @@ def run_hourly_buzz(limit: int = 8):
             if jaccard >= 0.50 or (len(art_tokens) >= 4 and len(inter) / len(art_tokens) >= 0.65):
                 is_duplicate = True
                 break
-        if is_duplicate:
+        if is_duplicate and not from_desk:
             print(f"   ⏩ Skipping title-duplicate cluster in current batch: {cluster.primary_title[:50]}")
             return False
 
@@ -192,10 +211,24 @@ def run_hourly_buzz(limit: int = 8):
             if details.get("image_url") and not primary_art.image_url:
                 primary_art.image_url = details["image_url"]
 
-        story = synthesize_story_with_ai(cluster, is_bcs_pro=False)
-        if not story:
-            print(f"   🚫 Story rejected or excluded: {primary_art.title[:50]}")
+        # Synthesize, then fact-check independently against the source reporting.
+        # A failed check gets one fresh attempt before the story is dropped.
+        for attempt in (1, 2):
+            story = synthesize_story_with_ai(cluster, is_bcs_pro=False)
+            if not story:
+                print(f"   🚫 Story rejected or excluded: {primary_art.title[:50]}")
+                return False
+            check = fact_check_story(story, cluster.articles)
+            if check["status"] != "failed":
+                break
+            print(f"   Fact-check FAILED (attempt {attempt}): {primary_art.title[:50]}")
+            for issue in check["issues"][:3]:
+                print(f"      - {issue['field']}: {issue['claim'][:90]} ({issue['why'][:70]})")
+        if check["status"] == "failed":
+            print("   Story dropped after two failed fact-checks.")
             return False
+        print(f"   Fact-check {check['status']}"
+              f"{' (unsupported background removed)' if check['issues'] else ''}")
 
         # ── Unsplash image enrichment ──────────────────────────────────────
         if not story.image_url:
@@ -214,6 +247,13 @@ def run_hourly_buzz(limit: int = 8):
 
         item = story.model_dump()
         item.pop("bcs_pro", None)  # Lightweight payload for free buzz
+        item["fact_check"] = {"status": check["status"], "checked_at": check["checked_at"]}
+        if from_desk:
+            item["importance_score"] = cluster.importance_score
+            item["rank_score"] = cluster.rank_score
+            item["region"] = cluster.region
+            item["outlet_count"] = cluster.desk["outlets"]
+            item["trending"] = cluster.desk["trending"]
         buzz_stories.append(item)
         historical_stories.append(item)  # Add to memory for remaining clusters
         category_counts[story.primary_category] = category_counts.get(story.primary_category, 0) + 1
