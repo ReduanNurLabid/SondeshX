@@ -228,7 +228,11 @@ def build_clean_sources(articles: list) -> list:
     sources = []
     seen_urls = set()
     seen_publishers = set()
-    
+
+    # Most trusted outlets first, so readers see the strongest sources at the top.
+    from pipeline.config import source_trust
+    articles = sorted(articles, key=lambda a: source_trust(getattr(a, "source", "")))
+
     for a in articles:
         url = getattr(a, "url", "")
         source_name = getattr(a, "source", "News Wire")

@@ -31,6 +31,7 @@ from pipeline.processing.deduplicator import (
     extract_canonical_entities,
 )
 from pipeline.processing.llm import generate_json
+from pipeline.config import source_trust
 from pipeline.processing.scoring import compute_time_decayed_score
 
 # Editorial score (1-10) = the desk's importance judgement plus measurable signals.
@@ -71,7 +72,9 @@ def _build_prompt(articles: List[RawArticle], trending: List[str], published: Li
     for i, art in enumerate(articles, 1):
         summary = (art.summary_raw or "").strip()
         extra = f" | {summary[:140]}" if summary and summary != art.title else ""
-        article_lines.append(f"[{i}] ({art.source}) {art.title}{extra}")
+        tier = source_trust(art.source)
+        mark = " · unverified outlet" if tier == 3 else ""
+        article_lines.append(f"[{i}] ({art.source}{mark}) {art.title}{extra}")
 
     trending_lines = [f"- {t}" for t in trending] or ["(none available)"]
 
@@ -99,7 +102,8 @@ PUBLISHED (stories already on our site in the last day):
 
 TASKS
 1. Group ARTICLES into events. Two articles belong to the same event only when they report the same specific occurrence (same actors, same action, same time). The same topic is not the same event. Match across Bengali and English.
-2. Leave out articles that are not news a mainstream reader needs: sports fixtures and routine match reports, celebrity and lifestyle items, product deals, horoscopes, opinion columns, minor local incidents with no wider significance.
+2. Leave out articles that are not news a mainstream reader needs: sports fixtures and routine match reports, celebrity and lifestyle items, product deals, horoscopes, opinion columns, minor local incidents with no wider significance, and individual crimes or disputes that matter only to the people involved.
+   Reports marked "unverified outlet" are less reliable: do not raise an event's importance because of them, and treat sensational claims that only they report with scepticism.
 3. Score each event's importance from 1 to 10 for a general reader in Bangladesh. Use the whole scale; do not cluster everything around 6-8.
    10: a national turning point that will lead every outlet for days (election result, change of government, major disaster with many deaths).
    9: a decision or event that changes daily life for most Bangladeshis now (fuel or electricity price change, nationwide shutdown, budget, major court verdict on national politics).
@@ -148,11 +152,13 @@ def _as_int_list(value) -> List[int]:
 
 
 def _order_articles(articles: List[RawArticle]) -> List[RawArticle]:
-    """Lead with the report most likely to give the synthesizer a full article body."""
-    def richness(art: RawArticle) -> int:
+    """Lead with the most trusted outlet, then the report with the fullest text.
+    The lead article supplies the body the story is written from and is cited first."""
+    def key(art: RawArticle):
         summary = art.summary_raw or ""
-        return len(summary) if summary != art.title else 0
-    return sorted(articles, key=richness, reverse=True)
+        richness = len(summary) if summary != art.title else 0
+        return (source_trust(art.source), -richness)
+    return sorted(articles, key=key)
 
 
 def build_desk_events(
@@ -181,7 +187,8 @@ def build_desk_events(
 
     events: List[ClusteredEvent] = []
     used: set = set()
-    dropped = {"no valid article numbers": 0, "below importance threshold": 0}
+    dropped = {"no valid article numbers": 0, "below importance threshold": 0,
+               "only low-trust sources": 0, "single tier-2 source, minor": 0}
 
     for raw in raw_events:
         if not isinstance(raw, dict):
@@ -204,6 +211,17 @@ def build_desk_events(
             continue
 
         members = _order_articles([articles[n - 1] for n in ids])
+
+        # Trust rules: a story needs at least one acceptable outlet behind it, and a
+        # story carried by a single tier-2 outlet only must be important enough.
+        best_tier = source_trust(members[0].source)
+        if best_tier >= 3:
+            dropped["only low-trust sources"] += 1
+            continue
+        trusted_outlets = {outlet_key(a) for a in members if source_trust(a.source) <= 2}
+        if best_tier == 2 and len(trusted_outlets) == 1 and importance < 6:
+            dropped["single tier-2 source, minor"] += 1
+            continue
         event = ClusteredEvent(members[0])
         event.articles = members
 
@@ -221,7 +239,8 @@ def build_desk_events(
         outlets = len({outlet_key(a) for a in members})
         # Only Bangladeshi outlets count as corroboration: several foreign feeds
         # repeating a foreign story says nothing about its weight for readers here.
-        bd_outlets = len({outlet_key(a) for a in members if (a.region or "national") == "national"})
+        bd_outlets = len({outlet_key(a) for a in members
+                          if (a.region or "national") == "national" and source_trust(a.source) <= 2})
         trending_hit = raw.get("trending") is True
         score = (
             importance

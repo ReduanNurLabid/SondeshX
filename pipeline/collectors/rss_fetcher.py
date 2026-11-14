@@ -12,7 +12,7 @@ from typing import Dict, List, Set, Optional
 if sys.stdout:
     sys.stdout.reconfigure(encoding='utf-8')
 
-from pipeline.config import FEEDS, SECTION_TARGETS, DEFAULT_HEADERS, EXCLUSION_KEYWORDS
+from pipeline.config import FEEDS, SECTION_TARGETS, DEFAULT_HEADERS, EXCLUSION_KEYWORDS, TRUST_INTAKE, source_trust
 from pipeline.models import RawArticle
 
 FETCH_TIMEOUT_SECONDS = 8
@@ -157,9 +157,10 @@ def fetch_rss_candidates(max_age_hours: Optional[float] = None) -> List[RawArtic
             health["status"] = "ok" if entries else "empty"
 
             feed_added = 0
+            feed_cap = TRUST_INTAKE.get(source_trust(feed_meta["name"]), MAX_PER_FEED)
 
             for entry in entries:
-                if feed_added >= MAX_PER_FEED:
+                if feed_added >= feed_cap:
                     break
 
                 title = clean_html_tags(getattr(entry, "title", "")).strip()

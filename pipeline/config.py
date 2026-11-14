@@ -300,6 +300,33 @@ TRENDING_SIGNAL_FEEDS = [
 DESK_MAX_ARTICLES = 160
 DESK_MIN_IMPORTANCE = 5
 
+# Editorial trust per source, keyed by the feed "name" above.
+#   1 = established newsroom: can be the lead source and stand alone
+#   2 = acceptable: can lead, but a story it alone reports needs importance >= 6
+#   3 = low trust: used only to corroborate; never the lead or the only source
+# Unlisted sources default to 2. Change a value here to change how a source is used.
+SOURCE_TRUST = {
+    "প্রথম আলো": 1, "প্রথম আলো রাজনীতি": 1,
+    "The Daily Star": 1, "The Daily Star Business": 1, "The Daily Star Law & Crime": 1,
+    "The Business Standard": 1, "The Business Standard Politics": 1,
+    "The Business Standard Bangladesh": 1, "The Business Standard Economy": 1,
+    "The Financial Express": 1, "BSS News": 1, "বাসস": 1,
+    "BBC News বাংলা": 1, "DW বাংলা": 1, "Dhaka Tribune": 1,
+    "BBC World News": 1, "Al Jazeera English": 1, "The Guardian World": 1,
+    "Deutsche Welle World": 1, "The Hindu International": 1, "CNBC Global Economy": 1,
+    "ইত্তেফাক": 2, "Channel i": 2, "Jago News 24": 2, "Dhaka Post": 2, "Sarabangla": 2,
+    "Politico Europe": 2, "MarketWatch Economy": 2, "TechCrunch": 2, "Ars Technica": 2,
+    "Inside Climate News": 2, "Balkan Insight": 2,
+    "Bangla Tribune": 3,
+}
+# Articles taken per feed per run, by trust tier: fewer from less trusted sources.
+TRUST_INTAKE = {1: 12, 2: 8, 3: 4}
+
+
+def source_trust(name: str) -> int:
+    return SOURCE_TRUST.get(name, 2)
+
+
 # A source that yields no article newer than this is reported as silent.
 SOURCE_SILENCE_ALERT_HOURS = 24
 
