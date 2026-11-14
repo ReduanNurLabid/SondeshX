@@ -39,7 +39,7 @@ export const SettingsModal: React.FC = () => {
       >
         {/* Top Registration Mark / Header Bar */}
         <div className="flex items-center justify-between border-b border-primary/20 px-4 py-1.5 font-sans text-[10px] tracking-wider uppercase text-on-surface-variant bg-surface-container-high">
-          <span>{isBn ? 'সন্দেশ এক্সপ্রেস • কনফিগারেশন রেজিস্ট্রি' : 'SONDESH EXPRESS • PROTOCOL REGISTRY'}</span>
+          <span>{isBn ? 'সন্দেশ এক্সপ্রেস • সেটিংস' : 'SONDESH EXPRESS • SETTINGS'}</span>
           <span>{isBn ? 'সংস্করণ ২.৪' : 'REV. 2.4-WEB'}</span>
         </div>
 
@@ -49,10 +49,10 @@ export const SettingsModal: React.FC = () => {
             <Sliders className="w-5 h-5 text-primary" />
             <div>
               <h3 className="font-serif text-lg sm:text-xl font-bold text-primary tracking-tight">
-                {isBn ? 'রিডিং সেটিংস ও প্রটোকল' : 'Reading Preferences & Protocols'}
+                {isBn ? 'পড়ার সেটিংস' : 'Reading settings'}
               </h3>
               <p className="font-sans text-xs text-on-surface-variant">
-                {isBn ? 'ব্যক্তিগত পাঠ্যাভ্যাস এবং ইন্টারফেস নিয়ন্ত্রণ' : 'Interface preferences and typography controls'}
+                {isBn ? 'ভাষা ও লেখার আকার বেছে নিন' : 'Choose your language and text size'}
               </p>
             </div>
           </div>
@@ -64,7 +64,7 @@ export const SettingsModal: React.FC = () => {
               setIsSettingsOpen(false);
             }}
             className="w-8 h-8 rounded-full border-2 border-primary hover:bg-primary hover:text-background flex items-center justify-center text-primary transition-colors cursor-pointer"
-            title={isBn ? 'বন্ধ করুন' : 'Close Settings'}
+            title={isBn ? 'বন্ধ করুন' : 'Close'}
           >
             <X className="w-4 h-4" />
           </button>
@@ -123,23 +123,23 @@ export const SettingsModal: React.FC = () => {
             <div className="flex items-center space-x-2 border-b border-primary/20 pb-1.5 mb-3">
               <Type className="w-4 h-4 text-secondary" />
               <h4 className="font-sans text-xs font-bold uppercase tracking-wider text-primary">
-                {isBn ? 'ফন্ট সাইজ ও টাইপোগ্রাফি' : 'Typography Scale & Font Size'}
+                {isBn ? 'লেখার আকার' : 'Text size'}
               </h4>
             </div>
 
             <div className="p-3.5 bg-surface-container-low border border-primary/20 flex flex-col sm:flex-row sm:items-center justify-between gap-3">
               <div>
                 <span className="font-sans text-xs font-bold text-primary block">
-                  {isBn ? 'নিবন্ধ পাঠের টেক্সট সাইজ' : 'Reading Text Scale'}
+                  {isBn ? 'খবরের লেখার আকার' : 'Article text size'}
                 </span>
                 <span className="font-sans text-[11px] text-on-surface-variant">
-                  {isBn ? 'ব্রডশিট কলাম ও ডসিয়ারের লেখার আকার সমন্বয় করুন' : 'Scale body font size for long-form comfort'}
+                  {isBn ? 'খবর পড়ার সময় লেখা ছোট বা বড় করুন' : 'Make article text smaller or larger'}
                 </span>
               </div>
 
               <div className="flex items-center space-x-1.5 font-sans">
                 {[
-                  { sz: 'sm' as const, label: 'A-', desc: isBn ? 'ছোট' : 'Compact' },
+                  { sz: 'sm' as const, label: 'A-', desc: isBn ? 'ছোট' : 'Small' },
                   { sz: 'base' as const, label: 'A', desc: isBn ? 'আদর্শ' : 'Regular' },
                   { sz: 'lg' as const, label: 'A+', desc: isBn ? 'বড়' : 'Large' },
                 ].map((item) => (
@@ -181,7 +181,7 @@ export const SettingsModal: React.FC = () => {
         {/* Modal Footer Bar */}
         <footer className="px-5 sm:px-6 py-3 border-t-2 border-primary bg-surface-container flex items-center justify-between font-sans text-xs">
           <span className="text-on-surface-variant">
-            {isBn ? 'পরিবর্তনগুলো তাৎক্ষণিকভাবে সংরক্ষিত হয়' : 'Preferences persist in your local browser'}
+            {isBn ? 'পরিবর্তন এই ডিভাইসে সংরক্ষিত থাকে' : 'Saved on this device'}
           </span>
           <button
             onClick={() => setIsSettingsOpen(false)}

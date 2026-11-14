@@ -1,5 +1,6 @@
 import React, { createContext, useContext, useState, useEffect, useRef } from 'react';
 import { CapsuleStory, Language, TabType } from '../types';
+import { applyPageMeta, storyIdFromPath, storyPath } from '../utils/seo';
 import { fetchDailyBuzzFeed, fetchCurrentAffairsFeed, fetchHourlyWiresFeed } from '../services/api';
 import { translations } from '../utils/bilingual';
 import { synthesizeAudioStory, prepareSpeechText } from '../services/ttsService';
@@ -71,7 +72,7 @@ const AppContext = createContext<AppContextType | undefined>(undefined);
 
 export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   const [language, setLanguageState] = useState<Language>(() => {
-    return (localStorage.getItem('dorpon_lang') as Language) || 'en';
+    return (localStorage.getItem('dorpon_lang') as Language) || 'bn';
   });
   const [isSerif, setIsSerifState] = useState<boolean>(() => {
     return localStorage.getItem('dorpon_serif') === 'true';
@@ -427,11 +428,13 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
     });
   };
 
+  // Each story has its own address, /story/<id>/, so it can be shared and indexed.
   const openStory = (story: CapsuleStory) => {
     setActiveStory(story);
     if (typeof window !== 'undefined') {
       const url = new URL(window.location.href);
-      url.searchParams.set('story', story.story_id);
+      url.searchParams.delete('story');
+      url.pathname = storyPath(story.story_id);
       window.history.pushState({ storyId: story.story_id }, '', url.toString());
     }
   };
@@ -441,9 +444,15 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
     if (typeof window !== 'undefined') {
       const url = new URL(window.location.href);
       url.searchParams.delete('story');
+      if (storyIdFromPath(url.pathname)) url.pathname = '/';
       window.history.pushState({}, '', url.toString());
     }
   };
+
+  // Title, description and share tags follow the open story (or the front page).
+  useEffect(() => {
+    applyPageMeta(activeStory, language);
+  }, [activeStory, language]);
 
   const t = (key: keyof typeof translations['en']): string => {
     return translations[language][key] || translations['en'][key] || key;
@@ -485,7 +494,13 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
 
     const syncFromUrl = () => {
       const urlParams = new URLSearchParams(window.location.search);
-      const storyParam = urlParams.get('story');
+      // /story/<id>/ is the canonical story address; ?story=<id> links from before still work.
+      const storyParam = storyIdFromPath(window.location.pathname) || urlParams.get('story');
+      const searchParam = urlParams.get('q');
+      if (searchParam) {
+        setSearchQuery(searchParam);
+        setActiveTabState('discover');
+      }
       const tabParam = urlParams.get('tab') as TabType | null;
       const pathname = window.location.pathname.toLowerCase();
       const isEditorPath = pathname === '/dashboard' || pathname === '/editor' || urlParams.get('tab') === 'editorial_dashboard' || urlParams.has('editor');
@@ -516,7 +531,7 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
             }
           }
         }
-      } else if (!urlParams.has('story')) {
+      } else if (!urlParams.has('story') && !storyIdFromPath(window.location.pathname)) {
         setActiveStory(null);
       }
     };

@@ -166,7 +166,7 @@ export const DiscoverFeed: React.FC = () => {
           <div>
             <div className="flex items-center space-x-1.5 font-label-sm text-label-sm font-bold uppercase text-secondary mb-2">
               <Hash className="w-3.5 h-3.5" />
-              <span>{isBn ? 'টপিক ও বিষয়বস্তু ফিল্টার' : 'Strategic Topics & Indices'}</span>
+              <span>{isBn ? 'বিষয়' : 'Topics'}</span>
             </div>
             <div className="flex flex-wrap gap-1.5">
               {allTags.map((tag) => {
@@ -193,7 +193,7 @@ export const DiscoverFeed: React.FC = () => {
             <div className="pt-2 border-t border-primary/10">
               <div className="flex items-center space-x-1.5 font-label-sm text-label-sm font-bold uppercase text-on-surface-variant mb-2">
                 <Globe className="w-3.5 h-3.5" />
-                <span>{isBn ? 'সংবাদ উৎস ও ওয়্যার সার্ভিস' : 'News Sources & Wire Services'}</span>
+                <span>{isBn ? 'সূত্র' : 'Sources'}</span>
               </div>
               <div className="flex flex-wrap gap-1.5">
                 {allSources.map((src) => {
@@ -221,7 +221,7 @@ export const DiscoverFeed: React.FC = () => {
         <div className="flex flex-wrap items-center justify-between gap-3 pb-2 mb-6 border-b-2 border-primary">
           <div className="flex flex-wrap items-center gap-2 font-serif text-sm font-bold text-primary">
             <span className="uppercase tracking-wider font-label-sm text-label-sm">
-              {isBn ? 'সকল সংবাদ তালিকা' : 'All News Stories'}
+              {isBn ? 'সব খবর' : 'All stories'}
             </span>
             <span className="bg-secondary text-on-secondary px-2 py-0.2 text-xs font-bold rounded font-mono">
               {isBn ? toBanglaDigits(filteredStories.length) : filteredStories.length} {isBn ? 'টি সংবাদ' : 'Stories'}
@@ -232,7 +232,7 @@ export const DiscoverFeed: React.FC = () => {
               <span className="inline-flex items-center gap-1.5 bg-primary/10 text-primary border border-primary/30 px-2.5 py-0.5 text-xs font-serif rounded">
                 <Search className="w-3 h-3 text-secondary" />
                 <span>
-                  {isBn ? 'অনুসন্ধান:' : 'Query:'} <strong className="font-bold">"{searchQuery}"</strong>
+                  {isBn ? 'খোঁজা হচ্ছে:' : 'Search:'} <strong className="font-bold">"{searchQuery}"</strong>
                 </span>
                 <button
                   onClick={() => setSearchQuery('')}
@@ -263,7 +263,7 @@ export const DiscoverFeed: React.FC = () => {
                         ? 'bg-primary text-background font-bold shadow-sm'
                         : 'text-on-surface-variant hover:text-primary'
                     }`}
-                    title={isBn ? 'সর্বশেষ আগে (সময়)' : 'Newest First (Time)'}
+                    title={isBn ? 'নতুন খবর আগে' : 'Newest first'}
                   >
                     {isBn ? 'সর্বশেষ' : 'Newest'}
                   </button>
@@ -274,9 +274,9 @@ export const DiscoverFeed: React.FC = () => {
                         ? 'bg-primary text-background font-bold shadow-sm'
                         : 'text-on-surface-variant hover:text-primary'
                     }`}
-                    title={isBn ? 'সম্পাদকীয় স্কোর ও প্রাসঙ্গিকতা' : 'Editorial Relevance & Score'}
+                    title={isBn ? 'গুরুত্ব অনুযায়ী' : 'Most important first'}
                   >
-                    {isBn ? 'প্রাসঙ্গিকতা' : 'Relevance'}
+                    {isBn ? 'গুরুত্ব' : 'Importance'}
                   </button>
                 </div>
               </div>
@@ -353,12 +353,12 @@ export const DiscoverFeed: React.FC = () => {
           <div className="text-center py-20 px-4 border border-primary/20 bg-surface-container">
             <Layers className="w-10 h-10 text-secondary/40 mx-auto mb-3" />
             <h3 className="font-serif text-lg font-bold text-primary mb-1">
-              {isBn ? 'কোনো আর্কাইভ নথি পাওয়া যায়নি' : 'No Archived Records Matching Selection'}
+              {isBn ? 'কোনো খবর পাওয়া যায়নি' : 'No stories found'}
             </h3>
             <p className="font-serif text-xs sm:text-sm text-on-surface-variant mb-4">
               {isBn 
-                ? 'অন্য কোনো সময়সীমা বা টপিক ফিল্টার নির্বাচন করুন।' 
-                : 'Try clearing your active filters or selecting a broader timeframe.'}
+                ? 'ফিল্টার বদলে আবার চেষ্টা করুন।' 
+                : 'Try changing or clearing the filters.'}
             </p>
             <button
               onClick={clearAllFilters}

@@ -28,7 +28,7 @@ jobs:
     runs-on: ubuntu-latest
     # Hard kill after 12 minutes — prevents a hung API call from
     # occupying a runner slot and blocking the next scheduled run.
-    timeout-minutes: 12
+    timeout-minutes: 18
 
     steps:
       - name: Skip Scheduled Run If One Succeeded Recently
@@ -82,6 +82,38 @@ jobs:
           git add data/output/hourly_buzz_latest.json data/output/source_health.json || true
           git commit -m "chore(pipeline): auto-update hourly buzz [skip ci]" || echo "No changes to commit"
           git push || echo "Push failed or not needed"
+
+      # Story pages, sitemaps and the RSS feed are static files built from Firestore,
+      # so the site is rebuilt and redeployed after each run to include the new stories.
+      # A failure here never affects the news pipeline above.
+      - name: Install pnpm
+        if: steps.guard.outputs.skip != 'true'
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - name: Set up Node.js
+        if: steps.guard.outputs.skip != 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'pnpm'
+          cache-dependency-path: web/pnpm-lock.yaml
+
+      - name: Rebuild Site With New Story Pages And Deploy
+        if: steps.guard.outputs.skip != 'true'
+        continue-on-error: true
+        env:
+          FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
+        run: |
+          cd web
+          pnpm install --frozen-lockfile
+          pnpm run build
+          cd ..
+          printf '%s' "$FIREBASE_SERVICE_ACCOUNT_JSON" > "$RUNNER_TEMP/sa.json"
+          GOOGLE_APPLICATION_CREDENTIALS="$RUNNER_TEMP/sa.json" \
+            npx --yes firebase-tools@15 deploy --only hosting:sondesh --project dorpon-a99a6 --non-interactive
+          rm -f "$RUNNER_TEMP/sa.json"
 
       - name: Open Issue For Silent Sources
         if: steps.guard.outputs.skip != 'true'

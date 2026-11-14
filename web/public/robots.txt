@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /editor
+
+Sitemap: https://sondesh.web.app/sitemap.xml
+Sitemap: https://sondesh.web.app/news-sitemap.xml

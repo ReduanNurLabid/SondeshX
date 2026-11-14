@@ -79,10 +79,10 @@ export const CurrentAffairsFeed: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 text-center">
         <Scale className="w-12 h-12 mx-auto text-on-surface-variant/40 mb-3" />
         <h3 className="font-headline-md text-headline-md text-primary font-bold">
-          {isBn ? 'কোনো স্ট্র্যাটেজিক ডসিয়ার পাওয়া যায়নি' : 'No Strategic Dossiers Available'}
+          {isBn ? 'এখনো কোনো বিশ্লেষণ প্রকাশিত হয়নি' : 'No analysis published yet'}
         </h3>
         <p className="font-body-md text-body-md text-on-surface-variant mt-1">
-          {isBn ? 'নতুন নীতি নথি বিশ্লেষণ ও প্রতিবেদন সিঙ্ক হচ্ছে...' : 'Live analytical policy registers are updating...'}
+          {isBn ? 'নতুন বিশ্লেষণ প্রকাশিত হলে এখানে দেখা যাবে।' : 'New analysis will appear here when published.'}
         </p>
       </div>
     );
@@ -134,7 +134,7 @@ export const CurrentAffairsFeed: React.FC = () => {
     }
   ];
 
-  const statsList = (bcs?.data_stats && bcs.data_stats.length > 0) ? bcs.data_stats : defaultStats;
+  const statsList = (bcs?.data_stats && bcs.data_stats.length > 0) ? bcs.data_stats : [];
 
   return (
     <div className="bg-background text-on-surface min-h-screen">

@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { storyPath } from '../utils/seo';
 import { CapsuleStory } from '../types';
 import { useApp } from '../context/AppContext';
 import { 
@@ -59,9 +60,7 @@ export const StoryCard: React.FC<StoryCardProps> = ({ story, featured = false })
 
   const handleShare = async (e: React.MouseEvent) => {
     e.stopPropagation();
-    const storyUrl = new URL(window.location.origin + window.location.pathname);
-    storyUrl.searchParams.set('story', story.story_id);
-    const permalink = storyUrl.toString();
+    const permalink = window.location.origin + storyPath(story.story_id);
 
     try {
       if (navigator.clipboard && navigator.clipboard.writeText) {
@@ -133,7 +132,7 @@ export const StoryCard: React.FC<StoryCardProps> = ({ story, featured = false })
           <div className="rounded border border-secondary/40 bg-secondary-container/15 p-2.5 mb-2.5">
             <div className="font-label-sm text-label-sm font-bold uppercase text-secondary mb-1 flex items-center gap-1">
               <Sparkles className="w-3 h-3" />
-              <span>{isBn ? 'মূল বিষয়' : 'Key Takeway'}</span>
+              <span>{isBn ? 'মূল বিষয়' : 'Key Takeaways'}</span>
             </div>
             <ul className="space-y-1 font-serif text-xs text-on-surface">
               {bullets.slice(0, 3).map((bullet, idx) => (

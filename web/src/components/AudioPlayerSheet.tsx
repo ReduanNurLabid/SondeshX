@@ -124,7 +124,7 @@ export const AudioPlayerSheet: React.FC = () => {
             {title}
           </h3>
           <p className="text-xs text-text-secondary mt-1">
-            {isBn ? 'সন্দেশ এক্সপ্রেস স্মার্ট অডিও ব্রিফিং (বাংলা)' : 'Sondesh Express Smart Audio Briefing (English)'}
+            {isBn ? 'সন্দেশ এক্সপ্রেস • অডিও খবর' : 'Sondesh Express • Audio news'}
           </p>
         </div>
 
@@ -260,7 +260,7 @@ export const AudioPlayerSheet: React.FC = () => {
         <div>
           <div className="flex items-center space-x-2 text-xs font-bold uppercase tracking-wider text-text-secondary mb-3">
             <ListOrdered className="w-4 h-4 text-mint" />
-            <span>{isBn ? 'ব্রিফিং ক্রমতালিকা' : 'Briefing Queue'}</span>
+            <span>{isBn ? 'পরের খবর' : 'Up next'}</span>
           </div>
 
           <div className="space-y-2 max-h-48 overflow-y-auto no-scrollbar pr-1">

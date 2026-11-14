@@ -88,14 +88,14 @@ export const Header: React.FC = () => {
             <span className="hidden xs:inline">Vol. XLIV No. 1,482</span>
             <span className="text-outline-variant hidden sm:inline">|</span>
             <span className="hidden sm:inline font-medium text-on-surface">
-              {isBn ? `সংবাদ সারসংক্ষেপ • ${dateFormatted} • লাইভ` : `Curated News Briefing • ${dateFormatted} • Live`}
+              {isBn ? `সর্বশেষ খবর • ${dateFormatted}` : `Latest news • ${dateFormatted}`}
             </span>
           </div>
 
           <div className="flex items-center space-x-3 sm:space-x-4">
             <span className="text-secondary font-semibold hidden md:flex items-center gap-1.5">
               <span className="w-2 h-2 rounded-full bg-secondary inline-block animate-pulse"></span>
-              {isBn ? 'বাংলাদেশ সংবাদ ও নির্বাহী ব্রিফিং' : 'BANGLADESH NEWS & EXECUTIVE BRIEFINGS'}
+              {isBn ? 'বাংলাদেশ ও বিশ্বের খবর' : 'BANGLADESH & WORLD NEWS'}
             </span>
             <span className="text-outline-variant hidden md:inline">|</span>
 
@@ -130,7 +130,7 @@ export const Header: React.FC = () => {
           <div className="absolute left-0 top-1/2 -translate-y-1/2 hidden xl:flex flex-col text-left font-label-sm text-label-sm uppercase tracking-wider text-on-surface-variant leading-tight space-y-0.5">
             <span className="font-bold text-primary flex items-center gap-1">
               <span className="w-1.5 h-1.5 rounded-full bg-secondary animate-pulse"></span>
-              {isBn ? 'ডিএসই স্টক রেজিস্টার' : 'DSE STOCK REGISTER'}
+              {isBn ? 'ঢাকা শেয়ারবাজার' : 'DHAKA STOCK EXCHANGE'}
             </span>
             {stockData?.indices?.DSEX && (
               <span className="flex items-center gap-1 font-mono">
@@ -176,7 +176,7 @@ export const Header: React.FC = () => {
           <div className="absolute right-0 top-1/2 -translate-y-1/2 hidden xl:flex flex-col text-right font-label-sm text-label-sm uppercase tracking-wider text-on-surface-variant leading-tight space-y-0.5">
             <span className="font-bold text-secondary flex items-center justify-end gap-1">
               <span className="w-1.5 h-1.5 rounded-full bg-secondary animate-pulse"></span>
-              {isBn ? 'স্ট্রাকচার্ড ব্রিফিং' : 'STRUCTURED BRIEFINGS'}
+              {isBn ? 'এক মিনিটের খবর' : 'NEWS IN A MINUTE'}
             </span>
             <span>{isBn ? 'হালনাগাদ: প্রতি ঘণ্টায়' : 'UPDATED: EVERY HOUR'}</span>
             <span>{isBn ? 'সংস্করণ: ডিজিটাল ব্রডশিট' : 'EDITION: DIGITAL BROADSHEET'}</span>
@@ -222,7 +222,7 @@ export const Header: React.FC = () => {
                     setActiveTab('discover');
                   }
                 }}
-                placeholder={isBn ? 'সংবাদ অনুসন্ধান...' : 'Search briefing keys...'}
+                placeholder={isBn ? 'খবর খুঁজুন...' : 'Search news...'}
                 className="bg-transparent border-none text-primary text-xs placeholder:text-outline focus:outline-none w-36 sm:w-44 p-0 font-serif"
               />
             </div>

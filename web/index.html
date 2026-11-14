@@ -1,80 +1,82 @@
 <!doctype html>
-<html lang="en">
+<html lang="bn">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/Dorpon_logo.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
-    
-    <!-- Primary SEO Meta Tags -->
-    <title>Sondesh Express (সন্দেশ এক্সপ্রেস) — Bangladesh news in a minute, updated every hour</title>
-    <meta name="title" content="Sondesh Express (সন্দেশ এক্সপ্রেস) — Bangladesh news in a minute, updated every hour" />
-    <meta name="description" content="The day's news from Bangladesh and the world in one-minute summaries, in Bangla and English. Written by AI from leading news outlets, checked against the original reports, updated every hour." />
-    <meta name="keywords" content="Sondesh Express, সন্দেশ এক্সপ্রেস, Bangladesh news, Bangladesh newspaper, Dhaka news, DSE stock live, Bangladesh current affairs, curated news summaries, AI news summary Bangladesh, বাংলা খবর, Bangladesh digital gazette" />
-    <meta name="author" content="Sondesh Express Editorial Board" />
-    <meta name="publisher" content="Sondesh Express Bangladesh" />
-    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-    <link rel="canonical" href="https://sondeshexpress.com/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 
-    <!-- Open Graph / Facebook / LinkedIn -->
+    <!-- SEO-HEAD-START: scripts/generate-seo.mjs replaces this block on each story page -->
+    <title>সন্দেশ এক্সপ্রেস — এক মিনিটে বাংলাদেশ ও বিশ্বের খবর</title>
+    <meta name="description" content="বাংলাদেশ ও বিশ্বের দিনের গুরুত্বপূর্ণ খবর, এক মিনিটের সারাংশে। দেশের শীর্ষ সংবাদমাধ্যমের প্রতিবেদন থেকে এআইয়ের লেখা, মূল প্রতিবেদনের সঙ্গে মিলিয়ে যাচাই করা, প্রতি ঘণ্টায় হালনাগাদ।" />
+    <link rel="canonical" href="https://sondesh.web.app/" />
     <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="Sondesh Express Bangladesh" />
-    <meta property="og:title" content="Sondesh Express — Bangladesh news in a minute" />
-    <meta property="og:description" content="The day's news from Bangladesh and the world in one-minute summaries, updated every hour and linked to the original reports." />
-    <meta property="og:url" content="https://sondeshexpress.com/" />
-    <meta property="og:image" content="/Dorpon_logo.svg" />
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:locale:alternate" content="bn_BD" />
-
-    <!-- Twitter Cards -->
+    <meta property="og:url" content="https://sondesh.web.app/" />
+    <meta property="og:title" content="সন্দেশ এক্সপ্রেস — এক মিনিটে বাংলাদেশ ও বিশ্বের খবর" />
+    <meta property="og:description" content="দেশের শীর্ষ সংবাদমাধ্যমের খবর এক মিনিটের সারাংশে, প্রতি ঘণ্টায় হালনাগাদ। প্রতিটি খবরে মূল প্রতিবেদনের লিংক।" />
+    <meta property="og:image" content="https://sondesh.web.app/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="সন্দেশ এক্সপ্রেস" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@SondeshExpress" />
-    <meta name="twitter:title" content="Sondesh Express — Bangladesh news in a minute" />
-    <meta name="twitter:description" content="The day's news from Bangladesh and the world in one-minute summaries, updated every hour." />
-    <meta name="twitter:image" content="/Dorpon_logo.svg" />
+    <meta name="twitter:title" content="সন্দেশ এক্সপ্রেস — এক মিনিটে বাংলাদেশ ও বিশ্বের খবর" />
+    <meta name="twitter:description" content="দেশের শীর্ষ সংবাদমাধ্যমের খবর এক মিনিটের সারাংশে, প্রতি ঘণ্টায় হালনাগাদ।" />
+    <meta name="twitter:image" content="https://sondesh.web.app/og-image.png" />
+    <!-- SEO-HEAD-END -->
 
-    <!-- Web App & Theme Configuration -->
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <meta property="og:site_name" content="সন্দেশ এক্সপ্রেস" />
+    <meta property="og:locale" content="bn_BD" />
+    <meta property="og:locale:alternate" content="en_US" />
+    <meta name="application-name" content="সন্দেশ এক্সপ্রেস" />
+    <meta name="apple-mobile-web-app-title" content="সন্দেশ" />
     <meta name="theme-color" content="#fcf9f1" />
+    <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
 
-    <!-- Google Fonts: Plus Jakarta Sans, Hind Siliguri, Noto Serif Bengali, Lora, Newsreader, Space Grotesk -->
+    <link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="alternate" type="application/rss+xml" title="সন্দেশ এক্সপ্রেস — সর্বশেষ খবর" href="/feed.xml" />
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://firestore.googleapis.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Anek+Bangla:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;1,600&family=Hind+Siliguri:wght@300;400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400;1,6..72,600&family=Noto+Serif+Bengali:wght@400;600;700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet">
 
-    <!-- Schema.org JSON-LD Structured Data for NewsMediaOrganization & WebSite -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@graph": [
         {
           "@type": "NewsMediaOrganization",
-          "@id": "https://sondeshexpress.com/#organization",
-          "name": "Sondesh Express (Bangladesh News Wire)",
-          "alternateName": "সন্দেশ এক্সপ্রেস বাংলাদেশ",
-          "url": "https://sondeshexpress.com",
+          "@id": "https://sondesh.web.app/#organization",
+          "name": "সন্দেশ এক্সপ্রেস",
+          "alternateName": "Sondesh Express",
+          "url": "https://sondesh.web.app/",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://sondeshexpress.com/Dorpon_logo.svg"
+            "url": "https://sondesh.web.app/icon-512.png",
+            "width": 512,
+            "height": 512
           },
-          "description": "Cut the noise. Bangladesh news and verified global briefings curated for your time with direct source links.",
-          "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Dhaka",
-            "addressCountry": "BD"
-          },
+          "description": "দেশের শীর্ষ সংবাদমাধ্যমের প্রতিবেদন থেকে এআইয়ের লেখা এক মিনিটের খবরের সারাংশ, মূল প্রতিবেদনের সঙ্গে মিলিয়ে যাচাই করা।",
+          "address": { "@type": "PostalAddress", "addressLocality": "Dhaka", "addressCountry": "BD" },
           "foundingDate": "2026-11-01"
         },
         {
           "@type": "WebSite",
-          "@id": "https://sondeshexpress.com/#website",
-          "url": "https://sondeshexpress.com",
-          "name": "Sondesh Express",
-          "publisher": {
-            "@id": "https://sondeshexpress.com/#organization"
-          },
-          "inLanguage": ["en", "bn"]
+          "@id": "https://sondesh.web.app/#website",
+          "url": "https://sondesh.web.app/",
+          "name": "সন্দেশ এক্সপ্রেস",
+          "alternateName": "Sondesh Express",
+          "inLanguage": ["bn", "en"],
+          "publisher": { "@id": "https://sondesh.web.app/#organization" },
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://sondesh.web.app/?tab=discover&q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
         }
       ]
     }
@@ -82,6 +84,7 @@
   </head>
   <body class="bg-background text-on-surface antialiased selection:bg-secondary-container selection:text-primary overflow-x-hidden min-h-screen">
     <div id="root"></div>
+    <!-- SEO-BODY: scripts/generate-seo.mjs inserts the story text here so it is readable without JavaScript -->
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>

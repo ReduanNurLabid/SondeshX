@@ -24,7 +24,7 @@ export const BroadsheetFooter: React.FC = () => {
               {isBn ? 'সন্দেশ এক্সপ্রেস' : 'SONDESH EXPRESS'}
             </span>
             <div className="mt-1 font-label-sm text-label-sm uppercase tracking-wider text-secondary font-bold">
-              {isBn ? 'বাংলাদেশ নিউজ নেটওয়ার্ক • স্বাধীন সংবাদ সংকলন' : 'BANGLADESH NEWS WIRE • INDEPENDENT DIGITAL GAZETTE'}
+              {isBn ? 'এআই-চালিত সংবাদ সারাংশ • বাংলাদেশ' : 'AI-POWERED NEWS SUMMARIES • BANGLADESH'}
             </div>
             <p className="font-serif text-sm text-on-surface-variant mt-2 max-w-md leading-relaxed">
               {isBn
@@ -39,14 +39,14 @@ export const BroadsheetFooter: React.FC = () => {
               <span>•</span>
               <span>{isBn ? 'মূল প্রতিবেদনের সঙ্গে স্বয়ংক্রিয় তথ্য যাচাই' : 'Automatic fact-check against source reports'}</span>
               <span>•</span>
-              <span className="font-semibold text-primary">{isBn ? 'কারেন্ট অ্যাফেয়ার্স: মানবীয় সম্পাদকীয় তত্ত্বাবধান' : 'Current Affairs: Human Editorial Management'}</span>
+              <span className="font-semibold text-primary">{isBn ? 'কারেন্ট অ্যাফেয়ার্স: সম্পাদকের তত্ত্বাবধানে' : 'Current Affairs: edited by our team'}</span>
             </div>
           </div>
 
           {/* Links Column 1: Editorial Directory */}
           <div className="md:col-span-4">
             <h4 className="font-serif text-base font-bold text-primary mb-3 uppercase tracking-wide">
-              {isBn ? 'খবর ও বিভাগসমূহ' : 'News & Sections'}
+              {isBn ? 'বিভাগ' : 'Sections'}
             </h4>
             <div className="grid grid-cols-2 gap-2 font-label-sm text-label-sm uppercase">
               <button 
@@ -77,7 +77,7 @@ export const BroadsheetFooter: React.FC = () => {
                 onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
                 className="text-left text-on-surface-variant hover:text-primary transition-colors cursor-pointer"
               >
-                {isBn ? 'সম্পাদকীয় প্যানেল' : 'Masthead Directory'}
+                {isBn ? 'আমাদের সম্পর্কে' : 'About us'}
               </button>
             </div>
           </div>
@@ -85,7 +85,7 @@ export const BroadsheetFooter: React.FC = () => {
           {/* Links Column 2: Legal & Protocol */}
           <div className="md:col-span-3">
             <h4 className="font-serif text-base font-bold text-primary mb-3 uppercase tracking-wide">
-              {isBn ? 'প্রেস ও আইনি প্রটোকল' : 'Press & Legal Protocols'}
+              {isBn ? 'নীতিমালা' : 'Policies'}
             </h4>
             <div className="flex flex-col space-y-2 font-label-sm text-label-sm uppercase">
               <button 
@@ -104,13 +104,13 @@ export const BroadsheetFooter: React.FC = () => {
                 onClick={() => setIsSettingsOpen(true)}
                 className="text-left text-on-surface-variant hover:text-primary transition-colors cursor-pointer"
               >
-                {isBn ? 'সম্পাদকীয় নীতিমালা ও উৎস যাচাই' : 'Editorial Ethics & Source Standards'}
+                {isBn ? 'সম্পাদকীয় নীতি' : 'Editorial standards'}
               </button>
               <button 
                 onClick={() => setIsSettingsOpen(true)}
                 className="text-left text-on-surface-variant hover:text-primary transition-colors cursor-pointer"
               >
-                {isBn ? 'সংশোধন ও ফ্যাক্ট-চেক প্রটোকল' : 'Corrections & Fact-Checking'}
+                {isBn ? 'সংশোধন ও তথ্য যাচাই' : 'Corrections & Fact-Checking'}
               </button>
             </div>
           </div>
@@ -123,7 +123,7 @@ export const BroadsheetFooter: React.FC = () => {
           </p>
           <div className="mt-3 sm:mt-0 flex items-center space-x-4 font-label-sm text-label-sm uppercase">
             <span className="text-outline-variant hidden sm:inline">
-              {isBn ? 'বাংলাদেশের কিউরেটেড ডিজিটাল সংবাদপত্র' : 'Bangladesh Curated Digital Broadsheet'}
+              {isBn ? 'এক মিনিটে দিনের খবর' : 'The day\'s news in a minute'}
             </span>
             <button
               onClick={scrollToTop}

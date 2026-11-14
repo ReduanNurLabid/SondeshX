@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { storyPath } from '../utils/seo';
 import { useApp } from '../context/AppContext';
 import { CapsuleStory } from '../types';
 import { formatRelativeTime, getLocalizedCategory, toBanglaDigits } from '../utils/bilingual';
@@ -81,9 +82,7 @@ export const BroadsheetFrontPage: React.FC = () => {
   const handleShare = async (story: CapsuleStory, e: React.MouseEvent) => {
     e.stopPropagation();
     const title = getTitle(story);
-    const storyUrl = new URL(window.location.origin + window.location.pathname);
-    storyUrl.searchParams.set('story', story.story_id);
-    const permalink = storyUrl.toString();
+    const permalink = window.location.origin + storyPath(story.story_id);
 
     try {
       if (navigator.clipboard && navigator.clipboard.writeText) {
@@ -103,7 +102,7 @@ export const BroadsheetFrontPage: React.FC = () => {
         // User dismissed
       }
     }
-    alert(isBn ? 'সংবাদের সরাসরি লিঙ্ক কপি করা হয়েছে!' : 'Article permalink copied to clipboard!');
+    alert(isBn ? 'খবরের লিংক কপি হয়েছে' : 'Link copied');
   };
 
   const handleSubscribe = (e: React.FormEvent) => {
@@ -202,7 +201,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                     <div className="rounded border border-secondary/40 bg-secondary-container/15 p-2.5 mb-2.5">
                       <div className="flex items-center gap-1.5 text-secondary font-label-sm text-label-sm font-bold uppercase mb-1.5">
                         <Sparkles className="w-3.5 h-3.5 text-secondary" />
-                        <span>{isBn ? 'মূল বিষয়' : 'Key Takeway'}</span>
+                        <span>{isBn ? 'মূল বিষয়' : 'Key Takeaways'}</span>
                       </div>
                       <ul className="space-y-1.5 font-serif text-xs leading-snug text-on-surface">
                         {bullets.map((b, bIdx) => (
@@ -218,7 +217,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                   {/* TIER 3: The Core Story & Sources */}
                   <div className="pt-1">
                     <div className="font-label-sm text-label-sm uppercase font-bold text-outline mb-1">
-                      {isBn ? 'মূল প্রতিবেদন' : 'The Core Story'}
+                      {isBn ? 'বিস্তারিত' : 'Details'}
                     </div>
                     <p 
                       onClick={() => openStory(story)}
@@ -303,7 +302,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                   />
                   <div className="p-2 bg-surface-container-high border-t border-primary/20 flex items-center justify-between font-label-sm text-label-sm">
                     <span className="italic text-on-surface-variant truncate mr-2">
-                      {heroStory.image_caption || (isBn ? 'আর্কাইভাল চিত্র: জাতীয় সংবাদের আলোকচিত্র।' : 'Archival Photo: Sondesh Express documentary report.')}
+                      {heroStory.image_caption || (isBn ? 'ছবি: সংশ্লিষ্ট সংবাদমাধ্যম / প্রতীকী' : 'Photo: source outlet / representative')}
                     </span>
                     <span className="font-semibold text-primary shrink-0 uppercase">
                       WIRE: SONDESH EXPRESS
@@ -343,7 +342,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                   {/* Read CTA */}
                   <div className="relative z-10 mt-5 flex items-center gap-2 font-label-sm text-label-sm text-[11px] uppercase tracking-widest text-outline group-hover:text-primary transition-colors">
                     <span className="w-8 h-px bg-current" />
-                    <span>{isBn ? 'পূর্ণ বিবরণ পড়ুন' : 'Read Full Brief'}</span>
+                    <span>{isBn ? 'বিস্তারিত পড়ুন' : 'Read more'}</span>
                     <ArrowRight className="w-3 h-3" />
                   </div>
                 </div>
@@ -354,7 +353,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                 <div className="rounded-lg border-2 border-secondary/50 bg-secondary-container/20 p-4 mb-4">
                   <div className="flex items-center gap-1.5 text-secondary font-label-md text-label-md font-bold uppercase tracking-wider mb-2.5">
                     <Sparkles className="w-4 h-4" />
-                    <span>{isBn ? 'মূল বিষয়' : 'Key Takeway'}</span>
+                    <span>{isBn ? 'মূল বিষয়' : 'Key Takeaways'}</span>
                   </div>
                   <ul className="space-y-2 font-serif text-sm sm:text-[15px] leading-relaxed text-on-surface">
                     {getBullets(heroStory).map((bullet, idx) => {
@@ -373,7 +372,7 @@ export const BroadsheetFrontPage: React.FC = () => {
               {/* TIER 3: The Core Story & Verified Source Chip */}
               <div className="p-3.5 bg-surface-container-low border border-outline-variant mb-4">
                 <div className="font-label-sm text-label-sm uppercase font-bold text-outline mb-1.5">
-                  {isBn ? 'মূল বিবরণ' : 'The Core Story'}
+                  {isBn ? 'বিস্তারিত' : 'Details'}
                 </div>
                 <p 
                   onClick={() => openStory(heroStory)}
@@ -593,7 +592,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                   <div className="rounded border border-secondary/40 bg-secondary-container/15 p-2.5 mb-2.5">
                     <div className="font-label-sm text-label-sm font-bold uppercase text-secondary mb-1 flex items-center gap-1">
                       <Sparkles className="w-3 h-3" />
-                      <span>{isBn ? 'মূল বিষয়' : 'Key Takeway'}</span>
+                      <span>{isBn ? 'মূল বিষয়' : 'Key Takeaways'}</span>
                     </div>
                     <ul className="space-y-1 font-serif text-xs text-on-surface">
                       {bullets.map((b, bIdx) => (
@@ -609,7 +608,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                 {/* Tier 3 */}
                 <div>
                   <div className="font-label-sm text-label-sm uppercase font-bold text-outline mb-0.5">
-                    {isBn ? 'মূল প্রতিবেদন' : 'The Core Story'}
+                    {isBn ? 'বিস্তারিত' : 'Details'}
                   </div>
                   <p 
                     onClick={() => openStory(story)}
@@ -622,7 +621,7 @@ export const BroadsheetFrontPage: React.FC = () => {
 
               <div className="mt-4 pt-2 border-t border-outline-variant flex items-center justify-between font-label-sm text-label-sm">
                 <span className="text-on-surface-variant font-semibold">
-                  {story.sources && story.sources[0]?.name ? story.sources[0].name : (isBn ? 'এআই সিন্থেসিস' : 'AI Synthesis')}
+                  {story.sources && story.sources[0]?.name ? story.sources[0].name : (isBn ? 'এআই সারাংশ' : 'AI summary')}
                 </span>
                 {primarySource ? (
                   <a 
@@ -636,7 +635,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                   </a>
                 ) : (
                   <button onClick={() => openStory(story)} className="font-bold text-secondary hover:underline">
-                    {isBn ? 'বিস্তারিত পড়ুন' : 'Read Full'} &rarr;
+                    {isBn ? 'বিস্তারিত পড়ুন' : 'Read more'} &rarr;
                   </button>
                 )}
               </div>

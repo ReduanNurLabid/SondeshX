@@ -1,0 +1,17 @@
+{
+  "name": "সন্দেশ এক্সপ্রেস",
+  "short_name": "সন্দেশ",
+  "description": "এক মিনিটে বাংলাদেশ ও বিশ্বের খবর, প্রতি ঘণ্টায় হালনাগাদ।",
+  "lang": "bn",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fcf9f1",
+  "theme_color": "#fcf9f1",
+  "categories": ["news"],
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

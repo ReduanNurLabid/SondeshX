@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { storyPath } from '../utils/seo';
 import { useApp } from '../context/AppContext';
 import { 
   getLocalizedCategory, 
@@ -80,9 +81,7 @@ export const StudyCanvasModal: React.FC = () => {
 
   const handleShare = async () => {
     if (!activeStory) return;
-    const storyUrl = new URL(window.location.origin + window.location.pathname);
-    storyUrl.searchParams.set('story', activeStory.story_id);
-    const permalink = storyUrl.toString();
+    const permalink = window.location.origin + storyPath(activeStory.story_id);
 
     try {
       if (navigator.clipboard && navigator.clipboard.writeText) {
@@ -164,7 +163,7 @@ export const StudyCanvasModal: React.FC = () => {
             <svg className="w-4 h-4" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
               <path d="M10 19l-7-7m0 0l7-7m-7 7h18" strokeLinecap="round" strokeLinejoin="round"></path>
             </svg>
-            <span>{isBn ? 'ব্রডশিটে ফিরে যান' : 'Return to Broadsheet'}</span>
+            <span>{isBn ? 'প্রথম পাতায় ফিরুন' : 'Back to front page'}</span>
           </button>
 
           {/* Center Classified Department Capsule */}
@@ -210,7 +209,7 @@ export const StudyCanvasModal: React.FC = () => {
                 {activeStory.sources.length > 0 ? activeStory.sources[0].name : (isBn ? 'সন্দেশ এক্সপ্রেস' : 'Sondesh Express')}
               </span>
               <span className="text-ink/30">•</span>
-              <span>{isBn ? 'বহু-উৎস যাচাইকৃত সংবাদ' : 'Multi-Source Synthesis'}</span>
+              <span>{isBn ? 'এআই সারাংশ • সূত্রের সঙ্গে মিলিয়ে দেখা' : 'AI summary • checked against sources'}</span>
             </div>
 
             {/* Big Broadsheet Display Headline */}
@@ -233,7 +232,7 @@ export const StudyCanvasModal: React.FC = () => {
               <div className="flex items-center gap-2 mb-3">
                 <span className="text-accent-emerald text-base font-bold">✦</span>
                 <h2 className="font-sans text-xs sm:text-sm font-bold uppercase tracking-wider text-accent-emerald">
-                  {isBn ? 'মূল বিষয়' : 'Key Takeway'}
+                  {isBn ? 'মূল বিষয়' : 'Key Takeaways'}
                 </h2>
               </div>
               <ul className="space-y-2.5 font-serif text-[15px] sm:text-base text-ink leading-relaxed">
@@ -253,7 +252,7 @@ export const StudyCanvasModal: React.FC = () => {
             {coreStory && (
               <div>
                 <h3 className="font-sans text-[11px] font-bold uppercase tracking-widest text-ink-faint mb-1.5">
-                  {isBn ? 'মূল প্রতিবেদন' : 'The Core Story'}
+                  {isBn ? 'বিস্তারিত' : 'Details'}
                 </h3>
                 <p className={`font-serif ${textBodySize} text-ink leading-relaxed text-justify`}>
                   {coreStory}
@@ -284,7 +283,7 @@ export const StudyCanvasModal: React.FC = () => {
           {/* BEGIN: VerifiedSourceCitations */}
           <section className="pt-2 border-t border-ink/20" data-purpose="verified-sources-dossiers">
             <h4 className="font-sans text-[11px] font-bold uppercase tracking-wider text-ink-faint mb-2.5">
-              {isBn ? 'যাচাইকৃত সূত্র ও উন্মুক্ত তথ্যসূত্র' : 'Verified Sources & Public Records'}
+              {isBn ? 'সূত্র' : 'Sources'}
             </h4>
             <div className="flex flex-wrap items-center gap-2">
               {activeStory.sources.map((src, idx) => (
@@ -309,7 +308,7 @@ export const StudyCanvasModal: React.FC = () => {
             <aside className="border border-ink bg-paper-box p-3.5 sm:p-4 text-xs font-sans text-ink space-y-2">
               <div className="flex items-center justify-between">
                 <span className="font-bold tracking-wider uppercase text-[10px] bg-ink text-paper px-2 py-0.5">
-                  {isBn ? 'যাচাইকৃত পরিসংখ্যান ও উপাত্ত' : 'Verified Statistics & Empirical Data'}
+                  {isBn ? 'গুরুত্বপূর্ণ পরিসংখ্যান' : 'Key figures'}
                 </span>
                 <span className="font-mono text-[10px] text-accent-emerald font-semibold uppercase">
                   Verified Data
@@ -387,7 +386,7 @@ export const StudyCanvasModal: React.FC = () => {
             <svg className="w-4 h-4" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
               <path d="M10 19l-7-7m0 0l7-7m-7 7h18" strokeLinecap="round" strokeLinejoin="round"></path>
             </svg>
-            <span>{isBn ? 'মূল পাতায় ফিরে যান' : 'Back to Front Page'}</span>
+            <span>{isBn ? 'প্রথম পাতায় ফিরুন' : 'Back to Front Page'}</span>
           </button>
         </footer>
         {/* END: EngagementFooterControls */}

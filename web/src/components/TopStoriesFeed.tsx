@@ -45,7 +45,7 @@ export const TopStoriesFeed: React.FC = () => {
             {CATEGORIES.map((cat) => {
               const isSelected = selectedCategory === cat;
               const label = cat === 'all' 
-                ? (isBn ? 'সব খবর' : 'All Briefings') 
+                ? (isBn ? 'সব খবর' : 'All news') 
                 : getLocalizedCategory(cat, isBn);
               return (
                 <button
@@ -91,17 +91,17 @@ export const TopStoriesFeed: React.FC = () => {
                 <div className="text-center py-20 px-4 border border-primary/20 bg-surface-container">
                   <Layers className="w-12 h-12 text-secondary/50 mx-auto mb-3" />
                   <h3 className="font-serif text-lg font-bold text-primary mb-1">
-                    {isBn ? 'এই বিভাগে কোনো সংবাদ পাওয়া যায়নি' : 'No Stories in this Category'}
+                    {isBn ? 'এই বিভাগে কোনো সংবাদ পাওয়া যায়নি' : 'No stories in this section yet'}
                   </h3>
                   <p className="font-serif text-sm text-on-surface-variant mb-4">
-                    {isBn ? 'অন্য কোনো বিভাগ বেছে নিন অথবা ফিড রিফ্রেশ করুন' : 'Try selecting another category or refresh the feed.'}
+                    {isBn ? 'অন্য বিভাগ বেছে নিন বা পাতাটি আবার লোড করুন' : 'Try selecting another category or refresh the feed.'}
                   </p>
                   <button
                     onClick={() => refreshFeeds()}
                     className="inline-flex items-center space-x-2 px-4 py-2 bg-primary text-background font-label-md text-label-md uppercase font-bold hover:bg-surface-container-highest hover:text-primary border border-primary transition-colors cursor-pointer"
                   >
                     <RefreshCw className="w-3.5 h-3.5" />
-                    <span>{isBn ? 'পুনরায় লোড করুন' : 'Refresh Feeds'}</span>
+                    <span>{isBn ? 'পুনরায় লোড করুন' : 'Refresh'}</span>
                   </button>
                 </div>
               ) : (
