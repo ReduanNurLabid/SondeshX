@@ -140,20 +140,27 @@ def compute_base_importance(
 
     return round(min(10.0, max(1.0, score)), 2)
 
+RANK_HALF_LIFE_HOURS = 10.0
+RANK_ACTIVE_WINDOW_HOURS = 30.0
+
+
 def compute_time_decayed_score(
     base_importance: float,
     published_at_iso: Optional[str],
     now_dt: Optional[datetime] = None,
-    gravity: float = 1.3,
-    max_active_window_hours: float = 30.0
+    half_life_hours: float = RANK_HALF_LIFE_HOURS,
+    max_active_window_hours: float = RANK_ACTIVE_WINDOW_HOURS
 ) -> float:
     """
-    Applies logarithmic-power time decay to balance importance against freshness:
-    RankScore = BaseImportance / (AgeInHours + 2.0) ** gravity
+    Front-page rank: the editorial score loses half its weight every 10 hours.
 
-    Enforces a strict 30-hour active window. Beyond 30 hours, an additional
-    exponential decay penalty is applied so yesterday's stories naturally
-    relinquish the front page hero slot.
+        rank = score * 0.5 ** (age_hours / 10)
+
+    So a 9-point story stays above a brand-new 5-point story for about 8 hours,
+    while a fresher story of equal weight always leads. Past the 30-hour window
+    the rank collapses so yesterday's news leaves the front page.
+
+    web/src/services/api.ts (calculateDynamicRank) implements the same formula.
     """
     if not now_dt:
         now_dt = datetime.now(timezone.utc)
@@ -161,22 +168,14 @@ def compute_time_decayed_score(
     age_hours = 0.0
     if published_at_iso:
         try:
-            clean_iso = published_at_iso.replace("Z", "+00:00")
-            pub_dt = datetime.fromisoformat(clean_iso)
+            pub_dt = datetime.fromisoformat(published_at_iso.replace("Z", "+00:00"))
             if pub_dt.tzinfo is None:
                 pub_dt = pub_dt.replace(tzinfo=timezone.utc)
-            delta = (now_dt - pub_dt).total_seconds() / 3600.0
-            age_hours = max(0.0, delta)
+            age_hours = max(0.0, (now_dt - pub_dt).total_seconds() / 3600.0)
         except Exception:
-            age_hours = 0.5  # reasonable default
+            age_hours = 0.5
 
-    # Standard gravity decay denominator
-    decay = math.pow(age_hours + 2.0, gravity)
-
-    # Beyond 30 hours, apply an aggressive cutoff penalty
+    rank = base_importance * math.pow(0.5, age_hours / half_life_hours)
     if age_hours > max_active_window_hours:
-        overstay = age_hours - max_active_window_hours
-        decay *= math.pow(1.0 + overstay, 2.0)
-
-    rank_score = base_importance / decay
-    return round(rank_score, 4)
+        rank /= math.pow(1.0 + (age_hours - max_active_window_hours), 2.0)
+    return round(rank, 4)

@@ -237,6 +237,7 @@ def run_hourly_buzz(limit: int = 8):
         item.pop("bcs_pro", None)  # Lightweight payload for free buzz
         if from_desk:
             item["importance_score"] = cluster.importance_score
+            item["desk_importance"] = cluster.desk["importance"]
             item["rank_score"] = cluster.rank_score
             item["region"] = cluster.region
             item["outlet_count"] = cluster.desk["outlets"]

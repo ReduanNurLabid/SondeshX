@@ -180,7 +180,7 @@ export const Header: React.FC = () => {
             </span>
             <span>{isBn ? 'ফরম্যাট: ৩-স্তরীয় ব্রিফিং' : 'FORMAT: 3-TIER INTELLIGENCE'}</span>
             <span>{isBn ? 'সংস্করণ: ডিজিটাল ব্রডশিট' : 'EDITION: DIGITAL BROADSHEET'}</span>
-            <span>{isBn ? 'যাচাই: বহু-উৎস সংবাদ বিশ্লেষণ' : 'SYNTHESIS: VERIFIED MULTI-SOURCE'}</span>
+            <span>{isBn ? 'যাচাই: মূল প্রতিবেদনের সঙ্গে মিলিয়ে' : 'CHECKED AGAINST SOURCE REPORTS'}</span>
           </div>
         </div>
 

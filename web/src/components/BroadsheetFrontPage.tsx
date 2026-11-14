@@ -228,7 +228,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                     </p>
 
                     <div className="flex items-center justify-between text-label-sm font-label-sm pt-1.5 border-t border-dashed border-outline-variant">
-                      <span className="text-outline uppercase">{isBn ? 'যাচাইকৃত সূত্র:' : 'Verified Sources:'}</span>
+                      <span className="text-outline uppercase">{isBn ? 'সূত্র:' : 'Sources:'}</span>
                       {primarySource ? (
                         <a 
                           href={primarySource.url} 
@@ -384,7 +384,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                 <div className="pt-2 border-t border-outline-variant flex flex-wrap items-center justify-between gap-2">
                   <div className="flex items-center gap-2">
                     <span className="font-label-sm text-label-sm uppercase text-outline">
-                      {isBn ? 'যাচাইকৃত সূত্র:' : 'Verified Sources:'}
+                      {isBn ? 'সূত্র:' : 'Sources:'}
                     </span>
                     {heroStory.sources && heroStory.sources.map((src, sIdx) => (
                       <a 

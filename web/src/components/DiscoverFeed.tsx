@@ -5,51 +5,11 @@ import { BroadsheetFooter } from './BroadsheetFooter';
 import { Hash, Globe, Filter, X, Clock, Layers, Search, ArrowUpDown } from 'lucide-react';
 import { toBanglaDigits } from '../utils/bilingual';
 import { CapsuleStory } from '../types';
+import { calculateDynamicRank } from '../services/api';
 
+// Same rank the front page uses: the pipeline's editorial score with time decay.
 function computeStoryRelevanceScore(story: CapsuleStory): number {
-  let baseScore = story.importance_score ?? 2.0;
-
-  const title = ((story.daily_buzz.title_bn || '') + ' ' + (story.daily_buzz.title_en || '')).toLowerCase();
-  const summary = ((story.daily_buzz.summary_bn || '') + ' ' + (story.daily_buzz.summary_en || '')).toLowerCase();
-  const text = `${title} ${summary}`;
-
-  // 1. Constitutional, Supreme Court, Cabinet, National Governance (+3.5)
-  if (/constitution|সংবিধান|supreme court|সুপ্রিম কোর্ট|high court|হাইকোর্ট|chief adviser|প্রধান উপদেষ্টা|prime minister|প্রধানমন্ত্রী|cabinet|মন্ত্রিসভা|election commission|নির্বাচন কমিশন|ordinance|অধ্যাদেশ/i.test(text)) {
-    baseScore += 3.5;
-  }
-
-  // 2. Macroeconomics, Central Bank, Inflation, Budget (+3.0)
-  if (/bangladesh bank|বাংলাদেশ ব্যাংক|repo rate|রেপো রেট|inflation|মুদ্রাস্ফীতি|মূল্যস্ফীতি|forex reserve|রিজার্ভ|budget|বাজেট|nbr|রাজস্ব|imf|world bank/i.test(text)) {
-    baseScore += 3.0;
-  }
-
-  // 3. High-impact national politics, rule of law (+2.0)
-  if (/tarique|তারেক|remittance|প্রবাসী|rohingya|রোহিঙ্গা|arrest|আটক|গ্রেপ্তার/i.test(text)) {
-    baseScore += 2.0;
-  }
-
-  // 4. BCS Pro / Analytical Dossier presence (+2.0)
-  if (story.is_bcs_pro_selected || story.bcs_pro) {
-    baseScore += 2.0;
-  }
-
-  // 5. Multi-source corroboration factor
-  const srcCount = story.sources?.length || 1;
-  baseScore *= (1.0 + Math.min(0.5, (srcCount - 1) * 0.25));
-
-  // 6. Time decay: RankScore = BaseImportance / (AgeInHours + 2.0)^1.3
-  if (!story.published_at) return baseScore;
-  const pubTime = new Date(story.published_at).getTime();
-  if (isNaN(pubTime)) return baseScore;
-
-  const now = Date.now();
-  const ageHours = Math.max(0, (now - pubTime) / (3600 * 1000));
-  let decay = Math.pow(ageHours + 2.0, 1.3);
-  if (ageHours > 30) {
-    decay *= Math.pow(1.0 + (ageHours - 30), 2.0);
-  }
-
-  return baseScore / decay;
+  return calculateDynamicRank(story.importance_score ?? 2.0, story.published_at, 30);
 }
 
 export const DiscoverFeed: React.FC = () => {
@@ -192,8 +152,8 @@ export const DiscoverFeed: React.FC = () => {
             </h1>
             <p className="font-serif text-sm sm:text-base text-on-surface-variant max-w-2xl mt-1 leading-relaxed">
               {isBn 
-                ? 'প্রকাশিত সকল সংবাদ, তথ্যসমৃদ্ধ প্রতিবেদন ও যাচাইকৃত সংবাদের উন্মুক্ত সংগ্রহশালা।' 
-                : 'Browse all published news stories, informative reporting, and verified dispatches.'}
+                ? 'প্রকাশিত সব খবরের সংগ্রহ। বিষয়, সূত্র বা সময় ধরে খুঁজুন।' 
+                : 'Every story we have published. Search by topic, source or date.'}
             </p>
           </div>
         </div>

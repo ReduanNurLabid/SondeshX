@@ -14,7 +14,7 @@ export function toBanglaDigits(input: any): string {
 export function stripDayLeakage(text: string): string {
   if (!text) return '';
   const p1 = /(?:গতকাল\s+)?(?:গত\s+)?(?:সোমবার|মঙ্গলবার|বুধবার|বৃহস্পতিবার|শুক্রবার|শনিবার|রবিবার)(?:\s+(?:সকালে|দুপুরে|বিকেলে|সন্ধ্যায়|রাতে))?\s*[,।]?\s*/g;
-  const p2 = /(?:গতকাল|গত পরশু|আজকে|আজ)\s*[,।]?\s*/g;
+  const p2 = /(?<![ঀ-৿])(?:গতকাল|গত পরশু|আজকে|আজ)(?![ঀ-৿])\s*[,।]?\s*/g;
   const p3 = /\b(?:on\s+)?(?:last\s+)?(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)(?:\s+(?:morning|afternoon|evening|night))?\s*,\s*/gi;
   const p4 = /\b(?:yesterday|earlier today)\s*,\s*/gi;
   return text
@@ -209,7 +209,7 @@ export const translations = {
     empty_saved_desc: 'Bookmark stories from your feed or dossiers to read them anytime offline.',
     search_placeholder: 'Search keywords, policy topics, countries...',
     filter_all: 'All Topics',
-    sources: 'Verified Sources',
+    sources: 'Sources',
     copy_link: 'Copy Link',
     copied: 'Copied to clipboard!',
     share: 'Share',
@@ -276,7 +276,7 @@ export const translations = {
     empty_saved_desc: 'ফিড বা বিশ্লেষণ থেকে খবর সংরক্ষণ করে যেকোনো সময় অফলাইনে পড়ুন।',
     search_placeholder: 'কীওয়ার্ড, নীতি, বিষয় বা দেশ খুঁজুন...',
     filter_all: 'সকল বিষয়',
-    sources: 'যাচাইকৃত উৎসসমূহ',
+    sources: 'সূত্র',
     copy_link: 'লিংক কপি করুন',
     copied: 'ক্লিপবোর্ডে কপি হয়েছে!',
     share: 'শেয়ার করুন',

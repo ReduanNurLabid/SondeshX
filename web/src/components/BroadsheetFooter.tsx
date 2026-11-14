@@ -28,16 +28,16 @@ export const BroadsheetFooter: React.FC = () => {
             </div>
             <p className="font-serif text-sm text-on-surface-variant mt-2 max-w-md leading-relaxed">
               {isBn
-                ? 'প্রতিষ্ঠিত ১ নভেম্বর ২০২৬। আপনার সময়ের মর্যাদা দিয়ে শীর্ষ সংবাদমাধ্যম থেকে যাচাইকৃত ও কিউরেট করা প্রয়োজনীয় সংবাদের সারসংক্ষেপ।'
+                ? 'প্রতিষ্ঠিত ১ নভেম্বর ২০২৬। সন্দেশ এক্সপ্রেস প্রতি ঘণ্টায় দেশের শীর্ষ সংবাদমাধ্যমগুলো পড়ে এআইয়ের সাহায্যে সংক্ষিপ্ত সারাংশ লেখে। প্রতিটি সারাংশ মূল প্রতিবেদনের সঙ্গে মিলিয়ে যাচাই করা হয় এবং মূল প্রতিবেদনের লিংক দেওয়া থাকে।'
                 : "Established 1 November 2026. Sondesh Express reads Bangladesh's leading news outlets every hour and writes short summaries with AI. Each summary is checked against the original reports and links to them."}
             </p>
             <div className="mt-4 font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider flex items-center gap-2 flex-wrap">
               <span className="flex items-center gap-1 font-semibold text-secondary">
                 <span className="w-1.5 h-1.5 rounded-full bg-secondary inline-block animate-pulse"></span>
-                {isBn ? 'এআই চালিত সার্বক্ষণিক সংবাদ নিরীক্ষণ' : 'AI-Powered Continuous News Synthesis'}
+                {isBn ? 'এআইয়ের লেখা সারাংশ, প্রতি ঘণ্টায় হালনাগাদ' : 'AI-written summaries, updated every hour'}
               </span>
               <span>•</span>
-              <span>{isBn ? 'স্বয়ংক্রিয় ফ্যাক্ট-চেক ও সোর্স যাচাই' : 'Automated Verification & Analysis'}</span>
+              <span>{isBn ? 'মূল প্রতিবেদনের সঙ্গে স্বয়ংক্রিয় তথ্য যাচাই' : 'Automatic fact-check against source reports'}</span>
               <span>•</span>
               <span className="font-semibold text-primary">{isBn ? 'কারেন্ট অ্যাফেয়ার্স: মানবীয় সম্পাদকীয় তত্ত্বাবধান' : 'Current Affairs: Human Editorial Management'}</span>
             </div>
@@ -71,7 +71,7 @@ export const BroadsheetFooter: React.FC = () => {
                 onClick={() => { setActiveTab('discover'); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
                 className="text-left text-on-surface-variant hover:text-primary transition-colors cursor-pointer"
               >
-                {isBn ? 'যাচাইকৃত সূত্র' : 'Verified Sources'}
+                {isBn ? 'সংবাদের সূত্র' : 'Our Sources'}
               </button>
               <button 
                 onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}

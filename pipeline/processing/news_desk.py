@@ -31,10 +31,13 @@ from pipeline.processing.deduplicator import (
     extract_canonical_entities,
 )
 from pipeline.processing.llm import generate_json
+from pipeline.processing.scoring import compute_time_decayed_score
 
-OUTLET_BONUS_PER_EXTRA = 0.75
-OUTLET_BONUS_CAP = 4
-TRENDING_BONUS = 1.5
+# Editorial score (1-10) = the desk's importance judgement plus measurable signals.
+BD_OUTLET_BONUS_PER_EXTRA = 0.5   # each additional Bangladeshi outlet carrying the event
+BD_OUTLET_BONUS_CAP = 3           # ...counted up to three extra outlets
+TRENDING_BONUS = 1.0              # in Google News Bangladesh top stories
+NATIONAL_BONUS = 0.5              # happens in, or directly involves, Bangladesh
 
 
 def outlet_key(article: RawArticle) -> str:
@@ -101,6 +104,7 @@ TASKS
    5-6: notable national news; significant world, business or technology news.
    3-4: routine statements, ceremonial events, minor foreign news.
    1-2: trivia.
+   An event outside Bangladesh scores at most 8 unless it directly affects Bangladesh or Bangladeshis (migrant workers, trade, fuel and food prices, the region's security).
 4. region: "national" if the event happens in Bangladesh or directly involves Bangladesh, otherwise "international".
 5. category: one of {categories}.
 6. trending: true if the event matches a TRENDING headline.
@@ -181,14 +185,20 @@ def build_desk_events(
         event.region = "international" if raw.get("region") == "international" else "national"
 
         outlets = len({outlet_key(a) for a in members})
+        # Only Bangladeshi outlets count as corroboration: several foreign feeds
+        # repeating a foreign story says nothing about its weight for readers here.
+        bd_outlets = len({outlet_key(a) for a in members if (a.region or "national") == "national"})
         trending_hit = raw.get("trending") is True
-        event.importance_score = importance
-        event.rank_score = (
+        score = (
             importance
-            + OUTLET_BONUS_PER_EXTRA * min(outlets - 1, OUTLET_BONUS_CAP)
+            + BD_OUTLET_BONUS_PER_EXTRA * min(max(bd_outlets - 1, 0), BD_OUTLET_BONUS_CAP)
             + (TRENDING_BONUS if trending_hit else 0.0)
+            + (NATIONAL_BONUS if event.region == "national" else 0.0)
         )
-        event.desk = {"importance": importance, "outlets": outlets, "trending": trending_hit}
+        # importance_score is the editorial score the site ranks and places by.
+        event.importance_score = round(min(10.0, score), 2)
+        event.rank_score = compute_time_decayed_score(event.importance_score, members[0].published_at)
+        event.desk = {"importance": importance, "bd_outlets": bd_outlets, "outlets": outlets, "trending": trending_hit}
 
         match = raw.get("published")
         event.published_match = (

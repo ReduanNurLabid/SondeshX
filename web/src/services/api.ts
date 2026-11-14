@@ -67,30 +67,29 @@ async function fetchFirestoreDocRest(collectionName: string, docId: string): Pro
 function cleanEditorialMarkdown(text?: string | null): string {
   if (!text) return '';
   return text
-    .replace(/^[\s*_\-•\d.)]+\s*/, '')
+    .replace(/^\s*(?:[*_\-•]+|\d{1,2}[.)])\s*/, '')
     .replace(/\s*[*_]+\s*$/, '')
     .replace(/\*\*([^*]+)\*\*/g, '$1')
     .replace(/\*([^*]+)\*/g, '$1')
     .trim();
 }
 
+// Front-page rank: the editorial score loses half its weight every 10 hours, and
+// collapses after the 30-hour window. Same formula as compute_time_decayed_score
+// in pipeline/processing/scoring.py.
+const RANK_HALF_LIFE_HOURS = 10;
+
 export function calculateDynamicRank(importance: number, publishedAt?: string | null, maxHours: number = 30): number {
   if (!publishedAt) return Number((importance / 2.0).toFixed(4));
   const pubTime = new Date(publishedAt).getTime();
   if (isNaN(pubTime)) return Number((importance / 2.0).toFixed(4));
 
-  const now = Date.now();
-  const ageHours = Math.max(0, (now - pubTime) / (3600 * 1000));
-
-  let decay = Math.pow(ageHours + 2.0, 1.3);
-
-  // If older than 30 hours, apply an aggressive cutoff penalty
+  const ageHours = Math.max(0, (Date.now() - pubTime) / (3600 * 1000));
+  let rank = importance * Math.pow(0.5, ageHours / RANK_HALF_LIFE_HOURS);
   if (ageHours > maxHours) {
-    const overstay = ageHours - maxHours;
-    decay *= Math.pow(1.0 + overstay, 2.0);
+    rank /= Math.pow(1.0 + (ageHours - maxHours), 2.0);
   }
-
-  return Number((importance / decay).toFixed(4));
+  return Number(rank.toFixed(4));
 }
 
 function normalizeStory(data: any, fallbackDate?: string): CapsuleStory {

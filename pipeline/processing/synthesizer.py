@@ -39,7 +39,8 @@ def strip_relative_time_leakage(text: str) -> str:
         return ""
     pats = [
         r"(?:গতকাল\s+)?(?:গত\s+)?(?:সোমবার|মঙ্গলবার|বুধবার|বৃহস্পতিবার|শুক্রবার|শনিবার|রবিবার)(?:\s+(?:সকালে|দুপুরে|বিকেলে|সন্ধ্যায়|রাতে))?\s*[,।]?\s*",
-        r"(?:গতকাল|গত পরশু|আজকে|আজকের দিনে|আজ সকালে|আজ)\s*[,।]?\s*",
+        # Whole words only: without the boundaries "আজ" also ate the start of names like আজাদ.
+        r"(?<![ঀ-৿])(?:গতকাল|গত পরশু|আজকে|আজকের দিনে|আজ সকালে|আজ)(?![ঀ-৿])\s*[,।]?\s*",
         r"\b(?:on\s+)?(?:last\s+)?(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)(?:\s+(?:morning|afternoon|evening|night))?\s*,\s*",
         r"\b(?:yesterday|earlier today)\s*,\s*",
     ]
@@ -58,14 +59,13 @@ def clean_editorial_text(text: Optional[str]) -> str:
     if not text:
         return ""
     s = strip_relative_time_leakage(str(text)).strip()
-    # Strip markdown bold/italic asterisks & underscores from start and end
+    # Strip paired markdown bold markers first, then any stray ones at the ends
+    s = re.sub(r'[\*\_]{2,3}(.+?)[\*\_]{2,3}', r'\1', s)
     s = re.sub(r'^\s*[\*\_]{1,3}\s*', '', s)
     s = re.sub(r'\s*[\*\_]{1,3}\s*$', '', s)
-    # Strip inline double/triple markdown bold markers
-    s = re.sub(r'[\*\_]{2,3}(.+?)[\*\_]{2,3}', r'\1', s)
-    # Strip leading bullet/list badges
-    s = re.sub(r'^[•\-\*\d\.\)\:\s]+', '', s)
-    s = re.sub(r'^[•\-\*০-৯\.\)\:\s]+', '', s)
+    # Strip a leading list badge: a bullet symbol, or "1." / "১)".
+    # A bare leading number ("১৬ ডিসেম্বর", "25 crore") is content and must survive.
+    s = re.sub(r'^\s*(?:[•\-\*]+|[\d০-৯]{1,2}[\.\)])\s*', '', s)
     return s.strip()
 
 def validate_and_filter_tags(tags: List[str], text: str, primary_category: str) -> List[str]:

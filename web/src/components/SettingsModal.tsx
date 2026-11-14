@@ -168,7 +168,7 @@ export const SettingsModal: React.FC = () => {
               <span>Sondesh Express Autonomous Intelligence</span>
             </div>
             <p className="font-serif text-xs text-on-surface-variant leading-relaxed">
-              Autonomous verified multi-source news synthesis. Cross-indexed against official registers, constitutional articles, and institutional public records.
+              Summaries are written by AI from reports by Bangladesh's leading news outlets, then automatically checked against those reports. Every story links to its sources.
             </p>
             <div className="flex items-center space-x-2 font-sans text-[10px] uppercase text-outline pt-1">
               <span>Established 1 November 2026</span>
