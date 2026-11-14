@@ -1,6 +1,7 @@
 import { initializeApp, getApps, getApp } from 'firebase/app';
 import { getFirestore } from 'firebase/firestore';
 import { getAuth } from 'firebase/auth';
+import { getAnalytics, isSupported } from 'firebase/analytics';
 
 const firebaseConfig = {
   apiKey: 'AIzaSyAVdUJ92uxnBDi4ldvrI-B6DZ6qbykTxGI',
@@ -16,5 +17,8 @@ const firebaseConfig = {
 const app = getApps().length > 0 ? getApp() : initializeApp(firebaseConfig);
 const db = getFirestore(app);
 const auth = getAuth(app);
+
+// Google Analytics (GA4): page views and visits from Facebook links (utm_source=facebook).
+isSupported().then((ok) => { if (ok && typeof window !== 'undefined') getAnalytics(app); }).catch(() => undefined);
 
 export { app, db, auth };

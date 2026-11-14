@@ -2,10 +2,11 @@ name: Facebook Reels
 
 on:
   schedule:
-    # 08:30, 14:30 and 20:30 Bangladesh time (UTC+6)
-    - cron: '30 2 * * *'
-    - cron: '30 8 * * *'
-    - cron: '30 14 * * *'
+    # Every 2 hours from 07:40 to 23:40 Bangladesh time (UTC+6): up to 9 Reels a day.
+    # A slot is skipped when no story is strong enough (see pipeline/social/post_reel.py).
+    - cron: '40 1-17/2 * * *'
+    # Daily performance check for the last week's Reels, 05:10 Bangladesh time.
+    - cron: '10 23 * * *'
   workflow_dispatch:
     inputs:
       dry_run:
@@ -60,6 +61,7 @@ jobs:
           cd web && pnpm install --frozen-lockfile
 
       - name: Build And Serve The Reel Renderer
+        if: github.event.schedule != '10 23 * * *'
         run: |
           cd web
           npx tsc --noEmit
@@ -67,7 +69,16 @@ jobs:
           nohup npx vite preview --port 4173 --strictPort > /tmp/preview.log 2>&1 &
           for i in $(seq 1 30); do curl -sf http://localhost:4173/__reel > /dev/null && break; sleep 1; done
 
+      - name: Read Reel Performance From Facebook
+        if: github.event.schedule == '10 23 * * *'
+        env:
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
+          PYTHONPATH: .
+        run: python -m pipeline.social.reel_insights
+
       - name: Render And Post Reel
+        if: github.event.schedule != '10 23 * * *'
         env:
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
@@ -84,7 +95,7 @@ jobs:
           python -m pipeline.social.post_reel $ARGS
 
       - name: Keep The Rendered Video
-        if: always()
+        if: always() && github.event.schedule != '10 23 * * *'
         uses: actions/upload-artifact@v4
         with:
           name: reel-${{ github.run_id }}

@@ -105,7 +105,7 @@ def push_hourly_buzz_to_firestore(stories: List[Dict[str, Any]]) -> int:
         # importance_score, so it must be stored; absent keys are left out so a
         # re-push never blanks a value already in Firestore.
         for key in ("importance_score", "rank_score", "region", "desk_importance",
-                    "outlet_count", "trending", "fact_check"):
+                    "outlet_count", "trending", "fact_check", "social_appeal"):
             if story.get(key) is not None:
                 payload[key] = story[key]
         batch.set(doc_ref, payload, merge=True)

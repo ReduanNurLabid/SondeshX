@@ -53,6 +53,7 @@ import {
 } from 'lucide-react';
 import { SocialCardStudio, StudioTab } from './SocialCardStudio';
 import { GeminiKeysPanel } from './GeminiKeysPanel';
+import { ReelsPerformancePanel } from './ReelsPerformancePanel';
 
 const AUTHORIZED_EMAILS = ['nurreduan.pp@gmail.com', 'reduannurlabid@gmail.com'];
 
@@ -1006,6 +1007,9 @@ export const EditorialDashboard: React.FC = () => {
 
       {/* Admin: backup Gemini API keys used by the news pipeline */}
       <GeminiKeysPanel />
+
+      {/* Admin: automatic Facebook Reels and their performance */}
+      <ReelsPerformancePanel />
 
       {/* 2. SUB-COLLECTION TABS & SEARCH */}
       <div className="border-b border-primary/20 bg-surface-container-low px-4 sm:px-6 lg:px-8 py-2.5">

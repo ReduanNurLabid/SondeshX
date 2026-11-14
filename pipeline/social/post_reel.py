@@ -37,8 +37,9 @@ from pipeline.storage.firebase_service import get_firestore_client
 
 GRAPH = "https://graph.facebook.com/v23.0"
 SITE_URL = "https://sondesh.web.app"
-LOOKBACK_HOURS = 12
-MIN_SCORE = 7.0
+LOOKBACK_HOURS = 6
+MIN_IMPORTANCE = 6.5
+MIN_APPEAL = 6.0
 VOICE = "bn-BD-NabanitaNeural"
 GAP_SECONDS = 0.45
 LEAD_IN = 0.4
@@ -65,6 +66,21 @@ def bn_date(dt: datetime) -> str:
 
 
 # ---------------------------------------------------------------- story choice
+def reel_score(story: dict) -> float:
+    """How good a Reel this story would make: half editorial importance, half Facebook
+    appeal (judged by the news desk), plus a bonus for a real publisher photo, which
+    keeps people watching. Stories from before the appeal score existed count importance twice."""
+    importance = float(story.get("importance_score") or 0)
+    appeal = float(story.get("social_appeal") or importance)
+    return 0.5 * importance + 0.5 * appeal + (0.5 if reel_image(story) else 0.0)
+
+
+def recent_posts(db, n: int = 3) -> List[dict]:
+    docs = (db.collection("social_posts")
+            .order_by("posted_at", direction=firestore.Query.DESCENDING).limit(n).stream())
+    return [d.to_dict() for d in docs]
+
+
 def pick_story(db, story_id: Optional[str] = None) -> Optional[dict]:
     if story_id:
         snap = db.collection("daily_buzz").document(story_id).get()
@@ -79,7 +95,7 @@ def pick_story(db, story_id: Optional[str] = None) -> Optional[dict]:
     docs = (
         db.collection("daily_buzz")
         .order_by("published_at", direction=firestore.Query.DESCENDING)
-        .limit(80)
+        .limit(120)
         .stream()
     )
     candidates = []
@@ -94,12 +110,31 @@ def pick_story(db, story_id: Optional[str] = None) -> Optional[dict]:
             continue
         if not buzz.get("title_bn") or len(buzz.get("bullets_bn") or []) < 2:
             continue
-        if float(s.get("importance_score") or 0) < MIN_SCORE:
+        if float(s.get("importance_score") or 0) < MIN_IMPORTANCE:
+            continue
+        if s.get("social_appeal") is not None and float(s["social_appeal"]) < MIN_APPEAL:
             continue
         s["story_id"] = sid
         candidates.append(s)
-    candidates.sort(key=lambda s: float(s.get("importance_score") or 0), reverse=True)
-    return candidates[0] if candidates else None
+    if not candidates:
+        return None
+
+    # Variety: not the same section as the last Reel, and at most one foreign story
+    # in any three Reels in a row. Relaxed if nothing else is available.
+    recent = recent_posts(db)
+    last_category = recent[0].get("category") if recent else None
+    foreign_recently = any(p.get("region") == "international" for p in recent[:2])
+
+    def allowed(s: dict) -> bool:
+        if last_category and s.get("primary_category") == last_category:
+            return False
+        if foreign_recently and s.get("region") == "international":
+            return False
+        return True
+
+    pool = [s for s in candidates if allowed(s)] or candidates
+    pool.sort(key=reel_score, reverse=True)
+    return pool[0]
 
 
 def source_names(story: dict) -> List[str]:
@@ -244,8 +279,10 @@ def build_caption(story: dict) -> str:
     return "\n\n".join(parts)
 
 
-def story_link(story: dict) -> str:
-    return f"{SITE_URL}/story/{story['story_id']}/"
+def story_link(story: dict, tagged: bool = False) -> str:
+    url = f"{SITE_URL}/story/{story['story_id']}/"
+    # Tagged so Google Analytics can count visits that came from each Reel.
+    return url + "?utm_source=facebook&utm_medium=reel&utm_campaign=auto_reel" if tagged else url
 
 
 def upload_reel(video_path: str, caption: str) -> str:
@@ -273,7 +310,7 @@ def comment_link(video_id: str, story: dict) -> Optional[str]:
     """First comment with the story link. Needs pages_manage_engagement. The video may
     still be processing right after upload, so this retries for about two minutes."""
     token = os.environ["FB_PAGE_TOKEN"]
-    message = f"📰 পুরো খবর পড়ুন সন্দেশ এক্সপ্রেসে:\n{story_link(story)}"
+    message = f"📰 পুরো খবর পড়ুন সন্দেশ এক্সপ্রেসে:\n{story_link(story, tagged=True)}"
     last = ""
     for _ in range(8):
         r = requests.post(f"{GRAPH}/{video_id}/comments",
@@ -307,9 +344,9 @@ def main():
     db = get_firestore_client()
     story = pick_story(db, args.story_id)
     if not story:
-        print("No eligible story (needs fact-check passed, score >= 7, last 12 hours, not yet posted).")
+        print(f"No eligible story this slot (fact-checked, importance >= {MIN_IMPORTANCE}, appeal >= {MIN_APPEAL}, last {LOOKBACK_HOURS} hours, not yet posted).")
         return
-    print(f"Story: {story['daily_buzz']['title_bn']} (score {story.get('importance_score')})")
+    print(f"Story: {story['daily_buzz']['title_bn']} (importance {story.get('importance_score')}, appeal {story.get('social_appeal')}, reel score {reel_score(story):.2f})")
 
     with tempfile.TemporaryDirectory() as workdir:
         voice, segments, duration = build_voiceover(story, workdir)
@@ -338,6 +375,12 @@ def main():
         "comment_id": comment_id,
         "posted_at": datetime.now(timezone.utc).isoformat(),
         "headline": story["daily_buzz"]["title_bn"],
+        "category": story.get("primary_category"),
+        "region": story.get("region"),
+        "importance_score": story.get("importance_score"),
+        "social_appeal": story.get("social_appeal"),
+        "reel_score": round(reel_score(story), 2),
+        "story_published_at": story.get("published_at"),
     })
     if comment_id:
         print(f"Link comment added: {comment_id}")

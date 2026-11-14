@@ -56,5 +56,11 @@ service cloud.firestore {
     match /admin_config/{configId} {
       allow read, write: if isEditor();
     }
+
+    // Facebook Reels log and performance, written by the posting job (Admin SDK).
+    match /social_posts/{postId} {
+      allow read: if isEditor();
+      allow write: if false;
+    }
   }
 }

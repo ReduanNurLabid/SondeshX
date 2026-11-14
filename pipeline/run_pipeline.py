@@ -242,6 +242,7 @@ def run_hourly_buzz(limit: int = 8):
             item["region"] = cluster.region
             item["outlet_count"] = cluster.desk["outlets"]
             item["trending"] = cluster.desk["trending"]
+            item["social_appeal"] = cluster.desk["appeal"]
         buzz_stories.append(item)
         pending_checks.append((story, cluster.articles))
         historical_stories.append(item)  # Add to memory for remaining clusters

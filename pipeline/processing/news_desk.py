@@ -109,9 +109,13 @@ TASKS
 5. category: one of {categories}.
 6. trending: true if the event matches a TRENDING headline.
 7. published: the P-number (integer) of a PUBLISHED story covering the same event with nothing substantially new, otherwise null.
+8. appeal: 1 to 10, how likely an ordinary Bangladeshi scrolling Facebook is to stop, watch a short video about this and share it.
+   High: prices of food, fuel, electricity or gas; jobs and wages; exams, admissions and results; holidays; transport, roads and flights; weather and disasters; public safety; health risks such as dengue; major national politics.
+   Low: ceremonial meetings, routine statements, technical policy, minor foreign news.
+   Judge appeal separately from importance: an important but dry story can have low appeal.
 
 Return JSON only:
-{{"events": [{{"articles": [1, 7], "importance": 8, "region": "national", "category": "governance_law", "trending": true, "published": null}}]}}
+{{"events": [{{"articles": [1, 7], "importance": 8, "region": "national", "category": "governance_law", "trending": true, "published": null, "appeal": 7}}]}}
 
 Each article number may appear in at most one event."""
 
@@ -218,7 +222,12 @@ def build_desk_events(
         # importance_score is the editorial score the site ranks and places by.
         event.importance_score = round(min(10.0, score), 2)
         event.rank_score = compute_time_decayed_score(event.importance_score, members[0].published_at)
-        event.desk = {"importance": importance, "bd_outlets": bd_outlets, "outlets": outlets, "trending": trending_hit}
+        try:
+            appeal = max(1.0, min(10.0, float(raw.get("appeal", importance))))
+        except (TypeError, ValueError):
+            appeal = importance
+        event.desk = {"importance": importance, "bd_outlets": bd_outlets, "outlets": outlets,
+                      "trending": trending_hit, "appeal": appeal}
 
         match = raw.get("published")
         event.published_match = (
