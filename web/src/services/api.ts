@@ -67,7 +67,7 @@ async function fetchFirestoreDocRest(collectionName: string, docId: string): Pro
 function cleanEditorialMarkdown(text?: string | null): string {
   if (!text) return '';
   return text
-    .replace(/^\s*(?:[*_\-•]+|\d{1,2}[.)])\s*/, '')
+    .replace(/^\s*(?:[*_\-•]+\s*|\d{1,2}[.)]\s+)/, '')
     .replace(/\s*[*_]+\s*$/, '')
     .replace(/\*\*([^*]+)\*\*/g, '$1')
     .replace(/\*([^*]+)\*/g, '$1')

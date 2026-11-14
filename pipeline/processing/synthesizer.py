@@ -65,7 +65,7 @@ def clean_editorial_text(text: Optional[str]) -> str:
     s = re.sub(r'\s*[\*\_]{1,3}\s*$', '', s)
     # Strip a leading list badge: a bullet symbol, or "1." / "১)".
     # A bare leading number ("১৬ ডিসেম্বর", "25 crore") is content and must survive.
-    s = re.sub(r'^\s*(?:[•\-\*]+|[\d০-৯]{1,2}[\.\)])\s*', '', s)
+    s = re.sub(r'^\s*(?:[•\-\*]+\s*|[\d০-৯]{1,2}[\.\)]\s+)', '', s)
     return s.strip()
 
 def validate_and_filter_tags(tags: List[str], text: str, primary_category: str) -> List[str]:
