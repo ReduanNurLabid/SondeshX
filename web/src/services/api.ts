@@ -223,7 +223,31 @@ export function sortByEditorialRank(list: CapsuleStory[]): CapsuleStory[] {
   });
 }
 
-export async function fetchDailyBuzzFeed(fetchLimit: number = 500): Promise<CapsuleStory[]> {
+// Hourly snapshot written by scripts/generate-seo.mjs. Public pages read this instead of
+// Firestore so that visits cost no database reads. Loaded once per page view.
+interface SiteSnapshot {
+  generated_at?: string;
+  daily_buzz?: any[];
+  hourly_buzz?: any[];
+  current_affairs?: any[];
+}
+let snapshotPromise: Promise<SiteSnapshot | null> | null = null;
+function loadSiteSnapshot(): Promise<SiteSnapshot | null> {
+  if (!snapshotPromise) {
+    snapshotPromise = fetch('/data/site-feed.json', { cache: 'no-cache' })
+      .then((r) => (r.ok ? r.json() : null))
+      .catch(() => null);
+  }
+  return snapshotPromise;
+}
+
+export async function fetchDailyBuzzFeed(fetchLimit: number = 120): Promise<CapsuleStory[]> {
+  // 0. Hourly static snapshot (no database reads)
+  const snap = await loadSiteSnapshot();
+  if (snap?.daily_buzz?.length) {
+    return sortByEditorialRank(filterDeletedStories(snap.daily_buzz.map((d) => normalizeStory(d))));
+  }
+
   // 1. Try Firebase Firestore SDK
   try {
     const q = query(collection(db, 'daily_buzz'), orderBy('published_at', 'desc'), limit(fetchLimit));
@@ -271,6 +295,25 @@ export async function fetchDailyBuzzFeed(fetchLimit: number = 500): Promise<Caps
 
 export async function fetchCurrentAffairsFeed(): Promise<CapsuleStory[]> {
   const storyMap = new Map<string, CapsuleStory>();
+
+  // 0. Hourly static snapshot (no database reads)
+  const snap = await loadSiteSnapshot();
+  if (snap?.current_affairs?.length) {
+    for (const data of snap.current_affairs) {
+      const docTime = data.published_at || data.created_at || (data.edition_date ? data.edition_date + 'T06:00:00Z' : undefined);
+      for (const s of (data.stories || []) as any[]) {
+        const norm = normalizeStory(s, docTime);
+        if (norm.story_id && !storyMap.has(norm.story_id)) storyMap.set(norm.story_id, norm);
+      }
+    }
+    if (storyMap.size > 0) {
+      return Array.from(storyMap.values()).sort((a, b) => {
+        const ta = a.published_at ? new Date(a.published_at).getTime() : 0;
+        const tb = b.published_at ? new Date(b.published_at).getTime() : 0;
+        return tb - ta;
+      });
+    }
+  }
 
   // 1. Try Firestore SDK on both current_affairs_published and bcs_pro_published
   try {
@@ -391,7 +434,13 @@ export async function fetchCurrentAffairsFeed(): Promise<CapsuleStory[]> {
   return sortByPublishedDesc(filterDeletedStories(filteredList.length > 0 ? filteredList : list));
 }
 
-export async function fetchHourlyWiresFeed(fetchLimit: number = 300): Promise<CapsuleStory[]> {
+export async function fetchHourlyWiresFeed(fetchLimit: number = 60): Promise<CapsuleStory[]> {
+  // 0. Hourly static snapshot (no database reads)
+  const snap = await loadSiteSnapshot();
+  if (snap?.hourly_buzz?.length) {
+    return sortByPublishedDesc(filterDeletedStories(snap.hourly_buzz.map((d) => normalizeStory(d))));
+  }
+
   // 1. Try Firestore SDK
   try {
     const q = query(collection(db, 'hourly_buzz'), orderBy('published_at', 'desc'), limit(fetchLimit));

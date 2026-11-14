@@ -13,7 +13,8 @@ import { fileURLToPath } from 'node:url';
 const SITE_URL = 'https://sondesh.web.app';
 const SITE_NAME = 'সন্দেশ এক্সপ্রেস';
 const PROJECT = 'dorpon-a99a6';
-const MAX_STORIES = 400;
+const MAX_STORIES = 200;   // story pages + front-page feed
+const MAX_WIRES = 60;      // hourly wire items in the snapshot
 const NEWS_WINDOW_HOURS = 48;
 
 const root = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
@@ -38,21 +39,31 @@ function fromFields(fields) {
   return out;
 }
 
-async function fetchStories() {
-  const url = `https://firestore.googleapis.com/v1/projects/${PROJECT}/databases/(default)/documents:runQuery`;
+const DOCS_BASE = `https://firestore.googleapis.com/v1/projects/${PROJECT}/databases/(default)/documents`;
+
+async function queryLatest(collectionId, max) {
   const body = {
     structuredQuery: {
-      from: [{ collectionId: 'daily_buzz' }],
+      from: [{ collectionId }],
       orderBy: [{ field: { fieldPath: 'published_at' }, direction: 'DESCENDING' }],
-      limit: MAX_STORIES,
+      limit: max,
     },
   };
-  const res = await fetch(url, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
-  if (!res.ok) throw new Error(`Firestore query failed: HTTP ${res.status}`);
+  const res = await fetch(`${DOCS_BASE}:runQuery`, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
+  if (!res.ok) throw new Error(`Firestore query on ${collectionId} failed: HTTP ${res.status}`);
   const rows = await res.json();
-  return rows
-    .filter((r) => r.document)
-    .map((r) => ({ id: r.document.name.split('/').pop(), ...fromFields(r.document.fields || {}) }))
+  return rows.filter((r) => r.document).map((r) => ({ id: r.document.name.split('/').pop(), ...fromFields(r.document.fields || {}) }));
+}
+
+async function listAll(collectionId) {
+  const res = await fetch(`${DOCS_BASE}/${collectionId}?pageSize=50`);
+  if (!res.ok) return [];
+  const json = await res.json();
+  return (json.documents || []).map((d) => ({ id: d.name.split('/').pop(), ...fromFields(d.fields || {}) }));
+}
+
+async function fetchStories() {
+  return (await queryLatest('daily_buzz', MAX_STORIES))
     .filter((s) => s.is_active !== false && s.daily_buzz && (s.daily_buzz.title_bn || s.daily_buzz.title_en));
 }
 
@@ -175,12 +186,33 @@ const template = await readFile(path.join(dist, 'index.html'), 'utf8');
 const headRe = /<!-- SEO-HEAD-START[\s\S]*?<!-- SEO-HEAD-END -->/;
 if (!headRe.test(template)) throw new Error('dist/index.html is missing the SEO-HEAD markers');
 
+// Without stories the build must fail: deploying it would delete every story page
+// and break the links in Facebook posts. A failed build leaves the live site as it is.
 let stories = [];
 try {
   stories = await fetchStories();
 } catch (err) {
-  console.warn(`[seo] ${err.message}. Writing a home-only sitemap.`);
+  console.error(`[seo] ${err.message}`);
 }
+if (stories.length === 0 && process.env.SEO_ALLOW_EMPTY !== '1') {
+  console.error('[seo] No stories could be read from Firestore; refusing to build an empty site.');
+  process.exit(1);
+}
+
+// Public site data snapshot: readers load this file instead of querying Firestore,
+// so visits cost no database reads (the free plan allows 50,000 reads a day).
+const [wires, affairs, bcs] = await Promise.all([
+  queryLatest('hourly_buzz', MAX_WIRES).catch(() => []),
+  listAll('current_affairs_published'),
+  listAll('bcs_pro_published'),
+]);
+await mkdir(path.join(dist, 'data'), { recursive: true });
+await writeFile(path.join(dist, 'data', 'site-feed.json'), JSON.stringify({
+  generated_at: new Date().toISOString(),
+  daily_buzz: stories,
+  hourly_buzz: wires,
+  current_affairs: [...affairs, ...bcs],
+}));
 
 for (const s of stories) {
   const html = template
@@ -195,4 +227,4 @@ for (const s of stories) {
 await writeFile(path.join(dist, 'sitemap.xml'), sitemap(stories));
 await writeFile(path.join(dist, 'news-sitemap.xml'), newsSitemap(stories));
 await writeFile(path.join(dist, 'feed.xml'), rss(stories));
-console.log(`[seo] wrote ${stories.length} story pages, sitemap.xml, news-sitemap.xml, feed.xml`);
+console.log(`[seo] wrote ${stories.length} story pages, sitemap.xml, news-sitemap.xml, feed.xml, data/site-feed.json (${wires.length} wires, ${affairs.length + bcs.length} dossier docs)`);
