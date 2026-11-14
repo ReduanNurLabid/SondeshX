@@ -1,7 +1,71 @@
 {
-  "updated_at": "2026-11-14T20:00:42.063009",
+  "updated_at": "2026-11-14T21:00:42.642615",
   "total_stories": 6,
   "stories": [
+    {
+      "story_id": "64164ec8-05ac-5456-b45a-1eca461e6796",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#BGMEA",
+        "#BKMEA",
+        "#MahmudHasanKhan"
+      ],
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/181552/image-900x600-42.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-14T21:00:51.083739+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 9.5,
+      "rank_score": 9.4982,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/garment-units-unable-to-run-sunday-production-face-indefinite-closure",
+          "title": "No work, no pay: RMG factories brace for indefinite shutdown",
+          "snippet": "No work, no pay: RMG factories brace for indefinite shutdown"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "শ্রম আইন অনুযায়ী অনির্দিষ্টকালের জন্য বন্ধ হতে পারে তৈরি পোশাক কারখানা",
+        "title_en": "RMG factories may face indefinite shutdown under Labour Law",
+        "summary_bn": "উৎপাদন চালাতে ব্যর্থ পোশাক কারখানাগুলো শ্রম আইনের ১৩ (১) ধারা অনুযায়ী অনির্দিষ্টকালের জন্য বন্ধ রাখা হবে।",
+        "summary_en": "Garment factories that fail to run production on Sunday will shut down units under Labour Law provision 13 (1).",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-14T21:00:51.083739+00:00",
+        "lead_bn": "উৎপাদন চালাতে ব্যর্থ পোশাক কারখানাগুলো শ্রম আইনের ১৩ (১) ধারা অনুযায়ী অনির্দিষ্টকালের জন্য বন্ধ রাখা হবে।",
+        "lead_en": "Garment factories that fail to run production on Sunday will shut down units under Labour Law provision 13 (1).",
+        "bullets_bn": [
+          "বিজিএমইএ ও বিকেএমইএ সদস্যদের সঙ্গে যৌথ সাধারণ সভা শেষে বিজিএমইএ সভাপতি মাহমুদ হাসান খান এই ঘোষণা দেন।",
+          "তিনি জানান, ট্রেড বডি হিসেবে বিজিএমইএ বা বিকেএমইএ এই সিদ্ধান্ত নিতে পারে না, সংশ্লিষ্ট কারখানাগুলোই আইনগতভাবে তা করতে পারে।",
+          "এর আগে কিছু কারখানা চলতে পারেনি এবং কিছু ইউনিট ১৩ (১) ধারা অনুযায়ী বন্ধ রাখতে বাধ্য হয়েছে।"
+        ],
+        "bullets_en": [
+          "BGMEA President Mahmud Hasan Khan made the announcement after a joint general meeting with members of BGMEA and BKMEA.",
+          "He said as trade bodies, BGMEA or BKMEA cannot take such a decision, it is the respective factories that are lawfully permitted to do so.",
+          "Some factories could not operate and some units were forced to shut down in line with provision 13 (1)."
+        ],
+        "impact_bn": "গাজীপুরে পোশাক শ্রমিকরা ঢাকা-টাঙ্গাইল মহাসড়ক অবরোধ করায় যান চলাচল বন্ধ হয়ে গেছে।",
+        "impact_en": "Garment workers blocked the Dhaka-Tangail highway in Gazipur, halting traffic.",
+        "details_bn": "১৪৭টি কারখানা চলতে পারেনি এবং ৫৫টি ইউনিট শ্রম আইনের ১৩ (১) ধারা অনুযায়ী বন্ধ করতে বাধ্য হয়েছিল। বিজিএমইএ সভাপতি জানিয়েছেন, তারা ওয়েজ বোর্ড বৈঠকে যোগ দেবেন এবং তাদের প্রস্তাব পেশ করবেন।",
+        "details_en": "Some 147 factories could not operate and some 55 units were forced to shut down in line with provision 13 (1). The BGMEA president said they would join the wage board meeting and place their proposal."
+      },
+      "desk_importance": 8.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 9.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-14T21:01:17.498585+00:00"
+      }
+    },
     {
       "story_id": "57a75fe2-e590-5de2-9784-c148c4403a10",
       "primary_category": "economy_business",
@@ -17,10 +81,10 @@
       ],
       "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/181600/p1-info.jpg",
       "image_caption": null,
-      "published_at": "2026-11-14T20:01:02.569917+00:00",
+      "published_at": "2026-11-14T21:00:51.083739+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 8.5,
-      "rank_score": 8.4923,
+      "rank_score": 8.4984,
       "sources": [
         {
           "name": "The Financial Express",
@@ -30,106 +94,41 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "ব্যাংক পুনর্মূলধনায়নে প্রতি বছর ৬০০ বিলিয়ন টাকা বরাদ্দ দেবে সরকার",
-        "title_en": "Govt to earmark Tk 600b annually for bank recapitalisation",
-        "summary_bn": "বাংলাদেশ ব্যাংক জানিয়েছে, ব্যাংকিং খাতের পুনর্মূলধনায়নের জন্য বাজেটে প্রতি বছর ৬০০ বিলিয়ন টাকা বরাদ্দ দেবে সরকার।",
-        "summary_en": "The government will earmark Tk 600 billion annually in the fiscal budget for banking-sector recapitalisation, says Bangladesh Bank.",
+        "title_bn": "ব্যাংক পুনর্মূলধনায়নে বাজেটে বছরে ৬০ হাজার কোটি টাকা বরাদ্দ দেবে সরকার",
+        "title_en": "Govt to earmark Tk 600b annually for bank recapitalisation, says BB governor",
+        "summary_bn": "বাংলাদেশ ব্যাংক জানিয়েছে, ব্যাংকিং খাতের পুনর্মূলধনায়নের জন্য সরকার প্রতি অর্থবছরে বাজেটে ৬০ হাজার কোটি টাকা বরাদ্দ দেবে।",
+        "summary_en": "The government will earmark Tk 600 billion annually in the fiscal budget for banking-sector recapitalisation, according to the Bangladesh Bank governor.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-14T20:01:02.569917+00:00",
-        "lead_bn": "বাংলাদেশ ব্যাংক জানিয়েছে, ব্যাংকিং খাতের পুনর্মূলধনায়নের জন্য বাজেটে প্রতি বছর ৬০০ বিলিয়ন টাকা বরাদ্দ দেবে সরকার।",
-        "lead_en": "The government will earmark Tk 600 billion annually in the fiscal budget for banking-sector recapitalisation, says Bangladesh Bank.",
+        "published_at": "2026-11-14T21:00:51.083739+00:00",
+        "lead_bn": "বাংলাদেশ ব্যাংক জানিয়েছে, ব্যাংকিং খাতের পুনর্মূলধনায়নের জন্য সরকার প্রতি অর্থবছরে বাজেটে ৬০ হাজার কোটি টাকা বরাদ্দ দেবে।",
+        "lead_en": "The government will earmark Tk 600 billion annually in the fiscal budget for banking-sector recapitalisation, according to the Bangladesh Bank governor.",
         "bullets_bn": [
-          "বাংলাদেশ ব্যাংকের গভর্নর মোশতাকুর রহমান জানান, ভবিষ্যতে এই খাতের আর্থিক ব্যয় বহন করতে হতে পারে।",
-          "পঞ্চম বাংলাদেশ ইকোনমিক সামিট ২০২৬ অনুষ্ঠানে এই তথ্য জানানো হয়।",
-          "বণিক বার্তা এই সম্মেলনের আয়োজন করে এবং এতে ব্যাংকিং ও শিল্প খাতের প্রতিনিধিরা উপস্থিত ছিলেন।"
+          "বাংলাদেশ ব্যাংক গভর্নর মো. মোস্তাকুর রহমান বিষয়টি জানিয়েছেন।",
+          "পঞ্চম বাংলাদেশ ইকোনমিক সামিট ২০২৬ অনুষ্ঠানে প্রধান অতিথির বক্তব্যে তিনি এই তথ্য জানান।",
+          "বনিক বার্তা এই সামিটের আয়োজন করে এবং এতে ব্যাংক ও শিল্প খাতের প্রতিনিধিরা উপস্থিত ছিলেন।"
         ],
         "bullets_en": [
-          "Bangladesh Bank governor Md. Mostaqur Rahman said future generations may have to bear the fiscal cost.",
-          "The announcement was made at the fifth Bangladesh Economic Summit 2026.",
-          "The summit was organised by vernacular daily Bonik Barta with banking and industrial representatives in attendance."
+          "Bangladesh Bank governor Md. Mostaqur Rahman shared this information.",
+          "He spoke as chief guest at the fifth Bangladesh Economic Summit 2026.",
+          "Vernacular daily Bonik Barta organised the summit attended by banking and industrial representatives."
         ],
-        "impact_bn": "আগামী প্রজন্মের তরুণরা চাকরি, ব্যবসা ও কর দিলেও অর্থনীতির সুফল ভোগ করতে পারবে না বলে গভর্নর মন্তব্য করেন।",
-        "impact_en": "The governor said the next generation will do jobs, do business, and pay taxes, but won't be able to enjoy the fruits of it.",
-        "details_bn": "স্থানীয় একটি হোটেলে বনিক বার্তা আয়োজিত পঞ্চম বাংলাদেশ ইকোনমিক সামিট ২০২৬-এ প্রধান অতিথির বক্তব্যে গভর্নর মোশতাকুর রহমান এসব কথা বলেন। বনিক বার্তা সম্পাদক দেওয়ান হানিফ মাহমুদ অনুষ্ঠানে মডারেটর হিসেবে দায়িত্ব পালন করেন। গভর্নর বলেন, বৈদেশিক মুদ্রার রিজার্ভে কিছুটা স্থিতিশীলতার লক্ষণ দেখা দিলেও উচ্চ inflación ও সুদের হারসহ বিভিন্ন কাঠামোগত দুর্বলতা ভবিষ্যৎ অর্থনৈতিক স্থায়িত্বের জন্য গভীর চ্যালেঞ্জ তৈরি করছে।",
-        "details_en": "Governor Md. Mostaqur Rahman made the remarks as chief guest at the fifth Bangladesh Economic Summit 2026 held at a local hotel. Bonik Barta Editor Dewan Hanif Mahmud moderated the programme. The governor noted that while foreign-exchange reserves show stability, systemic vulnerabilities like high inflation and interest rates pose deep-seated challenges."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "গভর্নর বলেন, পরবর্তী প্রজন্ম এই অর্থনীতির সুফল ভোগ করতে পারবে না কারণ বর্তমান প্রজন্ম তা ভোগ করে ফেলেছে। তিনি উল্লেখ করেন, ভবিষ্যৎ প্রজন্মকে আগামী বছরগুলোতে ব্যাংকিং খাতের পুনর্মূলধনায়নের রাজ্ব্যিক ব্যয় বহন করতে হতে পারে। এছাড়া বৈদেশিক মুদ্রার রিজার্ভে কিছুটা স্থিতিশীলতার লক্ষণ দেখা গেলেও উচ্চ মূল্যস্ফীতি, চড়া সুদের হার এবং বেশি মাত্রায় করপোরেট ঋণ কেন্দ্রীভূত থাকার মতো কাঠামোগত দুর্বলতাগুলো ভবিষ্যৎ অর্থনৈতিক টেকসইয়ের জন্য বড় চ্যালেঞ্জ তৈরি করছে বলে কর্মকর্তারা সতর্ক করেছেন। গভর্নর জানান যে উচ্চ মূল্যস্ফীতির সঙ্গে মুদ্রা অবমূল্যায়ন ঘনিষ্ঠভাবে জড়িত।",
+        "details_en": "The governor said future generations may have to bear the fiscal cost of recapitalisation and will not enjoy the fruits of the economy because the current generation has already consumed it. Speaking at a hotel during the summit moderated by Bonik Barta Editor Dewan Hanif Mahmud, he noted that foreign-exchange reserves show signs of stability, but high inflation, elevated interest rates, and heavy corporate lending concentration pose deep-seated challenges. The governor also noted that high inflation remains closely intertwined with currency depreciation."
       },
       "desk_importance": 8.0,
       "outlet_count": 1,
       "trending": false,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-14T20:02:11.808754+00:00"
-      }
-    },
-    {
-      "story_id": "f8c3d0f1-dbf2-52f3-be19-86967bd3322b",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#BangladeshDebt",
-        "#FinanceDivision",
-        "#ADB",
-        "#CoxBazar"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/04/16/debt.png",
-      "image_caption": null,
-      "published_at": "2026-11-14T18:15:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 8.5,
-      "rank_score": 7.5131,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/economy/bangladesh-seeks-new-debt-strategy-amid-rising-repayment-pressure-1602651",
-          "title": "Bangladesh seeks new debt strategy amid rising repayment pressure",
-          "snippet": "Bangladesh seeks new debt strategy amid rising repayment pressure"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বাংলাদেশ ক্রমবর্ধমান সরকারি ঋণ ব্যবস্থাপনার জন্য নতুন কৌশল খুঁজছে।",
-        "title_en": "Bangladesh is seeking new strategies to manage growing public debt.",
-        "summary_bn": "ক্রমবর্ধমান ঋণ পরিশোধের চাপ ও সুদের হার বৃদ্ধির মধ্যে বাংলাদেশ তার ক্রমবর্ধমান সরকারি ঋণ ব্যবস্থাপনার নতুন উপায় খুঁজছে।",
-        "summary_en": "Bangladesh is looking for new ways to manage its growing public debt amid rising repayment pressure and interest costs.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-14T18:15:00+00:00",
-        "lead_bn": "ক্রমবর্ধমান ঋণ পরিশোধের চাপ ও সুদের হার বৃদ্ধির মধ্যে বাংলাদেশ তার ক্রমবর্ধমান সরকারি ঋণ ব্যবস্থাপনার নতুন উপায় খুঁজছে।",
-        "lead_en": "Bangladesh is looking for new ways to manage its growing public debt amid rising repayment pressure and interest costs.",
-        "bullets_bn": [
-          "অর্থ বিভাগ এবং এশীয় উন্নয়ন ব্যাংক যৌথভাবে ১৫ নভেম্বর কক্সবাজারের ওশান প্যারাডাইস হোটেলে দেশের প্রথম আন্তর্জাতিক ঋণ সম্মেলন আয়োজন করছে।",
-          "আন্তর্জাতিক ঋণ সম্মেলন বাংলাদেশ ২০২৬ শীর্ষক দুই দিনের এই অনুষ্ঠানটি উদ্বোধন করবেন অর্থ ও পরিকল্পনা মন্ত্রী আমীর খসরু মাহমুদ চৌধুরী।",
-          "সম্মেলনে সরকারি ঋণ গ্রহণের কৌশল, ঝুঁকি ব্যবস্থাপনা, আন্তর্জাতিক বন্ড বাজার থেকে তহবিল সংগ্রহ এবং বেসরকারি বিনিয়োগ আকর্ষণ নিয়ে আলোচনা হবে।"
-        ],
-        "bullets_en": [
-          "The Finance Division and the Asian Development Bank are jointly organising the country's first international debt conference in Cox's Bazar.",
-          "Finance and Planning Minister Amir Khosru Mahmud Chowdhury will inaugurate the two-day event titled International Debt Conference Bangladesh 2026.",
-          "Discussions will focus on government borrowing strategies, debt cost and risk management, international bond markets, and attracting private investment."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "অর্থ বিভাগের তৈরি একটি প্রতিবেদন অনুযায়ী, ক্রমবর্ধমান সরকারি ঋণ, ঋণ পরিশোধের ব্যয়, বিনিময় হারের অস্থিরতা এবং আন্তর্জাতিক বাজারে ঋণের উচ্চ ব্যয়ের মধ্যে এই উদ্যোগ নেওয়া হয়েছে। দীর্ঘমেয়াদি উন্নয়ন প্রকল্পের জন্য অর্থায়ন নিশ্চিত করার পাশাপাশি ২০৩৪ সালের মধ্যে ১ ট্রিলিয়ন ডলারের অর্থনীতি গঠনের লক্ষ্য অর্জনেও এই চ্যালেঞ্জ মোকাবেলা করতে হচ্ছে। এর ফলে সরকার প্রচলিত বৈদেশিক ঋণ ছাড়িয়ে অর্থায়নের উৎস বৈচিত্র্যময় করতে এবং অভ্যন্তরীণ পুঁজিবাজারকে শক্তিশালী করার উপায় খুঁজছে।",
-        "details_en": "According to a report prepared by the Finance Division, the initiative comes amid rising public debt, growing debt-servicing costs, exchange rate volatility and higher borrowing costs in international markets. Bangladesh also faces the challenge of securing financing for long-term development projects while pursuing its target of building a $1 trillion economy by 2034, leading the government to look beyond conventional foreign borrowing."
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": true,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-14T20:02:11.808754+00:00"
+        "checked_at": "2026-11-14T21:01:17.498585+00:00"
       }
     },
     {
@@ -143,12 +142,12 @@
         "#Mohammadpur",
         "#AnuragPharmacy"
       ],
-      "image_url": "https://images.unsplash.com/photo-1760872646618-13594fc00567?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Y2FzZSUyMGZpbGVkJTIwc2hvb3RpbmclMjBsYWtoJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk0Njg2NTIyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1676311862251-2bedaf454ede?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Y2FzZSUyMGZpbGVkJTIwc2hvb3RpbmclMjBleHRvcnRpb24lMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTQ2OTAwNzB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-14T19:34:44+00:00",
+      "published_at": "2026-11-14T20:52:38+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 7.2688,
+      "importance_score": 8.5,
+      "rank_score": 8.4182,
       "sources": [
         {
           "name": "Dhaka Tribune",
@@ -170,199 +169,215 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "মোহাম্মদপুরের একটি ফার্মেসিতে গুলি ও ৫০ লাখ টাকা চাঁদা দাবির ঘটনায় মামলা",
-        "title_en": "Case filed over shooting and Tk 50 lakh extortion demand at Mohammadpur pharmacy",
-        "summary_bn": "রাজধানীর মোহাম্মদপুরের বাবর রোডে অনুরাগ ফার্মেসিতে দুর্বৃত্তরা গুলি চালিয়ে ৫০ লাখ টাকা চাঁদা দাবি করেছে বলে অভিযোগ উঠেছে।",
-        "summary_en": "Unidentified people attacked Anurag Pharmacy on Babar Road in Mohammadpur, firing shots and demanding Tk 50 lakh in extortion.",
+        "title_bn": "মোহাম্মদপুরের একটি ফার্মেসিতে গুলি ও চাঁদা দাবির ঘটনায় মামলা হয়েছে",
+        "title_en": "Case filed over shooting and extortion demand at Mohammadpur pharmacy",
+        "summary_bn": "রাজধানীর মোহাম্মদপুরের বাবর রোডে অনুরাগ ফার্মেসিতে দুর্বৃত্তদের গুলি ও ৫০ লাখ টাকা চাঁদা দাবির ঘটনায় মামলা হয়েছে।",
+        "summary_en": "A case has been filed over the shooting and a Tk 50 lakh extortion demand by gunmen at Anurag Pharmacy on Babar Road in Mohammadpur.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-14T19:34:44+00:00",
-        "lead_bn": "রাজধানীর মোহাম্মদপুরের বাবর রোডে অনুরাগ ফার্মেসিতে দুর্বৃত্তরা গুলি চালিয়ে ৫০ লাখ টাকা চাঁদা দাবি করেছে বলে অভিযোগ উঠেছে।",
-        "lead_en": "Unidentified people attacked Anurag Pharmacy on Babar Road in Mohammadpur, firing shots and demanding Tk 50 lakh in extortion.",
+        "published_at": "2026-11-14T20:52:38+00:00",
+        "lead_bn": "রাজধানীর মোহাম্মদপুরের বাবর রোডে অনুরাগ ফার্মেসিতে দুর্বৃত্তদের গুলি ও ৫০ লাখ টাকা চাঁদা দাবির ঘটনায় মামলা হয়েছে।",
+        "lead_en": "A case has been filed over the shooting and a Tk 50 lakh extortion demand by gunmen at Anurag Pharmacy on Babar Road in Mohammadpur.",
         "bullets_bn": [
-          "রাত ১১টা ১ মিনিটে অনুরাগ ফার্মেসিতে এই হামলার ঘটনা ঘটে।",
-          "দুর্বৃত্তরা দুটি গুলি ছুঁড়লে তা ফার্মেসির সামনের কাচে লাগে এবং রামদা দেখিয়ে পালিয়ে যায়।",
-          "বিক্রয়কর্মী জানান, একটি বুলেট তার মাথার ওপর দিয়ে অল্পের জন্য চলে যায়।"
+          "রাত ১১টা ১ মিনিটে অনুরাগ ফার্মেসিতে হামলার এ ঘটনা ঘটে।",
+          "ফার্মেসির ম্যানেজার অজ্ঞাতনামা ব্যক্তিদের আসামি করে মামলা করেছেন।",
+          "হামলার সময় দুই রাউন্ড গুলি সামনের কাচে লাগে এবং রামদা দেখিয়ে দুর্বৃত্তরা পালিয়ে যায়।"
         ],
         "bullets_en": [
           "The attack on Anurag Pharmacy took place at 11:01 pm on Friday.",
-          "Two shots hit the front glass of the pharmacy and attackers fled showing RAMDA.",
-          "A sales employee stated that one bullet narrowly missed his head."
+          "The pharmacy manager filed the case accusing unidentified people.",
+          "Two shots hit the front glass during the attack and attackers fled showing ramdas."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "রাজধানীর মোহাম্মদপুরের বাবর রোডের অনুরাগ ফার্মেসিতে হামলার ঘটনায় অজ্ঞাতপরিচয় ব্যক্তিদের আসামি করে মামলা দায়ের করা হয়েছে। ফার্মেসির ব্যবস্থাপক এই মামলা করেন। এতে আসামিদের বিরুদ্ধে গুলি চালানো এবং ৫০ লাখ টাকা চাঁদা দাবির অভিযোগ আনা হয়েছে। এদিকে এই ঘটনার তদন্তে বিভিন্ন সম্ভাব্য কারণ খতিয়ে দেখা হচ্ছে।",
-        "details_en": "A case has been filed accusing unidentified people over the attack at Anurag Pharma on Babar Road in Mohammadpur. The pharmacy manager filed the case accusing the attackers of shooting and demanding Tk 50 lakh in extortion. Meanwhile, the investigation is considering several possible reasons."
+        "details_bn": "রাজধানীর মোহাম্মদপুরের বাবর রোডে অনুরাগ ফার্মেসিতে দুর্বৃত্তরা দুই রাউন্ড গুলি চালায় এবং রামদা দেখিয়ে পালিয়ে যায়। হামলায় ফার্মেসির সামনের কাচ ক্ষতিগ্রস্ত হয় এবং একজন সেলস কর্মী জানান যে একটি গুলি তার মাথার খুব কাছ দিয়ে চলে যায়। এই ঘটনায় ফার্মেসির ম্যানেজার অজ্ঞাতনামা ব্যক্তিদের বিরুদ্ধে মামলা দায়ের করেছেন, যেখানে ৫০ লাখ টাকা চাঁদা দাবির অভিযোগ আনা হয়েছে। পুলিশ জানায়, হামলার বিভিন্ন সম্ভাব্য কারণ খতিয়ে দেখতে তদন্ত চলছে।",
+        "details_en": "Gunmen fired two shots at Anurag Pharmacy on Babar Road in Mohammadpur and fled while showing ramdas. The front glass of the pharmacy was hit and a sales employee stated that a bullet narrowly missed his head. The pharmacy manager filed a case against unidentified people alleging a Tk 50 lakh extortion demand. Police said investigation is considering several possible reasons for the incident."
       },
-      "desk_importance": 6.0,
+      "desk_importance": 7.0,
       "outlet_count": 3,
       "trending": false,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-14T20:02:11.808754+00:00"
+        "checked_at": "2026-11-14T21:01:17.498585+00:00"
       }
     },
     {
-      "story_id": "d33a945f-7667-57e2-bd78-f544f18d844a",
+      "story_id": "a980aee5-3415-5874-986e-d3755e7cd2a4",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law",
-        "economy_business"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#LawMinistry",
-        "#LandMinistry",
-        "#Asaduzzaman",
-        "#BangladeshRegistrationServiceAssociation"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_10bb0c1fb270747f13639767c75bfc9c.jpg",
+      "image_url": "https://images.unsplash.com/photo-1693585172757-b9e057feb878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFybGlhbWVudCUyMGxhdyUyMGNvdXJ0JTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk0NjkwMDcyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-14T20:01:02.569917+00:00",
+      "published_at": "2026-11-14T20:50:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 6.494,
+      "importance_score": 8.5,
+      "rank_score": 8.3926,
       "sources": [
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/law-minister-rules-out-transfer-of-deed-registration-to-land-ministry",
-          "title": "Law minister rules out transfer of deed registration to land ministry",
-          "snippet": "Law minister rules out transfer of deed registration to land ministry"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821025/%E0%A6%9F%E0%A7%81%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BF%E0%A6%AA%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF-%E0%A6%93-%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%A6%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87",
+          "title": "টুঙ্গিপাড়ায় বিএনপি ও যুবদলের দুই কার্যালয়ে ভাঙচুর-আগুন",
+          "snippet": "টুঙ্গিপাড়ায় বিএনপি ও যুবদলের দুই কার্যালয়ে ভাঙচুর-আগুন"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/dhaka/980960/%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%9F%E0%A6%BF-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%9A%E0%A7%81%E0%A6%B0",
+          "title": "গোপালগঞ্জে বিএনপির দুটি কার্যালয়ে ভাঙচুর, অগ্নিসংযোগ",
+          "snippet": "গোপালগঞ্জে বিএনপির দুটি কার্যালয়ে ভাঙচুর, অগ্নিসংযোগ"
+        },
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/o6quxfkn3i",
+          "title": "টুঙ্গিপাড়ায় বিএনপি ও যুবদলের কার্যালয়ে আগুন, ভাঙচুর",
+          "snippet": "টুঙ্গিপাড়ায় বিএনপি ও যুবদলের কার্যালয়ে আগুন, ভাঙচুর"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আইন মন্ত্রণালয়েই থাকবে দলিলের নিবন্ধন কাজ",
-        "title_en": "Deed registration will remain under law ministry",
-        "summary_bn": "আইনমন্ত্রী আসাদুজ্জামান জানিয়েছেন, ভূমি মন্ত্রণালয়ে স্থানান্তরের প্রস্তাব সত্ত্বেও দলিলের নিবন্ধন কাজ আইন মন্ত্রণালয়ের অধীনেই থাকবে।",
-        "summary_en": "Law Minister Asaduzzaman has said deed registration will remain under the law ministry despite a proposal to bring it under the land ministry.",
+        "title_bn": "টুঙ্গিপাড়ায় বিএনপি ও যুবদলের কার্যালয়ে হামলা, ভাঙচুর ও আগুন",
+        "title_en": "Attack, vandalism and arson at BNP and Juba Dal offices in Tungipara",
+        "summary_bn": "গোপালগঞ্জের টুঙ্গিপাড়ায় বিএনপি ও যুবদলের দুটি কার্যালয়ে হামলা, ভাঙচুর এবং অগ্নিসংযোগের ঘটনা ঘটেছে।",
+        "summary_en": "Attacks, vandalism and arson have taken place at two offices of the BNP and Juba Dal in Tungipara, Gopalganj.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "economy_business"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-14T20:01:02.569917+00:00",
-        "lead_bn": "আইনমন্ত্রী আসাদুজ্জামান জানিয়েছেন, ভূমি মন্ত্রণালয়ে স্থানান্তরের প্রস্তাব সত্ত্বেও দলিলের নিবন্ধন কাজ আইন মন্ত্রণালয়ের অধীনেই থাকবে।",
-        "lead_en": "Law Minister Asaduzzaman has said deed registration will remain under the law ministry despite a proposal to bring it under the land ministry.",
+        "published_at": "2026-11-14T20:50:00+00:00",
+        "lead_bn": "গোপালগঞ্জের টুঙ্গিপাড়ায় বিএনপি ও যুবদলের দুটি কার্যালয়ে হামলা, ভাঙচুর এবং অগ্নিসংযোগের ঘটনা ঘটেছে।",
+        "lead_en": "Attacks, vandalism and arson have taken place at two offices of the BNP and Juba Dal in Tungipara, Gopalganj.",
         "bullets_bn": [
-          "বাংলাদেশ রেজিস্ট্রেশন সার্ভিস অ্যাসোসিয়েশনের বার্ষিক সাধারণ সভায় আইনমন্ত্রী এই সিদ্ধান্ত ঘোষণা করেন।",
-          "মন্ত্রী বলেন, আইনি কাঠামোর অধীনে এটি আইন মন্ত্রণালয়ের আওতাধীন থাকায় এটি এখানেই থাকবে।",
-          "তিনি জানান, ভূমি মন্ত্রণালয়ের স্থায়ী কমিটি একটি প্রস্তাব পাস করেছিল যে সাব-রেজিস্ট্রি বিভাগটি যেন ওই মন্ত্রণালয়ে যায়।"
+          "১৪ নভেম্বর রাত ৮টার দিকে উপজেলার নিলফা বাজার ও বর্ণি বাজারে এই হামলা চালানো হয়।",
+          "ব্যক্তিগত কার্যালয় ও কয়েকটি দোকানেও আগুন ও ভাঙচুর চালানো হয়েছে বলে জানানো হয়েছে।",
+          "কার্যক্রম নিষিদ্ধ আওয়ামী লীগ ও যুবলীগ এবং নিষিদ্ধঘোষিত ছাত্রলীগের নেতাকর্মীরা এই ঘটনা ঘটিয়েছেন বলে অভিযোগ করেছেন বিএনপি নেতারা।"
         ],
         "bullets_en": [
-          "The law minister announced the decision at the annual general meeting of the Bangladesh Registration Service Association on Saturday.",
-          "The minister said it will remain under the law ministry as it falls under this ministry within the legal framework.",
-          "He said the land ministry standing committee had passed a resolution that the sub-registry department should go to the ministry."
+          "The attacks took place around 8 pm on Saturday 14 November at Nilfa Bazar and Borni Bazar of the upazila.",
+          "It was reported that a personal office and several shops were also set on fire and vandalised.",
+          "BNP leaders alleged that leaders and activists of the banned Awami League, Juba League and banned Chhatra League carried out the incident."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "আইনমন্ত্রী আসাদুজ্জামান উল্লেখ করেন যে নিবন্ধন বিভাগ দেশের দ্বিতীয় বৃহত্তম একক রাজস্ব উৎস এবং জাতীয় বাজেত অর্থায়নে বড় ভূমিকা রাখে, অথচ এটি অন্যতম অবহেলিত খাত। বিভাগটি ৬১টি জেলা রেজিস্ট্রার অফিস এবং ৪৯৭টি সাব-রেজিস্ট্রার অফিসের মাধ্যমে সম্পত্তি হস্তান্তর, দলিলের নিবন্ধন, রেকর্ড সংরক্ষণ ও রাজস্ব আদায় পরিচালনা করে। মন্ত্রী কর্মকর্তাদের বৈধ দাবি পূরণের প্রতিশ্রুতি দেন এবং জনগণের হয়রানি বন্ধের আহ্বান জানান।",
-        "details_en": "Law Minister Asaduzzaman noted that the registration department was the country's second-largest single source of revenue and played a major role in funding the national budget, yet remained one of the most neglected sectors. The department operates through 61 district registrar offices and 497 sub-registrar offices, handling property transfers, deed registration, record-keeping and revenue collection. The minister promised to act on legitimate staff demands and urged officials to stop public harassment."
+        "details_bn": "স্থানীয় সূত্রে জানা গেছে, রাতে কার্যক্রম নিষিদ্ধ আওয়ামী লীগ ও এর সহযোগী সংগঠনের নেতাকর্মীরা লাঠিসোঁটা নিয়ে মিছিল বের করেন। এর পরই টুঙ্গিপাড়া উপজেলার নিলফা বাজার ও বর্ণি বাজারে বিএনপি ও যুবদলের দুটি কার্যালয়সহ ব্যক্তিগত কার্যালয় ও কয়েকটি দোকানে হামলা, ভাঙচুর ও অগ্নিসংযোগ করা হয়।",
+        "details_en": "According to local sources, leaders and activists of the banned Awami League and its associated organisations brought out a procession with sticks at night. Following this, attacks, vandalism and arson were carried out at two offices of the BNP and Juba Dal as well as a personal office and several shops at Nilfa Bazar and Borni Bazar in Tungipara upazila."
       },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
+      "desk_importance": 7.0,
+      "outlet_count": 3,
       "trending": false,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-14T20:02:11.808754+00:00"
+        "checked_at": "2026-11-14T21:01:17.498585+00:00"
       }
     },
     {
-      "story_id": "146a9f25-7c96-5455-8d03-a93b12f1c82a",
-      "primary_category": "tech_innovation",
+      "story_id": "5d8f9f4a-13c0-5f59-aeee-b5cd15891158",
+      "primary_category": "sports_fitness",
       "interest_categories": [
+        "sports_fitness",
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#SAFFChampionship",
+        "#Bangladesh",
+        "#Pakistan"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1597543177355-e874cee9dee8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFraXN0YW4lMjByZWFjaGVzJTIwc2FmZiUyMGNoYW1waW9uc2hpcCUyMHNwb3J0c3xlbnwxfDB8fHwxNzk0NjkwMDc0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-14T18:06:07+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 9.0,
+      "rank_score": 7.3535,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/sport/football/424653/shahzad-s-late-strike-breaks-bangladesh-heart",
+          "title": "Shahzad's late strike breaks Bangladesh heart, sends Pakistan into SAFF final",
+          "snippet": "Shahzad's late strike breaks Bangladesh heart, sends Pakistan into SAFF final"
+        },
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "snippet": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পাকিস্তান সাফ চ্যাম্পিয়নশিপের ফাইনালে উঠেছে",
+        "title_en": "Pakistan reaches SAFF Championship final",
+        "summary_bn": "শহজাদের দেরিতে করা গোলে পাকিস্তান ১-০ ব্যবধানে বাংলাদেশকে হারিয়ে সাফ চ্যাম্পিয়নশিপের ফাইনালে উঠেছে।",
+        "summary_en": "Pakistan secured a 1-0 victory over Bangladesh with Shahzad's late strike to reach the SAFF Championship final.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-14T18:06:07+00:00",
+        "lead_bn": "শহজাদের দেরিতে করা গোলে পাকিস্তান ১-০ ব্যবধানে বাংলাদেশকে হারিয়ে সাফ চ্যাম্পিয়নশিপের ফাইনালে উঠেছে।",
+        "lead_en": "Pakistan secured a 1-0 victory over Bangladesh with Shahzad's late strike to reach the SAFF Championship final.",
+        "bullets_bn": [
+          "জাতীয় স্টেডিয়ামে উত্তেজনাপূর্ণ দ্বিতীয় সেমিফাইনালে এই ম্যাচ অনুষ্ঠিত হয়।",
+          "এই জয়ের ফলে পাকিস্তান প্রথমবারের মতো ফাইনালে জায়গা করে নিয়েছে।",
+          "এই হারের কারণে বাংলাদেশের ফাইনাল খেলার আশা শেষ হয়ে গেছে।"
+        ],
+        "bullets_en": [
+          "The match took place in the exciting second semifinal at the National Stadium.",
+          "This victory booked Pakistan's place in the title decider for the first time.",
+          "The defeat dashed Bangladesh's hopes of reaching the final."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null
+      },
+      "desk_importance": 8.0,
+      "outlet_count": 2,
+      "trending": true,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-14T21:01:17.498585+00:00"
+      }
+    },
+    {
+      "story_id": "b9712134-d8be-5a10-afe0-4d07b90e7427",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
         "tech_innovation"
       ],
       "region": "international",
       "tags": [
-        "#JensenHuang",
-        "#Nvidia",
-        "#AliceHuang",
-        "#KimberlyPowell"
-      ],
-      "image_url": "https://th-i.thgim.com/public/news/national/3nipi/article71702808.ece/alternates/LANDSCAPE_1200/jensen%20huang_Art.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-14T17:43:10+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 8.0,
-      "rank_score": 6.8158,
-      "sources": [
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/sci-tech/technology/jensen-huang-ai-rainmaker-meets-his-waterloo/article71702817.ece",
-          "title": "Jensen Huang | AI rainmaker meets his Waterloo",
-          "snippet": "Jensen Huang | AI rainmaker meets his Waterloo"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "এনভিডিয়ার প্রধান জেপসেন হুয়াং কেলেঙ্কারির মুখে পদত্যাগ করেছেন।",
-        "title_en": "Nvidia chief Jensen Huang has resigned amid a scandal.",
-        "summary_bn": "স্ক্যান্ডালের মুখে এনভিডিয়ার সহ-প্রতিষ্ঠাতা ও প্রধান জেপসেন হুয়াং পদত্যাগ করেছেন।",
-        "summary_en": "Nvidia co-founder and chief Jensen Huang has resigned in the face of a scandal.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-14T17:43:10+00:00",
-        "lead_bn": "স্ক্যান্ডালের মুখে এনভিডিয়ার সহ-প্রতিষ্ঠাতা ও প্রধান জেপসেন হুয়াং পদত্যাগ করেছেন।",
-        "lead_en": "Nvidia co-founder and chief Jensen Huang has resigned in the face of a scandal.",
-        "bullets_bn": [
-          "প্রতিবেদন অনুযায়ী জেপসেন হুয়াং অ্যালিস হুয়াং নামের এক চীনা ব্যবসায়ীর সাথে সম্পর্কে জড়ান।",
-          "নিউইয়র্ক টাইমসের খবর অনুযায়ী কিম্বার্লি পাওয়েলের সাথে হুয়াংয়ের দ্বিতীয় সম্পর্কের কথা প্রকাশ পায়।",
-          "চিনের এক নারী ব্যবসায়ীর সাথে গুপ্তচর বৃত্তির সংশ্লিষ্টতা নিয়ে এই কেলেঙ্কারির সৃষ্টি হয়।"
-        ],
-        "bullets_en": [
-          "Reports emerged about Mr. Huang having an affair with a Chinese businesswoman named Alice Huang.",
-          "The New York Times reported a second relationship with Kimberly Powell, who is Nvidia's head of healthcare.",
-          "The Chinese businesswoman is at the centre of an alleged spy scandal."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "দ্য হিন্দু ইন্টারন্যাশনালের প্রতিবেদন অনুযায়ী, দ্য এনভিডিয়া ওয়ে নামক বইতে লেখক তে কিম উল্লেখ করেছেন যে জেপসেন হুয়াং শিক্ষক হতে পারতেন। নিজ হাতে গড়া কোম্পানি এনভিডিয়ার প্রধান হিসেবে তিনি এখন হোয়াইটবোর্ডে ডায়াগ্রাম এঁকে সমস্যা সমাধানের পুরনো স্টাইলে ফিরে যেতে বাধ্য হচ্ছেন। তবে চীনা ব্যবসায়ীর সাথে সম্পর্ক এবং কিম্বার্লি পাওয়েলের সাথে সম্পর্কের বিষয়গুলো সামনে আসার পর তাকে তীব্র যাচাই-বাছাইয়ের মুখোমুখি হতে হচ্ছে।",
-        "details_en": "According to the report by The Hindu International, author Tae Kim noted in his book The Nvidia Way that Jensen Huang might have been a teacher in another life. The Nvidia co-founder is now forced back to his style of diagramming on a whiteboard to solve problems. However, he now faces intense scrutiny following reports of his affair with a Chinese businesswoman at the centre of an alleged spy scandal and a second relationship with Kimberly Powell."
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": true,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-14T20:02:11.808754+00:00"
-      }
-    },
-    {
-      "story_id": "6ae4e369-02e9-59be-9848-785e3d49fc98",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "tech_innovation",
-        "governance_law"
-      ],
-      "region": "international",
-      "tags": [
-        "#US",
-        "#FAA",
         "#SeanDuffy",
-        "#BryanBedford"
+        "#FAA",
+        "#USFlights"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/6934b82431c8fab49bd4a56b9baaca81b07d75ae/0_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=df39ec2f66eadc002f0e2550196d56ad",
+      "image_url": "https://static.dw.com/image/79949366_6.jpg",
       "image_caption": null,
-      "published_at": "2026-11-14T17:11:18+00:00",
+      "published_at": "2026-11-14T20:33:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 8.0,
-      "rank_score": 6.5695,
+      "importance_score": 7.0,
+      "rank_score": 6.7771,
       "sources": [
         {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
-          "title": "US officials say flight stoppage stemmed from ‘routine maintenance’ as travel chaos continues",
-          "snippet": "US officials say flight stoppage stemmed from ‘routine maintenance’ as travel chaos continues"
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/us-duffy-says-incompetence-or-bad-tech-to-blame-for-flight-haltings/a-79949977?maca=en-rss-en-all-1573-rdf",
+          "title": "US: Duffy says 'incompetence' or bad tech to blame for flight haltings",
+          "snippet": "US: Duffy says 'incompetence' or bad tech to blame for flight haltings"
         },
         {
           "name": "Al Jazeera English",
@@ -375,51 +390,45 @@
           "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
           "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
           "snippet": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
-          "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
-          "snippet": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide"
         }
       ],
       "daily_buzz": {
-        "title_bn": "যুক্তরাষ্ট্রে নিয়মিত রক্ষণাবেক্ষণের কাজের কারণে ফ্লাইট চলাচল বন্ধ ছিল",
-        "title_en": "US flight stoppage stemmed from routine maintenance, officials say",
-        "summary_bn": "যুক্তরাষ্ট্রে চার ঘণ্টার দেশব্যাপী এফএএ ফ্লাইট গ্রাউন্ড স্টপ বা চলাচল বন্ধের ঘটনাটি রুটিন রক্ষণাবেক্ষণের কারণে ঘটেছে বলে জানিয়েছে দেশটির প্রশাসন।",
-        "summary_en": "The US administration says a four-hour nationwide FAA ground stop that delayed or canceled flights stemmed from routine maintenance.",
+        "title_bn": "যুক্তরাষ্ট্রে ফ্লাইট বাতিলের কারণ খতিয়ে দেখছে এফএএ",
+        "title_en": "US investigates causes behind mass flight groundings",
+        "summary_bn": "যুক্তরাষ্ট্রের পরিবহন সচিব শন ডাফি জানিয়েছেন, মার্কিন বিমান চলাচলে বড় ধরনের বিঘ্ন ঘটার পেছনে অযোগ্যতা অথবা ত্রুটিপূর্ণ প্রযুক্তি দায়ী কি না তা খতিয়ে দেখা হচ্ছে।",
+        "summary_en": "US Transportation Secretary Sean Duffy said investigations are ongoing to determine if incompetence or bad tech caused major flight groundings.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "tech_innovation",
-          "governance_law"
+          "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-14T17:11:18+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রে চার ঘণ্টার দেশব্যাপী এফএএ ফ্লাইট গ্রাউন্ড স্টপ বা চলাচল বন্ধের ঘটনাটি রুটিন রক্ষণাবেক্ষণের কারণে ঘটেছে বলে জানিয়েছে দেশটির প্রশাসন।",
-        "lead_en": "The US administration says a four-hour nationwide FAA ground stop that delayed or canceled flights stemmed from routine maintenance.",
+        "published_at": "2026-11-14T20:33:00+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের পরিবহন সচিব শন ডাফি জানিয়েছেন, মার্কিন বিমান চলাচলে বড় ধরনের বিঘ্ন ঘটার পেছনে অযোগ্যতা অথবা ত্রুটিপূর্ণ প্রযুক্তি দায়ী কি না তা খতিয়ে দেখা হচ্ছে।",
+        "lead_en": "US Transportation Secretary Sean Duffy said investigations are ongoing to determine if incompetence or bad tech caused major flight groundings.",
         "bullets_bn": [
-          "টেলিকমিউনিকেশন লাইন তামা থেকে ফাইবার অপটিক কেবলে পরিবর্তন করার সময় রুটিন রক্ষণাবেক্ষণ কাজ শুরু হয়েছিল।",
-          "অধিবেশনে এফএএ প্রধান ব্রায়ান বেডফোর্ড যাত্রীদের কাছে ক্ষমা চেয়ে জানিয়েছেন যে কৃত্রিম বুদ্ধিমত্তা বা নাশকতার কোনো প্রমাণ নেই।",
-          "এয়ারলাইন অংশীদারদের কাছ থেকে পাওয়া তথ্যের ভিত্তিতে ের মধ্যে শিডিউল সম্পূর্ণ স্বাভাবিক হবে বলে আশা করা হচ্ছে।"
+          "পরিবহন সচিব শন ডাফি জানিয়েছেন, এ ঘটনায় কোনো ধরনের অসৎ কাজের প্রমাণ পাওয়া যায়নি।",
+          "এফএএ প্রশাসক ব্রায়ান বেডফোর্ড জানিয়েছেন, ও মোট ১৬,০০০ ফ্লাইট বিলম্বিত হয়েছে।",
+          "কর্তৃপক্ষ আশা করছে, রোববারের মধ্যে ফ্লাইট সূচি স্বাভাবিক অবস্থায় ফিরে আসবে।"
         ],
         "bullets_en": [
-          "Issues began when a contractor performed routine maintenance at a remote FAA facility to switch telecommunications lines.",
-          "FAA head Bryan Bedford apologized to passengers and stated there is zero evidence of anything nefarious or AI-related.",
-          "Airline partners believe they will have full schedule integrity by the close of business on Sunday."
+          "Transportation Secretary Sean Duffy said no evidence of malfeasance had been found.",
+          "FAA Administrator Bryan Bedford said a total of 16,000 flights had been delayed on Friday and Saturday.",
+          "Officials expressed hope that flight schedules would return to normal sometime Sunday."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "পরিবহন সচিব শন ডাফি জানিয়েছেন, এটি অযোগ্যতা নাকি ত্রুটিপূর্ণ রাউটার ইনস্টল করার কারণে হয়েছে তা খতিয়ে দেখা হচ্ছে। এফএএ প্রধান ব্রায়ান বেডফোর্ড উল্লেখ করেছেন যে বিশৃঙ্খলার সবচেয়ে খারাপ সময়টি পেছনে ফেলে আসা হয়েছে এবং ের মধ্যে পরিস্থিতি সম্পূর্ণ স্বাভাবিক হবে।",
-        "details_en": "Transportation secretary Sean Duffy said officials are working to determine if there was incompetence or a faulty router installed. FAA head Bryan Bedford noted that the worst of the disruption is behind them and full schedule recovery is expected by Sunday."
+        "details_bn": "যুক্তরাষ্ট্রের ইতিহাসে এক সেপ্টেম্বর হামলা পরবর্তী সময়ে এটি ছিল সবচেয়ে বড় দেশব্যাপী ফ্লাইট স্থগিতের ঘটনা। এলথ্রি হ্যারিস নামক একটি পুরনো ঠিকাদার প্রতিষ্ঠানের কর্মীরা পুরনো তামার তারের বদলে ফাইবার অপটিক ক্যাবল লাগানোর সময় ত্রুটিপূর্ণ রাউটার স্থাপন অথবা সিস্টেম ওভারলোডের কারণে এই সমস্যার সৃষ্টি হতে পারে বলে ধারণা করা হচ্ছে। এই বিশৃঙ্খলার ফলে আন্তর্জাতিক বাহকরাও যুক্তরাষ্ট্রে ফ্লাইট বাতিল করতে বাধ্য হয় এবং বহু কলেজ ও পেশাদার ক্রীড়া ইভেন্ট স্থগিত করতে হয়।",
+        "details_en": "This marked the largest nationwide grounding of flights in the US since the September 11, 2001, terror attacks. Officials pointed to possible contractor incompetence by legacy contractor L3Harris while replacing aged copper wire with new fiberoptic cable. The disruption forced international carriers to cancel flights to the US and prompted the rescheduling of numerous sporting events."
       },
-      "desk_importance": 7.0,
-      "outlet_count": 4,
+      "desk_importance": 6.0,
+      "outlet_count": 3,
       "trending": true,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-14T20:02:11.808754+00:00"
+        "checked_at": "2026-11-14T21:01:17.498585+00:00"
       }
     }
   ]
