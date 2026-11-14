@@ -116,6 +116,23 @@ Return JSON only:
 Each article number may appear in at most one event."""
 
 
+def _as_int_list(value) -> List[int]:
+    """Article numbers as ints, tolerating replies like ["[3]", "7"] or a bare number."""
+    if not isinstance(value, list):
+        value = [value]
+    numbers = []
+    for item in value:
+        if isinstance(item, bool):
+            continue
+        if isinstance(item, int):
+            numbers.append(item)
+        elif isinstance(item, (str, float)):
+            digits = "".join(ch for ch in str(item).split(".")[0] if ch.isdigit())
+            if digits:
+                numbers.append(int(digits))
+    return numbers
+
+
 def _order_articles(articles: List[RawArticle]) -> List[RawArticle]:
     """Lead with the report most likely to give the synthesizer a full article body."""
     def richness(art: RawArticle) -> int:
@@ -150,15 +167,17 @@ def build_desk_events(
 
     events: List[ClusteredEvent] = []
     used: set = set()
+    dropped = {"no valid article numbers": 0, "below importance threshold": 0}
 
     for raw in raw_events:
         if not isinstance(raw, dict):
             continue
-        ids = [
-            n for n in raw.get("articles", [])
-            if isinstance(n, int) and 1 <= n <= len(articles) and n not in used
-        ]
+        ids = []
+        for n in _as_int_list(raw.get("articles") or raw.get("article_ids") or raw.get("ids")):
+            if 1 <= n <= len(articles) and n not in used and n not in ids:
+                ids.append(n)
         if not ids:
+            dropped["no valid article numbers"] += 1
             continue
         used.update(ids)
 
@@ -167,6 +186,7 @@ def build_desk_events(
         except (TypeError, ValueError):
             importance = 1.0
         if importance < DESK_MIN_IMPORTANCE:
+            dropped["below importance threshold"] += 1
             continue
 
         members = _order_articles([articles[n - 1] for n in ids])
@@ -206,5 +226,10 @@ def build_desk_events(
         )
         events.append(event)
 
+    print(f"   Desk returned {len(raw_events)} events; kept {len(events)}, dropped {dropped}.")
+    if not events:
+        print(f"⚠️ AI news desk kept no events. First raw event: {str(raw_events[0])[:300]}")
+        return None
+
     events.sort(key=lambda e: e.rank_score, reverse=True)
-    return events or None
+    return events
