@@ -1,150 +1,94 @@
 {
-  "updated_at": "2026-11-14T12:36:36.565300",
+  "updated_at": "2026-11-14T12:39:15.525177",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "218b4dc8-9e8a-52a9-b45e-37e6752e1bc1",
-      "primary_category": "governance_law",
+      "story_id": "75ec305d-fda1-5e62-a9d7-058799ef108d",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "governance_law",
-        "society_education",
-        "climate_environment"
+        "economy_business",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1630330349438-206954d8ad14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cHJpbWUlMjBtaW5pc3RlciUyMHRhcmlxdWUlMjByYWhtYW4lMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTQ2NTk4Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1722871513349-45c61ed6aa5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZmluYW5jZSUyMGVjb25vbXklMjBiYW5nbGFkZXNofGVufDF8MHx8fDE3OTQ2NjAwMjh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-14T12:14:45+00:00",
+      "published_at": "2026-11-14T11:45:56+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 6.4317,
+      "importance_score": 10.0,
+      "rank_score": 9.3901,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/980899/%E2%80%98%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%B6%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%B6%E0%A6%BF-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A7%8B%E0%A6%A7",
-          "title": "‘পরিচ্ছন্ন রাজনীতির পাশাপাশি সামাজিক মূল্যবোধ ফিরিয়ে আনতে চান প্রধানমন্ত্রী’",
-          "snippet": "‘পরিচ্ছন্ন রাজনীতির পাশাপাশি সামাজিক মূল্যবোধ ফিরিয়ে আনতে চান প্রধানমন্ত্রী’"
+          "url": "https://www.banglatribune.com/business/980896/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%8F%E0%A6%B2%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%AC%E0%A7%87%E0%A6%A8",
+          "title": "শ্রমিকেরা কাজে না এলে কারখানা বন্ধ রাখতে পারবেন মালিকরা: বিজিএমইএ",
+          "snippet": "শ্রমিকেরা কাজে না এলে কারখানা বন্ধ রাখতে পারবেন মালিকরা: বিজিএমইএ"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/factory-owners-announce-that-factories-will-remain-closed-starting-sunday-if-workers-do-not-return-to-work/",
+          "title": "শ্রমিকরা কাজে না ফিরলে রোববার থেকে কারখানা বন্ধ, মালিকদের ঘোষণা",
+          "snippet": "শ্রমিকরা কাজে না ফিরলে রোববার থেকে কারখানা বন্ধ, মালিকদের ঘোষণা"
+        },
+        {
+          "name": "BBC News বাংলা",
+          "url": "https://www.bbc.com/bengali/articles/ckwy9xxwdn0qo?at_medium=RSS&at_campaign=rss",
+          "title": "বিক্ষোভ চলতে থাকলে কারখানা বন্ধ রাখার ঘোষণা পোশাক মালিকদের",
+          "snippet": "বিক্ষোভ চলতে থাকলে কারখানা বন্ধ রাখার ঘোষণা পোশাক মালিকদের"
+        },
+        {
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/news/more-factories-may-enforce-no-work-no-pay-tomorrow-bgmea-4323566",
+          "title": "More factories may enforce no work, no pay from tomorrow: BGMEA",
+          "snippet": "More factories may enforce no work, no pay from tomorrow: BGMEA"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পরিচ্ছন্ন রাজনীতি ও সামাজিক মূল্যবোধ ফেরাতে কাজ করছেন প্রধানমন্ত্রী তারেক রহমান",
-        "title_en": "Prime Minister Tarique Rahman works to restore clean politics and social values",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান পরিচ্ছন্ন রাজনীতির পাশাপাশি সামাজিক মূল্যবোধ ফিরিয়ে আনতে কাজ করছেন বলে জানিয়েছেন তার প্রেস সচিব সালেহ শিবলী।",
-        "summary_en": "Prime Minister Tarique Rahman is working to restore clean politics alongside social values, said his press secretary Saleh Shibli.",
+        "title_bn": "শ্রমিকরা কাজে না ফিরলে কারখানা বন্ধ রাখার ঘোষণা বিজিএমইএ ও বিকেএমইএ-র",
+        "title_en": "BGMEA and BKMEA announce factory closures if workers do not return",
+        "summary_bn": "শ্রমিকেরা কাজে যোগ না দিলে শ্রম আইনের ১৩(১) ধারা অনুযায়ী কারখানা বন্ধ রাখার ঘোষণা দিয়েছে তৈরি পোশাকশিল্প মালিকদের দুই সংগঠন বিজিএমইএ ও বিকেএমইএ।",
+        "summary_en": "RMG owners associations BGMEA and BKMEA announced that factories can be closed under section 13(1) of the labour act if workers do not join work.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "society_education",
-          "climate_environment"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-14T12:14:45+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান পরিচ্ছন্ন রাজনীতির পাশাপাশি সামাজিক মূল্যবোধ ফিরিয়ে আনতে কাজ করছেন বলে জানিয়েছেন তার প্রেস সচিব সালেহ শিবলী।",
-        "lead_en": "Prime Minister Tarique Rahman is working to restore clean politics alongside social values, said his press secretary Saleh Shibli.",
-        "bullets_bn": [
-          "সালেহ শিবলী জানান যে প্রধানমন্ত্রী কীভাবে পরিবেশ পরিচ্ছন্ন রাখা যায় সে বিষয়েও গুরুত্বারোপ করেন।",
-          "সালেহ শিবলী এই কথাগুলো জানান রাজধানীর তেজগাঁওয়ে প্রধানমন্ত্রীর কার্যালয়ে সাংবাদিকদের ব্রিফিংয়ে।",
-          "সাংবাদিকদের সাথে এই ব্রিফিং অনুষ্ঠিত হয় ১৪ নভেম্বর তারিখে।"
-        ],
-        "bullets_en": [
-          "Saleh Shibli stated that the Prime Minister also emphasized how to keep our environment clean.",
-          "Saleh Shibli made these remarks during a briefing with journalists at the Prime Minister's Office in Tejgaon, Dhaka.",
-          "This briefing with journalists took place on the date of 14 November."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সালেহ শিবলী রাজধানীর তেজগাঁওয়ে প্রধানমন্ত্রীর কার্যালয়ে সাংবাদিকদের ব্রিফিংয়ে এই তথ্যগুলো জানান। ওই ব্রিফিংয়ে রাজধানীর পরিচ্ছন্নতা কার্যক্রমের বিষয় নিয়েও আলোচনা হয়।",
-        "details_en": "Saleh Shibli provided this information during a briefing with journalists at the Prime Minister's Office in Tejgaon, Dhaka. The capital's cleanliness activities were also discussed during that briefing."
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-14T12:37:21.417116+00:00"
-      }
-    },
-    {
-      "story_id": "5ebc65ba-72c0-5779-a650-85bb8871e387",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#RuhulKabirRizvi",
-        "#SheikhHasina",
-        "#BNP",
-        "#JuboDal"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/14/903971200_2260950554800012_6306672039153024334_n.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-14T10:35:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.2,
-      "rank_score": 6.2527,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/politics/fugitive-hasina-cannot-return-or-get-passport-under-mujibs-1973-law-rizvi",
-          "title": "Fugitive Hasina cannot return or get passport under Mujib’s 1973 law: Rizvi",
-          "snippet": "Fugitive Hasina cannot return or get passport under Mujib’s 1973 law: Rizvi"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/424617/rizvi-hasina-has-no-legal-scope-to-obtain",
-          "title": "Rizvi: Hasina has no legal scope to obtain passport",
-          "snippet": "Rizvi: Hasina has no legal scope to obtain passport"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/hasina-will-return-under-extradition-treaty-with-india-says-law-minister",
-          "title": "Hasina will return under extradition treaty with India, says law minister",
-          "snippet": "Hasina will return under extradition treaty with India, says law minister"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "শেখ হাসিনা পাসপোর্টের যোগ্য নন এবং ফিরতে পারবেন না: রিজভী",
-        "title_en": "Hasina cannot obtain passport and return, says Rizvi",
-        "summary_bn": "বিএনপি নেতা রুহুল কবির রিজভী বলেছেন, মানবতাবিরোধী অপরাধে দণ্ডিত পলাতক হিসেবে শেখ হাসিনার ১৯৭৩ সালের আইন অনুযায়ী দেশে ফেরার বা পাসপোর্ট পাওয়ার কোনো সুযোগ নেই।",
-        "summary_en": "BNP leader Ruhul Kabir Rizvi said that as a fugitive convicted of crimes against humanity, Sheikh Hasina has no scope to return or obtain a passport.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
+          "economy_business",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-14T10:35:00+00:00",
-        "lead_bn": "বিএনপি নেতা রুহুল কবির রিজভী বলেছেন, মানবতাবিরোধী অপরাধে দণ্ডিত পলাতক হিসেবে শেখ হাসিনার ১৯৭৩ সালের আইন অনুযায়ী দেশে ফেরার বা পাসপোর্ট পাওয়ার কোনো সুযোগ নেই।",
-        "lead_en": "BNP leader Ruhul Kabir Rizvi said that as a fugitive convicted of crimes against humanity, Sheikh Hasina has no scope to return or obtain a passport.",
+        "published_at": "2026-11-14T11:45:56+00:00",
+        "lead_bn": "শ্রমিকেরা কাজে যোগ না দিলে শ্রম আইনের ১৩(১) ধারা অনুযায়ী কারখানা বন্ধ রাখার ঘোষণা দিয়েছে তৈরি পোশাকশিল্প মালিকদের দুই সংগঠন বিজিএমইএ ও বিকেএমইএ।",
+        "lead_en": "RMG owners associations BGMEA and BKMEA announced that factories can be closed under section 13(1) of the labour act if workers do not join work.",
         "bullets_bn": [
-          "রিজভী বলেন, শেখ হাসিনাকে মানবতাবিরোধী অপরাধ এবং অন্যান্য বিচারাধীন মামলার সমস্ত সাজা ভোগ করতে হবে।",
-          "ঢাকা সাউথ যুবদলের আয়োজনে জাতীয় প্রেস ক্লাব থেকে শাহবাগ পর্যন্ত একটি প্রতিবাদ মিছিলের পর সংক্ষিপ্ত সমাবেশে তিনি এ মন্তব্য করেন।",
-          "তিনি দাবি করেন, আওয়ামী লীগ নেতাদের কিছু অংশ কলকাতা ও ব্যাংককে বিলাসবহুল জীবন কাটাচ্ছেন আর কর্মীদের বোমা ও আতশবাজি দিতে উৎসাহিত করছেন।"
+          "সাভার, আশুলিয়া ও গাজীপুরের বিভিন্ন কারখানায় উৎপাদন ব্যাহত হওয়ার কথা জানিয়েছে সংগঠন দুটি।",
+          "বিজিএমইএর সভাপতি মাহমুদ হাসান খান ঢাকার উত্তরায় বিজিএমইএর কার্যালয়ে এক সংবাদ সম্মেলনে এ ঘোষণা দেন।",
+          "এই ধারায় কারখানা বন্ধ থাকলে শ্রমিকেরা কোনো মজুরি পাবেন না।"
         ],
         "bullets_en": [
-          "Rizvi said Hasina must serve every sentence handed down against her for crimes against humanity and pending cases.",
-          "He made the remarks at a brief rally following a protest procession organised by Dhaka South Jubo Dal from the National Press Club to Shahbagh.",
-          "He claimed some Awami League leaders are living luxuriously abroad while grassroots activists are encouraged to use bombs and set off fireworks."
+          "The two organisations stated that production was disrupted in various factories in Savar, Ashulia, and Gazipur.",
+          "BGMEA President Mahmud Hasan Khan announced this at a press briefing at the association office in Dhaka's Uttara.",
+          "Workers will not receive any wages if factories remain closed under this section."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "১৪ নভেম্বর প্রকাশিত প্রতিবেদনে জানানো হয়, আইনমন্ত্রী বলেছেন শেখ হাসিনা ভারতের সঙ্গে প্রত্যর্পণ চুক্তির আওতায় ফিরবেন। রুহুল কবির রিজভী অভিযোগ করেন, শেখ মুজিবুর রহমান বাকশাল প্রবর্তনের মাধ্যমে ফ্যাসিবাদী শাসন প্রতিষ্ঠা করেছিলেন এবং যুবদল ও বিএনপির কর্মীরা এসব কার্যকলাপে ভীত হবে না।",
-        "details_en": "Reports published on 14 November stated that the law minister said Hasina will return under an extradition treaty with India. Ruhul Kabir Rizvi alleged that Sheikh Mujibur Rahman established fascist rule through Baksal and that Jubo Dal and BNP activists would not be intimidated."
+        "details_bn": "পোশাক শ্রমিকদের মজুরি নির্ধারণ ঘিরে দেশের তৈরি পোশাক শিল্পে অস্থিরতা অব্যাহত রয়েছে। বিভিন্ন এলাকায় আন্দোলনে নামছেন অনেক শ্রমিক। আন্দোলনের নামে ভাঙচুর ও রাস্তাঘাট অবরোধ অব্যাহত রয়েছে এবং শ্রমিকরা কাজে যোগ দিচ্ছেন না। এরই মধ্যে সাভার, আশুলিয়া ও গাজীপুরের বিভিন্ন কারখানায় উৎপাদন ব্যাহত হয়েছে। পরিস্থিতির কারণে বিভিন্ন কারখানায় উৎপাদন বন্ধ রয়েছে এবং শ্রমিকরা ঢাকা-টাঙ্গাইল মহাসড়ক অবরোধ করেছেন।",
+        "details_en": "Unrest continues in the country's readymade garment industry surrounding wage determination for garment workers. Many workers have taken to protests in various areas. Vandalism and road blockades in the name of movement continue, and workers are not joining work. Meanwhile, production has been disrupted in various factories in Savar, Ashulia, and Gazipur. Due to the situation, production has halted in several units and workers blocked the Dhaka-Tangail highway."
       },
+      "desk_importance": 8.0,
+      "outlet_count": 6,
+      "trending": true,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-14T12:37:21.417116+00:00"
+        "checked_at": "2026-11-14T12:40:43.374772+00:00"
       }
     },
     {
-      "story_id": "a022af00-0b07-5046-8ead-2b07df5c070c",
+      "story_id": "87aeff76-5e73-57d6-ace3-e14294821e9d",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
-        "society_education",
-        "economy_business",
         "world_diplomacy"
       ],
       "region": "national",
@@ -152,250 +96,344 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1614610741181-2bce5e06976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmdiJTIwZGV0YWlucyUyMHBlb3BsZSUyMGlsbGVnYWwlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTQ2NTk4MzR8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1715927134295-6b1016e28414?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8aHNpYSUyMHRoaXJkJTIwdGVybWluYWwlMjBvcGVuJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk0NjYwMDMxfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-14T12:10:48+00:00",
+      "published_at": "2026-11-14T11:42:56+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 4.6563,
+      "importance_score": 10.0,
+      "rank_score": 9.3576,
       "sources": [
         {
           "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/820960/%E0%A6%85%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AC%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%87-%E0%A7%AA%E0%A7%AD%E0%A7%A7-%E0%A6%9C%E0%A6%A8-%E0%A6%86%E0%A6%9F%E0%A6%95-%E0%A7%A8%E0%A7%AD%E0%A7%A9-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0",
-          "title": "অক্টোবরে সীমান্তে ৪৭১ জন আটক, ২৭৩ কোটি টাকার চোরাচালান পণ্য জব্দ",
-          "snippet": "অক্টোবরে সীমান্তে ৪৭১ জন আটক, ২৭৩ কোটি টাকার চোরাচালান পণ্য জব্দ"
+          "url": "https://www.ittefaq.com.bd/820954/%E0%A7%A7%E0%A7%AC-%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A6%86%E0%A6%82%E0%A6%B6%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A7%81-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%A4%E0%A7%83%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B2",
+          "title": "১৬ ডিসেম্বর আংশিক চালু হচ্ছে তৃতীয় টার্মিনাল, প্রস্তুতি শেষ করার নির্দেশ",
+          "snippet": "১৬ ডিসেম্বর আংশিক চালু হচ্ছে তৃতীয় টার্মিনাল, প্রস্তুতি শেষ করার নির্দেশ"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/aviation/dhaka-airports-3rd-terminal-set-partial-launch-16-dec-1602166",
+          "title": "Dhaka airport's 3rd terminal set for partial launch on 16 Dec",
+          "snippet": "Dhaka airport's 3rd terminal set for partial launch on 16 Dec"
+        },
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/8ycuhul1xx",
+          "title": "১৬ ডিসেম্বর চালু হচ্ছে শাহজালাল বিমানবন্দরের তৃতীয় টার্মিনাল",
+          "snippet": "১৬ ডিসেম্বর চালু হচ্ছে শাহজালাল বিমানবন্দরের তৃতীয় টার্মিনাল"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/hsias-third-terminal-to-open-with-four-flights-on-dec-16-minister",
+          "title": "HSIA's third terminal to open with four flights on Dec 16: Minister",
+          "snippet": "HSIA's third terminal to open with four flights on Dec 16: Minister"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সীমান্তে অবৈধ অনুপ্রবেশের দায়ে অক্টোবরে ৪৭১ জন আটক করেছে বিজিবি",
-        "title_en": "BGB detains 471 people for illegal border crossing in October",
-        "summary_bn": "সীমান্তে অবৈধ অনুপ্রবেশের দায়ে গত অক্টোবর মাসে ৪৭১ জনকে আটক করেছে বর্ডার গার্ড বাংলাদেশ (বিজিবি)।",
-        "summary_en": "Border Guard Bangladesh detained 471 people for illegal border crossing in October.",
+        "title_bn": "১৬ ডিসেম্বর আংশিক চালু হচ্ছে শাহজালাল বিমানবন্দরের তৃতীয় টার্মিনাল",
+        "title_en": "HSIA's third terminal to open partially on December 16",
+        "summary_bn": "হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরের তৃতীয় টার্মিনাল আগামী ১৬ ডিসেম্বর আংশিকভাবে চালুর ঘোষণা দিয়েছেন মন্ত্রী।",
+        "summary_en": "The minister announced that the third terminal of Hazrat Shahjalal International Airport will open partially on December 16.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law",
-          "society_education",
-          "economy_business",
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-14T12:10:48+00:00",
-        "lead_bn": "সীমান্তে অবৈধ অনুপ্রবেশের দায়ে গত অক্টোবর মাসে ৪৭১ জনকে আটক করেছে বর্ডার গার্ড বাংলাদেশ (বিজিবি)।",
-        "lead_en": "Border Guard Bangladesh detained 471 people for illegal border crossing in October.",
+        "published_at": "2026-11-14T11:42:56+00:00",
+        "lead_bn": "হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরের তৃতীয় টার্মিনাল আগামী ১৬ ডিসেম্বর আংশিকভাবে চালুর ঘোষণা দিয়েছেন মন্ত্রী।",
+        "lead_en": "The minister announced that the third terminal of Hazrat Shahjalal International Airport will open partially on December 16.",
         "bullets_bn": [
-          "আটক ব্যক্তিদের মধ্যে ৩৫০ জন মিয়ানমারের নাগরিক, ১১৪ জন বাংলাদেশি ও ৭ জন ভারতীয় নাগরিক রয়েছেন।",
-          "একই সময়ে সীমান্তসহ দেশের বিভিন্ন স্থানে অভিযান চালিয়ে ২৭৩ কোটি ৩৭ লাখ ৬৫ হাজার টাকা মূল্যের চোরাচালান পণ্য জব্দ করা হয়েছে।",
-          "বিজিবির জনসংযোগ কর্মকর্তা মো. শরীফুল ইসলাম এই তথ্য জানান।"
+          "বেসামরিক বিমান পরিবহন ও পর্যটনমন্ত্রী এম রশিদুজ্জামান মিল্লাত প্রস্তুতি শেষ করার নির্দেশ দিয়েছেন।",
+          "তৃতীয় টার্মিনালটি চারটি ফ্লাইট দিয়ে চালু হবে বলে জানিয়েছেন মন্ত্রী।",
+          "১৪ নভেম্বর বেসামরিক বিমান চলাচল কর্তৃপক্ষের সম্মেলন কক্ষে একটি প্রস্তুতিমূলক সভা অনুষ্ঠিত হয়।"
         ],
         "bullets_en": [
-          "Among the detainees are 350 Myanmar nationals, 114 Bangladeshis, and 7 Indian nationals.",
-          "Smuggled goods worth Tk 273 crore 37 lakh 65 thousand were seized during drives across the border and various parts of the country.",
-          "BGB public relations officer Md Shariful Islam shared this information."
+          "Civil Aviation and Tourism Minister M Rashiduzzaman Millat directed authorities to complete preparations.",
+          "The minister stated that the third terminal will open with four flights.",
+          "A preparatory meeting took place on November 14 at the conference room of the Civil Aviation Authority."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null
+        "details_bn": "বেসামরিক বিমান পরিবহন ও পর্যটনমন্ত্রী এম রশিদুজ্জামান মিল্লাতের নির্দেশনা অনুযায়ী হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরের তৃতীয় টার্মিনাল চালুর লক্ষ্যে ১৪ নভেম্বর বেসামরিক বিমান চলাচল কর্তৃপক্ষের সম্মেলন কক্ষে প্রস্তুতিমূলক সভা হয়।",
+        "details_en": "A preparatory meeting regarding the opening of the third terminal was held on November 14 at the conference room of the Civil Aviation Authority, following directives from Civil Aviation and Tourism Minister M Rashiduzzaman Millat."
       },
+      "desk_importance": 8.0,
+      "outlet_count": 4,
+      "trending": true,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-14T12:37:21.417116+00:00"
+        "checked_at": "2026-11-14T12:40:43.374772+00:00"
       }
     },
     {
-      "story_id": "b5c6d082-5084-5b5a-ad5a-92391b8686c7",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_bengali/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-14T09:47:14+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 3.4,
-      "rank_score": 2.7941,
-      "sources": [
-        {
-          "name": "BBC News বাংলা",
-          "url": "https://www.bbc.com/bengali/articles/cq98xdy1yx6po?at_medium=RSS&at_campaign=rss",
-          "title": "ট্রাম্প, পুতিন ও শি আগামী সপ্তাহে চীনে যৌথ বৈঠকের পরিকল্পনা করছেন",
-          "snippet": "ট্রাম্প, পুতিন ও শি আগামী সপ্তাহে চীনে যৌথ বৈঠকের পরিকল্পনা করছেন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "চীনে যৌথ বৈঠকের পরিকল্পনা করছেন ট্রাম্প, পুতিন ও শি",
-        "title_en": "Trump, Putin and Xi plan joint meeting in China",
-        "summary_bn": "হোয়াইট হাউস জানিয়েছে, আগামী সপ্তাহে চীনে একটি শীর্ষ সম্মেলনের ফাঁকে ডোনাল্ড ট্রাম্প, ভ্লাদিমির পুতিন ও শি জিনপিং বৈঠক করার পরিকল্পনা করছেন।",
-        "summary_en": "The White House stated that Donald Trump, Vladimir Putin and Xi Jinping plan to meet on the sidelines of a summit in China next week.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-14T09:47:14+00:00",
-        "lead_bn": "হোয়াইট হাউস জানিয়েছে, আগামী সপ্তাহে চীনে একটি শীর্ষ সম্মেলনের ফাঁকে ডোনাল্ড ট্রাম্প, ভ্লাদিমির পুতিন ও শি জিনপিং বৈঠক করার পরিকল্পনা করছেন।",
-        "lead_en": "The White House stated that Donald Trump, Vladimir Putin and Xi Jinping plan to meet on the sidelines of a summit in China next week.",
-        "bullets_bn": [
-          "দক্ষিণাঞ্চলীয় শহর শেনজেনে এশিয়া-প্যাসিফিক ইকোনমিক কো-অপারেশন সম্মেলনে এই বৈঠক অনুষ্ঠিত হবে।",
-          "প্রেসিডেন্ট ট্রাম্প বিশ্বে পারমাণবিক অস্ত্র হ্রাস নিয়ে আলোচনা করবেন বলে হোয়াইট হাউসের মুখপাত্র অলিভিয়া ওয়েলস জানিয়েছেন।",
-          "আলোচনা শেষে কোনো চুক্তি হওয়ার সম্ভাবনা নেই বলে এক ঊর্ধ্বতন মার্কিন কর্মকর্তা জানিয়েছেন।"
-        ],
-        "bullets_en": [
-          "The meeting will take place during the Asia-Pacific Economic Cooperation summit in the southern city of Shenzhen.",
-          "White House spokesperson Olivia Wells stated that President Trump will discuss reducing nuclear weapons globally.",
-          "A senior US official stated that an agreement is not expected to be reached at the end of the discussions."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "২১টি সদস্য রাষ্ট্রের দুই দিনব্যাপী শীর্ষ সম্মেলনে যোগ দিতে ট্রাম্প চীনের শেনজেনে পৌঁছাবেন এবং শি জিনপিং এর সঙ্গে দ্বিপাক্ষিক আলোচনায় অংশ নেবেন। ২০২৫ সালে মার্কিন প্রেসিডেন্ট হিসাবে ট্রাম্প পুনরায় দায়িত্ব গ্রহণের পর এটি হবে তাদের চতুর্থ বৈঠক। মার্কিন যুক্তরাষ্ট্রের প্রেসিডেন্ট, গণপ্রজাতন্ত্রী চীনের প্রেসিডেন্ট এবং রুশ ফেডারেশনের প্রেসিডেন্টের মধ্যে একটি ত্রিপক্ষীয় বৈঠকের মাধ্যমে প্রেসিডেন্ট ট্রাম্প তার চীন সফর শেষ করবেন।",
-        "details_en": "Trump will arrive in Shenzhen, China, on Wednesday night to attend the two-day summit of twenty-one member states and will participate in bilateral talks with Xi Jinping on Thursday. This will be their fourth meeting since Trump assumed office again as US President in 2025. President Trump will conclude his visit to China through a trilateral meeting among the President of the United States, the President of the People's Republic of China, and the President of the Russian Federation."
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-14T12:37:21.417116+00:00"
-      }
-    },
-    {
-      "story_id": "78f55637-298d-571e-af6d-24f8e1d7d0b7",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#VolodymyrZelensky",
-        "#Nato",
-        "#Donbas",
-        "#Ukraine"
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-14T11:41:20+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.55,
-      "rank_score": 2.3909,
-      "sources": [
-        {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-          "snippet": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says"
-        },
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
-          "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
-          "snippet": "Three killed in Russia as Ukraine claims US floated NATO membership option"
-        },
-        {
-          "name": "Politico Europe",
-          "url": "https://www.politico.eu/article/us-suggested-ukraine-could-give-up-donbas-for-nato-membership-zelenskyy-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "title": "US suggested Ukraine could give up Donbas for NATO membership, Zelenskyy says",
-          "snippet": "US suggested Ukraine could give up Donbas for NATO membership, Zelenskyy says"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ন্যাটো সদস্যপদের বিনিময়ে দনবাস ত্যাগের প্রস্তাব যুক্তরাষ্ট্রের",
-        "title_en": "US floated Ukraine ceding Donbas for Nato membership",
-        "summary_bn": "যুক্তরাষ্ট্রের মধ্যস্থতাকারীরা ন্যাটোর সদস্যপদের বিনিময়ে ইউক্রেনকে পূর্ব দনবাস অঞ্চল থেকে তাদের অবশিষ্ট বাহিনী প্রত্যাহারের কথা বলেছেন বলে জানিয়েছেন ভলোদিমির জেলেনস্কি।",
-        "summary_en": "US negotiators have touted the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for Nato membership, Volodymyr Zelensky has said.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-14T11:41:20+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের মধ্যস্থতাকারীরা ন্যাটোর সদস্যপদের বিনিময়ে ইউক্রেনকে পূর্ব দনবাস অঞ্চল থেকে তাদের অবশিষ্ট বাহিনী প্রত্যাহারের কথা বলেছেন বলে জানিয়েছেন ভলোদিমির জেলেনস্কি।",
-        "lead_en": "US negotiators have touted the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for Nato membership, Volodymyr Zelensky has said.",
-        "bullets_bn": [
-          "ইউক্রেনের প্রেসিডেন্ট ভলোদিমির জেলেনস্কি জানিয়েছেন যে এই প্রথম এই বিষয়টি উত্থাপন করা হয়েছে।",
-          "যুক্তরাষ্ট্রের দূত জ্যারেড কুশনার এবং স্টিভ উইটকফ আয়ারল্যান্ডের রাজধানী ডাবলনে জেলেনস্কির সঙ্গে বৈঠক করেছেন।",
-          "নিরাপত্তা গ্যারান্টি, সামরিক বাহিনীতে কোনো সীমাবদ্ধতা না থাকা এবং পুনর্গঠনের তহবিল পেলে তিনি এটি গণভোটে দেবেন বলে জানিয়েছেন।"
-        ],
-        "bullets_en": [
-          "Ukrainian President Volodymyr Zelensky told reporters that this was the first time this had been raised.",
-          "US envoys Jared Kushner and Steve Witkoff travelled to the Irish capital to meet Zelensky.",
-          "Zelensky said he would put a proposal containing security guarantees, no military constraints, and rebuilding funds to a referendum."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "রাশিয়া ও ইউক্রেনের মধ্যকার যুদ্ধ অবসানের প্রচেষ্টার অংশ হিসেবে যুক্তরাষ্ট্রের দূতরা মস্কোয় রুশ প্রেসিডেন্ট ভ্লাদিমির পুতিনের সঙ্গে এক দফা বৈঠকের পর ডাবলনে যান। কিয়েভ শান্তি চুক্তির শর্ত হিসেবে সামরিক জোটে সদস্যপদ চেয়েছে, অন্যদিকে রাশিয়া সীমান্তে আরেকটি ন্যাটো সদস্যকে অগ্রহণযোগ্য বলে জানিয়েছে। জেলেনস্কি সার্বভৌম ভূখণ্ড ছেড়ে দিতে অস্বীকার করলেও, পুতিন এবং ক্রেমলিনের কর্মকর্তাদের মন্তব্য ইঙ্গিত দেয় যে রাশিয়ার অবস্থান পরিবর্তিত হয়নি।",
-        "details_en": "US envoys travelled to the Irish capital to meet Zelensky after a round of talks with Russian President Vladimir Putin in Moscow, as part of ongoing efforts to end the war between Russia and Ukraine. Kyiv has long sought membership of the military alliance as a condition of any peace deal, while Russia has said another Nato member on its border was unacceptable. Comments by Putin and Kremlin officials suggest that Russia's position has not shifted."
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-14T12:37:21.417116+00:00"
-      }
-    },
-    {
-      "story_id": "f9513401-1353-5e40-babe-fb0e69cf9870",
+      "story_id": "ffac0988-5a0c-5136-877c-b3452e6c6adb",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#BankOfEngland",
-        "#HuwPill",
-        "#Inflation",
-        "#InterestRates"
+        "#Bangladesh",
+        "#BankingSector",
+        "#DefaultLoans"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/a38c96c8800b9c310b145da3b85b637313c9011b/480_0_4783_3829/master/4783.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=22bf4369f273b4ac3f8d5e1f7019ad04",
+      "image_url": "https://images.unsplash.com/photo-1722871513403-1a56a543390a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGVmYXVsdCUyMGxvYW4lMjByYXRlJTIwYmFuZ2xhZGVzaCUyMGJ1c2luZXNzfGVufDF8MHx8fDE3OTQ2NjAwMzN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-14T12:05:52+00:00",
+      "published_at": "2026-11-14T11:49:25+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 1.6397,
+      "importance_score": 8.5,
+      "rank_score": 8.0137,
       "sources": [
         {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
-          "title": "Interest rate rises likely in coming months, Bank of England economist says",
-          "snippet": "Interest rate rises likely in coming months, Bank of England economist says"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/business/424615/report-banks-lacking-capital-to-absorb-losses-as",
+          "title": "Report: Banks lacking capital to absorb losses as NPLs hit 32.78%",
+          "snippet": "Report: Banks lacking capital to absorb losses as NPLs hit 32.78%"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ব্যাংক অব ইংল্যান্ডের প্রধান অর্থনীতিবিদ সুদের হার বাড়ানোর ইঙ্গিত দিয়েছেন।",
-        "title_en": "Bank of England chief economist signals further interest rate rises.",
-        "summary_bn": "ব্যাংক অব ইংল্যান্ডের প্রধান অর্থনীতিবিদ হুউ পিল মূল্যস্ফীতি মোকাবেলায় আগামী মাসে এবং ২০২৭ সালের শুরুর দিকে সুদের হার বাড়ানোর কথা বলেছেন।",
-        "summary_en": "Bank of England chief economist Huw Pill said the central bank will probably need to raise interest rates next month and again in early 2027.",
+        "title_bn": "বাংলাদেশের ব্যাংকিং খাতের খেলাপি ঋণের হার বেড়ে ৩২.৭৮ শতাংশ হয়েছে",
+        "title_en": "Default loan rate in Bangladesh banking sector surges to 32.78 percent",
+        "summary_bn": "বাংলাদেশের ব্যাংকিং খাতের খেলাপি ঋণের হার বেড়ে ৩২.৭৮ শতাংশে পৌঁছেছে, যার অর্থ হলো বিতরণ করা ঋণের প্রায় এক-তৃতীয়াংশ এখন খেলাপিতে পরিণত হয়েছে।",
+        "summary_en": "The default loan rate in Bangladesh's banking sector has surged to 32.78%, meaning nearly one-third of all disbursed loans are now non-performing.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-14T12:05:52+00:00",
-        "lead_bn": "ব্যাংক অব ইংল্যান্ডের প্রধান অর্থনীতিবিদ হুউ পিল মূল্যস্ফীতি মোকাবেলায় আগামী মাসে এবং ২০২৭ সালের শুরুর দিকে সুদের হার বাড়ানোর কথা বলেছেন।",
-        "lead_en": "Bank of England chief economist Huw Pill said the central bank will probably need to raise interest rates next month and again in early 2027.",
+        "published_at": "2026-11-14T11:49:25+00:00",
+        "lead_bn": "বাংলাদেশের ব্যাংকিং খাতের খেলাপি ঋণের হার বেড়ে ৩২.৭৮ শতাংশে পৌঁছেছে, যার অর্থ হলো বিতরণ করা ঋণের প্রায় এক-তৃতীয়াংশ এখন খেলাপিতে পরিণত হয়েছে।",
+        "lead_en": "The default loan rate in Bangladesh's banking sector has surged to 32.78%, meaning nearly one-third of all disbursed loans are now non-performing.",
         "bullets_bn": [
-          "হুউ পিল জানান যে চলতি মাসের শুরুতে সুদের হার ৩.৭৫ শতাংশ থেকে বাড়িয়ে ৪ শতাংশ করা হয়েছিল।",
-          "যুক্তরাজ্যের অর্থনীতি তৃতীয় প্রান্তিকে ০.৭ শতাংশ বৃদ্ধি পেয়েছে বলে নতুন উপাত্তে দেখা গেছে।",
-          "ইরান যুদ্ধের কারণে তেল ও গ্যাসের উচ্চ মূল্যের জেরে আগামী বছরের বসন্তে মূল্যস্ফীতি ৫ শতাংশে পৌঁছাবে বলে আশা করা হচ্ছে।"
+          "প্রতিবেদনে বলা হয়েছে যে ব্যাংকিং খাতের বিতরণ করা ঋণের প্রায় এক-তৃতীয়াংশ এখন খেলাপিতে রয়েছে।",
+          "এই খেলাপি ঋণগুলোর ৮০ শতাংশ থেকে ৯০ শতাংশ পুনরুদ্ধারের সম্ভাবনা কার্যত শূন্যের কোঠায় রয়েছে।",
+          "সংকট আরও বাড়িয়ে ব্যাংকগুলোর কাছে এই খেলাপি ঋণজনিত ক্ষতি পুষিয়ে নেওয়ার মতো প্রয়োজনীয় মূলধন নেই।"
         ],
         "bullets_en": [
-          "Huw Pill noted that earlier this month interest rates were nudged from 3.75% to 4%.",
-          "Recent figures showed the economy grew by 0.7% in the third quarter.",
-          "Inflation is expected to rise to 5% in spring next year, driven by high oil and gas prices."
+          "The report states that nearly one-third of all disbursed loans in the banking sector are now non-performing.",
+          "There is virtually zero likelihood of recovering 80% to 90% of these defaulted loans.",
+          "Compounding the crisis, banks lack the necessary capital to absorb the losses stemming from these defaulted loans."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "হুউ পিল ফিন্যান্সিয়াল টাইমসকে জানান যে কেন্দ্রীয় ব্যাংক মূল্যস্ফীতি ২ শতাংশে নামিয়ে আনতে যা প্রয়োজন তাই করবে। তিনি আরও উল্লেখ করেন যে শক্তিশালী অর্থনীতি এবং শ্রমিকদের মজুরি বাড়ানোর ক্ষমতার কারণে মূল্যস্ফীতি দীর্ঘ সময় ধরে উচ্চ পর্যায়ে থাকতে পারে। পিল জানান যে যুক্তরাষ্ট্র-ইসরাইল সংঘাতের অবসান এবং জ্বালানি মূল্য হ্রাসের সম্ভাবনা খুব কম।",
-        "details_en": "Pill told the Financial Times that the central bank would do what is necessary to get inflation back to 2% through time. He noted that the UK economy has gained strength over the last year, handing workers power to bid up wages. Pill added that he considered an end to the US-Israeli conflict with Iran and a fall in energy prices to be a very low probability."
+        "details_bn": null,
+        "details_en": null
       },
+      "desk_importance": 8.0,
+      "outlet_count": 1,
+      "trending": false,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-14T12:37:21.417116+00:00"
+        "checked_at": "2026-11-14T12:40:43.374772+00:00"
+      }
+    },
+    {
+      "story_id": "b240f3d9-8a4a-5dd6-be11-e6bf1127bf37",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGVuZ3VlJTIwY2xhaW1zJTIwbW9yZSUyMGxpdmVzJTIwZWR1Y2F0aW9ufGVufDF8MHx8fDE3OTQ2NjAwMzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-14T11:25:56+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 8.5,
+      "rank_score": 7.7993,
+      "sources": [
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/820953/%E0%A6%8F%E0%A6%95%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%A1%E0%A7%87%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A7%AE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3%E0%A6%B9%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%AD%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BF",
+          "title": "একদিনে ডেঙ্গুতে আরও ৮ প্রাণহানি, হাসপাতালে ভর্তি ১৬৭৪",
+          "snippet": "একদিনে ডেঙ্গুতে আরও ৮ প্রাণহানি, হাসপাতালে ভর্তি ১৬৭৪"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/eight-deaths-from-dengue-in-a-single-day/",
+          "title": "ডেঙ্গুতে আরও ৮ জনের মৃত্যু, হাসপাতালে ভর্তি বাড়ছে ঢাকায়",
+          "snippet": "ডেঙ্গুতে আরও ৮ জনের মৃত্যু, হাসপাতালে ভর্তি বাড়ছে ঢাকায়"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/dengue-claims-8-more-lives-24hrs-toll-hits-491-1602171",
+          "title": "Dengue claims 8 more lives in 24hrs, toll hits 491",
+          "snippet": "Dengue claims 8 more lives in 24hrs, toll hits 491"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ডেঙ্গুতে আরও আটজনের মৃত্যু ও এক হাজার ৬৭৪ জন হাসপাতালে ভর্তি",
+        "title_en": "Dengue claims 8 more lives as 1,674 are hospitalised",
+        "summary_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, ১৪ নভেম্বর পর্যন্ত গত ২৪ ঘণ্টায় ডেঙ্গুতে আটজনের মৃত্যু হয়েছে এবং এক হাজার ৬৭৪ জন হাসপাতালে ভর্তি হয়েছেন।",
+        "summary_en": "Health department data shows eight people died of dengue and 1,674 were hospitalised in 24 hours till November 14.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-14T11:25:56+00:00",
+        "lead_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, ১৪ নভেম্বর পর্যন্ত গত ২৪ ঘণ্টায় ডেঙ্গুতে আটজনের মৃত্যু হয়েছে এবং এক হাজার ৬৭৪ জন হাসপাতালে ভর্তি হয়েছেন।",
+        "lead_en": "Health department data shows eight people died of dengue and 1,674 were hospitalised in 24 hours till November 14.",
+        "bullets_bn": [
+          "মারা যাওয়া আটজনের মধ্যে ঢাকা বিভাগের ছয়জন, চট্টগ্রাম বিভাগের একজন এবং রাজশাহী বিভাগের একজন রয়েছেন।",
+          "চলতি বছরের জানুয়ারি থেকে এ পর্যন্ত ডেঙ্গুতে মোট ৪৯১ জনের মৃত্যু হয়েছে।",
+          "এ বছর ডেঙ্গু আক্রান্ত হয়ে এ পর্যন্ত মোট এক লাখ ৬০ হাজার ৫৫৭ জন হাসপাতালে ভর্তি হয়েছেন।"
+        ],
+        "bullets_en": [
+          "Among the eight deceased, six were from Dhaka division, one from Chattogram division and one from Rajshahi division.",
+          "A total of 491 people have died from dengue from January to this period of the year.",
+          "A total of 160,557 people have been hospitalised with dengue infections this year."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 3,
+      "trending": false,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-14T12:40:43.374772+00:00"
+      }
+    },
+    {
+      "story_id": "516e8def-510c-5d46-904f-cb62d44b389d",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1590274853856-f22d5ee3d228?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZmlmdHklMjBjb3VudHJpZXMlMjBib2RpZXMlMjBzZW5kJTIwZGlwbG9tYWN5fGVufDF8MHx8fDE3OTQ2NjAwNDB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-14T12:29:19+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.0,
+      "rank_score": 6.9108,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1179440",
+          "title": "গাজায় দ্রুত ত্রাণ পৌঁছাতে ইসরায়েলকে ৫৩ দেশ ও সংস্থার কড়া বার্তা",
+          "snippet": "গাজায় দ্রুত ত্রাণ পৌঁছাতে ইসরায়েলকে ৫৩ দেশ ও সংস্থার কড়া বার্তা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "গাজায় ত্রাণ পৌঁছাতে ইসরায়েলকে ৫৩ দেশ ও সংস্থার কড়া বার্তা",
+        "title_en": "Fifty-three countries and bodies send strong message to Israel on Gaza aid",
+        "summary_bn": "গাজায় শীতকালীন মানবিক সংকট মোকাবিলায় দ্রুত ও বাধাহীনভাবে ত্রাণ পৌঁছানোর সুযোগ দিতে ইসরায়েলের প্রতি আহ্বান জানিয়েছে ৫৩টি দেশ ও আন্তর্জাতিক সংস্থা।",
+        "summary_en": "Fifty-three countries and international organizations urged Israel to allow rapid and unhindered humanitarian aid to tackle the winter crisis in Gaza.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-14T12:29:19+00:00",
+        "lead_bn": "গাজায় শীতকালীন মানবিক সংকট মোকাবিলায় দ্রুত ও বাধাহীনভাবে ত্রাণ পৌঁছানোর সুযোগ দিতে ইসরায়েলের প্রতি আহ্বান জানিয়েছে ৫৩টি দেশ ও আন্তর্জাতিক সংস্থা।",
+        "lead_en": "Fifty-three countries and international organizations urged Israel to allow rapid and unhindered humanitarian aid to tackle the winter crisis in Gaza.",
+        "bullets_bn": [
+          "৫৩টি দেশ ও আন্তর্জাতিক সংস্থা গাজায় দ্রুত ও বাধাহীনভাবে ত্রাণ পৌঁছানোর সুযোগ দিতে ইসরায়েলকে কড়া বার্তা দিয়েছে।",
+          "গাজায় শীতকালীন মানবিক সংকট মোকাবিলায় এই আহ্বান জানানো হয়েছে।",
+          "ত্রাণ পৌঁছানোর বিষয়টি নিশ্চিত করার জন্য ইসরায়েলের প্রতি এই আহ্বান জানানো হয়।"
+        ],
+        "bullets_en": [
+          "Fifty-three countries and international organizations sent a strong message to Israel to allow rapid and unhindered aid delivery to Gaza.",
+          "This call was made to tackle the winter humanitarian crisis in Gaza.",
+          "The appeal was directed at Israel to ensure humanitarian aid reaches the area."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": false,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-14T12:40:43.374772+00:00"
+      }
+    },
+    {
+      "story_id": "fbcf5979-8993-5afd-88f7-3e53fe92e6ca",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#Microsoft",
+        "#Microsoft365",
+        "#ITOutage"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/397_0_4924_3939/master/4924.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=626aaab5d918cc8e4aa6f74a887744f0",
+      "image_caption": null,
+      "published_at": "2026-11-14T11:54:31+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.0,
+      "rank_score": 6.6385,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+          "title": "Microsoft says services fully restored after global outage hits governments",
+          "snippet": "Microsoft says services fully restored after global outage hits governments"
+        },
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/sci-tech/technology/microsoft-says-consumer-products-services-recovered-still-monitoring-enterprise-services/article71701075.ece",
+          "title": "Microsoft says services fully restored after hourslong global outage",
+          "snippet": "Microsoft says services fully restored after hourslong global outage"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মাইক্রোসফট জানিয়েছে যে বিশ্বব্যাপী বিভ্রাটের পর তাদের সেবা পুরোপুরি সচল করা হয়েছে।",
+        "title_en": "Microsoft says services fully restored after global outage hits governments.",
+        "summary_bn": "মাইক্রোসফট জানিয়েছে, বিশ্বব্যাপী সরকার, ব্যবসা প্রতিষ্ঠান ও জনসেবায় ব্যাপক ব্যাঘাত ঘটানো একটি বড় ধরনের আইটি ব্যর্থতার পর তাদের সেবা পুরোপুরি সচল করা হয়েছে।",
+        "summary_en": "Microsoft has said its service has been fully restored after a massive outage that saw widespread disruption to governments, businesses and public services around the world.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-14T11:54:31+00:00",
+        "lead_bn": "মাইক্রোসফট জানিয়েছে, বিশ্বব্যাপী সরকার, ব্যবসা প্রতিষ্ঠান ও জনসেবায় ব্যাপক ব্যাঘাত ঘটানো একটি বড় ধরনের আইটি ব্যর্থতার পর তাদের সেবা পুরোপুরি সচল করা হয়েছে।",
+        "lead_en": "Microsoft has said its service has been fully restored after a massive outage that saw widespread disruption to governments, businesses and public services around the world.",
+        "bullets_bn": [
+          "যুক্তরাষ্ট্রভিত্তিক এই প্রযুক্তি প্রতিষ্ঠানটি জানিয়েছে যে তারা অবশিষ্ট প্রভাবিত গ্রাহক ও অঞ্চলগুলোতে সেবা পুনরুদ্ধার করেছে।",
+          "জাপান, সিঙ্গাপুর ও অস্ট্রেলিয়ার সরকার জানিয়েছে যে এই বিভ্রাটের ফলে তাদের কিছু কার্যক্রম প্রভাবিত হয়েছে।",
+          "যুক্তরাজ্যের এনএইচএস হাসপাতালের কর্মীরা কাগজভিত্তিক রেকর্ডে ফিরে যেতে বাধ্য হয়েছেন এবং অ্যাম্বুলেন্স সেবা গুরুতর প্রভাবের শিকার হয়েছে।"
+        ],
+        "bullets_en": [
+          "The US-based technology firm said it had restored service to the remaining impacted customers and regions.",
+          "Governments including those of Japan, Singapore and Australia reported that the episode had affected some of their operations.",
+          "In the UK, hospital staff resorted to paper records and ambulance services suffered a serious impact."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "শুরু হওয়া এই বিভ্রাটের কারণে আদালত, স্বাস্থ্যসেবা, ব্যবসা প্রতিষ্ঠান, এয়ারলাইন্স ও ব্যাংকগুলো প্রভাবিত হয়েছিল। যুক্তরাষ্ট্রের হাউস অব রিপ্রেজেন্টেটিভসের কর্মীরা জানিয়েছেন যে তারা এক দিনের কাজ হারিয়েছেন এবং কলোরাডোর একটি আটক কেন্দ্র অনলাইন বন্ড পেমেন্ট নিতে পারেনি। প্রযুক্তি জায়ান্টটি জানিয়েছে যে তারা এই ইভেন্টের সময় জমে থাকা ইমেল বার্তার ব্যাকলগ পর্যবেক্ষণ করছে।",
+        "details_en": "The outage, which began affected courts, healthcare services, businesses, airlines and banks. Staffers at the US House of Representatives reported losing a day of work, and a Colorado detention facility could not take online bond payments. The technology giant said it was monitoring the backlog of email messages accrued during the event."
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": true,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-14T12:40:43.374772+00:00"
       }
     }
   ]
