@@ -1,344 +1,401 @@
 {
-  "updated_at": "2026-11-13T13:52:18.586109",
+  "updated_at": "2026-11-14T12:36:36.565300",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "427915d9-933f-51e5-b0d3-8bd2a5068fbf",
+      "story_id": "218b4dc8-9e8a-52a9-b45e-37e6752e1bc1",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law"
+        "governance_law",
+        "society_education",
+        "climate_environment"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://images.unsplash.com/photo-1630330349438-206954d8ad14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cHJpbWUlMjBtaW5pc3RlciUyMHRhcmlxdWUlMjByYWhtYW4lMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTQ2NTk4Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-13T13:21:21+00:00",
+      "published_at": "2026-11-14T12:14:45+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 1.9839,
+      "rank_score": 6.4317,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/980737/%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%9F%E0%A6%A8-%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%A8%E0%A6%BE-%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%AE%E0%A7%8B%E0%A6%9A%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%A8",
-          "title": "ডিসেম্বরে পর্যটন মহাপরিকল্পনা উন্মোচন করতে পারেন প্রধানমন্ত্রী",
-          "snippet": "ডিসেম্বরে পর্যটন মহাপরিকল্পনা উন্মোচন করতে পারেন প্রধানমন্ত্রী"
+          "url": "https://www.banglatribune.com/national/980899/%E2%80%98%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%B6%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%B6%E0%A6%BF-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A7%8B%E0%A6%A7",
+          "title": "‘পরিচ্ছন্ন রাজনীতির পাশাপাশি সামাজিক মূল্যবোধ ফিরিয়ে আনতে চান প্রধানমন্ত্রী’",
+          "snippet": "‘পরিচ্ছন্ন রাজনীতির পাশাপাশি সামাজিক মূল্যবোধ ফিরিয়ে আনতে চান প্রধানমন্ত্রী’"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ডিসেম্বরে জাতীয় পর্যটন মহাপরিকল্পনা উন্মোচন করবেন প্রধানমন্ত্রী তারেক রহমান",
-        "title_en": "Prime Minister Tarique Rahman to Unveil National Tourism Master Plan in December",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান আগামী ডিসেম্বরে দেশের নতুন জাতীয় পর্যটন মহাপরিকল্পনা উন্মোচন করবেন।",
-        "summary_en": "Prime Minister Tarique Rahman is set to unveil the national tourism master plan in December.",
+        "title_bn": "পরিচ্ছন্ন রাজনীতি ও সামাজিক মূল্যবোধ ফেরাতে কাজ করছেন প্রধানমন্ত্রী তারেক রহমান",
+        "title_en": "Prime Minister Tarique Rahman works to restore clean politics and social values",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান পরিচ্ছন্ন রাজনীতির পাশাপাশি সামাজিক মূল্যবোধ ফিরিয়ে আনতে কাজ করছেন বলে জানিয়েছেন তার প্রেস সচিব সালেহ শিবলী।",
+        "summary_en": "Prime Minister Tarique Rahman is working to restore clean politics alongside social values, said his press secretary Saleh Shibli.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "governance_law",
+          "society_education",
+          "climate_environment"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-13T13:21:21+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান আগামী ডিসেম্বরে দেশের নতুন জাতীয় পর্যটন মহাপরিকল্পনা উন্মোচন করবেন।",
-        "lead_en": "Prime Minister Tarique Rahman is set to unveil the national tourism master plan in December.",
+        "published_at": "2026-11-14T12:14:45+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান পরিচ্ছন্ন রাজনীতির পাশাপাশি সামাজিক মূল্যবোধ ফিরিয়ে আনতে কাজ করছেন বলে জানিয়েছেন তার প্রেস সচিব সালেহ শিবলী।",
+        "lead_en": "Prime Minister Tarique Rahman is working to restore clean politics alongside social values, said his press secretary Saleh Shibli.",
         "bullets_bn": [
-          "প্রধানমন্ত্রী তারেক রহমান আগামী ডিসেম্বরে জাতীয় পর্যটন মহাপরিকল্পনা উন্মোচন করবেন",
-          "মহাপরিকল্পনার আওতায় আগামী জানুয়ারি থেকে প্রায় এক হাজার পাঁচশত পর্যটন আকর্ষণ নিয়ে সমন্বিত উন্নয়ন কৌশল বাস্তবায়িত হবে",
-          "বাংলাদেশ ট্যুরিজম বোর্ডের প্রধান নির্বাহী কর্মকর্তা ব্যারিস্টার মুতাসিম বিল্লাহ ফারুকী এই তথ্য নিশ্চিত করেছেন"
+          "সালেহ শিবলী জানান যে প্রধানমন্ত্রী কীভাবে পরিবেশ পরিচ্ছন্ন রাখা যায় সে বিষয়েও গুরুত্বারোপ করেন।",
+          "সালেহ শিবলী এই কথাগুলো জানান রাজধানীর তেজগাঁওয়ে প্রধানমন্ত্রীর কার্যালয়ে সাংবাদিকদের ব্রিফিংয়ে।",
+          "সাংবাদিকদের সাথে এই ব্রিফিং অনুষ্ঠিত হয় ১৪ নভেম্বর তারিখে।"
         ],
         "bullets_en": [
-          "Prime Minister Tarique Rahman will unveil the national tourism master plan in December",
-          "An integrated development strategy covering nearly 1500 tourist attractions will roll out starting January",
-          "Bangladesh Tourism Board CEO Barrister Mutasim Billah Faruki confirmed the development"
+          "Saleh Shibli stated that the Prime Minister also emphasized how to keep our environment clean.",
+          "Saleh Shibli made these remarks during a briefing with journalists at the Prime Minister's Office in Tejgaon, Dhaka.",
+          "This briefing with journalists took place on the date of 14 November."
         ],
-        "impact_bn": "এই মহাপরিকল্পনা বাস্তবায়িত হলে দেশের পর্যটন খাতের উন্নয়ন ত্বরান্বিত হবে এবং নতুন কর্মসংস্থান সৃষ্টি হবে।",
-        "impact_en": "Implementation of this master plan will accelerate tourism sector development and create new employment opportunities.",
-        "details_bn": "বাংলাদেশ ট্যুরিজম বোর্ড দেশের পর্যটন খাতের সম্ভাবনাকে কাজে লাগাতে এবং শৃঙ্খলা ফিরিয়ে আনতে দীর্ঘদিন ধরে একটি সমন্বিত মহাপরিকল্পনা তৈরির কাজ চালিয়ে আসছে। প্রস্তাবিত এই মহাপরিকল্পনার আওতায় দেশের বিভিন্ন অঞ্চলের প্রায় দেড় হাজার পর্যটন কেন্দ্রকে আধুনিক সুযোগ-সুবিধার আওতায় আনা হবে, যা আগামী জানুয়ারি থেকে কার্যকর হওয়ার কথা রয়েছে।",
-        "details_en": "The Bangladesh Tourism Board has long been formulating a comprehensive master plan to harness the country's tourism potential and bring order to the sector. Under this proposed plan, nearly 1,500 tourist spots across various regions will be brought under modern facilities, scheduled to take effect from January."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "সালেহ শিবলী রাজধানীর তেজগাঁওয়ে প্রধানমন্ত্রীর কার্যালয়ে সাংবাদিকদের ব্রিফিংয়ে এই তথ্যগুলো জানান। ওই ব্রিফিংয়ে রাজধানীর পরিচ্ছন্নতা কার্যক্রমের বিষয় নিয়েও আলোচনা হয়।",
+        "details_en": "Saleh Shibli provided this information during a briefing with journalists at the Prime Minister's Office in Tejgaon, Dhaka. The capital's cleanliness activities were also discussed during that briefing."
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-14T12:37:21.417116+00:00"
       }
     },
     {
-      "story_id": "1f38250e-3696-597f-950a-493a7fb66978",
+      "story_id": "5ebc65ba-72c0-5779-a650-85bb8871e387",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#RuhulKabirRizvi",
+        "#SheikhHasina",
+        "#BNP",
+        "#JuboDal"
       ],
-      "image_url": "https://media.channelionline.com/2026/11/Durbin-Bangla.jpg?w=1200",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/14/903971200_2260950554800012_6306672039153024334_n.jpg",
       "image_caption": null,
-      "published_at": "2026-11-13T13:50:27+00:00",
+      "published_at": "2026-11-14T10:35:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.9048,
+      "importance_score": 7.2,
+      "rank_score": 6.2527,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/restaurant-in-mohakhali-attacked-and-vandalized-over-cereal-for-food/",
-          "title": "খাবারের সিরিয়ালকে কেন্দ্র করে মহাখালীতে রেস্তোরাঁয় হামলা-ভাঙচুর",
-          "snippet": "খাবারের সিরিয়ালকে কেন্দ্র করে মহাখালীতে রেস্তোরাঁয় হামলা-ভাঙচুর"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/politics/fugitive-hasina-cannot-return-or-get-passport-under-mujibs-1973-law-rizvi",
+          "title": "Fugitive Hasina cannot return or get passport under Mujib’s 1973 law: Rizvi",
+          "snippet": "Fugitive Hasina cannot return or get passport under Mujib’s 1973 law: Rizvi"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/424617/rizvi-hasina-has-no-legal-scope-to-obtain",
+          "title": "Rizvi: Hasina has no legal scope to obtain passport",
+          "snippet": "Rizvi: Hasina has no legal scope to obtain passport"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/hasina-will-return-under-extradition-treaty-with-india-says-law-minister",
+          "title": "Hasina will return under extradition treaty with India, says law minister",
+          "snippet": "Hasina will return under extradition treaty with India, says law minister"
         }
       ],
       "daily_buzz": {
-        "title_bn": "খাবারের সিরিয়াল নিয়ে বিরোধে মহাখালীর রেস্তোরাঁয় হামলা ও ভাঙচুর",
-        "title_en": "Restaurant Vandalized and Workers Injured Over Food Queue Dispute in Mohakhali",
-        "summary_bn": "খাবারের সিরিয়াল নিয়ে বাকবিতণ্ডার জেরে মহাখালীর একটি রেস্তোরাঁয় হামলা চালিয়ে ভাঙচুর করেছেন সরকারি তিতুমীর কলেজের শিক্ষার্থীরা।",
-        "summary_en": "Students of Government Titumir College allegedly vandalized a restaurant and injured workers following a queue dispute in Mohakhali.",
+        "title_bn": "শেখ হাসিনা পাসপোর্টের যোগ্য নন এবং ফিরতে পারবেন না: রিজভী",
+        "title_en": "Hasina cannot obtain passport and return, says Rizvi",
+        "summary_bn": "বিএনপি নেতা রুহুল কবির রিজভী বলেছেন, মানবতাবিরোধী অপরাধে দণ্ডিত পলাতক হিসেবে শেখ হাসিনার ১৯৭৩ সালের আইন অনুযায়ী দেশে ফেরার বা পাসপোর্ট পাওয়ার কোনো সুযোগ নেই।",
+        "summary_en": "BNP leader Ruhul Kabir Rizvi said that as a fugitive convicted of crimes against humanity, Sheikh Hasina has no scope to return or obtain a passport.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-13T13:50:27+00:00",
-        "lead_bn": "খাবারের সিরিয়াল নিয়ে বাকবিতণ্ডার জেরে মহাখালীর একটি রেস্তোরাঁয় হামলা চালিয়ে ভাঙচুর করেছেন সরকারি তিতুমীর কলেজের শিক্ষার্থীরা।",
-        "lead_en": "Students of Government Titumir College allegedly vandalized a restaurant and injured workers following a queue dispute in Mohakhali.",
+        "published_at": "2026-11-14T10:35:00+00:00",
+        "lead_bn": "বিএনপি নেতা রুহুল কবির রিজভী বলেছেন, মানবতাবিরোধী অপরাধে দণ্ডিত পলাতক হিসেবে শেখ হাসিনার ১৯৭৩ সালের আইন অনুযায়ী দেশে ফেরার বা পাসপোর্ট পাওয়ার কোনো সুযোগ নেই।",
+        "lead_en": "BNP leader Ruhul Kabir Rizvi said that as a fugitive convicted of crimes against humanity, Sheikh Hasina has no scope to return or obtain a passport.",
         "bullets_bn": [
-          "খাবারের সিরিয়াল নিয়ে বাকবিতণ্ডার জেরে তিতুমীর কলেজের শিক্ষার্থীদের বিরুদ্ধে রেস্তোরাঁয় হামলার অভিযোগ উঠেছে।",
-          "হামলায় রেস্টুরেন্টটির অন্তত ২৫ থেকে ৩০ জন কর্মী আহত হয়ে হাসপাতালে চিকিৎসাধীন রয়েছেন।",
-          "বনানী থানা পুলিশ ঘটনাটি তদন্ত করে দেখছে এবং রেস্তোরাঁ কর্তৃপক্ষের পক্ষ থেকে লিখিত অভিযোগের প্রক্রিয়া চলছে।"
+          "রিজভী বলেন, শেখ হাসিনাকে মানবতাবিরোধী অপরাধ এবং অন্যান্য বিচারাধীন মামলার সমস্ত সাজা ভোগ করতে হবে।",
+          "ঢাকা সাউথ যুবদলের আয়োজনে জাতীয় প্রেস ক্লাব থেকে শাহবাগ পর্যন্ত একটি প্রতিবাদ মিছিলের পর সংক্ষিপ্ত সমাবেশে তিনি এ মন্তব্য করেন।",
+          "তিনি দাবি করেন, আওয়ামী লীগ নেতাদের কিছু অংশ কলকাতা ও ব্যাংককে বিলাসবহুল জীবন কাটাচ্ছেন আর কর্মীদের বোমা ও আতশবাজি দিতে উৎসাহিত করছেন।"
         ],
         "bullets_en": [
-          "Titumir College students allegedly attacked a restaurant following a heated argument over a food queue.",
-          "At least twenty-five to thirty restaurant staff were injured during the attack and received hospital treatment.",
-          "Banani Police Station is investigating the incident while awaiting a formal written complaint from the restaurant."
+          "Rizvi said Hasina must serve every sentence handed down against her for crimes against humanity and pending cases.",
+          "He made the remarks at a brief rally following a protest procession organised by Dhaka South Jubo Dal from the National Press Club to Shahbagh.",
+          "He claimed some Awami League leaders are living luxuriously abroad while grassroots activists are encouraged to use bombs and set off fireworks."
         ],
-        "impact_bn": "এ ধরনের সহিংস ঘটনা সাধারণ শিক্ষার্থী ও স্থানীয় ব্যবসায়ীদের মধ্যে নিরাপত্তা নিয়ে উদ্বেগ বাড়ায়।",
-        "impact_en": "Such violent clashes raise campus safety concerns and disrupt local business security.",
-        "details_bn": "রাজধানীর মহাখালীর বীর উত্তম একে খন্দকার সড়কে অবস্থিত দূরবীন বাংলা রেস্তোরাঁয় একটি বসার আসন নিয়ে বিরোধের সূত্রপাত হয়। এক শিক্ষার্থী ও সিরিয়ালে থাকা অন্য গ্রাহকদের বাকবিতণ্ডার একপর্যায়ে ওই শিক্ষার্থী লোকজন নিয়ে এসে হামলা চালান বলে রেস্টুরেন্ট মালিক জানান। পুলিশ ঘটনাস্থলে পৌঁছে পরিস্থিতি নিয়ন্ত্রণে আনে এবং বর্তমানে বিষয়টি খতিয়ে দেখছে।",
-        "details_en": "The conflict erupted at the Durbin Bangla restaurant on Bir Uttam AK Khandaker Road in Mohakhali over seating arrangements and a queue dispute. According to the owner, an initial argument between a student and other customers escalated when the student returned with a group to carry out the attack. Police responded to the scene and are currently investigating the matter."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "১৪ নভেম্বর প্রকাশিত প্রতিবেদনে জানানো হয়, আইনমন্ত্রী বলেছেন শেখ হাসিনা ভারতের সঙ্গে প্রত্যর্পণ চুক্তির আওতায় ফিরবেন। রুহুল কবির রিজভী অভিযোগ করেন, শেখ মুজিবুর রহমান বাকশাল প্রবর্তনের মাধ্যমে ফ্যাসিবাদী শাসন প্রতিষ্ঠা করেছিলেন এবং যুবদল ও বিএনপির কর্মীরা এসব কার্যকলাপে ভীত হবে না।",
+        "details_en": "Reports published on 14 November stated that the law minister said Hasina will return under an extradition treaty with India. Ruhul Kabir Rizvi alleged that Sheikh Mujibur Rahman established fascist rule through Baksal and that Jubo Dal and BNP activists would not be intimidated."
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-14T12:37:21.417116+00:00"
       }
     },
     {
-      "story_id": "a630973b-76d2-5483-95e7-baf16bdf2d06",
+      "story_id": "a022af00-0b07-5046-8ead-2b07df5c070c",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "society_education",
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1614610741181-2bce5e06976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmdiJTIwZGV0YWlucyUyMHBlb3BsZSUyMGlsbGVnYWwlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTQ2NTk4MzR8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-14T12:10:48+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 4.6563,
+      "sources": [
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/820960/%E0%A6%85%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AC%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%87-%E0%A7%AA%E0%A7%AD%E0%A7%A7-%E0%A6%9C%E0%A6%A8-%E0%A6%86%E0%A6%9F%E0%A6%95-%E0%A7%A8%E0%A7%AD%E0%A7%A9-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0",
+          "title": "অক্টোবরে সীমান্তে ৪৭১ জন আটক, ২৭৩ কোটি টাকার চোরাচালান পণ্য জব্দ",
+          "snippet": "অক্টোবরে সীমান্তে ৪৭১ জন আটক, ২৭৩ কোটি টাকার চোরাচালান পণ্য জব্দ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সীমান্তে অবৈধ অনুপ্রবেশের দায়ে অক্টোবরে ৪৭১ জন আটক করেছে বিজিবি",
+        "title_en": "BGB detains 471 people for illegal border crossing in October",
+        "summary_bn": "সীমান্তে অবৈধ অনুপ্রবেশের দায়ে গত অক্টোবর মাসে ৪৭১ জনকে আটক করেছে বর্ডার গার্ড বাংলাদেশ (বিজিবি)।",
+        "summary_en": "Border Guard Bangladesh detained 471 people for illegal border crossing in October.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "society_education",
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-14T12:10:48+00:00",
+        "lead_bn": "সীমান্তে অবৈধ অনুপ্রবেশের দায়ে গত অক্টোবর মাসে ৪৭১ জনকে আটক করেছে বর্ডার গার্ড বাংলাদেশ (বিজিবি)।",
+        "lead_en": "Border Guard Bangladesh detained 471 people for illegal border crossing in October.",
+        "bullets_bn": [
+          "আটক ব্যক্তিদের মধ্যে ৩৫০ জন মিয়ানমারের নাগরিক, ১১৪ জন বাংলাদেশি ও ৭ জন ভারতীয় নাগরিক রয়েছেন।",
+          "একই সময়ে সীমান্তসহ দেশের বিভিন্ন স্থানে অভিযান চালিয়ে ২৭৩ কোটি ৩৭ লাখ ৬৫ হাজার টাকা মূল্যের চোরাচালান পণ্য জব্দ করা হয়েছে।",
+          "বিজিবির জনসংযোগ কর্মকর্তা মো. শরীফুল ইসলাম এই তথ্য জানান।"
+        ],
+        "bullets_en": [
+          "Among the detainees are 350 Myanmar nationals, 114 Bangladeshis, and 7 Indian nationals.",
+          "Smuggled goods worth Tk 273 crore 37 lakh 65 thousand were seized during drives across the border and various parts of the country.",
+          "BGB public relations officer Md Shariful Islam shared this information."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-14T12:37:21.417116+00:00"
+      }
+    },
+    {
+      "story_id": "b5c6d082-5084-5b5a-ad5a-92391b8686c7",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
-        "economy_business"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": null,
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_bengali/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
       "image_caption": null,
-      "published_at": "2026-11-13T13:46:57+00:00",
+      "published_at": "2026-11-14T09:47:14+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9181,
+      "importance_score": 3.4,
+      "rank_score": 2.7941,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/middle-east/980742/%E0%A6%8F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%AF%E0%A7%8C%E0%A6%A5-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%89%E0%A7%8E%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A6%A8%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A7%80-%E0%A6%A4%E0%A7%81%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%95-%E0%A6%93-%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF-%E0%A6%86%E0%A6%B0%E0%A6%AC",
-          "title": "এবার যৌথ অস্ত্র উৎপাদনে আগ্রহী তুরস্ক ও সৌদি আরব",
-          "snippet": "এবার যৌথ অস্ত্র উৎপাদনে আগ্রহী তুরস্ক ও সৌদি আরব"
+          "name": "BBC News বাংলা",
+          "url": "https://www.bbc.com/bengali/articles/cq98xdy1yx6po?at_medium=RSS&at_campaign=rss",
+          "title": "ট্রাম্প, পুতিন ও শি আগামী সপ্তাহে চীনে যৌথ বৈঠকের পরিকল্পনা করছেন",
+          "snippet": "ট্রাম্প, পুতিন ও শি আগামী সপ্তাহে চীনে যৌথ বৈঠকের পরিকল্পনা করছেন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "তুরস্ক ও সৌদি আরব যৌথ প্রতিরক্ষা উৎপাদনে সহযোগিতা বাড়ানোর ঘোষণা দিয়েছে",
-        "title_en": "Turkey and Saudi Arabia Announce Expanded Defense Industry Cooperation",
-        "summary_bn": "তুরস্ক ও সৌদি আরব প্রতিরক্ষা খাতে দ্বিপক্ষীয় সহযোগিতা এবং যৌথ অস্ত্র উৎপাদন আরও জোরদার করার ঘোষণা দিয়েছে।",
-        "summary_en": "Turkey and Saudi Arabia have announced plans to strengthen bilateral cooperation and joint defense manufacturing.",
+        "title_bn": "চীনে যৌথ বৈঠকের পরিকল্পনা করছেন ট্রাম্প, পুতিন ও শি",
+        "title_en": "Trump, Putin and Xi plan joint meeting in China",
+        "summary_bn": "হোয়াইট হাউস জানিয়েছে, আগামী সপ্তাহে চীনে একটি শীর্ষ সম্মেলনের ফাঁকে ডোনাল্ড ট্রাম্প, ভ্লাদিমির পুতিন ও শি জিনপিং বৈঠক করার পরিকল্পনা করছেন।",
+        "summary_en": "The White House stated that Donald Trump, Vladimir Putin and Xi Jinping plan to meet on the sidelines of a summit in China next week.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "economy_business"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-13T13:46:57+00:00",
-        "lead_bn": "তুরস্ক ও সৌদি আরব প্রতিরক্ষা খাতে দ্বিপক্ষীয় সহযোগিতা এবং যৌথ অস্ত্র উৎপাদন আরও জোরদার করার ঘোষণা দিয়েছে।",
-        "lead_en": "Turkey and Saudi Arabia have announced plans to strengthen bilateral cooperation and joint defense manufacturing.",
+        "published_at": "2026-11-14T09:47:14+00:00",
+        "lead_bn": "হোয়াইট হাউস জানিয়েছে, আগামী সপ্তাহে চীনে একটি শীর্ষ সম্মেলনের ফাঁকে ডোনাল্ড ট্রাম্প, ভ্লাদিমির পুতিন ও শি জিনপিং বৈঠক করার পরিকল্পনা করছেন।",
+        "lead_en": "The White House stated that Donald Trump, Vladimir Putin and Xi Jinping plan to meet on the sidelines of a summit in China next week.",
         "bullets_bn": [
-          "তুরস্কের শীর্ষ প্রতিরক্ষা কর্মকর্তা হালুক গরগুন সৌদি আরবের সাথে প্রতিরক্ষা শিল্পে সহযোগিতা বাড়ানোর ঘোষণা দিয়েছেন",
-          "তুরস্ক ১ হাজার ৪০০টির বেশি প্রকল্প এবং ১২ হাজার কোটি ডলারের পোর্টফোলিও নিয়ে এই সহযোগিতা সম্প্রসারণ করতে চায়",
-          "উভয় দেশ শুল্ক হ্রাস এবং বাণিজ্য ও বিনিয়োগ বৃদ্ধির মাধ্যমে অংশীদারিত্ব আরও দৃঢ় করার লক্ষ্যে কাজ করছে"
+          "দক্ষিণাঞ্চলীয় শহর শেনজেনে এশিয়া-প্যাসিফিক ইকোনমিক কো-অপারেশন সম্মেলনে এই বৈঠক অনুষ্ঠিত হবে।",
+          "প্রেসিডেন্ট ট্রাম্প বিশ্বে পারমাণবিক অস্ত্র হ্রাস নিয়ে আলোচনা করবেন বলে হোয়াইট হাউসের মুখপাত্র অলিভিয়া ওয়েলস জানিয়েছেন।",
+          "আলোচনা শেষে কোনো চুক্তি হওয়ার সম্ভাবনা নেই বলে এক ঊর্ধ্বতন মার্কিন কর্মকর্তা জানিয়েছেন।"
         ],
         "bullets_en": [
-          "Top Turkish defense official Haluk Gorgun announced plans to expand defense industry cooperation with Saudi Arabia.",
-          "Turkey aims to drive this partnership using a portfolio exceeding 1,400 projects and 120 billion dollars.",
-          "Both nations are working to strengthen ties through reduced tariffs and increased bilateral trade and investment."
+          "The meeting will take place during the Asia-Pacific Economic Cooperation summit in the southern city of Shenzhen.",
+          "White House spokesperson Olivia Wells stated that President Trump will discuss reducing nuclear weapons globally.",
+          "A senior US official stated that an agreement is not expected to be reached at the end of the discussions."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "তুরস্ক এবং সৌদি আরব দীর্ঘদিন ধরে প্রতিরক্ষা খাতে পারস্পরিক সম্পর্ক উন্নয়নের চেষ্টা করে আসছে। সম্প্রতি দুই দেশের মধ্যে বাণিজ্য ও বিনিয়োগ বৃদ্ধির পাশাপাশি সামরিক প্রযুক্তি ও যৌথ উৎপাদন বাড়াতে বিভিন্ন উচ্চপর্যায়ের বৈঠক অনুষ্ঠিত হয়েছে। ইস্তাম্বুলে আয়োজিত তুরস্ক-সৌদি আরব ডিফেন্স ইন্ডাস্ট্রি ডেজ অনুষ্ঠানে এই সহযোগিতাকে নতুন উচ্চতায় নিয়ে যাওয়ার রূপরেখা তুলে ধরা হয়।",
-        "details_en": "Turkey and Saudi Arabia have long sought to improve mutual relations in the defense sector. Recently, high-level meetings have been held to boost trade and investment, as well as enhance military technology and joint manufacturing. The strategic framework for expanding this cooperation was highlighted during the Turkey-Saudi Arabia Defense Industry Days event held in Istanbul."
+        "details_bn": "২১টি সদস্য রাষ্ট্রের দুই দিনব্যাপী শীর্ষ সম্মেলনে যোগ দিতে ট্রাম্প চীনের শেনজেনে পৌঁছাবেন এবং শি জিনপিং এর সঙ্গে দ্বিপাক্ষিক আলোচনায় অংশ নেবেন। ২০২৫ সালে মার্কিন প্রেসিডেন্ট হিসাবে ট্রাম্প পুনরায় দায়িত্ব গ্রহণের পর এটি হবে তাদের চতুর্থ বৈঠক। মার্কিন যুক্তরাষ্ট্রের প্রেসিডেন্ট, গণপ্রজাতন্ত্রী চীনের প্রেসিডেন্ট এবং রুশ ফেডারেশনের প্রেসিডেন্টের মধ্যে একটি ত্রিপক্ষীয় বৈঠকের মাধ্যমে প্রেসিডেন্ট ট্রাম্প তার চীন সফর শেষ করবেন।",
+        "details_en": "Trump will arrive in Shenzhen, China, on Wednesday night to attend the two-day summit of twenty-one member states and will participate in bilateral talks with Xi Jinping on Thursday. This will be their fourth meeting since Trump assumed office again as US President in 2025. President Trump will conclude his visit to China through a trilateral meeting among the President of the United States, the President of the People's Republic of China, and the President of the Russian Federation."
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-14T12:37:21.417116+00:00"
       }
     },
     {
-      "story_id": "03d49725-07e0-5612-8f7a-e8453c4415f1",
+      "story_id": "78f55637-298d-571e-af6d-24f8e1d7d0b7",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
       ],
-      "region": "national",
+      "region": "international",
       "tags": [
-        "#RoadAccident",
-        "#AssamCrash",
-        "#IndiaNews"
+        "#VolodymyrZelensky",
+        "#Nato",
+        "#Donbas",
+        "#Ukraine"
       ],
-      "image_url": null,
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
       "image_caption": null,
-      "published_at": "2026-11-13T13:46:13+00:00",
+      "published_at": "2026-11-14T11:41:20+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9111,
+      "importance_score": 2.55,
+      "rank_score": 2.3909,
       "sources": [
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/world/south-asia/424532/road-crash-involving-bus-container-truck-kills-23",
-          "title": "Road crash involving bus, container truck kills 23 in India",
-          "snippet": "Road crash involving bus, container truck kills 23 in India"
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "snippet": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says"
+        },
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+          "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+          "snippet": "Three killed in Russia as Ukraine claims US floated NATO membership option"
+        },
+        {
+          "name": "Politico Europe",
+          "url": "https://www.politico.eu/article/us-suggested-ukraine-could-give-up-donbas-for-nato-membership-zelenskyy-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "title": "US suggested Ukraine could give up Donbas for NATO membership, Zelenskyy says",
+          "snippet": "US suggested Ukraine could give up Donbas for NATO membership, Zelenskyy says"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ভারতের আসামে বাস ও ট্রাকের সংঘর্ষে শিশুসহ নিহত ২৩",
-        "title_en": "Bus and Container Truck Collision Kills 23 in India Assam",
-        "summary_bn": "ভারতের আসাম রাজ্যের একটি মহাসড়কে বাস ও কন্টেইনার ট্রাকের মুখোমুখি সংঘর্ষে তিন শিশুসহ অন্তত তেইশ জন নিহত হয়েছেন।",
-        "summary_en": "A collision between a bus and a container truck on a highway in India Assam has killed at least twenty three people including three children.",
+        "title_bn": "ন্যাটো সদস্যপদের বিনিময়ে দনবাস ত্যাগের প্রস্তাব যুক্তরাষ্ট্রের",
+        "title_en": "US floated Ukraine ceding Donbas for Nato membership",
+        "summary_bn": "যুক্তরাষ্ট্রের মধ্যস্থতাকারীরা ন্যাটোর সদস্যপদের বিনিময়ে ইউক্রেনকে পূর্ব দনবাস অঞ্চল থেকে তাদের অবশিষ্ট বাহিনী প্রত্যাহারের কথা বলেছেন বলে জানিয়েছেন ভলোদিমির জেলেনস্কি।",
+        "summary_en": "US negotiators have touted the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for Nato membership, Volodymyr Zelensky has said.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-13T13:46:13+00:00",
-        "lead_bn": "ভারতের আসাম রাজ্যের একটি মহাসড়কে বাস ও কন্টেইনার ট্রাকের মুখোমুখি সংঘর্ষে তিন শিশুসহ অন্তত তেইশ জন নিহত হয়েছেন।",
-        "lead_en": "A collision between a bus and a container truck on a highway in India Assam has killed at least twenty three people including three children.",
+        "published_at": "2026-11-14T11:41:20+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের মধ্যস্থতাকারীরা ন্যাটোর সদস্যপদের বিনিময়ে ইউক্রেনকে পূর্ব দনবাস অঞ্চল থেকে তাদের অবশিষ্ট বাহিনী প্রত্যাহারের কথা বলেছেন বলে জানিয়েছেন ভলোদিমির জেলেনস্কি।",
+        "lead_en": "US negotiators have touted the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for Nato membership, Volodymyr Zelensky has said.",
         "bullets_bn": [
-          "ভারতের আসাম রাজ্যের একটি মহাসড়কে যাত্রীবাহী বাস এবং কন্টেইনার ট্রাকের মধ্যে এই মর্মান্তিক সড়ক দুর্ঘটনা ঘটে।",
-          "দুর্ঘটনায় নিহত তেইশ জনের মধ্যে তিনজন শিশুও রয়েছে বলে নিশ্চিত করেছে স্থানীয় প্রশাসন।",
-          "দুর্ঘটনার পর উদ্ধারকাজ পরিচালনা করা হয় এবং হতাহতদের নিকটস্থ হাসপাতালে নেওয়া হয়।"
+          "ইউক্রেনের প্রেসিডেন্ট ভলোদিমির জেলেনস্কি জানিয়েছেন যে এই প্রথম এই বিষয়টি উত্থাপন করা হয়েছে।",
+          "যুক্তরাষ্ট্রের দূত জ্যারেড কুশনার এবং স্টিভ উইটকফ আয়ারল্যান্ডের রাজধানী ডাবলনে জেলেনস্কির সঙ্গে বৈঠক করেছেন।",
+          "নিরাপত্তা গ্যারান্টি, সামরিক বাহিনীতে কোনো সীমাবদ্ধতা না থাকা এবং পুনর্গঠনের তহবিল পেলে তিনি এটি গণভোটে দেবেন বলে জানিয়েছেন।"
         ],
         "bullets_en": [
-          "A tragic road crash occurred between a passenger bus and a container truck on a highway in Assam India.",
-          "Local administration confirmed that three children were among the twenty three people killed in the accident.",
-          "Rescue operations were immediately launched following the crash and victims were shifted to nearby hospitals."
+          "Ukrainian President Volodymyr Zelensky told reporters that this was the first time this had been raised.",
+          "US envoys Jared Kushner and Steve Witkoff travelled to the Irish capital to meet Zelensky.",
+          "Zelensky said he would put a proposal containing security guarantees, no military constraints, and rebuilding funds to a referendum."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ভারতের উত্তর-পূর্বাঞ্চলীয় রাজ্য আসামে সড়ক নিরাপত্তা ও বেপরোয়া গাড়ি চালানো দীর্ঘদিনের একটি বড় উদ্বেগের বিষয়। ঘন কুয়াশা, ট্রাফিক আইনের অবহেলা এবং মহাসড়কে ভারী যান চলাচলের কারণে প্রায়ই সেখানে মারাত্মক দুর্ঘটনা ঘটে থাকে। এই দুর্ঘটনাটি আঞ্চলিক সড়কে নিরাপত্তা ব্যবস্থা জোরদার করার প্রয়োজনীয়তা আবারও সামনে নিয়ে এসেছে।",
-        "details_en": "Road safety and reckless driving remain a major concern in India northeastern state of Assam. Severe accidents frequently occur due to dense fog, traffic violations, and heavy vehicle movement on highways. This tragic incident highlights the urgent need for enhanced traffic safety measures on regional routes."
+        "details_bn": "রাশিয়া ও ইউক্রেনের মধ্যকার যুদ্ধ অবসানের প্রচেষ্টার অংশ হিসেবে যুক্তরাষ্ট্রের দূতরা মস্কোয় রুশ প্রেসিডেন্ট ভ্লাদিমির পুতিনের সঙ্গে এক দফা বৈঠকের পর ডাবলনে যান। কিয়েভ শান্তি চুক্তির শর্ত হিসেবে সামরিক জোটে সদস্যপদ চেয়েছে, অন্যদিকে রাশিয়া সীমান্তে আরেকটি ন্যাটো সদস্যকে অগ্রহণযোগ্য বলে জানিয়েছে। জেলেনস্কি সার্বভৌম ভূখণ্ড ছেড়ে দিতে অস্বীকার করলেও, পুতিন এবং ক্রেমলিনের কর্মকর্তাদের মন্তব্য ইঙ্গিত দেয় যে রাশিয়ার অবস্থান পরিবর্তিত হয়নি।",
+        "details_en": "US envoys travelled to the Irish capital to meet Zelensky after a round of talks with Russian President Vladimir Putin in Moscow, as part of ongoing efforts to end the war between Russia and Ukraine. Kyiv has long sought membership of the military alliance as a condition of any peace deal, while Russia has said another Nato member on its border was unacceptable. Comments by Putin and Kremlin officials suggest that Russia's position has not shifted."
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-14T12:37:21.417116+00:00"
       }
     },
     {
-      "story_id": "f20992db-5848-544e-b512-9366ae3a4e33",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation",
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#Nvidia",
-        "#IsraelTech",
-        "#TechLeadership"
-      ],
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2303769281.jpg?resize=1200,800",
-      "image_caption": null,
-      "published_at": "2026-11-13T12:52:19+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.4067,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-          "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-          "snippet": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জেনসেন হুয়াংয়ের পদত্যাগের পর ইসরায়েলের প্রযুক্তি খাতে অনিশ্চয়তা তৈরি হয়েছে",
-        "title_en": "Israel Tech Sector Faces Uncertainty Following Nvidia CEO Jensen Huangs Resignation",
-        "summary_bn": "জেনসেন হুয়াংয়ের পদত্যাগের পর ইসরায়েলের প্রযুক্তি খাতের ভবিষ্যৎ এবং গবেষণা কার্যক্রম নিয়ে স্থানীয় বিনিয়োগকারীদের মধ্যে উদ্বেগ সৃষ্টি হয়েছে।",
-        "summary_en": "Nvidia CEO Jensen Huangs resignation sparks anxiety among Israeli investors regarding the future of local tech and R&D operations.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-13T12:52:19+00:00",
-        "lead_bn": "জেনসেন হুয়াংয়ের পদত্যাগের পর ইসরায়েলের প্রযুক্তি খাতের ভবিষ্যৎ এবং গবেষণা কার্যক্রম নিয়ে স্থানীয় বিনিয়োগকারীদের মধ্যে উদ্বেগ সৃষ্টি হয়েছে।",
-        "lead_en": "Nvidia CEO Jensen Huangs resignation sparks anxiety among Israeli investors regarding the future of local tech and R&D operations.",
-        "bullets_bn": [
-          "এনভিডিয়ার নেতৃত্বে পরিবর্তন আসায় ইসরায়েলের প্রযুক্তি ও কৃত্রিম বুদ্ধিমত্তা বাজারে নতুন চ্যালেঞ্জ ও সুযোগের সৃষ্টি হয়েছে।",
-          "ইসরায়েলে এনভিডিয়া প্রায় ছয় হাজার কর্মী নিয়োগ দিয়েছে এবং ২০১৯ সালে ছয়শো নব্বই কোটি ডলারে মেলানক্স অধিগ্রহণ করেছিল।",
-          "এনভিডিয়ার নতুন প্রধান নির্বাহী হিসেবে অ্যাপলের জনি সোরুজি এবং এনভিডিয়ার মাইকেল কাগানসহ দুই ইসরায়েলির নাম আলোচনায় রয়েছে।"
-        ],
-        "bullets_en": [
-          "Changes in Nvidia leadership create new challenges and opportunities across Israel technology and artificial intelligence markets.",
-          "Nvidia employs approximately 6000 locals in Israel and acquired Mellanox for 6.9 billion dollars in 2019.",
-          "Apple executive Johny Srouji and Nvidia executive Michael Kagan are among the potential Israeli candidates floated for the CEO role."
-        ],
-        "impact_bn": "null",
-        "impact_en": "null",
-        "details_bn": "এনভিডিয়া ইসরায়েলকে তাদের দ্বিতীয় ঘর হিসেবে বিবেচনা করে এবং দেশটিতে মাইক্রোসফট ও ইন্টেলের মতো প্রতিষ্ঠানগুলোর বড় আকারের গবেষণা কার্যক্রম রয়েছে। ২০১৯ সালে মেলানক্স অধিগ্রহণের মাধ্যমে জেনসেন হুয়াং ইসরায়েলে এনভিডিয়ার উপস্থিতি জোরদার করেন। বর্তমান নেতৃত্ব সংকটের কারণে দেশটির অর্থনীতি এবং প্রযুক্তি খাতে এর প্রভাব নিয়ে বিনিয়োগকারীরা পরিস্থিতি নিবিড়ভাবে পর্যবেক্ষণ করছেন।",
-        "details_en": "Nvidia views Israel as its second home, with tech giants like Microsoft and Intel also maintaining massive R&D operations there. Jensen Huang heavily expanded Nvidia footprint in Israel through the 2019 acquisition of Mellanox. Investors are closely monitoring the leadership transition to assess potential impacts on local tech forecasts and economic stability."
-      }
-    },
-    {
-      "story_id": "2c186321-b971-58f6-88de-9ba57af72bbf",
+      "story_id": "f9513401-1353-5e40-babe-fb0e69cf9870",
       "primary_category": "economy_business",
       "interest_categories": [
-        "economy_business",
-        "tech_innovation"
+        "economy_business"
       ],
       "region": "international",
       "tags": [
-        "#Nvidia",
-        "#StockMarket",
-        "#AIChips"
+        "#BankOfEngland",
+        "#HuwPill",
+        "#Inflation",
+        "#InterestRates"
       ],
-      "image_url": null,
+      "image_url": "https://i.guim.co.uk/img/media/a38c96c8800b9c310b145da3b85b637313c9011b/480_0_4783_3829/master/4783.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=22bf4369f273b4ac3f8d5e1f7019ad04",
       "image_caption": null,
-      "published_at": "2026-11-13T12:25:00+00:00",
+      "published_at": "2026-11-14T12:05:52+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.3386,
+      "rank_score": 1.6397,
       "sources": [
         {
-          "name": "MarketWatch Economy",
-          "url": "https://www.marketwatch.com/story/nvidia-has-shed-nearly-500-billion-in-market-value-this-week-its-still-a-4-trillion-ai-behemoth-2ca6eba7?mod=mw_rss_topstories",
-          "title": "Nvidia has shed nearly $500 billion in market value this week. It’s still a $4 trillion AI behemoth.",
-          "snippet": "Nvidia has shed nearly $500 billion in market value this week. It’s still a $4 trillion AI behemoth."
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
+          "title": "Interest rate rises likely in coming months, Bank of England economist says",
+          "snippet": "Interest rate rises likely in coming months, Bank of England economist says"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাজারে দরপতনের মুখে এনভিডিয়ার প্রায় ৫০ বিলিয়ন ডলার বাজারমূল্য হ্রাস",
-        "title_en": "Nvidia Sheds Nearly 500 Billion Dollars in Market Value Amid Volatility",
-        "summary_bn": "কৃত্রিম বুদ্ধিমত্তা খাতের শীর্ষস্থানীয় কোম্পানি এনভিডিয়া চলতি সপ্তাহে বাজারে প্রায় ৫০ বিলিয়ন ডলার বাজারমূল্য হারিয়েছে।",
-        "summary_en": "Artificial intelligence chip giant Nvidia lost nearly 500 billion dollars in market value amid market volatility.",
+        "title_bn": "ব্যাংক অব ইংল্যান্ডের প্রধান অর্থনীতিবিদ সুদের হার বাড়ানোর ইঙ্গিত দিয়েছেন।",
+        "title_en": "Bank of England chief economist signals further interest rate rises.",
+        "summary_bn": "ব্যাংক অব ইংল্যান্ডের প্রধান অর্থনীতিবিদ হুউ পিল মূল্যস্ফীতি মোকাবেলায় আগামী মাসে এবং ২০২৭ সালের শুরুর দিকে সুদের হার বাড়ানোর কথা বলেছেন।",
+        "summary_en": "Bank of England chief economist Huw Pill said the central bank will probably need to raise interest rates next month and again in early 2027.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "tech_innovation"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-13T12:25:00+00:00",
-        "lead_bn": "কৃত্রিম বুদ্ধিমত্তা খাতের শীর্ষস্থানীয় কোম্পানি এনভিডিয়া চলতি সপ্তাহে বাজারে প্রায় ৫০ বিলিয়ন ডলার বাজারমূল্য হারিয়েছে।",
-        "lead_en": "Artificial intelligence chip giant Nvidia lost nearly 500 billion dollars in market value amid market volatility.",
+        "published_at": "2026-11-14T12:05:52+00:00",
+        "lead_bn": "ব্যাংক অব ইংল্যান্ডের প্রধান অর্থনীতিবিদ হুউ পিল মূল্যস্ফীতি মোকাবেলায় আগামী মাসে এবং ২০২৭ সালের শুরুর দিকে সুদের হার বাড়ানোর কথা বলেছেন।",
+        "lead_en": "Bank of England chief economist Huw Pill said the central bank will probably need to raise interest rates next month and again in early 2027.",
         "bullets_bn": [
-          "বাজার মূল্যে বড় ধরনের পতন সত্ত্বেও কোম্পানিটি চার ট্রিলিয়ন ডলারের এআই জায়ান্ট হিসেবে বহাল রয়েছে",
-          "বিনিয়োগকারীরা প্রধান নির্বাহী জেনসেন হুয়াংয়ের নেতৃত্বাধীন কোম্পানির কৃত্রিম বুদ্ধিমত্তা চিপের বাজার আধিপত্য নিবিড়ভাবে পর্যবেক্ষণ করছেন",
-          "বাজার বিশ্লেষকরা মুদ্রাস্ফীতি পরিস্থিতি এবং প্রযুক্তি খাতের শেয়ারের গতিবিধি নিবিড়ভাবে পর্যবেক্ষণ করছেন"
+          "হুউ পিল জানান যে চলতি মাসের শুরুতে সুদের হার ৩.৭৫ শতাংশ থেকে বাড়িয়ে ৪ শতাংশ করা হয়েছিল।",
+          "যুক্তরাজ্যের অর্থনীতি তৃতীয় প্রান্তিকে ০.৭ শতাংশ বৃদ্ধি পেয়েছে বলে নতুন উপাত্তে দেখা গেছে।",
+          "ইরান যুদ্ধের কারণে তেল ও গ্যাসের উচ্চ মূল্যের জেরে আগামী বছরের বসন্তে মূল্যস্ফীতি ৫ শতাংশে পৌঁছাবে বলে আশা করা হচ্ছে।"
         ],
         "bullets_en": [
-          "The company remains a four trillion dollar artificial intelligence behemoth despite the recent valuation drop",
-          "Investors are closely watching the chip maker's ability to maintain its market lead without disruption",
-          "Analysts continue to monitor macroeconomic inflation indicators and tech sector equity performance closely"
+          "Huw Pill noted that earlier this month interest rates were nudged from 3.75% to 4%.",
+          "Recent figures showed the economy grew by 0.7% in the third quarter.",
+          "Inflation is expected to rise to 5% in spring next year, driven by high oil and gas prices."
         ],
-        "impact_bn": "প্রযুক্তি ও পুঁজিবাজারে বিনিয়োগকারী সাধারণ মানুষ এবং প্রাতিষ্ঠানিক বিনিয়োগকারীরা বৈশ্বিক শেয়ার বাজারের এই ওঠানামায় সরাসরি প্রভাবিত হচ্ছেন",
-        "impact_en": "Retail investors and tech stakeholders are directly affected by the sharp valuation swings in global equity markets",
-        "details_bn": "কৃত্রিম বুদ্ধিমত্তা বিপ্লবের অগ্রপথিক হিসেবে এনভিডিয়া বিশ্বজুড়ে চিপ বাজারে একাধিপত্য বজায় রেখেছে। সাম্প্রতিক সময়ে বিশ্ববাজারে মূল্যস্ফীতির চাপ এবং প্রযুক্তি খাতের শেয়ারের দাম ওঠানামার কারণে শীর্ষস্থানীয় এই প্রযুক্তি প্রতিষ্ঠানের বাজার মূল্যে বড় ধরনের সংশোধন দেখা গেছে। বিনিয়োগকারীরা কোম্পানির নেতৃত্ব ও ভবিষ্যৎ প্রবৃদ্ধির গতিপ্রকৃতি নিয়ে নতুন করে মূল্যায়ন করছেন।",
-        "details_en": "Nvidia has maintained a dominant position in the global artificial intelligence hardware market, driving massive investor interest. Recent volatility stems from broader macroeconomic inflation concerns and shifting expectations surrounding tech sector valuations. Market participants are closely evaluating executive leadership and supply chain sustainability."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "হুউ পিল ফিন্যান্সিয়াল টাইমসকে জানান যে কেন্দ্রীয় ব্যাংক মূল্যস্ফীতি ২ শতাংশে নামিয়ে আনতে যা প্রয়োজন তাই করবে। তিনি আরও উল্লেখ করেন যে শক্তিশালী অর্থনীতি এবং শ্রমিকদের মজুরি বাড়ানোর ক্ষমতার কারণে মূল্যস্ফীতি দীর্ঘ সময় ধরে উচ্চ পর্যায়ে থাকতে পারে। পিল জানান যে যুক্তরাষ্ট্র-ইসরাইল সংঘাতের অবসান এবং জ্বালানি মূল্য হ্রাসের সম্ভাবনা খুব কম।",
+        "details_en": "Pill told the Financial Times that the central bank would do what is necessary to get inflation back to 2% through time. He noted that the UK economy has gained strength over the last year, handing workers power to bid up wages. Pill added that he considered an end to the US-Israeli conflict with Iran and a fall in energy prices to be a very low probability."
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-14T12:37:21.417116+00:00"
       }
     }
   ]
