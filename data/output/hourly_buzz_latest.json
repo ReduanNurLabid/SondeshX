@@ -1,131 +1,129 @@
 {
-  "updated_at": "2026-11-14T19:10:24.390082",
-  "total_stories": 5,
+  "updated_at": "2026-11-14T19:18:37.617370",
+  "total_stories": 3,
   "stories": [
     {
-      "story_id": "c6cd624a-e442-5ccd-8d81-abe663eaa01a",
-      "primary_category": "world_diplomacy",
+      "story_id": "16794b0d-df51-59c0-9c4d-0f0f0750a7d4",
+      "primary_category": "climate_environment",
       "interest_categories": [
-        "world_diplomacy",
+        "climate_environment",
         "economy_business",
+        "governance_law",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1778864875093-d6222d8e0208?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8c3RhdGUlMjBtaW5pc3RlciUyMHNoZWlraCUyMGZhcmlkdWwlMjBlbnZpcm9ubWVudHxlbnwxfDB8fHwxNzk0NjgzOTU1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-14T19:16:35+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 4.7858,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/national/980958/%E0%A6%9C%E0%A6%B2%E0%A6%AC%E0%A6%BE%E0%A7%9F%E0%A7%81-%E0%A6%B8%E0%A6%B9%E0%A6%A8%E0%A6%B6%E0%A7%80%E0%A6%B2%E0%A6%A4%E0%A6%BE%E0%A7%9F-%E0%A7%A9-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%A1%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B8%E0%A6%BF%E0%A6%86%E0%A6%87%E0%A6%8F%E0%A6%AB%E0%A7%87%E0%A6%B0",
+          "title": "জলবায়ু সহনশীলতায় ৩ কোটি ডলার অর্থায়ন নিয়ে সিআইএফের সঙ্গে বৈঠক",
+          "snippet": "জলবায়ু সহনশীলতায় ৩ কোটি ডলার অর্থায়ন নিয়ে সিআইএফের সঙ্গে বৈঠক"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জলবায়ু সহনশীলতায় সিআইএফ কর্মকর্তাদের সঙ্গে বৈঠক করেছেন প্রতিমন্ত্রী শেখ ফরিদুল ইসলাম",
+        "title_en": "State Minister Sheikh Faridul Islam met CIF officials on climate resilience",
+        "summary_bn": "পরিবেশ, বন ও জলবায়ু পরিবর্তনবিষয়ক প্রতিমন্ত্রী শেখ ফরিদুল ইসলাম তুরস্কের আনতালিয়ায় সিআইএফের শীর্ষ কর্মকর্তাদের সঙ্গে বৈঠক করেছেন।",
+        "summary_en": "State Minister for Environment, Forest and Climate Change Sheikh Faridul Islam met top CIF officials in Antalya, Turkey.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "economy_business",
+          "governance_law",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-14T19:16:35+00:00",
+        "lead_bn": "পরিবেশ, বন ও জলবায়ু পরিবর্তনবিষয়ক প্রতিমন্ত্রী শেখ ফরিদুল ইসলাম তুরস্কের আনতালিয়ায় সিআইএফের শীর্ষ কর্মকর্তাদের সঙ্গে বৈঠক করেছেন।",
+        "lead_en": "State Minister for Environment, Forest and Climate Change Sheikh Faridul Islam met top CIF officials in Antalya, Turkey.",
+        "bullets_bn": [
+          "বৈঠকে জলবায়ু সহনশীলতা জোরদারে বাংলাদেশের জন্য ঘোষিত ৩ কোটি মার্কিন ডলার অর্থায়ন ছাড়ের প্রক্রিয়া নিয়ে আলোচনা হয়।",
+          "বৈঠকে অগ্রাধিকারভিত্তিক প্রকল্প নির্বাচন নিয়ে আলোচনা করা হয়।",
+          "তুরস্কের আনতালিয়া শহরে কপ সম্মেলনস্থলে সিআইএফ কার্যালয়ে এই বৈঠক অনুষ্ঠিত হয়।"
+        ],
+        "bullets_en": [
+          "The meeting discussed the disbursement process of the declared 30 million US dollars for Bangladesh to strengthen climate resilience.",
+          "Discussions were held regarding the selection of priority-based projects.",
+          "The meeting took place at the CIF office at the COP conference venue in Antalya, Turkey."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-14T19:19:39.630656+00:00"
+      }
+    },
+    {
+      "story_id": "1069c711-bb69-57e3-9f80-7bfc6d28950e",
+      "primary_category": "governance_law",
+      "interest_categories": [
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#DonaldTrump",
-        "#SupremeCourt",
-        "#USJusticeDepartment"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/15/donald_trump.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-07-09%2Frdle97jl%2F1.avif?rect=0%2C13%2C590%2C310&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-14T18:50:00+00:00",
+      "published_at": "2026-11-14T17:51:17+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 6.443,
+      "importance_score": 4.8,
+      "rank_score": 4.3366,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/worldbiz/usa/supreme-court-trump-aims-cut-power-judges-again-1602676",
-          "title": "At the Supreme Court, Trump aims to cut the power of judges again",
-          "snippet": "At the Supreme Court, Trump aims to cut the power of judges again"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/crime/awt0v6ftb2",
+          "title": "চাঁদাবাজি ও কিশোর গ্যাংয়ের পৃষ্ঠপোষকতার অভিযোগ: সাবেক ছাত্রদল নেতা সজীব গ্রেপ্তার",
+          "snippet": "চাঁদাবাজি ও কিশোর গ্যাংয়ের পৃষ্ঠপোষকতার অভিযোগ: সাবেক ছাত্রদল নেতা সজীব গ্রেপ্তার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মার্কিন সুপ্রিম কোর্টে বিচারকদের ক্ষমতা কমানোর চেষ্টা করছেন ট্রাম্প",
-        "title_en": "Trump aims to cut the power of judges at the Supreme Court",
-        "summary_bn": "যুক্তরাষ্ট্রের সুপ্রিম কোর্টে বিচারকদের ক্ষমতা আরও সীমিত করতে বিচার বিভাগের একটি আপিল আবেদন করেছে ডোনাল্ড ট্রাম্পের প্রশাসন।",
-        "summary_en": "Donald Trump administration filed an appeal in the US Supreme Court to further limit judicial power.",
+        "title_bn": "সাবেক ছাত্রদল নেতা সজীব আদাবর থেকে গ্রেপ্তার",
+        "title_en": "Former Chhatra Dal leader Sajib arrested from Adabor",
+        "summary_bn": "ঢাকা মহানগর গোয়েন্দা পুলিশ রাজধানীর আদাবর এলাকা থেকে সাবেক ছাত্রদল নেতা সজীব আহমেদ রানাকে গ্রেপ্তার করেছে।",
+        "summary_en": "Dhaka Metropolitan Detective Police arrested former Chhatra Dal leader Sajib Ahmed Rana from the Adabor area of the capital.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "economy_business",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-14T18:50:00+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের সুপ্রিম কোর্টে বিচারকদের ক্ষমতা আরও সীমিত করতে বিচার বিভাগের একটি আপিল আবেদন করেছে ডোনাল্ড ট্রাম্পের প্রশাসন।",
-        "lead_en": "Donald Trump administration filed an appeal in the US Supreme Court to further limit judicial power.",
+        "published_at": "2026-11-14T17:51:17+00:00",
+        "lead_bn": "ঢাকা মহানগর গোয়েন্দা পুলিশ রাজধানীর আদাবর এলাকা থেকে সাবেক ছাত্রদল নেতা সজীব আহমেদ রানাকে গ্রেপ্তার করেছে।",
+        "lead_en": "Dhaka Metropolitan Detective Police arrested former Chhatra Dal leader Sajib Ahmed Rana from the Adabor area of the capital.",
         "bullets_bn": [
-          "যুক্তরাষ্ট্রের বিচার বিভাগ এমন এক নিয়ম বাতিলের আবেদন করেছে যার মাধ্যমে বিচারকরা ফেডারেল সংস্থার কার্যক্রম সম্পূর্ণ বন্ধ করতে পারেন।",
-          "অ্যাডিত্য বামজাই বলেছেন যে এই মামলায় ট্রাম্পের জয় নির্বাহী শাখাকে আরও বেশি নমনীয়তা দিতে পারে।",
-          "ট্রাম্প এবং তার সহযোগীরা জানুয়ারি ২০২৫-এ ক্ষমতায় ফেরার পর থেকে তাদের নীতিতে বাধা দেওয়া বিচারকদের সমালোচনা করে আসছেন।"
+          "সজীব ঢাকা মহানগর পশ্চিম ছাত্রদলের যুগ্ম সাধারণ সম্পাদক ছিলেন বলে জানা গেছে।",
+          "সন্ধ্যায় আদাবর এলাকা থেকে ডিবির একটি দল তাঁকে হেফাজতে নেয় এবং পরে গ্রেপ্তার দেখায়।",
+          "তাঁর বিরুদ্ধে চাঁদাবাজি ও কিশোর গ্যাংয়ের পৃষ্ঠপোষকতার অভিযোগ রয়েছে বলে জানিয়েছেন ডিবির ডিসি মো. জিয়াউদ্দিন আহমেদ।"
         ],
         "bullets_en": [
-          "Trump Justice Department appeal urges curtailing the ability of judges to halt federal agency actions.",
-          "Aditya Bamzai said a win for Trump in the case could give more flexibility to the executive branch.",
-          "Trump and his allies have castigated judges who have impeded his policies since returning to office in January 2025."
+          "Sajib was known to be the joint general secretary of Dhaka Metropolitan West Chhatra Dal.",
+          "A DB team took him into custody from the Adabor area in the evening and later showed him arrested.",
+          "DB DC Md. Ziauddin Ahmed said he faces allegations of extortion and patronizing adolescent gangs."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "এর আগে গত বছর ডোনাল্ড ট্রাম্পের প্রশাসন মার্কিন সুপ্রিম কোর্টকে রাজি করিয়েছিল যাতে ফেডারেল বিচারকদের দেশব্যাপী তার কার্যক্রম স্থগিত করার ক্ষমতা সীমিত করা হয়। জানুয়ারি ২০২৫-এ পুনরায় ক্ষমতায় ফেরার পর থেকে ট্রাম্প এবং তার সহযোগীরা এমন বিচারকদের সমালোচনা করে আসছেন যারা তার নীতি বাস্তবায়নে বাধা সৃষ্টি করেছেন।",
-        "details_en": "The administration previously convinced the US Supreme Court last year to restrict the ability of federal judges to block actions nationwide. Since returning to office in January 2025, Trump and his allies have castigated judges who have impeded his policies while testing the limits of presidential powers."
+        "details_bn": "গোয়েন্দা পুলিশের তেজগাঁও বিভাগের উপকমিশনার মো. জিয়াউদ্দিন আহমেদ রাতে বিষয়টি নিশ্চিত করেন। তিনি জানান, প্রাথমিক জিজ্ঞাসাবাদ ও তথ্য পর্যালোচনার পর বিস্তারিত জানানো হবে।",
+        "details_en": "Tejgaon Division Deputy Commissioner of Detective Police Md. Ziauddin Ahmed confirmed the matter at night. He stated that details will be shared after primary interrogation and data review."
       },
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-14T19:11:05.315320+00:00"
-      }
-    },
-    {
-      "story_id": "904aba09-8fd4-5935-ac1f-b23631b3bd33",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#DurbinBangla",
-        "#BananiPolice",
-        "#Dhaka"
-      ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/181601/img-9149.jpeg",
-      "image_caption": null,
-      "published_at": "2026-11-14T19:10:40.025441+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 4.799,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/police-yet-to-arrest-anyone-over-attack-on-durbin-bangla",
-          "title": "Police yet to arrest anyone over ‘attack’ on Durbin Bangla",
-          "snippet": "Police yet to arrest anyone over ‘attack’ on Durbin Bangla"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "দুর্বিন বাংলায় হামলার ঘটনায় পুলিশ কাউকে গ্রেপ্তার করতে পারেনি",
-        "title_en": "Police are yet to make arrests over Durbin Bangla attack",
-        "summary_bn": "ঢাকার মহাখালীর রেস্তোরাঁ দুর্বিন বাংলায় ভাঙচুরের ঘটনায় পুলিশ এখনও কাউকে গ্রেপ্তার করতে পারেনি।",
-        "summary_en": "Police have yet to make any arrests over the vandalism at Durbin Bangla restaurant in Mohakhali, Dhaka.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-14T19:10:40.025441+00:00",
-        "lead_bn": "ঢাকার মহাখালীর রেস্তোরাঁ দুর্বিন বাংলায় ভাঙচুরের ঘটনায় পুলিশ এখনও কাউকে গ্রেপ্তার করতে পারেনি।",
-        "lead_en": "Police have yet to make any arrests over the vandalism at Durbin Bangla restaurant in Mohakhali, Dhaka.",
-        "bullets_bn": [
-          "বসা নিয়ে বিরোধের জেরে রেস্তোরাঁটিতে এই হামলার ঘটনা ঘটে।",
-          "অন্তত ১০ জন এবং অজ্ঞাতপরিচয় প্রায় ১০০ জনের বিরুদ্ধে মামলা হয়েছে।",
-          "সিসিটিভি ফুটেজ দেখে বেশ কয়েকজন সন্দেহভাজনকে শনাক্ত করেছে পুলিশ।"
-        ],
-        "bullets_en": [
-          "The attack took place at the restaurant on Friday following a dispute over seating.",
-          "A case was filed on Friday night naming at least 10 people and around 100 unidentified others.",
-          "Police have identified several suspects from CCTV footage and are trying to arrest them."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সকাল ১১টা থেকে সাড়ে ১১টার মধ্যে এই হামলার ঘটনা ঘটে। বনানী থানার একটি টহল দল ঘটনাস্থলে পৌঁছালেও হামলাকারীদের থামাতে পারেনি এবং রেস্তোরাঁটি ভাঙচুর করা হয়। রেস্তোরাঁটির মালিক শাফিন বেগের সঙ্গে যোগাযোগের চেষ্টা করা হলেও তাঁর মন্তব্য পাওয়া যায়নি।",
-        "details_en": "The attack took place between 11am and 11:30am on Friday. A Banani Police Station patrol team reached the scene but could not stop the attackers from wrecking the restaurant. Attempts to reach owner Shafin Baig for comment were unsuccessful."
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-14T19:11:05.315320+00:00"
+        "checked_at": "2026-11-14T19:19:39.630656+00:00"
       }
     },
     {
@@ -140,12 +138,12 @@
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": "https://images.unsplash.com/photo-1642062695077-ccf96c00196e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8eWVtZW5pJTIwZm9yY2VzJTIwYXR0YWNrJTIwbGVhdmVzJTIwZGlwbG9tYWN5fGVufDF8MHx8fDE3OTQ2ODM0NjF8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1642062695077-ccf96c00196e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8eWVtZW5pJTIwZm9yY2VzJTIwYXR0YWNrJTIwbGVhdmVzJTIwZGlwbG9tYWN5fGVufDF8MHx8fDE3OTQ2ODM5NTl8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
       "published_at": "2026-11-14T17:37:02+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 4.307,
+      "rank_score": 4.2658,
       "sources": [
         {
           "name": "ইত্তেফাক",
@@ -155,10 +153,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইয়েমেনি বাহিনীর হামলায় হুথি বিদ্রোহীদের ৩২১ জন হতাহত হয়েছে",
-        "title_en": "Yemeni forces attack leaves 321 Houthi rebels dead or injured",
-        "summary_bn": "ইয়েমেনি সশস্ত্র বাহিনী হুথি বিদ্রোহীদের অবস্থান ও সামরিক স্থাপনা লক্ষ্য করে গত কয়েক ঘণ্টায় ৭২৩ দফা বিমান ও স্থল হামলা চালিয়েছে।",
-        "summary_en": "Yemeni armed forces launched 723 air and ground attacks targeting Houthi rebel positions and military installations over the past few hours.",
+        "title_bn": "ইয়েমেনি বাহিনীর হামলায় হুথি বিদ্রোহীদের ৩২১ জন হতাহত হয়েছে।",
+        "title_en": "Yemeni forces attack leaves 321 Houthi rebels dead or injured.",
+        "summary_bn": "ইয়েমেনি সশস্ত্র বাহিনী গত কয়েক ঘণ্টায় হুথি বিদ্রোহীদের অবস্থান লক্ষ্য করে ৭২৩ দফা বিমান ও স্থল হামলা চালিয়েছে।",
+        "summary_en": "Yemeni armed forces launched 723 air and ground attacks targeting Houthi rebel positions over the past few hours.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -167,149 +165,26 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-11-14T17:37:02+00:00",
-        "lead_bn": "ইয়েমেনি সশস্ত্র বাহিনী হুথি বিদ্রোহীদের অবস্থান ও সামরিক স্থাপনা লক্ষ্য করে গত কয়েক ঘণ্টায় ৭২৩ দফা বিমান ও স্থল হামলা চালিয়েছে।",
-        "lead_en": "Yemeni armed forces launched 723 air and ground attacks targeting Houthi rebel positions and military installations over the past few hours.",
+        "lead_bn": "ইয়েমেনি সশস্ত্র বাহিনী গত কয়েক ঘণ্টায় হুথি বিদ্রোহীদের অবস্থান লক্ষ্য করে ৭২৩ দফা বিমান ও স্থল হামলা চালিয়েছে।",
+        "lead_en": "Yemeni armed forces launched 723 air and ground attacks targeting Houthi rebel positions over the past few hours.",
         "bullets_bn": [
-          "‘ডন অব ইয়েমেন’ অভিযানের অংশ হিসেবে এসব হামলা চালানো হয়েছে।",
-          "হামলায় হুথিদের ৩২১ জন কমান্ডার ও যোদ্ধা নিহত অথবা আহত হয়েছেন বলে দাবি করেছে ইয়েমেনের সামরিক বাহিনী।",
+          "‘ডন অব ইয়েমেন’ অভিযানের অংশ হিসেবে এসব হামলা চালানো হয়।",
+          "হামলায় হুথিদের ৩২১ জন কমান্ডার ও যোদ্ধা নিহত অথবা আহত হয়েছেন।",
           "(১৪ জুন) দেশটির সরকারের অন্যতম মুখপাত্র মাজেদ আব্দুল্লাহ আল-নুজাইলি এ তথ্য জানিয়েছেন।"
         ],
         "bullets_en": [
           "These attacks were carried out as part of the Dawn of Yemen operation.",
-          "The Yemeni military claimed that 321 Houthi commanders and fighters were killed or injured in the attacks.",
-          "Majed Abdullah Al-Nujaili, one of the government spokespersons of the country, provided this information on Saturday (14 June)."
+          "321 Houthi commanders and fighters were killed or injured in the attacks.",
+          "The country's government spokesperson Majed Abdullah Al-Nujaili provided this information on Saturday (14 June)."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null
+        "details_bn": "ইয়েমেনে হুথি বিদ্রোহীদের অবস্থান ও সামরিক স্থাপনা লক্ষ্য করে দেশটির সশস্ত্র বাহিনী ‘ডন অব ইয়েমেন’ অভিযানের অংশ হিসেবে গত কয়েক ঘণ্টায় ৭২৩ দফা বিমান ও স্থল হামলা চালায়। এতে হুথিদের ৩২১ জন কমান্ডার ও যোদ্ধা নিহত অথবা আহত হয়েছেন বলে দাবি ইয়েমেনের সামরিক বাহিনীর। (১৪ জুন) দেশটির সরকারের অন্যতম মুখপাত্র মাজেদ আব্দুল্লাহ আল-নুজাইলি এ তথ্য জানিয়েছেন।",
+        "details_en": "The Yemeni armed forces launched 723 air and ground attacks targeting Houthi rebel positions and military installations over the past few hours as part of the Dawn of Yemen operation. The Yemeni military claimed that 321 Houthi commanders and fighters were killed or injured in these attacks. The country's government spokesperson Majed Abdullah Al-Nujaili provided this information on Saturday (14 June)."
       },
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-14T19:11:05.315320+00:00"
-      }
-    },
-    {
-      "story_id": "8cfbe679-bc8d-5424-a691-0432ad5037c2",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "society_education"
-      ],
-      "region": "international",
-      "tags": [
-        "#BernieSanders",
-        "#SocialSecurity"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1555293442-818eb55f7ca0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmVybmllJTIwc2FuZGVycyUyMGFpbXMlMjBrZWVwJTIwYnVzaW5lc3N8ZW58MXwwfHx8MTc5NDY4MzQ2M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-14T17:50:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 1.5484,
-      "sources": [
-        {
-          "name": "MarketWatch Economy",
-          "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-          "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-          "snippet": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বার্নি স্যান্ডার্স সামাজিক নিরাপত্তা সচ্ছল রাখার পরিকল্পনা প্রকাশ করেছেন",
-        "title_en": "Bernie Sanders aims to keep Social Security solvent for generations",
-        "summary_bn": "ভারমন্টের সিনেটর বার্নি স্যান্ডার্স সামাজিক নিরাপত্তা তহবিলকে প্রজন্মের পর প্রজন্ম সচ্ছল রাখার পরিকল্পনা করেছেন।",
-        "summary_en": "Vermont Senator Bernie Sanders aims to keep Social Security solvent for generations.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-14T17:50:00+00:00",
-        "lead_bn": "ভারমন্টের সিনেটর বার্নি স্যান্ডার্স সামাজিক নিরাপত্তা তহবিলকে প্রজন্মের পর প্রজন্ম সচ্ছল রাখার পরিকল্পনা করেছেন।",
-        "lead_en": "Vermont Senator Bernie Sanders aims to keep Social Security solvent for generations.",
-        "bullets_bn": [
-          "এই লক্ষ্যের অংশ হিসেবে তিনি করযোগ্য সর্বোচ্চ সীমা দূর করতে চান।",
-          "তার এই পরিকল্পনা অনুযায়ী ধনী ব্যক্তিরা বেশি পরিমাণে কর দেবেন।",
-          "বাজার ওয়াচ ইকোনমির প্রতিবেদন অনুযায়ী এই তথ্য জানা গেছে।"
-        ],
-        "bullets_en": [
-          "The Vermont senator aims to eliminate the taxable maximum.",
-          "The plan makes the wealthy pay more in taxes.",
-          "MarketWatch Economy provided this reporting."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-14T19:11:05.315320+00:00"
-      }
-    },
-    {
-      "story_id": "abb83307-9e9d-5c6e-aaec-36b0d3679489",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#CorporateAmerica",
-        "#MarketWatch",
-        "#RetirementEconomy"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1647527931074-d5f316180774?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Y29ycG9yYXRlJTIwYW1lcmljYSUyMG1ha2luZyUyMHRyaWxsaW9uJTIwYnVzaW5lc3N8ZW58MXwwfHx8MTc5NDY4MzQ2NXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-14T17:50:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 1.5484,
-      "sources": [
-        {
-          "name": "MarketWatch Economy",
-          "url": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-          "title": "The trillion-dollar mistake corporate America is making about retirement",
-          "snippet": "The trillion-dollar mistake corporate America is making about retirement"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মার্কিন কর্পোরেট জগৎ অবসর নিয়ে এক ট্রিলিয়ন ডলারের ভুল করছে।",
-        "title_en": "Corporate America is making a trillion-dollar mistake about retirement.",
-        "summary_bn": "বাজার আমেরিকার পঞ্চাশ বছর বা তার বেশি বয়সী নাগরিকদের অর্থনৈতিক প্রভাবকে ব্যাপকভাবে কম মূল্যায়ন করছে।",
-        "summary_en": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-14T17:50:00+00:00",
-        "lead_bn": "বাজার আমেরিকার পঞ্চাশ বছর বা তার বেশি বয়সী নাগরিকদের অর্থনৈতিক প্রভাবকে ব্যাপকভাবে কম মূল্যায়ন করছে।",
-        "lead_en": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
-        "bullets_bn": [
-          "মার্কিন কর্পোরেট জগৎ অবসর নিয়ে এক ট্রিলিয়ন ডলারের ভুল করছে।",
-          "বাজার আমেরিকার পঞ্চাশ বছর বা তার বেশি বয়সী নাগরিকদের অর্থনৈতিক প্রভাবকে অবমূল্যায়ন করছে।",
-          "বাজার পঞ্চাশ বছর বা তার বেশি বয়সী আমেরিকানদের অর্থনৈতিক প্রভাবকে নাটকীয়ভাবে কম মূল্য দিচ্ছে।"
-        ],
-        "bullets_en": [
-          "Corporate America is making a trillion-dollar mistake regarding retirement.",
-          "The market is severely underestimating the economic impact of Americans aged 50 and older.",
-          "The market is dramatically underpricing the economic impact of Americans age 50 and older."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-14T19:11:05.315320+00:00"
+        "checked_at": "2026-11-14T19:19:39.630656+00:00"
       }
     }
   ]
