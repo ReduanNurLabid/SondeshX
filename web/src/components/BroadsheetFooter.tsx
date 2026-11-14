@@ -95,7 +95,7 @@ export const BroadsheetFooter: React.FC = () => {
                 {isBn ? 'ব্যবহারের শর্তাবলী' : 'Terms of Service'}
               </button>
               <button 
-                onClick={() => setIsSettingsOpen(true)}
+                onClick={() => { window.location.href = '/privacy/'; }}
                 className="text-left text-on-surface-variant hover:text-primary transition-colors cursor-pointer"
               >
                 {isBn ? 'গোপনীয়তা নীতি' : 'Privacy Policy'}

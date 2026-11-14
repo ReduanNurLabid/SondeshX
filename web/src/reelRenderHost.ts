@@ -1,17 +1,19 @@
 // Headless reel renderer used by the automatic posting job (pipeline/social/post_reel.py).
-// Served at /__reel: instead of the app, it exposes window.renderReel(), which draws a
-// story with the same engine as the Card Studio and returns the video as base64.
-import { renderAndExportReelVideo } from './services/reelVideoEngine';
+// Served at /__reel: instead of the app, it exposes
+//   window.renderReel(req)       records the reel and returns the video as base64
+//   window.previewReelFrame(req, t)  draws one frame on screen (for checking the layout)
+import { drawAutoReelFrame, renderAutoReel, ReelSegment } from './services/reelAutoEngine';
 import { loadSafeCanvasImage } from './services/imageLoader';
 
 export interface ReelRequest {
   headline: string;
-  keyPoints: string[];
-  sourceName: string;
-  categoryName: string;
+  points: string[];
+  sourceLine: string;
+  category: string;
+  dateLine: string;
   imageUrl?: string | null;
-  lang?: 'bn' | 'en';
-  durationSeconds?: number;
+  segments: ReelSegment[];
+  duration: number;
 }
 
 function loadLogo(): Promise<HTMLImageElement | null> {
@@ -20,48 +22,58 @@ function loadLogo(): Promise<HTMLImageElement | null> {
     img.crossOrigin = 'anonymous';
     img.onload = () => resolve(img);
     img.onerror = () => resolve(null);
-    img.src = '/Sondesh_logo.png';
+    img.src = '/icon-512.png';
   });
+}
+
+async function loadAssets(req: ReelRequest) {
+  // Fonts load lazily, so request the weights the reel uses before drawing.
+  await Promise.all(
+    ['500', '600', '700'].map((w) => document.fonts.load(`${w} 48px "Hind Siliguri"`, 'বাংলা খবর')),
+  ).catch(() => undefined);
+  const [logo, image] = await Promise.all([
+    loadLogo(),
+    req.imageUrl
+      ? loadSafeCanvasImage(req.imageUrl).then((r) => (r.status === 'preview_only' ? null : r.image)).catch(() => null)
+      : Promise.resolve(null),
+  ]);
+  return { logo, image };
 }
 
 async function blobToBase64(blob: Blob): Promise<string> {
   const buf = new Uint8Array(await blob.arrayBuffer());
   let binary = '';
-  const chunk = 0x8000;
-  for (let i = 0; i < buf.length; i += chunk) {
-    binary += String.fromCharCode(...buf.subarray(i, i + chunk));
+  for (let i = 0; i < buf.length; i += 0x8000) {
+    binary += String.fromCharCode(...buf.subarray(i, i + 0x8000));
   }
   return btoa(binary);
 }
 
 export function installReelRenderHost() {
   document.title = 'reel renderer';
+  document.body.style.margin = '0';
+  document.body.style.background = '#111';
+
   (window as any).renderReel = async (req: ReelRequest) => {
-    await document.fonts.ready;
-    const [logo, image] = await Promise.all([
-      loadLogo(),
-      req.imageUrl ? loadSafeCanvasImage(req.imageUrl).then((r) => (r.status === 'preview_only' ? null : r.image)) : Promise.resolve(null),
-    ]);
-    const result = await renderAndExportReelVideo({
-      aspectRatio: '9:16',
-      durationSeconds: req.durationSeconds ?? 13,
-      fps: 30,
-      includeAudio: true,
-      lang: req.lang ?? 'bn',
-      tone: 'critical',
-      fontFamily: 'Hind Siliguri',
-      isJustified: false,
-      headline: req.headline,
-      keyPoints: req.keyPoints.slice(0, 3),
-      sourceName: req.sourceName,
-      categoryName: req.categoryName,
-      imageElement: image,
-      imageBrightness: 105,
-      logoElement: logo,
-      headlineSize: 62,
-      bulletSize: 34,
-    });
+    const { logo, image } = await loadAssets(req);
+    const result = await renderAutoReel({ ...req, logo, image });
     return { base64: await blobToBase64(result.blob), mimeType: result.mimeType };
   };
+
+  (window as any).previewReelFrame = async (req: ReelRequest, t: number) => {
+    const { logo, image } = await loadAssets(req);
+    let canvas = document.getElementById('reel-preview') as HTMLCanvasElement | null;
+    if (!canvas) {
+      canvas = document.createElement('canvas');
+      canvas.id = 'reel-preview';
+      canvas.width = 1080;
+      canvas.height = 1920;
+      canvas.style.height = '100vh';
+      document.body.appendChild(canvas);
+    }
+    drawAutoReelFrame(canvas.getContext('2d')!, { ...req, logo, image }, t);
+    return true;
+  };
+
   (window as any).reelHostReady = true;
 }
