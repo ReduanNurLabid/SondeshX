@@ -99,11 +99,29 @@ function drawBackground(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: 
     ctx.drawImage(img, (W - dw) / 2, (imgH - dh) / 2, dw, dh);
     ctx.restore();
   } else {
+    // No publisher photo: branded backdrop with fine diagonal lines and a large, faded,
+    // slowly drifting logo so the upper half never looks empty.
     const g = ctx.createLinearGradient(0, 0, W, imgH);
-    g.addColorStop(0, '#16303d');
+    g.addColorStop(0, '#1d3b47');
     g.addColorStop(1, '#0d1b24');
     ctx.fillStyle = g;
     ctx.fillRect(0, 0, W, imgH);
+    ctx.save();
+    ctx.strokeStyle = 'rgba(198,255,0,0.06)';
+    ctx.lineWidth = 2;
+    const drift = (t * 12) % 60;
+    for (let x = -imgH; x < W + imgH; x += 60) {
+      ctx.beginPath();
+      ctx.moveTo(x + drift, 0);
+      ctx.lineTo(x + drift + imgH, imgH);
+      ctx.stroke();
+    }
+    if (input.logo) {
+      const size = 620 + 30 * (t / input.duration);
+      ctx.globalAlpha = 0.09;
+      ctx.drawImage(input.logo, (W - size) / 2, 330 - size / 2 + 120, size, size);
+    }
+    ctx.restore();
   }
   // Fade the photo into the dark lower half where the text sits.
   const fade = ctx.createLinearGradient(0, 520, 0, imgH);
