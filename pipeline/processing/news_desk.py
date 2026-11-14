@@ -34,10 +34,10 @@ from pipeline.processing.llm import generate_json
 from pipeline.processing.scoring import compute_time_decayed_score
 
 # Editorial score (1-10) = the desk's importance judgement plus measurable signals.
-BD_OUTLET_BONUS_PER_EXTRA = 0.5   # each additional Bangladeshi outlet carrying the event
-BD_OUTLET_BONUS_CAP = 3           # ...counted up to three extra outlets
-TRENDING_BONUS = 1.0              # in Google News Bangladesh top stories
-NATIONAL_BONUS = 0.5              # happens in, or directly involves, Bangladesh
+BD_OUTLET_BONUS_PER_EXTRA = 0.25  # each additional Bangladeshi outlet carrying the event
+BD_OUTLET_BONUS_CAP = 3           # ...counted up to three extra outlets (max +0.75)
+TRENDING_BONUS = 0.5              # in Google News Bangladesh top stories
+MAX_SIGNAL_BONUS = 1.0            # signals can lift the desk's judgement by at most one point
 
 
 def outlet_key(article: RawArticle) -> str:
@@ -78,7 +78,9 @@ def _build_prompt(articles: List[RawArticle], trending: List[str], published: Li
     published_lines = []
     for i, story in enumerate(published, 1):
         buzz = story.get("daily_buzz") or {}
-        published_lines.append(f"P{i}: {buzz.get('title_en', '')} / {buzz.get('title_bn', '')}")
+        score = story.get("desk_importance")
+        tag = f" [score {score:g}]" if isinstance(score, (int, float)) else ""
+        published_lines.append(f"P{i}{tag}: {buzz.get('title_en', '')} / {buzz.get('title_bn', '')}")
     if not published_lines:
         published_lines = ["(none)"]
 
@@ -98,13 +100,21 @@ PUBLISHED (stories already on our site in the last day):
 TASKS
 1. Group ARTICLES into events. Two articles belong to the same event only when they report the same specific occurrence (same actors, same action, same time). The same topic is not the same event. Match across Bengali and English.
 2. Leave out articles that are not news a mainstream reader needs: sports fixtures and routine match reports, celebrity and lifestyle items, product deals, horoscopes, opinion columns, minor local incidents with no wider significance.
-3. Score each event's importance from 1 to 10 for a general reader in Bangladesh:
-   9-10: affects the whole country now (national election or government decisions, major disaster, big economic shock, war directly affecting Bangladesh).
-   7-8: major national politics, court rulings, economy, prices, public safety, education or health decisions affecting many people; world events of the first rank.
-   5-6: notable national news; significant world, business or technology news.
-   3-4: routine statements, ceremonial events, minor foreign news.
-   1-2: trivia.
-   An event outside Bangladesh scores at most 8 unless it directly affects Bangladesh or Bangladeshis (migrant workers, trade, fuel and food prices, the region's security).
+3. Score each event's importance from 1 to 10 for a general reader in Bangladesh. Use the whole scale; do not cluster everything around 6-8.
+   10: a national turning point that will lead every outlet for days (election result, change of government, major disaster with many deaths).
+   9: a decision or event that changes daily life for most Bangladeshis now (fuel or electricity price change, nationwide shutdown, budget, major court verdict on national politics).
+   8: the day's leading national story: big policy decisions, major economic data, serious unrest, deadly incidents with national impact.
+   7: important national news affecting many people: a sector-wide decision, a significant court ruling, a major outbreak update, a large protest.
+   6: notable national news, or a world event of the first rank.
+   5: ordinary national news worth knowing: a ministry announcement, a project update, a sizeable local incident; significant world, business or tech news.
+   4: routine statements, ceremonies, meetings, minor local crime, most foreign news.
+   3 or less: trivia, repetition, minor foreign items.
+   Limits:
+   - At most two events in this batch may score 8 or more, and only if they truly lead the national news today.
+   - An event outside Bangladesh scores at most 6 unless it directly affects Bangladesh or Bangladeshis (migrant workers, trade, fuel and food prices, the region's security).
+   - Sport and entertainment score at most 5, unless the Bangladesh national team wins or loses a major final.
+   - Being new, or appearing in TRENDING, does not by itself make an event more important. Judge the consequence for people, not the noise.
+   - Score consistently with the PUBLISHED stories: their current scores are shown in brackets.
 4. region: "national" if the event happens in Bangladesh or directly involves Bangladesh, otherwise "international".
 5. category: one of {categories}.
 6. trending: true if the event matches a TRENDING headline.
@@ -217,10 +227,9 @@ def build_desk_events(
             importance
             + BD_OUTLET_BONUS_PER_EXTRA * min(max(bd_outlets - 1, 0), BD_OUTLET_BONUS_CAP)
             + (TRENDING_BONUS if trending_hit else 0.0)
-            + (NATIONAL_BONUS if event.region == "national" else 0.0)
         )
         # importance_score is the editorial score the site ranks and places by.
-        event.importance_score = round(min(10.0, score), 2)
+        event.importance_score = round(min(10.0, importance + MAX_SIGNAL_BONUS, score), 2)
         event.rank_score = compute_time_decayed_score(event.importance_score, members[0].published_at)
         try:
             appeal = max(1.0, min(10.0, float(raw.get("appeal", importance))))

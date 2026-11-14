@@ -38,7 +38,7 @@ from pipeline.storage.firebase_service import get_firestore_client
 GRAPH = "https://graph.facebook.com/v23.0"
 SITE_URL = "https://sondesh.web.app"
 LOOKBACK_HOURS = 6
-MIN_IMPORTANCE = 6.5
+MIN_IMPORTANCE = 6.0
 MIN_APPEAL = 6.0
 VOICE = "bn-BD-NabanitaNeural"
 GAP_SECONDS = 0.45

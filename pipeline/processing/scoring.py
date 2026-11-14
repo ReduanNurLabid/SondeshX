@@ -140,7 +140,7 @@ def compute_base_importance(
 
     return round(min(10.0, max(1.0, score)), 2)
 
-RANK_HALF_LIFE_HOURS = 10.0
+RANK_HALF_LIFE_HOURS = 12.0
 RANK_ACTIVE_WINDOW_HOURS = 30.0
 
 
@@ -152,12 +152,13 @@ def compute_time_decayed_score(
     max_active_window_hours: float = RANK_ACTIVE_WINDOW_HOURS
 ) -> float:
     """
-    Front-page rank: the editorial score loses half its weight every 10 hours.
+    Front-page rank. Importance counts squared, and the rank halves every 12 hours:
 
-        rank = score * 0.5 ** (age_hours / 10)
+        rank = score**2 / 10 * 0.5 ** (age_hours / 12)
 
-    So a 9-point story stays above a brand-new 5-point story for about 8 hours,
-    while a fresher story of equal weight always leads. Past the 30-hour window
+    Squaring means freshness cannot carry a minor story past a major one: a 9 stays
+    above a brand-new 6 for about 14 hours and above a brand-new 7 for about 9 hours,
+    while between stories of equal weight the newer one leads. Past the 30-hour window
     the rank collapses so yesterday's news leaves the front page.
 
     web/src/services/api.ts (calculateDynamicRank) implements the same formula.
@@ -175,7 +176,7 @@ def compute_time_decayed_score(
         except Exception:
             age_hours = 0.5
 
-    rank = base_importance * math.pow(0.5, age_hours / half_life_hours)
+    rank = (base_importance ** 2) / 10.0 * math.pow(0.5, age_hours / half_life_hours)
     if age_hours > max_active_window_hours:
         rank /= math.pow(1.0 + (age_hours - max_active_window_hours), 2.0)
     return round(rank, 4)

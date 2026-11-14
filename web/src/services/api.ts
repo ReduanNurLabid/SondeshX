@@ -74,22 +74,29 @@ function cleanEditorialMarkdown(text?: string | null): string {
     .trim();
 }
 
-// Front-page rank: the editorial score loses half its weight every 10 hours, and
-// collapses after the 30-hour window. Same formula as compute_time_decayed_score
-// in pipeline/processing/scoring.py.
-const RANK_HALF_LIFE_HOURS = 10;
+// Front-page rank: importance counts squared and the rank halves every 12 hours, so
+// freshness cannot carry a minor story past a major one. Collapses after the 30-hour
+// window. Same formula as compute_time_decayed_score in pipeline/processing/scoring.py.
+const RANK_HALF_LIFE_HOURS = 12;
+
+/** Time-decay factor applied to (score^2 / 10). */
+export function rankDecay(publishedAt?: string | null, maxHours: number = 30): number {
+  if (!publishedAt) return 0.5;
+  const pubTime = new Date(publishedAt).getTime();
+  if (isNaN(pubTime)) return 0.5;
+  const ageHours = Math.max(0, (Date.now() - pubTime) / (3600 * 1000));
+  let decay = Math.pow(0.5, ageHours / RANK_HALF_LIFE_HOURS);
+  if (ageHours > maxHours) decay /= Math.pow(1.0 + (ageHours - maxHours), 2.0);
+  return decay;
+}
+
+/** The importance score a story of this age needs to reach a given rank. */
+export function importanceForRank(rank: number, publishedAt?: string | null): number {
+  return Math.sqrt((rank * 10) / Math.max(rankDecay(publishedAt), 1e-6));
+}
 
 export function calculateDynamicRank(importance: number, publishedAt?: string | null, maxHours: number = 30): number {
-  if (!publishedAt) return Number((importance / 2.0).toFixed(4));
-  const pubTime = new Date(publishedAt).getTime();
-  if (isNaN(pubTime)) return Number((importance / 2.0).toFixed(4));
-
-  const ageHours = Math.max(0, (Date.now() - pubTime) / (3600 * 1000));
-  let rank = importance * Math.pow(0.5, ageHours / RANK_HALF_LIFE_HOURS);
-  if (ageHours > maxHours) {
-    rank /= Math.pow(1.0 + (ageHours - maxHours), 2.0);
-  }
-  return Number(rank.toFixed(4));
+  return Number((((importance * importance) / 10) * rankDecay(publishedAt, maxHours)).toFixed(4));
 }
 
 function normalizeStory(data: any, fallbackDate?: string): CapsuleStory {

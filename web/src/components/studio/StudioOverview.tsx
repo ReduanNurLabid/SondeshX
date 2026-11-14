@@ -115,7 +115,7 @@ export const StudioOverview: React.FC<Props> = ({ onNavigate, onOpenStory }) => 
     const nextReel = stories
       .filter((s) => ageMs(s.published_at) < 6 * HOUR && !posted.has(s.story_id))
       .filter((s) => s.fact_check?.status === 'passed' && (s.daily_buzz?.bullets_bn?.length ?? 0) >= 2)
-      .filter((s) => (s.importance_score ?? 0) >= 6.5 && (s.social_appeal == null || s.social_appeal >= 6))
+      .filter((s) => (s.importance_score ?? 0) >= 6.0 && (s.social_appeal == null || s.social_appeal >= 6))
       .sort((a, b) => reelScore(b) - reelScore(a))[0];
 
     const reels24 = reels.filter((r) => ageMs(r.posted_at) < 24 * HOUR);

@@ -23,7 +23,7 @@ import { getLocalDeletedIds, addLocalDeletedId } from '../services/api';
 import { auth, db } from '../services/firebase';
 import { useApp } from '../context/AppContext';
 import { CapsuleStory } from '../types';
-import { calculateDynamicRank, sortByEditorialRank } from '../services/api';
+import { calculateDynamicRank, sortByEditorialRank, importanceForRank } from '../services/api';
 import { 
   ShieldCheck, 
   Lock, 
@@ -106,6 +106,13 @@ export function formatRelativeTime(dateStr?: string | null): string {
   const diffDay = Math.floor(diffHour / 24);
   return `${diffDay}d ago`;
 }
+
+const EDITOR_TABS: { id: 'bn' | 'en' | 'placement' | 'sources'; label: string }[] = [
+  { id: 'bn', label: 'বাংলা' },
+  { id: 'en', label: 'English' },
+  { id: 'placement', label: 'Placement & score' },
+  { id: 'sources', label: 'Sources, image & tags' },
+];
 
 const STUDIO_NAV: { id: StudioSection; label: string; short: string; icon: React.ReactNode }[] = [
   { id: 'overview', label: 'Dashboard', short: 'Home', icon: <LayoutDashboard className="w-4 h-4" /> },
@@ -283,6 +290,7 @@ export const EditorialDashboard: React.FC = () => {
   const [selectedStory, setSelectedStory] = useState<CapsuleStory | null>(null);
   // Studio navigation: the dashboard is the starting page; every section is reached from it.
   const [section, setSection] = useState<StudioSection>('overview');
+  const [editorTab, setEditorTab] = useState<'bn' | 'en' | 'placement' | 'sources'>('bn');
   const [pendingStoryId, setPendingStoryId] = useState<string | null>(null);
   const [isSaving, setIsSaving] = useState(false);
   const [statusMessage, setStatusMessage] = useState<{ text: string; type: 'success' | 'error' } | null>(null);
@@ -781,9 +789,8 @@ export const EditorialDashboard: React.FC = () => {
   const handleAssignSlot = (target: 'hero' | 'col1' | 'col3' | 'grid') => {
     if (!selectedStory) return;
 
-    // Time decay of this story: decay = importance / rank
-    const testRank = calculateDynamicRank(10.0, selectedStory.published_at, 30);
-    const decay = 10.0 / Math.max(testRank, 0.01);
+    // Score this story needs, at its age, to reach a given rank.
+    const need = (rank: number) => importanceForRank(rank, selectedStory.published_at);
 
     const otherStories = rankedStories.filter((s) => s.story_id !== selectedStory.story_id);
     let targetImportance = 2.0;
@@ -792,18 +799,18 @@ export const EditorialDashboard: React.FC = () => {
       // Must beat the current #1 story
       const topRank = otherStories.length > 0 ? (otherStories[0].rank_score ?? 1.2) : 1.2;
       const neededRank = topRank + 0.25;
-      targetImportance = Math.min(10.0, Math.max(8.5, Number((neededRank * decay).toFixed(1))));
+      targetImportance = Math.min(10.0, Math.max(8.0, Number(need(neededRank).toFixed(1))));
     } else if (target === 'col1') {
       // Must sit in position #2 or #3
       const topRank = otherStories.length > 0 ? (otherStories[0].rank_score ?? 1.5) : 1.5;
       const thirdRank = otherStories.length > 2 ? (otherStories[2].rank_score ?? 0.8) : 0.8;
       const targetRank = Math.max(0.7, (topRank + thirdRank) / 2);
-      targetImportance = Math.min(8.0, Math.max(4.5, Number((targetRank * decay).toFixed(1))));
+      targetImportance = Math.min(9.0, Math.max(5.0, Number(need(targetRank).toFixed(1))));
     } else if (target === 'col3') {
       // Must sit in Wire Desk positions #4 to #7
       const wireRank = otherStories.length > 4 ? (otherStories[4].rank_score ?? 0.5) : 0.5;
       const targetRank = Math.max(0.35, wireRank);
-      targetImportance = Math.min(5.0, Math.max(2.5, Number((targetRank * decay).toFixed(1))));
+      targetImportance = Math.min(7.0, Math.max(3.0, Number(need(targetRank).toFixed(1))));
     } else if (target === 'grid') {
       targetImportance = 1.0;
     }
@@ -1416,8 +1423,23 @@ export const EditorialDashboard: React.FC = () => {
                 </div>
               ) : (
                 <div className="flex-1 overflow-y-auto p-4 sm:p-6 space-y-5">
+                {/* Editor tabs: one part of the story at a time instead of one long form */}
+                <div className="flex flex-wrap gap-1 border-b border-primary/20 pb-2 sticky top-0 bg-surface-container z-10 -mt-1 pt-1">
+                  {EDITOR_TABS.map((t) => (
+                    <button
+                      key={t.id}
+                      type="button"
+                      onClick={() => setEditorTab(t.id)}
+                      className={`px-3 py-1.5 font-sans text-xs font-bold uppercase tracking-wider border transition-colors cursor-pointer ${
+                        editorTab === t.id ? 'bg-primary text-background border-primary' : 'border-primary/20 text-on-surface-variant hover:text-primary hover:border-primary/50'
+                      }`}
+                    >
+                      {t.label}
+                    </button>
+                  ))}
+                </div>
                   {/* 1. SCORING & EDITORIAL PLACEMENT COMMAND */}
-                  {(() => {
+                  {editorTab === 'placement' && (() => {
                     const currentPlacement = storyPlacementMap.get(selectedStory.story_id) || getStorySlotPlacement(0, activeCollection);
                     const dynamicRank = calculateDynamicRank(selectedStory.importance_score ?? 2.0, selectedStory.published_at, 30);
                     const ageText = formatRelativeTime(selectedStory.published_at);
@@ -1627,6 +1649,7 @@ export const EditorialDashboard: React.FC = () => {
                   })()}
 
                 {/* 2. ENGLISH COPYWRITING */}
+                {editorTab === 'en' && (
                 <div className="space-y-3">
                   <h5 className="font-sans text-xs font-bold uppercase tracking-wider text-primary border-b border-primary/20 pb-1">
                     English Editorial Text
@@ -1704,8 +1727,10 @@ export const EditorialDashboard: React.FC = () => {
                     />
                   </div>
                 </div>
+                )}
 
                 {/* 3. BANGLA COPYWRITING */}
+                {editorTab === 'bn' && (
                 <div className="space-y-3 pt-3 border-t border-primary/20">
                   <h5 className="font-sans text-xs font-bold uppercase tracking-wider text-primary border-b border-primary/20 pb-1">
                     বাংলা সম্পাদকীয় টেক্সট
@@ -1783,8 +1808,10 @@ export const EditorialDashboard: React.FC = () => {
                     />
                   </div>
                 </div>
+                )}
 
                 {/* 4. SOURCES & METADATA */}
+                {editorTab === 'sources' && (
                 <div className="space-y-3 pt-3 border-t border-primary/20">
                   <h5 className="font-sans text-xs font-bold uppercase tracking-wider text-primary border-b border-primary/20 pb-1">
                     Sources, Image & Timestamp
@@ -1844,6 +1871,7 @@ export const EditorialDashboard: React.FC = () => {
                     />
                   </div>
                 </div>
+                )}
               </div>
             )}
           </div>
