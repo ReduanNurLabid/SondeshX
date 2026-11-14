@@ -17,6 +17,10 @@ on:
         description: 'Post this story instead of the top pick (optional)'
         required: false
         default: ''
+      insights_only:
+        description: 'Only refresh Reel performance numbers'
+        type: boolean
+        default: false
 
 concurrency:
   group: facebook-reels
@@ -61,7 +65,7 @@ jobs:
           cd web && pnpm install --frozen-lockfile
 
       - name: Build And Serve The Reel Renderer
-        if: github.event.schedule != '10 23 * * *'
+        if: (github.event.schedule != '10 23 * * *' && !inputs.insights_only)
         run: |
           cd web
           npx tsc --noEmit
@@ -70,7 +74,7 @@ jobs:
           for i in $(seq 1 30); do curl -sf http://localhost:4173/__reel > /dev/null && break; sleep 1; done
 
       - name: Read Reel Performance From Facebook
-        if: github.event.schedule == '10 23 * * *'
+        if: (github.event.schedule == '10 23 * * *' || inputs.insights_only)
         env:
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
           FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
@@ -78,7 +82,7 @@ jobs:
         run: python -m pipeline.social.reel_insights
 
       - name: Render And Post Reel
-        if: github.event.schedule != '10 23 * * *'
+        if: (github.event.schedule != '10 23 * * *' && !inputs.insights_only)
         env:
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
@@ -95,7 +99,7 @@ jobs:
           python -m pipeline.social.post_reel $ARGS
 
       - name: Keep The Rendered Video
-        if: always() && github.event.schedule != '10 23 * * *'
+        if: always() && (github.event.schedule != '10 23 * * *' && !inputs.insights_only)
         uses: actions/upload-artifact@v4
         with:
           name: reel-${{ github.run_id }}
