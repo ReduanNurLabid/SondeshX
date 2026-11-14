@@ -117,19 +117,29 @@ export const GeminiKeysPanel: React.FC = () => {
             )}
 
             <form onSubmit={handleAdd} className="grid grid-cols-1 sm:grid-cols-[1fr_2fr_auto] gap-2">
+              {/* Neither field may look like a login form: a password-type input here
+                  made the browser autofill the editor's own email and password. The key
+                  is masked with CSS instead. */}
               <input
                 type="text"
+                name="gemini-key-label"
                 value={label}
                 onChange={(e) => setLabel(e.target.value)}
                 placeholder="Label, e.g. Second account"
+                autoComplete="off"
                 className="border border-primary/30 bg-background px-3 py-2 font-sans text-xs text-on-surface"
               />
               <input
-                type="password"
+                type="text"
+                name="gemini-key-value"
                 value={value}
                 onChange={(e) => setValue(e.target.value)}
                 placeholder="Gemini API key"
                 autoComplete="off"
+                spellCheck={false}
+                data-lpignore="true"
+                data-1p-ignore="true"
+                style={{ WebkitTextSecurity: 'disc' } as React.CSSProperties}
                 className="border border-primary/30 bg-background px-3 py-2 font-mono text-xs text-on-surface"
               />
               <button
