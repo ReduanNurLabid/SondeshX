@@ -167,7 +167,7 @@ export const Header: React.FC = () => {
             </h1>
             <p className="font-headline-sm text-headline-sm italic text-on-surface-variant text-center max-w-2xl mt-0.5">
               {isBn 
-                ? 'সংবাদের অপ্রয়োজনীয় বাহুল্য বর্জন — বাংলাদেশ ও বিশ্বের মূল খবরের কিউরেট করা সারসংক্ষেপ' 
+                ? 'বাংলাদেশ ও বিশ্বের দিনের খবর, এক মিনিটে। এআইয়ের লেখা, মূল প্রতিবেদনের সঙ্গে মিলিয়ে যাচাই করা।'
                 : 'What happened in Bangladesh and the world, in a minute. Written by AI, checked against the original reports.'}
             </p>
           </div>
@@ -178,7 +178,7 @@ export const Header: React.FC = () => {
               <span className="w-1.5 h-1.5 rounded-full bg-secondary animate-pulse"></span>
               {isBn ? 'স্ট্রাকচার্ড ব্রিফিং' : 'STRUCTURED BRIEFINGS'}
             </span>
-            <span>{isBn ? 'ফরম্যাট: ৩-স্তরীয় ব্রিফিং' : 'FORMAT: 3-TIER INTELLIGENCE'}</span>
+            <span>{isBn ? 'হালনাগাদ: প্রতি ঘণ্টায়' : 'UPDATED: EVERY HOUR'}</span>
             <span>{isBn ? 'সংস্করণ: ডিজিটাল ব্রডশিট' : 'EDITION: DIGITAL BROADSHEET'}</span>
             <span>{isBn ? 'যাচাই: মূল প্রতিবেদনের সঙ্গে মিলিয়ে' : 'CHECKED AGAINST SOURCE REPORTS'}</span>
           </div>
