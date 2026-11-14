@@ -54,6 +54,9 @@ import {
 import { SocialCardStudio, StudioTab } from './SocialCardStudio';
 import { GeminiKeysPanel } from './GeminiKeysPanel';
 import { ReelsPerformancePanel } from './ReelsPerformancePanel';
+import { StudioOverview, StudioSection } from './studio/StudioOverview';
+import { FrontPageBoard } from './studio/FrontPageBoard';
+import { LayoutDashboard, Newspaper as NewspaperIcon, LayoutTemplate, BookOpen, Settings as SettingsIcon } from 'lucide-react';
 
 const AUTHORIZED_EMAILS = ['nurreduan.pp@gmail.com', 'reduannurlabid@gmail.com'];
 
@@ -103,6 +106,15 @@ export function formatRelativeTime(dateStr?: string | null): string {
   const diffDay = Math.floor(diffHour / 24);
   return `${diffDay}d ago`;
 }
+
+const STUDIO_NAV: { id: StudioSection; label: string; short: string; icon: React.ReactNode }[] = [
+  { id: 'overview', label: 'Dashboard', short: 'Home', icon: <LayoutDashboard className="w-4 h-4" /> },
+  { id: 'stories', label: 'Stories', short: 'Stories', icon: <NewspaperIcon className="w-4 h-4" /> },
+  { id: 'frontpage', label: 'Front page', short: 'Front', icon: <LayoutTemplate className="w-4 h-4" /> },
+  { id: 'affairs', label: 'Current affairs', short: 'Affairs', icon: <BookOpen className="w-4 h-4" /> },
+  { id: 'social', label: 'Social', short: 'Social', icon: <Share2 className="w-4 h-4" /> },
+  { id: 'settings', label: 'Settings', short: 'Settings', icon: <SettingsIcon className="w-4 h-4" /> },
+];
 
 export type BroadsheetSlot = {
   slotKey: 'hero' | 'col1_top' | 'col1_bottom' | 'col3_wire' | 'grid';
@@ -269,6 +281,9 @@ export const EditorialDashboard: React.FC = () => {
   const [searchFilter, setSearchFilter] = useState('');
   const [sortMode, setSortMode] = useState<'broadsheet' | 'date'>('broadsheet');
   const [selectedStory, setSelectedStory] = useState<CapsuleStory | null>(null);
+  // Studio navigation: the dashboard is the starting page; every section is reached from it.
+  const [section, setSection] = useState<StudioSection>('overview');
+  const [pendingStoryId, setPendingStoryId] = useState<string | null>(null);
   const [isSaving, setIsSaving] = useState(false);
   const [statusMessage, setStatusMessage] = useState<{ text: string; type: 'success' | 'error' } | null>(null);
   const [previewMode, setPreviewMode] = useState<'editor' | 'preview'>('editor');
@@ -679,6 +694,30 @@ export const EditorialDashboard: React.FC = () => {
     setSelectedStory(newStory);
   };
 
+  const goToSection = (next: StudioSection) => {
+    setSection(next);
+    if (next === 'affairs') setActiveCollection('current_affairs_published');
+    else if (next === 'stories' && activeCollection === 'current_affairs_published') setActiveCollection('daily_buzz');
+    else if (next === 'frontpage') setActiveCollection('daily_buzz');
+    window.scrollTo({ top: 0 });
+  };
+
+  const openStoryFromStudio = (storyId: string) => {
+    setPendingStoryId(storyId);
+    setSection('stories');
+    if (activeCollection !== 'daily_buzz') setActiveCollection('daily_buzz');
+    window.scrollTo({ top: 0 });
+  };
+
+  useEffect(() => {
+    if (!pendingStoryId || stories.length === 0) return;
+    const match = stories.find((st) => st.story_id === pendingStoryId);
+    if (match) {
+      setSelectedStory(match);
+      setPendingStoryId(null);
+    }
+  }, [pendingStoryId, stories]);
+
   // Dynamically compute ranked feed incorporating any live in-progress edits on selectedStory
   const rankedStories = useMemo(() => {
     const list = stories.map((s) => {
@@ -1005,12 +1044,76 @@ export const EditorialDashboard: React.FC = () => {
         </div>
       </header>
 
-      {/* Admin: backup Gemini API keys used by the news pipeline */}
-      <GeminiKeysPanel />
+      <div className="flex">
+        {/* STUDIO SIDEBAR (a bottom bar on phones) */}
+        <nav className="hidden lg:flex flex-col w-52 shrink-0 border-r border-primary/20 bg-surface-container-low min-h-[calc(100vh-64px)] sticky top-[64px] self-start py-3">
+          {STUDIO_NAV.map((item) => (
+            <button
+              key={item.id}
+              onClick={() => goToSection(item.id)}
+              className={`flex items-center gap-2.5 px-4 py-2.5 font-sans text-sm text-left transition-colors cursor-pointer ${
+                section === item.id ? 'bg-primary text-background font-bold' : 'text-on-surface-variant hover:text-primary hover:bg-surface-container'
+              }`}
+            >
+              {item.icon}
+              {item.label}
+            </button>
+          ))}
+        </nav>
+        <nav className="lg:hidden fixed bottom-0 inset-x-0 z-40 grid grid-cols-6 border-t border-primary/30 bg-surface-container-high">
+          {STUDIO_NAV.map((item) => (
+            <button
+              key={item.id}
+              onClick={() => goToSection(item.id)}
+              className={`flex flex-col items-center gap-0.5 py-2 font-sans text-[10px] cursor-pointer ${section === item.id ? 'text-secondary font-bold' : 'text-on-surface-variant'}`}
+            >
+              {item.icon}
+              {item.short}
+            </button>
+          ))}
+        </nav>
 
-      {/* Admin: automatic Facebook Reels and their performance */}
-      <ReelsPerformancePanel />
+        <main className="flex-1 min-w-0 pb-16 lg:pb-0">
+      {section === 'overview' && (
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+          <StudioOverview onNavigate={goToSection} onOpenStory={openStoryFromStudio} />
+        </div>
+      )}
 
+      {section === 'frontpage' && (
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+          <FrontPageBoard rankedStories={rankedStories} onOpenStory={openStoryFromStudio} />
+        </div>
+      )}
+
+      {section === 'social' && (
+        <div className="max-w-7xl mx-auto py-6 space-y-4">
+          <div className="px-4 sm:px-6 lg:px-8">
+            <h1 className="font-display-headline text-2xl font-bold text-primary">Social</h1>
+            <p className="font-sans text-xs text-on-surface-variant">
+              Reels post automatically every 2 hours. To make a photo card or a Reel by hand, open a story in Stories and use the Photo card or Video reel buttons.
+              To post a Reel now, run the Facebook Reels workflow on GitHub with Render only unticked.
+            </p>
+            <a href="https://github.com/ReduanNurLabid/SondeshX/actions/workflows/facebook_reels.yml" target="_blank" rel="noopener"
+              className="inline-block mt-2 border border-primary/30 px-3 py-1.5 font-sans text-xs font-semibold text-primary hover:border-primary">
+              Open the Facebook Reels workflow
+            </a>
+          </div>
+          <ReelsPerformancePanel defaultOpen />
+        </div>
+      )}
+
+      {section === 'settings' && (
+        <div className="max-w-7xl mx-auto py-6 space-y-4">
+          <div className="px-4 sm:px-6 lg:px-8">
+            <h1 className="font-display-headline text-2xl font-bold text-primary">Settings</h1>
+            <p className="font-sans text-xs text-on-surface-variant">Signed in as {currentUser.email}.</p>
+          </div>
+          <GeminiKeysPanel defaultOpen />
+        </div>
+      )}
+
+      {(section === 'stories' || section === 'affairs') && (<>
       {/* 2. SUB-COLLECTION TABS & SEARCH */}
       <div className="border-b border-primary/20 bg-surface-container-low px-4 sm:px-6 lg:px-8 py-2.5">
         <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-3">
@@ -1019,7 +1122,7 @@ export const EditorialDashboard: React.FC = () => {
               { id: 'daily_buzz' as const, label: 'Front Page & Buzz (daily_buzz)', count: activeCollection === 'daily_buzz' ? stories.length : undefined },
               { id: 'current_affairs_published' as const, label: 'Current Affairs Dossiers', count: activeCollection === 'current_affairs_published' ? stories.length : undefined },
               { id: 'hourly_buzz' as const, label: 'Live Hourly Wires', count: activeCollection === 'hourly_buzz' ? stories.length : undefined },
-            ].map((tab) => (
+            ].filter((tab) => (section === 'affairs') === (tab.id === 'current_affairs_published')).map((tab) => (
               <button
                 key={tab.id}
                 onClick={() => setActiveCollection(tab.id)}
@@ -1756,6 +1859,10 @@ export const EditorialDashboard: React.FC = () => {
             </div>
           )}
         </div>
+      </div>
+
+      </>)}
+        </main>
       </div>
 
       {/* SOCIAL MEDIA STUDIO (PHOTO CARD & 10s VIDEO REEL) */}

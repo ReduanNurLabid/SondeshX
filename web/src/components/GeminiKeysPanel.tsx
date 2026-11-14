@@ -15,8 +15,8 @@ function maskKey(key: string): string {
   return key.length <= 8 ? '••••••••' : `${key.slice(0, 4)}••••••••${key.slice(-4)}`;
 }
 
-export const GeminiKeysPanel: React.FC = () => {
-  const [open, setOpen] = useState(false);
+export const GeminiKeysPanel: React.FC<{ defaultOpen?: boolean }> = ({ defaultOpen = false }) => {
+  const [open, setOpen] = useState(defaultOpen);
   const [keys, setKeys] = useState<StoredKey[]>([]);
   const [loaded, setLoaded] = useState(false);
   const [label, setLabel] = useState('');

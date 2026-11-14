@@ -27,8 +27,8 @@ interface ReelPost {
 const fmt = (n?: number | null) => (n == null ? '—' : n.toLocaleString());
 
 /** Reels posted by the automatic job, with the numbers Facebook reports a day later. */
-export const ReelsPerformancePanel: React.FC = () => {
-  const [open, setOpen] = useState(false);
+export const ReelsPerformancePanel: React.FC<{ defaultOpen?: boolean }> = ({ defaultOpen = false }) => {
+  const [open, setOpen] = useState(defaultOpen);
   const [posts, setPosts] = useState<ReelPost[] | null>(null);
   const [error, setError] = useState<string | null>(null);
 
