@@ -15,7 +15,8 @@ interface ReelPost {
   comment_id?: string | null;
   insights?: {
     plays?: number;
-    reach?: number;
+    total_plays?: number;
+    interactions?: number;
     avg_watch_ms?: number;
     reactions?: number;
     comments?: number;
@@ -59,7 +60,7 @@ export const ReelsPerformancePanel: React.FC = () => {
           <div className="border-t border-primary/20 px-4 py-4 space-y-3">
             <p className="font-serif text-xs text-on-surface-variant leading-relaxed">
               A Reel is posted every 2 hours from 7:40 AM to 11:40 PM when a strong enough story is available.
-              Plays, reach and watch time are read from Facebook once a day. Visits to the site from these Reels
+              Plays, watch time, reactions and comments are read from Facebook once a day. Visits to the site from these Reels
               appear in Google Analytics under source "facebook", medium "reel".
             </p>
             {error && <p className="font-sans text-xs text-red-600">Could not load: {error}</p>}
@@ -83,7 +84,7 @@ export const ReelsPerformancePanel: React.FC = () => {
                         <th className="py-1.5 pr-3 text-right">Imp.</th>
                         <th className="py-1.5 pr-3 text-right">Appeal</th>
                         <th className="py-1.5 pr-3 text-right">Plays</th>
-                        <th className="py-1.5 pr-3 text-right">Reach</th>
+                        <th className="py-1.5 pr-3 text-right">Total plays</th>
                         <th className="py-1.5 pr-3 text-right">Avg watch</th>
                         <th className="py-1.5 pr-3 text-right">Reactions</th>
                         <th className="py-1.5 text-right">Comments</th>
@@ -107,7 +108,7 @@ export const ReelsPerformancePanel: React.FC = () => {
                           <td className="py-1.5 pr-3 text-right">{p.importance_score?.toFixed(1) ?? '—'}</td>
                           <td className="py-1.5 pr-3 text-right">{p.social_appeal?.toFixed(0) ?? '—'}</td>
                           <td className="py-1.5 pr-3 text-right font-bold">{fmt(p.insights?.plays)}</td>
-                          <td className="py-1.5 pr-3 text-right">{fmt(p.insights?.reach)}</td>
+                          <td className="py-1.5 pr-3 text-right">{fmt(p.insights?.total_plays)}</td>
                           <td className="py-1.5 pr-3 text-right">
                             {p.insights?.avg_watch_ms != null ? `${(p.insights.avg_watch_ms / 1000).toFixed(1)}s` : '—'}
                           </td>

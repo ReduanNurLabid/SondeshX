@@ -19,7 +19,8 @@ GRAPH = "https://graph.facebook.com/v23.0"
 DAYS_TRACKED = 7
 METRICS = {
     "blue_reels_play_count": "plays",
-    "post_impressions_unique": "reach",
+    "fb_reels_total_plays": "total_plays",
+    "post_video_likes_by_reaction_type": "reactions",
     "post_video_avg_time_watched": "avg_watch_ms",
     "post_video_social_actions": "interactions",
 }
@@ -38,13 +39,11 @@ def fetch_insights(video_id: str, token: str) -> dict:
             if values:
                 value = values[-1].get("value")
                 out[name] = sum(value.values()) if isinstance(value, dict) else value
-    # Comments and reactions on the Reel itself.
-    r = requests.get(f"{GRAPH}/{video_id}", timeout=30, params={
-        "fields": "comments.summary(true).limit(0),reactions.summary(true).limit(0)", "access_token": token})
+    # Comment count on the Reel (includes our own link comment).
+    r = requests.get(f"{GRAPH}/{video_id}/comments", timeout=30,
+                     params={"summary": "true", "limit": 0, "access_token": token})
     if r.ok:
-        data = r.json()
-        out["comments"] = (data.get("comments") or {}).get("summary", {}).get("total_count")
-        out["reactions"] = (data.get("reactions") or {}).get("summary", {}).get("total_count")
+        out["comments"] = (r.json().get("summary") or {}).get("total_count")
     if errors:
         out["errors"] = errors[:4]
     return out
@@ -56,7 +55,7 @@ def main():
     token = os.environ["FB_PAGE_TOKEN"]
     db = get_firestore_client()
     since = (datetime.now(timezone.utc) - timedelta(days=DAYS_TRACKED)).isoformat()
-    docs = db.collection("social_posts").where("posted_at", ">=", since).stream()
+    docs = db.collection("social_posts").where(filter=firestore.FieldFilter("posted_at", ">=", since)).stream()
     updated = 0
     for doc in docs:
         post = doc.to_dict()
@@ -66,7 +65,7 @@ def main():
         stats["checked_at"] = datetime.now(timezone.utc).isoformat()
         doc.reference.set({"insights": stats}, merge=True)
         updated += 1
-        summary = {k: stats.get(k) for k in ("plays", "reach", "avg_watch_ms", "reactions", "comments")}
+        summary = {k: stats.get(k) for k in ("plays", "total_plays", "avg_watch_ms", "reactions", "interactions", "comments")}
         print(f"{post.get('headline', '')[:50]} -> {summary}")
         if stats.get("errors"):
             print(f"   missing: {stats['errors']}")
