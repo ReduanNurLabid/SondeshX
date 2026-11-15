@@ -13,9 +13,13 @@ interface ReelPost {
   importance_score?: number;
   social_appeal?: number;
   comment_id?: string | null;
+  platform?: string;
+  post_id?: string;
   insights?: {
     plays?: number;
     total_plays?: number;
+    reach?: number;
+    clicks?: number;
     interactions?: number;
     avg_watch_ms?: number;
     reactions?: number;
@@ -51,7 +55,7 @@ export const ReelsPerformancePanel: React.FC<{ defaultOpen?: boolean }> = ({ def
         >
           <span className="flex items-center gap-2">
             <Film className="w-4 h-4" />
-            Facebook Reels performance
+            Facebook posts performance (Reels and photo cards)
           </span>
           {open ? <ChevronUp className="w-4 h-4" /> : <ChevronDown className="w-4 h-4" />}
         </button>
@@ -79,12 +83,13 @@ export const ReelsPerformancePanel: React.FC<{ defaultOpen?: boolean }> = ({ def
                     <thead>
                       <tr className="text-left text-on-surface-variant border-b border-primary/20">
                         <th className="py-1.5 pr-3">Posted</th>
+                        <th className="py-1.5 pr-3">Type</th>
                         <th className="py-1.5 pr-3">Story</th>
                         <th className="py-1.5 pr-3">Section</th>
                         <th className="py-1.5 pr-3 text-right">Imp.</th>
                         <th className="py-1.5 pr-3 text-right">Appeal</th>
                         <th className="py-1.5 pr-3 text-right">Plays</th>
-                        <th className="py-1.5 pr-3 text-right">Total plays</th>
+                        <th className="py-1.5 pr-3 text-right">Total plays / reach</th>
                         <th className="py-1.5 pr-3 text-right">Avg watch</th>
                         <th className="py-1.5 pr-3 text-right">Reactions</th>
                         <th className="py-1.5 text-right">Comments</th>
@@ -96,9 +101,10 @@ export const ReelsPerformancePanel: React.FC<{ defaultOpen?: boolean }> = ({ def
                           <td className="py-1.5 pr-3 whitespace-nowrap text-on-surface-variant">
                             {p.posted_at ? new Date(p.posted_at).toLocaleString('en-GB', { day: '2-digit', month: 'short', hour: '2-digit', minute: '2-digit' }) : '—'}
                           </td>
+                          <td className="py-1.5 pr-3 whitespace-nowrap">{p.platform === 'facebook_photo' ? 'Photo' : 'Reel'}</td>
                           <td className="py-1.5 pr-3 min-w-[16rem]">
-                            {p.video_id ? (
-                              <a href={`https://www.facebook.com/reel/${p.video_id}`} target="_blank" rel="noopener" className="text-primary hover:underline">
+                            {p.video_id || p.post_id ? (
+                              <a href={p.video_id ? `https://www.facebook.com/reel/${p.video_id}` : `https://www.facebook.com/${p.post_id}`} target="_blank" rel="noopener" className="text-primary hover:underline">
                                 {p.headline || p.story_id}
                               </a>
                             ) : (p.headline || p.story_id)}
@@ -108,7 +114,7 @@ export const ReelsPerformancePanel: React.FC<{ defaultOpen?: boolean }> = ({ def
                           <td className="py-1.5 pr-3 text-right">{p.importance_score?.toFixed(1) ?? '—'}</td>
                           <td className="py-1.5 pr-3 text-right">{p.social_appeal?.toFixed(0) ?? '—'}</td>
                           <td className="py-1.5 pr-3 text-right font-bold">{fmt(p.insights?.plays)}</td>
-                          <td className="py-1.5 pr-3 text-right">{fmt(p.insights?.total_plays)}</td>
+                          <td className="py-1.5 pr-3 text-right">{fmt(p.insights?.total_plays ?? p.insights?.reach)}</td>
                           <td className="py-1.5 pr-3 text-right">
                             {p.insights?.avg_watch_ms != null ? `${(p.insights.avg_watch_ms / 1000).toFixed(1)}s` : '—'}
                           </td>

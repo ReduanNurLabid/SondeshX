@@ -12,6 +12,29 @@ const bnDate = (iso?: string) => {
   return `${toBanglaDigits(d.getDate())} ${BN_MONTHS[d.getMonth()]} ${toBanglaDigits(d.getFullYear())}`;
 };
 
+const SECTION_TAGS: Record<string, string> = {
+  governance_law: '#রাজনীতি', economy_business: '#অর্থনীতি', world_diplomacy: '#আন্তর্জাতিক',
+  tech_innovation: '#প্রযুক্তি', climate_environment: '#পরিবেশ', society_education: '#সমাজ', sports_fitness: '#খেলা',
+};
+const PLACES = ['ঢাকা', 'চট্টগ্রাম', 'রাজশাহী', 'খুলনা', 'বরিশাল', 'সিলেট', 'রংপুর', 'ময়মনসিংহ', 'গাজীপুর', 'নারায়ণগঞ্জ',
+  'কুমিল্লা', 'কক্সবাজার', 'গোপালগঞ্জ', 'বগুড়া', 'যশোর', 'ফরিদপুর', 'নোয়াখালী', 'টাঙ্গাইল', 'দিনাজপুর', 'পাবনা'];
+const GENERIC = new Set(['#bangladesh', '#news', '#bangladeshnews', '#breakingnews', '#dhaka', '#world', '#worldnews']);
+
+/** Same rules as pipeline/social/hashtags.py: brand, section, places, story topics, audience. */
+function buildHashtags(story: CapsuleStory): string[] {
+  const b = story.daily_buzz;
+  const text = [b.title_bn, b.lead_bn, ...(b.bullets_bn || [])].join(' ');
+  const tags = ['#সন্দেশএক্সপ্রেস'];
+  const section = SECTION_TAGS[story.primary_category || ''];
+  if (section) tags.push(section);
+  PLACES.map((p) => [text.search(new RegExp(`(?<![\u0980-\u09FF])${p}`)), p] as const)
+    .filter(([i]) => i >= 0).sort((a, b2) => a[0] - b2[0]).slice(0, 2).forEach(([, p]) => tags.push(`#${p}`));
+  (story.tags || []).map((t) => '#' + String(t).replace(/^#/, '').replace(/[^\wঀ-৿]/g, ''))
+    .filter((t) => t.length > 2 && !GENERIC.has(t.toLowerCase())).slice(0, 2).forEach((t) => tags.push(t));
+  tags.push((story as any).region === 'international' ? '#বিশ্ব' : '#বাংলাদেশ');
+  return Array.from(new Set(tags)).slice(0, 7);
+}
+
 /** Same caption style as the automatic Reels: the story itself, then the link. */
 function buildCaption(story: CapsuleStory): string {
   const b = story.daily_buzz;
@@ -23,7 +46,7 @@ function buildCaption(story: CapsuleStory): string {
   const names = Array.from(new Set((story.sources || []).map((s) => s.name).filter(Boolean))).slice(0, 3);
   if (names.length) parts.push(`সূত্র: ${names.join(', ')}`);
   parts.push(`📰 পুরো খবর: ${storyUrl(story.story_id)}?utm_source=facebook&utm_medium=photo_card`);
-  parts.push('#সন্দেশএক্সপ্রেস #বাংলাদেশ #খবর');
+  parts.push(buildHashtags(story).join(' '));
   return parts.join('\n\n');
 }
 

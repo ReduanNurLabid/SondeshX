@@ -23,9 +23,14 @@ on:
         type: boolean
         default: false
       auto:
-        description: 'Started by the news pipeline (keeps Reels spaced out)'
+        description: 'Started by the news pipeline (keeps posts spaced out)'
         type: boolean
         default: false
+      format:
+        description: 'reel (voiced video) or photo (4:5 photo card)'
+        type: choice
+        options: [reel, photo]
+        default: reel
 
 concurrency:
   group: facebook-reels
@@ -96,7 +101,7 @@ jobs:
           REEL_TTS_VOICE: ${{ vars.REEL_TTS_VOICE || 'Kore' }}
           PYTHONPATH: .
         run: |
-          ARGS="--base-url http://localhost:4173 --out reel.mp4"
+          ARGS="--base-url http://localhost:4173 --out reel.mp4 --format ${{ inputs.format || 'reel' }}"
           if [ -z "${{ inputs.story_id }}" ] && { [ "${{ github.event_name }}" = "schedule" ] || [ "${{ inputs.auto }}" = "true" ]; }; then
             ARGS="$ARGS --min-gap-minutes 100"
           fi
@@ -113,6 +118,8 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: reel-${{ github.run_id }}
-          path: reel.mp4
+          path: |
+            reel.mp4
+            reel.png
           if-no-files-found: ignore
           retention-days: 7

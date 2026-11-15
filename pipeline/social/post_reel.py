@@ -33,6 +33,7 @@ from firebase_admin import firestore
 
 from pipeline.config import INTEREST_CATEGORIES
 from pipeline.storage.firebase_service import get_firestore_client
+from pipeline.social.hashtags import build_hashtags
 
 GRAPH = "https://graph.facebook.com/v23.0"
 SITE_URL = "https://sondesh.web.app"
@@ -74,13 +75,21 @@ def reel_score(story: dict) -> float:
     return 0.5 * importance + 0.5 * appeal + (0.5 if reel_image(story) else 0.0)
 
 
-def recent_posts(db, n: int = 3) -> List[dict]:
+def recent_posts(db, n: int = 3, platform: Optional[str] = None) -> List[dict]:
     docs = (db.collection("social_posts")
-            .order_by("posted_at", direction=firestore.Query.DESCENDING).limit(n).stream())
-    return [d.to_dict() for d in docs]
+            .order_by("posted_at", direction=firestore.Query.DESCENDING).limit(n if not platform else 20).stream())
+    posts = [d.to_dict() for d in docs]
+    if platform:
+        posts = [p for p in posts if p.get("platform", "facebook_reel") == platform]
+    return posts[:n]
 
 
-def pick_story(db, story_id: Optional[str] = None) -> Optional[dict]:
+def photo_score(story: dict) -> float:
+    """Photo cards suit important, text-led stories; a real photo still helps."""
+    return float(story.get("importance_score") or 0) + (0.5 if reel_image(story) else 0.0)
+
+
+def pick_story(db, story_id: Optional[str] = None, fmt: str = "reel") -> Optional[dict]:
     if story_id:
         snap = db.collection("daily_buzz").document(story_id).get()
         if not snap.exists:
@@ -111,7 +120,7 @@ def pick_story(db, story_id: Optional[str] = None) -> Optional[dict]:
             continue
         if float(s.get("importance_score") or 0) < MIN_IMPORTANCE:
             continue
-        if s.get("social_appeal") is not None and float(s["social_appeal"]) < MIN_APPEAL:
+        if fmt == "reel" and s.get("social_appeal") is not None and float(s["social_appeal"]) < MIN_APPEAL:
             continue
         s["story_id"] = sid
         candidates.append(s)
@@ -132,7 +141,7 @@ def pick_story(db, story_id: Optional[str] = None) -> Optional[dict]:
         return True
 
     pool = [s for s in candidates if allowed(s)] or candidates
-    pool.sort(key=reel_score, reverse=True)
+    pool.sort(key=reel_score if fmt == "reel" else photo_score, reverse=True)
     return pool[0]
 
 
@@ -400,14 +409,14 @@ def build_caption(story: dict) -> str:
     if names:
         parts.append(f"সূত্র: {', '.join(names[:3])}")
     parts.append("পুরো খবরের লিংক কমেন্টে 👇")
-    parts.append("#সন্দেশএক্সপ্রেস #বাংলাদেশ #খবর")
+    parts.append(" ".join(build_hashtags(story)))
     return "\n\n".join(parts)
 
 
-def story_link(story: dict, tagged: bool = False) -> str:
+def story_link(story: dict, tagged: bool = False, medium: str = "reel") -> str:
     url = f"{SITE_URL}/story/{story['story_id']}/"
-    # Tagged so Google Analytics can count visits that came from each Reel.
-    return url + "?utm_source=facebook&utm_medium=reel&utm_campaign=auto_reel" if tagged else url
+    # Tagged so Google Analytics can count visits that came from each post format.
+    return url + f"?utm_source=facebook&utm_medium={medium}&utm_campaign=auto_{medium}" if tagged else url
 
 
 def upload_reel(video_path: str, caption: str) -> str:
@@ -431,11 +440,11 @@ def upload_reel(video_path: str, caption: str) -> str:
     return video_id
 
 
-def comment_link(video_id: str, story: dict) -> Optional[str]:
+def comment_link(video_id: str, story: dict, medium: str = "reel") -> Optional[str]:
     """First comment with the story link. Needs pages_manage_engagement. The video may
     still be processing right after upload, so this retries for about two minutes."""
     token = os.environ["FB_PAGE_TOKEN"]
-    message = f"📰 পুরো খবর পড়ুন সন্দেশ এক্সপ্রেসে:\n{story_link(story, tagged=True)}"
+    message = f"📰 পুরো খবর পড়ুন সন্দেশ এক্সপ্রেসে:\n{story_link(story, tagged=True, medium=medium)}"
     last = ""
     for _ in range(8):
         r = requests.post(f"{GRAPH}/{video_id}/comments",
@@ -456,6 +465,46 @@ def _graph_error_text(resp: requests.Response) -> str:
 
 
 # ---------------------------------------------------------------- main
+def _card_request(story: dict) -> dict:
+    buzz = story["daily_buzz"]
+    names = source_names(story)
+    return {
+        "headline": buzz["title_bn"],
+        "points": (buzz.get("bullets_bn") or [])[:3],
+        "sourceLine": f"সূত্র: {', '.join(names[:3])}" if names else "",
+        "category": INTEREST_CATEGORIES.get(story.get("primary_category") or "", {}).get("bn", "খবর"),
+        "dateLine": bn_date(_parse_time(story.get("published_at")) or datetime.now(timezone.utc)),
+        "imageUrl": reel_image(story),
+        # Stories with a real photo get the big-photo layout; others the key-points layout.
+        "layout": "headline" if reel_image(story) and len(buzz.get("bullets_bn") or []) < 3 else "story",
+        "segments": [], "duration": 0,
+    }
+
+
+def render_photo(story: dict, base_url: str, out_path: str):
+    from playwright.sync_api import sync_playwright
+    with sync_playwright() as p:
+        browser = p.chromium.launch()
+        page = browser.new_page()
+        page.goto(f"{base_url}/__reel", wait_until="networkidle")
+        page.wait_for_function("window.reelHostReady === true", timeout=30000)
+        b64 = page.evaluate("req => window.renderPhotoCard(req)", _card_request(story))
+        browser.close()
+    with open(out_path, "wb") as fh:
+        fh.write(base64.b64decode(b64))
+
+
+def upload_photo(png_path: str, caption: str) -> dict:
+    page_id = os.environ["FB_PAGE_ID"]
+    token = os.environ["FB_PAGE_TOKEN"]
+    with open(png_path, "rb") as fh:
+        r = requests.post(f"{GRAPH}/{page_id}/photos", timeout=120,
+                          data={"message": caption, "published": "true", "access_token": token},
+                          files={"source": ("card.png", fh, "image/png")})
+    r.raise_for_status()
+    return r.json()   # {"id": photo_id, "post_id": page-post id}
+
+
 def main():
     if sys.stdout:
         sys.stdout.reconfigure(encoding="utf-8")
@@ -465,21 +514,57 @@ def main():
     parser.add_argument("--dry-run", action="store_true", help="render the video but do not post it")
     parser.add_argument("--out", default="reel.mp4", help="where to keep the rendered video")
     parser.add_argument("--min-gap-minutes", type=int, default=0,
-                        help="skip if the last Reel was posted less than this many minutes ago")
+                        help="skip if the last post of this format went out less than this many minutes ago")
+    parser.add_argument("--format", choices=["reel", "photo"], default="reel",
+                        help="reel: voiced video; photo: 4:5 photo card")
     args = parser.parse_args()
+    platform = "facebook_reel" if args.format == "reel" else "facebook_photo"
 
     db = get_firestore_client()
     if args.min_gap_minutes and not args.story_id:
-        last = recent_posts(db, 1)
+        last = recent_posts(db, 1, platform)
         last_at = _parse_time(last[0].get("posted_at")) if last else None
         if last_at and datetime.now(timezone.utc) - last_at < timedelta(minutes=args.min_gap_minutes):
-            print(f"Last Reel posted at {last_at.isoformat()}; skipping this slot (minimum gap {args.min_gap_minutes} min).")
+            print(f"Last {args.format} posted at {last_at.isoformat()}; skipping this slot (minimum gap {args.min_gap_minutes} min).")
             return
-    story = pick_story(db, args.story_id)
+    story = pick_story(db, args.story_id, args.format)
     if not story:
         print(f"No eligible story this slot (fact-checked, importance >= {MIN_IMPORTANCE}, appeal >= {MIN_APPEAL}, last {LOOKBACK_HOURS} hours, not yet posted).")
         return
     print(f"Story: {story['daily_buzz']['title_bn']} (importance {story.get('importance_score')}, appeal {story.get('social_appeal')}, reel score {reel_score(story):.2f})")
+
+    if args.format == "photo":
+        out = os.path.splitext(args.out)[0] + ".png"
+        render_photo(story, args.base_url, out)
+        caption = build_caption(story)
+        print(f"Rendered photo card {out} ({os.path.getsize(out) // 1024} KB)")
+        if args.dry_run:
+            print("Dry run: not posted.\n--- caption ---\n" + caption)
+            return
+        try:
+            res = upload_photo(out, caption)
+        except requests.HTTPError as err:
+            print(f"Facebook photo upload failed: {_graph_error_text(err.response)}")
+            sys.exit(1)
+        post_id = res.get("post_id") or res.get("id")
+        print(f"Posted photo card: post_id {post_id}")
+        comment_id = comment_link(post_id, story, medium="photo_card")
+        db.collection("social_posts").document(story["story_id"]).set({
+            "story_id": story["story_id"],
+            "platform": "facebook_photo",
+            "post_id": post_id,
+            "photo_id": res.get("id"),
+            "comment_id": comment_id,
+            "posted_at": datetime.now(timezone.utc).isoformat(),
+            "headline": story["daily_buzz"]["title_bn"],
+            "category": story.get("primary_category"),
+            "region": story.get("region"),
+            "importance_score": story.get("importance_score"),
+            "social_appeal": story.get("social_appeal"),
+            "hashtags": build_hashtags(story),
+            "story_published_at": story.get("published_at"),
+        })
+        return
 
     with tempfile.TemporaryDirectory() as workdir:
         voice, segments, duration = build_voiceover(story, workdir)
@@ -513,6 +598,7 @@ def main():
         "importance_score": story.get("importance_score"),
         "social_appeal": story.get("social_appeal"),
         "reel_score": round(reel_score(story), 2),
+        "hashtags": build_hashtags(story),
         "story_published_at": story.get("published_at"),
     })
     if comment_id:

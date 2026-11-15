@@ -4,6 +4,7 @@
 //   window.previewReelFrame(req, t)  draws one frame on screen (for checking the layout)
 import { drawAutoReelFrame, renderAutoReel, ReelSegment } from './services/reelAutoEngine';
 import { loadSafeCanvasImage } from './services/imageLoader';
+import { CARD_H, CARD_W, drawPhotoCard, PhotoCardLayout } from './services/photoCardEngine';
 
 export interface ReelRequest {
   headline: string;
@@ -58,6 +59,25 @@ export function installReelRenderHost() {
     const { logo, image } = await loadAssets(req);
     const result = await renderAutoReel({ ...req, logo, image });
     return { base64: await blobToBase64(result.blob), mimeType: result.mimeType };
+  };
+
+  // Photo card as a PNG (base64) for the automatic photo posts.
+  (window as any).renderPhotoCard = async (req: ReelRequest & { layout: PhotoCardLayout }) => {
+    const { logo, image } = await loadAssets(req);
+    const canvas = document.createElement('canvas');
+    canvas.width = CARD_W;
+    canvas.height = CARD_H;
+    drawPhotoCard(canvas.getContext('2d')!, {
+      layout: req.layout,
+      headline: req.headline,
+      points: req.points,
+      category: req.category,
+      dateLine: req.dateLine,
+      sourceLine: req.sourceLine,
+      image,
+      logo,
+    });
+    return canvas.toDataURL('image/png').split(',')[1];
   };
 
   (window as any).previewReelFrame = async (req: ReelRequest, t: number) => {

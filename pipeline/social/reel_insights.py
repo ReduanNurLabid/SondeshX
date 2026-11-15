@@ -49,6 +49,34 @@ def fetch_insights(video_id: str, token: str) -> dict:
     return out
 
 
+PHOTO_METRICS = {
+    "post_impressions_unique": "reach",
+    "post_clicks": "clicks",
+    "post_reactions_by_type_total": "reactions",
+}
+
+
+def fetch_photo_insights(post_id: str, token: str) -> dict:
+    out, errors = {}, []
+    for metric, name in PHOTO_METRICS.items():
+        r = requests.get(f"{GRAPH}/{post_id}/insights", params={"metric": metric, "access_token": token}, timeout=30)
+        if not r.ok:
+            errors.append(f"{metric}: {r.json().get('error', {}).get('message', r.status_code)}")
+            continue
+        for row in r.json().get("data", []):
+            values = row.get("values") or []
+            if values:
+                value = values[-1].get("value")
+                out[name] = sum(value.values()) if isinstance(value, dict) else value
+    r = requests.get(f"{GRAPH}/{post_id}/comments", timeout=30,
+                     params={"summary": "true", "limit": 0, "access_token": token})
+    if r.ok:
+        out["comments"] = (r.json().get("summary") or {}).get("total_count")
+    if errors:
+        out["errors"] = errors[:4]
+    return out
+
+
 def main():
     if sys.stdout:
         sys.stdout.reconfigure(encoding="utf-8")
@@ -59,13 +87,16 @@ def main():
     updated = 0
     for doc in docs:
         post = doc.to_dict()
-        if not post.get("video_id"):
+        if post.get("platform") == "facebook_photo" and post.get("post_id"):
+            stats = fetch_photo_insights(post["post_id"], token)
+        elif post.get("video_id"):
+            stats = fetch_insights(post["video_id"], token)
+        else:
             continue
-        stats = fetch_insights(post["video_id"], token)
         stats["checked_at"] = datetime.now(timezone.utc).isoformat()
         doc.reference.set({"insights": stats}, merge=True)
         updated += 1
-        summary = {k: stats.get(k) for k in ("plays", "total_plays", "avg_watch_ms", "reactions", "interactions", "comments")}
+        summary = {k: stats.get(k) for k in ("plays", "total_plays", "reach", "clicks", "avg_watch_ms", "reactions", "comments") if k in stats}
         print(f"{post.get('headline', '')[:50]} -> {summary}")
         if stats.get("errors"):
             print(f"   missing: {stats['errors']}")
