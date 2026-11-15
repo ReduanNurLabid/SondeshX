@@ -1,4 +1,4 @@
-google-genai>=2.31.0
+google-genai>=2.31.0,<3  # 3.x sends voice settings the API rejects (Reels TTS)
 firebase-admin>=7.7.0
 feedparser>=6.0.14
 beautifulsoup4>=4.15.0
