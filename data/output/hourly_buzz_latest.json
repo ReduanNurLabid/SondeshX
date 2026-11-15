@@ -1,95 +1,169 @@
 {
-  "updated_at": "2026-11-15T02:00:44.310321",
-  "total_stories": 4,
+  "updated_at": "2026-11-15T03:00:52.626796",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "f96661ca-8d05-5aad-9b01-8dcbceea6219",
+      "story_id": "751c4842-71e6-5132-8c03-bf9692d5fe42",
       "primary_category": "economy_business",
       "interest_categories": [
-        "economy_business"
+        "economy_business",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#GarmentWorkers",
-        "#Gazipur",
-        "#DhakaTangailHighway"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/181542/gazipur-road-block-141126-03.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2023-11%2F96ef562e-2cfa-4151-b57a-ce77cdb446ff%2FWhatsApp_Image_2023_02_27_at_08_34_41.jpeg?rect=0%2C106%2C1423%2C747&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-15T02:00:57.380874+00:00",
+      "published_at": "2026-11-15T02:40:39+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 4.2246,
+      "importance_score": 9.0,
+      "rank_score": 7.9421,
       "sources": [
         {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/nfgo3um8gh",
+          "title": "সকালেই পড়ুন আলোচিত ৫ খবর",
+          "snippet": "সকালেই পড়ুন আলোচিত ৫ খবর"
+        },
+        {
           "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/garment-workers-block-dhaka-tangail-highway-in-gazipur-halting-traffic",
-          "title": "Garment workers block Dhaka-Tangail highway in Gazipur, halting traffic",
-          "snippet": "Garment workers block Dhaka-Tangail highway in Gazipur, halting traffic"
+          "url": "https://thefinancialexpress.com.bd/trade/garment-units-unable-to-run-sunday-production-face-indefinite-closure",
+          "title": "No work, no pay: RMG factories brace for indefinite shutdown",
+          "snippet": "No work, no pay: RMG factories brace for indefinite shutdown"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/country/497969",
+          "title": "কালিয়াকৈরে অর্ধশতাধিক কারখানায় ছুটি, অনির্দিষ্টকালের জন্য বন্ধ ৭টি",
+          "snippet": "কালিয়াকৈরে অর্ধশতাধিক কারখানায় ছুটি, অনির্দিষ্টকালের জন্য বন্ধ ৭টি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গাজীপুরে পোশাক শ্রমিকদের ঢাকা-টাঙ্গাইল মহাসড়ক অবরোধ, যান চলাচল বন্ধ",
-        "title_en": "Garment workers block Dhaka-Tangail highway in Gazipur, halting traffic",
-        "summary_bn": "বেতন বৃদ্ধির দাবিতে গাজীপুরের কালিয়াকৈরে ঢাকা-টাঙ্গাইল মহাসড়ক অবরোধ করেছেন পোশাক শ্রমিকেরা, যার ফলে উভয় দিকে যান চলাচল বন্ধ রয়েছে।",
-        "summary_en": "Garment workers demanding higher wages have occupied the Dhaka-Tangail highway in Gazipur's Kaliakair Upazila, bringing traffic to a standstill in both directions.",
+        "title_bn": "পোশাক কারখানার মালিকেরা কাজ না করলে মজুরি ছাড়া কারখানা বন্ধের ঘোষণা দিয়েছেন।",
+        "title_en": "RMG factory owners announced closures without wages if there is no work.",
+        "summary_bn": "বিশৃঙ্খলা হলে বা কাজ না করলে মজুরি ছাড়া কারখানা বন্ধের ঘোষণা দিয়েছেন তৈরি পোশাকশিল্পের কারখানার মালিকেরা।",
+        "summary_en": "RMG factory owners announced closures without wages in case of chaos or no work.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business"
+          "economy_business",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-15T02:00:57.380874+00:00",
-        "lead_bn": "বেতন বৃদ্ধির দাবিতে গাজীপুরের কালিয়াকৈরে ঢাকা-টাঙ্গাইল মহাসড়ক অবরোধ করেছেন পোশাক শ্রমিকেরা, যার ফলে উভয় দিকে যান চলাচল বন্ধ রয়েছে।",
-        "lead_en": "Garment workers demanding higher wages have occupied the Dhaka-Tangail highway in Gazipur's Kaliakair Upazila, bringing traffic to a standstill in both directions.",
+        "published_at": "2026-11-15T02:40:39+00:00",
+        "lead_bn": "বিশৃঙ্খলা হলে বা কাজ না করলে মজুরি ছাড়া কারখানা বন্ধের ঘোষণা দিয়েছেন তৈরি পোশাকশিল্পের কারখানার মালিকেরা।",
+        "lead_en": "RMG factory owners announced closures without wages in case of chaos or no work.",
         "bullets_bn": [
-          "সকাল সাড়ে আটটার দিকে চন্দ্রা পল্লী বিদ্যুৎ এলাকায় এই বিক্ষোভ শুরু হয়।",
-          "সাত থেকে আটটি পার্শ্ববর্তী কারখানার শ্রমিকেরা এই বিক্ষোভে অংশ নেন।",
-          "গাজীপুর শিল্প পুলিশের সুপারিনটেনডেন্ট মো. আমজাদ হোসেন জানান যে শ্রমিকেরা একটি মৃত্যুর গুজবের মধ্যে প্রতিবাদ করছেন।"
+          "তৈরি পোশাকশিল্পের কারখানার মালিকেরা বিশৃঙ্খলা হলে বা কাজ না করলে মজুরি ছাড়া কারখানা বন্ধের ঘোষণা দিয়েছেন।",
+          "কালিয়াকৈরে অর্ধশতাধিক কারখানায় ছুটি দেওয়া হয়েছে।",
+          "কালিয়াকৈরে অনির্দিষ্টকালের জন্য ৭টি কারখানা বন্ধ ঘোষণা করা হয়েছে।"
         ],
         "bullets_en": [
-          "The protest began around 8:30 am on Saturday in the Chandra Palli Bidyut area.",
-          "Workers from seven to eight nearby factories joined the demonstration.",
-          "Md Amjad Hossain, superintendent of Gazipur Industrial Police, said the workers are protesting amid rumours of a death."
+          "RMG factory owners announced factory closures without wages if chaos occurs or work is not done.",
+          "Leave was declared in more than fifty factories in Kaliakair.",
+          "Seven factories were shut down indefinitely in Kaliakair."
         ],
-        "impact_bn": "এই অবরোধের কারণে যাত্রীরা আটকা পড়েছেন।",
-        "impact_en": "The protest left travellers stranded.",
-        "details_bn": "উদ্ধৃত সূত্র অনুযায়ী, বিক্ষোভের সময় শ্রমিকেরা প্রধানত উচ্চতর বেতন দাবি করছেন এবং মৃত্যুর গুজবের মধ্যেও তারা এই প্রতিবাদ করছেন। মহাসড়কে আধা ঘণ্টা ধরে যান চলাচল বন্ধ ছিল এবং শিল্প পুলিশের সুপারিনটেনডেন্ট পরিস্থিতি সম্পর্কে তথ্য দিয়েছেন।",
-        "details_en": "According to the source, workers occupied the highway amid rumours of a death while their main demand is higher wages. Traffic on the highway was halted for half an hour, and Gazipur Industrial Police superintendent provided details on the situation."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "১৫ নভেম্বর, রোববার প্রকাশিত প্রথম আলোর প্রতিবেদনে বলা হয়েছে, কালিয়াকৈরে অর্ধশতাধিক কারখানায় ছুটি এবং অনির্দিষ্টকালের জন্য ৭টি কারখানা বন্ধ রাখা হয়েছে। দ্য ফিন্যান্সিয়াল এক্সপ্রেস এবং ঢাকা পোস্ট এই বিষয়ে সংবাদ প্রকাশ করেছে।",
+        "details_en": "Prothom Alo reported November 15, that leave was given in over fifty factories and seven factories were closed indefinitely in Kaliakair. The Financial Express and Dhaka Post also reported on the matter."
       },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
+      "desk_importance": 8.0,
+      "outlet_count": 3,
       "trending": true,
-      "social_appeal": 8.0,
+      "social_appeal": 9.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-15T02:01:20.453596+00:00"
+        "checked_at": "2026-11-15T03:01:24.621371+00:00"
       }
     },
     {
-      "story_id": "2c9fc6b5-9d50-5893-b100-7cbbfa379e44",
+      "story_id": "886c9c4e-11c6-5959-ad52-eef7d689dbf1",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1527295110-5145f6b148d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z292ZXJubWVudCUyMHBsYW5zJTIwZWxlY3RyaWMlMjB0cmFpbiUyMGJ1c2luZXNzfGVufDF8MHx8fDE3OTQ3MTE2NzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-15T02:40:18+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.0,
+      "rank_score": 4.8028,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1179550",
+          "title": "বুলেট ট্রেন নয়, ঢাকা-চট্টগ্রামে চলবে ১৪০ কিমি গতির বৈদ্যুতিক ট্রেন",
+          "snippet": "বুলেট ট্রেন নয়, ঢাকা-চট্টগ্রামে চলবে ১৪০ কিমি গতির বৈদ্যুতিক ট্রেন"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ঢাকা-চট্টগ্রাম রুটে ১৪০ কিলোমিটার গতির বৈদ্যুতিক ট্রেন চালুর পরিকল্পনা সরকারের।",
+        "title_en": "Government plans electric train running at 140 km speed on Dhaka-Chattogram route.",
+        "summary_bn": "সরকার ঢাকা-চট্টগ্রাম রুটে বুলেট ট্রেনের পরিবর্তে ১৪০ কিলোমিটার গতির বৈদ্যুতিক ট্রেন চালুর সিদ্ধান্ত নিয়েছে।",
+        "summary_en": "The government has decided to run electric trains at 140 km speed on the Dhaka-Chattogram route instead of bullet trains.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-15T02:40:18+00:00",
+        "lead_bn": "সরকার ঢাকা-চট্টগ্রাম রুটে বুলেট ট্রেনের পরিবর্তে ১৪০ কিলোমিটার গতির বৈদ্যুতিক ট্রেন চালুর সিদ্ধান্ত নিয়েছে।",
+        "lead_en": "The government has decided to run electric trains at 140 km speed on the Dhaka-Chattogram route instead of bullet trains.",
+        "bullets_bn": [
+          "নারায়ণগঞ্জ-ঢাকা-জয়দেবপুর রেলওয়ে করিডোরে একটি পাইলট প্রকল্প বাস্তবায়িত হবে।",
+          "পাইলট প্রকল্প বাস্তবায়নের পর প্রস্তাবিত বৈদ্যুতিক ট্রেন নেটওয়ার্ক চট্টগ্রাম পর্যন্ত বিস্তৃত করা হবে।",
+          "ঢাকা-চট্টগ্রাম রুটে বুলেট ট্রেন না চালিয়ে ১৪০ কিমি গতির বৈদ্যুতিক ট্রেন চালানো হবে।"
+        ],
+        "bullets_en": [
+          "A pilot project will be implemented on the Narayanganj-Dhaka-Joydebpur railway corridor.",
+          "After implementing the pilot project, the proposed electric train network will be extended to Chattogram.",
+          "Electric trains running at 140 km speed will operate on the Dhaka-Chattogram route instead of bullet trains."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-15T03:01:24.621371+00:00"
+      }
+    },
+    {
+      "story_id": "33f04b1a-060d-50fd-b970-e3f7dbd03dc5",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
       ],
       "region": "international",
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#Hamas",
+        "#Gaza",
+        "#Israel",
+        "#SamirAbuYounis"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-15%2Fzcwyagbt%2FPalestinians-inspect.jpg?rect=0%2C138%2C1920%2C1008&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af55147-1794462023.jpg?resize=1200%2C675",
       "image_caption": null,
-      "published_at": "2026-11-15T01:01:48+00:00",
+      "published_at": "2026-11-15T01:00:42+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.6897,
+      "importance_score": 6.0,
+      "rank_score": 3.206,
       "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/middle-east/fgdd8d2ljm",
-          "title": "ইসরায়েলি হামলায় হামাসের এক জ্যেষ্ঠ কমান্ডার নিহত",
-          "snippet": "ইসরায়েলি হামলায় হামাসের এক জ্যেষ্ঠ কমান্ডার নিহত"
-        },
         {
           "name": "Al Jazeera English",
           "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
@@ -97,48 +171,119 @@
           "snippet": "Israeli air strike kills senior Hamas commander in Gaza"
         },
         {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/international/497947",
-          "title": "ইসরায়েলের হামলায় হামাসের রাফাহ ব্রিগেডের কমান্ডার নিহত",
-          "snippet": "ইসরায়েলের হামলায় হামাসের রাফাহ ব্রিগেডের কমান্ডার নিহত"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/middle-east/980972/%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B2%E0%A6%BF-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%A0-%E0%A6%95%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%B2%E0%A7%8B",
+          "title": "গাজায় ইসরায়েলি হামলায় জ্যেষ্ঠ কমান্ডার হারালো হামাস",
+          "snippet": "গাজায় ইসরায়েলি হামলায় জ্যেষ্ঠ কমান্ডার হারালো হামাস"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইসরায়েলি হামলায় হামাসের জ্যেষ্ঠ কমান্ডার সামির আবু ইউনিস নিহত",
-        "title_en": "Israeli strike kills senior Hamas commander Samir Abu Younis",
-        "summary_bn": "গাজা উপত্যকার দক্ষিণাঞ্চলে ইসরায়েলি বিমান হামলায় হামাসের রাফাহ ব্রিগেডের কমান্ডার সামির আবু ইউনিস নিহত হয়েছেন।",
-        "summary_en": "Hamas Rafah brigade commander Samir Abu Younis has been killed in an Israeli air strike in the southern Gaza Strip.",
+        "title_bn": "গাজায় ইসরায়েলি হামলায় নিহত হামাস কমান্ডার সামির আবু ইউনিস",
+        "title_en": "Israeli strike kills Hamas commander Samir Abu Younis in Gaza",
+        "summary_bn": "গাজার খান ইউনিসে ইসরায়েলি বিমান হামলায় হামাসের রাফাহ ব্রিগেড কমান্ডার সামির আবু ইউনিস নিহত হয়েছেন বলে জানিয়েছে হামাস।",
+        "summary_en": "Hamas confirmed that Rafah brigade commander Samir Abu Younis was killed in an Israeli air strike in Khan Younis, Gaza.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-15T01:01:48+00:00",
-        "lead_bn": "গাজা উপত্যকার দক্ষিণাঞ্চলে ইসরায়েলি বিমান হামলায় হামাসের রাফাহ ব্রিগেডের কমান্ডার সামির আবু ইউনিস নিহত হয়েছেন।",
-        "lead_en": "Hamas Rafah brigade commander Samir Abu Younis has been killed in an Israeli air strike in the southern Gaza Strip.",
+        "published_at": "2026-11-15T01:00:42+00:00",
+        "lead_bn": "গাজার খান ইউনিসে ইসরায়েলি বিমান হামলায় হামাসের রাফাহ ব্রিগেড কমান্ডার সামির আবু ইউনিস নিহত হয়েছেন বলে জানিয়েছে হামাস।",
+        "lead_en": "Hamas confirmed that Rafah brigade commander Samir Abu Younis was killed in an Israeli air strike in Khan Younis, Gaza.",
         "bullets_bn": [
-          "খান ইউনিসের মাওয়াসি এলাকায় একটি সড়কে আবু ইউনিসকে লক্ষ্য করে এই হামলা চালানো হয়।",
-          "ইসরায়েলি সামরিক বাহিনী হামাসের সশস্ত্র শাখার একজন জ্যেষ্ঠ কমান্ডারকে লক্ষ্য করে হামলার কথা জানিয়েছে।",
-          "খান ইউনিসে আবু ইউনিসের জানাজা অনুষ্ঠিত হওয়ার কথা রয়েছে।"
+          "ইসরায়েলের সামরিক বাহিনী ও শিন বেত জানিয়েছে যে তারা খান ইউনিসে একজন জ্যেষ্ঠ হামাস কমান্ডারকে লক্ষ্য করে ড্রোন হামলা চালিয়েছে।",
+          "খান ইউনিসের আল-মাওয়াসি এলাকায় বাস্তুচ্যুতদের একটি তাঁবুতে এই হামলায় দুজন আহত হয়েছেন।",
+          "গাজার স্বাস্থ্য মন্ত্রণালয় জানিয়েছে, গত ৪৮ ঘণ্টায় ইসরায়েলি হামলায় ১৬ জন নিহত এবং ৬৮ জন আহত হয়েছেন।"
         ],
         "bullets_en": [
-          "The attack targeted Abu Younis on a road in the Mawasi area of Khan Younis.",
-          "The Israeli military reported targeting a senior commander of the Hamas armed wing.",
-          "The funeral prayer for Abu Younis is scheduled to be held in Khan Younis."
+          "Israel's military and Shin Bet stated they targeted a senior Hamas military commander in a drone strike in Khan Younis.",
+          "The attack hitting a tent sheltering displaced people in the al-Mawasi area wounded two others.",
+          "Gaza's Ministry of Health stated that Israeli attacks have killed 16 people and injured 68 others over the past 48 hours."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "আল-কাসাম ব্রিগেডের তথ্য অনুযায়ী, সামির আবু ইউনিস ১৯৯১ সালে হামাসের সশস্ত্র শাখায় যোগ দেন এবং রাফা এলাকায় বিভিন্ন গুরুত্বপূর্ণ সামরিক দায়িত্ব পালন করেন। ২০২৫ সালের অক্টোবরে যুদ্ধবিরতি কার্যকর হওয়ার পর থেকে গাজায় ইসরায়েলি হামলায় অন্তত ১ হাজার ৬০০ ফিলিস্তিনি নিহত হয়েছেন। ফিলিস্তিনি কর্তৃপক্ষের হিসাবে, ২০২৩ সালের অক্টোবরে অভিযান শুরুর পর থেকে ৭৪ হাজারের বেশি মানুষ নিহত হয়েছেন।",
-        "details_en": "According to the al-Qassam Brigades, Samir Abu Younis joined the armed wing in 1991 and held various important military roles in Rafah. Since a ceasefire took effect in October 2025, at least 1,600 Palestinians have been killed in Israeli attacks in Gaza. Palestinian authorities report that more than 74,000 people have been killed since the military campaign began in October 2023."
+        "details_bn": "আল-মাওয়াসি হলো ভূমধ্যসাগরের একটি উপকূলীয় ভূখণ্ড, যা তাঁবুতে বসবাসকারী বাস্তুচ্যুত ফিলিস্তিনিদের দ্বারা জনাকীর্ণ। ইসরায়েল মানবিক অঞ্চল হিসেবে পূর্বে মনোনীত করা সত্ত্বেও বারবার এই এলাকায় আক্রমণ চালিয়েছে। অক্টোবর ১১, ২০২৫ তারিখে গাজায় যুদ্ধবিরতি কার্যকর হওয়ার পর থেকে ইসরায়েল অন্তত ১,৬৪৩ জন ফিলিস্তিনিকে হত্যা করেছে এবং ৫,৯৬৪ জনকে আহত করেছে। ধ্বংসস্তূপের নিচ থেকে অন্তত ৮৫০টি মৃতদেহ উদ্ধার করা হয়েছে।",
+        "details_en": "Al-Mawasi, a coastal strip on the Mediterranean, is crowded with displaced Palestinians living in tents. Israel has repeatedly attacked the area despite previously designating it a humanitarian zone. Since the ceasefire in Gaza took effect on October 11, 2025, Israel has killed at least 1,643 Palestinians and injured 5,964. At least 850 bodies have been recovered from under the rubble."
       },
       "desk_importance": 6.0,
-      "outlet_count": 3,
+      "outlet_count": 2,
       "trending": false,
-      "social_appeal": 4.0,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-15T02:01:20.453596+00:00"
+        "checked_at": "2026-11-15T03:01:24.621371+00:00"
+      }
+    },
+    {
+      "story_id": "53ceeaf0-bb5e-5c8b-b373-7df0dde69797",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#Technology",
+        "#Innovation"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-14%2F3uwozcx4%2FIphone.reuters7.png?rect=0%2C12%2C640%2C336&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-15T02:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.75,
+      "rank_score": 3.1174,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/technology/cyberworld/cx49zk1yiz",
+          "title": "আইওএসের একাধিক সংস্করণে নিরাপত্তাত্রুটি, ঝুঁকিতে আইফোন ব্যবহারকারীরা",
+          "snippet": "আইওএসের একাধিক সংস্করণে নিরাপত্তাত্রুটি, ঝুঁকিতে আইফোন ব্যবহারকারীরা"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821038/%E0%A6%86%E0%A6%87%E0%A6%93%E0%A6%8F%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%8F%E0%A6%95%E0%A6%BE%E0%A6%A7%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%9F%E0%A6%BF-%E0%A6%9D%E0%A7%81%E0%A6%81%E0%A6%95%E0%A6%BF%E0%A6%A4%E0%A7%87",
+          "title": "আইওএসের একাধিক সংস্করণে নিরাপত্তাত্রুটি, ঝুঁকিতে আইফোন ব্যবহারকারীরা",
+          "snippet": "আইওএসের একাধিক সংস্করণে নিরাপত্তাত্রুটি, ঝুঁকিতে আইফোন ব্যবহারকারীরা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আইওএসের নিরাপত্তাত্রুটি নিয়ে বাইন্যান্সের সতর্কবার্তা",
+        "title_en": "Binance warns about security vulnerabilities in iOS versions",
+        "summary_bn": "আইওএসের একাধিক সংস্করণে নিরাপত্তাত্রুটি শনাক্তের দাবি করে আইফোন ব্যবহারকারীদের ঝুঁকিতে পড়ার আশঙ্কা প্রকাশ করেছে বাইন্যান্স।",
+        "summary_en": "Binance claimed it identified security vulnerabilities in multiple iOS versions, warning that iPhone users are at risk.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-15T02:00:00+00:00",
+        "lead_bn": "আইওএসের একাধিক সংস্করণে নিরাপত্তাত্রুটি শনাক্তের দাবি করে আইফোন ব্যবহারকারীদের ঝুঁকিতে পড়ার আশঙ্কা প্রকাশ করেছে বাইন্যান্স।",
+        "lead_en": "Binance claimed it identified security vulnerabilities in multiple iOS versions, warning that iPhone users are at risk.",
+        "bullets_bn": [
+          "বাইন্যান্সের তথ্যমতে, আইওএস ২৬ ও আইওএস ২৭ অপারেটিং সিস্টেমের কয়েকটি সংস্করণে ওয়র্স_কোয়েরি নামের একটি নিরাপত্তাত্রুটি রয়েছে।",
+          "আইওএস ২৬.৭.১, আইওএস ২৭.০.১ ও আইওএস ২৭.২ সংস্করণে এই ত্রুটি শনাক্ত হয়েছে বলে জানিয়েছে বাইন্যান্স।",
+          "সমস্যা সমাধানে অ্যাপ স্টোরের বাইরে থেকে ডাউনলোড করা সব অ্যাপ মুছে ফেলার পরামর্শ দিয়েছে বাইন্যান্স।"
+        ],
+        "bullets_en": [
+          "Binance stated that a security vulnerability named worse_query exists in several versions of iOS 26 and iOS 27 operating systems.",
+          "Binance reported that this vulnerability was identified in iOS versions 26.7.1, 27.0.1, and 27.2.",
+          "To solve the problem, Binance advised deleting all apps downloaded from outside the App Store."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "আইফোনে প্রতিটি অ্যাপের জন্য আলাদা সুরক্ষিত পরিসর বা স্যান্ডবক্সিং ব্যবস্থা থাকলেও ওয়র্স_কোয়েরি ত্রুটির কারণে ক্ষতিকর অ্যাপ অন্য অ্যাপের ব্যক্তিগত ফাইল পড়ার সুযোগ পেতে পারে। এই ত্রুটি নিজে কোনো ম্যালওয়্যার নয়, তবে ক্ষতিকর অ্যাপ এর সুযোগ নিতে পারে। ক্রিপ্টোকারেন্সি বিনিময় প্রতিষ্ঠান বাইন্যান্সের আশঙ্কা, এর মাধ্যমে পাসওয়ার্ড, ব্যক্তিগত নথি ও ক্রিপ্টোকারেন্সি ওয়ালেটের গোপন সংকেত হ্যাকারদের হাতে চলে যেতে পারে। তবে এই ত্রুটি ব্যবহার করে সাইবার হামলা বা ক্রিপ্টোকারেন্সি চুরির কোনো ঘটনা এখন পর্যন্ত নিশ্চিত হওয়া যায়নি।",
+        "details_en": "Although iPhones use sandboxing to keep app files separate, the worse_query vulnerability could allow malicious apps to read personal files of other apps. The flaw itself is not malware, but pre-installed malicious apps can exploit it. Binance fears this could expose passwords, personal documents, and cryptocurrency wallet private keys to hackers, though no cyber attacks or cryptocurrency thefts using this flaw have been confirmed so far."
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": true,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-15T03:01:24.621371+00:00"
       }
     },
     {
@@ -146,8 +291,8 @@
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
-        "tech_innovation",
-        "governance_law"
+        "governance_law",
+        "tech_innovation"
       ],
       "region": "international",
       "tags": [
@@ -157,49 +302,43 @@
       ],
       "image_url": "https://th-i.thgim.com/public/incoming/aobtxp/article71703998.ece/alternates/LANDSCAPE_1200/2026-11-14T154335Z_775010430_RC2ONOAU1BYX_RTRMADP_3_USA-FAA-GROUND-STOP.JPG",
       "image_caption": null,
-      "published_at": "2026-11-15T01:57:01+00:00",
+      "published_at": "2026-11-15T02:56:54+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 5.5,
-      "rank_score": 3.0133,
+      "rank_score": 3.0128,
       "sources": [
         {
           "name": "The Hindu International",
           "url": "https://www.thehindu.com/news/international/us-air-travel-should-recover-from-ground-stop-by-end-of-november-15-faa-says/article71703985.ece",
           "title": "U.S. air travel should recover from ground stop by end of November 15, FAA says",
           "snippet": "U.S. air travel should recover from ground stop by end of November 15, FAA says"
-        },
-        {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-          "title": "How telecoms upgrade work sparked US flight chaos",
-          "snippet": "How telecoms upgrade work sparked US flight chaos"
         }
       ],
       "daily_buzz": {
-        "title_bn": "যুক্তরাষ্ট্রের আকাশপথে চলাচল নভেম্বরের ১৫ তারিখের মধ্যে স্বাভাবিক হবে",
+        "title_bn": "যুক্তরাষ্ট্রের বিমান চলাচল নভেম্বর ১৫ এর মধ্যে স্বাভাবিক হবে",
         "title_en": "U.S. air travel should recover by end of November 15",
-        "summary_bn": "যুক্তরাষ্ট্রের ফেডারেল এভিয়েশন প্রশাসনের প্রধান ব্রায়ান বেডফোর্ড জানিয়েছেন, নভেম্বরের ১৫ তারিখের মধ্যে মার্কিন বিমান চলাচল সম্পূর্ণ স্বাভাবিক হবে।",
-        "summary_en": "U.S. air travel should be fully recovered by the end of November 15, Federal Aviation Administration head Bryan Bedford said.",
+        "summary_bn": "যুক্তরাষ্ট্রের বিমান চলাচল আগামী নভেম্বর ১৫ তারিখের মধ্যে পুরোপুরি স্বাভাবিক হবে বলে জানিয়েছেন ফেডারেল এভিয়েশন প্রশাসনের প্রধান ব্রায়ান বেডফোর্ড।",
+        "summary_en": "U.S. air travel should be fully recovered by the end of November 15, Federal Aviation Administration chief Bryan Bedford said.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "tech_innovation",
-          "governance_law"
+          "governance_law",
+          "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-15T01:57:01+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের ফেডারেল এভিয়েশন প্রশাসনের প্রধান ব্রায়ান বেডফোর্ড জানিয়েছেন, নভেম্বরের ১৫ তারিখের মধ্যে মার্কিন বিমান চলাচল সম্পূর্ণ স্বাভাবিক হবে।",
-        "lead_en": "U.S. air travel should be fully recovered by the end of November 15, Federal Aviation Administration head Bryan Bedford said.",
+        "published_at": "2026-11-15T02:56:54+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের বিমান চলাচল আগামী নভেম্বর ১৫ তারিখের মধ্যে পুরোপুরি স্বাভাবিক হবে বলে জানিয়েছেন ফেডারেল এভিয়েশন প্রশাসনের প্রধান ব্রায়ান বেডফোর্ড।",
+        "lead_en": "U.S. air travel should be fully recovered by the end of November 15, Federal Aviation Administration chief Bryan Bedford said.",
         "bullets_bn": [
-          "নতুন প্রযুক্তি যুক্ত করার কারণে পুরোনো যন্ত্রপাতিতে অতিরিক্ত চাপের সৃষ্টি হয়।",
-          "এই বিপর্যয়ের ফলে চার ঘণ্টা ধরে দেশব্যাপী ফ্লাইট চলাচল বন্ধ ছিল।",
-          "কর্মকর্তারা জানিয়েছেন যে থাঙ্কসগিভিং ছুটির যাত্রার আগেই ব্যবস্থা স্বাভাবিক হবে।"
+          "ফেডারেল এভিয়েশন প্রশাসনের প্রশাসক ব্রায়ান বেডফোর্ড জানান যে ও ফ্লাইটে বিলম্ব ও বাতিল থাকবে।",
+          "নতুন প্রযুক্তি সংযোজনের কারণে পুরোনো যন্ত্রপাতিতে অতিরিক্ত চাপ পড়ার ফলে চার ঘণ্টা গ্রাউন্ড স্টপ হয়েছিল।",
+          "পরিবহন সচিব শন ডাফি জানিয়েছেন যে বিমান চলাচল শুরু হলেও এর প্রভাব কয়েক দিন অনুভূত হতে পারে।"
         ],
         "bullets_en": [
-          "New technology being added overloaded antiquated equipment.",
-          "The ground stoppage lasted four hours, stranding hundreds of thousands of passengers.",
-          "Officials say the system will likely return to normal in time for the Thanksgiving travel rush."
+          "Federal Aviation Administration Administrator Bryan Bedford stated that flights would still have delays and cancellations on Saturday.",
+          "New technology added to the air traffic control system overloaded antiquated equipment and caused a ground stop of over four hours.",
+          "Transportation Secretary Sean Duffy stated that while planes were taking flight and landing, effects could be felt for days."
         ],
         "impact_bn": null,
         "impact_en": null,
@@ -207,89 +346,12 @@
         "details_en": null
       },
       "desk_importance": 5.0,
-      "outlet_count": 2,
+      "outlet_count": 1,
       "trending": true,
       "social_appeal": 4.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-15T02:01:20.453596+00:00"
-      }
-    },
-    {
-      "story_id": "44ce974a-e259-59be-80b5-2f9d391d3029",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation"
-      ],
-      "region": "international",
-      "tags": [
-        "#SpaceX",
-        "#Starship",
-        "#ElonMusk",
-        "#Texas"
-      ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af8f2594aa1-1794699865.jpg?resize=1920%2C1440",
-      "image_caption": null,
-      "published_at": "2026-11-15T00:14:22+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.7297,
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
-          "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
-          "snippet": "SpaceX’s Starship captured by launchpad arms in dramatic first"
-        },
-        {
-          "name": "MarketWatch Economy",
-          "url": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
-          "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
-          "snippet": "SpaceX successfully catches Starship rocket in huge milestone for the space industry"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
-          "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
-          "snippet": "SpaceX returned its Starship rocket on Saturday—but there's a catch"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "স্পেসএক্স স্টারশিপ মহাকাশযানটিকে প্রথমবার সফলভাবে মাঝ আকাশে ধরেছে।",
-        "title_en": "SpaceX successfully captures Starship spacecraft midair for the first time.",
-        "summary_bn": "স্পেসএক্স তাদের স্টারশিপ মহাকাশযানটিকে টেক্সাসের লঞ্চ প্যাড টু-এর ওপরে যান্ত্রিক বাহুর সাহায্যে মাঝ আকাশে সফলভাবে ধরেছে।",
-        "summary_en": "SpaceX successfully caught its Starship spacecraft midair using mechanical arms above Launch Pad 2 in Texas on Saturday.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-15T00:14:22+00:00",
-        "lead_bn": "স্পেসএক্স তাদের স্টারশিপ মহাকাশযানটিকে টেক্সাসের লঞ্চ প্যাড টু-এর ওপরে যান্ত্রিক বাহুর সাহায্যে মাঝ আকাশে সফলভাবে ধরেছে।",
-        "lead_en": "SpaceX successfully caught its Starship spacecraft midair using mechanical arms above Launch Pad 2 in Texas on Saturday.",
-        "bullets_bn": [
-          "মহাকাশ থেকে ফিরে আসা স্টারশিপকে যান্ত্রিক বাহু দিয়ে প্রথমবারের মতো ধরা হয়েছে।",
-          "স্পেসএক্স প্রতিষ্ঠাতা ও সিইও এলন মাস্ক তার দলের প্রশংসা করেছেন।",
-          "এই সফলতায় স্টারশিপের পূর্ণ পুনর ব্যবহারযোগ্যতা প্রমাণিত হয়েছে।"
-        ],
-        "bullets_en": [
-          "The spacecraft was caught for the first time returning from space using mechanical arms.",
-          "SpaceX founder and CEO Elon Musk congratulated his team.",
-          "Officials said the catch demonstrates the spacecrafts full reusability."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 3,
-      "trending": true,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-15T02:01:20.453596+00:00"
+        "checked_at": "2026-11-15T03:01:24.621371+00:00"
       }
     }
   ]
