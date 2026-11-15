@@ -92,6 +92,8 @@ jobs:
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
           FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          REEL_TTS_VOICE: ${{ vars.REEL_TTS_VOICE || 'Kore' }}
           PYTHONPATH: .
         run: |
           ARGS="--base-url http://localhost:4173 --out reel.mp4"

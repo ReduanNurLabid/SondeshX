@@ -28,7 +28,6 @@ import time
 from datetime import datetime, timedelta, timezone
 from typing import List, Optional
 
-import edge_tts
 import requests
 from firebase_admin import firestore
 
@@ -155,23 +154,11 @@ def reel_image(story: dict) -> Optional[str]:
 
 
 # ---------------------------------------------------------------- voiceover
-BACKUP_VOICE = "bn-BD-PradeepNeural"
-
-
-async def _speak(text: str, path: str):
-    """The free neural voice service occasionally returns no audio; retry, then fall
-    back to default speed, then to the second Bangladeshi voice."""
-    attempts = [(VOICE, "+4%"), (VOICE, "+4%"), (VOICE, "+0%"), (BACKUP_VOICE, "+0%")]
-    last_err = None
-    for n, (voice, rate) in enumerate(attempts):
-        try:
-            await edge_tts.Communicate(text, voice, rate=rate).save(path)
-            if os.path.getsize(path) > 0:
-                return
-        except Exception as err:  # NoAudioReceived, network errors
-            last_err = err
-        await asyncio.sleep(2 + 3 * n)
-    raise RuntimeError(f"Voiceover failed after {len(attempts)} attempts: {last_err}")
+# Gemini neural voice, one request per Reel (the free tier allows 10 voice requests a
+# day per key). When every key is out of quota the Reel is made with music only.
+TTS_MODEL = "gemini-2.5-flash-preview-tts"
+TTS_VOICE = os.getenv("REEL_TTS_VOICE", "Kore")   # "Kore" (female) or "Charon" (male)
+TTS_RATE = 24000
 
 
 def media_duration(path: str) -> float:
@@ -182,39 +169,106 @@ def media_duration(path: str) -> float:
     return float(json.loads(out)["format"]["duration"])
 
 
-def build_voiceover(story: dict, workdir: str):
-    """Returns (voice_wav_path, segments, total_duration)."""
+def _script_parts(story: dict) -> list:
     buzz = story["daily_buzz"]
-    points = (buzz.get("bullets_bn") or [])[:3]
     parts = [("headline", None, buzz["title_bn"])]
-    parts += [("point", i, p) for i, p in enumerate(points)]
+    parts += [("point", i, p) for i, p in enumerate((buzz.get("bullets_bn") or [])[:3])]
     parts.append(("outro", None, OUTRO_TEXT))
+    return parts
 
-    segments, inputs, filters = [], [], []
-    clock = LEAD_IN
-    for n, (kind, index, text) in enumerate(parts):
-        mp3 = os.path.join(workdir, f"seg{n}.mp3")
-        asyncio.run(_speak(text, mp3))
-        dur = media_duration(mp3)
-        end = clock + dur + GAP_SECONDS
-        seg = {"kind": kind, "start": round(clock if n else 0.0, 3), "end": round(end, 3)}
+
+def _gemini_speech(texts: list, out_wav: str) -> bool:
+    """Reads all parts in one request, with a clear pause between parts. Tries each
+    configured key; returns False when none can produce audio."""
+    import wave
+    from google import genai
+    from google.genai import types
+    from pipeline.processing.llm import gemini_api_keys
+
+    script = "\n\n".join(texts)
+    prompt = ("Read this Bangla news script aloud as a calm, clear, warm Bangladeshi newsreader, "
+              "at a natural pace. Pause for about one second between paragraphs. "
+              "Read only the script.\n\n" + script)
+    config = types.GenerateContentConfig(
+        response_modalities=["AUDIO"],
+        speech_config=types.SpeechConfig(voice_config=types.VoiceConfig(
+            prebuilt_voice_config=types.PrebuiltVoiceConfig(voice_name=TTS_VOICE))),
+    )
+    for key in gemini_api_keys():
+        try:
+            resp = genai.Client(api_key=key).models.generate_content(model=TTS_MODEL, contents=prompt, config=config)
+            pcm = resp.candidates[0].content.parts[0].inline_data.data
+            if not pcm:
+                continue
+            with wave.open(out_wav, "wb") as w:
+                w.setnchannels(1)
+                w.setsampwidth(2)
+                w.setframerate(TTS_RATE)
+                w.writeframes(pcm)
+            return True
+        except Exception as err:
+            print(f"Gemini voice unavailable on one key: {str(err)[:120]}")
+    return False
+
+
+def _silences(path: str) -> list:
+    """(start, end) of pauses in the speech, via ffmpeg silencedetect."""
+    log = subprocess.run(
+        ["ffmpeg", "-i", path, "-af", "silencedetect=noise=-35dB:d=0.35", "-f", "null", "-"],
+        capture_output=True, text=True,
+    ).stderr
+    starts = [float(x.split("silence_start: ")[1].split()[0]) for x in log.splitlines() if "silence_start: " in x]
+    ends = [float(x.split("silence_end: ")[1].split()[0]) for x in log.splitlines() if "silence_end: " in x]
+    return list(zip(starts, ends))
+
+
+def _boundaries(texts: list, speech_len: float, pauses: list) -> list:
+    """Times where each part after the first begins. Uses the longest pauses when the
+    voice paused between every part; otherwise splits by text length."""
+    need = len(texts) - 1
+    inner = [p for p in pauses if 0.3 < p[0] < speech_len - 0.3]
+    if len(inner) >= need:
+        chosen = sorted(sorted(inner, key=lambda p: p[1] - p[0], reverse=True)[:need])
+        return [round((p0 + p1) / 2, 3) for p0, p1 in chosen]
+    total = sum(len(t) for t in texts)
+    cuts, acc = [], 0
+    for t in texts[:-1]:
+        acc += len(t)
+        cuts.append(round(speech_len * acc / total, 3))
+    return cuts
+
+
+def build_voiceover(story: dict, workdir: str):
+    """Returns (voice_wav_path or None, segments, total_duration)."""
+    parts = _script_parts(story)
+    texts = [t for _, _, t in parts]
+    raw = os.path.join(workdir, "voice_raw.wav")
+
+    if _gemini_speech(texts, raw):
+        speech_len = media_duration(raw)
+        cuts = _boundaries(texts, speech_len, _silences(raw))
+        starts = [0.0] + [LEAD_IN + c for c in cuts]
+        total = round(LEAD_IN + speech_len + 1.2, 3)
+        voice = os.path.join(workdir, "voice.wav")
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", raw, "-af",
+                        f"aresample=48000,adelay={int(LEAD_IN * 1000)}:all=1", "-ac", "2", voice], check=True)
+        print(f"Voice: Gemini {TTS_VOICE}")
+    else:
+        # Music only: give each part enough time to be read on screen.
+        voice, starts, clock = None, [], 0.0
+        for kind, _, text in parts:
+            starts.append(round(clock, 3))
+            clock += 3.0 if kind == "outro" else max(4.5, min(9.0, len(text) / 14))
+        total = round(clock, 3)
+        print("Voice: none (Gemini voice quota used up); music only")
+
+    segments = []
+    for n, (kind, index, _) in enumerate(parts):
+        end = starts[n + 1] if n + 1 < len(parts) else total
+        seg = {"kind": kind, "start": starts[n], "end": round(end, 3)}
         if index is not None:
             seg["index"] = index
         segments.append(seg)
-        inputs += ["-i", mp3]
-        filters.append(f"[{n}:a]aresample=48000,apad=pad_dur={GAP_SECONDS}[a{n}]")
-        clock = end
-
-    total = round(clock + 0.8, 3)  # let the outro card breathe
-    segments[-1]["end"] = total
-    concat = "".join(f"[a{n}]" for n in range(len(parts)))
-    voice = os.path.join(workdir, "voice.wav")
-    subprocess.run(
-        ["ffmpeg", "-y", "-loglevel", "error", *inputs, "-filter_complex",
-         ";".join(filters) + f";{concat}concat=n={len(parts)}:v=0:a=1,adelay={int(LEAD_IN * 1000)}:all=1[v]",
-         "-map", "[v]", "-ac", "2", voice],
-        check=True,
-    )
     return voice, segments, total
 
 
@@ -249,8 +303,8 @@ def render_video(story: dict, segments: list, duration: float, base_url: str, wo
     return path
 
 
-def mux(video: str, voice: str, duration: float, out_path: str):
-    """Voiceover over a quiet music bed; H.264/AAC 1080x1920 30 fps for Reels."""
+def mux(video: str, voice: Optional[str], duration: float, out_path: str):
+    """Voiceover (if any) over a music bed; H.264/AAC 1080x1920 30 fps for Reels."""
     if os.path.exists(MUSIC_FILE):
         music_in = ["-stream_loop", "-1", "-i", MUSIC_FILE]
     else:
@@ -261,10 +315,13 @@ def mux(video: str, voice: str, duration: float, out_path: str):
                     f"aevalsrc='({expr})*(0.75+0.25*sin(2*PI*0.12*t))':s=48000:c=stereo"]
     fade_at = max(0.0, duration - 1.5)
     subprocess.run(
-        ["ffmpeg", "-y", "-loglevel", "error", "-i", video, "-i", voice, *music_in,
+        ["ffmpeg", "-y", "-loglevel", "error", "-i", video,
+         *(["-i", voice] if voice else []), *music_in,
          "-filter_complex",
-         f"[2:a]volume=0.22,afade=t=in:d=1.2,afade=t=out:st={fade_at}:d=1.5[m];"
-         f"[1:a]volume=1.6[vo];[vo][m]amix=inputs=2:duration=first:dropout_transition=0[a]",
+         (f"[2:a]volume=0.22,afade=t=in:d=1.2,afade=t=out:st={fade_at}:d=1.5[m];"
+          f"[1:a]volume=1.6[vo];[vo][m]amix=inputs=2:duration=first:dropout_transition=0[a]")
+         if voice else
+         f"[1:a]volume=0.55,afade=t=in:d=1.0,afade=t=out:st={fade_at}:d=1.5[a]",
          "-map", "0:v:0", "-map", "[a]", "-t", f"{duration}",
          "-vf", "scale=1080:1920:force_original_aspect_ratio=decrease,pad=1080:1920:(ow-iw)/2:(oh-ih)/2,fps=30",
          "-c:v", "libx264", "-pix_fmt", "yuv420p", "-profile:v", "high", "-crf", "20",
