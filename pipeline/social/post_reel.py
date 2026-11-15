@@ -196,7 +196,8 @@ def _gemini_speech(texts: list, out_wav: str) -> bool:
     )
     for key in gemini_api_keys():
         try:
-            resp = genai.Client(api_key=key).models.generate_content(model=TTS_MODEL, contents=prompt, config=config)
+            client = genai.Client(api_key=key)  # keep a reference: a discarded client closes its connection
+            resp = client.models.generate_content(model=TTS_MODEL, contents=prompt, config=config)
             pcm = resp.candidates[0].content.parts[0].inline_data.data
             if not pcm:
                 continue
