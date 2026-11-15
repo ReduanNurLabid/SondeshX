@@ -1,9 +1,216 @@
 {
-  "updated_at": "2026-11-15T14:00:50.479061",
-  "total_stories": 6,
+  "updated_at": "2026-11-15T15:00:42.790065",
+  "total_stories": 4,
   "stories": [
     {
-      "story_id": "4e779c69-967f-561b-ace5-99e057770b6b",
+      "story_id": "d281f984-45f1-587f-8d99-b3f46c1595d3",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1675176785803-bffbbb0cd2f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cHJvZHVjdGlvbiUyMHN1c3BlbmRlZCUyMGdhcm1lbnQlMjBmYWN0b3JpZXMlMjBidXNpbmVzc3xlbnwxfDB8fHwxNzk0NzU0ODcwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-15T14:47:56+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.5,
+      "rank_score": 5.5541,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/economy/news/1179848",
+          "title": "শ্রমিক অসন্তোষে ১২১ পোশাক কারখানায় উৎপাদন বন্ধ: বিজিএমইএ",
+          "snippet": "শ্রমিক অসন্তোষে ১২১ পোশাক কারখানায় উৎপাদন বন্ধ: বিজিএমইএ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "শ্রমিক অসন্তোষের মুখে ১২১ পোশাক কারখানায় উৎপাদন বন্ধ",
+        "title_en": "Production suspended in 121 garment factories amid worker unrest",
+        "summary_bn": "ন্যূনতম মাসিক মজুরি ৩২ হাজার টাকা নির্ধারণের দাবিতে শ্রমিকদের আন্দোলনের মুখে সাভার, আশুলিয়া ও গাজীপুরের প্রায় ১২১টি তৈরি পোশাক কারখানায় উৎপাদন বন্ধ রয়েছে।",
+        "summary_en": "Production is suspended in about 121 garment factories in Savar, Ashulia, and Gazipur amid worker protests demanding a minimum monthly wage of 32,000 taka.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-15T14:47:56+00:00",
+        "lead_bn": "ন্যূনতম মাসিক মজুরি ৩২ হাজার টাকা নির্ধারণের দাবিতে শ্রমিকদের আন্দোলনের মুখে সাভার, আশুলিয়া ও গাজীপুরের প্রায় ১২১টি তৈরি পোশাক কারখানায় উৎপাদন বন্ধ রয়েছে।",
+        "lead_en": "Production is suspended in about 121 garment factories in Savar, Ashulia, and Gazipur amid worker protests demanding a minimum monthly wage of 32,000 taka.",
+        "bullets_bn": [
+          "শ্রমিকদের আন্দোলনের মুখে সাভার, আশুলিয়া ও গাজীপুরের কারখানায় উৎপাদন বন্ধ রাখা হয়েছে।",
+          "ন্যূনতম মাসিক মজুরি ৩২ হাজার টাকা করার দাবি জানিয়েছে শ্রমিকরা।",
+          "বিজিএমইএ এই তথ্য জানিয়েছে।"
+        ],
+        "bullets_en": [
+          "Production has been halted in factories across Savar, Ashulia, and Gazipur due to worker protests.",
+          "Workers are demanding that the minimum monthly wage be fixed at 32,000 taka.",
+          "BGMEA provided this information."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-15T15:01:47.608883+00:00"
+      }
+    },
+    {
+      "story_id": "098cac46-83df-58e3-8a27-76be6f3addb0",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#RooppurNuclearPowerPlant",
+        "#NationalGrid",
+        "#BAERA"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/06/02/rooppur_1.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-15T14:45:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.0,
+      "rank_score": 4.8246,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/energy/rooppur-nuclear-plant-may-begin-trial-electricity-supply-national-grid-week-1603571",
+          "title": "Rooppur nuclear plant may begin trial electricity supply to national grid this week",
+          "snippet": "Rooppur nuclear plant may begin trial electricity supply to national grid this week"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জাতীয় গ্রিডে রূপপুরের বিদ্যুৎ পরীক্ষামূলক সরবরাহ শুরু হতে পারে এই সপ্তাহে",
+        "title_en": "Rooppur plant may begin trial electricity supply to national grid this week",
+        "summary_bn": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্রের প্রথম ইউনিট এই সপ্তাহে পরীক্ষামূলকভাবে জাতীয় গ্রিডে প্রায় ৩০০ মেগাওয়াট বিদ্যুৎ সরবরাহ শুরু করতে পারে।",
+        "summary_en": "The first unit of the Rooppur Nuclear Power Plant may begin supplying around 300 megawatts to the national grid this week.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-15T14:45:00+00:00",
+        "lead_bn": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্রের প্রথম ইউনিট এই সপ্তাহে পরীক্ষামূলকভাবে জাতীয় গ্রিডে প্রায় ৩০০ মেগাওয়াট বিদ্যুৎ সরবরাহ শুরু করতে পারে।",
+        "lead_en": "The first unit of the Rooppur Nuclear Power Plant may begin supplying around 300 megawatts to the national grid this week.",
+        "bullets_bn": [
+          "বাংলাদেশ পরমাণু শক্তি নিয়ন্ত্রণ কর্তৃপক্ষের অনুমোদন এবং প্রযুক্তিগত পরীক্ষা সফল হওয়ার সাপেক্ষে প্রথম ইউনিটটি নভেম্বরের মধ্যে গ্রিডে প্রায় ৩০০ মেগাওয়াট সরবরাহ শুরু করতে পারে।",
+          "প্রকল্পের উপপ্রকল্প পরিচালক ড. খালেকজামান জানিয়েছেন, পরিকল্পনা অনুযায়ী সব এগোলে এই সপ্তাহে গ্রিডের সাথে সংযোগ স্থাপন হতে পারে।",
+          "রিঅ্যাক্টর তার তাপীয় ক্ষমতার ৪০ শতাংশে পৌঁছালে প্রায় ৩০ থেকে ৩৫ শতাংশ বিদ্যুৎ উৎপাদন করতে পারবে।"
+        ],
+        "bullets_en": [
+          "Subject to BAERA approval and technical tests, the first unit may begin supplying around 300 megawatts within November.",
+          "Dr Khalequzzaman, deputy project director of the project, said synchronisation could take place this week if everything proceeds as planned.",
+          "Once the reactor reaches 40 percent of its thermal capacity, it will be able to generate around 30 to 35 percent of its full capacity."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "প্রকল্প কর্মকর্তারা জানিয়েছেন, প্রথম ইউনিটটির পূর্ণ উৎপাদন ক্ষমতায় পৌঁছাতে আরও পাঁচ থেকে ছয় মাস সময় লাগতে পারে। প্রযুক্তিগত অসুবিধা না থাকলে দেশের প্রথম পারমাণবিক বিদ্যুৎ কেন্দ্রের উৎপাদিত বিদ্যুৎ জাতীয় গ্রিডে যুক্ত করার প্রস্তুতি চলছে।",
+        "details_en": "Project officials stated that it could take another five to six months for the unit to reach its full generation capacity. Preparations are under way to connect electricity from the country's first nuclear power plant to the national grid without technical glitches."
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-15T15:01:47.608883+00:00"
+      }
+    },
+    {
+      "story_id": "5bb33541-e92e-5b14-9ba2-6cddf4fd21ff",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#MyanmarBorder",
+        "#HomeMinistry",
+        "#BangladeshGovt"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1603031751711-3f5a1afa0471?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z292dCUyMHBsYW5zJTIwYmFyYmVkJTIwd2lyZSUyMGdvdmVybm1lbnR8ZW58MXwwfHx8MTc5NDc1NDg4N3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-15T14:38:54+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.5,
+      "rank_score": 4.1356,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/424724/barbed-wire-fencing-planned-along-108km-of",
+          "title": "Govt plans 108km barbed-wire fencing along Myanmar border",
+          "snippet": "Govt plans 108km barbed-wire fencing along Myanmar border"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/bd-to-build-108km-border-fencing-along-myanmar-frontier",
+          "title": "BD to build 108km border fencing along Myanmar frontier",
+          "snippet": "BD to build 108km border fencing along Myanmar frontier"
+        },
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/post-1220848/",
+          "title": "বাংলাদেশ-মিয়ানমার সীমান্তে ১০৮ কিলোমিটার বর্ডার ফেন্সিং নির্মাণের উদ্যোগ",
+          "snippet": "বাংলাদেশ-মিয়ানমার সীমান্তে ১০৮ কিলোমিটার বর্ডার ফেন্সিং নির্মাণের উদ্যোগ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মিয়ানমার সীমান্তে ১০৮ কিলোমিটার বর্ডার ফেন্সিং নির্মাণের উদ্যোগ সরকারের",
+        "title_en": "Govt plans 108km barbed-wire fencing along Myanmar border",
+        "summary_bn": "মাদক প্রবেশ ও চোরাচালান কঠোরভাবে দমন করতে বাংলাদেশ-মিয়ানমার সীমান্তে ১০৮ কিলোমিটার বর্ডার ফেন্সিং নির্মাণ ও আধুনিকায়নের উদ্যোগ নিয়েছে সরকার।",
+        "summary_en": "The government has taken an initiative to build 108km of border fencing along the Myanmar border to curb drug trafficking.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-15T14:38:54+00:00",
+        "lead_bn": "মাদক প্রবেশ ও চোরাচালান কঠোরভাবে দমন করতে বাংলাদেশ-মিয়ানমার সীমান্তে ১০৮ কিলোমিটার বর্ডার ফেন্সিং নির্মাণ ও আধুনিকায়নের উদ্যোগ নিয়েছে সরকার।",
+        "lead_en": "The government has taken an initiative to build 108km of border fencing along the Myanmar border to curb drug trafficking.",
+        "bullets_bn": [
+          "স্বরাষ্ট্রমন্ত্রী সালাহউদ্দীন আহমদ সংসদীয় কমিটিতে এই তথ্য জানান।",
+          "সংসদ ভবনে স্বরাষ্ট্র মন্ত্রণালয় সম্পর্কিত স্থায়ী কমিটির ষষ্ঠ বৈঠক অনুষ্ঠিত হয়।",
+          "কমিটির সভাপতি জয়নুল আবেদীন এমপি বৈঠকে সভাপতিত্ব করেন।"
+        ],
+        "bullets_en": [
+          "Home Minister Salahuddin Ahmed informed the parliamentary committee about the initiative.",
+          "The sixth meeting of the parliamentary standing committee on the home ministry was held at the parliament building.",
+          "Committee Chairman Zainul Abedin MP presided over the meeting."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "জাতীয় সংসদ ভবনে ত্রয়োদশ জাতীয় সংসদের স্বরাষ্ট্র মন্ত্রণালয় সম্পর্কিত স্থায়ী কমিটির ষষ্ঠ বৈঠকে এই তথ্য জানানো হয়।",
+        "details_en": "This information was revealed at the sixth meeting of the parliamentary standing committee on the home ministry held at the Jatiya Sangsad Bhaban."
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-15T15:01:47.608883+00:00"
+      }
+    },
+    {
+      "story_id": "ae0b9c51-9b52-511c-bc86-16a0e4166200",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -13,411 +220,62 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-15%2F3urm9mcn%2FAzad.jpeg?rect=0%2C0%2C1063%2C558&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-07-07%2F782zv4ww%2FLaw-Minister.jpg?rect=0%2C103%2C1444%2C758&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-15T13:30:25+00:00",
+      "published_at": "2026-11-15T14:49:56+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.75,
-      "rank_score": 5.828,
+      "importance_score": 6.25,
+      "rank_score": 3.8644,
       "sources": [
         {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/4l7ef6sik2",
-          "title": "সাম্প্রতিক নাশকতা ঠেকাতে সরকারের ব্যবস্থা ‘আই ওয়াশ’: জামায়াত নেতা আযাদ",
-          "snippet": "সাম্প্রতিক নাশকতা ঠেকাতে সরকারের ব্যবস্থা ‘আই ওয়াশ’: জামায়াত নেতা আযাদ"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/78h0pnqb5d",
+          "title": "জিয়াউলের হাতে হাতকড়া না থাকায় সংসদে ক্ষোভ, আইনমন্ত্রী বললেন পুনরাবৃত্তি হবে না",
+          "snippet": "জিয়াউলের হাতে হাতকড়া না থাকায় সংসদে ক্ষোভ, আইনমন্ত্রী বললেন পুনরাবৃত্তি হবে না"
         },
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/court/ict-hold-nationwide-public-hearings-crimes-against-humanity-during-al-rule-1603326",
-          "title": "ICT to hold nationwide public hearings on crimes against humanity during AL rule",
-          "snippet": "ICT to hold nationwide public hearings on crimes against humanity during AL rule"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/chitagong/981104/%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%86.%E0%A6%B2%E0%A7%80%E0%A6%97-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%9F%E0%A6%BF-%E0%A6%95%E0%A7%9C%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%8F%E0%A6%B8%E0%A6%AA%E0%A6%BF",
-          "title": "ডিসেম্বর নিয়ে আ.লীগ নেতাদের দুটি কড়া বার্তা এসপি জাহাংগীরের, মিলেছে যেসব প্রমাণ",
-          "snippet": "ডিসেম্বর নিয়ে আ.লীগ নেতাদের দুটি কড়া বার্তা এসপি জাহাংগীরের, মিলেছে যেসব প্রমাণ"
+          "url": "https://www.tbsnews.net/bangladesh/ilias-alis-wife-protests-ziaul-ahsans-handcuff-free-court-appearance-1603481",
+          "title": "Ilias Ali's wife protests Ziaul Ahsan's handcuff-free court appearance",
+          "snippet": "Ilias Ali's wife protests Ziaul Ahsan's handcuff-free court appearance"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জামায়াত নেতা আযাদ সরকারের পদক্ষেপকে আই ওয়াশ বলেছেন",
-        "title_en": "Jamaat leader Azad calls government actions an eye wash",
-        "summary_bn": "১১-দলীয় ঐক্যের সমন্বয়ক হামিদুর রহমান আযাদ সাম্প্রতিক নাশকতা ঠেকাতে সরকারের নেওয়া ব্যবস্থাগুলোকে আই ওয়াশ বলে অভিহিত করেছেন।",
-        "summary_en": "11-party alliance coordinator Hamidur Rahman Azad termed government measures to prevent recent sabotage as an eye wash.",
+        "title_bn": "জিয়াউল আহসানকে হাতকড়া না পরানোর ঘটনায় সংসদে ক্ষোভ প্রকাশ করেছেন বিএনপির সংসদ সদস্য",
+        "title_en": "BNP MP expresses anger in parliament over Ziaul Ahsan not wearing handcuffs",
+        "summary_bn": "মানবতাবিরোধী অপরাধের মামলায় আদালতে হাজির করার সময় সাবেক সেনা কর্মকর্তা জিয়াউল আহসানকে হাতকড়া না পরানোর ঘটনায় জাতীয় সংসদে ক্ষোভ প্রকাশ করেছেন বিএনপির সংসদ সদস্য তাহসিনা রুশদীর।",
+        "summary_en": "BNP MP Tahsina Rushdir expressed anger in the national parliament over former military officer Ziaul Ahsan not wearing handcuffs during his court appearance in a crimes against humanity case.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-15T13:30:25+00:00",
-        "lead_bn": "১১-দলীয় ঐক্যের সমন্বয়ক হামিদুর রহমান আযাদ সাম্প্রতিক নাশকতা ঠেকাতে সরকারের নেওয়া ব্যবস্থাগুলোকে আই ওয়াশ বলে অভিহিত করেছেন।",
-        "lead_en": "11-party alliance coordinator Hamidur Rahman Azad termed government measures to prevent recent sabotage as an eye wash.",
+        "published_at": "2026-11-15T14:49:56+00:00",
+        "lead_bn": "মানবতাবিরোধী অপরাধের মামলায় আদালতে হাজির করার সময় সাবেক সেনা কর্মকর্তা জিয়াউল আহসানকে হাতকড়া না পরানোর ঘটনায় জাতীয় সংসদে ক্ষোভ প্রকাশ করেছেন বিএনপির সংসদ সদস্য তাহসিনা রুশদীর।",
+        "lead_en": "BNP MP Tahsina Rushdir expressed anger in the national parliament over former military officer Ziaul Ahsan not wearing handcuffs during his court appearance in a crimes against humanity case.",
         "bullets_bn": [
-          "হামিদুর রহমান আযাদ অভিযোগ করেন যে দণ্ডপ্রাপ্ত ও সাজাপ্রাপ্ত আসামিরা জামাই আদরে জেলখানায় বাস করছে।",
-          "তিনি বলেন, বাসে আগুন দিয়ে মানুষ মারা হলেও স্বরাষ্ট্রমন্ত্রী এ বিষয়ে কিছু বলছেন না।",
-          "২১ নভেম্বর সিলেট অভিমুখে লংমার্চ স্থগিতের ঘোষণা দেওয়া হয় ব্রিফিংয়ে।"
+          "তাহসিনা রুশদীর প্রশ্ন রাখেন যে সরকার জিয়াউল আহসানকে নিয়ন্ত্রণ করতে পারছে কিনা।",
+          "আইনমন্ত্রী মো. আসাদুজ্জামান জানান যে আসামিকে কারাগার থেকে আদালত পর্যন্ত পৌঁছানো তাঁর আওতাধীন নয়।",
+          "আইনমন্ত্রী নিশ্চয়তা দেন যে আদালত অঙ্গনে এ ধরনের ঘটনার পুনরাবৃত্তি হবে না।"
         ],
         "bullets_en": [
-          "Hamidur Rahman Azad alleged that convicted and sentenced accused persons are living comfortably in jail.",
-          "He stated that the home minister is not saying anything even though people are being killed by burning buses.",
-          "The long march towards Sylhet scheduled for November ২১ was announced as postponed during the briefing."
+          "Tahsina Rushdir questioned whether the government is able to control Ziaul Ahsan.",
+          "Law Minister Md. Asaduzzaman stated that transporting the accused from jail to court does not fall under his jurisdiction.",
+          "The law minister assured that such incidents will not repeat in the court premises."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "রাজধানীর মগবাজারে জামায়াতের কেন্দ্রীয় কার্যালয়ে ১১-দলীয় ঐক্যের লিয়াজোঁ কমিটির জরুরি সভা শেষে সাংবাদিকদের ব্রিফিংকালে হামিদুর রহমান আযাদ এসব কথা বলেন। এ সময় বিভিন্ন দলের নেতারা উপস্থিত ছিলেন।",
-        "details_en": "Hamidur Rahman Azad made these remarks while briefing journalists after an emergency meeting of the 11-party alliance liaison committee at Jamaat's central office in Moghbazar, Dhaka. Leaders of various parties were present during the briefing."
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
-      "trending": true,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-15T14:02:16.072912+00:00"
-      }
-    },
-    {
-      "story_id": "cb8c7679-311c-5f38-9884-a6be6ee3f465",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#GrameenBank",
-        "#Gazipur",
-        "#BangladeshPolice"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1614610741181-2bce5e06976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bWlzY3JlYW50cyUyMGF0dGVtcHQlMjBzZXQlMjBncmFtZWVuJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk0NzUxMzE2fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-15T13:37:53+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.8177,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/nation/424715/miscreants-attempt-to-set-grameen-bank-branch-on",
-          "title": "Miscreants attempt to set Grameen Bank branch on fire in Gazipur",
-          "snippet": "Miscreants attempt to set Grameen Bank branch on fire in Gazipur"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/crime/grameen-bank-zonal-office-set-fire-sylhet-1603341",
-          "title": "Grameen Bank zonal office set on fire in Sylhet",
-          "snippet": "Grameen Bank zonal office set on fire in Sylhet"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "গ্রামীণ ব্যাংকের শাখায় আগুন দেওয়ার চেষ্টা",
-        "title_en": "Miscreants attempt to set Grameen Bank branch on fire",
-        "summary_bn": "গাজীপুরের শ্রীপুরে গ্রামীণ ব্যাংকের একটি শাখায় আগুন দেওয়ার চেষ্টা চালিয়েছে দুর্বৃত্তরা।",
-        "summary_en": "Miscreants attempted to set fire to a branch of Grameen Bank in Sreepur, Gazipur.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-15T13:37:53+00:00",
-        "lead_bn": "গাজীপুরের শ্রীপুরে গ্রামীণ ব্যাংকের একটি শাখায় আগুন দেওয়ার চেষ্টা চালিয়েছে দুর্বৃত্তরা।",
-        "lead_en": "Miscreants attempted to set fire to a branch of Grameen Bank in Sreepur, Gazipur.",
-        "bullets_bn": [
-          "রাত আনুমানিক ২টার দিকে শ্রীপুরের টেংরা-শ্রীপুর শাখায় এই ঘটনা ঘটে।",
-          "ব্যাংকের নাইট গার্ড ও কর্মকর্তারা আগুন দেখতে পেয়ে তা দ্রুত নিভিয়ে ফেলেন।",
-          "এই ঘটনায় ব্যাংক কর্তৃপক্ষ পুলিশের কাছে একটি সাধারণ ডায়েরি বা জিডি করেছে।"
-        ],
-        "bullets_en": [
-          "The incident took place around 2am on Sunday at the bank's Tengra-Sreepur branch.",
-          "The bank was saved after its night guard and officials noticed the flames and quickly extinguished them.",
-          "The bank authorities filed a general diary with police following the incident."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ঘটনাটি গাজীপুরের শ্রীপুর উপজেলার তেলিহাটি ইউনিয়নের টেংরা-শ্রীপুর শাখায় ঘটেছে। এছাড়া পৃথক আরেকটি ঘটনায় সিলেটের গ্রামীণ ব্যাংকের জোনাল অফিসেও আগুন দেওয়া হয়েছে, যেখানে একজন ব্যাংক কর্মী আগুন দেখতে পেয়ে ফায়ার সার্ভিস ও পুলিশকে খবর দিয়েছিলেন।",
-        "details_en": "The incident took place at the Tengra-Sreepur branch in Telihati union of Sreepur upazila in Gazipur. Separately, a Grameen Bank zonal office was also set on fire in Sylhet, where a bank employee noticed the fire and informed the Fire Service and police."
+        "details_bn": "মানবতাবিরোধী অপরাধের মামলার আসামি জিয়াউল আহসানকে জেরা করার জন্য নিয়ে যাওয়ার সময়কার একটি ছবি সামাজিক যোগাযোগমাধ্যমে ভাইরাল হয়। গুমের শিকার বিএনপি নেতা ইলিয়াস আলীর স্ত্রী ও সংসদ সদস্য তাহসিনা রুশদীর জাতীয় সংসদে পয়েন্ট অব অর্ডারে বক্তব্য দেওয়ার সময় ওই ভিডিওর কথা তুলে ধরেন এবং এর ব্যাখ্যা দাবি করেন। জবাবে আইনমন্ত্রী জানান যে বিষয়টি তাঁর দৃষ্টিতে আসার পর জিয়াকে ফেরত নেওয়ার সময় প্রয়োজনীয় পদক্ষেপ নেওয়া হয়েছে।",
+        "details_en": "A photo went viral on social media showing crimes against humanity case accused Ziaul Ahsan being taken for questioning without handcuffs last Thursday. BNP leader Ilias Ali's wife and MP Tahsina Rushdir raised the video during a point of order in the national parliament and demanded an explanation. In response, the law minister stated that after the matter came to his attention, necessary steps were taken while returning Zia."
       },
       "desk_importance": 6.0,
       "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-15T14:02:16.072912+00:00"
-      }
-    },
-    {
-      "story_id": "329f6cfb-8925-53fd-a8e5-43f9527aa05b",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "economy_business",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#HighCourt",
-        "#NoisePollution",
-        "#Bela",
-        "#Bangladesh"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2019/09/21/hydrolic-horn-dhaka-tbs.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-15T12:35:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.5934,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/court/hc-orders-regular-drives-silent-zones-crackdown-unnecessary-honking-fireworks",
-          "title": "HC orders regular drives in silent zones, crackdown on unnecessary honking, fireworks",
-          "snippet": "HC orders regular drives in silent zones, crackdown on unnecessary honking, fireworks"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/law-courts/news/1179829",
-          "title": "শব্দদূষণ নিয়ন্ত্রণে ‌‘নীরব এলাকায়’ অভিযান চালানোর নির্দেশ হাইকোর্টের",
-          "snippet": "শব্দদূষণ নিয়ন্ত্রণে ‌‘নীরব এলাকায়’ অভিযান চালানোর নির্দেশ হাইকোর্টের"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "শব্দদূষণ রোধে নীরব এলাকায় অভিযান ও আতশবাজি নিয়ন্ত্রণের নির্দেশ হাইকোর্টের",
-        "title_en": "High Court orders drives in silent zones and curbs on fireworks",
-        "summary_bn": "হাইকোর্ট শব্দদূষণ রোধে নির্দিষ্ট নীরব এলাকায় নিয়মিত অভিযান চালানো, অপ্রয়োজনীয় হর্ন বাজানো বন্ধ করা এবং আতশবাজির ব্যবহার নিয়ন্ত্রণের নির্দেশ দিয়েছে।",
-        "summary_en": "The High Court has directed authorities to conduct regular drives in silent zones, stop unnecessary honking, and control fireworks.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-15T12:35:00+00:00",
-        "lead_bn": "হাইকোর্ট শব্দদূষণ রোধে নির্দিষ্ট নীরব এলাকায় নিয়মিত অভিযান চালানো, অপ্রয়োজনীয় হর্ন বাজানো বন্ধ করা এবং আতশবাজির ব্যবহার নিয়ন্ত্রণের নির্দেশ দিয়েছে।",
-        "lead_en": "The High Court has directed authorities to conduct regular drives in silent zones, stop unnecessary honking, and control fireworks.",
-        "bullets_bn": [
-          "বাংলাদেশ পরিবেশ আইনজীবী সমিতির (বেলা) করা জনস্বার্থমূলক মামলার প্রাথমিক শুনানির পর ১৫ নভেম্বর এই আদেশ দেওয়া হয়।",
-          "আদালত পুলিশ মহাপরিদর্শক, পরিবেশ অধিদপ্তরের মহাপরিচালক ও বিআরটিএ চেয়ারম্যানসহ সংশ্লিষ্টদের এই নির্দেশ বাস্তবায়ন করতে বলেছেন।",
-          "কর্তৃপক্ষকে প্রতি তিন মাস অন্তর হাইকোর্টে নির্দেশ বাস্তবায়নের অগ্রগতি প্রতিবেদন জমা দিতে বলা হয়েছে।"
-        ],
-        "bullets_en": [
-          "The order was passed on 15 November following an initial hearing on a public interest litigation filed by Bela.",
-          "The court directed the police chief, environment department chief, BRTA chairman and others to implement the directives.",
-          "Authorities have been asked to submit progress reports to the court every three months on implementing the directives."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বাংলাদেশ পরিবেশ আইনজীবী সমিতির (বেলা) করা একটি জনস্বার্থমূলক মামলার প্রাথমিক শুনানির পর বিচারপতি শিকদার মাহমুদুর রাজী ও বিচারপতি ফাতেমা আনোয়ারের সমন্বয়ে গঠিত হাইকোর্ট বেঞ্চ এই আদেশ দেন এবং একটি রুল জারি করেন।",
-        "details_en": "The bench of Justice Sikder Mahmudur Razi and Justice Fatema Anwar passed the order and issued a rule following an initial hearing on a public interest litigation filed by the Bangladesh Environmental Lawyers Association."
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-15T14:02:16.072912+00:00"
-      }
-    },
-    {
-      "story_id": "9bab1fff-b1e0-5e26-bb33-c5436fe95ec6",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#AnnualDevelopmentProgramme",
-        "#IMED"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2025/10/22/adp_0.png",
-      "image_caption": null,
-      "published_at": "2026-11-15T11:25:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.0959,
-      "sources": [
-        {
-          "name": "The Business Standard Economy",
-          "url": "https://www.tbsnews.net/economy/adp-implementation-hits-record-low-653-jul-oct-1603251",
-          "title": "ADP implementation hits record low of 6.53% in July-October of FY27",
-          "snippet": "ADP implementation hits record low of 6.53% in July-October of FY27"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "অর্থবছরের প্রথম চার মাসে এডিপি বাস্তবায়ন হার ৬ দশমিক ৫৩ শতাংশ।",
-        "title_en": "ADP implementation rate stands at 6.53% in first four months.",
-        "summary_bn": "চলing অর্থবছরের জুলাই-অক্টোবর সময়ে সরকারের বার্ষিক উন্নয়ন কর্মসূচির (এডিপি) বাস্তবায়ন হার দাঁড়িয়েছে ৬ দশমিক ৫৩ শতাংশ, যা এই সময়ের জন্য এ যাবৎকালের সর্বনিম্ন।",
-        "summary_en": "The government's Annual Development Programme implementation rate stood at 6.53% in July-October of the current fiscal year, the lowest ever recorded.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-15T11:25:00+00:00",
-        "lead_bn": "চলing অর্থবছরের জুলাই-অক্টোবর সময়ে সরকারের বার্ষিক উন্নয়ন কর্মসূচির (এডিপি) বাস্তবায়ন হার দাঁড়িয়েছে ৬ দশমিক ৫৩ শতাংশ, যা এই সময়ের জন্য এ যাবৎকালের সর্বনিম্ন।",
-        "lead_en": "The government's Annual Development Programme implementation rate stood at 6.53% in July-October of the current fiscal year, the lowest ever recorded.",
-        "bullets_bn": [
-          "পরিকল্পনা মন্ত্রণালয়ের বাস্তবায়ন পরিবীক্ষণ ও মূল্যায়ন বিভাগের (আইএমইডি) ১৫ নভেম্বর প্রকাশিত প্রতিবেদনে এই তথ্য জানানো হয়।",
-          "আলোচ্য সময়ে মন্ত্রণালয় ও বিভাগগুলো উন্নয়ন প্রকল্পে ২০ হাজার ১৫৯ দশমিক ৬৪ কোটি টাকা ব্যয় করেছে।",
-          "সরকার চলতি অর্থবছরের জন্য বাস্তবায়নকারী সংস্থার নিজস্ব তহবিলসহ ৩ লাখ ৮ হাজার ৯২৪ দশমিক ৮৬ কোটি টাকার এডিপি ব্যয়ের লক্ষ্যমাত্রা নির্ধারণ করেছে।"
-        ],
-        "bullets_en": [
-          "The information was revealed in a report published by the Implementation Monitoring and Evaluation Division of the planning ministry on 15 November.",
-          "Ministries and divisions spent Tk20,159.64 crore on development projects during the July-October period.",
-          "The government has set an ADP expenditure target of Tk3,08,924.86 crore for the fiscal year, including implementing agencies' own resources."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "পূর্ববর্তী দুটি অর্থবছরে একই সময়ে এডিপি বাস্তবায়ন হার ছিল যথাক্রমে ৮ দশমিক ৩৩ শতাংশ এবং ৭ দশমিক ৯ শতাংশ। ২০২৪ সালের আগস্টে আওয়ামী লীগ সরকারের পতনের পর প্রশাসনিক অস্থিতিশীলতা এবং অন্তর্বর্তীকালীন সরকারের মেয়াদে এই দুই অর্থবছরে এডিপি বাস্তবায়নের গতি ধীর ছিল। স্বাভাবিক পরিস্থিতিতে অর্থবছরের প্রথম চার মাসে এডিপি বাস্তবায়ন সাধারণত ১০ শতাংশ ছাড়িয়ে যায়।",
-        "details_en": "In the previous two fiscal years, ADP implementation rates during the same period stood at 8.33% and 7.90%, respectively. The pace remained sluggish during these two fiscal years amid administrative instability following the fall of the Awami League government in August 2024 and the subsequent tenure of the interim government. Under normal circumstances, implementation during the first four months generally exceeds 10%."
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
       "trending": false,
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-15T14:02:16.072912+00:00"
-      }
-    },
-    {
-      "story_id": "7d07c10d-95d4-59d5-845e-bcb9bd7ea2f5",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#Gaza",
-        "#Jabalia",
-        "#CivilDefence"
-      ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/0Q1A4969-copy-1794747221.jpg?resize=1920%2C1440",
-      "image_caption": null,
-      "published_at": "2026-11-15T13:45:02+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.4602,
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/features/2026/11/15/gaza-families-bury-bodies-of-loved-ones-trapped-for-years-under-rubble?traffic_source=rss",
-          "title": "Gaza families bury bodies of loved ones trapped for years under rubble",
-          "snippet": "Gaza families bury bodies of loved ones trapped for years under rubble"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "উত্তর গাজায় ধ্বংসস্তूप থেকে সতেরো আত্মীয়ের লাশ দাফন করা হয়েছে",
-        "title_en": "Bodies of seventeen relatives buried from rubble in northern Gaza",
-        "summary_bn": "উত্তর গাজার জাবালিয়ায় তিন বছরেরও বেশি সময় ধরে ধ্বংসস্তূপের নিচে আটকে থাকা ১৭ জন আত্মীয়ের লাশ দাফন করেছেন মাহমুদ নবহান।",
-        "summary_en": "Mahmoud Nabhan buried the remains of 17 relatives trapped under rubble for over three years in Jabalia, northern Gaza.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-15T13:45:02+00:00",
-        "lead_bn": "উত্তর গাজার জাবালিয়ায় তিন বছরেরও বেশি সময় ধরে ধ্বংসস্তূপের নিচে আটকে থাকা ১৭ জন আত্মীয়ের লাশ দাফন করেছেন মাহমুদ নবহান।",
-        "lead_en": "Mahmoud Nabhan buried the remains of 17 relatives trapped under rubble for over three years in Jabalia, northern Gaza.",
-        "bullets_bn": [
-          "বেসামরিক প্রতিরক্ষা দলগুলো ধ্বংসস্তূপ থেকে পরিবারের সদস্যদের অবশেষ উদ্ধার করেছে।",
-          "নিহতদের মধ্যে নবহানের সাত সন্তান ও নাতি-নাতনিসহ ৪৫ দিন বয়সী এক নাতিও ছিল।",
-          "বাড়িটিতে কোনো যোদ্ধা, ইসরায়েলি সেনা বা বন্দি ছিল না বলে নবহান জানিয়েছেন।"
-        ],
-        "bullets_en": [
-          "Civil Defence teams retrieved the remains of the family members from the rubble.",
-          "Those killed included Nabhan's seven children and grandchildren, and a 45-day-old grandchild.",
-          "Nabhan stated that there had been no fighters, Israeli soldiers or captives inside the home."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "অক্টোবর ২০২৩ সালে গাজায় ইসরায়েলি যুদ্ধ শুরু হওয়ার ২০ দিন পর বির আন-নাজায় একটি হামলায় নবহানের বাড়িটি লক্ষ্যবস্তু করা হয়। কঠিন পরিস্থিতির কারণে গত তিন বছর ধরে তিনি পরিবারের সদস্যদের অবশেষ উদ্ধারের চেষ্টা চালিয়ে ব্যর্থ হয়েছিলেন। অবশেষ উদ্ধারের পর নবহানের ট্রমা পুনরায় জেগে উঠলেও নিজের শিশুদের জন্য একটি কবর থাকায় তিনি স্বস্তি প্রকাশ করেছেন।",
-        "details_en": "Nabhan's home in Bir an-Naaja was targeted 20 days after Israel's war on Gaza began in October 2023. For the past three years, difficult conditions prevented him from recovering the remains. The recovery brought both trauma and relief for Nabhan, who now knows his children have a grave they can visit."
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-15T14:02:16.072912+00:00"
-      }
-    },
-    {
-      "story_id": "a3699d47-3229-5760-bd31-8ac0bc95eb81",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "tech_innovation",
-        "climate_environment"
-      ],
-      "region": "international",
-      "tags": [
-        "#Zelenskyy",
-        "#Starshield",
-        "#Starlink",
-        "#Russia"
-      ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af715a9cd6a9-1794577833.jpg?resize=1920%2C1440",
-      "image_caption": null,
-      "published_at": "2026-11-15T13:37:08+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.4415,
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
-          "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
-          "snippet": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "স্টারশিল্ডের গতির সীমাবদ্ধতা রাশিয়ার হামলায় সহায়তা করছে বলে জানিয়েছেন জেলেনস্কি।",
-        "title_en": "Starshield speed restrictions aid Russian attacks, says Zelenskyy.",
-        "summary_bn": "ইউক্রেনের প্রেসিডেন্ট ভলোদিমির জেলেনস্কি বলেছেন যে স্টারলিংকের স্টারশিল্ড ইন্টারনেটের গতি বিধিনিষেধ ইউক্রেন জুড়ে মারাত্মক রুশ হামলায় সহায়তা করেছে।",
-        "summary_en": "Ukrainian President Volodymyr Zelenskyy said Starlink military-grade internet speed restrictions aided a wave of deadly Russian attacks across Ukraine.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "tech_innovation",
-          "climate_environment"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-15T13:37:08+00:00",
-        "lead_bn": "ইউক্রেনের প্রেসিডেন্ট ভলোদিমির জেলেনস্কি বলেছেন যে স্টারলিংকের স্টারশিল্ড ইন্টারনেটের গতি বিধিনিষেধ ইউক্রেন জুড়ে মারাত্মক রুশ হামলায় সহায়তা করেছে।",
-        "lead_en": "Ukrainian President Volodymyr Zelenskyy said Starlink military-grade internet speed restrictions aided a wave of deadly Russian attacks across Ukraine.",
-        "bullets_bn": [
-          "কোরিউকিভকা অঞ্চলে ড্রেন হামলায় দু'জন নিহত হন।",
-          "ওডেসা অঞ্চলে একটি জ্বালানি স্থাপনায় আঘাত হানায় ৪১,০০০ পরিবার বিদ্যুৎহীন হয়ে পড়ে।",
-          "ইউক্রেনীয় সেনাবাহিনী জানিয়েছে তারা ১৩২টি রুশ ড্রোনের মধ্যে ১০৬টি ভূপাতিত করেছে।"
-        ],
-        "bullets_en": [
-          "Two people were killed in a drone attack in the Koriukivka region.",
-          "An energy facility hit in Odesa left 41,000 households without electricity.",
-          "Ukraine’s army said it shot down 106 of 132 Russian drones launched overnight."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "জেলেনস্কি বলেন যে ফ্রন্টলাইন এবং অধিকৃত অঞ্চলে স্টারশিল্ড টার্মিনালের গতি সীমাবদ্ধতা এখনও বজায় রয়েছে। স্টারলিংকের মালিকানাধীন স্পেসএক্সের ইলন মাস্ক ইন্টারনেট গতির সীমাবদ্ধতার কথা অস্বীকার করেছেন এবং বলেছেন মার্কিন সরকার স্টারশিল্ড নিয়ন্ত্রণ করে। স্টারলিংক প্রযুক্তিগত সমস্যার কথা জানালেও ইউক্রেন তা বিশ্বাস করে না।",
-        "details_en": "Zelenskyy stated operating speed restrictions on Starshield terminals along the front line and temporarily occupied territories remain. SpaceX owner Elon Musk denied restricting internet speeds, stating the US government controls Starshield, while Ukraine doubted reported technical problems."
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-15T14:02:16.072912+00:00"
+        "checked_at": "2026-11-15T15:01:47.608883+00:00"
       }
     }
   ]
