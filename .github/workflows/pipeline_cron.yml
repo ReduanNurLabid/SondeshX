@@ -115,8 +115,9 @@ jobs:
             npx --yes firebase-tools@15 deploy --only hosting:sondesh --project dorpon-a99a6 --non-interactive
           rm -f "$RUNNER_TEMP/sa.json"
 
-      # Facebook posts: a Reel on odd hours 07-23 and a photo card on even hours 08-22
-      # (Bangladesh time), each a different story, so formats alternate through the day.
+      # Facebook posts, 8 a day weighted to the evening peak (Bangladesh time), each a
+      # different story: Reels at 09, 13, 19, 21; photo cards at 11, 17, 20, 22.
+      # Fewer, stronger posts get wider distribution than many average ones.
       - name: Start Facebook Post For This Slot
         if: steps.guard.outputs.skip != 'true'
         continue-on-error: true
@@ -124,10 +125,10 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           hour=$(TZ=Asia/Dhaka date +%-H)
-          if [ "$hour" -ge 7 ] && [ "$hour" -le 23 ] && [ $((hour % 2)) -eq 1 ]; then
+          if [[ " 9 13 19 21 " == *" $hour "* ]]; then
             gh workflow run facebook_reels.yml --repo "$GITHUB_REPOSITORY" --ref main -f dry_run=false -f auto=true -f format=reel
             echo "Reel started for the ${hour}:00 slot."
-          elif [ "$hour" -ge 8 ] && [ "$hour" -le 22 ]; then
+          elif [[ " 11 17 20 22 " == *" $hour "* ]]; then
             gh workflow run facebook_reels.yml --repo "$GITHUB_REPOSITORY" --ref main -f dry_run=false -f auto=true -f format=photo
             echo "Photo card started for the ${hour}:00 slot."
           else

@@ -14,10 +14,12 @@ interface ReelPost {
   social_appeal?: number;
   comment_id?: string | null;
   platform?: string;
+  duration_s?: number;
   post_id?: string;
   insights?: {
     plays?: number;
     total_plays?: number;
+    views_3s?: number;
     reach?: number;
     clicks?: number;
     interactions?: number;
@@ -29,6 +31,15 @@ interface ReelPost {
 }
 
 const fmt = (n?: number | null) => (n == null ? '—' : n.toLocaleString());
+
+/** How well a Reel holds viewers: share of 3-second views, else average watch / length. */
+function retention(p: ReelPost): string {
+  const i = p.insights;
+  if (!i) return '—';
+  if (i.views_3s != null && i.plays) return `${Math.round((100 * i.views_3s) / i.plays)}%`;
+  if (i.avg_watch_ms != null && p.duration_s) return `${Math.round((100 * i.avg_watch_ms) / 1000 / p.duration_s)}%`;
+  return '—';
+}
 
 /** Reels posted by the automatic job, with the numbers Facebook reports a day later. */
 export const ReelsPerformancePanel: React.FC<{ defaultOpen?: boolean }> = ({ defaultOpen = false }) => {
@@ -91,6 +102,7 @@ export const ReelsPerformancePanel: React.FC<{ defaultOpen?: boolean }> = ({ def
                         <th className="py-1.5 pr-3 text-right">Plays</th>
                         <th className="py-1.5 pr-3 text-right">Total plays / reach</th>
                         <th className="py-1.5 pr-3 text-right">Avg watch</th>
+                        <th className="py-1.5 pr-3 text-right" title="Average watch time as a share of the Reel's length; or 3-second views as a share of plays">Kept</th>
                         <th className="py-1.5 pr-3 text-right">Reactions</th>
                         <th className="py-1.5 text-right">Comments</th>
                       </tr>
@@ -118,6 +130,7 @@ export const ReelsPerformancePanel: React.FC<{ defaultOpen?: boolean }> = ({ def
                           <td className="py-1.5 pr-3 text-right">
                             {p.insights?.avg_watch_ms != null ? `${(p.insights.avg_watch_ms / 1000).toFixed(1)}s` : '—'}
                           </td>
+                          <td className="py-1.5 pr-3 text-right font-bold">{retention(p)}</td>
                           <td className="py-1.5 pr-3 text-right">{fmt(p.insights?.reactions)}</td>
                           <td className="py-1.5 text-right">{fmt(p.insights?.comments)}</td>
                         </tr>

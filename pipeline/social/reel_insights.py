@@ -23,6 +23,7 @@ METRICS = {
     "post_video_likes_by_reaction_type": "reactions",
     "post_video_avg_time_watched": "avg_watch_ms",
     "post_video_social_actions": "interactions",
+    "post_video_views": "views_3s",          # 3-second views, where Facebook provides it for Reels
 }
 
 

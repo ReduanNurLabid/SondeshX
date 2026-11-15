@@ -19,7 +19,7 @@ from pipeline.processing.llm import generate_json
 SOURCE_CHAR_LIMIT = 6000
 BATCH_SOURCE_CHAR_LIMIT = 4000
 CORE_FIELDS = ("title", "lead", "bullets")
-TRIMMABLE_FIELDS = ("impact", "details")
+TRIMMABLE_FIELDS = ("impact", "details", "hook")
 
 CHECK_INSTRUCTIONS = """List every claim in a STORY that its SOURCE REPORTING does not support. Check in particular:
 - names, titles and roles of people and organisations
@@ -51,6 +51,7 @@ def _story_fields(buzz) -> dict:
         "bullets_en": buzz.bullets_en, "bullets_bn": buzz.bullets_bn,
         "impact_en": buzz.impact_en, "impact_bn": buzz.impact_bn,
         "details_en": buzz.details_en, "details_bn": buzz.details_bn,
+        "hook_bn": getattr(buzz, "hook_bn", None),
     }
 
 
@@ -72,8 +73,9 @@ def _apply_issues(story: CapsuleStory, raw_issues, checked_at: str) -> dict:
     # Only optional fields are affected: drop them in both languages and keep the story.
     for prefix in TRIMMABLE_FIELDS:
         if any(i["field"].startswith(prefix) for i in issues):
-            setattr(buzz, f"{prefix}_en", None)
-            setattr(buzz, f"{prefix}_bn", None)
+            for attr in (f"{prefix}_en", f"{prefix}_bn"):
+                if hasattr(buzz, attr):
+                    setattr(buzz, attr, None)
 
     return {"status": "passed", "issues": issues, "checked_at": checked_at}
 

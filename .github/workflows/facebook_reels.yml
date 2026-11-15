@@ -2,10 +2,10 @@ name: Facebook Reels
 
 on:
   schedule:
-    # Reels are normally started by the hourly news pipeline (every 2 hours, 07:00-23:00
+    # Posts are normally started by the hourly news pipeline (Reels at 09, 13, 19, 21
     # Bangladesh time), which cron-job.org triggers reliably. This schedule is only a
-    # backup; the job skips itself if a Reel went out in the last 100 minutes.
-    - cron: '40 1-17/2 * * *'
+    # backup for those Reel slots; the job skips itself if a Reel went out recently.
+    - cron: '40 3,7,13,15 * * *'
     # Daily performance check for the last week's Reels, 05:10 Bangladesh time.
     - cron: '10 23 * * *'
   workflow_dispatch:

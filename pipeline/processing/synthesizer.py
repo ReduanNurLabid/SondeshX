@@ -351,7 +351,9 @@ def synthesize_story_with_ai(
                 impact_bn=impact_bn,
                 impact_en=impact_en,
                 details_bn=details_bn,
-                details_en=details_en
+                details_en=details_en,
+                hook_bn=clean_editorial_text(data.get("hook_bn")) or None,
+                question_bn=clean_editorial_text(data.get("question_bn")) or None,
             )
             
             bcs_pro = None

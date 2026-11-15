@@ -38,12 +38,13 @@ from pipeline.social.hashtags import build_hashtags
 GRAPH = "https://graph.facebook.com/v23.0"
 SITE_URL = "https://sondesh.web.app"
 LOOKBACK_HOURS = 6
-MIN_IMPORTANCE = 6.0
-MIN_APPEAL = 6.0
+MIN_IMPORTANCE = 6.5          # Reels
+MIN_APPEAL = 7.0              # Reels: only stories people stop for
+MIN_PHOTO_IMPORTANCE = 7.0    # photo cards: important, text-led stories
 VOICE = "bn-BD-NabanitaNeural"
 GAP_SECONDS = 0.45
 LEAD_IN = 0.4
-OUTRO_TEXT = "পুরো খবর পড়তে কমেন্টের লিংকে যান। প্রতিদিনের খবর পেতে সন্দেশ এক্সপ্রেস ফলো করুন।"
+OUTRO_TEXT = "পুরো খবর কমেন্টের লিংকে।"
 MUSIC_FILE = os.path.join(os.path.dirname(__file__), "assets", "reel_music.mp3")
 BN_DIGITS = str.maketrans("0123456789", "০১২৩৪৫৬৭৮৯")
 BN_MONTHS = ["জানুয়ারি", "ফেব্রুয়ারি", "মার্চ", "এপ্রিল", "মে", "জুন", "জুলাই",
@@ -129,7 +130,7 @@ def pick_story(db, story_id: Optional[str] = None, fmt: str = "reel") -> Optiona
             continue
         if not buzz.get("title_bn") or len(buzz.get("bullets_bn") or []) < 2:
             continue
-        if float(s.get("importance_score") or 0) < MIN_IMPORTANCE:
+        if float(s.get("importance_score") or 0) < (MIN_IMPORTANCE if fmt == "reel" else MIN_PHOTO_IMPORTANCE):
             continue
         if fmt == "reel" and s.get("social_appeal") is not None and float(s["social_appeal"]) < MIN_APPEAL:
             continue
@@ -203,10 +204,21 @@ def media_duration(path: str) -> float:
     return float(json.loads(out)["format"]["duration"])
 
 
-def _script_parts(story: dict) -> list:
+def reel_headline(story: dict) -> str:
+    """What the Reel opens with: the fact-checked spoken hook, or the headline."""
     buzz = story["daily_buzz"]
-    parts = [("headline", None, buzz["title_bn"])]
-    parts += [("point", i, p) for i, p in enumerate((buzz.get("bullets_bn") or [])[:3])]
+    return buzz.get("hook_bn") or buzz["title_bn"]
+
+
+def reel_points(story: dict) -> list:
+    """Short Reels hold viewers: one key point, two only for the biggest stories."""
+    pts = (story["daily_buzz"].get("bullets_bn") or [])
+    return pts[:2] if float(story.get("importance_score") or 0) >= 8 else pts[:1]
+
+
+def _script_parts(story: dict) -> list:
+    parts = [("headline", None, reel_headline(story))]
+    parts += [("point", i, p) for i, p in enumerate(reel_points(story))]
     parts.append(("outro", None, OUTRO_TEXT))
     return parts
 
@@ -281,15 +293,15 @@ def _boundaries(texts: list, speech_len: float, pauses: list) -> list:
     return cuts
 
 
-# Reel sound design (News Room News - Spence):
-#   hook: the track's opening seconds play over the intro animation, then fade
-#   voice: headline, then each point; a short music sting fades in and out between parts
-#   tail: music returns under the end card
-HOOK_FROM, HOOK_LEN, HOOK_FADE = 0.6, 6.0, 1.5
-STING_LEN = 2.2
-STING_FROM = [20.0, 32.0, 44.0, 56.0, 68.0]   # different bars of the track for each sting
-TAIL_FROM, TAIL_LEN = 80.0, 3.0
-HEADLINE_GAP = 0.35
+# Reel sound design (News Room News - Spence), news first:
+#   0 s: headline/hook on screen over the photo, voice starts at once, music under it
+#   a short sting leads into each point; a shorter sting leads into the outro
+#   the music returns under the end card with the logo
+INTRO_FROM, INTRO_LEN = 0.6, 2.4            # music under the opening line, then fades
+VOICE_START = 0.25
+STING_LEN, OUTRO_STING_LEN = 1.3, 0.9
+STING_FROM = [20.0, 32.0, 44.0, 56.0, 68.0]
+TAIL_FROM, TAIL_LEN = 80.0, 2.2
 
 
 def _ff(*args):
@@ -307,28 +319,23 @@ def _voice_piece(path: str, src: str, start: float, end: float):
         "volume=1.5,aresample=48000,aformat=channel_layouts=stereo", path)
 
 
-def _silence(path: str, length: float):
-    _ff("-f", "lavfi", "-t", f"{length}", "-i", "anullsrc=channel_layout=stereo:sample_rate=48000", path)
+def _place(items: list, total: float, out: str):
+    """Mixes (path, start_seconds) clips onto one track of the given length."""
+    inputs, chains = [], []
+    for n, (path, at) in enumerate(items):
+        inputs += ["-i", path]
+        chains.append(f"[{n}:a]adelay={int(at * 1000)}:all=1[c{n}]")
+    mix = "".join(f"[c{n}]" for n in range(len(items)))
+    _ff(*inputs, "-filter_complex",
+        ";".join(chains) + f";{mix}amix=inputs={len(items)}:normalize=0:duration=longest,apad,atrim=0:{total}[m]",
+        "-map", "[m]", "-ac", "2", "-ar", "48000", out)
 
 
 def build_voiceover(story: dict, workdir: str):
     """Builds the whole soundtrack. Returns (audio_wav, segments, total_duration)."""
-    parts = _script_parts(story)              # headline, points..., outro
+    parts = _script_parts(story)              # headline/hook, 1-2 points, outro
     texts = [t for _, _, t in parts]
     raw = os.path.join(workdir, "voice_raw.wav")
-    pieces, segments = [], []
-    clock = 0.0
-
-    def add(path: str, length: float):
-        nonlocal clock
-        pieces.append(path)
-        clock += length
-
-    hook = os.path.join(workdir, "hook.wav")
-    _music_piece(hook, HOOK_FROM, HOOK_LEN, 0.15, HOOK_FADE)
-    segments.append({"kind": "intro", "start": 0.0, "end": HOOK_LEN})
-    add(hook, HOOK_LEN)
-
     voiced = _gemini_speech(texts, raw)
     if voiced:
         speech_len = media_duration(raw)
@@ -338,44 +345,47 @@ def build_voiceover(story: dict, workdir: str):
     else:
         print("Voice: none (Gemini voice quota used up); on-screen text with music only")
 
-    sting_n = 0
+    clips, segments = [], []
+    intro = os.path.join(workdir, "intro.wav")
+    _music_piece(intro, INTRO_FROM, INTRO_LEN, 0.05, 1.0, 0.5 if voiced else 0.8)
+    clips.append((intro, 0.0))
+
+    clock = 0.0
     for n, (kind, index, text) in enumerate(parts):
         seg_start = clock
-        # A sting leads into every part after the headline; the new card animates in with it.
         if n >= 1:
+            length = OUTRO_STING_LEN if kind == "outro" else STING_LEN
             sting = os.path.join(workdir, f"sting{n}.wav")
-            _music_piece(sting, STING_FROM[sting_n % len(STING_FROM)], STING_LEN, 0.5, 0.9, 0.85)
-            sting_n += 1
-            add(sting, STING_LEN)
+            _music_piece(sting, STING_FROM[(n - 1) % len(STING_FROM)], length, 0.3, 0.6, 0.85)
+            clips.append((sting, clock))
+            clock += length
+        else:
+            clock += VOICE_START
         if voiced:
             piece = os.path.join(workdir, f"voice{n}.wav")
             _voice_piece(piece, raw, edges[n], edges[n + 1])
-            add(piece, media_duration(piece))
+            clips.append((piece, clock))
+            clock += media_duration(piece)
         else:
-            bed = os.path.join(workdir, f"bed{n}.wav")
-            read = 3.0 if kind == "outro" else max(4.5, min(9.0, len(text) / 14))
-            _music_piece(bed, 8.0 + 9 * n, read, 0.6, 0.6, 0.45)
-            add(bed, read)
-        if kind == "headline":
-            gap = os.path.join(workdir, "gap.wav")
-            _silence(gap, HEADLINE_GAP)
-            add(gap, HEADLINE_GAP)
+            clock += 2.0 if kind == "outro" else max(3.5, min(8.0, len(text) / 14))
         seg = {"kind": kind, "start": round(seg_start, 3), "end": round(clock, 3)}
         if index is not None:
             seg["index"] = index
         segments.append(seg)
 
     tail = os.path.join(workdir, "tail.wav")
-    _music_piece(tail, TAIL_FROM, TAIL_LEN, 0.4, 1.6, 0.9)
-    add(tail, TAIL_LEN)
-    segments[-1]["end"] = round(clock, 3)
+    _music_piece(tail, TAIL_FROM, TAIL_LEN, 0.3, 1.2, 0.9)
+    clips.append((tail, clock))
+    total = round(clock + TAIL_LEN, 3)
+    segments[-1]["end"] = total
+    if not voiced:   # quiet bed so music-only Reels are not silent between stings
+        bed = os.path.join(workdir, "bed.wav")
+        _music_piece(bed, 8.0, total, 0.8, 1.0, 0.35)
+        clips.append((bed, 0.0))
 
-    listing = os.path.join(workdir, "pieces.txt")
-    with open(listing, "w", encoding="utf-8") as fh:
-        fh.writelines(f"file '{p.replace(chr(92), '/')}'\n" for p in pieces)
     audio = os.path.join(workdir, "soundtrack.wav")
-    _ff("-f", "concat", "-safe", "0", "-i", listing, "-c:a", "pcm_s16le", audio)
-    return audio, segments, round(clock, 3)
+    _place(clips, total, audio)
+    return audio, segments, total
 
 
 # ---------------------------------------------------------------- video
@@ -385,8 +395,8 @@ def render_video(story: dict, segments: list, duration: float, base_url: str, wo
     buzz = story["daily_buzz"]
     names = source_names(story)
     request = {
-        "headline": buzz["title_bn"],
-        "points": (buzz.get("bullets_bn") or [])[:3],
+        "headline": reel_headline(story),
+        "points": reel_points(story),
         "sourceLine": f"সূত্র: {', '.join(names[:3])}" if names else "",
         "category": INTEREST_CATEGORIES.get(story.get("primary_category") or "", {}).get("bn", "খবর"),
         "dateLine": bn_date(_parse_time(story.get("published_at")) or datetime.now(timezone.utc)),
@@ -433,6 +443,8 @@ def build_caption(story: dict) -> str:
     names = source_names(story)
     if names:
         parts.append(f"সূত্র: {', '.join(names[:3])}")
+    if buzz.get("question_bn"):
+        parts.append(f"💬 {buzz['question_bn']}")
     parts.append("পুরো খবরের লিংক কমেন্টে 👇")
     parts.append(" ".join(build_hashtags(story)))
     return "\n\n".join(parts)
@@ -623,6 +635,7 @@ def main():
         "importance_score": story.get("importance_score"),
         "social_appeal": story.get("social_appeal"),
         "reel_score": round(reel_score(story), 2),
+        "duration_s": duration,
         "hashtags": build_hashtags(story),
         "story_published_at": story.get("published_at"),
     })

@@ -27,6 +27,8 @@ WHAT TO WRITE
 - impact_en, impact_bn: one sentence on how this affects ordinary people in Bangladesh, only if the source states such an effect. Otherwise null.
 - details_en, details_bn: one paragraph, at most 90 words, of background taken from the source: what led to this, earlier related events, context. If the source gives no background, null.
 - tags: 2 to 4 hashtags in English CamelCase naming the specific people, bodies, places or issues in this story.
+- hook_bn: the opening line of a short news video, at most 12 Bangla words, spoken in the first two seconds. Lead with what changes for ordinary people or the most striking fact or figure, never with who said something. It must be a fact stated in the source. Example: "৩০ টাকা কেজিতে চাল পাবেন পোশাকশ্রমিকেরা".
+- question_bn: one short, genuine question inviting readers to share their own experience or view of this news, in Bangla. Null for deaths, violence, disasters or other tragedies, and never a yes/no prompt like "comment yes".
 - primary_category: exactly one of
     "governance_law" (Bangladesh politics, government, courts, law and order, administration)
     "economy_business" (economy, prices, banking, trade, markets, business)
@@ -54,7 +56,9 @@ Return one JSON object with exactly these keys:
   "impact_en": "... or null",
   "details_bn": "... or null",
   "details_en": "... or null",
-  "tags": ["#...", "#..."]<<BCS_KEYS>>
+  "tags": ["#...", "#..."],
+  "hook_bn": "...",
+  "question_bn": "... or null"<<BCS_KEYS>>
 }
 """
 

@@ -8,13 +8,20 @@ import { getLocalizedCategory, toBanglaDigits } from '../../utils/bilingual';
 // Mirrors the sound design in pipeline/social/post_reel.py so the preview matches the
 // posted Reel. The voice is not generated here (it costs Gemini quota); its timing is
 // estimated from the text length and shown on screen.
-const HOOK_FROM = 0.6, HOOK_LEN = 6.0, HOOK_FADE = 1.5;
-const STING_LEN = 2.2;
+const INTRO_FROM = 0.6, INTRO_LEN = 2.4;
+const VOICE_START = 0.25;
+const STING_LEN = 1.3, OUTRO_STING_LEN = 0.9;
 const STING_FROM = [20, 32, 44, 56, 68];
-const TAIL_FROM = 80, TAIL_LEN = 3.0;
-const HEADLINE_GAP = 0.35;
-const OUTRO_TEXT = 'পুরো খবর পড়তে কমেন্টের লিংকে যান। প্রতিদিনের খবর পেতে সন্দেশ এক্সপ্রেস ফলো করুন।';
+const TAIL_FROM = 80, TAIL_LEN = 2.2;
+const OUTRO_TEXT = 'পুরো খবর কমেন্টের লিংকে।';
 const SECONDS_PER_CHAR = 1 / 13; // Bangla newsreader pace
+
+/** Same choices as pipeline/social/post_reel.py: open with the hook, 1 point (2 for big stories). */
+const reelHeadline = (s: CapsuleStory) => (s.daily_buzz as any).hook_bn || s.daily_buzz.title_bn || s.daily_buzz.title_en || '';
+const reelPoints = (s: CapsuleStory) => {
+  const pts = (s.daily_buzz.bullets_bn?.length ? s.daily_buzz.bullets_bn : s.daily_buzz.bullets_en || []);
+  return pts.slice(0, (s.importance_score ?? 0) >= 8 ? 2 : 1);
+};
 
 const BN_MONTHS = ['জানুয়ারি', 'ফেব্রুয়ারি', 'মার্চ', 'এপ্রিল', 'মে', 'জুন', 'জুলাই', 'আগস্ট', 'সেপ্টেম্বর', 'অক্টোবর', 'নভেম্বর', 'ডিসেম্বর'];
 const bnDate = (iso?: string) => {
@@ -30,30 +37,30 @@ interface Timeline {
 }
 
 function buildTimeline(story: CapsuleStory): Timeline {
-  const b = story.daily_buzz;
-  const points = (b.bullets_bn?.length ? b.bullets_bn : b.bullets_en || []).slice(0, 3);
   const parts: { kind: ReelSegment['kind']; index?: number; text: string }[] = [
-    { kind: 'headline', text: b.title_bn || b.title_en || '' },
-    ...points.map((p, i) => ({ kind: 'point' as const, index: i, text: p })),
+    { kind: 'headline', text: reelHeadline(story) },
+    ...reelPoints(story).map((p, i) => ({ kind: 'point' as const, index: i, text: p })),
     { kind: 'outro', text: OUTRO_TEXT },
   ];
-  const segments: ReelSegment[] = [{ kind: 'intro', start: 0, end: HOOK_LEN }];
-  const music: Timeline['music'] = [{ at: 0, from: HOOK_FROM, len: HOOK_LEN, fadeIn: 0.15, fadeOut: HOOK_FADE, gain: 1 }];
+  const segments: ReelSegment[] = [];
+  const music: Timeline['music'] = [{ at: 0, from: INTRO_FROM, len: INTRO_LEN, fadeIn: 0.05, fadeOut: 1.0, gain: 0.5 }];
   const voice: Timeline['voice'] = [];
-  let clock = HOOK_LEN;
+  let clock = 0;
   parts.forEach((p, n) => {
     const start = clock;
     if (n >= 1) {
-      music.push({ at: clock, from: STING_FROM[(n - 1) % STING_FROM.length], len: STING_LEN, fadeIn: 0.5, fadeOut: 0.9, gain: 0.85 });
-      clock += STING_LEN;
+      const len = p.kind === 'outro' ? OUTRO_STING_LEN : STING_LEN;
+      music.push({ at: clock, from: STING_FROM[(n - 1) % STING_FROM.length], len, fadeIn: 0.3, fadeOut: 0.6, gain: 0.85 });
+      clock += len;
+    } else {
+      clock += VOICE_START;
     }
-    const len = Math.max(2.5, p.text.length * SECONDS_PER_CHAR);
+    const len = Math.max(1.5, p.text.length * SECONDS_PER_CHAR);
     voice.push({ at: clock, len });
     clock += len;
-    if (p.kind === 'headline') clock += HEADLINE_GAP;
     segments.push({ kind: p.kind, start, end: clock, ...(p.index != null ? { index: p.index } : {}) });
   });
-  music.push({ at: clock, from: TAIL_FROM, len: TAIL_LEN, fadeIn: 0.4, fadeOut: 1.6, gain: 0.9 });
+  music.push({ at: clock, from: TAIL_FROM, len: TAIL_LEN, fadeIn: 0.3, fadeOut: 1.2, gain: 0.9 });
   clock += TAIL_LEN;
   segments[segments.length - 1].end = clock;
   return { segments, duration: clock, music, voice };
@@ -105,8 +112,8 @@ export const ReelPreview: React.FC<Props> = ({ stories, initialStoryId }) => {
       const b = story.daily_buzz;
       const names = Array.from(new Set((story.sources || []).map((s) => s.name).filter(Boolean))).slice(0, 3);
       inputRef.current = {
-        headline: b.title_bn || b.title_en || '',
-        points: (b.bullets_bn?.length ? b.bullets_bn : b.bullets_en || []).slice(0, 3),
+        headline: reelHeadline(story),
+        points: reelPoints(story),
         sourceLine: names.length ? `সূত্র: ${names.join(', ')}` : '',
         category: getLocalizedCategory(story.primary_category || '', true),
         dateLine: bnDate(story.published_at),
@@ -176,7 +183,7 @@ export const ReelPreview: React.FC<Props> = ({ stories, initialStoryId }) => {
       <div className="border border-primary/30 bg-surface-container-high p-4">
         <h2 className="font-sans text-xs font-bold uppercase tracking-wider text-primary mb-1">Reel preview</h2>
         <p className="font-sans text-xs text-on-surface-variant mb-3">
-          Plays the Reel design with the real music: the hook, the stings between points and the end card.
+          Plays the Reel with the real music: it opens on the news, with a short sting before each point and the logo at the end.
           The voice is not generated in the preview; where it would speak, a "Voice" marker shows and the timing is estimated.
         </p>
         <div className="flex flex-col md:flex-row gap-4">
@@ -225,7 +232,7 @@ export const ReelPreview: React.FC<Props> = ({ stories, initialStoryId }) => {
               {timeline.segments.map((s, i) => (
                 <li key={i}>
                   <span className="font-mono">{s.start.toFixed(1)}–{s.end.toFixed(1)}s</span>{' '}
-                  {s.kind === 'intro' ? 'Hook: music + intro animation' : s.kind === 'headline' ? 'Headline (voice)' : s.kind === 'point' ? `Sting, then point ${(s.index ?? 0) + 1} (voice)` : 'Sting, outro (voice), music tail'}
+                  {s.kind === 'intro' ? 'Intro' : s.kind === 'headline' ? 'Opening line on screen + voice, music under it' : s.kind === 'point' ? `Sting, then point ${(s.index ?? 0) + 1} (voice)` : 'Sting, outro (voice), music tail'}
                 </li>
               ))}
             </ol>

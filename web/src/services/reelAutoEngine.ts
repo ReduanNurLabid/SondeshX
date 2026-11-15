@@ -167,7 +167,8 @@ function drawTopBar(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: numb
 }
 
 function drawHeadline(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: number, seg: ReelSegment, compact: boolean) {
-  const appear = ease((t - seg.start) / 0.6);
+  // The opening line is fully visible on the first frame: it is the cover image and the hook.
+  const appear = seg.start === 0 ? 1 : ease((t - seg.start) / 0.6);
   if (!compact) {
     // Full-size headline: the hook of the reel.
     const { size, lines } = fitText(ctx, input.headline, 700, 88, 60, 5);

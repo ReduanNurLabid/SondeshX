@@ -70,6 +70,9 @@ class DailyBuzzItem(BaseModel):
     impact_en: Optional[str] = None
     details_bn: Optional[str] = None
     details_en: Optional[str] = None
+    # Social: spoken opening line for Reels and an optional question for readers
+    hook_bn: Optional[str] = None
+    question_bn: Optional[str] = None
 
 class BcsProItem(BaseModel):
     syllabus_mapping: Optional[SyllabusMapping] = None
