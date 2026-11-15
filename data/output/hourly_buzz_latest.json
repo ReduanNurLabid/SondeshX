@@ -1,424 +1,161 @@
 {
-  "updated_at": "2026-11-15T21:00:47.200853",
-  "total_stories": 6,
+  "updated_at": "2026-11-15T22:00:45.417755",
+  "total_stories": 2,
   "stories": [
     {
-      "story_id": "733282fd-6287-56f5-8a3c-cc69055c7ed2",
-      "primary_category": "sports_fitness",
+      "story_id": "935f87f8-9ff7-58a3-83f6-b1de9c5b3539",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "sports_fitness",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Sports",
-        "#BangladeshCricket"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1717138752042-074eec87f65c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8dG93aGlkJTIwaHJpZG95JTIwbGl0dG9uJTIwZGFzJTIwc3BvcnRzfGVufDF8MHx8fDE3OTQ3NzY0OTh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-15%2Fk42lfa37%2FRumeen-Farhana.jpg?rect=0%2C7%2C976%2C512&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-15T18:27:53+00:00",
+      "published_at": "2026-11-15T16:29:46+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.2267,
+      "importance_score": 5.5,
+      "rank_score": 2.1971,
       "sources": [
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821197/%E0%A6%B9%E0%A7%83%E0%A6%A6%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%AF-%E0%A6%87%E0%A6%A8%E0%A6%BF%E0%A6%82%E0%A6%B8%E0%A7%87-%E0%A6%9C%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0",
-          "title": "হৃদয়ের অবিশ্বাস্য ইনিংসে জোহানেসবার্গে বাংলাদেশের রেকর্ড গড়া দিন",
-          "snippet": "হৃদয়ের অবিশ্বাস্য ইনিংসে জোহানেসবার্গে বাংলাদেশের রেকর্ড গড়া দিন"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/dhaka/981169/%E0%A6%8F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A7%A9-%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%93%E0%A6%B8%E0%A6%BF-%E0%A6%AC%E0%A6%A6%E0%A6%B2%E0%A6%BF",
-          "title": "এবার গোপালগঞ্জের ৩ থানার ওসি বদলি",
-          "snippet": "এবার গোপালগঞ্জের ৩ থানার ওসি বদলি"
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/vxzhs6jq8q",
+          "title": "শেখ হাসিনার বিষয়ে মন্ত্রীদের বক্তব্যে মিল পাচ্ছেন না রুমিন ফারহানা",
+          "snippet": "শেখ হাসিনার বিষয়ে মন্ত্রীদের বক্তব্যে মিল পাচ্ছেন না রুমিন ফারহানা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জোহানেসবার্গে তাওহিদ হৃদয় ও লিটন দাসের ব্যাটে বাংলাদেশের রেকর্ড গড়া দিন",
-        "title_en": "Towhid Hridoy and Litton Das lead Bangladesh in record-breaking day in Johannesburg",
-        "summary_bn": "জোহানেসবার্গ টেস্টের প্রথম দিনে তাওহিদ হৃদয়ের সেঞ্চুরি এবং লিটন কুমার দাসের অপরাজিত ইনিংসে এগিয়ে রয়েছে বাংলাদেশ।",
-        "summary_en": "Bangladesh leads on the first day of the Johannesburg Test with a century from Towhid Hridoy and an unbeaten innings from Litton Das.",
+        "title_bn": "শেখ হাসিনার বিষয়ে মন্ত্রীদের বক্তব্যে মিল পাচ্ছেন না রুমিন ফারহানা",
+        "title_en": "Rumin Farhana finds discrepancies in ministers statements on Sheikh Hasina",
+        "summary_bn": "স্বতন্ত্র সংসদ সদস্য রুমিন ফারহানা জাতীয় সংসদে বলেছেন, ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনার দেশে ফেরার বিষয়ে সরকারের মন্ত্রী, প্রতিমন্ত্রী ও উপদেষ্টারা ভিন্ন ভিন্ন কথা বলছেন।",
+        "summary_en": "Independent member of parliament Rumin Farhana told the national parliament that government ministers, state ministers, and advisers are making conflicting statements about ousted prime minister Sheikh Hasina returning to the country.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-15T18:27:53+00:00",
-        "lead_bn": "জোহানেসবার্গ টেস্টের প্রথম দিনে তাওহিদ হৃদয়ের সেঞ্চুরি এবং লিটন কুমার দাসের অপরাজিত ইনিংসে এগিয়ে রয়েছে বাংলাদেশ।",
-        "lead_en": "Bangladesh leads on the first day of the Johannesburg Test with a century from Towhid Hridoy and an unbeaten innings from Litton Das.",
+        "published_at": "2026-11-15T16:29:46+00:00",
+        "lead_bn": "স্বতন্ত্র সংসদ সদস্য রুমিন ফারহানা জাতীয় সংসদে বলেছেন, ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনার দেশে ফেরার বিষয়ে সরকারের মন্ত্রী, প্রতিমন্ত্রী ও উপদেষ্টারা ভিন্ন ভিন্ন কথা বলছেন।",
+        "lead_en": "Independent member of parliament Rumin Farhana told the national parliament that government ministers, state ministers, and advisers are making conflicting statements about ousted prime minister Sheikh Hasina returning to the country.",
         "bullets_bn": [
-          "দিনের শুরুটা হতাশার ছিল এবং চতুর্থ উইকেটে ভালো জুটি হলেও রাবাদার জোড়া আঘাতে বাংলাদেশ ব্যাটফুটে পড়েছিল।",
-          "বিপযয়ের সময়ে ষষ্ঠ উইকেটে ব্যাটিংয়ে নেমে হৃদয় ও লিটন ২০৬ রানের জুটি গড়েন।",
-          "তাওহিদ হৃদয় ব্যক্তিগত ১৩৭ রানে আউট হলেও লিটন কুমার দাস ৯২ রানে অপরাজিত রয়েছেন।"
+          "রুমিন ফারহানা বলেন, তথ্য ও সম্প্রচারবিষয়ক উপদেষ্টা জাহেদ উর রহমান ৩ নভেম্বর বলেছেন সরকার হাসিনার আসা ঠেকাতে চায় না।",
+          "পররাষ্ট্র প্রতিমন্ত্রী হুমায়ুন কবির ৯ নভেম্বর বলেছেন হাসিনাকে কোনো পাসপোর্ট দেওয়া হবে না এবং এনআইডি দেওয়ার কোনো পরিকল্পনা সরকারের নেই।",
+          "স্বরাষ্ট্রমন্ত্রী ৯ নভেম্বর জানান পাসপোর্ট আবেদনের সত্যতা যাচাই করা হয়নি এবং আইনমন্ত্রী মো. আসাদুজ্জামান ১৪ নভেম্বর বলেন হাসিনাকে ফেরানোর আইনি প্রক্রিয়া সম্পন্ন হয়েছে।"
         ],
         "bullets_en": [
-          "The day started with frustration and Bangladesh fell on the back foot after Rabada took two quick wickets following a good fourth-wicket partnership.",
-          "Hridoy and Litton built a 206-run partnership after batting at the sixth wicket during the disaster.",
-          "Towhid Hridoy was dismissed for a personal 137 while Litton Kumar Das remained unbeaten on 92."
+          "Rumin Farhana said Information and Broadcasting Adviser Zahed Ur Rahman stated on 3 November that the government does not want to prevent Hasina from coming.",
+          "State Minister for Foreign Affairs Humayun Kabir said on 9 November that Hasina will not be given any passport and the government has no plan to issue an NID.",
+          "The Home Minister stated on 9 November that the truth of the passport application has not been verified, and Law Minister Md Asaduzzaman said on 14 November that the legal process to bring Hasina back is completed."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "জোহানেসবার্গে হৃদয়ের ১৩৭ রানের ইনিংসে রেকর্ড গড়ল বাংলাদেশ।",
-        "question_bn": null
+        "details_bn": "জাতীয় সংসদে ৭১ বিধির আলোচনায় রুমিন ফারহানা মন্তব্য করেন যে শেখ হাসিনা দেশে উপস্থিত না থেকেও বিভিন্ন মাধ্যমে নিজের উপস্থিতি জানাচ্ছেন এবং গোপালগঞ্জের সাম্প্রতিক ঘটনা এর সর্বশেষ উদাহরণ। তিনি জানান, মন্ত্রীদের বক্তব্যের মধ্যে কোনো মিল নেই। নির্ধারিত দুই মিনিট সময় শেষে মাইক বন্ধ হয়ে যাওয়ায় তিনি বক্তব্য শেষ করতে পারেননি।",
+        "details_en": "During a discussion under rule 71 in the national parliament, Rumin Farhana remarked that former prime minister Sheikh Hasina is making her presence known through various mediums even without being in the country, with recent events in Gopalganj being the latest example. She stated that there is no consistency among the statements of ministers. Her microphone was turned off after her allotted two-minute time expired, preventing her from finishing her speech.",
+        "hook_bn": "শেখ হাসিনার ফেরা নিয়ে সরকারের মন্ত্রীদের বক্তব্যে নানা অসঙ্গতি দেখা দিয়েছে।",
+        "question_bn": "সরকার পরিবর্তনের পর মন্ত্রীদের এমন ভিন্ন বক্তব্যে আপনার কী মনে হয়?"
       },
-      "desk_importance": 7.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-15T21:02:03.159054+00:00"
-      }
-    },
-    {
-      "story_id": "cdd92ce0-8162-5d1e-b003-d4b7cc5a97a4",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFuZ2xhZGVzaCUyMHBlb3BsZSUyMHdpbGwlMjBkZWNpZGUlMjBkaXBsb21hY3l8ZW58MXwwfHx8MTc5NDc3NjUwMHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-15T20:49:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 4.1747,
-      "sources": [
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821206/%E0%A6%B6%E0%A7%87%E0%A6%96-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A7%9F%E0%A7%87-%E0%A6%B8%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A6%97%E0%A6%A3%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%A4%E0%A7%87",
-          "title": "শেখ হাসিনার বিষয়ে সিদ্ধান্ত বাংলাদেশের জনগণকে নিতে হবে: যুক্তরাষ্ট্র",
-          "snippet": "শেখ হাসিনার বিষয়ে সিদ্ধান্ত বাংলাদেশের জনগণকে নিতে হবে: যুক্তরাষ্ট্র"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "শেখ হাসিনার পাসপোর্ট ও এনআইডি আবেদন নিয়ে সিদ্ধান্ত নেবে দেশের জনগণ",
-        "title_en": "Bangladesh people will decide on Sheikh Hasina passport and NID application",
-        "summary_bn": "যুক্তরাষ্ট্র জানিয়েছে, মানবতাবিরোধী অপরাধে ফাঁসির রায় মাথায় নিয়ে ভারতে অবস্থানরত ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনার পাসপোর্ট ও জাতীয় পরিচয়পত্রের আবেদনের বিষয়ে বাংলাদেশের জনগণকেই সিদ্ধান্ত নিতে হবে।",
-        "summary_en": "The United States stated that the people of Bangladesh must decide on the passport and national identity card applications of ousted Prime Minister Sheikh Hasina, who is staying in India with a death sentence for crimes against humanity hanging over her.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-15T20:49:00+00:00",
-        "lead_bn": "যুক্তরাষ্ট্র জানিয়েছে, মানবতাবিরোধী অপরাধে ফাঁসির রায় মাথায় নিয়ে ভারতে অবস্থানরত ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনার পাসপোর্ট ও জাতীয় পরিচয়পত্রের আবেদনের বিষয়ে বাংলাদেশের জনগণকেই সিদ্ধান্ত নিতে হবে।",
-        "lead_en": "The United States stated that the people of Bangladesh must decide on the passport and national identity card applications of ousted Prime Minister Sheikh Hasina, who is staying in India with a death sentence for crimes against humanity hanging over her.",
-        "bullets_bn": [
-          "মার্কিন পররাষ্ট্র মন্ত্রণালয়ের একজন মুখপাত্র এই অভিমত ব্যক্ত করেছেন।",
-          "শেখ হাসিনা বর্তমানে মানবতাবিরোধী অপরাধে ফাঁসির রায় মাথায় নিয়ে ভারতে অবস্থান করছেন।",
-          "গত বছরের নভেম্বরে তিনি পাসপোর্ট ও জাতীয় পরিচয়পত্রের আবেদন জানিয়েছেন।"
-        ],
-        "bullets_en": [
-          "A spokesperson for the US State Department expressed this view.",
-          "Sheikh Hasina is currently staying in India with a death sentence for crimes against humanity.",
-          "She applied for a passport and national identity card in November of last year."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "শেখ হাসিনার পাসপোর্ট আবেদন নিয়ে সিদ্ধান্ত নেবে বাংলাদেশের জনগণ।",
-        "question_bn": "শেখ হাসিনার পাসপোর্ট ও জাতীয় পরিচয়পত্রের আবেদন নিয়ে জনগণের সিদ্ধান্ত নেওয়ার বিষয়ে আপনার মতামত কী?"
-      },
-      "desk_importance": 6.0,
+      "desk_importance": 5.0,
       "outlet_count": 1,
       "trending": true,
-      "social_appeal": 7.0,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-15T21:02:03.159054+00:00"
+        "checked_at": "2026-11-15T22:02:36.817331+00:00"
       }
     },
     {
-      "story_id": "8a8ac870-f33e-5c03-a663-5dca2e662e38",
-      "primary_category": "governance_law",
+      "story_id": "3506dd89-5fd5-53a8-bdf9-40e9901d527d",
+      "primary_category": "tech_innovation",
       "interest_categories": [
-        "governance_law",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1715949311474-cad9e2904c22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YXJteSUyMG9mZmljZXIlMjBjb3VwbGUlMjBkaXNtaXNzZWQlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTQ3NzY1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-15T18:48:25+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.4367,
-      "sources": [
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821200/%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%80-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B0%E0%A6%96%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4-%E0%A6%B9%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%A6%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%A4%E0%A6%BF",
-          "title": "সেনাবাহিনী থেকে বরখাস্ত হলেন কর্মকর্তা দম্পতি",
-          "snippet": "সেনাবাহিনী থেকে বরখাস্ত হলেন কর্মকর্তা দম্পতি"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1179891",
-          "title": "সেনাবাহিনী থেকে বরখাস্ত হলেন কর্মকর্তা দম্পতি",
-          "snippet": "সেনাবাহিনী থেকে বরখাস্ত হলেন কর্মকর্তা দম্পতি"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সেনাবাহিনী থেকে বরখাস্ত কর্মকর্তা দম্পতি",
-        "title_en": "Army officer couple dismissed from service",
-        "summary_bn": "ব্রিগেডিয়ার জেনারেল এস এম জাকারিয়া হোসেন ও তার স্ত্রী লেফটেন্যান্ট কর্নেল ফাতিমা জোহরা খানমকে সেনাবাহিনী থেকে বরখাস্ত করা হয়েছে।",
-        "summary_en": "Brigadier General S M Zakaria Hossain and his wife Lieutenant Colonel Fatema Zohra Khanom have been dismissed from the army.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-15T18:48:25+00:00",
-        "lead_bn": "ব্রিগেডিয়ার জেনারেল এস এম জাকারিয়া হোসেন ও তার স্ত্রী লেফটেন্যান্ট কর্নেল ফাতিমা জোহরা খানমকে সেনাবাহিনী থেকে বরখাস্ত করা হয়েছে।",
-        "lead_en": "Brigadier General S M Zakaria Hossain and his wife Lieutenant Colonel Fatema Zohra Khanom have been dismissed from the army.",
-        "bullets_bn": [
-          "সেনা সদরের মিলিটারি সেক্রেটারির শাখা থেকে গত ১২ নভেম্বর বরখাস্তের বিষয়ে পৃথক দুটি আদেশ জারি করা হয়।",
-          "সেনা আইনের ১৬ ধারার আওতায় তাদের বরখাস্তের আদেশ দেওয়া হয়েছে।",
-          "বাংলাদেশ সেনাবাহিনী বরখাস্তের এই সিদ্ধান্ত নিয়েছে।"
-        ],
-        "bullets_en": [
-          "Separate orders regarding their dismissal were issued on November 12 from the Military Secretary branch of the Army Headquarters.",
-          "The dismissal orders were issued under section 16 of the Army Act.",
-          "The Bangladesh Army took this decision of dismissal."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "গত ১২ নভেম্বর সেনা সদরের মিলিটারি সেক্রেটারির শাখা থেকে জারি করা পৃথক দুটি আদেশে এই কর্মকর্তা দম্পতিকে বরখাস্তের সিদ্ধান্ত জানানো হয়। সেনা আইনের ১৬ ধারার আওতায় এই বরখাস্তের আদেশ দেওয়া হয়েছে।",
-        "details_en": "The decision to dismiss the officer couple was announced in two separate orders issued on November 12 by the Military Secretary branch of the Army Headquarters. The dismissal orders were issued under section 16 of the Army Act.",
-        "hook_bn": "সেনাবাহিনী থেকে বরখাস্ত হলেন কর্মকর্তা দম্পতি এস এম জাকারিয়া ও ফাতিমা জোহরা।",
-        "question_bn": "সেনাবাহিনীর এ ধরনের শৃঙ্খলামূলক ব্যবস্থা নিয়ে আপনার মতামত কী?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-15T21:02:03.159054+00:00"
-      }
-    },
-    {
-      "story_id": "41f30695-0812-59ae-b2e1-78cd2baaf33f",
-      "primary_category": "governance_law",
-      "interest_categories": [
+        "tech_innovation",
+        "economy_business",
+        "world_diplomacy",
         "governance_law"
       ],
-      "region": "national",
+      "region": "international",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Megaspeed",
+        "#AliceHuang",
+        "#Nvidia",
+        "#JensenHuang"
       ],
-      "image_url": "https://images.unsplash.com/photo-1693585172757-b9e057feb878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFybGlhbWVudCUyMGxhdyUyMGNvdXJ0JTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk0Nzc2NTExfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://th-i.thgim.com/public/incoming/7ckju2/article71704630.ece/alternates/LANDSCAPE_1200/2026-11-15T100429Z_2002936799_RC2TKOADN7KK_RTRMADP_3_NVIDIA-CEO-ALICE-HUANG-MEGASPEED.JPG",
       "image_caption": null,
-      "published_at": "2026-11-15T18:41:49+00:00",
+      "published_at": "2026-11-15T13:12:32+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.4149,
+      "importance_score": 5.5,
+      "rank_score": 1.8171,
       "sources": [
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821199/%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%A6%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%8F%E0%A6%9C%E0%A7%87%E0%A6%86%E0%A6%B0-%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A7%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0%E0%A6%B9%E0%A6%BE%E0%A6%89%E0%A6%9C%E0%A7%87-%E0%A6%95%E0%A6%95%E0%A6%9F%E0%A7%87%E0%A6%B2",
-          "title": "মোহাম্মদপুরে এজেআর কুরিয়ারের ওয়্যারহাউজে ককটেল বিস্ফোরণ",
-          "snippet": "মোহাম্মদপুরে এজেআর কুরিয়ারের ওয়্যারহাউজে ককটেল বিস্ফোরণ"
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/megaspeed-says-alice-huang-left-company-in-august-2025/article71704620.ece",
+          "title": "Megaspeed says Alice Huang left company in August 2025",
+          "snippet": "Megaspeed says Alice Huang left company in August 2025"
         },
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/si-moslem-plaintiff-case-involving-vandalism-police-vehicle/",
-          "title": "গোপালগঞ্জে পুলিশের গাড়ি ভাঙচুর মামলার বাদী এসআই মোসলেমকে কুপিয়ে জখম",
-          "snippet": "গোপালগঞ্জে পুলিশের গাড়ি ভাঙচুর মামলার বাদী এসআই মোসলেমকে কুপিয়ে জখম"
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+          "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+          "snippet": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says"
+        },
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia?traffic_source=rss",
+          "title": "US Treasury chief calls for outsider to lead embattled tech firm Nvidia",
+          "snippet": "US Treasury chief calls for outsider to lead embattled tech firm Nvidia"
+        },
+        {
+          "name": "MarketWatch Economy",
+          "url": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+          "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+          "snippet": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মোহাম্মদপুরে ওয়্যারহাউজে ককটেল বিস্ফোরণ এবং গোপালগঞ্জে এসআই মোসলেম কুপিয়ে জখম",
-        "title_en": "Cocktail blast at Mohammadpur warehouse and SI Moslem hacked in Gopalganj",
-        "summary_bn": "রাজধানীর মোহাম্মদপুরে এজেআর কুরিয়ার সার্ভিসের একটি ওয়্যারহাউজে ককটেল বিস্ফোরণ ঘটেছে এবং গোপালগঞ্জের টুঙ্গিপাড়ায় এসআই মোসলেম আলীকে কুপিয়ে জখম করা হয়েছে।",
-        "summary_en": "A cocktail exploded at an AJR Courier Service warehouse in Mohammadpur, and SI Moslem Ali was hacked in Tungipara, Gopalganj.",
+        "title_bn": "মেগাস্পিড জানিয়েছে অ্যালিস হুয়াং ২০২৫ সালের আগস্টে কোম্পানি ছেড়েছেন",
+        "title_en": "Megaspeed says Alice Huang left the company in August 2025",
+        "summary_bn": "মার্কিন জাতীয় নিরাপত্তার উদ্বেগের মুখে সিঙ্গাপুরভিত্তিক প্রতিষ্ঠান মেগাস্পিড জানিয়েছে যে অ্যালিস হুয়াং ২০২৫ সালের ৩০ আগস্ট আনুষ্ঠানিকভাবে কোম্পানি ছেড়েছেন।",
+        "summary_en": "Amid U.S. national security concerns, Singapore-based company Megaspeed stated that Alice Huang officially left the company on August 30, 2025.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "tech_innovation",
+          "economy_business",
+          "world_diplomacy",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-15T18:41:49+00:00",
-        "lead_bn": "রাজধানীর মোহাম্মদপুরে এজেআর কুরিয়ার সার্ভিসের একটি ওয়্যারহাউজে ককটেল বিস্ফোরণ ঘটেছে এবং গোপালগঞ্জের টুঙ্গিপাড়ায় এসআই মোসলেম আলীকে কুপিয়ে জখম করা হয়েছে।",
-        "lead_en": "A cocktail exploded at an AJR Courier Service warehouse in Mohammadpur, and SI Moslem Ali was hacked in Tungipara, Gopalganj.",
+        "published_at": "2026-11-15T13:12:32+00:00",
+        "lead_bn": "মার্কিন জাতীয় নিরাপত্তার উদ্বেগের মুখে সিঙ্গাপুরভিত্তিক প্রতিষ্ঠান মেগাস্পিড জানিয়েছে যে অ্যালিস হুয়াং ২০২৫ সালের ৩০ আগস্ট আনুষ্ঠানিকভাবে কোম্পানি ছেড়েছেন।",
+        "lead_en": "Amid U.S. national security concerns, Singapore-based company Megaspeed stated that Alice Huang officially left the company on August 30, 2025.",
         "bullets_bn": [
-          "রোববার ১৫ নভেম্বর রাত সাড়ে ৯টার দিকে একদল দুর্বৃত্ত মোহাম্মদপুরে ওয়্যারহাউজে হামলা চালিয়ে বিস্ফোরণ ঘটায়।",
-          "টুঙ্গিপাড়া থানার ভারপ্রাপ্ত কর্মকর্তা মো. আইয়ুব আলী জানান, আওয়ামী লীগ ও সহযোগী সংগঠনের নেতা-কর্মীরা মিছিল বের করে।",
-          "গোপালগঞ্জে পুলিশের গাড়ি ভাঙচুর ও অগ্নিসংযোগ মামলার বাদী উপ-পরিদর্শক মোসলেম আলীকে কুপিয়ে জখম করা হয়।"
+          "মেগাস্পিড জানিয়েছে যে অ্যালিস হুয়াংয়ের বর্তমানে প্রতিষ্ঠানটিতে কোনো ভূমিকা নেই।",
+          "প্রতিষ্ঠানটি জানিয়েছে যে তারা অ্যালিস হুয়াংয়ের ব্যক্তিগত ও গোপনীয় বিষয়ে কোনো মন্তব্য করে না।",
+          "মেগাস্পিড জানিয়েছে যে তারা পুঙ্খানুপুঙ্খ অভ্যন্তরীণ তদন্ত পরিচালনার জন্য বাহ্যিক আইনি পরামর্শক নিয়োগ করেছে।"
         ],
         "bullets_en": [
-          "A group of miscreants attacked and triggered a blast at the Mohammadpur warehouse on Sunday 15 November at around 9:30 pm.",
-          "Tungipara Police Station Officer-in-Charge Md. Ayub Ali stated that leaders and activists of Awami League and associate organizations brought out a procession.",
-          "Sub-inspector Moslem Ali, the plaintiff in a police vehicle vandalism and arson case, was hacked and injured in Gopalganj."
+          "Megaspeed stated that Alice Huang currently has no role at the company.",
+          "The company added that it does not comment on Ms. Huang’s personal and private matters.",
+          "Megaspeed said it had retained external legal counsel to conduct a thorough internal investigation."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "রোববার ১৫ নভেম্বর বিকেলে গোপালগঞ্জের টুঙ্গিপাড়ায় দেশীয় অস্ত্র ও লাঠিসোটা নিয়ে উপজেলা সদরে মিছিল বের করে কার্যক্রম নিষিদ্ধ আওয়ামী লীগ ও সহযোগী সংগঠনের নেতা-কর্মীরা। এসময় পুলিশের গাড়ি ভাঙচুর ও অগ্নিসংযোগ মামলার বাদী উপ-পরিদর্শক মোসলেম আলীকে কুপিয়ে জখম করা হয়। এদিকে একই দিন রাত দেড়টা থেকে পৌনে ২টার মধ্যে মোহাম্মদপুরেও আরেকটি ঘটনা ঘটে। তবে মোহাম্মদপুরে কারা এবং কী উদ্দেশ্যে হামলা চালিয়েছে তা এখনো নিশ্চিত হওয়া যায়নি।",
-        "details_en": "On Sunday afternoon 15 November, leaders and activists of the banned Awami League and associate organizations brought out a procession with domestic weapons and sticks in Tungipara upazila sadar of Gopalganj. At that time, sub-inspector Moslem Ali, the plaintiff in a police vehicle vandalism and arson case, was hacked and injured. Meanwhile, another incident took place in Mohammadpur between 1:30 am and 1:45 am on the same day, though who carried out the attack and for what purpose in Mohammadpur is still not certain.",
-        "hook_bn": "মোহাম্মদপুরে ওয়্যারহাউজে ককটেল বিস্ফোরণ এবং গোপালগঞ্জে পুলিশ কর্মকর্তা কুপিয়ে জখম।",
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-15T21:02:03.159054+00:00"
-      }
-    },
-    {
-      "story_id": "6cf8f94b-6ca3-5741-8bac-ccbb7e676aaf",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "climate_environment"
-      ],
-      "region": "international",
-      "tags": [
-        "#Ebola",
-        "#AfricaCDC",
-        "#DRCongo",
-        "#JeanKaseya"
-      ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af9fc48bf805-1794767944.jpg?resize=1920%2C1440",
-      "image_caption": null,
-      "published_at": "2026-11-15T20:07:06+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.3726,
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control?traffic_source=rss",
-          "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
-          "snippet": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "গণতান্ত্রিক কঙ্গো প্রজাতন্ত্রে ইবোলা মহামারি এখনও নিয়ন্ত্রণে আসেনি: আফ্রিকা সিডিসি",
-        "title_en": "Ebola outbreak in DR Congo still not under control, says Africa CDC",
-        "summary_bn": "আফ্রিকার শীর্ষ জনস্বাস্থ্য সংস্থা জানিয়েছে, গণতান্ত্রিক কঙ্গো প্রজাতন্ত্রে ইবোলা প্রাদুর্ভাব ঘোষণার ছয় মাস পরও এখনও নিয়ন্ত্রণে আসেনি।",
-        "summary_en": "Africa's top public health agency says the Ebola outbreak in the Democratic Republic of the Congo is still not under control.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "climate_environment"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-15T20:07:06+00:00",
-        "lead_bn": "আফ্রিকার শীর্ষ জনস্বাস্থ্য সংস্থা জানিয়েছে, গণতান্ত্রিক কঙ্গো প্রজাতন্ত্রে ইবোলা প্রাদুর্ভাব ঘোষণার ছয় মাস পরও এখনও নিয়ন্ত্রণে আসেনি।",
-        "lead_en": "Africa's top public health agency says the Ebola outbreak in the Democratic Republic of the Congo is still not under control.",
-        "bullets_bn": [
-          "আফ্রিকা সিডিসির মহাপরিচালক জিন কাসেয়া রয়টার্সকে জানান, এই প্রাদুর্ভাব এখন থামানো না হলে এটি বিশ্বের সবচেয়ে খারাপ ইবোলা মহামারীতে রূপ নেবে।",
-          "সরকারের তথ্য অনুযায়ী, প্রাদুর্ভাব ঘোষণার পর থেকে ১১ হাজার ২০০ জনের বেশি আক্রান্ত এবং ৫ হাজার ৫০০ জনের বেশি মৃত্যু হয়েছে।",
-          "পূর্ব, মধ্য ও পশ্চিম আফ্রিকায় ইবোলা রোগী শনাক্ত হওয়ায় এটি মহাদেশটিতে সবচেয়ে বিস্তৃত ভৌগোলিক সীমার প্রাদুর্ভাব হয়ে উঠেছে।"
-        ],
-        "bullets_en": [
-          "Jean Kaseya of Africa CDC told Reuters that failing to stop this outbreak now could result in the world's worst Ebola outbreak.",
-          "Government data shows that more than 11,200 cases and 5,500 deaths have been recorded since the outbreak was announced.",
-          "Cases reported in East, Central and West Africa give it the widest geographic spread of any Ebola outbreak on the continent."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "মে মাসের ১৫ তারিখে প্রাদুর্ভাব ঘোষণা হওয়ার পর থেকে রেকর্ডকৃত নতুন মামলার ৮০ শতাংশের বেশি কন্টাক্ট তালিকার বাইরে থেকে আসছে এবং ৬৫ শতাংশের বেশি মৃত্যু স্বাস্থ্যকেন্দ্রের বাইরে কমিউনিটিতে ঘটছে। বিরল বুন্দিবুগিও ভাইরাসের কারণে এই প্রাদুর্ভাব ঘটেছে, যা রক্তক্ষরা জ্বর ঘটাতে পারে। এটি ইতিহাসের দ্বিতীয় বৃহত্তম ও দ্বিতীয় প্রাণঘাতী ইবোলা প্রাদুর্ভাব, যা ২০১৪-২০১৬ সালের পশ্চিম আফ্রিকান মহামারীর পরেই অবস্থান করছে। ওই মহামারীতে ২৮ হাজার ৬০০ জনের বেশি মানুষ আক্রান্ত হয়েছিল এবং ১১ হাজারের বেশি মারা গিয়েছিল।",
-        "details_en": "Since the outbreak was announced on May 15, more than 80 percent of new cases emerge outside contact lists and over 65 percent of deaths have occurred in the community outside health centres. The outbreak is caused by the rare Bundibugyo strain of the Ebola virus. It is the second-largest and second-deadliest Ebola outbreak on record, behind only the 2014-2016 West African outbreak that infected more than 28,600 people and killed more than 11,000.",
-        "hook_bn": "ইবোলা প্রাদুর্ভাবে কঙ্গোয় সাড়ে পাঁচ হাজারের বেশি মানুষের মৃত্যু হয়েছে।",
-        "question_bn": null
+        "details_bn": "চিনাবাসী ব্যবসায়ী অ্যালিস হুয়াংয়ের সঙ্গে সাবেক এনভিডিয়া প্রধান নির্বাহী জেনসেন হুয়াংয়ের সম্পর্ক মার্কিন জাতীয় নিরাপত্তার উদ্বেগ তৈরি করেছে। এনভিডিয়া কেলেঙ্কারির ঘটনায় প্রশ্ন উঠেছে যে মার্কিন নিষেধাজ্ঞা সত্ত্বেও উন্নত এআই চিপ চীনে পৌঁছেছে কি না। এছাড়া মার্কিন ট্রেজারি প্রধান এনভিডিয়া পরিচালনার জন্য একজন বাইরের ব্যক্তিকে দায়িত্ব দেওয়ার আহ্বান জানিয়েছেন এবং কোম্পানিটির মার্কিন রফতানি নিয়ন্ত্রণের সঙ্গে সঙ্গতি রক্ষা করার বিষয়টি দেখানোর জন্য বোর্ডের প্রতি ১০ দিন সময়সীমা বেঁধে দিয়েছেন।",
+        "details_en": "Chinese businesswoman Alice Huang's ties to former Nvidia CEO Jensen Huang raised U.S. national security concerns. The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions. Additionally, the US Treasury chief called for an outsider to lead the embattled tech firm Nvidia and gave the board 10 days to show compliance with US export controls.",
+        "hook_bn": "মেগাস্পিড জানিয়েছে অ্যালিস হুয়াং ২০২৫ সালে কোম্পানি ছেড়েছেন",
+        "question_bn": "এআই শিল্পে এই ধরনের করপোরেট ও নিরাপত্তা সংকটের প্রভাব নিয়ে আপনার মতামত কী?"
       },
       "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 4.0,
+      "outlet_count": 5,
+      "trending": true,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-15T21:02:03.159054+00:00"
-      }
-    },
-    {
-      "story_id": "bb4df3bc-3c86-529b-ac80-1499095de713",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "society_education"
-      ],
-      "region": "international",
-      "tags": [
-        "#CanaryIslands",
-        "#Spain",
-        "#Migration"
-      ],
-      "image_url": "https://static.dw.com/image/79952856_6.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-15T18:26:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.1525,
-      "sources": [
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/nearly-1-600-migrants-arrive-on-spain-s-canary-islands-in-one-day/a-79952941?maca=en-rss-en-all-1573-rdf",
-          "title": "Nearly 1,600 migrants arrive on Spain's Canary Islands in one day",
-          "snippet": "Nearly 1,600 migrants arrive on Spain's Canary Islands in one day"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "স্পেনের ক্যানারি দ্বীপপুঞ্জে একদিনে প্রায় ১,৬০০ অভিবাসনপ্রত্যাশীর আগমন",
-        "title_en": "Nearly 1,600 migrants arrive on Spain's Canary Islands in one day",
-        "summary_bn": "স্পেনের ক্যানারি দ্বীপপুঞ্জে একদিনে প্রায় ১,৬০০ অভিবাসনপ্রত্যাশী পৌঁছেছেন বলে জানিয়েছে দেশটির সংবাদ সংস্থা ইএফই।",
-        "summary_en": "Nearly 1,600 migrants arrived in Spain's Canary Islands in one day, according to the Spanish news agency EFE.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-15T18:26:00+00:00",
-        "lead_bn": "স্পেনের ক্যানারি দ্বীপপুঞ্জে একদিনে প্রায় ১,৬০০ অভিবাসনপ্রত্যাশী পৌঁছেছেন বলে জানিয়েছে দেশটির সংবাদ সংস্থা ইএফই।",
-        "lead_en": "Nearly 1,600 migrants arrived in Spain's Canary Islands in one day, according to the Spanish news agency EFE.",
-        "bullets_bn": [
-          "তীরে পৌঁছানো ১,৫৮০ জন অভিবাসনপ্রত্যাশীর অধিকাংশই এল হিয়েরো দ্বীপে অবতরণ করেছেন।",
-          "সেনেগাল, গাম্বিয়া এবং গিনির মতো পশ্চিম আফ্রিকান দেশগুলো থেকে এসব মানুষ এসেছেন।",
-          "স্প্যানিশ ভূখণ্ড সেউটা জুলাই মাসের শেষের দিকে একটি অভিবাসন সংকটের মুখোমুখি হয়েছিল।"
-        ],
-        "bullets_en": [
-          "Most of the 1,580 migrants who came ashore on Saturday landed on the island of El Hierro.",
-          "Most of the migrants came from West African countries such as Senegal, Gambia, and Guinea.",
-          "The latest arrivals follow a migration crisis faced by another Spanish territory, Ceuta, in late July."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "স্পেনের ক্যানারি দ্বীপপুঞ্জে একদিনে প্রায় ১,৬০০ অভিবাসনপ্রত্যাশীর আগমন।",
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 4.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-15T21:02:03.159054+00:00"
+        "checked_at": "2026-11-15T22:02:36.817331+00:00"
       }
     }
   ]
