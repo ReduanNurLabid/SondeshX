@@ -1,213 +1,159 @@
 {
-  "updated_at": "2026-11-14T23:00:40.632499",
-  "total_stories": 3,
+  "updated_at": "2026-11-15T00:00:45.616245",
+  "total_stories": 2,
   "stories": [
     {
-      "story_id": "64164ec8-05ac-5456-b45a-1eca461e6796",
-      "primary_category": "economy_business",
+      "story_id": "c3640e73-665f-5f52-828c-13bce5d55556",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "economy_business"
+        "governance_law",
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#BGMEA",
-        "#BKMEA",
-        "#MahmudHasanKhan"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/181552/image-900x600-42.jpg",
+      "image_url": "https://images.unsplash.com/photo-1532929900024-6413d2ed39c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8d2VhcG9uJTIwY2FycmllciUyMGZsZWVzJTIwaW5kaWElMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTQ3MDA4NjN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-14T23:00:48.640774+00:00",
+      "published_at": "2026-11-14T21:38:08+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 8.5,
-      "rank_score": 7.2244,
+      "importance_score": 5.25,
+      "rank_score": 2.402,
       "sources": [
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/garment-units-unable-to-run-sunday-production-face-indefinite-closure",
-          "title": "No work, no pay: RMG factories brace for indefinite shutdown",
-          "snippet": "No work, no pay: RMG factories brace for indefinite shutdown"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "শ্রম আইন অনুযায়ী অনির্দিষ্টকালের জন্য বন্ধ হতে পারে তৈরি পোশাক কারখানা।",
-        "title_en": "RMG factories may face indefinite shutdown under Labour Law.",
-        "summary_bn": "উৎপাদন পরিচালনা করতে ব্যর্থ পোশাক কারখানাগুলো শ্রম আইনের ১৩ (১) ধারা অনুযায়ী অনির্দিষ্টকালের জন্য বন্ধ থাকবে।",
-        "summary_en": "Garment factories failing to run production on Sunday will shut down units for an indefinite period under Labour Law provision 13 (1).",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-14T23:00:48.640774+00:00",
-        "lead_bn": "উৎপাদন পরিচালনা করতে ব্যর্থ পোশাক কারখানাগুলো শ্রম আইনের ১৩ (১) ধারা অনুযায়ী অনির্দিষ্টকালের জন্য বন্ধ থাকবে।",
-        "lead_en": "Garment factories failing to run production on Sunday will shut down units for an indefinite period under Labour Law provision 13 (1).",
-        "bullets_bn": [
-          "বিজিএমইএ ও বিকেএমইএ-র যৌথ সাধারণ সভা শেষে বিজিএমইএ সভাপতি মাহমুদ হাসান খান এই ঘোষণা দেন।",
-          "মাহমুদ হাসান খান বলেন, বাণিজ্য সংগঠন হিসেবে বিজিএমইএ বা বিকেএমইএ এই সিদ্ধান্ত নিতে পারে না, সংশ্লিষ্ট কারখানাগুলোর তা করার আইনি অনুমতি রয়েছে।",
-          "গাজীপুরে ঢাকা-টাঙ্গাইল মহাসড়ক অবরোধ করেছেন পোশাক শ্রমিকেরা।"
-        ],
-        "bullets_en": [
-          "BGMEA President Mahmud Hasan Khan made the announcement after a joint general meeting of BGMEA and BKMEA members.",
-          "He stated that trade bodies cannot take such a decision, but respective factories are lawfully permitted to do so.",
-          "Garment workers blocked the Dhaka-Tangail highway in Gazipur, halting traffic."
-        ],
-        "impact_bn": "পোশাক শ্রমিকদের ঢাকা-টাঙ্গাইল মহাসড়ক অবরোধের ফলে যান চলাচল বন্ধ হয়ে যায়।",
-        "impact_en": "Garment workers blocked the Dhaka-Tangail highway in Gazipur, halting traffic.",
-        "details_bn": "১৪৭টি কারখানা চালু রাখা যায়নি এবং ১৩ (১) ধারা অনুযায়ী ৫৫টি ইউনিট বাধ্য হয়ে বন্ধ করা হয়েছে। বিজিএমইএ সভাপতি জানিয়েছেন, তারা মজুরি বোর্ডের বৈঠকে যোগ দেবেন এবং তাদের প্রস্তাব পেশ করবেন।",
-        "details_en": "Some 147 factories could not operate and some 55 units were forced to shut down in line with provision 13 (1). The BGMEA president said they would join the wage board meeting on Monday and place their proposal."
-      },
-      "desk_importance": 8.0,
-      "outlet_count": 1,
-      "trending": true,
-      "social_appeal": 9.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-14T23:01:07.173487+00:00"
-      }
-    },
-    {
-      "story_id": "b9712134-d8be-5a10-afe0-4d07b90e7427",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "tech_innovation"
-      ],
-      "region": "international",
-      "tags": [
-        "#US",
-        "#SeanDuffy",
-        "#FAA",
-        "#L3Harris"
-      ],
-      "image_url": "https://static.dw.com/image/79949366_6.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-14T20:33:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 3.6643,
-      "sources": [
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/us-duffy-says-incompetence-or-bad-tech-to-blame-for-flight-haltings/a-79949977?maca=en-rss-en-all-1573-rdf",
-          "title": "US: Duffy says 'incompetence' or bad tech to blame for flight haltings",
-          "snippet": "US: Duffy says 'incompetence' or bad tech to blame for flight haltings"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1179537",
+          "title": "ফেনী সীমান্তে ব্যাগ ফেলে ভারত পালালেন অস্ত্র বহনকারী, মিললো ২ পিস্তল",
+          "snippet": "ফেনী সীমান্তে ব্যাগ ফেলে ভারত পালালেন অস্ত্র বহনকারী, মিললো ২ পিস্তল"
         },
         {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/international/post-1220533/",
-          "title": "ফ্লাইট বিপর্যয়ে স্থবির যুক্তরাষ্ট্র, ভোগান্তিতে কয়েক হাজার যাত্রী",
-          "snippet": "ফ্লাইট বিপর্যয়ে স্থবির যুক্তরাষ্ট্র, ভোগান্তিতে কয়েক হাজার যাত্রী"
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/country/497937",
+          "title": "সীমান্তে ব্যাগ ফেলে ভারত পালালেন অস্ত্র বহনকারী, মিললো দুই পিস্তল",
+          "snippet": "সীমান্তে ব্যাগ ফেলে ভারত পালালেন অস্ত্র বহনকারী, মিললো দুই পিস্তল"
         }
       ],
       "daily_buzz": {
-        "title_bn": "যুক্তরাষ্ট্রে ফ্লাইট বিপর্যয়ের কারণ অনুসন্ধানে তদন্ত চলছে",
-        "title_en": "Investigations are ongoing into the US flight haltings",
-        "summary_bn": "যুক্তরাষ্ট্রে টেলিকমিউনিকেশন ব্যবস্থার বড় ধরনের বিভ্রাট ও ফ্লাইট বাতিলের ঘটনায় তদন্ত চলছে বলে জানিয়েছেন সংশ্লিষ্ট কর্মকর্তারা।",
-        "summary_en": "Officials stated that investigations are ongoing following a major telecommunication disruption and flight cancellations in the US.",
+        "title_bn": "ফেনী সীমান্তে ব্যাগ ফেলে ভারত পালিয়ে গেছেন অস্ত্র বহনকারী",
+        "title_en": "Weapon carrier flees to India leaving bag at Feni border",
+        "summary_bn": "ফেনীর ছাগলনাইয়া সীমান্তে বিজিবির অভিযানে দুটি বিদেশি পিস্তল, চার ম্যাগাজিন ও তিন রাউন্ড গুলি উদ্ধার করা হয়েছে।",
+        "summary_en": "Two foreign pistols, four magazines and three rounds of bullets were recovered in a BGB drive at Chhagalnaiya border in Feni.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "tech_innovation"
+          "governance_law",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-14T20:33:00+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রে টেলিকমিউনিকেশন ব্যবস্থার বড় ধরনের বিভ্রাট ও ফ্লাইট বাতিলের ঘটনায় তদন্ত চলছে বলে জানিয়েছেন সংশ্লিষ্ট কর্মকর্তারা।",
-        "lead_en": "Officials stated that investigations are ongoing following a major telecommunication disruption and flight cancellations in the US.",
+        "published_at": "2026-11-14T21:38:08+00:00",
+        "lead_bn": "ফেনীর ছাগলনাইয়া সীমান্তে বিজিবির অভিযানে দুটি বিদেশি পিস্তল, চার ম্যাগাজিন ও তিন রাউন্ড গুলি উদ্ধার করা হয়েছে।",
+        "lead_en": "Two foreign pistols, four magazines and three rounds of bullets were recovered in a BGB drive at Chhagalnaiya border in Feni.",
         "bullets_bn": [
-          "পরিবহন সচিব শোন ডাফি জানিয়েছেন, এ ঘটনায় কোনো অপরাধমূলক কর্মকাণ্ডের প্রমাণ পাওয়া যায়নি।",
-          "এফএএ প্রশাসক ব্রায়ান বেডফোর্ড জানিয়েছেন যে ও মোট ১৬,০০০ ফ্লাইট বিলম্বিত হয়েছে।",
-          "ফ্লাইট চলাচল স্বাভাবিক করতে এয়ারলাইনসগুলো হিমশিম খাচ্ছে এবং আন্তর্জাতিক ক্যারিয়ারগুলোও ফ্লাইট বাতিল করেছে।"
+          "উপজেলার মধুগ্রাম সীমান্ত এলাকায় এ অভিযান চালানো হয়।",
+          "অভিযানের সময় অস্ত্র বহনকারী ব্যাগ ফেলে ভারত পালিয়ে যান।",
+          "উদ্ধারকৃত অস্ত্রের মধ্যে রয়েছে দুটি বিদেশি পিস্তল।"
         ],
         "bullets_en": [
-          "Transportation Secretary Sean Duffy stated that no evidence of malfeasance had been found.",
-          "FAA Administrator Bryan Bedford said that a total of 16,000 flights had been delayed on Friday and Saturday.",
-          "Airlines are struggling to handle the flight backlog and international carriers were forced to cancel flights."
+          "The drive was conducted on Saturday evening in Madhugram border area of the upazila.",
+          "During the drive, the weapon carrier left the bag and fled to India.",
+          "The recovered weapons include two foreign pistols."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null
       },
-      "desk_importance": 6.0,
+      "desk_importance": 5.0,
       "outlet_count": 2,
-      "trending": true,
-      "social_appeal": 6.0,
+      "trending": false,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-14T23:01:07.173487+00:00"
+        "checked_at": "2026-11-15T00:01:08.105859+00:00"
       }
     },
     {
-      "story_id": "78f55637-298d-571e-af6d-24f8e1d7d0b7",
-      "primary_category": "world_diplomacy",
+      "story_id": "9c080561-0eb5-5693-a955-f9a5cd09a09e",
+      "primary_category": "tech_innovation",
       "interest_categories": [
-        "world_diplomacy"
+        "tech_innovation",
+        "sports_fitness"
       ],
       "region": "international",
       "tags": [
-        "#VolodymyrZelensky",
-        "#Nato",
-        "#Donbas",
-        "#US"
+        "#SpaceX",
+        "#Starship"
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+      "image_url": "https://i.guim.co.uk/img/media/8d43d90555e696b8b0c519ba0b4fd459453f0aab/304_0_3038_2430/master/3038.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9207fcd0e16c78d218d11a61000f996f",
       "image_caption": null,
-      "published_at": "2026-11-14T22:37:25+00:00",
+      "published_at": "2026-11-14T22:35:06+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5195,
+      "importance_score": 5.5,
+      "rank_score": 2.7849,
       "sources": [
         {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-          "snippet": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says"
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
+          "title": "SpaceX’s Starship returns to launch pad from orbit in victory for company",
+          "snippet": "SpaceX’s Starship returns to launch pad from orbit in victory for company"
         },
         {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
-          "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
-          "snippet": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine"
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/spacex-carries-out-first-ever-spaceship-capture/a-79950275?maca=en-rss-en-all-1573-rdf",
+          "title": "SpaceX carries out first-ever spaceship capture",
+          "snippet": "SpaceX carries out first-ever spaceship capture"
+        },
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+          "title": "SpaceX’s Starship returns from orbit and is captured by launch pad arms in a dramatic first",
+          "snippet": "SpaceX’s Starship returns from orbit and is captured by launch pad arms in a dramatic first"
+        },
+        {
+          "name": "MarketWatch Economy",
+          "url": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
+          "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
+          "snippet": "SpaceX successfully catches Starship rocket in huge milestone for the space industry"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ন্যাটো সদস্যপদের বিনিময়ে ডনবাস ত্যাগের প্রস্তাব তুলেছে যুক্তরাষ্ট্র",
-        "title_en": "US has floated Ukraine ceding Donbas for Nato membership",
-        "summary_bn": "যুক্তরাষ্ট্রের মধ্যস্থতাকারীরা ন্যাটো সদস্যপদের বিনিময়ে ইউক্রেনকে পূর্বের ডনবাস অঞ্চল থেকে তাদের অবশিষ্ট বাহিনী সরিয়ে নেওয়ার কথা বলেছেন বলে জানিয়েছেন প্রেসিডেন্ট ভলোদিমির জেলেনস্কি।",
-        "summary_en": "US negotiators have touted the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for Nato membership, President Volodymyr Zelensky has said.",
+        "title_bn": "স্পেসএক্সের স্টারশিপ রকেট সফলভাবে উৎক্ষেপণ প্যাডে ফিরে এসেছে",
+        "title_en": "SpaceX Starship rocket successfully returns to launch pad",
+        "summary_bn": "স্পেসএক্সের স্টারশিপ রকেট কক্ষপথ থেকে ফিরে টেক্সাসের উৎক্ষেপণ টাওয়ারের যান্ত্রিক বাহুর ধরায় অবতরণ করেছে।",
+        "summary_en": "SpaceX’s Starship rocket returned from orbit and descended into the mechanical arms of the Texas launch tower.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "tech_innovation",
+          "sports_fitness"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-14T22:37:25+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের মধ্যস্থতাকারীরা ন্যাটো সদস্যপদের বিনিময়ে ইউক্রেনকে পূর্বের ডনবাস অঞ্চল থেকে তাদের অবশিষ্ট বাহিনী সরিয়ে নেওয়ার কথা বলেছেন বলে জানিয়েছেন প্রেসিডেন্ট ভলোদিমির জেলেনস্কি।",
-        "lead_en": "US negotiators have touted the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for Nato membership, President Volodymyr Zelensky has said.",
+        "published_at": "2026-11-14T22:35:06+00:00",
+        "lead_bn": "স্পেসএক্সের স্টারশিপ রকেট কক্ষপথ থেকে ফিরে টেক্সাসের উৎক্ষেপণ টাওয়ারের যান্ত্রিক বাহুর ধরায় অবতরণ করেছে।",
+        "lead_en": "SpaceX’s Starship rocket returned from orbit and descended into the mechanical arms of the Texas launch tower.",
         "bullets_bn": [
-          "যুক্তরাষ্ট্রের পক্ষ থেকে এখনো জেলেনস্কির এই মন্তব্য নিশ্চিত করা হয়নি।",
-          "একজন মার্কিন কর্মকর্তা বলেছেন যে অনেক ধারণা নিয়ে আলোচনা অব্যাহত রয়েছে।",
-          "ইউক্রেনীয় নেতার কার্যালয় জানিয়েছে যে মার্কিন দূত জ্যারেড কুশনার ও স্টিভ উইটকফ জেলেনস্কির সঙ্গে বৈঠক করেছেন।"
+          "৫২ মিটার দীর্ঘ স্টারশিপের এই ১৫তম পরীক্ষামূলক মিশনে মহাকাশযানটি ১৪ বার পৃথিবী প্রদক্ষিণ করে।",
+          "স্পেসএক্সের মুখপাত্র ড্যান হুয়ট জানান, বুস্টারটি নির্ধারিত স্থানে না থাকায় তা মেক্সিকো উপসাগরে বিস্ফোরিত হয়।",
+          "স্পেসএক্স আগামী কয়েক মাসের মধ্যে ফ্লোরিডার কেনেডি স্পেস সেন্টার থেকে স্টারশিপ উৎক্ষেপণ শুরু করার আশা করছে।"
         ],
         "bullets_en": [
-          "The US has not confirmed Zelensky's comments.",
-          "A US official said that many ideas continue to be discussed.",
-          "US envoys Jared Kushner and Steve Witkoff met Zelensky, according to the Ukrainian leader's office."
+          "The 171ft upper stage orbited Earth 14 times during the 15th test flight.",
+          "SpaceX spokesperson Dan Huot said the booster diverted and exploded in the Gulf of Mexico because it was not in the right place.",
+          "SpaceX expects to begin launching Starships from Florida’s Kennedy Space Center within the next few months."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "রাশিয়া ২০২২ সালের ফেব্রুয়ারিতে ইউক্রেনে পূর্ণমাত্রার আগ্রাসন চালায় এবং শিল্পসমৃদ্ধ ডনবাস অঞ্চলের বেশিরভাগ অংশ নিয়ন্ত্রণ করে। ইউক্রেন দীর্ঘদিন ধরে সামরিক জোটে সদস্যপদ অর্জনের চেষ্টা করে আসছে, তবে রাশিয়া তার সীমান্তে অন্য কোনো ন্যাটো সদস্যকে অগ্রহণযোগ্য বলে মনে করে। মার্কিন দূত জ্যারেড কুশনার ও স্টিভ উইটকফ মস্কোতে রুশ প্রেসিডেন্ট ভ্লাদিমির পুতিনের সঙ্গে এক দফা আলোচনা শেষে আয়ারল্যান্ডের রাজধানী ডাবলিনে জেলেনস্কির সঙ্গে সাক্ষাৎ করেন। আল জাজিরা জানিয়েছে, ইউক্রেন-রাশিয়া শান্তি আলোচনার অংশ হিসেবে ইউরোপের সঙ্গে মস্কোর সরাসরি সম্পৃক্ততা বাস্তবায়নের কাছাকাছি পৌঁছেছে।",
-        "details_en": "Russia launched a full-scale invasion of Ukraine in February 2022 and controls most of the industrial region of Donbas. Kyiv has long sought membership of the military alliance, while Russia has said another Nato member on its border is unacceptable. US envoys Jared Kushner and Steve Witkoff travelled to Dublin to meet Zelensky after a round of talks with Putin in Moscow. Al Jazeera reported that Europe's direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality."
+        "details_bn": "স্পেসএক্সের স্টারশিপ রকেটটি সুপার হেভি নামক একটি নিম্ন বুস্টার এবং স্টারশিপ নামক একটি ওপরের অংশ নিয়ে গঠিত। এই পরীক্ষামূলক মিশনের লক্ষ্য ছিল সব অংশ অক্ষত অবস্থায় উৎক্ষেপণ সাইটে ফিরিয়ে আনা, যা ইলন মাস্কের সম্পূর্ণরূপে পুনব্যবহারযোগ্য রকেট ব্যবস্থা তৈরির লক্ষ্যের অংশ। উৎক্ষেপণের কয়েক মিনিট পর বুস্টারটি বিচ্যুত হয়ে মেক্সিকো উপসাগরে বিস্ফোরিত হলেও, কোম্পানিটি প্রথমবারের মতো তাদের ওপরের অংশটি সফলভাবে ধরে রাখতে সক্ষম হয়।",
+        "details_en": "SpaceX's hulking spacecraft is composed of a lower booster stage called Super Heavy and an upper stage called Starship. The test flight was envisioned as a double-catch mission to return all parts intact, supporting founder Elon Musk’s goal of developing a fully reusable rocket system. the booster diverted and exploded in the Gulf of Mexico, but the company successfully caught its upper stage for the first time."
       },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
+      "desk_importance": 5.0,
+      "outlet_count": 4,
+      "trending": true,
       "social_appeal": 4.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-14T23:01:07.173487+00:00"
+        "checked_at": "2026-11-15T00:01:08.105859+00:00"
       }
     }
   ]
