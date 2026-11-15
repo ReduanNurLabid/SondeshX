@@ -64,7 +64,10 @@ interface Props {
 }
 
 export const ReelPreview: React.FC<Props> = ({ stories }) => {
-  const candidates = useMemo(() => stories.filter((s) => s.daily_buzz?.title_bn).slice(0, 20), [stories]);
+  const candidates = useMemo(
+    () => stories.filter((s) => s.daily_buzz?.title_bn && (s.daily_buzz.bullets_bn?.length ?? 0) >= 2).slice(0, 20),
+    [stories],
+  );
   const [storyId, setStoryId] = useState<string>('');
   const story = candidates.find((s) => s.story_id === storyId) || candidates[0];
   const canvasRef = useRef<HTMLCanvasElement>(null);

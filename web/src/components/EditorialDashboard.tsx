@@ -707,7 +707,7 @@ export const EditorialDashboard: React.FC = () => {
     setSection(next);
     if (next === 'affairs') setActiveCollection('current_affairs_published');
     else if (next === 'stories' && activeCollection === 'current_affairs_published') setActiveCollection('daily_buzz');
-    else if (next === 'frontpage') setActiveCollection('daily_buzz');
+    else if (next === 'frontpage' || next === 'social') setActiveCollection('daily_buzz');
     window.scrollTo({ top: 0 });
   };
 

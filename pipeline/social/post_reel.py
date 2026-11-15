@@ -194,6 +194,9 @@ def _gemini_speech(texts: list, out_wav: str) -> bool:
         speech_config=types.SpeechConfig(voice_config=types.VoiceConfig(
             prebuilt_voice_config=types.PrebuiltVoiceConfig(voice_name=TTS_VOICE))),
     )
+    # Bangla newsreader pace is about 13 characters a second; a reading far shorter than
+    # that means the model stopped early, so try again (on the next key) or give up.
+    expected = sum(len(t) for t in texts) / 13.0
     for key in gemini_api_keys():
         try:
             client = genai.Client(api_key=key)  # keep a reference: a discarded client closes its connection
@@ -201,11 +204,16 @@ def _gemini_speech(texts: list, out_wav: str) -> bool:
             pcm = resp.candidates[0].content.parts[0].inline_data.data
             if not pcm:
                 continue
+            seconds = len(pcm) / (2 * TTS_RATE)
+            if seconds < 0.6 * expected:
+                print(f"Gemini voice stopped early ({seconds:.1f}s of about {expected:.0f}s); retrying")
+                continue
             with wave.open(out_wav, "wb") as w:
                 w.setnchannels(1)
                 w.setsampwidth(2)
                 w.setframerate(TTS_RATE)
                 w.writeframes(pcm)
+            print(f"Gemini voice: {seconds:.1f}s (expected about {expected:.0f}s)")
             return True
         except Exception as err:
             print(f"Gemini voice unavailable on one key: {str(err)[:120]}")
