@@ -61,14 +61,23 @@ function buildTimeline(story: CapsuleStory): Timeline {
 
 interface Props {
   stories: CapsuleStory[];
+  /** Story to load first, e.g. when opened from a story's Video Reel button. */
+  initialStoryId?: string | null;
 }
 
-export const ReelPreview: React.FC<Props> = ({ stories }) => {
+export const ReelPreview: React.FC<Props> = ({ stories, initialStoryId }) => {
   const candidates = useMemo(
-    () => stories.filter((s) => s.daily_buzz?.title_bn && (s.daily_buzz.bullets_bn?.length ?? 0) >= 2).slice(0, 20),
-    [stories],
+    () => {
+      const usable = stories.filter((s) => s.daily_buzz?.title_bn && (s.daily_buzz.bullets_bn?.length ?? 0) >= 2);
+      const top = usable.slice(0, 20);
+      // Keep the story the editor came from in the list even if it is not among the top 20.
+      const chosen = initialStoryId ? usable.find((s) => s.story_id === initialStoryId) : undefined;
+      return chosen && !top.includes(chosen) ? [chosen, ...top] : top;
+    },
+    [stories, initialStoryId],
   );
-  const [storyId, setStoryId] = useState<string>('');
+  const [storyId, setStoryId] = useState<string>(initialStoryId || '');
+  useEffect(() => { if (initialStoryId) setStoryId(initialStoryId); }, [initialStoryId]);
   const story = candidates.find((s) => s.story_id === storyId) || candidates[0];
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const inputRef = useRef<AutoReelInput | null>(null);

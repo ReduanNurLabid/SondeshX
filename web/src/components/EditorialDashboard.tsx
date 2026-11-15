@@ -293,6 +293,7 @@ export const EditorialDashboard: React.FC = () => {
   const [section, setSection] = useState<StudioSection>('overview');
   const [editorTab, setEditorTab] = useState<'bn' | 'en' | 'placement' | 'sources'>('bn');
   const [pendingStoryId, setPendingStoryId] = useState<string | null>(null);
+  const [reelStoryId, setReelStoryId] = useState<string | null>(null);
   const [isSaving, setIsSaving] = useState(false);
   const [statusMessage, setStatusMessage] = useState<{ text: string; type: 'success' | 'error' } | null>(null);
   const [previewMode, setPreviewMode] = useState<'editor' | 'preview'>('editor');
@@ -1107,7 +1108,7 @@ export const EditorialDashboard: React.FC = () => {
               Open the Facebook Reels workflow
             </a>
           </div>
-          <ReelPreview stories={rankedStories} />
+          <ReelPreview stories={rankedStories} initialStoryId={reelStoryId} />
           <ReelsPerformancePanel defaultOpen />
         </div>
       )}
@@ -1308,14 +1309,15 @@ export const EditorialDashboard: React.FC = () => {
                   <button
                     type="button"
                     onClick={() => {
-                      setSocialStudioInitialTab('video');
-                      setIsSocialStudioOpen(true);
+                      // Open this story in Social > Reel preview (the design used for posted Reels).
+                      setReelStoryId(selectedStory.story_id);
+                      goToSection('social');
                     }}
                     className="bg-teal-700 hover:bg-teal-600 text-white font-sans text-xs font-bold uppercase px-3 py-1.5 flex items-center gap-1.5 transition-colors border border-teal-500 cursor-pointer shadow-sm active:scale-98"
-                    title="Open Sondesh Express 13-Second 60 FPS Motion News Reel Studio"
+                    title="Preview this story as a Facebook Reel in Social"
                   >
                     <Film className="w-3.5 h-3.5 text-teal-200" />
-                    <span>13s Video Reel</span>
+                    <span>Reel preview</span>
                   </button>
 
                   <button
