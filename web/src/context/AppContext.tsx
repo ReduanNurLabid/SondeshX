@@ -1,7 +1,7 @@
 import React, { createContext, useContext, useState, useEffect, useRef } from 'react';
 import { CapsuleStory, Language, TabType } from '../types';
 import { applyPageMeta, storyIdFromPath, storyPath } from '../utils/seo';
-import { fetchDailyBuzzFeed, fetchCurrentAffairsFeed, fetchHourlyWiresFeed } from '../services/api';
+import { fetchDailyBuzzFeed, fetchCurrentAffairsFeed, fetchHourlyWiresFeed, fetchStoryById } from '../services/api';
 import { translations } from '../utils/bilingual';
 import { synthesizeAudioStory, prepareSpeechText } from '../services/ttsService';
 
@@ -528,6 +528,12 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
             if (affairMatch && !tabParam) {
               setActiveTabState('current_affairs');
               setSelectedCurrentAffairIdState(storyParam);
+            } else if (!affairMatch) {
+              // Older than the hourly snapshot (e.g. a link from an earlier Facebook post):
+              // fetch just this story, a single database read.
+              fetchStoryById(storyParam).then((older) => {
+                if (older && storyIdFromPath(window.location.pathname) === storyParam) setActiveStory(older);
+              });
             }
           }
         }

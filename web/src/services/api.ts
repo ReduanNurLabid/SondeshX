@@ -485,3 +485,14 @@ export async function fetchHourlyWiresFeed(fetchLimit: number = 60): Promise<Cap
 
   return [];
 }
+
+/** One story by id, for links older than the hourly snapshot. A single database read. */
+export async function fetchStoryById(storyId: string): Promise<CapsuleStory | null> {
+  try {
+    const snap = await getDoc(doc(db, 'daily_buzz', storyId));
+    return snap.exists() ? normalizeStory(snap.data()) : null;
+  } catch (err) {
+    console.warn('Could not load story', storyId, err);
+    return null;
+  }
+}
