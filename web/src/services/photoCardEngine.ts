@@ -143,7 +143,12 @@ function drawFooter(ctx: CanvasRenderingContext2D, input: PhotoCardInput) {
   ctx.textBaseline = 'middle';
   ctx.fillStyle = C.faint;
   ctx.font = `500 26px ${FONT}`;
-  const src = wrap(ctx, input.sourceLine || '', TEXT_W - 300)[0] || '';
+  // Drop whole source names (never cut one in half) until the line fits.
+  let src = input.sourceLine || '';
+  const prefix = src.startsWith('সূত্র: ') ? 'সূত্র: ' : '';
+  const names = src.slice(prefix.length).split(', ').filter(Boolean);
+  while (names.length > 1 && ctx.measureText(prefix + names.join(', ')).width > TEXT_W - 300) names.pop();
+  src = names.length ? prefix + names.join(', ') : '';
   ctx.fillText(src, PAD, y + 4);
   ctx.textAlign = 'right';
   ctx.fillStyle = C.lime;
