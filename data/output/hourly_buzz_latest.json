@@ -1,9 +1,86 @@
 {
-  "updated_at": "2026-11-15T06:00:43.497097",
+  "updated_at": "2026-11-15T07:00:43.125301",
   "total_stories": 5,
   "stories": [
     {
-      "story_id": "308d0654-090e-5170-aaf3-100e9549f1a6",
+      "story_id": "28cc579d-272d-567f-a953-5cfef75512c1",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-15%2F0zu8754r%2Frangpurdh057620261115img20261115114755.jpg?rect=0%2C32%2C707%2C371&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-15T06:25:04+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 9.0,
+      "rank_score": 7.8244,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/dvsue9fp6l",
+          "title": "টাকার জন্য জিম্মি, বাঁচাতে গেলে দুজনকে চলন্ত বাস থেকে ফেলে হত্যা",
+          "snippet": "টাকার জন্য জিম্মি, বাঁচাতে গেলে দুজনকে চলন্ত বাস থেকে ফেলে হত্যা"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821073/%E0%A6%9A%E0%A6%B2%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AC%E0%A6%BE%E0%A6%B8-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97",
+          "title": "চলন্ত বাস থেকে ফেলে দুই যাত্রীকে হত্যার অভিযোগ, মহাসড়ক অবরোধ",
+          "snippet": "চলন্ত বাস থেকে ফেলে দুই যাত্রীকে হত্যার অভিযোগ, মহাসড়ক অবরোধ"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/country/498017",
+          "title": "রংপুরে চলন্ত বাস থেকে দুই যাত্রীকে ফেলে দিয়ে হত্যার অভিযোগ",
+          "snippet": "রংপুরে চলন্ত বাস থেকে দুই যাত্রীকে ফেলে দিয়ে হত্যার অভিযোগ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রংপুরে চলন্ত বাস থেকে ফেলে দুই যাত্রীকে হত্যার অভিযোগ",
+        "title_en": "Two passengers allegedly killed after being thrown from moving bus in Rangpur",
+        "summary_bn": "রংপুরের তারাগঞ্জে চলন্ত বাস থেকে ফেলে মুকুল বসুনিয়া ও শাকিব বসুনিয়া নামের দুই যাত্রীকে হত্যার অভিযোগ উঠেছে।",
+        "summary_en": "Two passengers named Mukul Bosunia and Shakib Bosunia were allegedly killed after being thrown from a moving bus in Taraganj, Rangpur.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-15T06:25:04+00:00",
+        "lead_bn": "রংপুরের তারাগঞ্জে চলন্ত বাস থেকে ফেলে মুকুল বসুনিয়া ও শাকিব বসুনিয়া নামের দুই যাত্রীকে হত্যার অভিযোগ উঠেছে।",
+        "lead_en": "Two passengers named Mukul Bosunia and Shakib Bosunia were allegedly killed after being thrown from a moving bus in Taraganj, Rangpur.",
+        "bullets_bn": [
+          "বাসের স্টাফরা অপর যাত্রী আতিক বসুনিয়াকে জিম্মি করে টাকা লুটের চেষ্টা করলে নিহত ব্যক্তিরা প্রতিবাদ জানান।",
+          "তারাগঞ্জ ফায়ার সার্ভিসের ফায়ার ফাইটার বেনজির আহমেদ জানান, ঘটনাস্থলে কোনো দুর্ঘটনার আলামত পাওয়া যায়নি।",
+          "এ ঘটনায় বাসের চালক ও সুপারভাইজারকে আটক করে হেফাজতে নিয়েছে পুলিশ।"
+        ],
+        "bullets_en": [
+          "The victims protested when bus staff held another passenger Atiq Bosunia hostage in an attempt to rob money.",
+          "Taraganj Fire Service firefighter Benzir Ahmed stated that no signs of an accident were found at the scene.",
+          "Police have detained and taken into custody the bus driver and supervisor over the incident."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "কুমিল্লার ময়নামতি এলাকা থেকে সায়মন এক্সক্লুসিভ পরিবহনের বাসে করে নীলফামারী সদর উপজেলার বসুনিয়াপাড়া এলাকার ছয়জন বাড়ি ফিরছিলেন। তারাগঞ্জ পার হয়ে অন্যদের বাস থেকে নামিয়ে দিয়ে আতিক বসুনিয়াকে জিম্মি করা হয়। তাঁকে বাঁচাতে মুকুল ও শাকিব এগিয়ে গেলে তাঁদের চলন্ত বাস থেকে ফেলে দেওয়া হয়। পরে বিক্ষুব্ধ লোকজন মহাসড়ক অবরোধ করে বিক্ষোভ করেন।",
+        "details_en": "Six people from Bosuniapara area of Nilphamari Sadar upazila were returning home from Cumilla's Mainamati area on a Simon Exclusive transport bus. After passing Taraganj, others were made to get off and Atiq Bosunia was held hostage. When Mukul and Shakib stepped forward to save him, they were thrown from the moving bus. Later, angry people blocked the highway and demonstrated."
+      },
+      "desk_importance": 8.0,
+      "outlet_count": 3,
+      "trending": true,
+      "social_appeal": 9.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-15T07:01:16.161315+00:00"
+      }
+    },
+    {
+      "story_id": "898b1604-e081-5b21-b556-8c9f9119bbed",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business",
@@ -11,46 +88,47 @@
       ],
       "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#Gazipur",
+        "#GarmentWorkers",
+        "#LabourUnrest"
       ],
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_bengali/eb1c/live/30a2b130-e09a-11f1-93e1-3b657b665bcf.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/15/gazipur_rmg_15112026_1.jpg",
       "image_caption": null,
-      "published_at": "2026-11-15T03:07:07+00:00",
+      "published_at": "2026-11-15T05:10:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 9.0,
-      "rank_score": 6.8515,
+      "rank_score": 7.2789,
       "sources": [
         {
-          "name": "BBC News বাংলা",
-          "url": "https://www.bbc.com/bengali/articles/cw4gnx51pv0vo?at_medium=RSS&at_campaign=rss",
-          "title": "পত্রিকা: 'গার্মেন্টস বন্ধ হলে দেশ অস্তিত্ব সংকটে পড়বে'",
-          "snippet": "পত্রিকা: 'গার্মেন্টস বন্ধ হলে দেশ অস্তিত্ব সংকটে পড়বে'"
-        },
-        {
-          "name": "The Business Standard",
+          "name": "The Business Standard Economy",
           "url": "https://www.tbsnews.net/economy/rmg/13-factories-shut-indefinitely-gazipur-amid-labour-unrest-holiday-declared-five-1602791",
-          "title": "13 factories shut indefinitely in Gazipur amid labour unrest, holiday declared at five",
-          "snippet": "13 factories shut indefinitely in Gazipur amid labour unrest, holiday declared at five"
-        },
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/43indwf8o6",
-          "title": "গাজীপুরে ১৩ পোশাক কারখানা বন্ধ, শ্রমিকদের ছত্রভঙ্গ করে দিয়েছে পুলিশ",
-          "snippet": "গাজীপুরে ১৩ পোশাক কারখানা বন্ধ, শ্রমিকদের ছত্রভঙ্গ করে দিয়েছে পুলিশ"
+          "title": "13 factories shut indefinitely in Gazipur amid labour unrest, 50 remain closed in Savar-Ashulia",
+          "snippet": "13 factories shut indefinitely in Gazipur amid labour unrest, 50 remain closed in Savar-Ashulia"
         },
         {
           "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/424657/gazipur-garment-workers-return-to-work-security",
-          "title": "Gazipur garment workers return to work; security tightened",
-          "snippet": "Gazipur garment workers return to work; security tightened"
+          "url": "https://www.dhakatribune.com/bangladesh/424665/police-disperse-gazipur-garment-workers-after",
+          "title": "Police disperse Gazipur garment workers after highway blockade attempt",
+          "snippet": "Police disperse Gazipur garment workers after highway blockade attempt"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/29-gazipur-factories-declare-holidays",
+          "title": "29 Gazipur factories declare holidays",
+          "snippet": "29 Gazipur factories declare holidays"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821067/%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B2-%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A7%80%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A7%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%A7%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%9B%E0%A7%81%E0%A6%9F%E0%A6%BF",
+          "title": "উত্তাল গাজীপুর, নতুন করে অর্ধশতাধিক কারখানায় ছুটি ঘোষণা",
+          "snippet": "উত্তাল গাজীপুর, নতুন করে অর্ধশতাধিক কারখানায় ছুটি ঘোষণা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বেতন বাড়ানোর দাবিতে গাজীপুরে পোশাক কারখানা বন্ধ ও পুলিশের সঙ্গে সংঘর্ষ হয়েছে",
-        "title_en": "Garment factories closed and police clash in Gazipur over wage hike demands",
-        "summary_bn": "মজুরি বৃদ্ধির দাবিতে শ্রমিক আন্দোলনের মুখে গাজীপুরে ১৩টি পোশাক কারখানা অনির্দিষ্টকালের জন্য বন্ধ ঘোষণা করা হয়েছে এবং পুলিশ সাউন্ড গ্রেনেড ছুড়ে শ্রমিকদের ছত্রভঙ্গ করে দিয়েছে।",
-        "summary_en": "Thirteen garment factories in Gazipur have been indefinitely closed and police dispersed workers using sound grenades amid labour unrest over wage hike demands.",
+        "title_bn": "গাজীপুরে শ্রম অসন্তোষের কারণে ১৩ কারখানা অনির্দিষ্টকালের জন্য বন্ধ",
+        "title_en": "Thirteen factories shut indefinitely in Gazipur amid labour unrest",
+        "summary_bn": "চলমান শ্রম অসন্তোষের জেরে কর্তৃপক্ষ গাজীপুরে ১৩টি পোশাক কারখানা অনির্দিষ্টকালের জন্য বন্ধ ঘোষণা করেছে এবং সাভার-আশুলিয়ায় ৫০টির বেশি কারখানা বন্ধ রয়েছে।",
+        "summary_en": "Authorities have shut 13 garment factories in Gazipur indefinitely amid ongoing labour unrest, while more than 50 factories remain closed in Savar-Ashulia.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -58,308 +136,224 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-15T03:07:07+00:00",
-        "lead_bn": "মজুরি বৃদ্ধির দাবিতে শ্রমিক আন্দোলনের মুখে গাজীপুরে ১৩টি পোশাক কারখানা অনির্দিষ্টকালের জন্য বন্ধ ঘোষণা করা হয়েছে এবং পুলিশ সাউন্ড গ্রেনেড ছুড়ে শ্রমিকদের ছত্রভঙ্গ করে দিয়েছে।",
-        "lead_en": "Thirteen garment factories in Gazipur have been indefinitely closed and police dispersed workers using sound grenades amid labour unrest over wage hike demands.",
+        "published_at": "2026-11-15T05:10:00+00:00",
+        "lead_bn": "চলমান শ্রম অসন্তোষের জেরে কর্তৃপক্ষ গাজীপুরে ১৩টি পোশাক কারখানা অনির্দিষ্টকালের জন্য বন্ধ ঘোষণা করেছে এবং সাভার-আশুলিয়ায় ৫০টির বেশি কারখানা বন্ধ রয়েছে।",
+        "lead_en": "Authorities have shut 13 garment factories in Gazipur indefinitely amid ongoing labour unrest, while more than 50 factories remain closed in Savar-Ashulia.",
         "bullets_bn": [
-          "পুলিশ ও স্থানীয় সূত্রে জানা যায়, শ্রমিক অসন্তোষের কারণে গাজীপুরের ১৩টি পোশাক কারখানা অনির্দিষ্টকালের জন্য বন্ধ এবং আরও পাঁচটি কারখানায় ছুটি দেওয়া হয়েছে।",
-          "সকালে কালিয়াকীরের মৌচাকের তেলিরচালা এলাকায় শ্রমিকেরা ঢাকা–টাঙ্গাইল মহাসড়ক অবরোধের চেষ্টা করলে পুলিশ সাউন্ড গ্রেনেড ও কাঁদানে গ্যাসের শেল নিক্ষেপ করে।",
-          "আইনশৃঙ্খলা রক্ষা করার এবং কারখানাগুলো সুরক্ষা দিতে শিল্পাঞ্চলগুলোতে পঁচিশ প্লাটুন আইনশৃঙ্খলা রক্ষাকারী বাহিনীর সদস্য মোতায়েন করা হয়েছে।"
+          "আইনশৃঙ্খলা রক্ষা ও কারখানা সুরক্ষায় গাজীপুরের শিল্পাঞ্চলগুলোতে ২৫ প্লাটুন আইন প্রয়োগকারী সদস্য মোতায়েন করা হয়েছে।",
+          "মোতায়েন করা বাহিনীর মধ্যে রয়েছে ১৩ প্লাটুন বিজিবি, ৫ প্লাটুন আনসার এবং ৮ প্লাটুন এসআরবি, যাদের নেতৃত্ব দিচ্ছেন ২৫ জন নির্বাহী ম্যাজিস্ট্রেট।",
+          "শ্রমিকেরা ন্যূনতম ৩০ হাজার টাকা মজুরিসহ বিভিন্ন দাবিতে গাজীপুরের বিভিন্ন এলাকায় বিক্ষোভ ও কর্মবিরতি পালন করেছেন।"
         ],
         "bullets_en": [
-          "Thirteen garment factories in Gazipur were declared closed indefinitely and holiday was declared at five other factories due to worker unrest, according to industrial police and local sources.",
-          "Police hurled sound grenades and tear gas shells when workers attempted to block the Dhaka-Tangail highway in the Mouchak Telirchar area of Kaliakair.",
-          "Twenty-five platoons of law enforcement personnel have been deployed across industrial areas to maintain order and protect factories."
+          "Twenty-five platoons of law enforcement personnel have been deployed across industrial areas in Gazipur to maintain order and protect factories.",
+          "The deployed forces include 13 platoons of BGB, five platoons of Ansar and eight platoons of SRB, led by 25 executive magistrates.",
+          "Workers have been staging protests and work stoppages demanding a minimum wage of Tk30,000, among other things, in different parts of Gazipur."
         ],
-        "impact_bn": "পোশাকশিল্পে অস্থিরতা দীর্ঘায়িত হলে উৎপাদন ও রপ্তানি ক্ষতিগ্রস্ত হওয়ার পাশাপাশি দেশের সামগ্রিক অর্থনীতিতেও বড় সংকট তৈরি হতে পারে।",
-        "impact_en": "If unrest in the garment industry prolongs, it could damage production and exports, and create a major crisis in the country's overall economy.",
-        "details_bn": "মজুরি বৃদ্ধির দাবিতে শ্রমিক আন্দোলন অব্যাহত থাকায় দেশের তৈরি পোশাকশিল্পে অস্থিরতা বাড়ছো এবং প্রতিদিনই বিভিন্ন শিল্পাঞ্চলে বিক্ষোভের কারণে উৎপাদন ব্যাহত হচ্ছে। পরিস্থিতি সামাল দিতে আন্দোলন হলেই কারখানা বন্ধের ঘোষণা দিয়েছেন মালিকেরা। সংশ্লিষ্ট ব্যক্তিরা মনে করছেন, পরিকল্পনার অভাব, সিদ্ধান্ত গ্রহণে বিলম্ব এবং শ্রমিকদের দাবির যথাযথ সমাধান না হওয়ায় পরিস্থিতি জটিল হয়েছে।",
-        "details_en": "As labour protests for wage increases continue, instability is growing in the country's readymade garment industry, disrupting production daily and forcing factory closures. Owners have announced factory closures whenever protests occur to manage the situation. Relevant persons consider that the situation has become complex due to lack of planning, delays in decision-making, and failure to properly resolve workers' demands."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "শ্রমিকেরা ন্যূনতম ৩০ হাজার টাকা মজুরিসহ বিভিন্ন দাবিতে গাজীপুরের বিভিন্ন এলাকায় গত কয়েক দিন ধরে বিক্ষোভ ও কর্মবিরতি চালিয়ে আসছেন। কালিয়াকৈরের মৌচাক এলাকায় শ্রমিকেরা একটি কারখানার সামনে জড়ো হওয়ার পর আইন প্রয়োগকারী সদস্যরা উপস্থিত হলে তারা এলাকা ছেড়ে চলে যান। এছাড়া কোনাবাড়ি ও গাজীপুর সিটির জারুন এলাকায় বিচ্ছিন্ন সহিংসতার ঘটনা ঘটে এবং পুলিশ শ্রমিকদের ছত্রভঙ্গ করতে ও মহাসড়ক পরিষ্কার করতে টিয়ার শেল নিক্ষেপ করে। বাংলাদেশ শ্রম আইন, ২০০৬-এর ধারা ১৩(১)-এর অধীনে এই কারখানাগুলো বন্ধ ঘোষণা করা হয়।",
+        "details_en": "Workers have been staging protests and work stoppages over the past few days demanding a minimum wage of Tk30,000, among other things. Workers gathered in front of a factory in the Mouchak area of Kaliakair before leaving after law enforcement arrived, while isolated incidents of unrest were reported in Konabari and Jarun areas of Gazipur city, with police firing tear gas shells to disperse workers and clear the highway. The closures were declared under Section 13(1) of the Bangladesh Labour Act, 2006."
       },
       "desk_importance": 8.0,
-      "outlet_count": 8,
+      "outlet_count": 4,
       "trending": true,
-      "social_appeal": 9.0,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-15T06:01:20.276026+00:00"
+        "checked_at": "2026-11-15T07:01:16.161315+00:00"
       }
     },
     {
-      "story_id": "2d54af07-da0b-55a7-86af-e7fd0837b3cc",
+      "story_id": "46d91d71-4b05-5fd4-9b89-27c6e313a7d0",
       "primary_category": "climate_environment",
       "interest_categories": [
         "climate_environment",
-        "tech_innovation"
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Climate",
-        "#Environment"
+        "#BayOfBengal",
+        "#BangladeshPorts",
+        "#WeatherUpdate"
       ],
-      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/air-pollution.png",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2020/11/24/storm1.jpg",
       "image_caption": null,
-      "published_at": "2026-11-15T04:27:01+00:00",
+      "published_at": "2026-11-15T06:00:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.5683,
+      "importance_score": 7.75,
+      "rank_score": 5.6635,
       "sources": [
         {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/uncategorized/post-1220553/",
-          "title": "ঢাকার বাতাস খুবই ‘অস্বাস্থ্যকর’",
-          "snippet": "ঢাকার বাতাস খুবই ‘অস্বাস্থ্যকর’"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/depression-over-bay-bengal-likely-intensify-cyclonic-storm-1602841",
+          "title": "Depression over Bay of Bengal likely to intensify into cyclonic storm",
+          "snippet": "Depression over Bay of Bengal likely to intensify into cyclonic storm"
         },
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/dhaka-air-very-unhealthy-today/",
-          "title": "ঢাকার বাতাস আজ ‘খুবই অস্বাস্থ্যকর’, দূষণে শীর্ষে লাহোর",
-          "snippet": "ঢাকার বাতাস আজ ‘খুবই অস্বাস্থ্যকর’, দূষণে শীর্ষে লাহোর"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/ports-put-on-alert-as-depression-forms-over-bay",
+          "title": "Ports put on alert as depression forms over Bay",
+          "snippet": "Ports put on alert as depression forms over Bay"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বায়ুদূষণে বিশ্বের ১২৬টি শহরের মধ্যে তৃতীয় অবস্থানে রয়েছে ঢাকা",
-        "title_en": "Dhaka ranks third among 126 cities globally in air pollution",
-        "summary_bn": "আইকিউএয়ারের তথ্য অনুযায়ী, বায়ুদূষণে বিশ্বের ১২৬টি প্রধান শহরের মধ্যে তৃতীয় অবস্থানে রয়েছে রাজধানী ঢাকা।",
-        "summary_en": "According to IQAir data, the capital Dhaka ranks third among 126 major cities worldwide in air pollution.",
+        "title_bn": "বঙ্গোপসাগরে নিম্নচাপ সৃষ্টি, সমুদ্রবন্দরগুলোকে সতর্কবার্তা দেখাতে বলা হয়েছে",
+        "title_en": "Depression forms over Bay of Bengal, maritime ports issued cautionary advisories",
+        "summary_bn": "বঙ্গোপসাগরে একটি নিম্নচাপ সৃষ্টি হওয়ায় বাংলাদেশের চারটি সমুদ্রবন্দরকে স্থানীয় সতর্কসংকেত দেখাতে বলা হয়েছে।",
+        "summary_en": "A depression has formed over the Bay of Bengal, prompting authorities to issue cautionary advisories for four maritime ports.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "climate_environment",
-          "tech_innovation"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-15T04:27:01+00:00",
-        "lead_bn": "আইকিউএয়ারের তথ্য অনুযায়ী, বায়ুদূষণে বিশ্বের ১২৬টি প্রধান শহরের মধ্যে তৃতীয় অবস্থানে রয়েছে রাজধানী ঢাকা।",
-        "lead_en": "According to IQAir data, the capital Dhaka ranks third among 126 major cities worldwide in air pollution.",
+        "published_at": "2026-11-15T06:00:00+00:00",
+        "lead_bn": "বঙ্গোপসাগরে একটি নিম্নচাপ সৃষ্টি হওয়ায় বাংলাদেশের চারটি সমুদ্রবন্দরকে স্থানীয় সতর্কসংকেত দেখাতে বলা হয়েছে।",
+        "lead_en": "A depression has formed over the Bay of Bengal, prompting authorities to issue cautionary advisories for four maritime ports.",
         "bullets_bn": [
-          "রাজধানীর বায়ুর মান সূচক স্কোর ২০৬ থেকে ২২১-এর মধ্যে ওঠানামা করছে যা খুব অস্বাস্থ্যকর।",
-          "বসুন্ধরা আবাসিক এলাকার জি ব্লকে একিউআই স্কোর ৩৯৭ পৌঁছেছে যা বিপজ্জনক বা হ্যাজার্ডাস হিসেবে বিবেচিত।",
-          "তালিকায় প্রথম স্থানে পাকিস্তানের লাহোর এবং দ্বিতীয় অবস্থানে ভারতের কলকাতা রয়েছে।"
+          "১৫ নভেম্বর প্রকাশিত আবহাওয়া বুলেটিন অনুযায়ী, লঘুচাপটি উত্তর-উত্তরপশ্চিম দিকে অগ্রসর হয়ে নিম্নচাপ রূপ নেয়।",
+          "নিম্নচাপ কেন্দ্রের চারপাশে বাতাসের সর্বোচ্চ গতিবেগ ঘণ্টায় ৪০ কিলোমিটার এবং দমকা বা ঝোড়ো হাওয়ার আকারে ৫০ কিলোমিটার পর্যন্ত বাড়ছে।",
+          "সিস্টেমটি আরও ঘনীভূত হয়ে ঘূর্ণিঝড়ে রূপ নিতে পারে বলে আবহাওয়া বুলেটিনে জানানো হয়েছে।"
         ],
         "bullets_en": [
-          "The capital air quality index score fluctuates between 206 and 221 which is very unhealthy.",
-          "The AQI score reached 397 in block G of Bashundhara residential area which is considered hazardous.",
-          "Lahore in Pakistan ranks first and Kolkata in India is in second position on the list."
+          "According to the weather bulletin issued on 15 November, the low-pressure system intensified into a depression.",
+          "Maximum sustained wind speed around the centre is estimated at 40 kilometres per hour, with gusts up to 50 kilometres per hour.",
+          "The bulletin stated that the system is likely to intensify further into a cyclonic storm."
         ],
-        "impact_bn": "শ্বাসের সঙ্গে ক্ষতিকর কণা ফুসফুস ও রক্তপ্রবাহে প্রবেশ করে শিশু, বয়স্ক ও অন্তঃসত্ত্বা নারীদের জন্য শ্বাসতন্ত্রের জটিলতা, হৃদ্‌রোগ, স্ট্রোক ও ফুসফুসের ক্যানসারের মতো মারাত্মক স্বাস্থ্যঝুঁকি তৈরি করছে।",
-        "impact_en": "Harmful particles entering the lungs and bloodstream with breath are creating serious health risks such as respiratory complications, heart disease, stroke, and lung cancer for children, the elderly, and pregnant women.",
-        "details_bn": "পরিবেশবিদ ও জনস্বাস্থ্য বিশেষজ্ঞদের মতে, চলতি মাসে ঢাকার বাতাস এতটা খারাপ এর আগে হয়নি এবং শুষ্ক মৌসুম বাড়ার সঙ্গে সঙ্গে পরিস্থিতি আরও অবনতির দিকে যেতে পারে। ঢাকার বাতাসে প্রধান দূষক হলো অতি সূক্ষ্ম বস্তুকণা পিএম ২.৫, যা বিশ্ব স্বাস্থ্য সংস্থার বার্ষিক নির্দেশক মানের তুলনায় ২৬ গুণ পর্যন্ত বেশি পাওয়া যাচ্ছে। ইটভাটার ধোঁয়া, যানবাহনের কালো ধোঁয়া, শিল্পকারখানার নির্গমন, অপরিকল্পিত নির্মাণকাজের ধুলাবালি এবং খোলা জায়গায় বর্জ্য পোড়ানোই এই দূষণের মূল উৎস।",
-        "details_en": "According to environmentalists and public health experts, Dhaka air has never been this bad this month and the situation may deteriorate further as the dry season progresses. The main pollutant in Dhaka air is ultra-fine particulate matter PM 2.5, which is found up to 26 times higher than the World Health Organization annual guideline value. Brick kiln smoke, vehicle black smoke, industrial emissions, dust from unplanned construction, and open waste burning are the main sources of this pollution."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "দক্ষিণ-পূর্ব বঙ্গোপসাগর ও সংলগ্ন দক্ষিণ-পশ্চিম বঙ্গোপসাগরে একটি নিম্নচাপ সৃষ্টি হয়েছে। এটি উত্তর-উত্তরপশ্চিম দিকে অগ্রসর হয়ে ৬টায় নিম্নচাপে পরিণত হয়। এর কেন্দ্র চট্টগাম, কক্সবাজার, মোংলা ও পায়রা সমুদ্রবন্দর থেকে হাজার হাজার কিলোমিটার দূরে অবস্থান করছে এবং এর প্রভাবে সমুদ্র মাঝারি থাকতে পারে।",
+        "details_en": "A depression formed over the Southeast Bay of Bengal and adjoining Southwest Bay, moving north-northwestwards to intensify into a depression at 6am. Its centre was located thousands of kilometres away from Chattogram, Cox's Bazar, Mongla, and Payra ports, and the sea is expected to remain moderate."
       },
-      "desk_importance": 6.0,
+      "desk_importance": 7.0,
       "outlet_count": 2,
-      "trending": false,
+      "trending": true,
       "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-15T06:01:20.276026+00:00"
+        "checked_at": "2026-11-15T07:01:16.161315+00:00"
       }
     },
     {
-      "story_id": "7159cd15-4d64-5168-8004-dc65a04965d8",
+      "story_id": "661ee1b2-d68e-577d-a875-0d9f09277512",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law"
+        "governance_law",
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1621297141646-22ca03dd904c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YWN0aXZpc3RzJTIwYmFubmVkJTIwYXdhbWklMjBsZWFndWUlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTQ3MjI0NzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/nawfel.png",
       "image_caption": null,
-      "published_at": "2026-11-15T05:27:29+00:00",
+      "published_at": "2026-11-15T06:16:07+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.4857,
+      "importance_score": 7.5,
+      "rank_score": 5.3869,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1179595",
-          "title": "আজিমপুরে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের ৪ নেতাকর্মী গ্রেফতার",
-          "snippet": "আজিমপুরে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের ৪ নেতাকর্মী গ্রেফতার"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/law-and-crime/980997/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%86%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A7%AA",
-          "title": "রাজধানীতে অভিযান, কার্যক্রম নিষিদ্ধ আওয়ামী লীগের ৪ সদস্য গ্রেফতার",
-          "snippet": "রাজধানীতে অভিযান, কার্যক্রম নিষিদ্ধ আওয়ামী লীগের ৪ সদস্য গ্রেফতার"
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/law-justice/post-1220598/",
+          "title": "হাছান মাহমুদ-নওফেলসহ ২২ আসামির মামলায় সাক্ষ্য শুরু আজ",
+          "snippet": "হাছান মাহমুদ-নওফেলসহ ২২ আসামির মামলায় সাক্ষ্য শুরু আজ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রাজধানীর আজিমপুরে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের চার নেতাকর্মী গ্রেফতার",
-        "title_en": "Four activists of banned Awami League arrested in Azimpur",
-        "summary_bn": "রাজধানীর আজিমপুরে অভিযান চালিয়ে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের চার সক্রিয় সদস্যকে গ্রেফতার করেছে ঢাকা মেট্রোপলিটন পুলিশের লালবাগ থানা পুলিশ।",
-        "summary_en": "Lalbagh Police Station of Dhaka Metropolitan Police arrested four active members of banned Awami League in Azimpur.",
+        "title_bn": "ড. হাছান মাহমুদ ও নওফেলসহ ২২ আসামির সাক্ষ্যগ্রহণ শুরু ১৫ নভেম্বর",
+        "title_en": "Testimony starts November 15 against 22 accused including Hasan Mahmud and Naofel",
+        "summary_bn": "চব্বিশের জুলাই গণঅভ্যুত্থানের সময় চট্টগ্রামে ছয়জনকে হত্যার ঘটনায় আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল-২-এ ড. হাছান মাহমুদ ও মহিবুল হাসান চৌধুরী নওফেলসহ ২২ আসামির সাক্ষ্যগ্রহণ শুরু হচ্ছে ১৫ নভেম্বর।",
+        "summary_en": "Testimony begins November 15 at International Crimes Tribunal-2 against 22 accused including Dr Hasan Mahmud and Mohibul Hasan Chowdhury Naofel for killing six people in Chattogram during the July uprising.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "governance_law",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-15T05:27:29+00:00",
-        "lead_bn": "রাজধানীর আজিমপুরে অভিযান চালিয়ে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের চার সক্রিয় সদস্যকে গ্রেফতার করেছে ঢাকা মেট্রোপলিটন পুলিশের লালবাগ থানা পুলিশ।",
-        "lead_en": "Lalbagh Police Station of Dhaka Metropolitan Police arrested four active members of banned Awami League in Azimpur.",
+        "published_at": "2026-11-15T06:16:07+00:00",
+        "lead_bn": "চব্বিশের জুলাই গণঅভ্যুত্থানের সময় চট্টগ্রামে ছয়জনকে হত্যার ঘটনায় আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল-২-এ ড. হাছান মাহমুদ ও মহিবুল হাসান চৌধুরী নওফেলসহ ২২ আসামির সাক্ষ্যগ্রহণ শুরু হচ্ছে ১৫ নভেম্বর।",
+        "lead_en": "Testimony begins November 15 at International Crimes Tribunal-2 against 22 accused including Dr Hasan Mahmud and Mohibul Hasan Chowdhury Naofel for killing six people in Chattogram during the July uprising.",
         "bullets_bn": [
-          "গ্রেফতারকৃতরা হলেন মো. সোহরাব হোসেন সুমন মিয়া, মোহাম্মদ জাহাঙ্গীর আলম, মো. রাসেল আহম্মেদ ও মো. মফিজুল ইসলাম।",
-          "ডিএমপি মিডিয়া বিভাগ থেকে এই তথ্য জানানো হয়।",
-          "লালবাগ থানা সূত্রে জানা যায়, পুলিশ আজিমপুরে অভিযান পরিচালনা করে।"
+          "বিচারপতি নজরুল ইসলাম চৌধুরীর নেতৃত্বাধীন তিন সদস্যের বিচারিক প্যানেলে প্রসিকিউশনের সূচনা বক্তব্য উপস্থাপনের মধ্য দিয়ে বিচারিক কার্যক্রম শুরু হওয়ার কথা রয়েছে।",
+          "মামলায় বর্তমানে গ্রেপ্তার পাঁচ আসামি হলেন ফজলে করিম চৌধুরী, আজিজুর রহমান, তৌহিদুল ইসলাম, মো. ফিরোজ ও দেবাশীষ পাল দেবু।",
+          "গত ১৯ অক্টোবর ট্রাইব্যুনাল আনুষ্ঠানিক অভিযোগ গঠনের আদেশ পুনর্বিবেচনার আবেদন খারিজ করে ১৫ নভেম্বর দিন ধার্য করেছিলেন।"
         ],
         "bullets_en": [
-          "The arrestees are Md. Sohrab Hossain Suman Miah, Mohammad Jahangir Alam, Md. Russel Ahmmed, and Md. Mofijul Islam.",
-          "The DMP media division shared this information on Sunday morning.",
-          "According to Lalbagh police station sources, police conducted the drive in Azimpur on Saturday."
+          "Judicial proceedings are scheduled to begin with the prosecution's opening statement before a three-member judicial panel led by Justice Nazrul Islam Chowdhury.",
+          "The five currently arrested accused in the case are Fazle Karim Chowdhury, Azizur Rahman, Touhidul Islam, Md Firoz and Debashish Pal Debu.",
+          "On October 19, the tribunal dismissed the petition to reconsider the formal charge-framing order and fixed the date for November 15."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null
+        "details_bn": "গত ৩০ জুন ২২ আসামির বিরুদ্ধে আনুষ্ঠানিক অভিযোগ গঠন করে বিচার শুরুর আদেশ দেয় ট্রাইব্যুনাল-২ এবং সাক্ষ্যগ্রহণের দিন নির্ধারণ করে। পরে গ্রেপ্তার পাঁচ আসামির করা আবেদন পুনর্বিবেচনার জন্য ২১ সেপ্টেম্বর প্রথম দফা এবং ৮ ও ১৩ অক্টোবর দুই দফা শুনানি হয়। শুনানি শেষে গত ১৯ অক্টোবর ট্রাইব্যুনাল আবেদনটি খারিজ করে দেন।",
+        "details_en": "On June 30, Tribunal-2 framed formal charges against the 22 accused, ordered the start of trial and set the testimony date. Later, following a review petition by five arrested accused, hearings were held on September 21 and October 8 and 13. The tribunal dismissed the petition on October 19."
       },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 6.0,
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-15T06:01:20.276026+00:00"
+        "checked_at": "2026-11-15T07:01:16.161315+00:00"
       }
     },
     {
-      "story_id": "47a4142c-f8a2-55a0-a234-d32d7bbfd096",
-      "primary_category": "world_diplomacy",
+      "story_id": "ba6bef47-0a0b-5457-8659-57d2dcf4919e",
+      "primary_category": "climate_environment",
       "interest_categories": [
+        "climate_environment",
         "world_diplomacy",
-        "governance_law",
-        "tech_innovation",
-        "society_education"
+        "economy_business"
       ],
       "region": "international",
       "tags": [
-        "#Bahrain",
-        "#Iran"
+        "#Delhi",
+        "#Lahore",
+        "#AirQuality",
+        "#India"
       ],
-      "image_url": "https://th-i.thgim.com/public/news/national/andhra-pradesh/vz2us4/article71704102.ece/alternates/LANDSCAPE_1200/Shaikh%20Rashid%20bin%20Abdullah%20Al%20Khalifa.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/15/india_yamuna_river_pollution.png",
       "image_caption": null,
-      "published_at": "2026-11-15T05:39:39+00:00",
+      "published_at": "2026-11-15T06:15:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.8268,
+      "importance_score": 5.5,
+      "rank_score": 2.8939,
       "sources": [
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/bahrain-interior-ministry-potential-threats-us-navys-fifth-fleet-attack-on-november-15/article71704092.ece",
-          "title": "Sirens sound in Bahrain as Iran’s Guards claim drone attack",
-          "snippet": "Sirens sound in Bahrain as Iran’s Guards claim drone attack"
-        },
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/worldbiz/middle-east/irans-navy-says-three-tankers-fire-after-hitting-mines-hormuz-1602816",
-          "title": "Iran's navy says three tankers on fire after hitting mines in Hormuz",
-          "snippet": "Iran's navy says three tankers on fire after hitting mines in Hormuz"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1179598",
-          "title": "বাহরাইনের সামরিক ঘাটিতে ইরানের ড্রোন হামলা, মার্কিন রাডার ধ্বংস",
-          "snippet": "বাহরাইনের সামরিক ঘাটিতে ইরানের ড্রোন হামলা, মার্কিন রাডার ধ্বংস"
+          "url": "https://www.tbsnews.net/world/south-asia/delhi-overtakes-lahore-worlds-most-polluted-city-air-quality-drops-1602856",
+          "title": "Delhi overtakes Lahore as world's most polluted city as air quality drops",
+          "snippet": "Delhi overtakes Lahore as world's most polluted city as air quality drops"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাহরাইনে ইরানের ড্রোন হামলার পর সাইরেন বাজানো হয়েছে",
-        "title_en": "Sirens sound in Bahrain after Iran claims drone attack",
-        "summary_bn": "ইরানের রেভোলিউশনারি গার্ডসের ড্রোন হামলার দাবির পর ১৫ নভেম্বর ২০২৬ তারিখে বাহরাইনে সাইরেন বাজে এবং বাসিন্দাদের নিরাপদ আশ্রয়ে যেতে বলা হয়।",
-        "summary_en": "Sirens sounded in Bahrain and residents were told to seek shelter on November 15, 2026, after Iran's Guards claimed a drone attack.",
+        "title_bn": "দিল্লির বায়ুমানের অবনতি, বিশ্বের সবচেয়ে দূষিত শহর হিসেবে লাহোরকে ছাড়াল",
+        "title_en": "Delhi overtakes Lahore as world's most polluted city as air quality drops",
+        "summary_bn": "পাকিস্তানের লাহোরকে পেছনে ফেলে ভারতের রাজধানী দিল্লি বিশ্বের সবচেয়ে দূষিত শহরে পরিণত হয়েছে।",
+        "summary_en": "India's capital Delhi overtook Lahore in Pakistan to become the world's most polluted city on Friday.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "climate_environment",
           "world_diplomacy",
-          "governance_law",
-          "tech_innovation",
-          "society_education"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-15T05:39:39+00:00",
-        "lead_bn": "ইরানের রেভোলিউশনারি গার্ডসের ড্রোন হামলার দাবির পর ১৫ নভেম্বর ২০২৬ তারিখে বাহরাইনে সাইরেন বাজে এবং বাসিন্দাদের নিরাপদ আশ্রয়ে যেতে বলা হয়।",
-        "lead_en": "Sirens sounded in Bahrain and residents were told to seek shelter on November 15, 2026, after Iran's Guards claimed a drone attack.",
+        "published_at": "2026-11-15T06:15:00+00:00",
+        "lead_bn": "পাকিস্তানের লাহোরকে পেছনে ফেলে ভারতের রাজধানী দিল্লি বিশ্বের সবচেয়ে দূষিত শহরে পরিণত হয়েছে।",
+        "lead_en": "India's capital Delhi overtook Lahore in Pakistan to become the world's most polluted city on Friday.",
         "bullets_bn": [
-          "ইরানি রাষ্ট্রীয় সম্প্রচারমাধ্যমে প্রকাশিত বিবৃতিতে বলা হয়, বাহরাইনের আল-রিফা হ্যালিকপ্টার ঘাঁটিতে থাকা মার্কিন রাডার সিস্টেমে ইসলামিক রেভোলিউশনারি গার্ডস কর্পসের মহাকাশ বাহিনীর ছয়টি ড্রোন হামলা চালিয়েছে।",
-          "বাহরাইনের স্বরাষ্ট্র মন্ত্রণালয় এক্সে দেওয়া পোস্টে বাসিন্দাদের শান্ত থাকতে, নিকটস্থ নিরাপদ স্থানে যেতে এবং সরকারি মাধ্যমের খবর অনুসরণ করতে অনুরোধ জানিয়েছে।",
-          "হরমোজে সামুদ্রিক মাইনে আঘাত হানার পর একটি এবং পরবর্তীতে আরও দুটিসহ মোট তিনটি ট্যাংকার আগুনে পুড়ছে।"
+          "শহরটির বায়ুমান বিপজ্জনক পর্যায়ে পৌঁছেছে।",
+          "ধোঁয়াশার চাদরে ঢেকে যাওয়ার কারণে দৃশ্যমানতা হ্রাস পেয়েছে।",
+          "দুই কোটি জনসংখ্যার এই শহরটিতে বায়ুদূষণের এই পরিস্থিতি তৈরি হয়েছে।"
         ],
         "bullets_en": [
-          "The IRGC Aerospace Force targeted the U.S. air defense radar system at the Al-Riffa helicopter base in Bahrain with six drones, according to a statement carried by Iranian state broadcaster.",
-          "The interior ministry urged residents on an X post to remain calm, proceed to the nearest safe location, and follow news through official channels.",
-          "Three tankers caught fire after hitting mines in Hormuz, with one hit in the eastern Strait of Hormuz on Saturday morning and two others later in the day."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "যুক্তরাষ্ট্র ও ইসরায়েল কর্তৃক গত ২৮ ফেব্রুয়ারি ইরানের ওপর চালানো আকস্মিক হামলার পর শুরু হওয়া যুদ্ধের সময় থেকে তেহরানের ক্ষোভের শিকার হওয়া বেশ কয়েকটি উপসাগরীয় দেশের একটি হলো বাহরাইন, যেখানে একটি বড় মার্কিন নৌঘাঁটি রয়েছে।",
-        "details_en": "Bahrain, which hosts a major U.S. naval base, is one of several Gulf countries that have borne the brunt of Tehran’s wrath during the war started when the United States and Israel launched surprise attacks on Iran on February 28."
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-15T06:01:20.276026+00:00"
-      }
-    },
-    {
-      "story_id": "5b356870-5711-591e-a012-4b23cf5801d8",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation"
-      ],
-      "region": "international",
-      "tags": [
-        "#Technology",
-        "#Innovation"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-15%2F8hefdzff%2Fed.webp?rect=0%2C0%2C800%2C420&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-15T05:07:14+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.6172,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/usa/x8uw95brqm",
-          "title": "মহাকাশ থেকে ফেরা স্টারশিপ রকেট শূন্যেই লুফে নিয়ে ইতিহাস গড়ল স্পেসএক্স",
-          "snippet": "মহাকাশ থেকে ফেরা স্টারশিপ রকেট শূন্যেই লুফে নিয়ে ইতিহাস গড়ল স্পেসএক্স"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821059/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%8F%E0%A6%B2-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E2%80%98%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A6%B6%E0%A6%BF%E0%A6%AA%E2%80%99-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0",
-          "title": "আকাশ থেকে ফিরে এল বিশালাকার ‘স্টারশিপ’, প্রথমবারের মতো ধরে ফেলল স্পেসএক্স",
-          "snippet": "আকাশ থেকে ফিরে এল বিশালাকার ‘স্টারশিপ’, প্রথমবারের মতো ধরে ফেলল স্পেসএক্স"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "স্পেসএক্স শূন্যে লুফে নিল স্টারশিপ রকেট",
-        "title_en": "SpaceX catches Starship rocket in mid-air",
-        "summary_bn": "ইলন মাস্কের প্রতিষ্ঠান স্পেসএক্স মহাকাশ থেকে ফেরা স্টারশিপ রকেট মাটিতে নামার আগেই যান্ত্রিক বাহুর সাহায্যে শূন্যে লুফে নিয়েছে।",
-        "summary_en": "Elon Musk's company SpaceX has caught a returning Starship rocket in mid-air using mechanical arms before landing.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-15T05:07:14+00:00",
-        "lead_bn": "ইলন মাস্কের প্রতিষ্ঠান স্পেসএক্স মহাকাশ থেকে ফেরা স্টারশিপ রকেট মাটিতে নামার আগেই যান্ত্রিক বাহুর সাহায্যে শূন্যে লুফে নিয়েছে।",
-        "lead_en": "Elon Musk's company SpaceX has caught a returning Starship rocket in mid-air using mechanical arms before landing.",
-        "bullets_bn": [
-          "যুক্তরাষ্ট্রের টেক্সাস অঙ্গরাজ্যের স্টারবেজ উৎক্ষেপণকেন্দ্রে এই সাফল্য অর্জিত হয়েছে।",
-          "এএফপির প্রতিবেদনে বলা হয়েছে, এই প্রযুক্তি সফল হলে মহাকাশ অভিযানের খরচ অনেক কমানো সম্ভব হবে।",
-          "উৎক্ষেপণ টাওয়ারে লাগানো দুটি বিশাল যান্ত্রিক বাহু দিয়ে মহাকাশযানটিকে ধরে ফেলা হয়েছে।"
-        ],
-        "bullets_en": [
-          "This success was achieved at the Starbase launch center in the US state of Texas.",
-          "According to an AFP report, if successful, this technology will significantly reduce space mission costs.",
-          "The spacecraft was caught using two massive mechanical arms attached to the launch tower."
+          "Air quality in the city reached hazardous levels.",
+          "Visibility dropped as smog blanketed the city.",
+          "The conditions affected the city of 20 million people."
         ],
         "impact_bn": null,
         "impact_en": null,
@@ -367,12 +361,12 @@
         "details_en": null
       },
       "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 5.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-15T06:01:20.276026+00:00"
+        "checked_at": "2026-11-15T07:01:16.161315+00:00"
       }
     }
   ]
