@@ -89,6 +89,17 @@ def photo_score(story: dict) -> float:
     return float(story.get("importance_score") or 0) + (0.5 if reel_image(story) else 0.0)
 
 
+FOCUS_COOLDOWN_HOURS = 6
+
+
+def focus_tags(tags: List[str]) -> set:
+    """The tags that say what a post is about (places, people, topics), without the
+    brand, section and audience tags every post shares."""
+    from pipeline.social.hashtags import BRAND, SECTION_TAGS
+    shared = {BRAND.lower(), "#বাংলাদেশ", "#বিশ্ব", *(t.lower() for t in SECTION_TAGS.values())}
+    return {t.lower() for t in tags if t.lower() not in shared}
+
+
 def pick_story(db, story_id: Optional[str] = None, fmt: str = "reel") -> Optional[dict]:
     if story_id:
         snap = db.collection("daily_buzz").document(story_id).get()
@@ -140,7 +151,21 @@ def pick_story(db, story_id: Optional[str] = None, fmt: str = "reel") -> Optiona
             return False
         return True
 
-    pool = [s for s in candidates if allowed(s)] or candidates
+    # Cooldown: a place or person/topic featured in a post in the last few hours is not
+    # featured again, so the Page never runs two posts about the same thing back to back.
+    # This rule is strict: if every candidate overlaps, the slot is skipped.
+    window = (datetime.now(timezone.utc) - timedelta(hours=FOCUS_COOLDOWN_HOURS)).isoformat()
+    recent_focus = set()
+    for p in recent_posts(db, 12):
+        if (p.get("posted_at") or "") >= window:
+            tags = p.get("hashtags") or build_hashtags({"daily_buzz": {"title_bn": p.get("headline", "")}})
+            recent_focus |= focus_tags(tags)
+    fresh = [s for s in candidates if not (focus_tags(build_hashtags(s)) & recent_focus)]
+    if not fresh:
+        print(f"Every candidate repeats a place or topic posted in the last {FOCUS_COOLDOWN_HOURS} hours: {sorted(recent_focus)}")
+        return None
+
+    pool = [s for s in fresh if allowed(s)] or fresh
     pool.sort(key=reel_score if fmt == "reel" else photo_score, reverse=True)
     return pool[0]
 
