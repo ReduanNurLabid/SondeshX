@@ -239,38 +239,101 @@ def _boundaries(texts: list, speech_len: float, pauses: list) -> list:
     return cuts
 
 
+# Reel sound design (News Room News - Spence):
+#   hook: the track's opening seconds play over the intro animation, then fade
+#   voice: headline, then each point; a short music sting fades in and out between parts
+#   tail: music returns under the end card
+HOOK_FROM, HOOK_LEN, HOOK_FADE = 0.6, 6.0, 1.5
+STING_LEN = 2.2
+STING_FROM = [20.0, 32.0, 44.0, 56.0, 68.0]   # different bars of the track for each sting
+TAIL_FROM, TAIL_LEN = 80.0, 3.0
+HEADLINE_GAP = 0.35
+
+
+def _ff(*args):
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", *args], check=True)
+
+
+def _music_piece(path: str, start: float, length: float, fade_in: float, fade_out: float, volume: float = 1.0):
+    _ff("-ss", f"{start}", "-t", f"{length}", "-i", MUSIC_FILE, "-af",
+        f"volume={volume},afade=t=in:d={fade_in},afade=t=out:st={max(0.0, length - fade_out)}:d={fade_out},"
+        "aresample=48000,aformat=channel_layouts=stereo", path)
+
+
+def _voice_piece(path: str, src: str, start: float, end: float):
+    _ff("-ss", f"{start}", "-to", f"{end}", "-i", src, "-af",
+        "volume=1.5,aresample=48000,aformat=channel_layouts=stereo", path)
+
+
+def _silence(path: str, length: float):
+    _ff("-f", "lavfi", "-t", f"{length}", "-i", "anullsrc=channel_layout=stereo:sample_rate=48000", path)
+
+
 def build_voiceover(story: dict, workdir: str):
-    """Returns (voice_wav_path or None, segments, total_duration)."""
-    parts = _script_parts(story)
+    """Builds the whole soundtrack. Returns (audio_wav, segments, total_duration)."""
+    parts = _script_parts(story)              # headline, points..., outro
     texts = [t for _, _, t in parts]
     raw = os.path.join(workdir, "voice_raw.wav")
+    pieces, segments = [], []
+    clock = 0.0
 
-    if _gemini_speech(texts, raw):
+    def add(path: str, length: float):
+        nonlocal clock
+        pieces.append(path)
+        clock += length
+
+    hook = os.path.join(workdir, "hook.wav")
+    _music_piece(hook, HOOK_FROM, HOOK_LEN, 0.15, HOOK_FADE)
+    segments.append({"kind": "intro", "start": 0.0, "end": HOOK_LEN})
+    add(hook, HOOK_LEN)
+
+    voiced = _gemini_speech(texts, raw)
+    if voiced:
         speech_len = media_duration(raw)
         cuts = _boundaries(texts, speech_len, _silences(raw))
-        starts = [0.0] + [LEAD_IN + c for c in cuts]
-        total = round(LEAD_IN + speech_len + 1.2, 3)
-        voice = os.path.join(workdir, "voice.wav")
-        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", raw, "-af",
-                        f"aresample=48000,adelay={int(LEAD_IN * 1000)}:all=1", "-ac", "2", voice], check=True)
+        edges = [0.0] + cuts + [speech_len]
         print(f"Voice: Gemini {TTS_VOICE}")
     else:
-        # Music only: give each part enough time to be read on screen.
-        voice, starts, clock = None, [], 0.0
-        for kind, _, text in parts:
-            starts.append(round(clock, 3))
-            clock += 3.0 if kind == "outro" else max(4.5, min(9.0, len(text) / 14))
-        total = round(clock, 3)
-        print("Voice: none (Gemini voice quota used up); music only")
+        print("Voice: none (Gemini voice quota used up); on-screen text with music only")
 
-    segments = []
-    for n, (kind, index, _) in enumerate(parts):
-        end = starts[n + 1] if n + 1 < len(parts) else total
-        seg = {"kind": kind, "start": starts[n], "end": round(end, 3)}
+    sting_n = 0
+    for n, (kind, index, text) in enumerate(parts):
+        seg_start = clock
+        # A sting leads into every part after the headline; the new card animates in with it.
+        if n >= 1:
+            sting = os.path.join(workdir, f"sting{n}.wav")
+            _music_piece(sting, STING_FROM[sting_n % len(STING_FROM)], STING_LEN, 0.5, 0.9, 0.85)
+            sting_n += 1
+            add(sting, STING_LEN)
+        if voiced:
+            piece = os.path.join(workdir, f"voice{n}.wav")
+            _voice_piece(piece, raw, edges[n], edges[n + 1])
+            add(piece, media_duration(piece))
+        else:
+            bed = os.path.join(workdir, f"bed{n}.wav")
+            read = 3.0 if kind == "outro" else max(4.5, min(9.0, len(text) / 14))
+            _music_piece(bed, 8.0 + 9 * n, read, 0.6, 0.6, 0.45)
+            add(bed, read)
+        if kind == "headline":
+            gap = os.path.join(workdir, "gap.wav")
+            _silence(gap, HEADLINE_GAP)
+            add(gap, HEADLINE_GAP)
+        seg = {"kind": kind, "start": round(seg_start, 3), "end": round(clock, 3)}
         if index is not None:
             seg["index"] = index
         segments.append(seg)
-    return voice, segments, total
+
+    tail = os.path.join(workdir, "tail.wav")
+    _music_piece(tail, TAIL_FROM, TAIL_LEN, 0.4, 1.6, 0.9)
+    add(tail, TAIL_LEN)
+    segments[-1]["end"] = round(clock, 3)
+
+    listing = os.path.join(workdir, "pieces.txt")
+    with open(listing, "w", encoding="utf-8") as fh:
+        fh.writelines(f"file '{p.replace(chr(92), '/')}'\n" for p in pieces)
+    audio = os.path.join(workdir, "soundtrack.wav")
+    _ff("-f", "concat", "-safe", "0", "-i", listing, "-c:a", "pcm_s16le", audio)
+    return audio, segments, round(clock, 3)
 
 
 # ---------------------------------------------------------------- video
@@ -304,31 +367,12 @@ def render_video(story: dict, segments: list, duration: float, base_url: str, wo
     return path
 
 
-def mux(video: str, voice: Optional[str], duration: float, out_path: str):
-    """Voiceover (if any) over a music bed; H.264/AAC 1080x1920 30 fps for Reels."""
-    if os.path.exists(MUSIC_FILE):
-        music_in = ["-stream_loop", "-1", "-i", MUSIC_FILE]
-    else:
-        # Soft synthesized pad: a low major chord with a slow swell.
-        expr = ("0.10*sin(2*PI*130.81*t)+0.07*sin(2*PI*164.81*t)+0.06*sin(2*PI*196*t)"
-                "+0.03*sin(2*PI*261.63*t)")
-        music_in = ["-f", "lavfi", "-i",
-                    f"aevalsrc='({expr})*(0.75+0.25*sin(2*PI*0.12*t))':s=48000:c=stereo"]
-    fade_at = max(0.0, duration - 1.5)
-    subprocess.run(
-        ["ffmpeg", "-y", "-loglevel", "error", "-i", video,
-         *(["-i", voice] if voice else []), *music_in,
-         "-filter_complex",
-         (f"[2:a]volume=0.22,afade=t=in:d=1.2,afade=t=out:st={fade_at}:d=1.5[m];"
-          f"[1:a]volume=1.6[vo];[vo][m]amix=inputs=2:duration=first:dropout_transition=0[a]")
-         if voice else
-         f"[1:a]volume=0.55,afade=t=in:d=1.0,afade=t=out:st={fade_at}:d=1.5[a]",
-         "-map", "0:v:0", "-map", "[a]", "-t", f"{duration}",
-         "-vf", "scale=1080:1920:force_original_aspect_ratio=decrease,pad=1080:1920:(ow-iw)/2:(oh-ih)/2,fps=30",
-         "-c:v", "libx264", "-pix_fmt", "yuv420p", "-profile:v", "high", "-crf", "20",
-         "-c:a", "aac", "-b:a", "160k", "-ar", "48000", "-movflags", "+faststart", out_path],
-        check=True,
-    )
+def mux(video: str, audio: str, duration: float, out_path: str):
+    """Pairs the rendered video with the finished soundtrack; H.264/AAC 1080x1920 30 fps."""
+    _ff("-i", video, "-i", audio, "-map", "0:v:0", "-map", "1:a:0", "-t", f"{duration}",
+        "-vf", "scale=1080:1920:force_original_aspect_ratio=decrease,pad=1080:1920:(ow-iw)/2:(oh-ih)/2,fps=30",
+        "-c:v", "libx264", "-pix_fmt", "yuv420p", "-profile:v", "high", "-crf", "20",
+        "-c:a", "aac", "-b:a", "160k", "-ar", "48000", "-movflags", "+faststart", out_path)
 
 
 # ---------------------------------------------------------------- facebook
@@ -431,7 +475,7 @@ def main():
 
     with tempfile.TemporaryDirectory() as workdir:
         voice, segments, duration = build_voiceover(story, workdir)
-        print(f"Voiceover: {duration:.1f}s, {len(segments)} segments")
+        print(f"Soundtrack: {duration:.1f}s, {len(segments)} segments")
         video = render_video(story, segments, duration, args.base_url, workdir)
         mux(video, voice, duration, args.out)
     print(f"Rendered {args.out} ({os.path.getsize(args.out) // 1024} KB)")

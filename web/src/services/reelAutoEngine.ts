@@ -7,7 +7,7 @@
 // (caption and buttons) or the right 150px (like/comment/share column).
 
 export interface ReelSegment {
-  kind: 'headline' | 'point' | 'outro';
+  kind: 'intro' | 'headline' | 'point' | 'outro';
   start: number; // seconds
   end: number;
   index?: number; // point number, 0-based
@@ -137,23 +137,6 @@ function drawBackground(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: 
 }
 
 function drawTopBar(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: number) {
-  // Segmented progress, one bar per voiced segment.
-  const segs = input.segments;
-  const gap = 8;
-  const barW = (W - 2 * 48 - gap * (segs.length - 1)) / segs.length;
-  segs.forEach((s, i) => {
-    const x = 48 + i * (barW + gap);
-    ctx.fillStyle = 'rgba(255,255,255,0.28)';
-    roundRect(ctx, x, 56, barW, 8, 4);
-    ctx.fill();
-    const p = Math.min(1, Math.max(0, (t - s.start) / Math.max(0.01, s.end - s.start)));
-    if (p > 0) {
-      ctx.fillStyle = C.lime;
-      roundRect(ctx, x, 56, barW * p, 8, 4);
-      ctx.fill();
-    }
-  });
-
   // Brand.
   let x = 48;
   if (input.logo) {
@@ -281,9 +264,106 @@ function drawOutro(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: numbe
   ctx.globalAlpha = 1;
 }
 
+/** Progress around the frame: a lime line fills the border clockwise from the top-left. */
+function drawBorderProgress(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: number) {
+  const inset = 7;
+  const lw = 14;
+  const x0 = inset, y0 = inset, x1 = W - inset, y1 = H - inset;
+  const w = x1 - x0, h = y1 - y0;
+  const perimeter = 2 * (w + h);
+  ctx.save();
+  ctx.lineWidth = lw;
+  ctx.lineCap = 'butt';
+  ctx.strokeStyle = 'rgba(255,255,255,0.16)';
+  ctx.strokeRect(x0, y0, w, h);
+
+  let remaining = perimeter * Math.min(1, Math.max(0, t / input.duration));
+  ctx.strokeStyle = C.lime;
+  ctx.beginPath();
+  ctx.moveTo(x0, y0);
+  const edges: [number, number, number, number][] = [
+    [x0, y0, x1, y0], [x1, y0, x1, y1], [x1, y1, x0, y1], [x0, y1, x0, y0],
+  ];
+  for (const [ax, ay, bx, by] of edges) {
+    const len = Math.hypot(bx - ax, by - ay);
+    if (remaining <= 0) break;
+    const k = Math.min(1, remaining / len);
+    ctx.lineTo(ax + (bx - ax) * k, ay + (by - ay) * k);
+    remaining -= len;
+  }
+  ctx.stroke();
+  ctx.restore();
+}
+
+/** Opening hook, played over the music intro: logo pops in, then the headline. */
+function drawIntro(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: number, seg: ReelSegment) {
+  const local = t - seg.start;
+  const len = Math.max(0.1, seg.end - seg.start);
+  ctx.fillStyle = 'rgba(13,27,36,0.78)';
+  ctx.fillRect(0, 0, W, H);
+
+  const cx = (W - SAFE_R / 2) / 2;
+  const pop = ease(local / 0.7);
+  const settle = local < 0.7 ? 1 + 0.12 * Math.sin(pop * Math.PI) : 1;
+  const size = 300 * pop * settle;
+  const logoTop = 360 - 120 * ease((local - 1.6) / 0.6);   // moves up to make room
+  if (input.logo && size > 1) {
+    ctx.save();
+    roundRect(ctx, cx - size / 2, logoTop, size, size, 52 * (size / 300));
+    ctx.clip();
+    ctx.drawImage(input.logo, cx - size / 2, logoTop, size, size);
+    ctx.restore();
+  }
+
+  ctx.textAlign = 'center';
+  const nameIn = ease((local - 0.5) / 0.5);
+  ctx.globalAlpha = nameIn;
+  ctx.fillStyle = C.white;
+  ctx.font = `700 78px ${FONT}`;
+  ctx.fillText('সন্দেশ এক্সপ্রেস', cx, logoTop + 400 + (1 - nameIn) * 30);
+
+  // Category stamp
+  const stampIn = ease((local - 1.0) / 0.4);
+  ctx.globalAlpha = stampIn;
+  ctx.font = `700 40px ${FONT}`;
+  const label = `${input.category} • ${input.dateLine}`;
+  const lw = ctx.measureText(label).width + 60;
+  ctx.fillStyle = C.lime;
+  roundRect(ctx, cx - lw / 2, logoTop + 450, lw, 72, 36);
+  ctx.fill();
+  ctx.fillStyle = C.ink;
+  ctx.fillText(label, cx, logoTop + 500);
+
+  // Headline reveals line by line in the second half of the hook
+  const { size: hs, lines } = fitText(ctx, input.headline, 700, 72, 52, 5);
+  const lineH = hs * 1.32;
+  const top = logoTop + 620;
+  ctx.font = `700 ${hs}px ${FONT}`;
+  lines.forEach((line, i) => {
+    const a = ease((local - 2.0 - i * 0.35) / 0.45);
+    ctx.globalAlpha = a;
+    ctx.fillStyle = C.white;
+    ctx.fillText(line, cx, top + hs + i * lineH + (1 - a) * 24);
+  });
+
+  // Fade towards the headline scene at the end of the hook
+  const out = ease((local - (len - 0.5)) / 0.5);
+  ctx.globalAlpha = 1;
+  if (out > 0) {
+    ctx.fillStyle = `rgba(13,27,36,${0.6 * out})`;
+    ctx.fillRect(0, 0, W, H);
+  }
+  ctx.textAlign = 'left';
+}
+
 export function drawAutoReelFrame(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: number) {
   const seg = input.segments.find((s) => t >= s.start && t < s.end) || input.segments[input.segments.length - 1];
   drawBackground(ctx, input, t);
+  if (seg.kind === 'intro') {
+    drawIntro(ctx, input, t, seg);
+    drawBorderProgress(ctx, input, t);
+    return;
+  }
   drawTopBar(ctx, input, t);
   if (seg.kind === 'headline') {
     drawHeadline(ctx, input, t, seg, false);
@@ -293,6 +373,7 @@ export function drawAutoReelFrame(ctx: CanvasRenderingContext2D, input: AutoReel
   }
   if (seg.kind !== 'outro') drawSource(ctx, input);
   if (seg.kind === 'outro') drawOutro(ctx, input, t, seg);
+  drawBorderProgress(ctx, input, t);
 }
 
 /** Records the reel in real time and returns a silent video blob. */

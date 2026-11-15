@@ -56,6 +56,7 @@ import { GeminiKeysPanel } from './GeminiKeysPanel';
 import { ReelsPerformancePanel } from './ReelsPerformancePanel';
 import { StudioOverview, StudioSection } from './studio/StudioOverview';
 import { FrontPageBoard } from './studio/FrontPageBoard';
+import { ReelPreview } from './studio/ReelPreview';
 import { LayoutDashboard, Newspaper as NewspaperIcon, LayoutTemplate, BookOpen, Settings as SettingsIcon } from 'lucide-react';
 
 const AUTHORIZED_EMAILS = ['nurreduan.pp@gmail.com', 'reduannurlabid@gmail.com'];
@@ -1106,6 +1107,7 @@ export const EditorialDashboard: React.FC = () => {
               Open the Facebook Reels workflow
             </a>
           </div>
+          <ReelPreview stories={rankedStories} />
           <ReelsPerformancePanel defaultOpen />
         </div>
       )}
