@@ -1,290 +1,213 @@
 {
-  "updated_at": "2026-11-15T12:00:45.457794",
-  "total_stories": 4,
+  "updated_at": "2026-11-15T18:00:49.396597",
+  "total_stories": 3,
   "stories": [
     {
-      "story_id": "26d7828d-f69f-5100-85b5-a0d634f9455c",
-      "primary_category": "governance_law",
+      "story_id": "a5dcc233-0174-5ea1-894c-4693504baf00",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "governance_law"
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#BangladeshBank",
+        "#BangladeshTeaAssociation",
+        "#KamranTanvirurRahman"
       ],
-      "image_url": "https://images.unsplash.com/photo-1693585172757-b9e057feb878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFybGlhbWVudCUyMGxhdyUyMGNvdXJ0JTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk0NzQ0MDg0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1674498260932-6f7d8eed6d9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8dGVhJTIwZXN0YXRlJTIwb3duZXJzJTIwc291Z2h0JTIwYnVzaW5lc3N8ZW58MXwwfHx8MTc5NDc2NTY5OHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-15T11:16:07+00:00",
+      "published_at": "2026-11-15T18:00:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 8.75,
-      "rank_score": 7.3304,
+      "importance_score": 7.0,
+      "rank_score": 4.8929,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/b14phd2bos",
-          "title": "গোপালগঞ্জের ডিসি-এসপিকে সরিয়ে দেওয়া হলো",
-          "snippet": "গোপালগঞ্জের ডিসি-এসপিকে সরিয়ে দেওয়া হলো"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/gopalganj-dc-and-sp-withdrawn-and-transferred/",
-          "title": "গোপালগঞ্জের ডিসি-এসপিকে প্রত্যাহার",
-          "snippet": "গোপালগঞ্জের ডিসি-এসপিকে প্রত্যাহার"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/981071/%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A6%BF-%E0%A6%8F%E0%A6%B8%E0%A6%AA%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%A6%E0%A6%BE%E0%A7%9F%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A7%87",
-          "title": "গোপালগঞ্জের ডিসি-এসপি প্রত্যাহার, নতুন দায়িত্বে দুই কর্মকর্তা",
-          "snippet": "গোপালগঞ্জের ডিসি-এসপি প্রত্যাহার, নতুন দায়িত্বে দুই কর্মকর্তা"
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/economy/news/tea-estate-owners-seek-tk-2500cr-low-interest-lifeline-4324786",
+          "title": "Tea estate owners seek Tk 2,500cr low-interest lifeline",
+          "snippet": "Tea estate owners seek Tk 2,500cr low-interest lifeline"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গোপালগঞ্জের ডিসি ও এসপিকে প্রত্যাহার করেছে সরকার",
-        "title_en": "Government withdraws Gopalganj DC and SP",
-        "summary_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতাকর্মীদের সশস্ত্র মিছিলের পর গোপালগঞ্জের জেলা প্রশাসক ও পুলিশ সুপারকে বদলি করা হয়েছে।",
-        "summary_en": "The government has transferred Gopalganj district's DC and SP following armed processions by leaders and activists of the banned Awami League.",
+        "title_bn": "চা বাগান মালিকরা বাংলাদেশ ব্যাংকের কাছে ঋণ সুবিধা চেয়েছেন",
+        "title_en": "Tea estate owners sought loans from Bangladesh Bank",
+        "summary_bn": "চা বাগান মালিক ও planters খাতটি পুনরুজ্জীবিত করতে বাংলাদেশ ব্যাংকের কাছে ২ হাজার কোটি থেকে ২ হাজার ৫০০ কোটি টাকার কম সুদের তহবিল চেয়েছেন।",
+        "summary_en": "Tea estate owners and planters have sought a Tk 2,000 crore to Tk 2,500 crore low-interest fund from Bangladesh Bank to revive the sector.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-15T11:16:07+00:00",
-        "lead_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতাকর্মীদের সশস্ত্র মিছিলের পর গোপালগঞ্জের জেলা প্রশাসক ও পুলিশ সুপারকে বদলি করা হয়েছে।",
-        "lead_en": "The government has transferred Gopalganj district's DC and SP following armed processions by leaders and activists of the banned Awami League.",
+        "published_at": "2026-11-15T18:00:00+00:00",
+        "lead_bn": "চা বাগান মালিক ও planters খাতটি পুনরুজ্জীবিত করতে বাংলাদেশ ব্যাংকের কাছে ২ হাজার কোটি থেকে ২ হাজার ৫০০ কোটি টাকার কম সুদের তহবিল চেয়েছেন।",
+        "lead_en": "Tea estate owners and planters have sought a Tk 2,000 crore to Tk 2,500 crore low-interest fund from Bangladesh Bank to revive the sector.",
         "bullets_bn": [
-          "গোপালগঞ্জের জেলা প্রশাসক মো. আরিফ-উজ-জামানকে প্রত্যাহার করে জনপ্রশাসন মন্ত্রণালয়ে সংযুক্ত করা হয়েছে।",
-          "হবিগঞ্জের ডিসি জি এম সরফরাজকে গোপালগঞ্জের নতুন জেলা প্রশাসক হিসেবে দায়িত্ব দেওয়া হয়েছে।",
-          "গোপালগঞ্জের পুলিশ সুপার মো. হাবীবুল্লাহকে ফেনীর এসপি হিসেবে বদলি করা হয়েছে।"
+          "বাংলাদেশ ব্যাংক ও বাংলাদেশ চা অ্যাসোসিয়েশনের মধ্যে কেন্দ্রীয় ব্যাংক কার্যালয়ে একটি বৈঠক অনুষ্ঠিত হয়।",
+          "বাংলাদেশ ব্যাংকের গভর্নর মোশতাকুর রহমান বৈঠকে সভাপতিত্ব করেন এবং বিটিএ চেয়ারম্যান কামরান তানভীরুর রহমান চা খাত প্রতিনিধি দলের নেতৃত্ব দেন।",
+          "চা খাত ক্ষতিগ্রস্ত হয়েছে উল্লেখ করে সহজ শর্তে ঋণ পুনঃতফসিল সুবিধা দাবি করা হয়।"
         ],
         "bullets_en": [
-          "Gopalganj Deputy Commissioner Md. Arif-uz-Zaman has been withdrawn and attached to the Ministry of Public Administration.",
-          "Habiganj DC GM Sarfaraz has been assigned as the new DC of Gopalganj.",
-          "Gopalganj Police Superintendent Md. Habibullah has been transferred as the SP of Feni."
+          "A meeting was held between Bangladesh Bank and the Bangladesh Tea Association at the central bank headquarters.",
+          "Bangladesh Bank Governor Md Mostaqur Rahman presided over the meeting, while BTA Chairman Kamran Tanvirur Rahman led the delegation.",
+          "The sector representatives demanded easier terms for loan rescheduling as the tea sector has already been damaged."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "গোপালগঞ্জ শহরে কার্যক্রম নিষিদ্ধ আওয়ামী লীগ ও সহযোগী সংগঠনের নেতাকর্মীরা লাঠিসোঁটা, রামদা, চায়নিজ কুড়ালসহ দেশি অস্ত্র নিয়ে মিছিল ও মহড়া দেন। এই পরিস্থিতির মধ্যেই জনপ্রশাসন ও স্বরাষ্ট্র মন্ত্রণালয়ের পৃথক প্রজ্ঞাপনে জেলা প্রশাসন ও পুলিশের শীর্ষ এই পদে পরিবর্তন আনা হয়।",
-        "details_en": "Leaders and activists of the banned Awami League and associated organizations brought out processions carrying local weapons including sticks, ramdas, and Chinese axes in Gopalganj town. Amidst this situation, the Ministry of Public Administration and the Ministry of Public Security issued separate notifications changing these top positions in the district administration and police."
+        "details_bn": "বাংলাদেশ ব্যাংকের সঙ্গে বাংলাদেশ চা অ্যাসোসিয়েশনের বৈঠকে খাতটির প্রতিনিধিরা এই দাবি জানান। কামরান তানভীরুর রহমান দ্য ডেইলি স্টারকে জানান যে খাতের সুরক্ষায় এই অর্থায়ন প্রয়োজন। চা একটি কৃষিভিত্তিক শিল্প এবং একে অন্যান্য খাতের সঙ্গে তুলনা করা উচিত নয় বলে তিনি উল্লেখ করেন। এছাড়া জুলাই মাসে প্রধানমন্ত্রী তারিক রহমান উৎপাদন বৃদ্ধি ও দীর্ঘদিনের সমস্যা সমাধানে চা শিল্পকে সব ধরনের সহযোগিতার আশ্বাস দিয়েছিলেন। সরকারও এই শিল্পকে এগিয়ে নিতে নীতিগত, আর্থিক ও প্রাতিষ্ঠানিক সহায়তার প্রতিশ্রুতি দিয়েছে।",
+        "details_en": "The demands were placed at a meeting between Bangladesh Bank and the Bangladesh Tea Association at the central bank headquarters. Kamran told The Daily Star that the sector needs low-cost financing and loan rescheduling as it has already been damaged. He added that tea is an agro-based industry and should not be compared with other sectors. In July this year, Prime Minister Tarique Rahman assured the tea industry of all necessary cooperation to boost production and address problems, while the government pledged policy, financial and institutional support."
       },
-      "desk_importance": 8.0,
-      "outlet_count": 3,
-      "trending": true,
-      "social_appeal": 9.0,
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-15T12:01:43.211210+00:00"
+        "checked_at": "2026-11-15T18:02:10.728303+00:00"
       }
     },
     {
-      "story_id": "be8f00d6-dd45-5466-8de6-2d000d3acf28",
+      "story_id": "e872e583-6691-58ca-bf5b-766e355364b7",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#BangladeshBank",
+        "#DefaultLoans",
+        "#BankingSector"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1616803140344-6682afb13cda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFua3MlMjBhY2NvdW50JTIwcGVyY2VudCUyMGRlZmF1bHQlMjBidXNpbmVzc3xlbnwxfDB8fHwxNzk0NzY1NzA3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-15T18:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.0,
+      "rank_score": 4.8929,
+      "sources": [
+        {
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/economy/news/15-banks-account-85-default-loans-bb-4324796",
+          "title": "15 banks account for 85% of default loans: BB",
+          "snippet": "15 banks account for 85% of default loans: BB"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "১৫টি ব্যাংক খেলাপির ৮৫ শতাংশ নিয়ন্ত্রণ করে",
+        "title_en": "15 banks account for 85 percent of default loans",
+        "summary_bn": "বাংলাদেশ ব্যাংকের প্রতিবেদনে বলা হয়েছে, ১৫টি ব্যাংক ছয় লাখ কোটি টাকার বেশি খেলাপি ঋণের ৮৫ শতাংশের বেশি নিয়ন্ত্রণ করে।",
+        "summary_en": "Fifteen banks account for more than 85 percent of the over Tk 600,000 crore in non-performing loans, according to Bangladesh Bank.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-15T18:00:00+00:00",
+        "lead_bn": "বাংলাদেশ ব্যাংকের প্রতিবেদনে বলা হয়েছে, ১৫টি ব্যাংক ছয় লাখ কোটি টাকার বেশি খেলাপি ঋণের ৮৫ শতাংশের বেশি নিয়ন্ত্রণ করে।",
+        "lead_en": "Fifteen banks account for more than 85 percent of the over Tk 600,000 crore in non-performing loans, according to Bangladesh Bank.",
+        "bullets_bn": [
+          "দেশের ৬১টি তফসিলি বাণিজ্যিক ব্যাংকের মোট শ্রেণীকৃত ঋণ ২০২৫-২৬ অর্থবছরের চতুর্থ প্রান্তিকে বেড়েছে।",
+          "বাংলাদেশ ব্যাংক জানিয়েছে, সম্প্রতি একীভূত হওয়া পাঁচটি শরিয়াহভিত্তিক ব্যাংক বাদ দিলে অন্য ১০টি ব্যাংক মোট শ্রেণীকৃত ঋণের ৫৭ শতাংশের বেশি ধরে রেখেছে।",
+          "চতুর্থ প্রান্তিকে ব্যাংক খাতের মূলধন পর্যাপ্ততা আরও কমে গেছে।"
+        ],
+        "bullets_en": [
+          "Total classified loans across the countrys 61 scheduled commercial banks rose in the fourth quarter of fiscal year 2025-26.",
+          "Excluding five recently merged shariah-based banks, 10 other banks held more than 57 percent of total classified loans, the central bank said.",
+          "Capital adequacy in the banking sector deteriorated further in the fourth quarter of FY26."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বাংলাদেশ ব্যাংক প্রকাশিত এপ্রিল-জুন ২০২৬ ত্রৈমাসিক প্রতিবেদনে বলা হয়েছে, সার্বিক স্থূল খেলাপি ঋণের অনুপাত পূর্ববর্তী প্রান্তিকের ৩২.২৬ শতাংশ থেকে বেড়ে ৩২.৭৮ শতাংশ হয়েছে। কেন্দ্রীয় ব্যাংক জানিয়েছে, ব্যাংকিং খাত সম্পদ মানের গুণগত দুর্বলতা, মূলধন পর্যাপ্ততা এবং মুনাফর্জনের ক্ষেত্রে কাঠামোগত চ্যালেঞ্জের মুখে রয়েছে।",
+        "details_en": "The Bangladesh Bank Quarterly report for April-June 2026 shows the aggregate gross NPL ratio rose to 32.78 percent from 32.26 percent in the preceding quarter. The central bank stated that the banking sector continued to face structural challenges stemming from persistent weaknesses in asset quality, capital adequacy and profitability."
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-15T18:02:10.728303+00:00"
+      }
+    },
+    {
+      "story_id": "da4b92d8-28f7-5d61-b5b2-ce2128a3c0eb",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
+        "tech_innovation",
         "society_education"
       ],
       "region": "national",
       "tags": [
-        "#AwamiLeague",
-        "#Gopalganj",
-        "#BangladeshPolice"
+        "#Rampura",
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/15/910229179_1804928887388970_7540680250861866961_n.jpg",
+      "image_url": "https://images.unsplash.com/photo-1788738089055-2cdf0ac0cf4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8aW50ZXJuZXQlMjBzZXJ2aWNlJTIwcHJvdmlkZXIlMjBlbXBsb3llZXMlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTQ3NjU3MDl8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-15T10:35:00+00:00",
+      "published_at": "2026-11-15T17:44:16+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 8.5,
-      "rank_score": 6.6489,
+      "importance_score": 6.5,
+      "rank_score": 4.1554,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/crime/banned-awami-league-activists-stage-mass-procession-gopalganj-vandalise-july",
-          "title": "Banned AL supporters stage mass procession in Gopalganj, vandalise July memorial, police assets",
-          "snippet": "Banned AL supporters stage mass procession in Gopalganj, vandalise July memorial, police assets"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/crime/424741/two-shot-at-rampura-internet-firm-over-tk10-lakh",
+          "title": "Two internet service provider employees shot in Rampura",
+          "snippet": "Two internet service provider employees shot in Rampura"
+        },
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/capital/post-1221047/",
+          "title": "চাঁদার দাবিতে ইন্টারনেট সরবরাহকারী প্রতিষ্ঠানে গুলি, আহত ২",
+          "snippet": "চাঁদার দাবিতে ইন্টারনেট সরবরাহকারী প্রতিষ্ঠানে গুলি, আহত ২"
         },
         {
           "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821130/%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%B2%E0%A6%97%E0%A6%BF-%E0%A6%AC%E0%A7%88%E0%A6%A0%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A6%AC",
-          "title": "গোপালগঞ্জে লগি-বৈঠা নিয়ে আওয়ামী লীগের তাণ্ডব: পুলিশ বক্স ও এপিসি ভাঙচুর",
-          "snippet": "গোপালগঞ্জে লগি-বৈঠা নিয়ে আওয়ামী লীগের তাণ্ডব: পুলিশ বক্স ও এপিসি ভাঙচুর"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/country/498134",
-          "title": "লগি-বইঠা-রামদা হাতে গোপালগঞ্জে কার্যক্রম নিষিদ্ধ আ.লীগের মিছিল, ভাঙচুর",
-          "snippet": "লগি-বইঠা-রামদা হাতে গোপালগঞ্জে কার্যক্রম নিষিদ্ধ আ.লীগের মিছিল, ভাঙচুর"
+          "url": "https://www.ittefaq.com.bd/821188/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%9A%E0%A6%BE%E0%A6%81%E0%A6%A6%E0%A6%BE-%E0%A6%A8%E0%A6%BE-%E0%A6%AA%E0%A7%87%E0%A7%9F%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A7%A8",
+          "title": "রাজধানীর রামপুরায় চাঁদা না পেয়ে হামলা, গুলিবিদ্ধ ২",
+          "snippet": "রাজধানীর রামপুরায় চাঁদা না পেয়ে হামলা, গুলিবিদ্ধ ২"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গোপালগঞ্জে নিষিদ্ধ আওয়ামী লীগ ও অঙ্গসংগঠনের নেতাকর্মীদের বিক্ষোভ ও ভাঙচুর",
-        "title_en": "Banned AL supporters stage mass procession and vandalism in Gopalganj",
-        "summary_bn": "১৫ নভেম্বর গোপালগঞ্জ জেলা শহরে নিষিদ্ধঘোষিত আওয়ামী লীগ ও এর অঙ্গসংগঠনের নেতাকর্মীরা মিছিল বের করে জুলাই স্মৃতিস্তম্ভ, পুলিশ বক্স ও এপিসি ভাঙচুর করেন।",
-        "summary_en": "On 15 November, leaders and activists of the banned Awami League and its affiliated organisations staged processions and vandalised the July Memorial Monument and police assets in Gopalganj.",
+        "title_bn": "রামপুরায় ইন্টারনেট প্রতিষ্ঠানে দুর্বৃত্তের গুলিতে দুই কর্মী আহত",
+        "title_en": "Two internet service provider employees shot in Rampura",
+        "summary_bn": "রাজধানীর রামপুরায় চাঁদা না পেয়ে একটি ইন্টারনেট সেবা প্রতিষ্ঠানে হামলা চালিয়ে দুই কর্মীকে গুলি করেছে দুর্বৃত্তরা।",
+        "summary_en": "Gunmen shot two employees during an attack on an internet service provider in Rampura.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law",
+          "tech_innovation",
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-15T10:35:00+00:00",
-        "lead_bn": "১৫ নভেম্বর গোপালগঞ্জ জেলা শহরে নিষিদ্ধঘোষিত আওয়ামী লীগ ও এর অঙ্গসংগঠনের নেতাকর্মীরা মিছিল বের করে জুলাই স্মৃতিস্তম্ভ, পুলিশ বক্স ও এপিসি ভাঙচুর করেন।",
-        "lead_en": "On 15 November, leaders and activists of the banned Awami League and its affiliated organisations staged processions and vandalised the July Memorial Monument and police assets in Gopalganj.",
+        "published_at": "2026-11-15T17:44:16+00:00",
+        "lead_bn": "রাজধানীর রামপুরায় চাঁদা না পেয়ে একটি ইন্টারনেট সেবা প্রতিষ্ঠানে হামলা চালিয়ে দুই কর্মীকে গুলি করেছে দুর্বৃত্তরা।",
+        "lead_en": "Gunmen shot two employees during an attack on an internet service provider in Rampura.",
         "bullets_bn": [
-          "মিছিলগুলোতে অংশগ্রহণকারীরা লাঠি, রাম দা, চায়নিজ কুড়াল, লগি-বৈঠাসহ বিভিন্ন দেশি অস্ত্র বহন করেন।",
-          "বিক্ষোভকারীরা শহরের বিভিন্ন সড়ক প্রদক্ষিণ করে ব্যাংকপাড়ায় অবস্থিত জেলা আওয়ামী লীগের কার্যালয় খুলে ভেতরে উৎসব করেন।",
-          "আগামী ১৯ নভেম্বর দেশব্যাপী সকাল-সন্ধ্যা লকডাউন কর্মসূচি সফল করার দাবিতে এই বিক্ষোভের আয়োজন করা হয়।"
+          "ঘটনাটি ঘটেছে ১৫ নভেম্বর সন্ধ্যা ৭টার দিকে রামপুরা ওয়াবদা রোডে তাকওয়া মসজিদের পাশে স্পিড টাচ নেটওয়ার্ক টেকনোলজি প্রতিষ্ঠানে।",
+          "চার থেকে পাঁচজন তরুণ প্রতিষ্ঠানে প্রবেশ করে এই গুলিবর্ষণের ঘটনা ঘটায়।",
+          "আহত দুই কর্মীকে ঢাকা মেডিকেল কলেজ হাসপাতালে চিকিৎসা দেওয়া হচ্ছে।"
         ],
         "bullets_en": [
-          "Participants in the processions carried locally made weapons including sticks, machetes, Chinese axes, spears, and logi-baitha.",
-          "Demonstrators marched through various roads and opened the locked district Awami League office in Bankpara to celebrate inside.",
-          "The demonstrations were organised to mobilise support for a nationwide dawn-to-dusk lockdown scheduled for 19 November."
+          "The incident occurred at Speed Touch Network Technology near Taqwa Mosque on Wapda Road in Rampura at 7:00 pm on 15 November.",
+          "Four to five young men entered the office and opened fire during the attack.",
+          "The two injured employees are receiving treatment at Dhaka Medical College Hospital."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "সকাল আটটা থেকে গোপালগঞ্জ সদর উপজেলার ঘোসড়চর উত্তরপাড়ায় সালাউদ্দিন খানের বাড়িতে বিভিন্ন ইউনিয়নের কর্মীরা জড়ো হয়ে খাবার খাওয়ার পর গ্যাটতলা মোড়ে সমবেত হন। সালাউদ্দিন খান, মো. সামিউল হক তনু এবং সাবেক কাউন্সিলর আলামিনের নেতৃত্বে বিভিন্ন এলাকা থেকে ছোট বড় মিছিল এসে শহরের বিভিন্ন স্থানে প্রদক্ষিণ করে।",
-        "details_en": "Starting from around 8am, activists gathered at the house of Salauddin Khan in Ghosherchar Uttarpara before assembling at Gabtala intersection. Led by figures including Salauddin Khan, Md Samiul Haque Tanu, and former councillor Alamin, processions from various areas marched through different parts of the town."
+        "details_bn": "রাজধানীর রামপুরা ওয়াবদা রোডে স্পিড টাচ নেটওয়ার্ক অ্যান্ড টেকনোলজি নামক ইন্টারনেট সেবা প্রদানকারী প্রতিষ্ঠানে চাঁদা দাবিকে কেন্দ্র করে এই হামলার ঘটনা ঘটে।",
+        "details_en": "The attack occurred at Speed Touch Network Technology on Wapda Road in Rampura over demands for extortion money."
       },
-      "desk_importance": 8.0,
+      "desk_importance": 6.0,
       "outlet_count": 3,
       "trending": false,
-      "social_appeal": 9.0,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-15T12:01:43.211210+00:00"
-      }
-    },
-    {
-      "story_id": "7a88439e-69b7-5b24-bd20-ec81b002b563",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-15%2Fntmler2n%2F6.jpeg?rect=8%2C0%2C1528%2C802&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-15T11:39:04+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 5.145,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/education/admission/80p8dxpin5",
-          "title": "গুচ্ছভুক্ত কৃষি বিশ্ববিদ্যালয়গুলোর ভর্তির আবেদন জানুয়ারিতে, পরীক্ষা ফেব্রুয়ারিতে",
-          "snippet": "গুচ্ছভুক্ত কৃষি বিশ্ববিদ্যালয়গুলোর ভর্তির আবেদন জানুয়ারিতে, পরীক্ষা ফেব্রুয়ারিতে"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/education/news/1179763",
-          "title": "পেছাচ্ছে না কৃষিগুচ্ছ ভর্তি পরীক্ষা, ২ জানুয়ারিই অনুষ্ঠিত হবে",
-          "snippet": "পেছাচ্ছে না কৃষিগুচ্ছ ভর্তি পরীক্ষা, ২ জানুয়ারিই অনুষ্ঠিত হবে"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "কৃষি গুচ্ছের ভর্তি আবেদন জানুয়ারি ও পরীক্ষা ফেব্রুয়ারিতে আয়োজনের পরিকল্পনা",
-        "title_en": "Agriculture cluster admission application planned for January and test in February",
-        "summary_bn": "২০২৬-২৭ শিক্ষাবর্ষে গুচ্ছভুক্ত কৃষি ও কৃষিপ্রধান বিশ্ববিদ্যালয়গুলোতে স্নাতক প্রথম বর্ষের ভর্তির আবেদন জানুয়ারি থেকে শুরু ও ফেব্রুয়ারি পরীক্ষা আয়োজনের পরিকল্পনা করা হয়েছে।",
-        "summary_en": "Application for undergraduate admission in agriculture cluster universities for the 2026-27 academic year is planned to start in January with tests in February.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-15T11:39:04+00:00",
-        "lead_bn": "২০২৬-২৭ শিক্ষাবর্ষে গুচ্ছভুক্ত কৃষি ও কৃষিপ্রধান বিশ্ববিদ্যালয়গুলোতে স্নাতক প্রথম বর্ষের ভর্তির আবেদন জানুয়ারি থেকে শুরু ও ফেব্রুয়ারি পরীক্ষা আয়োজনের পরিকল্পনা করা হয়েছে।",
-        "lead_en": "Application for undergraduate admission in agriculture cluster universities for the 2026-27 academic year is planned to start in January with tests in February.",
-        "bullets_bn": [
-          "ইউজিসিতে দেশের কৃষি বিশ্ববিদ্যালয়গুলোর উপাচার্যদের সঙ্গে এক মতবিনিময় সভায় এই আলোচনা হয়।",
-          "ভর্তি পরীক্ষার মানোন্নয়ন ও দীর্ঘসূত্রতা কমাতে উপাচার্যদের নিয়ে একটি কমিটি গঠনের প্রস্তাব দেন ইউজিসির চেয়ারম্যান অধ্যাপক মামুন আহমেদ।",
-          "উপাচার্যরা জানান কৃষি গুচ্ছের ভর্তি পরীক্ষায় প্রতিবছর প্রায় এক লাখ ভর্তি-ইচ্ছুক শিক্ষার্থী অংশ নেন।"
-        ],
-        "bullets_en": [
-          "This was discussed in an exchange meeting with vice-chancellors of agricultural universities at the UGC.",
-          "UGC Chairman Professor Mamun Ahmed proposed forming a committee of vice-chancellors to improve admission tests and reduce delays.",
-          "Vice-chancellors stated that about one lakh admission-seeking students participate in the agriculture cluster admission test every year."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সভায় উপাচার্যরা জানান কৃষি গুচ্ছের ভর্তি পরীক্ষায় প্রতিবছর প্রায় এক লাখ ভর্তি-ইচ্ছুক শিক্ষার্থী অংশ নেন। তবে অপেক্ষমাণ তালিকা থেকে ভর্তি ও বিষয় পরিবর্তনপ্রক্রিয়া সম্পন্ন করতে প্রায় চার মাস সময় লাগে। এতে আসন পূরণে জটিলতা তৈরি হয় ও শিক্ষা কার্যক্রম শুরু করতে দেরি হয়। পরে ইউজিসির সংবাদ বিজ্ঞপ্তিতে এ তথ্য জানানো হয়।",
-        "details_en": "Vice-chancellors stated in the meeting that about one lakh admission-seeking students participate in the agriculture cluster admission test every year. However, completing admission from the waiting list and subject change process takes about four months. This creates complications in filling seats and delays the start of educational activities. This information was later informed in a UGC press release."
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-15T12:01:43.211210+00:00"
-      }
-    },
-    {
-      "story_id": "0c9cfc34-6b00-55ae-88c5-e12415e25d7d",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment"
-      ],
-      "region": "international",
-      "tags": [
-        "#ClimateFunding",
-        "#ClimateVulnerable"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1570095378004-ce65d6c2d5bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8dHVybmluZyUyMGNsaW1hdGUlMjBmdW5kaW5nJTIwcGxlZGdlcyUyMGVudmlyb25tZW50fGVufDF8MHx8fDE3OTQ3NDQxMDN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-15T11:50:48+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.4748,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/424695/climate-funding-turning-pledges-into-action",
-          "title": "Climate funding: Turning pledges into action remains a challenge",
-          "snippet": "Climate funding: Turning pledges into action remains a challenge"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জলবায়ু তহবিলে প্রতিশ্রুতি বাস্তবায়ন এখনও একটি চ্যালেঞ্জ হিসেবে রয়ে গেছে",
-        "title_en": "Turning climate funding pledges into action remains a challenge",
-        "summary_bn": "বিশেষজ্ঞরা জোর দিয়ে বলেছেন যে জলবায়ু তহবিল অবশ্যই জলবায়ু ঝুঁকিপূর্ণ জনগোষ্ঠীর কাছে পৌঁছাতে হবে এবং পরিমাপযোগ্য সুফল দিতে হবে।",
-        "summary_en": "Experts stress that funding must reach climate-vulnerable communities and deliver measurable benefits.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-15T11:50:48+00:00",
-        "lead_bn": "বিশেষজ্ঞরা জোর দিয়ে বলেছেন যে জলবায়ু তহবিল অবশ্যই জলবায়ু ঝুঁকিপূর্ণ জনগোষ্ঠীর কাছে পৌঁছাতে হবে এবং পরিমাপযোগ্য সুফল দিতে হবে।",
-        "lead_en": "Experts stress that funding must reach climate-vulnerable communities and deliver measurable benefits.",
-        "bullets_bn": [
-          "বিশেষজ্ঞরা জলবায়ু তহবিলের প্রতিশ্রুতি বাস্তবায়নের ওপর গুরুত্বারোপ করেছেন।",
-          "তহবিল থেকে জলবায়ু ঝুঁকিপূর্ণ জনগোষ্ঠী উপকৃত হওয়ার কথা বলা হয়েছে।",
-          "এই তহবিলের সুবিধাগুলো পরিমাপযোগ্য হতে হবে বলে জানানো হয়েছে।"
-        ],
-        "bullets_en": [
-          "Experts have emphasized the implementation of climate funding pledges.",
-          "It is stated that climate-vulnerable communities should benefit from the funding.",
-          "The benefits of this funding must be measurable."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 4.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-15T12:01:43.211210+00:00"
+        "checked_at": "2026-11-15T18:02:10.728303+00:00"
       }
     }
   ]
