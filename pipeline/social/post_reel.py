@@ -155,8 +155,23 @@ def reel_image(story: dict) -> Optional[str]:
 
 
 # ---------------------------------------------------------------- voiceover
+BACKUP_VOICE = "bn-BD-PradeepNeural"
+
+
 async def _speak(text: str, path: str):
-    await edge_tts.Communicate(text, VOICE, rate="+4%").save(path)
+    """The free neural voice service occasionally returns no audio; retry, then fall
+    back to default speed, then to the second Bangladeshi voice."""
+    attempts = [(VOICE, "+4%"), (VOICE, "+4%"), (VOICE, "+0%"), (BACKUP_VOICE, "+0%")]
+    last_err = None
+    for n, (voice, rate) in enumerate(attempts):
+        try:
+            await edge_tts.Communicate(text, voice, rate=rate).save(path)
+            if os.path.getsize(path) > 0:
+                return
+        except Exception as err:  # NoAudioReceived, network errors
+            last_err = err
+        await asyncio.sleep(2 + 3 * n)
+    raise RuntimeError(f"Voiceover failed after {len(attempts)} attempts: {last_err}")
 
 
 def media_duration(path: str) -> float:
@@ -339,9 +354,17 @@ def main():
     parser.add_argument("--story-id")
     parser.add_argument("--dry-run", action="store_true", help="render the video but do not post it")
     parser.add_argument("--out", default="reel.mp4", help="where to keep the rendered video")
+    parser.add_argument("--min-gap-minutes", type=int, default=0,
+                        help="skip if the last Reel was posted less than this many minutes ago")
     args = parser.parse_args()
 
     db = get_firestore_client()
+    if args.min_gap_minutes and not args.story_id:
+        last = recent_posts(db, 1)
+        last_at = _parse_time(last[0].get("posted_at")) if last else None
+        if last_at and datetime.now(timezone.utc) - last_at < timedelta(minutes=args.min_gap_minutes):
+            print(f"Last Reel posted at {last_at.isoformat()}; skipping this slot (minimum gap {args.min_gap_minutes} min).")
+            return
     story = pick_story(db, args.story_id)
     if not story:
         print(f"No eligible story this slot (fact-checked, importance >= {MIN_IMPORTANCE}, appeal >= {MIN_APPEAL}, last {LOOKBACK_HOURS} hours, not yet posted).")

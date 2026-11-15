@@ -2,8 +2,9 @@ name: Facebook Reels
 
 on:
   schedule:
-    # Every 2 hours from 07:40 to 23:40 Bangladesh time (UTC+6): up to 9 Reels a day.
-    # A slot is skipped when no story is strong enough (see pipeline/social/post_reel.py).
+    # Reels are normally started by the hourly news pipeline (every 2 hours, 07:00-23:00
+    # Bangladesh time), which cron-job.org triggers reliably. This schedule is only a
+    # backup; the job skips itself if a Reel went out in the last 100 minutes.
     - cron: '40 1-17/2 * * *'
     # Daily performance check for the last week's Reels, 05:10 Bangladesh time.
     - cron: '10 23 * * *'
@@ -19,6 +20,10 @@ on:
         default: ''
       insights_only:
         description: 'Only refresh Reel performance numbers'
+        type: boolean
+        default: false
+      auto:
+        description: 'Started by the news pipeline (keeps Reels spaced out)'
         type: boolean
         default: false
 
@@ -90,6 +95,9 @@ jobs:
           PYTHONPATH: .
         run: |
           ARGS="--base-url http://localhost:4173 --out reel.mp4"
+          if [ -z "${{ inputs.story_id }}" ] && { [ "${{ github.event_name }}" = "schedule" ] || [ "${{ inputs.auto }}" = "true" ]; }; then
+            ARGS="$ARGS --min-gap-minutes 100"
+          fi
           if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.dry_run }}" = "true" ]; then
             ARGS="$ARGS --dry-run"
           fi

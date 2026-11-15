@@ -20,7 +20,7 @@ concurrency:
 
 permissions:
   contents: write
-  actions: read
+  actions: write
   issues: write
 
 jobs:
@@ -114,6 +114,21 @@ jobs:
           GOOGLE_APPLICATION_CREDENTIALS="$RUNNER_TEMP/sa.json" \
             npx --yes firebase-tools@15 deploy --only hosting:sondesh --project dorpon-a99a6 --non-interactive
           rm -f "$RUNNER_TEMP/sa.json"
+
+      # Start a Facebook Reel every 2 hours from 07:00 to 23:00 Bangladesh time.
+      - name: Start Facebook Reel For This Slot
+        if: steps.guard.outputs.skip != 'true'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          hour=$(TZ=Asia/Dhaka date +%-H)
+          if [ "$hour" -ge 7 ] && [ "$hour" -le 23 ] && [ $((hour % 2)) -eq 1 ]; then
+            gh workflow run facebook_reels.yml --repo "$GITHUB_REPOSITORY" --ref main -f dry_run=false -f auto=true
+            echo "Reel started for the ${hour}:00 slot."
+          else
+            echo "No Reel slot at ${hour}:00 Bangladesh time."
+          fi
 
       - name: Open Issue For Silent Sources
         if: steps.guard.outputs.skip != 'true'
