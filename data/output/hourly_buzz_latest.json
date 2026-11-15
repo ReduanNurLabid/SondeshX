@@ -1,393 +1,350 @@
 {
-  "updated_at": "2026-11-15T19:00:41.294296",
+  "updated_at": "2026-11-15T20:00:42.940629",
   "total_stories": 5,
   "stories": [
     {
-      "story_id": "4b11d6fe-9f44-51fb-acfb-5f8876ca5fc7",
+      "story_id": "e9616b39-a331-5070-85c1-0c5401a4b0f2",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#BangladeshApparel",
+        "#Eurostat",
+        "#EUExports"
+      ],
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-10/2_RMG%20workers.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-15T18:51:16+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.0,
+      "rank_score": 4.576,
+      "sources": [
+        {
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/economy/rmg/news/bangladeshs-apparel-exports-eu-fall-119-eur1348-billion-jan-sept-4324936",
+          "title": "Bangladesh’s apparel exports to EU fall 11.9% to €13.48 billion in Jan-Sept",
+          "snippet": "Bangladesh’s apparel exports to EU fall 11.9% to €13.48 billion in Jan-Sept"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইউরোপীয় ইউনিয়নে বাংলাদেশের তৈরি পোশাক রপ্তানি ১১.৯ শতাংশ কমেছে",
+        "title_en": "Bangladesh apparel exports to EU fall 11.9 percent",
+        "summary_bn": "ইউরোস্ট্যাটের তথ্য অনুযায়ী, জানুয়ারি-সেপ্টেম্বর সময়ে ইউরোপীয় ইউনিয়নে বাংলাদেশের তৈরি পোশাক রপ্তানি ১১.৯১ শতাংশ কমে ১৩ দশমিক ৪৮ বিলিয়ন ইউরোতে দাঁড়িয়েছে।",
+        "summary_en": "Bangladesh apparel exports to the EU fell 11.91 percent to €13.48 billion in January-September, according to Eurostat data.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-15T18:51:16+00:00",
+        "lead_bn": "ইউরোস্ট্যাটের তথ্য অনুযায়ী, জানুয়ারি-সেপ্টেম্বর সময়ে ইউরোপীয় ইউনিয়নে বাংলাদেশের তৈরি পোশাক রপ্তানি ১১.৯১ শতাংশ কমে ১৩ দশমিক ৪৮ বিলিয়ন ইউরোতে দাঁড়িয়েছে।",
+        "lead_en": "Bangladesh apparel exports to the EU fell 11.91 percent to €13.48 billion in January-September, according to Eurostat data.",
+        "bullets_bn": [
+          "ইইউর ১১টি বড় সরবরাহকারীর মধ্যে বাংলাদেশের পোশাক রপ্তানির পতন ছিল সবচেয়ে বেশি।",
+          "এই সময়ে রপ্তানি পরিমাণ ৫.৭৪ শতাংশ এবং প্রতি কেজির একক মূল্য ৬.৫৪ শতাংশ কমেছে।",
+          "চীন ছাড়া ভারত, পাকিস্তান, তুরস্ক, শ্রীলঙ্কা ও ইন্দোনেশিয়ার রপ্তানির মূল্যও ৮.৮ থেকে ১০.৭ শতাংশ কমেছে।"
+        ],
+        "bullets_en": [
+          "Bangladesh registered the steepest drop in garment exports to the EU among the 11 largest suppliers.",
+          "During this period, volume fell 5.74 percent and the unit price dropped 6.54 percent.",
+          "Exports from India, Pakistan, Turkey, Sri Lanka and Indonesia all fell by 8.8 to 10.7 percent in value."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "জানুয়ারি-এপ্রিল সময়ে রপ্তানি ২০.৮৯ শতাংশ কমেছিল এবং মে-আগস্টে তা ১.২৫ শতাংশে প্রায় অপরিবর্তিত ছিল। সেপ্টেম্বর একা মাসে রপ্তানি ৯.৪৯ শতাংশ কমেছে। এই পতনমানের কারণে বাংলাদেশ ১.৮২ বিলিয়ন ইউরো হারিয়েছে। এর ফলে ইইউ আমদানিতে বাংলাদেশের অংশ ২১.১০ শতাংশ থেকে কমে ১৯.০৬ শতাংশ হয়েছে।",
+        "details_en": "Exports were down 20.89 percent in January-April and nearly level at 1.25 percent in May-August, while falling 9.49 percent in September alone. Bangladesh lost €1.82 billion, and its share of EU imports fell from 21.10 percent to 19.06 percent.",
+        "hook_bn": "ইইউ বাজারে পোশাক রপ্তানি কমেছে ১১ দশমিক ৯১ শতাংশ।",
+        "question_bn": "পোশাক খাতের এই পতনের কারণ ও প্রভাব সম্পর্কে আপনার মতামত কী?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-15T20:03:15.105940+00:00"
+      }
+    },
+    {
+      "story_id": "99a7f6a0-a359-5cd7-bbdc-ac16bd59a18e",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": "https://media.channelionline.com/2026/11/images-11.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-11-15T17:18:04+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.0,
+      "rank_score": 4.1833,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/bangladesh-icc-india-odi-world-cup-schedule-world/",
+          "title": "২০৩১ বিশ্বকাপ বাংলাদেশ-ভারতে, ২০৩৫ পর্যন্ত আইসিসির বৈশ্বিক সূচি জানা গেল",
+          "snippet": "২০৩১ বিশ্বকাপ বাংলাদেশ-ভারতে, ২০৩৫ পর্যন্ত আইসিসির বৈশ্বিক সূচি জানা গেল"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাংলাদেশ ও ভারত যৌথভাবে ২০৩১ সালের ওয়ানডে বিশ্বকাপ আয়োজন করবে।",
+        "title_en": "Bangladesh and India will jointly host the 2031 ODI World Cup.",
+        "summary_bn": "আন্তর্জাতিক ক্রিকেট কাউন্সিল ২০৩৫ সাল পর্যন্ত পুরুষদের বৈশ্বিক টুর্নামেন্টের সূচি চূড়ান্ত করেছে, যেখানে বাংলাদেশ ও ভারত যৌথভাবে ২০৩১ সালের ওয়ানডে বিশ্বকাপ আয়োজন করবে।",
+        "summary_en": "The International Cricket Council finalised the men's global tournament schedule until 2035, with Bangladesh and India jointly hosting the 2031 ODI World Cup.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-15T17:18:04+00:00",
+        "lead_bn": "আন্তর্জাতিক ক্রিকেট কাউন্সিল ২০৩৫ সাল পর্যন্ত পুরুষদের বৈশ্বিক টুর্নামেন্টের সূচি চূড়ান্ত করেছে, যেখানে বাংলাদেশ ও ভারত যৌথভাবে ২০৩১ সালের ওয়ানডে বিশ্বকাপ আয়োজন করবে।",
+        "lead_en": "The International Cricket Council finalised the men's global tournament schedule until 2035, with Bangladesh and India jointly hosting the 2031 ODI World Cup.",
+        "bullets_bn": [
+          "ইন্দোনেশিয়ার বালিতে অনুষ্ঠিত বোর্ড সভায় বিভিন্ন টুর্নামেন্টের সময়সূচি, বাছাইপর্বের কাঠামো ও অংশগ্রহণের পথ অনুমোদন করা হয়েছে।",
+          "আইসিসির অনুমোদিত সূচিতে ২০২৮ সালের টি-টুয়েন্টি বিশ্বকাপ থেকে শুরু করে ২০৩৫ সালের ওয়ানডে বিশ্বকাপ পর্যন্ত বড় আসরগুলোর সময়সীমা নির্ধারণ করা হয়েছে।",
+          "২০৩১ সালের ওয়ানডে বিশ্বকাপ বাংলাদেশ ও ভারতের যৌথ আয়োজনে ৯ অক্টোবর থেকে ২৩ নভেম্বর পর্যন্ত গড়াবে।"
+        ],
+        "bullets_en": [
+          "The board meeting held in Bali, Indonesia, approved tournament schedules, qualification structures, and pathways for participation.",
+          "The ICC-approved schedule sets timelines for major events from the 2028 T20 World Cup to the 2035 ODI World Cup.",
+          "The 2031 ODI World Cup will be held jointly by Bangladesh and India from 9 October to 23 November."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "আইসিসি ২০৩৫ সাল পর্যন্ত পুরুষদের বৈশ্বিক টুর্নামেন্টের সূচি চূড়ান্ত করেছে। ইন্দোনেশিয়ার বালিতে অনুষ্ঠিত বোর্ড সভায় বিভিন্ন টুর্নামেন্টের সময়সূচি, বাছাইপর্বের কাঠামো ও অংশগ্রহণের পথ অনুমোদন করা হয়। এর মধ্যে ২০২৯ সালের চ্যাম্পিয়ন্স ট্রফি ভারতে এবং ২০৩১ সালের ওয়ানডে বিশ্বকাপ বাংলাদেশ ও ভারতে অনুষ্ঠিত হবে। এছাড়া ২০২৭ সালের ওয়ানডে বিশ্বকাপের বাছাইপর্ব আগামী বছরের ফেব্রুয়ারি-মার্চে ১০ দলকে নিয়ে অনুষ্ঠিত হবে বলে জানানো হয়েছে।",
+        "details_en": "The ICC finalised the men's global tournament schedule until 2035. The board meeting held in Bali, Indonesia, approved tournament schedules, qualification structures, and pathways for participation. This includes the 2029 Champions Trophy in India and the 2031 ODI World Cup in Bangladesh and India. Additionally, the 2027 ODI World Cup qualifiers will feature 10 teams in February and March of next year.",
+        "hook_bn": "বাংলাদেশ ও ভারত যৌথভাবে ২০৩১ সালের ওয়ানডে বিশ্বকাপ আয়োজন করবে।",
+        "question_bn": "বাংলাদেশ ও ভারতের যৌথ আয়োজনে হতে যাওয়া ওয়ানডে বিশ্বকাপ নিয়ে আপনার প্রত্যাশা কী?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-15T20:03:15.105940+00:00"
+      }
+    },
+    {
+      "story_id": "5d0590de-05fd-5a8f-aa57-02cd921b0a53",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#BNP",
-        "#AwamiLeague",
-        "#Gopalganj"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1784400579140-3bfca535a333?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Ym5wJTIwbGVhZGVycyUyMHByb3BlcnRpZXMlMjBvZmZpY2VzJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk0NzY5MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1790758438957-05fff3eed097?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z3VuZmlyZSUyMGNvY2t0YWlsJTIwZXhwbG9zaW9ucyUyMHJlcG9ydGVkJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk0NzcyOTYyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-15T18:42:27+00:00",
+      "published_at": "2026-11-15T19:39:34+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 8.0,
-      "rank_score": 6.2841,
+      "importance_score": 6.25,
+      "rank_score": 3.8216,
       "sources": [
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/nation/424744/bnp-leaders%E2%80%99-homes-offices-businesses-vandalized",
-          "title": "BNP leaders’ properties vandalized, torched in Gopalganj",
-          "snippet": "BNP leaders’ properties vandalized, torched in Gopalganj"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/bnp-leader-house-attacked-6-institutions-burnt/",
-          "title": "বিএনপি নেতার বাড়িতে হামলার পর কার্যালয়সহ ৬ প্রতিষ্ঠানে আগুন",
-          "snippet": "বিএনপি নেতার বাড়িতে হামলার পর কার্যালয়সহ ৬ প্রতিষ্ঠানে আগুন"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1179893",
+          "title": "নাটোরে জয় বাংলা স্লোগান দিয়ে দুর্বৃত্তদের গুলিবর্ষণ, ককটেল বিস্ফোরণ",
+          "snippet": "নাটোরে জয় বাংলা স্লোগান দিয়ে দুর্বৃত্তদের গুলিবর্ষণ, ককটেল বিস্ফোরণ"
         },
         {
           "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/country/498206",
-          "title": "টুঙ্গিপাড়া থেকে মিছিল নিয়ে পিরোজপুরে বিএনপির দুই কার্যালয়ে ভাঙচুর-আগুন",
-          "snippet": "টুঙ্গিপাড়া থেকে মিছিল নিয়ে পিরোজপুরে বিএনপির দুই কার্যালয়ে ভাঙচুর-আগুন"
+          "url": "https://www.dhakapost.com/country/498209",
+          "title": "এবার নাটোরে ‘জয় বাংলা’ স্লোগান দিয়ে শতাধিক রাউন্ড গুলি নিক্ষেপ",
+          "snippet": "এবার নাটোরে ‘জয় বাংলা’ স্লোগান দিয়ে শতাধিক রাউন্ড গুলি নিক্ষেপ"
         },
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/dhaka/981164/%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%80%E0%A6%A3-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%BE%E0%A6%96%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A6%97%E0%A7%81%E0%A6%A8-%E0%A6%A7%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B2%E0%A7%81%E0%A6%9F%E0%A6%AA%E0%A6%BE%E0%A6%9F-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0",
-          "title": "গ্রামীণ ব্যাংকের শাখায় আগুন ধরিয়ে লুটপাট, বিএনপির কয়েকজনের বাড়িতে ভাঙচুর",
-          "snippet": "গ্রামীণ ব্যাংকের শাখায় আগুন ধরিয়ে লুটপাট, বিএনপির কয়েকজনের বাড়িতে ভাঙচুর"
+          "url": "https://www.banglatribune.com/country/rajshahi/981166/%E0%A6%8F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A6%B6%E0%A6%B9%E0%A6%B0%E0%A7%87-%E2%80%98%E0%A6%9C%E0%A7%9F-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E2%80%99-%E0%A6%B8%E0%A7%8D%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%A8-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%A7%E0%A6%BF%E0%A6%95",
+          "title": "এবার আরেক জেলা শহরে ‘জয় বাংলা’ স্লোগান দিয়ে শতাধিক রাউন্ড গুলি নিক্ষেপ",
+          "snippet": "এবার আরেক জেলা শহরে ‘জয় বাংলা’ স্লোগান দিয়ে শতাধিক রাউন্ড গুলি নিক্ষেপ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গোপালগঞ্জ ও পিরোজপুরে বিএনপি নেতাদের বাড়ি ও কার্যালয়ে হামলা",
-        "title_en": "BNP leaders properties and offices attacked in Gopalganj and Pirojpur",
-        "summary_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগ ও অঙ্গসংগঠনের নেতাকর্মীদের বিরুদ্ধে গোপালগঞ্জ ও পিরোজপুরে বিএনপি নেতাদের বাড়ি, কার্যালয় এবং ব্যবসাপ্রতিষ্ঠানে হামলা ও ভাঙচুরের অভিযোগ উঠেছে।",
-        "summary_en": "Alleged activists of the banned Awami League and its affiliates carried out attacks on BNP leaders homes and offices in Gopalganj and Pirojpur.",
+        "title_bn": "নাটোরে জয় বাংলা স্লোগান দিয়ে গুলি ও ককটেল বিস্ফোরণ",
+        "title_en": "Gunfire and cocktail explosions reported in Natore with Joy Bangla slogan",
+        "summary_bn": "নাটোরে জয় বাংলা স্লোগান দিয়ে শতাধিক রাউন্ড ফাঁকা গুলি ও ককটেল বিস্ফোরণ ঘটিয়েছে দুর্বৃত্তরা।",
+        "summary_en": "Assailants fired over a hundred rounds of blank shots and exploded cocktails chanting Joy Bangla in Natore.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-15T18:42:27+00:00",
-        "lead_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগ ও অঙ্গসংগঠনের নেতাকর্মীদের বিরুদ্ধে গোপালগঞ্জ ও পিরোজপুরে বিএনপি নেতাদের বাড়ি, কার্যালয় এবং ব্যবসাপ্রতিষ্ঠানে হামলা ও ভাঙচুরের অভিযোগ উঠেছে।",
-        "lead_en": "Alleged activists of the banned Awami League and its affiliates carried out attacks on BNP leaders homes and offices in Gopalganj and Pirojpur.",
+        "published_at": "2026-11-15T19:39:34+00:00",
+        "lead_bn": "নাটোরে জয় বাংলা স্লোগান দিয়ে শতাধিক রাউন্ড ফাঁকা গুলি ও ককটেল বিস্ফোরণ ঘটিয়েছে দুর্বৃত্তরা।",
+        "lead_en": "Assailants fired over a hundred rounds of blank shots and exploded cocktails chanting Joy Bangla in Natore.",
         "bullets_bn": [
-          "গোপালগঞ্জ সদর ও টুঙ্গিপাড়ায় বিক্ষোভ থেকে বিএনপি নেতাদের বাড়ি, অফিস ও ব্যবসাপ্রতিষ্ঠানে হামলা ও ভাঙচুর চালানো হয়েছে।",
-          "টুঙ্গিপাড়ায় গ্রামীণ ব্যাংকের শাখায় ভাঙচুর চালিয়ে আগুন ধরিয়ে দেওয়া হয়েছে।",
-          "পিরোজপুরের নাজিরপুরে বিএনপি নেতার ছয়টি ব্যবসাপ্রতিষ্ঠান এবং দলীয় কার্যালয় আগুনে পুড়ে গেছে।"
+          "দত্তপাড়া বাজারে তিনটি মাইক্রোবাসে এসে দুর্বৃত্তরা এই হামলা চালায়।",
+          "নাটোর সদর থানার ওসি মনসুর রহমান ঘটনার সত্যতা নিশ্চিত করেছেন।",
+          "ঘটনার পর থেকে স্থানীয় বাসিন্দাদের মধ্যে চরম আতঙ্ক ছড়িয়ে পড়েছে।"
         ],
         "bullets_en": [
-          "Protests in Gopalganj Sadar and Tungipara led to attacks and vandalism on BNP leaders homes, offices and business establishments.",
-          "A branch of Grameen Bank in Tungipara was vandalized and set on fire.",
-          "Six business establishments and the party office of BNP leaders were burned down in Nazirpur of Pirojpur."
+          "Assailants arrived in three microbuses and carried out the attack at Duttapara Bazar.",
+          "Natore Sadar Police Station OC Mansur Rahman confirmed the truth of the incident.",
+          "Extreme panic has spread among local residents following the incident."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "১৫ নভেম্বর বিকেল চারটার দিকে পিরোজপুরের নাজিরপুর উপজেলার মালিখালী ইউনিয়নের ঝনঝনিয়া টাওয়ার মোড় এলাকায় এই হামলা ও অগ্নিসংযোগের ঘটনা ঘটে। একই দিন রাত সাড়ে আটটার দিকে টুঙ্গিপাড়া উপজেলার গ্রামীণ ব্যাংকের শাখায় ভাঙচুর ও অগ্নিসংযোগ করা হয়। টুঙ্গিপাড়া থেকে মিছিল নিয়ে পিরোজপুরের বিএনপির দুটি কার্যালয়ে ভাঙচুর ও আগুন দেওয়ার ঘটনাও ঘটে।",
-        "details_en": "The attacks and arson took place November 15, around 4 pm in the Zhanjhunia Tower intersection area of Malikhali union in Pirojpur's Nazirpur upazila. Around 8:30 pm on the same day, the Grameen Bank branch in Tungipara upazila was vandalized and set on fire. A procession from Tungipara also vandalized and set fire to two BNP offices in Pirojpur.",
-        "hook_bn": "গোপালগঞ্জ ও পিরোজপুরে বিএনপি নেতাদের বাড়ি ও কার্যালয়ে হামলা",
+        "details_bn": "১৫ নভেম্বর রাত পৌনে ১১টার দিকে নাটোর সদরের দত্তপাড়া বাজারে তিনটি মাইক্রোবাসে এসে জয় বাংলা স্লোগান দিয়ে শতাধিক রাউন্ড ফাঁকা গুলিবর্ষণ ও ককটেল বিস্ফোরণের ঘটনা ঘটে। ঘটনার পর খবর পেয়ে পুলিশ ঘটনাস্থলে মোতায়েন করা হয়েছে বলে জানিয়েছেন নাটোর সদর থানার ওসি মনসুর রহমান।",
+        "details_en": "On November 15 at around 11:45 PM, assailants arriving in three microbuses chanted Joy Bangla and carried out blank gunfire of over a hundred rounds and cocktail explosions at Duttapara Bazar in Natore Sadar. Following the incident, Natore Sadar Police Station OC Mansur Rahman stated that police have been deployed at the scene upon receiving the news.",
+        "hook_bn": "নাটোরে জয় বাংলা স্লোগান দিয়ে শতাধিক রাউন্ড ফাঁকা গুলি",
         "question_bn": null
       },
-      "desk_importance": 7.0,
-      "outlet_count": 4,
-      "trending": true,
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": false,
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-15T19:02:09.494715+00:00"
+        "checked_at": "2026-11-15T20:03:15.105940+00:00"
       }
     },
     {
-      "story_id": "e0304995-5821-57e1-a95c-d5300346e7cc",
+      "story_id": "9cdc40b7-5a93-5dc3-b4b1-b8e90890194e",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "society_education",
+        "climate_environment"
+      ],
+      "region": "international",
+      "tags": [
+        "#Gaza",
+        "#WHO",
+        "#WorldNews"
+      ],
+      "image_url": "https://th-i.thgim.com/public/incoming/q6syms/article71705684.ece/alternates/LANDSCAPE_1200/APTOPIX_Israel_Palestinians_Gaza__7462.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-15T17:21:47+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.1419,
+      "sources": [
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/respiratory-illnesses-rise-in-gaza-with-worst-to-come-as-winter-floods-arrive-who-says/article71705676.ece",
+          "title": "Respiratory illnesses rise in Gaza with worst to come as winter floods arrive, WHO says",
+          "snippet": "Respiratory illnesses rise in Gaza with worst to come as winter floods arrive, WHO says"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "গাজায় তীব্র শ্বাসতন্ত্রের রোগ বৃদ্ধি পাচ্ছে বলে জানিয়েছে ডব্লিউএইচও।",
+        "title_en": "Respiratory illnesses are rising in Gaza, WHO says.",
+        "summary_bn": "বিশ্ব স্বাস্থ্য সংস্থা জানিয়েছে যে গাজায় তীব্র শ্বাসতন্ত্রের রোগ বাড়ছে, কারণ ভারী বৃষ্টিতে বাস্তুচ্যুত ফিলিস্তিনিদের হাজার হাজার তাঁবু প্লাবিত হয়েছে।",
+        "summary_en": "The World Health Organisation warned on Friday of surging respiratory illnesses in Gaza after heavy rains flooded tens of thousands of tents housing displaced Palestinians.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "society_education",
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-15T17:21:47+00:00",
+        "lead_bn": "বিশ্ব স্বাস্থ্য সংস্থা জানিয়েছে যে গাজায় তীব্র শ্বাসতন্ত্রের রোগ বাড়ছে, কারণ ভারী বৃষ্টিতে বাস্তুচ্যুত ফিলিস্তিনিদের হাজার হাজার তাঁবু প্লাবিত হয়েছে।",
+        "lead_en": "The World Health Organisation warned on Friday of surging respiratory illnesses in Gaza after heavy rains flooded tens of thousands of tents housing displaced Palestinians.",
+        "bullets_bn": [
+          "তীব্র শ্বাসতন্ত্রের সংক্রমণের ঘটনা গত বছরের একই সময়ের তুলনায় ৩৩,০০০ বেশি বলে জানিয়েছেন ডব্লিউএইচও প্রতিনিধি ড. রেইনহিল্ড ভ্যান ডি উইর্ডট।",
+          "দুর্বল জীবনযাত্রা এবং চরম জনাকীর্ণতা সংক্রমণ বাড়িয়ে দিচ্ছে বলে জানিয়েছে বিশ্ব স্বাস্থ্য সংস্থা।",
+          "ইসরায়েলি সামরিক বাহিনী জানিয়েছে যে ইয়েলো লাইনের লক্ষ্য ইসরায়েলি বেসামরিক নাগরিক ও সেনাদের হুমকি থেকে রক্ষা করা।"
+        ],
+        "bullets_en": [
+          "Acute respiratory infections are 33,000 cases higher than at the same time last year, said WHO representative Dr. Reinhilde Van De Weerdt.",
+          "Poor living conditions and severe overcrowding are driving up infections, the WHO said.",
+          "The Israeli military stated that the Yellow Line aims to protect Israeli civilians and army troops from threats."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "অক্টোবরের মার্কিন মধ্যস্থতার যুদ্ধবিরতির অধীনে প্রতিষ্ঠিত 'ইয়েলো লাইন' এগিয়ে নেওয়ার মাধ্যমে ইসরায়েলি সামরিক বাহিনী তাদের নিয়ন্ত্রণ প্রসারিত করায় এই সংকট আরও তীব্র হয়েছে। জেরুজালেম থেকে জেনেভায় সাংবাদিকদের কাছে ড. রেইনহিল্ড ভ্যান ডি উইর্ডট ব্যাখ্যা করেন যে এর অর্থ হলো মানুষ আরও জনাকীর্ণ পরিবেশে বসবাস করছে, যেখানে মানুষের মধ্যে ভাইরাসের বিস্তার ঘটার সম্ভাবনা অনেক বেশি। এদিকে ইসরায়েলি সামরিক বাহিনী রয়টার্সকে জানিয়েছে যে ইয়েলো লাইনের অবস্থান পরিবর্তনের উদ্দেশ্য বেসামরিক জনগোষ্ঠীকে ক্ষতিগ্রস্ত করা নয়।",
+        "details_en": "The crunch has worsened as the Israeli military expands its control by advancing the Yellow Line, a demarcation established under October's U.S.-brokered ceasefire. Dr. Reinhilde Van De Weerdt explained to reporters in Geneva from Jerusalem that this means people are living in more crowded conditions, where a virus is much more prone to spread. The Israeli military told Reuters that adjustments to its location are not intended to harm the civilian population and categorically rejects claims of deliberately reducing available area.",
+        "hook_bn": "গাজায় তীব্র শ্বাসতন্ত্রের রোগের সংক্রমণ গত বছরের চেয়ে ৩৩ হাজার বেশি।",
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-15T20:03:15.105940+00:00"
+      }
+    },
+    {
+      "story_id": "57e6c440-9ddd-50e4-9b69-df93d00853e4",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#FTA"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1722871513349-45c61ed6aa5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZmluYW5jZSUyMGVjb25vbXklMjBiYW5nbGFkZXNofGVufDF8MHx8fDE3OTQ3NjIwODd8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-15%2Fkthv5rke%2FTrade-Min.JPG?rect=0%2C72%2C873%2C458&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-15T19:00:57.982900+00:00",
+      "published_at": "2026-11-15T19:39:58+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.8976,
+      "importance_score": 6.0,
+      "rank_score": 3.5233,
       "sources": [
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/economy/bangladesh-begins-preliminary-fta-negotiation-with-eu",
-          "title": "Bangladesh begins preliminary FTA negotiation with EU",
-          "snippet": "Bangladesh begins preliminary FTA negotiation with EU"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/6xnxekhaiw",
+          "title": "বাংলাদেশের রপ্তানিতে ১৭ দশমিক ৫ বিলিয়ন ডলার ক্ষতির আশঙ্কা বাণিজ্যমন্ত্রীর",
+          "snippet": "বাংলাদেশের রপ্তানিতে ১৭ দশমিক ৫ বিলিয়ন ডলার ক্ষতির আশঙ্কা বাণিজ্যমন্ত্রীর"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাংলাদেশ ইউরোপীয় ইউনিয়নের সাথে প্রাথমিক এফটিএ আলোচনা শুরু করেছে",
-        "title_en": "Bangladesh begins preliminary FTA negotiation with EU",
-        "summary_bn": "বাংলাদেশ ইউরোপীয় ইউনিয়নের সাথে প্রাথমিক মুক্ত বাণিজ্য চুক্তি বা এফটিএ আলোচনা শুরু করেছে।",
-        "summary_en": "Bangladesh has begun preliminary free trade agreement or FTA negotiation with the European Union.",
+        "title_bn": "উন্নয়নশীল রাষ্ট্রে রূপান্তর হলে রপ্তানি কমতে পারে ১৭.৫ বিলিয়ন ডলার",
+        "title_en": "Export may face 17.5 billion dollar loss after transition to developing nation",
+        "summary_bn": "বাণিজ্যমন্ত্রী খন্দকার আবদুল মুক্তাদির জানিয়েছেন, বাংলাদেশ উন্নয়নশীল রাষ্ট্রে পরিণত হলে অগ্রাধিকারমূলক বাজারসুবিধা হারানোর প্রভাবে ১৭.৫ বিলিয়ন মার্কিন ডলারের রপ্তানি ক্ষতিগ্রস্ত হওয়ার আশঙ্কা রয়েছে।",
+        "summary_en": "Commerce Minister Khandaker Abdul Muktadir stated that Bangladesh faces a risk of 17.5 billion US dollars in export damage due to losing preferential market facilities upon becoming a developing state.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-15T19:00:57.982900+00:00",
-        "lead_bn": "বাংলাদেশ ইউরোপীয় ইউনিয়নের সাথে প্রাথমিক মুক্ত বাণিজ্য চুক্তি বা এফটিএ আলোচনা শুরু করেছে।",
-        "lead_en": "Bangladesh has begun preliminary free trade agreement or FTA negotiation with the European Union.",
+        "published_at": "2026-11-15T19:39:58+00:00",
+        "lead_bn": "বাণিজ্যমন্ত্রী খন্দকার আবদুল মুক্তাদির জানিয়েছেন, বাংলাদেশ উন্নয়নশীল রাষ্ট্রে পরিণত হলে অগ্রাধিকারমূলক বাজারসুবিধা হারানোর প্রভাবে ১৭.৫ বিলিয়ন মার্কিন ডলারের রপ্তানি ক্ষতিগ্রস্ত হওয়ার আশঙ্কা রয়েছে।",
+        "lead_en": "Commerce Minister Khandaker Abdul Muktadir stated that Bangladesh faces a risk of 17.5 billion US dollars in export damage due to losing preferential market facilities upon becoming a developing state.",
         "bullets_bn": [
-          "বাংলাদেশ ইউরোপীয় ইউনিয়নের সাথে প্রাথমিক এফটিএ আলোচনা শুরু করেছে।",
-          "আলোচনাটি বাংলাদেশ এবং ইউরোপীয় ইউনিয়নের মধ্যে শুরু হয়েছে।",
-          "উভয়পক্ষ প্রাথমিক এফটিএ আলোচনা শুরু করেছে।"
+          "জাতীয় সংসদের প্রশ্নোত্তর পর্বে বাণিজ্যমন্ত্রী জানান, বিশ্বের বিভিন্ন দেশের সঙ্গে বাংলাদেশের বাণিজ্যঘাটতি দাঁড়িয়েছে ২৪.১৭ বিলিয়ন মার্কিন ডলার।",
+          "মন্ত্রী জানান, ২০২৪-২৫ অর্থবছরে বাংলাদেশ ২০২টি গন্তব্যে ৫৫.১৯ বিলিয়ন মার্কিন ডলারের পণ্য রপ্তানি করেছে এবং আমদানির পরিমাণ ছিল ৭৯.৩৬ বিলিয়ন ডলার।",
+          "তৈরি পোশাক খাত থেকে দেশের রপ্তানি বাণিজ্যের ৮৪ শতাংশ আসে বলে জানান বাণিজ্যমন্ত্রী।"
         ],
         "bullets_en": [
-          "Bangladesh has begun preliminary FTA negotiation with the European Union.",
-          "The negotiation has started between Bangladesh and the European Union.",
-          "Both sides have initiated preliminary free trade agreement talks."
+          "Commerce Minister informed in the parliament that Bangladesh's trade deficit with various countries of the world stands at 24.17 billion US dollars.",
+          "The Minister stated that in the 2024-25 fiscal year, Bangladesh exported goods worth 55.19 billion US dollars to 202 destinations, while imports were 79.36 billion dollars.",
+          "The Commerce Minister stated that 84 percent of the country's export trade comes from the ready-made garment sector."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "বাংলাদেশ ইউরোপীয় ইউনিয়নের সাথে প্রাথমিক এফটিএ আলোচনা শুরু করেছে।",
-        "question_bn": "ইউরোপীয় ইউনিয়নের সাথে এই বাণিজ্য আলোচনার ফলে দেশের অর্থনীতিতে কী ধরনের প্রভাব পড়তে পারে বলে আপনি মনে করেন?"
+        "details_bn": "জাতীয় সংসদের প্রশ্নোত্তর পর্বে বাণিজ্যমন্ত্রী খন্দকার আবদুল মুক্তাদির জানান, ২০২৪-২৫ অর্থবছরে ভারতের সঙ্গে দ্বিপক্ষীয় বাণিজ্যের পরিমাণ ছিল ১১,৩৮৮.৩৩ মিলিয়ন মার্কিন ডলার এবং বাণিজ্যঘাটতির পরিমাণ ৭,৮৬০ মিলিয়ন ডলার। দক্ষিণ এশিয়ার আঞ্চলিক মুক্ত বাণিজ্য চুক্তি ও এশিয়া-প্যাসিফিক ট্রেড অ্যাগ্রিমেন্টের সদস্যদেশ হিসেবে বাংলাদেশ ভারতের বাজারে তামাক ও মদজাতীয় ২৫টি পণ্য ছাড়া অন্য সব পণ্যের শুল্কমুক্ত ও কোটামুক্ত প্রবেশসুবিধা পাচ্ছে। এছাড়া ২০২৬ সালের ঢাকা আন্তর্জাতিক বাণিজ্য মেলায় ২২৪ কোটি ২৬ লাখ টাকার রপ্তানি আদেশ পাওয়া গেছে, যা গত বছরের তুলনায় ৪২.৭৯ শতাংশ কম।",
+        "details_en": "In the question-answer session of the national parliament, Commerce Minister Khandaker Abdul Muktadir stated that bilateral trade with India in the 2024-25 fiscal year was 11,388.33 million US dollars with a trade deficit of 7,860 million dollars. As a member of SAFTA and APTA, Bangladesh receives duty-free and quota-free access for all products except 25 tobacco and liquor items in the Indian market. Additionally, export orders worth 2.24 billion taka were received at the 2026 Dhaka International Trade Fair, which is 42.79 percent lower compared to the previous year.",
+        "hook_bn": "উন্নয়নশীল রাষ্ট্রে রূপান্তর হলে ১৭.৫ বিলিয়ন ডলার রপ্তানি ক্ষতির আশঙ্কা।",
+        "question_bn": "অগ্রাধিকারমূলক বাজারসুবিধা হারালে দেশের রপ্তানি বাণিজ্যে কী ধরনের প্রভাব পড়তে পারে বলে আপনার মনে হয়?"
       },
-      "desk_importance": 7.0,
+      "desk_importance": 6.0,
       "outlet_count": 1,
       "trending": false,
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-15T19:02:09.494715+00:00"
-      }
-    },
-    {
-      "story_id": "1d4b7b23-aaae-5d83-94af-3ce41296365e",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#KhandakerAbdulMuktadir",
-        "#BangladeshCompetitionCommission",
-        "#ConsumerRights"
-      ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/181683/new-project-2026-06-23t195530236.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-15T19:00:57.982900+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.8976,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/govt-steps-up-drive-to-break-market-syndicates-commerce-minister-tells-js",
-          "title": "Govt steps up drive to break market syndicates, commerce minister tells JS",
-          "snippet": "Govt steps up drive to break market syndicates, commerce minister tells JS"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বাজার সিন্ডিকেট ভাঙতে ৬৭টি মামলা করেছে সরকার",
-        "title_en": "Government files 67 cases to break market syndicates",
-        "summary_bn": "জরুরি পণ্যের অস্বাভাবিক দাম বৃদ্ধি রোধ করতে এবং বাজার সিন্ডিকেট ভাঙতে ৬৭টি মামলা করেছে সরকার।",
-        "summary_en": "The government has filed 67 cases to prevent abnormal price increases of essential commodities and break market syndicates.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-15T19:00:57.982900+00:00",
-        "lead_bn": "জরুরি পণ্যের অস্বাভাবিক দাম বৃদ্ধি রোধ করতে এবং বাজার সিন্ডিকেট ভাঙতে ৬৭টি মামলা করেছে সরকার।",
-        "lead_en": "The government has filed 67 cases to prevent abnormal price increases of essential commodities and break market syndicates.",
-        "bullets_bn": [
-          "সংসদে বাণিজ্যমন্ত্রী খন্দকার আবদুল মুক্তাদির এই তথ্য জানান।",
-          "১৬,৫২৯টি ব্যবসাপ্রতিষ্ঠানকে মোট ১৫১.২৫ মিলিয়ন টাকা জরিমানা করা হয়েছে।",
-          "বাংলাদেশ প্রতিযোগিতা কমিশন চাল, ভোজ্যতেল, ডিম ও মুরগির বাজারে এসব মামলা করে।"
-        ],
-        "bullets_en": [
-          "Commerce Minister Khandaker Abdul Muktadir disclosed this information in parliament.",
-          "A total of 16,529 businesses were fined a total of Tk 151.25 million.",
-          "The Bangladesh Competition Commission filed these cases involving rice, edible oil, eggs, and chicken."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বাণিজ্য মন্ত্রণালয়, জাতীয় ভোক্তা অধিকার সংরক্ষণ অধিদপ্তর এবং জেলা টাস্কফোর্স নিয়মিত বাজার পরিদর্শন ও বিশেষ অভিযান পরিচালনা করছে। ১৭ ফেব্রুয়ারি থেকে ৩১ অক্টোবর ২০২৬ সালের মধ্যে ১০,১৪৪টি অভিযান পরিচালিত হয়। এই মামলাগুলোর মধ্যে ২১টি চাল বাজার, ১০টি ভোজ্যতেল, ১৮টি ডিম, ৬টি ব্রয়লার মুরগি, ৮টি ময়দা ও আটা, ৩টি আলু এবং ১টি পেঁয়াজ বাজারের সাথে সম্পর্কিত।",
-        "details_en": "The Ministry of Commerce, the Directorate of National Consumer Rights Protection, and district task forces are conducting regular market inspections and special drives. Between February 17 and October 31, 2026, a total of 10,144 drives were conducted. These cases include 21 involving the rice market, 10 involving edible oil, 18 involving eggs, six involving broiler chicken, eight involving flour and wheat flour, three involving potatoes, and one involving onions.",
-        "hook_bn": "বাজার সিন্ডিকেট ভাঙতে ১৬ হাজার ৫২৯টি প্রতিষ্ঠানকে জরিমানা করা হয়েছে",
-        "question_bn": "বাজার নিয়ন্ত্রণে সরকারের এসব পদক্ষেপে আপনারা কতটা সুফল পাচ্ছেন?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-15T19:02:09.494715+00:00"
-      }
-    },
-    {
-      "story_id": "250b32d3-5f92-504e-bc06-e213632d25d5",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-15%2F88a68s4z%2Fmymensingh1.jpg?rect=0%2C0%2C900%2C473&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-15T18:18:43+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.75,
-      "rank_score": 4.3726,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/lpm63uwe52",
-          "title": "বাসায় ফিরছিলেন, পথে মোটরসাইকেল থামিয়ে মেয়ের সামনে স্বেচ্ছাসেবক দলের নেতাকে ছুরিকাঘাতে হত্যা",
-          "snippet": "বাসায় ফিরছিলেন, পথে মোটরসাইকেল থামিয়ে মেয়ের সামনে স্বেচ্ছাসেবক দলের নেতাকে ছুরিকাঘাতে হত্যা"
-        },
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/swechchhasebak-dal-activist-stabbed-death-mymensingh-4324671",
-          "title": "Swechchhasebak Dal activist stabbed to death in Mymensingh",
-          "snippet": "Swechchhasebak Dal activist stabbed to death in Mymensingh"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1179890",
-          "title": "ময়মনসিংহে স্বেচ্ছাসেবক দল নেতাকে কুপিয়ে হত্যা",
-          "snippet": "ময়মনসিংহে স্বেচ্ছাসেবক দল নেতাকে কুপিয়ে হত্যা"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/country/498204",
-          "title": "মেয়েকে নিয়ে বাড়ি ফেরার পথে স্বেচ্ছাসেবক দলের নেতাকে কুপিয়ে হত্যা",
-          "snippet": "মেয়েকে নিয়ে বাড়ি ফেরার পথে স্বেচ্ছাসেবক দলের নেতাকে কুপিয়ে হত্যা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ময়মনসিংহে স্বেচ্ছাসেবক দল নেতাকে ছুরিকাঘাতে হত্যা করা হয়েছে",
-        "title_en": "Swechchhasebak Dal leader stabbed to death in Mymensingh",
-        "summary_bn": "ময়মনসিংহে সাত বছরের মেয়ের সামনে মোটরসাইকেল থামিয়ে স্বেচ্ছাসেবক দলের নেতা মো. সুরুজ জামানকে ছুরিকাঘাতে হত্যা করা হয়েছে।",
-        "summary_en": "Swechchhasebak Dal leader Md Suruj Zaman was stabbed to death in front of his seven-year-old daughter in Mymensingh.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-15T18:18:43+00:00",
-        "lead_bn": "ময়মনসিংহে সাত বছরের মেয়ের সামনে মোটরসাইকেল থামিয়ে স্বেচ্ছাসেবক দলের নেতা মো. সুরুজ জামানকে ছুরিকাঘাতে হত্যা করা হয়েছে।",
-        "lead_en": "Swechchhasebak Dal leader Md Suruj Zaman was stabbed to death in front of his seven-year-old daughter in Mymensingh.",
-        "bullets_bn": [
-          "রোববার সন্ধ্যা সাতটার দিকে নগরের ২৬ নম্বর ওয়ার্ডের মধ্য বাড়েরা এলাকার মজিদ মার্কেট-সংলগ্ন সড়কে এ ঘটনা ঘটে।",
-          "নিহত জামানের চাচাতো ভাই মোাদেক হোসেন দাবি করেছেন, ২৬ নম্বর ওয়ার্ড যুবলীগের সভাপতি জাহাঙ্গীর আলম ও তাঁর ভাইয়েরা এই হত্যায় জড়িত।",
-          "ময়মনসিংহ দক্ষিণ জেলা বিএনপির সদস্যসচিব ও সিটি করপোরেশনের প্রশাসক মো. রুকুনোজ্জামান এই হত্যাকাণ্ডে জড়িতদের দ্রুত গ্রেপ্তারের দাবি জানিয়েছেন।"
-        ],
-        "bullets_en": [
-          "The incident took place near Masjid Market in the Madhy Barera area of ward no. 26 of the city on Sunday around 7:00pm.",
-          "The victim's cousin Md Sadek Hossain claimed that ward Jubo Dal president Jahangir Alam and his brothers were involved in the killing.",
-          "Mymensingh South district BNP member secretary and city corporation administrator Md Rukunuzzaman demanded the prompt arrest of those involved."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "নিহত মো. সুরুজ জামান ময়মনসিংহ শহরের মধ্য বাড়েরা এলাকার বাসিন্দা ছিলেন এবং প্রাইভেট কার কেনাবেচা ও ভাড়া দেওয়ার ব্যবসা করতেন। ঘটনার সময় তিনি মেয়েকে নিয়ে বাজারে ফল ও জুতা কিনে মোটরসাইকেলে বাড়ির দিকে ফিরছিলেন। মজিদ মার্কেটের সামনে পৌঁছালে কয়েকজন তাঁর পথ রোধ করে বুকে ধারালো অস্ত্র দিয়ে আঘাত করেন। ঘটনার পর অভিযুক্ত ব্যক্তিরা সবাই এলাকা থেকে পালিয়েছেন।",
-        "details_en": "The victim Md Suruj Zaman was a resident of the Madhy Barera area in Mymensingh town and did private car trading and rental business. At the time of the incident, he was returning home on a motorcycle after buying fruit and shoes at the market with his daughter. Upon reaching in front of Masjid Market, a few people intercepted him and struck him in the chest with a sharp weapon. The accused individuals all fled the area after the incident.",
-        "hook_bn": "মেয়ের সামনে স্বেচ্ছাসেবক দল নেতাকে ছুরিকাঘাতে হত্যা করা হয়েছে",
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 4,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-15T19:02:09.494715+00:00"
-      }
-    },
-    {
-      "story_id": "cd5478ec-2806-5cc7-9fc4-2e642e2df2ab",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "international",
-      "tags": [
-        "#CzechRepublic",
-        "#Prague",
-        "#MediaFreedom"
-      ],
-      "image_url": "https://i.guim.co.uk/img/media/95975b1bec64815ceed42fb90d5215d3bbf2f3f8/543_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb6a0d1778e58b9bf9ee2b0114c52e61",
-      "image_caption": null,
-      "published_at": "2026-11-15T18:20:36+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 4.062,
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
-          "title": "Hundreds of thousands of Czechs protest in Prague over media freedom",
-          "snippet": "Hundreds of thousands of Czechs protest in Prague over media freedom"
-        },
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/czechs-gather-in-big-numbers-to-reject-governments-plan-to-overhaul-funding-of-public-media/article71705495.ece",
-          "title": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media",
-          "snippet": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media"
-        },
-        {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-          "title": "Czechs rally against plan to switch funding of public media",
-          "snippet": "Czechs rally against plan to switch funding of public media"
-        },
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
-          "title": "Thousands rally in Czech Republic against state media funding changes",
-          "snippet": "Thousands rally in Czech Republic against state media funding changes"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "চেক প্রজাতন্ত্রে গণমাধ্যম স্বাধীনতার দাবিতে লাখ লাখ মানুষের বিক্ষোভ",
-        "title_en": "Hundreds of thousands of Czechs protest in Prague over media freedom",
-        "summary_bn": "চেক প্রজাতন্ত্রে গণমাধ্যমের স্বাধীনতা রক্ষায় সরকারের বিরুদ্ধে রাজধানী প্রাগে লাখ লাখ মানুষ বিক্ষোভ করেছে।",
-        "summary_en": "Hundreds of thousands of Czechs have rallied in Prague to protest against a perceived government attempt to stifle media freedom.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-15T18:20:36+00:00",
-        "lead_bn": "চেক প্রজাতন্ত্রে গণমাধ্যমের স্বাধীনতা রক্ষায় সরকারের বিরুদ্ধে রাজধানী প্রাগে লাখ লাখ মানুষ বিক্ষোভ করেছে।",
-        "lead_en": "Hundreds of thousands of Czechs have rallied in Prague to protest against a perceived government attempt to stifle media freedom.",
-        "bullets_bn": [
-          "বিক্ষোভকারীরা চেকিয়া পাবলিক ব্রডকাস্টারদের অর্থায়নকারী বাধ্যতামূলক লাইসেন্স ফি রক্ষা করার দাবি জানান।",
-          "আয়োজকদের মতে এই সমাবেশে সাড়ে তিন লাখের বেশি মানুষ অংশ নেন।",
-          "বিক্ষোভকারীরা বলেন এই পদক্ষেপে সংবাদকক্ষগুলোর ওপর মন্ত্রীদের প্রভাব আরও বাড়বে।"
-        ],
-        "bullets_en": [
-          "The gathering was held to save the mandatory licence fees that fund Czechia public broadcasters.",
-          "Organisers said the gathering drew more than 350,000 people, making it one of the biggest in the country history.",
-          "Protesters say the plan to scrap licence fees and fund the broadcasters from the state budget would give ministers more leverage over newsrooms."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "১৯৮৯ সালের ভেলভেট বিপ্লবের স্থান প্রাগের লেতনা প্লেইনে এই প্রতিবাদ সমাবেশ অনুষ্ঠিত হয়। এটি প্রধানমন্ত্রী আন্দ্রে ইশ বাবিশ এবং তাঁর জোট সরকারের বিরুদ্ধে সাম্প্রতিক চ্যালেঞ্জ। এর আগে চেক টিভি ও চেক রেডিওর কর্মীরা ধর্মঘট পালন করেন এবং বিভিন্ন শহরে বিক্ষোভ হয়। অক্টোবর মাসের শেষের দিকে লাইসেন্স ফি বাতিলের বিলের প্রথম পাঠ পাস হওয়ার পর থেকে এই ধারাবাহিক বিক্ষোভ চলছে। সমালোচকদের মতে এই পরিবর্তনের ফলে হাঙ্গেরি, পোল্যান্ড, সার্বিয়া এবং স্লোভাকিয়ার মতো দেশগুলোর পন্থার অনুকরণ হবে।",
-        "details_en": "The event was held at the capital Letná Plain, the cradle of the 1989 Velvet Revolution. It marked the latest challenge to the prime minister, Andrej Babiš, and his coalition, following weeks of demonstrations and a strike by staff at Czech TV and Czech Radio. Protesters say the plan follows the example of Hungary, Poland, Serbia and Slovakia, where rightwing populist governments eroded media independence.",
-        "hook_bn": "চেক প্রজাতন্ত্রে গণমাধ্যম স্বাধীনতার দাবিতে সাড়ে তিন লাখ মানুষ বিক্ষোভ করেছে।",
-        "question_bn": "গণমাধ্যমের স্বাধীনতা রক্ষায় এই ধরনের গণবিক্ষোভ কতটা কার্যকর বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 4,
-      "trending": true,
-      "social_appeal": 4.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-15T19:02:09.494715+00:00"
+        "checked_at": "2026-11-15T20:03:15.105940+00:00"
       }
     }
   ]
