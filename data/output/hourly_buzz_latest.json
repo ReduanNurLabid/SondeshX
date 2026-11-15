@@ -1,149 +1,139 @@
 {
-  "updated_at": "2026-11-15T22:49:53.555643",
+  "updated_at": "2026-11-15T23:00:44.060945",
   "total_stories": 2,
   "stories": [
     {
-      "story_id": "336bd81f-555b-5239-a501-f60f68a05743",
+      "story_id": "8bebaaef-bd95-5205-8924-e6c321aba3a6",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_bengali/47df/live/16731980-e0f4-11f1-97b9-9110abfffc70.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-15T14:40:06+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.5,
+      "rank_score": 3.4702,
+      "sources": [
+        {
+          "name": "BBC News বাংলা",
+          "url": "https://www.bbc.com/bengali/articles/c6e9kgpe9n4ko?at_medium=RSS&at_campaign=rss",
+          "title": "আওয়ামী লীগ নেতাকর্মীদের মারধর ও পুলিশে সোপর্দের দায়িত্ব কী বিএনপি'র?",
+          "snippet": "আওয়ামী লীগ নেতাকর্মীদের মারধর ও পুলিশে সোপর্দের দায়িত্ব কী বিএনপি'র?"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আওয়ামী লীগ নেতাকর্মীদের মারধর ও পুলিশে সোপর্দ নিয়ে প্রশ্ন উঠেছে",
+        "title_en": "Questions arise over beating and handing over Awami League activists to police",
+        "summary_bn": "নিষিদ্ধ আওয়ামী লীগ নেতাকর্মীদের আটক ও মারধরের ঘটনায় বিএনপি নেতার সম্পৃক্ততা নিয়ে সামাজিক মাধ্যমে সমালোচনা তৈরি হয়েছে।",
+        "summary_en": "Criticism has emerged on social media over the involvement of a BNP leader in detaining and beating banned Awami League activists.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-15T14:40:06+00:00",
+        "lead_bn": "নিষিদ্ধ আওয়ামী লীগ নেতাকর্মীদের আটক ও মারধরের ঘটনায় বিএনপি নেতার সম্পৃক্ততা নিয়ে সামাজিক মাধ্যমে সমালোচনা তৈরি হয়েছে।",
+        "lead_en": "Criticism has emerged on social media over the involvement of a BNP leader in detaining and beating banned Awami League activists.",
+        "bullets_bn": [
+          "ঢাকার আজিমপুর এলাকায় শার্টের কলার ধরে টানাটানি ও মারধরের একটি ভিডিও সামাজিক মাধ্যমে ভাইরাল হয়েছে।",
+          "যুবদল নেতা রবিউল ইসলাম নয়ন চারজনকে ধরে পুলিশে দেওয়ার কথা স্বীকার করে একটি চড় মারার কথা জানান।",
+          "আইন নিজের হাতে তুলে নেওয়া যায় না বলে বিবিসি বাংলাকে জানিয়েছেন বিএনপির ভারপ্রাপ্ত মহাসচিব রুহুল কবির রিজভী।"
+        ],
+        "bullets_en": [
+          "A video showing individuals being grabbed by the shirt collar and beaten in Dhaka's Azimpur area went viral on social media.",
+          "Jubo Dal leader Rabiul Islam Nayon admitted handing four people to police and slapping one in anger.",
+          "BNP Joint Secretary General Ruhul Kabir Rizvi told BBC Bangla that they cannot take the law into their own hands."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ঘটনাটি সন্ধ্যার ঢাকার আজিমপুর এলাকার। এর আগের দিন রাতে ঢাকার শান্তিনগর এলাকা থেকেও এক ছাত্রলীগ নেতাকে পুলিশে দিতে দেখা যায় রবিউল ইসলাম নয়নকে। গত কয়েকদিন ধরে ঢাকার বিভিন্ন এলাকায় কার্যক্রম নিষিদ্ধ আওয়ামী লীগ ও সহযোগী সংগঠনের নেতাকর্মীদের আটক ও মারধরের একাধিক ঘটনা সামনে এসেছে।",
+        "details_en": "The incident took place on Saturday evening in Dhaka's Azimpur area. On the previous night, Rabiul Islam Nayon was also seen handing over a Chhatra League leader to police from Dhaka's Shantinagar area. Over the past few days, multiple incidents of detention, beating, and handing over of activists from the banned Awami League and its associated organizations to police have surfaced across various areas in Dhaka.",
+        "hook_bn": "আওয়ামী লীগ নেতাকর্মীদের মারধর করে পুলিশে সোপর্দ করার ভিডিও সামাজিক মাধ্যমে ভাইরাল হয়েছে।",
+        "question_bn": "আইন নিজের হাতে তুলে না নিয়ে আইনশৃঙ্খলা রক্ষাকারী বাহিনীকে জানানো উচিত কি না?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "unchecked",
+        "checked_at": "2026-11-15T23:02:39.391656+00:00"
+      }
+    },
+    {
+      "story_id": "f1b89219-b133-5e53-91ce-17ddccd0047a",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
-        "society_education",
         "governance_law"
       ],
       "region": "international",
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#USFlights",
+        "#SeanDuffy",
+        "#DonaldTrump",
+        "#FAA"
       ],
-      "image_url": "https://images.unsplash.com/photo-1592487501226-7ed5e5dc80f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGlwbG9tYWN5JTIwd29ybGQlMjBwb2xpdGljcyUyMGZsYWd8ZW58MXwwfHx8MTc5NDc4MzAzNXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b00/live/90c0ff50-e11b-11f1-a7a2-7bb21fac8f0b.jpg",
       "image_caption": null,
-      "published_at": "2026-11-15T22:48:52+00:00",
+      "published_at": "2026-11-15T19:20:53+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5946,
+      "importance_score": 5.5,
+      "rank_score": 2.4454,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/probash/news/1179899",
-          "title": "মালয়েশিয়ার জোহরে সাঁড়াশি অভিযান, বাংলাদেশিসহ ২০৫ অভিবাসী আটক",
-          "snippet": "মালয়েশিয়ার জোহরে সাঁড়াশি অভিযান, বাংলাদেশিসহ ২০৫ অভিবাসী আটক"
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
+          "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+          "snippet": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মালয়েশিয়ার জোহরে অভিযানে বাংলাদেশিসহ ২০৫ অভিবাসী আটক",
-        "title_en": "Two hundred five immigrants including Bangladeshis detained in Johor drive by Malaysia",
-        "summary_bn": "মালয়েশিয়ার জোহর রাজ্যে অবৈধ অভিবাসীদের বিরুদ্ধে গভীর রাতে বড় ধরনের সাঁড়াশি অভিযান চালিয়েছে দেশটির অভিবাসন বিভাগ।",
-        "summary_en": "The immigration department of Malaysia conducted a massive late-night crackdown against undocumented immigrants in Johor state.",
+        "title_bn": "যুক্তরাষ্ট্রে ফ্লাইট বাতিল ও বিলম্ব অব্যাহত রয়েছে",
+        "title_en": "US flight cancellations and delays continue",
+        "summary_bn": "যুক্তরাষ্ট্রে প্রযুক্তিগত ত্রুটির পর বিমান চলাচল ব্যবস্থা পুনরুদ্ধারের প্রক্রিয়ায় হাজার হাজার ফ্লাইট বাতিল ও বিলম্বিত হয়েছে।",
+        "summary_en": "Thousands of US flights were cancelled or delayed as the air-traffic control system recovered from a technical failure.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "society_education",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-15T22:48:52+00:00",
-        "lead_bn": "মালয়েশিয়ার জোহর রাজ্যে অবৈধ অভিবাসীদের বিরুদ্ধে গভীর রাতে বড় ধরনের সাঁড়াশি অভিযান চালিয়েছে দেশটির অভিবাসন বিভাগ।",
-        "lead_en": "The immigration department of Malaysia conducted a massive late-night crackdown against undocumented immigrants in Johor state.",
+        "published_at": "2026-11-15T19:20:53+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রে প্রযুক্তিগত ত্রুটির পর বিমান চলাচল ব্যবস্থা পুনরুদ্ধারের প্রক্রিয়ায় হাজার হাজার ফ্লাইট বাতিল ও বিলম্বিত হয়েছে।",
+        "lead_en": "Thousands of US flights were cancelled or delayed as the air-traffic control system recovered from a technical failure.",
         "bullets_bn": [
-          "অভিযানে বাংলাদেশিসহ বিভিন্ন দেশের মোট ২০৫ জন অভিবাসী আটক হয়েছেন।",
-          "রাজ্যের সেনাইয়ের তামান দেসা ইদামান এলাকার কয়েকটি আবাসিক ভবনে এ অভিযান চালানো হয়।",
-          "মালয়েশিয়ার অভিবাসন বিভাগ এই সাঁড়াশি অভিযান পরিচালনা করেছে।"
+          "রোববার পাঁচ হাজারেরও বেশি ফ্লাইট বিলম্বিত এবং দুই হাজার ফ্লাইট বাতিল করা হয়েছে।",
+          "পরিবহন সচিব শন ডাফি জানান যে ের মধ্যে স্বাভাবিক কার্যক্রম ফিরে নাও আসতে পারে।",
+          "প্রেসিডেন্ট ডোনাল্ড ট্রাম্প বিমান চলাচল ব্যবস্থা আধুনিকায়নে কংগ্রেসকে আরও তহবিল অনুমোদনের আহ্বান জানিয়েছেন।"
         ],
         "bullets_en": [
-          "A total of 205 immigrants including Bangladeshis from various countries were detained in the drive.",
-          "The operation was conducted in several residential buildings in the Taman Desa Idaman area of Senai in the state.",
-          "The immigration department of Malaysia carried out this massive crackdown."
+          "More than 5,000 flights were delayed and 2,000 cancelled on Sunday.",
+          "Secretary of Transportation Sean Duffy said normal operations may not be restored until Monday.",
+          "President Donald Trump urged Congress to approve more money to modernise the air-traffic control system."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "মালয়েশিয়ায় বাংলাদেশিসহ আটক হলো ২০৫ অভিবাসী",
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-15T22:50:59.571455+00:00"
-      }
-    },
-    {
-      "story_id": "f4529d33-cf2c-5f24-87f0-a5e4d9d610fd",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "climate_environment"
-      ],
-      "region": "international",
-      "tags": [
-        "#Gaza",
-        "#Israel",
-        "#Australia",
-        "#UnitedKingdom"
-      ],
-      "image_url": "https://i.guim.co.uk/img/media/682a0487f17cbff2735306182cdbb7ec07b2d56c/785_0_3912_3131/master/3912.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4cc0de160bea529b9c114b4421bb53a7",
-      "image_caption": null,
-      "published_at": "2026-11-15T22:28:02+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.4467,
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
-          "title": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
-          "snippet": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter"
-        },
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
-          "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
-          "snippet": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "গাজায় ত্রাণ প্রবেশ করতে ইসরায়েলের প্রতি চার দেশের আহ্বান",
-        "title_en": "Four countries urge Israel to allow critical aid into Gaza",
-        "summary_bn": "অস্ট্রেলিয়া, কানাডা, যুক্তরাজ্য ও ইতালি ইসরায়েলকে গাজায় অবিলম্বে জরুরি মানবিক সহায়তা প্রবেশের অনুমতি দেওয়ার আহ্বান জানিয়েছে।",
-        "summary_en": "Australia, Canada, the United Kingdom and Italy have urged Israel to allow critical humanitarian aid to enter Gaza.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "climate_environment"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-15T22:28:02+00:00",
-        "lead_bn": "অস্ট্রেলিয়া, কানাডা, যুক্তরাজ্য ও ইতালি ইসরায়েলকে গাজায় অবিলম্বে জরুরি মানবিক সহায়তা প্রবেশের অনুমতি দেওয়ার আহ্বান জানিয়েছে।",
-        "lead_en": "Australia, Canada, the United Kingdom and Italy have urged Israel to allow critical humanitarian aid to enter Gaza.",
-        "bullets_bn": [
-          "চার দেশ এক যৌথ বিবৃতিতে গাজায় ১৫০০০০ তাঁবু ও অন্যান্য প্রয়োজনীয় সরবরাহ প্রবেশের অনুমতি দেওয়ার আহ্বান জানিয়েছে।",
-          "অস্ট্রেলিয়া, কানাডা, ইতালি ও যুক্তরাজ্যের পররাষ্ট্রমন্ত্রীরা বলেছেন যে গাজার মাঠপর্যায়ের মানবিক পরিস্থিতি অত্যন্ত ভয়াবহ।",
-          "সাম্প্রতিক বন্যা গাজায় মানুষের দুর্ভোগ আরও বাড়িয়ে দিয়েছে বলে জানানো হয়েছে।"
-        ],
-        "bullets_en": [
-          "The four countries released a joint statement urging Israel to allow 150,000 tents and vital supplies into Gaza.",
-          "The Foreign Ministers of Australia, Canada, Italy and the United Kingdom stated that the humanitarian situation is dire.",
-          "Recent floods have brought further suffering to people in Gaza as the first storm of winter arrived."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "গাজায় আটকে আছে দেড় লাখ তাঁবু ও জরুরি ত্রাণ",
-        "question_bn": null
+        "details_bn": "সব বিমান গ্রাউন্ড করার ফলে দেশজুড়ে বিমানবন্দরে চরম বিশৃঙ্খলা সৃষ্টি হয়। ফেডারেল এভিয়েশন প্রশাসন বা এফএএ ফ্লাইট স্থগিতের ঘোষণা দেওয়ার সময় আকাশে সাড়ে তিন হাজারেরও বেশি বিমান ছিল। ফ্লাইটঅ্যাওয়ারের তথ্য অনুযায়ী, এর ফলশ্রুতিতে আট হাজার পাঁচশ ফ্লাইট বিলম্বিত এবং আট হাজার ফ্লাইট বাতিল হয়। গ্রাউন্ড স্টপের কারণে যুক্তরাজ্য ও ইউরোপ থেকে ছেড়ে যাওয়া কিছু ফ্লাইটসহ বিশ্বজুড়ে শিডিউলেও প্রভাব পড়ে। প্রায় সাড়ে চার ঘণ্টা পর গ্রাউন্ড স্টপ প্রত্যাহার করা হলেও সপ্তাহজুড়ে এর প্রভাব অব্যাহত ছিল।",
+        "details_en": "The grounding of all aircraft scheduled to depart the US on Friday caused chaos at airports across the country. More than 3,500 airplanes were in the air when the FAA announced flights would be grounded until further notice. In the aftermath, 8,500 flights were delayed and another 8,000 cancelled, according to FlightAware. The ground stop also had a knock-on effect on schedules around the world, with some flights out of the UK and Europe cancelled. The ground stop was lifted after about four and a half hours, but impacts continued over the weekend.",
+        "hook_bn": "যুক্তরাষ্ট্রে ফ্লাইট বিভ্রাটের কারণে হাজার হাজার ফ্লাইট বাতিল ও বিলম্বিত হয়েছে।",
+        "question_bn": "যুক্তরাষ্ট্রের এই বিমান চলাচলের বিঘ্ন আপনার ভ্রমণ পরিকল্পনা বা প্রবাসীদের যাতায়াতে কীভাবে প্রভাব ফেলেছে?"
       },
       "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 4.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 5.0,
       "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-15T22:50:59.571455+00:00"
+        "status": "unchecked",
+        "checked_at": "2026-11-15T23:02:39.391656+00:00"
       }
     }
   ]
