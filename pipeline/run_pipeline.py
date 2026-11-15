@@ -58,8 +58,23 @@ def run_hourly_buzz(limit: int = 8):
 
     # 2. Cross-Run Memory (loaded first: the news desk needs it to spot repeats)
     print(f"\n🧠 Loading historical event memory from past 30 hours...")
-    historical_stories = get_recent_published_stories(limit=100, max_age_hours=30.0)
+    historical_stories = get_recent_published_stories(limit=150, max_age_hours=30.0)
     print(f"   Loaded {len(historical_stories)} recent published stories for cross-run deduplication.")
+
+    # Coverage sweep: articles 3-12 hours old that match a headline leading Google News
+    # Bangladesh right now get another chance, so an important story that fell through an
+    # earlier run is not lost. Already-published ones are caught by the duplicate checks.
+    try:
+        from pipeline.processing.news_desk import fetch_trending_titles, _tokens
+        trending = [_tokens(t.rsplit(" - ", 1)[0]) for t in fetch_trending_titles(40)]
+        seen = {a.url for a in candidates}
+        older = [a for a in fetch_rss_candidates(max_age_hours=12.0) if a.url not in seen]
+        swept = [a for a in older if any(len(_tokens(a.title) & t) >= 3 for t in trending)]
+        if swept:
+            print(f"   Coverage sweep: {len(swept)} older articles match current mainstream headlines")
+            candidates = candidates + swept[:30]
+    except Exception as err:
+        print(f"   Coverage sweep skipped: {err}")
 
     # AI news desk groups, ranks and de-duplicates events; keyword clustering is the fallback
     print("\nAI news desk: grouping and ranking events...")

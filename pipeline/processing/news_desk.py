@@ -38,6 +38,7 @@ from pipeline.processing.scoring import compute_time_decayed_score
 BD_OUTLET_BONUS_PER_EXTRA = 0.25  # each additional Bangladeshi outlet carrying the event
 BD_OUTLET_BONUS_CAP = 3           # ...counted up to three extra outlets (max +0.75)
 TRENDING_BONUS = 0.5              # in Google News Bangladesh top stories
+PUBLISHED_CONTEXT = 120           # published stories (about a day) shown to the desk for duplicate checks
 MAX_SIGNAL_BONUS = 1.0            # signals can lift the desk's judgement by at most one point
 
 
@@ -83,7 +84,7 @@ def _build_prompt(articles: List[RawArticle], trending: List[str], published: Li
         buzz = story.get("daily_buzz") or {}
         score = story.get("desk_importance")
         tag = f" [score {score:g}]" if isinstance(score, (int, float)) else ""
-        published_lines.append(f"P{i}{tag}: {buzz.get('title_en', '')} / {buzz.get('title_bn', '')}")
+        published_lines.append(f"P{i}{tag}: {(buzz.get('title_en') or '')[:90]} / {(buzz.get('title_bn') or '')[:90]}")
     if not published_lines:
         published_lines = ["(none)"]
 
@@ -102,7 +103,7 @@ PUBLISHED (stories already on our site in the last day):
 
 TASKS
 1. Group ARTICLES into events. Two articles belong to the same event only when they report the same specific occurrence (same actors, same action, same time). The same topic is not the same event. Match across Bengali and English.
-2. Leave out articles that are not news a mainstream reader needs: sports fixtures and routine match reports, celebrity and lifestyle items, product deals, horoscopes, opinion columns, minor local incidents with no wider significance, and individual crimes or disputes that matter only to the people involved.
+2. Leave out articles that are not news a mainstream reader needs: sports fixtures, foreign league match reports, celebrity and lifestyle items, product deals, horoscopes, opinion columns, minor local incidents with no wider significance, and individual crimes or disputes that matter only to the people involved.
    Reports marked "unverified outlet" are less reliable: do not raise an event's importance because of them, and treat sensational claims that only they report with scepticism.
 3. Score each event's importance from 1 to 10 for a general reader in Bangladesh. Use the whole scale; do not cluster everything around 6-8.
    10: a national turning point that will lead every outlet for days (election result, change of government, major disaster with many deaths).
@@ -116,13 +117,14 @@ TASKS
    Limits:
    - At most two events in this batch may score 8 or more, and only if they truly lead the national news today.
    - An event outside Bangladesh scores at most 6 unless it directly affects Bangladesh or Bangladeshis (migrant workers, trade, fuel and food prices, the region's security).
-   - Sport and entertainment score at most 5, unless the Bangladesh national team wins or loses a major final.
+   - Sport: Bangladesh national team results in international matches score 6 (cricket especially, which most readers follow); records, series or tournament results, and hosting or selection decisions involving Bangladesh, score 7. Other sport scores at most 4. Entertainment scores at most 4.
+   - Statements, speeches, allegations, warnings or reactions by politicians and officials score at most 5, unless they announce an official decision or policy, or reveal significant new facts.
    - Being new, or appearing in TRENDING, does not by itself make an event more important. Judge the consequence for people, not the noise.
    - Score consistently with the PUBLISHED stories: their current scores are shown in brackets.
 4. region: "national" if the event happens in Bangladesh or directly involves Bangladesh, otherwise "international".
 5. category: one of {categories}.
 6. trending: true if the event matches a TRENDING headline.
-7. published: the P-number (integer) of a PUBLISHED story covering the same event with nothing substantially new, otherwise null.
+7. published: the P-number (integer) of a PUBLISHED story covering the same event, otherwise null. Mark it even if the wording differs or minor details were added; treat the event as new only for a major development (a death toll rising substantially, a new official decision, an arrest or verdict).
 8. appeal: 1 to 10, how likely an ordinary Bangladeshi scrolling Facebook is to stop, watch a short video about this and share it.
    High: prices of food, fuel, electricity or gas; jobs and wages; exams, admissions and results; holidays; transport, roads and flights; weather and disasters; public safety; health risks such as dengue; major national politics.
    Low: ceremonial meetings, routine statements, technical policy, minor foreign news.
@@ -132,6 +134,31 @@ Return JSON only:
 {{"events": [{{"articles": [1, 7], "importance": 8, "region": "national", "category": "governance_law", "trending": true, "published": null, "appeal": 7}}]}}
 
 Each article number may appear in at most one event."""
+
+
+def _tokens(text: str) -> set:
+    import re
+    return {w for w in re.findall(r"[\w\u0980-\u09FF]{3,}", (text or "").lower())}
+
+
+def _known_story(members: List[RawArticle], published: List[dict]) -> Optional[dict]:
+    """Hard duplicate check the desk cannot miss: an article already cited by a published
+    story (front pages without timestamps are scraped again every hour), or a headline
+    nearly identical to a published headline or source headline."""
+    urls = {a.url for a in members}
+    titles = [_tokens(a.title) for a in members]
+    for story in published:
+        sources = story.get("sources") or []
+        if urls & {s.get("url") for s in sources if isinstance(s, dict)}:
+            return story
+        buzz = story.get("daily_buzz") or {}
+        known = [_tokens(buzz.get("title_en")), _tokens(buzz.get("title_bn"))] + [
+            _tokens(s.get("title")) for s in sources if isinstance(s, dict)]
+        for t in titles:
+            for k in known:
+                if len(t) >= 4 and len(k) >= 4 and len(t & k) / len(t | k) >= 0.6:
+                    return story
+    return None
 
 
 def _as_int_list(value) -> List[int]:
@@ -171,7 +198,7 @@ def build_desk_events(
     Each event carries `desk` (the editor's judgement) and `published_match`.
     """
     articles = candidates[:DESK_MAX_ARTICLES]
-    published = published[:40]
+    published = published[:PUBLISHED_CONTEXT]
     trending = fetch_trending_titles()
 
     try:
@@ -260,7 +287,7 @@ def build_desk_events(
         match = raw.get("published")
         event.published_match = (
             published[match - 1] if isinstance(match, int) and 1 <= match <= len(published) else None
-        )
+        ) or _known_story(members, published)
         events.append(event)
 
     print(f"   Desk returned {len(raw_events)} events; kept {len(events)}, dropped {dropped}.")
