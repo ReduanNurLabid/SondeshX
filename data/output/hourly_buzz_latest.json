@@ -1,159 +1,399 @@
 {
-  "updated_at": "2026-11-15T00:00:45.616245",
-  "total_stories": 2,
+  "updated_at": "2026-11-15T01:00:43.012917",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "c3640e73-665f-5f52-828c-13bce5d55556",
+      "story_id": "64164ec8-05ac-5456-b45a-1eca461e6796",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#BGMEA",
+        "#BKMEA",
+        "#MahmudHasanKhan"
+      ],
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/181552/image-900x600-42.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-15T01:00:55.790540+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 8.5,
+      "rank_score": 7.2207,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/garment-units-unable-to-run-sunday-production-face-indefinite-closure",
+          "title": "No work, no pay: RMG factories brace for indefinite shutdown",
+          "snippet": "No work, no pay: RMG factories brace for indefinite shutdown"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "শ্রম আইন অনুযায়ী অনির্দিষ্টকালের জন্য বন্ধ হতে পারে তৈরি পোশাক কারখানা।",
+        "title_en": "RMG factories may face indefinite shutdown under Labour Law provision.",
+        "summary_bn": "উৎপাদন চালাতে ব্যর্থ পোশাক কারখানাগুলো শ্রম আইনের ১৩ (১) ধারা অনুযায়ী অনির্দিষ্টকালের জন্য বন্ধ রাখা হবে।",
+        "summary_en": "Garment factories failing to run production on Sunday will shut down units under Labour Law provision 13 (1).",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-15T01:00:55.790540+00:00",
+        "lead_bn": "উৎপাদন চালাতে ব্যর্থ পোশাক কারখানাগুলো শ্রম আইনের ১৩ (১) ধারা অনুযায়ী অনির্দিষ্টকালের জন্য বন্ধ রাখা হবে।",
+        "lead_en": "Garment factories failing to run production on Sunday will shut down units under Labour Law provision 13 (1).",
+        "bullets_bn": [
+          "বিজিএমইএ ও বিকেএমইএর যৌথ সাধারণ সভা শেষে এই ঘোষণা দেন বিজিএমইএ সভাপতি মাহমুদ হাসান খান।",
+          "কিছু কারখানা কাজ চালাতে না পেরে শ্রম আইনের ১৩ (১) ধারা অনুযায়ী বন্ধ রাখতে বাধ্য হয়েছে।",
+          "আসন্ন মজুরি বোর্ডের সভায় যোগ দিয়ে নিজেদের প্রস্তাব তুলে ধরবে সংগঠনটি।"
+        ],
+        "bullets_en": [
+          "BGMEA President Mahmud Hasan Khan announced the decision after a joint general meeting of BGMEA and BKMEA.",
+          "Some factories were forced to shut down in line with provision 13 (1) as they could not operate.",
+          "The body will join the upcoming wage board meeting and place their proposal."
+        ],
+        "impact_bn": "গাজীপুরে পোশাক শ্রমিকরা ঢাকা-টাঙ্গাইল মহাসড়ক অবরোধ করায় যান চলাচল বিঘ্নিত হয়।",
+        "impact_en": "Garment workers blocked the Dhaka-Tangail highway in Gazipur, halting traffic.",
+        "details_bn": "বিজিএমইএ সভাপতি জানান যে বাণিজ্য সংগঠন হিসেবে বিজিএমইএ বা বিকেএমইএ এই সিদ্ধান্ত নিতে পারে না, কেবল সংশ্লিষ্ট কারখানাগুলোই আইনগতভাবে তা করতে পারে। তিনি আরও জানান যে নির্দিষ্ট সংখ্যক কারখানা সচল থাকতে পারেনি এবং কিছু ইউনিট বন্ধ হয়ে গেছে।",
+        "details_en": "The BGMEA president stated that as trade bodies, BGMEA or BKMEA cannot take such a decision, and only respective factories are lawfully permitted to do so. He also mentioned that a number of factories could not operate and some units were forced to shut down."
+      },
+      "desk_importance": 8.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-15T01:01:52.410553+00:00"
+      }
+    },
+    {
+      "story_id": "57a75fe2-e590-5de2-9784-c148c4403a10",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#BangladeshBank",
+        "#MostaqurRahman",
+        "#BonikBarta",
+        "#BangladeshEconomicSummit"
+      ],
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/181600/p1-info.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-15T01:00:55.790540+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.0,
+      "rank_score": 4.897,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/economy/govt-to-funnel-tk-600b-from-budget-annually-for-bank-recapitalisation-bb-governor",
+          "title": "Govt to funnel Tk 600b from budget annually for bank recapitalisation: BB governor",
+          "snippet": "Govt to funnel Tk 600b from budget annually for bank recapitalisation: BB governor"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ব্যাংক পুনর্মূলধনায়নে বাজেটে বার্ষিক ৬০০ বিলিয়ন টাকা বরাদ্দ দেবে সরকার",
+        "title_en": "Govt to earmark Tk 600b annually for bank recapitalisation: BB governor",
+        "summary_bn": "বাংলাদেশ ব্যাংক জানিয়েছে, ব্যাংকিং খাতের পুনর্মূলধনায়নের জন্য সরকার প্রতি অর্থবছরে বাজেটে ৬০০ বিলিয়ন টাকা বরাদ্দ রাখবে।",
+        "summary_en": "The government will earmark Tk 600 billion annually in the fiscal budget for banking-sector recapitalisation, according to Bangladesh Bank.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-15T01:00:55.790540+00:00",
+        "lead_bn": "বাংলাদেশ ব্যাংক জানিয়েছে, ব্যাংকিং খাতের পুনর্মূলধনায়নের জন্য সরকার প্রতি অর্থবছরে বাজেটে ৬০০ বিলিয়ন টাকা বরাদ্দ রাখবে।",
+        "lead_en": "The government will earmark Tk 600 billion annually in the fiscal budget for banking-sector recapitalisation, according to Bangladesh Bank.",
+        "bullets_bn": [
+          "বাংলাদেশ ব্যাংক গভর্নর মো. মোস্তাকুর রহমান বলেছেন, ভবিষ্যৎ প্রজন্মকে এর আর্থিক মূল্যের বোঝা বহন করতে হতে পারে।",
+          "পঞ্চম বাংলাদেশ ইকোনমিক সামিট ২০২৬ অনুষ্ঠানে এই তথ্য জানানো হয়।",
+          "বনিক বার্তা এই সামিট আয়োজন করে এবং এর সম্পাদক দেওয়ান হানিফ মাহমুদ অনুষ্ঠানটি সঞ্চালনা করেন।"
+        ],
+        "bullets_en": [
+          "Bangladesh Bank Governor Md. Mostaqur Rahman said future generations may have to bear the fiscal cost.",
+          "The announcement was made at the fifth Bangladesh Economic Summit 2026.",
+          "Vernacular daily Bonik Barta organised the summit, which was moderated by its editor Dewan Hanif Mahmud."
+        ],
+        "impact_bn": "পরবর্তী প্রজন্ম চাকরি, ব্যবসা এবং কর দিলেও তাদের অবদানের ফল ভোগ করতে পারবে না বলে গভর্নর উল্লেখ করেছেন।",
+        "impact_en": "The governor stated that the next generation will do jobs, do business, and pay taxes, but won't be able to enjoy the fruits of it.",
+        "details_bn": "একটি স্থানীয় হোটেলে আয়োজিত পঞ্চম বাংলাদেশ ইকোনমিক সামিট ২০২৬-এ প্রধান অতিথির বক্তব্যে গভর্নর এই মন্তব্য করেন। বৈশ্বিক অনিশ্চয়তার মধ্যে অর্থনীতির রোডম্যাপ প্রতিপাদ্য নিয়ে বনিক বার্তা এই সামিটের আয়োজন করে। অনুষ্ঠানে ব্যাংকিং খাতের প্রতিনিধি ও প্রধান শিল্প খাতের ব্যক্তিরা উপস্থিত ছিলেন। গভর্নর আরও জানান যে বৈদেশিক মুদ্রার রিজার্ভে স্থিতিশীলতার কিছু লক্ষণ দেখা গেলেও উচ্চ মূল্যস্ফীতি, চড়া সুদের হার এবং ভারী করপোরেট ঋণ কেন্দ্রীকরণের মতো পদ্ধতিগত দুর্বলতাগুলো চ্যালেঞ্জ তৈরি করছে।",
+        "details_en": "The governor made the remarks as chief guest at the fifth Bangladesh Economic Summit 2026 held at a local hotel. Organised by vernacular daily Bonik Barta with the theme roadmap for the economy amid global uncertainty, the event was attended by banking and major industrial sector representatives. The governor added that while foreign-exchange reserves show some stability, high inflation, elevated interest rates, and heavy corporate lending concentration pose deep-seated challenges."
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-15T01:01:52.410553+00:00"
+      }
+    },
+    {
+      "story_id": "dd1aeb90-ba11-564c-8646-d8425e7a3553",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law",
-        "world_diplomacy"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1532929900024-6413d2ed39c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8d2VhcG9uJTIwY2FycmllciUyMGZsZWVzJTIwaW5kaWElMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTQ3MDA4NjN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/hasan-nowfel-20260407122327-20260503142246-20261115064808.jpg?cid=497943",
       "image_caption": null,
-      "published_at": "2026-11-14T21:38:08+00:00",
+      "published_at": "2026-11-15T00:48:08+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.402,
+      "importance_score": 7.0,
+      "rank_score": 4.8371,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1179537",
-          "title": "ফেনী সীমান্তে ব্যাগ ফেলে ভারত পালালেন অস্ত্র বহনকারী, মিললো ২ পিস্তল",
-          "snippet": "ফেনী সীমান্তে ব্যাগ ফেলে ভারত পালালেন অস্ত্র বহনকারী, মিললো ২ পিস্তল"
-        },
-        {
           "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/country/497937",
-          "title": "সীমান্তে ব্যাগ ফেলে ভারত পালালেন অস্ত্র বহনকারী, মিললো দুই পিস্তল",
-          "snippet": "সীমান্তে ব্যাগ ফেলে ভারত পালালেন অস্ত্র বহনকারী, মিললো দুই পিস্তল"
+          "url": "https://www.dhakapost.com/law-courts/497943",
+          "title": "হাছান মাহমুদ-নওফেলসহ ২২ আসামির মানবতাবিরোধী অপরাধ মামলায় সাক্ষ্য শুরু আজ",
+          "snippet": "হাছান মাহমুদ-নওফেলসহ ২২ আসামির মানবতাবিরোধী অপরাধ মামলায় সাক্ষ্য শুরু আজ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ফেনী সীমান্তে ব্যাগ ফেলে ভারত পালিয়ে গেছেন অস্ত্র বহনকারী",
-        "title_en": "Weapon carrier flees to India leaving bag at Feni border",
-        "summary_bn": "ফেনীর ছাগলনাইয়া সীমান্তে বিজিবির অভিযানে দুটি বিদেশি পিস্তল, চার ম্যাগাজিন ও তিন রাউন্ড গুলি উদ্ধার করা হয়েছে।",
-        "summary_en": "Two foreign pistols, four magazines and three rounds of bullets were recovered in a BGB drive at Chhagalnaiya border in Feni.",
+        "title_bn": "ড. হাছান মাহমুদসহ ২২ আসামির বিরুদ্ধে মানবতাবিরোধী অপরাধ মামলায় সাক্ষ্যগ্রহণ শুরু",
+        "title_en": "Testimony starts in crimes against humanity case against 22 accused including Hasan Mahmud",
+        "summary_bn": "চব্বিশের জুলাই গণঅভ্যুত্থান চলাকালীন চট্টগ্রামে ছয়জনকে হত্যার ঘটনায় সাবেক পররাষ্ট্রমন্ত্রী ড. হাছান মাহমুদসহ ২২ আসামির বিরুদ্ধে মানবতাবিরোধী অপরাধের মামলায় সাক্ষ্যগ্রহণ শুরু হচ্ছে।",
+        "summary_en": "Testimony is starting in the crimes against humanity case against 22 accused including former foreign minister Dr Hasan Mahmud over the killing of six people in Chattogram during the July mass uprising of twenty four.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "world_diplomacy"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-14T21:38:08+00:00",
-        "lead_bn": "ফেনীর ছাগলনাইয়া সীমান্তে বিজিবির অভিযানে দুটি বিদেশি পিস্তল, চার ম্যাগাজিন ও তিন রাউন্ড গুলি উদ্ধার করা হয়েছে।",
-        "lead_en": "Two foreign pistols, four magazines and three rounds of bullets were recovered in a BGB drive at Chhagalnaiya border in Feni.",
+        "published_at": "2026-11-15T00:48:08+00:00",
+        "lead_bn": "চব্বিশের জুলাই গণঅভ্যুত্থান চলাকালীন চট্টগ্রামে ছয়জনকে হত্যার ঘটনায় সাবেক পররাষ্ট্রমন্ত্রী ড. হাছান মাহমুদসহ ২২ আসামির বিরুদ্ধে মানবতাবিরোধী অপরাধের মামলায় সাক্ষ্যগ্রহণ শুরু হচ্ছে।",
+        "lead_en": "Testimony is starting in the crimes against humanity case against 22 accused including former foreign minister Dr Hasan Mahmud over the killing of six people in Chattogram during the July mass uprising of twenty four.",
         "bullets_bn": [
-          "উপজেলার মধুগ্রাম সীমান্ত এলাকায় এ অভিযান চালানো হয়।",
-          "অভিযানের সময় অস্ত্র বহনকারী ব্যাগ ফেলে ভারত পালিয়ে যান।",
-          "উদ্ধারকৃত অস্ত্রের মধ্যে রয়েছে দুটি বিদেশি পিস্তল।"
+          "আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল-২ এর চেয়ারম্যান বিচারপতি নজরুল ইসলাম চৌধুরীর নেতৃত্বাধীন তিন সদস্যের বিচারিক প্যানেলে প্রসিকিউশনের সূচনা বক্তব্য উপস্থাপনের মধ্য দিয়ে কার্যক্রম শুরু হওয়ার কথা রয়েছে।",
+          "মামলার পাঁচ গ্রেপ্তার আসামি হলেন ফজলে করিম চৌধুরী, আজিজুর রহমান, তৌহিদুল ইসলাম, মো. ফিরোজ ও দেবাশীষ পাল দেবু।",
+          "গত ১৯ অক্টোবর আনুষ্ঠানিক অভিযোগ গঠনের আদেশ পুনর্বিবেচনা চেয়ে করা আসামিপক্ষেন আবেদন খারিজ করে ট্রাইব্যুনাল সূচনা বক্তব্যসহ সাক্ষ্যগ্রহণের জন্য দিন ধার্য করেন।"
         ],
         "bullets_en": [
-          "The drive was conducted on Saturday evening in Madhugram border area of the upazila.",
-          "During the drive, the weapon carrier left the bag and fled to India.",
-          "The recovered weapons include two foreign pistols."
+          "The proceedings are scheduled to begin with the prosecution presenting its opening statement before the three-member judicial panel headed by International Crimes Tribunal-2 Chairman Justice Nazrul Islam Chowdhury.",
+          "The five arrested accused in the case are Fazle Karim Chowdhury, Azizur Rahman, Touhidul Islam, Md Firoz and Debashish Pal Debu.",
+          "On October 19, the tribunal dismissed the defence application seeking reconsideration of the formal charge framing order and set the date for opening statements and testimony."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null
+        "details_bn": "প্রসিকিউশনের তথ্য অনুযায়ী, ২২ আসামির বিরুদ্ধে গত ৩০ জুন আনুষ্ঠানিক অভিযোগ গঠন করে বিচার শুরুর আদেশ দেন ট্রাইব্যুনাল-২। এ আদেশের বিরুদ্ধে রিভিউ আবেদন করেন গ্রেপ্তার পাঁচ আসামি। ২১ সেপ্টেম্বর প্রথম দিনের শুনানির পর ৮ ও ১৩ অক্টোবর আরও শুনানি হয় এবং ১৯ অক্টোবর আবেদনটি খারিজ করে দেন আদালত। এর আগে ৭ এপ্রিল সুনির্দিষ্ট তিনটি আনুষ্ঠানিক অভিযোগ আমলে নেন ট্রাইব্যুনাল-২ এবং ৫ এপ্রিল ফরমাল চার্জ দাখিল করে প্রসিকিউশন। প্রথম অভিযোগে ওয়াসিম আকরাম, ফয়সাল আহমেদ শান্ত ও মো. ফারুককে হত্যার কথা বলা হয়েছে। দ্বিতীয় অভিযোগে তানভীর সিদ্দিকী, সায়মন ও হৃদয় চন্দ্রকে হত্যা এবং তৃতীয় অভিযোগে জাহিদ হাসান, আবদুল কাদের, আছিয়া খাতুন, সানজিদা সুলতানা ও আবদুল্লাহসহ শতাধিক ছাত্র-জনতাকে গুরুতর আহতের বর্ণনা রয়েছে।",
+        "details_en": "According to prosecution information, Tribunal-2 ordered the start of trial by framing formal charges against the 22 accused on June 30. Five arrested accused filed a review application against the order. Following a first hearing on September 21, further hearings took place on October 8 and 13, and the court dismissed the application on October 19. Earlier, Tribunal-2 took cognisance of three specific formal charges on April 7 after the prosecution submitted the formal charge on April 5. The first charge involves the killing of Wasim Akram, Faisal Ahmed Shanta and Md Faruk. The second charge mentions the killing of Tanvir Siddiqui, Saymon and Hriday Chandra, and the third charge describes the severe injuring of over a hundred students and people including Zahid Hasan, Abdul Kader, Asia Khatun, Sanjida Sultana and Abdullah."
       },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
+      "desk_importance": 7.0,
+      "outlet_count": 1,
       "trending": false,
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-15T00:01:08.105859+00:00"
+        "checked_at": "2026-11-15T01:01:52.410553+00:00"
       }
     },
     {
-      "story_id": "9c080561-0eb5-5693-a955-f9a5cd09a09e",
-      "primary_category": "tech_innovation",
+      "story_id": "18d5214c-5b31-5088-be0a-97746d77512a",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "tech_innovation",
-        "sports_fitness"
+        "governance_law",
+        "economy_business"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#SpaceX",
-        "#Starship"
+        "#HSIA",
+        "#MRashiduzzamanMillat",
+        "#CAAB"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/8d43d90555e696b8b0c519ba0b4fd459453f0aab/304_0_3038_2430/master/3038.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9207fcd0e16c78d218d11a61000f996f",
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/181560/hsia-terminal-3-focus-bangla-900x599.jpg",
       "image_caption": null,
-      "published_at": "2026-11-14T22:35:06+00:00",
+      "published_at": "2026-11-15T01:00:55.790540+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.7849,
+      "importance_score": 6.0,
+      "rank_score": 3.5978,
       "sources": [
         {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
-          "title": "SpaceX’s Starship returns to launch pad from orbit in victory for company",
-          "snippet": "SpaceX’s Starship returns to launch pad from orbit in victory for company"
-        },
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/spacex-carries-out-first-ever-spaceship-capture/a-79950275?maca=en-rss-en-all-1573-rdf",
-          "title": "SpaceX carries out first-ever spaceship capture",
-          "snippet": "SpaceX carries out first-ever spaceship capture"
-        },
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
-          "title": "SpaceX’s Starship returns from orbit and is captured by launch pad arms in a dramatic first",
-          "snippet": "SpaceX’s Starship returns from orbit and is captured by launch pad arms in a dramatic first"
-        },
-        {
-          "name": "MarketWatch Economy",
-          "url": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
-          "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
-          "snippet": "SpaceX successfully catches Starship rocket in huge milestone for the space industry"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/hsias-third-terminal-to-open-with-four-flights-on-dec-16-minister",
+          "title": "HSIA's third terminal to open with four flights on Dec 16: Minister",
+          "snippet": "HSIA's third terminal to open with four flights on Dec 16: Minister"
         }
       ],
       "daily_buzz": {
-        "title_bn": "স্পেসএক্সের স্টারশিপ রকেট সফলভাবে উৎক্ষেপণ প্যাডে ফিরে এসেছে",
-        "title_en": "SpaceX Starship rocket successfully returns to launch pad",
-        "summary_bn": "স্পেসএক্সের স্টারশিপ রকেট কক্ষপথ থেকে ফিরে টেক্সাসের উৎক্ষেপণ টাওয়ারের যান্ত্রিক বাহুর ধরায় অবতরণ করেছে।",
-        "summary_en": "SpaceX’s Starship rocket returned from orbit and descended into the mechanical arms of the Texas launch tower.",
+        "title_bn": "এইচএসআইএর তৃতীয় টার্মিনাল ১৬ ডিসেম্বর চারটি ফ্লাইট দিয়ে চালু হবে",
+        "title_en": "HSIA third terminal to open with four flights on Dec 16",
+        "summary_bn": "বেসামরিক বিমান পরিবহন মন্ত্রী জানিয়েছেন, হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরের তৃতীয় টার্মিনাল ১৬ ডিসেম্বর সীমিত পরিসরে চালু হয়ে চারটি ফ্লাইট পরিচালনা করবে।",
+        "summary_en": "Civil Aviation Minister M Rashiduzzaman Millat said Shahjalal International Airport's third terminal will make a limited start on Dec 16 handling four flights.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "tech_innovation",
-          "sports_fitness"
+          "governance_law",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-14T22:35:06+00:00",
-        "lead_bn": "স্পেসএক্সের স্টারশিপ রকেট কক্ষপথ থেকে ফিরে টেক্সাসের উৎক্ষেপণ টাওয়ারের যান্ত্রিক বাহুর ধরায় অবতরণ করেছে।",
-        "lead_en": "SpaceX’s Starship rocket returned from orbit and descended into the mechanical arms of the Texas launch tower.",
+        "published_at": "2026-11-15T01:00:55.790540+00:00",
+        "lead_bn": "বেসামরিক বিমান পরিবহন মন্ত্রী জানিয়েছেন, হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরের তৃতীয় টার্মিনাল ১৬ ডিসেম্বর সীমিত পরিসরে চালু হয়ে চারটি ফ্লাইট পরিচালনা করবে।",
+        "lead_en": "Civil Aviation Minister M Rashiduzzaman Millat said Shahjalal International Airport's third terminal will make a limited start on Dec 16 handling four flights.",
         "bullets_bn": [
-          "৫২ মিটার দীর্ঘ স্টারশিপের এই ১৫তম পরীক্ষামূলক মিশনে মহাকাশযানটি ১৪ বার পৃথিবী প্রদক্ষিণ করে।",
-          "স্পেসএক্সের মুখপাত্র ড্যান হুয়ট জানান, বুস্টারটি নির্ধারিত স্থানে না থাকায় তা মেক্সিকো উপসাগরে বিস্ফোরিত হয়।",
-          "স্পেসএক্স আগামী কয়েক মাসের মধ্যে ফ্লোরিডার কেনেডি স্পেস সেন্টার থেকে স্টারশিপ উৎক্ষেপণ শুরু করার আশা করছে।"
+          "সিএএবির সংবাদ বিজ্ঞপ্তিতে জানানো হয়েছে, এই সূচিতে দুটি আগমন ও দুটি প্রস্থান থাকবে।",
+          "মন্ত্রী এম রাশিদুজ্জামান মিল্লাত সিএএবি সদর দপ্তরে এক বৈঠকে সংশ্লিষ্ট সংস্থাগুলোকে যথাসময়ে প্রস্তুতি সম্পন্ন করার নির্দেশ দিয়েছেন।",
+          "পূর্ণাঙ্গ অপারেশন চালুর পরিকল্পনা রয়েছে মার্চ মাসে এবং ধীরে ধীরে ফ্লাইটের সংখ্যা বৃদ্ধি করা হবে।"
         ],
         "bullets_en": [
-          "The 171ft upper stage orbited Earth 14 times during the 15th test flight.",
-          "SpaceX spokesperson Dan Huot said the booster diverted and exploded in the Gulf of Mexico because it was not in the right place.",
-          "SpaceX expects to begin launching Starships from Florida’s Kennedy Space Center within the next few months."
+          "The schedule will comprise two arrivals and two departures according to a CAAB media statement.",
+          "Minister M Rashiduzzaman Millat instructed relevant agencies to complete preparations on time at a meeting at CAAB headquarters.",
+          "Full operations are planned for March with flight numbers gradually increasing."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "স্পেসএক্সের স্টারশিপ রকেটটি সুপার হেভি নামক একটি নিম্ন বুস্টার এবং স্টারশিপ নামক একটি ওপরের অংশ নিয়ে গঠিত। এই পরীক্ষামূলক মিশনের লক্ষ্য ছিল সব অংশ অক্ষত অবস্থায় উৎক্ষেপণ সাইটে ফিরিয়ে আনা, যা ইলন মাস্কের সম্পূর্ণরূপে পুনব্যবহারযোগ্য রকেট ব্যবস্থা তৈরির লক্ষ্যের অংশ। উৎক্ষেপণের কয়েক মিনিট পর বুস্টারটি বিচ্যুত হয়ে মেক্সিকো উপসাগরে বিস্ফোরিত হলেও, কোম্পানিটি প্রথমবারের মতো তাদের ওপরের অংশটি সফলভাবে ধরে রাখতে সক্ষম হয়।",
-        "details_en": "SpaceX's hulking spacecraft is composed of a lower booster stage called Super Heavy and an upper stage called Starship. The test flight was envisioned as a double-catch mission to return all parts intact, supporting founder Elon Musk’s goal of developing a fully reusable rocket system. the booster diverted and exploded in the Gulf of Mexico, but the company successfully caught its upper stage for the first time."
+        "details_bn": "মন্ত্রণালয়ের এক কর্মকর্তা জানিয়েছেন, এই চারটি ফ্লাইট নিয়মিতভাবে পরিচালিত হবে এবং পরবর্তীতে সংখ্যা বাড়বে। প্রধানমন্ত্রী এবং সরকারের অঙ্গীকার বাস্তবায়নে সংশ্লিষ্ট সব সংস্থাকে নির্ধারিত সময়ের মধ্যে কাজ শেষ করার নির্দেশ দেওয়া হয়েছে।",
+        "details_en": "A ministry official stated that the four flights would operate regularly with numbers gradually increasing. Fulfilling the government and prime minister's commitment, relevant agencies were instructed to complete tasks within the stipulated time."
       },
-      "desk_importance": 5.0,
-      "outlet_count": 4,
-      "trending": true,
-      "social_appeal": 4.0,
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-15T00:01:08.105859+00:00"
+        "checked_at": "2026-11-15T01:01:52.410553+00:00"
+      }
+    },
+    {
+      "story_id": "5c06ddaf-5c74-5a53-9432-3220c2d757c5",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#BenjaminNetanyahu",
+        "#GadiEisenkot",
+        "#Israel",
+        "#Iran"
+      ],
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af59859b365e-1794480217.jpg?resize=1920%2C1440",
+      "image_caption": null,
+      "published_at": "2026-11-14T23:01:30+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.5,
+      "rank_score": 3.7638,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
+          "title": "Netanyahu says only a unity government can guarantee Israel’s security",
+          "snippet": "Netanyahu says only a unity government can guarantee Israel’s security"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইসরায়েলের জাতীয় ঐক্যের সরকারের আহ্বান নেতানিয়াহুর",
+        "title_en": "Netanyahu calls for national unity government in Israel",
+        "summary_bn": "ইসরায়েলের কেয়ারটেকার প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু দেশটির নিরাপত্তা নিশ্চিত করতে তাঁর প্রতিদ্বন্দ্বী গাডি আইজেনকোটের সঙ্গে একটি জাতীয় ঐক্যের সরকার গঠনের আহ্বান জানিয়েছেন।",
+        "summary_en": "Israeli caretaker Prime Minister Benjamin Netanyahu called for a national unity government with his rival Gadi Eisenkot to guarantee Israel's security.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-14T23:01:30+00:00",
+        "lead_bn": "ইসরায়েলের কেয়ারটেকার প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু দেশটির নিরাপত্তা নিশ্চিত করতে তাঁর প্রতিদ্বন্দ্বী গাডি আইজেনকোটের সঙ্গে একটি জাতীয় ঐক্যের সরকার গঠনের আহ্বান জানিয়েছেন।",
+        "lead_en": "Israeli caretaker Prime Minister Benjamin Netanyahu called for a national unity government with his rival Gadi Eisenkot to guarantee Israel's security.",
+        "bullets_bn": [
+          "নেতানিয়াহু বলেন, এই ধরনের সরকার ইরানি হুমকি চিরতরে দূর করতে পারে।",
+          "আইজেনকোট নেতানিয়াহুর এই আহ্বানকে একটি চাল হিসেবে প্রত্যাখ্যান করে বলেন যে নেতানিয়াহু জানেন তিনি নির্বাচনে হেরে গেছেন।",
+          "ইসরায়েল গাজায় তাদের আক্রমণাত্মক নীতি চালিয়ে যাওয়ার প্রতিশ্রুতি দিয়েছে।"
+        ],
+        "bullets_en": [
+          "Netanyahu said such a government could eliminate the Iranian threat once and for all.",
+          "Eisenkot dismissed the appeal as a ploy, saying Netanyahu knows he lost the election.",
+          "Israel has pledged to continue its offensive policy on Gaza."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "গত ২৭ অক্টোবরের নির্বাচনে কোনোপক্ষই সংখ্যাগরিষ্ঠতা পায়নি। নেতানিয়াহুর ডানপন্থী ও ধর্মীয় ব্লক ১২০ আসনের নেসেটে ৫৩টি আসন পেয়েছে, আইজেনকোটের চার দলের ব্লক ৪৮টি আসন পেয়েছে এবং আরব নেতৃত্বাধীন দলগুলো রেকর্ড ১৯টি আসন জিতেছে।",
+        "details_en": "Neither side won a majority in the October 27 election. Netanyahu's right-wing and religious bloc took 53 seats in the 120-seat Knesset, Eisenkot's four-party bloc got 48 seats, and Arab-led parties won a record 19."
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-15T01:01:52.410553+00:00"
+      }
+    },
+    {
+      "story_id": "78f55637-298d-571e-af6d-24f8e1d7d0b7",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#VolodymyrZelensky",
+        "#Nato",
+        "#Donbas",
+        "#US"
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-14T22:37:25+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.5,
+      "rank_score": 3.6776,
+      "sources": [
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "snippet": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/980968/%E0%A6%AD%E0%A7%82%E0%A6%96%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A6%AE%E0%A7%9F%E0%A7%87-%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A7%8B-%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%AA%E0%A6%A6%E0%A7%87%E0%A6%B0",
+          "title": "ভূখণ্ডের বিনিময়ে ইউক্রেনকে ন্যাটো সদস্যপদের প্রস্তাব যুক্তরাষ্ট্রের: জেলেনস্কি",
+          "snippet": "ভূখণ্ডের বিনিময়ে ইউক্রেনকে ন্যাটো সদস্যপদের প্রস্তাব যুক্তরাষ্ট্রের: জেলেনস্কি"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ন্যাটো সদস্যপদের বিনিময়ে দনবাস ত্যাগের প্রস্তাব যুক্তরাষ্ট্রের: জেলেনস্কি",
+        "title_en": "US floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+        "summary_bn": "যুক্তরাষ্ট্রের মধ্যস্থতাকারীরা পূর্বের দনবাস অঞ্চল থেকে ইউক্রেন বাহিনী প্রত্যাহার করলে ন্যাটো সদস্যপদের ধারণা দিয়েছেন বলে জানিয়েছেন প্রেসিডেন্ট ভলোদিমির জেলেনস্কি।",
+        "summary_en": "US negotiators have touted the idea of Ukraine withdrawing forces from Donbas in exchange for Nato membership, President Volodymyr Zelensky said.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-14T22:37:25+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের মধ্যস্থতাকারীরা পূর্বের দনবাস অঞ্চল থেকে ইউক্রেন বাহিনী প্রত্যাহার করলে ন্যাটো সদস্যপদের ধারণা দিয়েছেন বলে জানিয়েছেন প্রেসিডেন্ট ভলোদিমির জেলেনস্কি।",
+        "lead_en": "US negotiators have touted the idea of Ukraine withdrawing forces from Donbas in exchange for Nato membership, President Volodymyr Zelensky said.",
+        "bullets_bn": [
+          "মার্কিন প্রতিনিধি জ্যারেড কুশনার ও স্টিভ উইটকফ মস্কোয় রুশ প্রেসিডেন্ট ভ্লাদিমির পুতিনের সঙ্গে বৈঠকের পর ডাবলিনে জেলেনস্কির সঙ্গে দেখা করেন।",
+          "যুক্তরাষ্ট্রের পক্ষ থেকে জেলেনস্কির এই মন্তব্য এখনো নিশ্চিত করা হয়নি এবং আলোচনার বিষয়ে এক মার্কিন কর্মকর্তা বক্তব্য দিয়েছেন।",
+          "নিরাপত্তা গ্যারান্টি, সামরিক বাহিনীতে বাধা না থাকা এবং পুনর্গঠনের তহবিল পেলে প্রস্তাবটি গণভোটে দেবেন বলে জানিয়েছেন জেলেনস্কি।"
+        ],
+        "bullets_en": [
+          "US envoys Jared Kushner and Steve Witkoff met Zelensky in Dublin after talks with Russian President Vladimir Putin in Moscow.",
+          "A US official stated that many ideas continue to be discussed but any final deal must be agreed to by both parties.",
+          "Zelensky said he would put a specific proposal to a referendum if it contained security guarantees, reconstruction funds, and no military constraints."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইউক্রেন দীর্ঘদিন ধরে সামরিক জোট ন্যাটোর সদস্যপদ চেয়েছে যা যুক্তরাষ্ট্র ও অন্যরা বিরোধিতা করে আসছিল এবং রাশিয়া তাদের সীমান্তে ন্যাটো সদস্য মেনে নেবে না বলে জানিয়েছিল। রাশিয়া ফেব্রুয়ারি ২০২২ সালে ইউক্রেনে সর্বাত্মক আক্রমণ শুরু করে এবং শিল্প অঞ্চল দনবাসের বেশিরভাগ অংশ নিয়ন্ত্রণ করে। জেলেনস্কি এর আগে ধারাবাহিকভাবে বলেছেন যে ইউক্রেন সার্বভৌম ভূখণ্ড ছেড়ে দিতে অনিচ্ছুক।",
+        "details_en": "Kyiv has long sought membership of the military alliance, which was previously opposed by the US and others while Russia called another Nato member on its border unacceptable. Russia launched a full-scale invasion of Ukraine in February 2022 and controls most of Donbas, while Zelensky has consistently said Ukraine is unwilling to give up sovereign territory."
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": true,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-15T01:01:52.410553+00:00"
       }
     }
   ]
