@@ -57,6 +57,7 @@ import { ReelsPerformancePanel } from './ReelsPerformancePanel';
 import { StudioOverview, StudioSection } from './studio/StudioOverview';
 import { FrontPageBoard } from './studio/FrontPageBoard';
 import { ReelPreview } from './studio/ReelPreview';
+import { PhotoCardPanel } from './studio/PhotoCardPanel';
 import { LayoutDashboard, Newspaper as NewspaperIcon, LayoutTemplate, BookOpen, Settings as SettingsIcon } from 'lucide-react';
 
 const AUTHORIZED_EMAILS = ['nurreduan.pp@gmail.com', 'reduannurlabid@gmail.com'];
@@ -1109,6 +1110,7 @@ export const EditorialDashboard: React.FC = () => {
             </a>
           </div>
           <ReelPreview stories={rankedStories} initialStoryId={reelStoryId} />
+          <PhotoCardPanel stories={rankedStories} initialStoryId={reelStoryId} />
           <ReelsPerformancePanel defaultOpen />
         </div>
       )}
@@ -1295,8 +1297,9 @@ export const EditorialDashboard: React.FC = () => {
                   <button
                     type="button"
                     onClick={() => {
-                      setSocialStudioInitialTab('photo');
-                      setIsSocialStudioOpen(true);
+                      // Open this story in Social, with the photo card and Reel preview.
+                      setReelStoryId(selectedStory.story_id);
+                      goToSection('social');
                     }}
                     className="bg-emerald-700 hover:bg-emerald-600 text-white font-sans text-xs font-bold uppercase px-3 py-1.5 flex items-center gap-1.5 transition-colors border border-emerald-500 cursor-pointer shadow-sm active:scale-98"
                     title="Open Sondesh Express Social Photo Card Studio (4:5)"
