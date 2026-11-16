@@ -1,285 +1,377 @@
 {
-  "updated_at": "2026-11-16T13:00:46.101199",
-  "total_stories": 4,
+  "updated_at": "2026-11-16T14:00:44.900411",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "3728176a-4f96-5118-a664-1834933ec8b3",
+      "story_id": "a0e0cafe-692f-5af8-94e9-0555e68007df",
       "primary_category": "economy_business",
       "interest_categories": [
-        "economy_business"
+        "economy_business",
+        "tech_innovation",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#NBR",
+        "#VAT"
       ],
-      "image_url": "https://images.unsplash.com/photo-1684679674829-fc7b436ec8e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8d29ybGQlMjBiYW5rJTIwZ2l2ZXMlMjBtaWxsaW9uJTIwYnVzaW5lc3N8ZW58MXwwfHx8MTc5NDgzNDIzOHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/16/unf8rq1f.jpg",
       "image_caption": null,
-      "published_at": "2026-11-16T12:31:07+00:00",
+      "published_at": "2026-11-16T12:15:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.7499,
+      "importance_score": 7.75,
+      "rank_score": 5.4208,
       "sources": [
         {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/nbr-extends-online-vat-return-deadline-22-nov-1604446",
+          "title": "NBR extends online VAT return deadline to 22 Nov",
+          "snippet": "NBR extends online VAT return deadline to 22 Nov"
+        },
+        {
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/news/nbr-extends-online-vat-return-deadline-7-days-amid-server-hitches-4325431",
+          "title": "NBR extends online VAT return deadline by 7 days amid server hitches",
+          "snippet": "NBR extends online VAT return deadline by 7 days amid server hitches"
+        },
+        {
           "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821339/%E0%A6%A8%E0%A6%97%E0%A6%B0-%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A7%9F%E0%A6%A8%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A7%AF%E0%A7%AB-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%A1%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%8B%E0%A6%A3-%E0%A6%A6%E0%A6%BF%E0%A6%B2-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95",
-          "title": "নগর উন্নয়নে আরও ৯৫ কোটি ডলারের ঋণ দিলো বিশ্বব্যাংক",
-          "snippet": "নগর উন্নয়নে আরও ৯৫ কোটি ডলারের ঋণ দিলো বিশ্বব্যাংক"
+          "url": "https://www.ittefaq.com.bd/821355/%E0%A6%85%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AC%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F-%E0%A6%B0%E0%A6%BF%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-%E0%A6%A6%E0%A6%BE%E0%A6%96%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A7%87%E0%A6%A1%E0%A6%BC%E0%A7%87%E0%A6%9B%E0%A7%87",
+          "title": "অক্টোবরের ভ্যাট রিটার্ন দাখিলের সময় বেড়েছে",
+          "snippet": "অক্টোবরের ভ্যাট রিটার্ন দাখিলের সময় বেড়েছে"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/economy/news/1180217",
+          "title": "ভ্যাট রিটার্ন দাখিলের সময় আরও বাড়লো, দেওয়া যাবে জরিমানা ছাড়াই",
+          "snippet": "ভ্যাট রিটার্ন দাখিলের সময় আরও বাড়লো, দেওয়া যাবে জরিমানা ছাড়াই"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নগর উন্নয়নে আরও ৯৫ কোটি ডলারের ঋণ দিলো বিশ্বব্যাংক",
-        "title_en": "World Bank gives 950 million dollars more in loans for urban development",
-        "summary_bn": "বাংলাদেশের নগর উন্নয়ন প্রকল্প বাস্তবায়নে অতিরিক্ত ৯৫ কোটি ডলার অর্থায়ন অনুমোদন করেছে বিশ্বব্যাংক।",
-        "summary_en": "The World Bank has approved an additional 950 million dollars in financing to implement urban development projects in Bangladesh.",
+        "title_bn": "অনলাইন ভ্যাট রিটার্ন দাখিলের সময়সীমা বাড়াল এনবিআর",
+        "title_en": "NBR extends online VAT return deadline",
+        "summary_bn": "জাতীয় রাজস্ব বোর্ড অক্টোবর মাসের অনলাইন ভ্যাট রিটার্ন দাখিলের সময়সীমা আগামী ২২ নভেম্বর পর্যন্ত বাড়িয়েছে।",
+        "summary_en": "The National Board of Revenue has extended the online VAT return submission deadline for October to 22 November.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business"
+          "economy_business",
+          "tech_innovation",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-16T12:31:07+00:00",
-        "lead_bn": "বাংলাদেশের নগর উন্নয়ন প্রকল্প বাস্তবায়নে অতিরিক্ত ৯৫ কোটি ডলার অর্থায়ন অনুমোদন করেছে বিশ্বব্যাংক।",
-        "lead_en": "The World Bank has approved an additional 950 million dollars in financing to implement urban development projects in Bangladesh.",
+        "published_at": "2026-11-16T12:15:00+00:00",
+        "lead_bn": "জাতীয় রাজস্ব বোর্ড অক্টোবর মাসের অনলাইন ভ্যাট রিটার্ন দাখিলের সময়সীমা আগামী ২২ নভেম্বর পর্যন্ত বাড়িয়েছে।",
+        "lead_en": "The National Board of Revenue has extended the online VAT return submission deadline for October to 22 November.",
         "bullets_bn": [
-          "চলমান রেজিলিয়েন্ট আরবান অ্যান্ড টেরিটোরিয়াল ডেভেলপমেন্ট প্রজেক্ট বাস্তবায়নে এ অর্থ দেওয়া হচ্ছে।",
-          "অর্থনৈতিক সম্পর্ক বিভাগের সচিব মো. শাহরিয়ার কাদের সিদ্দিকী এবং বিশ্বব্যাংকের কর্মকর্তারা এ বিষয়ে যুক্ত ছিলেন।",
-          "২০৩০ সালের জুনের মধ্যে প্রকল্পটির কাজ শেষ করার লক্ষ্য নির্ধারণ করা হয়েছে।"
+          "করদাতারা কোনো ধরনের সুদ ও জরিমানা ছাড়াই এ রিটার্ন দাখিল করতে পারবেন।",
+          "এনবিআরের দ্বিতীয় সচিব শেখ মোহা. মাসদুর রহমানের সই করা চিঠি থেকে এ তথ্য জানা গেছে।",
+          "ভ্যাট আইনের ধারা ৬৪(২) এর ক্ষমতাবলে এ সিদ্ধান্ত নেওয়া হয়েছে।"
         ],
         "bullets_en": [
-          "This money is being given to implement the ongoing Resilient Urban and Territorial Development Project.",
-          "Economic Relations Division Secretary Md. Shahriar Kader Siddiky and World Bank officials were involved in this.",
-          "The target has been set to finish the work of the project by June 2030."
+          "Taxpayers can submit these returns without any interest or fines.",
+          "This information comes from a notice signed by NBR second secretary Sheikh Md. Masudur Rahman.",
+          "The decision was taken under the authority of Section 64(2) of the VAT Act."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "গত রোববার (১৫ নভেম্বর) অর্থনৈতিক সম্পর্ক বিভাগের সচিব মো. শাহরিয়ার কাদের সিদ্দিকী এবং বিশ্বব্যাংকের মধ্যে এই অর্থায়ন সংক্রান্ত প্রক্রিয়া সম্পন্ন হয়।",
-        "details_en": "Last Sunday (15 November), the process regarding this financing was completed between Economic Relations Division Secretary Md. Shahriar Kader Siddiky and the World Bank.",
-        "hook_bn": "নগর উন্নয়নে আরও ৯৫ কোটি ডলারের ঋণ দিলো বিশ্বব্যাংক।",
-        "question_bn": "নগর উন্নয়ন প্রকল্পগুলোর মাধ্যমে আপনার এলাকার জীবনযাত্রার মান উন্নয়নে কী ধরনের পরিবর্তন আশা করেন?"
+        "details_bn": "ইভিএট সিস্টেমে ব্যবহারকারীর সংখ্যা হঠাৎ বেড়ে যাওয়ায় সার্ভার জট তৈরি হয় এবং ১৫ নভেম্বর রিটার্ন দাখিলের প্রক্রিয়া ব্যাহত হয়। এর ফলে করদাতারা নির্ধারিত সময়ের মধ্যে অক্টোবর ২০২৬ কর মেয়াদের রিটার্ন জমা দিতে পারেননি। সার্বিক পরিস্থিতি ও জনস্বার্থের কথা বিবেচনা করে এনবিআর এই সময় বাড়ানোর সিদ্ধান্ত নেয়।",
+        "details_en": "A sharp rise in concurrent users on the eVAT system caused server congestion and disrupted the return submission process on 15 November. As a result, taxpayers could not submit their returns for the October 2026 tax period within the stipulated time. The NBR extended the deadline in view of the situation and in the public interest.",
+        "hook_bn": "ভ্যাট রিটার্ন দাখিলের সময় বাড়িয়ে ২২ নভেম্বর করা হয়েছে।",
+        "question_bn": "অনলাইন ভ্যাট রিটার্ন জমা দিতে গিয়ে আপনার কি কোনো ধরনের সার্ভার সমস্যায় পড়তে হয়েছিল?"
       },
       "desk_importance": 7.0,
-      "outlet_count": 1,
+      "outlet_count": 5,
       "trending": false,
-      "social_appeal": 6.0,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-16T13:04:40.969425+00:00"
+        "checked_at": "2026-11-16T14:03:25.753697+00:00"
       }
     },
     {
-      "story_id": "9670f59a-e1a8-5d55-9b3f-e5c5eec3f4dc",
+      "story_id": "765cc580-172e-5881-9d2e-750b8633ef4f",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law"
+        "governance_law",
+        "economy_business"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.channelionline.com/2026/11/image-273320-1768386032.jpg?w=1200",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-03-31%2Fgea79fo1%2FHasnath.PNG?rect=0%2C0%2C1287%2C676&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-16T12:34:48+00:00",
+      "published_at": "2026-11-16T13:37:43+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 4.1101,
+      "importance_score": 7.25,
+      "rank_score": 5.1371,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/ramisa-murder-case-high-court-verdict-tomorrow/",
-          "title": "শিশু রামিসা হত্যা: মৃত্যুদণ্ডপ্রাপ্ত দম্পতির মামলার রায় মঙ্গলবার",
-          "snippet": "শিশু রামিসা হত্যা: মৃত্যুদণ্ডপ্রাপ্ত দম্পতির মামলার রায় মঙ্গলবার"
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/oex8wi4j9v",
+          "title": "বেসরকারি ব্যাংক থেকে জনতা ব্যাংকের এমডি নিয়ে সংসদে হাসনাতের প্রশ্ন",
+          "snippet": "বেসরকারি ব্যাংক থেকে জনতা ব্যাংকের এমডি নিয়ে সংসদে হাসনাতের প্রশ্ন"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/hasnat-questions-janata-bank-md-appointment-khosru-cites-merit-based-selection-1604476",
+          "title": "Hasnat questions Janata Bank MD appointment; Khosru cites merit-based selection",
+          "snippet": "Hasnat questions Janata Bank MD appointment; Khosru cites merit-based selection"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শিশু রামিসা হত্যা মামলায় দম্পতির রায়ের দিন ধার্য",
-        "title_en": "High Court sets verdict date for couple in child Ramisa murder case.",
-        "summary_bn": "হাইকোর্ট পল্লবীতে শিশু রামিসাকে ধর্ষণের পর হত্যার মামলায় মৃত্যুদণ্ডপ্রাপ্ত দম্পতির ডেথ রেফারেন্স ও আপিলের রায় ঘোষণার জন্য আগামী দিন ধার্য করেছেন।",
-        "summary_en": "The High Court has set the judgment date for the death reference and appeals of the couple sentenced to death for raping and murdering child Ramisa in Pallabi.",
+        "title_bn": "জাতীয় সংসদে জনতা ব্যাংকের এমডি নিয়োগ নিয়ে প্রশ্ন তোলেন হাসনাত আবদুল্লাহ",
+        "title_en": "MP Hasnat Abdullah questioned Janata Bank MD appointment in parliament",
+        "summary_bn": "এনসিপির সংসদ সদস্য হাসনাত আবদুল্লাহ জনতা ব্যাংকের এমডি নিয়োগ নিয়ে প্রশ্ন তোলায় অর্থমন্ত্রী জানান সরকারি ব্যাংকে যোগ্যতার ভিত্তিতে নিয়োগ দেওয়া যায়।",
+        "summary_en": "NCP MP Hasnat Abdullah questioned the appointment of a private bank official as Janata Bank MD, while Finance Minister Amir Khosru defended merit-based selection.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "governance_law",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-16T12:34:48+00:00",
-        "lead_bn": "হাইকোর্ট পল্লবীতে শিশু রামিসাকে ধর্ষণের পর হত্যার মামলায় মৃত্যুদণ্ডপ্রাপ্ত দম্পতির ডেথ রেফারেন্স ও আপিলের রায় ঘোষণার জন্য আগামী দিন ধার্য করেছেন।",
-        "lead_en": "The High Court has set the judgment date for the death reference and appeals of the couple sentenced to death for raping and murdering child Ramisa in Pallabi.",
+        "published_at": "2026-11-16T13:37:43+00:00",
+        "lead_bn": "এনসিপির সংসদ সদস্য হাসনাত আবদুল্লাহ জনতা ব্যাংকের এমডি নিয়োগ নিয়ে প্রশ্ন তোলায় অর্থমন্ত্রী জানান সরকারি ব্যাংকে যোগ্যতার ভিত্তিতে নিয়োগ দেওয়া যায়।",
+        "lead_en": "NCP MP Hasnat Abdullah questioned the appointment of a private bank official as Janata Bank MD, while Finance Minister Amir Khosru defended merit-based selection.",
         "bullets_bn": [
-          "বিচারপতি ভীষ্মদেব চক্রবর্তী ও বিচারপতি কে এম রাশেদুজ্জামান রাজার সমন্বয়ে গঠিত হাইকোর্টের ডিভিশন বেঞ্চ শুনানি শেষে এই দিন ধার্য করেন।",
-          "রাষ্ট্রপক্ষে শুনানি করেন অ্যাটর্নি জেনারেল ব্যারিস্টার মো. রুহুল কুদ্দুস কাজল এবং ডেপুটি অ্যাটর্নি জেনারেল মোহাম্মদ ওসমান চৌধুরী ও সৈয়দ ইজাজ কবির।",
-          "আইনজীবীদের মতে, এক দিনেই হাইকোর্টে ডেথ রেফারেন্স ও আপিলের শুনানি শেষ হওয়া বিচারপ্রার্থী ও সংশ্লিষ্ট সব পক্ষকে আইনি সুযোগ দিয়ে দ্রুততম সময়ে বিচার সম্পন্ন করার একটি নতুন নজির।"
+          "সাউথইস্ট ব্যাংকের এক কর্মকর্তাকে রাষ্ট্রায়ত্ত জনতা ব্যাংকের এমডি হিসেবে নিয়োগের যোগ্যতা নিয়ে সংসদে প্রশ্ন তোলেন সংসদ সদস্য হাসনাত আবদুল্লাহ।",
+          "তিনি জানান গত জুনে জনতা ব্যাংকের খেলাপি ঋণ ছিল ৭৫,৩৯৭ কোটি টাকা, যার মধ্যে বেক্সিমকোর ২৩,০০০ কোটি এবং এস আলমের ১০,২০০ কোটি টাকা।",
+          "অর্থমন্ত্রী আমির খসরু মাহমুদ চৌধুরী জানান ব্যাংক খাতে কোনো রাজনৈতিক নিয়োগ হয়নি এবং যোগ্যতার ভিত্তিতেই সরকারি ব্যাংকে এমডি নিয়োগ দেওয়া হয়।"
         ],
         "bullets_en": [
-          "A High Court division bench comprising Justice Bhishmadev Chakrabortty and Justice K M Rashiduzzaman Raja set the date after concluding the hearing.",
-          "Attorney General Barrister Md. Ruhul Kuddus Kazal and Deputy Attorneys General Mohammad Osman Chowdhury and Syed Ejaz Kabir stood for the state.",
-          "Lawyers consider the conclusion of the death reference and appeals hearing in one day a new precedent for swift justice with full legal opportunities."
+          "Hasnat Abdullah questioned appointing a former Southeast Bank official to lead state-owned Janata Bank, citing allegations of financial irregularities.",
+          "He stated Janata Bank defaulted loans reached 75,397 crore taka, including 23,000 crore taka owed by Beximco and 10,200 crore by S. Alam.",
+          "Finance Minister Amir Khosru Mahmud Chowdhury responded that appointments in public banks are made based on merit, regardless of private background."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "হাসনাত আবদুল্লাহ উল্লেখ করেন যে বিএনপি ক্ষমতায় এলে আর্থিক প্রতিষ্ঠান বিভাগ বিলুপ্ত করে ব্যাংক খাতের নিয়ন্ত্রণ বাংলাদেশ ব্যাংকের হাতে দেওয়ার প্রতিশ্রুতি দিয়েছিল। তিনি অভিযোগ করেন, আর্থিক প্রতিষ্ঠান বিভাগের নিয়োগ করা ব্যাংকের পরিচালনা পর্ষদ ও এমডিদের সিন্ডিকেটের কারণে ব্যাংকগুলো খাদের কিনারায় পৌঁছেছে। তিনি আরও জানান, জনতা ব্যাংকের খেলাপি ঋণের মধ্যে এননট্যাক্সের ৭,৮০০ কোটি টাকা এবং ক্রিসেন্টের ৩,৪০০ কোটি টাকা রয়েছে।",
+        "details_en": "Hasnat Abdullah stated that BNP had promised to abolish the Financial Institutions Division and transfer bank control to Bangladesh Bank without government interference. He alleged that a syndicate formed by the board of directors and managing directors appointed by the Financial Institutions Division pushed banks to the brink of ruin. He noted that Crescent owed 3,400 crore taka and AnonTex owed 7,800 crore taka in defaulted loans to Janata Bank.",
+        "hook_bn": "জনতা ব্যাংকের মোট খেলাপি ঋণ দাঁড়িয়েছে ৭৫ হাজার ৩৯৭ কোটি টাকা",
+        "question_bn": "ব্যাংক খাতের শীর্ষ পদে নিয়োগ প্রক্রিয়ার বিষয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-16T14:03:25.753697+00:00"
+      }
+    },
+    {
+      "story_id": "890ec3ee-0410-5f37-a09a-1c4f187a497b",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#FinanceMinister",
+        "#AmirKhosruMahmudChowdhury",
+        "#InsuranceSector",
+        "#IDRA"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/06/11/amir_khosru_budget.jpeg",
+      "image_caption": null,
+      "published_at": "2026-11-16T12:05:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.0,
+      "rank_score": 4.38,
+      "sources": [
+        {
+          "name": "The Business Standard Economy",
+          "url": "https://www.tbsnews.net/economy/insurers-being-forced-sell-land-settle-outstanding-claims-khosru-1604421",
+          "title": "New law if needed to crackdown on errant insurers: FinMin",
+          "snippet": "New law if needed to crackdown on errant insurers: FinMin"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/national/981333/%E0%A6%B8%E0%A6%AE%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4-%E0%A7%AE-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE-%E0%A6%95%E0%A7%8B%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A7%A8%E0%A7%A8-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B9%E0%A6%95%E0%A6%95%E0%A7%87-%E0%A7%AE%E0%A7%AA",
+          "title": "সমস্যাগ্রস্ত ৮ বিমা কোম্পানির ২২ হাজার গ্রাহককে ৮৪ কোটি টাকা দাবি পরিশোধ",
+          "snippet": "সমস্যাগ্রস্ত ৮ বিমা কোম্পানির ২২ হাজার গ্রাহককে ৮৪ কোটি টাকা দাবি পরিশোধ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আইন ভঙ্গকারী বিমা কোম্পানির বিরুদ্ধে নতুন আইন আনার হুঁশিয়ারি অর্থমন্ত্রীর",
+        "title_en": "Finance Minister warns of new law against errant insurance companies",
+        "summary_bn": "দাবি আদায়ে ব্যর্থ বিমা কোম্পানির বিরুদ্ধে সংসদ নতুন আইন আনতে পারে বলে হুঁশিয়ারি দিয়েছেন অর্থমন্ত্রী আমির খসরু মাহমুদ চৌধুরী।",
+        "summary_en": "Finance Minister Amir Khosru Mahmud Chowdhury warned that parliament could introduce new legislation against insurance companies failing to settle claims.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-16T12:05:00+00:00",
+        "lead_bn": "দাবি আদায়ে ব্যর্থ বিমা কোম্পানির বিরুদ্ধে সংসদ নতুন আইন আনতে পারে বলে হুঁশিয়ারি দিয়েছেন অর্থমন্ত্রী আমির খসরু মাহমুদ চৌধুরী।",
+        "lead_en": "Finance Minister Amir Khosru Mahmud Chowdhury warned that parliament could introduce new legislation against insurance companies failing to settle claims.",
+        "bullets_bn": [
+          "সমস্যাগ্রস্ত আটটি বিমা কোম্পানির ২২ হাজার ৩০ জন গ্রাহককে ৮৪ কোটি ৬ লাখ টাকার বেশি বিমা দাবি পরিশোধ করা হয়েছে।",
+          "স্বচ্ছতা ও জবাবদিহিতা নিশ্চিত করতে দক্ষ ও স্বাধীন নিরীক্ষক প্রতিষ্ঠান নিয়োগ করা হয়েছে বলে জানিয়েছেন মন্ত্রী।",
+          "বিমা খাতের সমস্যাগুলো দেশের ব্যাংকিং ও আর্থিক খাতের বৃহত্তর বিশৃঙ্খলার প্রতিফলন বলে মন্তব্য করেছেন অর্থমন্ত্রী।"
+        ],
+        "bullets_en": [
+          "A total of Tk84.06 crore in insurance claims has been paid to 22,030 policyholders of eight troubled insurance companies.",
+          "Competent and independent audit firms have been appointed to ensure transparency and accountability, the minister said.",
+          "The minister said problems in the insurance sector reflect broader disorder in the country's banking and financial sectors."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "অর্থমন্ত্রী আমির খসরু মাহমুদ চৌধুরী জানিয়েছেন, বিমা কোম্পানিগুলো বকেয়া দাবি পরিশোধ করতে জমি বিক্রি করতে বাধ্য হচ্ছে। সরকার আর্থিক খাতে শৃঙ্খলা ফেরাতে কঠোর ব্যবস্থা নিচ্ছে। তবে লাইসেন্স বাতিলের বিষয়ে এখনো চূড়ান্ত সিদ্ধান্ত হয়নি এবং পলিসিধারীদের স্বার্থ ও দায়বদ্ধতা বিবেচনায় পর্যালোচনা করা হবে।",
+        "details_en": "Finance Minister Amir Khosru Mahmud Chowdhury stated that insurance companies are being forced to sell land to pay outstanding claims, while the government takes stringent measures to restore financial discipline. He added that no final decision has been made yet regarding license cancellations, which will be reviewed based on policyholders' interests and liabilities.",
+        "hook_bn": "সমস্যাগ্রস্ত আট বিমা কোম্পানির ২২ হাজার গ্রাহক পেলেন ৮৪ কোটি টাকা।",
+        "question_bn": "বিমা কোম্পানির কাছে আপনার কোনো বকেয়া দাবি কি দীর্ঘদিন ধরে আটকে আছে?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-16T14:03:25.753697+00:00"
+      }
+    },
+    {
+      "story_id": "f2b1a341-2412-5163-9b8b-b209e7b0965a",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bmluZXR5JTIwZWlnaHQlMjBiYW5nbGFkZXNoaSUyMHN0dWRlbnRzJTIwZWR1Y2F0aW9ufGVufDF8MHx8fDE3OTQ4Mzc3ODV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-16T13:51:26+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5651,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/education/news/1180220",
+          "title": "বিশ্বে সর্বোচ্চ নম্বর পেয়ে কেমব্রিজের পুরস্কার পেলেন ৯৮ বাংলাদেশি",
+          "snippet": "বিশ্বে সর্বোচ্চ নম্বর পেয়ে কেমব্রিজের পুরস্কার পেলেন ৯৮ বাংলাদেশি"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কেমব্রিজ পরীক্ষায় বিশ্বে সর্বোচ্চ নম্বর পেয়ে পুরস্কার পেলেন ৯৮ বাংলাদেশি শিক্ষার্থী",
+        "title_en": "Ninety-eight Bangladeshi students win Cambridge Top in the World awards",
+        "summary_bn": "কেমব্রিজের আন্তর্জাতিক পরীক্ষায় নির্দিষ্ট বিষয়ে বিশ্বে সর্বোচ্চ নম্বর পেয়ে ‘টপ ইন দ্য ওয়ার্ল্ড’ পুরস্কার পেয়েছেন বাংলাদেশের ৯৮ জন শিক্ষার্থী।",
+        "summary_en": "Ninety-eight Bangladeshi students won the Cambridge Top in the World award after achieving the highest marks globally in specific subjects.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-16T13:51:26+00:00",
+        "lead_bn": "কেমব্রিজের আন্তর্জাতিক পরীক্ষায় নির্দিষ্ট বিষয়ে বিশ্বে সর্বোচ্চ নম্বর পেয়ে ‘টপ ইন দ্য ওয়ার্ল্ড’ পুরস্কার পেয়েছেন বাংলাদেশের ৯৮ জন শিক্ষার্থী।",
+        "lead_en": "Ninety-eight Bangladeshi students won the Cambridge Top in the World award after achieving the highest marks globally in specific subjects.",
+        "bullets_bn": [
+          "কেমব্রিজ আন্তর্জাতিক পরীক্ষায় নির্দিষ্ট বিষয়ে বিশ্বের মধ্যে সর্বোচ্চ নম্বর পান এই শিক্ষার্থীরা।",
+          "পরীক্ষায় অসাধারণ ফলাফলের স্বীকৃতি হিসেবে শিক্ষার্থীদের ‘টপ ইন দ্য ওয়ার্ল্ড’ পুরস্কার দেওয়া হয়।",
+          "বাংলাদেশ থেকে মোট ৯৮ জন শিক্ষার্থী এই বিশ্বমানের শিক্ষাগত সম্মাননা অর্জন করেছেন।"
+        ],
+        "bullets_en": [
+          "The students secured the highest marks globally in specific subjects in Cambridge international exams.",
+          "The Top in the World awards recognize candidates achieving top individual exam scores worldwide.",
+          "A total of 98 students from Bangladesh received this international academic recognition."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "শিশু রামিসা হত্যা মামলার রায় ঘোষণা করা হবে",
-        "question_bn": null
+        "hook_bn": "বিশ্বে কেমব্রিজ পরীক্ষায় সর্বোচ্চ নম্বর পেয়ে পুরস্কার পেলেন ৯৮ বাংলাদেশি শিক্ষার্থী।",
+        "question_bn": "কেমব্রিজ পরীক্ষায় বাংলাদেশি শিক্ষার্থীদের এই সাফল্য নিয়ে আপনার মন্তব্য জানান।"
       },
       "desk_importance": 6.0,
       "outlet_count": 1,
-      "trending": true,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-16T13:04:40.969425+00:00"
-      }
-    },
-    {
-      "story_id": "6f3111e9-dd00-57ca-8315-3c5dafbe1f42",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness"
-      ],
-      "region": "national",
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFuZ2xhZGVzaCUyMHJlbWFpbnMlMjB3aWNrZXRsZXNzJTIwc2Vjb25kJTIwc3BvcnRzfGVufDF8MHx8fDE3OTQ4MzQyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-16T12:50:15+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.8569,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/sports/cricket/1180199",
-          "title": "দ্বিতীয় সেশনে হতাশ করলেন বাংলাদেশের বোলাররা",
-          "snippet": "দ্বিতীয় সেশনে হতাশ করলেন বাংলাদেশের বোলাররা"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/sports/498409",
-          "title": "দ্বিতীয় সেশনে উইকেটশূন্য বাংলাদেশ",
-          "snippet": "দ্বিতীয় সেশনে উইকেটশূন্য বাংলাদেশ"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/cricket/981307/%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%98%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%B8%E0%A7%87%E0%A6%B6%E0%A6%A8%E0%A7%87-%E0%A6%89%E0%A6%87%E0%A6%95%E0%A7%87%E0%A6%9F%E0%A6%87-%E0%A6%AB%E0%A7%87%E0%A6%B2%E0%A6%A4%E0%A7%87",
-          "title": "হাসানের আঘাতের পর দ্বিতীয় সেশনে উইকেটই ফেলতে পারেনি বাংলাদেশ",
-          "snippet": "হাসানের আঘাতের পর দ্বিতীয় সেশনে উইকেটই ফেলতে পারেনি বাংলাদেশ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "দক্ষিণ আফ্রিকার বিপক্ষে দ্বিতীয় সেশনে উইকেটশূন্য রয়েছে বাংলাদেশ",
-        "title_en": "Bangladesh remains wicketless in the second session against South Africa",
-        "summary_bn": "সিরিজের প্রথম টেস্টের প্রথম ইনিংসে বাংলাদেশ ৪০০ রানে অলআউট হওয়ার পর দক্ষিণ আফ্রিকার ইনিংসের শুরুতে হাসান মাহমুদ সাফল্য পেলেও দ্বিতীয় সেশনে কোনো উইকেট পায়নি বাংলাদেশ।",
-        "summary_en": "After Bangladesh was bowled out for 400 in the first innings of the first Test, Hasan Mahmud struck early but Bangladesh remained wicketless in the second session.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-16T12:50:15+00:00",
-        "lead_bn": "সিরিজের প্রথম টেস্টের প্রথম ইনিংসে বাংলাদেশ ৪০০ রানে অলআউট হওয়ার পর দক্ষিণ আফ্রিকার ইনিংসের শুরুতে হাসান মাহমুদ সাফল্য পেলেও দ্বিতীয় সেশনে কোনো উইকেট পায়নি বাংলাদেশ।",
-        "lead_en": "After Bangladesh was bowled out for 400 in the first innings of the first Test, Hasan Mahmud struck early but Bangladesh remained wicketless in the second session.",
-        "bullets_bn": [
-          "দক্ষিণ আফ্রিকার ইনিংসের শুরুতেই আঘাত হানেন হাসান মাহমুদ এবং ৫ রানে প্রথম উইকেট হারায় প্রোটিয়ারা।",
-          "দলের ১৩ রানে স্বাগতিকদের ওপেনার এইডেন মারক্রামকে ফিরিয়ে দেন হাসান মাহমুদ।",
-          "আলতোভাবে ব্যাট চালাতে গিয়ে উইকেটের পেছনে লিটন দাসের হাতে ক্যাচ তুলে দেন মারক্রাম যিনি আট বল খেলে মাত্র ৪ রান করেন।"
-        ],
-        "bullets_en": [
-          "Hasan Mahmud struck at the very beginning of South Africa's innings, causing the opponents to lose their first wicket at 5 runs.",
-          "Hasan Mahmud dismissed host opener Aiden Markram when the team score was 13 runs.",
-          "Markram edged a gentle shot into the hands of wicketkeeper Litton Das after scoring only 4 runs from 8 balls."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সিরিজের প্রথম টেস্টে বাংলাদেশ নিজেদের প্রথম ইনিংসে ৪০০ রানে অলআউট হয়। এরপর বল হাতে শুরুটা ভালো করলেও দ্বিতীয় সেশনে বোলারদের পারফরম্যান্সে হতাশ হতে হয়।",
-        "details_en": "In the first Test of the series, Bangladesh was bowled out for 400 in their first innings. Although they started well with the ball, the bowlers' performance in the second session caused disappointment.",
-        "hook_bn": "দক্ষিণ আফ্রিকার বিপক্ষে দ্বিতীয় সেশনে কোনো উইকেট পায়নি বাংলাদেশ",
-        "question_bn": "দ্বিতীয় সেশনে বোলারদের এই ব্যর্থতা টেস্টের বাকি সময়ে কতটা প্রভাব ফেলতে পারে বলে আপনার মনে হয়?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 3,
       "trending": false,
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-16T13:04:40.969425+00:00"
+        "checked_at": "2026-11-16T14:03:25.753697+00:00"
       }
     },
     {
-      "story_id": "aae732df-0c03-5f28-b67c-7ae95e4bcca9",
-      "primary_category": "tech_innovation",
+      "story_id": "4bfa1d93-2578-5194-98d6-1d8b7f4277da",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "tech_innovation"
+        "world_diplomacy"
       ],
       "region": "international",
       "tags": [
-        "#JensenHuang",
-        "#Nvidia",
-        "#ElonMusk",
-        "#US"
+        "#Germany",
+        "#Rwanda",
+        "#EuropeanUnion"
       ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af5b593-1794487699.jpg?resize=1920%2C1440",
+      "image_url": "https://static.dw.com/image/73146230_6.jpg",
       "image_caption": null,
-      "published_at": "2026-11-16T11:05:47+00:00",
+      "published_at": "2026-11-16T12:10:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.701,
+      "importance_score": 5.0,
+      "rank_score": 2.2455,
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster?traffic_source=rss",
-          "title": "Why Silicon Valley is backing Nvidia ex-CEO Jensen Huang after his ouster",
-          "snippet": "Why Silicon Valley is backing Nvidia ex-CEO Jensen Huang after his ouster"
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/germany-to-join-other-eu-states-in-announcing-rwanda-deportation-hub/a-79959158?maca=en-rss-en-all-1573-rdf",
+          "title": "Germany to join other EU states in announcing Rwanda deportation hub",
+          "snippet": "Germany to join other EU states in announcing Rwanda deportation hub"
         },
         {
           "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-          "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
-          "snippet": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss"
+          "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+          "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
+          "snippet": "Five EU countries expected to announce migrant deportation centre in Rwanda"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জেনসেন হুয়াংকে পুনর্বহাল করতে মার্কিন প্রযুক্তি খাতের বড় বড় ব্যক্তিত্বের প্রচারাভিযান",
-        "title_en": "US tech figures launch campaign to reinstate former Nvidia CEO Jensen Huang",
-        "summary_bn": "মার্কিন প্রযুক্তি খাতের শীর্ষ ব্যক্তিরা সাবেক এনভিডিয়া প্রধান জেনসেন হুয়াংকে তার পদে ফিরিয়ে আনার দাবিতে প্রচারাভিযান শুরু করেছেন।",
-        "summary_en": "Major US tech figures have launched a campaign to back former Nvidia CEO Jensen Huang and urge his reinstatement.",
+        "title_bn": "ইউরোপীয় ইউনিয়নভুক্ত পাঁচটি দেশ রুয়ান্ডায় আশ্রয়প্রার্থীদের ফেরত পাঠানোর কেন্দ্র ঘোষণা করতে যাচ্ছে।",
+        "title_en": "Five EU states are set to announce a migrant deportation hub in Rwanda.",
+        "summary_bn": "জার্মানি ও আরও চারটি ইউরোপীয় দেশ ব্যর্থ আশ্রয়প্রার্থীদের রুয়ান্ডায় ফেরত পাঠানোর একটি নতুন স্কিম ঘোষণা করতে যাচ্ছে।",
+        "summary_en": "Germany and four other European nations are set to announce a new scheme to deport failed asylum seekers to Rwanda.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "tech_innovation"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-16T11:05:47+00:00",
-        "lead_bn": "মার্কিন প্রযুক্তি খাতের শীর্ষ ব্যক্তিরা সাবেক এনভিডিয়া প্রধান জেনসেন হুয়াংকে তার পদে ফিরিয়ে আনার দাবিতে প্রচারাভিযান শুরু করেছেন।",
-        "lead_en": "Major US tech figures have launched a campaign to back former Nvidia CEO Jensen Huang and urge his reinstatement.",
+        "published_at": "2026-11-16T12:10:00+00:00",
+        "lead_bn": "জার্মানি ও আরও চারটি ইউরোপীয় দেশ ব্যর্থ আশ্রয়প্রার্থীদের রুয়ান্ডায় ফেরত পাঠানোর একটি নতুন স্কিম ঘোষণা করতে যাচ্ছে।",
+        "lead_en": "Germany and four other European nations are set to announce a new scheme to deport failed asylum seekers to Rwanda.",
         "bullets_bn": [
-          "ایلন মাস্কসহ প্রযুক্তি খাতের বিশিষ্ট ব্যক্তিরা এনভিডিয়া বোর্ডকে জেনসেন হুয়াংকে পুনর্বহাল করার আহ্বান জানিয়েছেন।",
-          "বিনিয়োগকারী ব্র্যাড গার্স্টনার ও গ্যাভিন বেকার এক খোলা চিঠিতে হুয়াংকে একজন অবিশ্বাস্য নেতা বলে অভিহিত করেছেন।",
-          "হুয়াংয়ের পদত্যাগের পর এনভিডিয়ার শেয়ার এবং অংশীদারদের শেয়ারের উল্লেখযোগ্য পতন ঘটেছে।"
+          "জার্মানি, অস্ট্রিয়া, নেদারল্যান্ডস, গ্রিস ও ডেনমার্ক এই রিটার্ন হাব গঠনের পরিকল্পনা করেছে।",
+          "ইউরোপীয় ইউনিয়ন নতুন বিধিমালা চালু করার পর এই প্রত্যাশিত ঘোষণা আসছে।",
+          "কেন্দ্রীয় আফ্রিকান দেশ রুয়ান্ডা এই রাষ্ট্রগুলোর সাথে প্রাথমিক আলোচনা চলার কথা স্বীকার করেছে।"
         ],
         "bullets_en": [
-          "Tech figures including Elon Musk urged the Nvidia board to consider reinstating Jensen Huang.",
-          "Investors Brad Gerstner and Gavin Baker called Huang an incredible leader in an open letter.",
-          "Nvidia shares and those of some partners have suffered significant losses since Huang resigned."
+          "Germany, Austria, the Netherlands, Greece and Denmark planned the return hubs.",
+          "The expected announcement comes after the EU introduced new regulations to speed up deportations.",
+          "The central African country Rwanda acknowledged being in preliminary discussions with the group of states."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "মার্কিন গোয়েন্দাদের চীনা গুপ্তচর সন্দেহের তালিকায় থাকা এক নারীর সঙ্গে প্রেমের সম্পর্কের খবরের পর গত সপ্তাহে এনভিডিয়ার প্রধান নির্বাহী জেনসেন হুয়াং পদত্যাগ করেন। হুয়াং ১৯৯৩ সালে কৃত্রিম বুদ্ধিমত্তার চিপ প্রস্তুতকারক কোম্পানি এনভিডিয়া প্রতিষ্ঠা করেছিলেন। হুয়াংয়ের পদত্যাগের পর প্রধান আর্থিক কর্মকর্তা কোলেট ক্রেস অন্তর্বর্তীকালীন প্রধান নির্বাহী হিসেবে দায়িত্ব নেন।",
-        "details_en": "Jensen Huang stepped down last week after reports of an extramarital affair with a woman suspected by US intelligence of being a Chinese spy. Huang founded Nvidia in 1993, which manufactures advanced AI chips. Following his resignation, Chief Financial Officer Colette Kress stepped in as interim CEO.",
-        "hook_bn": "সাবেক এনভিডিয়া প্রধান জেনসেন হুয়াংকে পুনর্বহাল করতে প্রচারাভিযান শুরু করেছেন মার্কিন প্রযুক্তি খাতের শীর্ষ ব্যক্তিরা।",
-        "question_bn": "মার্কিন কৃত্রিম বুদ্ধিমত্তা খাতের এই নেতৃত্বে সাবেক প্রধান নির্বাহীর ভূমিকা কতটা গুরুত্বপূর্ণ বলে আপনি মনে করেন?"
+        "details_bn": "ইউরোপীয় ইউনিয়নের বাইরের কোনো দেশে রিটার্ন হাব স্থাপনের এই পরিকল্পনা প্রথম ঘোষণা করা হয়েছিল গত সেপ্টেম্বর মাসে। এর আগে যুক্তরাজ্য সরকার রুয়ান্ডায় একই ধরনের একটি পরিকল্পনা করেছিল, যা পরবর্তীতে যুক্তরাজ্যের আদালতে ধসে পড়ে। তবে নতুন ইইউ স্কিমটি ব্রিটিশ স্কিম থেকে আলাদা কারণ এটি শুধুমাত্র সেই অভিবাসীদের জন্য উদ্দিষ্ট যারা ইউরোপীয় ইউনিয়নের সমস্ত আইনি পথ নিঃশেষ করেছেন।",
+        "details_en": "A plan to set up return hubs in a non-EU country had been announced back in September by the group. Rwanda was also the intended destination for a similar plan set up under the UK is former Conservative government that subsequently collapsed in UK courts. However, the new EU scheme differs from the British one in that it is only intended for migrants who have exhausted all other legal avenues within the European Union.",
+        "hook_bn": "পাঁচটি ইউরোপীয় দেশ রুয়ান্ডায় অভিবাসী ফেরত পাঠানোর কেন্দ্র ঘোষণা করতে যাচ্ছে।",
+        "question_bn": "ইউরোপীয় ইউনিয়নের এই ধরনের আশ্রয়প্রার্থী ফেরত পাঠানোর পদক্ষেপ সম্পর্কে আপনার মতামত কী?"
       },
       "desk_importance": 5.0,
       "outlet_count": 2,
-      "trending": true,
-      "social_appeal": 6.0,
+      "trending": false,
+      "social_appeal": 3.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-16T13:04:40.969425+00:00"
+        "checked_at": "2026-11-16T14:03:25.753697+00:00"
       }
     }
   ]
