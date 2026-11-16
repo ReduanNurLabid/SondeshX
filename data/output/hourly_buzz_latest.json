@@ -1,171 +1,264 @@
 {
-  "updated_at": "2026-11-16T15:00:45.642855",
-  "total_stories": 2,
+  "updated_at": "2026-11-16T16:00:45.733179",
+  "total_stories": 4,
   "stories": [
     {
-      "story_id": "60eaeb29-b72a-563e-868d-0e7ff41bc4b8",
-      "primary_category": "governance_law",
+      "story_id": "0ef5e2d7-19de-5636-ad54-ea046d5c41ba",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "governance_law",
-        "society_education",
         "economy_business",
         "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#ZiaulAhsan",
-        "#InternationalCrimesTribunal",
-        "#ShaplaChattar",
-        "#Motijheel"
+        "#BangladeshBank",
+        "#Incoterms",
+        "#ImportCharges"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2025/12/17/ziaul_ahsan.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/09/bangladesh_bank_1.jpg",
       "image_caption": null,
-      "published_at": "2026-11-16T14:45:00+00:00",
+      "published_at": "2026-11-16T15:10:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 7.5,
-      "rank_score": 5.5374,
+      "rank_score": 5.3315,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/court/ex-army-officer-ziaul-ahsan-attend-shapla-chattar-trial-virtually-jail-1604661",
-          "title": "Ex-army officer Ziaul Ahsan to attend Shapla Chattar trial virtually from jail",
-          "snippet": "Ex-army officer Ziaul Ahsan to attend Shapla Chattar trial virtually from jail"
+          "url": "https://www.tbsnews.net/economy/banking/bangladesh-bank-orders-repatriation-destination-charges-within-month-1604731",
+          "title": "Bangladesh Bank orders repatriation of destination charges within a month",
+          "snippet": "Bangladesh Bank orders repatriation of destination charges within a month"
         },
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/h99d80a3am",
-          "title": "শাপলা চত্বরের মামলায়ও জিয়াউল আহসানকে ট্রাইব্যুনালে আনা হবে না: প্রসিকিউটর তামীম",
-          "snippet": "শাপলা চত্বরের মামলায়ও জিয়াউল আহসানকে ট্রাইব্যুনালে আনা হবে না: প্রসিকিউটর তামীম"
-        },
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/post-1221433/",
-          "title": "ঢাকায় সার্ক সাংস্কৃতিক উৎসব আয়োজনের প্রস্তুতি শুরু",
-          "snippet": "ঢাকায় সার্ক সাংস্কৃতিক উৎসব আয়োজনের প্রস্তুতি শুরু"
+          "name": "The Business Standard Economy",
+          "url": "https://www.tbsnews.net/economy/bangladesh-bank-asks-banks-alert-exporters-cyber-fraud-risks-1604581",
+          "title": "Bangladesh Bank asks banks to alert exporters to cyber fraud risks",
+          "snippet": "Bangladesh Bank asks banks to alert exporters to cyber fraud risks"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শাপলা চত্বর মামলায় জেল থেকে ভার্চ্যুয়ালি বিচারপ্রক্রিয়ায় অংশ নেবেন জিয়াউল আহসান",
-        "title_en": "Ex-army officer Ziaul Ahsan to attend Shapla Chattar trial virtually from jail",
-        "summary_bn": "শাপলা চত্বরের মানবতাবিরোধী অপরাধের মামলায় সাবেক মেজর জেনারেল জিয়াউল আহসানকে জেলখানা থেকে ভার্চ্যুয়ালি বিচারপ্রক্রিয়ায় অংশ নেওয়ার অনুমতি দিয়েছে আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল।",
-        "summary_en": "The International Crimes Tribunal has permitted former Major General Ziaul Ahsan to participate in his Shapla Chattar crimes against humanity trial virtually from prison.",
+        "title_bn": "আমদানির গন্তব্য চার্জ এক মাসের মধ্যে দেশে ফিরিয়ে আনার নির্দেশ বাংলাদেশ ব্যাংকের",
+        "title_en": "Bangladesh Bank orders repatriation of destination charges within a month",
+        "summary_bn": "বাংলাদেশ ব্যাংক আমদানিকারকদের ক্যাটাগরি ডি ইনকোটার্মসের অধীনে বৈদেশিক সরবরাহকারীদের প্রদত্ত গন্তব্য চার্জ ব্যাংকিং চ্যানেলের মাধ্যমে এক মাসের মধ্যে ফিরিয়ে আনতে নির্দেশ দিয়েছে।",
+        "summary_en": "Bangladesh Bank has instructed importers to bring back destination-related charges included in payments to foreign suppliers under Category D Incoterms through banking channels within one month.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "society_education",
           "economy_business",
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-16T14:45:00+00:00",
-        "lead_bn": "শাপলা চত্বরের মানবতাবিরোধী অপরাধের মামলায় সাবেক মেজর জেনারেল জিয়াউল আহসানকে জেলখানা থেকে ভার্চ্যুয়ালি বিচারপ্রক্রিয়ায় অংশ নেওয়ার অনুমতি দিয়েছে আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল।",
-        "lead_en": "The International Crimes Tribunal has permitted former Major General Ziaul Ahsan to participate in his Shapla Chattar crimes against humanity trial virtually from prison.",
+        "published_at": "2026-11-16T15:10:00+00:00",
+        "lead_bn": "বাংলাদেশ ব্যাংক আমদানিকারকদের ক্যাটাগরি ডি ইনকোটার্মসের অধীনে বৈদেশিক সরবরাহকারীদের প্রদত্ত গন্তব্য চার্জ ব্যাংকিং চ্যানেলের মাধ্যমে এক মাসের মধ্যে ফিরিয়ে আনতে নির্দেশ দিয়েছে।",
+        "lead_en": "Bangladesh Bank has instructed importers to bring back destination-related charges included in payments to foreign suppliers under Category D Incoterms through banking channels within one month.",
         "bullets_bn": [
-          "প্রসিকিউশনের আবেদন মঞ্জুর করে জিয়াউল আহসানকে কারাগার থেকে ভিডিও কনফারেন্সের মাধ্যমে ট্রাইব্যুনালের বিচারপ্রক্রিয়ায় অংশ নেওয়ার সুযোগ দেওয়া হয়েছে।",
-          "প্রসিকিউটর গাজী মোনাওয়ার হুসাইন তামীম জানান, ১৬ নভেম্বর শুনানির পর ট্রাইব্যুনাল এই আদেশ মঞ্জুর করেন।",
-          "দীর্ঘদিন অসুস্থ থাকা, বিশৃঙ্খলা সৃষ্টি করা বা আদালতে উপস্থিত হতে অস্বীকৃতি জানানো যেকোনো আসামির ক্ষেত্রেও এই আদেশ প্রযোজ্য হবে।"
+          "১৫ নভেম্বর জারি করা এই নির্দেশ ডিএপি, ডিপিইউ এবং ডিডিপি বাণিজ্যিক শর্তে আমদানির ক্ষেত্রে প্রযোজ্য।",
+          "কেন্দ্রীয় ব্যাংক জানিয়েছে, অনুমোদিত ডিলার ব্যাংকগুলোকে আমদানি চুক্তিতে এফওবি মূল্য, ফ্রেইট চার্জ, বিমা খরচ এবং গন্তব্য চার্জ আলাদাভাবে নির্দিষ্ট করতে হবে।",
+          "পূর্ণ আমদানি মূল্য বৈদেশিক সরবরাহকারীকে পরিশোধ করা হলে, গন্তব্য চার্জের সমপরিমাণ অর্থ ব্যাংকিং চ্যানেলের মাধ্যমে দেশে ফিরিয়ে আনতে হবে।"
         ],
         "bullets_en": [
-          "The tribunal approved a prosecution petition allowing Ziaul Ahsan to attend court proceedings through video conferencing from jail.",
-          "Prosecutor Gazi Monawar Hossain Tamim stated the remote appearance order was granted following a hearing on 16 November.",
-          "The order also applies to any accused who remains ill, displays unruly behaviour, or refuses to attend court."
+          "The central bank issued a circular on 15 November making the directive applicable to imports under commercial terms such as DAP, DPU and DDP.",
+          "Authorised dealer banks must ensure that the import contract separately specifies the FOB value, freight charges, insurance costs and destination-related charges.",
+          "If full import payment is made to the foreign supplier, an equivalent amount covering destination-related charges must be brought back through banking channels."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "চিফ প্রসিকিউটর মো. আমিনুল ইসলাম অভিযোগ করেন, জিয়াউল আহসান ও তাঁর আইনজীবী মামলা পরিচালনায় বাধা দিচ্ছিলেন। অসুস্থতার অজুহাত দেখানো ও পুলিশের সঙ্গে অসদাচরণের পর কারা কর্তৃপক্ষ হাতকড়া পরিয়ে তাঁকে ট্রাইব্যুনালে আনে। অন্তর্বর্তী সরকারের সময় বরখাস্ত হওয়া সাবেক এই সেনা কর্মকর্তা মে ২০২৩-এ ঢাকার মতিঝিলের শাপলা চত্বরে হেফাজতে ইসলামের সমাবেশকে কেন্দ্র করে মানবতাবিরোধী অপরাধ মামলায় ট্রাইব্যুনালে হাজির করা ১১ জন আসামির একজন।",
-        "details_en": "Chief Prosecutor Md Aminul Islam alleged that Ziaul Ahsan and his lawyer obstructed proceedings. Ziaul had refused to appear citing illness and behaved improperly towards police officers before prison authorities brought him in handcuffs. Ziaul, a former army officer dismissed during the interim government, was among 11 accused brought to the tribunal in a case over alleged crimes against humanity during the Hefazat-e-Islam rally at Shapla Chattar in Dhaka's Motijheel in May 2023.",
-        "hook_bn": "জেলখানা থেকে ভার্চ্যুয়ালি বিচারপ্রক্রিয়ায় অংশ নেবেন সাবেক সেনা কর্মকর্তা জিয়াউল আহসান",
-        "question_bn": null
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "আমদানির গন্তব্য চার্জ এক মাসের মধ্যে দেশে ফিরিয়ে আনার নির্দেশ দিয়েছে বাংলাদেশ ব্যাংক।",
+        "question_bn": "আমদানির গন্তব্য চার্জ দেশে ফিরিয়ে আনার এই নির্দেশ ব্যবসায়িক কার্যক্রমে কী ধরনের প্রভাব ফেলতে পারে বলে আপনি মনে করেন?"
       },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-16T15:06:03.563432+00:00"
+        "checked_at": "2026-11-16T16:07:57.203238+00:00"
       }
     },
     {
-      "story_id": "fa4a5728-4a43-5d64-9e24-83ef66cdc4b6",
+      "story_id": "89ba01e9-979a-5073-8095-0471f094b082",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy",
-        "governance_law",
-        "society_education"
+        "world_diplomacy"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2025-12-20%2F0vi3qzo4%2FImran-Khan-and-his-wife-Bushra-Bibi.webp?rect=0%2C0%2C2000%2C1050&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://images.unsplash.com/photo-1614978271775-f05dae1a82ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8dG9wJTIwbGVhZGVycyUyMGNoaW5hJTIwcnVzc2lhJTIwZGlwbG9tYWN5fGVufDF8MHx8fDE3OTQ4NDUyMzF8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-16T14:55:00+00:00",
+      "published_at": "2026-11-16T15:39:05+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5783,
+      "importance_score": 4.8,
+      "rank_score": 2.2458,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/pakistan/dlnwbfqpha",
-          "title": "‘আমি হয়তো আর জীবিত ফিরব না’: নিজের ও স্ত্রীর চিকিৎসা চেয়ে শীর্ষ বিচারপতিদের কাছে ইমরানের খোলা চিঠি",
-          "snippet": "‘আমি হয়তো আর জীবিত ফিরব না’: নিজের ও স্ত্রীর চিকিৎসা চেয়ে শীর্ষ বিচারপতিদের কাছে ইমরানের খোলা চিঠি"
-        },
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/16/jailed-pakistan-ex-pm-imran-khan-writes-to-judges-seeks-vital-medical-care?traffic_source=rss",
-          "title": "Jailed Pakistan ex-PM Imran Khan writes to judges, seeks vital medical care",
-          "snippet": "Jailed Pakistan ex-PM Imran Khan writes to judges, seeks vital medical care"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/asia/981351/%E2%80%98%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%BF%E0%A6%A4-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%93-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%BF%E2%80%99-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%97%E0%A6%BE%E0%A6%B0-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%AA%E0%A6%A4%E0%A6%BF%E0%A6%A6%E0%A7%87%E0%A6%B0",
-          "title": "‘জীবিত ফিরতে নাও পারি’, কারাগার থেকে বিচারপতিদের চিঠি ইমরান খানের",
-          "snippet": "‘জীবিত ফিরতে নাও পারি’, কারাগার থেকে বিচারপতিদের চিঠি ইমরান খানের"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821375/%E0%A6%B8%E0%A6%BF-%E0%A6%AA%E0%A7%81%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%88%E0%A6%A0%E0%A6%95%E0%A6%95%E0%A7%87-%E0%A6%90%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%95-%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%A6%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87",
+          "title": "সি-পুতিন-ট্রাম্পের বৈঠককে ঐতিহাসিক গুরুত্ব দিচ্ছে চীন",
+          "snippet": "সি-পুতিন-ট্রাম্পের বৈঠককে ঐতিহাসিক গুরুত্ব দিচ্ছে চীন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নিজের ও স্ত্রীর চিকিৎসার জন্য পাকিস্তানের শীর্ষ বিচারপতিদের চিঠি পাঠিয়েছেন ইমরান খান",
-        "title_en": "Jailed former Pakistan Prime Minister Imran Khan seeks medical treatment from top judges",
-        "summary_bn": "আদিয়ালা কারাগারে বন্দি পাকিস্তানের সাবেক প্রধানমন্ত্রী ইমরান খান তাঁর ও স্ত্রী বুশরা বিবির চিকিৎসার আবেদন জানিয়ে দেশটির শীর্ষ বিচারপতিদের কাছে খোলা চিঠি পাঠিয়েছেন।",
-        "summary_en": "Jailed former Pakistan Prime Minister Imran Khan has written an open letter to top judges seeking medical care for himself and his wife, Bushra Bibi.",
+        "title_bn": "চীন, যুক্তরাষ্ট্র ও রাশিয়ার শীর্ষ নেতাদের ত্রিপক্ষীয় বৈঠক অনুষ্ঠিত হবে",
+        "title_en": "Top leaders of China, US and Russia to hold trilateral meeting",
+        "summary_bn": "চীন, যুক্তরাষ্ট্র ও রাশিয়ার শীর্ষ নেতাদের মধ্যে আসন্ন ত্রিপক্ষীয় বৈঠককে অত্যন্ত গুরুত্বপূর্ণ হিসেবে দেখছে বেইজিং।",
+        "summary_en": "Beijing views the upcoming trilateral meeting among the top leaders of China, US and Russia as extremely important.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-16T15:39:05+00:00",
+        "lead_bn": "চীন, যুক্তরাষ্ট্র ও রাশিয়ার শীর্ষ নেতাদের মধ্যে আসন্ন ত্রিপক্ষীয় বৈঠককে অত্যন্ত গুরুত্বপূর্ণ হিসেবে দেখছে বেইজিং।",
+        "lead_en": "Beijing views the upcoming trilateral meeting among the top leaders of China, US and Russia as extremely important.",
+        "bullets_bn": [
+          "চীনের দাবি অনুযায়ী এই বৈঠক বিশ্বশান্তি ও স্থিতিশীলতা বজায় রাখতে গুরুত্বপূর্ণ ভূমিকা রাখবে।",
+          "বৈঠকে অংশ নেবেন চীনের প্রেসিডেন্ট শি জিনপিং, যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ও রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিন।",
+          "আগামী ১৯ নভেম্বর চীনের দক্ষিণাঞ্চলীয় শহর শেনঝেনে এই বৈঠক বসার কথা রয়েছে।"
+        ],
+        "bullets_en": [
+          "China claims this meeting will play an important role in maintaining world peace and stability.",
+          "Chinese President Xi Jinping, US President Donald Trump and Russian President Vladimir Putin will participate in the meeting.",
+          "The meeting is scheduled to be held on November 19 in China's southern city of Shenzhen."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "চীন, যুক্তরাষ্ট্র ও রাশিয়ার শীর্ষ নেতাদের ত্রিপক্ষীয় বৈঠক ১৯ নভেম্বর শেনঝেনে।",
+        "question_bn": "এই তিন নেতার বৈঠক বিশ্বরাজনীতিতে কী ধরনের প্রভাব ফেলতে পারে বলে আপনি মনে করেন?"
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-16T16:07:57.203238+00:00"
+      }
+    },
+    {
+      "story_id": "90399632-0e66-536b-9328-f04bbe730200",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1723056417213-47aa3eb836fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z3VuZmlyZSUyMGFyc29uJTIwcmVwb3J0ZWQlMjBkaGFrYSUyMGdvdmVybm1lbnR8ZW58MXwwfHx8MTc5NDg0NTIzNHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-16T16:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.5729,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/law-and-crime/981357/%E0%A6%9A%E0%A6%BE%E0%A6%81%E0%A6%A6%E0%A6%BE-%E0%A6%A8%E0%A6%BE-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%87-%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF-%E0%A6%86%E0%A6%97%E0%A7%81%E0%A6%A8-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A7%87%E0%A6%AA%E0%A6%B0%E0%A7%8B%E0%A7%9F%E0%A6%BE",
+          "title": "চাঁদা না দিলেই গুলি-আগুন, রাজধানীতে বেপরোয়া সন্ত্রাসীরা",
+          "snippet": "চাঁদা না দিলেই গুলি-আগুন, রাজধানীতে বেপরোয়া সন্ত্রাসীরা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রাজধানীর শ্যামলীতে ফার্মেসিতে গুলি ও আগুন দেওয়ার অভিযোগ উঠেছে।",
+        "title_en": "Gunfire and arson reported at a Dhaka pharmacy over extortion.",
+        "summary_bn": "রাজধানীর জাতীয় হৃদরোগ ইনস্টিটিউটের বিপরীতে শ্যামলীমুখী প্রধান সড়কের পাশে অনুরাগ ফার্মেসিতে হামলা চালিয়েছেন সন্ত্রাসীরা।",
+        "summary_en": "Terrorists attacked the Anurag Pharmacy located beside the main road towards Shyamoli opposite the National Institute of Cardiovascular Diseases.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
           "governance_law",
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-16T14:55:00+00:00",
-        "lead_bn": "আদিয়ালা কারাগারে বন্দি পাকিস্তানের সাবেক প্রধানমন্ত্রী ইমরান খান তাঁর ও স্ত্রী বুশরা বিবির চিকিৎসার আবেদন জানিয়ে দেশটির শীর্ষ বিচারপতিদের কাছে খোলা চিঠি পাঠিয়েছেন।",
-        "lead_en": "Jailed former Pakistan Prime Minister Imran Khan has written an open letter to top judges seeking medical care for himself and his wife, Bushra Bibi.",
+        "published_at": "2026-11-16T16:00:00+00:00",
+        "lead_bn": "রাজধানীর জাতীয় হৃদরোগ ইনস্টিটিউটের বিপরীতে শ্যামলীমুখী প্রধান সড়কের পাশে অনুরাগ ফার্মেসিতে হামলা চালিয়েছেন সন্ত্রাসীরা।",
+        "lead_en": "Terrorists attacked the Anurag Pharmacy located beside the main road towards Shyamoli opposite the National Institute of Cardiovascular Diseases.",
         "bullets_bn": [
-          "আইনজীবী সালমান সফদার জানান, নির্জন কারাবাসে থাকা ইমরান খানের ডান চোখের ৮৫ শতাংশ দৃষ্টি নষ্ট হয়ে গেছে।",
-          "ইমরান খান মৃত্যুর আশঙ্কার কথা জানিয়ে বলেছেন, তিনি হয়তো আর কারাগার থেকে জীবিত ফিরবেন না।",
-          "এপ্রিলে রেটিনা অস্ত্রোপচারের পর তাঁর স্ত্রী বুশরা বিবিও উপযুক্ত চিকিৎসার অভাবে চিরতরে দৃষ্টিশক্তি হারানোর ঝুঁকিতে রয়েছেন।"
+          "রাত প্রায় ১১টার দিকে ফার্মেসির কর্মী মইন উদ্দীন ক্রেতাদের ওষুধ দেওয়ার সময় হঠাৎ গুলির শব্দ শোনা যায়।",
+          "অভিযোগ উঠেছে, ফার্মেসির মালিকের কাছে ৫০ লাখ টাকা চাঁদা দাবি করা হয়েছিল।",
+          "ফার্মেসির কাচ ভেদ করে গুলি মইন উদ্দীনের মাথার ওপর দিয়ে চলে যায় এবং তিনি অল্পের জন্য বেঁচে যান।"
         ],
         "bullets_en": [
-          "Lawyer Salman Safdar stated that Imran Khan has lost 85 percent of vision in his right eye while in solitary confinement.",
-          "Imran Khan expressed fear that he may not return alive, alleging authorities denied him required medical care.",
-          "His wife, Bushra Bibi, also risks permanent vision loss following a secret surgery for a detached retina in April."
+          "Gunshots were heard around 11 PM on Friday while pharmacy worker Moin Uddin was serving customers.",
+          "It is alleged that 50 lakh taka was demanded as extortion from the pharmacy owner.",
+          "A bullet passed just over Moin Uddin's head through the pharmacy glass, and he narrowly escaped."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "২০২১ সালের মে মাসে সৌদি যুবরাজের উপহার দেওয়া বুলগারি গয়নার সেটসংক্রান্ত দুটি তোশাখানা মামলায় ১৭ বছরের কারাদণ্ডের পর থেকে ইমরান খানকে দিনে ২২ ঘণ্টা নির্জন সেলে রাখা হচ্ছে। গত ১৮ আগস্ট সুপ্রিম কোর্ট তাঁকে শিফা ইন্টারন্যাশনাল হাসপাতালে স্থানান্তর এবং মেডিক্যাল বোর্ড গঠনসহ পরিবারের সঙ্গে যোগাযোগের নির্দেশ দিলেও কর্তৃপক্ষ তা কার্যকর করেনি। এ ছাড়া আদালতের নির্দেশ থাকা সত্ত্বেও তাঁর বোন ও ছেলেদের ফোনে কথা বলতে দেওয়া হচ্ছে না বলে ইমরান অভিযোগ করেন।",
-        "details_en": "Imran Khan faces a 17-year sentence in two Toshakhana cases involving a Bulgari jewelry set received in May 2021. Khan alleged jail authorities keep him in solitary confinement for up to 22 hours daily and block access to family. On 18 August, the Supreme Court ordered his transfer to Shifa International Hospital within two days and formed a medical board, but Khan stated authorities failed to execute the order. Khan also noted his blood pressure has gone out of control.",
-        "hook_bn": "কারাগারে সাবেক প্রধানমন্ত্রী ইমরান খানের ডান চোখের ৮৫ শতাংশ দৃষ্টি নষ্ট হয়ে গেছে",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": null,
         "question_bn": null
       },
-      "desk_importance": 6.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-16T15:06:03.563432+00:00"
+        "checked_at": "2026-11-16T16:07:57.203238+00:00"
+      }
+    },
+    {
+      "story_id": "5e7ca9e0-a834-5573-bfda-dc9263c30a5c",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#AlGore",
+        "#Baaja",
+        "#USSenate",
+        "#Cop31"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/d881ae7ec90fe3df31e297b22c8ff5c5d63280cc/758_0_5693_4553/master/5693.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4f6d453dcf3452abf09a93a3bb294ec8",
+      "image_caption": null,
+      "published_at": "2026-11-16T14:34:17+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.2647,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/nov/16/al-gore-baaja-cop-31-climate",
+          "title": "Passing bill to speed up gas projects and datacenters would be ‘serious mistake’, Al Gore says",
+          "snippet": "Passing bill to speed up gas projects and datacenters would be ‘serious mistake’, Al Gore says"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "অবকাঠামো বিল পাস করা গুরুতর ভুল হবে বলেছেন আল গোর।",
+        "title_en": "Passing infrastructure bill would be serious mistake, Al Gore says.",
+        "summary_bn": "মার্কিন জ্বালানি প্রকল্প এবং ডাটা সেন্টার দ্রুত চালুর লক্ষ্যে তৈরি একটি বিল পাস করা গুরুতর ভুল হবে বলে মন্তব্য করেছেন আল গোর।",
+        "summary_en": "Passing a contentious bill to speed up US energy projects and datacenters would be a serious mistake, Al Gore said.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-16T14:34:17+00:00",
+        "lead_bn": "মার্কিন জ্বালানি প্রকল্প এবং ডাটা সেন্টার দ্রুত চালুর লক্ষ্যে তৈরি একটি বিল পাস করা গুরুতর ভুল হবে বলে মন্তব্য করেছেন আল গোর।",
+        "lead_en": "Passing a contentious bill to speed up US energy projects and datacenters would be a serious mistake, Al Gore said.",
+        "bullets_bn": [
+          "বাজার নামক আইনটি পরিবেশগত সুরক্ষা এবং আইনি চ্যালেঞ্জ হ্রাস করে বৃহৎ অবকাঠামো নির্মাণ সহজ করবে।",
+          "বিলটি যুক্তরাষ্ট্রের মার্কিন সেনেটে একটি প্রক্রিয়াগত ভোটে পাস হয়েছে যা ডেমোক্র্যাট ও গ্রিন গ্রুপগুলোকে বিভক্ত করেছে।",
+          "বিলটি বাস্তবায়নকারী ট্রাম্প জীবাশ্ম জ্বালানি শিল্পকে সহায়তা করবেন বলে আল গোর দাবি করেছেন।"
+        ],
+        "bullets_en": [
+          "The legislation known as Baaja will make it easier to build large infrastructure projects by scaling back environmental protections.",
+          "The permitting bill passed a procedural vote in the US Senate, dividing Democrats and green groups.",
+          "Gore claimed Trump will implement the legislation in a way that continues to redeem his pledge to the fossil fuel industry."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "যুক্তরাষ্ট্রের জ্বালানি প্রকল্প দ্রুত চালুর বিল পাস নিয়ে বিতর্ক শুরু হয়েছে।",
+        "question_bn": "পরিবেশ রক্ষা বাদ দিয়ে জ্বালানি প্রকল্প দ্রুত চালুর বিষয়ে আপনার মতামত কী?"
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-16T16:07:57.203238+00:00"
       }
     }
   ]
