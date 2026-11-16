@@ -1,148 +1,87 @@
 {
-  "updated_at": "2026-11-16T03:00:52.046931",
-  "total_stories": 5,
+  "updated_at": "2026-11-16T04:00:44.112244",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "971c539c-97a0-5189-9029-d32ee61bd31f",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1653932133705-851f4547eb2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZHVzdCUyMGJsYW5rZXRzJTIwZGhha2ElMjBjaXR5JTIwZW52aXJvbm1lbnR8ZW58MXwwfHx8MTc5NDc5ODEwM3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-16T02:42:24+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.8109,
-      "sources": [
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821216/%E0%A6%B6%E0%A7%80%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%87%E0%A6%87-%E0%A6%A7%E0%A7%81%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%A7%E0%A7%82%E0%A6%B8%E0%A6%B0-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AD%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%97%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%80",
-          "title": "শীতের আগেই ধুলায় ধূসর ঢাকা, ভোগান্তিতে নগরবাসী",
-          "snippet": "শীতের আগেই ধুলায় ধূসর ঢাকা, ভোগান্তিতে নগরবাসী"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/weather/981180/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B8-%E0%A6%86%E0%A6%9C-%E2%80%98%E0%A6%96%E0%A7%81%E0%A6%AC%E0%A6%87-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A6%B0%E2%80%99-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A7%80",
-          "title": "ঢাকার বাতাস আজ ‘খুবই অস্বাস্থ্যকর’, বিশ্বব্যাপী তালিকায় অবস্থান তৃতীয়",
-          "snippet": "ঢাকার বাতাস আজ ‘খুবই অস্বাস্থ্যকর’, বিশ্বব্যাপী তালিকায় অবস্থান তৃতীয়"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "শীতের আগে ধুলায় ঢাকা পড়েছে রাজধানী ঢাকা",
-        "title_en": "Dust blankets Dhaka city ahead of the winter season",
-        "summary_bn": "শীতের আগমনী বার্তায় রাজধানী ঢাকা ধুলার চাদরে আবৃত হয়েছে এবং আইকিউএয়ারের সূচকে বাতাস খুবই অস্বাস্থ্যকর অবস্থায় রয়েছে।",
-        "summary_en": "Capital Dhaka is covered in dust ahead of winter and its air ranks very unhealthy on IQAir index.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-16T02:42:24+00:00",
-        "lead_bn": "শীতের আগমনী বার্তায় রাজধানী ঢাকা ধুলার চাদরে আবৃত হয়েছে এবং আইকিউএয়ারের সূচকে বাতাস খুবই অস্বাস্থ্যকর অবস্থায় রয়েছে।",
-        "lead_en": "Capital Dhaka is covered in dust ahead of winter and its air ranks very unhealthy on IQAir index.",
-        "bullets_bn": [
-          "আন্তর্জাতিক বায়ুমান পর্যবেক্ষণকারী প্রতিষ্ঠান আইকিউএয়ারের লাইভ সূচক অনুযায়ী ঢাকা বায়ুদূষণের তালিকায় তৃতীয় স্থানে রয়েছে।",
-          "আইকিউএয়ারের সূচকে ঢাকার স্কোর রয়েছে ২২৩ এবং বাতাসের এই মানকে খুবই অস্বাস্থ্যকর হিসেবে বিবেচনা করা হয়।",
-          "রাস্তাঘাটের অনিয়ন্ত্রিত খোঁড়াখুঁড়ি এবং সিটি করপোরেশনের কাজ ফেলে রাখাকে ভোগান্তির বড় কারণ হিসেবে জানানো হয়েছে।"
-        ],
-        "bullets_en": [
-          "Dhaka ranked third on the global air pollution list according to the live index of IQAir.",
-          "Dhaka scored 223 on the IQAir index, which is considered very unhealthy air quality.",
-          "Uncontrolled road digging and unfinished city corporation work are reported as major causes of suffering."
-        ],
-        "impact_bn": "অসহনীয় বায়ুদূষণের ফলে রাজধানীবাসীর নানা শারীরিক সমস্যা হচ্ছে এবং রাস্তায় চলাচলে ভোগান্তি পোহাতে হচ্ছে।",
-        "impact_en": "Intolerable air pollution causes various physical problems and commuting difficulties for the residents of the capital.",
-        "details_bn": "শীতের আগমনী বার্তায় রাজধানী ঢাকায় রাস্তায় নামলেই চোখ জ্বালা করে এবং শ্বাস নিতে কষ্ট হয়। অনিয়ন্ত্রিত রাস্তাঘাটের খোঁড়াখুঁড়ি ও সিটি করপোরেশনের অর্ধেক কাজ ফেলে রাখার কারণে গাড়ি গেলেই বাতাসে বালু ও ধুলা উড়ছে। অথচ বাতাসে পর্যাপ্ত পানি ছিটানোর কোনো পরিকল্পনা নেই। এদিকে আইকিউএয়ারের লাইভ সূচক অনুযায়ী ঢাকার বায়ুর মান খুবই অস্বাস্থ্যকর অবস্থায় রয়েছে।",
-        "details_en": "With the arrival of winter, stepping onto Dhaka's streets causes eye irritation and breathing difficulties. Due to uncontrolled road excavation and unfinished city corporation work, dust blows into the air whenever vehicles pass, while there is no plan to sprinkle adequate water. Meanwhile, according to IQAir's live index, Dhaka's air quality remains in a very unhealthy state.",
-        "hook_bn": "ঢাকার বায়ু খুবই অস্বাস্থ্যকর অবস্থায় রয়েছে",
-        "question_bn": "বায়ুদূষণ রোধে রাজধানীর রাস্তাঘাটের খোঁড়াখুঁড়ি নিয়ন্ত্রণে কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-16T03:02:04.608501+00:00"
-      }
-    },
-    {
-      "story_id": "756d362e-db25-5de0-a56c-17318c47777b",
+      "story_id": "61cf2e3c-c2de-52c6-94c7-dba02efa443f",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#BangladeshBank",
-        "#Remittance",
-        "#ForeignExchange"
+        "#MinimumWage",
+        "#GarmentWorkers",
+        "#LabourMinistry"
       ],
-      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_2544a702351af0c668ec35bcdded4737.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/16/uncdf_garment_workers_labourers.jpg",
       "image_caption": null,
-      "published_at": "2026-11-16T03:01:06.872974+00:00",
+      "published_at": "2026-11-16T03:15:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5988,
+      "importance_score": 7.5,
+      "rank_score": 5.3682,
       "sources": [
         {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/rmg/owners-submit-minimum-wage-proposal-boards-third-meeting-today-amid-ongoing-unrest",
+          "title": "Factory owners to submit minimum wage proposal at board's third meeting today amid ongoing unrest",
+          "snippet": "Factory owners to submit minimum wage proposal at board's third meeting today amid ongoing unrest"
+        },
+        {
           "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/bb-advises-banks-not-to-be-aggressive-in-remittance-buying",
-          "title": "BB advises banks not to be aggressive in remittance buying",
-          "snippet": "BB advises banks not to be aggressive in remittance buying"
+          "url": "https://thefinancialexpress.com.bd/trade/garment-factory-owners-submit-wage-proposal-today",
+          "title": "Garment factory owners submit wage proposal today",
+          "snippet": "Garment factory owners submit wage proposal today"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/economy/news/1179927",
+          "title": "পোশাকশ্রমিকদের নিম্নতম মজুরি বোর্ডের তৃতীয় সভা আজ",
+          "snippet": "পোশাকশ্রমিকদের নিম্নতম মজুরি বোর্ডের তৃতীয় সভা আজ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রেমিট্যান্স কেনায় আগ্রাসী না হতে ব্যাংকগুলোকে বাংলাদেশ ব্যাংকের পরামর্শ",
-        "title_en": "Bangladesh Bank advises commercial banks not to be aggressive in remittance buying",
-        "summary_bn": "বৈদেশিক মুদ্রা বাজারের অস্থিরতা রোধে রেমিট্যান্স সংগ্রহে মরিয়া না হতে ব্যাংকগুলোকে পরামর্শ দিয়েছে বাংলাদেশ ব্যাংক।",
-        "summary_en": "The Bangladesh Bank advised commercial banks not to be desperate in buying remittances to preempt exchange-rate volatility.",
+        "title_bn": "পোশাক খাতের ন্যূনতম মজুরি প্রস্তাব জমা দেবেন মালিকপক্ষ",
+        "title_en": "Garment owners to submit minimum wage proposal",
+        "summary_bn": "মালিকপক্ষের প্রতিনিধি পোশাকশ্রমিকদের ন্যূনতম মজুরি হারের প্রস্তাব ১৬ নভেম্বর মজুরি বোর্ডের তৃতীয় সভায় জমা দেবেন।",
+        "summary_en": "The owners representative will submit a minimum wage proposal for garment workers at the boards third meeting on 16 November.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-16T03:01:06.872974+00:00",
-        "lead_bn": "বৈদেশিক মুদ্রা বাজারের অস্থিরতা রোধে রেমিট্যান্স সংগ্রহে মরিয়া না হতে ব্যাংকগুলোকে পরামর্শ দিয়েছে বাংলাদেশ ব্যাংক।",
-        "lead_en": "The Bangladesh Bank advised commercial banks not to be desperate in buying remittances to preempt exchange-rate volatility.",
+        "published_at": "2026-11-16T03:15:00+00:00",
+        "lead_bn": "মালিকপক্ষের প্রতিনিধি পোশাকশ্রমিকদের ন্যূনতম মজুরি হারের প্রস্তাব ১৬ নভেম্বর মজুরি বোর্ডের তৃতীয় সভায় জমা দেবেন।",
+        "lead_en": "The owners representative will submit a minimum wage proposal for garment workers at the boards third meeting on 16 November.",
         "bullets_bn": [
-          "বাংলাদেশ ব্যাংকের সদর দপ্তরে বাণিজ্যিক ব্যাংকগুলোর ট্রেজারি প্রধানদের সঙ্গে এই বৈঠক অনুষ্ঠিত হয়।",
-          "বৈঠকে সভাপতিত্ব করেন বাংলাদেশ ব্যাংকের ডেপুটি গভর্নর মো. সারওয়ার হোসেন।",
-          "বিদেশি মুদ্রা বিক্রির মাধ্যমে বাণিজ্যিক ব্যাংকগুলোকে সহায়তার আশ্বাস দিয়েছে কেন্দ্রীয় ব্যাংক।"
+          "সভাটি ১৬ নভেম্বর বেলা ১১টায় ঢাকার শ্রম ও কর্মসংস্থান মন্ত্রণালয়ে শুরু হওয়ার কথা রয়েছে।",
+          "বোর্ডের চেয়ারম্যান এবং জেলা ও দায়রা জজ সৈয়দ আজাদ সুবহানি সভায় সভাপতিত্ব করবেন।",
+          "বৈঠকে পোশাক খাতের সব শ্রেণির শ্রমিক ও কর্মচারীদের ন্যূনতম মজুরি হার নিয়ে সুপারিশ প্রণয়ন নিয়ে আলোচনা হবে।"
         ],
         "bullets_en": [
-          "The meeting took place at the Bangladesh Bank headquarters with treasury heads of commercial banks.",
-          "Bangladesh Bank deputy governor Md. Sarwar Hossain chaired the meeting.",
-          "The central bank assured support to commercial banks by selling foreign currencies if they face pressure."
+          "The meeting is scheduled to begin at 11am on 16 November at the Ministry of Labour and Employment in Dhaka.",
+          "Board Chairman and district and sessions judge Syed Azad Subhani will preside over the meeting.",
+          "The meeting will discuss formulating recommendations on minimum wage rates for workers and employees across all categories in the garment sector."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "সাম্প্রতিক দিনে বিনিময় হারের হঠাৎ উল্লম্ফনের প্রেক্ষাপটে বৈদেশিক মুদ্রা বাজারের বর্তমান পরিস্থিতি জানতে এই বৈঠকের আয়োজন করে নিয়ন্ত্রক সংস্থা। অংশগ্রহণকারী ট্রেজারি প্রধানদের মতে, পেমেন্টের চাপ না থাকা সত্ত্বেও কিছু ব্যাংক আগ্রাসীভাবে রেমিট্যান্স সংগ্রহ করে, যা বাজারে অস্থিরতা সৃষ্টিতে ভূমিকা রাখে। চলতি অর্থবছরে বৈদেশিক মুদ্রা বাজার হস্তক্ষেপে ব্যাংকিং খাতের এই নিয়ন্ত্রক সংস্থা এ পর্যন্ত ৪৫ কোটি ডলারের বেশি বিক্রি করেছে।",
-        "details_en": "The regulator arranged the meeting to know current situations of the forex market amid sudden spikes in exchange rate in recent days. According to participating treasury heads, some banks go for aggressively sourcing remittance without payment pressure, creating market volatility. As part of forex-market intervention, the banking regulator has sold more than $450 million in the current fiscal year.",
-        "hook_bn": "রেমিট্যান্স কেনায় আগ্রাসী না হতে ব্যাংকগুলোকে পরামর্শ দিয়েছে বাংলাদেশ ব্যাংক।",
-        "question_bn": "রেমিট্যান্স প্রবাহ ও ডলারের বাজার নিয়ে আপনার অভিজ্ঞতা কেমন?"
+        "details_bn": "পোশাকশ্রমিকদের বর্তমান ন্যূনতম মাসিক মজুরি ১২,৫০০ টাকা, যা ২০২৩ সালের ১ ডিসেম্বর কার্যকর হয়। শ্রমিকদের ন্যূনতম মাসিক মজুরি ৩০,০০০ টাকা করার দাবিতে ৩১ অক্টোবর থেকে আন্দোলন শুরু হয়। এর আগে ৯ নভেম্বর বোর্ডের আগের সভায় শ্রমিকদের প্রতিনিধিরা সর্বনিম্ন মাসিক মজুরি ৩২,০০০ টাকা এবং সর্বোচ্চ গ্রেডের জন্য ৪৮,০০০ টাকা প্রস্তাব করেছিলেন।",
+        "details_en": "The current minimum monthly wage for garment workers is Tk12,500, which came into effect on 1 December 2023. The unrest began on 31 October with workers initially demanding a minimum monthly wage of Tk30,000. At the boards previous meeting on 9 November, workers representatives proposed setting the minimum monthly wage at Tk32,000, with the highest grade receiving Tk48,000.",
+        "hook_bn": "পোশাকশ্রমিকদের বর্তমান ন্যূনতম মাসিক মজুরি ১২,৫০০ টাকা।",
+        "question_bn": "পোশাক খাতের ন্যূনতম মজুরি কত হওয়া উচিত বলে আপনি মনে করেন?"
       },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
+      "desk_importance": 7.0,
+      "outlet_count": 3,
       "trending": false,
-      "social_appeal": 6.0,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-16T03:02:04.608501+00:00"
+        "checked_at": "2026-11-16T04:04:03.602402+00:00"
       }
     },
     {
-      "story_id": "791f3111-99c7-5c50-b4ce-e56f917e4c7a",
+      "story_id": "28f58bf3-8f68-5c38-9180-6a10094208bd",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -152,196 +91,340 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1614610741181-2bce5e06976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Y2FzZSUyMGZpbGVkJTIwYWdhaW5zdCUyMGF3YW1pJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk0Nzk4MTEyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_bengali/02db/live/f7e9ca00-e160-11f1-a2d0-ff163dc3689d.jpg",
       "image_caption": null,
-      "published_at": "2026-11-16T02:56:41+00:00",
+      "published_at": "2026-11-16T03:02:14+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5835,
+      "importance_score": 7.5,
+      "rank_score": 5.3025,
       "sources": [
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821218/%E0%A6%B6%E0%A7%87%E0%A6%B0%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%B6%E0%A6%95%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF%E0%A6%B8%E0%A6%B9-%E0%A6%86.%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0",
-          "title": "বগুড়ার শেরপুরে নাশকতার মামলায় আসামি সাবেক দুই এমপিসহ আওয়ামী লীগের ৩০০ নেতাকর্মী",
-          "snippet": "বগুড়ার শেরপুরে নাশকতার মামলায় আসামি সাবেক দুই এমপিসহ আওয়ামী লীগের ৩০০ নেতাকর্মী"
+          "name": "BBC News বাংলা",
+          "url": "https://www.bbc.com/bengali/articles/cw4gnjrvj133o?at_medium=RSS&at_campaign=rss",
+          "title": "পত্রিকা: 'আওয়ামী লীগের সঙ্গে সংশ্লিষ্টতার অভিযোগে নজরদারিতে ২২ হাজার পুলিশ সদস্য'",
+          "snippet": "পত্রিকা: 'আওয়ামী লীগের সঙ্গে সংশ্লিষ্টতার অভিযোগে নজরদারিতে ২২ হাজার পুলিশ সদস্য'"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বগুড়ার শেরপুরে সাবেক দুই এমপিসহ আওয়ামী লীগের ৩০০ নেতাকর্মীর বিরুদ্ধে মামলা",
-        "title_en": "Case filed against 300 Awami League leaders including two former MPs in Bogura",
-        "summary_bn": "বগুড়ার শেরপুরে ককটেল বিস্ফোরণ ও নাশকতার অভিযোগে সাবেক দুই সংসদ সদস্যসহ আওয়ামী লীগের প্রায় ৩০০ নেতাকর্মীর বিরুদ্ধে মামলা দায়ের করা হয়েছে।",
-        "summary_en": "A case has been filed against nearly 300 Awami League leaders including two former MPs over cocktail explosions and sabotage in Bogura.",
+        "title_bn": "আওয়ামী লীগের সঙ্গে সংশ্লিষ্টতার অভিযোগে ২২ হাজার পুলিশ সদস্য নজরদারিতে",
+        "title_en": "22000 police members under watch over allegations of links with Awami League",
+        "summary_bn": "আওয়ামী লীগ সরকারের ১৫ বছরে নিয়োগ পাওয়া প্রায় ২২ হাজার পুলিশ সদস্যকে বিশেষ নজরদারিতে রাখা হয়েছে।",
+        "summary_en": "Nearly 22,000 police personnel recruited during the 15-year Awami League government have been placed under special surveillance.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-16T02:56:41+00:00",
-        "lead_bn": "বগুড়ার শেরপুরে ককটেল বিস্ফোরণ ও নাশকতার অভিযোগে সাবেক দুই সংসদ সদস্যসহ আওয়ামী লীগের প্রায় ৩০০ নেতাকর্মীর বিরুদ্ধে মামলা দায়ের করা হয়েছে।",
-        "lead_en": "A case has been filed against nearly 300 Awami League leaders including two former MPs over cocktail explosions and sabotage in Bogura.",
+        "published_at": "2026-11-16T03:02:14+00:00",
+        "lead_bn": "আওয়ামী লীগ সরকারের ১৫ বছরে নিয়োগ পাওয়া প্রায় ২২ হাজার পুলিশ সদস্যকে বিশেষ নজরদারিতে রাখা হয়েছে।",
+        "lead_en": "Nearly 22,000 police personnel recruited during the 15-year Awami League government have been placed under special surveillance.",
         "bullets_bn": [
-          "ঢাকা-বগুড়া মহাসড়কে ককটেল বিস্ফোরণ, চলন্ত ভ্যানে অগ্নিসংযোগ ও জনমনে আতঙ্ক সৃষ্টির অভিযোগে মামলাটি দায়ের করা হয়েছে।",
-          "মামলায় বগুড়া জেলা আওয়ামী লীগের সভাপতি ও সাবেক সংসদ সদস্য মজিবর রহমান মজনু এবং সাবেক সংসদ সদস্য মো. হাবিবুর রহমানসহ স্থানীয় নেতারা আসামি।",
-          "উপজেলার গাড়ীদহ ইউনিয়নের ঘটনায় আওয়ামী লীগ ও এর সহযোগী সংগঠনের নেতাকর্মীদের আসামি করা হয়েছে।"
+          "নজরদারিতে থাকা সদস্যদের মধ্যে ১৭ হাজার কনস্টেবল ও ৪ হাজার উপপরিদর্শক রয়েছেন।",
+          "নিষিদ্ধ সংগঠনের কারও সঙ্গে যোগাযোগের অভিযোগ পেলে তদন্ত সাপেক্ষে ব্যবস্থা নেওয়া হয় বলে জানিয়েছে পুলিশ সদর দপ্তর।",
+          "আওয়ামী লীগের নেতাকর্মীদের সঙ্গে গোপনে যোগাযোগের অভিযোগে কয়েক হাজার পুলিশ সদস্যের বিরুদ্ধে অভ্যন্তরীণ তদন্ত চলছে।"
         ],
         "bullets_en": [
-          "The case was filed over cocktail explosions, setting fire to a moving van, and creating panic on the Dhaka-Bogura highway.",
-          "The accused include Bogura district Awami League president and former MP Mujibur Rahman Majnu and former MP Md Habibur Rahman.",
-          "Leaders and activists of the Awami League and its affiliate organizations from Garidah union of the upazila were accused."
+          "The personnel under surveillance include 17,000 constables and 4,000 sub-inspectors.",
+          "Police headquarters stated that action is taken after investigation upon receiving allegations of contact with anyone from a banned organization.",
+          "Internal investigations are underway against several thousand police members over allegations of secret communications with Awami League leaders and activists."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বগুড়ার শেরপুরে ঢাকা-বগুড়া মহাসড়কে ককটেল বিস্ফোরণ, চলন্ত ভ্যানে অগ্নিসংযোগ ও জনমনে আতঙ্ক সৃষ্টির অভিযোগে আওয়ামী লীগ ও এর সহযোগী সংগঠনের প্রায় ৩০০ নেতাকর্মীর বিরুদ্ধে মামলা দায়ের করা হয়। মামলায় বগুড়া জেলা আওয়ামী লীগের সভাপতি ও সাবেক সংসদ সদস্য মজিবর রহমান মজনু এবং সাবেক সংসদ সদস্য মো. হাবিবুর রহমানসহ স্থানীয় পর্যায়ের শীর্ষ নেতাদের আসামি করা হয়েছে। ঘটনাটি উপজেলার গাড়ীদহ ইউনিয়নের।",
-        "details_en": "A case was filed against nearly 300 leaders and activists of the Awami League and its affiliate organizations for allegedly exploding cocktails, setting fire to a moving van, and creating panic on the Dhaka-Bogura highway in Sherpur, Bogura. The accused include Bogura district Awami League president and former MP Mujibur Rahman Majnu, former MP Md Habibur Rahman, and other local top leaders. The incident took place in Garidah union of the upazila.",
-        "hook_bn": "বগুড়ার শেরপুরে ককটেল বিস্ফোরণ ও নাশকতার অভিযোগে প্রায় ৩০০ নেতাকর্মীর বিরুদ্ধে মামলা।",
-        "question_bn": null
+        "details_bn": "চট্টগ্রাম রেঞ্জের রিজার্ভ ফোর্সের পুলিশ সুপার জাহাঙ্গীর আলমকে আওয়ামী লীগের গোপন যোগাযোগের অভিযোগে রাষ্ট্রদ্রোহ মামলায় গ্রেপ্তার ও রিমান্ডে নেওয়ার পর এই নজরদারি জোরদার করা হয়। এর আগে শেখ হাসিনার দেশে ফেরার বিষয়ে কথোপকথনের একটি অডিও ফাঁস হওয়ার পর ঢাকা ক্যান্টনমেন্ট থানার ওসি রাকিবুল ইসলামকে প্রত্যাহার ও পরে গ্রেপ্তার করা হয়।",
+        "details_en": "This surveillance was intensified after Jahangir Alam, Superintendent of Police of Chattogram Range Reserve Force, was arrested and placed on remand in a sedition case over secret communications with the Awami League. Earlier, Rakibul Islam, officer-in-charge of Dhaka Cantonment police station, was withdrawn and later arrested after an audio clip of a conversation regarding Sheikh Hasina's return to the country was leaked.",
+        "hook_bn": "নজরদারিতে আওয়ামী লীগ সরকারের আমলে নিয়োগ পাওয়া ২২ হাজার পুলিশ সদস্য।",
+        "question_bn": "পুলিশ প্রশাসনের ভেতরে এ ধরনের নজরদারি ও অভ্যন্তরীণ তদন্ত নিয়ে আপনার মতামত কী?"
       },
-      "desk_importance": 6.0,
+      "desk_importance": 7.0,
       "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
+      "trending": true,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-16T03:02:04.608501+00:00"
+        "checked_at": "2026-11-16T04:04:03.602402+00:00"
       }
     },
     {
-      "story_id": "e4e86d26-5eb7-539c-866d-3ad8dae92b2e",
+      "story_id": "aec90f0d-1e94-508f-a38f-0176b471cee5",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#GDPGrowth",
+        "#BangladeshBureauOfStatistics",
+        "#EconomicAudit"
       ],
-      "image_url": "https://images.unsplash.com/photo-1601897690942-bcacbad33e55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z2FybWVudCUyMGV4cG9ydHMlMjBpbmNyZWFzZSUyMG5vbiUyMGJ1c2luZXNzfGVufDF8MHx8fDE3OTQ3OTgxMTR8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_d24a9e15a829a99c796a10cf871eec5f.jpg",
       "image_caption": null,
-      "published_at": "2026-11-16T02:52:17+00:00",
+      "published_at": "2026-11-16T04:00:56.484389+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5683,
+      "importance_score": 7.0,
+      "rank_score": 4.8876,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/economy/news/1179918",
-          "title": "অপ্রচলিত বাজারে বেড়েছে তৈরি পোশাক রপ্তানি, দ্বিগুণ হয়েছে তুরস্কে",
-          "snippet": "অপ্রচলিত বাজারে বেড়েছে তৈরি পোশাক রপ্তানি, দ্বিগুণ হয়েছে তুরস্কে"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/economy/gdp-growth-overstated-by-up-to-113pp-since-fy15",
+          "title": "GDP growth overstated by up to 1.13pp since FY15",
+          "snippet": "GDP growth overstated by up to 1.13pp since FY15"
         }
       ],
       "daily_buzz": {
-        "title_bn": "অপ্রচলিত বাজারে বেড়েছে তৈরি পোশাক রপ্তানি এবং তুরস্কে দ্বিগুণ হয়েছে।",
-        "title_en": "Garment exports increase in non-traditional markets and double in Turkey.",
-        "summary_bn": "চলতি অর্থবছরের প্রথম চার মাসে দেশের তৈরি পোশাক রপ্তানি ৫ দশমিক ৮২ শতাংশ বৃদ্ধি পেয়েছে।",
-        "summary_en": "Bangladesh garment exports increased by 5.82 percent in the first four months of the current fiscal year.",
+        "title_bn": "পূর্ববর্তী সরকারের আমলে জিডিপি প্রবৃদ্ধি অতিরঞ্জিত করা হয়েছে বলে এক অডিট রিপোর্টে প্রকাশ।",
+        "title_en": "GDP growth overstated by up to 1.13 percentage points under previous government.",
+        "summary_bn": "একটি ফরেনসিক অডিট রিপোর্টে বলা হয়েছে, পূর্ববর্তী সরকারের আমলে প্রশাসনিক ও মাধ্যমিক তথ্য কারসাজির মাধ্যমে জিডিপি প্রবৃদ্ধি ১.১৩ শতাংশ পর্যন্ত বেশি দেখানো হয়েছিল।",
+        "summary_en": "Economic growth may have been systematically overstated by up to 1.13 percentage points during the previous government through data manipulation.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-16T02:52:17+00:00",
-        "lead_bn": "চলতি অর্থবছরের প্রথম চার মাসে দেশের তৈরি পোশাক রপ্তানি ৫ দশমিক ৮২ শতাংশ বৃদ্ধি পেয়েছে।",
-        "lead_en": "Bangladesh garment exports increased by 5.82 percent in the first four months of the current fiscal year.",
+        "published_at": "2026-11-16T04:00:56.484389+00:00",
+        "lead_bn": "একটি ফরেনসিক অডিট রিপোর্টে বলা হয়েছে, পূর্ববর্তী সরকারের আমলে প্রশাসনিক ও মাধ্যমিক তথ্য কারসাজির মাধ্যমে জিডিপি প্রবৃদ্ধি ১.১৩ শতাংশ পর্যন্ত বেশি দেখানো হয়েছিল।",
+        "lead_en": "Economic growth may have been systematically overstated by up to 1.13 percentage points during the previous government through data manipulation.",
         "bullets_bn": [
-          "একই সঙ্গে নতুন ও অপ্রচলিত বাজারে বাংলাদেশের তৈরি পোশাক রপ্তানি বৃদ্ধি পেয়েছে।",
-          "তুরস্কে বাংলাদেশের তৈরি পোশাক রপ্তানি দ্বিগুণ হয়েছে।",
-          "চলতি অর্থবছরের প্রথম চার মাসে এই রপ্তানি বৃদ্ধির তথ্য জানা গেছে।"
+          "পরীক্ষা করা ২২টি শিল্প উপখাতের মধ্যে সাতটিতে উল্লেখযোগ্য অসংগতি পাওয়া গেছে।",
+          "প্রধানমন্ত্রীর অর্থ ও পরিকল্পনা বিষয়ক উপদেষ্টা রাশেদ আল মাহমুদ তিতুমীর এই তথ্য জানিয়েছেন।",
+          "জাতীয় হিসাব এবং পরিসংখ্যান ব্যবস্থার বিশ্বাসযোগ্যতা নিয়ে গুরুতর প্রশ্ন উঠেছে।"
         ],
         "bullets_en": [
-          "At the same time, Bangladesh garment exports increased in new and non-traditional markets.",
-          "Bangladesh garment exports to Turkey have doubled.",
-          "This growth in exports was recorded in the first four months of the current fiscal year."
+          "Significant inconsistencies were identified in seven of the 22 industrial subsectors examined.",
+          "Prime Minister's Adviser on Finance and Planning Rashed Al Mahmud Titumir shared these findings.",
+          "The findings raise serious questions about the credibility of national accounts and the statistical system."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "তুরস্কে দ্বিগুণ হয়েছে বাংলাদেশের তৈরি পোশাক রপ্তানি।",
-        "question_bn": "অপ্রচলিত বাজারে পোশাক রপ্তানি বাড়াতে আর কী করা যেতে পারে বলে আপনার মনে হয়?"
+        "details_bn": "বাংলাদেশ পরিসংখ্যান ব্যুরো কার্যালয়ে আয়োজিত এক সেমিনারে বিআইডিএসের মহাপরিচালক ড. এ কে এনামুল হক এবং গবেষণা পরিচালক ড. ড. আতোনু রব্বানী রিপোর্টটি উপস্থাপন করেন। উপদেষ্টা রাশেদ আল মাহমুদ তিতুমীর জানান, রাজনৈতিক কারণে অর্থনৈতিক পরিসংখ্যান রাজনৈতিক হাতিয়ার হিসেবে ব্যবহার করা হয়েছিল।",
+        "details_en": "BIDS Director General Dr AK Enamul Haque and Research Director Dr Atonu Rabbani presented the report at a seminar at the BBS headquarters. Adviser Rashed Al Mahmud Titumir stated that economic statistics were used as a political instrument.",
+        "hook_bn": "জিডিপি প্রবৃদ্ধি ১.১৩ শতাংশ পর্যন্ত বেশি দেখানো হয়েছিল।",
+        "question_bn": "জাতীয় পরিসংখ্যানের বিশ্বাসযোগ্যতা ফেরাতে কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
       },
-      "desk_importance": 6.0,
+      "desk_importance": 7.0,
       "outlet_count": 1,
       "trending": false,
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-16T03:02:04.608501+00:00"
+        "checked_at": "2026-11-16T04:04:03.602402+00:00"
       }
     },
     {
-      "story_id": "08f31903-8b3b-5f4d-9263-936292babeca",
-      "primary_category": "world_diplomacy",
+      "story_id": "d74bf426-679e-593c-87c2-fe6d051edaa4",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy"
+        "governance_law"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#Yemen",
-        "#BabElMandeb",
-        "#Houthis",
-        "#Aden"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://th-i.thgim.com/public/incoming/pdl4ra/article71705631.ece/alternates/LANDSCAPE_1200/Djibouti_EU_Piracy_Patrol_39351.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-16%2Fu5un7zlx%2FKhulna-Nogor-Vobon.JPG.jpeg?rect=0%2C282%2C2804%2C1472&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-16T00:06:23+00:00",
+      "published_at": "2026-11-16T03:21:46+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.1122,
+      "importance_score": 6.25,
+      "rank_score": 3.7523,
       "sources": [
         {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/yemeni-government-forces-retreat-from-strait-in-major-setback-in-war-against-houthis/article71705608.ece",
-          "title": "Yemeni government forces retreat from strait in major setback in war against Houthis",
-          "snippet": "Yemeni government forces retreat from strait in major setback in war against Houthis"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/6wfv44rutk",
+          "title": "খুলনায় নগর ভবন লক্ষ্য করে পেট্রলবোমা নিক্ষেপ",
+          "snippet": "খুলনায় নগর ভবন লক্ষ্য করে পেট্রলবোমা নিক্ষেপ"
         },
         {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/international/498235",
-          "title": "ইয়েমেনের অস্থায়ী রাজধানী এডেনের দিকে অগ্রসর হচ্ছে হুথি যোদ্ধারা",
-          "snippet": "ইয়েমেনের অস্থায়ী রাজধানী এডেনের দিকে অগ্রসর হচ্ছে হুথি যোদ্ধারা"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821227/%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A6%A8%E0%A6%BE-%E0%A6%A8%E0%A6%97%E0%A6%B0-%E0%A6%AD%E0%A6%AC%E0%A6%A8%E0%A7%87-%E0%A6%AA%E0%A7%87%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%B2-%E0%A6%AC%E0%A7%8B%E0%A6%AE%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA",
+          "title": "খুলনা নগর ভবনে পেট্রোল বোমা নিক্ষেপ",
+          "snippet": "খুলনা নগর ভবনে পেট্রোল বোমা নিক্ষেপ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইয়েমেনি সরকারি বাহিনী বাব আল-মান্দেব প্রণালী থেকে সরে দাঁড়াল",
-        "title_en": "Yemeni government forces retreat from Bab el-Mandeb Strait",
-        "summary_bn": "সৌদি সমর্থিত ইয়েমেনি সরকারি বাহিনী ১৫ নভেম্বর ২০২৬ তারিখে বাব আল-মান্দেব প্রণালীর নিকটবর্তী এলাকা থেকে সরে যাওয়ার ঘোষণা দিয়েছে।",
-        "summary_en": "Yemeni government forces announced on November 15, 2026, that they were withdrawing from the area near the Bab el-Mandeb Strait.",
+        "title_bn": "খুলনা নগর ভবনে পেট্রলবোমা নিক্ষেপ করেছে দুর্বৃত্তরা",
+        "title_en": "Miscreants throw petrol bomb at Khulna City Corporation building",
+        "summary_bn": "খুলনা সিটি করপোরেশনের নগর ভবনের সিঁড়ি লক্ষ্য করে একটি পেট্রলবোমা নিক্ষেপ করেছে দুর্বৃত্তরা।",
+        "summary_en": "Miscreants threw a petrol bomb targeting the stairs of the Khulna City Corporation Nagar Bhaban.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-16T00:06:23+00:00",
-        "lead_bn": "সৌদি সমর্থিত ইয়েমেনি সরকারি বাহিনী ১৫ নভেম্বর ২০২৬ তারিখে বাব আল-মান্দেব প্রণালীর নিকটবর্তী এলাকা থেকে সরে যাওয়ার ঘোষণা দিয়েছে।",
-        "lead_en": "Yemeni government forces announced on November 15, 2026, that they were withdrawing from the area near the Bab el-Mandeb Strait.",
+        "published_at": "2026-11-16T03:21:46+00:00",
+        "lead_bn": "খুলনা সিটি করপোরেশনের নগর ভবনের সিঁড়ি লক্ষ্য করে একটি পেট্রলবোমা নিক্ষেপ করেছে দুর্বৃত্তরা।",
+        "lead_en": "Miscreants threw a petrol bomb targeting the stairs of the Khulna City Corporation Nagar Bhaban.",
         "bullets_bn": [
-          "দক্ষিণ ইয়েমেনের প্রধান সামরিক বাহিনী এক বিবৃতিতে জানিয়েছে তারা ধুবাব বিমানবন্দর এবং বাব আল-মান্দেব এলাকা থেকে সেনা পুনর্বিন্যাস করেছে।",
-          "প্রধান রাজধানী এডেন রক্ষা করা এবং প্রতিবেশী গভর্নেটগুলোকে সুরক্ষিত রাখাই এই পদক্ষেপের প্রধান অগ্রাধিকার বলে জানানো হয়েছে।",
-          "এই সেনা প্রত্যাহারের ফলে এডেনের দিকে নতুন হুথি অগ্রগতির সম্ভাবনা তৈরি হয়েছে।"
+          "মোটরসাইকেলে করে আসা দুই যুবক ভবনের সিঁড়ি লক্ষ্য করে বোমাটি ছুড়ে দ্রুত ঘটনাস্থল ত্যাগ করেন।",
+          "বোমাটি সিঁড়িতে পড়ে বিস্ফোরিত হওয়ার পর আগুন জ্বলে এবং পরে নিজে থেকেই নিভে যায়।",
+          "এ ঘটনায় বড় ধরনের কোনো ক্ষতি হয়নি এবং শুধু সিঁড়িতে সামান্য দাগ পড়েছে।"
         ],
         "bullets_en": [
-          "The main military force fighting for Yemen's government announced the implementation of a redeployment operation from Dhubab Airport and the Bab el-Mandeb area.",
-          "This step is based on the priority of securing the capital, Aden, and the neighbouring governorates, and strengthening front lines.",
-          "The announcement of a government retreat raises the prospect of new Houthi advances towards Aden."
+          "Two youths on a motorcycle threw the bomb targeting the building stairs and quickly left the scene.",
+          "After falling on the stairs, the bomb exploded, caught fire, and later extinguished on its own.",
+          "There was no major damage from the incident, and only a slight mark was left on the stairs."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "এই ঘোষণাটি সরকারের ছয় সপ্তাহব্যাপী সেই counteroffensive বা পাল্টা আক্রমণের আপাত সমাপ্তি নির্দেশ করে, যা গত সেপ্টেম্বরে হুথিদের দখল করা লোহিত সাগরের মুখের উপকূল পুনরুদ্ধার করতে শুরু হয়েছিল। হুথিরা ওই এলাকায় বিজয়ী হয়ে তেল রপ্তানি সীমিত করেছিল এবং তারা ইয়েমেনের রাজধানী সানা দখল করার পর থেকে সরকারপন্থী বাহিনীগুলো ২০১৫ সাল থেকে দেশের দক্ষিণ উপকূলের এডেনে অবস্থান করছে।",
-        "details_en": "The announcement signalled the apparent end of a six-week government counteroffensive to reclaim the coast near the mouth of the Red Sea, seized by the Houthis in September in a lightning advance that squeezed oil exports. Government forces have been based in Aden on the southern coast since 2015 after the Houthis seized the capital Sanaa.",
-        "hook_bn": "ইয়েমেনি সরকারি বাহিনী বাব আল-মান্দেব প্রণালীর এলাকা থেকে সরে দাঁড়িয়েছে।",
+        "details_bn": "পুলিশ জানায়, নগরের কে ডি ঘোষ রোডে অবস্থিত নগর ভবনের সামনে একটি মোটরসাইকেলে করে দুই যুবক এসে বোমাটি নিক্ষেপ করেন। সিসিটিভি ফুটেজে সামনের সড়ক থেকে ভবনের দিকে বস্তু ছুড়ে মারার দৃশ্য দেখা গেছে। খুলনা সদর থানার ভারপ্রাপ্ত কর্মকর্তা মো. লোকমান হোসেন জানান, পুলিশ ঘটনাস্থল থেকে আলামত সংগ্রহ করেছে এবং জড়িত ব্যক্তিদের শনাক্ত ও গ্রেপ্তারের চেষ্টা চলছে।",
+        "details_en": "Police said two youths on a motorcycle came in front of the Nagar Bhaban located on K D Ghosh Road in the city and threw the bomb. CCTV footage showed an object being thrown towards the building from the front road. Khulna Sadar Police Station officer-in-charge Md. Lokman Hossain stated that police collected evidence from the spot and efforts are underway to identify and arrest the involved individuals.",
+        "hook_bn": "খুলনা নগর ভবনে পেট্রলবোমা নিক্ষেপ করেছে দুই যুবক।",
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-16T04:04:03.602402+00:00"
+      }
+    },
+    {
+      "story_id": "cd136d5f-6107-5a44-b358-0afb857eaec2",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business",
+        "climate_environment"
+      ],
+      "region": "international",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.channelionline.com/2026/11/gulf.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-11-16T03:44:33+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5347,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/new-plans-attack-iran-targets-include-economic-infrastructure/",
+          "title": "ইরানের অর্থনৈতিক অবকাঠামোতে হামলার যৌথ পরিকল্পনা যুক্তরাষ্ট্র ও ইসরায়েলের",
+          "snippet": "ইরানের অর্থনৈতিক অবকাঠামোতে হামলার যৌথ পরিকল্পনা যুক্তরাষ্ট্র ও ইসরায়েলের"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যুক্তরাষ্ট্র ও ইসরায়েল ইরানের অর্থনৈতিক অবকাঠামোতে হামলার যৌথ পরিকল্পনা করছে",
+        "title_en": "US and Israel are jointly planning attacks on Iran economic infrastructure",
+        "summary_bn": "মার্কিন কর্মকর্তা ও সংশ্লিষ্ট ব্যক্তিদের বরাত দিয়ে দ্য নিউইয়র্ক টাইমস জানিয়েছে, যুক্তরাষ্ট্র ও ইসরায়েল ইরানের অর্থনৈতিক অবকাঠামোতে হামলার যৌথ পরিকল্পনা করছে।",
+        "summary_en": "The New York Times reports that the US and Israel are jointly planning attacks on Iran economic infrastructure.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-16T03:44:33+00:00",
+        "lead_bn": "মার্কিন কর্মকর্তা ও সংশ্লিষ্ট ব্যক্তিদের বরাত দিয়ে দ্য নিউইয়র্ক টাইমস জানিয়েছে, যুক্তরাষ্ট্র ও ইসরায়েল ইরানের অর্থনৈতিক অবকাঠামোতে হামলার যৌথ পরিকল্পনা করছে।",
+        "lead_en": "The New York Times reports that the US and Israel are jointly planning attacks on Iran economic infrastructure.",
+        "bullets_bn": [
+          "সম্ভাব্য লক্ষ্যবস্তু হিসেবে সামরিক ও পারমাণবিক স্থাপনার পাশাপাশি জ্বালানি অবকাঠামো ও অন্যান্য অর্থনৈতিক সম্পদকে বিবেচনায় নেওয়া হচ্ছে।",
+          "যুক্তরাষ্ট্র ও ইরানের মধ্যে কয়েক মাস ধরে চলা সামরিক অচলাবস্থা এবং স্থায়ী কোনো চুক্তিতে পৌঁছানোর ক্ষেত্রে অগ্রগতি না হওয়ায় নতুন এই পরিকল্পনা করা হচ্ছে।",
+          "নতুন করে হামলা চালানোর ক্ষেত্রে মধ্যপ্রাচ্যজুড়ে ইরানের ক্ষেপণাস্ত্র ও ড্রোন হামলার ঝুঁকিও বিবেচনা করতে হবে ওয়াশিংটন ও তেল আবিবকে।"
+        ],
+        "bullets_en": [
+          "Potential targets include military and nuclear facilities alongside energy infrastructure and other economic assets.",
+          "The new planning comes amid months of military deadlock and lack of progress toward a permanent agreement between the US and Iran.",
+          "Washington and Tel Aviv must also consider the risk of Iranian missile and drone attacks across the Middle East."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "প্রতিবেদনে বলা হয়, এর আগে দ্য নিউইয়র্ক টাইমস–এর এক প্রতিবেদনে সম্ভাব্য লক্ষ্যবস্তুর তালিকায় জ্বালানি কেন্দ্র, পারমাণবিক স্থাপনা এবং ইরানের ক্ষেপণাস্ত্র ও ড্রোন অস্ত্রাগার থাকার কথা বলা হয়েছিল। এ ছাড়া যুক্তরাষ্ট্র ইরানের ওপর অর্থনৈতিক চাপ বাড়িয়ে দেশটির বন্দরগুলোতে নৌ অবরোধ, বিমান পরিবহন ব্যাহত করতে নিষেধাজ্ঞা এবং স্থলপথ ও কাস্পিয়ান সাগর দিয়ে বাণিজ্য সীমিত করার উদ্যোগ নিয়েছে। নতুন হামলার পরিকল্পনা বাস্তবায়িত হলে এই সংঘাত সামরিক স্থাপনার গণ্ডি ছাড়িয়ে অর্থনৈতিক অবকাঠামোতেও ছড়িয়ে পড়তে পারে।",
+        "details_en": "The report states that an earlier New York Times report included energy centers, nuclear facilities, and Iran missile and drone arsenals on the potential target list. Additionally, the US has increased economic pressure on Iran by imposing naval blockades on ports, restrictions to disrupt air travel, and initiatives to limit trade through land routes and the Caspian Sea. If implemented, these new attack plans could expand the conflict beyond military sites into economic infrastructure.",
+        "hook_bn": "যুক্তরাষ্ট্র ও ইসরায়েল ইরানের অর্থনৈতিক অবকাঠামোতে হামলার যৌথ পরিকল্পনা করছে",
+        "question_bn": "ইরান ও মধ্যপ্রাচ্যের চলমান পরিস্থিতি নিয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-16T04:04:03.602402+00:00"
+      }
+    },
+    {
+      "story_id": "9beada4d-5582-59a6-92ef-45b3c25a3c67",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law",
+        "climate_environment"
+      ],
+      "region": "international",
+      "tags": [
+        "#PopeLeo",
+        "#Amazon",
+        "#Peru"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/5656d136eaed416d7dd76ab2932c283b5ce64f39/373_0_3525_2820/master/3525.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d9701e4cbe79a67cb3d91d45cdf9539",
+      "image_caption": null,
+      "published_at": "2026-11-16T01:13:44+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.5,
+      "rank_score": 2.5687,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
+          "title": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
+          "snippet": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon"
+        },
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss",
+          "title": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
+          "snippet": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আমাজন রক্ষায় নিহত ব্যক্তিদের জন্য ন্যায়বিচার দাবি পোপ লিওর",
+        "title_en": "Pope Leo demands justice for environmental defenders killed in the Amazon",
+        "summary_bn": "পোপ লিওর আমাজনে পরিবেশ রক্ষায় নিহত ব্যক্তিদের জন্য ন্যায়বিচার দাবি এবং আদিবাসীদের ভূমি রক্ষার প্রচেষ্টার প্রতি সমর্থন জানিয়েছেন।",
+        "summary_en": "Pope Leo has demanded justice for environmental defenders killed in the Amazon and backed Indigenous efforts to protect their lands.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law",
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-16T01:13:44+00:00",
+        "lead_bn": "পোপ লিওর আমাজনে পরিবেশ রক্ষায় নিহত ব্যক্তিদের জন্য ন্যায়বিচার দাবি এবং আদিবাসীদের ভূমি রক্ষার প্রচেষ্টার প্রতি সমর্থন জানিয়েছেন।",
+        "lead_en": "Pope Leo has demanded justice for environmental defenders killed in the Amazon and backed Indigenous efforts to protect their lands.",
+        "bullets_bn": [
+          "পোপ লিও পুকালাপ্পা শহরে আদিবাসী প্রতিনিধি ও মিশনারিদের সাথে বৈঠক করেন।",
+          "পরিবেশগত গোষ্ঠীগুলোর প্রাক্কলন অনুযায়ী ২০১০ থেকে ২০২৪ সালের মধ্যে ৫৭ জন পরিবেশ রক্ষাকারী নিহত হয়েছেন।",
+          "পোপ ভূমি ও আদিবাসীদের সম্মানকারী একটি ভিন্ন অর্থনৈতিক উন্নয়ন মডেলের দাবি জানান।"
+        ],
+        "bullets_en": [
+          "Pope Leo met with Indigenous representatives and missionaries in the city of Pucallpa.",
+          "Environmental groups estimate that 57 environmental defenders were murdered between 2010 and 2024.",
+          "The Pope demanded a different model of economic development that respects the Earth and Indigenous peoples."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "পোপ দক্ষিণ আমেরিকান সফরের অংশ হিসেবে পেরুর আমাজনে যান। সেখানে বন উজাড়, অবৈধ স্বর্ণ উত্তোলন এবং কোকা উৎপাদনের ফলে সৃষ্ট হুমকি ও বন ধ্বংসের বিষয়টি তুলে ধরা হয়।",
+        "details_en": "Pope Leo travelled into the Peruvian Amazon on his South American tour, addressing threats including deforestation, illegal gold mining, and coca production that have devastated forests and polluted rivers.",
+        "hook_bn": "আমাজনে পরিবেশ রক্ষায় নিহত হয়েছেন ৫৭ জন ডিফেন্ডার।",
         "question_bn": null
       },
       "desk_importance": 5.0,
       "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 4.0,
+      "trending": true,
+      "social_appeal": 3.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-16T03:02:04.608501+00:00"
+        "checked_at": "2026-11-16T04:04:03.602402+00:00"
       }
     }
   ]
