@@ -1,363 +1,81 @@
 {
-  "updated_at": "2026-11-16T19:00:46.676067",
-  "total_stories": 5,
+  "updated_at": "2026-11-16T20:00:40.902123",
+  "total_stories": 1,
   "stories": [
     {
-      "story_id": "5dd86da3-3c9f-5cf8-bd80-c05688f9b41b",
-      "primary_category": "society_education",
+      "story_id": "025b1c63-54e4-5128-b581-e50c48005214",
+      "primary_category": "governance_law",
       "interest_categories": [
+        "governance_law",
+        "world_diplomacy",
         "society_education"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
-        "#NationalAffairs"
+        "#DeathPenalty",
+        "#UnitedNations"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-16%2F61oq3z54%2Fgazipurdh061520261116img-20261116-wa0114.jpg?rect=0%2C0%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/images/2025/10/13/op_1_aliza_rahman_death_penalty.jpeg",
       "image_caption": null,
-      "published_at": "2026-11-16T17:10:38+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 3.7968,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/r53gjkbcz6",
-          "title": "জাতীয় বিশ্ববিদ্যালয় তিন দিনের জন্য বন্ধ ঘোষণা",
-          "snippet": "জাতীয় বিশ্ববিদ্যালয় তিন দিনের জন্য বন্ধ ঘোষণা"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/education/national-university-closes-offices-three-days-amid-employee-protests-1604886",
-          "title": "National University closes offices for three days amid employee protests",
-          "snippet": "National University closes offices for three days amid employee protests"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821389/%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AC-%E0%A6%85%E0%A6%AB%E0%A6%BF%E0%A6%B8-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A6%98%E0%A7%8B%E0%A6%B7%E0%A6%A3%E0%A6%BE",
-          "title": "জাতীয় বিশ্ববিদ্যালয়ের সব অফিস তিন দিন বন্ধ ঘোষণা",
-          "snippet": "জাতীয় বিশ্ববিদ্যালয়ের সব অফিস তিন দিন বন্ধ ঘোষণা"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/educations/981401/%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AC-%E0%A6%85%E0%A6%AB%E0%A6%BF%E0%A6%B8-%E0%A7%A9-%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A6%98%E0%A7%8B%E0%A6%B7%E0%A6%A3%E0%A6%BE",
-          "title": "জাতীয় বিশ্ববিদ্যালয়ের সব অফিস ৩ দিন বন্ধ ঘোষণা",
-          "snippet": "জাতীয় বিশ্ববিদ্যালয়ের সব অফিস ৩ দিন বন্ধ ঘোষণা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জাতীয় বিশ্ববিদ্যালয়ের সব অফিস তিন দিন বন্ধ ঘোষণা",
-        "title_en": "National University closes all offices for three days",
-        "summary_bn": "উদ্ভূত পরিস্থিতির কারণে জাতীয় বিশ্ববিদ্যালয়ের সব অফিস তিন দিন বন্ধ রাখার সিদ্ধান্ত নিয়েছে কর্তৃপক্ষ।",
-        "summary_en": "Authorities have decided to close all offices of the National University for three days due to prevailing circumstances.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-16T17:10:38+00:00",
-        "lead_bn": "উদ্ভূত পরিস্থিতির কারণে জাতীয় বিশ্ববিদ্যালয়ের সব অফিস তিন দিন বন্ধ রাখার সিদ্ধান্ত নিয়েছে কর্তৃপক্ষ।",
-        "lead_en": "Authorities have decided to close all offices of the National University for three days due to prevailing circumstances.",
-        "bullets_bn": [
-          "১৭ নভেম্বর থেকে ১৯ নভেম্বর পর্যন্ত বিশ্ববিদ্যালয়ের সব অফিস বন্ধ থাকবে।",
-          "বিশ্ববিদ্যালয়ের জনসংযোগ দপ্তরের ভারপ্রাপ্ত পরিচালক তাইয়েবা তাসনীম সিরাজ স্বাক্ষরিত সংবাদ বিজ্ঞপ্তিতে এ তথ্য জানানো হয়।",
-          "জরুরি পরিষেবা, পরীক্ষা নিয়ন্ত্রণ দপ্তর এবং অধ্যক্ষ সম্মিলন-সংক্রান্ত কার্যক্রম এ নির্দেশনার আওতামুক্ত থাকবে।"
-        ],
-        "bullets_en": [
-          "All offices of the university will remain closed from 17 November to 19 November.",
-          "This was announced in a press release signed by Taiyeba Tasnim Siraj, acting director of the university public relations department.",
-          "Emergency services, the examination controller department, and principal conference-related activities will remain exempt from this directive."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "আদালতের রায়ে চাকরিতে পুনর্বহাল হওয়া ৯৮৮ কর্মকর্তা-কর্মচারীর জ্যেষ্ঠতা, পদোন্নতি ও বকেয়া বেতন-ভাতার দাবিতে জাতীয় বিশ্ববিদ্যালয়ের উপাচার্য অধ্যাপক এ এস এম আমানুল্লাহকে তাঁর কার্যালয়ে অবরুদ্ধ করে বিক্ষোভ করেন কর্মকর্তা-কর্মচারীরা। এই পরিস্থিতি মোকাবিলায় জরুরি সিন্ডিকেট সভা করে বিশ্ববিদ্যালয় কর্তৃপক্ষ তিন দিন বিশ্ববিদ্যালয় বন্ধ ঘোষণা করে।",
-        "details_en": "Officials and employees, reinstated through a court verdict, staged a demonstration and confined National University Vice-Chancellor Professor A S M Amanullah to his office demanding seniority, promotions, and outstanding salaries. To cope with this situation, the university authority held an emergency syndicate meeting and declared a three-day closure.",
-        "hook_bn": "জাতীয় বিশ্ববিদ্যালয়ের সব অফিস তিন দিন বন্ধ ঘোষণা করা হয়েছে।",
-        "question_bn": "বিশ্ববিদ্যালয় তিন দিন বন্ধ থাকায় আপনার কাজে কী ধরনের প্রভাব পড়বে বলে মনে করেন?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 4,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-16T19:02:47.969495+00:00"
-      }
-    },
-    {
-      "story_id": "c8bf87ff-0dc5-58c7-9d2f-f30edd081d29",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Netrokona",
-        "#Atpara",
-        "#BNP"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1732721093900-5b1f9091cf5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Ym5wJTIwbGVhZGVycyUyMGFjY3VzZWQlMjBhc3NhdWx0aW5nJTIwZWR1Y2F0aW9ufGVufDF8MHx8fDE3OTQ4NTU3MjN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-16T18:00:00+00:00",
+      "published_at": "2026-11-16T17:55:45+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.25,
-      "rank_score": 3.6812,
+      "rank_score": 3.4608,
       "sources": [
         {
           "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/pregnant-teacher-assaulted-bnp-men-4325856",
-          "title": "Pregnant teacher assaulted by ‘BNP men’",
-          "snippet": "Pregnant teacher assaulted by ‘BNP men’"
+          "url": "https://www.thedailystar.net/news/bangladesh/rights/news/bangladesh-abstains-un-death-penalty-moratorium-vote-4325831",
+          "title": "Bangladesh abstains on UN death penalty moratorium vote",
+          "snippet": "Bangladesh abstains on UN death penalty moratorium vote"
         },
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/4ay0ny16c2",
-          "title": "অন্তঃসত্ত্বা শিক্ষিকার পেটে লাথি, অভিযুক্ত বিএনপি নেতা বললেন ‘শুধু গালমন্দ’ করা হয়েছে",
-          "snippet": "অন্তঃসত্ত্বা শিক্ষিকার পেটে লাথি, অভিযুক্ত বিএনপি নেতা বললেন ‘শুধু গালমন্দ’ করা হয়েছে"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/bangladesh-abstains-from-un-vote-on-global-death-penalty-moratorium",
+          "title": "Bangladesh abstains from UN vote on global death penalty moratorium",
+          "snippet": "Bangladesh abstains from UN vote on global death penalty moratorium"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নেত্রকোনায় অন্তঃসত্ত্বা শিক্ষিকাকে মারধরের অভিযোগ উঠেছে বিএনপি নেতাদের বিরুদ্ধে।",
-        "title_en": "BNP leaders accused of assaulting pregnant teacher in Netrokona.",
-        "summary_bn": "নেত্রকোনার আটপাড়া উপজেলায় স্কুল পরিচালনা কমিটির গঠন নিয়ে বিরোধের জেরে এক অন্তঃসত্ত্বা শিক্ষককে মারধরের অভিযোগ উঠেছে স্থানীয় বিএনপি নেতার বিরুদ্ধে।",
-        "summary_en": "A local BNP leader has been accused of assaulting a pregnant teacher over a school managing committee dispute in Netrokona's Atpara upazila.",
+        "title_bn": "মৃত্যুদণ্ডের ওপর জাতিসংঘ প্রস্তাবে ভোটদান থেকে বিরত থাকে বাংলাদেশ",
+        "title_en": "Bangladesh abstains from UN death penalty moratorium vote",
+        "summary_bn": "জুলাই গণঅভ্যুত্থানের পর জাতিসংঘে মৃত্যুদণ্ডের বৈশ্বিক স্থগিতাদেশ সংক্রান্ত একটি প্রস্তাবের ওপর ভোটদান থেকে বিরত থাকে বাংলাদেশ।",
+        "summary_en": "Bangladesh abstained from voting on a UN resolution calling for a global moratorium on the death penalty following the July mass uprising.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
-          "governance_law"
+          "governance_law",
+          "world_diplomacy",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-16T18:00:00+00:00",
-        "lead_bn": "নেত্রকোনার আটপাড়া উপজেলায় স্কুল পরিচালনা কমিটির গঠন নিয়ে বিরোধের জেরে এক অন্তঃসত্ত্বা শিক্ষককে মারধরের অভিযোগ উঠেছে স্থানীয় বিএনপি নেতার বিরুদ্ধে।",
-        "lead_en": "A local BNP leader has been accused of assaulting a pregnant teacher over a school managing committee dispute in Netrokona's Atpara upazila.",
+        "published_at": "2026-11-16T17:55:45+00:00",
+        "lead_bn": "জুলাই গণঅভ্যুত্থানের পর জাতিসংঘে মৃত্যুদণ্ডের বৈশ্বিক স্থগিতাদেশ সংক্রান্ত একটি প্রস্তাবের ওপর ভোটদান থেকে বিরত থাকে বাংলাদেশ।",
+        "lead_en": "Bangladesh abstained from voting on a UN resolution calling for a global moratorium on the death penalty following the July mass uprising.",
         "bullets_bn": [
-          "আহত শিক্ষক নিবেদিতা দেব অভিযোগ করেন যে তেলিগাতি ইউনিয়ন বিএনপির সভাপতি আনোয়ার হোসেন তার পেটে লাথি মেরেছেন।",
-          "ভুক্তভোগী শিক্ষিকার দাবি, আনোয়ার হোসেন এবং বিএনপি-সমর্থিত সভাপতি পদপ্রার্থী নূরুজ্জামান খান পুতুলসহ ৫ থেকে ৬ জন তাকে মারধর করেন।",
-          "অভিযুক্ত বিএনপি নেতা আনোয়ার হোসেন দাবি করেছেন যে তারা সভা ডেকেছিলেন এবং শিক্ষিকাকে কেবল গালমন্দ করা হয়েছে।"
+          "মেক্সিকো উত্থাপিত এই প্রস্তাবটি ১৩ নভেম্বর জাতিসংঘ সাধারণ পরিষদের তৃতীয় কমিটিতে অনুমোদিত হয়।",
+          "প্রস্তাবটির পক্ষে ১৩৩টি দেশ এবং বিপক্ষে ৩৩টি দেশ ভোট দেয় এবং বাংলাদেশসহ ১৬টি দেশ ভোটদান থেকে বিরত থাকে।",
+          "মানবাধিকার রক্ষার প্রতিশ্রুতির অংশ হিসেবে বাংলাদেশ ভোটদান থেকে বিরত রয়েছে বলে জানিয়েছে পররাষ্ট্র মন্ত্রণালয়।"
         ],
         "bullets_en": [
-          "Victim teacher Nibedita Deb alleged that Anwar Hossain, president of Teligati union BNP, kicked her in the abdomen.",
-          "The teacher claimed that Anwar Hossain, BNP-backed president candidate Nuruzzaman Khan Putul, and five to six others beat her.",
-          "Accused BNP leader Anwar Hossain claimed they held a meeting and only verbal abuse occurred against the teacher."
+          "The resolution tabled by Mexico was approved by the UN General Assembly Third Committee on November 13.",
+          "A total of 133 countries voted in favour of the resolution, 33 voted against it, and 16 countries including Bangladesh abstained.",
+          "A foreign ministry official said Bangladesh abstained in keeping with its commitment to upholding human rights."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বিদ্যালয়ের পরিচালনা কমিটি গঠন নিয়ে বিরোধের জেরে তেলিগাতি ইউনিয়নের কাছারপুর সরকারি প্রাথমিক বিদ্যালয়ে এই ঘটনা ঘটে। ভারপ্রাপ্ত প্রধান শিক্ষিকা নিবেদিতা দেব জানান, বিএনপি নেতারা অন্যত্র সভা করে তাকে যোগ দিতে বলেন এবং পরে বিদ্যালয়ে এসে তার ওপর হামলা চালান। এই ঘটনায় শিক্ষিকার স্বামী উপজেলা নির্বাহী অফিসারের কাছে একটি অভিযোগ দায়ের করেছেন।",
-        "details_en": "The incident took place at Kacharpar Government Primary School in Teligati union over a dispute regarding the formation of a school managing committee. Acting headteacher Nibedita Deb stated that BNP leaders asked her to join a meeting elsewhere before arriving at the school to attack her. The teacher's husband filed a complaint with the upazila nirbahi officer regarding the incident.",
-        "hook_bn": "নেত্রকোনায় স্কুল পরিচালনা কমিটির বিরোধ নিয়ে অন্তঃসত্ত্বা শিক্ষককে মারধরের অভিযোগ।",
-        "question_bn": null
+        "details_bn": "জুলাই গণঅভ্যুত্থানের আগে পূর্বের বছরগুলোতে এই প্রস্তাবের বিরুদ্ধে ভোট দিয়েছিল বাংলাদেশ। অন্তর্বর্তী সরকার ক্ষমতা গ্রহণের পর মানবাধিকার রক্ষার প্রতিশ্রুতির অংশ হিসেবে এই প্রস্তাবে ভোটদান থেকে বিরত থাকে দেশ। তবে বাংলাদেশ এখনও শাস্তি হিসেবে মৃত্যুদণ্ড বজায় রাখায় এই প্রস্তাবের পক্ষে ভোট দেয়নি। অন্যদিকে যুক্তরাষ্ট্রসহ বিপক্ষে ভোটদানকারী দেশগুলো যুক্তি দেখায় যে এই প্রস্তাব জাতীয় সার্বভৌমত্ব লঙ্ঘন করে এবং আন্তর্জাতিক আইনের অধীনে মৃত্যুদণ্ডের আইন ও বিচার ব্যবস্থা দেশীয়ভাবেই নির্ধারিত হওয়া উচিত।",
+        "details_en": "Before the July mass uprising, Bangladesh had voted against the resolution in previous years. Since the interim government took office, Bangladesh has abstained on the resolution in keeping with its commitment to upholding human rights. However, as Bangladesh retains the death penalty as a form of punishment, it did not vote in favour. Countries voting against, such as the US, argued that the resolution oversteps national sovereignty and that capital punishment laws should be decided domestically.",
+        "hook_bn": "মৃত্যুদণ্ডের ওপর জাতিসংঘ প্রস্তাবে ভোটদান থেকে বিরত থাকে বাংলাদেশ।",
+        "question_bn": "মৃত্যুদণ্ডের বৈশ্বিক স্থগিতাদেশের প্রস্তাব নিয়ে বাংলাদেশের এই অবস্থান পরিবর্তনের বিষয়ে আপনার মতামত কী?"
       },
       "desk_importance": 6.0,
       "outlet_count": 2,
       "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-16T19:02:47.969495+00:00"
-      }
-    },
-    {
-      "story_id": "b61cb040-3843-553b-b2d3-e3ace6276af8",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#ZonayedSaki",
-        "#RMGWorkers",
-        "#WageBoard"
-      ],
-      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_1e399de9e384a4d08b4c2b431070ff45.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-16T19:01:07.891246+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5981,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/rmg-workers-new-wage-level-to-be-set-by-december-saki",
-          "title": "RMG workers’ new wage level to be set by December: Saki",
-          "snippet": "RMG workers’ new wage level to be set by December: Saki"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পোশাকশ্রমিকদের নতুন মজুরি স্তর ডিসেম্বরের মধ্যে নির্ধারিত হবে",
-        "title_en": "RMG workers new wage level to be set by December",
-        "summary_bn": "পরিকল্পনা প্রতিমন্ত্রী জোনায়েদ সাকি জানিয়েছেন, সরকার গঠিত নতুন মজুরি বোর্ডের মাধ্যমে পোশাকশ্রমিকদের নতুন মজুরি স্তর ডিসেম্বরের মধ্যে নিশ্চিত করা হবে।",
-        "summary_en": "State Minister for Planning Zonayed Saki said the government would ensure the new wage level for garment workers by December through the wage board.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-16T19:01:07.891246+00:00",
-        "lead_bn": "পরিকল্পনা প্রতিমন্ত্রী জোনায়েদ সাকি জানিয়েছেন, সরকার গঠিত নতুন মজুরি বোর্ডের মাধ্যমে পোশাকশ্রমিকদের নতুন মজুরি স্তর ডিসেম্বরের মধ্যে নিশ্চিত করা হবে।",
-        "lead_en": "State Minister for Planning Zonayed Saki said the government would ensure the new wage level for garment workers by December through the wage board.",
-        "bullets_bn": [
-          "শ্রমিকদের প্রতিনিধি দেওয়ার পর সরকার গত (১ নভেম্বর) সকালে মজুরি বোর্ডের সভা আয়োজন করে।",
-          "সরকার শ্রম আইন সংশোধন করে মজুরি পর্যালোচনার ব্যবধান পাঁচ বছর থেকে কমিয়ে তিন বছর করেছে।",
-          "পোশাকশ্রমিকদের এলাকায় ছয়টি হাসপাতাল স্থাপন ও তাদের সন্তানদের শিক্ষার বিশেষ উদ্যোগের পরিকল্পনা রয়েছে।"
-        ],
-        "bullets_en": [
-          "The government arranged a wage board meeting on (Nov. 1) morning after workers submitted representatives.",
-          "The government approved an amendment to the labour law reducing wage review intervals from five years to three years.",
-          "Plans include establishing six hospitals in garment worker areas and special initiatives for their children education."
-        ],
-        "impact_bn": "গ্যাস ও বিদ্যুতসহ নিত্যপ্রয়োজনীয় সেবার দাম বাড়ায় শ্রমিকদের কষ্ট বেড়েছে এবং সরকার তাদের জীবন সহজ করার চেষ্টা করছে।",
-        "impact_en": "Rising prices of essential services including gas and electricity added to worker hardship, and the government is making efforts to ease it.",
-        "details_bn": "বিভাষানী জনশক্তি পার্টির আয়োজনে মাওলানা আবদুল হামিদ খান ভাসানীর ৫০তম মৃত্যুবার্ষিকী উপলক্ষে জাতীয় প্রেস ক্লাবে এক আলোচনা সভায় পরিকল্পনা প্রতিমন্ত্রী এই কথাগুলো বলেন। পূর্ববর্তী আমলের অর্থনৈতিক চ্যালেঞ্জ এবং আন্তর্জাতিক পরিস্থিতির চাপের মধ্যেও সরকার ট্রেডিং কর্পোরেশন অব বাংলাদেশ (টিসিবি)-এর মাধ্যমে কাজ করছে।",
-        "details_en": "The state minister made the remarks addressing a discussion meeting organised by Bhashani Janashakti Party at the Jatiya Press Club marking the 50th death anniversary of Maulana Abdul Hamid Khan Bhashani. Despite economic challenges inherited from the previous regime and international pressure, the government is working through the Trading Corporation of Bangladesh.",
-        "hook_bn": "পোশাকশ্রমিকদের নতুন মজুরি স্তর ডিসেম্বরের মধ্যে নিশ্চিত করা হবে।",
-        "question_bn": "গার্মেন্টস শ্রমিকদের জীবনমান উন্নয়নে আর কী কী পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-16T19:02:47.969495+00:00"
-      }
-    },
-    {
-      "story_id": "14f16313-fe06-5fd0-915c-6b821ede16b6",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#USTheodoreRoosevelt",
-        "#WestAsia",
-        "#DonaldTrump",
-        "#IranWar"
-      ],
-      "image_url": "https://th-i.thgim.com/public/incoming/3ws3um/article71709213.ece/alternates/LANDSCAPE_1200/AP10_19_2026_000358B.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-16T17:00:24+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.2033,
-      "sources": [
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/third-american-aircraft-carrier-arrives-in-west-asia-as-trump-keeps-options-open-in-iran-war/article71709128.ece",
-          "title": "Third American aircraft carrier arrives in West Asia as Trump keeps options open in Iran war",
-          "snippet": "Third American aircraft carrier arrives in West Asia as Trump keeps options open in Iran war"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পশ্চিম এশিয়ায় পৌঁছাল তৃতীয় মার্কিন বিমানবাহী রণতরি",
-        "title_en": "Third American aircraft carrier arrives in West Asia",
-        "summary_bn": "মার্কিন বিমানবাহী রণতরি ইউএসএস থিওডোর রুজভেল্ট পশ্চিম এশিয়ায় পৌঁছেছে এবং এই অঞ্চলে মার্কিন রণতরির সংখ্যা তিনে উন্নীত করেছে।",
-        "summary_en": "The U.S. aircraft carrier USS Theodore Roosevelt has arrived in West Asia, bringing the total number of U.S. carriers in the region to three.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-16T17:00:24+00:00",
-        "lead_bn": "মার্কিন বিমানবাহী রণতরি ইউএসএস থিওডোর রুজভেল্ট পশ্চিম এশিয়ায় পৌঁছেছে এবং এই অঞ্চলে মার্কিন রণতরির সংখ্যা তিনে উন্নীত করেছে।",
-        "lead_en": "The U.S. aircraft carrier USS Theodore Roosevelt has arrived in West Asia, bringing the total number of U.S. carriers in the region to three.",
-        "bullets_bn": [
-          "একজন মার্কিন কর্মকর্তা ১৬ নভেম্বর ২০২৬ তারিখে রণতরিটির এই অঞ্চলে পৌঁছানোর বিষয়টি নিশ্চিত করেছেন।",
-          "এই আগমনের মাধ্যমে মধ্যপ্রাচ্যে হাজার হাজার অতিরিক্ত সেনা মোতায়েন করা হয়েছে।",
-          "আরব সাগরের এই নৌবহরে তিনটি বিমানবাহী রণতরির পাশাপাশি ১৩টি ডেস্ট্রয়ার, দুটি ক্রুজার এবং একটি লিটরাল কমব্যাট শিপ রয়েছে।"
-        ],
-        "bullets_en": [
-          "A U.S. official confirmed the carrier's arrival in the region on November 16, 2026.",
-          "This arrival brings thousands of additional troops to the Middle East.",
-          "The flotilla in the Arabian Sea now includes three aircraft carriers, 13 destroyers, two cruisers, and a littoral combat ship."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ইরানের সঙ্গে আট মাসেরও বেশি সময় ধরে চলা যুদ্ধের মধ্যে রাষ্ট্রপতি ডোনাল্ড ট্রাম্পের বিকল্প খোলা রাখার কৌশলের অংশ হিসেবে এই পদক্ষেপ নেওয়া হয়েছে। রুজভেল্ট এবং এর সাথে থাকা স্ট্রাইক ফোর্স সেপ্টেম্বর মাসে সান দিয়েগো ত্যাগ করেছিল। এটি পশ্চিম এশিয়ায় থাকা ইউএসএস জর্জ এইচ.ডব্লিউ. বুশ এবং ইউএসএস জর্জ ওয়াশিংটন রণতরির সাথে যুক্ত হয়েছে। বুশ রণতরি এপ্রিলে এবং জর্জ ওয়াশিংটন আগস্টে এই অঞ্চলে পৌঁছেছিল এবং তারা ইরানি শিপিংয়ের ওপর অবরোধ বজায় রাখছে।",
-        "details_en": "This comes as President Donald Trump keeps his options open during the more than 8-month-old Iran war. The Roosevelt and its strike force left San Diego in September. It joins the USS George H.W. Bush, which arrived in April, and the USS George Washington, which arrived in August, to maintain a blockade of Iranian shipping.",
-        "hook_bn": "পশ্চিম এশিয়ায় পৌঁছাল তৃতীয় মার্কিন বিমানবাহী রণতরি।",
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-16T19:02:47.969495+00:00"
-      }
-    },
-    {
-      "story_id": "470085e6-669c-5381-b999-dcc793137689",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "international",
-      "tags": [
-        "#LindsayClancy",
-        "#Massachusetts",
-        "#Court"
-      ],
-      "image_url": "https://i.guim.co.uk/img/media/48612869f527ad64a47895bf8b003e95eece7943/219_0_2690_2152/master/2690.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=868bdd42dd72b472023a7a075fe18ea9",
-      "image_caption": null,
-      "published_at": "2026-11-16T17:07:54+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.7112,
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/nov/16/lindsay-clancy-retrial-march",
-          "title": "Judge sets Lindsay Clancy retrial for March in killings of her three children",
-          "snippet": "Judge sets Lindsay Clancy retrial for March in killings of her three children"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "লিন্ডসি ক্ল্যান্সির তিন সন্তান হত্যা মামলার পুনর্বিচার মার্চের শেষের দিকে",
-        "title_en": "Judge sets Lindsay Clancy retrial for late March in children killings",
-        "summary_bn": "ম্যাসাচুসেটসের একজন বিচারক তিন সন্তান হত্যার অভিযোগে অভিযুক্ত লিন্ডসি ক্ল্যান্সির দ্বিতীয় বিচারকার্য ২৯ মার্চ নির্ধারণ করেছেন।",
-        "summary_en": "A Massachusetts judge scheduled Lindsay Clancy’s second trial in the killings of her three young children for late March.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-16T17:07:54+00:00",
-        "lead_bn": "ম্যাসাচুসেটসের একজন বিচারক তিন সন্তান হত্যার অভিযোগে অভিযুক্ত লিন্ডসি ক্ল্যান্সির দ্বিতীয় বিচারকার্য ২৯ মার্চ নির্ধারণ করেছেন।",
-        "lead_en": "A Massachusetts judge scheduled Lindsay Clancy’s second trial in the killings of her three young children for late March.",
-        "bullets_bn": [
-          "প্রসিকিউটরদের বিরোধিতা সত্ত্বেও সুপিরিয়র কোর্টের বিচারক উইলিয়াম সুলিভান ২৯ মার্চ Plymouth superior court-এ এই পুনর্বিচার নির্ধারণ করেন।",
-          "প্রথম বিচারকার্য ভেস্তে যায় কারণ জুরিরা সর্বসম্মত সিদ্ধান্তে পৌঁছাতে পারেননি যে তিনি অপরাধের জন্য দায়ী কি না।",
-          "আইনজীবীরা বিচার প্রক্রিয়ার লজিস্টিকস, নিরাপত্তা এবং মিডিয়া ব্যবস্থাপনা নিয়ে আলোচনার জন্য ৩০ ডিসেম্বর আদালতে ফিরবেন।"
-        ],
-        "bullets_en": [
-          "Superior court judge William Sullivan set the retrial for 29 March in Plymouth superior court over prosecutors' objections.",
-          "The first trial ended in a mistrial after jurors were unable to reach a unanimous verdict on criminal responsibility.",
-          "Attorneys are scheduled to return to court on 30 December to discuss trial logistics, security and media arrangements."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সাবেক লেবার অ্যান্ড ডেলিভারি নার্স লিন্ডসি ক্ল্যানসি ২০২৩ সালের জানুয়ারি মাসে Duxbury-এর বাড়িতে তার তিন সন্তানকে হত্যার বিষয়টি কখনোই অস্বীকার করেননি। তার আইনজীবীরা বলেছেন যে তিনি সেই সময়ে গুরুতর মানসিক অসুস্থতায় ভুগছিলেন, অন্যদিকে প্রসিকিউটররা যুক্তি দিয়েছেন যে ক্ল্যানসি হত্যাকাণ্ডগুলোর পরিকল্পনা করেছিলেন এবং তিনি যা করছিলেন তা বুঝতে পেরেছিলেন।",
-        "details_en": "Clancy, a former labor and delivery nurse, has never disputed that she killed her three children at the family’s Duxbury home in January 2023. Her attorneys said she was suffering from severe mental illness at the time, while prosecutors argued she planned the killings and understood what she was doing.",
-        "hook_bn": "তিন সন্তান হত্যা মামলার পুনর্বিচার মার্চের শেষের দিকে নির্ধারণ করা হয়েছে",
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": true,
       "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-16T19:02:47.969495+00:00"
+        "checked_at": "2026-11-16T20:02:07.408070+00:00"
       }
     }
   ]
