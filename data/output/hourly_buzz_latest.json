@@ -1,394 +1,347 @@
 {
-  "updated_at": "2026-11-16T02:00:43.129208",
-  "total_stories": 6,
+  "updated_at": "2026-11-16T03:00:52.046931",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "2b86dea5-f0f7-552a-80dc-0b07174b02f8",
-      "primary_category": "world_diplomacy",
+      "story_id": "971c539c-97a0-5189-9029-d32ee61bd31f",
+      "primary_category": "climate_environment",
       "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/iran-20261116075808.jpg?cid=498225",
-      "image_caption": null,
-      "published_at": "2026-11-16T01:58:08+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.2962,
-      "sources": [
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/international/498225",
-          "title": "আমরা ভেনেজুয়েলা বা কিউবা না, এবার আগে হামলা চালানোর ইঙ্গিত ইরানের",
-          "snippet": "আমরা ভেনেজুয়েলা বা কিউবা না, এবার আগে হামলা চালানোর ইঙ্গিত ইরানের"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "যুক্তরাষ্ট্রের হামলার জন্য অপেক্ষা না করে আগে হামলা চালাবে ইরান",
-        "title_en": "Iran will strike first instead of waiting for US attacks",
-        "summary_bn": "ইরানের উপপররাষ্ট্রমন্ত্রী কাজেম ঘারিবাবাদি জানিয়েছেন, কোনো হামলার শঙ্কা তৈরি হলে যুক্তরাষ্ট্র বা অন্য কারও হামলার জন্য অপেক্ষা না করে ইরানই আগে হামলা চালাবে।",
-        "summary_en": "Iranian Deputy Foreign Minister Kazem Gharibabadi stated that Iran will strike first if any threat arises, instead of waiting for US attacks.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-16T01:58:08+00:00",
-        "lead_bn": "ইরানের উপপররাষ্ট্রমন্ত্রী কাজেম ঘারিবাবাদি জানিয়েছেন, কোনো হামলার শঙ্কা তৈরি হলে যুক্তরাষ্ট্র বা অন্য কারও হামলার জন্য অপেক্ষা না করে ইরানই আগে হামলা চালাবে।",
-        "lead_en": "Iranian Deputy Foreign Minister Kazem Gharibabadi stated that Iran will strike first if any threat arises, instead of waiting for US attacks.",
-        "bullets_bn": [
-          "কাজে বলেছেন, নতুন করে হামলা চালানোর জন্য কূটনীতিকে ব্যবহার করে সময়ক্ষেপণ করেছে যুক্তরাষ্ট্র।",
-          "ফার্স নিউজকে দেওয়া সাক্ষাৎকারে কাজেম বলেন, ইরান কিউবা বা ভেনেজুয়েলা নয় যে অবরুদ্ধ বা আত্মসমর্পণে বাধ্য করা যাবে।",
-          "বিপ্লবী গার্ড দাবি করেছে, তারা নতুন রেঞ্জের মিসাইল তৈরি করছে এবং বাহরাইনে একটি হেলিকপ্টার ঘাঁটিতে হামলা চালিয়েছে।"
-        ],
-        "bullets_en": [
-          "Kazem stated that the United States used diplomacy to waste time for launching new attacks.",
-          "In an interview with Fars News, Kazem said Iran is not Cuba or Venezuela to be blockaded or forced to surrender.",
-          "The Revolutionary Guards claimed they are building new range missiles and attacked a helicopter base in Bahrain."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "মার্কিন যুক্তরাষ্ট্রের পক্ষ থেকে বলা হচ্ছে ইরানের সঙ্গে এ মুহূর্তে যুদ্ধও নেই আবার শান্তিও নেই, তবে কাজেম ঘারিবাবাদি এই দাবি প্রত্যাখ্যান করে জানিয়েছেন ইরান এখনো যুদ্ধেই আছে। তিনি আরও বলেন, মার্কিন সেনারা এখন পর্যন্ত আকাশ ও স্থল অবরোধের মাধ্যমে তাদের লক্ষ্য অর্জনে ব্যর্থ হয়েছে। এর আগে বাহরাইনে একটি হেলিকপ্টার ঘাঁটিতে হামলা চালায় ইরান এবং সেখানে থাকা মার্কিনিদের রাডারকে টার্গেট করা হয় বলে জানায় বিপ্লবী গার্ড, যদিও বাহরাইন দাবি করেছে ড্রোনগুলো প্রতিহত করা হয়েছে।",
-        "details_en": "The United States has been saying there is currently neither war nor peace with Iran, but Kazem Gharibabadi rejected this, stating Iran is still at war. He added that US forces have so far failed to achieve their goals through air and ground blockades. Earlier, Iran attacked a helicopter base in Bahrain targeting US radar, according to the Revolutionary Guards, though Bahrain claimed the drones were intercepted.",
-        "hook_bn": "যুক্তরাষ্ট্রের হামলার জন্য আর অপেক্ষা না করে আগে হামলা চালানোর ইঙ্গিত দিয়েছে ইরান।",
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-16T02:02:11.530946+00:00"
-      }
-    },
-    {
-      "story_id": "705afb45-1cde-5009-a8c4-cd8ba079dc21",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-15%2Fiurgbx1h%2FScreenshot-1.png?rect=0%2C93%2C541%2C284&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-16T01:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.1713,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/education/q0p00wc9t1",
-          "title": "রোহিঙ্গা আশ্রয়শিবিরের চৌহদ্দিতে স্বপ্নের পাঠশালা",
-          "snippet": "রোহিঙ্গা আশ্রয়শিবিরের চৌহদ্দিতে স্বপ্নের পাঠশালা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রোহিঙ্গা শিবিরে শিশুরা শিখছে নিজস্ব ভাষা ও সংস্কৃতি",
-        "title_en": "Children in Rohingya camps are learning their own language and culture",
-        "summary_bn": "উখিয়ার রোহিঙ্গা শরণার্থীশিবিরের একটি ছোট্ট পাঠশালায় শিশুরা পড়াশোনার পাশাপাশি নিজেদের ভাষা, গান ও সংস্কৃতি শিখছে।",
-        "summary_en": "Children at a small school in a Rohingya refugee camp in Ukhiya are learning their language, songs, and culture alongside studies.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-16T01:00:00+00:00",
-        "lead_bn": "উখিয়ার রোহিঙ্গা শরণার্থীশিবিরের একটি ছোট্ট পাঠশালায় শিশুরা পড়াশোনার পাশাপাশি নিজেদের ভাষা, গান ও সংস্কৃতি শিখছে।",
-        "lead_en": "Children at a small school in a Rohingya refugee camp in Ukhiya are learning their language, songs, and culture alongside studies.",
-        "bullets_bn": [
-          "বেসরকারি সংস্থা হিউম্যান কনসার্নের অর্থসহায়তায় পাঠশালাটি গড়ে তুলেছেন স্থানীয় রোহিঙ্গারা।",
-          "মিয়ানমারের জাতীয় পাঠ্যক্রম অনুযায়ী পড়ানোর ব্যবস্থা থাকলেও অর্থসংকটে ইউনিসেফের কার্যক্রম বাধাগ্রস্ত হচ্ছে।",
-          "মাতৃভাষা বর্মি না হওয়ায় এবং বর্মি ও ইংরেজিতে পাঠ বুঝতে না পেরে অনেক শিশু পড়াশোনায় পিছিয়ে পড়ছে।"
-        ],
-        "bullets_en": [
-          "Local Rohingya built the school with financial support from the private organization Human Concern.",
-          "Although teaching follows Myanmar's national curriculum, UNICEF activities are hampered due to fund shortages.",
-          "Many children fall behind in studies as Burmese is not their mother tongue and they struggle to understand lessons in Burmese and English."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "২০১৭ সালে রাখাইন রাজ্য থেকে প্রাণ বাঁচিয়ে বাংলাদেশে আশ্রয় নেওয়া লাখো রোহিঙ্গার জীবন শরণার্থীশিবিরে আটকে আছে। এথনোলগের হিসাব অনুযায়ী মিয়ানমারে শতাধিক জীবিত ভাষা রয়েছে যার একটি রোহিঙ্গা জুবান। ২০২২ সালের একটি গবেষণায় দেখা যায়, ভাষা ও প্রশিক্ষণের ঘাটতি এবং আনুষ্ঠানিক স্বীকৃতি না থাকায় রোহিঙ্গা শিশুরা পড়াশোনায় পিছিয়ে পড়ে।",
-        "details_en": "Millions of Rohingya who fled Rakhine state in 2017 are confined to refugee camps in Bangladesh. According to Ethnologue, Myanmar has over a living languages including Rohingya Zuban. A 2022 study showed that Rohingya children fall behind in studies due to language barriers, lack of teacher training, and absence of formal recognition.",
-        "hook_bn": "শরণার্থীশিবিরের পাঠশালায় শিশুরা শিখছে নিজেদের ভাষা ও সংস্কৃতি।",
-        "question_bn": "রোহিঙ্গা শিশুদের মাতৃভাষায় শিক্ষার সুযোগ বাড়াতে আর কী করা যেতে পারে বলে আপনি মনে করেন?"
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-16T02:02:11.530946+00:00"
-      }
-    },
-    {
-      "story_id": "9be329f3-581f-5445-aae7-b822ab18dba6",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#SheikhHasina",
-        "#InternationalCrimesTribunal",
-        "#MohammadAminulIslam",
-        "#BangladeshIndia"
-      ],
-      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_4145606a304fd9867bff2ea9597272bb.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-16T02:00:58.375865+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.5756,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/chief-prosecutor-rules-out-retrial-in-hasina-crimes-against-humanity-case",
-          "title": "No legal route to retry Hasina: Chief Prosecutor",
-          "snippet": "No legal route to retry Hasina: Chief Prosecutor"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "শেখ হাসিনাকে পুনরায় বিচার করার কোনো আইনি সুযোগ নেই বলে জানিয়েছেন প্রধান প্রসিকিউটর।",
-        "title_en": "Chief Prosecutor says there is no legal route to retry Sheikh Hasina.",
-        "summary_bn": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনালের প্রধান প্রসিকিউটর মোহাম্মদ আমিনুল ইসলাম সাবেক প্রধানমন্ত্রী শেখ হাসিনার একটি পুনর্বিচারের দাবি প্রত্যাখ্যান করে জানিয়েছেন যে তার পুনর্বিচারের কোনো আইনি সুযোগ নেই।",
-        "summary_en": "International Crimes Tribunal Chief Prosecutor Mohammad Aminul Islam has rejected calls to reopen the case, stating a retrial for former prime minister Sheikh Hasina is legally off the table.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-16T02:00:58.375865+00:00",
-        "lead_bn": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনালের প্রধান প্রসিকিউটর মোহাম্মদ আমিনুল ইসলাম সাবেক প্রধানমন্ত্রী শেখ হাসিনার একটি পুনর্বিচারের দাবি প্রত্যাখ্যান করে জানিয়েছেন যে তার পুনর্বিচারের কোনো আইনি সুযোগ নেই।",
-        "lead_en": "International Crimes Tribunal Chief Prosecutor Mohammad Aminul Islam has rejected calls to reopen the case, stating a retrial for former prime minister Sheikh Hasina is legally off the table.",
-        "bullets_bn": [
-          "মোহাম্মদ আমিনুল ইসলাম জানিয়েছেন, আইন অনুযায়ী আপিলের অধিকার ও পদ্ধতি স্পষ্টভাবে নির্ধারিত রয়েছে এবং সরকার বা ট্রাইব্যুনাল ইচ্ছামতো আপিল মঞ্জুর করতে পারে না।",
-          "ভারত শেখ হাসিনাকে ফিরিয়ে দেওয়ার শর্ত হিসেবে পুনর্বিচার বা আপিলের সুযোগ চেয়েছে বলে বিবিসি বাংলার প্রতিবেদনে জানানো হয়েছে।",
-          "ভারতের এই পরামর্শকে অবাস্তব ও অযৌক্তিক বলে উড়িয়ে দিয়ে প্রধান প্রসিকিউটর প্রশ্ন তুলেছেন কেন ভারতকে নির্দিষ্ট সময়ের মধ্যে হাসিনাকে বিচার বা আপিল করার পরামর্শ দেওয়া হয়নি।"
-        ],
-        "bullets_en": [
-          "Mohammad Aminul Islam said the law clearly sets out appeal rights and procedures, and neither the government nor the tribunal can grant an appeal at will.",
-          "A BBC Bangla report stated that India had set conditions for sending Hasina back, including assurance of a retrial or an appeal.",
-          "Dismissing the suggestion as absurd, the Chief Prosecutor questioned why India had not advised Hasina to face trial or appeal within the stipulated period."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "জুলাই ২০২৪ সালের গণঅভ্যুত্থানের পর থেকে শেখ হাসিনা ভারতে অবস্থান করছেন। বাংলাদেশ প্রত্যর্পণ চুক্তির আওতায় তাকে ফিরিয়ে দেওয়ার জন্য নতুন দিল্লিকে অনুরোধ জানিয়েছে। বারো নভেম্বর প্রকাশিত বিবিসি বাংলার প্রতিবেদনে বলা হয়, হাসিনাকে ফিরিয়ে দেওয়ার বিষয়ে ভারত দুটি শর্ত দিয়েছে, যার একটি হলো তাকে মৃত্যুদণ্ডের বিরুদ্ধে পুনর্বিচার বা আপিলের সুযোগ দেওয়া হবে এমন নিশ্চয়তা। এই প্রতিবেদনটি ভারতের টেলিগ্রাফ অনলাইনেই প্রকাশিত হয়, যার পরিপ্রেক্ষিতে সাংবাদিকরা পুনর্বিচার বিষয়ে প্রধান প্রসিকিউটরের কাছে জানতে চান।",
-        "details_en": "Hasina has been in India since being ousted in the July 2024 Uprising, and Bangladesh has asked New Delhi to return her under the extradition treaty. A BBC Bangla report on Nov 12 said India had set two conditions for sending Hasina back, including an assurance of a retrial or an appeal against her death sentence. India’s Telegraph Online reported this prompting reporters to ask Aminul about a retrial.",
-        "hook_bn": "শেখ হাসিনার পুনর্বিচারের কোনো আইনি সুযোগ নেই বলে জানিয়েছে ট্রাইব্যুনাল।",
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-16T02:02:11.530946+00:00"
-      }
-    },
-    {
-      "story_id": "1d4b7b23-aaae-5d83-94af-3ce41296365e",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#KhandakerAbdulMuktadir",
-        "#BangladeshCompetitionCommission",
-        "#CommerceMinistry"
-      ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/181683/new-project-2026-06-23t195530236.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-16T02:00:58.375865+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.5756,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/govt-steps-up-drive-to-break-market-syndicates-commerce-minister-tells-js",
-          "title": "Govt steps up drive to break market syndicates, commerce minister tells JS",
-          "snippet": "Govt steps up drive to break market syndicates, commerce minister tells JS"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সিন্ডিকেট ভাঙতে প্রতিযোগিতা আইনে ৬৭টি মামলা করেছে সরকার",
-        "title_en": "Govt files 67 cases under Competition Act to break syndicates",
-        "summary_bn": "দ্রব্যমূল্যের অস্বাভাবিক বৃদ্ধি রোধ ও বাজার সিন্ডিকেট ভাঙতে প্রতিযোগিতা আইনে ৬৭টি মামলা করা হয়েছে বলে সংসদে জানিয়েছেন বাণিজ্যমন্ত্রী খন্দকার আবদুল মুক্তাদির।",
-        "summary_en": "The government has filed 67 cases under the Competition Act to prevent abnormal price increases and break market syndicates, the commerce minister told parliament.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-16T02:00:58.375865+00:00",
-        "lead_bn": "দ্রব্যমূল্যের অস্বাভাবিক বৃদ্ধি রোধ ও বাজার সিন্ডিকেট ভাঙতে প্রতিযোগিতা আইনে ৬৭টি মামলা করা হয়েছে বলে সংসদে জানিয়েছেন বাণিজ্যমন্ত্রী খন্দকার আবদুল মুক্তাদির।",
-        "lead_en": "The government has filed 67 cases under the Competition Act to prevent abnormal price increases and break market syndicates, the commerce minister told parliament.",
-        "bullets_bn": [
-          "সংসদে এক প্রশ্নের লিখিত জবাবে বাণিজ্যমন্ত্রী জানান, বাজার সিন্ডিকেট নির্মূল ও মূল্য নিয়ন্ত্রণে সরকার প্রতিশ্রুতিবদ্ধ।",
-          "ফেব্রুয়ারি ১৭ থেকে অক্টোবর ৩১, ২০২৬ পর্যন্ত মোট ১০,১৪৪টি অভিযান চালিয়ে ১৬,৫২৯টি প্রতিষ্ঠানকে ১৫ কোটি ১২ লাখ টাকা জরিমানা করা হয়েছে।",
-          "বাংলাদেশ প্রতিযোগিতা কমিশনের করা ৬৭টি মামলার মধ্যে ২১টি চাল, ১০টি ভোজ্যতেল এবং ১৮টি ডিমের বাজার সংক্রান্ত।"
-        ],
-        "bullets_en": [
-          "The commerce minister told parliament in a written reply that the government is committed to eliminating syndicates and controlling inflation.",
-          "A total of 10,144 drives resulted in fines totalling Tk 151.25 million against 16,529 businesses between February 17 and October 31, 2026.",
-          "The 67 cases filed by the Bangladesh Competition Commission include 21 involving rice, 10 involving edible oil and 18 involving eggs."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সংসদের প্রশ্নোত্তরে বাণিজ্যমন্ত্রী জানান, বাজার সিন্ডিকেট ও প্রতিযোগিতাবিরোধী কার্যক্রম মোকাবেলায় প্রতিযোগিতা কমিশন এসব মামলা করে। এর মধ্যে চাল, ভোজ্যতেল, ডিম ও মুরগির সঙ্গে জড়িত আটটি মামলায় ইতোমধ্যে আর্থিক জরিমানা করা হয়েছে। এছাড়া নিত্যপ্রয়োজনীয় পণ্যের দাম নিয়ন্ত্রণে বাণিজ্য মন্ত্রণালয়, জাতীয় ভোক্তা অধিকার সংরক্ষণ অধিদপ্তর এবং জেলা টাস্কফোর্স নিয়মিত বাজার তদারকি ও অভিযান পরিচালনা করছে।",
-        "details_en": "In his parliamentary reply, the commerce minister said the Competition Commission filed these cases to tackle market syndicates and anti-competitive practices. Financial penalties have already been imposed in eight of these cases involving rice, edible oil, eggs and chicken. To control commodity prices, the Ministry of Commerce, the Directorate of National Consumer Rights Protection and district task forces are conducting regular market inspections.",
-        "hook_bn": "বাজার সিন্ডিকেট রোধে প্রতিযোগিতা আইনে ৬৭টি মামলা করেছে সরকার।",
-        "question_bn": "নিত্যপণ্যের বাজার সিন্ডিকেট ভাঙতে সরকারের এসব অভিযান ও জরিমানা কতটা কার্যকর ভূমিকা রাখছে বলে আপনি মনে করেন?"
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-16T02:02:11.530946+00:00"
-      }
-    },
-    {
-      "story_id": "54cc1948-5fed-5af0-9047-01292e28a278",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "tech_innovation"
-      ],
-      "region": "international",
-      "tags": [
-        "#China",
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-16T01:47:57+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.25,
-      "rank_score": 1.7826,
-      "sources": [
-        {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-          "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-          "snippet": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says"
-        },
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/china-confirms-first-xi-trump-putin-summit-on-november-19/article71706625.ece",
-          "title": "China confirms first Xi-Trump-Putin summit on November 19",
-          "snippet": "China confirms first Xi-Trump-Putin summit on November 19"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "চিন প্রথম শি-ট্রাম্প-পুতিন শীর্ষ সম্মেলনের তারিখ নিশ্চিত করেছে",
-        "title_en": "China confirms first Xi-Trump-Putin summit",
-        "summary_bn": "চিনের পররাষ্ট্র মন্ত্রক আগামী ১৯ নভেম্বর প্রথম শি-ট্রাম্প-পুতিন শীর্ষ সম্মেলনের কথা নিশ্চিত করেছে।",
-        "summary_en": "The Chinese Foreign Ministry confirmed the first Xi-Trump-Putin summit for November 19.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-16T01:47:57+00:00",
-        "lead_bn": "চিনের পররাষ্ট্র মন্ত্রক আগামী ১৯ নভেম্বর প্রথম শি-ট্রাম্প-পুতিন শীর্ষ সম্মেলনের কথা নিশ্চিত করেছে।",
-        "lead_en": "The Chinese Foreign Ministry confirmed the first Xi-Trump-Putin summit for November 19.",
-        "bullets_bn": [
-          "আলিস হুয়াং গত বছরের অগস্টে মেগাস্পিডের নির্বাহী পদ ছেড়েছেন বলে কোম্পানিটি জানিয়েছে।",
-          "জেনসেন হুয়াং এনভিডিয়ার প্রধান নির্বাহী পদ থেকে পদত্যাগ করেছেন।",
-          "সি৪এডস জানিয়েছে যে আলিস হুয়াং এখনও ফার্মটির কার্যক্রমে ব্যাপকভাবে জড়িত রয়েছেন।"
-        ],
-        "bullets_en": [
-          "Alice Huang left her executive role at Megaspeed in August last year, the company says.",
-          "Jensen Huang resigned as chief executive of Nvidia.",
-          "C4ADS said that Huang was still practically in control of Megaspeed."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "জেনসেন হুয়াংয়ের সাথে আলিস হুয়াং এবং একজন কর্মীর পরকীয়া সম্পর্কের খবর প্রকাশের পর এনভিডিয়ার প্রধান নির্বাহী পদ থেকে পদত্যাগ করেন জেনসেন হুয়াং। মেগাস্পিড দক্ষিণ-পূর্ব এশিয়ায় এনভিডিয়ার সবচেয়ে বড় চিপ ক্রেতা এবং এই কেলেঙ্কারির ফলে উচ্চপ্রযুক্তির এআই চিপ মার্কিন রপ্তানি নিষেধাজ্ঞা লঙ্ঘন করে চিনে পৌঁছেছে কি না সেই প্রশ্ন উঠেছে। সিঙ্গাপুরভিত্তিক কোম্পানিটি তাদের ব্যবসা নিয়ে একটি অভ্যন্তরীণ তদন্ত শুরু করার কথা জানিয়েছে।",
-        "details_en": "Jensen Huang resigned as chief executive of Nvidia after it emerged he had allegedly had affairs with Alice Huang as well as with one of his employees. Megaspeed is the biggest buyer of Nvidia chips in South East Asia and the scandal has raised questions about AI chips ending up in China. The Singapore-based company said it launched an internal investigation into its business.",
-        "hook_bn": "আগামী ১৯ নভেম্বর প্রথম শি-ট্রাম্প-পুতিন শীর্ষ সম্মেলন অনুষ্ঠিত হবে।",
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-16T02:02:11.530946+00:00"
-      }
-    },
-    {
-      "story_id": "145b6a90-5b6f-5c16-966b-8716ea2b92cf",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
         "climate_environment",
         "world_diplomacy"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#JapanEconomy",
-        "#BankOfJapan",
-        "#Nikkei"
+        "#Climate",
+        "#Environment"
       ],
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108551661-1794785886757-gettyimages-2288262163-Stanislav-Kogiku-1440900.jpeg?v=1794787901&w=1920&h=1080",
+      "image_url": "https://images.unsplash.com/photo-1653932133705-851f4547eb2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZHVzdCUyMGJsYW5rZXRzJTIwZGhha2ElMjBjaXR5JTIwZW52aXJvbm1lbnR8ZW58MXwwfHx8MTc5NDc5ODEwM3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-16T01:02:48+00:00",
+      "published_at": "2026-11-16T02:42:24+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.2731,
+      "importance_score": 7.0,
+      "rank_score": 4.8109,
       "sources": [
         {
-          "name": "CNBC Global Economy",
-          "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
-          "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
-          "snippet": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821216/%E0%A6%B6%E0%A7%80%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%87%E0%A6%87-%E0%A6%A7%E0%A7%81%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%A7%E0%A7%82%E0%A6%B8%E0%A6%B0-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AD%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%97%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%80",
+          "title": "শীতের আগেই ধুলায় ধূসর ঢাকা, ভোগান্তিতে নগরবাসী",
+          "snippet": "শীতের আগেই ধুলায় ধূসর ঢাকা, ভোগান্তিতে নগরবাসী"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/weather/981180/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B8-%E0%A6%86%E0%A6%9C-%E2%80%98%E0%A6%96%E0%A7%81%E0%A6%AC%E0%A6%87-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A6%B0%E2%80%99-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A7%80",
+          "title": "ঢাকার বাতাস আজ ‘খুবই অস্বাস্থ্যকর’, বিশ্বব্যাপী তালিকায় অবস্থান তৃতীয়",
+          "snippet": "ঢাকার বাতাস আজ ‘খুবই অস্বাস্থ্যকর’, বিশ্বব্যাপী তালিকায় অবস্থান তৃতীয়"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জাপানের অর্থনীতি তৃতীয় প্রান্তিকে অপ্রত্যাশিতভাবে সংকুচিত হয়েছে।",
-        "title_en": "Japan economy unexpectedly contracts in third quarter.",
-        "summary_bn": "জাপানের অর্থনীতি তৃতীয় প্রান্তিকে বার্ষিকীকৃত ০.১ শতাংশ সংকুচিত হয়েছে বলে জানা গেছে।",
-        "summary_en": "Japan's economy unexpectedly contracted in the third quarter, shrinking at an annualized 0.1%.",
+        "title_bn": "শীতের আগে ধুলায় ঢাকা পড়েছে রাজধানী ঢাকা",
+        "title_en": "Dust blankets Dhaka city ahead of the winter season",
+        "summary_bn": "শীতের আগমনী বার্তায় রাজধানী ঢাকা ধুলার চাদরে আবৃত হয়েছে এবং আইকিউএয়ারের সূচকে বাতাস খুবই অস্বাস্থ্যকর অবস্থায় রয়েছে।",
+        "summary_en": "Capital Dhaka is covered in dust ahead of winter and its air ranks very unhealthy on IQAir index.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
           "climate_environment",
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-16T01:02:48+00:00",
-        "lead_bn": "জাপানের অর্থনীতি তৃতীয় প্রান্তিকে বার্ষিকীকৃত ০.১ শতাংশ সংকুচিত হয়েছে বলে জানা গেছে।",
-        "lead_en": "Japan's economy unexpectedly contracted in the third quarter, shrinking at an annualized 0.1%.",
+        "published_at": "2026-11-16T02:42:24+00:00",
+        "lead_bn": "শীতের আগমনী বার্তায় রাজধানী ঢাকা ধুলার চাদরে আবৃত হয়েছে এবং আইকিউএয়ারের সূচকে বাতাস খুবই অস্বাস্থ্যকর অবস্থায় রয়েছে।",
+        "lead_en": "Capital Dhaka is covered in dust ahead of winter and its air ranks very unhealthy on IQAir index.",
         "bullets_bn": [
-          "অর্থনীতিবিদদের রয়টার্স পোল অনুযায়ী ০.৩ শতাংশ প্রবৃদ্ধির অনুমান করা হয়েছিল।",
-          "উচ্চ জ্বালানি আমদানির ব্যয়ের কারণে নেট রপ্তানি অর্থনীতিতে প্রভাব ফেলেছে।",
-          "তথ্য প্রকাশের পর নিকেই ২২৫ সূচক ০.৬২ শতাংশ হ্রাস পেয়েছে।"
+          "আন্তর্জাতিক বায়ুমান পর্যবেক্ষণকারী প্রতিষ্ঠান আইকিউএয়ারের লাইভ সূচক অনুযায়ী ঢাকা বায়ুদূষণের তালিকায় তৃতীয় স্থানে রয়েছে।",
+          "আইকিউএয়ারের সূচকে ঢাকার স্কোর রয়েছে ২২৩ এবং বাতাসের এই মানকে খুবই অস্বাস্থ্যকর হিসেবে বিবেচনা করা হয়।",
+          "রাস্তাঘাটের অনিয়ন্ত্রিত খোঁড়াখুঁড়ি এবং সিটি করপোরেশনের কাজ ফেলে রাখাকে ভোগান্তির বড় কারণ হিসেবে জানানো হয়েছে।"
         ],
         "bullets_en": [
-          "A Reuters poll of economists had estimated the economy to grow at 0.3%.",
-          "Net exports weighed on the economy due to higher costs of energy imports.",
-          "Following the data release, the Nikkei 225 fell 0.62%."
+          "Dhaka ranked third on the global air pollution list according to the live index of IQAir.",
+          "Dhaka scored 223 on the IQAir index, which is considered very unhealthy air quality.",
+          "Uncontrolled road digging and unfinished city corporation work are reported as major causes of suffering."
+        ],
+        "impact_bn": "অসহনীয় বায়ুদূষণের ফলে রাজধানীবাসীর নানা শারীরিক সমস্যা হচ্ছে এবং রাস্তায় চলাচলে ভোগান্তি পোহাতে হচ্ছে।",
+        "impact_en": "Intolerable air pollution causes various physical problems and commuting difficulties for the residents of the capital.",
+        "details_bn": "শীতের আগমনী বার্তায় রাজধানী ঢাকায় রাস্তায় নামলেই চোখ জ্বালা করে এবং শ্বাস নিতে কষ্ট হয়। অনিয়ন্ত্রিত রাস্তাঘাটের খোঁড়াখুঁড়ি ও সিটি করপোরেশনের অর্ধেক কাজ ফেলে রাখার কারণে গাড়ি গেলেই বাতাসে বালু ও ধুলা উড়ছে। অথচ বাতাসে পর্যাপ্ত পানি ছিটানোর কোনো পরিকল্পনা নেই। এদিকে আইকিউএয়ারের লাইভ সূচক অনুযায়ী ঢাকার বায়ুর মান খুবই অস্বাস্থ্যকর অবস্থায় রয়েছে।",
+        "details_en": "With the arrival of winter, stepping onto Dhaka's streets causes eye irritation and breathing difficulties. Due to uncontrolled road excavation and unfinished city corporation work, dust blows into the air whenever vehicles pass, while there is no plan to sprinkle adequate water. Meanwhile, according to IQAir's live index, Dhaka's air quality remains in a very unhealthy state.",
+        "hook_bn": "ঢাকার বায়ু খুবই অস্বাস্থ্যকর অবস্থায় রয়েছে",
+        "question_bn": "বায়ুদূষণ রোধে রাজধানীর রাস্তাঘাটের খোঁড়াখুঁড়ি নিয়ন্ত্রণে কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-16T03:02:04.608501+00:00"
+      }
+    },
+    {
+      "story_id": "756d362e-db25-5de0-a56c-17318c47777b",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#BangladeshBank",
+        "#Remittance",
+        "#ForeignExchange"
+      ],
+      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_2544a702351af0c668ec35bcdded4737.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-16T03:01:06.872974+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5988,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/bb-advises-banks-not-to-be-aggressive-in-remittance-buying",
+          "title": "BB advises banks not to be aggressive in remittance buying",
+          "snippet": "BB advises banks not to be aggressive in remittance buying"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রেমিট্যান্স কেনায় আগ্রাসী না হতে ব্যাংকগুলোকে বাংলাদেশ ব্যাংকের পরামর্শ",
+        "title_en": "Bangladesh Bank advises commercial banks not to be aggressive in remittance buying",
+        "summary_bn": "বৈদেশিক মুদ্রা বাজারের অস্থিরতা রোধে রেমিট্যান্স সংগ্রহে মরিয়া না হতে ব্যাংকগুলোকে পরামর্শ দিয়েছে বাংলাদেশ ব্যাংক।",
+        "summary_en": "The Bangladesh Bank advised commercial banks not to be desperate in buying remittances to preempt exchange-rate volatility.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-16T03:01:06.872974+00:00",
+        "lead_bn": "বৈদেশিক মুদ্রা বাজারের অস্থিরতা রোধে রেমিট্যান্স সংগ্রহে মরিয়া না হতে ব্যাংকগুলোকে পরামর্শ দিয়েছে বাংলাদেশ ব্যাংক।",
+        "lead_en": "The Bangladesh Bank advised commercial banks not to be desperate in buying remittances to preempt exchange-rate volatility.",
+        "bullets_bn": [
+          "বাংলাদেশ ব্যাংকের সদর দপ্তরে বাণিজ্যিক ব্যাংকগুলোর ট্রেজারি প্রধানদের সঙ্গে এই বৈঠক অনুষ্ঠিত হয়।",
+          "বৈঠকে সভাপতিত্ব করেন বাংলাদেশ ব্যাংকের ডেপুটি গভর্নর মো. সারওয়ার হোসেন।",
+          "বিদেশি মুদ্রা বিক্রির মাধ্যমে বাণিজ্যিক ব্যাংকগুলোকে সহায়তার আশ্বাস দিয়েছে কেন্দ্রীয় ব্যাংক।"
+        ],
+        "bullets_en": [
+          "The meeting took place at the Bangladesh Bank headquarters with treasury heads of commercial banks.",
+          "Bangladesh Bank deputy governor Md. Sarwar Hossain chaired the meeting.",
+          "The central bank assured support to commercial banks by selling foreign currencies if they face pressure."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "পূর্ববর্তী প্রান্তিকে জিডিপি ১.৪ শতাংশ বৃদ্ধি পেয়েছিল এবং অর্থনীতি ইতিপূর্বে দুই মাসের রপ্তানি প্রত্যাশা অতিক্রম করেছিল। এলএসইজির তথ্য অনুযায়ী ডিসেম্বরে সুদের হার বৃদ্ধির সম্ভাবনা রয়েছে।",
-        "details_en": "GDP had expanded at 1.4% in the previous quarter, and exports beat expectations for two of the three months. LSEG reported a 75.6% chance of the Bank of Japan raising rates by 25 basis points in December.",
-        "hook_bn": "জাপানের অর্থনীতি তৃতীয় প্রান্তিকে অপ্রত্যাশিতভাবে সংকুচিত হয়েছে।",
-        "question_bn": "জাপানের অর্থনৈতিক সংকটের প্রভাব বিশ্ব বাজারে কেমন পড়তে পারে বলে আপনি মনে করেন?"
+        "details_bn": "সাম্প্রতিক দিনে বিনিময় হারের হঠাৎ উল্লম্ফনের প্রেক্ষাপটে বৈদেশিক মুদ্রা বাজারের বর্তমান পরিস্থিতি জানতে এই বৈঠকের আয়োজন করে নিয়ন্ত্রক সংস্থা। অংশগ্রহণকারী ট্রেজারি প্রধানদের মতে, পেমেন্টের চাপ না থাকা সত্ত্বেও কিছু ব্যাংক আগ্রাসীভাবে রেমিট্যান্স সংগ্রহ করে, যা বাজারে অস্থিরতা সৃষ্টিতে ভূমিকা রাখে। চলতি অর্থবছরে বৈদেশিক মুদ্রা বাজার হস্তক্ষেপে ব্যাংকিং খাতের এই নিয়ন্ত্রক সংস্থা এ পর্যন্ত ৪৫ কোটি ডলারের বেশি বিক্রি করেছে।",
+        "details_en": "The regulator arranged the meeting to know current situations of the forex market amid sudden spikes in exchange rate in recent days. According to participating treasury heads, some banks go for aggressively sourcing remittance without payment pressure, creating market volatility. As part of forex-market intervention, the banking regulator has sold more than $450 million in the current fiscal year.",
+        "hook_bn": "রেমিট্যান্স কেনায় আগ্রাসী না হতে ব্যাংকগুলোকে পরামর্শ দিয়েছে বাংলাদেশ ব্যাংক।",
+        "question_bn": "রেমিট্যান্স প্রবাহ ও ডলারের বাজার নিয়ে আপনার অভিজ্ঞতা কেমন?"
       },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-16T02:02:11.530946+00:00"
+        "checked_at": "2026-11-16T03:02:04.608501+00:00"
+      }
+    },
+    {
+      "story_id": "791f3111-99c7-5c50-b4ce-e56f917e4c7a",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1614610741181-2bce5e06976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Y2FzZSUyMGZpbGVkJTIwYWdhaW5zdCUyMGF3YW1pJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk0Nzk4MTEyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-16T02:56:41+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5835,
+      "sources": [
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821218/%E0%A6%B6%E0%A7%87%E0%A6%B0%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%B6%E0%A6%95%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF%E0%A6%B8%E0%A6%B9-%E0%A6%86.%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0",
+          "title": "বগুড়ার শেরপুরে নাশকতার মামলায় আসামি সাবেক দুই এমপিসহ আওয়ামী লীগের ৩০০ নেতাকর্মী",
+          "snippet": "বগুড়ার শেরপুরে নাশকতার মামলায় আসামি সাবেক দুই এমপিসহ আওয়ামী লীগের ৩০০ নেতাকর্মী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বগুড়ার শেরপুরে সাবেক দুই এমপিসহ আওয়ামী লীগের ৩০০ নেতাকর্মীর বিরুদ্ধে মামলা",
+        "title_en": "Case filed against 300 Awami League leaders including two former MPs in Bogura",
+        "summary_bn": "বগুড়ার শেরপুরে ককটেল বিস্ফোরণ ও নাশকতার অভিযোগে সাবেক দুই সংসদ সদস্যসহ আওয়ামী লীগের প্রায় ৩০০ নেতাকর্মীর বিরুদ্ধে মামলা দায়ের করা হয়েছে।",
+        "summary_en": "A case has been filed against nearly 300 Awami League leaders including two former MPs over cocktail explosions and sabotage in Bogura.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-16T02:56:41+00:00",
+        "lead_bn": "বগুড়ার শেরপুরে ককটেল বিস্ফোরণ ও নাশকতার অভিযোগে সাবেক দুই সংসদ সদস্যসহ আওয়ামী লীগের প্রায় ৩০০ নেতাকর্মীর বিরুদ্ধে মামলা দায়ের করা হয়েছে।",
+        "lead_en": "A case has been filed against nearly 300 Awami League leaders including two former MPs over cocktail explosions and sabotage in Bogura.",
+        "bullets_bn": [
+          "ঢাকা-বগুড়া মহাসড়কে ককটেল বিস্ফোরণ, চলন্ত ভ্যানে অগ্নিসংযোগ ও জনমনে আতঙ্ক সৃষ্টির অভিযোগে মামলাটি দায়ের করা হয়েছে।",
+          "মামলায় বগুড়া জেলা আওয়ামী লীগের সভাপতি ও সাবেক সংসদ সদস্য মজিবর রহমান মজনু এবং সাবেক সংসদ সদস্য মো. হাবিবুর রহমানসহ স্থানীয় নেতারা আসামি।",
+          "উপজেলার গাড়ীদহ ইউনিয়নের ঘটনায় আওয়ামী লীগ ও এর সহযোগী সংগঠনের নেতাকর্মীদের আসামি করা হয়েছে।"
+        ],
+        "bullets_en": [
+          "The case was filed over cocktail explosions, setting fire to a moving van, and creating panic on the Dhaka-Bogura highway.",
+          "The accused include Bogura district Awami League president and former MP Mujibur Rahman Majnu and former MP Md Habibur Rahman.",
+          "Leaders and activists of the Awami League and its affiliate organizations from Garidah union of the upazila were accused."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বগুড়ার শেরপুরে ঢাকা-বগুড়া মহাসড়কে ককটেল বিস্ফোরণ, চলন্ত ভ্যানে অগ্নিসংযোগ ও জনমনে আতঙ্ক সৃষ্টির অভিযোগে আওয়ামী লীগ ও এর সহযোগী সংগঠনের প্রায় ৩০০ নেতাকর্মীর বিরুদ্ধে মামলা দায়ের করা হয়। মামলায় বগুড়া জেলা আওয়ামী লীগের সভাপতি ও সাবেক সংসদ সদস্য মজিবর রহমান মজনু এবং সাবেক সংসদ সদস্য মো. হাবিবুর রহমানসহ স্থানীয় পর্যায়ের শীর্ষ নেতাদের আসামি করা হয়েছে। ঘটনাটি উপজেলার গাড়ীদহ ইউনিয়নের।",
+        "details_en": "A case was filed against nearly 300 leaders and activists of the Awami League and its affiliate organizations for allegedly exploding cocktails, setting fire to a moving van, and creating panic on the Dhaka-Bogura highway in Sherpur, Bogura. The accused include Bogura district Awami League president and former MP Mujibur Rahman Majnu, former MP Md Habibur Rahman, and other local top leaders. The incident took place in Garidah union of the upazila.",
+        "hook_bn": "বগুড়ার শেরপুরে ককটেল বিস্ফোরণ ও নাশকতার অভিযোগে প্রায় ৩০০ নেতাকর্মীর বিরুদ্ধে মামলা।",
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-16T03:02:04.608501+00:00"
+      }
+    },
+    {
+      "story_id": "e4e86d26-5eb7-539c-866d-3ad8dae92b2e",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1601897690942-bcacbad33e55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z2FybWVudCUyMGV4cG9ydHMlMjBpbmNyZWFzZSUyMG5vbiUyMGJ1c2luZXNzfGVufDF8MHx8fDE3OTQ3OTgxMTR8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-16T02:52:17+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5683,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/economy/news/1179918",
+          "title": "অপ্রচলিত বাজারে বেড়েছে তৈরি পোশাক রপ্তানি, দ্বিগুণ হয়েছে তুরস্কে",
+          "snippet": "অপ্রচলিত বাজারে বেড়েছে তৈরি পোশাক রপ্তানি, দ্বিগুণ হয়েছে তুরস্কে"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "অপ্রচলিত বাজারে বেড়েছে তৈরি পোশাক রপ্তানি এবং তুরস্কে দ্বিগুণ হয়েছে।",
+        "title_en": "Garment exports increase in non-traditional markets and double in Turkey.",
+        "summary_bn": "চলতি অর্থবছরের প্রথম চার মাসে দেশের তৈরি পোশাক রপ্তানি ৫ দশমিক ৮২ শতাংশ বৃদ্ধি পেয়েছে।",
+        "summary_en": "Bangladesh garment exports increased by 5.82 percent in the first four months of the current fiscal year.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-16T02:52:17+00:00",
+        "lead_bn": "চলতি অর্থবছরের প্রথম চার মাসে দেশের তৈরি পোশাক রপ্তানি ৫ দশমিক ৮২ শতাংশ বৃদ্ধি পেয়েছে।",
+        "lead_en": "Bangladesh garment exports increased by 5.82 percent in the first four months of the current fiscal year.",
+        "bullets_bn": [
+          "একই সঙ্গে নতুন ও অপ্রচলিত বাজারে বাংলাদেশের তৈরি পোশাক রপ্তানি বৃদ্ধি পেয়েছে।",
+          "তুরস্কে বাংলাদেশের তৈরি পোশাক রপ্তানি দ্বিগুণ হয়েছে।",
+          "চলতি অর্থবছরের প্রথম চার মাসে এই রপ্তানি বৃদ্ধির তথ্য জানা গেছে।"
+        ],
+        "bullets_en": [
+          "At the same time, Bangladesh garment exports increased in new and non-traditional markets.",
+          "Bangladesh garment exports to Turkey have doubled.",
+          "This growth in exports was recorded in the first four months of the current fiscal year."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "তুরস্কে দ্বিগুণ হয়েছে বাংলাদেশের তৈরি পোশাক রপ্তানি।",
+        "question_bn": "অপ্রচলিত বাজারে পোশাক রপ্তানি বাড়াতে আর কী করা যেতে পারে বলে আপনার মনে হয়?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-16T03:02:04.608501+00:00"
+      }
+    },
+    {
+      "story_id": "08f31903-8b3b-5f4d-9263-936292babeca",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#Yemen",
+        "#BabElMandeb",
+        "#Houthis",
+        "#Aden"
+      ],
+      "image_url": "https://th-i.thgim.com/public/incoming/pdl4ra/article71705631.ece/alternates/LANDSCAPE_1200/Djibouti_EU_Piracy_Patrol_39351.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-16T00:06:23+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.1122,
+      "sources": [
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/yemeni-government-forces-retreat-from-strait-in-major-setback-in-war-against-houthis/article71705608.ece",
+          "title": "Yemeni government forces retreat from strait in major setback in war against Houthis",
+          "snippet": "Yemeni government forces retreat from strait in major setback in war against Houthis"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/international/498235",
+          "title": "ইয়েমেনের অস্থায়ী রাজধানী এডেনের দিকে অগ্রসর হচ্ছে হুথি যোদ্ধারা",
+          "snippet": "ইয়েমেনের অস্থায়ী রাজধানী এডেনের দিকে অগ্রসর হচ্ছে হুথি যোদ্ধারা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইয়েমেনি সরকারি বাহিনী বাব আল-মান্দেব প্রণালী থেকে সরে দাঁড়াল",
+        "title_en": "Yemeni government forces retreat from Bab el-Mandeb Strait",
+        "summary_bn": "সৌদি সমর্থিত ইয়েমেনি সরকারি বাহিনী ১৫ নভেম্বর ২০২৬ তারিখে বাব আল-মান্দেব প্রণালীর নিকটবর্তী এলাকা থেকে সরে যাওয়ার ঘোষণা দিয়েছে।",
+        "summary_en": "Yemeni government forces announced on November 15, 2026, that they were withdrawing from the area near the Bab el-Mandeb Strait.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-16T00:06:23+00:00",
+        "lead_bn": "সৌদি সমর্থিত ইয়েমেনি সরকারি বাহিনী ১৫ নভেম্বর ২০২৬ তারিখে বাব আল-মান্দেব প্রণালীর নিকটবর্তী এলাকা থেকে সরে যাওয়ার ঘোষণা দিয়েছে।",
+        "lead_en": "Yemeni government forces announced on November 15, 2026, that they were withdrawing from the area near the Bab el-Mandeb Strait.",
+        "bullets_bn": [
+          "দক্ষিণ ইয়েমেনের প্রধান সামরিক বাহিনী এক বিবৃতিতে জানিয়েছে তারা ধুবাব বিমানবন্দর এবং বাব আল-মান্দেব এলাকা থেকে সেনা পুনর্বিন্যাস করেছে।",
+          "প্রধান রাজধানী এডেন রক্ষা করা এবং প্রতিবেশী গভর্নেটগুলোকে সুরক্ষিত রাখাই এই পদক্ষেপের প্রধান অগ্রাধিকার বলে জানানো হয়েছে।",
+          "এই সেনা প্রত্যাহারের ফলে এডেনের দিকে নতুন হুথি অগ্রগতির সম্ভাবনা তৈরি হয়েছে।"
+        ],
+        "bullets_en": [
+          "The main military force fighting for Yemen's government announced the implementation of a redeployment operation from Dhubab Airport and the Bab el-Mandeb area.",
+          "This step is based on the priority of securing the capital, Aden, and the neighbouring governorates, and strengthening front lines.",
+          "The announcement of a government retreat raises the prospect of new Houthi advances towards Aden."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "এই ঘোষণাটি সরকারের ছয় সপ্তাহব্যাপী সেই counteroffensive বা পাল্টা আক্রমণের আপাত সমাপ্তি নির্দেশ করে, যা গত সেপ্টেম্বরে হুথিদের দখল করা লোহিত সাগরের মুখের উপকূল পুনরুদ্ধার করতে শুরু হয়েছিল। হুথিরা ওই এলাকায় বিজয়ী হয়ে তেল রপ্তানি সীমিত করেছিল এবং তারা ইয়েমেনের রাজধানী সানা দখল করার পর থেকে সরকারপন্থী বাহিনীগুলো ২০১৫ সাল থেকে দেশের দক্ষিণ উপকূলের এডেনে অবস্থান করছে।",
+        "details_en": "The announcement signalled the apparent end of a six-week government counteroffensive to reclaim the coast near the mouth of the Red Sea, seized by the Houthis in September in a lightning advance that squeezed oil exports. Government forces have been based in Aden on the southern coast since 2015 after the Houthis seized the capital Sanaa.",
+        "hook_bn": "ইয়েমেনি সরকারি বাহিনী বাব আল-মান্দেব প্রণালীর এলাকা থেকে সরে দাঁড়িয়েছে।",
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-16T03:02:04.608501+00:00"
       }
     }
   ]
