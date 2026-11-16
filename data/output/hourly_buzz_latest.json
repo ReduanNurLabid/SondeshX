@@ -1,81 +1,229 @@
 {
-  "updated_at": "2026-11-16T20:00:40.902123",
-  "total_stories": 1,
+  "updated_at": "2026-11-16T21:00:41.070261",
+  "total_stories": 3,
   "stories": [
     {
-      "story_id": "025b1c63-54e4-5128-b581-e50c48005214",
-      "primary_category": "governance_law",
+      "story_id": "8fc4011a-2b53-582f-8cee-a5465fe506d9",
+      "primary_category": "climate_environment",
       "interest_categories": [
-        "governance_law",
-        "world_diplomacy",
-        "society_education"
+        "climate_environment",
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#DeathPenalty",
-        "#UnitedNations"
+        "#Rooppur",
+        "#KabirHossain"
       ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/images/2025/10/13/op_1_aliza_rahman_death_penalty.jpeg",
+      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_854073cf9b4bf8594ae458d1495dcb1e.jpg",
       "image_caption": null,
-      "published_at": "2026-11-16T17:55:45+00:00",
+      "published_at": "2026-11-16T21:00:55.689796+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.25,
-      "rank_score": 3.4608,
+      "rank_score": 3.9003,
       "sources": [
         {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/bangladesh/rights/news/bangladesh-abstains-un-death-penalty-moratorium-vote-4325831",
-          "title": "Bangladesh abstains on UN death penalty moratorium vote",
-          "snippet": "Bangladesh abstains on UN death penalty moratorium vote"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/rooppur-grid-power-test-may-begin-tuesday",
+          "title": "Rooppur grid power test may begin Tuesday",
+          "snippet": "Rooppur grid power test may begin Tuesday"
         },
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/bangladesh-abstains-from-un-vote-on-global-death-penalty-moratorium",
-          "title": "Bangladesh abstains from UN vote on global death penalty moratorium",
-          "snippet": "Bangladesh abstains from UN vote on global death penalty moratorium"
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/country/498469",
+          "title": "উৎপাদনে প্রস্তুত, মঙ্গলবার জাতীয় গ্রিডে যুক্ত হতে পারে রূপপুরের বিদ্যুৎ",
+          "snippet": "উৎপাদনে প্রস্তুত, মঙ্গলবার জাতীয় গ্রিডে যুক্ত হতে পারে রূপপুরের বিদ্যুৎ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মৃত্যুদণ্ডের ওপর জাতিসংঘ প্রস্তাবে ভোটদান থেকে বিরত থাকে বাংলাদেশ",
-        "title_en": "Bangladesh abstains from UN death penalty moratorium vote",
-        "summary_bn": "জুলাই গণঅভ্যুত্থানের পর জাতিসংঘে মৃত্যুদণ্ডের বৈশ্বিক স্থগিতাদেশ সংক্রান্ত একটি প্রস্তাবের ওপর ভোটদান থেকে বিরত থাকে বাংলাদেশ।",
-        "summary_en": "Bangladesh abstained from voting on a UN resolution calling for a global moratorium on the death penalty following the July mass uprising.",
+        "title_bn": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্র থেকে জাতীয় গ্রিডে বিদ্যুৎ পরীক্ষামূলক সরবরাহ হতে পারে।",
+        "title_en": "Rooppur nuclear power plant may supply electricity to national grid experimentally.",
+        "summary_bn": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্রের প্রথম বিদ্যুৎ জাতীয় গ্রিডে পাঠানোর চেষ্টা হিসেবে একটি সিঙ্ক্রোনাইজেশন পরীক্ষা হতে পারে।",
+        "summary_en": "Rooppur nuclear power plant may undergo a synchronisation test to send electricity to the national grid.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "world_diplomacy",
-          "society_education"
+          "climate_environment",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-16T17:55:45+00:00",
-        "lead_bn": "জুলাই গণঅভ্যুত্থানের পর জাতিসংঘে মৃত্যুদণ্ডের বৈশ্বিক স্থগিতাদেশ সংক্রান্ত একটি প্রস্তাবের ওপর ভোটদান থেকে বিরত থাকে বাংলাদেশ।",
-        "lead_en": "Bangladesh abstained from voting on a UN resolution calling for a global moratorium on the death penalty following the July mass uprising.",
+        "published_at": "2026-11-16T21:00:55.689796+00:00",
+        "lead_bn": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্রের প্রথম বিদ্যুৎ জাতীয় গ্রিডে পাঠানোর চেষ্টা হিসেবে একটি সিঙ্ক্রোনাইজেশন পরীক্ষা হতে পারে।",
+        "lead_en": "Rooppur nuclear power plant may undergo a synchronisation test to send electricity to the national grid.",
         "bullets_bn": [
-          "মেক্সিকো উত্থাপিত এই প্রস্তাবটি ১৩ নভেম্বর জাতিসংঘ সাধারণ পরিষদের তৃতীয় কমিটিতে অনুমোদিত হয়।",
-          "প্রস্তাবটির পক্ষে ১৩৩টি দেশ এবং বিপক্ষে ৩৩টি দেশ ভোট দেয় এবং বাংলাদেশসহ ১৬টি দেশ ভোটদান থেকে বিরত থাকে।",
-          "মানবাধিকার রক্ষার প্রতিশ্রুতির অংশ হিসেবে বাংলাদেশ ভোটদান থেকে বিরত রয়েছে বলে জানিয়েছে পররাষ্ট্র মন্ত্রণালয়।"
+          "প্রকল্প পরিচালক কবির হোসেন জানিয়েছেন, পূর্ববর্তী পরীক্ষার ফলাফলের ওপর নির্ভর করে পরীক্ষাটি হওয়ার কথা রয়েছে।",
+          "গ্রিড বিদ্যুৎ গ্রহণ করতে পারে কিনা তা দেখতে এই সিঙ্ক্রোনাইজেশন পরীক্ষা করা হচ্ছে।",
+          "পরীক্ষা সফল হলে জাতীয় সঞ্চালন লাইনে আনুষ্ঠানিকভাবে বিদ্যুৎ সরবরাহ করা হবে।"
         ],
         "bullets_en": [
-          "The resolution tabled by Mexico was approved by the UN General Assembly Third Committee on November 13.",
-          "A total of 133 countries voted in favour of the resolution, 33 voted against it, and 16 countries including Bangladesh abstained.",
-          "A foreign ministry official said Bangladesh abstained in keeping with its commitment to upholding human rights."
+          "Project Director Kabir Hossain confirmed that the test was scheduled subject to previous trial outcomes.",
+          "Grid synchronisation is a test to check if the grid and recipient can receive the electricity.",
+          "If the test confirms readiness, electricity will be formally supplied to the national transmission line."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "জুলাই গণঅভ্যুত্থানের আগে পূর্বের বছরগুলোতে এই প্রস্তাবের বিরুদ্ধে ভোট দিয়েছিল বাংলাদেশ। অন্তর্বর্তী সরকার ক্ষমতা গ্রহণের পর মানবাধিকার রক্ষার প্রতিশ্রুতির অংশ হিসেবে এই প্রস্তাবে ভোটদান থেকে বিরত থাকে দেশ। তবে বাংলাদেশ এখনও শাস্তি হিসেবে মৃত্যুদণ্ড বজায় রাখায় এই প্রস্তাবের পক্ষে ভোট দেয়নি। অন্যদিকে যুক্তরাষ্ট্রসহ বিপক্ষে ভোটদানকারী দেশগুলো যুক্তি দেখায় যে এই প্রস্তাব জাতীয় সার্বভৌমত্ব লঙ্ঘন করে এবং আন্তর্জাতিক আইনের অধীনে মৃত্যুদণ্ডের আইন ও বিচার ব্যবস্থা দেশীয়ভাবেই নির্ধারিত হওয়া উচিত।",
-        "details_en": "Before the July mass uprising, Bangladesh had voted against the resolution in previous years. Since the interim government took office, Bangladesh has abstained on the resolution in keeping with its commitment to upholding human rights. However, as Bangladesh retains the death penalty as a form of punishment, it did not vote in favour. Countries voting against, such as the US, argued that the resolution oversteps national sovereignty and that capital punishment laws should be decided domestically.",
-        "hook_bn": "মৃত্যুদণ্ডের ওপর জাতিসংঘ প্রস্তাবে ভোটদান থেকে বিরত থাকে বাংলাদেশ।",
-        "question_bn": "মৃত্যুদণ্ডের বৈশ্বিক স্থগিতাদেশের প্রস্তাব নিয়ে বাংলাদেশের এই অবস্থান পরিবর্তনের বিষয়ে আপনার মতামত কী?"
+        "details_bn": "প্রকল্প পরিচালক কবির হোসেন স্পষ্ট করেছেন যে জাতীয় সঞ্চালন লাইনের সাথে প্ল্যান্টের সংযোগ মানেই নিয়মিত বিদ্যুৎ সরবরাহ শুরু হওয়া নয়। এটি একটি অভ্যন্তরীণ পরীক্ষা যা নির্ধারণ করবে কখন স্থায়ীভাবে গ্রিডে বিদ্যুৎ সরবরাহ করা সম্ভব। পরীক্ষার সময় পাঁচ বা ১০ ঘণ্টা বিদ্যুৎ প্রবাহিত হতে পারে।",
+        "details_en": "Project Director Kabir Hossain clarified that connecting the plant to the national transmission line does not mean regular power supply is beginning. The exercise is an internal test to determine when electricity could be delivered for good, with electricity potentially flowing for five or 10 hours during the test.",
+        "hook_bn": "জাতীয় গ্রিডে যুক্ত হতে পারে রূপপুরের বিদ্যুৎ।",
+        "question_bn": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্র থেকে গ্রিডে বিদ্যুৎ সরবরাহ শুরু হওয়া নিয়ে আপনার মতামত কী?"
       },
       "desk_importance": 6.0,
       "outlet_count": 2,
       "trending": false,
-      "social_appeal": 5.0,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-16T20:02:07.408070+00:00"
+        "checked_at": "2026-11-16T21:03:12.603690+00:00"
+      }
+    },
+    {
+      "story_id": "02588180-1dd4-5eff-aacd-1494ebe7ad8e",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "tech_innovation",
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#USBanks",
+        "#BankOutage",
+        "#ChaseBank"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/3646b72898ae901bf0c2c1a9dbe0b69194df306e/452_0_4515_3612/master/4515.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fceb669fbbdf40adde6d7de607ba7eea",
+      "image_caption": null,
+      "published_at": "2026-11-16T20:21:59+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4043,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo",
+          "title": "Customers report difficulty accessing online services at major US banks",
+          "snippet": "Customers report difficulty accessing online services at major US banks"
+        },
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss",
+          "title": "Thousands report difficulties accessing accounts online at major US banks",
+          "snippet": "Thousands report difficulties accessing accounts online at major US banks"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যুক্তরাষ্ট্রের প্রধান ব্যাংকগুলোর অনলাইন সেবায় গ্রাহকদের প্রবেশে সমস্যা হয়েছে",
+        "title_en": "Customers report difficulty accessing online services at major US banks",
+        "summary_bn": "যুক্তরাষ্ট্রের বেশ কয়েকটি প্রধান ব্যাংকের অনলাইন অ্যাকাউন্টে প্রবেশ করতে সমস্যায় পড়েছেন গ্রাহকেরা।",
+        "summary_en": "Customers reported difficulty accessing their online accounts at some major US banks.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "tech_innovation",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-16T20:21:59+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের বেশ কয়েকটি প্রধান ব্যাংকের অনলাইন অ্যাকাউন্টে প্রবেশ করতে সমস্যায় পড়েছেন গ্রাহকেরা।",
+        "lead_en": "Customers reported difficulty accessing their online accounts at some major US banks.",
+        "bullets_bn": [
+          "ডাউনেক্টোটার ডটকমের তথ্য অনুযায়ী, ব্যাংক অব আমেরিকা, চেজ, ইউএস ব্যাংক, ওয়েলস ফারগো ও ট্রুস্টে সমস্যা দেখা গেছে।",
+          "চেজ ব্যাংকের সেবা একটি প্রযুক্তিগত ত্রুটির কারণে ব্যাহত হচ্ছে বলে জানিয়েছে ব্যাংকটির একজন মুখপাত্র।",
+          "জেলে পেমেন্ট স্থানান্তরে ট্রানজেকশনে দেরি হতে পারে বলে জানিয়েছে ইউএস ব্যাংক।"
+        ],
+        "bullets_en": [
+          "Bank of America, Chase, US Bank, Wells Fargo and Truist were reported down by users on downdetector.com.",
+          "A Chase spokesperson said the services are experiencing a technical bug issue and not a cyber issue.",
+          "US Bank stated that clients attempting to send or receive Zelle payments may experience transaction delays."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "এর আগে মাইক্রোসফটের একটি বড় আউটেজের কারণে আউটলুক, টিমসের মতো সেবা বিশ্বজুড়ে প্রভাবিত হয়। এছাড়া পুরোনো যন্ত্রপাতির কারণে যুক্তরাষ্ট্রের সব বাণিজ্যিক বিমান সাময়িকভাবে মাটিতে আটকে রাখা হয়েছিল।",
+        "details_en": "The reports follow a major outage by Microsoft that affected Outlook and Teams and had repercussions worldwide. Also, ageing equipment led to a temporary grounding of all commercial airplanes in the US.",
+        "hook_bn": "যুক্তরাষ্ট্রের প্রধান ব্যাংকগুলোর অনলাইন সেবায় গ্রাহকদের প্রবেশে সমস্যা হয়েছে",
+        "question_bn": "অনলাইন ব্যাংকিং সেবা ব্যাহত হওয়া নিয়ে আপনার কোনো অভিজ্ঞতা আছে কি?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-16T21:03:12.603690+00:00"
+      }
+    },
+    {
+      "story_id": "2d39a28d-d3ed-5d17-95c7-87b8aa57d497",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#BenjaminNetanyahu",
+        "#YairLapid",
+        "#Israel",
+        "#Likud"
+      ],
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af9a12272f26-1794744610.jpg?resize=1200%2C675",
+      "image_caption": null,
+      "published_at": "2026-11-16T20:00:07+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.3542,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss",
+          "title": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
+          "snippet": "Israeli opposition accuses Netanyahu of attempted ‘coup’"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821390/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7%E0%A6%BF%E0%A6%A4%E0%A6%BE-%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%A8%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A6%AC-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A7%8D%E0%A6%AF",
+          "title": "প্রকাশ্যে বিরোধিতা, গোপনে আরব নেতাদের সাহায্য চেয়েছেন নেতানিয়াহু",
+          "snippet": "প্রকাশ্যে বিরোধিতা, গোপনে আরব নেতাদের সাহায্য চেয়েছেন নেতানিয়াহু"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইসরায়েলের বিরোধীরা নেতানিয়াহুর বিরুদ্ধে ক্যু চেষ্টার অভিযোগ তুলেছেন",
+        "title_en": "Israeli opposition accuses Netanyahu of attempted coup",
+        "summary_bn": "ইসরায়েলের বিরোধী নেতারা আউটগোয়িং প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর বিরুদ্ধে একটি ক্যু চেষ্টার অভিযোগ এনেছেন।",
+        "summary_en": "Israeli opposition leaders have denounced an attempted coup by outgoing Prime Minister Benjamin Netanyahu.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-16T20:00:07+00:00",
+        "lead_bn": "ইসরায়েলের বিরোধী নেতারা আউটগোয়িং প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর বিরুদ্ধে একটি ক্যু চেষ্টার অভিযোগ এনেছেন।",
+        "lead_en": "Israeli opposition leaders have denounced an attempted coup by outgoing Prime Minister Benjamin Netanyahu.",
+        "bullets_bn": [
+          "নেতানিয়াহুর কার্যালয় আরব দলের সদস্যদের মিথ্যাভাবে ফাঁসানোর চেষ্টা করেছে বলে গণমাধ্যমে খবর এসেছে।",
+          "নেতানিয়াহুর প্রধান অব স্টাফ ইডো নর্ডেন পুলিশকে ফোন করে র্বাম দলের সদস্যদের বিরুদ্ধে অভিযোগ করেছিলেন।",
+          "ইসরায়েলি পুলিশ জানিয়েছে তারা সিদ্ধান্ত গ্রহণ এবং তথ্য প্রেরণ প্রক্রিয়া পর্যালোচনা করবে।"
+        ],
+        "bullets_en": [
+          "Netanyahu's office reportedly tried to falsely incriminate members of an Arab-led party before the election.",
+          "Netanyahu's chief of staff Ido Norden called police with a complaint about members of the Raam party.",
+          "Israeli police stated that they will review the decision-making and information-transmission process."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "নির্বাচনের আগে নেতানিয়াহুর কার্যালয় আরব দলের সদস্যদের বিরুদ্ধে অভিযোগ করে। পরে তিন র্বাম সদস্যকে গ্রেপ্তার করা হলেও পুলিশ অভিযোগ ভিত্তিহীন মনে করায় তারা মুক্তি পান। শিন বেতের প্রধান আরব দলের নেতাদের ফোনে আড়ি পাতার চেষ্টা করলেও অ্যাটর্নি জেনারেল তা প্রত্যাখ্যান করেন। নেতানিয়াহুর লিকুদ দল এসব রিপোর্ট অস্বীকার করেছে।",
+        "details_en": "Reports indicated that Netanyahu's office called police about members of the Raam party, leading to arrests before they were released. The Shin Bet head reportedly tried to wiretap Arab-led Joint List leaders, but the attorney general refused. Likud denied the reports.",
+        "hook_bn": "ইসরায়েলে নেতানিয়াহুর বিরুদ্ধে ক্যু চেষ্টার অভিযোগ এনেছেন বিরোধী নেতারা।",
+        "question_bn": "এই রাজনৈতিক পরিস্থিতি নিয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-16T21:03:12.603690+00:00"
       }
     }
   ]
