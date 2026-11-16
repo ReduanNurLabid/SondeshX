@@ -1,5 +1,79 @@
 {
-  "updated_at": "2026-11-16T00:00:42.958030",
-  "total_stories": 0,
-  "stories": []
+  "updated_at": "2026-11-16T01:00:49.221254",
+  "total_stories": 1,
+  "stories": [
+    {
+      "story_id": "cbd91e9d-6d27-5bf9-9e62-c209f37b8754",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1786532966457-5fc6c36559d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YXV0byUyMHJpY2tzaGF3JTIwZHJpdmVyJTIwa2lsbGVkJTIwZWR1Y2F0aW9ufGVufDF8MHx8fDE3OTQ3OTA4ODh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-15T22:03:01+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.25,
+      "rank_score": 2.3215,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1179897",
+          "title": "পিরোজপুরে ট্রাকচাপায় অটোরিকশা‌ চালক নিহত",
+          "snippet": "পিরোজপুরে ট্রাকচাপায় অটোরিকশা‌ চালক নিহত"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/country/498211",
+          "title": "পিরোজপুরে ট্রাক চাপায় অটোরিকশাচালক নিহত",
+          "snippet": "পিরোজপুরে ট্রাক চাপায় অটোরিকশাচালক নিহত"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পিরোজপুরে ট্রাকচাপায় অটোরিকশাচালক নিহত",
+        "title_en": "Auto-rickshaw driver killed in truck crash in Pirojpur",
+        "summary_bn": "পিরোজপুর সদর উপজেলায় বাড়ির সামনে ব্যাটারিচালিত অটোরিকশায় বসে থাকা অবস্থায় ট্রাকের ধাক্কায় নজরুল শেখ নামের এক চালক নিহত হয়েছেন।",
+        "summary_en": "Auto-rickshaw driver Nazrul Sheikh was killed after being hit by a truck while sitting in his battery-run vehicle in Pirojpur.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-15T22:03:01+00:00",
+        "lead_bn": "পিরোজপুর সদর উপজেলায় বাড়ির সামনে ব্যাটারিচালিত অটোরিকশায় বসে থাকা অবস্থায় ট্রাকের ধাক্কায় নজরুল শেখ নামের এক চালক নিহত হয়েছেন।",
+        "lead_en": "Auto-rickshaw driver Nazrul Sheikh was killed after being hit by a truck while sitting in his battery-run vehicle in Pirojpur.",
+        "bullets_bn": [
+          "ঘটনাটি ঘটেছে পিরোজপুর সদর উপজেলার বাড়ির সামনে।",
+          "নিহত চালকের নাম নজরুল শেখ এবং তার বয়স ৪৫ বছর।",
+          "তিনি ব্যাটারিচালিত অটোরিকশায় বসে থাকা অবস্থায় ট্রাকের ধাক্কায় নিহত হন।"
+        ],
+        "bullets_en": [
+          "The incident took place in front of the house in Pirojpur Sadar upazila.",
+          "The deceased driver was named Nazrul Sheikh and he was 45 years old.",
+          "He was killed after a truck hit the battery-run auto-rickshaw while he was sitting inside."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "পিরোজপুরে ট্রাকচাপায় নিহত হলেন অটোরিকশাচালক নজরুল শেখ।",
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-16T01:01:47.119096+00:00"
+      }
+    }
+  ]
 }
