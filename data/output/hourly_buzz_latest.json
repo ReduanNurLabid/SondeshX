@@ -1,72 +1,241 @@
 {
-  "updated_at": "2026-11-16T07:00:46.620995",
-  "total_stories": 5,
+  "updated_at": "2026-11-16T08:00:45.794090",
+  "total_stories": 4,
   "stories": [
     {
-      "story_id": "ba8c0010-3c10-5869-b6a2-d5ecd2b4557a",
+      "story_id": "983d5e25-258f-57dd-a1ce-e17d50d9038e",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
-        "society_education"
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Mymensingh",
-        "#SwechchhasebakDal",
-        "#JuboLeague",
-        "#BangladeshPolice"
+        "#ElectionCommission",
+        "#UnionParishad",
+        "#SmartNID"
       ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/feature/images/body-recov_84_0.jpg",
+      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_7bdcc05b2d23e24fef7f786b4fc02f09.jpg",
       "image_caption": null,
-      "published_at": "2026-11-16T06:22:34+00:00",
+      "published_at": "2026-11-16T08:00:57.214789+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.75,
-      "rank_score": 5.7775,
+      "importance_score": 8.0,
+      "rank_score": 6.3978,
       "sources": [
         {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/suspect-swechchhasebak-dal-activists-murder-beaten-death-mymensingh-4325186",
-          "title": "Suspect of Swechchhasebak Dal activist’s murder beaten to death in Mymensingh",
-          "snippet": "Suspect of Swechchhasebak Dal activist’s murder beaten to death in Mymensingh"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/election-commission-meets-to-finalise-schedule-for-union-council-elections",
+          "title": "EC meets to finalise schedule for local govt elections",
+          "snippet": "EC meets to finalise schedule for local govt elections"
         },
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/mymensingh-volunteer-leader-killed-young-man-dies/",
-          "title": "স্বেচ্ছাসেবক দলের নেতাকে হত্যায় অভিযুক্ত যুবলীগ নেতার ভাইকে পিটিয়ে হত্যা",
-          "snippet": "স্বেচ্ছাসেবক দলের নেতাকে হত্যায় অভিযুক্ত যুবলীগ নেতার ভাইকে পিটিয়ে হত্যা"
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/post-1221136/",
+          "title": "‎কোন ইউপিতে ভোট কবে হবে, তা নির্ধারণে বৈঠকে ইসি",
+          "snippet": "‎কোন ইউপিতে ভোট কবে হবে, তা নির্ধারণে বৈঠকে ইসি"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1180024",
+          "title": "কোন ধাপে কত ইউনিয়নে ভোট, জানালো ইসি",
+          "snippet": "কোন ধাপে কত ইউনিয়নে ভোট, জানালো ইসি"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/national/498308",
+          "title": "পাঁচ ধাপে হবে ৪ হাজার ৩০০ ইউপি নির্বাচন, ১০ ডিসেম্বরের মধ্যে সংলাপ",
+          "snippet": "পাঁচ ধাপে হবে ৪ হাজার ৩০০ ইউপি নির্বাচন, ১০ ডিসেম্বরের মধ্যে সংলাপ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ময়মনসিংহে স্বেচ্ছাসেবক দলের নেতা হত্যায় অভিযুক্ত ব্যক্তি গণপিটুনিতে নিহত হয়েছেন।",
-        "title_en": "Suspect in Swechchhasebak Dal leader murder beaten to death in Mymensingh.",
-        "summary_bn": "ময়মনসিংহে স্বেচ্ছাসেবক দলের কর্মী Md Suruj Jaman কে হত্যার অভিযোগে অভিযুক্ত Mehdi Hasan গণপিটুনিতে নিহত হয়েছেন।",
-        "summary_en": "Mehdi Hasan, a suspect in the murder of Swechchhasebak Dal activist Md Suruj Jaman, was beaten to death by a mob in Mymensingh.",
+        "title_bn": "স্থানীয় সরকার নির্বাচনের তফসিল চূড়ান্ত করতে বৈঠকে বসেছে নির্বাচন কমিশন।",
+        "title_en": "Election Commission meets to finalise the schedule for local government elections.",
+        "summary_bn": "নির্বাচন কমিশন ইউনিয়ন পরিষদ নির্বাচনের ইউনিয়নগুলোর তালিকা চূড়ান্ত করতে এবং স্মার্ট জাতীয় পরিচয়পত্র নিয়ে বৈঠকে বসেছে।",
+        "summary_en": "The Election Commission has met to finalise the list of unions for local government elections and discuss smart NID cards.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law",
-          "society_education"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-16T06:22:34+00:00",
-        "lead_bn": "ময়মনসিংহে স্বেচ্ছাসেবক দলের কর্মী Md Suruj Jaman কে হত্যার অভিযোগে অভিযুক্ত Mehdi Hasan গণপিটুনিতে নিহত হয়েছেন।",
-        "lead_en": "Mehdi Hasan, a suspect in the murder of Swechchhasebak Dal activist Md Suruj Jaman, was beaten to death by a mob in Mymensingh.",
+        "published_at": "2026-11-16T08:00:57.214789+00:00",
+        "lead_bn": "নির্বাচন কমিশন ইউনিয়ন পরিষদ নির্বাচনের ইউনিয়নগুলোর তালিকা চূড়ান্ত করতে এবং স্মার্ট জাতীয় পরিচয়পত্র নিয়ে বৈঠকে বসেছে।",
+        "lead_en": "The Election Commission has met to finalise the list of unions for local government elections and discuss smart NID cards.",
         "bullets_bn": [
-          "আহত মেহেদী হাসানকে ময়মনসিংহ মেডিকেল কলেজ হাসপাতালে নেওয়া হলে সেখানে তার মৃত্যু হয়।",
-          "পুলিশের অতিরিক্ত পুলিশ সুপার Md Abdullah Al Mamun জানান, নিহত মেহেদী হাসান স্থানীয় এক যুবলীগ নেতার ছোট ভাই।",
-          "পুলিশ জানিয়েছে, এই হত্যার ঘটনায় জড়িতদের শনাক্ত ও গ্রেপ্তারে অভিযান চলছে এবং মরদেহ ময়নাতদন্তের জন্য মর্গে পাঠানো হয়েছে।"
+          "এ এম এম নাসির উদ্দিনের নেতৃত্বে নির্বাচন কমিশনের ১৪তম সভাটি নির্বাচন ভবনে শুরু হয়।",
+          "নির্বাচন কমিশন জানিয়েছে যে ইউনিয়ন পরিষদ নির্বাচন পাঁচটি ধাপে অনুষ্ঠিত হবে।",
+          "প্রথম ধাপে ১ হাজার ৫০টি ইউনিয়ন পরিষদে ভোট গ্রহণের পরিকল্পনা রয়েছে।"
         ],
         "bullets_en": [
-          "Critically injured Mehdi Hasan was taken to Mymensingh Medical College Hospital, where he died.",
-          "Additional Superintendent of Police Md Abdullah Al Mamun stated that the victim was the younger brother of a local Jubo League leader.",
-          "Police stated that operations are underway to identify and arrest those involved, and bodies were sent for autopsies."
+          "The 14th meeting of the commission led by AMM Nasir Uddin began at the Nirbachon Bhaban.",
+          "The Election Commission announced that the union parishad elections will be held in five phases.",
+          "The first phase includes plans to hold polls in 1,050 union councils."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "সন্ধ্যায় বাড়েরা মসজিদ মার্কেটের কাছে স্বেচ্ছাসেবক দলের কর্মী Md Suruj Jaman কে মোটরসাইকেল থামিয়ে ছুরিকাঘাত করা হয়। হাসপাতালে নেওয়ার পর চিকিৎসকরা তাকে মৃত ঘোষণা করেন। এর জেরে স্থানীয় লোকজন মেহেদী হাসানকে আক্রমণ করে, যিনি এই হামলায় জড়িত ছিলেন বলে অভিযোগ রয়েছে।",
-        "details_en": "Swechchhasebak Dal activist Md Suruj Jaman was travelling by motorcycle when he was intercepted near Barera Masjid Market and stabbed in the chest. He was rushed to the hospital, where doctors declared him dead. Following the killing, locals attacked Mehdi Hasan, who allegedly took part in the stabbing.",
-        "hook_bn": "ময়মনসিংহে স্বেচ্ছাসেবক দলের কর্মী হত্যার পর অভিযুক্ত ব্যক্তি গণপিটুনিতে নিহত হয়েছেন।",
+        "details_bn": "ইসি সচিব আখতার আহমেদ এর আগে জানিয়েছিলেন যে ইউনিয়ন পরিষদ নির্বাচন পাঁচ ধাপে অনুষ্ঠিত হবে। তপশিল অনুযায়ী, প্রথম ধাপ ২১ জানুয়ারি, দ্বিতীয় ধাপ ৪ ফেব্রুয়ারি, তৃতীয় ধাপ ২৯ এপ্রিল, চতুর্থ ধাপ ১৩ মে এবং পঞ্চম ধাপ ২৭ মে অনুষ্ঠিত হওয়ার কথা রয়েছে। সংশ্লিষ্ট জেলা নির্বাচন কর্মকর্তারা নির্বাচনের ৪০ থেকে ৪৫ দিন আগে এসব পরিষদের নির্বাচনের তপশিল ঘোষণা করবেন। এছাড়া বৈঠকে স্মার্ট জাতীয় পরিচয়পত্র তৈরি ও বিতরণের বিষয় নিয়েও আলোচনা হওয়ার কথা রয়েছে।",
+        "details_en": "Previously, EC Secretary Akhtar had announced that the UP elections would be held in five phases. According to the schedule, the first phase will be held on January 21, the second on February 4, the third on April 29, the fourth on May 13 and the fifth on May 27. Concerned district election officers will announce the schedule 40 to 45 days before the elections. Issues related to smart NID cards are also on the agenda.",
+        "hook_bn": "ইউনিয়ন পরিষদ নির্বাচন অনুষ্ঠিত হবে পাঁচ ধাপে।",
+        "question_bn": "আপনার এলাকায় ইউনিয়ন পরিষদ নির্বাচন নিয়ে আপনাদের প্রস্তুতি কেমন?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 4,
+      "trending": true,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-16T08:01:43.427162+00:00"
+      }
+    },
+    {
+      "story_id": "0bf77cb7-54b0-5637-ae07-1911390f5015",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Ashulia",
+        "#Savar",
+        "#TrentShoes",
+        "#BangladeshPolice"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/06/death.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-16T06:45:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 8.0,
+      "rank_score": 5.9467,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/worker-injured-attack-during-labour-unrest-ashulia-dies-hospital-1603996",
+          "title": "Worker injured in attack during labour unrest in Ashulia dies in hospital",
+          "snippet": "Worker injured in attack during labour unrest in Ashulia dies in hospital"
+        },
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/ijmvzdts0q",
+          "title": "সাভারে শ্রমিক আন্দোলনের সময় হামলায় আহত শ্রমিকের মৃত্যু",
+          "snippet": "সাভারে শ্রমিক আন্দোলনের সময় হামলায় আহত শ্রমিকের মৃত্যু"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/424768/savar-factory-worker-dies-after-attack-four",
+          "title": "Savar factory worker dies after attack; four arrested",
+          "snippet": "Savar factory worker dies after attack; four arrested"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আশুলিয়ায় শ্রমিক আন্দোলনের সময় হামলায় আহত এক শ্রমিকের মৃত্যু হয়েছে",
+        "title_en": "Injured worker dies following attack during labour unrest in Ashulia",
+        "summary_bn": "আশুলিয়ায় শ্রম অসন্তোষের সময় বহিরাগতদের হামলায় আহত ট্রেন্ড শোজ লিমিটেডের এক জুনিয়র অপারেটর ঢাকা মেডিকেল কলেজ হাসপাতালে চিকিৎসাধীন অবস্থায় মারা গেছেন।",
+        "summary_en": "A junior operator of Trent Shoes Limited injured in an attack by outsiders during labour unrest in Ashulia has died at Dhaka Medical College Hospital.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-16T06:45:00+00:00",
+        "lead_bn": "আশুলিয়ায় শ্রম অসন্তোষের সময় বহিরাগতদের হামলায় আহত ট্রেন্ড শোজ লিমিটেডের এক জুনিয়র অপারেটর ঢাকা মেডিকেল কলেজ হাসপাতালে চিকিৎসাধীন অবস্থায় মারা গেছেন।",
+        "lead_en": "A junior operator of Trent Shoes Limited injured in an attack by outsiders during labour unrest in Ashulia has died at Dhaka Medical College Hospital.",
+        "bullets_bn": [
+          "নিহত মো. সেলিম (২৩) ঢাকা মেডিকেল কলেজ হাসপাতালের নিবিড় পরিচর্যা কেন্দ্রে ১৬ নভেম্বর ভোরে চিকিৎসাধীন অবস্থায় মারা যান।",
+          "সাভার ও আশুলিয়ায় শ্রমিক আন্দোলনের সময় বহিরাগতরা হামলা চালালে সেলিমের মাথায় লোহার রড দিয়ে আঘাত করা হয়।",
+          "এ ঘটনায় প্রধান অভিযুক্তসহ চারজনকে গ্রেপ্তার করেছে পুলিশ এবং আশুলিয়া থানায় একটি মামলা দায়ের করা হয়েছে।"
+        ],
+        "bullets_en": [
+          "Deceased Md Selim, 23, died early on 16 November while receiving treatment in the Intensive Care Unit of Dhaka Medical College Hospital.",
+          "Selim was struck with an iron rod on the head when outsiders attacked during labour unrest in Savar and Ashulia.",
+          "Police have arrested four people, including the prime accused, and a case was filed at Ashulia Police Station over the incident."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "সাভারের আউকপাড়ায় অবস্থিত রপ্তানিমুখী পাদুকা প্রস্তুতকারক প্রতিষ্ঠান ট্রেন্ড শোজ লিমিটেডের কর্মীরা গত ৪ নভেম্বর ন্যূনতম মজুরি বৃদ্ধি সহ বিভিন্ন দাবিতে চলা শ্রম অসন্তোষের মধ্যেও কাজ করছিলেন। ওই সময় বহিরাগতরা আশেপাশের বেশ কয়েকটি কারখানায় হামলা চালায় এবং কর্মীরা কাজ চালিয়ে যেতে চাইলে তাদের ওপর চড়াও হয়। হামলায় সেলিমসহ তিনজন আহত হন এবং তাকে সংকটজনক অবস্থায় হাসপাতালে ভর্তি করা হয়।",
+        "details_en": "Workers at Trent Shoes Limited, an export-oriented footwear manufacturer in Aukpara, Savar, were on duty during labour unrest on 4 November centred on demands including a minimum wage hike. Outsiders attacked nearby factories and beat workers who wanted to continue working, injuring Selim and two others, after which Selim was admitted to hospital in critical condition.",
+        "hook_bn": "আশুলিয়ায় শ্রমিক আন্দোলনের সময় হামলায় আহত এক শ্রমিক মারা গেছেন",
         "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 3,
+      "trending": true,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-16T08:01:43.427162+00:00"
+      }
+    },
+    {
+      "story_id": "29a4f714-ce1b-5548-906f-5da1dc241514",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "climate_environment",
+        "tech_innovation"
+      ],
+      "region": "national",
+      "tags": [
+        "#UKGovernment",
+        "#NationalResilience"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/3ba762c70e9c188fc6533e353ffe9c2e077e95c6/0_0_4183_3347/master/4183.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aaae14f3a77e62be35ecbe1933ad1fae",
+      "image_caption": null,
+      "published_at": "2026-11-16T06:30:35+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.5,
+      "rank_score": 5.1545,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/society/2026/nov/16/uk-exposed-to-polycrisis-of-threats-amid-government-complacency",
+          "title": "UK exposed to polycrisis of threats amid government ‘complacency’",
+          "snippet": "UK exposed to polycrisis of threats amid government ‘complacency’"
+        },
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/national/post-1221160/",
+          "title": "সাগরে গভীর নিম্নচাপ, আজই ঘূর্ণিঝড়ে রূপ নেওয়ার শঙ্কা",
+          "snippet": "সাগরে গভীর নিম্নচাপ, আজই ঘূর্ণিঝড়ে রূপ নেওয়ার শঙ্কা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যুক্তরাজ্য বহুমাত্রিক হুমকির মুখে এবং জাতীয় নিরাপত্তায় উদাসীন।",
+        "title_en": "UK exposed to polycrisis of threats amid government complacency.",
+        "summary_bn": "যুক্তরাজ্যের মন্ত্রীরা পরিবর্তনশীল ও আন্তঃসংযুক্ত হুমকির মুখে উদাসীন রয়েছেন বলে একটি সংসদীয় প্রতিবেদনে জানানো হয়েছে।",
+        "summary_en": "Ministers are complacent in the face of fast-changing and interconnected threats to the UK, a parliamentary report found.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "climate_environment",
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-16T06:30:35+00:00",
+        "lead_bn": "যুক্তরাজ্যের মন্ত্রীরা পরিবর্তনশীল ও আন্তঃসংযুক্ত হুমকির মুখে উদাসীন রয়েছেন বলে একটি সংসদীয় প্রতিবেদনে জানানো হয়েছে।",
+        "lead_en": "Ministers are complacent in the face of fast-changing and interconnected threats to the UK, a parliamentary report found.",
+        "bullets_bn": [
+          "প্রতিবেদনে জাতীয় স্থিতিস্থাপকতা বাড়াতে একজন নির্দিষ্ট মন্ত্রিসভা মন্ত্রী নিয়োগের আহ্বান জানানো হয়েছে।",
+          "যুক্তরাজ্যের বর্তমান পরিকল্পনাগুলো একক জরুরি অবস্থার জন্য তৈরি এবং পুরনো ও অতিরিক্ত বিভক্ত।",
+          "প্রতিবেদনে সাইবার হামলার ঝুঁকি কৃত্রিম বুদ্ধিমত্তা আরও বাড়িয়ে দিচ্ছে বলে সতর্ক করা হয়েছে।"
+        ],
+        "bullets_en": [
+          "The report calls for a dedicated cabinet minister to increase national resilience.",
+          "Current UK plans are often out of date and deal with a single emergency.",
+          "The report warned that AI supercharges the risk from cyber-attacks."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "লর্ডস ন্যাশনাল রেজিলিয়েন্স কমিটি বিশেষজ্ঞ শুনানির পর এই প্রতিবেদন তৈরি করেছে। প্রতিবেদনে ডেনমার্ক ও সুইডেনের মতো দেশগুলোর অনুসরণে জরুরি অবস্থার প্রস্তুতি নিয়ে প্রতিটি পরিবারকে একটি পুস্তিকা পাঠানোর সুপারিশ করা হয়েছে। এছাড়া জনসাধারণের সাথে যোগাযোগের জন্য আরও নমনীয় উপায় অবলম্বন করতে বলা হয়েছে।",
+        "details_en": "The Lords national resilience committee wrote the report after months of expert hearings. It recommends sending every household a booklet setting out how people can prepare for emergencies, following models in Denmark and Sweden, and finding more flexible ways to communicate with the public.",
+        "hook_bn": "যুক্তরাজ্যে বহুমাত্রিক হুমকির মুখে জাতীয় নিরাপত্তা নিয়ে উদাসীনতার অভিযোগ।",
+        "question_bn": "জরুরি পরিস্থিতিতে সরকারি প্রস্তুতি ও সচেতনতা বৃদ্ধিতে জনসাধারণের জন্য কী ধরনের পদক্ষেপ সবচেয়ে কার্যকর হতে পারে বলে আপনি মনে করেন?"
       },
       "desk_importance": 7.0,
       "outlet_count": 2,
@@ -74,285 +243,90 @@
       "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-16T07:03:14.937285+00:00"
+        "checked_at": "2026-11-16T08:01:43.427162+00:00"
       }
     },
     {
-      "story_id": "5078b078-0f49-5df9-b60c-1bbf2b7233a9",
-      "primary_category": "economy_business",
+      "story_id": "d9c13554-137e-52d5-84af-83fd2c33dfd7",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "economy_business",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#BOESL",
-        "#SaudiArabia",
-        "#Bangladesh"
-      ],
-      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_600021b08abea29a1fa7eb63aee1dfdd.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-16T07:00:55.592301+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5932,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/boesl-moves-to-send-manpower-directly-to-saudi-arabia",
-          "title": "BOESL moves to send manpower directly to Saudi Arabia",
-          "snippet": "BOESL moves to send manpower directly to Saudi Arabia"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সৌদি আরবে সরাসরি কর্মী পাঠাতে উদ্যোগ নিয়েছে বোয়েসেল।",
-        "title_en": "BOESL moves to send manpower directly to Saudi Arabia.",
-        "summary_bn": "বাংলাদেশ ওভারসিজ এমপ্লয়মেন্ট অ্যান্ড সার্ভিসেস লিমিটেড নিজস্ব ব্যবস্থাপনায় সৌদি আরবে কর্মী পাঠানোর উদ্যোগ নিয়েছে।",
-        "summary_en": "Bangladesh Overseas Employment and Services Limited has taken initiatives to send manpower to Saudi Arabia on its own.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-16T07:00:55.592301+00:00",
-        "lead_bn": "বাংলাদেশ ওভারসিজ এমপ্লয়মেন্ট অ্যান্ড সার্ভিসেস লিমিটেড নিজস্ব ব্যবস্থাপনায় সৌদি আরবে কর্মী পাঠানোর উদ্যোগ নিয়েছে।",
-        "lead_en": "Bangladesh Overseas Employment and Services Limited has taken initiatives to send manpower to Saudi Arabia on its own.",
-        "bullets_bn": [
-          "এই পদক্ষেপে অংশ হিসেবে বোয়েসেল সংশ্লিষ্ট বিভাগ ও ঢাকার সৌদি দূতাবাসের কর্মকর্তাদের সঙ্গে আলোচনা শুরু করেছে।",
-          "বোয়েসেলের ব্যবস্থাপনা পরিচালক মোহাম্মদ রাশেদুল হক জানিয়েছেন, তিনি বিষয়টি নিয়ে পররাষ্ট্র মন্ত্রণালয়ের উচ্চপদস্থ কর্মকর্তাদের সঙ্গে কথা বলেছেন।",
-          "বর্তমানে বাংলাদেশ থেকে বেসরকারি রিক্রুটিং এজেন্সির মাধ্যমে সৌদি আরবে কর্মী পাঠানো হয়।"
-        ],
-        "bullets_en": [
-          "As part of the move, BOESL has started negotiating with concerned departments and Saudi embassy officials in Dhaka.",
-          "BOESL Managing Director Mohammad Rashedul Haque said he discussed the matter with high-ups of the foreign ministry.",
-          "At present, manpower is exported to Saudi Arabia from Bangladesh through private recruiting agencies."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বোয়েসেল মালয়েশিয়া ও সিঙ্গাপুরসহ বিভিন্ন দেশে কর্মী পাঠিয়ে থাকে। তবে বর্তমানে বোয়েসেলের মাধ্যমে সৌদি আরবে কর্মী পাঠানোর বিষয়টি স্থবির রয়েছে।",
-        "details_en": "BOESL sends manpower to different countries, including Malaysia and Singapore. However, sending manpower to Saudi Arabia through BOESL remains stalled.",
-        "hook_bn": "সৌদি আরবে সরাসরি কর্মী পাঠাতে উদ্যোগ নিয়েছে বোয়েসেল।",
-        "question_bn": "সৌদি আরবে কর্মী পাঠানোর এই উদ্যোগে আপনারা কী মনে করেন?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-16T07:03:14.937285+00:00"
-      }
-    },
-    {
-      "story_id": "8fee7eb0-c957-5b7a-9494-c87a52e7df51",
-      "primary_category": "society_education",
-      "interest_categories": [
+        "governance_law",
         "society_education",
-        "governance_law"
+        "sports_fitness"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#Government",
+        "#Bogra",
+        "#CoxsBazar",
+        "#Sylhet"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2022-07%2F89546e54-9028-4923-99ac-19f7e355b643%2FJU_DH0840_20220731_JU.JPG?rect=0%2C39%2C2508%2C1317&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://images.unsplash.com/photo-1788738088879-10e0d5584b27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z292ZXJubWVudCUyMGFwcHJvdmVzJTIwdGhhbmFzJTIwbXVuaWNpcGFsaXRpZXMlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTQ4MTI1Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-16T06:00:00+00:00",
+      "published_at": "2026-11-16T06:22:30+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.3885,
+      "importance_score": 7.0,
+      "rank_score": 4.4554,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/education/admission/sopv7g6sp3",
-          "title": "একই দিনে তিন বিশ্ববিদ্যালয়ে ভর্তি পরীক্ষা, বিপাকে ভর্তি–ইচ্ছুকেরা",
-          "snippet": "একই দিনে তিন বিশ্ববিদ্যালয়ে ভর্তি পরীক্ষা, বিপাকে ভর্তি–ইচ্ছুকেরা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "তিন বিশ্ববিদ্যালয়ে একই দিনে ভর্তি পরীক্ষার তারিখ নির্ধারণে শিক্ষার্থীরা বিপাকে পড়েছেন",
-        "title_en": "Students face trouble as three universities schedule admission tests on same day",
-        "summary_bn": "চট্টগ্রাম, খুলনা ও কুমিল্লা বিশ্ববিদ্যালয়ের ২০২৬-২৭ শিক্ষাবর্ষের স্নাতক প্রথম বর্ষের ভর্তি পরীক্ষা একই দিনে ৫ ফেব্রুয়ারি নির্ধারিত হয়েছে।",
-        "summary_en": "Admission tests for undergraduate first-year of Chattogram, Khulna, and Cumilla universities for 2026-27 academic session are scheduled on February 5.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-16T06:00:00+00:00",
-        "lead_bn": "চট্টগ্রাম, খুলনা ও কুমিল্লা বিশ্ববিদ্যালয়ের ২০২৬-২৭ শিক্ষাবর্ষের স্নাতক প্রথম বর্ষের ভর্তি পরীক্ষা একই দিনে ৫ ফেব্রুয়ারি নির্ধারিত হয়েছে।",
-        "lead_en": "Admission tests for undergraduate first-year of Chattogram, Khulna, and Cumilla universities for 2026-27 academic session are scheduled on February 5.",
-        "bullets_bn": [
-          "চট্টগ্রাম বিশ্ববিদ্যালয়ের 'বি' ইউনিট, খুলনা বিশ্ববিদ্যালয়ের 'সি' ইউনিট এবং কুমিল্লা বিশ্ববিদ্যালয়ের 'এ' ইউনিটের পরীক্ষা ৫ ফেব্রুয়ারি অনুষ্ঠিত হবে।",
-          "কুমিল্লা বিশ্ববিদ্যালয়ের রেজিস্ট্রার নুরুল করিম চৌধুরী জানান, তাঁরা অন্যান্য বিশ্ববিদ্যালয়ের আগে তারিখ ঘোষণা করেছেন এবং ইউজিসির সঙ্গে আলোচনা করে শিক্ষার্থীবান্ধব সিদ্ধান্ত নেওয়া হবে।",
-          "ইউজিসির চেয়ারম্যান অধ্যাপক মামুন আহমেদ গণমাধ্যমকে জানান, বিষয়টি অবগত হয়ে দুই বিশ্ববিদ্যালয়কে জানানো হবে এবং আশা করা যায় সমস্যার সমাধান হবে।"
-        ],
-        "bullets_en": [
-          "Chattogram University B unit, Khulna University C unit, and Cumilla University A unit tests will be held on February 5.",
-          "Cumilla University registrar Nurul Karim Chowdhury stated they announced dates earlier and student-friendly decisions will be taken discussing with UGC.",
-          "UGC chairman professor Mamun Ahmed told media that informed about the matter, two universities will be notified and he hopes for a solution."
-        ],
-        "impact_bn": "একই দিনে পরীক্ষা থাকায় শিক্ষার্থীরা যেকোনো একটি প্রতিষ্ঠানে ভর্তির সুযোগ হারানোর শঙ্কায় দুশ্চিন্তায় পড়েছেন।",
-        "impact_en": "Students are worried about losing the chance of admission to one institution as exams are on the same day.",
-        "details_bn": "২৩ আগস্ট ২০২৬ চট্টগ্রাম বিশ্ববিদ্যালয় কর্তৃপক্ষ ভর্তি পরীক্ষার সম্ভাব্য সময়সূচি প্রকাশ করে ৫ ফেব্রুয়ারি 'বি' ইউনিটের পরীক্ষা নেওয়ার সিদ্ধান্ত নেয়। পরে ১০ নভেম্বর খুলনা বিশ্ববিদ্যালয় খুবির 'সি' ইউনিটের পরীক্ষাও ৫ ফেব্রুয়ারি নির্ধারণ করে। এদিকে ১১ নভেম্বর উপাচার্য অধ্যাপক এম এম শরীফুল করীমের সভাপতিত্বে অনুষ্ঠিত সভায় কুমিল্লা বিশ্ববিদ্যালয় ১০ ডিসেম্বর থেকে ৩১ ডিসেম্বর পর্যন্ত আবেদন এবং ৫ ফেব্রুয়ারি বেলা ১১টায় 'এ' ইউনিটের পরীক্ষার সিদ্ধান্ত নেয়। এতে শিক্ষার্থীদের মধ্যে ক্ষোভ ও হতাশা তৈরি হয়েছে।",
-        "details_en": "On August 23, 2026, Chattogram University published a tentative schedule deciding on February 5 for B unit. Later on November 10, Khulna University set its C unit test also on February 5. Meanwhile, on November 11, in a meeting chaired by vice chancellor professor M M Shariful Karim, Cumilla University decided applications from December 10 to December 31 and A unit test at 11 am on February 5, creating anger and frustration among students.",
-        "hook_bn": "একই দিনে তিন বিশ্ববিদ্যালয়ে ভর্তি পরীক্ষার তারিখ নির্ধারণ করায় শিক্ষার্থীরা বিপাকে পড়েছেন।",
-        "question_bn": "একই দিনে একাধিক বিশ্ববিদ্যালয়ের ভর্তি পরীক্ষার তারিখ নির্ধারণ করলে শিক্ষার্থীদের কী ধরনের সমস্যায় পড়তে হয়?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-16T07:03:14.937285+00:00"
-      }
-    },
-    {
-      "story_id": "858c7efc-f076-56be-8649-e9731d29fd56",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "international",
-      "tags": [
-        "#Haiti",
-        "#MartineMoise",
-        "#JovenelMoise"
-      ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2021-10-06T223122Z_1380088558_RC2E4Q9YWJU4_RTRMADP_3_HAITI-PRESIDENT-1794802877.jpg?resize=1920%2C1440",
-      "image_caption": null,
-      "published_at": "2026-11-16T05:38:52+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.3057,
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/16/widow-of-haitis-slain-leader-moise-to-contest-presidential-vote?traffic_source=rss",
-          "title": "Widow of Haiti’s slain leader Moise to contest presidential vote",
-          "snippet": "Widow of Haiti’s slain leader Moise to contest presidential vote"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/424764/govt-approves-two-new-thanas-and-municipalities",
+          "title": "Govt approves two new thanas and municipalities",
+          "snippet": "Govt approves two new thanas and municipalities"
         },
         {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
-          "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
-          "snippet": "Wife of assassinated ex-Haitian leader registers for presidential election"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "হাইতির নিহত প্রেসিডেন্টের স্ত্রী প্রেসিডেন্ট নির্বাচনে প্রতিদ্বন্দ্বিতা করবেন",
-        "title_en": "Widow of slain Haitian president to contest presidential vote",
-        "summary_bn": "২০২১ সালে নিহত হাইতির প্রেসিডেন্ট জোভেনেল মোইসের স্ত্রী মার্তিন মোইস দেশটির আসন্ন প্রেসিডেন্ট নির্বাচনে প্রার্থী হিসেবে নাম রেজিস্ট্রি করেছেন।",
-        "summary_en": "Martine Moise, widow of slain Haitian President Jovenel Moise, has registered as a candidate for the upcoming presidential election.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-16T05:38:52+00:00",
-        "lead_bn": "২০২১ সালে নিহত হাইতির প্রেসিডেন্ট জোভেনেল মোইসের স্ত্রী মার্তিন মোইস দেশটির আসন্ন প্রেসিডেন্ট নির্বাচনে প্রার্থী হিসেবে নাম রেজিস্ট্রি করেছেন।",
-        "lead_en": "Martine Moise, widow of slain Haitian President Jovenel Moise, has registered as a candidate for the upcoming presidential election.",
-        "bullets_bn": [
-          "প্রvisional ইলেক্টোরাল কাউন্সিলের ওয়েবসাইটে মার্তিন মোইসের নাম দেখা গেছে।",
-          "তিনি বলেন যে রাজনীতি ভিন্নভাবে পরিচালনা করতে হবে এবং বিরোধীদের কারণে দেশ সংকটে।",
-          "৩৩ জন রেজিস্ট্রিকৃত প্রার্থীর মধ্যে তিনিসহ মাত্র তিনজন নারী রয়েছেন।"
-        ],
-        "bullets_en": [
-          "Martine Moise's name appeared as a candidate on the Provisional Electoral Council website.",
-          "She stated that politics needs to be done differently and blamed the opposition for bringing the country down.",
-          "She is one of three women among 33 registered presidential candidates."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "২০২১ সালে জোভেনেল মোইস নিহত হওয়ার পর থেকে হাইতিতে কোনো নির্বাচন হয়নি এবং অস্ত্রধারী গ্যাংয়ের প্রভাব ও নিরাপত্তার ঝুঁকির কারণে সাবেক নেতারা নির্বাচন বারবার পেছান। আগামী বছরের জুলাই মাসে প্রথম দফার ভোট অনুষ্ঠিত হওয়ার কথা রয়েছে। অন্যান্য প্রার্থীদের মধ্যে সাবেক রাষ্ট্রপতি মিশেল মার্তেলি ও জোসেলের্ম প্রিভেরে এবং সাবেক প্রধানমন্ত্রী ক্লদ জোসেফ রয়েছেন।",
-        "details_en": "Haiti has not held a presidential election since 2016, with successive leaders repeatedly delaying votes due to insecurity and expanding gang influence following the 2021 assassination of President Jovenel Moise. A first-round vote is set for July next year, featuring 33 registered candidates including former presidents Michel Martelly and Jocelerme Privert.",
-        "hook_bn": "হাইতিতে এক দশকে প্রথম প্রেসিডেন্ট নির্বাচনে লড়বেন নিহত নেতার স্ত্রী।",
-        "question_bn": "রাজনৈতিক অস্থিরতার মধ্যে এমন নির্বাচন দেশের পরিস্থিতিতে কতটা প্রভাব ফেলতে পারে বলে আপনার মনে হয়?"
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-16T07:03:14.937285+00:00"
-      }
-    },
-    {
-      "story_id": "cef47d3e-add3-510b-9bfa-929f9526bef3",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation",
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#Amazon",
-        "#Boeing",
-        "#LockheedMartin",
-        "#VulcanRocket"
-      ],
-      "image_url": "https://static.dw.com/image/79954151_6.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-16T04:27:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.1516,
-      "sources": [
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/govt-approves-two-new-thanas-and-two-municipalities-1603971",
+          "title": "Govt approves 2 new police stations, 2 municipalities in Bogura, Cox's Bazar and Sylhet",
+          "snippet": "Govt approves 2 new police stations, 2 municipalities in Bogura, Cox's Bazar and Sylhet"
+        },
         {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/rocket-from-boeing-lockheed-firm-fails-mid-flight-destroys-payload-of-amazon-satellites/a-79953931?maca=en-rss-en-all-1573-rdf",
-          "title": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites",
-          "snippet": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites"
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/post-1221164/",
+          "title": "নতুন দুই থানা ও দুই পৌরসভা গঠনের অনুমোদন",
+          "snippet": "নতুন দুই থানা ও দুই পৌরসভা গঠনের অনুমোদন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বোয়িং ও লকহিডের রকেটের মধ্য আকাশে ব্যর্থতায় অ্যামাজনের স্যাটেলাইট ধ্বংস।",
-        "title_en": "Boeing-Lockheed rocket fails mid-flight, destroying Amazon satellites.",
-        "summary_bn": "বোয়িং ও লকহিড মার্টিনের যৌথ উদ্যোগের একটি ভালকান রকেট উৎক্ষেপণের ১০ মিনিট পর ব্যর্থ হওয়ায় অ্যামাজনের ৪০টি ইন্টারনেট স্যাটেলাইট নষ্ট হয়েছে।",
-        "summary_en": "A Vulcan rocket operated by a Boeing and Lockheed Martin joint venture failed 10 minutes after liftoff, destroying 40 Amazon internet satellites.",
+        "title_bn": "সরকার নতুন দুটি থানা ও দুটি পৌরসভা গঠনের অনুমোদন দিয়েছে",
+        "title_en": "Government approves two new thanas and two municipalities",
+        "summary_bn": "প্রশাসনিক কার্যক্রম আরও গতিশীল করতে সরকার দুটি নতুন থানা এবং দুটি পৌরসভা গঠনের অনুমোদন দিয়েছে।",
+        "summary_en": "The government approved the establishment of two new thanas and two municipalities to make administrative activities more dynamic.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "tech_innovation",
-          "world_diplomacy"
+          "governance_law",
+          "society_education",
+          "sports_fitness"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-16T04:27:00+00:00",
-        "lead_bn": "বোয়িং ও লকহিড মার্টিনের যৌথ উদ্যোগের একটি ভালকান রকেট উৎক্ষেপণের ১০ মিনিট পর ব্যর্থ হওয়ায় অ্যামাজনের ৪০টি ইন্টারনেট স্যাটেলাইট নষ্ট হয়েছে।",
-        "lead_en": "A Vulcan rocket operated by a Boeing and Lockheed Martin joint venture failed 10 minutes after liftoff, destroying 40 Amazon internet satellites.",
+        "published_at": "2026-11-16T06:22:30+00:00",
+        "lead_bn": "প্রশাসনিক কার্যক্রম আরও গতিশীল করতে সরকার দুটি নতুন থানা এবং দুটি পৌরসভা গঠনের অনুমোদন দিয়েছে।",
+        "lead_en": "The government approved the establishment of two new thanas and two municipalities to make administrative activities more dynamic.",
         "bullets_bn": [
-          "কেপ ক্যানাভেরাল স্পেস ফোর্স স্টেশন থেকে উৎক্ষেপণের পর ভালকান যানে এই প্রথম এমন ঘটনা ঘটল।",
-          "মহাকাশযানের ফ্লাইট ডিরেক্টরের পাওয়া ডেটা অনুযায়ী যানটি ফ্লাইট চলাকালীন একটি সমস্যার মুখে পড়ে।",
-          "এই ব্যর্থতার কারণে ভালকান রকেটটি দীর্ঘ সময় ধরে মাটিতে আটকে থাকতে পারে।"
+          "বগুড়া ও কক্সবাজারে দুটি নতুন থানা এবং বগুড়া ও সিলেটে দুটি পৌরসভা অনুমোদিত হয়েছে।",
+          "নিকারের সভায় প্রশাসনিক পুনর্বিন্যাসের এসব সিদ্ধান্ত নেওয়া হয়েছে।",
+          "ময়মনসিংহের নবসৃষ্ট দক্ষিণ গফরগাঁও উপজেলার পাগলা থানার নাম পরিবর্তন করে দক্ষিণ গফরগাঁও থানা করা হয়েছে।"
         ],
         "bullets_en": [
-          "This marks the first mission failure for the Vulcan vehicle following its launch from the Cape Canaveral Space Force Station.",
-          "According to data received by the Launch Director, the vehicle suffered an anomaly during the flight.",
-          "The failure is expected to potentially ground the Vulcan rocket for months following a lengthy technical investigation."
+          "Two new thanas in Bogra and Cox's Bazar and two municipalities in Bogra and Sylhet were approved.",
+          "These decisions on administrative reorganization were taken at a meeting of Nican.",
+          "Pagla Thana in the newly created Dakshin Gafargaon Upazila of Mymensingh was renamed Dakshin Gafargaon Thana."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ঘটনার সঠিক কারণ তাৎক্ষণিকভাবে স্পষ্ট হয়নি এবং ইউএলএ জানিয়েছে প্রতিটি ফ্লাইট থেকে তারা শিক্ষা নেয়। অ্যামাজন জানিয়েছে, এই মিশনে ঝুঁকি থাকলেও ইউএলএ বিশ্বস্ত অংশীদার এবং তারা ভালকানের দীর্ঘমেয়াদী পরিকল্পনা বাস্তবায়ন করবে।",
-        "details_en": "The exact cause was not immediately clear, and ULA stated that every flight teaches them something. Amazon said that while risk exists in any launch, ULA remains a trusted partner that will deliver on long-term plans for Vulcan.",
-        "hook_bn": "রকেটের মধ্য আকাশে ব্যর্থতায় নষ্ট হলো অ্যামাজনের ৪০ স্যাটেলাইট।",
-        "question_bn": null
+        "impact_bn": "প্রশাসনিক কার্যক্রম আরও গতিশীল এবং নাগরিক সেবা জনগণের দোরগোড়ায় পৌঁছে দিতে এই অনুমোদন দেওয়া হয়েছে।",
+        "impact_en": "This approval was given to make administrative activities more dynamic and deliver citizen services to people's doorsteps.",
+        "details_bn": "প্রশাসনিক পুনর্বিন্যাস সংক্রান্ত জাতীয় বাস্তবায়ন কমিটির সভায় নতুন থানা ও পৌরসভা গঠনের পাশাপাশি একটি থানার নাম পরিবর্তন এবং নবসৃষ্ট দুটি উপজেলার প্রশাসনিক সদর দফতর স্থানান্তরের প্রস্তাব অনুমোদন করা হয়েছে।",
+        "details_en": "At the meeting of the National Implementation Committee for Administrative Reorganization, proposals were approved for the formation of new thanas and municipalities, renaming a thana, and relocating the administrative headquarters of two upazilas.",
+        "hook_bn": "নতুন দুটি থানা ও দুটি পৌরসভা গঠনের অনুমোদন দিয়েছে সরকার।",
+        "question_bn": "আপনার এলাকায় নতুন প্রশাসনিক ইউনিট যুক্ত হলে কী ধরনের সুবিধা হতে পারে বলে আপনার মনে হয়?"
       },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 5.0,
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": true,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-16T07:03:14.937285+00:00"
+        "checked_at": "2026-11-16T08:01:43.427162+00:00"
       }
     }
   ]
