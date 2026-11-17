@@ -1,136 +1,355 @@
 {
-  "updated_at": "2026-11-17T01:00:47.544694",
-  "total_stories": 2,
+  "updated_at": "2026-11-17T02:00:40.611278",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "85e97ec7-f74b-52cf-9397-e7e75deddb45",
-      "primary_category": "society_education",
+      "story_id": "f924194a-6627-5e17-88c5-7597fa6d2ad1",
+      "primary_category": "climate_environment",
       "interest_categories": [
-        "society_education"
+        "climate_environment",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#Climate",
+        "#Environment"
       ],
-      "image_url": "https://images.unsplash.com/photo-1523350703530-161b46e28e24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Y29uZGl0aW9uJTIwdHdlbnR5JTIweWVhcnMlMjBhZ2UlMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NDg3NzMzOXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/cyclone-20261117073600.jpg?cid=498488",
       "image_caption": null,
-      "published_at": "2026-11-16T23:59:00+00:00",
+      "published_at": "2026-11-17T01:36:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.6111,
+      "importance_score": 7.5,
+      "rank_score": 5.4888,
       "sources": [
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821401/%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A7%9F%E0%A6%95%E0%A6%B0%E0%A6%A3-%E0%A6%B9%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%B2%E0%A7%87-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%9F%E0%A6%B8-%E0%A6%95%E0%A6%AE%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87",
-          "title": "জাতীয়করণ হতে হলে শিক্ষা প্রতিষ্ঠানের বয়স কমপক্ষে ২৫ বছর হওয়ার নতুন শর্ত",
-          "snippet": "জাতীয়করণ হতে হলে শিক্ষা প্রতিষ্ঠানের বয়স কমপক্ষে ২৫ বছর হওয়ার নতুন শর্ত"
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/national/498488",
+          "title": "২০ নভেম্বর ভারতের অন্ধ্র উপকূলে আঘাত হানতে পারে ঘূর্ণিঝড় ‘আকভান’",
+          "snippet": "২০ নভেম্বর ভারতের অন্ধ্র উপকূলে আঘাত হানতে পারে ঘূর্ণিঝড় ‘আকভান’"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/weather/981409/%E0%A6%86%E0%A6%9C-%E0%A6%B9%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A6%95%E0%A6%AE%E0%A6%AC%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%AA%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE",
+          "title": "আজ হতে পারে বৃষ্টি, আরও কমবে তাপমাত্রা",
+          "snippet": "আজ হতে পারে বৃষ্টি, আরও কমবে তাপমাত্রা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বেসরকারি শিক্ষাপ্রতিষ্ঠান জাতীয়করণে নতুন শর্ত হিসেবে ২৫ বছরের বয়স নির্ধারণ করা হয়েছে।",
-        "title_en": "New condition of twenty five years age set for nationalization of private educational institutions.",
-        "summary_bn": "বেসরকারি শিক্ষাপ্রতিষ্ঠান সরকারিকরণের নতুন নীতিমালায় প্রতিষ্ঠানগুলোর বয়স কমপক্ষে ২৫ বছর হওয়ার শর্ত আরোপ করা হয়েছে।",
-        "summary_en": "The new policy for nationalizing private educational institutions requires them to be at least twenty five years old.",
+        "title_bn": "ঘূর্ণিঝড় আকভান ২০ নভেম্বর অন্ধ্র উপকূলে আঘাত হানতে পারে",
+        "title_en": "Cyclone Akvan may strike the Andhra coast on November 20",
+        "summary_bn": "বঙ্গোপসাগরে সৃষ্ট ঘূর্ণিঝড় আকভান আগামী ২০ নভেম্বর সন্ধ্যা নাগাদ অতি প্রবল ঘূর্ণিঝড়ে রূপ নিয়ে ভারতের অন্ধ্র উপকূল অতিক্রম করতে পারে।",
+        "summary_en": "Cyclone Akvan formed in the Bay of Bengal may cross the Andhra coast of India as a very severe cyclonic storm by the evening of November 20.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education"
+          "climate_environment",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-16T23:59:00+00:00",
-        "lead_bn": "বেসরকারি শিক্ষাপ্রতিষ্ঠান সরকারিকরণের নতুন নীতিমালায় প্রতিষ্ঠানগুলোর বয়স কমপক্ষে ২৫ বছর হওয়ার শর্ত আরোপ করা হয়েছে।",
-        "lead_en": "The new policy for nationalizing private educational institutions requires them to be at least twenty five years old.",
+        "published_at": "2026-11-17T01:36:00+00:00",
+        "lead_bn": "বঙ্গোপসাগরে সৃষ্ট ঘূর্ণিঝড় আকভান আগামী ২০ নভেম্বর সন্ধ্যা নাগাদ অতি প্রবল ঘূর্ণিঝড়ে রূপ নিয়ে ভারতের অন্ধ্র উপকূল অতিক্রম করতে পারে।",
+        "lead_en": "Cyclone Akvan formed in the Bay of Bengal may cross the Andhra coast of India as a very severe cyclonic storm by the evening of November 20.",
         "bullets_bn": [
-          "বেসরকারি শিক্ষাপ্রতিষ্ঠান সরকারিকরণ নীতিমালা-২০২৬-এর খসড়া চূড়ান্ত করতে আন্তঃমন্ত্রণালয়ের সভা অনুষ্ঠিত হয়।",
-          "শিক্ষা মন্ত্রণালয়ের মাধ্যমিক ও উচ্চশিক্ষা বিভাগের সভাকক্ষে এই সভা অনুষ্ঠিত হয়।",
-          "নতুন শর্তে ন্যূনতম শিক্ষার্থী সংখ্যা ও পাবলিক পরীক্ষায় অংশগ্রহণকারী শিক্ষার্থীর শর্ত বাদ দেওয়া হয়েছে।"
+          "দেশের চার সমুদ্রবন্দরকে ২ নম্বর দূরবর্তী হুঁশিয়ারি সংকেত দেখিয়ে যেতে বলেছে আবহাওয়া অধিদপ্তর।",
+          "ঘূর্ণিঝড়টির কেন্দ্রের ৫৪ কিলোমিটারের মধ্যে বাতাসের একটানা সর্বোচ্চ গতিবেগ ঘণ্টায় ৬২ কিলোমিটার।",
+          "খুলনা, বরিশাল ও চট্টগ্রাম বিভাগের দুয়েক জায়গায় বৃষ্টি ও বজ্রসহ বৃষ্টি হতে পারে।"
         ],
         "bullets_en": [
-          "An inter-ministerial meeting was held to finalize the draft of the private educational institution nationalization policy two thousand twenty-six.",
-          "The meeting took place in the conference room of the Secondary and Higher Education Division of the Ministry of Education.",
-          "The new conditions removed the requirements for minimum student numbers and students participating in public exams."
+          "The Met Office has asked four maritime ports of the country to hoist distant warning signal number 2.",
+          "The maximum sustained wind speed within 54 kilometres of the cyclone centre is 62 kilometres per hour.",
+          "Rain and thundershowers may occur at one or two places over Khulna, Barishal and Chattogram divisions."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বেসরকারি শিক্ষাপ্রতিষ্ঠান সরকারিকরণ নীতিমালা-২০২৬-এর খসড়া চূড়ান্ত করতে এই আন্তঃমন্ত্রণালয়ের সভা অনুষ্ঠিত হয়। শিক্ষা মন্ত্রণালয়ের মাধ্যমিক ও উচ্চশিক্ষা বিভাগের সভাকক্ষে এই সভা হয়। সভায় শিক্ষা প্রতিষ্ঠান জাতীয়করণের শর্তে পরিবর্তন আনা হয়।",
-        "details_en": "This inter-ministerial meeting was held to finalize the draft of the private educational institution nationalization policy two thousand twenty-six. The meeting took place in the conference room of the Secondary and Higher Education Division of the Ministry of Education. Changes were made to the conditions for nationalizing educational institutions in the meeting.",
-        "hook_bn": "বেসরকারি শিক্ষাপ্রতিষ্ঠান জাতীয়করণে সর্বনিম্ন বয়স হতে হবে পঁচিশ বছর।",
-        "question_bn": "বেসরকারি শিক্ষাপ্রতিষ্ঠান জাতীয়করণের এই নতুন বয়সসীমার শর্ত নিয়ে আপনাদের মতামত কী?"
+        "details_bn": "১৭ নভেম্বর আবহাওয়া অধিদপ্তরের ঝড় সতর্কীকরণ কেন্দ্রের বিশেষ বিজ্ঞপ্তিতে জানানো হয়, ঘূর্ণিঝড়টি দক্ষিণ-পূর্ব বঙ্গোপসাগর ও তৎসংলগ্ন পশ্চিম-মধ্য বঙ্গোপসাগর এলাকায় অবস্থান করছে। এটি চট্টগ্রাম সমুদ্রবন্দর থেকে ১ হাজার ৩০৫ কিলোমিটার দক্ষিণ-পশ্চিমে, কক্সবাজার সমুদ্রবন্দর থেকে ১ হাজার ২৪৫ কিলোমিটার দক্ষিণ-পশ্চিমে, মোংলা সমুদ্রবন্দর থেকে ১ হাজার ২২৫ কিলোমিটার দক্ষিণ-পশ্চিমে এবং পায়রা সমুদ্রবন্দর থেকে ১ হাজার ২০৫ কিলোমিটার দক্ষিণ-পশ্চিমে অবস্থান করছিল। উত্তর বঙ্গোপসাগরে অবস্থানরত মাছ ধরার নৌকা ও ট্রলারগুলোকে উপকূলের কাছাকাছি থেকে সাবধানে চলাচল করতে বলা হয়েছে। এছাড়া দেশের অন্যত্র অস্থায়ীভাবে আংশিক মেঘলা আকাশসহ আবহাওয়া প্রধানত শুষ্ক থাকতে পারে এবং দিন ও রাতের তাপমাত্রা সামান্য কমতে পারে।",
+        "details_en": "According to a special bulletin of the Storm Warning Centre of the Meteorological Department on November 17, the cyclone is located over the southeast and adjoining west-central Bay of Bengal. It was located 1,305 kilometres southwest of Chattogram maritime port, 1,245 kilometres southwest of Cox's Bazar maritime port, 1,225 kilometres southwest of Mongla maritime port, and 1,205 kilometres southwest of Payra maritime port. Fishing boats and trawlers operating in the north Bay of Bengal have been asked to remain close to the coast and proceed with caution. Besides, weather may remain mainly dry with temporary partly cloudy skies elsewhere in the country, and day and night temperatures may fall slightly.",
+        "hook_bn": "ঘূর্ণিঝড় আকভানের প্রভাবে দেশের চার সমুদ্রবন্দরে ২ নম্বর হুঁশিয়ারি সংকেত জারি।",
+        "question_bn": null
       },
       "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": false,
+      "outlet_count": 2,
+      "trending": true,
       "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-17T01:03:04.122597+00:00"
+        "checked_at": "2026-11-17T02:02:08.707968+00:00"
       }
     },
     {
-      "story_id": "f366a2af-870f-50c5-a3ab-b205645e2c1e",
-      "primary_category": "tech_innovation",
+      "story_id": "482dc16c-c3d0-5f5f-a255-2cacef580232",
+      "primary_category": "sports_fitness",
       "interest_categories": [
-        "tech_innovation"
+        "sports_fitness",
+        "governance_law"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#NASA",
-        "#Voyager1",
-        "#Space"
+        "#Sports",
+        "#BangladeshCricket"
       ],
-      "image_url": "https://static.dw.com/image/79958286_6.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-16%2Fsdzp66zv%2FLitton-Das-after-100-at-Johannesburg-BCB-2.jpeg?rect=0%2C0%2C1958%2C1028&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-16T17:24:00+00:00",
+      "published_at": "2026-11-17T01:30:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 1.6084,
+      "importance_score": 6.25,
+      "rank_score": 3.7897,
       "sources": [
         {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/nasa-s-voyager-1-reaches-a-light-day-away-from-earth/a-79961817?maca=en-rss-en-all-1573-rdf",
-          "title": "NASA's Voyager 1 reaches a light-day away from Earth",
-          "snippet": "NASA's Voyager 1 reaches a light-day away from Earth"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/sports/cricket/nwo1o9wou6",
+          "title": "নভেম্বরেই প্রথম, নভেম্বরেই ৫০, নভেম্বরেই বাংলাদেশের সেঞ্চুরির সেঞ্চুরি",
+          "snippet": "নভেম্বরেই প্রথম, নভেম্বরেই ৫০, নভেম্বরেই বাংলাদেশের সেঞ্চুরির সেঞ্চুরি"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/sports/498491",
+          "title": "‘সেঞ্চুরি করতে না পারলে চিঠি পকেটেই থেকে যেত’",
+          "snippet": "‘সেঞ্চুরি করতে না পারলে চিঠি পকেটেই থেকে যেত’"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নাসার ভয়েজার ওয়ান পৃথিবী থেকে এক আলোক-দিন দূরে পৌঁছেছে।",
-        "title_en": "NASA's Voyager 1 reaches a light-day away from Earth.",
-        "summary_bn": "১৯৭৭ সালে উৎক্ষেপিত নাসার মহাকাশযান ভয়েজার ওয়ান পৃথিবী থেকে ২৬ বিলিয়ন কিলোমিটার বা এক আলোক-দিন দূরত্ব অতিক্রম করেছে।",
-        "summary_en": "NASA's Voyager 1 spacecraft, launched in 1977, has traveled a light-day or about 26 billion kilometers away from Earth.",
+        "title_bn": "টেস্টে বাংলাদেশের সেঞ্চুরির সেঞ্চুরি পূর্ণ করলেন লিটন দাস",
+        "title_en": "Liton Das completes Bangladesh test centuries century",
+        "summary_bn": "দক্ষিণ আফ্রিকার বিপক্ষে জোহানেসবার্গে টেস্টে বাংলাদেশের ১০০তম সেঞ্চুরি পূর্ণ করেছেন লিটন দাস।",
+        "summary_en": "Liton Das completed Bangladesh test hundredth century against South Africa in Johannesburg.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "tech_innovation"
+          "sports_fitness",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-16T17:24:00+00:00",
-        "lead_bn": "১৯৭৭ সালে উৎক্ষেপিত নাসার মহাকাশযান ভয়েজার ওয়ান পৃথিবী থেকে ২৬ বিলিয়ন কিলোমিটার বা এক আলোক-দিন দূরত্ব অতিক্রম করেছে।",
-        "lead_en": "NASA's Voyager 1 spacecraft, launched in 1977, has traveled a light-day or about 26 billion kilometers away from Earth.",
+        "published_at": "2026-11-17T01:30:00+00:00",
+        "lead_bn": "দক্ষিণ আফ্রিকার বিপক্ষে জোহানেসবার্গে টেস্টে বাংলাদেশের ১০০তম সেঞ্চুরি পূর্ণ করেছেন লিটন দাস।",
+        "lead_en": "Liton Das completed Bangladesh test hundredth century against South Africa in Johannesburg.",
         "bullets_bn": [
-          "মহাকাশযানটি প্রতি ঘণ্টায় ৬১,০০০ কিলোমিটার গতিতে ভ্রমণ করছে।",
-          "মূল মিশন শেষ হওয়ার পর বৃহস্পতি ও শনির মাধ্যাকর্ষণ শক্তি ব্যবহার করে ভয়েজার ওয়ান এই গতি অর্জন করেছে।",
-          "ভয়েজার ওয়ান উৎক্ষেপণের সময় বৃহস্পতি, শনি, ইউরেনাস ও নেপচুনের একটি বিরল গ্রহীয় সারিবদ্ধতা ছিল।"
+          "টেস্টে নবম দেশ হিসেবে সেঞ্চুরির সেঞ্চুরি দেখা বাংলাদেশ এই মাইলফলক পেল ১৬৫তম ম্যাচে।",
+          "আমিনুল ইসলামের অভিষেক সেঞ্চুরির ঠিক ১৮ বছর পর ১১ নভেম্বর ৫০ সেঞ্চুরির মাইলফলক ছুঁয়েছিল বাংলাদেশ।",
+          "বাংলাদেশ ৫০তম সেঞ্চুরি পায় ১১০ নম্বর টেস্টে এবং পরের ৫০ সেঞ্চুরি পায় ৫৫ ম্যাচ খেলে।"
         ],
         "bullets_en": [
-          "The spacecraft is traveling at an incredible speed of 61,000 km/h.",
-          "Voyager 1 achieved its speed by using Jupiter and Saturn to perform a gravitational slingshot.",
-          "When launched, Voyager 1 was in sync with a planetary alignment of Jupiter, Saturn, Uranus and Neptune."
+          "Bangladesh became the ninth country to reach a hundred centuries in test cricket in their 165th match.",
+          "Bangladesh reached the milestone of 50 centuries on 11 November, exactly 18 years after Aminul Islam's debut century.",
+          "Bangladesh achieved their 50th century in their 110th test and the next 50 centuries in 55 matches."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "মহাকাশযানটি উৎক্ষেপণের পর বিজ্ঞানীদের উদ্দেশ্য ছিল বিরল গ্রহীয় সারিবদ্ধতার সময় বৃহস্পতি, শনি, ইউরেনাস ও নেপচুন তদন্ত করা। মূল মিশন সফলভাবে সম্পন্ন হওয়ার পর মহাকাশযানটি বৃহস্পতি ও শনির কাছাকাছি দিয়ে যাওয়ার সময় সেগুলোর বিশাল মাধ্যাকর্ষণ শক্তির টানে ত্বরান্বিত হয় এবং আগের চেয়ে দ্রুত গতিতে ঘুরে যায়।",
-        "details_en": "When Voyager 1 launched, it was in sync with a planetary alignment of Jupiter, Saturn, Uranus and Neptune that happens once every 176 years. Once the original mission was accomplished, the spacecraft used Jupiter and Saturn to perform a gravitational slingshot, getting pulled and accelerated by their massive gravity to achieve its current speed.",
-        "hook_bn": "নাসার ভয়েজার ওয়ান পৃথিবী থেকে এক আলোক-দিন দূরে পৌঁছেছে।",
-        "question_bn": "মহাকাশ গবেষণার এই অর্জন সম্পর্কে আপনার মতামত কী?"
+        "details_bn": "ভারতের বিপক্ষে ম্যাচের দ্বিতীয় দিনে আমিনুল ইসলাম দেশের টেস্ট অভিষেকে প্রথম সেঞ্চুরি পান। জিম্বাবুয়ের বিপক্ষে মিরপুরে মুমিনুল হকের ব্যাটে আসে বাংলাদেশের ৫০তম সেঞ্চুরি। সবচেয়ে কম ৯১ ম্যাচে শততম শতক ছুঁয়েছিল ওয়েস্ট ইন্ডিজ এবং নিউজিল্যান্ডের ১৮৩ ম্যাচে লেগেছে সবচেয়ে বেশি। টেস্ট ইতিহাসের প্রথম দেশ হিসেবে ১৯২৮ সালে ব্রিসবেনে অস্ট্রেলিয়ার বিপক্ষে সেঞ্চুরির সেঞ্চুরি দেখেছিল ইংল্যান্ড।",
+        "details_en": "Aminul Islam scored the first test century for Bangladesh on the second day of the match against India. Mominul Haque scored the 50th century for Bangladesh against Zimbabwe in Mirpur. West Indies reached the century milestone in the fewest 91 matches, while New Zealand took the most with 183 matches. England was the first country in test history to reach a hundred centuries against Australia in Brisbane in 1928.",
+        "hook_bn": "দক্ষিণ আফ্রিকার বিপক্ষে টেস্টে বাংলাদেশের সেঞ্চুরির সেঞ্চুরি পূর্ণ করলেন লিটন দাস।",
+        "question_bn": "বাংলাদেশের টেস্ট ক্রিকেটের এই দীর্ঘ পথচলায় আপনার সেরা স্মৃতির কথা কমেন্টে জানান।"
       },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
+      "desk_importance": 6.0,
+      "outlet_count": 2,
       "trending": false,
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-17T01:03:04.122597+00:00"
+        "checked_at": "2026-11-17T02:02:08.707968+00:00"
+      }
+    },
+    {
+      "story_id": "b6c0ac9a-2c9c-58f1-b705-1b21dedf8c14",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#RuralStudents",
+        "#EducationSystem"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1708461860702-0a821d06cfed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8c29jaWV0eSUyMGVkdWNhdGlvbiUyMGhvbGQlMjB1bndyaXR0ZW4lMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NDg4MDkxN3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-17T02:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4964,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/tribune-z/424791/the-invisible-wall-between-rural-students-and-the",
+          "title": "The invisible wall between rural students and the world",
+          "snippet": "The invisible wall between rural students and the world"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সমাজ ও শিক্ষাব্যবস্থায় রয়েছে মেধাবী শিক্ষার্থী নিয়ে এক অলিখিত বিশ্বাস।",
+        "title_en": "Society and education hold an unwritten belief about brilliant students.",
+        "summary_bn": "আমাদের সমাজ ও শিক্ষাব্যবস্থায় একটি অলিখিত বিশ্বাস রয়েছে যে রাজধানীখ্যাত বিশ্ববিদ্যালয়গুলোর শিক্ষার্থীরাই কেবল মেধাবী।",
+        "summary_en": "Our society and education system carry an unwritten belief that brilliant students are the ones from renowned universities in the capital.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T02:00:00+00:00",
+        "lead_bn": "আমাদের সমাজ ও শিক্ষাব্যবস্থায় একটি অলিখিত বিশ্বাস রয়েছে যে রাজধানীখ্যাত বিশ্ববিদ্যালয়গুলোর শিক্ষার্থীরাই কেবল মেধাবী।",
+        "lead_en": "Our society and education system carry an unwritten belief that brilliant students are the ones from renowned universities in the capital.",
+        "bullets_bn": [
+          "সমাজ ও শিক্ষাব্যবস্থায় মেধাবী শিক্ষার্থী নিয়ে একটি অলিখিত বিশ্বাস কাজ করে।",
+          "রাজধানীখ্যাত বিশ্ববিদ্যালয়গুলোর শিক্ষার্থীদেরই কেবল মেধাবী হিসেবে বিবেচনা করার একটি প্রবণতা রয়েছে।",
+          "এই বিশ্বাস গ্রামীণ শিক্ষার্থীদের সঙ্গে বিশ্বের মধ্যে এক অদৃশ্য দেওয়াল তৈরি করে।"
+        ],
+        "bullets_en": [
+          "Our society and education system carry an unwritten belief about brilliant students.",
+          "There is a prevailing belief linked to students from renowned universities in the capital.",
+          "This belief creates an invisible wall between rural students and the world."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ঢাকা ট্রিবিউনের প্রকাশিত প্রতিবেদন অনুযায়ী, আমাদের সমাজ ও শিক্ষাব্যবস্থায় এই অলিখিত বিশ্বাসটি রয়েছে যে কেবল রাজধানীর খ্যাতনামা বিশ্ববিদ্যালয়গুলোর শিক্ষার্থীড়াই মেধাবী। এই ধারণার কারণে গ্রামীণ শিক্ষার্থীদের সঙ্গে বহুল বিশ্বের মধ্যে এক অদৃশ্য দেওয়ালের সৃষ্টি হয়েছে।",
+        "details_en": "According to the Dhaka Tribune report, our society and education system carry an unwritten belief that brilliant students are the ones from renowned universities in the capital. This notion creates an invisible wall between rural students and the world.",
+        "hook_bn": "রাজধানীর বিশ্ববিদ্যালয়ের শিক্ষার্থীরাই কি কেবল মেধাবী?",
+        "question_bn": "গ্রামীণ শিক্ষার্থীদের এগিয়ে নিতে আমাদের শিক্ষাব্যবস্থায় কী ধরনের পরিবর্তন আনা দরকার বলে আপনি মনে করেন?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T02:02:08.707968+00:00"
+      }
+    },
+    {
+      "story_id": "31b89266-922f-5f7f-a6fe-0a2c06bc7a99",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#MiddleEast",
+        "#USMilitary",
+        "#Iran"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2020/07/06/usa_navy.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-17T01:50:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4725,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/explainer/us-preparing-another-round-fighting-iran-1604951",
+          "title": "Is the US preparing for another round of fighting with Iran?",
+          "snippet": "Is the US preparing for another round of fighting with Iran?"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মধ্যপ্রাচ্যে তৃতীয় মার্কিন বিমানবাহী রণতরী পৌঁছেছে",
+        "title_en": "Third US aircraft carrier arrives in the Middle East",
+        "summary_bn": "মধ্যপ্রাচ্যে মার্কিন সামরিক উপস্থিতির অংশ হিসেবে তৃতীয় একটি বিমানবাহী রণতরী পৌঁছেছে।",
+        "summary_en": "A third US aircraft carrier has arrived in the Middle East as part of the regional military build-up.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T01:50:00+00:00",
+        "lead_bn": "মধ্যপ্রাচ্যে মার্কিন সামরিক উপস্থিতির অংশ হিসেবে তৃতীয় একটি বিমানবাহী রণতরী পৌঁছেছে।",
+        "lead_en": "A third US aircraft carrier has arrived in the Middle East as part of the regional military build-up.",
+        "bullets_bn": [
+          "পারমাণবিক শক্তিচালিত ইউএসএস থিওডোর রুজভেল্ট ১৫ নভেম্বর ২০২৬ তারিখে মধ্যপ্রাচ্যে পৌঁছেছে।",
+          "যুক্তরাষ্ট্রের সেন্টকম ও পেন্টাগন রণতরীটির আগমন আনুষ্ঠানিকভাবে এখনো নিশ্চিত করেনি।",
+          "যুক্তরাষ্ট্রের এই পদক্ষেপে নয় থেকে ১০ হাজার অতিরিক্ত সেনা মধ্যপ্রাচ্যে পাঠানো হয়েছে।"
+        ],
+        "bullets_en": [
+          "The nuclear-powered USS Theodore Roosevelt arrived in the Middle East on November 15, 2026.",
+          "CENTCOM and the Pentagon have yet to officially confirm the arrival of the carrier.",
+          "The deployment contributes to an estimated 9,000 to 10,000 additional US troops sent to the region."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "যুক্তরাষ্ট্র ও ইসরায়েলের ইরান যুদ্ধ বন্ধের কূটনৈতিক প্রচেষ্টা থমকে যাওয়ার প্রেক্ষাপটে এই সামরিক শক্তি বৃদ্ধি করা হয়েছে। কাতার ও পাকিস্তানের মধ্যস্থতায় হরমুজ প্রণালি পুনরায় সচল করার প্রচেষ্টা এগোচ্ছে না। যুদ্ধ শুরু হওয়ার পর এটি ইরাক যুদ্ধের পর এই অঞ্চলে সবচেয়ে বড় মার্কিন বিমানবাহিনীর উপস্থিতি।",
+        "details_en": "The military build-up comes as diplomatic efforts to end the US-Israel war on Iran remain stalled. Qatari and Pakistani mediation efforts to reopen the Strait of Hormuz have made little progress. The deployment marks the largest US airpower deployment in the region since the Iraq War.",
+        "hook_bn": "মধ্যপ্রাচ্যে পৌঁছেছে তৃতীয় মার্কিন বিমানবাহী রণতরী",
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T02:02:08.707968+00:00"
+      }
+    },
+    {
+      "story_id": "70491ff5-e312-59bd-8334-5364ffcc3522",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "tech_innovation"
+      ],
+      "region": "international",
+      "tags": [
+        "#FederalReserve",
+        "#KevinWarsh",
+        "#ArtificialIntelligence",
+        "#GinaRaimondo"
+      ],
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108552211-1794850759211-gettyimages-2304954172-FEDERAL_RESERVE_CONFERENCE.jpeg?v=1794850787&w=1920&h=1080",
+      "image_caption": null,
+      "published_at": "2026-11-17T00:42:33+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.3171,
+      "sources": [
+        {
+          "name": "CNBC Global Economy",
+          "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+          "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+          "snippet": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মার্কিন কেন্দ্রীয় ব্যাংক এআই খাতের প্রভাব নিয়ে প্রস্তুতি নিচ্ছে",
+        "title_en": "US Federal Reserve braces for economic impact from artificial intelligence",
+        "summary_bn": "কৃত্রিম বুদ্ধিমত্তা অর্থনীতিতে ছড়িয়ে পড়ার মুখে মার্কিন কেন্দ্রীয় ব্যাংক ফেড এর প্রভাব মোকাবেলার প্রস্তুতি নিচ্ছে।",
+        "summary_en": "As artificial intelligence sweeps through the economy, the US Federal Reserve is bracing for impact.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T00:42:33+00:00",
+        "lead_bn": "কৃত্রিম বুদ্ধিমত্তা অর্থনীতিতে ছড়িয়ে পড়ার মুখে মার্কিন কেন্দ্রীয় ব্যাংক ফেড এর প্রভাব মোকাবেলার প্রস্তুতি নিচ্ছে।",
+        "lead_en": "As artificial intelligence sweeps through the economy, the US Federal Reserve is bracing for impact.",
+        "bullets_bn": [
+          "ফেড চেয়ারম্যান কেভিন ওয়ারশ সান ফ্রান্সিসকোতে একটি সম্মেলন ডেকে এআই খাতের অর্থনৈতিক প্রভাব নিয়ে আলোচনা করেছেন।",
+          "প্রাক্তন বাণিজ্য সচিব জিনা রাইমন্ডো ডাটা সেন্টার নির্মাণের বিরুদ্ধে মধ্যবর্তী নির্বাচনের পদক্ষেপকে খুবই উদ্বেগজনক বলে মন্তব্য করেছেন।",
+          "এআই খাতের অতিরিক্ত ব্যয়ের কারণে ফেড ডিসেম্বর মাসে সুদের হার বাড়ানোর কথা বিবেচনা করছে।"
+        ],
+        "bullets_en": [
+          "Fed Chairman Kevin Warsh convened a conference in San Francisco to discuss the economic implications of AI.",
+          "Former commerce secretary Gina Raimondo called midterms measures against data center construction a very troubling sign.",
+          "Vast spending from AI firms is prompting the Fed to contemplate raising interest rates in December."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মার্কিন অর্থনীতি এক সংযোগস্থলে রয়েছে বলে ফেড চেয়ারম্যান কেভিন ওয়ারশ সান ফ্রান্সিসকোতে একটি সম্মেলনে জানিয়েছেন। কৃত্রিম বুদ্ধিমত্তা খাতের দ্রুত অগ্রগতির মধ্যে এনথ্রোপিক নামের একটি এআই ল্যাব তাদের প্রাথমিক গণপ্রস্তাব বা আইপিও-র শেয়ারের মূল্য নির্ধারণের পরিকল্পনা করেছে। இதற்கிடையில், মার্কিন ভোটাররা গত মধ্যবর্তী নির্বাচনে ডাটা সেন্টার নির্মাণের গতি ধীর করতে বেশ কিছু রাজ্যস্তরের ব্যবস্থা নিয়েছেন।",
+        "details_en": "Federal Reserve Chairman Kevin Warsh stated at a conference in San Francisco that the US economy is at a hinge point. Amid rapid technological advancement, AI lab Anthropic plans to price its initial public offering shares. Meanwhile, US voters enacted state-level measures in the midterms to slow down data center construction.",
+        "hook_bn": "কৃত্রিম বুদ্ধিমত্তা খাতের প্রভাব মোকাবেলার প্রস্তুতি নিচ্ছে মার্কিন কেন্দ্রীয় ব্যাংক।",
+        "question_bn": "কৃত্রিম বুদ্ধিমত্তা প্রযুক্তি আমাদের দৈনন্দিন জীবনে কতটা প্রভাব ফেলছে বলে আপনার মনে হয়?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 3.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T02:02:08.707968+00:00"
       }
     }
   ]
