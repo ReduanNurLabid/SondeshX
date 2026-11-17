@@ -1,355 +1,226 @@
 {
-  "updated_at": "2026-11-17T02:00:40.611278",
-  "total_stories": 5,
+  "updated_at": "2026-11-17T03:00:56.819733",
+  "total_stories": 3,
   "stories": [
     {
-      "story_id": "f924194a-6627-5e17-88c5-7597fa6d2ad1",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/cyclone-20261117073600.jpg?cid=498488",
-      "image_caption": null,
-      "published_at": "2026-11-17T01:36:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 5.4888,
-      "sources": [
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/national/498488",
-          "title": "২০ নভেম্বর ভারতের অন্ধ্র উপকূলে আঘাত হানতে পারে ঘূর্ণিঝড় ‘আকভান’",
-          "snippet": "২০ নভেম্বর ভারতের অন্ধ্র উপকূলে আঘাত হানতে পারে ঘূর্ণিঝড় ‘আকভান’"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/weather/981409/%E0%A6%86%E0%A6%9C-%E0%A6%B9%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A6%95%E0%A6%AE%E0%A6%AC%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%AA%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE",
-          "title": "আজ হতে পারে বৃষ্টি, আরও কমবে তাপমাত্রা",
-          "snippet": "আজ হতে পারে বৃষ্টি, আরও কমবে তাপমাত্রা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ঘূর্ণিঝড় আকভান ২০ নভেম্বর অন্ধ্র উপকূলে আঘাত হানতে পারে",
-        "title_en": "Cyclone Akvan may strike the Andhra coast on November 20",
-        "summary_bn": "বঙ্গোপসাগরে সৃষ্ট ঘূর্ণিঝড় আকভান আগামী ২০ নভেম্বর সন্ধ্যা নাগাদ অতি প্রবল ঘূর্ণিঝড়ে রূপ নিয়ে ভারতের অন্ধ্র উপকূল অতিক্রম করতে পারে।",
-        "summary_en": "Cyclone Akvan formed in the Bay of Bengal may cross the Andhra coast of India as a very severe cyclonic storm by the evening of November 20.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T01:36:00+00:00",
-        "lead_bn": "বঙ্গোপসাগরে সৃষ্ট ঘূর্ণিঝড় আকভান আগামী ২০ নভেম্বর সন্ধ্যা নাগাদ অতি প্রবল ঘূর্ণিঝড়ে রূপ নিয়ে ভারতের অন্ধ্র উপকূল অতিক্রম করতে পারে।",
-        "lead_en": "Cyclone Akvan formed in the Bay of Bengal may cross the Andhra coast of India as a very severe cyclonic storm by the evening of November 20.",
-        "bullets_bn": [
-          "দেশের চার সমুদ্রবন্দরকে ২ নম্বর দূরবর্তী হুঁশিয়ারি সংকেত দেখিয়ে যেতে বলেছে আবহাওয়া অধিদপ্তর।",
-          "ঘূর্ণিঝড়টির কেন্দ্রের ৫৪ কিলোমিটারের মধ্যে বাতাসের একটানা সর্বোচ্চ গতিবেগ ঘণ্টায় ৬২ কিলোমিটার।",
-          "খুলনা, বরিশাল ও চট্টগ্রাম বিভাগের দুয়েক জায়গায় বৃষ্টি ও বজ্রসহ বৃষ্টি হতে পারে।"
-        ],
-        "bullets_en": [
-          "The Met Office has asked four maritime ports of the country to hoist distant warning signal number 2.",
-          "The maximum sustained wind speed within 54 kilometres of the cyclone centre is 62 kilometres per hour.",
-          "Rain and thundershowers may occur at one or two places over Khulna, Barishal and Chattogram divisions."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "১৭ নভেম্বর আবহাওয়া অধিদপ্তরের ঝড় সতর্কীকরণ কেন্দ্রের বিশেষ বিজ্ঞপ্তিতে জানানো হয়, ঘূর্ণিঝড়টি দক্ষিণ-পূর্ব বঙ্গোপসাগর ও তৎসংলগ্ন পশ্চিম-মধ্য বঙ্গোপসাগর এলাকায় অবস্থান করছে। এটি চট্টগ্রাম সমুদ্রবন্দর থেকে ১ হাজার ৩০৫ কিলোমিটার দক্ষিণ-পশ্চিমে, কক্সবাজার সমুদ্রবন্দর থেকে ১ হাজার ২৪৫ কিলোমিটার দক্ষিণ-পশ্চিমে, মোংলা সমুদ্রবন্দর থেকে ১ হাজার ২২৫ কিলোমিটার দক্ষিণ-পশ্চিমে এবং পায়রা সমুদ্রবন্দর থেকে ১ হাজার ২০৫ কিলোমিটার দক্ষিণ-পশ্চিমে অবস্থান করছিল। উত্তর বঙ্গোপসাগরে অবস্থানরত মাছ ধরার নৌকা ও ট্রলারগুলোকে উপকূলের কাছাকাছি থেকে সাবধানে চলাচল করতে বলা হয়েছে। এছাড়া দেশের অন্যত্র অস্থায়ীভাবে আংশিক মেঘলা আকাশসহ আবহাওয়া প্রধানত শুষ্ক থাকতে পারে এবং দিন ও রাতের তাপমাত্রা সামান্য কমতে পারে।",
-        "details_en": "According to a special bulletin of the Storm Warning Centre of the Meteorological Department on November 17, the cyclone is located over the southeast and adjoining west-central Bay of Bengal. It was located 1,305 kilometres southwest of Chattogram maritime port, 1,245 kilometres southwest of Cox's Bazar maritime port, 1,225 kilometres southwest of Mongla maritime port, and 1,205 kilometres southwest of Payra maritime port. Fishing boats and trawlers operating in the north Bay of Bengal have been asked to remain close to the coast and proceed with caution. Besides, weather may remain mainly dry with temporary partly cloudy skies elsewhere in the country, and day and night temperatures may fall slightly.",
-        "hook_bn": "ঘূর্ণিঝড় আকভানের প্রভাবে দেশের চার সমুদ্রবন্দরে ২ নম্বর হুঁশিয়ারি সংকেত জারি।",
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 2,
-      "trending": true,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T02:02:08.707968+00:00"
-      }
-    },
-    {
-      "story_id": "482dc16c-c3d0-5f5f-a255-2cacef580232",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-16%2Fsdzp66zv%2FLitton-Das-after-100-at-Johannesburg-BCB-2.jpeg?rect=0%2C0%2C1958%2C1028&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-17T01:30:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.7897,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/sports/cricket/nwo1o9wou6",
-          "title": "নভেম্বরেই প্রথম, নভেম্বরেই ৫০, নভেম্বরেই বাংলাদেশের সেঞ্চুরির সেঞ্চুরি",
-          "snippet": "নভেম্বরেই প্রথম, নভেম্বরেই ৫০, নভেম্বরেই বাংলাদেশের সেঞ্চুরির সেঞ্চুরি"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/sports/498491",
-          "title": "‘সেঞ্চুরি করতে না পারলে চিঠি পকেটেই থেকে যেত’",
-          "snippet": "‘সেঞ্চুরি করতে না পারলে চিঠি পকেটেই থেকে যেত’"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "টেস্টে বাংলাদেশের সেঞ্চুরির সেঞ্চুরি পূর্ণ করলেন লিটন দাস",
-        "title_en": "Liton Das completes Bangladesh test centuries century",
-        "summary_bn": "দক্ষিণ আফ্রিকার বিপক্ষে জোহানেসবার্গে টেস্টে বাংলাদেশের ১০০তম সেঞ্চুরি পূর্ণ করেছেন লিটন দাস।",
-        "summary_en": "Liton Das completed Bangladesh test hundredth century against South Africa in Johannesburg.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T01:30:00+00:00",
-        "lead_bn": "দক্ষিণ আফ্রিকার বিপক্ষে জোহানেসবার্গে টেস্টে বাংলাদেশের ১০০তম সেঞ্চুরি পূর্ণ করেছেন লিটন দাস।",
-        "lead_en": "Liton Das completed Bangladesh test hundredth century against South Africa in Johannesburg.",
-        "bullets_bn": [
-          "টেস্টে নবম দেশ হিসেবে সেঞ্চুরির সেঞ্চুরি দেখা বাংলাদেশ এই মাইলফলক পেল ১৬৫তম ম্যাচে।",
-          "আমিনুল ইসলামের অভিষেক সেঞ্চুরির ঠিক ১৮ বছর পর ১১ নভেম্বর ৫০ সেঞ্চুরির মাইলফলক ছুঁয়েছিল বাংলাদেশ।",
-          "বাংলাদেশ ৫০তম সেঞ্চুরি পায় ১১০ নম্বর টেস্টে এবং পরের ৫০ সেঞ্চুরি পায় ৫৫ ম্যাচ খেলে।"
-        ],
-        "bullets_en": [
-          "Bangladesh became the ninth country to reach a hundred centuries in test cricket in their 165th match.",
-          "Bangladesh reached the milestone of 50 centuries on 11 November, exactly 18 years after Aminul Islam's debut century.",
-          "Bangladesh achieved their 50th century in their 110th test and the next 50 centuries in 55 matches."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ভারতের বিপক্ষে ম্যাচের দ্বিতীয় দিনে আমিনুল ইসলাম দেশের টেস্ট অভিষেকে প্রথম সেঞ্চুরি পান। জিম্বাবুয়ের বিপক্ষে মিরপুরে মুমিনুল হকের ব্যাটে আসে বাংলাদেশের ৫০তম সেঞ্চুরি। সবচেয়ে কম ৯১ ম্যাচে শততম শতক ছুঁয়েছিল ওয়েস্ট ইন্ডিজ এবং নিউজিল্যান্ডের ১৮৩ ম্যাচে লেগেছে সবচেয়ে বেশি। টেস্ট ইতিহাসের প্রথম দেশ হিসেবে ১৯২৮ সালে ব্রিসবেনে অস্ট্রেলিয়ার বিপক্ষে সেঞ্চুরির সেঞ্চুরি দেখেছিল ইংল্যান্ড।",
-        "details_en": "Aminul Islam scored the first test century for Bangladesh on the second day of the match against India. Mominul Haque scored the 50th century for Bangladesh against Zimbabwe in Mirpur. West Indies reached the century milestone in the fewest 91 matches, while New Zealand took the most with 183 matches. England was the first country in test history to reach a hundred centuries against Australia in Brisbane in 1928.",
-        "hook_bn": "দক্ষিণ আফ্রিকার বিপক্ষে টেস্টে বাংলাদেশের সেঞ্চুরির সেঞ্চুরি পূর্ণ করলেন লিটন দাস।",
-        "question_bn": "বাংলাদেশের টেস্ট ক্রিকেটের এই দীর্ঘ পথচলায় আপনার সেরা স্মৃতির কথা কমেন্টে জানান।"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T02:02:08.707968+00:00"
-      }
-    },
-    {
-      "story_id": "b6c0ac9a-2c9c-58f1-b705-1b21dedf8c14",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#RuralStudents",
-        "#EducationSystem"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1708461860702-0a821d06cfed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8c29jaWV0eSUyMGVkdWNhdGlvbiUyMGhvbGQlMjB1bndyaXR0ZW4lMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NDg4MDkxN3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-17T02:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.4964,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/tribune-z/424791/the-invisible-wall-between-rural-students-and-the",
-          "title": "The invisible wall between rural students and the world",
-          "snippet": "The invisible wall between rural students and the world"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সমাজ ও শিক্ষাব্যবস্থায় রয়েছে মেধাবী শিক্ষার্থী নিয়ে এক অলিখিত বিশ্বাস।",
-        "title_en": "Society and education hold an unwritten belief about brilliant students.",
-        "summary_bn": "আমাদের সমাজ ও শিক্ষাব্যবস্থায় একটি অলিখিত বিশ্বাস রয়েছে যে রাজধানীখ্যাত বিশ্ববিদ্যালয়গুলোর শিক্ষার্থীরাই কেবল মেধাবী।",
-        "summary_en": "Our society and education system carry an unwritten belief that brilliant students are the ones from renowned universities in the capital.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T02:00:00+00:00",
-        "lead_bn": "আমাদের সমাজ ও শিক্ষাব্যবস্থায় একটি অলিখিত বিশ্বাস রয়েছে যে রাজধানীখ্যাত বিশ্ববিদ্যালয়গুলোর শিক্ষার্থীরাই কেবল মেধাবী।",
-        "lead_en": "Our society and education system carry an unwritten belief that brilliant students are the ones from renowned universities in the capital.",
-        "bullets_bn": [
-          "সমাজ ও শিক্ষাব্যবস্থায় মেধাবী শিক্ষার্থী নিয়ে একটি অলিখিত বিশ্বাস কাজ করে।",
-          "রাজধানীখ্যাত বিশ্ববিদ্যালয়গুলোর শিক্ষার্থীদেরই কেবল মেধাবী হিসেবে বিবেচনা করার একটি প্রবণতা রয়েছে।",
-          "এই বিশ্বাস গ্রামীণ শিক্ষার্থীদের সঙ্গে বিশ্বের মধ্যে এক অদৃশ্য দেওয়াল তৈরি করে।"
-        ],
-        "bullets_en": [
-          "Our society and education system carry an unwritten belief about brilliant students.",
-          "There is a prevailing belief linked to students from renowned universities in the capital.",
-          "This belief creates an invisible wall between rural students and the world."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ঢাকা ট্রিবিউনের প্রকাশিত প্রতিবেদন অনুযায়ী, আমাদের সমাজ ও শিক্ষাব্যবস্থায় এই অলিখিত বিশ্বাসটি রয়েছে যে কেবল রাজধানীর খ্যাতনামা বিশ্ববিদ্যালয়গুলোর শিক্ষার্থীড়াই মেধাবী। এই ধারণার কারণে গ্রামীণ শিক্ষার্থীদের সঙ্গে বহুল বিশ্বের মধ্যে এক অদৃশ্য দেওয়ালের সৃষ্টি হয়েছে।",
-        "details_en": "According to the Dhaka Tribune report, our society and education system carry an unwritten belief that brilliant students are the ones from renowned universities in the capital. This notion creates an invisible wall between rural students and the world.",
-        "hook_bn": "রাজধানীর বিশ্ববিদ্যালয়ের শিক্ষার্থীরাই কি কেবল মেধাবী?",
-        "question_bn": "গ্রামীণ শিক্ষার্থীদের এগিয়ে নিতে আমাদের শিক্ষাব্যবস্থায় কী ধরনের পরিবর্তন আনা দরকার বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T02:02:08.707968+00:00"
-      }
-    },
-    {
-      "story_id": "31b89266-922f-5f7f-a6fe-0a2c06bc7a99",
+      "story_id": "c8f112f5-f818-51a8-accb-159fe4bb4d0a",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
-        "economy_business"
+        "governance_law",
+        "society_education"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#MiddleEast",
-        "#USMilitary",
-        "#Iran"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2020/07/06/usa_navy.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-17%2Fazk768bt%2F0000.jpg?rect=0%2C165%2C2202%2C1156&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-17T01:50:00+00:00",
+      "published_at": "2026-11-17T02:14:07+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.4725,
+      "importance_score": 7.5,
+      "rank_score": 5.3741,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/explainer/us-preparing-another-round-fighting-iran-1604951",
-          "title": "Is the US preparing for another round of fighting with Iran?",
-          "snippet": "Is the US preparing for another round of fighting with Iran?"
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/uwis6o8zfn",
+          "title": "লন্ডনে নাহিদ ইসলামের সংবর্ধনা শেষে আ.লীগ–এনসিপি সংঘর্ষ, আহত কয়েকজন",
+          "snippet": "লন্ডনে নাহিদ ইসলামের সংবর্ধনা শেষে আ.লীগ–এনসিপি সংঘর্ষ, আহত কয়েকজন"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821409/%E0%A6%B2%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%A8%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A6-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A7%E0%A6%A8%E0%A6%BE-%E0%A6%B6%E0%A7%87%E0%A6%B7%E0%A7%87-%E0%A6%86%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%AE%E0%A7%80",
+          "title": "লন্ডনে নাহিদ ইসলামের সংবর্ধনা শেষে আওয়ামী লীগ-এনসিপি সংঘর্ষ, আহত অন্তত চার",
+          "snippet": "লন্ডনে নাহিদ ইসলামের সংবর্ধনা শেষে আওয়ামী লীগ-এনসিপি সংঘর্ষ, আহত অন্তত চার"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/nahid-event-attacked-london/",
+          "title": "লন্ডনে নাহিদের অনুষ্ঠানে হামলার অভিযোগ, আহত কয়েকজন",
+          "snippet": "লন্ডনে নাহিদের অনুষ্ঠানে হামলার অভিযোগ, আহত কয়েকজন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মধ্যপ্রাচ্যে তৃতীয় মার্কিন বিমানবাহী রণতরী পৌঁছেছে",
-        "title_en": "Third US aircraft carrier arrives in the Middle East",
-        "summary_bn": "মধ্যপ্রাচ্যে মার্কিন সামরিক উপস্থিতির অংশ হিসেবে তৃতীয় একটি বিমানবাহী রণতরী পৌঁছেছে।",
-        "summary_en": "A third US aircraft carrier has arrived in the Middle East as part of the regional military build-up.",
+        "title_bn": "লন্ডনে নাগরিক সংবর্ধনা শেষে এনসিপি ও আওয়ামী লীগের সংঘর্ষ, আহত কয়েকজন",
+        "title_en": "Clashes between NCP and Awami League after London reception leave several injured",
+        "summary_bn": "যুক্তরাজ্যের পূর্ব লন্ডনে জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলামের সংবর্ধনা অনুষ্ঠান শেষে আওয়ামী লীগের সঙ্গে সংঘর্ষে কয়েকজন আহত হয়েছেন।",
+        "summary_en": "Several people were injured following clashes between the Awami League and the NCP after a reception for Nahid Islam in East London.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "economy_business"
+          "governance_law",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-17T01:50:00+00:00",
-        "lead_bn": "মধ্যপ্রাচ্যে মার্কিন সামরিক উপস্থিতির অংশ হিসেবে তৃতীয় একটি বিমানবাহী রণতরী পৌঁছেছে।",
-        "lead_en": "A third US aircraft carrier has arrived in the Middle East as part of the regional military build-up.",
+        "published_at": "2026-11-17T02:14:07+00:00",
+        "lead_bn": "যুক্তরাজ্যের পূর্ব লন্ডনে জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলামের সংবর্ধনা অনুষ্ঠান শেষে আওয়ামী লীগের সঙ্গে সংঘর্ষে কয়েকজন আহত হয়েছেন।",
+        "lead_en": "Several people were injured following clashes between the Awami League and the NCP after a reception for Nahid Islam in East London.",
         "bullets_bn": [
-          "পারমাণবিক শক্তিচালিত ইউএসএস থিওডোর রুজভেল্ট ১৫ নভেম্বর ২০২৬ তারিখে মধ্যপ্রাচ্যে পৌঁছেছে।",
-          "যুক্তরাষ্ট্রের সেন্টকম ও পেন্টাগন রণতরীটির আগমন আনুষ্ঠানিকভাবে এখনো নিশ্চিত করেনি।",
-          "যুক্তরাষ্ট্রের এই পদক্ষেপে নয় থেকে ১০ হাজার অতিরিক্ত সেনা মধ্যপ্রাচ্যে পাঠানো হয়েছে।"
+          "ঘটনাটি ঘটে রমফোর্ডের মেফেয়ার ভেন্যুর সামনে নাগরিক সংবর্ধনা শেষে।",
+          "আহত ব্যক্তিদের মধ্যে পাঁচজন লন্ডনের কিংস কলেজ হাসপাতালে চিকিৎসাধীন রয়েছেন।",
+          "হামলার ঘটনায় জড়িত ব্যক্তিদের বিরুদ্ধে আইনি ব্যবস্থা নিতে যুক্তরাজ্য সরকারের প্রতি আহ্বান জানিয়েছেন নাহিদ ইসলাম।"
         ],
         "bullets_en": [
-          "The nuclear-powered USS Theodore Roosevelt arrived in the Middle East on November 15, 2026.",
-          "CENTCOM and the Pentagon have yet to officially confirm the arrival of the carrier.",
-          "The deployment contributes to an estimated 9,000 to 10,000 additional US troops sent to the region."
+          "The incident occurred outside the Mayfair venue in Romford following a civic reception.",
+          "Five of the injured individuals are receiving treatment at King's College Hospital in London.",
+          "Nahid Islam called on the UK government to take legal action against those responsible for the attack."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "যুক্তরাষ্ট্র ও ইসরায়েলের ইরান যুদ্ধ বন্ধের কূটনৈতিক প্রচেষ্টা থমকে যাওয়ার প্রেক্ষাপটে এই সামরিক শক্তি বৃদ্ধি করা হয়েছে। কাতার ও পাকিস্তানের মধ্যস্থতায় হরমুজ প্রণালি পুনরায় সচল করার প্রচেষ্টা এগোচ্ছে না। যুদ্ধ শুরু হওয়ার পর এটি ইরাক যুদ্ধের পর এই অঞ্চলে সবচেয়ে বড় মার্কিন বিমানবাহিনীর উপস্থিতি।",
-        "details_en": "The military build-up comes as diplomatic efforts to end the US-Israel war on Iran remain stalled. Qatari and Pakistani mediation efforts to reopen the Strait of Hormuz have made little progress. The deployment marks the largest US airpower deployment in the region since the Iraq War.",
-        "hook_bn": "মধ্যপ্রাচ্যে পৌঁছেছে তৃতীয় মার্কিন বিমানবাহী রণতরী",
+        "details_bn": "এর আগে কেমব্রিজ বিশ্ববিদ্যালয় ক্যাম্পাসে নাহিদ ইসলামকে হেনস্তার চেষ্টা করা হয়েছিল এবং এর আগে মাহফুজ আলম ও হাসনাত আবদুল্লাহর সফর ঘিরেও উত্তেজনার ঘটনা ঘটেছিল।",
+        "details_en": "Earlier, an attempt was made to harass Nahid Islam at the Cambridge University campus, and visits by Mahফুজ Alam and Hasnat Abdullah also saw tensions.",
+        "hook_bn": "যুক্তরাজ্যে নাহিদ ইসলামের সংবর্ধনা শেষে সংঘর্ষে আহত পাঁচজন হাসপাতালে চিকিৎসাধীন।",
         "question_bn": null
       },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
+      "desk_importance": 7.0,
+      "outlet_count": 3,
       "trending": false,
-      "social_appeal": 4.0,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-17T02:02:08.707968+00:00"
+        "checked_at": "2026-11-17T03:01:58.635663+00:00"
       }
     },
     {
-      "story_id": "70491ff5-e312-59bd-8334-5364ffcc3522",
-      "primary_category": "economy_business",
+      "story_id": "744c0e2e-f60d-53ae-bd5a-07349f059f5b",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "economy_business",
-        "tech_innovation"
+        "world_diplomacy"
       ],
       "region": "international",
       "tags": [
-        "#FederalReserve",
-        "#KevinWarsh",
-        "#ArtificialIntelligence",
-        "#GinaRaimondo"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108552211-1794850759211-gettyimages-2304954172-FEDERAL_RESERVE_CONFERENCE.jpeg?v=1794850787&w=1920&h=1080",
+      "image_url": "https://images.unsplash.com/photo-1656436075877-a20103919f4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8aXJhbiUyMGNsYWltcyUyMHNlaXp1cmUlMjBkcm9uZSUyMGRpcGxvbWFjeXxlbnwxfDB8fHwxNzk0ODg0NTA4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-17T00:42:33+00:00",
+      "published_at": "2026-11-17T02:44:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.3171,
+      "importance_score": 6.0,
+      "rank_score": 3.5398,
       "sources": [
         {
-          "name": "CNBC Global Economy",
-          "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-          "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-          "snippet": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821410/%E0%A6%B9%E0%A6%B0%E0%A6%AE%E0%A7%81%E0%A6%9C-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%A8-%E0%A6%9C%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BF-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0",
+          "title": "হরমুজ প্রণালিতে মার্কিন ড্রোন জব্দের দাবি ইরানের",
+          "snippet": "হরমুজ প্রণালিতে মার্কিন ড্রোন জব্দের দাবি ইরানের"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মার্কিন কেন্দ্রীয় ব্যাংক এআই খাতের প্রভাব নিয়ে প্রস্তুতি নিচ্ছে",
-        "title_en": "US Federal Reserve braces for economic impact from artificial intelligence",
-        "summary_bn": "কৃত্রিম বুদ্ধিমত্তা অর্থনীতিতে ছড়িয়ে পড়ার মুখে মার্কিন কেন্দ্রীয় ব্যাংক ফেড এর প্রভাব মোকাবেলার প্রস্তুতি নিচ্ছে।",
-        "summary_en": "As artificial intelligence sweeps through the economy, the US Federal Reserve is bracing for impact.",
+        "title_bn": "হরমুজ প্রণালিতে মার্কিন ড্রোন জব্দের দাবি ইরানের",
+        "title_en": "Iran claims seizure of US drone in Strait of Hormuz",
+        "summary_bn": "হরমুজ প্রণালির অদূরে কেশম দ্বীপের দক্ষিণে উড়তে থাকা একটি মার্কিন ড্রোনের নিয়ন্ত্রণ নেওয়ার দাবি করেছে ইরানের ইসলামিক রেভোলিউশনারি গার্ড কর্পস (আইআরজিসি)।",
+        "summary_en": "The Islamic Revolutionary Guard Corps of Iran claimed to have taken control of a US drone flying near Kishm Island.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T02:44:00+00:00",
+        "lead_bn": "হরমুজ প্রণালির অদূরে কেশম দ্বীপের দক্ষিণে উড়তে থাকা একটি মার্কিন ড্রোনের নিয়ন্ত্রণ নেওয়ার দাবি করেছে ইরানের ইসলামিক রেভোলিউশনারি গার্ড কর্পস (আইআরজিসি)।",
+        "lead_en": "The Islamic Revolutionary Guard Corps of Iran claimed to have taken control of a US drone flying near Kishm Island.",
+        "bullets_bn": [
+          "আইআরজিসি বিমানটিকে একটি এমকিউএম-১৭০ ড্রোন হিসেবে শনাক্ত করেছে।",
+          "এটি তাদের হাতে আটক হওয়া নবম আমেরিকান ড্রোন বলে দাবি করা হয়েছে।",
+          "এর আগে ইরানের রাষ্ট্রীয় মাধ্যমে এই তথ্য জানানো হয়।"
+        ],
+        "bullets_en": [
+          "The IRGC identified the aircraft as an MQM-170 drone.",
+          "It is claimed to be the ninth American drone captured by them.",
+          "Prior to this, the state media of Iran reported on this matter."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ঘটনাটি ১৭ নভেম্বর ভোরের দিকে ঘটেছে বলে আইআরজিসি জানিয়েছে। এর আগে ইরানের রাষ্ট্রীয় মাধ্যমে এই বিষয়ে তথ্য প্রকাশ করা হয়।",
+        "details_en": "The incident occurred in the early morning of 17 November, according to the IRGC. Prior to this, information was published by Iranian state media.",
+        "hook_bn": "হরমুজ প্রণালিতে মার্কিন ড্রোনের নিয়ন্ত্রণ নেওয়ার দাবি ইরানের",
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T03:01:58.635663+00:00"
+      }
+    },
+    {
+      "story_id": "8084fc7b-4889-5714-8243-4fe22f198ea5",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "climate_environment",
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1516199423456-1f1e91b06f25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z2xvYmFsJTIwY3J1ZGUlMjBvaWwlMjBwcmljZXMlMjBidXNpbmVzc3xlbnwxfDB8fHwxNzk0ODg0NTExfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-17T02:29:46+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.4917,
+      "sources": [
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821408/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A6%AE%E0%A6%B2%E0%A7%8B-%E0%A6%9C%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%A4%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE",
+          "title": "বিশ্ববাজারে কমলো জ্বালানি তেলের দাম",
+          "snippet": "বিশ্ববাজারে কমলো জ্বালানি তেলের দাম"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/middle-east/981422/%E0%A7%A9-%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%82%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%95%E0%A6%AE%E0%A6%B2%E0%A7%8B-%E0%A6%A4%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE",
+          "title": "৩ শতাংশের বেশি কমলো তেলের দাম",
+          "snippet": "৩ শতাংশের বেশি কমলো তেলের দাম"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বিশ্ববাজারে জ্বালানি তেলের দাম ৩ শতাংশের বেশি কমেছে",
+        "title_en": "Global crude oil prices fall by more than 3 percent",
+        "summary_bn": "হরমুজ প্রণালি দিয়ে তেল সরবরাহ পুনরায় স্বাভাবিক হতে শুরু করায় বিশ্ববাজারে অপরিশোধিত তেলের দাম ৩ শতাংশের বেশি কমেছে।",
+        "summary_en": "Crude oil prices in global markets fell by more than 3 percent as oil supply through the Hormuz Strait began to normalize.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business",
-          "tech_innovation"
+          "climate_environment",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-17T00:42:33+00:00",
-        "lead_bn": "কৃত্রিম বুদ্ধিমত্তা অর্থনীতিতে ছড়িয়ে পড়ার মুখে মার্কিন কেন্দ্রীয় ব্যাংক ফেড এর প্রভাব মোকাবেলার প্রস্তুতি নিচ্ছে।",
-        "lead_en": "As artificial intelligence sweeps through the economy, the US Federal Reserve is bracing for impact.",
+        "published_at": "2026-11-17T02:29:46+00:00",
+        "lead_bn": "হরমুজ প্রণালি দিয়ে তেল সরবরাহ পুনরায় স্বাভাবিক হতে শুরু করায় বিশ্ববাজারে অপরিশোধিত তেলের দাম ৩ শতাংশের বেশি কমেছে।",
+        "lead_en": "Crude oil prices in global markets fell by more than 3 percent as oil supply through the Hormuz Strait began to normalize.",
         "bullets_bn": [
-          "ফেড চেয়ারম্যান কেভিন ওয়ারশ সান ফ্রান্সিসকোতে একটি সম্মেলন ডেকে এআই খাতের অর্থনৈতিক প্রভাব নিয়ে আলোচনা করেছেন।",
-          "প্রাক্তন বাণিজ্য সচিব জিনা রাইমন্ডো ডাটা সেন্টার নির্মাণের বিরুদ্ধে মধ্যবর্তী নির্বাচনের পদক্ষেপকে খুবই উদ্বেগজনক বলে মন্তব্য করেছেন।",
-          "এআই খাতের অতিরিক্ত ব্যয়ের কারণে ফেড ডিসেম্বর মাসে সুদের হার বাড়ানোর কথা বিবেচনা করছে।"
+          "ব্রেন্ট ক্রুড ফিউচারের দাম ৩ দশমিক ৬ শতাংশ কমে ব্যারেলপ্রতি ৯২ দশমিক ৪৪ ডলারে দাঁড়িয়েছে।",
+          "আল জাজিরার এক প্রতিবেদনে বিশ্ববাজারে অপরিশোধিত তেলের দাম কমার এই তথ্য জানানো হয়েছে।",
+          "মার্কিন ওয়েস্ট টেক্সাস ইন্টারমিডিয়েট অপরিশোধিত তেলের দামও কমেছে।"
         ],
         "bullets_en": [
-          "Fed Chairman Kevin Warsh convened a conference in San Francisco to discuss the economic implications of AI.",
-          "Former commerce secretary Gina Raimondo called midterms measures against data center construction a very troubling sign.",
-          "Vast spending from AI firms is prompting the Fed to contemplate raising interest rates in December."
+          "The price of Brent crude futures fell by 3.6 percent to stand at 92.44 dollars per barrel.",
+          "Al Jazeera reported the decrease in crude oil prices in the global market.",
+          "The price of US West Texas Intermediate crude oil also decreased."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "মার্কিন অর্থনীতি এক সংযোগস্থলে রয়েছে বলে ফেড চেয়ারম্যান কেভিন ওয়ারশ সান ফ্রান্সিসকোতে একটি সম্মেলনে জানিয়েছেন। কৃত্রিম বুদ্ধিমত্তা খাতের দ্রুত অগ্রগতির মধ্যে এনথ্রোপিক নামের একটি এআই ল্যাব তাদের প্রাথমিক গণপ্রস্তাব বা আইপিও-র শেয়ারের মূল্য নির্ধারণের পরিকল্পনা করেছে। இதற்கிடையில், মার্কিন ভোটাররা গত মধ্যবর্তী নির্বাচনে ডাটা সেন্টার নির্মাণের গতি ধীর করতে বেশ কিছু রাজ্যস্তরের ব্যবস্থা নিয়েছেন।",
-        "details_en": "Federal Reserve Chairman Kevin Warsh stated at a conference in San Francisco that the US economy is at a hinge point. Amid rapid technological advancement, AI lab Anthropic plans to price its initial public offering shares. Meanwhile, US voters enacted state-level measures in the midterms to slow down data center construction.",
-        "hook_bn": "কৃত্রিম বুদ্ধিমত্তা খাতের প্রভাব মোকাবেলার প্রস্তুতি নিচ্ছে মার্কিন কেন্দ্রীয় ব্যাংক।",
-        "question_bn": "কৃত্রিম বুদ্ধিমত্তা প্রযুক্তি আমাদের দৈনন্দিন জীবনে কতটা প্রভাব ফেলছে বলে আপনার মনে হয়?"
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "বিশ্ববাজারে অপরিশোধিত তেলের দাম ৩ শতাংশের বেশি কমেছে।",
+        "question_bn": null
       },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
+      "desk_importance": 6.0,
+      "outlet_count": 2,
       "trending": false,
-      "social_appeal": 3.0,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-17T02:02:08.707968+00:00"
+        "checked_at": "2026-11-17T03:01:58.635663+00:00"
       }
     }
   ]
