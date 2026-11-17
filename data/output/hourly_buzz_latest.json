@@ -1,468 +1,396 @@
 {
-  "updated_at": "2026-11-17T19:00:43.204531",
+  "updated_at": "2026-11-17T20:00:46.640572",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "a5ab34d6-d2ae-5ada-9b6a-23dbaf6086d2",
-      "primary_category": "governance_law",
+      "story_id": "059ac6ab-5866-515b-9892-0aaf89a99142",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Mohammadpur",
-        "#Tejgaon"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1588281345136-9893252095bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Y3J1ZGUlMjBib21icyUyMGV4cGxvZGUlMjBodXJsZWQlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTQ5NDIxMzB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-17T18:49:07+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.75,
-      "rank_score": 5.9318,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/dhaka/424939/crude-bombs-explode-at-five-locations-in",
-          "title": "Crude bombs explode at five locations in Mohammadpur",
-          "snippet": "Crude bombs explode at five locations in Mohammadpur"
-        },
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/crude-bombs-hurled-front-tejgaon-dc-office-parts-dhaka-4326741",
-          "title": "Crude bombs hurled in front of Tejgaon DC office, parts of Dhaka",
-          "snippet": "Crude bombs hurled in front of Tejgaon DC office, parts of Dhaka"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821586/%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%A6%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A7%AB-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%95%E0%A6%95%E0%A6%9F%E0%A7%87%E0%A6%B2-%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA-%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A6%BE%E0%A7%9F%E0%A6%97%E0%A6%BE%E0%A7%9F",
-          "title": "মোহাম্মদপুরের ৫ স্থানে ককটেল নিক্ষেপ, চার জায়গায় বিস্ফোরণ",
-          "snippet": "মোহাম্মদপুরের ৫ স্থানে ককটেল নিক্ষেপ, চার জায়গায় বিস্ফোরণ"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1180696",
-          "title": "মোহাম্মদপুরের ৫ স্থানে ককটেল নিক্ষেপ, চার জায়গায় বিস্ফোরণ",
-          "snippet": "মোহাম্মদপুরের ৫ স্থানে ককটেল নিক্ষেপ, চার জায়গায় বিস্ফোরণ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রাজধানীর বিভিন্ন স্থানে ককটেল বিস্ফোরণ ও নিক্ষেপের ঘটনা ঘটেছে",
-        "title_en": "Crude bombs explode and are hurled at multiple locations in Dhaka",
-        "summary_bn": "রাজধানীর মোহাম্মদপুরসহ বিভিন্ন স্থানে দুর্বৃত্তরা ককটেল নিক্ষেপ ও বিস্ফোরণ ঘটিয়েছে।",
-        "summary_en": "Miscreants have hurled and exploded crude bombs at multiple locations, including Mohammadpur in the capital.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T18:49:07+00:00",
-        "lead_bn": "রাজধানীর মোহাম্মদপুরসহ বিভিন্ন স্থানে দুর্বৃত্তরা ককটেল নিক্ষেপ ও বিস্ফোরণ ঘটিয়েছে।",
-        "lead_en": "Miscreants have hurled and exploded crude bombs at multiple locations, including Mohammadpur in the capital.",
-        "bullets_bn": [
-          "মোহাম্মদপুরের ৫ স্থানে ককটেল নিক্ষেপের ঘটনা ঘটলেও চার জায়গায় ককটেল বিস্ফোরিত হয়।",
-          "তেজগাঁও পুলিশ উপ-পুলিশ কমিশনারের কার্যালয়ের সামনে একটি ককটেল নিক্ষেপ করা হলেও তা বিস্ফোরিত হয়নি।",
-          "রাজধানীর বনানীর ১১ নম্বর সড়কে এবং ঢাকা জেলা পুলিশ সুপারের বাসার গেটে ককটেল বিস্ফোরণ ও নিক্ষেপের ঘটনা ঘটে।"
-        ],
-        "bullets_en": [
-          "Crude bombs were hurled at five locations in Mohammadpur, with four exploding.",
-          "A crude bomb thrown at the Tejgaon Police Deputy Commissioner's Office failed to explode.",
-          "Crude bombs were also hurled or exploded on Road 11 in Banani and at the Dhaka district superintendent of police's residence gate."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "১৭ নভেম্বর রাতে মোহাম্মদপুরের কৃষি মার্কেট ও আসাদগেট এলাকায় ককটেল বিস্ফোরণের ঘটনা ঘটে এবং এসব ঘটনায় বিএনপি ও এর অঙ্গ সংগঠনের নেতাকর্মীরা একজনকে আটক করে পুলিশের কাছে হস্তান্তর করেন। একই রাতে তেজগাঁও বিভাগের অতিরিক্ত উপ-পুলিশ কমিশনার (এডিসি) মো জুয়েল রানা বিষয়টি নিশ্চিত করেন এবং পরে পুলিশ বোমাটি নিষ্ক্রিয় করে।",
-        "details_en": "Crude bomb explosions occurred at Kazi Market and Asadgate in Mohammadpur during which BNP and its affiliated body activists detained one suspect and handed him over to police. Tejgaon division Additional Deputy Commissioner (ADC) Md Jewel Rana confirmed the matter and police later defused the unexploded bomb.",
-        "hook_bn": "রাজধানীর বিভিন্ন স্থানে ককটেল নিক্ষেপ ও বিস্ফোরণ ঘটিয়েছে দুর্বৃত্তরা।",
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 5,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T19:02:27.338266+00:00"
-      }
-    },
-    {
-      "story_id": "4636138d-7473-5a67-936b-8fce3f810d15",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Rampura",
-        "#RaidaParibahan",
-        "#FireService"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/18/bus_torched.png",
-      "image_caption": null,
-      "published_at": "2026-11-17T18:30:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.75,
-      "rank_score": 5.8236,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/crime/after-badda-another-passenger-bus-set-fire-rampura-1605956",
-          "title": "After Badda, another passenger bus set on fire in Rampura",
-          "snippet": "After Badda, another passenger bus set on fire in Rampura"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821590/%E0%A6%8F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%AC%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%A8%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%87",
-          "title": "এবার রামপুরায় পুলিশ বক্সের সামনে যাত্রীবাহী বাসে আগুন",
-          "snippet": "এবার রামপুরায় পুলিশ বক্সের সামনে যাত্রীবাহী বাসে আগুন"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1180702",
-          "title": "রামপুরায় পুলিশ বক্সের সামনে বাসে আগুন",
-          "snippet": "রামপুরায় পুলিশ বক্সের সামনে বাসে আগুন"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/national/498767",
-          "title": "এবার রামপুরায় পুলিশ বক্সের সামনে যাত্রীবাহী বাসে আগুন",
-          "snippet": "এবার রামপুরায় পুলিশ বক্সের সামনে যাত্রীবাহী বাসে আগুন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রাজধানীর রামপুরায় রাইদা পরিবহনের একটি বাসে অগ্নিসংযোগ",
-        "title_en": "Raida Paribahan bus set on fire in capital's Rampura",
-        "summary_bn": "রাজধানীর রামপুরা এলাকায় রাইদা পরিবহনের একটি যাত্রীবাহী বাসে আগুন দিয়েছে দুর্বৃত্তরা।",
-        "summary_en": "Miscreants set fire to a passenger bus of Raida Paribahan in the capital's Rampura area.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T18:30:00+00:00",
-        "lead_bn": "রাজধানীর রামপুরা এলাকায় রাইদা পরিবহনের একটি যাত্রীবাহী বাসে আগুন দিয়েছে দুর্বৃত্তরা।",
-        "lead_en": "Miscreants set fire to a passenger bus of Raida Paribahan in the capital's Rampura area.",
-        "bullets_bn": [
-          "ঘটনাটি ঘটে রামপুরা ব্রিজসংলগ্ন পুলিশ বক্সের সামনে রাত ১১টা ১৫ মিনিটের দিকে।",
-          "ফায়ার সার্ভিস কন্ট্রোল রুমের ডিউটি অফিসার শাহজাহান মিয়া জানান যে এই ঘটনায় কোনো হতাহতের খবর পাওয়া যায়নি।",
-          "সংবাদ পেয়ে ফায়ার সার্ভিসের কর্মীরা ঘটনাস্থলে গিয়ে আগুন নিয়ন্ত্রণে আনে।"
-        ],
-        "bullets_en": [
-          "The incident took place at around 11:15pm in front of a police box near Rampura Bridge.",
-          "Shahjahan Mia, duty officer at the Fire Service and Civil Defence control room, said no casualties were reported.",
-          "Firefighters rushed to the spot after receiving information and brought the blaze under control."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "এর আগে ১৭ নভেম্বর রাতে বাড্ডায় বৈশাখী পরিবহনের একটি বাসে এবং তার আগে পল্লবী ও মহাখালীতে আরও দুটি বাসে আগুন দেওয়া হয়।",
-        "details_en": "Earlier on the night of 17 November, another bus of Baishakhi Paribahan was set on fire in Badda, following two other bus fires in Pallabi and Mohakhali earlier in the evening.",
-        "hook_bn": "রামপুরায় পুলিশ বক্সের সামনে যাত্রীবাহী বাসে আগুন",
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 4,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T19:02:27.338266+00:00"
-      }
-    },
-    {
-      "story_id": "5694a127-bbb6-518c-991f-95e71d865b09",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "tech_innovation",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#RooppurNuclearPowerPlant",
-        "#Bangladesh",
-        "#FakirMahbubAnam"
-      ],
-      "image_url": "https://th-i.thgim.com/public/incoming/ar9z3j/article71713249.ece/alternates/LANDSCAPE_1200/Iran_Nuclear_Energy_1428_.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-17T17:44:23+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.5468,
-      "sources": [
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/bangladesh-connects-first-nuclear-power-plant-to-national-grid/article71713171.ece",
-          "title": "Bangladesh connects first nuclear power plant to national grid",
-          "snippet": "Bangladesh connects first nuclear power plant to national grid"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্র জাতীয় গ্রিডে বিদ্যুৎ সরবরাহ শুরু করেছে",
-        "title_en": "Rooppur nuclear power plant starts supplying electricity to national grid",
-        "summary_bn": "বাংলাদেশের প্রথম রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্র ১৭ নভেম্বর ২০২৬ তারিখে পরীক্ষামূলকভাবে জাতীয় গ্রিডে বিদ্যুৎ সরবরাহ শুরু করেছে।",
-        "summary_en": "Bangladesh's first nuclear power plant began supplying electricity to the national grid on a trial basis on November 17, 2026.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "tech_innovation",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T17:44:23+00:00",
-        "lead_bn": "বাংলাদেশের প্রথম রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্র ১৭ নভেম্বর ২০২৬ তারিখে পরীক্ষামূলকভাবে জাতীয় গ্রিডে বিদ্যুৎ সরবরাহ শুরু করেছে।",
-        "lead_en": "Bangladesh's first nuclear power plant began supplying electricity to the national grid on a trial basis on November 17, 2026.",
-        "bullets_bn": [
-          "বিজ্ঞান ও প্রযুক্তি মন্ত্রী ফকীর মাহবুব আনাম জানান, বাংলাদেশ বিশ্বের ৩৩তম দেশ হিসেবে পারমাণবিক বিদ্যুৎ উৎপাদন শুরু করেছে।",
-          "২,৪০০ মেগাওয়াট ক্ষমতাসম্পন্ন এই রুশ সহায়তাপুষ্ট প্রকল্পে প্রতিটি ১,২০০ মেগাওয়াটের দুটি ইউনিট রয়েছে।",
-          "প্রথম ইউনিটটি বর্তমানে জাতীয় গ্রিডে ৩৫০ মেগাওয়াট বিদ্যুৎ সরবরাহ শুরু করেছে।"
-        ],
-        "bullets_en": [
-          "Science and Technology Minister Fakir Mahbub Anam stated that Bangladesh has become the 33rd country to generate nuclear power.",
-          "The 2,400 MW Russian-assisted facility comprises two units, each with a generation capacity of 1,200 MW.",
-          "The first unit has begun supplying 350 MW of electricity to the national grid."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বিজ্ঞান ও প্রযুক্তি মন্ত্রণালয়ের তথ্য অনুযায়ী, প্রাথমিক সংযোগটি আট থেকে ১০ ঘণ্টা স্থায়ী হবে। এই সময়ে প্রকৌশলীরা প্লান্টের টারবাইন, জেনারেটর এবং গ্রিড স্থায়িত্ব পরীক্ষা করবেন। পূর্ণাঙ্গ চালুর পর এই প্লান্ট দেশের বিদ্যুৎ চাহিদার ১০ শতাংশের বেশি মেটাতে পারবে বলে আশা করা হচ্ছে। পশ্চিম এশিয়ার সংঘাতের জেরে জ্বালানি সংকটের মধ্যে এই অগ্রগতি এসেছে।",
-        "details_en": "According to the Science and Technology Ministry, the initial connection would last between eight and 10 hours to test the turbine, generator and grid stability. Once fully operational, the facility is expected to meet more than 10% of Bangladesh's electricity demand. This development comes as the country grapples with a fuel crisis triggered by the conflict in West Asia.",
-        "hook_bn": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্র থেকে জাতীয় গ্রিডে বিদ্যুৎ সরবরাহ শুরু হয়েছে।",
-        "question_bn": "দেশের প্রথম পারমাণবিক বিদ্যুৎ কেন্দ্র চালুর বিষয়ে আপনার মতামত কী?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T19:02:27.338266+00:00"
-      }
-    },
-    {
-      "story_id": "e09e36e2-bb06-5c5b-b17a-6aece86bd02d",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
+        "economy_business",
         "world_diplomacy",
-        "governance_law"
+        "governance_law",
+        "climate_environment"
       ],
       "region": "national",
       "tags": [
-        "#GangesTreaty",
-        "#Bangladesh",
-        "#India",
-        "#ShahiduddinChowdhuryAnee"
+        "#BangladeshEconomy",
+        "#Inflation",
+        "#FiscalPolicy",
+        "#BangladeshBank"
       ],
-      "image_url": "https://images.unsplash.com/photo-1727378420229-3eff2d32d22e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGhha2ElMjBhd2FpdHMlMjB0YWxrcyUyMGluZGlhJTIwZGlwbG9tYWN5fGVufDF8MHx8fDE3OTQ5NDIxMzl8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/Sadiq-Ahmed.jpg",
       "image_caption": null,
       "published_at": "2026-11-17T18:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.0,
-      "rank_score": 3.3912,
+      "rank_score": 3.1702,
       "sources": [
         {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/bangladesh/news/expiring-ganges-treaty-dhaka-still-waiting-delhi-come-table-4326771",
-          "title": "Expiring ganges treaty: Dhaka still waiting for Delhi to come to table",
-          "snippet": "Expiring ganges treaty: Dhaka still waiting for Delhi to come to table"
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/economy/news/fiscal-policy-inconsistent-inflation-control-4326571",
+          "title": "Fiscal policy is inconsistent with inflation control",
+          "snippet": "Fiscal policy is inconsistent with inflation control"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গঙ্গা চুক্তি নবায়নের জন্য ভারতের সঙ্গে বৈঠকের অপেক্ষা করছে ঢাকা",
-        "title_en": "Dhaka awaits talks with India to renew the Ganges treaty",
-        "summary_bn": "মেয়াদ শেষ হওয়ার মাত্র ২৪ দিন বাকি থাকতে বাংলাদেশ ভারতের কাছে আনুষ্ঠানিকভাবে আলোচনা শুরু করার অনুরোধ জানিয়েছে।",
-        "summary_en": "With just 24 days remaining before the treaty expires, Bangladesh has renewed its request to India to begin formal negotiations.",
+        "title_bn": "মূল্যস্ফীতি নিয়ন্ত্রণে সরকারের রাজস্ব নীতি অসামঞ্জস্যপূর্ণ",
+        "title_en": "Bangladesh fiscal policy is inconsistent with inflation control efforts",
+        "summary_bn": "বাজেট ঘাটতি মেটাতে সরকারের ক্রমবর্ধমান ব্যাংক ঋণ মূল্যস্ফীতি নিয়ন্ত্রণের পথে বাধা হয়ে দাঁড়িয়েছে বলে দ্য ডেইলি স্টার বিজনেস জানিয়েছে।",
+        "summary_en": "Rising public sector borrowing to finance the fiscal deficit is undermining efforts to control inflation despite Bangladesh Bank attempts to manage money growth.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "world_diplomacy",
+          "governance_law",
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T18:00:00+00:00",
+        "lead_bn": "বাজেট ঘাটতি মেটাতে সরকারের ক্রমবর্ধমান ব্যাংক ঋণ মূল্যস্ফীতি নিয়ন্ত্রণের পথে বাধা হয়ে দাঁড়িয়েছে বলে দ্য ডেইলি স্টার বিজনেস জানিয়েছে।",
+        "lead_en": "Rising public sector borrowing to finance the fiscal deficit is undermining efforts to control inflation despite Bangladesh Bank attempts to manage money growth.",
+        "bullets_bn": [
+          "ট্রেজারি ব্যাংক ঋণের প্রবৃদ্ধি ২০২৪ অর্থবছরের ৯.৬ শতাংশ থেকে বেড়ে ২০২৬ অর্থবছরে ৩০.৪ শতাংশ হয়েছে।",
+          "২০২৬ অর্থবছরে বেসরকারি খাতের ঋণের প্রবৃদ্ধি কমে ৪.৫ শতাংশ হয়েছে এবং ২০২৭ অর্থবছরে জিডিপি প্রবৃদ্ধি ৩.২ শতাংশে নামার পূর্বাভাস রয়েছে।",
+          "নীতি কাঠামো প্রায়ই দীর্ঘমেয়াদী অর্থনৈতিক লক্ষ্যের পরিবর্তে তাৎক্ষণিক রাজনৈতিক সুবিধার কথা বিবেচনা করে পরিচালিত হচ্ছে।"
+        ],
+        "bullets_en": [
+          "Treasury bank borrowing growth rose from 9.6 percent in FY2024 to 30.4 percent in FY2026, adding to aggregate demand pressure.",
+          "Private sector credit growth fell to 4.5 percent in FY2026, while GDP growth is projected to decline to 3.2 percent in FY2027.",
+          "The policy framework is often ad hoc and guided by immediate political convenience rather than long-term economic objectives and targets."
+        ],
+        "impact_bn": "জীবনযাত্রার ব্যয় এবং জ্বালানি তেলের মূল্য বৃদ্ধি প্রশাসনের দাম কমানোর প্রতিশ্রুতি সম্পর্কে জনমনে অসন্তোষ তৈরি করেছে।",
+        "impact_en": "Rising living costs and gasoline prices have soured the public mood and perception of the administration's commitment to lowering prices.",
+        "details_bn": "বিএনপি সরকার যুক্তরাষ্ট্র-ইরান যুদ্ধ এবং বিশ্ববাজারে জ্বালানির দাম বৃদ্ধির ফলে একটি কঠিন অর্থনীতি উত্তরাধিকার সূত্রে পেয়েছে। সরকার মূল্যস্ফীতি কমানোর চেষ্টা করলেও নয় মাস পর ফলাফল আশাব্যঞ্জক নয়। পর্যাপ্ত কর রাজস্ব ও বৈদেশিক অর্থায়নের অভাবে ব্যাংক ঋণের ওপর অতিমাত্রায় নির্ভরতা তৈরি হয়েছে। বিশ্বব্যাংক ও আইএমএফ পূর্বাভাস দিয়েছে যে অভ্যন্তরীণ অর্থনৈতিক মন্দার কারণে জিডিপি প্রবৃদ্ধি আরও হ্রাস পাবে।",
+        "details_en": "The BNP government inherited a difficult economy aggravated by the US-Iran war and global energy price surges. While the government seeks to lower inflation, results after nine months are not reassuring. Key issues include inadequate tax revenue and foreign funding, leading to excessive reliance on bank borrowings. The World Bank and IMF project further declines in GDP growth as domestic economic activity faces a serious downturn.",
+        "hook_bn": "বাজেট ঘাটতি মেটাতে সরকারের ব্যাংক ঋণ ৩০ শতাংশ ছাড়িয়েছে",
+        "question_bn": "ক্রমবর্ধমান জীবনযাত্রার ব্যয় আপনার দৈনন্দিন জীবনে কী ধরনের প্রভাব ফেলছে?"
+      },
+      "fact_check": {
+        "status": "unchecked",
+        "checked_at": "2026-11-17T20:13:36.536672+00:00"
+      }
+    },
+    {
+      "story_id": "75f31ffb-bca3-5cef-8b80-b21b53fc6957",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#IMF",
+        "#WorldBank",
+        "#BangladeshDebt",
+        "#Economy"
+      ],
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/IMF.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-17T18:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.1702,
+      "sources": [
+        {
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/economy/news/new-imf-debt-test-puts-spotlight-bangladeshs-interest-bill-4326576",
+          "title": "New IMF debt test puts spotlight on Bangladesh’s interest bill",
+          "snippet": "New IMF debt test puts spotlight on Bangladesh’s interest bill"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আইএমএফ ও বিশ্বব্যাংক বাংলাদেশের জন্য নতুন ঋণ পরীক্ষা চালু করবে",
+        "title_en": "IMF and World Bank to launch new debt tests for Bangladesh",
+        "summary_bn": "আন্তর্জাতিক মুদ্রা তহবিল এবং বিশ্বব্যাংক মধ্য-২০২৭ সাল থেকে বাংলাদেশের জন্য নতুন দুটি ব্যবস্থা ব্যবহার করে ঋণঝুঁকি মূল্যায়ন করবে।",
+        "summary_en": "From mid-2027, the International Monetary Fund and World Bank will use two new measures to assess Bangladesh's debt risks.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T18:00:00+00:00",
+        "lead_bn": "আন্তর্জাতিক মুদ্রা তহবিল এবং বিশ্বব্যাংক মধ্য-২০২৭ সাল থেকে বাংলাদেশের জন্য নতুন দুটি ব্যবস্থা ব্যবহার করে ঋণঝুঁকি মূল্যায়ন করবে।",
+        "lead_en": "From mid-2027, the International Monetary Fund and World Bank will use two new measures to assess Bangladesh's debt risks.",
+        "bullets_bn": [
+          "বহুপক্ষীয় ঋণদাতারা নিয়মিত ঋণ-জিডিপি অনুপাতের পাশাপাশি রাজস্বের কত অংশ সুদ পরিশোধে খরচ হয় তা দেখবে।",
+          "আইএমএফ কর্মকর্তা কক্সবাজারে এক সম্মেলনে এই পরিবর্তনের কথা জানান যা অর্থ মন্ত্রণালয় ও এডিবি আয়োজন করেছিল।",
+          "এই নতুন নিয়মগুলো সেপ্টেম্বর মাসে আইএমএফ নির্বাহী বোর্ড অনুমোদন করে এবং বিশ্বব্যাংকও তা অনুসরণ করে।"
+        ],
+        "bullets_en": [
+          "Lenders will look at how much government revenue goes on interest payments alongside the regular debt-to-GDP ratio.",
+          "IMF officials shared the changes at a conference in Cox’s Bazar organised by the finance ministry and ADB.",
+          "The IMF executive board approved the new rules in September, and the World Bank followed shortly afterwards."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "অর্থ মন্ত্রণালয় ও এশীয় উন্নয়ন ব্যাংকের আয়োজনে কক্সবাজারে অনুষ্ঠিত দুই দিনের ঋণ সম্মেলনে আইএমএফের কর্মকর্তারা এই পরিবর্তনগুলো জানান। এতে শ্রীলঙ্কা, পাকিস্তান, ইন্দোনেশিয়া ও মালয়েশিয়ার অর্থ মন্ত্রণালয়ের কর্মকর্তারাও অংশ নেন। এটি ২০১৭ সালের পর এই কাঠামোর প্রথম ওভারহোল।",
+        "details_en": "IMF officials shared the changes at a two-day debt conference in Cox’s Bazar, organised by the finance ministry and ADB. Finance ministry officials from Sri Lanka, Pakistan, Indonesia and Malaysia also attended. It is the first overhaul of the framework since 2017.",
+        "hook_bn": "সুদ পরিশোধে সরকারের খরচ ৩০ শতাংশ ছুঁয়েছে",
+        "question_bn": "নতুন ঋণ মূল্যায়নের মানদণ্ড বাংলাদেশের অর্থনীতিতে কেমন প্রভাব ফেলতে পারে বলে আপনি মনে করেন?"
+      },
+      "fact_check": {
+        "status": "unchecked",
+        "checked_at": "2026-11-17T20:13:36.536672+00:00"
+      }
+    },
+    {
+      "story_id": "81ab5c81-b34f-58e1-acd6-749d4f82ace9",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1693585172757-b9e057feb878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFybGlhbWVudCUyMGxhdyUyMGNvdXJ0JTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk0OTQ2Mzk3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-17T19:45:31+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 2.2459,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/politics/bnp/981616/%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E2%80%98%E0%A6%86%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A6%AC%E2%80%99-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A7%87",
+          "title": "গোপালগঞ্জে আওয়ামী লীগের হামলা-অগ্নিসংযোগের প্রতিবাদে ঢাকায় বিক্ষোভ",
+          "snippet": "গোপালগঞ্জে আওয়ামী লীগের হামলা-অগ্নিসংযোগের প্রতিবাদে ঢাকায় বিক্ষোভ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "গোপালগঞ্জে হামলার প্রতিবাদে ঢাকায় স্বেচ্ছাসেবক দলের বিক্ষোভ মিছিল",
+        "title_en": "Swechchhasebak Dal holds protest rally in Dhaka over Gopalganj attacks.",
+        "summary_bn": "জাতীয়তাবাদী স্বেচ্ছাসেবক দল ঢাকা মহানগর দক্ষিণ গোপালগঞ্জে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের হামলা ও অগ্নিসংযোগের প্রতিবাদে ঢাকায় বিক্ষোভ মিছিল ও সমাবেশ করেছে।",
+        "summary_en": "Nationalist Swechchhasebak Dal Dhaka South staged a protest rally and gathering in Dhaka against attacks and arson by the banned Awami League.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T19:45:31+00:00",
+        "lead_bn": "জাতীয়তাবাদী স্বেচ্ছাসেবক দল ঢাকা মহানগর দক্ষিণ গোপালগঞ্জে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের হামলা ও অগ্নিসংযোগের প্রতিবাদে ঢাকায় বিক্ষোভ মিছিল ও সমাবেশ করেছে।",
+        "lead_en": "Nationalist Swechchhasebak Dal Dhaka South staged a protest rally and gathering in Dhaka against attacks and arson by the banned Awami League.",
+        "bullets_bn": [
+          "বিক্ষোভ মিছিলটি বাহাদুর পার্ক থেকে শুরু হয়ে বায়তুল মোকাররমের দক্ষিণ গেটের সামনে শেষ হয়।",
+          "কর্মসূচিতে প্রধান অতিথি হিসেবে উপস্থিত ছিলেন ঢাকা মহানগর দক্ষিণ বিএনপির আহ্বায়ক।",
+          "বিক্ষোভ শেষে বায়তুল মোকাররমের দক্ষিণ গেটের সামনে একটি সংক্ষিপ্ত সমাবেশ অনুষ্ঠিত হয়।"
+        ],
+        "bullets_en": [
+          "The protest procession started from Bahadur Park and ended in front of the south gate of Baitul Mukarram.",
+          "The convener of Dhaka Metropolitan South BNP attended the program as the chief guest.",
+          "A short rally was held in front of the south gate of Baitul Mukarram after the procession."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "১৭ নভেম্বর গোপালগঞ্জে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের হামলা ও অগ্নিসংযোগের ঘটনা ঘটে। এর প্রতিবাদে জাতীয়তাবাদী স্বেচ্ছাসেবক দল, ঢাকা মহানগর দক্ষিণ এই বিক্ষোভ মিছিল ও সমাবেশের আয়োজন করে।",
+        "details_en": "Attacks and arson by the banned Awami League took place in Gopalganj on ১৭ নভেম্বর. In protest, Nationalist Swechchhasebak Dal Dhaka South organized this protest procession and gathering.",
+        "hook_bn": "গোপালগঞ্জে হামলার প্রতিবাদে ঢাকায় স্বেচ্ছাসেবক দলের বিক্ষোভ মিছিল",
+        "question_bn": null
+      },
+      "fact_check": {
+        "status": "unchecked",
+        "checked_at": "2026-11-17T20:13:36.536672+00:00"
+      }
+    },
+    {
+      "story_id": "e3155ef2-c732-5391-9529-30df3b51f4ce",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2025-04-21%2Fip86dsgz%2Frumorscanne_2.jpg?rect=0%2C72%2C664%2C349&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-17T19:32:47+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 2.2185,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/crime/9sa2j7lxba",
+          "title": "শিশুকে হত্যার অভিযোগে মা আটক",
+          "snippet": "শিশুকে হত্যার অভিযোগে মা আটক"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রাজধানীর রামপুরায় চার বছরের শিশুকে শ্বাসরোধে হত্যার অভিযোগে মা আটক",
+        "title_en": "Mother detained in Dhaka over alleged suffocation murder of four-year-old child",
+        "summary_bn": "রাজধানীর রামপুরার বনশ্রীতে চার বছরের এক শিশুকে শ্বাসরোধে হত্যার অভিযোগে তার মাকে আটক করেছে পুলিশ।",
+        "summary_en": "Police have detained a mother in Dhaka's Rampura on allegations of suffocating her four-year-old child to death.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T19:32:47+00:00",
+        "lead_bn": "রাজধানীর রামপুরার বনশ্রীতে চার বছরের এক শিশুকে শ্বাসরোধে হত্যার অভিযোগে তার মাকে আটক করেছে পুলিশ।",
+        "lead_en": "Police have detained a mother in Dhaka's Rampura on allegations of suffocating her four-year-old child to death.",
+        "bullets_bn": [
+          "পুলিশ বলছে, পারিবারিক কলহের জেরে সন্তানকে হত্যার পর নিজেও আত্মহত্যার চেষ্টা করেছিলেন মেহেরুন নেসা।",
+          "জাতীয় জরুরি সেবা ৯৯৯-এ খবর পেয়ে বনশ্রীর বি ব্লকের ৭ নম্বর সড়কের ওই বাসায় যায় পুলিশ।",
+          "আইনি প্রক্রিয়া শেষে শিশুটির মরদেহ ময়নাতদন্তের জন্য ঢাকা মেডিকেল কলেজের মর্গে পাঠানো হয়েছে।"
+        ],
+        "bullets_en": [
+          "Police say Meherun Nesa attempted suicide after killing her child following a family dispute.",
+          "Police went to the house on road number ৭ in block B of Bonosri after receiving a call on national emergency service ৯৯৯.",
+          "Following legal procedures, the child's body was sent to the Dhaka Medical College morgue for autopsy."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "রামপুরা থানার উপপরিদর্শক মো. শাহাদাত হোসেন জানান, ওই বাসায় স্বামী, স্ত্রী ও তাঁদের সন্তান থাকতেন এবং তাঁদের মধ্যে দাম্পত্য কলহ চলছিল। ঘটনার সময় শিশুটির বাবা ইমন বাসায় ছিলেন না এবং তিনি একটি দোকানে কাজ করেন। শাহাদাত হোসেন আরও জানান, এর আগেও মেহেরুন আত্মহত্যার চেষ্টা করেছিলেন।",
+        "details_en": "Rampura police station sub-inspector Md Shahadat Hossain said the husband, wife and their child lived in that house, and marital discord was ongoing between them. During the incident, the child's father Emon was not at home and works at a shop. Shahadat Hossain further stated that Meherun had attempted suicide prior to this incident.",
+        "hook_bn": "রামপুরায় চার বছরের শিশুকে শ্বাসরোধে হত্যার অভিযোগে মা আটক",
+        "question_bn": null
+      },
+      "fact_check": {
+        "status": "unchecked",
+        "checked_at": "2026-11-17T20:13:36.536672+00:00"
+      }
+    },
+    {
+      "story_id": "ce702fcf-713c-5c3b-bc8b-a1e044e0760c",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#APEC",
+        "#DonaldTrump",
+        "#XiJinping",
+        "#VladimirPutin"
+      ],
+      "image_url": "https://static.dw.com/image/78531577_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-17T14:25:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 3.4,
+      "rank_score": 0.8277,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-all-1573-rdf",
+          "title": "APEC summit: What Trump, Xi and Putin want",
+          "snippet": "APEC summit: What Trump, Xi and Putin want"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "এপেক সম্মেলনের ফাঁকে ট্রাম্প, শি ও পুতিনের বৈঠক অনুষ্ঠিত হবে",
+        "title_en": "Trump, Xi and Putin to hold meeting at APEC summit",
+        "summary_bn": "চীন, যুক্তরাষ্ট্র ও রাশিয়ার নেতারা এই সপ্তাহে এপেক সম্মেলনের ফাঁকে তাদের প্রথম ত্রিপক্ষীয় বৈঠক করবেন।",
+        "summary_en": "Leaders of China, the United States and Russia are due to hold their first trilateral meeting at the APEC summit.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "governance_law"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-17T18:00:00+00:00",
-        "lead_bn": "মেয়াদ শেষ হওয়ার মাত্র ২৪ দিন বাকি থাকতে বাংলাদেশ ভারতের কাছে আনুষ্ঠানিকভাবে আলোচনা শুরু করার অনুরোধ জানিয়েছে।",
-        "lead_en": "With just 24 days remaining before the treaty expires, Bangladesh has renewed its request to India to begin formal negotiations.",
+        "published_at": "2026-11-17T14:25:00+00:00",
+        "lead_bn": "চীন, যুক্তরাষ্ট্র ও রাশিয়ার নেতারা এই সপ্তাহে এপেক সম্মেলনের ফাঁকে তাদের প্রথম ত্রিপক্ষীয় বৈঠক করবেন।",
+        "lead_en": "Leaders of China, the United States and Russia are due to hold their first trilateral meeting at the APEC summit.",
         "bullets_bn": [
-          "পানি সম্পদ মন্ত্রী শহীদ উদ্দীন চৌধুরী এনি কূটনৈতিক মাধ্যমে তার ভারতীয় সমকক্ষকে চিঠি লিখেছেন।",
-          "বাংলাদেশ জুন ও আগস্ট মাসে ভারতকে একটি উচ্চপর্যায়ের প্রযুক্তিগত কমিটি গঠনের অনুরোধ জানিয়েছিল।",
-          "চুক্তিটি আগামী ১২ ডিসেম্বর মেয়াদ শেষ হতে যাচ্ছে এবং ভারত এখনও কোনো তারিখ ঘোষণা করেনি।"
+          "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প এবং চীনের প্রেসিডেন্ট শি জিনপিং Shenzhen, China-এ বৈঠকে মিলিত হবেন।",
+          "ব্রুকিংস ইনস্টিটিউশনের সিনিয়র ফেলো Patricia M. Kim জানান যে মার্কিন-চীন বাণিজ্য বিষয়ে কোনো বড় অগ্রগতির সম্ভাবনা নেই।",
+          "সি ওয়াই সারগি প্যারিস বিশ্ববিদ্যালয়ের অধ্যাপক Zhang Lun-এর মতে, ডোনাল্ড ট্রাম্প দেশ ও দেশের বাইরে চাপের মুখে রয়েছেন।"
         ],
         "bullets_en": [
-          "Water Resources Minister Shahiduddin Chowdhury Anee wrote to his Indian counterpart through diplomatic channels.",
-          "Bangladesh informed India in June and August, asking it to constitute its technical committee and begin talks.",
-          "The 30-year agreement expires on December 12 and India has not announced a negotiation date yet."
+          "US President Donald Trump and Chinese President Xi Jinping will hold talks in Shenzhen, China.",
+          "Patricia M. Kim, a senior fellow at the Brookings Institution, does not expect breakthroughs on US-China trade.",
+          "Zhang Lun, a professor at CY Cergy Paris University, believes Trump is under pressure both at home and abroad."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "গঙ্গার পানি বণ্টন চুক্তির মেয়াদ শেষ হতে ২৪ দিন বাকি আছে। ঢাকা জুন মাসে ভারতকে জানিয়েছিল যে তারা একটি উচ্চপর্যায়ের প্রযুক্তিগত কমিটি গঠন করেছে এবং আগস্টে আবারও আলোচনা শুরু করার অনুরোধ জানিয়েছে। তবে ভারত এখনো কোনো প্রতিক্রিয়া জানায়নি এবং কোনো বৈঠকের তারিখ ঘোষণা করেনি।",
-        "details_en": "With just 24 days remaining before the Ganges Water Sharing Treaty expires, Bangladesh renewed its request to India to begin formal negotiations after approaches in June and August. Dhaka informed New Delhi in June that it formed a technical committee and repeated the request in August, but India has not responded or announced a negotiation date.",
-        "hook_bn": "আসছে ১২ ডিসেম্বর মেয়াদ শেষ হচ্ছে গঙ্গা পানি বণ্টন চুক্তির।",
-        "question_bn": "গঙ্গা চুক্তি নবায়ন নিয়ে দুই দেশের আলোচনার বিষয়ে আপনার মতামত কী?"
+        "details_bn": "এপেক সম্মেলনের সময় আগামী November ১৮-১৯ তারিখে এই বৈঠকগুলো অনুষ্ঠিত হওয়ার কথা রয়েছে। বিশেষজ্ঞরা মনে করছেন, বর্তমান বাণিজ্য অস্ত্রবিরতি বজায় রাখা এবং দ্বিপক্ষীয় সম্পর্কের আরও অবনতি রোধ করাই দুই দেশের বাস্তবসম্মত অভিন্ন লক্ষ্য হতে পারে।",
+        "details_en": "The gatherings are scheduled for November 18-19. Experts interviewed by DW do not expect breakthroughs on trade or technology, noting that maintaining the existing trade truce may be a shared objective.",
+        "hook_bn": "চীন, যুক্তরাষ্ট্র ও রাশিয়ার নেতারা করবেন প্রথম ত্রিপক্ষীয় বৈঠক।",
+        "question_bn": "এপেক সম্মেলনে বিশ্বনেতাদের এই বৈঠক আন্তর্জাতিক রাজনীতিতে কেমন প্রভাব ফেলতে পারে বলে আপনার মনে হয়?"
       },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
       "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T19:02:27.338266+00:00"
+        "status": "unchecked",
+        "checked_at": "2026-11-17T20:13:36.536672+00:00"
       }
     },
     {
-      "story_id": "3796691f-5db3-5875-bcc7-a2a0e04c8e5c",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation",
-        "governance_law",
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#JensenHuang",
-        "#Nvidia",
-        "#USCongress"
-      ],
-      "image_url": "https://i.guim.co.uk/img/media/fea99f9d4b797af26b13a23bec5d015fdb40ae5a/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=925e666b4367461e96fdfe14c959ef16",
-      "image_caption": null,
-      "published_at": "2026-11-17T17:58:05+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.8442,
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy",
-          "title": "Jensen Huang to testify before Congress on ‘potential breach of national security’",
-          "snippet": "Jensen Huang to testify before Congress on ‘potential breach of national security’"
-        },
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/ex-nvidia-ceo-jensen-huang-acknowledges-mistakes-signals-interest-in-return-if-company-chooses/article71713348.ece",
-          "title": "Ex-Nvidia CEO Jensen Huang acknowledges ‘mistakes,’ signals interest in return if company chooses",
-          "snippet": "Ex-Nvidia CEO Jensen Huang acknowledges ‘mistakes,’ signals interest in return if company chooses"
-        },
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/economy/2026/11/17/jensen-huang-to-testify-before-us-house-committees-next-month?traffic_source=rss",
-          "title": "Jensen Huang agrees to testify before US House, says can resume CEO role",
-          "snippet": "Jensen Huang agrees to testify before US House, says can resume CEO role"
-        },
-        {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-          "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-          "snippet": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মার্কিন কংগ্রেসে সাক্ষ্য দিতে রাজি হয়েছেন এনভিডিয়ার সাবেক সিইও জেনসেন হুয়াং।",
-        "title_en": "Nvidia's former CEO Jensen Huang agrees to testify before US Congress.",
-        "summary_bn": "চীনের গোয়েন্দা সন্দেহের মুখে পদত্যাগ করা এনভিডিয়ার সাবেক প্রধান নির্বাহী জেনসেন হুয়াং মার্কিন কংগ্রেসে সাক্ষ্য দিতে রাজি হয়েছেন।",
-        "summary_en": "Nvidia's former CEO Jensen Huang has agreed to testify before US congressional committees following his resignation amid suspected Chinese spy allegations.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation",
-          "governance_law",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T17:58:05+00:00",
-        "lead_bn": "চীনের গোয়েন্দা সন্দেহের মুখে পদত্যাগ করা এনভিডিয়ার সাবেক প্রধান নির্বাহী জেনসেন হুয়াং মার্কিন কংগ্রেসে সাক্ষ্য দিতে রাজি হয়েছেন।",
-        "lead_en": "Nvidia's former CEO Jensen Huang has agreed to testify before US congressional committees following his resignation amid suspected Chinese spy allegations.",
-        "bullets_bn": [
-          "এনভিডিয়ার সাধারণ কৌশলী টিম টেটার আগামী ২ ডিসেম্বর একটি রুদ্ধদ্বার সাক্ষ্য ইন্টারভিউতে উপস্থিত থাকতে সম্মত হয়েছেন।",
-          "জেনসেন হুয়াংকে বোর্ডে ফিরিয়ে আনতে স্পেসএক্স ও টেসলার প্রধান ইলন মাস্কসহ ১ লাখ ৯০ হাজারেরও বেশি স্বাক্ষর জমা পড়েছে।",
-          "কোম্পানি চাইলে তিনি এনভিডিয়ার সিইও হিসেবে পুনরায় দায়িত্ব নিতে প্রস্তুত বলে জানিয়েছেন।"
-        ],
-        "bullets_en": [
-          "Nvidia's general counsel Tim Teter has agreed to appear for a closed-door transcribed interview on 2 December.",
-          "An online petition to reinstate Huang gathered more than 1,90,000 signatures, including from Elon Musk.",
-          "Huang stated he is ready and would be honoured to return as Nvidia CEO if the board wants him back."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "মার্কিন কংগ্রেসের তিন কমিটির চেয়ারম্যানদের চিঠির পরিপ্রেক্ষিতে এই শুনানি অনুষ্ঠিত হচ্ছে। চীনা নাগরিক ও সন্দেহভাজন গুপ্তচর অ্যালিস হুয়াংয়ের সাথে সম্পর্কের অভিযোগ ওঠার পর জেনসেন হুয়াং এনভিডিয়ার সিইও পদ থেকে পদত্যাগ করেন। সিঙ্গাপুরভিত্তিক ক্লাউড কম্পিউটিং কোম্পানি মেগাস্পিড ইন্টারন্যাশনাল প্রায় ৫ বিলিয়ন ডলারের এআই চিপ কিনেছে এবং মার্কিন রফতানি নিয়ন্ত্রণ লঙ্ঘন করে প্রায় ১২ বিলিয়ন ডলারের চিপ বিক্রির পথ সুগম করেছে। মালয়েশিয়া জানিয়েছে তারা কোম্পানিটির চিপ অন্য দেশে পাচারের বিষয়ে তদন্ত করছে।",
-        "details_en": "The hearing is set following a letter from three congressional committee chairs. Huang stepped down as Nvidia CEO after allegations of relationships with suspected Chinese spy Alice Huang and two employees. Singapore-based Megaspeed International bought nearly $5bn in AI chips and facilitated about $12bn in chip sales in violation of US export controls, prompting an investigation by Malaysia.",
-        "hook_bn": "এনভিডিয়ার সাবেক প্রধান নির্বাহী জেনসেন হুয়াং মার্কিন কংগ্রেসে সাক্ষ্য দেবেন।",
-        "question_bn": "চিপ প্রস্তুতকারী বড় প্রতিষ্ঠানের এই ঘটনায় প্রযুক্তি খাতের নিরাপত্তায় কী ধরনের প্রভাব পড়তে পারে বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 4,
-      "trending": true,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T19:02:27.338266+00:00"
-      }
-    },
-    {
-      "story_id": "8df16b34-7c93-502b-8b50-3324a6c19ca2",
+      "story_id": "801b03e1-9153-5ac8-8b89-ff141ff80c19",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy"
+        "world_diplomacy",
+        "economy_business"
       ],
       "region": "international",
       "tags": [
-        "#Iran",
-        "#Bahrain",
-        "#DonaldTrump",
-        "#Qatar"
+        "#UK",
+        "#Israel",
+        "#WestBank"
       ],
-      "image_url": "https://th-i.thgim.com/public/incoming/tj7g64/article71713259.ece/alternates/LANDSCAPE_1200/AFP_D7PJ9J2.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
       "image_caption": null,
-      "published_at": "2026-11-17T17:46:56+00:00",
+      "published_at": "2026-11-17T18:27:27+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.8138,
+      "importance_score": 2.12,
+      "rank_score": 0.4064,
       "sources": [
         {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+          "title": "UK sanctions firms over Israeli West Bank settlements",
+          "snippet": "UK sanctions firms over Israeli West Bank settlements"
+        },
+        {
           "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/iran-targets-bahrain-slams-fabricated-dirty-bomb-report/article71713177.ece",
-          "title": "Iran targets Bahrain, slams 'fabricated' dirty-bomb report",
-          "snippet": "Iran targets Bahrain, slams 'fabricated' dirty-bomb report"
+          "url": "https://www.thehindu.com/news/international/uk-sanctions-israeli-companies-building-west-bank-settlements/article71713186.ece",
+          "title": "U.K. sanctions Israeli companies building West Bank settlements",
+          "snippet": "U.K. sanctions Israeli companies building West Bank settlements"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাহরাইনে নতুন ড্রোন হামলা চালিয়েছে ইরান",
-        "title_en": "Iran launched a fresh drone attack against Bahrain",
-        "summary_bn": "ইরান ১৭ নভেম্বর ২০২৬ তারিখে বাহরাইনে একটি নতুন ড্রোন হামলা চালিয়েছে এবং যুক্তরাষ্ট্রের বিরুদ্ধে নোংরা বোমা ষড়যন্ত্রের অভিযোগ প্রত্যাখ্যান করেছে।",
-        "summary_en": "Iran launched a fresh drone attack against Bahrain on November 17, 2026, and dismissed a report alleging a dirty-bomb plot against the United States.",
+        "title_bn": "যুক্তরাজ্য ইসরায়েলি বসতি নির্মাণকারী প্রতিষ্ঠানের ওপর নিষেধাজ্ঞা দিয়েছে।",
+        "title_en": "UK sanctions firms over Israeli West Bank settlements.",
+        "summary_bn": "দখলকৃত পশ্চিম তীরে বসতি নির্মাণে জড়িত থাকার অভিযোগে আটটি নির্মাণ ও সম্পত্তি উন্নয়ন প্রতিষ্ঠানের ওপর নিষেধাজ্ঞা দিয়েছে যুক্তরাজ্য।",
+        "summary_en": "The UK has sanctioned eight construction and property development firms it said are involved in building settlements in the occupied West Bank.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "world_diplomacy",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-17T17:46:56+00:00",
-        "lead_bn": "ইরান ১৭ নভেম্বর ২০২৬ তারিখে বাহরাইনে একটি নতুন ড্রোন হামলা চালিয়েছে এবং যুক্তরাষ্ট্রের বিরুদ্ধে নোংরা বোমা ষড়যন্ত্রের অভিযোগ প্রত্যাখ্যান করেছে।",
-        "lead_en": "Iran launched a fresh drone attack against Bahrain on November 17, 2026, and dismissed a report alleging a dirty-bomb plot against the United States.",
+        "published_at": "2026-11-17T18:27:27+00:00",
+        "lead_bn": "দখলকৃত পশ্চিম তীরে বসতি নির্মাণে জড়িত থাকার অভিযোগে আটটি নির্মাণ ও সম্পত্তি উন্নয়ন প্রতিষ্ঠানের ওপর নিষেধাজ্ঞা দিয়েছে যুক্তরাজ্য।",
+        "lead_en": "The UK has sanctioned eight construction and property development firms it said are involved in building settlements in the occupied West Bank.",
         "bullets_bn": [
-          "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প বলেছেন, তিনি এই নোংরা বোমা ষড়যন্ত্রের প্রতিবেদনটিকে অত্যন্ত গুরুত্বের সাথে নিচ্ছেন।",
-          "ইরানি পররাষ্ট্র মন্ত্রণালয়ের মুখপাত্র ইসমাইল বাঘায়ি এই প্রতিবেদনটিকে বানোয়াট বলে উড়িয়ে দিয়েছেন।",
-          "শত্রুতা বৃদ্ধি পাওয়ার পর মধ্যস্থতাকারী কাতার সমস্ত পক্ষকে সংযত থাকার আহ্বান জানিয়েছে।"
+          "এই নিষেধাজ্ঞার লক্ষ্য হলো প্রতিষ্ঠানগুলোর অর্থপ্রবাহ এবং পশ্চিম তীরে ভবন নির্মাণে সহায়তার ক্ষমতা ব্যাহত করা।",
+          "ইসরায়েলি পররাষ্ট্রমন্ত্রী গিডিওন সাআর এই নিষেধাজ্ঞাকে ব্যক্তিগত ও আইনমান্যকারী প্রতিষ্ঠানের বিরুদ্ধে একটি বৈরী কাজ বলে অভিহিত করেছেন।",
+          "ফিলিস্তিনি পররাষ্ট্র মন্ত্রণালয় এই নিষেধাজ্ঞাকে স্বাগত জানিয়েছে এবং অন্যান্য দেশকেও একই পথ অনুসরণের আহ্বান জানিয়েছে।"
         ],
         "bullets_en": [
-          "U.S. President Donald Trump said he took the dirty-bomb plot report very seriously.",
-          "Iran's Foreign Ministry spokesman Esmaeil Baqaei dismissed the report as fabricated.",
-          "Mediator Qatar urged all parties to show restraint following an uptick in hostilities."
+          "The measures aim to disrupt the firms flows of finance and ability to support building in the West Bank.",
+          "Israeli Foreign Minister Gideon Saar called the sanctions a hostile act targeting private, law-abiding companies.",
+          "The Palestinian foreign ministry welcomed the sanctions and called on other countries to follow suit."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "পশ্চিম এশিয়া যুদ্ধের পর তেহরানের হরমুজ প্রণালী অবরুদ্ধকরণের বেশ কিছুদিন পর গত সেপ্টেম্বর থেকে উপসাগরীয় দেশগুলোর ওপর ইরানি হামলা কমেছিল। কিন্তু গত পাঁচ দিনে বাহরাইনকে তিন দফায় লক্ষ্যবস্তু করা হয়েছে। সিএনএন-এর প্রতিবেদনে বলা হয়েছে, যুক্তরাষ্ট্র প্রশাসনের জ্যেষ্ঠ ব্যক্তিদের লক্ষ্যবস্তু করার ষড়যন্ত্র করছে ইরান।",
-        "details_en": "Months into Tehran's blockade of the Strait of Hormuz sparked by the West Asia war, Iranian attacks on Gulf countries had seen a lull since September. Bahrain was targeted three times in five days during the uptick in hostilities, following CNN's citation of U.S. officials regarding a plot against senior administration figures.",
-        "hook_bn": "পাঁচ দিনে বাহরাইনে তিন দফায় হামলা চালিয়েছে ইরান।",
-        "question_bn": null
+        "details_bn": "যুক্তরাজ্য সরকারের পক্ষ থেকে ইসরায়েলি পদক্ষেপের বিরুদ্ধে কঠোর দৃষ্টিভঙ্গি ঘোষণার পর এটিই প্রথম ব্যবস্থা। আন্তর্জাতিক আইনে অবৈধ হওয়া সত্ত্বেও সাম্প্রতিক বছরগুলোতে বসতি নির্মাণ তীব্রভাবে বেড়েছে এবং ফিলিস্তিনিদের ওপর বসতিস্থাপনকারীদের হামলাও বৃদ্ধি পেয়েছে। দীর্ঘ আলোচিত ইওয়ান প্রকল্প পূর্ব জেরুজালেমকে দখলকৃত পশ্চিম তীরের ফিলিস্তিনি জনবহুল কেন্দ্রগুলো থেকে বিচ্ছিন্ন করে দিতে পারে বলে জানিয়েছে ব্রিটেন।",
+        "details_en": "This is the first package of measures since the government announced a tougher approach to Israeli actions. The construction of settlements, which are illegal under international law, has risen sharply in recent years alongside a surge in settler attacks. Britain also said the long-discussed E1 project would effectively cut off eastern Jerusalem from Palestinian population centres in the occupied West Bank.",
+        "hook_bn": "যুক্তরাজ্য পশ্চিম তীরে বসতি নির্মাণকারী প্রতিষ্ঠানের ওপর নিষেধাজ্ঞা দিয়েছে।",
+        "question_bn": "ইসরায়েলি বসতি নিয়ে যুক্তরাজ্যের এই নিষেধাজ্ঞাকে আপনি কীভাবে দেখছেন?"
       },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": true,
-      "social_appeal": 5.0,
       "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T19:02:27.338266+00:00"
+        "status": "unchecked",
+        "checked_at": "2026-11-17T20:13:36.536672+00:00"
       }
     }
   ]
