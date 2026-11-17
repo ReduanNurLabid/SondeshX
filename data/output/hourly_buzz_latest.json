@@ -1,5 +1,443 @@
 {
-  "updated_at": "2026-11-17T05:00:38.252519",
-  "total_stories": 0,
-  "stories": []
+  "updated_at": "2026-11-17T06:00:44.023514",
+  "total_stories": 6,
+  "stories": [
+    {
+      "story_id": "01bb7ff6-9781-5c01-bc2d-0ee390549e74",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "economy_business",
+        "society_education",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Dhaka",
+        "#AirQualityIndex",
+        "#AirPollution"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/08/17/2728414.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-17T05:50:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5581,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/dhakas-air-quality-turns-very-unhealthy-tops-global-pollution-list-1605086",
+          "title": "Dhaka's air quality turns 'very unhealthy', tops global pollution list",
+          "snippet": "Dhaka's air quality turns 'very unhealthy', tops global pollution list"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "১৭ নভেম্বর সকালে ঢাকার বাতাস খুবই অস্বাস্থ্যকর হয়ে ওঠে।",
+        "title_en": "Dhaka air quality turns very unhealthy on seventeen November.",
+        "summary_bn": "১৭ নভেম্বর সকাল ১১:৩০ মিনিটে ২৯২ একিউআই স্কোর নিয়ে ঢাকা বিশ্বের সবচেয়ে দূষিত শহরের তালিকার শীর্ষে অবস্থান করে।",
+        "summary_en": "Dhaka ranked first among the world's most polluted cities on seventeen November at 11:30am with an AQI score of 292.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "economy_business",
+          "society_education",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T05:50:00+00:00",
+        "lead_bn": "১৭ নভেম্বর সকাল ১১:৩০ মিনিটে ২৯২ একিউআই স্কোর নিয়ে ঢাকা বিশ্বের সবচেয়ে দূষিত শহরের তালিকার শীর্ষে অবস্থান করে।",
+        "lead_en": "Dhaka ranked first among the world's most polluted cities on seventeen November at 11:30am with an AQI score of 292.",
+        "bullets_bn": [
+          "পাকিস্তানের লাহোর ২৪৬ একিউআই স্কোর নিয়ে তালিকায় দ্বিতীয় এবং ভারতের কলকাতা ২৩২ একিউআই স্কোর নিয়ে তৃতীয় অবস্থানে ছিল।",
+          "একিউআই স্কেলে ২০১ থেকে ৩০০ স্কোরকে খুবই অস্বাস্থ্যকর এবং ৩০১ এর বেশি স্কোরকে ঝুঁকিপূর্ণ হিসেবে বিবেচনা করা হয়।",
+          "বাংলাদেশের বায়ুমানের মূল্যায়ন করা হয় পাঁচটি প্রধান দূষকের ওপর ভিত্তি করে।"
+        ],
+        "bullets_en": [
+          "Pakistan's Lahore ranked second on the list with an AQI score of 246 followed by India's Kolkata at 232.",
+          "Readings of 201 to 300 are classified as very unhealthy while scores above 301 are considered hazardous.",
+          "Air quality in Bangladesh is assessed based on five major pollutants."
+        ],
+        "impact_bn": "খুবই অস্বাস্থ্যকর বাতাসের কারণে স্বাস্থ্যগত অবস্থা নির্বিশেষে স্বল্পমেউদি এক্সপোজারের পরেও সবাই আরও গুরুতর স্বাস্থ্যগত প্রভাবের মুখোমুখি হতে পারেন।",
+        "impact_en": "Everyone regardless of health condition may experience more serious health effects from air pollution even after short-term exposure.",
+        "details_bn": "বিশ্ব স্বাস্থ্য সংস্থার প্রাক্কলন অনুযায়ী, স্ট্রোক, হৃদরোগ, ক্রনিক অবস্ট্রাক্টিভ পালমোনারি ডিজিজ, ফুসফুসের ক্যান্সার এবং তীব্র শ্বাসযন্ত্রের সংক্রমণের কারণে বিশ্বব্যাপী প্রতি বছর প্রায় সাত মিলিয়ন মানুষের মৃত্যু হয়। বাংলাদেশের বায়ুমানের মূল্যায়নে ব্যবহৃত পাঁচটি প্রধান দূষক হলো পার্টিকুলেট ম্যাটার পিএম১০ এবং পিএম২.৫, নাইট্রোজেন ডাইঅক্সাইড, কার্বন মনোক্সাইড, সালফার ডাইঅক্সাইড এবং ওজোন।",
+        "details_en": "The World Health Organization estimates that air pollution causes around seven million deaths worldwide each year primarily from stroke heart disease chronic obstructive pulmonary disease lung cancer and acute respiratory infections. In Bangladesh air quality is assessed based on five major pollutants including particulate matter PM10 and PM2.5 nitrogen dioxide carbon monoxide sulphur dioxide and ozone.",
+        "hook_bn": "ঢাকায় একিউআই স্কোর ২৯২, বাতাস খুবই অস্বাস্থ্যকর।",
+        "question_bn": "আপনার এলাকার বাতাসের বর্তমান পরিস্থিতি কেমন মনে হচ্ছে?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T06:03:17.116183+00:00"
+      }
+    },
+    {
+      "story_id": "97d23ac6-c524-51a2-8d92-3c849ee01b2c",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#SaifPowertec",
+        "#ChattogramPort",
+        "#PortWorkers"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/10/01/ctg_port_photo2.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-17T05:40:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5241,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/saif-powertec-workers-strike-disrupts-ctg-port-operations-1605071",
+          "title": "Saif Powertec workers' strike disrupts Ctg Port operations",
+          "snippet": "Saif Powertec workers' strike disrupts Ctg Port operations"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সাইফ পাওয়ারটেকের শ্রমিকদের কর্মবিরতিতে চট্টগ্রাম বন্দরের অপারেশন ব্যাহত",
+        "title_en": "Saif Powertec workers' strike disrupts Chattogram Port operations",
+        "summary_bn": "বকেয়া পাওনা ও অন্যান্য সেবামূলক সুবিধার দাবিতে সাইফ পাওয়ারটেক লিমিটেডের শ্রমিক ও কর্মচারীদের কর্মবিরতিতে ১৭ নভেম্বর চট্টগ্রাম বন্দরের অপারেশন ব্যাহত হয়েছে।",
+        "summary_en": "Operations at Chattogram Port were disrupted on 17 November as workers and employees of Saif Powertec Limited abstained from work, demanding outstanding dues.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T05:40:00+00:00",
+        "lead_bn": "বকেয়া পাওনা ও অন্যান্য সেবামূলক সুবিধার দাবিতে সাইফ পাওয়ারটেক লিমিটেডের শ্রমিক ও কর্মচারীদের কর্মবিরতিতে ১৭ নভেম্বর চট্টগ্রাম বন্দরের অপারেশন ব্যাহত হয়েছে।",
+        "lead_en": "Operations at Chattogram Port were disrupted on 17 November as workers and employees of Saif Powertec Limited abstained from work, demanding outstanding dues.",
+        "bullets_bn": [
+          "বন্দর সূত্রে জানা গেছে, সকাল আটটায় শুরু হওয়া এই কর্মবিরতির কারণে বেসরকারি কোম্পানির পরিচালিত কার্গো ও কন্টেইনার হ্যান্ডলিং কার্যক্রম বন্ধ রয়েছে।",
+          "সাইফ পাওয়ারটেক লিমিটেড ওয়ার্কিং অ্যাট চট্টগ্রাম পোর্টের অল লং-ডিপ্রাইভড ওয়ার্কার্স অ্যান্ড এমপ্লয়িজের ব্যানারে বন্দর প্রাঙ্গণে মানববন্ধনে পাঁচ দফা দাবি উত্থাপন করা হয়।",
+          "চুক্তির মেয়াদ শেষের পথে থাকায় এবং নতুন অপারেটর নিয়োগ প্রক্রিয়া চলতে থাকায় শ্রমিকেরা বকেয়া পাওনা না পাওয়ার আশঙ্কা করছেন।"
+        ],
+        "bullets_en": [
+          "Port sources stated that the work stoppage began at 8am, halting cargo and container handling activities operated by the private company.",
+          "Protesters formed a human chain on the port premises under a specific banner and raised five demands for service benefits.",
+          "Workers fear their entitlements may remain unpaid as the port authority processes appointing a new operator and contract extension nears its end."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "চট্টগ্রাম বন্দর কর্তৃপক্ষ টার্মিনাল পরিচালনার জন্য সাইফ পাওয়ারটেকের চুক্তির মেয়াদ ২ নভেম্বর শেষের পর তিন সপ্তাহ বাড়িয়েছে। বন্দর কর্তৃপক্ষ নতুন অপারেটর নিয়োগের প্রক্রিয়া চালিয়ে যাওয়ায় এই অস্থায়ী মেয়াদ বাড়ানো হয়েছিল।",
+        "details_en": "The Chattogram Port Authority extended Saif Powertec's contract to operate the Chittagong Container Terminal by three weeks beyond its expiry on 2 November. The temporary extension was granted as the port authority continues appointing a new operator.",
+        "hook_bn": "বকেয়া পাওনার দাবিতে চট্টগ্রাম বন্দরে সাইফ পাওয়ারটেকের শ্রমিকদের কর্মবিরতি",
+        "question_bn": "বকেয়া পাওনা ও সেবামূলক সুবিধা আদায়ে শ্রমিকদের এমন আন্দোলন নিয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T06:03:17.116183+00:00"
+      }
+    },
+    {
+      "story_id": "dbbf4cd6-5ffc-5d12-879d-aedd78401e28",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/Vashani.png",
+      "image_caption": null,
+      "published_at": "2026-11-17T04:21:28+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.5,
+      "rank_score": 2.7455,
+      "sources": [
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/feature/history-and-tradition/post-1221683/",
+          "title": "আজ মজলুম জননেতা মওলানা ভাসানীর ৫০তম মৃত্যুবার্ষিকী",
+          "snippet": "আজ মজলুম জননেতা মওলানা ভাসানীর ৫০তম মৃত্যুবার্ষিকী"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/50th-death-anniversary-oppressed-peoples-leader-maulana-bhashani/",
+          "title": "মজলুম জননেতা মওলানা ভাসানীর ৫০তম মৃত্যুবার্ষিকী",
+          "snippet": "মজলুম জননেতা মওলানা ভাসানীর ৫০তম মৃত্যুবার্ষিকী"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1180358",
+          "title": "মওলানা আব্দুল হামিদ খান ভাসানীর ৫০তম মৃত্যুবার্ষিকী",
+          "snippet": "মওলানা আব্দুল হামিদ খান ভাসানীর ৫০তম মৃত্যুবার্ষিকী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মওলানা আবদুল হামিদ খান ভাসানীর ৫০তম মৃত্যুবার্ষিকী পালিত হচ্ছে",
+        "title_en": "The 50th death anniversary of Mawlana Abdul Hamid Khan Bhashani is observed.",
+        "summary_bn": "টাঙ্গাইলের সন্তোষে বিভিন্ন কর্মসূচির মধ্য দিয়ে মওলানা আবদুল হামিদ খান ভাসানীর ৫০তম মৃত্যুবার্ষিকী পালন করা হচ্ছে।",
+        "summary_en": "The 50th death anniversary of Mawlana Abdul Hamid Khan Bhashani is being observed through various programs in Santosh, Tangail.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T04:21:28+00:00",
+        "lead_bn": "টাঙ্গাইলের সন্তোষে বিভিন্ন কর্মসূচির মধ্য দিয়ে মওলানা আবদুল হামিদ খান ভাসানীর ৫০তম মৃত্যুবার্ষিকী পালন করা হচ্ছে।",
+        "lead_en": "The 50th death anniversary of Mawlana Abdul Hamid Khan Bhashani is being observed through various programs in Santosh, Tangail.",
+        "bullets_bn": [
+          "সন্তোষে মওলানা ভাসানীর সমাধিতে পুষ্পস্তবক অর্পণ, দোয়া ও মোনাজাত করা হয়েছে।",
+          "মাজার প্রাঙ্গণে সাত দিনব্যাপী ঐতিহ্যবাহী ভাসানী মেলা শুরু হয়েছে।",
+          "জেলা বিএনপির উদ্যোগে মাজার প্রাঙ্গণে মওলানা ভাসানীর জীবন ও কর্মের ওপর আলোচনা সভা অনুষ্ঠিত হবে।"
+        ],
+        "bullets_en": [
+          "Floral wreaths, prayers, and munajat were offered at the grave of Mawlana Bhashani in Santosh.",
+          "A seven-day traditional Bhashani Mela has started on the shrine premises.",
+          "A discussion meeting on the life and work of Mawlana Bhashani will be held on the shrine premises by the district BNP."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "টাঙ্গাইলের সন্তোষে মওলানা ভাসানীর ৫০তম মৃত্যুবার্ষিকী পালিত হচ্ছে।",
+        "question_bn": "মওলানা ভাসানীর জীবন ও আদর্শ সম্পর্কে আপনার মতামত কী?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T06:03:17.116183+00:00"
+      }
+    },
+    {
+      "story_id": "0ab3d1fc-1750-5038-b2e5-f41f68259cb1",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-17%2Fqobpjpt4%2FNahid-Islam.jpg?rect=0%2C75%2C4000%2C2100&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-17T04:18:44+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.25,
+      "rank_score": 2.4951,
+      "sources": [
+        {
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/0jgcjbwf6l",
+          "title": "আ.লীগকে রাজনৈতিকভাবে জায়গা দেওয়ার পর এখন বিএনপি নিজেই সংকটের মুখে: নাহিদ ইসলাম",
+          "snippet": "আ.লীগকে রাজনৈতিকভাবে জায়গা দেওয়ার পর এখন বিএনপি নিজেই সংকটের মুখে: নাহিদ ইসলাম"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821444/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%86%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A6%95%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A7%9F%E0%A6%97%E0%A6%BE-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%8F%E0%A6%96%E0%A6%A8",
+          "title": "রাজনৈতিকভাবে আওয়ামী লীগকে জায়গা দেওয়ার পর এখন বিএনপি নিজেই সংকটের মুখে: নাহিদ",
+          "snippet": "রাজনৈতিকভাবে আওয়ামী লীগকে জায়গা দেওয়ার পর এখন বিএনপি নিজেই সংকটের মুখে: নাহিদ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আওয়ামী লীগকে জায়গা দেওয়ায় বিএনপি সংকটে পড়েছে বলে মন্তব্য নাহিদ ইসলামের",
+        "title_en": "Nahid Islam says BNP faces crisis after giving space to Awami League",
+        "summary_bn": "জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলাম অভিযোগ করেছেন যে বিএনপি সরকার আওয়ামী লীগকে রাজনৈতিক পরিসরে জায়গা দেওয়ার পর এখন নিজেই সংকটের মুখে পড়েছে।",
+        "summary_en": "National Citizen Party convenor Nahid Islam alleged that the BNP faces a crisis after giving space to the Awami League.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T04:18:44+00:00",
+        "lead_bn": "জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলাম অভিযোগ করেছেন যে বিএনপি সরকার আওয়ামী লীগকে রাজনৈতিক পরিসরে জায়গা দেওয়ার পর এখন নিজেই সংকটের মুখে পড়েছে।",
+        "lead_en": "National Citizen Party convenor Nahid Islam alleged that the BNP faces a crisis after giving space to the Awami League.",
+        "bullets_bn": [
+          "যুক্তরাজ্যের পূর্ব লন্ডনের রমফোর্ডের দ্য মেফেয়ার ভেন্যুতে এক নাগরিক সংবর্ধনা অনুষ্ঠানে এই বক্তব্য দেন নাহিদ ইসলাম।",
+          "সংবর্ধনা শেষে ভেন্যুর সামনে জাতীয় নাগরিক পার্টি ও আওয়ামী লীগের নেতা-কর্মীদের মধ্যে সংঘর্ষে পাঁচজন আহত হন।",
+          "দ্রুত সংস্কার বাস্তবায়ন ও জুলাই গণঅভ্যুত্থানে সংঘটিত অপরাধের বিচার নিশ্চিত করার আহ্বান জানান নাহিদ ইসলাম।"
+        ],
+        "bullets_en": [
+          "Nahid Islam made the remarks at a civic reception event at The Mayfair Venue in Romford, East London, UK.",
+          "Five people were injured in clashes between National Citizen Party and Awami League activists outside the venue after the reception.",
+          "Nahid Islam called for swift implementation of reforms and ensuring justice for crimes committed in the July uprising."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "নাহিদ ইসলাম বলেন, গত সাত মাসে বিএনপি সরকার জাতীয় ঐক্য, সমঝোতা ও অন্তর্ভুক্তিমূলক রাজনীতির নামে আওয়ামী লীগকে রাজনৈতিক পরিসরে জায়গা দেওয়ার চেষ্টা করেছে। তিনি আরও বলেন, জিয়াউর রহমান আওয়ামী লীগকে রাজনীতি করার সুযোগ দিয়েছিলেন এবং তাঁকে নিজের জীবনদানের মাধ্যমে এর প্রায়শ্চিত্ত করতে হয়েছিল। এ ছাড়া খালেদা জিয়া ও তারেক রহমানকেও রাজনৈতিক প্রতিকূলতার মুখোমুখি হতে হয়েছে বলে উল্লেখ করেন তিনি।",
+        "details_en": "Nahid Islam said the BNP government has tried to give space to the Awami League in the political sphere in the name of national unity, reconciliation, and inclusive politics over the past seven months. He added that Ziaur রহমান gave the Awami League the opportunity to do politics and had to pay the price with his life. He also mentioned that Khaleda Zia and Tarique Rahman faced political adversity.",
+        "hook_bn": "আওয়ামী লীগকে রাজনৈতিক জায়গা দেওয়ায় বিএনপি সংকটের মুখে পড়েছে।",
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T06:03:17.116183+00:00"
+      }
+    },
+    {
+      "story_id": "a7374735-27d4-5ca2-9d7d-744d24f9c87b",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "climate_environment",
+        "sports_fitness"
+      ],
+      "region": "international",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://static.dw.com/image/79529157_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-17T05:40:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5241,
+      "sources": [
+        {
+          "name": "DW বাংলা",
+          "url": "https://www.dw.com/bn/কিয়েভে-দুইটি-সেতুতে-রাশিয়ার-হামলা-পাল্টা-আক্রমণে-ইউক্রেন/live-79954209?maca=ben-rss-ben-all-3197-rdf",
+          "title": "কিয়েভে দুইটি সেতুতে রাশিয়ার হামলা, পাল্টা আক্রমণে ইউক্রেন",
+          "snippet": "কিয়েভে দুইটি সেতুতে রাশিয়ার হামলা, পাল্টা আক্রমণে ইউক্রেন"
+        },
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/ukraine-russian-strikes-hit-bridges-in-kyiv-mayor-says/live-79964446?maca=en-rss-en-all-1573-rdf",
+          "title": "Ukraine: Russian strikes hit bridges in Kyiv, mayor says",
+          "snippet": "Ukraine: Russian strikes hit bridges in Kyiv, mayor says"
+        },
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+          "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
+          "snippet": "Two major Kyiv bridges hit in Russian attack, mayor says"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইউক্রেনের কিয়েভে নিপার নদীর দুটি সেতুতে রাশিয়ার হামলা",
+        "title_en": "Russian strikes hit two bridges on the Dnipro River in Kyiv",
+        "summary_bn": "ইউক্রেনের রাজধানী কিয়েভে নিপার নদীর ওপর অবস্থিত দুটি সেতুতে রুশ বাহিনী হামলা চালিয়েছে বলে জানিয়েছেন শহরটির মেয়র ভিতালি ক্লিচকো।",
+        "summary_en": "Kyiv mayor Vitali Klitschko said Russian forces have hit two bridges on the Dnipro River in the Ukrainian capital.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "climate_environment",
+          "sports_fitness"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T05:40:00+00:00",
+        "lead_bn": "ইউক্রেনের রাজধানী কিয়েভে নিপার নদীর ওপর অবস্থিত দুটি সেতুতে রুশ বাহিনী হামলা চালিয়েছে বলে জানিয়েছেন শহরটির মেয়র ভিতালি ক্লিচকো।",
+        "lead_en": "Kyiv mayor Vitali Klitschko said Russian forces have hit two bridges on the Dnipro River in the Ukrainian capital.",
+        "bullets_bn": [
+          "হামলায় গুরুত্বপূর্ণ অবকাঠামোর ক্ষয়ক্ষতি হয়েছে বলে ক্লিচকো জানিয়েছেন।",
+          "হামলার ফলে শহরের বিভিন্ন এলাকায় গরম জলের সরবরাহে বিঘ্ন সৃষ্টি হয়েছে।",
+          "রাশিয়ার মূল ভূখণ্ডের সঙ্গে সংযুক্ত অধিকৃত ক্রাইমিয়ার সেতুতে হামলা চালিয়েছে ইউক্রেন।"
+        ],
+        "bullets_en": [
+          "Klitschko stated that the attacks caused damage to important infrastructure.",
+          "The strikes caused disruptions in the supply of hot water in various areas of the city.",
+          "Ukraine launched an attack on the Crimean Bridge connected to the Russian mainland."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "চলতি মাসের শুরুতে এবং গত অক্টোবরেও কিয়েভের বিভিন্ন সেতুতে ধারাবাহিক হামলা চালায় রুশ বাহিনী। এসব হামলার কারণে রাজধানীতে যোগাযোগ ও পরিবহণ ব্যবস্থায় ব্যাপক বিঘ্ন ঘটে। এর আগে ইউক্রেনের প্রেসিডেন্ট ভলোদিমির জেলেনস্কি সতর্ক করে জানিয়েছিলেন যে রাশিয়া হামলার পরিকল্পনা করছে।",
+        "details_en": "Russian forces previously launched consecutive attacks on various bridges in Kyiv earlier this month and in October, causing widespread disruptions in communication and transport. Earlier, Ukrainian President Volodymyr Zelenskyy warned that Russia was planning attacks.",
+        "hook_bn": "কিয়েভের দুটি সেতুতে রাশিয়ার হামলা, ব্যাহত গরম জল সরবরাহ",
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T06:03:17.116183+00:00"
+      }
+    },
+    {
+      "story_id": "98fe3483-d829-5df7-9891-2aa30f39ce21",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#Mongolia",
+        "#KhurelsukhUkhnaa",
+        "#StateGreatKhural"
+      ],
+      "image_url": "https://static.dw.com/image/79964716_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-17T05:55:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4828,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/mongolian-president-khurelsukh-to-resign-amid-corruption-allegations/a-79964717?maca=en-rss-en-all-1573-rdf",
+          "title": "Mongolian President Khurelsukh to resign amid corruption allegations",
+          "snippet": "Mongolian President Khurelsukh to resign amid corruption allegations"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "দুর্নীতির অভিযোগে পদত্যাগ করার ঘোষণা মঙ্গোলিয়ার রাষ্ট্রপতির",
+        "title_en": "Mongolian President Khurelsukh to resign amid corruption allegations",
+        "summary_bn": "মঙ্গোলিয়ার রাষ্ট্রপতি উখনাগিন খুরেলসুখ দুর্নীতির অভিযোগের মুখে পদত্যাগ করার ঘোষণা দিয়েছেন।",
+        "summary_en": "Mongolian President Khurelsukh Ukhnaa announced he would resign after facing corruption allegations.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T05:55:00+00:00",
+        "lead_bn": "মঙ্গোলিয়ার রাষ্ট্রপতি উখনাগিন খুরেলসুখ দুর্নীতির অভিযোগের মুখে পদত্যাগ করার ঘোষণা দিয়েছেন।",
+        "lead_en": "Mongolian President Khurelsukh Ukhnaa announced he would resign after facing corruption allegations.",
+        "bullets_bn": [
+          "বিরোধী ডেমোক্রেটিক পার্টি তাকে একটি সরকারি রেলওয়ে প্রকল্প থেকে লাভবান হওয়ার অভিযোগে অভিযুক্ত করেছে।",
+          "রাষ্ট্রপতি খুরেলসুখ জানিয়েছেন যে তিনি মিথ্যা ও মানহানিকর অভিযোগের শিকার হয়েছেন।",
+          "পার্লামেন্ট স্টেট গ্রেট খুড়াল কর্তৃক পদত্যাগপত্র গ্রহণের আগে তা কার্যকর হবে না।"
+        ],
+        "bullets_en": [
+          "The opposition Democratic Party accused him of profiting from a government railway project.",
+          "President Khurelsukh stated that he was falsely accused and defamed.",
+          "Before the resignation takes effect, it must first be accepted by parliament, the State Great Khural."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মঙ্গোল পিপলস পার্টির সদস্য খুরেলসুখ ২০২১ সাল থেকে রাষ্ট্রপতি হিসেবে দায়িত্ব পালন করছেন। তবে দলটির অভ্যন্তরীণ কোন্দলের কারণে নয় মাসে তিনজন প্রধানমন্ত্রী ক্ষমতায় আসায় বিশৃঙ্খলা দেখা দিয়েছে। ইতিপূর্বে তিনি জার্মানি সফর করেছিলেন।",
+        "details_en": "Khurelsukh, from the Mongolian People's Party, has been president since 2021. However, infighting has caused disruption in the party, with three prime ministers taking office in just nine months. He previously paid a state visit to Germany.",
+        "hook_bn": "দুর্নীতির অভিযোগে পদত্যাগ করার ঘোষণা দিলেন মঙ্গোলিয়ার রাষ্ট্রপতি।",
+        "question_bn": "দুর্নীতির অভিযোগে শীর্ষ নেতাদের পদত্যাগ করার বিষয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T06:03:17.116183+00:00"
+      }
+    }
+  ]
 }
