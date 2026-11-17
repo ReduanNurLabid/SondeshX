@@ -233,7 +233,7 @@ def _gemini_speech(texts: list, out_wav: str) -> bool:
 
     script = "\n\n".join(texts)
     prompt = ("Read this Bangla news script aloud as a calm, clear, warm Bangladeshi newsreader, "
-              "at a natural pace. Pause for about one second between paragraphs. "
+              "at a natural pace. After each paragraph, stop and stay silent for two full seconds before the next one. "
               "Read only the script.\n\n" + script)
     config = types.GenerateContentConfig(
         response_modalities=["AUDIO"],
@@ -251,8 +251,12 @@ def _gemini_speech(texts: list, out_wav: str) -> bool:
             if not pcm:
                 continue
             seconds = len(pcm) / (2 * TTS_RATE)
+            pauses = 2.0 * (len(texts) - 1)
             if seconds < 0.6 * expected:
                 print(f"Gemini voice stopped early ({seconds:.1f}s of about {expected:.0f}s); retrying")
+                continue
+            if seconds > 1.6 * expected + pauses + 2:
+                print(f"Gemini voice ran far too long ({seconds:.1f}s for about {expected:.0f}s of script); rejected")
                 continue
             with wave.open(out_wav, "wb") as w:
                 w.setnchannels(1)
@@ -269,7 +273,7 @@ def _gemini_speech(texts: list, out_wav: str) -> bool:
 def _silences(path: str) -> list:
     """(start, end) of pauses in the speech, via ffmpeg silencedetect."""
     log = subprocess.run(
-        ["ffmpeg", "-i", path, "-af", "silencedetect=noise=-35dB:d=0.35", "-f", "null", "-"],
+        ["ffmpeg", "-i", path, "-af", "silencedetect=noise=-35dB:d=0.6", "-f", "null", "-"],
         capture_output=True, text=True,
     ).stderr
     starts = [float(x.split("silence_start: ")[1].split()[0]) for x in log.splitlines() if "silence_start: " in x]
@@ -278,18 +282,32 @@ def _silences(path: str) -> list:
 
 
 def _boundaries(texts: list, speech_len: float, pauses: list) -> list:
-    """Times where each part after the first begins. Uses the longest pauses when the
-    voice paused between every part; otherwise splits by text length."""
+    """Times where each part after the first begins. Uses the longest pauses, but only
+    if the resulting parts are in proportion to their text (a mid-sentence pause would
+    otherwise switch the on-screen card at the wrong moment); else splits by length."""
     need = len(texts) - 1
+    total_chars = sum(len(t) for t in texts)
+
+    def by_length():
+        cuts, acc = [], 0
+        for t in texts[:-1]:
+            acc += len(t)
+            cuts.append(round(speech_len * acc / total_chars, 3))
+        return cuts
+
     inner = [p for p in pauses if 0.3 < p[0] < speech_len - 0.3]
-    if len(inner) >= need:
-        chosen = sorted(sorted(inner, key=lambda p: p[1] - p[0], reverse=True)[:need])
-        return [round((p0 + p1) / 2, 3) for p0, p1 in chosen]
-    total = sum(len(t) for t in texts)
-    cuts, acc = [], 0
-    for t in texts[:-1]:
-        acc += len(t)
-        cuts.append(round(speech_len * acc / total, 3))
+    if len(inner) < need:
+        print("Voice timing: not enough clear pauses; splitting by text length")
+        return by_length()
+    chosen = sorted(sorted(inner, key=lambda p: p[1] - p[0], reverse=True)[:need])
+    cuts = [round((p0 + p1) / 2, 3) for p0, p1 in chosen]
+    edges = [0.0] + cuts + [speech_len]
+    for i, t in enumerate(texts):
+        share_time = (edges[i + 1] - edges[i]) / speech_len
+        share_text = len(t) / total_chars
+        if not 0.4 <= share_time / max(share_text, 1e-6) <= 2.5:
+            print("Voice timing: pauses do not match the parts; splitting by text length")
+            return by_length()
     return cuts
 
 
@@ -315,8 +333,10 @@ def _music_piece(path: str, start: float, length: float, fade_in: float, fade_ou
 
 
 def _voice_piece(path: str, src: str, start: float, end: float):
+    trim = ("silenceremove=start_periods=1:start_threshold=-40dB:start_silence=0.08,areverse,"
+            "silenceremove=start_periods=1:start_threshold=-40dB:start_silence=0.15,areverse")
     _ff("-ss", f"{start}", "-to", f"{end}", "-i", src, "-af",
-        "volume=1.5,aresample=48000,aformat=channel_layouts=stereo", path)
+        f"{trim},volume=1.5,aresample=48000,aformat=channel_layouts=stereo", path)
 
 
 def _place(items: list, total: float, out: str):

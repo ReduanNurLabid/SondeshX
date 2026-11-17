@@ -23,7 +23,6 @@ METRICS = {
     "post_video_likes_by_reaction_type": "reactions",
     "post_video_avg_time_watched": "avg_watch_ms",
     "post_video_social_actions": "interactions",
-    "post_video_views": "views_3s",          # 3-second views, where Facebook provides it for Reels
 }
 
 
@@ -51,7 +50,8 @@ def fetch_insights(video_id: str, token: str) -> dict:
 
 
 PHOTO_METRICS = {
-    "post_impressions_unique": "reach",
+    "post_total_media_view_unique": "reach",
+    "post_media_view": "views",
     "post_clicks": "clicks",
     "post_reactions_by_type_total": "reactions",
 }

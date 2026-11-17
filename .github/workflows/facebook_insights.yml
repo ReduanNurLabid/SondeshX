@@ -1,0 +1,29 @@
+name: Facebook Post Insights
+
+# Reads plays, watch time, reach, clicks, reactions and comments for the last week's
+# Facebook posts and stores them for the dashboard. Once a day, 05:10 Bangladesh time.
+on:
+  schedule:
+    - cron: '10 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  insights:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+      - run: pip install -r requirements.txt
+      - name: Read Post Performance From Facebook
+        env:
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
+          PYTHONPATH: .
+        run: python -m pipeline.social.reel_insights
