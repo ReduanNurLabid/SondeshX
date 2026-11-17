@@ -42,9 +42,32 @@ jobs:
           if [ -n "$last" ]; then
             age_min=$(( ( $(date -u +%s) - $(date -u -d "$last" +%s) ) / 60 ))
             echo "Last successful run started ${age_min} minutes ago."
-            if [ "$age_min" -lt 45 ]; then
+            # 75 min: the backup only runs when cron-job.org actually missed an hour,
+            # so a late GitHub run never holds the lock ahead of the punctual one.
+            if [ "$age_min" -lt 75 ]; then
               echo "skip=true" >> "$GITHUB_OUTPUT"
             fi
+          fi
+
+      # Facebook Reels, 8 a day weighted to the evening peak (Bangladesh time), each a
+      # different story: voiced at 09, 13, 19, 21; music-only at 11, 17, 20, 22.
+      # Started first, not after the news run and site deploy, so it posts a few
+      # minutes after the hour; it picks from stories of the last few hours anyway.
+      - name: Start Facebook Post For This Slot
+        if: steps.guard.outputs.skip != 'true'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          hour=$(TZ=Asia/Dhaka date +%-H)
+          if [[ " 9 13 19 21 " == *" $hour "* ]]; then
+            gh workflow run facebook_reels.yml --repo "$GITHUB_REPOSITORY" --ref main -f dry_run=false -f auto=true -f format=reel
+            echo "Reel started for the ${hour}:00 slot."
+          elif [[ " 11 17 20 22 " == *" $hour "* ]]; then
+            gh workflow run facebook_reels.yml --repo "$GITHUB_REPOSITORY" --ref main -f dry_run=false -f auto=true -f format=reel -f voice=false
+            echo "Music-only Reel started for the ${hour}:00 slot."
+          else
+            echo "No Reel slot at ${hour}:00 Bangladesh time."
           fi
 
       - name: Checkout Repository
@@ -114,26 +137,6 @@ jobs:
           GOOGLE_APPLICATION_CREDENTIALS="$RUNNER_TEMP/sa.json" \
             npx --yes firebase-tools@15 deploy --only hosting:sondesh --project dorpon-a99a6 --non-interactive
           rm -f "$RUNNER_TEMP/sa.json"
-
-      # Facebook Reels, 8 a day weighted to the evening peak (Bangladesh time), each a
-      # different story: voiced at 09, 13, 19, 21; music-only at 11, 17, 20, 22.
-      # (Photo cards reached only 2-5 people each; Reels reach non-followers.)
-      - name: Start Facebook Post For This Slot
-        if: steps.guard.outputs.skip != 'true'
-        continue-on-error: true
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          hour=$(TZ=Asia/Dhaka date +%-H)
-          if [[ " 9 13 19 21 " == *" $hour "* ]]; then
-            gh workflow run facebook_reels.yml --repo "$GITHUB_REPOSITORY" --ref main -f dry_run=false -f auto=true -f format=reel
-            echo "Reel started for the ${hour}:00 slot."
-          elif [[ " 11 17 20 22 " == *" $hour "* ]]; then
-            gh workflow run facebook_reels.yml --repo "$GITHUB_REPOSITORY" --ref main -f dry_run=false -f auto=true -f format=reel -f voice=false
-            echo "Music-only Reel started for the ${hour}:00 slot."
-          else
-            echo "No Reel slot at ${hour}:00 Bangladesh time."
-          fi
 
       - name: Open Issue For Silent Sources
         if: steps.guard.outputs.skip != 'true'
