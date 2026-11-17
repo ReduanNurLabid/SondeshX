@@ -1,226 +1,368 @@
 {
-  "updated_at": "2026-11-17T03:00:56.819733",
-  "total_stories": 3,
+  "updated_at": "2026-11-17T04:00:46.134756",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "c8f112f5-f818-51a8-accb-159fe4bb4d0a",
-      "primary_category": "world_diplomacy",
+      "story_id": "a1b63b6a-63d7-5db1-a7b0-06cf40b6c850",
+      "primary_category": "climate_environment",
       "interest_categories": [
-        "world_diplomacy",
-        "governance_law",
-        "society_education"
+        "climate_environment",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#Climate",
+        "#Environment"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-17%2Fazk768bt%2F0000.jpg?rect=0%2C165%2C2202%2C1156&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://images.unsplash.com/photo-1727806776146-76de0c0f2175?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGVlcCUyMGRlcHJlc3Npb24lMjBiYXklMjBiZW5nYWwlMjBlbnZpcm9ubWVudHxlbnwxfDB8fHwxNzk0ODg4MDg1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-17T02:14:07+00:00",
+      "published_at": "2026-11-17T03:40:58+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 5.3741,
-      "sources": [
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/uwis6o8zfn",
-          "title": "লন্ডনে নাহিদ ইসলামের সংবর্ধনা শেষে আ.লীগ–এনসিপি সংঘর্ষ, আহত কয়েকজন",
-          "snippet": "লন্ডনে নাহিদ ইসলামের সংবর্ধনা শেষে আ.লীগ–এনসিপি সংঘর্ষ, আহত কয়েকজন"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821409/%E0%A6%B2%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%A8%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A6-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A7%E0%A6%A8%E0%A6%BE-%E0%A6%B6%E0%A7%87%E0%A6%B7%E0%A7%87-%E0%A6%86%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%AE%E0%A7%80",
-          "title": "লন্ডনে নাহিদ ইসলামের সংবর্ধনা শেষে আওয়ামী লীগ-এনসিপি সংঘর্ষ, আহত অন্তত চার",
-          "snippet": "লন্ডনে নাহিদ ইসলামের সংবর্ধনা শেষে আওয়ামী লীগ-এনসিপি সংঘর্ষ, আহত অন্তত চার"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/nahid-event-attacked-london/",
-          "title": "লন্ডনে নাহিদের অনুষ্ঠানে হামলার অভিযোগ, আহত কয়েকজন",
-          "snippet": "লন্ডনে নাহিদের অনুষ্ঠানে হামলার অভিযোগ, আহত কয়েকজন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "লন্ডনে নাগরিক সংবর্ধনা শেষে এনসিপি ও আওয়ামী লীগের সংঘর্ষ, আহত কয়েকজন",
-        "title_en": "Clashes between NCP and Awami League after London reception leave several injured",
-        "summary_bn": "যুক্তরাজ্যের পূর্ব লন্ডনে জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলামের সংবর্ধনা অনুষ্ঠান শেষে আওয়ামী লীগের সঙ্গে সংঘর্ষে কয়েকজন আহত হয়েছেন।",
-        "summary_en": "Several people were injured following clashes between the Awami League and the NCP after a reception for Nahid Islam in East London.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T02:14:07+00:00",
-        "lead_bn": "যুক্তরাজ্যের পূর্ব লন্ডনে জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলামের সংবর্ধনা অনুষ্ঠান শেষে আওয়ামী লীগের সঙ্গে সংঘর্ষে কয়েকজন আহত হয়েছেন।",
-        "lead_en": "Several people were injured following clashes between the Awami League and the NCP after a reception for Nahid Islam in East London.",
-        "bullets_bn": [
-          "ঘটনাটি ঘটে রমফোর্ডের মেফেয়ার ভেন্যুর সামনে নাগরিক সংবর্ধনা শেষে।",
-          "আহত ব্যক্তিদের মধ্যে পাঁচজন লন্ডনের কিংস কলেজ হাসপাতালে চিকিৎসাধীন রয়েছেন।",
-          "হামলার ঘটনায় জড়িত ব্যক্তিদের বিরুদ্ধে আইনি ব্যবস্থা নিতে যুক্তরাজ্য সরকারের প্রতি আহ্বান জানিয়েছেন নাহিদ ইসলাম।"
-        ],
-        "bullets_en": [
-          "The incident occurred outside the Mayfair venue in Romford following a civic reception.",
-          "Five of the injured individuals are receiving treatment at King's College Hospital in London.",
-          "Nahid Islam called on the UK government to take legal action against those responsible for the attack."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "এর আগে কেমব্রিজ বিশ্ববিদ্যালয় ক্যাম্পাসে নাহিদ ইসলামকে হেনস্তার চেষ্টা করা হয়েছিল এবং এর আগে মাহফুজ আলম ও হাসনাত আবদুল্লাহর সফর ঘিরেও উত্তেজনার ঘটনা ঘটেছিল।",
-        "details_en": "Earlier, an attempt was made to harass Nahid Islam at the Cambridge University campus, and visits by Mahফুজ Alam and Hasnat Abdullah also saw tensions.",
-        "hook_bn": "যুক্তরাজ্যে নাহিদ ইসলামের সংবর্ধনা শেষে সংঘর্ষে আহত পাঁচজন হাসপাতালে চিকিৎসাধীন।",
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T03:01:58.635663+00:00"
-      }
-    },
-    {
-      "story_id": "744c0e2e-f60d-53ae-bd5a-07349f059f5b",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1656436075877-a20103919f4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8aXJhbiUyMGNsYWltcyUyMHNlaXp1cmUlMjBkcm9uZSUyMGRpcGxvbWFjeXxlbnwxfDB8fHwxNzk0ODg0NTA4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-17T02:44:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5398,
+      "importance_score": 8.5,
+      "rank_score": 7.0844,
       "sources": [
         {
           "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821410/%E0%A6%B9%E0%A6%B0%E0%A6%AE%E0%A7%81%E0%A6%9C-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%A8-%E0%A6%9C%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BF-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0",
-          "title": "হরমুজ প্রণালিতে মার্কিন ড্রোন জব্দের দাবি ইরানের",
-          "snippet": "হরমুজ প্রণালিতে মার্কিন ড্রোন জব্দের দাবি ইরানের"
+          "url": "https://www.ittefaq.com.bd/821422/%E0%A6%AC%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%AD%E0%A7%80%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%AE%E0%A7%8D%E0%A6%A8%E0%A6%9A%E0%A6%BE%E0%A6%AA-%E0%A6%B0%E0%A7%82%E0%A6%AA-%E0%A6%A8%E0%A6%BF%E0%A6%B2-%E0%A6%98%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%BF%E0%A6%9D%E0%A7%9C",
+          "title": "বঙ্গোপসাগরের গভীর নিম্নচাপ রূপ নিল ঘূর্ণিঝড় ‘আকভানে’, ৪ সমুদ্রবন্দরে ২ নম্বর সংকেত",
+          "snippet": "বঙ্গোপসাগরের গভীর নিম্নচাপ রূপ নিল ঘূর্ণিঝড় ‘আকভানে’, ৪ সমুদ্রবন্দরে ২ নম্বর সংকেত"
         }
       ],
       "daily_buzz": {
-        "title_bn": "হরমুজ প্রণালিতে মার্কিন ড্রোন জব্দের দাবি ইরানের",
-        "title_en": "Iran claims seizure of US drone in Strait of Hormuz",
-        "summary_bn": "হরমুজ প্রণালির অদূরে কেশম দ্বীপের দক্ষিণে উড়তে থাকা একটি মার্কিন ড্রোনের নিয়ন্ত্রণ নেওয়ার দাবি করেছে ইরানের ইসলামিক রেভোলিউশনারি গার্ড কর্পস (আইআরজিসি)।",
-        "summary_en": "The Islamic Revolutionary Guard Corps of Iran claimed to have taken control of a US drone flying near Kishm Island.",
+        "title_bn": "বঙ্গোপসাগরের গভীর নিম্নচাপ রূপ নিল ঘূর্ণিঝড় আকভানে",
+        "title_en": "Deep depression over Bay of Bengal turns into cyclone Akvan",
+        "summary_bn": "দক্ষিণপূর্ব বঙ্গোপসাগর ও তৎসংলগ্ন দক্ষিণপশ্চিম বঙ্গোপসাগর এলাকায় অবস্থানরত গভীর নিম্নচাপটি ঘনীভূত হয়ে ঘূর্ণিঝড় আকভানে পরিণত হয়েছে।",
+        "summary_en": "A deep depression located over the southeast and adjoining southwest Bay of Bengal has intensified into cyclone Akvan.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T02:44:00+00:00",
-        "lead_bn": "হরমুজ প্রণালির অদূরে কেশম দ্বীপের দক্ষিণে উড়তে থাকা একটি মার্কিন ড্রোনের নিয়ন্ত্রণ নেওয়ার দাবি করেছে ইরানের ইসলামিক রেভোলিউশনারি গার্ড কর্পস (আইআরজিসি)।",
-        "lead_en": "The Islamic Revolutionary Guard Corps of Iran claimed to have taken control of a US drone flying near Kishm Island.",
-        "bullets_bn": [
-          "আইআরজিসি বিমানটিকে একটি এমকিউএম-১৭০ ড্রোন হিসেবে শনাক্ত করেছে।",
-          "এটি তাদের হাতে আটক হওয়া নবম আমেরিকান ড্রোন বলে দাবি করা হয়েছে।",
-          "এর আগে ইরানের রাষ্ট্রীয় মাধ্যমে এই তথ্য জানানো হয়।"
-        ],
-        "bullets_en": [
-          "The IRGC identified the aircraft as an MQM-170 drone.",
-          "It is claimed to be the ninth American drone captured by them.",
-          "Prior to this, the state media of Iran reported on this matter."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ঘটনাটি ১৭ নভেম্বর ভোরের দিকে ঘটেছে বলে আইআরজিসি জানিয়েছে। এর আগে ইরানের রাষ্ট্রীয় মাধ্যমে এই বিষয়ে তথ্য প্রকাশ করা হয়।",
-        "details_en": "The incident occurred in the early morning of 17 November, according to the IRGC. Prior to this, information was published by Iranian state media.",
-        "hook_bn": "হরমুজ প্রণালিতে মার্কিন ড্রোনের নিয়ন্ত্রণ নেওয়ার দাবি ইরানের",
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T03:01:58.635663+00:00"
-      }
-    },
-    {
-      "story_id": "8084fc7b-4889-5714-8243-4fe22f198ea5",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "climate_environment",
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#Economy",
-        "#Finance"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1516199423456-1f1e91b06f25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z2xvYmFsJTIwY3J1ZGUlMjBvaWwlMjBwcmljZXMlMjBidXNpbmVzc3xlbnwxfDB8fHwxNzk0ODg0NTExfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-17T02:29:46+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.4917,
-      "sources": [
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821408/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A6%AE%E0%A6%B2%E0%A7%8B-%E0%A6%9C%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%A4%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE",
-          "title": "বিশ্ববাজারে কমলো জ্বালানি তেলের দাম",
-          "snippet": "বিশ্ববাজারে কমলো জ্বালানি তেলের দাম"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/middle-east/981422/%E0%A7%A9-%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%82%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%95%E0%A6%AE%E0%A6%B2%E0%A7%8B-%E0%A6%A4%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE",
-          "title": "৩ শতাংশের বেশি কমলো তেলের দাম",
-          "snippet": "৩ শতাংশের বেশি কমলো তেলের দাম"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বিশ্ববাজারে জ্বালানি তেলের দাম ৩ শতাংশের বেশি কমেছে",
-        "title_en": "Global crude oil prices fall by more than 3 percent",
-        "summary_bn": "হরমুজ প্রণালি দিয়ে তেল সরবরাহ পুনরায় স্বাভাবিক হতে শুরু করায় বিশ্ববাজারে অপরিশোধিত তেলের দাম ৩ শতাংশের বেশি কমেছে।",
-        "summary_en": "Crude oil prices in global markets fell by more than 3 percent as oil supply through the Hormuz Strait began to normalize.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
           "climate_environment",
-          "world_diplomacy"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-17T02:29:46+00:00",
-        "lead_bn": "হরমুজ প্রণালি দিয়ে তেল সরবরাহ পুনরায় স্বাভাবিক হতে শুরু করায় বিশ্ববাজারে অপরিশোধিত তেলের দাম ৩ শতাংশের বেশি কমেছে।",
-        "lead_en": "Crude oil prices in global markets fell by more than 3 percent as oil supply through the Hormuz Strait began to normalize.",
+        "published_at": "2026-11-17T03:40:58+00:00",
+        "lead_bn": "দক্ষিণপূর্ব বঙ্গোপসাগর ও তৎসংলগ্ন দক্ষিণপশ্চিম বঙ্গোপসাগর এলাকায় অবস্থানরত গভীর নিম্নচাপটি ঘনীভূত হয়ে ঘূর্ণিঝড় আকভানে পরিণত হয়েছে।",
+        "lead_en": "A deep depression located over the southeast and adjoining southwest Bay of Bengal has intensified into cyclone Akvan.",
         "bullets_bn": [
-          "ব্রেন্ট ক্রুড ফিউচারের দাম ৩ দশমিক ৬ শতাংশ কমে ব্যারেলপ্রতি ৯২ দশমিক ৪৪ ডলারে দাঁড়িয়েছে।",
-          "আল জাজিরার এক প্রতিবেদনে বিশ্ববাজারে অপরিশোধিত তেলের দাম কমার এই তথ্য জানানো হয়েছে।",
-          "মার্কিন ওয়েস্ট টেক্সাস ইন্টারমিডিয়েট অপরিশোধিত তেলের দামও কমেছে।"
+          "আবহাওয়া অধিদপ্তরের বিশেষ বিজ্ঞপ্তিতে এই তথ্য জানানো হয়।",
+          "বিজ্ঞপ্তিতে জানানো হয় যে ১৬ নভেম্বর সন্ধ্যা ৬টায় ঘূর্ণিঝড়টি চট্টগ্রাম সমুদ্রবন্দর থেকে ১৩০৫ কি.মি. দক্ষিণপশ্চিমে অবস্থিত ছিল।",
+          "ঘূর্ণিঝড়টি কক্সবাজার সমুদ্রবন্দর থেকে ১২৪৫ কি.মি. দক্ষিণপশ্চিমে অবস্থান করছিল এবং ৪ সমুদ্রবন্দরে ২ নম্বর সংকেত দেখাতে বলা হয়েছে।"
         ],
         "bullets_en": [
-          "The price of Brent crude futures fell by 3.6 percent to stand at 92.44 dollars per barrel.",
-          "Al Jazeera reported the decrease in crude oil prices in the global market.",
-          "The price of US West Texas Intermediate crude oil also decreased."
+          "This information was shared in a special bulletin of the Meteorological Department.",
+          "The bulletin stated that at 6 pm on 16 November, the cyclone was located 1305 km southwest of Chattogram seaport.",
+          "It was located 1245 km southwest of Cox's Bazar seaport and local maritime ports have been advised to hoist signal number 2."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "বিশ্ববাজারে অপরিশোধিত তেলের দাম ৩ শতাংশের বেশি কমেছে।",
+        "hook_bn": "বঙ্গোপসাগরের গভীর নিম্নচাপ রূপ নিল ঘূর্ণিঝড় আকভানে",
         "question_bn": null
       },
-      "desk_importance": 6.0,
+      "desk_importance": 8.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 9.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T04:01:53.685891+00:00"
+      }
+    },
+    {
+      "story_id": "d95ee0f2-69fb-5fb2-8426-9784d9a05987",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.channelionline.com/2026/11/khokon.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-11-17T03:31:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.75,
+      "rank_score": 5.8331,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/saeed-khokon-arrested/",
+          "title": "পলাতক সাবেক মেয়র সাঈদ খোকন গ্রেপ্তার",
+          "snippet": "পলাতক সাবেক মেয়র সাঈদ খোকন গ্রেপ্তার"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821423/%E0%A6%A1%E0%A6%BF%E0%A6%8F%E0%A6%B8%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95-%E0%A6%AE%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%88%E0%A6%A6-%E0%A6%96%E0%A7%8B%E0%A6%95%E0%A6%A8-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0",
+          "title": "ডিএসসিসির সাবেক মেয়র সাঈদ খোকন গ্রেপ্তার",
+          "snippet": "ডিএসসিসির সাবেক মেয়র সাঈদ খোকন গ্রেপ্তার"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1180322",
+          "title": "সাবেক মেয়র সাঈদ খোকন গ্রেফতার",
+          "snippet": "সাবেক মেয়র সাঈদ খোকন গ্রেফতার"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/national/498512",
+          "title": "সাবেক মেয়র সাঈদ খোকন গ্রেপ্তার",
+          "snippet": "সাবেক মেয়র সাঈদ খোকন গ্রেপ্তার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সাবেক মেয়র সাঈদ খোকন বারিধারা থেকে গ্রেপ্তার",
+        "title_en": "Former mayor Sayeed Khokon arrested from Baridhara",
+        "summary_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনী ঢাকা দক্ষিণ সিটি করপোরেশনের সাবেক মেয়র মোহাম্মদ সাঈদ খোকনকে বারিধারা থেকে গ্রেপ্তার করেছে।",
+        "summary_en": "Law enforcement agencies arrested former Dhaka South City Corporation mayor Mohammad Sayeed Khokon from Baridhara.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T03:31:00+00:00",
+        "lead_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনী ঢাকা দক্ষিণ সিটি করপোরেশনের সাবেক মেয়র মোহাম্মদ সাঈদ খোকনকে বারিধারা থেকে গ্রেপ্তার করেছে।",
+        "lead_en": "Law enforcement agencies arrested former Dhaka South City Corporation mayor Mohammad Sayeed Khokon from Baridhara.",
+        "bullets_bn": [
+          "এসআরবির একটি বিশেষ দল ১৭ নভেম্বর সকাল সাতটার দিকে বারিধারার একটি বাসা থেকে তাকে গ্রেপ্তার করে।",
+          "এসআরবি সূত্র গ্রেপ্তারের বিষয়টি নিশ্চিত করেছে এবং জানিয়েছে যে তিনি দীর্ঘদিন ধরে আত্মগোপনে ছিলেন।",
+          "গ্রেপ্তারের পর তাকে গুলশান থানা পুলিশের হেফাজতে রাখা হয়েছে এবং পরবর্তী আইনি কার্যক্রম প্রক্রিয়াধীন রয়েছে।"
+        ],
+        "bullets_en": [
+          "A special team of SRB arrested him from a residence in Baridhara on November 17 at around seven in the morning.",
+          "SRB sources confirmed the arrest and stated that he had been in hiding for a long time.",
+          "Following his arrest, he was kept in the custody of Gulshan police station and further legal procedures are underway."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের কেন্দ্রীয় কার্যনির্বাহী সংসদের সদস্য সাঈদ খোকন দীর্ঘদিন ধরে আত্মগোপনে ছিলেন। এর আগে ২০২৪ সালের ২৩ ডিসেম্বর আদালত তার দেশত্যাগে নিষেধাজ্ঞা দিয়েছিলেন।",
+        "details_en": "Sayeed Khokon, a member of the central executive committee of the banned Awami League, had been in hiding for a long time. Earlier, on December 23, 2024, the court had imposed a ban on his leaving the country.",
+        "hook_bn": "বারিধারার বাসা থেকে গ্রেপ্তার হলেন সাবেক মেয়র সাঈদ খোকন।",
+        "question_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনী সাবেক মেয়র সাঈদ খোকনকে গ্রেপ্তারের পর পরবর্তী আইনি প্রক্রিয়ায় কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 4,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T04:01:53.685891+00:00"
+      }
+    },
+    {
+      "story_id": "76e385c6-2bea-5dfd-9d1d-fe21deed3ba9",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-16%2Fdlwyazso%2Fsecond-padma-bridge-heading.png?rect=0%2C35%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-17T03:24:03+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.25,
+      "rank_score": 5.0707,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/8bo366qdna",
+          "title": "তিন জেলাকে যুক্ত করে দ্বিতীয় পদ্মা সেতু হবে ওয়াই আকৃতির, দ্বিতীয় যমুনা হবে কোথায়",
+          "snippet": "তিন জেলাকে যুক্ত করে দ্বিতীয় পদ্মা সেতু হবে ওয়াই আকৃতির, দ্বিতীয় যমুনা হবে কোথায়"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/bangladesh-becomes-a-dfc-eligible-country",
+          "title": "Bangladesh becomes a DFC-eligible country",
+          "snippet": "Bangladesh becomes a DFC-eligible country"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মানিকগঞ্জ, রাজবাড়ী ও পাবনা যুক্ত করে ওয়াই আকৃতির দ্বিতীয় পদ্মা সেতু হবে।",
+        "title_en": "Second Padma bridge to be Y-shaped connecting Manikganj, Rajbari and Pabna.",
+        "summary_bn": "বর্তমান বিএনপি সরকার মানিকগঞ্জ, রাজবাড়ী ও পাবনা জেলাকে যুক্ত করে ইংরেজি বর্ণ ওয়াই আকৃতির দ্বিতীয় পদ্মা সেতু নির্মাণের নীতিগত সিদ্ধান্ত নিয়েছে।",
+        "summary_en": "The current BNP government has taken a policy decision to build a Y-shaped second Padma bridge connecting Manikganj, Rajbari and Pabna districts.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T03:24:03+00:00",
+        "lead_bn": "বর্তমান বিএনপি সরকার মানিকগঞ্জ, রাজবাড়ী ও পাবনা জেলাকে যুক্ত করে ইংরেজি বর্ণ ওয়াই আকৃতির দ্বিতীয় পদ্মা সেতু নির্মাণের নীতিগত সিদ্ধান্ত নিয়েছে।",
+        "lead_en": "The current BNP government has taken a policy decision to build a Y-shaped second Padma bridge connecting Manikganj, Rajbari and Pabna districts.",
+        "bullets_bn": [
+          "নতুন পরিকল্পনা অনুযায়ী সেতুটি মানিকগঞ্জের পাটুরিয়া, রাজবাড়ীর দৌলতদিয়া ও পাবনার কাজিরহাটকে যুক্ত করবে।",
+          "সেতু বিভাগের সচিব আবদুর রউফ জানিয়েছেন সরকারের নীতিগত সিদ্ধান্ত হচ্ছে দ্বিতীয় পদ্মা ও দ্বিতীয় যমুনা সেতু নির্মাণ করা হবে।",
+          "আগামী বছরের সেপ্টেম্বরের মধ্যে নতুন সম্ভাব্যতা সমীক্ষা শেষ করার লক্ষ্য রয়েছে।"
+        ],
+        "bullets_en": [
+          "According to the new plan, the bridge will connect Paturia of Manikganj, Doulatdia of Rajbari and Kazirhat of Pabna.",
+          "Bridge Division Secretary Abdur Rouf said the government has a policy decision to construct the second Padma and second Jamuna bridges.",
+          "There is a target to complete the new feasibility study by September of next year."
+        ],
+        "impact_bn": "সেতু বিভাগ আশা করছে দ্বিতীয় পদ্মা সেতু নির্মিত হলে পণ্য পরিবহনে সময় ও ব্যয় কমবে।",
+        "impact_en": "The Bridge Division expects that the construction of the second Padma bridge will reduce time and cost in goods transportation.",
+        "details_bn": "দেশের দক্ষিণ-পশ্চিমাঞ্চলের সঙ্গে রাজধানী ঢাকার যোগাযোগ সহজ করতে দ্বিতীয় পদ্মা সেতু নির্মাণের পরিকল্পনা প্রায় তিন দশকের পুরোনো। প্রথমে পাটুরিয়া ও দৌলতদিয়ার মধ্যে পরিকল্পনা করা হলেও পরে টানেল নির্মাণ এবং রাজবাড়ী ও পাবনার মধ্যে প্রাক্-সম্ভাব্যতা যাচাই করা হয়েছিল। এছাড়া ১৯৯৮ সালে চালু হওয়া বিদ্যমান যমুনা সেতু যানবাহনের চাপ নিতে না পারায় বিকল্প হিসেবে দ্বিতীয় যমুনা সেতু নির্মাণের পরিকল্পনা নেওয়া হয়েছে।",
+        "details_en": "The plan to build a second Padma bridge to ease communication between the southwestern region of the country and the capital Dhaka is nearly three decades old. Although a plan between Paturia and Doulatdia was made first, later tunnel construction and pre-feasibility between Rajbari and Pabna were assessed. Besides, as the existing Jamuna bridge opened in 1998 cannot take the traffic pressure, plans have been taken to build a second Jamuna bridge as an alternative.",
+        "hook_bn": "দ্বিতীয় পদ্মা সেতু হবে ওয়াই আকৃতির এবং যুক্ত করবে তিন জেলা।",
+        "question_bn": "দ্বিতীয় পদ্মা ও দ্বিতীয় যমুনা সেতু নির্মিত হলে যোগাযোগব্যবস্থায় কেমন পরিবর্তন আসবে বলে আপনার মনে হয়?"
+      },
+      "desk_importance": 7.0,
       "outlet_count": 2,
       "trending": false,
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-17T03:01:58.635663+00:00"
+        "checked_at": "2026-11-17T04:01:53.685891+00:00"
+      }
+    },
+    {
+      "story_id": "ceb367e7-9019-5356-a8b3-6323d80dce8c",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1747931219252-4ed69e78389a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGVkZXN0cmlhbnMlMjBraWxsZWQlMjB0cnVjayUyMGNyYXNoJTIwZWR1Y2F0aW9ufGVufDF8MHx8fDE3OTQ4ODgwOTl8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-17T03:40:40+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.25,
+      "rank_score": 3.8291,
+      "sources": [
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821424/%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%98%E0%A6%A8-%E0%A6%95%E0%A7%81%E0%A7%9F%E0%A6%BE%E0%A6%B6%E0%A6%BE%E0%A7%9F-%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A7%9C%E0%A6%95%E0%A7%87-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A6%9A%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3",
+          "title": "সিরাজগঞ্জে ঘন কুয়াশায় মহাসড়কে ট্রাকচাপায় প্রাণ গেলো দুজনের",
+          "snippet": "সিরাজগঞ্জে ঘন কুয়াশায় মহাসড়কে ট্রাকচাপায় প্রাণ গেলো দুজনের"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/2-pedestrians-kill-ed-after-being-run-over/",
+          "title": "সিরাজগঞ্জে ট্রাকচাপায় ২ পথচারী নিহত",
+          "snippet": "সিরাজগঞ্জে ট্রাকচাপায় ২ পথচারী নিহত"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সিরাজগঞ্জে ঘন কুয়াশায় ট্রাকচাপায় দুই পথচারী নিহত হয়েছেন",
+        "title_en": "Two pedestrians killed in truck crash amid dense fog in Sirajganj",
+        "summary_bn": "সিরাজগঞ্জের হাটিকুমরুল ইন্টারচেঞ্জের ধোপাকান্দি এলাকায় ঘন কুয়াশার মধ্যে পাথরবোঝাই ট্রাকের চাপায় দুই ব্যক্তি নিহত হয়েছেন।",
+        "summary_en": "Two people were killed after being crushed by a stone-laden truck amid dense fog in Sirajganj.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T03:40:40+00:00",
+        "lead_bn": "সিরাজগঞ্জের হাটিকুমরুল ইন্টারচেঞ্জের ধোপাকান্দি এলাকায় ঘন কুয়াশার মধ্যে পাথরবোঝাই ট্রাকের চাপায় দুই ব্যক্তি নিহত হয়েছেন।",
+        "lead_en": "Two people were killed after being crushed by a stone-laden truck amid dense fog in Sirajganj.",
+        "bullets_bn": [
+          "১৭ নভেম্বর সকাল ৭টার দিকে ঢাকা-বগুড়া মহাসড়কে এ দুর্ঘটনা ঘটে।",
+          "নিহতরা হলেন ঠান্ডু মিয়া ও আব্দুল।",
+          "নিহত ঠান্ডু মিয়া কৃষক এবং আব্দুল সলঙ্গা সাব রেজিস্ট্রি অফিসের দলিল লেখক ছিলেন।"
+        ],
+        "bullets_en": [
+          "The accident occurred on the Dhaka-Bogra highway around 7 am on 17 November.",
+          "The victims were identified as Thandu Mia and Abdul.",
+          "Victim Thandu Mia was a farmer and Abdul was a deed writer at the Salanga Sub-Registry Office."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "ঘন কুয়াশায় ট্রাকচাপায় সিরাজগঞ্জে দুই পথচারী নিহত",
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T04:01:53.685891+00:00"
+      }
+    },
+    {
+      "story_id": "717868fd-4ee2-5a00-97d5-a3b2dd451e5b",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_bengali/7f0b/live/07e11d90-e22f-11f1-99a1-253766e7ad8b.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-17T03:21:34+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.5,
+      "rank_score": 4.0661,
+      "sources": [
+        {
+          "name": "BBC News বাংলা",
+          "url": "https://www.bbc.com/bengali/articles/c65y17vljqkeo?at_medium=RSS&at_campaign=rss",
+          "title": "জরুরি চিকিৎসার দাবি ইমরান খানের, আশঙ্কা 'হয়তো জীবিত ফিরবেন না'",
+          "snippet": "জরুরি চিকিৎসার দাবি ইমরান খানের, আশঙ্কা 'হয়তো জীবিত ফিরবেন না'"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কারাবন্দি ইমরান খান জরুরি চিকিৎসা চেয়ে আশঙ্কা প্রকাশ করেছেন",
+        "title_en": "Imran Khan seeks urgent medical treatment and expresses grave fears",
+        "summary_bn": "পাকিস্তানের কারাবন্দি সাবেক প্রধানমন্ত্রী ইমরান খান সরকারের কাছে জরুরি চিকিৎসার আবেদন জানিয়ে আশঙ্কা প্রকাশ করেছেন যে তিনি হয়তো জীবিত ফিরবেন না।",
+        "summary_en": "Imran Khan, the jailed former prime minister of Pakistan, requested urgent medical treatment and expressed fear that he might not return alive.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T03:21:34+00:00",
+        "lead_bn": "পাকিস্তানের কারাবন্দি সাবেক প্রধানমন্ত্রী ইমরান খান সরকারের কাছে জরুরি চিকিৎসার আবেদন জানিয়ে আশঙ্কা প্রকাশ করেছেন যে তিনি হয়তো জীবিত ফিরবেন না।",
+        "lead_en": "Imran Khan, the jailed former prime minister of Pakistan, requested urgent medical treatment and expressed fear that he might not return alive.",
+        "bullets_bn": [
+          "আইনজীবী সালমান সফদরের প্রকাশিত এক চিঠিতে ইমরান খান বলেন যে ৭৪ বছর বয়সে এ নির্মম পরিস্থিতি তাকে এক অনিশ্চিত অবস্থায় ফেলেছে।",
+          "সরকার জানিয়েছে যে ইমরান খানকে প্রতি সপ্তাহে চিকিৎসকেরা পর্যবেক্ষণ করেন এবং তার শারীরিক অবস্থা সন্তোষজনক।",
+          "পরিবারের অভিযোগ অনুযায়ী, কারা কর্তৃপক্ষ সময়মতো ব্যবস্থা না নেওয়ায় তিনি ডান চোখের দৃষ্টিশক্তি অনেকটাই হারিয়েছেন।"
+        ],
+        "bullets_en": [
+          "In a letter published by lawyer Salman Safdar, Imran Khan stated that at age 74 this ruthless situation has pushed him to a point.",
+          "The government stated that doctors examine Imran Khan every week and his physical condition is satisfactory.",
+          "According to family allegations, he lost much of his right eye's vision because prison authorities did not take timely action."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইমরান খানের বিরুদ্ধে একশোটিরও বেশি মামলা রয়েছে এবং তিনি ২০২৩ সালের অগাস্ট থেকে কারাগারে আছেন। গত বছর তার স্ত্রী বুশরা বিবিকেও কারাবন্দি করা হয় এবং তাদের বিরুদ্ধে দেওয়া মামলাগুলোকে রাজনৈতিক উদ্দেশ্যপ্রণোদিত বলে দাবি করেছেন ইমরান খান। গত এক বছরে তার শারীরিক অবস্থা নিয়ে উদ্বেগ আরো বেড়েছে।",
+        "details_en": "Imran Khan faces more than a hundred cases and has been in prison since August 2023. His wife Bushra Bibi was also imprisoned last year, and Khan claims the cases against them are politically motivated. Concerns over his physical condition have increased over the past year.",
+        "hook_bn": "কারাবন্দি ইমরান খান জরুরি চিকিৎসা চেয়ে আশঙ্কা প্রকাশ করেছেন",
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T04:01:53.685891+00:00"
       }
     }
   ]
