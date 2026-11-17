@@ -1,148 +1,370 @@
 {
-  "updated_at": "2026-11-17T13:00:45.331926",
-  "total_stories": 2,
+  "updated_at": "2026-11-17T14:00:41.692938",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "ec4a05ad-5df4-56fa-9e31-0ee7b2b7113b",
-      "primary_category": "governance_law",
+      "story_id": "9863f0c4-aa67-5ab2-a540-bce790c44469",
+      "primary_category": "society_education",
       "interest_categories": [
-        "governance_law",
-        "economy_business"
+        "society_education"
       ],
       "region": "national",
       "tags": [
-        "#JuboLeague",
-        "#GopalganjSabotage",
-        "#MohammadpurArrest"
+        "#Measles",
+        "#Bangladesh",
+        "#NationalAffairs"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/17/arrested_jubo_league_men.jpg",
+      "image_url": "https://images.unsplash.com/photo-1774977867305-f0d5580e4afc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bWVhc2xlcyUyMGRlYXRoJTIwdG9sbCUyMHJlYWNoZXMlMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NDkyNDI4Nnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-17T11:45:00+00:00",
+      "published_at": "2026-11-17T13:54:50+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.629,
+      "importance_score": 7.75,
+      "rank_score": 5.9526,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/crime/3-jubo-league-activists-arrested-dhaka-over-sabotage-gopalganj-1605511",
-          "title": "3 Jubo League activists arrested in Dhaka over sabotage in Gopalganj",
-          "snippet": "3 Jubo League activists arrested in Dhaka over sabotage in Gopalganj"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/health/424919/measles-death-toll-reaches-1-323-as-five-more",
+          "title": "Measles: Death toll reaches 1,323 as five more children die",
+          "snippet": "Measles: Death toll reaches 1,323 as five more children die"
         },
         {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/gopalganj-violence-3-jubo-league-men-arrested-dhakas-mohammadpur-4326281",
-          "title": "Gopalganj violence: 3 Jubo League men arrested in Dhaka’s Mohammadpur",
-          "snippet": "Gopalganj violence: 3 Jubo League men arrested in Dhaka’s Mohammadpur"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1323-5-more-children-die-1605686",
+          "title": "Measles: Death toll reaches 1,323 as 5 more children die",
+          "snippet": "Measles: Death toll reaches 1,323 as 5 more children die"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/5-more-dead-hame/",
+          "title": "হামে আরও ৫ শিশুর মৃত্যু",
+          "snippet": "হামে আরও ৫ শিশুর মৃত্যু"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/health/498703",
+          "title": "দেশে হামের উপসর্গে আরও ৫ জনের মৃত্যু, আক্রান্ত ১৩১৪",
+          "snippet": "দেশে হামের উপসর্গে আরও ৫ জনের মৃত্যু, আক্রান্ত ১৩১৪"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গোপালগঞ্জে নাশকতার অভিযোগে ঢাকায় যুবলীগের তিন কর্মী গ্রেফতার",
-        "title_en": "SRB arrests three Jubo League activists in Dhaka over Gopalganj sabotage",
-        "summary_bn": "গোপালগঞ্জে নাশকতায় জড়িত থাকার অভিযোগে ঢাকার মোহাম্মদপুর থেকে নিষিদ্ধ যুবলীগের তিন কর্মীকে গ্রেফতার করেছে স্পেশাল রেসপন্স ব্যাটালিয়ন।",
-        "summary_en": "The Special Response Battalion arrested three activists of the banned Jubo League in Dhakas Mohammadpur over their alleged involvement in sabotage in Gopalganj.",
+        "title_bn": "হামে আরও পাঁচ শিশুর মৃত্যুতে দেশে মোট প্রাণহানি ১ হাজার ৩২৩ জনে দাঁড়িয়েছে",
+        "title_en": "Measles death toll reaches 1,323 as five more children die in Bangladesh",
+        "summary_bn": "স্বাস্থ্য অধিদপ্তরের বিজ্ঞপ্তিতে জানানো হয়েছে, হাম ও হামের উপসর্গে আরও পাঁচ শিশুর মৃত্যু হয়েছে এবং নতুন করে রোগী শনাক্ত হয়েছে।",
+        "summary_en": "The Directorate General of Health Services reported that five more children died from measles and its symptoms, alongside new cases.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "economy_business"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-17T11:45:00+00:00",
-        "lead_bn": "গোপালগঞ্জে নাশকতায় জড়িত থাকার অভিযোগে ঢাকার মোহাম্মদপুর থেকে নিষিদ্ধ যুবলীগের তিন কর্মীকে গ্রেফতার করেছে স্পেশাল রেসপন্স ব্যাটালিয়ন।",
-        "lead_en": "The Special Response Battalion arrested three activists of the banned Jubo League in Dhakas Mohammadpur over their alleged involvement in sabotage in Gopalganj.",
+        "published_at": "2026-11-17T13:54:50+00:00",
+        "lead_bn": "স্বাস্থ্য অধিদপ্তরের বিজ্ঞপ্তিতে জানানো হয়েছে, হাম ও হামের উপসর্গে আরও পাঁচ শিশুর মৃত্যু হয়েছে এবং নতুন করে রোগী শনাক্ত হয়েছে।",
+        "lead_en": "The Directorate General of Health Services reported that five more children died from measles and its symptoms, alongside new cases.",
         "bullets_bn": [
-          "গত ১৭ নভেম্বর ভোরে মোহাম্মদিয়া হাউজিং রোডে অভিযান চালিয়ে তাদের গ্রেফতার করা হয়।",
-          "এসআরবি-২ এর উপ-পরিচালক মেজর এম মুবিন রহমান তাপস জানান, আসামিরা গোপালগঞ্জ থেকে পালিয়ে ঢাকায় আরো নাশকতার পরিকল্পনা করছিল।",
-          "গ্রেফতারকৃতরা হলেন গোপালগঞ্জের কাশিয়ানী উপজেলা যুবলীগের সাবেক সভাপতি কাজী নুরুল আমিন তুহিন, মো. বিল্লাল হোসেন ও মো. আবুল বাশার।"
+          "স্বাস্থ্য অধিদপ্তরের ১৭ নভেম্বর প্রকাশিত বিজ্ঞপ্তিতে এই তথ্য জানানো হয়।",
+          "গত ২৪ ঘণ্টায় নতুন করে হামের উপসর্গ নিয়ে আরও পাঁচ শিশুর মৃত্যু হয়েছে।",
+          "একই সময়ে নতুন করে ৮৬ জনের শরীরে হাম শনাক্ত হয়েছে।"
         ],
         "bullets_en": [
-          "The suspects were arrested during an early morning raid on Mohammadia Housing Road on 17 November.",
-          "Major M Mubin Rahman Tapas of SRB-2 said the suspects fled Gopalganj and planned further sabotage in Dhaka.",
-          "The arrestees include Kazi Nurul Amin Tuhin, former president of Kashiani upazila Jubo League, Md Billal Hossain, and Md Abul Bashar."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "এসআরবি-২-এর প্রেস বিজ্ঞপ্তিতে জানানো হয়, মোহাম্মদিয়া হাউজিং রোডে নাশকতার পরিকল্পনা ও আতঙ্কের উদ্দেশ্যে কিছু লোক জড়ো হওয়ার গোপন তথ্য পায় বাহিনীটি। তদন্তকারীরা জানতে পারেন, তাদের তিনজন গোপালগঞ্জে নাশকতা চালিয়ে ঢাকায় আত্মগোপন করেন। রাজধানী ঢাকায় পুনরায় কোনো নাশকতা ঘটানোর আগেই এসআরবি-২ অভিযান চালিয়ে ওই তিনজনকে গ্রেফতার করে।",
-        "details_en": "According to a press release by SRB-2, the force received a tip-off that several individuals had gathered on Mohammadia Housing Road to carry out sabotage and create public panic. Investigators found three of them had allegedly fled to Dhaka after carrying out subversive activities in Gopalganj. SRB-2 conducted the raid and arrested the three suspects before they could execute further acts of sabotage in the capital.",
-        "hook_bn": "গোপালগঞ্জে নাশকতার পর ঢাকায় লুকিয়ে থাকা যুবলীগের তিন কর্মী গ্রেফতার।",
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T13:03:38.070967+00:00"
-      }
-    },
-    {
-      "story_id": "1a3bccc4-6a01-5a90-8645-50a8ccdd45da",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation",
-        "economy_business",
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#TrumpAdministration",
-        "#ChinaTech",
-        "#DataCenter",
-        "#Nvidia"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/08/22/usa_data_center.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-17T11:30:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.2892,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/world/trumps-china-data-center-curb-advances-despite-amazon-google-meta-lobbying-1605496",
-          "title": "Trump's China data center curb advances despite Amazon, Google, Meta lobbying",
-          "snippet": "Trump's China data center curb advances despite Amazon, Google, Meta lobbying"
-        },
-        {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-          "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
-          "snippet": "Nvidia partner Megaspeed being investigated by US government over chip exports"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "আমাজন ও গুগলের বাধা সত্ত্বেও চিনের ডাটা সেন্টার উপকরণে নিষেধাজ্ঞা দিচ্ছে ট্রাম্প প্রশাসন।",
-        "title_en": "Trump administration plans to block Chinese data center equipment despite tech lobbying.",
-        "summary_bn": "আমাজন, গুগল ও মেটার বিরোধিতা সত্ত্বেও চিনের ডাটা সেন্টার সরঞ্জাম আমদানিতে বাধা দেওয়ার পরিকল্পনা এগিয়ে নিচ্ছে ট্রাম্প প্রশাসন।",
-        "summary_en": "The Trump administration plans to press ahead with efforts to block imports of Chinese data center equipment despite tech pushback.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation",
-          "economy_business",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T11:30:00+00:00",
-        "lead_bn": "আমাজন, গুগল ও মেটার বিরোধিতা সত্ত্বেও চিনের ডাটা সেন্টার সরঞ্জাম আমদানিতে বাধা দেওয়ার পরিকল্পনা এগিয়ে নিচ্ছে ট্রাম্প প্রশাসন।",
-        "lead_en": "The Trump administration plans to press ahead with efforts to block imports of Chinese data center equipment despite tech pushback.",
-        "bullets_bn": [
-          "মার্কিন টেলিকম নিয়ন্ত্রক সংস্থা এফসিসি জাতীয় নিরাপত্তার কারণে চিনের নতুন অপটিক্যাল ট্রান্সসিভার আমদানি নিষিদ্ধ করার উদ্যোগ নিয়েছে।",
-          "প্রযোজ্য ক্ষেত্রে নির্দেশিকা মানতে মার্কিন প্রতিষ্ঠানগুলোর এক দশক পর্যন্ত সময় লাগতে পারে বলে নির্বাহীরা হোয়াইট হাউসের কর্মকর্তাদের জানিয়েছেন।",
-          "সিঙ্গাপুরভিত্তিক মেগাস্পিড কোম্পানি এনভিডিয়ার হাই-এন্ড এআই চিপ চীনে পাঠাতে সাহায্য করায় মার্কিন সরকারের তদন্তের মুখে পড়েছে।"
-        ],
-        "bullets_en": [
-          "The Federal Communications Commission sought to ban imports of new Chinese optical transceivers over national security concerns.",
-          "Executives told White House officials that US firms could need up to a decade to comply with any such mandate.",
-          "Singapore-based Megaspeed is being investigated by the US government for suspected export rule violations involving Nvidia AI chips."
+          "The information was released in a health department notification on November 17.",
+          "Five more children died with measles symptoms during the 24-hour period.",
+          "Measles was detected in 86 new patients during the same period."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "চিনের ডাটা সেন্টার সরঞ্জামে নিষেধাজ্ঞা দিচ্ছে ট্রাম্প প্রশাসন।",
-        "question_bn": "যুক্তরাষ্ট্রের এই প্রযুক্তি নিষেধাজ্ঞা বিশ্ববাজারে কী ধরনের প্রভাব ফেলতে পারে বলে আপনার মনে হয়?"
+        "hook_bn": "হাম ও উপসর্গে দেশে মোট মৃত্যুর সংখ্যা বেড়ে দাঁড়িয়েছে ১ হাজার ৩২৩ জনে।",
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 4,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T14:05:55.331776+00:00"
+      }
+    },
+    {
+      "story_id": "4d0ff7f6-c8f6-5d29-bd54-6f4d7dbd710b",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business",
+        "tech_innovation"
+      ],
+      "region": "national",
+      "tags": [
+        "#Chattogram",
+        "#Police",
+        "#HomeMinistry"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/15/rrf_sp_1.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-17T12:35:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.3039,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/crime/ctg-range-reserve-force-sp-suspended-over-ties-banned-party-data-leak-1605571",
+          "title": "Ctg Range Reserve Force SP suspended over ties to banned party, data leak",
+          "snippet": "Ctg Range Reserve Force SP suspended over ties to banned party, data leak"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নিষিদ্ধ দলের সাথে সম্পৃক্ততার অভিযোগে এসপি মোহাম্মদ জাহাঙ্গীর আলম বরখাস্ত",
+        "title_en": "SP Mohammad Jahangir Alam suspended over ties to banned party",
+        "summary_bn": "নিষিদ্ধ রাজনৈতিক দলের সাথে যোগাযোগ ও সংবেদনশীল তথ্য ফাঁসের অভিযোগে চট্টগ্রামের রেঞ্জ রিজার্ভ ফোর্সের এসপি মোহাম্মদ জাহাঙ্গীর আলমকে বরখাস্ত করা হয়েছে।",
+        "summary_en": "Chattogram Range Reserve Force SP Mohammad Jahangir Alam has been suspended over allegations of maintaining contact with a banned political party and sharing sensitive information.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business",
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T12:35:00+00:00",
+        "lead_bn": "নিষিদ্ধ রাজনৈতিক দলের সাথে যোগাযোগ ও সংবেদনশীল তথ্য ফাঁসের অভিযোগে চট্টগ্রামের রেঞ্জ রিজার্ভ ফোর্সের এসপি মোহাম্মদ জাহাঙ্গীর আলমকে বরখাস্ত করা হয়েছে।",
+        "lead_en": "Chattogram Range Reserve Force SP Mohammad Jahangir Alam has been suspended over allegations of maintaining contact with a banned political party and sharing sensitive information.",
+        "bullets_bn": [
+          "স্বরাষ্ট্র মন্ত্রণালয়ের পুলিশ-১ উইংয়ের জ্যেষ্ঠ সচিব মনজুর মোরশেদ চৌধুরীর সই করা প্রজ্ঞাপনে রাষ্ট্রপতির আদেশে এই বরখাস্তের কথা জানানো হয়।",
+          "প্রাথমিক প্রমাণ মিললে নিষিদ্ধ দলের সাথে যোগাযোগ ও অভ্যন্তরীণ পুলিশ তথ্য সরবরাহের অভিযোগে তাঁর বিরুদ্ধে এই ব্যবস্থা নেওয়া হয়।",
+          "বরখাস্তের পর নিয়ম অনুযায়ী তিনি জীবনধারণ ভাতা পাবেন বলে প্রজ্ঞাপনে উল্লেখ করা হয়েছে।"
+        ],
+        "bullets_en": [
+          "The suspension was ordered by the president in a notification signed by Manzur Morshed Chowdhury, senior secretary of the Police-1 Wing of the Home Ministry.",
+          "This action was taken after preliminary evidence emerged that he maintained contact with a banned political party and supplied internal police information.",
+          "The notification stated that he would receive a subsistence allowance in accordance with applicable rules during his suspension."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ঘটনার পর পঞ্চলাইশ থানায় মোহাম্মদ জাহাঙ্গীর আলমের বিরুদ্ধে একটি রাষ্ট্রদ্রোহ মামলা দায়ের করা হয়। গত ১৪ নভেম্বর রাত সাড়ে দশটার দিকে চট্টগ্রাম নগরের নাসিরাবাদ হাউজিং সোসাইটির পুলিশ অফিসার্স মেস থেকে তাঁকে গ্রেপ্তার করা হয়। প্রজ্ঞাপন অনুযায়ী তাঁর গ্রেপ্তারের তারিখ থেকেই বরখাস্তের আদেশ কার্যকর হয়েছে।",
+        "details_en": "A sedition case was subsequently filed against him at Panchlaish Police Station. He was arrested at around 10:30pm on 14 November from the Police Officers' Mess in Nasirabad Housing Society in Chattogram city. His suspension took effect from the date of his arrest.",
+        "hook_bn": "নিষিদ্ধ দলের সাথে যোগাযোগের অভিযোগে এসপি জাহাঙ্গীর আলম বরখাস্ত",
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T14:05:55.331776+00:00"
+      }
+    },
+    {
+      "story_id": "0e502eec-c44c-5790-a9f5-f91dbb2525c6",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-17%2Fz6i1rqig%2Fpexels-bayu-prakosa-243773629-12365687.jpg?rect=0%2C67%2C3648%2C1915&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-17T13:15:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.25,
+      "rank_score": 2.6289,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/lifestyle/health/g4l7r2jhdy",
+          "title": "অপরিণত নবজাতকের চোখ পরীক্ষা",
+          "snippet": "অপরিণত নবজাতকের চোখ পরীক্ষা"
+        },
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/post-1221990/",
+          "title": "দেশে অপরিণত শিশু জন্মের হার ১৬ দশমিক ২ শতাংশ",
+          "snippet": "দেশে অপরিণত শিশু জন্মের হার ১৬ দশমিক ২ শতাংশ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "দেশে অপরিণত শিশু জন্মের হার ১৬ দশমিক ২ শতাংশ",
+        "title_en": "Preterm birth rate in the country is 16.2 percent",
+        "summary_bn": "বাংলাদেশে অপরিণত নবজাতকের জন্ম একটি গুরুত্বপূর্ণ জনস্বাস্থ্য সমস্যা হিসেবে চিহ্নিত হয়েছে এবং দেশে অপরিণত জন্মের হার আনুমানিক ১৬ দশমিক ২ শতাংশ।",
+        "summary_en": "The birth of premature newborns has been identified as an important public health problem with an estimated rate of 16.2 percent in the country.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T13:15:00+00:00",
+        "lead_bn": "বাংলাদেশে অপরিণত নবজাতকের জন্ম একটি গুরুত্বপূর্ণ জনস্বাস্থ্য সমস্যা হিসেবে চিহ্নিত হয়েছে এবং দেশে অপরিণত জন্মের হার আনুমানিক ১৬ দশমিক ২ শতাংশ।",
+        "lead_en": "The birth of premature newborns has been identified as an important public health problem with an estimated rate of 16.2 percent in the country.",
+        "bullets_bn": [
+          "বিশ্ব প্রিম্যাচুরিটি দিবসে অপরিণত শিশুদের চোখের রেটিনার সমস্যা বা আরওপি জটিলতা নিয়ে তথ্য জানানো হয়েছে।",
+          "অপরিণত শিশুদের শ্বাসকষ্ট, জন্ডিস ও রক্তে সংক্রমণ হওয়ার ঝুঁকি বেশি থাকে।",
+          "আধুনিক চিকিৎসাব্যবস্থা এবং ক্যাঙ্গারু মাদার কেয়ার পদ্ধতির উন্নতির ফলে অপরিণত নবজাতকের বেঁচে থাকার হার বৃদ্ধি পেয়েছে।"
+        ],
+        "bullets_en": [
+          "Information was shared regarding retinal problems or ROP complications in premature infants on World Prematurity Day.",
+          "Premature infants have a higher risk of respiratory distress, jaundice, and blood infections.",
+          "The survival rate of premature newborns has increased due to improved modern medical care and kangaroo mother care methods."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "১৭ নভেম্বর পালিত হচ্ছে বিশ্ব প্রিম্যাচুরিটি দিবস। মাতৃগর্ভে ৩৭ সপ্তাহ সমাপ্ত করার আগেই জন্ম নেওয়া শিশুদের অপরিণত শিশু বলা হয়। মায়ের পুষ্টিহীনতা, কিশোরী বয়সে মা হওয়া এবং দীর্ঘস্থায়ী রোগের কারণে অপরিণত শিশু জন্ম নিতে পারে। অপরিণত শিশুদের নবজাতক ইউনিটে ভর্তি করে চিকিৎসা দিতে হয় এবং বেঁচে থাকা শিশুদের পরবর্তী সময়ে চোখের রেটিনাসহ বিভিন্ন জটিলতা দেখা দিতে পারে। ৩৫ সপ্তাহের কম বয়স, ২ হাজার গ্রামের কম জন্মকালীন ওজন, নবজাতক ইউনিটে বেশি অক্সিজেন পাওয়া, রক্তে সংক্রমণ এবং বারবার রক্ত দেওয়ার কারণে আরওপি ঝুঁকি বাড়ে।",
+        "details_en": "World Prematurity Day is observed on November 17. Premature babies are those born before completing 37 weeks in the mother's womb. Premature births can be caused by maternal malnutrition, early motherhood in adolescence, and chronic maternal diseases. Premature infants often require treatment in neonatal units, and surviving children may develop various complications later, including retinal issues. The risk of ROP increases for those born before 35 weeks, with a birth weight under 2,000 grams, receiving excessive oxygen in neonatal units, having blood infections, and receiving frequent blood transfusions.",
+        "hook_bn": "দেশে অপরিণত শিশু জন্মের হার ১৬ দশমিক ২ শতাংশ",
+        "question_bn": "অপরিণত নবজাতকের চিকিৎসায় আমাদের স্বাস্থ্যসেবা ব্যবস্থার উন্নয়নে আর কী করা উচিত বলে আপনি মনে করেন?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T14:05:55.331776+00:00"
+      }
+    },
+    {
+      "story_id": "390e50fc-e834-5fee-8f5e-4f9a5a89ba55",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#DonaldTrump",
+        "#Iran",
+        "#Washington",
+        "#USIntelligence"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/17/trump.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-17T13:10:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.373,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/worldbiz/usa/trump-says-us-taking-seriously-report-possible-iranian-dirty-bomb-plot-washington",
+          "title": "Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington",
+          "snippet": "Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ওয়াশিংটনে সম্ভাব্য ইরানি ডার্টি বম্ব হামলার রিপোর্ট গুরুত্বের সঙ্গে নিচ্ছে যুক্তরাষ্ট্র",
+        "title_en": "US taking seriously report of possible Iranian dirty bomb plot in Washington",
+        "summary_bn": "মার্কিন গোয়েন্দা মূল্যায়নের বরাত দিয়ে সিএনএনের করা একটি প্রতিবেদনের বিষয়ে যুক্তরাষ্ট্র সরকার সম্ভাব্য ইরানি ডার্টি বম্ব হামলার বিষয়টি গুরুত্বের সঙ্গে দেখছে বলে জানিয়েছেন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+        "summary_en": "US President Donald Trump said the US was taking seriously the possibility of an Iranian dirty bomb plot in Washington.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T13:10:00+00:00",
+        "lead_bn": "মার্কিন গোয়েন্দা মূল্যায়নের বরাত দিয়ে সিএনএনের করা একটি প্রতিবেদনের বিষয়ে যুক্তরাষ্ট্র সরকার সম্ভাব্য ইরানি ডার্টি বম্ব হামলার বিষয়টি গুরুত্বের সঙ্গে দেখছে বলে জানিয়েছেন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+        "lead_en": "US President Donald Trump said the US was taking seriously the possibility of an Iranian dirty bomb plot in Washington.",
+        "bullets_bn": [
+          "সিএনএনের প্রতিবেদনে বলা হয়েছে, মার্কিন গোয়েন্দা তথ্যে মার্কিন রাজধানীতে তেহরানের সম্ভাব্য ডার্টি বম্ব বিস্ফোরণের পরিকল্পনা ইঙ্গিত করা হয়েছে।",
+          "ইরানের পররাষ্ট্র মন্ত্রণালয়ের মুখপাত্র এক্স-এ দেওয়া এক পোস্টে এই অভিযোগগুলোকে ভিত্তিহীন বলে অস্বীকার করেছেন।",
+          "প্রেসিডেন্ট ডোনাল্ড ট্রাম্প বলেছেন, আসন্ন কোনো হুমকি থাকলে এর জন্য এমন চড়া মূল্য দিতে হবে যা আগে কোনো দেশ দেয়নি।"
+        ],
+        "bullets_en": [
+          "CNN reported that US intelligence indicated Tehran was developing plans to potentially detonate a dirty bomb in the US capital.",
+          "Iran's Foreign Ministry spokesperson denied the allegations in a post on X, calling them baseless.",
+          "President Donald Trump said that if there is an imminent threat, they will pay a price the likes of which no country has ever paid before."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "একটি ডার্টি বম্ব তেজস্ক্রিয় উপাদান ছড়িয়ে দিতে প্রচলিত বিস্ফোরক ব্যবহার করে। পারমাণবিক অস্ত্রের বিপরীতে এটি কোনো পারমাণবিক বিস্ফোরণ ঘটায় না, তবে তেজস্ক্রিয় দূষণ ছড়িয়ে দিতে পারে এবং উল্লেখযোগ্য বিশৃঙ্খলা ও জনমনে আতঙ্ক সৃষ্টি করতে পারে।",
+        "details_en": "A dirty bomb uses conventional explosives to disperse radioactive material. Unlike a nuclear weapon, it does not produce a nuclear explosion, but can spread radioactive contamination and cause significant disruption and public alarm.",
+        "hook_bn": "ওয়াশিংটনে সম্ভাব্য ইরানি ডার্টি বম্ব হামলার রিপোর্ট গুরুত্বের সঙ্গে দেখছে যুক্তরাষ্ট্র।",
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T14:05:55.331776+00:00"
+      }
+    },
+    {
+      "story_id": "9eb1dcc0-dca7-5917-83ba-f301960674ff",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business",
+        "governance_law",
+        "society_education"
+      ],
+      "region": "international",
+      "tags": [
+        "#EdMiliband",
+        "#WestBank",
+        "#Israel",
+        "#UKForeignOffice"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/c9523ec5228a42aa647f50bbf3dbb4fc03f57ce3/28_0_3300_2640/master/3300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=360494a978ff64e698328d170754c092",
+      "image_caption": null,
+      "published_at": "2026-11-17T12:18:08+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.2574,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
+          "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
+          "snippet": "Ed Miliband announces first sanctions on Israeli firms working in West Bank"
+        },
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+          "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+          "snippet": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যুক্তরাজ্য ইসরায়েলি কোম্পানি ও গোষ্ঠীর ওপর প্রথম নিষেধাজ্ঞা ঘোষণা করেছে।",
+        "title_en": "UK announces first sanctions on Israeli companies and group.",
+        "summary_bn": "যুক্তরাজ্যের পররাষ্ট্রমন্ত্রী এড মিলিব্যান্ড পশ্চিম তীরে অবৈধ বসতি পরিকল্পনাকারী ইসরায়েলি কোম্পানিগুলোর ওপর প্রথম নিষেধাজ্ঞা ঘোষণা করেছেন।",
+        "summary_en": "UK Foreign Secretary Ed Miliband has announced the first sanctions against Israeli companies planning to build illegal settlements in the West Bank.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "governance_law",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T12:18:08+00:00",
+        "lead_bn": "যুক্তরাজ্যের পররাষ্ট্রমন্ত্রী এড মিলিব্যান্ড পশ্চিম তীরে অবৈধ বসতি পরিকল্পনাকারী ইসরায়েলি কোম্পানিগুলোর ওপর প্রথম নিষেধাজ্ঞা ঘোষণা করেছেন।",
+        "lead_en": "UK Foreign Secretary Ed Miliband has announced the first sanctions against Israeli companies planning to build illegal settlements in the West Bank.",
+        "bullets_bn": [
+          "নিষেধাজ্ঞাটি আটটি নির্মাণ நிறுவனকে অর্থপ্রবাহ থামানোর জন্য তৈরি করা হয়েছে।",
+          "যুক্তরাজ্যের পররাষ্ট্রমন্ত্রী গাজায় সাহায্য প্রদানে বাধা দেওয়া একটি ডানপন্থী ইসরায়েলি গোষ্ঠীকেও নিষেধাজ্ঞা দিয়েছেন।",
+          "ইসরায়েলি সরকার বর্তমান মেয়াদে আগের ২০ বছরের চেয়ে বেশি বসতি অনুমোদন করেছে।"
+        ],
+        "bullets_en": [
+          "The sanctions are designed to stop the flow of finance to eight construction firms.",
+          "The UK foreign secretary also placed sanctions on a rightwing Israeli group involved in trying to block aid into Gaza.",
+          "The current Israeli government has approved more settlements under four years than in the previous twenty years."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "পশ্চিম তীরে অবৈধ বসতি পরিকল্পনাকারী ইসরায়েলি কোম্পানির ওপর নিষেধাজ্ঞা দিয়েছে যুক্তরাজ্য।",
+        "question_bn": null
       },
       "desk_importance": 5.0,
       "outlet_count": 2,
@@ -150,7 +372,7 @@
       "social_appeal": 4.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-17T13:03:38.070967+00:00"
+        "checked_at": "2026-11-17T14:05:55.331776+00:00"
       }
     }
   ]
