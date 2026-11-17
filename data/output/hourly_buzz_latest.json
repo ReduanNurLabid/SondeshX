@@ -1,71 +1,225 @@
 {
-  "updated_at": "2026-11-17T15:00:42.417978",
-  "total_stories": 1,
+  "updated_at": "2026-11-17T16:00:41.154698",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "82ad675e-701c-5c05-9560-bc9a47602e9d",
-      "primary_category": "society_education",
+      "story_id": "2d3e27a2-ac04-5636-a097-2b3252992398",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "society_education",
-        "economy_business"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#DengueTest",
-        "#HealthMinistry",
-        "#MAMuhit"
+        "#Gopalganj",
+        "#AwamiLeague",
+        "#PoliceStation"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/17/ma_muhit.jpg",
+      "image_url": "https://images.unsplash.com/photo-1621297141646-22ca03dd904c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YXdhbWklMjBsZWFndWUlMjBhY3RpdmlzdHMlMjBhdHRhY2slMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTQ5MzEzMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-17T14:40:00+00:00",
+      "published_at": "2026-11-17T15:48:12+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 5.149,
+      "importance_score": 8.75,
+      "rank_score": 7.5599,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/health/free-dengue-tests-govt-hospitals-community-clinics-become-primary-healthcare-hubs",
-          "title": "Free dengue tests at govt hospitals; community clinics to become primary healthcare hubs: Muhit",
-          "snippet": "Free dengue tests at govt hospitals; community clinics to become primary healthcare hubs: Muhit"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/nation/424928/gopalganj-unrest-bnp-mp%E2%80%99s-house-set-on-fire-after",
+          "title": "Gopalganj unrest: BNP MP’s house set on fire after attack on police station",
+          "snippet": "Gopalganj unrest: BNP MP’s house set on fire after attack on police station"
         },
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/health/424922/govt-to-upgrade-all-upazila-health-complexes-to",
-          "title": "Govt to upgrade all upazila health complexes to 151 beds facilities",
-          "snippet": "Govt to upgrade all upazila health complexes to 151 beds facilities"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/4zpxbsk8am",
+          "title": "মাইকে ঘোষণা দিয়ে টুঙ্গিপাড়া থানায় আগুন দিল কার্যক্রম নিষিদ্ধ আওয়ামী লীগ",
+          "snippet": "মাইকে ঘোষণা দিয়ে টুঙ্গিপাড়া থানায় আগুন দিল কার্যক্রম নিষিদ্ধ আওয়ামী লীগ"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/crime/tungipara-police-station-set-fire-gopalganj-1605826",
+          "title": "Police station, vehicles set ablaze in Gopalganj's Tungipara following arrests of AL activists",
+          "snippet": "Police station, vehicles set ablaze in Gopalganj's Tungipara following arrests of AL activists"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/gopalganjs-tungipara-police-station-set-fire-following-arrests-awami-league-activists-4326406",
+          "title": "Gopalganj's Tungipara Police Station set on fire following arrests of Awami League activists",
+          "snippet": "Gopalganj's Tungipara Police Station set on fire following arrests of Awami League activists"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সরকারি হাসপাতালে ডেঙ্গু পরীক্ষা সম্পূর্ণ বিনামূল্যে দেওয়া হচ্ছে",
-        "title_en": "Dengue tests are being provided free at government hospitals",
-        "summary_bn": "স্বাস্থ্য ও পরিবার কল্যাণ প্রতিমন্ত্রী এম মহিউত জানিয়েছেন যে সরকারি হাসপাতালে ডেঙ্গু পরীক্ষা বিনামূল্যে প্রদান করা হচ্ছে।",
-        "summary_en": "State Minister for Health and Family Welfare MA Muhit stated that dengue tests are provided free at government hospitals.",
+        "title_bn": "গোপালগঞ্জের টুঙ্গিপাড়া থানায় হামলা ও আগুন দিয়েছে কার্যক্রম নিষিদ্ধ আওয়ামী লীগ",
+        "title_en": "Awami League activists attack and set fire to Tungipara Police Station",
+        "summary_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগ ও নিষিদ্ধ ছাত্রলীগের নেতা-কর্মীরা গোপালগঞ্জের টুঙ্গিপাড়া থানায় হামলা চালিয়ে আগুন দেন।",
+        "summary_en": "Activists of the banned Awami League and Chhatra League attacked and set fire to Tungipara Police Station in Gopalganj.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
-          "economy_business"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-17T14:40:00+00:00",
-        "lead_bn": "স্বাস্থ্য ও পরিবার কল্যাণ প্রতিমন্ত্রী এম মহিউত জানিয়েছেন যে সরকারি হাসপাতালে ডেঙ্গু পরীক্ষা বিনামূল্যে প্রদান করা হচ্ছে।",
-        "lead_en": "State Minister for Health and Family Welfare MA Muhit stated that dengue tests are provided free at government hospitals.",
+        "published_at": "2026-11-17T15:48:12+00:00",
+        "lead_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগ ও নিষিদ্ধ ছাত্রলীগের নেতা-কর্মীরা গোপালগঞ্জের টুঙ্গিপাড়া থানায় হামলা চালিয়ে আগুন দেন।",
+        "lead_en": "Activists of the banned Awami League and Chhatra League attacked and set fire to Tungipara Police Station in Gopalganj.",
         "bullets_bn": [
-          "সরকার কমিউনিটি ক্লিনিকগুলোকে প্রাথমিক স্বাস্থ্যসেবা কেন্দ্রে উন্নীত করার পরিকল্পনা করেছে।",
-          "দুই হাজার চিকিৎসককে ডেঙ্গু ব্যবস্থাপনায় রিফ্রেশার প্রশিক্ষণ দেওয়া হয়েছে।",
-          "সব উপজেলা স্বাস্থ্য কমপ্লেক্সকে ১৫১ শয্যার সুবিধায় উন্নীত করা হবে।"
+          "সাম্প্রতিক নাশকতা মামলায় গ্রেপ্তার আসামিদের মুক্ত করতে থানায় হামলা চালানো হয়।",
+          "হামলাকারীরা বন্দীদের মুক্ত করার পাশাপাশি অস্ত্র লুট করেন এবং পুলিশের গাড়ি ও ব্যারাক পুড়িয়ে দেন।",
+          "পরিস্থিতি নিয়ন্ত্রণে পুলিশ কাঁদানে গ্যাস ও রাবার বুলেট নিক্ষেপ করে।"
         ],
         "bullets_en": [
-          "The government plans to develop community clinics into primary healthcare hubs.",
-          "Two thousand doctors received refresher training in dengue management.",
-          "All upazila health complexes will be upgraded to 151-bed facilities."
+          "The attack was carried out to free suspects arrested over recent sabotage incidents.",
+          "Attackers freed detainees, looted firearms, and set fire to police vehicles and a barracks.",
+          "Police used tear gas and rubber bullets to disperse the crowd."
         ],
-        "impact_bn": "সরকারি হাসপাতালে বিনামূল্যে ডেঙ্গু পরীক্ষার সুবিধা সাধারণ মানুষের চিকিৎসা খরচ কমাবে।",
-        "impact_en": "Free dengue testing facilities at government hospitals will reduce medical expenses for ordinary people.",
-        "details_bn": "জাতীয় সংসদের প্রশ্নোত্তর পর্বে প্রতিমন্ত্রী এম মহিউত জানান যে স্থানীয় সরকার মন্ত্রণালয়ের নেতৃত্বে মশার লার্ভা ধ্বংস ও পরিচ্ছন্নতা অভিযানসহ বিভিন্ন সমন্বিত কার্যক্রম পিক মৌসুমের তিন থেকে চার মাস আগেই শুরু হয়েছিল। এছাড়া অবৈধ বেসরকারি ক্লিনিক ও ডায়াগনস্টিক সেন্টারের বিরুদ্ধে শূন্য সহনশীলতা নীতি গ্রহণ করেছে সরকার।",
-        "details_en": "Replying in parliament, State Minister MA Muhit said coordinated dengue prevention activities led by the Local Government Ministry began three to four months before the peak season. The government also adopted a zero-tolerance policy towards unlicensed private clinics and diagnostic centres.",
-        "hook_bn": "সরকারি হাসপাতালে ডেঙ্গু পরীক্ষা করা যাচ্ছে সম্পূর্ণ বিনামূল্যে।",
-        "question_bn": "আপনার এলাকার সরকারি হাসপাতালে ডেঙ্গু পরীক্ষার সেবা কেমন পাচ্ছেন?"
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "সাম্প্রতিক নাশকতা মামলায় গ্রেপ্তার ব্যক্তিদের মুক্ত করতে কার্যক্রম নিষিদ্ধ আওয়ামী লীগ ও নিষিদ্ধ ছাত্রলীগের নেতা-কর্মীরা মিছিল নিয়ে টুঙ্গিপাড়া থানা ঘেরাও করেন। এ সময় থানায় হামলা ও আগুন দেওয়ার পাশাপাশি একটি বিএএনপি সংসদ সদস্যের বাড়িও জ্বালিয়ে দেওয়া হয়।",
+        "details_en": "Activists of the banned Awami League and Chhatra League marched and surrounded Tungipara Police Station to free suspects arrested over recent sabotage incidents. During the unrest, a BNP MP's house was also set on fire.",
+        "hook_bn": "গোপালগঞ্জের টুঙ্গিপাড়া থানায় হামলা চালিয়ে আগুন দিয়েছেন নিষিদ্ধ সংগঠনের নেতা-কর্মীরা।",
+        "question_bn": null
+      },
+      "desk_importance": 8.0,
+      "outlet_count": 4,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T16:04:07.868853+00:00"
+      }
+    },
+    {
+      "story_id": "0cbb8bc1-c422-541a-85ef-9a02af052ce8",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/hasnat-abdullah-mp-20261117215553.JPG?cid=498738",
+      "image_caption": null,
+      "published_at": "2026-11-17T15:53:03+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 8.0,
+      "rank_score": 6.349,
+      "sources": [
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/national/498738",
+          "title": "মজুরির প্রতিশ্রুতি পূরণ হয়নি, শ্রমিক অসন্তোষের দায় সরকারের",
+          "snippet": "মজুরির প্রতিশ্রুতি পূরণ হয়নি, শ্রমিক অসন্তোষের দায় সরকারের"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/national/981578/%E0%A6%AE%E0%A6%9C%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A6%BF-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%B9%E0%A7%9F%E0%A6%A8%E0%A6%BF-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95",
+          "title": "মজুরির প্রতিশ্রুতি বাস্তবায়ন হয়নি, শ্রমিক অসন্তোষের দায় সরকারের: হাসনাত",
+          "snippet": "মজুরির প্রতিশ্রুতি বাস্তবায়ন হয়নি, শ্রমিক অসন্তোষের দায় সরকারের: হাসনাত"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পোশাকশ্রমিকদের মজুরি বাড়েনি এবং অসন্তোষের দায় সরকারের: হাসনাত আবদুল্লাহ",
+        "title_en": "Garment wages did not increase and government is responsible for unrest: Hasnat",
+        "summary_bn": "কুমিল্লা-৪ আসনের সংসদ সদস্য হাসনাত আবদুল্লাহ বলেছেন, তৈরি পোশাকশ্রমিকদের মজুরি না বাড়ায় অসন্তোষ তৈরি হয়েছে এবং এর দায় সরকারের।",
+        "summary_en": "Comilla-4 MP Hasnat Abdullah said garment workers wages did not increase causing unrest and the government is responsible.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T15:53:03+00:00",
+        "lead_bn": "কুমিল্লা-৪ আসনের সংসদ সদস্য হাসনাত আবদুল্লাহ বলেছেন, তৈরি পোশাকশ্রমিকদের মজুরি না বাড়ায় অসন্তোষ তৈরি হয়েছে এবং এর দায় সরকারের।",
+        "lead_en": "Comilla-4 MP Hasnat Abdullah said garment workers wages did not increase causing unrest and the government is responsible.",
+        "bullets_bn": [
+          "তিনি বলেন, শ্রমিকদের জন্য জাতীয় মজুরি ২০ হাজার টাকা নির্ধারণের প্রতিশ্রুতি দেওয়া হলেও তার প্রতিফলন দেখা যাচ্ছে না।",
+          "তিনি আরও জানান, গত তিন বছরে মূল্যস্ফীতি গড়ে ২৬ শতাংশের বেশি বেড়েছে।",
+          "পরিকল্পনা প্রতিমন্ত্রী জোনায়েদ সাকি বলেছেন, শ্রমিক আন্দোলন ব্যবহার করে অর্থনীতি অস্থিতিশীল করার চেষ্টা হলে সতর্ক থাকতে হবে।"
+        ],
+        "bullets_en": [
+          "He said although there was a promise to set national wages at 20000 taka for workers, its reflection is not seen.",
+          "He also stated that inflation has increased by more than 26 percent on average over the last three years.",
+          "State Minister for Planning Junaid Saki said caution must be maintained if attempts are made to destabilize the economy using worker protests."
+        ],
+        "impact_bn": "চারজনের পরিবারের এক মাসের খাবার খরচ ১২ থেকে ১৬ হাজার টাকা হলেও সর্বনিম্ন মজুরি নির্ধারিত আছে ১২ হাজার টাকা।",
+        "impact_en": "Food cost for a four-member family is 12000 to 16000 taka per month while minimum wage is set at 12000 taka.",
+        "details_bn": "জাতীয় সংসদে তৈরি পোশাকশিল্প খাতের চলমান শ্রমিক অসন্তোষ, জ্বালানি সংকট ও অন্যান্য কাঠামোগত সমস্যা নিরসন এবং এ খাতের সম্ভাবনা কাজে লাগানোর বিষয়ে সাধারণ আলোচনায় এই বক্তব্য দেওয়া হয়। হাসনাত আবদুল্লাহ পোশাকশিল্পের মালিকদের কাছ থেকে বিভিন্ন পর্যায়ে উপহার ও প্রটেকশন মানি আদায় এবং জ্বালানি সংকটকে পুঁজি করে দুর্নীতির অভিযোগ তোলেন।",
+        "details_en": "These remarks were made during a general discussion in the national parliament on resolving ongoing garment sector worker unrest, energy crisis, and other structural problems. Hasnat Abdullah alleged collection of gifts and protection money from garment owners at various stages and corruption capitalizing on the energy crisis.",
+        "hook_bn": "গত তিন বছরে মূল্যস্ফীতি গড়ে ২৬ শতাংশের বেশি বেড়েছে।",
+        "question_bn": "তৈরি পোশাক খাতের শ্রমিকদের বর্তমান মজুরি দিয়ে জীবনযাত্রার ব্যয় মেটানো কি সম্ভব বলে আপনি মনে করেন?"
+      },
+      "desk_importance": 8.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 9.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T16:04:07.868853+00:00"
+      }
+    },
+    {
+      "story_id": "040675b6-3bc2-57d3-a8bf-66aa0f03dfb4",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-08-17%2Fz15xtzou%2F3.avif?rect=0%2C44%2C622%2C327&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-17T15:33:35+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.25,
+      "rank_score": 5.1176,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/ecdfp3k4zo",
+          "title": "কামাল আহমেদ, ইলিয়াস মোল্লাহসহ ১৯ জনের বিরুদ্ধে অভিযোগ আমলে নিলেন ট্রাইব্যুনাল",
+          "snippet": "কামাল আহমেদ, ইলিয়াস মোল্লাহসহ ১৯ জনের বিরুদ্ধে অভিযোগ আমলে নিলেন ট্রাইব্যুনাল"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/court/mirpur-july-killings-ict-takes-cognisance-charges-against-kamal-majumder-18-others",
+          "title": "Mirpur July killings: ICT takes cognisance of charges against Kamal Majumder, 18 others",
+          "snippet": "Mirpur July killings: ICT takes cognisance of charges against Kamal Majumder, 18 others"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল কামাল আহমেদসহ ১৯ জনের বিরুদ্ধে অভিযোগ আমলে নিয়েছে",
+        "title_en": "International Crimes Tribunal takes cognisance of charges against Kamal Ahmed and 19 others",
+        "summary_bn": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল-১ জুলাই গণ-অভ্যুত্থানের সময় মানবতাবিরোধী অপরাধের মামলায় সাবেক শিল্প প্রতিমন্ত্রী কামাল আহমেদ মজুমদারসহ ১৯ জনের বিরুদ্ধে আনুষ্ঠানিক অভিযোগ আমলে নিয়েছে।",
+        "summary_en": "International Crimes Tribunal-1 has taken cognisance of formal charges against 19 people, including former state minister for industries Kamal Ahmed Majumder, in a crimes against humanity case during the July mass uprising.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T15:33:35+00:00",
+        "lead_bn": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল-১ জুলাই গণ-অভ্যুত্থানের সময় মানবতাবিরোধী অপরাধের মামলায় সাবেক শিল্প প্রতিমন্ত্রী কামাল আহমেদ মজুমদারসহ ১৯ জনের বিরুদ্ধে আনুষ্ঠানিক অভিযোগ আমলে নিয়েছে।",
+        "lead_en": "International Crimes Tribunal-1 has taken cognisance of formal charges against 19 people, including former state minister for industries Kamal Ahmed Majumder, in a crimes against humanity case during the July mass uprising.",
+        "bullets_bn": [
+          "মামলার আসামিদের মধ্যে সাবেক সংসদ সদস্য মো. ইলিয়াস উদ্দিন মোল্লাহ, মাইনুল হোসেন খান নিখিল ও সালাউদ্দিন মাহমুদ জাহিদ রয়েছেন।",
+          "আনুষ্ঠানিক অভিযোগে বলা হয়েছে আসামিদের নির্দেশে মিরপুর, পল্লবী ও কাফরুল এলাকায় ৬৪ জনের বেশি ছাত্র-জনতাকে হত্যা করা হয়।",
+          "অভিযুক্তদের মধ্যে ১১ জন পলাতক আসামির বিরুদ্ধে গ্রেপ্তারি পরোয়ানা জারি করা হয়েছে।"
+        ],
+        "bullets_en": [
+          "The accused include former MPs Md Elias Uddin Mollah, Mainul Hossain Khan Nikhil, and Salauddin Mahmud Zahid.",
+          "The formal charges state that over 64 students and people were killed in Mirpur, Pallabi, and Kafrul areas under the directives of the accused.",
+          "Arrest warrants have been issued for 11 absconding accused individuals."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "২০২৪ সালের ১৮ জুলাই মিরপুর-১২ নম্বর মোল্লা মার্কেটের সামনে মাইনুল হোসেন খান নিখিল, ইলিয়াস মোল্লাহ ও সালাউদ্দিন মাহমুদ জাহিদের নির্দেশে এবং স্বেচ্ছাসেবক লীগের সন্ত্রাসীরা সাধারণ শিক্ষার্থীদের ওপর হামলা চালায়। আন্দোলনকারীদের ওপর সরাসরি গুলি চালাতে ডিএমপির সাবেক কমিশনার হাবিবুর রহমান নির্দেশ দিয়েছিলেন বলে অভিযোগে বলা হয়েছে। এছাড়া পল্লবী থানার ভারপ্রাপ্ত কর্মকর্তা অপূর্ব হাসান অধীনস্থ পুলিশ সদস্যদের উদ্দেশে গুলির নির্দেশ দেন বলে অভিযোগে উল্লেখ রয়েছে।",
+        "details_en": "On 18 July 2024, volunteers league terrorists launched attacks on general students near Mollah Market in Mirpur-12 under the directives of Mainul Hossain Khan Nikhil, Elias Mollah, and Salauddin Mahmud Zahid. The formal charges stated that former DMP commissioner Habibur Rahman ordered direct shooting at protesters. Additionally, Pallabi police station officer-in-charge Apurba Hasan instructed subordinate police members to shoot.",
+        "hook_bn": "জুলাই অভ্যুত্থানে মানবতাবিরোধী অপরাধে কামাল আহমেদসহ ১৯ জনের বিরুদ্ধে অভিযোগ আমলে নেওয়া হয়েছে।",
+        "question_bn": null
       },
       "desk_importance": 7.0,
       "outlet_count": 2,
@@ -73,7 +227,227 @@
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-17T15:03:32.392105+00:00"
+        "checked_at": "2026-11-17T16:04:07.868853+00:00"
+      }
+    },
+    {
+      "story_id": "23f28430-6b20-5698-8979-a27c98fc405c",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business",
+        "governance_law",
+        "tech_innovation"
+      ],
+      "region": "national",
+      "tags": [
+        "#SaudiAirport",
+        "#Caab",
+        "#BimanBangladesh",
+        "#FlightDisruption"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/10/11/dhaka_airport.jpeg",
+      "image_caption": null,
+      "published_at": "2026-11-17T14:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.25,
+      "rank_score": 4.6766,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/aviation/saudi-airport-restrictions-23379-passengers-affected-198-flights-disrupted-1605711",
+          "title": "Saudi airport restrictions: 23,379 passengers affected as 198 flights disrupted so far",
+          "snippet": "Saudi airport restrictions: 23,379 passengers affected as 198 flights disrupted so far"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821571/%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A6-%E0%A6%A6%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A7%A7%E0%A7%AF%E0%A7%AE-%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9F-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B2-%E0%A6%AD%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87",
+          "title": "রিয়াদ-দাম্মামের ১৯৮ ফ্লাইট বাতিল, ভোগান্তিতে ২৩,৩৭৯ জন যাত্রী",
+          "snippet": "রিয়াদ-দাম্মামের ১৯৮ ফ্লাইট বাতিল, ভোগান্তিতে ২৩,৩৭৯ জন যাত্রী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সৌদি বিমানবন্দর নিষেধাজ্ঞায় ১৯৮ ফ্লাইট ব্যাহত, ভোগান্তিতে ২৩,৩৭৯ যাত্রী",
+        "title_en": "Saudi airport restrictions disrupt 198 flights, affecting 23,379 passengers",
+        "summary_bn": "সৌদি আরবের বিমানবন্দরগুলোর অপারেশনাল নিষেধাজ্ঞার কারণে বাংলাদেশ সংশ্লিষ্ট ১৯৮টি সরাসরি ও ট্রানজিট ফ্লাইট ব্যাহত হয়েছে, যাতে এ পর্যন্ত ২৩,৩৭৯ জন যাত্রী ভোগান্তিতে পড়েছেন।",
+        "summary_en": "Operational restrictions at Saudi Arabian airports have disrupted 198 direct and transit flights involving Bangladesh, affecting 23,379 passengers so far.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "governance_law",
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T14:00:00+00:00",
+        "lead_bn": "সৌদি আরবের বিমানবন্দরগুলোর অপারেশনাল নিষেধাজ্ঞার কারণে বাংলাদেশ সংশ্লিষ্ট ১৯৮টি সরাসরি ও ট্রানজিট ফ্লাইট ব্যাহত হয়েছে, যাতে এ পর্যন্ত ২৩,৩৭৯ জন যাত্রী ভোগান্তিতে পড়েছেন।",
+        "lead_en": "Operational restrictions at Saudi Arabian airports have disrupted 198 direct and transit flights involving Bangladesh, affecting 23,379 passengers so far.",
+        "bullets_bn": [
+          "বেবিচকের এএসএম ফ্লাইট ম্যানেজমেন্টের তথ্য অনুযায়ী, ব্যাহত ফ্লাইটগুলোর মধ্যে ১২১টি সরাসরি এবং ৭৭টি ট্রানজিট ফ্লাইট।",
+          "সরাসরি ফ্লাইটের মধ্যে বিমান বাংলাদেশ এয়ারলাইন্সের ৫৭টি ফ্লাইট সবচেয়ে বেশি ব্যাহত হয়েছে।",
+          "ট্রানজিট ফ্লাইটের মধ্যে ইন্ডিগো এয়ারলাইন্সের ৩০টি ফ্লাইট সবচেয়ে বেশি প্রভাবিত হয়েছে।"
+        ],
+        "bullets_en": [
+          "Of the affected flights, 121 were direct services and 77 were transit flights, according to Caab's ASM Flight Management.",
+          "Among direct flights, Biman Bangladesh Airlines recorded the highest number of disruptions with 57 affected flights.",
+          "Among transit flights, IndiGo recorded the highest number of affected services with 30."
+        ],
+        "impact_bn": "সৌদি আরবের বিমানবন্দর নিষেধাজ্ঞার কারণে বাংলাদেশ থেকে যাতায়াতকারী হাজার হাজার যাত্রী ফ্লাইট বিলম্ব ও বাতিলের মুখে পড়েছেন।",
+        "impact_en": "Thousands of passengers traveling to and from Saudi Arabia from Bangladesh are facing flight disruptions and cancellations due to airport restrictions.",
+        "details_bn": "গত অক্টোবরের শুরুতে রিয়াদের কিং খালিদ আন্তর্জাতিক বিমানবন্দরসহ সৌদি আরবের বিভিন্ন বিমানবন্দরে হামলার পর এই ফ্লাইট বিঘ্নিত হওয়ার ঘটনা শুরু হয়। নিরাপত্তা উদ্বেগের কারণে বিমানসংস্থাগুলো ফ্লাইট বাতিল বা স্থগিত করে। রিয়াদ বিমানবন্দর পরবর্তীতে পুনরায় চালু হলেও, অবতরণ বা উড্ডয়নের আগে বিমানসংস্থাগুলোকে সৌদি বেসামরিক বিমান চলাচল কর্তৃপক্ষের অনুমতি নিতে হচ্ছে, যা ফ্লাইট সূচির বিঘ্ন দীর্ঘায়িত করেছে।",
+        "details_en": "The disruptions began after attacks targeted Saudi airports in early October, including King Khalid International Airport in Riyadh, prompting airlines to cancel or suspend services. Although Riyadh airport subsequently reopened, airlines were required to obtain permission from the Saudi civil aviation authority before landing or departing, prolonging flight schedule disruptions.",
+        "hook_bn": "সৌদি আরবের বিমানবন্দর নিষেধাজ্ঞায় ভোগান্তিতে ২৩,৩৭৯ জন যাত্রী",
+        "question_bn": "সৌদি আরবগামী ফ্লাইটে এই জটিলতার মুখে আপনাদের কেমন অভিজ্ঞতা হয়েছে?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T16:04:07.868853+00:00"
+      }
+    },
+    {
+      "story_id": "61513ad3-13c0-5157-8e7e-5759dff978ef",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business",
+        "society_education"
+      ],
+      "region": "international",
+      "tags": [
+        "#StraitOfHormuz",
+        "#IndianMinistryOfExternalAffairs",
+        "#Oman"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/06/12/strait_of_hormuz.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-17T15:45:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4609,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/world/south-asia/indian-seafarer-missing-2-injured-lpg-tanker-attacked-strait-hormuz-1605861",
+          "title": "Indian seafarer missing, 2 injured as LPG tanker attacked in Strait of Hormuz",
+          "snippet": "Indian seafarer missing, 2 injured as LPG tanker attacked in Strait of Hormuz"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "হরমুজ প্রণালীতে এলপিজি ট্যাংকারে হামলায় এক ভারতীয় নাবিক নিখোঁজ।",
+        "title_en": "Indian seafarer missing after LPG tanker attacked in Strait of Hormuz.",
+        "summary_bn": "হরমুজ প্রণালীতে পানামার পতাকাবাহী একটি এলপিজি ট্যাংকারে হামলায় একজন ভারতীয় নাবিক নিখোঁজ এবং দুজন আহত হয়েছেন।",
+        "summary_en": "An Indian seafarer is missing and two others were injured after an LPG tanker was attacked in the Strait of Hormuz.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T15:45:00+00:00",
+        "lead_bn": "হরমুজ প্রণালীতে পানামার পতাকাবাহী একটি এলপিজি ট্যাংকারে হামলায় একজন ভারতীয় নাবিক নিখোঁজ এবং দুজন আহত হয়েছেন।",
+        "lead_en": "An Indian seafarer is missing and two others were injured after an LPG tanker was attacked in the Strait of Hormuz.",
+        "bullets_bn": [
+          "ট্যাংকারটিতে থাকা ২৪ জন ভারতীয় নাগরিকের মধ্যে ২১ জনকে খাসাবে নিরাপদে নামিয়ে আনা হয়েছে।",
+          "আহত দুই ভারতীয় নাবিককে হাসপাতালে ভর্তি করা হয়েছে এবং নিখোঁজ নাবিককে উদ্ধারে অভিযান চলছে।",
+          "অমানের ভারতীয় দূতাবাস ওমানি কর্তৃপক্ষের সঙ্গে মিলে অনুসন্ধান ও উদ্ধার অভিযান নিবিড়ভাবে পর্যবেক্ষণ করছে।"
+        ],
+        "bullets_en": [
+          "Twenty-one of the 24 Indian nationals aboard the tanker were safely evacuated ashore at Khasab.",
+          "Two injured Indian crew members were admitted to hospital while search operations continue for the missing person.",
+          "The Indian embassy in Oman is closely monitoring the search and rescue operations with Omani authorities."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ভারতের পররাষ্ট্র মন্ত্রণালয় জানায়, ১৬ নভেম্বর পানামার পতাকাবাহী এলপিজি ট্যাংকার এমটি তারা গ্যাস এই হামলার শিকার হয়। মন্ত্রণালয় এই হামলার নিন্দা জানিয়ে আন্তর্জাতিক জলসীমায় অবাধ চলাচল পুনরুদ্ধারের আহ্বান জানিয়েছে। হরমুজ প্রণালী পারস্য উপসাগরকে ওমান উপসাগর ও আরব সাগরের সঙ্গে যুক্ত করেছে। মার্কিন যুক্তরাষ্ট্র, ইসরায়েল ও ইরানের মধ্যে যুদ্ধ শুরু হওয়ার পর থেকে হরমুজ প্রণালী স্বাভাবিক বাণিজ্যিক নৌ চলাচলের জন্য কার্যত বন্ধ রয়েছে।",
+        "details_en": "According to the Indian Ministry of External Affairs, the Panama-flagged LPG tanker MT Tara Gas came under attack on 16 November. The ministry condemned the attack and called for the restoration of free navigation in international waterways. The Strait of Hormuz connects the Persian Gulf with the Gulf of Oman and the Arabian Sea, and has been effectively closed to normal commercial shipping since 28 February 2026, following the outbreak of war involving the United States, Israel and Iran.",
+        "hook_bn": "হরমুজ প্রণালীতে এলপিজি ট্যাংকারে হামলায় এক ভারতীয় নাবিক নিখোঁজ।",
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T16:04:07.868853+00:00"
+      }
+    },
+    {
+      "story_id": "1e915c70-435e-596e-932c-0de4cfeab02b",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-17%2F6ojsh8m5%2Fframesense-01-11.jpg?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-17T15:08:48+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.25,
+      "rank_score": 4.9969,
+      "sources": [
+        {
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/lyzsl0byq4",
+          "title": "রামিসা হত্যার দ্রুত বিচার নিশ্চিত করেছি, এবার সিনহা, আবরার হত্যা মামলা: আইনমন্ত্রী",
+          "snippet": "রামিসা হত্যার দ্রুত বিচার নিশ্চিত করেছি, এবার সিনহা, আবরার হত্যা মামলা: আইনমন্ত্রী"
+        },
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/post-1222049/",
+          "title": "বিচারের ইতিহাসে স্বল্পতম সময়ে মামলার রায় ও আপিল নিষ্পত্তি: আইনমন্ত্রী",
+          "snippet": "বিচারের ইতিহাসে স্বল্পতম সময়ে মামলার রায় ও আপিল নিষ্পত্তি: আইনমন্ত্রী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রামিসা হত্যার দ্রুত বিচার শেষ হয়েছে বলে জানান আইনমন্ত্রী",
+        "title_en": "Law Minister says speedy trial of Ramisa murder is completed",
+        "summary_bn": "আইনমন্ত্রী মো. আসাদুজ্জামান জানিয়েছেন, শিশু রামিসা হত্যা মামলায় সর্বনিম্ন সময়ে বিচারকাজ ও আপিল নিষ্পত্তি করা হয়েছে।",
+        "summary_en": "Law Minister Md. Asaduzzaman stated that trial and appeal settlement in the child Ramisa murder case were completed in the lowest time.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T15:08:48+00:00",
+        "lead_bn": "আইনমন্ত্রী মো. আসাদুজ্জামান জানিয়েছেন, শিশু রামিসা হত্যা মামলায় সর্বনিম্ন সময়ে বিচারকাজ ও আপিল নিষ্পত্তি করা হয়েছে।",
+        "lead_en": "Law Minister Md. Asaduzzaman stated that trial and appeal settlement in the child Ramisa murder case were completed in the lowest time.",
+        "bullets_bn": [
+          "পুলিশ ঘটনার চার দিনের মাথায় অভিযোগপত্র দেয় এবং ১৭ জুন আসামি সোহেল রানাকে মৃত্যুদণ্ড দেওয়া হয়।",
+          "আইনমন্ত্রী জানান, আগামী সপ্তাহ থেকে মেজর সিনহা হত্যা, বিশ্বজিৎ হত্যা ও শহীদ আবরার ফাহাদ হত্যা মামলার শুনানি আপিল বিভাগে শুরু হবে।",
+          "হাদি হত্যাকাণ্ডের তদন্ত ও বিচারপ্রক্রিয়া সর্বোচ্চ গুরুত্ব দিয়ে এগিয়ে নেওয়া হচ্ছে বলে জানান মন্ত্রী।"
+        ],
+        "bullets_en": [
+          "Police submitted the charge sheet four days after the incident, and accused Sohel Rana was given the death penalty on ১৭ June.",
+          "The Law Minister stated that hearings for the Major Sinha murder, Biswajit murder, and martyr Abrar Fahad murder cases will begin in the Appellate Division next week.",
+          "The minister stated that the investigation and trial process of the Hadi murder are being advanced with utmost importance."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "জাতীয় সংসদের ৩০০ বিধিতে দেওয়া এক বিবৃতিতে আইনমন্ত্রী জানান, গত মে মাসে আট বছর বয়সী শিশু রামিসা নিহত হয় এবং ঘটনার পর পুলিশ আসামি সোহেল ও তাঁর স্ত্রীকে ১৯ মে গ্রেপ্তার করে। প্রধানমন্ত্রী, স্বরাষ্ট্রমন্ত্রী ও আইনমন্ত্রী রামিসার বাসায় গিয়ে ন্যায়বিচার নিশ্চিতের আশ্বাস দিয়েছিলেন।",
+        "details_en": "In a statement under rule ৩০০ in the Jatiya Sangsad, the Law Minister stated that eight-year-old child Ramisa was killed in May, and police arrested accused Sohel and his wife on ১৯ May after the incident. The Prime Minister, Home Minister, and Law Minister visited Ramisa's home and assured ensuring justice.",
+        "hook_bn": "শিশু রামিসা হত্যা মামলার বিচার সর্বনিম্ন সময়ে সম্পন্ন হয়েছে।",
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T16:04:07.868853+00:00"
       }
     }
   ]
