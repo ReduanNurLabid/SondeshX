@@ -1,386 +1,250 @@
 {
-  "updated_at": "2026-11-17T16:00:41.154698",
-  "total_stories": 6,
+  "updated_at": "2026-11-17T17:00:46.546106",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "2d3e27a2-ac04-5636-a097-2b3252992398",
+      "story_id": "264c89ed-1f2e-508a-8a39-054a704768e5",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Gopalganj",
-        "#AwamiLeague",
-        "#PoliceStation"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1621297141646-22ca03dd904c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YXdhbWklMjBsZWFndWUlMjBhY3RpdmlzdHMlMjBhdHRhY2slMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTQ5MzEzMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-17%2Frmr7f8fs%2FMob-at-Court-yard-2.jpeg?rect=0%2C51%2C1079%2C566&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-17T15:48:12+00:00",
+      "published_at": "2026-11-17T16:31:33+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 8.75,
-      "rank_score": 7.5599,
+      "importance_score": 7.75,
+      "rank_score": 5.7942,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/crime/tg0r4plmiu",
+          "title": "সাঈদ খোকনের রিমান্ড শুনানি: আদালত প্রাঙ্গণে আইনজীবীসহ কয়েকজনকে মারধর",
+          "snippet": "সাঈদ খোকনের রিমান্ড শুনানি: আদালত প্রাঙ্গণে আইনজীবীসহ কয়েকজনকে মারধর"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/law-courts/news/1180688",
+          "title": "শুনানির শুরুতে আইনজীবীকে আটকে মারধর, পুলিশে দেওয়ার অভিযোগ",
+          "snippet": "শুনানির শুরুতে আইনজীবীকে আটকে মারধর, পুলিশে দেওয়ার অভিযোগ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সাঈদ খোকনের রিমান্ড শুনানির সময় আদালত প্রাঙ্গণে আইনজীবীসহ বেশ কয়েকজন মারধর ও হেনস্তার শিকার হন।",
+        "title_en": "Lawyer and several others beaten outside court during Sayeed Khokon remand hearing.",
+        "summary_bn": "ঢাকার সিএমএম আদালত প্রাঙ্গণে সাঈদ খোকনের রিমান্ড শুনানির আগে বিএনপি ও সহযোগী সংগঠনের নেতা-কর্মীরা এক আইনজীবী ও এক সাংবাদিকসহ কয়েকজনকে মারধর ও হেনস্তা করেন।",
+        "summary_en": "BNP and associate body activists beat and harassed a lawyer, journalist, and others before Sayeed Khokon remand hearing at Dhaka CMM court.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T16:31:33+00:00",
+        "lead_bn": "ঢাকার সিএমএম আদালত প্রাঙ্গণে সাঈদ খোকনের রিমান্ড শুনানির আগে বিএনপি ও সহযোগী সংগঠনের নেতা-কর্মীরা এক আইনজীবী ও এক সাংবাদিকসহ কয়েকজনকে মারধর ও হেনস্তা করেন।",
+        "lead_en": "BNP and associate body activists beat and harassed a lawyer, journalist, and others before Sayeed Khokon remand hearing at Dhaka CMM court.",
+        "bullets_bn": [
+          "ডিবি পুলিশ ঢাকা দক্ষিণ সিটি করপোরেশনের সাবেক মেয়র সাঈদ খোকনকে কিশোর আবদুল মোতালিব হত্যা মামলায় গ্রেপ্তার দেখিয়ে আদালতে হাজির করে।",
+          "মামলার তদন্ত কর্মকর্তা ডিবির রমনা জোনাল টিমের পরিদর্শক মো. সুজন হক সাঈদ খোকনের ১০ দিনের রিমান্ড আবেদন করেন।",
+          "সাঈদ খোকনের পক্ষে আইনজীবী প্রাণ নাথ রিমান্ড বাতিল ও জামিন চেয়ে তাঁর ডিভিশন দাবি করেন।"
+        ],
+        "bullets_en": [
+          "DB police produced former Dhaka South City Corporation mayor Sayeed Khokon in court over the killing of teenager Abdul Motalib.",
+          "DB Ramna zonal team inspector Md. Sujan Haq, the investigation officer, petitioned for a ten-day remand for Sayeed Khokon.",
+          "Defense lawyer Pran Nath applied for cancellation of remand, bail, and division status for Sayeed Khokon."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "জুলাই অভ্যুত্থানের পর থেকে দুই বছরের বেশি সময় আত্মগোপনে থাকা ঢাকা দক্ষিণ সিটি করপোরেশনের সাবেক মেয়র সাঈদ খোকনকে বারিধারার একটি বাসা থেকে আটক করে স্পেশাল রেসপন্স ব্যাটালিয়ন। পরে তাঁকে গোয়েন্দা পুলিশের কাছে হস্তান্তর করা হয়। সাঈদ খোকনকে আদালতে হাজির করা হবে এমন খবরে দুপুর থেকেই আদালত চত্বরে অবস্থান নিয়ে বিক্ষোভ করেন স্থানীয় বিএনপি এবং ছাত্রদলের নেতা-কর্মীরা। হাজতখানা থেকে আদালতে নেওয়ার সময় তাঁকে বহনকারী গাড়িতে ঝাড়ু প্রদর্শন ও ডিম নিক্ষেপ করা হয়। পরবর্তীতে কঠোর নিরাপত্তার মধ্য দিয়ে সাঈদ খোকনকে বুলেটপ্রুফ জ্যাকেট, হেলমেট ও হাতকড়া পরিয়ে এজলাসে তোলা হয়।",
+        "details_en": "Former Dhaka South City Corporation mayor Sayeed Khokon, who was in hiding for over two years after the July uprising, was detained from a Banani residence by the Special Response Battalion and handed over to Detective Branch police. Learning he would be produced in court, local BNP and Chhatra Dal activists gathered and demonstrated from noon, displaying brooms and throwing eggs at the vehicle carrying him. Subsequently, Sayeed Khokon was brought into the courtroom under tight security wearing a bulletproof jacket, helmet, and handcuffs.",
+        "hook_bn": "সাঈদ খোকনের রিমান্ড শুনানির সময় আদালত প্রাঙ্গণে আইনজীবী ও সাংবাদিক হেনস্তা।",
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": true,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T17:13:23.236083+00:00"
+      }
+    },
+    {
+      "story_id": "e9f78635-9d84-55e1-8b1a-36384dc9bc0d",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Pallabi",
+        "#Mohakhali",
+        "#BusFire"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1627628107139-9f93198b7dc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFzc2VuZ2VyJTIwYnVzZXMlMjBzZXQlMjBmaXJlJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk0OTM1NTA2fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-17T15:56:12+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.75,
+      "rank_score": 5.6003,
       "sources": [
         {
           "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/nation/424928/gopalganj-unrest-bnp-mp%E2%80%99s-house-set-on-fire-after",
-          "title": "Gopalganj unrest: BNP MP’s house set on fire after attack on police station",
-          "snippet": "Gopalganj unrest: BNP MP’s house set on fire after attack on police station"
+          "url": "https://www.dhakatribune.com/bangladesh/dhaka/424929/two-buses-set-on-fire-in-pallabi-mohakhali",
+          "title": "Two buses set on fire in Pallabi, Mohakhali",
+          "snippet": "Two buses set on fire in Pallabi, Mohakhali"
         },
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/4zpxbsk8am",
-          "title": "মাইকে ঘোষণা দিয়ে টুঙ্গিপাড়া থানায় আগুন দিল কার্যক্রম নিষিদ্ধ আওয়ামী লীগ",
-          "snippet": "মাইকে ঘোষণা দিয়ে টুঙ্গিপাড়া থানায় আগুন দিল কার্যক্রম নিষিদ্ধ আওয়ামী লীগ"
+          "url": "https://www.prothomalo.com/bangladesh/crime/yg2sg64nq7",
+          "title": "রাজধানীর পল্লবী ও মহাখালীতে যাত্রীবাহী বাসে আগুন",
+          "snippet": "রাজধানীর পল্লবী ও মহাখালীতে যাত্রীবাহী বাসে আগুন"
         },
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/crime/tungipara-police-station-set-fire-gopalganj-1605826",
-          "title": "Police station, vehicles set ablaze in Gopalganj's Tungipara following arrests of AL activists",
-          "snippet": "Police station, vehicles set ablaze in Gopalganj's Tungipara following arrests of AL activists"
-        },
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/gopalganjs-tungipara-police-station-set-fire-following-arrests-awami-league-activists-4326406",
-          "title": "Gopalganj's Tungipara Police Station set on fire following arrests of Awami League activists",
-          "snippet": "Gopalganj's Tungipara Police Station set on fire following arrests of Awami League activists"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "গোপালগঞ্জের টুঙ্গিপাড়া থানায় হামলা ও আগুন দিয়েছে কার্যক্রম নিষিদ্ধ আওয়ামী লীগ",
-        "title_en": "Awami League activists attack and set fire to Tungipara Police Station",
-        "summary_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগ ও নিষিদ্ধ ছাত্রলীগের নেতা-কর্মীরা গোপালগঞ্জের টুঙ্গিপাড়া থানায় হামলা চালিয়ে আগুন দেন।",
-        "summary_en": "Activists of the banned Awami League and Chhatra League attacked and set fire to Tungipara Police Station in Gopalganj.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T15:48:12+00:00",
-        "lead_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগ ও নিষিদ্ধ ছাত্রলীগের নেতা-কর্মীরা গোপালগঞ্জের টুঙ্গিপাড়া থানায় হামলা চালিয়ে আগুন দেন।",
-        "lead_en": "Activists of the banned Awami League and Chhatra League attacked and set fire to Tungipara Police Station in Gopalganj.",
-        "bullets_bn": [
-          "সাম্প্রতিক নাশকতা মামলায় গ্রেপ্তার আসামিদের মুক্ত করতে থানায় হামলা চালানো হয়।",
-          "হামলাকারীরা বন্দীদের মুক্ত করার পাশাপাশি অস্ত্র লুট করেন এবং পুলিশের গাড়ি ও ব্যারাক পুড়িয়ে দেন।",
-          "পরিস্থিতি নিয়ন্ত্রণে পুলিশ কাঁদানে গ্যাস ও রাবার বুলেট নিক্ষেপ করে।"
-        ],
-        "bullets_en": [
-          "The attack was carried out to free suspects arrested over recent sabotage incidents.",
-          "Attackers freed detainees, looted firearms, and set fire to police vehicles and a barracks.",
-          "Police used tear gas and rubber bullets to disperse the crowd."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সাম্প্রতিক নাশকতা মামলায় গ্রেপ্তার ব্যক্তিদের মুক্ত করতে কার্যক্রম নিষিদ্ধ আওয়ামী লীগ ও নিষিদ্ধ ছাত্রলীগের নেতা-কর্মীরা মিছিল নিয়ে টুঙ্গিপাড়া থানা ঘেরাও করেন। এ সময় থানায় হামলা ও আগুন দেওয়ার পাশাপাশি একটি বিএএনপি সংসদ সদস্যের বাড়িও জ্বালিয়ে দেওয়া হয়।",
-        "details_en": "Activists of the banned Awami League and Chhatra League marched and surrounded Tungipara Police Station to free suspects arrested over recent sabotage incidents. During the unrest, a BNP MP's house was also set on fire.",
-        "hook_bn": "গোপালগঞ্জের টুঙ্গিপাড়া থানায় হামলা চালিয়ে আগুন দিয়েছেন নিষিদ্ধ সংগঠনের নেতা-কর্মীরা।",
-        "question_bn": null
-      },
-      "desk_importance": 8.0,
-      "outlet_count": 4,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T16:04:07.868853+00:00"
-      }
-    },
-    {
-      "story_id": "0cbb8bc1-c422-541a-85ef-9a02af052ce8",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Economy",
-        "#Finance"
-      ],
-      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/hasnat-abdullah-mp-20261117215553.JPG?cid=498738",
-      "image_caption": null,
-      "published_at": "2026-11-17T15:53:03+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 8.0,
-      "rank_score": 6.349,
-      "sources": [
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/national/498738",
-          "title": "মজুরির প্রতিশ্রুতি পূরণ হয়নি, শ্রমিক অসন্তোষের দায় সরকারের",
-          "snippet": "মজুরির প্রতিশ্রুতি পূরণ হয়নি, শ্রমিক অসন্তোষের দায় সরকারের"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/981578/%E0%A6%AE%E0%A6%9C%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A6%BF-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%B9%E0%A7%9F%E0%A6%A8%E0%A6%BF-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95",
-          "title": "মজুরির প্রতিশ্রুতি বাস্তবায়ন হয়নি, শ্রমিক অসন্তোষের দায় সরকারের: হাসনাত",
-          "snippet": "মজুরির প্রতিশ্রুতি বাস্তবায়ন হয়নি, শ্রমিক অসন্তোষের দায় সরকারের: হাসনাত"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পোশাকশ্রমিকদের মজুরি বাড়েনি এবং অসন্তোষের দায় সরকারের: হাসনাত আবদুল্লাহ",
-        "title_en": "Garment wages did not increase and government is responsible for unrest: Hasnat",
-        "summary_bn": "কুমিল্লা-৪ আসনের সংসদ সদস্য হাসনাত আবদুল্লাহ বলেছেন, তৈরি পোশাকশ্রমিকদের মজুরি না বাড়ায় অসন্তোষ তৈরি হয়েছে এবং এর দায় সরকারের।",
-        "summary_en": "Comilla-4 MP Hasnat Abdullah said garment workers wages did not increase causing unrest and the government is responsible.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T15:53:03+00:00",
-        "lead_bn": "কুমিল্লা-৪ আসনের সংসদ সদস্য হাসনাত আবদুল্লাহ বলেছেন, তৈরি পোশাকশ্রমিকদের মজুরি না বাড়ায় অসন্তোষ তৈরি হয়েছে এবং এর দায় সরকারের।",
-        "lead_en": "Comilla-4 MP Hasnat Abdullah said garment workers wages did not increase causing unrest and the government is responsible.",
-        "bullets_bn": [
-          "তিনি বলেন, শ্রমিকদের জন্য জাতীয় মজুরি ২০ হাজার টাকা নির্ধারণের প্রতিশ্রুতি দেওয়া হলেও তার প্রতিফলন দেখা যাচ্ছে না।",
-          "তিনি আরও জানান, গত তিন বছরে মূল্যস্ফীতি গড়ে ২৬ শতাংশের বেশি বেড়েছে।",
-          "পরিকল্পনা প্রতিমন্ত্রী জোনায়েদ সাকি বলেছেন, শ্রমিক আন্দোলন ব্যবহার করে অর্থনীতি অস্থিতিশীল করার চেষ্টা হলে সতর্ক থাকতে হবে।"
-        ],
-        "bullets_en": [
-          "He said although there was a promise to set national wages at 20000 taka for workers, its reflection is not seen.",
-          "He also stated that inflation has increased by more than 26 percent on average over the last three years.",
-          "State Minister for Planning Junaid Saki said caution must be maintained if attempts are made to destabilize the economy using worker protests."
-        ],
-        "impact_bn": "চারজনের পরিবারের এক মাসের খাবার খরচ ১২ থেকে ১৬ হাজার টাকা হলেও সর্বনিম্ন মজুরি নির্ধারিত আছে ১২ হাজার টাকা।",
-        "impact_en": "Food cost for a four-member family is 12000 to 16000 taka per month while minimum wage is set at 12000 taka.",
-        "details_bn": "জাতীয় সংসদে তৈরি পোশাকশিল্প খাতের চলমান শ্রমিক অসন্তোষ, জ্বালানি সংকট ও অন্যান্য কাঠামোগত সমস্যা নিরসন এবং এ খাতের সম্ভাবনা কাজে লাগানোর বিষয়ে সাধারণ আলোচনায় এই বক্তব্য দেওয়া হয়। হাসনাত আবদুল্লাহ পোশাকশিল্পের মালিকদের কাছ থেকে বিভিন্ন পর্যায়ে উপহার ও প্রটেকশন মানি আদায় এবং জ্বালানি সংকটকে পুঁজি করে দুর্নীতির অভিযোগ তোলেন।",
-        "details_en": "These remarks were made during a general discussion in the national parliament on resolving ongoing garment sector worker unrest, energy crisis, and other structural problems. Hasnat Abdullah alleged collection of gifts and protection money from garment owners at various stages and corruption capitalizing on the energy crisis.",
-        "hook_bn": "গত তিন বছরে মূল্যস্ফীতি গড়ে ২৬ শতাংশের বেশি বেড়েছে।",
-        "question_bn": "তৈরি পোশাক খাতের শ্রমিকদের বর্তমান মজুরি দিয়ে জীবনযাত্রার ব্যয় মেটানো কি সম্ভব বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 8.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 9.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T16:04:07.868853+00:00"
-      }
-    },
-    {
-      "story_id": "040675b6-3bc2-57d3-a8bf-66aa0f03dfb4",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-08-17%2Fz15xtzou%2F3.avif?rect=0%2C44%2C622%2C327&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-17T15:33:35+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 5.1176,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/ecdfp3k4zo",
-          "title": "কামাল আহমেদ, ইলিয়াস মোল্লাহসহ ১৯ জনের বিরুদ্ধে অভিযোগ আমলে নিলেন ট্রাইব্যুনাল",
-          "snippet": "কামাল আহমেদ, ইলিয়াস মোল্লাহসহ ১৯ জনের বিরুদ্ধে অভিযোগ আমলে নিলেন ট্রাইব্যুনাল"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/court/mirpur-july-killings-ict-takes-cognisance-charges-against-kamal-majumder-18-others",
-          "title": "Mirpur July killings: ICT takes cognisance of charges against Kamal Majumder, 18 others",
-          "snippet": "Mirpur July killings: ICT takes cognisance of charges against Kamal Majumder, 18 others"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল কামাল আহমেদসহ ১৯ জনের বিরুদ্ধে অভিযোগ আমলে নিয়েছে",
-        "title_en": "International Crimes Tribunal takes cognisance of charges against Kamal Ahmed and 19 others",
-        "summary_bn": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল-১ জুলাই গণ-অভ্যুত্থানের সময় মানবতাবিরোধী অপরাধের মামলায় সাবেক শিল্প প্রতিমন্ত্রী কামাল আহমেদ মজুমদারসহ ১৯ জনের বিরুদ্ধে আনুষ্ঠানিক অভিযোগ আমলে নিয়েছে।",
-        "summary_en": "International Crimes Tribunal-1 has taken cognisance of formal charges against 19 people, including former state minister for industries Kamal Ahmed Majumder, in a crimes against humanity case during the July mass uprising.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T15:33:35+00:00",
-        "lead_bn": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল-১ জুলাই গণ-অভ্যুত্থানের সময় মানবতাবিরোধী অপরাধের মামলায় সাবেক শিল্প প্রতিমন্ত্রী কামাল আহমেদ মজুমদারসহ ১৯ জনের বিরুদ্ধে আনুষ্ঠানিক অভিযোগ আমলে নিয়েছে।",
-        "lead_en": "International Crimes Tribunal-1 has taken cognisance of formal charges against 19 people, including former state minister for industries Kamal Ahmed Majumder, in a crimes against humanity case during the July mass uprising.",
-        "bullets_bn": [
-          "মামলার আসামিদের মধ্যে সাবেক সংসদ সদস্য মো. ইলিয়াস উদ্দিন মোল্লাহ, মাইনুল হোসেন খান নিখিল ও সালাউদ্দিন মাহমুদ জাহিদ রয়েছেন।",
-          "আনুষ্ঠানিক অভিযোগে বলা হয়েছে আসামিদের নির্দেশে মিরপুর, পল্লবী ও কাফরুল এলাকায় ৬৪ জনের বেশি ছাত্র-জনতাকে হত্যা করা হয়।",
-          "অভিযুক্তদের মধ্যে ১১ জন পলাতক আসামির বিরুদ্ধে গ্রেপ্তারি পরোয়ানা জারি করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "The accused include former MPs Md Elias Uddin Mollah, Mainul Hossain Khan Nikhil, and Salauddin Mahmud Zahid.",
-          "The formal charges state that over 64 students and people were killed in Mirpur, Pallabi, and Kafrul areas under the directives of the accused.",
-          "Arrest warrants have been issued for 11 absconding accused individuals."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "২০২৪ সালের ১৮ জুলাই মিরপুর-১২ নম্বর মোল্লা মার্কেটের সামনে মাইনুল হোসেন খান নিখিল, ইলিয়াস মোল্লাহ ও সালাউদ্দিন মাহমুদ জাহিদের নির্দেশে এবং স্বেচ্ছাসেবক লীগের সন্ত্রাসীরা সাধারণ শিক্ষার্থীদের ওপর হামলা চালায়। আন্দোলনকারীদের ওপর সরাসরি গুলি চালাতে ডিএমপির সাবেক কমিশনার হাবিবুর রহমান নির্দেশ দিয়েছিলেন বলে অভিযোগে বলা হয়েছে। এছাড়া পল্লবী থানার ভারপ্রাপ্ত কর্মকর্তা অপূর্ব হাসান অধীনস্থ পুলিশ সদস্যদের উদ্দেশে গুলির নির্দেশ দেন বলে অভিযোগে উল্লেখ রয়েছে।",
-        "details_en": "On 18 July 2024, volunteers league terrorists launched attacks on general students near Mollah Market in Mirpur-12 under the directives of Mainul Hossain Khan Nikhil, Elias Mollah, and Salauddin Mahmud Zahid. The formal charges stated that former DMP commissioner Habibur Rahman ordered direct shooting at protesters. Additionally, Pallabi police station officer-in-charge Apurba Hasan instructed subordinate police members to shoot.",
-        "hook_bn": "জুলাই অভ্যুত্থানে মানবতাবিরোধী অপরাধে কামাল আহমেদসহ ১৯ জনের বিরুদ্ধে অভিযোগ আমলে নেওয়া হয়েছে।",
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T16:04:07.868853+00:00"
-      }
-    },
-    {
-      "story_id": "23f28430-6b20-5698-8979-a27c98fc405c",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business",
-        "governance_law",
-        "tech_innovation"
-      ],
-      "region": "national",
-      "tags": [
-        "#SaudiAirport",
-        "#Caab",
-        "#BimanBangladesh",
-        "#FlightDisruption"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/10/11/dhaka_airport.jpeg",
-      "image_caption": null,
-      "published_at": "2026-11-17T14:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 4.6766,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/economy/aviation/saudi-airport-restrictions-23379-passengers-affected-198-flights-disrupted-1605711",
-          "title": "Saudi airport restrictions: 23,379 passengers affected as 198 flights disrupted so far",
-          "snippet": "Saudi airport restrictions: 23,379 passengers affected as 198 flights disrupted so far"
+          "url": "https://www.tbsnews.net/bangladesh/crime/two-passenger-buses-set-fire-pallabi-mohakhali-one-held-1605866",
+          "title": "Two passenger buses set on fire in Pallabi, Mohakhali; one held",
+          "snippet": "Two passenger buses set on fire in Pallabi, Mohakhali; one held"
         },
         {
           "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821571/%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A6-%E0%A6%A6%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A7%A7%E0%A7%AF%E0%A7%AE-%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9F-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B2-%E0%A6%AD%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87",
-          "title": "রিয়াদ-দাম্মামের ১৯৮ ফ্লাইট বাতিল, ভোগান্তিতে ২৩,৩৭৯ জন যাত্রী",
-          "snippet": "রিয়াদ-দাম্মামের ১৯৮ ফ্লাইট বাতিল, ভোগান্তিতে ২৩,৩৭৯ জন যাত্রী"
+          "url": "https://www.ittefaq.com.bd/821579/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%B0-%E0%A6%AA%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%AC%E0%A7%80-%E0%A6%93-%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%87",
+          "title": "রাজধানীর পল্লবী ও মহাখালীতে দুই যাত্রীবাহী বাসে আগুন",
+          "snippet": "রাজধানীর পল্লবী ও মহাখালীতে দুই যাত্রীবাহী বাসে আগুন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সৌদি বিমানবন্দর নিষেধাজ্ঞায় ১৯৮ ফ্লাইট ব্যাহত, ভোগান্তিতে ২৩,৩৭৯ যাত্রী",
-        "title_en": "Saudi airport restrictions disrupt 198 flights, affecting 23,379 passengers",
-        "summary_bn": "সৌদি আরবের বিমানবন্দরগুলোর অপারেশনাল নিষেধাজ্ঞার কারণে বাংলাদেশ সংশ্লিষ্ট ১৯৮টি সরাসরি ও ট্রানজিট ফ্লাইট ব্যাহত হয়েছে, যাতে এ পর্যন্ত ২৩,৩৭৯ জন যাত্রী ভোগান্তিতে পড়েছেন।",
-        "summary_en": "Operational restrictions at Saudi Arabian airports have disrupted 198 direct and transit flights involving Bangladesh, affecting 23,379 passengers so far.",
+        "title_bn": "রাজধানীর পল্লবী, মহাখালি ও বাড্ডা লিংক রোডে যাত্রীবাহী বাসে আগুন",
+        "title_en": "Passenger buses set on fire in Pallabi, Mohakhali and Badda Link Road",
+        "summary_bn": "রাজধানীর পল্লবী, মহাখালি ও বাড্ডা লিংক রোডে পৃথক ঘটনায় যাত্রীবাহী বাসে আগুন দেওয়ার ঘটনা ঘটেছে।",
+        "summary_en": "Passenger buses have been set on fire in separate incidents in Pallabi, Mohakhali and Badda Link Road of the capital.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "economy_business",
-          "governance_law",
-          "tech_innovation"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-17T14:00:00+00:00",
-        "lead_bn": "সৌদি আরবের বিমানবন্দরগুলোর অপারেশনাল নিষেধাজ্ঞার কারণে বাংলাদেশ সংশ্লিষ্ট ১৯৮টি সরাসরি ও ট্রানজিট ফ্লাইট ব্যাহত হয়েছে, যাতে এ পর্যন্ত ২৩,৩৭৯ জন যাত্রী ভোগান্তিতে পড়েছেন।",
-        "lead_en": "Operational restrictions at Saudi Arabian airports have disrupted 198 direct and transit flights involving Bangladesh, affecting 23,379 passengers so far.",
+        "published_at": "2026-11-17T15:56:12+00:00",
+        "lead_bn": "রাজধানীর পল্লবী, মহাখালি ও বাড্ডা লিংক রোডে পৃথক ঘটনায় যাত্রীবাহী বাসে আগুন দেওয়ার ঘটনা ঘটেছে।",
+        "lead_en": "Passenger buses have been set on fire in separate incidents in Pallabi, Mohakhali and Badda Link Road of the capital.",
         "bullets_bn": [
-          "বেবিচকের এএসএম ফ্লাইট ম্যানেজমেন্টের তথ্য অনুযায়ী, ব্যাহত ফ্লাইটগুলোর মধ্যে ১২১টি সরাসরি এবং ৭৭টি ট্রানজিট ফ্লাইট।",
-          "সরাসরি ফ্লাইটের মধ্যে বিমান বাংলাদেশ এয়ারলাইন্সের ৫৭টি ফ্লাইট সবচেয়ে বেশি ব্যাহত হয়েছে।",
-          "ট্রানজিট ফ্লাইটের মধ্যে ইন্ডিগো এয়ারলাইন্সের ৩০টি ফ্লাইট সবচেয়ে বেশি প্রভাবিত হয়েছে।"
+          "পল্লবীর সিরামিক রোডে মিরপুর লিংক ও সরকারি তিতুমীর কলেজের সামনে আলিফ পরিবহনের বাসে আগুন লাগে।",
+          "পল্লবীতে বাসে আগুন দেওয়ার ঘটনায় সন্দেহভাজন একজনকে আটক করা হয়েছে বলে পুলিশ জানিয়েছে।",
+          "মহাখালীতে বাসে লাগা আগুন নেভাতে কাজ করেছে ফায়ার সার্ভিস।"
         ],
         "bullets_en": [
-          "Of the affected flights, 121 were direct services and 77 were transit flights, according to Caab's ASM Flight Management.",
-          "Among direct flights, Biman Bangladesh Airlines recorded the highest number of disruptions with 57 affected flights.",
-          "Among transit flights, IndiGo recorded the highest number of affected services with 30."
+          "A Mirpur Link bus on Ceramic Road in Pallabi and an Alif Paribahan bus in front of Government Titu Mir College were set on fire.",
+          "Police stated that one suspect has been detained over the bus arson incident in Pallabi.",
+          "Firefighters responded to the blaze that broke out in a bus in Mohakhali."
         ],
-        "impact_bn": "সৌদি আরবের বিমানবন্দর নিষেধাজ্ঞার কারণে বাংলাদেশ থেকে যাতায়াতকারী হাজার হাজার যাত্রী ফ্লাইট বিলম্ব ও বাতিলের মুখে পড়েছেন।",
-        "impact_en": "Thousands of passengers traveling to and from Saudi Arabia from Bangladesh are facing flight disruptions and cancellations due to airport restrictions.",
-        "details_bn": "গত অক্টোবরের শুরুতে রিয়াদের কিং খালিদ আন্তর্জাতিক বিমানবন্দরসহ সৌদি আরবের বিভিন্ন বিমানবন্দরে হামলার পর এই ফ্লাইট বিঘ্নিত হওয়ার ঘটনা শুরু হয়। নিরাপত্তা উদ্বেগের কারণে বিমানসংস্থাগুলো ফ্লাইট বাতিল বা স্থগিত করে। রিয়াদ বিমানবন্দর পরবর্তীতে পুনরায় চালু হলেও, অবতরণ বা উড্ডয়নের আগে বিমানসংস্থাগুলোকে সৌদি বেসামরিক বিমান চলাচল কর্তৃপক্ষের অনুমতি নিতে হচ্ছে, যা ফ্লাইট সূচির বিঘ্ন দীর্ঘায়িত করেছে।",
-        "details_en": "The disruptions began after attacks targeted Saudi airports in early October, including King Khalid International Airport in Riyadh, prompting airlines to cancel or suspend services. Although Riyadh airport subsequently reopened, airlines were required to obtain permission from the Saudi civil aviation authority before landing or departing, prolonging flight schedule disruptions.",
-        "hook_bn": "সৌদি আরবের বিমানবন্দর নিষেধাজ্ঞায় ভোগান্তিতে ২৩,৩৭৯ জন যাত্রী",
-        "question_bn": "সৌদি আরবগামী ফ্লাইটে এই জটিলতার মুখে আপনাদের কেমন অভিজ্ঞতা হয়েছে?"
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "১৭ নভেম্বর রাতে রাজধানীর পল্লবী, মহাখালি ও বাড্ডা লিংক রোডে এসব অগ্নিকাণ্ডের ঘটনা ঘটে। পল্লবীর সিরামিক রোডে মিরপুর সুপার লিংক পরিবহনের একটি বাসে আগুন দিলে বাসটি পুড়ে যায় এবং রাত সোয়া ৯টার দিকে তিতুমীর কলেজের সামনে আলিফ পরিবহনের বাসে আগুন লাগে। এসব ঘটনায় হতাহতের কোনো খবর পাওয়া যায়নি।",
+        "details_en": "These arson incidents took place in Pallabi, Mohakhali and Badda Link Road of the capital on the night of November 17. A Mirpur Super Link bus was gutted after being set on fire on Ceramic Road in Pallabi, and an Alif Paribahan bus was set on fire in front of Titu Mir College at around 9:15 pm. No casualties were reported in these incidents.",
+        "hook_bn": "রাজধানীর পল্লবী ও মহাখালীতে পৃথক যাত্রীবাহী বাসে আগুন দিয়েছে দুর্বৃত্তরা।",
+        "question_bn": null
       },
       "desk_importance": 7.0,
-      "outlet_count": 2,
+      "outlet_count": 6,
       "trending": false,
       "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-17T16:04:07.868853+00:00"
+        "checked_at": "2026-11-17T17:13:23.236083+00:00"
       }
     },
     {
-      "story_id": "61513ad3-13c0-5157-8e7e-5759dff978ef",
-      "primary_category": "world_diplomacy",
+      "story_id": "cacecfa7-2a13-5e51-9e38-647aac18604c",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy",
-        "economy_business",
-        "society_education"
+        "governance_law",
+        "economy_business"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#StraitOfHormuz",
-        "#IndianMinistryOfExternalAffairs",
-        "#Oman"
+        "#MozammelHaque",
+        "#Gazipur",
+        "#FireService"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/06/12/strait_of_hormuz.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/17/gazipur_mp_house.jpg",
       "image_caption": null,
-      "published_at": "2026-11-17T15:45:00+00:00",
+      "published_at": "2026-11-17T16:20:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.4609,
+      "importance_score": 6.75,
+      "rank_score": 4.3468,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/world/south-asia/indian-seafarer-missing-2-injured-lpg-tanker-attacked-strait-hormuz-1605861",
-          "title": "Indian seafarer missing, 2 injured as LPG tanker attacked in Strait of Hormuz",
-          "snippet": "Indian seafarer missing, 2 injured as LPG tanker attacked in Strait of Hormuz"
+          "url": "https://www.tbsnews.net/bangladesh/fire-guts-ex-minister-mozammel-haques-tin-shed-house-gazipur-no-casualties-1605926",
+          "title": "Fire guts ex-minister Mozammel Haque's tin-shed house in Gazipur; no casualties",
+          "snippet": "Fire guts ex-minister Mozammel Haque's tin-shed house in Gazipur; no casualties"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/424932/miscreants-set-fire-to-ex-minister-mozammel",
+          "title": "Miscreants set fire to ex-minister Mozammel Haque’s house in Gazipur",
+          "snippet": "Miscreants set fire to ex-minister Mozammel Haque’s house in Gazipur"
+        },
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/6ez5tvi1wc",
+          "title": "গাজীপুরে সাবেক মন্ত্রী মোজাম্মেল হকের পুরোনো বাড়িতে আগুন",
+          "snippet": "গাজীপুরে সাবেক মন্ত্রী মোজাম্মেল হকের পুরোনো বাড়িতে আগুন"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821577/%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A7%80%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%AE%E0%A7%8B%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A7%87%E0%A6%B2-%E0%A6%B9%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A7%81%E0%A6%A8",
+          "title": "গাজীপুরে সাবেক মন্ত্রী মোজাম্মেল হকের বাড়িতে আগুন",
+          "snippet": "গাজীপুরে সাবেক মন্ত্রী মোজাম্মেল হকের বাড়িতে আগুন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "হরমুজ প্রণালীতে এলপিজি ট্যাংকারে হামলায় এক ভারতীয় নাবিক নিখোঁজ।",
-        "title_en": "Indian seafarer missing after LPG tanker attacked in Strait of Hormuz.",
-        "summary_bn": "হরমুজ প্রণালীতে পানামার পতাকাবাহী একটি এলপিজি ট্যাংকারে হামলায় একজন ভারতীয় নাবিক নিখোঁজ এবং দুজন আহত হয়েছেন।",
-        "summary_en": "An Indian seafarer is missing and two others were injured after an LPG tanker was attacked in the Strait of Hormuz.",
+        "title_bn": "গাজীপুরে সাবেক মন্ত্রী মোজাম্মেল হকের বাড়িতে আগুন",
+        "title_en": "Fire guts ex-minister Mozammel Haque's house in Gazipur",
+        "summary_bn": "গাজীপুরের জোড়পুকুর এলাকায় সাবেক মন্ত্রী আ ক ম মোজাম্মেল হকের একটি টিনশেড বাড়িতে আগুন দিয়েছে দুর্বৃত্তরা।",
+        "summary_en": "Miscreants set fire to a tin-shed house belonging to former minister AKM Mozammel Haque in Gazipur's Jorpukur area.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "economy_business",
-          "society_education"
+          "governance_law",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-17T15:45:00+00:00",
-        "lead_bn": "হরমুজ প্রণালীতে পানামার পতাকাবাহী একটি এলপিজি ট্যাংকারে হামলায় একজন ভারতীয় নাবিক নিখোঁজ এবং দুজন আহত হয়েছেন।",
-        "lead_en": "An Indian seafarer is missing and two others were injured after an LPG tanker was attacked in the Strait of Hormuz.",
+        "published_at": "2026-11-17T16:20:00+00:00",
+        "lead_bn": "গাজীপুরের জোড়পুকুর এলাকায় সাবেক মন্ত্রী আ ক ম মোজাম্মেল হকের একটি টিনশেড বাড়িতে আগুন দিয়েছে দুর্বৃত্তরা।",
+        "lead_en": "Miscreants set fire to a tin-shed house belonging to former minister AKM Mozammel Haque in Gazipur's Jorpukur area.",
         "bullets_bn": [
-          "ট্যাংকারটিতে থাকা ২৪ জন ভারতীয় নাগরিকের মধ্যে ২১ জনকে খাসাবে নিরাপদে নামিয়ে আনা হয়েছে।",
-          "আহত দুই ভারতীয় নাবিককে হাসপাতালে ভর্তি করা হয়েছে এবং নিখোঁজ নাবিককে উদ্ধারে অভিযান চলছে।",
-          "অমানের ভারতীয় দূতাবাস ওমানি কর্তৃপক্ষের সঙ্গে মিলে অনুসন্ধান ও উদ্ধার অভিযান নিবিড়ভাবে পর্যবেক্ষণ করছে।"
+          "ফায়ার সার্ভিসের দুটি ইউনিট প্রায় এক ঘণ্টার চেষ্টায় আগুন নিয়ন্ত্রণে আনে।",
+          "ঘটনায় কোনো হতাহতের খবর পাওয়া যায়নি বলে জানিয়েছেন সদর থানার ভারপ্রাপ্ত কর্মকর্তা আমিনুল ইসলাম।",
+          "পুলিশ ও ফায়ার সার্ভিস জানিয়েছে, আগুন লাগার কারণ বা এটি নাশকতা কি না সে বিষয়ে কোনো আনুষ্ঠানিক বক্তব্য পাওয়া যায়নি।"
         ],
         "bullets_en": [
-          "Twenty-one of the 24 Indian nationals aboard the tanker were safely evacuated ashore at Khasab.",
-          "Two injured Indian crew members were admitted to hospital while search operations continue for the missing person.",
-          "The Indian embassy in Oman is closely monitoring the search and rescue operations with Omani authorities."
+          "Two units of the fire service brought the blaze under control after nearly an hour.",
+          "Sadar Police Station Officer-in-Charge Aminul Islam said no casualties were reported in the incident.",
+          "Neither police nor the fire service had issued an official statement on the cause of the fire or sabotage."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ভারতের পররাষ্ট্র মন্ত্রণালয় জানায়, ১৬ নভেম্বর পানামার পতাকাবাহী এলপিজি ট্যাংকার এমটি তারা গ্যাস এই হামলার শিকার হয়। মন্ত্রণালয় এই হামলার নিন্দা জানিয়ে আন্তর্জাতিক জলসীমায় অবাধ চলাচল পুনরুদ্ধারের আহ্বান জানিয়েছে। হরমুজ প্রণালী পারস্য উপসাগরকে ওমান উপসাগর ও আরব সাগরের সঙ্গে যুক্ত করেছে। মার্কিন যুক্তরাষ্ট্র, ইসরায়েল ও ইরানের মধ্যে যুদ্ধ শুরু হওয়ার পর থেকে হরমুজ প্রণালী স্বাভাবিক বাণিজ্যিক নৌ চলাচলের জন্য কার্যত বন্ধ রয়েছে।",
-        "details_en": "According to the Indian Ministry of External Affairs, the Panama-flagged LPG tanker MT Tara Gas came under attack on 16 November. The ministry condemned the attack and called for the restoration of free navigation in international waterways. The Strait of Hormuz connects the Persian Gulf with the Gulf of Oman and the Arabian Sea, and has been effectively closed to normal commercial shipping since 28 February 2026, following the outbreak of war involving the United States, Israel and Iran.",
-        "hook_bn": "হরমুজ প্রণালীতে এলপিজি ট্যাংকারে হামলায় এক ভারতীয় নাবিক নিখোঁজ।",
+        "details_bn": "স্থানীয় ও পুলিশ সূত্র জানায়, আবাসিক জোড়পুকুর এলাকায় সাবেক মন্ত্রীর একটি আটতলা ভবন ও পাশেই এই টিনশেড বাড়িটি রয়েছে। রাত সাড়ে আটটার দিকে স্থানীয়রা আগুন দেখতে পেয়ে ফায়ার সার্ভিস ও পুলিশকে খবর দেন। অজ্ঞাতপরিচয় একদল লোক রাত আটটার দিকে প্রাঙ্গণে ঢুকে তত্ত্বাবধায়ককে চলে যেতে বাধ্য করে এবং বাড়িতে আগুন দিয়ে পালিয়ে যায় বলে অভিযোগ করেছেন কয়েকজন স্থানীয় বাসিন্দা। এ ঘটনায় পুলিশ তদন্ত শুরু করেছে।",
+        "details_en": "According to local and police sources, the former minister owns an eight-storey building and an adjacent tin-shed house in the residential Jorpukur area. Locals spotted the fire around 8:30pm and alerted authorities. Several locals alleged that unidentified people entered around 8pm, forced the caretaker to leave, and fled after setting fire. Police are investigating the incident.",
+        "hook_bn": "গাজীপুরে সাবেক মন্ত্রীর টিনশেড বাড়ি পুড়িয়ে দিয়েছে দুর্বৃত্তরা",
         "question_bn": null
       },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
+      "desk_importance": 6.0,
+      "outlet_count": 4,
       "trending": false,
-      "social_appeal": 5.0,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-17T16:04:07.868853+00:00"
+        "checked_at": "2026-11-17T17:13:23.236083+00:00"
       }
     },
     {
-      "story_id": "1e915c70-435e-596e-932c-0de4cfeab02b",
+      "story_id": "4ca066dd-bb87-597a-ad94-0aa5be5ad06e",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -390,64 +254,123 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-17%2F6ojsh8m5%2Fframesense-01-11.jpg?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://images.unsplash.com/photo-1723037970740-def39d9b5ed8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8a2lzaG9yZWdhbmolMjBlbGVjdGlvbiUyMGhlbGQlMjB3aXRoaW4lMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTQ5MzU1OTR8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-17T15:08:48+00:00",
+      "published_at": "2026-11-17T15:56:35+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 4.9969,
+      "importance_score": 6.5,
+      "rank_score": 3.9409,
       "sources": [
         {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/lyzsl0byq4",
-          "title": "রামিসা হত্যার দ্রুত বিচার নিশ্চিত করেছি, এবার সিনহা, আবরার হত্যা মামলা: আইনমন্ত্রী",
-          "snippet": "রামিসা হত্যার দ্রুত বিচার নিশ্চিত করেছি, এবার সিনহা, আবরার হত্যা মামলা: আইনমন্ত্রী"
-        },
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/post-1222049/",
-          "title": "বিচারের ইতিহাসে স্বল্পতম সময়ে মামলার রায় ও আপিল নিষ্পত্তি: আইনমন্ত্রী",
-          "snippet": "বিচারের ইতিহাসে স্বল্পতম সময়ে মামলার রায় ও আপিল নিষ্পত্তি: আইনমন্ত্রী"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821575/%E0%A7%AF%E0%A7%A6-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%95%E0%A6%BF%E0%A6%B6%E0%A7%8B%E0%A6%B0%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C-%E0%A7%A9-%E0%A6%86%E0%A6%B8%E0%A6%A8%E0%A7%87-%E0%A6%89%E0%A6%AA%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%87%E0%A6%B8%E0%A6%BF",
+          "title": "৯০ দিনের মধ্যে কিশোরগঞ্জ-৩ আসনে উপনির্বাচন: ইসি মাছউদ",
+          "snippet": "৯০ দিনের মধ্যে কিশোরগঞ্জ-৩ আসনে উপনির্বাচন: ইসি মাছউদ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রামিসা হত্যার দ্রুত বিচার শেষ হয়েছে বলে জানান আইনমন্ত্রী",
-        "title_en": "Law Minister says speedy trial of Ramisa murder is completed",
-        "summary_bn": "আইনমন্ত্রী মো. আসাদুজ্জামান জানিয়েছেন, শিশু রামিসা হত্যা মামলায় সর্বনিম্ন সময়ে বিচারকাজ ও আপিল নিষ্পত্তি করা হয়েছে।",
-        "summary_en": "Law Minister Md. Asaduzzaman stated that trial and appeal settlement in the child Ramisa murder case were completed in the lowest time.",
+        "title_bn": "কিশোরগঞ্জ-৩ আসনে ৯০ দিনের মধ্যে উপনির্বাচন হবে",
+        "title_en": "Kishoreganj-3 by-election to be held within ninety days",
+        "summary_bn": "কিশোরগঞ্জ-৩ আসন শূন্য ঘোষণার পর আগামী ৯০ দিনের মধ্যে সেখানে উপনির্বাচন আয়োজনের কথা জানিয়েছে নির্বাচন কমিশন।",
+        "summary_en": "The Election Commission announced that a by-election will be held in the Kishoreganj-3 seat within ninety days after it is declared vacant.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-17T15:08:48+00:00",
-        "lead_bn": "আইনমন্ত্রী মো. আসাদুজ্জামান জানিয়েছেন, শিশু রামিসা হত্যা মামলায় সর্বনিম্ন সময়ে বিচারকাজ ও আপিল নিষ্পত্তি করা হয়েছে।",
-        "lead_en": "Law Minister Md. Asaduzzaman stated that trial and appeal settlement in the child Ramisa murder case were completed in the lowest time.",
+        "published_at": "2026-11-17T15:56:35+00:00",
+        "lead_bn": "কিশোরগঞ্জ-৩ আসন শূন্য ঘোষণার পর আগামী ৯০ দিনের মধ্যে সেখানে উপনির্বাচন আয়োজনের কথা জানিয়েছে নির্বাচন কমিশন।",
+        "lead_en": "The Election Commission announced that a by-election will be held in the Kishoreganj-3 seat within ninety days after it is declared vacant.",
         "bullets_bn": [
-          "পুলিশ ঘটনার চার দিনের মাথায় অভিযোগপত্র দেয় এবং ১৭ জুন আসামি সোহেল রানাকে মৃত্যুদণ্ড দেওয়া হয়।",
-          "আইনমন্ত্রী জানান, আগামী সপ্তাহ থেকে মেজর সিনহা হত্যা, বিশ্বজিৎ হত্যা ও শহীদ আবরার ফাহাদ হত্যা মামলার শুনানি আপিল বিভাগে শুরু হবে।",
-          "হাদি হত্যাকাণ্ডের তদন্ত ও বিচারপ্রক্রিয়া সর্বোচ্চ গুরুত্ব দিয়ে এগিয়ে নেওয়া হচ্ছে বলে জানান মন্ত্রী।"
+          "সংবিধানের বিধান অনুসরণ করেই এই ভোটের আয়োজন করা হবে বলে জানিয়েছেন নির্বাচন কমিশনার আব্দুর রহমানেল মাছউদ।",
+          "নির্বাচন কমিশনার আব্দুর রহমানেল মাছউদ ১৭ নভেম্বর বিকেলে এই কথা জানিয়েছেন।",
+          "উপনির্বাচনের বিষয়ে কমিশন এখনো আনুষ্ঠানিকভাবে কোনো তফসিল তৈরি করেনি।"
         ],
         "bullets_en": [
-          "Police submitted the charge sheet four days after the incident, and accused Sohel Rana was given the death penalty on ১৭ June.",
-          "The Law Minister stated that hearings for the Major Sinha murder, Biswajit murder, and martyr Abrar Fahad murder cases will begin in the Appellate Division next week.",
-          "The minister stated that the investigation and trial process of the Hadi murder are being advanced with utmost importance."
+          "Election Commissioner Abdur Rahmanel Masud stated that the voting will be arranged following the provisions of the constitution.",
+          "Election Commissioner Abdur Rahmanel Masud stated this on the afternoon of November 17.",
+          "The commission has not yet officially formulated any schedule regarding the by-election."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "জাতীয় সংসদের ৩০০ বিধিতে দেওয়া এক বিবৃতিতে আইনমন্ত্রী জানান, গত মে মাসে আট বছর বয়সী শিশু রামিসা নিহত হয় এবং ঘটনার পর পুলিশ আসামি সোহেল ও তাঁর স্ত্রীকে ১৯ মে গ্রেপ্তার করে। প্রধানমন্ত্রী, স্বরাষ্ট্রমন্ত্রী ও আইনমন্ত্রী রামিসার বাসায় গিয়ে ন্যায়বিচার নিশ্চিতের আশ্বাস দিয়েছিলেন।",
-        "details_en": "In a statement under rule ৩০০ in the Jatiya Sangsad, the Law Minister stated that eight-year-old child Ramisa was killed in May, and police arrested accused Sohel and his wife on ১৯ May after the incident. The Prime Minister, Home Minister, and Law Minister visited Ramisa's home and assured ensuring justice.",
-        "hook_bn": "শিশু রামিসা হত্যা মামলার বিচার সর্বনিম্ন সময়ে সম্পন্ন হয়েছে।",
-        "question_bn": null
+        "details_bn": "কিশোরগঞ্জ-৩ আসনটি করিমগঞ্জ ও তাড়াইল এলাকা নিয়ে গঠিত। আসনটি শূন্য ঘোষণার পর উপনির্বাচনের বিষয়ে আগামীকাল কমিশনের বৈঠকে আলোচনা হবে।",
+        "details_en": "The Kishoreganj-3 seat consists of Karimganj and Tarail areas. The commission will discuss the by-election in tomorrow's meeting after the seat is declared vacant.",
+        "hook_bn": "কিশোরগঞ্জ-৩ আসনে ৯০ দিনের মধ্যে উপনির্বাচন অনুষ্ঠিত হবে।",
+        "question_bn": "কিশোরগঞ্জ-৩ আসনের উপনির্বাচন নিয়ে আপনার এলাকার মানুষের প্রস্তুতি কেমন?"
       },
-      "desk_importance": 7.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 7.0,
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-17T16:04:07.868853+00:00"
+        "checked_at": "2026-11-17T17:13:23.236083+00:00"
+      }
+    },
+    {
+      "story_id": "056bda89-1afc-5a96-ab7a-b2362ff72037",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/coctail-20261117224114.JPG?cid=498752",
+      "image_caption": null,
+      "published_at": "2026-11-17T16:41:14+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5054,
+      "sources": [
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/national/498752",
+          "title": "মোহাম্মদপুরে পুলিশের ডিসি অফিসসহ ৫ স্থানে ককটেল হামলা, আটক ১",
+          "snippet": "মোহাম্মদপুরে পুলিশের ডিসি অফিসসহ ৫ স্থানে ককটেল হামলা, আটক ১"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রাজধানীর মোহাম্মদপুরে পাঁচটি স্থানে ককটেল হামলা ও বিস্ফোরণ",
+        "title_en": "Cocktail attacks and explosions occur at five places in Mohammadpur, capital.",
+        "summary_bn": "রাজধানীর মোহাম্মদপুরে তেজগাঁও বিভাগের উপপুলিশ কমিশনারের কার্যালয়সহ পাঁচটি স্থানে ককটেল নিক্ষেপ ও বিস্ফোরণের ঘটনা ঘটেছে।",
+        "summary_en": "Cocktail throwing and explosions occurred at five places, including the Tejgaon division deputy police commissioner office, in Mohammadpur, capital.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T16:41:14+00:00",
+        "lead_bn": "রাজধানীর মোহাম্মদপুরে তেজগাঁও বিভাগের উপপুলিশ কমিশনারের কার্যালয়সহ পাঁচটি স্থানে ককটেল নিক্ষেপ ও বিস্ফোরণের ঘটনা ঘটেছে।",
+        "lead_en": "Cocktail throwing and explosions occurred at five places, including the Tejgaon division deputy police commissioner office, in Mohammadpur, capital.",
+        "bullets_bn": [
+          "কৃষি মার্কেট, আসাদগেট এবং তেজগাঁও বিভাগের উপপুলিশ কমিশনার কার্যালয় এলাকায় ককটেল নিক্ষেপ ও বিস্ফোরণ ঘটায় দুর্বৃত্তরা।",
+          "বছিলা র‍্যাব-২ কার্যালয় ও রেসিডেনসিয়াল মডেল কলেজের পাশেও ককটেল বিস্ফোরণের ঘটনা ঘটে।",
+          "শ্যামলী এলাকা থেকে বিএনপি ও অঙ্গসংগঠনের নেতাকর্মীরা একজনকে আটক করে পুলিশে সোপর্দ করেছেন।"
+        ],
+        "bullets_en": [
+          "Miscreants threw and exploded cocktails in Krishi Market, Asadgate, and Tejgaon division deputy police commissioner office areas.",
+          "Cocktail explosions also occurred near Basila RAB-2 office and Residential Model College.",
+          "Leaders and activists of BNP and associate bodies detained one person from Shyamli area and handed him over to police."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "১৭ নভেম্বর রাত ৮টা ৪০ মিনিটে কৃষি মার্কেট, রাত ৯টা ৪০ মিনিটে আসাদগেট এবং রাত পৌনে ১০টার দিকে তেজগাঁও বিভাগের উপপুলিশ কমিশনার কার্যালয় এলাকায় এ ঘটনা ঘটায় দুর্বৃত্তরা। তেজগাঁও বিভাগের উপপুলিশ কমিশনার কার্যালয়ের সামনে দুর্বৃত্তরা ককটেল নিক্ষেপ করলেও সেটি বিস্ফোরিত হয়নি। পরে পুলিশের বোম্ব ডিসপোজাল ইউনিট ঘটনাস্থলে এসে অবিস্ফোরিত ককটেলটি নিষ্ক্রিয় করে। তেজগাঁও বিভাগের অতিরিক্ত উপপুলিশ কমিশনার মো. জুয়েল রানা বিষয়টি নিশ্চিত করেছেন।",
+        "details_en": "Miscreants carried out the incident November 17, at 8:40 pm at Krishi Market, 9:40 pm at Asadgate, and around 9:45 pm near the Tejgaon division deputy police commissioner office area. Although miscreants threw a cocktail in front of the Tejgaon division deputy police commissioner office, it did not explode. Later, the police bomb disposal unit came to the spot and defused the unexploded cocktail. Tejgaon division additional deputy police commissioner Md. Jewel Rana confirmed the matter.",
+        "hook_bn": "মোহাম্মদপুরে ডিসি অফিসসহ পাঁচ স্থানে ককটেল হামলা",
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T17:13:23.236083+00:00"
       }
     }
   ]
