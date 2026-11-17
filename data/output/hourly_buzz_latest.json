@@ -1,109 +1,230 @@
 {
-  "updated_at": "2026-11-17T20:00:46.640572",
-  "total_stories": 6,
+  "updated_at": "2026-11-17T21:00:43.608672",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "059ac6ab-5866-515b-9892-0aaf89a99142",
-      "primary_category": "economy_business",
+      "story_id": "a8803636-9cce-56ca-b5bd-4d523e17c8b5",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "economy_business",
-        "world_diplomacy",
         "governance_law",
-        "climate_environment"
+        "economy_business",
+        "society_education"
       ],
       "region": "national",
       "tags": [
-        "#BangladeshEconomy",
-        "#Inflation",
-        "#FiscalPolicy",
-        "#BangladeshBank"
+        "#TariqueRahman",
+        "#Nawabganj",
+        "#JatiyaSangsadBhaban"
       ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/Sadiq-Ahmed.jpg",
+      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_0b496f3b7d9fc53f1dde8cc32961c4f0.jpg",
       "image_caption": null,
-      "published_at": "2026-11-17T18:00:00+00:00",
+      "published_at": "2026-11-17T21:01:00.984948+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.1702,
+      "importance_score": 4.8,
+      "rank_score": 2.3028,
       "sources": [
         {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/economy/news/fiscal-policy-inconsistent-inflation-control-4326571",
-          "title": "Fiscal policy is inconsistent with inflation control",
-          "snippet": "Fiscal policy is inconsistent with inflation control"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/tarique-urges-students-to-be-responsible-towards-society-country",
+          "title": "Tarique urges students to be responsible towards society, country",
+          "snippet": "Tarique urges students to be responsible towards society, country"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মূল্যস্ফীতি নিয়ন্ত্রণে সরকারের রাজস্ব নীতি অসামঞ্জস্যপূর্ণ",
-        "title_en": "Bangladesh fiscal policy is inconsistent with inflation control efforts",
-        "summary_bn": "বাজেট ঘাটতি মেটাতে সরকারের ক্রমবর্ধমান ব্যাংক ঋণ মূল্যস্ফীতি নিয়ন্ত্রণের পথে বাধা হয়ে দাঁড়িয়েছে বলে দ্য ডেইলি স্টার বিজনেস জানিয়েছে।",
-        "summary_en": "Rising public sector borrowing to finance the fiscal deficit is undermining efforts to control inflation despite Bangladesh Bank attempts to manage money growth.",
+        "title_bn": "শিক্ষার্থীদের সমাজ ও দেশের প্রতি দায়িত্বশীল হওয়ার আহ্বান প্রধানমন্ত্রীর",
+        "title_en": "Prime Minister Tarique urges students to be responsible towards society and country",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান শিক্ষার্থীদের শুধু পড়াশোনায় সীমাবদ্ধ না থেকে খেলাধুলা ও সংস্কৃতিতে অংশ নিয়ে দায়িত্বশীল নাগরিক হওয়ার আহ্বান জানিয়েছেন।",
+        "summary_en": "Prime Minister Tarique Rahman urged students not to confine themselves to academic studies but to become responsible citizens.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "world_diplomacy",
           "governance_law",
-          "climate_environment"
+          "economy_business",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-17T18:00:00+00:00",
-        "lead_bn": "বাজেট ঘাটতি মেটাতে সরকারের ক্রমবর্ধমান ব্যাংক ঋণ মূল্যস্ফীতি নিয়ন্ত্রণের পথে বাধা হয়ে দাঁড়িয়েছে বলে দ্য ডেইলি স্টার বিজনেস জানিয়েছে।",
-        "lead_en": "Rising public sector borrowing to finance the fiscal deficit is undermining efforts to control inflation despite Bangladesh Bank attempts to manage money growth.",
+        "published_at": "2026-11-17T21:01:00.984948+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান শিক্ষার্থীদের শুধু পড়াশোনায় সীমাবদ্ধ না থেকে খেলাধুলা ও সংস্কৃতিতে অংশ নিয়ে দায়িত্বশীল নাগরিক হওয়ার আহ্বান জানিয়েছেন।",
+        "lead_en": "Prime Minister Tarique Rahman urged students not to confine themselves to academic studies but to become responsible citizens.",
         "bullets_bn": [
-          "ট্রেজারি ব্যাংক ঋণের প্রবৃদ্ধি ২০২৪ অর্থবছরের ৯.৬ শতাংশ থেকে বেড়ে ২০২৬ অর্থবছরে ৩০.৪ শতাংশ হয়েছে।",
-          "২০২৬ অর্থবছরে বেসরকারি খাতের ঋণের প্রবৃদ্ধি কমে ৪.৫ শতাংশ হয়েছে এবং ২০২৭ অর্থবছরে জিডিপি প্রবৃদ্ধি ৩.২ শতাংশে নামার পূর্বাভাস রয়েছে।",
-          "নীতি কাঠামো প্রায়ই দীর্ঘমেয়াদী অর্থনৈতিক লক্ষ্যের পরিবর্তে তাৎক্ষণিক রাজনৈতিক সুবিধার কথা বিবেচনা করে পরিচালিত হচ্ছে।"
+          "ঢাকার নবাবগঞ্জের তিনটি স্কুলের জিপিএ-৫ প্রাপ্ত ৫০ জন শিক্ষার্থী জাতীয় সংসদ ভবনে প্রধানমন্ত্রীর সঙ্গে সাক্ষাৎ করেন।",
+          "প্রধানমন্ত্রী বলেন, শিক্ষার্থীরা ভবিষ্যতে চিকিৎসক, প্রকৌশলী, আইনজীবী, বিজ্ঞানী বা শিক্ষক হিসেবে বিভিন্ন পেশায় যোগ দেবেন।",
+          "সবার নিজ নিজ অবস্থান থেকে সমাজ ও পরিবেশের কল্যাণে অবদান রাখা উচিত বলে উল্লেখ করেন তিনি।"
         ],
         "bullets_en": [
-          "Treasury bank borrowing growth rose from 9.6 percent in FY2024 to 30.4 percent in FY2026, adding to aggregate demand pressure.",
-          "Private sector credit growth fell to 4.5 percent in FY2026, while GDP growth is projected to decline to 3.2 percent in FY2027.",
-          "The policy framework is often ad hoc and guided by immediate political convenience rather than long-term economic objectives and targets."
+          "Fifty students who achieved GPA-5 from three schools in Nawabganj of Dhaka met the Prime Minister at the Jatiya Sangsad Bhaban.",
+          "The Prime Minister said students would join different professions like doctors, engineers, lawyers, scientists or teachers after completing their studies.",
+          "He stated that everyone could contribute to the welfare of society by making sincere efforts from their respective positions."
         ],
-        "impact_bn": "জীবনযাত্রার ব্যয় এবং জ্বালানি তেলের মূল্য বৃদ্ধি প্রশাসনের দাম কমানোর প্রতিশ্রুতি সম্পর্কে জনমনে অসন্তোষ তৈরি করেছে।",
-        "impact_en": "Rising living costs and gasoline prices have soured the public mood and perception of the administration's commitment to lowering prices.",
-        "details_bn": "বিএনপি সরকার যুক্তরাষ্ট্র-ইরান যুদ্ধ এবং বিশ্ববাজারে জ্বালানির দাম বৃদ্ধির ফলে একটি কঠিন অর্থনীতি উত্তরাধিকার সূত্রে পেয়েছে। সরকার মূল্যস্ফীতি কমানোর চেষ্টা করলেও নয় মাস পর ফলাফল আশাব্যঞ্জক নয়। পর্যাপ্ত কর রাজস্ব ও বৈদেশিক অর্থায়নের অভাবে ব্যাংক ঋণের ওপর অতিমাত্রায় নির্ভরতা তৈরি হয়েছে। বিশ্বব্যাংক ও আইএমএফ পূর্বাভাস দিয়েছে যে অভ্যন্তরীণ অর্থনৈতিক মন্দার কারণে জিডিপি প্রবৃদ্ধি আরও হ্রাস পাবে।",
-        "details_en": "The BNP government inherited a difficult economy aggravated by the US-Iran war and global energy price surges. While the government seeks to lower inflation, results after nine months are not reassuring. Key issues include inadequate tax revenue and foreign funding, leading to excessive reliance on bank borrowings. The World Bank and IMF project further declines in GDP growth as domestic economic activity faces a serious downturn.",
-        "hook_bn": "বাজেট ঘাটতি মেটাতে সরকারের ব্যাংক ঋণ ৩০ শতাংশ ছাড়িয়েছে",
-        "question_bn": "ক্রমবর্ধমান জীবনযাত্রার ব্যয় আপনার দৈনন্দিন জীবনে কী ধরনের প্রভাব ফেলছে?"
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ঢাকার নবাবগঞ্জের কালকোপা হাই স্কুল, বান্দুরা হলি ক্রস হাই স্কুল অ্যান্ড কলেজ এবং সেন্ট ইউফ্রাসিজ গার্লস হাই স্কুল অ্যান্ড কলেজের জিপিএ-৫ প্রাপ্ত ৫০ জন শিক্ষার্থী প্রধানমন্ত্রীর সঙ্গে সাক্ষাৎ করেন। ডেপুটি প্রেস সেক্রেটারি হাসান শিপলু এই তথ্য জানান।",
+        "details_en": "Fifty students who achieved GPA-5 from Kalakopa High School, Bandura Holy Cross High School and College, and St Euphrasia’s Girls’ High School and College met the Prime Minister, according to Deputy Press Secretary Hasan Shiplu.",
+        "hook_bn": "নবাবগঞ্জের ৫০ জন জিপিএ-৫ প্রাপ্ত শিক্ষার্থী দেখা করেছেন প্রধানমন্ত্রীর সাথে।",
+        "question_bn": "শিক্ষার্থীদের পড়াশোনার পাশাপাশি সমাজ ও পরিবেশের দায়িত্ব নেওয়া কতটা গুরুত্বপূর্ণ বলে আপনি মনে করেন?"
       },
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-17T20:13:36.536672+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-17T21:02:52.754908+00:00"
       }
     },
     {
-      "story_id": "75f31ffb-bca3-5cef-8b80-b21b53fc6957",
+      "story_id": "d1bc5f2d-5299-51ea-ac80-a5cfec7cbbce",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/detention-20261118025446.jpg?cid=498774",
+      "image_caption": null,
+      "published_at": "2026-11-17T20:54:47+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 2.289,
+      "sources": [
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/country/498774",
+          "title": "নাটোরে গুলিবর্ষণ ও ককটেল বিস্ফোরণের ঘটনায় গ্রেপ্তার ২",
+          "snippet": "নাটোরে গুলিবর্ষণ ও ককটেল বিস্ফোরণের ঘটনায় গ্রেপ্তার ২"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নাটোরে গুলিবর্ষণ ও ককটেল বিস্ফোরণের মামলায় দুই আসামি গ্রেপ্তার",
+        "title_en": "Two accused arrested in Natore shooting and cocktail blast case",
+        "summary_bn": "নাটোরের দত্তপাড়া বাজারে গুলিবর্ষণ ও ককটেল বিস্ফোরণের ঘটনায় দায়ের করা মামলায় এজাহারনামীয় দুই আসামিকে গ্রেপ্তার করেছে পুলিশ।",
+        "summary_en": "Police have arrested two accused named in the case filed over shooting and cocktail explosions in Natore's Duttapara Bazar.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T20:54:47+00:00",
+        "lead_bn": "নাটোরের দত্তপাড়া বাজারে গুলিবর্ষণ ও ককটেল বিস্ফোরণের ঘটনায় দায়ের করা মামলায় এজাহারনামীয় দুই আসামিকে গ্রেপ্তার করেছে পুলিশ।",
+        "lead_en": "Police have arrested two accused named in the case filed over shooting and cocktail explosions in Natore's Duttapara Bazar.",
+        "bullets_bn": [
+          "জেলা গোয়েন্দা পুলিশ ১৮ নভেম্বর দিবাগত রাতে গোয়ালডাঙ্গা এলাকা থেকে ওমর ফারুক ভূঁইয়াকে গ্রেপ্তার করে।",
+          "পুলিশ জানায়, ওমর ফারুক হরিশপুর ইউনিয়নের ১ নম্বর ওয়ার্ড আওয়ামী লীগের সহ-সভাপতি এবং মামলার ১০ নম্বর আসামি।",
+          "১৭ নভেম্বর দিবাগত রাতে সদর থানা পুলিশ কাঁঠালবাড়িয়া এলাকা থেকে মো. হানিফ ভূঁইয়া নামে অপর আসামিকে গ্রেপ্তার করে।"
+        ],
+        "bullets_en": [
+          "District Detective Branch police arrested Omar Faruk Bhuiyan from the Goaldanga area on the night of November 18.",
+          "Police stated that Omar Faruk is the vice-president of Harishpur union's ward 1 Awami League and accused number 10 in the case.",
+          "On the night of November 17, Sadar police station police arrested another accused named Md. Hanif Bhuiyan from the Kathalbaria area."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "১৬ নভেম্বর রাত সাড়ে ১০টার দিকে নাটোর সদর উপজেলার দত্তপাড়া বাজারে ঢাকার দিক থেকে আসা কয়েকটি গাড়ি থেকে নেমে মুখোশধারীরা জয় বাংলা ও জয় বঙ্গবন্ধু স্লোগান দিয়ে ঝটিকা মিছিল করেন। এ সময় ফাঁকা গুলি ও ককটেল বিস্ফোরণের ঘটনা ঘটে। এই ঘটনায় নাটোর সদর থানায় সন্ত্রাসবিরোধী আইনে মামলা দায়ের করা হয়।",
+        "details_en": "On November 16 at around 10:30 pm, masked individuals getting off vehicles coming from Dhaka direction at Duttapara Bazar in Natore Sadar upazila brought out a flash procession chanting Joy Bangla and Joy Bogabandhu slogans. Blank shots and cocktail explosions occurred at that time. A case was filed under the Anti-Terrorism Act at Natore Sadar police station over this incident.",
+        "hook_bn": "নাটোরে গুলিবর্ষণ ও ককটেল বিস্ফোরণের মামলায় দুই আসামি গ্রেপ্তার",
+        "question_bn": null
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T21:02:52.754908+00:00"
+      }
+    },
+    {
+      "story_id": "5233a0a3-e1b6-5d91-81cc-d8fa82e29348",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness",
+        "world_diplomacy",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-17%2Fxket7mjv%2FWhatsApp-Image-2026-11-17-at-11.29.32-PM.jpeg?rect=0%2C0%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-17T18:24:22+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.9804,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/sports/football/ysshm2nx5j",
+          "title": "‘১৫-২০ জন প্রবাসী এনে জাতীয় দল গড়া একমাত্র সমাধান নয়’",
+          "snippet": "‘১৫-২০ জন প্রবাসী এনে জাতীয় দল গড়া একমাত্র সমাধান নয়’"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জাতীয় দল গড়তে প্রবাসী খেলোয়াড় আনা একমাত্র সমাধান নয়",
+        "title_en": "Importing expatriate players is not the only solution for national teams",
+        "summary_bn": "পাকিস্তান কোচ নলবার্তো সোলানো বলেছেন, ১৫ থেকে ২০ জন প্রবাসী ফুটবলার এনে জাতীয় দল গড়াই একমাত্র সমাধান হতে পারে না।",
+        "summary_en": "Pakistan coach Nolberto Solano said that bringing in 15 to 20 expatriate footballers cannot be the only solution to build a national team.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness",
+          "world_diplomacy",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T18:24:22+00:00",
+        "lead_bn": "পাকিস্তান কোচ নলবার্তো সোলানো বলেছেন, ১৫ থেকে ২০ জন প্রবাসী ফুটবলার এনে জাতীয় দল গড়াই একমাত্র সমাধান হতে পারে না।",
+        "lead_en": "Pakistan coach Nolberto Solano said that bringing in 15 to 20 expatriate footballers cannot be the only solution to build a national team.",
+        "bullets_bn": [
+          "ঢাকার জাতীয় স্টেডিয়ামে ফাইনালে পাকিস্তানকে ২-১ গোলে হারিয়ে দশমবারের মতো সাফ চ্যাম্পিয়ন হয়েছে ভারত।",
+          "ভারতের কোচ নওশাদ মুসা বলেন, প্রবাসী ফুটবলারদের পাশাপাশি স্থানীয় তরুণদের ওপরও আস্থা রাখতে হবে।",
+          "পাকিস্তানের ফুটবলের উন্নয়নে পেশাদার লিগ চালুর ওপর জোর দিয়েছেন সোলানো।"
+        ],
+        "bullets_en": [
+          "India became SAFF champions for the tenth time by defeating Pakistan 2-1 in the final at the National Stadium in Dhaka.",
+          "India coach Naushad Musa said that besides expatriate players, trust must also be placed in local youths.",
+          "Solano emphasized launching a professional league for the development of Pakistan football."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "সাফ চ্যাম্পিয়নশিপের ফাইনাল শেষে ভারতের কোচ নওশাদ মুসা ও পাকিস্তানের কোচ নলবার্তো সোলানো দুই দেশের ফুটবলের উন্নয়ন, তরুণ খেলোয়াড়দের সামর্থ্য এবং প্রবাসী ফুটবলারদের ভূমিকা নিয়ে কথা বলেছেন। অনূর্ধ্ব-২৩ দলের খেলোয়াড়দের নিয়েই শিরোপা জিতেছে ভারত। দীর্ঘদিন পর ফাইনালে উঠেও প্রথমবারের মতো শিরোপা জয়ের সুযোগ কাজে লাগাতে পারেনি পাকিস্তান। সোলানো আশা করছেন আগামী বছর তাঁর দেশে প্রথমবারের মতো পেশাদার লিগ চালুর পরিকল্পনা বাস্তবায়িত হবে এবং ভারতের ঘরোয়া ফুটবলের অগ্রগতির কথাও তিনি স্বীকার করেছেন।",
+        "details_en": "After the SAFF Championship final, India coach Naushad Musa and Pakistan coach Nolberto Solano spoke about football development, the capacity of young players, and the role of expatriate players. India won the title with under-23 players. Pakistan failed to seize the opportunity to win their first title after reaching the final following a long time. Solano hopes the plan to launch a professional league for the first time in his country will be implemented next year and acknowledged the progress of Indian domestic football.",
+        "hook_bn": "পাকিস্তানকে ২-১ গোলে হারিয়ে দশমবারের মতো সাফ চ্যাম্পিয়ন হয়েছে ভারত",
+        "question_bn": "দক্ষিণ এশীয় ফুটবলের উন্নয়নে প্রবাসী ফুটবলারদের পাশাপাশি স্থানীয় খেলোয়াড়দের সুযোগ দেওয়া নিয়ে আপনার মতামত কী?"
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T21:02:52.754908+00:00"
+      }
+    },
+    {
+      "story_id": "e9b62c4e-7b87-5b33-a75b-2777cd53e1fe",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business",
         "world_diplomacy"
       ],
-      "region": "national",
+      "region": "international",
       "tags": [
-        "#IMF",
-        "#WorldBank",
-        "#BangladeshDebt",
-        "#Economy"
+        "#SummitTherapeutics",
+        "#FDA"
       ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/IMF.jpg",
+      "image_url": "https://images.unsplash.com/photo-1722871513349-45c61ed6aa5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZmluYW5jZSUyMGVjb25vbXklMjBiYW5nbGFkZXNofGVufDF8MHx8fDE3OTQ5NDkzNjB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-17T18:00:00+00:00",
+      "published_at": "2026-11-17T20:58:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.1702,
+      "importance_score": 3.4,
+      "rank_score": 1.1521,
       "sources": [
         {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/economy/news/new-imf-debt-test-puts-spotlight-bangladeshs-interest-bill-4326576",
-          "title": "New IMF debt test puts spotlight on Bangladesh’s interest bill",
-          "snippet": "New IMF debt test puts spotlight on Bangladesh’s interest bill"
+          "name": "MarketWatch Economy",
+          "url": "https://www.marketwatch.com/story/summit-therapeutics-stock-tumbles-again-as-fda-recommends-new-trial-for-lung-cancer-drug-dcb8ff55?mod=mw_rss_topstories",
+          "title": "Summit Therapeutics’ stock tumbles again as FDA recommends new trial for lung-cancer drug",
+          "snippet": "Summit Therapeutics’ stock tumbles again as FDA recommends new trial for lung-cancer drug"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আইএমএফ ও বিশ্বব্যাংক বাংলাদেশের জন্য নতুন ঋণ পরীক্ষা চালু করবে",
-        "title_en": "IMF and World Bank to launch new debt tests for Bangladesh",
-        "summary_bn": "আন্তর্জাতিক মুদ্রা তহবিল এবং বিশ্বব্যাংক মধ্য-২০২৭ সাল থেকে বাংলাদেশের জন্য নতুন দুটি ব্যবস্থা ব্যবহার করে ঋণঝুঁকি মূল্যায়ন করবে।",
-        "summary_en": "From mid-2027, the International Monetary Fund and World Bank will use two new measures to assess Bangladesh's debt risks.",
+        "title_bn": "ফুসফুসের ক্যানসারের ওষুধের নতুন পরীক্ষার সুপারিশের পর সামিট থেরাপিউটিকসের শেয়ারের দরপতন।",
+        "title_en": "Summit Therapeutics stock tumbles after FDA recommends new trial for lung-cancer drug.",
+        "summary_bn": "যুক্তরাষ্ট্রের নিয়ন্ত্রক সংস্থার পক্ষ থেকে ফুসফুসের ক্যানসারের ওষুধের জন্য নতুন পরীক্ষার সুপারিশ করার পর সামিট থেরাপিউটিকসের শেয়ারের দাম আবারও কমেছে।",
+        "summary_en": "Summit Therapeutics stock tumbled again as the U.S. regulator recommended a new trial for its lung-cancer drug.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -111,243 +232,70 @@
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-17T18:00:00+00:00",
-        "lead_bn": "আন্তর্জাতিক মুদ্রা তহবিল এবং বিশ্বব্যাংক মধ্য-২০২৭ সাল থেকে বাংলাদেশের জন্য নতুন দুটি ব্যবস্থা ব্যবহার করে ঋণঝুঁকি মূল্যায়ন করবে।",
-        "lead_en": "From mid-2027, the International Monetary Fund and World Bank will use two new measures to assess Bangladesh's debt risks.",
+        "published_at": "2026-11-17T20:58:00+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের নিয়ন্ত্রক সংস্থার পক্ষ থেকে ফুসফুসের ক্যানসারের ওষুধের জন্য নতুন পরীক্ষার সুপারিশ করার পর সামিট থেরাপিউটিকসের শেয়ারের দাম আবারও কমেছে।",
+        "lead_en": "Summit Therapeutics stock tumbled again as the U.S. regulator recommended a new trial for its lung-cancer drug.",
         "bullets_bn": [
-          "বহুপক্ষীয় ঋণদাতারা নিয়মিত ঋণ-জিডিপি অনুপাতের পাশাপাশি রাজস্বের কত অংশ সুদ পরিশোধে খরচ হয় তা দেখবে।",
-          "আইএমএফ কর্মকর্তা কক্সবাজারে এক সম্মেলনে এই পরিবর্তনের কথা জানান যা অর্থ মন্ত্রণালয় ও এডিবি আয়োজন করেছিল।",
-          "এই নতুন নিয়মগুলো সেপ্টেম্বর মাসে আইএমএফ নির্বাহী বোর্ড অনুমোদন করে এবং বিশ্বব্যাংকও তা অনুসরণ করে।"
+          "যুক্তরাষ্ট্রের নিয়ন্ত্রক সংস্থার প্রকাশ করা তথ্য সামিট থেরাপিউটিকস কোম্পানির ে দেওয়া ঘোষণার চেয়ে বেশি বিস্তৃত ছিল।",
+          "মার্কিন নিয়ন্ত্রক সংস্থাটি ফুসফুসের ক্যানসারের ওষুধের জন্য নতুন একটি পরীক্ষার সুপারিশ করেছে।",
+          "ওষুধ প্রস্তুতকারক কোম্পানি সামিট থেরাপিউটিকসের শেয়ারের দাম এই ঘোষণার পর কমে গেছে।"
         ],
         "bullets_en": [
-          "Lenders will look at how much government revenue goes on interest payments alongside the regular debt-to-GDP ratio.",
-          "IMF officials shared the changes at a conference in Cox’s Bazar organised by the finance ministry and ADB.",
-          "The IMF executive board approved the new rules in September, and the World Bank followed shortly afterwards."
+          "The U.S. regulator's disclosure was more extensive than what the biotech company had announced Sunday.",
+          "The U.S. regulator recommended a new trial for a lung-cancer drug.",
+          "The stock price of Summit Therapeutics tumbled again following the disclosure."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "অর্থ মন্ত্রণালয় ও এশীয় উন্নয়ন ব্যাংকের আয়োজনে কক্সবাজারে অনুষ্ঠিত দুই দিনের ঋণ সম্মেলনে আইএমএফের কর্মকর্তারা এই পরিবর্তনগুলো জানান। এতে শ্রীলঙ্কা, পাকিস্তান, ইন্দোনেশিয়া ও মালয়েশিয়ার অর্থ মন্ত্রণালয়ের কর্মকর্তারাও অংশ নেন। এটি ২০১৭ সালের পর এই কাঠামোর প্রথম ওভারহোল।",
-        "details_en": "IMF officials shared the changes at a two-day debt conference in Cox’s Bazar, organised by the finance ministry and ADB. Finance ministry officials from Sri Lanka, Pakistan, Indonesia and Malaysia also attended. It is the first overhaul of the framework since 2017.",
-        "hook_bn": "সুদ পরিশোধে সরকারের খরচ ৩০ শতাংশ ছুঁয়েছে",
-        "question_bn": "নতুন ঋণ মূল্যায়নের মানদণ্ড বাংলাদেশের অর্থনীতিতে কেমন প্রভাব ফেলতে পারে বলে আপনি মনে করেন?"
-      },
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-17T20:13:36.536672+00:00"
-      }
-    },
-    {
-      "story_id": "81ab5c81-b34f-58e1-acd6-749d4f82ace9",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1693585172757-b9e057feb878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFybGlhbWVudCUyMGxhdyUyMGNvdXJ0JTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk0OTQ2Mzk3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-17T19:45:31+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.2459,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/politics/bnp/981616/%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E2%80%98%E0%A6%86%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A6%AC%E2%80%99-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A7%87",
-          "title": "গোপালগঞ্জে আওয়ামী লীগের হামলা-অগ্নিসংযোগের প্রতিবাদে ঢাকায় বিক্ষোভ",
-          "snippet": "গোপালগঞ্জে আওয়ামী লীগের হামলা-অগ্নিসংযোগের প্রতিবাদে ঢাকায় বিক্ষোভ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "গোপালগঞ্জে হামলার প্রতিবাদে ঢাকায় স্বেচ্ছাসেবক দলের বিক্ষোভ মিছিল",
-        "title_en": "Swechchhasebak Dal holds protest rally in Dhaka over Gopalganj attacks.",
-        "summary_bn": "জাতীয়তাবাদী স্বেচ্ছাসেবক দল ঢাকা মহানগর দক্ষিণ গোপালগঞ্জে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের হামলা ও অগ্নিসংযোগের প্রতিবাদে ঢাকায় বিক্ষোভ মিছিল ও সমাবেশ করেছে।",
-        "summary_en": "Nationalist Swechchhasebak Dal Dhaka South staged a protest rally and gathering in Dhaka against attacks and arson by the banned Awami League.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T19:45:31+00:00",
-        "lead_bn": "জাতীয়তাবাদী স্বেচ্ছাসেবক দল ঢাকা মহানগর দক্ষিণ গোপালগঞ্জে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের হামলা ও অগ্নিসংযোগের প্রতিবাদে ঢাকায় বিক্ষোভ মিছিল ও সমাবেশ করেছে।",
-        "lead_en": "Nationalist Swechchhasebak Dal Dhaka South staged a protest rally and gathering in Dhaka against attacks and arson by the banned Awami League.",
-        "bullets_bn": [
-          "বিক্ষোভ মিছিলটি বাহাদুর পার্ক থেকে শুরু হয়ে বায়তুল মোকাররমের দক্ষিণ গেটের সামনে শেষ হয়।",
-          "কর্মসূচিতে প্রধান অতিথি হিসেবে উপস্থিত ছিলেন ঢাকা মহানগর দক্ষিণ বিএনপির আহ্বায়ক।",
-          "বিক্ষোভ শেষে বায়তুল মোকাররমের দক্ষিণ গেটের সামনে একটি সংক্ষিপ্ত সমাবেশ অনুষ্ঠিত হয়।"
-        ],
-        "bullets_en": [
-          "The protest procession started from Bahadur Park and ended in front of the south gate of Baitul Mukarram.",
-          "The convener of Dhaka Metropolitan South BNP attended the program as the chief guest.",
-          "A short rally was held in front of the south gate of Baitul Mukarram after the procession."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "১৭ নভেম্বর গোপালগঞ্জে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের হামলা ও অগ্নিসংযোগের ঘটনা ঘটে। এর প্রতিবাদে জাতীয়তাবাদী স্বেচ্ছাসেবক দল, ঢাকা মহানগর দক্ষিণ এই বিক্ষোভ মিছিল ও সমাবেশের আয়োজন করে।",
-        "details_en": "Attacks and arson by the banned Awami League took place in Gopalganj on ১৭ নভেম্বর. In protest, Nationalist Swechchhasebak Dal Dhaka South organized this protest procession and gathering.",
-        "hook_bn": "গোপালগঞ্জে হামলার প্রতিবাদে ঢাকায় স্বেচ্ছাসেবক দলের বিক্ষোভ মিছিল",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "ফুসফুসের ক্যানসারের ওষুধের নতুন পরীক্ষার সুপারিশের পর সামিট থেরাপিউটিকসের শেয়ারের দরপতন।",
         "question_bn": null
       },
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-17T20:13:36.536672+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-17T21:02:52.754908+00:00"
       }
     },
     {
-      "story_id": "e3155ef2-c732-5391-9529-30df3b51f4ce",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2025-04-21%2Fip86dsgz%2Frumorscanne_2.jpg?rect=0%2C72%2C664%2C349&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-17T19:32:47+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.2185,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/crime/9sa2j7lxba",
-          "title": "শিশুকে হত্যার অভিযোগে মা আটক",
-          "snippet": "শিশুকে হত্যার অভিযোগে মা আটক"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রাজধানীর রামপুরায় চার বছরের শিশুকে শ্বাসরোধে হত্যার অভিযোগে মা আটক",
-        "title_en": "Mother detained in Dhaka over alleged suffocation murder of four-year-old child",
-        "summary_bn": "রাজধানীর রামপুরার বনশ্রীতে চার বছরের এক শিশুকে শ্বাসরোধে হত্যার অভিযোগে তার মাকে আটক করেছে পুলিশ।",
-        "summary_en": "Police have detained a mother in Dhaka's Rampura on allegations of suffocating her four-year-old child to death.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T19:32:47+00:00",
-        "lead_bn": "রাজধানীর রামপুরার বনশ্রীতে চার বছরের এক শিশুকে শ্বাসরোধে হত্যার অভিযোগে তার মাকে আটক করেছে পুলিশ।",
-        "lead_en": "Police have detained a mother in Dhaka's Rampura on allegations of suffocating her four-year-old child to death.",
-        "bullets_bn": [
-          "পুলিশ বলছে, পারিবারিক কলহের জেরে সন্তানকে হত্যার পর নিজেও আত্মহত্যার চেষ্টা করেছিলেন মেহেরুন নেসা।",
-          "জাতীয় জরুরি সেবা ৯৯৯-এ খবর পেয়ে বনশ্রীর বি ব্লকের ৭ নম্বর সড়কের ওই বাসায় যায় পুলিশ।",
-          "আইনি প্রক্রিয়া শেষে শিশুটির মরদেহ ময়নাতদন্তের জন্য ঢাকা মেডিকেল কলেজের মর্গে পাঠানো হয়েছে।"
-        ],
-        "bullets_en": [
-          "Police say Meherun Nesa attempted suicide after killing her child following a family dispute.",
-          "Police went to the house on road number ৭ in block B of Bonosri after receiving a call on national emergency service ৯৯৯.",
-          "Following legal procedures, the child's body was sent to the Dhaka Medical College morgue for autopsy."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "রামপুরা থানার উপপরিদর্শক মো. শাহাদাত হোসেন জানান, ওই বাসায় স্বামী, স্ত্রী ও তাঁদের সন্তান থাকতেন এবং তাঁদের মধ্যে দাম্পত্য কলহ চলছিল। ঘটনার সময় শিশুটির বাবা ইমন বাসায় ছিলেন না এবং তিনি একটি দোকানে কাজ করেন। শাহাদাত হোসেন আরও জানান, এর আগেও মেহেরুন আত্মহত্যার চেষ্টা করেছিলেন।",
-        "details_en": "Rampura police station sub-inspector Md Shahadat Hossain said the husband, wife and their child lived in that house, and marital discord was ongoing between them. During the incident, the child's father Emon was not at home and works at a shop. Shahadat Hossain further stated that Meherun had attempted suicide prior to this incident.",
-        "hook_bn": "রামপুরায় চার বছরের শিশুকে শ্বাসরোধে হত্যার অভিযোগে মা আটক",
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-17T20:13:36.536672+00:00"
-      }
-    },
-    {
-      "story_id": "ce702fcf-713c-5c3b-bc8b-a1e044e0760c",
+      "story_id": "a98e52de-9316-57e2-9179-eba9bb62fdec",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
-        "economy_business"
+        "economy_business",
+        "governance_law",
+        "society_education"
       ],
       "region": "international",
       "tags": [
-        "#APEC",
-        "#DonaldTrump",
-        "#XiJinping",
-        "#VladimirPutin"
-      ],
-      "image_url": "https://static.dw.com/image/78531577_6.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-17T14:25:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 3.4,
-      "rank_score": 0.8277,
-      "sources": [
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-all-1573-rdf",
-          "title": "APEC summit: What Trump, Xi and Putin want",
-          "snippet": "APEC summit: What Trump, Xi and Putin want"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "এপেক সম্মেলনের ফাঁকে ট্রাম্প, শি ও পুতিনের বৈঠক অনুষ্ঠিত হবে",
-        "title_en": "Trump, Xi and Putin to hold meeting at APEC summit",
-        "summary_bn": "চীন, যুক্তরাষ্ট্র ও রাশিয়ার নেতারা এই সপ্তাহে এপেক সম্মেলনের ফাঁকে তাদের প্রথম ত্রিপক্ষীয় বৈঠক করবেন।",
-        "summary_en": "Leaders of China, the United States and Russia are due to hold their first trilateral meeting at the APEC summit.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T14:25:00+00:00",
-        "lead_bn": "চীন, যুক্তরাষ্ট্র ও রাশিয়ার নেতারা এই সপ্তাহে এপেক সম্মেলনের ফাঁকে তাদের প্রথম ত্রিপক্ষীয় বৈঠক করবেন।",
-        "lead_en": "Leaders of China, the United States and Russia are due to hold their first trilateral meeting at the APEC summit.",
-        "bullets_bn": [
-          "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প এবং চীনের প্রেসিডেন্ট শি জিনপিং Shenzhen, China-এ বৈঠকে মিলিত হবেন।",
-          "ব্রুকিংস ইনস্টিটিউশনের সিনিয়র ফেলো Patricia M. Kim জানান যে মার্কিন-চীন বাণিজ্য বিষয়ে কোনো বড় অগ্রগতির সম্ভাবনা নেই।",
-          "সি ওয়াই সারগি প্যারিস বিশ্ববিদ্যালয়ের অধ্যাপক Zhang Lun-এর মতে, ডোনাল্ড ট্রাম্প দেশ ও দেশের বাইরে চাপের মুখে রয়েছেন।"
-        ],
-        "bullets_en": [
-          "US President Donald Trump and Chinese President Xi Jinping will hold talks in Shenzhen, China.",
-          "Patricia M. Kim, a senior fellow at the Brookings Institution, does not expect breakthroughs on US-China trade.",
-          "Zhang Lun, a professor at CY Cergy Paris University, believes Trump is under pressure both at home and abroad."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "এপেক সম্মেলনের সময় আগামী November ১৮-১৯ তারিখে এই বৈঠকগুলো অনুষ্ঠিত হওয়ার কথা রয়েছে। বিশেষজ্ঞরা মনে করছেন, বর্তমান বাণিজ্য অস্ত্রবিরতি বজায় রাখা এবং দ্বিপক্ষীয় সম্পর্কের আরও অবনতি রোধ করাই দুই দেশের বাস্তবসম্মত অভিন্ন লক্ষ্য হতে পারে।",
-        "details_en": "The gatherings are scheduled for November 18-19. Experts interviewed by DW do not expect breakthroughs on trade or technology, noting that maintaining the existing trade truce may be a shared objective.",
-        "hook_bn": "চীন, যুক্তরাষ্ট্র ও রাশিয়ার নেতারা করবেন প্রথম ত্রিপক্ষীয় বৈঠক।",
-        "question_bn": "এপেক সম্মেলনে বিশ্বনেতাদের এই বৈঠক আন্তর্জাতিক রাজনীতিতে কেমন প্রভাব ফেলতে পারে বলে আপনার মনে হয়?"
-      },
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-17T20:13:36.536672+00:00"
-      }
-    },
-    {
-      "story_id": "801b03e1-9153-5ac8-8b89-ff141ff80c19",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business"
-      ],
-      "region": "international",
-      "tags": [
-        "#UK",
+        "#WestBank",
         "#Israel",
-        "#WestBank"
+        "#UK"
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d277/live/17a72100-e286-11f1-a094-5fdc692f3e33.jpg",
       "image_caption": null,
-      "published_at": "2026-11-17T18:27:27+00:00",
+      "published_at": "2026-11-17T20:30:20+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.12,
-      "rank_score": 0.4064,
+      "importance_score": 2.55,
+      "rank_score": 0.631,
       "sources": [
         {
           "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-          "title": "UK sanctions firms over Israeli West Bank settlements",
-          "snippet": "UK sanctions firms over Israeli West Bank settlements"
+          "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+          "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+          "snippet": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says"
+        },
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss",
+          "title": "Israeli settler pogrom kills Palestinian woman, wounds 10 people",
+          "snippet": "Israeli settler pogrom kills Palestinian woman, wounds 10 people"
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
+          "title": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
+          "snippet": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say"
         },
         {
           "name": "The Hindu International",
@@ -357,40 +305,42 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "যুক্তরাজ্য ইসরায়েলি বসতি নির্মাণকারী প্রতিষ্ঠানের ওপর নিষেধাজ্ঞা দিয়েছে।",
-        "title_en": "UK sanctions firms over Israeli West Bank settlements.",
-        "summary_bn": "দখলকৃত পশ্চিম তীরে বসতি নির্মাণে জড়িত থাকার অভিযোগে আটটি নির্মাণ ও সম্পত্তি উন্নয়ন প্রতিষ্ঠানের ওপর নিষেধাজ্ঞা দিয়েছে যুক্তরাজ্য।",
-        "summary_en": "The UK has sanctioned eight construction and property development firms it said are involved in building settlements in the occupied West Bank.",
+        "title_bn": "পশ্চিম তীরে ইসরায়েলি বসতিস্থাপনকারীদের গুলিতে ফিলিস্তিনি নারী নিহত",
+        "title_en": "Palestinian woman shot dead by Israeli settlers in West Bank",
+        "summary_bn": "দখলকৃত পশ্চিম তীরের একটি গ্রামে ইসরায়েলি বসতিস্থাপনকারীদের গুলিতে ৭০ বছরের বেশি বয়সী এক ফিলিস্তিনি নারী নিহত হয়েছেন।",
+        "summary_en": "A Palestinian woman in her 70s has been shot dead by Israeli settlers in the occupied West Bank.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "economy_business"
+          "economy_business",
+          "governance_law",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-17T18:27:27+00:00",
-        "lead_bn": "দখলকৃত পশ্চিম তীরে বসতি নির্মাণে জড়িত থাকার অভিযোগে আটটি নির্মাণ ও সম্পত্তি উন্নয়ন প্রতিষ্ঠানের ওপর নিষেধাজ্ঞা দিয়েছে যুক্তরাজ্য।",
-        "lead_en": "The UK has sanctioned eight construction and property development firms it said are involved in building settlements in the occupied West Bank.",
+        "published_at": "2026-11-17T20:30:20+00:00",
+        "lead_bn": "দখলকৃত পশ্চিম তীরের একটি গ্রামে ইসরায়েলি বসতিস্থাপনকারীদের গুলিতে ৭০ বছরের বেশি বয়সী এক ফিলিস্তিনি নারী নিহত হয়েছেন।",
+        "lead_en": "A Palestinian woman in her 70s has been shot dead by Israeli settlers in the occupied West Bank.",
         "bullets_bn": [
-          "এই নিষেধাজ্ঞার লক্ষ্য হলো প্রতিষ্ঠানগুলোর অর্থপ্রবাহ এবং পশ্চিম তীরে ভবন নির্মাণে সহায়তার ক্ষমতা ব্যাহত করা।",
-          "ইসরায়েলি পররাষ্ট্রমন্ত্রী গিডিওন সাআর এই নিষেধাজ্ঞাকে ব্যক্তিগত ও আইনমান্যকারী প্রতিষ্ঠানের বিরুদ্ধে একটি বৈরী কাজ বলে অভিহিত করেছেন।",
-          "ফিলিস্তিনি পররাষ্ট্র মন্ত্রণালয় এই নিষেধাজ্ঞাকে স্বাগত জানিয়েছে এবং অন্যান্য দেশকেও একই পথ অনুসরণের আহ্বান জানিয়েছে।"
+          "ফিলিস্তিনের স্বাস্থ্য মন্ত্রণালয় জানিয়েছে, আল-দুজুক আল-তাহতা গ্রামে এই হত্যাকাণ্ডের ঘটনায় আরও বেশ কয়েকজন আহত হয়েছেন।",
+          "ইসরায়েলি সেনা বাহিনী জানিয়েছে, একটি ফিলিস্তিনি গাড়ি ধাক্কা দেওয়ার ঘটনার পর তারা গুলি চালায়।",
+          "যুক্তরাজ্য ইসরায়েলি বসতি স্থাপনের সাথে জড়িত প্রতিষ্ঠানগুলোর ওপর নিষেধাজ্ঞা আরোপ করেছে।"
         ],
         "bullets_en": [
-          "The measures aim to disrupt the firms flows of finance and ability to support building in the West Bank.",
-          "Israeli Foreign Minister Gideon Saar called the sanctions a hostile act targeting private, law-abiding companies.",
-          "The Palestinian foreign ministry welcomed the sanctions and called on other countries to follow suit."
+          "The Palestinian health ministry said several other people were wounded in the village of al-Duyuk al-Tahta.",
+          "The Israeli army said it opened fire after a Palestinian car-ramming attack and rocks thrown at Israelis.",
+          "The UK has sanctioned firms over Israeli West Bank settlements in a tougher approach."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "যুক্তরাজ্য সরকারের পক্ষ থেকে ইসরায়েলি পদক্ষেপের বিরুদ্ধে কঠোর দৃষ্টিভঙ্গি ঘোষণার পর এটিই প্রথম ব্যবস্থা। আন্তর্জাতিক আইনে অবৈধ হওয়া সত্ত্বেও সাম্প্রতিক বছরগুলোতে বসতি নির্মাণ তীব্রভাবে বেড়েছে এবং ফিলিস্তিনিদের ওপর বসতিস্থাপনকারীদের হামলাও বৃদ্ধি পেয়েছে। দীর্ঘ আলোচিত ইওয়ান প্রকল্প পূর্ব জেরুজালেমকে দখলকৃত পশ্চিম তীরের ফিলিস্তিনি জনবহুল কেন্দ্রগুলো থেকে বিচ্ছিন্ন করে দিতে পারে বলে জানিয়েছে ব্রিটেন।",
-        "details_en": "This is the first package of measures since the government announced a tougher approach to Israeli actions. The construction of settlements, which are illegal under international law, has risen sharply in recent years alongside a surge in settler attacks. Britain also said the long-discussed E1 project would effectively cut off eastern Jerusalem from Palestinian population centres in the occupied West Bank.",
-        "hook_bn": "যুক্তরাজ্য পশ্চিম তীরে বসতি নির্মাণকারী প্রতিষ্ঠানের ওপর নিষেধাজ্ঞা দিয়েছে।",
-        "question_bn": "ইসরায়েলি বসতি নিয়ে যুক্তরাজ্যের এই নিষেধাজ্ঞাকে আপনি কীভাবে দেখছেন?"
+        "details_bn": "আল-দুজুক আল-তাহতা গ্রামের আটটি বাড়ি কেনার পর গত ৪ নভেম্বর বসতিস্থাপনকারীরা সেখানে প্রবেশ করেন। স্থানীয় ফিলিস্তিনিদের ভাষ্য অনুযায়ী, ঘটনার সূত্রপাত হয়েছিল বসতিস্থাপনকারীদের হয়রানির মধ্য দিয়ে। আন্তর্জাতিক আইন অনুযায়ী সমস্ত বসতি অবৈধ।",
+        "details_en": "Settlers moved into eight houses in the village on 4 November after buying them in a secretive operation. Local Palestinians said events began with harassment by Israeli settlers. All settlements are illegal under international law.",
+        "hook_bn": "পশ্চিম তীরে ইসরায়েলি বসতিস্থাপনকারীদের গুলিতে ফিলিস্তিনি নারী নিহত।",
+        "question_bn": null
       },
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-17T20:13:36.536672+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-17T21:02:52.754908+00:00"
       }
     }
   ]
