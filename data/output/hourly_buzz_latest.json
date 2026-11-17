@@ -1,378 +1,79 @@
 {
-  "updated_at": "2026-11-17T14:00:41.692938",
-  "total_stories": 5,
+  "updated_at": "2026-11-17T15:00:42.417978",
+  "total_stories": 1,
   "stories": [
     {
-      "story_id": "9863f0c4-aa67-5ab2-a540-bce790c44469",
+      "story_id": "82ad675e-701c-5c05-9560-bc9a47602e9d",
       "primary_category": "society_education",
       "interest_categories": [
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Measles",
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1774977867305-f0d5580e4afc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bWVhc2xlcyUyMGRlYXRoJTIwdG9sbCUyMHJlYWNoZXMlMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NDkyNDI4Nnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-17T13:54:50+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.75,
-      "rank_score": 5.9526,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/health/424919/measles-death-toll-reaches-1-323-as-five-more",
-          "title": "Measles: Death toll reaches 1,323 as five more children die",
-          "snippet": "Measles: Death toll reaches 1,323 as five more children die"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1323-5-more-children-die-1605686",
-          "title": "Measles: Death toll reaches 1,323 as 5 more children die",
-          "snippet": "Measles: Death toll reaches 1,323 as 5 more children die"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/5-more-dead-hame/",
-          "title": "হামে আরও ৫ শিশুর মৃত্যু",
-          "snippet": "হামে আরও ৫ শিশুর মৃত্যু"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/health/498703",
-          "title": "দেশে হামের উপসর্গে আরও ৫ জনের মৃত্যু, আক্রান্ত ১৩১৪",
-          "snippet": "দেশে হামের উপসর্গে আরও ৫ জনের মৃত্যু, আক্রান্ত ১৩১৪"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "হামে আরও পাঁচ শিশুর মৃত্যুতে দেশে মোট প্রাণহানি ১ হাজার ৩২৩ জনে দাঁড়িয়েছে",
-        "title_en": "Measles death toll reaches 1,323 as five more children die in Bangladesh",
-        "summary_bn": "স্বাস্থ্য অধিদপ্তরের বিজ্ঞপ্তিতে জানানো হয়েছে, হাম ও হামের উপসর্গে আরও পাঁচ শিশুর মৃত্যু হয়েছে এবং নতুন করে রোগী শনাক্ত হয়েছে।",
-        "summary_en": "The Directorate General of Health Services reported that five more children died from measles and its symptoms, alongside new cases.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T13:54:50+00:00",
-        "lead_bn": "স্বাস্থ্য অধিদপ্তরের বিজ্ঞপ্তিতে জানানো হয়েছে, হাম ও হামের উপসর্গে আরও পাঁচ শিশুর মৃত্যু হয়েছে এবং নতুন করে রোগী শনাক্ত হয়েছে।",
-        "lead_en": "The Directorate General of Health Services reported that five more children died from measles and its symptoms, alongside new cases.",
-        "bullets_bn": [
-          "স্বাস্থ্য অধিদপ্তরের ১৭ নভেম্বর প্রকাশিত বিজ্ঞপ্তিতে এই তথ্য জানানো হয়।",
-          "গত ২৪ ঘণ্টায় নতুন করে হামের উপসর্গ নিয়ে আরও পাঁচ শিশুর মৃত্যু হয়েছে।",
-          "একই সময়ে নতুন করে ৮৬ জনের শরীরে হাম শনাক্ত হয়েছে।"
-        ],
-        "bullets_en": [
-          "The information was released in a health department notification on November 17.",
-          "Five more children died with measles symptoms during the 24-hour period.",
-          "Measles was detected in 86 new patients during the same period."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "হাম ও উপসর্গে দেশে মোট মৃত্যুর সংখ্যা বেড়ে দাঁড়িয়েছে ১ হাজার ৩২৩ জনে।",
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 4,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T14:05:55.331776+00:00"
-      }
-    },
-    {
-      "story_id": "4d0ff7f6-c8f6-5d29-bd54-6f4d7dbd710b",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business",
-        "tech_innovation"
-      ],
-      "region": "national",
-      "tags": [
-        "#Chattogram",
-        "#Police",
-        "#HomeMinistry"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/15/rrf_sp_1.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-17T12:35:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.3039,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/crime/ctg-range-reserve-force-sp-suspended-over-ties-banned-party-data-leak-1605571",
-          "title": "Ctg Range Reserve Force SP suspended over ties to banned party, data leak",
-          "snippet": "Ctg Range Reserve Force SP suspended over ties to banned party, data leak"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "নিষিদ্ধ দলের সাথে সম্পৃক্ততার অভিযোগে এসপি মোহাম্মদ জাহাঙ্গীর আলম বরখাস্ত",
-        "title_en": "SP Mohammad Jahangir Alam suspended over ties to banned party",
-        "summary_bn": "নিষিদ্ধ রাজনৈতিক দলের সাথে যোগাযোগ ও সংবেদনশীল তথ্য ফাঁসের অভিযোগে চট্টগ্রামের রেঞ্জ রিজার্ভ ফোর্সের এসপি মোহাম্মদ জাহাঙ্গীর আলমকে বরখাস্ত করা হয়েছে।",
-        "summary_en": "Chattogram Range Reserve Force SP Mohammad Jahangir Alam has been suspended over allegations of maintaining contact with a banned political party and sharing sensitive information.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business",
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T12:35:00+00:00",
-        "lead_bn": "নিষিদ্ধ রাজনৈতিক দলের সাথে যোগাযোগ ও সংবেদনশীল তথ্য ফাঁসের অভিযোগে চট্টগ্রামের রেঞ্জ রিজার্ভ ফোর্সের এসপি মোহাম্মদ জাহাঙ্গীর আলমকে বরখাস্ত করা হয়েছে।",
-        "lead_en": "Chattogram Range Reserve Force SP Mohammad Jahangir Alam has been suspended over allegations of maintaining contact with a banned political party and sharing sensitive information.",
-        "bullets_bn": [
-          "স্বরাষ্ট্র মন্ত্রণালয়ের পুলিশ-১ উইংয়ের জ্যেষ্ঠ সচিব মনজুর মোরশেদ চৌধুরীর সই করা প্রজ্ঞাপনে রাষ্ট্রপতির আদেশে এই বরখাস্তের কথা জানানো হয়।",
-          "প্রাথমিক প্রমাণ মিললে নিষিদ্ধ দলের সাথে যোগাযোগ ও অভ্যন্তরীণ পুলিশ তথ্য সরবরাহের অভিযোগে তাঁর বিরুদ্ধে এই ব্যবস্থা নেওয়া হয়।",
-          "বরখাস্তের পর নিয়ম অনুযায়ী তিনি জীবনধারণ ভাতা পাবেন বলে প্রজ্ঞাপনে উল্লেখ করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "The suspension was ordered by the president in a notification signed by Manzur Morshed Chowdhury, senior secretary of the Police-1 Wing of the Home Ministry.",
-          "This action was taken after preliminary evidence emerged that he maintained contact with a banned political party and supplied internal police information.",
-          "The notification stated that he would receive a subsistence allowance in accordance with applicable rules during his suspension."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ঘটনার পর পঞ্চলাইশ থানায় মোহাম্মদ জাহাঙ্গীর আলমের বিরুদ্ধে একটি রাষ্ট্রদ্রোহ মামলা দায়ের করা হয়। গত ১৪ নভেম্বর রাত সাড়ে দশটার দিকে চট্টগ্রাম নগরের নাসিরাবাদ হাউজিং সোসাইটির পুলিশ অফিসার্স মেস থেকে তাঁকে গ্রেপ্তার করা হয়। প্রজ্ঞাপন অনুযায়ী তাঁর গ্রেপ্তারের তারিখ থেকেই বরখাস্তের আদেশ কার্যকর হয়েছে।",
-        "details_en": "A sedition case was subsequently filed against him at Panchlaish Police Station. He was arrested at around 10:30pm on 14 November from the Police Officers' Mess in Nasirabad Housing Society in Chattogram city. His suspension took effect from the date of his arrest.",
-        "hook_bn": "নিষিদ্ধ দলের সাথে যোগাযোগের অভিযোগে এসপি জাহাঙ্গীর আলম বরখাস্ত",
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T14:05:55.331776+00:00"
-      }
-    },
-    {
-      "story_id": "0e502eec-c44c-5790-a9f5-f91dbb2525c6",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-17%2Fz6i1rqig%2Fpexels-bayu-prakosa-243773629-12365687.jpg?rect=0%2C67%2C3648%2C1915&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-17T13:15:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.6289,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/lifestyle/health/g4l7r2jhdy",
-          "title": "অপরিণত নবজাতকের চোখ পরীক্ষা",
-          "snippet": "অপরিণত নবজাতকের চোখ পরীক্ষা"
-        },
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/post-1221990/",
-          "title": "দেশে অপরিণত শিশু জন্মের হার ১৬ দশমিক ২ শতাংশ",
-          "snippet": "দেশে অপরিণত শিশু জন্মের হার ১৬ দশমিক ২ শতাংশ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "দেশে অপরিণত শিশু জন্মের হার ১৬ দশমিক ২ শতাংশ",
-        "title_en": "Preterm birth rate in the country is 16.2 percent",
-        "summary_bn": "বাংলাদেশে অপরিণত নবজাতকের জন্ম একটি গুরুত্বপূর্ণ জনস্বাস্থ্য সমস্যা হিসেবে চিহ্নিত হয়েছে এবং দেশে অপরিণত জন্মের হার আনুমানিক ১৬ দশমিক ২ শতাংশ।",
-        "summary_en": "The birth of premature newborns has been identified as an important public health problem with an estimated rate of 16.2 percent in the country.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T13:15:00+00:00",
-        "lead_bn": "বাংলাদেশে অপরিণত নবজাতকের জন্ম একটি গুরুত্বপূর্ণ জনস্বাস্থ্য সমস্যা হিসেবে চিহ্নিত হয়েছে এবং দেশে অপরিণত জন্মের হার আনুমানিক ১৬ দশমিক ২ শতাংশ।",
-        "lead_en": "The birth of premature newborns has been identified as an important public health problem with an estimated rate of 16.2 percent in the country.",
-        "bullets_bn": [
-          "বিশ্ব প্রিম্যাচুরিটি দিবসে অপরিণত শিশুদের চোখের রেটিনার সমস্যা বা আরওপি জটিলতা নিয়ে তথ্য জানানো হয়েছে।",
-          "অপরিণত শিশুদের শ্বাসকষ্ট, জন্ডিস ও রক্তে সংক্রমণ হওয়ার ঝুঁকি বেশি থাকে।",
-          "আধুনিক চিকিৎসাব্যবস্থা এবং ক্যাঙ্গারু মাদার কেয়ার পদ্ধতির উন্নতির ফলে অপরিণত নবজাতকের বেঁচে থাকার হার বৃদ্ধি পেয়েছে।"
-        ],
-        "bullets_en": [
-          "Information was shared regarding retinal problems or ROP complications in premature infants on World Prematurity Day.",
-          "Premature infants have a higher risk of respiratory distress, jaundice, and blood infections.",
-          "The survival rate of premature newborns has increased due to improved modern medical care and kangaroo mother care methods."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "১৭ নভেম্বর পালিত হচ্ছে বিশ্ব প্রিম্যাচুরিটি দিবস। মাতৃগর্ভে ৩৭ সপ্তাহ সমাপ্ত করার আগেই জন্ম নেওয়া শিশুদের অপরিণত শিশু বলা হয়। মায়ের পুষ্টিহীনতা, কিশোরী বয়সে মা হওয়া এবং দীর্ঘস্থায়ী রোগের কারণে অপরিণত শিশু জন্ম নিতে পারে। অপরিণত শিশুদের নবজাতক ইউনিটে ভর্তি করে চিকিৎসা দিতে হয় এবং বেঁচে থাকা শিশুদের পরবর্তী সময়ে চোখের রেটিনাসহ বিভিন্ন জটিলতা দেখা দিতে পারে। ৩৫ সপ্তাহের কম বয়স, ২ হাজার গ্রামের কম জন্মকালীন ওজন, নবজাতক ইউনিটে বেশি অক্সিজেন পাওয়া, রক্তে সংক্রমণ এবং বারবার রক্ত দেওয়ার কারণে আরওপি ঝুঁকি বাড়ে।",
-        "details_en": "World Prematurity Day is observed on November 17. Premature babies are those born before completing 37 weeks in the mother's womb. Premature births can be caused by maternal malnutrition, early motherhood in adolescence, and chronic maternal diseases. Premature infants often require treatment in neonatal units, and surviving children may develop various complications later, including retinal issues. The risk of ROP increases for those born before 35 weeks, with a birth weight under 2,000 grams, receiving excessive oxygen in neonatal units, having blood infections, and receiving frequent blood transfusions.",
-        "hook_bn": "দেশে অপরিণত শিশু জন্মের হার ১৬ দশমিক ২ শতাংশ",
-        "question_bn": "অপরিণত নবজাতকের চিকিৎসায় আমাদের স্বাস্থ্যসেবা ব্যবস্থার উন্নয়নে আর কী করা উচিত বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T14:05:55.331776+00:00"
-      }
-    },
-    {
-      "story_id": "390e50fc-e834-5fee-8f5e-4f9a5a89ba55",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
+        "society_education",
         "economy_business"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#DonaldTrump",
-        "#Iran",
-        "#Washington",
-        "#USIntelligence"
+        "#DengueTest",
+        "#HealthMinistry",
+        "#MAMuhit"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/17/trump.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/17/ma_muhit.jpg",
       "image_caption": null,
-      "published_at": "2026-11-17T13:10:00+00:00",
+      "published_at": "2026-11-17T14:40:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.373,
+      "importance_score": 7.25,
+      "rank_score": 5.149,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/worldbiz/usa/trump-says-us-taking-seriously-report-possible-iranian-dirty-bomb-plot-washington",
-          "title": "Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington",
-          "snippet": "Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington"
+          "url": "https://www.tbsnews.net/bangladesh/health/free-dengue-tests-govt-hospitals-community-clinics-become-primary-healthcare-hubs",
+          "title": "Free dengue tests at govt hospitals; community clinics to become primary healthcare hubs: Muhit",
+          "snippet": "Free dengue tests at govt hospitals; community clinics to become primary healthcare hubs: Muhit"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/health/424922/govt-to-upgrade-all-upazila-health-complexes-to",
+          "title": "Govt to upgrade all upazila health complexes to 151 beds facilities",
+          "snippet": "Govt to upgrade all upazila health complexes to 151 beds facilities"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ওয়াশিংটনে সম্ভাব্য ইরানি ডার্টি বম্ব হামলার রিপোর্ট গুরুত্বের সঙ্গে নিচ্ছে যুক্তরাষ্ট্র",
-        "title_en": "US taking seriously report of possible Iranian dirty bomb plot in Washington",
-        "summary_bn": "মার্কিন গোয়েন্দা মূল্যায়নের বরাত দিয়ে সিএনএনের করা একটি প্রতিবেদনের বিষয়ে যুক্তরাষ্ট্র সরকার সম্ভাব্য ইরানি ডার্টি বম্ব হামলার বিষয়টি গুরুত্বের সঙ্গে দেখছে বলে জানিয়েছেন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-        "summary_en": "US President Donald Trump said the US was taking seriously the possibility of an Iranian dirty bomb plot in Washington.",
+        "title_bn": "সরকারি হাসপাতালে ডেঙ্গু পরীক্ষা সম্পূর্ণ বিনামূল্যে দেওয়া হচ্ছে",
+        "title_en": "Dengue tests are being provided free at government hospitals",
+        "summary_bn": "স্বাস্থ্য ও পরিবার কল্যাণ প্রতিমন্ত্রী এম মহিউত জানিয়েছেন যে সরকারি হাসপাতালে ডেঙ্গু পরীক্ষা বিনামূল্যে প্রদান করা হচ্ছে।",
+        "summary_en": "State Minister for Health and Family Welfare MA Muhit stated that dengue tests are provided free at government hospitals.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
+          "society_education",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-17T13:10:00+00:00",
-        "lead_bn": "মার্কিন গোয়েন্দা মূল্যায়নের বরাত দিয়ে সিএনএনের করা একটি প্রতিবেদনের বিষয়ে যুক্তরাষ্ট্র সরকার সম্ভাব্য ইরানি ডার্টি বম্ব হামলার বিষয়টি গুরুত্বের সঙ্গে দেখছে বলে জানিয়েছেন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-        "lead_en": "US President Donald Trump said the US was taking seriously the possibility of an Iranian dirty bomb plot in Washington.",
+        "published_at": "2026-11-17T14:40:00+00:00",
+        "lead_bn": "স্বাস্থ্য ও পরিবার কল্যাণ প্রতিমন্ত্রী এম মহিউত জানিয়েছেন যে সরকারি হাসপাতালে ডেঙ্গু পরীক্ষা বিনামূল্যে প্রদান করা হচ্ছে।",
+        "lead_en": "State Minister for Health and Family Welfare MA Muhit stated that dengue tests are provided free at government hospitals.",
         "bullets_bn": [
-          "সিএনএনের প্রতিবেদনে বলা হয়েছে, মার্কিন গোয়েন্দা তথ্যে মার্কিন রাজধানীতে তেহরানের সম্ভাব্য ডার্টি বম্ব বিস্ফোরণের পরিকল্পনা ইঙ্গিত করা হয়েছে।",
-          "ইরানের পররাষ্ট্র মন্ত্রণালয়ের মুখপাত্র এক্স-এ দেওয়া এক পোস্টে এই অভিযোগগুলোকে ভিত্তিহীন বলে অস্বীকার করেছেন।",
-          "প্রেসিডেন্ট ডোনাল্ড ট্রাম্প বলেছেন, আসন্ন কোনো হুমকি থাকলে এর জন্য এমন চড়া মূল্য দিতে হবে যা আগে কোনো দেশ দেয়নি।"
+          "সরকার কমিউনিটি ক্লিনিকগুলোকে প্রাথমিক স্বাস্থ্যসেবা কেন্দ্রে উন্নীত করার পরিকল্পনা করেছে।",
+          "দুই হাজার চিকিৎসককে ডেঙ্গু ব্যবস্থাপনায় রিফ্রেশার প্রশিক্ষণ দেওয়া হয়েছে।",
+          "সব উপজেলা স্বাস্থ্য কমপ্লেক্সকে ১৫১ শয্যার সুবিধায় উন্নীত করা হবে।"
         ],
         "bullets_en": [
-          "CNN reported that US intelligence indicated Tehran was developing plans to potentially detonate a dirty bomb in the US capital.",
-          "Iran's Foreign Ministry spokesperson denied the allegations in a post on X, calling them baseless.",
-          "President Donald Trump said that if there is an imminent threat, they will pay a price the likes of which no country has ever paid before."
+          "The government plans to develop community clinics into primary healthcare hubs.",
+          "Two thousand doctors received refresher training in dengue management.",
+          "All upazila health complexes will be upgraded to 151-bed facilities."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "একটি ডার্টি বম্ব তেজস্ক্রিয় উপাদান ছড়িয়ে দিতে প্রচলিত বিস্ফোরক ব্যবহার করে। পারমাণবিক অস্ত্রের বিপরীতে এটি কোনো পারমাণবিক বিস্ফোরণ ঘটায় না, তবে তেজস্ক্রিয় দূষণ ছড়িয়ে দিতে পারে এবং উল্লেখযোগ্য বিশৃঙ্খলা ও জনমনে আতঙ্ক সৃষ্টি করতে পারে।",
-        "details_en": "A dirty bomb uses conventional explosives to disperse radioactive material. Unlike a nuclear weapon, it does not produce a nuclear explosion, but can spread radioactive contamination and cause significant disruption and public alarm.",
-        "hook_bn": "ওয়াশিংটনে সম্ভাব্য ইরানি ডার্টি বম্ব হামলার রিপোর্ট গুরুত্বের সঙ্গে দেখছে যুক্তরাষ্ট্র।",
-        "question_bn": null
+        "impact_bn": "সরকারি হাসপাতালে বিনামূল্যে ডেঙ্গু পরীক্ষার সুবিধা সাধারণ মানুষের চিকিৎসা খরচ কমাবে।",
+        "impact_en": "Free dengue testing facilities at government hospitals will reduce medical expenses for ordinary people.",
+        "details_bn": "জাতীয় সংসদের প্রশ্নোত্তর পর্বে প্রতিমন্ত্রী এম মহিউত জানান যে স্থানীয় সরকার মন্ত্রণালয়ের নেতৃত্বে মশার লার্ভা ধ্বংস ও পরিচ্ছন্নতা অভিযানসহ বিভিন্ন সমন্বিত কার্যক্রম পিক মৌসুমের তিন থেকে চার মাস আগেই শুরু হয়েছিল। এছাড়া অবৈধ বেসরকারি ক্লিনিক ও ডায়াগনস্টিক সেন্টারের বিরুদ্ধে শূন্য সহনশীলতা নীতি গ্রহণ করেছে সরকার।",
+        "details_en": "Replying in parliament, State Minister MA Muhit said coordinated dengue prevention activities led by the Local Government Ministry began three to four months before the peak season. The government also adopted a zero-tolerance policy towards unlicensed private clinics and diagnostic centres.",
+        "hook_bn": "সরকারি হাসপাতালে ডেঙ্গু পরীক্ষা করা যাচ্ছে সম্পূর্ণ বিনামূল্যে।",
+        "question_bn": "আপনার এলাকার সরকারি হাসপাতালে ডেঙ্গু পরীক্ষার সেবা কেমন পাচ্ছেন?"
       },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T14:05:55.331776+00:00"
-      }
-    },
-    {
-      "story_id": "9eb1dcc0-dca7-5917-83ba-f301960674ff",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business",
-        "governance_law",
-        "society_education"
-      ],
-      "region": "international",
-      "tags": [
-        "#EdMiliband",
-        "#WestBank",
-        "#Israel",
-        "#UKForeignOffice"
-      ],
-      "image_url": "https://i.guim.co.uk/img/media/c9523ec5228a42aa647f50bbf3dbb4fc03f57ce3/28_0_3300_2640/master/3300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=360494a978ff64e698328d170754c092",
-      "image_caption": null,
-      "published_at": "2026-11-17T12:18:08+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.2574,
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
-          "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
-          "snippet": "Ed Miliband announces first sanctions on Israeli firms working in West Bank"
-        },
-        {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-          "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-          "snippet": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "যুক্তরাজ্য ইসরায়েলি কোম্পানি ও গোষ্ঠীর ওপর প্রথম নিষেধাজ্ঞা ঘোষণা করেছে।",
-        "title_en": "UK announces first sanctions on Israeli companies and group.",
-        "summary_bn": "যুক্তরাজ্যের পররাষ্ট্রমন্ত্রী এড মিলিব্যান্ড পশ্চিম তীরে অবৈধ বসতি পরিকল্পনাকারী ইসরায়েলি কোম্পানিগুলোর ওপর প্রথম নিষেধাজ্ঞা ঘোষণা করেছেন।",
-        "summary_en": "UK Foreign Secretary Ed Miliband has announced the first sanctions against Israeli companies planning to build illegal settlements in the West Bank.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business",
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T12:18:08+00:00",
-        "lead_bn": "যুক্তরাজ্যের পররাষ্ট্রমন্ত্রী এড মিলিব্যান্ড পশ্চিম তীরে অবৈধ বসতি পরিকল্পনাকারী ইসরায়েলি কোম্পানিগুলোর ওপর প্রথম নিষেধাজ্ঞা ঘোষণা করেছেন।",
-        "lead_en": "UK Foreign Secretary Ed Miliband has announced the first sanctions against Israeli companies planning to build illegal settlements in the West Bank.",
-        "bullets_bn": [
-          "নিষেধাজ্ঞাটি আটটি নির্মাণ நிறுவனকে অর্থপ্রবাহ থামানোর জন্য তৈরি করা হয়েছে।",
-          "যুক্তরাজ্যের পররাষ্ট্রমন্ত্রী গাজায় সাহায্য প্রদানে বাধা দেওয়া একটি ডানপন্থী ইসরায়েলি গোষ্ঠীকেও নিষেধাজ্ঞা দিয়েছেন।",
-          "ইসরায়েলি সরকার বর্তমান মেয়াদে আগের ২০ বছরের চেয়ে বেশি বসতি অনুমোদন করেছে।"
-        ],
-        "bullets_en": [
-          "The sanctions are designed to stop the flow of finance to eight construction firms.",
-          "The UK foreign secretary also placed sanctions on a rightwing Israeli group involved in trying to block aid into Gaza.",
-          "The current Israeli government has approved more settlements under four years than in the previous twenty years."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "পশ্চিম তীরে অবৈধ বসতি পরিকল্পনাকারী ইসরায়েলি কোম্পানির ওপর নিষেধাজ্ঞা দিয়েছে যুক্তরাজ্য।",
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
+      "desk_importance": 7.0,
       "outlet_count": 2,
       "trending": false,
-      "social_appeal": 4.0,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-17T14:05:55.331776+00:00"
+        "checked_at": "2026-11-17T15:03:32.392105+00:00"
       }
     }
   ]
