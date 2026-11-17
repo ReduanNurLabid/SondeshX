@@ -1,249 +1,428 @@
 {
-  "updated_at": "2026-11-17T07:00:42.211237",
-  "total_stories": 3,
+  "updated_at": "2026-11-17T08:00:43.461057",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "766810eb-0e9f-51cf-8c41-822a97e85bdd",
+      "story_id": "4fd86606-4767-5c8f-8eb6-69d2d80af05f",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business",
-        "governance_law"
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#BGB",
-        "#Mirpur",
-        "#Savar"
+        "#WorldBank",
+        "#Bangladesh",
+        "#CommerceMinistry",
+        "#ExportDiversification"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/09/8304771.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/17/907846861_1899132994832781_7505396224831742814_n.jpg",
       "image_caption": null,
-      "published_at": "2026-11-17T05:35:00+00:00",
+      "published_at": "2026-11-17T07:30:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 8.75,
-      "rank_score": 7.0461,
+      "importance_score": 7.5,
+      "rank_score": 5.4563,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/42-bgb-platoons-deployed-across-industrial-areas-dhaka-gazipur-and-narayanganj-1605061",
-          "title": "42 BGB platoons deployed across industrial areas in Dhaka, Gazipur and Narayanganj",
-          "snippet": "42 BGB platoons deployed across industrial areas in Dhaka, Gazipur and Narayanganj"
-        },
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/capital/olv6kie15i",
-          "title": "মিরপুরে সড়ক অবরোধের চেষ্টায় পোশাকশ্রমিকেরা, পুলিশের সাউন্ড গ্রেনেড নিক্ষেপ",
-          "snippet": "মিরপুরে সড়ক অবরোধের চেষ্টায় পোশাকশ্রমিকেরা, পুলিশের সাউন্ড গ্রেনেড নিক্ষেপ"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/424851/garment-workers-block-roads-as-unrest-returns-to",
-          "title": "Garment workers block roads as unrest returns to Savar, Ashulia",
-          "snippet": "Garment workers block roads as unrest returns to Savar, Ashulia"
+          "url": "https://www.tbsnews.net/foreign-policy/bangladesh-seeks-world-bank-support-business-reforms-export-diversification-minister",
+          "title": "Bangladesh seeks World Bank support for business reforms, export diversification: Minister",
+          "snippet": "Bangladesh seeks World Bank support for business reforms, export diversification: Minister"
         },
         {
           "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/42-platoons-of-bgb-deployed-to-ensure-security-in-dhaka-gazipur-narayanganj",
-          "title": "42 platoons of BGB deployed to ensure security in Dhaka, Gazipur, Narayanganj",
-          "snippet": "42 platoons of BGB deployed to ensure security in Dhaka, Gazipur, Narayanganj"
+          "url": "https://thefinancialexpress.com.bd/trade/bangladesh-seeks-wb-support-for-trade-reforms-export-diversification-ahead-of-ldc-exit",
+          "title": "Bangladesh seeks World Bank support for trade reforms, export diversification",
+          "snippet": "Bangladesh seeks World Bank support for trade reforms, export diversification"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পোশাকশ্রমিকদের বিক্ষোভ ও মহাসড়ক অবরোধের মধ্যে ৪২ প্লাটুন বিজিবি মোতায়েন",
-        "title_en": "Forty-two BGB platoons deployed amid garment workers' protests and highway blockades",
-        "summary_bn": "ন্যূনতম মজুরি বৃদ্ধিসহ বিভিন্ন দাবিতে পোশাকশ্রমিকদের বিক্ষোভ ও সংঘর্ষের প্রেক্ষাপটে ঢাকা, গাজীপুর ও নারায়ণগঞ্জে বিজিবির ৪২ প্লাটুন মোতায়েন করা হয়েছে।",
-        "summary_en": "Forty-two platoons of Border Guard Bangladesh have been deployed in Dhaka, Gazipur and Narayanganj amid garment workers' protests and clashes over wage demands.",
+        "title_bn": "ব্যবসা সহজ করতে বিশ্বব্যাংকের সহযোগিতা চেয়েছে বাংলাদেশ",
+        "title_en": "Bangladesh seeks World Bank support for business reforms",
+        "summary_bn": "বাণিজ্যমন্ত্রী খন্দকার আবদুল মুক্তাদির বলেছেন, ব্যবসা সহজ করা এবং রপ্তানি বাড়াতে বিশ্বব্যাংকের নীতিগত ও কারিগরি সহায়তা চেয়েছে বাংলাদেশ।",
+        "summary_en": "Commerce Minister Khandakar Abdul Muktadir said Bangladesh has sought World Bank support to reduce business complexities and diversify exports.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business",
-          "governance_law"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-17T05:35:00+00:00",
-        "lead_bn": "ন্যূনতম মজুরি বৃদ্ধিসহ বিভিন্ন দাবিতে পোশাকশ্রমিকদের বিক্ষোভ ও সংঘর্ষের প্রেক্ষাপটে ঢাকা, গাজীপুর ও নারায়ণগঞ্জে বিজিবির ৪২ প্লাটুন মোতায়েন করা হয়েছে।",
-        "lead_en": "Forty-two platoons of Border Guard Bangladesh have been deployed in Dhaka, Gazipur and Narayanganj amid garment workers' protests and clashes over wage demands.",
+        "published_at": "2026-11-17T07:30:00+00:00",
+        "lead_bn": "বাণিজ্যমন্ত্রী খন্দকার আবদুল মুক্তাদির বলেছেন, ব্যবসা সহজ করা এবং রপ্তানি বাড়াতে বিশ্বব্যাংকের নীতিগত ও কারিগরি সহায়তা চেয়েছে বাংলাদেশ।",
+        "lead_en": "Commerce Minister Khandakar Abdul Muktadir said Bangladesh has sought World Bank support to reduce business complexities and diversify exports.",
         "bullets_bn": [
-          "বিজিবির মোতায়েনকৃত ৪২ প্লাটুনের মধ্যে ২০টি ঢাকায়, ১৫টি গাজীপুরে এবং ৭টি নারায়ণগঞ্জে অবস্থান করছে।",
-          "মিরপুর ও সাভারে ন্যূনতম মজুরি ও বিভিন্ন দাবিতে শ্রমিকেরা সড়ক অবরোধের চেষ্টা করলে পুলিশ টিয়ারশেল ও সাউন্ড গ্রেনেড নিক্ষেপ করে।",
-          "বিজিবি সদর দপ্তরের মনিটরিং সেল ড্রোন ও বডি-ওয়ার্ন ক্যামেরার লাইভ ফুটেজের মাধ্যমে সার্বক্ষণিক কার্যক্রম সমন্বয় করছে।"
+          "অনুমোদনে দীর্ঘসূত্রিতা কমিয়ে ১৪ দিনের মধ্যে তা শেষ করার পরিকল্পনা রয়েছে সরকারের।",
+          "বিশ্বব্যাংকের আট সদস্যের প্রতিনিধিদলের সঙ্গে সচিবালয়ে বৈঠক করেন বাণিজ্যমন্ত্রী।",
+          "তৈরি পোশাকের বাইরে চামড়া, পাদুকা, জাহাজ নির্মাণ ও হালকা প্রকৌশল খাতকে অগ্রাধিকার দেওয়া হচ্ছে।"
         ],
         "bullets_en": [
-          "Of the 42 BGB platoons, 20 are stationed in Dhaka, 15 in Gazipur and seven in Narayanganj.",
-          "Police fired tear gas shells and sound grenades as workers attempted road blockades in Mirpur and Savar over wage demands.",
-          "The BGB headquarters monitoring cell tracks ground developments around the clock using live footage from drones and body-worn cameras."
-        ],
-        "impact_bn": "পোশাকশ্রমিকদের সড়ক অবরোধ ও বিক্ষোভের কারণে ঢাকা-আরিচা মহাসড়কসহ বিভিন্ন সড়কে যান চলাচল ব্যাহত হয়েছে এবং দীর্ঘ যানজটের সৃষ্টি হয়েছে।",
-        "impact_en": "Protests and road blockades by garment workers disrupted traffic on the Dhaka-Aricha Highway and other roads, causing long tailbacks.",
-        "details_bn": "ন্যূনতম মজুরি বৃদ্ধিসহ নানা দাবিতে রাজধানীর মিরপুর, সাভার ও আশুলিয়ার শিল্পাঞ্চলে পোশাকশ্রমিকেরা সড়ক অবরোধের চেষ্টা করলে সংঘর্ষের সূত্রপাত হয়। পরিস্থিতি নিয়ন্ত্রণে পুলিশ টিয়ারশেল ও সাউন্ড গ্রেনেড নিক্ষেপ করে এবং ঘটনাস্থল থেকে কয়েকজনকে আটক করা হয়। এর আগে সাভার ও আশুলিয়ার শিল্পাঞ্চলে টানা দুই দিন পরিস্থিতি শান্ত থাকার পর এই অসন্তোষ দেখা দেয়।",
-        "details_en": "Unrest broke out in industrial areas including Mirpur, Savar and Ashulia as garment workers attempted road blockades over demands including a minimum wage increase. Police intervened with tear gas shells and sound grenades, and detained several people from the scene, following two days of calm in Savar and Ashulia.",
-        "hook_bn": "ঢাকা, গাজীপুর ও নারায়ণগঞ্জে বিজিবির ৪২ প্লাটুন মোতায়েন করা হয়েছে।",
-        "question_bn": "পোশাকশিল্প এলাকায় এমন অস্থিরতা নিরসনে কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 8.0,
-      "outlet_count": 6,
-      "trending": false,
-      "social_appeal": 9.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T07:01:51.668898+00:00"
-      }
-    },
-    {
-      "story_id": "b338977c-cd19-5978-8171-9ab4d0d623c8",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#MinimumWageBoard",
-        "#GarmentWorkers"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1595265616410-a6119ff0c87e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cG9zdHBvbmVkJTIwcm1nJTIwd2FnZSUyMGJvYXJkJTIwYnVzaW5lc3N8ZW58MXwwfHx8MTc5NDg5ODg4NXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-17T06:33:53+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.75,
-      "rank_score": 5.85,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/424853/postponed-rmg-wage-board-meeting-rescheduled-for",
-          "title": "Postponed RMG wage board meeting rescheduled for Nov 23",
-          "snippet": "Postponed RMG wage board meeting rescheduled for Nov 23"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/economy/rmg/minimum-wage-board-reschedules-third-meeting-23-november-1605051",
-          "title": "Postponed RMG wage board meeting rescheduled for 23 Nov; owners' proposal expected",
-          "snippet": "Postponed RMG wage board meeting rescheduled for 23 Nov; owners' proposal expected"
-        },
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/business/industry/4pz6q7576g",
-          "title": "স্থগিত হওয়া নিম্নতম মজুরি বোর্ডের তৃতীয় সভা সোমবার",
-          "snippet": "স্থগিত হওয়া নিম্নতম মজুরি বোর্ডের তৃতীয় সভা সোমবার"
-        },
-        {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/news/rmg-wage-boards-meeting-rescheduled-november-23-4326056",
-          "title": "RMG wage board’s meeting rescheduled for November 23",
-          "snippet": "RMG wage board’s meeting rescheduled for November 23"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পোশাকশ্রমিকদের নিম্নতম মজুরি বোর্ডের স্থগিত সভা ২৩ নভেম্বর অনুষ্ঠিত হবে।",
-        "title_en": "Postponed RMG wage board meeting rescheduled for Nov 23.",
-        "summary_bn": "তৈরি পোশাকশিল্পের শ্রমিকদের নতুন বেতন কাঠামো নির্ধারণের লক্ষ্যে গঠিত নিম্নতম মজুরি বোর্ডের স্থগিত হওয়া তৃতীয় সভা আগামী ২৩ নভেম্বর অনুষ্ঠিত হবে।",
-        "summary_en": "The postponed third meeting of the Minimum Wage Board formed for garment workers will be held on November 23.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T06:33:53+00:00",
-        "lead_bn": "তৈরি পোশাকশিল্পের শ্রমিকদের নতুন বেতন কাঠামো নির্ধারণের লক্ষ্যে গঠিত নিম্নতম মজুরি বোর্ডের স্থগিত হওয়া তৃতীয় সভা আগামী ২৩ নভেম্বর অনুষ্ঠিত হবে।",
-        "lead_en": "The postponed third meeting of the Minimum Wage Board formed for garment workers will be held on November 23.",
-        "bullets_bn": [
-          "সভায় মালিকপক্ষের প্রতিনিধিদের পক্ষ থেকে শ্রমিকদের নতুন বেতন কাঠামোর প্রস্তাব উপস্থাপন করার কথা রয়েছে।",
-          "বোর্ডের তৃতীয় সভাটি আগামী ২৩ নভেম্বর সকাল সাড়ে ১১টায় ঢাকার সেগুনবাগিচায় মজুরি বোর্ড কার্যালয়ে অনুষ্ঠিত হবে।",
-          "শিল্পাঞ্চলগুলোর আইনশৃঙ্খলা পরিস্থিতি স্বাভাবিক রাখতে ঢাকা, গাজীপুর ও নারায়ণগঞ্জে ৪২ প্লাটুন বিজিবি মোতায়েন করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "At the meeting, the owners' representatives will present their proposed minimum wage for workers.",
-          "The third meeting will be held at 11:30 am at the minimum wage board office in Segunbagicha, Dhaka.",
-          "Forty-two platoons of BGB have been deployed in Dhaka, Gazipur, and Narayanganj to maintain law and order."
+          "The government aims to reduce delays in business approvals and complete the process within just 14 days.",
+          "The commerce minister met with an eight-member World Bank delegation led by Jean Pesme at the Secretariat.",
+          "The minister identified export diversification as a key economic priority beyond the readymade garments sector."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "তৈরি পোশাকশিল্পের শ্রমিকদের নিম্নতম মজুরি নির্ধারণে গঠিত বোর্ডের তৃতীয় সভাটি ১৬ নভেম্বর বেলা ১১টায় রাজধানীর শ্রম অধিদপ্তরে অনুষ্ঠিত হওয়ার কথা ছিল। তবে বোর্ডের একজন সদস্য অসুস্থ হয়ে পড়ায় অনিবার্য কারণ দেখিয়ে সভাটি স্থগিত করা হয়েছিল। এদিকে শিল্পাঞ্চলগুলোর সার্বিক আইনশৃঙ্খলা পরিস্থিতি স্বাভাবিক রাখা এবং জনসাধারণের নিরাপত্তা নিশ্চিত করতে ঢাকা, গাজীপুর ও নারায়ণগঞ্জের বিভিন্ন গুরুত্বপূর্ণ এলাকায় ৪২ প্লাটুন বর্ডার গার্ড বাংলাদেশ সদস্য মোতায়েন করা হয়েছে।",
-        "details_en": "The third meeting of the board was originally scheduled for November 16 at the Department of Labour in Dhaka, but was postponed due to unavoidable reasons after a board member fell ill. Meanwhile, forty-two platoons of Border Guard Bangladesh have been deployed in various important areas of Dhaka, Gazipur, and Narayanganj to keep the overall law and order situation normal in industrial zones and ensure public security.",
-        "hook_bn": "তৈরি পোশাকশ্রমিকদের নিম্নতম মজুরি বোর্ডের স্থগিত সভা আগামী ২৩ নভেম্বর অনুষ্ঠিত হবে।",
-        "question_bn": "পোশাকশ্রমিকদের নতুন মজুরি কাঠামো নিয়ে আপনার মতামত কী?"
+        "details_bn": "স্বল্পোন্নত দেশের তালিকা থেকে উত্তরণের সামনে একটি নির্দিষ্ট তিন বছরের কর্মপরিকল্পনা প্রস্তুত করছে সরকার। এই পরিকল্পনার আওতায় বিনিয়োগ বাংলাদেশের ওয়ান-স্টপ সার্ভিসের মাধ্যমে বিভিন্ন দপ্তরের সেবা অনলাইনে আনা হবে। এছাড়া আন্তর্জাতিক মান ও পরিবেশগত কমপ্লায়েন্স নিশ্চিত করতে সাভার চামড়া শিল্পনগরীতে একটি নতুন কেন্দ্রীয় বর্জ্য শোধনাগার বা সিইটিপি পরিকল্পনা করা হয়েছে।",
+        "details_en": "The government is preparing a specific three-year action plan ahead of Bangladesh's graduation from the least developed country category. Under the plan, services will be brought online through Invest Bangladesh's One-Stop Service, and a new central effluent treatment plant is planned at the Savar Tannery Industrial Estate.",
+        "hook_bn": "ব্যবসার অনুমোদন প্রক্রিয়া ১৪ দিনে নামিয়ে আনতে চায় সরকার।",
+        "question_bn": "ব্যবসায়িক অনুমোদন ও লাইসেন্স পেতে আপনাদের কী ধরনের ভোগান্তিতে পড়তে হয়?"
       },
-      "desk_importance": 7.0,
-      "outlet_count": 6,
-      "trending": false,
-      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-17T07:01:51.668898+00:00"
+        "checked_at": "2026-11-17T08:02:49.302909+00:00"
       }
     },
     {
-      "story_id": "bb62dd53-4803-5891-a925-62e0a136401f",
-      "primary_category": "climate_environment",
+      "story_id": "2cb633c6-fd9c-5555-89bb-a07b249a6894",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "climate_environment",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#BangladeshMeteorologicalDepartment",
-        "#WeatherForecast"
+        "#RamisaAkter",
+        "#SohelRana",
+        "#HighCourt",
+        "#Pallabi"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/10/05/image-431371-1791180125.jpg",
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/sohel-shopna.webp",
       "image_caption": null,
-      "published_at": "2026-11-17T06:30:00+00:00",
+      "published_at": "2026-11-17T07:14:11+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.6745,
+      "importance_score": 7.2,
+      "rank_score": 4.9525,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/met-office-predicts-dry-weather-across-country-1605136",
-          "title": "Met office predicts dry weather across country",
-          "snippet": "Met office predicts dry weather across country"
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/ramisa-rape-murder-hc-upholds-sohels-death-sentence-acquits-wife-4326086",
+          "title": "Ramisa rape, murder: HC upholds Sohel’s death sentence, acquits wife",
+          "snippet": "Ramisa rape, murder: HC upholds Sohel’s death sentence, acquits wife"
         },
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1180397",
-          "title": "মাছের ব্যবসার আড়ালে বাংলাদেশে পাচার হতো ফেনসিডিল",
-          "snippet": "মাছের ব্যবসার আড়ালে বাংলাদেশে পাচার হতো ফেনসিডিল"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/court/424845/high-court-begins-hearing-verdict-in-pallabi-child",
+          "title": "HC upholds Sohel Rana’s death sentence in Pallabi child rape, murder case",
+          "snippet": "HC upholds Sohel Rana’s death sentence in Pallabi child rape, murder case"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/court/ramisa-rape-and-murder-case-high-court-starts-delivering-verdict-1605041",
+          "title": "Ramisa rape-murder: HC upholds Sohel's death sentence, acquits wife",
+          "snippet": "Ramisa rape-murder: HC upholds Sohel's death sentence, acquits wife"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/ramisa-murder-hc-upholds-sohel-ranas-death-sentence-acquits-swapna",
+          "title": "Ramisa murder: HC upholds Sohel Rana's death sentence, acquits Swapna",
+          "snippet": "Ramisa murder: HC upholds Sohel Rana's death sentence, acquits Swapna"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আবহাওয়া অধিদপ্তর সারা দেশে শুষ্ক আবহাওয়া থাকার পূর্বাভাস দিয়েছে",
-        "title_en": "Met office predicts dry weather across the country",
-        "summary_bn": "বাংলাদেশ আবহাওয়া অধিদপ্তর ১৭ নভেম্বর সকাল ৯টা থেকে পরবর্তী ২৪ ঘণ্টার জন্য সারা দেশে শুষ্ক আবহাওয়া থাকার পূর্বাভাস দিয়েছে।",
-        "summary_en": "Bangladesh Meteorological Department forecasted dry weather over the country in next 24 hours commencing 9am on 17 November.",
+        "title_bn": "হাইকোর্ট সোয়েল রানার মৃত্যুদণ্ড বহাল রেখেছেন এবং তার স্ত্রীকে খালাস দিয়েছেন।",
+        "title_en": "High Court upholds Sohel Rana's death sentence and acquits his wife.",
+        "summary_bn": "হাইকোর্ট রামিসা আক্তার ধর্ষণ ও হত্যা মামলায় সোয়েল রানার মৃত্যুদণ্ড বহাল রেখেছেন এবং তার স্ত্রী স্বপ্ন খাতুনকে খালাস দিয়েছেন।",
+        "summary_en": "The High Court has upheld Sohel Rana's death sentence and acquitted his wife Swapna Khatun in the Ramisa Akter rape and murder case.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "climate_environment",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-17T06:30:00+00:00",
-        "lead_bn": "বাংলাদেশ আবহাওয়া অধিদপ্তর ১৭ নভেম্বর সকাল ৯টা থেকে পরবর্তী ২৪ ঘণ্টার জন্য সারা দেশে শুষ্ক আবহাওয়া থাকার পূর্বাভাস দিয়েছে।",
-        "lead_en": "Bangladesh Meteorological Department forecasted dry weather over the country in next 24 hours commencing 9am on 17 November.",
+        "published_at": "2026-11-17T07:14:11+00:00",
+        "lead_bn": "হাইকোর্ট রামিসা আক্তার ধর্ষণ ও হত্যা মামলায় সোয়েল রানার মৃত্যুদণ্ড বহাল রেখেছেন এবং তার স্ত্রী স্বপ্ন খাতুনকে খালাস দিয়েছেন।",
+        "lead_en": "The High Court has upheld Sohel Rana's death sentence and acquitted his wife Swapna Khatun in the Ramisa Akter rape and murder case.",
         "bullets_bn": [
-          "আবহাওয়া অফিসের বুলেটিনে বলা হয়েছে, সারা দেশে আবহাওয়া প্রধানত শুষ্ক এবং আকাশ সাময়িকভাবে আংশিক মেঘলা থাকতে পারে।",
-          "চট্টগ্রাম বিভাগের টেকনাফে ১৬ নভেম্বর সর্বোচ্চ তাপমাত্রা ছিল ৩২.৪ ডিগ্রি সেলসিয়াস এবং রংপুর বিভাগের তেঁতুলিয়ায় ১৭.৪ ডিগ্রি সেলসিয়াস সর্বনিম্ন তাপমাত্রা রেকর্ড করা হয়েছে।",
-          "ঢাকায় সূর্যাস্ত হবে বিকেল ৫টা ১২ মিনিটে এবং সূর্যোদয় হবে আগামীকাল সকাল ৬টা ১৫ মিনিটে।"
+          "বিচারপতি ভীষ্মদেব চক্রবর্তী ও বিচারপতি কে এম রাশেদুজ্জামান রাজার বেঞ্চ এই রায় দেন।",
+          "রাষ্ট্রপক্ষের শুনানিতে অ্যাটর্নি জেনারেল এম রুহুল কুদ্দুস কাজল ও ডেপুটি অ্যাটর্নি জেনারেল মোহাম্মদ ওসমান চৌধুরী অংশ নেন।",
+          "সোয়েল ও স্বপ্নার পক্ষে রাষ্ট্রনিযুক্ত ডিফেন্স আইনজীবী হিসেবে শুনানিতে অংশ নেন অ্যাডভোকেট হাফিজুর রহমান খান।"
         ],
         "bullets_en": [
-          "A Met office bulletin stated that the weather may remain mainly dry with temporary partly cloudy sky over the country.",
-          "The highest temperature on 16 November was 32.4 degrees Celsius in Tektal under Chattogram division, and the minimum temperature was 17.4 degrees Celsius in Tetulia under Rangpur division.",
-          "The sun sets at 5:12pm and rises at 6:15am tomorrow in Dhaka."
+          "The bench of Justice Bhishmadev Chakrabortty and Justice KM Rasheduzzaman Raja delivered the verdict.",
+          "Attorney General Md Ruhul Quddus Kazal and Deputy Attorney General Mohammad Osman Chowdhury represented the state during the hearing.",
+          "Advocate Hafizur Rahman Khan served as the state-appointed defence lawyer for Sohel and Swapna."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ঢাকার পল্লবীতে আট বছরের শিশু রামিসা আক্তারকে ধর্ষণ ও হত্যার ঘটনায় গত ৭ জুন ঢাকার নারী ও শিশু নির্যাতন দমন ট্রাইব্যুনাল সোয়েলকে মৃত্যুদণ্ড দেয় এবং তার স্ত্রী স্বপ্নকে এ অপরাধে সহায়তার দায়ে মৃত্যুদণ্ড দেয়। ঘটনার মাত্র ১৯ দিন পর এই রায় দেওয়া হয়েছিল। পল্লবীর একটি স্কুলের দ্বিতীয় শ্রেণির ছাত্রী রামিসাকে গত ১৯ মে প্রতিবেশী সোয়েলের ঘর থেকে মস্তকহীন অবস্থায় উদ্ধার করা হয়। তদন্তকারীদের মতে, সোয়েল শিশুটিকে নিজের ঘরে ডেকে নিয়ে ধর্ষণ করে এবং গলা কাটে। পরে অপরাধ লুকানোর জন্য সে মৃতদেহ টুকরো করার চেষ্টা করেছিল।",
+        "details_en": "On June 7, the Women and Children Repression Prevention Tribunal in Dhaka sentenced Sohel to death for raping and murdering Ramisa, while Swapna was sentenced to death for assisting him in the crime, just 19 days after the incident. Ramisa, a class-two student at a school in Dhaka's Pallabi, was found beheaded at the house of her neighbour Sohel on May 19. According to investigators, Sohel had called the child into his room and raped her before slitting her throat and attempting to dismember her body to conceal the crime.",
+        "hook_bn": "পল্লবীতে শিশু রামিসা ধর্ষণ ও হত্যা মামলায় সোয়েল রানার মৃত্যুদণ্ড বহাল।",
+        "question_bn": null
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T08:02:49.302909+00:00"
+      }
+    },
+    {
+      "story_id": "2e22be2b-204f-506c-8be5-06b167ca2b6c",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Japan",
+        "#ASEAN",
+        "#SanaeTakaichi",
+        "#FerdinandMarcosJr"
+      ],
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/ASEAN%20Summit.JPG",
+      "image_caption": null,
+      "published_at": "2026-11-17T05:40:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.2,
+      "rank_score": 4.5232,
+      "sources": [
+        {
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/news/japan-proposes-asia-oil-security-task-force-asean-summit-4326041",
+          "title": "Japan proposes Asia oil security task force at ASEAN summit",
+          "snippet": "Japan proposes Asia oil security task force at ASEAN summit"
+        },
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece",
+          "title": "ASEAN Summit LIVE updates: PM Modi at ASEAN-India Summit; Quad meeting likely after President Trump arrives",
+          "snippet": "ASEAN Summit LIVE updates: PM Modi at ASEAN-India Summit; Quad meeting likely after President Trump arrives"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/japans-marubeni-plans-to-invest-in-state-owned-sugar-industry",
+          "title": "Japan's Marubeni plans to invest in state-owned sugar industry",
+          "snippet": "Japan's Marubeni plans to invest in state-owned sugar industry"
+        },
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/japan-scrambles-jets-to-counter-suspected-russian-aircraft/a-79964537?maca=en-rss-en-all-1573-rdf",
+          "title": "Japan scrambles jets to counter suspected Russian aircraft",
+          "snippet": "Japan scrambles jets to counter suspected Russian aircraft"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আসিয়ান সম্মেলনে এশীয় তেল নিরাপত্তা টাস্কফোর্স গঠনের প্রস্তাব জাপানের",
+        "title_en": "Japan proposes Asia oil security task force at ASEAN summit",
+        "summary_bn": "জরুরি পরিস্থিতিতে তেলের সরবরাহ নিশ্চিত করতে এশিয়ায় তেল মজুত ও সরবরাহ সমন্বয়ের জন্য একটি টাস্কফোর্স গঠনের প্রস্তাব দিয়েছে জাপান।",
+        "summary_en": "Japan proposed creating a task force to coordinate cooperation in Asia on oil stockpiling and the release of supplies during emergencies.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T05:40:00+00:00",
+        "lead_bn": "জরুরি পরিস্থিতিতে তেলের সরবরাহ নিশ্চিত করতে এশিয়ায় তেল মজুত ও সরবরাহ সমন্বয়ের জন্য একটি টাস্কফোর্স গঠনের প্রস্তাব দিয়েছে জাপান।",
+        "lead_en": "Japan proposed creating a task force to coordinate cooperation in Asia on oil stockpiling and the release of supplies during emergencies.",
+        "bullets_bn": [
+          "প্রধানমন্ত্রী সানায়ে তাকাচি আসিয়ান সম্মেলনে ফিলিপাইনের একটি যৌথ তেল মজুত প্রকল্পের সাথে এই উদ্যোগ সমন্বয় করার কথা জানান।",
+          "জাপানের প্রাকৃতিক সম্পদ ও জ্বালানি সংস্থার তথ্য অনুযায়ী, মধ্যপ্রাচ্য থেকে হরমুজ প্রণালী দিয়ে আসা অপরিশোধিত তেলের প্রায় ৯০ শতাংশ এশিয়াগামী।",
+          "ফিলিপাইনের রাষ্ট্রপতি ফার্দিনান্দ মার্কোস জুনিয়র আঞ্চলিক জ্বালানি নিরাপত্তা জোরদার করতে কৌশলগত পেট্রোলিয়াম রিজার্ভ নিয়ে কাজ করার কথা জানান।"
+        ],
+        "bullets_en": [
+          "Prime Minister Sanae Takaichi told leaders that the initiative would be coordinated with a Philippine-led joint oil stockpiling scheme.",
+          "About 90% of crude oil going through the Strait of Hormuz is destined for Asia, according to Japan's Agency for Natural Resources and Energy.",
+          "Philippine President Ferdinand Marcos Jr. said his country was making progress on its strategic petroleum reserve."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইরান যুদ্ধ মধ্যপ্রাচ্যের তেল ও গ্যাস সরবরাহের দুর্বলতা উন্মোচন করার পর এশীয় দেশগুলো জ্বালানি নিরাপত্তা জোরদার করার চেষ্টা করছে। আসিয়ান শীর্ষ সম্মেলনের অংশ হিসেবে এশিয়া জিরো ইমিশন কমিউনিটি বৈঠকে এই প্রস্তাব দেওয়া হয়।",
+        "details_en": "Asian countries are seeking to strengthen energy security after the Iran war exposed their vulnerability to disruptions in Middle Eastern oil and gas supplies passing through the Strait of Hormuz.",
+        "hook_bn": "মধ্যপ্রাচ্যের হরমুজ প্রণালী দিয়ে আসা অপরিশোধিত তেলের ৯০ শতাংশই এশিয়াগামী।",
+        "question_bn": "আঞ্চলিক জ্বালানি নিরাপত্তা নিশ্চিত করতে দেশগুলোর যৌথভাবে কাজ করার এই উদ্যোগকে আপনি কীভাবে দেখেন?"
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T08:02:49.302909+00:00"
+      }
+    },
+    {
+      "story_id": "1f71ac93-5afe-58fe-929c-5222fd5f0ec9",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.channelionline.com/2026/06/Ramisa.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-11-17T06:52:56+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 4.0772,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/ra-pe-and-mu-rder-of-child-ramisa-high-court-upholds-sohels-death-sentence-wife-swapna-acquitted/",
+          "title": "শিশু রামিসা ধর্ষণ-হত্যা: হাইকোর্টের রায়ে সোহেলের মৃত্যুদণ্ড বহাল, খালাস পেলেন স্ত্রী স্বপ্না",
+          "snippet": "শিশু রামিসা ধর্ষণ-হত্যা: হাইকোর্টের রায়ে সোহেলের মৃত্যুদণ্ড বহাল, খালাস পেলেন স্ত্রী স্বপ্না"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "হাইকোর্টে সোহেলের মৃত্যুদণ্ড বহাল ও স্বপ্নার খালাস",
+        "title_en": "High Court upholds Sohel death sentence and acquits Swapna",
+        "summary_bn": "হাইকোর্ট পল্লবীর রামিসা ধর্ষণ ও হত্যা মামলায় সোহেল রানার মৃত্যুদণ্ড বহাল রেখেছেন এবং তার স্ত্রী স্বপ্না খাতুনকে খালাস দিয়েছেন।",
+        "summary_en": "The High Court upheld Sohel Rana's death sentence and acquitted his wife Swapna Khatun in the Ramisa rape and murder case in Pallabi.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T06:52:56+00:00",
+        "lead_bn": "হাইকোর্ট পল্লবীর রামিসা ধর্ষণ ও হত্যা মামলায় সোহেল রানার মৃত্যুদণ্ড বহাল রেখেছেন এবং তার স্ত্রী স্বপ্না খাতুনকে খালাস দিয়েছেন।",
+        "lead_en": "The High Court upheld Sohel Rana's death sentence and acquitted his wife Swapna Khatun in the Ramisa rape and murder case in Pallabi.",
+        "bullets_bn": [
+          "বিচারপতি ভীষ্মদেব চক্রবর্তী ও বিচারপতি কে এম রাশেদুজ্জামান রাজার বেঞ্চ ১৭ নভেম্বর এ রায় ঘোষণা করেন।",
+          "প্রধান বিচারপতি জুবায়ের রহমান চৌধুরী গত ১০ জুন নারী ও শিশুদের বিরুদ্ধে সংঘটিত অপরাধের মামলায় ডেথ রেফারেন্স ও আপিল শুনানির জন্য এই বেঞ্চ গঠন করেন।",
+          "তদন্তকারীরা জানান, সোহেল রামিসাকে ঘরে নিয়ে ধর্ষণ করেন এবং পরে গলা কেটে হত্যা করে লাশ টুকরো করার চেষ্টা করেন।"
+        ],
+        "bullets_en": [
+          "The bench of Justice Bhishmadev Chakrabortty and Justice K M Rashiduzzaman Raja announced the verdict on ১৭ নভেম্বর.",
+          "Chief Justice Jubaer Rahman Chowdhury formed this bench on ১০ জুন for hearing and disposing of death references and appeals in crimes against women and children.",
+          "Investigators stated that Sohel took Ramisa to his room, raped her, later slit her throat and tried to chop the body."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "গত ১৯ মে সকালে পল্লবীর একটি ফ্ল্যাট থেকে দ্বিতীয় শ্রেণির শিক্ষার্থী রামিসার খণ্ডিত মরদেহ উদ্ধার করে পুলিশ। হত্যাকাণ্ডের একদিন পর শিশুটির বাবা আব্দুল হান্নান পল্লবী থানায় মামলা করেন। গত ৭ জুন ঢাকা মহানগর শিশু সহিংসতা দমন ট্রাইব্যুনালের বিচারক মাসরুর সালেকীন প্রধান আসামি সোহেলকে মৃত্যুদণ্ড এবং সহায়তা করার দায়ে স্বপ্নাকেও মৃত্যুদণ্ড দিয়েছিলেন। পরে তারা আপিল করেন।",
+        "details_en": "On the morning of ১৯ মে, police recovered the dismembered body of second-grader Ramisa from a flat in Pallabi. A day after the murder, the child's father Abdul Hannan filed a case at Pallabi Police Station. On ৭ জুন, Judge Masrur Salekin of Dhaka Metropolitan Child Violence Suppression Tribunal sentenced prime accused Sohel to death and Swapna to death for aiding the crime. Later they appealed.",
+        "hook_bn": "পল্লবীর রামিসা ধর্ষণ ও হত্যা মামলায় সোহেলের মৃত্যুদণ্ড বহাল",
+        "question_bn": null
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T08:02:49.302909+00:00"
+      }
+    },
+    {
+      "story_id": "d6ebc473-7e1e-596e-85a2-4c0a1b53923e",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#QuadSummit",
+        "#NarendraModi",
+        "#DonaldTrump",
+        "#Manila"
+      ],
+      "image_url": "https://th-i.thgim.com/public/incoming/wcrls3/article71710486.ece/alternates/LANDSCAPE_1200/2026-11-17T052751Z_536179175_RC2HPOAD4R5X_RTRMADP_3_ASEAN-SUMMIT.JPG",
+      "image_caption": null,
+      "published_at": "2026-11-17T06:38:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 3.4,
+      "rank_score": 1.0666,
+      "sources": [
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/what-is-quad-manila-agenda-why-does-2026-summit-matter/article71710464.ece",
+          "title": "What is Quad, what is on the Manila agenda, and why does the 2026 summit matter?",
+          "snippet": "What is Quad, what is on the Manila agenda, and why does the 2026 summit matter?"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ম্যানিলায় কোয়াড শীর্ষ সম্মেলনে মিলিত হবেন বিশ্বনেতারা",
+        "title_en": "World leaders will meet at the Quad Summit in Manila",
+        "summary_bn": "ভারতের প্রধানমন্ত্রী নরেন্দ্র মোদি মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পসহ অন্যান্য নেতাদের সঙ্গে ম্যানিলায় কোয়াড শীর্ষ বৈঠকে যোগ দেবেন।",
+        "summary_en": "Indian Prime Minister Narendra Modi will meet U.S. President Donald Trump and other leaders at the Quad Summit in Manila.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T06:38:00+00:00",
+        "lead_bn": "ভারতের প্রধানমন্ত্রী নরেন্দ্র মোদি মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পসহ অন্যান্য নেতাদের সঙ্গে ম্যানিলায় কোয়াড শীর্ষ বৈঠকে যোগ দেবেন।",
+        "lead_en": "Indian Prime Minister Narendra Modi will meet U.S. President Donald Trump and other leaders at the Quad Summit in Manila.",
+        "bullets_bn": [
+          "যুক্তরাষ্ট্রের উইলমিংটনে ২০২৪ সালের সেপ্টেম্বরের পর এটি কোয়াড নেতাদের প্রথম বৈঠক।",
+          "বাণিজ্যিক জাহাজ রক্ষা ও খনিজ সরবরাহ শৃঙ্খল সুরক্ষিত করা এজেন্ডায় থাকবে বলে কর্মকর্তারা জানিয়েছেন।",
+          "ইরান ও ইউক্রেন সংঘাতের সঙ্গে জড়িত হামলায় অন্তত ৩০ ভারতীয় নাবিক নিহত হয়েছেন।"
+        ],
+        "bullets_en": [
+          "This will be the first meeting of Quad leaders since September 2024 in Wilmington, United States.",
+          "Officials stated that securing critical mineral supply chains and safeguarding commercial shipping routes will feature prominently.",
+          "At least 30 Indian seafarers have been killed in attacks linked to conflicts involving Iran and Ukraine."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "কোয়াড গ্রুপ ভারত, অস্ট্রেলিয়া, জাপান ও যুক্তরাষ্ট্রকে একত্র করে এবং ২০০৪ সালের ভারত মহাসাগরীয় সুনামির পর ত্রাণ সমন্বয়ের মাধ্যমে এর উৎপত্তি হয়। এই সম্মেলনে ডোনাল্ড ট্রাম্প মার্কিন প্রেসিডেন্টের দ্বিতীয় মেয়াদ শুরুর পর এবং সানে তাকাইচি জাপানের প্রধানমন্ত্রী হিসেবে দায়িত্ব নেওয়ার পর প্রথম যোগ দেবেন। পূর্বের শীর্ষ সম্মেলনটি ২০২৪ সালে মার্কিন প্রেসিডেন্ট জো বাইডেন এবং জাপানের প্রধানমন্ত্রী ফুমিও কিশিদার সময়ে অনুষ্ঠিত হয়েছিল।",
+        "details_en": "The Quad brings together India, Australia, Japan and the United States, tracing its origins to relief coordination after the 2004 Indian Ocean tsunami. This summit marks the first meeting since Mr. Trump began his second term and Ms. Takaichi assumed office as Japan's Prime Minister. The previous summit was held in Wilmington in 2024 under U.S. President Joe Biden and Japanese Prime Minister Fumio Kishida.",
+        "hook_bn": "সংঘাতের জেরে অন্তত ৩০ ভারতীয় নাবিক নিহত হয়েছেন।",
+        "question_bn": null
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T08:02:49.302909+00:00"
+      }
+    },
+    {
+      "story_id": "f7dc5513-adf1-5ef1-9cb9-ff7f91fb2178",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#JPMorganChase",
+        "#Zelle",
+        "#USBanks"
+      ],
+      "image_url": "https://th-i.thgim.com/public/incoming/5ir5bx/article71710309.ece/alternates/LANDSCAPE_1200/2026-10-27T154639Z_946471081_RC2HGKAET3NA_RTRMADP_3_JPMORGAN-CHASE-BANKER-LAWSUIT.JPG",
+      "image_caption": null,
+      "published_at": "2026-11-17T07:21:24+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.278,
+      "sources": [
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/sci-tech/technology/what-to-know-about-the-online-banking-delays-affecting-major-us-banks/article71710293.ece",
+          "title": "What to know about the online banking delays affecting major U.S. banks",
+          "snippet": "What to know about the online banking delays affecting major U.S. banks"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "চেজে প্রযুক্তিগত সমস্যার কারণে প্রধান মার্কিন ব্যাংকগুলোর অনলাইন ব্যাংকিংয়ে বিঘ্ন ঘটেছে",
+        "title_en": "Technical issue at Chase affects online banking at major U.S. banks",
+        "summary_bn": "জেপিমরগান চেজে একটি প্রযুক্তিগত সমস্যার কারণে প্রধান মার্কিন ব্যাংকগুলোর অনলাইন অ্যাকাউন্ট এবং জেলা সেবায় গ্রাহকদের প্রবেশে সমস্যা হয়েছে।",
+        "summary_en": "A technical issue at JPMorgan Chase caused customers difficulty accessing online accounts at several major U.S. banks and Zelle.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T07:21:24+00:00",
+        "lead_bn": "জেপিমরগান চেজে একটি প্রযুক্তিগত সমস্যার কারণে প্রধান মার্কিন ব্যাংকগুলোর অনলাইন অ্যাকাউন্ট এবং জেলা সেবায় গ্রাহকদের প্রবেশে সমস্যা হয়েছে।",
+        "lead_en": "A technical issue at JPMorgan Chase caused customers difficulty accessing online accounts at several major U.S. banks and Zelle.",
+        "bullets_bn": [
+          "জেপিমরগান চেজ জানিয়েছে যে একটি সফটওয়্যার বাগ তাদের অভ্যন্তরীণ হার্ডওয়্যার সিস্টেমে প্রভাব ফেলেছে।",
+          "চেজের মুখপাত্র জো ইভানজেলিস্টা বলেছেন যে অন্য ব্যাংকগুলো কেবল চেজের সাথে লেনদেনের ক্ষেত্রে ধীরগতির শিকার হতে পারে।",
+          "কোম্পানিটি ব্যাংকিং সেবাগুলো অনলাইনে ফিরিয়ে আনার জন্য কাজ করছে।"
+        ],
+        "bullets_en": [
+          "JPMorgan Chase said a software bug was affecting its internal hardware systems.",
+          "Chase spokesperson Joe Evangelisti said other banks may have been impacted only in transactions involving Chase.",
+          "The company was working to bring banking services back online."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "সারা দেশে শুষ্ক আবহাওয়া থাকার পূর্বাভাস দিয়েছে আবহাওয়া অধিদপ্তর।",
-        "question_bn": null
+        "hook_bn": "মার্কিন ব্যাংকগুলোর অনলাইন ব্যাংকিংয়ে দেখা দিয়েছে বড় ধরনের সমস্যা।",
+        "question_bn": "অনলাইন ব্যাংকিং সেবায় এ ধরনের বিঘ্ন এড়াতে ব্যাংকগুলোর কী ধরনের প্রস্তুতি থাকা উচিত বলে আপনি মনে করেন?"
       },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-17T07:01:51.668898+00:00"
+        "checked_at": "2026-11-17T08:02:49.302909+00:00"
       }
     }
   ]
