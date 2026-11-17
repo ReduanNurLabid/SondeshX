@@ -1,75 +1,216 @@
 {
-  "updated_at": "2026-11-17T21:00:43.608672",
-  "total_stories": 5,
+  "updated_at": "2026-11-17T22:00:58.908696",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "a8803636-9cce-56ca-b5bd-4d523e17c8b5",
+      "story_id": "9edef8cc-ad8e-5d79-9d5a-205cc95961b8",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Savar",
+        "#Ashulia",
+        "#GarmentWorkers"
+      ],
+      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_d739a9c03913c6de0c784d7258421434.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-17T22:01:16.287943+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 8.5,
+      "rank_score": 7.2218,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/80-factories-shut-in-savar-ashulia-as-police-suspect-instigation-behind-clashes",
+          "title": "Fresh Savar, Ashulia unrest shuts 80 factories",
+          "snippet": "Fresh Savar, Ashulia unrest shuts 80 factories"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সাভার ও আশুলিয়ায় ন্যূনতম মজুরির দাবিতে ৮০টি কারখানা বন্ধ",
+        "title_en": "Eighty factories closed in Savar and Ashulia over minimum wage demands",
+        "summary_bn": "সাভার ও আশুলিয়ায় ৩০ হাজার টাকা ন্যূনতম মাসিক মজুরির দাবিতে শ্রমিকদের বিক্ষোভের মুখে ৮০টি কারখানা বন্ধ ঘোষণা করা হয়েছে।",
+        "summary_en": "Authorities declared 80 factories closed in Savar and Ashulia after workers protested demanding a minimum monthly wage of Tk 30,000.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T22:01:16.287943+00:00",
+        "lead_bn": "সাভার ও আশুলিয়ায় ৩০ হাজার টাকা ন্যূনতম মাসিক মজুরির দাবিতে শ্রমিকদের বিক্ষোভের মুখে ৮০টি কারখানা বন্ধ ঘোষণা করা হয়েছে।",
+        "lead_en": "Authorities declared 80 factories closed in Savar and Ashulia after workers protested demanding a minimum monthly wage of Tk 30,000.",
+        "bullets_bn": [
+          "শ্রমিকেরা সড়ক অবরোধ করেন, পুলিশের সঙ্গে সংঘর্ষে জড়ান এবং কয়েকটি গাড়ি ও পোশাক কারখানা ভাঙচুর করেন।",
+          "পরিস্থিতি নিয়ন্ত্রণে আনতে আইনশৃঙ্খলা রক্ষাকারী বাহিনী এ পর্যন্ত ১১৭ জনকে গ্রেপ্তার করেছে বলে জানানো হয়েছে।",
+          "আশুলিয়া ইন্ডাস্ট্রিয়াল পুলিশ-১ এর পুলিশ সুপার মোহাম্মদ মোমিনুল ইসলাম ভূঁইয়া জানান, পুলিশ পরিস্থিতি নিয়ন্ত্রণে সাভার ও আশুলিয়ায় সাউন্ড গ্রেনেড ও টিয়ার শেল ব্যবহার করেছে।"
+        ],
+        "bullets_en": [
+          "Workers staged road blockades, clashed with police, and vandalised vehicles and garment factories during the unrest.",
+          "Law-enforcing agencies have arrested 117 people so far to bring the situation under control.",
+          "Mohammad Mominul Islam Bhuiyan, superintendent of police for Ashulia Industrial Police-1, stated that police used sound grenades and tear gas shells."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "সাভার ও আশুলিয়ায় কয়েক দিন শান্ত থাকার পর ৩০ হাজার টাকা ন্যূনতম মাসিক মজুরির দাবিকে কেন্দ্র করে নতুন করে অস্থিরতা শুরু হয়। সকাল থেকে শ্রমিকেরা রাস্তায় নেমে ঢাকা-আরিচা মহাসড়ক আধা ঘণ্টা অবরোধ করেন এবং বিভিন্ন স্থানে যানবাহন ও কারখানায় ইটপাটকেল নিক্ষেপ করেন। কিছু কারখানা ছুটি ঘোষণা করার পর শ্রমিকেরা চারাবাগ ও সাভারের বিভিন্ন পয়েন্টে সড়কে অবস্থান নেন।",
+        "details_en": "The Savar and Ashulia industrial belts flared up once again over demands for a minimum monthly wage of Tk 30,000 after several days of calm. Since workers staged road blockades, blocked the Dhaka-Aricha Highway for half an hour, and hurled bricks at passing vehicles and factories after several garment facilities declared a holiday.",
+        "hook_bn": "৩০ হাজার টাকা ন্যূনতম মজুরির দাবিতে সাভার ও আশুলিয়ায় ৮০টি কারখানা বন্ধ ঘোষণা করা হয়েছে।",
+        "question_bn": "ন্যূনতম মজুরি ও শ্রমিক অসন্তোষ নিরসনে শ্রমিক ও মালিকপক্ষের মধ্যে আলোচনার পরিবেশ কীভাবে আরও উন্নত করা যেতে পারে বলে আপনি মনে করেন?"
+      },
+      "desk_importance": 8.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 9.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T22:02:34.121910+00:00"
+      }
+    },
+    {
+      "story_id": "35a2a0c8-d5ae-52f9-a767-4ddbac355c2f",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
-        "economy_business",
         "society_education"
       ],
       "region": "national",
       "tags": [
-        "#TariqueRahman",
-        "#Nawabganj",
-        "#JatiyaSangsadBhaban"
+        "#Netrokona",
+        "#Barhatta",
+        "#OtithpurRailwayStation"
       ],
-      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_0b496f3b7d9fc53f1dde8cc32961c4f0.jpg",
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Netrokona%20rail%20station%20fire.png",
       "image_caption": null,
-      "published_at": "2026-11-17T21:01:00.984948+00:00",
+      "published_at": "2026-11-17T20:33:15+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.3028,
+      "importance_score": 7.25,
+      "rank_score": 4.8271,
       "sources": [
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/tarique-urges-students-to-be-responsible-towards-society-country",
-          "title": "Tarique urges students to be responsible towards society, country",
-          "snippet": "Tarique urges students to be responsible towards society, country"
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/fire-set-closed-railway-station-netrokona-4326841",
+          "title": "Fire set at closed railway station in Netrokona",
+          "snippet": "Fire set at closed railway station in Netrokona"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821594/%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%93-%E0%A6%B0%E0%A7%87%E0%A6%B2%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A7%81%E0%A6%A8",
+          "title": "নেত্রকোনায় আবারও রেললাইনে আগুন",
+          "snippet": "নেত্রকোনায় আবারও রেললাইনে আগুন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শিক্ষার্থীদের সমাজ ও দেশের প্রতি দায়িত্বশীল হওয়ার আহ্বান প্রধানমন্ত্রীর",
-        "title_en": "Prime Minister Tarique urges students to be responsible towards society and country",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান শিক্ষার্থীদের শুধু পড়াশোনায় সীমাবদ্ধ না থেকে খেলাধুলা ও সংস্কৃতিতে অংশ নিয়ে দায়িত্বশীল নাগরিক হওয়ার আহ্বান জানিয়েছেন।",
-        "summary_en": "Prime Minister Tarique Rahman urged students not to confine themselves to academic studies but to become responsible citizens.",
+        "title_bn": "নেত্রকোনায় বন্ধ রেলস্টেশনে আগুন দিল দুর্বৃত্তরা",
+        "title_en": "Miscreants set fire to closed railway station in Netrokona",
+        "summary_bn": "নেত্রকোনার বারহাট্টা উপজেলায় বন্ধ অতিতপুর রেলস্টেশনের প্ল্যাটফর্মে পেট্রল বা দাহ্য পদার্থ ঢেলে আগুন ধরিয়ে দিয়েছে দুর্বৃত্তরা।",
+        "summary_en": "Miscreants allegedly set fire to the platform of the closed Otithpur Railway Station in Netrokona's Barhatta upazila after pouring flammable substance.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law",
-          "economy_business",
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-17T21:01:00.984948+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান শিক্ষার্থীদের শুধু পড়াশোনায় সীমাবদ্ধ না থেকে খেলাধুলা ও সংস্কৃতিতে অংশ নিয়ে দায়িত্বশীল নাগরিক হওয়ার আহ্বান জানিয়েছেন।",
-        "lead_en": "Prime Minister Tarique Rahman urged students not to confine themselves to academic studies but to become responsible citizens.",
+        "published_at": "2026-11-17T20:33:15+00:00",
+        "lead_bn": "নেত্রকোনার বারহাট্টা উপজেলায় বন্ধ অতিতপুর রেলস্টেশনের প্ল্যাটফর্মে পেট্রল বা দাহ্য পদার্থ ঢেলে আগুন ধরিয়ে দিয়েছে দুর্বৃত্তরা।",
+        "lead_en": "Miscreants allegedly set fire to the platform of the closed Otithpur Railway Station in Netrokona's Barhatta upazila after pouring flammable substance.",
         "bullets_bn": [
-          "ঢাকার নবাবগঞ্জের তিনটি স্কুলের জিপিএ-৫ প্রাপ্ত ৫০ জন শিক্ষার্থী জাতীয় সংসদ ভবনে প্রধানমন্ত্রীর সঙ্গে সাক্ষাৎ করেন।",
-          "প্রধানমন্ত্রী বলেন, শিক্ষার্থীরা ভবিষ্যতে চিকিৎসক, প্রকৌশলী, আইনজীবী, বিজ্ঞানী বা শিক্ষক হিসেবে বিভিন্ন পেশায় যোগ দেবেন।",
-          "সবার নিজ নিজ অবস্থান থেকে সমাজ ও পরিবেশের কল্যাণে অবদান রাখা উচিত বলে উল্লেখ করেন তিনি।"
+          "ঘটনার একটি ৪১ সেকেন্ডের ভিডিও সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে পড়ার পর বিষয়টি প্রকাশ্যে আসে।",
+          "পুলিশ জানায়, তিনটি স্তম্ভে বাঁধা চটের বস্তায় পেট্রল বা দাহ্য পদার্থ ঢেলে আগুন দেওয়া হয়েছিল।",
+          "রেলওয়ে কর্তৃপক্ষ জানায়, আগুনে প্ল্যাটফর্মের বড় কোনো ক্ষতি হয়নি এবং ট্রেন চলাচল স্বাভাবিক রয়েছে।"
         ],
         "bullets_en": [
-          "Fifty students who achieved GPA-5 from three schools in Nawabganj of Dhaka met the Prime Minister at the Jatiya Sangsad Bhaban.",
-          "The Prime Minister said students would join different professions like doctors, engineers, lawyers, scientists or teachers after completing their studies.",
-          "He stated that everyone could contribute to the welfare of society by making sincere efforts from their respective positions."
+          "The incident came to light after a 41-second video showing the arson spread on social media.",
+          "Police said evidence showed a flammable substance was poured on gunny sacks tied to three pillars.",
+          "Railway authorities stated the fire caused no major damage and rail communications remained normal."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ঢাকার নবাবগঞ্জের কালকোপা হাই স্কুল, বান্দুরা হলি ক্রস হাই স্কুল অ্যান্ড কলেজ এবং সেন্ট ইউফ্রাসিজ গার্লস হাই স্কুল অ্যান্ড কলেজের জিপিএ-৫ প্রাপ্ত ৫০ জন শিক্ষার্থী প্রধানমন্ত্রীর সঙ্গে সাক্ষাৎ করেন। ডেপুটি প্রেস সেক্রেটারি হাসান শিপলু এই তথ্য জানান।",
-        "details_en": "Fifty students who achieved GPA-5 from Kalakopa High School, Bandura Holy Cross High School and College, and St Euphrasia’s Girls’ High School and College met the Prime Minister, according to Deputy Press Secretary Hasan Shiplu.",
-        "hook_bn": "নবাবগঞ্জের ৫০ জন জিপিএ-৫ প্রাপ্ত শিক্ষার্থী দেখা করেছেন প্রধানমন্ত্রীর সাথে।",
-        "question_bn": "শিক্ষার্থীদের পড়াশোনার পাশাপাশি সমাজ ও পরিবেশের দায়িত্ব নেওয়া কতটা গুরুত্বপূর্ণ বলে আপনি মনে করেন?"
+        "details_bn": "এর আগে বারহাট্টার পাটলি এবং নেত্রকোণা সদর উপজেলার চাল্লিসায় তিন দফায় রেললাইনে আগুন দেওয়ার ঘটনা ঘটেছিল।",
+        "details_en": "Earlier, railway tracks had been set on fire on three occasions in Patli under Barhatta upazila and Challisha under Netrokona Sadar upazila.",
+        "hook_bn": "নেত্রকোনায় বন্ধ রেলস্টেশনের প্ল্যাটফর্মে আগুন দিল দুর্বৃত্তরা",
+        "question_bn": null
       },
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-17T21:02:52.754908+00:00"
+        "checked_at": "2026-11-17T22:02:34.121910+00:00"
       }
     },
     {
-      "story_id": "d1bc5f2d-5299-51ea-ac80-a5cfec7cbbce",
+      "story_id": "4dc6e629-ed76-5edd-b7db-1d6d6941bedd",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bmF0aW9uYWwlMjBkaXJlY3RvcmF0ZSUyMGNvbnN1bWVyJTIwcmlnaHRzJTIwYnVzaW5lc3N8ZW58MXwwfHx8MTc5NDk1MjkyNnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-17T21:35:09+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.0,
+      "rank_score": 4.7762,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/economy/news/1180708",
+          "title": "সারাদেশে ৩৭ জেলায় ৯৯টি প্রতিষ্ঠানকে জরিমানা",
+          "snippet": "সারাদেশে ৩৭ জেলায় ৯৯টি প্রতিষ্ঠানকে জরিমানা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জাতীয় ভোক্তা-অধিকার সংরক্ষণ অধিদপ্তর ৩৭ জেলায় ৯৯টি প্রতিষ্ঠানকে জরিমানা করেছে",
+        "title_en": "National Directorate of Consumer Rights Protection fined 99 institutions in 37 districts",
+        "summary_bn": "জাতীয় ভোক্তা-অধিকার সংরক্ষণ অধিদপ্তর ভোজ্যতেলসহ নিত্যপ্রয়োজনীয় পণ্যের বাজারের মূল্য স্থিতিশীল রাখতে দেশব্যাপী বিশেষ তদারক কার্যক্রম পরিচালনা করেছে।",
+        "summary_en": "The National Directorate of Consumer Rights Protection conducted special monitoring nationwide to keep the prices of edible oil and essential commodities stable.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T21:35:09+00:00",
+        "lead_bn": "জাতীয় ভোক্তা-অধিকার সংরক্ষণ অধিদপ্তর ভোজ্যতেলসহ নিত্যপ্রয়োজনীয় পণ্যের বাজারের মূল্য স্থিতিশীল রাখতে দেশব্যাপী বিশেষ তদারক কার্যক্রম পরিচালনা করেছে।",
+        "lead_en": "The National Directorate of Consumer Rights Protection conducted special monitoring nationwide to keep the prices of edible oil and essential commodities stable.",
+        "bullets_bn": [
+          "ঢাকা মহানগরসহ দেশের ৩৭টি জেলায় অভিযান পরিচালনা করা হয়েছে।",
+          "অভিযানে মোট ৯৯টি প্রতিষ্ঠানকে জরিমানা করা হয়েছে।",
+          "পণ্যের স্বাভাবিক সরবরাহ নিশ্চিত করতে এই কার্যক্রম পরিচালনা করা হয়।"
+        ],
+        "bullets_en": [
+          "Operations were conducted in 37 districts of the country including Dhaka metropolis.",
+          "A total of 99 institutions were fined during the drive.",
+          "This activity was carried out to ensure the normal supply of goods."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ভোজ্যতেলসহ নিত্যপ্রয়োজনীয় পণ্যের বাজারে মূল্য স্থিতিশীল রাখা এবং পণ্যের স্বাভাবিক সরবরাহ নিশ্চিত করতে ঢাকা মহানগরসহ দেশের ৩৭টি জেলায় বিশেষ তদারক কার্যক্রম পরিচালনা করেছে জাতীয় ভোক্তা-অধিকার সংরক্ষণ অধিদপ্তর।",
+        "details_en": "To keep prices stable and ensure normal supply of edible oil and essential commodities in the market, the National Directorate of Consumer Rights Protection conducted special monitoring activities in 37 districts of the country including Dhaka metropolis.",
+        "hook_bn": "ভোক্তা অধিকারের অভিযানে ৩৭ জেলায় ৯৯টি প্রতিষ্ঠান জরিমানা",
+        "question_bn": "আপনার এলাকার বাজারে নিত্যপ্রয়োজনীয় পণ্যের দাম কেমন রয়েছে?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T22:02:34.121910+00:00"
+      }
+    },
+    {
+      "story_id": "ffa1794d-191b-5374-a9a8-da90815b9982",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -79,268 +220,206 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/detention-20261118025446.jpg?cid=498774",
+      "image_url": "https://images.unsplash.com/photo-1693585172757-b9e057feb878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFybGlhbWVudCUyMGxhdyUyMGNvdXJ0JTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk0OTQ2Mzk3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-17T20:54:47+00:00",
+      "published_at": "2026-11-17T19:10:11+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.289,
+      "importance_score": 7.0,
+      "rank_score": 4.154,
       "sources": [
         {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/country/498774",
-          "title": "নাটোরে গুলিবর্ষণ ও ককটেল বিস্ফোরণের ঘটনায় গ্রেপ্তার ২",
-          "snippet": "নাটোরে গুলিবর্ষণ ও ককটেল বিস্ফোরণের ঘটনায় গ্রেপ্তার ২"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1180704",
+          "title": "আওয়ামী লীগ নেতাকর্মীদের ছোড়া ককটেল বিস্ফোরণে কৃষকদল নেতা নিহত",
+          "snippet": "আওয়ামী লীগ নেতাকর্মীদের ছোড়া ককটেল বিস্ফোরণে কৃষকদল নেতা নিহত"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নাটোরে গুলিবর্ষণ ও ককটেল বিস্ফোরণের মামলায় দুই আসামি গ্রেপ্তার",
-        "title_en": "Two accused arrested in Natore shooting and cocktail blast case",
-        "summary_bn": "নাটোরের দত্তপাড়া বাজারে গুলিবর্ষণ ও ককটেল বিস্ফোরণের ঘটনায় দায়ের করা মামলায় এজাহারনামীয় দুই আসামিকে গ্রেপ্তার করেছে পুলিশ।",
-        "summary_en": "Police have arrested two accused named in the case filed over shooting and cocktail explosions in Natore's Duttapara Bazar.",
+        "title_bn": "ভাঙ্গায় ককটেল বিস্ফোরণে কৃষকদল নেতা নিহত",
+        "title_en": "Krishak Dal leader killed in cocktail explosion in Bhanga",
+        "summary_bn": "ফরিদপুরের ভাঙ্গায় কার্যক্রম নিষিদ্ধ আওয়ামী লীগ নেতাকর্মীদের ছোড়া ককটেল বিস্ফোরণে রাজু মোল্যা নামে এক কৃষকদল নেতা নিহত হয়েছেন।",
+        "summary_en": "Krishak Dal leader Raju Molla was killed in a cocktail explosion thrown by activists of the banned Awami League in Bhanga, Faridpur.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-17T20:54:47+00:00",
-        "lead_bn": "নাটোরের দত্তপাড়া বাজারে গুলিবর্ষণ ও ককটেল বিস্ফোরণের ঘটনায় দায়ের করা মামলায় এজাহারনামীয় দুই আসামিকে গ্রেপ্তার করেছে পুলিশ।",
-        "lead_en": "Police have arrested two accused named in the case filed over shooting and cocktail explosions in Natore's Duttapara Bazar.",
+        "published_at": "2026-11-17T19:10:11+00:00",
+        "lead_bn": "ফরিদপুরের ভাঙ্গায় কার্যক্রম নিষিদ্ধ আওয়ামী লীগ নেতাকর্মীদের ছোড়া ককটেল বিস্ফোরণে রাজু মোল্যা নামে এক কৃষকদল নেতা নিহত হয়েছেন।",
+        "lead_en": "Krishak Dal leader Raju Molla was killed in a cocktail explosion thrown by activists of the banned Awami League in Bhanga, Faridpur.",
         "bullets_bn": [
-          "জেলা গোয়েন্দা পুলিশ ১৮ নভেম্বর দিবাগত রাতে গোয়ালডাঙ্গা এলাকা থেকে ওমর ফারুক ভূঁইয়াকে গ্রেপ্তার করে।",
-          "পুলিশ জানায়, ওমর ফারুক হরিশপুর ইউনিয়নের ১ নম্বর ওয়ার্ড আওয়ামী লীগের সহ-সভাপতি এবং মামলার ১০ নম্বর আসামি।",
-          "১৭ নভেম্বর দিবাগত রাতে সদর থানা পুলিশ কাঁঠালবাড়িয়া এলাকা থেকে মো. হানিফ ভূঁইয়া নামে অপর আসামিকে গ্রেপ্তার করে।"
+          "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতাকর্মীরা মহাসড়কে আগুন জ্বালিয়ে ও দেশীয় অস্ত্র হাতে বিক্ষোভ করেন।",
+          "বিক্ষোভের সময় হামলা ও ককটেল বিস্ফোরণের ঘটনা ঘটে বলে অভিযোগে বলা হয়েছে।",
+          "নিহত রাজু মোল্যা কৃষক দলের একজন নেতা ছিলেন।"
         ],
         "bullets_en": [
-          "District Detective Branch police arrested Omar Faruk Bhuiyan from the Goaldanga area on the night of November 18.",
-          "Police stated that Omar Faruk is the vice-president of Harishpur union's ward 1 Awami League and accused number 10 in the case.",
-          "On the night of November 17, Sadar police station police arrested another accused named Md. Hanif Bhuiyan from the Kathalbaria area."
+          "Activists of the banned Awami League demonstrated on the highway by lighting fires and carrying domestic weapons.",
+          "The incident of attack and cocktail explosion took place during the demonstration, according to allegations.",
+          "The deceased Raju Molla was a leader of the Krishak Dal."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "১৬ নভেম্বর রাত সাড়ে ১০টার দিকে নাটোর সদর উপজেলার দত্তপাড়া বাজারে ঢাকার দিক থেকে আসা কয়েকটি গাড়ি থেকে নেমে মুখোশধারীরা জয় বাংলা ও জয় বঙ্গবন্ধু স্লোগান দিয়ে ঝটিকা মিছিল করেন। এ সময় ফাঁকা গুলি ও ককটেল বিস্ফোরণের ঘটনা ঘটে। এই ঘটনায় নাটোর সদর থানায় সন্ত্রাসবিরোধী আইনে মামলা দায়ের করা হয়।",
-        "details_en": "On November 16 at around 10:30 pm, masked individuals getting off vehicles coming from Dhaka direction at Duttapara Bazar in Natore Sadar upazila brought out a flash procession chanting Joy Bangla and Joy Bogabandhu slogans. Blank shots and cocktail explosions occurred at that time. A case was filed under the Anti-Terrorism Act at Natore Sadar police station over this incident.",
-        "hook_bn": "নাটোরে গুলিবর্ষণ ও ককটেল বিস্ফোরণের মামলায় দুই আসামি গ্রেপ্তার",
+        "details_bn": "ফরিদপুরের ভাঙ্গায় মহাসড়কে কার্যক্রম নিষিদ্ধ আওয়ামী লীগ নেতাকর্মীরা আগুন জ্বালিয়ে ও দেশীয় অস্ত্র হাতে বিক্ষোভ করেন। এ সময় তাদের হামলা ও ককটেল বিস্ফোরণে রাজু মোল্যা নামের এক কৃষকদল নেতা নিহত হওয়ার অভিযোগ পাওয়া গেছে।",
+        "details_en": "Activists of the banned Awami League demonstrated on the highway in Bhanga, Faridpur, by lighting fires and carrying domestic weapons. During this time, Krishak Dal leader Raju Molla was reportedly killed in their attack and cocktail explosion.",
+        "hook_bn": "ভাঙ্গায় ককটেল বিস্ফোরণে নিহত কৃষকদল নেতা রাজু মোল্যা",
         "question_bn": null
       },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-17T21:02:52.754908+00:00"
+        "checked_at": "2026-11-17T22:02:34.121910+00:00"
       }
     },
     {
-      "story_id": "5233a0a3-e1b6-5d91-81cc-d8fa82e29348",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "world_diplomacy",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-17%2Fxket7mjv%2FWhatsApp-Image-2026-11-17-at-11.29.32-PM.jpeg?rect=0%2C0%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-17T18:24:22+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.9804,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/sports/football/ysshm2nx5j",
-          "title": "‘১৫-২০ জন প্রবাসী এনে জাতীয় দল গড়া একমাত্র সমাধান নয়’",
-          "snippet": "‘১৫-২০ জন প্রবাসী এনে জাতীয় দল গড়া একমাত্র সমাধান নয়’"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জাতীয় দল গড়তে প্রবাসী খেলোয়াড় আনা একমাত্র সমাধান নয়",
-        "title_en": "Importing expatriate players is not the only solution for national teams",
-        "summary_bn": "পাকিস্তান কোচ নলবার্তো সোলানো বলেছেন, ১৫ থেকে ২০ জন প্রবাসী ফুটবলার এনে জাতীয় দল গড়াই একমাত্র সমাধান হতে পারে না।",
-        "summary_en": "Pakistan coach Nolberto Solano said that bringing in 15 to 20 expatriate footballers cannot be the only solution to build a national team.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness",
-          "world_diplomacy",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T18:24:22+00:00",
-        "lead_bn": "পাকিস্তান কোচ নলবার্তো সোলানো বলেছেন, ১৫ থেকে ২০ জন প্রবাসী ফুটবলার এনে জাতীয় দল গড়াই একমাত্র সমাধান হতে পারে না।",
-        "lead_en": "Pakistan coach Nolberto Solano said that bringing in 15 to 20 expatriate footballers cannot be the only solution to build a national team.",
-        "bullets_bn": [
-          "ঢাকার জাতীয় স্টেডিয়ামে ফাইনালে পাকিস্তানকে ২-১ গোলে হারিয়ে দশমবারের মতো সাফ চ্যাম্পিয়ন হয়েছে ভারত।",
-          "ভারতের কোচ নওশাদ মুসা বলেন, প্রবাসী ফুটবলারদের পাশাপাশি স্থানীয় তরুণদের ওপরও আস্থা রাখতে হবে।",
-          "পাকিস্তানের ফুটবলের উন্নয়নে পেশাদার লিগ চালুর ওপর জোর দিয়েছেন সোলানো।"
-        ],
-        "bullets_en": [
-          "India became SAFF champions for the tenth time by defeating Pakistan 2-1 in the final at the National Stadium in Dhaka.",
-          "India coach Naushad Musa said that besides expatriate players, trust must also be placed in local youths.",
-          "Solano emphasized launching a professional league for the development of Pakistan football."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সাফ চ্যাম্পিয়নশিপের ফাইনাল শেষে ভারতের কোচ নওশাদ মুসা ও পাকিস্তানের কোচ নলবার্তো সোলানো দুই দেশের ফুটবলের উন্নয়ন, তরুণ খেলোয়াড়দের সামর্থ্য এবং প্রবাসী ফুটবলারদের ভূমিকা নিয়ে কথা বলেছেন। অনূর্ধ্ব-২৩ দলের খেলোয়াড়দের নিয়েই শিরোপা জিতেছে ভারত। দীর্ঘদিন পর ফাইনালে উঠেও প্রথমবারের মতো শিরোপা জয়ের সুযোগ কাজে লাগাতে পারেনি পাকিস্তান। সোলানো আশা করছেন আগামী বছর তাঁর দেশে প্রথমবারের মতো পেশাদার লিগ চালুর পরিকল্পনা বাস্তবায়িত হবে এবং ভারতের ঘরোয়া ফুটবলের অগ্রগতির কথাও তিনি স্বীকার করেছেন।",
-        "details_en": "After the SAFF Championship final, India coach Naushad Musa and Pakistan coach Nolberto Solano spoke about football development, the capacity of young players, and the role of expatriate players. India won the title with under-23 players. Pakistan failed to seize the opportunity to win their first title after reaching the final following a long time. Solano hopes the plan to launch a professional league for the first time in his country will be implemented next year and acknowledged the progress of Indian domestic football.",
-        "hook_bn": "পাকিস্তানকে ২-১ গোলে হারিয়ে দশমবারের মতো সাফ চ্যাম্পিয়ন হয়েছে ভারত",
-        "question_bn": "দক্ষিণ এশীয় ফুটবলের উন্নয়নে প্রবাসী ফুটবলারদের পাশাপাশি স্থানীয় খেলোয়াড়দের সুযোগ দেওয়া নিয়ে আপনার মতামত কী?"
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T21:02:52.754908+00:00"
-      }
-    },
-    {
-      "story_id": "e9b62c4e-7b87-5b33-a75b-2777cd53e1fe",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#SummitTherapeutics",
-        "#FDA"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1722871513349-45c61ed6aa5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZmluYW5jZSUyMGVjb25vbXklMjBiYW5nbGFkZXNofGVufDF8MHx8fDE3OTQ5NDkzNjB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-17T20:58:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 3.4,
-      "rank_score": 1.1521,
-      "sources": [
-        {
-          "name": "MarketWatch Economy",
-          "url": "https://www.marketwatch.com/story/summit-therapeutics-stock-tumbles-again-as-fda-recommends-new-trial-for-lung-cancer-drug-dcb8ff55?mod=mw_rss_topstories",
-          "title": "Summit Therapeutics’ stock tumbles again as FDA recommends new trial for lung-cancer drug",
-          "snippet": "Summit Therapeutics’ stock tumbles again as FDA recommends new trial for lung-cancer drug"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ফুসফুসের ক্যানসারের ওষুধের নতুন পরীক্ষার সুপারিশের পর সামিট থেরাপিউটিকসের শেয়ারের দরপতন।",
-        "title_en": "Summit Therapeutics stock tumbles after FDA recommends new trial for lung-cancer drug.",
-        "summary_bn": "যুক্তরাষ্ট্রের নিয়ন্ত্রক সংস্থার পক্ষ থেকে ফুসফুসের ক্যানসারের ওষুধের জন্য নতুন পরীক্ষার সুপারিশ করার পর সামিট থেরাপিউটিকসের শেয়ারের দাম আবারও কমেছে।",
-        "summary_en": "Summit Therapeutics stock tumbled again as the U.S. regulator recommended a new trial for its lung-cancer drug.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T20:58:00+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের নিয়ন্ত্রক সংস্থার পক্ষ থেকে ফুসফুসের ক্যানসারের ওষুধের জন্য নতুন পরীক্ষার সুপারিশ করার পর সামিট থেরাপিউটিকসের শেয়ারের দাম আবারও কমেছে।",
-        "lead_en": "Summit Therapeutics stock tumbled again as the U.S. regulator recommended a new trial for its lung-cancer drug.",
-        "bullets_bn": [
-          "যুক্তরাষ্ট্রের নিয়ন্ত্রক সংস্থার প্রকাশ করা তথ্য সামিট থেরাপিউটিকস কোম্পানির ে দেওয়া ঘোষণার চেয়ে বেশি বিস্তৃত ছিল।",
-          "মার্কিন নিয়ন্ত্রক সংস্থাটি ফুসফুসের ক্যানসারের ওষুধের জন্য নতুন একটি পরীক্ষার সুপারিশ করেছে।",
-          "ওষুধ প্রস্তুতকারক কোম্পানি সামিট থেরাপিউটিকসের শেয়ারের দাম এই ঘোষণার পর কমে গেছে।"
-        ],
-        "bullets_en": [
-          "The U.S. regulator's disclosure was more extensive than what the biotech company had announced Sunday.",
-          "The U.S. regulator recommended a new trial for a lung-cancer drug.",
-          "The stock price of Summit Therapeutics tumbled again following the disclosure."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "ফুসফুসের ক্যানসারের ওষুধের নতুন পরীক্ষার সুপারিশের পর সামিট থেরাপিউটিকসের শেয়ারের দরপতন।",
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T21:02:52.754908+00:00"
-      }
-    },
-    {
-      "story_id": "a98e52de-9316-57e2-9179-eba9bb62fdec",
+      "story_id": "e3ebba25-e844-538e-8d97-b3da28b36de5",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
-        "economy_business",
-        "governance_law",
-        "society_education"
+        "governance_law"
       ],
       "region": "international",
       "tags": [
-        "#WestBank",
-        "#Israel",
-        "#UK"
+        "#BrandonCarrollTyner",
+        "#KashPatel",
+        "#UnitedStates",
+        "#UnitedKingdom"
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d277/live/17a72100-e286-11f1-a094-5fdc692f3e33.jpg",
+      "image_url": "https://i.guim.co.uk/img/media/bfa6c9d4f1002c0b8223acda3bec846d3b60534c/0_0_2498_2000/master/2498.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d15ca6196c4fe15a35651fdcc9db08da",
       "image_caption": null,
-      "published_at": "2026-11-17T20:30:20+00:00",
+      "published_at": "2026-11-17T20:30:57+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.55,
-      "rank_score": 0.631,
+      "importance_score": 5.5,
+      "rank_score": 2.7719,
       "sources": [
         {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-          "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-          "snippet": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says"
-        },
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss",
-          "title": "Israeli settler pogrom kills Palestinian woman, wounds 10 people",
-          "snippet": "Israeli settler pogrom kills Palestinian woman, wounds 10 people"
-        },
-        {
           "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
-          "title": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
-          "snippet": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say"
+          "url": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
+          "title": "American soldier held in UK suspected of spying for Russia taken into US military custody",
+          "snippet": "American soldier held in UK suspected of spying for Russia taken into US military custody"
         },
         {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/uk-sanctions-israeli-companies-building-west-bank-settlements/article71713186.ece",
-          "title": "U.K. sanctions Israeli companies building West Bank settlements",
-          "snippet": "U.K. sanctions Israeli companies building West Bank settlements"
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+          "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+          "snippet": "American soldier arrested by UK police on suspicion of spying taken into US military custody"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পশ্চিম তীরে ইসরায়েলি বসতিস্থাপনকারীদের গুলিতে ফিলিস্তিনি নারী নিহত",
-        "title_en": "Palestinian woman shot dead by Israeli settlers in West Bank",
-        "summary_bn": "দখলকৃত পশ্চিম তীরের একটি গ্রামে ইসরায়েলি বসতিস্থাপনকারীদের গুলিতে ৭০ বছরের বেশি বয়সী এক ফিলিস্তিনি নারী নিহত হয়েছেন।",
-        "summary_en": "A Palestinian woman in her 70s has been shot dead by Israeli settlers in the occupied West Bank.",
+        "title_bn": "যুক্তরাজ্যে আটক মার্কিন সেনা মার্কিন সামরিক হেফাজতে নেওয়া হয়েছে",
+        "title_en": "US soldier held in UK taken into US military custody",
+        "summary_bn": "রাশিয়ার পক্ষে গুপ্তচরবৃত্তির সন্দেহে যুক্তরাজ্যে গ্রেপ্তার হওয়া এক মার্কিন সেনাকে মার্কিন সামরিক হেফাজতে নেওয়া হয়েছে বলে পুলিশ জানিয়েছে।",
+        "summary_en": "A US soldier arrested in the UK on suspicion of spying for Russia has been taken into US military custody, police have said.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "economy_business",
-          "governance_law",
-          "society_education"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-17T20:30:20+00:00",
-        "lead_bn": "দখলকৃত পশ্চিম তীরের একটি গ্রামে ইসরায়েলি বসতিস্থাপনকারীদের গুলিতে ৭০ বছরের বেশি বয়সী এক ফিলিস্তিনি নারী নিহত হয়েছেন।",
-        "lead_en": "A Palestinian woman in her 70s has been shot dead by Israeli settlers in the occupied West Bank.",
+        "published_at": "2026-11-17T20:30:57+00:00",
+        "lead_bn": "রাশিয়ার পক্ষে গুপ্তচরবৃত্তির সন্দেহে যুক্তরাজ্যে গ্রেপ্তার হওয়া এক মার্কিন সেনাকে মার্কিন সামরিক হেফাজতে নেওয়া হয়েছে বলে পুলিশ জানিয়েছে।",
+        "lead_en": "A US soldier arrested in the UK on suspicion of spying for Russia has been taken into US military custody, police have said.",
         "bullets_bn": [
-          "ফিলিস্তিনের স্বাস্থ্য মন্ত্রণালয় জানিয়েছে, আল-দুজুক আল-তাহতা গ্রামে এই হত্যাকাণ্ডের ঘটনায় আরও বেশ কয়েকজন আহত হয়েছেন।",
-          "ইসরায়েলি সেনা বাহিনী জানিয়েছে, একটি ফিলিস্তিনি গাড়ি ধাক্কা দেওয়ার ঘটনার পর তারা গুলি চালায়।",
-          "যুক্তরাজ্য ইসরায়েলি বসতি স্থাপনের সাথে জড়িত প্রতিষ্ঠানগুলোর ওপর নিষেধাজ্ঞা আরোপ করেছে।"
+          "৪১ বছর বয়সী লেফটেন্যান্ট কর্নেল ব্র্যান্ডন ক্যারল টাইনারকে ১০ নভেম্বর গ্লুচেস্টারশায়ারে গ্রেপ্তার করা হয়েছিল।",
+          "যুক্তরাজ্যের কাউন্টার টেররিজম পুলিশ, মার্কিন সামরিক বাহিনী ও এফবিআইয়ের যৌথ তদন্তের অংশ হিসেবে এই গ্রেপ্তার করা হয়েছে।",
+          "সন্দেহভাজন ব্যক্তি ন্যাশনাল সিকিউরিটি অ্যাক্টের ধারা ১ এবং ধারা ৩ এর অধীনে অপরাধের সন্দেহে লন্ডনের একটি থানায় হেফাজতে ছিলেন।"
         ],
         "bullets_en": [
-          "The Palestinian health ministry said several other people were wounded in the village of al-Duyuk al-Tahta.",
-          "The Israeli army said it opened fire after a Palestinian car-ramming attack and rocks thrown at Israelis.",
-          "The UK has sanctioned firms over Israeli West Bank settlements in a tougher approach."
+          "Lt Col Brandon Carroll Tyner, 41, was detained by British counter-terrorism police on 10 November in Gloucestershire.",
+          "The arrest was part of an investigation by UK Counter Terrorism Policing, working with authorities including the US military and the FBI.",
+          "The suspect was in custody at a London police station on suspicion of offences under section 1 and section 3 of the National Security Act."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "আল-দুজুক আল-তাহতা গ্রামের আটটি বাড়ি কেনার পর গত ৪ নভেম্বর বসতিস্থাপনকারীরা সেখানে প্রবেশ করেন। স্থানীয় ফিলিস্তিনিদের ভাষ্য অনুযায়ী, ঘটনার সূত্রপাত হয়েছিল বসতিস্থাপনকারীদের হয়রানির মধ্য দিয়ে। আন্তর্জাতিক আইন অনুযায়ী সমস্ত বসতি অবৈধ।",
-        "details_en": "Settlers moved into eight houses in the village on 4 November after buying them in a secretive operation. Local Palestinians said events began with harassment by Israeli settlers. All settlements are illegal under international law.",
-        "hook_bn": "পশ্চিম তীরে ইসরায়েলি বসতিস্থাপনকারীদের গুলিতে ফিলিস্তিনি নারী নিহত।",
+        "details_bn": "গ্লুচেস্টারশায়ারের ইনসওয়ার্থে অবস্থিত ইমজিন ব্যারাকে কর্মরত ছিলেন এই জ্যেষ্ঠ সেনা। ব্যারাকটি ন্যাটোর অ্যালাইড র‍্যাপিড রিঅ্যাকশন কর্পসের সদর দপ্তর হিসেবে কাজ করে। এফবিআই পরিচালক কাশ প্যাটেল এক বিবৃতিতে জানিয়েছেন, মার্কিন সামরিক বাহিনী, এফবিআই, এমআইফাইভ ও প্রতিরক্ষা কাউন্টার ইন্টেলিজেন্সের সহযোগিতায় এই পদক্ষেপ নেওয়া হয়েছে।",
+        "details_en": "The suspect, a senior soldier, was based at Imjin Barracks in Innsworth, Gloucestershire, which serves as the headquarters of Nato's Allied Rapid Reaction Corps. FBI director Kash Patel stated that the action resulted from close cooperation between the FBI, US military, UK Counter Terrorism Policing, MI5, and UK Defence Counter Intelligence.",
+        "hook_bn": "যুক্তরাজ্যে রুশ গুপ্তচরবৃত্তির সন্দেহে আটক মার্কিন সেনা মার্কিন হেফাজতে",
         "question_bn": null
       },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": true,
+      "social_appeal": 4.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-17T21:02:52.754908+00:00"
+        "checked_at": "2026-11-17T22:02:34.121910+00:00"
+      }
+    },
+    {
+      "story_id": "726a4851-ce43-574f-99c6-dc69262d4355",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation"
+      ],
+      "region": "international",
+      "tags": [
+        "#USNationalSecurityAgency",
+        "#CNN",
+        "#FederalAviationAdministration",
+        "#Microsoft"
+      ],
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2018/08/c8be4fcf71d94217b096d241aac04dbe_18.jpeg?resize=1200%2C675",
+      "image_caption": null,
+      "published_at": "2026-11-17T19:03:14+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.5,
+      "rank_score": 2.5474,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage?traffic_source=rss",
+          "title": "NSA attributes US network outage to routine ‘maintenance’ activities",
+          "snippet": "NSA attributes US network outage to routine ‘maintenance’ activities"
+        },
+        {
+          "name": "MarketWatch Economy",
+          "url": "https://www.marketwatch.com/story/the-latest-tech-failure-u-s-classified-national-security-communications-network-ad271899?mod=mw_rss_topstories",
+          "title": "The U.S.’s classified national-security communications network experiences tech outage",
+          "snippet": "The U.S.’s classified national-security communications network experiences tech outage"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যুক্তরাষ্ট্রের এনএসএ অভ্যন্তরীণ নেটওয়ার্ক বিভ্রাটকে নিয়মিত রক্ষণাবেক্ষণ বলে জানিয়েছে",
+        "title_en": "US NSA attributes internal network outage to routine maintenance",
+        "summary_bn": "যুক্তরাষ্ট্রের ন্যাশনাল সিকিউরিটি এজেন্সি জানিয়েছে, তাদের অভ্যন্তরীণ যোগাযোগ নেটওয়ার্কে ত্রুটির ঘটনাটি নিয়মিত রক্ষণাবেক্ষণের সময় ঘটেছিল।",
+        "summary_en": "The United States National Security Agency said an outage affecting its internal communications network was due to routine maintenance.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T19:03:14+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের ন্যাশনাল সিকিউরিটি এজেন্সি জানিয়েছে, তাদের অভ্যন্তরীণ যোগাযোগ নেটওয়ার্কে ত্রুটির ঘটনাটি নিয়মিত রক্ষণাবেক্ষণের সময় ঘটেছিল।",
+        "lead_en": "The United States National Security Agency said an outage affecting its internal communications network was due to routine maintenance.",
+        "bullets_bn": [
+          "সিএনএন-এর প্রতিবেদনে ছয়টি বেনামী সূত্রের বরাত দিয়ে জানানো হয়, সাইবার হামলার কোনো প্রমাণ পাওয়া যায়নি।",
+          "এনএসএর মুখপাত্র জানান যে মিশন-কার্যক্রমের জন্য অত্যন্ত গুরুত্বপূর্ণ সক্ষমতাগুলো পুরোপুরি সচল রয়েছে।",
+          "যুক্তরাষ্ট্রে যোগাযোগ ও পরিবহন সেবায় বিঘ্ন ঘটার ধারাবাহিকতায় এই নেটওয়ার্ক বিভ্রাটের ঘটনা ঘটে।"
+        ],
+        "bullets_en": [
+          "A CNN report citing six unnamed sources said there was no evidence that the outage was the result of a cyberattack.",
+          "An NSA spokesperson stated that mission-critical capabilities remain fully operational.",
+          "The network disruption follows several other major outages affecting communication and transportation services in the US."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "যুক্তরাষ্ট্রের নজরদারি সংস্থার অভ্যন্তরীণ এই নেটওয়ার্ক এনএসএ নেট নামে পরিচিত, যার মাধ্যমে কর্মচারীরা অত্যন্ত গোপনীয় তথ্য আদান-প্রদান করেন। এর আগে গত সপ্তাহে মাইক্রোসফটের আউটলুক ও টিমসের মতো সেবা বন্ধ ছিল এবং ফেডারেল এভিয়েশন প্রশাসন সিস্টেম আপগ্রেডের কারণে ফ্লাইট যোগাযোগে ওভারলোডের জেরে দেশের সব উড্ডয়ন সাময়িকভাবে স্থগিত করেছিল।",
+        "details_en": "The network, known as NSA Net, allows employees of the US surveillance agency to share highly classified information internally. This follows other major outages, including the Federal Aviation Administration temporarily halting all takeoffs due to a system upgrade causing a flight communication overload, and Microsoft announcing that services such as Outlook and Teams were down last week.",
+        "hook_bn": "যুক্তরাষ্ট্রের এনএসএ অভ্যন্তরীণ নেটওয়ার্ক বিভ্রাটকে নিয়মিত রক্ষণাবেক্ষণ বলে জানিয়েছে।",
+        "question_bn": "যুক্তরাষ্ট্রের বিভিন্ন প্রযুক্তিগত বিভ্রাট সম্পর্কে আপনার মতামত কী?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": true,
+      "social_appeal": 3.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T22:02:34.121910+00:00"
       }
     }
   ]
