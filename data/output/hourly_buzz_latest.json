@@ -1,428 +1,222 @@
 {
-  "updated_at": "2026-11-17T08:00:43.461057",
-  "total_stories": 6,
+  "updated_at": "2026-11-17T09:00:43.059849",
+  "total_stories": 3,
   "stories": [
     {
-      "story_id": "4fd86606-4767-5c8f-8eb6-69d2d80af05f",
-      "primary_category": "economy_business",
+      "story_id": "cf190426-89b0-53ff-832f-bd053748b894",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "economy_business",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#WorldBank",
-        "#Bangladesh",
-        "#CommerceMinistry",
-        "#ExportDiversification"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/17/907846861_1899132994832781_7505396224831742814_n.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-17T07:30:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 5.4563,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/foreign-policy/bangladesh-seeks-world-bank-support-business-reforms-export-diversification-minister",
-          "title": "Bangladesh seeks World Bank support for business reforms, export diversification: Minister",
-          "snippet": "Bangladesh seeks World Bank support for business reforms, export diversification: Minister"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/bangladesh-seeks-wb-support-for-trade-reforms-export-diversification-ahead-of-ldc-exit",
-          "title": "Bangladesh seeks World Bank support for trade reforms, export diversification",
-          "snippet": "Bangladesh seeks World Bank support for trade reforms, export diversification"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ব্যবসা সহজ করতে বিশ্বব্যাংকের সহযোগিতা চেয়েছে বাংলাদেশ",
-        "title_en": "Bangladesh seeks World Bank support for business reforms",
-        "summary_bn": "বাণিজ্যমন্ত্রী খন্দকার আবদুল মুক্তাদির বলেছেন, ব্যবসা সহজ করা এবং রপ্তানি বাড়াতে বিশ্বব্যাংকের নীতিগত ও কারিগরি সহায়তা চেয়েছে বাংলাদেশ।",
-        "summary_en": "Commerce Minister Khandakar Abdul Muktadir said Bangladesh has sought World Bank support to reduce business complexities and diversify exports.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T07:30:00+00:00",
-        "lead_bn": "বাণিজ্যমন্ত্রী খন্দকার আবদুল মুক্তাদির বলেছেন, ব্যবসা সহজ করা এবং রপ্তানি বাড়াতে বিশ্বব্যাংকের নীতিগত ও কারিগরি সহায়তা চেয়েছে বাংলাদেশ।",
-        "lead_en": "Commerce Minister Khandakar Abdul Muktadir said Bangladesh has sought World Bank support to reduce business complexities and diversify exports.",
-        "bullets_bn": [
-          "অনুমোদনে দীর্ঘসূত্রিতা কমিয়ে ১৪ দিনের মধ্যে তা শেষ করার পরিকল্পনা রয়েছে সরকারের।",
-          "বিশ্বব্যাংকের আট সদস্যের প্রতিনিধিদলের সঙ্গে সচিবালয়ে বৈঠক করেন বাণিজ্যমন্ত্রী।",
-          "তৈরি পোশাকের বাইরে চামড়া, পাদুকা, জাহাজ নির্মাণ ও হালকা প্রকৌশল খাতকে অগ্রাধিকার দেওয়া হচ্ছে।"
-        ],
-        "bullets_en": [
-          "The government aims to reduce delays in business approvals and complete the process within just 14 days.",
-          "The commerce minister met with an eight-member World Bank delegation led by Jean Pesme at the Secretariat.",
-          "The minister identified export diversification as a key economic priority beyond the readymade garments sector."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "স্বল্পোন্নত দেশের তালিকা থেকে উত্তরণের সামনে একটি নির্দিষ্ট তিন বছরের কর্মপরিকল্পনা প্রস্তুত করছে সরকার। এই পরিকল্পনার আওতায় বিনিয়োগ বাংলাদেশের ওয়ান-স্টপ সার্ভিসের মাধ্যমে বিভিন্ন দপ্তরের সেবা অনলাইনে আনা হবে। এছাড়া আন্তর্জাতিক মান ও পরিবেশগত কমপ্লায়েন্স নিশ্চিত করতে সাভার চামড়া শিল্পনগরীতে একটি নতুন কেন্দ্রীয় বর্জ্য শোধনাগার বা সিইটিপি পরিকল্পনা করা হয়েছে।",
-        "details_en": "The government is preparing a specific three-year action plan ahead of Bangladesh's graduation from the least developed country category. Under the plan, services will be brought online through Invest Bangladesh's One-Stop Service, and a new central effluent treatment plant is planned at the Savar Tannery Industrial Estate.",
-        "hook_bn": "ব্যবসার অনুমোদন প্রক্রিয়া ১৪ দিনে নামিয়ে আনতে চায় সরকার।",
-        "question_bn": "ব্যবসায়িক অনুমোদন ও লাইসেন্স পেতে আপনাদের কী ধরনের ভোগান্তিতে পড়তে হয়?"
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T08:02:49.302909+00:00"
-      }
-    },
-    {
-      "story_id": "2cb633c6-fd9c-5555-89bb-a07b249a6894",
-      "primary_category": "governance_law",
-      "interest_categories": [
+        "world_diplomacy",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#RamisaAkter",
-        "#SohelRana",
-        "#HighCourt",
-        "#Pallabi"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/sohel-shopna.webp",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-09-08%2Fwsmitgaj%2F1.avif?rect=0%2C44%2C622%2C327&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-17T07:14:11+00:00",
+      "published_at": "2026-11-17T08:07:25+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.2,
-      "rank_score": 4.9525,
+      "importance_score": 6.0,
+      "rank_score": 3.4173,
       "sources": [
         {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/ramisa-rape-murder-hc-upholds-sohels-death-sentence-acquits-wife-4326086",
-          "title": "Ramisa rape, murder: HC upholds Sohel’s death sentence, acquits wife",
-          "snippet": "Ramisa rape, murder: HC upholds Sohel’s death sentence, acquits wife"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/court/424845/high-court-begins-hearing-verdict-in-pallabi-child",
-          "title": "HC upholds Sohel Rana’s death sentence in Pallabi child rape, murder case",
-          "snippet": "HC upholds Sohel Rana’s death sentence in Pallabi child rape, murder case"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/court/ramisa-rape-and-murder-case-high-court-starts-delivering-verdict-1605041",
-          "title": "Ramisa rape-murder: HC upholds Sohel's death sentence, acquits wife",
-          "snippet": "Ramisa rape-murder: HC upholds Sohel's death sentence, acquits wife"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/ramisa-murder-hc-upholds-sohel-ranas-death-sentence-acquits-swapna",
-          "title": "Ramisa murder: HC upholds Sohel Rana's death sentence, acquits Swapna",
-          "snippet": "Ramisa murder: HC upholds Sohel Rana's death sentence, acquits Swapna"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/xf6q9aig95",
+          "title": "সিলেট সীমান্তে বিএসএফের এক সদস্যকে আটক করেছে বিজিবি",
+          "snippet": "সিলেট সীমান্তে বিএসএফের এক সদস্যকে আটক করেছে বিজিবি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "হাইকোর্ট সোয়েল রানার মৃত্যুদণ্ড বহাল রেখেছেন এবং তার স্ত্রীকে খালাস দিয়েছেন।",
-        "title_en": "High Court upholds Sohel Rana's death sentence and acquits his wife.",
-        "summary_bn": "হাইকোর্ট রামিসা আক্তার ধর্ষণ ও হত্যা মামলায় সোয়েল রানার মৃত্যুদণ্ড বহাল রেখেছেন এবং তার স্ত্রী স্বপ্ন খাতুনকে খালাস দিয়েছেন।",
-        "summary_en": "The High Court has upheld Sohel Rana's death sentence and acquitted his wife Swapna Khatun in the Ramisa Akter rape and murder case.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T07:14:11+00:00",
-        "lead_bn": "হাইকোর্ট রামিসা আক্তার ধর্ষণ ও হত্যা মামলায় সোয়েল রানার মৃত্যুদণ্ড বহাল রেখেছেন এবং তার স্ত্রী স্বপ্ন খাতুনকে খালাস দিয়েছেন।",
-        "lead_en": "The High Court has upheld Sohel Rana's death sentence and acquitted his wife Swapna Khatun in the Ramisa Akter rape and murder case.",
-        "bullets_bn": [
-          "বিচারপতি ভীষ্মদেব চক্রবর্তী ও বিচারপতি কে এম রাশেদুজ্জামান রাজার বেঞ্চ এই রায় দেন।",
-          "রাষ্ট্রপক্ষের শুনানিতে অ্যাটর্নি জেনারেল এম রুহুল কুদ্দুস কাজল ও ডেপুটি অ্যাটর্নি জেনারেল মোহাম্মদ ওসমান চৌধুরী অংশ নেন।",
-          "সোয়েল ও স্বপ্নার পক্ষে রাষ্ট্রনিযুক্ত ডিফেন্স আইনজীবী হিসেবে শুনানিতে অংশ নেন অ্যাডভোকেট হাফিজুর রহমান খান।"
-        ],
-        "bullets_en": [
-          "The bench of Justice Bhishmadev Chakrabortty and Justice KM Rasheduzzaman Raja delivered the verdict.",
-          "Attorney General Md Ruhul Quddus Kazal and Deputy Attorney General Mohammad Osman Chowdhury represented the state during the hearing.",
-          "Advocate Hafizur Rahman Khan served as the state-appointed defence lawyer for Sohel and Swapna."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ঢাকার পল্লবীতে আট বছরের শিশু রামিসা আক্তারকে ধর্ষণ ও হত্যার ঘটনায় গত ৭ জুন ঢাকার নারী ও শিশু নির্যাতন দমন ট্রাইব্যুনাল সোয়েলকে মৃত্যুদণ্ড দেয় এবং তার স্ত্রী স্বপ্নকে এ অপরাধে সহায়তার দায়ে মৃত্যুদণ্ড দেয়। ঘটনার মাত্র ১৯ দিন পর এই রায় দেওয়া হয়েছিল। পল্লবীর একটি স্কুলের দ্বিতীয় শ্রেণির ছাত্রী রামিসাকে গত ১৯ মে প্রতিবেশী সোয়েলের ঘর থেকে মস্তকহীন অবস্থায় উদ্ধার করা হয়। তদন্তকারীদের মতে, সোয়েল শিশুটিকে নিজের ঘরে ডেকে নিয়ে ধর্ষণ করে এবং গলা কাটে। পরে অপরাধ লুকানোর জন্য সে মৃতদেহ টুকরো করার চেষ্টা করেছিল।",
-        "details_en": "On June 7, the Women and Children Repression Prevention Tribunal in Dhaka sentenced Sohel to death for raping and murdering Ramisa, while Swapna was sentenced to death for assisting him in the crime, just 19 days after the incident. Ramisa, a class-two student at a school in Dhaka's Pallabi, was found beheaded at the house of her neighbour Sohel on May 19. According to investigators, Sohel had called the child into his room and raped her before slitting her throat and attempting to dismember her body to conceal the crime.",
-        "hook_bn": "পল্লবীতে শিশু রামিসা ধর্ষণ ও হত্যা মামলায় সোয়েল রানার মৃত্যুদণ্ড বহাল।",
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T08:02:49.302909+00:00"
-      }
-    },
-    {
-      "story_id": "2e22be2b-204f-506c-8be5-06b167ca2b6c",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Japan",
-        "#ASEAN",
-        "#SanaeTakaichi",
-        "#FerdinandMarcosJr"
-      ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/ASEAN%20Summit.JPG",
-      "image_caption": null,
-      "published_at": "2026-11-17T05:40:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.2,
-      "rank_score": 4.5232,
-      "sources": [
-        {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/news/japan-proposes-asia-oil-security-task-force-asean-summit-4326041",
-          "title": "Japan proposes Asia oil security task force at ASEAN summit",
-          "snippet": "Japan proposes Asia oil security task force at ASEAN summit"
-        },
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece",
-          "title": "ASEAN Summit LIVE updates: PM Modi at ASEAN-India Summit; Quad meeting likely after President Trump arrives",
-          "snippet": "ASEAN Summit LIVE updates: PM Modi at ASEAN-India Summit; Quad meeting likely after President Trump arrives"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/japans-marubeni-plans-to-invest-in-state-owned-sugar-industry",
-          "title": "Japan's Marubeni plans to invest in state-owned sugar industry",
-          "snippet": "Japan's Marubeni plans to invest in state-owned sugar industry"
-        },
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/japan-scrambles-jets-to-counter-suspected-russian-aircraft/a-79964537?maca=en-rss-en-all-1573-rdf",
-          "title": "Japan scrambles jets to counter suspected Russian aircraft",
-          "snippet": "Japan scrambles jets to counter suspected Russian aircraft"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "আসিয়ান সম্মেলনে এশীয় তেল নিরাপত্তা টাস্কফোর্স গঠনের প্রস্তাব জাপানের",
-        "title_en": "Japan proposes Asia oil security task force at ASEAN summit",
-        "summary_bn": "জরুরি পরিস্থিতিতে তেলের সরবরাহ নিশ্চিত করতে এশিয়ায় তেল মজুত ও সরবরাহ সমন্বয়ের জন্য একটি টাস্কফোর্স গঠনের প্রস্তাব দিয়েছে জাপান।",
-        "summary_en": "Japan proposed creating a task force to coordinate cooperation in Asia on oil stockpiling and the release of supplies during emergencies.",
+        "title_bn": "সিলেট সীমান্তে বিএসএফের এক সদস্যকে আটক করেছে বিজিবি",
+        "title_en": "BGB detains one BSF member at Sylhet border",
+        "summary_bn": "বর্ডার গার্ড বাংলাদেশ (বিজিবি) সিলেটের গোয়াইনঘাট উপজেলার সীমান্ত এলাকা থেকে ভারতীয় সীমান্তরক্ষী বাহিনীর (বিএসএফ) এক সদস্যকে আটক করেছে।",
+        "summary_en": "Border Guard Bangladesh (BGB) detained a member of the Border Security Force (BSF) from the border area of Gowainghat upazila in Sylhet.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T05:40:00+00:00",
-        "lead_bn": "জরুরি পরিস্থিতিতে তেলের সরবরাহ নিশ্চিত করতে এশিয়ায় তেল মজুত ও সরবরাহ সমন্বয়ের জন্য একটি টাস্কফোর্স গঠনের প্রস্তাব দিয়েছে জাপান।",
-        "lead_en": "Japan proposed creating a task force to coordinate cooperation in Asia on oil stockpiling and the release of supplies during emergencies.",
-        "bullets_bn": [
-          "প্রধানমন্ত্রী সানায়ে তাকাচি আসিয়ান সম্মেলনে ফিলিপাইনের একটি যৌথ তেল মজুত প্রকল্পের সাথে এই উদ্যোগ সমন্বয় করার কথা জানান।",
-          "জাপানের প্রাকৃতিক সম্পদ ও জ্বালানি সংস্থার তথ্য অনুযায়ী, মধ্যপ্রাচ্য থেকে হরমুজ প্রণালী দিয়ে আসা অপরিশোধিত তেলের প্রায় ৯০ শতাংশ এশিয়াগামী।",
-          "ফিলিপাইনের রাষ্ট্রপতি ফার্দিনান্দ মার্কোস জুনিয়র আঞ্চলিক জ্বালানি নিরাপত্তা জোরদার করতে কৌশলগত পেট্রোলিয়াম রিজার্ভ নিয়ে কাজ করার কথা জানান।"
-        ],
-        "bullets_en": [
-          "Prime Minister Sanae Takaichi told leaders that the initiative would be coordinated with a Philippine-led joint oil stockpiling scheme.",
-          "About 90% of crude oil going through the Strait of Hormuz is destined for Asia, according to Japan's Agency for Natural Resources and Energy.",
-          "Philippine President Ferdinand Marcos Jr. said his country was making progress on its strategic petroleum reserve."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ইরান যুদ্ধ মধ্যপ্রাচ্যের তেল ও গ্যাস সরবরাহের দুর্বলতা উন্মোচন করার পর এশীয় দেশগুলো জ্বালানি নিরাপত্তা জোরদার করার চেষ্টা করছে। আসিয়ান শীর্ষ সম্মেলনের অংশ হিসেবে এশিয়া জিরো ইমিশন কমিউনিটি বৈঠকে এই প্রস্তাব দেওয়া হয়।",
-        "details_en": "Asian countries are seeking to strengthen energy security after the Iran war exposed their vulnerability to disruptions in Middle Eastern oil and gas supplies passing through the Strait of Hormuz.",
-        "hook_bn": "মধ্যপ্রাচ্যের হরমুজ প্রণালী দিয়ে আসা অপরিশোধিত তেলের ৯০ শতাংশই এশিয়াগামী।",
-        "question_bn": "আঞ্চলিক জ্বালানি নিরাপত্তা নিশ্চিত করতে দেশগুলোর যৌথভাবে কাজ করার এই উদ্যোগকে আপনি কীভাবে দেখেন?"
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T08:02:49.302909+00:00"
-      }
-    },
-    {
-      "story_id": "1f71ac93-5afe-58fe-929c-5222fd5f0ec9",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.channelionline.com/2026/06/Ramisa.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-11-17T06:52:56+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 4.0772,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/ra-pe-and-mu-rder-of-child-ramisa-high-court-upholds-sohels-death-sentence-wife-swapna-acquitted/",
-          "title": "শিশু রামিসা ধর্ষণ-হত্যা: হাইকোর্টের রায়ে সোহেলের মৃত্যুদণ্ড বহাল, খালাস পেলেন স্ত্রী স্বপ্না",
-          "snippet": "শিশু রামিসা ধর্ষণ-হত্যা: হাইকোর্টের রায়ে সোহেলের মৃত্যুদণ্ড বহাল, খালাস পেলেন স্ত্রী স্বপ্না"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "হাইকোর্টে সোহেলের মৃত্যুদণ্ড বহাল ও স্বপ্নার খালাস",
-        "title_en": "High Court upholds Sohel death sentence and acquits Swapna",
-        "summary_bn": "হাইকোর্ট পল্লবীর রামিসা ধর্ষণ ও হত্যা মামলায় সোহেল রানার মৃত্যুদণ্ড বহাল রেখেছেন এবং তার স্ত্রী স্বপ্না খাতুনকে খালাস দিয়েছেন।",
-        "summary_en": "The High Court upheld Sohel Rana's death sentence and acquitted his wife Swapna Khatun in the Ramisa rape and murder case in Pallabi.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-17T06:52:56+00:00",
-        "lead_bn": "হাইকোর্ট পল্লবীর রামিসা ধর্ষণ ও হত্যা মামলায় সোহেল রানার মৃত্যুদণ্ড বহাল রেখেছেন এবং তার স্ত্রী স্বপ্না খাতুনকে খালাস দিয়েছেন।",
-        "lead_en": "The High Court upheld Sohel Rana's death sentence and acquitted his wife Swapna Khatun in the Ramisa rape and murder case in Pallabi.",
+        "published_at": "2026-11-17T08:07:25+00:00",
+        "lead_bn": "বর্ডার গার্ড বাংলাদেশ (বিজিবি) সিলেটের গোয়াইনঘাট উপজেলার সীমান্ত এলাকা থেকে ভারতীয় সীমান্তরক্ষী বাহিনীর (বিএসএফ) এক সদস্যকে আটক করেছে।",
+        "lead_en": "Border Guard Bangladesh (BGB) detained a member of the Border Security Force (BSF) from the border area of Gowainghat upazila in Sylhet.",
         "bullets_bn": [
-          "বিচারপতি ভীষ্মদেব চক্রবর্তী ও বিচারপতি কে এম রাশেদুজ্জামান রাজার বেঞ্চ ১৭ নভেম্বর এ রায় ঘোষণা করেন।",
-          "প্রধান বিচারপতি জুবায়ের রহমান চৌধুরী গত ১০ জুন নারী ও শিশুদের বিরুদ্ধে সংঘটিত অপরাধের মামলায় ডেথ রেফারেন্স ও আপিল শুনানির জন্য এই বেঞ্চ গঠন করেন।",
-          "তদন্তকারীরা জানান, সোহেল রামিসাকে ঘরে নিয়ে ধর্ষণ করেন এবং পরে গলা কেটে হত্যা করে লাশ টুকরো করার চেষ্টা করেন।"
+          "বিছনাকান্দি সীমান্ত এলাকায় বাংলাদেশের প্রায় ২০০ গজ ভেতরে ওই বিএসএফ সদস্যকে অস্ত্রসহ আটক করা হয়।",
+          "সিলেট ব্যাটালিয়নের (৪৮ বিজিবি) অধিনায়ক লেফটেন্যান্ট কর্নেল নূর উদ্দিন আহমাদ আটকের বিষয়টি নিশ্চিত করেছেন।",
+          "আটক বিএসএফ সদস্যকে বিজিবির বিছনাকান্দি বিওপির ক্যাম্পে রাখা হয়েছে এবং বিএসএফের সঙ্গে পতাকা বৈঠকের আহ্বান জানানো হয়েছে।"
         ],
         "bullets_en": [
-          "The bench of Justice Bhishmadev Chakrabortty and Justice K M Rashiduzzaman Raja announced the verdict on ১৭ নভেম্বর.",
-          "Chief Justice Jubaer Rahman Chowdhury formed this bench on ১০ জুন for hearing and disposing of death references and appeals in crimes against women and children.",
-          "Investigators stated that Sohel took Ramisa to his room, raped her, later slit her throat and tried to chop the body."
+          "The BSF member was detained with a weapon about 200 yards inside the Bangladesh border in the Bichnakandi border area.",
+          "Lieutenant Colonel Nur Uddin Ahmad, captain of the Sylhet battalion (48 BGB), confirmed the detention.",
+          "The detained BSF member is kept at the Bichnakandi BOP camp of BGB and a flag meeting with BSF has been called."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "গত ১৯ মে সকালে পল্লবীর একটি ফ্ল্যাট থেকে দ্বিতীয় শ্রেণির শিক্ষার্থী রামিসার খণ্ডিত মরদেহ উদ্ধার করে পুলিশ। হত্যাকাণ্ডের একদিন পর শিশুটির বাবা আব্দুল হান্নান পল্লবী থানায় মামলা করেন। গত ৭ জুন ঢাকা মহানগর শিশু সহিংসতা দমন ট্রাইব্যুনালের বিচারক মাসরুর সালেকীন প্রধান আসামি সোহেলকে মৃত্যুদণ্ড এবং সহায়তা করার দায়ে স্বপ্নাকেও মৃত্যুদণ্ড দিয়েছিলেন। পরে তারা আপিল করেন।",
-        "details_en": "On the morning of ১৯ মে, police recovered the dismembered body of second-grader Ramisa from a flat in Pallabi. A day after the murder, the child's father Abdul Hannan filed a case at Pallabi Police Station. On ৭ জুন, Judge Masrur Salekin of Dhaka Metropolitan Child Violence Suppression Tribunal sentenced prime accused Sohel to death and Swapna to death for aiding the crime. Later they appealed.",
-        "hook_bn": "পল্লবীর রামিসা ধর্ষণ ও হত্যা মামলায় সোহেলের মৃত্যুদণ্ড বহাল",
-        "question_bn": null
+        "details_bn": "বিজিবির সিলেট ব্যাটালিয়ন (৪৮ বিজিবি) সূত্রে জানা গেছে, বিছনাকান্দি সীমান্ত এলাকায় বিজিবির একটি টহল দল দায়িত্ব পালন করছিল। এ সময় বাংলাদেশের ভেতরে ওই বিএসএফ সদস্যকে দেখতে পেয়ে তাঁকে আটক করা হয়। তাৎক্ষণিকভাবে আটক ব্যক্তির নাম ও পদবি জানা যায়নি এবং তাঁর বিস্তারিত পরিচয় জানার চেষ্টা চলছে। তাঁর সঙ্গে থাকা আগ্নেয়াস্ত্রটিও বিজিবির বিছনাকান্দি বিওপির ক্যাম্পে রাখা হয়েছে।",
+        "details_en": "According to the Sylhet battalion (48 BGB) of BGB, a BGB patrol team was on duty in the Bichnakandi border area. At that time, the BSF member was detained after being seen inside Bangladesh. The name and rank of the detained person were not known immediately and efforts are underway to know his detailed identity. The firearm with him was also kept at the Bichnakandi BOP camp of BGB.",
+        "hook_bn": "সিলেট সীমান্তে অস্ত্রসহ বিএসএফের এক সদস্য আটক",
+        "question_bn": "সীমান্তে এ ধরনের ঘটনায় দুই দেশের সম্পর্কে কী প্রভাব পড়তে পারে বলে আপনি মনে করেন?"
       },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-17T08:02:49.302909+00:00"
+        "checked_at": "2026-11-17T09:02:20.777572+00:00"
       }
     },
     {
-      "story_id": "d6ebc473-7e1e-596e-85a2-4c0a1b53923e",
+      "story_id": "d5645ba7-68c7-53a4-b7aa-14426186e20f",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
       ],
       "region": "international",
       "tags": [
-        "#QuadSummit",
-        "#NarendraModi",
-        "#DonaldTrump",
-        "#Manila"
+        "#Bahrain",
+        "#Iran",
+        "#IRGC",
+        "#US"
       ],
-      "image_url": "https://th-i.thgim.com/public/incoming/wcrls3/article71710486.ece/alternates/LANDSCAPE_1200/2026-11-17T052751Z_536179175_RC2HPOAD4R5X_RTRMADP_3_ASEAN-SUMMIT.JPG",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2303891286-1-1794902140.jpg?resize=1920%2C1440",
       "image_caption": null,
-      "published_at": "2026-11-17T06:38:00+00:00",
+      "published_at": "2026-11-17T07:35:54+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 3.4,
-      "rank_score": 1.0666,
+      "importance_score": 6.25,
+      "rank_score": 3.5972,
       "sources": [
         {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/what-is-quad-manila-agenda-why-does-2026-summit-matter/article71710464.ece",
-          "title": "What is Quad, what is on the Manila agenda, and why does the 2026 summit matter?",
-          "snippet": "What is Quad, what is on the Manila agenda, and why does the 2026 summit matter?"
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss",
+          "title": "Bahrain thwarts drone attack; Iran claims targeting US radar",
+          "snippet": "Bahrain thwarts drone attack; Iran claims targeting US radar"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821480/%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%B0%E0%A6%BE%E0%A6%A1%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%A8-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BF-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0",
+          "title": "বাহরাইনে মার্কিন রাডারে ড্রোন হামলার দাবি ইরানের",
+          "snippet": "বাহরাইনে মার্কিন রাডারে ড্রোন হামলার দাবি ইরানের"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/international/498610",
+          "title": "বাহরাইনের বিমান ঘাঁটির রাডার সিস্টেমে ড্রোন হামলার দাবি ইরানের",
+          "snippet": "বাহরাইনের বিমান ঘাঁটির রাডার সিস্টেমে ড্রোন হামলার দাবি ইরানের"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ম্যানিলায় কোয়াড শীর্ষ সম্মেলনে মিলিত হবেন বিশ্বনেতারা",
-        "title_en": "World leaders will meet at the Quad Summit in Manila",
-        "summary_bn": "ভারতের প্রধানমন্ত্রী নরেন্দ্র মোদি মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পসহ অন্যান্য নেতাদের সঙ্গে ম্যানিলায় কোয়াড শীর্ষ বৈঠকে যোগ দেবেন।",
-        "summary_en": "Indian Prime Minister Narendra Modi will meet U.S. President Donald Trump and other leaders at the Quad Summit in Manila.",
+        "title_bn": "বাহরাইনে ড্রোন হামলা প্রতিহত করা হয়েছে",
+        "title_en": "Bahraini air defence has thwarted a drone attack",
+        "summary_bn": "ইরানের ইসলামিক রেভোলিউশনারি গার্ড কর্পস বা আইআরজিসির ছোঁড়া ড্রোন হামলা প্রতিহত করেছে বাহরাইনের বিমান প্রতিরক্ষা ব্যবস্থা।",
+        "summary_en": "Bahraini air defence has thwarted a drone attack after Iran launched a barrage of unmanned aerial vehicles.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-17T06:38:00+00:00",
-        "lead_bn": "ভারতের প্রধানমন্ত্রী নরেন্দ্র মোদি মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পসহ অন্যান্য নেতাদের সঙ্গে ম্যানিলায় কোয়াড শীর্ষ বৈঠকে যোগ দেবেন।",
-        "lead_en": "Indian Prime Minister Narendra Modi will meet U.S. President Donald Trump and other leaders at the Quad Summit in Manila.",
+        "published_at": "2026-11-17T07:35:54+00:00",
+        "lead_bn": "ইরানের ইসলামিক রেভোলিউশনারি গার্ড কর্পস বা আইআরজিসির ছোঁড়া ড্রোন হামলা প্রতিহত করেছে বাহরাইনের বিমান প্রতিরক্ষা ব্যবস্থা।",
+        "lead_en": "Bahraini air defence has thwarted a drone attack after Iran launched a barrage of unmanned aerial vehicles.",
         "bullets_bn": [
-          "যুক্তরাষ্ট্রের উইলমিংটনে ২০২৪ সালের সেপ্টেম্বরের পর এটি কোয়াড নেতাদের প্রথম বৈঠক।",
-          "বাণিজ্যিক জাহাজ রক্ষা ও খনিজ সরবরাহ শৃঙ্খল সুরক্ষিত করা এজেন্ডায় থাকবে বলে কর্মকর্তারা জানিয়েছেন।",
-          "ইরান ও ইউক্রেন সংঘাতের সঙ্গে জড়িত হামলায় অন্তত ৩০ ভারতীয় নাবিক নিহত হয়েছেন।"
+          "বাহরাইনের ইসা বিমানঘাঁটিতে অবস্থিত একটি মার্কিন রাডার সিস্টেমে ড্রোন হামলা চালানোর দাবি করেছে আইআরজিসি।",
+          "আইআরজিসি জানিয়েছে, অঞ্চলে আমেরিকান বাহিনীর শত্রুতামূলক তৎপরতা মোকাবিলার কাঠামোর মধ্যে এই পদক্ষেপ নেওয়া হয়েছে।",
+          "রাজধানী মানামায় সম্ভাব্য হুমকির সতর্কতা জারি করার পর বিস্ফোরণের শব্দ শোনা গেছে।"
         ],
         "bullets_en": [
-          "This will be the first meeting of Quad leaders since September 2024 in Wilmington, United States.",
-          "Officials stated that securing critical mineral supply chains and safeguarding commercial shipping routes will feature prominently.",
-          "At least 30 Indian seafarers have been killed in attacks linked to conflicts involving Iran and Ukraine."
+          "The IRGC claimed it carried out a drone attack on a US radar system at the Isa airbase in Bahrain.",
+          "The IRGC said the attack was part of efforts to counter the hostile activities of US forces in the region.",
+          "Blasts echoed over the Bahraini capital, Manama, after residents received a mobile phone alert warning of a potential threat."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "কোয়াড গ্রুপ ভারত, অস্ট্রেলিয়া, জাপান ও যুক্তরাষ্ট্রকে একত্র করে এবং ২০০৪ সালের ভারত মহাসাগরীয় সুনামির পর ত্রাণ সমন্বয়ের মাধ্যমে এর উৎপত্তি হয়। এই সম্মেলনে ডোনাল্ড ট্রাম্প মার্কিন প্রেসিডেন্টের দ্বিতীয় মেয়াদ শুরুর পর এবং সানে তাকাইচি জাপানের প্রধানমন্ত্রী হিসেবে দায়িত্ব নেওয়ার পর প্রথম যোগ দেবেন। পূর্বের শীর্ষ সম্মেলনটি ২০২৪ সালে মার্কিন প্রেসিডেন্ট জো বাইডেন এবং জাপানের প্রধানমন্ত্রী ফুমিও কিশিদার সময়ে অনুষ্ঠিত হয়েছিল।",
-        "details_en": "The Quad brings together India, Australia, Japan and the United States, tracing its origins to relief coordination after the 2004 Indian Ocean tsunami. This summit marks the first meeting since Mr. Trump began his second term and Ms. Takaichi assumed office as Japan's Prime Minister. The previous summit was held in Wilmington in 2024 under U.S. President Joe Biden and Japanese Prime Minister Fumio Kishida.",
-        "hook_bn": "সংঘাতের জেরে অন্তত ৩০ ভারতীয় নাবিক নিহত হয়েছেন।",
+        "details_bn": "যুক্তরাষ্ট্র ও ইসরায়েলের বিরুদ্ধে ইরানের চলমান যুদ্ধের প্রেক্ষাপটে এই ঘটনা ঘটেছে, যা গত ২৮ ফেব্রুয়ারি শুরু হয়েছিল এবং পুরো উপসাগরীয় অঞ্চলকে প্রভাবিত করেছে। এর আগে বাহরাইনের রীফা বিমানঘাঁটিতে মার্কিন বিমান প্রতিরক্ষা রাডার সিস্টেমে ছয়টি ড্রোন পাঠিয়েছিল আইআরজিসি।",
+        "details_en": "The reported attacks come amid stalled diplomatic efforts to end the US-Israel war on Iran, which began on February 28. the IRGC launched six drones at a US air defence radar system at Bahrain's Riffa airbase.",
+        "hook_bn": "বাহরাইনে মার্কিন রাডারে ইরানের ড্রোন হামলা প্রতিহত করা হয়েছে।",
         "question_bn": null
       },
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-17T08:02:49.302909+00:00"
+        "checked_at": "2026-11-17T09:02:20.777572+00:00"
       }
     },
     {
-      "story_id": "f7dc5513-adf1-5ef1-9cb9-ff7f91fb2178",
+      "story_id": "8ff2d90a-938f-52e5-809a-b61e1b495bbc",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy",
-        "economy_business"
+        "world_diplomacy"
       ],
       "region": "international",
       "tags": [
-        "#JPMorganChase",
-        "#Zelle",
-        "#USBanks"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://th-i.thgim.com/public/incoming/5ir5bx/article71710309.ece/alternates/LANDSCAPE_1200/2026-10-27T154639Z_946471081_RC2HGKAET3NA_RTRMADP_3_JPMORGAN-CHASE-BANKER-LAWSUIT.JPG",
+      "image_url": "https://static.dw.com/image/79955625_6.jpg",
       "image_caption": null,
-      "published_at": "2026-11-17T07:21:24+00:00",
+      "published_at": "2026-11-17T08:07:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.278,
+      "importance_score": 6.0,
+      "rank_score": 3.4159,
       "sources": [
         {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/sci-tech/technology/what-to-know-about-the-online-banking-delays-affecting-major-us-banks/article71710293.ece",
-          "title": "What to know about the online banking delays affecting major U.S. banks",
-          "snippet": "What to know about the online banking delays affecting major U.S. banks"
+          "name": "DW বাংলা",
+          "url": "https://www.dw.com/bn/মিয়ানমারে-মানবিক-দুর্ভোগ-চরম-পর্যায়ে-গুতেরেস/a-79965444?maca=ben-rss-ben-all-3197-rdf",
+          "title": "মিয়ানমারে মানবিক দুর্ভোগ চরম পর্যায়ে : গুতেরেস",
+          "snippet": "মিয়ানমারে মানবিক দুর্ভোগ চরম পর্যায়ে : গুতেরেস"
+        },
+        {
+          "name": "Politico Europe",
+          "url": "https://www.politico.eu/article/russian-missiles-hit-two-major-kyiv-bridges/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "title": "Russia hits 2 major Kyiv bridges in overnight strikes",
+          "snippet": "Russia hits 2 major Kyiv bridges in overnight strikes"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চেজে প্রযুক্তিগত সমস্যার কারণে প্রধান মার্কিন ব্যাংকগুলোর অনলাইন ব্যাংকিংয়ে বিঘ্ন ঘটেছে",
-        "title_en": "Technical issue at Chase affects online banking at major U.S. banks",
-        "summary_bn": "জেপিমরগান চেজে একটি প্রযুক্তিগত সমস্যার কারণে প্রধান মার্কিন ব্যাংকগুলোর অনলাইন অ্যাকাউন্ট এবং জেলা সেবায় গ্রাহকদের প্রবেশে সমস্যা হয়েছে।",
-        "summary_en": "A technical issue at JPMorgan Chase caused customers difficulty accessing online accounts at several major U.S. banks and Zelle.",
+        "title_bn": "মিয়ানমারে মানবিক দুর্ভোগ চরম পর্যায়ে পৌঁছেছে বলে জানিয়েছেন জাতিসংঘের মহাসচিব।",
+        "title_en": "UN chief says humanitarian suffering in Myanmar has reached extreme levels.",
+        "summary_bn": "মিয়ানমারে চলমান অসহনীয় মানবিক সংকট এবং চরম পর্যায়ে পৌঁছানো মানবিক দুর্ভোগ নিয়ে গভীর উদ্বেগ প্রকাশ করেছেন জাতিসংঘের মহাসচিব।",
+        "summary_en": "The UN Secretary-General expressed deep concern over the ongoing intolerable humanitarian crisis and extreme humanitarian suffering in Myanmar.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "economy_business"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-17T07:21:24+00:00",
-        "lead_bn": "জেপিমরগান চেজে একটি প্রযুক্তিগত সমস্যার কারণে প্রধান মার্কিন ব্যাংকগুলোর অনলাইন অ্যাকাউন্ট এবং জেলা সেবায় গ্রাহকদের প্রবেশে সমস্যা হয়েছে।",
-        "lead_en": "A technical issue at JPMorgan Chase caused customers difficulty accessing online accounts at several major U.S. banks and Zelle.",
+        "published_at": "2026-11-17T08:07:00+00:00",
+        "lead_bn": "মিয়ানমারে চলমান অসহনীয় মানবিক সংকট এবং চরম পর্যায়ে পৌঁছানো মানবিক দুর্ভোগ নিয়ে গভীর উদ্বেগ প্রকাশ করেছেন জাতিসংঘের মহাসচিব।",
+        "lead_en": "The UN Secretary-General expressed deep concern over the ongoing intolerable humanitarian crisis and extreme humanitarian suffering in Myanmar.",
         "bullets_bn": [
-          "জেপিমরগান চেজ জানিয়েছে যে একটি সফটওয়্যার বাগ তাদের অভ্যন্তরীণ হার্ডওয়্যার সিস্টেমে প্রভাব ফেলেছে।",
-          "চেজের মুখপাত্র জো ইভানজেলিস্টা বলেছেন যে অন্য ব্যাংকগুলো কেবল চেজের সাথে লেনদেনের ক্ষেত্রে ধীরগতির শিকার হতে পারে।",
-          "কোম্পানিটি ব্যাংকিং সেবাগুলো অনলাইনে ফিরিয়ে আনার জন্য কাজ করছে।"
+          "মিয়ানমারে মূলত বিমান হামলার কারণেই বেসামরিক নাগরিকরা হতাহত হচ্ছেন বলে জানান জাতিসংঘের মহাসচিব।",
+          "মিয়ানমারে এ মুহূর্তে ৪০ লাখেরও বেশি মানুষ অভ্যন্তরীণভাবে বাস্তুচ্যুত হয়েছেন।",
+          "দেশটিতে এক কোটি ৬০ লাখেরও বেশি মানুষের মানবিক সহায়তার প্রয়োজন রয়েছে।"
         ],
         "bullets_en": [
-          "JPMorgan Chase said a software bug was affecting its internal hardware systems.",
-          "Chase spokesperson Joe Evangelisti said other banks may have been impacted only in transactions involving Chase.",
-          "The company was working to bring banking services back online."
+          "The UN chief stated that airstrikes are the main cause of civilian casualties in Myanmar.",
+          "More than four million people are currently internally displaced in Myanmar.",
+          "More than 16 million people in the country need humanitarian assistance."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "মার্কিন ব্যাংকগুলোর অনলাইন ব্যাংকিংয়ে দেখা দিয়েছে বড় ধরনের সমস্যা।",
-        "question_bn": "অনলাইন ব্যাংকিং সেবায় এ ধরনের বিঘ্ন এড়াতে ব্যাংকগুলোর কী ধরনের প্রস্তুতি থাকা উচিত বলে আপনি মনে করেন?"
+        "details_bn": "২০২১ সালে সামরিক অভ্যুত্থানের মাধ্যমে মিয়ানমারে ক্ষমতা দখল করে সেনাবাহিনী। তারপর থেকে দেশটিতে সংঘাত চলছে এবং আঞ্চলিক জোট আসিয়ানের নেতাদের সঙ্গে বৈঠকের পর এসব তথ্য জানান জাতিসংঘের মহাসচিব।",
+        "details_en": "The military seized power in Myanmar through a coup in 2021. Conflict has continued there since then, and the UN Secretary-General shared this information following a meeting with leaders of the regional bloc ASEAN.",
+        "hook_bn": "মিয়ানমারে বাস্তুচ্যুত হয়েছেন ৪০ লাখেরও বেশি মানুষ।",
+        "question_bn": null
       },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-17T08:02:49.302909+00:00"
+        "checked_at": "2026-11-17T09:02:20.777572+00:00"
       }
     }
   ]
