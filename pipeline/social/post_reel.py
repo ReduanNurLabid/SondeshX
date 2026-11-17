@@ -351,12 +351,12 @@ def _place(items: list, total: float, out: str):
         "-map", "[m]", "-ac", "2", "-ar", "48000", out)
 
 
-def build_voiceover(story: dict, workdir: str):
+def build_voiceover(story: dict, workdir: str, use_voice: bool = True):
     """Builds the whole soundtrack. Returns (audio_wav, segments, total_duration)."""
     parts = _script_parts(story)              # headline/hook, 1-2 points, outro
     texts = [t for _, _, t in parts]
     raw = os.path.join(workdir, "voice_raw.wav")
-    voiced = _gemini_speech(texts, raw)
+    voiced = use_voice and _gemini_speech(texts, raw)
     if voiced:
         speech_len = media_duration(raw)
         cuts = _boundaries(texts, speech_len, _silences(raw))
@@ -572,6 +572,8 @@ def main():
     parser.add_argument("--out", default="reel.mp4", help="where to keep the rendered video")
     parser.add_argument("--min-gap-minutes", type=int, default=0,
                         help="skip if the last post of this format went out less than this many minutes ago")
+    parser.add_argument("--no-voice", action="store_true",
+                        help="music-only Reel: on-screen text, no voiceover (saves the Gemini voice limit)")
     parser.add_argument("--format", choices=["reel", "photo"], default="reel",
                         help="reel: voiced video; photo: 4:5 photo card")
     args = parser.parse_args()
@@ -624,7 +626,7 @@ def main():
         return
 
     with tempfile.TemporaryDirectory() as workdir:
-        voice, segments, duration = build_voiceover(story, workdir)
+        voice, segments, duration = build_voiceover(story, workdir, use_voice=not args.no_voice)
         print(f"Soundtrack: {duration:.1f}s, {len(segments)} segments")
         video = render_video(story, segments, duration, args.base_url, workdir)
         mux(video, voice, duration, args.out)
@@ -656,6 +658,7 @@ def main():
         "social_appeal": story.get("social_appeal"),
         "reel_score": round(reel_score(story), 2),
         "duration_s": duration,
+        "voiced": not args.no_voice,
         "hashtags": build_hashtags(story),
         "story_published_at": story.get("published_at"),
     })
