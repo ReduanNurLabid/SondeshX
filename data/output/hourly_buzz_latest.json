@@ -1,213 +1,386 @@
 {
-  "updated_at": "2026-11-15T18:00:49.396597",
-  "total_stories": 3,
+  "updated_at": "2026-11-17T22:53:15.999066",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "a5dcc233-0174-5ea1-894c-4693504baf00",
+      "story_id": "6b21e6de-b5bc-5ce4-9e1f-4bbe3d112c95",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1774779685524-cc735ae11a9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8d2FyJTIwc3RhcnRzJTIwbWlkZGxlJTIwZWFzdCUyMGRpcGxvbWFjeXxlbnwxfDB8fHwxNzk0OTU2NTA1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-17T20:27:05+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.9854,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1180705",
+          "title": "যুক্তরাষ্ট্র-ইরানের পাল্টাপাল্টি হামলা, মধ্যপ্রাচ্যে যুদ্ধ শুরু",
+          "snippet": "যুক্তরাষ্ট্র-ইরানের পাল্টাপাল্টি হামলা, মধ্যপ্রাচ্যে যুদ্ধ শুরু"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যুক্তরাষ্ট্র ও ইরানের পাল্টাপাল্টি হামলায় মধ্যপ্রাচ্যে যুদ্ধ শুরু হয়েছে।",
+        "title_en": "War starts in Middle East amid mutual attacks between US and Iran.",
+        "summary_bn": "যুক্তরাষ্ট্র ও ইরানের মধ্যে পাল্টাপাল্টি হামলার ঘটনায় মধ্যপ্রাচ্যে যুদ্ধ শুরু হয়েছে।",
+        "summary_en": "A war has started in the Middle East following mutual attacks between the United States and Iran.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T20:27:05+00:00",
+        "lead_bn": "যুক্তরাষ্ট্র ও ইরানের মধ্যে পাল্টাপাল্টি হামলার ঘটনায় মধ্যপ্রাচ্যে যুদ্ধ শুরু হয়েছে।",
+        "lead_en": "A war has started in the Middle East following mutual attacks between the United States and Iran.",
+        "bullets_bn": [
+          "বাহরাইনে যুক্তরাষ্ট্রের সামরিক ঘাঁটিতে ইরান ড্রোন হামলা চালিয়েছে বলে যুক্তরাষ্ট্র অভিযোগ করেছে।",
+          "যুক্তরাষ্ট্র ও ইরানের মধ্যে এই পাল্টাপাল্টি হামলার ঘটনা ঘটেছে।",
+          "যুক্তরাষ্ট্রের ঘাঁটিতে হামলার পর মিশর এই হামলার নিন্দা জানিয়েছে।"
+        ],
+        "bullets_en": [
+          "The United States alleged that Iran launched a drone attack on a US military base in Bahrain.",
+          "Mutual attacks took place between the United States and Iran.",
+          "Egypt condemned the attack following the strike on the US base."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "যুক্তরাষ্ট্র ও ইরানের মধ্যে পাল্টাপাল্টি হামলার ঘটনায় মধ্যপ্রাচ্যে যুদ্ধ শুরু হয়েছে। বাহরাইনে যুক্তরাষ্ট্রের সামরিক ঘাঁটিতে ইরান ড্রোন হামলা চালিয়েছে বলে যুক্তরাষ্ট্র অভিযোগ করে। এরপর এই হামলার নিন্দা জানায় মিশর।",
+        "details_en": "War started in the Middle East following mutual attacks between the United States and Iran. The US alleged that Iran launched a drone attack on a US military base in Bahrain, after which Egypt condemned the attack.",
+        "hook_bn": "মধ্যপ্রাচ্যে যুক্তরাষ্ট্র ও ইরানের পাল্টাপাল্টি হামলায় যুদ্ধ শুরু হয়েছে।",
+        "question_bn": null
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T23:02:00.702077+00:00"
+      }
+    },
+    {
+      "story_id": "3252a2cc-db6c-5a30-95a6-5440b916db7f",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#RooppurNuclearPowerPlant",
+        "#NationalGrid",
+        "#FaqirMahbubAnam"
+      ],
+      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_16badfded182cc32b8e0884b36c83144.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-17T22:53:31.064450+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.5715,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/rooppur-nuclear-plant-feeds-national-grid-for-first-time",
+          "title": "Rooppur power enters national grid for first time",
+          "snippet": "Rooppur power enters national grid for first time"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্র জাতীয় গ্রিডে বিদ্যুৎ সরবরাহ শুরু করেছে",
+        "title_en": "Rooppur nuclear power plant starts supplying electricity to national grid",
+        "summary_bn": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্রের প্রথম ইউনিট পরীক্ষামূলকভাবে জাতীয় গ্রিডে যুক্ত হয়ে ৩৫০ মেগাওয়াট বিদ্যুৎ সরবরাহ শুরু করেছে।",
+        "summary_en": "The Rooppur Nuclear Power Plant has started supplying 350 megawatts of power to the national grid on a trial basis.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T22:53:31.064450+00:00",
+        "lead_bn": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্রের প্রথম ইউনিট পরীক্ষামূলকভাবে জাতীয় গ্রিডে যুক্ত হয়ে ৩৫০ মেগাওয়াট বিদ্যুৎ সরবরাহ শুরু করেছে।",
+        "lead_en": "The Rooppur Nuclear Power Plant has started supplying 350 megawatts of power to the national grid on a trial basis.",
+        "bullets_bn": [
+          "এই সংযোগটি বাণিজ্যিক বিদ্যুৎ উৎপাদনের সূচনা করে না এবং এটি সরঞ্জাম ও গ্রিড ব্যবস্থার কার্যকারিতা মূল্যায়নের একটি পরীক্ষা।",
+          "ডাক, টেলিযোগাযোগ এবং তথ্যপ্রযুক্তি মন্ত্রী এবং বিজ্ঞান ও প্রযুক্তি মন্ত্রী ফকির মাহবুব আনাম এই অনুষ্ঠানে উপস্থিত ছিলেন।",
+          "কেন্দ্রটি প্রথমে গ্রিডে আট থেকে ১০ ঘণ্টা বিদ্যুৎ সরবরাহ করবে এবং পরবর্তীতে আরও পরীক্ষা চালানো হবে।"
+        ],
+        "bullets_en": [
+          "The connection does not mark commercial power generation and is part of tests to assess equipment and system performance.",
+          "Faqir Mahbub Anam, Minister for Posts, Telecommunications and Information Technology, and Science and Technology, was present at the event.",
+          "The plant will initially supply electricity to the grid for around eight to 10 hours before further tests."
+        ],
+        "impact_bn": "গ্রিডে যুক্ত হওয়া এই বিদ্যুৎ গ্রাহকেরা ব্যবহার করতে পারবেন, তবে পরীক্ষার কারণে নিরবচ্ছিন্ন ও স্থিতিশীল সরবরাহ নিশ্চিত করা যাচ্ছে না।",
+        "impact_en": "Consumers will still be able to use the electricity fed into the grid, though an uninterrupted supply cannot be guaranteed during tests.",
+        "details_bn": "আন্তর্জাতিক পরমাণু শক্তি সংস্থার নির্দেশিকা ও মানদণ্ড অনুযায়ী উৎপাদন ক্ষমতা ধীরে ধীরে বাড়ানোর এই পরীক্ষামূলক কর্মসূচি শুরু হয়েছে। এই পর্যায়ে চুল্লি প্রেশার ভেসেল, টারবাইন, জেনারেটর এবং স্বয়ংক্রিয় নিয়ন্ত্রণ ব্যবস্থার কার্যকারিতা পরীক্ষা করা হবে।",
+        "details_en": "The trial programme to raise generation capacity gradually had begun in line with the guidelines and standards of the International Atomic Energy Agency. At this stage, the reactor pressure vessel, turbine, generator and automatic control systems will undergo performance tests.",
+        "hook_bn": "রূপপুর বিদ্যুৎ কেন্দ্র থেকে পরীক্ষামূলকভাবে ৩৫০ মেগাওয়াট বিদ্যুৎ জাতীয় গ্রিডে সরবরাহ শুরু হয়েছে।",
+        "question_bn": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্র থেকে জাতীয় গ্রিডে বিদ্যুৎ সরবরাহ শুরু হওয়া নিয়ে আপনার মতামত কী?"
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T23:02:00.702077+00:00"
+      }
+    },
+    {
+      "story_id": "dd949d06-065f-5492-bff1-497bbc1bd82c",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#BangladeshBank",
-        "#BangladeshTeaAssociation",
-        "#KamranTanvirurRahman"
+        "#GarmentWorkers",
+        "#MinimumWageBoard",
+        "#SyedAzadSubhani"
       ],
-      "image_url": "https://images.unsplash.com/photo-1674498260932-6f7d8eed6d9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8dGVhJTIwZXN0YXRlJTIwb3duZXJzJTIwc291Z2h0JTIwYnVzaW5lc3N8ZW58MXwwfHx8MTc5NDc2NTY5OHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182026/img-9186.jpeg",
       "image_caption": null,
-      "published_at": "2026-11-15T18:00:00+00:00",
+      "published_at": "2026-11-17T22:53:31.064450+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.8929,
+      "importance_score": 2.4,
+      "rank_score": 0.5715,
       "sources": [
         {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/economy/news/tea-estate-owners-seek-tk-2500cr-low-interest-lifeline-4324786",
-          "title": "Tea estate owners seek Tk 2,500cr low-interest lifeline",
-          "snippet": "Tea estate owners seek Tk 2,500cr low-interest lifeline"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/garment-workers-to-get-revised-wages-in-january-wage-board-chief",
+          "title": "Garment workers to get revised wages in January: Wage Board chief",
+          "snippet": "Garment workers to get revised wages in January: Wage Board chief"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চা বাগান মালিকরা বাংলাদেশ ব্যাংকের কাছে ঋণ সুবিধা চেয়েছেন",
-        "title_en": "Tea estate owners sought loans from Bangladesh Bank",
-        "summary_bn": "চা বাগান মালিক ও planters খাতটি পুনরুজ্জীবিত করতে বাংলাদেশ ব্যাংকের কাছে ২ হাজার কোটি থেকে ২ হাজার ৫০০ কোটি টাকার কম সুদের তহবিল চেয়েছেন।",
-        "summary_en": "Tea estate owners and planters have sought a Tk 2,000 crore to Tk 2,500 crore low-interest fund from Bangladesh Bank to revive the sector.",
+        "title_bn": "পোশাকশ্রমিকেরা জানুয়ারি মাসে সংশোধিত মজুরি পাবেন বলে জানিয়েছেন মজুরি বোর্ডের প্রধান।",
+        "title_en": "Garment workers will receive revised wages in January, says Wage Board chief.",
+        "summary_bn": "নতুন ন্যূনতম মজুরি কাঠামো ঘোষণার পর পোশাকশ্রমিকেরা জানুয়ারি মাসে তাদের ডিসেম্বরের মজুরির সঙ্গে সংশোধিত বেতন পাবেন।",
+        "summary_en": "Garment workers will receive their revised pay in January as their December wage once the new minimum wage structure is announced.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-15T18:00:00+00:00",
-        "lead_bn": "চা বাগান মালিক ও planters খাতটি পুনরুজ্জীবিত করতে বাংলাদেশ ব্যাংকের কাছে ২ হাজার কোটি থেকে ২ হাজার ৫০০ কোটি টাকার কম সুদের তহবিল চেয়েছেন।",
-        "lead_en": "Tea estate owners and planters have sought a Tk 2,000 crore to Tk 2,500 crore low-interest fund from Bangladesh Bank to revive the sector.",
+        "published_at": "2026-11-17T22:53:31.064450+00:00",
+        "lead_bn": "নতুন ন্যূনতম মজুরি কাঠামো ঘোষণার পর পোশাকশ্রমিকেরা জানুয়ারি মাসে তাদের ডিসেম্বরের মজুরির সঙ্গে সংশোধিত বেতন পাবেন।",
+        "lead_en": "Garment workers will receive their revised pay in January as their December wage once the new minimum wage structure is announced.",
         "bullets_bn": [
-          "বাংলাদেশ ব্যাংক ও বাংলাদেশ চা অ্যাসোসিয়েশনের মধ্যে কেন্দ্রীয় ব্যাংক কার্যালয়ে একটি বৈঠক অনুষ্ঠিত হয়।",
-          "বাংলাদেশ ব্যাংকের গভর্নর মোশতাকুর রহমান বৈঠকে সভাপতিত্ব করেন এবং বিটিএ চেয়ারম্যান কামরান তানভীরুর রহমান চা খাত প্রতিনিধি দলের নেতৃত্ব দেন।",
-          "চা খাত ক্ষতিগ্রস্ত হয়েছে উল্লেখ করে সহজ শর্তে ঋণ পুনঃতফসিল সুবিধা দাবি করা হয়।"
+          "মজুরি বোর্ডের তৃতীয় সভা আগামী ২৩ নভেম্বর পুনর্নির্ধারণ করা হয়েছে।",
+          "মজুরি বোর্ডের চেয়ারম্যান সৈয়দ আজাদ সুবহানি সাংবাদিকদের এই তথ্য জানান।",
+          "শ্রমিকদের প্রতিনিধিরা পোশাক শ্রমিকদের জন্য ন্যূনতম মাসিক মজুরি ৩২,০০০ টাকা দাবি করেছেন।"
         ],
         "bullets_en": [
-          "A meeting was held between Bangladesh Bank and the Bangladesh Tea Association at the central bank headquarters.",
-          "Bangladesh Bank Governor Md Mostaqur Rahman presided over the meeting, while BTA Chairman Kamran Tanvirur Rahman led the delegation.",
-          "The sector representatives demanded easier terms for loan rescheduling as the tea sector has already been damaged."
+          "The third meeting of the Minimum Wage Board has been rescheduled for November 23.",
+          "Minimum Wage Board Chairman Syed Azad Subhani made the remarks at a press briefing in Dhaka.",
+          "Workers' representatives demanded a minimum monthly wage of Tk 32,000 for RMG workers."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বাংলাদেশ ব্যাংকের সঙ্গে বাংলাদেশ চা অ্যাসোসিয়েশনের বৈঠকে খাতটির প্রতিনিধিরা এই দাবি জানান। কামরান তানভীরুর রহমান দ্য ডেইলি স্টারকে জানান যে খাতের সুরক্ষায় এই অর্থায়ন প্রয়োজন। চা একটি কৃষিভিত্তিক শিল্প এবং একে অন্যান্য খাতের সঙ্গে তুলনা করা উচিত নয় বলে তিনি উল্লেখ করেন। এছাড়া জুলাই মাসে প্রধানমন্ত্রী তারিক রহমান উৎপাদন বৃদ্ধি ও দীর্ঘদিনের সমস্যা সমাধানে চা শিল্পকে সব ধরনের সহযোগিতার আশ্বাস দিয়েছিলেন। সরকারও এই শিল্পকে এগিয়ে নিতে নীতিগত, আর্থিক ও প্রাতিষ্ঠানিক সহায়তার প্রতিশ্রুতি দিয়েছে।",
-        "details_en": "The demands were placed at a meeting between Bangladesh Bank and the Bangladesh Tea Association at the central bank headquarters. Kamran told The Daily Star that the sector needs low-cost financing and loan rescheduling as it has already been damaged. He added that tea is an agro-based industry and should not be compared with other sectors. In July this year, Prime Minister Tarique Rahman assured the tea industry of all necessary cooperation to boost production and address problems, while the government pledged policy, financial and institutional support."
+        "details_bn": "শ্রম অসন্তোষের মধ্যে পোশাক শ্রমিকদের মজুরি পুনর্নির্ধারণের জন্য সরকার গত ১ নভেম্বর ন্যূনতম মজুরি বোর্ড গঠন করে। বোর্ডের প্রথম সভা ৪ নভেম্বর অনুষ্ঠিত হয় এবং দ্বিতীয় সভা ৯ নভেম্বর অনুষ্ঠিত হয়।",
+        "details_en": "Amid labour unrest, the government formed the Minimum Wage Board on November 1 to refix wages for garment workers. The board held its first meeting on November 4 and its second meeting on November 9.",
+        "hook_bn": "পোশাকশ্রমিকেরা জানুয়ারি মাসে তাদের সংশোধিত মজুরি পাবেন।",
+        "question_bn": "পোশাকশ্রমিকদের ন্যূনতম মজুরি কত হওয়া উচিত বলে আপনি মনে করেন?"
       },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-15T18:02:10.728303+00:00"
+        "checked_at": "2026-11-17T23:02:00.702077+00:00"
       }
     },
     {
-      "story_id": "e872e583-6691-58ca-bf5b-766e355364b7",
-      "primary_category": "economy_business",
+      "story_id": "9d8c4ff1-98e5-52b4-aee8-9952ba6b2c2c",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
+        "world_diplomacy",
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#BangladeshBank",
-        "#DefaultLoans",
-        "#BankingSector"
+        "#HumaiunKobir",
+        "#SriLanka",
+        "#Bangladesh"
       ],
-      "image_url": "https://images.unsplash.com/photo-1616803140344-6682afb13cda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFua3MlMjBhY2NvdW50JTIwcGVyY2VudCUyMGRlZmF1bHQlMjBidXNpbmVzc3xlbnwxfDB8fHwxNzk0NzY1NzA3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_b391a614e45cc9701edcc75bf98d614b.jpg",
       "image_caption": null,
-      "published_at": "2026-11-15T18:00:00+00:00",
+      "published_at": "2026-11-17T22:53:31.064450+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.8929,
+      "importance_score": 2.4,
+      "rank_score": 0.5715,
       "sources": [
         {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/economy/news/15-banks-account-85-default-loans-bb-4324796",
-          "title": "15 banks account for 85% of default loans: BB",
-          "snippet": "15 banks account for 85% of default loans: BB"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/humaiun-kobir-to-meet-sri-lankan-president-pm-and-fm",
+          "title": "Humaiun Kobir to meet Sri Lankan President, PM and FM",
+          "snippet": "Humaiun Kobir to meet Sri Lankan President, PM and FM"
         }
       ],
       "daily_buzz": {
-        "title_bn": "১৫টি ব্যাংক খেলাপির ৮৫ শতাংশ নিয়ন্ত্রণ করে",
-        "title_en": "15 banks account for 85 percent of default loans",
-        "summary_bn": "বাংলাদেশ ব্যাংকের প্রতিবেদনে বলা হয়েছে, ১৫টি ব্যাংক ছয় লাখ কোটি টাকার বেশি খেলাপি ঋণের ৮৫ শতাংশের বেশি নিয়ন্ত্রণ করে।",
-        "summary_en": "Fifteen banks account for more than 85 percent of the over Tk 600,000 crore in non-performing loans, according to Bangladesh Bank.",
+        "title_bn": "শ্রীলঙ্কার শীর্ষ নেতৃত্বের সঙ্গে বৈঠক করতে দেশটিতে গেছেন প্রতিমন্ত্রী হুমায়ুন কবির।",
+        "title_en": "State Minister Humaiun Kobir arrived in Sri Lanka to meet top leaders.",
+        "summary_bn": "দ্বিপক্ষীয় সম্পর্ক জোরদার করতে শ্রীলঙ্কায় পৌঁছেছেন পররাষ্ট্র প্রতিমন্ত্রী হুমায়ুন কবির।",
+        "summary_en": "State Minister for Foreign Affairs Humaiun Kobir arrived in Sri Lanka on Tuesday to strengthen bilateral relations.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "world_diplomacy",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-15T18:00:00+00:00",
-        "lead_bn": "বাংলাদেশ ব্যাংকের প্রতিবেদনে বলা হয়েছে, ১৫টি ব্যাংক ছয় লাখ কোটি টাকার বেশি খেলাপি ঋণের ৮৫ শতাংশের বেশি নিয়ন্ত্রণ করে।",
-        "lead_en": "Fifteen banks account for more than 85 percent of the over Tk 600,000 crore in non-performing loans, according to Bangladesh Bank.",
+        "published_at": "2026-11-17T22:53:31.064450+00:00",
+        "lead_bn": "দ্বিপক্ষীয় সম্পর্ক জোরদার করতে শ্রীলঙ্কায় পৌঁছেছেন পররাষ্ট্র প্রতিমন্ত্রী হুমায়ুন কবির।",
+        "lead_en": "State Minister for Foreign Affairs Humaiun Kobir arrived in Sri Lanka on Tuesday to strengthen bilateral relations.",
         "bullets_bn": [
-          "দেশের ৬১টি তফসিলি বাণিজ্যিক ব্যাংকের মোট শ্রেণীকৃত ঋণ ২০২৫-২৬ অর্থবছরের চতুর্থ প্রান্তিকে বেড়েছে।",
-          "বাংলাদেশ ব্যাংক জানিয়েছে, সম্প্রতি একীভূত হওয়া পাঁচটি শরিয়াহভিত্তিক ব্যাংক বাদ দিলে অন্য ১০টি ব্যাংক মোট শ্রেণীকৃত ঋণের ৫৭ শতাংশের বেশি ধরে রেখেছে।",
-          "চতুর্থ প্রান্তিকে ব্যাংক খাতের মূলধন পর্যাপ্ততা আরও কমে গেছে।"
+          "তিনি শ্রীলঙ্কার প্রেসিডেন্ট অনুরা কুমারা দিশানায়েকে এবং প্রধানমন্ত্রী ড. হারিনি আমাসুরিয়ার সঙ্গে সাক্ষাৎ করবেন।",
+          "সফরে বাংলাদেশের সঙ্গে ব্যাপক সহযোগিতার বিষয়ে একটি সমঝোতা স্মারক স্বাক্ষরিত হবে।",
+          "তিনি শ্রীলঙ্কার পররাষ্ট্রমন্ত্রী বিজিতা হেরাথের সঙ্গে দ্বিপক্ষীয় বৈঠক করবেন।"
         ],
         "bullets_en": [
-          "Total classified loans across the countrys 61 scheduled commercial banks rose in the fourth quarter of fiscal year 2025-26.",
-          "Excluding five recently merged shariah-based banks, 10 other banks held more than 57 percent of total classified loans, the central bank said.",
-          "Capital adequacy in the banking sector deteriorated further in the fourth quarter of FY26."
+          "He is scheduled to call on Sri Lankan President Anura Kumara Dissanayake and Prime Minister Dr. Harini Amarasuriya.",
+          "An MoU on establishing the Bangladesh-Sri Lanka Joint Consultative Commission will be signed during the visit.",
+          "He will hold a bilateral meeting with Sri Lankan Foreign Minister Vijitha Herath."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বাংলাদেশ ব্যাংক প্রকাশিত এপ্রিল-জুন ২০২৬ ত্রৈমাসিক প্রতিবেদনে বলা হয়েছে, সার্বিক স্থূল খেলাপি ঋণের অনুপাত পূর্ববর্তী প্রান্তিকের ৩২.২৬ শতাংশ থেকে বেড়ে ৩২.৭৮ শতাংশ হয়েছে। কেন্দ্রীয় ব্যাংক জানিয়েছে, ব্যাংকিং খাত সম্পদ মানের গুণগত দুর্বলতা, মূলধন পর্যাপ্ততা এবং মুনাফর্জনের ক্ষেত্রে কাঠামোগত চ্যালেঞ্জের মুখে রয়েছে।",
-        "details_en": "The Bangladesh Bank Quarterly report for April-June 2026 shows the aggregate gross NPL ratio rose to 32.78 percent from 32.26 percent in the preceding quarter. The central bank stated that the banking sector continued to face structural challenges stemming from persistent weaknesses in asset quality, capital adequacy and profitability."
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "শ্রীলঙ্কায় পৌঁছেছেন পররাষ্ট্র প্রতিমন্ত্রী হুমায়ুন কবির।",
+        "question_bn": null
       },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-15T18:02:10.728303+00:00"
+        "checked_at": "2026-11-17T23:02:00.702077+00:00"
       }
     },
     {
-      "story_id": "da4b92d8-28f7-5d61-b5b2-ce2128a3c0eb",
-      "primary_category": "governance_law",
+      "story_id": "e67f080f-dd91-53a1-ae18-f823798a3795",
+      "primary_category": "tech_innovation",
       "interest_categories": [
-        "governance_law",
         "tech_innovation",
-        "society_education"
+        "world_diplomacy"
       ],
-      "region": "national",
+      "region": "international",
       "tags": [
-        "#Rampura",
-        "#Bangladesh",
-        "#Governance"
+        "#ICEYE",
+        "#Avio",
+        "#VegaC",
+        "#SpaceTech"
       ],
-      "image_url": "https://images.unsplash.com/photo-1788738089055-2cdf0ac0cf4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8aW50ZXJuZXQlMjBzZXJ2aWNlJTIwcHJvdmlkZXIlMjBlbXBsb3llZXMlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTQ3NjU3MDl8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/VV28_Decollage_plan_large_ZLV-1152x648.jpg",
       "image_caption": null,
-      "published_at": "2026-11-15T17:44:16+00:00",
+      "published_at": "2026-11-17T22:44:46+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 4.1554,
+      "importance_score": 1.7,
+      "rank_score": 0.2843,
       "sources": [
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/crime/424741/two-shot-at-rampura-internet-firm-over-tk10-lakh",
-          "title": "Two internet service provider employees shot in Rampura",
-          "snippet": "Two internet service provider employees shot in Rampura"
-        },
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/capital/post-1221047/",
-          "title": "চাঁদার দাবিতে ইন্টারনেট সরবরাহকারী প্রতিষ্ঠানে গুলি, আহত ২",
-          "snippet": "চাঁদার দাবিতে ইন্টারনেট সরবরাহকারী প্রতিষ্ঠানে গুলি, আহত ২"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821188/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%9A%E0%A6%BE%E0%A6%81%E0%A6%A6%E0%A6%BE-%E0%A6%A8%E0%A6%BE-%E0%A6%AA%E0%A7%87%E0%A7%9F%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A7%A8",
-          "title": "রাজধানীর রামপুরায় চাঁদা না পেয়ে হামলা, গুলিবিদ্ধ ২",
-          "snippet": "রাজধানীর রামপুরায় চাঁদা না পেয়ে হামলা, গুলিবিদ্ধ ২"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
+          "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
+          "snippet": "Yet another satellite company is jockeying for a rocket—but this one makes sense"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রামপুরায় ইন্টারনেট প্রতিষ্ঠানে দুর্বৃত্তের গুলিতে দুই কর্মী আহত",
-        "title_en": "Two internet service provider employees shot in Rampura",
-        "summary_bn": "রাজধানীর রামপুরায় চাঁদা না পেয়ে একটি ইন্টারনেট সেবা প্রতিষ্ঠানে হামলা চালিয়ে দুই কর্মীকে গুলি করেছে দুর্বৃত্তরা।",
-        "summary_en": "Gunmen shot two employees during an attack on an internet service provider in Rampura.",
+        "title_bn": "আইসিইওয়াইই অ্যাভিও ক্রয়ের জন্য ২.২ বিলিয়ন ডলারের বেশি প্রস্তাব দিয়েছে",
+        "title_en": "ICEYE seeks to buy Avio for more than $2.2 billion",
+        "summary_bn": "ফিনল্যান্ডের স্যাটেলাইট নির্মাতা প্রতিষ্ঠান আইসিইওয়াইই ইউরোপের প্রথম সমন্বিত মহাকাশ কোম্পানি গঠনের উদ্দেশ্যে ইতালির রকেট নির্মাতা অ্যাভিও ক্রয়ের প্রস্তাব দিয়েছে।",
+        "summary_en": "Finnish satellite developer ICEYE is seeking to buy Italian rocket-maker Avio to create Europe's first vertically integrated space company.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
           "tech_innovation",
-          "society_education"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-15T17:44:16+00:00",
-        "lead_bn": "রাজধানীর রামপুরায় চাঁদা না পেয়ে একটি ইন্টারনেট সেবা প্রতিষ্ঠানে হামলা চালিয়ে দুই কর্মীকে গুলি করেছে দুর্বৃত্তরা।",
-        "lead_en": "Gunmen shot two employees during an attack on an internet service provider in Rampura.",
+        "published_at": "2026-11-17T22:44:46+00:00",
+        "lead_bn": "ফিনল্যান্ডের স্যাটেলাইট নির্মাতা প্রতিষ্ঠান আইসিইওয়াইই ইউরোপের প্রথম সমন্বিত মহাকাশ কোম্পানি গঠনের উদ্দেশ্যে ইতালির রকেট নির্মাতা অ্যাভিও ক্রয়ের প্রস্তাব দিয়েছে।",
+        "lead_en": "Finnish satellite developer ICEYE is seeking to buy Italian rocket-maker Avio to create Europe's first vertically integrated space company.",
         "bullets_bn": [
-          "ঘটনাটি ঘটেছে ১৫ নভেম্বর সন্ধ্যা ৭টার দিকে রামপুরা ওয়াবদা রোডে তাকওয়া মসজিদের পাশে স্পিড টাচ নেটওয়ার্ক টেকনোলজি প্রতিষ্ঠানে।",
-          "চার থেকে পাঁচজন তরুণ প্রতিষ্ঠানে প্রবেশ করে এই গুলিবর্ষণের ঘটনা ঘটায়।",
-          "আহত দুই কর্মীকে ঢাকা মেডিকেল কলেজ হাসপাতালে চিকিৎসা দেওয়া হচ্ছে।"
+          "আইসিইওয়াইইয়ের ইতালীয় সহযোগী প্রতিষ্ঠান অ্যাভিও-র শেয়ারহোল্ডারদের কাছে এই স্বেচ্ছামূলক নগদ ক্রয়ের প্রস্তাব পাঠিয়েছে।",
+          "আইসিইওয়াইইয়ের সিইও রাফাল মোড্রেভস্কি বলেছেন ইউরোপের ক্রিটিক্যাল মহাকাশ অবকাঠামো নিয়ন্ত্রণে রাখা প্রয়োজন।",
+          "অ্যাভিও জানিয়েছে তাদের পরিচালনা পর্ষদ আইসিইওয়াইইয়ের এই নোটিশ নোট করেছে এবং প্রস্তাবটি বিবেচনা করছে।"
         ],
         "bullets_en": [
-          "The incident occurred at Speed Touch Network Technology near Taqwa Mosque on Wapda Road in Rampura at 7:00 pm on 15 November.",
-          "Four to five young men entered the office and opened fire during the attack.",
-          "The two injured employees are receiving treatment at Dhaka Medical College Hospital."
+          "An Italian subsidiary of ICEYE made an all-cash voluntary tender offer to Avio shareholders led by Leonardo.",
+          "ICEYE CEO Rafal Modrzewski said governments need control of their critical space infrastructure and Europe needs it most.",
+          "Avio stated its board of directors has taken note of the notice from ICEYE and is considering the purchase offer."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "রাজধানীর রামপুরা ওয়াবদা রোডে স্পিড টাচ নেটওয়ার্ক অ্যান্ড টেকনোলজি নামক ইন্টারনেট সেবা প্রদানকারী প্রতিষ্ঠানে চাঁদা দাবিকে কেন্দ্র করে এই হামলার ঘটনা ঘটে।",
-        "details_en": "The attack occurred at Speed Touch Network Technology on Wapda Road in Rampura over demands for extortion money."
+        "details_bn": "অ্যাভিও ভেগা সি রকেট তৈরি করে যা সলিড-ফুয়েল চালিত লঞ্চার এবং এটি ৩.৩ মেট্রিক টন পেলোড লো-আর্থ অর্বিটে বহন করতে পারে। ভেগা সি ২০২২ সাল থেকে আটটি প্রচেষ্টার মধ্যে সাতটিতে সফলভাবে উড্ডয়ন করেছে। এটি ২০১২ সালে আত্মপ্রকাশ করা ভেগা রকেটের পরবর্তী সংস্করণ, যা ২২টির মধ্যে ২০টি সফল রেকর্ড গড়েছিল। জুনে ফান্ড সংগ্রহ রাউন্ডের পর আইসিইওয়াইইয়ের মূল্যায়ন দাঁড়িয়েছে ১২ বিলিয়ন ডলারের বেশি।",
+        "details_en": "Avio builds the Vega C rocket, a solid-fueled launcher designed to carry up to 3.3 metric tons of payload to low-Earth orbit. The Vega C has flown successfully seven times in eight attempts since 2022, following an earlier Vega rocket that amassed a 20-for-22 record since 2012. ICEYE's valuation stands at more than $12 billion after a fundraising round in June.",
+        "hook_bn": "ফিনল্যান্ডের স্যাটেলাইট কোম্পানি আইসিইওয়াইই অ্যাভিও ক্রয়ে ২.২ বিলিয়নের বেশি প্রস্তাব দিয়েছে।",
+        "question_bn": "ইউরোপীয় মহাকাশ শিল্পে এই ধরনের বড় অধিগ্রহণ প্রযুক্তিগত অগ্রগতির ক্ষেত্রে কী প্রভাব ফেলতে পারে বলে আপনার মনে হয়?"
       },
-      "desk_importance": 6.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-15T18:02:10.728303+00:00"
+        "checked_at": "2026-11-17T23:02:00.702077+00:00"
+      }
+    },
+    {
+      "story_id": "a70c6929-e93e-5d3c-9208-92dea687a0cf",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#StKittsAndNevis",
+        "#TerranceDrew",
+        "#MarkBrantley",
+        "#EuropeanUnion"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/03f57a225008dd1bc1f3dc849a2f4e634086c7a4/342_0_2918_2334/master/2918.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d4359df7f529b956610a77b4dd3979f9",
+      "image_caption": null,
+      "published_at": "2026-11-17T21:49:29+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.2696,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
+          "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
+          "snippet": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সেন্ট কিটস্ অ্যান্ড নেভিস নাগরিকত্ব কর্মসূচি বন্ধের ঘোষণা দিয়েছে।",
+        "title_en": "St Kitts and Nevis has announced the closure of its citizenship program.",
+        "summary_bn": "ইউরোপীয় ইউনিয়নের হুমকির মুখে সেন্ট কিটস্ অ্যান্ড নেভিসের প্রধানমন্ত্রী টেরেন্স ড্রিউ নাগরিকত্ব-বাই-ইনভেস্টমেন্ট কর্মসূচি গুটিয়ে নেওয়ার ঘোষণা দিয়েছেন।",
+        "summary_en": "St Kitts and Nevis Prime Minister Terrance Drew announced he would wind down the citizenship-by-investment programme following European Union threats.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T21:49:29+00:00",
+        "lead_bn": "ইউরোপীয় ইউনিয়নের হুমকির মুখে সেন্ট কিটস্ অ্যান্ড নেভিসের প্রধানমন্ত্রী টেরেন্স ড্রিউ নাগরিকত্ব-বাই-ইনভেস্টমেন্ট কর্মসূচি গুটিয়ে নেওয়ার ঘোষণা দিয়েছেন।",
+        "lead_en": "St Kitts and Nevis Prime Minister Terrance Drew announced he would wind down the citizenship-by-investment programme following European Union threats.",
+        "bullets_bn": [
+          "নেভিসের প্রিমিয়ার মার্ক ব্র্যান্টলি জানিয়েছেন, দেশটিকে খুব কম বিকল্প দেওয়া হয়েছিল এবং তিনি এই কর্মসূচি বন্ধের সমর্থন করেন না।",
+          "ইউরোপীয় কমিশন পাঁচটি ক্যারিবীয় দেশকে শেনজেন এলাকায় ভিসামুক্ত প্রবেশাধিকার বাতিল করার সতর্কতা দিয়েছিল।",
+          "প্রধানমন্ত্রী ড্রিউ বলেন, এই কর্মসূচি অব্যাহত রাখলে ইউরোপে ভিসামুক্ত ভ্রমণ ও আন্তর্জাতিক ব্যাংকিং সেবা ব্যাহত হতে পারে।"
+        ],
+        "bullets_en": [
+          "Mark Brantley, the premier of Nevis, said the country was given very little choice and did not support winding down the program.",
+          "The European Commission warned five Caribbean nations that they may lose visa-free access to the Schengen area.",
+          "Prime Minister Drew said continuing the program risked visa-free travel to Europe and access to international banking."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "৪২ বছর আগে চালু হওয়া এই নাগরিকত্ব কর্মসূচিটির মাধ্যমে ধনী বিদেশিরা বিনিয়োগের বিনিময়ে নাগরিকত্ব ও পাসপোর্ট পেয়ে থাকেন। এটি দেশে বিলিয়ন ডলার এনে দিয়েছে এবং কিছু বছর সরকারি আয়ের সবচেয়ে বড় উৎস ছিল। প্রধানমন্ত্রী ড্রিউ এর জন্য পূর্ববর্তী প্রশাসনের অব্যবস্থাপনাকে দায়ী করেন।",
+        "details_en": "The 42-year-old citizenship-by-investment programme allows wealthy foreigners to obtain citizenship and a passport by investing. It has brought billions of dollars into the country and accounted for the largest share of government revenue in some years. Prime Minister Drew blamed the situation on mismanagement by previous administrations.",
+        "hook_bn": "নাগরিকত্ব কর্মসূচি বন্ধের ঘোষণা দিল সেন্ট কিটস্ অ্যান্ড নেভিস।",
+        "question_bn": "ইইউ-এর চাপে কোনো দেশের এমন বিনিয়োগ কর্মসূচি বন্ধ করে দেওয়াকে আপনি কীভাবে দেখেন?"
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T23:02:00.702077+00:00"
       }
     }
   ]
