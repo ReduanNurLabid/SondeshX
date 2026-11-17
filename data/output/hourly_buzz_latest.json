@@ -1,79 +1,302 @@
 {
-  "updated_at": "2026-11-17T10:00:46.877903",
-  "total_stories": 1,
+  "updated_at": "2026-11-17T11:00:55.615674",
+  "total_stories": 4,
   "stories": [
     {
-      "story_id": "963aefa8-ff49-553f-a50a-bc708a675e00",
-      "primary_category": "governance_law",
+      "story_id": "4e9b9e71-7455-5a4c-96d7-f44364fc5ba3",
+      "primary_category": "economy_business",
       "interest_categories": [
+        "economy_business",
+        "world_diplomacy",
         "governance_law",
-        "economy_business"
+        "climate_environment"
       ],
       "region": "national",
       "tags": [
-        "#Ansar",
-        "#Gopalganj",
-        "#AwamiLeague"
+        "#GarmentWorkers",
+        "#WageBoard",
+        "#Savar",
+        "#Ashulia"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/16/ansar_gopalganj.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/01/protest_of_rmg_workers_0.jpeg",
       "image_caption": null,
-      "published_at": "2026-11-17T07:55:00+00:00",
+      "published_at": "2026-11-17T10:15:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.75,
-      "rank_score": 5.3164,
+      "importance_score": 9.0,
+      "rank_score": 7.7447,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/law-order/8-ansar-platoons-deployed-gopalganj-protect-public-safety-deputy-dg-1605201",
-          "title": "8 Ansar platoons deployed in Gopalganj to protect public safety: Deputy DG",
-          "snippet": "8 Ansar platoons deployed in Gopalganj to protect public safety: Deputy DG"
+          "url": "https://www.tbsnews.net/economy/rmg/distrust-inactive-trade-unions-fuelling-garment-workers-unrest-labour-leaders-say",
+          "title": "Distrust, inactive trade unions fuelling garment workers' unrest, labour leaders say",
+          "snippet": "Distrust, inactive trade unions fuelling garment workers' unrest, labour leaders say"
         },
         {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/national/498622",
-          "title": "গোপালগঞ্জ, গাজীপুর ও নারায়ণগঞ্জে ১৮ প্লাটুন আনসার মোতায়েন",
-          "snippet": "গোপালগঞ্জ, গাজীপুর ও নারায়ণগঞ্জে ১৮ প্লাটুন আনসার মোতায়েন"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/wage-board-visits-factories-to-gather-workers-views-amid-garment-pay-talks",
+          "title": "Wage board visits factories to gather workers' views amid garment pay talks",
+          "snippet": "Wage board visits factories to gather workers' views amid garment pay talks"
+        },
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/uncategorized/post-1221815/",
+          "title": "ঢাকায় ২১ নভেম্বর থেকে শুরু হচ্ছে ‘ফরাসি সপ্তাহ’",
+          "snippet": "ঢাকায় ২১ নভেম্বর থেকে শুরু হচ্ছে ‘ফরাসি সপ্তাহ’"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গোপালগঞ্জে জননিরাপত্তা রক্ষায় আট প্লাটুন আনসার মোতায়েন করা হয়েছে",
-        "title_en": "Eight Ansar platoons deployed in Gopalganj to protect public safety",
-        "summary_bn": "জননিরাপত্তা রক্ষার জন্য গোপালগঞ্জে আট প্লাটুন আনসার সদস্য মোতায়েন করা হয়েছে বলে জানিয়েছেন আনসার ও গ্রাম প্রতিরক্ষা বাহিনীর ঢাকা রেঞ্জের উপমহাপরিচালক মো. আসাদুজ্জামান গণি।",
-        "summary_en": "Eight platoons of Ansar members have been deployed in Gopalganj to protect public safety, said Md Asaduzzaman Gani, deputy director general of the Dhaka range of the Ansar and Village Defence Party.",
+        "title_bn": "পোশাক খাতে অস্থিরতার জন্য অবিশ্বাসী ও নিষ্ক্রিয় শ্রমিক ইউনিয়নকে দায়ী করেছেন নেতারা",
+        "title_en": "Distrust and inactive trade unions fuel garment unrest, say labour leaders",
+        "summary_bn": "মজুরি বোর্ড, মালিক ও শ্রমিক নেতাদের মধ্যে অবিশ্বাস এবং সক্রিয় ট্রেড ইউনিয়নের অভাবে পোশাক খাতের অস্থিরতা অব্যাহত রয়েছে বলে জানিয়েছেন শ্রম নেতারা।",
+        "summary_en": "Distrust towards the minimum wage board and the absence of active trade unions are fueling garment sector unrest, labour leaders say.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "economy_business",
+          "world_diplomacy",
           "governance_law",
-          "economy_business"
+          "climate_environment"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-17T07:55:00+00:00",
-        "lead_bn": "জননিরাপত্তা রক্ষার জন্য গোপালগঞ্জে আট প্লাটুন আনসার সদস্য মোতায়েন করা হয়েছে বলে জানিয়েছেন আনসার ও গ্রাম প্রতিরক্ষা বাহিনীর ঢাকা রেঞ্জের উপমহাপরিচালক মো. আসাদুজ্জামান গণি।",
-        "lead_en": "Eight platoons of Ansar members have been deployed in Gopalganj to protect public safety, said Md Asaduzzaman Gani, deputy director general of the Dhaka range of the Ansar and Village Defence Party.",
+        "published_at": "2026-11-17T10:15:00+00:00",
+        "lead_bn": "মজুরি বোর্ড, মালিক ও শ্রমিক নেতাদের মধ্যে অবিশ্বাস এবং সক্রিয় ট্রেড ইউনিয়নের অভাবে পোশাক খাতের অস্থিরতা অব্যাহত রয়েছে বলে জানিয়েছেন শ্রম নেতারা।",
+        "lead_en": "Distrust towards the minimum wage board and the absence of active trade unions are fueling garment sector unrest, labour leaders say.",
         "bullets_bn": [
-          "মোতায়েন করা আনসার সদস্যরা কোনো মরণাস্ত্র বা তাজা গুলি ব্যবহার করবেন না এবং তারা শব্দ, হুইসেল ও শারীরিক উপস্থিতির ওপর নির্ভর করবেন।",
-          "আনসার সদস্যরা জেলা প্রশাসনের সাথে কাজ করবেন এবং বিজিবি ও এসআরবির সাথে যৌথ টহল পরিচালনা করবেন।",
-          "গোপালগঞ্জ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় এলাকা এবং বিসিক অফিস এলাকায় আনসার প্লাটুন মোতায়েন করা হয়েছে।"
+          "সাভার ও আশুলিয়ায় শ্রমিকেরা মজুরি বোর্ডের অগ্রগতি বা বৈঠকের অবস্থা সম্পর্কে জানেন না বলে জানিয়েছেন।",
+          "স্থানীয় রাজনৈতিক কোন্দল এবং ঝুট বাণিজ্য দখলের চেষ্টাও এই অস্থিরতার কারণ বলে নেতারা উল্লেখ করেছেন।",
+          "নিষিদ্ধ আওয়ামী লীগ রাজনৈতিক সুবিধার জন্য আন্দোলনগুলো ব্যবহারের চেষ্টা করছে বলে জানানো হয়েছে।"
         ],
         "bullets_en": [
-          "The Ansar members will not carry lethal weapons or use live bullets, relying instead on sound, whistles and physical presence.",
-          "The platoons will work with the district administration and carry out joint patrols with the BGB and SRB.",
-          "One platoon has been posted in the Gopalganj Science and Technology University area and another at the local Bscic office area."
+          "Workers in Savar and Ashulia said they were protesting without knowing the wage board meeting status.",
+          "Leaders also pointed to local political rivalries and attempts to control the jhut trade.",
+          "Banned Awami League efforts to exploit protests for political gain are also contributing factors."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "সাভার ও আশুলিয়ার অনেক বিক্ষোভকারীর মজুরি নির্ধারণের আইনি প্রক্রিয়া সম্পর্কে ধারণা নেই। গত ১৭ নভেম্বর খোঁজ নিয়ে জানা যায়, এক নারী পোশাক শ্রমিক জানান যে মজুরি কত হবে সে বিষয়ে তাদের কেউ কিছু জানায়নি। মালিকরা পরিস্থিতি স্বাভাবিক দাবি করে বেতন বাড়াচ্ছেন না বলে শ্রমিকদের ধারণা।",
+        "details_en": "Conversations with protesters in Savar and Ashulia on 17 November showed many lack understanding of the legal wage-setting process. A female worker stated they received no information about proceedings, while owners claimed normalcy as a reason for no wage hikes.",
+        "hook_bn": "মজুরি বোর্ডের কার্যক্রম না জানায় পোশাকশ্রমিকেরা বিক্ষোভ করছেন।",
+        "question_bn": "পোশাক খাতের বর্তমান পরিস্থিতি নিয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 8.0,
+      "outlet_count": 3,
+      "trending": true,
+      "social_appeal": 9.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T11:02:41.719520+00:00"
+      }
+    },
+    {
+      "story_id": "051ac294-93f4-54ee-ba0b-c1395d723cd4",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#CycloneAkvan",
+        "#BangladeshPorts",
+        "#AndhraCoast"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1605962889923-48dd4a968f3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cG9ydHMlMjBwbGFjZWQlMjBhbGVydCUyMGN5Y2xvbmUlMjBlbnZpcm9ubWVudHxlbnwxfDB8fHwxNzk0OTEzMzE5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-17T10:26:23+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 8.5,
+      "rank_score": 6.9842,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/weather/424882/ports-placed-on-alert-as-cyclone-akvan-heads-for",
+          "title": "Ports placed on alert as Cyclone Akvan heads for India",
+          "snippet": "Ports placed on alert as Cyclone Akvan heads for India"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ভারতের দিকে এগিয়ে যাওয়া ঘূর্ণিঝড় আকভান নিয়ে সব বন্দরে সতর্কতা জারি।",
+        "title_en": "Ports placed on alert as Cyclone Akvan heads for India.",
+        "summary_bn": "ভারতের অন্ধ্র উপকূলে আঘাত হানার আগে ঘূর্ণিঝড় আকভান আরও তীব্র হতে পারে, যার ফলে বাংলাদেশের চারটি সমুদ্রবন্দরকে ২ নম্বর দূরবর্তী সতর্কসংকেত দেখানো হয়েছে।",
+        "summary_en": "Ports placed on alert as Cyclone Akvan heads for India, prompting a distant warning signal No 2 at all four Bangladeshi seaports.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T10:26:23+00:00",
+        "lead_bn": "ভারতের অন্ধ্র উপকূলে আঘাত হানার আগে ঘূর্ণিঝড় আকভান আরও তীব্র হতে পারে, যার ফলে বাংলাদেশের চারটি সমুদ্রবন্দরকে ২ নম্বর দূরবর্তী সতর্কসংকেত দেখানো হয়েছে।",
+        "lead_en": "Ports placed on alert as Cyclone Akvan heads for India, prompting a distant warning signal No 2 at all four Bangladeshi seaports.",
+        "bullets_bn": [
+          "ঘূর্ণিঝড় আকভান ভারতের অন্ধ্র উপকূলের দিকে এগিয়ে যাচ্ছে।",
+          "ঝড়টি ভারতের উপকূলে আঘাত হানার আগে একটি খুব তীব্র ঘূর্ণিঝড়ে রূপ নিতে পারে।",
+          "বাংলাদেশের সব কটি সমুদ্রবন্দরে ২ নম্বর দূরবর্তী সতর্কসংকেত জারি করা হয়েছে।"
+        ],
+        "bullets_en": [
+          "Cyclone Akvan is heading towards India.",
+          "The storm may intensify into a very severe cyclonic storm before making landfall.",
+          "A distant warning signal No 2 has been issued at all four Bangladeshi seaports."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "গোপালগঞ্জে জননিরাপত্তা রক্ষায় অস্ত্র ছাড়া মোতায়েন করা হয়েছে আট প্লাটুন আনসার।",
+        "hook_bn": "ঘূর্ণিঝড় আকভানের কারণে বাংলাদেশের সব সমুদ্রবন্দরে ২ নম্বর সতর্কসংকেত।",
+        "question_bn": null
+      },
+      "desk_importance": 8.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 9.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T11:02:41.719520+00:00"
+      }
+    },
+    {
+      "story_id": "a8a721a9-1421-54a0-b599-ec581c610450",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1633488781325-d36e6818d0c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bW9yZSUyMGRpZSUyMGRlbmd1ZSUyMHBhdGllbnRzJTIwZWR1Y2F0aW9ufGVufDF8MHx8fDE3OTQ5MTMzNDB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-17T10:54:21+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.25,
+      "rank_score": 5.2197,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/health/news/1180529",
+          "title": "ডেঙ্গুতে আরও ৫ জনের মৃত্যু, নতুন রোগী ১৫৩৭",
+          "snippet": "ডেঙ্গুতে আরও ৫ জনের মৃত্যু, নতুন রোগী ১৫৩৭"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/country/498638",
+          "title": "সাভারে শ্রমিক আন্দোলনে আহত মাদারীপুরের যুবকের মৃত্যু, দিশাহারা পরিবার",
+          "snippet": "সাভারে শ্রমিক আন্দোলনে আহত মাদারীপুরের যুবকের মৃত্যু, দিশাহারা পরিবার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ডেঙ্গুতে আরও ৫ জনের মৃত্যু এবং নতুন রোগী ১৫৩৭ জন",
+        "title_en": "Five more die of dengue and 1537 new patients hospitalised",
+        "summary_bn": "দেশে ডেঙ্গু আক্রান্ত হয়ে গত ২৪ ঘণ্টায় ৫ জনের মৃত্যু হয়েছে এবং নতুন করে ১৫৩৭ জন রোগী হাসপাতালে ভর্তি হয়েছেন।",
+        "summary_en": "Five people died and 1537 new patients were hospitalised with dengue across the country in the past twenty-four hours.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T10:54:21+00:00",
+        "lead_bn": "দেশে ডেঙ্গু আক্রান্ত হয়ে গত ২৪ ঘণ্টায় ৫ জনের মৃত্যু হয়েছে এবং নতুন করে ১৫৩৭ জন রোগী হাসপাতালে ভর্তি হয়েছেন।",
+        "lead_en": "Five people died and 1537 new patients were hospitalised with dengue across the country in the past twenty-four hours.",
+        "bullets_bn": [
+          "ডেঙ্গুতে গত ২৪ ঘণ্টায় ৫ জনের মৃত্যু হয়েছে।",
+          "একই সময়ে নতুন করে ১৫৩৭ জন রোগী হাসপাতালে ভর্তি হয়েছেন।",
+          "ঢাকা পোস্টের খবরে সাভারে শ্রমিক আন্দোলনে আহত মাদারীপুরের যুবকের মৃত্যুর কথা জানানো হয়েছে।"
+        ],
+        "bullets_en": [
+          "Five people died from dengue in the past twenty-four hours.",
+          "A total of 1537 new patients were admitted to hospitals during the same period.",
+          "Dhaka Post reported the death of a youth from Madaripur who was injured in worker protests in Savar."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "ডেঙ্গুতে একদিনে আরও ৫ জনের মৃত্যু ও ১৫৩৭ নতুন রোগী",
         "question_bn": null
       },
       "desk_importance": 7.0,
       "outlet_count": 2,
-      "trending": true,
+      "trending": false,
       "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-17T10:02:34.134790+00:00"
+        "checked_at": "2026-11-17T11:02:41.719520+00:00"
+      }
+    },
+    {
+      "story_id": "f510d754-ac4b-5507-9bf5-2a05d577d702",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://static.dw.com/image/79966539_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-17T10:34:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4344,
+      "sources": [
+        {
+          "name": "DW বাংলা",
+          "url": "https://www.dw.com/bn/জার্মানিতে-হেজবুল্লাহ-সংশ্লিষ্ট-সংগঠন-নিষিদ্ধ/a-79967607?maca=ben-rss-ben-all-3197-rdf",
+          "title": "জার্মানিতে ‘হেজবুল্লাহ-সংশ্লিষ্ট' সংগঠন নিষিদ্ধ",
+          "snippet": "জার্মানিতে ‘হেজবুল্লাহ-সংশ্লিষ্ট' সংগঠন নিষিদ্ধ"
+        },
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/national/pm-modi-asean-summit-address-india-world-leaders-manila/article71710772.ece",
+          "title": "Our future must be shaped by ‘cooperation, not competition’: PM Modi to ASEAN leaders",
+          "snippet": "Our future must be shaped by ‘cooperation, not competition’: PM Modi to ASEAN leaders"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জার্মানিতে এল-ইরশাদ ই.ভি.সহ হেজবুল্লাহ-সংশ্লিষ্ট সংগঠন নিষিদ্ধ",
+        "title_en": "Germany bans Hezbollah-linked organization including L-Irshad E.V.",
+        "summary_bn": "জার্মানি এল-ইরশাদ ই.ভি. নামের মূল সংগঠনসহ হেজবুল্লাহ-সংশ্লিষ্ট তিনটি সহযোগী শাখা নিষিদ্ধ করেছে।",
+        "summary_en": "Germany has banned the main organization L-Irshad E.V. along with three Hezbollah-linked affiliate branches.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-17T10:34:00+00:00",
+        "lead_bn": "জার্মানি এল-ইরশাদ ই.ভি. নামের মূল সংগঠনসহ হেজবুল্লাহ-সংশ্লিষ্ট তিনটি সহযোগী শাখা নিষিদ্ধ করেছে।",
+        "lead_en": "Germany has banned the main organization L-Irshad E.V. along with three Hezbollah-linked affiliate branches.",
+        "bullets_bn": [
+          "নিষিদ্ধ করা অন্য তিনটি সহযোগী শাখা হলো আল-কায়েম ই.ভি., আল-থাকালাইন ই.ভি. এবং কালাম বিল্ডুংসসেন্ট্রুম ইউজি।",
+          "বার্লিনের স্বরাষ্ট্র বিষয়ক সিনেটর ইরিস স্প্রাঙার জানান যে সংগঠনটি হেজবুল্লাহকে সাংগঠনিক ও আর্থিকভাবে সহায়তা দিয়ে আসছিল।",
+          "নিষেধাজ্ঞার ফলে সংগঠনগুলোর প্রতীক আর জনসমক্ষে ব্যবহার বা শেয়ার করা যাবে না এবং তাদের সম্পদ বাজেয়াপ্ত করা হয়েছে।"
+        ],
+        "bullets_en": [
+          "The other three banned affiliated branches are Al-Qaem E.V., Al-Thakalain E.V., and Kalam Bildungszentrum UG.",
+          "Berlin Interior Senator Iris Spranger stated that the organization was providing organizational and financial support to Hezbollah.",
+          "As a result of the ban, the symbols of the organizations can no longer be used or shared publicly, and their assets have been confiscated."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "২০২০ সাল থেকে জার্মানিতে হেজবুল্লাহর সব ধরনের কার্যক্রম নিষিদ্ধ এবং তখন থেকেই লেবাননের সংগঠনটিকে সন্ত্রাসী সংগঠন মনে করে জার্মানি। বার্লিনের স্বরাষ্ট্র বিষয়ক সিনেটর ইরিস স্প্রাঙার জানান, এল-ইরশাদ ই.ভি. আন্তর্জাতিক বোঝাপড়া বা সম্প্রীতির পরিপন্থি কাজ করতো এবং হেজবুল্লাহকে অপপ্রচার ও সংবিধানবিরোধী আদর্শ ছড়ানোর প্ল্যাটফর্ম দিয়েছিল। বার্লিনের শিয়া সম্প্রদায়ের যুব কার্যক্রম এবং নয়কোলন জেলার মসজিদ সেই উদ্দেশ্যে ব্যবহার করা হতো।",
+        "details_en": "All activities of Hezbollah have been banned in Germany since ২০২০, and Germany has considered the Lebanese organization a terrorist group since then. Berlin Interior Senator Iris Spranger stated that L-Irshad E.V. acted against international understanding and provided a platform for Hezbollah to spread propaganda and unconstitutional ideology. Youth activities of Berlin's Shia community and a mosque in the Neukölln district were used for that purpose.",
+        "hook_bn": "জার্মানিতে এল-ইরশাদ ই.ভি.সহ হেজবুল্লাহর কার্যক্রম নিষিদ্ধ করা হয়েছে।",
+        "question_bn": "ইউরোপীয় দেশগুলোতে সন্ত্রাসী সংগঠনের কার্যক্রম নিষিদ্ধ করার বিষয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-17T11:02:41.719520+00:00"
       }
     }
   ]
