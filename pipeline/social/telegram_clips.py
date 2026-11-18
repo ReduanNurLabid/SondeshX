@@ -170,6 +170,8 @@ def handle_message(db, msg: dict, allowed: str, groups: Optional[dict] = None):
     if not media:
         command = text.strip().lstrip("/／").lower()
         if command.startswith(("reels", "candidates", "রিল")):
+            # asking for the list again starts over: forget any "I'll send media" choice
+            db.collection("admin_config").document("telegram").set({"pending_story": {}}, merge=True)
             if not send_digest(db, chat_id):
                 send(chat_id, "এখন রিলের মতো নতুন কোনো খবর নেই।")
         elif command.startswith(("start", "help")):
