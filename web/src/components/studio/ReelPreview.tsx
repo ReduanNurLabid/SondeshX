@@ -13,16 +13,38 @@ const VOICE_START = 0.25;
 const BEAT_GAP = 0.45;
 const OUTRO_LEN = 1.5;
 const SECONDS_PER_CHAR = 1 / 15; // brisk Bangla news-anchor pace
-const MUSIC_TRACKS = ['/reel_music.mp3', '/reel_music_2.mp3'];
-const MUSIC_START: Record<string, number> = { '/reel_music.mp3': 4, '/reel_music_2.mp3': 0 }; // the second track is 15 s and loops
-
+// Music by news mood, the same rules and tracks as post_reel.music_track.
+const MUSIC_MOODS: Record<string, string[]> = {
+  breaking: ['/music/breaking_1.mp3', '/music/breaking_2.mp3', '/music/breaking_3.mp3', '/music/breaking_4.mp3', '/music/breaking_5.mp3'],
+  serious: ['/music/serious_1.mp3', '/reel_music.mp3', '/reel_music_2.mp3'],
+  business: ['/music/business_1.mp3'],
+  climate: ['/music/climate_1.mp3'],
+  uplifting: ['/music/uplifting_1.mp3', '/music/uplifting_2.mp3'],
+  sports: ['/music/sports_1.mp3'],
+};
+const MUSIC_START: Record<string, number> = { '/reel_music.mp3': 4 };
+const SECTION_MOOD: Record<string, string> = {
+  governance_law: 'serious', world_diplomacy: 'serious', economy_business: 'business',
+  tech_innovation: 'uplifting', climate_environment: 'climate', society_education: 'uplifting', sports_fitness: 'sports',
+};
+const TRAGEDY_WORDS = ['নিহত', 'মৃত্যু', 'মারা', 'হত্যা', 'লাশ', 'ধর্ষণ', 'শিশুর মৃত্যু', 'প্রাণহানি', 'আত্মহত্যা'];
+const URGENT_WORDS = ['হামলা', 'সংঘর্ষ', 'বিস্ফোরণ', 'ককটেল', 'আগুন', 'অগ্নি', 'গুলি', 'গ্রেপ্তার', 'বিক্ষোভ',
+  'অবরোধ', 'হরতাল', 'মারধর', 'ঘূর্ণিঝড়', 'ভূমিকম্প', 'বন্যা', 'আহত', 'ভাঙচুর', 'যুদ্ধ'];
+const musicMood = (s: CapsuleStory) => {
+  const b = s.daily_buzz as any;
+  const text = [b.title_bn || '', b.hook_bn || '', ...(b.bullets_bn || []).slice(0, 1)].join(' ');
+  if (TRAGEDY_WORDS.some((w) => text.includes(w))) return 'serious';
+  if (URGENT_WORDS.some((w) => text.includes(w))) return 'breaking';
+  return SECTION_MOOD[s.primary_category || ''] || 'serious';
+};
+const musicFor = (s: CapsuleStory) => {
+  const tracks = MUSIC_MOODS[musicMood(s)];
+  return tracks[Array.from(String(s.story_id)).reduce((n, ch) => n + (ch.codePointAt(0) || 0), 0) % tracks.length];
+};
 /** Same choices as pipeline/social/post_reel.py: open with the hook, then all three key points. */
 const reelHeadline = (s: CapsuleStory) => (s.daily_buzz as any).hook_bn || s.daily_buzz.title_bn || s.daily_buzz.title_en || '';
 const reelPoints = (s: CapsuleStory) =>
   (s.daily_buzz.bullets_bn?.length ? s.daily_buzz.bullets_bn : s.daily_buzz.bullets_en || []).slice(0, 3);
-/** Same track choice as post_reel.music_track. */
-const musicFor = (s: CapsuleStory) =>
-  MUSIC_TRACKS[Array.from(String(s.story_id)).reduce((n, ch) => n + (ch.codePointAt(0) || 0), 0) % MUSIC_TRACKS.length];
 /** Prothom Alo share images carry a banner added through URL parameters; drop them. */
 const cleanImage = (url: string) => (url.includes('media.prothomalo.com') ? `${url.split('?')[0]}?w=1200&auto=format%2Ccompress` : url);
 

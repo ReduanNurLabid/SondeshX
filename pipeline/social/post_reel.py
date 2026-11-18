@@ -376,12 +376,46 @@ def _boundaries(texts: list, speech_len: float, pauses: list) -> list:
 #   - the finished mix levelled to -14 LUFS with peaks under -1 dBTP: the usual Reels target,
 #     and platforms turn loud uploads down but do not turn quiet ones up
 ASSETS = os.path.join(os.path.dirname(__file__), "assets")
-# (file, caption credit or None, start second). Audionautix music is CC BY: it must be
-# credited. It is only 15 s long, so it starts at the top and loops.
-MUSIC_TRACKS = [
-    (MUSIC_FILE, None, 4.0),
-    (os.path.join(ASSETS, "reel_music_2.mp3"), "Music: Audionautix.com (CC BY 4.0)", 0.0),
-]
+MUSIC_DIR = os.path.join(ASSETS, "music")
+# Music by news mood. Each track: (file, caption credit or None, start second).
+# Pixabay tracks need no credit; Chosic tracks (CC BY / CC BY-SA) must be credited in
+# the caption, which build_caption does. All tracks are levelled to -16 LUFS.
+CC_BY = "CC BY 4.0"
+CC_BY_SA = "CC BY-SA 3.0"
+MUSIC_MOODS = {
+    # urgent: clashes, attacks, fires, arrests, protests, disasters as they happen
+    "breaking": [("breaking_1.mp3", None, 0.0), ("breaking_2.mp3", None, 0.0), ("breaking_3.mp3", None, 0.0),
+                 ("breaking_4.mp3", None, 0.0), ("breaking_5.mp3", None, 0.0)],
+    # measured news bed: politics, government, courts, world news, and every tragedy
+    "serious": [("serious_1.mp3", None, 0.0), ("../reel_music.mp3", None, 4.0),
+                ("../reel_music_2.mp3", "Music: Audionautix.com (CC BY 4.0)", 0.0)],
+    "business": [("business_1.mp3", f"Music: Main Street by AudioCoffee, audiocoffee.net ({CC_BY_SA})", 0.0)],
+    "climate": [("climate_1.mp3", f"Music: Weather Report by MaxKoMusic, maxkomusic.com ({CC_BY_SA})", 0.0)],
+    "uplifting": [("uplifting_1.mp3", f"Music: Spark Of Inspiration by Shane Ivers, silvermansound.com ({CC_BY})", 0.0),
+                  ("uplifting_2.mp3", f"Music: Fresh Lift by Shane Ivers, silvermansound.com ({CC_BY})", 0.0)],
+    "sports": [("sports_1.mp3", f"Music: The Success by Keys of Moon, soundcloud.com/keysofmoon ({CC_BY})", 0.0)],
+}
+SECTION_MOOD = {
+    "governance_law": "serious", "world_diplomacy": "serious", "economy_business": "business",
+    "tech_innovation": "uplifting", "climate_environment": "climate", "society_education": "uplifting",
+    "sports_fitness": "sports",
+}
+# Deaths and suffering never get upbeat music; clashes and disasters get the urgent bed.
+TRAGEDY_WORDS = ("নিহত", "মৃত্যু", "মারা", "হত্যা", "লাশ", "ধর্ষণ", "শিশুর মৃত্যু", "প্রাণহানি", "আত্মহত্যা")
+URGENT_WORDS = ("হামলা", "সংঘর্ষ", "বিস্ফোরণ", "ককটেল", "আগুন", "অগ্নি", "গুলি", "গ্রেপ্তার", "বিক্ষোভ",
+                "অবরোধ", "হরতাল", "মারধর", "ঘূর্ণিঝড়", "ভূমিকম্প", "বন্যা", "আহত", "ভাঙচুর", "যুদ্ধ")
+
+
+def music_mood(story: dict) -> str:
+    buzz = story.get("daily_buzz") or {}
+    text = " ".join([buzz.get("title_bn") or "", buzz.get("hook_bn") or "", *(buzz.get("bullets_bn") or [])[:1]])
+    if any(w in text for w in TRAGEDY_WORDS):
+        return "serious"
+    if any(w in text for w in URGENT_WORDS):
+        return "breaking"
+    return SECTION_MOOD.get(story.get("primary_category") or "", "serious")
+
+
 PAGE_SFX = os.path.join(ASSETS, "sfx_page.mp3")
 VOICE_START = 0.25
 BEAT_GAP = 0.45          # whoosh and a breath before each new part
@@ -393,10 +427,15 @@ def _ff(*args):
 
 
 def music_track(story: dict):
-    """Alternates the music between stories so Reels do not all sound the same."""
-    tracks = [t for t in MUSIC_TRACKS if os.path.exists(t[0])]
+    """(file, caption credit, start second) matching the story's mood; the same story always
+    gets the same track, and different stories rotate through the mood's tracks."""
     sid = str(story.get("story_id") or story.get("daily_buzz", {}).get("title_bn", ""))
-    return tracks[sum(map(ord, sid)) % len(tracks)]
+    for mood in (music_mood(story), "serious"):
+        tracks = [(os.path.normpath(os.path.join(MUSIC_DIR, f)), c, st) for f, c, st in MUSIC_MOODS[mood]]
+        tracks = [t for t in tracks if os.path.exists(t[0])]
+        if tracks:
+            return tracks[sum(map(ord, sid)) % len(tracks)]
+    return (MUSIC_FILE, None, 4.0)
 
 
 def _music_bed(path: str, track: str, length: float, volume: float, start: float = 0.0):
