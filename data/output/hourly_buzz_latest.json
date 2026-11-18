@@ -1,310 +1,373 @@
 {
-  "updated_at": "2026-11-18T09:00:47.292424",
-  "total_stories": 4,
+  "updated_at": "2026-11-18T10:00:42.761571",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "88511202-6832-5f2f-8484-331a180be1f1",
-      "primary_category": "governance_law",
+      "story_id": "1416cef6-4b00-5786-8b8c-ae85c4b02baa",
+      "primary_category": "climate_environment",
       "interest_categories": [
-        "governance_law",
-        "economy_business"
+        "climate_environment",
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#Gopalganj",
-        "#Tungipara"
+        "#FarakkaBarrage",
+        "#PadmaRiver",
+        "#RiverinePeople"
       ],
-      "image_url": "https://images.unsplash.com/photo-1693585172757-b9e057feb878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFybGlhbWVudCUyMGxhdyUyMGNvdXJ0JTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk0OTkyNTAxfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1583794018021-c841442da0e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bmF0dXJlJTIwY2xpbWF0ZSUyMGZsb29kJTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk0OTcwODg3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-18T09:01:03.484318+00:00",
+      "published_at": "2026-11-18T08:53:05+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.75,
-      "rank_score": 6.0043,
+      "importance_score": 6.0,
+      "rank_score": 3.3712,
       "sources": [
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/blockade-at-7-points-on-gopalganj-tungipara-road",
-          "title": "Blockade at 7 points on Gopalganj-Tungipara road",
-          "snippet": "Blockade at 7 points on Gopalganj-Tungipara road"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/blockade-continues-on-the-gopalganj-tungipara-road/",
-          "title": "গোপালগঞ্জ-টুঙ্গিপাড়া সড়কে অবরোধ চলছে",
-          "snippet": "গোপালগঞ্জ-টুঙ্গিপাড়া সড়কে অবরোধ চলছে"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/424988/farakka-cuts-padma-flow-by-80%25-pushes-10-rivers",
+          "title": "Farakka cuts Padma flow by 80%, pushes 10 rivers towards extinction",
+          "snippet": "Farakka cuts Padma flow by 80%, pushes 10 rivers towards extinction"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গোপালগঞ্জ-টুঙ্গিপাড়া সড়কের অন্তত সাতটি স্থানে অবরোধ চলছে",
-        "title_en": "Blockade underway at 7 points on Gopalganj-Tungipara road",
-        "summary_bn": "নিষিদ্ধ ঘোষিত আওয়ামী লীগ ও কার্যক্রম নিষিদ্ধ ছাত্রলীগের নেতাকর্মীরা গোপালগঞ্জ-টুঙ্গিপাড়া সড়কের অন্তত সাতটি স্থানে অবরোধ কর্মসূচি পালন করছেন।",
-        "summary_en": "Leaders and activists of the banned Awami League and the banned Chhatra League are enforcing a blockade at least 7 points on the Gopalganj-Tungipara road.",
+        "title_bn": "ফারাক্কা বাঁধের কারণে পদ্মার পানির প্রবাহ ৮০ শতাংশ কমে গেছে।",
+        "title_en": "Farakka Barrage reduces Padma water flow by 80 percent.",
+        "summary_bn": "নদী নিয়ে কাজ করা সংস্থা রিভারাইন পিপলের এক গবেষণায় বলা হয়েছে, ফারাক্কা বাঁধের প্রভাবে পদ্মার পানি প্রবাহ ৮০ শতাংশ কমে গেছে।",
+        "summary_en": "A study by Riverine People shows that the Farakka Barrage has caused an 80 percent decline in the Padma's dry-season water flow.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "economy_business"
+          "climate_environment",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T09:01:03.484318+00:00",
-        "lead_bn": "নিষিদ্ধ ঘোষিত আওয়ামী লীগ ও কার্যক্রম নিষিদ্ধ ছাত্রলীগের নেতাকর্মীরা গোপালগঞ্জ-টুঙ্গিপাড়া সড়কের অন্তত সাতটি স্থানে অবরোধ কর্মসূচি পালন করছেন।",
-        "lead_en": "Leaders and activists of the banned Awami League and the banned Chhatra League are enforcing a blockade at least 7 points on the Gopalganj-Tungipara road.",
+        "published_at": "2026-11-18T08:53:05+00:00",
+        "lead_bn": "নদী নিয়ে কাজ করা সংস্থা রিভারাইন পিপলের এক গবেষণায় বলা হয়েছে, ফারাক্কা বাঁধের প্রভাবে পদ্মার পানি প্রবাহ ৮০ শতাংশ কমে গেছে।",
+        "lead_en": "A study by Riverine People shows that the Farakka Barrage has caused an 80 percent decline in the Padma's dry-season water flow.",
         "bullets_bn": [
-          "সন্ধ্যা থেকে এ অবরোধ কর্মসূচি শুরু হয়।",
-          "ও সড়কটিতে অবরোধ কর্মসূচি চলছে।",
-          "অবরোধের কারণে সড়কটিতে যান চলাচল ব্যাহত হচ্ছে।"
+          "গবেষণায় বলা হয়েছে, পানির প্রবাহ কমে যাওয়ায় প্রায় ১০টি নদী বিলুপ্তির মুখে পড়েছে।",
+          "ভারতের পশ্চিমবঙ্গের মালদা ও মুর্শিদাবাদে আন্তঃসীমান্ত নদীর গতিপথে এই বাঁধ নির্মাণ করা হয়েছে।",
+          "পদ্মায় চর জেগে উঠেছে এবং নদীর প্রবাহ শুকিয়ে যাচ্ছে।"
         ],
         "bullets_en": [
-          "The blockade program started from Tuesday evening.",
-          "The blockade on the road is continuing on Wednesday.",
-          "Vehicular movement on the road is disrupted due to the blockade."
+          "The study states that nearly 10 rivers have been pushed towards extinction due to the reduced flow.",
+          "The barrage was built on the course of a transboundary river in India's West Bengal, in Malda and Murshidabad.",
+          "Shoals have emerged in the Padma and the river has been drying up."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "গোপালগঞ্জ-টুঙ্গিপাড়া সড়কে অবরোধ চলছে",
-        "kicker_bn": null,
+        "details_bn": "ভারতের পশ্চিমবঙ্গের মালদা ও মুর্শিদাবাদে একটি আন্তঃসীমান্ত নদীর গতিপথে ফারাক্কা বাঁধ নির্মাণ করা হয়েছে। এই বাঁধের কারণে পদ্মার শুষ্ক মৌসুমের পানি প্রবাহ কমে যাওয়ায় নদীটিতে চর জেগে উঠছে এবং তা শুকিয়ে যাওয়ার পাশাপাশি প্রায় ১০টি নদী বিলুপ্তির মুখে পড়েছে বলে রিভারাইন পিপলের গবেষণায় উঠে এসেছে।",
+        "details_en": "The Farakka Barrage was built on the course of a transboundary river in India's West Bengal, in Malda and Murshidabad. According to a study by Riverine People, this has caused an 80% decline in the Padma's dry-season water flow, causing shoals to emerge, drying up the river, and pushing nearly 10 rivers towards extinction.",
+        "hook_bn": "পদ্মার পানির প্রবাহ কমেছে ৮০ শতাংশ",
+        "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 7.0,
-      "outlet_count": 2,
-      "trending": true,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-18T09:02:15.597513+00:00"
-      }
-    },
-    {
-      "story_id": "ae9ec666-9a2d-5413-a4da-162792b6cd0b",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.channelionline.com/2026/11/1794939431-7e64d1bfe1bf3a06a00dc24c91b07f2d.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-11-18T07:53:37+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 4.9242,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/faridpur-awami-league-activists-attack-krishak-dal/",
-          "title": "ফরিদপুরে আওয়ামী লীগের নেতাকর্মীদের হামলায় কৃষক দল নেতা নিহত",
-          "snippet": "ফরিদপুরে আওয়ামী লীগের নেতাকর্মীদের হামলায় কৃষক দল নেতা নিহত"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/country/498905",
-          "title": "ময়মনসিংহে স্বেচ্ছাসেবক দলের নেতা সুরুজ হত্যায় ৮ জনের নামে মামলা",
-          "snippet": "ময়মনসিংহে স্বেচ্ছাসেবক দলের নেতা সুরুজ হত্যায় ৮ জনের নামে মামলা"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/law-and-crime/981702/%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%95-%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AD%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A6%BF",
-          "title": "কার্যক্রম নিষিদ্ধ স্বেচ্ছাসেবক লীগের সভাপতি সাচ্চুর বাড়িতে ভাঙচুর-অগ্নিসংযোগ",
-          "snippet": "কার্যক্রম নিষিদ্ধ স্বেচ্ছাসেবক লীগের সভাপতি সাচ্চুর বাড়িতে ভাঙচুর-অগ্নিসংযোগ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ফরিদপুরে কৃষক দল নেতা রাজু মোল্লা নিহত",
-        "title_en": "Krishak Dal leader Raju Molla killed in Faridpur",
-        "summary_bn": "ফরিদপুরের ভাঙ্গায় কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতাকর্মীদের হামলায় রাজু মোল্লা নিহত হয়েছেন।",
-        "summary_en": "Krishak Dal leader Raju Molla was killed in an attack by banned Awami League activists in Faridpur's Bhanga.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-18T07:53:37+00:00",
-        "lead_bn": "ফরিদপুরের ভাঙ্গায় কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতাকর্মীদের হামলায় রাজু মোল্লা নিহত হয়েছেন।",
-        "lead_en": "Krishak Dal leader Raju Molla was killed in an attack by banned Awami League activists in Faridpur's Bhanga.",
-        "bullets_bn": [
-          "ঘটনাটি ঘটে ১৭ নভেম্বর রাত সোয়া ৯টার দিকে হামিরদী বাসস্ট্যান্ড এলাকায়।",
-          "হামলাকারীরা ঢাকা-বরিশাল মহাসড়ক অবরোধ করে বিএনপির কার্যালয়, যানবাহন ও মোটরসাইকেলে ভাঙচুর চালায়।",
-          "হামলাকারীদের ছোড়া ককটেলের আঘাতে তিনি গুরুতর আহত হন এবং হাসপাতালে নেওয়ার পর চিকিৎসক তাকে মৃত ঘোষণা করেন।"
-        ],
-        "bullets_en": [
-          "The incident occurred around 9:15 pm on November 17 in the Hamirdi bus stand area.",
-          "Attackers blocked the Dhaka-Barishal highway and vandalized a BNP office, vehicles, and motorcycles.",
-          "He was seriously injured by a cocktail thrown by attackers and declared dead by a doctor at the hospital."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "১৭ নভেম্বর রাত সোয়া ৯টার দিকে হামিরদী বাসস্ট্যান্ড এলাকায় কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতাকর্মীরা একটি মিছিল বের করেন। এসময় তারা ঢাকা-বরিশাল মহাসড়ক অবরোধ করে মিছিল করেন এবং স্থানীয় বিএনপির কার্যালয়ে ভাঙচুর চালান। পাশাপাশি কয়েকটি যানবাহন ভাঙচুর, মোটরসাইকেলে অগ্নিসংযোগ ও ককটেল বিস্ফোরণের ঘটনা ঘটে। রাজু মোল্লাকে একা পেয়ে হামলা চালানো হলে তিনি ককটেলে গুরুতর আহত হন এবং ভাঙ্গা উপজেলা স্বাস্থ্য কমপ্লেক্সে নেওয়ার পর মারা যান। ঘটনার পর মহাসড়কে যান চলাচল বন্ধ হয়ে যায় এবং এলাকায় উত্তেজনা বিরাজ করায় পুলিশ পরিস্থিতি স্বাভাবিক রাখতে কাজ করছে।",
-        "details_en": "On the night of November 17 around 9:15 pm, banned Awami League activists brought out a procession in the Hamirdi bus stand area, blocking the Dhaka-Barishal highway and vandalizing a local BNP office, vehicles, and a motorcycle while exploding cocktails. Raju Molla was attacked alone, injured by a cocktail, and declared dead after being taken to Bhanga Upazila Health Complex. Traffic on the highway was halted and tension prevailed in the area following the incident, with police working to keep the situation normal.",
-        "hook_bn": "ভাঙ্গায় কৃষক দল নেতা নিহত",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
+      "desk_importance": 6.0,
+      "outlet_count": 1,
       "trending": false,
-      "social_appeal": 8.0,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-18T09:02:15.597513+00:00"
+        "checked_at": "2026-11-18T10:02:01.965729+00:00"
       }
     },
     {
-      "story_id": "98c1b1bb-112c-5464-bd63-41629529503f",
-      "primary_category": "world_diplomacy",
+      "story_id": "d6ceb62a-4df8-53dd-a958-dedde46a7156",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "world_diplomacy",
         "economy_business",
         "climate_environment"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#UKInflation",
-        "#MiddleEastWar",
-        "#FuelPrices"
+        "#ADB",
+        "#Bangladesh",
+        "#SonaShrestha",
+        "#AmirKhosruMahmudChowdhury"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/8ae5d123fc8871ebf2d020abb219f5c9483c3014/969_14_6501_5202/master/6501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d28508aad2cdd1ea03eac433fdfb3f8c",
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-05/adb.jpg",
       "image_caption": null,
-      "published_at": "2026-11-18T07:44:21+00:00",
+      "published_at": "2026-11-18T07:45:54+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 3.9229,
+      "importance_score": 5.5,
+      "rank_score": 2.6553,
       "sources": [
         {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
-          "title": "UK inflation rises to 3.6% after petrol and diesel prices hit record high",
-          "snippet": "UK inflation rises to 3.6% after petrol and diesel prices hit record high"
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/news/bangladeshs-next-growth-phase-require-deeper-financial-markets-adb-4327071",
+          "title": "Bangladesh’s next growth phase to require deeper financial markets: ADB",
+          "snippet": "Bangladesh’s next growth phase to require deeper financial markets: ADB"
         },
         {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/bahrain-kuwait-attacked-after-us-strikes-iranian-island/article71714916.ece",
-          "title": "Bahrain, Kuwait attacked after U.S. strikes Iranian island",
-          "snippet": "Bahrain, Kuwait attacked after U.S. strikes Iranian island"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/adb-deepens-support-mobilize-private-investment-bangladesh-1606491",
+          "title": "ADB deepens support to mobilise private investment in Bangladesh",
+          "snippet": "ADB deepens support to mobilise private investment in Bangladesh"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/adb-to-expand-advisory-support-for-1000mw-solar-pipeline",
+          "title": "ADB to expand advisory support for 1,000MW solar pipeline",
+          "snippet": "ADB to expand advisory support for 1,000MW solar pipeline"
         }
       ],
       "daily_buzz": {
-        "title_bn": "যুক্তরাজ্যে মুদ্রাস্ফীতি বেড়ে ৩.৬ শতাংশ হয়েছে",
-        "title_en": "UK inflation rises to 3.6% after record high fuel prices",
-        "summary_bn": "মধ্যপ্রাচ্যের যুদ্ধের প্রভাবে পেট্রোল ও ডিজেলের দাম রেকর্ড মাত্রায় পৌঁছানোর কারণে অক্টোবরে যুক্তরাজ্যের মুদ্রাস্ফীতি বেড়ে ৩.৬ শতাংশ হয়েছে।",
-        "summary_en": "Inflation in the UK rose to 3.6% in October after petrol prices rose and diesel hit a record high.",
+        "title_bn": "বাংলাদেশের প্রবৃদ্ধির জন্য গভীর আর্থিক বাজার প্রয়োজন: এডিবি",
+        "title_en": "Bangladesh next growth phase to require deeper financial markets: ADB",
+        "summary_bn": "বাংলাদেশের পরবর্তী প্রবৃদ্ধির ধাপে গভীর আর্থিক বাজার এবং বেসরকারি খাতের বিনিয়োগ ও কর্মসংস্থানের সুযোগ সৃষ্টির জন্য সংস্কার প্রয়োজন বলে জানিয়েছে এশীয় উন্নয়ন ব্যাংক।",
+        "summary_en": "Bangladesh next phase of growth will require deeper financial markets and reforms that enable private enterprises to invest, said the Asian Development Bank.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
           "economy_business",
           "climate_environment"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T07:44:21+00:00",
-        "lead_bn": "মধ্যপ্রাচ্যের যুদ্ধের প্রভাবে পেট্রোল ও ডিজেলের দাম রেকর্ড মাত্রায় পৌঁছানোর কারণে অক্টোবরে যুক্তরাজ্যের মুদ্রাস্ফীতি বেড়ে ৩.৬ শতাংশ হয়েছে।",
-        "lead_en": "Inflation in the UK rose to 3.6% in October after petrol prices rose and diesel hit a record high.",
+        "published_at": "2026-11-18T07:45:54+00:00",
+        "lead_bn": "বাংলাদেশের পরবর্তী প্রবৃদ্ধির ধাপে গভীর আর্থিক বাজার এবং বেসরকারি খাতের বিনিয়োগ ও কর্মসংস্থানের সুযোগ সৃষ্টির জন্য সংস্কার প্রয়োজন বলে জানিয়েছে এশীয় উন্নয়ন ব্যাংক।",
+        "lead_en": "Bangladesh next phase of growth will require deeper financial markets and reforms that enable private enterprises to invest, said the Asian Development Bank.",
         "bullets_bn": [
-          "অফিস ফর ন্যাশনাল স্ট্যাটিকস জানিয়েছে, সেপ্টেম্বরে মুদ্রাস্ফীতির হার ছিল ৩.৫ শতাংশ যা সিটি অর্থনীতিবিদদের পূর্বাভাসের সাথে মিলে গেছে।",
-          "ওএনএস প্রধান অর্থনীতিবিদ গ্রান্ট ফিটজনার জানান, জ্বালানির দাম বার্ষিক হার বৃদ্ধির পেছনে একটি প্রধান অবদান রেখেছে।",
-          "পেট্রোলের গড় দাম লিটারপ্রতি ৫.২ পয়সা বেড়ে ১৭৪.৭ পয়সা এবং ডিজেলের দাম লিটারপ্রতি ৭ পয়সা বেড়ে ১৯৯.৫ পয়সা হয়েছে।"
+          "এশিয়ান ডেভেলপমেন্ট ব্যাংকের দক্ষিণ এশিয়ার মহাপরিচালক সোনা শ্রেষ্ঠা ঢাকায় সরকারের নীতিনির্ধারক ও অংশীদারদের সঙ্গে উচ্চপর্যায়ের আলোচনায় অংশ নেন।",
+          "অর্থ ও পরিকল্পনা মন্ত্রী আমীর খসরু মাহমুদ চৌধুরী এবং এডিবি যৌথভাবে পিপিপি মনিটর বাংলাদেশ চালু করে।",
+          "এডিবি পাঁচটি অতিরিক্ত সৌর ও ব্যাটারি স্টোরেজ প্রকল্পে লেনদেন সংক্রান্ত পরামর্শ সহায়তা বাড়াতে একটি চুক্তি স্বাক্ষর করেছে।"
         ],
         "bullets_en": [
-          "Figures from the Office for National Statistics show the headline rate rose from 3.5% in September.",
-          "Grant Fitzner said inflation rose slightly in October with fuel prices once again a major contributor.",
-          "The average price of petrol rose to 174.7p a litre and diesel prices rose to 199.5p a litre."
+          "ADB Director General for South Asia Sona Shrestha held high-level discussions with the government, regulators, and private sector in Dhaka.",
+          "Finance and Planning Minister Amir Khosru Mahmud Chowdhury joined ADB in launching PPP Monitor: Bangladesh.",
+          "ADB signed an agreement to extend its transaction advisory support to five additional solar and battery storage projects."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "যুক্তরাজ্যে মুদ্রাস্ফীতি বেড়ে ৩.৬ শতাংশ",
-        "kicker_bn": "দাম বাড়ছে",
+        "hook_bn": "বাংলাদেশে বিনিয়োগ বাড়াতে কাজ করবে এডিবি",
+        "kicker_bn": "নতুন চুক্তি",
         "share_value": false,
-        "question_bn": "আপনার এলাকায় জ্বালানির দামের পরিস্থিতি কেমন?"
+        "question_bn": "বেসরকারি খাতের বিনিয়োগ বাড়াতে কোন ক্ষেত্রগুলোতে বেশি গুরুত্ব দেওয়া উচিত বলে আপনি মনে করেন?"
       },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": true,
-      "social_appeal": 6.0,
+      "desk_importance": 5.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-18T09:02:15.597513+00:00"
+        "checked_at": "2026-11-18T10:02:01.965729+00:00"
       }
     },
     {
-      "story_id": "25bd2af6-794a-5ae9-b8cf-c295acf17dc1",
-      "primary_category": "governance_law",
+      "story_id": "0f2e1f03-e52a-5058-9e78-059eac1d2865",
+      "primary_category": "society_education",
       "interest_categories": [
-        "governance_law"
+        "society_education"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#AiyanaHasan",
+        "#CommonwealthWritingCompetition"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-18%2Fx2qyke9o%2FDNCC.jpeg?rect=0%2C234%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFuZ2xhZGVzaGklMjBzdHVkZW50JTIwYWl5YW5hJTIwaGFzYW4lMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NDk5NjA5OXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-18T08:37:18+00:00",
+      "published_at": "2026-11-18T09:00:13+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.75,
-      "rank_score": 4.4518,
+      "importance_score": 5.0,
+      "rank_score": 2.3572,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/capital/vq0417oalz",
-          "title": "ডিএনসিসি প্রশাসক মিল্টনের ব্যক্তিগত কার্যালয়ের নিচে হামলা–ভাঙচুর",
-          "snippet": "ডিএনসিসি প্রশাসক মিল্টনের ব্যক্তিগত কার্যালয়ের নিচে হামলা–ভাঙচুর"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/several-injured-as-dhaka-north-administrators-office-attacked-vandalised-in-mirpur",
-          "title": "Several hurt in attack on Dhaka North administrator's office",
-          "snippet": "Several hurt in attack on Dhaka North administrator's office"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/people/424989/bangladeshi-student-aiyana-hasan-wins-gold-in",
+          "title": "Bangladeshi student Aiyana Hasan wins gold in Queen’s Commonwealth Writing Competition",
+          "snippet": "Bangladeshi student Aiyana Hasan wins gold in Queen’s Commonwealth Writing Competition"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মিরপুরে ঢাকা উত্তর সিটি করপোরেশনের প্রশাসকের কার্যালয়ের নিচে হামলা",
-        "title_en": "Attack on Dhaka North administrator's office in Mirpur",
-        "summary_bn": "রাজধানীর মিরপুর ১৩ নম্বরে ঢাকা উত্তর সিটি করপোরেশনের প্রশাসকের ব্যক্তিগত কার্যালয়ের নিচে হামলা ও ভাঙচুরের ঘটনায় দুজন আহত হয়ে হাসপাতালে ভর্তি হয়েছেন।",
-        "summary_en": "Two people were injured and hospitalized following an attack and vandalism below the personal office of the Dhaka North City Corporation administrator in Mirpur 13.",
+        "title_bn": "বাংলাদেশি শিক্ষার্থী আয়না হাসান কুইন্স কমনওয়েলথ রাইটিং প্রতিযোগিতায় স্বর্ণপদক জিতেছেন।",
+        "title_en": "Bangladeshi student Aiyana Hasan wins gold in Queen’s Commonwealth Writing Competition.",
+        "summary_bn": "বাংলাদেশি শিক্ষার্থী আয়না হাসান কুইন্স কমনওয়েলথ রাইটিং প্রতিযোগিতায় স্বর্ণপদক লাভ করেছেন।",
+        "summary_en": "Bangladeshi student Aiyana Hasan won gold in the Queen’s Commonwealth Writing Competition.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T08:37:18+00:00",
-        "lead_bn": "রাজধানীর মিরপুর ১৩ নম্বরে ঢাকা উত্তর সিটি করপোরেশনের প্রশাসকের ব্যক্তিগত কার্যালয়ের নিচে হামলা ও ভাঙচুরের ঘটনায় দুজন আহত হয়ে হাসপাতালে ভর্তি হয়েছেন।",
-        "lead_en": "Two people were injured and hospitalized following an attack and vandalism below the personal office of the Dhaka North City Corporation administrator in Mirpur 13.",
+        "published_at": "2026-11-18T09:00:13+00:00",
+        "lead_bn": "বাংলাদেশি শিক্ষার্থী আয়না হাসান কুইন্স কমনওয়েলথ রাইটিং প্রতিযোগিতায় স্বর্ণপদক লাভ করেছেন।",
+        "lead_en": "Bangladeshi student Aiyana Hasan won gold in the Queen’s Commonwealth Writing Competition.",
         "bullets_bn": [
-          "সকাল ৯টার দিকে মিরপুর ১৪ নম্বরের দিক থেকে ১০০ থেকে ১৫০ জনের একটি দল লাঠি ও দেশীয় অস্ত্র নিয়ে ভবনে হামলা চালায়।",
-          "পুলিশ জানায়, পোশাকশ্রমিকদের দুই পক্ষের সংঘর্ষের কারণে ভবনের নিচতলায় এই হামলা হয়েছে এবং এর সঙ্গে কোনো রাজনৈতিক যোগসূত্র নেই।",
-          "ডিএমপির মিরপুর বিভাগের উপকমিশনার হাসান মোহাম্মাদ নাছের রিকাবদার জানিয়েছেন, যারা এ কাজ করেছে তাদের বিরুদ্ধে আইনগত ব্যবস্থা নেওয়া হবে।"
+          "তার লেখালেখিতে অন্বেষণ করা হয়েছে কীভাবে ভৌগোলিক দূরত্ব এবং সাংস্কৃতিক পার্থক্য পেরিয়ে মানুষ সংযুক্ত হতে পারে।",
+          "শেয়ার করা সাংস্কৃতিক উপাদান, বিশেষ করে ঐতিহ্য, মানুষকে কাছাকাছি নিয়ে আসতে পারে বলে তার লেখায় উঠে এসেছে।",
+          "এই প্রতিযোগিতাটি সারা বিশ্বের কমনওয়েলথ অঞ্চলের তরুণ লেখকদের জন্য আয়োজিত হয়ে থাকে।"
         ],
         "bullets_en": [
-          "A group of 100 to 150 people carrying sticks and local weapons attacked the building from the direction of Mirpur 14 at around 9 am.",
-          "Police stated that the attack on the ground floor occurred due to a clash between two factions of garment workers and has no political link.",
-          "DMP Mirpur division Deputy Commissioner Hasan Mohammad Nasser Rikabdar stated that legal action will be taken against those who carried out this act."
+          "Her work explores how shared cultural elements can connect people across geographical distances and cultural differences.",
+          "Traditions were highlighted as a way of bringing communities closer together across varying backgrounds.",
+          "The competition engages young writers across the Commonwealth region."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "কয়েক দিন ধরে পোশাকশ্রমিকেরা আন্দোলন করছেন। এর অংশ হিসেবে সকালে মিরপুর ১৪ নম্বর এলাকার দুটি কারখানায় শ্রমিকদের ভেতরে মতবিরোধ হয়। এক পক্ষ কাজে যোগ দিতে চায়, অন্য পক্ষ চায় না। একপর্যায়ে দুই পক্ষ কারখানার বাইরে বেরিয়ে এলে কাজ করতে চাওয়া পক্ষ ময়মনসিংহ ভবনের নিচে আশ্রয় নেয় এবং অন্য পক্ষের ইটপাটকেল নিক্ষেপে কয়েকজন আহত হন ও ভবনের কাচ ভেঙে পড়ে।",
-        "details_en": "Garment workers have been agitating for several days. As part of this, a disagreement arose among workers in two factories in the Mirpur 14 area, where one faction wanted to join work and the other did not. When both factions came out of the factories, the faction wanting to work took shelter under the Mymensingh building, where stone-pelting by the opposing faction injured several people and broke the building's glass.",
-        "hook_bn": "মিরপুরে প্রশাসকের কার্যালয়ের নিচে হামলা",
-        "kicker_bn": "হামলা ও ভাঙচুর",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "কুইন্স কমনওয়েলথ রাইটিং প্রতিযোগিতায় স্বর্ণপদক জয়",
+        "kicker_bn": "সাফল্য",
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 6.0,
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-18T10:02:01.965729+00:00"
+      }
+    },
+    {
+      "story_id": "915c622a-34e3-5a58-8404-efd0e2c974f5",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#Nvidia",
+        "#JensenHuang",
+        "#ColetteKress",
+        "#HarveyJones"
+      ],
+      "image_url": "https://static.dw.com/image/79940149_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-18T00:34:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 1.448,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/nvidia-beats-q3-expectations-in-first-report-post-jensen-huang/a-79975683?maca=en-rss-en-all-1573-rdf",
+          "title": "Nvidia beats Q3 expectations in first report post-Jensen Huang",
+          "snippet": "Nvidia beats Q3 expectations in first report post-Jensen Huang"
+        },
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/business/world-business/2h6cefvj4g",
+          "title": "জেনসেন হুয়াংকে ফেরাবে না এনভিডিয়া, তৃতীয় প্রান্তিকে আয় দ্বিগুণ",
+          "snippet": "জেনসেন হুয়াংকে ফেরাবে না এনভিডিয়া, তৃতীয় প্রান্তিকে আয় দ্বিগুণ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "এনভিডিয়ার তৃতীয় প্রান্তিকে আয় দ্বিগুণ হয়েছে",
+        "title_en": "Nvidia reported a double in third-quarter revenue.",
+        "summary_bn": "ইউএস এআই চিপ জায়ান্ট এনভিডিয়ার তৃতীয় প্রান্তিকে আয় দ্বিগুণ হয়ে ১১৫ বিলিয়ন ডলার ছাড়িয়েছে।",
+        "summary_en": "US AI chip giant Nvidia doubled its third-quarter revenue to more than $115 billion.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation",
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T00:34:00+00:00",
+        "lead_bn": "ইউএস এআই চিপ জায়ান্ট এনভিডিয়ার তৃতীয় প্রান্তিকে আয় দ্বিগুণ হয়ে ১১৫ বিলিয়ন ডলার ছাড়িয়েছে।",
+        "lead_en": "US AI chip giant Nvidia doubled its third-quarter revenue to more than $115 billion.",
+        "bullets_bn": [
+          "বোর্ড জানিয়েছে, জেনসেন হুয়াংকে প্রধান নির্বাহী হিসেবে আর ফিরিয়ে আনার কোনো পরিকল্পনা নেই।",
+          "চেয়ারম্যান হার্ভে জোন্স নিশ্চিত করেছেন যে বোর্ড জেনসেনের পদত্যাগ সর্বসম্মতভাবে গ্রহণ করেছে।",
+          "অন্তর্বর্তীকালীন প্রধান নির্বাহী ও সিএফও কলেট ক্রেস বলেছেন, প্রতিষ্ঠান সামনে এগিয়ে যাওয়ার চেষ্টা করছে।"
+        ],
+        "bullets_en": [
+          "The board stated there are no plans to bring back Jensen Huang as CEO.",
+          "Chairman Harvey Jones confirmed the board unanimously accepted Jensen's resignation.",
+          "Interim CEO and CFO Colette Kress said the firm is trying to move on."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "গত ২৫ অক্টোবর শেষ হওয়া তৃতীয় প্রান্তিকে এনভিডিয়ার আয় হয়েছে ১১৫ দশমিক ৮ বিলিয়ন বা ১১ হাজার ৫৮০ কোটি ডলার। এর আগে বিবাহবহির্ভূত সম্পর্কের জেরে জেনসেন হুয়াং পদত্যাগ করেন। জেনসেন হুয়াংয়ের সঙ্গে সম্পর্কযুক্ত এক নারী চীনা গোয়েন্দা সংস্থার সঙ্গে জড়িত বলে সন্দেহ করা হচ্ছে।",
+        "details_en": "In the third period ending October 25, Nvidia's revenue reached 115.8 billion or 11,580 crore dollars. Jensen Huang resigned on Thursday after extramarital affairs came to light, including with a woman suspected of being a Chinese intelligence asset.",
+        "hook_bn": "এনভিডিয়ার আয় ১১৫ বিলিয়ন ডলার ছাড়াল",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
       "outlet_count": 2,
-      "trending": true,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-18T10:02:01.965729+00:00"
+      }
+    },
+    {
+      "story_id": "9e3be878-8c99-51b3-a038-971ce90b610b",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#FreshLPGas",
+        "#BERC",
+        "#Dhaka",
+        "#MeghnaGroupOfIndustries"
+      ],
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Fresh%20LPG.jpeg",
+      "image_caption": null,
+      "published_at": "2026-11-18T07:34:17+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.1701,
+      "sources": [
+        {
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/organisation-news/news/fresh-lp-gas-designates-39-outlets-dhaka-berc-approved-prices-4327061",
+          "title": "Fresh LP Gas designates 39 outlets in Dhaka for BERC-approved prices",
+          "snippet": "Fresh LP Gas designates 39 outlets in Dhaka for BERC-approved prices"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ফ্রেশ এলপি গ্যাস ঢাকায় বিইআরসি মূল্যে বিক্রির জন্য ৩৯টি আউটলেট নির্দিষ্ট করেছে।",
+        "title_en": "Fresh LP Gas designates 39 outlets in Dhaka for BERC-approved prices.",
+        "summary_bn": "মেঘনা গ্রুপ অব ইন্ডাস্ট্রিজের প্রতিষ্ঠান ফ্রেশ এলপি গ্যাস বিইআরসি নির্ধারিত খুচরা মূল্যে এলপিজি বিক্রির জন্য ঢাকা মহানগরীতে ৩৯টি ডিস্ট্রিবিউটর সেলস পয়েন্ট নির্দিষ্ট করেছে।",
+        "summary_en": "Fresh LP Gas, a concern of Meghna Group of Industries, has designated 39 distributor sales points across Dhaka Metropolitan City to sell LPG at BERC-set retail prices.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T07:34:17+00:00",
+        "lead_bn": "মেঘনা গ্রুপ অব ইন্ডাস্ট্রিজের প্রতিষ্ঠান ফ্রেশ এলপি গ্যাস বিইআরসি নির্ধারিত খুচরা মূল্যে এলপিজি বিক্রির জন্য ঢাকা মহানগরীতে ৩৯টি ডিস্ট্রিবিউটর সেলস পয়েন্ট নির্দিষ্ট করেছে।",
+        "lead_en": "Fresh LP Gas, a concern of Meghna Group of Industries, has designated 39 distributor sales points across Dhaka Metropolitan City to sell LPG at BERC-set retail prices.",
+        "bullets_bn": [
+          "উদ্যোগটির আনুষ্ঠানিক উদ্বোধন করেন ফ্রেশ এলপি গ্যাসের প্রধান বিপণন কর্মকর্তা আবু সাঈদ রাজা।",
+          "গ্রাহক সচেতনতা বাড়াতে নির্ধারিত আউটলেটগুলোতে বিশেষ প্রচারণামূলক ব্যানার লাগানো হচ্ছে।",
+          "প্রাথমিকভাবে ঢাকা মহানগরীতে এই উদ্যোগ চালুর পর অন্যান্য অঞ্চলের তথ্য ধাপে ধাপে জানানো হবে।"
+        ],
+        "bullets_en": [
+          "The initiative was formally inaugurated by Abu Sayed Raza, chief marketing officer of Fresh LP Gas.",
+          "Special promotional banners are being installed at the designated sales points to raise consumer awareness.",
+          "The initiative is initially being rolled out across Dhaka Metropolitan City, with other regions to follow in phases."
+        ],
+        "impact_bn": "গ্রাহকেরা এখন নির্ধারিত আউটলেটগুলো থেকে বিইআরসি নির্ধারিত মূল্যে ফ্রেশ এলপি গ্যাস কিনতে পারবেন।",
+        "impact_en": "Consumers will be able to purchase Fresh LP Gas from these outlets at the BERC-set MRP.",
+        "details_bn": "সাম্প্রতিক বৈশ্বিক সংকট ও চ্যালেঞ্জের কারণে বাজারে পণ্যের নিরবচ্ছিন্ন সরবরাহ বজায় রাখার পাশাপাশি বিইআরসি ঘোষিত মূল্যে এলপিজি কেনা নিশ্চিত করতে এই উদ্যোগ নেওয়া হয়েছে।",
+        "details_en": "The initiative was taken to address challenges in ensuring consumers can buy LPG at the BERC-declared MRP while maintaining uninterrupted product supply amid global crises.",
+        "hook_bn": "ঢাকায় বিইআরসি মূল্যে মিলবে ফ্রেশ এলপি গ্যাস",
+        "kicker_bn": "নতুন উদ্যোগ",
+        "share_value": true,
+        "question_bn": "আপনার এলাকায় কি নির্ধারিত মূল্যে এলপিজি পাওয়া যাচ্ছে?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-18T09:02:15.597513+00:00"
+        "checked_at": "2026-11-18T10:02:01.965729+00:00"
       }
     }
   ]
