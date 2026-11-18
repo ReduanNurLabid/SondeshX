@@ -681,8 +681,13 @@ def main():
                         help="music-only Reel: on-screen text, no voiceover (saves the Gemini voice limit)")
     parser.add_argument("--format", choices=["reel", "photo"], default="reel",
                         help="reel: voiced video; photo: 4:5 photo card")
+    parser.add_argument("--check-instagram", action="store_true",
+                        help="only check that the token can publish to Instagram; posts nothing")
     args = parser.parse_args()
     platform = "facebook_reel" if args.format == "reel" else "facebook_photo"
+
+    if args.check_instagram:
+        sys.exit(0 if check_instagram() else 1)
 
     db = get_firestore_client()
     if args.min_gap_minutes and not args.story_id:
@@ -739,7 +744,8 @@ def main():
 
     caption = build_caption(story)
     if args.dry_run:
-        print("Dry run: not posted.\n--- caption ---\n" + caption + f"\n--- comment ---\n{story_link(story)}")
+        print("Dry run: not posted.\n--- caption ---\n" + caption + f"\n--- comment ---\n{story_link(story)}"
+              + "\n--- instagram caption ---\n" + instagram_caption(story))
         return
 
     try:
@@ -769,6 +775,117 @@ def main():
     })
     if comment_id:
         print(f"Link comment added: {comment_id}")
+
+    # The same Reel on Instagram. Never fails the job: Facebook is already posted.
+    if os.getenv("IG_POSTING", "on").lower() != "off":
+        ig = {}
+        try:
+            ig["instagram_media_id"] = post_instagram_reel(video_id, instagram_caption(story))
+            ig["instagram_posted_at"] = datetime.now(timezone.utc).isoformat()
+            print(f"Posted on Instagram: media_id {ig['instagram_media_id']}")
+        except Exception as err:  # noqa: BLE001 - reported, then ignored
+            ig["instagram_error"] = str(err)[:400]
+            print(f"Instagram posting skipped: {ig['instagram_error']}")
+        db.collection("social_posts").document(story["story_id"]).set(ig, merge=True)
+
+
+# ---------------------------------------------------------------- instagram
+# Instagram Reels through the Instagram Graph API (Facebook login). Instagram fetches
+# the video from a public address instead of taking an upload, so it is given the copy
+# Facebook already hosts for the Reel just posted: no extra storage needed.
+# Needs the Page token to include instagram_basic and instagram_content_publish.
+IG_LINK_LINE = "পুরো খবর পড়ুন sondesh.web.app এ (লিংক প্রোফাইলে) 👆"
+
+
+def instagram_caption(story: dict) -> str:
+    """Same caption as Facebook; Instagram links are not clickable, so it points to the bio."""
+    text = build_caption(story).replace("পুরো খবরের লিংক কমেন্টে 👇", IG_LINK_LINE)
+    return text[:2200]
+
+
+def instagram_user_id() -> str:
+    if os.getenv("IG_USER_ID"):
+        return os.environ["IG_USER_ID"]
+    r = requests.get(f"{GRAPH}/{os.environ['FB_PAGE_ID']}", timeout=30, params={
+        "fields": "instagram_business_account", "access_token": os.environ["FB_PAGE_TOKEN"]})
+    r.raise_for_status()
+    ig = (r.json().get("instagram_business_account") or {}).get("id")
+    if not ig:
+        raise RuntimeError("no Instagram account is connected to the Facebook Page")
+    return ig
+
+
+def facebook_video_source(video_id: str, wait_s: int = 420) -> str:
+    """Public address of the posted Facebook Reel, once Facebook has processed it."""
+    token = os.environ["FB_PAGE_TOKEN"]
+    deadline = time.time() + wait_s
+    last = ""
+    while time.time() < deadline:
+        r = requests.get(f"{GRAPH}/{video_id}", timeout=30,
+                         params={"fields": "source,status", "access_token": token})
+        if r.ok:
+            data = r.json()
+            last = str((data.get("status") or {}).get("video_status") or "")
+            if data.get("source") and last in ("ready", ""):
+                return data["source"]
+        else:
+            last = _graph_error_text(r)
+        time.sleep(15)
+    raise RuntimeError(f"Facebook video not ready for Instagram after {wait_s}s ({last})")
+
+
+def check_instagram() -> bool:
+    """Read-only check that the Page token reaches the Instagram account and may publish."""
+    token = os.environ["FB_PAGE_TOKEN"]
+    try:
+        ig_user = instagram_user_id()
+    except Exception as err:  # noqa: BLE001
+        print(f"Instagram account: NOT FOUND ({err})")
+        return False
+    r = requests.get(f"{GRAPH}/{ig_user}", timeout=30,
+                     params={"fields": "username,followers_count,media_count", "access_token": token})
+    print(f"Instagram account: {r.json() if r.ok else _graph_error_text(r)}")
+    q = requests.get(f"{GRAPH}/{ig_user}/content_publishing_limit", timeout=30,
+                     params={"fields": "quota_usage,config", "access_token": token})
+    if q.ok:
+        print(f"Publishing allowed. Usage in the last 24 hours: {q.json().get('data')}")
+        return r.ok
+    print(f"Publishing NOT allowed yet (the token needs instagram_content_publish): {_graph_error_text(q)}")
+    return False
+
+
+def post_instagram_reel(fb_video_id: str, caption: str) -> str:
+    token = os.environ["FB_PAGE_TOKEN"]
+    ig_user = instagram_user_id()
+    video_url = facebook_video_source(fb_video_id)
+    r = requests.post(f"{GRAPH}/{ig_user}/media", timeout=60, data={
+        "media_type": "REELS", "video_url": video_url, "caption": caption,
+        "share_to_feed": "true", "access_token": token})
+    if not r.ok:
+        raise RuntimeError(f"Instagram container failed: {_graph_error_text(r)}")
+    container = r.json()["id"]
+
+    # Instagram downloads and processes the video; publish once it reports FINISHED.
+    deadline = time.time() + 600
+    status = ""
+    while time.time() < deadline:
+        s = requests.get(f"{GRAPH}/{container}", timeout=30,
+                         params={"fields": "status_code,status", "access_token": token})
+        if s.ok:
+            status = s.json().get("status_code") or ""
+            if status == "FINISHED":
+                break
+            if status in ("ERROR", "EXPIRED"):
+                raise RuntimeError(f"Instagram could not process the video: {s.json().get('status')}")
+        time.sleep(15)
+    else:
+        raise RuntimeError(f"Instagram processing timed out (last status {status or 'unknown'})")
+
+    p = requests.post(f"{GRAPH}/{ig_user}/media_publish", timeout=60,
+                      data={"creation_id": container, "access_token": token})
+    if not p.ok:
+        raise RuntimeError(f"Instagram publish failed: {_graph_error_text(p)}")
+    return p.json()["id"]
 
 
 if __name__ == "__main__":

@@ -18,6 +18,10 @@ on:
         description: 'Only refresh Reel performance numbers'
         type: boolean
         default: false
+      check_instagram:
+        description: 'Only check that the token can publish to Instagram (posts nothing)'
+        type: boolean
+        default: false
       auto:
         description: 'Started by the news pipeline (keeps posts spaced out)'
         type: boolean
@@ -42,7 +46,7 @@ permissions:
 jobs:
   post-reel:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 35   # render, Facebook, then Instagram's own video processing
 
     steps:
       - name: Checkout Repository
@@ -75,7 +79,7 @@ jobs:
           cd web && pnpm install --frozen-lockfile
 
       - name: Build And Serve The Reel Renderer
-        if: (github.event.schedule != '10 23 * * *' && !inputs.insights_only)
+        if: (github.event.schedule != '10 23 * * *' && !inputs.insights_only && !inputs.check_instagram)
         run: |
           cd web
           npx tsc --noEmit
@@ -91,14 +95,23 @@ jobs:
           PYTHONPATH: .
         run: python -m pipeline.social.reel_insights
 
+      - name: Check Instagram Publishing Access
+        if: inputs.check_instagram
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          PYTHONPATH: .
+        run: python -m pipeline.social.post_reel --check-instagram
+
       - name: Render And Post Reel
-        if: (github.event.schedule != '10 23 * * *' && !inputs.insights_only)
+        if: (github.event.schedule != '10 23 * * *' && !inputs.insights_only && !inputs.check_instagram)
         env:
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
           FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           REEL_TTS_VOICE: ${{ vars.REEL_TTS_VOICE || 'Kore' }}
+          IG_POSTING: ${{ vars.IG_POSTING || 'on' }}   # set the repo variable to "off" to stop Instagram posts
           PYTHONPATH: .
         run: |
           ARGS="--base-url http://localhost:4173 --out reel.mp4 --format ${{ inputs.format || 'reel' }}"
@@ -117,7 +130,7 @@ jobs:
           python -m pipeline.social.post_reel $ARGS
 
       - name: Keep The Rendered Video
-        if: always() && (github.event.schedule != '10 23 * * *' && !inputs.insights_only)
+        if: always() && (github.event.schedule != '10 23 * * *' && !inputs.insights_only && !inputs.check_instagram)
         uses: actions/upload-artifact@v4
         with:
           name: reel-${{ github.run_id }}
