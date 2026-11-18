@@ -512,7 +512,9 @@ def build_voiceover(story: dict, workdir: str, use_voice: bool = True):
 
 
 # ---------------------------------------------------------------- video
-def render_video(story: dict, segments: list, duration: float, base_url: str, workdir: str) -> str:
+def render_video(story: dict, segments: list, duration: float, base_url: str, workdir: str,
+                 image_urls: Optional[list] = None, source_line: Optional[str] = None) -> str:
+    """image_urls: editor photos (a different one behind each beat) instead of the publisher photo."""
     from playwright.sync_api import sync_playwright
 
     buzz = story["daily_buzz"]
@@ -520,11 +522,12 @@ def render_video(story: dict, segments: list, duration: float, base_url: str, wo
     request = {
         "headline": reel_headline(story),
         "points": reel_points(story),
-        "sourceLine": f"সূত্র: {', '.join(names[:3])}" if names else "",
+        "sourceLine": source_line or (f"সূত্র: {', '.join(names[:3])}" if names else ""),
         "category": INTEREST_CATEGORIES.get(story.get("primary_category") or "", {}).get("bn", "খবর"),
         "dateLine": bn_date(_parse_time(story.get("published_at")) or datetime.now(timezone.utc)),
         "kicker": (story.get("daily_buzz") or {}).get("kicker_bn") or "",
-        "imageUrl": reel_image(story),
+        "imageUrl": None if image_urls else reel_image(story),
+        "imageUrls": image_urls or [],
         "segments": segments,
         "duration": duration,
     }
@@ -987,6 +990,20 @@ def render_footage_reel(story: dict, clip_path: str, credit: str, base_url: str,
     return total
 
 
+def render_photo_reel(story: dict, file_ids: list, credit: str, base_url: str, workdir: str, out_path: str) -> float:
+    """Reel from the editor's photos: the usual design, one photo behind each beat."""
+    from pipeline.social import telegram_clips as tgc
+    urls = []
+    for n, fid in enumerate(file_ids):
+        path = tgc.download_file(fid, os.path.join(workdir, f"photo{n}.jpg"))
+        with open(path, "rb") as f:
+            urls.append("data:image/jpeg;base64," + base64.b64encode(f.read()).decode())
+    audio, segments, total = build_voiceover(story, workdir)
+    video = render_video(story, segments, total, base_url, workdir, image_urls=urls, source_line=f"ছবি: {credit}")
+    mux(video, audio, total, out_path)
+    return total
+
+
 def _clip_and_story(db, clip_id: str):
     from pipeline.social.telegram_clips import COLLECTION
     ref = db.collection(COLLECTION).document(clip_id)
@@ -1004,8 +1021,13 @@ def telegram_preview(db, clip_id: str, base_url: str, out_path: str):
     ref, clip, story = _clip_and_story(db, clip_id)
     try:
         with tempfile.TemporaryDirectory() as workdir:
-            src = tgc.download_file(clip["file_id"], os.path.join(workdir, "clip_src"))
-            total = render_footage_reel(story, src, clip.get("credit") or "সংগৃহীত", base_url, workdir, out_path)
+            credit = clip.get("credit") or "সংগৃহীত"
+            if clip.get("media_type") == "photo":
+                total = render_photo_reel(story, clip.get("file_ids") or [clip["file_id"]], credit,
+                                          base_url, workdir, out_path)
+            else:
+                src = tgc.download_file(clip["file_id"], os.path.join(workdir, "clip_src"))
+                total = render_footage_reel(story, src, credit, base_url, workdir, out_path)
         print(f"Rendered clip Reel {out_path} ({total:.1f}s, {os.path.getsize(out_path) // 1024} KB)")
         sent = tgc.send_video(clip["chat_id"], out_path,
                               f"প্রিভিউ ({total:.0f} সেকেন্ড): {story['daily_buzz']['title_bn']}\n"
@@ -1029,7 +1051,8 @@ def telegram_post(db, clip_id: str):
     try:
         with tempfile.TemporaryDirectory() as workdir:
             video = tgc.download_file(clip["preview_file_id"], os.path.join(workdir, "reel.mp4"))
-            caption = build_caption(story) + f"\n\nভিডিও: {clip.get('credit')}"
+            label = "ছবি" if clip.get("media_type") == "photo" else "ভিডিও"
+            caption = build_caption(story) + f"\n\n{label}: {clip.get('credit')}"
             video_id = upload_reel(video, caption)
     except Exception as err:
         ref.set({"status": "failed", "error": str(err)[:400]}, merge=True)
@@ -1049,7 +1072,7 @@ def telegram_post(db, clip_id: str):
     note = f"ফেসবুকে পোস্ট হয়েছে: https://www.facebook.com/reel/{video_id}"
     if os.getenv("IG_POSTING", "on").lower() != "off":
         try:
-            ig_caption = instagram_caption(story) + f"\n\nভিডিও: {clip.get('credit')}"
+            ig_caption = instagram_caption(story) + f"\n\n{label}: {clip.get('credit')}"
             record["instagram_media_id"] = post_instagram_reel(video_id, ig_caption[:2200])
             note += "\nইনস্টাগ্রামেও পোস্ট হয়েছে।"
         except Exception as err:  # noqa: BLE001

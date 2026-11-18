@@ -1,6 +1,7 @@
-"""Telegram inbox for editor-supplied video clips.
+"""Telegram inbox for editor-supplied video clips and photos.
 
-The editor sends a short news video (under 20 MB) to the Sondesh bot, with the story
+The editor sends a short news video (under 20 MB), or 1-4 photos as one album, to the
+Sondesh bot (several photos: a different one behind each key point), with the story
 link from sondesh.web.app in the caption (or picks one of the latest top stories from
 buttons). A Reel is rendered from the clip with the story's hook, key points, voice and
 music, sent back as a preview, and posted to Facebook and Instagram only after the
@@ -115,7 +116,7 @@ def credit_from(text: str) -> str:
     """Any text the editor writes next to the link is used as the on-screen credit."""
     text = re.sub(r"(?:https?://)?\S*sondesh\.web\.app\S*", "", text or "")
     text = re.sub(r"https?://\S+", "", text)
-    text = re.sub(r"^(?:source|credit|উৎস|ভিডিও)\s*[:：-]\s*", "", text.strip(), flags=re.I)
+    text = re.sub(r"^(?:source|credit|photo|উৎস|ভিডিও|ছবি)\s*[:：-]\s*", "", text.strip(), flags=re.I)
     line = next((ln.strip() for ln in text.splitlines() if ln.strip()), "")
     return line[:40] or "সংগৃহীত"
 
@@ -125,31 +126,71 @@ def _now() -> str:
     return datetime.now(timezone.utc).isoformat()
 
 
-def handle_message(db, msg: dict, allowed: str):
+HELP_TEXT = ("ভিডিও (২০ এমবির কম) অথবা ১-৩টি ছবি একসঙ্গে পাঠান, ক্যাপশনে sondesh.web.app এর খবরের লিংক দিন। "
+             "লিংক না দিলে সাম্প্রতিক খবর থেকে বেছে নিতে বলব। লিংকের পাশে লেখা থাকলে সেটা সূত্র হিসেবে দেখাবে। "
+             "একাধিক ছবি দিলে প্রতিটি মূল তথ্যের সঙ্গে আলাদা ছবি দেখাবে।")
+MAX_PHOTOS = 4   # hook + three key points
+
+
+def _media(msg: dict):
+    """(kind, file_id, size) for a video or photo message, else None."""
+    doc = msg.get("document") or {}
+    mime = doc.get("mime_type", "")
+    if msg.get("video"):
+        v = msg["video"]
+        return "video", v["file_id"], v.get("file_size") or 0
+    if mime.startswith("video/"):
+        return "video", doc["file_id"], doc.get("file_size") or 0
+    if msg.get("photo"):
+        p = msg["photo"][-1]                       # largest size Telegram made
+        return "photo", p["file_id"], p.get("file_size") or 0
+    if mime.startswith("image/"):
+        return "photo", doc["file_id"], doc.get("file_size") or 0
+    return None
+
+
+def handle_message(db, msg: dict, allowed: str, groups: Optional[dict] = None):
     chat_id = msg["chat"]["id"]
     if str(chat_id) != allowed:
         return  # only the editor's own chat is served
-    video = msg.get("video") or (msg.get("document") if (msg.get("document") or {}).get("mime_type", "").startswith("video/") else None)
     text = msg.get("caption") or msg.get("text") or ""
-    if not video:
-        if text.strip().startswith("/start") or text.strip().startswith("/help"):
-            send(chat_id, "ভিডিও পাঠান (২০ এমবির কম), ক্যাপশনে sondesh.web.app এর খবরের লিংক দিন। "
-                          "লিংক না দিলে সাম্প্রতিক খবর থেকে বেছে নিতে বলব। লিংকের পাশে লেখা থাকলে সেটা ভিডিওর সূত্র হিসেবে দেখাবে।")
+    media = _media(msg)
+    if not media:
+        if text.strip().startswith(("/start", "/help")):
+            send(chat_id, HELP_TEXT)
         return
-    if (video.get("file_size") or 0) > MAX_BYTES:
-        send(chat_id, "ভিডিওটি ২০ এমবির বেশি। ছোট করে আবার পাঠান।")
+    kind, file_id, size = media
+    if size > MAX_BYTES:
+        send(chat_id, "ফাইলটি ২০ এমবির বেশি। ছোট করে আবার পাঠান।")
         return
 
-    clip_id = str(msg["message_id"])
-    clip = {"clip_id": clip_id, "chat_id": chat_id, "file_id": video["file_id"],
-            "file_name": video.get("file_name") or "clip.mp4", "credit": credit_from(text),
-            "created_at": _now()}
-    m = STORY_RE.search(text)
+    # An album arrives as one message per photo/video: gather them, start once per album.
+    gid = msg.get("media_group_id")
+    if gid and groups is not None:
+        g = groups.setdefault(gid, {"chat_id": chat_id, "clip_id": str(msg["message_id"]),
+                                    "items": [], "text": ""})
+        g["items"].append((kind, file_id))
+        if text and not g["text"]:
+            g["text"] = text
+        return
+    start_clip(db, chat_id, str(msg["message_id"]), [(kind, file_id)], text)
+
+
+def start_clip(db, chat_id, clip_id: str, items: list, text: str, group_id: Optional[str] = None):
+    videos = [f for k, f in items if k == "video"]
+    kind = "video" if videos else "photo"
+    file_ids = videos[:1] if videos else [f for _, f in items][:MAX_PHOTOS]
+    noun = "ভিডিও" if kind == "video" else ("ছবিগুলো" if len(file_ids) > 1 else "ছবি")
+    clip = {"clip_id": clip_id, "chat_id": chat_id, "media_type": kind, "file_ids": file_ids,
+            "file_id": file_ids[0], "credit": credit_from(text), "created_at": _now()}
+    if group_id:
+        clip["media_group_id"] = group_id
+    m = STORY_RE.search(text or "")
     if m and story_title(db, m.group(1)):
         clip.update(story_id=m.group(1), status="rendering")
         db.collection(COLLECTION).document(clip_id).set(clip)
         dispatch({"telegram_clip": clip_id, "dry_run": "true"})
-        send(chat_id, f"পেয়েছি। খবর: {story_title(db, m.group(1))}\nরিল তৈরি হচ্ছে, কয়েক মিনিটের মধ্যে প্রিভিউ পাঠাব।")
+        send(chat_id, f"পেয়েছি ({noun})। খবর: {story_title(db, m.group(1))}\nরিল তৈরি হচ্ছে, কয়েক মিনিটের মধ্যে প্রিভিউ পাঠাব।")
         return
 
     choices = latest_top_stories(db)
@@ -161,7 +202,7 @@ def handle_message(db, msg: dict, allowed: str):
     buttons = [[{"text": s["daily_buzz"]["title_bn"][:60], "callback_data": f"s:{clip_id}:{i}"}]
                for i, s in enumerate(choices)]
     buttons.append([{"text": "✖ Cancel", "callback_data": f"x:{clip_id}"}])
-    send(chat_id, "এই ভিডিও কোন খবরের? বেছে নিন:", buttons)
+    send(chat_id, f"এই {noun} কোন খবরের? বেছে নিন:", buttons)
 
 
 def handle_callback(db, cb: dict, allowed: str):
@@ -217,6 +258,7 @@ def poll():
     offset = (state_ref.get().to_dict() or {}).get("offset", 0)
     allowed = os.getenv("TELEGRAM_CHAT_ID", "").strip()
     updates = tg("getUpdates", offset=offset, timeout=0, allowed_updates=["message", "callback_query"])
+    groups: dict = {}
     for u in updates:
         offset = u["update_id"] + 1
         msg, cb = u.get("message"), u.get("callback_query")
@@ -227,7 +269,7 @@ def poll():
                     send(chat["id"], f"Setup: save {chat['id']} as the GitHub secret TELEGRAM_CHAT_ID, then send the video again.")
                 continue
             if msg:
-                handle_message(db, msg, allowed)
+                handle_message(db, msg, allowed, groups)
             elif cb:
                 handle_callback(db, cb, allowed)
         except Exception as err:  # noqa: BLE001 - one bad update must not block the rest
@@ -238,6 +280,12 @@ def poll():
                     send(chat_id, f"সমস্যা হয়েছে: {str(err)[:300]}")
             except Exception:  # noqa: BLE001
                 pass
+    for gid, g in groups.items():
+        try:
+            start_clip(db, g["chat_id"], g["clip_id"], g["items"], g["text"], group_id=gid)
+        except Exception as err:  # noqa: BLE001
+            print(f"Album {gid} failed: {err}")
+            send(g["chat_id"], f"সমস্যা হয়েছে: {str(err)[:300]}")
     state_ref.set({"offset": offset, "checked_at": _now()}, merge=True)
     print(f"Handled {len(updates)} Telegram update(s).")
 

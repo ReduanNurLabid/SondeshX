@@ -14,6 +14,7 @@ export interface ReelRequest {
   dateLine: string;
   kicker?: string;
   imageUrl?: string | null;
+  imageUrls?: string[]; // editor photos, one per beat
   segments: ReelSegment[];
   duration: number;
 }
@@ -33,13 +34,15 @@ async function loadAssets(req: ReelRequest) {
   await Promise.all(
     ['500', '600', '700'].map((w) => document.fonts.load(`${w} 48px "Hind Siliguri"`, 'বাংলা খবর')),
   ).catch(() => undefined);
-  const [logo, image] = await Promise.all([
+  const load = (url: string) =>
+    loadSafeCanvasImage(url).then((r) => (r.status === 'preview_only' ? null : r.image)).catch(() => null);
+  const [logo, image, extra] = await Promise.all([
     loadLogo(),
-    req.imageUrl
-      ? loadSafeCanvasImage(req.imageUrl).then((r) => (r.status === 'preview_only' ? null : r.image)).catch(() => null)
-      : Promise.resolve(null),
+    req.imageUrl ? load(req.imageUrl) : Promise.resolve(null),
+    Promise.all((req.imageUrls || []).map(load)),
   ]);
-  return { logo, image };
+  const images = extra.filter((i): i is HTMLImageElement => !!i);
+  return { logo, image: image || images[0] || null, images };
 }
 
 async function blobToBase64(blob: Blob): Promise<string> {
@@ -57,8 +60,8 @@ export function installReelRenderHost() {
   document.body.style.background = '#111';
 
   (window as any).renderReel = async (req: ReelRequest) => {
-    const { logo, image } = await loadAssets(req);
-    const result = await renderAutoReel({ ...req, logo, image });
+    const { logo, image, images } = await loadAssets(req);
+    const result = await renderAutoReel({ ...req, logo, image, images });
     return { base64: await blobToBase64(result.blob), mimeType: result.mimeType };
   };
 
@@ -96,7 +99,7 @@ export function installReelRenderHost() {
   };
 
   (window as any).previewReelFrame = async (req: ReelRequest, t: number) => {
-    const { logo, image } = await loadAssets(req);
+    const { logo, image, images } = await loadAssets(req);
     let canvas = document.getElementById('reel-preview') as HTMLCanvasElement | null;
     if (!canvas) {
       canvas = document.createElement('canvas');
@@ -106,7 +109,7 @@ export function installReelRenderHost() {
       canvas.style.height = '100vh';
       document.body.appendChild(canvas);
     }
-    drawAutoReelFrame(canvas.getContext('2d')!, { ...req, logo, image }, t);
+    drawAutoReelFrame(canvas.getContext('2d')!, { ...req, logo, image, images }, t);
     return true;
   };
 

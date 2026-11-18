@@ -27,6 +27,7 @@ export interface AutoReelInput {
   dateLine: string; // e.g. "১৫ নভেম্বর ২০২৬"
   kicker?: string; // optional 1-2 word label above the hook, e.g. "নতুন তারিখ"
   image: HTMLImageElement | null;
+  images?: HTMLImageElement[]; // editor photos: a different one behind each beat (hook, points)
   overlayOnly?: boolean; // draw only the text layer, on a transparent canvas (video-clip Reels)
   logo: HTMLImageElement | null;
   segments: ReelSegment[];
@@ -146,7 +147,12 @@ function drawPicture(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: num
   ctx.fillRect(0, 0, W, H);
   const cam = cameraFor(input, t);
 
-  if (!input.image) {
+  // Several editor photos: the hook shows the first, each key point the next one.
+  const segIndex = Math.max(0, input.segments.findIndex((s) => t >= s.start && t < s.end));
+  const beatImage = input.images?.length
+    ? input.images[Math.min(segIndex, input.segments.length - 1) % input.images.length]
+    : input.image;
+  if (!beatImage) {
     // No publisher photo: dark backdrop with a slowly drifting red glow, no big logo.
     const gx = W * (0.3 + 0.4 * Math.sin(t * 0.35));
     const g = ctx.createRadialGradient(gx, 700, 60, gx, 700, 1100);
@@ -157,7 +163,7 @@ function drawPicture(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: num
     return;
   }
 
-  const img = input.image;
+  const img = beatImage;
   const p = prepare(img);
   const scale = Math.max(W / p.sw, PHOTO_H / p.sh) * cam.zoom;
   const dw = p.sw * scale;
