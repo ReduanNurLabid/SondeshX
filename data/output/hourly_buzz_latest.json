@@ -1,143 +1,459 @@
 {
-  "updated_at": "2026-11-18T13:00:43.445676",
-  "total_stories": 2,
+  "updated_at": "2026-11-18T14:00:45.297744",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "6696674e-88d3-5e01-bb6e-f417e9454087",
-      "primary_category": "world_diplomacy",
+      "story_id": "60912d1c-ecfd-5722-a518-872e629006a1",
+      "primary_category": "climate_environment",
       "interest_categories": [
-        "world_diplomacy"
+        "climate_environment",
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#CycloneAkvan",
+        "#BayOfBengal"
       ],
-      "image_url": "https://media.channelionline.com/2026/11/Untitled-121.jpg?w=1200",
+      "image_url": "https://images.unsplash.com/photo-1583794018021-c841442da0e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bmF0dXJlJTIwY2xpbWF0ZSUyMGZsb29kJTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk0ODU5Mjk4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-18T12:48:06+00:00",
+      "published_at": "2026-11-18T13:51:45+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 9.0,
-      "rank_score": 7.9557,
+      "importance_score": 8.75,
+      "rank_score": 7.5851,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/sri-lanka-president-bangladesh-visit-invite/",
-          "title": "শ্রীলঙ্কার প্রেসিডেন্টকে বাংলাদেশ সফরের আমন্ত্রণ প্রধানমন্ত্রী তারেক রহমানের",
-          "snippet": "শ্রীলঙ্কার প্রেসিডেন্টকে বাংলাদেশ সফরের আমন্ত্রণ প্রধানমন্ত্রী তারেক রহমানের"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/nation/425051/cyclone-akvan-leaves-fishermen-stranded-as-bay",
+          "title": "Cyclone Akvan leaves fishermen stranded as Bay turns rough",
+          "snippet": "Cyclone Akvan leaves fishermen stranded as Bay turns rough"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821735/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%B2-%E0%A6%98%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%BF%E0%A6%9D%E0%A7%9C%E0%A7%87-%E0%A6%B0%E0%A7%82%E0%A6%AA-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E2%80%98%E0%A6%86%E0%A6%95%E0%A6%AD%E0%A6%BE%E0%A6%A8%E2%80%99-%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87-%E0%A7%A9",
+          "title": "প্রবল ঘূর্ণিঝড়ে রূপ নিয়েছে ‘আকভান’, চার বন্দরে ৩ নম্বর সতর্ক সংকেত",
+          "snippet": "প্রবল ঘূর্ণিঝড়ে রূপ নিয়েছে ‘আকভান’, চার বন্দরে ৩ নম্বর সতর্ক সংকেত"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শ্রীলঙ্কার প্রেসিডেন্টকে বাংলাদেশ সফরের আমন্ত্রণ জানিয়েছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "title_en": "Prime Minister Tariq Rahman invited the President of Sri Lanka to visit Bangladesh.",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমানের পক্ষ থেকে শ্রীলঙ্কার প্রেসিডেন্ট অনুরা কুমারা দিসানায়েকের হাতে বাংলাদেশ সফরের আমন্ত্রণপত্র তুলে দেওয়া হয়েছে।",
-        "summary_en": "An invitation letter from Prime Minister Tariq Rahman to visit Bangladesh was handed over to Sri Lankan President Anura Kumara Dissanayake.",
+        "title_bn": "ঘূর্ণিঝড় আকভান প্রবল রূপ নেওয়ায় চার বন্দরে ৩ নম্বর সতর্ক সংকেত জারি।",
+        "title_en": "Cyclone Akvan intensifies into a severe storm, prompting level 3 warnings at four ports.",
+        "summary_bn": "দক্ষিণ-পশ্চিম ও পশ্চিম-মধ্য বঙ্গোপসাগরে অবস্থানরত ঘূর্ণিঝড় আকভান আরও ঘনীভূত হয়ে প্রবল ঘূর্ণিঝড়ে পরিণত হওয়ায় দেশের চার সমুদ্রবন্দরে ৩ নম্বর স্থানীয় সতর্ক সংকেত জারি করা হয়েছে।",
+        "summary_en": "Cyclone Akvan over the south-west and west-central Bay of Bengal has intensified into a severe cyclone, prompting local warning signal number 3 at four maritime ports.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "climate_environment",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T12:48:06+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমানের পক্ষ থেকে শ্রীলঙ্কার প্রেসিডেন্ট অনুরা কুমারা দিসানায়েকের হাতে বাংলাদেশ সফরের আমন্ত্রণপত্র তুলে দেওয়া হয়েছে।",
-        "lead_en": "An invitation letter from Prime Minister Tariq Rahman to visit Bangladesh was handed over to Sri Lankan President Anura Kumara Dissanayake.",
+        "published_at": "2026-11-18T13:51:45+00:00",
+        "lead_bn": "দক্ষিণ-পশ্চিম ও পশ্চিম-মধ্য বঙ্গোপসাগরে অবস্থানরত ঘূর্ণিঝড় আকভান আরও ঘনীভূত হয়ে প্রবল ঘূর্ণিঝড়ে পরিণত হওয়ায় দেশের চার সমুদ্রবন্দরে ৩ নম্বর স্থানীয় সতর্ক সংকেত জারি করা হয়েছে।",
+        "lead_en": "Cyclone Akvan over the south-west and west-central Bay of Bengal has intensified into a severe cyclone, prompting local warning signal number 3 at four maritime ports.",
         "bullets_bn": [
-          "কলম্বোর প্রেসিডেনশিয়াল সেক্রেটারিয়েটে শ্রীলঙ্কার প্রেসিডেন্টের সঙ্গে সৌজন্য সাক্ষাৎ করেন বাংলাদেশের পররাষ্ট্র প্রতিমন্ত্রী হুমায়ুন কবির।",
-          "বাংলাদেশের প্রধানমন্ত্রীর আমন্ত্রণ সাদরে গ্রহণ করেছেন শ্রীলঙ্কার প্রেসিডেন্ট এবং তিনি তারেক রহমানের সঙ্গে সরাসরি সাক্ষাতের আগ্রহ প্রকাশ করেছেন।",
-          "শ্রীলঙ্কার প্রেসিডেন্ট ২০২৭ সালের শুরুর দিকে বাংলাদেশ সফরে আসার আগ্রহ প্রকাশ করেছেন।"
+          "আবহাওয়া অধিদপ্তরের আবহাওয়াবিদ ড. মো. ওমর ফারুকের দেওয়া বিশেষ বিজ্ঞপ্তিতে এই তথ্য জানানো হয়েছে।",
+          "ঘূর্ণিঝড়ের প্রভাবে উত্তর বঙ্গোপসাগরে গভীর সঞ্চালনশীল মেঘমালা সৃষ্টি হয়েছে।",
+          "এর আগে বন্দরগুলোতে ২ নম্বর দূরবর্তী হুঁশিয়ারি সংকেত জারি ছিল যা এখন পরিবর্তন করা হয়েছে।"
         ],
         "bullets_en": [
-          "State Minister for Foreign Affairs Humayun Kabir paid a courtesy call on the Sri Lankan president at the Presidential Secretariat in Colombo.",
-          "The Sri Lankan president cordially accepted the invitation from the Prime Minister of Bangladesh and expressed interest in meeting Tariq Rahman directly.",
-          "The President of Sri Lanka expressed interest in visiting Bangladesh in early २०২৭."
+          "This was stated in a special bulletin given by meteorologist Dr. Md. Omar Farooq of the Meteorological Department.",
+          "Deep convective clouds have formed over the north Bay of Bengal due to the cyclone's impact.",
+          "Previously issued distant warning signal number 2 at the ports has now been changed."
+        ],
+        "impact_bn": "ঘূর্ণিঝড় ও উত্তাল সাগরের কারণে বারবার বিঘ্নিত হচ্ছে মাছ ধরা এবং শুঁটকি উৎপাদন, যার ফলে মৌসুমী কর্মীরা আটকা পড়ে আর্থিক ক্ষতির মুখে পড়েছেন।",
+        "impact_en": "Repeated cyclones and a rough bay disrupt fishing and dry fish production, leaving seasonal workers stranded and facing financial losses.",
+        "details_bn": "দক্ষিণ-পশ্চিম ও পশ্চিম-মধ্য বঙ্গোপসাগরে অবস্থানরত ঘূর্ণিঝড় আকভান আরও ঘনীভূত হয়ে প্রবল ঘূর্ণিঝড়ে রূপ নিয়েছে। এর প্রভাবে উত্তর বঙ্গোপসাগরে গভীর সঞ্চালনশীল মেঘমালা সৃষ্টি হয়েছে। ১৮ নভেম্বর আবহাওয়া অধিদপ্তরের আবহাওয়াবিদ ড. মো. ওমর ফারুকের দেওয়া বিশেষ বিজ্ঞপ্তিতে দেশের চার সমুদ্রবন্দরের ২ নম্বর দূরবর্তী হুঁশিয়ারি সংকেত পরিবর্তন করে ৩ নম্বর স্থানীয় সতর্ক সংকেত জারি করা হয়।",
+        "details_en": "Cyclone Akvan stationed over the south-west and west-central Bay of Bengal has further intensified into a severe cyclone. Under its influence, deep convective clouds have formed over the north Bay of Bengal. On Wednesday 18 November, through a special bulletin issued by meteorologist Dr. Md. Omar Farooq of the Meteorological Department, the distant warning signal number 2 at four maritime ports was changed to local warning signal number 3.",
+        "hook_bn": "প্রবল ঘূর্ণিঝড় আকভান, চার বন্দরে ৩ নম্বর সংকেত",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": null
+      },
+      "desk_importance": 8.0,
+      "outlet_count": 2,
+      "trending": true,
+      "social_appeal": 9.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-18T14:09:34.579199+00:00"
+      }
+    },
+    {
+      "story_id": "f4d4361d-db28-5f61-89bb-267551cc5d7f",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#MuftiRuhulAmin",
+        "#BaitulMukarram"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2024/09/22/ruhul_amin.png",
+      "image_caption": null,
+      "published_at": "2026-11-18T13:45:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 8.0,
+      "rank_score": 6.2994,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/former-baitul-mukarram-khatib-mufti-ruhul-amin-detained-bashundhara-1606971",
+          "title": "Former Baitul Mukarram Khatib Mufti Ruhul Amin detained in Bashundhara",
+          "snippet": "Former Baitul Mukarram Khatib Mufti Ruhul Amin detained in Bashundhara"
+        },
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/crime/post-1222628/",
+          "title": "বায়তুল মোকাররমের পালিয়ে যাওয়া সাবেক খতিব আটক",
+          "snippet": "বায়তুল মোকাররমের পালিয়ে যাওয়া সাবেক খতিব আটক"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/muftee-ruhul-amin-arrested/",
+          "title": "বায়তুল মোকাররমের সাবেক খতিব মুফতি রুহুল আমিন গ্রেফতার",
+          "snippet": "বায়তুল মোকাররমের সাবেক খতিব মুফতি রুহুল আমিন গ্রেফতার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বায়তুল মোকাররমের সাবেক খতিব মুফতি রুহুল আমিন আটক",
+        "title_en": "Former Baitul Mukarram Khatib Mufti Ruhul Amin detained",
+        "summary_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনী ঢাকার বসুন্ধরা আবাসিক এলাকা থেকে বায়তুল মোকাররম জাতীয় মসজিদের সাবেক খতিব মুফতি রুহুল আমিনকে আটক করেছে।",
+        "summary_en": "Law enforcement agencies detained former Baitul Mukarram National Mosque Khatib Mufti Ruhul Amin from Dhaka's Bashundhara Residential Area.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T13:45:00+00:00",
+        "lead_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনী ঢাকার বসুন্ধরা আবাসিক এলাকা থেকে বায়তুল মোকাররম জাতীয় মসজিদের সাবেক খতিব মুফতি রুহুল আমিনকে আটক করেছে।",
+        "lead_en": "Law enforcement agencies detained former Baitul Mukarram National Mosque Khatib Mufti Ruhul Amin from Dhaka's Bashundhara Residential Area.",
+        "bullets_bn": [
+          "ভাটারা থানার ভারপ্রাপ্ত কর্মকর্তা মাজহারুল ইসলাম জানান, একটি গোপন খবরের ভিত্তিতে তাকে আটক করা হয়।",
+          "মুফতি রুহুল আমিন ২০২২ সালের ৩১ মার্চ থেকে ২০২৪ সালের ২২ সেপ্টেম্বর পর্যন্ত জাতীয় মসজিদের খতিব হিসেবে দায়িত্ব পালন করেন।",
+          "ছাত্র আন্দোলনের সঙ্গে সম্পৃক্ততাসহ তার বিরুদ্ধে একাধিক মামলা রয়েছে এবং তাকে গ্রেপ্তার দেখানো হবে।"
+        ],
+        "bullets_en": [
+          "Bhatara Police Station Officer-in-Charge Mazharul Islam stated he was detained based on a tip-off.",
+          "Mufti Ruhul Amin served as the khatib of the national mosque from 31 March 2022 to 22 September 2024.",
+          "Several cases have been filed against him, including in connection with the Anti-Discrimination Student Movement, and he will be shown arrested."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "সাক্ষাৎকালে দুই দেশের দীর্ঘদিনের বন্ধুত্বপূর্ণ সম্পর্কের কথা তুলে ধরে পররাষ্ট্র প্রতিমন্ত্রী হুমায়ুন কবির জানান, সাবেক রাষ্ট্রপতি জিয়াউর রহমান ও সাবেক প্রধানমন্ত্রী খালেদা জিয়ার সময়ে সম্পর্ক জোরদারে গুরুত্বপূর্ণ অগ্রগতি হয়েছে এবং সেই সম্পর্ক আরও এগিয়ে নিতে প্রধানমন্ত্রী তারেক রহমান আগ্রহী। এ সময় তিনি শ্রীলঙ্কার দারিদ্র্য বিমোচনে প্রেসিডেন্টের নেওয়া ক্লিন শ্রীলঙ্কা ও প্রজা শক্তি কর্মসূচির প্রশংসা করেন এবং বাংলাদেশের উন্নয়ন পরিকল্পনার বিভিন্ন উদ্যোগের কথা তুলে ধরেন।",
-        "details_en": "During the meeting, State Minister for Foreign Affairs Humayun Kabir highlighted the long-standing friendly relations between the two countries, noting that important progress in strengthening ties occurred during the times of former president Ziaur Rahman and former prime minister Khaleda Zia, and that Prime Minister Tariq Rahman is keen to take that relationship further. He praised the president's Clean Sri Lanka and Praja Shakthi programs for poverty alleviation in Sri Lanka and highlighted various initiatives of Bangladesh's development plans.",
-        "hook_bn": "শ্রীলঙ্কার প্রেসিডেন্টকে বাংলাদেশ সফরের আমন্ত্রণ",
+        "details_bn": "আওয়ামী লীগ সরকারের পতনের পর গত ৫ আগস্ট ২০২৪ থেকে তিনি আত্মগোপনে ছিলেন। এর আগে ২০১৮ সালে সাবেক প্রধানমন্ত্রী শেখ হাসিনাকে ‘কওমি জননী’ উপাধি দেওয়ার পর তিনি আলোচনায় আসেন এবং একাদশ জাতীয় সংসদ নির্বাচনে নারাইল-১ আসনে আওয়ামী লীগের মনোনয়ন প্রত্যাশী ছিলেন। ২০ সেপ্টেম্বর তিনি অনুসারীদের নিয়ে বায়তুল মোকাররমের খতিবের মাইক নিয়ন্ত্রণের বিষয়ে সংঘর্ষে জড়ান।",
+        "details_en": "Following the fall of the Awami League government on 5 August 2024, he went into hiding. He previously came into the spotlight in 2018 after giving then Prime Minister Sheikh Hasina the title Qawmi Janani and was an Awami League nomination aspirant for Narail-1. On 20 September, he went to Baitul Mukarram with followers, leading to a clash over the microphone.",
+        "hook_bn": "বসুন্ধরা থেকে সাবেক খতিব আটক",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
+      "desk_importance": 7.0,
+      "outlet_count": 3,
+      "trending": true,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-18T13:11:40.783410+00:00"
+        "checked_at": "2026-11-18T14:09:34.579199+00:00"
       }
     },
     {
-      "story_id": "17043e96-3ac5-5697-b73f-d4a7da2fb252",
-      "primary_category": "world_diplomacy",
+      "story_id": "3948494c-95cb-5416-936d-14c5f6b6f91e",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#TariqueRahman",
+        "#BNP",
+        "#AwamiLeague"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/08/10/prime_minister_tarique_rahman.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-18T13:05:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.75,
+      "rank_score": 5.6886,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/politics/pm-directs-bnp-mps-return-constituencies-politically-confront-awami-league",
+          "title": "PM directs BNP MPs to return to constituencies to politically confront Awami League",
+          "snippet": "PM directs BNP MPs to return to constituencies to politically confront Awami League"
+        },
+        {
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/bb4q4ii7jt",
+          "title": "সংসদের অধিবেশন শেষ হলেই এমপিদের নিজ নিজ এলাকায় যেতে বললেন প্রধানমন্ত্রী",
+          "snippet": "সংসদের অধিবেশন শেষ হলেই এমপিদের নিজ নিজ এলাকায় যেতে বললেন প্রধানমন্ত্রী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আওয়ামী লীগকে রাজনৈতিকভাবে মোকাবেলার নির্দেশ প্রধানমন্ত্রী তারেক রহমানের",
+        "title_en": "PM Tarique Rahman directs political confrontation of Awami League",
+        "summary_bn": "প্রধানমন্ত্রী ও বিএনপি চেয়ারম্যান তারেক রহমান বিএনপির সংসদ সদস্যদের নিজ নিজ এলাকায় ফিরে আওয়ামী লীগের কর্মকাণ্ড রাজনৈতিকভাবে মোকাবেলা করার নির্দেশ দিয়েছেন।",
+        "summary_en": "Prime Minister and BNP Chairman Tarique Rahman has instructed BNP lawmakers to return to their constituencies and politically confront the Awami League.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T13:05:00+00:00",
+        "lead_bn": "প্রধানমন্ত্রী ও বিএনপি চেয়ারম্যান তারেক রহমান বিএনপির সংসদ সদস্যদের নিজ নিজ এলাকায় ফিরে আওয়ামী লীগের কর্মকাণ্ড রাজনৈতিকভাবে মোকাবেলা করার নির্দেশ দিয়েছেন।",
+        "lead_en": "Prime Minister and BNP Chairman Tarique Rahman has instructed BNP lawmakers to return to their constituencies and politically confront the Awami League.",
+        "bullets_bn": [
+          "সংসদীয় দলের বৈঠকে প্রধানমন্ত্রী এই নির্দেশনা দেন",
+          "এমপিদের নিজ এলাকায় আইনশৃঙ্খলা রক্ষার দায়িত্ব নেওয়ার আহ্বান জানানো হয়",
+          "দলীয় নেতাকর্মীদের সঙ্গে সম্পর্ক জোরদার করার নির্দেশ দেওয়া হয়েছে"
+        ],
+        "bullets_en": [
+          "The prime minister gave the directives at a parliamentary party meeting.",
+          "Lawmakers were urged to take responsibility for maintaining law and order in their areas.",
+          "MPs were asked to strengthen ties with party leaders and activists."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "১৮ নভেম্বর সংসদ কমপ্লেক্সে অনুষ্ঠিত বিএনপি সংসদীয় দলের সভায় এই নির্দেশনা দেওয়া হয়। দেশের বিভিন্ন স্থানে নাশকতা, ভাঙচুর ও ককটেল বিস্ফোরণের খবরের মধ্যে এই বৈঠক হয়। প্রধানমন্ত্রী বলেন, একসময় প্রশাসন ও সব রাষ্ট্রীয় প্রতিষ্ঠান আওয়ামী লীগের পক্ষে থাকলেও তারা টিকতে পারেনি, তাই তাদের কর্মসূচি নিয়ে অতিরিক্ত উদ্বেগের কিছু নেই।",
+        "details_en": "The directives were given at a meeting of the BNP parliamentary party held at the parliament complex on 18 November, amid reports of arson, vandalism and crude bomb explosions in different parts of the country. The prime minister said that even when the administration and state institutions were on the side of the Awami League, they could not survive, so there is no need to be overly concerned about their programmes.",
+        "hook_bn": "'আওয়ামী লীগের কর্মসূচি নিয়ে উদ্বেগের কিছু নেই'",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": true,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-18T14:09:34.579199+00:00"
+      }
+    },
+    {
+      "story_id": "911ef31b-8738-5b41-b49f-d1d4f0c2bb84",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2023-11%2F9686c316-beef-4baa-9293-6b1c247acb22%2F2f25ead9-9ae8-445e-98c7-4e2b0c7e4635.jpg?rect=0%2C91%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-18T13:36:08+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.25,
+      "rank_score": 5.1297,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/business/industry/mn5s4ob9gj",
+          "title": "পোশাকশ্রমিকদের মজুরি নিয়ে প্রধানমন্ত্রীকে যুক্তরাষ্ট্রের ব্যবসায়ী সংগঠনের চিঠি",
+          "snippet": "পোশাকশ্রমিকদের মজুরি নিয়ে প্রধানমন্ত্রীকে যুক্তরাষ্ট্রের ব্যবসায়ী সংগঠনের চিঠি"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/aafa-urges-bangladesh-to-ensure-transparent-review-of-rmg-wage",
+          "title": "AAFA urges Bangladesh to ensure transparent review of RMG wage",
+          "snippet": "AAFA urges Bangladesh to ensure transparent review of RMG wage"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পোশাকশ্রমিকদের ন্যূনতম মজুরি প্রতিবছর পর্যালোচনার সুপারিশ যুক্তরাষ্ট্রের ব্যবসায়ী সংগঠনের",
+        "title_en": "US apparel body urges Bangladesh to review RMG minimum wages annually",
+        "summary_bn": "বাংলাদেশের পোশাকশ্রমিকদের ন্যূনতম মজুরি প্রতিবছর পর্যালোচনার জন্য প্রধানমন্ত্রী তারেক রহমানকে চিঠি দিয়েছে যুক্তরাষ্ট্রের ব্যবসায়ীদের সংগঠন আমেরিকান অ্যাপারেল অ্যান্ড ফুটওয়্যার অ্যাসোসিয়েশন।",
+        "summary_en": "The American Apparel and Footwear Association has urged Prime Minister Tarique Rahman to implement an annual minimum wage review for Bangladesh’s garment workers.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T13:36:08+00:00",
+        "lead_bn": "বাংলাদেশের পোশাকশ্রমিকদের ন্যূনতম মজুরি প্রতিবছর পর্যালোচনার জন্য প্রধানমন্ত্রী তারেক রহমানকে চিঠি দিয়েছে যুক্তরাষ্ট্রের ব্যবসায়ীদের সংগঠন আমেরিকান অ্যাপারেল অ্যান্ড ফুটওয়্যার অ্যাসোসিয়েশন।",
+        "lead_en": "The American Apparel and Footwear Association has urged Prime Minister Tarique Rahman to implement an annual minimum wage review for Bangladesh’s garment workers.",
+        "bullets_bn": [
+          "১৫ নভেম্বর লেখা চিঠিতে সংগঠনটির প্রেসিডেন্ট স্টিফেন লামার শ্রমিকদের অধিকার, নিরাপত্তা এবং তাঁদের ক্রয়ক্ষমতা ধরে রাখার ওপর গুরুত্ব দিয়েছেন।",
+          "সংগঠনটি জানিয়েছে, ২০২৩ সালের পর মজুরি সমন্বয় করা হয়নি, অথচ জ্বালানির উচ্চ মূল্যের কারণে পরিবারগুলোর ওপর বাড়তি চাপ তৈরি হয়েছে।",
+          "এএএফএ ট্রেড ইউনিয়নসহ সব অংশীজনকে নিয়ে স্বচ্ছ আলোচনার সুপারিশ করেছে এবং শান্তিপূর্ণ বিক্ষোভকারীদের ওপর সহিংসতা না করার আহ্বান জানিয়েছে।"
+        ],
+        "bullets_en": [
+          "AAFA President Stephen Lamar signed the November 15 letter, emphasizing worker rights, safety, and the need to maintain purchasing power.",
+          "The organization stated that wages have not been adjusted since 2023, while high fuel prices have pressured Bangladeshi families.",
+          "AAFA recommended inclusive, evidence-based discussions involving trade unions and called for an end to violence against peaceful protesters."
+        ],
+        "impact_bn": "প্রতিবছর মজুরি পর্যালোচনা করা হলে মূল্যস্ফীতির মধ্যে শ্রমিকদের ক্রয়ক্ষমতা বজায় থাকবে এবং মজুরি নির্ধারণ নিয়ে বারবার তৈরি হওয়া উত্তেজনা কমবে।",
+        "impact_en": "Annual wage reviews would help workers maintain purchasing power against inflation and reduce the recurring tensions surrounding wage fixations.",
+        "details_bn": "এএএফএ জানিয়েছে, আন্তর্জাতিক ব্র্যান্ডগুলোকে পণ্যের দাম নির্ধারণের সময় শ্রম ব্যয় বিবেচনায় নিতে হবে। আইএলও নীতিমালা অনুসারে ন্যূনতম মজুরি এমনভাবে নির্ধারণের আহ্বান জানানো হয়েছে, যাতে শ্রমিকেরা মৌলিক চাহিদা পূরণ করতে পারেন। সংগঠনটি সাম্প্রতিক শ্রমিক বিক্ষোভের প্রসঙ্গ টেনে বলেছে, মজুরি পর্যালোচনার আলোচনায় অংশগ্রহণকারীদের বিরুদ্ধে কোনো প্রতিশোধমূলক ব্যবস্থা নেওয়া যাবে না। কার্যকর ও স্বচ্ছ ত্রিপক্ষীয় আলোচনা নিশ্চিত করতে সরকারের গুরুত্বপূর্ণ ভূমিকার ওপরও জোর দিয়েছে সংগঠনটি।",
+        "details_en": "The AAFA emphasized that international brands must play a responsible role by considering labor costs when setting product prices. The organization called for tripartite discussions following ILO principles to ensure wages cover basic needs while considering the country's economic situation. It also stressed that no retaliatory measures should be taken against those participating in wage discussions or peaceful protests, following recent labor unrest in the sector.",
+        "hook_bn": "‘পোশাকশ্রমিকদের মজুরি প্রতিবছর পর্যালোচনা করুন’",
+        "kicker_bn": "মজুরি পর্যালোচনা",
+        "share_value": true,
+        "question_bn": "পোশাকশ্রমিকদের মজুরি কি প্রতিবছর পর্যালোচনা করা উচিত বলে আপনি মনে করেন?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-18T14:09:34.579199+00:00"
+      }
+    },
+    {
+      "story_id": "90a1bd17-c2ac-5e52-914a-86b270e08e3d",
+      "primary_category": "economy_business",
+      "interest_categories": [
         "economy_business",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#RohingyaCrisis",
-        "#ICJ",
-        "#BangladeshForeignAffairs",
-        "#Myanmar"
+        "#MalaysiaMigration",
+        "#TariqueRahman",
+        "#BangladeshLabourMarket",
+        "#OverseasEmployment"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/18/shama_obaed_1.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/09/09/pm_tarique_in_parliament.jpg",
       "image_caption": null,
-      "published_at": "2026-11-18T11:55:00+00:00",
+      "published_at": "2026-11-18T12:35:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.3597,
+      "importance_score": 7.25,
+      "rank_score": 4.8365,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/foreign-policy/dhaka-stresses-accountability-rohingya-atrocities-ahead-icj-judgment-1606761",
-          "title": "Dhaka stresses accountability for Rohingya atrocities ahead of ICJ judgment",
-          "snippet": "Dhaka stresses accountability for Rohingya atrocities ahead of ICJ judgment"
+          "url": "https://www.tbsnews.net/bangladesh/govt-send-10000-workers-malaysia-almost-no-cost-tarique-1606826",
+          "title": "Govt to send 10,000 workers to Malaysia at almost no cost: Tarique",
+          "snippet": "Govt to send 10,000 workers to Malaysia at almost no cost: Tarique"
         },
         {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/18/icj-to-rule-on-rohingya-genocide-case-what-to-expect?traffic_source=rss",
-          "title": "ICJ to rule on Rohingya genocide case: What to expect",
-          "snippet": "ICJ to rule on Rohingya genocide case: What to expect"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/425050/tarique-govt-to-send-10-000-bangladeshi-workers",
+          "title": "Tarique: Govt to send 10,000 Bangladeshi workers to Malaysia at almost no cost",
+          "snippet": "Tarique: Govt to send 10,000 Bangladeshi workers to Malaysia at almost no cost"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আইসিজে রায়ের আগে রোহিঙ্গা নির্যাতনের বিচার ও জবাবদিহিতার ওপর বাংলাদেশের জোর",
-        "title_en": "Bangladesh stresses accountability for Rohingya atrocities ahead of International Court of Justice judgment",
-        "summary_bn": "পররাষ্ট্র প্রতিমন্ত্রী শামা ওবায়েদ ইসলাম বলেছেন, রোহিঙ্গাদের ন্যায়বিচার নিশ্চিত করতে এবং মানবিক সংকটের মূল কারণ মোকাবিলায় আন্তর্জাতিক অপরাধের জবাবদিহিতা নিশ্চিত করা অপরিহার্য।",
-        "summary_en": "State Minister Shama Obaed Islam said accountability for international crimes is essential to deliver justice to the Rohingya people and address their humanitarian crisis.",
+        "title_bn": "মালয়েশিয়ায় ১০,০০০ কর্মী পাঠাবে সরকার, খরচ হবে নামমাত্র",
+        "title_en": "Government to send 10,000 workers to Malaysia at minimal cost",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান সংসদে জানিয়েছেন যে, সফল আলোচনার পর সরকার নামমাত্র খরচে প্রায় ১০,০০০ বাংলাদেশি কর্মীকে মালয়েশিয়ায় পাঠানোর পদক্ষেপ নিচ্ছে।",
+        "summary_en": "Prime Minister Tarique Rahman told Parliament that the government will send around 10,000 Bangladeshi workers to Malaysia at a minimal cost following successful negotiations.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
           "economy_business",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T11:55:00+00:00",
-        "lead_bn": "পররাষ্ট্র প্রতিমন্ত্রী শামা ওবায়েদ ইসলাম বলেছেন, রোহিঙ্গাদের ন্যায়বিচার নিশ্চিত করতে এবং মানবিক সংকটের মূল কারণ মোকাবিলায় আন্তর্জাতিক অপরাধের জবাবদিহিতা নিশ্চিত করা অপরিহার্য।",
-        "lead_en": "State Minister Shama Obaed Islam said accountability for international crimes is essential to deliver justice to the Rohingya people and address their humanitarian crisis.",
+        "published_at": "2026-11-18T12:35:00+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান সংসদে জানিয়েছেন যে, সফল আলোচনার পর সরকার নামমাত্র খরচে প্রায় ১০,০০০ বাংলাদেশি কর্মীকে মালয়েশিয়ায় পাঠানোর পদক্ষেপ নিচ্ছে।",
+        "lead_en": "Prime Minister Tarique Rahman told Parliament that the government will send around 10,000 Bangladeshi workers to Malaysia at a minimal cost following successful negotiations.",
         "bullets_bn": [
-          "গাম্বিয়া বনাম মিয়ানমার মামলায় আন্তর্জাতিক বিচার আদালতের আসন্ন রায়ের বিষয়ে গভীর আগ্রহ প্রকাশ করেছে বাংলাদেশ।",
-          "শামা ওবায়েদ ইসলাম জানান, আন্তর্জাতিক জবাবদিহিতা ব্যবস্থা দীর্ঘদিনের দায়মুক্তির সংস্কৃতি দূর করতে এবং টেকসই সমাধানে গুরুত্বপূর্ণ ভূমিকা রাখতে পারে।",
-          "প্রতিমন্ত্রী পুনর্ব্যক্ত করেন যে, ১৩ লাখ শরণার্থীর মিয়ানমারে নিরাপদ ও টেকসই প্রত্যাবাসনই এই সংকটের একমাত্র কার্যকর সমাধান।"
+          "গুম ও খুনের শিকার এবং ২০২৪ সালের গণঅভ্যুত্থানে হতাহতদের পরিবার থেকে প্রায় ১,০০০ কর্মীকে নির্বাচন করা হবে।",
+          "প্রধানমন্ত্রী জানান যে, প্রতিটি কর্মীর জন্য অভিবাসন ব্যয় সর্বোচ্চ ২ লাখ টাকার মধ্যে সীমাবদ্ধ রাখা নিশ্চিত করা হয়েছে।",
+          "ড্রাইভিংসহ বিভিন্ন পেশায় কর্মী নিয়োগের বিষয়ে মধ্যপ্রাচ্যের বেশ কিছু দেশের সাথেও বর্তমানে আলোচনা চলছে।"
         ],
         "bullets_en": [
-          "Bangladesh expressed keen interest in the forthcoming International Court of Justice judgment in the case of The Gambia versus Myanmar.",
-          "Shama Obaed Islam noted that international accountability mechanisms could help address longstanding impunity and advance a sustainable resolution.",
-          "The state minister reaffirmed that safe repatriation of 1.3 million refugees to Myanmar remains the only viable and durable solution."
+          "Around 1,000 workers will be selected from families affected by enforced disappearances, killings, or the 2024 mass uprising.",
+          "The Prime Minister stated that migration costs for each worker have been capped at a maximum of 2 lakh taka.",
+          "Discussions are also underway with Middle Eastern countries to recruit workers for various roles, including driving positions."
+        ],
+        "impact_bn": "রাজনৈতিক সহিংসতা ও গণঅভ্যুত্থানে ক্ষতিগ্রস্ত পরিবারসহ ১০,০০০ কর্মী কম খরচে বিদেশে যাওয়ার সুযোগ পাবেন।",
+        "impact_en": "Low-cost migration opportunities will be provided to 10,000 workers, including those from families affected by political violence and the mass uprising.",
+        "details_bn": "১৮ নভেম্বর সংসদে প্রধানমন্ত্রী বলেন, আওয়ামী লীগ সরকারের আমলের সিন্ডিকেট ও অনিয়মের কারণে বিভিন্ন দেশ কর্মী নিয়োগ কমিয়ে দিয়েছিল। আলোচনার মাধ্যমে মালয়েশিয়ার শ্রমবাজার পুনরায় উন্মুক্ত করা হয়েছে। তিনি জানান, মধ্যপ্রাচ্যের দেশগুলোতেও অভিবাসন ব্যয় যৌক্তিক পর্যায়ে রাখতে সরকার কাজ করছে। ইতিমধ্যে কিছু দেশ বাংলাদেশ থেকে চালকসহ বিভিন্ন পেশার কর্মী নিতে আগ্রহ প্রকাশ করেছে।",
+        "details_en": "On 18 November, the Prime Minister told Parliament that the Malaysian labour market was reopened through negotiations after several countries slowed recruitment due to syndicates and irregularities during the Awami League regime. He noted that the government is also working to keep overseas employment costs reasonable for workers seeking jobs in Middle Eastern countries. Some of these nations have already expressed interest in recruiting Bangladeshi drivers and other professionals.",
+        "hook_bn": "মালয়েশিয়ায় ১০ হাজার কর্মী পাঠাবে সরকার",
+        "kicker_bn": "কম খরচে বিদেশ",
+        "share_value": true,
+        "question_bn": "অভিবাসন ব্যয় কমানোর এই উদ্যোগ সম্পর্কে আপনার মতামত কী?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-18T14:09:34.579199+00:00"
+      }
+    },
+    {
+      "story_id": "403a63b2-7852-5a88-8e29-c456adea71f5",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#TungiparaPoliceStation",
+        "#Gopalganj",
+        "#AwamiLeague"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/17/911616207_1151833757215782_2457288033586198365_n.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-18T12:55:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.75,
+      "rank_score": 5.634,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/most-tungipara-police-personnel-move-district-lines-amid-fears-fresh-attack-1606846",
+          "title": "Most Tungipara police personnel move to district lines amid fears of fresh attack",
+          "snippet": "Most Tungipara police personnel move to district lines amid fears of fresh attack"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1181063",
+          "title": "টুঙ্গিপাড়া থানা ছেড়ে চলে গেলেন পুলিশ সদস্যরা",
+          "snippet": "টুঙ্গিপাড়া থানা ছেড়ে চলে গেলেন পুলিশ সদস্যরা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "টুঙ্গিপাড়া থানা ছেড়ে জেলা পুলিশ লাইনে চলে গেছেন পুলিশ সদস্যরা।",
+        "title_en": "Tungipara police personnel move to district lines amid attack fears.",
+        "summary_bn": "আক্রমণের আশঙ্কায় গোপালগঞ্জের টুঙ্গিপাড়া থানা ছেড়ে জেলা পুলিশ লাইনে চলে গেছেন অধিকাংশ পুলিশ সদস্য।",
+        "summary_en": "Most police personnel at Tungipara Police Station in Gopalganj moved to district police lines amid fears of attack.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T12:55:00+00:00",
+        "lead_bn": "আক্রমণের আশঙ্কায় গোপালগঞ্জের টুঙ্গিপাড়া থানা ছেড়ে জেলা পুলিশ লাইনে চলে গেছেন অধিকাংশ পুলিশ সদস্য।",
+        "lead_en": "Most police personnel at Tungipara Police Station in Gopalganj moved to district police lines amid fears of attack.",
+        "bullets_bn": [
+          "পুলিশ সদস্যরা ১৮ নভেম্বর সকাল থেকে থানা ছেড়ে চলে যান।",
+          "থানায় মোতায়েন করা হয়েছিল একশ জনের বেশি পুলিশ সদস্য।",
+          "ঊর্ধ্বতন কর্মকর্তাদের নির্দেশেই পুলিশ সদস্যরা পুলিশ লাইনে চলে যান।"
+        ],
+        "bullets_en": [
+          "Police personnel started leaving the station since the morning of 18 November.",
+          "More than 100 police personnel had been stationed at the police station.",
+          "The personnel moved to the police lines on the instructions of senior officers."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "১৮ নভেম্বর জাতিসংঘের বিশেষ দূত কেলি অ্যান একেলস-কারির সাথে বৈঠকে প্রতিমন্ত্রী রাখাইন রাজ্যের অবনতিশীল নিরাপত্তা পরিস্থিতি নিয়ে উদ্বেগ প্রকাশ করেন। গাম্বিয়ার করা গণহত্যা মামলায় আন্তর্জাতিক বিচার আদালতের রায়ের আগের দিন এই বৈঠক অনুষ্ঠিত হয়। শামা ওবায়েদ ইসলাম মিয়ানমারে অবস্থানরত রোহিঙ্গাদের সুরক্ষা এবং সেখানে নিরবচ্ছিন্ন মানবিক সহায়তা নিশ্চিত করার ওপর গুরুত্বারোপ করেন। তিনি দীর্ঘস্থায়ী এই সংকট নিরসনে আন্তর্জাতিক আইন মেনে চলার আহ্বান জানান।",
-        "details_en": "During a meeting with UN Special Rapporteur Kelley Anne Eckels-Currie on 18 November, the state minister expressed concern over deteriorating security in Rakhine State. The meeting occurred one day before the anticipated ICJ judgment in the genocide case brought by The Gambia against Myanmar. Shama Obaed Islam underscored the urgent need to protect Rohingya communities still in Myanmar and ensure unhindered humanitarian access while upholding international law to address the prolonged crisis.",
-        "hook_bn": "‘রোহিঙ্গা নির্যাতনের বিচার ও জবাবদিহিতা অপরিহার্য’",
-        "kicker_bn": "রায় ঘোষণা",
+        "details_bn": "আওয়ামী লীগের কয়েকজন নেতাকর্মীকে আটকের পর স্থানীয়রা মাইকে ঘোষণা দিয়ে টুঙ্গিপাড়া থানায় হামলা চালায়। হামলাকারীরা থানায় ভাঙচুর চালায় এবং ভবন ও পুলিশ গাড়িতে আগুন দেয়।",
+        "details_en": "Locals made announcements over a mosque loudspeaker and attacked Tungipara Police Station after several leaders and activists of the Awami League were detained.",
+        "hook_bn": "টুঙ্গিপাড়া থানায় হামলা ও অগ্নিসংযোগ",
+        "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": true,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-18T13:11:40.783410+00:00"
+        "checked_at": "2026-11-18T14:09:34.579199+00:00"
       }
     }
   ]
