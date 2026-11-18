@@ -353,6 +353,8 @@ def synthesize_story_with_ai(
                 details_bn=details_bn,
                 details_en=details_en,
                 hook_bn=clean_editorial_text(data.get("hook_bn")) or None,
+                kicker_bn=clean_editorial_text(data.get("kicker_bn")) or None,
+                share_value=data.get("share_value") is True,
                 question_bn=clean_editorial_text(data.get("question_bn")) or None,
             )
             

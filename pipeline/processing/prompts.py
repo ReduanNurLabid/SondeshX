@@ -27,7 +27,14 @@ WHAT TO WRITE
 - impact_en, impact_bn: one sentence on how this affects ordinary people in Bangladesh, only if the source states such an effect. Otherwise null.
 - details_en, details_bn: one paragraph, at most 90 words, of background taken from the source: what led to this, earlier related events, context. If the source gives no background, null.
 - tags: 2 to 4 hashtags in English CamelCase naming the specific people, bodies, places or issues in this story.
-- hook_bn: the opening line of a short news video, at most 12 Bangla words, spoken in the first two seconds. Lead with what changes for ordinary people or the most striking fact or figure, never with who said something. It must be a fact stated in the source. Example: "৩০ টাকা কেজিতে চাল পাবেন পোশাকশ্রমিকেরা".
+- hook_bn: the opening line of a short news video, shown in big letters and spoken in the first two seconds. 4 to 8 Bangla words, readable in one glance. Use the strongest of these, in this order of preference:
+    a. a short, striking direct quote from a named person in the source, inside single quotes, e.g. 'শ্রমিক না বাঁচলে শিল্প বাঁচবে না'
+    b. what happened and where, concrete and visual, e.g. "গাজীপুরে মন্ত্রীর বাড়িতে আগুন"
+    c. a figure with what is at stake, e.g. "৮০ কারখানা বন্ধ, রাস্তায় শ্রমিক"
+    d. what changes for ordinary people, e.g. "জানুয়ারি থেকে নতুন মজুরি পাবেন শ্রমিকেরা"
+  Never start with who said something ("মন্ত্রী বলেছেন..."), never a question, never a vague teaser. Every word must be supported by the source.
+- kicker_bn: a 1 to 3 word label shown above the hook, only if it is true and adds urgency or use: "নতুন তারিখ", "দাম বাড়ছে", "সতর্কতা", "রায় ঘোষণা". Null otherwise. Never "ব্রেকিং" unless the source reports it as just happening.
+- share_value: true if a reader would forward this to family or friends because it is useful to act on (a date, a price, a closure, a deadline, a rule, a warning). Otherwise false.
 - question_bn: one short, genuine question inviting readers to share their own experience or view of this news, in Bangla. Null for deaths, violence, disasters or other tragedies, and never a yes/no prompt like "comment yes".
 - primary_category: exactly one of
     "governance_law" (Bangladesh politics, government, courts, law and order, administration)
@@ -58,6 +65,8 @@ Return one JSON object with exactly these keys:
   "details_en": "... or null",
   "tags": ["#...", "#..."],
   "hook_bn": "...",
+  "kicker_bn": "... or null",
+  "share_value": false,
   "question_bn": "... or null"<<BCS_KEYS>>
 }
 """

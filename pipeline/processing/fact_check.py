@@ -19,7 +19,7 @@ from pipeline.processing.llm import generate_json
 SOURCE_CHAR_LIMIT = 6000
 BATCH_SOURCE_CHAR_LIMIT = 4000
 CORE_FIELDS = ("title", "lead", "bullets")
-TRIMMABLE_FIELDS = ("impact", "details", "hook")
+TRIMMABLE_FIELDS = ("impact", "details", "hook", "kicker")
 
 CHECK_INSTRUCTIONS = """List every claim in a STORY that its SOURCE REPORTING does not support. Check in particular:
 - names, titles and roles of people and organisations
@@ -52,6 +52,7 @@ def _story_fields(buzz) -> dict:
         "impact_en": buzz.impact_en, "impact_bn": buzz.impact_bn,
         "details_en": buzz.details_en, "details_bn": buzz.details_bn,
         "hook_bn": getattr(buzz, "hook_bn", None),
+        "kicker_bn": getattr(buzz, "kicker_bn", None),
     }
 
 

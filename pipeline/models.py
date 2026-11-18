@@ -72,6 +72,8 @@ class DailyBuzzItem(BaseModel):
     details_en: Optional[str] = None
     # Social: spoken opening line for Reels and an optional question for readers
     hook_bn: Optional[str] = None
+    kicker_bn: Optional[str] = None     # 1-3 word label above the Reel hook
+    share_value: bool = False           # useful enough to forward (dates, prices, closures)
     question_bn: Optional[str] = None
 
 class BcsProItem(BaseModel):

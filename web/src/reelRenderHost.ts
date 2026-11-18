@@ -12,6 +12,7 @@ export interface ReelRequest {
   sourceLine: string;
   category: string;
   dateLine: string;
+  kicker?: string;
   imageUrl?: string | null;
   segments: ReelSegment[];
   duration: number;

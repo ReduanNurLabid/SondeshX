@@ -1,7 +1,13 @@
 // Automatic news reel renderer (1080x1920, 30 fps) for the Facebook posting job.
 // The video follows a voiceover timeline produced by pipeline/social/post_reel.py:
-// headline, then each key point one at a time, then an outro. Video only; the job
-// mixes in the voiceover and music with ffmpeg.
+// hook, then the key point, then a short end card. Video only; the job mixes in the
+// voiceover, music and sound effects with ffmpeg.
+//
+// Look (modelled on how leading Bangla news pages make Reels): the picture fills the
+// screen, the hook sits in tight "sticker" boxes (white, then red) from the first frame,
+// branding is a small corner mark, and the picture keeps moving: a new camera move
+// starts on every beat, with the sharp photo and a blurred copy behind it drifting at
+// different speeds (parallax), so a single still never looks like a still.
 //
 // Layout respects Facebook Reels safe zones: nothing important in the bottom 400px
 // (caption and buttons) or the right 150px (like/comment/share column).
@@ -14,11 +20,12 @@ export interface ReelSegment {
 }
 
 export interface AutoReelInput {
-  headline: string;
+  headline: string; // the hook: short, shown from the first frame
   points: string[];
   sourceLine: string; // e.g. "সূত্র: প্রথম আলো, বাংলা ট্রিবিউন"
   category: string;
   dateLine: string; // e.g. "১৫ নভেম্বর ২০২৬"
+  kicker?: string; // optional 1-2 word label above the hook, e.g. "নতুন তারিখ"
   image: HTMLImageElement | null;
   logo: HTMLImageElement | null;
   segments: ReelSegment[];
@@ -27,21 +34,26 @@ export interface AutoReelInput {
 
 const W = 1080;
 const H = 1920;
-const PAD_L = 72;
+const PAD_L = 64;
 const SAFE_R = 150;
 const SAFE_BOTTOM = 400;
 const TEXT_W = W - PAD_L - SAFE_R;
 const FONT = '"Hind Siliguri", "Noto Sans Bengali", sans-serif';
+const WATERMARK_TRIM = 0.09; // bottom share of the source photo left out (publisher marks)
 
 const C = {
-  ink: '#0d1b24',
-  lime: '#c6ff00',
-  white: '#ffffff',
-  muted: 'rgba(255,255,255,0.72)',
-  card: 'rgba(13,27,36,0.86)',
+  ink: '#0b0b0c',
+  paper: '#ffffff',
+  red: '#d7191f',
+  muted: 'rgba(255,255,255,0.85)',
 };
 
-const ease = (t: number) => 1 - Math.pow(1 - Math.min(1, Math.max(0, t)), 3);
+const clamp01 = (t: number) => Math.min(1, Math.max(0, t));
+const ease = (t: number) => 1 - Math.pow(1 - clamp01(t), 3);
+const easeInOut = (t: number) => {
+  const x = clamp01(t);
+  return x < 0.5 ? 4 * x * x * x : 1 - Math.pow(-2 * x + 2, 3) / 2;
+};
 
 function wrap(ctx: CanvasRenderingContext2D, text: string, maxWidth: number): string[] {
   const words = text.split(/\s+/).filter(Boolean);
@@ -61,14 +73,15 @@ function wrap(ctx: CanvasRenderingContext2D, text: string, maxWidth: number): st
 }
 
 /** Largest font size (from max down to min) at which text fits in maxLines. */
-function fitText(ctx: CanvasRenderingContext2D, text: string, weight: number, max: number, min: number, maxLines: number) {
+function fitText(ctx: CanvasRenderingContext2D, text: string, weight: number, max: number, min: number, maxLines: number, width = TEXT_W - 40) {
   for (let size = max; size >= min; size -= 2) {
     ctx.font = `${weight} ${size}px ${FONT}`;
-    const lines = wrap(ctx, text, TEXT_W);
+    const lines = wrap(ctx, text, width);
     if (lines.length <= maxLines) return { size, lines };
   }
+  // Never drop words: at the smallest size, use as many lines as the text needs.
   ctx.font = `${weight} ${min}px ${FONT}`;
-  return { size: min, lines: wrap(ctx, text, TEXT_W).slice(0, maxLines) };
+  return { size: min, lines: wrap(ctx, text, width) };
 }
 
 function roundRect(ctx: CanvasRenderingContext2D, x: number, y: number, w: number, h: number, r: number) {
@@ -81,300 +94,280 @@ function roundRect(ctx: CanvasRenderingContext2D, x: number, y: number, w: numbe
   ctx.closePath();
 }
 
-function drawBackground(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: number) {
+// ---------------------------------------------------------------- picture
+
+interface Prepared {
+  blurred: HTMLCanvasElement | null; // soft, dark copy that fills the frame behind
+  sx: number; sy: number; sw: number; sh: number; // source rect, watermark strip removed
+  fill: boolean; // true: photo fills the frame; false: photo fitted over the blurred copy
+}
+
+const prepared = new WeakMap<HTMLImageElement, Prepared>();
+
+function prepare(img: HTMLImageElement): Prepared {
+  const hit = prepared.get(img);
+  if (hit) return hit;
+  const sw = img.naturalWidth || img.width;
+  const sh = Math.round((img.naturalHeight || img.height) * (1 - WATERMARK_TRIM));
+  // Filling a portrait frame from a landscape photo enlarges it a lot; past ~1.7x it
+  // turns soft, so smaller photos are shown whole over their own blurred copy instead.
+  const fillScale = Math.max(W / sw, H / sh);
+  const fill = fillScale <= 1.7;
+  let blurred: HTMLCanvasElement | null = null;
+  if (!fill) {
+    blurred = document.createElement('canvas');
+    blurred.width = W / 4;
+    blurred.height = H / 4;
+    const b = blurred.getContext('2d')!;
+    b.filter = 'blur(8px) brightness(0.8) saturate(1.25)';
+    const s = Math.max(blurred.width / sw, blurred.height / sh) * 1.2;
+    b.drawImage(img, 0, 0, sw, sh, (blurred.width - sw * s) / 2, (blurred.height - sh * s) / 2, sw * s, sh * s);
+  }
+  const p = { blurred, sx: 0, sy: 0, sw, sh, fill };
+  prepared.set(img, p);
+  return p;
+}
+
+/** Camera move for each beat: zoom and pan (fractions of the spare room), eased. */
+function cameraFor(input: AutoReelInput, t: number) {
+  const segs = input.segments;
+  const i = Math.max(0, segs.findIndex((s) => t >= s.start && t < s.end));
+  const seg = segs[i] || segs[segs.length - 1];
+  const k = easeInOut((t - seg.start) / Math.max(0.1, seg.end - seg.start));
+  const moves = [
+    { z0: 1.0, z1: 1.12, x0: 0, x1: 0, y0: -0.15, y1: -0.25 },    // push in on the upper part
+    { z0: 1.14, z1: 1.18, x0: -0.6, x1: 0.6, y0: -0.1, y1: -0.1 }, // slow pan across
+    { z0: 1.16, z1: 1.04, x0: 0.4, x1: 0, y0: 0, y1: -0.1 },       // pull back
+  ];
+  const m = seg.kind === 'outro' ? moves[2] : moves[i % 2];
+  return {
+    zoom: m.z0 + (m.z1 - m.z0) * k,
+    panX: m.x0 + (m.x1 - m.x0) * k,
+    panY: m.y0 + (m.y1 - m.y0) * k,
+    beatStart: seg.start,
+    k,
+  };
+}
+
+function drawPicture(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: number) {
   ctx.fillStyle = C.ink;
   ctx.fillRect(0, 0, W, H);
-  const imgH = 1180;
-  if (input.image) {
-    // Slow push-in over the whole reel.
-    const zoom = 1.04 + 0.1 * (t / input.duration);
-    const img = input.image;
-    const scale = Math.max(W / img.width, imgH / img.height) * zoom;
-    const dw = img.width * scale;
-    const dh = img.height * scale;
-    ctx.save();
-    ctx.beginPath();
-    ctx.rect(0, 0, W, imgH);
-    ctx.clip();
-    ctx.drawImage(img, (W - dw) / 2, (imgH - dh) / 2, dw, dh);
-    ctx.restore();
-  } else {
-    // No publisher photo: branded backdrop with fine diagonal lines and a large, faded,
-    // slowly drifting logo so the upper half never looks empty.
-    const g = ctx.createLinearGradient(0, 0, W, imgH);
-    g.addColorStop(0, '#1d3b47');
-    g.addColorStop(1, '#0d1b24');
+  const cam = cameraFor(input, t);
+
+  if (!input.image) {
+    // No publisher photo: dark backdrop with a slowly drifting red glow, no big logo.
+    const gx = W * (0.3 + 0.4 * Math.sin(t * 0.35));
+    const g = ctx.createRadialGradient(gx, 700, 60, gx, 700, 1100);
+    g.addColorStop(0, 'rgba(215,25,31,0.35)');
+    g.addColorStop(1, 'rgba(11,11,12,0)');
     ctx.fillStyle = g;
-    ctx.fillRect(0, 0, W, imgH);
-    ctx.save();
-    ctx.strokeStyle = 'rgba(198,255,0,0.06)';
-    ctx.lineWidth = 2;
-    const drift = (t * 12) % 60;
-    for (let x = -imgH; x < W + imgH; x += 60) {
-      ctx.beginPath();
-      ctx.moveTo(x + drift, 0);
-      ctx.lineTo(x + drift + imgH, imgH);
-      ctx.stroke();
-    }
-    if (input.logo) {
-      const size = 620 + 30 * (t / input.duration);
-      ctx.globalAlpha = 0.09;
-      ctx.drawImage(input.logo, (W - size) / 2, 330 - size / 2 + 120, size, size);
-    }
-    ctx.restore();
-  }
-  // Fade the photo into the dark lower half where the text sits.
-  const fade = ctx.createLinearGradient(0, 520, 0, imgH);
-  fade.addColorStop(0, 'rgba(13,27,36,0)');
-  fade.addColorStop(1, 'rgba(13,27,36,1)');
-  ctx.fillStyle = fade;
-  ctx.fillRect(0, 520, W, imgH - 520);
-  const topShade = ctx.createLinearGradient(0, 0, 0, 260);
-  topShade.addColorStop(0, 'rgba(0,0,0,0.55)');
-  topShade.addColorStop(1, 'rgba(0,0,0,0)');
-  ctx.fillStyle = topShade;
-  ctx.fillRect(0, 0, W, 260);
-}
-
-function drawTopBar(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: number) {
-  // Brand.
-  let x = 48;
-  if (input.logo) {
-    ctx.save();
-    roundRect(ctx, x, 96, 76, 76, 16);
-    ctx.clip();
-    ctx.drawImage(input.logo, x, 96, 76, 76);
-    ctx.restore();
-    x += 92;
-  }
-  ctx.fillStyle = C.white;
-  ctx.font = `700 40px ${FONT}`;
-  ctx.textBaseline = 'middle';
-  ctx.fillText('সন্দেশ এক্সপ্রেস', x, 122);
-  ctx.fillStyle = C.muted;
-  ctx.font = `500 28px ${FONT}`;
-  ctx.fillText(input.dateLine, x, 160);
-
-  // Category chip.
-  ctx.font = `700 30px ${FONT}`;
-  const chipW = ctx.measureText(input.category).width + 44;
-  ctx.fillStyle = C.lime;
-  roundRect(ctx, W - 48 - chipW, 104, chipW, 56, 28);
-  ctx.fill();
-  ctx.fillStyle = C.ink;
-  ctx.fillText(input.category, W - 48 - chipW + 22, 133);
-  ctx.textBaseline = 'alphabetic';
-}
-
-function drawHeadline(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: number, seg: ReelSegment, compact: boolean) {
-  // The opening line is fully visible on the first frame: it is the cover image and the hook.
-  const appear = seg.start === 0 ? 1 : ease((t - seg.start) / 0.6);
-  if (!compact) {
-    // Full-size headline: the hook of the reel.
-    const { size, lines } = fitText(ctx, input.headline, 700, 88, 60, 5);
-    const lineH = size * 1.32;
-    const blockH = lines.length * lineH;
-    const top = H - SAFE_BOTTOM - blockH - 40 + (1 - appear) * 60;
-    ctx.globalAlpha = appear;
-    ctx.fillStyle = C.lime;
-    ctx.fillRect(PAD_L, top - 36, 120, 10);
-    ctx.fillStyle = C.white;
-    ctx.font = `700 ${size}px ${FONT}`;
-    lines.forEach((l, i) => ctx.fillText(l, PAD_L, top + size + i * lineH));
-    ctx.globalAlpha = 1;
+    ctx.fillRect(0, 0, W, H);
     return;
   }
-  // Small headline above the points.
-  const { size, lines } = fitText(ctx, input.headline, 700, 46, 36, 3);
-  const lineH = size * 1.3;
-  ctx.fillStyle = C.muted;
-  ctx.font = `700 ${size}px ${FONT}`;
-  const top = 1000 - lines.length * lineH;
-  lines.forEach((l, i) => ctx.fillText(l, PAD_L, top + size + i * lineH));
-}
 
-function drawPoint(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: number, seg: ReelSegment) {
-  const idx = seg.index ?? 0;
-  const text = input.points[idx] || '';
-  const appear = ease((t - seg.start) / 0.5);
-  const { size, lines } = fitText(ctx, text, 600, 64, 44, 6);
-  const lineH = size * 1.42;
-  const cardTop = 1040;
-  const cardH = Math.max(lines.length * lineH + 96, 300);
-  const slide = (1 - appear) * 80;
-
-  ctx.globalAlpha = appear;
-  ctx.fillStyle = C.card;
-  roundRect(ctx, PAD_L - 24, cardTop + slide, TEXT_W + 48, cardH, 28);
-  ctx.fill();
-  ctx.fillStyle = C.lime;
-  roundRect(ctx, PAD_L - 24, cardTop + slide, 12, cardH, 6);
-  ctx.fill();
-
-  // Point counter: ১/৩
-  const bn = '০১২৩৪৫৬৭৮৯';
-  const toBn = (n: number) => String(n).split('').map((d) => bn[+d] ?? d).join('');
-  ctx.fillStyle = C.lime;
-  ctx.font = `700 34px ${FONT}`;
-  ctx.fillText(`${toBn(idx + 1)}/${toBn(input.points.length)}`, PAD_L + 12, cardTop + slide + 58);
-
-  ctx.fillStyle = C.white;
-  ctx.font = `600 ${size}px ${FONT}`;
-  lines.forEach((l, i) => ctx.fillText(l, PAD_L + 12, cardTop + slide + 76 + size + i * lineH));
-  ctx.globalAlpha = 1;
-}
-
-function drawSource(ctx: CanvasRenderingContext2D, input: AutoReelInput) {
-  if (!input.sourceLine) return;
-  ctx.fillStyle = C.muted;
-  ctx.font = `500 30px ${FONT}`;
-  const line = wrap(ctx, input.sourceLine, TEXT_W)[0];
-  ctx.fillText(line, PAD_L, H - SAFE_BOTTOM + 10);
-}
-
-function drawOutro(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: number, seg: ReelSegment) {
-  const appear = ease((t - seg.start) / 0.5);
-  ctx.fillStyle = `rgba(13,27,36,${0.92 * appear})`;
-  ctx.fillRect(0, 0, W, H);
-  ctx.globalAlpha = appear;
-  const cx = (W - SAFE_R / 2) / 2;
-  if (input.logo) {
+  const img = input.image;
+  const p = prepare(img);
+  if (p.fill) {
+    const scale = Math.max(W / p.sw, H / p.sh) * cam.zoom;
+    const dw = p.sw * scale;
+    const dh = p.sh * scale;
+    const x = (W - dw) / 2 + ((dw - W) / 2) * cam.panX;
+    const y = (H - dh) / 2 + ((dh - H) / 2) * cam.panY;
+    ctx.drawImage(img, p.sx, p.sy, p.sw, p.sh, x, y, dw, dh);
+  } else {
+    // Blurred copy fills the frame and drifts one way; the sharp photo drifts the other.
+    if (p.blurred) {
+      const bz = 1.15 + 0.06 * (t / input.duration);
+      const bw = W * bz;
+      const bh = H * bz;
+      ctx.drawImage(p.blurred, (W - bw) / 2 - 30 * cam.panX, (H - bh) / 2, bw, bh);
+    }
+    const base = Math.min((W + 40) / p.sw, 1180 / p.sh);
+    const scale = base * (0.96 + 0.1 * (cam.zoom - 1) / 0.18);
+    const dw = p.sw * scale;
+    const dh = p.sh * scale;
+    const x = (W - dw) / 2 + 40 * cam.panX;
+    const y = 760 - dh / 2 + 30 * cam.panY;
     ctx.save();
-    roundRect(ctx, cx - 140, 520, 280, 280, 48);
-    ctx.clip();
-    ctx.drawImage(input.logo, cx - 140, 520, 280, 280);
+    ctx.shadowColor = 'rgba(0,0,0,0.6)';
+    ctx.shadowBlur = 50;
+    ctx.drawImage(img, p.sx, p.sy, p.sw, p.sh, x, y, dw, dh);
     ctx.restore();
   }
-  ctx.textAlign = 'center';
-  ctx.fillStyle = C.white;
-  ctx.font = `700 76px ${FONT}`;
-  ctx.fillText('সন্দেশ এক্সপ্রেস', cx, 930);
-  ctx.fillStyle = C.muted;
-  ctx.font = `500 42px ${FONT}`;
-  ctx.fillText('এক মিনিটে দিনের খবর', cx, 1000);
-  ctx.fillStyle = C.lime;
-  roundRect(ctx, cx - 300, 1080, 600, 104, 52);
-  ctx.fill();
-  ctx.fillStyle = C.ink;
-  ctx.font = `700 44px ${FONT}`;
-  ctx.fillText('পুরো খবর কমেন্টের লিংকে', cx, 1146);
-  ctx.fillStyle = C.white;
-  ctx.font = `600 38px ${FONT}`;
-  ctx.fillText('ফলো করুন, প্রতিদিনের খবর পেতে', cx, 1270);
-  ctx.textAlign = 'left';
-  ctx.globalAlpha = 1;
+
+  // Keep text readable: darken the top a little and the lower half more.
+  const top = ctx.createLinearGradient(0, 0, 0, 300);
+  top.addColorStop(0, 'rgba(0,0,0,0.5)');
+  top.addColorStop(1, 'rgba(0,0,0,0)');
+  ctx.fillStyle = top;
+  ctx.fillRect(0, 0, W, 300);
+  const low = ctx.createLinearGradient(0, 900, 0, H);
+  low.addColorStop(0, 'rgba(0,0,0,0)');
+  low.addColorStop(1, 'rgba(0,0,0,0.75)');
+  ctx.fillStyle = low;
+  ctx.fillRect(0, 900, W, H - 900);
 }
 
-/** Progress around the frame: a lime line fills the border clockwise from the top-left. */
-function drawBorderProgress(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: number) {
-  const inset = 7;
-  const lw = 14;
-  const x0 = inset, y0 = inset, x1 = W - inset, y1 = H - inset;
-  const w = x1 - x0, h = y1 - y0;
-  const perimeter = 2 * (w + h);
-  ctx.save();
-  ctx.lineWidth = lw;
-  ctx.lineCap = 'butt';
-  ctx.strokeStyle = 'rgba(255,255,255,0.16)';
-  ctx.strokeRect(x0, y0, w, h);
+/** A quick white flash at the start of each beat after the first: marks the cut. */
+function drawBeatFlash(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: number) {
+  const cam = cameraFor(input, t);
+  if (cam.beatStart <= 0) return;
+  const a = 0.35 * (1 - clamp01((t - cam.beatStart) / 0.2));
+  if (a <= 0) return;
+  ctx.fillStyle = `rgba(255,255,255,${a})`;
+  ctx.fillRect(0, 0, W, H);
+}
 
-  let remaining = perimeter * Math.min(1, Math.max(0, t / input.duration));
-  ctx.strokeStyle = C.lime;
-  ctx.beginPath();
-  ctx.moveTo(x0, y0);
-  const edges: [number, number, number, number][] = [
-    [x0, y0, x1, y0], [x1, y0, x1, y1], [x1, y1, x0, y1], [x0, y1, x0, y0],
-  ];
-  for (const [ax, ay, bx, by] of edges) {
-    const len = Math.hypot(bx - ax, by - ay);
-    if (remaining <= 0) break;
-    const k = Math.min(1, remaining / len);
-    ctx.lineTo(ax + (bx - ax) * k, ay + (by - ay) * k);
-    remaining -= len;
+// ---------------------------------------------------------------- text
+
+/** Lines in tight boxes, one box per line, like a news sticker. */
+function drawSticker(
+  ctx: CanvasRenderingContext2D,
+  lines: string[],
+  size: number,
+  top: number,
+  styleFor: (i: number) => { bg: string; fg: string },
+  appear = 1,
+) {
+  const padX = Math.round(size * 0.32);
+  const lineH = Math.round(size * 1.42);
+  ctx.font = `700 ${size}px ${FONT}`;
+  ctx.textBaseline = 'middle';
+  lines.forEach((line, i) => {
+    const a = ease((appear * (lines.length + 1) - i) / 1.2);
+    if (a <= 0) return;
+    const { bg, fg } = styleFor(i);
+    const w = ctx.measureText(line).width + padX * 2;
+    const y = top + i * lineH;
+    ctx.globalAlpha = a;
+    ctx.fillStyle = bg;
+    ctx.fillRect(PAD_L - (1 - a) * 40, y, w, lineH - 6);
+    ctx.fillStyle = fg;
+    ctx.fillText(line, PAD_L + padX - (1 - a) * 40, y + (lineH - 6) / 2 + size * 0.04);
+  });
+  ctx.globalAlpha = 1;
+  ctx.textBaseline = 'alphabetic';
+  return lines.length * lineH;
+}
+
+function drawHook(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: number, seg: ReelSegment) {
+  // Fully visible on the first frame: it is also the cover image.
+  const local = t - seg.start;
+  const { size, lines } = fitText(ctx, input.headline, 700, 92, 56, 4);
+  const lineH = Math.round(size * 1.42);
+  const blockH = lines.length * lineH;
+  const top = Math.min(1060, H - SAFE_BOTTOM - blockH - 40);
+  const punch = local < 0.6 ? 1 + 0.04 * Math.sin((local / 0.6) * Math.PI) : 1;
+  ctx.save();
+  ctx.translate(PAD_L, top);
+  ctx.scale(punch, punch);
+  ctx.translate(-PAD_L, -top);
+  if (input.kicker) {
+    ctx.font = `700 40px ${FONT}`;
+    const kw = ctx.measureText(input.kicker).width + 32;
+    ctx.fillStyle = C.red;
+    ctx.fillRect(PAD_L, top - 74, kw, 58);
+    ctx.fillStyle = C.paper;
+    ctx.textBaseline = 'middle';
+    ctx.fillText(input.kicker, PAD_L + 16, top - 44);
+    ctx.textBaseline = 'alphabetic';
   }
-  ctx.stroke();
+  // First line(s) white with dark text, the last line red: the eye lands on the payoff.
+  const last = lines.length - 1;
+  drawSticker(ctx, lines, size, top, (i) =>
+    i === last && lines.length > 1 ? { bg: C.red, fg: C.paper } : { bg: C.paper, fg: C.ink },
+  );
   ctx.restore();
 }
 
-/** Opening hook, played over the music intro: logo pops in, then the headline. */
-function drawIntro(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: number, seg: ReelSegment) {
-  const local = t - seg.start;
-  const len = Math.max(0.1, seg.end - seg.start);
-  ctx.fillStyle = 'rgba(13,27,36,0.78)';
-  ctx.fillRect(0, 0, W, H);
+function drawPoint(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: number, seg: ReelSegment) {
+  const text = input.points[seg.index ?? 0] || '';
+  const appear = clamp01((t - seg.start) / 0.6);
+  const { size, lines } = fitText(ctx, text, 700, 64, 44, 6);
+  const lineH = Math.round(size * 1.42);
+  const top = Math.min(1080, H - SAFE_BOTTOM - lines.length * lineH - 40);
+  drawSticker(ctx, lines, size, top, () => ({ bg: 'rgba(11,11,12,0.88)', fg: C.paper }), appear);
+}
 
-  const cx = (W - SAFE_R / 2) / 2;
-  const pop = ease(local / 0.7);
-  const settle = local < 0.7 ? 1 + 0.12 * Math.sin(pop * Math.PI) : 1;
-  const size = 300 * pop * settle;
-  const logoTop = 360 - 120 * ease((local - 1.6) / 0.6);   // moves up to make room
-  if (input.logo && size > 1) {
+/** Small brand mark top-left, source and date top-right: present but quiet. */
+function drawCorners(ctx: CanvasRenderingContext2D, input: AutoReelInput) {
+  let x = 48;
+  if (input.logo) {
     ctx.save();
-    roundRect(ctx, cx - size / 2, logoTop, size, size, 52 * (size / 300));
+    roundRect(ctx, x, 84, 56, 56, 12);
     ctx.clip();
-    ctx.drawImage(input.logo, cx - size / 2, logoTop, size, size);
+    ctx.drawImage(input.logo, x, 84, 56, 56);
+    ctx.restore();
+    x += 68;
+  }
+  ctx.textBaseline = 'middle';
+  ctx.fillStyle = C.paper;
+  ctx.font = `700 30px ${FONT}`;
+  ctx.fillText('সন্দেশ এক্সপ্রেস', x, 113);
+
+  const right = W - 48;
+  ctx.font = `500 26px ${FONT}`;
+  const tags = [input.sourceLine.replace(/^সূত্র:\s*/, '').split(',')[0]?.trim(), input.dateLine].filter(Boolean) as string[];
+  tags.forEach((label, i) => {
+    const w = ctx.measureText(label).width + 20;
+    const y = 86 + i * 46;
+    ctx.fillStyle = 'rgba(0,0,0,0.55)';
+    ctx.fillRect(right - w, y, w, 40);
+    ctx.fillStyle = C.paper;
+    ctx.fillText(label, right - w + 10, y + 21);
+  });
+  ctx.textBaseline = 'alphabetic';
+}
+
+function drawOutro(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: number, seg: ReelSegment) {
+  const appear = ease((t - seg.start) / 0.35);
+  ctx.fillStyle = `rgba(11,11,12,${0.8 * appear})`;
+  ctx.fillRect(0, 0, W, H);
+  ctx.globalAlpha = appear;
+  const cx = (W - SAFE_R / 2) / 2;
+  if (input.logo) {
+    ctx.save();
+    roundRect(ctx, cx - 90, 640, 180, 180, 32);
+    ctx.clip();
+    ctx.drawImage(input.logo, cx - 90, 640, 180, 180);
     ctx.restore();
   }
-
   ctx.textAlign = 'center';
-  const nameIn = ease((local - 0.5) / 0.5);
-  ctx.globalAlpha = nameIn;
-  ctx.fillStyle = C.white;
-  ctx.font = `700 78px ${FONT}`;
-  ctx.fillText('সন্দেশ এক্সপ্রেস', cx, logoTop + 400 + (1 - nameIn) * 30);
-
-  // Category stamp
-  const stampIn = ease((local - 1.0) / 0.4);
-  ctx.globalAlpha = stampIn;
-  ctx.font = `700 40px ${FONT}`;
-  const label = `${input.category} • ${input.dateLine}`;
-  const lw = ctx.measureText(label).width + 60;
-  ctx.fillStyle = C.lime;
-  roundRect(ctx, cx - lw / 2, logoTop + 450, lw, 72, 36);
-  ctx.fill();
-  ctx.fillStyle = C.ink;
-  ctx.fillText(label, cx, logoTop + 500);
-
-  // Headline reveals line by line in the second half of the hook
-  const { size: hs, lines } = fitText(ctx, input.headline, 700, 72, 52, 5);
-  const lineH = hs * 1.32;
-  const top = logoTop + 620;
-  ctx.font = `700 ${hs}px ${FONT}`;
-  lines.forEach((line, i) => {
-    const a = ease((local - 2.0 - i * 0.35) / 0.45);
-    ctx.globalAlpha = a;
-    ctx.fillStyle = C.white;
-    ctx.fillText(line, cx, top + hs + i * lineH + (1 - a) * 24);
-  });
-
-  // Fade towards the headline scene at the end of the hook
-  const out = ease((local - (len - 0.5)) / 0.5);
-  ctx.globalAlpha = 1;
-  if (out > 0) {
-    ctx.fillStyle = `rgba(13,27,36,${0.6 * out})`;
-    ctx.fillRect(0, 0, W, H);
-  }
+  ctx.fillStyle = C.paper;
+  ctx.font = `700 60px ${FONT}`;
+  ctx.fillText('সন্দেশ এক্সপ্রেস', cx, 900);
+  ctx.font = `600 40px ${FONT}`;
+  const cta = 'পুরো খবর কমেন্টের লিংকে';
+  const w = ctx.measureText(cta).width + 48;
+  ctx.fillStyle = C.red;
+  ctx.fillRect(cx - w / 2, 950, w, 72);
+  ctx.fillStyle = C.paper;
+  ctx.fillText(cta, cx, 999);
   ctx.textAlign = 'left';
+  ctx.globalAlpha = 1;
+}
+
+/** Thin progress line along the bottom edge of the safe area. */
+function drawProgress(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: number) {
+  ctx.fillStyle = 'rgba(255,255,255,0.25)';
+  ctx.fillRect(0, 0, W, 6);
+  ctx.fillStyle = C.red;
+  ctx.fillRect(0, 0, W * clamp01(t / input.duration), 6);
 }
 
 export function drawAutoReelFrame(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: number) {
   const seg = input.segments.find((s) => t >= s.start && t < s.end) || input.segments[input.segments.length - 1];
-  drawBackground(ctx, input, t);
-  if (seg.kind === 'intro') {
-    drawIntro(ctx, input, t, seg);
-    drawBorderProgress(ctx, input, t);
+  drawPicture(ctx, input, t);
+  if (seg.kind === 'outro') {
+    drawOutro(ctx, input, t, seg);
+    drawProgress(ctx, input, t);
     return;
   }
-  drawTopBar(ctx, input, t);
-  if (seg.kind === 'headline') {
-    drawHeadline(ctx, input, t, seg, false);
-  } else if (seg.kind === 'point') {
-    drawHeadline(ctx, input, t, seg, true);
-    drawPoint(ctx, input, t, seg);
-  }
-  if (seg.kind !== 'outro') drawSource(ctx, input);
-  if (seg.kind === 'outro') drawOutro(ctx, input, t, seg);
-  drawBorderProgress(ctx, input, t);
+  drawCorners(ctx, input);
+  if (seg.kind === 'headline' || seg.kind === 'intro') drawHook(ctx, input, t, seg);
+  else if (seg.kind === 'point') drawPoint(ctx, input, t, seg);
+  drawBeatFlash(ctx, input, t);
+  drawProgress(ctx, input, t);
 }
 
 /** Records the reel in real time and returns a silent video blob. */
@@ -383,6 +376,7 @@ export async function renderAutoReel(input: AutoReelInput): Promise<{ blob: Blob
   canvas.width = W;
   canvas.height = H;
   const ctx = canvas.getContext('2d', { alpha: false })!;
+  if (input.image) prepare(input.image); // blur once, before recording starts
 
   const mimeType = ['video/mp4;codecs=avc1', 'video/webm;codecs=vp9', 'video/webm'].find((m) =>
     MediaRecorder.isTypeSupported(m),
