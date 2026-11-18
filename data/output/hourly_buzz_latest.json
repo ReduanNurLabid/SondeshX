@@ -1,5 +1,235 @@
 {
-  "updated_at": "2026-11-18T18:00:45.331316",
-  "total_stories": 0,
-  "stories": []
+  "updated_at": "2026-11-18T19:00:46.848107",
+  "total_stories": 3,
+  "stories": [
+    {
+      "story_id": "aa70beee-6a43-539f-a2fe-01e7a82909f8",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "sports_fitness"
+      ],
+      "region": "national",
+      "tags": [
+        "#RMG",
+        "#Gazipur",
+        "#Savar"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1615312559636-50f8c04ae313?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cm1nJTIwdW5yZXN0JTIwZXNjYWxhdGVzJTIwYXJyZXN0ZWQlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTUwMjg0OTd8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-18T17:30:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.0,
+      "rank_score": 4.4878,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/dhaka/425070/rmg-unrest-escalates-300-arrested-as-clashes",
+          "title": "RMG unrest escalates, 300 arrested as clashes spread",
+          "snippet": "RMG unrest escalates, 300 arrested as clashes spread"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পোশাকশিল্পের অসন্তোষ ছড়িয়ে পড়ায় ৩০০ জন গ্রেপ্তার",
+        "title_en": "RMG unrest escalates, 300 arrested as clashes spread",
+        "summary_bn": "পোশাকশিল্পের অসন্তোষ ছড়িয়ে পড়ায় এবং সংঘর্ষের ঘটনায় তিনশত ব্যক্তিকে গ্রেপ্তার করা হয়েছে।",
+        "summary_en": "As RMG unrest escalates and clashes spread, three hundred people have been arrested.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "sports_fitness"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T17:30:00+00:00",
+        "lead_bn": "পোশাকশিল্পের অসন্তোষ ছড়িয়ে পড়ায় এবং সংঘর্ষের ঘটনায় তিনশত ব্যক্তিকে গ্রেপ্তার করা হয়েছে।",
+        "lead_en": "As RMG unrest escalates and clashes spread, three hundred people have been arrested.",
+        "bullets_bn": [
+          "গাজীপুরে একটি পুলিশ বাহনে আগুন দেওয়া হয়।",
+          "সাভারের মহাসড়কগুলো অবরুদ্ধ করা হয়েছে।",
+          "শ্রমিকেরা ৩০,০০০ টাকা ন্যূনতম মজুরির দাবি জানালে কারখানাগুলো বন্ধ করে দেওয়া হয়।"
+        ],
+        "bullets_en": [
+          "A police vehicle was torched in Gazipur.",
+          "Highways were blocked in Savar.",
+          "Factories were shut as workers pressed for Tk30,000 minimum wage."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "গাজীপুরে পুলিশ বাহনে আগুন, মহাসড়ক অবরুদ্ধ",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-18T19:02:23.135115+00:00"
+      }
+    },
+    {
+      "story_id": "5ec633b0-ead7-5db6-8903-2a6f282411ce",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#UNGAPresident",
+        "#RohingyaCamps",
+        "#CoxsBazar",
+        "#ICJ"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/19/khalil.png",
+      "image_caption": null,
+      "published_at": "2026-11-18T18:30:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.5,
+      "rank_score": 4.0997,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/foreign-policy/unga-president-visit-rohingya-camps-coxs-bazar-friday-1607236",
+          "title": "UNGA president to visit Rohingya camps in Cox's Bazar Friday",
+          "snippet": "UNGA president to visit Rohingya camps in Cox's Bazar Friday"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/rohingya-crisis/425080/unga-president-to-visit-rohingya-camps-in-cox%E2%80%99s",
+          "title": "UNGA President to visit Rohingya camps in Cox’s Bazar Friday",
+          "snippet": "UNGA President to visit Rohingya camps in Cox’s Bazar Friday"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/unga-president-to-visit-rohingya-camps-in-coxs-bazar",
+          "title": "UNGA president to visit Rohingya camps in Cox’s Bazar",
+          "snippet": "UNGA president to visit Rohingya camps in Cox’s Bazar"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জাতিসংঘ সাধারণ পরিষদের সভাপতি কক্সবাজারে রোহিঙ্গা শিবির পরিদর্শন করবেন।",
+        "title_en": "UNGA president to visit Rohingya camps in Cox's Bazar Friday.",
+        "summary_bn": "জাতিসংঘ সাধারণ পরিষদের সভাপতি ড. খলিলুর রহমান শরণার্থী ও তাদের উদ্বেগের কথা শুনতে কক্সবাজারে রোহিঙ্গা শিবির পরিদর্শন করবেন।",
+        "summary_en": "United Nations General Assembly President Dr Khalilur Rahman will visit Rohingya camps in Cox's Bazar on Friday to meet refugees.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T18:30:00+00:00",
+        "lead_bn": "জাতিসংঘ সাধারণ পরিষদের সভাপতি ড. খলিলুর রহমান শরণার্থী ও তাদের উদ্বেগের কথা শুনতে কক্সবাজারে রোহিঙ্গা শিবির পরিদর্শন করবেন।",
+        "lead_en": "United Nations General Assembly President Dr Khalilur Rahman will visit Rohingya camps in Cox's Bazar on Friday to meet refugees.",
+        "bullets_bn": [
+          "তিনি গাম্বিয়া বনাম মিয়ানমার মামলার আন্তর্জাতিক বিচার আদালতের রায়ের একদিন পর এই সফর করছেন।",
+          "তিনি জাতিসংঘ আবাসিক সমন্বয়কারী ক্যারল ফ্লোরে-স্মেরেচনিয়াকের সাথে যৌথ সংবাদ সম্মেলন করবেন।",
+          "গণহত্যা কনভেনশনের অধীনে ২০১৯ সালের নভেম্বরে গাম্বিয়া এই মামলাটি দায়ের করে।"
+        ],
+        "bullets_en": [
+          "He will make the visit a day after the International Court of Justice delivers its judgment.",
+          "He will hold a joint press conference with United Nations Resident Coordinator Carol Flore-Smereczniak.",
+          "The Gambia filed the case in November 2019 under the Convention on the Prevention and Punishment of the Crime of Genocide."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "আইসিজে গাম্বিয়া বনাম মিয়ানমার মামলার রায় ঘোষণা করবে এবং জাতিসংঘ ও অংশীদাররা ক্যাম্পে সেবা প্রদান করে।",
+        "details_en": "The ICJ is scheduled to deliver its judgment in the case of The Gambia versus Myanmar, while UN and partners provide services to camp residents.",
+        "hook_bn": "কক্সবাজারে রোহিঙ্গা শিবির পরিদর্শন করবেন জাতিসংঘ সভাপতি",
+        "kicker_bn": "সফর",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-18T19:02:23.135115+00:00"
+      }
+    },
+    {
+      "story_id": "0e7d6ce3-126c-5978-ba10-2c73c8b9dd97",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#PadmaBank",
+        "#BangladeshBank",
+        "#BankResolution"
+      ],
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Padma-Bank.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-18T18:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.3568,
+      "sources": [
+        {
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/organisation-news/news/padma-bank-heads-resolution-4327571",
+          "title": "Padma Bank heads for resolution",
+          "snippet": "Padma Bank heads for resolution"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/writer-activist-jyoti-prabha-larma-passes-away-4327621",
+          "title": "Writer, activist Jyoti Prabha Larma passes away",
+          "snippet": "Writer, activist Jyoti Prabha Larma passes away"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পদ্মা ব্যাংক রেজুলেশনের আওতায় আনার সিদ্ধান্ত নিয়েছে বাংলাদেশ ব্যাংক।",
+        "title_en": "Bangladesh Bank decides to bring Padma Bank under resolution.",
+        "summary_bn": "বাংলাদেশ ব্যাংক সংকটে থাকা পদ্মা ব্যাংককে ব্যাংক রেজুলেশন আইন, ২০২৬ এর আওতায় আনার নীতিগত সিদ্ধান্ত নিয়েছে।",
+        "summary_en": "Bangladesh Bank has decided in principle to bring crisis-hit Padma Bank under the Bank Resolution Act, 2026.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T18:00:00+00:00",
+        "lead_bn": "বাংলাদেশ ব্যাংক সংকটে থাকা পদ্মা ব্যাংককে ব্যাংক রেজুলেশন আইন, ২০২৬ এর আওতায় আনার নীতিগত সিদ্ধান্ত নিয়েছে।",
+        "lead_en": "Bangladesh Bank has decided in principle to bring crisis-hit Padma Bank under the Bank Resolution Act, 2026.",
+        "bullets_bn": [
+          "বাংলাদেশ ব্যাংক বোর্ডের বৈঠকে গভর্নর মোসতাকুর রহমানের সভাপতিত্বে এই সিদ্ধান্ত নেওয়া হয়।",
+          "রেজুলেশন প্রক্রিয়ার অধীনে ব্যাংকটি অন্য কোনো ব্যাংকের সাথে একীভূত বা অধিগ্রহণ করা হতে পারে।",
+          "বাংলাদেশ ব্যাংকের নির্বাহী পরিচালক ও মুখপাত্র আরিফ হোসেন খান জানান যে ব্যাংক রেজুলেশন বিভাগকে একটি পরিকল্পনা প্রস্তুত করতে বলা হয়েছে।"
+        ],
+        "bullets_en": [
+          "The decision was taken at a board meeting chaired by BB Governor Md Mostaqur Rahman.",
+          "Under the resolution process, the bank could be merged with or acquired by another lender.",
+          "BB executive director and spokesperson Arief Hossain Khan said the bank resolution department was asked to prepare a plan."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ফারমার্স ব্যাংক নামে পরিচিত সংকটগ্রস্ত পদ্মা ব্যাংকের আর্থিক অবস্থা ক্রমাগত অবনতির দিকে যাওয়ার প্রেক্ষাপটে এই পদক্ষেপ নেওয়া হলো। ব্যাংক রেজুলেশন বিভাগকে পরবর্তী বোর্ড সভায় তাদের ফলাফল উপস্থাপন করতে বলা হয়েছে।",
+        "details_en": "The move comes as the financial condition of Padma Bank, formerly known as Farmers Bank, continues to deteriorate. The bank resolution department was asked to present its findings at the next board meeting.",
+        "hook_bn": "পদ্মা ব্যাংক রেজুলেশনের আওতায় আনার সিদ্ধান্ত",
+        "kicker_bn": "ব্যাংক খাত",
+        "share_value": false,
+        "question_bn": "পদ্মা ব্যাংক নিয়ে বাংলাদেশ ব্যাংকের এই সিদ্ধান্তকে আপনি কীভাবে দেখছেন?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-18T19:02:23.135115+00:00"
+      }
+    }
+  ]
 }
