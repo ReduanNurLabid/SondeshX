@@ -1,459 +1,222 @@
 {
-  "updated_at": "2026-11-18T14:00:45.297744",
-  "total_stories": 6,
+  "updated_at": "2026-11-18T15:00:47.416077",
+  "total_stories": 3,
   "stories": [
     {
-      "story_id": "60912d1c-ecfd-5722-a518-872e629006a1",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#CycloneAkvan",
-        "#BayOfBengal"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1583794018021-c841442da0e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bmF0dXJlJTIwY2xpbWF0ZSUyMGZsb29kJTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk0ODU5Mjk4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-18T13:51:45+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 8.75,
-      "rank_score": 7.5851,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/nation/425051/cyclone-akvan-leaves-fishermen-stranded-as-bay",
-          "title": "Cyclone Akvan leaves fishermen stranded as Bay turns rough",
-          "snippet": "Cyclone Akvan leaves fishermen stranded as Bay turns rough"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821735/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%B2-%E0%A6%98%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%BF%E0%A6%9D%E0%A7%9C%E0%A7%87-%E0%A6%B0%E0%A7%82%E0%A6%AA-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E2%80%98%E0%A6%86%E0%A6%95%E0%A6%AD%E0%A6%BE%E0%A6%A8%E2%80%99-%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87-%E0%A7%A9",
-          "title": "প্রবল ঘূর্ণিঝড়ে রূপ নিয়েছে ‘আকভান’, চার বন্দরে ৩ নম্বর সতর্ক সংকেত",
-          "snippet": "প্রবল ঘূর্ণিঝড়ে রূপ নিয়েছে ‘আকভান’, চার বন্দরে ৩ নম্বর সতর্ক সংকেত"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ঘূর্ণিঝড় আকভান প্রবল রূপ নেওয়ায় চার বন্দরে ৩ নম্বর সতর্ক সংকেত জারি।",
-        "title_en": "Cyclone Akvan intensifies into a severe storm, prompting level 3 warnings at four ports.",
-        "summary_bn": "দক্ষিণ-পশ্চিম ও পশ্চিম-মধ্য বঙ্গোপসাগরে অবস্থানরত ঘূর্ণিঝড় আকভান আরও ঘনীভূত হয়ে প্রবল ঘূর্ণিঝড়ে পরিণত হওয়ায় দেশের চার সমুদ্রবন্দরে ৩ নম্বর স্থানীয় সতর্ক সংকেত জারি করা হয়েছে।",
-        "summary_en": "Cyclone Akvan over the south-west and west-central Bay of Bengal has intensified into a severe cyclone, prompting local warning signal number 3 at four maritime ports.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-18T13:51:45+00:00",
-        "lead_bn": "দক্ষিণ-পশ্চিম ও পশ্চিম-মধ্য বঙ্গোপসাগরে অবস্থানরত ঘূর্ণিঝড় আকভান আরও ঘনীভূত হয়ে প্রবল ঘূর্ণিঝড়ে পরিণত হওয়ায় দেশের চার সমুদ্রবন্দরে ৩ নম্বর স্থানীয় সতর্ক সংকেত জারি করা হয়েছে।",
-        "lead_en": "Cyclone Akvan over the south-west and west-central Bay of Bengal has intensified into a severe cyclone, prompting local warning signal number 3 at four maritime ports.",
-        "bullets_bn": [
-          "আবহাওয়া অধিদপ্তরের আবহাওয়াবিদ ড. মো. ওমর ফারুকের দেওয়া বিশেষ বিজ্ঞপ্তিতে এই তথ্য জানানো হয়েছে।",
-          "ঘূর্ণিঝড়ের প্রভাবে উত্তর বঙ্গোপসাগরে গভীর সঞ্চালনশীল মেঘমালা সৃষ্টি হয়েছে।",
-          "এর আগে বন্দরগুলোতে ২ নম্বর দূরবর্তী হুঁশিয়ারি সংকেত জারি ছিল যা এখন পরিবর্তন করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "This was stated in a special bulletin given by meteorologist Dr. Md. Omar Farooq of the Meteorological Department.",
-          "Deep convective clouds have formed over the north Bay of Bengal due to the cyclone's impact.",
-          "Previously issued distant warning signal number 2 at the ports has now been changed."
-        ],
-        "impact_bn": "ঘূর্ণিঝড় ও উত্তাল সাগরের কারণে বারবার বিঘ্নিত হচ্ছে মাছ ধরা এবং শুঁটকি উৎপাদন, যার ফলে মৌসুমী কর্মীরা আটকা পড়ে আর্থিক ক্ষতির মুখে পড়েছেন।",
-        "impact_en": "Repeated cyclones and a rough bay disrupt fishing and dry fish production, leaving seasonal workers stranded and facing financial losses.",
-        "details_bn": "দক্ষিণ-পশ্চিম ও পশ্চিম-মধ্য বঙ্গোপসাগরে অবস্থানরত ঘূর্ণিঝড় আকভান আরও ঘনীভূত হয়ে প্রবল ঘূর্ণিঝড়ে রূপ নিয়েছে। এর প্রভাবে উত্তর বঙ্গোপসাগরে গভীর সঞ্চালনশীল মেঘমালা সৃষ্টি হয়েছে। ১৮ নভেম্বর আবহাওয়া অধিদপ্তরের আবহাওয়াবিদ ড. মো. ওমর ফারুকের দেওয়া বিশেষ বিজ্ঞপ্তিতে দেশের চার সমুদ্রবন্দরের ২ নম্বর দূরবর্তী হুঁশিয়ারি সংকেত পরিবর্তন করে ৩ নম্বর স্থানীয় সতর্ক সংকেত জারি করা হয়।",
-        "details_en": "Cyclone Akvan stationed over the south-west and west-central Bay of Bengal has further intensified into a severe cyclone. Under its influence, deep convective clouds have formed over the north Bay of Bengal. On Wednesday 18 November, through a special bulletin issued by meteorologist Dr. Md. Omar Farooq of the Meteorological Department, the distant warning signal number 2 at four maritime ports was changed to local warning signal number 3.",
-        "hook_bn": "প্রবল ঘূর্ণিঝড় আকভান, চার বন্দরে ৩ নম্বর সংকেত",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": null
-      },
-      "desk_importance": 8.0,
-      "outlet_count": 2,
-      "trending": true,
-      "social_appeal": 9.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-18T14:09:34.579199+00:00"
-      }
-    },
-    {
-      "story_id": "f4d4361d-db28-5f61-89bb-267551cc5d7f",
+      "story_id": "1765187c-f276-5274-a7c4-68bd9e6da160",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
-        "economy_business"
+        "economy_business",
+        "tech_innovation"
       ],
       "region": "national",
       "tags": [
-        "#MuftiRuhulAmin",
-        "#BaitulMukarram"
+        "#JungleSalimpur",
+        "#ChattogramPolice",
+        "#Crime"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2024/09/22/ruhul_amin.png",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/18/jungle_salimpur.jpg",
       "image_caption": null,
-      "published_at": "2026-11-18T13:45:00+00:00",
+      "published_at": "2026-11-18T13:25:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 8.0,
-      "rank_score": 6.2994,
+      "importance_score": 6.25,
+      "rank_score": 3.5579,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/former-baitul-mukarram-khatib-mufti-ruhul-amin-detained-bashundhara-1606971",
-          "title": "Former Baitul Mukarram Khatib Mufti Ruhul Amin detained in Bashundhara",
-          "snippet": "Former Baitul Mukarram Khatib Mufti Ruhul Amin detained in Bashundhara"
+          "url": "https://www.tbsnews.net/bangladesh/crime/jungle-salimpur-six-members-yasins-criminal-network-arrested-39-facebook-accounts",
+          "title": "Jungle Salimpur: Six members of Yasin's criminal network arrested, 39 Facebook accounts identified",
+          "snippet": "Jungle Salimpur: Six members of Yasin's criminal network arrested, 39 Facebook accounts identified"
         },
         {
           "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/crime/post-1222628/",
-          "title": "বায়তুল মোকাররমের পালিয়ে যাওয়া সাবেক খতিব আটক",
-          "snippet": "বায়তুল মোকাররমের পালিয়ে যাওয়া সাবেক খতিব আটক"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/muftee-ruhul-amin-arrested/",
-          "title": "বায়তুল মোকাররমের সাবেক খতিব মুফতি রুহুল আমিন গ্রেফতার",
-          "snippet": "বায়তুল মোকাররমের সাবেক খতিব মুফতি রুহুল আমিন গ্রেফতার"
+          "url": "https://sarabangla.net/chittagong/post-1222636/",
+          "title": "জঙ্গল সলিমপুরে ইয়াসিন বাহিনীর ৬ সদস্য গ্রেফতার",
+          "snippet": "জঙ্গল সলিমপুরে ইয়াসিন বাহিনীর ৬ সদস্য গ্রেফতার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বায়তুল মোকাররমের সাবেক খতিব মুফতি রুহুল আমিন আটক",
-        "title_en": "Former Baitul Mukarram Khatib Mufti Ruhul Amin detained",
-        "summary_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনী ঢাকার বসুন্ধরা আবাসিক এলাকা থেকে বায়তুল মোকাররম জাতীয় মসজিদের সাবেক খতিব মুফতি রুহুল আমিনকে আটক করেছে।",
-        "summary_en": "Law enforcement agencies detained former Baitul Mukarram National Mosque Khatib Mufti Ruhul Amin from Dhaka's Bashundhara Residential Area.",
+        "title_bn": "জঙ্গল সলিমপুরে ইয়াসিন বাহিনীর ছয় সদস্য গ্রেফতার করেছে পুলিশ",
+        "title_en": "Police arrest six members of Yasin criminal network in Jungle Salimpur",
+        "summary_bn": "চট্টগ্রামের জঙ্গল সলিমপুর এলাকা থেকে সন্ত্রাসী ইয়াসিনের নেটওয়ার্কের ছয় সদস্যকে গ্রেফতার করেছে জেলা গোয়েন্দা শাখা।",
+        "summary_en": "The district detective branch arrested six members of a criminal network run by Yasin from Jungle Salimpur in Chattogram.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law",
-          "economy_business"
+          "economy_business",
+          "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T13:45:00+00:00",
-        "lead_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনী ঢাকার বসুন্ধরা আবাসিক এলাকা থেকে বায়তুল মোকাররম জাতীয় মসজিদের সাবেক খতিব মুফতি রুহুল আমিনকে আটক করেছে।",
-        "lead_en": "Law enforcement agencies detained former Baitul Mukarram National Mosque Khatib Mufti Ruhul Amin from Dhaka's Bashundhara Residential Area.",
+        "published_at": "2026-11-18T13:25:00+00:00",
+        "lead_bn": "চট্টগ্রামের জঙ্গল সলিমপুর এলাকা থেকে সন্ত্রাসী ইয়াসিনের নেটওয়ার্কের ছয় সদস্যকে গ্রেফতার করেছে জেলা গোয়েন্দা শাখা।",
+        "lead_en": "The district detective branch arrested six members of a criminal network run by Yasin from Jungle Salimpur in Chattogram.",
         "bullets_bn": [
-          "ভাটারা থানার ভারপ্রাপ্ত কর্মকর্তা মাজহারুল ইসলাম জানান, একটি গোপন খবরের ভিত্তিতে তাকে আটক করা হয়।",
-          "মুফতি রুহুল আমিন ২০২২ সালের ৩১ মার্চ থেকে ২০২৪ সালের ২২ সেপ্টেম্বর পর্যন্ত জাতীয় মসজিদের খতিব হিসেবে দায়িত্ব পালন করেন।",
-          "ছাত্র আন্দোলনের সঙ্গে সম্পৃক্ততাসহ তার বিরুদ্ধে একাধিক মামলা রয়েছে এবং তাকে গ্রেপ্তার দেখানো হবে।"
+          "গ্রেফতারকৃতদের মোবাইল ফোন পরীক্ষা করে আইনশৃঙ্খলা রক্ষাকারী বাহিনীর বিরুদ্ধে অপপ্রচারের জন্য ব্যবহৃত ৩৯টি ফেসবুক পেজ ও অ্যাকাউন্ট শনাক্ত করা হয়েছে।",
+          "চট্টগ্রাম জেলা পুলিশের কার্যালয়ে আয়োজিত সংবাদ সম্মেলনে এই তথ্য জানান পুলিশ সুপার মোণ্ড মাসুদ আলম।",
+          "পঞ্চলাইশ, বায়েজিদ বোস্তামী এবং হাটহাজারী এলাকায় অভিযান চালিয়ে তাদের গ্রেফতার করে জেলা সাইবার ইউনিটের বিশেষ দল।"
         ],
         "bullets_en": [
-          "Bhatara Police Station Officer-in-Charge Mazharul Islam stated he was detained based on a tip-off.",
-          "Mufti Ruhul Amin served as the khatib of the national mosque from 31 March 2022 to 22 September 2024.",
-          "Several cases have been filed against him, including in connection with the Anti-Discrimination Student Movement, and he will be shown arrested."
+          "Police identified 39 Facebook pages and accounts used for propaganda against law enforcement agencies after examining seized mobile phones.",
+          "Chattogram Superintendent of Police Md Masud Alam disclosed the information at a press conference at the district police office.",
+          "A special team of the district cyber unit arrested them during raids in Panchlaish, Bayezid Bostami and Hathazari areas."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "আওয়ামী লীগ সরকারের পতনের পর গত ৫ আগস্ট ২০২৪ থেকে তিনি আত্মগোপনে ছিলেন। এর আগে ২০১৮ সালে সাবেক প্রধানমন্ত্রী শেখ হাসিনাকে ‘কওমি জননী’ উপাধি দেওয়ার পর তিনি আলোচনায় আসেন এবং একাদশ জাতীয় সংসদ নির্বাচনে নারাইল-১ আসনে আওয়ামী লীগের মনোনয়ন প্রত্যাশী ছিলেন। ২০ সেপ্টেম্বর তিনি অনুসারীদের নিয়ে বায়তুল মোকাররমের খতিবের মাইক নিয়ন্ত্রণের বিষয়ে সংঘর্ষে জড়ান।",
-        "details_en": "Following the fall of the Awami League government on 5 August 2024, he went into hiding. He previously came into the spotlight in 2018 after giving then Prime Minister Sheikh Hasina the title Qawmi Janani and was an Awami League nomination aspirant for Narail-1. On 20 September, he went to Baitul Mukarram with followers, leading to a clash over the microphone.",
-        "hook_bn": "বসুন্ধরা থেকে সাবেক খতিব আটক",
+        "details_bn": "গ্রেফতারকৃতদের মধ্যে রয়েছে তালিকাভুক্ত সন্ত্রাসী ইয়াসিন ওরফে জামাই ইয়াসিন, তার সেকেন্ড-ইন-কম্যান্ড আবদুর শুক্কুর, তিন ভাগ্নে এবং মো. আনোয়ার হোসেন। পুলিশ জানিয়েছে, তাদের বিরুদ্ধে র‍্যাব সদস্য হত্যা, যৌথ বাহিনীর ক্যাম্পে হামলা, ভাঙচুর এবং পানীয় জলে বিষ প্রয়োগের মামলা রয়েছে।",
+        "details_en": "Those arrested include listed criminal Yasin alias Jamai Yasin, his second-in-command Abdur Shukkur, three nephews and Md Anwar Hossain. Police stated they are accused in cases including the killing of a RAB member, attacks and vandalism at a joint forces camp, and poisoning drinking water.",
+        "hook_bn": "জঙ্গল সলিমপুরে ইয়াসিন বাহিনীর ৬ সদস্য গ্রেফতার",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
-      "trending": true,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-18T14:09:34.579199+00:00"
-      }
-    },
-    {
-      "story_id": "3948494c-95cb-5416-936d-14c5f6b6f91e",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#TariqueRahman",
-        "#BNP",
-        "#AwamiLeague"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/08/10/prime_minister_tarique_rahman.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-18T13:05:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.75,
-      "rank_score": 5.6886,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/politics/pm-directs-bnp-mps-return-constituencies-politically-confront-awami-league",
-          "title": "PM directs BNP MPs to return to constituencies to politically confront Awami League",
-          "snippet": "PM directs BNP MPs to return to constituencies to politically confront Awami League"
-        },
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/bb4q4ii7jt",
-          "title": "সংসদের অধিবেশন শেষ হলেই এমপিদের নিজ নিজ এলাকায় যেতে বললেন প্রধানমন্ত্রী",
-          "snippet": "সংসদের অধিবেশন শেষ হলেই এমপিদের নিজ নিজ এলাকায় যেতে বললেন প্রধানমন্ত্রী"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "আওয়ামী লীগকে রাজনৈতিকভাবে মোকাবেলার নির্দেশ প্রধানমন্ত্রী তারেক রহমানের",
-        "title_en": "PM Tarique Rahman directs political confrontation of Awami League",
-        "summary_bn": "প্রধানমন্ত্রী ও বিএনপি চেয়ারম্যান তারেক রহমান বিএনপির সংসদ সদস্যদের নিজ নিজ এলাকায় ফিরে আওয়ামী লীগের কর্মকাণ্ড রাজনৈতিকভাবে মোকাবেলা করার নির্দেশ দিয়েছেন।",
-        "summary_en": "Prime Minister and BNP Chairman Tarique Rahman has instructed BNP lawmakers to return to their constituencies and politically confront the Awami League.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-18T13:05:00+00:00",
-        "lead_bn": "প্রধানমন্ত্রী ও বিএনপি চেয়ারম্যান তারেক রহমান বিএনপির সংসদ সদস্যদের নিজ নিজ এলাকায় ফিরে আওয়ামী লীগের কর্মকাণ্ড রাজনৈতিকভাবে মোকাবেলা করার নির্দেশ দিয়েছেন।",
-        "lead_en": "Prime Minister and BNP Chairman Tarique Rahman has instructed BNP lawmakers to return to their constituencies and politically confront the Awami League.",
-        "bullets_bn": [
-          "সংসদীয় দলের বৈঠকে প্রধানমন্ত্রী এই নির্দেশনা দেন",
-          "এমপিদের নিজ এলাকায় আইনশৃঙ্খলা রক্ষার দায়িত্ব নেওয়ার আহ্বান জানানো হয়",
-          "দলীয় নেতাকর্মীদের সঙ্গে সম্পর্ক জোরদার করার নির্দেশ দেওয়া হয়েছে"
-        ],
-        "bullets_en": [
-          "The prime minister gave the directives at a parliamentary party meeting.",
-          "Lawmakers were urged to take responsibility for maintaining law and order in their areas.",
-          "MPs were asked to strengthen ties with party leaders and activists."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "১৮ নভেম্বর সংসদ কমপ্লেক্সে অনুষ্ঠিত বিএনপি সংসদীয় দলের সভায় এই নির্দেশনা দেওয়া হয়। দেশের বিভিন্ন স্থানে নাশকতা, ভাঙচুর ও ককটেল বিস্ফোরণের খবরের মধ্যে এই বৈঠক হয়। প্রধানমন্ত্রী বলেন, একসময় প্রশাসন ও সব রাষ্ট্রীয় প্রতিষ্ঠান আওয়ামী লীগের পক্ষে থাকলেও তারা টিকতে পারেনি, তাই তাদের কর্মসূচি নিয়ে অতিরিক্ত উদ্বেগের কিছু নেই।",
-        "details_en": "The directives were given at a meeting of the BNP parliamentary party held at the parliament complex on 18 November, amid reports of arson, vandalism and crude bomb explosions in different parts of the country. The prime minister said that even when the administration and state institutions were on the side of the Awami League, they could not survive, so there is no need to be overly concerned about their programmes.",
-        "hook_bn": "'আওয়ামী লীগের কর্মসূচি নিয়ে উদ্বেগের কিছু নেই'",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
+      "desk_importance": 6.0,
       "outlet_count": 2,
-      "trending": true,
+      "trending": false,
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-18T14:09:34.579199+00:00"
+        "checked_at": "2026-11-18T15:05:00.315831+00:00"
       }
     },
     {
-      "story_id": "911ef31b-8738-5b41-b49f-d1d4f0c2bb84",
+      "story_id": "deed4bae-7f6e-579e-bdc4-2cafb29b5d21",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#LandRegistration",
+        "#PropertyTax",
+        "#BangladeshGovernment",
+        "#RevenueCollection"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2023-11%2F9686c316-beef-4baa-9293-6b1c247acb22%2F2f25ead9-9ae8-445e-98c7-4e2b0c7e4635.jpg?rect=0%2C91%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://images.unsplash.com/photo-1614610741181-2bce5e06976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z292ZXJubWVudCUyMG9mZmljaWFsJTIwbWFya2V0JTIwdmFsdWVzJTIwYnVzaW5lc3N8ZW58MXwwfHx8MTc5NTAxNDI1M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-18T13:36:08+00:00",
+      "published_at": "2026-11-18T14:30:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 5.1297,
+      "importance_score": 6.0,
+      "rank_score": 3.4907,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/business/industry/mn5s4ob9gj",
-          "title": "পোশাকশ্রমিকদের মজুরি নিয়ে প্রধানমন্ত্রীকে যুক্তরাষ্ট্রের ব্যবসায়ী সংগঠনের চিঠি",
-          "snippet": "পোশাকশ্রমিকদের মজুরি নিয়ে প্রধানমন্ত্রীকে যুক্তরাষ্ট্রের ব্যবসায়ী সংগঠনের চিঠি"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/aafa-urges-bangladesh-to-ensure-transparent-review-of-rmg-wage",
-          "title": "AAFA urges Bangladesh to ensure transparent review of RMG wage",
-          "snippet": "AAFA urges Bangladesh to ensure transparent review of RMG wage"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/government-update-official-values-land-flats-january-1607001",
+          "title": "Government to update official values of land, flats from January",
+          "snippet": "Government to update official values of land, flats from January"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পোশাকশ্রমিকদের ন্যূনতম মজুরি প্রতিবছর পর্যালোচনার সুপারিশ যুক্তরাষ্ট্রের ব্যবসায়ী সংগঠনের",
-        "title_en": "US apparel body urges Bangladesh to review RMG minimum wages annually",
-        "summary_bn": "বাংলাদেশের পোশাকশ্রমিকদের ন্যূনতম মজুরি প্রতিবছর পর্যালোচনার জন্য প্রধানমন্ত্রী তারেক রহমানকে চিঠি দিয়েছে যুক্তরাষ্ট্রের ব্যবসায়ীদের সংগঠন আমেরিকান অ্যাপারেল অ্যান্ড ফুটওয়্যার অ্যাসোসিয়েশন।",
-        "summary_en": "The American Apparel and Footwear Association has urged Prime Minister Tarique Rahman to implement an annual minimum wage review for Bangladesh’s garment workers.",
+        "title_bn": "২০২৭ সালের জানুয়ারি থেকে জমি ও ফ্ল্যাটের সরকারি বাজারমূল্য বাড়াচ্ছে সরকার",
+        "title_en": "Government to update official market values of land and flats from January 2027",
+        "summary_bn": "বাজারদরের সাথে সামঞ্জস্য রেখে রাজস্ব বাড়াতে ২০২৭ সালের ১ জানুয়ারি থেকে জমি, ফ্ল্যাটসহ স্থাবর সম্পত্তির নতুন সরকারি বাজারমূল্য কার্যকর করার সিদ্ধান্ত নিয়েছে সরকার।",
+        "summary_en": "The government is revising official prices for land and flats to align registration costs with actual market rates and increase revenue collection starting January 1, 2027.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T13:36:08+00:00",
-        "lead_bn": "বাংলাদেশের পোশাকশ্রমিকদের ন্যূনতম মজুরি প্রতিবছর পর্যালোচনার জন্য প্রধানমন্ত্রী তারেক রহমানকে চিঠি দিয়েছে যুক্তরাষ্ট্রের ব্যবসায়ীদের সংগঠন আমেরিকান অ্যাপারেল অ্যান্ড ফুটওয়্যার অ্যাসোসিয়েশন।",
-        "lead_en": "The American Apparel and Footwear Association has urged Prime Minister Tarique Rahman to implement an annual minimum wage review for Bangladesh’s garment workers.",
+        "published_at": "2026-11-18T14:30:00+00:00",
+        "lead_bn": "বাজারদরের সাথে সামঞ্জস্য রেখে রাজস্ব বাড়াতে ২০২৭ সালের ১ জানুয়ারি থেকে জমি, ফ্ল্যাটসহ স্থাবর সম্পত্তির নতুন সরকারি বাজারমূল্য কার্যকর করার সিদ্ধান্ত নিয়েছে সরকার।",
+        "lead_en": "The government is revising official prices for land and flats to align registration costs with actual market rates and increase revenue collection starting January 1, 2027.",
         "bullets_bn": [
-          "১৫ নভেম্বর লেখা চিঠিতে সংগঠনটির প্রেসিডেন্ট স্টিফেন লামার শ্রমিকদের অধিকার, নিরাপত্তা এবং তাঁদের ক্রয়ক্ষমতা ধরে রাখার ওপর গুরুত্ব দিয়েছেন।",
-          "সংগঠনটি জানিয়েছে, ২০২৩ সালের পর মজুরি সমন্বয় করা হয়নি, অথচ জ্বালানির উচ্চ মূল্যের কারণে পরিবারগুলোর ওপর বাড়তি চাপ তৈরি হয়েছে।",
-          "এএএফএ ট্রেড ইউনিয়নসহ সব অংশীজনকে নিয়ে স্বচ্ছ আলোচনার সুপারিশ করেছে এবং শান্তিপূর্ণ বিক্ষোভকারীদের ওপর সহিংসতা না করার আহ্বান জানিয়েছে।"
+          "নিবন্ধন অধিদপ্তর জেলা রেজিস্ট্রারদের আগামী ১৫ ডিসেম্বরের মধ্যে ২০২৭-২০২৯ মেয়াদের জন্য এলাকাভিত্তিক সম্পত্তির নতুন বাজারমূল্যের তালিকা তৈরির নির্দেশ দিয়েছে।",
+          "গত ১৬ সেপ্টেম্বর প্রধানমন্ত্রীর সভাপতিত্বে অনুষ্ঠিত এক সভায় রাজস্ব ক্ষতির বিষয়টি উঠে আসার পর নিবন্ধন পরিদর্শক শামিমা আফরোজ এই নির্দেশনা জারি করেন।",
+          "২০১০ সালের বাজারমূল্য নির্ধারণ বিধিমালা অনুযায়ী বিভাগীয়, জেলা ও উপজেলা পর্যায়ের কমিটিগুলো বিভিন্ন শ্রেণির সম্পত্তির মূল্য নির্ধারণের কাজ করবে।"
         ],
         "bullets_en": [
-          "AAFA President Stephen Lamar signed the November 15 letter, emphasizing worker rights, safety, and the need to maintain purchasing power.",
-          "The organization stated that wages have not been adjusted since 2023, while high fuel prices have pressured Bangladeshi families.",
-          "AAFA recommended inclusive, evidence-based discussions involving trade unions and called for an end to violence against peaceful protesters."
+          "The Directorate of Registration ordered district registrars to prepare new category-wise property valuation lists for 2027-2029 by December 15.",
+          "Inspector General of Registration Shamima Afroz issued the directive following a September 16 meeting chaired by the prime minister regarding revenue losses.",
+          "Committees at divisional, district, and upazila levels will determine property values based on categories under the 2010 market value determination rules."
         ],
-        "impact_bn": "প্রতিবছর মজুরি পর্যালোচনা করা হলে মূল্যস্ফীতির মধ্যে শ্রমিকদের ক্রয়ক্ষমতা বজায় থাকবে এবং মজুরি নির্ধারণ নিয়ে বারবার তৈরি হওয়া উত্তেজনা কমবে।",
-        "impact_en": "Annual wage reviews would help workers maintain purchasing power against inflation and reduce the recurring tensions surrounding wage fixations.",
-        "details_bn": "এএএফএ জানিয়েছে, আন্তর্জাতিক ব্র্যান্ডগুলোকে পণ্যের দাম নির্ধারণের সময় শ্রম ব্যয় বিবেচনায় নিতে হবে। আইএলও নীতিমালা অনুসারে ন্যূনতম মজুরি এমনভাবে নির্ধারণের আহ্বান জানানো হয়েছে, যাতে শ্রমিকেরা মৌলিক চাহিদা পূরণ করতে পারেন। সংগঠনটি সাম্প্রতিক শ্রমিক বিক্ষোভের প্রসঙ্গ টেনে বলেছে, মজুরি পর্যালোচনার আলোচনায় অংশগ্রহণকারীদের বিরুদ্ধে কোনো প্রতিশোধমূলক ব্যবস্থা নেওয়া যাবে না। কার্যকর ও স্বচ্ছ ত্রিপক্ষীয় আলোচনা নিশ্চিত করতে সরকারের গুরুত্বপূর্ণ ভূমিকার ওপরও জোর দিয়েছে সংগঠনটি।",
-        "details_en": "The AAFA emphasized that international brands must play a responsible role by considering labor costs when setting product prices. The organization called for tripartite discussions following ILO principles to ensure wages cover basic needs while considering the country's economic situation. It also stressed that no retaliatory measures should be taken against those participating in wage discussions or peaceful protests, following recent labor unrest in the sector.",
-        "hook_bn": "‘পোশাকশ্রমিকদের মজুরি প্রতিবছর পর্যালোচনা করুন’",
-        "kicker_bn": "মজুরি পর্যালোচনা",
+        "impact_bn": "সরকারি মূল্য বাজারদরের কাছাকাছি আসায় সম্পত্তি নিবন্ধনের খরচ বাড়তে পারে, যা অপ্রদর্শিত অর্থ তৈরি বন্ধে ভূমিকা রাখবে বলে ধারণা করা হচ্ছে।",
+        "impact_en": "Property registration costs will likely increase as official rates move closer to actual market prices to prevent undisclosed money generation.",
+        "details_bn": "বর্তমানে কার্যকর ২০২৫-২০২৬ সালের বাজারমূল্যের তালিকার মেয়াদ আগামী ৩১ ডিসেম্বর শেষ হবে। সরকার জানিয়েছে, প্রকৃত বাজারদরের চেয়ে অনেক কম মৌজা দরে সম্পত্তি নিবন্ধিত হওয়ায় বিপুল পরিমাণ রাজস্ব ক্ষতি হচ্ছে। ভূমি মন্ত্রণালয় সূত্রে জানা গেছে, ভবিষ্যতে স্থাবর সম্পত্তির সঠিক মূল্য নির্ধারণে দক্ষিণ কোরিয়ার সহায়তায় একটি স্থায়ী ও বৈজ্ঞানিক পদ্ধতি তৈরির প্রকল্প প্রক্রিয়াধীন রয়েছে।",
+        "details_en": "Existing valuation lists for 2025-2026 expire on December 31. The government noted substantial revenue losses because properties are registered at fixed mouza rates far below actual transaction values. Land Ministry sources stated a project is also underway with South Korean assistance to develop a permanent, scientific model for valuing immovable assets to ensure more accurate property assessments in the future.",
+        "hook_bn": "জানুয়ারি থেকে বাড়ছে জমি-ফ্ল্যাটের সরকারি দাম",
+        "kicker_bn": "দাম বাড়ছে",
         "share_value": true,
-        "question_bn": "পোশাকশ্রমিকদের মজুরি কি প্রতিবছর পর্যালোচনা করা উচিত বলে আপনি মনে করেন?"
+        "question_bn": "জমি বা ফ্ল্যাট নিবন্ধনের খরচ বাড়লে আপনার ওপর কেমন প্রভাব পড়বে?"
       },
-      "desk_importance": 7.0,
-      "outlet_count": 2,
+      "desk_importance": 6.0,
+      "outlet_count": 1,
       "trending": false,
       "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-18T14:09:34.579199+00:00"
+        "checked_at": "2026-11-18T15:05:00.315831+00:00"
       }
     },
     {
-      "story_id": "90a1bd17-c2ac-5e52-914a-86b270e08e3d",
+      "story_id": "d1187f63-bec1-584d-a784-d07cf2b5fe97",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business",
-        "governance_law"
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#MalaysiaMigration",
-        "#TariqueRahman",
-        "#BangladeshLabourMarket",
-        "#OverseasEmployment"
+        "#ChattogramTradeFair",
+        "#CCCI",
+        "#AmirKhosruMahmudChowdhury"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/09/09/pm_tarique_in_parliament.jpg",
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Ctg%20Trade%20Fair%20.jpeg",
       "image_caption": null,
-      "published_at": "2026-11-18T12:35:00+00:00",
+      "published_at": "2026-11-18T14:25:16+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 4.8365,
+      "importance_score": 5.0,
+      "rank_score": 2.4131,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/govt-send-10000-workers-malaysia-almost-no-cost-tarique-1606826",
-          "title": "Govt to send 10,000 workers to Malaysia at almost no cost: Tarique",
-          "snippet": "Govt to send 10,000 workers to Malaysia at almost no cost: Tarique"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/425050/tarique-govt-to-send-10-000-bangladeshi-workers",
-          "title": "Tarique: Govt to send 10,000 Bangladeshi workers to Malaysia at almost no cost",
-          "snippet": "Tarique: Govt to send 10,000 Bangladeshi workers to Malaysia at almost no cost"
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/news/32nd-chattogram-trade-fair-opens-friday-4327346",
+          "title": "32nd Chattogram trade fair opens Friday",
+          "snippet": "32nd Chattogram trade fair opens Friday"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মালয়েশিয়ায় ১০,০০০ কর্মী পাঠাবে সরকার, খরচ হবে নামমাত্র",
-        "title_en": "Government to send 10,000 workers to Malaysia at minimal cost",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান সংসদে জানিয়েছেন যে, সফল আলোচনার পর সরকার নামমাত্র খরচে প্রায় ১০,০০০ বাংলাদেশি কর্মীকে মালয়েশিয়ায় পাঠানোর পদক্ষেপ নিচ্ছে।",
-        "summary_en": "Prime Minister Tarique Rahman told Parliament that the government will send around 10,000 Bangladeshi workers to Malaysia at a minimal cost following successful negotiations.",
+        "title_bn": "চট্টগ্রামে থেকে শুরু হচ্ছে ৩২তম আন্তর্জাতিক বাণিজ্য মেলা।",
+        "title_en": "The 32nd Chattogram international trade fair begins Friday.",
+        "summary_bn": "দুই বছরের বেশি সময় বিরতির পর চট্টগ্রামের রেলওয়ে পলোগ্রাউন্ডে শুরু হতে যাচ্ছে মাসব্যাপী ৩২তম চট্টগ্রাম আন্তর্জাতিক বাণিজ্য মেলা-২০২৬।",
+        "summary_en": "The month-long 32nd Chattogram International Trade Fair-2026 will begin at the city Railway Polo Ground after a gap of more than two years.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business",
-          "governance_law"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T12:35:00+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান সংসদে জানিয়েছেন যে, সফল আলোচনার পর সরকার নামমাত্র খরচে প্রায় ১০,০০০ বাংলাদেশি কর্মীকে মালয়েশিয়ায় পাঠানোর পদক্ষেপ নিচ্ছে।",
-        "lead_en": "Prime Minister Tarique Rahman told Parliament that the government will send around 10,000 Bangladeshi workers to Malaysia at a minimal cost following successful negotiations.",
+        "published_at": "2026-11-18T14:25:16+00:00",
+        "lead_bn": "দুই বছরের বেশি সময় বিরতির পর চট্টগ্রামের রেলওয়ে পলোগ্রাউন্ডে শুরু হতে যাচ্ছে মাসব্যাপী ৩২তম চট্টগ্রাম আন্তর্জাতিক বাণিজ্য মেলা-২০২৬।",
+        "lead_en": "The month-long 32nd Chattogram International Trade Fair-2026 will begin at the city Railway Polo Ground after a gap of more than two years.",
         "bullets_bn": [
-          "গুম ও খুনের শিকার এবং ২০২৪ সালের গণঅভ্যুত্থানে হতাহতদের পরিবার থেকে প্রায় ১,০০০ কর্মীকে নির্বাচন করা হবে।",
-          "প্রধানমন্ত্রী জানান যে, প্রতিটি কর্মীর জন্য অভিবাসন ব্যয় সর্বোচ্চ ২ লাখ টাকার মধ্যে সীমাবদ্ধ রাখা নিশ্চিত করা হয়েছে।",
-          "ড্রাইভিংসহ বিভিন্ন পেশায় কর্মী নিয়োগের বিষয়ে মধ্যপ্রাচ্যের বেশ কিছু দেশের সাথেও বর্তমানে আলোচনা চলছে।"
+          "অর্থ ও পরিকল্পনা মন্ত্রী আমীর খসরু মাহমুদ চৌধুরী বিকেল তিনটায় মেলা উদ্বোধন করবেন বলে আশা করা হচ্ছে।",
+          "মেলায় ২০টি প্যাভিলিয়ন, একটি সহযোগী দেশ জোন ও ২১৬টি স্টলে তিনশর বেশি প্রতিষ্ঠান পণ্য প্রদর্শন করবে।",
+          "ভারত, পাকিস্তান, চীন ও থাইল্যান্ডের উদ্যোক্তা এবং ব্যবসায়ীরা মেলায় তাদের পণ্য প্রদর্শন ও বিক্রি করবেন।"
         ],
         "bullets_en": [
-          "Around 1,000 workers will be selected from families affected by enforced disappearances, killings, or the 2024 mass uprising.",
-          "The Prime Minister stated that migration costs for each worker have been capped at a maximum of 2 lakh taka.",
-          "Discussions are also underway with Middle Eastern countries to recruit workers for various roles, including driving positions."
-        ],
-        "impact_bn": "রাজনৈতিক সহিংসতা ও গণঅভ্যুত্থানে ক্ষতিগ্রস্ত পরিবারসহ ১০,০০০ কর্মী কম খরচে বিদেশে যাওয়ার সুযোগ পাবেন।",
-        "impact_en": "Low-cost migration opportunities will be provided to 10,000 workers, including those from families affected by political violence and the mass uprising.",
-        "details_bn": "১৮ নভেম্বর সংসদে প্রধানমন্ত্রী বলেন, আওয়ামী লীগ সরকারের আমলের সিন্ডিকেট ও অনিয়মের কারণে বিভিন্ন দেশ কর্মী নিয়োগ কমিয়ে দিয়েছিল। আলোচনার মাধ্যমে মালয়েশিয়ার শ্রমবাজার পুনরায় উন্মুক্ত করা হয়েছে। তিনি জানান, মধ্যপ্রাচ্যের দেশগুলোতেও অভিবাসন ব্যয় যৌক্তিক পর্যায়ে রাখতে সরকার কাজ করছে। ইতিমধ্যে কিছু দেশ বাংলাদেশ থেকে চালকসহ বিভিন্ন পেশার কর্মী নিতে আগ্রহ প্রকাশ করেছে।",
-        "details_en": "On 18 November, the Prime Minister told Parliament that the Malaysian labour market was reopened through negotiations after several countries slowed recruitment due to syndicates and irregularities during the Awami League regime. He noted that the government is also working to keep overseas employment costs reasonable for workers seeking jobs in Middle Eastern countries. Some of these nations have already expressed interest in recruiting Bangladeshi drivers and other professionals.",
-        "hook_bn": "মালয়েশিয়ায় ১০ হাজার কর্মী পাঠাবে সরকার",
-        "kicker_bn": "কম খরচে বিদেশ",
-        "share_value": true,
-        "question_bn": "অভিবাসন ব্যয় কমানোর এই উদ্যোগ সম্পর্কে আপনার মতামত কী?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-18T14:09:34.579199+00:00"
-      }
-    },
-    {
-      "story_id": "403a63b2-7852-5a88-8e29-c456adea71f5",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#TungiparaPoliceStation",
-        "#Gopalganj",
-        "#AwamiLeague"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/17/911616207_1151833757215782_2457288033586198365_n.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-18T12:55:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.75,
-      "rank_score": 5.634,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/most-tungipara-police-personnel-move-district-lines-amid-fears-fresh-attack-1606846",
-          "title": "Most Tungipara police personnel move to district lines amid fears of fresh attack",
-          "snippet": "Most Tungipara police personnel move to district lines amid fears of fresh attack"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1181063",
-          "title": "টুঙ্গিপাড়া থানা ছেড়ে চলে গেলেন পুলিশ সদস্যরা",
-          "snippet": "টুঙ্গিপাড়া থানা ছেড়ে চলে গেলেন পুলিশ সদস্যরা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "টুঙ্গিপাড়া থানা ছেড়ে জেলা পুলিশ লাইনে চলে গেছেন পুলিশ সদস্যরা।",
-        "title_en": "Tungipara police personnel move to district lines amid attack fears.",
-        "summary_bn": "আক্রমণের আশঙ্কায় গোপালগঞ্জের টুঙ্গিপাড়া থানা ছেড়ে জেলা পুলিশ লাইনে চলে গেছেন অধিকাংশ পুলিশ সদস্য।",
-        "summary_en": "Most police personnel at Tungipara Police Station in Gopalganj moved to district police lines amid fears of attack.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-18T12:55:00+00:00",
-        "lead_bn": "আক্রমণের আশঙ্কায় গোপালগঞ্জের টুঙ্গিপাড়া থানা ছেড়ে জেলা পুলিশ লাইনে চলে গেছেন অধিকাংশ পুলিশ সদস্য।",
-        "lead_en": "Most police personnel at Tungipara Police Station in Gopalganj moved to district police lines amid fears of attack.",
-        "bullets_bn": [
-          "পুলিশ সদস্যরা ১৮ নভেম্বর সকাল থেকে থানা ছেড়ে চলে যান।",
-          "থানায় মোতায়েন করা হয়েছিল একশ জনের বেশি পুলিশ সদস্য।",
-          "ঊর্ধ্বতন কর্মকর্তাদের নির্দেশেই পুলিশ সদস্যরা পুলিশ লাইনে চলে যান।"
-        ],
-        "bullets_en": [
-          "Police personnel started leaving the station since the morning of 18 November.",
-          "More than 100 police personnel had been stationed at the police station.",
-          "The personnel moved to the police lines on the instructions of senior officers."
+          "Amir Khosru Mahmud Chowdhury, minister for finance and planning, is expected to inaugurate the fair at 3pm.",
+          "More than 300 organisations will participate in the fair, displaying their products in 20 pavilions, an associate country zone and 216 stalls.",
+          "Entrepreneurs and traders from India, Pakistan, China and Thailand would also showcase and sell their products."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "আওয়ামী লীগের কয়েকজন নেতাকর্মীকে আটকের পর স্থানীয়রা মাইকে ঘোষণা দিয়ে টুঙ্গিপাড়া থানায় হামলা চালায়। হামলাকারীরা থানায় ভাঙচুর চালায় এবং ভবন ও পুলিশ গাড়িতে আগুন দেয়।",
-        "details_en": "Locals made announcements over a mosque loudspeaker and attacked Tungipara Police Station after several leaders and activists of the Awami League were detained.",
-        "hook_bn": "টুঙ্গিপাড়া থানায় হামলা ও অগ্নিসংযোগ",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
+        "details_bn": "চট্টগ্রাম চেম্বার অব কমার্স অ্যান্ড ইন্ডাস্ট্রি আয়োজিত মেলাটি প্রায় চার লাখ বর্গজুড়ে বিস্তৃত হবে। মেলা কমিটির উপদেষ্টা ও সিসিসিআইয়ের সাবেক সভাপতি আমীর হুমায়ুন মাহমুদ চৌধুরী বিশ্ব বাণিজ্য কেন্দ্রে আয়োজিত এক সংবাদ সম্মেলনে এসব তথ্য জানান। সমাজকল্যাণমূলক উদ্যোগের অংশ হিসেবে কিছু স্টল স্বেচ্ছাসেবী সংস্থাকে বিনামূল্যে বরাদ্দ দেওয়া হয়েছে।",
+        "details_en": "Organised by the CCCI, the fair will cover around four lakh square feet. Amir Humayun Mahmud Chowdhury, former president of the CCCI and adviser to the fair committee, shared the details at a press conference at the World Trade Centre. A few stalls have been allocated free of charge to voluntary organisations as part of social responsibility initiatives.",
+        "hook_bn": "চট্টগ্রামে থেকে শুরু ৩২তম বাণিজ্য মেলা",
+        "kicker_bn": "নতুন তারিখ",
+        "share_value": true,
+        "question_bn": "চট্টগ্রামের এই বাণিজ্য মেলায় আপনি কি যাওয়ার পরিকল্পনা করছেন?"
       },
-      "desk_importance": 7.0,
-      "outlet_count": 2,
-      "trending": true,
-      "social_appeal": 7.0,
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-18T14:09:34.579199+00:00"
+        "checked_at": "2026-11-18T15:05:00.315831+00:00"
       }
     }
   ]
