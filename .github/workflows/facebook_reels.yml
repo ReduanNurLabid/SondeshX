@@ -18,6 +18,14 @@ on:
         description: 'Only refresh Reel performance numbers'
         type: boolean
         default: false
+      telegram_clip:
+        description: 'Render a preview Reel from this Telegram clip (set by the Telegram job)'
+        required: false
+        default: ''
+      telegram_post:
+        description: 'Post this approved Telegram clip (set by the Telegram job)'
+        required: false
+        default: ''
       check_instagram:
         description: 'Only check that the token can publish to Instagram (posts nothing)'
         type: boolean
@@ -111,10 +119,19 @@ jobs:
           FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           REEL_TTS_VOICE: ${{ vars.REEL_TTS_VOICE || 'Kore' }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           IG_POSTING: ${{ vars.IG_POSTING || 'on' }}   # set the repo variable to "off" to stop Instagram posts
           PYTHONPATH: .
         run: |
           ARGS="--base-url http://localhost:4173 --out reel.mp4 --format ${{ inputs.format || 'reel' }}"
+          if [ -n "${{ inputs.telegram_clip }}" ]; then
+            python -m pipeline.social.post_reel --base-url http://localhost:4173 --out reel.mp4 --telegram-clip "${{ inputs.telegram_clip }}"
+            exit 0
+          fi
+          if [ -n "${{ inputs.telegram_post }}" ]; then
+            python -m pipeline.social.post_reel --telegram-post "${{ inputs.telegram_post }}"
+            exit 0
+          fi
           if [ -z "${{ inputs.story_id }}" ] && { [ "${{ github.event_name }}" = "schedule" ] || [ "${{ inputs.auto }}" = "true" ]; }; then
             ARGS="$ARGS --min-gap-minutes 45"
           fi

@@ -152,7 +152,10 @@ def pick_story(db, story_id: Optional[str] = None, fmt: str = "reel") -> Optiona
         s["story_id"] = s.get("story_id") or story_id
         return s
 
-    posted = {d.id for d in db.collection("social_posts").select([]).stream()}
+    posted = set()
+    for d in db.collection("social_posts").select(["story_id"]).stream():
+        posted.add(d.id)
+        posted.add((d.to_dict() or {}).get("story_id"))
     cutoff = datetime.now(timezone.utc) - timedelta(hours=LOOKBACK_HOURS)
     docs = (
         db.collection("daily_buzz")
@@ -681,6 +684,8 @@ def main():
                         help="music-only Reel: on-screen text, no voiceover (saves the Gemini voice limit)")
     parser.add_argument("--format", choices=["reel", "photo"], default="reel",
                         help="reel: voiced video; photo: 4:5 photo card")
+    parser.add_argument("--telegram-clip", help="render a Reel from this Telegram clip and send the preview")
+    parser.add_argument("--telegram-post", help="post this approved Telegram clip's Reel now")
     parser.add_argument("--check-instagram", action="store_true",
                         help="only check that the token can publish to Instagram; posts nothing")
     args = parser.parse_args()
@@ -690,12 +695,22 @@ def main():
         sys.exit(0 if check_instagram() else 1)
 
     db = get_firestore_client()
+    if args.telegram_clip:
+        return telegram_preview(db, args.telegram_clip, args.base_url, args.out)
+    if args.telegram_post:
+        return telegram_post(db, args.telegram_post)
     if args.min_gap_minutes and not args.story_id:
         last = recent_posts(db, 1, platform)
         last_at = _parse_time(last[0].get("posted_at")) if last else None
         if last_at and datetime.now(timezone.utc) - last_at < timedelta(minutes=args.min_gap_minutes):
             print(f"Last {args.format} posted at {last_at.isoformat()}; skipping this slot (minimum gap {args.min_gap_minutes} min).")
             return
+    if args.min_gap_minutes and not args.story_id and not args.dry_run and args.format == "reel":
+        from pipeline.social.telegram_clips import next_slot_clip
+        clip = next_slot_clip(db)
+        if clip:
+            print(f"Posting the editor's approved video clip {clip['clip_id']} in this slot.")
+            return telegram_post(db, clip["clip_id"])
     story = pick_story(db, args.story_id, args.format)
     if not story:
         print(f"No eligible story this slot (fact-checked, importance >= {MIN_IMPORTANCE}, appeal >= {MIN_APPEAL}, last {LOOKBACK_HOURS} hours, not yet posted).")
@@ -886,6 +901,163 @@ def post_instagram_reel(fb_video_id: str, caption: str) -> str:
     if not p.ok:
         raise RuntimeError(f"Instagram publish failed: {_graph_error_text(p)}")
     return p.json()["id"]
+
+
+
+# ---------------------------------------------------------------- editor video clips
+# Reels from a real video clip the editor sent on Telegram (see telegram_clips.py):
+# the footage fills the frame (black bars from the source are cropped off), the same
+# hook / key-point / end-card text layers are laid over it, and the voice and music
+# soundtrack is mixed over the clip's own sound, kept quiet underneath.
+CLIP_SOUND = 0.18
+
+
+def _probe(path: str) -> str:
+    return subprocess.run(["ffmpeg", "-hide_banner", "-i", path], capture_output=True, text=True).stderr
+
+
+def _black_bar_crop(path: str) -> Optional[str]:
+    """crop=w:h:x:y that removes black bars burned into the source video, if any."""
+    log = subprocess.run(["ffmpeg", "-hide_banner", "-t", "4", "-i", path, "-vf", "cropdetect=24:16:0",
+                          "-f", "null", "-"], capture_output=True, text=True).stderr
+    crops = [ln.split("crop=")[-1].strip() for ln in log.splitlines() if "crop=" in ln]
+    return crops[-1] if crops else None
+
+
+def render_overlays(story: dict, segments: list, duration: float, base_url: str, workdir: str, credit: str) -> list:
+    """One transparent PNG text layer per segment: [(path, start, end)]."""
+    from playwright.sync_api import sync_playwright
+    request = {
+        "headline": reel_headline(story),
+        "points": reel_points(story),
+        "sourceLine": f"ভিডিও: {credit}",
+        "category": "",
+        "dateLine": bn_date(_parse_time(story.get("published_at")) or datetime.now(timezone.utc)),
+        "kicker": (story.get("daily_buzz") or {}).get("kicker_bn") or "",
+        "imageUrl": None,
+        "segments": segments,
+        "duration": duration,
+    }
+    times = [min(s["end"] - 0.05, s["start"] + (0.9 if s["kind"] != "outro" else 0.5)) for s in segments]
+    with sync_playwright() as p:
+        browser = p.chromium.launch()
+        page = browser.new_page(viewport={"width": 1080, "height": 1920})
+        page.goto(f"{base_url}/__reel", wait_until="networkidle")
+        page.wait_for_function("window.reelHostReady === true", timeout=30000)
+        pngs = page.evaluate("([req, ts]) => window.renderOverlayFrames(req, ts)", [request, times])
+        browser.close()
+    layers = []
+    for n, (seg, b64) in enumerate(zip(segments, pngs)):
+        path = os.path.join(workdir, f"layer{n}.png")
+        with open(path, "wb") as f:
+            f.write(base64.b64decode(b64))
+        layers.append((path, seg["start"], seg["end"]))
+    return layers
+
+
+def compose_footage(clip_path: str, audio: str, layers: list, total: float, out_path: str):
+    """Footage (looped to the soundtrack's length) + text layers + mixed sound -> mp4."""
+    crop = _black_bar_crop(clip_path)
+    has_sound = "Audio:" in _probe(clip_path)
+    inputs = ["-stream_loop", "-1", "-t", f"{total}", "-i", clip_path, "-i", audio]
+    for path, _, _ in layers:
+        inputs += ["-loop", "1", "-t", f"{total}", "-i", path]
+    chain = [f"[0:v]{'crop=' + crop + ',' if crop else ''}scale=1080:1920:force_original_aspect_ratio=increase,"
+             "crop=1080:1920,setsar=1,fps=30,format=yuv420p[v0]"]
+    last = "v0"
+    for n, (_, start, end) in enumerate(layers):
+        chain.append(f"[{last}][{n + 2}:v]overlay=0:0:enable='between(t,{start},{end})'[v{n + 1}]")
+        last = f"v{n + 1}"
+    if has_sound:
+        chain.append(f"[0:a]volume={CLIP_SOUND},aresample=48000,aformat=channel_layouts=stereo[clip];"
+                     "[1:a][clip]amix=inputs=2:normalize=0:duration=first,"
+                     "loudnorm=I=-14:TP=-1:LRA=11,aresample=48000[a]")
+    else:
+        chain.append("[1:a]anull[a]")
+    _ff(*inputs, "-filter_complex", ";".join(chain), "-map", f"[{last}]", "-map", "[a]", "-t", f"{total}",
+        "-c:v", "libx264", "-pix_fmt", "yuv420p", "-profile:v", "high", "-crf", "21",
+        "-c:a", "aac", "-b:a", "160k", "-ar", "48000", "-movflags", "+faststart", out_path)
+
+
+def render_footage_reel(story: dict, clip_path: str, credit: str, base_url: str, workdir: str, out_path: str,
+                        use_voice: bool = True) -> float:
+    audio, segments, total = build_voiceover(story, workdir, use_voice=use_voice)
+    layers = render_overlays(story, segments, total, base_url, workdir, credit)
+    compose_footage(clip_path, audio, layers, total, out_path)
+    return total
+
+
+def _clip_and_story(db, clip_id: str):
+    from pipeline.social.telegram_clips import COLLECTION
+    ref = db.collection(COLLECTION).document(clip_id)
+    clip = ref.get().to_dict()
+    if not clip:
+        raise RuntimeError(f"Telegram clip {clip_id} not found")
+    story = pick_story(db, clip["story_id"])
+    if not story:
+        raise RuntimeError(f"story {clip['story_id']} not found")
+    return ref, clip, story
+
+
+def telegram_preview(db, clip_id: str, base_url: str, out_path: str):
+    from pipeline.social import telegram_clips as tgc
+    ref, clip, story = _clip_and_story(db, clip_id)
+    try:
+        with tempfile.TemporaryDirectory() as workdir:
+            src = tgc.download_file(clip["file_id"], os.path.join(workdir, "clip_src"))
+            total = render_footage_reel(story, src, clip.get("credit") or "সংগৃহীত", base_url, workdir, out_path)
+        print(f"Rendered clip Reel {out_path} ({total:.1f}s, {os.path.getsize(out_path) // 1024} KB)")
+        sent = tgc.send_video(clip["chat_id"], out_path,
+                              f"প্রিভিউ ({total:.0f} সেকেন্ড): {story['daily_buzz']['title_bn']}\n"
+                              f"সূত্র দেখাবে: {clip.get('credit')}",
+                              tgc.approval_buttons(clip_id))
+        ref.set({"status": "preview_sent", "preview_file_id": sent["video"]["file_id"],
+                 "duration_s": total, "updated_at": datetime.now(timezone.utc).isoformat()}, merge=True)
+    except Exception as err:
+        ref.set({"status": "failed", "error": str(err)[:400]}, merge=True)
+        tgc.send(clip["chat_id"], f"রিল তৈরি করা যায়নি: {str(err)[:300]}")
+        raise
+
+
+def telegram_post(db, clip_id: str):
+    from pipeline.social import telegram_clips as tgc
+    ref, clip, story = _clip_and_story(db, clip_id)
+    if clip.get("status") not in ("approved_now", "approved_slot"):
+        print(f"Clip {clip_id} is {clip.get('status')}; not posting.")
+        return
+    ref.set({"status": "posting"}, merge=True)
+    try:
+        with tempfile.TemporaryDirectory() as workdir:
+            video = tgc.download_file(clip["preview_file_id"], os.path.join(workdir, "reel.mp4"))
+            caption = build_caption(story) + f"\n\nভিডিও: {clip.get('credit')}"
+            video_id = upload_reel(video, caption)
+    except Exception as err:
+        ref.set({"status": "failed", "error": str(err)[:400]}, merge=True)
+        tgc.send(clip["chat_id"], f"ফেসবুকে পোস্ট করা যায়নি: {str(err)[:300]}")
+        raise
+    print(f"Posted clip Reel: video_id {video_id}")
+    comment_id = comment_link(video_id, story)
+    record = {
+        "story_id": story["story_id"], "platform": "facebook_reel", "source": "telegram_clip",
+        "clip_id": clip_id, "video_id": video_id, "comment_id": comment_id,
+        "posted_at": datetime.now(timezone.utc).isoformat(), "headline": story["daily_buzz"]["title_bn"],
+        "category": story.get("primary_category"), "region": story.get("region"),
+        "importance_score": story.get("importance_score"), "social_appeal": story.get("social_appeal"),
+        "duration_s": clip.get("duration_s"), "voiced": True, "hashtags": build_hashtags(story),
+        "story_published_at": story.get("published_at"),
+    }
+    note = f"ফেসবুকে পোস্ট হয়েছে: https://www.facebook.com/reel/{video_id}"
+    if os.getenv("IG_POSTING", "on").lower() != "off":
+        try:
+            ig_caption = instagram_caption(story) + f"\n\nভিডিও: {clip.get('credit')}"
+            record["instagram_media_id"] = post_instagram_reel(video_id, ig_caption[:2200])
+            note += "\nইনস্টাগ্রামেও পোস্ট হয়েছে।"
+        except Exception as err:  # noqa: BLE001
+            record["instagram_error"] = str(err)[:400]
+            note += f"\nইনস্টাগ্রামে যায়নি: {str(err)[:200]}"
+    db.collection("social_posts").document(f"tg_{clip_id}").set(record)
+    ref.set({"status": "posted", "fb_video_id": video_id, "posted_at": record["posted_at"]}, merge=True)
+    tgc.send(clip["chat_id"], note)
 
 
 if __name__ == "__main__":

@@ -81,6 +81,20 @@ export function installReelRenderHost() {
     return canvas.toDataURL('image/png').split(',')[1];
   };
 
+  // Text layers for a Reel made from a real video clip: one transparent PNG (base64) per
+  // requested time; pipeline/social/post_reel.py lays them over the footage with ffmpeg.
+  (window as any).renderOverlayFrames = async (req: ReelRequest, times: number[]) => {
+    const { logo } = await loadAssets({ ...req, imageUrl: null });
+    const canvas = document.createElement('canvas');
+    canvas.width = 1080;
+    canvas.height = 1920;
+    const ctx = canvas.getContext('2d')!;
+    return times.map((t) => {
+      drawAutoReelFrame(ctx, { ...req, logo, image: null, overlayOnly: true }, t);
+      return canvas.toDataURL('image/png').split(',')[1];
+    });
+  };
+
   (window as any).previewReelFrame = async (req: ReelRequest, t: number) => {
     const { logo, image } = await loadAssets(req);
     let canvas = document.getElementById('reel-preview') as HTMLCanvasElement | null;

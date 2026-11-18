@@ -1,0 +1,246 @@
+"""Telegram inbox for editor-supplied video clips.
+
+The editor sends a short news video (under 20 MB) to the Sondesh bot, with the story
+link from sondesh.web.app in the caption (or picks one of the latest top stories from
+buttons). A Reel is rendered from the clip with the story's hook, key points, voice and
+music, sent back as a preview, and posted to Facebook and Instagram only after the
+editor taps "Post now" or "Post at next slot".
+
+This module is the light part that runs every few minutes (telegram_poll.yml): it
+reads new Telegram updates, keeps the queue in Firestore (collection telegram_clips)
+and starts the heavy render / post runs of facebook_reels.yml.
+
+Statuses: need_story -> rendering -> preview_sent -> approved_now | approved_slot
+          -> posting -> posted; or cancelled / failed.
+"""
+import os
+import re
+import sys
+from datetime import datetime, timezone
+from typing import Optional
+
+import requests
+
+from pipeline.storage.firebase_service import get_firestore_client
+
+API = "https://api.telegram.org"
+SITE = "sondesh.web.app"
+STORY_RE = re.compile(r"sondesh\.web\.app/(?:story/|\?story=)([0-9a-f-]{36})", re.I)
+MAX_BYTES = 20 * 1024 * 1024        # Telegram bots cannot download larger files
+COLLECTION = "telegram_clips"
+
+
+# ---------------------------------------------------------------- Telegram API
+def _token() -> str:
+    return os.environ["TELEGRAM_BOT_TOKEN"]
+
+
+def tg(method: str, **params) -> dict:
+    files = params.pop("files", None)
+    r = requests.post(f"{API}/bot{_token()}/{method}", data=params if files else None,
+                      json=None if files else params, files=files, timeout=120)
+    data = r.json() if r.headers.get("content-type", "").startswith("application/json") else {}
+    if not data.get("ok"):
+        raise RuntimeError(f"Telegram {method} failed: {data.get('description') or r.status_code}")
+    return data["result"]
+
+
+def download_file(file_id: str, path: str) -> str:
+    info = tg("getFile", file_id=file_id)
+    with requests.get(f"{API}/file/bot{_token()}/{info['file_path']}", stream=True, timeout=300) as r:
+        r.raise_for_status()
+        with open(path, "wb") as f:
+            for chunk in r.iter_content(1 << 20):
+                f.write(chunk)
+    return path
+
+
+def send(chat_id, text: str, buttons: Optional[list] = None) -> dict:
+    params = {"chat_id": chat_id, "text": text, "disable_web_page_preview": True}
+    if buttons:
+        params["reply_markup"] = {"inline_keyboard": buttons}
+    return tg("sendMessage", **params)
+
+
+def send_video(chat_id, path: str, caption: str, buttons: Optional[list] = None) -> dict:
+    import json
+    params = {"chat_id": str(chat_id), "caption": caption[:1000], "supports_streaming": "true"}
+    if buttons:
+        params["reply_markup"] = json.dumps({"inline_keyboard": buttons})
+    with open(path, "rb") as f:
+        return tg("sendVideo", files={"video": ("reel.mp4", f, "video/mp4")}, **params)
+
+
+def approval_buttons(clip_id: str) -> list:
+    return [[{"text": "✅ Post now", "callback_data": f"a:{clip_id}:now"},
+             {"text": "🕒 Next slot", "callback_data": f"a:{clip_id}:slot"}],
+            [{"text": "✖ Cancel", "callback_data": f"x:{clip_id}"}]]
+
+
+# ---------------------------------------------------------------- GitHub
+def dispatch(inputs: dict):
+    """Starts a facebook_reels.yml run (render a preview or post an approved clip)."""
+    repo = os.environ["GITHUB_REPOSITORY"]
+    r = requests.post(
+        f"https://api.github.com/repos/{repo}/actions/workflows/facebook_reels.yml/dispatches",
+        headers={"Authorization": f"Bearer {os.environ['GH_TOKEN']}",
+                 "Accept": "application/vnd.github+json"},
+        json={"ref": "main", "inputs": inputs}, timeout=30)
+    if r.status_code >= 300:
+        raise RuntimeError(f"could not start the Reel job: {r.status_code} {r.text[:200]}")
+
+
+# ---------------------------------------------------------------- stories
+def latest_top_stories(db, n: int = 5) -> list:
+    from firebase_admin import firestore
+    docs = (db.collection("daily_buzz").order_by("published_at", direction=firestore.Query.DESCENDING)
+            .limit(40).stream())
+    stories = []
+    for d in docs:
+        s = d.to_dict()
+        if (s.get("fact_check") or {}).get("status") != "passed" or not (s.get("daily_buzz") or {}).get("title_bn"):
+            continue
+        s["story_id"] = s.get("story_id") or d.id
+        stories.append(s)
+    stories.sort(key=lambda s: float(s.get("importance_score") or 0), reverse=True)
+    return stories[:n]
+
+
+def story_title(db, story_id: str) -> Optional[str]:
+    snap = db.collection("daily_buzz").document(story_id).get()
+    return (snap.to_dict() or {}).get("daily_buzz", {}).get("title_bn") if snap.exists else None
+
+
+def credit_from(text: str) -> str:
+    """Any text the editor writes next to the link is used as the on-screen credit."""
+    text = re.sub(r"(?:https?://)?\S*sondesh\.web\.app\S*", "", text or "")
+    text = re.sub(r"https?://\S+", "", text)
+    text = re.sub(r"^(?:source|credit|উৎস|ভিডিও)\s*[:：-]\s*", "", text.strip(), flags=re.I)
+    line = next((ln.strip() for ln in text.splitlines() if ln.strip()), "")
+    return line[:40] or "সংগৃহীত"
+
+
+# ---------------------------------------------------------------- inbox
+def _now() -> str:
+    return datetime.now(timezone.utc).isoformat()
+
+
+def handle_message(db, msg: dict, allowed: str):
+    chat_id = msg["chat"]["id"]
+    if str(chat_id) != allowed:
+        return  # only the editor's own chat is served
+    video = msg.get("video") or (msg.get("document") if (msg.get("document") or {}).get("mime_type", "").startswith("video/") else None)
+    text = msg.get("caption") or msg.get("text") or ""
+    if not video:
+        if text.strip().startswith("/start") or text.strip().startswith("/help"):
+            send(chat_id, "ভিডিও পাঠান (২০ এমবির কম), ক্যাপশনে sondesh.web.app এর খবরের লিংক দিন। "
+                          "লিংক না দিলে সাম্প্রতিক খবর থেকে বেছে নিতে বলব। লিংকের পাশে লেখা থাকলে সেটা ভিডিওর সূত্র হিসেবে দেখাবে।")
+        return
+    if (video.get("file_size") or 0) > MAX_BYTES:
+        send(chat_id, "ভিডিওটি ২০ এমবির বেশি। ছোট করে আবার পাঠান।")
+        return
+
+    clip_id = str(msg["message_id"])
+    clip = {"clip_id": clip_id, "chat_id": chat_id, "file_id": video["file_id"],
+            "file_name": video.get("file_name") or "clip.mp4", "credit": credit_from(text),
+            "created_at": _now()}
+    m = STORY_RE.search(text)
+    if m and story_title(db, m.group(1)):
+        clip.update(story_id=m.group(1), status="rendering")
+        db.collection(COLLECTION).document(clip_id).set(clip)
+        dispatch({"telegram_clip": clip_id, "dry_run": "true"})
+        send(chat_id, f"পেয়েছি। খবর: {story_title(db, m.group(1))}\nরিল তৈরি হচ্ছে, কয়েক মিনিটের মধ্যে প্রিভিউ পাঠাব।")
+        return
+
+    choices = latest_top_stories(db)
+    if not choices:
+        send(chat_id, "কোনো খবর পাওয়া যায়নি। ক্যাপশনে sondesh.web.app এর খবরের লিংক দিয়ে আবার পাঠান।")
+        return
+    clip.update(status="need_story", choices=[s["story_id"] for s in choices])
+    db.collection(COLLECTION).document(clip_id).set(clip)
+    buttons = [[{"text": s["daily_buzz"]["title_bn"][:60], "callback_data": f"s:{clip_id}:{i}"}]
+               for i, s in enumerate(choices)]
+    buttons.append([{"text": "✖ Cancel", "callback_data": f"x:{clip_id}"}])
+    send(chat_id, "এই ভিডিও কোন খবরের? বেছে নিন:", buttons)
+
+
+def handle_callback(db, cb: dict, allowed: str):
+    chat_id = cb["message"]["chat"]["id"]
+    tg("answerCallbackQuery", callback_query_id=cb["id"])
+    if str(chat_id) != allowed:
+        return
+    parts = (cb.get("data") or "").split(":")
+    ref = db.collection(COLLECTION).document(parts[1]) if len(parts) > 1 else None
+    clip = ref.get().to_dict() if ref and ref.get().exists else None
+    if not clip:
+        send(chat_id, "এই ভিডিওটি আর তালিকায় নেই।")
+        return
+    try:  # remove the buttons that were just used
+        tg("editMessageReplyMarkup", chat_id=chat_id, message_id=cb["message"]["message_id"],
+           reply_markup={"inline_keyboard": []})
+    except RuntimeError:
+        pass
+
+    kind = parts[0]
+    if kind == "x":
+        ref.set({"status": "cancelled", "updated_at": _now()}, merge=True)
+        send(chat_id, "বাতিল করা হয়েছে।")
+    elif kind == "s" and clip.get("status") == "need_story":
+        story_id = clip["choices"][int(parts[2])]
+        ref.set({"story_id": story_id, "status": "rendering", "updated_at": _now()}, merge=True)
+        dispatch({"telegram_clip": clip["clip_id"], "dry_run": "true"})
+        send(chat_id, f"খবর: {story_title(db, story_id)}\nরিল তৈরি হচ্ছে, কয়েক মিনিটের মধ্যে প্রিভিউ পাঠাব।")
+    elif kind == "a" and clip.get("status") == "preview_sent":
+        if parts[2] == "now":
+            ref.set({"status": "approved_now", "updated_at": _now()}, merge=True)
+            dispatch({"telegram_post": clip["clip_id"], "dry_run": "false"})
+            send(chat_id, "পোস্ট করা হচ্ছে (ফেসবুক, তারপর ইনস্টাগ্রাম)।")
+        else:
+            ref.set({"status": "approved_slot", "updated_at": _now()}, merge=True)
+            send(chat_id, "পরের রিল স্লটে পোস্ট হবে।")
+    else:
+        send(chat_id, f"এই ভিডিওর অবস্থা এখন: {clip.get('status')}")
+
+
+def next_slot_clip(db) -> Optional[dict]:
+    """Oldest clip the editor approved for the next Reel slot."""
+    docs = db.collection(COLLECTION).where("status", "==", "approved_slot").stream()
+    clips = sorted((d.to_dict() for d in docs), key=lambda c: c.get("updated_at") or "")
+    return clips[0] if clips else None
+
+
+def poll():
+    if sys.stdout:
+        sys.stdout.reconfigure(encoding="utf-8")
+    db = get_firestore_client()
+    state_ref = db.collection("admin_config").document("telegram")
+    offset = (state_ref.get().to_dict() or {}).get("offset", 0)
+    allowed = os.getenv("TELEGRAM_CHAT_ID", "").strip()
+    updates = tg("getUpdates", offset=offset, timeout=0, allowed_updates=["message", "callback_query"])
+    for u in updates:
+        offset = u["update_id"] + 1
+        msg, cb = u.get("message"), u.get("callback_query")
+        try:
+            if not allowed:
+                chat = (msg or (cb or {}).get("message") or {}).get("chat", {})
+                if chat.get("id"):
+                    send(chat["id"], f"Setup: save {chat['id']} as the GitHub secret TELEGRAM_CHAT_ID, then send the video again.")
+                continue
+            if msg:
+                handle_message(db, msg, allowed)
+            elif cb:
+                handle_callback(db, cb, allowed)
+        except Exception as err:  # noqa: BLE001 - one bad update must not block the rest
+            print(f"Update {u['update_id']} failed: {err}")
+            try:
+                chat_id = (msg or cb["message"])["chat"]["id"]
+                if str(chat_id) == allowed:
+                    send(chat_id, f"সমস্যা হয়েছে: {str(err)[:300]}")
+            except Exception:  # noqa: BLE001
+                pass
+    state_ref.set({"offset": offset, "checked_at": _now()}, merge=True)
+    print(f"Handled {len(updates)} Telegram update(s).")
+
+
+if __name__ == "__main__":
+    poll()

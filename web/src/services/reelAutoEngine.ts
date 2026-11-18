@@ -27,6 +27,7 @@ export interface AutoReelInput {
   dateLine: string; // e.g. "১৫ নভেম্বর ২০২৬"
   kicker?: string; // optional 1-2 word label above the hook, e.g. "নতুন তারিখ"
   image: HTMLImageElement | null;
+  overlayOnly?: boolean; // draw only the text layer, on a transparent canvas (video-clip Reels)
   logo: HTMLImageElement | null;
   segments: ReelSegment[];
   duration: number;
@@ -319,7 +320,23 @@ function drawOutro(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: numbe
 
 export function drawAutoReelFrame(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: number) {
   const seg = input.segments.find((s) => t >= s.start && t < s.end) || input.segments[input.segments.length - 1];
-  drawPicture(ctx, input, t);
+  if (input.overlayOnly) {
+    // Text layer for a real video clip (ffmpeg puts it over the footage): transparent,
+    // with a soft shade at the top and bottom so the text reads over any picture.
+    ctx.clearRect(0, 0, W, H);
+    const top = ctx.createLinearGradient(0, 0, 0, 320);
+    top.addColorStop(0, 'rgba(0,0,0,0.55)');
+    top.addColorStop(1, 'rgba(0,0,0,0)');
+    ctx.fillStyle = top;
+    ctx.fillRect(0, 0, W, 320);
+    const low = ctx.createLinearGradient(0, 860, 0, H);
+    low.addColorStop(0, 'rgba(0,0,0,0)');
+    low.addColorStop(1, 'rgba(0,0,0,0.7)');
+    ctx.fillStyle = low;
+    ctx.fillRect(0, 860, W, H - 860);
+  } else {
+    drawPicture(ctx, input, t);
+  }
   if (seg.kind === 'outro') {
     drawOutro(ctx, input, t, seg);
     return;
@@ -327,7 +344,7 @@ export function drawAutoReelFrame(ctx: CanvasRenderingContext2D, input: AutoReel
   drawCorners(ctx, input);
   if (seg.kind === 'headline' || seg.kind === 'intro') drawHook(ctx, input, t, seg);
   else if (seg.kind === 'point') drawPoint(ctx, input, t, seg);
-  drawBeatFlash(ctx, input, t);
+  if (!input.overlayOnly) drawBeatFlash(ctx, input, t);
 }
 
 /** Records the reel in real time and returns a silent video blob. */
