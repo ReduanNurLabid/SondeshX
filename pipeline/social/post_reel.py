@@ -812,6 +812,8 @@ def main():
         video_id = upload_reel(args.out, caption)
     except requests.HTTPError as err:
         print(f"Facebook upload failed: {_graph_error_text(err.response)}")
+        from pipeline.social.telegram_clips import notify_editor
+        notify_editor(f"⚠️ রিল পোস্ট হয়নি: {story['daily_buzz']['title_bn']}\n{_graph_error_text(err.response)[:300]}")
         sys.exit(1)
     print(f"Posted Reel: video_id {video_id}")
     comment_id = comment_link(video_id, story)
@@ -847,6 +849,12 @@ def main():
             ig["instagram_error"] = str(err)[:400]
             print(f"Instagram posting failed: {ig['instagram_error']}")
         db.collection("social_posts").document(story["story_id"]).set(ig, merge=True)
+    else:
+        ig = {"instagram_error": "off"}
+    from pipeline.social.telegram_clips import notify_editor
+    ig_note = "ইনস্টাগ্রামেও পোস্ট হয়েছে।" if ig.get("instagram_media_id") else f"ইনস্টাগ্রামে যায়নি: {ig.get('instagram_error', '')[:150]}"
+    notify_editor(f"✅ রিল পোস্ট হয়েছে ({'ভয়েস' if not args.no_voice else 'শুধু মিউজিক'}): {story['daily_buzz']['title_bn']}\n"
+                  f"https://www.facebook.com/reel/{video_id}\n{ig_note}")
 
 
 # ---------------------------------------------------------------- instagram
@@ -1081,7 +1089,10 @@ def telegram_preview(db, clip_id: str, base_url: str, out_path: str):
     try:
         with tempfile.TemporaryDirectory() as workdir:
             credit = clip.get("credit") or "সংগৃহীত"
-            if clip.get("media_type") == "photo":
+            if clip.get("media_type") == "auto":
+                audio, segments, total = build_voiceover(story, workdir)
+                mux(render_video(story, segments, total, base_url, workdir), audio, total, out_path)
+            elif clip.get("media_type") == "photo":
                 total = render_photo_reel(story, clip.get("file_ids") or [clip["file_id"]], credit,
                                           base_url, workdir, out_path)
             else:
@@ -1089,8 +1100,8 @@ def telegram_preview(db, clip_id: str, base_url: str, out_path: str):
                 total = render_footage_reel(story, src, credit, base_url, workdir, out_path)
         print(f"Rendered clip Reel {out_path} ({total:.1f}s, {os.path.getsize(out_path) // 1024} KB)")
         sent = tgc.send_video(clip["chat_id"], out_path,
-                              f"প্রিভিউ ({total:.0f} সেকেন্ড): {story['daily_buzz']['title_bn']}\n"
-                              f"সূত্র দেখাবে: {clip.get('credit')}",
+                              f"প্রিভিউ ({total:.0f} সেকেন্ড): {story['daily_buzz']['title_bn']}"
+                              + (f"\nসূত্র দেখাবে: {clip.get('credit')}" if clip.get("credit") else ""),
                               tgc.approval_buttons(clip_id))
         ref.set({"status": "preview_sent", "preview_file_id": sent["video"]["file_id"],
                  "duration_s": total, "updated_at": datetime.now(timezone.utc).isoformat()}, merge=True)
@@ -1112,7 +1123,8 @@ def telegram_post(db, clip_id: str):
     try:
         tgc.download_file(clip["preview_file_id"], video)
         label = "ছবি" if clip.get("media_type") == "photo" else "ভিডিও"
-        caption = build_caption(story) + f"\n\n{label}: {clip.get('credit')}"
+        credit_line = f"\n\n{label}: {clip.get('credit')}" if clip.get("credit") else ""
+        caption = build_caption(story) + credit_line
         video_id = upload_reel(video, caption)
     except Exception as err:
         ref.set({"status": "failed", "error": str(err)[:400]}, merge=True)
@@ -1122,7 +1134,7 @@ def telegram_post(db, clip_id: str):
     comment_id = comment_link(video_id, story)
     record = {
         "story_id": story["story_id"], "platform": "facebook_reel", "source": "telegram_clip",
-        "clip_id": clip_id, "video_id": video_id, "comment_id": comment_id,
+        "clip_id": clip_id, "media_type": clip.get("media_type"), "video_id": video_id, "comment_id": comment_id,
         "posted_at": datetime.now(timezone.utc).isoformat(), "headline": story["daily_buzz"]["title_bn"],
         "category": story.get("primary_category"), "region": story.get("region"),
         "importance_score": story.get("importance_score"), "social_appeal": story.get("social_appeal"),
@@ -1132,7 +1144,7 @@ def telegram_post(db, clip_id: str):
     note = f"ফেসবুকে পোস্ট হয়েছে: https://www.facebook.com/reel/{video_id}"
     if os.getenv("IG_POSTING", "on").lower() != "off":
         try:
-            ig_caption = instagram_caption(story) + f"\n\n{label}: {clip.get('credit')}"
+            ig_caption = instagram_caption(story) + credit_line
             record["instagram_media_id"] = post_instagram_reel(video_id, ig_caption[:2200], video)
             note += "\nইনস্টাগ্রামেও পোস্ট হয়েছে।"
             print(f"Posted on Instagram: media_id {record['instagram_media_id']}")

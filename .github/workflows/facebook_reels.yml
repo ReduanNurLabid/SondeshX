@@ -124,6 +124,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           REEL_TTS_VOICE: ${{ vars.REEL_TTS_VOICE || 'Kore' }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           IG_POSTING: ${{ vars.IG_POSTING || 'on' }}   # set the repo variable to "off" to stop Instagram posts
           PYTHONPATH: .
         run: |

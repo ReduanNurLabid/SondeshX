@@ -72,6 +72,17 @@ def send_video(chat_id, path: str, caption: str, buttons: Optional[list] = None)
         return tg("sendVideo", files={"video": ("reel.mp4", f, "video/mp4")}, **params)
 
 
+def notify_editor(text: str):
+    """Message the editor (posted / failed alerts). Silent when the bot is not set up."""
+    chat = os.getenv("TELEGRAM_CHAT_ID", "").strip()
+    if not chat or not os.getenv("TELEGRAM_BOT_TOKEN"):
+        return
+    try:
+        send(chat, text)
+    except Exception as err:  # noqa: BLE001 - an alert must never break posting
+        print(f"Telegram alert failed: {err}")
+
+
 def approval_buttons(clip_id: str) -> list:
     return [[{"text": "✅ Post now", "callback_data": f"a:{clip_id}:now"},
              {"text": "🕒 Next slot", "callback_data": f"a:{clip_id}:slot"}],
@@ -186,11 +197,18 @@ def start_clip(db, chat_id, clip_id: str, items: list, text: str, group_id: Opti
     if group_id:
         clip["media_group_id"] = group_id
     m = STORY_RE.search(text or "")
-    if m and story_title(db, m.group(1)):
-        clip.update(story_id=m.group(1), status="rendering")
+    story_id = m.group(1) if m else None
+    if not story_id:
+        state_ref = db.collection("admin_config").document("telegram")
+        pending = (state_ref.get().to_dict() or {}).get("pending_story") or {}
+        if pending.get("id") and (pending.get("at") or "") > _hours_ago(3):
+            story_id = pending["id"]
+            state_ref.set({"pending_story": {}}, merge=True)
+    if story_id and story_title(db, story_id):
+        clip.update(story_id=story_id, status="rendering")
         db.collection(COLLECTION).document(clip_id).set(clip)
         dispatch({"telegram_clip": clip_id, "dry_run": "true"})
-        send(chat_id, f"পেয়েছি ({noun})। খবর: {story_title(db, m.group(1))}\nরিল তৈরি হচ্ছে, কয়েক মিনিটের মধ্যে প্রিভিউ পাঠাব।")
+        send(chat_id, f"পেয়েছি ({noun})। খবর: {story_title(db, story_id)}\nরিল তৈরি হচ্ছে, কয়েক মিনিটের মধ্যে প্রিভিউ পাঠাব।")
         return
 
     choices = latest_top_stories(db)
@@ -214,6 +232,8 @@ def handle_callback(db, cb: dict, allowed: str):
     if str(chat_id) != allowed:
         return
     parts = (cb.get("data") or "").split(":")
+    if parts[0] in ("m", "w") and len(parts) > 1:
+        return handle_candidate(db, chat_id, parts[0], parts[1])
     ref = db.collection(COLLECTION).document(parts[1]) if len(parts) > 1 else None
     clip = ref.get().to_dict() if ref and ref.get().exists else None
     if not clip:
@@ -253,6 +273,94 @@ def next_slot_clip(db) -> Optional[dict]:
     return clips[0] if clips else None
 
 
+# ---------------------------------------------------------------- Reel candidates
+DIGEST_HOURS = (8, 13, 18)        # Bangladesh time; sent at :30
+DIGEST_SIZE = 5
+BN_NUM = str.maketrans("0123456789", "০১২৩৪৫৬৭৮৯")
+
+
+def _hours_ago(h: float) -> str:
+    from datetime import timedelta
+    return (datetime.now(timezone.utc) - timedelta(hours=h)).isoformat()
+
+
+def reel_candidates(db, n: int = DIGEST_SIZE) -> list:
+    """Unposted, fact-checked stories from the last 12 hours, best Reel prospects first
+    (the same score the automatic Reels use, including what past Reels taught us)."""
+    from firebase_admin import firestore
+    from pipeline.social.post_reel import learned_section_bonus, reel_score
+    posted = set()
+    for d in db.collection("social_posts").select(["story_id"]).stream():
+        posted.add(d.id)
+        posted.add((d.to_dict() or {}).get("story_id"))
+    since = _hours_ago(12)
+    stories = []
+    for d in (db.collection("daily_buzz").order_by("published_at", direction=firestore.Query.DESCENDING)
+              .limit(80).stream()):
+        st = d.to_dict()
+        sid = st.get("story_id") or d.id
+        buzz = st.get("daily_buzz") or {}
+        if sid in posted or str(st.get("published_at") or "") < since:
+            continue
+        if (st.get("fact_check") or {}).get("status") != "passed" or not buzz.get("title_bn"):
+            continue
+        if len(buzz.get("bullets_bn") or []) < 2 or float(st.get("importance_score") or 0) < 6:
+            continue
+        st["story_id"] = sid
+        stories.append(st)
+    learned = learned_section_bonus(db)
+    stories.sort(key=lambda st: reel_score(st, learned), reverse=True)
+    return stories[:n]
+
+
+def send_digest(db, chat_id) -> bool:
+    stories = reel_candidates(db)
+    if not stories:
+        return False
+    lines, buttons = ["🎯 এখন রিলের জন্য সম্ভাবনাময় খবর:"], []
+    for i, st in enumerate(stories, 1):
+        n = str(i).translate(BN_NUM)
+        buzz = st["daily_buzz"]
+        extra = " • কাজের খবর" if buzz.get("share_value") else ""
+        lines.append(f"\n{n}. {buzz['title_bn']}{extra}\n{SITE}/story/{st['story_id']}/")
+        buttons.append([{"text": f"🎬 {n} রিল বানাও", "callback_data": f"m:{st['story_id']}"},
+                        {"text": f"📷 {n} ছবি/ভিডিও দেব", "callback_data": f"w:{st['story_id']}"}])
+    lines.append("\n🎬 = সাধারণ রিলের প্রিভিউ পাঠাব। 📷 = এরপর যে ছবি/ভিডিও পাঠাবেন তা এই খবরের হবে।")
+    send(chat_id, "\n".join(lines), buttons)
+    return True
+
+
+def handle_candidate(db, chat_id, kind: str, story_id: str):
+    title = story_title(db, story_id)
+    if not title:
+        send(chat_id, "খবরটি পাওয়া যায়নি।")
+        return
+    if kind == "w":
+        db.collection("admin_config").document("telegram").set(
+            {"pending_story": {"id": story_id, "at": _now()}}, merge=True)
+        send(chat_id, f"ঠিক আছে। এখন ছবি (১-৪টি) বা ভিডিও পাঠান, লিংক লাগবে না।\nখবর: {title}")
+        return
+    clip_id = "a" + datetime.now(timezone.utc).strftime("%Y%m%d%H%M%S")
+    db.collection(COLLECTION).document(clip_id).set({
+        "clip_id": clip_id, "chat_id": chat_id, "media_type": "auto", "story_id": story_id,
+        "credit": "", "status": "rendering", "created_at": _now()})
+    dispatch({"telegram_clip": clip_id, "dry_run": "true"})
+    send(chat_id, f"রিল তৈরি হচ্ছে, কয়েক মিনিটের মধ্যে প্রিভিউ পাঠাব।\nখবর: {title}")
+
+
+def maybe_send_digest(db, state_ref, allowed: str):
+    from datetime import timedelta
+    local = datetime.now(timezone.utc) + timedelta(hours=6)
+    if local.hour not in DIGEST_HOURS or local.minute < 30:
+        return
+    key = local.strftime("%Y-%m-%d-%H")
+    if (state_ref.get().to_dict() or {}).get("last_digest") == key:
+        return
+    sent = send_digest(db, allowed)
+    state_ref.set({"last_digest": key}, merge=True)
+    print(f"Reel candidate digest {'sent' if sent else 'skipped (no candidates)'} for {key}.")
+
+
 def poll():
     if sys.stdout:
         sys.stdout.reconfigure(encoding="utf-8")
@@ -290,6 +398,11 @@ def poll():
             print(f"Album {gid} failed: {err}")
             send(g["chat_id"], f"সমস্যা হয়েছে: {str(err)[:300]}")
     state_ref.set({"offset": offset, "checked_at": _now()}, merge=True)
+    if allowed:
+        try:
+            maybe_send_digest(db, state_ref, allowed)
+        except Exception as err:  # noqa: BLE001
+            print(f"Digest failed: {err}")
     print(f"Handled {len(updates)} Telegram update(s).")
 
 
