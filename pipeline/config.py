@@ -181,14 +181,6 @@ FEEDS = {
         "region": "international",
         "category_hint": "world_diplomacy"
     },
-    "politico_europe": {
-        "name": "Politico Europe",
-        "url": "https://www.politico.eu/feed/",
-        "language": "en",
-        "source_type": "rss",
-        "region": "international",
-        "category_hint": "world_diplomacy"
-    },
     "the_hindu_world": {
         "name": "The Hindu International",
         "url": "https://www.thehindu.com/news/international/feeder/default.rss",
@@ -205,60 +197,6 @@ FEEDS = {
         "region": "international",
         "category_hint": "world_diplomacy"
     },
-    "balkan_insight": {
-        "name": "Balkan Insight",
-        "url": "https://balkaninsight.com/feed/",
-        "language": "en",
-        "source_type": "rss",
-        "region": "international",
-        "category_hint": "world_diplomacy"
-    },
-
-    # ── INTERNATIONAL: GLOBAL ECONOMY & TRADE (economy_business) ────────
-    "cnbc_world_economy": {
-        "name": "CNBC Global Economy",
-        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
-        "language": "en",
-        "source_type": "rss",
-        "region": "international",
-        "category_hint": "economy_business"
-    },
-    "marketwatch_top": {
-        "name": "MarketWatch Economy",
-        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
-        "language": "en",
-        "source_type": "rss",
-        "region": "international",
-        "category_hint": "economy_business"
-    },
-
-    # ── INTERNATIONAL: TECH, AI & INNOVATION (tech_innovation) ───────────
-    "techcrunch": {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/feed/",
-        "language": "en",
-        "source_type": "rss",
-        "region": "international",
-        "category_hint": "tech_innovation"
-    },
-    "ars_technica": {
-        "name": "Ars Technica",
-        "url": "https://feeds.arstechnica.com/arstechnica/index",
-        "language": "en",
-        "source_type": "rss",
-        "region": "international",
-        "category_hint": "tech_innovation"
-    },
-
-    # ── INTERNATIONAL: CLIMATE & ENERGY (climate_environment) ───────────
-    "inside_climate": {
-        "name": "Inside Climate News",
-        "url": "https://insideclimatenews.org/feed/",
-        "language": "en",
-        "source_type": "rss",
-        "region": "international",
-        "category_hint": "climate_environment"
-    }
 }
 
 # Direct HTML front-page targets (outlets with no usable RSS feed).
@@ -272,22 +210,6 @@ SECTION_TARGETS = [
         "language": "en",
         "category_hint": "economy_business"
     },
-    {
-        "name": "BSS News",
-        "url": "https://www.bssnews.net/",
-        "base_url": "https://www.bssnews.net",
-        "link_pattern": r"bssnews\.net/(news|news-flash|law-and-court|national|business)/\d+$",
-        "language": "en",
-        "category_hint": "governance_law"
-    },
-    {
-        "name": "বাসস",
-        "url": "https://www.bssnews.net/bangla",
-        "base_url": "https://www.bssnews.net",
-        "link_pattern": r"bssnews\.net/bangla/(national|news-flash|news|law-and-courts|business)/\d+$",
-        "language": "bn",
-        "category_hint": "governance_law"
-    }
 ]
 
 # Google News Bangladesh top stories: used only as a "what matters now" ranking signal.
@@ -310,13 +232,11 @@ SOURCE_TRUST = {
     "The Daily Star": 1, "The Daily Star Business": 1, "The Daily Star Law & Crime": 1,
     "The Business Standard": 1, "The Business Standard Politics": 1,
     "The Business Standard Bangladesh": 1, "The Business Standard Economy": 1,
-    "The Financial Express": 1, "BSS News": 1, "বাসস": 1,
+    "The Financial Express": 1,
     "BBC News বাংলা": 1, "DW বাংলা": 1, "Dhaka Tribune": 1,
     "BBC World News": 1, "Al Jazeera English": 1, "The Guardian World": 1,
-    "Deutsche Welle World": 1, "The Hindu International": 1, "CNBC Global Economy": 1,
+    "Deutsche Welle World": 1, "The Hindu International": 1,
     "ইত্তেফাক": 2, "Channel i": 2, "Jago News 24": 2, "Dhaka Post": 2, "Sarabangla": 2,
-    "Politico Europe": 2, "MarketWatch Economy": 2, "TechCrunch": 2, "Ars Technica": 2,
-    "Inside Climate News": 2, "Balkan Insight": 2,
     "Bangla Tribune": 3,
 }
 # Articles taken per feed per run, by trust tier: fewer from less trusted sources.
