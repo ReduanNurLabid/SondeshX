@@ -207,7 +207,10 @@ def start_clip(db, chat_id, clip_id: str, items: list, text: str, group_id: Opti
 
 def handle_callback(db, cb: dict, allowed: str):
     chat_id = cb["message"]["chat"]["id"]
-    tg("answerCallbackQuery", callback_query_id=cb["id"])
+    try:  # stops the button's spinner; Telegram refuses this for taps older than a few minutes
+        tg("answerCallbackQuery", callback_query_id=cb["id"])
+    except RuntimeError:
+        pass
     if str(chat_id) != allowed:
         return
     parts = (cb.get("data") or "").split(":")
