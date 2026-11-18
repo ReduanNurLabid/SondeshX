@@ -139,7 +139,8 @@ def _now() -> str:
 
 HELP_TEXT = ("ভিডিও (২০ এমবির কম) অথবা ১-৩টি ছবি একসঙ্গে পাঠান, ক্যাপশনে sondesh.web.app এর খবরের লিংক দিন। "
              "লিংক না দিলে সাম্প্রতিক খবর থেকে বেছে নিতে বলব। লিংকের পাশে লেখা থাকলে সেটা সূত্র হিসেবে দেখাবে। "
-             "একাধিক ছবি দিলে প্রতিটি মূল তথ্যের সঙ্গে আলাদা ছবি দেখাবে।")
+             "একাধিক ছবি দিলে প্রতিটি মূল তথ্যের সঙ্গে আলাদা ছবি দেখাবে। "
+             "/reels পাঠালে এখনই রিলের সম্ভাবনাময় খবরের তালিকা পাঠাব।")
 MAX_PHOTOS = 4   # hook + three key points
 
 
@@ -167,7 +168,10 @@ def handle_message(db, msg: dict, allowed: str, groups: Optional[dict] = None):
     text = msg.get("caption") or msg.get("text") or ""
     media = _media(msg)
     if not media:
-        if text.strip().startswith(("/start", "/help")):
+        if text.strip().startswith(("/reels", "/candidates")):
+            if not send_digest(db, chat_id):
+                send(chat_id, "এখন রিলের মতো নতুন কোনো খবর নেই।")
+        elif text.strip().startswith(("/start", "/help")):
             send(chat_id, HELP_TEXT)
         return
     kind, file_id, size = media
