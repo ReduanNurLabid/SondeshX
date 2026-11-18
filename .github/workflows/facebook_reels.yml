@@ -26,6 +26,10 @@ on:
         description: 'Post this approved Telegram clip (set by the Telegram job)'
         required: false
         default: ''
+      retry_instagram:
+        description: 'Send a posted Telegram clip to Instagram (clip id, or latest)'
+        required: false
+        default: ''
       check_instagram:
         description: 'Only check that the token can publish to Instagram (posts nothing)'
         type: boolean
@@ -126,6 +130,10 @@ jobs:
           ARGS="--base-url http://localhost:4173 --out reel.mp4 --format ${{ inputs.format || 'reel' }}"
           if [ -n "${{ inputs.telegram_clip }}" ]; then
             python -m pipeline.social.post_reel --base-url http://localhost:4173 --out reel.mp4 --telegram-clip "${{ inputs.telegram_clip }}"
+            exit 0
+          fi
+          if [ -n "${{ inputs.retry_instagram }}" ]; then
+            python -m pipeline.social.post_reel --retry-instagram "${{ inputs.retry_instagram }}"
             exit 0
           fi
           if [ -n "${{ inputs.telegram_post }}" ]; then

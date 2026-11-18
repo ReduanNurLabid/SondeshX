@@ -689,6 +689,7 @@ def main():
                         help="reel: voiced video; photo: 4:5 photo card")
     parser.add_argument("--telegram-clip", help="render a Reel from this Telegram clip and send the preview")
     parser.add_argument("--telegram-post", help="post this approved Telegram clip's Reel now")
+    parser.add_argument("--retry-instagram", help="send this posted Telegram clip (or 'latest') to Instagram")
     parser.add_argument("--check-instagram", action="store_true",
                         help="only check that the token can publish to Instagram; posts nothing")
     args = parser.parse_args()
@@ -702,6 +703,8 @@ def main():
         return telegram_preview(db, args.telegram_clip, args.base_url, args.out)
     if args.telegram_post:
         return telegram_post(db, args.telegram_post)
+    if args.retry_instagram:
+        return retry_instagram(db, args.retry_instagram)
     if args.min_gap_minutes and not args.story_id:
         last = recent_posts(db, 1, platform)
         last_at = _parse_time(last[0].get("posted_at")) if last else None
@@ -798,12 +801,12 @@ def main():
     if os.getenv("IG_POSTING", "on").lower() != "off":
         ig = {}
         try:
-            ig["instagram_media_id"] = post_instagram_reel(video_id, instagram_caption(story))
+            ig["instagram_media_id"] = post_instagram_reel(video_id, instagram_caption(story), args.out)
             ig["instagram_posted_at"] = datetime.now(timezone.utc).isoformat()
             print(f"Posted on Instagram: media_id {ig['instagram_media_id']}")
         except Exception as err:  # noqa: BLE001 - reported, then ignored
             ig["instagram_error"] = str(err)[:400]
-            print(f"Instagram posting skipped: {ig['instagram_error']}")
+            print(f"Instagram posting failed: {ig['instagram_error']}")
         db.collection("social_posts").document(story["story_id"]).set(ig, merge=True)
 
 
@@ -872,16 +875,33 @@ def check_instagram() -> bool:
     return False
 
 
-def post_instagram_reel(fb_video_id: str, caption: str) -> str:
-    token = os.environ["FB_PAGE_TOKEN"]
-    ig_user = instagram_user_id()
-    video_url = facebook_video_source(fb_video_id)
-    r = requests.post(f"{GRAPH}/{ig_user}/media", timeout=60, data={
-        "media_type": "REELS", "video_url": video_url, "caption": caption,
-        "share_to_feed": "true", "access_token": token})
+def _ig_container(ig_user: str, token: str, caption: str, video_path: Optional[str], fb_video_id: str) -> str:
+    """Creates the Instagram Reel container. With the local file, the video is uploaded
+    straight to Instagram (resumable upload); otherwise Instagram fetches Facebook's copy."""
+    base = {"media_type": "REELS", "caption": caption, "share_to_feed": "true", "access_token": token}
+    if video_path and os.path.exists(video_path):
+        r = requests.post(f"{GRAPH}/{ig_user}/media", timeout=60, data={**base, "upload_type": "resumable"})
+        if not r.ok:
+            raise RuntimeError(f"Instagram container failed: {_graph_error_text(r)}")
+        container, uri = r.json()["id"], r.json()["uri"]
+        with open(video_path, "rb") as f:
+            u = requests.post(uri, data=f, timeout=300, headers={
+                "Authorization": f"OAuth {token}", "offset": "0",
+                "file_size": str(os.path.getsize(video_path))})
+        if not u.ok:
+            raise RuntimeError(f"Instagram upload failed: {u.status_code} {u.text[:300]}")
+        return container
+    r = requests.post(f"{GRAPH}/{ig_user}/media", timeout=60,
+                      data={**base, "video_url": facebook_video_source(fb_video_id)})
     if not r.ok:
         raise RuntimeError(f"Instagram container failed: {_graph_error_text(r)}")
-    container = r.json()["id"]
+    return r.json()["id"]
+
+
+def post_instagram_reel(fb_video_id: str, caption: str, video_path: Optional[str] = None) -> str:
+    token = os.environ["FB_PAGE_TOKEN"]
+    ig_user = instagram_user_id()
+    container = _ig_container(ig_user, token, caption, video_path, fb_video_id)
 
     # Instagram downloads and processes the video; publish once it reports FINISHED.
     deadline = time.time() + 600
@@ -1048,12 +1068,13 @@ def telegram_post(db, clip_id: str):
         print(f"Clip {clip_id} is {clip.get('status')}; not posting.")
         return
     ref.set({"status": "posting"}, merge=True)
+    workdir = tempfile.mkdtemp()
+    video = os.path.join(workdir, "reel.mp4")
     try:
-        with tempfile.TemporaryDirectory() as workdir:
-            video = tgc.download_file(clip["preview_file_id"], os.path.join(workdir, "reel.mp4"))
-            label = "ছবি" if clip.get("media_type") == "photo" else "ভিডিও"
-            caption = build_caption(story) + f"\n\n{label}: {clip.get('credit')}"
-            video_id = upload_reel(video, caption)
+        tgc.download_file(clip["preview_file_id"], video)
+        label = "ছবি" if clip.get("media_type") == "photo" else "ভিডিও"
+        caption = build_caption(story) + f"\n\n{label}: {clip.get('credit')}"
+        video_id = upload_reel(video, caption)
     except Exception as err:
         ref.set({"status": "failed", "error": str(err)[:400]}, merge=True)
         tgc.send(clip["chat_id"], f"ফেসবুকে পোস্ট করা যায়নি: {str(err)[:300]}")
@@ -1073,14 +1094,39 @@ def telegram_post(db, clip_id: str):
     if os.getenv("IG_POSTING", "on").lower() != "off":
         try:
             ig_caption = instagram_caption(story) + f"\n\n{label}: {clip.get('credit')}"
-            record["instagram_media_id"] = post_instagram_reel(video_id, ig_caption[:2200])
+            record["instagram_media_id"] = post_instagram_reel(video_id, ig_caption[:2200], video)
             note += "\nইনস্টাগ্রামেও পোস্ট হয়েছে।"
+            print(f"Posted on Instagram: media_id {record['instagram_media_id']}")
         except Exception as err:  # noqa: BLE001
             record["instagram_error"] = str(err)[:400]
+            print(f"Instagram posting failed: {record['instagram_error']}")
             note += f"\nইনস্টাগ্রামে যায়নি: {str(err)[:200]}"
     db.collection("social_posts").document(f"tg_{clip_id}").set(record)
     ref.set({"status": "posted", "fb_video_id": video_id, "posted_at": record["posted_at"]}, merge=True)
     tgc.send(clip["chat_id"], note)
+
+
+def retry_instagram(db, clip_id: str):
+    """Posts an editor clip that is already on Facebook to Instagram ('latest': the most
+    recent one that has not reached Instagram)."""
+    from pipeline.social import telegram_clips as tgc
+    if clip_id == "latest":
+        docs = [d.to_dict() for d in db.collection("social_posts").where("source", "==", "telegram_clip").stream()]
+        docs = sorted((d for d in docs if not d.get("instagram_media_id")), key=lambda d: d.get("posted_at") or "")
+        if not docs:
+            print("Every editor clip is already on Instagram.")
+            return
+        clip_id = docs[-1]["clip_id"]
+    ref, clip, story = _clip_and_story(db, clip_id)
+    video = os.path.join(tempfile.mkdtemp(), "reel.mp4")
+    tgc.download_file(clip["preview_file_id"], video)
+    label = "ছবি" if clip.get("media_type") == "photo" else "ভিডিও"
+    caption = (instagram_caption(story) + f"\n\n{label}: {clip.get('credit')}")[:2200]
+    media_id = post_instagram_reel(clip.get("fb_video_id") or "", caption, video)
+    print(f"Posted on Instagram: media_id {media_id}")
+    db.collection("social_posts").document(f"tg_{clip_id}").set(
+        {"instagram_media_id": media_id, "instagram_error": None}, merge=True)
+    tgc.send(clip["chat_id"], "ইনস্টাগ্রামেও পোস্ট হয়েছে।")
 
 
 if __name__ == "__main__":
