@@ -1,90 +1,91 @@
 {
-  "updated_at": "2026-11-18T03:00:41.299587",
-  "total_stories": 2,
+  "updated_at": "2026-11-18T04:00:47.755119",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "eae91949-5cfe-50f5-b490-f0d2202cfeb1",
-      "primary_category": "climate_environment",
+      "story_id": "f1c6c20a-92f5-576b-92bd-54eeb0d3e13b",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "climate_environment",
-        "governance_law"
+        "governance_law",
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Climate",
-        "#Environment"
+        "#ECNEC",
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1583794018021-c841442da0e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bmF0dXJlJTIwY2xpbWF0ZSUyMGZsb29kJTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk0OTcwODg3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1521618602568-18d984a3ea32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZWNuZWMlMjBtZWV0aW5nJTIwaGVsZCUyMG5vdmVtYmVyJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk0OTc0NTEyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-18T02:32:55+00:00",
+      "published_at": "2026-11-18T04:00:55.292923+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 5.1145,
+      "importance_score": 7.5,
+      "rank_score": 5.6212,
       "sources": [
         {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/tk-6922b-project-awaits-ecnec-seal-today",
+          "title": "Tk 69.22b project awaits ECNEC seal today",
+          "snippet": "Tk 69.22b project awaits ECNEC seal today"
+        },
+        {
           "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821606/%E0%A6%98%E0%A6%A8-%E0%A6%95%E0%A7%81%E0%A7%9F%E0%A6%BE%E0%A6%B6%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A6%BE%E0%A6%9F%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE-%E0%A6%A6%E0%A7%8C%E0%A6%B2%E0%A6%A4%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A6%BE-%E0%A6%B0%E0%A7%81%E0%A6%9F%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%B0%E0%A6%BF-%E0%A6%9A%E0%A6%B2%E0%A6%BE%E0%A6%9A%E0%A6%B2-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7",
-          "title": "ঘন কুয়াশায় পাটুরিয়া-দৌলতদিয়া রুটে ফেরি চলাচল বন্ধ",
-          "snippet": "ঘন কুয়াশায় পাটুরিয়া-দৌলতদিয়া রুটে ফেরি চলাচল বন্ধ"
+          "url": "https://www.ittefaq.com.bd/821613/%E0%A6%8F%E0%A6%95%E0%A6%A8%E0%A7%87%E0%A6%95-%E0%A6%B8%E0%A6%AD%E0%A6%BE-%E0%A6%86%E0%A6%9C-%E0%A6%89%E0%A6%A0%E0%A6%9B%E0%A7%87-%E0%A7%A8%E0%A7%A7-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA",
+          "title": "একনেক সভা আজ, উঠছে ২১ প্রকল্প",
+          "snippet": "একনেক সভা আজ, উঠছে ২১ প্রকল্প"
         },
         {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/country/498803",
-          "title": "দৌলতদিয়া-পাটুরিয়া নৌরুটে ফেরি চলাচল শুরু",
-          "snippet": "দৌলতদিয়া-পাটুরিয়া নৌরুটে ফেরি চলাচল শুরু"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/dhaka/981639/%E0%A6%98%E0%A6%A8-%E0%A6%95%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B6%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AA%E0%A6%BE%E0%A6%9F%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%A6%E0%A7%8C%E0%A6%B2%E0%A6%A4%E0%A6%A6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%B0%E0%A7%81%E0%A6%9F%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%B0%E0%A6%BF-%E0%A6%9A%E0%A6%B2%E0%A6%BE%E0%A6%9A%E0%A6%B2",
-          "title": "ঘন কুয়াশায় পাটুরিয়া-দৌলতদিয়া রুটে ফেরি চলাচল বন্ধ",
-          "snippet": "ঘন কুয়াশায় পাটুরিয়া-দৌলতদিয়া রুটে ফেরি চলাচল বন্ধ"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/ecnec-meeting-today-21-projects-up-for-consideration/",
+          "title": "একনেক সভা আজ, উঠছে ২১ প্রকল্প",
+          "snippet": "একনেক সভা আজ, উঠছে ২১ প্রকল্প"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ঘন কুয়াশায় দৌলতদিয়া-পাটুরিয়া রুটে ফেরি চলাচল বন্ধ",
-        "title_en": "Ferry services suspended on Paturia-Goalundo route due to dense fog",
-        "summary_bn": "ঘন কুয়াশার কারণে মানিকগঞ্জের পাটুরিয়া ও রাজবাড়ীর দৌলতদিয়া নৌরুটে ফেরি চলাচল সাময়িকভাবে বন্ধ রয়েছে।",
-        "summary_en": "Ferry services are temporarily suspended on the Paturia-Goalundo route due to dense fog.",
+        "title_bn": "একনেক সভা ১৮ নভেম্বর অনুষ্ঠিত হবে",
+        "title_en": "ECNEC meeting to be held on November 18",
+        "summary_bn": "জাতীয় অর্থনৈতিক পরিষদের নির্বাহী কমিটির (একনেক) সভা ১৮ নভেম্বর অনুষ্ঠিত হওয়ার কথা রয়েছে।",
+        "summary_en": "The Executive Committee of the National Economic Council (ECNEC) meeting is scheduled to be held on November 18.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "climate_environment",
-          "governance_law"
+          "governance_law",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T02:32:55+00:00",
-        "lead_bn": "ঘন কুয়াশার কারণে মানিকগঞ্জের পাটুরিয়া ও রাজবাড়ীর দৌলতদিয়া নৌরুটে ফেরি চলাচল সাময়িকভাবে বন্ধ রয়েছে।",
-        "lead_en": "Ferry services are temporarily suspended on the Paturia-Goalundo route due to dense fog.",
+        "published_at": "2026-11-18T04:00:55.292923+00:00",
+        "lead_bn": "জাতীয় অর্থনৈতিক পরিষদের নির্বাহী কমিটির (একনেক) সভা ১৮ নভেম্বর অনুষ্ঠিত হওয়ার কথা রয়েছে।",
+        "lead_en": "The Executive Committee of the National Economic Council (ECNEC) meeting is scheduled to be held on November 18.",
         "bullets_bn": [
-          "১৮ নভেম্বর সকাল পৌনে ৬টা থেকে এ রুটে ফেরি চলাচল বন্ধ রাখা হয়।",
-          "বিআইডব্লিউটিসির দৌলতদিয়া ফেরিঘাটের সহকারী মহাব্যবস্থাপক সালাহ উদ্দিন এ তথ্য জানান।",
-          "উভয় ঘাটে বিভিন্ন গন্তব্যের যাত্রী ও যানবাহন আটকা পড়েছে।"
+          "সভায় নতুন ও সংশোধিত ২১টি প্রকল্প অনুমোদনের জন্য উপস্থাপন করা হবে।",
+          "প্রধানমন্ত্রী ও একনেকের সভাপতি তারেক রহমানের সভাপতিত্বে সভাটি অনুষ্ঠিত হবে।",
+          "আগে অনুমোদিত ১৪টি প্রকল্পের অগ্রগতি ও সংশোধনী প্রস্তাবও আলোচনায় আসবে।"
         ],
         "bullets_en": [
-          "Ferry services on the route were suspended from 5:45 am on Wednesday 18 November.",
-          "BIWTC Goalundo ferry terminal assistant general manager Salah Uddin provided this information.",
-          "Passengers and vehicles bound for various destinations are stranded at both terminals."
+          "Twenty-one new and revised projects will be presented for approval at the meeting.",
+          "The meeting will be chaired by Prime Minister and ECNEC Chairperson Tarique Rahman.",
+          "Progress and amendment proposals of 14 previously approved projects will also come up for discussion."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "পদ্মা নদীর অববাহিকায় কুয়াশার ঘনত্ব বেড়ে যাওয়ার কারণে চ্যানেলের বিকন বাতি ও মার্কিং পয়েন্টগুলো অস্পষ্ট হয়ে যায়। নৌ-দুর্ঘটনা এড়ানোর জন্য ঘাট কর্তৃপক্ষ ভোর ৫টা ৪৫ মিনিট থেকে এই রুটে ফেরি চলাচল বন্ধ রাখার সিদ্ধান্ত নেয়।",
-        "details_en": "Due to increased density of fog in the Padma river basin, the channel beacon lights and marking points became unclear. To avoid boating accidents, the terminal authorities decided to suspend ferry services on the route from 5:45 am.",
-        "hook_bn": "ঘন কুয়াশায় পাটুরিয়া-দৌলতদিয়া ফেরি চলাচল বন্ধ",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": null
+        "details_bn": "পরিকল্পনা বিভাগের এনইসি-একনেক ও সমন্বয়... বি-এর তথ্য অনুযায়ী, বাংলাদেশ সচিবালয়ে মন্ত্রিসভা কক্ষে সকাল ১০টায় সভাটি অনুষ্ঠিত হবে।",
+        "details_en": "According to the NEC-ECNEC and Coordination wing of the Planning Division, the meeting will be held at the Cabinet Room in Bangladesh Secretariat at 10 am.",
+        "hook_bn": "একনেক সভায় উঠছে ২১ প্রকল্প",
+        "kicker_bn": "একনেক সভা",
+        "share_value": false,
+        "question_bn": "একনেক সভায় নতুন প্রকল্প অনুমোদন নিয়ে আপনার মতামত কী?"
       },
       "desk_importance": 7.0,
       "outlet_count": 3,
       "trending": false,
-      "social_appeal": 8.0,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-18T03:02:08.346823+00:00"
+        "checked_at": "2026-11-18T04:02:26.989328+00:00"
       }
     },
     {
-      "story_id": "14e69f4d-8bc8-5ccf-ad82-0df17a437555",
+      "story_id": "d49b111a-b7eb-5666-8169-c2ef255a8152",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -94,60 +95,372 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1531353826977-0941b4779a1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8c2xlZXBpbmclMjBoZWxwZXIlMjBraWxsZWQlMjBtaXNjcmVhbnRzJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk0OTcwODkwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1775594899196-ee3d9f882c48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFubmVkJTIwY2hoYXRyYSUyMGxlYWd1ZSUyMGxlYWRlciUyMGdvdmVybm1lbnR8ZW58MXwwfHx8MTc5NDk3NDUxOHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-18T02:42:57+00:00",
+      "published_at": "2026-11-18T03:55:30+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.8141,
+      "importance_score": 7.25,
+      "rank_score": 5.2254,
       "sources": [
         {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821620/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A7%9F-%E0%A6%95%E0%A6%95%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%B8%E0%A6%B9-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%80%E0%A6%97-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE",
+          "title": "ঢাকায় ককটেলসহ কার্যক্রম নিষিদ্ধ ছাত্রলীগ নেতা গ্রেপ্তার",
+          "snippet": "ঢাকায় ককটেলসহ কার্যক্রম নিষিদ্ধ ছাত্রলীগ নেতা গ্রেপ্তার"
+        },
+        {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1180730",
-          "title": "পিরোজপুরে দুই বাসে দুর্বৃত্তের আগুন, প্রাণ গেল ঘুমন্ত হেলপারের",
-          "snippet": "পিরোজপুরে দুই বাসে দুর্বৃত্তের আগুন, প্রাণ গেল ঘুমন্ত হেলপারের"
+          "url": "https://www.jagonews24.com/national/news/1180737",
+          "title": "ঢাকায় ককটেলসহ নিষিদ্ধ ছাত্রলীগ নেতা গ্রেফতার",
+          "snippet": "ঢাকায় ককটেলসহ নিষিদ্ধ ছাত্রলীগ নেতা গ্রেফতার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পিরোজপুরের ভান্ডারিয়ায় থামিয়ে রাখা দুই বাসে আগুন, ঘুমন্ত হেলপারের মৃত্যু",
-        "title_en": "Sleeping helper killed as miscreants set fire to two parked buses in Pirojpur",
-        "summary_bn": "পিরোজপুরের ভান্ডারিয়ায় থামিয়ে রাখা দুটি বাসে দুর্বৃত্তদের দেওয়া আগুনে ঘুমন্ত অবস্থায় মো. সিয়াম নামের এক হেলপার নিহত হয়েছেন।",
-        "summary_en": "A sleeping helper named Md Siyam was killed when miscreants set fire to two parked buses in Bhandaria, Pirojpur.",
+        "title_bn": "মোহাম্মদপুর থেকে ককটেলসহ নিষিদ্ধ ছাত্রলীগ নেতা মহসিন গ্রেপ্তার",
+        "title_en": "Banned Chhatra League leader Mohsin arrested with cocktails in Mohammadpur",
+        "summary_bn": "পুলিশ জানিয়েছে, রাজধানীর মোহাম্মদপুর থেকে দুটি অবিস্ফোরিত ককটেলসহ কার্যক্রম নিষিদ্ধ ছাত্রলীগের পটুয়াখালী জেলা যুগ্ম সাধারণ সম্পাদক মহসিনকে গ্রেপ্তার করা হয়েছে।",
+        "summary_en": "Police say Mohsin, joint general secretary of the banned Chhatra League's Patuakhali district unit, was arrested with two unexploded cocktails in Mohammadpur.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T02:42:57+00:00",
-        "lead_bn": "পিরোজপুরের ভান্ডারিয়ায় থামিয়ে রাখা দুটি বাসে দুর্বৃত্তদের দেওয়া আগুনে ঘুমন্ত অবস্থায় মো. সিয়াম নামের এক হেলপার নিহত হয়েছেন।",
-        "lead_en": "A sleeping helper named Md Siyam was killed when miscreants set fire to two parked buses in Bhandaria, Pirojpur.",
+        "published_at": "2026-11-18T03:55:30+00:00",
+        "lead_bn": "পুলিশ জানিয়েছে, রাজধানীর মোহাম্মদপুর থেকে দুটি অবিস্ফোরিত ককটেলসহ কার্যক্রম নিষিদ্ধ ছাত্রলীগের পটুয়াখালী জেলা যুগ্ম সাধারণ সম্পাদক মহসিনকে গ্রেপ্তার করা হয়েছে।",
+        "lead_en": "Police say Mohsin, joint general secretary of the banned Chhatra League's Patuakhali district unit, was arrested with two unexploded cocktails in Mohammadpur.",
         "bullets_bn": [
-          "ঘটনাটি ঘটেছে ১৮ নভেম্বর ভোর ৪টার দিকে ভান্ডারিয়া এলাকায়।",
-          "নিহত মো. সিয়াম বাস দুটিতে হেলপার হিসেবে কাজ করতেন।",
-          "বাস দুটি থামিয়ে রাখা অবস্থায় দুর্বৃত্তরা আগুন দেয়।"
+          "পুলিশের তথ্য অনুযায়ী মহসিনের বয়স ২৫ বছর।",
+          "১৭ নভেম্বর দিবাগত রাত ৩টা ১০ মিনিটের দিকে তাকে আটক করা হয়।",
+          "মোহাম্মাদপুরের নূরজাহান রোডের তেহারি ঘর নামের একটি খাবার হোটেল থেকে তাকে আটক করা হয়।"
         ],
         "bullets_en": [
-          "The incident took place around 4 am on 18 November in the Bhandaria area.",
-          "The deceased Md Siyam worked as a helper on the two buses.",
-          "Miscreants set fire to the buses while they were parked."
+          "According to police information, Mohsin is 25 years old.",
+          "He was detained at around 3:10 am on the night of 17 November.",
+          "He was detained from a food hotel named Tehari Ghor on Nurjahan Road in Mohammadpur."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "ভান্ডারিয়ায় বাসে আগুন, ঘুমন্ত হেলপারের মৃত্যু",
+        "details_bn": "পুলিশের তথ্য অনুযায়ী, মহসিন পটুয়াখালী জেলা ছাত্রলীগের যুগ্ম সাধারণ সম্পাদক এবং তিনি মোহাম্মদপুর এলাকায় অবস্থান করছিলেন। গোপন সংবাদের ভিত্তিতে পুলিশ অভিযান চালিয়ে নূরজাহান রোডের একটি খাবার হোটেল থেকে তাকে আটক করে।",
+        "details_en": "According to police information, Mohsin is the joint general secretary of Patuakhali district Chhatra League and was staying in the Mohammadpur area. Based on confidential information, police conducted a drive and detained him from a food hotel on Nurjahan Road.",
+        "hook_bn": "মোহাম্মদপুরে ককটেলসহ নিষিদ্ধ ছাত্রলীগ নেতা গ্রেপ্তার",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 7.0,
-      "outlet_count": 1,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-18T04:02:26.989328+00:00"
+      }
+    },
+    {
+      "story_id": "adba2c43-285f-509c-983e-767da54ffedc",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "society_education",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/5850e2c91738ca3380c5e63343b69ea1c8b5c6f2/0_575_1080_864/master/1080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f376b9823f47889042b3fd9f73fed6a1",
+      "image_caption": null,
+      "published_at": "2026-11-18T02:33:21+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.25,
+      "rank_score": 4.8281,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/nov/17/san-francisco-bay-area-waterspouts",
+          "title": "Tag team: dual waterspouts appear in San Francisco Bay amid stormy weather",
+          "snippet": "Tag team: dual waterspouts appear in San Francisco Bay amid stormy weather"
+        },
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/4av9xqm6lj",
+          "title": "লন্ডনে সহিংসতার নিন্দায় বাংলাদেশ সরকার, দায়ীদের বিচারের আওতায় আনতে যুক্তরাজ্যের প্রতি আহ্বান",
+          "snippet": "লন্ডনে সহিংসতার নিন্দায় বাংলাদেশ সরকার, দায়ীদের বিচারের আওতায় আনতে যুক্তরাজ্যের প্রতি আহ্বান"
+        },
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/national/post-1222240/",
+          "title": "লন্ডনে আ.লীগের সহিংসতা: বাংলাদেশিদের বিতাড়নের দাবি ব্রিটিশ এমপির",
+          "snippet": "লন্ডনে আ.লীগের সহিংসতা: বাংলাদেশিদের বিতাড়নের দাবি ব্রিটিশ এমপির"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "লন্ডনে বাংলাদেশিদের ওপর হামলার ঘটনায় যুক্তরাজ্যের প্রতি বিচার দাবি সরকারের",
+        "title_en": "Bangladesh government urges UK to bring London attack perpetrators to justice",
+        "summary_bn": "লন্ডনে নাগরিক সংবর্ধনায় অংশ নেওয়া বাংলাদেশিদের ওপর হামলার ঘটনায় নিন্দা জানিয়ে জড়িতদের বিচারের আওতায় আনতে যুক্তরাজ্যের প্রতি আহ্বান জানিয়েছে বাংলাদেশ সরকার।",
+        "summary_en": "The Bangladesh government condemned the attack on Bangladeshis attending a citizens reception in London and urged the UK to bring the perpetrators to justice.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T02:33:21+00:00",
+        "lead_bn": "লন্ডনে নাগরিক সংবর্ধনায় অংশ নেওয়া বাংলাদেশিদের ওপর হামলার ঘটনায় নিন্দা জানিয়ে জড়িতদের বিচারের আওতায় আনতে যুক্তরাজ্যের প্রতি আহ্বান জানিয়েছে বাংলাদেশ সরকার।",
+        "lead_en": "The Bangladesh government condemned the attack on Bangladeshis attending a citizens reception in London and urged the UK to bring the perpetrators to justice.",
+        "bullets_bn": [
+          "পররাষ্ট্র মন্ত্রণালয়ের বিবৃতিতে বলা হয়, নাহিদ ইসলামের সম্মানে আয়োজিত নাগরিক সংবর্ধনায় অংশ নেওয়া বাংলাদেশিদের ওপর হামলা চালানো হয়।",
+          "এই হামলায় প্রায় ১০ জন আহত হয়েছেন বলে পররাষ্ট্র মন্ত্রণালয়ের বিবৃতিতে জানানো হয়েছে।",
+          "যুক্তরাজ্যের রাজধানী লন্ডনে জাতীয় নাগরিক পার্টির নেতাকর্মীদের ওপর এই হামলার ঘটনা ঘটে।"
+        ],
+        "bullets_en": [
+          "The foreign ministry statement said the attack targeted Bangladeshis attending a citizens reception held in honor of Nahid Islam.",
+          "The foreign ministry statement reported that about 10 people were injured in the attack.",
+          "The attack took place against members of the National Citizen Party in the UK capital, London."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "যুক্তরাজ্যের রাজধানী লন্ডনে জাতীয় নাগরিক পার্টির নেতাকর্মীদের ওপর কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতাকর্মীদের হামলার ঘটনা ঘটে। এ ঘটনায় ব্রিটিশ সংসদ সদস্য রুপার্ট লো ও রিফর্ম ইউকের নেতা নাইজেল ফারাজসহ অভিবাসনবিরোধীরা সামাজিক যোগাযোগমাধ্যমে হামলার ভিডিও ছড়িয়ে তীব্র প্রতিক্রিয়া জানিয়েছেন।",
+        "details_en": "The incident involved attacks by members of the banned Awami League on National Citizen Party members in the UK capital, London. Anti-immigration figures including British MP Rupert Lowe and Reform UK leader Nigel Farage strongly reacted by spreading videos of the attacks on social media.",
+        "hook_bn": "লন্ডনে বাংলাদেশিদের ওপর হামলার তীব্র নিন্দা",
+        "kicker_bn": "নিন্দা ও আহ্বান",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 3,
       "trending": false,
       "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-18T03:02:08.346823+00:00"
+        "checked_at": "2026-11-18T04:02:26.989328+00:00"
+      }
+    },
+    {
+      "story_id": "2f2798cb-e277-5b18-886b-5f85f5c7e1cd",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#SAFFChampionship",
+        "#India",
+        "#Pakistan"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1706102005252-8597d88d411c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8aW5kaWElMjB3b24lMjBzYWZmJTIwdGl0bGUlMjBzcG9ydHN8ZW58MXwwfHx8MTc5NDk3NDUzM3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-18T02:20:10+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.25,
+      "rank_score": 4.7671,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/sport/football/424945/india-comeback-from-behind-against-pakistan-to-win",
+          "title": "India comeback from behind against Pakistan to win record-extending 10th SAFF title",
+          "snippet": "India comeback from behind against Pakistan to win record-extending 10th SAFF title"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821614/%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%93-%E0%A6%B8%E0%A6%BE%E0%A6%AB%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A7%9F%E0%A6%A8-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4-%C2%A0",
+          "title": "পাকিস্তানকে হারিয়ে আবারও সাফের চ্যাম্পিয়ন ভারত",
+          "snippet": "পাকিস্তানকে হারিয়ে আবারও সাফের চ্যাম্পিয়ন ভারত"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পাকিস্তানকে হারিয়ে সাফের চ্যাম্পিয়ন হলো ভারত",
+        "title_en": "India won the SAFF title by beating Pakistan",
+        "summary_bn": "চিরপ্রতিদ্বন্দ্বী পাকিস্তানকে ২-১ গোলে হারিয়ে রেকর্ড দশমবারের মতো সাফ চ্যাম্পিয়নশিপের শিরোপা জিতেছে ভারত।",
+        "summary_en": "India beat arch-rivals Pakistan 2-1 and clinched their record-extending 10th SAFF Championship title.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T02:20:10+00:00",
+        "lead_bn": "চিরপ্রতিদ্বন্দ্বী পাকিস্তানকে ২-১ গোলে হারিয়ে রেকর্ড দশমবারের মতো সাফ চ্যাম্পিয়নশিপের শিরোপা জিতেছে ভারত।",
+        "lead_en": "India beat arch-rivals Pakistan 2-1 and clinched their record-extending 10th SAFF Championship title.",
+        "bullets_bn": [
+          "সানদীপ মান্ডির ৮৮ মিনিটের জয়সূচক গোলে পাকিস্তানের প্রতিরোধ ভাঙে ভারত।",
+          "সুহাইল আহমেদ ভাট গোল করে সমতা ফিরিয়েছিলেন।",
+          "এর আগে দ্বিতীয়ার্ধে জুনায়েদ শাহ লাল কার্ড দেখে মাঠ ছাড়েন।"
+        ],
+        "bullets_en": [
+          "Sandip Mandi struck an 88th-minute winner to break Pakistan's resistance.",
+          "Suhail Ahmad Bhat restored parity with a goal.",
+          "Junaid Shah was shown a red card in the second half."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "জাতীয় স্টেডিয়ামে পিছিয়ে পড়েও দুর্দান্তভাবে ঘুরে দাঁড়িয়ে এই জয় তুলে নেয় ভারত। একইসঙ্গে টানা তৃতীয়বার আঞ্চলিক এই প্রতিযোগিতায় শিরোপা জয়ের কৃতিত্ব গড়েছে দলটি।",
+        "details_en": "India came from behind at the National Stadium to secure the win and became the first team to win the regional crown for a third consecutive time.",
+        "hook_bn": "পাকিস্তানকে হারিয়ে সাফের শিরোপা জিতল ভারত",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-18T04:02:26.989328+00:00"
+      }
+    },
+    {
+      "story_id": "23ece923-d549-5c4c-b324-5a07ced25329",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business",
+        "society_education"
+      ],
+      "region": "international",
+      "tags": [
+        "#Australia",
+        "#Israel",
+        "#WestBank"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/18/israel_illegal_settlements_west_bank.png",
+      "image_caption": null,
+      "published_at": "2026-11-18T03:45:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.25,
+      "rank_score": 2.7125,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/worldbiz/middle-east/australia-sanctions-israeli-settlers-organisations-over-west-bank-expansion",
+          "title": "Australia sanctions Israeli settlers, organisations over West Bank expansion",
+          "snippet": "Australia sanctions Israeli settlers, organisations over West Bank expansion"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/international/498811",
+          "title": "পশ্চিম তীরের ৩ ইসরায়েলি নাগরিক ও ৪ সংস্থাকে অস্ট্রেলিয়ার নিষেধাজ্ঞা",
+          "snippet": "পশ্চিম তীরের ৩ ইসরায়েলি নাগরিক ও ৪ সংস্থাকে অস্ট্রেলিয়ার নিষেধাজ্ঞা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পশ্চিম তীরের ৩ ইসরায়েলি নাগরিক ও ৪ সংস্থাকে অস্ট্রেলিয়ার নিষেধাজ্ঞা",
+        "title_en": "Australia sanctions Israeli settlers and organisations over West Bank expansion",
+        "summary_bn": "অবৈধ বসতি সম্প্রসারণ ও সহিংসতার অভিযোগে তিন ইসরায়েলি নাগরিক ও চার সংস্থাকে নিষেধাজ্ঞা দিয়েছে অস্ট্রেলিয়া।",
+        "summary_en": "Australia imposed sanctions on three Israeli individuals and four organisations for illegal settlement expansion and settler violence.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T03:45:00+00:00",
+        "lead_bn": "অবৈধ বসতি সম্প্রসারণ ও সহিংসতার অভিযোগে তিন ইসরায়েলি নাগরিক ও চার সংস্থাকে নিষেধাজ্ঞা দিয়েছে অস্ট্রেলিয়া।",
+        "lead_en": "Australia imposed sanctions on three Israeli individuals and four organisations for illegal settlement expansion and settler violence.",
+        "bullets_bn": [
+          "নিষেধাজ্ঞার আওতায় থাকা ব্যক্তি ও সংস্থাগুলো নতুন বসতি স্থাপনে অর্থায়ন এবং স্বেচ্ছাসেবক সংগ্রহের মতো কাজে যুক্ত ছিল।",
+          "অস্ট্রেলিয়ার পররাষ্ট্রমন্ত্রী পেনি ওং জানিয়েছেন, এই পদক্ষেপগুলো দ্বি-রাষ্ট্র সমাধানের সম্ভাবনাকে ধ্বংস করছে।",
+          "নিষেধাজ্ঞার ফলে অস্ট্রেলীয় নাগরিক ও ব্যবসায়িক প্রতিষ্ঠানগুলো অভিযুক্ত ব্যক্তি ও সংস্থাগুলোর সঙ্গে ব্যবসা বা সহায়তা করতে পারবে না।"
+        ],
+        "bullets_en": [
+          "The sanctioned individuals and organisations actively participated in planning new settlements, raising funds, and recruiting volunteers.",
+          "Australian Foreign Minister Penny Wong stated that these actions were extinguishing the possibility of a two-state solution.",
+          "The measures prohibit Australians and Australian businesses from trading with or providing support to the sanctioned entities."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "যুক্তরাজ্য দখলকৃত পশ্চিম তীরের বসতি নির্মাণের সঙ্গে জড়িত আটটি ইসরায়েলি নির্মাণ সংস্থাকে নিষেধাজ্ঞা দেওয়ার পর অস্ট্রেলিয়া এই পদক্ষেপ নিল। জাতিসংঘের হিসাব অনুযায়ী অধিকাংশ দেশ এসব বসতিকে অবৈধ মনে করে, যা ইসরায়েল অস্বীকার করে। সাম্প্রতিক সপ্তাহগুলোতে ই১ বসতি প্রকল্পের সহিংসতা দ্বি-রাষ্ট্রের সম্ভাবনাকে দুর্বল করেছে।",
+        "details_en": "Australia's move follows the United Kingdom's decision to sanction eight Israeli construction companies involved in building settlements. UN bodies and most countries deem the settlements illegal, a position Israel disputes. Violence at the E1 settlement project in recent weeks has undermined the prospect of a two-state solution.",
+        "hook_bn": "পশ্চিম তীরের ৩ ইসরায়েলি নাগরিক ও ৪ সংস্থায় নিষেধাজ্ঞা",
+        "kicker_bn": "নিষেধাজ্ঞা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 3.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-18T04:02:26.989328+00:00"
+      }
+    },
+    {
+      "story_id": "e8c19610-d22b-5467-9d27-01a707128e6e",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1592495989226-03f88104f8cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bW9udGhzJTIwc2F3JTIwcGVyY2VudCUyMHJlbWl0dGFuY2UlMjBidXNpbmVzc3xlbnwxfDB8fHwxNzk0OTc0NTQ2fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-18T03:23:16+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.4695,
+      "sources": [
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821617/%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%80-%E0%A6%86%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A7%AA%E0%A7%AA.%E0%A7%AC-%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%82%E0%A6%B6-%E0%A6%8F%E0%A6%B8%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%9B%E0%A7%9F-%E0%A6%89%E0%A6%AA%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A7%80%E0%A7%9F",
+          "title": "চার মাসে প্রবাসী আয়ের ৪৪.৬ শতাংশ এসেছে ছয় উপসাগরীয় দেশ থেকে",
+          "snippet": "চার মাসে প্রবাসী আয়ের ৪৪.৬ শতাংশ এসেছে ছয় উপসাগরীয় দেশ থেকে"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "চার মাসে উপসাগরীয় দেশ থেকে এসেছে ৪৪.৬ শতাংশ প্রবাসী আয়।",
+        "title_en": "Four months saw 44.6 percent of remittance from Gulf nations.",
+        "summary_bn": "চলতি ২০২৬-২৭ অর্থবছরের প্রথম চার মাসে দেশে আসা প্রবাসী আয়ের ৪৪ দশমিক ৬ শতাংশ এসেছে মধ্যপ্রাচ্যের ছয়টি উপসাগরীয় দেশ থেকে।",
+        "summary_en": "During the first four months of the current 2026-27 fiscal year, 44.6 percent of incoming remittance came from six Gulf countries.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T03:23:16+00:00",
+        "lead_bn": "চলতি ২০২৬-২৭ অর্থবছরের প্রথম চার মাসে দেশে আসা প্রবাসী আয়ের ৪৪ দশমিক ৬ শতাংশ এসেছে মধ্যপ্রাচ্যের ছয়টি উপসাগরীয় দেশ থেকে।",
+        "lead_en": "During the first four months of the current 2026-27 fiscal year, 44.6 percent of incoming remittance came from six Gulf countries.",
+        "bullets_bn": [
+          "চলতি অর্থবছরের জুলাই থেকে অক্টোবর মাস পর্যন্ত সময়ে এই প্রবাসী আয় এসেছে।",
+          "উপসাগরীয় ছয়টি দেশের মধ্যে সৌদি আরব, সংযুক্ত আরব আমিরাত, কুয়েত, ওমান, কাতার ও বাহরাইন রয়েছে।",
+          "বাংলাদেশ ব্যাংকের তথ্য অনুযায়ী এই সময়ে দেশে মোট ১ হাজার ১৪৬... পরিমাণ প্রবাসী আয় এসেছে।"
+        ],
+        "bullets_en": [
+          "This remittance arrived during the period from July to October of the current fiscal year.",
+          "The six Gulf countries include Saudi Arabia, United Arab Emirates, Kuwait, Oman, Qatar, and Bahrain.",
+          "According to Bangladesh Bank data, a total of 1,146... amount of remittance arrived in the country during this time."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বাংলাদেশ ব্যাংকের তথ্য অনুযায়ী, জুলাই থেকে অক্টোবর পর্যন্ত দেশে মোট ১ হাজার ১৪৬... প্রবাসী আয় এসেছে। এতে বাংলাদেশের বৈদেশিক মুদ্রা অর্জনে মধ্যপ্রাচ্যের শ্রমবাজারের গুরুত্বপূর্ণ ভূমিকা আরও স্পষ্ট হয়েছে।",
+        "details_en": "According to Bangladesh Bank data, a total of 1,146... remittance arrived in the country from July to October. This further clarifies the important role of the Middle Eastern labor market in Bangladesh's foreign currency earnings.",
+        "hook_bn": "উপসাগরীয় দেশ থেকে এলো ৪৪ শতাংশ আয়",
+        "kicker_bn": "প্রবাসী আয়",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-18T04:02:26.989328+00:00"
       }
     }
   ]
