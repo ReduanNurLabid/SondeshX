@@ -1,230 +1,9 @@
 {
-  "updated_at": "2026-11-18T08:00:51.320347",
+  "updated_at": "2026-11-18T09:00:47.292424",
   "total_stories": 4,
   "stories": [
     {
-      "story_id": "c897e8fc-27c4-5ebd-bb65-48527a02d3a1",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#VladimirPutin",
-        "#DonaldTrump",
-        "#XiJinping",
-        "#APEC"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/18/china_apec_putin.png",
-      "image_caption": null,
-      "published_at": "2026-11-18T07:55:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.2,
-      "rank_score": 5.1322,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/worldbiz/china/russias-putin-says-he-expects-big-potential-benefit-meeting-trump-and-xi-1606356",
-          "title": "Russia's Putin says he expects 'big potential benefit' from meeting with Trump and Xi",
-          "snippet": "Russia's Putin says he expects 'big potential benefit' from meeting with Trump and Xi"
-        },
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-          "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
-          "snippet": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un"
-        },
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/xi-putin-meet-ahead-of-historic-trump-trilateral-summit/article71714533.ece",
-          "title": "Xi, Putin meet ahead of historic Trump trilateral summit",
-          "snippet": "Xi, Putin meet ahead of historic Trump trilateral summit"
-        },
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss",
-          "title": "What is Trump hoping to achieve at APEC meeting in China?",
-          "snippet": "What is Trump hoping to achieve at APEC meeting in China?"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ট্রাম্প ও শি জিনপিংয়ের সঙ্গে বৈঠকের বিষয়ে পুতিন আশাবাদী",
-        "title_en": "Putin expects big potential benefit from Trump and Xi meeting",
-        "summary_bn": "রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিন ডোনাল্ড ট্রাম্প এবং শি জিনপিংয়ের সঙ্গে ত্রিমুখী বৈঠক থেকে বড় ধরনের সম্ভাব্য সুবিধা প্রত্যাশার কথা জানিয়েছেন।",
-        "summary_en": "Russian President Vladimir Putin said he expected a big potential benefit from his trilateral meeting with US President Donald Trump and Chinese leader Xi Jinping.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-18T07:55:00+00:00",
-        "lead_bn": "রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিন ডোনাল্ড ট্রাম্প এবং শি জিনপিংয়ের সঙ্গে ত্রিমুখী বৈঠক থেকে বড় ধরনের সম্ভাব্য সুবিধা প্রত্যাশার কথা জানিয়েছেন।",
-        "lead_en": "Russian President Vladimir Putin said he expected a big potential benefit from his trilateral meeting with US President Donald Trump and Chinese leader Xi Jinping.",
-        "bullets_bn": [
-          "চীনের দক্ষিণ শহর শেনজেনে এপেক সিইও শীর্ষ সম্মেলনের উদ্বোধনী অনুষ্ঠানে পুতিন এই কথা বলেন।",
-          "চিন ও রাশিয়ার বৈদেশিক নীতি আন্তর্জাতিক পর্যায়ে ইতিবাচকভাবে কাজ করছে বলে পুতিন জানান।",
-          "বিশ্ব অর্থনীতি খণ্ডিত ও সামরিক ঝুঁকি রয়েছে উল্লেখ করে পুতিন বিচ্ছিন্নতার চেয়ে অংশীদারিত্বের ওপর জোর দেন।"
-        ],
-        "bullets_en": [
-          "Putin spoke at the opening ceremony of the APEC CEO summit in China's southern city of Shenzhen.",
-          "Putin said China and Russia's foreign policy partnership was working steadily and positively on the international stage.",
-          "Citing a fragmented global economy and military risks, Putin said partnership, rather than isolation, was necessary."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "ট্রাম্প ও শি জিনপিংয়ের সঙ্গে বৈঠকের প্রত্যাশা পুতিনের",
-        "kicker_bn": "এপেক সম্মেলন",
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-18T08:05:51.746897+00:00"
-      }
-    },
-    {
-      "story_id": "3409f860-2576-598c-8bce-7d39317cdc3d",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#BangladeshBank",
-        "#PadmaBank",
-        "#MostaqurRahman",
-        "#AriefHossainKhan"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/10/25/photo-output.jpeg",
-      "image_caption": null,
-      "published_at": "2026-11-18T07:10:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.4129,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/economy/banking/bangladesh-bank-approves-resolution-process-crisis-hit-padma-bank-1606326",
-          "title": "Bangladesh Bank approves resolution process for crisis-hit Padma Bank",
-          "snippet": "Bangladesh Bank approves resolution process for crisis-hit Padma Bank"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পদ্মা ব্যাংককে রেজুলেশন প্রক্রিয়ার আওতায় আনার অনুমোদন দিল বাংলাদেশ ব্যাংক",
-        "title_en": "Bangladesh Bank approves bringing Padma Bank under the bank resolution process",
-        "summary_bn": "বাংলাদেশ ব্যাংক সংকটগ্রস্ত পদ্মা ব্যাংককে রেজুলেশন প্রক্রিয়ার আওতায় আনার অনুমোদন দিয়েছে, যার ফলে ব্যাংকটির আর্থিক সমস্যা সমাধানে মার্জার বা লিকুইডেশনের পথ উন্মুক্ত হয়েছে।",
-        "summary_en": "Bangladesh Bank has approved bringing crisis-hit Padma Bank under the bank resolution process, paving the way for measures to address its financial troubles.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-18T07:10:00+00:00",
-        "lead_bn": "বাংলাদেশ ব্যাংক সংকটগ্রস্ত পদ্মা ব্যাংককে রেজুলেশন প্রক্রিয়ার আওতায় আনার অনুমোদন দিয়েছে, যার ফলে ব্যাংকটির আর্থিক সমস্যা সমাধানে মার্জার বা লিকুইডেশনের পথ উন্মুক্ত হয়েছে।",
-        "lead_en": "Bangladesh Bank has approved bringing crisis-hit Padma Bank under the bank resolution process, paving the way for measures to address its financial troubles.",
-        "bullets_bn": [
-          "বাংলাদেশ ব্যাংকের পর্ষদ সভায় ১৭ নভেম্বর এই সিদ্ধান্ত নেওয়া হয় এবং সভায় সভাপতিত্ব করেন গভর্নর মোস্তাকুর রহমান।",
-          "কেন্দ্রীয় ব্যাংকের মুখপাত্র ও নির্বাহী পরিচালক আরিফ হোসেন খান এই সিদ্ধান্ত নিশ্চিত করেছেন।",
-          "কোন রেজুলেশন পদ্ধতি প্রয়োগ করা হবে সে বিষয়ে এখনও কোনো সিদ্ধান্ত হয়নি এবং সংশ্লিষ্ট বিভাগ প্রস্তাব তৈরি করবে।"
-        ],
-        "bullets_en": [
-          "The decision was taken at a meeting of the central bank's Board of Directors on 17 November, chaired by Governor Mostaqur Rahman.",
-          "Bangladesh Bank spokesperson and Executive Director Arief Hossain Khan confirmed the decision.",
-          "No decision has yet been made on which resolution method will be applied, and a proposal will be prepared."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "পদ্মা ব্যাংক এমন কয়েকটি ঋণদাতা প্রতিষ্ঠানের মধ্যে রয়েছে যা ক্ষমতাচ্যুত আওয়ামী লীগ সরকারের সময় লুটপাট, অনিয়ম ও দুর্নীতির অভিযোগের মধ্যে পড়ে তীব্র আর্থিক সংকটে পড়েছিল। এর আগে রেজুলেশন প্রক্রিয়ার মাধ্যমে পাঁচটি ব্যাংকের একীভূতকরণের মাধ্যমে সম্মিলিত ইসলামী ব্যাংক গঠিত হয়েছিল এবং সরকার সেগুলিতে বিনিয়োগ করে সম্পূর্ণ মালিকানা গ্রহণ করেছিল।",
-        "details_en": "Padma Bank is among the lenders that fell into deep financial trouble amid allegations of looting, irregularities and corruption during the tenure of the ousted Awami League government. Earlier, Sammilito Islami Bank was formed through the merger of five banks under the resolution process, with the government taking full ownership through investments.",
-        "hook_bn": "'পদ্মা ব্যাংককে রেজুলেশনের আওতায় আনা হয়েছে'",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": "ব্যাংক খাতের বর্তমান সংকট দূর করতে এই ধরনের রেজুলেশন প্রক্রিয়া কতটা কার্যকর ভূমিকা রাখতে পারে বলে আপনি মনে করেন?"
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-18T08:05:51.746897+00:00"
-      }
-    },
-    {
-      "story_id": "1b5fe931-a7e8-5539-b697-c355f30deb9a",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#AwamiLeague",
-        "#Savar",
-        "#Ashulia",
-        "#Dhamrai"
-      ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-09/arrest_3%20%281%29%20%281%29_0.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-18T06:17:12+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.2438,
-      "sources": [
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/26-al-leaders-activists-arrested-savar-ashulia-and-dhamrai-4327016",
-          "title": "26 AL leaders, activists arrested in Savar, Ashulia and Dhamrai",
-          "snippet": "26 AL leaders, activists arrested in Savar, Ashulia and Dhamrai"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/424977/nearly-300-arrested-as-workers-unrest-spreads-in",
-          "title": "Nearly 300 arrested as workers' unrest spreads in Savar-Ashulia",
-          "snippet": "Nearly 300 arrested as workers' unrest spreads in Savar-Ashulia"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সাভার, আশুলিয়া ও ধামরাইয়ে ২৬ আওয়ামী লীগ নেতা-কর্মী গ্রেপ্তার",
-        "title_en": "26 Awami League leaders and activists arrested in Savar, Ashulia and Dhamrai",
-        "summary_bn": "নিষিদ্ধ আওয়ামী লীগ ও এর অঙ্গসংগঠনের ২৬ জন নেতা-কর্মীকে সাভার, আশুলিয়া ও ধামরাই থেকে গ্রেপ্তার করেছে পুলিশ।",
-        "summary_en": "Police have arrested 26 leaders and activists of the banned Awami League and its affiliated organisations in Savar, Ashulia and Dhamrai.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-18T06:17:12+00:00",
-        "lead_bn": "নিষিদ্ধ আওয়ামী লীগ ও এর অঙ্গসংগঠনের ২৬ জন নেতা-কর্মীকে সাভার, আশুলিয়া ও ধামরাই থেকে গ্রেপ্তার করেছে পুলিশ।",
-        "lead_en": "Police have arrested 26 leaders and activists of the banned Awami League and its affiliated organisations in Savar, Ashulia and Dhamrai.",
-        "bullets_bn": [
-          "আশুলিয়ায় ২২ জন, সাভারে তিনজন এবং ধামরাইয়ে একজনকে গ্রেপ্তার করা হয়েছে।",
-          "আশুলিয়া থানার ভারপ্রাপ্ত কর্মকর্তা মোহাম্মদ তারিকুল ইসলাম এবং সাভার মডেল থানার ভারপ্রাপ্ত কর্মকর্তা সাইফুল আলম এই গ্রেপ্তারের বিষয়টি নিশ্চিত করেছেন।",
-          "ধামরাই থানার ভারপ্রাপ্ত কর্মকর্তা নাজমুল হুদা খান জানিয়েছেন, গ্রেপ্তারকৃতদের আদালতে পাঠানো হবে।"
-        ],
-        "bullets_en": [
-          "Twenty-two were arrested in Ashulia, three in Savar and one in Dhamrai.",
-          "The arrests were confirmed by Mohammad Tariqul Islam, OC of Ashulia Police Station, and Saiful Alam, OC of Savar Model Police Station.",
-          "Nazmul Huda Khan, OC of Dhamrai Police Station, stated that the arrested individual would be sent to court."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "পৃথক অভিযানে আলাদা স্থান থেকে এসব নেতা-কর্মীকে গ্রেপ্তার করা হয়। সাভারে গ্রেপ্তারকৃতদের মধ্যে দুজন মানিকগঞ্জ জেলা যুবলীগের নেতা। এর পাশাপাশি সাভার ও আশুলিয়ায় শ্রমিক অসন্তোষের জেরে প্রায় তিনশ জনকে গ্রেপ্তারের ঘটনাও ঘটেছে এবং ২৪টি মামলা দায়ের হয়েছে।",
-        "details_en": "The leaders and activists were arrested in separate drives from different locations. Among those arrested in Savar are two leaders of the Manikganj district unit of Jubo League. Additionally, nearly 300 arrests and 24 cases have been reported in Savar and Ashulia in connection with labour unrest.",
-        "hook_bn": "সাভার ও আশুলিয়ায় ২৬ আওয়ামী লীগ নেতা গ্রেপ্তার",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-18T08:05:51.746897+00:00"
-      }
-    },
-    {
-      "story_id": "aa716d24-bc63-5659-b623-8b2a7d91ff51",
+      "story_id": "88511202-6832-5f2f-8484-331a180be1f1",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
@@ -232,29 +11,34 @@
       ],
       "region": "national",
       "tags": [
-        "#Sylhet",
-        "#MoglabazarPolice",
-        "#VehicleFire"
+        "#Gopalganj",
+        "#Tungipara"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/18/screenshot_2026-11-18_133124.png",
+      "image_url": "https://images.unsplash.com/photo-1693585172757-b9e057feb878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFybGlhbWVudCUyMGxhdyUyMGNvdXJ0JTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk0OTkyNTAxfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-18T07:25:00+00:00",
+      "published_at": "2026-11-18T09:01:03.484318+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.216,
+      "importance_score": 7.75,
+      "rank_score": 6.0043,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/one-arrested-while-attempting-set-vehicles-ablaze-sylhet-1606336",
-          "title": "One arrested while attempting to set vehicles ablaze in Sylhet",
-          "snippet": "One arrested while attempting to set vehicles ablaze in Sylhet"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/blockade-at-7-points-on-gopalganj-tungipara-road",
+          "title": "Blockade at 7 points on Gopalganj-Tungipara road",
+          "snippet": "Blockade at 7 points on Gopalganj-Tungipara road"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/blockade-continues-on-the-gopalganj-tungipara-road/",
+          "title": "গোপালগঞ্জ-টুঙ্গিপাড়া সড়কে অবরোধ চলছে",
+          "snippet": "গোপালগঞ্জ-টুঙ্গিপাড়া সড়কে অবরোধ চলছে"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সিলেটে চলন্ত গাড়িতে আগুন দেওয়ার চেষ্টার সময় একজন গ্রেপ্তার",
-        "title_en": "One arrested while attempting to set vehicles ablaze in Sylhet",
-        "summary_bn": "সিলেটে চলন্ত গাড়িতে আগুন দেওয়ার চেষ্টার সময় গত ১৭ নভেম্বর রাতে মো. জিল্লুর রহমান নামের এক ব্যক্তিকে গ্রেপ্তার করেছে পুলিশ।",
-        "summary_en": "Police arrested Md Zillur Rahman on the night of 17 November while he was attempting to set fire to moving vehicles in Sylhet.",
+        "title_bn": "গোপালগঞ্জ-টুঙ্গিপাড়া সড়কের অন্তত সাতটি স্থানে অবরোধ চলছে",
+        "title_en": "Blockade underway at 7 points on Gopalganj-Tungipara road",
+        "summary_bn": "নিষিদ্ধ ঘোষিত আওয়ামী লীগ ও কার্যক্রম নিষিদ্ধ ছাত্রলীগের নেতাকর্মীরা গোপালগঞ্জ-টুঙ্গিপাড়া সড়কের অন্তত সাতটি স্থানে অবরোধ কর্মসূচি পালন করছেন।",
+        "summary_en": "Leaders and activists of the banned Awami League and the banned Chhatra League are enforcing a blockade at least 7 points on the Gopalganj-Tungipara road.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -262,31 +46,265 @@
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T07:25:00+00:00",
-        "lead_bn": "সিলেটে চলন্ত গাড়িতে আগুন দেওয়ার চেষ্টার সময় গত ১৭ নভেম্বর রাতে মো. জিল্লুর রহমান নামের এক ব্যক্তিকে গ্রেপ্তার করেছে পুলিশ।",
-        "lead_en": "Police arrested Md Zillur Rahman on the night of 17 November while he was attempting to set fire to moving vehicles in Sylhet.",
+        "published_at": "2026-11-18T09:01:03.484318+00:00",
+        "lead_bn": "নিষিদ্ধ ঘোষিত আওয়ামী লীগ ও কার্যক্রম নিষিদ্ধ ছাত্রলীগের নেতাকর্মীরা গোপালগঞ্জ-টুঙ্গিপাড়া সড়কের অন্তত সাতটি স্থানে অবরোধ কর্মসূচি পালন করছেন।",
+        "lead_en": "Leaders and activists of the banned Awami League and the banned Chhatra League are enforcing a blockade at least 7 points on the Gopalganj-Tungipara road.",
         "bullets_bn": [
-          "সিলেটের মোগলাবাজার এলাকার একটি বাইপাস সড়কে পেট্রোল ঢালা টায়ার পুড়িয়ে গাড়িগুলোতে আগুন দেওয়ার চেষ্টা করা হয়।",
-          "মোগলাবাজার থানার ভারপ্রাপ্ত কর্মকর্তা মো. ইমাউল হক জানান, জিল্লুর রহমানকে জিজ্ঞাসাবাদ করা হচ্ছে।",
-          "বাকি আসামিদের শনাক্ত ও গ্রেপ্তারে অভিযান অব্যাহত রয়েছে বলে পুলিশ জানিয়েছে।"
+          "সন্ধ্যা থেকে এ অবরোধ কর্মসূচি শুরু হয়।",
+          "ও সড়কটিতে অবরোধ কর্মসূচি চলছে।",
+          "অবরোধের কারণে সড়কটিতে যান চলাচল ব্যাহত হচ্ছে।"
         ],
         "bullets_en": [
-          "The incident occurred on a bypass road in Sylhet's Moglabazar area using petrol-soaked tyres.",
-          "Moglabazar Police Station Officer-in-Charge Md Emaul Haque said Zillur was being interrogated.",
-          "Police stated that drives were under way to identify and arrest the remaining suspects."
+          "The blockade program started from Tuesday evening.",
+          "The blockade on the road is continuing on Wednesday.",
+          "Vehicular movement on the road is disrupted due to the blockade."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "পুলিশ জানায়, গত ১৭ নভেম্বর রাত সাড়ে এগারোটার দিকে শ্রীরামপুর পরাড়চক ট্রাক স্ট্যান্ডের কাছে বাইপাস সড়কে একটি নিষিদ্ধ সংগঠনের ১৫ থেকে ২০ জন কর্মী সমবেত হন। তারা টায়ারে পেট্রোল ঢেলে চলাচলকারী গাড়িগুলোতে আগুন দেওয়ার চেষ্টা করেন। খবর পেয়ে মোগলাবাজার থানার একটি দল ঘটনাস্থলে পৌঁছে মো. জিল্লুর রহমানকে হাতেনাতে ধরে ফেলে, তবে তার সহযোগীরা পালিয়ে যেতে সক্ষম হন। মোগলাবাজার এলাকার বাসিন্দা চল্লিশ বছর বয়সী জিল্লুর রহমানের পিতার নাম মৃত আব্দুল মতিন এবং তার বাসা নগরের বাদামবাগিচা এলাকায়।",
-        "details_en": "Police said 15 to 20 activists of a banned organisation gathered on the bypass road near Sreerampur Parairchak truck stand at around 11:30pm on 17 November. They poured petrol on tyres and attempted to set fire to passing vehicles. Acting on information, a team from Moglabazar Police Station reached the spot and caught Zillur red-handed, while his associates managed to escape. Zillur, 40, is the son of late Abdul Matin from the Badambagicha area of the city.",
-        "hook_bn": "সিলেটে চলন্ত গাড়িতে আগুন দেওয়ার চেষ্টা",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "গোপালগঞ্জ-টুঙ্গিপাড়া সড়কে অবরোধ চলছে",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": true,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-18T08:05:51.746897+00:00"
+        "checked_at": "2026-11-18T09:02:15.597513+00:00"
+      }
+    },
+    {
+      "story_id": "ae9ec666-9a2d-5413-a4da-162792b6cd0b",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.channelionline.com/2026/11/1794939431-7e64d1bfe1bf3a06a00dc24c91b07f2d.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-11-18T07:53:37+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.25,
+      "rank_score": 4.9242,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/faridpur-awami-league-activists-attack-krishak-dal/",
+          "title": "ফরিদপুরে আওয়ামী লীগের নেতাকর্মীদের হামলায় কৃষক দল নেতা নিহত",
+          "snippet": "ফরিদপুরে আওয়ামী লীগের নেতাকর্মীদের হামলায় কৃষক দল নেতা নিহত"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/country/498905",
+          "title": "ময়মনসিংহে স্বেচ্ছাসেবক দলের নেতা সুরুজ হত্যায় ৮ জনের নামে মামলা",
+          "snippet": "ময়মনসিংহে স্বেচ্ছাসেবক দলের নেতা সুরুজ হত্যায় ৮ জনের নামে মামলা"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/law-and-crime/981702/%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%95-%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AD%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A6%BF",
+          "title": "কার্যক্রম নিষিদ্ধ স্বেচ্ছাসেবক লীগের সভাপতি সাচ্চুর বাড়িতে ভাঙচুর-অগ্নিসংযোগ",
+          "snippet": "কার্যক্রম নিষিদ্ধ স্বেচ্ছাসেবক লীগের সভাপতি সাচ্চুর বাড়িতে ভাঙচুর-অগ্নিসংযোগ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ফরিদপুরে কৃষক দল নেতা রাজু মোল্লা নিহত",
+        "title_en": "Krishak Dal leader Raju Molla killed in Faridpur",
+        "summary_bn": "ফরিদপুরের ভাঙ্গায় কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতাকর্মীদের হামলায় রাজু মোল্লা নিহত হয়েছেন।",
+        "summary_en": "Krishak Dal leader Raju Molla was killed in an attack by banned Awami League activists in Faridpur's Bhanga.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T07:53:37+00:00",
+        "lead_bn": "ফরিদপুরের ভাঙ্গায় কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতাকর্মীদের হামলায় রাজু মোল্লা নিহত হয়েছেন।",
+        "lead_en": "Krishak Dal leader Raju Molla was killed in an attack by banned Awami League activists in Faridpur's Bhanga.",
+        "bullets_bn": [
+          "ঘটনাটি ঘটে ১৭ নভেম্বর রাত সোয়া ৯টার দিকে হামিরদী বাসস্ট্যান্ড এলাকায়।",
+          "হামলাকারীরা ঢাকা-বরিশাল মহাসড়ক অবরোধ করে বিএনপির কার্যালয়, যানবাহন ও মোটরসাইকেলে ভাঙচুর চালায়।",
+          "হামলাকারীদের ছোড়া ককটেলের আঘাতে তিনি গুরুতর আহত হন এবং হাসপাতালে নেওয়ার পর চিকিৎসক তাকে মৃত ঘোষণা করেন।"
+        ],
+        "bullets_en": [
+          "The incident occurred around 9:15 pm on November 17 in the Hamirdi bus stand area.",
+          "Attackers blocked the Dhaka-Barishal highway and vandalized a BNP office, vehicles, and motorcycles.",
+          "He was seriously injured by a cocktail thrown by attackers and declared dead by a doctor at the hospital."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "১৭ নভেম্বর রাত সোয়া ৯টার দিকে হামিরদী বাসস্ট্যান্ড এলাকায় কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতাকর্মীরা একটি মিছিল বের করেন। এসময় তারা ঢাকা-বরিশাল মহাসড়ক অবরোধ করে মিছিল করেন এবং স্থানীয় বিএনপির কার্যালয়ে ভাঙচুর চালান। পাশাপাশি কয়েকটি যানবাহন ভাঙচুর, মোটরসাইকেলে অগ্নিসংযোগ ও ককটেল বিস্ফোরণের ঘটনা ঘটে। রাজু মোল্লাকে একা পেয়ে হামলা চালানো হলে তিনি ককটেলে গুরুতর আহত হন এবং ভাঙ্গা উপজেলা স্বাস্থ্য কমপ্লেক্সে নেওয়ার পর মারা যান। ঘটনার পর মহাসড়কে যান চলাচল বন্ধ হয়ে যায় এবং এলাকায় উত্তেজনা বিরাজ করায় পুলিশ পরিস্থিতি স্বাভাবিক রাখতে কাজ করছে।",
+        "details_en": "On the night of November 17 around 9:15 pm, banned Awami League activists brought out a procession in the Hamirdi bus stand area, blocking the Dhaka-Barishal highway and vandalizing a local BNP office, vehicles, and a motorcycle while exploding cocktails. Raju Molla was attacked alone, injured by a cocktail, and declared dead after being taken to Bhanga Upazila Health Complex. Traffic on the highway was halted and tension prevailed in the area following the incident, with police working to keep the situation normal.",
+        "hook_bn": "ভাঙ্গায় কৃষক দল নেতা নিহত",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-18T09:02:15.597513+00:00"
+      }
+    },
+    {
+      "story_id": "98c1b1bb-112c-5464-bd63-41629529503f",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business",
+        "climate_environment"
+      ],
+      "region": "international",
+      "tags": [
+        "#UKInflation",
+        "#MiddleEastWar",
+        "#FuelPrices"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/8ae5d123fc8871ebf2d020abb219f5c9483c3014/969_14_6501_5202/master/6501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d28508aad2cdd1ea03eac433fdfb3f8c",
+      "image_caption": null,
+      "published_at": "2026-11-18T07:44:21+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.5,
+      "rank_score": 3.9229,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
+          "title": "UK inflation rises to 3.6% after petrol and diesel prices hit record high",
+          "snippet": "UK inflation rises to 3.6% after petrol and diesel prices hit record high"
+        },
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/bahrain-kuwait-attacked-after-us-strikes-iranian-island/article71714916.ece",
+          "title": "Bahrain, Kuwait attacked after U.S. strikes Iranian island",
+          "snippet": "Bahrain, Kuwait attacked after U.S. strikes Iranian island"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যুক্তরাজ্যে মুদ্রাস্ফীতি বেড়ে ৩.৬ শতাংশ হয়েছে",
+        "title_en": "UK inflation rises to 3.6% after record high fuel prices",
+        "summary_bn": "মধ্যপ্রাচ্যের যুদ্ধের প্রভাবে পেট্রোল ও ডিজেলের দাম রেকর্ড মাত্রায় পৌঁছানোর কারণে অক্টোবরে যুক্তরাজ্যের মুদ্রাস্ফীতি বেড়ে ৩.৬ শতাংশ হয়েছে।",
+        "summary_en": "Inflation in the UK rose to 3.6% in October after petrol prices rose and diesel hit a record high.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T07:44:21+00:00",
+        "lead_bn": "মধ্যপ্রাচ্যের যুদ্ধের প্রভাবে পেট্রোল ও ডিজেলের দাম রেকর্ড মাত্রায় পৌঁছানোর কারণে অক্টোবরে যুক্তরাজ্যের মুদ্রাস্ফীতি বেড়ে ৩.৬ শতাংশ হয়েছে।",
+        "lead_en": "Inflation in the UK rose to 3.6% in October after petrol prices rose and diesel hit a record high.",
+        "bullets_bn": [
+          "অফিস ফর ন্যাশনাল স্ট্যাটিকস জানিয়েছে, সেপ্টেম্বরে মুদ্রাস্ফীতির হার ছিল ৩.৫ শতাংশ যা সিটি অর্থনীতিবিদদের পূর্বাভাসের সাথে মিলে গেছে।",
+          "ওএনএস প্রধান অর্থনীতিবিদ গ্রান্ট ফিটজনার জানান, জ্বালানির দাম বার্ষিক হার বৃদ্ধির পেছনে একটি প্রধান অবদান রেখেছে।",
+          "পেট্রোলের গড় দাম লিটারপ্রতি ৫.২ পয়সা বেড়ে ১৭৪.৭ পয়সা এবং ডিজেলের দাম লিটারপ্রতি ৭ পয়সা বেড়ে ১৯৯.৫ পয়সা হয়েছে।"
+        ],
+        "bullets_en": [
+          "Figures from the Office for National Statistics show the headline rate rose from 3.5% in September.",
+          "Grant Fitzner said inflation rose slightly in October with fuel prices once again a major contributor.",
+          "The average price of petrol rose to 174.7p a litre and diesel prices rose to 199.5p a litre."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "যুক্তরাজ্যে মুদ্রাস্ফীতি বেড়ে ৩.৬ শতাংশ",
+        "kicker_bn": "দাম বাড়ছে",
+        "share_value": false,
+        "question_bn": "আপনার এলাকায় জ্বালানির দামের পরিস্থিতি কেমন?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": true,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-18T09:02:15.597513+00:00"
+      }
+    },
+    {
+      "story_id": "25bd2af6-794a-5ae9-b8cf-c295acf17dc1",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-18%2Fx2qyke9o%2FDNCC.jpeg?rect=0%2C234%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-18T08:37:18+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.75,
+      "rank_score": 4.4518,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/capital/vq0417oalz",
+          "title": "ডিএনসিসি প্রশাসক মিল্টনের ব্যক্তিগত কার্যালয়ের নিচে হামলা–ভাঙচুর",
+          "snippet": "ডিএনসিসি প্রশাসক মিল্টনের ব্যক্তিগত কার্যালয়ের নিচে হামলা–ভাঙচুর"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/several-injured-as-dhaka-north-administrators-office-attacked-vandalised-in-mirpur",
+          "title": "Several hurt in attack on Dhaka North administrator's office",
+          "snippet": "Several hurt in attack on Dhaka North administrator's office"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মিরপুরে ঢাকা উত্তর সিটি করপোরেশনের প্রশাসকের কার্যালয়ের নিচে হামলা",
+        "title_en": "Attack on Dhaka North administrator's office in Mirpur",
+        "summary_bn": "রাজধানীর মিরপুর ১৩ নম্বরে ঢাকা উত্তর সিটি করপোরেশনের প্রশাসকের ব্যক্তিগত কার্যালয়ের নিচে হামলা ও ভাঙচুরের ঘটনায় দুজন আহত হয়ে হাসপাতালে ভর্তি হয়েছেন।",
+        "summary_en": "Two people were injured and hospitalized following an attack and vandalism below the personal office of the Dhaka North City Corporation administrator in Mirpur 13.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T08:37:18+00:00",
+        "lead_bn": "রাজধানীর মিরপুর ১৩ নম্বরে ঢাকা উত্তর সিটি করপোরেশনের প্রশাসকের ব্যক্তিগত কার্যালয়ের নিচে হামলা ও ভাঙচুরের ঘটনায় দুজন আহত হয়ে হাসপাতালে ভর্তি হয়েছেন।",
+        "lead_en": "Two people were injured and hospitalized following an attack and vandalism below the personal office of the Dhaka North City Corporation administrator in Mirpur 13.",
+        "bullets_bn": [
+          "সকাল ৯টার দিকে মিরপুর ১৪ নম্বরের দিক থেকে ১০০ থেকে ১৫০ জনের একটি দল লাঠি ও দেশীয় অস্ত্র নিয়ে ভবনে হামলা চালায়।",
+          "পুলিশ জানায়, পোশাকশ্রমিকদের দুই পক্ষের সংঘর্ষের কারণে ভবনের নিচতলায় এই হামলা হয়েছে এবং এর সঙ্গে কোনো রাজনৈতিক যোগসূত্র নেই।",
+          "ডিএমপির মিরপুর বিভাগের উপকমিশনার হাসান মোহাম্মাদ নাছের রিকাবদার জানিয়েছেন, যারা এ কাজ করেছে তাদের বিরুদ্ধে আইনগত ব্যবস্থা নেওয়া হবে।"
+        ],
+        "bullets_en": [
+          "A group of 100 to 150 people carrying sticks and local weapons attacked the building from the direction of Mirpur 14 at around 9 am.",
+          "Police stated that the attack on the ground floor occurred due to a clash between two factions of garment workers and has no political link.",
+          "DMP Mirpur division Deputy Commissioner Hasan Mohammad Nasser Rikabdar stated that legal action will be taken against those who carried out this act."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "কয়েক দিন ধরে পোশাকশ্রমিকেরা আন্দোলন করছেন। এর অংশ হিসেবে সকালে মিরপুর ১৪ নম্বর এলাকার দুটি কারখানায় শ্রমিকদের ভেতরে মতবিরোধ হয়। এক পক্ষ কাজে যোগ দিতে চায়, অন্য পক্ষ চায় না। একপর্যায়ে দুই পক্ষ কারখানার বাইরে বেরিয়ে এলে কাজ করতে চাওয়া পক্ষ ময়মনসিংহ ভবনের নিচে আশ্রয় নেয় এবং অন্য পক্ষের ইটপাটকেল নিক্ষেপে কয়েকজন আহত হন ও ভবনের কাচ ভেঙে পড়ে।",
+        "details_en": "Garment workers have been agitating for several days. As part of this, a disagreement arose among workers in two factories in the Mirpur 14 area, where one faction wanted to join work and the other did not. When both factions came out of the factories, the faction wanting to work took shelter under the Mymensingh building, where stone-pelting by the opposing faction injured several people and broke the building's glass.",
+        "hook_bn": "মিরপুরে প্রশাসকের কার্যালয়ের নিচে হামলা",
+        "kicker_bn": "হামলা ও ভাঙচুর",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": true,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-18T09:02:15.597513+00:00"
       }
     }
   ]
