@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { storyPath } from '../utils/seo';
+import { StoryLink } from './StoryLink';
 import { useApp } from '../context/AppContext';
 import { CapsuleStory } from '../types';
 import { formatRelativeTime, getLocalizedCategory, toBanglaDigits } from '../utils/bilingual';
@@ -178,11 +179,8 @@ export const BroadsheetFrontPage: React.FC = () => {
                     </span>
                   </div>
 
-                  <h2 
-                    onClick={() => openStory(story)}
-                    className="font-serif text-lg sm:text-[19px] leading-[1.3] text-primary font-bold hover:text-secondary transition-colors cursor-pointer mb-2.5"
-                  >
-                    {title}
+                  <h2 className="font-serif text-lg sm:text-[19px] leading-[1.3] text-primary font-bold hover:text-secondary transition-colors cursor-pointer mb-2.5">
+                    <StoryLink story={story}>{title}</StoryLink>
                   </h2>
 
                   {/* Thumbnail if present for second story */}
@@ -278,11 +276,8 @@ export const BroadsheetFrontPage: React.FC = () => {
               </div>
 
               {/* Hero Headline */}
-              <h1 
-                onClick={() => openStory(heroStory)}
-                className="font-serif text-2xl sm:text-3xl lg:text-[34px] leading-[1.15] text-primary font-bold tracking-tight mb-2 hover:text-secondary cursor-pointer transition-colors"
-              >
-                {getTitle(heroStory)}
+              <h1 className="font-serif text-2xl sm:text-3xl lg:text-[34px] leading-[1.15] text-primary font-bold tracking-tight mb-2 hover:text-secondary cursor-pointer transition-colors">
+                <StoryLink story={heroStory}>{getTitle(heroStory)}</StoryLink>
               </h1>
 
               {/* Lead / Subhead */}
@@ -491,11 +486,8 @@ export const BroadsheetFrontPage: React.FC = () => {
                       </span>
                     </div>
 
-                    <h4 
-                      onClick={() => openStory(wire)}
-                      className="font-serif text-sm font-bold text-primary hover:text-secondary cursor-pointer leading-snug mb-1.5 transition-colors"
-                    >
-                      {title}
+                    <h4 className="font-serif text-sm font-bold text-primary hover:text-secondary cursor-pointer leading-snug mb-1.5 transition-colors">
+                      <StoryLink story={wire}>{title}</StoryLink>
                     </h4>
 
                     {/* Condensed Takeaways */}
@@ -570,11 +562,8 @@ export const BroadsheetFrontPage: React.FC = () => {
                   </span>
                 </div>
 
-                <h3 
-                  onClick={() => openStory(story)}
-                  className="font-serif text-lg font-bold text-primary hover:text-secondary transition-colors cursor-pointer mb-2.5 leading-snug"
-                >
-                  {title}
+                <h3 className="font-serif text-lg font-bold text-primary hover:text-secondary transition-colors cursor-pointer mb-2.5 leading-snug">
+                  <StoryLink story={story}>{title}</StoryLink>
                 </h3>
 
                 {story.image_url && (

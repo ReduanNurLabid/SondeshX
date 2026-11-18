@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { storyPath } from '../utils/seo';
 import { CapsuleStory } from '../types';
 import { useApp } from '../context/AppContext';
+import { StoryLink } from './StoryLink';
 import { 
   getLocalizedCategory, 
   formatRelativeTime, 
@@ -124,7 +125,7 @@ export const StoryCard: React.FC<StoryCardProps> = ({ story, featured = false })
 
         {/* Headline */}
         <h3 className="font-serif text-lg font-bold text-primary group-hover:text-secondary transition-colors leading-snug mb-2.5">
-          {title}
+          <StoryLink story={story}>{title}</StoryLink>
         </h3>
 
         {/* Tier 1: Key Takeway */}

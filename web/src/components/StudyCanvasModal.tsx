@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { storyPath } from '../utils/seo';
 import { useApp } from '../context/AppContext';
+import { StoryLink } from './StoryLink';
 import { 
   getLocalizedCategory, 
   formatRelativeTime, 
@@ -21,9 +22,26 @@ export const StudyCanvasModal: React.FC = () => {
     getVoteCount,
     hasVoted,
     toggleVote,
+    allStories,
   } = useApp();
 
   const [copied, setCopied] = useState(false);
+
+  // Five other recent stories: same section first, then the latest overall.
+  const moreStories = React.useMemo(() => {
+    if (!activeStory) return [];
+    const others = allStories
+      .filter((s) => s.story_id !== activeStory.story_id && s.daily_buzz?.title_bn)
+      .sort((a, b) => String(b.published_at).localeCompare(String(a.published_at)));
+    const same = others.filter((s) => s.primary_category === activeStory.primary_category);
+    const rest = others.filter((s) => s.primary_category !== activeStory.primary_category);
+    return [...same.slice(0, 3), ...rest].slice(0, 5);
+  }, [activeStory, allStories]);
+
+  // Opening another story from "More news" starts it from the top.
+  useEffect(() => {
+    document.getElementById('article-intelligence-dossier')?.scrollTo(0, 0);
+  }, [activeStory?.story_id]);
 
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
@@ -390,6 +408,25 @@ export const StudyCanvasModal: React.FC = () => {
           </button>
         </footer>
         {/* END: EngagementFooterControls */}
+
+        {/* More news: readers arriving from Facebook land here, so give them a next story. */}
+        {moreStories.length > 0 && (
+          <section className="mt-8 pt-4 border-t border-ink/20" data-purpose="more-stories">
+            <h2 className="font-serif text-lg font-bold text-ink mb-3">{isBn ? 'আরও খবর' : 'More news'}</h2>
+            <ul className="divide-y divide-ink/10">
+              {moreStories.map((s) => (
+                <li key={s.story_id} className="py-2.5">
+                  <StoryLink story={s} className="font-serif text-base font-semibold text-ink hover:text-accent-emerald leading-snug">
+                    {isBn ? s.daily_buzz.title_bn : (s.daily_buzz.title_en || s.daily_buzz.title_bn)}
+                  </StoryLink>
+                  <span className="block text-[11px] text-ink-muted mt-0.5">
+                    {getLocalizedCategory(s.primary_category, isBn)} • {formatRelativeTime(s.published_at, isBn)}
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
       </main>
       {/* END: ArticleReadingSheetModal */}
     </div>
