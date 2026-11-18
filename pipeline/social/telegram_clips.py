@@ -168,10 +168,11 @@ def handle_message(db, msg: dict, allowed: str, groups: Optional[dict] = None):
     text = msg.get("caption") or msg.get("text") or ""
     media = _media(msg)
     if not media:
-        if text.strip().startswith(("/reels", "/candidates")):
+        command = text.strip().lstrip("/／").lower()
+        if command.startswith(("reels", "candidates", "রিল")):
             if not send_digest(db, chat_id):
                 send(chat_id, "এখন রিলের মতো নতুন কোনো খবর নেই।")
-        elif text.strip().startswith(("/start", "/help")):
+        elif command.startswith(("start", "help")):
             send(chat_id, HELP_TEXT)
         return
     kind, file_id, size = media
