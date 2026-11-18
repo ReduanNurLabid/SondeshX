@@ -1,30 +1,32 @@
 {
-  "updated_at": "2026-11-18T16:00:46.242806",
-  "total_stories": 6,
+  "updated_at": "2026-11-18T17:00:44.599076",
+  "total_stories": 4,
   "stories": [
     {
-      "story_id": "1e194c62-de15-5589-88b9-c3bb2d651487",
+      "story_id": "0b36314c-8fcf-5d9b-9694-24e944301494",
       "primary_category": "society_education",
       "interest_categories": [
-        "society_education"
+        "society_education",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
+        "#UGC",
         "#DhakaUniversity",
-        "#AdmissionTest"
+        "#UniversityAdmission"
       ],
-      "image_url": "https://images.unsplash.com/photo-1626964143945-b13d22dfe399?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGhha2ElMjB1bml2ZXJzaXR5JTIwYXBwZWFsJTIwaGlnaCUyMGVkdWNhdGlvbnxlbnwxfDB8fHwxNzk1MDE3OTc0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1690191770108-eb6798f6e221?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8dWdjJTIwc2NyYXBzJTIwZGVjaXNpb24lMjBzdXNwZW5kJTIwZWR1Y2F0aW9ufGVufDF8MHx8fDE3OTUwMjE4NjF8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-18T14:56:12+00:00",
+      "published_at": "2026-11-18T16:38:22+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 8.25,
-      "rank_score": 6.3663,
+      "rank_score": 6.609,
       "sources": [
         {
           "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/education/425063/du-to-appeal-hc-order-suspending-admission-tests",
-          "title": "DU to appeal HC order suspending admission tests until Dec 31",
-          "snippet": "DU to appeal HC order suspending admission tests until Dec 31"
+          "url": "https://www.dhakatribune.com/bangladesh/education/425066/ugc-scraps-decision-to-suspend-university",
+          "title": "UGC scraps decision to suspend university admission tests",
+          "snippet": "UGC scraps decision to suspend university admission tests"
         },
         {
           "name": "The Business Standard",
@@ -34,202 +36,46 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "ঢাকা বিশ্ববিদ্যালয় হাইকোর্টের আদেশের বিরুদ্ধে আপিল করবে",
-        "title_en": "Dhaka University to appeal High Court order",
-        "summary_bn": "ঢাকা বিশ্ববিদ্যালয় ভর্তি পরীক্ষা ৩১ ডিসেম্বর পর্যন্ত স্থগিত রাখার হাইকোর্টের আদেশের বিরুদ্ধে আপিল করার সিদ্ধান্ত নিয়েছে।",
-        "summary_en": "Dhaka University has decided to appeal the High Court order suspending admission tests until Dec 31.",
+        "title_bn": "২০২৬-২৭ শিক্ষাবর্ষের বিশ্ববিদ্যালয় ভর্তি পরীক্ষা স্থগিতের সিদ্ধান্ত বাতিল করেছে ইউজিসি",
+        "title_en": "UGC scraps decision to suspend university admission tests for the 2026-27 academic year",
+        "summary_bn": "বিশ্ববিদ্যালয় মঞ্জুরি কমিশন ৯ নভেম্বরের সিদ্ধান্ত বাতিল করে ২০২৬-২৭ শিক্ষাবর্ষের ভর্তি পরীক্ষার সময়সূচি নির্ধারণের ক্ষমতা বিশ্ববিদ্যালয়গুলোর ওপর ছেড়ে দিয়েছে।",
+        "summary_en": "The University Grants Commission has scrapped its November 9 decision, allowing universities to set their own admission schedules for the 2026-27 academic year.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education"
+          "society_education",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T14:56:12+00:00",
-        "lead_bn": "ঢাকা বিশ্ববিদ্যালয় ভর্তি পরীক্ষা ৩১ ডিসেম্বর পর্যন্ত স্থগিত রাখার হাইকোর্টের আদেশের বিরুদ্ধে আপিল করার সিদ্ধান্ত নিয়েছে।",
-        "lead_en": "Dhaka University has decided to appeal the High Court order suspending admission tests until Dec 31.",
+        "published_at": "2026-11-18T16:38:22+00:00",
+        "lead_bn": "বিশ্ববিদ্যালয় মঞ্জুরি কমিশন ৯ নভেম্বরের সিদ্ধান্ত বাতিল করে ২০২৬-২৭ শিক্ষাবর্ষের ভর্তি পরীক্ষার সময়সূচি নির্ধারণের ক্ষমতা বিশ্ববিদ্যালয়গুলোর ওপর ছেড়ে দিয়েছে।",
+        "lead_en": "The University Grants Commission has scrapped its November 9 decision, allowing universities to set their own admission schedules for the 2026-27 academic year.",
         "bullets_bn": [
-          "বিশ্ববিদ্যালয় জানিয়েছে যে পরীক্ষা স্থগিত করা হলে ভর্তি প্রক্রিয়া মার্চ মাস পর্যন্ত পিছিয়ে যেতে পারে।",
-          "এই আদেশের ফলে শিক্ষাপঞ্জিতে বিলম্ব হতে পারে বলে জানিয়েছে বিশ্ববিদ্যালয়।",
-          "বিশ্ববিদ্যালয়ের মতে, এটি মেধাবী শিক্ষার্থীদের জন্য অসুবিধা সৃষ্টি করতে পারে।"
+          "ইউজিসি তাদের আগের সিদ্ধান্ত পরিবর্তন করে বিশ্ববিদ্যালয়গুলোকে নিজস্ব ভর্তি পরীক্ষার সময়সূচি ঠিক করার অনুমতি দিয়েছে।",
+          "ডিসেম্বর পর্যন্ত ভর্তি পরীক্ষা স্থগিত রাখার হাইকোর্টের আদেশের বিরুদ্ধে আপিল করার সিদ্ধান্ত নিয়েছে ঢাকা বিশ্ববিদ্যালয়।",
+          "ঢাকা বিশ্ববিদ্যালয় জানিয়েছে, আদালতের আদেশ মানলে ভর্তি প্রক্রিয়া মার্চ ছাড়িয়ে যেতে পারে, যা মেধাবী শিক্ষার্থীদের ক্ষতিগ্রস্ত করবে।"
         ],
         "bullets_en": [
-          "The university stated that postponing the exams could push the admission process back until March.",
-          "Complying with the order could cause session delays to the academic calendar, the university said.",
-          "The university stated that this could disadvantage meritorious students."
+          "The commission reversed its previous decision to suspend university admission tests following a meeting.",
+          "Dhaka University plans to appeal a High Court order that halted its admission tests until December.",
+          "Dhaka University stated that complying with the court order could push the admission schedule beyond March, causing session delays."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "হাইকোর্টের আদেশের কারণে ঢাকা বিশ্ববিদ্যালয়ের ভর্তি পরীক্ষা ৩১ ডিসেম্বর পর্যন্ত স্থগিত রাখা হয়েছে। বিশ্ববিদ্যালয় কর্তৃপক্ষ জানিয়েছে যে এই আদেশ মেনে চললে ভর্তি সময়সূচি মার্চের পর চলে যেতে পারে, যার ফলে শিক্ষাবর্ষে দীর্ঘসূত্রিতা দেখা দিতে পারে।",
-        "details_en": "Dhaka University admission tests were suspended until Dec 31 following a High Court order. University authorities stated that complying with this order could push the admission schedule beyond March, potentially causing session delays.",
-        "hook_bn": "ভর্তি পরীক্ষা স্থগিত রাখার আদেশের বিরুদ্ধে আপিল",
-        "kicker_bn": "রায় ঘোষণা",
-        "share_value": false,
-        "question_bn": "ভর্তি পরীক্ষা স্থগিত হওয়ায় শিক্ষার্থীদের সমস্যায় পড়া নিয়ে আপনার মতামত কী?"
+        "impact_bn": "ঢাকা বিশ্ববিদ্যালয়ের মতে, হাইকোর্টের আদেশ মানলে সেশন জট তৈরি হতে পারে এবং মেধাবী শিক্ষার্থীরা ক্ষতিগ্রস্ত হতে পারে।",
+        "impact_en": "Complying with the High Court order could disadvantage meritorious students and cause session delays, according to Dhaka University.",
+        "details_bn": "বিশ্ববিদ্যালয় মঞ্জুরি কমিশন ৯ নভেম্বরের ভর্তি পরীক্ষা স্থগিতের সিদ্ধান্ত বাতিল করেছে। অন্যদিকে, ডিসেম্বর পর্যন্ত ভর্তি পরীক্ষা বন্ধ রাখার আদালতের আদেশের বিরুদ্ধে আপিল করছে ঢাকা বিশ্ববিদ্যালয়। বিশ্ববিদ্যালয় কর্তৃপক্ষ মনে করে, এই বিলম্বের ফলে ভর্তি কার্যক্রম মার্চ মাসের পরেও গড়িয়ে যেতে পারে।",
+        "details_en": "The University Grants Commission reversed its November 9 decision regarding admission tests. Meanwhile, Dhaka University is challenging a court order that halts its tests until December. The university argues that delays would push the schedule past March.",
+        "hook_bn": "বিশ্ববিদ্যালয় ভর্তি পরীক্ষা নিয়ে ইউজিসির নতুন সিদ্ধান্ত",
+        "kicker_bn": "নতুন সিদ্ধান্ত",
+        "share_value": true,
+        "question_bn": "ভর্তি পরীক্ষার সময়সূচি নিয়ে আপনার মতামত কী?"
       },
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-18T16:09:47.056950+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-18T17:15:32.895423+00:00"
       }
     },
     {
-      "story_id": "cf2dc0d9-409b-523d-b9cd-5d86488332f4",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#BangladeshBank",
-        "#ForexMarket",
-        "#USADollar"
-      ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-07/Dollar%20illustration_0.png",
-      "image_caption": null,
-      "published_at": "2026-11-18T15:07:52+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 5.3208,
-      "sources": [
-        {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/news/bangladesh-bank-sells-another-220-million-stabilise-forex-market-4327376",
-          "title": "Bangladesh Bank sells another $220 million to stabilise forex market",
-          "snippet": "Bangladesh Bank sells another $220 million to stabilise forex market"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/forex-reserves-stand-at-3635-billion-pm",
-          "title": "Forex reserves stand at $36.35 billion: PM",
-          "snippet": "Forex reserves stand at $36.35 billion: PM"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বাংলাদেশ ব্যাংক বৈদেশিক মুদ্রা বাজার স্থিতিশীল করতে ২২০ মিলিয়ন ডলার বিক্রি করেছে।",
-        "title_en": "Bangladesh Bank sells another $220 million to stabilise forex market.",
-        "summary_bn": "আমদানি বিল পরিশোধ সহজ করতে এবং বৈদেশিক মুদ্রা বাজার স্থিতিশীল করতে বাংলাদেশ ব্যাংক ইন্টারব্যাংক বাজারে প্রায় ২২০ মিলিয়ন ডলার বিক্রি করেছে।",
-        "summary_en": "The Bangladesh Bank sold around $220 million in the interbank market to facilitate import payments and stabilise the foreign exchange market.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-18T15:07:52+00:00",
-        "lead_bn": "আমদানি বিল পরিশোধ সহজ করতে এবং বৈদেশিক মুদ্রা বাজার স্থিতিশীল করতে বাংলাদেশ ব্যাংক ইন্টারব্যাংক বাজারে প্রায় ২২০ মিলিয়ন ডলার বিক্রি করেছে।",
-        "lead_en": "The Bangladesh Bank sold around $220 million in the interbank market to facilitate import payments and stabilise the foreign exchange market.",
-        "bullets_bn": [
-          "কেন্দ্রীয় ব্যাংক প্রতি ডলার ১২৩.৯৫ টাকা দরে এই ডলার বিক্রি করেছে।",
-          "সেপ্টেম্বর থেকে বাংলাদেশ ব্যাংক বিদেশি মুদ্রার রিজার্ভ থেকে প্রায় ৭৪০ মিলিয়ন ডলার বিক্রি করেছে।",
-          "প্রধানমন্ত্রী জানিয়েছেন বৈদেশিক মুদ্রার রিজার্ভ ৩৬.৩৫ বিলিয়ন ডলারে দাঁড়িয়েছে।"
-        ],
-        "bullets_en": [
-          "The central bank sold the greenback at Tk 123.95 each at an auction.",
-          "The BB has sold around $740 million from its foreign exchange reserves since September.",
-          "Forex reserves stand at $36.35 billion according to the prime minister."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ইন্টারব্যাংকে ডলারের ওজনকৃত গড় বিনিময় হার টানা তৃতীয় দিনের মতো প্রতি ডলার ১২৪.৭৫ টাকায় অপরিবর্তিত রয়েছে। জুন মাসের চতুর্থ সপ্তাহ থেকে মার্কিন ডলারের বিপরীতে টাকার মান ১.৬ শতাংশ কমেছে, যখন বিনিময় হার ছিল প্রতি ডলার ১২২.৭৫ টাকা। জ্বালানি ও রমজানের নিত্যপণ্যের আমদানির এলসি খোলার চাহিদা বৃদ্ধির কারণে গত কয়েক মাস ধরে মার্কিন ডলারের বিপরীতে টাকার দরপতন ঘটছে।",
-        "details_en": "The weighted average interbank exchange rate remained unchanged at Tk 124.75 per dollar for the third consecutive day. The taka has lost 1.6 percent of its value against the US dollar since the fourth week of June, when the exchange rate stood at Tk 122.75 per dollar. The greenback has been appreciating against the taka amid increased demand for settling import bills for energy and essential commodities ahead of Ramadan.",
-        "hook_bn": "বৈদেশিক মুদ্রা বাজার স্থিতিশীল করতে ২২০ মিলিয়ন ডলার বিক্রি",
-        "kicker_bn": "দাম বাড়ছে",
-        "share_value": false,
-        "question_bn": "আমদানি ব্যয় ও ডলারের বাজার নিয়ন্ত্রণে কেন্দ্রীয় ব্যাংকের এই পদক্ষেপে বাজারে কী প্রভাব পড়বে বলে আপনার মনে হয়?"
-      },
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-18T16:09:47.056950+00:00"
-      }
-    },
-    {
-      "story_id": "bb03d930-3152-5c2e-afff-fccb9f1c2782",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#ChattogramEPZ",
-        "#BEPZA",
-        "#JoyfulBangladesh",
-        "#Investment"
-      ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/BEPZA%20.jpeg",
-      "image_caption": null,
-      "published_at": "2026-11-18T15:31:15+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.2,
-      "rank_score": 5.0153,
-      "sources": [
-        {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/news/singapore-china-firm-invest-6-million-chattogram-epz-4327401",
-          "title": "Singapore-China firm to invest $6 million in Chattogram EPZ",
-          "snippet": "Singapore-China firm to invest $6 million in Chattogram EPZ"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/world/asia/425056/xi-trump-putin-exchange-greetings-before",
-          "title": "Xi, Trump, Putin exchange greetings before historic China summit",
-          "snippet": "Xi, Trump, Putin exchange greetings before historic China summit"
-        },
-        {
-          "name": "The Business Standard Economy",
-          "url": "https://www.tbsnews.net/economy/rmg/singapore-china-firm-invest-6m-ctg-epz-garment-factory-1607071",
-          "title": "Singapore-China firm to invest $6m in Ctg EPZ garment factory",
-          "snippet": "Singapore-China firm to invest $6m in Ctg EPZ garment factory"
-        },
-        {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-          "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-          "snippet": "Trump shakes hands with Putin and Xi ahead of historic talks in China"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "চট্টগ্রাম ইপিজেডে ৬ মিলিয়ন ডলার বিনিয়োগ করবে সিঙ্গাপুর-চীনভিত্তিক প্রতিষ্ঠান",
-        "title_en": "Singapore-China firm to invest $6 million in Chattogram EPZ",
-        "summary_bn": "সিঙ্গাপুর ও চীনের মালিকানাধীন জয়ফুল (বাংলাদেশ) গার্মেন্টস কোম্পানি লিমিটেড চট্টগ্রাম রপ্তানি প্রক্রিয়াকরণ অঞ্চলে একটি উচ্চমানের পোশাক কারখানা স্থাপনের জন্য ৬ মিলিয়ন ডলার বিনিয়োগ করবে।",
-        "summary_en": "Joyful (Bangladesh) Garment Company Limited, a Singapore- and China-owned company, will invest $6 million to set up a high-end garment manufacturing factory in Chattogram EPZ.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-18T15:31:15+00:00",
-        "lead_bn": "সিঙ্গাপুর ও চীনের মালিকানাধীন জয়ফুল (বাংলাদেশ) গার্মেন্টস কোম্পানি লিমিটেড চট্টগ্রাম রপ্তানি প্রক্রিয়াকরণ অঞ্চলে একটি উচ্চমানের পোশাক কারখানা স্থাপনের জন্য ৬ মিলিয়ন ডলার বিনিয়োগ করবে।",
-        "lead_en": "Joyful (Bangladesh) Garment Company Limited, a Singapore- and China-owned company, will invest $6 million to set up a high-end garment manufacturing factory in Chattogram EPZ.",
-        "bullets_bn": [
-          "কারখানাটির বার্ষিক উৎপাদন ক্ষমতা হবে ২ কোটি ৫০ লাখ পিস উচ্চমানের পোশাক।",
-          "এই বিনিয়োগের ফলে ২ হাজার ২৩০ জনের কর্মসংস্থানের সুযোগ সৃষ্টি হবে বলে আশা করা হচ্ছে।",
-          "বাংলাদেশ রপ্তানি প্রক্রিয়াকরণ এলাকা কর্তৃপক্ষ বা বেপজার কমপ্লেক্সে একটি জমি লিজ চুক্তি স্বাক্ষরিত হয়েছে।"
-        ],
-        "bullets_en": [
-          "The factory will have an annual production capacity of 2.5 million pieces of high-end garments.",
-          "The investment is expected to create employment for 2,230 people.",
-          "A land lease agreement was signed at the BEPZA Complex."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বেপজার ইঞ্জিনিয়ারিং সদস্য আবদুল্লাহ আল মামুন এবং জয়ফুল (বাংলাদেশ) গার্মেন্টস কোম্পানি লিমিটেডের ব্যবস্থাপনা পরিচালক হান জুনজিয়াও চুক্তিটি স্বাক্ষর করেন। অনুষ্ঠানে বেপজার নির্বাহী চেয়ারম্যান মেজর জেনারেল মোহাম্মদ মোয়াজ্জেম হোসেনসহ অন্যান্য কর্মকর্তারা উপস্থিত ছিলেন। কারখানাটিতে শিকারের পোশাক, ওয়াটারপ্রুফ আউটওয়্যার, উইন্ডব্রেকার ও ডেনিম জ্যাকেটসহ বিভিন্ন পণ্য উৎপাদিত হবে। এসব পণ্য ইউরোপীয় ইউনিয়ন, যুক্তরাজ্য, যুক্তরাষ্ট্র, জাপান, কানাডা, অস্ট্রেলিয়া, মেক্সিকো এবং দক্ষিণ আফ্রিকায় রপ্তানি করা হবে।",
-        "details_en": "Abdullah Al Mamun, member engineering of BEPZA, and Han JunXiao, managing director of the company, signed the land lease agreement. Major General Mohammad Moazzem Hossain, executive chairman of BEPZA, attended the ceremony. The factory's products will include hunting suits, waterproof outerwear, windbreakers, and denim jackets, exported to major international markets including the European Union, United Kingdom, United States, Japan, Canada, Australia, Mexico, and South Africa.",
-        "hook_bn": "চট্টগ্রাম ইপিজেডে ৬ মিলিয়ন ডলার বিনিয়োগ",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-18T16:09:47.056950+00:00"
-      }
-    },
-    {
-      "story_id": "b09e3246-5e70-5771-8242-d9b34edb7b8b",
+      "story_id": "d401e84c-2d0c-5740-a98f-aeea19420573",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -239,186 +85,186 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1655130944329-b3a63166f6b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YWN0aW9uJTIwd2lsbCUyMHRha2VuJTIwZmVydGlsaXplciUyMGdvdmVybm1lbnR8ZW58MXwwfHx8MTc5NTAxNzk5OHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://media.channelionline.com/2026/11/pm-tareq.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-11-18T15:42:37+00:00",
+      "published_at": "2026-11-18T16:29:21+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 4.2606,
+      "rank_score": 4.1932,
       "sources": [
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821772/%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A6%A1%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%8B%E0%A6%97%E0%A7%87-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F-%E0%A6%85%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%AA%E0%A7%87%E0%A6%B2%E0%A7%87",
-          "title": "সার ডিলার নিয়োগে সুনির্দিষ্ট অনিয়মের অভিযোগ পেলে ব্যবস্থা: প্রধানমন্ত্রী",
-          "snippet": "সার ডিলার নিয়োগে সুনির্দিষ্ট অনিয়মের অভিযোগ পেলে ব্যবস্থা: প্রধানমন্ত্রী"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/awami-league-terr-orist-group-i-want-cru/",
+          "title": "আওয়ামী লীগ সন্ত্রাসী গোষ্ঠী, মাথা তুলে দাঁড়ানোর আগেই তাদের মাথা গুঁড়িয়ে দিতে চাই: প্রধানমন্ত্রী",
+          "snippet": "আওয়ামী লীগ সন্ত্রাসী গোষ্ঠী, মাথা তুলে দাঁড়ানোর আগেই তাদের মাথা গুঁড়িয়ে দিতে চাই: প্রধানমন্ত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সার ডিলার নিয়োগে অনিয়মে ব্যবস্থা নেওয়া হবে বলে জানালেন প্রধানমন্ত্রী।",
-        "title_en": "PM says action will be taken over fertilizer dealer appointment irregularities.",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান জানিয়েছেন, সার ডিলার নিয়োগে অনিয়ম, স্বজনপ্রীতি, দুর্নীতি কিংবা অযোগ্য ব্যক্তিদের নিয়োগের সুনির্দিষ্ট অভিযোগ পাওয়া গেলে তদন্ত করে দায়ীদের বিরুদ্ধে প্রয়োজনীয় ব্যবস্থা নেওয়া হবে।",
-        "summary_en": "Prime Minister Tarique Rahman stated that necessary action will be taken against those responsible if specific allegations of irregularities, nepotism, corruption or unqualified appointments in fertilizer dealers are found upon investigation.",
+        "title_bn": "আওয়ামী লীগ সন্ত্রাসী গোষ্ঠী, তাদের মাথা গুঁড়িয়ে দিতে চাই: প্রধানমন্ত্রী",
+        "title_en": "Awami League is a terrorist group, want to crush them: Prime Minister",
+        "summary_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগকে সন্ত্রাসী গোষ্ঠী আখ্যা দিয়ে মাথা তুলে দাঁড়ানোর আগেই তাদের প্রতিহত করার আহ্বান জানিয়েছেন প্রধানমন্ত্রী তারেক রহমান।",
+        "summary_en": "Calling the banned Awami League a terrorist group, Prime Minister Tarique Rahman urged resisting them before they rise.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T15:42:37+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান জানিয়েছেন, সার ডিলার নিয়োগে অনিয়ম, স্বজনপ্রীতি, দুর্নীতি কিংবা অযোগ্য ব্যক্তিদের নিয়োগের সুনির্দিষ্ট অভিযোগ পাওয়া গেলে তদন্ত করে দায়ীদের বিরুদ্ধে প্রয়োজনীয় ব্যবস্থা নেওয়া হবে।",
-        "lead_en": "Prime Minister Tarique Rahman stated that necessary action will be taken against those responsible if specific allegations of irregularities, nepotism, corruption or unqualified appointments in fertilizer dealers are found upon investigation.",
+        "published_at": "2026-11-18T16:29:21+00:00",
+        "lead_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগকে সন্ত্রাসী গোষ্ঠী আখ্যা দিয়ে মাথা তুলে দাঁড়ানোর আগেই তাদের প্রতিহত করার আহ্বান জানিয়েছেন প্রধানমন্ত্রী তারেক রহমান।",
+        "lead_en": "Calling the banned Awami League a terrorist group, Prime Minister Tarique Rahman urged resisting them before they rise.",
         "bullets_bn": [
-          "প্রধানমন্ত্রী তারেক রহমান ১৮ নভেম্বর জাতীয় সংসদে এ কথা জানান।",
-          "সংসদ সদস্য মো. মুজিবুর রহমানের এক প্রশ্নের জবাবে এই বক্তব্য দেন প্রধানমন্ত্রী।",
-          "প্রশ্নকর্তা সংসদ সদস্য বাংলাদেশ কৃষি উন্নয়ন করপোরেশনের (বিএডিসি) সার ও বীজ বিষয় নিয়ে কথা বলেন।"
+          "প্রধানমন্ত্রী বলেন আওয়ামী লীগ কোনো রাজনৈতিক দল নয়, সন্ত্রাসী গোষ্ঠী এবং দেশে-বর্বরোচিত কর্মকাণ্ড চালিয়েছে।",
+          "সংসদের চতুর্থ অধিবেশনের সমাপনী বক্তব্যে এই কথা বলেন প্রধানমন্ত্রী তারেক রহমান।",
+          "তারেক রহমান বাংলাদেশ রক্ষায় গণতান্ত্রিক রাজনৈতিক শক্তিগুলোর ঐক্যের আহ্বান জানান।"
         ],
         "bullets_en": [
-          "Prime Minister Tarique Rahman made this statement 18 November in the Jatiya Sangsad.",
-          "The Prime Minister made this remark in response to a question from Member of Parliament Md. Mujibur Rahman.",
-          "The questioning MP spoke about fertilizer and seeds of the Bangladesh Agricultural Development Corporation (BADC)."
+          "The Prime Minister said Awami League is not a political party but a terrorist group and carried out brutal acts.",
+          "Prime Minister Tarique Rahman made the remarks in his concluding speech at the fourth session of the Jatiya Sangsad.",
+          "Tarique Rahman called for unity among democratic political forces to protect Bangladesh."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "জাতীয় সংসদে সংসদ সদস্য মো. মুজিবুর রহমানের এক প্রশ্নের জবাবে প্রধানমন্ত্রী এই কথা জানান। সংসদ সদস্য বাংলাদেশ কৃষি উন্নয়ন করপোরেশনের (বিএডিসি) সার ও বীজ সংক্রান্ত বিষয়ে প্রশ্ন উত্থাপন করেন।",
-        "details_en": "The Prime Minister stated this in the Jatiya Sangsad on Wednesday in response to a question from Member of Parliament Md. Mujibur Rahman. The MP raised a question regarding fertilizer and seeds of the Bangladesh Agricultural Development Corporation (BADC).",
-        "hook_bn": "সার ডিলার নিয়োগে অনিয়মে ব্যবস্থা",
+        "details_bn": "১৮ নভেম্বর জাতীয় সংসদের চতুর্থ অধিবেশনের সমাপনী বক্তব্যে প্রধানমন্ত্রী তারেক রহমান বলেন, পতিত ফ্যাসিস্ট অপশক্তি বাংলাদেশের বিরুদ্ধে ষড়যন্ত্র শুরু করেছে। তিনি দেশের প্রধান উপদেষ্টা, এনসিপি সভাপতি নাহিদ ইসলাম এবং ইতালিতে একজন নারী শিল্পীর ওপর হামলার ঘটনার প্রসঙ্গ টানেন।",
+        "details_en": "In his concluding speech at the fourth session of the Jatiya Sangsad on November 18, Prime Minister Tarique Rahman said the fallen fascist forces have started conspiracies against Bangladesh. He referred to attacks on the Chief Adviser, NCP President Nahid Islam, and a female artist in Italy.",
+        "hook_bn": "মাথা তুলে দাঁড়ানোর আগেই তাদের মাথা গুঁড়িয়ে দিতে চাই",
         "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": "সার ডিলার নিয়োগে অনিয়ম রোধে কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
-      },
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-18T16:09:47.056950+00:00"
-      }
-    },
-    {
-      "story_id": "8ab440be-71da-5f84-a910-2fcef7dbed8f",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#PrinceWilliam",
-        "#KateMiddleton",
-        "#NarendraModi",
-        "#India"
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/efe9/live/814a0670-e35a-11f1-a8cd-2ff5ed84046e.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-18T14:30:33+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.67,
-      "rank_score": 1.9902,
-      "sources": [
-        {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-          "title": "William and Kate meet Indian Prime Minister Modi in New Delhi",
-          "snippet": "William and Kate meet Indian Prime Minister Modi in New Delhi"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "নয়াদিল্লিতে ভারতের প্রধানমন্ত্রী নরেন্দ্র মোদীর সঙ্গে সাক্ষাৎ করেছেন প্রিন্স উইলিয়াম ও কেট",
-        "title_en": "Prince William and Kate meet Indian Prime Minister Narendra Modi in New Delhi",
-        "summary_bn": "ভারতে তিন দিনের সফরের শেষ পর্যায়ে নয়াদিল্লিতে দেশটির প্রধানমন্ত্রী নরেন্দ্র মোদীর সঙ্গে সাক্ষাৎ করেছেন প্রিন্স অব ওয়েলস উইলিয়াম ও ক্যাথরিন।",
-        "summary_en": "The Prince and Princess of Wales met Indian Prime Minister Narendra Modi in New Delhi during the final leg of their three-day visit to India.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-18T14:30:33+00:00",
-        "lead_bn": "ভারতে তিন দিনের সফরের শেষ পর্যায়ে নয়াদিল্লিতে দেশটির প্রধানমন্ত্রী নরেন্দ্র মোদীর সঙ্গে সাক্ষাৎ করেছেন প্রিন্স অব ওয়েলস উইলিয়াম ও ক্যাথরিন।",
-        "lead_en": "The Prince and Princess of Wales met Indian Prime Minister Narendra Modi in New Delhi during the final leg of their three-day visit to India.",
-        "bullets_bn": [
-          "ফিলিপাইন সফর শেষে নরেন্দ্র মোদীর সময়মতো ফিরে আসার বিষয়টি নিশ্চিত হওয়ার পর সময়সূচিতে এই সাক্ষাৎ অন্তর্ভুক্ত করা হয়।",
-          "কেনসিংটন প্যালেসের মুখপাত্র জানান, এই বৈঠক সর্বোচ্চ পর্যায়ে যুক্তরাজ্যের কূটনৈতিক সম্পর্ক জোরদার করার সুযোগ তৈরি করবে।",
-          "ভারতে অনুষ্ঠিত রাজদম্পতির নিজস্ব উদ্যোগ বার্ষিক আর্থশট প্রাইজ আয়োজনের পরপরই মোদীর সঙ্গে এই সাক্ষাৎ হলো।"
-        ],
-        "bullets_en": [
-          "The meeting was added to the schedule after Modi confirmed his return from a scheduled trip to the Philippines.",
-          "A Kensington Palace spokesperson said the meeting provides an opportunity to build on diplomatic relationships at the highest level.",
-          "The meeting follows the royal couple attending the annual Earthshot Prize event held in Mumbai."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "চার বছরের মধ্যে যৌথভাবে প্রথম আনুষ্ঠানিক বিদেশ সফরের শেষ ধাপে রাজদম্পতি নয়াদিল্লিতে পৌঁছান। তারা এর আগে মুম্বাইতে আর্থশট প্রাইজ অনুষ্ঠানে যোগ দেন, যা প্রথমবারের মতো ভারতে অনুষ্ঠিত হয়। জলবায়ু উদ্ভাবনে নেতৃত্ব, জীববৈচিত্র্য এবং বিশাল তরুণ জনসংখ্যার কথা উল্লেখ করে ভারতে এই আয়োজনের সিদ্ধান্ত নেওয়া হয়েছিল।",
-        "details_en": "The royal couple arrived in New Delhi for the final leg of their first official overseas trip together in four years. They previously attended the Earthshot Prize in Mumbai, held in India for the first time. The prince chose India for the event due to its leadership in climate innovation, biodiversity, and massive youth population.",
-        "hook_bn": "নয়াদিল্লিতে মোদীর সঙ্গে উইলিয়াম ও কেটের সাক্ষাৎ",
-        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-18T16:09:47.056950+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-18T17:15:32.895423+00:00"
       }
     },
     {
-      "story_id": "05390e47-edc2-5b76-ad19-0737ac36fd46",
-      "primary_category": "world_diplomacy",
+      "story_id": "beca4133-0836-5dbf-a6fc-fbe84c484cbc",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy"
+        "governance_law"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#XiJinping",
-        "#DonaldTrump",
-        "#VladimirPutin",
-        "#ShenzhenSummit"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://th-i.thgim.com/public/incoming/r1o0ob/article71716214.ece/alternates/LANDSCAPE_1200/China_APEC_187_9.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-18%2Fogli6309%2FPM.jpg?rect=0%2C0%2C1619%2C850&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-18T13:35:22+00:00",
+      "published_at": "2026-11-18T16:08:15+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 3.4,
-      "rank_score": 1.0003,
+      "importance_score": 6.6,
+      "rank_score": 4.1089,
       "sources": [
         {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/xi-hails-russia-ties-as-source-of-stability-ahead-of-trilateral-summit/article71716084.ece",
-          "title": "Xi hails Russia ties as ‘source of stability’ ahead of trilateral summit",
-          "snippet": "Xi hails Russia ties as ‘source of stability’ ahead of trilateral summit"
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/zr4rsc75ra",
+          "title": "রাজধানীতে যানবাহনের গতি ৪ থেকে বেড়ে ১১ কিলোমিটার হয়েছে: প্রধানমন্ত্রী",
+          "snippet": "রাজধানীতে যানবাহনের গতি ৪ থেকে বেড়ে ১১ কিলোমিটার হয়েছে: প্রধানমন্ত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শেনঝেনে ত্রিপক্ষীয় শীর্ষ সম্মেলনের আগে রাশিয়া-চীন সম্পর্কের প্রশংসা করলেন শি জিনপিং",
-        "title_en": "Chinese President Xi Jinping praised Russia ties ahead of a trilateral summit in Shenzhen",
-        "summary_bn": "শেনঝেনে মার্কিন ও রুশ প্রেসিডেন্টের সঙ্গে ত্রিপক্ষীয় শীর্ষ সম্মেলনের আগে চীনের প্রেসিডেন্ট শি জিনপিং রাশিয়ার সঙ্গে সম্পর্ককে স্থিরতার উৎস বলে প্রশংসা করেছেন।",
-        "summary_en": "Chinese President Xi Jinping hailed relations with Russia as a source of stability ahead of a historic trilateral summit with US and Russian leaders in Shenzhen.",
+        "title_bn": "রাজধানীতে যানবাহনের গতি বেড়ে ১১ কিলোমিটার হয়েছে বলে জানিয়েছেন প্রধানমন্ত্রী তারেক রহমান",
+        "title_en": "PM Tarique Rahman says Dhaka traffic speed increased to 11 kilometres per hour",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান জাতীয় সংসদে জানিয়েছেন যে সরকারের ট্রাফিক ব্যবস্থার উন্নতির ফলে রাজধানীতে যানবাহনের গতি ঘণ্টায় ৪ কিলোমিটার থেকে বেড়ে ১১ কিলোমিটারে দাঁড়িয়েছে।",
+        "summary_en": "Prime Minister Tarique Rahman told Parliament that traffic speed in Dhaka has risen from 4 to 11 kilometres per hour due to improved management by the government.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T13:35:22+00:00",
-        "lead_bn": "শেনঝেনে মার্কিন ও রুশ প্রেসিডেন্টের সঙ্গে ত্রিপক্ষীয় শীর্ষ সম্মেলনের আগে চীনের প্রেসিডেন্ট শি জিনপিং রাশিয়ার সঙ্গে সম্পর্ককে স্থিরতার উৎস বলে প্রশংসা করেছেন।",
-        "lead_en": "Chinese President Xi Jinping hailed relations with Russia as a source of stability ahead of a historic trilateral summit with US and Russian leaders in Shenzhen.",
+        "published_at": "2026-11-18T16:08:15+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান জাতীয় সংসদে জানিয়েছেন যে সরকারের ট্রাফিক ব্যবস্থার উন্নতির ফলে রাজধানীতে যানবাহনের গতি ঘণ্টায় ৪ কিলোমিটার থেকে বেড়ে ১১ কিলোমিটারে দাঁড়িয়েছে।",
+        "lead_en": "Prime Minister Tarique Rahman told Parliament that traffic speed in Dhaka has risen from 4 to 11 kilometres per hour due to improved management by the government.",
         "bullets_bn": [
-          "১৮ নভেম্বর ২০২৬ তারিখে শি জিনপিং ভ্লাদিমির পুতিনের সঙ্গে বৈঠকের পর ডোনাল্ড ট্রাম্পকে বিমানবন্দরে কোলাকুলি করে স্বাগত জানান।",
-          "মার্কিন কর্মকর্তারা জানান, নেতারা ইউক্রেন যুদ্ধ, ইরান পরিস্থিতি, বৈশ্বিক জ্বালানি স্থিতিশীলতা ও পরমাণু অস্ত্র নিয়ন্ত্রণ নিয়ে আলোচনা করবেন।",
-          "১৯ নভেম্বর ২০২৬ তারিখে এই সম্মেলন অনুষ্ঠিত হবে, তবে এতে বড় কোনো ফলাফলের সম্ভাবনা কমিয়ে দেখেছেন কর্মকর্তারা।"
+          "ঢাকা শহরের ৫০টি পয়েন্টে কৃত্রিম বুদ্ধিমত্তাভিত্তিক ট্রাফিক সিগন্যাল বসানোর কাজ চলছে যা আগামী দুই মাসের মধ্যে চালু হবে বলে আশা করা হচ্ছে।",
+          "২০২৪ সালের ৮ আগস্ট রিজার্ভ ছিল ২৫.৯০ বিলিয়ন ডলার যা ১৯ অক্টোবরের হিসাব অনুযায়ী ৩৬.৩৫ বিলিয়ন ডলারে দাঁড়িয়েছে।",
+          "সাধারণ মানুষের যাতায়াত সহজ করতে মেট্রোরেলের বাকি রুটগুলোর কাজ দ্রুত শেষ করার উদ্যোগ এবং মনোরেলের বিষয়টি গুরুত্বের সঙ্গে বিবেচনা করছে সরকার।"
         ],
         "bullets_en": [
-          "Xi greeted US President Donald Trump with a rare airport hug after talks with Russian President Vladimir Putin on November 18, 2026.",
-          "US officials said leaders will likely discuss the Ukraine war, Iran situation, global energy stability, and nuclear arms control.",
-          "The three leaders hold their summit on November 19, 2026, though officials played down expectations of substantive outcomes."
+          "Artificial intelligence-based traffic signals are being installed at 50 points in Dhaka and are expected to be operational within two months.",
+          "Bangladesh's foreign exchange reserves increased to 36.35 billion dollars on October 19 from 25.90 billion dollars on August 8, 2024.",
+          "The government is fast-tracking metro rail routes and considering monorail projects to further ease public transportation in the capital."
+        ],
+        "impact_bn": "আগামী দুই মাসের মধ্যে কৃত্রিম বুদ্ধিমত্তাভিত্তিক ট্রাফিক সিগন্যাল চালু হলে ঢাকার সাধারণ মানুষের যাতায়াত আরও দ্রুত ও সহজ হতে পারে।",
+        "impact_en": "Commuters in Dhaka may experience faster travel times as new AI-based traffic signals become operational within the next two months.",
+        "details_bn": "প্রধানমন্ত্রী তারেক রহমান জানান যে পলাতক স্বৈরাচারের আমলের সিন্ডিকেটের কারণে বিদেশে কর্মী পাঠানো বাধাগ্রস্ত হয়েছিল। তিনি রেমিট্যান্স প্রবাহ বৃদ্ধিতে শহীদ রাষ্ট্রপতি জিয়াউর রহমানের উদ্যোগের কথা স্মরণ করেন এবং হুন্ডি প্রতিরোধে বর্তমান সরকারের সংস্কার কার্যক্রমের কথা জানান। ট্রাফিক ব্যবস্থা নিয়ে তিনি বলেন যে বিভিন্ন পয়েন্টে নতুন সিগন্যাল লাইট বসানো হয়েছে যা আগামী দুই মাসের মধ্যে চালু হবে। এছাড়া যানজট নিরসনে মেট্রোরেলের পাশাপাশি মনোরেল চালুর বিষয়টিও সরকারের বিবেচনায় রয়েছে।",
+        "details_en": "Prime Minister Tarique Rahman stated that the previous regime's syndicates hindered overseas employment, causing some countries to stop or slow down hiring. He credited Shaheed President Ziaur Rahman for initiating remittance channels and noted that current policy reforms aim to prevent hundi. Regarding infrastructure, the Prime Minister highlighted that traffic management improvements have already started reducing congestion, while new signal lights have been installed at various points awaiting activation within two months. The government is also considering monorail projects.",
+        "hook_bn": "'যানবাহনের গতি ৪ থেকে বেড়ে ১১ কিলোমিটার'",
+        "kicker_bn": "যানজট নিরসন",
+        "share_value": true,
+        "question_bn": "রাজধানীর যানজট পরিস্থিতি নিয়ে আপনার অভিজ্ঞতা কী?"
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-18T17:15:32.895423+00:00"
+      }
+    },
+    {
+      "story_id": "b7b2d7e3-8107-552d-a9d4-81f5ce72dce2",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#ICJ",
+        "#Myanmar",
+        "#Rohingya",
+        "#TheGambia"
+      ],
+      "image_url": "https://static.dw.com/image/79148183_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-18T14:27:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 3.4,
+      "rank_score": 0.9892,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/icj-to-rule-on-rohingya-genocide-case-against-myanmar-what-to-know/a-79981434?maca=en-rss-en-all-1573-rdf",
+          "title": "ICJ to rule on Rohingya genocide case against Myanmar: What to know",
+          "snippet": "ICJ to rule on Rohingya genocide case against Myanmar: What to know"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মিয়ানমারের বিরুদ্ধে গাম্বিয়ার করা গণহত্যা মামলার রায় দেবে আইসিজে।",
+        "title_en": "ICJ to deliver judgment in Rohingya genocide case against Myanmar.",
+        "summary_bn": "আন্তর্জাতিক আদালত মিয়ানমারের বিরুদ্ধে গাম্বিয়ার করা ঐতিহাসিক গণহত্যা মামলার রায় ঘোষণা করবে।",
+        "summary_en": "The International Court of Justice will deliver its judgment on Thursday in The Gambia's genocide case against Myanmar.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T14:27:00+00:00",
+        "lead_bn": "আন্তর্জাতিক আদালত মিয়ানমারের বিরুদ্ধে গাম্বিয়ার করা ঐতিহাসিক গণহত্যা মামলার রায় ঘোষণা করবে।",
+        "lead_en": "The International Court of Justice will deliver its judgment on Thursday in The Gambia's genocide case against Myanmar.",
+        "bullets_bn": [
+          "গাম্বিয়া ২০১৯ সালের নভেম্বর মাসে জাতিসংঘের সর্বোচ্চ আদালতে এই মামলাটি দায়ের করে।",
+          "মিয়ানমার ২০১৬ থেকে ২০১৭ সাল পর্যন্ত রাখাইন রাজ্যে গণহত্যা চালিয়েছে বলে অভিযোগে বলা হয়েছে।",
+          "রোহিঙ্গা কর্মী অং কেও মো বলেন যে রোহিঙ্গা সম্প্রদায় বিচার পাওয়ার জন্য উচ্চ প্রত্যাশা নিয়ে অপেক্ষা করছে।"
+        ],
+        "bullets_en": [
+          "The Gambia filed the case with the United Nations top court in November 2019.",
+          "The Gambia alleged that Myanmar waged a campaign of arson, rape and murder in Rakhine State from 2016 to 2017.",
+          "Rohingya activist Aung Kyaw Moe said the community has very high expectations for the judgment."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বেইজিং নিজেদের মাটিতে এই সম্মেলনের তাৎপর্য তুলে ধরে এটিকে বড় দেশের কূটনীতির একটি গুরুত্বপূর্ণ মুহূর্ত হিসেবে উল্লেখ করেছে। তবে কর্মকর্তারা এই বিরল বৈঠককে প্রাথমিক ও প্রতীকী বলে বর্ণনা করে রাশিয়া-ইউক্রেন চুক্তি বা পশ্চিম এশিয়া সংকট নিয়ে বড় কোনো ফলাফলের আশা কম বলে জানিয়েছেন। পরমাণু নিরস্ত্রীকরণে নেতারা একমত হতে পারবেন কি না তাও দেখার বিষয়। এর আগে সেপ্টেম্বরে ওয়াশিংটনের বাইরে জয়েন্ট বেস অ্যান্ড্রুজে ট্রাম্প একইভাবে শি জিনপিংকে স্বাগত জানিয়েছিলেন।",
-        "details_en": "Beijing highlighted the summit as a landmark moment for major country diplomacy. Officials described the rare trilateral meeting as exploratory and symbolic, playing down the likelihood of substantive outcomes on a Russia-Ukraine deal or the West Asian crisis. It also remains to be seen if they can agree on nuclear disarmament. In September, Trump similarly received Xi at Joint Base Andrews outside Washington.",
-        "hook_bn": "'অশান্ত বিশ্বে স্থিরতার উৎস'",
-        "kicker_bn": null,
+        "details_bn": "গাম্বিয়া অভিযোগ করেছে যে মিয়ানমার ১৯৪৮ সালের জাতিসংঘ গণহত্যা কনভেনশনের বাধ্যবাধকতা ভঙ্গ করেছে। রাখাইন রাজ্যে সহিংসতায় প্রায় ১০,০০০ মানুষ নিহত হয়েছে এবং প্রায় ৭০০,০০০ রোহিঙ্গা পালিয়ে বাংলাদেশে আশ্রয় নিয়েছে। মিয়ানমারের বিরুদ্ধে বিভিন্ন আদালতে বেশ কয়েকটি মামলা দায়ের হলেও আইসিজে প্রথম রায় দিতে যাচ্ছে।",
+        "details_en": "The Gambia alleged that Myanmar broke its obligations under the 1948 UN Genocide Convention. A UN fact-finding mission concluded that about 10,000 people died in the pogroms, and 700,000 Rohingya fled to Bangladesh. The ICJ will be the first court to issue a ruling among several cases filed around the world.",
+        "hook_bn": "আন্তর্জাতিক আদালত মিয়ানমার মামলার রায় দেবে",
+        "kicker_bn": "রায় ঘোষণা",
         "share_value": false,
-        "question_bn": "চীন, যুক্তরাষ্ট্র ও রাশিয়ার এই শীর্ষ বৈঠক বৈশ্বিক স্থিতিশীলতায় ভূমিকা রাখতে পারবে বলে আপনি মনে করেন?"
+        "question_bn": null
       },
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-18T16:09:47.056950+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-18T17:15:32.895423+00:00"
       }
     }
   ]
