@@ -1,470 +1,292 @@
 {
-  "updated_at": "2026-11-18T07:00:44.278099",
-  "total_stories": 6,
+  "updated_at": "2026-11-18T08:00:51.320347",
+  "total_stories": 4,
   "stories": [
     {
-      "story_id": "f9724faf-6a98-5210-8ddc-33e0cad1a033",
-      "primary_category": "society_education",
+      "story_id": "c897e8fc-27c4-5ebd-bb65-48527a02d3a1",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "society_education",
+        "world_diplomacy",
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#HighCourt",
-        "#HSC",
-        "#AdmissionTest"
+        "#VladimirPutin",
+        "#DonaldTrump",
+        "#XiJinping",
+        "#APEC"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2021/10/16/image.png",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/18/china_apec_putin.png",
       "image_caption": null,
-      "published_at": "2026-11-18T06:40:00+00:00",
+      "published_at": "2026-11-18T07:55:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 5.5105,
+      "importance_score": 7.2,
+      "rank_score": 5.1322,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/hc-bars-public-universities-holding-admission-tests-hsc-re-evaluation-result-1606276",
-          "title": "HC bars public universities from holding admission tests before HSC re-evaluation result",
-          "snippet": "HC bars public universities from holding admission tests before HSC re-evaluation result"
+          "url": "https://www.tbsnews.net/worldbiz/china/russias-putin-says-he-expects-big-potential-benefit-meeting-trump-and-xi-1606356",
+          "title": "Russia's Putin says he expects 'big potential benefit' from meeting with Trump and Xi",
+          "snippet": "Russia's Putin says he expects 'big potential benefit' from meeting with Trump and Xi"
         },
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/education/admission/51fpiu173w",
-          "title": "বিইউপির ভর্তি পরীক্ষা পেছাল, দ্বিতীয়বার আবেদনের সুযোগ",
-          "snippet": "বিইউপির ভর্তি পরীক্ষা পেছাল, দ্বিতীয়বার আবেদনের সুযোগ"
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+          "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
+          "snippet": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un"
         },
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/court/424970/hc-suspends-university-admission-tests-until-hsc",
-          "title": "HC suspends university admission tests until HSC re-scrutiny results",
-          "snippet": "HC suspends university admission tests until HSC re-scrutiny results"
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/xi-putin-meet-ahead-of-historic-trump-trilateral-summit/article71714533.ece",
+          "title": "Xi, Putin meet ahead of historic Trump trilateral summit",
+          "snippet": "Xi, Putin meet ahead of historic Trump trilateral summit"
+        },
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss",
+          "title": "What is Trump hoping to achieve at APEC meeting in China?",
+          "snippet": "What is Trump hoping to achieve at APEC meeting in China?"
         }
       ],
       "daily_buzz": {
-        "title_bn": "এইচএসসি পুনর্মূল্যায়নের ফল প্রকাশ না হওয়া পর্যন্ত ভর্তি পরীক্ষা স্থগিত",
-        "title_en": "HC bars public universities from holding admission tests before HSC re-evaluation result",
-        "summary_bn": "হাইকোর্ট ঢাকা বিশ্ববিদ্যালয়সহ সব পাবলিক বিশ্ববিদ্যালয়কে এইচএসসি ও সমমানের পরীক্ষার পুনর্মূল্যায়ন ফল প্রকাশ না হওয়া পর্যন্ত ভর্তি পরীক্ষা না নেওয়ার নির্দেশ দিয়েছে।",
-        "summary_en": "The High Court has directed all public universities, including Dhaka University, not to hold admission tests until the publication of the re-evaluation results of this year's HSC and equivalent examinations.",
+        "title_bn": "ট্রাম্প ও শি জিনপিংয়ের সঙ্গে বৈঠকের বিষয়ে পুতিন আশাবাদী",
+        "title_en": "Putin expects big potential benefit from Trump and Xi meeting",
+        "summary_bn": "রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিন ডোনাল্ড ট্রাম্প এবং শি জিনপিংয়ের সঙ্গে ত্রিমুখী বৈঠক থেকে বড় ধরনের সম্ভাব্য সুবিধা প্রত্যাশার কথা জানিয়েছেন।",
+        "summary_en": "Russian President Vladimir Putin said he expected a big potential benefit from his trilateral meeting with US President Donald Trump and Chinese leader Xi Jinping.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
+          "world_diplomacy",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T06:40:00+00:00",
-        "lead_bn": "হাইকোর্ট ঢাকা বিশ্ববিদ্যালয়সহ সব পাবলিক বিশ্ববিদ্যালয়কে এইচএসসি ও সমমানের পরীক্ষার পুনর্মূল্যায়ন ফল প্রকাশ না হওয়া পর্যন্ত ভর্তি পরীক্ষা না নেওয়ার নির্দেশ দিয়েছে।",
-        "lead_en": "The High Court has directed all public universities, including Dhaka University, not to hold admission tests until the publication of the re-evaluation results of this year's HSC and equivalent examinations.",
+        "published_at": "2026-11-18T07:55:00+00:00",
+        "lead_bn": "রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিন ডোনাল্ড ট্রাম্প এবং শি জিনপিংয়ের সঙ্গে ত্রিমুখী বৈঠক থেকে বড় ধরনের সম্ভাব্য সুবিধা প্রত্যাশার কথা জানিয়েছেন।",
+        "lead_en": "Russian President Vladimir Putin said he expected a big potential benefit from his trilateral meeting with US President Donald Trump and Chinese leader Xi Jinping.",
         "bullets_bn": [
-          "বিচারপতি আহমেদ সোহেল ও বিচারপতি এসএম ইখতিয়ার উদ্দিন মাহমুদের বেঞ্চ রিট আবেদনের প্রাথমিক শুনানির পর এই আদেশ দেন।",
-          "এই আদেশ পরীক্ষার ফল অকৃতকার্য হওয়া এবং পুনর্মূল্যায়নের অপেক্ষায় থাকা শিক্ষার্থীদের জন্য প্রযোজ্য।",
-          "বাংলাদেশ ইউনিভার্সিটি অব প্রফেশনালসে ২০২৬-২৭ বর্ষের ভর্তি পরীক্ষার জন্য অনলাইনে আবেদন শুরু হয়েছে।"
+          "চীনের দক্ষিণ শহর শেনজেনে এপেক সিইও শীর্ষ সম্মেলনের উদ্বোধনী অনুষ্ঠানে পুতিন এই কথা বলেন।",
+          "চিন ও রাশিয়ার বৈদেশিক নীতি আন্তর্জাতিক পর্যায়ে ইতিবাচকভাবে কাজ করছে বলে পুতিন জানান।",
+          "বিশ্ব অর্থনীতি খণ্ডিত ও সামরিক ঝুঁকি রয়েছে উল্লেখ করে পুতিন বিচ্ছিন্নতার চেয়ে অংশীদারিত্বের ওপর জোর দেন।"
         ],
         "bullets_en": [
-          "A High Court bench comprising Justice Ahmed Sohel and Justice SM Iftekhar Uddin Mahamud issued the order after holding a preliminary hearing.",
-          "The order applies to students who failed the examinations and are awaiting the results of their re-evaluated answer scripts or re-examinations.",
-          "Online application for the admission test of Bangladesh University of Professionals for the 2026-27 academic year has started."
+          "Putin spoke at the opening ceremony of the APEC CEO summit in China's southern city of Shenzhen.",
+          "Putin said China and Russia's foreign policy partnership was working steadily and positively on the international stage.",
+          "Citing a fragmented global economy and military risks, Putin said partnership, rather than isolation, was necessary."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "চলতি বছরের এইচএসসি ও সমমানের পরীক্ষার পুনর্মূল্যায়ন ও পুনঃপরীক্ষার ফলাফল প্রকাশের আগেই কয়েকটি বিশ্ববিদ্যালয় ২০২৬-২৭ শিক্ষাবর্ষের ভর্তি পরীক্ষার সময়সূচি ঘোষণা করেছিল। ফলপ্রত্যাশী শিক্ষার্থীদের করা একটি রিট আবেদনের প্রাথমিক শুনানি শেষে হাইকোর্ট এই নির্দেশ দেয়।",
-        "details_en": "Several universities had announced their admission test schedules for the 2026-27 academic year before the publication of the results. The High Court issued the directive following a preliminary hearing on a writ petition filed by affected students.",
-        "hook_bn": "পাবলিক বিশ্ববিদ্যালয়ে ভর্তি পরীক্ষা স্থগিত",
-        "kicker_bn": "রায় ঘোষণা",
-        "share_value": true,
-        "question_bn": "এইচএসসি পরীক্ষার ফল পুনর্মূল্যায়নের এই সিদ্ধান্ত শিক্ষার্থীদের জন্য কতটা সহায়ক হবে বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 9.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-18T07:01:55.938539+00:00"
-      }
-    },
-    {
-      "story_id": "d949ea3e-ca98-5814-aa64-995ce57f42e1",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#NazrulIslamHiru",
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1627317764899-eb00cfc40ac2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8c3RhdGUlMjBtaW5pc3RlciUyMG5henJ1bCUyMGlzbGFtJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk0OTg1MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-18T05:24:07+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.75,
-      "rank_score": 5.4694,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/424962/ex-state-minister-nazrul-islam-hiru-arrested",
-          "title": "Ex-state minister Nazrul Islam Hiru arrested",
-          "snippet": "Ex-state minister Nazrul Islam Hiru arrested"
-        },
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/crime/pekziantpp",
-          "title": "সাবেক প্রতিমন্ত্রী নজরুল ইসলাম ঢাকায় আটক",
-          "snippet": "সাবেক প্রতিমন্ত্রী নজরুল ইসলাম ঢাকায় আটক"
-        },
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/former-state-minister-nazrul-islam-hiru-detained-dhaka-4327011",
-          "title": "Former state minister Nazrul Islam Hiru detained in Dhaka",
-          "snippet": "Former state minister Nazrul Islam Hiru detained in Dhaka"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/crime/ex-state-minister-nazrul-islam-hiru-arrested-1606256",
-          "title": "Ex-state minister Nazrul Islam Hiru arrested",
-          "snippet": "Ex-state minister Nazrul Islam Hiru arrested"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সাবেক প্রতিমন্ত্রী নজরুল ইসলাম ডিওএইচএস থেকে আটক",
-        "title_en": "Ex-state minister Nazrul Islam arrested in DOHS",
-        "summary_bn": "রাজধানীর বারিধারা ডিওএইচএস থেকে সাবেক প্রতিমন্ত্রী ও সংসদ সদস্য মোহাম্মদ নজরুল ইসলাম হিরুকে আটক করা হয়েছে।",
-        "summary_en": "Former state minister and MP Mohammad Nazrul Islam Hiru has been arrested from Baridhara DOHS in the capital.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-18T05:24:07+00:00",
-        "lead_bn": "রাজধানীর বারিধারা ডিওএইচএস থেকে সাবেক প্রতিমন্ত্রী ও সংসদ সদস্য মোহাম্মদ নজরুল ইসলাম হিরুকে আটক করা হয়েছে।",
-        "lead_en": "Former state minister and MP Mohammad Nazrul Islam Hiru has been arrested from Baridhara DOHS in the capital.",
-        "bullets_bn": [
-          "বিশেষ প্রতিক্রিয়া ব্যাটালিয়ন এসআরবি-০১ এর একটি দল অভিযান চালিয়ে তাকে আটক করে।",
-          "এসআরবির আইন ও গণমাধ্যম শাখা থেকে আটকের এই তথ্য জানানো হয়।",
-          "তার বিরুদ্ধে একাধিক মামলায় বেশ কয়েকটি গ্রেপ্তারি পরোয়ানা জারি করা হয়েছিল।"
-        ],
-        "bullets_en": [
-          "A team of the Special Response Battalion SRB-01 conducted a raid and detained him.",
-          "The law and media branch of SRB provided this information regarding the detention.",
-          "Several arrest warrants had been issued against him in multiple cases."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "রাজধানীর বারিধারা ডিওএইচএস-এর একটি বাসায় অভিযান পরিচালনা করে তাকে আটক করা হয়। এসআরবি-০১ এর সহকারী পুলিশ সুপার লুৎফরের নেতৃত্বে এই অভিযান পরিচালিত হয়। তিনি পানি সম্পদ মন্ত্রণালয়ের সাবেক প্রতিমন্ত্রী এবং নরসিংদী-১ আসনের চারবারের সাবেক সংসদ সদস্য ছিলেন। একাধিক মামলায় তার বিরুদ্ধে গ্রেপ্তারি পরোয়ানা জারি ছিল।",
-        "details_en": "He was detained during a raid at a residence in Baridhara DOHS in the capital. The operation was led by SRB-01 Assistant Superintendent of Police Lutfar. He served as the former state minister for water resources and was a four-time former MP for Narsingdi-1. Arrest warrants had been issued against him in multiple cases.",
-        "hook_bn": "বারিধারা ডিওএইচএস থেকে সাবেক প্রতিমন্ত্রী আটক",
-        "kicker_bn": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "ট্রাম্প ও শি জিনপিংয়ের সঙ্গে বৈঠকের প্রত্যাশা পুতিনের",
+        "kicker_bn": "এপেক সম্মেলন",
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 7.0,
-      "outlet_count": 5,
-      "trending": false,
-      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-18T07:01:55.938539+00:00"
+        "checked_at": "2026-11-18T08:05:51.746897+00:00"
       }
     },
     {
-      "story_id": "1e64c6b1-70b7-5f72-bc20-dfba13570265",
+      "story_id": "3409f860-2576-598c-8bce-7d39317cdc3d",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#BangladeshBank",
+        "#PadmaBank",
+        "#MostaqurRahman",
+        "#AriefHossainKhan"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo%2Fimport%2Fmedia%2F2017%2F02%2F13%2Ffc71a45336894c49bba4a4534beaa22c-gold.jpg?rect=0%2C30%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/10/25/photo-output.jpeg",
       "image_caption": null,
-      "published_at": "2026-11-18T06:05:10+00:00",
+      "published_at": "2026-11-18T07:10:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 4.9794,
+      "importance_score": 6.0,
+      "rank_score": 3.4129,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/business/industry/umeaqaifd3",
-          "title": "নভেম্বর মাসে সোনার দাম কমল ভরিতে ১৪ হাজার ২৮৮ টাকা",
-          "snippet": "নভেম্বর মাসে সোনার দাম কমল ভরিতে ১৪ হাজার ২৮৮ টাকা"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/gold-price-falls-again/",
-          "title": "আবারও কমেছে স্বর্ণের দাম",
-          "snippet": "আবারও কমেছে স্বর্ণের দাম"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/banking/bangladesh-bank-approves-resolution-process-crisis-hit-padma-bank-1606326",
+          "title": "Bangladesh Bank approves resolution process for crisis-hit Padma Bank",
+          "snippet": "Bangladesh Bank approves resolution process for crisis-hit Padma Bank"
         }
       ],
       "daily_buzz": {
-        "title_bn": "দেশের বাজারে টানা ছয় দফায় কমল সোনার দাম।",
-        "title_en": "Gold prices dropped across six consecutive phases in the local market.",
-        "summary_bn": "বৈশ্বিক বাজারে দরপতনের কারণে দেশের বাজারে টানা ছয় দফায় মোট ১৪ হাজার ২৮৮ টাকা কমেছে সোনার দাম।",
-        "summary_en": "Due to price drops in the global market, gold prices fell by a total of 14,288 taka across six consecutive phases.",
+        "title_bn": "পদ্মা ব্যাংককে রেজুলেশন প্রক্রিয়ার আওতায় আনার অনুমোদন দিল বাংলাদেশ ব্যাংক",
+        "title_en": "Bangladesh Bank approves bringing Padma Bank under the bank resolution process",
+        "summary_bn": "বাংলাদেশ ব্যাংক সংকটগ্রস্ত পদ্মা ব্যাংককে রেজুলেশন প্রক্রিয়ার আওতায় আনার অনুমোদন দিয়েছে, যার ফলে ব্যাংকটির আর্থিক সমস্যা সমাধানে মার্জার বা লিকুইডেশনের পথ উন্মুক্ত হয়েছে।",
+        "summary_en": "Bangladesh Bank has approved bringing crisis-hit Padma Bank under the bank resolution process, paving the way for measures to address its financial troubles.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T06:05:10+00:00",
-        "lead_bn": "বৈশ্বিক বাজারে দরপতনের কারণে দেশের বাজারে টানা ছয় দফায় মোট ১৪ হাজার ২৮৮ টাকা কমেছে সোনার দাম।",
-        "lead_en": "Due to price drops in the global market, gold prices fell by a total of 14,288 taka across six consecutive phases.",
+        "published_at": "2026-11-18T07:10:00+00:00",
+        "lead_bn": "বাংলাদেশ ব্যাংক সংকটগ্রস্ত পদ্মা ব্যাংককে রেজুলেশন প্রক্রিয়ার আওতায় আনার অনুমোদন দিয়েছে, যার ফলে ব্যাংকটির আর্থিক সমস্যা সমাধানে মার্জার বা লিকুইডেশনের পথ উন্মুক্ত হয়েছে।",
+        "lead_en": "Bangladesh Bank has approved bringing crisis-hit Padma Bank under the bank resolution process, paving the way for measures to address its financial troubles.",
         "bullets_bn": [
-          "বাংলাদেশ জুয়েলার্স সমিতি ২২ ক্যারেটের প্রতি ভরি সোনার দাম নির্ধারণ করেছে ২ লাখ ১৫ হাজার ৩৭৬ টাকা।",
-          "আন্তর্জাতিক বাজারে প্রতি আউন্স সোনার দাম কমেছে ৬৬ ডলার।",
-          "সোনা ও রুপার নির্ধারিত দামের সঙ্গে ভ্যাট যুক্ত রয়েছে বলে জানিয়েছে বাজুস।"
+          "বাংলাদেশ ব্যাংকের পর্ষদ সভায় ১৭ নভেম্বর এই সিদ্ধান্ত নেওয়া হয় এবং সভায় সভাপতিত্ব করেন গভর্নর মোস্তাকুর রহমান।",
+          "কেন্দ্রীয় ব্যাংকের মুখপাত্র ও নির্বাহী পরিচালক আরিফ হোসেন খান এই সিদ্ধান্ত নিশ্চিত করেছেন।",
+          "কোন রেজুলেশন পদ্ধতি প্রয়োগ করা হবে সে বিষয়ে এখনও কোনো সিদ্ধান্ত হয়নি এবং সংশ্লিষ্ট বিভাগ প্রস্তাব তৈরি করবে।"
         ],
         "bullets_en": [
-          "Bangladesh Jeweller Association set the price of 22-karat gold at 215,376 taka per bhori.",
-          "The price of gold decreased by 66 dollars per ounce in the international market.",
-          "Bajus stated that VAT is included with the fixed prices of gold and silver."
+          "The decision was taken at a meeting of the central bank's Board of Directors on 17 November, chaired by Governor Mostaqur Rahman.",
+          "Bangladesh Bank spokesperson and Executive Director Arief Hossain Khan confirmed the decision.",
+          "No decision has yet been made on which resolution method will be applied, and a proposal will be prepared."
         ],
-        "impact_bn": "অলংকার বিক্রির সময় জুয়েলারি প্রতিষ্ঠানগুলো ক্রেতাদের কাছ থেকে আলাদাভাবে ভ্যাট আদায় করতে পারবে না।",
-        "impact_en": "Jewelry stores will not be able to collect VAT separately from buyers when selling ornaments.",
-        "details_bn": "বাংলাদেশ জুয়েলার্স সমিতি সোনার দাম কমানোর ঘোষণা দিয়েছে। এর আগে ৬ ও ১১ নভেম্বর দুই দফায় ভরিতে ২ হাজার ৭৪১ টাকা করে মোট ৫ হাজার ৪৮২ টাকা কমানো হয়। এরপর কমে ২ হাজার ২১৬ টাকা, কমে ২ হাজার ১৫৮ টাকা এবং কমেছে ২ হাজার ২১৬ টাকা। নভেম্বরের শুরুতে সোনার দাম প্রায় ১২ হাজার টাকা বেড়ে ২ লাখ ২৯ হাজার টাকা ছাড়িয়ে গিয়েছিল। আন্তর্জাতিক বাজারে প্রতি আউন্স সোনার দাম কমেছে এবং স্থানীয় বাজারে তেজাবি সোনার দামও কমেছে।",
-        "details_en": "The Bangladesh Jeweller Association announced the reduction of gold prices. Earlier, prices were reduced by 2,741 taka per bhori in two phases on November 6 and 11, totaling 5,482 taka. Subsequently, prices fell by 2,216 taka 2,158 taka and 2,216 taka on Saturday. At the beginning of November, gold prices had increased by nearly 12,000 taka, exceeding 229,000 taka. The price per ounce of gold decreased in the international market, and pure gold prices also fell in the local market.",
-        "hook_bn": "দেশের বাজারে কমল সোনার দাম",
-        "kicker_bn": "দাম কমছে",
-        "share_value": true,
-        "question_bn": "সোনার দাম কমার এই সিদ্ধান্তকে আপনি কীভাবে দেখছেন?"
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "পদ্মা ব্যাংক এমন কয়েকটি ঋণদাতা প্রতিষ্ঠানের মধ্যে রয়েছে যা ক্ষমতাচ্যুত আওয়ামী লীগ সরকারের সময় লুটপাট, অনিয়ম ও দুর্নীতির অভিযোগের মধ্যে পড়ে তীব্র আর্থিক সংকটে পড়েছিল। এর আগে রেজুলেশন প্রক্রিয়ার মাধ্যমে পাঁচটি ব্যাংকের একীভূতকরণের মাধ্যমে সম্মিলিত ইসলামী ব্যাংক গঠিত হয়েছিল এবং সরকার সেগুলিতে বিনিয়োগ করে সম্পূর্ণ মালিকানা গ্রহণ করেছিল।",
+        "details_en": "Padma Bank is among the lenders that fell into deep financial trouble amid allegations of looting, irregularities and corruption during the tenure of the ousted Awami League government. Earlier, Sammilito Islami Bank was formed through the merger of five banks under the resolution process, with the government taking full ownership through investments.",
+        "hook_bn": "'পদ্মা ব্যাংককে রেজুলেশনের আওতায় আনা হয়েছে'",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "ব্যাংক খাতের বর্তমান সংকট দূর করতে এই ধরনের রেজুলেশন প্রক্রিয়া কতটা কার্যকর ভূমিকা রাখতে পারে বলে আপনি মনে করেন?"
       },
-      "desk_importance": 7.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 9.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-18T07:01:55.938539+00:00"
+        "checked_at": "2026-11-18T08:05:51.746897+00:00"
       }
     },
     {
-      "story_id": "7cf54b90-1b6a-582b-b35f-5548150def3e",
-      "primary_category": "sports_fitness",
+      "story_id": "1b5fe931-a7e8-5539-b697-c355f30deb9a",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "sports_fitness",
-        "world_diplomacy"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#BangladeshFootball",
-        "#Macau"
+        "#AwamiLeague",
+        "#Savar",
+        "#Ashulia",
+        "#Dhamrai"
       ],
-      "image_url": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8c3RhZGl1bSUyMGZvb3RiYWxsJTIwY3JpY2tldCUyMHNwb3J0cyUyMG1hdGNofGVufDF8MHx8fDE3OTQ5ODUzMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-09/arrest_3%20%281%29%20%281%29_0.jpg",
       "image_caption": null,
-      "published_at": "2026-11-18T06:50:30+00:00",
+      "published_at": "2026-11-18T06:17:12+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.849,
+      "importance_score": 6.0,
+      "rank_score": 3.2438,
       "sources": [
+        {
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/26-al-leaders-activists-arrested-savar-ashulia-and-dhamrai-4327016",
+          "title": "26 AL leaders, activists arrested in Savar, Ashulia and Dhamrai",
+          "snippet": "26 AL leaders, activists arrested in Savar, Ashulia and Dhamrai"
+        },
         {
           "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/sport/football/424969/bangladesh-edge-past-macau-in-afc-u-17-asian-cup",
-          "title": "Bangladesh edge past Macau in AFC U-17 Asian Cup qualifiers",
-          "snippet": "Bangladesh edge past Macau in AFC U-17 Asian Cup qualifiers"
+          "url": "https://www.dhakatribune.com/bangladesh/424977/nearly-300-arrested-as-workers-unrest-spreads-in",
+          "title": "Nearly 300 arrested as workers' unrest spreads in Savar-Ashulia",
+          "snippet": "Nearly 300 arrested as workers' unrest spreads in Savar-Ashulia"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মাকাওকে হারিয়ে জয় পেল বাংলাদেশ অনূর্ধ্ব-১৭ দল",
-        "title_en": "Bangladesh edge past Macau in AFC U-17 Asian Cup qualifiers",
-        "summary_bn": "বাংলাদেশ অনূর্ধ্ব-১৭ জাতীয় ফুটবল দল মাকাওকে এক গোলে হারিয়ে এএফসি অনূর্ধ্ব-১৭ এশিয়ান কাপ বাছাইপর্বে তাদের দ্বিতীয় জয় তুলে নিয়েছে।",
-        "summary_en": "The Bangladesh U-17 national football team recorded their second victory in the AFC U-17 Asian Cup qualification by edging past Macau by a solitary goal.",
+        "title_bn": "সাভার, আশুলিয়া ও ধামরাইয়ে ২৬ আওয়ামী লীগ নেতা-কর্মী গ্রেপ্তার",
+        "title_en": "26 Awami League leaders and activists arrested in Savar, Ashulia and Dhamrai",
+        "summary_bn": "নিষিদ্ধ আওয়ামী লীগ ও এর অঙ্গসংগঠনের ২৬ জন নেতা-কর্মীকে সাভার, আশুলিয়া ও ধামরাই থেকে গ্রেপ্তার করেছে পুলিশ।",
+        "summary_en": "Police have arrested 26 leaders and activists of the banned Awami League and its affiliated organisations in Savar, Ashulia and Dhamrai.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-18T06:50:30+00:00",
-        "lead_bn": "বাংলাদেশ অনূর্ধ্ব-১৭ জাতীয় ফুটবল দল মাকাওকে এক গোলে হারিয়ে এএফসি অনূর্ধ্ব-১৭ এশিয়ান কাপ বাছাইপর্বে তাদের দ্বিতীয় জয় তুলে নিয়েছে।",
-        "lead_en": "The Bangladesh U-17 national football team recorded their second victory in the AFC U-17 Asian Cup qualification by edging past Macau by a solitary goal.",
-        "bullets_bn": [
-          "ম্যাচটি অনুষ্ঠিত হয় সংযুক্ত আরব আমিরাতের রাস আল খাইমার সৌদ বিন সাকির আল কাসিমি স্টেডিয়ামে।",
-          "এই জয়ে তিন ম্যাচে বাংলাদেশ দল ছয় পয়েন্ট অর্জন করেছে।",
-          "মাকাও দলের সংগ্রহ আগের তিন পয়েন্টই রয়ে গেছে।"
-        ],
-        "bullets_en": [
-          "The match was held at Saud Bin Saqr Al Qasimi Stadium in Ras Al Khaimah, United Arab Emirates.",
-          "With this win, Bangladesh secured six points from three matches.",
-          "Macau remained with their previous collection of three points."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "মাকাওকে হারিয়ে বাংলাদেশের দ্বিতীয় জয়",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-18T07:01:55.938539+00:00"
-      }
-    },
-    {
-      "story_id": "a0609d96-cd10-55dc-a5a6-fb0c8a49c88f",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "international",
-      "tags": [
-        "#MaryPeltola",
-        "#Alaska",
-        "#USSenate"
-      ],
-      "image_url": "https://th-i.thgim.com/public/incoming/2mx26t/article71714732.ece/alternates/LANDSCAPE_1200/Election_2_26_Alaska_Senate__6261.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-18T06:39:20+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 4.1362,
-      "sources": [
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/democrat-peltola-wins-in-alaska-securing-56-44-us-senate-majority/article71714710.ece",
-          "title": "Democrat Peltola wins in Alaska, securing 56-44 U.S. Senate majority",
-          "snippet": "Democrat Peltola wins in Alaska, securing 56-44 U.S. Senate majority"
-        },
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/us-democrats-flip-alaska-senate-seat-as-mary-peltola-wins-race/a-79976628?maca=en-rss-en-all-1573-rdf",
-          "title": "US Democrats flip Alaska Senate seat as Mary Peltola wins race",
-          "snippet": "US Democrats flip Alaska Senate seat as Mary Peltola wins race"
-        },
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss",
-          "title": "Mary Peltola flips Alaska Senate seat in another Democratic win",
-          "snippet": "Mary Peltola flips Alaska Senate seat in another Democratic win"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "আলাস্কায় সিনেট আসন জিতেছেন ডেমোক্র্যাট প্রার্থী মেরি পেলটোলা।",
-        "title_en": "Democrat Mary Peltola wins Alaska Senate seat.",
-        "summary_bn": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচনে আলাস্কার সিনেট আসনে জয় পেয়েছেন ডেমোক্র্যাট প্রার্থী মেরি পেলটোলা।",
-        "summary_en": "Democrat Mary Peltola won Alaska’s U.S. Senate race, giving her party a 56-44 majority.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T06:39:20+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচনে আলাস্কার সিনেট আসনে জয় পেয়েছেন ডেমোক্র্যাট প্রার্থী মেরি পেলটোলা।",
-        "lead_en": "Democrat Mary Peltola won Alaska’s U.S. Senate race, giving her party a 56-44 majority.",
+        "published_at": "2026-11-18T06:17:12+00:00",
+        "lead_bn": "নিষিদ্ধ আওয়ামী লীগ ও এর অঙ্গসংগঠনের ২৬ জন নেতা-কর্মীকে সাভার, আশুলিয়া ও ধামরাই থেকে গ্রেপ্তার করেছে পুলিশ।",
+        "lead_en": "Police have arrested 26 leaders and activists of the banned Awami League and its affiliated organisations in Savar, Ashulia and Dhamrai.",
         "bullets_bn": [
-          "মেরি পেলটোলা প্রথম পছন্দের ভোটের ৫০ শতাংশ পেয়ে রিপাবলিকান প্রার্থী ড্যান সুলিভানকে পরাজিত করেছেন।",
-          "এই জয়ের ফলে ডেমোক্র্যাটরা ৫৬-৪৪ ব্যবধানে সিনেটের সংখ্যাগরিষ্ঠতা অর্জন করেছে।",
-          "নির্বাচনে জয়লাভের পর মেরি পেলটোলা এক্স বার্তায় আলাস্কার ভোটারদের ধন্যবাদ জানিয়েছেন।"
+          "আশুলিয়ায় ২২ জন, সাভারে তিনজন এবং ধামরাইয়ে একজনকে গ্রেপ্তার করা হয়েছে।",
+          "আশুলিয়া থানার ভারপ্রাপ্ত কর্মকর্তা মোহাম্মদ তারিকুল ইসলাম এবং সাভার মডেল থানার ভারপ্রাপ্ত কর্মকর্তা সাইফুল আলম এই গ্রেপ্তারের বিষয়টি নিশ্চিত করেছেন।",
+          "ধামরাই থানার ভারপ্রাপ্ত কর্মকর্তা নাজমুল হুদা খান জানিয়েছেন, গ্রেপ্তারকৃতদের আদালতে পাঠানো হবে।"
         ],
         "bullets_en": [
-          "Ms. Peltola won 50% of first-place votes to defeat Republican incumbent Dan Sullivan.",
-          "The victory gave the Democratic party its ninth flip of the midterm elections and a 56-44 majority.",
-          "Ms. Peltola thanked voters on X after media projected her victory in the final race."
+          "Twenty-two were arrested in Ashulia, three in Savar and one in Dhamrai.",
+          "The arrests were confirmed by Mohammad Tariqul Islam, OC of Ashulia Police Station, and Saiful Alam, OC of Savar Model Police Station.",
+          "Nazmul Huda Khan, OC of Dhamrai Police Station, stated that the arrested individual would be sent to court."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "আলাস্কার কঠিন প্রতিদ্বন্দ্বিতাপূর্ণ এই আসনটি দেশটির মধ্যবর্তী নির্বাচনে সর্বশেষ বিজয়ী হওয়া আসন। ভোট গণনার দীর্ঘ প্রক্রিয়ার পাশাপাশি স্বতন্ত্র প্রার্থী নিয়োগ নিয়ে ডেমোক্র্যাটদের বিরুদ্ধে অভিযোগ উঠেছিল এবং এই আসনে আইনি চ্যালেঞ্জের সম্ভাবনা রয়েছে।",
-        "details_en": "The hard-fought contest is the last to be called for the US Senate and likely faces legal challenges. Alaska's isolated communities can make counts lengthy, and the race involved allegations that Democrats helped recruit an independent candidate as a spoiler.",
-        "hook_bn": "আলাস্কায় সিনেট আসন পেলেন ডেমোক্র্যাট প্রার্থী মেরি পেলটোলা",
+        "details_bn": "পৃথক অভিযানে আলাদা স্থান থেকে এসব নেতা-কর্মীকে গ্রেপ্তার করা হয়। সাভারে গ্রেপ্তারকৃতদের মধ্যে দুজন মানিকগঞ্জ জেলা যুবলীগের নেতা। এর পাশাপাশি সাভার ও আশুলিয়ায় শ্রমিক অসন্তোষের জেরে প্রায় তিনশ জনকে গ্রেপ্তারের ঘটনাও ঘটেছে এবং ২৪টি মামলা দায়ের হয়েছে।",
+        "details_en": "The leaders and activists were arrested in separate drives from different locations. Among those arrested in Savar are two leaders of the Manikganj district unit of Jubo League. Additionally, nearly 300 arrests and 24 cases have been reported in Savar and Ashulia in connection with labour unrest.",
+        "hook_bn": "সাভার ও আশুলিয়ায় ২৬ আওয়ামী লীগ নেতা গ্রেপ্তার",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 6.0,
-      "outlet_count": 3,
-      "trending": true,
-      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-18T07:01:55.938539+00:00"
+        "checked_at": "2026-11-18T08:05:51.746897+00:00"
       }
     },
     {
-      "story_id": "392cede9-69ca-56c2-93fc-bab486f47f63",
-      "primary_category": "world_diplomacy",
+      "story_id": "aa716d24-bc63-5659-b623-8b2a7d91ff51",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy"
+        "governance_law",
+        "economy_business"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#Sylhet",
+        "#MoglabazarPolice",
+        "#VehicleFire"
       ],
-      "image_url": "https://images.unsplash.com/photo-1656436075877-a20103919f4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8aXJhbiUyMGRyb25lJTIwYXR0YWNrJTIwYmFzZSUyMGRpcGxvbWFjeXxlbnwxfDB8fHwxNzk0OTg1MzE1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/18/screenshot_2026-11-18_133124.png",
       "image_caption": null,
-      "published_at": "2026-11-18T06:42:45+00:00",
+      "published_at": "2026-11-18T07:25:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.8368,
+      "importance_score": 4.8,
+      "rank_score": 2.216,
       "sources": [
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821651/%E0%A6%95%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%98%E0%A6%BE%E0%A6%81%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%A8-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE",
-          "title": "কুয়েতে মার্কিন ঘাঁটিতে ইরানের ড্রোন হামলা",
-          "snippet": "কুয়েতে মার্কিন ঘাঁটিতে ইরানের ড্রোন হামলা"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/mass-media/498863",
-          "title": "ডিএফডি-ডিআরইউ বিতর্ক প্রতিযোগিতায় গ্র্যান্ড ফাইনালে বিএসআরএফ",
-          "snippet": "ডিএফডি-ডিআরইউ বিতর্ক প্রতিযোগিতায় গ্র্যান্ড ফাইনালে বিএসআরএফ"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/one-arrested-while-attempting-set-vehicles-ablaze-sylhet-1606336",
+          "title": "One arrested while attempting to set vehicles ablaze in Sylhet",
+          "snippet": "One arrested while attempting to set vehicles ablaze in Sylhet"
         }
       ],
       "daily_buzz": {
-        "title_bn": "কুয়েতের আলি আল-সালেম বিমানঘাঁটিতে ইরানের ড্রোন হামলা",
-        "title_en": "Iran drone attack on US base in Kuwait",
-        "summary_bn": "ইরানের সেনাবাহিনী কুয়েতের আলি আল-সালেম বিমানঘাঁটি লক্ষ্য করে ড্রোন হামলা চালানোর দাবি করেছে।",
-        "summary_en": "The Iranian army claimed to have launched a drone attack targeting Kuwait Ali Al-Salem air base.",
+        "title_bn": "সিলেটে চলন্ত গাড়িতে আগুন দেওয়ার চেষ্টার সময় একজন গ্রেপ্তার",
+        "title_en": "One arrested while attempting to set vehicles ablaze in Sylhet",
+        "summary_bn": "সিলেটে চলন্ত গাড়িতে আগুন দেওয়ার চেষ্টার সময় গত ১৭ নভেম্বর রাতে মো. জিল্লুর রহমান নামের এক ব্যক্তিকে গ্রেপ্তার করেছে পুলিশ।",
+        "summary_en": "Police arrested Md Zillur Rahman on the night of 17 November while he was attempting to set fire to moving vehicles in Sylhet.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "governance_law",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T06:42:45+00:00",
-        "lead_bn": "ইরানের সেনাবাহিনী কুয়েতের আলি আল-সালেম বিমানঘাঁটি লক্ষ্য করে ড্রোন হামলা চালানোর দাবি করেছে।",
-        "lead_en": "The Iranian army claimed to have launched a drone attack targeting Kuwait Ali Al-Salem air base.",
+        "published_at": "2026-11-18T07:25:00+00:00",
+        "lead_bn": "সিলেটে চলন্ত গাড়িতে আগুন দেওয়ার চেষ্টার সময় গত ১৭ নভেম্বর রাতে মো. জিল্লুর রহমান নামের এক ব্যক্তিকে গ্রেপ্তার করেছে পুলিশ।",
+        "lead_en": "Police arrested Md Zillur Rahman on the night of 17 November while he was attempting to set fire to moving vehicles in Sylhet.",
         "bullets_bn": [
-          "ইরানি সেনাবাহিনীর বিবৃতি অনুযায়ী এই হামলা চালানো হয়।",
-          "ইরানের রাষ্ট্রীয় সংবাদমাধ্যম ইরনা এই তথ্য জানায়।",
-          "হামলায় মার্কিন প্যাট্রিয়ট প্রতিরক্ষা ব্যবস্থা লক্ষ্য করা হয়।"
+          "সিলেটের মোগলাবাজার এলাকার একটি বাইপাস সড়কে পেট্রোল ঢালা টায়ার পুড়িয়ে গাড়িগুলোতে আগুন দেওয়ার চেষ্টা করা হয়।",
+          "মোগলাবাজার থানার ভারপ্রাপ্ত কর্মকর্তা মো. ইমাউল হক জানান, জিল্লুর রহমানকে জিজ্ঞাসাবাদ করা হচ্ছে।",
+          "বাকি আসামিদের শনাক্ত ও গ্রেপ্তারে অভিযান অব্যাহত রয়েছে বলে পুলিশ জানিয়েছে।"
         ],
         "bullets_en": [
-          "The attack was carried out according to a statement by the Iranian army.",
-          "Iranian state media Irna reported this information.",
-          "The attack targeted the US Patriot defense system."
+          "The incident occurred on a bypass road in Sylhet's Moglabazar area using petrol-soaked tyres.",
+          "Moglabazar Police Station Officer-in-Charge Md Emaul Haque said Zillur was being interrogated.",
+          "Police stated that drives were under way to identify and arrest the remaining suspects."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ইরানের রাষ্ট্রীয় সংবাদমাধ্যম ইরনার বরাতে ১৮ নভেম্বর এই তথ্য জানা গেছে। ইরানি সেনাবাহিনীর বিবৃতিতে বলা হয়, ইসলামি প্রজাতন্ত্র ইরানের সেনাবাহিনীর বিধ্বংসী কমব্যাট ড্রোনগুলো কুয়েতের আলি আল-সালেম ঘাঁটিতে অবস্থিত মার্কিন সন্ত্রাসী বাহিনীর প্যাট্রিয়ট প্রতিরক্ষা ব্যবস্থা এবং অন্যান্য লক্ষ্যবস্তুতে আঘাত হানে।",
-        "details_en": "This information was reported on 18 November citing Iranian state media Irna. The Iranian army statement said that destructive combat drones of the Islamic Republic of Iran army attacked the Patriot defense system and other targets of the US terrorist forces located at Kuwait Ali Al-Salem base this morning.",
-        "hook_bn": "কুয়েতের মার্কিন ঘাঁটিতে ইরানের ড্রোন হামলা",
-        "kicker_bn": "সতর্কতা",
+        "details_bn": "পুলিশ জানায়, গত ১৭ নভেম্বর রাত সাড়ে এগারোটার দিকে শ্রীরামপুর পরাড়চক ট্রাক স্ট্যান্ডের কাছে বাইপাস সড়কে একটি নিষিদ্ধ সংগঠনের ১৫ থেকে ২০ জন কর্মী সমবেত হন। তারা টায়ারে পেট্রোল ঢেলে চলাচলকারী গাড়িগুলোতে আগুন দেওয়ার চেষ্টা করেন। খবর পেয়ে মোগলাবাজার থানার একটি দল ঘটনাস্থলে পৌঁছে মো. জিল্লুর রহমানকে হাতেনাতে ধরে ফেলে, তবে তার সহযোগীরা পালিয়ে যেতে সক্ষম হন। মোগলাবাজার এলাকার বাসিন্দা চল্লিশ বছর বয়সী জিল্লুর রহমানের পিতার নাম মৃত আব্দুল মতিন এবং তার বাসা নগরের বাদামবাগিচা এলাকায়।",
+        "details_en": "Police said 15 to 20 activists of a banned organisation gathered on the bypass road near Sreerampur Parairchak truck stand at around 11:30pm on 17 November. They poured petrol on tyres and attempted to set fire to passing vehicles. Acting on information, a team from Moglabazar Police Station reached the spot and caught Zillur red-handed, while his associates managed to escape. Zillur, 40, is the son of late Abdul Matin from the Badambagicha area of the city.",
+        "hook_bn": "সিলেটে চলন্ত গাড়িতে আগুন দেওয়ার চেষ্টা",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-18T07:01:55.938539+00:00"
+        "checked_at": "2026-11-18T08:05:51.746897+00:00"
       }
     }
   ]
