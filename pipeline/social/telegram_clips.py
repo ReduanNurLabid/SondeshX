@@ -239,6 +239,17 @@ def handle_callback(db, cb: dict, allowed: str):
     parts = (cb.get("data") or "").split(":")
     if parts[0] in ("m", "w") and len(parts) > 1:
         return handle_candidate(db, chat_id, parts[0], parts[1])
+    if parts[0] == "c":  # cancel "I'll send media" and show the candidates again
+        db.collection("admin_config").document("telegram").set({"pending_story": {}}, merge=True)
+        try:
+            tg("editMessageReplyMarkup", chat_id=chat_id, message_id=cb["message"]["message_id"],
+               reply_markup={"inline_keyboard": []})
+        except RuntimeError:
+            pass
+        send(chat_id, "বাতিল করা হয়েছে।")
+        if not send_digest(db, chat_id):
+            send(chat_id, "এখন রিলের মতো নতুন কোনো খবর নেই।")
+        return
     ref = db.collection(COLLECTION).document(parts[1]) if len(parts) > 1 else None
     clip = ref.get().to_dict() if ref and ref.get().exists else None
     if not clip:
@@ -281,6 +292,7 @@ def next_slot_clip(db) -> Optional[dict]:
 # ---------------------------------------------------------------- Reel candidates
 DIGEST_HOURS = (8, 13, 18)        # Bangladesh time; sent at :30
 DIGEST_SIZE = 5
+CANDIDATE_HOURS = 6               # same freshness window as the automatic Reels
 BN_NUM = str.maketrans("0123456789", "০১২৩৪৫৬৭৮৯")
 
 
@@ -290,7 +302,7 @@ def _hours_ago(h: float) -> str:
 
 
 def reel_candidates(db, n: int = DIGEST_SIZE) -> list:
-    """Unposted, fact-checked stories from the last 12 hours, best Reel prospects first
+    """Unposted, fact-checked stories from the last few hours, best Reel prospects first
     (the same score the automatic Reels use, including what past Reels taught us)."""
     from firebase_admin import firestore
     from pipeline.social.post_reel import learned_section_bonus, reel_score
@@ -298,7 +310,7 @@ def reel_candidates(db, n: int = DIGEST_SIZE) -> list:
     for d in db.collection("social_posts").select(["story_id"]).stream():
         posted.add(d.id)
         posted.add((d.to_dict() or {}).get("story_id"))
-    since = _hours_ago(12)
+    since = _hours_ago(CANDIDATE_HOURS)
     stories = []
     for d in (db.collection("daily_buzz").order_by("published_at", direction=firestore.Query.DESCENDING)
               .limit(80).stream()):
@@ -318,6 +330,16 @@ def reel_candidates(db, n: int = DIGEST_SIZE) -> list:
     return stories[:n]
 
 
+def _age_bn(published_at) -> str:
+    try:
+        then = datetime.fromisoformat(str(published_at).replace("Z", "+00:00"))
+        mins = int((datetime.now(timezone.utc) - then).total_seconds() // 60)
+    except (TypeError, ValueError):
+        return "সময় অজানা"
+    text = f"{mins} মিনিট আগে" if mins < 60 else f"{mins // 60} ঘণ্টা আগে"
+    return text.translate(BN_NUM)
+
+
 def send_digest(db, chat_id) -> bool:
     stories = reel_candidates(db)
     if not stories:
@@ -327,7 +349,7 @@ def send_digest(db, chat_id) -> bool:
         n = str(i).translate(BN_NUM)
         buzz = st["daily_buzz"]
         extra = " • কাজের খবর" if buzz.get("share_value") else ""
-        lines.append(f"\n{n}. {buzz['title_bn']}{extra}\n{SITE}/story/{st['story_id']}/")
+        lines.append(f"\n{n}. {buzz['title_bn']}{extra} ({_age_bn(st.get('published_at'))})\n{SITE}/story/{st['story_id']}/")
         buttons.append([{"text": f"🎬 {n} রিল বানাও", "callback_data": f"m:{st['story_id']}"},
                         {"text": f"📷 {n} ছবি/ভিডিও দেব", "callback_data": f"w:{st['story_id']}"}])
     lines.append("\n🎬 = সাধারণ রিলের প্রিভিউ পাঠাব। 📷 = এরপর যে ছবি/ভিডিও পাঠাবেন তা এই খবরের হবে।")
@@ -343,7 +365,8 @@ def handle_candidate(db, chat_id, kind: str, story_id: str):
     if kind == "w":
         db.collection("admin_config").document("telegram").set(
             {"pending_story": {"id": story_id, "at": _now()}}, merge=True)
-        send(chat_id, f"ঠিক আছে। এখন ছবি (১-৪টি) বা ভিডিও পাঠান, লিংক লাগবে না।\nখবর: {title}")
+        send(chat_id, f"ঠিক আছে। এখন ছবি (১-৪টি) বা ভিডিও পাঠান, লিংক লাগবে না।\nখবর: {title}",
+             [[{"text": "✖ বাতিল, তালিকায় ফিরুন", "callback_data": "c:pending"}]])
         return
     clip_id = "a" + datetime.now(timezone.utc).strftime("%Y%m%d%H%M%S")
     db.collection(COLLECTION).document(clip_id).set({
