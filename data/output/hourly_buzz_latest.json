@@ -1,165 +1,181 @@
 {
-  "updated_at": "2026-11-18T11:00:48.221085",
-  "total_stories": 3,
+  "updated_at": "2026-11-18T12:00:48.830665",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "c37e6829-e030-51c2-ac0f-524e471382a1",
-      "primary_category": "sports_fitness",
+      "story_id": "929321ce-be2c-5c1e-bb7b-25ef7d78198c",
+      "primary_category": "society_education",
       "interest_categories": [
-        "sports_fitness",
-        "world_diplomacy"
+        "society_education",
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Sports",
-        "#BangladeshCricket"
+        "#Dengue",
+        "#DGHS"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-18%2Fkr4oeami%2F909955-01-02.jpg?rect=0%2C268%2C3775%2C1982&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/03/dengue.jpg",
       "image_caption": null,
-      "published_at": "2026-11-18T10:33:48+00:00",
+      "published_at": "2026-11-18T11:45:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 5.1192,
+      "importance_score": 7.75,
+      "rank_score": 5.9121,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/sports/cricket/cem69xplgq",
-          "title": "১০ জনের ৮ জনই তাঁর হাতে আউট, বিশ্ব রেকর্ড গড়লেন লিটন",
-          "snippet": "১০ জনের ৮ জনই তাঁর হাতে আউট, বিশ্ব রেকর্ড গড়লেন লিটন"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-rises-508-one-more-dies-1606711",
+          "title": "Dengue: Death toll rises to 508 as one more dies",
+          "snippet": "Dengue: Death toll rises to 508 as one more dies"
         },
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/sports/cricket/litton-das-sets-world-record-eight-dismissals-test-innings-1606581",
-          "title": "Litton Das sets world record with eight dismissals in a Test innings",
-          "snippet": "Litton Das sets world record with eight dismissals in a Test innings"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821714/%E0%A6%A1%E0%A7%87%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A7%A8%E0%A7%AA-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A7%9F-%E0%A6%8F%E0%A6%95%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%AD%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BF",
+          "title": "ডেঙ্গুতে ২৪ ঘণ্টায় একজনের মৃত্যু, হাসপাতালে ভর্তি ১ হাজার ৬৭৪",
+          "snippet": "ডেঙ্গুতে ২৪ ঘণ্টায় একজনের মৃত্যু, হাসপাতালে ভর্তি ১ হাজার ৬৭৪"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/one-dies-dengue/",
+          "title": "ডেঙ্গুতে একজনের মৃত্যু",
+          "snippet": "ডেঙ্গুতে একজনের মৃত্যু"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/health/498968",
+          "title": "ডেঙ্গুতে আরও একজনের মৃত্যু, হাসপাতালে ১৬৭৪",
+          "snippet": "ডেঙ্গুতে আরও একজনের মৃত্যু, হাসপাতালে ১৬৭৪"
         }
       ],
       "daily_buzz": {
-        "title_bn": "টেস্ট ক্রিকেটে এক ইনিংসে সর্বোচ্চ ডিসমিসালের বিশ্ব রেকর্ড গড়েছেন লিটন দাস",
-        "title_en": "Litton Das sets world record with eight dismissals in a Test innings",
-        "summary_bn": "জোহানেসবার্গ টেস্টের প্রথম ইনিংসে দক্ষিণ আফ্রিকার ১০ ব্যাটসম্যানের আটজনই আউট হয়েছেন উইকেটকিপার লিটন দাসের হাতে।",
-        "summary_en": "Litton Das dismissed eight of South Africa's ten batsmen in the first innings of the Johannesburg Test.",
+        "title_bn": "ডেঙ্গুতে আরও একজনের মৃত্যু, নতুন রোগী ১ হাজার ৬৭৪",
+        "title_en": "Dengue death toll rises to 508 with one more death",
+        "summary_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, দেশে গত ২৪ ঘণ্টায় ডেঙ্গুতে একজনের মৃত্যু হয়েছে এবং নতুন করে ১ হাজার ৬৭৪ জন হাসপাতালে ভর্তি হয়েছেন।",
+        "summary_en": "One more person died of dengue and 1,674 new patients were hospitalized across the country in 24 hours, according to DGHS.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness",
-          "world_diplomacy"
+          "society_education",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T10:33:48+00:00",
-        "lead_bn": "জোহানেসবার্গ টেস্টের প্রথম ইনিংসে দক্ষিণ আফ্রিকার ১০ ব্যাটসম্যানের আটজনই আউট হয়েছেন উইকেটকিপার লিটন দাসের হাতে।",
-        "lead_en": "Litton Das dismissed eight of South Africa's ten batsmen in the first innings of the Johannesburg Test.",
+        "published_at": "2026-11-18T11:45:00+00:00",
+        "lead_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, দেশে গত ২৪ ঘণ্টায় ডেঙ্গুতে একজনের মৃত্যু হয়েছে এবং নতুন করে ১ হাজার ৬৭৪ জন হাসপাতালে ভর্তি হয়েছেন।",
+        "lead_en": "One more person died of dengue and 1,674 new patients were hospitalized across the country in 24 hours, according to DGHS.",
         "bullets_bn": [
-          "দক্ষিণ আফ্রিকার ১০ ব্যাটসম্যানের ৮ জনই আউট হন লিটনের হাতে, যার মধ্যে ৬টি ক্যাচ ও ২টি স্টাম্পিং।",
-          "এর আগের রেকর্ডটি ছিল ৭টি ডিসমিসালের, যা এতদিন পাঁচজন উইকেটকিপার ভাগ করে নিয়েছিলেন।",
-          "দক্ষিণ আফ্রিকা তাদের প্রথম ইনিংসে অলআউট হয়েছে ৫৫৭ রানে।"
+          "গত ২৪ ঘণ্টায় ডেঙ্গুতে মারা যাওয়া ব্যক্তি ঢাকা বিভাগের বাসিন্দা।",
+          "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, চলতি বছরের জানুয়ারি থেকে এ পর্যন্ত ডেঙ্গুতে মোট মৃত্যুর সংখ্যা দাঁড়িয়েছে ৫০৮ জনে।",
+          "সারাদেশের হাসপাতালে বর্তমানে ৫ হাজার ৬১৭ জন ডেঙ্গু রোগী চিকিৎসাধীন রয়েছেন।"
         ],
         "bullets_en": [
-          "Eight of South Africa's ten batsmen were dismissed by Litton, including six catches and two stumpings.",
-          "The previous record was seven dismissals, which was shared by five wicketkeepers.",
-          "South Africa was all out for 557 runs in their first innings."
+          "The deceased person from the 24-hour period was from Dhaka division, according to the DGHS update.",
+          "The total death toll from the mosquito-borne disease this year has reached 508, according to the Directorate General of Health Services.",
+          "A total of 5,617 dengue patients are currently receiving treatment at hospitals nationwide."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "টেস্টের দেড় শ বছরের ইতিহাসে এক ইনিংসে কোনো উইকেটকিপারের সর্বোচ্চ ডিসমিসাল ছিল ৭টি। পাকিস্তানের ওয়াসিম বারি ১৯৭৯ সালে নিউজিল্যান্ডের বিপক্ষে প্রথম এই কীর্তি গড়েন। পরে বব টেলর, ইয়ান স্মিথ, রিডলি জ্যাকবস ও জশুয়া দা সিলভারাও ইনিংসে ৭ ডিসমিসাল করেন। সবাইকে ছাড়িয়ে এবার এককভাবে এই রেকর্ডের মালিক হলেন লিটন দাস।",
-        "details_en": "In 150 years of Test history, the previous highest dismissals in an innings by a wicketkeeper was seven. Pakistan's Wasim Bari first achieved this feat against New Zealand in 1979. Bob Taylor, Ian Smith, Ridley Jacobs, and Joshua Da Silva later equaled the seven dismissals. Litton Das now solely holds the record, surpassing all of them.",
-        "hook_bn": "টেস্টে এক ইনিংসে আট ডিসমিসালের বিশ্ব রেকর্ড লিটনের",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": "টেস্ট ক্রিকেটে লিটন দাসের এই বিশ্ব রেকর্ডকে আপনি কীভাবে দেখছেন?"
+        "details_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, চলতি বছরের জানুয়ারি থেকে এ পর্যন্ত দেশে ডেঙ্গুতে আক্রান্ত হয়ে মোট ১ লাখ ৬৭ হাজার ৩১৮ জন রোগী হাসপাতালে ভর্তি হয়েছেন। এর মধ্যে ১ লাখ ৬১ হাজার ১৯৩ জন রোগী সুস্থ হয়ে হাসপাতাল থেকে বাড়ি ফিরেছেন।",
+        "details_en": "According to the Directorate General of Health Services, the cumulative number of dengue cases reported across the country has reached 167,318. Meanwhile, 161,193 patients have recovered and been discharged from hospitals this year.",
+        "hook_bn": "ডেঙ্গুতে একজনের মৃত্যু, হাসপাতালে ভর্তি ১,৬৭৪",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": null
       },
       "desk_importance": 7.0,
-      "outlet_count": 2,
+      "outlet_count": 4,
       "trending": false,
-      "social_appeal": 7.0,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-18T11:01:52.610286+00:00"
+        "checked_at": "2026-11-18T12:02:13.408804+00:00"
       }
     },
     {
-      "story_id": "99783d4f-d01c-5d6e-b8c1-9133d915635f",
-      "primary_category": "world_diplomacy",
+      "story_id": "08580756-865c-5daa-96ed-57509278ead2",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Dhaka",
-        "#Colombo"
+        "#ShamimAlSaifulSohag",
+        "#CMMCourt"
       ],
-      "image_url": "https://images.unsplash.com/photo-1592487501226-7ed5e5dc80f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGlwbG9tYWN5JTIwd29ybGQlMjBwb2xpdGljcyUyMGZsYWd8ZW58MXwwfHx8MTc5NDk5OTY5MXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1528747008803-f9f5cc8f1a64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bGF3eWVyJTIwc29oYWclMjBvdGhlcnMlMjBzZW50JTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1MDAzMjk1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-18T10:32:21+00:00",
+      "published_at": "2026-11-18T11:43:02+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.942,
+      "importance_score": 7.5,
+      "rank_score": 5.5264,
       "sources": [
         {
           "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/425005/dhaka-colombo-agree-to-establish-joint-commission",
-          "title": "Dhaka, Colombo agree to establish joint commission to strengthen ties",
-          "snippet": "Dhaka, Colombo agree to establish joint commission to strengthen ties"
+          "url": "https://www.dhakatribune.com/bangladesh/crime/425017/lawyer-beaten-at-court-premises-sent-to-jail",
+          "title": "Lawyer beaten at court premises sent to jail",
+          "snippet": "Lawyer beaten at court premises sent to jail"
         },
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/foreign-policy/bangladesh-sri-lanka-establish-joint-commission-cooperation-1606606",
-          "title": "Bangladesh, Sri Lanka establish joint commission for cooperation",
-          "snippet": "Bangladesh, Sri Lanka establish joint commission for cooperation"
+          "url": "https://www.tbsnews.net/bangladesh/court/lawyer-sohag-two-others-sent-jail-over-crude-bomb-blast-outside-cmm-court-1606666",
+          "title": "Lawyer Sohag, two others sent to jail over crude bomb blast outside CMM court",
+          "snippet": "Lawyer Sohag, two others sent to jail over crude bomb blast outside CMM court"
         },
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/dhaka-colombo-agree-to-establish-joint-commission-to-strengthen-ties",
-          "title": "Dhaka, Colombo agree to establish joint commission to strengthen ties",
-          "snippet": "Dhaka, Colombo agree to establish joint commission to strengthen ties"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/law-courts/news/1180999",
+          "title": "আদালত চত্বরে মারধরের শিকার আইনজীবীকে কারাগারে পাঠানোর আদেশ",
+          "snippet": "আদালত চত্বরে মারধরের শিকার আইনজীবীকে কারাগারে পাঠানোর আদেশ"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/law-and-crime/981746/%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7%E0%A7%80-%E0%A6%86%E0%A6%87%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80",
+          "title": "সন্ত্রাসবিরোধী আইনের মামলায় সাবেক প্রতিমন্ত্রী হিরুসহ তিনজন কারাগারে",
+          "snippet": "সন্ত্রাসবিরোধী আইনের মামলায় সাবেক প্রতিমন্ত্রী হিরুসহ তিনজন কারাগারে"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাংলাদেশ ও শ্রীলঙ্কা যৌথ কমিশন গঠনে একমত হয়েছে",
-        "title_en": "Bangladesh and Sri Lanka agree to establish a joint commission",
-        "summary_bn": "দ্বিপক্ষীয় সম্পর্ক জোরদার করতে ঢাকা ও কলম্বো একটি যৌথ কমিশন গঠনের বিষয়ে একমত হয়েছে।",
-        "summary_en": "Dhaka and Colombo have agreed to establish a joint commission to strengthen bilateral ties.",
+        "title_bn": "আইনজীবী সোহাগসহ তিনজনকে কারাগারে পাঠানোর আদেশ দেওয়া হয়েছে।",
+        "title_en": "Lawyer Sohag and two others sent to jail.",
+        "summary_bn": "আদালত চত্বরে মারধরের শিকার আইনজীবী শামীম আল সাইফুল সোহাগসহ তিনজনকে সন্ত্রাসবিরোধী আইনের মামলায় কারাগারে পাঠানো হয়েছে।",
+        "summary_en": "Advocate Shamim Al Saiful Sohag and two others were sent to jail in an Anti-Terrorism Act case.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T10:32:21+00:00",
-        "lead_bn": "দ্বিপক্ষীয় সম্পর্ক জোরদার করতে ঢাকা ও কলম্বো একটি যৌথ কমিশন গঠনের বিষয়ে একমত হয়েছে।",
-        "lead_en": "Dhaka and Colombo have agreed to establish a joint commission to strengthen bilateral ties.",
+        "published_at": "2026-11-18T11:43:02+00:00",
+        "lead_bn": "আদালত চত্বরে মারধরের শিকার আইনজীবী শামীম আল সাইফুল সোহাগসহ তিনজনকে সন্ত্রাসবিরোধী আইনের মামলায় কারাগারে পাঠানো হয়েছে।",
+        "lead_en": "Advocate Shamim Al Saiful Sohag and two others were sent to jail in an Anti-Terrorism Act case.",
         "bullets_bn": [
-          "এই সমঝোতা স্মারকটি দ্বিপক্ষীয় সহযোগিতা ও পারস্পরিক স্বার্থসংশ্লিষ্ট বিষয়ে আলোচনার একটি আনুষ্ঠানিক প্রক্রিয়া তৈরি করবে।",
-          "উভয় দেশই পারস্পরিক সহযোগিতার বিষয়ে যৌথ কমিশন গঠনের সিদ্ধান্ত নিয়েছে।",
-          "উভয় দেশই চ্যালেঞ্জগুলো মোকাবেলার জন্য গৃহীত বিভিন্ন উদ্যোগ সম্পর্কে মতবিনিময় করেছে।"
+          "সিএমএম আদালতের বাইরে ককটেল বিস্ফোরণের ঘটনায় এই আদেশ দেওয়া হয়।",
+          "ঢাকার আদালত চত্বরে মারধরের পর তাকে পুলিশের কাছে হস্তান্তর করা হয়।",
+          "কারাগারে পাঠানো অপর দুজন হলেন কাজী মোস্তাফিজুল ইসলাম মুক্ত ও ব্যারিস্টার রানা তাজউদ্দিন খান।"
         ],
         "bullets_en": [
-          "The MoU aims to create a formal mechanism for consultations on bilateral cooperation and issues of mutual interest.",
-          "Both countries established a joint commission for cooperation.",
-          "They also exchanged views on various initiatives undertaken by both countries to address those challenges."
+          "The court rejected all three bail applications in the case over the explosion.",
+          "The incident followed a crude bomb blast outside the CMM court on November 9.",
+          "Advocate Shamim Al Saiful Sohag was beaten at the court premises before being handed over to police."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "ঢাকা ও কলম্বোর যৌথ কমিশন গঠন",
-        "kicker_bn": null,
+        "details_bn": "ঢাকার আদালত চত্বরে মারধরের শিকার যুবলীগের কেন্দ্রীয় সাংগঠনিক সম্পাদক ও আইনজীবী অ্যাডভোকেট ড. শামীম আল সাইফুল সোহাগ এবং দুইজনকে সিএমএম আদালতের বাইরে ৯ নভেম্বর ঘটা ককটেল বিস্ফোরণের ঘটনায় জামিন আবেদন খারিজ করে কারাগারে পাঠানো হয়। এছাড়া রাজধানীর বনানী থানায় সন্ত্রাসবিরোধী আইনে করা মামলায় সাবেক পানিসম্পদ প্রতিমন্ত্রী লেফটেন্যান্ট কর্নেল (অব.) মোহাম্মদ নজরুল ইসলাম হিরুসহ তিনজনকে কারাগারে পাঠানোর আদেশ দেন ঢাকা মেট্রোপলিটন ম্যাজিস্ট্রেট সারাহ ফারজানা হক।",
+        "details_en": "Advocate Dr. Shamim Al Saiful Sohag, a central organizing secretary of Juba League, was beaten at the Dhaka court premises and handed over to police. He and two others were denied bail in a case over a cocktail or crude bomb explosion outside the CMM court on November 9. Separately, in an Anti-Terrorism Act case filed at Banani police station, former state minister for water resources Lieutenant Colonel (retd) Mohammad Nazrul Islam Hiru, along with Kazi Mostafizul Islam Mukto and Barrister Rana Tazuddin Khan, were sent to jail by Dhaka Metropolitan Magistrate Sarah Farzana Haque.",
+        "hook_bn": "আদালত চত্বরে মারধরের শিকার আইনজীবী কারাগারে",
+        "kicker_bn": "রায় ঘোষণা",
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 5.0,
-      "outlet_count": 3,
+      "desk_importance": 7.0,
+      "outlet_count": 4,
       "trending": false,
-      "social_appeal": 4.0,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-18T11:01:52.610286+00:00"
+        "checked_at": "2026-11-18T12:02:13.408804+00:00"
       }
     },
     {
-      "story_id": "c77eb16b-5a53-5424-bbb1-de5e13622b27",
+      "story_id": "87de48c6-f002-54c2-93f5-0e7146c2bf20",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
@@ -167,34 +183,29 @@
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Narayanganj",
+        "#Rupganj",
+        "#FireService"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-10%2Fusd6injp%2FAyash.jpg?rect=0%2C5%2C976%2C512&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/18/whatsapp_image_2026-11-18_at_4.25.05_pm.jpeg",
       "image_caption": null,
-      "published_at": "2026-11-18T09:47:45+00:00",
+      "published_at": "2026-11-18T11:25:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.5679,
+      "importance_score": 7.0,
+      "rank_score": 4.7312,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/0pmboxhk28",
-          "title": "রবীন্দ্রনাথের গ্রাফিতিতে কালি: আয়াসের জামিন নামঞ্জুর",
-          "snippet": "রবীন্দ্রনাথের গ্রাফিতিতে কালি: আয়াসের জামিন নামঞ্জুর"
-        },
-        {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/court/rimi-gets-bail-ayas-denied-tagores-graffiti-defacement-case-1606406",
-          "title": "Rimi gets bail, Ayas denied in Tagore's graffiti defacement case",
-          "snippet": "Rimi gets bail, Ayas denied in Tagore's graffiti defacement case"
+          "url": "https://www.tbsnews.net/bangladesh/crime/3-buses-2-legunas-set-fire-narayanganj-overnight-1606671",
+          "title": "3 buses, 2 legunas set on fire in Narayanganj overnight",
+          "snippet": "3 buses, 2 legunas set on fire in Narayanganj overnight"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রবীন্দ্রনাথের গ্রাফিতিতে কালি দেওয়ার মামলায় আয়াসের জামিন নামঞ্জুর",
-        "title_en": "Ayas denied bail in Tagore graffiti defacement case",
-        "summary_bn": "রাজধানীর সেগুনবাগিচায় রবীন্দ্রনাথ ঠাকুরের গ্রাফিতিতে কালি দেওয়ার চেষ্টার মামলায় আল নূর মোহাম্মদ আয়াসের জামিন আবেদন নাকচ করেছেন আদালত।",
-        "summary_en": "A Dhaka court has denied bail to Al Nur Mohammad Ayas in a case over defacing Tagore's graffiti in Segunbagicha.",
+        "title_bn": "নারায়ণগঞ্জে রাতে ৩ বাস ও ২ লেগুনা পুড়িয়ে দিয়েছে দুর্বৃত্তরা",
+        "title_en": "Miscreants set fire to 3 buses and 2 legunas in Narayanganj overnight",
+        "summary_bn": "গত ১৮ নভেম্বর রাতে নারায়ণগঞ্জের রূপগঞ্জ ও সিদ্ধিরগঞ্জে তিনটি পৃথক স্থানে তিনটি বাস ও দুটি লেগুনা পুড়িয়ে দিয়েছে দুর্বৃত্তরা।",
+        "summary_en": "Miscreants set fire to three buses and two legunas at three separate locations in Narayanganj overnight on November 18.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -202,35 +213,185 @@
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T09:47:45+00:00",
-        "lead_bn": "রাজধানীর সেগুনবাগিচায় রবীন্দ্রনাথ ঠাকুরের গ্রাফিতিতে কালি দেওয়ার চেষ্টার মামলায় আল নূর মোহাম্মদ আয়াসের জামিন আবেদন নাকচ করেছেন আদালত।",
-        "lead_en": "A Dhaka court has denied bail to Al Nur Mohammad Ayas in a case over defacing Tagore's graffiti in Segunbagicha.",
+        "published_at": "2026-11-18T11:25:00+00:00",
+        "lead_bn": "গত ১৮ নভেম্বর রাতে নারায়ণগঞ্জের রূপগঞ্জ ও সিদ্ধিরগঞ্জে তিনটি পৃথক স্থানে তিনটি বাস ও দুটি লেগুনা পুড়িয়ে দিয়েছে দুর্বৃত্তরা।",
+        "lead_en": "Miscreants set fire to three buses and two legunas at three separate locations in Narayanganj overnight on November 18.",
         "bullets_bn": [
-          "একই মামলার আসামি মারজিয়া খন্দকার রিমিকে ১০ হাজার টাকা মুচলেকায় জামিন দেওয়া হয়েছে।",
-          "দীর্ঘদিন ধরে অসুস্থতা এবং নারী বিবেচনায় মারজিয়া খন্দকার রিমিকে জামিন দেওয়া হয়েছে বলে জানিয়েছেন আইনজীবী।",
-          "এ মামলার অপর দুই আসামি সাকিবুল হাসান ও মো. সুজন মিয়া কারাগারে আছেন।"
+          "রূপগঞ্জের গোলাকান্দাইল মহাসড়কে মেহলা ট্রান্সপোর্ট কোম্পানির দুটি বাসে আগুন দেওয়া হয়।",
+          "বাসের মালিক শহীদুল দাবি করেন যে তার প্রায় ৬ লাখ টাকার ক্ষতি হয়েছে।",
+          "ভুলতা পুলিশাঁড়ির পরিদর্শক রঞ্জু জানান যে এ ঘটনায় আইনি ব্যবস্থা নেওয়া হচ্ছে।"
         ],
         "bullets_en": [
-          "Co-accused Marzia Khandaker Rimi was granted bail on a Tk10,000 bond.",
-          "The defence lawyer stated Rimi was granted bail considering her prolonged illness and gender.",
-          "Two other accused in the case, Shakibul Hasan and Md Sujan Mia, are in jail."
+          "Two buses of Meghla Transport Company were set on fire on the Golakandail Highway in Rupganj.",
+          "Bus owner Shahidul claimed that the damage amounted to around Tk6 lakh.",
+          "Inspector Ranju of the Bhulta Police Outpost stated that legal action was being taken."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "গত ১০ অক্টোবর শিল্পকলা একাডেমির সামনের প্রাচীরে রবীন্দ্রনাথ ঠাকুরের দেয়ালচিত্র মোছার চেষ্টার ঘটনায় শাহবাগ থানায় রাষ্ট্রদ্রোহ আইনে মামলা হয়। ঢাকা দক্ষিণ সিটি করপোরেশন সেগুনবাগিচার ফুটপাত দখলমুক্ত করার পর সেখানে গুণী ব্যক্তিত্বদের প্রতিকৃতি আঁকা হয়েছিল।",
-        "details_en": "A sedition case was filed at Shahbagh police station after an attempt was made to erase Tagore's mural on the wall in front of Shilpakala Academy. Portraits of prominent figures were painted on the footpath walls after Dhaka South City Corporation cleared the Segunbagicha footpath.",
-        "hook_bn": "রবীন্দ্রনাথের গ্রাফিতিতে কালি দেওয়ার মামলায় জামিন নামঞ্জুর",
-        "kicker_bn": "আদালত",
+        "details_bn": "রূপগঞ্জের গোলাকান্দাইল মহাসড়কের আব্দুর রশিদ বাজারের পাশে দাঁড়িয়ে থাকা অবস্থায় রাত সাড়ে তিনটার দিকে বাস দুটিতে আগুন দেওয়া হয়। ওই স্থানের অল্প দূরত্বে নারায়নগঞ্জ-১ আসনের বিএনপি দলীয় সংসদ সদস্য মোস্তাফিজুর রহমান ভূঁইয়া দীপুর বাড়ি অবস্থিত। বাসের এক স্টাফ জানান যে মোটরসাইকেলে করে কয়েকজন এসে আগুন দিয়ে পালিয়ে যায়। খবর পেয়ে ফায়ার সার্ভিসের দুটি ইউনিট প্রায় এক ঘণ্টার চেষ্টায় আগুন নিয়ন্ত্রণে আনে।",
+        "details_en": "Around 3:30am, two buses parked beside Abdur Rashid Market on the Golakandail Highway in Rupganj were set on fire. The house of BNP lawmaker Mustafizur Rahman Bhuiyan Dipu is located a short distance from the scene. A bus staff member said several people arrived on a motorcycle and fled after setting the fire. Two Fire Service units brought the blaze under control after nearly an hour.",
+        "hook_bn": "নারায়ণগঞ্জে রাতে ৩ বাস ও ২ লেগুনা পুড়িয়ে দিল দুর্বৃত্তরা",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
+      "desk_importance": 7.0,
+      "outlet_count": 1,
       "trending": false,
-      "social_appeal": 5.0,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-18T11:01:52.610286+00:00"
+        "checked_at": "2026-11-18T12:02:13.408804+00:00"
+      }
+    },
+    {
+      "story_id": "ce1d5d1c-c847-5265-a0de-ec36093ec4d9",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "governance_law",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1580519542036-c47de6196ba5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Zm9yZWlnbiUyMGV4Y2hhbmdlJTIwcmVzZXJ2ZXMlMjBjb3VudHJ5JTIwYnVzaW5lc3N8ZW58MXwwfHx8MTc5NTAwMzMxOXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-18T11:51:49+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.5,
+      "rank_score": 4.1861,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/dhaka/425021/71-awami-league-activists-detained-in-dhaka-in-24",
+          "title": "71 Awami League activists detained in Dhaka in 24 hours",
+          "snippet": "71 Awami League activists detained in Dhaka in 24 hours"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/forex-reserves-stand-at-3635-billion-pm",
+          "title": "Forex reserves stand at $36.35 billion: PM",
+          "snippet": "Forex reserves stand at $36.35 billion: PM"
+        },
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/uncategorized/post-1222496/",
+          "title": "দেশের বৈদেশিক মুদ্রার রিজার্ভ ৩৬ বিলিয়ন ডলার",
+          "snippet": "দেশের বৈদেশিক মুদ্রার রিজার্ভ ৩৬ বিলিয়ন ডলার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "দেশের বৈদেশিক মুদ্রার রিজার্ভ ৩৬ বিলিয়ন ডলার ছাড়িয়েছে",
+        "title_en": "Foreign exchange reserves of the country stand at $36.35 billion",
+        "summary_bn": "বাংলাদেশের বর্তমান বৈদেশিক মুদ্রার রিজার্ভ বেড়ে প্রায় ৩৬ দশমিক ৩৫ বিলিয়ন মার্কিন ডলারে দাঁড়িয়েছে বলে জাতীয় সংসদকে জানিয়েছেন প্রধানমন্ত্রী তারেক রহমান।",
+        "summary_en": "Prime Minister Tarique Rahman told the Jatiya Sangsad that the country's foreign exchange reserves have increased to about $36.35 billion.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "governance_law",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T11:51:49+00:00",
+        "lead_bn": "বাংলাদেশের বর্তমান বৈদেশিক মুদ্রার রিজার্ভ বেড়ে প্রায় ৩৬ দশমিক ৩৫ বিলিয়ন মার্কিন ডলারে দাঁড়িয়েছে বলে জাতীয় সংসদকে জানিয়েছেন প্রধানমন্ত্রী তারেক রহমান।",
+        "lead_en": "Prime Minister Tarique Rahman told the Jatiya Sangsad that the country's foreign exchange reserves have increased to about $36.35 billion.",
+        "bullets_bn": [
+          "জাতীয় সংসদের চতুর্থ অধিবেশনে প্রধানমন্ত্রীর জন্য নির্ধারিত প্রশ্নোত্তর পর্বে এই তথ্য জানানো হয়।",
+          "একজন সংসদ সদস্যের প্রশ্নের জবাবে প্রধানমন্ত্রী বৈদেশিক মুদ্রার রিজার্ভের এই হিসাব তুলে ধরেন।",
+          "বৈঠকে বৈধ পথে প্রবাসীদের পাঠানো রেমিট্যান্সের প্রবাহ বাড়ানোর বিষয়ে আলোচনা হয়।"
+        ],
+        "bullets_en": [
+          "The information was disclosed during the prime minister's question-and-answer session in the fourth session of the Jatiya Sangsad.",
+          "The prime minister presented this figure of foreign exchange reserves in response to a question from a member of parliament.",
+          "The flow of remittances sent by expatriates through legal channels was discussed during the session."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "১৮ নভেম্বর বিকেলে অনুষ্ঠিত জাতীয় সংসদের চতুর্থ অধিবেশনে প্রধানমন্ত্রীর জন্য নির্ধারিত প্রশ্নোত্তর পর্বে এই তথ্য জানানো হয়।",
+        "details_en": "The information was presented during the prime minister's question-and-answer session in the fourth session of the Jatiya Sangsad held on the afternoon of November 18.",
+        "hook_bn": "বৈদেশিক মুদ্রার রিজার্ভ ৩৬ বিলিয়ন ডলার",
+        "kicker_bn": "রিজার্ভ আপডেট",
+        "share_value": true,
+        "question_bn": "বৈদেশিক মুদ্রার রিজার্ভ বাড়াতে প্রবাসীদের রেমিট্যান্স পাঠানোর ক্ষেত্রে আর কী কী পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-18T12:02:13.408804+00:00"
+      }
+    },
+    {
+      "story_id": "304903e9-84c3-5036-8413-3079e9db7e40",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness"
+      ],
+      "region": "international",
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/liton-recelton.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-18T11:25:49+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.4786,
+      "sources": [
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/sports/post-1222532/",
+          "title": "বাংলাদেশের সামনে লিডের বড় বোঝা চাপিয়ে দিল দক্ষিণ আফ্রিকা",
+          "snippet": "বাংলাদেশের সামনে লিডের বড় বোঝা চাপিয়ে দিল দক্ষিণ আফ্রিকা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "দক্ষিণ আফ্রিকার বিপক্ষে ১৫৬ রানের লিডের বড় বোঝা বাংলাদেশের সামনে",
+        "title_en": "South Africa gains a large 156-run lead against Bangladesh",
+        "summary_bn": "শেষ তিন উইকেটে দেড়শর বেশি রান তুলে দক্ষিণ আফ্রিকা বাংলাদেশের সামনে ১৫৬ রানের বড় লিড দাঁড় করিয়েছে।",
+        "summary_en": "South Africa built a large 156-run lead against Bangladesh after scoring over 150 runs in their final three wickets.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T11:25:49+00:00",
+        "lead_bn": "শেষ তিন উইকেটে দেড়শর বেশি রান তুলে দক্ষিণ আফ্রিকা বাংলাদেশের সামনে ১৫৬ রানের বড় লিড দাঁড় করিয়েছে।",
+        "lead_en": "South Africa built a large 156-run lead against Bangladesh after scoring over 150 runs in their final three wickets.",
+        "bullets_bn": [
+          "জোহানেসবার্গ টেস্টের চতুর্থ দিনের খেলা শুরু হওয়ার সময় দক্ষিণ আফ্রিকা বাংলাদেশের চেয়ে ১৪ রানে পিছিয়ে ছিল।",
+          "রায়ান রিকেলটনের দাপুটে ব্যাটিং ও কাগিসো রাবাদার ব্যাটিংয়ের সুবাদে দক্ষিণ আফ্রিকার প্রথম ইনিংস ৫৫৭ রানে থেমেছে।",
+          "বাংলাদেশের প্রথম ইনিংস শেষ হয়েছিল ঠিক ৪০০ রানে।"
+        ],
+        "bullets_en": [
+          "South Africa started the fourth day of the Johannesburg Test trailing Bangladesh by 14 runs.",
+          "Driven by Ryan Rickelton's aggressive batting and Kagiso Rabada's batting, South Africa's first innings ended at 557 runs.",
+          "Bangladesh's first innings had ended at exactly 400 runs."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "জোহানেসবার্গ টেস্টের চতুর্থ দিনের খেলা যখন শুরু হলো তখনো বাংলাদেশের চেয়ে ১৪ রানে পিছিয়ে ছিল দক্ষিণ আফ্রিকা এবং স্বাগতিকদের হাতে ছিল তিন উইকেট। সেই তিনটি উইকেট দ্রুত তুলে নিয়ে প্রোটিয়াদের সামনে বড় একটা লিড দাঁড় করানোর পরিকল্পনা ছিল বাংলাদেশের। কিন্তু শেষ তিন উইকেটে দেড়শর বেশি রান তুলেছে দক্ষিণ আফ্রিকা। টেম্বা বাভুমার দল ৭ উইকেটে ৩৮৬ রানে তৃতীয় দিনের খেলা শেষ করেছিল এবং দক্ষিণ আফ্রিকার প্রথম ইনিংস শেষ পর্যন্ত ৫৫৭ রানে থেমেছে।",
+        "details_en": "When the fourth day of the Johannesburg Test began, South Africa was still 14 runs behind Bangladesh with three wickets in hand. Bangladesh planned to quickly take those three wickets and build a large lead against the Proteas. However, South Africa scored over 150 runs in the final three wickets. Temba Bavuma's side had finished the third day at 386 for 7, and South Africa's first innings eventually stopped at 557 runs.",
+        "hook_bn": "দক্ষিণ আফ্রিকার সামনে ১৫৬ রানের বড় লিড",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "এই টেস্ট ম্যাচে বাংলাদেশ দল কি ঘুরে দাঁড়াতে পারবে বলে আপনার মনে হয়?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-18T12:02:13.408804+00:00"
       }
     }
   ]
