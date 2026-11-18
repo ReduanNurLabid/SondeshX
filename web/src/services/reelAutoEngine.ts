@@ -3,11 +3,11 @@
 // hook, then the key point, then a short end card. Video only; the job mixes in the
 // voiceover, music and sound effects with ffmpeg.
 //
-// Look (modelled on how leading Bangla news pages make Reels): the picture fills the
-// screen, the hook sits in tight "sticker" boxes (white, then red) from the first frame,
-// branding is a small corner mark, and the picture keeps moving: a new camera move
-// starts on every beat, with the sharp photo and a blurred copy behind it drifting at
-// different speeds (parallax), so a single still never looks like a still.
+// Look (modelled on how leading Bangla news pages make Reels): the photo fills the frame
+// edge to edge, the hook sits in tight "sticker" boxes (white, then red) from the first
+// frame, branding is a small corner mark, and the picture keeps moving: a new camera move
+// on every beat travels across the photo, so a single still never looks like a still.
+// No borders, bands or edge lines: Facebook limits videos that look framed.
 //
 // Layout respects Facebook Reels safe zones: nothing important in the bottom 400px
 // (caption and buttons) or the right 150px (like/comment/share column).
@@ -95,11 +95,14 @@ function roundRect(ctx: CanvasRenderingContext2D, x: number, y: number, w: numbe
 }
 
 // ---------------------------------------------------------------- picture
+// The photo always reaches the left, right and top edges of the frame. Facebook flags
+// videos whose picture sits inside bands (blurred copies, bars, frames) as a "border",
+// which it treats as a sign of reposted content and shows to fewer people.
+
+const PHOTO_H = 1240; // the photo fills the frame down to here, then fades into the text area
 
 interface Prepared {
-  blurred: HTMLCanvasElement | null; // soft, dark copy that fills the frame behind
   sx: number; sy: number; sw: number; sh: number; // source rect, watermark strip removed
-  fill: boolean; // true: photo fills the frame; false: photo fitted over the blurred copy
 }
 
 const prepared = new WeakMap<HTMLImageElement, Prepared>();
@@ -109,37 +112,25 @@ function prepare(img: HTMLImageElement): Prepared {
   if (hit) return hit;
   const sw = img.naturalWidth || img.width;
   const sh = Math.round((img.naturalHeight || img.height) * (1 - WATERMARK_TRIM));
-  // Filling a portrait frame from a landscape photo enlarges it a lot; past ~1.7x it
-  // turns soft, so smaller photos are shown whole over their own blurred copy instead.
-  const fillScale = Math.max(W / sw, H / sh);
-  const fill = fillScale <= 1.7;
-  let blurred: HTMLCanvasElement | null = null;
-  if (!fill) {
-    blurred = document.createElement('canvas');
-    blurred.width = W / 4;
-    blurred.height = H / 4;
-    const b = blurred.getContext('2d')!;
-    b.filter = 'blur(8px) brightness(0.8) saturate(1.25)';
-    const s = Math.max(blurred.width / sw, blurred.height / sh) * 1.2;
-    b.drawImage(img, 0, 0, sw, sh, (blurred.width - sw * s) / 2, (blurred.height - sh * s) / 2, sw * s, sh * s);
-  }
-  const p = { blurred, sx: 0, sy: 0, sw, sh, fill };
+  const p = { sx: 0, sy: 0, sw, sh };
   prepared.set(img, p);
   return p;
 }
 
-/** Camera move for each beat: zoom and pan (fractions of the spare room), eased. */
+/** Camera move for each beat: zoom and pan (-1..1 of the spare room), eased. A wide news
+ *  photo is cropped to the portrait frame, so the pans travel across it and show it all. */
 function cameraFor(input: AutoReelInput, t: number) {
   const segs = input.segments;
   const i = Math.max(0, segs.findIndex((s) => t >= s.start && t < s.end));
   const seg = segs[i] || segs[segs.length - 1];
   const k = easeInOut((t - seg.start) / Math.max(0.1, seg.end - seg.start));
   const moves = [
-    { z0: 1.0, z1: 1.12, x0: 0, x1: 0, y0: -0.15, y1: -0.25 },    // push in on the upper part
-    { z0: 1.14, z1: 1.18, x0: -0.6, x1: 0.6, y0: -0.1, y1: -0.1 }, // slow pan across
-    { z0: 1.16, z1: 1.04, x0: 0.4, x1: 0, y0: 0, y1: -0.1 },       // pull back
+    { z0: 1.0, z1: 1.1, x0: 0, x1: 0, y0: 0, y1: -0.3 },      // push in on the centre
+    { z0: 1.05, z1: 1.08, x0: -0.9, x1: 0.2, y0: 0, y1: 0 },  // travel left to right
+    { z0: 1.08, z1: 1.05, x0: 0.9, x1: -0.2, y0: 0, y1: 0 },  // travel right to left
+    { z0: 1.12, z1: 1.0, x0: 0, x1: 0, y0: -0.2, y1: 0 },     // pull back
   ];
-  const m = seg.kind === 'outro' ? moves[2] : moves[i % 2];
+  const m = seg.kind === 'outro' ? moves[3] : i === 0 ? moves[0] : moves[1 + ((i - 1) % 2)];
   return {
     zoom: m.z0 + (m.z1 - m.z0) * k,
     panX: m.x0 + (m.x1 - m.x0) * k,
@@ -167,45 +158,24 @@ function drawPicture(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: num
 
   const img = input.image;
   const p = prepare(img);
-  if (p.fill) {
-    const scale = Math.max(W / p.sw, H / p.sh) * cam.zoom;
-    const dw = p.sw * scale;
-    const dh = p.sh * scale;
-    const x = (W - dw) / 2 + ((dw - W) / 2) * cam.panX;
-    const y = (H - dh) / 2 + ((dh - H) / 2) * cam.panY;
-    ctx.drawImage(img, p.sx, p.sy, p.sw, p.sh, x, y, dw, dh);
-  } else {
-    // Blurred copy fills the frame and drifts one way; the sharp photo drifts the other.
-    if (p.blurred) {
-      const bz = 1.15 + 0.06 * (t / input.duration);
-      const bw = W * bz;
-      const bh = H * bz;
-      ctx.drawImage(p.blurred, (W - bw) / 2 - 30 * cam.panX, (H - bh) / 2, bw, bh);
-    }
-    const base = Math.min((W + 40) / p.sw, 1180 / p.sh);
-    const scale = base * (0.96 + 0.1 * (cam.zoom - 1) / 0.18);
-    const dw = p.sw * scale;
-    const dh = p.sh * scale;
-    const x = (W - dw) / 2 + 40 * cam.panX;
-    const y = 760 - dh / 2 + 30 * cam.panY;
-    ctx.save();
-    ctx.shadowColor = 'rgba(0,0,0,0.6)';
-    ctx.shadowBlur = 50;
-    ctx.drawImage(img, p.sx, p.sy, p.sw, p.sh, x, y, dw, dh);
-    ctx.restore();
-  }
+  const scale = Math.max(W / p.sw, PHOTO_H / p.sh) * cam.zoom;
+  const dw = p.sw * scale;
+  const dh = p.sh * scale;
+  const x = (W - dw) / 2 + ((dw - W) / 2) * cam.panX;
+  const y = (PHOTO_H - dh) / 2 + ((dh - PHOTO_H) / 2) * cam.panY;
+  ctx.drawImage(img, p.sx, p.sy, p.sw, p.sh, x, y, dw, dh);
 
-  // Keep text readable: darken the top a little and the lower half more.
+  // Fade the photo into the dark text area (a gradient, not a band), and shade the top.
+  const fade = ctx.createLinearGradient(0, 760, 0, PHOTO_H);
+  fade.addColorStop(0, 'rgba(11,11,12,0)');
+  fade.addColorStop(1, 'rgba(11,11,12,1)');
+  ctx.fillStyle = fade;
+  ctx.fillRect(0, 760, W, PHOTO_H - 760 + 2);
   const top = ctx.createLinearGradient(0, 0, 0, 300);
   top.addColorStop(0, 'rgba(0,0,0,0.5)');
   top.addColorStop(1, 'rgba(0,0,0,0)');
   ctx.fillStyle = top;
   ctx.fillRect(0, 0, W, 300);
-  const low = ctx.createLinearGradient(0, 900, 0, H);
-  low.addColorStop(0, 'rgba(0,0,0,0)');
-  low.addColorStop(1, 'rgba(0,0,0,0.75)');
-  ctx.fillStyle = low;
-  ctx.fillRect(0, 900, W, H - 900);
 }
 
 /** A quick white flash at the start of each beat after the first: marks the cut. */
@@ -347,27 +317,17 @@ function drawOutro(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: numbe
   ctx.globalAlpha = 1;
 }
 
-/** Thin progress line along the bottom edge of the safe area. */
-function drawProgress(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: number) {
-  ctx.fillStyle = 'rgba(255,255,255,0.25)';
-  ctx.fillRect(0, 0, W, 6);
-  ctx.fillStyle = C.red;
-  ctx.fillRect(0, 0, W * clamp01(t / input.duration), 6);
-}
-
 export function drawAutoReelFrame(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: number) {
   const seg = input.segments.find((s) => t >= s.start && t < s.end) || input.segments[input.segments.length - 1];
   drawPicture(ctx, input, t);
   if (seg.kind === 'outro') {
     drawOutro(ctx, input, t, seg);
-    drawProgress(ctx, input, t);
     return;
   }
   drawCorners(ctx, input);
   if (seg.kind === 'headline' || seg.kind === 'intro') drawHook(ctx, input, t, seg);
   else if (seg.kind === 'point') drawPoint(ctx, input, t, seg);
   drawBeatFlash(ctx, input, t);
-  drawProgress(ctx, input, t);
 }
 
 /** Records the reel in real time and returns a silent video blob. */
@@ -376,7 +336,6 @@ export async function renderAutoReel(input: AutoReelInput): Promise<{ blob: Blob
   canvas.width = W;
   canvas.height = H;
   const ctx = canvas.getContext('2d', { alpha: false })!;
-  if (input.image) prepare(input.image); // blur once, before recording starts
 
   const mimeType = ['video/mp4;codecs=avc1', 'video/webm;codecs=vp9', 'video/webm'].find((m) =>
     MediaRecorder.isTypeSupported(m),
