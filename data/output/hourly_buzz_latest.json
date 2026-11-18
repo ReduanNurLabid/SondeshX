@@ -1,146 +1,368 @@
 {
-  "updated_at": "2026-11-18T22:00:47.021369",
-  "total_stories": 2,
+  "updated_at": "2026-11-18T23:00:45.838897",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "d7ec15d5-6840-5956-8f83-a2a7fafabf32",
-      "primary_category": "climate_environment",
+      "story_id": "e89c6b8a-0eeb-5fc3-bcf9-86fb2be74cc2",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "climate_environment",
-        "governance_law",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://cdn.jagonews24.com/media/og-image/2026/11/19/og_1795041674_6afe298adafc1.jpeg",
+      "image_caption": null,
+      "published_at": "2026-11-18T22:22:03+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.25,
+      "rank_score": 3.7615,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1181156",
+          "title": "নলডাঙ্গায় ‘জয় বাংলা’ স্লোগান দিয়ে সড়কে আগুন-ককটেল বিস্ফোরণ",
+          "snippet": "নলডাঙ্গায় ‘জয় বাংলা’ স্লোগান দিয়ে সড়কে আগুন-ককটেল বিস্ফোরণ"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/country/499098",
+          "title": "টেকনাফে ‘জয়বাংলা’ স্লোগান দিয়ে স্বেচ্ছাসেবক দলের মিছিলে গুলি",
+          "snippet": "টেকনাফে ‘জয়বাংলা’ স্লোগান দিয়ে স্বেচ্ছাসেবক দলের মিছিলে গুলি"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নাটোরের নলডাঙ্গায় সড়কে আগুন জ্বালিয়ে ককটেল বিস্ফোরণ ঘটানো হয়েছে",
+        "title_en": "Cocktails exploded and road set on fire in Naldanga, Natore",
+        "summary_bn": "নাটোরের নলডাঙ্গা উপজেলায় সড়কে আগুন জ্বালিয়ে ‘জয় বাংলা’ স্লোগান দিয়ে ককটেল বিস্ফোরণ ঘটানো হয়েছে।",
+        "summary_en": "Cocktails were exploded after setting fire on a road while chanting Joy Bangla slogan in Naldanga upazila, Natore.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T22:22:03+00:00",
+        "lead_bn": "নাটোরের নলডাঙ্গা উপজেলায় সড়কে আগুন জ্বালিয়ে ‘জয় বাংলা’ স্লোগান দিয়ে ককটেল বিস্ফোরণ ঘটানো হয়েছে।",
+        "lead_en": "Cocktails were exploded after setting fire on a road while chanting Joy Bangla slogan in Naldanga upazila, Natore.",
+        "bullets_bn": [
+          "ঘটনাটি ঘটেছে ১৮ নভেম্বর রাত ৯টা ১০ মিনিটের দিকে উপজেলার ১ নম্বর ব্রহ্মপুর ইউনিয়নের শাঁখারীপাড়া পাকা রাস্তার ওপর।",
+          "স্থানীয় বাসিন্দারা প্রথমে বিষয়টি দেখতে পান এবং জানাজানি হলে নলডাঙ্গা ফায়ার সার্ভিসকে অবহিত করেন।",
+          "ফায়ার সার্ভিস কর্মীরা ঘটনাস্থলে গিয়ে আগুন নিয়ন্ত্রণে আনেন।"
+        ],
+        "bullets_en": [
+          "The incident took place around 9:10 pm on the paved road of Shankharipara in union number 1 Brahmpur of the upazila.",
+          "Local residents first noticed the matter and, upon learning about it, informed the Naldanga Fire Service.",
+          "Fire service personnel went to the spot and brought the fire under control."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "নলডাঙ্গায় সড়কে আগুন ও ককটেল বিস্ফোরণ",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-18T23:02:00.260473+00:00"
+      }
+    },
+    {
+      "story_id": "7ab48c28-b536-5a2b-b2f8-bc53dbde4876",
+      "primary_category": "economy_business",
+      "interest_categories": [
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#CycloneAkvan",
-        "#BangladeshMeteorologicalDepartment",
-        "#BayOfBengal"
+        "#AAFA",
+        "#FLA",
+        "#SultanaBegum",
+        "#MdElias"
       ],
-      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_c3b0131eadab9f2a38db4e3d56cf57d0.jpg",
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182174/15762.jpg",
       "image_caption": null,
-      "published_at": "2026-11-18T22:01:00.436236+00:00",
+      "published_at": "2026-11-18T23:00:59.188975+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 5.0,
       "rank_score": 2.4993,
       "sources": [
         {
           "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/ports-on-alert-as-cyclone-akvan-moves-across-bay-of-bengal",
-          "title": "Ports on alert as Cyclone Akvan moves across Bay of Bengal",
-          "snippet": "Ports on alert as Cyclone Akvan moves across Bay of Bengal"
+          "url": "https://thefinancialexpress.com.bd/trade/aafa-fla-demand-release-of-detained-bangladesh-union-leaders",
+          "title": "AAFA, FLA demand release of detained Bangladesh union leaders",
+          "snippet": "AAFA, FLA demand release of detained Bangladesh union leaders"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বঙ্গোপসাগরে ঘূর্ণিঝড় আকভানের কারণে চার বন্দরে স্থানীয় হুঁশিয়ারি সংকেত জারি",
-        "title_en": "Ports on alert as Cyclone Akvan moves across Bay of Bengal",
-        "summary_bn": "বঙ্গোপসাগরে তীব্র ঘূর্ণিঝড় আকভানের চলাচলের কারণে বাংলাদেশ আবহাওয়া অধিদপ্তর দেশের চার সমুদ্রবন্দরে ৩ নম্বর স্থানীয় সতর্ক সংকেত জারি করেছে।",
-        "summary_en": "The Bangladesh Meteorological Department has raised the warning signal at four seaports to local warning signal No. 3 as Cyclone Akvan moves.",
+        "title_bn": "আবাসা ও ফ্লার দুই শ্রমিক নেতার মুক্তি দাবি",
+        "title_en": "AAFA and FLA demand release of two union leaders",
+        "summary_bn": "আমেরিকান অ্যাপারেল অ্যান্ড ফুটওয়্যার অ্যাসোসিয়েশন এবং ফেয়ার লেবার অ্যাসোসিয়েশন বাংলাদেশের দুই আটক ট্রেড ইউনিয়ন প্রতিনিধি সুলতানা বেগম ও মো. ইলিয়াসের মুক্তি দাবি করেছে।",
+        "summary_en": "The American Apparel and Footwear Association and the Fair Labor Association demanded the immediate release of two detained trade union representatives, Sultana Begum and Md Elias.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "climate_environment",
-          "governance_law",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T22:01:00.436236+00:00",
-        "lead_bn": "বঙ্গোপসাগরে তীব্র ঘূর্ণিঝড় আকভানের চলাচলের কারণে বাংলাদেশ আবহাওয়া অধিদপ্তর দেশের চার সমুদ্রবন্দরে ৩ নম্বর স্থানীয় সতর্ক সংকেত জারি করেছে।",
-        "lead_en": "The Bangladesh Meteorological Department has raised the warning signal at four seaports to local warning signal No. 3 as Cyclone Akvan moves.",
+        "published_at": "2026-11-18T23:00:59.188975+00:00",
+        "lead_bn": "আমেরিকান অ্যাপারেল অ্যান্ড ফুটওয়্যার অ্যাসোসিয়েশন এবং ফেয়ার লেবার অ্যাসোসিয়েশন বাংলাদেশের দুই আটক ট্রেড ইউনিয়ন প্রতিনিধি সুলতানা বেগম ও মো. ইলিয়াসের মুক্তি দাবি করেছে।",
+        "lead_en": "The American Apparel and Footwear Association and the Fair Labor Association demanded the immediate release of two detained trade union representatives, Sultana Begum and Md Elias.",
         "bullets_bn": [
-          "ঘূর্ণিঝড়ের কেন্দ্রের কাছে বাতাসের গতিবেগ ঘণ্টায় ৮৯ কিলোমিটার এবং দমকা হাওয়ার আকারে ১১৭ কিলোমিটার পর্যন্ত বৃদ্ধি পাচ্ছে।",
-          "আবহাওয়া অধিদপ্তর জানিয়েছে ঝড়টি ভারতের অন্ধ্রপ্রদেশ ও ওড়িশা উপকূল অতিক্রম করতে পারে।",
-          "উত্তর বঙ্গোপসাগরের মাছ ধরার নৌকা ও ট্রলারসমূহকে অবিলম্বে নিরাপদ আশ্রয়ে যেতে বলা হয়েছে।"
+          "গ্রিন বাংলা গার্মেন্টস ওয়ার্কার্স ফেডারেশনের সভাপতি সুলতানা বেগম এবং সাধারণ সম্পাদক মো. ইলিয়াসকে আটক করা হয়েছে।",
+          "ন্যূনতম মজুরি সংশোধন সংক্রান্ত একটি ওয়েবিনারে অংশগ্রহণের পর তাদেরকে আটক করা হয়।",
+          "সংগঠন দুটি জানিয়েছে যে এই আটক প্রক্রিয়াটি আলোচনার পরিবেশ নষ্ট করছে এবং বাংলাদেশের সুনাম ক্ষুণ্ণ করছে।"
         ],
         "bullets_en": [
-          "Winds near the cyclone's centre reached speeds of up to 89kph, with gusts of up to 117kph.",
-          "The Met Office stated that the storm was likely to cross the coasts of Andhra Pradesh and Odisha.",
-          "Fishing boats and trawlers in the northern Bay were advised to take shelter immediately."
+          "Sultana Begum serves as president of the Green Bangla Garments Workers Federation and Md Elias is the general secretary.",
+          "Both leaders were arrested after participating in a webinar concerning garment workers demands for a minimum wage revision.",
+          "The associations stated that the detention severely disrupts wage negotiations and damages the reputation of Bangladesh as a responsible sourcing partner."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "আবহাওয়ার বিশেষ বুলেটিনে জানানো হয়েছে, আগামী চব্বিশ ঘণ্টায় খুলনা, বরিশাল ও চট্টগ্রাম বিভাগে হালকা থেকে মাঝারি ধরনের বৃষ্টি হতে পারে। কিছু এলাকায় মাঝারি থেকে অতি ভারী বৃষ্টি এবং রাজশাহী, ঢাকা ও সিলেটে বিক্ষিপ্ত বর্ষণ হতে পারে।",
-        "details_en": "A special bulletin stated that light to moderate rain or thundershowers may occur in Khulna, Barishal, and Chattogram divisions, with isolated showers in parts of Rajshahi, Dhaka, and Sylhet.",
-        "hook_bn": "ঘূর্ণিঝড় আকভান: চার বন্দরে ৩ নম্বর সতর্ক সংকেত",
+        "details_bn": "গ্রিন বাংলা গার্মেন্টস ওয়ার্কার্স ফেডারেশন ষাট হাজারেরও বেশি তৈরি পোশাক শ্রমিককে প্রতিনিধিত্ব করে। ন্যূনতম মজুরি নিয়ে আলোচনা এবং প্রতিবাদ মোকাবেলার বিষয়ে এর আগে আবাসা ও ফ্লার পক্ষ থেকে চিঠি পাঠানো হয়েছিল।",
+        "details_en": "Green Bangla Garments Workers Federation represents more than 65000 garment workers. The statement follows letters from AAFA and FLA that shared priorities and concerns on minimum wage negotiations and response to protests.",
+        "hook_bn": "দুই শ্রমিক নেতার অবিলম্বে মুক্তি দাবি",
         "kicker_bn": "সতর্কতা",
-        "share_value": true,
+        "share_value": false,
+        "question_bn": "পোশাক খাতের ন্যূনতম মজুরি নিয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-18T23:02:00.260473+00:00"
+      }
+    },
+    {
+      "story_id": "4069a870-b642-5f9c-838e-ce10f3cc9d2a",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#Anthropic",
+        "#Nasdaq",
+        "#DarioAmodei",
+        "#IPO"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/946b0e05dd0e1b4c6e798b7dd5ff3846fd4f4783/718_0_6195_4958/master/6195.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c02326ff1b6d20aab2d725d4c67d34d4",
+      "image_caption": null,
+      "published_at": "2026-11-18T21:39:15+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.5,
+      "rank_score": 2.7953,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo",
+          "title": "Anthropic sets share price at $83 for stock market debut, above expected range",
+          "snippet": "Anthropic sets share price at $83 for stock market debut, above expected range"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কৃত্রিম বুদ্ধিমত্তা প্রতিষ্ঠান অ্যানথ্রপিক শেয়ারের দাম ৮৩ ডলারে নির্ধারণ করেছে।",
+        "title_en": "Anthropic sets share price at $83 for stock market debut.",
+        "summary_bn": "কৃত্রিম বুদ্ধিমত্তা প্রতিষ্ঠান অ্যানথ্রপিক মার্কিন স্টক মার্কেটে তাদের অভিষেকের জন্য শেয়ারের দাম ৮৩ ডলার নির্ধারণ করেছে।",
+        "summary_en": "Artificial intelligence firm Anthropic set its share price at $83 for its debut on the US stock market.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T21:39:15+00:00",
+        "lead_bn": "কৃত্রিম বুদ্ধিমত্তা প্রতিষ্ঠান অ্যানথ্রপিক মার্কিন স্টক মার্কেটে তাদের অভিষেকের জন্য শেয়ারের দাম ৮৩ ডলার নির্ধারণ করেছে।",
+        "lead_en": "Artificial intelligence firm Anthropic set its share price at $83 for its debut on the US stock market.",
+        "bullets_bn": [
+          "কোম্পানিটি গত সপ্তাহে তাদের প্রাথমিক শেয়ারের দাম ৭০ থেকে ৭৮ ডলার নির্ধারণ করেছিল।",
+          "সিইও দারিও আমোদোইসহ সাতজন সহ-প্রতিষ্ঠাতা আইপিওতে প্রায় ২৬০ মিলিয়ন ডলার মূল্যের শেয়ার বিক্রির পরিকল্পনা করছেন।",
+          "কোম্পানিটি ২০২৬ সালের প্রথমার্ধে ৮০ বিলিয়ন ডলারের নিট লোকসানের কথা জানিয়েছে।"
+        ],
+        "bullets_en": [
+          "Last week, the company set its preliminary share price at $70 to $78.",
+          "CEO Dario Amodei and his six fellow co-founders are planning to sell about $260m worth of shares with the IPO.",
+          "The company disclosed a net loss of $80bn for the first half of 2026."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "সান ফ্রান্সিসকো ভিত্তিক কৃত্রিম বুদ্ধিমত্তা কোম্পানিটি ২০২১ সালে প্রতিষ্ঠিত হয়। গত মাসে আইপিও-র জন্য আবেদন করার সময় কোম্পানিটি দ্রুত বর্ধমান রাজস্বের বিবরণ দেয়, যার মধ্যে ২০২৫ সালে ৪.৫৮৫ বিলিয়ন ডলার এবং ২০২৬ সালের প্রথম ছয় মাসে ১৬.২৮৬ বিলিয়ন ডলার অন্তর্ভুক্ত রয়েছে। প্রধান ব্যয়ের মধ্যে রয়েছে ডেটাসেন্টার থেকে কম্পিউটিং শক্তি।",
+        "details_en": "The San Francisco-based company was founded in 2021. When filing for its IPO last month, the company detailed rapidly rising revenue, including $4.585bn in 2025 and $16.286bn in the first six months of 2026. Main expenditures include computing power from datacenters.",
+        "hook_bn": "শেয়ারের দাম ৮৩ ডলারে নির্ধারণ করল অ্যানথ্রপিক",
+        "kicker_bn": "দাম বাড়ছে",
+        "share_value": false,
+        "question_bn": "কৃত্রিম বুদ্ধিমত্তা প্রযুক্তির এই দ্রুত প্রসারণকে আপনি কীভাবে দেখছেন?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-18T23:02:00.260473+00:00"
+      }
+    },
+    {
+      "story_id": "c9ea7c85-651b-581a-b76e-252cc28a887e",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#EuropeanCommission",
+        "#Ukraine",
+        "#UrsulaVonDerLeyen",
+        "#VolodymyrZelenskyy"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/da7fa4cbbdc420d8de514a27bdb1e07b474f48b9/88_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64613c06196ff5912ca1d5ac20f0bbec",
+      "image_caption": null,
+      "published_at": "2026-11-18T22:34:03+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4353,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv",
+          "title": "EU proposes €45bn loan for Ukraine to avert cash crisis and boost defences",
+          "snippet": "EU proposes €45bn loan for Ukraine to avert cash crisis and boost defences"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইউক্রেনের জন্য ৪৫ বিলিয়ন ইউরো ঋণের প্রস্তাব ইউরোপীয় কমিশনের",
+        "title_en": "EU executive proposes 45 billion euro loan for Ukraine",
+        "summary_bn": "নগদ সংকট মোকাবিলা ও প্রতিরক্ষা জোরদার করতে ইউক্রেনকে ৪৫ বিলিয়ন ইউরো ঋণের প্রস্তাব দিয়েছে ইউরোপীয় কমিশন।",
+        "summary_en": "The European Commission has proposed a 45bn euro loan for Ukraine to help with a cash crisis and reinforce defences.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T22:34:03+00:00",
+        "lead_bn": "নগদ সংকট মোকাবিলা ও প্রতিরক্ষা জোরদার করতে ইউক্রেনকে ৪৫ বিলিয়ন ইউরো ঋণের প্রস্তাব দিয়েছে ইউরোপীয় কমিশন।",
+        "lead_en": "The European Commission has proposed a 45bn euro loan for Ukraine to help with a cash crisis and reinforce defences.",
+        "bullets_bn": [
+          "উর্সুলা ভন ডার লিয়েন বলেছেন এই ঋণের অর্থ ইউক্রেন তখনই ফেরত দেবে যখন রাশিয়া ক্ষতিপূরণ দেবে।",
+          "এই ঋণের ২৫ বিলিয়ন ইউরো অস্ত্র এবং ২০ বিলিয়ন ইউরো বেসামরিক খাতের জন্য বরাদ্দ।",
+          "ইউক্রেনের প্রেসিডেন্ট ভলোদিমির জেলেনস্কি সব সদস্য রাষ্ট্রের সমর্থন নিয়ে দ্রুত এই ঋণ অনুমোদনের আশা করছেন।"
+        ],
+        "bullets_en": [
+          "Ursula von der Leyen said Ukraine only needs to repay once Russia pays for the damage caused.",
+          "The loan is split into 25bn euro for weapons and 20bn euro for civilian needs.",
+          "Ukrainian President Volodymyr Zelenskyy said he hoped for the swift adoption of the loan with support from all EU states."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "গত বছর ইউরোপীয় ইউনিয়ন ইউক্রেনের জন্য ৯০ বিলিয়ন ইউরোর একটি ঋণ অনুমোদন করেছিল। রাশিয়ার আক্রমণের তীব্রতা বৃদ্ধি পাওয়ায় এবং প্রতিরক্ষা ও অর্থনৈতিক ব্যয়ের চাপ বাড়ায় ইউক্রেন ২০২৭ সালে ৭০ বিলিয়ন ইউরোর তহবিল ঘাটতির মুখে পড়েছে বলে জেলেনস্কি জানিয়েছেন।",
+        "details_en": "The EU agreed a 90bn euro loan for Ukraine 11 months ago. Zelenskyy convinced EU leaders last month that his country faced a 70bn euro funding gap in 2027 as the cost of defence and economic disruption rise.",
+        "hook_bn": "ইউক্রেনের জন্য ৪৫ বিলিয়ন ইউরো ঋণের প্রস্তাব",
+        "kicker_bn": "অর্থনৈতিক সহায়তা",
+        "share_value": false,
         "question_bn": null
       },
       "desk_importance": 5.0,
       "outlet_count": 1,
       "trending": false,
-      "social_appeal": 7.0,
+      "social_appeal": 4.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-18T22:01:42.865003+00:00"
+        "checked_at": "2026-11-18T23:02:00.260473+00:00"
       }
     },
     {
-      "story_id": "bb72379f-0270-5cad-b6a9-8a5093914769",
+      "story_id": "be94cd3f-0e84-510e-80d1-8d7359aa95ec",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy"
+        "world_diplomacy",
+        "climate_environment"
       ],
       "region": "international",
       "tags": [
-        "#DonaldTrump",
-        "#VladimirPutin",
-        "#XiJinping",
-        "#China"
+        "#PeteHegseth",
+        "#NicolasMaduro",
+        "#Venezuela",
+        "#UnitedStates"
       ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T114442Z_790680677_RC2BQOAGHXCC_RTRMADP_3_APEC-SUMMIT-1795002390.jpg?resize=1920%2C1440",
+      "image_url": "https://i.guim.co.uk/img/media/5a2659b36cd46ba418be2f766406edf0de385668/204_0_2041_1632/master/2041.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7fd432a8d8988b5fb6f99889bff69015",
       "image_caption": null,
-      "published_at": "2026-11-18T20:12:20+00:00",
+      "published_at": "2026-11-18T20:24:19+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 3.8043,
+      "importance_score": 5.0,
+      "rank_score": 2.1494,
       "sources": [
         {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+          "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+          "snippet": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military"
+        },
+        {
           "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
-          "title": "Trump and Putin to meet one-on-one in China Thursday",
-          "snippet": "Trump and Putin to meet one-on-one in China Thursday"
+          "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
+          "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
+          "snippet": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চীন বৈঠকে মুখোমুখি বসছেন ট্রাম্প ও পুতিন",
-        "title_en": "Trump and Putin to meet one-on-one in China",
-        "summary_bn": "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প চীনের মাটিতে রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিনের সঙ্গে একান্তে বৈঠকে বসবেন।",
-        "summary_en": "United States President Donald Trump is set to hold a one-on-one meeting with Russian President Vladimir Putin in China.",
+        "title_bn": "ভেনেজুয়েলা সফর করেছেন যুক্তরাষ্ট্রের যুদ্ধ বিষয়ক সচিব পিট হেগসেথ",
+        "title_en": "US war secretary Pete Hegseth visits Venezuela after Maduro capture",
+        "summary_bn": "নিকোলাস মাদুরোকে আটকের পর ভেনেজুয়েলা সফর করে দেশটির সাবেক রাষ্ট্রপতির বন্দিদশাকে ইতিহাসের সেরা সামরিক অভিযান বলে দাবি করেছেন পিট হেগসেথ।",
+        "summary_en": "US war secretary Pete Hegseth visited Venezuela following Nicolás Maduro’s capture, boasting of the military operation that seized the former president.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "world_diplomacy",
+          "climate_environment"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T20:12:20+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প চীনের মাটিতে রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিনের সঙ্গে একান্তে বৈঠকে বসবেন।",
-        "lead_en": "United States President Donald Trump is set to hold a one-on-one meeting with Russian President Vladimir Putin in China.",
+        "published_at": "2026-11-18T20:24:19+00:00",
+        "lead_bn": "নিকোলাস মাদুরোকে আটকের পর ভেনেজুয়েলা সফর করে দেশটির সাবেক রাষ্ট্রপতির বন্দিদশাকে ইতিহাসের সেরা সামরিক অভিযান বলে দাবি করেছেন পিট হেগসেথ।",
+        "lead_en": "US war secretary Pete Hegseth visited Venezuela following Nicolás Maduro’s capture, boasting of the military operation that seized the former president.",
         "bullets_bn": [
-          "চীন সফরকালে ট্রাম্প ও পুতিন দেশটির প্রেসিডেন্ট শি জিনপিংয়ের সঙ্গে একটি ত্রিপক্ষীয় সম্মেলনে অংশ নেবেন।",
-          "যুক্তরাষ্ট্রের একজন কর্মকর্তা জানান যে এই বৈঠকগুলো একটি সমন্বিত কূটনৈতিক প্রচেষ্টার অংশ।",
-          "আমেরিকান দূত স্টিভ উইটকফ এবং জারেড কুশনার বার্লিনে ইউক্রেনীয় কর্মকর্তাদের সঙ্গে বৈঠক করবেন বলে আশা করা হচ্ছে।"
+          "যুক্তরাষ্ট্রের যুদ্ধ বিষয়ক সচিব হিসেবে এই শতাব্দীতে প্রথম ভেনেজুয়েলা সফরে গিয়েছেন পিট হেগসেথ।",
+          "ভেনিজুয়েলার সামরিক বাহিনীর সঙ্গে যৌথ প্রশিক্ষণ এবং গোয়েন্দা তথ্য বিনিময়ের ঘোষণা দিয়েছেন হেগসেথ।",
+          "মাদুরোর পতনের পর ক্ষমতা গ্রহণকারী ডেলসি রদ্রিগেজের সঙ্গে মিরানিফ্লোরাস প্রাসাদে বৈঠক করেছেন হেগসেথ।"
         ],
         "bullets_en": [
-          "Trump and Putin are scheduled to join Chinese President Xi Jinping for a trilateral summit in China.",
-          "A US official said that these engagements are part of a coordinated diplomatic effort.",
-          "American envoys Steve Witkoff and Jared Kushner are expected to meet with Ukrainian officials in Berlin."
+          "Pete Hegseth became the first United States secretary of war this century to visit Venezuela.",
+          "Hegseth announced a military partnership that includes joint training and intelligence sharing with the Venezuelan military.",
+          "Hegseth met with acting president Delcy Rodríguez at the Miraflores Palace during the trip."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "দুই প্রেসিডেন্ট এর আগে ইউক্রেন যুদ্ধ সমাপ্তির জন্য উচ্চপর্যায়ের আলোচনার উদ্দেশ্যে ২০২৫ সালের আগস্ট মাসে আলাস্কায় শেষবার বৈঠক করেছিলেন, তবে তারা কোনো সমঝোতায় পৌঁছাতে পারেননি। মার্কিন কর্মকর্তার মতে, এই কূটনৈতিক প্রচেষ্টার লক্ষ্য হলো লড়াই এবং মানবীয় দুর্দশা বন্ধ করা এবং একটি সার্বভৌম, নিরাপদ ও সমৃদ্ধ ইউক্রেনের শর্ত তৈরি করা। বার্লিনের বৈঠকগুলোতে যুদ্ধোত্তর নিরাপত্তা এবং অর্থনৈতিক পুনরুদ্ধারের পরিকল্পনা নিয়ে আলোচনা হবে।",
-        "details_en": "The two presidents last met in Alaska in August 2025 for negotiations to end the war in Ukraine, but failed to reach a settlement. According to the US official, these efforts aim to end the fighting and human suffering while helping establish a sovereign, secure and prosperous Ukraine. The Berlin meetings will focus on post-war security guarantees and an economic recovery plan for Kyiv.",
-        "hook_bn": "চীনে মুখোমুখি বসছেন ট্রাম্প ও পুতিন",
-        "kicker_bn": "নতুন বৈঠক",
+        "details_bn": "গত ৩ জানুয়ারি ভোরে ডেল্টা ফোর্সের অভিযানে ভেনেজুয়েলার সাবেক রাষ্ট্রপতি নিকোলাস মাদুরোকে আটক করা হয়। এর পর মার্কিন সরকারের অনুমোদনে মাদুরোর সাবেক ভিসি-প্রেসিডেন্ট ডেলসি রদ্রিগেজ ভারপ্রাপ্ত রাষ্ট্রপতির দায়িত্ব নেন এবং বর্তমানে তার সহযোগীরা মার্কিন সমর্থনে ক্ষমতায় রয়েছে।",
+        "details_en": "Former president Nicolás Maduro was seized by Delta Force operatives in the early hours of January 3. Following the attack, former vice-president Delcy Rodríguez became acting president with US support, and Maduro's allies continue to hold power.",
+        "hook_bn": "ওয়েল, উই আনসারড দ্যাট কল",
+        "kicker_bn": null,
         "share_value": false,
-        "question_bn": "ইউক্রেন যুদ্ধ বন্ধের এই কূটনৈতিক প্রচেষ্টার ফলাফল কী হতে পারে বলে আপনি মনে করেন?"
+        "question_bn": null
       },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": true,
-      "social_appeal": 6.0,
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 4.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-18T22:01:42.865003+00:00"
+        "checked_at": "2026-11-18T23:02:00.260473+00:00"
       }
     }
   ]
