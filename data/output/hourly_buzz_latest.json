@@ -1,386 +1,91 @@
 {
-  "updated_at": "2026-11-17T22:53:15.999066",
-  "total_stories": 6,
+  "updated_at": "2026-11-18T00:00:53.620748",
+  "total_stories": 1,
   "stories": [
     {
-      "story_id": "6b21e6de-b5bc-5ce4-9e1f-4bbe3d112c95",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1774779685524-cc735ae11a9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8d2FyJTIwc3RhcnRzJTIwbWlkZGxlJTIwZWFzdCUyMGRpcGxvbWFjeXxlbnwxfDB8fHwxNzk0OTU2NTA1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-17T20:27:05+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.9854,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1180705",
-          "title": "যুক্তরাষ্ট্র-ইরানের পাল্টাপাল্টি হামলা, মধ্যপ্রাচ্যে যুদ্ধ শুরু",
-          "snippet": "যুক্তরাষ্ট্র-ইরানের পাল্টাপাল্টি হামলা, মধ্যপ্রাচ্যে যুদ্ধ শুরু"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "যুক্তরাষ্ট্র ও ইরানের পাল্টাপাল্টি হামলায় মধ্যপ্রাচ্যে যুদ্ধ শুরু হয়েছে।",
-        "title_en": "War starts in Middle East amid mutual attacks between US and Iran.",
-        "summary_bn": "যুক্তরাষ্ট্র ও ইরানের মধ্যে পাল্টাপাল্টি হামলার ঘটনায় মধ্যপ্রাচ্যে যুদ্ধ শুরু হয়েছে।",
-        "summary_en": "A war has started in the Middle East following mutual attacks between the United States and Iran.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T20:27:05+00:00",
-        "lead_bn": "যুক্তরাষ্ট্র ও ইরানের মধ্যে পাল্টাপাল্টি হামলার ঘটনায় মধ্যপ্রাচ্যে যুদ্ধ শুরু হয়েছে।",
-        "lead_en": "A war has started in the Middle East following mutual attacks between the United States and Iran.",
-        "bullets_bn": [
-          "বাহরাইনে যুক্তরাষ্ট্রের সামরিক ঘাঁটিতে ইরান ড্রোন হামলা চালিয়েছে বলে যুক্তরাষ্ট্র অভিযোগ করেছে।",
-          "যুক্তরাষ্ট্র ও ইরানের মধ্যে এই পাল্টাপাল্টি হামলার ঘটনা ঘটেছে।",
-          "যুক্তরাষ্ট্রের ঘাঁটিতে হামলার পর মিশর এই হামলার নিন্দা জানিয়েছে।"
-        ],
-        "bullets_en": [
-          "The United States alleged that Iran launched a drone attack on a US military base in Bahrain.",
-          "Mutual attacks took place between the United States and Iran.",
-          "Egypt condemned the attack following the strike on the US base."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "যুক্তরাষ্ট্র ও ইরানের মধ্যে পাল্টাপাল্টি হামলার ঘটনায় মধ্যপ্রাচ্যে যুদ্ধ শুরু হয়েছে। বাহরাইনে যুক্তরাষ্ট্রের সামরিক ঘাঁটিতে ইরান ড্রোন হামলা চালিয়েছে বলে যুক্তরাষ্ট্র অভিযোগ করে। এরপর এই হামলার নিন্দা জানায় মিশর।",
-        "details_en": "War started in the Middle East following mutual attacks between the United States and Iran. The US alleged that Iran launched a drone attack on a US military base in Bahrain, after which Egypt condemned the attack.",
-        "hook_bn": "মধ্যপ্রাচ্যে যুক্তরাষ্ট্র ও ইরানের পাল্টাপাল্টি হামলায় যুদ্ধ শুরু হয়েছে।",
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T23:02:00.702077+00:00"
-      }
-    },
-    {
-      "story_id": "3252a2cc-db6c-5a30-95a6-5440b916db7f",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#RooppurNuclearPowerPlant",
-        "#NationalGrid",
-        "#FaqirMahbubAnam"
-      ],
-      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_16badfded182cc32b8e0884b36c83144.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-17T22:53:31.064450+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.5715,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/rooppur-nuclear-plant-feeds-national-grid-for-first-time",
-          "title": "Rooppur power enters national grid for first time",
-          "snippet": "Rooppur power enters national grid for first time"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্র জাতীয় গ্রিডে বিদ্যুৎ সরবরাহ শুরু করেছে",
-        "title_en": "Rooppur nuclear power plant starts supplying electricity to national grid",
-        "summary_bn": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্রের প্রথম ইউনিট পরীক্ষামূলকভাবে জাতীয় গ্রিডে যুক্ত হয়ে ৩৫০ মেগাওয়াট বিদ্যুৎ সরবরাহ শুরু করেছে।",
-        "summary_en": "The Rooppur Nuclear Power Plant has started supplying 350 megawatts of power to the national grid on a trial basis.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T22:53:31.064450+00:00",
-        "lead_bn": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্রের প্রথম ইউনিট পরীক্ষামূলকভাবে জাতীয় গ্রিডে যুক্ত হয়ে ৩৫০ মেগাওয়াট বিদ্যুৎ সরবরাহ শুরু করেছে।",
-        "lead_en": "The Rooppur Nuclear Power Plant has started supplying 350 megawatts of power to the national grid on a trial basis.",
-        "bullets_bn": [
-          "এই সংযোগটি বাণিজ্যিক বিদ্যুৎ উৎপাদনের সূচনা করে না এবং এটি সরঞ্জাম ও গ্রিড ব্যবস্থার কার্যকারিতা মূল্যায়নের একটি পরীক্ষা।",
-          "ডাক, টেলিযোগাযোগ এবং তথ্যপ্রযুক্তি মন্ত্রী এবং বিজ্ঞান ও প্রযুক্তি মন্ত্রী ফকির মাহবুব আনাম এই অনুষ্ঠানে উপস্থিত ছিলেন।",
-          "কেন্দ্রটি প্রথমে গ্রিডে আট থেকে ১০ ঘণ্টা বিদ্যুৎ সরবরাহ করবে এবং পরবর্তীতে আরও পরীক্ষা চালানো হবে।"
-        ],
-        "bullets_en": [
-          "The connection does not mark commercial power generation and is part of tests to assess equipment and system performance.",
-          "Faqir Mahbub Anam, Minister for Posts, Telecommunications and Information Technology, and Science and Technology, was present at the event.",
-          "The plant will initially supply electricity to the grid for around eight to 10 hours before further tests."
-        ],
-        "impact_bn": "গ্রিডে যুক্ত হওয়া এই বিদ্যুৎ গ্রাহকেরা ব্যবহার করতে পারবেন, তবে পরীক্ষার কারণে নিরবচ্ছিন্ন ও স্থিতিশীল সরবরাহ নিশ্চিত করা যাচ্ছে না।",
-        "impact_en": "Consumers will still be able to use the electricity fed into the grid, though an uninterrupted supply cannot be guaranteed during tests.",
-        "details_bn": "আন্তর্জাতিক পরমাণু শক্তি সংস্থার নির্দেশিকা ও মানদণ্ড অনুযায়ী উৎপাদন ক্ষমতা ধীরে ধীরে বাড়ানোর এই পরীক্ষামূলক কর্মসূচি শুরু হয়েছে। এই পর্যায়ে চুল্লি প্রেশার ভেসেল, টারবাইন, জেনারেটর এবং স্বয়ংক্রিয় নিয়ন্ত্রণ ব্যবস্থার কার্যকারিতা পরীক্ষা করা হবে।",
-        "details_en": "The trial programme to raise generation capacity gradually had begun in line with the guidelines and standards of the International Atomic Energy Agency. At this stage, the reactor pressure vessel, turbine, generator and automatic control systems will undergo performance tests.",
-        "hook_bn": "রূপপুর বিদ্যুৎ কেন্দ্র থেকে পরীক্ষামূলকভাবে ৩৫০ মেগাওয়াট বিদ্যুৎ জাতীয় গ্রিডে সরবরাহ শুরু হয়েছে।",
-        "question_bn": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্র থেকে জাতীয় গ্রিডে বিদ্যুৎ সরবরাহ শুরু হওয়া নিয়ে আপনার মতামত কী?"
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T23:02:00.702077+00:00"
-      }
-    },
-    {
-      "story_id": "dd949d06-065f-5492-bff1-497bbc1bd82c",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#GarmentWorkers",
-        "#MinimumWageBoard",
-        "#SyedAzadSubhani"
-      ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182026/img-9186.jpeg",
-      "image_caption": null,
-      "published_at": "2026-11-17T22:53:31.064450+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.5715,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/garment-workers-to-get-revised-wages-in-january-wage-board-chief",
-          "title": "Garment workers to get revised wages in January: Wage Board chief",
-          "snippet": "Garment workers to get revised wages in January: Wage Board chief"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পোশাকশ্রমিকেরা জানুয়ারি মাসে সংশোধিত মজুরি পাবেন বলে জানিয়েছেন মজুরি বোর্ডের প্রধান।",
-        "title_en": "Garment workers will receive revised wages in January, says Wage Board chief.",
-        "summary_bn": "নতুন ন্যূনতম মজুরি কাঠামো ঘোষণার পর পোশাকশ্রমিকেরা জানুয়ারি মাসে তাদের ডিসেম্বরের মজুরির সঙ্গে সংশোধিত বেতন পাবেন।",
-        "summary_en": "Garment workers will receive their revised pay in January as their December wage once the new minimum wage structure is announced.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T22:53:31.064450+00:00",
-        "lead_bn": "নতুন ন্যূনতম মজুরি কাঠামো ঘোষণার পর পোশাকশ্রমিকেরা জানুয়ারি মাসে তাদের ডিসেম্বরের মজুরির সঙ্গে সংশোধিত বেতন পাবেন।",
-        "lead_en": "Garment workers will receive their revised pay in January as their December wage once the new minimum wage structure is announced.",
-        "bullets_bn": [
-          "মজুরি বোর্ডের তৃতীয় সভা আগামী ২৩ নভেম্বর পুনর্নির্ধারণ করা হয়েছে।",
-          "মজুরি বোর্ডের চেয়ারম্যান সৈয়দ আজাদ সুবহানি সাংবাদিকদের এই তথ্য জানান।",
-          "শ্রমিকদের প্রতিনিধিরা পোশাক শ্রমিকদের জন্য ন্যূনতম মাসিক মজুরি ৩২,০০০ টাকা দাবি করেছেন।"
-        ],
-        "bullets_en": [
-          "The third meeting of the Minimum Wage Board has been rescheduled for November 23.",
-          "Minimum Wage Board Chairman Syed Azad Subhani made the remarks at a press briefing in Dhaka.",
-          "Workers' representatives demanded a minimum monthly wage of Tk 32,000 for RMG workers."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "শ্রম অসন্তোষের মধ্যে পোশাক শ্রমিকদের মজুরি পুনর্নির্ধারণের জন্য সরকার গত ১ নভেম্বর ন্যূনতম মজুরি বোর্ড গঠন করে। বোর্ডের প্রথম সভা ৪ নভেম্বর অনুষ্ঠিত হয় এবং দ্বিতীয় সভা ৯ নভেম্বর অনুষ্ঠিত হয়।",
-        "details_en": "Amid labour unrest, the government formed the Minimum Wage Board on November 1 to refix wages for garment workers. The board held its first meeting on November 4 and its second meeting on November 9.",
-        "hook_bn": "পোশাকশ্রমিকেরা জানুয়ারি মাসে তাদের সংশোধিত মজুরি পাবেন।",
-        "question_bn": "পোশাকশ্রমিকদের ন্যূনতম মজুরি কত হওয়া উচিত বলে আপনি মনে করেন?"
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T23:02:00.702077+00:00"
-      }
-    },
-    {
-      "story_id": "9d8c4ff1-98e5-52b4-aee8-9952ba6b2c2c",
+      "story_id": "2659ec05-d5dd-5a7e-b171-0b6f98eef397",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
-        "economy_business"
+        "governance_law"
       ],
-      "region": "national",
+      "region": "international",
       "tags": [
-        "#HumaiunKobir",
-        "#SriLanka",
-        "#Bangladesh"
+        "#Russia",
+        "#Siberia",
+        "#Kemerovo"
       ],
-      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_b391a614e45cc9701edcc75bf98d614b.jpg",
+      "image_url": "https://th-i.thgim.com/public/incoming/maecpj/article71713628.ece/alternates/LANDSCAPE_1200/2026-11-17T183007Z_1896887606_RC2UPOAT81QH_RTRMADP_3_RUSSIA-PLANE.JPG",
       "image_caption": null,
-      "published_at": "2026-11-17T22:53:31.064450+00:00",
+      "published_at": "2026-11-17T23:39:28+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.5715,
+      "importance_score": 5.0,
+      "rank_score": 2.448,
       "sources": [
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/humaiun-kobir-to-meet-sri-lankan-president-pm-and-fm",
-          "title": "Humaiun Kobir to meet Sri Lankan President, PM and FM",
-          "snippet": "Humaiun Kobir to meet Sri Lankan President, PM and FM"
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/several-dead-after-russian-military-transport-plane-crashes-in-siberia/article71713626.ece",
+          "title": "Russian military transport plane crashes in Siberia, killing 19: Defence Ministry",
+          "snippet": "Russian military transport plane crashes in Siberia, killing 19: Defence Ministry"
+        },
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+          "title": "Russian military plane crashes, killing all 19 on board",
+          "snippet": "Russian military plane crashes, killing all 19 on board"
+        },
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
+          "title": "Russian military plane crash in Siberia kills 19",
+          "snippet": "Russian military plane crash in Siberia kills 19"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1180711",
+          "title": "রাশিয়ার সামরিক বিমান বিধ্বস্ত, ১৭ আরোহীর সবাই নিহত",
+          "snippet": "রাশিয়ার সামরিক বিমান বিধ্বস্ত, ১৭ আরোহীর সবাই নিহত"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শ্রীলঙ্কার শীর্ষ নেতৃত্বের সঙ্গে বৈঠক করতে দেশটিতে গেছেন প্রতিমন্ত্রী হুমায়ুন কবির।",
-        "title_en": "State Minister Humaiun Kobir arrived in Sri Lanka to meet top leaders.",
-        "summary_bn": "দ্বিপক্ষীয় সম্পর্ক জোরদার করতে শ্রীলঙ্কায় পৌঁছেছেন পররাষ্ট্র প্রতিমন্ত্রী হুমায়ুন কবির।",
-        "summary_en": "State Minister for Foreign Affairs Humaiun Kobir arrived in Sri Lanka on Tuesday to strengthen bilateral relations.",
+        "title_bn": "রাশিয়ার সাইবেরিয়ায় সামরিক বিমান বিধ্বস্ত হয়ে ১৯ জন নিহত",
+        "title_en": "Russian military plane crash in Siberia kills 19",
+        "summary_bn": "রাশিয়ার পশ্চিমাঞ্চলীয় সাইবেরিয়ায় একটি সামরিক পরিবহন বিমান বিধ্বস্ত হয়ে ১৯ জন আরোহীর সবাই নিহত হয়েছেন।",
+        "summary_en": "A Russian military transport plane crashed in western Siberia, killing all 19 people on board.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "economy_business"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-17T22:53:31.064450+00:00",
-        "lead_bn": "দ্বিপক্ষীয় সম্পর্ক জোরদার করতে শ্রীলঙ্কায় পৌঁছেছেন পররাষ্ট্র প্রতিমন্ত্রী হুমায়ুন কবির।",
-        "lead_en": "State Minister for Foreign Affairs Humaiun Kobir arrived in Sri Lanka on Tuesday to strengthen bilateral relations.",
+        "published_at": "2026-11-17T23:39:28+00:00",
+        "lead_bn": "রাশিয়ার পশ্চিমাঞ্চলীয় সাইবেরিয়ায় একটি সামরিক পরিবহন বিমান বিধ্বস্ত হয়ে ১৯ জন আরোহীর সবাই নিহত হয়েছেন।",
+        "lead_en": "A Russian military transport plane crashed in western Siberia, killing all 19 people on board.",
         "bullets_bn": [
-          "তিনি শ্রীলঙ্কার প্রেসিডেন্ট অনুরা কুমারা দিশানায়েকে এবং প্রধানমন্ত্রী ড. হারিনি আমাসুরিয়ার সঙ্গে সাক্ষাৎ করবেন।",
-          "সফরে বাংলাদেশের সঙ্গে ব্যাপক সহযোগিতার বিষয়ে একটি সমঝোতা স্মারক স্বাক্ষরিত হবে।",
-          "তিনি শ্রীলঙ্কার পররাষ্ট্রমন্ত্রী বিজিতা হেরাথের সঙ্গে দ্বিপক্ষীয় বৈঠক করবেন।"
+          "প্রাথমিক অনুসন্ধানে যান্ত্রিক ত্রুটি বা সরঞ্জামের ব্যর্থতার কথা জানিয়েছে প্রতিরক্ষা মন্ত্রণালয়।",
+          "কেমেরোভো অঞ্চলের ইয়াগুনোভো গ্রামের কাছে অনাবাসিক এলাকায় বিমানটি বিধ্বস্ত হয়।",
+          "বিমান নিরাপত্তা বিধি লঙ্ঘনের সম্ভাবনার বিষয়ে একটি তদন্ত শুরু করেছে দেশটির শীর্ষ অপরাধ তদন্ত সংস্থা।"
         ],
         "bullets_en": [
-          "He is scheduled to call on Sri Lankan President Anura Kumara Dissanayake and Prime Minister Dr. Harini Amarasuriya.",
-          "An MoU on establishing the Bangladesh-Sri Lanka Joint Consultative Commission will be signed during the visit.",
-          "He will hold a bilateral meeting with Sri Lankan Foreign Minister Vijitha Herath."
+          "Preliminary findings pointed to equipment failure, according to the Defence Ministry.",
+          "The aircraft went down in an unpopulated area near the village of Yagunovo.",
+          "The country's top criminal investigation agency launched an inquiry into possible flight safety violations."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "শ্রীলঙ্কায় পৌঁছেছেন পররাষ্ট্র প্রতিমন্ত্রী হুমায়ুন কবির।",
+        "hook_bn": "রাশিয়ায় সামরিক বিমান বিধ্বস্ত হয়ে নিহত ১৯",
         "question_bn": null
       },
+      "desk_importance": 5.0,
+      "outlet_count": 4,
+      "trending": false,
+      "social_appeal": 4.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-17T23:02:00.702077+00:00"
-      }
-    },
-    {
-      "story_id": "e67f080f-dd91-53a1-ae18-f823798a3795",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation",
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#ICEYE",
-        "#Avio",
-        "#VegaC",
-        "#SpaceTech"
-      ],
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/VV28_Decollage_plan_large_ZLV-1152x648.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-17T22:44:46+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.2843,
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
-          "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
-          "snippet": "Yet another satellite company is jockeying for a rocket—but this one makes sense"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "আইসিইওয়াইই অ্যাভিও ক্রয়ের জন্য ২.২ বিলিয়ন ডলারের বেশি প্রস্তাব দিয়েছে",
-        "title_en": "ICEYE seeks to buy Avio for more than $2.2 billion",
-        "summary_bn": "ফিনল্যান্ডের স্যাটেলাইট নির্মাতা প্রতিষ্ঠান আইসিইওয়াইই ইউরোপের প্রথম সমন্বিত মহাকাশ কোম্পানি গঠনের উদ্দেশ্যে ইতালির রকেট নির্মাতা অ্যাভিও ক্রয়ের প্রস্তাব দিয়েছে।",
-        "summary_en": "Finnish satellite developer ICEYE is seeking to buy Italian rocket-maker Avio to create Europe's first vertically integrated space company.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T22:44:46+00:00",
-        "lead_bn": "ফিনল্যান্ডের স্যাটেলাইট নির্মাতা প্রতিষ্ঠান আইসিইওয়াইই ইউরোপের প্রথম সমন্বিত মহাকাশ কোম্পানি গঠনের উদ্দেশ্যে ইতালির রকেট নির্মাতা অ্যাভিও ক্রয়ের প্রস্তাব দিয়েছে।",
-        "lead_en": "Finnish satellite developer ICEYE is seeking to buy Italian rocket-maker Avio to create Europe's first vertically integrated space company.",
-        "bullets_bn": [
-          "আইসিইওয়াইইয়ের ইতালীয় সহযোগী প্রতিষ্ঠান অ্যাভিও-র শেয়ারহোল্ডারদের কাছে এই স্বেচ্ছামূলক নগদ ক্রয়ের প্রস্তাব পাঠিয়েছে।",
-          "আইসিইওয়াইইয়ের সিইও রাফাল মোড্রেভস্কি বলেছেন ইউরোপের ক্রিটিক্যাল মহাকাশ অবকাঠামো নিয়ন্ত্রণে রাখা প্রয়োজন।",
-          "অ্যাভিও জানিয়েছে তাদের পরিচালনা পর্ষদ আইসিইওয়াইইয়ের এই নোটিশ নোট করেছে এবং প্রস্তাবটি বিবেচনা করছে।"
-        ],
-        "bullets_en": [
-          "An Italian subsidiary of ICEYE made an all-cash voluntary tender offer to Avio shareholders led by Leonardo.",
-          "ICEYE CEO Rafal Modrzewski said governments need control of their critical space infrastructure and Europe needs it most.",
-          "Avio stated its board of directors has taken note of the notice from ICEYE and is considering the purchase offer."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "অ্যাভিও ভেগা সি রকেট তৈরি করে যা সলিড-ফুয়েল চালিত লঞ্চার এবং এটি ৩.৩ মেট্রিক টন পেলোড লো-আর্থ অর্বিটে বহন করতে পারে। ভেগা সি ২০২২ সাল থেকে আটটি প্রচেষ্টার মধ্যে সাতটিতে সফলভাবে উড্ডয়ন করেছে। এটি ২০১২ সালে আত্মপ্রকাশ করা ভেগা রকেটের পরবর্তী সংস্করণ, যা ২২টির মধ্যে ২০টি সফল রেকর্ড গড়েছিল। জুনে ফান্ড সংগ্রহ রাউন্ডের পর আইসিইওয়াইইয়ের মূল্যায়ন দাঁড়িয়েছে ১২ বিলিয়ন ডলারের বেশি।",
-        "details_en": "Avio builds the Vega C rocket, a solid-fueled launcher designed to carry up to 3.3 metric tons of payload to low-Earth orbit. The Vega C has flown successfully seven times in eight attempts since 2022, following an earlier Vega rocket that amassed a 20-for-22 record since 2012. ICEYE's valuation stands at more than $12 billion after a fundraising round in June.",
-        "hook_bn": "ফিনল্যান্ডের স্যাটেলাইট কোম্পানি আইসিইওয়াইই অ্যাভিও ক্রয়ে ২.২ বিলিয়নের বেশি প্রস্তাব দিয়েছে।",
-        "question_bn": "ইউরোপীয় মহাকাশ শিল্পে এই ধরনের বড় অধিগ্রহণ প্রযুক্তিগত অগ্রগতির ক্ষেত্রে কী প্রভাব ফেলতে পারে বলে আপনার মনে হয়?"
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T23:02:00.702077+00:00"
-      }
-    },
-    {
-      "story_id": "a70c6929-e93e-5d3c-9208-92dea687a0cf",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business"
-      ],
-      "region": "international",
-      "tags": [
-        "#StKittsAndNevis",
-        "#TerranceDrew",
-        "#MarkBrantley",
-        "#EuropeanUnion"
-      ],
-      "image_url": "https://i.guim.co.uk/img/media/03f57a225008dd1bc1f3dc849a2f4e634086c7a4/342_0_2918_2334/master/2918.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d4359df7f529b956610a77b4dd3979f9",
-      "image_caption": null,
-      "published_at": "2026-11-17T21:49:29+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.2696,
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
-          "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
-          "snippet": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সেন্ট কিটস্ অ্যান্ড নেভিস নাগরিকত্ব কর্মসূচি বন্ধের ঘোষণা দিয়েছে।",
-        "title_en": "St Kitts and Nevis has announced the closure of its citizenship program.",
-        "summary_bn": "ইউরোপীয় ইউনিয়নের হুমকির মুখে সেন্ট কিটস্ অ্যান্ড নেভিসের প্রধানমন্ত্রী টেরেন্স ড্রিউ নাগরিকত্ব-বাই-ইনভেস্টমেন্ট কর্মসূচি গুটিয়ে নেওয়ার ঘোষণা দিয়েছেন।",
-        "summary_en": "St Kitts and Nevis Prime Minister Terrance Drew announced he would wind down the citizenship-by-investment programme following European Union threats.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-17T21:49:29+00:00",
-        "lead_bn": "ইউরোপীয় ইউনিয়নের হুমকির মুখে সেন্ট কিটস্ অ্যান্ড নেভিসের প্রধানমন্ত্রী টেরেন্স ড্রিউ নাগরিকত্ব-বাই-ইনভেস্টমেন্ট কর্মসূচি গুটিয়ে নেওয়ার ঘোষণা দিয়েছেন।",
-        "lead_en": "St Kitts and Nevis Prime Minister Terrance Drew announced he would wind down the citizenship-by-investment programme following European Union threats.",
-        "bullets_bn": [
-          "নেভিসের প্রিমিয়ার মার্ক ব্র্যান্টলি জানিয়েছেন, দেশটিকে খুব কম বিকল্প দেওয়া হয়েছিল এবং তিনি এই কর্মসূচি বন্ধের সমর্থন করেন না।",
-          "ইউরোপীয় কমিশন পাঁচটি ক্যারিবীয় দেশকে শেনজেন এলাকায় ভিসামুক্ত প্রবেশাধিকার বাতিল করার সতর্কতা দিয়েছিল।",
-          "প্রধানমন্ত্রী ড্রিউ বলেন, এই কর্মসূচি অব্যাহত রাখলে ইউরোপে ভিসামুক্ত ভ্রমণ ও আন্তর্জাতিক ব্যাংকিং সেবা ব্যাহত হতে পারে।"
-        ],
-        "bullets_en": [
-          "Mark Brantley, the premier of Nevis, said the country was given very little choice and did not support winding down the program.",
-          "The European Commission warned five Caribbean nations that they may lose visa-free access to the Schengen area.",
-          "Prime Minister Drew said continuing the program risked visa-free travel to Europe and access to international banking."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "৪২ বছর আগে চালু হওয়া এই নাগরিকত্ব কর্মসূচিটির মাধ্যমে ধনী বিদেশিরা বিনিয়োগের বিনিময়ে নাগরিকত্ব ও পাসপোর্ট পেয়ে থাকেন। এটি দেশে বিলিয়ন ডলার এনে দিয়েছে এবং কিছু বছর সরকারি আয়ের সবচেয়ে বড় উৎস ছিল। প্রধানমন্ত্রী ড্রিউ এর জন্য পূর্ববর্তী প্রশাসনের অব্যবস্থাপনাকে দায়ী করেন।",
-        "details_en": "The 42-year-old citizenship-by-investment programme allows wealthy foreigners to obtain citizenship and a passport by investing. It has brought billions of dollars into the country and accounted for the largest share of government revenue in some years. Prime Minister Drew blamed the situation on mismanagement by previous administrations.",
-        "hook_bn": "নাগরিকত্ব কর্মসূচি বন্ধের ঘোষণা দিল সেন্ট কিটস্ অ্যান্ড নেভিস।",
-        "question_bn": "ইইউ-এর চাপে কোনো দেশের এমন বিনিয়োগ কর্মসূচি বন্ধ করে দেওয়াকে আপনি কীভাবে দেখেন?"
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-17T23:02:00.702077+00:00"
+        "checked_at": "2026-11-18T00:01:45.914810+00:00"
       }
     }
   ]
