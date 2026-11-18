@@ -1,346 +1,470 @@
 {
-  "updated_at": "2026-11-18T06:00:40.041346",
-  "total_stories": 4,
+  "updated_at": "2026-11-18T07:00:44.278099",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "67355906-32cf-5afe-bceb-cfba565debf1",
-      "primary_category": "economy_business",
+      "story_id": "f9724faf-6a98-5210-8ddc-33e0cad1a033",
+      "primary_category": "society_education",
       "interest_categories": [
-        "economy_business",
+        "society_education",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#HighCourt",
+        "#HSC",
+        "#AdmissionTest"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2021/10/16/image.png",
+      "image_caption": null,
+      "published_at": "2026-11-18T06:40:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.5,
+      "rank_score": 5.5105,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/hc-bars-public-universities-holding-admission-tests-hsc-re-evaluation-result-1606276",
+          "title": "HC bars public universities from holding admission tests before HSC re-evaluation result",
+          "snippet": "HC bars public universities from holding admission tests before HSC re-evaluation result"
+        },
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/education/admission/51fpiu173w",
+          "title": "বিইউপির ভর্তি পরীক্ষা পেছাল, দ্বিতীয়বার আবেদনের সুযোগ",
+          "snippet": "বিইউপির ভর্তি পরীক্ষা পেছাল, দ্বিতীয়বার আবেদনের সুযোগ"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/court/424970/hc-suspends-university-admission-tests-until-hsc",
+          "title": "HC suspends university admission tests until HSC re-scrutiny results",
+          "snippet": "HC suspends university admission tests until HSC re-scrutiny results"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "এইচএসসি পুনর্মূল্যায়নের ফল প্রকাশ না হওয়া পর্যন্ত ভর্তি পরীক্ষা স্থগিত",
+        "title_en": "HC bars public universities from holding admission tests before HSC re-evaluation result",
+        "summary_bn": "হাইকোর্ট ঢাকা বিশ্ববিদ্যালয়সহ সব পাবলিক বিশ্ববিদ্যালয়কে এইচএসসি ও সমমানের পরীক্ষার পুনর্মূল্যায়ন ফল প্রকাশ না হওয়া পর্যন্ত ভর্তি পরীক্ষা না নেওয়ার নির্দেশ দিয়েছে।",
+        "summary_en": "The High Court has directed all public universities, including Dhaka University, not to hold admission tests until the publication of the re-evaluation results of this year's HSC and equivalent examinations.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T06:40:00+00:00",
+        "lead_bn": "হাইকোর্ট ঢাকা বিশ্ববিদ্যালয়সহ সব পাবলিক বিশ্ববিদ্যালয়কে এইচএসসি ও সমমানের পরীক্ষার পুনর্মূল্যায়ন ফল প্রকাশ না হওয়া পর্যন্ত ভর্তি পরীক্ষা না নেওয়ার নির্দেশ দিয়েছে।",
+        "lead_en": "The High Court has directed all public universities, including Dhaka University, not to hold admission tests until the publication of the re-evaluation results of this year's HSC and equivalent examinations.",
+        "bullets_bn": [
+          "বিচারপতি আহমেদ সোহেল ও বিচারপতি এসএম ইখতিয়ার উদ্দিন মাহমুদের বেঞ্চ রিট আবেদনের প্রাথমিক শুনানির পর এই আদেশ দেন।",
+          "এই আদেশ পরীক্ষার ফল অকৃতকার্য হওয়া এবং পুনর্মূল্যায়নের অপেক্ষায় থাকা শিক্ষার্থীদের জন্য প্রযোজ্য।",
+          "বাংলাদেশ ইউনিভার্সিটি অব প্রফেশনালসে ২০২৬-২৭ বর্ষের ভর্তি পরীক্ষার জন্য অনলাইনে আবেদন শুরু হয়েছে।"
+        ],
+        "bullets_en": [
+          "A High Court bench comprising Justice Ahmed Sohel and Justice SM Iftekhar Uddin Mahamud issued the order after holding a preliminary hearing.",
+          "The order applies to students who failed the examinations and are awaiting the results of their re-evaluated answer scripts or re-examinations.",
+          "Online application for the admission test of Bangladesh University of Professionals for the 2026-27 academic year has started."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "চলতি বছরের এইচএসসি ও সমমানের পরীক্ষার পুনর্মূল্যায়ন ও পুনঃপরীক্ষার ফলাফল প্রকাশের আগেই কয়েকটি বিশ্ববিদ্যালয় ২০২৬-২৭ শিক্ষাবর্ষের ভর্তি পরীক্ষার সময়সূচি ঘোষণা করেছিল। ফলপ্রত্যাশী শিক্ষার্থীদের করা একটি রিট আবেদনের প্রাথমিক শুনানি শেষে হাইকোর্ট এই নির্দেশ দেয়।",
+        "details_en": "Several universities had announced their admission test schedules for the 2026-27 academic year before the publication of the results. The High Court issued the directive following a preliminary hearing on a writ petition filed by affected students.",
+        "hook_bn": "পাবলিক বিশ্ববিদ্যালয়ে ভর্তি পরীক্ষা স্থগিত",
+        "kicker_bn": "রায় ঘোষণা",
+        "share_value": true,
+        "question_bn": "এইচএসসি পরীক্ষার ফল পুনর্মূল্যায়নের এই সিদ্ধান্ত শিক্ষার্থীদের জন্য কতটা সহায়ক হবে বলে আপনি মনে করেন?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 9.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-18T07:01:55.938539+00:00"
+      }
+    },
+    {
+      "story_id": "d949ea3e-ca98-5814-aa64-995ce57f42e1",
+      "primary_category": "governance_law",
+      "interest_categories": [
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Gazipur",
-        "#GarmentWorkers",
-        "#WageProtest"
+        "#NazrulIslamHiru",
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/18/914383701_1696650405452654_7770802909376504864_n.jpg",
+      "image_url": "https://images.unsplash.com/photo-1627317764899-eb00cfc40ac2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8c3RhdGUlMjBtaW5pc3RlciUyMG5henJ1bCUyMGlzbGFtJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk0OTg1MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-18T04:00:00+00:00",
+      "published_at": "2026-11-18T05:24:07+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 9.0,
-      "rank_score": 7.2071,
+      "importance_score": 7.75,
+      "rank_score": 5.4694,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/tk30000-wage-demand-garment-workers-block-dhaka-mymensingh-highway-halts-traffic-1606056",
-          "title": "Tk30,000 wage demand: Garment workers block highway, torch police vehicle in Gazipur",
-          "snippet": "Tk30,000 wage demand: Garment workers block highway, torch police vehicle in Gazipur"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/424962/ex-state-minister-nazrul-islam-hiru-arrested",
+          "title": "Ex-state minister Nazrul Islam Hiru arrested",
+          "snippet": "Ex-state minister Nazrul Islam Hiru arrested"
         },
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/un4zzx92if",
-          "title": "গাজীপুরে পোশাকশ্রমিকদের ঢাকা-ময়মনসিংহ মহাসড়ক অবরোধ, ৩৯ কারখানা বন্ধ",
-          "snippet": "গাজীপুরে পোশাকশ্রমিকদের ঢাকা-ময়মনসিংহ মহাসড়ক অবরোধ, ৩৯ কারখানা বন্ধ"
+          "url": "https://www.prothomalo.com/bangladesh/crime/pekziantpp",
+          "title": "সাবেক প্রতিমন্ত্রী নজরুল ইসলাম ঢাকায় আটক",
+          "snippet": "সাবেক প্রতিমন্ত্রী নজরুল ইসলাম ঢাকায় আটক"
         },
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/424953/most-factories-reopen-in-gazipur-after-workers",
-          "title": "Most factories reopen in Gazipur after workers' protests",
-          "snippet": "Most factories reopen in Gazipur after workers' protests"
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/former-state-minister-nazrul-islam-hiru-detained-dhaka-4327011",
+          "title": "Former state minister Nazrul Islam Hiru detained in Dhaka",
+          "snippet": "Former state minister Nazrul Islam Hiru detained in Dhaka"
         },
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/garment-workers-torch-police-car-block-dhaka-mymensingh-highway-in-gazipur",
-          "title": "Garment workers block Dhaka-Mymensingh Highway",
-          "snippet": "Garment workers block Dhaka-Mymensingh Highway"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/crime/ex-state-minister-nazrul-islam-hiru-arrested-1606256",
+          "title": "Ex-state minister Nazrul Islam Hiru arrested",
+          "snippet": "Ex-state minister Nazrul Islam Hiru arrested"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গাজীপুরে ন্যূনতম মজুরি বৃদ্ধির দাবিতে পোশাকশ্রমিকদের মহাসড়ক অবরোধ ও বিক্ষোভ",
-        "title_en": "Garment workers block Gazipur highway demanding higher minimum wage",
-        "summary_bn": "গাজীপুরে ন্যূনতম ৩০ হাজার টাকা মজুরির দাবিতে পোশাকশ্রমিকেরা ঢাকা-ময়মনসিংহ মহাসড়ক অবরোধ করে বিক্ষোভ করেছেন এবং একটি পুলিশি গাড়িতে আগুন দিয়েছেন।",
-        "summary_en": "Garment workers in Gazipur blocked the Dhaka-Mymensingh highway and torched a police vehicle while demanding a minimum wage of Tk 30,000.",
+        "title_bn": "সাবেক প্রতিমন্ত্রী নজরুল ইসলাম ডিওএইচএস থেকে আটক",
+        "title_en": "Ex-state minister Nazrul Islam arrested in DOHS",
+        "summary_bn": "রাজধানীর বারিধারা ডিওএইচএস থেকে সাবেক প্রতিমন্ত্রী ও সংসদ সদস্য মোহাম্মদ নজরুল ইসলাম হিরুকে আটক করা হয়েছে।",
+        "summary_en": "Former state minister and MP Mohammad Nazrul Islam Hiru has been arrested from Baridhara DOHS in the capital.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T04:00:00+00:00",
-        "lead_bn": "গাজীপুরে ন্যূনতম ৩০ হাজার টাকা মজুরির দাবিতে পোশাকশ্রমিকেরা ঢাকা-ময়মনসিংহ মহাসড়ক অবরোধ করে বিক্ষোভ করেছেন এবং একটি পুলিশি গাড়িতে আগুন দিয়েছেন।",
-        "lead_en": "Garment workers in Gazipur blocked the Dhaka-Mymensingh highway and torched a police vehicle while demanding a minimum wage of Tk 30,000.",
+        "published_at": "2026-11-18T05:24:07+00:00",
+        "lead_bn": "রাজধানীর বারিধারা ডিওএইচএস থেকে সাবেক প্রতিমন্ত্রী ও সংসদ সদস্য মোহাম্মদ নজরুল ইসলাম হিরুকে আটক করা হয়েছে।",
+        "lead_en": "Former state minister and MP Mohammad Nazrul Islam Hiru has been arrested from Baridhara DOHS in the capital.",
         "bullets_bn": [
-          "শ্রমিকেরা ছয়দানা ও হাড়িকেন এলাকায় মহাসড়কে অবস্থান নিলে উভয় দিকে যান চলাচল বন্ধ হয়ে যায়।",
-          "পরিস্থিতি নিয়ন্ত্রণে আনতে পুলিশ টিয়ার গ্যাস ও সাউন্ড গ্রেনেড নিক্ষেপ করে।",
-          "পরিস্থিতি স্বাভাবিক রাখতে আইনশৃঙ্খলা রক্ষাকারী বাহিনী কাজ করছে এবং বেশ কিছু কারখানা বন্ধ রয়েছে।"
+          "বিশেষ প্রতিক্রিয়া ব্যাটালিয়ন এসআরবি-০১ এর একটি দল অভিযান চালিয়ে তাকে আটক করে।",
+          "এসআরবির আইন ও গণমাধ্যম শাখা থেকে আটকের এই তথ্য জানানো হয়।",
+          "তার বিরুদ্ধে একাধিক মামলায় বেশ কয়েকটি গ্রেপ্তারি পরোয়ানা জারি করা হয়েছিল।"
         ],
         "bullets_en": [
-          "Workers took positions on the highway in the Choydana and Hariken areas, halting traffic in both directions.",
-          "Police fired tear gas and sound grenades to bring the situation under control.",
-          "Law enforcement agencies are working to maintain normalcy while numerous factories remain closed."
+          "A team of the Special Response Battalion SRB-01 conducted a raid and detained him.",
+          "The law and media branch of SRB provided this information regarding the detention.",
+          "Several arrest warrants had been issued against him in multiple cases."
         ],
-        "impact_bn": "ঢাকা-ময়মনসিংহ মহাসড়কে যান চলাচল ব্যাহত হওয়ায় যাতায়াতকারী ও পরিবহন শ্রমিকেরা তীব্র ভোগান্তিতে পড়েন।",
-        "impact_en": "Commuters and transport workers faced severe disruption as traffic movement came to a halt on the Dhaka-Mymensingh highway.",
-        "details_bn": "ন্যূনতম মজুরি বৃদ্ধির দাবিতে গাজীপুরের বিভিন্ন শিল্প এলাকায় বেশ কিছুদিন ধরে শ্রমিকেরা বিক্ষোভ করে আসছেন। এর জেরে শ্রমিক অসন্তোষের কারণে ১০টি পোশাক কারখানায় সাধারণ ছুটি ঘোষণা করা হয়েছে এবং ৩৯টি কারখানা অনির্দিষ্টকালের জন্য বন্ধ রয়েছে।",
-        "details_en": "Workers have been protesting in several industrial areas of Gazipur for some time demanding an increase in the minimum wage. Due to the labor unrest, 10 garment factories declared general holidays while 39 others remained closed indefinitely.",
-        "hook_bn": "মজুরি বৃদ্ধির দাবিতে গাজীপুরে মহাসড়ক অবরোধ",
-        "kicker_bn": "শ্রমিক অসন্তোষ",
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "রাজধানীর বারিধারা ডিওএইচএস-এর একটি বাসায় অভিযান পরিচালনা করে তাকে আটক করা হয়। এসআরবি-০১ এর সহকারী পুলিশ সুপার লুৎফরের নেতৃত্বে এই অভিযান পরিচালিত হয়। তিনি পানি সম্পদ মন্ত্রণালয়ের সাবেক প্রতিমন্ত্রী এবং নরসিংদী-১ আসনের চারবারের সাবেক সংসদ সদস্য ছিলেন। একাধিক মামলায় তার বিরুদ্ধে গ্রেপ্তারি পরোয়ানা জারি ছিল।",
+        "details_en": "He was detained during a raid at a residence in Baridhara DOHS in the capital. The operation was led by SRB-01 Assistant Superintendent of Police Lutfar. He served as the former state minister for water resources and was a four-time former MP for Narsingdi-1. Arrest warrants had been issued against him in multiple cases.",
+        "hook_bn": "বারিধারা ডিওএইচএস থেকে সাবেক প্রতিমন্ত্রী আটক",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 8.0,
-      "outlet_count": 6,
-      "trending": true,
-      "social_appeal": 9.0,
+      "desk_importance": 7.0,
+      "outlet_count": 5,
+      "trending": false,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-18T06:02:07.046829+00:00"
+        "checked_at": "2026-11-18T07:01:55.938539+00:00"
       }
     },
     {
-      "story_id": "1ce4988b-ff4a-5315-b567-ebad2b8949ed",
+      "story_id": "1e64c6b1-70b7-5f72-bc20-dfba13570265",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#CPD",
-        "#RMGWorkers",
-        "#WageBoard"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2025/09/28/rmg_photo_tbs.png",
+      "image_url": "https://media.prothomalo.com/prothomalo%2Fimport%2Fmedia%2F2017%2F02%2F13%2Ffc71a45336894c49bba4a4534beaa22c-gold.jpg?rect=0%2C30%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-18T05:20:00+00:00",
+      "published_at": "2026-11-18T06:05:10+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 8.0,
-      "rank_score": 6.1504,
+      "importance_score": 7.25,
+      "rank_score": 4.9794,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/garment-workers-wages-may-be-discussed-within-tk18578-tk24204-range-cpd-1606171",
-          "title": "Garment workers' wages may be discussed within Tk18,578-Tk24,204 range: CPD",
-          "snippet": "Garment workers' wages may be discussed within Tk18,578-Tk24,204 range: CPD"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/business/industry/umeaqaifd3",
+          "title": "নভেম্বর মাসে সোনার দাম কমল ভরিতে ১৪ হাজার ২৮৮ টাকা",
+          "snippet": "নভেম্বর মাসে সোনার দাম কমল ভরিতে ১৪ হাজার ২৮৮ টাকা"
         },
         {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/capital/post-1222225/",
-          "title": "মহাখালী সাততলা বস্তিতে আগুন, নিয়ন্ত্রণে ৭টি ইউনিট",
-          "snippet": "মহাখালী সাততলা বস্তিতে আগুন, নিয়ন্ত্রণে ৭টি ইউনিট"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/economy/news/1180794",
-          "title": "পোশাকশ্রমিকদের ১৮ থেকে ২৪ হাজার টাকার মধ্যে মজুরির প্রস্তাব সিপিডির",
-          "snippet": "পোশাকশ্রমিকদের ১৮ থেকে ২৪ হাজার টাকার মধ্যে মজুরির প্রস্তাব সিপিডির"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/gold-price-falls-again/",
+          "title": "আবারও কমেছে স্বর্ণের দাম",
+          "snippet": "আবারও কমেছে স্বর্ণের দাম"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পোশাক শ্রমিকদের জন্য ১৮৫৭৮ থেকে ২৪২০৪ টাকার মজুরি প্রস্তাব করেছে সিপিডি।",
-        "title_en": "CPD proposes Tk18,578 to Tk24,204 wage range for garment workers.",
-        "summary_bn": "জীবনযাত্রার খরচ ও শ্রমিকদের চাহিদার কথা বিবেচনা করে তৈরি পোশাক খাতের শ্রমিকদের জন্য মাসিক ১৮ হাজার ৫৭৮ টাকা থেকে ২৪ হাজার ২০৪ টাকার নতুন মজুরি কাঠামো প্রস্তাব করেছে সেন্টার ফর পলিসি ডায়ালগ (সিপিডি)।",
-        "summary_en": "The Centre for Policy Dialogue (CPD) has proposed a monthly wage range of Tk18,578 to Tk24,204 for garment workers, considering living costs and livelihood needs.",
+        "title_bn": "দেশের বাজারে টানা ছয় দফায় কমল সোনার দাম।",
+        "title_en": "Gold prices dropped across six consecutive phases in the local market.",
+        "summary_bn": "বৈশ্বিক বাজারে দরপতনের কারণে দেশের বাজারে টানা ছয় দফায় মোট ১৪ হাজার ২৮৮ টাকা কমেছে সোনার দাম।",
+        "summary_en": "Due to price drops in the global market, gold prices fell by a total of 14,288 taka across six consecutive phases.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T05:20:00+00:00",
-        "lead_bn": "জীবনযাত্রার খরচ ও শ্রমিকদের চাহিদার কথা বিবেচনা করে তৈরি পোশাক খাতের শ্রমিকদের জন্য মাসিক ১৮ হাজার ৫৭৮ টাকা থেকে ২৪ হাজার ২০৪ টাকার নতুন মজুরি কাঠামো প্রস্তাব করেছে সেন্টার ফর পলিসি ডায়ালগ (সিপিডি)।",
-        "lead_en": "The Centre for Policy Dialogue (CPD) has proposed a monthly wage range of Tk18,578 to Tk24,204 for garment workers, considering living costs and livelihood needs.",
+        "published_at": "2026-11-18T06:05:10+00:00",
+        "lead_bn": "বৈশ্বিক বাজারে দরপতনের কারণে দেশের বাজারে টানা ছয় দফায় মোট ১৪ হাজার ২৮৮ টাকা কমেছে সোনার দাম।",
+        "lead_en": "Due to price drops in the global market, gold prices fell by a total of 14,288 taka across six consecutive phases.",
         "bullets_bn": [
-          "বর্তমান ১২ হাজার ৫০০ টাকা ন্যূনতম মজুরির বিপরীতে শ্রমিকরা ৩০ হাজার টাকা দাবি করছেন।",
-          "মজুরি বোর্ড গঠিত হয় ১ নভেম্বর এবং শ্রমিক প্রতিনিধি ৩২ হাজার টাকা প্রস্তাব করেন।",
-          "মালিকপক্ষের প্রস্তাব জমা দেওয়ার জন্য তৃতীয় বৈঠক ২৩ নভেম্বর পুনর্নির্ধারিত হয়েছে।"
+          "বাংলাদেশ জুয়েলার্স সমিতি ২২ ক্যারেটের প্রতি ভরি সোনার দাম নির্ধারণ করেছে ২ লাখ ১৫ হাজার ৩৭৬ টাকা।",
+          "আন্তর্জাতিক বাজারে প্রতি আউন্স সোনার দাম কমেছে ৬৬ ডলার।",
+          "সোনা ও রুপার নির্ধারিত দামের সঙ্গে ভ্যাট যুক্ত রয়েছে বলে জানিয়েছে বাজুস।"
         ],
         "bullets_en": [
-          "Workers are demanding a minimum monthly wage of Tk30,000 against the existing minimum of Tk12,500.",
-          "A Minimum Wage Board was formed on 1 November, where workers proposed Tk32,000.",
-          "The board meeting was rescheduled to 23 November for employers to submit their proposal."
+          "Bangladesh Jeweller Association set the price of 22-karat gold at 215,376 taka per bhori.",
+          "The price of gold decreased by 66 dollars per ounce in the international market.",
+          "Bajus stated that VAT is included with the fixed prices of gold and silver."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "শিল্পাঞ্চলে সপ্তাহব্যাপী বিক্ষোভ, কারখানা বন্ধ ও সংঘর্ষের পর সরকার ১ নভেম্বর ছয় সদস্যের ন্যূনতম মজুরি বোর্ড গঠন করে। ৯ নভেম্বরের দ্বিতীয় বৈঠকে শ্রমিক প্রতিনিধিরা ৩২ হাজার টাকা প্রস্তাব করলেও মালিকপক্ষের প্রতিনিধি সময় চান। ১৬ নভেম্বরের তৃতীয় বৈঠক স্থায়ী শ্রমিক প্রতিনিধি অসুস্থ হওয়ায় স্থগিত করা হয়।",
-        "details_en": "Following weeks of protests, factory closures and clashes in industrial areas, the government formed a six-member Minimum Wage Board on 1 November. At the second meeting on 9 November, workers proposed Tk32,000 while employers sought time. The third meeting on 16 November was postponed due to illness.",
-        "hook_bn": "পোশাক শ্রমিকদের মজুরি ১৮ হাজার থেকে ২৪ হাজার টাকা",
-        "kicker_bn": "নতুন মজুরি",
+        "impact_bn": "অলংকার বিক্রির সময় জুয়েলারি প্রতিষ্ঠানগুলো ক্রেতাদের কাছ থেকে আলাদাভাবে ভ্যাট আদায় করতে পারবে না।",
+        "impact_en": "Jewelry stores will not be able to collect VAT separately from buyers when selling ornaments.",
+        "details_bn": "বাংলাদেশ জুয়েলার্স সমিতি সোনার দাম কমানোর ঘোষণা দিয়েছে। এর আগে ৬ ও ১১ নভেম্বর দুই দফায় ভরিতে ২ হাজার ৭৪১ টাকা করে মোট ৫ হাজার ৪৮২ টাকা কমানো হয়। এরপর কমে ২ হাজার ২১৬ টাকা, কমে ২ হাজার ১৫৮ টাকা এবং কমেছে ২ হাজার ২১৬ টাকা। নভেম্বরের শুরুতে সোনার দাম প্রায় ১২ হাজার টাকা বেড়ে ২ লাখ ২৯ হাজার টাকা ছাড়িয়ে গিয়েছিল। আন্তর্জাতিক বাজারে প্রতি আউন্স সোনার দাম কমেছে এবং স্থানীয় বাজারে তেজাবি সোনার দামও কমেছে।",
+        "details_en": "The Bangladesh Jeweller Association announced the reduction of gold prices. Earlier, prices were reduced by 2,741 taka per bhori in two phases on November 6 and 11, totaling 5,482 taka. Subsequently, prices fell by 2,216 taka 2,158 taka and 2,216 taka on Saturday. At the beginning of November, gold prices had increased by nearly 12,000 taka, exceeding 229,000 taka. The price per ounce of gold decreased in the international market, and pure gold prices also fell in the local market.",
+        "hook_bn": "দেশের বাজারে কমল সোনার দাম",
+        "kicker_bn": "দাম কমছে",
         "share_value": true,
-        "question_bn": null
+        "question_bn": "সোনার দাম কমার এই সিদ্ধান্তকে আপনি কীভাবে দেখছেন?"
       },
       "desk_importance": 7.0,
-      "outlet_count": 3,
-      "trending": true,
-      "social_appeal": 8.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 9.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-18T06:02:07.046829+00:00"
+        "checked_at": "2026-11-18T07:01:55.938539+00:00"
       }
     },
     {
-      "story_id": "dae546f7-61e2-50d0-992d-7954a434a5bb",
-      "primary_category": "governance_law",
+      "story_id": "7cf54b90-1b6a-582b-b35f-5548150def3e",
+      "primary_category": "sports_fitness",
       "interest_categories": [
-        "governance_law"
+        "sports_fitness",
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#Mirpur",
-        "#Kafrul",
-        "#GarmentWorkers"
+        "#BangladeshFootball",
+        "#Macau"
       ],
-      "image_url": "https://images.unsplash.com/photo-1577199001468-44c049e7603f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z2FybWVudCUyMHdvcmtlcnMlMjBibnAlMjBhY3RpdmlzdHMlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTQ5ODE3MDN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8c3RhZGl1bSUyMGZvb3RiYWxsJTIwY3JpY2tldCUyMHNwb3J0cyUyMG1hdGNofGVufDF8MHx8fDE3OTQ5ODUzMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-18T05:16:32+00:00",
+      "published_at": "2026-11-18T06:50:30+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.75,
-      "rank_score": 5.7528,
+      "importance_score": 7.0,
+      "rank_score": 4.849,
       "sources": [
         {
           "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/dhaka/424961/garment-workers-bnp-activists-clash-in-mirpur",
-          "title": "Garment workers, BNP activists clash in Mirpur",
-          "snippet": "Garment workers, BNP activists clash in Mirpur"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/police-garment-workers-clash-kafrul-over-alleged-harassment-female-workers-1606131",
-          "title": "Police, garment workers clash in Kafrul over alleged harassment of female workers",
-          "snippet": "Police, garment workers clash in Kafrul over alleged harassment of female workers"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/police-fire-stun-grenades-to-quell-clashes-between-garment-workers-and-bnp-activists",
-          "title": "Garment workers, BNP activists clash in Kafrul",
-          "snippet": "Garment workers, BNP activists clash in Kafrul"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/bnp-activists-clash-workers-mirpur-sound-grenade/",
-          "title": "মিরপুরে পোশাক শ্রমিকদের উত্তেজনা, পুলিশের সাউন্ড গ্রেনেড নিক্ষেপ",
-          "snippet": "মিরপুরে পোশাক শ্রমিকদের উত্তেজনা, পুলিশের সাউন্ড গ্রেনেড নিক্ষেপ"
+          "url": "https://www.dhakatribune.com/sport/football/424969/bangladesh-edge-past-macau-in-afc-u-17-asian-cup",
+          "title": "Bangladesh edge past Macau in AFC U-17 Asian Cup qualifiers",
+          "snippet": "Bangladesh edge past Macau in AFC U-17 Asian Cup qualifiers"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মিরপুরে পোশাক শ্রমিক ও বিএনপি কর্মীদের সংঘর্ষ",
-        "title_en": "Garment workers and BNP activists clash in Mirpur",
-        "summary_bn": "মিরপুরের কাফরুলে নারী শ্রমিক লাঞ্ছিত হওয়ার অভিযোগকে কেন্দ্র করে পোশাক শ্রমিক ও স্থানীয় বিএনপি কর্মীদের মধ্যে সংঘর্ষ হয়েছে।",
-        "summary_en": "Garment workers and local BNP activists clashed in Kafrul, Mirpur, over allegations of female workers being harassed.",
+        "title_bn": "মাকাওকে হারিয়ে জয় পেল বাংলাদেশ অনূর্ধ্ব-১৭ দল",
+        "title_en": "Bangladesh edge past Macau in AFC U-17 Asian Cup qualifiers",
+        "summary_bn": "বাংলাদেশ অনূর্ধ্ব-১৭ জাতীয় ফুটবল দল মাকাওকে এক গোলে হারিয়ে এএফসি অনূর্ধ্ব-১৭ এশিয়ান কাপ বাছাইপর্বে তাদের দ্বিতীয় জয় তুলে নিয়েছে।",
+        "summary_en": "The Bangladesh U-17 national football team recorded their second victory in the AFC U-17 Asian Cup qualification by edging past Macau by a solitary goal.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "sports_fitness",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T05:16:32+00:00",
-        "lead_bn": "মিরপুরের কাফরুলে নারী শ্রমিক লাঞ্ছিত হওয়ার অভিযোগকে কেন্দ্র করে পোশাক শ্রমিক ও স্থানীয় বিএনপি কর্মীদের মধ্যে সংঘর্ষ হয়েছে।",
-        "lead_en": "Garment workers and local BNP activists clashed in Kafrul, Mirpur, over allegations of female workers being harassed.",
+        "published_at": "2026-11-18T06:50:30+00:00",
+        "lead_bn": "বাংলাদেশ অনূর্ধ্ব-১৭ জাতীয় ফুটবল দল মাকাওকে এক গোলে হারিয়ে এএফসি অনূর্ধ্ব-১৭ এশিয়ান কাপ বাছাইপর্বে তাদের দ্বিতীয় জয় তুলে নিয়েছে।",
+        "lead_en": "The Bangladesh U-17 national football team recorded their second victory in the AFC U-17 Asian Cup qualification by edging past Macau by a solitary goal.",
         "bullets_bn": [
-          "উভয় পক্ষ একে অপরকে ধাওয়া দেয় এবং ইটপাটকেল নিক্ষেপ করে।",
-          "পরিস্থিতি নিয়ন্ত্রণে পুলিশ প্রায় ১০টি সাউন্ড গ্রেনেড নিক্ষেপ করে।",
-          "লোডের স্টার ফ্যাশন ও মিড এশিয়া ফ্যাশন কারখানার কাছে এই ঘটনা ঘটে।"
+          "ম্যাচটি অনুষ্ঠিত হয় সংযুক্ত আরব আমিরাতের রাস আল খাইমার সৌদ বিন সাকির আল কাসিমি স্টেডিয়ামে।",
+          "এই জয়ে তিন ম্যাচে বাংলাদেশ দল ছয় পয়েন্ট অর্জন করেছে।",
+          "মাকাও দলের সংগ্রহ আগের তিন পয়েন্টই রয়ে গেছে।"
         ],
         "bullets_en": [
-          "Both sides chased each other and exchanged brickbats during the incident.",
-          "Police fired around 10 sound grenades to bring the situation under control.",
-          "The incident took place near Load Star Fashion and Mid Asia Fashion factories."
+          "The match was held at Saud Bin Saqr Al Qasimi Stadium in Ras Al Khaimah, United Arab Emirates.",
+          "With this win, Bangladesh secured six points from three matches.",
+          "Macau remained with their previous collection of three points."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "মিরপুর-১৩ নম্বর এলাকায় লোড স্টার ফ্যাশন ও মিড এশিয়া ফ্যাশন কারখানার কাছে এই সংঘর্ষের সূত্রপাত হয়। কাফরুল থানার পুলিশ ঘটনাস্থলে পৌঁছে পরিস্থিতি নিয়ন্ত্রণে আনার চেষ্টা করে।",
-        "details_en": "The clash started on Wednesday morning near Load Star Fashion and Mid Asia Fashion factories in the Mirpur-13 area. Police from Kafrul Police Station rushed to the scene and attempted to bring the situation under control.",
-        "hook_bn": "মিরপুরে শ্রমিক ও বিএনপি কর্মীদের সংঘর্ষ",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "মাকাওকে হারিয়ে বাংলাদেশের দ্বিতীয় জয়",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 7.0,
-      "outlet_count": 4,
+      "outlet_count": 1,
       "trending": false,
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-18T06:02:07.046829+00:00"
+        "checked_at": "2026-11-18T07:01:55.938539+00:00"
       }
     },
     {
-      "story_id": "ee2d9ef3-46df-5652-8994-876ff17543e4",
-      "primary_category": "governance_law",
+      "story_id": "a0609d96-cd10-55dc-a5a6-fb0c8a49c88f",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "governance_law",
-        "society_education"
+        "world_diplomacy",
+        "governance_law"
       ],
-      "region": "national",
+      "region": "international",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#MaryPeltola",
+        "#Alaska",
+        "#USSenate"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-18%2Feve4f7zb%2F999df157-6f23-4e94-a114-5d60a8ed093d.jfif?rect=0%2C82%2C923%2C485&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://th-i.thgim.com/public/incoming/2mx26t/article71714732.ece/alternates/LANDSCAPE_1200/Election_2_26_Alaska_Senate__6261.jpg",
       "image_caption": null,
-      "published_at": "2026-11-18T04:55:01+00:00",
+      "published_at": "2026-11-18T06:39:20+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.75,
-      "rank_score": 5.6349,
+      "importance_score": 6.5,
+      "rank_score": 4.1362,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/cjci0a2j8h",
-          "title": "চট্টগ্রামে মধ্যরাতে পুলিশ বক্সে আগুন",
-          "snippet": "চট্টগ্রামে মধ্যরাতে পুলিশ বক্সে আগুন"
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/democrat-peltola-wins-in-alaska-securing-56-44-us-senate-majority/article71714710.ece",
+          "title": "Democrat Peltola wins in Alaska, securing 56-44 U.S. Senate majority",
+          "snippet": "Democrat Peltola wins in Alaska, securing 56-44 U.S. Senate majority"
         },
         {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/traffic-police-box-set-fire-chattogram-4326996",
-          "title": "Traffic police box set on fire in Chattogram",
-          "snippet": "Traffic police box set on fire in Chattogram"
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/us-democrats-flip-alaska-senate-seat-as-mary-peltola-wins-race/a-79976628?maca=en-rss-en-all-1573-rdf",
+          "title": "US Democrats flip Alaska Senate seat as Mary Peltola wins race",
+          "snippet": "US Democrats flip Alaska Senate seat as Mary Peltola wins race"
         },
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/chattogram-midnight-fire-police-box/",
-          "title": "চট্টগ্রামে মধ্যরাতে পুলিশ বক্সে আগুন",
-          "snippet": "চট্টগ্রামে মধ্যরাতে পুলিশ বক্সে আগুন"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1180799",
-          "title": "চট্টগ্রামে মধ্যরাতে পুলিশ বক্সে আগুন",
-          "snippet": "চট্টগ্রামে মধ্যরাতে পুলিশ বক্সে আগুন"
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss",
+          "title": "Mary Peltola flips Alaska Senate seat in another Democratic win",
+          "snippet": "Mary Peltola flips Alaska Senate seat in another Democratic win"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চট্টগ্রামের মুরাদপুরে পুলিশ বক্সে আগুন দেওয়ার ঘটনা ঘটেছে",
-        "title_en": "Police box set on fire in Chattogram Muradpur area",
-        "summary_bn": "চট্টগ্রাম নগরের মুরাদপুর এলাকায় একটি পুলিশ বক্সে আগুন দেওয়ার ঘটনা ঘটেছে এবং এতে কোনো হতাহতের খবর পাওয়া যায়নি।",
-        "summary_en": "A police box was set on fire in the Muradpur area of Chattogram city, with no casualties reported.",
+        "title_bn": "আলাস্কায় সিনেট আসন জিতেছেন ডেমোক্র্যাট প্রার্থী মেরি পেলটোলা।",
+        "title_en": "Democrat Mary Peltola wins Alaska Senate seat.",
+        "summary_bn": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচনে আলাস্কার সিনেট আসনে জয় পেয়েছেন ডেমোক্র্যাট প্রার্থী মেরি পেলটোলা।",
+        "summary_en": "Democrat Mary Peltola won Alaska’s U.S. Senate race, giving her party a 56-44 majority.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "society_education"
+          "world_diplomacy",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T04:55:01+00:00",
-        "lead_bn": "চট্টগ্রাম নগরের মুরাদপুর এলাকায় একটি পুলিশ বক্সে আগুন দেওয়ার ঘটনা ঘটেছে এবং এতে কোনো হতাহতের খবর পাওয়া যায়নি।",
-        "lead_en": "A police box was set on fire in the Muradpur area of Chattogram city, with no casualties reported.",
+        "published_at": "2026-11-18T06:39:20+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচনে আলাস্কার সিনেট আসনে জয় পেয়েছেন ডেমোক্র্যাট প্রার্থী মেরি পেলটোলা।",
+        "lead_en": "Democrat Mary Peltola won Alaska’s U.S. Senate race, giving her party a 56-44 majority.",
         "bullets_bn": [
-          "পুলিশ বক্সের সামনে কাপড়জাতীয় কিছুতে আগুন দেওয়া হয়েছিল এবং তা থেকে বক্সে আগুন ছড়িয়ে পড়ে।",
-          "পাঁচলাইশ থানার ভারপ্রাপ্ত কর্মকর্তা মোজাম্মেল হক আগুন লাগার বিষয়টি নিশ্চিত করেছেন।",
-          "ঘটনার সঙ্গে জড়িত ব্যক্তিদের তাৎক্ষণিকভাবে চিহ্নিত করা যায়নি এবং ভিডিও ফুটেজ যাচাই-বাছাই করা হচ্ছে।"
+          "মেরি পেলটোলা প্রথম পছন্দের ভোটের ৫০ শতাংশ পেয়ে রিপাবলিকান প্রার্থী ড্যান সুলিভানকে পরাজিত করেছেন।",
+          "এই জয়ের ফলে ডেমোক্র্যাটরা ৫৬-৪৪ ব্যবধানে সিনেটের সংখ্যাগরিষ্ঠতা অর্জন করেছে।",
+          "নির্বাচনে জয়লাভের পর মেরি পেলটোলা এক্স বার্তায় আলাস্কার ভোটারদের ধন্যবাদ জানিয়েছেন।"
         ],
         "bullets_en": [
-          "Fire was set to fabric-like items in front of the police box, which then spread to the box.",
-          "Officer-in-Charge Mozammel Haque of Panchlaish Police Station confirmed the incident.",
-          "Those involved could not be identified immediately and video footage is being scrutinized."
+          "Ms. Peltola won 50% of first-place votes to defeat Republican incumbent Dan Sullivan.",
+          "The victory gave the Democratic party its ninth flip of the midterm elections and a 56-44 majority.",
+          "Ms. Peltola thanked voters on X after media projected her victory in the final race."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "দিবাগত রাত একটার দিকে নগরের মুরাদপুরে উড়ালসড়কের নিচে থাকা পুলিশ বক্সে এই অগ্নিকাণ্ডের ঘটনা ঘটে। এ ঘটনায় পুলিশ বক্সের আসবাবপত্রসহ বিভিন্ন মালামাল পুড়ে গেছে। পুলিশ বক্সে আগুন লাগার একটি ভিডিও সামাজিক যোগাযোগমাধ্যম ফেসবুকে ছড়িয়ে পড়েছে, যেখানে উড়ালসড়কের নিচের পুলিশ বক্সে আগুন জ্বলতে দেখা গেছে। পুলিশ জানিয়েছে, ভিডিও ফুটেজ সংগ্রহ করে যাচাই-বাছাই করা হচ্ছে এবং জড়িত ব্যক্তিদের বিরুদ্ধে আইনি ব্যবস্থা নেওয়া হবে।",
-        "details_en": "The fire incident took place around 1:00 AM on Tuesday night at the police box located under the flyover in the Muradpur area of the city. Furniture and various other items inside the police box were burned in the incident. A video of the fire has spread on Facebook showing flames at the police box under the flyover. Police stated that video footage has been collected for scrutiny and legal action will be taken against those involved.",
-        "hook_bn": "চট্টগ্রামের মুরাদপুরে পুলিশ বক্সে আগুন",
+        "details_bn": "আলাস্কার কঠিন প্রতিদ্বন্দ্বিতাপূর্ণ এই আসনটি দেশটির মধ্যবর্তী নির্বাচনে সর্বশেষ বিজয়ী হওয়া আসন। ভোট গণনার দীর্ঘ প্রক্রিয়ার পাশাপাশি স্বতন্ত্র প্রার্থী নিয়োগ নিয়ে ডেমোক্র্যাটদের বিরুদ্ধে অভিযোগ উঠেছিল এবং এই আসনে আইনি চ্যালেঞ্জের সম্ভাবনা রয়েছে।",
+        "details_en": "The hard-fought contest is the last to be called for the US Senate and likely faces legal challenges. Alaska's isolated communities can make counts lengthy, and the race involved allegations that Democrats helped recruit an independent candidate as a spoiler.",
+        "hook_bn": "আলাস্কায় সিনেট আসন পেলেন ডেমোক্র্যাট প্রার্থী মেরি পেলটোলা",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 7.0,
-      "outlet_count": 4,
-      "trending": false,
-      "social_appeal": 7.0,
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": true,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-18T06:02:07.046829+00:00"
+        "checked_at": "2026-11-18T07:01:55.938539+00:00"
+      }
+    },
+    {
+      "story_id": "392cede9-69ca-56c2-93fc-bab486f47f63",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1656436075877-a20103919f4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8aXJhbiUyMGRyb25lJTIwYXR0YWNrJTIwYmFzZSUyMGRpcGxvbWFjeXxlbnwxfDB8fHwxNzk0OTg1MzE1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-18T06:42:45+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.25,
+      "rank_score": 3.8368,
+      "sources": [
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821651/%E0%A6%95%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%98%E0%A6%BE%E0%A6%81%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%A8-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE",
+          "title": "কুয়েতে মার্কিন ঘাঁটিতে ইরানের ড্রোন হামলা",
+          "snippet": "কুয়েতে মার্কিন ঘাঁটিতে ইরানের ড্রোন হামলা"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/mass-media/498863",
+          "title": "ডিএফডি-ডিআরইউ বিতর্ক প্রতিযোগিতায় গ্র্যান্ড ফাইনালে বিএসআরএফ",
+          "snippet": "ডিএফডি-ডিআরইউ বিতর্ক প্রতিযোগিতায় গ্র্যান্ড ফাইনালে বিএসআরএফ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কুয়েতের আলি আল-সালেম বিমানঘাঁটিতে ইরানের ড্রোন হামলা",
+        "title_en": "Iran drone attack on US base in Kuwait",
+        "summary_bn": "ইরানের সেনাবাহিনী কুয়েতের আলি আল-সালেম বিমানঘাঁটি লক্ষ্য করে ড্রোন হামলা চালানোর দাবি করেছে।",
+        "summary_en": "The Iranian army claimed to have launched a drone attack targeting Kuwait Ali Al-Salem air base.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T06:42:45+00:00",
+        "lead_bn": "ইরানের সেনাবাহিনী কুয়েতের আলি আল-সালেম বিমানঘাঁটি লক্ষ্য করে ড্রোন হামলা চালানোর দাবি করেছে।",
+        "lead_en": "The Iranian army claimed to have launched a drone attack targeting Kuwait Ali Al-Salem air base.",
+        "bullets_bn": [
+          "ইরানি সেনাবাহিনীর বিবৃতি অনুযায়ী এই হামলা চালানো হয়।",
+          "ইরানের রাষ্ট্রীয় সংবাদমাধ্যম ইরনা এই তথ্য জানায়।",
+          "হামলায় মার্কিন প্যাট্রিয়ট প্রতিরক্ষা ব্যবস্থা লক্ষ্য করা হয়।"
+        ],
+        "bullets_en": [
+          "The attack was carried out according to a statement by the Iranian army.",
+          "Iranian state media Irna reported this information.",
+          "The attack targeted the US Patriot defense system."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইরানের রাষ্ট্রীয় সংবাদমাধ্যম ইরনার বরাতে ১৮ নভেম্বর এই তথ্য জানা গেছে। ইরানি সেনাবাহিনীর বিবৃতিতে বলা হয়, ইসলামি প্রজাতন্ত্র ইরানের সেনাবাহিনীর বিধ্বংসী কমব্যাট ড্রোনগুলো কুয়েতের আলি আল-সালেম ঘাঁটিতে অবস্থিত মার্কিন সন্ত্রাসী বাহিনীর প্যাট্রিয়ট প্রতিরক্ষা ব্যবস্থা এবং অন্যান্য লক্ষ্যবস্তুতে আঘাত হানে।",
+        "details_en": "This information was reported on 18 November citing Iranian state media Irna. The Iranian army statement said that destructive combat drones of the Islamic Republic of Iran army attacked the Patriot defense system and other targets of the US terrorist forces located at Kuwait Ali Al-Salem base this morning.",
+        "hook_bn": "কুয়েতের মার্কিন ঘাঁটিতে ইরানের ড্রোন হামলা",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-18T07:01:55.938539+00:00"
       }
     }
   ]
