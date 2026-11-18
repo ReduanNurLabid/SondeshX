@@ -1,75 +1,153 @@
 {
-  "updated_at": "2026-11-18T02:00:54.913296",
-  "total_stories": 1,
+  "updated_at": "2026-11-18T03:00:41.299587",
+  "total_stories": 2,
   "stories": [
     {
-      "story_id": "e3bdb8bf-ec6b-50cf-9f39-d993bbdf7f57",
-      "primary_category": "tech_innovation",
+      "story_id": "eae91949-5cfe-50f5-b490-f0d2202cfeb1",
+      "primary_category": "climate_environment",
       "interest_categories": [
-        "tech_innovation",
-        "economy_business"
+        "climate_environment",
+        "governance_law"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#CyberAttack",
-        "#Optimizely",
-        "#ScottHelme"
+        "#Climate",
+        "#Environment"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2021/02/17/hackers.jpg",
+      "image_url": "https://images.unsplash.com/photo-1583794018021-c841442da0e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bmF0dXJlJTIwY2xpbWF0ZSUyMGZsb29kJTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk0OTcwODg3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-18T01:40:00+00:00",
+      "published_at": "2026-11-18T02:32:55+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.4493,
+      "importance_score": 7.25,
+      "rank_score": 5.1145,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/world/nearly-200-major-websites-hit-supply-chain-cyber-attack-1606001",
-          "title": "Nearly 200 major websites hit by supply-chain cyber attack",
-          "snippet": "Nearly 200 major websites hit by supply-chain cyber attack"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821606/%E0%A6%98%E0%A6%A8-%E0%A6%95%E0%A7%81%E0%A7%9F%E0%A6%BE%E0%A6%B6%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A6%BE%E0%A6%9F%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE-%E0%A6%A6%E0%A7%8C%E0%A6%B2%E0%A6%A4%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A6%BE-%E0%A6%B0%E0%A7%81%E0%A6%9F%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%B0%E0%A6%BF-%E0%A6%9A%E0%A6%B2%E0%A6%BE%E0%A6%9A%E0%A6%B2-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7",
+          "title": "ঘন কুয়াশায় পাটুরিয়া-দৌলতদিয়া রুটে ফেরি চলাচল বন্ধ",
+          "snippet": "ঘন কুয়াশায় পাটুরিয়া-দৌলতদিয়া রুটে ফেরি চলাচল বন্ধ"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/country/498803",
+          "title": "দৌলতদিয়া-পাটুরিয়া নৌরুটে ফেরি চলাচল শুরু",
+          "snippet": "দৌলতদিয়া-পাটুরিয়া নৌরুটে ফেরি চলাচল শুরু"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/dhaka/981639/%E0%A6%98%E0%A6%A8-%E0%A6%95%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B6%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AA%E0%A6%BE%E0%A6%9F%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%A6%E0%A7%8C%E0%A6%B2%E0%A6%A4%E0%A6%A6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%B0%E0%A7%81%E0%A6%9F%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%B0%E0%A6%BF-%E0%A6%9A%E0%A6%B2%E0%A6%BE%E0%A6%9A%E0%A6%B2",
+          "title": "ঘন কুয়াশায় পাটুরিয়া-দৌলতদিয়া রুটে ফেরি চলাচল বন্ধ",
+          "snippet": "ঘন কুয়াশায় পাটুরিয়া-দৌলতদিয়া রুটে ফেরি চলাচল বন্ধ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সরবরাহ চেইন সাইবার হামলায় আক্রান্ত প্রায় ২০০ বড় ওয়েবসাইট",
-        "title_en": "Nearly 200 major websites hit by supply-chain cyber attack",
-        "summary_bn": "১৬ থেকে ১৭ নভেম্বর একটি সরবরাহ চেইন সাইবার হামলায় বিবিসি ও সিএনএনসহ ১৭৮টি লক্ষ্যযুক্ত ওয়েবসাইটের তৃতীয় পক্ষের টুলস হ্যাক করা হয়।",
-        "summary_en": "Nearly 200 major websites were affected by a supply-chain cyber attack on 16–17 November, compromising third-party tools used by 178 targeted websites.",
+        "title_bn": "ঘন কুয়াশায় দৌলতদিয়া-পাটুরিয়া রুটে ফেরি চলাচল বন্ধ",
+        "title_en": "Ferry services suspended on Paturia-Goalundo route due to dense fog",
+        "summary_bn": "ঘন কুয়াশার কারণে মানিকগঞ্জের পাটুরিয়া ও রাজবাড়ীর দৌলতদিয়া নৌরুটে ফেরি চলাচল সাময়িকভাবে বন্ধ রয়েছে।",
+        "summary_en": "Ferry services are temporarily suspended on the Paturia-Goalundo route due to dense fog.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "tech_innovation",
-          "economy_business"
+          "climate_environment",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T01:40:00+00:00",
-        "lead_bn": "১৬ থেকে ১৭ নভেম্বর একটি সরবরাহ চেইন সাইবার হামলায় বিবিসি ও সিএনএনসহ ১৭৮টি লক্ষ্যযুক্ত ওয়েবসাইটের তৃতীয় পক্ষের টুলস হ্যাক করা হয়।",
-        "lead_en": "Nearly 200 major websites were affected by a supply-chain cyber attack on 16–17 November, compromising third-party tools used by 178 targeted websites.",
+        "published_at": "2026-11-18T02:32:55+00:00",
+        "lead_bn": "ঘন কুয়াশার কারণে মানিকগঞ্জের পাটুরিয়া ও রাজবাড়ীর দৌলতদিয়া নৌরুটে ফেরি চলাচল সাময়িকভাবে বন্ধ রয়েছে।",
+        "lead_en": "Ferry services are temporarily suspended on the Paturia-Goalundo route due to dense fog.",
         "bullets_bn": [
-          "আক্রান্ত সাইটের তালিকার মধ্যে রয়েছে বিবিসি, সিএনএন, আইকেইয়া, জুম, সেলসফোর্স, এয়ার ফ্রান্স-কেএলএম এবং এইচএসবিসি সংযুক্ত আরব আমিরাত।",
-          "নিরাপত্তা গবেষক স্কট হেলমে জানান যে আক্রমণকারীরা ব্যবহারকারীদের ক্রেডিট কার্ডের বিবরণ এবং ক্রিপ্টোকারেন্সি চুরির লক্ষ্য নিয়েছিল।",
-          "নিরাপত্তা গবেষক এবং অপ্টিমাইজেলি ক্ষতিকর কোড অপসারণ করে এবং ঘটনার কয়েক ঘণ্টার মধ্যে প্রকাশ সীমিত করতে ব্যবস্থা নেয়।"
+          "১৮ নভেম্বর সকাল পৌনে ৬টা থেকে এ রুটে ফেরি চলাচল বন্ধ রাখা হয়।",
+          "বিআইডব্লিউটিসির দৌলতদিয়া ফেরিঘাটের সহকারী মহাব্যবস্থাপক সালাহ উদ্দিন এ তথ্য জানান।",
+          "উভয় ঘাটে বিভিন্ন গন্তব্যের যাত্রী ও যানবাহন আটকা পড়েছে।"
         ],
         "bullets_en": [
-          "The list of affected sites includes the BBC, CNN, IKEA, Zoom, Salesforce, Air France-KLM, and HSBC UAE.",
-          "Security researcher Scott Helme stated the attackers aimed to collect users credit card details and steal cryptocurrency.",
-          "Security researchers and Optimizely took action to limit exposure and removed most malicious code within hours."
+          "Ferry services on the route were suspended from 5:45 am on Wednesday 18 November.",
+          "BIWTC Goalundo ferry terminal assistant general manager Salah Uddin provided this information.",
+          "Passengers and vehicles bound for various destinations are stranded at both terminals."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "আক্রমণকারীরা অপ্টিমাইজেলি দ্বারা হোস্ট করা টুলের মধ্যে ক্ষতিকর জাভাস্ক্রিপ্ট কোড প্রবেশ করায়, যা কোম্পানিগুলো অনলাইন ব্যবহারকারী অভিজ্ঞতা কাস্টমাইজ করতে ব্যবহার করে। এই কোডটি অ্যাপল ডিভাইসে সরাসরি আপলোড করার চেষ্টা করেছিল এবং হামলার কয়েক ঘণ্টার মধ্যে আক্রমণকারীর ক্রিপ্টো ওয়ালেটে ৭ হাজার ৪০ মার্কিন ডলার জমা হয়েছিল।",
-        "details_en": "Attackers injected malicious JavaScript code into tools hosted by Optimizely, a third-party digital platform used to customise online user experiences. The code also attempted to upload malicious code directly to Apple devices, and the attacker crypto wallets received about $7,040 within hours of the attack.",
-        "hook_bn": "সরবরাহ চেইন সাইবার হামলায় আক্রান্ত প্রায় ২০০ ওয়েবসাইট",
+        "details_bn": "পদ্মা নদীর অববাহিকায় কুয়াশার ঘনত্ব বেড়ে যাওয়ার কারণে চ্যানেলের বিকন বাতি ও মার্কিং পয়েন্টগুলো অস্পষ্ট হয়ে যায়। নৌ-দুর্ঘটনা এড়ানোর জন্য ঘাট কর্তৃপক্ষ ভোর ৫টা ৪৫ মিনিট থেকে এই রুটে ফেরি চলাচল বন্ধ রাখার সিদ্ধান্ত নেয়।",
+        "details_en": "Due to increased density of fog in the Padma river basin, the channel beacon lights and marking points became unclear. To avoid boating accidents, the terminal authorities decided to suspend ferry services on the route from 5:45 am.",
+        "hook_bn": "ঘন কুয়াশায় পাটুরিয়া-দৌলতদিয়া ফেরি চলাচল বন্ধ",
         "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-18T03:02:08.346823+00:00"
+      }
+    },
+    {
+      "story_id": "14e69f4d-8bc8-5ccf-ad82-0df17a437555",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1531353826977-0941b4779a1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8c2xlZXBpbmclMjBoZWxwZXIlMjBraWxsZWQlMjBtaXNjcmVhbnRzJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk0OTcwODkwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-18T02:42:57+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.0,
+      "rank_score": 4.8141,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1180730",
+          "title": "পিরোজপুরে দুই বাসে দুর্বৃত্তের আগুন, প্রাণ গেল ঘুমন্ত হেলপারের",
+          "snippet": "পিরোজপুরে দুই বাসে দুর্বৃত্তের আগুন, প্রাণ গেল ঘুমন্ত হেলপারের"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পিরোজপুরের ভান্ডারিয়ায় থামিয়ে রাখা দুই বাসে আগুন, ঘুমন্ত হেলপারের মৃত্যু",
+        "title_en": "Sleeping helper killed as miscreants set fire to two parked buses in Pirojpur",
+        "summary_bn": "পিরোজপুরের ভান্ডারিয়ায় থামিয়ে রাখা দুটি বাসে দুর্বৃত্তদের দেওয়া আগুনে ঘুমন্ত অবস্থায় মো. সিয়াম নামের এক হেলপার নিহত হয়েছেন।",
+        "summary_en": "A sleeping helper named Md Siyam was killed when miscreants set fire to two parked buses in Bhandaria, Pirojpur.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T02:42:57+00:00",
+        "lead_bn": "পিরোজপুরের ভান্ডারিয়ায় থামিয়ে রাখা দুটি বাসে দুর্বৃত্তদের দেওয়া আগুনে ঘুমন্ত অবস্থায় মো. সিয়াম নামের এক হেলপার নিহত হয়েছেন।",
+        "lead_en": "A sleeping helper named Md Siyam was killed when miscreants set fire to two parked buses in Bhandaria, Pirojpur.",
+        "bullets_bn": [
+          "ঘটনাটি ঘটেছে ১৮ নভেম্বর ভোর ৪টার দিকে ভান্ডারিয়া এলাকায়।",
+          "নিহত মো. সিয়াম বাস দুটিতে হেলপার হিসেবে কাজ করতেন।",
+          "বাস দুটি থামিয়ে রাখা অবস্থায় দুর্বৃত্তরা আগুন দেয়।"
+        ],
+        "bullets_en": [
+          "The incident took place around 4 am on 18 November in the Bhandaria area.",
+          "The deceased Md Siyam worked as a helper on the two buses.",
+          "Miscreants set fire to the buses while they were parked."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "ভান্ডারিয়ায় বাসে আগুন, ঘুমন্ত হেলপারের মৃত্যু",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 5.0,
+      "desk_importance": 7.0,
       "outlet_count": 1,
       "trending": false,
-      "social_appeal": 4.0,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-18T02:01:49.691124+00:00"
+        "checked_at": "2026-11-18T03:02:08.346823+00:00"
       }
     }
   ]
