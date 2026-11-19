@@ -1,247 +1,52 @@
 {
-  "updated_at": "2026-11-19T17:00:43.622211",
-  "total_stories": 5,
+  "updated_at": "2026-11-19T18:00:44.379239",
+  "total_stories": 4,
   "stories": [
     {
-      "story_id": "a435e19e-8074-564b-9410-e908d1cfb5ff",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1635426818233-6cfe593eb3f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8b3JkZXJzJTIwZXhwdWxzaW9uJTIwbXlhbm1hciUyMGRlZmVuY2UlMjBkaXBsb21hY3l8ZW58MXwwfHx8MTc5NTEwNzkxNXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-19T16:58:40+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.2,
-      "rank_score": 5.1554,
-      "sources": [
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821970/%E0%A6%B0%E0%A7%8B%E0%A6%B9%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE-%E0%A6%97%E0%A6%A3%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE",
-          "title": "রোহিঙ্গা গণহত্যার রায়ের পর মিয়ানমারের প্রতিরক্ষা উপদেষ্টাকে বহিষ্কার করলো যুক্তরাজ্য",
-          "snippet": "রোহিঙ্গা গণহত্যার রায়ের পর মিয়ানমারের প্রতিরক্ষা উপদেষ্টাকে বহিষ্কার করলো যুক্তরাজ্য"
-        },
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/uncategorized/post-1223398/",
-          "title": "মিয়ানমারের প্রতিরক্ষা অ্যাটাশেকে বহিষ্কারের নির্দেশ যুক্তরাজ্যের",
-          "snippet": "মিয়ানমারের প্রতিরক্ষা অ্যাটাশেকে বহিষ্কারের নির্দেশ যুক্তরাজ্যের"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মিয়ানমারের প্রতিরক্ষা উপদেষ্টাকে বহিষ্কারের নির্দেশ দিয়েছে যুক্তরাজ্য",
-        "title_en": "UK orders expulsion of Myanmar defence adviser",
-        "summary_bn": "আন্তর্জাতিক বিচার আদালতের রোহিঙ্গা গণহত্যার রায়ের পর লন্ডনে নিযুক্ত মিয়ানমারের প্রতিরক্ষা অ্যাটাশেকে বহিষ্কারের নির্দেশ দিয়েছে যুক্তরাজ্য।",
-        "summary_en": "Following the ICJ ruling on Rohingya genocide, the UK has ordered the expulsion of Myanmar's defence attache in London.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-19T16:58:40+00:00",
-        "lead_bn": "আন্তর্জাতিক বিচার আদালতের রোহিঙ্গা গণহত্যার রায়ের পর লন্ডনে নিযুক্ত মিয়ানমারের প্রতিরক্ষা অ্যাটাশেকে বহিষ্কারের নির্দেশ দিয়েছে যুক্তরাজ্য।",
-        "lead_en": "Following the ICJ ruling on Rohingya genocide, the UK has ordered the expulsion of Myanmar's defence attache in London.",
-        "bullets_bn": [
-          "আন্তর্জাতিক বিচার আদালতের রায়ের পর মিয়ানমারের বিরুদ্ধে নতুন পদক্ষেপের অংশ হিসেবে এই নির্দেশ দেওয়া হয়েছে।",
-          "১৯ নভেম্বর আইসিজের রায়ের পর এক বিবৃতিতে এই পদক্ষেপের কথা জানান যুক্তরাজ্যের পররাষ্ট্রমন্ত্রী এড মিলিব্যান্ড।",
-          "এ ছাড়া এই রায় নিয়ে আলোচনার জন্য জাতিসংঘ নিরাপত্তা পরিষদে জরুরি অধিবেশন আহ্বানের উদ্যোগ নিয়েছে দেশটি।"
-        ],
-        "bullets_en": [
-          "The directive was issued as part of new steps against Myanmar following the International Court of Justice ruling.",
-          "UK Foreign Minister Ed Milliband announced these steps in a statement on Thursday 19 November after the ICJ ruling.",
-          "The country has also initiated efforts to convene an emergency session of the UN Security Council to discuss the ruling."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "মিয়ানমারের প্রতিরক্ষা অ্যাটাশেকে বহিষ্কার করলো যুক্তরাজ্য",
-        "kicker_bn": "রায় ঘোষণা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-19T17:07:25.139409+00:00"
-      }
-    },
-    {
-      "story_id": "0307783d-0151-58ee-b962-ebccb92675dd",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#ACC",
-        "#MatiurRahman",
-        "#LailaKaniz",
-        "#NBR"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2024/06/24/new_project_16.png",
-      "image_caption": null,
-      "published_at": "2026-11-19T14:35:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.1177,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/corruption/acc-sues-ex-nbr-official-matiur-wife-over-tk13cr-illicit-wealth-1608186",
-          "title": "ACC sues Ex-NBR official Matiur, wife over Tk13cr illicit wealth",
-          "snippet": "ACC sues Ex-NBR official Matiur, wife over Tk13cr illicit wealth"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মতিউর ও তাঁর স্ত্রীর বিরুদ্ধে ১৩ কোটি টাকার অবৈধ সম্পদ অর্জনের মামলা",
-        "title_en": "ACC sues ex-NBR official Matiur and wife over Tk13cr illicit wealth",
-        "summary_bn": "দুর্নীতি দমন কমিশন জ্ঞাত আয়বহির্ভূত সম্পদ অর্জন ও তথ্য গোপনের অভিযোগে সাবেক এনবিআর কর্মকর্তা মতিউর রহমান ও তাঁর স্ত্রী লাইলা কানিজের বিরুদ্ধে মামলা করেছে।",
-        "summary_en": "The Anti-Corruption Commission has filed cases against former National Board of Revenue member Md Matiur Rahman and his wife, Laila Kaniz, over illicit wealth.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-19T14:35:00+00:00",
-        "lead_bn": "দুর্নীতি দমন কমিশন জ্ঞাত আয়বহির্ভূত সম্পদ অর্জন ও তথ্য গোপনের অভিযোগে সাবেক এনবিআর কর্মকর্তা মতিউর রহমান ও তাঁর স্ত্রী লাইলা কানিজের বিরুদ্ধে মামলা করেছে।",
-        "lead_en": "The Anti-Corruption Commission has filed cases against former National Board of Revenue member Md Matiur Rahman and his wife, Laila Kaniz, over illicit wealth.",
-        "bullets_bn": [
-          "দুদকের তথ্য অনুযায়ী, লাইলা কানিজের নামে ১৭ কোটি ৩১ লাখ টাকার সম্পদ পাওয়া গেছে এবং বৈধ সঞ্চয় বাদ দিয়ে তাঁর ১৩ কোটি টাকার অবৈধ সম্পদ রয়েছে।",
-          "মামলার বিবরণী অনুযায়ী, লাইলা কানিজ তাঁর দাখিল করা সম্পদ বিবরণীতে ১ কোটি ৫৪ লাখ টাকার সম্পদ গোপনের তথ্য দিয়েছেন।",
-          "দুদক কর্মকর্তা মো. আকতারুল ইসলাম ১৯ নভেম্বর এই মামলা দায়েরের বিষয়টি নিশ্চিত করেছেন।"
-        ],
-        "bullets_en": [
-          "According to the ACC, assets worth Tk17.31 crore were found in Laila Kaniz's name, leaving Tk13 crore in assets beyond known sources of income.",
-          "The case statement says Laila concealed information about assets worth Tk1.54 crore in the statement submitted to the commission.",
-          "ACC Public Relations Officer Md Aktarul Islam confirmed the development on 19 November."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "দুদক জানিয়েছে, লাইলা কানিজ তাঁর সম্পদ বিবরণীতে ১৫ কোটি ৭৮ লাখ টাকার স্থাবর ও অস্থাবর সম্পদ ঘোষণা করেছিলেন। যাচাইয়ের পর তাঁর মোট সম্পদ পাওয়া যায় ১৭ কোটি ৩১ লাখ টাকার। মতিউর রহমানের বিরুদ্ধে তাঁর স্ত্রীকে অবৈধ সম্পদ অর্জনে সরাসরি সহায়তা ও অপরাধে সহযোগিতার অভিযোগ আনা হয়েছে। লাইলা কানিজের বিরুদ্ধে দুর্নীতি দমন কমিশন আইন, ২০০৪ ও ১৯৪৭ সালের দুর্নীতি প্রতিরোধ আইনে এবং মতিউর রহমানের বিরুদ্ধে দণ্ডবিধিতে সহায়তার অভিযোগ আনা হয়েছে।",
-        "details_en": "The ACC investigation found that Laila had declared movable and immovable assets worth Tk15.78 crore, but verification revealed total assets of Tk17.31 crore. Matiur was accused of directly assisting his wife and colluding with her. Laila has been charged under the Anti-Corruption Commission Act, 2004, and the Prevention of Corruption Act, 1947, while Matiur faces charges under the Penal Code.",
-        "hook_bn": "মতিউর ও তাঁর স্ত্রীর বিরুদ্ধে দুর্নীতি মামলা",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": "দুর্নীতি দমন কমিশনের এ ধরনের পদক্ষেপে সরকারি কর্মকর্তাদের দুর্নীতির প্রবণতা কতটুকু কমবে বলে আপনি মনে করেন?"
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-19T17:07:25.139409+00:00"
-      }
-    },
-    {
-      "story_id": "ba462e1e-648e-57a9-a2e0-a5b25cca9cf8",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Rangpur",
-        "#DhakaAirport",
-        "#Bablu"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1755423648545-10a05e052f80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cmFuZ3B1ciUyMGRpc3RyaWN0JTIwY291bmNpbCUyMGNoYWlybWFuJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1MTA3OTUzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-19T16:47:37+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.267,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/nation/425203/ex-rangpur-district-council-chairman-arrested-at",
-          "title": "Ex-Rangpur district council chairman arrested at Dhaka airport",
-          "snippet": "Ex-Rangpur district council chairman arrested at Dhaka airport"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ঢাকা বিমানবন্দর থেকে সাবেক রংপুর জেলা পরিষদ চেয়ারম্যান গ্রেপ্তার",
-        "title_en": "Ex-Rangpur district council chairman arrested at Dhaka airport",
-        "summary_bn": "সাবেক রংপুর জেলা পরিষদ চেয়ারম্যান বাবুলাকে ঢাকা বিমানবন্দর থেকে গ্রেপ্তার করা হয়েছে।",
-        "summary_en": "Ex-Rangpur district council chairman Bablu has been arrested at Dhaka airport.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-19T16:47:37+00:00",
-        "lead_bn": "সাবেক রংপুর জেলা পরিষদ চেয়ারম্যান বাবুলাকে ঢাকা বিমানবন্দর থেকে গ্রেপ্তার করা হয়েছে।",
-        "lead_en": "Ex-Rangpur district council chairman Bablu has been arrested at Dhaka airport.",
-        "bullets_bn": [
-          "সূত্র জানায়, তাকে ঢাকা বিমানবন্দর থেকে গ্রেপ্তার করা হয়েছে।",
-          "বৈষম্যবিরোধী ছাত্র আন্দোলনে দমনের অভিযোগে তাকে গ্রেপ্তার করা হয়েছে।",
-          "তার বিরুদ্ধে মোট তিনটি মামলা রয়েছে।"
-        ],
-        "bullets_en": [
-          "According to sources, he was arrested at Dhaka airport.",
-          "He faces allegations of involvement in suppressing the anti-discrimination student movement.",
-          "He faces a total of three cases."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সূত্র জানায়, বৈষম্যবিরোধী ছাত্র আন্দোলনে দমনের অভিযোগে সাবেক রংপুর জেলা পরিষদ চেয়ারম্যান বাবুলর বিরুদ্ধে মোট তিনটি মামলা রয়েছে।",
-        "details_en": "According to sources, Bablu faces three cases over allegations of involvement in suppressing the anti-discrimination student movement.",
-        "hook_bn": "বিমানবন্দর থেকে সাবেক চেয়ারম্যান গ্রেপ্তার",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-19T17:07:25.139409+00:00"
-      }
-    },
-    {
-      "story_id": "5d88a622-23bd-5c9c-b5ff-b22316377950",
+      "story_id": "dd8cf853-a296-57c9-9a12-22fe182d5f1b",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
         "governance_law"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#China",
-        "#Russia",
-        "#Apec"
+        "#Myanmar",
+        "#Rohingya",
+        "#ICJ",
+        "#TheHague"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/3474c8032549af7447dd4759a18eff0069ccaf84/337_0_3599_2880/master/3599.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b289e804934630661e2411775b5f011e",
+      "image_url": "https://th-i.thgim.com/public/incoming/2bcbi6/article71719663.ece/alternates/LANDSCAPE_1200/Screenshot%202026-11-19%20154330.png",
       "image_caption": null,
-      "published_at": "2026-11-19T15:50:03+00:00",
+      "published_at": "2026-11-19T16:05:06+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.1,
-      "rank_score": 2.4213,
+      "importance_score": 8.75,
+      "rank_score": 6.8448,
       "sources": [
         {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
-          "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
-          "snippet": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars"
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/icj-verdict-on-rohingya-crackdown-killings-in-myanmar/article71719604.ece",
+          "title": "Myanmar guilty of genocide against Rohingya, says top UN court",
+          "snippet": "Myanmar guilty of genocide against Rohingya, says top UN court"
         },
         {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/sci-tech/technology/how-us-controls-flow-of-advanced-tech-chip-and-compute-to-china-explained/article71721133.ece",
-          "title": "How U.S. controls flow of advanced tech, chip, and compute to China | Explained",
-          "snippet": "How U.S. controls flow of advanced tech, chip, and compute to China | Explained"
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/bangladesh/rights/news/myanmar-guilty-genocide-who-will-enforce-the-verdict-4328356",
+          "title": "Myanmar guilty of genocide. But who will enforce the verdict?",
+          "snippet": "Myanmar guilty of genocide. But who will enforce the verdict?"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1181525",
+          "title": "রোহিঙ্গাদের বিরুদ্ধে গণহত্যা, আইসিজের রায়কে স্বাগত জানাল বাংলাদেশ",
+          "snippet": "রোহিঙ্গাদের বিরুদ্ধে গণহত্যা, আইসিজের রায়কে স্বাগত জানাল বাংলাদেশ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চীন, রাশিয়া ও যুক্তরাষ্ট্র শান্তি ঘোষণায় সই করেছে",
-        "title_en": "China, Russia and US agree peace declaration",
-        "summary_bn": "চীন, রাশিয়া ও যুক্তরাষ্ট্রের নেতারা এক ঐতিহাসিক শীর্ষ সম্মেলনে শান্তি বিবৃতিতে স্বাক্ষর করেছেন, তবে ইউক্রেন ও ইরান যুদ্ধ নিয়ে কোনো কথা বলেননি।",
-        "summary_en": "Leaders of China, Russia and the US have signed a peace statement after a historic summit, without mentioning Ukraine and Iran wars.",
+        "title_bn": "মিয়ানমার রোহিঙ্গাদের বিরুদ্ধে গণহত্যা চালিয়েছে, রায় আন্তর্জাতিক বিচার আদালতের",
+        "title_en": "Myanmar committed genocide against Rohingya, says top UN court",
+        "summary_bn": "আন্তর্জাতিক বিচার আদালত ১৯ নভেম্বর ২০২৬ তারিখে রায় দিয়েছে যে মিয়ানমার ২০১৭ সালে উত্তর রাখাইন রাজ্যে রোহিঙ্গাদের বিরুদ্ধে গণহত্যা চালিয়েছে।",
+        "summary_en": "The International Court of Justice said on November 19, 2026, that Myanmar committed genocide against the Rohingya in 2017.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -249,98 +54,279 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-19T15:50:03+00:00",
-        "lead_bn": "চীন, রাশিয়া ও যুক্তরাষ্ট্রের নেতারা এক ঐতিহাসিক শীর্ষ সম্মেলনে শান্তি বিবৃতিতে স্বাক্ষর করেছেন, তবে ইউক্রেন ও ইরান যুদ্ধ নিয়ে কোনো কথা বলেননি।",
-        "lead_en": "Leaders of China, Russia and the US have signed a peace statement after a historic summit, without mentioning Ukraine and Iran wars.",
+        "published_at": "2026-11-19T16:05:06+00:00",
+        "lead_bn": "আন্তর্জাতিক বিচার আদালত ১৯ নভেম্বর ২০২৬ তারিখে রায় দিয়েছে যে মিয়ানমার ২০১৭ সালে উত্তর রাখাইন রাজ্যে রোহিঙ্গাদের বিরুদ্ধে গণহত্যা চালিয়েছে।",
+        "lead_en": "The International Court of Justice said on November 19, 2026, that Myanmar committed genocide against the Rohingya in 2017.",
         "bullets_bn": [
-          "ঘোষণায় জাতিসংঘের সংস্কার, তেল সরবরাহ বৃদ্ধি এবং কূটনৈতিক অনাক্রম্যতা সুরক্ষার অগ্রাধিকারের কথা বলা হয়েছে।",
-          "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প জানিয়েছেন তারা ইতিহাস সৃষ্টি করছেন এবং আলোচনার সুযোগ বন্ধ করে শান্তি অর্জন করা যায় না।",
-          "রুশ প্রেসিডেন্ট ভ্লাদিমির পুতিন বলেছেন তিন নেতা মুক্ত আলোচনা করেছেন এবং তাদের মধ্যে পারস্পরিক বোঝাপড়া তৈরি হয়েছে।"
+          "আদালতের রায়ে রোহিঙ্গাদের নিরাপদ প্রত্যাবাসন ও ক্ষতিপূরণ দেওয়ার নির্দেশ দেওয়া হয়েছে।",
+          "আইসিজে সভাপতি ইউজিন ইওয়াসাওয়া দ্য হেগের মহা মিলনায়তনে এই ঐতিহাসিক রায় ঘোষণা করেন।",
+          "কক্সবাজারের আশ্রয়শিবিরে শত শত মানুষ বড় পর্দায় বিচারপ্রক্রিয়া অনুসরণ করেন।"
         ],
         "bullets_en": [
-          "The declaration outlined priorities including changing the UN, boosting oil supplies, and protecting diplomatic immunity.",
-          "US President Donald Trump stated they were making history and no peace was ever forged by declining engagement opportunities.",
-          "Russian President Vladimir Putin said the three men had a free discussion and now had a mutual understanding."
+          "The ruling ordered that refugees be given safe passage home and awarded compensation.",
+          "ICJ President Yuji Iwasawa pronounced the verdict in the Great Hall of Justice in The Hague.",
+          "Hundreds of people in Cox's Bazar followed the proceedings on a giant screen."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "চীন, রাশিয়া ও যুক্তরাষ্ট্রের শীর্ষ নেতারা আন্তর্জাতিক পরিস্থিতি নিয়ে গভীরভাবে মতবিনিময় করেন এবং কৌশলগত স্থিতিশীলতা বজায় রাখার অঙ্গীকার করেন। জিনপিং, পুতিন ও ট্রাম্পের এই বৈঠকটি এশিয়া-প্যাসিফিক ইকোনমিক কোঅপারেশন শীর্ষ সম্মেলনের অংশ হিসেবে অনুষ্ঠিত হয়। বৈঠকে পরমাণু অস্ত্র পুরোপুরি নিষিদ্ধ করার আহ্বান জানানো হলেও অস্ত্র হ্রাসের কোনো রূপরেখা দেওয়া হয়নি।",
-        "details_en": "The top leaders of China, Russia and the US had an in-depth exchange on the international situation and committed to maintaining strategic stability. The meeting between Xi Jinping, Vladimir Putin and Donald Trump dominated the Apec summit. While Xi called for nuclear weapons to be completely prohibited over time, the statement stopped short of a denuclearisation framework.",
-        "hook_bn": "আমরা সত্যিই ইতিহাস তৈরি করছি",
-        "kicker_bn": null,
+        "details_bn": "মিয়ানমারের ২০১৭ সালের সামরিক অভিযানের প্রেক্ষাপটে আন্তর্জাতিক বিচার আদালতের ৮০ বছরের ইতিহাসে কোনো রাষ্ট্র কর্তৃক গণহত্যা চালানোর এটিই প্রথম রায়। কক্সবাজারের আশ্রয়শিবিরে শত শত মানুষ দ্য হেগের বিচারপ্রক্রিয়া অনুসরণ করেন।",
+        "details_en": "In its 80-year history, this was the first time ICJ judges determined that a state committed genocide, following Myanmar's brutal 2017 crackdown. Hundreds of people followed the proceedings from The Hague in Cox's Bazar.",
+        "hook_bn": "'আমরা গণহত্যা সম্পর্কে মিথ্যা বলিনি'",
+        "kicker_bn": "রায় ঘোষণা",
         "share_value": false,
         "question_bn": null
       },
+      "desk_importance": 8.0,
+      "outlet_count": 3,
+      "trending": true,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-19T17:07:25.139409+00:00"
+        "checked_at": "2026-11-19T18:02:51.590327+00:00"
       }
     },
     {
-      "story_id": "0c5e7e71-2893-598d-850a-a9f70dd7afc0",
-      "primary_category": "world_diplomacy",
+      "story_id": "a4e8bcf5-6f4a-5d0d-9691-517cbad6502e",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "world_diplomacy",
-        "economy_business"
+        "economy_business",
+        "governance_law",
+        "tech_innovation"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#IndiaJapan",
-        "#SJaishankar",
-        "#ToshimitsuMotegi",
-        "#Tokyo"
+        "#BGMEA",
+        "#RMG",
+        "#Gazipur",
+        "#Bangladesh"
       ],
-      "image_url": "https://th-i.thgim.com/public/incoming/szsovd/article71720253.ece/alternates/LANDSCAPE_1200/PTI11_19_2026_000230B.jpg",
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Rmg-worker.jpg",
       "image_caption": null,
-      "published_at": "2026-11-19T15:20:53+00:00",
+      "published_at": "2026-11-19T18:00:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.2616,
+      "importance_score": 7.5,
+      "rank_score": 5.617,
       "sources": [
         {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/national/india-japan-discuss-economic-security-deeper-business-people-to-people-ties/article71720200.ece",
-          "title": "India, Japan discuss economic security, deeper business, people-to-people ties",
-          "snippet": "India, Japan discuss economic security, deeper business, people-to-people ties"
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/normalcy-yet-return-rmg-hubs-4328561",
+          "title": "Normalcy yet to return to RMG hubs",
+          "snippet": "Normalcy yet to return to RMG hubs"
+        },
+        {
+          "name": "The Business Standard Economy",
+          "url": "https://www.tbsnews.net/economy/rmg/bgmea-seeks-data-losses-rmg-sector-unrest-november-1608221",
+          "title": "BGMEA seeks data on losses from RMG sector unrest in November",
+          "snippet": "BGMEA seeks data on losses from RMG sector unrest in November"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/rmg/rmg-exporters-urge-buyers-not-cancel-orders-seek-time-ship-delayed-orders-1608281",
+          "title": "RMG exporters urge buyers not to cancel orders, seek time to ship delayed orders",
+          "snippet": "RMG exporters urge buyers not to cancel orders, seek time to ship delayed orders"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821967/%E0%A6%AA%E0%A7%8B%E0%A6%B6%E0%A6%BE%E0%A6%95-%E0%A6%96%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%9A%E0%A6%B2%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%B2%E0%A6%A8%E0%A7%87-%E0%A7%A9%E2%80%93%E0%A7%AA-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0",
+          "title": "পোশাক খাতে চলমান আন্দোলনে ৩–৪ হাজার কোটি টাকার ক্ষতি হয়েছে",
+          "snippet": "পোশাক খাতে চলমান আন্দোলনে ৩–৪ হাজার কোটি টাকার ক্ষতি হয়েছে"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ভারত ও জাপান অর্থনৈতিক সুরক্ষা নিয়ে আলোচনা করেছে",
-        "title_en": "India and Japan discuss economic security",
-        "summary_bn": "ভারতের পররাষ্ট্রমন্ত্রী এস জয়শঙ্কর এবং জাপানের পররাষ্ট্রমন্ত্রী তোশিমিতসু মোতেগি ১৯ নভেম্বর ২০২৬ তারিখে টোকিওতে দ্বিপক্ষীয় সহযোগিতা জোরদার করার বিষয়ে আলোচনা করেছেন।",
-        "summary_en": "External Affairs Minister S. Jaishankar and Japanese Foreign Minister Toshimitsu Motegi discussed strengthening bilateral cooperation in Tokyo on November 19, 2026.",
+        "title_bn": "পোশাক খাতে অস্থিরতা অব্যাহত, ১৯৪ কারখানায় নো ওয়ার্ক নো পে",
+        "title_en": "Normalcy yet to return to RMG garment sector amid unrest",
+        "summary_bn": "পোশাক খাতে অস্থিরতার মধ্যে ১৯৪ কারখানায় নো ওয়ার্ক নো পে বিধান কার্যকর করা হয়েছে এবং ১৪৭ ইউনিটে উৎপাদন বন্ধ রয়েছে।",
+        "summary_en": "Normalcy is yet to be restored in the garment sector with 194 factories enforcing no work no pay.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "economy_business"
+          "economy_business",
+          "governance_law",
+          "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-19T15:20:53+00:00",
-        "lead_bn": "ভারতের পররাষ্ট্রমন্ত্রী এস জয়শঙ্কর এবং জাপানের পররাষ্ট্রমন্ত্রী তোশিমিতসু মোতেগি ১৯ নভেম্বর ২০২৬ তারিখে টোকিওতে দ্বিপক্ষীয় সহযোগিতা জোরদার করার বিষয়ে আলোচনা করেছেন।",
-        "lead_en": "External Affairs Minister S. Jaishankar and Japanese Foreign Minister Toshimitsu Motegi discussed strengthening bilateral cooperation in Tokyo on November 19, 2026.",
+        "published_at": "2026-11-19T18:00:00+00:00",
+        "lead_bn": "পোশাক খাতে অস্থিরতার মধ্যে ১৯৪ কারখানায় নো ওয়ার্ক নো পে বিধান কার্যকর করা হয়েছে এবং ১৪৭ ইউনিটে উৎপাদন বন্ধ রয়েছে।",
+        "lead_en": "Normalcy is yet to be restored in the garment sector with 194 factories enforcing no work no pay.",
         "bullets_bn": [
-          "বৈঠকটি ১৯তম ভারত-জাপান পররাষ্ট্রমন্ত্রী পর্যায়ের কৌশলগত সংলাপ হিসেবে অনুষ্ঠিত হয়।",
-          "এস জয়শঙ্কর এক্স-এ জানান যে তারা অর্থনৈতিক সুরক্ষা এবং বিভিন্ন সংযোগ জোরদার করার বিষয়ে পর্যালোচনা করেছেন।",
-          "উভয় মন্ত্রী ২০২৭ সালে কূটনৈতিক সম্পর্কের ৭৫তম বার্ষিকী উদযাপনের লোগো উন্মোচন করেন।"
+          "আশুলিয়া, সাভার ও গাজীপুরে ন্যূনতম মজুরি বাড়ানোর দাবিতে শ্রমিকদের সঙ্গে পুলিশের সংঘর্ষ হয়েছে।",
+          "বিজিবিএ জানিয়েছে, চলমান আন্দোলনে ৩ থেকে ৪ হাজার কোটি টাকার আর্থিক ক্ষতি হয়েছে।",
+          "বিজিএমইএ প্রেসিডেন্ট মাহমুদ হাসান খান বলেছেন, তারা কারখানা সচল রাখার চেষ্টা করছেন।"
         ],
         "bullets_en": [
-          "The meeting was held as the 19th India-Japan Foreign Ministers' Strategic Dialogue.",
-          "Mr. Jaishankar stated on X that they reviewed strengthening economic security and linkages.",
-          "Both ministers unveiled a logo to mark the 75th anniversary of diplomatic relations in 2027."
+          "Workers demanding a wage increase clashed with police during demonstrations in Ashulia, Savar, and Gazipur.",
+          "The Bangladesh Garment Buying House Association estimated Tk 3,000 to 4,000 crore in financial losses.",
+          "BGMEA President Mahmud Hasan Khan said they are trying to keep the factories running."
+        ],
+        "impact_bn": "বাংলাদেশ গার্মেন্ট বায়িং হাউস অ্যাসোসিয়েশনের মতে, পরিস্থিতির উন্নতি না হলে এর প্রভাব পরিবহন, ব্যাংকিং ও লজিস্টিকসসহ দেশের সামগ্রিক অর্থনীতিতে পড়বে।",
+        "impact_en": "According to the Bangladesh Garment Buying House Association, the situation will impact transport, banking, logistics, and the overall economy.",
+        "details_bn": "শ্রমিকরা গত প্রায় তিন সপ্তাহ ধরে ১২ হাজার ৫০০ টাকা থেকে বাড়িয়ে ৩০ হাজার টাকা মাসিক ন্যূনতম মজুরি দেওয়ার দাবি জানিয়ে আসছেন। এর জেরে গাজীপুরের শ্রীপুরসহ বিভিন্ন স্থানে মহাসড়ক অবরোধ ও পুলিশের সঙ্গে সংঘর্ষের ঘটনা ঘটে। পরিস্থিতি নিয়ন্ত্রণে আইনপ্রয়োগকারী সংস্থাগুলো স্টান গ্রেনেড নিক্ষেপ করে। এদিকে বিজিএমইএ সদস্য কারখানাগুলোকে উৎপাদন ব্যাহত হওয়া এবং ক্ষতির ডেটা ২২ নভেম্বরের মধ্যে জমা দিতে বলেছে।",
+        "details_en": "Workers have been demanding an increase in the monthly minimum wage from Tk 12,500 to Tk 30,000 for about three weeks. Protesters clashed with law enforcers and blocked highways in areas including Sreepur in Gazipur, prompting police and BGB to use stun grenades. Meanwhile, BGMEA asked member factories to report production disruptions and losses by 22 November.",
+        "hook_bn": "অস্থির পোশাক খাতে ৩ থেকে ৪ হাজার কোটি টাকার ক্ষতি",
+        "kicker_bn": "ক্ষতি",
+        "share_value": false,
+        "question_bn": "পোশাক খাতের এই অস্থিরতা নিরসনে মালিক ও শ্রমিক পক্ষের মধ্যে কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনার মনে হয়?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-19T18:02:51.590327+00:00"
+      }
+    },
+    {
+      "story_id": "ccd48d6c-fed8-5628-b5c4-375e18c2bf6c",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "climate_environment",
+        "tech_innovation"
+      ],
+      "region": "national",
+      "tags": [
+        "#BangladeshBank",
+        "#AgriCredit",
+        "#ClimateSmartAgriculture"
+      ],
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/agricultural-loan-disbursement.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-19T18:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.25,
+      "rank_score": 3.9007,
+      "sources": [
+        {
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/economy/news/bb-expands-farm-credit-climate-smart-agriculture-4328486",
+          "title": "BB expands farm credit to climate-smart agriculture",
+          "snippet": "BB expands farm credit to climate-smart agriculture"
+        },
+        {
+          "name": "The Business Standard Economy",
+          "url": "https://www.tbsnews.net/economy/banking/bb-expands-agri-loans-cover-transport-storage-1608241",
+          "title": "BB expands agri loans to cover transport, storage",
+          "snippet": "BB expands agri loans to cover transport, storage"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাংলাদেশ ব্যাংক কৃষি ও গ্রামীণ ঋণ নীতি সংশোধন করেছে।",
+        "title_en": "Bangladesh Bank has revised the agricultural and rural credit policy.",
+        "summary_bn": "বাংলাদেশ ব্যাংক অর্থবছর ২৬-২৭ এর জন্য কৃষি ও গ্রামীণ ঋণ নীতি সংশোধন করে নির্ভুল কৃষি, জলবায়ু-স্মার্ট কৃষি এবং কৃষি মূল্য শৃঙ্খল অন্তর্ভুক্ত করেছে।",
+        "summary_en": "Bangladesh Bank revised the agricultural and rural credit policy for fiscal 2026-27, bringing precision farming and climate-smart agriculture under its scope.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "climate_environment",
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T18:00:00+00:00",
+        "lead_bn": "বাংলাদেশ ব্যাংক অর্থবছর ২৬-২৭ এর জন্য কৃষি ও গ্রামীণ ঋণ নীতি সংশোধন করে নির্ভুল কৃষি, জলবায়ু-স্মার্ট কৃষি এবং কৃষি মূল্য শৃঙ্খল অন্তর্ভুক্ত করেছে।",
+        "lead_en": "Bangladesh Bank revised the agricultural and rural credit policy for fiscal 2026-27, bringing precision farming and climate-smart agriculture under its scope.",
+        "bullets_bn": [
+          "বাংলাদেশ ব্যাংক অর্থবছর ২৭ এর জন্য ৬০,০০০ কোটি টাকার কৃষি ঋণ বিতরণের লক্ষ্যমাত্রা নির্ধারণ করেছে।",
+          "ব্যাংকগুলোকে ফসলে ৫৫ শতাংশ, পশুসম্পদে ২০ শতাংশ, মৎস্য খাতে ১৩ শতাংশ এবং সেচ ও খামার যন্ত্রপাতিতে ২ শতাংশ ঋণ বরাদ্দ দিতে হবে।",
+          "ক্ষুদ্র, প্রান্তিক ও ভূমিহীন কৃষক এবং বর্গা চাষিরা সহজ প্রক্রিয়ায় ব্যক্তিগতভাবে বা দলগতভাবে ঋণ নিতে পারবেন।"
+        ],
+        "bullets_en": [
+          "BB has set an agricultural loan disbursement target of Tk 60,000 crore for FY27.",
+          "Banks must allocate 55 percent of lending to crops, 20 percent to livestock, 13 percent to fisheries, and 2 percent to irrigation.",
+          "Small, marginal, and landless farmers and sharecroppers can obtain loans individually or in groups through simplified procedures."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "টোকিওতে অনুষ্ঠিত এই বৈঠকে দুই দেশের মন্ত্রীরা ভারত-প্রশান্ত মহাসাগরীয় অঞ্চলের চ্যালেঞ্জ ও সুযোগ, আঞ্চলিক হটস্পট, বৈশ্বিক সমস্যা এবং বহুপক্ষীয় সহযোগিতা নিয়ে আলোচনা করেন। এছাড়া এস জয়শঙ্কর এবং প্রতিরক্ষামন্ত্রী রাজনাথ সিং চতুর্থ ভারত-জাপান পররাষ্ট্র ও প্রতিরক্ষামন্ত্রী সংলাপে অংশ নেন।",
-        "details_en": "During the talks in Tokyo, the ministers discussed challenges and opportunities in the Indo-Pacific, regional hotspots, global issues, and multilateral cooperation. Additionally, Mr. Jaishankar and Defence Minister Rajnath Singh participated in the fourth India-Japan Foreign and Defence Ministers' Dialogue.",
-        "hook_bn": "টোকিওতে ভারত ও জাপানের পররাষ্ট্রমন্ত্রীদের বৈঠক",
+        "details_bn": "কেন্দ্রীয় ব্যাংকের কৃষি ঋণ বিভাগ গত ১৬ আগস্ট জারি করা নীতিটি সব তফসিলি ব্যাংকের কাছে পাঠানো একটি সার্কুলারের মাধ্যমে সংশোধন করে। অর্থবছর ২৬ এ ব্যাংকগুলো ৪২,৮৩৪ কোটি টাকা বিতরণ করে লক্ষ্যমাত্রা ছাড়িয়েছিল। আগের নীতিতে এই ঋণগুলো শুধু ব্যক্তিদের জন্য উন্মুক্ত ছিল, যা এখন প্রতিষ্ঠান এবং ডিজিটাল কৃষি সেবার জন্যও উন্মুক্ত করা হয়েছে।",
+        "details_en": "The central bank’s Agricultural Credit Department amended the policy, originally issued on August 16, through a circular sent to all scheduled banks. Banks disbursed Tk 42,834 crore in FY26, exceeding that year’s target. Previously such loans were available only to individuals, and are now open to institutions and digital agricultural services.",
+        "hook_bn": "৬০ হাজার কোটি টাকার কৃষি ঋণ লক্ষ্যমাত্রা",
+        "kicker_bn": "নতুন নীতি",
+        "share_value": true,
+        "question_bn": "কৃষি ঋণ সহজ হওয়ায় কৃষকদের কতখানি উপকার হবে বলে আপনার মনে হয়?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-19T18:02:51.590327+00:00"
+      }
+    },
+    {
+      "story_id": "142703fb-ac27-5afd-9d5d-4332fa0c4f05",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Chittagong",
+        "#RoadAccident"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1577979733361-eef300452326?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGVvcGxlJTIwaW5jbHVkaW5nJTIwYnJvdGhlcnMlMjBraWxsZWQlMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NTExMTM3MXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-19T16:18:13+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.25,
+      "rank_score": 2.4954,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/accidents/425202/two-brothers-among-three-killed-in-chittagong",
+          "title": "Two brothers among three killed in Chittagong motorcycle crash",
+          "snippet": "Two brothers among three killed in Chittagong motorcycle crash"
+        },
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/chittagong/post-1223413/",
+          "title": "চট্টগ্রামে সড়ক দুর্ঘটনায় ২ ভাই নিহত",
+          "snippet": "চট্টগ্রামে সড়ক দুর্ঘটনায় ২ ভাই নিহত"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "চট্টগ্রামে দুই মোটরসাইকেলের মুখোমুখি সংঘর্ষে দুই ভাইসহ তিনজন নিহত হয়েছেন।",
+        "title_en": "Three people including two brothers were killed in a motorcycle crash in Chittagong.",
+        "summary_bn": "চট্টগ্রামের হাটহাজারীতে দুই মোটরসাইকেলের মুখোমুখি সংঘর্ষে দুই ভাইসহ তিনজন নিহত হয়েছেন।",
+        "summary_en": "Three people including two brothers were killed in a head-on collision between two motorcycles in Hathazari, Chittagong.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T16:18:13+00:00",
+        "lead_bn": "চট্টগ্রামের হাটহাজারীতে দুই মোটরসাইকেলের মুখোমুখি সংঘর্ষে দুই ভাইসহ তিনজন নিহত হয়েছেন।",
+        "lead_en": "Three people including two brothers were killed in a head-on collision between two motorcycles in Hathazari, Chittagong.",
+        "bullets_bn": [
+          "নিহত দুই ভাই হলেন ইফতেখার মাহমুদ তুষার ও ইমতিয়াজমাহমুদ ইরাত।",
+          "ঘটনাটি ঘটেছে ১৯ নভেম্বর দুপুর আড়াইটার দিকে।",
+          "দুর্ঘটনাটি ঘটে উপজেলার মির্জাপুর ইউনিয়নের চারিয়া মুছার দোকান এলাকায় হাটহাজারী-নাজিরহাট আঞ্চলিক মহাসড়কে।"
+        ],
+        "bullets_en": [
+          "The two deceased brothers were identified as Iftekhar Mahmud Tushar and Imtiaz Mahmud Irat.",
+          "The incident took place around 2:30 pm on November 19.",
+          "The crash occurred on the Hathazari-Nazirhat regional highway in the Chariya Mushar Dokan area of Mirzapur union."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "নিহত দুই ভাই হাটহাজারী উপজেলার ফরহাদাবাদ ইউনিয়নের ৯ নম্বর ওয়ার্ডের হায়দার আলী সিপাহীর বাড়ির মো. হারুনের ছেলে। দুই ভাই কিছুদিন আগে বিদেশ থেকে বাড়ি ফিরেছিলেন।",
+        "details_en": "The two brothers were sons of Md Harun from the Haidar Ali Sipahi house in ward 9 of Forhadabad union in Hathazari upazila. The two brothers had returned home from abroad a few days ago.",
+        "hook_bn": "চট্টগ্রামে সড়ক দুর্ঘটনায় দুই ভাই নিহত",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-19T17:07:25.139409+00:00"
+        "checked_at": "2026-11-19T18:02:51.590327+00:00"
       }
     }
   ]
