@@ -1,161 +1,80 @@
 {
-  "updated_at": "2026-11-19T00:00:45.033732",
-  "total_stories": 2,
+  "updated_at": "2026-11-19T01:00:46.602329",
+  "total_stories": 1,
   "stories": [
     {
-      "story_id": "d83ee171-c0b9-5432-b1f4-3bd4d3e414c9",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation",
-        "governance_law",
-        "world_diplomacy",
-        "economy_business"
-      ],
-      "region": "international",
-      "tags": [
-        "#Anthropic",
-        "#OpenAI",
-        "#Claude"
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-18T23:42:07+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5348,
-      "sources": [
-        {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-          "title": "The seven Anthropic founders who are about to become multi-billionaires",
-          "snippet": "The seven Anthropic founders who are about to become multi-billionaires"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "অ্যানথ্রপিকের সাত প্রতিষ্ঠাতা বহু-কোটিপতি হতে চলেছেন।",
-        "title_en": "Seven Anthropic founders are about to become multi-billionaires.",
-        "summary_bn": "কৃত্রিম বুদ্ধিমত্তা প্ল্যাটফর্ম ক্লডের নির্মাতা প্রতিষ্ঠান অ্যানথ্রপিক যুক্তরাষ্ট্র শেয়ার বাজারে শেয়ার বিক্রি শুরু করায় এর সাত প্রতিষ্ঠাতা বহু-কোটিপতি হতে চলেছেন।",
-        "summary_en": "Seven founders of AI platform Claude are about to become multi-billionaires as Anthropic floats its business on the US stock exchange.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation",
-          "governance_law",
-          "world_diplomacy",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-18T23:42:07+00:00",
-        "lead_bn": "কৃত্রিম বুদ্ধিমত্তা প্ল্যাটফর্ম ক্লডের নির্মাতা প্রতিষ্ঠান অ্যানথ্রপিক যুক্তরাষ্ট্র শেয়ার বাজারে শেয়ার বিক্রি শুরু করায় এর সাত প্রতিষ্ঠাতা বহু-কোটিপতি হতে চলেছেন।",
-        "lead_en": "Seven founders of AI platform Claude are about to become multi-billionaires as Anthropic floats its business on the US stock exchange.",
-        "bullets_bn": [
-          "প্রতিষ্ঠানটি প্রতি শেয়ার ৮৩ ডলারে বিক্রি করবে বলে জানিয়েছে।",
-          "এই মূল্যে প্রতিষ্ঠাতাদের প্রত্যেকের শেয়ারের মূল্য অন্তত ১৯ দশমিক ৩ বিলিয়ন ডলারে দাঁড়াবে।",
-          "পাঁচ বছর আগে অজানা এক স্টার্টআপ থেকে শুরু করে প্রতিষ্ঠানটির বর্তমান মূল্য এক ট্রিলিয়ন ডলারের বেশি হয়েছে।"
-        ],
-        "bullets_en": [
-          "The company said it will sell its shares at $83 each.",
-          "At that price, the founders shareholdings will be worth at least $19.3bn each.",
-          "In the space of just five years, the company has gone from unknown start-up to worth more than a trillion dollars."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "প্রতিষ্ঠানটির সাত প্রতিষ্ঠাতা প্রতিদ্বন্দ্বী ওপেনএআই থেকে ২০২১ সালে পদত্যাগ করেছিলেন। ওপেনএআই জেনারেটিভ কৃত্রিম বুদ্ধিমত্তা চ্যাটজিপিটি বাজারে এনেছিল, যেখানে দারিও আমোদি কাজ করছিলেন এবং পরে তিনি তার বোন ড্যানিয়েলা ও পাঁচ সহকর্মীকে নিয়ে অ্যানথ্রপিক গঠন করেন।",
-        "details_en": "The seven people formed the company after leaving rival OpenAI in 2021. Dario Amodei was working for OpenAI when it launched Chat-GPT, and he decided to leave, taking his sister Daniela and five colleagues with him.",
-        "hook_bn": "অ্যানথ্রপিকের প্রতিষ্ঠাতা হচ্ছেন বহু-কোটিপতি",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 4.0,
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-19T00:01:32.816080+00:00"
-      }
-    },
-    {
-      "story_id": "0bba684e-c23d-5cb0-a0e4-6b579fdd15ae",
+      "story_id": "2cde6340-7c82-54b8-817e-4b14b3b48608",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
+        "world_diplomacy"
       ],
       "region": "international",
       "tags": [
-        "#HakeemJeffries",
-        "#USHouse",
-        "#Democrats"
+        "#CrimeaBridge",
+        "#Russia",
+        "#Ukraine",
+        "#SergeiAksyonov"
       ],
-      "image_url": "https://th-i.thgim.com/public/incoming/cojs8v/article71717209.ece/alternates/LANDSCAPE_1200/Congress_Democrats_72139.jpg",
+      "image_url": "https://i.guim.co.uk/img/media/1f65e3d2ebcc8d811a18f37903e44996945c8da4/687_199_2164_1731/master/2164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc908b2de9abfea3aab9ad534c1fd592",
       "image_caption": null,
-      "published_at": "2026-11-18T17:08:35+00:00",
+      "published_at": "2026-11-18T23:27:37+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 5.5,
-      "rank_score": 2.0335,
+      "rank_score": 2.7641,
       "sources": [
         {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/democrats-nominatehakeem-jeffries-for-next-us-house-speaker/article71717202.ece",
-          "title": "Democrats nominate Hakeem Jeffries for next U.S. House speaker",
-          "snippet": "Democrats nominate Hakeem Jeffries for next U.S. House speaker"
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
+          "title": "Crimea bridge has been attacked again, says Russian-installed governor",
+          "snippet": "Crimea bridge has been attacked again, says Russian-installed governor"
         },
         {
           "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/us-house-democrats-nominate-hakeem-jeffries-for-speaker/a-79983827?maca=en-rss-en-all-1573-rdf",
-          "title": "US House Democrats nominate Hakeem Jeffries for speaker",
-          "snippet": "US House Democrats nominate Hakeem Jeffries for speaker"
-        },
-        {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-          "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-          "snippet": "Democrats nominate Hakeem Jeffries to be US Speaker of the House"
+          "url": "https://www.dw.com/en/what-the-crimean-bridge-attack-means-for-russia/a-79985991?maca=en-rss-en-all-1573-rdf",
+          "title": "What the Crimean bridge attack means for Russia",
+          "snippet": "What the Crimean bridge attack means for Russia"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মার্কিন হাউস স্পিকার পদে হেকিম জেফারিসকে মনোনয়ন দিয়েছেন ডেমোক্র্যাটরা।",
-        "title_en": "Democrats nominate Hakeem Jeffries for U.S. House speaker.",
-        "summary_bn": "মার্কিন প্রতিনিধি পরিষদে ডেমোক্র্যাটরা পরবর্তী কংগ্রেসের নেতৃত্ব দিতে হেকিম জেফারিসকে মনোনয়ন দিয়েছেন।",
-        "summary_en": "Democrats elected to the U.S. House of Representatives nominated Hakeem Jeffries to lead them in the next Congress.",
+        "title_bn": "ক্রিমিয়া সেতুতে ফের হামলা চালানো হয়েছে বলে জানিয়েছেন রুশ গভর্নর।",
+        "title_en": "Crimean bridge has been attacked again, says Russian-installed governor.",
+        "summary_bn": "রাশিয়ার সঙ্গে ক্রিমিয়া সংযোগকারী গুরুত্বপূর্ণ সেতুটিতে আবারও হামলা চালানো হয়েছে, যা போக்குவரத்து সাময়িকভাবে বন্ধ করে দিয়েছে।",
+        "summary_en": "A key bridge connecting annexed Crimea to Russia has been attacked again, halting traffic temporarily.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-18T17:08:35+00:00",
-        "lead_bn": "মার্কিন প্রতিনিধি পরিষদে ডেমোক্র্যাটরা পরবর্তী কংগ্রেসের নেতৃত্ব দিতে হেকিম জেফারিসকে মনোনয়ন দিয়েছেন।",
-        "lead_en": "Democrats elected to the U.S. House of Representatives nominated Hakeem Jeffries to lead them in the next Congress.",
+        "published_at": "2026-11-18T23:27:37+00:00",
+        "lead_bn": "রাশিয়ার সঙ্গে ক্রিমিয়া সংযোগকারী গুরুত্বপূর্ণ সেতুটিতে আবারও হামলা চালানো হয়েছে, যা போக்குவரத்து সাময়িকভাবে বন্ধ করে দিয়েছে।",
+        "lead_en": "A key bridge connecting annexed Crimea to Russia has been attacked again, halting traffic temporarily.",
         "bullets_bn": [
-          "আসন্ন হাউস ডেমোক্র্যাট ককাস গোপন ব্যালটের মাধ্যমে হেকিম জেফারিসকে মনোনয়ন দেয়।",
-          "হেকিম জেফারিস ২৫১ ভোট পান এবং ১১ জন ডেমোক্র্যাট তার বিরোধিতা করেন।",
-          "সাতজন হাউস প্রগ্রেসিভ সদস্য যৌথ বিবৃতিতে জানান যে তারা হেকিম জেফারিসের বিরুদ্ধে ভোট দিয়েছেন।"
+          "হামলার পর সব সংশ্লিষ্ট সেবা সংস্থারা ঘটনাস্থলে কাজ করছে এবং ক্ষয়ক্ষতির মূল্যায়ন চলছে।",
+          "ক্রিমিয়ার ক্রেমলিন-নিযুক্ত গভর্নর সের্গেই আকসিয়োনভ টেলিগ্রামে এই তথ্য জানিয়েছেন।",
+          "এই হামলার ফলে রুশ সামরিক লজিস্টিকস এবং পুতিনের মর্যাদার ওপর বড় ধরনের প্রভাব পড়তে পারে।"
         ],
         "bullets_en": [
-          "The incoming House Democratic Caucus nominated Mr. Jeffries in a closed-door, secret-ballot vote.",
-          "Mr. Jeffries won 251 votes with 11 Democrats opposing him.",
-          "A group of seven incoming House progressives said in a joint statement that they voted against Mr. Jeffries."
+          "All relevant services are on site and an assessment of the damage is under way.",
+          "The information was shared by Sergei Aksyonov, the Kremlin-appointed governor of Crimea, on Telegram.",
+          "The attack could have serious consequences for Russian military logistics and Putin's prestige."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "নভেম্বরের মধ্যবর্তী নির্বাচনের পর অনেক প্রগ্রেসিভ সদস্য হেকিম জেফারিসকে সমর্থন করবেন কিনা তা বলতে চাননি। তাঁরা এমন একজন নেতা চেয়েছেন যিনি জনতুষ্টিবাদী নীতি পাসের পক্ষে জোরালো এজেন্ডা সমর্থন করবেন। নিউ ইয়র্কের এই ডেমোক্র্যাট নেতার কাছ থেকে প্রতিশ্রুতি আদায়ের কাজ চালিয়ে যাওয়ায় সাতজন প্রগ্রেসিভ সদস্য তাঁর বিরোধিতা করেন।",
-        "details_en": "Many incoming progressives declined to say whether they would back Mr. Jeffries after the midterm elections, saying they wanted a leader who would support a bold agenda to pass populist policies. A group of seven incoming House progressives voted against him while working to secure commitments from the New York Democrat.",
-        "hook_bn": "যুক্তরাষ্ট্রে হাউস স্পিকার পদে হেকিম জেফারিসকে মনোনয়ন",
-        "kicker_bn": null,
+        "details_bn": "কের্চ প্রণালীর ওপর নির্মিত সেতুটিতে এটি চলতি সপ্তাহের তৃতীয় হামলা। এর আগে ইউক্রেনীয় হামলায় সেতুটির একটি অংশের ব্যাপক ক্ষতি হয়েছিল এবং রেল করিডোরটি অক্ষত থাকলেও সড়ক অংশের ২২৭ মিটার ধ্বংস হয়েছে। ইউক্রেন এটিকে রুশ ঔপনিবেশিক চিন্তার প্রতীক বলে মনে করে এবং এর আগে ২০২২ সালে ট্রাক বোমা ও পরবর্তীতে সমুদ্র ড্রোন দিয়ে এটি উড়িয়ে দেওয়ার চেষ্টা করেছিল।",
+        "details_en": "Wednesday’s attack is the third this week on the bridge that links Russia with Crimea, which was seized in 2014. A 227-metre section of the road spanning the Kerch strait was destroyed this week, while the rail corridor remains operable. Ukraine previously tried to blow it up with a truck bomb in 2022 and a sea drone the following year.",
+        "hook_bn": "ক্রিমিয়া সেতুতে আবারও হামলা",
+        "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 5.0,
-      "outlet_count": 3,
+      "outlet_count": 2,
       "trending": true,
-      "social_appeal": 3.0,
+      "social_appeal": 5.0,
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-19T00:01:32.816080+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-19T01:01:42.633483+00:00"
       }
     }
   ]
