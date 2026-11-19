@@ -1,359 +1,330 @@
 {
-  "updated_at": "2026-11-19T06:00:43.573822",
-  "total_stories": 5,
+  "updated_at": "2026-11-19T07:00:51.444402",
+  "total_stories": 4,
   "stories": [
     {
-      "story_id": "a7013cc3-0003-58fa-930c-1a3027c27821",
-      "primary_category": "world_diplomacy",
+      "story_id": "51403df5-a047-5b48-a19c-f2cb3a567e34",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "world_diplomacy",
         "economy_business",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#SanaeTakaichi",
-        "#VladimirPutin",
-        "#APEC",
-        "#Japan"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/19/china_apec_sanae_takaichi.png",
-      "image_caption": null,
-      "published_at": "2026-11-19T05:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.2,
-      "rank_score": 4.8705,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/worldbiz/china/japan-says-pm-takaichi-putin-held-talks-apec-summit-china-1607431",
-          "title": "Japan says PM Takaichi, Putin held talks at APEC summit in China",
-          "snippet": "Japan says PM Takaichi, Putin held talks at APEC summit in China"
-        },
-        {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
-          "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
-          "snippet": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls"
-        },
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss",
-          "title": "APEC Live: Trump, Xi and Putin to meet at historic trilateral China summit",
-          "snippet": "APEC Live: Trump, Xi and Putin to meet at historic trilateral China summit"
-        },
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-          "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – as it happened",
-          "snippet": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – as it happened"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জাপানের প্রধানমন্ত্রী তাকাইচি ও পুতিন বৈঠকে মিলিত হয়েছেন",
-        "title_en": "Japanese PM Takaichi and Putin held talks",
-        "summary_bn": "চীনের এপেিক শীর্ষ সম্মেলনের ফাঁকে জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচি ও রাশিয়ান প্রেসিডেন্ট ভ্লাদিমির পুতিন বৈঠক করেছেন।",
-        "summary_en": "Japanese Prime Minister Sanae Takaichi held talks with Russian President Vladimir Putin in China on the sidelines of the APEC summit.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-19T05:00:00+00:00",
-        "lead_bn": "চীনের এপেিক শীর্ষ সম্মেলনের ফাঁকে জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচি ও রাশিয়ান প্রেসিডেন্ট ভ্লাদিমির পুতিন বৈঠক করেছেন।",
-        "lead_en": "Japanese Prime Minister Sanae Takaichi held talks with Russian President Vladimir Putin in China on the sidelines of the APEC summit.",
-        "bullets_bn": [
-          "জাপানের শীর্ষ সরকারি মুখপাত্র মিনোরু কিহারা এক সংবাদ সম্মেলনে এই বৈঠকের কথা জানান।",
-          "তাকাইচি রাশিয়ায় একজন জাপানি নাগরিকের আটক থাকা ও জাপানি কোম্পানির সুরক্ষার বিষয়টি পুতিনের কাছে উত্থাপন করেন।",
-          "বৈধ আলোচনার পর দুই নেতা বিভিন্ন পর্যায়ে আলোচনা চালিয়ে যেতে সম্মত হয়েছেন।"
-        ],
-        "bullets_en": [
-          "Japan's top government spokesperson Minoru Kihara announced the talks at a news conference.",
-          "Takaichi raised issues including the detention of a Japanese national in Russia and the protection of Japanese companies.",
-          "The two leaders agreed to keep talking at various levels after the meeting."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "এর আগে গত মাসে জাপানের পররাষ্ট্রমন্ত্রী তোশিমিতসু মোতেগি রাশিয়ায় গোয়েন্দা সন্দেহে আটক এক জাপানি সাংবাদিকের মুক্তির দাবি জানান। চলতি মাসের শুরুর দিকে জাপান টোবাকো ইনক জানায় যে রাশিয়ায় তাদের সমস্ত জেটি গ্রুপ সংস্থাকে অস্থায়ী প্রশাসনের অধীনে রাখা হয়েছে।",
-        "details_en": "Japan's Foreign Minister Toshimitsu Motegi last month demanded his counterpart release a Japanese journalist detained in Russia on suspicion of espionage. Earlier this month, Japan Tobacco Inc said all JT Group entities in Russia have been placed under temporary administration.",
-        "hook_bn": "পুতিনের সঙ্গে জাপানি প্রধানমন্ত্রীর বৈঠক",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-19T06:05:52.478982+00:00"
-      }
-    },
-    {
-      "story_id": "9b822ef8-f262-5e10-b8e8-6e299235bf15",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1614982488537-c817e24a94ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZG1wJTIwYXJyZXN0cyUyMHBlb3BsZSUyMGZpbGVzJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1MDY4MzE5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-19T05:57:28+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.2878,
-      "sources": [
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821844/%E0%A6%A1%E0%A6%BF%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A7%A8%E0%A7%AA-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A7%9F-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A7%AB%E0%A7%A9%E0%A7%AD-%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A7%AC%E0%A7%A6",
-          "title": "ডিএমপির অভিযানে ২৪ ঘণ্টায় গ্রেপ্তার ৫৩৭, মামলা ৬০",
-          "snippet": "ডিএমপির অভিযানে ২৪ ঘণ্টায় গ্রেপ্তার ৫৩৭, মামলা ৬০"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রাজধানীতে ডিএমপির অভিযানে ৫৩৭ জন গ্রেপ্তার এবং ৬০ মামলা",
-        "title_en": "DMP arrests 537 people and files 60 cases in Dhaka",
-        "summary_bn": "ঢাকা মেট্রোপলিটন পুলিশের নিয়মিত অভিযানে রাজধানীতে গত ২৪ ঘণ্টায় ৫৩৭ জনকে গ্রেপ্তার করা হয়েছে এবং বিভিন্ন অপরাধে ৬০টি মামলা দায়ের করা হয়েছে।",
-        "summary_en": "Dhaka Metropolitan Police arrested 537 people and filed 60 cases for various crimes during regular drives in the capital over 24 hours.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-19T05:57:28+00:00",
-        "lead_bn": "ঢাকা মেট্রোপলিটন পুলিশের নিয়মিত অভিযানে রাজধানীতে গত ২৪ ঘণ্টায় ৫৩৭ জনকে গ্রেপ্তার করা হয়েছে এবং বিভিন্ন অপরাধে ৬০টি মামলা দায়ের করা হয়েছে।",
-        "lead_en": "Dhaka Metropolitan Police arrested 537 people and filed 60 cases for various crimes during regular drives in the capital over 24 hours.",
-        "bullets_bn": [
-          "অভিযানটি পরিচালনা করা হয় ১৮ নভেম্বর তারিখে রাজধানীর বিভিন্ন থানা এলাকায়।",
-          "অভিযানের সময় পুলিশ বিপুল পরিমাণ মাদকদ্রব্য, বিস্ফোরক ও অন্যান্য আলামত উদ্ধার করে।",
-          "ডিএমপির বিভাগভিত্তিক তথ্য অনুযায়ী গ্রেপ্তার ব্যক্তিদের মধ্যে রমনা বিভাগে ৪৩ জন রয়েছেন।"
-        ],
-        "bullets_en": [
-          "The drive was conducted on 18 November across various police station areas in the capital.",
-          "During the drive, police recovered a huge amount of narcotics, explosives, and other evidence.",
-          "According to DMP division-wise information, 43 of the arrested individuals are from the Ramna division."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "রাজধানীতে ডিএমপির অভিযানে ৫৩৭ গ্রেপ্তার",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-19T06:05:52.478982+00:00"
-      }
-    },
-    {
-      "story_id": "fafaad04-7b0d-55be-8716-4aa584f1707c",
-      "primary_category": "governance_law",
-      "interest_categories": [
         "governance_law",
-        "economy_business",
-        "world_diplomacy",
         "society_education"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": "https://sarabangla.net/wp-content/uploads/2026/09/NCP-4-5.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-19%2Fmq5l2qul%2Fgazipurdh071620261119sreepur-labor-4.jpg?rect=0%2C48%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-19T05:53:52+00:00",
+      "published_at": "2026-11-19T06:19:19+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.2799,
+      "importance_score": 9.0,
+      "rank_score": 7.7791,
       "sources": [
         {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/o7dn55m5uv",
+          "title": "শ্রমিক অসন্তোষের জেরে গাজীপুর ও সাভারে ২০ কারখানায় ছুটি, বন্ধ অর্ধশতাধিক",
+          "snippet": "শ্রমিক অসন্তোষের জেরে গাজীপুর ও সাভারে ২০ কারখানায় ছুটি, বন্ধ অর্ধশতাধিক"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/workers-continue-work-stoppage-savar-ashulia-50-gazipur-factories-shut-1607406",
+          "title": "Workers continue work stoppage in Savar, Ashulia; 50 Gazipur factories shut",
+          "snippet": "Workers continue work stoppage in Savar, Ashulia; 50 Gazipur factories shut"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/nation/425103/around-20-factories-in-gazipur-declare-holiday",
+          "title": "Around 20 factories in Gazipur declare holiday amid workers' unrest",
+          "snippet": "Around 20 factories in Gazipur declare holiday amid workers' unrest"
+        },
+        {
           "name": "Sarabangla",
-          "url": "https://sarabangla.net/politics/post-1222900/",
-          "title": "আ. লীগের অগ্নিসন্ত্রাস ও গ্রামীণ ব্যাংকে হামলা দমনের দাবি এনসিপি’র",
-          "snippet": "আ. লীগের অগ্নিসন্ত্রাস ও গ্রামীণ ব্যাংকে হামলা দমনের দাবি এনসিপি’র"
+          "url": "https://sarabangla.net/news/post-1222935/",
+          "title": "রাজধানীতে নাশকতার অভিযোগে নিষিদ্ধ আ. লীগের ১০৭ জন গ্রেফতার",
+          "snippet": "রাজধানীতে নাশকতার অভিযোগে নিষিদ্ধ আ. লীগের ১০৭ জন গ্রেফতার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গ্রামীণ ব্যাংকে হামলা ও নাশকতার তীব্র নিন্দা জানিয়েছে এনসিপি",
-        "title_en": "NCP condemns attacks on Grameen Bank and acts of sabotage",
-        "summary_bn": "জাতীয় নাগরিক পার্টি আওয়ামী লীগের অগ্নিসংযোগ ও গ্রামীণ ব্যাংকের বিভিন্ন শাখায় হামলার তীব্র নিন্দা জানিয়ে এসব নাশকতামূলক কর্মকাণ্ড কঠোরভাবে দমনের দাবি জানিয়েছে।",
-        "summary_en": "National Citizen Party strongly condemned Awami League arson attacks and assaults on Grameen Bank branches, demanding strict suppression of such sabotage.",
+        "title_bn": "শ্রমিক অসন্তোষের জেরে গাজীপুর ও সাভারে কারখানা ছুটি ও বন্ধ ঘোষণা",
+        "title_en": "Factories declared closed and on leave in Gazipur and Savar amid labor unrest",
+        "summary_bn": "শ্রমিক অসন্তোষের জেরে গাজীপুর ও ঢাকার সাভারে অন্তত ২০টি তৈরি পোশাক কারখানায় ছুটি ঘোষণা করা হয়েছে এবং অর্ধশতাধিক কারখানা বন্ধ করা হয়েছে।",
+        "summary_en": "Leave was declared in at least twenty garment factories and over fifty factories were closed in Gazipur and Savar amid labor unrest.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
           "economy_business",
-          "world_diplomacy",
+          "governance_law",
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-19T05:53:52+00:00",
-        "lead_bn": "জাতীয় নাগরিক পার্টি আওয়ামী লীগের অগ্নিসংযোগ ও গ্রামীণ ব্যাংকের বিভিন্ন শাখায় হামলার তীব্র নিন্দা জানিয়ে এসব নাশকতামূলক কর্মকাণ্ড কঠোরভাবে দমনের দাবি জানিয়েছে।",
-        "lead_en": "National Citizen Party strongly condemned Awami League arson attacks and assaults on Grameen Bank branches, demanding strict suppression of such sabotage.",
+        "published_at": "2026-11-19T06:19:19+00:00",
+        "lead_bn": "শ্রমিক অসন্তোষের জেরে গাজীপুর ও ঢাকার সাভারে অন্তত ২০টি তৈরি পোশাক কারখানায় ছুটি ঘোষণা করা হয়েছে এবং অর্ধশতাধিক কারখানা বন্ধ করা হয়েছে।",
+        "lead_en": "Leave was declared in at least twenty garment factories and over fifty factories were closed in Gazipur and Savar amid labor unrest.",
         "bullets_bn": [
-          "দলটি জানিয়েছে, জুলাই গণঅভ্যুত্থানে পরাজিত হয়ে দেশ ছাড়ার পর আওয়ামী লীগ ভারতের মাটি থেকে নাশকতার পরিকল্পনা ও পরিচালনা করছে।",
-          "গ্রামীণ ব্যাংকের অন্তত ৩৭টি শাখায় ধারাবাহিক হামলা চালানো হয়েছে বলে বিবৃতিতে উল্লেখ করা হয়েছে।",
-          "এনসিপি নাশকতাকারীদের চিহ্নিত করে দ্রুত গ্রেপ্তার এবং বিদেশে অবস্থানকারীদের বিরুদ্ধে কূটনৈতিক ও আইনগত পদক্ষেপ নেওয়ার দাবি জানিয়েছে।"
+          "মজুরি বৃদ্ধির দাবিতে গাজীপুরের মাওনা ও গড়গড়িয়া মাস্টারবাড়ি এলাকায় শ্রমিকেরা ঢাকা-ময়মনসিংহ মহাসড়কে বিক্ষোভ করেন।",
+          "গাজীপুর শিল্প পুলিশ-২-এর পুলিশ সুপার আমজাদ হোসাইন জানান যে বিভিন্ন স্থানে বিচ্ছিন্নভাবে শ্রমিক অসন্তোষের ঘটনা ঘটছে।",
+          "গাজীপুরের শিল্পাঞ্চলের নিরাপত্তায় ১৩ প্লাটুন বিজিবি, ৫ প্লাটুন স্পেশাল রিজার্ভ ফোর্স এবং ১২ প্লাটুন আনসার সদস্য মোতায়েন আছেন।"
         ],
         "bullets_en": [
-          "The party stated that after fleeing the July uprising, Awami League is planning and conducting sabotage from Indian soil.",
-          "The statement mentioned that continuous attacks have been carried out on at least 37 branches of Grameen Bank.",
-          "NCP demanded prompt identification and arrest of saboteurs, along with diplomatic and legal steps against those staying abroad."
+          "Workers demonstrated on the Dhaka-Mymensingh highway in Gazipur's Maona and Gargaoria Masterbari areas demanding a wage increase.",
+          "Gazipur Industrial Police-2 Superintendent of Police Amzad Hossain stated that sporadic incidents of labor unrest are occurring in various places.",
+          "Thirteen platoons of BGB, five platoons of Special Reserve Force, and twelve platoons of Ansar members are deployed for security in the Gazipur industrial area."
         ],
-        "impact_bn": "গ্রামীণ ব্যাংকের শাখায় হামলা ও অগ্নিসংযোগের ঘটনায় দরিদ্র পরিবারগুলো সরাসরি ক্ষতিগ্রস্ত হচ্ছে এবং বিনিয়োগের অনুকূল পরিবেশ নিয়ে নেতিবাচক বার্তা পৌঁছানোর আশঙ্কা তৈরি হয়েছে।",
-        "impact_en": "Attacks and arson at Grameen Bank branches directly harm poor families and create fears of negative messages reaching investors regarding the investment environment.",
-        "details_bn": "১৮ নভেম্বর রাতে গণমাধ্যমে পাঠানো এক বিবৃতিতে জাতীয় নাগরিক পার্টি জানিয়েছে, আওয়ামী লীগ দেশের বিভিন্ন স্থানে অগ্নিসংযোগ, পেট্রোল বোমা হামলা, মানুষ পুড়িয়ে হত্যা এবং থানা ও সংসদ সদস্যের বাড়িতে আগুন দিচ্ছে। ভারতে অবস্থানরত পলাতক নেতারা অনলাইনে উসকানি দিচ্ছেন এবং গ্রামীণ ব্যাংকের মতো প্রতিষ্ঠানের ওপর হামলা চালিয়ে অর্থনীতি ও আন্তর্জাতিক ভাবমূর্তি ক্ষুণ্ন করার ষড়যন্ত্র চলছে।",
-        "details_en": "In a statement sent to media on the night of 18 November, National Citizen Party stated that Awami League is committing arson, petrol bomb attacks, burning people to death, and setting fire to police stations and MPs homes. Fugitive leaders staying in India are inciting online and conspiring to damage the economy and international image by attacking institutions like Grameen Bank.",
-        "hook_bn": "গ্রামীণ ব্যাংকের শাখায় ধারাবাহিক হামলা",
-        "kicker_bn": "নাশকতা",
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ন্যূনতম মজুরি ৩০ হাজার টাকা নির্ধারণসহ বিভিন্ন দাবিতে শ্রমিকদের আন্দোলনের মুখে গাজীপুর ও সাভারে তৈরি পোশাক কারখানাগুলো বন্ধ রাখা হয়েছে। গাজীপুরে শ্রমিকেরা ঢাকা–ময়মনসিংহ মহাসড়ক অবরোধ করে বিক্ষোভ করলে পুলিশ তাঁদের সরিয়ে দেয়। বাংলাদেশ শ্রম আইন, ২০০৬-এর ১৩(১) ধারা অনুযায়ী কর্তৃপক্ষ অর্ধশতাধিক কারখানা অনির্দিষ্টকালের জন্য বন্ধ ঘোষণা করেছে। পরিস্থিতি নিয়ন্ত্রণে রাখতে শিল্প পুলিশ কাজ করছে এবং আইনশৃঙ্খলা রক্ষাকারী বাহিনীর সদস্যরা মোতায়েন রয়েছেন।",
+        "details_en": "Garment factories in Gazipur and Savar have remained closed amid workers' protests demanding various demands including a minimum wage of 30,000 taka. In Gazipur, workers blocked the Dhaka-Mymensingh highway and police removed them. According to Section 13(1) of the Bangladesh Labour Act, 2006, authorities declared more than fifty factories closed indefinitely. Industrial police are working to control the situation and law enforcement personnel are deployed.",
+        "hook_bn": "২০ কারখানা ছুটি, অর্ধশতাধিক বন্ধ",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
+      "desk_importance": 8.0,
+      "outlet_count": 4,
+      "trending": true,
+      "social_appeal": 9.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-19T06:05:52.478982+00:00"
+        "checked_at": "2026-11-19T07:02:06.073332+00:00"
       }
     },
     {
-      "story_id": "cc020cb2-b393-5a3b-a2a6-e9b0d322c895",
-      "primary_category": "governance_law",
+      "story_id": "56c47beb-88d3-5a54-bb9c-ba28ad43ad3e",
+      "primary_category": "climate_environment",
       "interest_categories": [
+        "climate_environment",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Rayerbazar",
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1781791968103-ec61a964ee59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8b25lJTIwdGhvdXNhbmQlMjB0b3VyaXN0cyUyMHN0cmFuZGVkJTIwZW52aXJvbm1lbnR8ZW58MXwwfHx8MTc5NTA3MTY5NHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-19T05:33:58+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.75,
+      "rank_score": 5.5219,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425100/fire-breaks-out-at-rayerbazar-kitchen-market",
+          "title": "Fire breaks out at Rayerbazar kitchen market",
+          "snippet": "Fire breaks out at Rayerbazar kitchen market"
+        },
+        {
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/industries/tourism/news/tourist-ships-st-martins-suspended-1500-stranded-island-4328001",
+          "title": "Tourist ships to St Martin’s suspended, 1,500 stranded on island",
+          "snippet": "Tourist ships to St Martin’s suspended, 1,500 stranded on island"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সেন্ট মার্টিনে আটকে গেছে ১,০০০ থেকে ১,৫০০ পর্যটক",
+        "title_en": "One thousand to 1,500 tourists stranded on St Martin’s Island",
+        "summary_bn": "ঘূর্ণিঝড় আকভানের প্রভাবে উত্তাল সমুদ্রের কারণে সেন্ট মার্টিন দ্বীপে এক হাজার থেকে ১৫০০ পর্যটক আটকা পড়েছেন।",
+        "summary_en": "Rough seas left 1,000 to 1,500 tourists stranded on St Martin’s Island as Cyclone Akvan approaches.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T05:33:58+00:00",
+        "lead_bn": "ঘূর্ণিঝড় আকভানের প্রভাবে উত্তাল সমুদ্রের কারণে সেন্ট মার্টিন দ্বীপে এক হাজার থেকে ১৫০০ পর্যটক আটকা পড়েছেন।",
+        "lead_en": "Rough seas left 1,000 to 1,500 tourists stranded on St Martin’s Island as Cyclone Akvan approaches.",
+        "bullets_bn": [
+          "উত্তাল সমুদ্রের কারণে সেন্ট মার্টিন রুটে জলযান চলাচল স্থগিত করা হয়েছে।",
+          "থেকে পরবর্তী নির্দেশ না দেওয়া পর্যন্ত এই স্থগিতাদেশ কার্যকর থাকবে।",
+          "এদিকে ঢাকার রায়বাজার কিচেন মার্কেটে একটি অগ্নিকাণ্ডের ঘটনা ঘটেছে।"
+        ],
+        "bullets_en": [
+          "Vessel operations on the route were suspended due to rough seas.",
+          "The suspension remains in effect from Thursday until further notice.",
+          "Meanwhile, a fire broke out at the Rayerbazar kitchen market in Dhaka."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ঘূর্ণিঝড় আকভান উপকূলের দিকে এগিয়ে আসার কারণে সৃষ্ট উত্তাল সমুদ্রের পরিস্থিতিতে সেন্ট মার্টিন রুটে পর্যটকবাহী জাহাজ চলাচল বন্ধ করা হয়েছে। এর ফলে দ্বীপে পর্যটকেরা আটকা পড়েন। পৃথক আরেকটি ঘটনায় ঢাকার রায়বাজার কিচেন মার্কেটে আগুন লাগে।",
+        "details_en": "Tourist ship services to St Martin’s Island were halted due to rough seas as Cyclone Akvan approaches the coast. In a separate incident, a fire broke out at the Rayerbazar kitchen market in Dhaka.",
+        "hook_bn": "সেন্ট মার্টিনে আটকা পড়েছে দেড় হাজার পর্যটক",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": true,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-19T07:02:06.073332+00:00"
+      }
+    },
+    {
+      "story_id": "379dd6cd-8eb2-5e64-b945-7ab47f812b15",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
         "governance_law",
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Chattogram",
-        "#BangladeshPolice"
+        "#Kathalbagan",
+        "#FireService",
+        "#NationalInstituteOfBurnAndPlasticSurgery"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/09/01/1660100471-four-arrested-with-hoarded-diesel-stock-l.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/19/fire_service_.jpg",
       "image_caption": null,
-      "published_at": "2026-11-19T05:30:00+00:00",
+      "published_at": "2026-11-19T04:05:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.2281,
+      "importance_score": 6.75,
+      "rank_score": 3.845,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/crime/man-arrested-over-theft-police-patrol-vehicle-ctg-1607461",
-          "title": "Man arrested over theft of police patrol vehicle in Ctg",
-          "snippet": "Man arrested over theft of police patrol vehicle in Ctg"
+          "url": "https://www.tbsnews.net/bangladesh/5-burn-victims-hospitalised-after-fire-kathalbagan-residential-building-1607376",
+          "title": "5 burn victims hospitalised after fire at Kathalbagan residential building",
+          "snippet": "5 burn victims hospitalised after fire at Kathalbagan residential building"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/dhaka/425098/five-burned-in-gas-leak-fire-at-kathalbagan",
+          "title": "Five burned in gas leak fire at Kathalbagan",
+          "snippet": "Five burned in gas leak fire at Kathalbagan"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/five-including-infant-burnt-in-kathalbagan-gas-fire",
+          "title": "Five, including infant, burnt in Kathalbagan gas fire",
+          "snippet": "Five, including infant, burnt in Kathalbagan gas fire"
+        },
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/capital/post-1222943/",
+          "title": "রাজধানীর কাঁঠালবাগানে গ্যাসের লিকেজ থেকে বিস্ফোরণ, একই পরিবারের ৩ জনসহ দগ্ধ ৫",
+          "snippet": "রাজধানীর কাঁঠালবাগানে গ্যাসের লিকেজ থেকে বিস্ফোরণ, একই পরিবারের ৩ জনসহ দগ্ধ ৫"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চট্টগ্রামে পুলিশের গাড়ি চুরির ঘটনায় একজন গ্রেপ্তার",
-        "title_en": "Man arrested over theft of police patrol vehicle in Ctg",
-        "summary_bn": "চট্টগ্রামে পুলিশের একটি টহল গাড়ি চুরির ঘটনায় রুবেল নামের চল্লিশ বছর বয়সী এক ব্যক্তিকে গ্রেপ্তার করেছে পুলিশ।",
-        "summary_en": "Police have arrested a 40-year-old man named Rubel in connection with the theft of a police patrol vehicle in Chattogram.",
+        "title_bn": "রাজধানীর কাঁঠালবাগানে আগুনে দগ্ধ ৫ জন",
+        "title_en": "Five burn victims in Kathalbagan fire",
+        "summary_bn": "রাজধানীর কাঁঠালবাগান এলাকার একটি ১০ তলা আবাসিক ভবনের চতুর্থ তলায় অগ্নিকাণ্ডে পাঁচজন দগ্ধ হয়েছেন।",
+        "summary_en": "Five people suffered burn injuries in a fire at a 10-storey residential building in the capital's Kathalbagan area.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "society_education",
           "governance_law",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-19T05:30:00+00:00",
-        "lead_bn": "চট্টগ্রামে পুলিশের একটি টহল গাড়ি চুরির ঘটনায় রুবেল নামের চল্লিশ বছর বয়সী এক ব্যক্তিকে গ্রেপ্তার করেছে পুলিশ।",
-        "lead_en": "Police have arrested a 40-year-old man named Rubel in connection with the theft of a police patrol vehicle in Chattogram.",
+        "published_at": "2026-11-19T04:05:00+00:00",
+        "lead_bn": "রাজধানীর কাঁঠালবাগান এলাকার একটি ১০ তলা আবাসিক ভবনের চতুর্থ তলায় অগ্নিকাণ্ডে পাঁচজন দগ্ধ হয়েছেন।",
+        "lead_en": "Five people suffered burn injuries in a fire at a 10-storey residential building in the capital's Kathalbagan area.",
         "bullets_bn": [
-          "চুরি হওয়া গাড়িটি কর্ণফুলী এলাকা থেকে অক্ষত অবস্থায় উদ্ধার করা হয়েছে।",
-          "চট্টগ্রাম মেট্রোপলিটন পুলিশ এক প্রেস বিজ্ঞপ্তিতে এই তথ্য নিশ্চিত করেছে।",
-          "নাশকতার উদ্দেশ্যে সরকারি গাড়িটি চুরি করা হয়েছিল বলে দাবি করেছে পুলিশ।"
+          "কাঞ্চন টাওয়ারের চতুর্থ তলায় আগুন লাগার ঘটনায় তিনজনের অবস্থা আশঙ্কাজনক।",
+          "ফায়ার সার্ভিসের দুটি ইউনিট ঘটনাস্থলে পৌঁছে আগুন নিয়ন্ত্রণে আনে।",
+          "দগ্ধদের জাতীয় বার্ন ও প্লাস্টিক সার্জারি ইনস্টিটিউটে ভর্তি করা হয়েছে।"
         ],
         "bullets_en": [
-          "The stolen vehicle was later recovered intact from the Karnaphuli area.",
-          "The Chattogram Metropolitan Police confirmed the information in a press release.",
-          "Police claimed the government vehicle had been stolen with the intention of carrying out sabotage."
+          "Three of the five victims are in critical condition following the fire on the fourth floor of Kanchan Tower.",
+          "Two firefighting units reached the scene and brought the blaze under control.",
+          "All five burn victims have been admitted to the National Institute of Burn and Plastic Surgery for treatment."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "গত ১৮ নভেম্বর দুপুর আড়াইটার দিকে হালিশহর থানার মোবাইল-৪২ টিমের সদস্যরা ছোট পুল এলাকার পুলিশ লাইনসের পাশে পুনাক হোটেলের সামনে গাড়িটি পার্ক করে ভেতরে দুপুরের খাবার খেতে যান। ফিরে এসে গাড়িটি না পেয়ে তারা সিসিটিভি ফুটেজ পরীক্ষা করেন, যেখানে দুপুর দুইটা তিরা্লিশ মিনিটে এক ব্যক্তিকে গাড়িটি চালিয়ে নিয়ে যেতে দেখা যায়। পরে দেওয়ানহাট মোড় থেকে ডবলমুরিং থানা পুলিশের অভিযানে রুবেলকে গ্রেপ্তার করা হয়।",
-        "details_en": "Members of Halishahar Police Station's Mobile-42 team parked the vehicle in front of the PUNAK Restaurant, adjacent to Police Lines in the Small Pool area, at around 2:30pm on November 18 and went inside to have lunch. When they returned, they found the vehicle missing and reviewed CCTV footage showing a man driving it away at around 2:43pm. Rubel was later picked up from Dewanhat intersection under Double Mooring Police Station.",
-        "hook_bn": "চট্টগ্রামে পুলিশের টহল গাড়ি চুরি",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-19T06:05:52.478982+00:00"
-      }
-    },
-    {
-      "story_id": "7b4eaa2c-570c-5394-9a32-11a83b9890fb",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business",
-        "governance_law",
-        "tech_innovation"
-      ],
-      "region": "international",
-      "tags": [
-        "#Australia",
-        "#ReserveBank",
-        "#Unemployment"
-      ],
-      "image_url": "https://i.guim.co.uk/img/media/ccbba5c44390f21ce8f21f8caaf8486c31bac8c4/529_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bb6d268809438388089b6b3e8ed99e71",
-      "image_caption": null,
-      "published_at": "2026-11-19T03:32:42+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.2496,
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures",
-          "title": "Australia may have ‘one foot in recession’ as unemployment surges to five-year high",
-          "snippet": "Australia may have ‘one foot in recession’ as unemployment surges to five-year high"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "অস্ট্রেলিয়ায় বেকারত্বের হার বেড়ে চার দশমিক নয় শতাংশে পৌঁছেছে",
-        "title_en": "Australian unemployment surges to four point nine percent",
-        "summary_bn": "অস্ট্রেলিয়ায় অক্টোবরে বেকারত্বের হার বেড়ে চার দশমিক নয় শতাংশে পৌঁছানোর পর অর্থনীতি মন্দার ঝুঁকিতে রয়েছে বলে আশঙ্কা করা হচ্ছে।",
-        "summary_en": "Australia may have one foot in recession after unemployment surged to four point nine percent in October.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business",
-          "governance_law",
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-19T03:32:42+00:00",
-        "lead_bn": "অস্ট্রেলিয়ায় অক্টোবরে বেকারত্বের হার বেড়ে চার দশমিক নয় শতাংশে পৌঁছানোর পর অর্থনীতি মন্দার ঝুঁকিতে রয়েছে বলে আশঙ্কা করা হচ্ছে।",
-        "lead_en": "Australia may have one foot in recession after unemployment surged to four point nine percent in October.",
-        "bullets_bn": [
-          "অস্ট্রেলিয়ান ব্যুরো অব স্ট্যাটিস্টিকসের নতুন পরিসংখ্যানে দেখা গেছে মাসে কর্মসংস্থান কমেছে তেতাল্লিশ হাজার পাঁচশ।",
-          "বেটারশেয়ার্সের প্রধান অর্থনীতিবিদ ডেভিড বাসানেস বলেছেন এই দুর্বলতা অর্থ ইঙ্গিত দেয় যে অর্থনীতিতে মন্দার আশঙ্কা রয়েছে।",
-          "ন্যাশনাল অস্ট্রেলিয়া ব্যাংক জানিয়েছে আর্থিক বাজারগুলো রিজার্ভ ব্যাংকের সুদের হার বৃদ্ধির সম্ভাবনা বাদ দিচ্ছে।"
-        ],
-        "bullets_en": [
-          "New figures from the Australian Bureau of Statistics showed the number of employed people dropped by forty-three thousand five hundred in the month.",
-          "David Bassanese, the chief economist at Betashares, said this weakness could well mean the economy has one foot in recession.",
-          "Financial markets moved quickly to price out any chance of a sixth Reserve Bank rate increase, according to National Australia Bank."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "অস্ট্রেলিয়ায় বেকারত্বের হার চার শতাংশ থেকে বেড়ে পাঁচ বছরের মধ্যে সর্বোচ্চ পর্যায়ে পৌঁছেছে এবং মহামারীপূর্ব স্তরের কাছাকাছি চলে গেছে। গত চার মাসের মধ্যে তিন মাসই অস্ট্রেলিয়ায় কর্মসংস্থান কমেছে। চলতি বছরে রিজার্ভ ব্যাংক পাঁচ দফায় সুদের হার বাড়িয়েছে। তিনজন ভিন্নমতাবলম্বী বোর্ড সদস্য সুদের হার বৃদ্ধির সিদ্ধান্তের বিরুদ্ধে সতর্ক করেছিলেন যে এর ফলে অর্থনীতিতে তীব্র মন্দা দেখা দিতে পারে।",
-        "details_en": "After starting the year at four percent, unemployment has lifted to its highest level in five years to approach pre-Covid levels. The number of employed Australians has dropped in three of the past four months. This follows five interest rate hikes by the Reserve Bank this year. Three dissenting RBA board members had warned of a materially sharper downturn in the economy as households struggled with borrowing costs.",
-        "hook_bn": "অস্ট্রেলিয়ার অর্থনীতি কি মন্দার মুখে",
+        "details_bn": "প্রাথমিকভাবে ধারণা করা হচ্ছে, পাইপলাইন বা গ্যাস সংযোগের লিকেজ থেকে জমে থাকা গ্যাস থেকে এই দুর্ঘটনা ঘটেছে। দগ্ধদের মধ্যে আব্দুর রহমান মানিক, তাঁর স্ত্রী ইফতি সাবা ও তাঁদের এক বছরের ছেলে এবং সঞ্জিদা ইসলাম ও তাঁর মা শামসুন্নাহার বেগম রয়েছেন।",
+        "details_en": "The incident is initially suspected to have been caused by accumulated gas leaking from a pipeline or gas connection. The injured include Abdur Rahman Manik, his wife Ifti Saba, their one-year-old son, Sanjida Islam, and her mother Shamsunnahar Begum.",
+        "hook_bn": "কাঁঠালবাগানে গ্যাস লিকেজ থেকে আগুন, দগ্ধ ৫",
         "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
+      "desk_importance": 6.0,
+      "outlet_count": 4,
+      "trending": false,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-19T06:05:52.478982+00:00"
+        "checked_at": "2026-11-19T07:02:06.073332+00:00"
+      }
+    },
+    {
+      "story_id": "053a950b-1744-5650-9ebd-60e6d1c76659",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#EmergingNationsTrophy",
+        "#BangladeshCricket",
+        "#NigarSultana"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFuZ2xhZGVzaCUyMGV4aXQlMjBlbWVyZ2luZyUyMG5hdGlvbnMlMjBzcG9ydHN8ZW58MXwwfHx8MTc5NTA3MTcyNnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-19T06:03:52+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.4063,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/sport/cricket/425105/tigresses-exit-emerging-nations-trophy-despite-win",
+          "title": "Tigresses exit Emerging Nations Trophy despite win over Thailand",
+          "snippet": "Tigresses exit Emerging Nations Trophy despite win over Thailand"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "থাইল্যান্ডের বিপক্ষে জয় সত্ত্বেও ইমার্জিং নেশনস ট্রফি থেকে বিদায় নিলো বাংলাদেশ।",
+        "title_en": "Bangladesh exit Emerging Nations Trophy despite win over Thailand.",
+        "summary_bn": "থাইল্যান্ডের বিপক্ষে জয় পাওয়া সত্ত্বেও বাংলাদেশ ইমার্জিং নেশনস ট্রফি থেকে বিদায় নিয়েছে।",
+        "summary_en": "Bangladesh exited the Emerging Nations Trophy despite a win over Thailand.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T06:03:52+00:00",
+        "lead_bn": "থাইল্যান্ডের বিপক্ষে জয় পাওয়া সত্ত্বেও বাংলাদেশ ইমার্জিং নেশনস ট্রফি থেকে বিদায় নিয়েছে।",
+        "lead_en": "Bangladesh exited the Emerging Nations Trophy despite a win over Thailand.",
+        "bullets_bn": [
+          "বাংলাদেশ টসে হেরে প্রথমে ব্যাটিং করতে নামে।",
+          "ব্যাটিংয়ে নেমে বাংলাদেশ শুরুতেই ধুঁকতে থাকে এবং কম রানে দুই ওপেনারকে হারায়।",
+          "নিগার সুলতানা জ্যೋತಿ এবং শারমিন আক্তার ইনিংস পুনর্গঠনের চেষ্টা করেন।"
+        ],
+        "bullets_en": [
+          "Bangladesh batted first after losing the toss.",
+          "Bangladesh struggled early in the innings and lost both openers cheaply.",
+          "Nigar Sultana Joty and Sharmin Akhter attempted to rebuild the innings."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ম্যাচে প্রথমে ব্যাট করতে নেমে বাংলাদেশ দল শুরুতেই বিপাকে পড়ে এবং কম রানে দুই ওপেনারকে হারায়। এরপর নিগার সুলতানা জ্যೋತಿ ও শারমিন আক্তার ইনিংস মেরামতের চেষ্টা চালান। নিগার ৩৬ বলে দলের পক্ষে সর্বোচ্চ ৪৫ রান করেন এবং শারমিন ১৬ রান অবদান রাখেন।",
+        "details_en": "Batting first after losing the toss, Bangladesh struggled early and lost both openers cheaply. Nigar Sultana Joty and Sharmin Akhter attempted to rebuild the innings, with Nigar scoring team-best 45 off 36 balls and Sharmin contributing 16.",
+        "hook_bn": "ইমার্জিং নেশনস ট্রফি থেকে বাংলাদেশের বিদায়",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "ইমার্জিং নেশনস ট্রফিতে বাংলাদেশ দলের এই পারফরম্যান্স নিয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-19T07:02:06.073332+00:00"
       }
     }
   ]
