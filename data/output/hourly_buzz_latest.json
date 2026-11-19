@@ -1,236 +1,453 @@
 {
-  "updated_at": "2026-11-19T21:00:46.741780",
-  "total_stories": 3,
+  "updated_at": "2026-11-19T22:00:49.459770",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "524c4ed1-c174-5a34-ac0e-93bbe90bff66",
-      "primary_category": "governance_law",
+      "story_id": "e47673a2-d9b7-54b9-8c0b-c8c4f659b4f5",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "governance_law",
         "economy_business",
-        "world_diplomacy"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#ShahriarAlam",
-        "#Rajshahi",
-        "#Bagha"
+        "#PadmaBridge",
+        "#BusServices"
       ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182298/15839.jpg",
+      "image_url": "https://images.unsplash.com/photo-1722871513349-45c61ed6aa5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZmluYW5jZSUyMGVjb25vbXklMjBiYW5nbGFkZXNofGVufDF8MHx8fDE3OTUxMTQ5Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-19T21:00:57.312195+00:00",
+      "published_at": "2026-11-19T19:50:44+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 7.25,
-      "rank_score": 5.2552,
+      "rank_score": 4.635,
       "sources": [
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/ex-state-minister-shahriars-house-set-on-fire",
-          "title": "Ex-state minister Shahriar’s house set on fire",
-          "snippet": "Ex-state minister Shahriar’s house set on fire"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/nation/425209/bus-services-via-padma-bridge-remain-suspended-on",
+          "title": "Bus services via Padma Bridge remain suspended on 19 routes",
+          "snippet": "Bus services via Padma Bridge remain suspended on 19 routes"
         },
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1181534",
-          "title": "সাবেক পররাষ্ট্র প্রতিমন্ত্রী শাহরিয়ার আলমের বাড়িতে আগুন",
-          "snippet": "সাবেক পররাষ্ট্র প্রতিমন্ত্রী শাহরিয়ার আলমের বাড়িতে আগুন"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/bus-services-on-20-routes-via-padma-bridge-gopalganj-suspended",
+          "title": "Bus services on 20 routes via Padma Bridge, Gopalganj suspended",
+          "snippet": "Bus services on 20 routes via Padma Bridge, Gopalganj suspended"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রাজশাহীতে সাবেক প্রতিমন্ত্রী শাহরিয়ার আলমের বাড়িতে অগ্নিসংযোগ",
-        "title_en": "House of former state minister Shahriar Alam set on fire in Rajshahi",
-        "summary_bn": "রাজশাহীর বাঘা উপজেলায় সাবেক পররাষ্ট্র প্রতিমন্ত্রী শাহরিয়ার আলমের বাড়িতে পেট্রোল ঢেলে অগ্নিসংযোগ করা হয়েছে।",
-        "summary_en": "The house of former State Minister for Foreign Affairs Shahriar Alam was set on fire in Bagha upazila of Rajshahi.",
+        "title_bn": "পদ্মা সেতু ও গোপালগঞ্জে বাস চলাচল বন্ধ",
+        "title_en": "Bus services via Padma Bridge and Gopalganj suspended",
+        "summary_bn": "পদ্মা সেতু ও গোপালগঞ্জে বিভিন্ন রুটে বাস চলাচল স্থগিত করা হয়েছে।",
+        "summary_en": "Bus services have been suspended on routes via Padma Bridge and Gopalganj.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
           "economy_business",
-          "world_diplomacy"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-19T21:00:57.312195+00:00",
-        "lead_bn": "রাজশাহীর বাঘা উপজেলায় সাবেক পররাষ্ট্র প্রতিমন্ত্রী শাহরিয়ার আলমের বাড়িতে পেট্রোল ঢেলে অগ্নিসংযোগ করা হয়েছে।",
-        "lead_en": "The house of former State Minister for Foreign Affairs Shahriar Alam was set on fire in Bagha upazila of Rajshahi.",
+        "published_at": "2026-11-19T19:50:44+00:00",
+        "lead_bn": "পদ্মা সেতু ও গোপালগঞ্জে বিভিন্ন রুটে বাস চলাচল স্থগিত করা হয়েছে।",
+        "lead_en": "Bus services have been suspended on routes via Padma Bridge and Gopalganj.",
         "bullets_bn": [
-          "বাঘা থানার ভারপ্রাপ্ত কর্মকর্তা সেরাজুল হক জানান, পাঁচ থেকে ছয়জনের একটি দল মোটরসাইকেলে করে সেখানে আসে।",
-          "তারা সীমানা প্রাচীর টপকে চাকসিংগা গ্রামের বাড়িতে প্রবেশ করে পেট্রোল ঢেলে আগুন দেয়।",
-          "দ্রুত আগুন ছড়িয়ে পড়লে স্থানীয়রা এসে পানি ঢেলে আগুন নেভান।"
+          "পরিবহন মালিকরা বাস চলাচল বন্ধ রাখেন।",
+          "জেলায় বাস ভাঙচুর, ইটপাটকেল নিক্ষেপ ও সড়ক অবরোধের পর এই সিদ্ধান্ত নেওয়া হয়।",
+          "ঢাকা ট্রিবিউন ও দ্য ফাইনান্সিয়াল এক্সপ্রেসের প্রতিবেদনে এই তথ্য জানানো হয়েছে।"
         ],
         "bullets_en": [
-          "Bagha Police Station OC Serajul Haque said a group of five to six people arrived on motorcycles.",
-          "They entered the house at Chaksinga village by climbing over the boundary wall and poured petrol.",
-          "As the fire spread quickly, locals rushed in and managed to extinguish the flames by pouring water."
+          "Transport owners suspended the bus services on Wednesday.",
+          "The decision followed bus vandalism, stone-pelting and road blockades in the district.",
+          "The information was reported by Dhaka Tribune and The Financial Express."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে পড়া একটি ভিডিওতে চারতলা ভবনের নিচতলায় আগুন জ্বলতে দেখা গেছে। এই ঘটনায় কোনো হতাহতের খবর পাওয়া যায়নি।",
-        "details_en": "A video circulated on social media showed flames burning on the ground floor of the four-storey building. No casualties were reported in the incident.",
-        "hook_bn": "বাঘায় সাবেক মন্ত্রীর বাড়িতে আগুন",
+        "details_bn": "জেলায় বাস ভাঙচুর, ইটপাটকেল নিক্ষেপ এবং সড়ক অবরোধের ঘটনার প্রেক্ষিতে পরিবহন মালিকরা পদ্মা সেতু ও গোপালগঞ্জে বিভিন্ন রুটে বাস চলাচল স্থগিত করেন।",
+        "details_en": "Transport owners suspended bus services on Wednesday following incidents of bus vandalism, stone-pelting, and road blockades in the district involving routes via Padma Bridge and Gopalganj.",
+        "hook_bn": "পদ্মা সেতু ও গোপালগঞ্জে বাস চলাচল বন্ধ",
         "kicker_bn": null,
-        "share_value": false,
+        "share_value": true,
         "question_bn": null
       },
       "desk_importance": 7.0,
       "outlet_count": 2,
       "trending": false,
-      "social_appeal": 7.0,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-19T21:01:40.786276+00:00"
+        "checked_at": "2026-11-19T22:01:51.564729+00:00"
       }
     },
     {
-      "story_id": "8fc24ddc-9b64-5251-ad66-6c1e12ca6249",
-      "primary_category": "governance_law",
+      "story_id": "5d484337-cacf-54f8-98cf-dc95796a3715",
+      "primary_category": "society_education",
       "interest_categories": [
-        "governance_law",
-        "economy_business"
+        "society_education"
       ],
       "region": "national",
       "tags": [
-        "#Ducsu",
-        "#Gopalganj",
-        "#AwamiLeague"
+        "#Bangladesh",
+        "#NationalAffairs"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/20/musaddiq.png",
+      "image_url": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YWRtaXNzaW9uJTIwdGVzdCUyMGFwcGxpY2F0aW9uJTIwaGVhcmluZyUyMGVkdWNhdGlvbnxlbnwxfDB8fHwxNzk1MTI1Njk3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-19T18:45:00+00:00",
+      "published_at": "2026-11-19T21:03:19+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 4.9339,
+      "importance_score": 7.0,
+      "rank_score": 4.6336,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/crime/ducsu-leaders-gopalganj-family-home-vandalised-set-fire-1608391",
-          "title": "Ducsu leader's Gopalganj family home vandalised, set on fire",
-          "snippet": "Ducsu leader's Gopalganj family home vandalised, set on fire"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/ducsu-leader-musaddiqs-house-set-on-fire-vandalised-in-gopalganj",
-          "title": "DUCSU leader Musaddiq’s house set on fire, vandalised in Gopalganj",
-          "snippet": "DUCSU leader Musaddiq’s house set on fire, vandalised in Gopalganj"
-        },
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/uncategorized/post-1223453/",
-          "title": "ডাকসু নেতা মুসাদ্দিকের বাড়িতে ভাঙচুর-অগ্নিসংযোগের অভিযোগ",
-          "snippet": "ডাকসু নেতা মুসাদ্দিকের বাড়িতে ভাঙচুর-অগ্নিসংযোগের অভিযোগ"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/law-courts/news/1181535",
+          "title": "বুয়েট-মেডিকেল-বিশ্ববিদ্যালয়ে ভর্তি পরীক্ষা নিয়ে আবেদনের শুনানি সোমবার",
+          "snippet": "বুয়েট-মেডিকেল-বিশ্ববিদ্যালয়ে ভর্তি পরীক্ষা নিয়ে আবেদনের শুনানি সোমবার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গোপালগঞ্জে ডাকসু নেতার পৈতৃক বাড়িতে ভাঙচুর ও অগ্নিসংযোগ",
-        "title_en": "Ducsu leader's ancestral home vandalised and set on fire in Gopalganj",
-        "summary_bn": "ঢাকা বিশ্ববিদ্যালয় কেন্দ্রীয় ছাত্রসংসদের সাংস্কৃতিক সম্পাদক মুসাদ্দিক আলী ইবনে মোহাম্মদের গোপালগঞ্জের পৈতৃক বাড়িতে ভাঙচুর, অগ্নিসংযোগ ও লুটপাটের ঘটনা ঘটেছে।",
-        "summary_en": "The ancestral home of Ducsu Cultural Affairs Secretary Musaddiq Ali Ibne Mohammad was attacked, vandalised, and set on fire in Gopalganj.",
+        "title_bn": "বুয়েট, মেডিকেল ও বিশ্ববিদ্যালয়ের ভর্তি পরীক্ষার আবেদনের শুনানি",
+        "title_en": "Admission test application hearing for BUET, medical, and universities is on Monday.",
+        "summary_bn": "বুয়েট, মেডিকেল ও ঢাকা বিশ্ববিদ্যালয়সহ দেশের সব পাবলিক বিশ্ববিদ্যালয়ের ২০২৬-২৭ শিক্ষাবর্ষের ভর্তি পরীক্ষা স্থগিত রাখার হাইকোর্টের আদেশের বিষয়ে শুনানি",
+        "summary_en": "The hearing regarding the High Court order to suspend the admission tests for the 2026-27 academic year of all public universities including BUET, medical colleges, and Dhaka University is on Monday.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "economy_business"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-19T18:45:00+00:00",
-        "lead_bn": "ঢাকা বিশ্ববিদ্যালয় কেন্দ্রীয় ছাত্রসংসদের সাংস্কৃতিক সম্পাদক মুসাদ্দিক আলী ইবনে মোহাম্মদের গোপালগঞ্জের পৈতৃক বাড়িতে ভাঙচুর, অগ্নিসংযোগ ও লুটপাটের ঘটনা ঘটেছে।",
-        "lead_en": "The ancestral home of Ducsu Cultural Affairs Secretary Musaddiq Ali Ibne Mohammad was attacked, vandalised, and set on fire in Gopalganj.",
+        "published_at": "2026-11-19T21:03:19+00:00",
+        "lead_bn": "বুয়েট, মেডিকেল ও ঢাকা বিশ্ববিদ্যালয়সহ দেশের সব পাবলিক বিশ্ববিদ্যালয়ের ২০২৬-২৭ শিক্ষাবর্ষের ভর্তি পরীক্ষা স্থগিত রাখার হাইকোর্টের আদেশের বিষয়ে শুনানি",
+        "lead_en": "The hearing regarding the High Court order to suspend the admission tests for the 2026-27 academic year of all public universities including BUET, medical colleges, and Dhaka University is on Monday.",
         "bullets_bn": [
-          "১৯ নভেম্বর ভোরে বাড়িতে আগুন দেওয়া হয় এবং দুপুরে ভাঙচুর ও লুটপাট চালানো হয়।",
-          "বাড়িতে থাকা ফুফু ও অন্য স্বজনেরা হামলার আশঙ্কায় ঘটনার এক বা দুই মিনিট আগে নিরাপদ দূরত্বে সরে যান।",
-          "ডাকসু এই হামলার তীব্র নিন্দা জানিয়ে একে সন্ত্রাসী কর্মকাণ্ড বলে অভিহিত করেছে।"
+          "হাইকোর্ট দেশের সব পাবলিক বিশ্ববিদ্যালয়ের ভর্তি পরীক্ষা আগামী ৩১ ডিসেম্বর পর্যন্ত স্থগিত করেছে।",
+          "২০২৬-২৭ শিক্ষাবর্ষের ভর্তি পরীক্ষা নিয়ে এই আবেদনের শুনানি অনুষ্ঠিত হবে",
+          "বুয়েট, মেডিকেল ও ঢাকা বিশ্ববিদ্যালয় এই স্থগিতাদেশের আওতাভুক্ত রয়েছে।"
         ],
         "bullets_en": [
-          "The fire was set in the early hours of 19 November, while vandalism and looting took place around noon.",
-          "The aunt and other relatives inside the house moved to a safe distance one or two minutes before the attack.",
-          "Ducsu condemned the attack, describing it as an act of terrorism by the Awami League."
+          "The High Court has suspended admission tests for all public universities in the country until December 31.",
+          "The hearing on this application regarding the admission tests for the 2026-27 academic year will take place on Monday.",
+          "BUET, medical colleges, and Dhaka University are included under this suspension order."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "মুসাদ্দিকের অভিযোগ, সাবেক মন্ত্রী কর্নেল (অব.) ফারুক খানের নির্দেশে মুসাদ্দুপুরের আওয়ামী লীগ, নিষিদ্ধ ছাত্রলীগ ও যুবলীগের কর্মীরা এই হামলা চালিয়েছেন। তিনি আরও অভিযোগ করেন, একই গোষ্ঠী মুসাদ্দুপুর থানা ভাঙচুর করায় স্থানীয়ভাবে আইনি সহায়তার সুযোগ নেই।",
-        "details_en": "Musaddiq alleged that Muksudpur upazila Awami League, banned Chhatra League and Jubo League activists attacked the house on the instructions of former government minister Colonel (retd) Faruk Khan. He also alleged that the same group had set fire to Muksudpur Police Station, leaving no opportunity for local legal recourse.",
-        "hook_bn": "গোপালগঞ্জে ডাকসু নেতার বাড়িতে আগুন",
-        "kicker_bn": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "ভর্তি পরীক্ষা নিয়ে আবেদনের শুনানি",
+        "kicker_bn": "নতুন তারিখ",
+        "share_value": true,
+        "question_bn": "পাবলিক বিশ্ববিদ্যালয়ের ভর্তি পরীক্ষা স্থগিতের এই সিদ্ধান্ত নিয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 9.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-19T22:01:51.564729+00:00"
+      }
+    },
+    {
+      "story_id": "aba2c503-21d8-5b7f-8ab3-5244e9dee788",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-19%2Fhi9y2dhs%2F%E0%A7%A8.avif?rect=0%2C44%2C622%2C327&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-19T19:55:40+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.0,
+      "rank_score": 4.3414,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/d5j7uo3q75",
+          "title": "শ্রমিক আন্দোলনে তৈরি হওয়া নিরাপত্তাহীনতায় আনা যায়নি আসামি, ট্রাইব্যুনালে বিচারকাজ ব্যাহত",
+          "snippet": "শ্রমিক আন্দোলনে তৈরি হওয়া নিরাপত্তাহীনতায় আনা যায়নি আসামি, ট্রাইব্যুনালে বিচারকাজ ব্যাহত"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "শ্রমিক আন্দোলনের কারণে আন্তর্জাতিক অপরাধ ট্রাইব্যুনালে তিনটি মামলার বিচারকাজ হয়নি।",
+        "title_en": "Trial proceedings in three cases halted at international crimes tribunal due to worker protests.",
+        "summary_bn": "পোশাকশ্রমিকদের আন্দোলনের কারণে নিরাপত্তাহীনতায় গাজীপুরের কাশিমপুর কারাগار থেকে আসামিদের হাজির করা সম্ভব না হওয়ায় আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল-২-এ তিনটি মামলার বিচারকাজ হয়নি।",
+        "summary_en": "Trial proceedings in three cases could not be held at International Crimes Tribunal-2 as accused could not be brought from Kashimpur central jail due to security risks from garment worker protests.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T19:55:40+00:00",
+        "lead_bn": "পোশাকশ্রমিকদের আন্দোলনের কারণে নিরাপত্তাহীনতায় গাজীপুরের কাশিমপুর কারাগار থেকে আসামিদের হাজির করা সম্ভব না হওয়ায় আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল-২-এ তিনটি মামলার বিচারকাজ হয়নি।",
+        "lead_en": "Trial proceedings in three cases could not be held at International Crimes Tribunal-2 as accused could not be brought from Kashimpur central jail due to security risks from garment worker protests.",
+        "bullets_bn": [
+          "আসামি না আসায় রাষ্ট্রপক্ষের সময় বৃদ্ধির আবেদন ট্রাইব্যুনাল মঞ্জুর করেন।",
+          "ট্রাইব্যুনালের প্রসিকিউটর ফারুক আহাম্মদ গাজীপুরে শ্রমিক আন্দোলনের কারণে আসামিদের আনা যায়নি বলে জানান।",
+          "ইমাম হাসান হত্যা মামলার যুক্তিতর্কের জন্য আগামী ১ ডিসেম্বর নতুন দিন ধার্য করা হয়েছে।"
+        ],
+        "bullets_en": [
+          "The tribunal granted the prosecution prayer for time extension as the accused failed to appear.",
+          "Tribunal prosecutor Faruk Ahmed stated that the accused could not be brought due to worker protests in Gazipur.",
+          "A new date of December 1 has been fixed for closing arguments in the Imam Hasan murder case."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "জুলাই গণ-অভ্যুত্থানের সময় রাজধানীর যাত্রাবাড়ীর কাজলায় পুলিশ কর্মকর্তার ছেলে ইমাম হাসান হত্যা মামলার যুক্তিতর্ক উপস্থাপনের দিন ধার্য ছিল। এছাড়া উত্তরায় মীর মাহফুজুর রহমান মুগ্ধসহ ১১ জনকে হত্যা এবং যাত্রাবাড়ীর আরেকটি মানবতাবিরোধী অপরাধের মামলায় সূচনা বক্তব্য, সাক্ষ্য গ্রহণ ও শুনানির দিন নির্ধারিত ছিল।",
+        "details_en": "Thursday was scheduled for closing arguments in the crime against humanity case over the killing of police officer's son Imam Hasan in Kazla of Jatrabari during the July mass uprising. Besides, days were fixed for opening statements, testimony and hearings in the case over the killing of 11 people including Mir Mahfuzur Rahman Mugdho in Uttara and another crime against humanity case in Jatrabari.",
+        "hook_bn": "শ্রমিক আন্দোলনের কারণে ট্রাইব্যুনালে আসামি আনা যায়নি",
+        "kicker_bn": "নতুন তারিখ",
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 7.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-19T21:01:40.786276+00:00"
-      }
-    },
-    {
-      "story_id": "94a3b2cd-f46c-5249-875b-089c93d95650",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#PartexGroup",
-        "#Purbachal",
-        "#Rajuk",
-        "#DhakaCourt"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2024/10/14/city_bankrubel-aziz.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-19T18:15:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.0678,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/crime/partex-group-md-sent-jail-purbachal-plot-corruption-case-1608366",
-          "title": "Partex Group MD sent to jail in Purbachal plot corruption case",
-          "snippet": "Partex Group MD sent to jail in Purbachal plot corruption case"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পূর্বাচল প্লট দুর্নীতি মামলায় পারটেক্স গ্রুপের এমডি কারাগারে",
-        "title_en": "Partex Group MD sent to jail in Purbachal plot corruption case",
-        "summary_bn": "পূর্বাচল প্লট দুর্নীতি মামলায় জামিন আবেদন নামঞ্জুর করে পারটেক্স গ্রুপের ব্যবস্থাপনা পরিচালক আশফাক আজিজ রুবেলকে কারাগারে পাঠিয়েছে আদালত।",
-        "summary_en": "A Dhaka court has sent Partex Group Managing Director Ashfaq Aziz Rubel to jail after rejecting his bail petition in a corruption case.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-19T18:15:00+00:00",
-        "lead_bn": "পূর্বাচল প্লট দুর্নীতি মামলায় জামিন আবেদন নামঞ্জুর করে পারটেক্স গ্রুপের ব্যবস্থাপনা পরিচালক আশফাক আজিজ রুবেলকে কারাগারে পাঠিয়েছে আদালত।",
-        "lead_en": "A Dhaka court has sent Partex Group Managing Director Ashfaq Aziz Rubel to jail after rejecting his bail petition in a corruption case.",
-        "bullets_bn": [
-          "আশফাক আজিজ রুবেল ১৭ নভেম্বর আদালতে আত্মসমর্পণ করে সাজার বিরুদ্ধে আপিলের জন্য জামিন আবেদন করেছিলেন।",
-          "আদালতের বেঞ্চ সহকারী সাইফুল ইসলাম মিঠু এই বিষয়টি নিশ্চিত করেছেন।",
-          "একই আদালতে গত ১৩ অক্টোবর রুবেল, তার ভাই শওকত আজিজ রাসেলসহ আটজনকে ১৪ বছর করে কারাদণ্ড দেওয়া হয়েছিল।"
-        ],
-        "bullets_en": [
-          "Ashfaq Aziz Rubel surrendered on 17 November and sought bail to appeal against his conviction.",
-          "Court bench assistant Saiful Islam Mithu confirmed the development.",
-          "On 13 October, the same court sentenced Rubel, his brother Shawkat Aziz Russell, and six others to 14 years in prison."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "রাজউক পূর্বাচল আবাসিক প্রকল্পের প্লট বরাদ্দ সংক্রান্ত দুর্নীতি মামলায় গত ১৩ অক্টোবর ঢাকার বিশেষ জজ আদালত-৯ এর বিচারক আবদুস সালাম রুবেল, তার ভাই শওকত আজিজ রাসেল এবং ছয়জন সাবেক রাজউক কর্মকর্তাকে ১৪ বছর করে কারাদণ্ড দেন। দুর্নীতি প্রতিরোধ আইনের ধারা এবং পেনাল কোডের ধারায় তাদের এই সাজা দেওয়া হয়। এছাড়া আদালত রাসেল ও রুবেলের নামে থাকা দুটি প্লট বাজেয়াফত করে রাষ্ট্রের অনুকূলে নেওয়ার নির্দেশ দেয়।",
-        "details_en": "On 13 October, Dhaka Special Judge-9 Abdus Salam sentenced Rubel, his brother Shawkat Aziz Russell and six former Rajuk officials to 14 years in prison each in the corruption case. They were sentenced under the Prevention of Corruption Act and the Penal Code, and the court also ordered the confiscation of two plots in the names of Russell and Rubel.",
-        "hook_bn": "পূর্বাচল প্লট দুর্নীতি মামলায় কারাগারে পারটেক্স গ্রুপের এমডি",
-        "kicker_bn": "রায় ঘোষণা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
       "outlet_count": 1,
       "trending": false,
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-19T21:01:40.786276+00:00"
+        "checked_at": "2026-11-19T22:01:51.564729+00:00"
+      }
+    },
+    {
+      "story_id": "6e4f5ac5-e7b7-53cb-b7c4-31f287726451",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law",
+        "tech_innovation",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Anthropic",
+        "#Nasdaq",
+        "#NewYork",
+        "#SanFrancisco"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/71f9820b3e6fa3234944209ef4e179d6b83eeb67/333_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=845172603b994da30517509233cfa309",
+      "image_caption": null,
+      "published_at": "2026-11-19T21:52:19+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.25,
+      "rank_score": 3.8723,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
+          "title": "Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut",
+          "snippet": "Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425210/kashimpur-jail-seeks-security-support-from-army",
+          "title": "Kashimpur jail seeks security support from army, police, other forces",
+          "snippet": "Kashimpur jail seeks security support from army, police, other forces"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/international/499397",
+          "title": "আইন-শৃঙ্খলা নিয়ন্ত্রণে সাতক্ষীরায় যৌথ বাহিনীর টহল",
+          "snippet": "আইন-শৃঙ্খলা নিয়ন্ত্রণে সাতক্ষীরায় যৌথ বাহিনীর টহল"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "স্টক মার্কেটে আত্মপ্রকাশের পর অ্যানথ্রপিকের বিরুদ্ধে প্রতিবাদ",
+        "title_en": "Protesters rally against Anthropic after stock market debut",
+        "summary_bn": "যুক্তরাষ্ট্রের স্টক মার্কেটে দুই ট্রিলিয়ন ডলারের মূল্যায়নে কৃত্রিম বুদ্ধিমত্তা প্রতিষ্ঠান অ্যানথ্রপিকের আত্মপ্রকাশের দিন নিউইয়র্ক ও সানফ্রান্সিসকোতে বিক্ষোভ করেছেন প্রতিবাদকারীরা।",
+        "summary_en": "Protesters rallied in New York and San Francisco as artificial intelligence startup Anthropic debuted on the US stock market at a two trillion dollar valuation.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law",
+          "tech_innovation",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T21:52:19+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের স্টক মার্কেটে দুই ট্রিলিয়ন ডলারের মূল্যায়নে কৃত্রিম বুদ্ধিমত্তা প্রতিষ্ঠান অ্যানথ্রপিকের আত্মপ্রকাশের দিন নিউইয়র্ক ও সানফ্রান্সিসকোতে বিক্ষোভ করেছেন প্রতিবাদকারীরা।",
+        "lead_en": "Protesters rallied in New York and San Francisco as artificial intelligence startup Anthropic debuted on the US stock market at a two trillion dollar valuation.",
+        "bullets_bn": [
+          "নিউইয়র্কের টাইমস স্কোয়ারে ন্যাসড্যাক এক্সচেঞ্জের সামনে বিক্ষোভ করার সময় বেশ কয়েকজনকে গ্রেপ্তার করা হয়।",
+          "নিউইয়র্ক স্টেট সেনেটর এবার কাওয়াস বলেন, এআইয়ে বিনিয়োগ মানুষের পেছনে বিনিয়োগের সরাসরি মূল্যে আসে।",
+          "পরিবেশগত নিরাপত্তা, জাতীয় সুরক্ষা এবং আইন প্রয়োগকারী সংস্থার সাথে সংযোগ নিয়ে প্রতিবাদকারীরা উদ্বেগ প্রকাশ করেছেন।"
+        ],
+        "bullets_en": [
+          "Several protesters were arrested while rallying in front of the Nasdaq exchange in Times Square, New York.",
+          "New York state senator Aber Kawas said investing in AI comes at the direct cost of investing in people.",
+          "Protesters expressed concerns regarding environmental safety, national security, and AI connections to law enforcement."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "২০২১ সালে প্রতিষ্ঠিত অ্যানথ্রপিক তাদের জেনারেটিভ এআই মডেল ক্লড উন্নয়নের জন্য প্রায় ৮১ বিলিয়ন ডলার তহবিল সংগ্রহ করে ইতিহাসের সবচেয়ে বড় প্রাথমিক গণপ্রস্তাব সম্পন্ন করেছে। নিউইয়র্কের ন্যাসড্যাক ভবনের বাইরে বিক্ষোভ আয়োজনে সহায়তা করেছে অলাভজনক সংগঠন নিউইয়র্ক কমিউনিটিস ফর চেঞ্জ।",
+        "details_en": "Anthropic, founded in 2021, completed the largest initial public offering in history by raising about 81 billion dollars to develop its Claude generative AI models. The non-profit group New York Communities for Change helped rally outside the Nasdaq building.",
+        "hook_bn": "স্টক মার্কেটে আত্মপ্রকাশের পর অ্যানথ্রপিকের বিরুদ্ধে প্রতিবাদ",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-19T22:01:51.564729+00:00"
+      }
+    },
+    {
+      "story_id": "21f9940d-bb36-57e0-9733-86eed76ab067",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#Anthropic",
+        "#IPO",
+        "#ArtificialIntelligence",
+        "#WallStreet"
+      ],
+      "image_url": "https://th-i.thgim.com/public/incoming/yxpacp/article71721737.ece/alternates/LANDSCAPE_1200/2026-11-19T185133Z_834393249_RC21ROA35LC1_RTRMADP_3_ANTHROPIC-IPO-DEBUT.JPG",
+      "image_caption": null,
+      "published_at": "2026-11-19T21:16:25+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.5,
+      "rank_score": 4.046,
+      "sources": [
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/business/markets/ai-firm-anthropic-shares-wall-streets-nasdaq-debut/article71721723.ece",
+          "title": "Anthropic shares close 17% higher on first day of trading",
+          "snippet": "Anthropic shares close 17% higher on first day of trading"
+        },
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+          "title": "Anthropic becomes most valuable AI firm as shares soar in stock market debut",
+          "snippet": "Anthropic becomes most valuable AI firm as shares soar in stock market debut"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "প্রথম ট্রেডিং দিনে ১৭ শতাংশ বেশি দামে বন্ধ হলো অ্যানথ্রপিকের শেয়ার।",
+        "title_en": "Anthropic shares close 17% higher on first day of trading.",
+        "summary_bn": "রেকর্ড আইপিওর পর বিনিয়োগকারীদের আগ্রহে ১৯ নভেম্বর ২০২৬ তারিখে প্রথম ট্রেডিং দিনে কৃত্রিম বুদ্ধিমত্তা প্রতিষ্ঠান অ্যানথ্রপিকের শেয়ার প্রায় ১৭ শতাংশ বেশি দামে বন্ধ হয়েছে।",
+        "summary_en": "Anthropic shares closed about 17% higher on November 19, 2026, as investors snapped up the AI giant stock after a record-breaking IPO.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T21:16:25+00:00",
+        "lead_bn": "রেকর্ড আইপিওর পর বিনিয়োগকারীদের আগ্রহে ১৯ নভেম্বর ২০২৬ তারিখে প্রথম ট্রেডিং দিনে কৃত্রিম বুদ্ধিমত্তা প্রতিষ্ঠান অ্যানথ্রপিকের শেয়ার প্রায় ১৭ শতাংশ বেশি দামে বন্ধ হয়েছে।",
+        "lead_en": "Anthropic shares closed about 17% higher on November 19, 2026, as investors snapped up the AI giant stock after a record-breaking IPO.",
+        "bullets_bn": [
+          "আইপিও মূল্য ৮৩ ডলার থেকে বেড়ে শেয়ারটি প্রায় ৯৭ ডলারে শেষ হয়েছে এবং শুরুতে ১১১.৫০ ডলারে লেনদেন শুরু হয়।",
+          "আর্ট হোগান জানান যে এটি কৃত্রিম বুদ্ধিমত্তার অনিশ্চয়তা কাটিয়ে উঠতে প্রয়োজনীয় নতুন উদ্দীপনা হতে পারে।",
+          "আন্ডাররাইটারদের অতিরিক্ত শেয়ার কেনার বিকল্প ব্যবহারের মাধ্যমে অ্যানথ্রপিকের মোট পরিমাণ প্রায় ৯৩.৫ বিলিয়ন ডলারে পৌঁছাতে পারে।"
+        ],
+        "bullets_en": [
+          "The shares ended around $97 from an $83 IPO price after opening at $111.50.",
+          "Art Hogan stated this may be the breath of fresh air that the tech trade needed.",
+          "Anthropic has granted underwriters an option to lift its total to about $93.5 billion."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "পাঁচ বছর আগে এআই সুরক্ষার বিষয়ে চিন্তিত ওপেনএআই-এর দলত্যাগকারীদের দ্বারা প্রতিষ্ঠিত কোম্পানিটি ওয়াল স্ট্রিটে তালিকাভুক্ত প্রথম প্রধান মডেল ডেভেলপার হয়ে উঠেছে। এই তালিকাভুক্তির মাধ্যমে সাধারণ বিনিয়োগকারীরা সরাসরি একটি স্বাধীন এআই জায়ান্টে বিনিয়োগ করার প্রথম সুযোগ পেলেন।",
+        "details_en": "Founded five years ago by OpenAI defectors worried about AI safety, the company became the first leading model developer to list on Wall Street. The listing gives ordinary investors their first chance to bet directly on a stand-alone AI giant.",
+        "hook_bn": "এআই জায়ান্ট অ্যানথ্রপিকের শেয়ারে বড় উত্থান",
+        "kicker_bn": "স্টক মার্কেট",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": true,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-19T22:01:51.564729+00:00"
+      }
+    },
+    {
+      "story_id": "43f5c874-5064-5169-a543-48c2abc2caa0",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#Ukraine",
+        "#Berlin",
+        "#Russia",
+        "#Europe"
+      ],
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-19T181515Z_1222114708_RC25ROAMOK1I_RTRMADP_3_UKRAINE-CRISIS-GERMANY-1795112208.jpg?resize=1920%2C1440",
+      "image_caption": null,
+      "published_at": "2026-11-19T19:40:23+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.143,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss",
+          "title": "European leaders unite in Berlin to reaffirm support for Ukraine",
+          "snippet": "European leaders unite in Berlin to reaffirm support for Ukraine"
+        },
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+          "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+          "snippet": "Europe ready for talks with Russia on ending war in Ukraine, leaders say"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইউক্রেনকে সমর্থন জানাতে বার্লিনে একত্রিত হয়েছেন ইউরোপীয় নেতারা",
+        "title_en": "European leaders unite in Berlin to reaffirm support for Ukraine",
+        "summary_bn": "ইউক্রেনকে সহায়তার জন্য ইউরোপীয় নেতারা বার্লিনে বৈঠকে মিলিত হয়ে একটি ঐক্যবদ্ধ অবস্থান তুলে ধরেছেন।",
+        "summary_en": "European leaders gathered in Berlin for talks to signal a united front in support of Ukraine.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T19:40:23+00:00",
+        "lead_bn": "ইউক্রেনকে সহায়তার জন্য ইউরোপীয় নেতারা বার্লিনে বৈঠকে মিলিত হয়ে একটি ঐক্যবদ্ধ অবস্থান তুলে ধরেছেন।",
+        "lead_en": "European leaders gathered in Berlin for talks to signal a united front in support of Ukraine.",
+        "bullets_bn": [
+          "ইউরোপীয় দেশগুলো রাশিয়া ও ইউক্রেন সংকট নিরসনে আলোচনায় অংশ নিতে প্রস্তুত রয়েছে বলে জানিয়েছে।",
+          "জার্মানির চ্যান্সেলর ফ্রিডরিখ মার্জ বলেছেন ইউরোপ বা ইউক্রেনকে বাদ দিয়ে কোনো চুক্তি সফল হবে না।",
+          "ব্রিটিশ প্রধানমন্ত্রী অ্যান্ডি বার্নহাম জানিয়েছেন যে রাশিয়া ও ইউক্রেনের মধ্যে একটি শান্তি চুক্তি প্রথমে হওয়া প্রয়োজন।"
+        ],
+        "bullets_en": [
+          "European allies stated they have a united negotiating position to end the war.",
+          "Germany's Chancellor Friedrich Merz warned that any deal made without Europe would fail.",
+          "British Prime Minister Andy Burnham insisted that a peace agreement must come first."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "যুক্তরাষ্ট্রের রাশিয়া ও ইউক্রেনের মধ্যকার আলোচনায় ইউরোপীয় ইউনিয়নকে বাদ দেওয়ায় ইউরোপীয় দেশগুলোর মধ্যে ক্ষোভের সৃষ্টি হয়। এর আগে শেনজেনে মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প, চীনা প্রেসিডেন্ট শি জিনপিং এবং রুশ প্রেসিডেন্ট ভ্লাদিমির পুতিনের মধ্যে একটি ত্রিদেশীয় শীর্ষ বৈঠক অনুষ্ঠিত হয়।",
+        "details_en": "European countries were angered after the European Union was largely sidelined in negotiations. This followed a three-way summit in Shenzhen between Donald Trump, Xi Jinping, and Vladimir Putin.",
+        "hook_bn": "ইউরোপ বা ইউক্রেনকে বাদ দিয়ে চুক্তি ব্যর্থ হবে",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-19T22:01:51.564729+00:00"
       }
     }
   ]
