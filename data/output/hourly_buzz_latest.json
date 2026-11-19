@@ -1,5 +1,247 @@
 {
-  "updated_at": "2026-11-19T10:00:43.359334",
-  "total_stories": 0,
-  "stories": []
+  "updated_at": "2026-11-19T11:00:43.875441",
+  "total_stories": 3,
+  "stories": [
+    {
+      "story_id": "3ade7b18-8cb4-5a0c-b1ee-38f1fe5b3b5c",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-19%2Fywm4x36p%2FJamat-.jpeg?rect=0%2C180%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-19T10:53:04+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.5,
+      "rank_score": 5.5814,
+      "sources": [
+        {
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/4hf89frvtj",
+          "title": "২১ নভেম্বর থেকে দেশজুড়ে সমাবেশ–মিছিল করবে জামায়াত, চলবে ডিসেম্বরজুড়ে",
+          "snippet": "২১ নভেম্বর থেকে দেশজুড়ে সমাবেশ–মিছিল করবে জামায়াত, চলবে ডিসেম্বরজুড়ে"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821900/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%B8-%E0%A6%98%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A7%AA%E0%A7%A6-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%B8%E0%A7%82%E0%A6%9A%E0%A6%BF-%E0%A6%98%E0%A7%8B%E0%A6%B7%E0%A6%A3%E0%A6%BE",
+          "title": "বিজয়ের মাস ঘিরে জামায়াতের ৪০ দিনের কর্মসূচি ঘোষণা",
+          "snippet": "বিজয়ের মাস ঘিরে জামায়াতের ৪০ দিনের কর্মসূচি ঘোষণা"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/politics/news/1181391",
+          "title": "১৬ ডিসেম্বর বিজয় র‌্যালি করবে জামায়াত, থাকছে ৪১ দিনের কর্মসূচি",
+          "snippet": "১৬ ডিসেম্বর বিজয় র‌্যালি করবে জামায়াত, থাকছে ৪১ দিনের কর্মসূচি"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/politics/jamat-e-islam/981958/%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A7%AA%E0%A7%A6-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%B8%E0%A7%82%E0%A6%9A%E0%A6%BF-%E0%A6%98%E0%A7%8B%E0%A6%B7%E0%A6%A3%E0%A6%BE",
+          "title": "জামায়াতের ৪০ দিনের কর্মসূচি ঘোষণা",
+          "snippet": "জামায়াতের ৪০ দিনের কর্মসূচি ঘোষণা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাংলাদেশ জামায়াতে ইসলামীর ৪০ দিনের কর্মসূচি ঘোষণা",
+        "title_en": "Bangladesh Jamaat-e-Islami announces 40-day program",
+        "summary_bn": "দেশের বিদ্যমান রাজনৈতিক পরিস্থিতি এবং বিজয়ের মাস উপলক্ষে ৪০ দিনব্যাপী কর্মসূচি ঘোষণা করেছে বাংলাদেশ জামায়াতে ইসলামী।",
+        "summary_en": "Bangladesh Jamaat-e-Islami has announced a 40-day program considering the country's political situation and the month of victory.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T10:53:04+00:00",
+        "lead_bn": "দেশের বিদ্যমান রাজনৈতিক পরিস্থিতি এবং বিজয়ের মাস উপলক্ষে ৪০ দিনব্যাপী কর্মসূচি ঘোষণা করেছে বাংলাদেশ জামায়াতে ইসলামী।",
+        "lead_en": "Bangladesh Jamaat-e-Islami has announced a 40-day program considering the country's political situation and the month of victory.",
+        "bullets_bn": [
+          "২১ নভেম্বর থেকে ৩১ ডিসেম্বর পর্যন্ত ঢাকাসহ সারা দেশে সমাবেশ, মিছিল, আলোচনা সভা ও সামাজিক কার্যক্রম পরিচালনা করা হবে।",
+          "জামায়াতের সেক্রেটারি জেনারেল মিয়া গোলাম পরওয়ার কেন্দ্রীয় কার্যালয়ে আয়োজিত প্রেস ব্রিফিংয়ে এই কর্মসূচি ঘোষণা করেন।",
+          "কর্মসূচির মধ্যে রয়েছে ২১ নভেম্বর বায়তুল মোকাররমের উত্তর গেটে সমাবেশ ও মিছিল এবং ১৬ ডিসেম্বর বিজয় র‍্যালি।"
+        ],
+        "bullets_en": [
+          "Rallies, processions, discussion meetings, and social activities will be held across the country including Dhaka from November 21 to December 31.",
+          "Jamaat Secretary General Mia Golam Parwar announced these programs at a press briefing held at the central office.",
+          "The programs include a rally and procession at the north gate of Baitul Mukarram on November 21 and a victory rally on December 16."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "দেশের উদ্ভূত রাজনৈতিক পরিস্থিতি এবং বিজয়ের মাস ডিসেম্বর উপলক্ষে দলের পক্ষ থেকে এই কর্মসূচি ঘোষণা করা হয়। সংবাদ সম্মেলনে জামায়াতের কেন্দ্রীয় কার্যালয়ে দলটির বিভিন্ন পর্যায়ের নেতারা উপস্থিত ছিলেন।",
+        "details_en": "The program was announced by the party considering the emerging political situation of the country and the month of victory, December. Leaders of various levels of the party were present at the central office during the press conference.",
+        "hook_bn": "চল্লিশ দিনের কর্মসূচি ঘোষণা করেছে জামায়াতে ইসলামী",
+        "kicker_bn": "রাজনৈতিক কর্মসূচি",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 4,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "unchecked",
+        "checked_at": "2026-11-19T11:01:53.080077+00:00"
+      }
+    },
+    {
+      "story_id": "13676029-5200-518d-a5e6-49ce61db8ae9",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#DFC",
+        "#US"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1722871513349-45c61ed6aa5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZmluYW5jZSUyMGVjb25vbXklMjBiYW5nbGFkZXNofGVufDF8MHx8fDE3OTUwODYwODN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-19T10:23:41+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.25,
+      "rank_score": 2.6586,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/business/425136/official-dfc-engagement-to-mobilize-private",
+          "title": "Official: DFC engagement to mobilize private investment",
+          "snippet": "Official: DFC engagement to mobilize private investment"
+        },
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/e47zp6r3fa",
+          "title": "শ্রম অধিকার সুরক্ষায় ধারাবাহিক অগ্রগতি ডিএফসিতে বাংলাদেশের অন্তর্ভুক্তি নিশ্চিত করেছে",
+          "snippet": "শ্রম অধিকার সুরক্ষায় ধারাবাহিক অগ্রগতি ডিএফসিতে বাংলাদেশের অন্তর্ভুক্তি নিশ্চিত করেছে"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ডিএফসির অর্থায়নের যোগ্যতা অর্জন করেছে বাংলাদেশ",
+        "title_en": "Bangladesh gains eligibility for DFC financing",
+        "summary_bn": "শ্রম অধিকার সুরক্ষা ও শ্রম আইন বাস্তবায়নে ধারাবাহিক অগ্রগতির স্বীকৃতি হিসেবে মার্কিন উন্নয়ন অর্থায়ন করপোরেশনের (ডিএফসি) অর্থায়নের যোগ্যতা অর্জন করেছে বাংলাদেশ।",
+        "summary_en": "Bangladesh has gained eligibility for US International Development Finance Corporation financing following continuous progress in labor rights protection and implementation.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T10:23:41+00:00",
+        "lead_bn": "শ্রম অধিকার সুরক্ষা ও শ্রম আইন বাস্তবায়নে ধারাবাহিক অগ্রগতির স্বীকৃতি হিসেবে মার্কিন উন্নয়ন অর্থায়ন করপোরেশনের (ডিএফসি) অর্থায়নের যোগ্যতা অর্জন করেছে বাংলাদেশ।",
+        "lead_en": "Bangladesh has gained eligibility for US International Development Finance Corporation financing following continuous progress in labor rights protection and implementation.",
+        "bullets_bn": [
+          "ডিএফসির প্রকল্প বিবেচনার ক্ষমতা দেশের উন্নয়ন লক্ষ্যমাত্রা অর্জনে মূল্যবান সুযোগ তৈরি করেছে বলে এক কর্মকর্তা জানিয়েছেন।",
+          "এই সম্পৃক্ততা অঞ্চলে মার্কিন কৌশলগত ও অর্থনৈতিক উদ্দেশ্যকেও সমর্থন করে বলে জানানো হয়েছে।",
+          "আগামী বছরের শুরুতে একটি মার্কিন প্রতিনিধিদল বাংলাদেশে আসতে পারে।"
+        ],
+        "bullets_en": [
+          "An official stated that DFC's ability to consider projects creates a valuable opportunity to advance the country's development objectives.",
+          "This engagement also supports broader US strategic and economic objectives in the region.",
+          "A US delegation may visit Bangladesh early next year."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "ডিএফসিতে বাংলাদেশের অন্তর্ভুক্তি নিশ্চিত হয়েছে",
+        "kicker_bn": "নতুন সুযোগ",
+        "share_value": false,
+        "question_bn": "শ্রম অধিকার সুরক্ষায় এই অর্জন দেশের অর্থনীতিতে কী ধরনের প্রভাব ফেলবে বলে আপনার মনে হয়?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "unchecked",
+        "checked_at": "2026-11-19T11:01:53.080077+00:00"
+      }
+    },
+    {
+      "story_id": "aa3c600f-a703-52e9-98f2-d5d38900ced4",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "climate_environment"
+      ],
+      "region": "international",
+      "tags": [
+        "#Riyadh",
+        "#SaudiArabia",
+        "#Houthis"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1694018359679-49465b4c0d61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cml5YWRoJTIwc2t5c2NyYXBlciUyMGRhbWFnZWQlMjBzYXVkaSUyMGRpcGxvbWFjeXxlbnwxfDB8fHwxNzk1MDg2MDkxfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-19T10:36:48+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4421,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/world/middle-east/425139/riyadh-skyscraper-damaged-as-saudi-reports-new",
+          "title": "Riyadh skyscraper damaged as Saudi reports new Houthi attacks",
+          "snippet": "Riyadh skyscraper damaged as Saudi reports new Houthi attacks"
+        },
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south?traffic_source=rss",
+          "title": "Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south",
+          "snippet": "Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সৌদি আরবে নতুন হুথি হামলায় রিয়াদ আকাশচুম্বী ভবন ক্ষতিগ্রস্ত",
+        "title_en": "Riyadh skyscraper damaged as Saudi reports new Houthi attacks",
+        "summary_bn": "সৌদি আরবে চালানো সাম্প্রতিক হুথি হামলার পর ধ্বংসাবশেষ পড়ে বস্তুগত ক্ষতির খবর পাওয়া গেছে।",
+        "summary_en": "Material damage was reported after debris fell following the latest Houthi strikes launched towards Saudi Arabia.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T10:36:48+00:00",
+        "lead_bn": "সৌদি আরবে চালানো সাম্প্রতিক হুথি হামলার পর ধ্বংসাবশেষ পড়ে বস্তুগত ক্ষতির খবর পাওয়া গেছে।",
+        "lead_en": "Material damage was reported after debris fell following the latest Houthi strikes launched towards Saudi Arabia.",
+        "bullets_bn": [
+          "সৌদি আরব ও দক্ষিণাঞ্চল লক্ষ্য করে ছোড়া হুথি ক্ষেপণাস্ত্রগুলো সৌদি নেতৃত্বাধীন জোট প্রতিহত করেছে।",
+          "হুথিরা সৌদি আরবের বিমানবন্দর, জ্বালানি এবং সামরিক অবকাঠামো লক্ষ্য করে হামলা তীব্র করেছে।",
+          "সৌদি নেতৃত্বাধীন বাহিনী ধামারে একটি ক্ষেপণাস্ত্র প্ল্যাটফর্মসহ হুথি লক্ষ্যবস্তুতে আঘাত হেনেছে।"
+        ],
+        "bullets_en": [
+          "Saudi-led coalition intercepted Houthi missiles targeting Riyadh and the south.",
+          "Houthis have intensified attacks on Saudi airports, energy and military infrastructure.",
+          "Saudi-led forces struck Houthi targets, including a missile platform in Dhamar."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "সৌদি আরবে নতুন হুথি হামলা",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "unchecked",
+        "checked_at": "2026-11-19T11:01:53.080077+00:00"
+      }
+    }
+  ]
 }
