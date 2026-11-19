@@ -21,7 +21,7 @@ permissions:
 jobs:
   poll:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 14   # stays awake up to ~11 min after activity
     steps:
       - name: Skip Until The Bot Is Set Up
         id: ready

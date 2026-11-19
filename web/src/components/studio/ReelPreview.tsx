@@ -2,6 +2,7 @@ import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { Play, Square } from 'lucide-react';
 import { CapsuleStory } from '../../types';
 import { drawAutoReelFrame, AutoReelInput, ReelSegment } from '../../services/reelAutoEngine';
+import { StudioPublish, StudioEdits } from './StudioPublish';
 import { loadSafeCanvasImage } from '../../services/imageLoader';
 import { getLocalizedCategory, toBanglaDigits } from '../../utils/bilingual';
 
@@ -31,6 +32,7 @@ const TRAGEDY_WORDS = ['নিহত', 'মৃত্যু', 'মারা', '�
 const URGENT_WORDS = ['হামলা', 'সংঘর্ষ', 'বিস্ফোরণ', 'ককটেল', 'আগুন', 'অগ্নি', 'গুলি', 'গ্রেপ্তার', 'বিক্ষোভ',
   'অবরোধ', 'হরতাল', 'মারধর', 'ঘূর্ণিঝড়', 'ভূমিকম্প', 'বন্যা', 'আহত', 'ভাঙচুর', 'যুদ্ধ'];
 const musicMood = (s: CapsuleStory) => {
+  if ((s as any)._music_mood && MUSIC_MOODS[(s as any)._music_mood]) return (s as any)._music_mood as string;
   const b = s.daily_buzz as any;
   const text = [b.title_bn || '', b.hook_bn || '', ...(b.bullets_bn || []).slice(0, 1)].join(' ');
   if (TRAGEDY_WORDS.some((w) => text.includes(w))) return 'serious';
@@ -62,7 +64,7 @@ interface Timeline {
   pageTurns: number[];
 }
 
-function buildTimeline(story: CapsuleStory): Timeline {
+function buildTimeline(story: CapsuleStory, voiced = true): Timeline {
   const parts: { kind: ReelSegment['kind']; index?: number; text: string }[] = [
     { kind: 'headline', text: reelHeadline(story) },
     ...reelPoints(story).map((p, i) => ({ kind: 'point' as const, index: i, text: p })),
@@ -81,7 +83,7 @@ function buildTimeline(story: CapsuleStory): Timeline {
     } else {
       clock += VOICE_START;
     }
-    const len = Math.max(1.5, p.text.length * SECONDS_PER_CHAR);
+    const len = voiced ? Math.max(1.5, p.text.length * SECONDS_PER_CHAR) : Math.max(3.5, Math.min(7, p.text.length / 14));
     voice.push({ at: clock, len });
     clock += len;
     segments.push({ kind: p.kind, start, end: clock, ...(p.index != null ? { index: p.index } : {}) });
@@ -120,7 +122,20 @@ export const ReelPreview: React.FC<Props> = ({ stories, initialStoryId }) => {
   const stopRef = useRef<() => void>(() => undefined);
   const [playing, setPlaying] = useState(false);
   const [now, setNow] = useState(0);
-  const timeline = useMemo(() => (story ? buildTimeline(story) : null), [story]);
+  const [edits, setEdits] = useState<StudioEdits | null>(null);
+  // The story as the editor has edited it (hook, label, key points, music): drives the preview.
+  const edited = useMemo(() => {
+    if (!story || !edits) return story;
+    const b: any = { ...story.daily_buzz };
+    if (edits.hook.trim()) b.hook_bn = edits.hook.trim();
+    b.kicker_bn = edits.kicker.trim() || null;
+    const pts = edits.points.map((x) => x.trim()).filter(Boolean);
+    if (pts.length) b.bullets_bn = pts.slice(0, 3);
+    return { ...story, daily_buzz: b, _music_mood: edits.music === 'auto' ? undefined : edits.music } as CapsuleStory;
+  }, [story, edits]);
+  const voiced = edits ? edits.voice : true;
+  const timeline = useMemo(() => (edited ? buildTimeline(edited, voiced) : null), [edited, voiced]);
+  const [studioPhotos, setStudioPhotos] = useState<string[]>([]);
 
   // Prepare the drawing input (fonts, logo, publisher photo) whenever the story changes.
   useEffect(() => {
@@ -145,12 +160,12 @@ export const ReelPreview: React.FC<Props> = ({ stories, initialStoryId }) => {
       const b = story.daily_buzz;
       const names = Array.from(new Set((story.sources || []).map((s) => s.name).filter(Boolean))).slice(0, 3);
       inputRef.current = {
-        headline: reelHeadline(story),
-        points: reelPoints(story),
+        headline: reelHeadline(edited || story),
+        points: reelPoints(edited || story),
         sourceLine: names.length ? `সূত্র: ${names.join(', ')}` : '',
         category: getLocalizedCategory(story.primary_category || '', true),
         dateLine: bnDate(story.published_at),
-        kicker: (b as any).kicker_bn || '',
+        kicker: ((edited || story).daily_buzz as any).kicker_bn || '',
         image,
         logo,
         segments: timeline.segments,
@@ -160,7 +175,23 @@ export const ReelPreview: React.FC<Props> = ({ stories, initialStoryId }) => {
       draw(2.5);
     })();
     return () => { cancelled = true; };
-  }, [story?.story_id, timeline]);
+  }, [story?.story_id, timeline, edited]);
+
+  useEffect(() => {
+    let cancelled = false;
+    Promise.all(studioPhotos.map((src) => new Promise<HTMLImageElement | null>((resolve) => {
+      const img = new Image();
+      img.onload = () => resolve(img);
+      img.onerror = () => resolve(null);
+      img.src = src;
+    }))).then((imgs) => {
+      if (cancelled || !inputRef.current) return;
+      const images = imgs.filter((i): i is HTMLImageElement => !!i);
+      inputRef.current = { ...inputRef.current, images };
+      draw(images.length > 1 ? (timeline?.segments[1]?.start ?? 0) + 1 : 2.5);
+    });
+    return () => { cancelled = true; };
+  }, [studioPhotos, loading]);
 
   const draw = (t: number) => {
     const c = canvasRef.current;
@@ -171,7 +202,7 @@ export const ReelPreview: React.FC<Props> = ({ stories, initialStoryId }) => {
 
   const play = async () => {
     if (!timeline || !inputRef.current || !story) return;
-    const track = musicFor(story);
+    const track = musicFor(edited || story);
     if (!audioRef.current || audioRef.current.track !== track) {
       const ctx = audioRef.current?.ctx || new AudioContext();
       const load = (u: string) => fetch(u).then((r) => r.arrayBuffer()).then((d) => ctx.decodeAudioData(d));
@@ -253,7 +284,7 @@ export const ReelPreview: React.FC<Props> = ({ stories, initialStoryId }) => {
   };
 
   if (!candidates.length || !timeline) return null;
-  const voiceNow = timeline.voice.some((v) => now >= v.at && now < v.at + v.len);
+  const voiceNow = voiced && timeline.voice.some((v) => now >= v.at && now < v.at + v.len);
 
   return (
     <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -314,6 +345,11 @@ export const ReelPreview: React.FC<Props> = ({ stories, initialStoryId }) => {
                 </li>
               ))}
             </ol>
+            <StudioPublish
+              story={story}
+              onPhotosChange={setStudioPhotos}
+              onEditsChange={setEdits}
+            />
           </div>
         </div>
       </div>

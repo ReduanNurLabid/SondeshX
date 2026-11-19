@@ -407,6 +407,8 @@ URGENT_WORDS = ("হামলা", "সংঘর্ষ", "বিস্ফোর�
 
 
 def music_mood(story: dict) -> str:
+    if story.get("_music_mood") in MUSIC_MOODS:      # chosen in the Studio
+        return story["_music_mood"]
     buzz = story.get("daily_buzz") or {}
     text = " ".join([buzz.get("title_bn") or "", buzz.get("hook_bn") or "", *(buzz.get("bullets_bn") or [])[:1]])
     if any(w in text for w in TRAGEDY_WORDS):
@@ -931,13 +933,23 @@ def _ig_container(ig_user: str, token: str, caption: str, video_path: Optional[s
         if not r.ok:
             raise RuntimeError(f"Instagram container failed: {_graph_error_text(r)}")
         container, uri = r.json()["id"], r.json()["uri"]
-        with open(video_path, "rb") as f:
-            u = requests.post(uri, data=f, timeout=300, headers={
-                "Authorization": f"OAuth {token}", "offset": "0",
-                "file_size": str(os.path.getsize(video_path))})
-        if not u.ok:
-            raise RuntimeError(f"Instagram upload failed: {u.status_code} {u.text[:300]}")
-        return container
+        # Instagram's upload host sometimes answers 400/5xx marked "retriable": try again.
+        for attempt in range(4):
+            with open(video_path, "rb") as f:
+                u = requests.post(uri, data=f, timeout=300, headers={
+                    "Authorization": f"OAuth {token}", "offset": "0",
+                    "file_size": str(os.path.getsize(video_path))})
+            if u.ok:
+                return container
+            text = u.text.replace(" ", "").lower()
+            retriable = u.status_code >= 500 or '"retriable":true' in text or "processingfailederror" in text
+            if not retriable or attempt == 3:
+                if fb_video_id:  # last resort: let Instagram fetch Facebook's copy of the Reel
+                    print(f"Instagram upload failed ({u.status_code}); trying Facebook's copy instead")
+                    break
+                raise RuntimeError(f"Instagram upload failed: {u.status_code} {u.text[:300]}")
+            print(f"Instagram upload hiccup ({u.status_code}); retrying")
+            time.sleep(10 * (attempt + 1))
     r = requests.post(f"{GRAPH}/{ig_user}/media", timeout=60,
                       data={**base, "video_url": facebook_video_source(fb_video_id)})
     if not r.ok:
@@ -1071,6 +1083,35 @@ def render_photo_reel(story: dict, file_ids: list, credit: str, base_url: str, w
     return total
 
 
+def _studio_status(db, clip: dict, status: str, **extra):
+    """Mirrors progress onto the Studio's publish request, so the Studio can show it."""
+    if not clip.get("request_id"):
+        return
+    db.collection("studio_requests").document(clip["request_id"]).set(
+        {"status": status, "updated_at": datetime.now(timezone.utc).isoformat(), **extra}, merge=True)
+
+
+def apply_studio_edits(story: dict, clip: dict) -> dict:
+    """The editor's Studio choices (clip['edits']) on a copy of the story: hook, label above
+    it, the key points and the music mood. Empty fields keep the AI's version."""
+    edits = clip.get("edits") or {}
+    if not edits:
+        return story
+    import copy
+    st = copy.deepcopy(story)
+    buzz = st.setdefault("daily_buzz", {})
+    if (edits.get("hook") or "").strip():
+        buzz["hook_bn"] = edits["hook"].strip()
+    if "kicker" in edits:
+        buzz["kicker_bn"] = (edits.get("kicker") or "").strip() or None
+    points = [p.strip() for p in (edits.get("points") or []) if (p or "").strip()]
+    if points:
+        buzz["bullets_bn"] = points[:3]
+    if edits.get("music") in MUSIC_MOODS:
+        st["_music_mood"] = edits["music"]
+    return st
+
+
 def _clip_and_story(db, clip_id: str):
     from pipeline.social.telegram_clips import COLLECTION
     ref = db.collection(COLLECTION).document(clip_id)
@@ -1080,7 +1121,7 @@ def _clip_and_story(db, clip_id: str):
     story = pick_story(db, clip["story_id"])
     if not story:
         raise RuntimeError(f"story {clip['story_id']} not found")
-    return ref, clip, story
+    return ref, clip, apply_studio_edits(story, clip)
 
 
 def telegram_preview(db, clip_id: str, base_url: str, out_path: str):
@@ -1089,8 +1130,14 @@ def telegram_preview(db, clip_id: str, base_url: str, out_path: str):
     try:
         with tempfile.TemporaryDirectory() as workdir:
             credit = clip.get("credit") or "সংগৃহীত"
-            if clip.get("media_type") == "auto":
-                audio, segments, total = build_voiceover(story, workdir)
+            if clip.get("media_type") == "studio_photo":
+                req = db.collection("studio_requests").document(clip["request_id"]).get().to_dict() or {}
+                audio, segments, total = build_voiceover(story, workdir, use_voice=clip.get("voice", True))
+                video = render_video(story, segments, total, base_url, workdir, image_urls=req.get("photos") or [],
+                                     source_line=f"ছবি: {credit}" if clip.get("credit") else None)
+                mux(video, audio, total, out_path)
+            elif clip.get("media_type") == "auto":
+                audio, segments, total = build_voiceover(story, workdir, use_voice=clip.get("voice", True))
                 mux(render_video(story, segments, total, base_url, workdir), audio, total, out_path)
             elif clip.get("media_type") == "photo":
                 total = render_photo_reel(story, clip.get("file_ids") or [clip["file_id"]], credit,
@@ -1105,8 +1152,17 @@ def telegram_preview(db, clip_id: str, base_url: str, out_path: str):
                               tgc.approval_buttons(clip_id))
         ref.set({"status": "preview_sent", "preview_file_id": sent["video"]["file_id"],
                  "duration_s": total, "updated_at": datetime.now(timezone.utc).isoformat()}, merge=True)
+        _studio_status(db, clip, "rendered")
+        # Studio "Publish" requests were already previewed in the Studio: post without a tap.
+        if clip.get("auto_approve") == "now":
+            ref.set({"status": "approved_now"}, merge=True)
+            telegram_post(db, clip_id)
+        elif clip.get("auto_approve") == "slot":
+            ref.set({"status": "approved_slot"}, merge=True)
+            _studio_status(db, clip, "waiting_slot")
     except Exception as err:
         ref.set({"status": "failed", "error": str(err)[:400]}, merge=True)
+        _studio_status(db, clip, "failed", error=str(err)[:300])
         tgc.send(clip["chat_id"], f"রিল তৈরি করা যায়নি: {str(err)[:300]}")
         raise
 
@@ -1122,30 +1178,34 @@ def telegram_post(db, clip_id: str):
     video = os.path.join(workdir, "reel.mp4")
     try:
         tgc.download_file(clip["preview_file_id"], video)
-        label = "ছবি" if clip.get("media_type") == "photo" else "ভিডিও"
+        label = "ছবি" if clip.get("media_type") in ("photo", "studio_photo") else "ভিডিও"
         credit_line = f"\n\n{label}: {clip.get('credit')}" if clip.get("credit") else ""
-        caption = build_caption(story) + credit_line
-        video_id = upload_reel(video, caption)
+        custom = (clip.get("caption") or "").strip()
+        caption = (custom + _music_credit_line(story, custom) if custom else build_caption(story)) + credit_line
+        platforms = clip.get("platforms") or ["facebook", "instagram"]
+        video_id = upload_reel(video, caption) if "facebook" in platforms else None
     except Exception as err:
         ref.set({"status": "failed", "error": str(err)[:400]}, merge=True)
         tgc.send(clip["chat_id"], f"ফেসবুকে পোস্ট করা যায়নি: {str(err)[:300]}")
         raise
-    print(f"Posted clip Reel: video_id {video_id}")
-    comment_id = comment_link(video_id, story)
+    print(f"Posted clip Reel: video_id {video_id}" if video_id else "Facebook skipped (not chosen in the Studio)")
+    comment_id = comment_link(video_id, story) if video_id else None
     record = {
         "story_id": story["story_id"], "platform": "facebook_reel", "source": "telegram_clip",
         "clip_id": clip_id, "media_type": clip.get("media_type"), "video_id": video_id, "comment_id": comment_id,
         "posted_at": datetime.now(timezone.utc).isoformat(), "headline": story["daily_buzz"]["title_bn"],
         "category": story.get("primary_category"), "region": story.get("region"),
         "importance_score": story.get("importance_score"), "social_appeal": story.get("social_appeal"),
-        "duration_s": clip.get("duration_s"), "voiced": True, "hashtags": build_hashtags(story),
+        "duration_s": clip.get("duration_s"), "voiced": clip.get("voice", True), "hashtags": build_hashtags(story),
         "story_published_at": story.get("published_at"),
     }
-    note = f"ফেসবুকে পোস্ট হয়েছে: https://www.facebook.com/reel/{video_id}"
-    if os.getenv("IG_POSTING", "on").lower() != "off":
+    note = f"ফেসবুকে পোস্ট হয়েছে: https://www.facebook.com/reel/{video_id}" if video_id else "ফেসবুকে দেওয়া হয়নি (স্টুডিওতে বাছাই করা হয়নি)।"
+    if os.getenv("IG_POSTING", "on").lower() != "off" and "instagram" in platforms:
         try:
-            ig_caption = instagram_caption(story) + credit_line
-            record["instagram_media_id"] = post_instagram_reel(video_id, ig_caption[:2200], video)
+            ig_base = (custom.replace("পুরো খবরের লিংক কমেন্টে 👇", IG_LINK_LINE) + _music_credit_line(story, custom)
+                       if custom else instagram_caption(story))
+            ig_caption = ig_base + credit_line
+            record["instagram_media_id"] = post_instagram_reel(video_id or "", ig_caption[:2200], video)
             note += "\nইনস্টাগ্রামেও পোস্ট হয়েছে।"
             print(f"Posted on Instagram: media_id {record['instagram_media_id']}")
         except Exception as err:  # noqa: BLE001
@@ -1154,7 +1214,15 @@ def telegram_post(db, clip_id: str):
             note += f"\nইনস্টাগ্রামে যায়নি: {str(err)[:200]}"
     db.collection("social_posts").document(f"tg_{clip_id}").set(record)
     ref.set({"status": "posted", "fb_video_id": video_id, "posted_at": record["posted_at"]}, merge=True)
+    _studio_status(db, clip, "posted", fb_url=f"https://www.facebook.com/reel/{video_id}" if video_id else None,
+                   instagram=bool(record.get("instagram_media_id")))
     tgc.send(clip["chat_id"], note)
+
+
+def _music_credit_line(story: dict, caption: str) -> str:
+    """The music licence credit, added to a custom caption that does not already carry it."""
+    credit = music_track(story)[1]
+    return f"\n\n{credit}" if credit and credit not in caption else ""
 
 
 def retry_instagram(db, clip_id: str):
@@ -1171,7 +1239,7 @@ def retry_instagram(db, clip_id: str):
     ref, clip, story = _clip_and_story(db, clip_id)
     video = os.path.join(tempfile.mkdtemp(), "reel.mp4")
     tgc.download_file(clip["preview_file_id"], video)
-    label = "ছবি" if clip.get("media_type") == "photo" else "ভিডিও"
+    label = "ছবি" if clip.get("media_type") in ("photo", "studio_photo") else "ভিডিও"
     caption = (instagram_caption(story) + f"\n\n{label}: {clip.get('credit')}")[:2200]
     media_id = post_instagram_reel(clip.get("fb_video_id") or "", caption, video)
     print(f"Posted on Instagram: media_id {media_id}")

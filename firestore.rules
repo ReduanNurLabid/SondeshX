@@ -57,6 +57,12 @@ service cloud.firestore {
       allow read, write: if isEditor();
     }
 
+    // Reel publish requests from the Studio (photos + story); the pipeline reads them
+    // with the Admin SDK and writes progress back. Editors only.
+    match /studio_requests/{requestId} {
+      allow read, write: if isEditor();
+    }
+
     // Facebook Reels log and performance, written by the posting job (Admin SDK).
     match /social_posts/{postId} {
       allow read: if isEditor();

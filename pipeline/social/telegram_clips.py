@@ -412,20 +412,15 @@ def maybe_send_digest(db, state_ref, allowed: str):
     print(f"Reel candidate digest {'sent' if sent else 'skipped (no candidates)'} for {key}.")
 
 
-def poll():
-    if sys.stdout:
-        sys.stdout.reconfigure(encoding="utf-8")
-    db = get_firestore_client()
-    state_ref = db.collection("admin_config").document("telegram")
-    offset = (state_ref.get().to_dict() or {}).get("offset", 0)
-    allowed = os.getenv("TELEGRAM_CHAT_ID", "").strip()
-    try:
-        updates = tg("getUpdates", offset=offset, timeout=0, allowed_updates=["message", "callback_query"])
-    except TelegramUnavailable as err:
-        # Telegram is down for a moment; messages wait on their side, the next run picks them up.
-        print(f"Telegram is not answering right now ({err}); will try again on the next run.")
-        return
+AWAKE_SECONDS = 8 * 60     # keep listening this long after the editor's last message or tap
+RUN_LIMIT = 11 * 60        # one run never listens longer than this (the next run takes over)
+LONG_POLL = 25             # seconds Telegram holds each request open while awake
+
+
+def handle_updates(db, updates: list, allowed: str) -> int:
+    """Handles one batch of Telegram updates; returns the next offset (or 0 if empty)."""
     groups: dict = {}
+    offset = 0
     for u in updates:
         offset = u["update_id"] + 1
         msg, cb = u.get("message"), u.get("callback_query")
@@ -453,13 +448,79 @@ def poll():
         except Exception as err:  # noqa: BLE001
             print(f"Album {gid} failed: {err}")
             send(g["chat_id"], f"সমস্যা হয়েছে: {str(err)[:300]}")
+    return offset
+
+
+def handle_studio_requests(db, allowed: str) -> int:
+    """Publish requests made in the editorial Studio (Reel preview > Publish). Each becomes a
+    clip that is rendered and then posted at once ('now') or at the next slot ('slot')."""
+    from firebase_admin import firestore as fs
+    done = 0
+    for d in db.collection("studio_requests").where(filter=fs.FieldFilter("status", "==", "queued")).stream():
+        req = d.to_dict() or {}
+        title = story_title(db, req.get("story_id") or "")
+        if not title:
+            d.reference.set({"status": "failed", "error": "story not found", "updated_at": _now()}, merge=True)
+            continue
+        clip_id = "s" + d.id[:12]
+        photos = req.get("photos") or []
+        db.collection(COLLECTION).document(clip_id).set({
+            "clip_id": clip_id, "chat_id": int(allowed) if allowed.lstrip("-").isdigit() else allowed,
+            "media_type": "studio_photo" if photos else "auto", "story_id": req["story_id"],
+            "request_id": d.id, "credit": (req.get("credit") or "").strip(), "auto_approve": req.get("mode", "now"),
+            "edits": req.get("edits") or {}, "voice": req.get("voice", True), "caption": req.get("caption") or "",
+            "platforms": req.get("platforms") or ["facebook", "instagram"],
+            "status": "rendering", "created_at": _now()})
+        d.reference.set({"status": "rendering", "clip_id": clip_id, "updated_at": _now()}, merge=True)
+        dispatch({"telegram_clip": clip_id, "dry_run": "true"})
+        if allowed:
+            when = "এখনই" if req.get("mode", "now") == "now" else "পরের স্লটে"
+            send(allowed, f"স্টুডিও থেকে রিল {when} পোস্টের অনুরোধ এসেছে ({len(photos)}টি ছবি)।\nখবর: {title}")
+        done += 1
+    return done
+
+
+def poll():
+    """Reads the bot and Studio requests. Quiet runs end at once; after any activity the
+    run stays awake (long polling) so replies and button taps are answered in seconds."""
+    import time
+    if sys.stdout:
+        sys.stdout.reconfigure(encoding="utf-8")
+    db = get_firestore_client()
+    state_ref = db.collection("admin_config").document("telegram")
+    offset = (state_ref.get().to_dict() or {}).get("offset", 0)
+    allowed = os.getenv("TELEGRAM_CHAT_ID", "").strip()
+    started = time.time()
+    awake_until = 0.0
+    total = 0
+    while True:
+        awake = time.time() < awake_until
+        try:
+            updates = tg("getUpdates", offset=offset, timeout=LONG_POLL if awake else 0,
+                         allowed_updates=["message", "callback_query"])
+        except TelegramUnavailable as err:
+            # Telegram is down for a moment; messages wait on their side, the next run picks them up.
+            print(f"Telegram is not answering right now ({err}); will try again on the next run.")
+            break
+        if updates:
+            offset = handle_updates(db, updates, allowed) or offset
+            state_ref.set({"offset": offset, "checked_at": _now()}, merge=True)
+            total += len(updates)
+            awake_until = time.time() + AWAKE_SECONDS
+        try:
+            if handle_studio_requests(db, allowed):
+                awake_until = time.time() + AWAKE_SECONDS
+        except Exception as err:  # noqa: BLE001
+            print(f"Studio requests failed: {err}")
+        if time.time() >= awake_until or time.time() - started > RUN_LIMIT:
+            break
     state_ref.set({"offset": offset, "checked_at": _now()}, merge=True)
     if allowed:
         try:
             maybe_send_digest(db, state_ref, allowed)
         except Exception as err:  # noqa: BLE001
             print(f"Digest failed: {err}")
-    print(f"Handled {len(updates)} Telegram update(s).")
+    print(f"Handled {total} Telegram update(s) in {time.time() - started:.0f}s.")
 
 
 if __name__ == "__main__":
