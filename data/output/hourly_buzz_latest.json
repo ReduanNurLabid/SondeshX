@@ -1,74 +1,236 @@
 {
-  "updated_at": "2026-11-19T03:00:47.056725",
-  "total_stories": 1,
+  "updated_at": "2026-11-19T04:00:40.662335",
+  "total_stories": 3,
   "stories": [
     {
-      "story_id": "3ae0346d-36d0-5b57-bc44-de07ca30087f",
-      "primary_category": "climate_environment",
+      "story_id": "832c7138-c3b3-56c8-a6e2-786662f22751",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "climate_environment",
+        "governance_law",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#TariqueRahman",
+        "#Lalmonirhat"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1630330349438-206954d8ad14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cHJpbWUlMjBtaW5pc3RlciUyMHRhcmlxdWUlMjByYWhtYW4lMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTUwNjA4OTF8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-19T03:51:05+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.5,
+      "rank_score": 2.9955,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425094/pm-tarique-leaves-for-lalmonirhat-on-daylong-visit",
+          "title": "PM Tarique leaves for Lalmonirhat on daylong visit",
+          "snippet": "PM Tarique leaves for Lalmonirhat on daylong visit"
+        },
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/national/post-1222843/",
+          "title": "দিনব্যাপী সফরে লালমনিরহাটের পথে প্রধানমন্ত্রী",
+          "snippet": "দিনব্যাপী সফরে লালমনিরহাটের পথে প্রধানমন্ত্রী"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/national/499135",
+          "title": "দিনব্যাপী সফরে লালমনিরহাটের পথে প্রধানমন্ত্রী",
+          "snippet": "দিনব্যাপী সফরে লালমনিরহাটের পথে প্রধানমন্ত্রী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "লালমনিরহাটের উদ্দেশ্যে ঢাকা ছেড়েছেন প্রধানমন্ত্রী তারেক রহমান",
+        "title_en": "Prime Minister Tarique Rahman leaves Dhaka for Lalmonirhat",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান ১৯ নভেম্বর হেলিকপ্টারযোগে দিনব্যাপী সফরে লালমনিরহাটের উদ্দেশে ঢাকা ছেড়েছেন।",
+        "summary_en": "Prime Minister Tarique Rahman left Dhaka for Lalmonirhat by helicopter on Thursday morning for a daylong visit.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T03:51:05+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান ১৯ নভেম্বর হেলিকপ্টারযোগে দিনব্যাপী সফরে লালমনিরহাটের উদ্দেশে ঢাকা ছেড়েছেন।",
+        "lead_en": "Prime Minister Tarique Rahman left Dhaka for Lalmonirhat by helicopter on Thursday morning for a daylong visit.",
+        "bullets_bn": [
+          "তিনি সকাল ৯টা ১৫ মিনিটে তেজগাঁও বিমানবন্দর থেকে যাত্রা করেন।",
+          "অতিরিক্ত প্রেস সচিব আতিকুর রহমান রুমন এই তথ্য জানান।",
+          "তিনি লালমনিরহাটে তিনটি কর্মসূচিতে অংশ নেবেন।"
+        ],
+        "bullets_en": [
+          "He departed from Tejgaon Airport at 9:15am.",
+          "Additional Press Secretary to the Prime Minister Atikur Rahman Rumon shared this information.",
+          "He will attend three programs in Lalmonirhat."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "সফরসূচি অনুযায়ী, প্রধানমন্ত্রী লালমনিরহাট এয়ারফিল্ডে অবতরণের পর অ্যাভিয়েশন অ্যান্ড অ্যারোস্পেস বিশ্ববিদ্যালয়, বাংলাদেশ আয়োজিত প্রথম জাতীয় অ্যাসো-জেনিয়াস প্রতিযোগিতায় অংশ নেবেন।",
+        "details_en": "According to the schedule, after landing at Lalmonirhat airfield, Tarique will attend the first National Aero-Genius Competition organised by Aviation and Aerospace University, Bangladesh.",
+        "hook_bn": "লালমনিরহাটের পথে প্রধানমন্ত্রী তারেক রহমান",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-19T04:01:54.586395+00:00"
+      }
+    },
+    {
+      "story_id": "3c5b5484-3f84-5a8d-9000-db9648d28ee6",
+      "primary_category": "governance_law",
+      "interest_categories": [
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Climate",
-        "#Environment"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1630987871777-f7b2d62894d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGhha2ElMjBhaXIlMjB2ZXJ5JTIwdW5oZWFsdGh5JTIwZW52aXJvbm1lbnR8ZW58MXwwfHx8MTc5NTA1NzI3Nnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-18%2Fuyldy5zh%2FUntitled-1.jpg?rect=0%2C36%2C1920%2C1008&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-19T02:42:28+00:00",
+      "published_at": "2026-11-18T18:01:11+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 7.0,
-      "rank_score": 4.8124,
+      "rank_score": 2.7498,
       "sources": [
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821811/%E2%80%98%E0%A6%96%E0%A7%81%E0%A6%AC%E0%A6%87-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A6%B0%E2%80%99-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B8-%E0%A6%A6%E0%A7%82%E0%A6%B7%E0%A6%BF%E0%A6%A4-%E0%A6%B6%E0%A6%B9%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A7%9F",
-          "title": "‘খুবই অস্বাস্থ্যকর’ বাতাস, দূষিত শহরের তালিকায় দ্বিতীয় ঢাকা",
-          "snippet": "‘খুবই অস্বাস্থ্যকর’ বাতাস, দূষিত শহরের তালিকায় দ্বিতীয় ঢাকা"
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/bangladesh/district/o7q13sktek",
+          "title": "নড়াইলে বিএনপির শোভাযাত্রায় কার্যক্রম নিষিদ্ধ আওয়ামী লীগের হামলা, নিহত ২",
+          "snippet": "নড়াইলে বিএনপির শোভাযাত্রায় কার্যক্রম নিষিদ্ধ আওয়ামী লীগের হামলা, নিহত ২"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ঢাকার বাতাস খুবই অস্বাস্থ্যকর, অবস্থানে দ্বিতীয়",
-        "title_en": "Dhaka air is very unhealthy, ranking second",
-        "summary_bn": "বায়ুদূষণের মাত্রা বিবেচনায় বিশ্বের দূষিত শহরের তালিকায় ২৩১ স্কোর নিয়ে দ্বিতীয় অবস্থানে রয়েছে রাজধানী ঢাকা।",
-        "summary_en": "Dhaka ranks second on the list of world polluted cities with a score of 231.",
+        "title_bn": "নড়াইলে বিএনপির শোভাযাত্রায় হামলায় নিহত ২",
+        "title_en": "Two killed in attack on BNP procession in Narail",
+        "summary_bn": "নড়াইলের কালিয়া উপজেলায় বিএনপির মোটরসাইকেল শোভাযাত্রায় কার্যক্রম নিষিদ্ধ আওয়ামী লীগ নেতা-কর্মীদের হামলায় দুজন নিহত হয়েছেন।",
+        "summary_en": "Two people were killed in an attack by activists of the banned Awami League on a BNP motorcycle procession in Kalia upazila of Narail.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "climate_environment",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-19T02:42:28+00:00",
-        "lead_bn": "বায়ুদূষণের মাত্রা বিবেচনায় বিশ্বের দূষিত শহরের তালিকায় ২৩১ স্কোর নিয়ে দ্বিতীয় অবস্থানে রয়েছে রাজধানী ঢাকা।",
-        "lead_en": "Dhaka ranks second on the list of world polluted cities with a score of 231.",
+        "published_at": "2026-11-18T18:01:11+00:00",
+        "lead_bn": "নড়াইলের কালিয়া উপজেলায় বিএনপির মোটরসাইকেল শোভাযাত্রায় কার্যক্রম নিষিদ্ধ আওয়ামী লীগ নেতা-কর্মীদের হামলায় দুজন নিহত হয়েছেন।",
+        "lead_en": "Two people were killed in an attack by activists of the banned Awami League on a BNP motorcycle procession in Kalia upazila of Narail.",
         "bullets_bn": [
-          "সুইজারল্যান্ডভিত্তিক বায়ুমান পর্যবেক্ষণ সংস্থা আইকিউএয়ারের প্রকাশিত তথ্যে এ চিত্র দেখা গেছে।",
-          "১৯ নভেম্বর সকাল ৮টায় এই তথ্য প্রকাশ করা হয়।",
-          "২৬৯ স্কোর নিয়ে তালিকার শীর্ষে রয়েছে পাকিস্তানের শহর লাহোর।"
+          "হামলার শিকার হয়ে কালিয়া উপজেলা জাসাসের সাধারণ সম্পাদক সোহেল রানা ও পৌর কৃষকদলের সাধারণ সম্পাদক শাহিনুর ইসলাম নিহত হন।",
+          "কালিয়া উপজেলা বিএনপির সাধারণ সম্পাদক স ম ওয়াহিদুজ্জামান জানান যে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের লোকজন এই হামলা চালিয়েছেন।",
+          "কালিয়া থানার ভারপ্রাপ্ত কর্মকর্তা (ওসি) ইদ্রিস আলী জানান যে এ ঘটনায় এখনো কোনো গ্রেপ্তার নেই।"
         ],
         "bullets_en": [
-          "This picture was seen in the data published by Switzerland-based air quality monitoring agency IQAir.",
-          "This information was published 19 November at 8 am.",
-          "Pakistan city Lahore is in the first position on the list with a score of 269."
+          "Sohel Rana, general secretary of Kalia upazila Jsasas, and Shahinur Islam, general secretary of the municipal Krishak Dal, died in the attack.",
+          "Kalia upazila BNP general secretary SM Wahiduzzaman stated that people of the banned Awami League carried out this attack.",
+          "Kalia police station officer-in-charge (OC) Idris Ali stated that there have been no arrests in this incident yet."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "১৮ নভেম্বর বিকেলে কালিয়া পৌর এলাকায় উপজেলা বিএনপি ও অঙ্গ সংগঠনের নেতা-কর্মীরা কার্যক্রম নিষিদ্ধ আওয়ামী লীগের বিরুদ্ধে একটি প্রতিবাদী মোটরসাইকেল শোভাযাত্রা বের করেন। শোভাযাত্রাটি সন্ধ্যার দিকে পৌরসভার বেন্দারচর এলাকায় পৌঁছালে আওয়ামী লীগের লোকজন হামলা চালায়। এতে কালিয়া পৌর যুবদলের জ্যেষ্ঠ যুগ্ম আহ্বায়ক মো. মফিজুর রহমানসহ তিনজন গুরুতর আহত হন। তাদের কালিয়া উপজেলা স্বাস্থ্য কমপ্লেক্সে নেওয়ার পর উন্নত চিকিৎসার জন্য খুলনায় নেওয়ার পথে শাহিনুর ইসলাম ও সোহেল রানার মৃত্যু হয়। পুলিশ জানায়, মোটরশোভাযাত্রার পেছনে অতর্কিত হামলা চালিয়ে দলছুট দুজনকে মাত্রাতিরিক্ত মারধর করা হয়।",
+        "details_en": "On the afternoon of November 18, leaders and activists of the upazila BNP and affiliated organizations brought out a protest motorcycle procession against the banned Awami League in the Kalia municipal area. When the procession reached the Bendarchar area of the municipality around evening, Awami League people carried out the attack. Three people, including Kalia municipal Jubo Dal senior joint convener Md. Mofijur Rahman, were seriously injured. After taking them to Kalia upazila health complex, Shahinur Islam and Sohel Rana died on the way to Khulna for advanced treatment. Police stated that an ambush was carried out behind the motorcycle procession, and two stray people were beaten excessively.",
+        "hook_bn": "নড়াইলে বিএনপির শোভাযাত্রায় হামলা, নিহত ২",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-19T04:01:54.586395+00:00"
+      }
+    },
+    {
+      "story_id": "2a64aa3f-0bcf-5ef3-8ae9-1d1d5efa9547",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "society_education"
+      ],
+      "region": "international",
+      "tags": [
+        "#PewResearch",
+        "#Islam",
+        "#Christianity",
+        "#WorldPopulation"
+      ],
+      "image_url": "https://static.dw.com/image/79985431_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-18T17:52:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.5,
+      "rank_score": 1.6827,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/muslims-to-outnumber-christians-by-2035-research-shows/a-79984307?maca=en-rss-en-all-1573-rdf",
+          "title": "Muslims to outnumber Christians by 2035, research shows",
+          "snippet": "Muslims to outnumber Christians by 2035, research shows"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/world/islam-projected-surpass-christianity-worlds-largest-religion-2035-1607326",
+          "title": "Islam projected to surpass Christianity as world's largest religion by 2035",
+          "snippet": "Islam projected to surpass Christianity as world's largest religion by 2035"
+        },
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/muslims-to-outnumber-christians-by-2035-worldwide-pew-research/article71718507.ece",
+          "title": "Muslims to outnumber Christians by 2035 worldwide: Pew research",
+          "snippet": "Muslims to outnumber Christians by 2035 worldwide: Pew research"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "২০৩৫ সালের মধ্যে খ্রিস্টধর্মকে ছাড়িয়ে যাবে ইসলাম",
+        "title_en": "Muslims to outnumber Christians by 2035",
+        "summary_bn": "ওয়াশিংটনভিত্তিক পিউ রিসার্চ সেন্টারের পূর্বাভাস অনুযায়ী, ২০৩৫ সালের মধ্যে বিশ্বে খ্রিস্টধর্মকে ছাড়িয়ে যাবে মুসলিম জনসংখ্যা।",
+        "summary_en": "Muslims are going to outnumber Christians by 2035, according to projections from the Washington-based Pew Research Center.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-18T17:52:00+00:00",
+        "lead_bn": "ওয়াশিংটনভিত্তিক পিউ রিসার্চ সেন্টারের পূর্বাভাস অনুযায়ী, ২০৩৫ সালের মধ্যে বিশ্বে খ্রিস্টধর্মকে ছাড়িয়ে যাবে মুসলিম জনসংখ্যা।",
+        "lead_en": "Muslims are going to outnumber Christians by 2035, according to projections from the Washington-based Pew Research Center.",
+        "bullets_bn": [
+          "উভয় ধর্মই বৃদ্ধি পাচ্ছে, তবে খ্রিস্টধর্মের তুলনায় ইসলাম দ্রুত বৃদ্ধি পাচ্ছে।",
+          "পিউ-এর জ্যেষ্ঠ জনমিতিবিদ কনরাড হ্যাকেট বলেছেন, এর প্রধান কারণ হলো শিশুদের জন্মহার।",
+          "২০২০ থেকে ২০২৫ সালের মধ্যে মুসলিম নারীদের গড়ে ৩.১টি সন্তান হয়েছে, যেখানে খ্রিস্টান নারীদের ক্ষেত্রে এই সংখ্যা ২.৫।"
+        ],
+        "bullets_en": [
+          "While both religions are growing, Islam is growing faster than Christianity.",
+          "Pew senior demographer Conrad Hackett stated that the main reason is Muslims tend to have more children.",
+          "Muslim women had an average of 3.1 children between 2020 and 2025, compared with 2.5 for Christian women."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "ঢাকার বাতাস খুবই অস্বাস্থ্যকর",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": "আপনার এলাকার বায়ুমানের বর্তমান অবস্থা কেমন?"
+        "hook_bn": "২০৩৫ সালের মধ্যে মুসলিমরা ছাড়িয়ে যাবে খ্রিস্টানদের",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
       },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 7.0,
+      "desk_importance": 5.0,
+      "outlet_count": 3,
+      "trending": true,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-19T03:01:41.614329+00:00"
+        "checked_at": "2026-11-19T04:01:54.586395+00:00"
       }
     }
   ]
