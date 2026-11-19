@@ -1,377 +1,463 @@
 {
-  "updated_at": "2026-11-19T14:00:51.539598",
-  "total_stories": 5,
+  "updated_at": "2026-11-19T16:00:51.657006",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "bb05dc96-6007-5127-b724-88019982678e",
-      "primary_category": "world_diplomacy",
+      "story_id": "935fd58d-8f77-5709-a1a1-6fc36b773487",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#KhalilurRahman",
-        "#MinistryOfForeignAffairs"
+        "#PoliceHeadquarters",
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/khalilur%20%281%29.jpg",
+      "image_url": "https://images.unsplash.com/photo-1542718312-da4bb355220b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8dmVoaWNsZXMlMjB0b3JjaGVkJTIwY3J1ZGUlMjBib21iJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1MTA0NDA4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-19T12:33:21+00:00",
+      "published_at": "2026-11-19T14:42:20+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.2,
-      "rank_score": 4.7381,
+      "importance_score": 8.0,
+      "rank_score": 5.9048,
       "sources": [
         {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/us-uk-india-china-eu-envoys-meet-foreign-minister-khalilur-rahman-4328226",
-          "title": "US, UK, India, China, EU envoys meet Foreign Minister Khalilur Rahman",
-          "snippet": "US, UK, India, China, EU envoys meet Foreign Minister Khalilur Rahman"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425192/74-vehicles-torched-crude-bomb-blasts-reported-at",
+          "title": "74 vehicles torched, crude bomb blasts reported at 78 sites",
+          "snippet": "74 vehicles torched, crude bomb blasts reported at 78 sites"
         },
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/world/chinas-xi-says-us-should-do-right-thing-taiwan-avoid-setbacks-relations-1608066",
-          "title": "China's Xi says US should do 'right thing' on Taiwan to avoid setbacks in relations",
-          "snippet": "China's Xi says US should do 'right thing' on Taiwan to avoid setbacks in relations"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821958/%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%9C%E0%A7%81%E0%A7%9C%E0%A7%87-%E0%A7%AD%E0%A7%AA-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B9%E0%A6%A8%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A7%81%E0%A6%A8-%E0%A7%AD%E0%A7%AE-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%95%E0%A6%95%E0%A6%9F%E0%A7%87%E0%A6%B2-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A6%A3",
+          "title": "দেশজুড়ে ৭৪ পরিবহনে আগুন, ৭৮ স্থানে ককটেল বিস্ফোরণ",
+          "snippet": "দেশজুড়ে ৭৪ পরিবহনে আগুন, ৭৮ স্থানে ককটেল বিস্ফোরণ"
         },
         {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-          "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
-          "snippet": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live"
-        },
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/national/india-japan-discuss-economic-security-deeper-business-people-to-people-ties/article71720200.ece",
-          "title": "India, Japan discuss economic security, deeper business, people-to-people ties",
-          "snippet": "India, Japan discuss economic security, deeper business, people-to-people ties"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/cocaine-explosion-78-places-74-vehicles-torched/",
+          "title": "১২ দিনে সারাদেশে ৭৮ স্থানে ককটেল বিস্ফোরণ, ৭৪ পরিবহনে আগুন",
+          "snippet": "১২ দিনে সারাদেশে ৭৮ স্থানে ককটেল বিস্ফোরণ, ৭৪ পরিবহনে আগুন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পররাষ্ট্রমন্ত্রীর সঙ্গে যুক্তরাষ্ট্র ও চীনসহ পাঁচ দেশের কূটনীতিকদের বৈঠক",
-        "title_en": "Envoys from US, UK, India, China, and EU meet Foreign Minister",
-        "summary_bn": "যুক্তরাষ্ট্র, যুক্তরাজ্য, ইউরোপীয় ইউনিয়ন, চীন ও ভারতের কূটনীতিকরা ঢাকায় পররাষ্ট্র মন্ত্রণালয়ে পররাষ্ট্রমন্ত্রী খলিলুর রহমানের সঙ্গে সাক্ষাৎ করেছেন।",
-        "summary_en": "Envoys from the United States, the United Kingdom, the European Union, China and India called on Foreign Minister Khalilur Rahman in Dhaka.",
+        "title_bn": "৭৪ পরিবহনে আগুন ও ৭৮ স্থানে ককটেল বিস্ফোরণ",
+        "title_en": "74 vehicles torched and crude bomb blasts at 78 sites",
+        "summary_bn": "পুলিশ সদর দপ্তরের দেওয়া পরিসংখ্যানে গত ৭ থেকে ১৮ নভেম্বর পর্যন্ত দেশজুড়ে ৭৪টি পরিবহনে অগ্নিসংযোগ ও ৭৮টি স্থানে ককটেল বিস্ফোরণের তথ্য জানানো হয়েছে।",
+        "summary_en": "Police headquarters statistics show 74 vehicles torched and crude bomb blasts at 78 sites nationwide between November 7 and 18.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-19T12:33:21+00:00",
-        "lead_bn": "যুক্তরাষ্ট্র, যুক্তরাজ্য, ইউরোপীয় ইউনিয়ন, চীন ও ভারতের কূটনীতিকরা ঢাকায় পররাষ্ট্র মন্ত্রণালয়ে পররাষ্ট্রমন্ত্রী খলিলুর রহমানের সঙ্গে সাক্ষাৎ করেছেন।",
-        "lead_en": "Envoys from the United States, the United Kingdom, the European Union, China and India called on Foreign Minister Khalilur Rahman in Dhaka.",
+        "published_at": "2026-11-19T14:42:20+00:00",
+        "lead_bn": "পুলিশ সদর দপ্তরের দেওয়া পরিসংখ্যানে গত ৭ থেকে ১৮ নভেম্বর পর্যন্ত দেশজুড়ে ৭৪টি পরিবহনে অগ্নিসংযোগ ও ৭৮টি স্থানে ককটেল বিস্ফোরণের তথ্য জানানো হয়েছে।",
+        "lead_en": "Police headquarters statistics show 74 vehicles torched and crude bomb blasts at 78 sites nationwide between November 7 and 18.",
         "bullets_bn": [
-          "যুক্তরাষ্ট্রের রাষ্ট্রদূত ব্রেন্ট টি ক্রিস্টেনসেন মার্কিন থেস্কগিভিং ডে উপলক্ষে শুভেচ্ছা বিনিময় করেন এবং দ্বিপক্ষীয় সম্পর্ক নিয়ে আলোচনা করেন।",
-          "যুক্তরাজ্যের হাইকমিশনার সারাহ কুক দ্বিপক্ষীয় সম্পর্ক শক্তিশালী করার উপায় এবং রোহিঙ্গা সংকট নিয়ে আলোচনা করেন।",
-          "ভারতের হাইকমিশনার দিনেশ ত্রিবেদী জাতিসংঘ সাধারণ পরিষদের ৮১তম অধিবেশনের সভাপতি হিসেবে খলিলুর রহমানকে শুভেচ্ছা জানান।"
+          "এসব নাশকতার ঘটনায় পুলিশ মোট ৩৮টি মামলা দায়ের করেছে।",
+          "পুলিশ সদর দপ্তরের তথ্য অনুযায়ী এ পর্যন্ত ৬৩ জনকে গ্রেপ্তার করা হয়েছে।",
+          "একই সময়ে পুলিশের তিনটি স্থাপনায় অগ্নিসংযোগ ও ভাঙচুর এবং ১৮টি গাড়িতে আগুন দেওয়া হয়েছে।"
         ],
         "bullets_en": [
-          "US Ambassador Brent T Christensen exchanged Thanksgiving greetings and discussed bilateral relations with the foreign minister.",
-          "British High Commissioner Sarah Cooke discussed ways to strengthen bilateral ties and the Rohingya crisis.",
-          "Indian High Commissioner Dinesh Trivedi greeted Khalilur in his capacity as president of the UNGA."
+          "Police have filed a total of 38 cases over these sabotage incidents.",
+          "A total of 63 people have been arrested according to police headquarters information.",
+          "During the same period, three police installations were torched and vandalized, and 18 vehicles were set on fire."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "পররাষ্ট্র মন্ত্রণালয়ের এক প্রেস বিজ্ঞপ্তিতে জানানো হয়, বৈঠকটি মন্ত্রণালয়ে অনুষ্ঠিত হয়। বৈঠকে মার্কিন রাষ্ট্রদূত ব্রেন্ট টি ক্রিস্টেনসেন, ভারতীয় হাইকমিশনার দিনেশ ত্রিবেদী, ব্রিটিশ হাইকমিশনার সারাহ কুক, ইইউ রাষ্ট্রদূত মাইকেল মিলার এবং চীনা দূতাবাসের চার্জ দ্য ডাফেয়ার্স লিউ ইউয়িন অংশ নেন। ভারতীয় হাইকমিশনার জানান, তিনি খলিলুর রহমানের কাছে জাতিসংঘ সংস্কার বিষয়ে তার দৃষ্টিভঙ্গি জানতে আগ্রহী ছিলেন।",
-        "details_en": "According to a foreign ministry press release, the meeting took place at the Ministry of Foreign Affairs in Dhaka. The envoys included US Ambassador Brent T Christensen, Indian High Commissioner Dinesh Trivedi, British High Commissioner Sarah Cooke, EU Ambassador Michael Miller and Chinese Embassy Chargé d’Affaires Liu Yuyin. Trivedi noted he was keen to learn about Khalilur’s views on UN reforms.",
-        "hook_bn": "পররাষ্ট্রমন্ত্রীর সঙ্গে যুক্তরাষ্ট্র ও চীনসহ পাঁচ দেশের বৈঠক",
-        "kicker_bn": null,
+        "details_bn": "গত ৭ থেকে ১৮ নভেম্বর পর্যন্ত দেশজুড়ে নাশকতামূলক কর্মকাণ্ডের ঘটনা বেড়েছে। পুলিশের তথ্য অনুযায়ী ওই ১২ দিনে পুলিশের দুটি স্থাপনায় ককটেল বিস্ফোরণ ঘটেছে। এছাড়া পুলিশ সদর দপ্তরের দেওয়া পরিসংখ্যানে এসব তথ্য জানানো হয়।",
+        "details_en": "Sabotage activities increased nationwide between November 7 and 18. According to police information, crude bombs exploded at two police installations during those 12 days. Police headquarters provided these statistics on Thursday.",
+        "hook_bn": "৭৪ পরিবহনে আগুন ও ককটেল বিস্ফোরণ",
+        "kicker_bn": "নাশকতা",
         "share_value": false,
-        "question_bn": "বিদেশি কূটনীতিকদের সঙ্গে এই বৈঠকের ফলে বাংলাদেশের দ্বিপক্ষীয় সম্পর্ক কীভাবে এগোবে বলে আপনার মনে হয়?"
+        "question_bn": null
       },
+      "desk_importance": 7.0,
+      "outlet_count": 3,
+      "trending": true,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-19T14:07:43.557613+00:00"
+        "checked_at": "2026-11-19T16:10:53.325993+00:00"
       }
     },
     {
-      "story_id": "3d905365-2eba-5ab1-959c-1dafb10ca019",
+      "story_id": "59d35d50-fd02-59c5-92b0-2ece5b1d0562",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Gopalganj",
+        "#AwamiLeague",
+        "#BangladeshRailway"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2024/03/12/railway.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-19T14:30:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 8.0,
+      "rank_score": 5.8351,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/train-services-and-through-gopalganj-suspended-amid-security-concerns-1608176",
+          "title": "Train services to and through Gopalganj suspended amid security concerns",
+          "snippet": "Train services to and through Gopalganj suspended amid security concerns"
+        },
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/543o832g1e",
+          "title": "পদ্মা সেতু হয়ে চার জেলার বাস চলাচল বন্ধ",
+          "snippet": "পদ্মা সেতু হয়ে চার জেলার বাস চলাচল বন্ধ"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821955/%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BF%E0%A6%B0%E0%A6%A4%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA-%E0%A6%AA%E0%A6%A5%E0%A7%87-%E0%A6%9A%E0%A7%81%E0%A7%9F%E0%A6%BE%E0%A6%A1%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE-%E0%A6%A6%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A6%A8%E0%A6%BE",
+          "title": "গোপালগঞ্জে অস্থিরতা, বিকল্প পথে চুয়াডাঙ্গা-দর্শনা হয়ে বেনাপোলে রূপসী বাংলা",
+          "snippet": "গোপালগঞ্জে অস্থিরতা, বিকল্প পথে চুয়াডাঙ্গা-দর্শনা হয়ে বেনাপোলে রূপসী বাংলা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নিরাপত্তাজনিত কারণে গোপালগঞ্জ ও এর মধ্য দিয়ে ট্রেন চলাচল স্থগিত",
+        "title_en": "Train services to and through Gopalganj suspended amid security concerns",
+        "summary_bn": "নিরাপত্তাজনিত কারণে এবং নিষিদ্ধ ঘোষিত আওয়ামী লীগের নেতাকর্মীদের কর্মকাণ্ডের ফলে গোপালগঞ্জ রুটে ট্রেন চলাচল স্থগিত বা সংক্ষিপ্ত করা হয়েছে।",
+        "summary_en": "Train services to and through Gopalganj have been suspended or curtailed amid security concerns and activities of the banned Awami League.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T14:30:00+00:00",
+        "lead_bn": "নিরাপত্তাজনিত কারণে এবং নিষিদ্ধ ঘোষিত আওয়ামী লীগের নেতাকর্মীদের কর্মকাণ্ডের ফলে গোপালগঞ্জ রুটে ট্রেন চলাচল স্থগিত বা সংক্ষিপ্ত করা হয়েছে।",
+        "lead_en": "Train services to and through Gopalganj have been suspended or curtailed amid security concerns and activities of the banned Awami League.",
+        "bullets_bn": [
+          "রূপসী বাংলা এক্সপ্রেস, টুঙ্গিপাড়া এক্সপ্রেস, অভিযাত্রী কমিউটার এবং একটি লোকাল ট্রেনসহ চারটি সেবা এই পরিস্থিতিতে প্রভাবিত হয়েছে।",
+          "ঢাকা থেকে বেনাপোলে যাওয়ার পথে রূপসী বাংলা এক্সপ্রেস ১৮ নভেম্বর ভাঙ্গার পর আর সামনে এগোতে পারেনি।",
+          "রেলওয়ে সূত্র জানায়, গোপালগঞ্জ ও নড়াইলে নিরাপত্তা আশঙ্কার কারণে ট্রেন চলাচল স্থগিত করা হয়েছে।"
+        ],
+        "bullets_en": [
+          "Four services including the Ruposhi Bangla Express, Tungipara Express, Abhijatri commuter and a local train have been affected.",
+          "The Ruposhi Bangla Express travelling from Dhaka to Benapole could not continue beyond Bhanga railway station on 18 November.",
+          "Railway officials stated that the suspension was prompted by security concerns in Gopalganj and Narail."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "নিষিদ্ধ ঘোষিত আওয়ামী লীগের নেতাকর্মীদের আক্রমণ, অগ্নিসংযোগ ও বিক্ষোভের পরিপ্রেক্ষিতে গোপালগঞ্জে এই পরিস্থিতির সৃষ্টি হয়। এর ফলে রূপসী বাংলা এক্সপ্রেস ট্রেনটি বিকল্প রুট হিসেবে চুয়াডাঙ্গার দর্শনা রেলপথ ব্যবহার করে বেনাপোলের দিকে যাত্রা করে। এছাড়া পদ্মাসেতু হয়ে চার জেলার বাস চলাচলও বন্ধ রয়েছে।",
+        "details_en": "The situation arose in Gopalganj amid a series of attacks, arson incidents and demonstrations by activists of the banned Awami League. Consequently, the Ruposhi Bangla Express travelled towards Benapole using an alternative route via the Chuadanga-Darshana railway. Bus services through the Padma Bridge from four districts were also suspended.",
+        "hook_bn": "গোপালগঞ্জে নিরাপত্তাহীনতায় ট্রেন ও বাস চলাচল বন্ধ",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 3,
+      "trending": true,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-19T16:10:53.325993+00:00"
+      }
+    },
+    {
+      "story_id": "db63cf63-6459-57ca-87be-27d9b86a0409",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business",
-        "climate_environment",
         "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#WorldBank",
-        "#BangladeshEconomy",
-        "#PublicFinance"
+        "#Bangladesh",
+        "#WorldBank"
       ],
       "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-05/world%20bank.png",
       "image_caption": null,
-      "published_at": "2026-11-19T11:01:53+00:00",
+      "published_at": "2026-11-19T15:43:26+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 4.7078,
+      "importance_score": 7.25,
+      "rank_score": 5.1434,
       "sources": [
         {
           "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/news/revenue-shortfall-squeezes-bangladeshs-development-investment-world-bank-4328156",
-          "title": "Revenue shortfall squeezes Bangladesh’s development investment: World Bank",
-          "snippet": "Revenue shortfall squeezes Bangladesh’s development investment: World Bank"
+          "url": "https://www.thedailystar.net/business/news/bangladesh-risks-low-growth-cycle-world-bank-warns-4328371",
+          "title": "Bangladesh risks low-growth cycle, World Bank warns",
+          "snippet": "Bangladesh risks low-growth cycle, World Bank warns"
         },
         {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
-          "title": "AI demand will push up interest rates around the world, IMF head warns",
-          "snippet": "AI demand will push up interest rates around the world, IMF head warns"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/fiscal-reforms-could-raise-bangladeshs-annual-growth-57-world-bank-1608141",
+          "title": "Fiscal reforms could raise Bangladesh's annual growth to 5.7%: WB",
+          "snippet": "Fiscal reforms could raise Bangladesh's annual growth to 5.7%: WB"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রাজস্ব ঘাটতি ও ব্যয় বৃদ্ধিতে কমছে বাংলাদেশের উন্নয়ন বিনিয়োগ",
-        "title_en": "Revenue shortfall and rising spending squeeze Bangladesh development investment",
-        "summary_bn": "দুর্বল রাজস্ব আদায় ও ক্রমবর্ধমান ব্যয় বাংলাদেশের উন্নয়ন বিনিয়োগকে সংকুচিত করছে বলে জানিয়েছে বিশ্ব ব্যাংক।",
-        "summary_en": "Weak revenue collection and rising spending are squeezing Bangladesh development investment, the World Bank said.",
+        "title_bn": "সংস্কার ছাড়া নিম্ন প্রবৃদ্ধির চক্রে পড়তে পারে বাংলাদেশ",
+        "title_en": "Bangladesh risks low-growth cycle without reforms, World Bank warns",
+        "summary_bn": "সংস্কার না করলে ২০৩৫ সাল পর্যন্ত দশকে বাংলাদেশের গড় অর্থনৈতিক প্রবৃদ্ধি ৪.২ শতাংশে सीमित থাকতে পারে বলে সতর্ক করেছে বিশ্বব্যাংক।",
+        "summary_en": "Bangladesh risks remaining trapped in a low-growth cycle with average economic growth projected at 4.2 percent unless it undertakes reforms, the World Bank warned.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business",
-          "climate_environment",
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-19T11:01:53+00:00",
-        "lead_bn": "দুর্বল রাজস্ব আদায় ও ক্রমবর্ধমান ব্যয় বাংলাদেশের উন্নয়ন বিনিয়োগকে সংকুচিত করছে বলে জানিয়েছে বিশ্ব ব্যাংক।",
-        "lead_en": "Weak revenue collection and rising spending are squeezing Bangladesh development investment, the World Bank said.",
+        "published_at": "2026-11-19T15:43:26+00:00",
+        "lead_bn": "সংস্কার না করলে ২০৩৫ সাল পর্যন্ত দশকে বাংলাদেশের গড় অর্থনৈতিক প্রবৃদ্ধি ৪.২ শতাংশে सीमित থাকতে পারে বলে সতর্ক করেছে বিশ্বব্যাংক।",
+        "lead_en": "Bangladesh risks remaining trapped in a low-growth cycle with average economic growth projected at 4.2 percent unless it undertakes reforms, the World Bank warned.",
         "bullets_bn": [
-          "অর্থবছর ২০২৫ সালে কর রাজস্ব জিডিপির ৬.৮ শতাংশ এবং মোট রাজস্ব ৮ শতাংশে দাঁড়িয়েছে।",
-          "পুঁজিগত ব্যয় অর্থবছর ২০২২ সালের জিডিপির ৪.৯ শতাংশ থেকে কমে অর্থবছর ২০২৫ সালে ২.৮ শতাংশ হয়েছে।",
-          "সংস্কার বাস্তবায়ন করা হলে অর্থবছর ২০৩৫ সাল নাগাদ সরকারি রাজস্ব জিডিপির ১৪.৪ শতাংশে উন্নীত হতে পারে।"
+          "টেকসই সংস্কার করা হলে বার্ষিক গড় প্রবৃদ্ধি বাড়িয়ে ৫.৭ শতাংশ করা সম্ভব বলে জানিয়েছে বিশ্বব্যাংক।",
+          "সংস্কার পরিকল্পনা বাস্তবায়ন হলে ২০৩৪-৩৫ অর্থবছরে প্রবৃদ্ধির হার ৬.২ শতাংশে পৌঁছাতে পারে।",
+          "রাজস্ব ও ব্যয় সংস্কারের মাধ্যমে প্রবৃদ্ধি বাড়ানোর পাশাপাশি রাজকোষের বিচক্ষণতা নিশ্চিত করা সম্ভব বলে উল্লেখ করা হয়েছে।"
         ],
         "bullets_en": [
-          "Tax revenue stood at 6.8 percent of GDP and total revenue at 8 percent in FY2025.",
-          "Capital expenditure fell from 4.9 percent of GDP in FY2022 to 2.8 percent in FY2025.",
-          "Reforms could raise government revenue to 14.4 percent of GDP by FY2035 if fully implemented."
+          "Sustained reforms could lift average annual economic growth to 5.7 percent, according to the World Bank.",
+          "The growth rate could reach 6.2 percent by fiscal year 2034-35 under a reform scenario.",
+          "Revenue and expenditure reforms can raise growth significantly while ensuring fiscal prudence, the World Bank stated."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বিশ্ব ব্যাংকের বাংলাদেশ পাবলিক ফাইন্যান্স রিভিউ ২০২৬ প্রতিবেদনে বলা হয়েছে, সরকারের সীমিত রাজস্ব ভিত্তি, সুদের পরিশোধ বৃদ্ধি এবং জ্বালানি ভর্তুকির কারণে উন্নয়ন ব্যয়ের জন্য সামান্য আর্থিক সুযোগ রয়েছে। অর্থনীতি তরুণ শ্রমশক্তির জন্য পর্যাপ্ত ভালো কর্মসংস্থান তৈরি করছে না, যেখানে তিনজনে পাঁচজন কর্মক্ষম নারী শ্রমশক্তির বাইরে রয়েছেন এবং ৮৪ শতাংশ কর্মী অনানুষ্ঠানিক কাজে নিয়োজিত আছেন।",
-        "details_en": "The World Bank Bangladesh Public Finance Review 2026 report stated that the government limited revenue base, rising interest payments and mounting energy subsidies left little fiscal room for development spending. The economy is not generating enough good jobs for its young labour force, with three in five working-age women outside the labour force and 84 percent of workers in informal jobs.",
-        "hook_bn": "উন্নয়ন বিনিয়োগ কমাচ্ছে রাজস্ব ঘাটতি",
+        "details_bn": "অর্থবছরে কর রাজস্ব জিডিপির ৬.৮ শতাংশ ছিল এবং মূলধন ব্যয় ২০২২ অর্থবছরের জিডিপির ৪.৯ শতাংশ থেকে কমে ২.৮ শতাংশে নেমেছিল। সংস্কারের ফলে গার্হস্থ্য রাজস্ব বৃদ্ধি এবং ভর্তুকি কমানোর সুযোগ তৈরি হতে পারে বলে প্রতিবেদনে উল্লেখ করা হয়েছে।",
+        "details_en": "Tax revenue was just 6.8 percent of GDP in fiscal year 2025, while capital spending fell from 4.9 percent of GDP in fiscal year 2022 to 2.8 percent. The report notes that reforms could raise domestic revenue and reduce subsidies.",
+        "hook_bn": "নিম্ন প্রবৃদ্ধির ঝুঁকিতে বাংলাদেশের অর্থনীতি",
         "kicker_bn": "সতর্কতা",
         "share_value": false,
-        "question_bn": "অর্থনৈতিক প্রবৃদ্ধি বাড়াতে রাজস্ব সংগ্রহ ও কর ব্যবস্থাপনায় কী ধরনের সংস্কার প্রয়োজন বলে আপনি মনে করেন?"
+        "question_bn": "অর্থনৈতিক প্রবৃদ্ধি বাড়াতে রাজস্ব সংস্কার কতটা জরুরি বলে আপনি মনে করেন?"
       },
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-19T14:07:43.557613+00:00"
+        "checked_at": "2026-11-19T16:10:53.325993+00:00"
       }
     },
     {
-      "story_id": "9590cb46-d821-512d-8da3-6289d83dac0f",
-      "primary_category": "governance_law",
+      "story_id": "66984526-6811-5816-a3a0-5f32434a70cf",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-19%2Fjb3b6xlo%2Fuimage-13.jpg?rect=0%2C3%2C750%2C394&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-19T11:06:34+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 3.6622,
-      "sources": [
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/3ux99lhgmn",
-          "title": "অগ্নি সন্ত্রাসীদের জবাব দিতে হবে—‘যথেষ্ট হয়েছে, আর নয়’: প্রধানমন্ত্রী",
-          "snippet": "অগ্নি সন্ত্রাসীদের জবাব দিতে হবে—‘যথেষ্ট হয়েছে, আর নয়’: প্রধানমন্ত্রী"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "অগ্নি সন্ত্রাসীদের পরিষ্কার জবাব দেওয়ার আহ্বান জানিয়েছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "title_en": "Prime Minister Tarique Rahman called for a clear response against arson terrorists.",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান লালমনিরহাটে এক জনসভায় কার্যক্রম নিষিদ্ধ আওয়ামী লীগকে উদ্দেশ করে বলেছেন, অগ্নি সন্ত্রাসী ও খুনিদের পরিষ্কার জবাব দিতে হবে।",
-        "summary_en": "Prime Minister Tarique Rahman told a rally in Lalmonirhat that a clear response must be given to arson terrorists and murderers.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-19T11:06:34+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান লালমনিরহাটে এক জনসভায় কার্যক্রম নিষিদ্ধ আওয়ামী লীগকে উদ্দেশ করে বলেছেন, অগ্নি সন্ত্রাসী ও খুনিদের পরিষ্কার জবাব দিতে হবে।",
-        "lead_en": "Prime Minister Tarique Rahman told a rally in Lalmonirhat that a clear response must be given to arson terrorists and murderers.",
-        "bullets_bn": [
-          "প্রধানমন্ত্রী লালমনিরহাট সদর উপজেলার মহেন্দ্রনগর পানি নিষ্কাশন খাল পুনঃখনন কর্মসূচির উদ্বোধন করেন।",
-          "তিনি বলেন যে দেশের মানুষ আর গুম-খুন, অগ্নি সন্ত্রাস ও ভোটাধিকার হরণের রাজনীতিতে ফিরে যেতে চায় না।",
-          "তিনি চব্বিশের সময় গণতন্ত্রের জন্য যুদ্ধ করা সকল রাজনৈতিক দলকে ঐক্যবদ্ধ হওয়ার আহ্বান জানান।"
-        ],
-        "bullets_en": [
-          "The Prime Minister inaugurated the Mahendranagar water drainage canal re-excavation program in Lalmonirhat Sadar upazila.",
-          "He stated that the people of the country no longer want to return to the politics of disappearance, murder, arson, and deprivation of voting rights.",
-          "He called upon all political parties that fought for democracy during the twenty-fourth to unite."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "লালমনিরহাট সদর উপজেলার মহেন্দ্রনগর পানি নিষ্কাশন খাল পুনঃখনন কর্মসূচির উদ্বোধন শেষে জেলা বিএনপি আয়োজিত জনসভায় প্রধানমন্ত্রী এই বক্তব্য দেন। তিনি উল্লেখ করেন যে ১৬ বছর ধরে একটি সন্ত্রাসী গ্রুপ জনগণের বুকে বন্দুক ঠেকিয়ে জোর করে শাসন চালিয়েছে এবং দেশের টাকা বিদেশে পাচার করেছে।",
-        "details_en": "The Prime Minister made these remarks at a public meeting organized by the district BNP after inaugurating the Mahendranagar water drainage canal re-excavation program in Lalmonirhat Sadar upazila. He mentioned that for sixteen years a terrorist group ruled the country by force holding guns to people's chests and laundered the country's money abroad.",
-        "hook_bn": "অগ্নি সন্ত্রাসী ও খুনিদের পরিষ্কার জবাব দিতে হবে",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-19T14:07:43.557613+00:00"
-      }
-    },
-    {
-      "story_id": "77ad0692-8053-5888-a23d-ccbe7695d80a",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#BaitulMukarram",
-        "#RuhulAmin",
-        "#DhakaCourt",
-        "#CID"
+        "#BangladeshBank",
+        "#Tk20Note",
+        "#Tk50Note",
+        "#AreifHossainKhan"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2024/09/22/ruhul_amin.png",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2021/09/28/taka.gif",
       "image_caption": null,
-      "published_at": "2026-11-19T13:45:00+00:00",
+      "published_at": "2026-11-19T15:40:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5253,
+      "importance_score": 6.25,
+      "rank_score": 3.8098,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/court/ex-baitul-mukarram-khatib-ruhul-amin-sent-five-day-remand-attempted-murder-case",
-          "title": "Ex-Baitul Mukarram khatib Ruhul Amin sent to five-day remand in attempted murder case",
-          "snippet": "Ex-Baitul Mukarram khatib Ruhul Amin sent to five-day remand in attempted murder case"
+          "url": "https://www.tbsnews.net/economy/banking/new-tk20-tk50-notes-enter-market-next-week-1608231",
+          "title": "New Tk20, Tk50 notes to enter market next week",
+          "snippet": "New Tk20, Tk50 notes to enter market next week"
         },
         {
           "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/court/425171/former-baitul-mukarram-khatib-ruhul-amin-placed-on",
-          "title": "Ex-Baitul Mukarram khatib placed on 5-day remand",
-          "snippet": "Ex-Baitul Mukarram khatib placed on 5-day remand"
+          "url": "https://www.dhakatribune.com/business/425189/bb-to-release-tk20-and-tk50-notes-next-week",
+          "title": "BB to release Tk20 and Tk50 notes next week",
+          "snippet": "BB to release Tk20 and Tk50 notes next week"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সাবেক খতিব রুহুল আমিন পাঁচ দিনের রিমান্ডে",
-        "title_en": "Ex-khatib Ruhul Amin sent to five-day remand",
-        "summary_bn": "ঢাকার একটি আদালত ১৯ নভেম্বর বায়তুল মোকাররম জাতীয় মসজিদের সাবেক খতিব মুfti রুহুল আমিনকে পাঁচ দিনের রিমান্ডে পাঠিয়েছে।",
-        "summary_en": "A Dhaka court on 19 November placed former Baitul Mukarram National Mosque khatib Mufti Ruhul Amin on a five-day remand.",
+        "title_bn": "বাজারে আসছে নতুন ডিজাইনের ২০ ও ৫০ টাকার নোট",
+        "title_en": "New Tk20 and Tk50 notes to enter market next week",
+        "summary_bn": "বাংলাদেশ ব্যাংক জানিয়েছে, নতুন ডিজাইনের ২০ ও ৫০ টাকার ব্যাংকনোট আগামী সপ্তাহে বাজারে প্রবেশ করতে পারে।",
+        "summary_en": "Newly designed Tk20 and Tk50 banknotes are expected to enter the market next week, Bangladesh Bank has said.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-19T13:45:00+00:00",
-        "lead_bn": "ঢাকার একটি আদালত ১৯ নভেম্বর বায়তুল মোকাররম জাতীয় মসজিদের সাবেক খতিব মুfti রুহুল আমিনকে পাঁচ দিনের রিমান্ডে পাঠিয়েছে।",
-        "lead_en": "A Dhaka court on 19 November placed former Baitul Mukarram National Mosque khatib Mufti Ruhul Amin on a five-day remand.",
+        "published_at": "2026-11-19T15:40:00+00:00",
+        "lead_bn": "বাংলাদেশ ব্যাংক জানিয়েছে, নতুন ডিজাইনের ২০ ও ৫০ টাকার ব্যাংকনোট আগামী সপ্তাহে বাজারে প্রবেশ করতে পারে।",
+        "lead_en": "Newly designed Tk20 and Tk50 banknotes are expected to enter the market next week, Bangladesh Bank has said.",
         "bullets_bn": [
-          "সিআইডি হামলা এবং অর্থায়নের বিষয়ে জিজ্ঞাসাবাদ করতে রিমান্ড চেয়েছিল।",
-          "রাষ্ট্রপক্ষের কৌঁসুলি ওমর ফারুক ফারুকী হামলা ও মারধরের অভিযোগ তোলেন।",
-          "প্রতিরক্ষা আইনজীবীরা জামিন চেয়ে রিমান্ডের বিরোধিতা করেন।"
+          "বাংলাদেশ ব্যাংকের মুখপাত্র আরিফ হোসেন খান জানিয়েছেন, ১০০ টাকার নোট বিদ্যমান ডিজাইন দিয়েই পুনঃইস্যু করা হবে।",
+          "গাজীপুরে গার্মেন্ট শ্রমিকদের প্রতিবাদের কারণে নিরাপত্তা ব্যবস্থার ঘাটতি থাকায় নোট বিতরণে বিলম্ব হয়েছে বলে এক কেন্দ্রীয় ব্যাংক কর্মকর্তা জানিয়েছেন।",
+          "বাংলাদেশ ব্যাংক বাংলা কিউআর-এর মাধ্যমে ডিজিটাল লেনদেনের ব্যবহার বৃদ্ধির ওপর জোর দিচ্ছে।"
         ],
         "bullets_en": [
-          "The CID sought remand to question Ruhul Amin about the attack and financing.",
-          "State prosecutor Omar Faruk Faruqui alleged involvement in the attack and assault.",
-          "Defence lawyers opposed the remand and sought bail."
+          "The Tk100 note will be reissued with its existing design, Bangladesh Bank spokesperson Areif Hossain Khan has said.",
+          "A central bank official said distribution was delayed as security arrangements could not be ensured amid garment workers' protests in Gazipur.",
+          "Bangladesh Bank is encouraging greater use of digital transactions through Bangla QR to reduce small-denomination cash demand."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "২০২৪ সালের সেপ্টেম্বর মাসে জুমার নামাজের সময় মুসল্লিদের ওপর হামলা এবং হত্যাচেষ্টার মামলায় তাকে গ্রেফতার করা হয়। রাষ্ট্রপক্ষের দাবি অনুযায়ী, ওলামা লীগের কর্মীরা খতিব আবু সালেহ পাটোয়ারীকে মিম্বর থেকে টেনে নামান এবং রুহুল আমিনের নির্দেশে জিয়াউর রহমানকে রড দিয়ে মারধর করা হয়।",
-        "details_en": "He was arrested in a case over an attack on worshippers and attempted murder during Friday prayers in September 2024. The prosecution alleged that Olama League activists dragged Imam Abu Saleh Patwari from the minbar and Ziaur Rahman was beaten with iron rods on Ruhul Amin's instructions.",
-        "hook_bn": "বায়তুল মোকাররমের সাবেক খতিব রিমান্ডে",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
+        "details_bn": "ছোট নোটের ঘাটতির কারণে বাজারে ছেঁড়া ও পুরোনো মুদ্রার ছড়াছড়ি দেখা দেওয়ায় নতুন নোট আনার এই উদ্যোগ নেওয়া হয়েছে। সিকিউরিটি প্রিন্টিং কর্পোরেশন নোটগুলোর প্রিন্টিং শেষ করে আগামী সপ্তাহের মধ্যে কেন্দ্রীয় ব্যাংকের কাছে হস্তান্তর করবে এবং এরপর বাণিজ্যিক ব্যাংকগুলোর মাধ্যমে তা সরবরাহ করা হবে। জুন মাসে ছাপানো টাকা বা রিজার্ভ মানি ছিল ৪.৭৬ লক্ষ কোটি টাকার কিছুটা বেশি, যার প্রায় ৩.৩৬ লক্ষ কোটি টাকা মানুষের হাতে ছিল।",
+        "details_en": "The initiative comes as a shortage of fresh notes has left circulation flooded with torn and worn-out currency. The Security Printing Corporation will deliver the printed notes to the central bank next week for distribution to commercial banks. Central bank data shows reserve money stood at slightly over Tk4.76 lakh crore in June, with around Tk3.36 lakh crore held by the public.",
+        "hook_bn": "বাজারে আসছে নতুন নোট",
+        "kicker_bn": "নতুন তারিখ",
+        "share_value": true,
+        "question_bn": "আপনার মানিব্যাগে কি বর্তমানে ছেঁড়া বা পুরোনো নোট বেশি থাকে?"
       },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-19T14:07:43.557613+00:00"
+        "checked_at": "2026-11-19T16:10:53.325993+00:00"
       }
     },
     {
-      "story_id": "aba7f35e-4d97-5d7b-8034-3a993c8995cd",
-      "primary_category": "world_diplomacy",
+      "story_id": "7a6052b1-c931-570f-9d49-61246162f67a",
+      "primary_category": "tech_innovation",
       "interest_categories": [
-        "world_diplomacy",
-        "climate_environment"
+        "tech_innovation",
+        "governance_law",
+        "world_diplomacy"
       ],
       "region": "international",
       "tags": [
-        "#Trump",
-        "#XiJinping",
-        "#Putin",
-        "#APEC"
+        "#EuropeanCommission",
+        "#Cyberattack"
       ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2305839919-1795078098.jpg?resize=1920%2C1440",
+      "image_url": "https://static.dw.com/image/79958544_6.jpg",
       "image_caption": null,
-      "published_at": "2026-11-19T13:13:53+00:00",
+      "published_at": "2026-11-19T14:58:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.1,
-      "rank_score": 2.4719,
+      "importance_score": 5.0,
+      "rank_score": 2.3416,
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways?traffic_source=rss",
-          "title": "‘Groundbreaking’ Trump-Xi-Putin summit: Five key takeaways",
-          "snippet": "‘Groundbreaking’ Trump-Xi-Putin summit: Five key takeaways"
-        },
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/donald-trump-xi-jinping-vladimir-putin-trilateral-meeting-in-shenzhen-live-updates-november-19-2026/article71718525.ece",
-          "title": "Xi-Trump-Putin trilateral meeting highlights: Xi-Trump-Putin summit in China ends; major powers must not touch each other's bottom lines on sensitive issues, says Xi",
-          "snippet": "Xi-Trump-Putin trilateral meeting highlights: Xi-Trump-Putin summit in China ends; major powers must not touch"
-        },
-        {
           "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/apec-summit-trump-xi-putin-talks-end-with-peace-declaration/live-79964719?maca=en-rss-en-all-1573-rdf",
-          "title": "APEC summit: Trump, Xi, Putin talks end with 'peace declaration'",
-          "snippet": "APEC summit: Trump, Xi, Putin talks end with 'peace declaration'"
+          "url": "https://www.dw.com/en/eu-commission-confirms-it-was-targeted-in-cyberattack-using-ai-tools/a-79993016?maca=en-rss-en-all-1573-rdf",
+          "title": "EU Commission confirms it was targeted in cyberattack using AI tools",
+          "snippet": "EU Commission confirms it was targeted in cyberattack using AI tools"
         }
       ],
       "daily_buzz": {
-        "title_bn": "যুক্তরাষ্ট্র, চীন ও রাশিয়ার শীর্ষ নেতারা শান্তি ঘোষণা জারি করেছেন",
-        "title_en": "US, China and Russia top leaders issue peace declaration",
-        "summary_bn": "যুক্তরাষ্ট্র, চীন ও রাশিয়ার প্রেসিডেন্টরা চীনের শেনজেনে এক অভূতপূর্ব সম্মেলনে শক্তি প্রবাহ স্থিতিশীল রাখতে এবং পারমাণবিক বিস্তৃতি রোধে সম্মত হয়েছেন।",
-        "summary_en": "The presidents of the United States, China and Russia agreed at an unprecedented summit in Shenzhen, China to stabilise energy flows and prevent nuclear proliferation.",
+        "title_bn": "কৃত্রিম বুদ্ধিমত্তা সরঞ্জাম ব্যবহার করে সাইবার হামলার শিকার হয়েছে ইউরোপীয় কমিশন।",
+        "title_en": "European Commission targeted in cyberattack using AI tools.",
+        "summary_bn": "ইউরোপীয় কমিশন নিশ্চিত করেছে যে তারা কৃত্রিম বুদ্ধিমত্তা সরঞ্জাম ব্যবহার করে চালিত একটি সাইবার হামলার শিকার হয়েছে।",
+        "summary_en": "The European Commission confirmed that it was targeted by a cyberattack through the use of AI tools.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "climate_environment"
+          "tech_innovation",
+          "governance_law",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-19T13:13:53+00:00",
-        "lead_bn": "যুক্তরাষ্ট্র, চীন ও রাশিয়ার প্রেসিডেন্টরা চীনের শেনজেনে এক অভূতপূর্ব সম্মেলনে শক্তি প্রবাহ স্থিতিশীল রাখতে এবং পারমাণবিক বিস্তৃতি রোধে সম্মত হয়েছেন।",
-        "lead_en": "The presidents of the United States, China and Russia agreed at an unprecedented summit in Shenzhen, China to stabilise energy flows and prevent nuclear proliferation.",
+        "published_at": "2026-11-19T14:58:00+00:00",
+        "lead_bn": "ইউরোপীয় কমিশন নিশ্চিত করেছে যে তারা কৃত্রিম বুদ্ধিমত্তা সরঞ্জাম ব্যবহার করে চালিত একটি সাইবার হামলার শিকার হয়েছে।",
+        "lead_en": "The European Commission confirmed that it was targeted by a cyberattack through the use of AI tools.",
         "bullets_bn": [
-          "নেতারা শক্তি প্রবাহ স্থিতিশীল করা এবং পারমাণবিক বিস্তৃতি রোধে কাজ করার যৌথ ইচ্ছা ঘোষণা করেছেন।",
-          "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প বৈঠকটিকে ইতিহাসের অংশ বলে অভিহিত করেছেন।",
-          "বৈঠকের পর মার্কিন প্রেসিডেন্ট ট্রাম্প বিমানবন্দরের উদ্দেশ্যে রওনা হন।"
+          "ঘটনাটি গত ২২ অক্টোবর শনাক্ত করা হয় এবং কমিশনের কর্মীদের ডেটা লঙ্ঘনের কোনো প্রমাণ পাওয়া যায়নি।",
+          "ইউরোপীয় কমিশনের মুখপাত্র থমাস রেনিয়ে এটিকে একটি কৃত্রিম বুদ্ধিমত্তা-নাস্রিত সাইবার অভিযান বলে অভিহিত করেছেন।",
+          "কমিশন এই হামলার বিষয়ে প্রয়োজনীয় পদক্ষেপ গ্রহণ করেছে বলে মুখপাত্র জানিয়েছেন।"
         ],
         "bullets_en": [
-          "The leaders declared a shared intent to stabilise energy flows and prevent nuclear proliferation.",
-          "US President Donald Trump described the meeting as making history.",
-          "Following the talks, US President Trump reportedly headed to the airport."
+          "The incident was detected on October 22 and there was no evidence of a data breach affecting Commission staff.",
+          "European Commission spokesperson Thomas Regnier called the incident an AI-generated cybercampaign.",
+          "The spokesperson stated that the Commission has taken the necessary steps in response to the attack."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "চীনের শেনজেনে এশিয়া-প্যাসিফিক ইকোনমিক কোঅপারেশন শীর্ষ সম্মেলনের পার্শ্ব বৈঠকে চীনা প্রেসিডেন্ট শি জিনপিং এই সম্মেলনের সভাপতিত্ব করেন। মার্কিন যুদ্ধ এবং রাশিয়ার যুদ্ধসহ একাধিক যুদ্ধ বিশ্বজুড়ে অর্থনীতি ও মানুষের ওপর ভারী বোঝা চাপিয়েছে এমন এক সময়ে এই নেতারা মিলিত হন।",
-        "details_en": "Chinese President Xi Jinping chaired the summit held on the sidelines of the annual Asia-Pacific Economic Cooperation conclave in Shenzhen, China. The leaders met at a time when multiple wars, including the US war on Iran and Russia's war on Ukraine, have taken a heavy toll on economies and people around the world.",
-        "hook_bn": "'আমরা ইতিহাস তৈরি করছি'",
-        "kicker_bn": null,
+        "details_bn": "পলিটিকোর এক প্রতিবেদনে বলা হয়েছে, এই সাইবার হামলায় প্রায় ৩৩ হাজার কর্মী সংবলিত ইউরোপীয় কমিশনের বেশ কয়েকটি সিস্টেম ১০ দিন ধরে ব্যাহত হয় এবং বড় পরিমাণে ব্যক্তিগত তথ্য ক্ষতিগ্রস্ত হতে পারে। এর পরিপ্রেক্ষিতে কমিশন জরুরি বৈঠকের জন্য তাদের সর্বোচ্চ অভ্যন্তরীণ সংকট ব্যবস্থাপনা সংস্থাকে ডেকেছিল।",
+        "details_en": "Politico reported that the cyberattack disrupted several systems for 10 days and might have compromised large amounts of personal data at the Commission, which has roughly 33,000 employees. The Commission then convened its highest-level internal crisis management body for an urgent meeting.",
+        "hook_bn": "কৃত্রিম বুদ্ধিমত্তার সাহায্যে সাইবার হামলার শিকার ইউরোপীয় কমিশন",
+        "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-19T14:07:43.557613+00:00"
+        "checked_at": "2026-11-19T16:10:53.325993+00:00"
+      }
+    },
+    {
+      "story_id": "4a0ec1cf-2644-5a17-ae36-6c555746235a",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#BFF",
+        "#AFCAwards",
+        "#Bangkok",
+        "#BangladeshFootball"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1720978608748-a7582b479eb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmZmJTIwd2lucyUyMGhvbm91cnMlMjBhZmMlMjBzcG9ydHN8ZW58MXwwfHx8MTc5NTEwNDY1M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-19T14:25:26+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.25,
+      "rank_score": 3.5458,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/sport/football/425188/bff-win-two-honours-at-afc-awards-2026-in-bangkok",
+          "title": "BFF win two honours at AFC Awards 2026 in Bangkok",
+          "snippet": "BFF win two honours at AFC Awards 2026 in Bangkok"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/bafufe-wins-two-afc-awards/",
+          "title": "ব্যাংককে এএফসি অ্যাওয়ার্ডসে দুটি পুরস্কার জিতল বাফুফে",
+          "snippet": "ব্যাংককে এএফসি অ্যাওয়ার্ডসে দুটি পুরস্কার জিতল বাফুফে"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ব্যাংককে এএফসি অ্যাওয়ার্ডসে দুটি পুরস্কার জিতল বাফুফে",
+        "title_en": "BFF wins two honours at AFC Awards 2026 in Bangkok",
+        "summary_bn": "বাংলাদেশ ফুটবল ফেডারেশন ব্যাংককে অনুষ্ঠিত এএফসি অ্যাওয়ার্ডস ২০২৬-এ দুটি মর্যাদাপূর্ণ পুরস্কার অর্জন করেছে।",
+        "summary_en": "The Bangladesh Football Federation secured two prestigious honours at the AFC Awards 2026 in Bangkok.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T14:25:26+00:00",
+        "lead_bn": "বাংলাদেশ ফুটবল ফেডারেশন ব্যাংককে অনুষ্ঠিত এএফসি অ্যাওয়ার্ডস ২০২৬-এ দুটি মর্যাদাপূর্ণ পুরস্কার অর্জন করেছে।",
+        "lead_en": "The Bangladesh Football Federation secured two prestigious honours at the AFC Awards 2026 in Bangkok.",
+        "bullets_bn": [
+          "বাফুফে মেম্বার অ্যাসোসিয়েশন অব দ্য ইয়ার অ্যাওয়ার্ডের রুবি ক্যাটেগরিতে পুরস্কার জিতেছে।",
+          "ফেডারেশনটি গ্রাসরুটস ফুটবলের জন্য এএফসি প্রেসিডেন্টস রিকগনিশন অ্যাওয়ার্ডের সিলভার ক্যাটেগরি অর্জন করেছে।",
+          "বাফুফের পক্ষে ফেডারেশনের কার্যনির্বাহী কমিটির সদস্য মো. গ পুরস্কার দুটি গ্রহণ করেন।"
+        ],
+        "bullets_en": [
+          "BFF won the AFC Member Association of the Year Award in the Ruby category.",
+          "The federation earned the AFC President's Recognition Award for Grassroots Football in the Silver category.",
+          "BFF executive committee member Md G received the two awards on behalf of the federation."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "থাইল্যান্ডের ব্যাংককে আয়োজিত পুরস্কার বিতরণী অনুষ্ঠানে দেশের ফুটবল উন্নয়নের প্রচেষ্টার স্বীকৃতি হিসেবে বাংলাদেশ ফুটবল ফেডারেশনকে এই সম্মাননাগুলো দেওয়া হয়।",
+        "details_en": "The honours were given at the ceremony held in Bangkok, Thailand, recognizing the federation's efforts to develop football across the country.",
+        "hook_bn": "ব্যাংককে এএফসি অ্যাওয়ার্ডসে দুটি পুরস্কার জিতল বাফুফে",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "দেশের ফুটবলের উন্নয়নে বাফুফের এই আন্তর্জাতিক অর্জনকে আপনি কীভাবে দেখছেন?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-19T16:10:53.325993+00:00"
       }
     }
   ]
