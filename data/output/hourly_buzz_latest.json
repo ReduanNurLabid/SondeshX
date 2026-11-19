@@ -1,9 +1,87 @@
 {
-  "updated_at": "2026-11-19T20:00:41.562518",
-  "total_stories": 1,
+  "updated_at": "2026-11-19T21:00:46.741780",
+  "total_stories": 3,
   "stories": [
     {
-      "story_id": "2b35170e-f413-575c-ae11-cbf2a266d9a1",
+      "story_id": "524c4ed1-c174-5a34-ac0e-93bbe90bff66",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#ShahriarAlam",
+        "#Rajshahi",
+        "#Bagha"
+      ],
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182298/15839.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-19T21:00:57.312195+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.25,
+      "rank_score": 5.2552,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/ex-state-minister-shahriars-house-set-on-fire",
+          "title": "Ex-state minister Shahriar’s house set on fire",
+          "snippet": "Ex-state minister Shahriar’s house set on fire"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1181534",
+          "title": "সাবেক পররাষ্ট্র প্রতিমন্ত্রী শাহরিয়ার আলমের বাড়িতে আগুন",
+          "snippet": "সাবেক পররাষ্ট্র প্রতিমন্ত্রী শাহরিয়ার আলমের বাড়িতে আগুন"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রাজশাহীতে সাবেক প্রতিমন্ত্রী শাহরিয়ার আলমের বাড়িতে অগ্নিসংযোগ",
+        "title_en": "House of former state minister Shahriar Alam set on fire in Rajshahi",
+        "summary_bn": "রাজশাহীর বাঘা উপজেলায় সাবেক পররাষ্ট্র প্রতিমন্ত্রী শাহরিয়ার আলমের বাড়িতে পেট্রোল ঢেলে অগ্নিসংযোগ করা হয়েছে।",
+        "summary_en": "The house of former State Minister for Foreign Affairs Shahriar Alam was set on fire in Bagha upazila of Rajshahi.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T21:00:57.312195+00:00",
+        "lead_bn": "রাজশাহীর বাঘা উপজেলায় সাবেক পররাষ্ট্র প্রতিমন্ত্রী শাহরিয়ার আলমের বাড়িতে পেট্রোল ঢেলে অগ্নিসংযোগ করা হয়েছে।",
+        "lead_en": "The house of former State Minister for Foreign Affairs Shahriar Alam was set on fire in Bagha upazila of Rajshahi.",
+        "bullets_bn": [
+          "বাঘা থানার ভারপ্রাপ্ত কর্মকর্তা সেরাজুল হক জানান, পাঁচ থেকে ছয়জনের একটি দল মোটরসাইকেলে করে সেখানে আসে।",
+          "তারা সীমানা প্রাচীর টপকে চাকসিংগা গ্রামের বাড়িতে প্রবেশ করে পেট্রোল ঢেলে আগুন দেয়।",
+          "দ্রুত আগুন ছড়িয়ে পড়লে স্থানীয়রা এসে পানি ঢেলে আগুন নেভান।"
+        ],
+        "bullets_en": [
+          "Bagha Police Station OC Serajul Haque said a group of five to six people arrived on motorcycles.",
+          "They entered the house at Chaksinga village by climbing over the boundary wall and poured petrol.",
+          "As the fire spread quickly, locals rushed in and managed to extinguish the flames by pouring water."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে পড়া একটি ভিডিওতে চারতলা ভবনের নিচতলায় আগুন জ্বলতে দেখা গেছে। এই ঘটনায় কোনো হতাহতের খবর পাওয়া যায়নি।",
+        "details_en": "A video circulated on social media showed flames burning on the ground floor of the four-storey building. No casualties were reported in the incident.",
+        "hook_bn": "বাঘায় সাবেক মন্ত্রীর বাড়িতে আগুন",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-19T21:01:40.786276+00:00"
+      }
+    },
+    {
+      "story_id": "8fc24ddc-9b64-5251-ad66-6c1e12ca6249",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
@@ -11,34 +89,41 @@
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Ducsu",
+        "#Gopalganj",
+        "#AwamiLeague"
       ],
-      "image_url": "https://images.unsplash.com/photo-1624417963912-8532660d9de8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z292ZXJubWVudCUyMHNldHMlMjBwYXklMjBzdHJ1Y3R1cmUlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTUxMTg0OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/20/musaddiq.png",
       "image_caption": null,
-      "published_at": "2026-11-19T17:30:00+00:00",
+      "published_at": "2026-11-19T18:45:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 4.5441,
+      "importance_score": 7.5,
+      "rank_score": 4.9339,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/business/economics/gp1nolk7oa",
-          "title": "তিন বাহিনীপ্রধানের মূল বেতন ১ লাখ ৭২ হাজার, সৈনিকদের ২১ হাজার ৪০০ টাকা",
-          "snippet": "তিন বাহিনীপ্রধানের মূল বেতন ১ লাখ ৭২ হাজার, সৈনিকদের ২১ হাজার ৪০০ টাকা"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/crime/ducsu-leaders-gopalganj-family-home-vandalised-set-fire-1608391",
+          "title": "Ducsu leader's Gopalganj family home vandalised, set on fire",
+          "snippet": "Ducsu leader's Gopalganj family home vandalised, set on fire"
         },
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1181531",
-          "title": "তিন বাহিনীর প্রধান ও সৈনিকদের নতুন বেতন নির্ধারণ",
-          "snippet": "তিন বাহিনীর প্রধান ও সৈনিকদের নতুন বেতন নির্ধারণ"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/ducsu-leader-musaddiqs-house-set-on-fire-vandalised-in-gopalganj",
+          "title": "DUCSU leader Musaddiq’s house set on fire, vandalised in Gopalganj",
+          "snippet": "DUCSU leader Musaddiq’s house set on fire, vandalised in Gopalganj"
+        },
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/uncategorized/post-1223453/",
+          "title": "ডাকসু নেতা মুসাদ্দিকের বাড়িতে ভাঙচুর-অগ্নিসংযোগের অভিযোগ",
+          "snippet": "ডাকসু নেতা মুসাদ্দিকের বাড়িতে ভাঙচুর-অগ্নিসংযোগের অভিযোগ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সশস্ত্র বাহিনীর নতুন বেতন কাঠামো নির্ধারণ করেছে সরকার",
-        "title_en": "Government sets new pay structure for armed forces",
-        "summary_bn": "সরকার সশস্ত্র বাহিনীর জন্য নতুন বেতন কাঠামো নির্ধারণ করেছে, যেখানে তিন বাহিনীপ্রধানের মূল বেতন ১ লাখ ৭২ হাজার টাকা।",
-        "summary_en": "The government has set a new pay structure for the armed forces, fixing chiefs' basic pay at Tk 172,000.",
+        "title_bn": "গোপালগঞ্জে ডাকসু নেতার পৈতৃক বাড়িতে ভাঙচুর ও অগ্নিসংযোগ",
+        "title_en": "Ducsu leader's ancestral home vandalised and set on fire in Gopalganj",
+        "summary_bn": "ঢাকা বিশ্ববিদ্যালয় কেন্দ্রীয় ছাত্রসংসদের সাংস্কৃতিক সম্পাদক মুসাদ্দিক আলী ইবনে মোহাম্মদের গোপালগঞ্জের পৈতৃক বাড়িতে ভাঙচুর, অগ্নিসংযোগ ও লুটপাটের ঘটনা ঘটেছে।",
+        "summary_en": "The ancestral home of Ducsu Cultural Affairs Secretary Musaddiq Ali Ibne Mohammad was attacked, vandalised, and set on fire in Gopalganj.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -46,35 +131,106 @@
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-19T17:30:00+00:00",
-        "lead_bn": "সরকার সশস্ত্র বাহিনীর জন্য নতুন বেতন কাঠামো নির্ধারণ করেছে, যেখানে তিন বাহিনীপ্রধানের মূল বেতন ১ লাখ ৭২ হাজার টাকা।",
-        "lead_en": "The government has set a new pay structure for the armed forces, fixing chiefs' basic pay at Tk 172,000.",
+        "published_at": "2026-11-19T18:45:00+00:00",
+        "lead_bn": "ঢাকা বিশ্ববিদ্যালয় কেন্দ্রীয় ছাত্রসংসদের সাংস্কৃতিক সম্পাদক মুসাদ্দিক আলী ইবনে মোহাম্মদের গোপালগঞ্জের পৈতৃক বাড়িতে ভাঙচুর, অগ্নিসংযোগ ও লুটপাটের ঘটনা ঘটেছে।",
+        "lead_en": "The ancestral home of Ducsu Cultural Affairs Secretary Musaddiq Ali Ibne Mohammad was attacked, vandalised, and set on fire in Gopalganj.",
         "bullets_bn": [
-          "প্রতিরক্ষা মন্ত্রণালয় ১৫ নভেম্বর জাতীয় বেতন স্কেল ২০২৬-এর আলোকে এই নির্দেশাবলি জারি করেছে।",
-          "সৈনিকদের মূল বেতন নির্ধারণ করা হয়েছে ২১ হাজার ৪০০ টাকা।",
-          "নতুন বেতন কাঠামো ২০২৬ সালের ১ জুলাই থেকে ধাপে ধাপে কার্যকর হবে।"
+          "১৯ নভেম্বর ভোরে বাড়িতে আগুন দেওয়া হয় এবং দুপুরে ভাঙচুর ও লুটপাট চালানো হয়।",
+          "বাড়িতে থাকা ফুফু ও অন্য স্বজনেরা হামলার আশঙ্কায় ঘটনার এক বা দুই মিনিট আগে নিরাপদ দূরত্বে সরে যান।",
+          "ডাকসু এই হামলার তীব্র নিন্দা জানিয়ে একে সন্ত্রাসী কর্মকাণ্ড বলে অভিহিত করেছে।"
         ],
         "bullets_en": [
-          "The Ministry of Defence issued these guidelines on November 15 in light of the National Pay Scale 2026.",
-          "The basic pay for soldiers has been set at Tk 21,400.",
-          "The new pay structure will be implemented in phases starting from July 1, 2026."
+          "The fire was set in the early hours of 19 November, while vandalism and looting took place around noon.",
+          "The aunt and other relatives inside the house moved to a safe distance one or two minutes before the attack.",
+          "Ducsu condemned the attack, describing it as an act of terrorism by the Awami League."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বেসামরিক সরকারি কর্মচারীদের নতুন বেতনকাঠামোর প্রজ্ঞাপন জারির প্রায় দুই মাস পর সশস্ত্র বাহিনীর জন্য এই বেতন কাঠামো নির্ধারণ করা হলো। ৮৪ পৃষ্ঠার নির্দেশাবলিতে বাহিনীপ্রধান থেকে শুরু করে বিভিন্ন পদের বেতনসীমা ও ভাতা বৃদ্ধির নিয়ম তুলে ধরা হয়েছে। ২০১৭ সালের তথ্য অনুযায়ী তিন বাহিনীতে মোট সামরিক সদস্য ছিলেন ২ লাখ ৪ হাজার ৫৯৬ জন এবং বেসামরিক কর্মী ছিলেন ২০ হাজার ৮৯৪ জন।",
-        "details_en": "This pay structure was set nearly two months after issuing the notification for civilian government employees. The 84-page guidelines outline salary limits and allowance rules for various ranks from chiefs downward. According to 2017 data, there were 204,596 military members and 20,894 civilian personnel across the three forces.",
-        "hook_bn": "তিন বাহিনীপ্রধানের মূল বেতন ১ লাখ ৭২ হাজার টাকা",
-        "kicker_bn": "নতুন বেতন কাঠামো",
-        "share_value": true,
-        "question_bn": "সশস্ত্র বাহিনীর নতুন বেতন কাঠামো এবং ভাতা বৃদ্ধির এই সিদ্ধান্ত সম্পর্কে আপনার মতামত কী?"
+        "details_bn": "মুসাদ্দিকের অভিযোগ, সাবেক মন্ত্রী কর্নেল (অব.) ফারুক খানের নির্দেশে মুসাদ্দুপুরের আওয়ামী লীগ, নিষিদ্ধ ছাত্রলীগ ও যুবলীগের কর্মীরা এই হামলা চালিয়েছেন। তিনি আরও অভিযোগ করেন, একই গোষ্ঠী মুসাদ্দুপুর থানা ভাঙচুর করায় স্থানীয়ভাবে আইনি সহায়তার সুযোগ নেই।",
+        "details_en": "Musaddiq alleged that Muksudpur upazila Awami League, banned Chhatra League and Jubo League activists attacked the house on the instructions of former government minister Colonel (retd) Faruk Khan. He also alleged that the same group had set fire to Muksudpur Police Station, leaving no opportunity for local legal recourse.",
+        "hook_bn": "গোপালগঞ্জে ডাকসু নেতার বাড়িতে আগুন",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
       },
       "desk_importance": 7.0,
-      "outlet_count": 2,
+      "outlet_count": 3,
       "trending": false,
       "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-19T20:01:50.393688+00:00"
+        "checked_at": "2026-11-19T21:01:40.786276+00:00"
+      }
+    },
+    {
+      "story_id": "94a3b2cd-f46c-5249-875b-089c93d95650",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#PartexGroup",
+        "#Purbachal",
+        "#Rajuk",
+        "#DhakaCourt"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2024/10/14/city_bankrubel-aziz.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-19T18:15:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.0678,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/crime/partex-group-md-sent-jail-purbachal-plot-corruption-case-1608366",
+          "title": "Partex Group MD sent to jail in Purbachal plot corruption case",
+          "snippet": "Partex Group MD sent to jail in Purbachal plot corruption case"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পূর্বাচল প্লট দুর্নীতি মামলায় পারটেক্স গ্রুপের এমডি কারাগারে",
+        "title_en": "Partex Group MD sent to jail in Purbachal plot corruption case",
+        "summary_bn": "পূর্বাচল প্লট দুর্নীতি মামলায় জামিন আবেদন নামঞ্জুর করে পারটেক্স গ্রুপের ব্যবস্থাপনা পরিচালক আশফাক আজিজ রুবেলকে কারাগারে পাঠিয়েছে আদালত।",
+        "summary_en": "A Dhaka court has sent Partex Group Managing Director Ashfaq Aziz Rubel to jail after rejecting his bail petition in a corruption case.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T18:15:00+00:00",
+        "lead_bn": "পূর্বাচল প্লট দুর্নীতি মামলায় জামিন আবেদন নামঞ্জুর করে পারটেক্স গ্রুপের ব্যবস্থাপনা পরিচালক আশফাক আজিজ রুবেলকে কারাগারে পাঠিয়েছে আদালত।",
+        "lead_en": "A Dhaka court has sent Partex Group Managing Director Ashfaq Aziz Rubel to jail after rejecting his bail petition in a corruption case.",
+        "bullets_bn": [
+          "আশফাক আজিজ রুবেল ১৭ নভেম্বর আদালতে আত্মসমর্পণ করে সাজার বিরুদ্ধে আপিলের জন্য জামিন আবেদন করেছিলেন।",
+          "আদালতের বেঞ্চ সহকারী সাইফুল ইসলাম মিঠু এই বিষয়টি নিশ্চিত করেছেন।",
+          "একই আদালতে গত ১৩ অক্টোবর রুবেল, তার ভাই শওকত আজিজ রাসেলসহ আটজনকে ১৪ বছর করে কারাদণ্ড দেওয়া হয়েছিল।"
+        ],
+        "bullets_en": [
+          "Ashfaq Aziz Rubel surrendered on 17 November and sought bail to appeal against his conviction.",
+          "Court bench assistant Saiful Islam Mithu confirmed the development.",
+          "On 13 October, the same court sentenced Rubel, his brother Shawkat Aziz Russell, and six others to 14 years in prison."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "রাজউক পূর্বাচল আবাসিক প্রকল্পের প্লট বরাদ্দ সংক্রান্ত দুর্নীতি মামলায় গত ১৩ অক্টোবর ঢাকার বিশেষ জজ আদালত-৯ এর বিচারক আবদুস সালাম রুবেল, তার ভাই শওকত আজিজ রাসেল এবং ছয়জন সাবেক রাজউক কর্মকর্তাকে ১৪ বছর করে কারাদণ্ড দেন। দুর্নীতি প্রতিরোধ আইনের ধারা এবং পেনাল কোডের ধারায় তাদের এই সাজা দেওয়া হয়। এছাড়া আদালত রাসেল ও রুবেলের নামে থাকা দুটি প্লট বাজেয়াফত করে রাষ্ট্রের অনুকূলে নেওয়ার নির্দেশ দেয়।",
+        "details_en": "On 13 October, Dhaka Special Judge-9 Abdus Salam sentenced Rubel, his brother Shawkat Aziz Russell and six former Rajuk officials to 14 years in prison each in the corruption case. They were sentenced under the Prevention of Corruption Act and the Penal Code, and the court also ordered the confiscation of two plots in the names of Russell and Rubel.",
+        "hook_bn": "পূর্বাচল প্লট দুর্নীতি মামলায় কারাগারে পারটেক্স গ্রুপের এমডি",
+        "kicker_bn": "রায় ঘোষণা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-19T21:01:40.786276+00:00"
       }
     }
   ]
