@@ -1,5 +1,75 @@
 {
-  "updated_at": "2026-11-19T02:00:46.694170",
-  "total_stories": 0,
-  "stories": []
+  "updated_at": "2026-11-19T03:00:47.056725",
+  "total_stories": 1,
+  "stories": [
+    {
+      "story_id": "3ae0346d-36d0-5b57-bc44-de07ca30087f",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1630987871777-f7b2d62894d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGhha2ElMjBhaXIlMjB2ZXJ5JTIwdW5oZWFsdGh5JTIwZW52aXJvbm1lbnR8ZW58MXwwfHx8MTc5NTA1NzI3Nnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-19T02:42:28+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.0,
+      "rank_score": 4.8124,
+      "sources": [
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821811/%E2%80%98%E0%A6%96%E0%A7%81%E0%A6%AC%E0%A6%87-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A6%B0%E2%80%99-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B8-%E0%A6%A6%E0%A7%82%E0%A6%B7%E0%A6%BF%E0%A6%A4-%E0%A6%B6%E0%A6%B9%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A7%9F",
+          "title": "‘খুবই অস্বাস্থ্যকর’ বাতাস, দূষিত শহরের তালিকায় দ্বিতীয় ঢাকা",
+          "snippet": "‘খুবই অস্বাস্থ্যকর’ বাতাস, দূষিত শহরের তালিকায় দ্বিতীয় ঢাকা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ঢাকার বাতাস খুবই অস্বাস্থ্যকর, অবস্থানে দ্বিতীয়",
+        "title_en": "Dhaka air is very unhealthy, ranking second",
+        "summary_bn": "বায়ুদূষণের মাত্রা বিবেচনায় বিশ্বের দূষিত শহরের তালিকায় ২৩১ স্কোর নিয়ে দ্বিতীয় অবস্থানে রয়েছে রাজধানী ঢাকা।",
+        "summary_en": "Dhaka ranks second on the list of world polluted cities with a score of 231.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T02:42:28+00:00",
+        "lead_bn": "বায়ুদূষণের মাত্রা বিবেচনায় বিশ্বের দূষিত শহরের তালিকায় ২৩১ স্কোর নিয়ে দ্বিতীয় অবস্থানে রয়েছে রাজধানী ঢাকা।",
+        "lead_en": "Dhaka ranks second on the list of world polluted cities with a score of 231.",
+        "bullets_bn": [
+          "সুইজারল্যান্ডভিত্তিক বায়ুমান পর্যবেক্ষণ সংস্থা আইকিউএয়ারের প্রকাশিত তথ্যে এ চিত্র দেখা গেছে।",
+          "১৯ নভেম্বর সকাল ৮টায় এই তথ্য প্রকাশ করা হয়।",
+          "২৬৯ স্কোর নিয়ে তালিকার শীর্ষে রয়েছে পাকিস্তানের শহর লাহোর।"
+        ],
+        "bullets_en": [
+          "This picture was seen in the data published by Switzerland-based air quality monitoring agency IQAir.",
+          "This information was published 19 November at 8 am.",
+          "Pakistan city Lahore is in the first position on the list with a score of 269."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "ঢাকার বাতাস খুবই অস্বাস্থ্যকর",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": "আপনার এলাকার বায়ুমানের বর্তমান অবস্থা কেমন?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-19T03:01:41.614329+00:00"
+      }
+    }
+  ]
 }
