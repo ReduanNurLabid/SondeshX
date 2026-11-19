@@ -1,463 +1,346 @@
 {
-  "updated_at": "2026-11-19T16:00:51.657006",
-  "total_stories": 6,
+  "updated_at": "2026-11-19T17:00:43.622211",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "935fd58d-8f77-5709-a1a1-6fc36b773487",
-      "primary_category": "governance_law",
+      "story_id": "a435e19e-8074-564b-9410-e908d1cfb5ff",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#PoliceHeadquarters",
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1542718312-da4bb355220b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8dmVoaWNsZXMlMjB0b3JjaGVkJTIwY3J1ZGUlMjBib21iJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1MTA0NDA4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-19T14:42:20+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 8.0,
-      "rank_score": 5.9048,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/425192/74-vehicles-torched-crude-bomb-blasts-reported-at",
-          "title": "74 vehicles torched, crude bomb blasts reported at 78 sites",
-          "snippet": "74 vehicles torched, crude bomb blasts reported at 78 sites"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821958/%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%9C%E0%A7%81%E0%A7%9C%E0%A7%87-%E0%A7%AD%E0%A7%AA-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B9%E0%A6%A8%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A7%81%E0%A6%A8-%E0%A7%AD%E0%A7%AE-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%95%E0%A6%95%E0%A6%9F%E0%A7%87%E0%A6%B2-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A6%A3",
-          "title": "দেশজুড়ে ৭৪ পরিবহনে আগুন, ৭৮ স্থানে ককটেল বিস্ফোরণ",
-          "snippet": "দেশজুড়ে ৭৪ পরিবহনে আগুন, ৭৮ স্থানে ককটেল বিস্ফোরণ"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/cocaine-explosion-78-places-74-vehicles-torched/",
-          "title": "১২ দিনে সারাদেশে ৭৮ স্থানে ককটেল বিস্ফোরণ, ৭৪ পরিবহনে আগুন",
-          "snippet": "১২ দিনে সারাদেশে ৭৮ স্থানে ককটেল বিস্ফোরণ, ৭৪ পরিবহনে আগুন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "৭৪ পরিবহনে আগুন ও ৭৮ স্থানে ককটেল বিস্ফোরণ",
-        "title_en": "74 vehicles torched and crude bomb blasts at 78 sites",
-        "summary_bn": "পুলিশ সদর দপ্তরের দেওয়া পরিসংখ্যানে গত ৭ থেকে ১৮ নভেম্বর পর্যন্ত দেশজুড়ে ৭৪টি পরিবহনে অগ্নিসংযোগ ও ৭৮টি স্থানে ককটেল বিস্ফোরণের তথ্য জানানো হয়েছে।",
-        "summary_en": "Police headquarters statistics show 74 vehicles torched and crude bomb blasts at 78 sites nationwide between November 7 and 18.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-19T14:42:20+00:00",
-        "lead_bn": "পুলিশ সদর দপ্তরের দেওয়া পরিসংখ্যানে গত ৭ থেকে ১৮ নভেম্বর পর্যন্ত দেশজুড়ে ৭৪টি পরিবহনে অগ্নিসংযোগ ও ৭৮টি স্থানে ককটেল বিস্ফোরণের তথ্য জানানো হয়েছে।",
-        "lead_en": "Police headquarters statistics show 74 vehicles torched and crude bomb blasts at 78 sites nationwide between November 7 and 18.",
-        "bullets_bn": [
-          "এসব নাশকতার ঘটনায় পুলিশ মোট ৩৮টি মামলা দায়ের করেছে।",
-          "পুলিশ সদর দপ্তরের তথ্য অনুযায়ী এ পর্যন্ত ৬৩ জনকে গ্রেপ্তার করা হয়েছে।",
-          "একই সময়ে পুলিশের তিনটি স্থাপনায় অগ্নিসংযোগ ও ভাঙচুর এবং ১৮টি গাড়িতে আগুন দেওয়া হয়েছে।"
-        ],
-        "bullets_en": [
-          "Police have filed a total of 38 cases over these sabotage incidents.",
-          "A total of 63 people have been arrested according to police headquarters information.",
-          "During the same period, three police installations were torched and vandalized, and 18 vehicles were set on fire."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "গত ৭ থেকে ১৮ নভেম্বর পর্যন্ত দেশজুড়ে নাশকতামূলক কর্মকাণ্ডের ঘটনা বেড়েছে। পুলিশের তথ্য অনুযায়ী ওই ১২ দিনে পুলিশের দুটি স্থাপনায় ককটেল বিস্ফোরণ ঘটেছে। এছাড়া পুলিশ সদর দপ্তরের দেওয়া পরিসংখ্যানে এসব তথ্য জানানো হয়।",
-        "details_en": "Sabotage activities increased nationwide between November 7 and 18. According to police information, crude bombs exploded at two police installations during those 12 days. Police headquarters provided these statistics on Thursday.",
-        "hook_bn": "৭৪ পরিবহনে আগুন ও ককটেল বিস্ফোরণ",
-        "kicker_bn": "নাশকতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
-      "trending": true,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-19T16:10:53.325993+00:00"
-      }
-    },
-    {
-      "story_id": "59d35d50-fd02-59c5-92b0-2ece5b1d0562",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Gopalganj",
-        "#AwamiLeague",
-        "#BangladeshRailway"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2024/03/12/railway.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-19T14:30:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 8.0,
-      "rank_score": 5.8351,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/train-services-and-through-gopalganj-suspended-amid-security-concerns-1608176",
-          "title": "Train services to and through Gopalganj suspended amid security concerns",
-          "snippet": "Train services to and through Gopalganj suspended amid security concerns"
-        },
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/543o832g1e",
-          "title": "পদ্মা সেতু হয়ে চার জেলার বাস চলাচল বন্ধ",
-          "snippet": "পদ্মা সেতু হয়ে চার জেলার বাস চলাচল বন্ধ"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821955/%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BF%E0%A6%B0%E0%A6%A4%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA-%E0%A6%AA%E0%A6%A5%E0%A7%87-%E0%A6%9A%E0%A7%81%E0%A7%9F%E0%A6%BE%E0%A6%A1%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE-%E0%A6%A6%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A6%A8%E0%A6%BE",
-          "title": "গোপালগঞ্জে অস্থিরতা, বিকল্প পথে চুয়াডাঙ্গা-দর্শনা হয়ে বেনাপোলে রূপসী বাংলা",
-          "snippet": "গোপালগঞ্জে অস্থিরতা, বিকল্প পথে চুয়াডাঙ্গা-দর্শনা হয়ে বেনাপোলে রূপসী বাংলা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "নিরাপত্তাজনিত কারণে গোপালগঞ্জ ও এর মধ্য দিয়ে ট্রেন চলাচল স্থগিত",
-        "title_en": "Train services to and through Gopalganj suspended amid security concerns",
-        "summary_bn": "নিরাপত্তাজনিত কারণে এবং নিষিদ্ধ ঘোষিত আওয়ামী লীগের নেতাকর্মীদের কর্মকাণ্ডের ফলে গোপালগঞ্জ রুটে ট্রেন চলাচল স্থগিত বা সংক্ষিপ্ত করা হয়েছে।",
-        "summary_en": "Train services to and through Gopalganj have been suspended or curtailed amid security concerns and activities of the banned Awami League.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-19T14:30:00+00:00",
-        "lead_bn": "নিরাপত্তাজনিত কারণে এবং নিষিদ্ধ ঘোষিত আওয়ামী লীগের নেতাকর্মীদের কর্মকাণ্ডের ফলে গোপালগঞ্জ রুটে ট্রেন চলাচল স্থগিত বা সংক্ষিপ্ত করা হয়েছে।",
-        "lead_en": "Train services to and through Gopalganj have been suspended or curtailed amid security concerns and activities of the banned Awami League.",
-        "bullets_bn": [
-          "রূপসী বাংলা এক্সপ্রেস, টুঙ্গিপাড়া এক্সপ্রেস, অভিযাত্রী কমিউটার এবং একটি লোকাল ট্রেনসহ চারটি সেবা এই পরিস্থিতিতে প্রভাবিত হয়েছে।",
-          "ঢাকা থেকে বেনাপোলে যাওয়ার পথে রূপসী বাংলা এক্সপ্রেস ১৮ নভেম্বর ভাঙ্গার পর আর সামনে এগোতে পারেনি।",
-          "রেলওয়ে সূত্র জানায়, গোপালগঞ্জ ও নড়াইলে নিরাপত্তা আশঙ্কার কারণে ট্রেন চলাচল স্থগিত করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "Four services including the Ruposhi Bangla Express, Tungipara Express, Abhijatri commuter and a local train have been affected.",
-          "The Ruposhi Bangla Express travelling from Dhaka to Benapole could not continue beyond Bhanga railway station on 18 November.",
-          "Railway officials stated that the suspension was prompted by security concerns in Gopalganj and Narail."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "নিষিদ্ধ ঘোষিত আওয়ামী লীগের নেতাকর্মীদের আক্রমণ, অগ্নিসংযোগ ও বিক্ষোভের পরিপ্রেক্ষিতে গোপালগঞ্জে এই পরিস্থিতির সৃষ্টি হয়। এর ফলে রূপসী বাংলা এক্সপ্রেস ট্রেনটি বিকল্প রুট হিসেবে চুয়াডাঙ্গার দর্শনা রেলপথ ব্যবহার করে বেনাপোলের দিকে যাত্রা করে। এছাড়া পদ্মাসেতু হয়ে চার জেলার বাস চলাচলও বন্ধ রয়েছে।",
-        "details_en": "The situation arose in Gopalganj amid a series of attacks, arson incidents and demonstrations by activists of the banned Awami League. Consequently, the Ruposhi Bangla Express travelled towards Benapole using an alternative route via the Chuadanga-Darshana railway. Bus services through the Padma Bridge from four districts were also suspended.",
-        "hook_bn": "গোপালগঞ্জে নিরাপত্তাহীনতায় ট্রেন ও বাস চলাচল বন্ধ",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
-      "trending": true,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-19T16:10:53.325993+00:00"
-      }
-    },
-    {
-      "story_id": "db63cf63-6459-57ca-87be-27d9b86a0409",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
         "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#WorldBank"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-05/world%20bank.png",
+      "image_url": "https://images.unsplash.com/photo-1635426818233-6cfe593eb3f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8b3JkZXJzJTIwZXhwdWxzaW9uJTIwbXlhbm1hciUyMGRlZmVuY2UlMjBkaXBsb21hY3l8ZW58MXwwfHx8MTc5NTEwNzkxNXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-19T15:43:26+00:00",
+      "published_at": "2026-11-19T16:58:40+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 5.1434,
+      "importance_score": 7.2,
+      "rank_score": 5.1554,
       "sources": [
         {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/news/bangladesh-risks-low-growth-cycle-world-bank-warns-4328371",
-          "title": "Bangladesh risks low-growth cycle, World Bank warns",
-          "snippet": "Bangladesh risks low-growth cycle, World Bank warns"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821970/%E0%A6%B0%E0%A7%8B%E0%A6%B9%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE-%E0%A6%97%E0%A6%A3%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE",
+          "title": "রোহিঙ্গা গণহত্যার রায়ের পর মিয়ানমারের প্রতিরক্ষা উপদেষ্টাকে বহিষ্কার করলো যুক্তরাজ্য",
+          "snippet": "রোহিঙ্গা গণহত্যার রায়ের পর মিয়ানমারের প্রতিরক্ষা উপদেষ্টাকে বহিষ্কার করলো যুক্তরাজ্য"
         },
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/economy/fiscal-reforms-could-raise-bangladeshs-annual-growth-57-world-bank-1608141",
-          "title": "Fiscal reforms could raise Bangladesh's annual growth to 5.7%: WB",
-          "snippet": "Fiscal reforms could raise Bangladesh's annual growth to 5.7%: WB"
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/uncategorized/post-1223398/",
+          "title": "মিয়ানমারের প্রতিরক্ষা অ্যাটাশেকে বহিষ্কারের নির্দেশ যুক্তরাজ্যের",
+          "snippet": "মিয়ানমারের প্রতিরক্ষা অ্যাটাশেকে বহিষ্কারের নির্দেশ যুক্তরাজ্যের"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সংস্কার ছাড়া নিম্ন প্রবৃদ্ধির চক্রে পড়তে পারে বাংলাদেশ",
-        "title_en": "Bangladesh risks low-growth cycle without reforms, World Bank warns",
-        "summary_bn": "সংস্কার না করলে ২০৩৫ সাল পর্যন্ত দশকে বাংলাদেশের গড় অর্থনৈতিক প্রবৃদ্ধি ৪.২ শতাংশে सीमित থাকতে পারে বলে সতর্ক করেছে বিশ্বব্যাংক।",
-        "summary_en": "Bangladesh risks remaining trapped in a low-growth cycle with average economic growth projected at 4.2 percent unless it undertakes reforms, the World Bank warned.",
+        "title_bn": "মিয়ানমারের প্রতিরক্ষা উপদেষ্টাকে বহিষ্কারের নির্দেশ দিয়েছে যুক্তরাজ্য",
+        "title_en": "UK orders expulsion of Myanmar defence adviser",
+        "summary_bn": "আন্তর্জাতিক বিচার আদালতের রোহিঙ্গা গণহত্যার রায়ের পর লন্ডনে নিযুক্ত মিয়ানমারের প্রতিরক্ষা অ্যাটাশেকে বহিষ্কারের নির্দেশ দিয়েছে যুক্তরাজ্য।",
+        "summary_en": "Following the ICJ ruling on Rohingya genocide, the UK has ordered the expulsion of Myanmar's defence attache in London.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-19T15:43:26+00:00",
-        "lead_bn": "সংস্কার না করলে ২০৩৫ সাল পর্যন্ত দশকে বাংলাদেশের গড় অর্থনৈতিক প্রবৃদ্ধি ৪.২ শতাংশে सीमित থাকতে পারে বলে সতর্ক করেছে বিশ্বব্যাংক।",
-        "lead_en": "Bangladesh risks remaining trapped in a low-growth cycle with average economic growth projected at 4.2 percent unless it undertakes reforms, the World Bank warned.",
+        "published_at": "2026-11-19T16:58:40+00:00",
+        "lead_bn": "আন্তর্জাতিক বিচার আদালতের রোহিঙ্গা গণহত্যার রায়ের পর লন্ডনে নিযুক্ত মিয়ানমারের প্রতিরক্ষা অ্যাটাশেকে বহিষ্কারের নির্দেশ দিয়েছে যুক্তরাজ্য।",
+        "lead_en": "Following the ICJ ruling on Rohingya genocide, the UK has ordered the expulsion of Myanmar's defence attache in London.",
         "bullets_bn": [
-          "টেকসই সংস্কার করা হলে বার্ষিক গড় প্রবৃদ্ধি বাড়িয়ে ৫.৭ শতাংশ করা সম্ভব বলে জানিয়েছে বিশ্বব্যাংক।",
-          "সংস্কার পরিকল্পনা বাস্তবায়ন হলে ২০৩৪-৩৫ অর্থবছরে প্রবৃদ্ধির হার ৬.২ শতাংশে পৌঁছাতে পারে।",
-          "রাজস্ব ও ব্যয় সংস্কারের মাধ্যমে প্রবৃদ্ধি বাড়ানোর পাশাপাশি রাজকোষের বিচক্ষণতা নিশ্চিত করা সম্ভব বলে উল্লেখ করা হয়েছে।"
+          "আন্তর্জাতিক বিচার আদালতের রায়ের পর মিয়ানমারের বিরুদ্ধে নতুন পদক্ষেপের অংশ হিসেবে এই নির্দেশ দেওয়া হয়েছে।",
+          "১৯ নভেম্বর আইসিজের রায়ের পর এক বিবৃতিতে এই পদক্ষেপের কথা জানান যুক্তরাজ্যের পররাষ্ট্রমন্ত্রী এড মিলিব্যান্ড।",
+          "এ ছাড়া এই রায় নিয়ে আলোচনার জন্য জাতিসংঘ নিরাপত্তা পরিষদে জরুরি অধিবেশন আহ্বানের উদ্যোগ নিয়েছে দেশটি।"
         ],
         "bullets_en": [
-          "Sustained reforms could lift average annual economic growth to 5.7 percent, according to the World Bank.",
-          "The growth rate could reach 6.2 percent by fiscal year 2034-35 under a reform scenario.",
-          "Revenue and expenditure reforms can raise growth significantly while ensuring fiscal prudence, the World Bank stated."
+          "The directive was issued as part of new steps against Myanmar following the International Court of Justice ruling.",
+          "UK Foreign Minister Ed Milliband announced these steps in a statement on Thursday 19 November after the ICJ ruling.",
+          "The country has also initiated efforts to convene an emergency session of the UN Security Council to discuss the ruling."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "অর্থবছরে কর রাজস্ব জিডিপির ৬.৮ শতাংশ ছিল এবং মূলধন ব্যয় ২০২২ অর্থবছরের জিডিপির ৪.৯ শতাংশ থেকে কমে ২.৮ শতাংশে নেমেছিল। সংস্কারের ফলে গার্হস্থ্য রাজস্ব বৃদ্ধি এবং ভর্তুকি কমানোর সুযোগ তৈরি হতে পারে বলে প্রতিবেদনে উল্লেখ করা হয়েছে।",
-        "details_en": "Tax revenue was just 6.8 percent of GDP in fiscal year 2025, while capital spending fell from 4.9 percent of GDP in fiscal year 2022 to 2.8 percent. The report notes that reforms could raise domestic revenue and reduce subsidies.",
-        "hook_bn": "নিম্ন প্রবৃদ্ধির ঝুঁকিতে বাংলাদেশের অর্থনীতি",
-        "kicker_bn": "সতর্কতা",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "মিয়ানমারের প্রতিরক্ষা অ্যাটাশেকে বহিষ্কার করলো যুক্তরাজ্য",
+        "kicker_bn": "রায় ঘোষণা",
         "share_value": false,
-        "question_bn": "অর্থনৈতিক প্রবৃদ্ধি বাড়াতে রাজস্ব সংস্কার কতটা জরুরি বলে আপনি মনে করেন?"
+        "question_bn": null
       },
-      "desk_importance": 7.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-19T16:10:53.325993+00:00"
+        "checked_at": "2026-11-19T17:07:25.139409+00:00"
       }
     },
     {
-      "story_id": "66984526-6811-5816-a3a0-5f32434a70cf",
-      "primary_category": "economy_business",
+      "story_id": "0307783d-0151-58ee-b962-ebccb92675dd",
+      "primary_category": "governance_law",
       "interest_categories": [
+        "governance_law",
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#BangladeshBank",
-        "#Tk20Note",
-        "#Tk50Note",
-        "#AreifHossainKhan"
+        "#ACC",
+        "#MatiurRahman",
+        "#LailaKaniz",
+        "#NBR"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2021/09/28/taka.gif",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2024/06/24/new_project_16.png",
       "image_caption": null,
-      "published_at": "2026-11-19T15:40:00+00:00",
+      "published_at": "2026-11-19T14:35:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.8098,
+      "importance_score": 6.0,
+      "rank_score": 3.1177,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/economy/banking/new-tk20-tk50-notes-enter-market-next-week-1608231",
-          "title": "New Tk20, Tk50 notes to enter market next week",
-          "snippet": "New Tk20, Tk50 notes to enter market next week"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/business/425189/bb-to-release-tk20-and-tk50-notes-next-week",
-          "title": "BB to release Tk20 and Tk50 notes next week",
-          "snippet": "BB to release Tk20 and Tk50 notes next week"
+          "url": "https://www.tbsnews.net/bangladesh/corruption/acc-sues-ex-nbr-official-matiur-wife-over-tk13cr-illicit-wealth-1608186",
+          "title": "ACC sues Ex-NBR official Matiur, wife over Tk13cr illicit wealth",
+          "snippet": "ACC sues Ex-NBR official Matiur, wife over Tk13cr illicit wealth"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাজারে আসছে নতুন ডিজাইনের ২০ ও ৫০ টাকার নোট",
-        "title_en": "New Tk20 and Tk50 notes to enter market next week",
-        "summary_bn": "বাংলাদেশ ব্যাংক জানিয়েছে, নতুন ডিজাইনের ২০ ও ৫০ টাকার ব্যাংকনোট আগামী সপ্তাহে বাজারে প্রবেশ করতে পারে।",
-        "summary_en": "Newly designed Tk20 and Tk50 banknotes are expected to enter the market next week, Bangladesh Bank has said.",
+        "title_bn": "মতিউর ও তাঁর স্ত্রীর বিরুদ্ধে ১৩ কোটি টাকার অবৈধ সম্পদ অর্জনের মামলা",
+        "title_en": "ACC sues ex-NBR official Matiur and wife over Tk13cr illicit wealth",
+        "summary_bn": "দুর্নীতি দমন কমিশন জ্ঞাত আয়বহির্ভূত সম্পদ অর্জন ও তথ্য গোপনের অভিযোগে সাবেক এনবিআর কর্মকর্তা মতিউর রহমান ও তাঁর স্ত্রী লাইলা কানিজের বিরুদ্ধে মামলা করেছে।",
+        "summary_en": "The Anti-Corruption Commission has filed cases against former National Board of Revenue member Md Matiur Rahman and his wife, Laila Kaniz, over illicit wealth.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "governance_law",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-19T15:40:00+00:00",
-        "lead_bn": "বাংলাদেশ ব্যাংক জানিয়েছে, নতুন ডিজাইনের ২০ ও ৫০ টাকার ব্যাংকনোট আগামী সপ্তাহে বাজারে প্রবেশ করতে পারে।",
-        "lead_en": "Newly designed Tk20 and Tk50 banknotes are expected to enter the market next week, Bangladesh Bank has said.",
+        "published_at": "2026-11-19T14:35:00+00:00",
+        "lead_bn": "দুর্নীতি দমন কমিশন জ্ঞাত আয়বহির্ভূত সম্পদ অর্জন ও তথ্য গোপনের অভিযোগে সাবেক এনবিআর কর্মকর্তা মতিউর রহমান ও তাঁর স্ত্রী লাইলা কানিজের বিরুদ্ধে মামলা করেছে।",
+        "lead_en": "The Anti-Corruption Commission has filed cases against former National Board of Revenue member Md Matiur Rahman and his wife, Laila Kaniz, over illicit wealth.",
         "bullets_bn": [
-          "বাংলাদেশ ব্যাংকের মুখপাত্র আরিফ হোসেন খান জানিয়েছেন, ১০০ টাকার নোট বিদ্যমান ডিজাইন দিয়েই পুনঃইস্যু করা হবে।",
-          "গাজীপুরে গার্মেন্ট শ্রমিকদের প্রতিবাদের কারণে নিরাপত্তা ব্যবস্থার ঘাটতি থাকায় নোট বিতরণে বিলম্ব হয়েছে বলে এক কেন্দ্রীয় ব্যাংক কর্মকর্তা জানিয়েছেন।",
-          "বাংলাদেশ ব্যাংক বাংলা কিউআর-এর মাধ্যমে ডিজিটাল লেনদেনের ব্যবহার বৃদ্ধির ওপর জোর দিচ্ছে।"
+          "দুদকের তথ্য অনুযায়ী, লাইলা কানিজের নামে ১৭ কোটি ৩১ লাখ টাকার সম্পদ পাওয়া গেছে এবং বৈধ সঞ্চয় বাদ দিয়ে তাঁর ১৩ কোটি টাকার অবৈধ সম্পদ রয়েছে।",
+          "মামলার বিবরণী অনুযায়ী, লাইলা কানিজ তাঁর দাখিল করা সম্পদ বিবরণীতে ১ কোটি ৫৪ লাখ টাকার সম্পদ গোপনের তথ্য দিয়েছেন।",
+          "দুদক কর্মকর্তা মো. আকতারুল ইসলাম ১৯ নভেম্বর এই মামলা দায়েরের বিষয়টি নিশ্চিত করেছেন।"
         ],
         "bullets_en": [
-          "The Tk100 note will be reissued with its existing design, Bangladesh Bank spokesperson Areif Hossain Khan has said.",
-          "A central bank official said distribution was delayed as security arrangements could not be ensured amid garment workers' protests in Gazipur.",
-          "Bangladesh Bank is encouraging greater use of digital transactions through Bangla QR to reduce small-denomination cash demand."
+          "According to the ACC, assets worth Tk17.31 crore were found in Laila Kaniz's name, leaving Tk13 crore in assets beyond known sources of income.",
+          "The case statement says Laila concealed information about assets worth Tk1.54 crore in the statement submitted to the commission.",
+          "ACC Public Relations Officer Md Aktarul Islam confirmed the development on 19 November."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ছোট নোটের ঘাটতির কারণে বাজারে ছেঁড়া ও পুরোনো মুদ্রার ছড়াছড়ি দেখা দেওয়ায় নতুন নোট আনার এই উদ্যোগ নেওয়া হয়েছে। সিকিউরিটি প্রিন্টিং কর্পোরেশন নোটগুলোর প্রিন্টিং শেষ করে আগামী সপ্তাহের মধ্যে কেন্দ্রীয় ব্যাংকের কাছে হস্তান্তর করবে এবং এরপর বাণিজ্যিক ব্যাংকগুলোর মাধ্যমে তা সরবরাহ করা হবে। জুন মাসে ছাপানো টাকা বা রিজার্ভ মানি ছিল ৪.৭৬ লক্ষ কোটি টাকার কিছুটা বেশি, যার প্রায় ৩.৩৬ লক্ষ কোটি টাকা মানুষের হাতে ছিল।",
-        "details_en": "The initiative comes as a shortage of fresh notes has left circulation flooded with torn and worn-out currency. The Security Printing Corporation will deliver the printed notes to the central bank next week for distribution to commercial banks. Central bank data shows reserve money stood at slightly over Tk4.76 lakh crore in June, with around Tk3.36 lakh crore held by the public.",
-        "hook_bn": "বাজারে আসছে নতুন নোট",
-        "kicker_bn": "নতুন তারিখ",
-        "share_value": true,
-        "question_bn": "আপনার মানিব্যাগে কি বর্তমানে ছেঁড়া বা পুরোনো নোট বেশি থাকে?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-19T16:10:53.325993+00:00"
-      }
-    },
-    {
-      "story_id": "7a6052b1-c931-570f-9d49-61246162f67a",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation",
-        "governance_law",
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#EuropeanCommission",
-        "#Cyberattack"
-      ],
-      "image_url": "https://static.dw.com/image/79958544_6.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-19T14:58:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.3416,
-      "sources": [
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/eu-commission-confirms-it-was-targeted-in-cyberattack-using-ai-tools/a-79993016?maca=en-rss-en-all-1573-rdf",
-          "title": "EU Commission confirms it was targeted in cyberattack using AI tools",
-          "snippet": "EU Commission confirms it was targeted in cyberattack using AI tools"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "কৃত্রিম বুদ্ধিমত্তা সরঞ্জাম ব্যবহার করে সাইবার হামলার শিকার হয়েছে ইউরোপীয় কমিশন।",
-        "title_en": "European Commission targeted in cyberattack using AI tools.",
-        "summary_bn": "ইউরোপীয় কমিশন নিশ্চিত করেছে যে তারা কৃত্রিম বুদ্ধিমত্তা সরঞ্জাম ব্যবহার করে চালিত একটি সাইবার হামলার শিকার হয়েছে।",
-        "summary_en": "The European Commission confirmed that it was targeted by a cyberattack through the use of AI tools.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation",
-          "governance_law",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-19T14:58:00+00:00",
-        "lead_bn": "ইউরোপীয় কমিশন নিশ্চিত করেছে যে তারা কৃত্রিম বুদ্ধিমত্তা সরঞ্জাম ব্যবহার করে চালিত একটি সাইবার হামলার শিকার হয়েছে।",
-        "lead_en": "The European Commission confirmed that it was targeted by a cyberattack through the use of AI tools.",
-        "bullets_bn": [
-          "ঘটনাটি গত ২২ অক্টোবর শনাক্ত করা হয় এবং কমিশনের কর্মীদের ডেটা লঙ্ঘনের কোনো প্রমাণ পাওয়া যায়নি।",
-          "ইউরোপীয় কমিশনের মুখপাত্র থমাস রেনিয়ে এটিকে একটি কৃত্রিম বুদ্ধিমত্তা-নাস্রিত সাইবার অভিযান বলে অভিহিত করেছেন।",
-          "কমিশন এই হামলার বিষয়ে প্রয়োজনীয় পদক্ষেপ গ্রহণ করেছে বলে মুখপাত্র জানিয়েছেন।"
-        ],
-        "bullets_en": [
-          "The incident was detected on October 22 and there was no evidence of a data breach affecting Commission staff.",
-          "European Commission spokesperson Thomas Regnier called the incident an AI-generated cybercampaign.",
-          "The spokesperson stated that the Commission has taken the necessary steps in response to the attack."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "পলিটিকোর এক প্রতিবেদনে বলা হয়েছে, এই সাইবার হামলায় প্রায় ৩৩ হাজার কর্মী সংবলিত ইউরোপীয় কমিশনের বেশ কয়েকটি সিস্টেম ১০ দিন ধরে ব্যাহত হয় এবং বড় পরিমাণে ব্যক্তিগত তথ্য ক্ষতিগ্রস্ত হতে পারে। এর পরিপ্রেক্ষিতে কমিশন জরুরি বৈঠকের জন্য তাদের সর্বোচ্চ অভ্যন্তরীণ সংকট ব্যবস্থাপনা সংস্থাকে ডেকেছিল।",
-        "details_en": "Politico reported that the cyberattack disrupted several systems for 10 days and might have compromised large amounts of personal data at the Commission, which has roughly 33,000 employees. The Commission then convened its highest-level internal crisis management body for an urgent meeting.",
-        "hook_bn": "কৃত্রিম বুদ্ধিমত্তার সাহায্যে সাইবার হামলার শিকার ইউরোপীয় কমিশন",
-        "kicker_bn": "সতর্কতা",
+        "details_bn": "দুদক জানিয়েছে, লাইলা কানিজ তাঁর সম্পদ বিবরণীতে ১৫ কোটি ৭৮ লাখ টাকার স্থাবর ও অস্থাবর সম্পদ ঘোষণা করেছিলেন। যাচাইয়ের পর তাঁর মোট সম্পদ পাওয়া যায় ১৭ কোটি ৩১ লাখ টাকার। মতিউর রহমানের বিরুদ্ধে তাঁর স্ত্রীকে অবৈধ সম্পদ অর্জনে সরাসরি সহায়তা ও অপরাধে সহযোগিতার অভিযোগ আনা হয়েছে। লাইলা কানিজের বিরুদ্ধে দুর্নীতি দমন কমিশন আইন, ২০০৪ ও ১৯৪৭ সালের দুর্নীতি প্রতিরোধ আইনে এবং মতিউর রহমানের বিরুদ্ধে দণ্ডবিধিতে সহায়তার অভিযোগ আনা হয়েছে।",
+        "details_en": "The ACC investigation found that Laila had declared movable and immovable assets worth Tk15.78 crore, but verification revealed total assets of Tk17.31 crore. Matiur was accused of directly assisting his wife and colluding with her. Laila has been charged under the Anti-Corruption Commission Act, 2004, and the Prevention of Corruption Act, 1947, while Matiur faces charges under the Penal Code.",
+        "hook_bn": "মতিউর ও তাঁর স্ত্রীর বিরুদ্ধে দুর্নীতি মামলা",
+        "kicker_bn": null,
         "share_value": false,
-        "question_bn": null
+        "question_bn": "দুর্নীতি দমন কমিশনের এ ধরনের পদক্ষেপে সরকারি কর্মকর্তাদের দুর্নীতির প্রবণতা কতটুকু কমবে বলে আপনি মনে করেন?"
       },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-19T16:10:53.325993+00:00"
+        "checked_at": "2026-11-19T17:07:25.139409+00:00"
       }
     },
     {
-      "story_id": "4a0ec1cf-2644-5a17-ae36-6c555746235a",
-      "primary_category": "sports_fitness",
+      "story_id": "ba462e1e-648e-57a9-a2e0-a5b25cca9cf8",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "sports_fitness",
-        "world_diplomacy"
+        "governance_law",
+        "society_education"
       ],
       "region": "national",
       "tags": [
-        "#BFF",
-        "#AFCAwards",
-        "#Bangkok",
-        "#BangladeshFootball"
+        "#Rangpur",
+        "#DhakaAirport",
+        "#Bablu"
       ],
-      "image_url": "https://images.unsplash.com/photo-1720978608748-a7582b479eb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmZmJTIwd2lucyUyMGhvbm91cnMlMjBhZmMlMjBzcG9ydHN8ZW58MXwwfHx8MTc5NTEwNDY1M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1755423648545-10a05e052f80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cmFuZ3B1ciUyMGRpc3RyaWN0JTIwY291bmNpbCUyMGNoYWlybWFuJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1MTA3OTUzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-19T14:25:26+00:00",
+      "published_at": "2026-11-19T16:47:37+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.5458,
+      "importance_score": 4.8,
+      "rank_score": 2.267,
       "sources": [
         {
           "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/sport/football/425188/bff-win-two-honours-at-afc-awards-2026-in-bangkok",
-          "title": "BFF win two honours at AFC Awards 2026 in Bangkok",
-          "snippet": "BFF win two honours at AFC Awards 2026 in Bangkok"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/bafufe-wins-two-afc-awards/",
-          "title": "ব্যাংককে এএফসি অ্যাওয়ার্ডসে দুটি পুরস্কার জিতল বাফুফে",
-          "snippet": "ব্যাংককে এএফসি অ্যাওয়ার্ডসে দুটি পুরস্কার জিতল বাফুফে"
+          "url": "https://www.dhakatribune.com/bangladesh/nation/425203/ex-rangpur-district-council-chairman-arrested-at",
+          "title": "Ex-Rangpur district council chairman arrested at Dhaka airport",
+          "snippet": "Ex-Rangpur district council chairman arrested at Dhaka airport"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ব্যাংককে এএফসি অ্যাওয়ার্ডসে দুটি পুরস্কার জিতল বাফুফে",
-        "title_en": "BFF wins two honours at AFC Awards 2026 in Bangkok",
-        "summary_bn": "বাংলাদেশ ফুটবল ফেডারেশন ব্যাংককে অনুষ্ঠিত এএফসি অ্যাওয়ার্ডস ২০২৬-এ দুটি মর্যাদাপূর্ণ পুরস্কার অর্জন করেছে।",
-        "summary_en": "The Bangladesh Football Federation secured two prestigious honours at the AFC Awards 2026 in Bangkok.",
+        "title_bn": "ঢাকা বিমানবন্দর থেকে সাবেক রংপুর জেলা পরিষদ চেয়ারম্যান গ্রেপ্তার",
+        "title_en": "Ex-Rangpur district council chairman arrested at Dhaka airport",
+        "summary_bn": "সাবেক রংপুর জেলা পরিষদ চেয়ারম্যান বাবুলাকে ঢাকা বিমানবন্দর থেকে গ্রেপ্তার করা হয়েছে।",
+        "summary_en": "Ex-Rangpur district council chairman Bablu has been arrested at Dhaka airport.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness",
-          "world_diplomacy"
+          "governance_law",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-19T14:25:26+00:00",
-        "lead_bn": "বাংলাদেশ ফুটবল ফেডারেশন ব্যাংককে অনুষ্ঠিত এএফসি অ্যাওয়ার্ডস ২০২৬-এ দুটি মর্যাদাপূর্ণ পুরস্কার অর্জন করেছে।",
-        "lead_en": "The Bangladesh Football Federation secured two prestigious honours at the AFC Awards 2026 in Bangkok.",
+        "published_at": "2026-11-19T16:47:37+00:00",
+        "lead_bn": "সাবেক রংপুর জেলা পরিষদ চেয়ারম্যান বাবুলাকে ঢাকা বিমানবন্দর থেকে গ্রেপ্তার করা হয়েছে।",
+        "lead_en": "Ex-Rangpur district council chairman Bablu has been arrested at Dhaka airport.",
         "bullets_bn": [
-          "বাফুফে মেম্বার অ্যাসোসিয়েশন অব দ্য ইয়ার অ্যাওয়ার্ডের রুবি ক্যাটেগরিতে পুরস্কার জিতেছে।",
-          "ফেডারেশনটি গ্রাসরুটস ফুটবলের জন্য এএফসি প্রেসিডেন্টস রিকগনিশন অ্যাওয়ার্ডের সিলভার ক্যাটেগরি অর্জন করেছে।",
-          "বাফুফের পক্ষে ফেডারেশনের কার্যনির্বাহী কমিটির সদস্য মো. গ পুরস্কার দুটি গ্রহণ করেন।"
+          "সূত্র জানায়, তাকে ঢাকা বিমানবন্দর থেকে গ্রেপ্তার করা হয়েছে।",
+          "বৈষম্যবিরোধী ছাত্র আন্দোলনে দমনের অভিযোগে তাকে গ্রেপ্তার করা হয়েছে।",
+          "তার বিরুদ্ধে মোট তিনটি মামলা রয়েছে।"
         ],
         "bullets_en": [
-          "BFF won the AFC Member Association of the Year Award in the Ruby category.",
-          "The federation earned the AFC President's Recognition Award for Grassroots Football in the Silver category.",
-          "BFF executive committee member Md G received the two awards on behalf of the federation."
+          "According to sources, he was arrested at Dhaka airport.",
+          "He faces allegations of involvement in suppressing the anti-discrimination student movement.",
+          "He faces a total of three cases."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "থাইল্যান্ডের ব্যাংককে আয়োজিত পুরস্কার বিতরণী অনুষ্ঠানে দেশের ফুটবল উন্নয়নের প্রচেষ্টার স্বীকৃতি হিসেবে বাংলাদেশ ফুটবল ফেডারেশনকে এই সম্মাননাগুলো দেওয়া হয়।",
-        "details_en": "The honours were given at the ceremony held in Bangkok, Thailand, recognizing the federation's efforts to develop football across the country.",
-        "hook_bn": "ব্যাংককে এএফসি অ্যাওয়ার্ডসে দুটি পুরস্কার জিতল বাফুফে",
+        "details_bn": "সূত্র জানায়, বৈষম্যবিরোধী ছাত্র আন্দোলনে দমনের অভিযোগে সাবেক রংপুর জেলা পরিষদ চেয়ারম্যান বাবুলর বিরুদ্ধে মোট তিনটি মামলা রয়েছে।",
+        "details_en": "According to sources, Bablu faces three cases over allegations of involvement in suppressing the anti-discrimination student movement.",
+        "hook_bn": "বিমানবন্দর থেকে সাবেক চেয়ারম্যান গ্রেপ্তার",
         "kicker_bn": null,
         "share_value": false,
-        "question_bn": "দেশের ফুটবলের উন্নয়নে বাফুফের এই আন্তর্জাতিক অর্জনকে আপনি কীভাবে দেখছেন?"
+        "question_bn": null
       },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-19T16:10:53.325993+00:00"
+        "checked_at": "2026-11-19T17:07:25.139409+00:00"
+      }
+    },
+    {
+      "story_id": "5d88a622-23bd-5c9c-b5ff-b22316377950",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#China",
+        "#Russia",
+        "#Apec"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/3474c8032549af7447dd4759a18eff0069ccaf84/337_0_3599_2880/master/3599.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b289e804934630661e2411775b5f011e",
+      "image_caption": null,
+      "published_at": "2026-11-19T15:50:03+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.1,
+      "rank_score": 2.4213,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+          "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+          "snippet": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars"
+        },
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/sci-tech/technology/how-us-controls-flow-of-advanced-tech-chip-and-compute-to-china-explained/article71721133.ece",
+          "title": "How U.S. controls flow of advanced tech, chip, and compute to China | Explained",
+          "snippet": "How U.S. controls flow of advanced tech, chip, and compute to China | Explained"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "চীন, রাশিয়া ও যুক্তরাষ্ট্র শান্তি ঘোষণায় সই করেছে",
+        "title_en": "China, Russia and US agree peace declaration",
+        "summary_bn": "চীন, রাশিয়া ও যুক্তরাষ্ট্রের নেতারা এক ঐতিহাসিক শীর্ষ সম্মেলনে শান্তি বিবৃতিতে স্বাক্ষর করেছেন, তবে ইউক্রেন ও ইরান যুদ্ধ নিয়ে কোনো কথা বলেননি।",
+        "summary_en": "Leaders of China, Russia and the US have signed a peace statement after a historic summit, without mentioning Ukraine and Iran wars.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T15:50:03+00:00",
+        "lead_bn": "চীন, রাশিয়া ও যুক্তরাষ্ট্রের নেতারা এক ঐতিহাসিক শীর্ষ সম্মেলনে শান্তি বিবৃতিতে স্বাক্ষর করেছেন, তবে ইউক্রেন ও ইরান যুদ্ধ নিয়ে কোনো কথা বলেননি।",
+        "lead_en": "Leaders of China, Russia and the US have signed a peace statement after a historic summit, without mentioning Ukraine and Iran wars.",
+        "bullets_bn": [
+          "ঘোষণায় জাতিসংঘের সংস্কার, তেল সরবরাহ বৃদ্ধি এবং কূটনৈতিক অনাক্রম্যতা সুরক্ষার অগ্রাধিকারের কথা বলা হয়েছে।",
+          "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প জানিয়েছেন তারা ইতিহাস সৃষ্টি করছেন এবং আলোচনার সুযোগ বন্ধ করে শান্তি অর্জন করা যায় না।",
+          "রুশ প্রেসিডেন্ট ভ্লাদিমির পুতিন বলেছেন তিন নেতা মুক্ত আলোচনা করেছেন এবং তাদের মধ্যে পারস্পরিক বোঝাপড়া তৈরি হয়েছে।"
+        ],
+        "bullets_en": [
+          "The declaration outlined priorities including changing the UN, boosting oil supplies, and protecting diplomatic immunity.",
+          "US President Donald Trump stated they were making history and no peace was ever forged by declining engagement opportunities.",
+          "Russian President Vladimir Putin said the three men had a free discussion and now had a mutual understanding."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "চীন, রাশিয়া ও যুক্তরাষ্ট্রের শীর্ষ নেতারা আন্তর্জাতিক পরিস্থিতি নিয়ে গভীরভাবে মতবিনিময় করেন এবং কৌশলগত স্থিতিশীলতা বজায় রাখার অঙ্গীকার করেন। জিনপিং, পুতিন ও ট্রাম্পের এই বৈঠকটি এশিয়া-প্যাসিফিক ইকোনমিক কোঅপারেশন শীর্ষ সম্মেলনের অংশ হিসেবে অনুষ্ঠিত হয়। বৈঠকে পরমাণু অস্ত্র পুরোপুরি নিষিদ্ধ করার আহ্বান জানানো হলেও অস্ত্র হ্রাসের কোনো রূপরেখা দেওয়া হয়নি।",
+        "details_en": "The top leaders of China, Russia and the US had an in-depth exchange on the international situation and committed to maintaining strategic stability. The meeting between Xi Jinping, Vladimir Putin and Donald Trump dominated the Apec summit. While Xi called for nuclear weapons to be completely prohibited over time, the statement stopped short of a denuclearisation framework.",
+        "hook_bn": "আমরা সত্যিই ইতিহাস তৈরি করছি",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-19T17:07:25.139409+00:00"
+      }
+    },
+    {
+      "story_id": "0c5e7e71-2893-598d-850a-a9f70dd7afc0",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#IndiaJapan",
+        "#SJaishankar",
+        "#ToshimitsuMotegi",
+        "#Tokyo"
+      ],
+      "image_url": "https://th-i.thgim.com/public/incoming/szsovd/article71720253.ece/alternates/LANDSCAPE_1200/PTI11_19_2026_000230B.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-19T15:20:53+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.2616,
+      "sources": [
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/national/india-japan-discuss-economic-security-deeper-business-people-to-people-ties/article71720200.ece",
+          "title": "India, Japan discuss economic security, deeper business, people-to-people ties",
+          "snippet": "India, Japan discuss economic security, deeper business, people-to-people ties"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ভারত ও জাপান অর্থনৈতিক সুরক্ষা নিয়ে আলোচনা করেছে",
+        "title_en": "India and Japan discuss economic security",
+        "summary_bn": "ভারতের পররাষ্ট্রমন্ত্রী এস জয়শঙ্কর এবং জাপানের পররাষ্ট্রমন্ত্রী তোশিমিতসু মোতেগি ১৯ নভেম্বর ২০২৬ তারিখে টোকিওতে দ্বিপক্ষীয় সহযোগিতা জোরদার করার বিষয়ে আলোচনা করেছেন।",
+        "summary_en": "External Affairs Minister S. Jaishankar and Japanese Foreign Minister Toshimitsu Motegi discussed strengthening bilateral cooperation in Tokyo on November 19, 2026.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T15:20:53+00:00",
+        "lead_bn": "ভারতের পররাষ্ট্রমন্ত্রী এস জয়শঙ্কর এবং জাপানের পররাষ্ট্রমন্ত্রী তোশিমিতসু মোতেগি ১৯ নভেম্বর ২০২৬ তারিখে টোকিওতে দ্বিপক্ষীয় সহযোগিতা জোরদার করার বিষয়ে আলোচনা করেছেন।",
+        "lead_en": "External Affairs Minister S. Jaishankar and Japanese Foreign Minister Toshimitsu Motegi discussed strengthening bilateral cooperation in Tokyo on November 19, 2026.",
+        "bullets_bn": [
+          "বৈঠকটি ১৯তম ভারত-জাপান পররাষ্ট্রমন্ত্রী পর্যায়ের কৌশলগত সংলাপ হিসেবে অনুষ্ঠিত হয়।",
+          "এস জয়শঙ্কর এক্স-এ জানান যে তারা অর্থনৈতিক সুরক্ষা এবং বিভিন্ন সংযোগ জোরদার করার বিষয়ে পর্যালোচনা করেছেন।",
+          "উভয় মন্ত্রী ২০২৭ সালে কূটনৈতিক সম্পর্কের ৭৫তম বার্ষিকী উদযাপনের লোগো উন্মোচন করেন।"
+        ],
+        "bullets_en": [
+          "The meeting was held as the 19th India-Japan Foreign Ministers' Strategic Dialogue.",
+          "Mr. Jaishankar stated on X that they reviewed strengthening economic security and linkages.",
+          "Both ministers unveiled a logo to mark the 75th anniversary of diplomatic relations in 2027."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "টোকিওতে অনুষ্ঠিত এই বৈঠকে দুই দেশের মন্ত্রীরা ভারত-প্রশান্ত মহাসাগরীয় অঞ্চলের চ্যালেঞ্জ ও সুযোগ, আঞ্চলিক হটস্পট, বৈশ্বিক সমস্যা এবং বহুপক্ষীয় সহযোগিতা নিয়ে আলোচনা করেন। এছাড়া এস জয়শঙ্কর এবং প্রতিরক্ষামন্ত্রী রাজনাথ সিং চতুর্থ ভারত-জাপান পররাষ্ট্র ও প্রতিরক্ষামন্ত্রী সংলাপে অংশ নেন।",
+        "details_en": "During the talks in Tokyo, the ministers discussed challenges and opportunities in the Indo-Pacific, regional hotspots, global issues, and multilateral cooperation. Additionally, Mr. Jaishankar and Defence Minister Rajnath Singh participated in the fourth India-Japan Foreign and Defence Ministers' Dialogue.",
+        "hook_bn": "টোকিওতে ভারত ও জাপানের পররাষ্ট্রমন্ত্রীদের বৈঠক",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-19T17:07:25.139409+00:00"
       }
     }
   ]
