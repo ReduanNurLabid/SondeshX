@@ -1380,7 +1380,7 @@ export const EditorialDashboard: React.FC = () => {
                     </h3>
 
                     {/* Lead Paragraph */}
-                    <div className="p-3 bg-surface-container-low border-l-4 border-l-secondary font-serif text-xs sm:text-sm text-primary leading-relaxed mb-4 text-justify">
+                    <div className="p-3 bg-surface-container-low border-l-4 border-l-secondary font-serif text-xs sm:text-sm text-primary leading-relaxed mb-4 text-left sm:text-justify">
                       {isBn
                         ? (selectedStory.daily_buzz?.summary_bn || selectedStory.daily_buzz?.summary_en)
                         : (selectedStory.daily_buzz?.summary_en || selectedStory.daily_buzz?.summary_bn)}
@@ -1408,7 +1408,7 @@ export const EditorialDashboard: React.FC = () => {
 
                     {/* Extended Details */}
                     {selectedStory.daily_buzz?.details_en && (
-                      <p className="font-serif text-xs text-on-surface-variant leading-relaxed text-justify mb-4">
+                      <p className="font-serif text-xs text-on-surface-variant leading-relaxed text-left sm:text-justify mb-4">
                         {isBn
                           ? (selectedStory.daily_buzz?.details_bn || selectedStory.daily_buzz?.details_en)
                           : (selectedStory.daily_buzz?.details_en || selectedStory.daily_buzz?.details_bn)}

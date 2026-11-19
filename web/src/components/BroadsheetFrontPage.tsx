@@ -205,7 +205,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                         {bullets.map((b, bIdx) => (
                           <li key={bIdx} className="flex items-start gap-1.5">
                             <span className="text-secondary font-bold leading-none mt-0.5">❖</span>
-                            <span className="text-justify">{b.replace(/^\*\*(.*?)\*\*/, '$1')}</span>
+                            <span className="text-left sm:text-justify">{b.replace(/^\*\*(.*?)\*\*/, '$1')}</span>
                           </li>
                         ))}
                       </ul>
@@ -219,7 +219,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                     </div>
                     <p 
                       onClick={() => openStory(story)}
-                      className="font-serif text-xs text-on-surface leading-relaxed mb-2.5 line-clamp-3 hover:text-secondary cursor-pointer text-justify"
+                      className="font-serif text-xs text-on-surface leading-relaxed mb-2.5 line-clamp-3 hover:text-secondary cursor-pointer text-left sm:text-justify"
                     >
                       {coreStory}
                     </p>
@@ -282,7 +282,7 @@ export const BroadsheetFrontPage: React.FC = () => {
 
               {/* Lead / Subhead */}
               {getLead(heroStory) && (
-                <p className="font-serif text-base sm:text-lg italic text-on-surface-variant mb-4 leading-snug text-justify">
+                <p className="font-serif text-base sm:text-lg italic text-on-surface-variant mb-4 leading-snug text-left sm:text-justify">
                   {getLead(heroStory)}
                 </p>
               )}
@@ -327,7 +327,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                   </div>
 
                   {/* Pull quote body */}
-                  <p className="relative font-serif text-sm sm:text-base text-on-surface-variant italic leading-relaxed max-w-md z-10 text-justify">
+                  <p className="relative font-serif text-sm sm:text-base text-on-surface-variant italic leading-relaxed max-w-md z-10 text-left sm:text-justify">
                     <span className="text-primary/25 font-black text-3xl leading-none align-top mr-1 not-italic">"</span>
                     {(getWhyItMatters(heroStory) || getCoreStory(heroStory) || '').slice(0, 240).trim()}
                     {((getWhyItMatters(heroStory) || getCoreStory(heroStory) || '').length > 240) && '…'}
@@ -356,7 +356,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                       return (
                         <li key={idx} className="flex items-start gap-2.5">
                           <span className="text-secondary font-bold text-base leading-none mt-0.5">❖</span>
-                          <span className="text-justify">{cleanBullet}</span>
+                          <span className="text-left sm:text-justify">{cleanBullet}</span>
                         </li>
                       );
                     })}
@@ -371,7 +371,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                 </div>
                 <p 
                   onClick={() => openStory(heroStory)}
-                  className="font-serif text-sm sm:text-base text-on-surface leading-relaxed mb-3 hover:text-secondary cursor-pointer text-justify"
+                  className="font-serif text-sm sm:text-base text-on-surface leading-relaxed mb-3 hover:text-secondary cursor-pointer text-left sm:text-justify"
                 >
                   {getCoreStory(heroStory)}
                 </p>
@@ -496,7 +496,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                         <div className="font-label-sm text-label-sm font-bold text-secondary uppercase flex items-center gap-1">
                           <span>❖</span> {isBn ? 'মূল বিষয়:' : 'Key Takeaways:'}
                         </div>
-                        <p className="font-serif text-xs text-on-surface leading-tight mt-0.5 text-justify">
+                        <p className="font-serif text-xs text-on-surface leading-tight mt-0.5 text-left sm:text-justify">
                           {bullets[0].replace(/^\*\*(.*?)\*\*/, '$1')}
                         </p>
                       </div>
@@ -504,7 +504,7 @@ export const BroadsheetFrontPage: React.FC = () => {
 
                     <div 
                       onClick={() => openStory(wire)}
-                      className="font-serif text-xs text-on-surface leading-snug mb-1 line-clamp-2 hover:text-secondary cursor-pointer text-justify"
+                      className="font-serif text-xs text-on-surface leading-snug mb-1 line-clamp-2 hover:text-secondary cursor-pointer text-left sm:text-justify"
                     >
                       {coreStory}
                     </div>
@@ -587,7 +587,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                       {bullets.map((b, bIdx) => (
                         <li key={bIdx} className="flex items-start gap-1.5">
                           <span className="text-secondary text-xs font-bold leading-none mt-0.5">❖</span>
-                          <span className="text-justify">{b.replace(/^\*\*(.*?)\*\*/, '$1')}</span>
+                          <span className="text-left sm:text-justify">{b.replace(/^\*\*(.*?)\*\*/, '$1')}</span>
                         </li>
                       ))}
                     </ul>
@@ -601,7 +601,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                   </div>
                   <p 
                     onClick={() => openStory(story)}
-                    className="font-serif text-xs text-on-surface leading-relaxed line-clamp-3 hover:text-secondary cursor-pointer text-justify"
+                    className="font-serif text-xs text-on-surface leading-relaxed line-clamp-3 hover:text-secondary cursor-pointer text-left sm:text-justify"
                   >
                     {coreStory}
                   </p>

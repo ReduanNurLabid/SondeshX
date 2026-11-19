@@ -237,7 +237,7 @@ export const StudyCanvasModal: React.FC = () => {
 
             {/* Sub-lead sentence */}
             {lead && (
-              <p className="font-serif text-lg md:text-xl italic text-ink-muted leading-snug text-justify">
+              <p className="font-serif text-lg md:text-xl italic text-ink-muted leading-snug text-left sm:text-justify">
                 {lead}
               </p>
             )}
@@ -257,7 +257,7 @@ export const StudyCanvasModal: React.FC = () => {
                 {bullets.map((bullet, idx) => (
                   <li key={idx} className="flex items-start gap-2.5">
                     <span className="w-1.5 h-1.5 rounded-full bg-accent-emerald mt-2 shrink-0"></span>
-                    <div className="text-justify">{bullet}</div>
+                    <div className="text-left sm:text-justify">{bullet}</div>
                   </li>
                 ))}
               </ul>
@@ -272,7 +272,7 @@ export const StudyCanvasModal: React.FC = () => {
                 <h3 className="font-sans text-[11px] font-bold uppercase tracking-widest text-ink-faint mb-1.5">
                   {isBn ? 'বিস্তারিত' : 'Details'}
                 </h3>
-                <p className={`font-serif ${textBodySize} text-ink leading-relaxed text-justify`}>
+                <p className={`font-serif ${textBodySize} text-ink leading-relaxed text-left sm:text-justify`}>
                   {coreStory}
                 </p>
               </div>

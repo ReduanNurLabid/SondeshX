@@ -139,7 +139,7 @@ export const StoryCard: React.FC<StoryCardProps> = ({ story, featured = false })
               {bullets.slice(0, 3).map((bullet, idx) => (
                 <li key={idx} className="flex items-start gap-1.5">
                   <span className="text-secondary font-bold text-xs mt-0.5">❖</span>
-                  <p className="line-clamp-2 leading-relaxed text-justify">
+                  <p className="line-clamp-2 leading-relaxed text-left sm:text-justify">
                     {bullet.replace(/^\*\*(.*?)\*\*/, '$1').replace(/^[•\-\*\d\.]+\s*/, '')}
                   </p>
                 </li>

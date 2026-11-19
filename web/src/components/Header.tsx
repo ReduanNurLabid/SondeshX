@@ -124,8 +124,8 @@ export const Header: React.FC = () => {
       </div>
 
       {/* 2. GRAND BROADSHEET MASTHEAD */}
-      <div className="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 sm:py-6">
-        <div className="flex flex-col items-center justify-center relative border-b border-primary/20 pb-4 sm:pb-5">
+      <div className="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 sm:py-6">
+        <div className="flex flex-col items-center justify-center relative border-b-2 md:border-b border-primary md:border-primary/20 pb-3 sm:pb-5">
           {/* Left Financial Register (Desktop) */}
           <div className="absolute left-0 top-1/2 -translate-y-1/2 hidden xl:flex flex-col text-left font-label-sm text-label-sm uppercase tracking-wider text-on-surface-variant leading-tight space-y-0.5">
             <span className="font-bold text-primary flex items-center gap-1">
@@ -165,7 +165,7 @@ export const Header: React.FC = () => {
             <h1 className="font-display-masthead text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-primary uppercase text-center group-hover:text-secondary transition-colors mb-1">
               {isBn ? 'সন্দেশ এক্সপ্রেস' : 'SONDESH EXPRESS'}
             </h1>
-            <p className="font-headline-sm text-headline-sm italic text-on-surface-variant text-center max-w-2xl mt-0.5">
+            <p className="font-headline-sm text-sm sm:text-headline-sm italic text-on-surface-variant text-center max-w-2xl mt-0.5 leading-snug">
               {isBn 
                 ? 'বাংলাদেশ ও বিশ্বের দিনের খবর, এক মিনিটে। এআইয়ের লেখা, মূল প্রতিবেদনের সঙ্গে মিলিয়ে যাচাই করা।'
                 : 'What happened in Bangladesh and the world, in a minute. Written by AI, checked against the original reports.'}
@@ -186,7 +186,7 @@ export const Header: React.FC = () => {
 
         {/* 3. BROADSHEET NAVIGATION BAR STRIP */}
         <nav
-          className="flex items-center justify-between pt-2.5 overflow-x-auto no-scrollbar border-b-2 border-primary"
+          className="hidden md:flex items-center justify-between pt-2.5 overflow-x-auto no-scrollbar border-b-2 border-primary"
           aria-label={isBn ? 'প্রধান বিভাগ নেভিগেশন' : 'Main section navigation'}
         >
           <div className="flex items-center space-x-6 sm:space-x-8">

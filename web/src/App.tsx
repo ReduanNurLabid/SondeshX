@@ -19,7 +19,8 @@ const MainLayout: React.FC = () => {
       {!focusMode && activeTab !== 'editorial_dashboard' && <Header />}
 
       {/* Main Tab Content */}
-      <main className="flex-1 w-full">
+      {/* Bottom padding on phones so the last story is not hidden behind the section bar */}
+      <main className={`flex-1 w-full ${!focusMode && activeTab !== 'editorial_dashboard' ? 'pb-[calc(64px+env(safe-area-inset-bottom))] md:pb-0' : ''}`}>
         {activeTab === 'top_stories' && <TopStoriesFeed />}
         {activeTab === 'current_affairs' && <CurrentAffairsFeed />}
         {activeTab === 'discover' && <DiscoverFeed />}
