@@ -36,14 +36,35 @@ def _token() -> str:
     return os.environ["TELEGRAM_BOT_TOKEN"]
 
 
+class TelegramUnavailable(RuntimeError):
+    """Telegram's servers did not answer (502/503/504, timeouts): a short outage on their side."""
+
+
 def tg(method: str, **params) -> dict:
+    """Calls the Bot API. Telegram has brief outages ("Bad Gateway"), so server errors and
+    network failures are retried a few times before giving up."""
+    import time
     files = params.pop("files", None)
-    r = requests.post(f"{API}/bot{_token()}/{method}", data=params if files else None,
-                      json=None if files else params, files=files, timeout=120)
-    data = r.json() if r.headers.get("content-type", "").startswith("application/json") else {}
-    if not data.get("ok"):
-        raise RuntimeError(f"Telegram {method} failed: {data.get('description') or r.status_code}")
-    return data["result"]
+    last = ""
+    for attempt in range(4):
+        if files:  # an upload's file handles must be rewound before a retry
+            for item in files.values():
+                if hasattr(item[1], "seek"):
+                    item[1].seek(0)
+        try:
+            r = requests.post(f"{API}/bot{_token()}/{method}", data=params if files else None,
+                              json=None if files else params, files=files, timeout=120)
+        except requests.RequestException as err:
+            last = str(err)[:200]
+        else:
+            data = r.json() if r.headers.get("content-type", "").startswith("application/json") else {}
+            if data.get("ok"):
+                return data["result"]
+            if r.status_code < 500 and r.status_code != 429:
+                raise RuntimeError(f"Telegram {method} failed: {data.get('description') or r.status_code}")
+            last = str(data.get("description") or r.status_code)
+        time.sleep(3 * (attempt + 1))
+    raise TelegramUnavailable(f"Telegram {method} failed: {last}")
 
 
 def download_file(file_id: str, path: str) -> str:
@@ -398,7 +419,12 @@ def poll():
     state_ref = db.collection("admin_config").document("telegram")
     offset = (state_ref.get().to_dict() or {}).get("offset", 0)
     allowed = os.getenv("TELEGRAM_CHAT_ID", "").strip()
-    updates = tg("getUpdates", offset=offset, timeout=0, allowed_updates=["message", "callback_query"])
+    try:
+        updates = tg("getUpdates", offset=offset, timeout=0, allowed_updates=["message", "callback_query"])
+    except TelegramUnavailable as err:
+        # Telegram is down for a moment; messages wait on their side, the next run picks them up.
+        print(f"Telegram is not answering right now ({err}); will try again on the next run.")
+        return
     groups: dict = {}
     for u in updates:
         offset = u["update_id"] + 1
