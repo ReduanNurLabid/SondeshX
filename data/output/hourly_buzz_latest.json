@@ -1,466 +1,80 @@
 {
-  "updated_at": "2026-11-19T19:00:58.502401",
-  "total_stories": 6,
+  "updated_at": "2026-11-19T20:00:41.562518",
+  "total_stories": 1,
   "stories": [
     {
-      "story_id": "8c175909-b5cb-5a68-b07a-1ba5dac93e7c",
+      "story_id": "2b35170e-f413-575c-ae11-cbf2a266d9a1",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#ZiaulAhsan",
-        "#Barishal",
-        "#NTMC"
-      ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Ziaul%20charged.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-19T18:17:20+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.75,
-      "rank_score": 5.7567,
-      "sources": [
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/ziaul-ahsans-barishal-house-set-fire-4328631",
-          "title": "Ziaul Ahsan’s Barishal house set on fire",
-          "snippet": "Ziaul Ahsan’s Barishal house set on fire"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/425204/ex-army-officer-ziaul-ahsan%E2%80%99s-house-vandalised",
-          "title": "Ex-army officer Ziaul Ahsan’s house vandalised, set on fire",
-          "snippet": "Ex-army officer Ziaul Ahsan’s house vandalised, set on fire"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/ziaul-ahsans-home-vandalised-set-on-fire",
-          "title": "Ziaul Ahsan’s home vandalised, set on fire",
-          "snippet": "Ziaul Ahsan’s home vandalised, set on fire"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1181527",
-          "title": "সাবেক সেনা কর্মকর্তা জিয়াউল আহসানের বরিশালের বাড়িতে আগুন",
-          "snippet": "সাবেক সেনা কর্মকর্তা জিয়াউল আহসানের বরিশালের বাড়িতে আগুন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বরিশালে জিয়াউল আহসানের বাড়িতে ভাঙচুর ও অগ্নিসংযোগ",
-        "title_en": "Ziaul Ahsan’s Barishal house attacked and set on fire",
-        "summary_bn": "বরিশাল নগরীতে সাবেক এনটিএমসি প্রধান মেজর জেনারেল (অব.) জিয়াউল আহসানের বাসভবনে হামলা চালিয়ে ভাঙচুর ও অগ্নিসংযোগ করেছে একদল লোক।",
-        "summary_en": "The house of former NTMC director general Major General (relieved) Ziaul Ahsan was attacked, vandalised and set on fire in Barishal city.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-19T18:17:20+00:00",
-        "lead_bn": "বরিশাল নগরীতে সাবেক এনটিএমসি প্রধান মেজর জেনারেল (অব.) জিয়াউল আহসানের বাসভবনে হামলা চালিয়ে ভাঙচুর ও অগ্নিসংযোগ করেছে একদল লোক।",
-        "lead_en": "The house of former NTMC director general Major General (relieved) Ziaul Ahsan was attacked, vandalised and set on fire in Barishal city.",
-        "bullets_bn": [
-          "ঘটনাটি ঘটে বরিশাল নগরীর বৈদ্যপাড়ার নজির উদ্দিন রোডের তাহুরা মঞ্জিল নামের একটি তিনতলা ভবনে।",
-          "৪০ থেকে ৫০ জনের একটি দল বাড়িতে ঢুকে ভাঙচুর চালায় এবং নিচতলার একটি কক্ষে পেট্রল ঢেলে আগুন দেয়।",
-          "স্থানীয় বাসিন্দাদের চেষ্টার পর ফায়ার সার্ভিসের কর্মীরা এসে আগুন নিয়ন্ত্রণে আনেন এবং নিচতলার রুম ও আসবাব ক্ষতিগ্রস্ত হয়।"
-        ],
-        "bullets_en": [
-          "The incident took place at Tahura Manzil, a three-storey building on Nasir Uddin Road in Baidyapara, Barishal city.",
-          "A group of 40 to 50 people entered the house, vandalised it, and poured petrol into a room on the ground floor to set it on fire.",
-          "Local residents and later Fire Service personnel brought the blaze under control, which damaged the ground floor room and furniture."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বাড়িটিতে জিয়াউল আহসানের ছোট ভাই এবং বরিশাল সিটি করপোরেশনের সাবেক প্যানেল মেয়র ও ২০ নম্বর ওয়ার্ডের সাবেক কাউন্সিলর জিয়াউর রহমান বিপ্লব বসবাস করতেন। তবে তিনি গত বছরের ৫ আগস্টের পর থেকে সেখানে থাকেননি এবং বর্তমানে জিয়াউল আহসান কারাগারে আছেন, আর বাড়িতে ভাড়াটেরা বসবাস করছেন। বরিশাল কোতোয়ালি মডেল থানার ভারপ্রাপ্ত কর্মকর্তা (ওসি) মনিরুল ইসলাম জানিয়েছেন, আগুন দেওয়া ব্যক্তিদের পরিচয় জানা যায়নি।",
-        "details_en": "Ziaul Ahsan’s younger brother, Ziaur Rahman Biplob, used to live in the house. He is a former panel mayor of Barishal City Corporation and former councillor of Ward 20, but has not lived there since August 5, 2024. Ziaul Ahsan is currently in jail while tenants live in the house, and Monirul Islam, officer-in-charge of Barishal Kotwali Model Police Station, told the media that the identities of the attackers could not be established.",
-        "hook_bn": "বরিশালে জিয়াউল আহসানের বাড়িতে আগুন",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 4,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-19T19:02:19.813445+00:00"
-      }
-    },
-    {
-      "story_id": "5259141c-a656-523f-ad18-754a30f71ec3",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
+        "governance_law",
+        "economy_business"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1727794280824-d2a2771858fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Zm9ybWVyJTIwYXRhdWwlMjBoYXF1ZSUyMGRvbG9uJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1MTE0OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1624417963912-8532660d9de8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z292ZXJubWVudCUyMHNldHMlMjBwYXklMjBzdHJ1Y3R1cmUlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTUxMTg0OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-19T18:58:21+00:00",
+      "published_at": "2026-11-19T17:30:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 5.6084,
+      "importance_score": 7.25,
+      "rank_score": 4.5441,
       "sources": [
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821981/%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A6%A6-%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%AF-%E0%A6%86%E0%A6%A4%E0%A6%BE%E0%A6%89%E0%A6%B2-%E0%A6%B9%E0%A6%95-%E0%A6%A6%E0%A7%8B%E0%A6%B2%E0%A6%A8",
-          "title": "বারিধারা থেকে সাবেক সংসদ সদস্য আতাউল হক দোলন গ্রেপ্তার",
-          "snippet": "বারিধারা থেকে সাবেক সংসদ সদস্য আতাউল হক দোলন গ্রেপ্তার"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/business/economics/gp1nolk7oa",
+          "title": "তিন বাহিনীপ্রধানের মূল বেতন ১ লাখ ৭২ হাজার, সৈনিকদের ২১ হাজার ৪০০ টাকা",
+          "snippet": "তিন বাহিনীপ্রধানের মূল বেতন ১ লাখ ৭২ হাজার, সৈনিকদের ২১ হাজার ৪০০ টাকা"
         },
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1181528",
-          "title": "বারিধারা থেকে সাতক্ষীরার সাবেক এমপি দোলন গ্রেফতার",
-          "snippet": "বারিধারা থেকে সাতক্ষীরার সাবেক এমপি দোলন গ্রেফতার"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/national/499383",
-          "title": "আ. লীগের সাবেক এমপি আতাউল হক দোলন গ্রেপ্তার",
-          "snippet": "আ. লীগের সাবেক এমপি আতাউল হক দোলন গ্রেপ্তার"
+          "url": "https://www.jagonews24.com/national/news/1181531",
+          "title": "তিন বাহিনীর প্রধান ও সৈনিকদের নতুন বেতন নির্ধারণ",
+          "snippet": "তিন বাহিনীর প্রধান ও সৈনিকদের নতুন বেতন নির্ধারণ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বারিধারা থেকে সাবেক সংসদ সদস্য আতাউল হক দোলন গ্রেপ্তার",
-        "title_en": "Former MP Ataul Haque Dolon arrested from Baridhara",
-        "summary_bn": "রাজধানীর বারিধারা ডিওএইচএস এলাকা থেকে সাতক্ষীরা-৪ আসনের সাবেক সংসদ সদস্য এস এম আতাউল হক দোলনকে গ্রেপ্তার করা হয়েছে।",
-        "summary_en": "Former MP for Satkhira-4, SM Ataul Haque Dolon, has been arrested from the Baridhara DOHS area of the capital.",
+        "title_bn": "সশস্ত্র বাহিনীর নতুন বেতন কাঠামো নির্ধারণ করেছে সরকার",
+        "title_en": "Government sets new pay structure for armed forces",
+        "summary_bn": "সরকার সশস্ত্র বাহিনীর জন্য নতুন বেতন কাঠামো নির্ধারণ করেছে, যেখানে তিন বাহিনীপ্রধানের মূল বেতন ১ লাখ ৭২ হাজার টাকা।",
+        "summary_en": "The government has set a new pay structure for the armed forces, fixing chiefs' basic pay at Tk 172,000.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "governance_law",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-19T18:58:21+00:00",
-        "lead_bn": "রাজধানীর বারিধারা ডিওএইচএস এলাকা থেকে সাতক্ষীরা-৪ আসনের সাবেক সংসদ সদস্য এস এম আতাউল হক দোলনকে গ্রেপ্তার করা হয়েছে।",
-        "lead_en": "Former MP for Satkhira-4, SM Ataul Haque Dolon, has been arrested from the Baridhara DOHS area of the capital.",
+        "published_at": "2026-11-19T17:30:00+00:00",
+        "lead_bn": "সরকার সশস্ত্র বাহিনীর জন্য নতুন বেতন কাঠামো নির্ধারণ করেছে, যেখানে তিন বাহিনীপ্রধানের মূল বেতন ১ লাখ ৭২ হাজার টাকা।",
+        "lead_en": "The government has set a new pay structure for the armed forces, fixing chiefs' basic pay at Tk 172,000.",
         "bullets_bn": [
-          "স্পেশাল রেসপন্স ব্যািয়ন (এসআরবি-১) তাকে গ্রেপ্তার করেছে।",
-          "(১৯ নভেম্বর) রাত ১১টা ২০ মিনিটের দিকে এই অভিযান চালানো হয়।",
-          "এসআরবির লিগ্যাল অ্যান্ড মিডিয়া উইংয়ের পরিচালক এম জেড এম ইন্তেখাব চৌধুরী গ্রেপ্তার বিষয়টি নিশ্চিত করেছেন।"
+          "প্রতিরক্ষা মন্ত্রণালয় ১৫ নভেম্বর জাতীয় বেতন স্কেল ২০২৬-এর আলোকে এই নির্দেশাবলি জারি করেছে।",
+          "সৈনিকদের মূল বেতন নির্ধারণ করা হয়েছে ২১ হাজার ৪০০ টাকা।",
+          "নতুন বেতন কাঠামো ২০২৬ সালের ১ জুলাই থেকে ধাপে ধাপে কার্যকর হবে।"
         ],
         "bullets_en": [
-          "Special Response Battalion (SRB-1) arrested him.",
-          "The operation was conducted on Thursday (19 November) at around 11:20 PM.",
-          "M Z M Intekhab Chowdhury, director of SRB's Legal and Media Wing, confirmed the arrest."
+          "The Ministry of Defence issued these guidelines on November 15 in light of the National Pay Scale 2026.",
+          "The basic pay for soldiers has been set at Tk 21,400.",
+          "The new pay structure will be implemented in phases starting from July 1, 2026."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "গোয়েন্দা তথ্যের ভিত্তিতে পরিচালিত বিশেষ অভিযানে তাকে আটক করা হয়।",
-        "details_en": "He was detained in a special operation conducted on the basis of intelligence information.",
-        "hook_bn": "বারিধারা থেকে সাবেক সংসদ সদস্য গ্রেপ্তার",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-19T19:02:19.813445+00:00"
-      }
-    },
-    {
-      "story_id": "a7e08b27-7e1f-524b-a8cb-18da101638f4",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#BangladeshBank",
-        "#StimulusPackage"
-      ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Bangladesh%20Bank%20visual.webp",
-      "image_caption": null,
-      "published_at": "2026-11-19T18:36:21+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 5.1309,
-      "sources": [
-        {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/news/bangladesh-bank-allows-loan-defaulters-court-stay-orders-access-tk-60000cr-stimulus-4328646",
-          "title": "Bangladesh Bank allows loan defaulters with court stay orders to access Tk 60,000cr stimulus",
-          "snippet": "Bangladesh Bank allows loan defaulters with court stay orders to access Tk 60,000cr stimulus"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821979/%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%B2%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%97%E0%A6%BF%E0%A6%A4%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%B2%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A7%8B%E0%A6%A6%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE-%E0%A6%AA%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%A8",
-          "title": "আদালতের স্থগিতাদেশ থাকলে প্রণোদনার সুবিধা পাবেন ঋণখেলাপিরাও",
-          "snippet": "আদালতের স্থগিতাদেশ থাকলে প্রণোদনার সুবিধা পাবেন ঋণখেলাপিরাও"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "আদালতের স্থগিতাদেশ থাকা ঋণখেলাপিরা প্রণোদনা পাবেন",
-        "title_en": "Loan defaulters with court stay orders can access stimulus",
-        "summary_bn": "বাংলাদেশ ব্যাংক ঋণখেলাপিদের ৬০ হাজার কোটি টাকার প্রণোদনা প্যাকেজ থেকে ঋণ নেওয়ার অনুমতি দিয়েছে।",
-        "summary_en": "Bangladesh Bank has allowed loan defaulters to access the Tk 60,000 crore stimulus package.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-19T18:36:21+00:00",
-        "lead_bn": "বাংলাদেশ ব্যাংক ঋণখেলাপিদের ৬০ হাজার কোটি টাকার প্রণোদনা প্যাকেজ থেকে ঋণ নেওয়ার অনুমতি দিয়েছে।",
-        "lead_en": "Bangladesh Bank has allowed loan defaulters to access the Tk 60,000 crore stimulus package.",
-        "bullets_bn": [
-          "কেন্দ্রীয় ব্যাংক এ বিষয়ে একটি সার্কুলার জারি করেছে যা অবিলম্বে কার্যকর হয়।",
-          "আদালতে মামলা বা রিট পিটিশনে স্থগিতাদেশ থাকলে এই সুবিধা পাওয়া যাবে।",
-          "কেন্দ্রীয় ব্যাংকের একজন কর্মকর্তা জানান যে এই পদক্ষেপে শিল্প ও বাণিজ্যে তারল্য বাড়বে।"
-        ],
-        "bullets_en": [
-          "The central bank issued a circular in this regard, effective immediately.",
-          "The benefit applies if a court has stayed proceedings in a case or writ petition.",
-          "A central bank official stated this move would increase liquidity in industry and trade."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বাংলাদেশ ব্যাংক বেসরকারি খাতের সুরক্ষায় মে মাসে প্রণোদনা প্যাকেজ ঘোষণা করে। ব্যাংক কোম্পানি আইন অনুযায়ী খেলাপিদের নতুন ঋণ দেওয়ার ওপর নিষেধাজ্ঞা রয়েছে।",
-        "details_en": "Bangladesh Bank announced the stimulus package in May to support the private sector. The Bank Company Act bars banks from extending fresh loans to defaulters.",
-        "hook_bn": "আদালতের স্থগিতাদেশ থাকলে প্রণোদনা পাবেন ঋণখেলাপিরা",
-        "kicker_bn": null,
+        "details_bn": "বেসামরিক সরকারি কর্মচারীদের নতুন বেতনকাঠামোর প্রজ্ঞাপন জারির প্রায় দুই মাস পর সশস্ত্র বাহিনীর জন্য এই বেতন কাঠামো নির্ধারণ করা হলো। ৮৪ পৃষ্ঠার নির্দেশাবলিতে বাহিনীপ্রধান থেকে শুরু করে বিভিন্ন পদের বেতনসীমা ও ভাতা বৃদ্ধির নিয়ম তুলে ধরা হয়েছে। ২০১৭ সালের তথ্য অনুযায়ী তিন বাহিনীতে মোট সামরিক সদস্য ছিলেন ২ লাখ ৪ হাজার ৫৯৬ জন এবং বেসামরিক কর্মী ছিলেন ২০ হাজার ৮৯৪ জন।",
+        "details_en": "This pay structure was set nearly two months after issuing the notification for civilian government employees. The 84-page guidelines outline salary limits and allowance rules for various ranks from chiefs downward. According to 2017 data, there were 204,596 military members and 20,894 civilian personnel across the three forces.",
+        "hook_bn": "তিন বাহিনীপ্রধানের মূল বেতন ১ লাখ ৭২ হাজার টাকা",
+        "kicker_bn": "নতুন বেতন কাঠামো",
         "share_value": true,
-        "question_bn": "আদালতের স্থগিতাদেশ নিয়ে ঋণখেলাপিদের প্রণোদনা পাওয়ার এই সিদ্ধান্তকে আপনারা কীভাবে দেখছেন?"
+        "question_bn": "সশস্ত্র বাহিনীর নতুন বেতন কাঠামো এবং ভাতা বৃদ্ধির এই সিদ্ধান্ত সম্পর্কে আপনার মতামত কী?"
       },
       "desk_importance": 7.0,
       "outlet_count": 2,
       "trending": false,
-      "social_appeal": 7.0,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-19T19:02:19.813445+00:00"
-      }
-    },
-    {
-      "story_id": "61cf44a5-ae91-5f3c-a147-602a7faa0e94",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#AmnestyInternational",
-        "#GarmentWorkers",
-        "#Bangladesh"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2024/09/30/rmg_protest_ashulia.jpeg",
-      "image_caption": null,
-      "published_at": "2026-11-19T18:35:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.8082,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/economy/rmg/amnesty-urges-bangladesh-stop-arresting-garment-workers-union-leaders-1608376",
-          "title": "Amnesty urges Bangladesh to stop arresting garment workers, union leaders",
-          "snippet": "Amnesty urges Bangladesh to stop arresting garment workers, union leaders"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/amnesty-urges-bangladesh-to-stop-arresting-rmg-workers-union-leaders",
-          "title": "Amnesty urges Bangladesh to stop arresting RMG workers, union leaders",
-          "snippet": "Amnesty urges Bangladesh to stop arresting RMG workers, union leaders"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পোশাক শ্রমিক ও ইউনিয়ন নেতাদের গ্রেপ্তার বন্ধের আহ্বান অ্যামনেস্টি ইন্টারন্যাশনালের",
-        "title_en": "Amnesty urges Bangladesh to stop arresting garment workers and union leaders",
-        "summary_bn": "ন্যূনতম মজুরির দাবিতে আন্দোলনরত পোশাক শ্রমিক ও ট্রেড ইউনিয়ন নেতাদের গ্রেপ্তার বন্ধের আহ্বান জানিয়েছে অ্যামনেস্টি ইন্টারন্যাশনাল।",
-        "summary_en": "Amnesty International has urged authorities to stop arresting garment workers and trade union leaders demanding a higher minimum wage.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-19T18:35:00+00:00",
-        "lead_bn": "ন্যূনতম মজুরির দাবিতে আন্দোলনরত পোশাক শ্রমিক ও ট্রেড ইউনিয়ন নেতাদের গ্রেপ্তার বন্ধের আহ্বান জানিয়েছে অ্যামনেস্টি ইন্টারন্যাশনাল।",
-        "lead_en": "Amnesty International has urged authorities to stop arresting garment workers and trade union leaders demanding a higher minimum wage.",
-        "bullets_bn": [
-          "শান্তিপূর্ণ বিক্ষোভকারীদের হয়রানি বন্ধ এবং সহিংসতায় জড়িতদের থেকে তাদের আলাদা করার আহ্বান জানিয়েছে মানবাধিকার সংস্থাটি।",
-          "সবশেষ ১৭ নভেম্বর ন্যূনতম মজুরি বিক্ষোভ নিয়ে একটি ওয়েবিনারের পর গ্রিন বাংলা গার্মেন্টস ওয়ার্কার্স ফেডারেশনের সভাপতি ও সাধারণ সম্পাদককে আটক করা হয়।",
-          "আটককৃতদের বিরুদ্ধে পুলিশি কাজে বাধা দেওয়া এবং কারখানা ভাঙচুরের অভিযোগ আনা হয়েছে বলে জানা গেছে।"
-        ],
-        "bullets_en": [
-          "The rights watchdog urged authorities to cease harassment and differentiate peaceful protesters from those engaging in violence.",
-          "Green Bangla Garments Workers Federation President Sultana Begum and General Secretary Md Elias were detained on November 17 following a webinar.",
-          "They allegedly face charges of obstructing police duties and factory vandalism."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ন্যূনতম মজুরি বৃদ্ধির দাবিতে আন্দোলনকে কেন্দ্র করে শ্রমিক ও ইউনিয়ন নেতাদের বিরুদ্ধে এই পদক্ষেপ নেওয়া হয়েছে। এর আগে চলতি মাসের শুরুর দিকে বাংলাদেশি গার্মেন্টস ট্রেড ইউনিয়ন ফেডারেশন, এএফডব্লিউএ-বাংলাদেশ ও জিবিজিডব্লিউএফ, গাজীপুর জেলা গার্মেন্টস টেলরস ওয়ার্কার্স ফেডারেশন এবং গাজীপুর সেতু বিজিডব্লিউইএফ-এর আরও পাঁচজন ইউনিয়ন নেতাকে গ্রেপ্তার করা হয়েছিল।",
-        "details_en": "The call follows the November 17 detention of Green Bangla Garments Workers Federation President Sultana Begum and General Secretary Md Elias by Detective Branch police after a webinar. Earlier this month, five other union figures were arrested from various federations.",
-        "hook_bn": "পোশাক শ্রমিক ও ইউনিয়ন নেতাদের গ্রেপ্তার বন্ধের দাবি",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-19T19:02:19.813445+00:00"
-      }
-    },
-    {
-      "story_id": "6e3b4eff-6bbd-5c93-9b50-8c3966b753f6",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Sanem",
-        "#RenewableEnergy",
-        "#Bangladesh"
-      ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/SANEM.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-19T18:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.598,
-      "sources": [
-        {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/economy/news/renewables-drive-faces-skilled-worker-shortage-survey-4328521",
-          "title": "Renewables drive faces skilled worker shortage: survey",
-          "snippet": "Renewables drive faces skilled worker shortage: survey"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/bangladesh-needs-155000-renewable-energy-workers-by-2035-sanem",
-          "title": "Bangladesh needs 155,000 renewable energy workers by 2035: SANEM",
-          "snippet": "Bangladesh needs 155,000 renewable energy workers by 2035: SANEM"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "নবায়নযোগ্য শক্তিতে দক্ষ কর্মীর ঘাটতির আশঙ্কা সানেমের",
-        "title_en": "Renewable energy drive faces skilled worker shortage, survey finds",
-        "summary_bn": "দক্ষ কর্মীর সংকটের কারণে বাংলাদেশের নবায়নযোগ্য শক্তি খাতের সম্প্রসারণ ব্যাহত হতে পারে বলে জানিয়েছে সানেম।",
-        "summary_en": "Bangladesh's ambition to expand renewable energy could be held back by a shortage of skilled workers, SANEM says.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-19T18:00:00+00:00",
-        "lead_bn": "দক্ষ কর্মীর সংকটের কারণে বাংলাদেশের নবায়নযোগ্য শক্তি খাতের সম্প্রসারণ ব্যাহত হতে পারে বলে জানিয়েছে সানেম।",
-        "lead_en": "Bangladesh's ambition to expand renewable energy could be held back by a shortage of skilled workers, SANEM says.",
-        "bullets_bn": [
-          "জরিপ চালানো প্রতিষ্ঠানের ৮২ শতাংশ অন্তত একটি শূন্যপদের কথা জানিয়েছে যা পূরণ করা কঠিন।",
-          "প্রার্থী ও আবেদনকারীর অপর্যাপ্ততার পাশাপাশি ব্যবহারিক দক্ষতা ও অভিজ্ঞতার ঘাটতির কথা বলেছেন জরিপে অংশ নেওয়া প্রতিষ্ঠানগুলো।",
-          "২০৩৫ সালের মধ্যে এই খাতে ১ লাখ ৫৫ হাজার স্বল্প প্রশিক্ষিত কর্মী এবং ৭৫ হাজার পেশাজীবী প্রয়োজন হবে।"
-        ],
-        "bullets_en": [
-          "Eighty-two percent of surveyed firms reported at least one vacancy that was difficult to fill.",
-          "Eighty-six percent of firms said candidates lacked practical skills and relevant experience while 29 percent received too few applications.",
-          "Bangladesh will need around 155,000 short-trained workers and 75,000 STEM-qualified professionals in the renewable energy sector by 2035."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ঢাকা ওয়েস্টিন হোটেলে আয়োজিত এক নীতি সংলাপে সানেম এই গবেষণা ফলাফল প্রকাশ করে। এর আগে মূলপ্রবন্ধ উপস্থাপনকালে এক অর্থনীতিবিদ জানান যে ২০৩০ সালের মধ্যে বাংলাদেশ ১০ হাজার মেগাওয়াটের বেশি নবায়নযোগ্য জ্বালানি ক্ষমতা যুক্ত করার পরিকল্পনা করছে। বিশেষজ্ঞরা এই খাতের জন্য দীর্ঘমেয়াদী কর্মসংস্থান পরিকল্পনা এবং শিল্প পরিচালিত প্রশিক্ষণের ওপর জোর দিয়েছেন।",
-        "details_en": "SANEM presented the findings at a policy dialogue at The Westin Dhaka. The projection comes as Bangladesh plans to add more than 10,000 megawatts of renewable energy capacity by 2030, which is almost five times its current installed capacity. Experts called for a long-term workforce development plan supported by industry-led training and updated curricula.",
-        "hook_bn": "নবায়নযোগ্য শক্তিতে দক্ষ কর্মীর সংকট",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 4.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-19T19:02:19.813445+00:00"
-      }
-    },
-    {
-      "story_id": "5067672c-827c-5e08-8f6e-0000eb55b6e6",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Manufacturing",
-        "#Employment",
-        "#RAPID",
-        "#Bangladesh"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1722871513349-45c61ed6aa5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZmluYW5jZSUyMGVjb25vbXklMjBiYW5nbGFkZXNofGVufDF8MHx8fDE3OTUxMTQ5Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-19T18:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.3933,
-      "sources": [
-        {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/economy/news/manufacturing-sheds-14-lakh-jobs-despite-output-growth-4328501",
-          "title": "Manufacturing sheds 14 lakh jobs despite output growth",
-          "snippet": "Manufacturing sheds 14 lakh jobs despite output growth"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "উৎপাদন বাড়লেও গত দশকে ১৪ লাখ চাকরি হারিয়েছে ম্যানুফ্যাকচারিং খাত",
-        "title_en": "Manufacturing sheds 14 lakh jobs despite output growth",
-        "summary_bn": "বাংলাদেশে গত এক দশকে ম্যানুফ্যাকচারিং খাতের উৎপাদন বছরে গড়ে ১০ শতাংশ বাড়লেও এই খাতে নিট ১৪ লাখ চাকরি কমেছে।",
-        "summary_en": "Bangladesh manufacturing output grew by an average of 10 percent annually over the past decade, losing 14 lakh jobs.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-19T18:00:00+00:00",
-        "lead_bn": "বাংলাদেশে গত এক দশকে ম্যানুফ্যাকচারিং খাতের উৎপাদন বছরে গড়ে ১০ শতাংশ বাড়লেও এই খাতে নিট ১৪ লাখ চাকরি কমেছে।",
-        "lead_en": "Bangladesh manufacturing output grew by an average of 10 percent annually over the past decade, losing 14 lakh jobs.",
-        "bullets_bn": [
-          "গবেষণা প্রতিষ্ঠান র‍্যাপিড জানিয়েছে, উৎপাদন খাতের কর্মসংস্থান ৯৫ লাখ থেকে কমে ৮১ লাখে নেমে এসেছে।",
-          "মোট কর্মসংস্থানে ম্যানুফ্যাকচারিং খাতের অবদান প্রায় ২০ শতাংশ থেকে কমে ১৭ শতাংশে দাঁড়িয়েছে।",
-          "কৃষি থেকে আসা কর্মীরা উৎপাদনশীল শিল্প চাকরির বদলে তুলনামূলক কম উৎপাদনশীল সেবা খাতে যুক্ত হচ্ছেন।"
-        ],
-        "bullets_en": [
-          "RAPID stated that manufacturing employment fell from 95 lakh to 81 lakh despite sustained growth.",
-          "The sector share of total employment declined from around 20 percent to 17 percent in 2023.",
-          "Workers moving out of agriculture are increasingly finding employment in low-productivity service activities."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ঢাকাভিত্তিক গবেষণা ও নীতি গবেষণা প্রতিষ্ঠান র‍্যাপিডের চেয়ারম্যান এম এ রাজ্জাক ঢাকায় একটি অনুষ্ঠানে এই তথ্য উপস্থাপন করেন। তিনি জানান, ২০১০ থেকে ২০২৩ সালের মধ্যে তৈরি পোশাক খাতের রপ্তানি ১২.৫ বিলিয়ন ডলার থেকে বেড়ে ৪০ বিলিয়ন ডলার ছাড়িয়ে গেলেও এই খাতের কর্মসংস্থান প্রায় ৪০ লাখ শ্রমিকের মধ্যেই মূলত অপরিবর্তিত রয়েছে।",
-        "details_en": "MA Razzaque, chairman of RAPID, presented the findings in Dhaka. He stated that between 2010 and 2023, garment exports more than tripled to $40 billion from $12.5 billion, while employment remained stagnant at around 40 lakh workers.",
-        "hook_bn": "উৎপাদন বাড়লেও ১৪ লাখ চাকরি হারিয়েছে খাত",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": "উৎপাদন বাড়লেও কর্মসংস্থান কেন কমছে বলে আপনার মনে হয়?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-19T19:02:19.813445+00:00"
+        "checked_at": "2026-11-19T20:01:50.393688+00:00"
       }
     }
   ]
