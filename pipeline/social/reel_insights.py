@@ -49,6 +49,12 @@ def fetch_insights(video_id: str, token: str) -> dict:
     return out
 
 
+def video_exists(video_id: str, token: str) -> bool:
+    """False when the Reel was deleted or archived (Facebook no longer returns it)."""
+    r = requests.get(f"{GRAPH}/{video_id}", params={"fields": "id", "access_token": token}, timeout=30)
+    return r.ok
+
+
 PHOTO_METRICS = {
     "post_total_media_view_unique": "reach",
     "post_media_view": "views",
@@ -88,6 +94,9 @@ def main():
     updated = 0
     for doc in docs:
         post = doc.to_dict()
+        old = post.get("insights") or {}
+        if old.get("status") == "removed":
+            continue  # deleted or archived on the Page: nothing more to read
         if post.get("platform") == "facebook_photo" and post.get("post_id"):
             stats = fetch_photo_insights(post["post_id"], token)
         elif post.get("video_id"):
@@ -95,6 +104,15 @@ def main():
         else:
             continue
         stats["checked_at"] = datetime.now(timezone.utc).isoformat()
+        got_numbers = any(k in stats for k in ("plays", "total_plays", "reach", "views"))
+        if not got_numbers and post.get("video_id") and not video_exists(post["video_id"], token):
+            # Removed from the Page: keep the last numbers, mark it, stop checking it.
+            doc.reference.set({"insights": {**old, "status": "removed", "checked_at": stats["checked_at"]}}, merge=True)
+            print(f"{post.get('headline', '')[:50]} -> removed from the Page; last numbers kept")
+            continue
+        if not got_numbers and old:
+            # Facebook gave no numbers this time: never wipe the ones we already have.
+            stats = {**old, "errors": stats.get("errors"), "checked_at": stats["checked_at"]}
         doc.reference.set({"insights": stats}, merge=True)
         updated += 1
         summary = {k: stats.get(k) for k in ("plays", "total_plays", "reach", "clicks", "avg_watch_ms", "reactions", "comments") if k in stats}
