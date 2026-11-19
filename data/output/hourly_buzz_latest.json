@@ -1,471 +1,383 @@
 {
-  "updated_at": "2026-11-19T08:00:41.047724",
-  "total_stories": 6,
+  "updated_at": "2026-11-19T09:00:51.411866",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "4539394b-e329-5303-83ab-69ee6b59e4cd",
-      "primary_category": "governance_law",
+      "story_id": "243a8dea-31b8-554d-8ad9-f4647d99d109",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "governance_law",
-        "economy_business"
+        "economy_business",
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#AgargaonMetroRailStation",
-        "#KafrulPolice"
+        "#IndustrialBangladeshCouncil",
+        "#GarmentWorkers",
+        "#MinimumWage"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/19/crude_bomb_agargaon.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/19/ibc.jpg",
       "image_caption": null,
-      "published_at": "2026-11-19T07:20:00+00:00",
+      "published_at": "2026-11-19T08:30:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 7.5,
-      "rank_score": 5.4061,
+      "rank_score": 5.4568,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/crude-bomb-explodes-beneath-agargaon-metro-rail-station-no-casualties-reported-1607596",
-          "title": "Crude bomb explodes beneath Agargaon Metro Rail Station, no casualties reported",
-          "snippet": "Crude bomb explodes beneath Agargaon Metro Rail Station, no casualties reported"
+          "url": "https://www.tbsnews.net/bangladesh/industrial-council-demands-tk32000-minimum-wage-rmg-workers-1607701",
+          "title": "Industrial Council demands Tk32,000 minimum wage for RMG workers",
+          "snippet": "Industrial Council demands Tk32,000 minimum wage for RMG workers"
         },
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/nation/425115/crude-bomb-explodes-at-pabna-upazila-parishad-bus",
-          "title": "Crude bomb explodes at Pabna Upazila Parishad, bus torched in Sujanagar",
-          "snippet": "Crude bomb explodes at Pabna Upazila Parishad, bus torched in Sujanagar"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/industriall-seeks-tk-32000-minimum-wage-for-garment-workers",
+          "title": "IndustriALL seeks Tk 32,000 minimum wage for garment workers",
+          "snippet": "IndustriALL seeks Tk 32,000 minimum wage for garment workers"
         },
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1181292",
-          "title": "পঞ্চগড় জেলা প্রশাসন কার্যালয়ে বোমা সাদৃশ্য বস্তু নিয়ে আতঙ্ক",
-          "snippet": "পঞ্চগড় জেলা প্রশাসন কার্যালয়ে বোমা সাদৃশ্য বস্তু নিয়ে আতঙ্ক"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/rangpur/981916/%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A7%8B%E0%A6%AE%E0%A6%BE-%E0%A6%B8%E0%A6%A6%E0%A7%83%E0%A6%B6-%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81-%E0%A6%98%E0%A6%BF%E0%A6%B0%E0%A7%87",
-          "title": "জেলা প্রশাসকের কার্যালয়ে বোমা সদৃশ বস্তু, ঘিরে রেখেছে পুলিশ",
-          "snippet": "জেলা প্রশাসকের কার্যালয়ে বোমা সদৃশ বস্তু, ঘিরে রেখেছে পুলিশ"
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/international/post-1222913/",
+          "title": "উসমানীয় সাম্রাজ্যের ২ প্রতিষ্ঠাতা শায়িত আছেন বুরসায়",
+          "snippet": "উসমানীয় সাম্রাজ্যের ২ প্রতিষ্ঠাতা শায়িত আছেন বুরসায়"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আগারগাঁও মেট্রো স্টেশন সংলগ্ন এলাকায় ককটেল বিস্ফোরণ",
-        "title_en": "Crude bomb explodes beneath Agargaon Metro Rail Station",
-        "summary_bn": "রাজধানীর আগারগাঁও মেট্রো রেল স্টেশনের নিচে একটি ককটেল বিস্ফোরিত হয়েছে, যাতে কেউ হতাহত হয়নি।",
-        "summary_en": "A crude bomb exploded beneath the capital's Agargaon Metro Rail Station, leaving no one injured.",
+        "title_bn": "পোশাক শ্রমিকদের জন্য ৩২ হাজার টাকা ন্যূনতম মজুরির দাবি আইবিসি'র",
+        "title_en": "Industrial Council demands Tk32,000 minimum wage for RMG workers",
+        "summary_bn": "ইন্ডাস্ট্রিয়াল বাংলাদেশ কাউন্সিল পোশাক শ্রমিকদের জন্য ৩২ হাজার টাকা মাসিক ন্যূনতম মজুরির দাবি জানিয়েছে।",
+        "summary_en": "The Industrial Bangladesh Council has demanded a minimum monthly wage of Tk32,000 for garment workers.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "economy_business"
+          "economy_business",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-19T07:20:00+00:00",
-        "lead_bn": "রাজধানীর আগারগাঁও মেট্রো রেল স্টেশনের নিচে একটি ককটেল বিস্ফোরিত হয়েছে, যাতে কেউ হতাহত হয়নি।",
-        "lead_en": "A crude bomb exploded beneath the capital's Agargaon Metro Rail Station, leaving no one injured.",
+        "published_at": "2026-11-19T08:30:00+00:00",
+        "lead_bn": "ইন্ডাস্ট্রিয়াল বাংলাদেশ কাউন্সিল পোশাক শ্রমিকদের জন্য ৩২ হাজার টাকা মাসিক ন্যূনতম মজুরির দাবি জানিয়েছে।",
+        "lead_en": "The Industrial Bangladesh Council has demanded a minimum monthly wage of Tk32,000 for garment workers.",
         "bullets_bn": [
-          "ঘটনাটি ঘটে ১৯ নভেম্বর দুপুর ১২টা ১০ মিনিটের দিকে।",
-          "মোটরসাইকেলে এসে স্টেশনের পাম্প রুম ও বি গেটের মাঝের সড়কে ককটেলটি রেখে পালিয়ে যায় অজ্ঞাত ব্যক্তি।",
-          "কাফরুল থানার ভারপ্রাপ্ত কর্মকর্তা (ওসি) সাইফুল ইসলাম বিষয়টি নিশ্চিত করে জানান যে পুলিশ জড়িত ব্যক্তিকে শনাক্ত করার চেষ্টা করছে।"
+          "১৯ নভেম্বর জাতীয় প্রেস ক্লাবে এক সংবাদ সম্মেলনে এই দাবি জানান আইবিসি সাধারণ সম্পাদক সালাউদ্দিন স্বপ্ন।",
+          "সংগঠনটি শ্রমিকদের উৎপাদনে ফিরে যাওয়ার এবং মজুরি বোর্ড চূড়ান্ত মজুরি ঘোষণা না করা পর্যন্ত কাজ চালিয়ে যাওয়ার আহ্বান জানিয়েছে।",
+          "সংগঠনটি গ্রেপ্তার শ্রমিক নেতাদের মুক্তি, পুলিশি হয়রানি বন্ধ এবং নিহত শ্রমিক তৌফিক শেখের পরিবারের জন্য সর্বোচ্চ ক্ষতিপূরণ দাবি করেছে।"
         ],
         "bullets_en": [
-          "The explosion took place around 12:10pm.",
-          "An unidentified person on a motorcycle detonated the crude bomb on the road between the station's pump room and Gate B.",
-          "Kafrul Police Station Officer-in-Charge Saiful Islam confirmed that police were trying to identify the person involved."
+          "The demand was raised by IBC General Secretary Salauddin Swapn at a press conference at the National Press Club on 19 November.",
+          "The organisation urged workers to return to production work until the wage board announces the final minimum wage.",
+          "The organisation demanded the release of arrested workers, an end to police harassment, and maximum compensation for worker Toufiq Sheikh's family."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "পুলিশ ঘটনাস্থল থেকে বিস্ফোরিত তামাকের কৌটাটি উদ্ধার করেছে।",
-        "details_en": "Police recovered the exploded tobacco tin from the spot.",
-        "hook_bn": "আগারগাঁও মেট্রো স্টেশনের নিচে ককটেল বিস্ফোরণ",
+        "details_bn": "সংবাদ সম্মেলনে জানানো হয়, গত অক্টোবরের শেষ দিক থেকে আইবিসি-ভুক্ত ফেডারেশনের ১২ জন নেতা ও কর্মীকে আঞ্চলিক পর্যায়ে গ্রেপ্তার করা হয়েছে। এছাড়া পুলিশি অভিযানের কারণে ফেডারেশনগুলোর সব আঞ্চলিক অফিস বন্ধ রাখতে বাধ্য হয়েছে বলে সংগঠনটি অভিযোগ করেছে।",
+        "details_en": "At the press conference, the organisation said 12 leaders and activists from federations affiliated with the IBC had been arrested at regional level since late October. It also alleged that police operations had forced all regional offices of the federations to close.",
+        "hook_bn": "পোশাক শ্রমিকদের জন্য ৩২ হাজার টাকা মজুরি দাবি",
         "kicker_bn": null,
         "share_value": false,
-        "question_bn": null
+        "question_bn": "পোশাক খাতের বর্তমান পরিস্থিতি নিয়ে আপনার মতামত কী?"
       },
       "desk_importance": 7.0,
-      "outlet_count": 4,
+      "outlet_count": 3,
       "trending": false,
       "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-19T08:01:58.558158+00:00"
+        "checked_at": "2026-11-19T09:02:15.480037+00:00"
       }
     },
     {
-      "story_id": "741e6747-c152-5743-a7ef-3a847946fc32",
-      "primary_category": "world_diplomacy",
+      "story_id": "4ab591a7-8a23-5785-8c8b-a193f7b924ea",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy",
-        "economy_business",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#HajiRahimUllah",
+        "#Feni"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1693585172757-b9e057feb878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFybGlhbWVudCUyMGxhdyUyMGNvdXJ0JTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk0OTYzNzA0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-19T08:54:18+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.25,
+      "rank_score": 3.8792,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/nation/425122/ex-mp-haji-rahim-ullah-s-ancestral-home-looted",
+          "title": "Ex-MP Haji Rahim Ullah's ancestral home looted, set fire in Feni",
+          "snippet": "Ex-MP Haji Rahim Ullah's ancestral home looted, set fire in Feni"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821879/%E0%A6%AB%E0%A7%87%E0%A6%A8%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95-%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF-%E0%A6%B0%E0%A6%B9%E0%A6%BF%E0%A6%AE-%E0%A6%89%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B9%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%85%E0%A6%97%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%B8%E0%A6%82%E0%A6%AF%E0%A7%8B%E0%A6%97",
+          "title": "ফেনীর সাবেক এমপি রহিম উল্লাহর বাড়িতে অগ্নিসংযোগ",
+          "snippet": "ফেনীর সাবেক এমপি রহিম উল্লাহর বাড়িতে অগ্নিসংযোগ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সাবেক এমপি রহিম উল্লাহর ফেনীর বাড়িতে ভাঙচুর ও অগ্নিসংযোগ",
+        "title_en": "Ex-MP Rahim Ullah's home in Feni vandalized and torched",
+        "summary_bn": "ফেনী-৩ আসনের সাবেক সংসদ সদস্য হাজী রহিম উল্লাহর গ্রামের বাড়িতে ভাঙচুর, অগ্নিসংযোগ ও লুটপাট চালিয়েছে দুর্বৃত্তরা।",
+        "summary_en": "Miscreants vandalized, set fire to, and looted the ancestral home of former MP Haji Rahim Ullah in Feni.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T08:54:18+00:00",
+        "lead_bn": "ফেনী-৩ আসনের সাবেক সংসদ সদস্য হাজী রহিম উল্লাহর গ্রামের বাড়িতে ভাঙচুর, অগ্নিসংযোগ ও লুটপাট চালিয়েছে দুর্বৃত্তরা।",
+        "lead_en": "Miscreants vandalized, set fire to, and looted the ancestral home of former MP Haji Rahim Ullah in Feni.",
+        "bullets_bn": [
+          "ঘটনার সময় বাড়ির মালামাল লুট করে নেওয়ার পাশাপাশি ঘরে ও বাড়ির সামনে থাকা একটি ট্রাকে আগুন ধরিয়ে দেওয়া হয়।",
+          "(১৮ নভেম্বর) দিবাগত রাত ৩টার দিকে সোনাগাজী উপজেলার আমিরাবাদ ইউনিয়নের সোনাপুর গ্রামের সালমা গার্ডেনে এ ঘটনা ঘটে।",
+          "এ ঘটনায় এখন পর্যন্ত কেউ হতাহত হননি বলে জানানো হয়েছে।"
+        ],
+        "bullets_en": [
+          "Household goods were looted while fire was set inside the house and on a truck parked outside.",
+          "The incident occurred around 3:00 am on Wednesday (November 18) at Salma Garden in Sonapur village of Amirabad union under Sonagazi upazila.",
+          "No casualties have been reported so far from the incident."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ফেনী-৩ আসনের সাবেক সংসদ সদস্য হাজী রহিম উল্লাহ ঢাকার ধানমণ্ডি এলাকা থেকে গ্রেফতার হওয়ার পর থেকে অক্টোবর ২০২৪ থেকে কারাগারে রয়েছেন। এই ঘটনায় তার ভগ্নিপতি রফিকুল ইসলাম বাড়িতে উপস্থিত ছিলেন।",
+        "details_en": "Former Feni-3 MP Haji Rahim Ullah has been in jail since his arrest in Dhaka's Dhanmondi area in October 2024. His brother-in-law Rafiqul Islam was at the house during the incident.",
+        "hook_bn": "ফেনীতে সাবেক এমপির বাড়িতে আগুন",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-19T09:02:15.480037+00:00"
+      }
+    },
+    {
+      "story_id": "153f11de-3d50-5bbf-a91b-6765f5501e51",
+      "primary_category": "society_education",
+      "interest_categories": [
         "society_education",
         "governance_law"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
-        "#Rohingya",
-        "#UnitedNations",
-        "#Myanmar"
+        "#NationalAffairs"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/19/image-447698-1795072352.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-19%2Fmz325pfi%2FBCS-07.jpg?rect=0%2C114%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-19T07:25:00+00:00",
+      "published_at": "2026-11-19T08:36:01+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 5.0761,
+      "importance_score": 6.25,
+      "rank_score": 3.8115,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/bangladesh-urges-repatriation-un-backs-rohingya-justice-1607616",
-          "title": "Bangladesh urges repatriation as UN backs Rohingya justice",
-          "snippet": "Bangladesh urges repatriation as UN backs Rohingya justice"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/chakri/chakri-news/quouts7xsx",
+          "title": "‘ওয়ান ইয়ার, ওয়ান বিসিএস’—সম্ভাবনাময় সংস্কার কি আবারও দীর্ঘসূত্রতার বলি হচ্ছে",
+          "snippet": "‘ওয়ান ইয়ার, ওয়ান বিসিএস’—সম্ভাবনাময় সংস্কার কি আবারও দীর্ঘসূত্রতার বলি হচ্ছে"
         },
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/rohingya-resolution-adopted-un-overwhelming-vote/",
-          "title": "জাতিসংঘে বিপুল ভোটে গৃহীত ‘রোহিঙ্গা প্রস্তাব’",
-          "snippet": "জাতিসংঘে বিপুল ভোটে গৃহীত ‘রোহিঙ্গা প্রস্তাব’"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/981915/%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%AA%E0%A7%81%E0%A6%B2-%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A7%87-%E0%A6%B0%E0%A7%8B%E0%A6%B9%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%AC-%E0%A6%97%E0%A7%83%E0%A6%B9%E0%A7%80%E0%A6%A4",
-          "title": "জাতিসংঘে বিপুল ভোটে রোহিঙ্গা প্রস্তাব গৃহীত",
-          "snippet": "জাতিসংঘে বিপুল ভোটে রোহিঙ্গা প্রস্তাব গৃহীত"
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/politics/499228",
+          "title": "পাহাড়-গার্মেন্টস-গোপালগঞ্জ, সব অস্থিরতার শিকড় এক জায়গায় : ফুয়াদ",
+          "snippet": "পাহাড়-গার্মেন্টস-গোপালগঞ্জ, সব অস্থিরতার শিকড় এক জায়গায় : ফুয়াদ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জাতিসংঘে বিপুল ভোটে রোহিঙ্গা মানবাধিকার প্রস্তাব গৃহীত হয়েছে",
-        "title_en": "UN adopts Rohingya human rights resolution with overwhelming support",
-        "summary_bn": "মিয়ানমারে রোহিঙ্গা ও সংখ্যালঘু মানবাধিকার নিয়ে জাতিসংঘের সাধারণ পরিষদে ওআইসি ও ইইউর প্রস্তাব ১২৮ ভোটে গৃহীত হয়েছে।",
-        "summary_en": "The UN General Assembly adopted an OIC and EU-led resolution on Rohingya human rights with 128 votes.",
+        "title_bn": "৫০তম বিসিএসের চূড়ান্ত ফল প্রকাশে বিলম্ব নিয়ে চাকরিপ্রার্থীদের উদ্বেগ",
+        "title_en": "Job seekers express concern over delay in 50th BCS final results",
+        "summary_bn": "৫০তম বিসিএসের চূড়ান্ত ফল প্রকাশে অস্বাভাবিক বিলম্ব হওয়ায় চাকরিপ্রার্থীদের মধ্যে উদ্বেগ ও অনিশ্চয়তা তৈরি হয়েছে।",
+        "summary_en": "Abnormal delay in publishing the final results of the 50th BCS has created concern among candidates.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "economy_business",
           "society_education",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-19T07:25:00+00:00",
-        "lead_bn": "মিয়ানমারে রোহিঙ্গা ও সংখ্যালঘু মানবাধিকার নিয়ে জাতিসংঘের সাধারণ পরিষদে ওআইসি ও ইইউর প্রস্তাব ১২৮ ভোটে গৃহীত হয়েছে।",
-        "lead_en": "The UN General Assembly adopted an OIC and EU-led resolution on Rohingya human rights with 128 votes.",
+        "published_at": "2026-11-19T08:36:01+00:00",
+        "lead_bn": "৫০তম বিসিএসের চূড়ান্ত ফল প্রকাশে অস্বাভাবিক বিলম্ব হওয়ায় চাকরিপ্রার্থীদের মধ্যে উদ্বেগ ও অনিশ্চয়তা তৈরি হয়েছে।",
+        "lead_en": "Abnormal delay in publishing the final results of the 50th BCS has created concern among candidates.",
         "bullets_bn": [
-          "প্রস্তাবটির পক্ষে ১২৮টি দেশ ভোট দিয়েছে এবং বিপক্ষে ৬টি দেশ ভোট দিয়েছে।",
-          "ভোটাভুটিতে ৩৩টি দেশ ভোটদানে বিরত ছিল বলে তথ্য বিবরণীতে জানানো হয়েছে।",
-          "বাংলাদেশ দ্রুত রোহিঙ্গা প্রত্যাবাসনের জন্য আন্তর্জাতিক সম্প্রদায়ের কার্যকর উদ্যোগ দাবি করেছে।"
+          "৫০তম বিসিএসের সার্কুলারে ২৫ নভেম্বরের মধ্যে চূড়ান্ত ফল প্রকাশের কথা ছিল।",
+          "৫০তম বিসিএসের ভাইভা শেষ হয়েছে ২৯ সেপ্টেম্বর এবং ৫১ দিন পার হয়ে গেছে।",
+          "প্রার্থীরা পুলিশ ক্যাডার স্পেশাল বিসিএস বাদ দিয়ে ৫০তম বিসিএসে পদ বৃদ্ধির দাবি জানিয়েছেন।"
         ],
         "bullets_en": [
-          "The resolution received 128 votes in favour while six countries voted against it.",
-          "A total of 33 countries abstained from voting on the resolution.",
-          "Bangladesh urged the international community to take effective steps for early Rohingya repatriation."
+          "The 50th BCS circular stated that final results would be published by November 25.",
+          "Viva voce for the 50th BCS ended on September 29, and 51 days have passed.",
+          "Candidates demanded increasing posts in the 50th BCS instead of holding a special BCS for police."
         ],
-        "impact_bn": "দীর্ঘস্থায়ী এই সংকটের কারণে বাংলাদেশের ওপর সামাজিক, অর্থনৈতিক, পরিবেশগত ও নিরাপত্তা চাপ অব্যাহত রয়েছে।",
-        "impact_en": "The prolonged displacement continues to impose enormous social, economic, environmental and security burdens on Bangladesh.",
-        "details_bn": "নিউইয়র্কে ১৮ নভেম্বর ওআইসি ও ইইউর উদ্যোগে প্রস্তাবটি গৃহীত হয়। জাতিসংঘে বাংলাদেশের চার্জ দ্য অ্যাফেয়ার্স শানচিটা হক জানান, রোহিঙ্গা সংকটের নয় বছর পার হলেও প্রত্যাবাসনে কোনো অগ্রগতি হয়নি। তিনি উল্লেখ করেন, সংকটের মূল উৎপত্তি মিয়ানমারে এবং এর টেকসই সমাধানও মিয়ানমারেই খুঁজে বের করতে হবে। এছাড়া ব্র্যাকের একটি সমীক্ষায় দেখা গেছে, প্রয়োজনীয় পরিবেশ তৈরি হলে ৭৬.৭ শতাংশ রোহিঙ্গা ফিরে যেতে চায়।",
-        "details_en": "The resolution was adopted in New York on 18 November through the initiative of the OIC and EU. Bangladesh Chargé d'Affaires Shanchita Haque stated that despite nine years passing, no progress was achieved on repatriation. She noted the crisis originated in Myanmar and a lasting solution must be found there. A BRAC study also found 76.7 percent would return if conditions were met.",
-        "hook_bn": "রোহিঙ্গা সংকটের নয় বছরেও কোনো অগ্রগতি হয়নি",
-        "kicker_bn": "জাতিসংঘ প্রস্তাব",
-        "share_value": false,
-        "question_bn": "রোহিঙ্গা সংকট সমাধানে আন্তর্জাতিক সম্প্রদায়ের আরও কী করা উচিত বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-19T08:01:58.558158+00:00"
-      }
-    },
-    {
-      "story_id": "513752b1-4232-54f7-9988-7906b8a07f6d",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Technology",
-        "#Innovation"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2023-01%2F7ec8c3ed-cc4c-4f96-b2cd-d5fd815cae47%2F296354742_3359052967657402_6356735237126333689_n.jpg?rect=0%2C304%2C783%2C411&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2021-06%2Fbe2d99ee-c039-4acf-a6fb-2356c69a08a6%2FKIA_OG_watermark_final.png&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-19T07:18:42+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.7495,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.kishoralo.com/feature/tf5kt3bj5b",
-          "title": "বাংলাদেশি পদার্থবিজ্ঞানী এম জাহিদ হাসান পেলেন আমেরিকান ফিজিক্যাল সোসাইটির মর্যাদাপূর্ণ ডেভিসন-জার্মার পুরস্কার",
-          "snippet": "বাংলাদেশি পদার্থবিজ্ঞানী এম জাহিদ হাসান পেলেন আমেরিকান ফিজিক্যাল সোসাইটির মর্যাদাপূর্ণ ডেভিসন-জার্মার পুরস্কার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বাংলাদেশি পদার্থবিজ্ঞানী এম জাহিদ হাসান ডেভিসন-জার্মার পুরস্কার পেয়েছেন।",
-        "title_en": "Bangladeshi physicist M. Zahid Hasan received the Davison-Germer prize.",
-        "summary_bn": "যুক্তরাষ্ট্রের আমেরিকান ফিজিক্যাল সোসাইটি ২০২৭ সালের ডেভিসন-জার্মার অ্যাটমিক অর সারফেস ফিজিকস পুরস্কারের জন্য বাংলাদেশি পদার্থবিজ্ঞানী এম জাহিদ হাসানকে নির্বাচিত করেছে।",
-        "summary_en": "The American Physical Society in the United States selected Bangladeshi physicist M. Zahid Hasan for the 2027 Davison-Germer Award in Atomic or Surface Physics.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-19T07:18:42+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের আমেরিকান ফিজিক্যাল সোসাইটি ২০২৭ সালের ডেভিসন-জার্মার অ্যাটমিক অর সারফেস ফিজিকস পুরস্কারের জন্য বাংলাদেশি পদার্থবিজ্ঞানী এম জাহিদ হাসানকে নির্বাচিত করেছে।",
-        "lead_en": "The American Physical Society in the United States selected Bangladeshi physicist M. Zahid Hasan for the 2027 Davison-Germer Award in Atomic or Surface Physics.",
-        "bullets_bn": [
-          "কোয়ান্টাম পদার্থে টপোলজিক্যাল অবস্থা আবিষ্কার এবং সারফেস সায়েন্সের প্রযুক্তি ব্যবহারের স্বীকৃতি হিসেবে তাঁকে এ সম্মাননা দেওয়া হচ্ছে।",
-          "প্রিন্সটন ইউনিভার্সিটির পদার্থবিজ্ঞানের ইউজিন হিগিন্স অধ্যাপক হিসেবে দায়িত্ব পালন করছেন এম জাহিদ হাসান।",
-          "প্রিন্সটন ইউনিভার্সিটির পদার্থবিজ্ঞান বিভাগের প্রধান জেমস ওলসেন অধ্যাপক হাসানের এই অর্জনে আনন্দ প্রকাশ করেছেন।"
-        ],
-        "bullets_en": [
-          "He is receiving the honor in recognition of discovering topological states in quantum matter and using surface science technology.",
-          "M. Zahid Hasan serves as the Eugene Higgins Professor of Physics at Princeton University.",
-          "James Olsen, head of the physics department at Princeton University, expressed joy over Professor Hasan's achievement."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "এম জাহিদ হাসানের জন্ম ও বেড়ে ওঠা ঢাকায়। তিনি ইউনিভার্সিটি অব টেক্সাস অ্যাট অস্টিন থেকে স্নাতক এবং স্ট্যানফোর্ড ইউনিভার্সিটি থেকে স্নাতকোত্তর ও পিএইচডি সম্পন্ন করেন। ২০০২ সালে প্রিন্সটন ইউনিভার্সিটিতে যোগ দেওয়ার পর ২০১৭ সালে তিনি ইউজিন হিগিন্স অধ্যাপক হন এবং ২০০৮ সাল থেকে ল্যাবরেটরি ফর টপোলজিক্যাল কোয়ান্টাম ম্যাটার অ্যান্ড অ্যাডভান্সড স্পেকট্রোস্কপির প্রধান গবেষক হিসেবে দায়িত্ব পালন করছেন।",
-        "details_en": "M. Zahid Hasan was born and raised in Dhaka. He completed his graduation from the University of Texas at Austin and his master's and PhD from Stanford University. After joining Princeton University in 2002, he became the Eugene Higgins Professor in 2017 and has served as the lead researcher of the Laboratory for Topological Quantum Matter and Advanced Spectroscopy since 2008.",
-        "hook_bn": "ডেভিসন-জার্মার পুরস্কার পেলেন বাংলাদেশি পদার্থবিজ্ঞানী জাহিদ হাসান",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": "কোয়ান্টাম পদার্থবিজ্ঞানে বাংলাদেশের এই সাফল্য নিয়ে আপনার মতামত কী?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-19T08:01:58.558158+00:00"
-      }
-    },
-    {
-      "story_id": "273b477d-dc73-56f7-8254-a910bc59f5c3",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "climate_environment",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#CAAB",
-        "#BangladeshAirports"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1735989287322-03e7b2816e5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YWlycG9ydHMlMjBhY3Jvc3MlMjBiYW5nbGFkZXNoJTIwcGxhY2VkJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1MDc1MzAzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-19T06:14:42+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.2491,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/425107/airports-across-bangladesh-placed-on-maximum-alert",
-          "title": "Airports across Bangladesh placed on maximum alert amid security concerns",
-          "snippet": "Airports across Bangladesh placed on maximum alert amid security concerns"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "দেশের সব বিমানবন্দরে সর্বোচ্চ নিরাপত্তা সতর্কতা জারি",
-        "title_en": "Airports across Bangladesh placed on maximum security alert",
-        "summary_bn": "দেশের বিভিন্ন স্থানে নাশকতা ও সহিংসতার ঘটনার পর সব অভ্যন্তরীণ ও আন্তর্জাতিক বিমানবন্দরে সর্বোচ্চ সতর্কতা জারি করা হয়েছে।",
-        "summary_en": "All domestic and international airports across the country have been placed on maximum alert following acts of sabotage and violence.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "climate_environment",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-19T06:14:42+00:00",
-        "lead_bn": "দেশের বিভিন্ন স্থানে নাশকতা ও সহিংসতার ঘটনার পর সব অভ্যন্তরীণ ও আন্তর্জাতিক বিমানবন্দরে সর্বোচ্চ সতর্কতা জারি করা হয়েছে।",
-        "lead_en": "All domestic and international airports across the country have been placed on maximum alert following acts of sabotage and violence.",
-        "bullets_bn": [
-          "বেসামরিক বিমান চলাচল কর্তৃপক্ষ এই নির্দেশ জারি করে।",
-          "বিমানবন্দর কর্তৃপক্ষকে প্রবেশ ও প্রস্থান পয়েন্টে নিরাপত্তা তল্লাশি জোরদার করার নির্দেশ দেওয়া হয়েছে।",
-          "নিরাপত্তা শঙ্কা ও বৃষ্টির কারণে ঢাকায় দৈনন্দিন জীবন ব্যাহত হয়েছে।"
-        ],
-        "bullets_en": [
-          "The Civil Aviation Authority of Bangladesh issued the directive on Wednesday.",
-          "Airport authorities were instructed to strengthen security checks at entry and exit points.",
-          "Security concerns and rain disrupted daily life in Dhaka."
-        ],
-        "impact_bn": "নিরাপত্তা শঙ্কা ও বৃষ্টির কারণে ঢাকায় কিছু বেসরকারি স্কুল বন্ধ ছিল এবং অনেক অভিভাবক খোলা স্কুলে তাদের সন্তানদের পাঠাননি।",
-        "impact_en": "Some private schools remained closed in Dhaka due to security concerns and rain, while many parents chose not to send their children.",
-        "details_bn": "দেশের বিভিন্ন স্থানে ভাঙচুর, অগ্নিসংযোগ ও ককটেল বিস্ফোরণের মতো নাশকতার ঘটনার পরিপ্রেক্ষিতে এই নিরাপত্তা ব্যবস্থা নেওয়া হয়েছে।",
-        "details_en": "The security measures were taken following incidents of vandalism, arson, crude bomb explosions, and other acts of sabotage in different parts of the country.",
-        "hook_bn": "বিমানবন্দরে সর্বোচ্চ সতর্কতা জারি",
+        "impact_bn": "চূড়ান্ত ফল প্রকাশে দেরি এবং ফাঁকা পদ যুক্ত না করা হলে চাকরিপ্রার্থীদের মধ্যে ক্ষোভের সৃষ্টি হবে এবং সরকারি কর্ম কমিশনের প্রতি আস্থা কমে যাবে।",
+        "impact_en": "Delays in final results and failure to add vacant posts will cause anger among candidates and reduce trust in the Public Service Commission.",
+        "details_bn": "৫০তম বিসিএসে মোট ৬ হাজার ১৬৫ জন প্রার্থী লিখিত পরীক্ষায় উত্তীর্ণ হয়েছেন অথচ ক্যাডার ও নন ক্যাডার মিলে পদ রয়েছে মাত্র ২ হাজার ১৫০টি। পূর্ববর্তী বিসিএসের গেজেট ও জয়েনিংয়ের অপেক্ষায় ফল দিতে বিলম্ব হওয়ার কথা উঠে এসেছে। ইতিপূর্বে ৪৫তম বিসিএসের গেজেট ও জয়েনিং সম্পন্ন হয়েছে এবং ৪৬, ৪৭, ৪৮ ও ৪৯তম বিসিএসের ফল দ্রুত প্রকাশিত হয়েছিল।",
+        "details_en": "A total of 6,165 candidates passed the written exam of the 50th BCS, while there are only 2,150 posts in total for cadre and non-cadre. Reports suggest delays are due to waiting for previous BCS gazettes and joinings. Earlier, the 45th BCS gazette and joining were completed, and results for the 46th, 47th, 48th, and 49th BCS were published quickly.",
+        "hook_bn": "৫০তম বিসিএসের ফল প্রকাশে অস্বাভাবিক দেরি",
         "kicker_bn": "সতর্কতা",
         "share_value": true,
-        "question_bn": "আপনার এলাকায় বিমানবন্দরের নিরাপত্তা বা যাতায়াতে কেমন প্রভাব পড়েছে?"
+        "question_bn": "বিসিএস পরীক্ষার ফল প্রকাশে এমন বিলম্ব নিয়ে আপনার মতামত কী?"
       },
       "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-19T08:01:58.558158+00:00"
-      }
-    },
-    {
-      "story_id": "7184a189-e161-5f74-99d8-052738f25284",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment"
-      ],
-      "region": "national",
-      "tags": [
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-19%2Faj64bsip%2Fpanchagarh.jpg?rect=0%2C0%2C3988%2C2094&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-19T07:40:37+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.7021,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/w49qs0wvhh",
-          "title": "চলতি মৌসুমের সর্বনিম্ন তাপমাত্রা আজ তেঁতুলিয়ায়",
-          "snippet": "চলতি মৌসুমের সর্বনিম্ন তাপমাত্রা আজ তেঁতুলিয়ায়"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/rain-likely-across-country-1607511",
-          "title": "Rain likely across country",
-          "snippet": "Rain likely across country"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "তেঁতুলিয়ায় চলতি মৌসুমের সর্বনিম্ন তাপমাত্রা ১২ দশমিক ৪ ডিগ্রি সেলসিয়াস রেকর্ড করা হয়েছে",
-        "title_en": "Tetulia records lowest temperature of the season at 12.4 degrees Celsius",
-        "summary_bn": "পঞ্চগড়ের তেঁতুলিয়ায় ১২ দশমিক ৪ ডিগ্রি সেলসিয়াস তাপমাত্রা রেকর্ড করা হয়েছে, যা চলতি মৌসুমের সর্বনিম্ন তাপমাত্রা।",
-        "summary_en": "Tetulia in Panchagarh recorded a temperature of 12.4 degrees Celsius, marking the lowest of the season.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-19T07:40:37+00:00",
-        "lead_bn": "পঞ্চগড়ের তেঁতুলিয়ায় ১২ দশমিক ৪ ডিগ্রি সেলসিয়াস তাপমাত্রা রেকর্ড করা হয়েছে, যা চলতি মৌসুমের সর্বনিম্ন তাপমাত্রা।",
-        "lead_en": "Tetulia in Panchagarh recorded a temperature of 12.4 degrees Celsius, marking the lowest of the season.",
-        "bullets_bn": [
-          "তেঁতুলিয়া আবহাওয়া পর্যবেক্ষণাগার জানিয়েছে এটি সারা দেশের মধ্যে সর্বনিম্ন তাপমাত্রা।",
-          "আকাশ পরিষ্কার থাকায় রোদ ওঠায় মানুষের মধ্যে স্বস্তি ফিরেছে।",
-          "বৃষ্টিপাতের পাশাপাশি রাতের তাপমাত্রা সামান্য বাড়তে পারে এবং দিনের তাপমাত্রা ১ থেকে ২ ডিগ্রি সেলসিয়াস কমতে পারে।"
-        ],
-        "bullets_en": [
-          "The Tetulia Meteorological Observatory reported this as the lowest temperature across the country.",
-          "Clear skies and sunshine brought relief to the people.",
-          "Rain is likely across the country, while night-time temperatures may rise slightly and daytime temperatures may fall by 1 to 2 degrees Celsius."
-        ],
-        "impact_bn": "রোদ থাকায় কৃষকদের মাঠে কেটে রাখা ধান ঘরে আনতে সুবিধা হবে।",
-        "impact_en": "Sunny weather will help farmers bring home harvested paddy from the fields.",
-        "details_bn": "অগ্রহায়ণের শুরু থেকেই মেঘলা আকাশ, কুয়াশা ও উত্তুরে বাতাসের কারণে পঞ্চগড়ে শীত অনুভূত হচ্ছিল। তেঁতুলিয়া আবহাওয়া পর্যবেক্ষণাগারের ভারপ্রাপ্ত কর্মকর্তা জিতেন্দ্র নাথ রায় জানান, গত কয়েক দিন আকাশ মেঘাচ্ছন্ন থাকলেও মেঘ ও কুয়াশা কমে হালকা হিমেল বাতাস বইছে।",
-        "details_en": "Winter had been felt in Panchagarh since the beginning of Aghrahayan due to cloudy skies, fog, and northern winds. Jitendra Nath Roy, acting officer of the Tetulia Meteorological Observatory, stated that although the sky was completely overcast for the past few days, clouds and fog have decreased with light chilling winds.",
-        "hook_bn": "তেঁতুলিয়ায় মৌসুমের সর্বনিম্ন তাপমাত্রা ১২ দশমিক ৪ ডিগ্রি",
-        "kicker_bn": "আবহাওয়া",
-        "share_value": true,
-        "question_bn": "আপনার এলাকায় কি শীতের আমেজ শুরু হয়েছে?"
-      },
-      "desk_importance": 5.0,
       "outlet_count": 2,
       "trending": false,
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-19T08:01:58.558158+00:00"
+        "checked_at": "2026-11-19T09:02:15.480037+00:00"
       }
     },
     {
-      "story_id": "e7701c14-49ec-504c-b4d3-7facfbbe9b8b",
-      "primary_category": "world_diplomacy",
+      "story_id": "394b4760-8aec-5440-a5cd-4332f1681850",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy",
-        "economy_business",
-        "governance_law"
+        "governance_law",
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#Iran",
-        "#UnitedStates",
-        "#StraitOfHormuz",
-        "#AyatollahAliKhamenei"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afcd08a8f84-1794953354.jpg?resize=1920%2C1440",
+      "image_url": "https://media.channelionline.com/2026/11/Untitled13-8.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-11-19T07:08:57+00:00",
+      "published_at": "2026-11-19T08:29:08+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.3773,
+      "importance_score": 5.25,
+      "rank_score": 2.6716,
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss",
-          "title": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
-          "snippet": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/foreign-minister-meets-us-uk-eu-china/",
+          "title": "পররাষ্ট্রমন্ত্রীর সঙ্গে মার্কিন, ব্রিটিশ, ইইউ ও চীনা কূটনীতিকদের বৈঠক",
+          "snippet": "পররাষ্ট্রমন্ত্রীর সঙ্গে মার্কিন, ব্রিটিশ, ইইউ ও চীনা কূটনীতিকদের বৈঠক"
         },
         {
           "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/821867/%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5-%E0%A6%86%E0%A6%A4%E0%A7%8D%E0%A6%AE%E0%A6%B8%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%9C%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%A6-%E0%A6%93",
-          "title": "অর্থ আত্মসাতের মামলায় সাবেক ভূমিমন্ত্রী জাবেদ ও তার স্ত্রীর সাজা",
-          "snippet": "অর্থ আত্মসাতের মামলায় সাবেক ভূমিমন্ত্রী জাবেদ ও তার স্ত্রীর সাজা"
+          "url": "https://www.ittefaq.com.bd/821882/%E0%A6%AA%E0%A6%B0%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%96%E0%A6%B2%E0%A6%BF%E0%A6%B2%E0%A7%81%E0%A6%B0-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87",
+          "title": "পররাষ্ট্রমন্ত্রী খলিলুর রহমানের সঙ্গে যুক্তরাষ্ট্রসহ পাঁচ দেশের কূটনীতিকের বৈঠক",
+          "snippet": "পররাষ্ট্রমন্ত্রী খলিলুর রহমানের সঙ্গে যুক্তরাষ্ট্রসহ পাঁচ দেশের কূটনীতিকের বৈঠক"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/national/981925/%E0%A6%AA%E0%A6%B0%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87-%E0%A6%A6%E0%A6%AB%E0%A6%BE%E0%A7%9F-%E0%A6%A6%E0%A6%AB%E0%A6%BE%E0%A7%9F-%E0%A6%95%E0%A7%82%E0%A6%9F%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%88%E0%A6%A0%E0%A6%95%C2%A0",
+          "title": "পররাষ্ট্র মন্ত্রণালয়ে দফায় দফায় কূটনীতিকদের বৈঠক",
+          "snippet": "পররাষ্ট্র মন্ত্রণালয়ে দফায় দফায় কূটনীতিকদের বৈঠক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "যুক্তরাষ্ট্রের অবরোধ ও সামরিক চাপে ইরানের অর্থনীতি সংকুচিত হওয়ার আশঙ্কা",
-        "title_en": "Iran economy expected to contract further under US blockade and military pressure",
-        "summary_bn": "যুক্তরাষ্ট্রের চলমান নৌ ও অর্থনৈতিক অবরোধের কারণে ইরানের অর্থনীতি আরও সংকুচিত হবে বলে আশা করা হচ্ছে।",
-        "summary_en": "Iran’s economy is expected to contract further due to the ongoing blockade of its ports by the United States.",
+        "title_bn": "পররাষ্ট্রমন্ত্রীর সঙ্গে যুক্তরাষ্ট্রসহ পাঁচ দেশের কূটনীতিকদের বৈঠক",
+        "title_en": "Diplomats from five countries meet Foreign Minister",
+        "summary_bn": "পররাষ্ট্রমন্ত্রী ড. খলিলুর রহমানের সঙ্গে পররাষ্ট্র মন্ত্রণালয়ে বৈঠক করেছেন যুক্তরাষ্ট্র, যুক্তরাজ্য, ইউরোপীয় ইউনিয়ন, চীন ও ভারতের কূটনীতিকরা।",
+        "summary_en": "Diplomats from the United States, United Kingdom, European Union, China and India met Foreign Minister Dr. Khalilur Rahman at the Ministry of Foreign Affairs.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "economy_business",
-          "governance_law"
+          "governance_law",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-19T07:08:57+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের চলমান নৌ ও অর্থনৈতিক অবরোধের কারণে ইরানের অর্থনীতি আরও সংকুচিত হবে বলে আশা করা হচ্ছে।",
-        "lead_en": "Iran’s economy is expected to contract further due to the ongoing blockade of its ports by the United States.",
+        "published_at": "2026-11-19T08:29:08+00:00",
+        "lead_bn": "পররাষ্ট্রমন্ত্রী ড. খলিলুর রহমানের সঙ্গে পররাষ্ট্র মন্ত্রণালয়ে বৈঠক করেছেন যুক্তরাষ্ট্র, যুক্তরাজ্য, ইউরোপীয় ইউনিয়ন, চীন ও ভারতের কূটনীতিকরা।",
+        "lead_en": "Diplomats from the United States, United Kingdom, European Union, China and India met Foreign Minister Dr. Khalilur Rahman at the Ministry of Foreign Affairs.",
         "bullets_bn": [
-          "যুক্তরাষ্ট্র হরমুজ প্রণালী পুনরায় উন্মুক্ত করা এবং পারমাণবিক কর্মসূচি হ্রাসের দাবি জানিয়েছে।",
-          "তেহরানভিত্তিক অর্থনীতিবিদ পেমান মোলাভি জানিয়েছেন, বার্ষিক মুদ্রাস্ফীতি প্রায় ৮৫ শতাংশে পৌঁছাতে পারে।",
-          "মার্কিন সামরিক ও অর্থনৈতিক চাপের জবাবে এই সপ্তাহে বাহরাইনে মার্কিন স্বার্থে হামলা চালানো হয়েছে।"
+          "১৯ নভেম্বর পররাষ্ট্র মন্ত্রণালয়ে পৃথকভাবে এই বৈঠকগুলো অনুষ্ঠিত হয়।",
+          "মার্কিন রাষ্ট্রদূত ব্রেন্ট টি. ক্রিস্টেনসেন জানান, আগামী যুক্তরাষ্ট্রের থ্যাংকসগিভিং ডে উপলক্ষে শুভেচ্ছা বিনিময় করতে তিনি দেখা করেছেন।",
+          "বৈঠকে যুক্তরাষ্ট্রের পাশাপাশি যুক্তরাজ্য, ইউরোপীয় ইউনিয়ন, চীন ও ভারতের প্রতিনিধিরা অংশ নেন।"
         ],
         "bullets_en": [
-          "The US has demanded Tehran reopen the Strait of Hormuz and curb its nuclear programme.",
-          "Tehran-based economist Peyman Molavi stated annual inflation could grow to about 85 percent.",
-          "Strikes on US interests in Bahrain occurred this week in response to military and economic pressure."
+          "The meetings were held separately at the Ministry of Foreign Affairs on November 19.",
+          "US Ambassador Brent T. Christensen stated he met to exchange greetings for the upcoming US Thanksgiving Day next Thursday.",
+          "Representatives from the United Kingdom, European Union, China and India also participated in the meetings alongside the United States."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "গত ২৮ ফেব্রুয়ারি সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনির প্রাণহানির ঘটনার মধ্য দিয়ে যুক্তরাষ্ট্র-ইসরাইল যুদ্ধ শুরু হয়। এরপর থেকেই ওয়াশিংটন তেহরানের ওপর সর্বাধিক চাপ প্রয়োগের অংশ হিসেবে নিষেধাজ্ঞা ও অবরোধ বজায় রেখেছে। দশকের পর দশক ধরে বাজেট ঘাটতি মেটাতে অর্থ ছাপানোর ফলে ইরানে দীর্ঘস্থায়ী মুদ্রাস্ফীতি চলছে, যা মার্কিন অবরোধের কারণে আরও তীব্র হয়েছে।",
-        "details_en": "The US-Israel war on Iran began with strikes that killed Iranian Supreme Leader Ayatollah Ali Khamenei on February 28. Washington maintains a maximum pressure campaign involving economic embargoes, trade disruptions, and a naval blockade. Decades of printing money to bridge budget deficits have saddled Iran with chronic inflation, exacerbated by disruptions to oil exports.",
-        "hook_bn": "ইরানের অর্থনীতি আরও সংকুচিত হওয়ার আশঙ্কা",
-        "kicker_bn": "সতর্কতা",
+        "details_bn": "১৯ নভেম্বর সকালে পররাষ্ট্র মন্ত্রণালয়ে পররাষ্ট্রমন্ত্রী ড. খলিলুর রহমানের সঙ্গে দফায় দফায় বৈঠক করেন ঢাকায় নিযুক্ত বিভিন্ন দেশের কূটনীতিকরা। পররাষ্ট্র মন্ত্রণালয় সূত্র জানায়, বৈঠকে মার্কিন রাষ্ট্রদূত ব্রেন্ট টি. ক্রিস্টেনসেন, যুক্তরাজ্যের হাইকমিশনার সারাহ কুক, ইউরোপীয় ইউনিয়নের রাষ্ট্রদূত মাইকেল মিলার, চীনের চার্জ দ্য অ্যাফেয়ার্স এবং ভারতীয় হাইকমিশনার দীনেশ ত্রিবেদী অংশ নেন।",
+        "details_en": "On the morning of November 19, diplomats stationed in Dhaka held successive meetings with Foreign Minister Dr. Khalilur Rahman at the Ministry of Foreign Affairs. According to ministry sources, the participants included US Ambassador Brent T. Christensen, UK High Commissioner Sarah Cook, EU Ambassador Michael Miller, the Chinese Chargé d'Affaires, and Indian High Commissioner Dinesh Trivedi.",
+        "hook_bn": "পররাষ্ট্রমন্ত্রীর সঙ্গে কূটনীতিকদের বৈঠক",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 5.0,
-      "outlet_count": 2,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-19T09:02:15.480037+00:00"
+      }
+    },
+    {
+      "story_id": "f4ecd9be-8503-5f0c-b622-7d4730ba89ae",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation"
+      ],
+      "region": "national",
+      "tags": [
+        "#BangladeshSatellite",
+        "#AviationHub"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1631959408508-53628bec0434?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFuZ2xhZGVzaCUyMGxhdW5jaCUyMGxvY2FsbHklMjBkZXZlbG9wZWQlMjB0ZWNobm9sb2d5fGVufDF8MHx8fDE3OTUwNzg5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-19T08:34:29+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4357,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425120/pm-bangladesh-to-launch-locally-developed",
+          "title": "PM: Bangladesh to launch locally developed satellite within 3 years",
+          "snippet": "PM: Bangladesh to launch locally developed satellite within 3 years"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাংলাদেশ তিন বছরের মধ্যে নিজস্ব স্যাটেলাইট উৎক্ষেপণ করবে",
+        "title_en": "Bangladesh to launch locally developed satellite within 3 years",
+        "summary_bn": "প্রধানমন্ত্রী জানিয়েছেন যে বাংলাদেশ তিন বছরের মধ্যে একটি স্থানীয়ভাবে তৈরি স্যাটেলাইট উৎক্ষেপণ করবে।",
+        "summary_en": "The prime minister set that Bangladesh will launch a locally developed satellite within three years.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T08:34:29+00:00",
+        "lead_bn": "প্রধানমন্ত্রী জানিয়েছেন যে বাংলাদেশ তিন বছরের মধ্যে একটি স্থানীয়ভাবে তৈরি স্যাটেলাইট উৎক্ষেপণ করবে।",
+        "lead_en": "The prime minister set that Bangladesh will launch a locally developed satellite within three years.",
+        "bullets_bn": [
+          "স্থানীয়ভাবে বিকশিত স্যাটেলাইট তিন বছরের মধ্যে উৎক্ষেপণ করা হবে।",
+          "বাংলাদেশকে একটি আঞ্চলিক বিমান চলাচল কেন্দ্র হিসেবে গড়ে তোলার লক্ষ্য নির্ধারণ করা হয়েছে।",
+          "আঞ্চলিক বিমান চলাচল কেন্দ্র করার এই লক্ষ্য ২০৩৪ সালের মধ্যে অর্জন করা হবে।"
+        ],
+        "bullets_en": [
+          "The locally developed satellite will be launched within three years.",
+          "A target has been set to make Bangladesh a regional aviation hub.",
+          "The target to make Bangladesh a regional aviation hub will be achieved by 2034."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "প্রধানমন্ত্রী ২০৩৪ সালের মধ্যে বাংলাদেশকে একটি আঞ্চলিক বিমান চলাচল কেন্দ্র হিসেবে গড়ে তোলার লক্ষ্য নির্ধারণ করেছেন এবং তিন বছরের মধ্যে স্থানীয়ভাবে বিকশিত স্যাটেলাইট উৎক্ষেপণের ঘোষণা দিয়েছেন।",
+        "details_en": "The prime minister set a target to make Bangladesh a regional aviation hub by 2034 and announced the launch of a locally developed satellite within three years.",
+        "hook_bn": "তিন বছরে নিজস্ব স্যাটেলাইট উৎক্ষেপণ করবে বাংলাদেশ",
+        "kicker_bn": "নতুন লক্ষ্য",
+        "share_value": true,
+        "question_bn": "আপনার কি মনে হয় নির্দিষ্ট সময়ের মধ্যে এই লক্ষ্য অর্জন করা সম্ভব হবে?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
       "trending": false,
       "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-19T08:01:58.558158+00:00"
+        "checked_at": "2026-11-19T09:02:15.480037+00:00"
       }
     }
   ]
