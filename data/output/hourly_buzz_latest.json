@@ -1,330 +1,471 @@
 {
-  "updated_at": "2026-11-19T07:00:51.444402",
-  "total_stories": 4,
+  "updated_at": "2026-11-19T08:00:41.047724",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "51403df5-a047-5b48-a19c-f2cb3a567e34",
-      "primary_category": "economy_business",
+      "story_id": "4539394b-e329-5303-83ab-69ee6b59e4cd",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "economy_business",
         "governance_law",
-        "society_education"
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#AgargaonMetroRailStation",
+        "#KafrulPolice"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-19%2Fmq5l2qul%2Fgazipurdh071620261119sreepur-labor-4.jpg?rect=0%2C48%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/19/crude_bomb_agargaon.jpg",
       "image_caption": null,
-      "published_at": "2026-11-19T06:19:19+00:00",
+      "published_at": "2026-11-19T07:20:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 9.0,
-      "rank_score": 7.7791,
+      "importance_score": 7.5,
+      "rank_score": 5.4061,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/o7dn55m5uv",
-          "title": "শ্রমিক অসন্তোষের জেরে গাজীপুর ও সাভারে ২০ কারখানায় ছুটি, বন্ধ অর্ধশতাধিক",
-          "snippet": "শ্রমিক অসন্তোষের জেরে গাজীপুর ও সাভারে ২০ কারখানায় ছুটি, বন্ধ অর্ধশতাধিক"
-        },
-        {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/workers-continue-work-stoppage-savar-ashulia-50-gazipur-factories-shut-1607406",
-          "title": "Workers continue work stoppage in Savar, Ashulia; 50 Gazipur factories shut",
-          "snippet": "Workers continue work stoppage in Savar, Ashulia; 50 Gazipur factories shut"
+          "url": "https://www.tbsnews.net/bangladesh/crude-bomb-explodes-beneath-agargaon-metro-rail-station-no-casualties-reported-1607596",
+          "title": "Crude bomb explodes beneath Agargaon Metro Rail Station, no casualties reported",
+          "snippet": "Crude bomb explodes beneath Agargaon Metro Rail Station, no casualties reported"
         },
         {
           "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/nation/425103/around-20-factories-in-gazipur-declare-holiday",
-          "title": "Around 20 factories in Gazipur declare holiday amid workers' unrest",
-          "snippet": "Around 20 factories in Gazipur declare holiday amid workers' unrest"
+          "url": "https://www.dhakatribune.com/bangladesh/nation/425115/crude-bomb-explodes-at-pabna-upazila-parishad-bus",
+          "title": "Crude bomb explodes at Pabna Upazila Parishad, bus torched in Sujanagar",
+          "snippet": "Crude bomb explodes at Pabna Upazila Parishad, bus torched in Sujanagar"
         },
         {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/post-1222935/",
-          "title": "রাজধানীতে নাশকতার অভিযোগে নিষিদ্ধ আ. লীগের ১০৭ জন গ্রেফতার",
-          "snippet": "রাজধানীতে নাশকতার অভিযোগে নিষিদ্ধ আ. লীগের ১০৭ জন গ্রেফতার"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1181292",
+          "title": "পঞ্চগড় জেলা প্রশাসন কার্যালয়ে বোমা সাদৃশ্য বস্তু নিয়ে আতঙ্ক",
+          "snippet": "পঞ্চগড় জেলা প্রশাসন কার্যালয়ে বোমা সাদৃশ্য বস্তু নিয়ে আতঙ্ক"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/rangpur/981916/%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A7%8B%E0%A6%AE%E0%A6%BE-%E0%A6%B8%E0%A6%A6%E0%A7%83%E0%A6%B6-%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81-%E0%A6%98%E0%A6%BF%E0%A6%B0%E0%A7%87",
+          "title": "জেলা প্রশাসকের কার্যালয়ে বোমা সদৃশ বস্তু, ঘিরে রেখেছে পুলিশ",
+          "snippet": "জেলা প্রশাসকের কার্যালয়ে বোমা সদৃশ বস্তু, ঘিরে রেখেছে পুলিশ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শ্রমিক অসন্তোষের জেরে গাজীপুর ও সাভারে কারখানা ছুটি ও বন্ধ ঘোষণা",
-        "title_en": "Factories declared closed and on leave in Gazipur and Savar amid labor unrest",
-        "summary_bn": "শ্রমিক অসন্তোষের জেরে গাজীপুর ও ঢাকার সাভারে অন্তত ২০টি তৈরি পোশাক কারখানায় ছুটি ঘোষণা করা হয়েছে এবং অর্ধশতাধিক কারখানা বন্ধ করা হয়েছে।",
-        "summary_en": "Leave was declared in at least twenty garment factories and over fifty factories were closed in Gazipur and Savar amid labor unrest.",
+        "title_bn": "আগারগাঁও মেট্রো স্টেশন সংলগ্ন এলাকায় ককটেল বিস্ফোরণ",
+        "title_en": "Crude bomb explodes beneath Agargaon Metro Rail Station",
+        "summary_bn": "রাজধানীর আগারগাঁও মেট্রো রেল স্টেশনের নিচে একটি ককটেল বিস্ফোরিত হয়েছে, যাতে কেউ হতাহত হয়নি।",
+        "summary_en": "A crude bomb exploded beneath the capital's Agargaon Metro Rail Station, leaving no one injured.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
           "governance_law",
-          "society_education"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-19T06:19:19+00:00",
-        "lead_bn": "শ্রমিক অসন্তোষের জেরে গাজীপুর ও ঢাকার সাভারে অন্তত ২০টি তৈরি পোশাক কারখানায় ছুটি ঘোষণা করা হয়েছে এবং অর্ধশতাধিক কারখানা বন্ধ করা হয়েছে।",
-        "lead_en": "Leave was declared in at least twenty garment factories and over fifty factories were closed in Gazipur and Savar amid labor unrest.",
+        "published_at": "2026-11-19T07:20:00+00:00",
+        "lead_bn": "রাজধানীর আগারগাঁও মেট্রো রেল স্টেশনের নিচে একটি ককটেল বিস্ফোরিত হয়েছে, যাতে কেউ হতাহত হয়নি।",
+        "lead_en": "A crude bomb exploded beneath the capital's Agargaon Metro Rail Station, leaving no one injured.",
         "bullets_bn": [
-          "মজুরি বৃদ্ধির দাবিতে গাজীপুরের মাওনা ও গড়গড়িয়া মাস্টারবাড়ি এলাকায় শ্রমিকেরা ঢাকা-ময়মনসিংহ মহাসড়কে বিক্ষোভ করেন।",
-          "গাজীপুর শিল্প পুলিশ-২-এর পুলিশ সুপার আমজাদ হোসাইন জানান যে বিভিন্ন স্থানে বিচ্ছিন্নভাবে শ্রমিক অসন্তোষের ঘটনা ঘটছে।",
-          "গাজীপুরের শিল্পাঞ্চলের নিরাপত্তায় ১৩ প্লাটুন বিজিবি, ৫ প্লাটুন স্পেশাল রিজার্ভ ফোর্স এবং ১২ প্লাটুন আনসার সদস্য মোতায়েন আছেন।"
+          "ঘটনাটি ঘটে ১৯ নভেম্বর দুপুর ১২টা ১০ মিনিটের দিকে।",
+          "মোটরসাইকেলে এসে স্টেশনের পাম্প রুম ও বি গেটের মাঝের সড়কে ককটেলটি রেখে পালিয়ে যায় অজ্ঞাত ব্যক্তি।",
+          "কাফরুল থানার ভারপ্রাপ্ত কর্মকর্তা (ওসি) সাইফুল ইসলাম বিষয়টি নিশ্চিত করে জানান যে পুলিশ জড়িত ব্যক্তিকে শনাক্ত করার চেষ্টা করছে।"
         ],
         "bullets_en": [
-          "Workers demonstrated on the Dhaka-Mymensingh highway in Gazipur's Maona and Gargaoria Masterbari areas demanding a wage increase.",
-          "Gazipur Industrial Police-2 Superintendent of Police Amzad Hossain stated that sporadic incidents of labor unrest are occurring in various places.",
-          "Thirteen platoons of BGB, five platoons of Special Reserve Force, and twelve platoons of Ansar members are deployed for security in the Gazipur industrial area."
+          "The explosion took place around 12:10pm.",
+          "An unidentified person on a motorcycle detonated the crude bomb on the road between the station's pump room and Gate B.",
+          "Kafrul Police Station Officer-in-Charge Saiful Islam confirmed that police were trying to identify the person involved."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ন্যূনতম মজুরি ৩০ হাজার টাকা নির্ধারণসহ বিভিন্ন দাবিতে শ্রমিকদের আন্দোলনের মুখে গাজীপুর ও সাভারে তৈরি পোশাক কারখানাগুলো বন্ধ রাখা হয়েছে। গাজীপুরে শ্রমিকেরা ঢাকা–ময়মনসিংহ মহাসড়ক অবরোধ করে বিক্ষোভ করলে পুলিশ তাঁদের সরিয়ে দেয়। বাংলাদেশ শ্রম আইন, ২০০৬-এর ১৩(১) ধারা অনুযায়ী কর্তৃপক্ষ অর্ধশতাধিক কারখানা অনির্দিষ্টকালের জন্য বন্ধ ঘোষণা করেছে। পরিস্থিতি নিয়ন্ত্রণে রাখতে শিল্প পুলিশ কাজ করছে এবং আইনশৃঙ্খলা রক্ষাকারী বাহিনীর সদস্যরা মোতায়েন রয়েছেন।",
-        "details_en": "Garment factories in Gazipur and Savar have remained closed amid workers' protests demanding various demands including a minimum wage of 30,000 taka. In Gazipur, workers blocked the Dhaka-Mymensingh highway and police removed them. According to Section 13(1) of the Bangladesh Labour Act, 2006, authorities declared more than fifty factories closed indefinitely. Industrial police are working to control the situation and law enforcement personnel are deployed.",
-        "hook_bn": "২০ কারখানা ছুটি, অর্ধশতাধিক বন্ধ",
+        "details_bn": "পুলিশ ঘটনাস্থল থেকে বিস্ফোরিত তামাকের কৌটাটি উদ্ধার করেছে।",
+        "details_en": "Police recovered the exploded tobacco tin from the spot.",
+        "hook_bn": "আগারগাঁও মেট্রো স্টেশনের নিচে ককটেল বিস্ফোরণ",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 8.0,
-      "outlet_count": 4,
-      "trending": true,
-      "social_appeal": 9.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-19T07:02:06.073332+00:00"
-      }
-    },
-    {
-      "story_id": "56c47beb-88d3-5a54-bb9c-ba28ad43ad3e",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Rayerbazar",
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1781791968103-ec61a964ee59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8b25lJTIwdGhvdXNhbmQlMjB0b3VyaXN0cyUyMHN0cmFuZGVkJTIwZW52aXJvbm1lbnR8ZW58MXwwfHx8MTc5NTA3MTY5NHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-19T05:33:58+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.75,
-      "rank_score": 5.5219,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/425100/fire-breaks-out-at-rayerbazar-kitchen-market",
-          "title": "Fire breaks out at Rayerbazar kitchen market",
-          "snippet": "Fire breaks out at Rayerbazar kitchen market"
-        },
-        {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/industries/tourism/news/tourist-ships-st-martins-suspended-1500-stranded-island-4328001",
-          "title": "Tourist ships to St Martin’s suspended, 1,500 stranded on island",
-          "snippet": "Tourist ships to St Martin’s suspended, 1,500 stranded on island"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সেন্ট মার্টিনে আটকে গেছে ১,০০০ থেকে ১,৫০০ পর্যটক",
-        "title_en": "One thousand to 1,500 tourists stranded on St Martin’s Island",
-        "summary_bn": "ঘূর্ণিঝড় আকভানের প্রভাবে উত্তাল সমুদ্রের কারণে সেন্ট মার্টিন দ্বীপে এক হাজার থেকে ১৫০০ পর্যটক আটকা পড়েছেন।",
-        "summary_en": "Rough seas left 1,000 to 1,500 tourists stranded on St Martin’s Island as Cyclone Akvan approaches.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-19T05:33:58+00:00",
-        "lead_bn": "ঘূর্ণিঝড় আকভানের প্রভাবে উত্তাল সমুদ্রের কারণে সেন্ট মার্টিন দ্বীপে এক হাজার থেকে ১৫০০ পর্যটক আটকা পড়েছেন।",
-        "lead_en": "Rough seas left 1,000 to 1,500 tourists stranded on St Martin’s Island as Cyclone Akvan approaches.",
-        "bullets_bn": [
-          "উত্তাল সমুদ্রের কারণে সেন্ট মার্টিন রুটে জলযান চলাচল স্থগিত করা হয়েছে।",
-          "থেকে পরবর্তী নির্দেশ না দেওয়া পর্যন্ত এই স্থগিতাদেশ কার্যকর থাকবে।",
-          "এদিকে ঢাকার রায়বাজার কিচেন মার্কেটে একটি অগ্নিকাণ্ডের ঘটনা ঘটেছে।"
-        ],
-        "bullets_en": [
-          "Vessel operations on the route were suspended due to rough seas.",
-          "The suspension remains in effect from Thursday until further notice.",
-          "Meanwhile, a fire broke out at the Rayerbazar kitchen market in Dhaka."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ঘূর্ণিঝড় আকভান উপকূলের দিকে এগিয়ে আসার কারণে সৃষ্ট উত্তাল সমুদ্রের পরিস্থিতিতে সেন্ট মার্টিন রুটে পর্যটকবাহী জাহাজ চলাচল বন্ধ করা হয়েছে। এর ফলে দ্বীপে পর্যটকেরা আটকা পড়েন। পৃথক আরেকটি ঘটনায় ঢাকার রায়বাজার কিচেন মার্কেটে আগুন লাগে।",
-        "details_en": "Tourist ship services to St Martin’s Island were halted due to rough seas as Cyclone Akvan approaches the coast. In a separate incident, a fire broke out at the Rayerbazar kitchen market in Dhaka.",
-        "hook_bn": "সেন্ট মার্টিনে আটকা পড়েছে দেড় হাজার পর্যটক",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": null
-      },
       "desk_importance": 7.0,
-      "outlet_count": 2,
-      "trending": true,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-19T07:02:06.073332+00:00"
-      }
-    },
-    {
-      "story_id": "379dd6cd-8eb2-5e64-b945-7ab47f812b15",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Kathalbagan",
-        "#FireService",
-        "#NationalInstituteOfBurnAndPlasticSurgery"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/19/fire_service_.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-19T04:05:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.75,
-      "rank_score": 3.845,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/5-burn-victims-hospitalised-after-fire-kathalbagan-residential-building-1607376",
-          "title": "5 burn victims hospitalised after fire at Kathalbagan residential building",
-          "snippet": "5 burn victims hospitalised after fire at Kathalbagan residential building"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/dhaka/425098/five-burned-in-gas-leak-fire-at-kathalbagan",
-          "title": "Five burned in gas leak fire at Kathalbagan",
-          "snippet": "Five burned in gas leak fire at Kathalbagan"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/five-including-infant-burnt-in-kathalbagan-gas-fire",
-          "title": "Five, including infant, burnt in Kathalbagan gas fire",
-          "snippet": "Five, including infant, burnt in Kathalbagan gas fire"
-        },
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/capital/post-1222943/",
-          "title": "রাজধানীর কাঁঠালবাগানে গ্যাসের লিকেজ থেকে বিস্ফোরণ, একই পরিবারের ৩ জনসহ দগ্ধ ৫",
-          "snippet": "রাজধানীর কাঁঠালবাগানে গ্যাসের লিকেজ থেকে বিস্ফোরণ, একই পরিবারের ৩ জনসহ দগ্ধ ৫"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রাজধানীর কাঁঠালবাগানে আগুনে দগ্ধ ৫ জন",
-        "title_en": "Five burn victims in Kathalbagan fire",
-        "summary_bn": "রাজধানীর কাঁঠালবাগান এলাকার একটি ১০ তলা আবাসিক ভবনের চতুর্থ তলায় অগ্নিকাণ্ডে পাঁচজন দগ্ধ হয়েছেন।",
-        "summary_en": "Five people suffered burn injuries in a fire at a 10-storey residential building in the capital's Kathalbagan area.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-19T04:05:00+00:00",
-        "lead_bn": "রাজধানীর কাঁঠালবাগান এলাকার একটি ১০ তলা আবাসিক ভবনের চতুর্থ তলায় অগ্নিকাণ্ডে পাঁচজন দগ্ধ হয়েছেন।",
-        "lead_en": "Five people suffered burn injuries in a fire at a 10-storey residential building in the capital's Kathalbagan area.",
-        "bullets_bn": [
-          "কাঞ্চন টাওয়ারের চতুর্থ তলায় আগুন লাগার ঘটনায় তিনজনের অবস্থা আশঙ্কাজনক।",
-          "ফায়ার সার্ভিসের দুটি ইউনিট ঘটনাস্থলে পৌঁছে আগুন নিয়ন্ত্রণে আনে।",
-          "দগ্ধদের জাতীয় বার্ন ও প্লাস্টিক সার্জারি ইনস্টিটিউটে ভর্তি করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "Three of the five victims are in critical condition following the fire on the fourth floor of Kanchan Tower.",
-          "Two firefighting units reached the scene and brought the blaze under control.",
-          "All five burn victims have been admitted to the National Institute of Burn and Plastic Surgery for treatment."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "প্রাথমিকভাবে ধারণা করা হচ্ছে, পাইপলাইন বা গ্যাস সংযোগের লিকেজ থেকে জমে থাকা গ্যাস থেকে এই দুর্ঘটনা ঘটেছে। দগ্ধদের মধ্যে আব্দুর রহমান মানিক, তাঁর স্ত্রী ইফতি সাবা ও তাঁদের এক বছরের ছেলে এবং সঞ্জিদা ইসলাম ও তাঁর মা শামসুন্নাহার বেগম রয়েছেন।",
-        "details_en": "The incident is initially suspected to have been caused by accumulated gas leaking from a pipeline or gas connection. The injured include Abdur Rahman Manik, his wife Ifti Saba, their one-year-old son, Sanjida Islam, and her mother Shamsunnahar Begum.",
-        "hook_bn": "কাঁঠালবাগানে গ্যাস লিকেজ থেকে আগুন, দগ্ধ ৫",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
       "outlet_count": 4,
       "trending": false,
       "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-19T07:02:06.073332+00:00"
+        "checked_at": "2026-11-19T08:01:58.558158+00:00"
       }
     },
     {
-      "story_id": "053a950b-1744-5650-9ebd-60e6d1c76659",
-      "primary_category": "sports_fitness",
+      "story_id": "741e6747-c152-5743-a7ef-3a847946fc32",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "sports_fitness",
+        "world_diplomacy",
+        "economy_business",
+        "society_education",
         "governance_law"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#EmergingNationsTrophy",
-        "#BangladeshCricket",
-        "#NigarSultana"
+        "#Bangladesh",
+        "#Rohingya",
+        "#UnitedNations",
+        "#Myanmar"
       ],
-      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFuZ2xhZGVzaCUyMGV4aXQlMjBlbWVyZ2luZyUyMG5hdGlvbnMlMjBzcG9ydHN8ZW58MXwwfHx8MTc5NTA3MTcyNnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/19/image-447698-1795072352.jpg",
       "image_caption": null,
-      "published_at": "2026-11-19T06:03:52+00:00",
+      "published_at": "2026-11-19T07:25:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.4063,
+      "importance_score": 7.25,
+      "rank_score": 5.0761,
       "sources": [
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/sport/cricket/425105/tigresses-exit-emerging-nations-trophy-despite-win",
-          "title": "Tigresses exit Emerging Nations Trophy despite win over Thailand",
-          "snippet": "Tigresses exit Emerging Nations Trophy despite win over Thailand"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/bangladesh-urges-repatriation-un-backs-rohingya-justice-1607616",
+          "title": "Bangladesh urges repatriation as UN backs Rohingya justice",
+          "snippet": "Bangladesh urges repatriation as UN backs Rohingya justice"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/rohingya-resolution-adopted-un-overwhelming-vote/",
+          "title": "জাতিসংঘে বিপুল ভোটে গৃহীত ‘রোহিঙ্গা প্রস্তাব’",
+          "snippet": "জাতিসংঘে বিপুল ভোটে গৃহীত ‘রোহিঙ্গা প্রস্তাব’"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/981915/%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%AA%E0%A7%81%E0%A6%B2-%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A7%87-%E0%A6%B0%E0%A7%8B%E0%A6%B9%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%AC-%E0%A6%97%E0%A7%83%E0%A6%B9%E0%A7%80%E0%A6%A4",
+          "title": "জাতিসংঘে বিপুল ভোটে রোহিঙ্গা প্রস্তাব গৃহীত",
+          "snippet": "জাতিসংঘে বিপুল ভোটে রোহিঙ্গা প্রস্তাব গৃহীত"
         }
       ],
       "daily_buzz": {
-        "title_bn": "থাইল্যান্ডের বিপক্ষে জয় সত্ত্বেও ইমার্জিং নেশনস ট্রফি থেকে বিদায় নিলো বাংলাদেশ।",
-        "title_en": "Bangladesh exit Emerging Nations Trophy despite win over Thailand.",
-        "summary_bn": "থাইল্যান্ডের বিপক্ষে জয় পাওয়া সত্ত্বেও বাংলাদেশ ইমার্জিং নেশনস ট্রফি থেকে বিদায় নিয়েছে।",
-        "summary_en": "Bangladesh exited the Emerging Nations Trophy despite a win over Thailand.",
+        "title_bn": "জাতিসংঘে বিপুল ভোটে রোহিঙ্গা মানবাধিকার প্রস্তাব গৃহীত হয়েছে",
+        "title_en": "UN adopts Rohingya human rights resolution with overwhelming support",
+        "summary_bn": "মিয়ানমারে রোহিঙ্গা ও সংখ্যালঘু মানবাধিকার নিয়ে জাতিসংঘের সাধারণ পরিষদে ওআইসি ও ইইউর প্রস্তাব ১২৮ ভোটে গৃহীত হয়েছে।",
+        "summary_en": "The UN General Assembly adopted an OIC and EU-led resolution on Rohingya human rights with 128 votes.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness",
+          "world_diplomacy",
+          "economy_business",
+          "society_education",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-19T06:03:52+00:00",
-        "lead_bn": "থাইল্যান্ডের বিপক্ষে জয় পাওয়া সত্ত্বেও বাংলাদেশ ইমার্জিং নেশনস ট্রফি থেকে বিদায় নিয়েছে।",
-        "lead_en": "Bangladesh exited the Emerging Nations Trophy despite a win over Thailand.",
+        "published_at": "2026-11-19T07:25:00+00:00",
+        "lead_bn": "মিয়ানমারে রোহিঙ্গা ও সংখ্যালঘু মানবাধিকার নিয়ে জাতিসংঘের সাধারণ পরিষদে ওআইসি ও ইইউর প্রস্তাব ১২৮ ভোটে গৃহীত হয়েছে।",
+        "lead_en": "The UN General Assembly adopted an OIC and EU-led resolution on Rohingya human rights with 128 votes.",
         "bullets_bn": [
-          "বাংলাদেশ টসে হেরে প্রথমে ব্যাটিং করতে নামে।",
-          "ব্যাটিংয়ে নেমে বাংলাদেশ শুরুতেই ধুঁকতে থাকে এবং কম রানে দুই ওপেনারকে হারায়।",
-          "নিগার সুলতানা জ্যೋತಿ এবং শারমিন আক্তার ইনিংস পুনর্গঠনের চেষ্টা করেন।"
+          "প্রস্তাবটির পক্ষে ১২৮টি দেশ ভোট দিয়েছে এবং বিপক্ষে ৬টি দেশ ভোট দিয়েছে।",
+          "ভোটাভুটিতে ৩৩টি দেশ ভোটদানে বিরত ছিল বলে তথ্য বিবরণীতে জানানো হয়েছে।",
+          "বাংলাদেশ দ্রুত রোহিঙ্গা প্রত্যাবাসনের জন্য আন্তর্জাতিক সম্প্রদায়ের কার্যকর উদ্যোগ দাবি করেছে।"
         ],
         "bullets_en": [
-          "Bangladesh batted first after losing the toss.",
-          "Bangladesh struggled early in the innings and lost both openers cheaply.",
-          "Nigar Sultana Joty and Sharmin Akhter attempted to rebuild the innings."
+          "The resolution received 128 votes in favour while six countries voted against it.",
+          "A total of 33 countries abstained from voting on the resolution.",
+          "Bangladesh urged the international community to take effective steps for early Rohingya repatriation."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ম্যাচে প্রথমে ব্যাট করতে নেমে বাংলাদেশ দল শুরুতেই বিপাকে পড়ে এবং কম রানে দুই ওপেনারকে হারায়। এরপর নিগার সুলতানা জ্যೋತಿ ও শারমিন আক্তার ইনিংস মেরামতের চেষ্টা চালান। নিগার ৩৬ বলে দলের পক্ষে সর্বোচ্চ ৪৫ রান করেন এবং শারমিন ১৬ রান অবদান রাখেন।",
-        "details_en": "Batting first after losing the toss, Bangladesh struggled early and lost both openers cheaply. Nigar Sultana Joty and Sharmin Akhter attempted to rebuild the innings, with Nigar scoring team-best 45 off 36 balls and Sharmin contributing 16.",
-        "hook_bn": "ইমার্জিং নেশনস ট্রফি থেকে বাংলাদেশের বিদায়",
-        "kicker_bn": null,
+        "impact_bn": "দীর্ঘস্থায়ী এই সংকটের কারণে বাংলাদেশের ওপর সামাজিক, অর্থনৈতিক, পরিবেশগত ও নিরাপত্তা চাপ অব্যাহত রয়েছে।",
+        "impact_en": "The prolonged displacement continues to impose enormous social, economic, environmental and security burdens on Bangladesh.",
+        "details_bn": "নিউইয়র্কে ১৮ নভেম্বর ওআইসি ও ইইউর উদ্যোগে প্রস্তাবটি গৃহীত হয়। জাতিসংঘে বাংলাদেশের চার্জ দ্য অ্যাফেয়ার্স শানচিটা হক জানান, রোহিঙ্গা সংকটের নয় বছর পার হলেও প্রত্যাবাসনে কোনো অগ্রগতি হয়নি। তিনি উল্লেখ করেন, সংকটের মূল উৎপত্তি মিয়ানমারে এবং এর টেকসই সমাধানও মিয়ানমারেই খুঁজে বের করতে হবে। এছাড়া ব্র্যাকের একটি সমীক্ষায় দেখা গেছে, প্রয়োজনীয় পরিবেশ তৈরি হলে ৭৬.৭ শতাংশ রোহিঙ্গা ফিরে যেতে চায়।",
+        "details_en": "The resolution was adopted in New York on 18 November through the initiative of the OIC and EU. Bangladesh Chargé d'Affaires Shanchita Haque stated that despite nine years passing, no progress was achieved on repatriation. She noted the crisis originated in Myanmar and a lasting solution must be found there. A BRAC study also found 76.7 percent would return if conditions were met.",
+        "hook_bn": "রোহিঙ্গা সংকটের নয় বছরেও কোনো অগ্রগতি হয়নি",
+        "kicker_bn": "জাতিসংঘ প্রস্তাব",
         "share_value": false,
-        "question_bn": "ইমার্জিং নেশনস ট্রফিতে বাংলাদেশ দলের এই পারফরম্যান্স নিয়ে আপনার মতামত কী?"
+        "question_bn": "রোহিঙ্গা সংকট সমাধানে আন্তর্জাতিক সম্প্রদায়ের আরও কী করা উচিত বলে আপনি মনে করেন?"
       },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
+      "desk_importance": 7.0,
+      "outlet_count": 3,
       "trending": false,
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-19T07:02:06.073332+00:00"
+        "checked_at": "2026-11-19T08:01:58.558158+00:00"
+      }
+    },
+    {
+      "story_id": "513752b1-4232-54f7-9988-7906b8a07f6d",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Technology",
+        "#Innovation"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2023-01%2F7ec8c3ed-cc4c-4f96-b2cd-d5fd815cae47%2F296354742_3359052967657402_6356735237126333689_n.jpg?rect=0%2C304%2C783%2C411&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2021-06%2Fbe2d99ee-c039-4acf-a6fb-2356c69a08a6%2FKIA_OG_watermark_final.png&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-19T07:18:42+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.25,
+      "rank_score": 3.7495,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.kishoralo.com/feature/tf5kt3bj5b",
+          "title": "বাংলাদেশি পদার্থবিজ্ঞানী এম জাহিদ হাসান পেলেন আমেরিকান ফিজিক্যাল সোসাইটির মর্যাদাপূর্ণ ডেভিসন-জার্মার পুরস্কার",
+          "snippet": "বাংলাদেশি পদার্থবিজ্ঞানী এম জাহিদ হাসান পেলেন আমেরিকান ফিজিক্যাল সোসাইটির মর্যাদাপূর্ণ ডেভিসন-জার্মার পুরস্কার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাংলাদেশি পদার্থবিজ্ঞানী এম জাহিদ হাসান ডেভিসন-জার্মার পুরস্কার পেয়েছেন।",
+        "title_en": "Bangladeshi physicist M. Zahid Hasan received the Davison-Germer prize.",
+        "summary_bn": "যুক্তরাষ্ট্রের আমেরিকান ফিজিক্যাল সোসাইটি ২০২৭ সালের ডেভিসন-জার্মার অ্যাটমিক অর সারফেস ফিজিকস পুরস্কারের জন্য বাংলাদেশি পদার্থবিজ্ঞানী এম জাহিদ হাসানকে নির্বাচিত করেছে।",
+        "summary_en": "The American Physical Society in the United States selected Bangladeshi physicist M. Zahid Hasan for the 2027 Davison-Germer Award in Atomic or Surface Physics.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T07:18:42+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের আমেরিকান ফিজিক্যাল সোসাইটি ২০২৭ সালের ডেভিসন-জার্মার অ্যাটমিক অর সারফেস ফিজিকস পুরস্কারের জন্য বাংলাদেশি পদার্থবিজ্ঞানী এম জাহিদ হাসানকে নির্বাচিত করেছে।",
+        "lead_en": "The American Physical Society in the United States selected Bangladeshi physicist M. Zahid Hasan for the 2027 Davison-Germer Award in Atomic or Surface Physics.",
+        "bullets_bn": [
+          "কোয়ান্টাম পদার্থে টপোলজিক্যাল অবস্থা আবিষ্কার এবং সারফেস সায়েন্সের প্রযুক্তি ব্যবহারের স্বীকৃতি হিসেবে তাঁকে এ সম্মাননা দেওয়া হচ্ছে।",
+          "প্রিন্সটন ইউনিভার্সিটির পদার্থবিজ্ঞানের ইউজিন হিগিন্স অধ্যাপক হিসেবে দায়িত্ব পালন করছেন এম জাহিদ হাসান।",
+          "প্রিন্সটন ইউনিভার্সিটির পদার্থবিজ্ঞান বিভাগের প্রধান জেমস ওলসেন অধ্যাপক হাসানের এই অর্জনে আনন্দ প্রকাশ করেছেন।"
+        ],
+        "bullets_en": [
+          "He is receiving the honor in recognition of discovering topological states in quantum matter and using surface science technology.",
+          "M. Zahid Hasan serves as the Eugene Higgins Professor of Physics at Princeton University.",
+          "James Olsen, head of the physics department at Princeton University, expressed joy over Professor Hasan's achievement."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "এম জাহিদ হাসানের জন্ম ও বেড়ে ওঠা ঢাকায়। তিনি ইউনিভার্সিটি অব টেক্সাস অ্যাট অস্টিন থেকে স্নাতক এবং স্ট্যানফোর্ড ইউনিভার্সিটি থেকে স্নাতকোত্তর ও পিএইচডি সম্পন্ন করেন। ২০০২ সালে প্রিন্সটন ইউনিভার্সিটিতে যোগ দেওয়ার পর ২০১৭ সালে তিনি ইউজিন হিগিন্স অধ্যাপক হন এবং ২০০৮ সাল থেকে ল্যাবরেটরি ফর টপোলজিক্যাল কোয়ান্টাম ম্যাটার অ্যান্ড অ্যাডভান্সড স্পেকট্রোস্কপির প্রধান গবেষক হিসেবে দায়িত্ব পালন করছেন।",
+        "details_en": "M. Zahid Hasan was born and raised in Dhaka. He completed his graduation from the University of Texas at Austin and his master's and PhD from Stanford University. After joining Princeton University in 2002, he became the Eugene Higgins Professor in 2017 and has served as the lead researcher of the Laboratory for Topological Quantum Matter and Advanced Spectroscopy since 2008.",
+        "hook_bn": "ডেভিসন-জার্মার পুরস্কার পেলেন বাংলাদেশি পদার্থবিজ্ঞানী জাহিদ হাসান",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "কোয়ান্টাম পদার্থবিজ্ঞানে বাংলাদেশের এই সাফল্য নিয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-19T08:01:58.558158+00:00"
+      }
+    },
+    {
+      "story_id": "273b477d-dc73-56f7-8254-a910bc59f5c3",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "climate_environment",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#CAAB",
+        "#BangladeshAirports"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1735989287322-03e7b2816e5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YWlycG9ydHMlMjBhY3Jvc3MlMjBiYW5nbGFkZXNoJTIwcGxhY2VkJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1MDc1MzAzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-19T06:14:42+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.2491,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425107/airports-across-bangladesh-placed-on-maximum-alert",
+          "title": "Airports across Bangladesh placed on maximum alert amid security concerns",
+          "snippet": "Airports across Bangladesh placed on maximum alert amid security concerns"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "দেশের সব বিমানবন্দরে সর্বোচ্চ নিরাপত্তা সতর্কতা জারি",
+        "title_en": "Airports across Bangladesh placed on maximum security alert",
+        "summary_bn": "দেশের বিভিন্ন স্থানে নাশকতা ও সহিংসতার ঘটনার পর সব অভ্যন্তরীণ ও আন্তর্জাতিক বিমানবন্দরে সর্বোচ্চ সতর্কতা জারি করা হয়েছে।",
+        "summary_en": "All domestic and international airports across the country have been placed on maximum alert following acts of sabotage and violence.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "climate_environment",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T06:14:42+00:00",
+        "lead_bn": "দেশের বিভিন্ন স্থানে নাশকতা ও সহিংসতার ঘটনার পর সব অভ্যন্তরীণ ও আন্তর্জাতিক বিমানবন্দরে সর্বোচ্চ সতর্কতা জারি করা হয়েছে।",
+        "lead_en": "All domestic and international airports across the country have been placed on maximum alert following acts of sabotage and violence.",
+        "bullets_bn": [
+          "বেসামরিক বিমান চলাচল কর্তৃপক্ষ এই নির্দেশ জারি করে।",
+          "বিমানবন্দর কর্তৃপক্ষকে প্রবেশ ও প্রস্থান পয়েন্টে নিরাপত্তা তল্লাশি জোরদার করার নির্দেশ দেওয়া হয়েছে।",
+          "নিরাপত্তা শঙ্কা ও বৃষ্টির কারণে ঢাকায় দৈনন্দিন জীবন ব্যাহত হয়েছে।"
+        ],
+        "bullets_en": [
+          "The Civil Aviation Authority of Bangladesh issued the directive on Wednesday.",
+          "Airport authorities were instructed to strengthen security checks at entry and exit points.",
+          "Security concerns and rain disrupted daily life in Dhaka."
+        ],
+        "impact_bn": "নিরাপত্তা শঙ্কা ও বৃষ্টির কারণে ঢাকায় কিছু বেসরকারি স্কুল বন্ধ ছিল এবং অনেক অভিভাবক খোলা স্কুলে তাদের সন্তানদের পাঠাননি।",
+        "impact_en": "Some private schools remained closed in Dhaka due to security concerns and rain, while many parents chose not to send their children.",
+        "details_bn": "দেশের বিভিন্ন স্থানে ভাঙচুর, অগ্নিসংযোগ ও ককটেল বিস্ফোরণের মতো নাশকতার ঘটনার পরিপ্রেক্ষিতে এই নিরাপত্তা ব্যবস্থা নেওয়া হয়েছে।",
+        "details_en": "The security measures were taken following incidents of vandalism, arson, crude bomb explosions, and other acts of sabotage in different parts of the country.",
+        "hook_bn": "বিমানবন্দরে সর্বোচ্চ সতর্কতা জারি",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": "আপনার এলাকায় বিমানবন্দরের নিরাপত্তা বা যাতায়াতে কেমন প্রভাব পড়েছে?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-19T08:01:58.558158+00:00"
+      }
+    },
+    {
+      "story_id": "7184a189-e161-5f74-99d8-052738f25284",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment"
+      ],
+      "region": "national",
+      "tags": [
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-19%2Faj64bsip%2Fpanchagarh.jpg?rect=0%2C0%2C3988%2C2094&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-19T07:40:37+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.25,
+      "rank_score": 2.7021,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/w49qs0wvhh",
+          "title": "চলতি মৌসুমের সর্বনিম্ন তাপমাত্রা আজ তেঁতুলিয়ায়",
+          "snippet": "চলতি মৌসুমের সর্বনিম্ন তাপমাত্রা আজ তেঁতুলিয়ায়"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/rain-likely-across-country-1607511",
+          "title": "Rain likely across country",
+          "snippet": "Rain likely across country"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "তেঁতুলিয়ায় চলতি মৌসুমের সর্বনিম্ন তাপমাত্রা ১২ দশমিক ৪ ডিগ্রি সেলসিয়াস রেকর্ড করা হয়েছে",
+        "title_en": "Tetulia records lowest temperature of the season at 12.4 degrees Celsius",
+        "summary_bn": "পঞ্চগড়ের তেঁতুলিয়ায় ১২ দশমিক ৪ ডিগ্রি সেলসিয়াস তাপমাত্রা রেকর্ড করা হয়েছে, যা চলতি মৌসুমের সর্বনিম্ন তাপমাত্রা।",
+        "summary_en": "Tetulia in Panchagarh recorded a temperature of 12.4 degrees Celsius, marking the lowest of the season.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T07:40:37+00:00",
+        "lead_bn": "পঞ্চগড়ের তেঁতুলিয়ায় ১২ দশমিক ৪ ডিগ্রি সেলসিয়াস তাপমাত্রা রেকর্ড করা হয়েছে, যা চলতি মৌসুমের সর্বনিম্ন তাপমাত্রা।",
+        "lead_en": "Tetulia in Panchagarh recorded a temperature of 12.4 degrees Celsius, marking the lowest of the season.",
+        "bullets_bn": [
+          "তেঁতুলিয়া আবহাওয়া পর্যবেক্ষণাগার জানিয়েছে এটি সারা দেশের মধ্যে সর্বনিম্ন তাপমাত্রা।",
+          "আকাশ পরিষ্কার থাকায় রোদ ওঠায় মানুষের মধ্যে স্বস্তি ফিরেছে।",
+          "বৃষ্টিপাতের পাশাপাশি রাতের তাপমাত্রা সামান্য বাড়তে পারে এবং দিনের তাপমাত্রা ১ থেকে ২ ডিগ্রি সেলসিয়াস কমতে পারে।"
+        ],
+        "bullets_en": [
+          "The Tetulia Meteorological Observatory reported this as the lowest temperature across the country.",
+          "Clear skies and sunshine brought relief to the people.",
+          "Rain is likely across the country, while night-time temperatures may rise slightly and daytime temperatures may fall by 1 to 2 degrees Celsius."
+        ],
+        "impact_bn": "রোদ থাকায় কৃষকদের মাঠে কেটে রাখা ধান ঘরে আনতে সুবিধা হবে।",
+        "impact_en": "Sunny weather will help farmers bring home harvested paddy from the fields.",
+        "details_bn": "অগ্রহায়ণের শুরু থেকেই মেঘলা আকাশ, কুয়াশা ও উত্তুরে বাতাসের কারণে পঞ্চগড়ে শীত অনুভূত হচ্ছিল। তেঁতুলিয়া আবহাওয়া পর্যবেক্ষণাগারের ভারপ্রাপ্ত কর্মকর্তা জিতেন্দ্র নাথ রায় জানান, গত কয়েক দিন আকাশ মেঘাচ্ছন্ন থাকলেও মেঘ ও কুয়াশা কমে হালকা হিমেল বাতাস বইছে।",
+        "details_en": "Winter had been felt in Panchagarh since the beginning of Aghrahayan due to cloudy skies, fog, and northern winds. Jitendra Nath Roy, acting officer of the Tetulia Meteorological Observatory, stated that although the sky was completely overcast for the past few days, clouds and fog have decreased with light chilling winds.",
+        "hook_bn": "তেঁতুলিয়ায় মৌসুমের সর্বনিম্ন তাপমাত্রা ১২ দশমিক ৪ ডিগ্রি",
+        "kicker_bn": "আবহাওয়া",
+        "share_value": true,
+        "question_bn": "আপনার এলাকায় কি শীতের আমেজ শুরু হয়েছে?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-19T08:01:58.558158+00:00"
+      }
+    },
+    {
+      "story_id": "e7701c14-49ec-504c-b4d3-7facfbbe9b8b",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Iran",
+        "#UnitedStates",
+        "#StraitOfHormuz",
+        "#AyatollahAliKhamenei"
+      ],
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afcd08a8f84-1794953354.jpg?resize=1920%2C1440",
+      "image_caption": null,
+      "published_at": "2026-11-19T07:08:57+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.3773,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss",
+          "title": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
+          "snippet": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/821867/%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5-%E0%A6%86%E0%A6%A4%E0%A7%8D%E0%A6%AE%E0%A6%B8%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%9C%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%A6-%E0%A6%93",
+          "title": "অর্থ আত্মসাতের মামলায় সাবেক ভূমিমন্ত্রী জাবেদ ও তার স্ত্রীর সাজা",
+          "snippet": "অর্থ আত্মসাতের মামলায় সাবেক ভূমিমন্ত্রী জাবেদ ও তার স্ত্রীর সাজা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যুক্তরাষ্ট্রের অবরোধ ও সামরিক চাপে ইরানের অর্থনীতি সংকুচিত হওয়ার আশঙ্কা",
+        "title_en": "Iran economy expected to contract further under US blockade and military pressure",
+        "summary_bn": "যুক্তরাষ্ট্রের চলমান নৌ ও অর্থনৈতিক অবরোধের কারণে ইরানের অর্থনীতি আরও সংকুচিত হবে বলে আশা করা হচ্ছে।",
+        "summary_en": "Iran’s economy is expected to contract further due to the ongoing blockade of its ports by the United States.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T07:08:57+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের চলমান নৌ ও অর্থনৈতিক অবরোধের কারণে ইরানের অর্থনীতি আরও সংকুচিত হবে বলে আশা করা হচ্ছে।",
+        "lead_en": "Iran’s economy is expected to contract further due to the ongoing blockade of its ports by the United States.",
+        "bullets_bn": [
+          "যুক্তরাষ্ট্র হরমুজ প্রণালী পুনরায় উন্মুক্ত করা এবং পারমাণবিক কর্মসূচি হ্রাসের দাবি জানিয়েছে।",
+          "তেহরানভিত্তিক অর্থনীতিবিদ পেমান মোলাভি জানিয়েছেন, বার্ষিক মুদ্রাস্ফীতি প্রায় ৮৫ শতাংশে পৌঁছাতে পারে।",
+          "মার্কিন সামরিক ও অর্থনৈতিক চাপের জবাবে এই সপ্তাহে বাহরাইনে মার্কিন স্বার্থে হামলা চালানো হয়েছে।"
+        ],
+        "bullets_en": [
+          "The US has demanded Tehran reopen the Strait of Hormuz and curb its nuclear programme.",
+          "Tehran-based economist Peyman Molavi stated annual inflation could grow to about 85 percent.",
+          "Strikes on US interests in Bahrain occurred this week in response to military and economic pressure."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "গত ২৮ ফেব্রুয়ারি সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনির প্রাণহানির ঘটনার মধ্য দিয়ে যুক্তরাষ্ট্র-ইসরাইল যুদ্ধ শুরু হয়। এরপর থেকেই ওয়াশিংটন তেহরানের ওপর সর্বাধিক চাপ প্রয়োগের অংশ হিসেবে নিষেধাজ্ঞা ও অবরোধ বজায় রেখেছে। দশকের পর দশক ধরে বাজেট ঘাটতি মেটাতে অর্থ ছাপানোর ফলে ইরানে দীর্ঘস্থায়ী মুদ্রাস্ফীতি চলছে, যা মার্কিন অবরোধের কারণে আরও তীব্র হয়েছে।",
+        "details_en": "The US-Israel war on Iran began with strikes that killed Iranian Supreme Leader Ayatollah Ali Khamenei on February 28. Washington maintains a maximum pressure campaign involving economic embargoes, trade disruptions, and a naval blockade. Decades of printing money to bridge budget deficits have saddled Iran with chronic inflation, exacerbated by disruptions to oil exports.",
+        "hook_bn": "ইরানের অর্থনীতি আরও সংকুচিত হওয়ার আশঙ্কা",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-19T08:01:58.558158+00:00"
       }
     }
   ]
