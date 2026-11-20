@@ -1,5 +1,154 @@
 {
-  "updated_at": "2026-11-20T00:00:40.985323",
-  "total_stories": 0,
-  "stories": []
+  "updated_at": "2026-11-20T01:00:56.470053",
+  "total_stories": 2,
+  "stories": [
+    {
+      "story_id": "c22a5136-2a20-5963-9ab8-fec91ca9e030",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1583794018021-c841442da0e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bmF0dXJlJTIwY2xpbWF0ZSUyMGZsb29kJTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1MTM2NDg3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-19T22:41:46+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.1474,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/campus/news/1181537",
+          "title": "ঘূর্ণিঝড়ে সেন্টমার্টিনে আটকা রাবির ৬৫ শিক্ষক-শিক্ষার্থী",
+          "snippet": "ঘূর্ণিঝড়ে সেন্টমার্টিনে আটকা রাবির ৬৫ শিক্ষক-শিক্ষার্থী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ঘূর্ণিঝড় আকভানের প্রভাবে সেন্টমার্টিনে আটকা রাবির ৬৫ শিক্ষক-শিক্ষার্থী",
+        "title_en": "RU teachers and students stranded in St. Martin due to cyclone Akvan",
+        "summary_bn": "বঙ্গোপসাগরে সৃষ্ট ঘূর্ণিঝড় আকভানের প্রভাবে সাগর উত্তাল থাকায় সেন্টমার্টিনে আটকা পড়েছেন রাজশাহী বিশ্ববিদ্যালয়ের বাংলা বিভাগের ৬৫ জন শিক্ষক-শিক্ষার্থী।",
+        "summary_en": "Sixty-five teachers and students of the Bangla department of Rajshahi University are stranded in St. Martin due to rough seas caused by cyclone Akvan.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-19T22:41:46+00:00",
+        "lead_bn": "বঙ্গোপসাগরে সৃষ্ট ঘূর্ণিঝড় আকভানের প্রভাবে সাগর উত্তাল থাকায় সেন্টমার্টিনে আটকা পড়েছেন রাজশাহী বিশ্ববিদ্যালয়ের বাংলা বিভাগের ৬৫ জন শিক্ষক-শিক্ষার্থী।",
+        "lead_en": "Sixty-five teachers and students of the Bangla department of Rajshahi University are stranded in St. Martin due to rough seas caused by cyclone Akvan.",
+        "bullets_bn": [
+          "ঘূর্ণিঝড় আকভানের প্রভাবে বঙ্গোপসাগর উত্তাল রয়েছে।",
+          "সেন্টমার্টিনে আটকা পড়া ব্যক্তিরা রাজশাহী বিশ্ববিদ্যালয়ের বাংলা বিভাগের শিক্ষক ও শিক্ষার্থী।",
+          "আটকা পড়া শিক্ষক-শিক্ষার্থীর মোট সংখ্যা ৬৫ জন।"
+        ],
+        "bullets_en": [
+          "The Bay of Bengal is rough due to the impact of cyclone Akvan.",
+          "The stranded individuals are teachers and students from the Bangla department of Rajshahi University.",
+          "The total number of stranded teachers and students is sixty-five."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "সেন্টমার্টিনে আটকা রাবির ৬৫ শিক্ষক-শিক্ষার্থী",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T01:01:36.060359+00:00"
+      }
+    },
+    {
+      "story_id": "69830fa6-db7c-5eef-b453-13fc1bfc8b99",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "governance_law",
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#Nvidia",
+        "#JensenHuang",
+        "#RobBonta",
+        "#California"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/391d995652b1403757a6c32be91df37059cee00e/298_0_2975_2380/master/2975.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0a2fef5e175004d33a7d96a8089efa3e",
+      "image_caption": null,
+      "published_at": "2026-11-20T00:27:39+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4202,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+          "title": "California’s top lawyer subpoenas Nvidia over Jensen Huang’s affair with suspected Chinese spy – live",
+          "snippet": "California’s top lawyer subpoenas Nvidia over Jensen Huang’s affair with suspected Chinese spy – live"
+        },
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+          "title": "California targets Nvidia in China AI chip probe",
+          "snippet": "California targets Nvidia in China AI chip probe"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "এনভিডিয়ার বিরুদ্ধে তদন্ত শুরু করেছে ক্যালিফোর্নিয়া",
+        "title_en": "California investigates Nvidia over Jensen Huang affair reports",
+        "summary_bn": "ক্যালিফোর্নিয়ার অ্যাটর্নি জেনারেল রব বন্টা বলেছেন, সাবেক সিইও জেনসেন হুয়াংয়ের সম্পর্ক নিয়ে এনভিডিয়াকে একটি অনুসন্ধানী সমন পাঠানো হয়েছে।",
+        "summary_en": "California attorney general Rob Bonta said his office served an investigative subpoena on Nvidia over former CEO Jensen Huang's affair.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation",
+          "governance_law",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T00:27:39+00:00",
+        "lead_bn": "ক্যালিফোর্নিয়ার অ্যাটর্নি জেনারেল রব বন্টা বলেছেন, সাবেক সিইও জেনসেন হুয়াংয়ের সম্পর্ক নিয়ে এনভিডিয়াকে একটি অনুসন্ধানী সমন পাঠানো হয়েছে।",
+        "lead_en": "California attorney general Rob Bonta said his office served an investigative subpoena on Nvidia over former CEO Jensen Huang's affair.",
+        "bullets_bn": [
+          "তদন্তটি দেখছে কোম্পানিটি বিনিয়োগকারীদের বিভ্রান্ত করেছে কি না এবং চীন উন্নত চিপ বা গোপন তথ্য পেয়েছে কি না।",
+          "অ্যাটর্নি জেনারেল রব বন্টা বলেছেন, এনভিডিয়া ও তার সাবেক সিইওর আচরণে বিনিয়োগকারীদের বিভ্রান্ত করার মতো বড় লাল পতাকা দেখা গেছে।",
+          "চিপ নির্মাতা প্রতিষ্ঠানটির বৈশ্বিক সদর দপ্তর ক্যালিফোর্নিয়ায় অবস্থিত এবং জেনসেন হুয়াংয়ের প্রস্থানের পরই এই তদন্ত শুরু হলো।"
+        ],
+        "bullets_en": [
+          "The probe investigates whether the company misled investors and if China obtained advanced chips or confidential information.",
+          "Attorney general Rob Bonta stated that the conduct of Nvidia and its former CEO raises bright red flags.",
+          "The probe by California, where the chipmaker has its headquarters, follows former CEO Jensen Huang's departure."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "এনভিডিয়াকে অনুসন্ধানী সমন পাঠাল ক্যালিফোর্নিয়া",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T01:01:36.060359+00:00"
+      }
+    }
+  ]
 }
