@@ -1,489 +1,425 @@
 {
-  "updated_at": "2026-11-20T16:00:47.209108",
+  "updated_at": "2026-11-20T17:00:41.569357",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "7682e6a3-aa60-5e98-b270-ae1d095a37ed",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#MuhammadYunus",
-        "#NCP",
-        "#AwamiLeague"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1542718312-da4bb355220b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bmNwJTIwY29uZGVtbnMlMjBhdHRhY2slMjBhcnNvbiUyMGdvdmVybm1lbnR8ZW58MXwwfHx8MTc5NTE5MDY1Nnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-20T15:45:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 8.75,
-      "rank_score": 7.517,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/politics/ncp-condemns-attack-yunuss-residence-demands-immediate-action-1609046",
-          "title": "NCP condemns attack on Yunus's residence, demands immediate action",
-          "snippet": "NCP condemns attack on Yunus's residence, demands immediate action"
-        },
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/jsxxl362aw",
-          "title": "কয়েকজন নেতা আক্রান্ত হওয়ার পর এখন ‘সিরিয়াসলি’ নিয়েছে এনসিপি, মাঠে নামছে ‘সর্বশক্তি’ নিয়ে",
-          "snippet": "কয়েকজন নেতা আক্রান্ত হওয়ার পর এখন ‘সিরিয়াসলি’ নিয়েছে এনসিপি, মাঠে নামছে ‘সর্বশক্তি’ নিয়ে"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/ncp-condemns-attack-arson-residence-former-chief-adviser/",
-          "title": "সাবেক প্রধান উপদেষ্টা মুহাম্মদ ইউনূসের বাড়িতে হামলা-অগ্নিসংযোগের নিন্দা এনসিপির",
-          "snippet": "সাবেক প্রধান উপদেষ্টা মুহাম্মদ ইউনূসের বাড়িতে হামলা-অগ্নিসংযোগের নিন্দা এনসিপির"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/politics/news/1181790",
-          "title": "অধ্যাপক ইউনূসের বাড়িতে অগ্নিসংযোগ আওয়ামী লীগের সন্ত্রাসী তৎপরতার অংশ",
-          "snippet": "অধ্যাপক ইউনূসের বাড়িতে অগ্নিসংযোগ আওয়ামী লীগের সন্ত্রাসী তৎপরতার অংশ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "অধ্যাপক ইউনূসের বাড়িতে হামলা ও অগ্নিসংযোগের তীব্র নিন্দা এনসিপির",
-        "title_en": "NCP condemns attack and arson at Professor Yunus's residence",
-        "summary_bn": "জাতীয় নাগরিক পার্টি অধ্যাপক মুহাম্মদ ইউনূসের বাড়িতে হামলা ও অগ্নিসংযোগের তীব্র নিন্দা জানিয়ে জড়িতদের দ্রুত গ্রেপ্তার ও শাস্তির দাবি জানিয়েছে।",
-        "summary_en": "The National Citizens Party strongly condemned the attack and arson at Professor Muhammad Yunus's residence, demanding immediate arrests and punishment.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-20T15:45:00+00:00",
-        "lead_bn": "জাতীয় নাগরিক পার্টি অধ্যাপক মুহাম্মদ ইউনূসের বাড়িতে হামলা ও অগ্নিসংযোগের তীব্র নিন্দা জানিয়ে জড়িতদের দ্রুত গ্রেপ্তার ও শাস্তির দাবি জানিয়েছে।",
-        "lead_en": "The National Citizens Party strongly condemned the attack and arson at Professor Muhammad Yunus's residence, demanding immediate arrests and punishment.",
-        "bullets_bn": [
-          "দলটি এই ঘটনাকে জননিরাপত্তা ও নিরাপত্তার জন্য একটি গুরুতর হুমকি হিসেবে অভিহিত করেছে।",
-          "এনসিপি অভিযোগ করেছে হামলাটি কার্যক্রম নিষিদ্ধ আওয়ামী লীগের ধারাবাহিক সন্ত্রাসবাদী তৎপরতার অংশ।",
-          "সরকারকে অধ্যাপক ইউনূস ও সকল নাগরিকের সর্বোচ্চ নিরাপত্তা নিশ্চিত করার আহ্বান জানিয়েছে দলটি।"
-        ],
-        "bullets_en": [
-          "The party described the incident as a serious threat to public safety and security.",
-          "The NCP alleged the attack was part of continuing terrorist activities by the banned Awami League.",
-          "The party called on the government to ensure the highest level of security for Professor Yunus and all citizens."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "অধ্যাপক ইউনূসের বাড়িতে হামলা ও অগ্নিসংযোগ",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 8.0,
-      "outlet_count": 4,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-20T16:07:57.814983+00:00"
-      }
-    },
-    {
-      "story_id": "dcc468d6-9c88-5f8a-8241-8f74661a2f42",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#BPC",
-        "#BangladeshPetroleumCorporation",
-        "#RafiqulIslam",
-        "#MinistryOfFinance"
-      ],
-      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_af7e43d66226932a82a524df25ce81ea.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-20T16:00:54.402786+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.8851,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/bpc-seeks-tk-50-billion-more-in-subsidy-to-ensure-fuel-supply-until-december",
-          "title": "BPC seeks Tk 50 billion more in subsidy to ensure fuel supply until December",
-          "snippet": "BPC seeks Tk 50 billion more in subsidy to ensure fuel supply until December"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ডিসেম্বর পর্যন্ত জ্বালানি সরবরাহ নিশ্চিত করতে ৫০ বিলিয়ন টাকা ভর্তুকি চাচ্ছে বিপিসি",
-        "title_en": "BPC seeks Tk 50 billion more in subsidy to ensure fuel supply until December",
-        "summary_bn": "ডিসেম্বর পর্যন্ত জ্বালানি সরবরাহ নিশ্চিত করতে আরও ৫০ বিলিয়ন টাকা ভর্তুকি চেয়েছে রাষ্ট্রায়ত্ত বাংলাদেশ পেট্রোলিয়াম করপোরেশন।",
-        "summary_en": "State-owned Bangladesh Petroleum Corporation is seeking another Tk 50 billion in subsidy to ensure fuel supply in the country until December.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-20T16:00:54.402786+00:00",
-        "lead_bn": "ডিসেম্বর পর্যন্ত জ্বালানি সরবরাহ নিশ্চিত করতে আরও ৫০ বিলিয়ন টাকা ভর্তুকি চেয়েছে রাষ্ট্রায়ত্ত বাংলাদেশ পেট্রোলিয়াম করপোরেশন।",
-        "lead_en": "State-owned Bangladesh Petroleum Corporation is seeking another Tk 50 billion in subsidy to ensure fuel supply in the country until December.",
-        "bullets_bn": [
-          "কোম্পানিটির আর্থিক ঘাটতি মেটাতে অর্থ বিভাগ গত ২৯ সেপ্টেম্বর ৪৫ বিলিয়ন টাকা সুদহীন ঋণ হিসেবে ইস্যু করে।",
-          "বিপিসি চেয়ারম্যান রফিকুল ইসলাম বলেন, ডিসেম্বর পর্যন্ত জ্বালানি সরবরাহ নিশ্চিত করতে আমরা জরুরি ভিত্তিতে ৫০ বিলিয়ন টাকা ভর্তুকি চেয়েছি।",
-          "প্রস্তাবে জ্বালানির দাম সমন্বয়ের বিষয়টি ও উত্থাপন করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "The Finance Division issued Tk 45 billion as an interest-free loan on Sept 29 to cover the company's fiscal deficit.",
-          "BPC Chairman Rafiqul Islam said they requested a subsidy of Tk 50 billion on an urgent basis to ensure fuel supply until December.",
-          "The proposal also raises the issue of adjusting the price of fuel oil."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বিদ্যুৎ, জ্বালানি ও খনিজ সম্পদ মন্ত্রণালয়ের অধীন রাষ্ট্রায়ত্ত সংস্থাটি দেশে জ্বালানি তেল ও পেট্রোলিয়াম পণ্য আমদানি, সংরক্ষণ, পরিশোধন ও বিপণনের দায়িত্ব পালন করে। মার্কিন যুক্তরাষ্ট্র ও ইসরায়েল কর্তৃক ইরানে যুদ্ধ শুরুর পর থেকে বৈশ্বিক বাজারে ডিজেলের দাম বৃদ্ধি এবং মার্কিন ডলারের বিনিময় হার বৃদ্ধির কারণে জ্বালানি ক্রয়ের খরচ উল্লেখযোগ্যভাবে বৃদ্ধি পেয়েছে। মার্চ থেকে অক্টোবর পর্যন্ত জ্বালানি তেল বিক্রিতে ভর্তুকি দেওয়ায় কোম্পানির লোকসান ২৭৬ দশমিক ৯৯ বিলিয়ন টাকায় পৌঁছেছে এবং এর ফলে বিপিসি অর্থ মন্ত্রণালয়ে প্রস্তাব পাঠিয়েছে।",
-        "details_en": "The government agency under the Ministry of Power, Energy and Mineral Resources is responsible for importing, storing, refining and marketing fuel oil and petroleum products. Since the US and Israel launched a war with Iran, fuel purchasing costs jumped significantly due to higher global diesel prices and rising US dollar exchange rates. BPC's losses from March to October due to subsidising fuel oil sales reached Tk 276.99 billion, prompting the proposal to the Ministry of Finance.",
-        "hook_bn": "ডিসেম্বর পর্যন্ত জ্বালানি সরবরাহ নিশ্চিত করতে হবে",
-        "kicker_bn": "দাম বাড়ছে",
-        "share_value": false,
-        "question_bn": "জ্বালানির দাম বাড়লে আপনার দৈনন্দিন খরচে এর কী প্রভাব পড়ে বলে আপনার মনে হয়?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-20T16:07:57.814983+00:00"
-      }
-    },
-    {
-      "story_id": "a779156e-9ec6-5b07-aafb-f8af0cdb5d5b",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_bengali/233d/live/c49c4400-e4cd-11f1-8ebd-0fa6091698b5.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-20T13:04:55+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 4.7339,
-      "sources": [
-        {
-          "name": "BBC News বাংলা",
-          "url": "https://www.bbc.com/bengali/articles/cjp3vy7y6k65o?at_medium=RSS&at_campaign=rss",
-          "title": "রোহিঙ্গা প্রত্যাবাসন নিয়ে বাংলাদেশ এখন কী করবে?",
-          "snippet": "রোহিঙ্গা প্রত্যাবাসন নিয়ে বাংলাদেশ এখন কী করবে?"
-        },
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/myanmar-genocide-ruling-rohingya-say-struggle-for-justice-not-over/a-80003365?maca=en-rss-en-all-1573-rdf",
-          "title": "Myanmar genocide ruling: Rohingya say struggle for justice not over",
-          "snippet": "Myanmar genocide ruling: Rohingya say struggle for justice not over"
-        },
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss",
-          "title": "Myanmar, China object to landmark ICJ ruling on Rohingya genocide",
-          "snippet": "Myanmar, China object to landmark ICJ ruling on Rohingya genocide"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/bangladesh-seeks-rohingya-repatriation-within-12-18-months",
-          "title": "Bangladesh seeks Rohingya repatriation within 12-18 months",
-          "snippet": "Bangladesh seeks Rohingya repatriation within 12-18 months"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "আন্তর্জাতিক আদালত মিয়ানমারকে গণহত্যায় দায়ী করেছে এবং বাংলাদেশ প্রত্যাবাসন চাচ্ছে।",
-        "title_en": "International court holds Myanmar responsible for genocide as Bangladesh seeks repatriation.",
-        "summary_bn": "আন্তর্জাতিক বিচার আদালত মিয়ানমারকে রোহিঙ্গা জনগোষ্ঠীর ওপর জিনোসাইড বা জাতিগত নিধন চালানোর জন্য দায়ী করেছে।",
-        "summary_en": "The International Court of Justice has held Myanmar responsible for genocide against the Rohingya population.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-20T13:04:55+00:00",
-        "lead_bn": "আন্তর্জাতিক বিচার আদালত মিয়ানমারকে রোহিঙ্গা জনগোষ্ঠীর ওপর জিনোসাইড বা জাতিগত নিধন চালানোর জন্য দায়ী করেছে।",
-        "lead_en": "The International Court of Justice has held Myanmar responsible for genocide against the Rohingya population.",
-        "bullets_bn": [
-          "আন্তর্জাতিক বিচার আদালত মিয়ানমারকে ক্ষতিপূরণ ও পুনর্বাসনের নির্দেশ দিয়েছে।",
-          "বাংলাদেশ আগামী ১২ থেকে ১৮ মাসের মধ্যে রোহিঙ্গা প্রত্যাবাসন চাইছে।",
-          "মিয়ানমার ও চীন আইসিজের এই রায় এবং সিদ্ধান্তের প্রতিবাদ জানিয়েছে।"
-        ],
-        "bullets_en": [
-          "The ICJ ordered restitution and reparations from Myanmar.",
-          "Bangladesh seeks Rohingya repatriation within 12-18 months.",
-          "Myanmar and China objected to the landmark ICJ ruling."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বাংলাদেশ প্রায় ১০ বছর ধরে বারো লাখেরও বেশি বাস্তুচ্যুত রোহিঙ্গা শরণার্থীকে আশ্রয় দিয়ে রেখেছে। আন্তর্জাতিক বিচার আদালতের এই রায় আসার পর আশ্রয় নেওয়া রোহিঙ্গাদের নিজ দেশে ফেরত পাঠানোর বিষয়ে আলোচনা চলছে।",
-        "details_en": "Bangladesh has sheltered more than twelve lakh displaced Rohingya refugees for nearly ten years. Following the ICJ ruling, discussions are ongoing regarding sending the refugees back to their home country.",
-        "hook_bn": "রোহিঙ্গা প্রত্যাবাসন নিয়ে বাংলাদেশ এখন কী করবে",
-        "kicker_bn": "রায় ঘোষণা",
-        "share_value": false,
-        "question_bn": "আন্তর্জাতিক আদালতের এই রায় রোহিঙ্গা প্রত্যাবাসন প্রক্রিয়ায় কতটা প্রভাব ফেলবে বলে আপনার মনে হয়?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 5,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-20T16:07:57.814983+00:00"
-      }
-    },
-    {
-      "story_id": "d74d8fd4-c453-53d2-8d51-9bd6fd41ec1f",
+      "story_id": "f7244061-a120-594b-b3cc-0718683d4667",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Gopalganj",
-        "#BusService"
+        "#PoliceInvestigation",
+        "#AdministrativeOfficials",
+        "#IntelligenceAgencies"
       ],
-      "image_url": "https://images.unsplash.com/photo-1570118054363-ff4d296962f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8dHJhZmZpYyUyMGJ1cyUyMHNlcnZpY2VzJTIwcmVzdW1lJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1MTkwODIxfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1729048228129-64569b44caa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cG9saWNlJTIwYWRtaW5pc3RyYXRpdmUlMjBvZmZpY2lhbHMlMjB1bmRlciUyMGdvdmVybm1lbnR8ZW58MXwwfHx8MTc5NTE5NDIyM3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-20T14:47:36+00:00",
+      "published_at": "2026-11-20T16:02:48+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 3.9251,
+      "importance_score": 7.0,
+      "rank_score": 4.622,
       "sources": [
         {
           "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/nation/425284/gopalganj-slowly-returns-to-normal-but-fear-keeps",
-          "title": "Gopalganj slowly returns to normal, but fear keeps streets deserted",
-          "snippet": "Gopalganj slowly returns to normal, but fear keeps streets deserted"
-        },
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/bg9hd4aive",
-          "title": "তিন দিন পর স্বাভাবিক হচ্ছে গোপালগঞ্জ",
-          "snippet": "তিন দিন পর স্বাভাবিক হচ্ছে গোপালগঞ্জ"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/traffic-through-gopalganj-resumes-after-36-hours",
-          "title": "Traffic through Gopalganj resumes after 36 hours",
-          "snippet": "Traffic through Gopalganj resumes after 36 hours"
+          "url": "https://www.dhakatribune.com/bangladesh/425291/secret-al-contact-300-plus-police-under",
+          "title": "Secret AL contact: 300 plus police under investigation",
+          "snippet": "Secret AL contact: 300 plus police under investigation"
         }
       ],
       "daily_buzz": {
-        "title_bn": "৩৬ ঘণ্টা পর গোপালগঞ্জে যানবাহন ও বাস চলাচল শুরু হয়েছে",
-        "title_en": "Traffic and bus services resume through Gopalganj after 36-hour disruption",
-        "summary_bn": "৩৬ ঘণ্টা ব্যাহত থাকার পর গোপালগঞ্জে দূরপাল্লার বাস ও যানবাহন চলাচল শুরু হলেও দোকানপাট অধিকাংশ বন্ধ এবং ট্রেন চলাচল স্থগিত রয়েছে।",
-        "summary_en": "Long-distance bus services and traffic through Gopalganj have resumed after a 36-hour disruption, though shops remain mostly closed and train services stay suspended.",
+        "title_bn": "৩০০ জনের বেশি পুলিশ কর্মকর্তা ও প্রশাসন ক্যাডারের কর্মকর্তারা নজরদারিতে রয়েছেন।",
+        "title_en": "Over 300 police and administrative officials are under surveillance and investigation.",
+        "summary_bn": "নিষিদ্ধ দলের নেতাদের সাথে গোপন যোগাযোগের অভিযোগে ৩০০ জনের বেশি পুলিশ কর্মকর্তা ও প্রশাসনিক কর্মকর্তাকে নজরদারিতে রাখা হয়েছে এবং তদন্ত করা হচ্ছে।",
+        "summary_en": "More than 300 police officers and administrative officials are under surveillance and investigation over alleged links with banned party leaders.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-20T14:47:36+00:00",
-        "lead_bn": "৩৬ ঘণ্টা ব্যাহত থাকার পর গোপালগঞ্জে দূরপাল্লার বাস ও যানবাহন চলাচল শুরু হলেও দোকানপাট অধিকাংশ বন্ধ এবং ট্রেন চলাচল স্থগিত রয়েছে।",
-        "lead_en": "Long-distance bus services and traffic through Gopalganj have resumed after a 36-hour disruption, though shops remain mostly closed and train services stay suspended.",
+        "published_at": "2026-11-20T16:02:48+00:00",
+        "lead_bn": "নিষিদ্ধ দলের নেতাদের সাথে গোপন যোগাযোগের অভিযোগে ৩০০ জনের বেশি পুলিশ কর্মকর্তা ও প্রশাসনিক কর্মকর্তাকে নজরদারিতে রাখা হয়েছে এবং তদন্ত করা হচ্ছে।",
+        "lead_en": "More than 300 police officers and administrative officials are under surveillance and investigation over alleged links with banned party leaders.",
         "bullets_bn": [
-          "খুলনা, বাগেরহাট, সাতক্ষীরা, যশোর, পিরোজপুর ও নড়াইল থেকে পদ্মা সেতু হয়ে বাস গোপালগঞ্জের ওপর দিয়ে চলাচল করছে।",
-          "জেলায় কয়েক দিনের সহিংসতা ও অগ্নিসংযোগের পর স্থানীয়দের মধ্যে আতঙ্ক রয়েছে এবং রাস্তাঘাট মূলত জনশূন্য রয়েছে।",
-          "জেলার কোথাও কার্যক্রম নিষিদ্ধ আওয়ামী লীগ ও তার সহযোগী সংগঠনগুলোর নেতা-কর্মীদের উপস্থিতি চোখে পড়েনি।"
+          "গোয়েন্দা সংস্থাগুলো নিষিদ্ধ দলের নেতাদের সাথে কথিত যোগাযোগের বিষয়টি তদন্ত করছে।",
+          "তদন্তের আওতায় তিন শতাধিক পুলিশ সদস্য ও প্রশাসনিক কর্মকর্তা রয়েছেন।",
+          "প্রশাসনিক কর্মকর্তাদেরও নজরদারির মধ্যে রাখা হয়েছে।"
         ],
         "bullets_en": [
-          "Buses from Khulna, Bagerhat, Satkhira, Jessore, Pirojpur, and Narail are travelling through Gopalganj via Padma Bridge.",
-          "Local residents remain wary and streets stay mostly deserted following days of violence and arson in the district.",
-          "No presence of leaders or activists from the banned Awami League and its associate organizations was seen in the district."
-        ],
-        "impact_bn": "খুলনা অঞ্চল থেকে যাতায়াতকারী যাত্রীরা এখন গোপালগঞ্জ হয়ে পদ্মা সেতু অতিক্রমকারী দূরপাল্লার বাস সেবা ব্যবহার করতে পারছেন।",
-        "impact_en": "Passengers travelling from Khulna region can now use bus services passing through Gopalganj to cross Padma Bridge.",
-        "details_bn": "গোপালগঞ্জে কয়েক দিনের সহিংসতা ও অগ্নিসংযোগের ঘটনার পর ৩৬ ঘণ্টার জন্য পরিবহন চলাচল ব্যাহত হয়। জেলার ভেতর দিয়ে যানবাহন ও দূরপাল্লার বাস চলাচল পুনরায় শুরু হলেও স্থানীয় দোকানপাট অধিকাংশ বন্ধ থাকা, ট্রেন চলাচল স্থগিত থাকা এবং বাসিন্দারা সতর্ক থাকায় স্বাভাবিক জীবনযাত্রা এখনও পুরোপুরি ফেরেনি।",
-        "details_en": "Transportation across the Khulna region was affected by a 36-hour disruption following days of violence and arson in Gopalganj. Although traffic and long-distance bus services through the district have restarted, normal life remains affected as local shops stay mostly closed, train operations remain suspended, and residents remain cautious.",
-        "hook_bn": "গোপালগঞ্জে ৩৬ ঘণ্টা পর বাস চলাচল শুরু",
-        "kicker_bn": null,
-        "share_value": true,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-20T16:07:57.814983+00:00"
-      }
-    },
-    {
-      "story_id": "3ada5b0e-f43b-5923-9690-d0fbbc9682a1",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business"
-      ],
-      "region": "international",
-      "tags": [
-        "#Yemen",
-        "#SaudiArabia",
-        "#Houthis",
-        "#Hodeidah"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/20/saudi.png",
-      "image_caption": null,
-      "published_at": "2026-11-20T15:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.75,
-      "rank_score": 3.1084,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/worldbiz/middle-east/saudi-led-forces-strike-yemen-port-houthis-warn-airlines-kingdom-1608996",
-          "title": "Saudi-led forces strike Yemen port as Houthis warn airlines off the kingdom",
-          "snippet": "Saudi-led forces strike Yemen port as Houthis warn airlines off the kingdom"
-        },
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports?traffic_source=rss",
-          "title": "Saudi coalition and Houthis exchange threats to bomb key ports",
-          "snippet": "Saudi coalition and Houthis exchange threats to bomb key ports"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1181796",
-          "title": "রিয়াদে হুতিদের হামলার নিন্দা জানালো ঢাকা",
-          "snippet": "রিয়াদে হুতিদের হামলার নিন্দা জানালো ঢাকা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সৌদি নেতৃত্বাধীন জোট ইয়েমেনের হোদেইদা বন্দরে বিমান হামলা চালিয়েছে।",
-        "title_en": "Saudi-led coalition strikes Yemen port as Houthis issue airline warnings.",
-        "summary_bn": "সৌদি নেতৃত্বাধীন জোট ইয়েমেনের হোদেইদা বন্দরে বিমান হামলা চালিয়েছে এবং হুতিরা সৌদি আকাশসীমা এড়িয়ে চলার জন্য এয়ারলাইনসকে সতর্ক করেছে।",
-        "summary_en": "The Saudi-led coalition struck Yemen's Hodeidah port while the Houthis warned airlines to avoid Saudi airspace.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-20T15:00:00+00:00",
-        "lead_bn": "সৌদি নেতৃত্বাধীন জোট ইয়েমেনের হোদেইদা বন্দরে বিমান হামলা চালিয়েছে এবং হুতিরা সৌদি আকাশসীমা এড়িয়ে চলার জন্য এয়ারলাইনসকে সতর্ক করেছে।",
-        "lead_en": "The Saudi-led coalition struck Yemen's Hodeidah port while the Houthis warned airlines to avoid Saudi airspace.",
-        "bullets_bn": [
-          "জোট জানিয়েছে, তারা বন্দরের অপারেশনাল সক্ষমতা ধ্বংস করেছে যা চোরাচালান এবং অস্ত্র পরিবহনে ব্যবহৃত হতো।",
-          "হুতি সামরিক মুখপাত্র ইয়াহিয়া সারি সৌদি বন্দরগুলোর আশপাশের কর্মী ও শ্রমিকদের অবিলম্বে সরে যাওয়ার আহ্বান জানিয়েছেন।",
-          "সৌদি আরবের রাজধানী রিয়াদের একটি টাওয়ারে হুতিদের হামলার তীব্র নিন্দা জানিয়েছে ঢাকা।"
-        ],
-        "bullets_en": [
-          "The coalition stated it destroyed operational capabilities at the port used for smuggling and transporting weapons.",
-          "Houthi military spokesperson Yahya Saree urged workers and employees near Saudi ports to evacuate immediately.",
-          "Dhaka strongly condemned the recent Houthi attack targeting a tower in Riyadh, the capital of Saudi Arabia."
+          "Intelligence agencies are investigating the alleged links with banned party leaders.",
+          "More than 300 police officers and administrative officials are under investigation.",
+          "Administrative officials have also been placed under surveillance."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ইয়েমেনের হুতিক নিয়ন্ত্রিত উত্তরাঞ্চলে খাদ্য ও অন্যান্য সরবরাহ নিয়ে আসার প্রধান বন্দর হলো হোদেইদা। এর আগে হুতিরা সৌদির রেড সি পোর্টগুলোতে হামলার হুমকি দিয়েছিল। এছাড়া সৌদি আরবের রাজধানী রিয়াদের কিং আবদুল্লাহ ফিন্যান্সিয়াল ডিস্ট্রিক্টের একটি টাওয়ারে হুতিরা হামলা চালিয়েছিল।",
-        "details_en": "Hodeidah is the main port bringing food and other supplies into Houthi-controlled northern Yemen. The developments followed a Houthi attack on the tallest skyscraper in Riyadh and threats against Red Sea ports.",
-        "hook_bn": "সৌদি আকাশসীমা এড়িয়ে চলার হুতির কড়া সতর্কতা",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "৩০০ পুলিশের বিরুদ্ধে গোপনে যোগাযোগের তদন্ত",
         "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 5.0,
-      "outlet_count": 3,
-      "trending": true,
-      "social_appeal": 5.0,
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 8.0,
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-20T16:07:57.814983+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-20T17:05:26.375155+00:00"
       }
     },
     {
-      "story_id": "147c93cc-fe27-5cc9-81cd-28bfc0e1bb59",
-      "primary_category": "world_diplomacy",
+      "story_id": "73a3a6c9-2cdb-5511-9669-a284f5f5c471",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy",
-        "society_education"
+        "governance_law"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#YouthProtests",
-        "#Europe",
-        "#StopTheWar"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/9c1bf9801071520c294977f97d1d1d9838a1dab4/390_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d7217b3024aa3f27fa452cbcdc33ab10",
+      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/govornor.jpg",
       "image_caption": null,
-      "published_at": "2026-11-20T15:15:28+00:00",
+      "published_at": "2026-11-20T16:07:24+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.3857,
+      "importance_score": 6.0,
+      "rank_score": 3.4108,
       "sources": [
         {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living",
-          "title": "Young people across Europe stage coordinated ‘fight for our future’ protests",
-          "snippet": "Young people across Europe stage coordinated ‘fight for our future’ protests"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/world/europe/425281/young-protesters-hit-the-streets-across-europe",
-          "title": "Young protesters hit the streets across Europe",
-          "snippet": "Young protesters hit the streets across Europe"
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/financial-development/post-1223720/",
+          "title": "গভর্নরের সঙ্গে জুলাই হত্যা মামলার আসামি শওকতের বৈঠক নিয়ে বিতর্ক",
+          "snippet": "গভর্নরের সঙ্গে জুলাই হত্যা মামলার আসামি শওকতের বৈঠক নিয়ে বিতর্ক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইউরোপজুড়ে তরুণদের সমন্বিত বিক্ষোভ",
-        "title_en": "Young people stage coordinated protests across Europe",
-        "summary_bn": "জীবনযাত্রার ব্যয় ও সামরিক ব্যয় বৃদ্ধির প্রতিবাদে ইউরোপের বিশটির বেশি দেশে বিক্ষোভ করেছেন শিক্ষার্থীরা ও তরুণ কর্মীরা।",
-        "summary_en": "Students and young workers have staged protests in more than 20 European countries over living costs and military spending.",
+        "title_bn": "জুলাই হত্যা মামলার আসামি শওকত বাংলাদেশ ব্যাংকের গভর্নরের সঙ্গে বৈঠক করেছেন",
+        "title_en": "July murder case accused Shawkat met the Bangladesh Bank governor",
+        "summary_bn": "জুলাই আন্দোলনের সময় হত্যা মামলার এজাহারভুক্ত আসামি ব্যবসায়ী শওকত আলী চৌধুরী বাংলাদেশ ব্যাংকের গভর্নর মোস্তাকুর রহমানের সঙ্গে বৈঠক করেছেন।",
+        "summary_en": "Businessman Shawkat Ali Chowdhury, an accused in a murder case during the July movement, met Bangladesh Bank Governor Mostakur Rahman.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "society_education"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-20T15:15:28+00:00",
-        "lead_bn": "জীবনযাত্রার ব্যয় ও সামরিক ব্যয় বৃদ্ধির প্রতিবাদে ইউরোপের বিশটির বেশি দেশে বিক্ষোভ করেছেন শিক্ষার্থীরা ও তরুণ কর্মীরা।",
-        "lead_en": "Students and young workers have staged protests in more than 20 European countries over living costs and military spending.",
+        "published_at": "2026-11-20T16:07:24+00:00",
+        "lead_bn": "জুলাই আন্দোলনের সময় হত্যা মামলার এজাহারভুক্ত আসামি ব্যবসায়ী শওকত আলী চৌধুরী বাংলাদেশ ব্যাংকের গভর্নর মোস্তাকুর রহমানের সঙ্গে বৈঠক করেছেন।",
+        "lead_en": "Businessman Shawkat Ali Chowdhury, an accused in a murder case during the July movement, met Bangladesh Bank Governor Mostakur Rahman.",
         "bullets_bn": [
-          "বেলজিয়াম, ফ্রান্স, জার্মানি, গ্রিস, ইতালি, পর্তুগাল, স্পেন ও যুক্তরাজ্যের পঞ্চাশটির বেশি গ্রুপের কর্মীরা র্যালিতে অংশ নেন।",
-          "বিক্ষোভকারীরা ফ্লেয়ার জ্বালিয়েছেন, ট্যাংকের কার্ডবোর্ডের মডেল পুড়িয়েছেন এবং ভবিষ্যত লড়াইয়ের প্ল্যাকার্ড প্রদর্শন করেছেন।",
-          "মিলিটারিজম ও কনস্ক্রিপশন বন্ধ এবং শিক্ষা ও কল্যাণে কাঠামোগত বিনিয়োগসহ পাঁচটি প্রধান দাবি জানিয়েছে যুব স্ট্রাইক কোয়ালিশন।"
+          "বৈঠক শেষে সাংবাদিকরা প্রশ্ন এড়িয়ে শওকত বাংলাদেশ ব্যাংকের পেছনের গেট দিয়ে বেরিয়ে যান।",
+          "দুর্নীতি দমন কমিশন বিদেশে ২৫ মিলিয়ন ডলার পাচারের অভিযোগে শওকতের বিরুদ্ধে আনুষ্ঠানিক তদন্ত শুরু করেছে।",
+          "শওকত বিতর্কিত প্রতিষ্ঠান এস এন কার্পোরেশনের চেয়ারম্যান এবং ইস্টার্ন ব্যাংকের শেয়ার নিয়ন্ত্রণের অভিযোগ রয়েছে।"
         ],
         "bullets_en": [
-          "Activists from more than 50 groups in countries including Belgium, France, Germany, Greece, Italy, Portugal, Spain and the UK held rallies on Friday.",
-          "Protesters lit flares, burned cardboard models of tanks and waved placards reading fight for our future.",
-          "The Youth Strike coalition made five demands including an end to militarisation and conscription, and structural investment in education and welfare."
+          "Shawkat avoided journalists' questions after the meeting and left through the back gate of Bangladesh Bank.",
+          "The Anti-Corruption Commission started a formal investigation against Shawkat over laundering 25 million dollars abroad.",
+          "Shawkat is the chairman of SN Corporation and faces allegations regarding the control of Eastern Bank shares."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ফ্রান্সের দীর্ঘমেয়াদী স্কুল বিক্ষোভের জেরে বেশ কয়েকটি দেশে কয়েক সপ্তাহ ধরে বিক্ষোভ চলছে। সাশ্রয়ী মূল্যের আবাসন, কার্যকরী জনসেবা এবং সামাজিক সমতার দাবির মুখে সরকারগুলো প্রতিক্রিয়া জানাতে হিমশিম খাচ্ছে।",
-        "details_en": "After weeks of demonstrations across several countries sparked by long-running French school protests, governments are struggling to respond to growing calls for affordable housing, functioning public services and greater social equality.",
-        "hook_bn": "'আমাদের ভবিষ্যতের জন্য লড়াই'",
+        "details_bn": "শওকত আলী চৌধুরী বাংলাদেশ ব্যাংকের প্রধান কার্যালয়ে ঢুকে গভর্নরের সঙ্গে বৈঠক করেন এবং তাকে কড়া নিরাপত্তা দেওয়া হয়। তিনি এস এন কার্পোরেশনের চেয়ারম্যান এবং চৌধুরী নাফিজ সারাফাত ও মোহাম্মদ আলী আরাফাতের ব্যবসায়িক পার্টনার। বাড্ডা থানায় ২০২৪ সালের জুলাইয়ের আন্দোলনের সময় মাদ্রাসাশিক্ষক হাফেজ মো. মাসুদুর রহমান হত্যার ঘটনায় দায়ের করা মামলায় তিনি ৫৪ নম্বর আসামি। এছাড়া তার বিরুদ্ধে ৮ হাজার কোটি টাকা পাচারের তদন্ত এবং ইস্টার্ন ব্যাংকের ২০ শতাংশের বেশি শেয়ার নিয়ন্ত্রণের অভিযোগ নিয়ে হাইকোর্ট রুল জারি করেছেন।",
+        "details_en": "Shawkat Ali Chowdhury entered the Bangladesh Bank head office and met the governor under strict security. He is the chairman of SN Corporation and a business partner of Chowdhury Nafiz Sarafat and Mohammad Ali Arafat. He is the 54th accused in the murder case of madrasa teacher Hafez Md. Masudur Rahman filed at Badda Police Station during the July 2024 movement. Additionally, he faces an 8,000 crore taka laundering probe and a High Court rule regarding control of over 20 percent shares of Eastern Bank.",
+        "hook_bn": "হত্যা মামলার আসামির সঙ্গে গভর্নরের বৈঠক",
+        "kicker_bn": "বিতর্ক",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T17:05:26.375155+00:00"
+      }
+    },
+    {
+      "story_id": "7d0c5ebb-ef9e-557f-8729-9d568214e7be",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#CoxBazar",
+        "#TrainAccident"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZWR1Y2F0aW9uJTIwdW5pdmVyc2l0eSUyMHN0dWRlbnRzJTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1MTk0MjUyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-20T15:20:43+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.2609,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/accidents/425288/train-hits-auto-rickshaw-in-cox%E2%80%99s-bazar-killing",
+          "title": "Train hits auto-rickshaw in Cox’s Bazar, killing four of a family",
+          "snippet": "Train hits auto-rickshaw in Cox’s Bazar, killing four of a family"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কক্সবাজারে ট্রেনে অটোরিকশার ধাক্কায় এক পরিবারের চারজন নিহত",
+        "title_en": "Train hits auto-rickshaw in Cox’s Bazar, killing four of a family",
+        "summary_bn": "কক্সবাজারে ট্রেনে অটোরিকশার ধাক্কায় এক পরিবারের চারজন নিহত হয়েছেন।",
+        "summary_en": "Four members of a family were killed when a train hit an auto-rickshaw in Cox’s Bazar.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T15:20:43+00:00",
+        "lead_bn": "কক্সবাজারে ট্রেনে অটোরিকশার ধাক্কায় এক পরিবারের চারজন নিহত হয়েছেন।",
+        "lead_en": "Four members of a family were killed when a train hit an auto-rickshaw in Cox’s Bazar.",
+        "bullets_bn": [
+          "ট্রেনের ধাক্কায় একটি অটোরিকশা ক্ষতিগ্রস্ত হয়েছে।",
+          "দুর্ঘটনায় চারজন নিহত হয়েছেন।",
+          "শিশুসহ দুজন আহত ব্যক্তি আশঙ্কাজনক অবস্থায় আছেন।"
+        ],
+        "bullets_en": [
+          "An auto-rickshaw was struck by a train.",
+          "Four individuals died in the accident.",
+          "Two injured people, including a child, are in critical condition."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "কক্সবাজারে ট্রেনে অটোরিকশার ধাক্কায় এক পরিবারের চারজন নিহত হয়েছেন। এই দুর্ঘটনায় শিশুসহ দুজন আহত ব্যক্তি আশঙ্কাজনক অবস্থায় চিকিৎসাধীন আছেন।",
+        "details_en": "Four members of a family were killed when a train hit an auto-rickshaw in Cox’s Bazar. Two of the injured, including a child, are in critical condition following the incident.",
+        "hook_bn": "কক্সবাজারে ট্রেনে অটোরিকশার ধাক্কায় চারজন নিহত",
         "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T17:05:26.375155+00:00"
+      }
+    },
+    {
+      "story_id": "0dff5637-ac51-5c50-a67d-21d4d32cd742",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#AmirKhosru",
+        "#Chittagong",
+        "#BangladeshGovt"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1580196350170-9a50e97382bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z292dCUyMHBsYW5zJTIwdHVybiUyMGNoaXR0YWdvbmclMjBidXNpbmVzc3xlbnwxfDB8fHwxNzk1MTk0MjY2fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-20T16:23:28+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4055,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/development/425292/amir-khosru-govt-plans-to-turn-chittagong-into",
+          "title": "Amir Khosru: Govt plans to turn Chittagong into economic, logistics hub",
+          "snippet": "Amir Khosru: Govt plans to turn Chittagong into economic, logistics hub"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "চট্টগ্রামকে অর্থনৈতিক ও লজিস্টিকস হাব বানানোর পরিকল্পনা সরকারের",
+        "title_en": "Govt plans to turn Chittagong into economic and logistics hub",
+        "summary_bn": "সরকার চট্টগ্রামকে একটি অর্থনৈতিক ও লজিস্টিকস হাব হিসেবে গড়ে তোলার পরিকল্পনা করেছে বলে জানিয়েছেন আমির খসরু।",
+        "summary_en": "Amir Khosru said the government plans to turn Chittagong into an economic and logistics hub.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T16:23:28+00:00",
+        "lead_bn": "সরকার চট্টগ্রামকে একটি অর্থনৈতিক ও লজিস্টিকস হাব হিসেবে গড়ে তোলার পরিকল্পনা করেছে বলে জানিয়েছেন আমির খসরু।",
+        "lead_en": "Amir Khosru said the government plans to turn Chittagong into an economic and logistics hub.",
+        "bullets_bn": [
+          "আমির খসরু বলেন যে উন্নয়নের সুফল একটি অধিকতর অন্তর্ভুক্তিমূলক অর্থনীতির মাধ্যমে সবার কাছে পৌঁছাতে হবে।",
+          "অধিকতর অন্তর্ভুক্তিমূলক অর্থনীতি তৈরি করতে হবে।",
+          "বিনিয়োগ বৃদ্ধি এবং কর্মসংস্থান সৃষ্টি করতে হবে।"
+        ],
+        "bullets_en": [
+          "Amir Khosru said development benefits must reach everyone through a more inclusive economy.",
+          "A more inclusive economy must be created.",
+          "Investment must be increased and jobs created."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "উন্নয়নের সুফল সবার মাঝে পৌঁছে দিতে এবং অর্থনীতিকে আরও অন্তর্ভুক্তিমূলক করতে এই পরিকল্পনা নেওয়া হয়েছে। এর মাধ্যমে বিনিয়োগ বৃদ্ধি ও নতুন কর্মসংস্থান সৃষ্টির ওপর জোর দেওয়া হয়েছে।",
+        "details_en": "This plan aims to distribute development benefits to everyone and make the economy more inclusive. It emphasizes increased investment and job creation.",
+        "hook_bn": "চট্টগ্রামকে অর্থনৈতিক হাব বানানোর পরিকল্পনা সরকারের",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "চট্টগ্রামকে অর্থনৈতিক হাব বানানোর এই পরিকল্পনা বাস্তবায়নে কী ধরনের উদ্যোগ নেওয়া উচিত বলে আপনি মনে করেন?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T17:05:26.375155+00:00"
+      }
+    },
+    {
+      "story_id": "bda487a2-d106-5b6c-8848-7a5a68a1652c",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-20%2Fhdk2q1jh%2Fc951d491-4f4c-40d1-b3a7-20c929b31c27.jpg?rect=0%2C245%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-20T15:21:53+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.2671,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/business/bank/aukmz1ldno",
+          "title": "দেশে ব্যাংকের সংখ্যা কমানোর পরামর্শ",
+          "snippet": "দেশে ব্যাংকের সংখ্যা কমানোর পরামর্শ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "খাতসংশ্লিষ্ট ব্যক্তিরা দেশে ব্যাংকের সংখ্যা কমিয়ে আনার পরামর্শ দিয়েছেন।",
+        "title_en": "Sector insiders suggested reducing the number of banks in the country.",
+        "summary_bn": "খাতসংশ্লিষ্ট ব্যক্তিরা আন্তর্জাতিক মানদণ্ড অনুসরণ করে দেশে ব্যাংকের সংখ্যা কমিয়ে আনার পরামর্শ দিয়েছেন।",
+        "summary_en": "Sector insiders suggested reducing the number of banking institutions in the country following international standards.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T15:21:53+00:00",
+        "lead_bn": "খাতসংশ্লিষ্ট ব্যক্তিরা আন্তর্জাতিক মানদণ্ড অনুসরণ করে দেশে ব্যাংকের সংখ্যা কমিয়ে আনার পরামর্শ দিয়েছেন।",
+        "lead_en": "Sector insiders suggested reducing the number of banking institutions in the country following international standards.",
+        "bullets_bn": [
+          "বক্তারা বলেন যে ব্যাংক খাতের খেলাপি ঋণ ৩২ শতাংশে ওঠার পেছনে পরিচালনা পর্ষদের দায় আছে।",
+          "সেলিম আর এফ হোসাইন বলেন যে আমাদের ছোট দেশে ৬০টি ব্যাংকের প্রয়োজন নেই এবং শ্রীলঙ্কা, পাকিস্তান ও ফিলিপাইনে ব্যাংক কমানো হয়েছে।",
+          "মেলিতা মেহজাবিন বলেন যে অনেক বছরের কাঠামোগত ব্যর্থতার ফলে প্রতি তিন টাকা ঋণের এক টাকা ফেরত আসেনি।"
+        ],
+        "bullets_en": [
+          "Speakers said that boards of directors are responsible for the non-performing loans in the banking sector rising to thirty-two percent.",
+          "Selim R. F. Hussain stated that our small country does not need sixty banks and bank numbers have been reduced in Sri Lanka, Pakistan, and Philippines.",
+          "Melita Mehzabin stated that one taka out of every three taka in loans was not returned due to structural failures over many years."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ঢাকা বিশ্ববিদ্যালয়ের ইনস্টিটিউট অব বিজনেস অ্যাডমিনিস্ট্রেশনের অ্যালামনাই অ্যাসোসিয়েশনের উদ্যোগে আয়োজিত ফিনএক্স কানেক্ট: ব্যাংকিং, ফিনটেক ও করপোরেট লিডারশিপ ডায়ালগ অনুষ্ঠানে এই পরামর্শ দেওয়া হয়। এতে দেশের পরিবর্তনশীল আর্থিক খাত, ডিজিটাল রূপান্তর, সুশাসন ও টেকসই ব্যবসায়িক প্রবৃদ্ধি নিয়ে আলোচনা হয়।",
+        "details_en": "This suggestion was given at the FinX Connect: Banking, Fintech and Corporate Leadership Dialogue event organized by the IBA Alumni Association of University of Dhaka. The event discussed the country's changing financial sector, digital transformation, good governance, and sustainable business growth.",
+        "hook_bn": "আমাদের ছোট দেশে ৬০টি ব্যাংকের প্রয়োজন নেই",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": "দেশের ব্যাংক খাতের এই পরিস্থিতি পরিবর্তনে কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T17:05:26.375155+00:00"
+      }
+    },
+    {
+      "story_id": "259bb3a6-eef4-59f5-840a-a68050de7d1c",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#BGB",
+        "#AwamiLeague",
+        "#Gopalganj",
+        "#Bangladesh"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/12/29/bgb_rajibdhar_0.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-20T16:05:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.25,
+      "rank_score": 2.6054,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/bgb-slams-claims-al-supplying-essentials-troops-gopalganj-baseless-motivated-1609066",
+          "title": "BGB slams claims of AL supplying essentials to troops in Gopalganj as ‘baseless, motivated",
+          "snippet": "BGB slams claims of AL supplying essentials to troops in Gopalganj as ‘baseless, motivated"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822123/%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%B8%E0%A6%B0%E0%A6%AC%E0%A6%B0%E0%A6%BE%E0%A6%B9%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95",
+          "title": "গোপালগঞ্জে বিজিবির জন্য পানি সরবরাহে রাজনৈতিক সম্পৃক্ততার অভিযোগ ভিত্তিহীন: বিজিবি",
+          "snippet": "গোপালগঞ্জে বিজিবির জন্য পানি সরবরাহে রাজনৈতিক সম্পৃক্ততার অভিযোগ ভিত্তিহীন: বিজিবি"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "গোপালগঞ্জে বিজিবিকে রসদ সরবরাহের অভিযোগ ভিত্তিহীন বলেছে বাহিনীটি",
+        "title_en": "BGB rejects claims of Awami League supplying essentials in Gopalganj",
+        "summary_bn": "বর্ডার গার্ড বাংলাদেশ জানিয়েছে, গোপালগঞ্জে নিয়োজিত বিজিবি সদস্যদের আওয়ামী লীগ খাবার ও প্রয়োজনীয় সামগ্রী সরবরাহ করছে মর্মে সামাজিক যোগাযোগমাধ্যমে প্রচার করা তথ্য সম্পূর্ণ মিথ্যা।",
+        "summary_en": "Border Guard Bangladesh has rejected social media claims that the Awami League was supplying food and essentials to BGB personnel in Gopalganj.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T16:05:00+00:00",
+        "lead_bn": "বর্ডার গার্ড বাংলাদেশ জানিয়েছে, গোপালগঞ্জে নিয়োজিত বিজিবি সদস্যদের আওয়ামী লীগ খাবার ও প্রয়োজনীয় সামগ্রী সরবরাহ করছে মর্মে সামাজিক যোগাযোগমাধ্যমে প্রচার করা তথ্য সম্পূর্ণ মিথ্যা।",
+        "lead_en": "Border Guard Bangladesh has rejected social media claims that the Awami League was supplying food and essentials to BGB personnel in Gopalganj.",
+        "bullets_bn": [
+          "বিজিবি জানায়, গোপালগঞ্জে দায়িত্ব পালনরত সদস্যদের জন্য প্রয়োজনীয় খাবার ও অন্যান্য সামগ্রী স্থানীয় সরবরাহকারীদের কাছ থেকে নগদ অর্থে কেনা হয়।",
+          "বাহিনীর জনসংযোগ কর্মকর্তা মো. শরিফুল ইসলাম স্বাক্ষরিত এক প্রেস বিজ্ঞপ্তিতে এই তথ্য জানানো হয়।",
+          "বিজিবি আরও জানায়, পানিসহ বিভিন্ন রসদ স্থানীয় দোকান থেকে ভ্যানে করে বিজিবি সদস্যদের কাছে পৌঁছে দেওয়া হয়।"
+        ],
+        "bullets_en": [
+          "BGB stated that food and other supplies required for personnel deployed in Gopalganj are purchased from suppliers for cash.",
+          "The information was provided in a press release signed by BGB Public Relations Officer Md Shariful Islam.",
+          "BGB added that drinking water and other supplies were bought from local shops and delivered to personnel by van."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বর্ডার গার্ড বাংলাদেশ জানায়, এটি নিজস্ব অর্থায়নে পরিচালিত একটি সাধারণ সংগ্রহ ও সরবরাহ কার্যক্রম। এই প্রক্রিয়ার সঙ্গে আওয়ামী লীগ বা অন্য কোনো রাজনৈতিক দলের কোনো সম্পৃক্ততা নেই। বাহিনীটির মতে, সাধারণ একটি সরবরাহ ব্যবস্থাকে রাজনৈতিক রূপ দিয়ে জনসাধারণের মধ্যে বিভ্রান্তি ছড়ানোর চেষ্টা করা হচ্ছে।",
+        "details_en": "Border Guard Bangladesh said this is an ordinary procurement and supply operation financed by BGB itself, with no involvement from any political party. The force stated that an ordinary supply arrangement was being given a political interpretation to mislead the public.",
+        "hook_bn": "গোপালগঞ্জে বিজিবিকে রসদ সরবরাহের অভিযোগ ভিত্তিহীন",
+        "kicker_bn": "বর্ডার গার্ড বাংলাদেশ",
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 5.0,
       "outlet_count": 2,
       "trending": false,
-      "social_appeal": 4.0,
+      "social_appeal": 6.0,
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-20T16:07:57.814983+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-20T17:05:26.375155+00:00"
       }
     }
   ]
