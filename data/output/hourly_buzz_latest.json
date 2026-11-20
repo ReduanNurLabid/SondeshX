@@ -1,370 +1,234 @@
 {
-  "updated_at": "2026-11-20T18:00:39.830838",
-  "total_stories": 5,
+  "updated_at": "2026-11-20T19:00:42.323220",
+  "total_stories": 3,
   "stories": [
     {
-      "story_id": "dddcc050-f9d0-5c2f-b4c3-531f9f11f778",
-      "primary_category": "governance_law",
+      "story_id": "3ada7fdb-1733-514b-bd91-6e0c71d571d8",
+      "primary_category": "sports_fitness",
       "interest_categories": [
-        "governance_law",
-        "economy_business",
-        "society_education"
+        "sports_fitness"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Sports",
+        "#BangladeshCricket"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-20%2Fo9hcq0dk%2Fmymensinghdh169420261120img-20261120-wa0109.jpg?rect=0%2C0%2C900%2C473&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.channelionline.com/2026/11/Bangladesh-16.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-11-20T17:11:41+00:00",
+      "published_at": "2026-11-20T17:53:42+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.6247,
+      "importance_score": 6.25,
+      "rank_score": 3.6606,
       "sources": [
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/bangladesh/district/2yfll3v2bm",
-          "title": "‘১০০ টাকায়’ কার্যক্রম নিষিদ্ধ আওয়ামী লীগের মিছিলে স্লোগান, আটক ছয় কিশোর",
-          "snippet": "‘১০০ টাকায়’ কার্যক্রম নিষিদ্ধ আওয়ামী লীগের মিছিলে স্লোগান, আটক ছয় কিশোর"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822130/%E2%80%98%E0%A7%A7%E0%A7%A6%E0%A7%A6-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A7%9F%E2%80%99-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%86%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%9B%E0%A6%BF%E0%A6%B2%E0%A7%87",
-          "title": "‘১০০ টাকায়’ কার্যক্রম নিষিদ্ধ আওয়ামী লীগের মিছিলে স্লোগান, আটক ছয় কিশোর",
-          "snippet": "‘১০০ টাকায়’ কার্যক্রম নিষিদ্ধ আওয়ামী লীগের মিছিলে স্লোগান, আটক ছয় কিশোর"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ময়মনসিংহে নিষিদ্ধ আওয়ামী লীগের মিছিলে স্লোগান দেওয়ায় ছয় কিশোর আটক",
-        "title_en": "Six teenagers detained in Mymensingh for chanting slogans in banned Awami League procession",
-        "summary_bn": "পুলিশ ময়মনসিংহে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের মিছিলে অংশ নিয়ে স্লোগান দেওয়ার অভিযোগে ছয় কিশোরকে আটক করেছে।",
-        "summary_en": "Police detained six teenagers in Mymensingh for participating and chanting slogans in a procession of the banned Awami League.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-20T17:11:41+00:00",
-        "lead_bn": "পুলিশ ময়মনসিংহে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের মিছিলে অংশ নিয়ে স্লোগান দেওয়ার অভিযোগে ছয় কিশোরকে আটক করেছে।",
-        "lead_en": "Police detained six teenagers in Mymensingh for participating and chanting slogans in a procession of the banned Awami League.",
-        "bullets_bn": [
-          "আটক কিশোরদের বয়স ১৪ থেকে ১৭ বছরের মধ্যে এবং তাদের মধ্যে দুজন শিক্ষার্থী রয়েছে।",
-          "পুলিশের দাবি, মিছিলে অংশ নেওয়ার জন্য প্রত্যেক কিশোরকে ১০০ টাকা করে দেওয়া হয়েছিল।",
-          "জেলা পুলিশের মুখপাত্র জানিয়েছেন অর্থের উৎস ও মিছিলের আয়োজকদের শনাক্ত করতে তদন্ত চলছে।"
-        ],
-        "bullets_en": [
-          "The detained teenagers are aged between 14 and 17, including two students.",
-          "Police claimed that each teenager was given 100 taka for participating in the procession.",
-          "The district police spokesperson stated that an investigation is underway to identify the source of funds and organizers."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ময়মনসিংহে নগরের কাশর বোররচর ভবনের সামনে তিন রাস্তার মোড় এলাকা থেকে কোতোয়ালি মডেল থানার পুলিশের একটি দল অভিযান চালিয়ে ছয়জনকে আটক করে। প্রাথমিক অনুসন্ধানে জানা যায়, নিষিদ্ধ সংগঠনের পলাতক সদস্য হিসেবে চিহ্নিত কয়েকজনের নেতৃত্বে মিছিলটি আয়োজন করা হয়।",
-        "details_en": "A team of police from Kotwali Model Police Station detained the six individuals from the three-way intersection area in front of Kashor Bororchar building in Mymensingh city. Primary investigations reveal the procession was led by individuals identified as fugitive members of a banned organization.",
-        "hook_bn": "মিছিলে অংশ নিতে দেওয়া হয় ১০০ টাকা",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-20T18:05:17.152143+00:00"
-      }
-    },
-    {
-      "story_id": "73b4497f-d189-5c8a-8830-434c8ab0037b",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-20%2Fl8ilmyqd%2Fmonirul-haque.jpg?rect=0%2C132%2C1848%2C970&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-20T17:11:10+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.6234,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/smol5punm5",
-          "title": "মুক্তিপণ দিয়ে গোপালগঞ্জ থেকে ছাড়া পেয়েছেন, দাবি বিএনপি নেতার",
-          "snippet": "মুক্তিপণ দিয়ে গোপালগঞ্জ থেকে ছাড়া পেয়েছেন, দাবি বিএনপি নেতার"
-        },
         {
           "name": "Channel i",
-          "url": "https://www.channelionline.com/bagerhat-bnp-leader-released-from-gopalganj-after-payment/",
-          "title": "মুক্তিপণে গোপালগঞ্জ থেকে ছাড়া পেলেন বিএনপি নেতা",
-          "snippet": "মুক্তিপণে গোপালগঞ্জ থেকে ছাড়া পেলেন বিএনপি নেতা"
+          "url": "https://www.channelionline.com/united-arab-emirates-bangladesh-afc-u-17-asian/",
+          "title": "শেষ ম্যাচে আমিরাতের বিপক্ষে পারল না বাংলাদেশ",
+          "snippet": "শেষ ম্যাচে আমিরাতের বিপক্ষে পারল না বাংলাদেশ"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/sports/499578",
+          "title": "হেরেই বিদায় বাংলাদেশের",
+          "snippet": "হেরেই বিদায় বাংলাদেশের"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/sport/football/982260/%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A7%87-%E0%A6%B9%E0%A7%87%E0%A6%B0%E0%A7%87-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A7%8D%E0%A6%A8-%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0",
+          "title": "শেষ ম্যাচে হেরে এশিয়ান কাপের স্বপ্ন শেষ বাংলাদেশের",
+          "snippet": "শেষ ম্যাচে হেরে এশিয়ান কাপের স্বপ্ন শেষ বাংলাদেশের"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মুক্তিপণ দিয়ে গোপালগঞ্জ থেকে ছাড়া পেয়েছেন বাগেরহাট জেলা বিএনপি নেতা মনিরুল হক",
-        "title_en": "BNP leader Monirul Haq Faraji released after abduction and ransom payment in Gopalganj",
-        "summary_bn": "ঢাকা থেকে বাগেরহাটে ফেরার পথে গোপালগঞ্জে অপহৃত হওয়া বাগেরহাট জেলা বিএনপির সদস্য মনিরুল হক ফরাজী মুক্তিপণ দিয়ে ছাড়া পেয়েছেন।",
-        "summary_en": "Bagerhat district BNP member Monirul Haq Faraji was released after paying ransom following his abduction from Gopalganj while returning to Bagerhat from Dhaka.",
+        "title_bn": "শেষ ম্যাচে সংযুক্ত আরব আমিরাতের কাছে হেরে গেল বাংলাদেশ",
+        "title_en": "Bangladesh lost to United Arab Emirates in the final match",
+        "summary_bn": "এএফসি অনূর্ধ্ব-১৭ এশিয়ান কাপ বাছাইয়ের শেষ ম্যাচে স্বাগতিক সংযুক্ত আরব আমিরাতের কাছে ২-০ গোলে হেরেছে বাংলাদেশ।",
+        "summary_en": "Bangladesh lost 2-0 to hosts United Arab Emirates in their final AFC Under-17 Asian Cup qualifying match.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "economy_business",
-          "society_education"
+          "sports_fitness"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-20T17:11:10+00:00",
-        "lead_bn": "ঢাকা থেকে বাগেরহাটে ফেরার পথে গোপালগঞ্জে অপহৃত হওয়া বাগেরহাট জেলা বিএনপির সদস্য মনিরুল হক ফরাজী মুক্তিপণ দিয়ে ছাড়া পেয়েছেন।",
-        "lead_en": "Bagerhat district BNP member Monirul Haq Faraji was released after paying ransom following his abduction from Gopalganj while returning to Bagerhat from Dhaka.",
+        "published_at": "2026-11-20T17:53:42+00:00",
+        "lead_bn": "এএফসি অনূর্ধ্ব-১৭ এশিয়ান কাপ বাছাইয়ের শেষ ম্যাচে স্বাগতিক সংযুক্ত আরব আমিরাতের কাছে ২-০ গোলে হেরেছে বাংলাদেশ।",
+        "lead_en": "Bangladesh lost 2-0 to hosts United Arab Emirates in their final AFC Under-17 Asian Cup qualifying match.",
         "bullets_bn": [
-          "খুলনা-মাওয়া মহাসড়কের ঘোনাপাড়ায় গাড়ির গতি রোধ করে হামলাকারীরা মনিরুলের নগদ টাকা, আইফোন ও গহনা ছিনিয়ে নেয়।",
-          "অপহরণকারীদের চাহিদা অনুযায়ী মুক্তিপণের টাকা পরিশোধের পর ছাড়া পেয়ে ঢাকার বাসায় ফেরেন এই বিএনপি নেতা।",
-          "চিকিৎসা নিয়ে বর্তমানে তিনি বাসায় অবস্থান করছেন এবং ঘটনার বিষয়ে পুলিশের কাছে কোনো অভিযোগ দেননি।"
+          "ম্যাচের প্রথমার্ধে কোনো দল গোল করতে পারেনি এবং ৬০ মিনিট পর্যন্ত সমতা বজায় ছিল।",
+          "৬১ মিনিটে সালেম জামালের পেনাল্টি গোলে লিড নেয় সংযুক্ত আরব আমিরাত।",
+          "যোগ করা চতুর্থ মিনিটে সাইফ হিশাম গোল করে ব্যবধান দ্বিগুণ করেন।"
         ],
         "bullets_en": [
-          "Armed attackers blocked the car on Khulna-Mawa highway, robbed money and valuables, and abducted Monirul after finding party photos on his phone.",
-          "Monirul was released after paying ransom demanded by the abductors and returned to his residence in Mohammadpur, Dhaka.",
-          "Monirul is currently receiving medical treatment at home and has not lodged any complaint with the police."
+          "Both teams remained goalless in the first half and the score stayed level until the 60th minute.",
+          "United Arab Emirates took the lead in the 61st minute through a penalty goal by Salem Jamal.",
+          "Saif Hesham scored in the fourth minute of added time to double the lead."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "মনিরুল হক ফরাজী দলের সহকর্মী শেখ মঈন উদ্দিন আহমেদ ও গাড়িচালক হাসানকে নিয়ে ঢাকা থেকে বাগেরহাটে ফিরছিলেন। মঈন উদ্দিনের ভাষ্যমতে, নিষিদ্ধ আওয়ামী লীগের সমর্থকেরা মহাসড়কে গাছ ফেলে গাড়িটি আটকায়। হামলাকারীরা মঈন ও চালক হাসানকে মারধর করে ছেড়ে দেয়, তবে মনিরুলের মুঠোফোনে তারেক রহমানের ছবি ও দলীয় কার্যক্রমের তথ্য দেখে তাঁকে ধরে নিয়ে যায়।",
-        "details_en": "Monirul Haq Faraji was traveling from Dhaka to Bagerhat in a private car with party colleague Sheikh Moin Uddin Ahmed and driver Hasan. Moin Uddin stated that supporters of the banned Awami League blocked the highway at Ghonapara. The attackers beat Moin Uddin and the driver before releasing them, but abducted Monirul after discovering party activities and photos of Tarique Rahman on his phone.",
-        "hook_bn": "গোপালগঞ্জে বিএনপি নেতাকে অপহরণ ও মুক্তিপণ আদায়",
+        "details_bn": "সংযুক্ত আরব আমিরাতের রাস আল খাইমাহের এমিরেটস ক্লাব স্টেডিয়ামে এই ম্যাচটি অনুষ্ঠিত হয়। এই হারে ছয় পয়েন্ট নিয়ে সি গ্রুপের বাছাইপর্ব শেষ করেছে কোচ লুডভিক ডি ক্রুইফের শিষ্যরা। এর আগে সিরিয়ার বিপক্ষে হার দিয়ে বাছাই শুরু করেছিল বাংলাদেশ। মাঝে ভুটানকে ৪-০ গোলে এবং ম্যাকাওকে ১-০ ব্যবধানে হারিয়েছিল লাল-সবুজের দলটি। এই হারের ফলে অনূর্ধ্ব-১৭ এশিয়ান কাপের মূলপর্বে খেলা হচ্ছে না বাংলাদেশের।",
+        "details_en": "The match took place at the Emirates Club Stadium in Ras al-Khaimah, United Arab Emirates. With this defeat, coach Ludovic de Kruif's side finished the Group C qualifiers with six points. Bangladesh had started their qualifying campaign with a defeat against Syria, followed by a 4-0 win against Bhutan and a 1-0 win against Macau. Due to this defeat, Bangladesh will not play in the main round of the Under-17 Asian Cup.",
+        "hook_bn": "আমিরাতের বিপক্ষে হেরে এশিয়ান কাপ শেষ",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
+      "desk_importance": 6.0,
+      "outlet_count": 3,
       "trending": false,
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-20T18:05:17.152143+00:00"
+        "checked_at": "2026-11-20T19:01:55.926523+00:00"
       }
     },
     {
-      "story_id": "6eafaff6-6ef1-5868-b7f5-b56bc7257d87",
-      "primary_category": "climate_environment",
+      "story_id": "65c1dd83-563b-53d9-9fde-bdf1a2f49d45",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "climate_environment",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#KaptaiNationalPark",
-        "#Rangamati",
-        "#WorldBank",
-        "#EcologyAndEvolution"
-      ],
-      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_d0d2ef7453651100d2bf9c179acfb425.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-20T18:00:49.269306+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.496,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/two-new-snake-species-found-in-bangladesh",
-          "title": "Two new snake species found in Bangladesh",
-          "snippet": "Two new snake species found in Bangladesh"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বাংলাদেশে প্রথমবারের মতো দুটি নতুন সাপ শনাক্ত",
-        "title_en": "Two new snake species identified in Bangladesh for the first time",
-        "summary_bn": "গবেষকেরা রাঙামাটির কাপ্তাই জাতীয় উদ্যান এবং দুধপুকুরিয়া-ধোপছড়ি বন্যপ্রাণী অভয়ারণ্যে প্রথমবারের মতো দুটি নতুন সাপ প্রজাতি শনাক্ত করেছেন।",
-        "summary_en": "Researchers have identified two snake species in Bangladesh for the first time in Kaptai National Park and Dudhpukuria-Dhopachhari Wildlife Sanctuary.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-20T18:00:49.269306+00:00",
-        "lead_bn": "গবেষকেরা রাঙামাটির কাপ্তাই জাতীয় উদ্যান এবং দুধপুকুরিয়া-ধোপছড়ি বন্যপ্রাণী অভয়ারণ্যে প্রথমবারের মতো দুটি নতুন সাপ প্রজাতি শনাক্ত করেছেন।",
-        "lead_en": "Researchers have identified two snake species in Bangladesh for the first time in Kaptai National Park and Dudhpukuria-Dhopachhari Wildlife Sanctuary.",
-        "bullets_bn": [
-          "কাপ্তাই জাতীয় উদ্যানে স্ট্রাইপড কীলব্যাক এবং দুধপুকুরিয়া-ধোপছড়িতে বින්দি কীলব্যাক প্রজাতি দুটি পাওয়া গেছে।",
-          "গবেষণায় ডেন্ড্রেলাফিস হাসি ও ডেন্ড্রেলাফিস সায়ানোক্লোরিস নামের আরও দুটি প্রজাতি নতুন হিসেবে রেকর্ড করা হয়েছে।",
-          "বিশ্বব্যাংকের অর্থায়নে এবং বন বিভাগের সুফল প্রকল্পের অধীনে এই গবেষণা চালানো হয়।"
-        ],
-        "bullets_en": [
-          "The striped keelback was found in Kaptai, and the bindi keelback was recorded in Dudhpukuria-Dhopachhari.",
-          "The study also recorded Dendrelaphis haasi and Dendrelaphis cyanochloris as new species to Bangladesh.",
-          "The research was conducted under the Forest Department's SUFAL project, funded by the World Bank."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "নভেম্বর ১৭ তারিখে আন্তর্জাতিক জার্নাল ইকোলজি অ্যান্ড ইভোলিউশনে এই গবেষণা প্রকাশিত হয়। ২০২৩ সালের নভেম্বর থেকে ২০২৪ সালের ডিসেম্বর পর্যন্ত এই সমীক্ষা চালানো হয়। গবেষক দলে ছিলেন মো. সোহেল রানা, সজীব বিশ্বাস, মাহি ওয়াসিম এবং আশিস কুমার দত্ত। কাপ্তাইয়ে পাওয়া স্ট্রাইপড কীলব্যাক বাদামী রঙের এবং এর শরীরের দুই পাশে ডোরাকাটা দাগ রয়েছে। দুধপুকুরিয়ায় পাওয়া বিনদি কীলব্যাকের গলার পেছনে লাল ফোঁটা রয়েছে।",
-        "details_en": "The findings were published in the international journal Ecology and Evolution on Nov 17, following a survey from November 2023 to December 2024. The research team included Md Sohel Rana, Sajib Biswas, Mahi Washim and Ashis Kumar Datta. The striped keelback is dark brown with stripes along its body, while the bindi keelback is brown with a red spot behind its neck.",
-        "hook_bn": "বাংলাদেশে মিলল দুটি নতুন সাপের প্রজাতি",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": "দেশের বন্যপ্রাণী ও জীববৈচিত্র্য রক্ষায় আমাদের কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-20T18:05:17.152143+00:00"
-      }
-    },
-    {
-      "story_id": "6f3aa9b1-e18e-59ab-989c-51a455ac1ca8",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#BangladeshDenim",
-        "#EuropeanUnion",
-        "#Eurostat",
-        "#ExportMarket"
-      ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182400/16111.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-20T18:00:49.269306+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.496,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/competitors-eat-into-bangladeshs-share-of-european-denim-market",
-          "title": "Competitors eat into Bangladesh’s share of European denim market",
-          "snippet": "Competitors eat into Bangladesh’s share of European denim market"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইউরোপীয় ইউনিয়নের বাজারে বাংলাদেশের ডেনিম রফতানি ও বাজার অংশ কমেছে।",
-        "title_en": "Bangladesh sees a decline in denim exports and market share in the EU.",
-        "summary_bn": "ইউরোপীয় ইউনিয়নের বাজারে শীর্ষ ডেনিম রফতানিকারক থাকা সত্ত্বেও বাংলাদেশের রফতানি এবং বাজার অংশ এই বছর কমেছে।",
-        "summary_en": "Despite remaining the top denim exporter to the EU, Bangladesh has seen a decline in both exports and market share this year.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-20T18:00:49.269306+00:00",
-        "lead_bn": "ইউরোপীয় ইউনিয়নের বাজারে শীর্ষ ডেনিম রফতানিকারক থাকা সত্ত্বেও বাংলাদেশের রফতানি এবং বাজার অংশ এই বছর কমেছে।",
-        "lead_en": "Despite remaining the top denim exporter to the EU, Bangladesh has seen a decline in both exports and market share this year.",
-        "bullets_bn": [
-          "ইউরোপীয় ইউনিয়নের পরিসংখ্যান অফিস ইউরোস্ট্যাটের তথ্য অনুযায়ী, চলতি বছরের জানুয়ারি থেকে সেপ্টেম্বর সময়ে ইইউ বিশ্বব্যাপী ৩.৪২ বিলিয়ন ইউরোর ডেনিম আমদানি করেছে।",
-          "আলোচ্য সময়ে বাংলাদেশ থেকে ১.০১ বিলিয়ন ইউরোর ডেনিম আমদানি করেছে ইইউ, যা গত বছরের একই সময়ের তুলনায় ৫.৪৮ শতাংশ কম।",
-          "চিন, মিশর ও ভিয়েতনাম ডেনিম রফতানি বাড়িয়ে ইউরোপীয় বাজারে তাদের অবস্থান শক্তিশালী করছে।"
-        ],
-        "bullets_en": [
-          "According to Eurostat data, the EU imported 3.42 billion euros of denim globally from January to September this year.",
-          "The EU imported 1.01 billion euros of denim from Bangladesh in the period, a 5.48 percent drop year-on-year.",
-          "Competitor countries like China, Egypt and Vietnam are strengthening their position in the European market by increasing exports."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ইউরোস্ট্যাটের ডেটা অনুযায়ী, সামগ্রিক ইইউ ডেনিম আমদানি গত বছরের তুলনায় ৩.২৪ শতাংশ কমেছে। বাংলাদেশের পাশাপাশি দ্বিতীয় অবস্থানে থাকা পাকিস্তানের রফতানিও ৬.৬৩ শতাংশ কমে ৬০৯.৭ মিলিয়ন ইউরোতে দাঁড়িয়েছে, যেখানে পাকিস্তানের বাজার অংশ ১৭.৮৫ শতাংশ। ২০১৭ সালে চিনকে পেছনে ফেলে ইইউ বাজারে প্রথম স্থান দখল করেছিল বাংলাদেশ।",
-        "details_en": "According to Eurostat data, overall EU denim imports decreased 3.24 per cent year-on-year from 2025. Pakistan, ranking second, exported denim worth 609.7 million euros with a 6.63 per cent decrease, holding a 17.85 per cent market share. In 2017, Bangladesh surpassed China for the first time to take the top spot.",
-        "hook_bn": "ইউরোপের বাজারে কমল বাংলাদেশের ডেনিম রফতানি",
-        "kicker_bn": "রফতানি হ্রাস",
-        "share_value": false,
-        "question_bn": "ইউরোপের বাজারে বাংলাদেশের ডেনিম রফতানি কমার পেছনে কী কারণ থাকতে পারে বলে আপনার মনে হয়?"
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 4.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-20T18:05:17.152143+00:00"
-      }
-    },
-    {
-      "story_id": "4121d5fb-c254-5c16-b665-18f8a5523d3f",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Climate",
-        "#Environment"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-20%2Fjr3l89dd%2Fmoulavibazar.jpg?rect=0%2C459%2C4080%2C2142&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/noakhali-1.jpg",
       "image_caption": null,
-      "published_at": "2026-11-20T17:13:39+00:00",
+      "published_at": "2026-11-20T17:20:17+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.3852,
+      "importance_score": 6.0,
+      "rank_score": 3.2668,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/8981a4crk9",
-          "title": "দেশে ১১ বছরে ১২৩টি হাতি মারা গেছে, বিদ্যুৎস্পৃষ্টে মৃত্যু হয়েছে বেশির ভাগের",
-          "snippet": "দেশে ১১ বছরে ১২৩টি হাতি মারা গেছে, বিদ্যুৎস্পৃষ্টে মৃত্যু হয়েছে বেশির ভাগের"
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/bangladesh/post-1223746/",
+          "title": "নোয়াখালীতে নিষিদ্ধ আ.লীগের মিছিল, গ্রামীণ ব্যাংকে আগুন",
+          "snippet": "নোয়াখালীতে নিষিদ্ধ আ.লীগের মিছিল, গ্রামীণ ব্যাংকে আগুন"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/khulna/982259/%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%80%E0%A6%A3-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A7%81%E0%A6%A8-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BE",
+          "title": "গ্রামীণ ব্যাংকের কার্যালয়ে আগুন দেওয়ার চেষ্টা, ফুটেজ দেখে যুবক আটক",
+          "snippet": "গ্রামীণ ব্যাংকের কার্যালয়ে আগুন দেওয়ার চেষ্টা, ফুটেজ দেখে যুবক আটক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "দেশে ১১ বছরে ১২৩টি হাতির মৃত্যু হয়েছে, বেশি মৃত্যু বিদ্যুৎস্পৃষ্টে",
-        "title_en": "123 elephants died in 11 years in Bangladesh, mostly from electrocution",
-        "summary_bn": "দেশে গত ১১ বছরে ১২৩টি হাতির মৃত্যু হয়েছে যার বেশির ভাগই মারা গেছে বিদ্যুৎস্পৃষ্ট হয়ে।",
-        "summary_en": "A total of 123 elephants died in Bangladesh over the past 11 years, with most dying from electrocution.",
+        "title_bn": "নোয়াখালীতে গ্রামীণ ব্যাংকে আগুন ও ভাঙচুর",
+        "title_en": "Grameen Bank attacked and set on fire in Noakhali",
+        "summary_bn": "নোয়াখালীর বেগমগঞ্জ উপজেলার চৌমুহনী বাজারে গ্রামীণ ব্যাংকে পেট্রোল ঢেলে আগুন ও জানালার গ্লাস ভাঙচুর করেছে দুর্বৃত্তরা।",
+        "summary_en": "Miscreants poured petrol and set fire to a Grameen Bank branch in Noakhali, also vandalizing its windows.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "climate_environment",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-20T17:13:39+00:00",
-        "lead_bn": "দেশে গত ১১ বছরে ১২৩টি হাতির মৃত্যু হয়েছে যার বেশির ভাগই মারা গেছে বিদ্যুৎস্পৃষ্ট হয়ে।",
-        "lead_en": "A total of 123 elephants died in Bangladesh over the past 11 years, with most dying from electrocution.",
+        "published_at": "2026-11-20T17:20:17+00:00",
+        "lead_bn": "নোয়াখালীর বেগমগঞ্জ উপজেলার চৌমুহনী বাজারে গ্রামীণ ব্যাংকে পেট্রোল ঢেলে আগুন ও জানালার গ্লাস ভাঙচুর করেছে দুর্বৃত্তরা।",
+        "lead_en": "Miscreants poured petrol and set fire to a Grameen Bank branch in Noakhali, also vandalizing its windows.",
         "bullets_bn": [
-          "চট্টগ্রাম, ময়মনসিংহ ও সিলেট অঞ্চলে বর্তমানে মোট ৪৫০টি হাতি রয়েছে।",
-          "কেন্দ্রীয় অঞ্চলের বন সংরক্ষক এ এস এম জহির উদ্দিন হাতি সংরক্ষণে সবাইকে মানবিক হওয়ার আহ্বান জানান।",
-          "সরকার হাতি সংরক্ষণে ২০২৫ থেকে ২০২৮ সাল পর্যন্ত তিন বছর মেয়াদি একটি প্রকল্প হাতে নিয়েছে।"
+          "দুপুরে বৃষ্টির মধ্যে নিষিদ্ধ আওয়ামী লীগের নেতাকর্মীরা মিছিল নিয়ে গ্রামীণ ব্যাংকের গেইটে যান।",
+          "মিছিলে থাকা ব্যক্তিরা অফিসের সামনের দরজায় পেট্রোল ঢেলে আগুন ধরিয়ে দেন এবং ইটপাটকেল নিক্ষেপ করেন।",
+          "বেগমগঞ্জ থানার পুলিশ পরিদর্শক মাহবুবুল কবির জানিয়েছেন এ ঘটনায় জড়িতদের বিরুদ্ধে ব্যবস্থা নেওয়া হবে।"
         ],
         "bullets_en": [
-          "There are currently a total of 450 elephants in the Chattogram, Mymensingh, and Sylhet regions.",
-          "Central region forest conservator ASM Zahir Uddin urged everyone to be more humane in conserving elephants.",
-          "The government has undertaken a three-year project from 2025 to 2028 for elephant conservation."
+          "Banned Awami League activists marched to the Grameen Bank gate during rain in the afternoon.",
+          "People in the procession poured petrol on the front door to set it afire and threw brickbats.",
+          "Begumganj police inspector Mahbubul Kabir stated that action will be taken against those involved."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "মৌলভীবাজারের জুড়ীতে হাতি সংরক্ষণে জনসচেতনতা সৃষ্টির লক্ষ্যে আয়োজিত তিন দিনব্যাপী সেমিনারের সমাপনী অনুষ্ঠানে বন বিভাগের কর্মকর্তারা এই তথ্য জানান। ফসল রক্ষার জন্য অনেকে জমিতে বৈদ্যুতিক বেড়া স্থাপন করায় এসব বেড়ায় বিদ্যুৎস্পৃষ্ট হয়ে বেশির ভাগ হাতির মৃত্যু হয়। মৌলভীবাজার অঞ্চলে ২৯টি পোষা ও তিনটি বন্য হাতি রয়েছে। হাতি সংরক্ষণে সরকারের এই প্রকল্পের আওতায় প্রাকৃতিক আবাসস্থল সংরক্ষণ ও মৃত্যুর হার কমানোর পদক্ষেপ নেওয়া হয়েছে।",
-        "details_en": "Forest department officials shared this information at the closing ceremony of a three-day seminar in Juri, Moulvibazar, aimed at raising public awareness for elephant conservation. Most elephants died after being electrocuted by electric fences set up by people on land to protect crops. There are 29 captive and three wild elephants in the Moulvibazar region. Under the government's project, steps have been taken to protect natural habitats and reduce the death rate.",
-        "hook_bn": "দেশে ১১ বছরে ১২৩টি হাতির মৃত্যু",
-        "kicker_bn": "সতর্কতা",
+        "details_bn": "দুপুরে বৃষ্টির মধ্যে 'জয় বাংলা, জয় বঙ্গবন্ধু' ও 'শেখ হাসিনা আসবে বাংলাদেশ হাসবে' স্লোগান দিয়ে কয়েকজন যুবক চৌমুহনী পূর্ব বাজারে মিছিল করে। তাদের হাতে ৮ দফা দাবির সমর্থনে বিক্ষোভ ও গণপ্রতিবাদ মিছিলের একটি ব্যানার ছিল, যেখানে জেলা যুবলীগের সংগঠক ও সাবেক উপজেলা ভাইস চেয়ারম্যান নাজমুল শিহাবের নাম ছিল। পরে তারা গ্রামীণ ব্যাংকের গেইটে গিয়ে আগুন ও ভাঙচুর চালায়।",
+        "details_en": "Several youths marched in Choumuhani east market during rain chanting slogans and carrying a banner supporting 8 demands, featuring names of local leaders. They then proceeded to the Grameen Bank gate to commit arson and vandalism.",
+        "hook_bn": "নোয়াখালীতে গ্রামীণ ব্যাংকে আগুন ও ভাঙচুর",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T19:01:55.926523+00:00"
+      }
+    },
+    {
+      "story_id": "e5e4bbb7-83c1-518c-8c2b-b0e5133db54a",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#NikhilGupta",
+        "#NewYork",
+        "#India",
+        "#US"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/9685e16f610038a3820904f81eb1dba749b72664/117_0_2813_2250/master/2813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ff4c4f6c85dba865f89e2e3578574e5",
+      "image_caption": null,
+      "published_at": "2026-11-20T18:24:12+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4126,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
+          "title": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York",
+          "snippet": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York"
+        },
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+          "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+          "snippet": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নিখিল গুপ্তকে ১৯ বছরের বেশি কারাদণ্ড দিলেন মার্কিন আদালত",
+        "title_en": "Indian man sentenced to over 19 years in US prison",
+        "summary_bn": "নিউইয়র্কে এক শিখ বিচ্ছিন্নতাবাদী নেতাকে হত্যার ষড়যন্ত্রের দায়ে এক ভারতীয় নাগরিককে ১৯ বছরের বেশি কারাদণ্ড দিয়েছেন মার্কিন আদালত।",
+        "summary_en": "An Indian man was sentenced to more than 19 years in US prison for conspiring to kill a Sikh separatist in New York.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T18:24:12+00:00",
+        "lead_bn": "নিউইয়র্কে এক শিখ বিচ্ছিন্নতাবাদী নেতাকে হত্যার ষড়যন্ত্রের দায়ে এক ভারতীয় নাগরিককে ১৯ বছরের বেশি কারাদণ্ড দিয়েছেন মার্কিন আদালত।",
+        "lead_en": "An Indian man was sentenced to more than 19 years in US prison for conspiring to kill a Sikh separatist in New York.",
+        "bullets_bn": [
+          "যুক্তরাষ্ট্রের ম্যানহাটন ফেডারেল আদালতে বিচারক ভিক্টর মারেরো এই ২৩৫ মাসের কারাদণ্ড দেন।",
+          "নিখিল গুপ্ত ফেব্রুয়ারিতে হত্যা এবং অর্থ পাচারের ষড়যন্ত্রসহ অন্যান্য অভিযোগে দোষী সাব্যস্ত হয়েছিলেন।",
+          "মার্কিন প্রসিকিউটরদের মতে, এই ষড়যন্ত্রে ভারতীয় সরকারি কর্মকর্তা বিক্যাশ যাদবও জড়িত ছিলেন।"
+        ],
+        "bullets_en": [
+          "US district judge Victor Marrero handed down the 235-month sentence in a Manhattan federal court.",
+          "Nikhil Gupta pleaded guilty in February to murder-for-hire, conspiracy to commit murder-for-hire and conspiracy to commit money laundering.",
+          "Prosecutors accused Gupta of plotting with an Indian government official to kill Gurpatwant Singh Pannun."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মার্কিন ও কানাডীয় কর্তৃপক্ষের তথ্য অনুযায়ী, এটি ভারতীয় অসন্তুষ্ট ব্যক্তিদের লক্ষ্য করার একটি বৃহত্তর প্রচেষ্টার অংশ। এই আবিষ্কার যুক্তরাষ্ট্র ও কানাডার সাথে ভারতের সম্পর্ককে পরীক্ষার মুখে ফেলেছে, যদিও ভারত এ ধরনের চক্রান্তে জড়িত থাকার কথা অস্বীকার করেছে।",
+        "details_en": "US and Canadian authorities have called this part of a broader effort to target Indian dissidents. The discovery of alleged plots has tested relations with India, which has denied involvement.",
+        "hook_bn": "নিখিল গুপ্তকে ১৯ বছরের বেশি কারাদণ্ড",
+        "kicker_bn": "রায় ঘোষণা",
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 5.0,
-      "outlet_count": 1,
+      "outlet_count": 2,
       "trending": false,
       "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-20T18:05:17.152143+00:00"
+        "checked_at": "2026-11-20T19:01:55.926523+00:00"
       }
     }
   ]
