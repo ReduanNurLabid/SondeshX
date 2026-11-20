@@ -1,73 +1,410 @@
 {
-  "updated_at": "2026-11-20T20:00:58.582189",
-  "total_stories": 1,
+  "updated_at": "2026-11-20T21:00:46.921284",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "b407b9e4-841b-5893-8a13-0edb1465ed12",
+      "story_id": "aa811447-f437-5b71-95c6-c9317a294b1b",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Dhaka",
-        "#UtilityProjects",
-        "#RoadExcavation"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1614610741181-2bce5e06976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cG9vciUyMHBsYW5uaW5nJTIwbGFjayUyMGNvb3JkaW5hdGlvbiUyMGdvdmVybm1lbnR8ZW58MXwwfHx8MTc5NTIwNDg5NXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-20%2Fk7niebxj%2FDU-Tree-Plantation.jpg?rect=0%2C66%2C3520%2C1848&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-20T19:38:42+00:00",
+      "published_at": "2026-11-20T19:52:59+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.4458,
+      "importance_score": 9.0,
+      "rank_score": 7.5847,
       "sources": [
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/dhaka/425293/poor-planning-lack-of-coordination-behind-dhaka%E2%80%99s",
-          "title": "Poor planning, lack of coordination behind Dhaka’s never ending excavation",
-          "snippet": "Poor planning, lack of coordination behind Dhaka’s never ending excavation"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/capital/q0tkzo8lf6",
+          "title": "প্রধানমন্ত্রী তারেক রহমানের ৬২তম জন্মদিনে ঢাকা বিশ্ববিদ্যালয়ে ছাত্রদলের ৬২টি বৃক্ষরোপণ",
+          "snippet": "প্রধানমন্ত্রী তারেক রহমানের ৬২তম জন্মদিনে ঢাকা বিশ্ববিদ্যালয়ে ছাত্রদলের ৬২টি বৃক্ষরোপণ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "দুর্বল পরিকল্পনা ও সমন্বয়হীনতার কারণে ঢাকায় চলছে অন্তহীন খোঁড়াখুঁড়ি।",
-        "title_en": "Poor planning and lack of coordination drive Dhaka's never ending excavation.",
-        "summary_bn": "দুর্বল পরিকল্পনা ও সমন্বয়হীনতার কারণে ঢাকায় অন্তহীন খোঁড়াখুঁড়ি চলছে।",
-        "summary_en": "Poor planning and lack of coordination are behind Dhaka's never ending excavation.",
+        "title_bn": "তারেক রহমানের জন্মদিনে ঢাবিতে ছাত্রদলের ৬২টি বৃক্ষরোপণ",
+        "title_en": "Chhatra Dal plants 62 trees at DU for Tarique Rahman's birthday",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমানের ৬২তম জন্মদিন উপলক্ষে ঢাকা বিশ্ববিদ্যালয় ক্যাম্পাসে ৬২টি বৃক্ষরোপণ করেছে বিশ্ববিদ্যালয় শাখা ছাত্রদল।",
+        "summary_en": "Dhaka University branch of Chhatra Dal planted 62 trees on campus marking Prime Minister Tarique Rahman's 62nd birthday.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-20T19:38:42+00:00",
-        "lead_bn": "দুর্বল পরিকল্পনা ও সমন্বয়হীনতার কারণে ঢাকায় অন্তহীন খোঁড়াখুঁড়ি চলছে।",
-        "lead_en": "Poor planning and lack of coordination are behind Dhaka's never ending excavation.",
+        "published_at": "2026-11-20T19:52:59+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমানের ৬২তম জন্মদিন উপলক্ষে ঢাকা বিশ্ববিদ্যালয় ক্যাম্পাসে ৬২টি বৃক্ষরোপণ করেছে বিশ্ববিদ্যালয় শাখা ছাত্রদল।",
+        "lead_en": "Dhaka University branch of Chhatra Dal planted 62 trees on campus marking Prime Minister Tarique Rahman's 62nd birthday.",
         "bullets_bn": [
-          "একাধিক ইউটিলিটি প্রকল্পের ওভারল্যাপিং বা একীকরণ ঘটছে।",
-          "নির্মাণকাজে বিলম্বের ঘটনা ঘটছে।",
-          "পুনরাবৃত্ত খননকাজ দৈনন্দিন জীবনকে ব্যাহত করছে।"
+          "বিশ্ববিদ্যালয়ের মল চত্বরে আয়োজিত এ কর্মসূচিতে প্রধান অতিথি ছিলেন অধ্যাপক মোর্শেদ হাসান খান।",
+          "কেক কাটার পরিবর্তে আদর্শের সঙ্গে সামঞ্জস্য রেখে এই বৃক্ষরোপণের উদ্যোগ নেওয়া হয়েছে বলে জানানো হয়।",
+          "অনুষ্ঠানে সভাপতিত্ব করেন ঢাকা বিশ্ববিদ্যালয় ছাত্রদলের সভাপতি গণেশ চন্দ্র রায় সাহস।"
         ],
         "bullets_en": [
-          "Overlapping utility projects are taking place.",
-          "Construction work experiences delays.",
-          "Repeated excavation disrupts daily life."
+          "Professor Morshed Hasan Khan was the chief guest at the programme held at the university's Mall Chattar.",
+          "Organisers stated the tree plantation was initiated in line with his ideology instead of cutting cakes.",
+          "Dhaka University Chhatra Dal President Ganesh Chandra Roy Sahas presided over the event."
         ],
-        "impact_bn": "এটি রাস্তাঘাট ক্ষতিগ্রস্ত করছে এবং নিরাপত্তা নিয়ে উদ্বেগ বাড়াচ্ছে।",
-        "impact_en": "It damages roads and raises safety concerns.",
-        "details_bn": "দুর্বল পরিকল্পনা এবং সমন্বয়হীনতার কারণে ঢাকায় অন্তহীন খোঁড়াখুঁড়ি চলছে। ওভারল্যাপিং ইউটিলিটি প্রকল্প, বিলম্বিত নির্মাণকাজ এবং বারবার খননের ফলে দৈনন্দিন জীবন ব্যাহত হয়, রাস্তাঘাট ক্ষতিগ্রস্ত হয় এবং নিরাপত্তা নিয়ে উদ্বেগ দেখা দেয়।",
-        "details_en": "Poor planning and a lack of coordination are behind Dhaka's never ending excavation. Overlapping utility projects, delayed construction, and repeated excavation disrupt daily life, damage roads, and raise safety concerns.",
-        "hook_bn": "ঢাকায় চলছে অন্তহীন খোঁড়াখুঁড়ি",
-        "kicker_bn": "সতর্কতা",
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "অনুষ্ঠানে প্রধান অতিথির বক্তব্যে অধ্যাপক মোর্শেদ হাসান খান বলেন, জলবায়ু অর্থায়নের ক্ষেত্রে তারেক রহমান ঋণের পরিবর্তে অনুদান দেওয়ার আহ্বান জানিয়েছেন। ছাত্রদলের কেন্দ্রীয় সাধারণ সম্পাদক নাছির উদ্দিন জানান, প্রধানমন্ত্রী জন্মদিন উপলক্ষে আনুষ্ঠানিক আয়োজন এড়িয়ে চলেন এবং ছাত্রদলের প্রস্তাব বিনয়ের সঙ্গে প্রত্যাখ্যান করেছিলেন। বর্তমান সরকার দায়িত্ব নেওয়ার পর থেকে সবুজায়ন ও বৃক্ষরোপণের ওপর বিশেষ গুরুত্ব দিয়েছে।",
+        "details_en": "Speaking as the chief guest, Professor Morshed Hasan Khan said Tarique Rahman called for grants instead of loans regarding climate finance. Central Chhatra Dal General Secretary Nasir Uddin stated that the Prime Minister avoids formal birthday arrangements and politely declined Chhatra Dal's proposals. The current government has placed special importance on greening and tree plantation since taking office.",
+        "hook_bn": "ঢাবিতে ছাত্রদলের ৬২টি বৃক্ষরোপণ",
+        "kicker_bn": null,
         "share_value": false,
-        "question_bn": "আপনার এলাকার রাস্তায় এ ধরনের খোঁড়াখুঁড়ির কারণে চলাচলে কী ধরনের সমস্যা হচ্ছে?"
+        "question_bn": null
       },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-20T20:02:00.872020+00:00"
+        "checked_at": "2026-11-20T21:01:34.055656+00:00"
+      }
+    },
+    {
+      "story_id": "a1a9b80f-d31b-59d5-b4a8-d264ae774145",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/pm-20261121022759.jpg?cid=499602",
+      "image_caption": null,
+      "published_at": "2026-11-20T20:27:59+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 4.2187,
+      "sources": [
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/international/499602",
+          "title": "প্রধানমন্ত্রীর জন্মদিনে পাবনায় পথচারীদের মাঝে খাবার বিতরণ",
+          "snippet": "প্রধানমন্ত্রীর জন্মদিনে পাবনায় পথচারীদের মাঝে খাবার বিতরণ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পাবনায় পথচারীদের মাঝে খাবার বিতরণ করেছেন ডা. আহমেদ মোস্তফা নোমান",
+        "title_en": "Dr. Ahmed Mostafa Noman distributed food among pedestrians in Pabna",
+        "summary_bn": "প্রধানমন্ত্রী ও বিএনপির চেয়ারম্যান তারেক রহমানের ৬২তম জন্মদিন উপলক্ষে পাবনায় পথচারীদের মাঝে খাবার বিতরণ করা হয়েছে।",
+        "summary_en": "Food was distributed among pedestrians in Pabna on the occasion of the 62nd birthday of Prime Minister and BNP Chairman Tarique Rahman.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T20:27:59+00:00",
+        "lead_bn": "প্রধানমন্ত্রী ও বিএনপির চেয়ারম্যান তারেক রহমানের ৬২তম জন্মদিন উপলক্ষে পাবনায় পথচারীদের মাঝে খাবার বিতরণ করা হয়েছে।",
+        "lead_en": "Food was distributed among pedestrians in Pabna on the occasion of the 62nd birthday of Prime Minister and BNP Chairman Tarique Rahman.",
+        "bullets_bn": [
+          "পাবনা পৌর শহরের ডায়াবেটিক হাসপাতালের সামনে এ কর্মসূচি আয়োজিত হয়।",
+          "জেলা বিএনপির সদস্য ও ড্যাব পাবনার সদস্য সচিব ডা. আহমেদ মোস্তফা নোমান এই খাবার বিতরণ করেন।",
+          "রাজনীতি মানুষের কল্যাণে ও অধিকার প্রতিষ্ঠায় কাজ করা উচিত বলে জানান ডা. আহমেদ মোস্তফা নোমান।"
+        ],
+        "bullets_en": [
+          "The program was organized on Friday afternoon in front of Pabna Municipal Diabetic Hospital.",
+          "Dr. Ahmed Mostafa Noman, district BNP member and DAB Pabna member secretary, distributed the food.",
+          "Dr. Ahmed Mostafa Noman stated that politics should work for people's welfare and rights."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "অনুষ্ঠানে পাবনা জেলা যুবদলের যুগ্ম আহ্বায়ক শরিফুল ইসলাম জনি, পাবনা পৌর যুবদলের যুগ্ম আহ্বায়ক নাদিম হায়দার এবং ছাত্রদল নেতা মীর সানজিত প্রান্তসহ স্থানীয় নেতাকর্মীরা উপস্থিত ছিলেন। ডা. আহমেদ মোস্তফা নোমান তারেক রহমানের নেতৃত্বে একটি বৈষম্যহীন ও মানবিক বাংলাদেশ গড়ার প্রত্যাশা ব্যক্ত করে নেতাকর্মীদের মানবিক কর্মকাণ্ড চালিয়ে যাওয়ার আহ্বান জানান।",
+        "details_en": "Local leaders including Pabna district Jubo Dal joint convener Shariful Islam Joni, Pabna municipal Jubo Dal joint convener Nadim Haider, and Chhatra Dal leader Mir Sanjit Pranta were present. Expressing expectations for a discrimination-free and humane Bangladesh under Tarique Rahman's leadership, Dr. Ahmed Mostafa Noman urged activists to continue humanitarian activities.",
+        "hook_bn": "রাজনীতির মূল লক্ষ্য হওয়া উচিত মানুষের কল্যাণ",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T21:01:34.055656+00:00"
+      }
+    },
+    {
+      "story_id": "55e21e52-23b9-5b81-b67e-4914e65dcd26",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business",
+        "tech_innovation"
+      ],
+      "region": "national",
+      "tags": [
+        "#DonaldTrump",
+        "#AndrewGarbarino",
+        "#JohnMoolenaar",
+        "#ChinaAI"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/19/china_apec_jinping_trump.png",
+      "image_caption": null,
+      "published_at": "2026-11-20T18:50:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.1727,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/world/after-trumps-china-trip-us-house-republicans-push-ai-strategy-counter-beijing-1609116",
+          "title": "After Trump's China trip, US House Republicans push AI strategy to counter Beijing",
+          "snippet": "After Trump's China trip, US House Republicans push AI strategy to counter Beijing"
+        },
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/opinion/editorial/three-to-tango-on-trump-xi-putin-trilateral-summit/article71725845.ece",
+          "title": "Three to tango: On Trump, Xi, Putin trilateral summit",
+          "snippet": "Three to tango: On Trump, Xi, Putin trilateral summit"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যুক্তরাষ্ট্রের আইনপ্রণেতারা ট্রাম্পকে কম খরচের এআই টুল উন্নয়নে আহ্বান জানিয়েছেন",
+        "title_en": "US House Republicans urged Donald Trump to promote lower-cost AI tools",
+        "summary_bn": "যুক্তরাষ্ট্রের হাউসের দুই শীর্ষ রিপাবলিকান নেতা প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে সস্তা এআই টুল উন্নয়নের আহ্বান জানিয়েছেন যাতে চীনা বিকল্পগুলোর সঙ্গে প্রতিযোগিতা করা যায়।",
+        "summary_en": "Two leading House Republicans urged US President Donald Trump to promote development of lower-cost AI tools to compete with Chinese alternatives.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T18:50:00+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের হাউসের দুই শীর্ষ রিপাবলিকান নেতা প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে সস্তা এআই টুল উন্নয়নের আহ্বান জানিয়েছেন যাতে চীনা বিকল্পগুলোর সঙ্গে প্রতিযোগিতা করা যায়।",
+        "lead_en": "Two leading House Republicans urged US President Donald Trump to promote development of lower-cost AI tools to compete with Chinese alternatives.",
+        "bullets_bn": [
+          "হাউস হোমল্যান্ড সিকিউরিটি কমিটির চেয়ারম্যান অ্যান্ড্রু গারবারিনো এবং হাউস সিলেক্ট কমিটি অন চায়নার চেয়ারম্যান জন মূলেনার এই আবেদন জানান।",
+          "আইনপ্রণেতারা বলেন যে বেইজিং এআই ব্যবহার করে বিদেশি কোম্পানিগুলোকে চীনা প্রযুক্তির ওপর নির্ভরশীল করে তুলছে।",
+          "তারা ওপেন-ওয়েট এআই মডেল তৈরি করা আমেরিকান কোম্পানিগুলোকে ফেডারেল কম্পিউটিং সম্পদে প্রবেশাধিকার দেওয়ার আহ্বান জানান।"
+        ],
+        "bullets_en": [
+          "House Homeland Security Committee Chairman Andrew Garbarino and House Select Committee on China Chairman John Moolenaar made the appeal.",
+          "Lawmakers warned that Beijing is using AI to make foreign companies dependent on Chinese technology.",
+          "They called on the administration to give American companies developing open-weight AI models access to federal computing resources."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "চীনা প্রেসিডেন্ট শি জিনপিংয়ের সঙ্গে শেনজেনে বৈঠক করে ডোনাল্ড ট্রাম্প ফিরে আসার কয়েক ঘণ্টা পর এই আহ্বান জানানো হয়। বৈঠকে ট্রাম্প চীনের প্রতি উষ্ণ মনোভাব প্রকাশ করেছিলেন। ওপেনরোটার প্ল্যাটফর্মে অক্টোবরে টোকেন ব্যবহারের দিক থেকে চীনা এআই মডেলগুলো শীর্ষ তিনটি জনপ্রিয় ছিল। আমেরিকার ওপেন-ওয়েট অফারগুলোর মধ্যে রয়েছে মেটার মিউজ গ্লিমার, এনভিডিয়ার নেমোট্রন এবং থিংকিং মেশিনসের ইংকলিং।",
+        "details_en": "The appeal came hours after Trump returned from meetings with Chinese President Xi Jinping in Shenzhen, where the president struck a warm tone. Chinese AI models were the three most popular by token usage in October on OpenRouter. American open-weight offerings include Meta's Muse Glimmer, Nvidia's Nemotron and Thinking Machines' Inkling.",
+        "hook_bn": "আমেরিকান এআই প্রতিযোগিতা ও চীনা প্রযুক্তি",
+        "kicker_bn": "প্রযুক্তি",
+        "share_value": false,
+        "question_bn": null
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T21:01:34.055656+00:00"
+      }
+    },
+    {
+      "story_id": "97359ead-65ab-5809-a618-349a94056f5b",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Rohingya",
+        "#HumayunKabir",
+        "#Myanmar"
+      ],
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182368/foreign-affairs-state-minister-humayun-kabir.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-20T21:00:58.144050+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 2.3034,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/bangladesh-seeks-rohingya-repatriation-within-12-18-months",
+          "title": "Bangladesh seeks Rohingya repatriation within 12-18 months",
+          "snippet": "Bangladesh seeks Rohingya repatriation within 12-18 months"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রোহিঙ্গাদের নিরাপদ প্রত্যাবাসন চায় বাংলাদেশ",
+        "title_en": "Bangladesh seeks safe Rohingya repatriation",
+        "summary_bn": "পররাষ্ট্র প্রতিমন্ত্রী হুমায়ুন কবির জানিয়েছেন, আগামী ১২ থেকে ১৮ মাসের মধ্যে মিয়ানমারে রোহিঙ্গাদের নিরাপদ প্রত্যাবাসনের পরিবেশ তৈরি করতে চায় বাংলাদেশ।",
+        "summary_en": "Bangladesh wants to create conditions for the safe repatriation of Rohingyas to Myanmar within the next 12 to 18 months, Foreign Affairs State Minister Humayun Kabir has said.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T21:00:58.144050+00:00",
+        "lead_bn": "পররাষ্ট্র প্রতিমন্ত্রী হুমায়ুন কবির জানিয়েছেন, আগামী ১২ থেকে ১৮ মাসের মধ্যে মিয়ানমারে রোহিঙ্গাদের নিরাপদ প্রত্যাবাসনের পরিবেশ তৈরি করতে চায় বাংলাদেশ।",
+        "lead_en": "Bangladesh wants to create conditions for the safe repatriation of Rohingyas to Myanmar within the next 12 to 18 months, Foreign Affairs State Minister Humayun Kabir has said.",
+        "bullets_bn": [
+          "আন্তর্জাতিক অপরাধ আদালতের রায়ের পর এই লক্ষ্য অর্জনে জাতিসংঘ ও দ্বিপক্ষীয় অংশীদারদের সঙ্গে কূটনৈতিক প্রচেষ্টা জোরদার করবে বাংলাদেশ।",
+          "রায়ে বাংলাদেশের আইনি অবস্থান শক্তিশালী হয়েছে এবং ক্ষতিপূরণ পাওয়ার পথ প্রশস্ত হয়েছে বলে প্রতিমন্ত্রী উল্লেখ করেন।",
+          "মিয়ানমারের রাখাইন রাজ্যে পর্যাপ্ত নিরাপত্তা ব্যবস্থা নিশ্চিত করার ওপর রোহিঙ্গাদের ফিরে যাওয়া নির্ভর করছে।"
+        ],
+        "bullets_en": [
+          "Bangladesh will intensify diplomatic efforts with the United Nations and bilateral partners to achieve the goal after the ICJ ruling.",
+          "The state minister said the landmark verdict had strengthened Bangladesh’s legal position and paved the way for compensation.",
+          "The return of Rohingyas depends on ensuring adequate security arrangements in Myanmar’s Rakhine State."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "পররাষ্ট্র প্রতিমন্ত্রী হুমায়ুন কবির জানান, শুধু দ্বিপক্ষীয় প্রচেষ্টার মাধ্যমে প্রয়োজনীয় ক্ষতিপূরণ নিশ্চিত করা সম্ভব নয় এবং এর জন্য একাধিক দেশ ও সংগঠনের সম্পৃক্ততা প্রয়োজন। তিনি আরও উল্লেখ করেন, দ্রুত ও টেকসই প্রত্যাবাসনই এই দীর্ঘস্থায়ী সংকটের একমাত্র কার্যকর সমাধান।",
+        "details_en": "Foreign Affairs State Minister Humayun Kabir said the required compensation could not be secured through bilateral efforts alone, and the involvement of multiple countries and organisations would be necessary. He added that swift and sustainable repatriation was the only effective solution to the protracted crisis.",
+        "hook_bn": "রোহিঙ্গাদের প্রত্যাবাসন ১২ থেকে ১৮ মাসে",
+        "kicker_bn": "নতুন লক্ষ্য",
+        "share_value": false,
+        "question_bn": null
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T21:01:34.055656+00:00"
+      }
+    },
+    {
+      "story_id": "6f267584-bb2f-58dc-8a4d-1061852c881e",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "world_diplomacy",
+        "tech_innovation"
+      ],
+      "region": "international",
+      "tags": [
+        "#COP31",
+        "#IPCC",
+        "#ClimateScience"
+      ],
+      "image_url": "https://static.dw.com/image/80005230_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-20T20:34:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.2815,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/at-cop31-conflict-over-climate-science-slows-action-on-global-warming/a-80004894?maca=en-rss-en-all-1573-rdf",
+          "title": "At COP31, conflict over climate science slows action on global warming",
+          "snippet": "At COP31, conflict over climate science slows action on global warming"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কপ৩১ সম্মেলনে জলবায়ু বিজ্ঞান নিয়ে বিরোধ বৈশ্বিক পদক্ষেপে বাধা সৃষ্টি করছে",
+        "title_en": "Conflict over climate science at COP31 slows action on global warming",
+        "summary_bn": "আন্টালিয়ায় চলমান কপ৩১ সম্মেলনে বিশ্ব উষ্ণায়ন মূল্যায়ন নিয়ে মতবিরোধের কারণে জলবায়ু পদক্ষেপের বৈজ্ঞানিক ভিত্তি হুমকির মুখে পড়েছে।",
+        "summary_en": "An ongoing dispute over the timing of a global warming assessment at COP31 in Antalya is risking the scientific foundations of climate action.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "world_diplomacy",
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T20:34:00+00:00",
+        "lead_bn": "আন্টালিয়ায় চলমান কপ৩১ সম্মেলনে বিশ্ব উষ্ণায়ন মূল্যায়ন নিয়ে মতবিরোধের কারণে জলবায়ু পদক্ষেপের বৈজ্ঞানিক ভিত্তি হুমকির মুখে পড়েছে।",
+        "lead_en": "An ongoing dispute over the timing of a global warming assessment at COP31 in Antalya is risking the scientific foundations of climate action.",
+        "bullets_bn": [
+          "রাশিয়ার, ইরানের, সৌদি আরবের এবং কেনিয়ার তাগিদে অক্টোবরে আইপিসিসির শেষ পূর্ণাঙ্গ অধিবেশন স্থগিত করা হয়েছিল।",
+          "ইউরোপীয় প্রতিনিধিদলের একজন কূটনীতিক বলেন, আইপিসিসির ভবিষ্যৎ নিয়ে তারা অত্যন্ত উদ্বিগ্ন।",
+          "জার্মান পরিবেশ মন্ত্রণালয়ের একজন মুখপাত্র জানান, প্যানেলটির কাজ চালিয়ে যেতে তারা সমাধান খুঁজতে আলোচনা চালিয়ে যাচ্ছেন।"
+        ],
+        "bullets_en": [
+          "The last plenary session was put on hold in October at the urging of Russia, Iran, Saudi Arabia and Kenya.",
+          "A diplomat with the European delegation said they are extremely concerned about the future of the IPCC.",
+          "A German Environment Ministry spokesperson stated they are holding discussions with various countries to help resolve the issue."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "বিজ্ঞান নিয়ে বিরোধে স্থবির কপ৩১ জলবায়ু সম্মেলন",
+        "kicker_bn": "জলবায়ু সম্মেলন",
+        "share_value": false,
+        "question_bn": "জলবায়ু পরিবর্তন মোকাবেলায় বৈজ্ঞানিক মূল্যায়নের এই বিলম্বকে আপনি কীভাবে দেখছেন?"
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T21:01:34.055656+00:00"
+      }
+    },
+    {
+      "story_id": "ed3afee8-6c07-547b-bdd4-dc7d626d85ed",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#USSenate",
+        "#CFPB",
+        "#ElizabethWarren",
+        "#DonaldTrump"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/bf91efdbdec6fadcddfce048f1aadcc56d9e79ca/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1887b9c908f8ed8ac27a02455aae060a",
+      "image_caption": null,
+      "published_at": "2026-11-20T18:51:16+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.255,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
+          "title": "‘Worth fighting for’: senators vow to restore financial watchdog agency after Guardian investigation",
+          "snippet": "‘Worth fighting for’: senators vow to restore financial watchdog agency after Guardian investigation"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যুক্তরাষ্ট্রের আর্থিক তদারকি সংস্থা পুনরুজ্জীবিত করার ঘোষণা সিনেটরদের",
+        "title_en": "US senators vow to restore financial watchdog agency after investigation",
+        "summary_bn": "গার্ডিয়ানের এক অনুসন্ধানের পর চার মার্কিন সিনেট ডেমোক্রেট দ্বিতীয় ট্রাম্প প্রশাসনের আমলে নিষ্ক্রিয় থাকা একটি আর্থিক তদারকি সংস্থা পুনরুজ্জীবিত করার ঘোষণা দিয়েছেন।",
+        "summary_en": "Four US Senate Democrats will work to resurrect a financial watchdog agency abandoned under the second Trump administration.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T18:51:16+00:00",
+        "lead_bn": "গার্ডিয়ানের এক অনুসন্ধানের পর চার মার্কিন সিনেট ডেমোক্রেট দ্বিতীয় ট্রাম্প প্রশাসনের আমলে নিষ্ক্রিয় থাকা একটি আর্থিক তদারকি সংস্থা পুনরুজ্জীবিত করার ঘোষণা দিয়েছেন।",
+        "lead_en": "Four US Senate Democrats will work to resurrect a financial watchdog agency abandoned under the second Trump administration.",
+        "bullets_bn": [
+          "সিএফপিবি ব্যাংক ও করপোরেশনের বিরুদ্ধে করা বিশটির বেশি মামলা তুলে নেওয়ার পর ওই প্রতিষ্ঠানগুলোর বিরুদ্ধে অভিযোগ পঁচাত্তর শতাংশের বেশি বেড়েছে।",
+          "ম্যাসাচুসেটসের সিনেটর এলিজাবেথ ওয়ারেন প্রশাসনের দুর্বল করার প্রচেষ্টার তদন্ত করার এবং পরবর্তী কংগ্রেসে ভোক্তা সুরক্ষার প্রতিশ্রুতি দিয়েছেন।",
+          "ট্রাম্পের দায়িত্ব গ্রহণের পর থেকে সিএফপিবি শুধুমাত্র একটি প্রকাশ্য জনস্বার্থমূলক বা আইনি পদক্ষেপ গ্রহণ করেছে।"
+        ],
+        "bullets_en": [
+          "Complaints against firms rose by an average of more than 75% after the CFPB dropped more than 20 lawsuits.",
+          "Senator Elizabeth Warren promised to investigate administration attempts to weaken the CFPB and defend consumers in the next Congress.",
+          "The bureau has initiated just one public enforcement action since 30 January 2025."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "দ্বিতীয় ট্রাম্প প্রশাসনের অধীনে সিএফপিবি বড় ব্যাংক ও কর্পোরেশনের বিরুদ্ধে আর্থিক অসদাচরণের অভিযোগে থাকা বিশটির বেশি মামলা প্রত্যাহার করে নেয়। এর আগে সংস্থাটি এক দশকেরও বেশি সময় ধরে প্রতি বছর গড়ে প্রায় ত্রিশটি প্রকাশ্য আইনি পদক্ষেপ নিয়েছিল। তবে সংস্থাটির বর্তমান নেতৃত্ব জানিয়েছে যে এই সংস্থাটি অতীতে কোম্পানি এবং ভোক্তা উভয়ের জন্যই ক্ষতিকর ছিল এবং রাজনৈতিক শত্রুদের আক্রমণ করেছিল।",
+        "details_en": "Under the second Trump administration, the CFPB dropped more than 20 lawsuits against banks and corporations. Previously, the bureau had filed an average of roughly 30 public enforcement actions each year for more than a decade. The agency's current leadership stated that the agency had long been harmful to companies and consumers and had attacked political enemies.",
+        "hook_bn": "'ওয়াশিংটন ডোনাল্ড ট্রাম্প ফাইন্যান্সিয়াল কপকে সরিয়ে দিয়েছেন'",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T21:01:34.055656+00:00"
       }
     }
   ]
