@@ -1,224 +1,146 @@
 {
-  "updated_at": "2026-11-20T03:00:57.539761",
+  "updated_at": "2026-11-20T04:00:43.180258",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "3314954c-c479-5f0e-9d63-34c30aab3d54",
-      "primary_category": "climate_environment",
+      "story_id": "25fc13cd-ea70-51d2-b7e1-522e0afaf7f2",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "climate_environment",
-        "economy_business",
-        "governance_law"
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Climate",
-        "#Environment"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1781330168090-a2b6721eb435?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8c2V2ZW50aCUyMHNoaXBtZW50JTIwdXJhbml1bSUyMGFycml2ZXMlMjBlbnZpcm9ubWVudHxlbnwxfDB8fHwxNzk1MTQzODE3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1610375461246-83df859d849d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z29sZCUyMHByaWNlcyUyMGZhbGwlMjBmdXJ0aGVyJTIwYnVzaW5lc3N8ZW58MXwwfHx8MTc5NTE0NzI4Nnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-20T02:59:16+00:00",
+      "published_at": "2026-11-20T03:46:46+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5867,
+      "importance_score": 6.5,
+      "rank_score": 4.1662,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1181558",
-          "title": "রূপপুরে পৌঁছাল দ্বিতীয় ইউনিটের শেষ চালানের ইউরেনিয়াম",
-          "snippet": "রূপপুরে পৌঁছাল দ্বিতীয় ইউনিটের শেষ চালানের ইউরেনিয়াম"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/rajshahi/982086/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%81%E0%A6%9B%E0%A6%BE%E0%A6%B2%E0%A7%8B-%E0%A6%87%E0%A6%89%E0%A6%B0%E0%A7%87%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A8",
-          "title": "রূপপুরে পৌঁছালো ইউরেনিয়ামের আরও একটি চালান",
-          "snippet": "রূপপুরে পৌঁছালো ইউরেনিয়ামের আরও একটি চালান"
+          "url": "https://www.jagonews24.com/international/news/1181568",
+          "title": "সোনার দাম আরও কমলো",
+          "snippet": "সোনার দাম আরও কমলো"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রূপপুর প্রকল্পে পৌঁছাল ইউরেনিয়ামের সপ্তম চালান",
-        "title_en": "Seventh shipment of uranium arrives at Rooppur project",
-        "summary_bn": "রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্রের জন্য রাশিয়া থেকে আনা ইউরেনিয়ামের সপ্তম চালান প্রকল্প এলাকায় পৌঁছেছে।",
-        "summary_en": "The seventh shipment of uranium brought from Russia for the Rooppur Nuclear Power Plant has reached the project area.",
+        "title_bn": "যুক্তরাষ্ট্রের ডলারের শক্তিশালী অবস্থান ও সুদের হার বৃদ্ধির আশঙ্কায় সোনার দাম কমেছে।",
+        "title_en": "Gold prices fall further due to US dollar strength and rate hike fears.",
+        "summary_bn": "যুক্তরাষ্ট্রের ডলারের শক্তিশালী অবস্থান এবং দেশটির কেন্দ্রীয় ব্যাংক ফেডারেল রিজার্ভের সুদের হার বাড়ানোর আশঙ্কায় সোনার দাম আরও কমেছে।",
+        "summary_en": "Gold prices have fallen further due to the strong position of the US dollar and fears of interest rate hikes by the Federal Reserve.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "climate_environment",
-          "economy_business",
-          "governance_law"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-20T02:59:16+00:00",
-        "lead_bn": "রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্রের জন্য রাশিয়া থেকে আনা ইউরেনিয়ামের সপ্তম চালান প্রকল্প এলাকায় পৌঁছেছে।",
-        "lead_en": "The seventh shipment of uranium brought from Russia for the Rooppur Nuclear Power Plant has reached the project area.",
+        "published_at": "2026-11-20T03:46:46+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের ডলারের শক্তিশালী অবস্থান এবং দেশটির কেন্দ্রীয় ব্যাংক ফেডারেল রিজার্ভের সুদের হার বাড়ানোর আশঙ্কায় সোনার দাম আরও কমেছে।",
+        "lead_en": "Gold prices have fallen further due to the strong position of the US dollar and fears of interest rate hikes by the Federal Reserve.",
         "bullets_bn": [
-          "ইউরেনিয়ামের সপ্তম চালানটি পাবনার ঈশ্বরদীতে রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্র প্রকল্প এলাকায় এসে পৌঁছায়।",
-          "২০ নভেম্বর সকাল সাড়ে ৬টার দিকে তিনটি বিশেষায়িত লরিতে করে ইউরেনিয়াম প্রকল্প এলাকায় প্রবেশ করে।",
-          "সেনাবাহিনীর তত্ত্বাবধানে অন্যান্য আইনশৃঙ্খলা রক্ষাকারী বাহিনীর সমন্বয়ে কঠোর নিরাপত্তাব্যবস্থা নেওয়া হয়।"
+          "যুক্তরাষ্ট্রের ডলারের শক্তিশালী অবস্থান সোনার দাম কমার অন্যতম কারণ।",
+          "যুক্তরাষ্ট্রের কেন্দ্রীয় ব্যাংক ফেডারেল রিজার্ভের সুদের হার বাড়ানোর আশঙ্কা করা হচ্ছে।",
+          "এই পরিস্থিতির কারণে আন্তর্জাতিক বাজারে সোনার দাম আরও কমেছে।"
         ],
         "bullets_en": [
-          "The seventh shipment of uranium reached the Rooppur Nuclear Power Plant project area in Ishwardi, Pabna.",
-          "The uranium entered the project area in three specialized lorries ২০ November, at around 6:30 am.",
-          "Strict security measures were taken under the supervision of the army and in coordination with other law enforcement agencies."
+          "The strong position of the US dollar is one of the reasons for the drop in gold prices.",
+          "There are expectations that the US central bank, the Federal Reserve, will raise interest rates.",
+          "Gold prices have decreased further in the international market due to this situation."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "সর্বশেষ চালানটি পৌঁছানোর মধ্য দিয়ে দ্বিতীয় ইউনিটের জন্য নির্ধারিত সাতটি চালানই প্রকল্প এলাকায় পৌঁছাল।",
-        "details_en": "With the arrival of the latest shipment, all seven shipments for the second unit have reached the project area.",
-        "hook_bn": "রূপপুরে পৌঁছাল ইউরেনিয়ামের সপ্তম চালান",
-        "kicker_bn": "পরমাণু বিদ্যুৎ",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "যুক্তরাষ্ট্রের প্রভাবে আরও কমল সোনার দাম",
+        "kicker_bn": "দাম কমছে",
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-20T03:04:58.810084+00:00"
-      }
-    },
-    {
-      "story_id": "6b52aef2-0347-5640-a5c4-3e2c91ab7fda",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Economy",
-        "#Finance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2024-01%2Fef17224a-029a-4c9a-ae35-2293d8ae393a%2FUntitled_1.jpg?rect=0%2C6%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-20T02:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.3878,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/business/economics/1iaigxz46o",
-          "title": "সরু চাল ও কিছু সবজির দাম বেড়েছে",
-          "snippet": "সরু চাল ও কিছু সবজির দাম বেড়েছে"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রাজধানীর বাজারে সরু চাল ও কিছু সবজির দাম বেড়েছে",
-        "title_en": "Prices of fine rice and some vegetables increased in capital markets",
-        "summary_bn": "রাজধানীর বাজারে গত ১৫ দিনে নাজিরশাইল চালের দাম কেজিতে তিন থেকে চার টাকা বেড়েছে।",
-        "summary_en": "Nazirshail rice prices increased by three to four taka per kg in capital markets over 15 days.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-20T02:00:00+00:00",
-        "lead_bn": "রাজধানীর বাজারে গত ১৫ দিনে নাজিরশাইল চালের দাম কেজিতে তিন থেকে চার টাকা বেড়েছে।",
-        "lead_en": "Nazirshail rice prices increased by three to four taka per kg in capital markets over 15 days.",
-        "bullets_bn": [
-          "মিনিকেট চালের দাম কেজিতে এক থেকে দুই টাকা বেড়েছে।",
-          "ফুলকপি ও বাঁধাকপি প্রতিটির দাম ১০ টাকা বেড়েছে।",
-          "বৃষ্টি ও বর্তমান পরিস্থিতির কারণে কিছু এলাকা থেকে সবজির সরবরাহ কমেছে।"
-        ],
-        "bullets_en": [
-          "Miniket rice prices increased by one to two taka per kg.",
-          "Cauliflower and cabbage prices each increased by 10 taka.",
-          "Vegetable supply from some areas decreased due to rain and the current situation."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ব্যবসায়ীরা জানান, পুরোনো নাজিরশাইল চালের সরবরাহ শেষের দিকে এবং নতুন মৌসুমের চাল এখনো বাজারে আসেনি। নভেম্বরের শেষ দিকে কিংবা ডিসেম্বরের মাঝামাঝি নতুন চাল বাজারে আসতে পারে।",
-        "details_en": "Traders said supply of old Nazirshail rice is nearing its end and new season rice has not arrived yet. New rice may arrive in markets in late November or mid-December.",
-        "hook_bn": "নাজিরশাইল ও মিনিকেট চালের দাম বেড়েছে",
-        "kicker_bn": "দাম বাড়ছে",
-        "share_value": true,
-        "question_bn": "আপনার এলাকার বাজারে চাল ও সবজির দামে কেমন পরিবর্তন দেখছেন?"
-      },
-      "desk_importance": 6.0,
       "outlet_count": 1,
-      "trending": false,
+      "trending": true,
       "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-20T03:04:58.810084+00:00"
+        "checked_at": "2026-11-20T04:01:47.640120+00:00"
       }
     },
     {
-      "story_id": "154987a0-2f9f-5193-b2f2-9660a6b45080",
-      "primary_category": "economy_business",
+      "story_id": "51a67700-ae7f-5a6f-b2ca-7e6b1216b52f",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "economy_business",
-        "world_diplomacy"
+        "governance_law",
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#BangladeshUnrest",
+        "#Gopalganj",
+        "#AwamiLeague"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-14%2F3myj61sq%2FWhatsApp-Image-2026-11-14-at-10.26.38-PM.jpeg?rect=0%2C100%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/17/gopalganj_mp_fire.jpg",
       "image_caption": null,
-      "published_at": "2026-11-20T02:30:00+00:00",
+      "published_at": "2026-11-20T01:55:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.4216,
+      "importance_score": 6.5,
+      "rank_score": 3.7412,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/business/economics/fmeg7m8gvt",
-          "title": "কক্সবাজারে আন্তর্জাতিক ঋণ সম্মেলন থেকে কী বার্তা পেল বাংলাদেশ",
-          "snippet": "কক্সবাজারে আন্তর্জাতিক ঋণ সম্মেলন থেকে কী বার্তা পেল বাংলাদেশ"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/14-19-november-violence-arson-and-arrests-reported-across-bangladesh-1608431",
+          "title": "14–19 November: Violence, arson and arrests reported across Bangladesh",
+          "snippet": "14–19 November: Violence, arson and arrests reported across Bangladesh"
         }
       ],
       "daily_buzz": {
-        "title_bn": "কক্সবাজারে দেশের প্রথম আন্তর্জাতিক ঋণ সম্মেলন অনুষ্ঠিত হয়েছে",
-        "title_en": "Bangladesh holds its first international debt conference in Cox's Bazar",
-        "summary_bn": "কক্সবাজারে ১৫ ও ১৬ নভেম্বর দেশের প্রথম আন্তর্জাতিক ঋণ সম্মেলন অনুষ্ঠিত হয়েছে, যেখানে সরকারি ঋণ ব্যবস্থাপনার চ্যালেঞ্জ নিয়ে আলোচনা হয়।",
-        "summary_en": "Bangladesh held its first international debt conference in Cox's Bazar on November 15 and 16, discussing government debt management challenges.",
+        "title_bn": "বাংলাদেশে সহিংসতা ও অগ্নিসংযোগে চারজন নিহত এবং শত শত গ্রেপ্তার",
+        "title_en": "Four killed and hundreds arrested in violence and arson across Bangladesh",
+        "summary_bn": "রাজনৈতিক অস্থিরতার মধ্যে ১৪ থেকে ১৯ নভেম্বর পর্যন্ত দেশের অন্তত ১২টি জেলায় সহিংসতা, অগ্নিসংযোগ ও সংঘর্ষে চারজন নিহত হয়েছেন।",
+        "summary_en": "At least four people were killed in violence, arson and clashes across 12 districts between 14 and 19 November amid political unrest.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "world_diplomacy"
+          "governance_law",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-20T02:30:00+00:00",
-        "lead_bn": "কক্সবাজারে ১৫ ও ১৬ নভেম্বর দেশের প্রথম আন্তর্জাতিক ঋণ সম্মেলন অনুষ্ঠিত হয়েছে, যেখানে সরকারি ঋণ ব্যবস্থাপনার চ্যালেঞ্জ নিয়ে আলোচনা হয়।",
-        "lead_en": "Bangladesh held its first international debt conference in Cox's Bazar on November 15 and 16, discussing government debt management challenges.",
+        "published_at": "2026-11-20T01:55:00+00:00",
+        "lead_bn": "রাজনৈতিক অস্থিরতার মধ্যে ১৪ থেকে ১৯ নভেম্বর পর্যন্ত দেশের অন্তত ১২টি জেলায় সহিংসতা, অগ্নিসংযোগ ও সংঘর্ষে চারজন নিহত হয়েছেন।",
+        "lead_en": "At least four people were killed in violence, arson and clashes across 12 districts between 14 and 19 November amid political unrest.",
         "bullets_bn": [
-          "অর্থমন্ত্রী আমির খসরু মাহমুদ চৌধুরী জানিয়েছেন সরকার ব্যাংক খাতের ওপর নির্ভরতা কমাতে চায়।",
-          "প্রধানমন্ত্রীতা অর্থ ও পরিকল্পনা উপদেষ্টা রাশেদ আল মাহমুদ তিতুমীর বৈদেশিক ঋণ পরিশোধের হিসাব দিয়েছেন।",
-          "বিশেষজ্ঞরা বন্ড, সুকুক ও বিদেশি বিনিয়োগের মাধ্যমে অর্থায়নের উৎস বাড়ানোর ওপর গুরুত্ব দিয়েছেন।"
+          "নিরাপত্তা নিশ্চিত করতে সাতটি জেলায় ৯৬ প্লাটুন বিজিবি মোতায়েন করা হয়েছে।",
+          "গোপালগঞ্জে পুলিশ স্টেশন, রাজনৈতিক নেতার বাড়ি ও গ্রামীণ ব্যাংকের শাখায় হামলা ও অগ্নিসংযোগ করা হয়েছে।",
+          "টুঙ্গিপাড়ায় পুলিশ স্টেশন পুড়িয়ে দেওয়ার পর বিভিন্ন জেলার তিন শতাধিক পুলিশ সদস্য অবরুদ্ধ হয়ে পড়েন।"
         ],
         "bullets_en": [
-          "Finance Minister Amir Khosru Mahmud Chowdhury stated the government wants to reduce reliance on the banking sector.",
-          "Prime Minister's Finance and Planning Adviser Raashed Al Mahmud Titumir provided calculations for foreign debt repayment.",
-          "Experts emphasized increasing financing sources through bonds, sukuks, and foreign investment."
+          "Security measures were tightened with the deployment of 96 platoons of Border Guard Bangladesh in seven districts.",
+          "Gopalganj witnessed attacks and arson on police facilities, political leaders' residences and a Grameen Bank branch.",
+          "More than 300 police personnel from different districts were left stranded in Tungipara after the police station was set on fire."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বিশ্বের দীর্ঘতম সমুদ্রসৈকত কক্সবাজারের মূল সমুদ্রসৈকত থেকে প্রায় ৬০০ গজ দূরে ওশান প্যারাডাইস হোটেলে এই সম্মেলন অনুষ্ঠিত হয়। সম্মেলনে আইএমএফ, বিশ্বব্যাংক ও এডিপির প্রতিনিধিরা অংশ নেন এবং সাতটি অধিবেশন অনুষ্ঠিত হয়।",
-        "details_en": "The conference was held at the Ocean Paradise Hotel, about 600 yards from the main beach in Cox's Bazar, the world's longest sea beach. Representatives from the IMF, World Bank, and ADB participated in the seven sessions.",
-        "hook_bn": "ব্যাংক খাতের ওপর নির্ভরতা কমাবে সরকার",
+        "details_bn": "নিষিদ্ধ ঘোষিত আওয়ামী লীগের দেশব্যাপী লকডাউন কর্মসূচিকে কেন্দ্র করে ১৪ থেকে ১৯ নভেম্বর পর্যন্ত দেশের বিভিন্ন স্থানে সংঘর্ষ, গাড়ি ভাঙচুর ও সড়ক অবরোধের ঘটনা ঘটে। গোপালগঞ্জসহ দেশের বিভিন্ন স্থানে রাজনৈতিক নেতাদের বাসভবন, পুলিশ স্টেশন ও সরকারি স্থাপনায় হামলা চালানো হয়।",
+        "details_en": "Clashes, vehicle vandalism and road blockades occurred across the country from 14 to 19 November amid political unrest surrounding the banned Awami League's lockdown programme. Attacks targeted police stations, political leaders' residences and public establishments in Gopalganj and other districts.",
+        "hook_bn": "গোপালগঞ্জে পুলিশ স্টেশনে হামলা ও অগ্নিসংযোগ",
         "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 5.0,
+      "desk_importance": 6.0,
       "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 4.0,
+      "trending": true,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-20T03:04:58.810084+00:00"
+        "checked_at": "2026-11-20T04:01:47.640120+00:00"
       }
     },
     {
-      "story_id": "e520c8c2-2a0b-5f12-80c4-e19932d7b491",
+      "story_id": "8f7e8489-4232-5223-953a-473be8298c75",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education",
@@ -229,25 +151,31 @@
         "#Bangladesh",
         "#NationalAffairs"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2024-07%2F99ee479a-c29b-431b-9766-2cc062969479%2F%E0%A6%85%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0%20%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF%20%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%20%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%20%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%2C%20%E0%A6%B9%E0%A6%B2%20%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%B0%20%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6?rect=0%2C0%2C1920%2C1008&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-20%2Fqtf0jn72%2Fbaudh164020261120img-20261120-wa0002.jpg?rect=0%2C0%2C986%2C518&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-20T02:24:52+00:00",
+      "published_at": "2026-11-20T03:02:56+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.4096,
+      "importance_score": 6.25,
+      "rank_score": 3.6929,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/education/admission/qcg16p4t73",
-          "title": "ঢাকা বিশ্ববিদ্যালয়ে ভর্তি পরীক্ষা: খেলোয়াড় কোটায় আবেদনের সুযোগ পাবেন যাঁরা",
-          "snippet": "ঢাকা বিশ্ববিদ্যালয়ে ভর্তি পরীক্ষা: খেলোয়াড় কোটায় আবেদনের সুযোগ পাবেন যাঁরা"
+          "url": "https://www.prothomalo.com/bangladesh/district/0d7uw9ff00",
+          "title": "বাংলাদেশ কৃষি বিশ্ববিদ্যালয়ে প্রতিবাদ মিছিলকে কেন্দ্র করে ছাত্রদলের দুই পক্ষের হাতাহাতি",
+          "snippet": "বাংলাদেশ কৃষি বিশ্ববিদ্যালয়ে প্রতিবাদ মিছিলকে কেন্দ্র করে ছাত্রদলের দুই পক্ষের হাতাহাতি"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822004/%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7%E0%A7%80-%E0%A6%AE%E0%A6%BF%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%98%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%95%E0%A7%83%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%87",
+          "title": "ছাত্রলীগবিরোধী মিছিল ঘিরে বাকৃবিতে ছাত্রদলের দুই পক্ষের সংঘর্ষে আহত ৯",
+          "snippet": "ছাত্রলীগবিরোধী মিছিল ঘিরে বাকৃবিতে ছাত্রদলের দুই পক্ষের সংঘর্ষে আহত ৯"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ঢাকা বিশ্ববিদ্যালয়ের ২০২৬-২৭ শিক্ষাবর্ষে খেলোয়াড় কোটায় ভর্তির আবেদন শুরু হয়েছে।",
-        "title_en": "Applications for athlete quota admission in Dhaka University started for 2026-27.",
-        "summary_bn": "ঢাকা বিশ্ববিদ্যালয়ের ২০২৬-২৭ শিক্ষাবর্ষের আন্ডারগ্র্যাজুয়েট প্রোগ্রামের ভর্তি পরীক্ষায় খেলোয়াড় কোটায় আবেদনের সুযোগ ঘোষণা করা হয়েছে।",
-        "summary_en": "Applications under the athlete quota for admission to Dhaka University undergraduate programs for 2026-27 have started.",
+        "title_bn": "বাকৃবিতে ছাত্রদলের দুই পক্ষের সংঘর্ষে অন্তত আটজন আহত হয়েছেন।",
+        "title_en": "At least eight people were injured in a clash between two factions of Jatiyatabadi Chhatra Dal at BAU.",
+        "summary_bn": "বাংলাদেশ কৃষি বিশ্ববিদ্যালয়ে প্রতিবাদ মিছিলকে কেন্দ্র করে শাখা ছাত্রদলের দুই পক্ষের সংঘর্ষে অন্তত আটজন আহত হয়েছেন।",
+        "summary_en": "At least eight people were injured in a clash between two factions of the branch Chhatra Dal over a protest procession at Bangladesh Agricultural University.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -255,180 +183,248 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-20T02:24:52+00:00",
-        "lead_bn": "ঢাকা বিশ্ববিদ্যালয়ের ২০২৬-২৭ শিক্ষাবর্ষের আন্ডারগ্র্যাজুয়েট প্রোগ্রামের ভর্তি পরীক্ষায় খেলোয়াড় কোটায় আবেদনের সুযোগ ঘোষণা করা হয়েছে।",
-        "lead_en": "Applications under the athlete quota for admission to Dhaka University undergraduate programs for 2026-27 have started.",
+        "published_at": "2026-11-20T03:02:56+00:00",
+        "lead_bn": "বাংলাদেশ কৃষি বিশ্ববিদ্যালয়ে প্রতিবাদ মিছিলকে কেন্দ্র করে শাখা ছাত্রদলের দুই পক্ষের সংঘর্ষে অন্তত আটজন আহত হয়েছেন।",
+        "lead_en": "At least eight people were injured in a clash between two factions of the branch Chhatra Dal over a protest procession at Bangladesh Agricultural University.",
         "bullets_bn": [
-          "আবেদনপ্রক্রিয়া ২৫ নভেম্বর ২০২৬ পর্যন্ত চলবে।",
-          "বিশ্ববিদ্যালয়ের ভর্তিসংক্রান্ত ওয়েবসাইটে প্রকাশিত বিজ্ঞপ্তিতে খেলোয়াড় কোটায় ভর্তির যোগ্যতা ও শর্তাবলি জানানো হয়েছে।",
-          "খেলোয়াড় সুবিধায় প্রার্থীকে মৌখিক ও ব্যবহারিক পরীক্ষায় উত্তীর্ণ হয়ে চূড়ান্ত সুপারিশপ্রাপ্ত হতে হবে।"
+          "বিশ্ববিদ্যালয়ের হোসেন শহীদ সোহরাওয়ার্দী হলের ভেতরে এই সংঘর্ষের ঘটনা ঘটে।",
+          "ছাত্রদলের যুগ্ম আহ্বায়ক মেজবাউল হকের অনুসারীদের ওপর হামলার অভিযোগ উঠেছে তায়েফ মাহমুদ ও সিফাতের অনুসারীদের বিরুদ্ধে।",
+          "প্রাধ্যক্ষ অধ্যাপক মোহাম্মদ আনোয়ার হোসেন জানিয়েছেন, সিসিটিভি ক্যামেরার ফুটেজ দেখে প্রকৃত দোষীদের বিরুদ্ধে ব্যবস্থা নেওয়া হবে।"
         ],
         "bullets_en": [
-          "The application process will continue until ২৫ নভেম্বর ২০২৬.",
-          "The qualification and conditions for athlete quota admission were published in a notice on the university admission website.",
-          "Candidates under athlete facilities must pass oral and practical exams and receive final recommendation."
+          "The clash took place inside the Hossain Shahid Suhrawardy Hall of the university.",
+          "Supporters of Mezbaul Haque alleged that followers of Taief Mahmud and Sifat carried out the attack.",
+          "Provost Professor Mohammad Anwar Hossain stated that action will be taken against the actual culprits after reviewing CCTV footage."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "খেলোয়াড় কোটায় ঢাবিতে ভর্তির আবেদন শুরু",
-        "kicker_bn": "ভর্তি পরীক্ষা",
-        "share_value": true,
-        "question_bn": "খেলোয়াড় কোটায় ঢাকা বিশ্ববিদ্যালয়ে ভর্তির এই সুযোগ সম্পর্কে আপনার মতামত কী?"
+        "details_bn": "নিষেধাজ্ঞা অমান্য করে ছাত্রলীগের বিরুদ্ধে মিছিল বের করাকে কেন্দ্র করে শাখা ছাত্রদলের দুই পক্ষের মধ্যে কথাকাটাকাটি ও হাতাহাতির সূত্রপাত হয়। মিছিল শেষে হলে ফেরার পর দুই পক্ষের মধ্যে সংঘর্ষ বাধে এবং কয়েকটি মুঠোফোন ভাঙচুর করা হয়। এ ঘটনায় দুই পক্ষের অন্তত আট থেকে নয়জন আহত হয়েছেন বলে জানানো হয়েছে।",
+        "details_en": "An argument and scuffle broke out between two factions of branch Chhatra Dal regarding a procession brought out against Chhatra League. After the procession returned to the hall, a clash erupted between the two sides, and several mobile phones were vandalized, leaving at least eight to nine people injured.",
+        "hook_bn": "বাকৃবিতে ছাত্রদলের দুই পক্ষের সংঘর্ষে আহত আট",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
       },
-      "desk_importance": 5.0,
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T04:01:47.640120+00:00"
+      }
+    },
+    {
+      "story_id": "84d86e22-6a65-5592-8251-27f555834fbf",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#WorldBank",
+        "#BangladeshEconomy",
+        "#FiscalReform"
+      ],
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182314/p1-public-finance-outline.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-20T04:00:54.864500+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5987,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/economy/sweeping-fiscal-reform-must-for-economic-growth-employment",
+          "title": "Sweeping fiscal reform must for economic growth, employment",
+          "snippet": "Sweeping fiscal reform must for economic growth, employment"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "অর্থনৈতিক প্রবৃদ্ধির জন্য ব্যাপক রাজস্ব সংস্কার প্রয়োজন বলে জানিয়েছে বিশ্ব ব্যাংক।",
+        "title_en": "Sweeping fiscal reform is imperative for economic growth, says World Bank.",
+        "summary_bn": "অর্থনৈতিক প্রবৃদ্ধি ও কর্মসংস্থানের জন্য রাজস্ব সংগ্রহ বাড়ানো এবং জ্বালানি খাতের দায় কমাতে জরুরি আর্থিক সংস্কারের সুপারিশ করেছে বিশ্ব ব্যাংক।",
+        "summary_en": "The World Bank says urgent fiscal reforms are imperative to raise revenue collection and contain energy-sector liabilities for economic growth.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T04:00:54.864500+00:00",
+        "lead_bn": "অর্থনৈতিক প্রবৃদ্ধি ও কর্মসংস্থানের জন্য রাজস্ব সংগ্রহ বাড়ানো এবং জ্বালানি খাতের দায় কমাতে জরুরি আর্থিক সংস্কারের সুপারিশ করেছে বিশ্ব ব্যাংক।",
+        "lead_en": "The World Bank says urgent fiscal reforms are imperative to raise revenue collection and contain energy-sector liabilities for economic growth.",
+        "bullets_bn": [
+          "বাংলাদেশ পাবলিক ফাইন্যান্স রিভিউ ২০২৬ প্রতিবেদনে এই তথ্য জানানো হয়।",
+          "রাজস্ব প্রশাসনকে ঢেলে সাজানো এবং কর ছাড় কমানোর সুপারিশ করা হয়েছে।",
+          "অনুষ্ঠানে অর্থ বিভাগের অতিরিক্ত সচিব হাসান খালেদ ফয়সল প্রধান অতিথি হিসেবে উপস্থিত ছিলেন।"
+        ],
+        "bullets_en": [
+          "The information was released in the Bangladesh Public Finance Review 2026 report.",
+          "It recommends overhauling tax administration and rationalising tax exemptions.",
+          "Hasan Khaled Foisal, additional secretary of the Finance Division, attended as chief guest."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "পলিসি রিসার্চ ইনস্টিটিউট এবং বিশ্ব ব্যাংকের যৌথ আয়োজনে ঢাকার একটি হোটেলে প্রতিবেদনটি প্রকাশিত হয়। অনুষ্ঠানে পিআরআই চেয়ারম্যান ড. জাইদি সাত্তার সভাপতিত্ব করেন এবং বিশ্ব ব্যাংকের জ্যেষ্ঠ অর্থনীতিবিদ ড. রাগিথ ঘোষ মূল প্রবন্ধ উপস্থাপন করেন।",
+        "details_en": "The report was unveiled at a programme organised jointly by the Policy Research Institute and the World Bank at a Dhaka hotel. PRI Chairman Dr Zaidi Sattar chaired the event, and World Bank Senior Economist Dr Ragheet Ghosh presented the keynote paper.",
+        "hook_bn": "অর্থনৈতিক প্রবৃদ্ধির জন্য জরুরি আর্থিক সংস্কার",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T04:01:47.640120+00:00"
+      }
+    },
+    {
+      "story_id": "216f3899-382f-5427-9226-fbb8e5662fa4",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#ICJ",
+        "#Myanmar",
+        "#Rohingya",
+        "#Genocide"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2025/03/28/screenshot_2025-03-28_114722.png",
+      "image_caption": null,
+      "published_at": "2026-11-20T03:10:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.4265,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/rohingya-crisis/what-icj-genocide-ruling-means-future-rohingya-1608451",
+          "title": "What the ICJ genocide ruling means for the future of the Rohingya",
+          "snippet": "What the ICJ genocide ruling means for the future of the Rohingya"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মিয়ানমার রোহিঙ্গাদের ওপর গণহত্যা চালিয়েছে বলে আন্তর্জাতিক বিচার আদালতের রায়",
+        "title_en": "ICJ rules Myanmar committed genocide against the Rohingya",
+        "summary_bn": "আন্তর্জাতিক বিচার আদালত বা আইসিজে রায় দিয়েছে যে মিয়ানমার রোহিঙ্গাদের ওপর গণহত্যা চালিয়েছে, যা এই বিশ্ব আদালতের ইতিহাসে প্রথম কোনো রাষ্ট্রকে দায়ী করার ঘটনা।",
+        "summary_en": "The International Court of Justice has ruled that Myanmar committed genocide against the Rohingya, marking the first time the World Court has held a state responsible.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T03:10:00+00:00",
+        "lead_bn": "আন্তর্জাতিক বিচার আদালত বা আইসিজে রায় দিয়েছে যে মিয়ানমার রোহিঙ্গাদের ওপর গণহত্যা চালিয়েছে, যা এই বিশ্ব আদালতের ইতিহাসে প্রথম কোনো রাষ্ট্রকে দায়ী করার ঘটনা।",
+        "lead_en": "The International Court of Justice has ruled that Myanmar committed genocide against the Rohingya, marking the first time the World Court has held a state responsible.",
+        "bullets_bn": [
+          "আন্তর্জাতিক বিচার আদালতের ১৫ জন বিচারপতির মধ্যে ৯ জন মিয়ানমারকে গণহত্যার জন্য দায়ী করেছেন।",
+          "গাম্বিয়া ২০১৯ সালে মিয়ানমারের বিরুদ্ধে ১৯৪৮ সালের জেনোসাইড কনভেনশন লঙ্ঘনের অভিযোগে এই মামলা করে।",
+          "আদালত মিয়ানমারকে সব ধরনের সহিংসতা বন্ধ করা এবং জবাবদিহিতা নিশ্চিত করার নির্দেশ দিয়েছে।"
+        ],
+        "bullets_en": [
+          "Nine of the 15 ICJ judges found Myanmar responsible for genocide during the proceedings.",
+          "The Gambia brought the case against Myanmar in 2019, accusing it of violating the 1948 Genocide Convention.",
+          "The court ordered Myanmar to end all acts of violence and take steps towards accountability."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মিয়ানমারের সামরিক বাহিনী ২০১৭ সালে একটি বড় অভিযান শুরু করলে প্রায় ৭ লাখ ৫০ হাজার রোহিঙ্গা তাদের বাড়িঘর ছেড়ে পালিয়ে বেশিরভাগই প্রতিবেশী বাংলাদেশে শরণার্থী শিবিরে আশ্রয় নেয়। অভিযানের প্রাথমিক পর্যায়ে প্রায় ১০ হাজার মানুষ নিহত হয় এবং বঙ্গোপসাগর পেরিয়ে পালানোর সময় সমুদ্রে ডুবে হাজার হাজার মানুষ মারা যায়। বেঁচে যাওয়া ব্যক্তিরা মিয়ানমারের সামরিক বাহিনী ও মিলিশিয়াদের হাতে ব্যাপক হত্যা, নির্যাতন ও ধর্ষণের শিকার হওয়ার কথা জানিয়েছেন।",
+        "details_en": "Myanmar's military launched a major offensive in 2017, forcing around 750,000 Rohingya from their homes into refugee camps, mostly in neighbouring Bangladesh. About 10,000 people were killed during the early stages of the operation, while thousands more died in shipwrecks as they attempted to flee across the Bay of Bengal. Survivors reported mass killings, torture and rape by Myanmar's military and allied militias.",
+        "hook_bn": "মিয়ানমার রোহিঙ্গাদের ওপর গণহত্যা চালিয়েছে",
+        "kicker_bn": "রায় ঘোষণা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
       "outlet_count": 1,
       "trending": false,
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-20T03:04:58.810084+00:00"
+        "checked_at": "2026-11-20T04:01:47.640120+00:00"
       }
     },
     {
-      "story_id": "5fd5fc7e-142c-5e43-a007-37f9102ff141",
-      "primary_category": "tech_innovation",
+      "story_id": "2b1b28e6-beb2-5355-ade4-c8eebb357c8e",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "tech_innovation",
         "world_diplomacy",
-        "economy_business"
+        "society_education"
       ],
       "region": "international",
       "tags": [
-        "#WhiteHouse",
-        "#SeanCairncross",
-        "#KirstenDavies"
+        "#USArmy",
+        "#Iowa",
+        "#LeadAzide"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/111ee764d1555c6945ee7d005da2426e8ae483bb/88_0_3244_2597/master/3244.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d94711568d1742ff5fe46357edf17c25",
+      "image_url": "https://i.guim.co.uk/img/media/f9ff8b258e98b63a54fb8be6a5cbf04c66591154/0_0_4618_3697/master/4618.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c33313e5cc0141bd676cb1a6cafec55d",
       "image_caption": null,
-      "published_at": "2026-11-20T01:25:05+00:00",
+      "published_at": "2026-11-20T02:30:10+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 5.5,
-      "rank_score": 2.7526,
+      "rank_score": 2.7709,
       "sources": [
         {
           "name": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted",
-          "title": "White House cyber director ousted after US hit by wave of tech outages",
-          "snippet": "White House cyber director ousted after US hit by wave of tech outages"
-        },
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/white-house-fires-cybersecurity-chief-after-widespread-outages/article71722952.ece",
-          "title": "White House fires cybersecurity chief after widespread outages",
-          "snippet": "White House fires cybersecurity chief after widespread outages"
+          "url": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
+          "title": "US army postpones plan to detonate bomb-making chemical amid outcry",
+          "snippet": "US army postpones plan to detonate bomb-making chemical amid outcry"
         }
       ],
       "daily_buzz": {
-        "title_bn": "যুক্তরাষ্ট্রের সাইবার পরিচালক শন কেয়ার্নক্রসকে বরখাস্ত করা হয়েছে।",
-        "title_en": "White House cyber director Sean Cairncross was ousted.",
-        "summary_bn": "যুক্তরাষ্ট্রের জাতীয় সাইবার পরিচালক শন কেয়ার্নক্রসকে তার পদ থেকে বরখাস্ত করা হয়েছে।",
-        "summary_en": "White House national cyber director Sean Cairncross was ousted from his job.",
+        "title_bn": "যুক্তরাষ্ট্রের সেনাবাহিনী বোমা তৈরির রাসায়নিক ধ্বংসের পরিকল্পনা স্থগিত করেছে।",
+        "title_en": "US army postpones plan to detonate bomb-making chemical.",
+        "summary_bn": "জনস্বাস্থ্যঝুঁকি নিয়ে উদ্বেগের মুখে মার্কিন সেনাবাহিনী আইওয়ার দক্ষিণ-পূর্বাঞ্চলে বোমা তৈরির রাসায়নিক ধ্বংস করার পরিকল্পনা স্থগিত করেছে।",
+        "summary_en": "Amid public health concerns, the US army has delayed its plan to detonate bomb-making chemicals in south-eastern Iowa.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "tech_innovation",
           "world_diplomacy",
-          "economy_business"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-20T01:25:05+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের জাতীয় সাইবার পরিচালক শন কেয়ার্নক্রসকে তার পদ থেকে বরখাস্ত করা হয়েছে।",
-        "lead_en": "White House national cyber director Sean Cairncross was ousted from his job.",
+        "published_at": "2026-11-20T02:30:10+00:00",
+        "lead_bn": "জনস্বাস্থ্যঝুঁকি নিয়ে উদ্বেগের মুখে মার্কিন সেনাবাহিনী আইওয়ার দক্ষিণ-পূর্বাঞ্চলে বোমা তৈরির রাসায়নিক ধ্বংস করার পরিকল্পনা স্থগিত করেছে।",
+        "lead_en": "Amid public health concerns, the US army has delayed its plan to detonate bomb-making chemicals in south-eastern Iowa.",
         "bullets_bn": [
-          "প্রতিরক্ষা দপ্তরের প্রধান তথ্য কর্মকর্তা কার্সেন ডেভিস সাময়িকভাবে এই দায়িত্ব গ্রহণ করবেন।",
-          "হোয়াইট হাউসের চিফ অব স্টাফ স্টিফেন মিলার এই পরিবর্তনের জন্য চাপ দিয়েছিলেন বলে জানা গেছে।",
-          "তার উত্তরসূরিকে সিনেট কর্তৃক নিশ্চিত করতে হবে যা আগামী জানুয়ারি থেকে ডেমোক্র্যাটদের নিয়ন্ত্রণে থাকবে।"
+          "সেনাবাহিনী মিডলটাউনে প্রায় ৫ টন লিড অ্যাজাইড বিস্ফোরণ করার প্রস্তুতি নিয়েছিল।",
+          "নিয়ন্ত্রিত এই বিস্ফোরণের জন্য ব্যারেলগুলো কংক্রিটের কাঠামোর ভেতর রাখা হতো।",
+          "বিস্ফোরণের সম্ভাব্য জানালার ক্ষয়ক্ষতির আশঙ্কায় স্থানীয় কিছু বাসিন্দাকে সরে যাওয়ার পরামর্শ দেওয়া হয়েছিল।"
         ],
         "bullets_en": [
-          "Department of Defense chief information officer Kirsten Davies will assume the position temporarily.",
-          "White House chief of staff Stephen Miller reportedly pushed for the personnel change.",
-          "His successor will need to be confirmed by the Senate which will be controlled by Democrats beginning in January."
+          "The army was set to blow up about 5 tons of lead azide in Middletown.",
+          "During the controlled explosion, barrels of the material would be stored inside concrete structures.",
+          "Army officials advised certain residents to evacuate due to the potential for window damage."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "আমেরিকায় বিমান চলাচল, ব্যাংকিং এবং জাতীয় নিরাপত্তা ব্যবস্থায় প্রযুক্তিগত বিভ্রাটের ঘটনার কয়েক দিন পর হোয়াইট হাউসের এই পদচ্যুতির ঘটনা ঘটল। ট্রাম্প প্রশাসন এই বিভ্রাট মোকাবিলা নিয়ে সমালোচনার মুখে পড়েছে।",
-        "details_en": "The dismissal occurred days after tech outages hit US air travel, banking and national security systems. The Trump administration has faced criticism over its response to the outages.",
-        "hook_bn": "যুক্তরাষ্ট্রের সাইবার পরিচালক শন কেয়ার্নক্রস বরখাস্ত",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": true,
-      "social_appeal": 4.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-20T03:04:58.810084+00:00"
-      }
-    },
-    {
-      "story_id": "75341071-93da-5c90-92e5-46caae7f8a43",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-19%2Fzbdrs0h8%2F%E0%A7%AE%E0%A7%AE%E0%A7%AE%E0%A7%AE%E0%A7%AE%E0%A7%AE%E0%A7%AE%E0%A7%AE%E0%A7%AE%E0%A7%AE%E0%A7%AE%E0%A7%AE%E0%A7%AE.jpg?rect=0%2C0%2C1080%2C567&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-20T02:14:19+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.3853,
-      "sources": [
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/8g65fz3r8e",
-          "title": "আওয়ামী লীগের নাশকতায় কেন এখনই কঠোর হচ্ছে না সরকার, পরিকল্পনা কী",
-          "snippet": "আওয়ামী লীগের নাশকতায় কেন এখনই কঠোর হচ্ছে না সরকার, পরিকল্পনা কী"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "নাশকতার উসকানিতে পা দিচ্ছে না সরকার",
-        "title_en": "Government avoids falling into sabotage provocation",
-        "summary_bn": "কার্যনিষিদ্ধ আওয়ামী লীগের নাশকতার জবাবে আইনশৃঙ্খলা রক্ষাকারী বাহিনী এখনই গুলি বা প্রাণঘাতী বলপ্রয়োগ করছে না বলে জানিয়েছে সরকারসংশ্লিষ্ট সূত্র।",
-        "summary_en": "Government-linked sources stated that law enforcement is not resorting to shooting or lethal force against banned Awami League's sabotage.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-20T02:14:19+00:00",
-        "lead_bn": "কার্যনিষিদ্ধ আওয়ামী লীগের নাশকতার জবাবে আইনশৃঙ্খলা রক্ষাকারী বাহিনী এখনই গুলি বা প্রাণঘাতী বলপ্রয়োগ করছে না বলে জানিয়েছে সরকারসংশ্লিষ্ট সূত্র।",
-        "lead_en": "Government-linked sources stated that law enforcement is not resorting to shooting or lethal force against banned Awami League's sabotage.",
-        "bullets_bn": [
-          "সরকারপক্ষের মূল্যায়ন অনুযায়ী, শেখ হাসিনা ও আওয়ামী লীগ চাইছে আইনশৃঙ্খলা রক্ষাকারী বাহিনী গুলি চালাক এবং রক্তপাত ঘটুক।",
-          "পুলিশের হিসাবে ১২ দিনে দেশের ৭৮টি স্থানে ককটেল বিস্ফোরণ এবং ৭৪টি পরিবহনে আগুন দেওয়া হয়েছে।",
-          "পরিস্থিতির আরও অবনতি হলে কঠোর ব্যবস্থা নেওয়ার বিষয়টি বিবেচনায় আসবে।"
-        ],
-        "bullets_en": [
-          "Government assessment indicates Sheikh Hasina and the Awami League want law enforcement to open fire and cause bloodshed.",
-          "Police records show cocktail explosions in 78 places and arson on 74 transports over 12 days.",
-          "Strict measures will be considered if the situation deteriorates further."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের ধারাবাহিক সহিংসতা মোকাবিলায় প্রশাসনিক ব্যবস্থার পাশাপাশি রাজনৈতিক কৌশল নিয়ে এগোচ্ছে সরকার। এর মধ্যে গোপালগঞ্জে মুকসুদপুর থানায় এবং বিএনপির সংসদ সদস্য সেলিমুজ্জামান মোল্লার বাড়িতে আগুন দেওয়া হয়েছে। এছাড়া গ্রামীণ ব্যাংকের ৭২টি শাখায় হামলা ও নাটরে বিএনপির দুই নেতার মৃত্যুর ঘটনা ঘটেছে।",
-        "details_en": "The government is pursuing political strategies alongside administrative measures to tackle continued violence by the banned Awami League. Meanwhile, arson attacks occurred at Muksudpur police station and BNP MP Selimuzzaman Mollah's home in Gopalganj. Attacks also hit 72 Grameen Bank branches and two BNP leaders were killed in Natore.",
-        "hook_bn": "গোপালগঞ্জে থানায় ও বাড়িতে আগুন",
+        "details_bn": "মার্কিন সেনাবাহিনী মিডলটাউনে প্রায় ৫ টন লিড অ্যাজাইড বিস্ফোরণের মাধ্যমে নিষ্ক্রিয় করার পরিকল্পনা করেছিল। বিস্ফোরণের কম্পনে পুরোনো জানালা ভাঙতে পারে এবং ধুলাবালি ছড়াতে পারে বলে জানানো হয়েছিল। এই ধুলার কারণে লিড কণার প্লাইম তৈরি হওয়ার কথা ছিল। প্লুমের পথে থাকা কিছু স্কুল ইতোমধ্যে ক্লাস বাতিল করেছে এবং মিডলটাউনে প্রায় ৪০০ মানুষ বসবাস করে।",
+        "details_en": "The army was set to blow up about 5 tons of lead azide in Middletown, describing it as the safest way to dispose of the compound. Officials advised certain residents to evacuate due to potential window damage from vibrations. The detonation is expected to produce a plume containing lead particles, leading some schools in the path to cancel classes.",
+        "hook_bn": "আইওয়াতে বোমা তৈরির রাসায়নিক ধ্বংসের পরিকল্পনা স্থগিত",
         "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 5.0,
       "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
+      "trending": true,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-20T03:04:58.810084+00:00"
+        "checked_at": "2026-11-20T04:01:47.640120+00:00"
       }
     }
   ]
