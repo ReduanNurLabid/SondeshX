@@ -1,350 +1,9 @@
 {
-  "updated_at": "2026-11-20T17:00:41.569357",
-  "total_stories": 6,
+  "updated_at": "2026-11-20T18:00:39.830838",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "f7244061-a120-594b-b3cc-0718683d4667",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#PoliceInvestigation",
-        "#AdministrativeOfficials",
-        "#IntelligenceAgencies"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1729048228129-64569b44caa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cG9saWNlJTIwYWRtaW5pc3RyYXRpdmUlMjBvZmZpY2lhbHMlMjB1bmRlciUyMGdvdmVybm1lbnR8ZW58MXwwfHx8MTc5NTE5NDIyM3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-20T16:02:48+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.622,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/425291/secret-al-contact-300-plus-police-under",
-          "title": "Secret AL contact: 300 plus police under investigation",
-          "snippet": "Secret AL contact: 300 plus police under investigation"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "৩০০ জনের বেশি পুলিশ কর্মকর্তা ও প্রশাসন ক্যাডারের কর্মকর্তারা নজরদারিতে রয়েছেন।",
-        "title_en": "Over 300 police and administrative officials are under surveillance and investigation.",
-        "summary_bn": "নিষিদ্ধ দলের নেতাদের সাথে গোপন যোগাযোগের অভিযোগে ৩০০ জনের বেশি পুলিশ কর্মকর্তা ও প্রশাসনিক কর্মকর্তাকে নজরদারিতে রাখা হয়েছে এবং তদন্ত করা হচ্ছে।",
-        "summary_en": "More than 300 police officers and administrative officials are under surveillance and investigation over alleged links with banned party leaders.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-20T16:02:48+00:00",
-        "lead_bn": "নিষিদ্ধ দলের নেতাদের সাথে গোপন যোগাযোগের অভিযোগে ৩০০ জনের বেশি পুলিশ কর্মকর্তা ও প্রশাসনিক কর্মকর্তাকে নজরদারিতে রাখা হয়েছে এবং তদন্ত করা হচ্ছে।",
-        "lead_en": "More than 300 police officers and administrative officials are under surveillance and investigation over alleged links with banned party leaders.",
-        "bullets_bn": [
-          "গোয়েন্দা সংস্থাগুলো নিষিদ্ধ দলের নেতাদের সাথে কথিত যোগাযোগের বিষয়টি তদন্ত করছে।",
-          "তদন্তের আওতায় তিন শতাধিক পুলিশ সদস্য ও প্রশাসনিক কর্মকর্তা রয়েছেন।",
-          "প্রশাসনিক কর্মকর্তাদেরও নজরদারির মধ্যে রাখা হয়েছে।"
-        ],
-        "bullets_en": [
-          "Intelligence agencies are investigating the alleged links with banned party leaders.",
-          "More than 300 police officers and administrative officials are under investigation.",
-          "Administrative officials have also been placed under surveillance."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "৩০০ পুলিশের বিরুদ্ধে গোপনে যোগাযোগের তদন্ত",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-20T17:05:26.375155+00:00"
-      }
-    },
-    {
-      "story_id": "73a3a6c9-2cdb-5511-9669-a284f5f5c471",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/govornor.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-20T16:07:24+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.4108,
-      "sources": [
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/financial-development/post-1223720/",
-          "title": "গভর্নরের সঙ্গে জুলাই হত্যা মামলার আসামি শওকতের বৈঠক নিয়ে বিতর্ক",
-          "snippet": "গভর্নরের সঙ্গে জুলাই হত্যা মামলার আসামি শওকতের বৈঠক নিয়ে বিতর্ক"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জুলাই হত্যা মামলার আসামি শওকত বাংলাদেশ ব্যাংকের গভর্নরের সঙ্গে বৈঠক করেছেন",
-        "title_en": "July murder case accused Shawkat met the Bangladesh Bank governor",
-        "summary_bn": "জুলাই আন্দোলনের সময় হত্যা মামলার এজাহারভুক্ত আসামি ব্যবসায়ী শওকত আলী চৌধুরী বাংলাদেশ ব্যাংকের গভর্নর মোস্তাকুর রহমানের সঙ্গে বৈঠক করেছেন।",
-        "summary_en": "Businessman Shawkat Ali Chowdhury, an accused in a murder case during the July movement, met Bangladesh Bank Governor Mostakur Rahman.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-20T16:07:24+00:00",
-        "lead_bn": "জুলাই আন্দোলনের সময় হত্যা মামলার এজাহারভুক্ত আসামি ব্যবসায়ী শওকত আলী চৌধুরী বাংলাদেশ ব্যাংকের গভর্নর মোস্তাকুর রহমানের সঙ্গে বৈঠক করেছেন।",
-        "lead_en": "Businessman Shawkat Ali Chowdhury, an accused in a murder case during the July movement, met Bangladesh Bank Governor Mostakur Rahman.",
-        "bullets_bn": [
-          "বৈঠক শেষে সাংবাদিকরা প্রশ্ন এড়িয়ে শওকত বাংলাদেশ ব্যাংকের পেছনের গেট দিয়ে বেরিয়ে যান।",
-          "দুর্নীতি দমন কমিশন বিদেশে ২৫ মিলিয়ন ডলার পাচারের অভিযোগে শওকতের বিরুদ্ধে আনুষ্ঠানিক তদন্ত শুরু করেছে।",
-          "শওকত বিতর্কিত প্রতিষ্ঠান এস এন কার্পোরেশনের চেয়ারম্যান এবং ইস্টার্ন ব্যাংকের শেয়ার নিয়ন্ত্রণের অভিযোগ রয়েছে।"
-        ],
-        "bullets_en": [
-          "Shawkat avoided journalists' questions after the meeting and left through the back gate of Bangladesh Bank.",
-          "The Anti-Corruption Commission started a formal investigation against Shawkat over laundering 25 million dollars abroad.",
-          "Shawkat is the chairman of SN Corporation and faces allegations regarding the control of Eastern Bank shares."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "শওকত আলী চৌধুরী বাংলাদেশ ব্যাংকের প্রধান কার্যালয়ে ঢুকে গভর্নরের সঙ্গে বৈঠক করেন এবং তাকে কড়া নিরাপত্তা দেওয়া হয়। তিনি এস এন কার্পোরেশনের চেয়ারম্যান এবং চৌধুরী নাফিজ সারাফাত ও মোহাম্মদ আলী আরাফাতের ব্যবসায়িক পার্টনার। বাড্ডা থানায় ২০২৪ সালের জুলাইয়ের আন্দোলনের সময় মাদ্রাসাশিক্ষক হাফেজ মো. মাসুদুর রহমান হত্যার ঘটনায় দায়ের করা মামলায় তিনি ৫৪ নম্বর আসামি। এছাড়া তার বিরুদ্ধে ৮ হাজার কোটি টাকা পাচারের তদন্ত এবং ইস্টার্ন ব্যাংকের ২০ শতাংশের বেশি শেয়ার নিয়ন্ত্রণের অভিযোগ নিয়ে হাইকোর্ট রুল জারি করেছেন।",
-        "details_en": "Shawkat Ali Chowdhury entered the Bangladesh Bank head office and met the governor under strict security. He is the chairman of SN Corporation and a business partner of Chowdhury Nafiz Sarafat and Mohammad Ali Arafat. He is the 54th accused in the murder case of madrasa teacher Hafez Md. Masudur Rahman filed at Badda Police Station during the July 2024 movement. Additionally, he faces an 8,000 crore taka laundering probe and a High Court rule regarding control of over 20 percent shares of Eastern Bank.",
-        "hook_bn": "হত্যা মামলার আসামির সঙ্গে গভর্নরের বৈঠক",
-        "kicker_bn": "বিতর্ক",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-20T17:05:26.375155+00:00"
-      }
-    },
-    {
-      "story_id": "7d0c5ebb-ef9e-557f-8729-9d568214e7be",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#CoxBazar",
-        "#TrainAccident"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZWR1Y2F0aW9uJTIwdW5pdmVyc2l0eSUyMHN0dWRlbnRzJTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1MTk0MjUyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-20T15:20:43+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.2609,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/accidents/425288/train-hits-auto-rickshaw-in-cox%E2%80%99s-bazar-killing",
-          "title": "Train hits auto-rickshaw in Cox’s Bazar, killing four of a family",
-          "snippet": "Train hits auto-rickshaw in Cox’s Bazar, killing four of a family"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "কক্সবাজারে ট্রেনে অটোরিকশার ধাক্কায় এক পরিবারের চারজন নিহত",
-        "title_en": "Train hits auto-rickshaw in Cox’s Bazar, killing four of a family",
-        "summary_bn": "কক্সবাজারে ট্রেনে অটোরিকশার ধাক্কায় এক পরিবারের চারজন নিহত হয়েছেন।",
-        "summary_en": "Four members of a family were killed when a train hit an auto-rickshaw in Cox’s Bazar.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-20T15:20:43+00:00",
-        "lead_bn": "কক্সবাজারে ট্রেনে অটোরিকশার ধাক্কায় এক পরিবারের চারজন নিহত হয়েছেন।",
-        "lead_en": "Four members of a family were killed when a train hit an auto-rickshaw in Cox’s Bazar.",
-        "bullets_bn": [
-          "ট্রেনের ধাক্কায় একটি অটোরিকশা ক্ষতিগ্রস্ত হয়েছে।",
-          "দুর্ঘটনায় চারজন নিহত হয়েছেন।",
-          "শিশুসহ দুজন আহত ব্যক্তি আশঙ্কাজনক অবস্থায় আছেন।"
-        ],
-        "bullets_en": [
-          "An auto-rickshaw was struck by a train.",
-          "Four individuals died in the accident.",
-          "Two injured people, including a child, are in critical condition."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "কক্সবাজারে ট্রেনে অটোরিকশার ধাক্কায় এক পরিবারের চারজন নিহত হয়েছেন। এই দুর্ঘটনায় শিশুসহ দুজন আহত ব্যক্তি আশঙ্কাজনক অবস্থায় চিকিৎসাধীন আছেন।",
-        "details_en": "Four members of a family were killed when a train hit an auto-rickshaw in Cox’s Bazar. Two of the injured, including a child, are in critical condition following the incident.",
-        "hook_bn": "কক্সবাজারে ট্রেনে অটোরিকশার ধাক্কায় চারজন নিহত",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-20T17:05:26.375155+00:00"
-      }
-    },
-    {
-      "story_id": "0dff5637-ac51-5c50-a67d-21d4d32cd742",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#AmirKhosru",
-        "#Chittagong",
-        "#BangladeshGovt"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1580196350170-9a50e97382bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z292dCUyMHBsYW5zJTIwdHVybiUyMGNoaXR0YWdvbmclMjBidXNpbmVzc3xlbnwxfDB8fHwxNzk1MTk0MjY2fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-20T16:23:28+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.4055,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/development/425292/amir-khosru-govt-plans-to-turn-chittagong-into",
-          "title": "Amir Khosru: Govt plans to turn Chittagong into economic, logistics hub",
-          "snippet": "Amir Khosru: Govt plans to turn Chittagong into economic, logistics hub"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "চট্টগ্রামকে অর্থনৈতিক ও লজিস্টিকস হাব বানানোর পরিকল্পনা সরকারের",
-        "title_en": "Govt plans to turn Chittagong into economic and logistics hub",
-        "summary_bn": "সরকার চট্টগ্রামকে একটি অর্থনৈতিক ও লজিস্টিকস হাব হিসেবে গড়ে তোলার পরিকল্পনা করেছে বলে জানিয়েছেন আমির খসরু।",
-        "summary_en": "Amir Khosru said the government plans to turn Chittagong into an economic and logistics hub.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-20T16:23:28+00:00",
-        "lead_bn": "সরকার চট্টগ্রামকে একটি অর্থনৈতিক ও লজিস্টিকস হাব হিসেবে গড়ে তোলার পরিকল্পনা করেছে বলে জানিয়েছেন আমির খসরু।",
-        "lead_en": "Amir Khosru said the government plans to turn Chittagong into an economic and logistics hub.",
-        "bullets_bn": [
-          "আমির খসরু বলেন যে উন্নয়নের সুফল একটি অধিকতর অন্তর্ভুক্তিমূলক অর্থনীতির মাধ্যমে সবার কাছে পৌঁছাতে হবে।",
-          "অধিকতর অন্তর্ভুক্তিমূলক অর্থনীতি তৈরি করতে হবে।",
-          "বিনিয়োগ বৃদ্ধি এবং কর্মসংস্থান সৃষ্টি করতে হবে।"
-        ],
-        "bullets_en": [
-          "Amir Khosru said development benefits must reach everyone through a more inclusive economy.",
-          "A more inclusive economy must be created.",
-          "Investment must be increased and jobs created."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "উন্নয়নের সুফল সবার মাঝে পৌঁছে দিতে এবং অর্থনীতিকে আরও অন্তর্ভুক্তিমূলক করতে এই পরিকল্পনা নেওয়া হয়েছে। এর মাধ্যমে বিনিয়োগ বৃদ্ধি ও নতুন কর্মসংস্থান সৃষ্টির ওপর জোর দেওয়া হয়েছে।",
-        "details_en": "This plan aims to distribute development benefits to everyone and make the economy more inclusive. It emphasizes increased investment and job creation.",
-        "hook_bn": "চট্টগ্রামকে অর্থনৈতিক হাব বানানোর পরিকল্পনা সরকারের",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": "চট্টগ্রামকে অর্থনৈতিক হাব বানানোর এই পরিকল্পনা বাস্তবায়নে কী ধরনের উদ্যোগ নেওয়া উচিত বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-20T17:05:26.375155+00:00"
-      }
-    },
-    {
-      "story_id": "bda487a2-d106-5b6c-8848-7a5a68a1652c",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Economy",
-        "#Finance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-20%2Fhdk2q1jh%2Fc951d491-4f4c-40d1-b3a7-20c929b31c27.jpg?rect=0%2C245%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-20T15:21:53+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.2671,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/business/bank/aukmz1ldno",
-          "title": "দেশে ব্যাংকের সংখ্যা কমানোর পরামর্শ",
-          "snippet": "দেশে ব্যাংকের সংখ্যা কমানোর পরামর্শ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "খাতসংশ্লিষ্ট ব্যক্তিরা দেশে ব্যাংকের সংখ্যা কমিয়ে আনার পরামর্শ দিয়েছেন।",
-        "title_en": "Sector insiders suggested reducing the number of banks in the country.",
-        "summary_bn": "খাতসংশ্লিষ্ট ব্যক্তিরা আন্তর্জাতিক মানদণ্ড অনুসরণ করে দেশে ব্যাংকের সংখ্যা কমিয়ে আনার পরামর্শ দিয়েছেন।",
-        "summary_en": "Sector insiders suggested reducing the number of banking institutions in the country following international standards.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-20T15:21:53+00:00",
-        "lead_bn": "খাতসংশ্লিষ্ট ব্যক্তিরা আন্তর্জাতিক মানদণ্ড অনুসরণ করে দেশে ব্যাংকের সংখ্যা কমিয়ে আনার পরামর্শ দিয়েছেন।",
-        "lead_en": "Sector insiders suggested reducing the number of banking institutions in the country following international standards.",
-        "bullets_bn": [
-          "বক্তারা বলেন যে ব্যাংক খাতের খেলাপি ঋণ ৩২ শতাংশে ওঠার পেছনে পরিচালনা পর্ষদের দায় আছে।",
-          "সেলিম আর এফ হোসাইন বলেন যে আমাদের ছোট দেশে ৬০টি ব্যাংকের প্রয়োজন নেই এবং শ্রীলঙ্কা, পাকিস্তান ও ফিলিপাইনে ব্যাংক কমানো হয়েছে।",
-          "মেলিতা মেহজাবিন বলেন যে অনেক বছরের কাঠামোগত ব্যর্থতার ফলে প্রতি তিন টাকা ঋণের এক টাকা ফেরত আসেনি।"
-        ],
-        "bullets_en": [
-          "Speakers said that boards of directors are responsible for the non-performing loans in the banking sector rising to thirty-two percent.",
-          "Selim R. F. Hussain stated that our small country does not need sixty banks and bank numbers have been reduced in Sri Lanka, Pakistan, and Philippines.",
-          "Melita Mehzabin stated that one taka out of every three taka in loans was not returned due to structural failures over many years."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ঢাকা বিশ্ববিদ্যালয়ের ইনস্টিটিউট অব বিজনেস অ্যাডমিনিস্ট্রেশনের অ্যালামনাই অ্যাসোসিয়েশনের উদ্যোগে আয়োজিত ফিনএক্স কানেক্ট: ব্যাংকিং, ফিনটেক ও করপোরেট লিডারশিপ ডায়ালগ অনুষ্ঠানে এই পরামর্শ দেওয়া হয়। এতে দেশের পরিবর্তনশীল আর্থিক খাত, ডিজিটাল রূপান্তর, সুশাসন ও টেকসই ব্যবসায়িক প্রবৃদ্ধি নিয়ে আলোচনা হয়।",
-        "details_en": "This suggestion was given at the FinX Connect: Banking, Fintech and Corporate Leadership Dialogue event organized by the IBA Alumni Association of University of Dhaka. The event discussed the country's changing financial sector, digital transformation, good governance, and sustainable business growth.",
-        "hook_bn": "আমাদের ছোট দেশে ৬০টি ব্যাংকের প্রয়োজন নেই",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": "দেশের ব্যাংক খাতের এই পরিস্থিতি পরিবর্তনে কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-20T17:05:26.375155+00:00"
-      }
-    },
-    {
-      "story_id": "259bb3a6-eef4-59f5-840a-a68050de7d1c",
+      "story_id": "dddcc050-f9d0-5c2f-b4c3-531f9f11f778",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
@@ -353,36 +12,34 @@
       ],
       "region": "national",
       "tags": [
-        "#BGB",
-        "#AwamiLeague",
-        "#Gopalganj",
-        "#Bangladesh"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/12/29/bgb_rajibdhar_0.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-20%2Fo9hcq0dk%2Fmymensinghdh169420261120img-20261120-wa0109.jpg?rect=0%2C0%2C900%2C473&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-20T16:05:00+00:00",
+      "published_at": "2026-11-20T17:11:41+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 5.25,
-      "rank_score": 2.6054,
+      "rank_score": 2.6247,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/bgb-slams-claims-al-supplying-essentials-troops-gopalganj-baseless-motivated-1609066",
-          "title": "BGB slams claims of AL supplying essentials to troops in Gopalganj as ‘baseless, motivated",
-          "snippet": "BGB slams claims of AL supplying essentials to troops in Gopalganj as ‘baseless, motivated"
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/bangladesh/district/2yfll3v2bm",
+          "title": "‘১০০ টাকায়’ কার্যক্রম নিষিদ্ধ আওয়ামী লীগের মিছিলে স্লোগান, আটক ছয় কিশোর",
+          "snippet": "‘১০০ টাকায়’ কার্যক্রম নিষিদ্ধ আওয়ামী লীগের মিছিলে স্লোগান, আটক ছয় কিশোর"
         },
         {
           "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822123/%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%B8%E0%A6%B0%E0%A6%AC%E0%A6%B0%E0%A6%BE%E0%A6%B9%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95",
-          "title": "গোপালগঞ্জে বিজিবির জন্য পানি সরবরাহে রাজনৈতিক সম্পৃক্ততার অভিযোগ ভিত্তিহীন: বিজিবি",
-          "snippet": "গোপালগঞ্জে বিজিবির জন্য পানি সরবরাহে রাজনৈতিক সম্পৃক্ততার অভিযোগ ভিত্তিহীন: বিজিবি"
+          "url": "https://www.ittefaq.com.bd/822130/%E2%80%98%E0%A7%A7%E0%A7%A6%E0%A7%A6-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A7%9F%E2%80%99-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%86%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%9B%E0%A6%BF%E0%A6%B2%E0%A7%87",
+          "title": "‘১০০ টাকায়’ কার্যক্রম নিষিদ্ধ আওয়ামী লীগের মিছিলে স্লোগান, আটক ছয় কিশোর",
+          "snippet": "‘১০০ টাকায়’ কার্যক্রম নিষিদ্ধ আওয়ামী লীগের মিছিলে স্লোগান, আটক ছয় কিশোর"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গোপালগঞ্জে বিজিবিকে রসদ সরবরাহের অভিযোগ ভিত্তিহীন বলেছে বাহিনীটি",
-        "title_en": "BGB rejects claims of Awami League supplying essentials in Gopalganj",
-        "summary_bn": "বর্ডার গার্ড বাংলাদেশ জানিয়েছে, গোপালগঞ্জে নিয়োজিত বিজিবি সদস্যদের আওয়ামী লীগ খাবার ও প্রয়োজনীয় সামগ্রী সরবরাহ করছে মর্মে সামাজিক যোগাযোগমাধ্যমে প্রচার করা তথ্য সম্পূর্ণ মিথ্যা।",
-        "summary_en": "Border Guard Bangladesh has rejected social media claims that the Awami League was supplying food and essentials to BGB personnel in Gopalganj.",
+        "title_bn": "ময়মনসিংহে নিষিদ্ধ আওয়ামী লীগের মিছিলে স্লোগান দেওয়ায় ছয় কিশোর আটক",
+        "title_en": "Six teenagers detained in Mymensingh for chanting slogans in banned Awami League procession",
+        "summary_bn": "পুলিশ ময়মনসিংহে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের মিছিলে অংশ নিয়ে স্লোগান দেওয়ার অভিযোগে ছয় কিশোরকে আটক করেছে।",
+        "summary_en": "Police detained six teenagers in Mymensingh for participating and chanting slogans in a procession of the banned Awami League.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -391,25 +48,25 @@
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-20T16:05:00+00:00",
-        "lead_bn": "বর্ডার গার্ড বাংলাদেশ জানিয়েছে, গোপালগঞ্জে নিয়োজিত বিজিবি সদস্যদের আওয়ামী লীগ খাবার ও প্রয়োজনীয় সামগ্রী সরবরাহ করছে মর্মে সামাজিক যোগাযোগমাধ্যমে প্রচার করা তথ্য সম্পূর্ণ মিথ্যা।",
-        "lead_en": "Border Guard Bangladesh has rejected social media claims that the Awami League was supplying food and essentials to BGB personnel in Gopalganj.",
+        "published_at": "2026-11-20T17:11:41+00:00",
+        "lead_bn": "পুলিশ ময়মনসিংহে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের মিছিলে অংশ নিয়ে স্লোগান দেওয়ার অভিযোগে ছয় কিশোরকে আটক করেছে।",
+        "lead_en": "Police detained six teenagers in Mymensingh for participating and chanting slogans in a procession of the banned Awami League.",
         "bullets_bn": [
-          "বিজিবি জানায়, গোপালগঞ্জে দায়িত্ব পালনরত সদস্যদের জন্য প্রয়োজনীয় খাবার ও অন্যান্য সামগ্রী স্থানীয় সরবরাহকারীদের কাছ থেকে নগদ অর্থে কেনা হয়।",
-          "বাহিনীর জনসংযোগ কর্মকর্তা মো. শরিফুল ইসলাম স্বাক্ষরিত এক প্রেস বিজ্ঞপ্তিতে এই তথ্য জানানো হয়।",
-          "বিজিবি আরও জানায়, পানিসহ বিভিন্ন রসদ স্থানীয় দোকান থেকে ভ্যানে করে বিজিবি সদস্যদের কাছে পৌঁছে দেওয়া হয়।"
+          "আটক কিশোরদের বয়স ১৪ থেকে ১৭ বছরের মধ্যে এবং তাদের মধ্যে দুজন শিক্ষার্থী রয়েছে।",
+          "পুলিশের দাবি, মিছিলে অংশ নেওয়ার জন্য প্রত্যেক কিশোরকে ১০০ টাকা করে দেওয়া হয়েছিল।",
+          "জেলা পুলিশের মুখপাত্র জানিয়েছেন অর্থের উৎস ও মিছিলের আয়োজকদের শনাক্ত করতে তদন্ত চলছে।"
         ],
         "bullets_en": [
-          "BGB stated that food and other supplies required for personnel deployed in Gopalganj are purchased from suppliers for cash.",
-          "The information was provided in a press release signed by BGB Public Relations Officer Md Shariful Islam.",
-          "BGB added that drinking water and other supplies were bought from local shops and delivered to personnel by van."
+          "The detained teenagers are aged between 14 and 17, including two students.",
+          "Police claimed that each teenager was given 100 taka for participating in the procession.",
+          "The district police spokesperson stated that an investigation is underway to identify the source of funds and organizers."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বর্ডার গার্ড বাংলাদেশ জানায়, এটি নিজস্ব অর্থায়নে পরিচালিত একটি সাধারণ সংগ্রহ ও সরবরাহ কার্যক্রম। এই প্রক্রিয়ার সঙ্গে আওয়ামী লীগ বা অন্য কোনো রাজনৈতিক দলের কোনো সম্পৃক্ততা নেই। বাহিনীটির মতে, সাধারণ একটি সরবরাহ ব্যবস্থাকে রাজনৈতিক রূপ দিয়ে জনসাধারণের মধ্যে বিভ্রান্তি ছড়ানোর চেষ্টা করা হচ্ছে।",
-        "details_en": "Border Guard Bangladesh said this is an ordinary procurement and supply operation financed by BGB itself, with no involvement from any political party. The force stated that an ordinary supply arrangement was being given a political interpretation to mislead the public.",
-        "hook_bn": "গোপালগঞ্জে বিজিবিকে রসদ সরবরাহের অভিযোগ ভিত্তিহীন",
-        "kicker_bn": "বর্ডার গার্ড বাংলাদেশ",
+        "details_bn": "ময়মনসিংহে নগরের কাশর বোররচর ভবনের সামনে তিন রাস্তার মোড় এলাকা থেকে কোতোয়ালি মডেল থানার পুলিশের একটি দল অভিযান চালিয়ে ছয়জনকে আটক করে। প্রাথমিক অনুসন্ধানে জানা যায়, নিষিদ্ধ সংগঠনের পলাতক সদস্য হিসেবে চিহ্নিত কয়েকজনের নেতৃত্বে মিছিলটি আয়োজন করা হয়।",
+        "details_en": "A team of police from Kotwali Model Police Station detained the six individuals from the three-way intersection area in front of Kashor Bororchar building in Mymensingh city. Primary investigations reveal the procession was led by individuals identified as fugitive members of a banned organization.",
+        "hook_bn": "মিছিলে অংশ নিতে দেওয়া হয় ১০০ টাকা",
+        "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
@@ -419,7 +76,295 @@
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-20T17:05:26.375155+00:00"
+        "checked_at": "2026-11-20T18:05:17.152143+00:00"
+      }
+    },
+    {
+      "story_id": "73b4497f-d189-5c8a-8830-434c8ab0037b",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-20%2Fl8ilmyqd%2Fmonirul-haque.jpg?rect=0%2C132%2C1848%2C970&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-20T17:11:10+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.25,
+      "rank_score": 2.6234,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/smol5punm5",
+          "title": "মুক্তিপণ দিয়ে গোপালগঞ্জ থেকে ছাড়া পেয়েছেন, দাবি বিএনপি নেতার",
+          "snippet": "মুক্তিপণ দিয়ে গোপালগঞ্জ থেকে ছাড়া পেয়েছেন, দাবি বিএনপি নেতার"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/bagerhat-bnp-leader-released-from-gopalganj-after-payment/",
+          "title": "মুক্তিপণে গোপালগঞ্জ থেকে ছাড়া পেলেন বিএনপি নেতা",
+          "snippet": "মুক্তিপণে গোপালগঞ্জ থেকে ছাড়া পেলেন বিএনপি নেতা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মুক্তিপণ দিয়ে গোপালগঞ্জ থেকে ছাড়া পেয়েছেন বাগেরহাট জেলা বিএনপি নেতা মনিরুল হক",
+        "title_en": "BNP leader Monirul Haq Faraji released after abduction and ransom payment in Gopalganj",
+        "summary_bn": "ঢাকা থেকে বাগেরহাটে ফেরার পথে গোপালগঞ্জে অপহৃত হওয়া বাগেরহাট জেলা বিএনপির সদস্য মনিরুল হক ফরাজী মুক্তিপণ দিয়ে ছাড়া পেয়েছেন।",
+        "summary_en": "Bagerhat district BNP member Monirul Haq Faraji was released after paying ransom following his abduction from Gopalganj while returning to Bagerhat from Dhaka.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T17:11:10+00:00",
+        "lead_bn": "ঢাকা থেকে বাগেরহাটে ফেরার পথে গোপালগঞ্জে অপহৃত হওয়া বাগেরহাট জেলা বিএনপির সদস্য মনিরুল হক ফরাজী মুক্তিপণ দিয়ে ছাড়া পেয়েছেন।",
+        "lead_en": "Bagerhat district BNP member Monirul Haq Faraji was released after paying ransom following his abduction from Gopalganj while returning to Bagerhat from Dhaka.",
+        "bullets_bn": [
+          "খুলনা-মাওয়া মহাসড়কের ঘোনাপাড়ায় গাড়ির গতি রোধ করে হামলাকারীরা মনিরুলের নগদ টাকা, আইফোন ও গহনা ছিনিয়ে নেয়।",
+          "অপহরণকারীদের চাহিদা অনুযায়ী মুক্তিপণের টাকা পরিশোধের পর ছাড়া পেয়ে ঢাকার বাসায় ফেরেন এই বিএনপি নেতা।",
+          "চিকিৎসা নিয়ে বর্তমানে তিনি বাসায় অবস্থান করছেন এবং ঘটনার বিষয়ে পুলিশের কাছে কোনো অভিযোগ দেননি।"
+        ],
+        "bullets_en": [
+          "Armed attackers blocked the car on Khulna-Mawa highway, robbed money and valuables, and abducted Monirul after finding party photos on his phone.",
+          "Monirul was released after paying ransom demanded by the abductors and returned to his residence in Mohammadpur, Dhaka.",
+          "Monirul is currently receiving medical treatment at home and has not lodged any complaint with the police."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মনিরুল হক ফরাজী দলের সহকর্মী শেখ মঈন উদ্দিন আহমেদ ও গাড়িচালক হাসানকে নিয়ে ঢাকা থেকে বাগেরহাটে ফিরছিলেন। মঈন উদ্দিনের ভাষ্যমতে, নিষিদ্ধ আওয়ামী লীগের সমর্থকেরা মহাসড়কে গাছ ফেলে গাড়িটি আটকায়। হামলাকারীরা মঈন ও চালক হাসানকে মারধর করে ছেড়ে দেয়, তবে মনিরুলের মুঠোফোনে তারেক রহমানের ছবি ও দলীয় কার্যক্রমের তথ্য দেখে তাঁকে ধরে নিয়ে যায়।",
+        "details_en": "Monirul Haq Faraji was traveling from Dhaka to Bagerhat in a private car with party colleague Sheikh Moin Uddin Ahmed and driver Hasan. Moin Uddin stated that supporters of the banned Awami League blocked the highway at Ghonapara. The attackers beat Moin Uddin and the driver before releasing them, but abducted Monirul after discovering party activities and photos of Tarique Rahman on his phone.",
+        "hook_bn": "গোপালগঞ্জে বিএনপি নেতাকে অপহরণ ও মুক্তিপণ আদায়",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T18:05:17.152143+00:00"
+      }
+    },
+    {
+      "story_id": "6eafaff6-6ef1-5868-b7f5-b56bc7257d87",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#KaptaiNationalPark",
+        "#Rangamati",
+        "#WorldBank",
+        "#EcologyAndEvolution"
+      ],
+      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_d0d2ef7453651100d2bf9c179acfb425.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-20T18:00:49.269306+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.496,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/two-new-snake-species-found-in-bangladesh",
+          "title": "Two new snake species found in Bangladesh",
+          "snippet": "Two new snake species found in Bangladesh"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাংলাদেশে প্রথমবারের মতো দুটি নতুন সাপ শনাক্ত",
+        "title_en": "Two new snake species identified in Bangladesh for the first time",
+        "summary_bn": "গবেষকেরা রাঙামাটির কাপ্তাই জাতীয় উদ্যান এবং দুধপুকুরিয়া-ধোপছড়ি বন্যপ্রাণী অভয়ারণ্যে প্রথমবারের মতো দুটি নতুন সাপ প্রজাতি শনাক্ত করেছেন।",
+        "summary_en": "Researchers have identified two snake species in Bangladesh for the first time in Kaptai National Park and Dudhpukuria-Dhopachhari Wildlife Sanctuary.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T18:00:49.269306+00:00",
+        "lead_bn": "গবেষকেরা রাঙামাটির কাপ্তাই জাতীয় উদ্যান এবং দুধপুকুরিয়া-ধোপছড়ি বন্যপ্রাণী অভয়ারণ্যে প্রথমবারের মতো দুটি নতুন সাপ প্রজাতি শনাক্ত করেছেন।",
+        "lead_en": "Researchers have identified two snake species in Bangladesh for the first time in Kaptai National Park and Dudhpukuria-Dhopachhari Wildlife Sanctuary.",
+        "bullets_bn": [
+          "কাপ্তাই জাতীয় উদ্যানে স্ট্রাইপড কীলব্যাক এবং দুধপুকুরিয়া-ধোপছড়িতে বින්দি কীলব্যাক প্রজাতি দুটি পাওয়া গেছে।",
+          "গবেষণায় ডেন্ড্রেলাফিস হাসি ও ডেন্ড্রেলাফিস সায়ানোক্লোরিস নামের আরও দুটি প্রজাতি নতুন হিসেবে রেকর্ড করা হয়েছে।",
+          "বিশ্বব্যাংকের অর্থায়নে এবং বন বিভাগের সুফল প্রকল্পের অধীনে এই গবেষণা চালানো হয়।"
+        ],
+        "bullets_en": [
+          "The striped keelback was found in Kaptai, and the bindi keelback was recorded in Dudhpukuria-Dhopachhari.",
+          "The study also recorded Dendrelaphis haasi and Dendrelaphis cyanochloris as new species to Bangladesh.",
+          "The research was conducted under the Forest Department's SUFAL project, funded by the World Bank."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "নভেম্বর ১৭ তারিখে আন্তর্জাতিক জার্নাল ইকোলজি অ্যান্ড ইভোলিউশনে এই গবেষণা প্রকাশিত হয়। ২০২৩ সালের নভেম্বর থেকে ২০২৪ সালের ডিসেম্বর পর্যন্ত এই সমীক্ষা চালানো হয়। গবেষক দলে ছিলেন মো. সোহেল রানা, সজীব বিশ্বাস, মাহি ওয়াসিম এবং আশিস কুমার দত্ত। কাপ্তাইয়ে পাওয়া স্ট্রাইপড কীলব্যাক বাদামী রঙের এবং এর শরীরের দুই পাশে ডোরাকাটা দাগ রয়েছে। দুধপুকুরিয়ায় পাওয়া বিনদি কীলব্যাকের গলার পেছনে লাল ফোঁটা রয়েছে।",
+        "details_en": "The findings were published in the international journal Ecology and Evolution on Nov 17, following a survey from November 2023 to December 2024. The research team included Md Sohel Rana, Sajib Biswas, Mahi Washim and Ashis Kumar Datta. The striped keelback is dark brown with stripes along its body, while the bindi keelback is brown with a red spot behind its neck.",
+        "hook_bn": "বাংলাদেশে মিলল দুটি নতুন সাপের প্রজাতি",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "দেশের বন্যপ্রাণী ও জীববৈচিত্র্য রক্ষায় আমাদের কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T18:05:17.152143+00:00"
+      }
+    },
+    {
+      "story_id": "6f3aa9b1-e18e-59ab-989c-51a455ac1ca8",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#BangladeshDenim",
+        "#EuropeanUnion",
+        "#Eurostat",
+        "#ExportMarket"
+      ],
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182400/16111.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-20T18:00:49.269306+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.496,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/competitors-eat-into-bangladeshs-share-of-european-denim-market",
+          "title": "Competitors eat into Bangladesh’s share of European denim market",
+          "snippet": "Competitors eat into Bangladesh’s share of European denim market"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইউরোপীয় ইউনিয়নের বাজারে বাংলাদেশের ডেনিম রফতানি ও বাজার অংশ কমেছে।",
+        "title_en": "Bangladesh sees a decline in denim exports and market share in the EU.",
+        "summary_bn": "ইউরোপীয় ইউনিয়নের বাজারে শীর্ষ ডেনিম রফতানিকারক থাকা সত্ত্বেও বাংলাদেশের রফতানি এবং বাজার অংশ এই বছর কমেছে।",
+        "summary_en": "Despite remaining the top denim exporter to the EU, Bangladesh has seen a decline in both exports and market share this year.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T18:00:49.269306+00:00",
+        "lead_bn": "ইউরোপীয় ইউনিয়নের বাজারে শীর্ষ ডেনিম রফতানিকারক থাকা সত্ত্বেও বাংলাদেশের রফতানি এবং বাজার অংশ এই বছর কমেছে।",
+        "lead_en": "Despite remaining the top denim exporter to the EU, Bangladesh has seen a decline in both exports and market share this year.",
+        "bullets_bn": [
+          "ইউরোপীয় ইউনিয়নের পরিসংখ্যান অফিস ইউরোস্ট্যাটের তথ্য অনুযায়ী, চলতি বছরের জানুয়ারি থেকে সেপ্টেম্বর সময়ে ইইউ বিশ্বব্যাপী ৩.৪২ বিলিয়ন ইউরোর ডেনিম আমদানি করেছে।",
+          "আলোচ্য সময়ে বাংলাদেশ থেকে ১.০১ বিলিয়ন ইউরোর ডেনিম আমদানি করেছে ইইউ, যা গত বছরের একই সময়ের তুলনায় ৫.৪৮ শতাংশ কম।",
+          "চিন, মিশর ও ভিয়েতনাম ডেনিম রফতানি বাড়িয়ে ইউরোপীয় বাজারে তাদের অবস্থান শক্তিশালী করছে।"
+        ],
+        "bullets_en": [
+          "According to Eurostat data, the EU imported 3.42 billion euros of denim globally from January to September this year.",
+          "The EU imported 1.01 billion euros of denim from Bangladesh in the period, a 5.48 percent drop year-on-year.",
+          "Competitor countries like China, Egypt and Vietnam are strengthening their position in the European market by increasing exports."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইউরোস্ট্যাটের ডেটা অনুযায়ী, সামগ্রিক ইইউ ডেনিম আমদানি গত বছরের তুলনায় ৩.২৪ শতাংশ কমেছে। বাংলাদেশের পাশাপাশি দ্বিতীয় অবস্থানে থাকা পাকিস্তানের রফতানিও ৬.৬৩ শতাংশ কমে ৬০৯.৭ মিলিয়ন ইউরোতে দাঁড়িয়েছে, যেখানে পাকিস্তানের বাজার অংশ ১৭.৮৫ শতাংশ। ২০১৭ সালে চিনকে পেছনে ফেলে ইইউ বাজারে প্রথম স্থান দখল করেছিল বাংলাদেশ।",
+        "details_en": "According to Eurostat data, overall EU denim imports decreased 3.24 per cent year-on-year from 2025. Pakistan, ranking second, exported denim worth 609.7 million euros with a 6.63 per cent decrease, holding a 17.85 per cent market share. In 2017, Bangladesh surpassed China for the first time to take the top spot.",
+        "hook_bn": "ইউরোপের বাজারে কমল বাংলাদেশের ডেনিম রফতানি",
+        "kicker_bn": "রফতানি হ্রাস",
+        "share_value": false,
+        "question_bn": "ইউরোপের বাজারে বাংলাদেশের ডেনিম রফতানি কমার পেছনে কী কারণ থাকতে পারে বলে আপনার মনে হয়?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T18:05:17.152143+00:00"
+      }
+    },
+    {
+      "story_id": "4121d5fb-c254-5c16-b665-18f8a5523d3f",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-20%2Fjr3l89dd%2Fmoulavibazar.jpg?rect=0%2C459%2C4080%2C2142&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-20T17:13:39+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.3852,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/8981a4crk9",
+          "title": "দেশে ১১ বছরে ১২৩টি হাতি মারা গেছে, বিদ্যুৎস্পৃষ্টে মৃত্যু হয়েছে বেশির ভাগের",
+          "snippet": "দেশে ১১ বছরে ১২৩টি হাতি মারা গেছে, বিদ্যুৎস্পৃষ্টে মৃত্যু হয়েছে বেশির ভাগের"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "দেশে ১১ বছরে ১২৩টি হাতির মৃত্যু হয়েছে, বেশি মৃত্যু বিদ্যুৎস্পৃষ্টে",
+        "title_en": "123 elephants died in 11 years in Bangladesh, mostly from electrocution",
+        "summary_bn": "দেশে গত ১১ বছরে ১২৩টি হাতির মৃত্যু হয়েছে যার বেশির ভাগই মারা গেছে বিদ্যুৎস্পৃষ্ট হয়ে।",
+        "summary_en": "A total of 123 elephants died in Bangladesh over the past 11 years, with most dying from electrocution.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T17:13:39+00:00",
+        "lead_bn": "দেশে গত ১১ বছরে ১২৩টি হাতির মৃত্যু হয়েছে যার বেশির ভাগই মারা গেছে বিদ্যুৎস্পৃষ্ট হয়ে।",
+        "lead_en": "A total of 123 elephants died in Bangladesh over the past 11 years, with most dying from electrocution.",
+        "bullets_bn": [
+          "চট্টগ্রাম, ময়মনসিংহ ও সিলেট অঞ্চলে বর্তমানে মোট ৪৫০টি হাতি রয়েছে।",
+          "কেন্দ্রীয় অঞ্চলের বন সংরক্ষক এ এস এম জহির উদ্দিন হাতি সংরক্ষণে সবাইকে মানবিক হওয়ার আহ্বান জানান।",
+          "সরকার হাতি সংরক্ষণে ২০২৫ থেকে ২০২৮ সাল পর্যন্ত তিন বছর মেয়াদি একটি প্রকল্প হাতে নিয়েছে।"
+        ],
+        "bullets_en": [
+          "There are currently a total of 450 elephants in the Chattogram, Mymensingh, and Sylhet regions.",
+          "Central region forest conservator ASM Zahir Uddin urged everyone to be more humane in conserving elephants.",
+          "The government has undertaken a three-year project from 2025 to 2028 for elephant conservation."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মৌলভীবাজারের জুড়ীতে হাতি সংরক্ষণে জনসচেতনতা সৃষ্টির লক্ষ্যে আয়োজিত তিন দিনব্যাপী সেমিনারের সমাপনী অনুষ্ঠানে বন বিভাগের কর্মকর্তারা এই তথ্য জানান। ফসল রক্ষার জন্য অনেকে জমিতে বৈদ্যুতিক বেড়া স্থাপন করায় এসব বেড়ায় বিদ্যুৎস্পৃষ্ট হয়ে বেশির ভাগ হাতির মৃত্যু হয়। মৌলভীবাজার অঞ্চলে ২৯টি পোষা ও তিনটি বন্য হাতি রয়েছে। হাতি সংরক্ষণে সরকারের এই প্রকল্পের আওতায় প্রাকৃতিক আবাসস্থল সংরক্ষণ ও মৃত্যুর হার কমানোর পদক্ষেপ নেওয়া হয়েছে।",
+        "details_en": "Forest department officials shared this information at the closing ceremony of a three-day seminar in Juri, Moulvibazar, aimed at raising public awareness for elephant conservation. Most elephants died after being electrocuted by electric fences set up by people on land to protect crops. There are 29 captive and three wild elephants in the Moulvibazar region. Under the government's project, steps have been taken to protect natural habitats and reduce the death rate.",
+        "hook_bn": "দেশে ১১ বছরে ১২৩টি হাতির মৃত্যু",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T18:05:17.152143+00:00"
       }
     }
   ]
