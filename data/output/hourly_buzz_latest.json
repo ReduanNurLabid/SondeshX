@@ -1,68 +1,72 @@
 {
-  "updated_at": "2026-11-20T02:00:37.852727",
-  "total_stories": 1,
+  "updated_at": "2026-11-20T03:00:57.539761",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "a5232956-84ea-542b-b2aa-f85cb2a90d24",
-      "primary_category": "sports_fitness",
+      "story_id": "3314954c-c479-5f0e-9d63-34c30aab3d54",
+      "primary_category": "climate_environment",
       "interest_categories": [
-        "sports_fitness"
+        "climate_environment",
+        "economy_business",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Sports",
-        "#BangladeshCricket"
+        "#Climate",
+        "#Environment"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-19%2Fdpsf75at%2FWhatsApp-Image-2026-11-19-at-5.40.00-PM.jpeg?rect=0%2C1%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://images.unsplash.com/photo-1781330168090-a2b6721eb435?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8c2V2ZW50aCUyMHNoaXBtZW50JTIwdXJhbml1bSUyMGFycml2ZXMlMjBlbnZpcm9ubWVudHxlbnwxfDB8fHwxNzk1MTQzODE3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-20T01:45:00+00:00",
+      "published_at": "2026-11-20T02:59:16+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.0,
-      "rank_score": 3.5445,
+      "rank_score": 3.5867,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/sports/cricket/6wtnwvs030",
-          "title": "ফাইনালের দৌড়ে হোঁচট নাজমুলদের, এখন এগিয়ে কারা",
-          "snippet": "ফাইনালের দৌড়ে হোঁচট নাজমুলদের, এখন এগিয়ে কারা"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1181558",
+          "title": "রূপপুরে পৌঁছাল দ্বিতীয় ইউনিটের শেষ চালানের ইউরেনিয়াম",
+          "snippet": "রূপপুরে পৌঁছাল দ্বিতীয় ইউনিটের শেষ চালানের ইউরেনিয়াম"
         },
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/cricket/982019/%E0%A6%B8%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%AC-%E0%A6%A4%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%AE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%87%E0%A6%9B%E0%A6%A8%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%AF%E0%A7%87-%E0%A6%B0%E0%A7%87%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A1%E0%A7%87-%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A6%A4%E0%A6%AE",
-          "title": "সাকিব-তামিমদের পেছনে ফেলে যে রেকর্ডে দ্রুততম মুশফিক-লিটন",
-          "snippet": "সাকিব-তামিমদের পেছনে ফেলে যে রেকর্ডে দ্রুততম মুশফিক-লিটন"
+          "url": "https://www.banglatribune.com/country/rajshahi/982086/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%81%E0%A6%9B%E0%A6%BE%E0%A6%B2%E0%A7%8B-%E0%A6%87%E0%A6%89%E0%A6%B0%E0%A7%87%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A8",
+          "title": "রূপপুরে পৌঁছালো ইউরেনিয়ামের আরও একটি চালান",
+          "snippet": "রূপপুরে পৌঁছালো ইউরেনিয়ামের আরও একটি চালান"
         }
       ],
       "daily_buzz": {
-        "title_bn": "দক্ষিণ আফ্রিকার কাছে হেরে টেস্ট চ্যাম্পিয়নশিপের ফাইনালের দৌড়ে হোঁচট খেল বাংলাদেশ",
-        "title_en": "Bangladesh faces a blow to Test Championship final hopes after losing to South Africa",
-        "summary_bn": "দক্ষিণ আফ্রিকার বিপক্ষে জোহানেসবার্গ টেস্টে ৯ উইকেটে হারের পর টেস্ট চ্যাম্পিয়নশিপের এবারের চক্রের ফাইনাল খেলার সম্ভাবনা বাংলাদেশের জন্য প্রায় শেষ।",
-        "summary_en": "Bangladesh's chances of playing in the World Test Championship final are almost over after a nine-wicket defeat against South Africa.",
+        "title_bn": "রূপপুর প্রকল্পে পৌঁছাল ইউরেনিয়ামের সপ্তম চালান",
+        "title_en": "Seventh shipment of uranium arrives at Rooppur project",
+        "summary_bn": "রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্রের জন্য রাশিয়া থেকে আনা ইউরেনিয়ামের সপ্তম চালান প্রকল্প এলাকায় পৌঁছেছে।",
+        "summary_en": "The seventh shipment of uranium brought from Russia for the Rooppur Nuclear Power Plant has reached the project area.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness"
+          "climate_environment",
+          "economy_business",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-20T01:45:00+00:00",
-        "lead_bn": "দক্ষিণ আফ্রিকার বিপক্ষে জোহানেসবার্গ টেস্টে ৯ উইকেটে হারের পর টেস্ট চ্যাম্পিয়নশিপের এবারের চক্রের ফাইনাল খেলার সম্ভাবনা বাংলাদেশের জন্য প্রায় শেষ।",
-        "lead_en": "Bangladesh's chances of playing in the World Test Championship final are almost over after a nine-wicket defeat against South Africa.",
+        "published_at": "2026-11-20T02:59:16+00:00",
+        "lead_bn": "রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্রের জন্য রাশিয়া থেকে আনা ইউরেনিয়ামের সপ্তম চালান প্রকল্প এলাকায় পৌঁছেছে।",
+        "lead_en": "The seventh shipment of uranium brought from Russia for the Rooppur Nuclear Power Plant has reached the project area.",
         "bullets_bn": [
-          "জোহানেসবার্গ টেস্ট জিতে বিশ্ব টেস্ট চ্যাম্পিয়নশিপের পয়েন্ট তালিকার শীর্ষে ফিরেছে বর্তমান চ্যাম্পিয়ন দক্ষিণ আফ্রিকা।",
-          "দক্ষিণ আফ্রিকার বিপক্ষে হারের দিনে টেস্ট ক্রিকেটে বাংলাদেশের দ্রুততম জুটি হিসেবে ২ হাজার রানের মাইলফলক ছুঁয়েছেন মুশফিকুর রহিম ও লিটন দাস।",
-          "ওয়েস্ট ইন্ডিজের বিপক্ষে দুই ম্যাচের সিরিজ ১-০ ব্যবধানে হেরে যাওয়ার পর বাংলাদেশের ফাইনালের সম্ভাবনা ফিকে হয়ে যায়।"
+          "ইউরেনিয়ামের সপ্তম চালানটি পাবনার ঈশ্বরদীতে রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্র প্রকল্প এলাকায় এসে পৌঁছায়।",
+          "২০ নভেম্বর সকাল সাড়ে ৬টার দিকে তিনটি বিশেষায়িত লরিতে করে ইউরেনিয়াম প্রকল্প এলাকায় প্রবেশ করে।",
+          "সেনাবাহিনীর তত্ত্বাবধানে অন্যান্য আইনশৃঙ্খলা রক্ষাকারী বাহিনীর সমন্বয়ে কঠোর নিরাপত্তাব্যবস্থা নেওয়া হয়।"
         ],
         "bullets_en": [
-          "Defending champions South Africa returned to the top of the World Test Championship points table by winning the Johannesburg Test.",
-          "On the day of the defeat, Mushfiqur Rahim and Litton Das reached the 2000-run milestone as Bangladesh's fastest Test batting partnership.",
-          "Bangladesh's final prospects faded after losing the two-match series 1-0 against the West Indies."
+          "The seventh shipment of uranium reached the Rooppur Nuclear Power Plant project area in Ishwardi, Pabna.",
+          "The uranium entered the project area in three specialized lorries ২০ November, at around 6:30 am.",
+          "Strict security measures were taken under the supervision of the army and in coordination with other law enforcement agencies."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "দক্ষিণ আফ্রিকার বিপক্ষে টেস্টে হার বাংলাদেশের",
-        "kicker_bn": null,
+        "details_bn": "সর্বশেষ চালানটি পৌঁছানোর মধ্য দিয়ে দ্বিতীয় ইউনিটের জন্য নির্ধারিত সাতটি চালানই প্রকল্প এলাকায় পৌঁছাল।",
+        "details_en": "With the arrival of the latest shipment, all seven shipments for the second unit have reached the project area.",
+        "hook_bn": "রূপপুরে পৌঁছাল ইউরেনিয়ামের সপ্তম চালান",
+        "kicker_bn": "পরমাণু বিদ্যুৎ",
         "share_value": false,
         "question_bn": null
       },
@@ -72,7 +76,359 @@
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-20T02:01:34.528783+00:00"
+        "checked_at": "2026-11-20T03:04:58.810084+00:00"
+      }
+    },
+    {
+      "story_id": "6b52aef2-0347-5640-a5c4-3e2c91ab7fda",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2024-01%2Fef17224a-029a-4c9a-ae35-2293d8ae393a%2FUntitled_1.jpg?rect=0%2C6%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-20T02:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.3878,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/business/economics/1iaigxz46o",
+          "title": "সরু চাল ও কিছু সবজির দাম বেড়েছে",
+          "snippet": "সরু চাল ও কিছু সবজির দাম বেড়েছে"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রাজধানীর বাজারে সরু চাল ও কিছু সবজির দাম বেড়েছে",
+        "title_en": "Prices of fine rice and some vegetables increased in capital markets",
+        "summary_bn": "রাজধানীর বাজারে গত ১৫ দিনে নাজিরশাইল চালের দাম কেজিতে তিন থেকে চার টাকা বেড়েছে।",
+        "summary_en": "Nazirshail rice prices increased by three to four taka per kg in capital markets over 15 days.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T02:00:00+00:00",
+        "lead_bn": "রাজধানীর বাজারে গত ১৫ দিনে নাজিরশাইল চালের দাম কেজিতে তিন থেকে চার টাকা বেড়েছে।",
+        "lead_en": "Nazirshail rice prices increased by three to four taka per kg in capital markets over 15 days.",
+        "bullets_bn": [
+          "মিনিকেট চালের দাম কেজিতে এক থেকে দুই টাকা বেড়েছে।",
+          "ফুলকপি ও বাঁধাকপি প্রতিটির দাম ১০ টাকা বেড়েছে।",
+          "বৃষ্টি ও বর্তমান পরিস্থিতির কারণে কিছু এলাকা থেকে সবজির সরবরাহ কমেছে।"
+        ],
+        "bullets_en": [
+          "Miniket rice prices increased by one to two taka per kg.",
+          "Cauliflower and cabbage prices each increased by 10 taka.",
+          "Vegetable supply from some areas decreased due to rain and the current situation."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ব্যবসায়ীরা জানান, পুরোনো নাজিরশাইল চালের সরবরাহ শেষের দিকে এবং নতুন মৌসুমের চাল এখনো বাজারে আসেনি। নভেম্বরের শেষ দিকে কিংবা ডিসেম্বরের মাঝামাঝি নতুন চাল বাজারে আসতে পারে।",
+        "details_en": "Traders said supply of old Nazirshail rice is nearing its end and new season rice has not arrived yet. New rice may arrive in markets in late November or mid-December.",
+        "hook_bn": "নাজিরশাইল ও মিনিকেট চালের দাম বেড়েছে",
+        "kicker_bn": "দাম বাড়ছে",
+        "share_value": true,
+        "question_bn": "আপনার এলাকার বাজারে চাল ও সবজির দামে কেমন পরিবর্তন দেখছেন?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T03:04:58.810084+00:00"
+      }
+    },
+    {
+      "story_id": "154987a0-2f9f-5193-b2f2-9660a6b45080",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-14%2F3myj61sq%2FWhatsApp-Image-2026-11-14-at-10.26.38-PM.jpeg?rect=0%2C100%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-20T02:30:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4216,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/business/economics/fmeg7m8gvt",
+          "title": "কক্সবাজারে আন্তর্জাতিক ঋণ সম্মেলন থেকে কী বার্তা পেল বাংলাদেশ",
+          "snippet": "কক্সবাজারে আন্তর্জাতিক ঋণ সম্মেলন থেকে কী বার্তা পেল বাংলাদেশ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কক্সবাজারে দেশের প্রথম আন্তর্জাতিক ঋণ সম্মেলন অনুষ্ঠিত হয়েছে",
+        "title_en": "Bangladesh holds its first international debt conference in Cox's Bazar",
+        "summary_bn": "কক্সবাজারে ১৫ ও ১৬ নভেম্বর দেশের প্রথম আন্তর্জাতিক ঋণ সম্মেলন অনুষ্ঠিত হয়েছে, যেখানে সরকারি ঋণ ব্যবস্থাপনার চ্যালেঞ্জ নিয়ে আলোচনা হয়।",
+        "summary_en": "Bangladesh held its first international debt conference in Cox's Bazar on November 15 and 16, discussing government debt management challenges.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T02:30:00+00:00",
+        "lead_bn": "কক্সবাজারে ১৫ ও ১৬ নভেম্বর দেশের প্রথম আন্তর্জাতিক ঋণ সম্মেলন অনুষ্ঠিত হয়েছে, যেখানে সরকারি ঋণ ব্যবস্থাপনার চ্যালেঞ্জ নিয়ে আলোচনা হয়।",
+        "lead_en": "Bangladesh held its first international debt conference in Cox's Bazar on November 15 and 16, discussing government debt management challenges.",
+        "bullets_bn": [
+          "অর্থমন্ত্রী আমির খসরু মাহমুদ চৌধুরী জানিয়েছেন সরকার ব্যাংক খাতের ওপর নির্ভরতা কমাতে চায়।",
+          "প্রধানমন্ত্রীতা অর্থ ও পরিকল্পনা উপদেষ্টা রাশেদ আল মাহমুদ তিতুমীর বৈদেশিক ঋণ পরিশোধের হিসাব দিয়েছেন।",
+          "বিশেষজ্ঞরা বন্ড, সুকুক ও বিদেশি বিনিয়োগের মাধ্যমে অর্থায়নের উৎস বাড়ানোর ওপর গুরুত্ব দিয়েছেন।"
+        ],
+        "bullets_en": [
+          "Finance Minister Amir Khosru Mahmud Chowdhury stated the government wants to reduce reliance on the banking sector.",
+          "Prime Minister's Finance and Planning Adviser Raashed Al Mahmud Titumir provided calculations for foreign debt repayment.",
+          "Experts emphasized increasing financing sources through bonds, sukuks, and foreign investment."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বিশ্বের দীর্ঘতম সমুদ্রসৈকত কক্সবাজারের মূল সমুদ্রসৈকত থেকে প্রায় ৬০০ গজ দূরে ওশান প্যারাডাইস হোটেলে এই সম্মেলন অনুষ্ঠিত হয়। সম্মেলনে আইএমএফ, বিশ্বব্যাংক ও এডিপির প্রতিনিধিরা অংশ নেন এবং সাতটি অধিবেশন অনুষ্ঠিত হয়।",
+        "details_en": "The conference was held at the Ocean Paradise Hotel, about 600 yards from the main beach in Cox's Bazar, the world's longest sea beach. Representatives from the IMF, World Bank, and ADB participated in the seven sessions.",
+        "hook_bn": "ব্যাংক খাতের ওপর নির্ভরতা কমাবে সরকার",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T03:04:58.810084+00:00"
+      }
+    },
+    {
+      "story_id": "e520c8c2-2a0b-5f12-80c4-e19932d7b491",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2024-07%2F99ee479a-c29b-431b-9766-2cc062969479%2F%E0%A6%85%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0%20%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF%20%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%20%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%20%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%2C%20%E0%A6%B9%E0%A6%B2%20%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%B0%20%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6?rect=0%2C0%2C1920%2C1008&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-20T02:24:52+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4096,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/education/admission/qcg16p4t73",
+          "title": "ঢাকা বিশ্ববিদ্যালয়ে ভর্তি পরীক্ষা: খেলোয়াড় কোটায় আবেদনের সুযোগ পাবেন যাঁরা",
+          "snippet": "ঢাকা বিশ্ববিদ্যালয়ে ভর্তি পরীক্ষা: খেলোয়াড় কোটায় আবেদনের সুযোগ পাবেন যাঁরা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ঢাকা বিশ্ববিদ্যালয়ের ২০২৬-২৭ শিক্ষাবর্ষে খেলোয়াড় কোটায় ভর্তির আবেদন শুরু হয়েছে।",
+        "title_en": "Applications for athlete quota admission in Dhaka University started for 2026-27.",
+        "summary_bn": "ঢাকা বিশ্ববিদ্যালয়ের ২০২৬-২৭ শিক্ষাবর্ষের আন্ডারগ্র্যাজুয়েট প্রোগ্রামের ভর্তি পরীক্ষায় খেলোয়াড় কোটায় আবেদনের সুযোগ ঘোষণা করা হয়েছে।",
+        "summary_en": "Applications under the athlete quota for admission to Dhaka University undergraduate programs for 2026-27 have started.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T02:24:52+00:00",
+        "lead_bn": "ঢাকা বিশ্ববিদ্যালয়ের ২০২৬-২৭ শিক্ষাবর্ষের আন্ডারগ্র্যাজুয়েট প্রোগ্রামের ভর্তি পরীক্ষায় খেলোয়াড় কোটায় আবেদনের সুযোগ ঘোষণা করা হয়েছে।",
+        "lead_en": "Applications under the athlete quota for admission to Dhaka University undergraduate programs for 2026-27 have started.",
+        "bullets_bn": [
+          "আবেদনপ্রক্রিয়া ২৫ নভেম্বর ২০২৬ পর্যন্ত চলবে।",
+          "বিশ্ববিদ্যালয়ের ভর্তিসংক্রান্ত ওয়েবসাইটে প্রকাশিত বিজ্ঞপ্তিতে খেলোয়াড় কোটায় ভর্তির যোগ্যতা ও শর্তাবলি জানানো হয়েছে।",
+          "খেলোয়াড় সুবিধায় প্রার্থীকে মৌখিক ও ব্যবহারিক পরীক্ষায় উত্তীর্ণ হয়ে চূড়ান্ত সুপারিশপ্রাপ্ত হতে হবে।"
+        ],
+        "bullets_en": [
+          "The application process will continue until ২৫ নভেম্বর ২০২৬.",
+          "The qualification and conditions for athlete quota admission were published in a notice on the university admission website.",
+          "Candidates under athlete facilities must pass oral and practical exams and receive final recommendation."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "খেলোয়াড় কোটায় ঢাবিতে ভর্তির আবেদন শুরু",
+        "kicker_bn": "ভর্তি পরীক্ষা",
+        "share_value": true,
+        "question_bn": "খেলোয়াড় কোটায় ঢাকা বিশ্ববিদ্যালয়ে ভর্তির এই সুযোগ সম্পর্কে আপনার মতামত কী?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T03:04:58.810084+00:00"
+      }
+    },
+    {
+      "story_id": "5fd5fc7e-142c-5e43-a007-37f9102ff141",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#WhiteHouse",
+        "#SeanCairncross",
+        "#KirstenDavies"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/111ee764d1555c6945ee7d005da2426e8ae483bb/88_0_3244_2597/master/3244.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d94711568d1742ff5fe46357edf17c25",
+      "image_caption": null,
+      "published_at": "2026-11-20T01:25:05+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.5,
+      "rank_score": 2.7526,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted",
+          "title": "White House cyber director ousted after US hit by wave of tech outages",
+          "snippet": "White House cyber director ousted after US hit by wave of tech outages"
+        },
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/white-house-fires-cybersecurity-chief-after-widespread-outages/article71722952.ece",
+          "title": "White House fires cybersecurity chief after widespread outages",
+          "snippet": "White House fires cybersecurity chief after widespread outages"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যুক্তরাষ্ট্রের সাইবার পরিচালক শন কেয়ার্নক্রসকে বরখাস্ত করা হয়েছে।",
+        "title_en": "White House cyber director Sean Cairncross was ousted.",
+        "summary_bn": "যুক্তরাষ্ট্রের জাতীয় সাইবার পরিচালক শন কেয়ার্নক্রসকে তার পদ থেকে বরখাস্ত করা হয়েছে।",
+        "summary_en": "White House national cyber director Sean Cairncross was ousted from his job.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation",
+          "world_diplomacy",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T01:25:05+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের জাতীয় সাইবার পরিচালক শন কেয়ার্নক্রসকে তার পদ থেকে বরখাস্ত করা হয়েছে।",
+        "lead_en": "White House national cyber director Sean Cairncross was ousted from his job.",
+        "bullets_bn": [
+          "প্রতিরক্ষা দপ্তরের প্রধান তথ্য কর্মকর্তা কার্সেন ডেভিস সাময়িকভাবে এই দায়িত্ব গ্রহণ করবেন।",
+          "হোয়াইট হাউসের চিফ অব স্টাফ স্টিফেন মিলার এই পরিবর্তনের জন্য চাপ দিয়েছিলেন বলে জানা গেছে।",
+          "তার উত্তরসূরিকে সিনেট কর্তৃক নিশ্চিত করতে হবে যা আগামী জানুয়ারি থেকে ডেমোক্র্যাটদের নিয়ন্ত্রণে থাকবে।"
+        ],
+        "bullets_en": [
+          "Department of Defense chief information officer Kirsten Davies will assume the position temporarily.",
+          "White House chief of staff Stephen Miller reportedly pushed for the personnel change.",
+          "His successor will need to be confirmed by the Senate which will be controlled by Democrats beginning in January."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "আমেরিকায় বিমান চলাচল, ব্যাংকিং এবং জাতীয় নিরাপত্তা ব্যবস্থায় প্রযুক্তিগত বিভ্রাটের ঘটনার কয়েক দিন পর হোয়াইট হাউসের এই পদচ্যুতির ঘটনা ঘটল। ট্রাম্প প্রশাসন এই বিভ্রাট মোকাবিলা নিয়ে সমালোচনার মুখে পড়েছে।",
+        "details_en": "The dismissal occurred days after tech outages hit US air travel, banking and national security systems. The Trump administration has faced criticism over its response to the outages.",
+        "hook_bn": "যুক্তরাষ্ট্রের সাইবার পরিচালক শন কেয়ার্নক্রস বরখাস্ত",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": true,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T03:04:58.810084+00:00"
+      }
+    },
+    {
+      "story_id": "75341071-93da-5c90-92e5-46caae7f8a43",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-19%2Fzbdrs0h8%2F%E0%A7%AE%E0%A7%AE%E0%A7%AE%E0%A7%AE%E0%A7%AE%E0%A7%AE%E0%A7%AE%E0%A7%AE%E0%A7%AE%E0%A7%AE%E0%A7%AE%E0%A7%AE%E0%A7%AE.jpg?rect=0%2C0%2C1080%2C567&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-20T02:14:19+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.3853,
+      "sources": [
+        {
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/8g65fz3r8e",
+          "title": "আওয়ামী লীগের নাশকতায় কেন এখনই কঠোর হচ্ছে না সরকার, পরিকল্পনা কী",
+          "snippet": "আওয়ামী লীগের নাশকতায় কেন এখনই কঠোর হচ্ছে না সরকার, পরিকল্পনা কী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নাশকতার উসকানিতে পা দিচ্ছে না সরকার",
+        "title_en": "Government avoids falling into sabotage provocation",
+        "summary_bn": "কার্যনিষিদ্ধ আওয়ামী লীগের নাশকতার জবাবে আইনশৃঙ্খলা রক্ষাকারী বাহিনী এখনই গুলি বা প্রাণঘাতী বলপ্রয়োগ করছে না বলে জানিয়েছে সরকারসংশ্লিষ্ট সূত্র।",
+        "summary_en": "Government-linked sources stated that law enforcement is not resorting to shooting or lethal force against banned Awami League's sabotage.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T02:14:19+00:00",
+        "lead_bn": "কার্যনিষিদ্ধ আওয়ামী লীগের নাশকতার জবাবে আইনশৃঙ্খলা রক্ষাকারী বাহিনী এখনই গুলি বা প্রাণঘাতী বলপ্রয়োগ করছে না বলে জানিয়েছে সরকারসংশ্লিষ্ট সূত্র।",
+        "lead_en": "Government-linked sources stated that law enforcement is not resorting to shooting or lethal force against banned Awami League's sabotage.",
+        "bullets_bn": [
+          "সরকারপক্ষের মূল্যায়ন অনুযায়ী, শেখ হাসিনা ও আওয়ামী লীগ চাইছে আইনশৃঙ্খলা রক্ষাকারী বাহিনী গুলি চালাক এবং রক্তপাত ঘটুক।",
+          "পুলিশের হিসাবে ১২ দিনে দেশের ৭৮টি স্থানে ককটেল বিস্ফোরণ এবং ৭৪টি পরিবহনে আগুন দেওয়া হয়েছে।",
+          "পরিস্থিতির আরও অবনতি হলে কঠোর ব্যবস্থা নেওয়ার বিষয়টি বিবেচনায় আসবে।"
+        ],
+        "bullets_en": [
+          "Government assessment indicates Sheikh Hasina and the Awami League want law enforcement to open fire and cause bloodshed.",
+          "Police records show cocktail explosions in 78 places and arson on 74 transports over 12 days.",
+          "Strict measures will be considered if the situation deteriorates further."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের ধারাবাহিক সহিংসতা মোকাবিলায় প্রশাসনিক ব্যবস্থার পাশাপাশি রাজনৈতিক কৌশল নিয়ে এগোচ্ছে সরকার। এর মধ্যে গোপালগঞ্জে মুকসুদপুর থানায় এবং বিএনপির সংসদ সদস্য সেলিমুজ্জামান মোল্লার বাড়িতে আগুন দেওয়া হয়েছে। এছাড়া গ্রামীণ ব্যাংকের ৭২টি শাখায় হামলা ও নাটরে বিএনপির দুই নেতার মৃত্যুর ঘটনা ঘটেছে।",
+        "details_en": "The government is pursuing political strategies alongside administrative measures to tackle continued violence by the banned Awami League. Meanwhile, arson attacks occurred at Muksudpur police station and BNP MP Selimuzzaman Mollah's home in Gopalganj. Attacks also hit 72 Grameen Bank branches and two BNP leaders were killed in Natore.",
+        "hook_bn": "গোপালগঞ্জে থানায় ও বাড়িতে আগুন",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T03:04:58.810084+00:00"
       }
     }
   ]
