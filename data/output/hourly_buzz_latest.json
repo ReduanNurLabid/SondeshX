@@ -1,100 +1,82 @@
 {
-  "updated_at": "2026-11-20T11:00:51.398963",
-  "total_stories": 3,
+  "updated_at": "2026-11-20T12:00:45.935838",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "98bc20f7-47c6-5338-961c-f032956799fd",
-      "primary_category": "climate_environment",
+      "story_id": "fc1f7417-955b-5415-8a74-139d703ab6b0",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "climate_environment",
-        "governance_law",
-        "society_education",
-        "world_diplomacy"
+        "world_diplomacy",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#BangladeshWeather",
-        "#MetOffice"
+        "#Malaysia",
+        "#Turkiye",
+        "#Rohingya",
+        "#Myanmar"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/10/31/rainfall_0.jpg",
+      "image_url": "https://th-i.thgim.com/public/incoming/w8qo1p/article71723987.ece/alternates/LANDSCAPE_1200/2026-11-20T052915Z_1212591052_RC2HROAW9W50_RTRMADP_3_MYANMAR-ROHINGYA-UNGA-PRESIDENT.JPG",
       "image_caption": null,
-      "published_at": "2026-11-20T08:10:00+00:00",
+      "published_at": "2026-11-20T10:32:13+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.75,
-      "rank_score": 3.8629,
+      "importance_score": 7.2,
+      "rank_score": 4.7574,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/environment/met-office-predicts-rain-over-country-1608676",
-          "title": "Met office predicts rain over country",
-          "snippet": "Met office predicts rain over country"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/425238/bad-weather-strands-1-000-tourists-on-st-martin%E2%80%99s",
-          "title": "Bad weather strands 1,000 tourists on St Martin’s Island",
-          "snippet": "Bad weather strands 1,000 tourists on St Martin’s Island"
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/malaysia-plans-to-resettle-10000-rohingya-in-turkiye/article71723939.ece",
+          "title": "Malaysia plans to resettle 10,000 Rohingya in Turkiye",
+          "snippet": "Malaysia plans to resettle 10,000 Rohingya in Turkiye"
         },
         {
           "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/bangladesh-braces-for-another-day-of-rain-as-cyclone-akvan-weakens-over-india",
-          "title": "Cyclone Akvan to bring more rain to Bangladesh",
-          "snippet": "Cyclone Akvan to bring more rain to Bangladesh"
-        },
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/environment-and-climate/post-1223599/",
-          "title": "ওড়িশা উপকূল অতিক্রম করেছে ঘূর্ণিঝড় ‘আকভান’",
-          "snippet": "ওড়িশা উপকূল অতিক্রম করেছে ঘূর্ণিঝড় ‘আকভান’"
+          "url": "https://thefinancialexpress.com.bd/national/bangladesh-calls-for-swift-enforcement-of-icj-ruling-on-rohingya-genocide",
+          "title": "Rohingya genocide: Dhaka calls for swift enforcement of ICJ ruling",
+          "snippet": "Rohingya genocide: Dhaka calls for swift enforcement of ICJ ruling"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ঘূর্ণিঝড় আকভান ও বৃষ্টির পূর্বাভাস দিয়েছে আবহাওয়া অফিস",
-        "title_en": "Met office forecasts rain and cyclone Akvan impact",
-        "summary_bn": "বাংলাদেশ আবহাওয়া অধিদফতর আগামী ২৪ ঘণ্টার জন্য দেশের বিভিন্ন স্থানে বৃষ্টির পূর্বাভাস দিয়েছে।",
-        "summary_en": "The Bangladesh Meteorological Department forecasted rain across the country in the next 24 hours.",
+        "title_bn": "মালয়েশিয়া তুরস্কে ১০ হাজার রোহিঙ্গা পুনর্বাসনের পরিকল্পনা করছে",
+        "title_en": "Malaysia plans to resettle 10,000 Rohingya in Turkiye",
+        "summary_bn": "মালয়েশিয়া মিয়ানমার থেকে আসা ১০ হাজার রোহিঙ্গা অভিবাসীকে তুরস্কে পুনর্বাসনের উদ্যোগ নিয়েছে বলে একজন জ্যেষ্ঠ কর্মকর্তা জানিয়েছেন।",
+        "summary_en": "Malaysia is seeking to resettle 10,000 Rohingya migrants in Turkiye as part of efforts to resolve refugee challenges.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "climate_environment",
-          "governance_law",
-          "society_education",
-          "world_diplomacy"
+          "world_diplomacy",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-20T08:10:00+00:00",
-        "lead_bn": "বাংলাদেশ আবহাওয়া অধিদফতর আগামী ২৪ ঘণ্টার জন্য দেশের বিভিন্ন স্থানে বৃষ্টির পূর্বাভাস দিয়েছে।",
-        "lead_en": "The Bangladesh Meteorological Department forecasted rain across the country in the next 24 hours.",
+        "published_at": "2026-11-20T10:32:13+00:00",
+        "lead_bn": "মালয়েশিয়া মিয়ানমার থেকে আসা ১০ হাজার রোহিঙ্গা অভিবাসীকে তুরস্কে পুনর্বাসনের উদ্যোগ নিয়েছে বলে একজন জ্যেষ্ঠ কর্মকর্তা জানিয়েছেন।",
+        "lead_en": "Malaysia is seeking to resettle 10,000 Rohingya migrants in Turkiye as part of efforts to resolve refugee challenges.",
         "bullets_bn": [
-          "হালকা থেকে মাঝারি বৃষ্টি বা বজ্রসহ বৃষ্টির পূর্বাভাস দেওয়া হয়েছে।",
-          "তাপমাত্রা অপরিবর্তিত থাকতে পারে বলে জানিয়েছে আবহাওয়া অফিস।",
-          "ঘূর্ণিঝড় আকভান ওড়িশা উপকূল অতিক্রম করেছে।"
+          "উপপ্রধানমন্ত্রী আহমেদ জাহিদ হামিদী বলেছেন, মন্ত্রিসভা কাঠামোগত দক্ষতা প্রশিক্ষণ কর্মসূচির মাধ্যমে ১০ হাজার রোহিঙ্গা শরণার্থীকে তুরস্কে পুনর্বাসনের প্রস্তাব অনুমোদন করেছে।",
+          "তুরস্কে তিন থেকে ছয় মাসব্যাপী কারিগরি ও বৃত্তিমূলক শিক্ষা এবং প্রশিক্ষণ কর্মসূচি সম্পন্ন করবেন রোহিঙ্গারা।",
+          "দক্ষতা অর্জনের পর অংশগ্রহণকারীরা তুরস্কের অর্থনীতিতে অবদান রাখার সুযোগ পাবেন।"
         ],
         "bullets_en": [
-          "Light to moderate rain or thundershowers are likely to occur.",
-          "Temperatures may remain nearly unchanged over the country.",
-          "Cyclone Akvan has crossed the Odisha coast."
+          "Deputy Prime Minister Ahmad Zahid Hamidi said the Cabinet agreed to resettle 10,000 Rohingya refugees through a structured skills training programme.",
+          "Rohingya refugees will undergo a Technical and Vocational Education and Training programme in Turkiye lasting three to six months.",
+          "Participants will be equipped to secure employment and contribute to Turkiye's economy after training."
         ],
-        "impact_bn": "প্রবল ঘূর্ণিঝড় আকভানের প্রভাবে চাঁদপুরে টানা দুই দিন ধরে বৃষ্টিপাত হচ্ছে এবং ঘরবন্দি মানুষের স্বাভাবিক জীবনযাত্রা ব্যাহত হচ্ছে।",
-        "impact_en": "Rain is disrupting normal life and confining people indoors in Chandpur due to the impact of cyclone Akvan.",
-        "details_bn": "ঘূর্ণিঝড় আকভান ভারতের ওড়িশা উপকূল অতিক্রম করে স্থলভাগে উঠে এসেছে এবং বর্তমানে দক্ষিণ ওড়িশা ও তৎসংলগ্ন এলাকায় অবস্থান করছে। এটি আরও উত্তর-পশ্চিম দিকে অগ্রসর হয়ে স্থলভাগের অভ্যন্তরে বৃষ্টি ঝরিয়ে ক্রমান্বয়ে দুর্বল হয়ে যেতে পারে। এর প্রভাবে চাঁদপুরে টানা দুই দিন ধরে বৃষ্টিপাত হচ্ছে এবং সেন্ট মার্টিন দ্বীপে এক হাজার পর্যটক আটকা পড়েছেন।",
-        "details_en": "Cyclone Akvan crossed the Odisha coast in India and is now located over south Odisha and adjoining areas. It may move further northwest, cause rain inland, and gradually weaken. The impact has caused two days of rain in Chandpur and stranded 1,000 tourists on St Martin's Island.",
-        "hook_bn": "ঘূর্ণিঝড় আকভানের প্রভাবে দেশজুড়ে বৃষ্টির পূর্বাভাস",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": "আপনার এলাকায় কি ঘূর্ণিঝড় আকভানের প্রভাবে বৃষ্টি শুরু হয়েছে?"
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মিয়ানমার রোহিঙ্গাদের বিরুদ্ধে গণহত্যা চালিয়েছে বলে জাতিসংঘের সর্বোচ্চ আদালতের রায় ঘোষণার একদিন পর এই ঘোষণা দেওয়া হয়েছে। এর পাশাপাশি বাংলাদেশ আইসিজে রায়ের দ্রুত বাস্তবায়ন এবং রোহিঙ্গাদের নিজেদের দেশে ফিরে যাওয়ার দাবির কথা জানিয়েছে।",
+        "details_en": "The announcement comes a day after the UN's top court ruled that Myanmar committed genocide against the ethnic minority. Meanwhile, Rohingya in Bangladesh welcomed the verdict and expressed a desire to return home to Myanmar, while Dhaka called for swift enforcement of the ruling.",
+        "hook_bn": "তুরস্কে পুনর্বাসন হবে ১০ হাজার রোহিঙ্গা",
+        "kicker_bn": "রায় ঘোষণা",
+        "share_value": false,
+        "question_bn": null
       },
-      "desk_importance": 6.0,
-      "outlet_count": 6,
-      "trending": false,
-      "social_appeal": 8.0,
       "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-20T11:02:51.021405+00:00"
+        "status": "unchecked",
+        "checked_at": "2026-11-20T12:01:48.808499+00:00"
       }
     },
     {
-      "story_id": "0d1597d5-9105-5f0b-9d80-56560238e3f5",
+      "story_id": "b7beeb23-9352-572f-ae0f-084817d59408",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -104,140 +86,325 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFuZ2xhZGVzaCUyMGFkdmFuY2VzJTIwc3RlcHMlMjBnb3Zlcm5tZW50JTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1MTcyNTEwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://media.channelionline.com/2026/11/pm-birthday.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-11-20T10:33:58+00:00",
+      "published_at": "2026-11-20T12:00:22+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.8041,
+      "importance_score": 6.6,
+      "rank_score": 4.3516,
       "sources": [
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822059/%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A7%87%E0%A6%B0-%E0%A6%87-%E0%A6%97%E0%A6%AD%E0%A6%B0%E0%A7%8D%E0%A6%A8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F-%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A7%9F%E0%A6%A8-%E0%A6%B8%E0%A7%82%E0%A6%9A%E0%A6%95%E0%A7%87-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%A7%E0%A6%BE%E0%A6%AA-%E0%A6%8F%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87",
-          "title": "জাতিসংঘের ই-গভর্নমেন্ট উন্নয়ন সূচকে তিন ধাপ এগিয়ে ৯৭তম বাংলাদেশ",
-          "snippet": "জাতিসংঘের ই-গভর্নমেন্ট উন্নয়ন সূচকে তিন ধাপ এগিয়ে ৯৭তম বাংলাদেশ"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/national/499511",
-          "title": "জাতিসংঘের ই-গভর্নমেন্ট সূচকে বাংলাদেশের উন্নতি",
-          "snippet": "জাতিসংঘের ই-গভর্নমেন্ট সূচকে বাংলাদেশের উন্নতি"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/children-wished-prime-minister-happy-birthday-received-sports/",
+          "title": "প্রধানমন্ত্রীকে জন্মদিনের শুভেচ্ছা জানাল শিশুরা, পেল ক্রীড়া সামগ্রী",
+          "snippet": "প্রধানমন্ত্রীকে জন্মদিনের শুভেচ্ছা জানাল শিশুরা, পেল ক্রীড়া সামগ্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জাতিসংঘের ই-গভর্নমেন্ট সূচকে তিন ধাপ এগিয়ে ৯৭তম বাংলাদেশ",
-        "title_en": "Bangladesh advances three steps to 97th in UN e-government index",
-        "summary_bn": "জাতিসংঘের ই-গভর্নমেন্ট ডেভেলপমেন্ট ইনডেক্সে প্রথমবারের মতো দুই অঙ্কের অবস্থানে উঠে এসেছে বাংলাদেশ এবং ১৯৪টি দেশের মধ্যে ৯৭তম স্থান অর্জন করেছে।",
-        "summary_en": "Bangladesh has risen to a double-digit position for the first time in the UN E-Government Development Index, ranking 97th among 194 countries.",
+        "title_bn": "প্রধানমন্ত্রী তারেক রহমান শিশু-কিশোরদের ক্রীড়া সামগ্রী উপহার দিয়েছেন।",
+        "title_en": "Prime Minister Tarique Rahman gifted sports equipment to children.",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান ২০ নভেম্বর শিশু-কিশোরদের জন্মদিনের শুভেচ্ছা বিনিময়ের পর ক্রীড়া সামগ্রী উপহার দেন।",
+        "summary_en": "Prime Minister Tarique Rahman gifted sports equipment to children after exchanging birthday greetings on 20 November.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-20T10:33:58+00:00",
-        "lead_bn": "জাতিসংঘের ই-গভর্নমেন্ট ডেভেলপমেন্ট ইনডেক্সে প্রথমবারের মতো দুই অঙ্কের অবস্থানে উঠে এসেছে বাংলাদেশ এবং ১৯৪টি দেশের মধ্যে ৯৭তম স্থান অর্জন করেছে।",
-        "lead_en": "Bangladesh has risen to a double-digit position for the first time in the UN E-Government Development Index, ranking 97th among 194 countries.",
+        "published_at": "2026-11-20T12:00:22+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান ২০ নভেম্বর শিশু-কিশোরদের জন্মদিনের শুভেচ্ছা বিনিময়ের পর ক্রীড়া সামগ্রী উপহার দেন।",
+        "lead_en": "Prime Minister Tarique Rahman gifted sports equipment to children after exchanging birthday greetings on 20 November.",
         "bullets_bn": [
-          "২০২৬ সালের সূচকে বাংলাদেশ ৯৭তম অবস্থান অর্জন করেছে।",
-          "২০২৪ সালের জরিপে দেশটি ১০০তম অবস্থানে ছিল।",
-          "রাষ্ট্রীয় বার্তা সংস্থা বাসস এই তথ্য জানিয়েছে।"
+          "প্রধানমন্ত্রী বনানীর নৌবাহিনী কেন্দ্রীয় মসজিদে জুমার নামাজ আদায় করেন।",
+          "প্রধানমন্ত্রীর উপ প্রেস সচিব সুজাউদ্দৌলা সুজন মাহমুদ এ তথ্য নিশ্চিত করেন।",
+          "প্রধানমন্ত্রী শিশু-কিশোরদের সঙ্গে কুশল বিনিময় করেন এবং খেলাধুলার পছন্দ সম্পর্কে জানতে চান।"
         ],
         "bullets_en": [
-          "Bangladesh achieved the 97th position in the 2026 index.",
-          "The country was in the 100th position in the 2024 survey.",
-          "State news agency BSS reported this information on Friday."
+          "The Prime Minister offered Jumma prayers at the Banani Navy Central Mosque.",
+          "Deputy Press Secretary Sujauddoula Sujan Mahmud confirmed this information.",
+          "The Prime Minister exchanged pleasantries with the children and asked about their favorite sports."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "২০২৪ সালের জরিপে ১০০তম অবস্থানে থাকা বাংলাদেশ ২০২৬ সালের সূচকে তিন ধাপ এগিয়ে ১৯৪টি দেশের মধ্যে ৯৭তম অবস্থানে পৌঁছেছে। রাষ্ট্রীয় বার্তা সংস্থা বাসস জানিয়েছে, এবার দেশের ইতিহাসে এখন পর্যন্ত সর্বোচ্চ ইজিডিআই স্কোর অর্জিত হয়েছে।",
-        "details_en": "Bangladesh, which was in the 100th position in the 2024 survey, advanced three steps to reach the 97th position among 194 countries in the 2026 index. State news agency BSS reported that the country achieved its highest EGDI score in history this time.",
-        "hook_bn": "ই-গভর্নমেন্ট সূচকে ৯৭তম বাংলাদেশ",
+        "details_bn": "২০ নভেম্বর বনানীর নৌবাহিনী কেন্দ্রীয় মসজিদে জুমার নামাজ আদায় শেষে প্রধানমন্ত্রী শিশু-কিশোরদের সঙ্গে কিছু সময় কাটান। এ সময় শিশুরা প্রধানমন্ত্রীকে তার জন্মদিন উপলক্ষে শুভেচ্ছা জানায় এবং প্রধানমন্ত্রী তাদের হাতে ক্রীড়া সামগ্রী তুলে দেন। প্রধানমন্ত্রীর উপ প্রেস সচিব সুজাউদ্দৌলা সুজন মাহমুদ জানান, প্রধানমন্ত্রী তাদের সঙ্গে কুশল বিনিময় করেন এবং কে কোন খেলা পছন্দ করে তা জানতে চান।",
+        "details_en": "On Friday 20 November, after offering Jumma prayers at the Banani Navy Central Mosque, the Prime Minister spent some time with the children. At this time, the children greeted the Prime Minister on his birthday, and the Prime Minister handed over sports equipment to them. Deputy Press Secretary Sujauddoula Sujan Mahmud stated that the Prime Minister exchanged pleasantries with them and asked which sports each of them preferred.",
+        "hook_bn": "শিশুদের ক্রীড়া সামগ্রী উপহার দিলেন প্রধানমন্ত্রী",
         "kicker_bn": null,
         "share_value": false,
-        "question_bn": null
+        "question_bn": "শিশুদের মাঝে এমন উপহার বিতরণের বিষয়ে আপনার মতামত কী?"
       },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 5.0,
       "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-20T11:02:51.021405+00:00"
+        "status": "unchecked",
+        "checked_at": "2026-11-20T12:01:48.808499+00:00"
       }
     },
     {
-      "story_id": "d3c5bec2-eb70-57d1-93bd-b700d9c35ae4",
-      "primary_category": "economy_business",
+      "story_id": "7354669b-1cee-5bd1-8041-9fa9b8e9367a",
+      "primary_category": "governance_law",
       "interest_categories": [
+        "governance_law",
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#LEEDCertified",
-        "#GreenFactory",
-        "#Bangladesh"
+        "#Demra",
+        "#DetectiveBranch",
+        "#Dhaka"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/16/rmg_rajib-dhar.png",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/20/db_demra.jpg",
       "image_caption": null,
-      "published_at": "2026-11-20T09:55:00+00:00",
+      "published_at": "2026-11-20T11:10:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.6641,
+      "importance_score": 6.0,
+      "rank_score": 3.4261,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/economy/rmg/bangladesh-crosses-300-leed-certified-green-factory-milestone-1608756",
-          "title": "Bangladesh crosses 300 LEED-certified green factory milestone",
-          "snippet": "Bangladesh crosses 300 LEED-certified green factory milestone"
+          "url": "https://www.tbsnews.net/bangladesh/3-arrested-demra-4-bottles-petrol-2-locally-made-petrol-bombs-1608776",
+          "title": "3 arrested in Demra with 4 bottles of petrol, 2 locally made petrol bombs",
+          "snippet": "3 arrested in Demra with 4 bottles of petrol, 2 locally made petrol bombs"
         },
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/leed-certified-green-factories-surpass-300-in-bangladesh",
-          "title": "LEED-certified green factories surpass 300 in Bangladesh",
-          "snippet": "LEED-certified green factories surpass 300 in Bangladesh"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/crime/425257/three-held-with-petrol-filled-polythene-bombs-in",
+          "title": "Three held with petrol-filled polythene bombs in Demra",
+          "snippet": "Three held with petrol-filled polythene bombs in Demra"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাংলাদেশে লিড-সার্টিফাইড সবুজ কারখানার সংখ্যা ৩০০ ছাড়িয়েছে",
-        "title_en": "Bangladesh crosses 300 LEED-certified green factory milestone",
-        "summary_bn": "যুক্তরাষ্ট্রের ইউএস গ্রিন বিল্ডিং কাউন্সিলের সনদ পেয়ে বাংলাদেশে লিড-সার্টিফাইড সবুজ কারখানার মোট সংখ্যা ৩০২টিতে পৌঁছেছে।",
-        "summary_en": "Bangladesh has crossed the milestone of 300 LEED-certified green factories, reaching a total of 302 facilities.",
+        "title_bn": "ডেমরায় ৩ জন গ্রেপ্তার, পেট্রল বোমা উদ্ধার",
+        "title_en": "Three arrested in Demra with petrol bombs",
+        "summary_bn": "নাশকতার চেষ্টার অভিযোগে রাজধানীর ডেমরা এলাকা থেকে চার বোতল পেট্রল ও দুটি পেট্রল বোমা সহ তিনজনকে গ্রেপ্তার করেছে ঢাকা মেট্রোপলিটন পুলিশের গোয়েন্দা বিভাগ।",
+        "summary_en": "The Detective Branch of Dhaka Metropolitan Police has arrested three people in Demra on suspicion of attempting sabotage, recovering petrol and petrol bombs.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "governance_law",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-20T09:55:00+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের ইউএস গ্রিন বিল্ডিং কাউন্সিলের সনদ পেয়ে বাংলাদেশে লিড-সার্টিফাইড সবুজ কারখানার মোট সংখ্যা ৩০২টিতে পৌঁছেছে।",
-        "lead_en": "Bangladesh has crossed the milestone of 300 LEED-certified green factories, reaching a total of 302 facilities.",
+        "published_at": "2026-11-20T11:10:00+00:00",
+        "lead_bn": "নাশকতার চেষ্টার অভিযোগে রাজধানীর ডেমরা এলাকা থেকে চার বোতল পেট্রল ও দুটি পেট্রল বোমা সহ তিনজনকে গ্রেপ্তার করেছে ঢাকা মেট্রোপলিটন পুলিশের গোয়েন্দা বিভাগ।",
+        "lead_en": "The Detective Branch of Dhaka Metropolitan Police has arrested three people in Demra on suspicion of attempting sabotage, recovering petrol and petrol bombs.",
         "bullets_bn": [
-          "বাংলাদেশ অ্যাপারেল ভয়েসের তথ্য অনুযায়ী, এই কারখানাগুলোর সংখ্যা বর্তমানে বিশ্বয়াপী সর্বোচ্চ।",
-          "নতুন ১২টি সুবিধার মধ্যে ৯টি প্লাটিনাম এবং বাকি ৩টি গোল্ড সনদ অর্জন করেছে।",
-          "৩০২টি সুবিধার মধ্যে ১৩৪টি প্লাটিনাম, ১৪৮টি গোল্ড, ১৬টি সিলভার এবং চারটি সার্টিফাইড রেটিং পেয়েছে।"
+          "গোয়েন্দা কর্মকর্তারা গোপন সংবাদের ভিত্তিতে ডেমরা থানার কোনাবাড়ি এলাকায় অভিযান পরিচালনা করেন।",
+          "গ্রেপ্তারকৃত ব্যক্তিরা হলেন ইলিয়াছ মিয়া, হানিফ হাওলাদার ও সাইফুল ওরফে রিয়াজ, যাদের সবার বয়স ৩৫ বছর।",
+          "অভিযানের সময় আইনশৃঙ্খলা রক্ষাকারী বাহিনী একটি গ্যাস লাইটারও উদ্ধার করেছে।"
         ],
         "bullets_en": [
-          "The country's total number of LEED-certified green factories stands at 302, which is the highest globally according to Bangladesh Apparel Voice.",
-          "Among the 12 newly certified facilities, nine secured Platinum ratings while three received Gold certification.",
-          "Of the 302 facilities, 134 have received Platinum ratings, 148 Gold, 16 Silver and four Certified ratings."
+          "Detective officials conducted a drive in the Konapara area under Demra Police Station acting on a tip-off.",
+          "The arrestees are Ilias Mia, Hanif Hawlader, and Saiful, also known as Riaz, all aged 35.",
+          "Law enforcement officials also recovered a gas lighter during the operation."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ঢাকার ধামরাইয়ের আদি ট্রিমস লিমিটেড ৯৭ পয়েন্ট পেয়ে নতুন তালিকার শীর্ষে রয়েছে। এছাড়া গাজীপুরের ডি অ্যান্ড এস প্রিটি ফ্যাশনস লিমিটেড এবং প্রবৃত্তি অ্যাপারেলস লিমিটেড প্লাটিনাম সনদ অর্জন করেছে। বাংলাদেশের এই কারখানাগুলোর মধ্যে ৫৩টি বিশ্বের সেরা ১০০টি লিড-সার্টিফাইড সবুজ কারখানার অন্তর্ভুক্ত।",
-        "details_en": "Adzi Trims Ltd in Dhamrai topped the latest list with 97 points, earning a Platinum rating. D & S Pretty Fashions Ltd and Probridhi Apparels Ltd also received Platinum certification. Bangladesh is home to 53 of the world's 100 highest-rated LEED-certified green factories.",
-        "hook_bn": "বাংলাদেশে সবুজ কারখানার সংখ্যা ৩০০ ছাড়াল",
+        "details_bn": "ঢাকা মেট্রোপলিটন পুলিশের গোয়েন্দা বিভাগের ওয়ারী বিভিংয়ের উপপুলিশ কমিশনার মোল্লা মোহাম্মদ শাহীন ২০ নভেম্বর এই বিষয়টি নিশ্চিত করেন। তিনি জানান যে গ্রেপ্তারকৃত তিনজন নাশকতার চেষ্টা করছিলেন এবং তাদের বিরুদ্ধে পরবর্তী আইনি ব্যবস্থা প্রক্রিয়াধীন রয়েছে।",
+        "details_en": "Molla Mohammad Shahin, deputy commissioner of the Detective Branch's Wari division, confirmed the matter on 20 November. He stated that the three were trying to carry out sabotage and that further legal action against them is under way.",
+        "hook_bn": "ডেমরায় পেট্রল বোমা সহ তিনজন গ্রেপ্তার",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 5.0,
       "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-20T11:02:51.021405+00:00"
+        "status": "unchecked",
+        "checked_at": "2026-11-20T12:01:48.808499+00:00"
+      }
+    },
+    {
+      "story_id": "1ba91191-372d-572d-ab39-1ab6e3b436df",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness"
+      ],
+      "region": "national",
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": "https://media.channelionline.com/2026/11/south-africa-2.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-11-20T11:14:50+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 2.2029,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/south-africa-odi-t20-squad-lead-sports/",
+          "title": "বাংলাদেশকে আটকাতে ওয়ানডে ও টি-টুয়েন্টিতে কাদের ডাকল সাউথ আফ্রিকা",
+          "snippet": "বাংলাদেশকে আটকাতে ওয়ানডে ও টি-টুয়েন্টিতে কাদের ডাকল সাউথ আফ্রিকা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাংলাদেশের বিপক্ষে ওয়ানডে ও টি-টুয়েন্টি সিরিজের জন্য দল ঘোষণা করেছে সাউথ আফ্রিকা।",
+        "title_en": "South Africa announced squads for the ODI and T20 series against Bangladesh.",
+        "summary_bn": "টেস্ট সিরিজের পর বাংলাদেশের বিপক্ষে আগামী মাসের ওয়ানডে ও টি-টুয়েন্টি সিরিজের জন্য দল ঘোষণা করেছে সাউথ আফ্রিকা।",
+        "summary_en": "South Africa announced squads for the upcoming ODI and T20 series against Bangladesh following the Test series.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T11:14:50+00:00",
+        "lead_bn": "টেস্ট সিরিজের পর বাংলাদেশের বিপক্ষে আগামী মাসের ওয়ানডে ও টি-টুয়েন্টি সিরিজের জন্য দল ঘোষণা করেছে সাউথ আফ্রিকা।",
+        "lead_en": "South Africa announced squads for the upcoming ODI and T20 series against Bangladesh following the Test series.",
+        "bullets_bn": [
+          "ওয়ানডে দলের অধিনায়ক করা হয়েছে কেশব মহারাজকে এবং টি-টুয়েন্টিতে নেতৃত্বে থাকবেন বিয়র্ন ফরচুন।",
+          "নিয়মিত অধিনায়ক টেম্বা বাভুমা প্রথম টেস্টে চোটে পড়ে ছিটকে গেছেন এবং টি-টুয়েন্টির অধিনায়ক এইডেন মার্করামকে বিশ্রাম দেওয়া হয়েছে।",
+          "তিনটি করে ওয়ানডে ও টি-টুয়েন্টি ম্যাচ বিভিন্ন শহরে অনুষ্ঠিত হবে।"
+        ],
+        "bullets_en": [
+          "Keshav Maharaj has been named ODI captain and Bjorn Fortuin will lead the T20 team.",
+          "Regular captain Temba Bavuma was ruled out due to an injury in the first Test and T20 captain Aiden Markram has been rested.",
+          "Three ODI and three T20 matches will be held across different cities."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "দুই ম্যাচের টেস্ট সিরিজে জোহানেসবার্গে প্রথমটিতে ৯ উইকেটে হেরেছে বাংলাদেশ এবং দ্বিতীয় টেস্ট গড়াবে ২৩ নভেম্বর থেকে। প্রোটিয়ারা তিনটি করে ওয়ানডে ও টি-টুয়েন্টির জন্য দল জানিয়েছে। প্রথম ওয়ানডে গম্পো সিটিতে ১ ডিসেম্বর, দ্বিতীয়টি ৪ ডিসেম্বর গেবেরহাতে এবং শেষ ওয়ানডে কেপটাউনে ৭ ডিসেম্বর হবে। টি-টুয়েন্টি ম্যাচগুলো হবে কিম্বার্লি, বেনোনি ও সেঞ্চুরিয়নে।",
+        "details_en": "Bangladesh lost the first of the two-match Test series by 9 wickets in Johannesburg, with the second Test starting on November 23. Proteas announced squads for three ODIs and three T20s. The first ODI will be in Gqeberha on December 1, the second on December 4 in Gqeberha, and the final ODI in Cape Town on December 7. The T20s will take place in Kimberley, Benoni, and Centurion.",
+        "hook_bn": "সাউথ আফ্রিকার বিপক্ষে বাংলাদেশের ওয়ানডে ও টি-টুয়েন্টি সিরিজ",
+        "kicker_bn": "নতুন দল",
+        "share_value": true,
+        "question_bn": "আসন্ন ওয়ানডে ও টি-টুয়েন্টি সিরিজে বাংলাদেশের কেমন করা উচিত বলে আপনার মনে হয়?"
+      },
+      "fact_check": {
+        "status": "unchecked",
+        "checked_at": "2026-11-20T12:01:48.808499+00:00"
+      }
+    },
+    {
+      "story_id": "ef3815e3-e51a-59a9-b037-8961debb48dc",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#EuropeanUnion",
+        "#AndyBurnham",
+        "#Brussels",
+        "#Brexit"
+      ],
+      "image_url": "https://static.dw.com/image/80001113_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-20T11:30:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 3.4,
+      "rank_score": 1.1215,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/eu-and-uk-hold-a-rare-summit-in-bid-to-rebuild-ties/a-80001076?maca=en-rss-en-all-1573-rdf",
+          "title": "EU and UK hold a rare summit in bid to 'rebuild ties'",
+          "snippet": "EU and UK hold a rare summit in bid to 'rebuild ties'"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইউরোপীয় ইউনিয়ন ও যুক্তরাজ্য সম্পর্ক পুনর্গঠনে বিরল শীর্ষ বৈঠকে মিলিত হয়েছে।",
+        "title_en": "EU and UK hold rare summit in bid to rebuild ties.",
+        "summary_bn": "ইউরোপীয় ইউনিয়নের শীর্ষ কর্মকর্তা এবং যুক্তরাজ্যের প্রধানমন্ত্রী অ্যান্ডি বার্নহাম ব্রাসেলস শীর্ষ বৈঠকে বাণিজ্য ও যুব গতিশীলতা চুক্তি ঘোষণা করতে প্রস্তুত ছিলেন।",
+        "summary_en": "European Union top officials and UK Prime Minister Andy Burnham were set to announce deals on trade and youth mobility at the Brussels summit.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T11:30:00+00:00",
+        "lead_bn": "ইউরোপীয় ইউনিয়নের শীর্ষ কর্মকর্তা এবং যুক্তরাজ্যের প্রধানমন্ত্রী অ্যান্ডি বার্নহাম ব্রাসেলস শীর্ষ বৈঠকে বাণিজ্য ও যুব গতিশীলতা চুক্তি ঘোষণা করতে প্রস্তুত ছিলেন।",
+        "lead_en": "European Union top officials and UK Prime Minister Andy Burnham were set to announce deals on trade and youth mobility at the Brussels summit.",
+        "bullets_bn": [
+          "ব্রাসেলসে আলোচনাধীন তিনটি প্রধান চুক্তির মধ্যে খাদ্য রপ্তানি সহজ করা এবং নির্গমন-বাণিজ্য ব্যবস্থা যুক্ত করা অন্তর্ভুক্ত রয়েছে।",
+          "যুক্তরাজ্যে অধ্যয়নরত ইউরোপীয় ইউনিয়নের শিক্ষার্থীদের জন্য টিউশন ফি কমানোর চুক্তি হলে তবেই এই সমঝোতা কার্যকর হবে বলে জানিয়েছে ব্রাসেলস।",
+          "যুক্তরাজ্যের প্রধানমন্ত্রী অ্যান্ডি বার্নহাম বলেছেন যে ইউরোপের সাথে গভীর অংশীদারিত্ব কর্মজীবী মানুষ, ব্রিটেন এবং ইউরোপের জন্য ভালো।"
+        ],
+        "bullets_en": [
+          "Three key agreements under discussion include simplifying food exports and linking emissions-trading systems.",
+          "Brussels said the agreements would take effect only if a deal is reached to lower university tuition fees for EU students in the UK.",
+          "UK Prime Minister Andy Burnham said a closer partnership with Europe is good for working people, Britain and Europe."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ব্রিটেন ইইউ ত্যাগের ভোট দেওয়ার এক দশক পরে সম্পর্ক পুনর্গঠনের এটি প্রথম পদক্ষেপ হতে পারে। প্রধানমন্ত্রী অ্যান্ডি বার্নহাম বলেছেন যে ব্রিটেন ইইউ থেকে অর্জনের চেয়ে বেশি হারিয়েছে।",
+        "details_en": "This might be the first steps to rebuild ties, a decade after Britain voted to leave the EU. Prime Minister Andy Burnham said it was the obvious truth that Britain had lost more than it had gained from Brexit.",
+        "hook_bn": "'আমরা একসঙ্গে শক্তিশালী'",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "ইউরোপের সাথে যুক্তরাজ্যের সম্পর্ক পুনর্গঠন সম্পর্কে আপনার মতামত কী?"
+      },
+      "fact_check": {
+        "status": "unchecked",
+        "checked_at": "2026-11-20T12:01:48.808499+00:00"
+      }
+    },
+    {
+      "story_id": "6af20230-cb09-51f1-b47a-f70287cba5e5",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "tech_innovation",
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#Anthropic",
+        "#AI",
+        "#StockMarket",
+        "#SoftBank"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/4099c293fe0771f309ff9ec3954f9933d234c1a0/272_0_3245_2596/master/3245.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b4a187a4418875abc5ce4bc5ecd3d4ba",
+      "image_caption": null,
+      "published_at": "2026-11-20T10:02:21+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.2577,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "title": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
+          "snippet": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "অ্যানথ্রপিক আইপিও এআই শেয়ারের দরপতন ঠেকাতে ব্যর্থ হওয়ায় বিশ্ব বাজারে ধস",
+        "title_en": "Global markets slump as Anthropic IPO fails to stem AI sell-off",
+        "summary_bn": "অ্যানথ্রপিকের রেকর্ড গড়া আইপিও এআই-সংশ্লিষ্ট কোম্পানির শেয়ার বিক্রি ঠেককাতে ব্যর্থ হওয়ায় বিশ্ব শেয়ার বাজারে ধস নেমেছে।",
+        "summary_en": "Global stock markets have slumped as Anthropic’s record-breaking IPO failed to stem a sell-off in AI-linked companies.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "tech_innovation",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T10:02:21+00:00",
+        "lead_bn": "অ্যানথ্রপিকের রেকর্ড গড়া আইপিও এআই-সংশ্লিষ্ট কোম্পানির শেয়ার বিক্রি ঠেককাতে ব্যর্থ হওয়ায় বিশ্ব শেয়ার বাজারে ধস নেমেছে।",
+        "lead_en": "Global stock markets have slumped as Anthropic’s record-breaking IPO failed to stem a sell-off in AI-linked companies.",
+        "bullets_bn": [
+          "এশীয় শেয়ার বাজার ২০২০ সালের পর থেকে সবচেয়ে খারাপ সপ্তাহের দিকে এগিয়ে যাচ্ছে এবং চিপ কোম্পানির শেয়ার দর হারিয়েছে।",
+          "তাইওয়ানের স্টক এক্সচেঞ্জের প্রধান মূল বাজারের স্থিতিশীলতা নিশ্চিত করার প্রতিশ্রুতি দিয়ে বিনিয়োগকারীদের আশ্বস্ত করেছেন।",
+          "আইজির প্রধান বাজার বিশ্লেষক ক্রিস বিচ্যাম্প বলেছেন অ্যানথ্রপিক বাজারের তারল্য শুষে নিতে পারে।"
+        ],
+        "bullets_en": [
+          "Asian stock markets were on track for their worst week since 2020 as shares in big chip companies fell.",
+          "The chair of Taiwan stock exchange pledged to ensure stable operation of capital markets and reassure investors.",
+          "Chris Beauchamp said Anthropic could be draining market liquidity as investors sell shares to pay for new stock."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "তাইওয়ানে স্টক সূচক ৬.৭ শতাংশ কমে মধ্য এপ্রিলের পর সর্বনিম্ন অবস্থানে পৌঁছেছে এবং টিএসএমসির দর কমেছে প্রায় ৬ শতাংশ। জাপানের নিক্কেই সূচক ৫ শতাংশ এবং দক্ষিণ কোরিয়ার কস্পি সূচক ৫.৫ শতাংশ কমেছে। সফটব্যাংকের শেয়ার টোকিওতে ১৪.৫ শতাংশ কমে দুই বছরেরও বেশি সময়ের মধ্যে সবচেয়ে খারাপ দিন পার করেছে। এর আগে ওয়াল স্ট্রিটে প্রধান সূচকগুলো ২ শতাংশের বেশি কমেছিল এবং অ্যানথ্রপিকের শেয়ার ১৭ শতাংশ বৃদ্ধি পাওয়ার পর কমতে শুরু করেছে।",
+        "details_en": "In Taiwan, stocks dropped 6.7% to hit their lowest point since mid-April with TSMC down about 6%. In Japan, the Nikkei index fell 5% while South Korea's Kospi index lost 5.5%. SoftBank shares fell 14.5% in Tokyo. This followed Wall Street losses where main indices fell over 2% before Anthropic's shares dropped back towards the IPO price.",
+        "hook_bn": "বিশ্ব শেয়ার বাজারে বড় ধস",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "এআই খাতের এই দরপতন বিশ্ব অর্থনীতিতে কেমন প্রভাব ফেলতে পারে বলে আপনার মনে হয়?"
+      },
+      "fact_check": {
+        "status": "unchecked",
+        "checked_at": "2026-11-20T12:01:48.808499+00:00"
       }
     }
   ]
