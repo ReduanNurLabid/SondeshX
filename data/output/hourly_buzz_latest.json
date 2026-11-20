@@ -1,384 +1,315 @@
 {
-  "updated_at": "2026-11-20T14:00:50.393370",
-  "total_stories": 6,
+  "updated_at": "2026-11-20T15:00:49.328144",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "ccd05aa3-ff7b-58fe-980f-4d976da166c3",
+      "story_id": "7baaa6d7-cbd5-5e18-a62d-f7626b2838a9",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business",
+        "tech_innovation"
+      ],
+      "region": "national",
+      "tags": [
+        "#BangladeshVisa",
+        "#Kolkata",
+        "#Siliguri",
+        "#VisaProcessing"
+      ],
+      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_571019ceabe59dd827229edfc84700fd.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-20T15:01:02.443012+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.25,
+      "rank_score": 2.743,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/bangladesh-to-change-visa-operators-in-kolkata-siliguri",
+          "title": "Bangladesh to change visa operators in Kolkata, Siliguri",
+          "snippet": "Bangladesh to change visa operators in Kolkata, Siliguri"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822101/%E0%A7%A9%E0%A7%A6-%E0%A6%A8%E0%A6%AD%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%95%E0%A6%B2%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A6%BE-%E0%A6%B6%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A6%97%E0%A7%81%E0%A7%9C%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%AD%E0%A6%BF%E0%A6%B8%E0%A6%BE",
+          "title": "৩০ নভেম্বরের পর কলকাতা-শিলিগুড়ির বাংলাদেশ ভিসা সেন্টারে আবেদন না করার অনুরোধ",
+          "snippet": "৩০ নভেম্বরের পর কলকাতা-শিলিগুড়ির বাংলাদেশ ভিসা সেন্টারে আবেদন না করার অনুরোধ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কলকাতা ও শিলিগুড়িতে বাংলাদেশের ভিসা সেবা প্রদানকারী প্রতিষ্ঠান পরিবর্তন হচ্ছে",
+        "title_en": "Bangladesh to replace visa service operator in Kolkata and Siliguri",
+        "summary_bn": "আগামী ৩০ নভেম্বর চুক্তি শেষ হওয়ার পর কলকাতা ও শিলিগুড়িতে বাংলাদেশ ভিসার আউটসোর্সিং সেবা প্রদানকারী প্রতিষ্ঠান পরিবর্তন করা হচ্ছে।",
+        "summary_en": "Bangladesh will change its outsourced visa application processing company in Kolkata and Siliguri after the existing contract expires on November 30.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T15:01:02.443012+00:00",
+        "lead_bn": "আগামী ৩০ নভেম্বর চুক্তি শেষ হওয়ার পর কলকাতা ও শিলিগুড়িতে বাংলাদেশ ভিসার আউটসোর্সিং সেবা প্রদানকারী প্রতিষ্ঠান পরিবর্তন করা হচ্ছে।",
+        "lead_en": "Bangladesh will change its outsourced visa application processing company in Kolkata and Siliguri after the existing contract expires on November 30.",
+        "bullets_bn": [
+          "উপহাইকমিশন আবেদনকারীদের ৩০ নভেম্বরের পর ডিইউ ডিজিটাল গ্লোবাল লিমিটেড পরিচালিত কেন্দ্রগুলোতে ভিসার আবেদন জমা না দেওয়ার অনুরোধ জানিয়েছে।",
+          "উপহাইকমিশনার মোহাম্মদ খালেদ জানান, সরকার বর্তমান চুক্তি না বাড়ানোর সিদ্ধান্ত নিয়েছে, তবে এই পরিবর্তনের ফলে ভিসা আবেদনে কোনো ব্যাঘাত ঘটবে না।",
+          "নতুন সেবাদাতা প্রতিষ্ঠানের নাম এবং ভিসা সেন্টারের ঠিকানা আলাদা বিজ্ঞপ্তির মাধ্যমে ঘোষণা করা হবে।"
+        ],
+        "bullets_en": [
+          "The Deputy High Commission in Kolkata advised applicants not to submit visa applications to DU Digital Global Limited after November 30.",
+          "Deputy High Commissioner Mohammed Khaled said the government decided against extending the contract, adding that the move will not disrupt visa processing.",
+          "The name and centre addresses of the new visa processing company will be announced in a separate notice."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "কলকাতা পার্ক সার্কাস এলাকায় বাংলাদেশ মিশনের বাইরে আবেদনকারীদের তীব্র ভিড় সামলাতে ২০২১ সালের ডিসেম্বরে প্রথমবারের মতো বেসরকারি প্রতিষ্ঠানের মাধ্যমে ভিসা প্রসেসিং আউটসোর্সিং শুরু করা হয়। বিদেশে বাংলাদেশের কোনো মিশনের জন্য এটিই ছিল প্রথম এমন ব্যবস্থা।",
+        "details_en": "Bangladesh first outsourced visa processing to a private company in December 2021 to manage heavy crowds and large numbers of applicants outside its mission in Kolkata’s Park Circus area. This marked the first such outsourcing arrangement for Bangladesh’s overseas missions.",
+        "hook_bn": "কলকাতা ও শিলিগুড়িতে পরিবর্তন হচ্ছে ভিসা কেন্দ্র",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": "কলকাতা বা শিলিগুড়িতে বাংলাদেশ ভিসার আবেদন নিয়ে আপনার কোনো অভিজ্ঞতা আছে কি?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T15:11:20.809326+00:00"
+      }
+    },
+    {
+      "story_id": "5eeab67b-10e8-5ba8-9172-aa7ae21f2002",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-20%2Fha1gkj6c%2FJamat-Press-01.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-20T14:57:03+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.25,
+      "rank_score": 2.7325,
+      "sources": [
+        {
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/efvcy0edwq",
+          "title": "সন্ত্রাস ও নাশকতা প্রতিরোধে ঢাকা উত্তর জামায়াতের ১০০ দিনের কর্মসূচি ঘোষণা",
+          "snippet": "সন্ত্রাস ও নাশকতা প্রতিরোধে ঢাকা উত্তর জামায়াতের ১০০ দিনের কর্মসূচি ঘোষণা"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/politics/499558",
+          "title": "ঢাকায় ১০০ দিনের কর্মসূচি ঘোষণা জামায়াতের",
+          "snippet": "ঢাকায় ১০০ দিনের কর্মসূচি ঘোষণা জামায়াতের"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ঢাকা উত্তর জামায়াতের সন্ত্রাস প্রতিরোধে ১০০ দিনের কর্মসূচি ঘোষণা",
+        "title_en": "Dhaka North Jamaat announces 100-day program to prevent terrorism",
+        "summary_bn": "বাংলাদেশ জামায়াতে ইসলামী ঢাকা মহানগরী উত্তর শাখা সন্ত্রাস ও নাশকতা প্রতিরোধ এবং নাগরিক নিরাপত্তা নিশ্চিতে ১০০ দিনের কর্মসূচি ঘোষণা করেছে।",
+        "summary_en": "Bangladesh Jamaat-e-Islami Dhaka North city branch announced a 100-day program to prevent terrorism and ensure citizen security.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T14:57:03+00:00",
+        "lead_bn": "বাংলাদেশ জামায়াতে ইসলামী ঢাকা মহানগরী উত্তর শাখা সন্ত্রাস ও নাশকতা প্রতিরোধ এবং নাগরিক নিরাপত্তা নিশ্চিতে ১০০ দিনের কর্মসূচি ঘোষণা করেছে।",
+        "lead_en": "Bangladesh Jamaat-e-Islami Dhaka North city branch announced a 100-day program to prevent terrorism and ensure citizen security.",
+        "bullets_bn": [
+          "কেন্দ্রীয় সংগঠনের ঘোষিত ৪০ দিনের কর্মসূচির সঙ্গে একাত্মতা প্রকাশ করে এই কর্মসূচি ঘোষণা করা হয়।",
+          "ঢাকা মহানগরী উত্তর জামায়াতের আমির মোহাম্মদ সেলিম উদ্দিন সংবাদ সম্মেলনে কর্মসূচি ঘোষণা করেন।",
+          "আগামী ১ ডিসেম্বর থেকে ফেব্রুয়ারি মাসের শেষ দিন পর্যন্ত প্রতিদিন একটি ওয়ার্ডে নাগরিক সমাবেশ হবে।"
+        ],
+        "bullets_en": [
+          "The program was announced in solidarity with the central organization's announced 40-day program.",
+          "Dhaka North Jamaat Amir Mohammad Selim Uddin announced the program at a press conference.",
+          "Citizen rallies will be held in one ward daily from December 1 until the end of February."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "রাজধানীর মগবাজারের আল ফালাহ মিলনায়তনে আয়োজিত সংবাদ সম্মেলনে জানানো হয় যে নিরাপদ রাজধানী গড়ার দাবিতে এই কর্মসূচি শুরু হবে। সম্প্রতি রাজধানীসহ দেশের বিভিন্ন স্থানে অগ্নিসংযোগ, বোমার বিস্ফোরণ, হামলা, ভাঙচুর ও সংঘর্ষের ঘটনায় জননিরাপত্তা নিয়ে গভীর উদ্বেগ তৈরি হয়েছে বলে উল্লেখ করা হয়।",
+        "details_en": "It was stated at a press conference held at Al Falah Auditorium in Moghbazar, capital, that this program will begin with the demand to build a safe capital. It was mentioned that recent incidents of arson, bomb explosions, attacks, vandalism, and clashes in the capital and various parts of the country have created deep concern regarding public safety.",
+        "hook_bn": "নিরাপদ রাজধানী গড়ার দাবিতে কর্মসূচি ঘোষণা",
+        "kicker_bn": "কর্মসূচি ঘোষণা",
+        "share_value": false,
+        "question_bn": "নাগরিক নিরাপত্তা নিশ্চিত করতে এই ধরনের কর্মসূচি কতখানি কার্যকর ভূমিকা রাখতে পারে বলে আপনি মনে করেন?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T15:11:20.809326+00:00"
+      }
+    },
+    {
+      "story_id": "f783279c-32ad-5914-aee9-2ff08b0ff3e9",
       "primary_category": "society_education",
       "interest_categories": [
-        "society_education"
+        "society_education",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
         "#NationalAffairs"
       ],
-      "image_url": "https://images.unsplash.com/photo-1660795864432-6e63a88bfb40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cHJpbWFyeSUyMHNlY29uZGFyeSUyMGFubnVhbCUyMGV4YW0lMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NTE4MzM2OXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-09-10%2Fzlslsarj%2FFire.jpg?rect=0%2C12%2C599%2C314&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-20T13:03:11+00:00",
+      "published_at": "2026-11-20T14:29:03+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.6271,
+      "importance_score": 5.25,
+      "rank_score": 2.6598,
       "sources": [
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822086/%E0%A7%A8%E0%A7%AA-%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A6%AB%E0%A6%B2-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6-%E0%A6%B8%E0%A7%87%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%87-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%A4%E0%A7%87",
-          "title": "২৪ ডিসেম্বর ফল প্রকাশ, সেদিনই শিক্ষার্থীদের হাতে নতুন বই: শিক্ষামন্ত্রী",
-          "snippet": "২৪ ডিসেম্বর ফল প্রকাশ, সেদিনই শিক্ষার্থীদের হাতে নতুন বই: শিক্ষামন্ত্রী"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "২৪ ডিসেম্বর প্রকাশ হবে প্রাথমিক ও মাধ্যমিকের বার্ষিক পরীক্ষার ফলাফল।",
-        "title_en": "Primary and secondary annual exam results will be published on December 24.",
-        "summary_bn": "প্রাথমিক ও মাধ্যমিক পর্যায়ের শিক্ষার্থীদের বার্ষিক পরীক্ষার ফলাফল আগামী ২৪ ডিসেম্বর প্রকাশ করা হবে বলে জানিয়েছেন শিক্ষামন্ত্রী আ ন ম এহসানুল হক মিলন।",
-        "summary_en": "Education Minister A N M Ehsanul Haque Milan announced that annual exam results for primary and secondary students will be published on December 24.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-20T13:03:11+00:00",
-        "lead_bn": "প্রাথমিক ও মাধ্যমিক পর্যায়ের শিক্ষার্থীদের বার্ষিক পরীক্ষার ফলাফল আগামী ২৪ ডিসেম্বর প্রকাশ করা হবে বলে জানিয়েছেন শিক্ষামন্ত্রী আ ন ম এহসানুল হক মিলন।",
-        "lead_en": "Education Minister A N M Ehsanul Haque Milan announced that annual exam results for primary and secondary students will be published on December 24.",
-        "bullets_bn": [
-          "ফলাফল প্রকাশের দিনই শিক্ষার্থীদের হাতে নতুন শিক্ষাবর্ষের বই তুলে দেওয়া হবে।",
-          "শিক্ষামন্ত্রী আ ন ম এহসানুল হক মিলন এই তথ্য জানিয়েছেন।",
-          "ফলাফল জানার পরপরই পরবর্তী শ্রেণির নতুন বই নিয়ে বাড়ি ফিরতে পারবে শিক্ষার্থীরা।"
-        ],
-        "bullets_en": [
-          "New academic year books will be handed to students on the same day the results are published.",
-          "Education Minister A N M Ehsanul Haque Milan provided this information.",
-          "Students will be able to return home with new books for the next grade immediately after learning their results."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "২০ নভেম্বর বিকেল সাড়ে ৩টার দিকে মুন্সীগঞ্জের গজারিয়া উপজেলার এই ঘোষণা দেওয়া হয়।",
-        "details_en": "This was announced November 20, around 3:30 PM in Gazaria upazila of Munshiganj.",
-        "hook_bn": "২৪ ডিসেম্বর প্রকাশ হবে বার্ষিক পরীক্ষার ফলাফল",
-        "kicker_bn": "নতুন তারিখ",
-        "share_value": true,
-        "question_bn": "আপনার এলাকার শিক্ষার্থীরা কি ২৪ ডিসেম্বর নতুন বই পাওয়ার জন্য প্রস্তুত?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-20T14:04:28.547670+00:00"
-      }
-    },
-    {
-      "story_id": "01108c8e-ba6c-505e-b8ae-bc4aaa530c12",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#BangladeshBank",
-        "#MdMostakurRahman",
-        "#Chattogram"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/10/25/bangladesh_bank_0.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-20T12:35:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.5033,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/bangladesh-bank-plans-fully-floating-exchange-rate-within-month-1608901",
-          "title": "Bangladesh Bank plans fully floating exchange rate within a month",
-          "snippet": "Bangladesh Bank plans fully floating exchange rate within a month"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "এক মাসের মধ্যে সম্পূর্ণ ভাসমান বিনিময় হার চালুর পরিকল্পনা বাংলাদেশ ব্যাংকের",
-        "title_en": "Bangladesh Bank plans fully floating exchange rate within a month",
-        "summary_bn": "বাংলাদেশ ব্যাংক এক মাসের মধ্যে সম্পূর্ণ ভাসমান বিনিময় হার ব্যবস্থা চালুর পরিকল্পনা করছে বলে ২০ নভেম্বর জানিয়েছেন গভর্নর মোস্তাকুর রহমান।",
-        "summary_en": "Bangladesh Bank plans to introduce a fully floating exchange rate system within a month, Governor Md Mostakur Rahman said on 20 November.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-20T12:35:00+00:00",
-        "lead_bn": "বাংলাদেশ ব্যাংক এক মাসের মধ্যে সম্পূর্ণ ভাসমান বিনিময় হার ব্যবস্থা চালুর পরিকল্পনা করছে বলে ২০ নভেম্বর জানিয়েছেন গভর্নর মোস্তাকুর রহমান।",
-        "lead_en": "Bangladesh Bank plans to introduce a fully floating exchange rate system within a month, Governor Md Mostakur Rahman said on 20 November.",
-        "bullets_bn": [
-          "ক্রেতা ও বিক্রেতারা সরাসরি বৈদেশিক মুদ্রার দরদাম ঠিক করতে পারবেন বলে জানিয়েছেন গভর্নর।",
-          "চট্টগ্রামে ব্যবসায়ীদের সঙ্গে মুদ্রানীতি প্রণয়নবিষয়ক এক পরামর্শক সভায় বক্তব্য দেন গভর্নর।",
-          "গত এক দশকে অর্থনৈতিক প্রবৃদ্ধি প্রায় সমান হলেও টাকার অবমূল্যায়ন বেশি হয়েছে বলে জানান তিনি।"
-        ],
-        "bullets_en": [
-          "Buyers and sellers will be able to negotiate foreign currency prices directly, the governor said.",
-          "The governor spoke at a consultation meeting with business leaders in Chattogram to formulate monetary policy.",
-          "He noted that despite nearly identical economic growth over the past decade, the taka depreciated more sharply than the rupee."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "২০২৬-২৭ অর্থবছরের তৃতীয় প্রান্তিকের জন্য মুদ্রানীতি প্রণয়নের লক্ষ্যে চট্টগ্রামে ব্যবসায়ী ও অংশীজনদের সঙ্গে এই পরামর্শক সভা অনুষ্ঠিত হয়। গত এক দশকে ভারতের মোট দেশজ উৎপাদনের প্রবৃদ্ধি ৭২ দশমিক ৪ শতাংশ এবং বাংলাদেশের প্রবৃদ্ধি ৭২ দশমিক ১ শতাংশ ছিল বলে উল্লেখ করা হয়। এই সময়ে ভারতীয় রুপির অবমূল্যায়ন হয়েছে প্রায় ৪০ শতাংশ এবং বাংলাদেশি টাকার অবমূল্যায়ন হয়েছে প্রায় ৬০ শতাংশ। এছাড়া বৈদেশিক মুদ্রার তরলতা ৩০০ মিলিয়ন থেকে ১ বিলিয়ন ডলারে উন্নীত হওয়া এবং ৫১টি ব্যাংকের দীর্ঘ অবস্থান ধরে রাখার পরও বিনিময় হার কেন বাড়ল, তা নিয়ে প্রশ্ন তোলেন গভর্নর।",
-        "details_en": "The consultation meeting was held in Chattogram with business leaders and other stakeholders to formulate monetary policy for the third quarter of the 2026-27 fiscal year. India's cumulative GDP growth over the period stood at 72.4%, compared with 72.1% in Bangladesh, with the rupee weakening by around 40% and Bangladesh's exchange rate depreciating by nearly 60%. The governor also questioned why the exchange rate continued to rise despite foreign currency liquidity increasing from $300 million to $1 billion and 51 banks maintaining long positions.",
-        "hook_bn": "এক মাসের মধ্যে চালু হবে ভাসমান বিনিময় হার",
-        "kicker_bn": "নতুন নীতি",
-        "share_value": true,
-        "question_bn": "সম্পূর্ণ ভাসমান বিনিময় হার চালু হলে বৈদেশিক মুদ্রার বাজারে কী ধরনের প্রভাব পড়তে পারে বলে আপনার মনে হয়?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-20T14:04:28.547670+00:00"
-      }
-    },
-    {
-      "story_id": "7cda3cbf-e76c-5975-a946-8f11e833cdc2",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#India",
-        "#Bangladesh",
-        "#TariqueRahman"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8aW5kaWElMjBkZWNsaW5lcyUyMGNvbW1lbnQlMjBiYW5nbGFkZXNoJTIwZGlwbG9tYWN5fGVufDF8MHx8fDE3OTUxODM0MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-20T13:53:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 4.1857,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/425276/india-declines-comment-on-bangladesh%E2%80%99s-internal",
-          "title": "India declines comment on Bangladesh’s internal affairs",
-          "snippet": "India declines comment on Bangladesh’s internal affairs"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/capital/qp802qv72r",
+          "title": "রাতে ভুল করে চালু রাখেন গ্যাসের চুলা, সকালে আগুন জ্বালাতেই দগ্ধ নারীর মৃত্যু",
+          "snippet": "রাতে ভুল করে চালু রাখেন গ্যাসের চুলা, সকালে আগুন জ্বালাতেই দগ্ধ নারীর মৃত্যু"
         },
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/foreign-policy/india-declines-comment-pm-tariques-remarks-about-als-masters-across-border-1608861",
-          "title": "India declines comment on PM Tarique's remarks about AL's 'masters' across border",
-          "snippet": "India declines comment on PM Tarique's remarks about AL's 'masters' across border"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822088/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%80%E0%A6%A3-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A7%9F%E0%A7%87-%E0%A6%B9%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA-%E0%A6%95%E0%A6%B0%E0%A6%AC%E0%A7%87-%E0%A6%A8%E0%A6%BE",
-          "title": "বাংলাদেশের অভ্যন্তরীণ বিষয়ে হস্তক্ষেপ করবে না ভারত: জয়সওয়াল",
-          "snippet": "বাংলাদেশের অভ্যন্তরীণ বিষয়ে হস্তক্ষেপ করবে না ভারত: জয়সওয়াল"
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/capital/post-1223695/",
+          "title": "রাজধানীর কাঁঠালবাগানে গ্যাস বিস্ফোরণে দগ্ধ ৫, ১ জনের মৃত্যু",
+          "snippet": "রাজধানীর কাঁঠালবাগানে গ্যাস বিস্ফোরণে দগ্ধ ৫, ১ জনের মৃত্যু"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাংলাদেশের অভ্যন্তরীণ বিষয়ে হস্তক্ষেপ করবে না ভারত",
-        "title_en": "India declines comment on Bangladesh internal affairs",
-        "summary_bn": "ভারতের পররাষ্ট্র মন্ত্রণালয় জানিয়েছে, বাংলাদেশর অভ্যন্তরীণ বিষয়ে কোনো ধরনের হস্তক্ষেপ করতে চায় না তারা।",
-        "summary_en": "New Delhi stated that it does not want to interfere in any way in Bangladesh internal affairs.",
+        "title_bn": "রাজধানীর কাঁঠালবাগানে গ্যাসের আগুনে দগ্ধ নারী মারা গেছেন",
+        "title_en": "Woman dies from gas fire burns in Kathalbagan",
+        "summary_bn": "রাজধানীর কাঁঠালবাগান বাজার এলাকার একটি আবাসিক ভবনে গ্যাসের আগুনে দগ্ধ পাঁচজনের মধ্যে মোছা. সাবা নামের এক নারী চিকিৎসাধীন অবস্থায় মারা গেছেন।",
+        "summary_en": "One of the five people burned in a gas fire at a residential building in Kathalbagan has died while undergoing treatment.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "governance_law",
-          "society_education"
+          "society_education",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-20T13:53:00+00:00",
-        "lead_bn": "ভারতের পররাষ্ট্র মন্ত্রণালয় জানিয়েছে, বাংলাদেশর অভ্যন্তরীণ বিষয়ে কোনো ধরনের হস্তক্ষেপ করতে চায় না তারা।",
-        "lead_en": "New Delhi stated that it does not want to interfere in any way in Bangladesh internal affairs.",
+        "published_at": "2026-11-20T14:29:03+00:00",
+        "lead_bn": "রাজধানীর কাঁঠালবাগান বাজার এলাকার একটি আবাসিক ভবনে গ্যাসের আগুনে দগ্ধ পাঁচজনের মধ্যে মোছা. সাবা নামের এক নারী চিকিৎসাধীন অবস্থায় মারা গেছেন।",
+        "lead_en": "One of the five people burned in a gas fire at a residential building in Kathalbagan has died while undergoing treatment.",
         "bullets_bn": [
-          "ভারতের পররাষ্ট্র মন্ত্রণালয়ের মুখপাত্র রণধীর জয়সওয়াল এই মন্তব্য করেন।",
-          "বাংলাদেশের সঙ্গে ইতিবাচক, ভবিষ্যৎমুখী ও গঠনমূলক সম্পর্ক বজায় রাখতে চায় নয়াদিল্লি।",
-          "ভারতের পররাষ্ট্র মন্ত্রণালয়ের সাপ্তাহিক ব্রিফিংয়ে এই কথা জানানো হয়।"
+          "জাতীয় বার্ন ও প্লাস্টিক সার্জারি ইনস্টিটিউটে চিকিৎসাধীন অবস্থায় মারা যান মোছা. সাবা।",
+          "মৃত সাবার দেড় বছর বয়সী সন্তান রেহমানের শরীরের ৫৭ শতাংশ পুড়ে গেছে এবং তার অবস্থাও আশঙ্কাজনক।",
+          "ইনস্টিটিউটের আবাসিক চিকিৎসক সুলতান মাহমুদ শিকদার সাবার মৃত্যুর বিষয়টি নিশ্চিত করেছেন।"
         ],
         "bullets_en": [
-          "Indian Ministry of External Affairs spokesperson Randhir Jaiswal made the comment.",
-          "New Delhi wants to maintain positive, forward-looking, and constructive relations with Bangladesh.",
-          "This was stated during the weekly briefing of the Indian Ministry of External Affairs on Friday."
+          "Mosa. Saba died while undergoing treatment at the National Institute of Burn and Plastic Surgery.",
+          "The 1.5-year-old child of the deceased, Rehan, has 57 percent burns and is in critical condition.",
+          "Resident physician Sultan Mahmud Sikdar of the institute confirmed the death of Saba."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "প্রধানমন্ত্রী তারিক রহমানের এই অভিযোগের বিষয়ে প্রতিক্রিয়া জানতে চাইলে মুখপাত্র এই মন্তব্য করেন যে, আওয়ামী লীগের বিক্ষোভগুলো সীমান্তপারের প্রভুরা পরিচালনা করেছিলেন। ভারত জানিয়েছে তারা shared history এবং cultural values-এর ওপর ভিত্তি করে বাংলাদেশের সঙ্গে একটি constructive relationship চায়।",
-        "details_en": "When asked for a reaction regarding Prime Minister Tarique Rahman's allegation that Awami League protests were directed by masters across the border, the spokesperson made these remarks. India stated it wants a constructive relationship with Bangladesh rooted in shared history and cultural values.",
-        "hook_bn": "অভ্যন্তরীণ বিষয়ে হস্তক্ষেপ করবে না ভারত",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-20T14:04:28.547670+00:00"
-      }
-    },
-    {
-      "story_id": "cd674b6f-3df6-5ec5-908b-687778044f58",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Dengue",
-        "#DGHS"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1565711111920-4a502b43a54e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bW9yZSUyMGRpZSUyMGhvc3BpdGFsaXNlZCUyMGRlbmd1ZSUyMGVkdWNhdGlvbnxlbnwxfDB8fHwxNzk1MTgzNDI1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-20T13:19:15+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.7462,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/health/425270/dengue-3-more-die-1-347-hospitalised-in-24hrs",
-          "title": "Dengue: 3 more die, 1,347 hospitalised in 24hrs",
-          "snippet": "Dengue: 3 more die, 1,347 hospitalised in 24hrs"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/3-more-deaths-from-dengue-4/",
-          "title": "ডেঙ্গুতে আরও ৩ জনের মৃত্যু",
-          "snippet": "ডেঙ্গুতে আরও ৩ জনের মৃত্যু"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ডেঙ্গুতে আরও তিনজনের মৃত্যু ও ১,৩৪৭ জন হাসপাতালে ভর্তি",
-        "title_en": "3 more die and 1,347 hospitalised with dengue",
-        "summary_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, দেশে গত ২৪ ঘণ্টায় ডেঙ্গুতে আক্রান্ত হয়ে আরও তিনজনের মৃত্যু হয়েছে এবং ১ হাজার ৩৪৭ জন হাসপাতালে ভর্তি হয়েছেন।",
-        "summary_en": "According to the Directorate General of Health Services, 3 more people died and 1,347 were hospitalised with dengue nationwide in 24 hours.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-20T13:19:15+00:00",
-        "lead_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, দেশে গত ২৪ ঘণ্টায় ডেঙ্গুতে আক্রান্ত হয়ে আরও তিনজনের মৃত্যু হয়েছে এবং ১ হাজার ৩৪৭ জন হাসপাতালে ভর্তি হয়েছেন।",
-        "lead_en": "According to the Directorate General of Health Services, 3 more people died and 1,347 were hospitalised with dengue nationwide in 24 hours.",
-        "bullets_bn": [
-          "বিজ্ঞপ্তির তথ্য অনুযায়ী, এই মৃত্যুর পর চলতি বছর ডেঙ্গুতে মোট মৃতের সংখ্যা বেড়ে ৫১৩ জনে দাঁড়িয়েছে।",
-          "স্বাস্থ্য অধিদপ্তর সংবাদ বিজ্ঞপ্তির মাধ্যমে এই তথ্য জানিয়েছে।",
-          "তথ্য অনুযায়ী, গত ২৪ ঘণ্টায় নতুন করে হাসপাতালে ভর্তি হওয়া রোগীর সংখ্যা ১ হাজার ৩৪৭ জন।"
-        ],
-        "bullets_en": [
-          "Following these deaths, the total death toll from dengue this year has risen to 513.",
-          "The Directorate General of Health Services released this information through a press release.",
-          "According to the data, the number of newly hospitalised patients in 24 hours is 1,347."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "ডেঙ্গুতে আরও তিনজনের মৃত্যু",
+        "details_bn": "প্রতিবেশীদের ভাষ্য অনুযায়ী, আগের রাতে রান্নার জন্য চুলা চালু করা হলেও গ্যাস না থাকায় রান্না করা সম্ভব হয়নি এবং পরে চুলা বন্ধ করতে ভুলে যান বাসার লোকজন। রাতের কোনো এক সময় গ্যাস সরবরাহ শুরু হয়ে ঘরের মধ্যে ছড়িয়ে পড়ে এবং পরদিন সকালে চুলা জ্বালাতে গেলে আগুন ধরে যায়। এই ঘটনায় এক শিশুসহ পাঁচজন দগ্ধ হন, যাদের মধ্যে আবদুর রহমান, সানজিদা ও সামসুন নাহার চিকিৎসাধীন আছেন।",
+        "details_en": "According to neighbors, the stove was left on the previous night for cooking, but without gas, it was not possible, and people forgot to turn off the stove. Gas spread into the room when supply resumed at night, and a fire broke out when trying to light the stove in the morning, burning five people including a child.",
+        "hook_bn": "কাঁঠালবাগানে গ্যাসের আগুনে দগ্ধ নারী মৃত",
         "kicker_bn": "সতর্কতা",
-        "share_value": false,
+        "share_value": true,
         "question_bn": null
       },
-      "desk_importance": 6.0,
+      "desk_importance": 5.0,
       "outlet_count": 2,
       "trending": false,
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-20T14:04:28.547670+00:00"
+        "checked_at": "2026-11-20T15:11:20.809326+00:00"
       }
     },
     {
-      "story_id": "e5be057d-4155-535a-ab2a-196a1ec0e105",
-      "primary_category": "world_diplomacy",
+      "story_id": "f019ea4d-a9ef-5d4c-80d7-1be890285270",
+      "primary_category": "society_education",
       "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
+        "society_education",
+        "economy_business",
+        "governance_law",
+        "world_diplomacy"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#Myanmar",
-        "#InternationalCourtOfJustice",
-        "#Rohingya",
-        "#Gambia"
+        "#WorldChildrensDay",
+        "#Unicef"
       ],
-      "image_url": "https://th-i.thgim.com/public/incoming/2mp01d/article71723802.ece/alternates/LANDSCAPE_1200/AP11_19_2026_000336B.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/08/3577813.jpg",
       "image_caption": null,
-      "published_at": "2026-11-20T09:21:15+00:00",
+      "published_at": "2026-11-20T14:10:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 2.9791,
+      "importance_score": 5.25,
+      "rank_score": 2.6115,
       "sources": [
         {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/myanmar-calls-icj-ruling-on-genocide-unfair/article71723709.ece",
-          "title": "Myanmar calls ICJ ruling on genocide 'unfair'",
-          "snippet": "Myanmar calls ICJ ruling on genocide 'unfair'"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/world-childrens-day-today-1608966",
+          "title": "World Children's Day today",
+          "snippet": "World Children's Day today"
         },
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/rohingya-genocide-verdict-unjust-says-myanmar/",
-          "title": "রোহিঙ্গা গণহত্যার রায়কে ‘অন্যায্য’ বলল মিয়ানমার",
-          "snippet": "রোহিঙ্গা গণহত্যার রায়কে ‘অন্যায্য’ বলল মিয়ানমার"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1181766",
-          "title": "রোহিঙ্গা গণহত্যা মামলায় আইসিজের রায় ‘অন্যায্য’: মিয়ানমার",
-          "snippet": "রোহিঙ্গা গণহত্যা মামলায় আইসিজের রায় ‘অন্যায্য’: মিয়ানমার"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425279/unicef-launches-%E2%80%98chain-of-hope%E2%80%99-campaign-for-60m",
+          "title": "UNICEF launches ‘Chain of Hope’ campaign for 60m children",
+          "snippet": "UNICEF launches ‘Chain of Hope’ campaign for 60m children"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মিয়ানমার আন্তর্জাতিক বিচার আদালতের রোহিঙ্গা গণহত্যা রায়কে অন্যায্য বলল",
-        "title_en": "Myanmar calls International Court of Justice Rohingya genocide ruling unfair",
-        "summary_bn": "মিয়ানমার সরকারের এক কর্মকর্তা ২০ নভেম্বর ২০২৬ তারিখে জানিয়েছেন, দেশটির নিরাপত্তা বাহিনী রাষ্ট্রীয়ভাবে গণহত্যা চালিয়েছে মর্মে জাতিসংঘের সর্বোচ্চ আদালতের রায়টি অন্যায্য ছিল।",
-        "summary_en": "A Government official said on November 20, 2026, that a ruling by the United Nations' highest court finding Myanmar conducted state-sponsored genocide was unfair.",
+        "title_bn": "বিশ্ব শিশু দিবস পালিত হচ্ছে এবং শিশু অধিকার রক্ষার আহ্বান জানানো হয়েছে",
+        "title_en": "World Children's Day is observed with calls to uphold children's rights",
+        "summary_bn": "২০ নভেম্বর বিশ্ব শিশু দিবস পালিত হচ্ছে এবং শিশুদের অধিকার রক্ষা ও তাদের কথা শোনার আহ্বান জানানো হয়েছে।",
+        "summary_en": "World Children's Day is observed on 20 November with renewed calls to listen to children and uphold their rights.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
+          "society_education",
+          "economy_business",
+          "governance_law",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-20T09:21:15+00:00",
-        "lead_bn": "মিয়ানমার সরকারের এক কর্মকর্তা ২০ নভেম্বর ২০২৬ তারিখে জানিয়েছেন, দেশটির নিরাপত্তা বাহিনী রাষ্ট্রীয়ভাবে গণহত্যা চালিয়েছে মর্মে জাতিসংঘের সর্বোচ্চ আদালতের রায়টি অন্যায্য ছিল।",
-        "lead_en": "A Government official said on November 20, 2026, that a ruling by the United Nations' highest court finding Myanmar conducted state-sponsored genocide was unfair.",
+        "published_at": "2026-11-20T14:10:00+00:00",
+        "lead_bn": "২০ নভেম্বর বিশ্ব শিশু দিবস পালিত হচ্ছে এবং শিশুদের অধিকার রক্ষা ও তাদের কথা শোনার আহ্বান জানানো হয়েছে।",
+        "lead_en": "World Children's Day is observed on 20 November with renewed calls to listen to children and uphold their rights.",
         "bullets_bn": [
-          "সরকারের মুখপাত্র খাইং খাইং সো জানিয়েছেন, সিদ্ধান্তটি সর্বসম্মত ছিল না এবং মিয়ানমারকে অন্যায়ভাবে অভিযুক্ত করা হয়েছে।",
-          "আন্তর্জাতিক বিচার আদালতের এই রায়টি ছিল প্রথম কোনো রাষ্ট্রকে গণহত্যার দায়ে দায়ী করার ঘটনা।",
-          "গাম্বিয়ার দায়ের করা মামলাটি সাত বছর পর এই রায়ের মাধ্যমে নিষ্পত্তি হলো।"
+          "চলতি বছরের প্রতিপাদ্য হলো আমার দিন, আমার অধিকার, আমার ভবিষ্যৎ।",
+          "ইউনিসেফ ৬০ মিলিয়ন শিশুর জন্য চেন অব হোপ ক্যাম্পেইন চালু করেছে।",
+          "বাংলাদেশ শিশু নির্যাতন বন্ধে আইনি সংস্কার ও শক্তিশালী ব্যবস্থার প্রতিশ্রুতি দিয়েছে।"
         ],
         "bullets_en": [
-          "Government spokesperson Khaing Khaing Soe said the decision was not unanimous and Myanmar had been unjustly accused.",
-          "The International Court of Justice ruling was the first time the court has held a State responsible for genocide.",
-          "The decision came seven years after the case was filed by Gambia."
+          "This year's theme is My Day, My Rights, My Future.",
+          "Unicef launched the Chain of Hope campaign focusing on 60m children.",
+          "Bangladesh pledged stronger action and legal reforms to end violence against children."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "নাৎসি হলোকাস্টের পর এটি চতুর্থ আন্তর্জাতিক আদালতের রায় যেখানে গণহত্যার আইনি মানদণ্ড পূরণ হয়েছে বলে রায় দেওয়া হলো। মামলাটি মূলত দায়ের করেছিল প্রধানত মুসলিম দেশ গাম্বিয়া। রাজধানী নেপিদোতে আয়োজিত এক সংবাদ সম্মেলনে মিয়ানমারের সরকারি মুখপাত্র এই মন্তব্য করেন।",
-        "details_en": "It was the fourth time since the Nazi Holocaust that an international court ruled that the legal threshold to prove genocide had been met. The case was filed by predominantly Muslim Gambia seven years ago. The Government spokesperson made the remarks at a press conference in the capital Naypyitaw.",
-        "hook_bn": "আমাদের দেশকে অন্যায়ভাবে অভিযুক্ত করা হয়েছে",
-        "kicker_bn": "রায় ঘোষণা",
+        "details_bn": "এই দিনটি ১৯৫৯ সালে জাতিসংঘের সাধারণ পরিষদে শিশু অধিকার ঘোষণা এবং ১৯৮৯ সালে শিশু অধিকার সনদ গ্রহণের বার্ষিকী স্মরণ করে। ইউনিসেফ এবং এর অংশীদাররা শিশুদের অধিকার সম্পর্কে সচেতনতা বাড়াতে বিশ্বজুড়ে কার্যক্রমের আয়োজন করে। সনদে স্বীকৃতি অনুযায়ী শিশুদের জীবন, স্বাস্থ্য, শিক্ষা, খেলাধুলা এবং বৈষম্য থেকে সুরক্ষার অধিকার রয়েছে।",
+        "details_en": "The day marks the anniversaries of the adoption of the Declaration of the Rights of the Child in 1959 and the Convention on the Rights of the Child in 1989. Unicef and its partners organise activities globally to raise awareness. The Convention recognizes children's rights to life, health, education, play, and protection.",
+        "hook_bn": "শিশু নির্যাতন বন্ধে বাংলাদেশের প্রতিশ্রুতি",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 6.0,
-      "outlet_count": 3,
+      "desk_importance": 5.0,
+      "outlet_count": 2,
       "trending": false,
-      "social_appeal": 6.0,
+      "social_appeal": 4.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-20T14:04:28.547670+00:00"
+        "checked_at": "2026-11-20T15:11:20.809326+00:00"
       }
     },
     {
-      "story_id": "70c3ec37-4df0-5a5c-a6ff-3d93459195d6",
+      "story_id": "a65881a3-c947-5ad3-bdcd-1b7d7ca49560",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business",
@@ -386,35 +317,28 @@
       ],
       "region": "national",
       "tags": [
-        "#Savar",
-        "#GarmentWorkers",
-        "#Police"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/09/01/1660100471-four-arrested-with-hoarded-diesel-stock-l.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-20%2Fxqpar6op%2F856ed223-f215-40c1-bb78-0b6f98f29b69.jpg?rect=0%2C110%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-20T12:35:00+00:00",
+      "published_at": "2026-11-20T14:44:15+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.59,
+      "importance_score": 5.0,
+      "rank_score": 2.4481,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/2-labour-leaders-arrested-savar-factory-vandalism-case-naming-1200-unidentified-people",
-          "title": "2 labour leaders arrested in Savar factory vandalism case naming at least 1,200 unidentified people",
-          "snippet": "2 labour leaders arrested in Savar factory vandalism case naming at least 1,200 unidentified people"
-        },
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/two-garment-labour-leaders-arrested-over-factory-attack-savar-4328926",
-          "title": "Two garment labour leaders arrested over factory attack in Savar",
-          "snippet": "Two garment labour leaders arrested over factory attack in Savar"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/business/bank/vowrpckbpu",
+          "title": "এসএমই খাতে ব্যাংকের ৩৫% বিনিয়োগ চান গভর্নর",
+          "snippet": "এসএমই খাতে ব্যাংকের ৩৫% বিনিয়োগ চান গভর্নর"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সাভারের কারখানা ভাঙচুরের ঘটনায় দুই শ্রমিক নেতা গ্রেপ্তার",
-        "title_en": "Two labour leaders arrested over Savar factory vandalism",
-        "summary_bn": "সাভারে একটি পোশাক কারখানায় হামলা ও লুটপাটের ঘটনায় দুই শ্রমিক নেতাকে গ্রেপ্তার করেছে পুলিশ।",
-        "summary_en": "Police have arrested two labour leaders in connection with a factory attack and looting in Savar.",
+        "title_bn": "এসএমই খাতে ব্যাংকের ৩৫ শতাংশ বিনিয়োগ চাইলেন গভর্নর",
+        "title_en": "Governor wants 35 percent bank investment in SME sector",
+        "summary_bn": "বাংলাদেশ ব্যাংকের গভর্নর মো. মোস্তাকুর রহমান আগামী বছরের মধ্যে বাণিজ্যিক ব্যাংকগুলোর মোট বিনিয়োগের ৩৫ শতাংশ এসএমই খাতে করার কথা জানিয়েছেন।",
+        "summary_en": "Bangladesh Bank Governor Md. Mostakur Rahman said commercial banks must make 35 percent of their total investment in the SME sector by next year.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -422,35 +346,35 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-20T12:35:00+00:00",
-        "lead_bn": "সাভারে একটি পোশাক কারখানায় হামলা ও লুটপাটের ঘটনায় দুই শ্রমিক নেতাকে গ্রেপ্তার করেছে পুলিশ।",
-        "lead_en": "Police have arrested two labour leaders in connection with a factory attack and looting in Savar.",
+        "published_at": "2026-11-20T14:44:15+00:00",
+        "lead_bn": "বাংলাদেশ ব্যাংকের গভর্নর মো. মোস্তাকুর রহমান আগামী বছরের মধ্যে বাণিজ্যিক ব্যাংকগুলোর মোট বিনিয়োগের ৩৫ শতাংশ এসএমই খাতে করার কথা জানিয়েছেন।",
+        "lead_en": "Bangladesh Bank Governor Md. Mostakur Rahman said commercial banks must make 35 percent of their total investment in the SME sector by next year.",
         "bullets_bn": [
-          "গ্রেপ্তারকৃতরা হলেন পোশাক শ্রমিক ঐক্য ফোরামের সাভার উপজেলা কমিটির সভাপতি ইমদাদুল ইসলাম এমদাদ ও সদস্য দুলাল মিয়া।",
-          "সাভার মডেল থানার ভারপ্রাপ্ত কর্মকর্তা সাইফুল আলম জানান, সাভার পৌরসভার কাట్లপুরে সংগঠনের কার্যালয় থেকে তাদের গ্রেপ্তার করা হয়।",
-          "তদন্তকারীরা ঘটনার সাথে তাদের সম্পৃক্ততার প্রমাণ পাওয়ার পর তাদের আদালতে পাঠানো হয়েছে।"
+          "গভর্নর আগামী বছরের মধ্যে রিটেইল বা খুচরা ব্যাংকিং খাতে ২০ শতাংশ বিনিয়োগ করার কথা জানিয়েছেন।",
+          "তিনি করপোরেট খাতে ব্যাংকের বিনিয়োগের অংশ ৪০ শতাংশের মধ্যে নামিয়ে আনার ওপর জোর দেন।",
+          "ব্যবসায়ীনেতারা উৎপাদন ব্যয় কমাতে ঋণের সুদহার কমানোর পরামর্শ দেন।"
         ],
         "bullets_en": [
-          "The arrestees are Imdadul Islam Emdad, president of the Savar upazila committee of Garment Workers Unity Forum, and Dulal Mia.",
-          "Savar Model Police Station Officer-in-Charge Saiful Alam said the two were arrested from the organisation's upazila office in Katlapur.",
-          "The two labour leaders were sent to court after investigators found evidence linking them to the incident."
+          "The governor stated that 20 percent investment should be made in the retail banking sector by next year.",
+          "He emphasized reducing the share of banks' corporate sector investment to 40 percent.",
+          "Business leaders advised reducing loan interest rates to lower production costs."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "১ নভেম্বর সাভারের হেমায়েতপুর বাসস্ট্যান্ডের কাছে এ কে এইচ গ্রুপের একটি কারখানায় হামলা, ভাঙচুর ও লুটপাট চালানো হয়। এই ঘটনায় অন্তত ১ হাজার ২০০ অজ্ঞাতনামা ব্যক্তির বিরুদ্ধে কারখানা কর্তৃপক্ষ মামলা দায়ের করে।",
-        "details_en": "An AKH Group factory near Hemayetpur bus stand in Savar was attacked, vandalised and looted on 1 November. Factory authorities filed a case against at least 1,200 unidentified people over the incident.",
-        "hook_bn": "সাভারে কারখানা ভাঙচুরে দুই শ্রমিক নেতা গ্রেপ্তার",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
+        "details_bn": "চলতি ২০২৬-২৭ অর্থবছরের তৃতীয় ত্রৈমাসিকের মুদ্রানীতি সামনে রেখে বাংলাদেশ ব্যাংকের চট্টগ্রাম কার্যালয়ে এই মতবিনিময় সভা অনুষ্ঠিত হয়। সভায় ব্যবসায়ীনেতারা ডলারের বিপরীতে টাকার বিনিময় হার স্থিতিশীল রাখার দাবি করেন এবং জ্বালানিসংকটে উৎপাদন ব্যয় বৃদ্ধির কথা জানান। জবাবে গভর্নর মূল্যস্ফীতি কমাতে উৎপাদন বৃদ্ধির পাশাপাশি বাজারে পণ্যের সরবরাহ বাড়াতে ৬০ হাজার কোটি টাকার প্রণোদনা প্যাকেজ চলতি অর্থবছরেই ছাড়ে জোর দেন। এছাড়া পাচার হওয়া অর্থ ফেরাতে কাজ চলছে বলে তিনি জানান।",
+        "details_en": "This exchange meeting was held at the Bangladesh Bank Chattogram office ahead of the monetary policy for the third quarter of the current fiscal year 2026-27. Business leaders at the meeting demanded stabilization of the exchange rate of the taka against the dollar and mentioned the increase in production costs due to the energy crisis. In response, the governor emphasized the disbursement of the 60,000 crore taka stimulus package within the current fiscal year to increase production and market supply to reduce inflation. He also mentioned that work is underway to recover laundered money.",
+        "hook_bn": "এসএমই খাতে ব্যাংকের ৩৫ শতাংশ বিনিয়োগ চান গভর্নর",
+        "kicker_bn": "বাংলাদেশ ব্যাংক",
+        "share_value": true,
+        "question_bn": "ব্যাংক খাতের এই নতুন বিনিয়োগ লক্ষ্যমাত্রা অর্থনীতিতে কী ধরনের প্রভাব ফেলতে পারে বলে আপনি মনে করেন?"
       },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
+      "desk_importance": 5.0,
+      "outlet_count": 1,
       "trending": false,
-      "social_appeal": 6.0,
+      "social_appeal": 4.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-20T14:04:28.547670+00:00"
+        "checked_at": "2026-11-20T15:11:20.809326+00:00"
       }
     }
   ]
