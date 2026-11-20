@@ -1,315 +1,321 @@
 {
-  "updated_at": "2026-11-20T08:00:43.762420",
+  "updated_at": "2026-11-20T09:00:48.483636",
   "total_stories": 4,
   "stories": [
     {
-      "story_id": "c32b70df-add2-549c-aa68-a3918498b94c",
-      "primary_category": "economy_business",
+      "story_id": "be901743-05b6-5fc6-9d08-b621d79f668c",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "economy_business",
+        "governance_law",
         "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#BGMEA",
-        "#CPD",
-        "#RMG",
-        "#MahmudHasanKhan"
+        "#BGB",
+        "#BSF",
+        "#Meherpur",
+        "#Border"
       ],
-      "image_url": "https://images.unsplash.com/photo-1722871513349-45c61ed6aa5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZmluYW5jZSUyMGVjb25vbXklMjBiYW5nbGFkZXNofGVufDF8MHx8fDE3OTUxNjE2OTh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1693585172757-b9e057feb878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFybGlhbWVudCUyMGxhdyUyMGNvdXJ0JTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1MTY1Mjg5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-20T08:00:58.166998+00:00",
+      "published_at": "2026-11-20T08:06:01+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 5.2545,
+      "importance_score": 6.75,
+      "rank_score": 4.3198,
       "sources": [
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/bgmea-questions-cpds-wage-proposal-for-rmg-sector",
-          "title": "BGMEA expresses concerns over CPD's wage proposal for RMG sector",
-          "snippet": "BGMEA expresses concerns over CPD's wage proposal for RMG sector"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425235/bgb-foils-bsf-attempt-to-push-in-4-through",
+          "title": "BGB foils BSF attempt to push in 4 through Meherpur border",
+          "snippet": "BGB foils BSF attempt to push in 4 through Meherpur border"
+        },
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/gy2o6etosu",
+          "title": "মেহেরপুর সীমান্তে চারজনকে ঠেলে পাঠানোর চেষ্টা, বিজিবির বাধায় ফেরত নিল বিএসএফ",
+          "snippet": "মেহেরপুর সীমান্তে চারজনকে ঠেলে পাঠানোর চেষ্টা, বিজিবির বাধায় ফেরত নিল বিএসএফ"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/law-order/bgb-foils-bsf-attempt-push-four-people-through-meherpur-border-1608696",
+          "title": "BGB foils BSF attempt to push in four people through Meherpur border",
+          "snippet": "BGB foils BSF attempt to push in four people through Meherpur border"
         },
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/economy/news/1181638",
-          "title": "সিপিডির মজুরি প্রস্তাবে ‘অসঙ্গতি’, আরও স্বচ্ছ পরামর্শ চায় বিজিএমইএ",
-          "snippet": "সিপিডির মজুরি প্রস্তাবে ‘অসঙ্গতি’, আরও স্বচ্ছ পরামর্শ চায় বিজিএমইএ"
+          "url": "https://www.jagonews24.com/country/news/1181652",
+          "title": "বৈরী আবহাওয়ায় ২০ জনকে পুশ-ইনের চেষ্টা, রুখে দিল বিজিবি",
+          "snippet": "বৈরী আবহাওয়ায় ২০ জনকে পুশ-ইনের চেষ্টা, রুখে দিল বিজিবি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সিপিডির পোশাক খাতের মজুরি প্রস্তাবে বিজিএমইএর অসন্তোষ প্রকাশ",
-        "title_en": "BGMEA expresses concerns over CPD wage proposal for RMG sector",
-        "summary_bn": "পোশাক খাতের জন্য সেন্টার ফর পলিসি ডায়ালগের প্রস্তাবিত ন্যূনতম মজুরি নিয়ে পদ্ধতিগত ও অর্থনৈতিক উদ্বেগ জানিয়েছে বিজিএমইএ।",
-        "summary_en": "The BGMEA has raised methodological and economic concerns over the Centre for Policy Dialogue’s recent minimum wage proposal for the RMG sector.",
+        "title_bn": "মেহেরপুর সীমান্তে চারজনকে পুশ-ইনের চেষ্টা রুখে দিল বিজিবি",
+        "title_en": "BGB foils BSF attempt to push four people through Meherpur border",
+        "summary_bn": "মেহেরপুরের সীমান্ত দিয়ে চারজনকে বাংলাদেশে ঠেলে পাঠানোর ভারতীয় সীমান্তরক্ষী বাহিনীর চেষ্টা বিজিবি ব্যর্থ করে দিয়েছে।",
+        "summary_en": "The Border Guard Bangladesh foiled an attempt by the Indian Border Security Force to push four men into Bangladesh.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
+          "governance_law",
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-20T08:00:58.166998+00:00",
-        "lead_bn": "পোশাক খাতের জন্য সেন্টার ফর পলিসি ডায়ালগের প্রস্তাবিত ন্যূনতম মজুরি নিয়ে পদ্ধতিগত ও অর্থনৈতিক উদ্বেগ জানিয়েছে বিজিএমইএ।",
-        "lead_en": "The BGMEA has raised methodological and economic concerns over the Centre for Policy Dialogue’s recent minimum wage proposal for the RMG sector.",
+        "published_at": "2026-11-20T08:06:01+00:00",
+        "lead_bn": "মেহেরপুরের সীমান্ত দিয়ে চারজনকে বাংলাদেশে ঠেলে পাঠানোর ভারতীয় সীমান্তরক্ষী বাহিনীর চেষ্টা বিজিবি ব্যর্থ করে দিয়েছে।",
+        "lead_en": "The Border Guard Bangladesh foiled an attempt by the Indian Border Security Force to push four men into Bangladesh.",
         "bullets_bn": [
-          "সিপিডি পোশাক শ্রমিকদের নতুন এন্ট্রি-লেভেল ন্যূনতম মাসিক মজুরি ১৮,৫৭৮ থেকে ২৪,২০৪ টাকা করার আহ্বান জানিয়েছে।",
-          "বিজিএমইএ সভাপতি মাহমুদ হাসান খান সিপিডির নির্বাহী পরিচালক ড. নাজনীন আহমেদকে একটি চিঠি পাঠিয়েছেন।",
-          "জি-স্কপও পোশাক শ্রমিকদের জন্য সিপিডির প্রস্তাবিত ন্যূনতম মজুরি প্রত্যাখ্যান করেছে।"
+          "রংমহল সীমান্ত আউটপোস্টের এলাকার একটি ঘটনায় এই পুশ-ইনের চেষ্টা চালানো হয়।",
+          "কুষ্টিয়া ব্যাটালিয়ন (৪৭ বিজিবি) এর অধীন এই ঘটনা ঘটে।",
+          "বিজিবির বাধায় সাড়ে পাঁচ ঘণ্টা পর চারজনকে ফেরত নেয় বিএসএফ।"
         ],
         "bullets_en": [
-          "CPD called on stakeholders to negotiate a new entry-level minimum wage ranging from Tk 18,578 to Tk 24,204.",
-          "BGMEA President Mahmud Hasan Khan sent a letter to CPD Executive Director Dr Nazneen Ahmed.",
-          "G-SCOP also rejected CPD's proposed minimum wage for RMG workers."
+          "The push-in attempt took place in the area under the jurisdiction of Rangmahal Border Outpost.",
+          "The incident occurred under the jurisdiction of Kushtia Battalion (47 BGB).",
+          "The BSF took them back after five and a half hours due to BGB's obstruction."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "সিপিডি গত ১৮ নভেম্বর পোশাক খাতের ন্যূনতম মজুরি নিয়ে একটি উপস্থাপনা করে। এর পরিপ্রেক্ষিতে বিজিএমইএ চিঠিতে পরিবার ও উপার্জনকারী ব্যক্তিগণের হিসাব, আঞ্চলিক দারিদ্র্যসীমা এবং আবাসন খরচ গণনায় অসঙ্গতির কথা তুলে ধরেছে।",
-        "details_en": "CPD made a presentation on RMG minimum wages on November 18. In response, BGMEA pointed out discrepancies regarding family and earner estimates, regional poverty lines, and housing cost calculations in the letter.",
-        "hook_bn": "পোশাক খাতের নতুন মজুরি প্রস্তাবে বিজিএমইএর অসঙ্গতির অভিযোগ",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-20T08:02:36.210446+00:00"
-      }
-    },
-    {
-      "story_id": "ffa34880-9590-5c8e-bb30-c1f448440443",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1614982488537-c817e24a94ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZG1wJTIwYXJyZXN0cyUyMHBlb3BsZSUyMGNhcGl0YWwlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTUxNjE3MTd8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-20T05:56:28+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.3451,
-      "sources": [
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/capital/post-1223484/",
-          "title": "রাজধানীতে পুলিশের অভিযানে ২৪ ঘণ্টায় গ্রেফতার ৪৭৪",
-          "snippet": "রাজধানীতে পুলিশের অভিযানে ২৪ ঘণ্টায় গ্রেফতার ৪৭৪"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/law-and-crime/982123/%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%86.-%E0%A6%B2%E0%A7%80%E0%A6%97-%E0%A6%93-%E0%A6%85%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%B8%E0%A6%82%E0%A6%97%E0%A6%A0%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A7%A7%E0%A7%A8%E0%A7%AA-%E0%A6%9C%E0%A6%A8",
-          "title": "কার্যক্রম নিষিদ্ধ আ. লীগ ও অঙ্গসংগঠনের ১২৪ জন গ্রেফতার",
-          "snippet": "কার্যক্রম নিষিদ্ধ আ. লীগ ও অঙ্গসংগঠনের ১২৪ জন গ্রেফতার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রাজধানীতে পুলিশের অভিযানে ২৪ ঘণ্টায় ৪৭৪ জন গ্রেফতার",
-        "title_en": "DMP arrests 474 people in capital over 24 hours",
-        "summary_bn": "ঢাকা মেট্রোপলিটন পুলিশের নিয়মিত অভিযানে গত ২৪ ঘণ্টায় রাজধানীতে ৪৭৪ জনকে গ্রেফতার করা হয়েছে এবং ৪৮টি মামলা দায়ের করা হয়েছে।",
-        "summary_en": "Dhaka Metropolitan Police arrested 474 people and filed 48 cases in regular drives across the capital over 24 hours.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-20T05:56:28+00:00",
-        "lead_bn": "ঢাকা মেট্রোপলিটন পুলিশের নিয়মিত অভিযানে গত ২৪ ঘণ্টায় রাজধানীতে ৪৭৪ জনকে গ্রেফতার করা হয়েছে এবং ৪৮টি মামলা দায়ের করা হয়েছে।",
-        "lead_en": "Dhaka Metropolitan Police arrested 474 people and filed 48 cases in regular drives across the capital over 24 hours.",
-        "bullets_bn": [
-          "গ্রেফতারকৃতদের মধ্যে কার্যক্রম নিষিদ্ধ আওয়ামী লীগ ও অঙ্গসংগঠনের ১২৪ জন সদস্য রয়েছেন।",
-          "ডিএমপির অতিরিক্ত উপ-পুলিশ কমিশনার নিয়াজ মেহেদী ২০ নভেম্বর সকালে এ তথ্য জানিয়েছেন।",
-          "অভিযানকালে ২টি হাত বোমা, বিভিন্ন অস্ত্র, মাদক ও অন্যান্য আলামত উদ্ধার করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "The arrestees include 124 members of the banned Awami League and its associated organizations.",
-          "DMP Additional Deputy Police Commissioner Niaz Mehdi shared this information on the morning of November 20.",
-          "Two hand bombs, various weapons, drugs, and other evidence were recovered during the drives."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "২০ নভেম্বর সকালে ডিএমপির অতিরিক্ত উপ-পুলিশ কমিশনার নিয়াজ মেহেদী জানান, ১৯ নভেম্বর রাজধানীর বিভিন্ন থানা এলাকায় অভিযান পরিচালনা করে তাদের গ্রেফতার করা হয়। গ্রেফতারকৃতদের মধ্যে রমনা বিভাগ ৪০ জন, লালবাগ বিভাগ ৫০ জন, ওয়ারী বিভাগ ৫২ জন, মতিঝিল বিভাগ ৪৭ জন, তেজগাঁও বিভাগ ৬৩ জন, মিরপুর বিভাগ ১০৩ জন, গুলশান বিভাগ ৪৮ জন, উত্তরা বিভাগ ৫৩ জন ও গোয়েন্দা বিভাগ ১৮ জনকে গ্রেফতার করেছে। এছাড়া উদ্ধারকৃত আইটেমের মধ্যে রয়েছে ৫ হাজার ৭২০ পিস ইয়াবা, ৩৩ কেজি ২ গ্রাম গাঁজা ও ৫ বোতল দেশী মদ।",
-        "details_en": "On the morning of November 20, DMP Additional Deputy Commissioner Niaz Mehdi stated that they were arrested during operations conducted across various police station areas of the capital on November 19. Among the arrestees, the Ramna division arrested 40 people, Lalbagh division 50, Wari division 52, Motijheel division 47, Tejgaon division 63, Mirpur division 103, Gulshan division 48, Uttara division 53, and the Detective Branch arrested 18. Recovered items also include 5,720 pieces of yaba, 33 kg and 2 grams of ganja, and 5 bottles of local liquor.",
-        "hook_bn": "রাজধানীতে পুলিশের অভিযানে ২৪ ঘণ্টায় গ্রেফতার ৪৭৪",
+        "details_bn": "কুষ্টিয়া ব্যাটালিয়ন কমান্ডার লেফটেন্যান্ট কর্নেল রাশেদ কামাল রনি জানান, সীমান্ত এলাকায় নিয়মিত টহল জোরদার করা হয়েছে।",
+        "details_en": "Kushtia Battalion Commander Lt Col Rashed Kamal Rony said regular patrols had been strengthened in the border area.",
+        "hook_bn": "মেহেরপুর সীমান্তে চারজনকে পুশ-ইনের চেষ্টা",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 7.0,
-      "outlet_count": 2,
+      "desk_importance": 6.0,
+      "outlet_count": 4,
       "trending": false,
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-20T08:02:36.210446+00:00"
+        "checked_at": "2026-11-20T09:01:57.996017+00:00"
       }
     },
     {
-      "story_id": "5dcb9c11-e3e1-56ea-abc5-6a2523606576",
-      "primary_category": "world_diplomacy",
+      "story_id": "932807db-2e18-56a3-ab69-ee51a50fe0a1",
+      "primary_category": "sports_fitness",
       "interest_categories": [
+        "sports_fitness",
         "world_diplomacy",
-        "governance_law",
-        "climate_environment"
+        "economy_business"
       ],
       "region": "international",
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#Pakistan",
+        "#SriLanka",
+        "#TestCricket",
+        "#BabarAzam"
       ],
-      "image_url": "https://static.dw.com/image/79991876_6.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/20/4673667.jpg",
       "image_caption": null,
-      "published_at": "2026-11-20T05:11:00+00:00",
+      "published_at": "2026-11-20T08:25:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.75,
-      "rank_score": 3.8672,
+      "importance_score": 6.5,
+      "rank_score": 4.0796,
       "sources": [
         {
-          "name": "DW বাংলা",
-          "url": "https://www.dw.com/bn/শি-ট্রাম্প-পুটিনের-ত্রিপাক্ষিক-সম্মেলনে-যা-হলো/live-79954209?maca=ben-rss-ben-all-3197-rdf",
-          "title": "শি-ট্রাম্প-পুটিনের ত্রিপাক্ষিক সম্মেলনে যা হলো",
-          "snippet": "শি-ট্রাম্প-পুটিনের ত্রিপাক্ষিক সম্মেলনে যা হলো"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/sports/cricket/pakistan-beat-sri-lanka-8-wickets-clinch-first-test-series-two-years-1608686",
+          "title": "Pakistan beat Sri Lanka by 8 wickets to clinch first Test series in two years",
+          "snippet": "Pakistan beat Sri Lanka by 8 wickets to clinch first Test series in two years"
+        },
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/sports/cricket/a1yarw11fg",
+          "title": "৯০ রানের লক্ষ্য, পাকিস্তানের জয় মাত্র ১৩ ওভারেই",
+          "snippet": "৯০ রানের লক্ষ্য, পাকিস্তানের জয় মাত্র ১৩ ওভারেই"
         },
         {
           "name": "Channel i",
-          "url": "https://www.channelionline.com/new-equation-world-politics-trump-putin-xi-agree/",
-          "title": "বিশ্ব রাজনীতিতে নতুন সমীকরণ: চার বিষয়ে একমত ট্রাম্প-পুতিন-শি",
-          "snippet": "বিশ্ব রাজনীতিতে নতুন সমীকরণ: চার বিষয়ে একমত ট্রাম্প-পুতিন-শি"
+          "url": "https://www.channelionline.com/pakistan-sri-lanka-lead-sports/",
+          "title": "বোলিং দাপটে ম্যাচের সাথে সিরিজও জিতে নিলো বাবরের পাকিস্তান",
+          "snippet": "বোলিং দাপটে ম্যাচের সাথে সিরিজও জিতে নিলো বাবরের পাকিস্তান"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চীন, যুক্তরাষ্ট্র ও রাশিয়ার শীর্ষ নেতাদের ত্রিপাক্ষিক সম্মেলন অনুষ্ঠিত হয়েছে",
-        "title_en": "Trilateral summit held between top leaders of China, US and Russia",
-        "summary_bn": "চীন, যুক্তরাষ্ট্র ও রাশিয়ার প্রেসিডেন্টরা চীনের শেনজেনে এক নজিরবিহীন ত্রিপাক্ষিক বৈঠকে অংশ নেন এবং আলোচনাকে ফলপ্রসূ ও ঐতিহাসিক বলে অভিহিত করেন।",
-        "summary_en": "Presidents of China, the US and Russia attended an unprecedented trilateral meeting in Shenzhen, China, describing the talks as productive and historic.",
+        "title_bn": "শ্রীলঙ্কাকে হারিয়ে দুই বছরে পাকিস্তানের প্রথম টেস্ট সিরিজ জয়",
+        "title_en": "Pakistan beat Sri Lanka to clinch first Test series in two years",
+        "summary_bn": "দ্বিতীয় টেস্টে শ্রীলঙ্কাকে আট উইকেটে হারিয়ে দুই বছরে টেস্ট সিরিজে প্রথম জয় পেয়েছে পাকিস্তান।",
+        "summary_en": "Pakistan secured an eight-wicket victory over Sri Lanka in the second Test to seal its first series win in two years.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "sports_fitness",
           "world_diplomacy",
-          "governance_law",
-          "climate_environment"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-20T05:11:00+00:00",
-        "lead_bn": "চীন, যুক্তরাষ্ট্র ও রাশিয়ার প্রেসিডেন্টরা চীনের শেনজেনে এক নজিরবিহীন ত্রিপাক্ষিক বৈঠকে অংশ নেন এবং আলোচনাকে ফলপ্রসূ ও ঐতিহাসিক বলে অভিহিত করেন।",
-        "lead_en": "Presidents of China, the US and Russia attended an unprecedented trilateral meeting in Shenzhen, China, describing the talks as productive and historic.",
+        "published_at": "2026-11-20T08:25:00+00:00",
+        "lead_bn": "দ্বিতীয় টেস্টে শ্রীলঙ্কাকে আট উইকেটে হারিয়ে দুই বছরে টেস্ট সিরিজে প্রথম জয় পেয়েছে পাকিস্তান।",
+        "lead_en": "Pakistan secured an eight-wicket victory over Sri Lanka in the second Test to seal its first series win in two years.",
         "bullets_bn": [
-          "তিন নেতা বিশ্বের শাসনব্যবস্থা, পারমাণবিক নিরস্ত্রীকরণ, ইউক্রেন যুদ্ধ এবং জ্বালানি নিরাপত্তাসহ বিভিন্ন গুরুত্বপূর্ণ বিষয়ে আলোচনা করেছেন।",
-          "মার্কিন প্রেসিডেন্ট ডনাল্ড ট্রাম্প বৈঠকটিকে ঐতিহাসিক ও ইতিহাস সৃষ্টিকারী বলে অভিহিত করেছেন।",
-          "তিন নেতা জাতিসংঘের সংস্কার এবং পারমাণবিক যুদ্ধ এড়িয়ে চলার অঙ্গীকার নিয়ে আলোচনার কথা জানিয়েছেন।"
+          "চতুর্থ দিনের প্রথম সেশনে ১৩ ওভারে দুই উইকেট হারিয়ে ৯০ রান করে পাকিস্তান ১-০তে সিরিজ জিতে নেয়।",
+          "পাকিস্তান অধিনায়ক বাবর আজম তরুণ খেলোয়াড়দের সুযোগের সদ্ব্যবহার করার প্রশংসা করেছেন।",
+          "বর্তমান বিশ্ব টেস্ট চ্যাম্পিয়নশিপ চক্রে এটি পাকিস্তানের তৃতীয় জয়।ტი"
         ],
         "bullets_en": [
-          "The three leaders discussed key issues including world governance, nuclear disarmament, the Ukraine war and energy security.",
-          "US President Donald Trump described the meeting as historic and history-making.",
-          "The three leaders stated they discussed United Nations reforms and commitments to avoid nuclear war."
+          "Pakistan reached 90-2 in 13 overs during the first session of the fourth day to win the series 1-0.",
+          "Pakistan captain Babar Azam praised the young players for making the most of their opportunities.",
+          "The win was only Pakistan's third in 11 matches in the current World Test Championship cycle."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বিশ্বের সামরিক শক্তিধর তিন দেশের নেতাদের এই নজিরবিহীন বৈঠক অনুষ্ঠিত হয় ক্রমবর্ধমান ভূরাজনৈতিক উত্তেজনার প্রেক্ষাপটে। তবে বৈঠক শেষে প্রকাশিত শান্তি ঘোষণায় রাশিয়ার ইউক্রেন যুদ্ধ কিংবা যুক্তরাষ্ট্রের নেতৃত্বাধীন ইরান যুদ্ধের কোনো উল্লেখ ছিল না। এর পরিবর্তে তিন নেতা জাতিসংঘের সংস্কার, আন্তর্জাতিক অপরাধ আদালতের ভূমিকা সীমিত করা এবং পারমাণবিক যুদ্ধ এড়িয়ে চলার অঙ্গীকার নিয়ে আলোচনার কথা জানিয়েছেন।",
-        "details_en": "This unprecedented meeting of leaders from three militarily powerful nations took place against the backdrop of growing geopolitical tensions. However, the peace declaration released after the meeting made no mention of Russia's war in Ukraine or the US-led war in Iran. Instead, the three leaders discussed United Nations reforms, limiting the role of the International Criminal Court, and commitments to avoid nuclear war.",
-        "hook_bn": "চীন ও যুক্তরাষ্ট্রে নজিরবিহীন ত্রিপাক্ষিক সম্মেলন",
+        "details_bn": "পাকিস্তান দ্বিতীয় ইনিংসে শ্রীলঙ্কাকে ৩১৬ রানে অলআউট করে জয়ের জন্য ৮৯ রানের লক্ষ্য পায়। আজান আওয়াইস ৩২ রানে অপরাজিত থাকেন এবং আমির জামাল ৩৪ রান করেন। শ্রীলঙ্কা প্রথম ইনিংসে ৯৮ রানে অলআউট হওয়ায় ২২৭ রানের লিড পেয়েছিল পাকিস্তান।",
+        "details_en": "Pakistan bowled out Sri Lanka for 316 in its second innings, leaving a target of 89 runs. Azan Awais remained unbeaten on 32, while Aamer Jamal scored 34. Sri Lanka had conceded a 227-run first-innings lead after being dismissed for 98.",
+        "hook_bn": "শ্রীলঙ্কাকে হারিয়ে পাকিস্তানের সিরিজ জয়",
         "kicker_bn": null,
         "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": true,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-20T08:02:36.210446+00:00"
-      }
-    },
-    {
-      "story_id": "e6989aa7-aefa-5f7f-909b-f1488663c1e4",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "tech_innovation",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2025-12-21%2Fyeya42se%2FGoplagonj-University.jpeg?rect=0%2C197%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-20T07:18:57+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 4.0562,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/x44fk9zx0w",
-          "title": "গোপালগঞ্জ বিশ্ববিদ্যালয় খোলা থাকলেও সব ক্লাস-পরীক্ষা স্থগিত",
-          "snippet": "গোপালগঞ্জ বিশ্ববিদ্যালয় খোলা থাকলেও সব ক্লাস-পরীক্ষা স্থগিত"
-        },
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/education/post-1223498/",
-          "title": "অনির্দিষ্টকালের জন্য গোবিপ্রবি বন্ধ ঘোষণা",
-          "snippet": "অনির্দিষ্টকালের জন্য গোবিপ্রবি বন্ধ ঘোষণা"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822036/%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F-%E0%A6%85%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7",
-          "title": "গোপালগঞ্জ বিশ্ববিদ্যালয় অনির্দিষ্টকালের জন্য বন্ধ ঘোষণা",
-          "snippet": "গোপালগঞ্জ বিশ্ববিদ্যালয় অনির্দিষ্টকালের জন্য বন্ধ ঘোষণা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "গোপালগঞ্জ বিশ্ববিদ্যালয় খোলা থাকলেও ক্লাস ও পরীক্ষা স্থগিত",
-        "title_en": "Gopalganj university remains open while classes and exams are suspended",
-        "summary_bn": "নিরাপত্তাশঙ্কায় গোপালগঞ্জ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়ের সব ধরনের ক্লাস ও পরীক্ষা স্থগিত করেছে বিশ্ববিদ্যালয় প্রশাসন।",
-        "summary_en": "The university administration has suspended all classes and exams at Gopalganj Science and Technology University due to security concerns.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "tech_innovation",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-20T07:18:57+00:00",
-        "lead_bn": "নিরাপত্তাশঙ্কায় গোপালগঞ্জ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়ের সব ধরনের ক্লাস ও পরীক্ষা স্থগিত করেছে বিশ্ববিদ্যালয় প্রশাসন।",
-        "lead_en": "The university administration has suspended all classes and exams at Gopalganj Science and Technology University due to security concerns.",
-        "bullets_bn": [
-          "বিশ্ববিদ্যালয়ের ভারপ্রাপ্ত রেজিস্ট্রার ও রিজেন্ট বোর্ডের সচিব মোরাদ হোসেনের স্বাক্ষরিত বিজ্ঞপ্তিতে ২২ নভেম্বর থেকে এ সিদ্ধান্ত কার্যকর হওয়ার কথা জানানো হয়েছে।",
-          "বিশ্ববিদ্যালয় খোলা থাকবে বলে জানিয়েছেন উপাচার্য সোহেল হাসান।",
-          "জেলা ও বিশ্ববিদ্যালয়ের সার্বিক পরিস্থিতি এবং শিক্ষার্থীদের নিরাপত্তার বিষয়টি বিবেচনায় নিয়ে নতুন করে ক্লাস ও পরীক্ষা স্থগিতের সিদ্ধান্ত নেওয়া হয়েছে।"
-        ],
-        "bullets_en": [
-          "A notification signed by acting registrar and regent board secretary Murad Hossain stated the decision takes effect from 22 November.",
-          "Vice-chancellor Sohel Hasan stated that the university will remain open.",
-          "The decision to suspend classes and exams was taken considering the overall situation and student security."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "কয়েক দিন ধরে গোপালগঞ্জে রাজনৈতিক উত্তেজনা, আন্দোলন ও বিভিন্ন সহিংস ঘটনার কারণে স্বাভাবিক পরিস্থিতি ব্যাহত হচ্ছে। এর মধ্যে বিশ্ববিদ্যালয়ের প্রধান ফটক দিয়ে ক্যাম্পাসে প্রবেশ করে মিছিল ও স্লোগান দেন নিষিদ্ধ ছাত্রলীগের নেতা-কর্মীরা। উপাচার্য সোহেল হাসান জানিয়েছেন, পুলিশ সুপার ও জেলা প্রশাসক নিরাপত্তা দিতে পারছেন না বলে বাস্তব অবস্থা তুলে ধরেছেন।",
-        "details_en": "Normal conditions have been disrupted due to political tension, protests and violent incidents in Gopalganj for several days. Banned Chhatra League leaders and activists entered the campus through the main gate and held processions. Vice-chancellor Sohel Hasan stated that the superintendent of police and deputy commissioner expressed their inability to provide security.",
-        "hook_bn": "নিরাপত্তাশঙ্কায় গোপালগঞ্জ বিশ্ববিদ্যালয় বন্ধ",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": null
+        "question_bn": "পাকিস্তানের এই টেস্ট সিরিজে তরুণ খেলোয়াড়দের পারফরম্যান্সকে আপনি কীভাবে দেখেন?"
       },
       "desk_importance": 6.0,
       "outlet_count": 3,
       "trending": false,
-      "social_appeal": 6.0,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-20T08:02:36.210446+00:00"
+        "checked_at": "2026-11-20T09:01:57.996017+00:00"
+      }
+    },
+    {
+      "story_id": "7c0596be-0348-5dee-a632-d300c224281d",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#Kyiv",
+        "#Russia",
+        "#Ukraine",
+        "#VitaliKlitschko"
+      ],
+      "image_url": "https://th-i.thgim.com/public/incoming/m649oz/article71723405.ece/alternates/LANDSCAPE_1200/2026-11-20T015437Z_1429460465_RC2DROARVB9A_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV.JPG",
+      "image_caption": null,
+      "published_at": "2026-11-20T06:52:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.1784,
+      "sources": [
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/russia-missile-strike-on-kyiv-ukraine/article71723381.ece",
+          "title": "Russian strikes damage two bridges in Kyiv: Mayor",
+          "snippet": "Russian strikes damage two bridges in Kyiv: Mayor"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রাশিয়ার হামলায় কিয়েভের দুটি সেতু ক্ষতিগ্রস্ত হয়েছে",
+        "title_en": "Russian strikes damage two bridges in Kyiv",
+        "summary_bn": "রাশিয়ার নতুন দফার ক্ষেপণাস্ত্র ও ড্রোন হামলায় ইউক্রেনের রাজধানী কিয়েভের দুটি সেতু ক্ষতিগ্রস্ত হয়েছে বলে জানিয়েছেন শহরের মেয়র।",
+        "summary_en": "Russian missile and drone strikes damaged two bridges in the Ukrainian capital of Kyiv, according to the city mayor.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T06:52:00+00:00",
+        "lead_bn": "রাশিয়ার নতুন দফার ক্ষেপণাস্ত্র ও ড্রোন হামলায় ইউক্রেনের রাজধানী কিয়েভের দুটি সেতু ক্ষতিগ্রস্ত হয়েছে বলে জানিয়েছেন শহরের মেয়র।",
+        "lead_en": "Russian missile and drone strikes damaged two bridges in the Ukrainian capital of Kyiv, according to the city mayor.",
+        "bullets_bn": [
+          "পডিলস্কো-ভস্ক্রেসেনস্কি সেতুতে ব্যালিস্টিক হামলা চালানো হয়েছে বলে মেয়র ভিটালি ক্লিৎসকো টেলিগ্রামে জানিয়েছেন।",
+          "হামলার পর ডান তীর থেকে বাম তীরে যাওয়ার পথ এই সেতুতে বন্ধ রয়েছে এবং দারনিৎসকি সেতুও ক্ষতিগ্রস্ত হয়েছে।",
+          "ইউক্রেনীয় বাহিনী এই সপ্তাহে ক্রিমিয়া সেতুতে ক্ষতিসাধন করার পর রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিন প্রতিশোধমূলক হামলার হুমকি দিয়েছিলেন।"
+        ],
+        "bullets_en": [
+          "Mayor Vitali Klitschko stated on Telegram that a ballistic attack hit the Podilsko-Voskresensky Bridge crossing.",
+          "Traffic from the right bank to the left bank on the Podilsko-Voskresensky Bridge is closed, and the Darnytsky Bridge is also damaged.",
+          "Russian President Vladimir Putin vowed retaliatory attacks after Ukraine damaged the Crimea bridge this week."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "কিয়েভে রুশ হামলায় ক্ষতিগ্রস্ত দুই সেতু",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T09:01:57.996017+00:00"
+      }
+    },
+    {
+      "story_id": "86ffb820-d1fb-5e39-b0c0-092fd4b0a31b",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "climate_environment",
+        "society_education"
+      ],
+      "region": "international",
+      "tags": [
+        "#MusadikMalik",
+        "#NewDelhi",
+        "#SCO",
+        "#PakistanIndia"
+      ],
+      "image_url": "https://static.dw.com/image/79951488_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-20T08:20:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4024,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/india-pakistani-minister-visits-delhi-for-sco-forum-amid-frozen-ties/live-79999264?maca=en-rss-en-all-1573-rdf",
+          "title": "India: Pakistani minister visits Delhi for SCO forum amid frozen ties",
+          "snippet": "India: Pakistani minister visits Delhi for SCO forum amid frozen ties"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পাকিস্তানের জলবায়ু বিষয়ক মন্ত্রী মুসাদিক মালিক নয়াদিল্লিতে এসসিও ফোরামে পৌঁছেছেন।",
+        "title_en": "Pakistani minister Musadik Malik arrives in New Delhi for SCO forum.",
+        "summary_bn": "পাকিস্তানের জলবায়ু পরিবর্তন মন্ত্রী মুসাদিক মালিক একটি সাংহাই সহযোগিতা সংস্থার সাংস্কৃতিক ফোরামে যোগ দিতে নয়াদিল্লিতে পৌঁছেছেন।",
+        "summary_en": "Pakistan's Climate Change Minister Musadik Malik arrived in New Delhi for a Shanghai Cooperation Organization cultural forum.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "climate_environment",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T08:20:00+00:00",
+        "lead_bn": "পাকিস্তানের জলবায়ু পরিবর্তন মন্ত্রী মুসাদিক মালিক একটি সাংহাই সহযোগিতা সংস্থার সাংস্কৃতিক ফোরামে যোগ দিতে নয়াদিল্লিতে পৌঁছেছেন।",
+        "lead_en": "Pakistan's Climate Change Minister Musadik Malik arrived in New Delhi for a Shanghai Cooperation Organization cultural forum.",
+        "bullets_bn": [
+          "প্রধানমন্ত্রী নরেন্দ্র মোদি বেসামরিক সংলাপ ফোরামের উদ্বোধন করবেন যা ২০ থেকে ২২ নভেম্বর পর্যন্ত চলবে।",
+          "পাকিস্তানের পররাষ্ট্র দপ্তর জানিয়েছে যে তিনি সভ্যতার মধ্যে সংলাপের বিষয়ে দেশের মতামত তুলে ধরবেন।",
+          "এনডিটিভি জানিয়েছে, মুসাদিক মালিক বলেছেন এই সফর কোনো দ্বিপক্ষীয় আলোচনা নয়।"
+        ],
+        "bullets_en": [
+          "Prime Minister Narendra Modi is set to inaugurate the Civilizational Dialogue Forum, which runs from November 20 to 22.",
+          "Pakistan's Foreign Office said he would present the country's views on dialogue among civilizations and meet other SCO members.",
+          "Malik said the visit is not a bilateral negotiation, according to NDTV, and no breakthrough is expected."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "এটি গত বছরের দুই দেশের মধ্যকার সংঘাত এবং মে ২০২৩ সালে বিলাবল ভুট্টো জারদারির পর পাকিস্তানের কোনো ফেডারেল মন্ত্রীর প্রথম ভারত সফর। এই সফরটি ২০২৫ সালের চার দিনের ভারত-পাকিস্তান সংঘাতের পরে এবং ভারতীয় বাহিনী কর্তৃক লস্কর-ই-তাইয়েবা কমান্ডার লতিফ ভাটকে হত্যার দুই দিন পর অনুষ্ঠিত হচ্ছে।",
+        "details_en": "It is the first visit to India by a Pakistani federal minister since Bilawal Bhutto Zardari attended the SCO meeting in Goa in May 2023, and the first since last year's conflict between the two countries. The visit comes after the four-day India-Pakistan conflict of 2025 and two days after Indian forces killed Lashkar-e-Taiba commander Lateef Bhat.",
+        "hook_bn": "নয়াদিল্লিতে এসসিও ফোরামে পাকিস্তানি মন্ত্রী",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T09:01:57.996017+00:00"
       }
     }
   ]
