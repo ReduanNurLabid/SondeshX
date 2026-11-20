@@ -1,164 +1,243 @@
 {
-  "updated_at": "2026-11-20T10:00:44.756497",
-  "total_stories": 2,
+  "updated_at": "2026-11-20T11:00:51.398963",
+  "total_stories": 3,
   "stories": [
     {
-      "story_id": "020b470c-5e33-5d79-a450-e022b24afd7d",
-      "primary_category": "governance_law",
+      "story_id": "98bc20f7-47c6-5338-961c-f032956799fd",
+      "primary_category": "climate_environment",
       "interest_categories": [
+        "climate_environment",
         "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#JorarganjPoliceStation",
-        "#ChhatraLeague",
-        "#Chattogram"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/20/915847061_2210015543258349_7909557266315219398_n.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-20T09:15:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 4.037,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/ctg-oc-files-gd-over-threats-linked-arrests-chhatra-league-activists-1608726",
-          "title": "Ctg OC files GD over threats linked to arrests of Chhatra League activists",
-          "snippet": "Ctg OC files GD over threats linked to arrests of Chhatra League activists"
-        },
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/f4nwol3ngr",
-          "title": "ছাত্রলীগ নেতা পরিচয়ে ওসিকে হুমকি—‘তোর বংশ শেষ করে দেব, কাফনের কাপড় রেডি রাখিস’",
-          "snippet": "ছাত্রলীগ নেতা পরিচয়ে ওসিকে হুমকি—‘তোর বংশ শেষ করে দেব, কাফনের কাপড় রেডি রাখিস’"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1181681",
-          "title": "ধরপাকড়ের পর ওসিকে হুমকি ‘কাফনের কাপড় রেডি রাখিস’",
-          "snippet": "ধরপাকড়ের পর ওসিকে হুমকি ‘কাফনের কাপড় রেডি রাখিস’"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জোরারগঞ্জ থানার ওসির সাধারণ ডায়েরি",
-        "title_en": "Jorarganj police station OC files general diary over threats",
-        "summary_bn": "চট্টগ্রামের মিরসরাই উপজেলার জোরারগঞ্জ থানার ভারপ্রাপ্ত কর্মকর্তা মো. আব্দুল হালিম ছাত্রলীগ নেতাকর্মীদের গ্রেফতার না করার দাবিতে হোয়াটসঅ্যাপে হুমকির মুখে সাধারণ ডায়েরি করেছেন।",
-        "summary_en": "The officer-in-charge of Jorarganj Police Station in Chattogram has filed a general diary after receiving WhatsApp threats over arrests of Chhatra League activists.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-20T09:15:00+00:00",
-        "lead_bn": "চট্টগ্রামের মিরসরাই উপজেলার জোরারগঞ্জ থানার ভারপ্রাপ্ত কর্মকর্তা মো. আব্দুল হালিম ছাত্রলীগ নেতাকর্মীদের গ্রেফতার না করার দাবিতে হোয়াটসঅ্যাপে হুমকির মুখে সাধারণ ডায়েরি করেছেন।",
-        "lead_en": "The officer-in-charge of Jorarganj Police Station in Chattogram has filed a general diary after receiving WhatsApp threats over arrests of Chhatra League activists.",
-        "bullets_bn": [
-          "দক্ষিণ আফ্রিকার কান্ট্রি কোডযুক্ত একটি হোয়াটসঅ্যাপ অ্যাকাউন্ট থেকে ওসির সরকারি মোবাইল নম্বরে হুমকি দেওয়া হয়।",
-          "হুমকিদাতা এন এম জামাল নামে প্রোফাইল ব্যবহার করে কাফনের কাপড় প্রস্তুত রাখতে এবং পরিবার ধ্বংস করার কথা বলেন।",
-          "ওসি মোহাম্মদ আব্দুল হালিম বিষয়টি ঊর্ধ্বতন কর্তৃপক্ষ ও গোয়েন্দা সংস্থাকে জানিয়েছেন।"
-        ],
-        "bullets_en": [
-          "Threats were sent to the official mobile number of the OC from a WhatsApp account with a South African country code.",
-          "The sender used the profile name N M Jamal to threaten death, family destruction and demanded to stop arrests.",
-          "OC Mohammad Abdul Halim informed senior authorities and intelligence agencies about the incident."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "জরারগঞ্জ থানার ভারপ্রাপ্ত কর্মকর্তা মোহাম্মদ আব্দুল হালিম জানান, রাত ৮টা ৫৩ মিনিট থেকে বিভিন্ন সময়ে তার সরকারি নম্বরে হুমকিভরা বার্তা পাঠানো হয়। প্রথমে ইংরেজিতে এবং পরে বাংলায় দেওয়া বার্তায় বলা হয়, আর কোনো ছাত্রলীগ নেতা-কর্মী গ্রেফতার হলে পরিণতি খারাপ হবে এবং বংশ ধ্বংস করা হবে। এই ঘটনায় নিজের নিরাপত্তার জন্য তিনি থানায় একটি সাধারণ ডায়েরি করেন এবং বিষয়টি ঊর্ধ্বতন কর্তৃপক্ষকে জানান।",
-        "details_en": "OC Mohammad Abdul Halim stated that threatening messages were sent to his official number starting at 8:53pm on Wednesday. The messages sent in English and Bangla warned against arresting Chhatra League leaders and activists, threatening death and family destruction. He filed a general diary at the station for security and informed higher authorities.",
-        "hook_bn": "কাফনের কাপড় রেডি রাখিস",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-20T10:02:53.169430+00:00"
-      }
-    },
-    {
-      "story_id": "498fafb2-888a-503c-a9a7-e0e428bbd9c6",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
+        "society_education",
         "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#SheikhHasina",
-        "#RashedKhan",
-        "#MatrixChambers",
-        "#BangladeshHighCommission"
+        "#BangladeshWeather",
+        "#MetOffice"
       ],
-      "image_url": "https://images.unsplash.com/photo-1693585172757-b9e057feb878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFybGlhbWVudCUyMGxhdyUyMGNvdXJ0JTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1MDc4OTA0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/10/31/rainfall_0.jpg",
       "image_caption": null,
-      "published_at": "2026-11-20T08:51:25+00:00",
+      "published_at": "2026-11-20T08:10:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.5745,
+      "importance_score": 6.75,
+      "rank_score": 3.8629,
       "sources": [
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/425237/rashed-alleges-hasina%E2%80%99s-forged-signature-in-letter",
-          "title": "Rashed alleges Hasina’s forged signature in letter seeking passport, NID",
-          "snippet": "Rashed alleges Hasina’s forged signature in letter seeking passport, NID"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/environment/met-office-predicts-rain-over-country-1608676",
+          "title": "Met office predicts rain over country",
+          "snippet": "Met office predicts rain over country"
         },
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/rashed-alleges-hasinas-forged-signature-letter-seeking-passport-nid-1608721",
-          "title": "Rashed alleges Hasina's forged signature in letter seeking passport, NID",
-          "snippet": "Rashed alleges Hasina's forged signature in letter seeking passport, NID"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425238/bad-weather-strands-1-000-tourists-on-st-martin%E2%80%99s",
+          "title": "Bad weather strands 1,000 tourists on St Martin’s Island",
+          "snippet": "Bad weather strands 1,000 tourists on St Martin’s Island"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/bangladesh-braces-for-another-day-of-rain-as-cyclone-akvan-weakens-over-india",
+          "title": "Cyclone Akvan to bring more rain to Bangladesh",
+          "snippet": "Cyclone Akvan to bring more rain to Bangladesh"
+        },
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/environment-and-climate/post-1223599/",
+          "title": "ওড়িশা উপকূল অতিক্রম করেছে ঘূর্ণিঝড় ‘আকভান’",
+          "snippet": "ওড়িশা উপকূল অতিক্রম করেছে ঘূর্ণিঝড় ‘আকভান’"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শেখ হাসিনার পাসপোর্ট ও এনআইডি আবেদনে জাল স্বাক্ষর: রাশেদ",
-        "title_en": "Rashed alleges Hasina forged signature in passport and NID application",
-        "summary_bn": "প্রধানমন্ত্রীর রাজনৈতিক সহকারী রাশেদ খান অভিযোগ করেছেন যে, নতুন পাসপোর্ট ও জাতীয় পরিচয়পত্র পাওয়ার আবেদনে সাবেক প্রধানমন্ত্রী শেখ হাসিনার জাল স্বাক্ষর ব্যবহার করা হয়েছে।",
-        "summary_en": "Prime Minister's Political Assistant Rashed Khan has alleged that a forged signature of ousted Prime Minister Sheikh Hasina was used in an application for a new passport and national identity card.",
+        "title_bn": "ঘূর্ণিঝড় আকভান ও বৃষ্টির পূর্বাভাস দিয়েছে আবহাওয়া অফিস",
+        "title_en": "Met office forecasts rain and cyclone Akvan impact",
+        "summary_bn": "বাংলাদেশ আবহাওয়া অধিদফতর আগামী ২৪ ঘণ্টার জন্য দেশের বিভিন্ন স্থানে বৃষ্টির পূর্বাভাস দিয়েছে।",
+        "summary_en": "The Bangladesh Meteorological Department forecasted rain across the country in the next 24 hours.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "climate_environment",
           "governance_law",
+          "society_education",
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-20T08:51:25+00:00",
-        "lead_bn": "প্রধানমন্ত্রীর রাজনৈতিক সহকারী রাশেদ খান অভিযোগ করেছেন যে, নতুন পাসপোর্ট ও জাতীয় পরিচয়পত্র পাওয়ার আবেদনে সাবেক প্রধানমন্ত্রী শেখ হাসিনার জাল স্বাক্ষর ব্যবহার করা হয়েছে।",
-        "lead_en": "Prime Minister's Political Assistant Rashed Khan has alleged that a forged signature of ousted Prime Minister Sheikh Hasina was used in an application for a new passport and national identity card.",
+        "published_at": "2026-11-20T08:10:00+00:00",
+        "lead_bn": "বাংলাদেশ আবহাওয়া অধিদফতর আগামী ২৪ ঘণ্টার জন্য দেশের বিভিন্ন স্থানে বৃষ্টির পূর্বাভাস দিয়েছে।",
+        "lead_en": "The Bangladesh Meteorological Department forecasted rain across the country in the next 24 hours.",
         "bullets_bn": [
-          "নয়াদিল্লিতে বাংলাদেশ হাই কমিশনকে জমা দেওয়া একটি অনুমতিপত্রে এই জাল স্বাক্ষর ব্যবহার করা হয়।",
-          "লন্ডনভিত্তিক ল ফার্ম ম্যাট্রিক্স চেম্বার্স এই বিষয়ে তাকে প্রতিনিধিত্ব করার জন্য হাই কমিশনের সাথে যোগাযোগ করেছিল।",
-          "ম্যাট্রিক্স চেম্বার্সের জমা দেওয়া পাওয়ার অব এর্টানিতে হাসিনার এই ভুয়া স্বাক্ষর ছিল।"
+          "হালকা থেকে মাঝারি বৃষ্টি বা বজ্রসহ বৃষ্টির পূর্বাভাস দেওয়া হয়েছে।",
+          "তাপমাত্রা অপরিবর্তিত থাকতে পারে বলে জানিয়েছে আবহাওয়া অফিস।",
+          "ঘূর্ণিঝড় আকভান ওড়িশা উপকূল অতিক্রম করেছে।"
         ],
         "bullets_en": [
-          "The authorisation letter containing the signature was submitted to the Bangladesh High Commission in New Delhi.",
-          "London-based law firm Matrix Chambers approached the High Commission seeking to represent her in the matter.",
-          "The power of attorney submitted by Matrix Chambers bore Hasina’s purported signature."
+          "Light to moderate rain or thundershowers are likely to occur.",
+          "Temperatures may remain nearly unchanged over the country.",
+          "Cyclone Akvan has crossed the Odisha coast."
+        ],
+        "impact_bn": "প্রবল ঘূর্ণিঝড় আকভানের প্রভাবে চাঁদপুরে টানা দুই দিন ধরে বৃষ্টিপাত হচ্ছে এবং ঘরবন্দি মানুষের স্বাভাবিক জীবনযাত্রা ব্যাহত হচ্ছে।",
+        "impact_en": "Rain is disrupting normal life and confining people indoors in Chandpur due to the impact of cyclone Akvan.",
+        "details_bn": "ঘূর্ণিঝড় আকভান ভারতের ওড়িশা উপকূল অতিক্রম করে স্থলভাগে উঠে এসেছে এবং বর্তমানে দক্ষিণ ওড়িশা ও তৎসংলগ্ন এলাকায় অবস্থান করছে। এটি আরও উত্তর-পশ্চিম দিকে অগ্রসর হয়ে স্থলভাগের অভ্যন্তরে বৃষ্টি ঝরিয়ে ক্রমান্বয়ে দুর্বল হয়ে যেতে পারে। এর প্রভাবে চাঁদপুরে টানা দুই দিন ধরে বৃষ্টিপাত হচ্ছে এবং সেন্ট মার্টিন দ্বীপে এক হাজার পর্যটক আটকা পড়েছেন।",
+        "details_en": "Cyclone Akvan crossed the Odisha coast in India and is now located over south Odisha and adjoining areas. It may move further northwest, cause rain inland, and gradually weaken. The impact has caused two days of rain in Chandpur and stranded 1,000 tourists on St Martin's Island.",
+        "hook_bn": "ঘূর্ণিঝড় আকভানের প্রভাবে দেশজুড়ে বৃষ্টির পূর্বাভাস",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": "আপনার এলাকায় কি ঘূর্ণিঝড় আকভানের প্রভাবে বৃষ্টি শুরু হয়েছে?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 6,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T11:02:51.021405+00:00"
+      }
+    },
+    {
+      "story_id": "0d1597d5-9105-5f0b-9d80-56560238e3f5",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFuZ2xhZGVzaCUyMGFkdmFuY2VzJTIwc3RlcHMlMjBnb3Zlcm5tZW50JTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1MTcyNTEwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-20T10:33:58+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.25,
+      "rank_score": 3.8041,
+      "sources": [
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822059/%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A7%87%E0%A6%B0-%E0%A6%87-%E0%A6%97%E0%A6%AD%E0%A6%B0%E0%A7%8D%E0%A6%A8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F-%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A7%9F%E0%A6%A8-%E0%A6%B8%E0%A7%82%E0%A6%9A%E0%A6%95%E0%A7%87-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%A7%E0%A6%BE%E0%A6%AA-%E0%A6%8F%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87",
+          "title": "জাতিসংঘের ই-গভর্নমেন্ট উন্নয়ন সূচকে তিন ধাপ এগিয়ে ৯৭তম বাংলাদেশ",
+          "snippet": "জাতিসংঘের ই-গভর্নমেন্ট উন্নয়ন সূচকে তিন ধাপ এগিয়ে ৯৭তম বাংলাদেশ"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/national/499511",
+          "title": "জাতিসংঘের ই-গভর্নমেন্ট সূচকে বাংলাদেশের উন্নতি",
+          "snippet": "জাতিসংঘের ই-গভর্নমেন্ট সূচকে বাংলাদেশের উন্নতি"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জাতিসংঘের ই-গভর্নমেন্ট সূচকে তিন ধাপ এগিয়ে ৯৭তম বাংলাদেশ",
+        "title_en": "Bangladesh advances three steps to 97th in UN e-government index",
+        "summary_bn": "জাতিসংঘের ই-গভর্নমেন্ট ডেভেলপমেন্ট ইনডেক্সে প্রথমবারের মতো দুই অঙ্কের অবস্থানে উঠে এসেছে বাংলাদেশ এবং ১৯৪টি দেশের মধ্যে ৯৭তম স্থান অর্জন করেছে।",
+        "summary_en": "Bangladesh has risen to a double-digit position for the first time in the UN E-Government Development Index, ranking 97th among 194 countries.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T10:33:58+00:00",
+        "lead_bn": "জাতিসংঘের ই-গভর্নমেন্ট ডেভেলপমেন্ট ইনডেক্সে প্রথমবারের মতো দুই অঙ্কের অবস্থানে উঠে এসেছে বাংলাদেশ এবং ১৯৪টি দেশের মধ্যে ৯৭তম স্থান অর্জন করেছে।",
+        "lead_en": "Bangladesh has risen to a double-digit position for the first time in the UN E-Government Development Index, ranking 97th among 194 countries.",
+        "bullets_bn": [
+          "২০২৬ সালের সূচকে বাংলাদেশ ৯৭তম অবস্থান অর্জন করেছে।",
+          "২০২৪ সালের জরিপে দেশটি ১০০তম অবস্থানে ছিল।",
+          "রাষ্ট্রীয় বার্তা সংস্থা বাসস এই তথ্য জানিয়েছে।"
+        ],
+        "bullets_en": [
+          "Bangladesh achieved the 97th position in the 2026 index.",
+          "The country was in the 100th position in the 2024 survey.",
+          "State news agency BSS reported this information on Friday."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "পাসপোর্ট ও এনআইডি আবেদনে হাসিনার জাল স্বাক্ষর",
+        "details_bn": "২০২৪ সালের জরিপে ১০০তম অবস্থানে থাকা বাংলাদেশ ২০২৬ সালের সূচকে তিন ধাপ এগিয়ে ১৯৪টি দেশের মধ্যে ৯৭তম অবস্থানে পৌঁছেছে। রাষ্ট্রীয় বার্তা সংস্থা বাসস জানিয়েছে, এবার দেশের ইতিহাসে এখন পর্যন্ত সর্বোচ্চ ইজিডিআই স্কোর অর্জিত হয়েছে।",
+        "details_en": "Bangladesh, which was in the 100th position in the 2024 survey, advanced three steps to reach the 97th position among 194 countries in the 2026 index. State news agency BSS reported that the country achieved its highest EGDI score in history this time.",
+        "hook_bn": "ই-গভর্নমেন্ট সূচকে ৯৭তম বাংলাদেশ",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 5.0,
+      "desk_importance": 6.0,
       "outlet_count": 2,
       "trending": false,
-      "social_appeal": 6.0,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-20T10:02:53.169430+00:00"
+        "checked_at": "2026-11-20T11:02:51.021405+00:00"
+      }
+    },
+    {
+      "story_id": "d3c5bec2-eb70-57d1-93bd-b700d9c35ae4",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#LEEDCertified",
+        "#GreenFactory",
+        "#Bangladesh"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/16/rmg_rajib-dhar.png",
+      "image_caption": null,
+      "published_at": "2026-11-20T09:55:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.25,
+      "rank_score": 3.6641,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/rmg/bangladesh-crosses-300-leed-certified-green-factory-milestone-1608756",
+          "title": "Bangladesh crosses 300 LEED-certified green factory milestone",
+          "snippet": "Bangladesh crosses 300 LEED-certified green factory milestone"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/leed-certified-green-factories-surpass-300-in-bangladesh",
+          "title": "LEED-certified green factories surpass 300 in Bangladesh",
+          "snippet": "LEED-certified green factories surpass 300 in Bangladesh"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাংলাদেশে লিড-সার্টিফাইড সবুজ কারখানার সংখ্যা ৩০০ ছাড়িয়েছে",
+        "title_en": "Bangladesh crosses 300 LEED-certified green factory milestone",
+        "summary_bn": "যুক্তরাষ্ট্রের ইউএস গ্রিন বিল্ডিং কাউন্সিলের সনদ পেয়ে বাংলাদেশে লিড-সার্টিফাইড সবুজ কারখানার মোট সংখ্যা ৩০২টিতে পৌঁছেছে।",
+        "summary_en": "Bangladesh has crossed the milestone of 300 LEED-certified green factories, reaching a total of 302 facilities.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T09:55:00+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের ইউএস গ্রিন বিল্ডিং কাউন্সিলের সনদ পেয়ে বাংলাদেশে লিড-সার্টিফাইড সবুজ কারখানার মোট সংখ্যা ৩০২টিতে পৌঁছেছে।",
+        "lead_en": "Bangladesh has crossed the milestone of 300 LEED-certified green factories, reaching a total of 302 facilities.",
+        "bullets_bn": [
+          "বাংলাদেশ অ্যাপারেল ভয়েসের তথ্য অনুযায়ী, এই কারখানাগুলোর সংখ্যা বর্তমানে বিশ্বয়াপী সর্বোচ্চ।",
+          "নতুন ১২টি সুবিধার মধ্যে ৯টি প্লাটিনাম এবং বাকি ৩টি গোল্ড সনদ অর্জন করেছে।",
+          "৩০২টি সুবিধার মধ্যে ১৩৪টি প্লাটিনাম, ১৪৮টি গোল্ড, ১৬টি সিলভার এবং চারটি সার্টিফাইড রেটিং পেয়েছে।"
+        ],
+        "bullets_en": [
+          "The country's total number of LEED-certified green factories stands at 302, which is the highest globally according to Bangladesh Apparel Voice.",
+          "Among the 12 newly certified facilities, nine secured Platinum ratings while three received Gold certification.",
+          "Of the 302 facilities, 134 have received Platinum ratings, 148 Gold, 16 Silver and four Certified ratings."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ঢাকার ধামরাইয়ের আদি ট্রিমস লিমিটেড ৯৭ পয়েন্ট পেয়ে নতুন তালিকার শীর্ষে রয়েছে। এছাড়া গাজীপুরের ডি অ্যান্ড এস প্রিটি ফ্যাশনস লিমিটেড এবং প্রবৃত্তি অ্যাপারেলস লিমিটেড প্লাটিনাম সনদ অর্জন করেছে। বাংলাদেশের এই কারখানাগুলোর মধ্যে ৫৩টি বিশ্বের সেরা ১০০টি লিড-সার্টিফাইড সবুজ কারখানার অন্তর্ভুক্ত।",
+        "details_en": "Adzi Trims Ltd in Dhamrai topped the latest list with 97 points, earning a Platinum rating. D & S Pretty Fashions Ltd and Probridhi Apparels Ltd also received Platinum certification. Bangladesh is home to 53 of the world's 100 highest-rated LEED-certified green factories.",
+        "hook_bn": "বাংলাদেশে সবুজ কারখানার সংখ্যা ৩০০ ছাড়াল",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-20T11:02:51.021405+00:00"
       }
     }
   ]
