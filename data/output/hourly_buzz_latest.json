@@ -1,80 +1,236 @@
 {
-  "updated_at": "2026-11-21T17:00:44.580416",
+  "updated_at": "2026-11-21T18:00:42.025849",
   "total_stories": 4,
   "stories": [
     {
-      "story_id": "99e933ef-8c31-543e-a3a6-7a98960d200e",
-      "primary_category": "world_diplomacy",
+      "story_id": "5f77a609-5d2b-589d-95ab-b1dbaf92c7f1",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy",
-        "climate_environment",
-        "governance_law"
+        "governance_law",
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1630162255263-1ae766abbff9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFuZ2xhZGVzaCUyMGluZGlhJTIwam9pbnQlMjByaXZlcnMlMjBkaXBsb21hY3l8ZW58MXwwfHx8MTc5NTI4MDQ5OXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-21%2Fxsi02xkr%2FWhatsApp-Image-2026-11-21-at-10.32.35-PM.jpeg?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-21T16:40:00+00:00",
+      "published_at": "2026-11-21T16:39:03+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.527,
+      "importance_score": 7.5,
+      "rank_score": 5.1965,
       "sources": [
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822289/%E0%A6%86%E0%A6%97%E0%A6%BE%E0%A6%AE%E0%A7%80%E0%A6%95%E0%A6%BE%E0%A6%B2-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%B8%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4-%E0%A6%AF%E0%A7%8C%E0%A6%A5-%E0%A6%A8%E0%A6%A6%E0%A7%80-%E0%A6%95%E0%A6%AE%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0",
-          "title": "আগামীকাল ঢাকায় বসছে বাংলাদেশ-ভারত যৌথ নদী কমিশনের বৈঠক",
-          "snippet": "আগামীকাল ঢাকায় বসছে বাংলাদেশ-ভারত যৌথ নদী কমিশনের বৈঠক"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/crime/zxvms90tpz",
+          "title": "যুবকের কোমরে কাপড়ে মোড়ানো ছিল ১৫টি ‘ডিম’, খুলতেই মিলল ১১ কোটি ৬৭ লাখ টাকার সোনা",
+          "snippet": "যুবকের কোমরে কাপড়ে মোড়ানো ছিল ১৫টি ‘ডিম’, খুলতেই মিলল ১১ কোটি ৬৭ লাখ টাকার সোনা"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/crime/3-arrested-75-kg-gold-paste-worth-tk-1167-cr-dhaka-airport-1609976",
+          "title": "3 arrested with 7.5 kg gold paste worth Tk 11.67 cr at Dhaka airport",
+          "snippet": "3 arrested with 7.5 kg gold paste worth Tk 11.67 cr at Dhaka airport"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1182124",
+          "title": "শাহজালাল বিমানবন্দরে সাড়ে ৭ কেজি সোনার পেস্টসহ আটক ৩",
+          "snippet": "শাহজালাল বিমানবন্দরে সাড়ে ৭ কেজি সোনার পেস্টসহ আটক ৩"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ঢাকায় বসছে বাংলাদেশ-ভারত যৌথ নদী কমিশনের বৈঠক",
-        "title_en": "Bangladesh-India Joint Rivers Commission meeting begins in Dhaka",
-        "summary_bn": "বাংলাদেশ ও ভারতের যৌথ নদী কমিশনের গুরুত্বপূর্ণ বৈঠক ঢাকায় অনুষ্ঠিত হতে যাচ্ছে।",
-        "summary_en": "An important meeting of the Bangladesh-India Joint Rivers Commission is going to be held in Dhaka.",
+        "title_bn": "শাহজালাল বিমানবন্দরে সোনা উদ্ধার, আটক ৩",
+        "title_en": "Gold recovered at Shahjalal airport, 3 arrested",
+        "summary_bn": "হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দর থেকে সাড়ে সাত কেজি সোনার পেস্টসহ তিনজনকে আটক করেছে এয়ারপোর্ট আর্মড পুলিশ ব্যাটালিয়ন।",
+        "summary_en": "Airport Armed Police Battalion detained three individuals with seven and a half kilograms of gold paste at Hazrat Shahjalal International Airport.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "climate_environment",
-          "governance_law"
+          "governance_law",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T16:40:00+00:00",
-        "lead_bn": "বাংলাদেশ ও ভারতের যৌথ নদী কমিশনের গুরুত্বপূর্ণ বৈঠক ঢাকায় অনুষ্ঠিত হতে যাচ্ছে।",
-        "lead_en": "An important meeting of the Bangladesh-India Joint Rivers Commission is going to be held in Dhaka.",
+        "published_at": "2026-11-21T16:39:03+00:00",
+        "lead_bn": "হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দর থেকে সাড়ে সাত কেজি সোনার পেস্টসহ তিনজনকে আটক করেছে এয়ারপোর্ট আর্মড পুলিশ ব্যাটালিয়ন।",
+        "lead_en": "Airport Armed Police Battalion detained three individuals with seven and a half kilograms of gold paste at Hazrat Shahjalal International Airport.",
         "bullets_bn": [
-          "বৈঠকে দুই দেশের প্রতিনিধিরা গঙ্গা ও পদ্মা নদীর পানি বণ্টন সংক্রান্ত তথ্য-উপাত্ত বিনিময় করবেন।",
-          "আগামী ১২ ডিসেম্বর শেষ হতে যাওয়া ঐতিহাসিক গঙ্গা পানি বণ্টন চুক্তির মেয়াদ বাড়ানোর বিষয়টি এজেন্ডায় নেই।",
-          "নতুন চুক্তির বিষয়টি এবারের বৈঠকের আলোচনার এজেন্ডায় রাখা হয়নি বলে জানিয়েছে যৌথ নদী কমিশন।"
+          "অভিযানে ইয়াছিন আরাফাত সৌরভের কোমর থেকে কমলা রঙের কাপড়ে মোড়ানো ১৫টি ডিম্বাকৃতির সোনার পেস্টের বস্তু উদ্ধার করা হয়।",
+          "উদ্ধার করা সোনার পেস্টের বিশুদ্ধতা ২৪ ক্যারেট এবং এর আনুমানিক বাজারমূল্য ১১ কোটি ৬৭ লাখ টাকা।",
+          "আটক ব্যক্তিরা হলেন ইয়াছিন আরাফাত সৌরভ, জাকিরুল ইসলাম জুয়েল এবং শাওন।"
         ],
         "bullets_en": [
-          "Representatives of both countries will exchange data and information regarding the sharing of the Ganges and Padma rivers.",
-          "The extension of the historic Ganges water-sharing treaty ending on December 12 is not on the agenda.",
-          "The Joint Rivers Commission stated that the issue of a new treaty has not been included in the agenda of this meeting."
+          "Fifteen egg-shaped objects wrapped in orange cloth containing gold paste were recovered from Yasin Arafat Sourav's waist during the drive.",
+          "The purity of the recovered gold paste is 24 carats and its estimated market value is 11.67 crore taka.",
+          "The detained individuals are Yasin Arafat Sourav, Zakirul Islam Jewel, and Shawon."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "এর আগে গত ২২ মে ভারতের কলকাতায় যৌথ নদী কমিশনের বৈঠক অনুষ্ঠিত হয়েছিল।",
-        "details_en": "Earlier, the Joint Rivers Commission meeting was held in Kolkata, India on May 22.",
-        "hook_bn": "ঢাকায় বাংলাদেশ ভারত যৌথ নদী কমিশনের বৈঠক",
-        "kicker_bn": "নতুন তারিখ",
+        "details_bn": "এয়ারপোর্ট এপিবিএন জানায়, গোয়েন্দা তথ্যের ভিত্তিতে বিমানবন্দরের আগমনী ২ নম্বর ক্যানোপির বহির্গমন ফটক এলাকায় অভিযান চালানো হয়। প্রাথমিক জিজ্ঞাসাবাদে জানা যায়, ইয়াছিন আরাফাত সৌরভ নিয়মিত সৌদি আরব থেকে বিশেষ কৌশলে সোনা আনতেন এবং জাকিরুল ইসলাম জুয়েল, শাওন ও দেশের অন্য সহযোগীদের নিয়ে চোরাচালান করতেন।",
+        "details_en": "Airport APBn stated that the drive was conducted near the exit gate of arrival canopy 2 of the airport based on intelligence. Initial interrogation revealed that Yasin Arafat Sourav regularly brought gold from Saudi Arabia using special methods and smuggled it with the cooperation of Zakirul Islam Jewel, Shawon, and others in the country.",
+        "hook_bn": "শাহজালাল বিমানবন্দরে সাড়ে ৭ কেজি সোনা উদ্ধার",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-21T18:02:05.310323+00:00"
+      }
+    },
+    {
+      "story_id": "142223f6-1d14-5fad-9de4-6f54d6b60bca",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#DhakaStockExchange",
+        "#DSE",
+        "#BangladeshEconomy"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2025/09/07/dse.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-21T15:40:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.1419,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/stocks/auditors-flag-survival-risks-60-listed-firms-sparking-investor-concerns-1609891",
+          "title": "Auditors flag survival risks at 60 listed firms, sparking investor concerns",
+          "snippet": "Auditors flag survival risks at 60 listed firms, sparking investor concerns"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ডিএসই-র তালিকাভুক্ত ৬০টি কোম্পানির টিকে থাকা নিয়ে শঙ্কা",
+        "title_en": "Auditors flag survival risks at 60 listed firms",
+        "summary_bn": "ঢাকা স্টক এক্সচেঞ্জের তালিকাভুক্ত ৬০টি কোম্পানি তাদের কার্যক্রম চালিয়ে যাওয়া নিয়ে শঙ্কার মুখে পড়েছে।",
+        "summary_en": "The number of listed companies facing doubts over their ability to continue operations has risen sharply to 60.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-21T15:40:00+00:00",
+        "lead_bn": "ঢাকা স্টক এক্সচেঞ্জের তালিকাভুক্ত ৬০টি কোম্পানি তাদের কার্যক্রম চালিয়ে যাওয়া নিয়ে শঙ্কার মুখে পড়েছে।",
+        "lead_en": "The number of listed companies facing doubts over their ability to continue operations has risen sharply to 60.",
+        "bullets_bn": [
+          "চলতি হিসাববছরের অডিট প্রতিবেদনে ডোরিন পাওয়ারকে বাদ দেওয়া হয়েছে এবং ১১টি কোম্পানি নতুন যুক্ত হয়েছে।",
+          "তালিকায় থাকা কোম্পানিগুলোর মধ্যে ২০টি বর্তমানে অকার্যকর অবস্থায় রয়েছে বলে আলাদা তালিকায় জানানো হয়েছে।",
+          "তালিকার মধ্যে রয়েছে সোশ্যাল ইসলামী ব্যাংক, ইউনিয়ন ব্যাংক, গ্লোবাল ইসলামী ব্যাংক, এক্সিম ব্যাংক এবং ফার্স্ট সিকিউরিটি ইসলামী ব্যাংক।"
+        ],
+        "bullets_en": [
+          "Only Doreen Power was removed from the list in the FY26 audit reports, while 11 companies were added.",
+          "Of the flagged companies, 20 are currently non-operational, according to a separate DSE list based on auditors' opinions.",
+          "The list includes five merged banks—Social Islami Bank, Union Bank, Global Islami Bank, Exim Bank, and First Security Islami Bank."
+        ],
+        "impact_bn": "খুচরা বিনিয়োগকারীরা অপর্যাপ্ত তথ্য প্রকাশ এবং আর্থিক প্রতিবেদন প্রকাশে বিলম্বের কারণে বিশেষ ঝুঁকির মধ্যে রয়েছেন।",
+        "impact_en": "Retail investors are particularly exposed because of inadequate disclosures and delays in publishing financial information.",
+        "details_bn": "অডিটরদের মতে, ক্রমাগত লোকসান, অতিরিক্ত ঋণ, ঋণাত্মক নগদ প্রবাহ, তারল্য সংকট বা উৎপাদন ব্যাহত হওয়ার কারণে এই শঙ্কা তৈরি হতে পারে। এই কোম্পানিগুলো ডিএসই-র ৩৬০টি তালিকাভুক্ত কোম্পানির প্রায় ১৭ শতাংশ। বাজার বিশেষজ্ঞরা নিয়ন্ত্রক সংস্থাকে তদারকি বাড়ানোর আহ্বান জানিয়েছেন।",
+        "details_en": "A going concern warning indicates significant uncertainty over a company's ability to continue operating and meet its financial obligations, often stemming from persistent losses or liquidity shortages.",
+        "hook_bn": "তালিকাভুক্ত ৬০ কোম্পানির টিকে থাকা নিয়ে শঙ্কা",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": "পুঁজিবাজারে তালিকাভুক্ত কোম্পানির আর্থিক অবস্থা সম্পর্কে বিনিয়োগকারীরা কীভাবে আরও সতর্ক হতে পারেন বলে আপনার মনে হয়?"
       },
       "desk_importance": 6.0,
       "outlet_count": 1,
       "trending": false,
-      "social_appeal": 5.0,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-21T17:02:00.099295+00:00"
+        "checked_at": "2026-11-21T18:02:05.310323+00:00"
       }
     },
     {
-      "story_id": "0d26a39f-b203-5418-825c-1897d0a25450",
+      "story_id": "fe2ffe40-fe5b-5324-b04a-53451ed53895",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#FBI",
+        "#CyberSecurity",
+        "#US"
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-21T16:35:15+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.5,
+      "rank_score": 2.7843,
+      "sources": [
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+          "title": "FBI reportedly investigating apparent hack of its criminal database",
+          "snippet": "FBI reportedly investigating apparent hack of its criminal database"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/us-agriculture-department-fbi-hacked/",
+          "title": "সাইবার হামলার শিকার যুক্তরাষ্ট্রের এফবিআই ও কৃষি বিভাগ",
+          "snippet": "সাইবার হামলার শিকার যুক্তরাষ্ট্রের এফবিআই ও কৃষি বিভাগ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যুক্তরাষ্ট্রের অপরাধ সংক্রান্ত তথ্যভান্ডারে সাইবার হামলার তদন্ত শুরু করেছে এফবিআই।",
+        "title_en": "The FBI is investigating an apparent breach of its criminal information database.",
+        "summary_bn": "যুক্তরাষ্ট্রের কেন্দ্রীয় তদন্ত সংস্থা এফবিআই তাদের অপরাধ সংক্রান্ত তথ্যভান্ডারের সম্ভাব্য সাইবার হামলার তদন্ত শুরু করেছে বলে মার্কিন সংবাদমাধ্যম জানিয়েছে।",
+        "summary_en": "The FBI is investigating an apparent breach of its criminal information database, US media reports citing two people briefed on the issue.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation",
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-21T16:35:15+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের কেন্দ্রীয় তদন্ত সংস্থা এফবিআই তাদের অপরাধ সংক্রান্ত তথ্যভান্ডারের সম্ভাব্য সাইবার হামলার তদন্ত শুরু করেছে বলে মার্কিন সংবাদমাধ্যম জানিয়েছে।",
+        "lead_en": "The FBI is investigating an apparent breach of its criminal information database, US media reports citing two people briefed on the issue.",
+        "bullets_bn": [
+          "প্রেসিডেন্ট ডোনাল্ড ট্রাম্প জানিয়েছেন বিষয়টি তিনি মাত্র শুনেছেন এবং এটি ভালো কিছু নয়।",
+          "যুক্তরাষ্ট্রের কৃষি বিভাগ ও এফবিআই সাইবার হামলার শিকার হয়েছে বলে চ্যানেল আই জানিয়েছে।",
+          "হোয়াইট হাউসের ন্যাশনাল সাইবার ডিরেক্টর শন কেয়ার্নক্রসকে এই সপ্তাহে বরখাস্ত করা হয়েছে।"
+        ],
+        "bullets_en": [
+          "President Donald Trump stated he had just heard about the hack and did not like it.",
+          "Channel i reported that the US Department of Agriculture and the FBI faced cyberattacks.",
+          "White House National Cyber Director Sean Cairncross was fired this week."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ফেডারেল ও স্থানীয় আইন প্রয়োগকারী সংস্থা ওয়ারেন্ট এবং ব্যাকগ্রাউন্ড চেক সম্পর্কিত তথ্য শেয়ার করতে ন্যাশনাল ক্রাইম ইনফরমেশন সেন্টার ডেটাবেস ব্যবহার করে। এর আগে সেপ্টেম্বর মাসে এফবিআই জানিয়েছিল সাইবার অপরাধী দল শাইনি হান্টার্সের একটি সম্ভাব্য ভাঙনের তদন্ত করছে তারা। গত সপ্তাহে যুক্তরাষ্ট্রজুড়ে ব্যাংকিং ও বিমান চলাচল খাতে প্রযুক্তিগত বিপর্যয় ঘটেছিল।",
+        "details_en": "The National Crime Information Center database is used by law enforcement to share information on warrants and background checks. In September, the FBI investigated an apparent breach by ShinyHunters. Last week, tech outages hit banking and air traffic control sectors in the US.",
+        "hook_bn": "যুক্তরাষ্ট্রের এফবিআই ডেটাবেসে সাইবার হামলার তদন্ত",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": true,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-21T18:02:05.310323+00:00"
+      }
+    },
+    {
+      "story_id": "b8dc853c-d5ec-53e9-8748-89baf8ec141f",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
@@ -82,35 +238,36 @@
       ],
       "region": "national",
       "tags": [
-        "#Mugda",
-        "#BPDB",
-        "#BangladeshPolice"
+        "#TaranaHalim",
+        "#Gulshan",
+        "#BangladeshPolice",
+        "#AwamiLeague"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2025/11/15/crude_bomb.png",
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182528/16232.jpg",
       "image_caption": null,
-      "published_at": "2026-11-21T14:50:00+00:00",
+      "published_at": "2026-11-21T18:00:59.267241+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.4426,
+      "importance_score": 5.0,
+      "rank_score": 2.4991,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/crime/crude-bomb-explodes-front-power-development-board-officers-quarters-mugda-1609861",
-          "title": "Crude bomb explodes in front of Power Development Board officers' quarters in Mugda",
-          "snippet": "Crude bomb explodes in front of Power Development Board officers' quarters in Mugda"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/police-search-tarana-halims-gulshan-home",
+          "title": "Police search Tarana Halim's Gulshan home",
+          "snippet": "Police search Tarana Halim's Gulshan home"
         },
         {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/crude-bomb-explodes-front-bpdb-officers-quarters-dhakas-mugda-4329691",
-          "title": "Crude bomb explodes in front of BPDB officers' quarters in Dhaka's Mugda",
-          "snippet": "Crude bomb explodes in front of BPDB officers' quarters in Dhaka's Mugda"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/law-and-crime/982433/%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%B9%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A7%8B%E0%A6%81%E0%A6%9C%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8",
+          "title": "তারানা হালিমের খোঁজে বাসায় পুলিশের অভিযান",
+          "snippet": "তারানা হালিমের খোঁজে বাসায় পুলিশের অভিযান"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মুগদায় বিপিডিবি কর্মকর্তাদের কোয়ার্টারের সামনে ককটেল বিস্ফোরণ",
-        "title_en": "Crude bomb explodes in front of BPDB quarters in Mugda",
-        "summary_bn": "২১ নভেম্বর সন্ধ্যায় ঢাকার মুগদায় বাংলাদেশ বিদ্যুৎ উন্নয়ন বোর্ডের কর্মকর্তাদের কোয়ার্টারের গেটের সামনে একটি ককটেল বিস্ফোরিত হয়েছে।",
-        "summary_en": "A crude bomb exploded in front of the gate of the Bangladesh Power Development Board officers quarters in Mugda, Dhaka, on 21 November.",
+        "title_bn": "তারানা হালিমের গুলশানের বাসায় পুলিশের অভিযান",
+        "title_en": "Police search Tarana Halim's Gulshan home",
+        "summary_bn": "পুলিশ সাবেক প্রতিমন্ত্রী তারানা হালিমের গুলশানের বাসা তল্লাশি করেছে তবে তাকে পায়নি।",
+        "summary_en": "Police have searched the Gulshan home of former state minister Tarana Halim but did not find her.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -118,181 +275,35 @@
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T14:50:00+00:00",
-        "lead_bn": "২১ নভেম্বর সন্ধ্যায় ঢাকার মুগদায় বাংলাদেশ বিদ্যুৎ উন্নয়ন বোর্ডের কর্মকর্তাদের কোয়ার্টারের গেটের সামনে একটি ককটেল বিস্ফোরিত হয়েছে।",
-        "lead_en": "A crude bomb exploded in front of the gate of the Bangladesh Power Development Board officers quarters in Mugda, Dhaka, on 21 November.",
+        "published_at": "2026-11-21T18:00:59.267241+00:00",
+        "lead_bn": "পুলিশ সাবেক প্রতিমন্ত্রী তারানা হালিমের গুলশানের বাসা তল্লাশি করেছে তবে তাকে পায়নি।",
+        "lead_en": "Police have searched the Gulshan home of former state minister Tarana Halim but did not find her.",
         "bullets_bn": [
-          "রাত সাতটা পঞ্চাশ মিনিটের দিকে এই বিস্ফোরণের ঘটনা ঘটে।",
-          "এই ঘটনায় কোনো হতাহতের খবর পাওয়া যায়নি বলে পুলিশ জানিয়েছে।",
-          "পরিচয়হীন দুর্বৃত্তরা গেটের সামনে ককটেল ফেলে পালিয়ে যায় বলে পুলিশ জানায়।"
+          "গুলশান-২ এলাকার বাসায় বিকাল থেকে রাত পৌনে আটটা পর্যন্ত পুলিশ অবস্থান করে।",
+          "গুলশান থানার প্রধান জায়েদুল নূর জানান তথ্য সঠিক ছিল না এবং অভিযান তারানার সাথে সম্পর্কিত নয়।",
+          "নিরাপত্তা প্রহরী শরীফ মিয়া জানান তিনি দেশত্যাগ করেছেন এবং পুলিশ কিছু মালামাল নামিয়েছে।"
         ],
         "bullets_en": [
-          "The explosion took place around 7:50pm.",
-          "No casualties were reported, police said.",
-          "Unidentified miscreants threw a crude bomb in front of the gate before fleeing, police said."
+          "The police remained at the Gulshan-2 residence from Saturday afternoon until 7:45 pm.",
+          "Gulshan Police chief Zayed Noor said the information was untrue and the operation had no connection with Tarana.",
+          "Security guard Sharif Mia claimed she had left the country and police brought some belongings downstairs."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "খবর পেয়ে পুলিশ ঘটনাস্থলে পৌঁছেছে এবং এই ঘটনার সঙ্গে জড়িতদের শনাক্ত করে গ্রেপ্তার করতে সিসিটিভি ফুটেজ সংগ্রহ করছে।",
-        "details_en": "Police reached the scene after receiving information about the incident and are collecting CCTV footage to identify and arrest those involved.",
-        "hook_bn": "মুগদায় বিপিডিবি কোয়ার্টারের সামনে ককটেল বিস্ফোরণ",
-        "kicker_bn": "অপরাধ",
+        "details_bn": "জুলাই অভ্যুত্থানের পর দলীয় শাসন শেষ হওয়ার পর থেকে সংরক্ষিত নারী আসনের সাবেক সংসদ সদস্য তারানা হালিম প্রকাশ্যে আসেননি। অভিযানে ১০ থেকে ১২ জন পুলিশ সদস্য ও সাদা পোশাকের গোয়েন্দা কর্মকর্তা অংশ নেন।",
+        "details_en": "Tarana, a former Awami League lawmaker elected to a reserved women's seat, has not appeared in public since the July Uprising ended her party's rule. At least 10 to 12 police personnel and plainclothes intelligence officers were seen at the building during the operation.",
+        "hook_bn": "তারানা হালিমের গুলশানের বাসায় পুলিশের অভিযান",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 6.0,
+      "desk_importance": 5.0,
       "outlet_count": 2,
       "trending": false,
-      "social_appeal": 7.0,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-21T17:02:00.099295+00:00"
-      }
-    },
-    {
-      "story_id": "883f28a2-39fe-53a2-969b-087dcf5126f7",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "international",
-      "tags": [
-        "#Kaliningrad",
-        "#Finland",
-        "#Russia",
-        "#SpartaII"
-      ],
-      "image_url": "https://th-i.thgim.com/public/incoming/ldpog9/article71729312.ece/alternates/LANDSCAPE_1200/2026-11-21T160708Z_1736225898_RC2DSOAQBVC2_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-VESSEL.JPG",
-      "image_caption": null,
-      "published_at": "2026-11-21T16:51:03+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5647,
-      "sources": [
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/cargo-ship-bound-for-russias-kaliningrad-hit-by-drones-finland-tightens-security/article71729285.ece",
-          "title": "Cargo ship bound for Russia's Kaliningrad hit by drones, Finland tightens security",
-          "snippet": "Cargo ship bound for Russia's Kaliningrad hit by drones, Finland tightens security"
-        },
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-all-1573-rdf",
-          "title": "Russia strikes Zelenskyy's hometown, killing 2",
-          "snippet": "Russia strikes Zelenskyy's hometown, killing 2"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রাশিয়ার কার্গো জাহাজে ড্রোন হামলা, ফিনল্যান্ডের নিরাপত্তা জোরদার",
-        "title_en": "Cargo ship bound for Russia's Kaliningrad hit by drones, Finland tightens security",
-        "summary_bn": "রাশিয়ার কালিনিনগ্রাদমুখী একটি কার্গো জাহাজে আন্তর্জাতিক জলসীমায় ড্রোন হামলা হয়েছে, যার ফলে ফিনল্যান্ড ওই এলাকায় নিরাপত্তা জোরদার করেছে।",
-        "summary_en": "A cargo ship bound for Russia's Kaliningrad was struck by drones in international waters, prompting Finland to tighten security measures.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-21T16:51:03+00:00",
-        "lead_bn": "রাশিয়ার কালিনিনগ্রাদমুখী একটি কার্গো জাহাজে আন্তর্জাতিক জলসীমায় ড্রোন হামলা হয়েছে, যার ফলে ফিনল্যান্ড ওই এলাকায় নিরাপত্তা জোরদার করেছে।",
-        "lead_en": "A cargo ship bound for Russia's Kaliningrad was struck by drones in international waters, prompting Finland to tighten security measures.",
-        "bullets_bn": [
-          "স্পার্টা টু নামের জাহাজটি ক্ষতিগ্রস্ত হয়ে আগুন ধরে যাওয়ার পর ফিনল্যান্ডের জলসীমায় চলে আসে।",
-          "লেনিনগ্রাদ অঞ্চলের গভর্নর আলেকসান্দ্র দ্রোজদেনকো জানান, রাশিয়ার সীমান্ত থেকে প্রায় তিন নটিক্যাল দূরে জাহাজটিতে হামলা হয়।",
-          "ফিনল্যান্ডের প্রতিরক্ষা মন্ত্রণালয় পূর্ব ফিনল্যান্ড উপসাগরে সাময়িক বিমান ও সামুদ্রিক নিষেধাজ্ঞা পুনর্বহাল করেছে।"
-        ],
-        "bullets_en": [
-          "The vessel Sparta II was damaged, caught fire and drifted into Finnish territorial waters.",
-          "Leningrad region Governor Aleksandr Drozdenko said the vessel was attacked about three nautical miles from Russia's border.",
-          "Finland's Defence Ministry reintroduced temporary aviation and maritime restrictions in the eastern Gulf of Finland."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "রাশিয়ার কার্গো জাহাজে ড্রোন হামলা",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-21T17:02:00.099295+00:00"
-      }
-    },
-    {
-      "story_id": "0d65b845-1d9d-5856-8afe-83cfa1bef9c1",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1650532114493-99adf3f0623f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGhha2ElMjBnb3Zlcm5tZW50JTIwc2Nob29sJTIwY2xhc3MlMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NTI4MDUyMHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-21T15:51:58+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.3676,
-      "sources": [
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822286/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%81%E0%A6%B2%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF%E0%A6%B0-%E0%A6%AD%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%B2%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A7%A7%E0%A7%AB",
-          "title": "ঢাকার সরকারি স্কুলে প্রথম শ্রেণির ভর্তি লটারি ১৫ ডিসেম্বর",
-          "snippet": "ঢাকার সরকারি স্কুলে প্রথম শ্রেণির ভর্তি লটারি ১৫ ডিসেম্বর"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ঢাকার সরকারি স্কুলে প্রথম শ্রেণির ভর্তি লটারি ১৫ ডিসেম্বর",
-        "title_en": "Dhaka government school class one admission lottery on 15 December",
-        "summary_bn": "ঢাকা মহানগরীর সরকারি মাধ্যমিক বিদ্যালয়গুলোতে প্রথম শ্রেণিতে ভর্তির লটারি আগামী ১৫ ডিসেম্বর অনুষ্ঠিত হবে।",
-        "summary_en": "The admission lottery for class one in Dhaka metropolitan government secondary schools will be held on 15 December.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-21T15:51:58+00:00",
-        "lead_bn": "ঢাকা মহানগরীর সরকারি মাধ্যমিক বিদ্যালয়গুলোতে প্রথম শ্রেণিতে ভর্তির লটারি আগামী ১৫ ডিসেম্বর অনুষ্ঠিত হবে।",
-        "lead_en": "The admission lottery for class one in Dhaka metropolitan government secondary schools will be held on 15 December.",
-        "bullets_bn": [
-          "২০২৭ শিক্ষাবর্ষে ঢাকা মহানগরীর সরকারি মাধ্যমিক বিদ্যালয়গুলোতে প্রথম শ্রেণিতে ভর্তির জন্য শিক্ষার্থী নির্বাচন করা হবে লটারির মাধ্যমে।",
-          "দ্বিতীয় থেকে নবম শ্রেণিতে ভর্তি নেওয়া হবে লিখিত পরীক্ষার মাধ্যমে।",
-          "আসন্ন শিক্ষাবর্ষে ঢাকা মহানগরীর ৪৬টি সরকারি মাধ্যমিক বিদ্যালয় ও তিনটি ফিডার শাখায় শিক্ষার্থী ভর্তি করা হবে।"
-        ],
-        "bullets_en": [
-          "Students will be selected through a lottery for admission to class one in Dhaka metropolitan government secondary schools for the 2027 academic year.",
-          "Admission to classes two through nine will be conducted through written examinations.",
-          "Students will be admitted to 46 government secondary schools and three feeder branches in the Dhaka metropolitan area for the upcoming academic year."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "১৫ ডিসেম্বর সরকারি স্কুলের ভর্তি লটারি",
-        "kicker_bn": "নতুন তারিখ",
-        "share_value": true,
-        "question_bn": "আপনার এলাকার সরকারি স্কুলের ভর্তি নিয়ে আপনার কোনো অভিজ্ঞতা আছে কি?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-21T17:02:00.099295+00:00"
+        "checked_at": "2026-11-21T18:02:05.310323+00:00"
       }
     }
   ]
