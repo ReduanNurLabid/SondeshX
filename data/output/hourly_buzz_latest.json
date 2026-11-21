@@ -1,157 +1,432 @@
 {
-  "updated_at": "2026-11-21T05:00:44.325467",
-  "total_stories": 2,
+  "updated_at": "2026-11-21T06:00:39.441799",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "24286f0a-1a07-5a15-8c9c-217c112677c6",
-      "primary_category": "governance_law",
+      "story_id": "7486062e-61ff-5ca2-84bf-d00add5ff105",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
+        "world_diplomacy",
+        "society_education",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-21%2Fethnnnlx%2FWhatsApp-Image-2026-11-21-at-10.21.12-AM.jpeg?rect=0%2C0%2C1152%2C605&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://images.unsplash.com/photo-1549154425-7b519f2b92d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bWFsYXlzaWElMjBkZXRhaW5zJTIwZm9yZWlnbiUyMHdvcmtlcnMlMjBkaXBsb21hY3l8ZW58MXwwfHx8MTc5NTI0MDk4NXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-21T04:07:46+00:00",
+      "published_at": "2026-11-21T05:49:26+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 9.0,
-      "rank_score": 7.6867,
+      "importance_score": 6.0,
+      "rank_score": 3.5534,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/e5xzut6nj9",
-          "title": "ঢাকা ও গোপালগঞ্জসহ ৮ জেলায় ৯০ প্লাটুন বিজিবি, থাকবে বডি–ওর্ন ক্যামেরা, ওড়ানো হবে ড্রোন",
-          "snippet": "ঢাকা ও গোপালগঞ্জসহ ৮ জেলায় ৯০ প্লাটুন বিজিবি, থাকবে বডি–ওর্ন ক্যামেরা, ওড়ানো হবে ড্রোন"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/90-platoons-bgb-deployed-dhaka-several-districts-maintain-law-and-order-1609211",
-          "title": "90 platoons of BGB deployed in Dhaka, several districts to maintain law and order",
-          "snippet": "90 platoons of BGB deployed in Dhaka, several districts to maintain law and order"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/425296/90-bgb-platoons-deployed-in-seven-districts",
-          "title": "90 BGB platoons deployed in seven districts",
-          "snippet": "90 BGB platoons deployed in seven districts"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822162/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B8%E0%A6%B9-%E0%A6%86%E0%A6%9F-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A7%AF%E0%A7%A6-%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%9F%E0%A7%81%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%BF-%E0%A6%AE%E0%A7%8B%E0%A6%A4%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%A8-%E0%A6%93%E0%A6%A1%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A7%8B",
-          "title": "ঢাকাসহ আট জেলায় ৯০ প্লাটুন বিজিবি মোতায়েন, ওড়ানো হবে ড্রোন",
-          "snippet": "ঢাকাসহ আট জেলায় ৯০ প্লাটুন বিজিবি মোতায়েন, ওড়ানো হবে ড্রোন"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/probash/news/1181883",
+          "title": "মালয়েশিয়ায় ৩৪ কারখানায় সাঁড়াশি অভিযান, বাংলাদেশিসহ ৫১৯ প্রবাসী আটক",
+          "snippet": "মালয়েশিয়ায় ৩৪ কারখানায় সাঁড়াশি অভিযান, বাংলাদেশিসহ ৫১৯ প্রবাসী আটক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আইনশৃঙ্খলা রক্ষায় আট জেলায় ৯০ প্লাটুন বিজিবি মোতায়েন",
-        "title_en": "Ninety platoons of BGB deployed in eight districts to maintain law and order",
-        "summary_bn": "আইনশৃঙ্খলা পরিস্থিতি নিয়ন্ত্রণ ও জননিরাপত্তা নিশ্চিত করতে ঢাকা মহানগর ও গোপালগঞ্জসহ দেশের আট জেলায় ৯০ প্লাটুন বিজিবি মোতায়েন করা হয়েছে।",
-        "summary_en": "Ninety platoons of Border Guard Bangladesh have been deployed in eight districts including Dhaka and Gopalganj to control law and order.",
+        "title_bn": "মালয়েশিয়ায় ৩৪ কারখানায় অভিযান, বাংলাদেশিসহ ৫১৯ প্রবাসী আটক",
+        "title_en": "Malaysia detains 519 foreign workers including Bangladeshis in factory raids",
+        "summary_bn": "মালয়েশিয়াজুড়ে বিদেশি কর্মীদের বিরুদ্ধে বড় ধরনের সাঁড়াশি অভিযান চালিয়েছে দেশটির অভিবাসন বিভাগ, যাতে বাংলাদেশিসহ ৫১৯ জন আটক হয়েছেন।",
+        "summary_en": "Malaysia's immigration department conducted a massive crackdown against foreign workers, detaining 519 individuals including Bangladeshis.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "world_diplomacy",
+          "society_education",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T04:07:46+00:00",
-        "lead_bn": "আইনশৃঙ্খলা পরিস্থিতি নিয়ন্ত্রণ ও জননিরাপত্তা নিশ্চিত করতে ঢাকা মহানগর ও গোপালগঞ্জসহ দেশের আট জেলায় ৯০ প্লাটুন বিজিবি মোতায়েন করা হয়েছে।",
-        "lead_en": "Ninety platoons of Border Guard Bangladesh have been deployed in eight districts including Dhaka and Gopalganj to control law and order.",
+        "published_at": "2026-11-21T05:49:26+00:00",
+        "lead_bn": "মালয়েশিয়াজুড়ে বিদেশি কর্মীদের বিরুদ্ধে বড় ধরনের সাঁড়াশি অভিযান চালিয়েছে দেশটির অভিবাসন বিভাগ, যাতে বাংলাদেশিসহ ৫১৯ জন আটক হয়েছেন।",
+        "lead_en": "Malaysia's immigration department conducted a massive crackdown against foreign workers, detaining 519 individuals including Bangladeshis.",
         "bullets_bn": [
-          "স্বরাষ্ট্র মন্ত্রণালয়ের নির্দেশক্রমে মোতায়েন করা বিজিবি সদস্যরা জেলা প্রশাসন ও আইনশৃঙ্খলা রক্ষাকারী অন্যান্য বাহিনীর সঙ্গে সমন্বয় করে দায়িত্ব পালন করবেন।",
-          "ঢাকা জেলায় ১৮ প্লাটুন, ঢাকা মহানগরে ৫ প্লাটুন, নারায়ণগঞ্জে ৬ প্লাটুন, গাজীপুরে ১৫ প্লাটুন এবং গোপালগঞ্জে ২৯ প্লাটুন বিজিবি দায়িত্ব পালন করছে।",
-          "ময়মনসিংহে ২ প্লাটুন, ফরিদপুরে ৫ প্লাটুন এবং কক্সবাজারে ৬ প্লাটুন বিজিবি সদস্য দায়িত্ব পালন করছেন এবং চার প্লাটুন প্রস্তুত রাখা হয়েছে।"
+          "অভিযানটি মালয়েশিয়ার ৩৪টি কারখানায় একযোগে পরিচালিত হয়।",
+          "আটককৃতদের মধ্যে বাংলাদেশিসহ বিভিন্ন দেশের নাগরিকরা রয়েছেন।",
+          "মালয়েশিয়ার অভিবাসন বিভাগ বিদেশি কর্মীদের বিরুদ্ধে এই বড় ধরনের সাঁড়াশি অভিযান চালায়।"
         ],
         "bullets_en": [
-          "Deployed BGB members will perform duties in coordination with district administrations and other law enforcement agencies under the directives of the Ministry of Home Affairs.",
-          "Eighteen platoons in Dhaka district, five in Dhaka metropolitan, six in Narayanganj, fifteen in Gazipur, and twenty-nine in Gopalganj are performing duties.",
-          "Two platoons in Mymensingh, five in Faridpur, and six in Cox's Bazar are on duty while four platoons are kept on standby."
+          "The operation was conducted simultaneously across 34 factories in Malaysia.",
+          "Those detained include nationals from various countries along with Bangladeshis.",
+          "Malaysia's immigration department carried out this major crackdown against foreign workers."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বিজিবির সংবাদ বিজ্ঞপ্তিতে জানানো হয়, সংশ্লিষ্ট জেলাগুলোর গুরুত্বপূর্ণ স্থাপনা, শিল্পাঞ্চল ও অন্যান্য গুরুত্বপূর্ণ স্থানে নিরাপত্তা ও নজরদারি জোরদার করা হবে। মাঠপর্যায়ের পরিস্থিতি পর্যবেক্ষণের জন্য ড্রোন, বডি-ওয়র্ন ক্যামেরা ও অন্যান্য প্রযুক্তির লাইভ ফুটেজ পর্যবেক্ষণ করা হচ্ছে।",
-        "details_en": "According to a BGB press release, security and surveillance will be strengthened at key installations, industrial zones, and other important locations in the respective districts. Live footage from drones, body-worn cameras, and other technologies is being monitored to observe field-level situations.",
-        "hook_bn": "আট জেলায় ৯০ প্লাটুন বিজিবি মোতায়েন",
-        "kicker_bn": "সতর্কতা",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "মালয়েশিয়ায় ৩৪ কারখানায় আটক ৫১৯ প্রবাসী",
+        "kicker_bn": null,
         "share_value": false,
-        "question_bn": "আপনার এলাকায় আইনশৃঙ্খলা পরিস্থিতি কেমন দেখছেন?"
+        "question_bn": null
       },
-      "desk_importance": 8.0,
-      "outlet_count": 4,
-      "trending": true,
-      "social_appeal": 8.0,
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-21T05:02:56.409202+00:00"
+        "checked_at": "2026-11-21T06:03:26.049078+00:00"
       }
     },
     {
-      "story_id": "ff9aa314-4454-5f77-b141-bf29aeaddde6",
+      "story_id": "1e349b54-80e0-553c-a06e-8d39b1965791",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#MetroRail",
+        "#DTCA",
+        "#DMTCL",
+        "#QRCode"
+      ],
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182432/uj.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-21T06:00:50.410439+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4949,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/metro-rail-to-introduce-qr-code-credit-card-payment-soon",
+          "title": "Metro rail to introduce QR code, credit-card payment soon",
+          "snippet": "Metro rail to introduce QR code, credit-card payment soon"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মেট্রোরেল ও বাসে কিউআর কোড চালুর উদ্যোগ নিয়েছে ডিটিসিএ",
+        "title_en": "DTCA moves to introduce QR code payment for metro rail and buses",
+        "summary_bn": "ঢাকা পরিবহন সমন্বয় কর্তৃপক্ষ মেট্রোরেল ও বাস সেবায় কিউআর কোডভিত্তিক পেমেন্ট ও রিচার্জ অপশন চালুর উদ্যোগ নিয়েছে।",
+        "summary_en": "The Dhaka Transport Coordination Authority is working to introduce QR code-based payments and recharging options for metro rail and bus services.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-21T06:00:50.410439+00:00",
+        "lead_bn": "ঢাকা পরিবহন সমন্বয় কর্তৃপক্ষ মেট্রোরেল ও বাস সেবায় কিউআর কোডভিত্তিক পেমেন্ট ও রিচার্জ অপশন চালুর উদ্যোগ নিয়েছে।",
+        "lead_en": "The Dhaka Transport Coordination Authority is working to introduce QR code-based payments and recharging options for metro rail and bus services.",
+        "bullets_bn": [
+          "হাতিরঝিল সার্কুলার বাসে কিউআর কোডভিত্তিক টিকিটিং ইতিমধ্যেই চালু করা হয়েছে।",
+          "মেট্রোরেলের একক যাত্রার টিকিটের জন্য কিউআর কোড প্রস্তুত রয়েছে বলে জানিয়েছেন ড. মোশহুর রহমান।",
+          "কর্তৃপক্ষের আইটি টিম অ্যাপভিত্তিক পেমেন্ট এবং দৈনিক ও সাপ্তাহিক পাসের ব্যবস্থা নিয়ে কাজ করছে।"
+        ],
+        "bullets_en": [
+          "QR code-based ticketing has already been introduced on Hatirjheel circular buses.",
+          "QR codes are ready for single-journey MRT tickets, according to Dr Moshiur Rahman.",
+          "The IT team is working on app-based payments and daily and weekly passes."
+        ],
+        "impact_bn": "commuters using metro rail and bus services are likely to benefit from a fully digital ticketing system soon.",
+        "impact_en": "Commuters using metro rail and bus services are likely to benefit from a fully digital ticketing system soon.",
+        "details_bn": "ঢাকা পরিবহন সমন্বয় কর্তৃপক্ষ ম্যাস র‍্যাপিড ট্রানজিট ও সার্কুলার বাস সার্ভিসে সহজে ভাড়া আদায় ব্যবস্থা চালুর কাজ করছে। এর আগে ডিএমটিসিএল এমআরটি ভাড়া সংগ্রহ ব্যবস্থায় ই-টিকিটিং চালুর চেষ্টা করে ব্যর্থ হয়েছিল।",
+        "details_en": "The Dhaka Transport Coordination Authority has been working to introduce easier payment methods initially targeting mass rapid transit and circular bus services. DMTCL had earlier attempted to introduce e-ticketing in the MRT fare collection system but failed to attract vendors.",
+        "hook_bn": "মেট্রোরেলে আসছে কিউআর কোড পেমেন্ট",
+        "kicker_bn": "নতুন সেবা",
+        "share_value": true,
+        "question_bn": "মেট্রোরেলে ডিজিটাল টিকিটিং ব্যবস্থা চালু হলে আপনাদের যাতায়াত কতটা সহজ হবে বলে মনে করেন?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-21T06:03:26.049078+00:00"
+      }
+    },
+    {
+      "story_id": "91c92284-5307-5044-bb9b-739bffdd820e",
       "primary_category": "economy_business",
       "interest_categories": [
-        "economy_business"
+        "economy_business",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
         "#Economy",
         "#Finance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-07-11%2Fb5x566pl%2FBusiness-2.jpg?rect=0%2C111%2C1561%2C820&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-20%2Fuzh7ky5m%2FUntitled-2.jpg?rect=0%2C36%2C1920%2C1008&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-21T04:00:00+00:00",
+      "published_at": "2026-11-21T05:38:14+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.6153,
+      "importance_score": 5.0,
+      "rank_score": 2.4412,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/business/industry/s9ytnyqzr8",
-          "title": "চামড়া পণ্য ও জুতা কারখানার শ্রমিকের ন্যূনতম মজুরি বাড়ল ৪,৮০০ টাকা",
-          "snippet": "চামড়া পণ্য ও জুতা কারখানার শ্রমিকের ন্যূনতম মজুরি বাড়ল ৪,৮০০ টাকা"
+          "url": "https://www.prothomalo.com/bangladesh/district/3fwpzkadql",
+          "title": "১১ হাজার কোটি টাকার রেলপথে ট্রেন চলার কথা ২৮টি, চলছে ১০টি",
+          "snippet": "১১ হাজার কোটি টাকার রেলপথে ট্রেন চলার কথা ২৮টি, চলছে ১০টি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চামড়াপণ্য ও জুতা কারখানার শ্রমিকের ন্যূনতম মজুরি বেড়েছে ৪ হাজার ৮০০ টাকা",
-        "title_en": "Leather goods and footwear factory workers' minimum wage increased by 4,800 taka",
-        "summary_bn": "শ্রম ও কর্মসংস্থান মন্ত্রণালয় চামড়াপণ্য ও জুতা কারখানার শ্রমিকদের ন্যূনতম মাসিক মজুরি ১১ হাজার ৯০০ টাকা নির্ধারণ করে প্রজ্ঞাপন জারি করেছে।",
-        "summary_en": "The Ministry of Labour and Employment has issued a gazette notification setting the minimum monthly wage for leather goods and footwear factory workers at 11,900 taka.",
+        "title_bn": "১১ হাজার কোটি টাকার কক্সবাজার রেলপথে চলছে ১০টি ট্রেন",
+        "title_en": "Ten trains run on the 11 billion Taka Cox's Bazar railway",
+        "summary_bn": "১১ হাজার ৩৩৫ কোটি টাকা ব্যয়ে নির্মিত কক্সবাজার রেলপথে ২৮টি ট্রেন চলার কথা থাকলেও বর্তমানে চলছে মাত্র ১০টি।",
+        "summary_en": "Although twenty-eight trains are supposed to run on the Cox's Bazar railway built for 11,335 crore Taka, only ten are currently operating.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business"
+          "economy_business",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T04:00:00+00:00",
-        "lead_bn": "শ্রম ও কর্মসংস্থান মন্ত্রণালয় চামড়াপণ্য ও জুতা কারখানার শ্রমিকদের ন্যূনতম মাসিক মজুরি ১১ হাজার ৯০০ টাকা নির্ধারণ করে প্রজ্ঞাপন জারি করেছে।",
-        "lead_en": "The Ministry of Labour and Employment has issued a gazette notification setting the minimum monthly wage for leather goods and footwear factory workers at 11,900 taka.",
+        "published_at": "2026-11-21T05:38:14+00:00",
+        "lead_bn": "১১ হাজার ৩৩৫ কোটি টাকা ব্যয়ে নির্মিত কক্সবাজার রেলপথে ২৮টি ট্রেন চলার কথা থাকলেও বর্তমানে চলছে মাত্র ১০টি।",
+        "lead_en": "Although twenty-eight trains are supposed to run on the Cox's Bazar railway built for 11,335 crore Taka, only ten are currently operating.",
         "bullets_bn": [
-          "বর্তমান ৭ হাজার ১০০ টাকার তুলনায় এ খাতের শ্রমিকদের ন্যূনতম মজুরি বৃদ্ধি পেয়েছে ৪ হাজার ৮০০ টাকা।",
-          "কর্মচারীদের ন্যূনতম মজুরি ১৪ হাজার ৪০৫ টাকা এবং শিক্ষানবিশ কর্মচারীদের মজুরি ১০ হাজার টাকা নির্ধারণ করা হয়েছে।",
-          "নতুন কাঠামো অনুযায়ী প্রতিবছর মজুরি ৫ শতাংশ বৃদ্ধি পাবে।"
+          "ইঞ্জিনের সংকটের কারণে এই পথে ট্রেনের সংখ্যা বাড়ানো যাচ্ছে না।",
+          "রেলওয়ের পূর্বাঞ্চলের প্রধান পরিচালন কর্মকর্তা মোহাম্মদ সফিকুর রহমান জানিয়েছেন যে পর্যাপ্ত ইঞ্জিন ও কোচের ঘাটতি রয়েছে।",
+          "সক্ষমতার তুলনায় কম ট্রেন চলায় যাত্রীদের সড়কপথে যাতায়াত করতে হচ্ছে।"
         ],
         "bullets_en": [
-          "The minimum wage for workers in this sector has increased by 4,800 taka compared to the current 7,100 taka.",
-          "The minimum wage for employees has been set at 14,405 taka and for apprentice employees at 10,000 taka.",
-          "According to the new structure, wages will increase by 5 percent every year."
+          "The number of trains on this route cannot be increased due to an engine crisis.",
+          "Eastern Railway Chief Operating Officer Mohammad Shafiqur Rahman stated that there is a shortage of adequate engines and coaches.",
+          "Due to fewer trains running compared to capacity, passengers have to travel by road."
+        ],
+        "impact_bn": "সক্ষমতার তুলনায় কম ট্রেন চলায় এবং ট্রেনের সংখ্যা বাড়াতে না পারায় নিরাপদ যাতায়াতের বিকল্প হিসেবে যাত্রীদের ঝুঁকিপূর্ণ সড়কপথে যাতায়াত করতে হচ্ছে।",
+        "impact_en": "As fewer trains run compared to capacity and the number of trains cannot be increased, passengers have to travel via risky roads instead of safe rail transport.",
+        "details_bn": "২০২৩ সালের ১ ডিসেম্বর আনুষ্ঠানিকভাবে এই রেলপথে ট্রেন চলাচল শুরু হয়। সর্বশেষ গত ২৬ অক্টোবর ঢাকা-চট্টগ্রাম রুটে চলাচলকারী মহানগর এক্সপ্রেসকে কক্সবাজার পর্যন্ত সম্প্রসারণ করা হয়। রেলওয়ের পূর্বাঞ্চল নিয়মিত ট্রেনগুলো চালাতে ১১৫ থেকে ১১৯টি ইঞ্জিন প্রয়োজন হলেও চালু আছে ৭০ থেকে ৭৫টি।",
+        "details_en": "Train movement officially started on this railway on 1 December 2023. Most recently, on 26 October, the Mahanagar Express running on the Dhaka-Chittagong route was extended to Cox's Bazar. While Eastern Railway needs 115 to 119 engines to run regular trains, 70 to 75 are operational.",
+        "hook_bn": "কক্সবাজার রেলপথে চলছে মাত্র ১০টি ট্রেন",
+        "kicker_bn": "রেলপথ",
+        "share_value": false,
+        "question_bn": "কক্সবাজার রুটে ট্রেনের সংখ্যা ও সেবার মান বাড়াতে আর কী করা উচিত বলে আপনি মনে করেন?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-21T06:03:26.049078+00:00"
+      }
+    },
+    {
+      "story_id": "6b5fabce-881e-5238-944e-fbc4a9548067",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Chattogram",
+        "#ADB",
+        "#AmirKhosruMahmudChowdhury"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/04/11/adb_16x9.png",
+      "image_caption": null,
+      "published_at": "2026-11-21T05:05:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.3643,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/ctg-get-major-share-adbs-80b-development-framework-finmin-1609291",
+          "title": "Ctg to get major share of ADB’s $80b development framework: Finmin",
+          "snippet": "Ctg to get major share of ADB’s $80b development framework: Finmin"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "চট্টগ্রাম পাবে এডিবির উন্নয়নের বড় অংশ",
+        "title_en": "Ctg to get major share of ADB development framework",
+        "summary_bn": "অর্থ ও পরিকল্পনা মন্ত্রী আমীর খসরু মাহমুদ চৌধুরী জানিয়েছেন, চট্টগ্রাম বন্দরের জন্য এশিয়ান ডেভেলপমেন্ট ব্যাংকের ৮০ বিলিয়ন ডলারের কাঠামোর বড় অংশ বরাদ্দ থাকবে।",
+        "summary_en": "Chattogram will receive a major share of an $80 billion development framework agreed with the Asian Development Bank, Finance and Planning Minister Amir Khosru Mahmud Chowdhury said.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-21T05:05:00+00:00",
+        "lead_bn": "অর্থ ও পরিকল্পনা মন্ত্রী আমীর খসরু মাহমুদ চৌধুরী জানিয়েছেন, চট্টগ্রাম বন্দরের জন্য এশিয়ান ডেভেলপমেন্ট ব্যাংকের ৮০ বিলিয়ন ডলারের কাঠামোর বড় অংশ বরাদ্দ থাকবে।",
+        "lead_en": "Chattogram will receive a major share of an $80 billion development framework agreed with the Asian Development Bank, Finance and Planning Minister Amir Khosru Mahmud Chowdhury said.",
+        "bullets_bn": [
+          "সরকার চট্টগ্রাম বিমানবন্দরকে আন্তর্জাতিক মানে উন্নীত করতে এবং কার্গো ভিলেজ ও কোল্ড চেইন সুবিধা নির্মাণের পরিকল্পনা করেছে।",
+          "প্রস্তাবিত স্বাস্থ্য শহর ও লজিস্টিক সেন্টার প্রকল্পেও এডিবির সহায়তা থাকবে।",
+          "সরকার ২০৩৪ সালের মধ্যে এক ট্রিলিয়ন ডলারের অর্থনীতি গড়ে তোলার লক্ষ্য নির্ধারণ করেছে।"
+        ],
+        "bullets_en": [
+          "The plans include upgrading Chattogram airport to international standards and building a cargo village and cold-chain facilities.",
+          "The ADB framework will also support a logistics centre and the proposed Health City project.",
+          "The government aims to build a $1 trillion economy by 2034."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "চলতি বছরের শুরুর দিকে এই খাতের মজুরি পুনর্নির্ধারণে ছয় সদস্যের মজুরি বোর্ড গঠিত হয় এবং কয়েকটি সভার পর আগস্টে মজুরি বোর্ড মজুরিকাঠামো চূড়ান্ত করে। সর্বশেষ ২০২০ সালের সেপ্টেম্বর মাসে মজুরি বোর্ডের মাধ্যমে এই খাতের মজুরি নির্ধারিত হয়েছিল।",
-        "details_en": "Earlier this year, a six-member wage board was formed to redetermine wages in this sector, and after several meetings, the wage board finalized the wage structure in August. The wages for this sector were last determined through the wage board in September 2020.",
-        "hook_bn": "শ্রমিকদের ন্যূনতম মজুরি বেড়ে ১১ হাজার ৯০০ টাকা",
-        "kicker_bn": "নতুন মজুরি",
-        "share_value": true,
-        "question_bn": "চামড়াপণ্য ও জুতা কারখানার নতুন এই মজুরিকাঠামো নিয়ে আপনার মতামত কী?"
+        "details_bn": "রেলওয়ে পোলো মাঠে চেম্বার অব কমার্স অ্যান্ড ইন্ডাস্ট্রির আয়োজিত আন্তর্জাতিক বাণিজ্য মেলায় এই পরিকল্পনাগুলোর কথা জানানো হয়। মহেশখালীতে গভীর সমুদ্র বন্দর এবং খুলনাতেও আরেকটি সমুদ্র বন্দর বিবেচনাধীন রয়েছে। বিশ্বব্যাংক, আইএমএফ, জাপান, দক্ষিণ কোরিয়া, ইসলামিক ডেভেলপমেন্ট ব্যাংক ও এশিয়ান ইনফ্রাস্ট্রাকচার ইনভেস্টমেন্ট ব্যাংক বাংলাদেশের উন্নয়নে যুক্ত হচ্ছে।",
+        "details_en": "The plans were announced at the opening of the international trade fair organised by the Chattogram Chamber of Commerce and Industry at the Railway Polo Ground. A deep-sea port is planned at Maheshkhali, while another is being considered in Khulna. Other development partners including the World Bank, IMF, Japan, South Korea, Islamic Development Bank, and Asian Infrastructure Investment Bank are joining Bangladesh development plans.",
+        "hook_bn": "চট্টগ্রামকে অর্থনৈতিক হাব বানানোর পরিকল্পনা",
+        "kicker_bn": "উন্নয়ন পরিকল্পনা",
+        "share_value": false,
+        "question_bn": "চট্টগ্রামকে আন্তর্জাতিক অর্থনৈতিক হাব হিসেবে গড়ে তোলার এই পরিকল্পনা নিয়ে আপনার মতামত কী?"
       },
-      "desk_importance": 7.0,
+      "desk_importance": 5.0,
       "outlet_count": 1,
       "trending": false,
-      "social_appeal": 7.0,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-21T05:02:56.409202+00:00"
+        "checked_at": "2026-11-21T06:03:26.049078+00:00"
+      }
+    },
+    {
+      "story_id": "c9e14a0f-e74e-5dc5-be83-4c254afcf604",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#VolodymyrZelensky",
+        "#DonaldTrump",
+        "#VladimirPutin",
+        "#RussiaUkraine"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/10/11/aminul_haque_8.png",
+      "image_caption": null,
+      "published_at": "2026-11-21T05:35:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4336,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/worldbiz/europe/zelensky-calls-putin-enemy-and-killer-after-trump-describes-him-friend-1609321",
+          "title": "Zelensky calls Putin an enemy and killer after Trump describes him as a friend",
+          "snippet": "Zelensky calls Putin an enemy and killer after Trump describes him as a friend"
+        },
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+          "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+          "snippet": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পুতিনকে শত্রু ও খুনি বললেন জেলেনস্কি",
+        "title_en": "Zelensky calls Putin an enemy and killer",
+        "summary_bn": "ইউক্রেনীয় প্রেসিডেন্ট ভলোদিমির জেলেনস্কি মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের পুতিনকে বন্ধু বলার বর্ণনা প্রত্যাখ্যান করে রুশ নেতাকে শত্রু ও খুনি বলেছেন।",
+        "summary_en": "Ukrainian President Volodymyr Zelensky rejected US President Donald Trump's friendly description of Russian President Vladimir Putin, calling the Russian leader an enemy and a killer.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-21T05:35:00+00:00",
+        "lead_bn": "ইউক্রেনীয় প্রেসিডেন্ট ভলোদিমির জেলেনস্কি মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের পুতিনকে বন্ধু বলার বর্ণনা প্রত্যাখ্যান করে রুশ নেতাকে শত্রু ও খুনি বলেছেন।",
+        "lead_en": "Ukrainian President Volodymyr Zelensky rejected US President Donald Trump's friendly description of Russian President Vladimir Putin, calling the Russian leader an enemy and a killer.",
+        "bullets_bn": [
+          "সিএনএনকে দেওয়া সাক্ষাৎকারে জেলেনস্কি বলেন যে তাদের জন্য পুতিন একজন শত্রু এবং একজন খুনি।",
+          "জেলেনস্কি বলেন যে পুতিন প্রতিদিন ও প্রতি রাতে মানুষ হত্যা করায় বিশ্বের মানুষের কাছে তিনি একজন খুনি।",
+          "রাশিয়ান নেতাকে বন্ধু হিসেবে বর্ণনা করার অর্থ হলো যথেষ্ট চাপ অনুভব না করা, বলে সতর্ক করেন জেলেনস্কি।"
+        ],
+        "bullets_en": [
+          "In an interview with CNN, Zelensky said that for them, Putin is an enemy and a killer.",
+          "Zelensky added that mostly for people in the world, Putin is a killer because he is killing each day and night.",
+          "Zelensky warned that describing the Russian leader as a friend meant he does not feel enough pressure."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "চীন ও রুশ নেতার সাথে ত্রিমুখী বৈঠকের ফাঁকে মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প পুতিনকে তার বন্ধু হিসেবে অভিহিত করেন এবং বলেন যে তাদের মধ্যে বহু বছর ধরে দুর্দান্ত সম্পর্ক রয়েছে। ট্রাম্প আরও বলেন যে পুতিন যুদ্ধ শেষ করতে চান এবং জেলেনস্কি ও পুতিন উভয়েই যুদ্ধ শেষ করতে চান। এর আগে রাশিয়া ইউক্রেনের বিরুদ্ধে চলতি বছরের সবচেয়ে বড় আক্রমণ চালায়।",
+        "details_en": "US President Donald Trump referred to Russian President Vladimir Putin as his friend during remarks on the sidelines of a trilateral meeting with Chinese President Xi Jinping and the Russian leader, stating they shared a great relationship for many years. Trump said Putin would love to end the war and that both Zelensky and Putin want to end it. Trump's comments came after Russia launched the biggest attacks this year against Ukraine.",
+        "hook_bn": "'আমাদের জন্য তিনি একজন খুনি'",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-21T06:03:26.049078+00:00"
+      }
+    },
+    {
+      "story_id": "1d0b0b1a-5e66-5754-a437-7f8c42323df6",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2024-09-10%2Flnjoqlxo%2FNAHID%20RANA%20%26%20HASAN%20during%20practice%20at%20SBNCS---2.jpg?rect=0%2C0%2C5472%2C2873&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-21T03:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.0962,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/sports/cricket/u6m9lyb0uz",
+          "title": "জিততে মরিয়া হয়েই কি নাহিদ রানা-হাসান মাহমুদদের চোটের মুখে ঠেলে দেওয়া হচ্ছে",
+          "snippet": "জিততে মরিয়া হয়েই কি নাহিদ রানা-হাসান মাহমুদদের চোটের মুখে ঠেলে দেওয়া হচ্ছে"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পেসারদের ওয়ার্কলোড ম্যানেজমেন্ট ও সিদ্ধান্ত নিয়ে প্রশ্ন উঠেছে",
+        "title_en": "Questions raised over pacers workload management and decisions",
+        "summary_bn": "বাংলাদেশ দলের পেসারদের ওয়ার্কলোড ম্যানেজমেন্ট ও টিম ম্যানেজমেন্টের সিদ্ধান্ত নিয়ে নতুন করে প্রশ্ন উঠেছে।",
+        "summary_en": "Fresh questions have been raised regarding Bangladesh pacers workload management and team management decisions.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-21T03:00:00+00:00",
+        "lead_bn": "বাংলাদেশ দলের পেসারদের ওয়ার্কলোড ম্যানেজমেন্ট ও টিম ম্যানেজমেন্টের সিদ্ধান্ত নিয়ে নতুন করে প্রশ্ন উঠেছে।",
+        "lead_en": "Fresh questions have been raised regarding Bangladesh pacers workload management and team management decisions.",
+        "bullets_bn": [
+          "জিম্বাবুয়ের বিপক্ষে টি–টুয়েন্টি সিরিজ খেলতে গিয়ে সাইড স্ট্রেনে পড়েন পেসার নাহিদ রানা।",
+          "চলতি বছর টেস্ট ক্রিকেটে পেসারদের মধ্যে হাসানের চেয়ে বেশি বল করেছেন মাত্র দুজন।",
+          "দক্ষিণ আফ্রিকার বিপক্ষে সাদা বলের সিরিজে ফেরার সম্ভাবনা আছে নাহিদ রানার।"
+        ],
+        "bullets_en": [
+          "Pacer Nahid Rana suffered a side strain while playing a T20 match against Zimbabwe.",
+          "Only two other pacers in world test cricket bowled more balls than Hasan this year.",
+          "Nahid Rana has a possibility of returning in the white-ball series against South Africa."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "পেসারদের ক্ষেত্রে ওয়ার্কলোড ম্যানেজমেন্টের অংশ হিসেবে বোলিংয়ের তীব্রতা, স্পেলের দৈর্ঘ্য, রানআপ ও চাপ বিবেচনায় নিয়ে লাল, হলুদ ও সবুজ এই তিন ভাগে ভাগ করা হয়। জুলাইয়ে জিম্বাবুয়ের বিপক্ষে টি–টুয়েন্টি সিরিজ জিততে মরিয়া থাকায় এবং শরীফুল ইসলাম ও মোস্তাফিজুর রহমান না থাকায় নাহিদ রানাকে খেলানো হয়েছিল। পরে নিতম্বে ব্যথা অনুভব করায় অস্ট্রেলিয়া, ওয়েস্ট ইন্ডিজ ও দক্ষিণ আফ্রিকার বিপক্ষে গুরুত্বপূর্ণ টেস্ট সিরিজে খেলা হয়নি তাঁর। এছাড়া আফগানিস্তানের বিপক্ষে আবুধাবিতে টেস্টে ২০২.৪ ওভারের মধ্যে ৪৭টি বল করেছিলেন হাসান মাহমুদ।",
+        "details_en": "As part of pacers workload management, bowlers workload is divided into red, yellow, and green categories considering bowling intensity, spell length, run-up, and pressure. Nahid Rana was played against Zimbabwe due to a desperate desire to win the T20 series and the absence of Shoriful Islam and Mustafizur Rahman. Later, hip pain prevented him from playing important test series against Australia, West Indies, and South Africa. Additionally, Hasan Mahmud bowled 47 out of his 202.4 overs in a test against Afghanistan in Abu Dhabi.",
+        "hook_bn": "পেসারদের ওয়ার্কলোড নিয়ে প্রশ্ন",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-21T06:03:26.049078+00:00"
       }
     }
   ]
