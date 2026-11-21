@@ -1,5 +1,438 @@
 {
-  "updated_at": "2026-11-21T00:00:51.011472",
-  "total_stories": 0,
-  "stories": []
+  "updated_at": "2026-11-21T01:00:46.474745",
+  "total_stories": 6,
+  "stories": [
+    {
+      "story_id": "8c24c5f0-34bd-5344-85d7-22be6928e862",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#SaudiArabia",
+        "#Houthi",
+        "#Riyadh"
+      ],
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182398/16102.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-21T01:01:00.542174+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4867,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/bangladesh-condemns-houthi-attack-on-tower-in-saudi",
+          "title": "Bangladesh condemns Houthi attack on tower in Saudi",
+          "snippet": "Bangladesh condemns Houthi attack on tower in Saudi"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সৌদি আরবে হুথি হামলার তীব্র নিন্দা জানিয়েছে বাংলাদেশ।",
+        "title_en": "Bangladesh condemns Houthi attack on tower in Saudi.",
+        "summary_bn": "সৌদি আরবের রিয়াদের একটি টাওয়ারে হুথি মিলিশিয়ার হামলার তীব্র নিন্দা জানিয়েছে বাংলাদেশ সরকার।",
+        "summary_en": "The Bangladesh government has strongly condemned a Houthi attack on a tower in Saudi Arabia’s Riyadh.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-21T01:01:00.542174+00:00",
+        "lead_bn": "সৌদি আরবের রিয়াদের একটি টাওয়ারে হুথি মিলিশিয়ার হামলার তীব্র নিন্দা জানিয়েছে বাংলাদেশ সরকার।",
+        "lead_en": "The Bangladesh government has strongly condemned a Houthi attack on a tower in Saudi Arabia’s Riyadh.",
+        "bullets_bn": [
+          "পররাষ্ট্র মন্ত্রণালয় এক বিবৃতিতে জানিয়েছে বেসামরিক স্থাপনায় এমন হামলা আঞ্চলিক নিরাপত্তার জন্য হুমকি।",
+          "বিবিসি ভেরিফাইয়ের ভিডিও ফুটেজ বিশ্লেষণে ভবনটি উল্লেখযোগ্য ক্ষতির শিকার হয়েছে বলে দেখা গেছে।",
+          "সরকার সৌদি আরবের সাথে পূর্ণ সংহতি প্রকাশ করে এই ধরনের শত্রুসুলভ কর্মকাণ্ডের তাৎক্ষণিক অবসান চেয়েছে।"
+        ],
+        "bullets_en": [
+          "The Ministry of Foreign Affairs stated that such attacks against civilian infrastructure threaten regional security.",
+          "BBC Verify video footage analysis showed the building suffered significant damage.",
+          "The government expressed full solidarity with Saudi Arabia and called for an immediate end to hostile acts."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "রিয়াদ শহরের কিং আব্দুল্লাহ ফাইন্যান্সিয়াল ডিস্ট্রিক্টের একটি টাওয়ার লক্ষ্য করে এই হামলা চালানো হয়। হুথিদের মুখপত্র সাবা নিউজ এজেন্সি জানিয়েছে বাণিজ্যিক জেলার এই টাওয়ারটি লক্ষ্যবস্তু করা হয়েছিল। সৌদি জ্বালানি মন্ত্রণালয় শুরুতে সামান্য ক্ষতি হওয়ার কথা জানালেও বিবিসি জানিয়েছে একটি ক্ষেপণাস্ত্র বা ড্রোন টাওয়ারের একটি তলায় আঘাত হানে এবং বেশ কয়েকটি তলার জানালা ভেঙে যায়।",
+        "details_en": "The attack targeted a tower in the King Abdullah Financial District of Riyadh. Saba News Agency, a Houthi mouthpiece, reported the tower in the commercial district was targeted. The Saudi Ministry of Energy initially described damage as minor, but the BBC reported a missile or drone struck one floor and shattered windows on several others.",
+        "hook_bn": "সৌদি আরবের টাওয়ারে হুথি হামলা",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-21T01:07:54.538065+00:00"
+      }
+    },
+    {
+      "story_id": "48dbc0a7-2cd5-51b0-9056-6ce501ce6700",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness"
+      ],
+      "region": "national",
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/hasan-mahmud-injury-.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-20T16:13:26+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 2.1548,
+      "sources": [
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/sports/post-1223755/",
+          "title": "দক্ষিণ আফ্রিকার সিরিজের বাকি অংশে নেই হাসান, ফিরছেন দেশে",
+          "snippet": "দক্ষিণ আফ্রিকার সিরিজের বাকি অংশে নেই হাসান, ফিরছেন দেশে"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "দক্ষিণ আফ্রিকা সিরিজের বাকি অংশ থেকে ছিটকে গেলেন পেসার হাসান মাহমুদ",
+        "title_en": "Fast bowler Hasan Mahmud ruled out of remaining South Africa series",
+        "summary_bn": "পুরনো চোট নতুন করে মাথাচাড়া দেওয়ায় দক্ষিণ আফ্রিকা সিরিজের বাকি অংশ থেকে ছিটকে গেছেন পেসার হাসান মাহমুদ এবং তাকে দেশে ফিরিয়ে আনা হবে।",
+        "summary_en": "Pacer Hasan Mahmud has been ruled out of the rest of the South Africa series due to a recurring old injury and will be brought home.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T16:13:26+00:00",
+        "lead_bn": "পুরনো চোট নতুন করে মাথাচাড়া দেওয়ায় দক্ষিণ আফ্রিকা সিরিজের বাকি অংশ থেকে ছিটকে গেছেন পেসার হাসান মাহমুদ এবং তাকে দেশে ফিরিয়ে আনা হবে।",
+        "lead_en": "Pacer Hasan Mahmud has been ruled out of the rest of the South Africa series due to a recurring old injury and will be brought home.",
+        "bullets_bn": [
+          "বাংলাদেশ ক্রিকেট বোর্ড জানিয়েছে, সেঞ্চুরিয়ান টেস্টসহ সিরিজের বাকি সব ম্যাচ থেকে ছিটকে গেছেন এই পেসার।",
+          "বাংলাদেশ দলের পরবর্তী ম্যাচগুলোর আগে হাসানকে পর্যাপ্ত বিশ্রাম দিতে চায় টিম ম্যানেজমেন্ট যাতে তিনি পুরো সুস্থ হয়ে উঠতে পারেন।",
+          "চলতি সফরে দক্ষিণ আফ্রিকায় এখনো একটি টেস্ট, তিনটি ওয়ানডে ও তিনটি টি-টোয়েন্টি ম্যাচ খেলবে বাংলাদেশ।"
+        ],
+        "bullets_en": [
+          "The Bangladesh Cricket Board stated that the pacer is ruled out of the Centurion Test and all remaining matches of the series.",
+          "The team management wants to give Hasan sufficient rest before the Bangladesh team's next matches so he can fully recover.",
+          "Bangladesh will still play one Test, three ODIs, and three T20Is on the current tour of South Africa."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ডান হাতের কনুইয়ের চোটটি হাসানের পুরনো। এই চোটের কারণে গত মে মাসে ঘরের মাঠে পাকিস্তানের বিপক্ষে টেস্ট খেলতে পারেননি তিনি। অক্টোবরে আফগানিস্তানের বিপক্ষে টেস্ট খেলার সময় কনুইতে ব্যথা অনুভব করেছেন বলে জানা যায়। তারপর ঘরের মাঠে ওয়েস্ট ইন্ডিজ সিরিজ খেলে দক্ষিণ আফ্রিকায় গিয়ে আবারও সেই ব্যথা অনুভব করেন হাসান। জোহানেসবার্গ টেস্টে ব্যথা নিয়ে মাঠ ছাড়তে দেখা গেছে তাকে এবং একাধিকবার মাঠে ফিজিও ডেকে শুশ্রূষা নিতেও দেখা গেছে। সাম্প্রতিক সময়ে বল হাতে দুর্দান্ত ফর্মে থাকলেও এই চোটে বেশ ভোগাবে বাংলাদেশকে।",
+        "details_en": "Hasan suffers from an old right elbow injury. Due to this injury, he could not play the Test against Pakistan at home in May, and experienced elbow pain while playing a Test against Afghanistan in October. After playing the West Indies series at home, he felt the pain again in South Africa. He was seen leaving the field with pain in the Johannesburg Test and received treatment from the physio on the field multiple times. Although recently in great form with the ball, this injury will certainly trouble Bangladesh.",
+        "hook_bn": "দক্ষিণ আফ্রিকা সিরিজ থেকে ছিটকে গেলেন হাসান",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-21T01:07:54.538065+00:00"
+      }
+    },
+    {
+      "story_id": "d46b7282-5a6c-5790-833f-33e6b560a8a3",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#SaudiArabia",
+        "#Riyadh"
+      ],
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00dbc90b00-1795218377.jpg?resize=1920%2C1440",
+      "image_caption": null,
+      "published_at": "2026-11-21T00:00:06+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.5,
+      "rank_score": 2.8375,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
+          "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
+          "snippet": "Iran war live: Saudi-led coalition downs Houthi missiles"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সৌদি নেতৃত্বাধীন জোট হুথি ক্ষেপণাস্ত্র ভূপাতিত করেছে",
+        "title_en": "Saudi-led coalition downs Houthi missiles",
+        "summary_bn": "সৌদি নেতৃত্বাধীন জোট হুথিদের ছোড়া তিনটি ক্ষেপণাস্ত্র ভূপাতিত করেছে।",
+        "summary_en": "The Saudi-led coalition says it intercepted three missiles.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-21T00:00:06+00:00",
+        "lead_bn": "সৌদি নেতৃত্বাধীন জোট হুথিদের ছোড়া তিনটি ক্ষেপণাস্ত্র ভূপাতিত করেছে।",
+        "lead_en": "The Saudi-led coalition says it intercepted three missiles.",
+        "bullets_bn": [
+          "সৌদি আরব রিয়াদের জন্য জরুরি সতর্কতা জারি করেছে।",
+          "সৌদি জোটের পক্ষ থেকে তিনটি ক্ষেপণাস্ত্র ভূপাতিত করার কথা জানানো হয়েছে।",
+          "সংবাদমাধ্যম আল জাজিরার ইরান যুদ্ধ লাইভ প্রতিবেদনে এই তথ্য জানানো হয়েছে।"
+        ],
+        "bullets_en": [
+          "Saudi Arabia issues a flurry of emergency alerts for Riyadh.",
+          "The Saudi coalition says it intercepted three missiles.",
+          "Al Jazeera English reported this in its Iran war live coverage."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "রিয়াদে জরুরি সতর্কতা, ক্ষেপণাস্ত্র ভূপাতিত",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-21T01:07:54.538065+00:00"
+      }
+    },
+    {
+      "story_id": "6af20230-cb09-51f1-b47a-f70287cba5e5",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "tech_innovation",
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#Nasdaq",
+        "#Anthropic",
+        "#AI"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a36857abb7bd0660d819105186f898a0",
+      "image_caption": null,
+      "published_at": "2026-11-20T21:38:17+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.5,
+      "rank_score": 2.4754,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+          "snippet": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading"
+        },
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+          "snippet": "Tech stock sell-off drags markets down as Anthropic shares slide"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কৃত্রিম বুদ্ধিমত্তার শেয়ার বিক্রি কমে যাওয়ায় ন্যাসডাক সূচক সব লাভ হারিয়েছে",
+        "title_en": "Nasdaq erases all gains as AI sell-off dampens Anthropic trading",
+        "summary_bn": "কৃত্রিম বুদ্ধিমত্তা খাতের শেয়ার বিক্রির চাপে নাসডাক সূচক ২০২৬ সালের সব লাভ মুছে ফেলেছে এবং বিশ্ববাজার নিমজ্জিত হয়েছে।",
+        "summary_en": "Global markets and the Nasdaq index dipped as an AI-linked sell-off erased all gains for the year 2026.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "tech_innovation",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T21:38:17+00:00",
+        "lead_bn": "কৃত্রিম বুদ্ধিমত্তা খাতের শেয়ার বিক্রির চাপে নাসডাক সূচক ২০২৬ সালের সব লাভ মুছে ফেলেছে এবং বিশ্ববাজার নিমজ্জিত হয়েছে।",
+        "lead_en": "Global markets and the Nasdaq index dipped as an AI-linked sell-off erased all gains for the year 2026.",
+        "bullets_bn": [
+          "ক্লড চ্যাটবটের প্রস্তুতকারক কৃত্রিম বুদ্ধিমত্তা প্রতিষ্ঠান অ্যানথ্রিপিকের শেয়ারের দাম ৯ শতাংশ কমে ৮৮ দশমিক ৩০ ডলারে নেমেছে।",
+          "যুক্তরাষ্ট্রের প্রযুক্তি খাতের শেয়ারের পতন ঘটেছে এবং স্যান্ডিস্ক ১৪ শতাংশ ও মাইক্রন ১২ শতাংশ কমেছে।",
+          "তাইওয়ানের শেয়ারবাজার ৬ দশমিক ৭ শতাংশ কমে এপ্রিলের মাঝামাঝি সময়ের সর্বনিম্নে পৌঁছেছে।"
+        ],
+        "bullets_en": [
+          "Shares in frontier AI company Anthropic fell by 9 percent to $88.30 during its second day of trading.",
+          "US technology stocks followed Anthropic down, with SanDisk falling 14 percent and Micron down 12 percent.",
+          "Taiwan stocks dropped 6.7 percent to hit their lowest point since mid-April amid a global market slump."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "অ্যানথ্রিপিকের রেকর্ড ভাঙা আইপিওর পরও কৃত্রিম বুদ্ধিমত্তা খাতের কোম্পানিগুলোর বৈশ্বিক শেয়ার বিক্রি ঠেকানো যায়নি। এর ফলে চলতি সপ্তাহে প্রযুক্তিপ্রধান নাসডাক প্রায় চার ট্রিলিয়ন ডলার বাজারমূল্য হারিয়েছে। সাক্সোর ইউকে বিনিয়োগকারী কৌশলবিদ নিল উইলসন জানান, প্রযুক্তিতে মাত্র একটানা বিক্রি চলছে। এছাড়া এশিয়ার স্টক বাজারগুলো ২০২০ সালের পর থেকে তাদের সবচেয়ে খারাপ সপ্তাহ রেকর্ড করেছে। তাইওয়ান স্টক এক্সচেঞ্জের প্রধান মূলধন বাজারের স্থিতিশীল অপারেশন নিশ্চিত করার প্রতিশ্রুতি দিয়েছেন।",
+        "details_en": "Anthropic's record-breaking IPO failed to stem a global sell-off in AI-linked companies, erasing some $4tn in market value this week on the tech-heavy Nasdaq. Saxo UK investor strategist Neil Wilson stated there was relentless selling in tech. Asian stock markets recorded their worst week since 2020. The chair of the Taiwan stock exchange pledged to ensure the stable operation of capital markets following a 6.7 percent drop.",
+        "hook_bn": "প্রযুক্তিতে শুধু একটানা বিক্রি চলছে",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": true,
+      "social_appeal": 3.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-21T01:07:54.538065+00:00"
+      }
+    },
+    {
+      "story_id": "64ad4479-2a36-54a7-8107-1818f2ab5d94",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#Bayer",
+        "#Roundup",
+        "#Monsanto"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/efbc188d676f119c98b60ce20d212a75264e7757/483_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5edeaf13f200c4f950da4fc630d80c08",
+      "image_caption": null,
+      "published_at": "2026-11-20T23:42:43+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.3061,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
+          "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
+          "snippet": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer"
+        },
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/us-judge-approves-bayer-s-7-25-billion-cancer-settlement/a-80007474?maca=en-rss-en-all-1573-rdf",
+          "title": "US judge approves Bayer's $7.25 billion cancer settlement",
+          "snippet": "US judge approves Bayer's $7.25 billion cancer settlement"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বায়ারের ৭ দশমিক ২৫ বিলিয়ন ডলারের ক্যানসার নিষ্পত্তি অনুমোদন বিচারকের",
+        "title_en": "Judge approves Bayer 7.25bn dollar cancer settlement",
+        "summary_bn": "যুক্তরাষ্ট্রের এক বিচারক বায়ারের ৭ দশমিক ২৫ বিলিয়ন ডলারের ক্যানসার নিষ্পত্তি অনুমোদন করেছেন, যার ফলে রাউন্ডআপ আগাছানাশক সংক্রান্ত মামলা সমাধান হতে পারে।",
+        "summary_en": "A US judge approved Bayer's 7.25bn dollar settlement to resolve lawsuits alleging that its Roundup weedkiller causes cancer.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T23:42:43+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের এক বিচারক বায়ারের ৭ দশমিক ২৫ বিলিয়ন ডলারের ক্যানসার নিষ্পত্তি অনুমোদন করেছেন, যার ফলে রাউন্ডআপ আগাছানাশক সংক্রান্ত মামলা সমাধান হতে পারে।",
+        "lead_en": "A US judge approved Bayer's 7.25bn dollar settlement to resolve lawsuits alleging that its Roundup weedkiller causes cancer.",
+        "bullets_bn": [
+          "সেন্ট লুইসের আদালতের বিচারক টিমোথি বয়ার নিষ্পত্তিটিকে ন্যায্য, সংগত ও পর্যাপ্ত বলে মনে করেছেন।",
+          "বায়ারের প্রধান নির্বাহী বিল অ্যান্ডারসন বলেছেন আদালতের চূড়ান্ত অনুমোদন একটি নিষ্পত্তিমূলক মাইলফলক।",
+          "বায়ার বাড়ি বা কর্মক্ষেত্রে রাউন্ডআপ ব্যবহারের পর ক্যানসারে আক্রান্ত হওয়া মানুষের প্রায় ৬৫,০০০ দাবির মুখোমুখি হয়েছিল।"
+        ],
+        "bullets_en": [
+          "Judge Timothy Boyer of a state court in St Louis found the settlement fair, reasonable and adequate.",
+          "Bayer CEO Bill Anderson said the court final approval is a decisive milestone in the company strategy.",
+          "Bayer had faced approximately 65,000 claims from people who said they developed cancer after using Roundup."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বায়ার ২০১৮ সালে ৬৩ বিলিয়ন ডলারে আগাছানাশক উৎপাদনকারী প্রতিষ্ঠান মনসান্তোকে কেনার পর থেকে শেয়ারের দাম ৪৬ শতাংশ কমেছে এবং জার্মান কোম্পানিটি প্রায় এক দশক ধরে এই মামলার চাপের মধ্যে ছিল। নিষ্পত্তির ঘোষণাটি ২০২৪ সালের ফেব্রুয়ারিতে দেওয়া হয়েছিল এবং এটি মার্কিন আদালতে বর্তমান ও ভবিষ্যৎ সব রাউন্ডআপ দাবি মীমাংসার লক্ষ্য নিয়েছিল।",
+        "details_en": "Bayer had seen its share price fall 46% since it bought Monsanto, which produces the weedkiller, for 63bn dollars in 2018. The settlement announced in February aimed to resolve nearly all current and future Roundup claims in the US after the company faced litigation for close to a decade.",
+        "hook_bn": "বায়ারের ৭ দশমিক ২৫ বিলিয়ন ডলারের ক্যানসার নিষ্পত্তি",
+        "kicker_bn": "রায় ঘোষণা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 3.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-21T01:07:54.538065+00:00"
+      }
+    },
+    {
+      "story_id": "487fed67-898c-598b-95e2-595cad9a86ef",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#BalendraShah",
+        "#NarendraModi",
+        "#Nepal",
+        "#India"
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ce4/live/0cd0ed60-e3e9-11f1-a16c-7de3762c094b.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-20T23:28:17+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.2743,
+      "sources": [
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+          "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
+          "snippet": "A new Nepal, an old neighbour - Balendra Shah's India test"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ভারত সফরে গেছেন নেপালের প্রধানমন্ত্রী বালেন্দ্র শাহ",
+        "title_en": "Nepal Prime Minister Balendra Shah visits India",
+        "summary_bn": "নেপালের প্রধানমন্ত্রী বালেন্দ্র শাহ দুই দিনের সফরে ভারতে পৌঁছেছেন, যা দুই দেশের নতুন রাজনৈতিক প্রজন্মের মধ্যে প্রথম উচ্চপর্যায়ের বৈঠক।",
+        "summary_en": "Nepal Prime Minister Balendra Shah has arrived in India for a two-day visit, marking the first high-level engagement between the new political generations.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-20T23:28:17+00:00",
+        "lead_bn": "নেপালের প্রধানমন্ত্রী বালেন্দ্র শাহ দুই দিনের সফরে ভারতে পৌঁছেছেন, যা দুই দেশের নতুন রাজনৈতিক প্রজন্মের মধ্যে প্রথম উচ্চপর্যায়ের বৈঠক।",
+        "lead_en": "Nepal Prime Minister Balendra Shah has arrived in India for a two-day visit, marking the first high-level engagement between the new political generations.",
+        "bullets_bn": [
+          "দিল্লিতে ভারতের প্রধানমন্ত্রী নরেন্দ্র মোদি ও অন্যান্য জ্যেষ্ঠ কর্মকর্তাদের সঙ্গে বৈঠক করবেন বালেন্দ্র শাহ।",
+          "আলোচনায় অর্থনৈতিক ও জ্বালানি সহযোগিতা এবং নতুন বিমান করিডোর খোলার বিষয়টি অন্তর্ভুক্ত রয়েছে।",
+          "আগস্টে নেপালে আঘাত হানা আকস্মিক বন্যায় ১ হাজার ৪৫০ জনের বেশি মানুষের মৃত্যু হয়েছে।"
+        ],
+        "bullets_en": [
+          "Shah will meet Indian Prime Minister Narendra Modi and other senior officials in Delhi.",
+          "Talks are expected to cover economic and energy cooperation and the opening of new air corridors.",
+          "Devastating flash floods in August killed more than 1,450 people in the Himalayan nation."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মার্চ মাসে রাষ্ট্রীয় স্বতন্ত্র পার্টি ক্ষমতায় আসার পর এটি বালেন্দ্র শাহের প্রথম দ্বিপক্ষীয় সফর। এর ছয় মাস আগে দুর্নীতি ও স্বজনপ্রীতির বিরুদ্ধে জেন জি অভ্যুত্থানে কে পি শর্মা অলির সরকার পতন ঘটে। ভারত ও নেপালের মধ্যে ১ হাজার ৭৫০ কিলোমিটারের বেশি উন্মুক্ত সীমান্ত রয়েছে এবং দুই দেশের মধ্যে ঘনিষ্ঠ জাতিগত, সাংস্কৃতিক ও অর্থনৈতিক সম্পর্ক রয়েছে।",
+        "details_en": "It is Shah's first bilateral visit since his Rastriya Swatantra Party swept to power in March, following a Gen Z uprising against K P Sharma Oli's government. India and Nepal share an open border stretching more than 1,750km with close ethnic and economic ties.",
+        "hook_bn": "দিল্লিতে প্রধানমন্ত্রী নরেন্দ্র মোদির সঙ্গে বৈঠক",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 3.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-21T01:07:54.538065+00:00"
+      }
+    }
+  ]
 }
