@@ -1,309 +1,169 @@
 {
-  "updated_at": "2026-11-21T18:00:42.025849",
-  "total_stories": 4,
+  "updated_at": "2026-11-21T19:00:44.962087",
+  "total_stories": 2,
   "stories": [
     {
-      "story_id": "5f77a609-5d2b-589d-95ab-b1dbaf92c7f1",
-      "primary_category": "governance_law",
+      "story_id": "0cb57181-1a78-5dd0-8920-956c719148bc",
+      "primary_category": "society_education",
       "interest_categories": [
-        "governance_law",
-        "world_diplomacy"
+        "society_education",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#SheikhMujiburRahmanHall",
+        "#StudentProtest"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-21%2Fxsi02xkr%2FWhatsApp-Image-2026-11-21-at-10.32.35-PM.jpeg?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://images.unsplash.com/photo-1767781792401-f3913243cba3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8c2hlaWtoJTIwbXVqaWJ1ciUyMHJhaG1hbiUyMGhhbGwlMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NTI4NzY4OHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-21T16:39:03+00:00",
+      "published_at": "2026-11-21T18:38:36+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 5.1965,
+      "importance_score": 5.0,
+      "rank_score": 2.4458,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/crime/zxvms90tpz",
-          "title": "যুবকের কোমরে কাপড়ে মোড়ানো ছিল ১৫টি ‘ডিম’, খুলতেই মিলল ১১ কোটি ৬৭ লাখ টাকার সোনা",
-          "snippet": "যুবকের কোমরে কাপড়ে মোড়ানো ছিল ১৫টি ‘ডিম’, খুলতেই মিলল ১১ কোটি ৬৭ লাখ টাকার সোনা"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/campus1/425373/du-reopens-sheikh-mujibur-rahman-hall-pocket-gate",
+          "title": "DU reopens Sheikh Mujibur Rahman Hall pocket gate after student protests",
+          "snippet": "DU reopens Sheikh Mujibur Rahman Hall pocket gate after student protests"
         },
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/crime/3-arrested-75-kg-gold-paste-worth-tk-1167-cr-dhaka-airport-1609976",
-          "title": "3 arrested with 7.5 kg gold paste worth Tk 11.67 cr at Dhaka airport",
-          "snippet": "3 arrested with 7.5 kg gold paste worth Tk 11.67 cr at Dhaka airport"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1182124",
-          "title": "শাহজালাল বিমানবন্দরে সাড়ে ৭ কেজি সোনার পেস্টসহ আটক ৩",
-          "snippet": "শাহজালাল বিমানবন্দরে সাড়ে ৭ কেজি সোনার পেস্টসহ আটক ৩"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/my-campus/982434/%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%B2%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%87-%E0%A6%B6%E0%A7%87%E0%A6%96-%E0%A6%AE%E0%A7%81%E0%A6%9C%E0%A6%BF%E0%A6%AC-%E0%A6%B9%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%9F-%E0%A6%97%E0%A7%87%E0%A6%9F-%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%8B",
+          "title": "আন্দোলনের মুখে শেখ মুজিব হলের পকেট গেট খুলে দিলো প্রশাসন",
+          "snippet": "আন্দোলনের মুখে শেখ মুজিব হলের পকেট গেট খুলে দিলো প্রশাসন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শাহজালাল বিমানবন্দরে সোনা উদ্ধার, আটক ৩",
-        "title_en": "Gold recovered at Shahjalal airport, 3 arrested",
-        "summary_bn": "হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দর থেকে সাড়ে সাত কেজি সোনার পেস্টসহ তিনজনকে আটক করেছে এয়ারপোর্ট আর্মড পুলিশ ব্যাটালিয়ন।",
-        "summary_en": "Airport Armed Police Battalion detained three individuals with seven and a half kilograms of gold paste at Hazrat Shahjalal International Airport.",
+        "title_bn": "আন্দোলনের মুখে ঢাকা বিশ্ববিদ্যালয়ের শেখ মুজিবুর রহমান হলের পকেট গেট খুলে দেওয়া হয়েছে",
+        "title_en": "DU Sheikh Mujibur Rahman Hall pocket gate reopened after student protests",
+        "summary_bn": "শিক্ষার্থীদের আন্দোলনের মুখে ঢাকা বিশ্ববিদ্যালয়ের শেখ মুজিবুর রহমান হলের পকেট গেটের তালা খুলে দিয়েছে বিশ্ববিদ্যালয় প্রশাসন।",
+        "summary_en": "The Dhaka University administration unlocked the Sheikh Mujibur Rahman Hall pocket gate following student protests.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "world_diplomacy"
+          "society_education",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T16:39:03+00:00",
-        "lead_bn": "হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দর থেকে সাড়ে সাত কেজি সোনার পেস্টসহ তিনজনকে আটক করেছে এয়ারপোর্ট আর্মড পুলিশ ব্যাটালিয়ন।",
-        "lead_en": "Airport Armed Police Battalion detained three individuals with seven and a half kilograms of gold paste at Hazrat Shahjalal International Airport.",
+        "published_at": "2026-11-21T18:38:36+00:00",
+        "lead_bn": "শিক্ষার্থীদের আন্দোলনের মুখে ঢাকা বিশ্ববিদ্যালয়ের শেখ মুজিবুর রহমান হলের পকেট গেটের তালা খুলে দিয়েছে বিশ্ববিদ্যালয় প্রশাসন।",
+        "lead_en": "The Dhaka University administration unlocked the Sheikh Mujibur Rahman Hall pocket gate following student protests.",
         "bullets_bn": [
-          "অভিযানে ইয়াছিন আরাফাত সৌরভের কোমর থেকে কমলা রঙের কাপড়ে মোড়ানো ১৫টি ডিম্বাকৃতির সোনার পেস্টের বস্তু উদ্ধার করা হয়।",
-          "উদ্ধার করা সোনার পেস্টের বিশুদ্ধতা ২৪ ক্যারেট এবং এর আনুমানিক বাজারমূল্য ১১ কোটি ৬৭ লাখ টাকা।",
-          "আটক ব্যক্তিরা হলেন ইয়াছিন আরাফাত সৌরভ, জাকিরুল ইসলাম জুয়েল এবং শাওন।"
+          "রাত ১০টা ২০ মিনিটে বিশ্ববিদ্যালয় প্রশাসন গেটটি খুলে দেয়।",
+          "রাত ৯টা ৫০ মিনিটের দিকে গেটটি খুলে দেওয়ার দাবিতে শিক্ষার্থীরা বিক্ষোভ শুরু করেন।",
+          "শিক্ষার্থীরা প্রথমে জিয়াউর রহমান হলের সামনে জড়ো হয়ে মিছিল নিয়ে মুজিব হলের দিকে যান।"
         ],
         "bullets_en": [
-          "Fifteen egg-shaped objects wrapped in orange cloth containing gold paste were recovered from Yasin Arafat Sourav's waist during the drive.",
-          "The purity of the recovered gold paste is 24 carats and its estimated market value is 11.67 crore taka.",
-          "The detained individuals are Yasin Arafat Sourav, Zakirul Islam Jewel, and Shawon."
+          "The university administration unlocked the gate at 10:20 pm on Saturday.",
+          "Students started protests demanding the opening of the gate at around 9:50 pm.",
+          "Students gathered in front of Ziaur Rahman Hall and marched toward Mujib Hall."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "এয়ারপোর্ট এপিবিএন জানায়, গোয়েন্দা তথ্যের ভিত্তিতে বিমানবন্দরের আগমনী ২ নম্বর ক্যানোপির বহির্গমন ফটক এলাকায় অভিযান চালানো হয়। প্রাথমিক জিজ্ঞাসাবাদে জানা যায়, ইয়াছিন আরাফাত সৌরভ নিয়মিত সৌদি আরব থেকে বিশেষ কৌশলে সোনা আনতেন এবং জাকিরুল ইসলাম জুয়েল, শাওন ও দেশের অন্য সহযোগীদের নিয়ে চোরাচালান করতেন।",
-        "details_en": "Airport APBn stated that the drive was conducted near the exit gate of arrival canopy 2 of the airport based on intelligence. Initial interrogation revealed that Yasin Arafat Sourav regularly brought gold from Saudi Arabia using special methods and smuggled it with the cooperation of Zakirul Islam Jewel, Shawon, and others in the country.",
-        "hook_bn": "শাহজালাল বিমানবন্দরে সাড়ে ৭ কেজি সোনা উদ্ধার",
+        "details_bn": "নিরাপত্তাজনিত কারণ দেখিয়ে প্রশাসন গত ১৭ নভেম্বর পকেট গেটটি সাময়িকভাবে বন্ধ রাখার সিদ্ধান্ত নিয়েছিল।",
+        "details_en": "The administration decided to temporarily close the pocket gate on November 17, citing security concerns.",
+        "hook_bn": "ঢাবি হলের পকেট গেট খুলে দিলো প্রশাসন",
         "kicker_bn": null,
         "share_value": false,
-        "question_bn": null
+        "question_bn": "ঢাকা বিশ্ববিদ্যালয়ের হলগুলোর গেট বন্ধ রাখার বিষয়ে আপনার মতামত কী?"
       },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-21T18:02:05.310323+00:00"
-      }
-    },
-    {
-      "story_id": "142223f6-1d14-5fad-9de4-6f54d6b60bca",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#DhakaStockExchange",
-        "#DSE",
-        "#BangladeshEconomy"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2025/09/07/dse.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-21T15:40:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.1419,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/economy/stocks/auditors-flag-survival-risks-60-listed-firms-sparking-investor-concerns-1609891",
-          "title": "Auditors flag survival risks at 60 listed firms, sparking investor concerns",
-          "snippet": "Auditors flag survival risks at 60 listed firms, sparking investor concerns"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ডিএসই-র তালিকাভুক্ত ৬০টি কোম্পানির টিকে থাকা নিয়ে শঙ্কা",
-        "title_en": "Auditors flag survival risks at 60 listed firms",
-        "summary_bn": "ঢাকা স্টক এক্সচেঞ্জের তালিকাভুক্ত ৬০টি কোম্পানি তাদের কার্যক্রম চালিয়ে যাওয়া নিয়ে শঙ্কার মুখে পড়েছে।",
-        "summary_en": "The number of listed companies facing doubts over their ability to continue operations has risen sharply to 60.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-21T15:40:00+00:00",
-        "lead_bn": "ঢাকা স্টক এক্সচেঞ্জের তালিকাভুক্ত ৬০টি কোম্পানি তাদের কার্যক্রম চালিয়ে যাওয়া নিয়ে শঙ্কার মুখে পড়েছে।",
-        "lead_en": "The number of listed companies facing doubts over their ability to continue operations has risen sharply to 60.",
-        "bullets_bn": [
-          "চলতি হিসাববছরের অডিট প্রতিবেদনে ডোরিন পাওয়ারকে বাদ দেওয়া হয়েছে এবং ১১টি কোম্পানি নতুন যুক্ত হয়েছে।",
-          "তালিকায় থাকা কোম্পানিগুলোর মধ্যে ২০টি বর্তমানে অকার্যকর অবস্থায় রয়েছে বলে আলাদা তালিকায় জানানো হয়েছে।",
-          "তালিকার মধ্যে রয়েছে সোশ্যাল ইসলামী ব্যাংক, ইউনিয়ন ব্যাংক, গ্লোবাল ইসলামী ব্যাংক, এক্সিম ব্যাংক এবং ফার্স্ট সিকিউরিটি ইসলামী ব্যাংক।"
-        ],
-        "bullets_en": [
-          "Only Doreen Power was removed from the list in the FY26 audit reports, while 11 companies were added.",
-          "Of the flagged companies, 20 are currently non-operational, according to a separate DSE list based on auditors' opinions.",
-          "The list includes five merged banks—Social Islami Bank, Union Bank, Global Islami Bank, Exim Bank, and First Security Islami Bank."
-        ],
-        "impact_bn": "খুচরা বিনিয়োগকারীরা অপর্যাপ্ত তথ্য প্রকাশ এবং আর্থিক প্রতিবেদন প্রকাশে বিলম্বের কারণে বিশেষ ঝুঁকির মধ্যে রয়েছেন।",
-        "impact_en": "Retail investors are particularly exposed because of inadequate disclosures and delays in publishing financial information.",
-        "details_bn": "অডিটরদের মতে, ক্রমাগত লোকসান, অতিরিক্ত ঋণ, ঋণাত্মক নগদ প্রবাহ, তারল্য সংকট বা উৎপাদন ব্যাহত হওয়ার কারণে এই শঙ্কা তৈরি হতে পারে। এই কোম্পানিগুলো ডিএসই-র ৩৬০টি তালিকাভুক্ত কোম্পানির প্রায় ১৭ শতাংশ। বাজার বিশেষজ্ঞরা নিয়ন্ত্রক সংস্থাকে তদারকি বাড়ানোর আহ্বান জানিয়েছেন।",
-        "details_en": "A going concern warning indicates significant uncertainty over a company's ability to continue operating and meet its financial obligations, often stemming from persistent losses or liquidity shortages.",
-        "hook_bn": "তালিকাভুক্ত ৬০ কোম্পানির টিকে থাকা নিয়ে শঙ্কা",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": "পুঁজিবাজারে তালিকাভুক্ত কোম্পানির আর্থিক অবস্থা সম্পর্কে বিনিয়োগকারীরা কীভাবে আরও সতর্ক হতে পারেন বলে আপনার মনে হয়?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
+      "desk_importance": 5.0,
+      "outlet_count": 2,
       "trending": false,
       "social_appeal": 6.0,
       "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-21T18:02:05.310323+00:00"
+        "status": "unchecked",
+        "checked_at": "2026-11-21T19:01:47.694271+00:00"
       }
     },
     {
-      "story_id": "fe2ffe40-fe5b-5324-b04a-53451ed53895",
-      "primary_category": "tech_innovation",
+      "story_id": "6ea7f1c0-2014-59cb-8848-4d0816b7be83",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "tech_innovation",
         "world_diplomacy",
         "governance_law"
       ],
       "region": "international",
       "tags": [
+        "#ElChapoIsidro",
+        "#Mexico",
         "#FBI",
-        "#CyberSecurity",
-        "#US"
+        "#Sinaloa"
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
+      "image_url": "https://i.guim.co.uk/img/media/109833a4d1387ede241180856c6e37007aa8a6a3/264_354_897_717/master/897.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b228975517691e02d9f2c13e8010a7ae",
       "image_caption": null,
-      "published_at": "2026-11-21T16:35:15+00:00",
+      "published_at": "2026-11-21T17:46:55+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.7843,
+      "importance_score": 5.0,
+      "rank_score": 2.3271,
       "sources": [
         {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-          "title": "FBI reportedly investigating apparent hack of its criminal database",
-          "snippet": "FBI reportedly investigating apparent hack of its criminal database"
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+          "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+          "snippet": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid"
         },
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/us-agriculture-department-fbi-hacked/",
-          "title": "সাইবার হামলার শিকার যুক্তরাষ্ট্রের এফবিআই ও কৃষি বিভাগ",
-          "snippet": "সাইবার হামলার শিকার যুক্তরাষ্ট্রের এফবিআই ও কৃষি বিভাগ"
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-all-1573-rdf",
+          "title": "Mexican special forces arrest drug kingpin 'Chapo Isidro'",
+          "snippet": "Mexican special forces arrest drug kingpin 'Chapo Isidro'"
+        },
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/south-america/0keoaxemc3",
+          "title": "সেনা অভিযানের পর গোলাগুলি ও সহিংসতা, মোস্ট ওয়ান্টেড মাদকসম্রাট ‘এল চাপো ইসিদ্রো’ গ্রেপ্তার",
+          "snippet": "সেনা অভিযানের পর গোলাগুলি ও সহিংসতা, মোস্ট ওয়ান্টেড মাদকসম্রাট ‘এল চাপো ইসিদ্রো’ গ্রেপ্তার"
+        },
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
+          "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+          "snippet": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?"
         }
       ],
       "daily_buzz": {
-        "title_bn": "যুক্তরাষ্ট্রের অপরাধ সংক্রান্ত তথ্যভান্ডারে সাইবার হামলার তদন্ত শুরু করেছে এফবিআই।",
-        "title_en": "The FBI is investigating an apparent breach of its criminal information database.",
-        "summary_bn": "যুক্তরাষ্ট্রের কেন্দ্রীয় তদন্ত সংস্থা এফবিআই তাদের অপরাধ সংক্রান্ত তথ্যভান্ডারের সম্ভাব্য সাইবার হামলার তদন্ত শুরু করেছে বলে মার্কিন সংবাদমাধ্যম জানিয়েছে।",
-        "summary_en": "The FBI is investigating an apparent breach of its criminal information database, US media reports citing two people briefed on the issue.",
+        "title_bn": "মেক্সিকোয় মার্কিন এফবিআইয়ের মোস্ট ওয়ান্টেড মাদকসম্রাট এল চাপো ইসিদ্রো গ্রেপ্তার",
+        "title_en": "FBI most wanted drug boss El Chapo Isidro arrested in Mexico",
+        "summary_bn": "মেক্সিকোর সিনালোয়া রাজ্যে বিশেষ বাহিনীর অভিযানে এফবিআইয়ের মোস্ট ওয়ান্টেড ১০ আসামির একজন ফাউস্তো ইসিদ্রো মেজা ফ্লোরেস গ্রেপ্তার হয়েছেন।",
+        "summary_en": "Fausto Isidro Meza Flores, one of the FBI's top 10 most wanted fugitives, was captured in a special forces raid in Sinaloa.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "tech_innovation",
           "world_diplomacy",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T16:35:15+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের কেন্দ্রীয় তদন্ত সংস্থা এফবিআই তাদের অপরাধ সংক্রান্ত তথ্যভান্ডারের সম্ভাব্য সাইবার হামলার তদন্ত শুরু করেছে বলে মার্কিন সংবাদমাধ্যম জানিয়েছে।",
-        "lead_en": "The FBI is investigating an apparent breach of its criminal information database, US media reports citing two people briefed on the issue.",
+        "published_at": "2026-11-21T17:46:55+00:00",
+        "lead_bn": "মেক্সিকোর সিনালোয়া রাজ্যে বিশেষ বাহিনীর অভিযানে এফবিআইয়ের মোস্ট ওয়ান্টেড ১০ আসামির একজন ফাউস্তো ইসিদ্রো মেজা ফ্লোরেস গ্রেপ্তার হয়েছেন।",
+        "lead_en": "Fausto Isidro Meza Flores, one of the FBI's top 10 most wanted fugitives, was captured in a special forces raid in Sinaloa.",
         "bullets_bn": [
-          "প্রেসিডেন্ট ডোনাল্ড ট্রাম্প জানিয়েছেন বিষয়টি তিনি মাত্র শুনেছেন এবং এটি ভালো কিছু নয়।",
-          "যুক্তরাষ্ট্রের কৃষি বিভাগ ও এফবিআই সাইবার হামলার শিকার হয়েছে বলে চ্যানেল আই জানিয়েছে।",
-          "হোয়াইট হাউসের ন্যাশনাল সাইবার ডিরেক্টর শন কেয়ার্নক্রসকে এই সপ্তাহে বরখাস্ত করা হয়েছে।"
+          "অভিযানের সময় গুয়াসাবে শহরে তীব্র আতঙ্ক ছড়িয়ে পড়ে এবং গোলাগুলির ঘটনা ঘটে।",
+          "মেক্সিকোর প্রতিরক্ষা মন্ত্রণালয় জানায়, মার্কিন গোয়েন্দাদের সহায়তায় অভিজাত সামরিক বাহিনী এই অভিযান পরিচালনা করে।",
+          "এই অভিযানে তাঁর সহযোগী জারমান এন এবং জোসে এন নামের আরও দুই ব্যক্তি গ্রেপ্তার হন।"
         ],
         "bullets_en": [
-          "President Donald Trump stated he had just heard about the hack and did not like it.",
-          "Channel i reported that the US Department of Agriculture and the FBI faced cyberattacks.",
-          "White House National Cyber Director Sean Cairncross was fired this week."
+          "The raid triggered widespread panic and a gun battle in the city of Guasave.",
+          "Mexico's defence ministry stated that elite military forces carried out the operation with help from US intelligence.",
+          "His alleged second-in-command, German N, and financial operator Jose N were also arrested."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ফেডারেল ও স্থানীয় আইন প্রয়োগকারী সংস্থা ওয়ারেন্ট এবং ব্যাকগ্রাউন্ড চেক সম্পর্কিত তথ্য শেয়ার করতে ন্যাশনাল ক্রাইম ইনফরমেশন সেন্টার ডেটাবেস ব্যবহার করে। এর আগে সেপ্টেম্বর মাসে এফবিআই জানিয়েছিল সাইবার অপরাধী দল শাইনি হান্টার্সের একটি সম্ভাব্য ভাঙনের তদন্ত করছে তারা। গত সপ্তাহে যুক্তরাষ্ট্রজুড়ে ব্যাংকিং ও বিমান চলাচল খাতে প্রযুক্তিগত বিপর্যয় ঘটেছিল।",
-        "details_en": "The National Crime Information Center database is used by law enforcement to share information on warrants and background checks. In September, the FBI investigated an apparent breach by ShinyHunters. Last week, tech outages hit banking and air traffic control sectors in the US.",
-        "hook_bn": "যুক্তরাষ্ট্রের এফবিআই ডেটাবেসে সাইবার হামলার তদন্ত",
+        "details_bn": "মেক্সিকোর প্রতিরক্ষা মন্ত্রণালয়ের তথ্য অনুযায়ী, মেজা ফ্লোরেস মেজা ফ্লোরেস ট্র্যান্সন্যাশনাল ক্রিমিনাল অর্গানাইজেশন এবং বেলত্রান লেইভা অপরাধ সংগঠনের নেতৃত্ব দিচ্ছিলেন। এফবিআইয়ের পোস্টার অনুসারে, তাঁর সংগঠন যুক্তরাষ্ট্রে বিপুল পরিমাণ মাদক চোরাচালানের সঙ্গে জড়িত এবং মেক্সিকোর বিভিন্ন স্থানে মাদক উৎপাদন ও বিতরণ নিয়ন্ত্রণ করে। তাঁর মাথার ওপর ৫ মিলিয়ন মার্কিন ডলার পর্যন্ত পুরস্কার ছিল এবং তিনি এক দশকের বেশি সময় ধরে আইনশৃঙ্খলা রক্ষাকারী বাহিনীর হাত থেকে পালিয়ে বেড়াচ্ছিলেন।",
+        "details_en": "According to Mexico's defence ministry, Meza Flores led the Meza Flores Transnational Criminal Organization and the Beltran Leyva criminal organization. The FBI states his organisation imported large quantities of drugs into the United States and controlled drug production in Mexico. A reward of up to $5m was on his head, and he evaded arrest for more than a decade.",
+        "hook_bn": "মেক্সিকোয় মোস্ট ওয়ান্টেড মাদকসম্রাট এল চাপো ইসিদ্রো গ্রেপ্তার",
         "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": true,
+      "outlet_count": 4,
+      "trending": false,
       "social_appeal": 4.0,
       "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-21T18:02:05.310323+00:00"
-      }
-    },
-    {
-      "story_id": "b8dc853c-d5ec-53e9-8748-89baf8ec141f",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#TaranaHalim",
-        "#Gulshan",
-        "#BangladeshPolice",
-        "#AwamiLeague"
-      ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182528/16232.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-21T18:00:59.267241+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.4991,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/police-search-tarana-halims-gulshan-home",
-          "title": "Police search Tarana Halim's Gulshan home",
-          "snippet": "Police search Tarana Halim's Gulshan home"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/law-and-crime/982433/%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%B9%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A7%8B%E0%A6%81%E0%A6%9C%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8",
-          "title": "তারানা হালিমের খোঁজে বাসায় পুলিশের অভিযান",
-          "snippet": "তারানা হালিমের খোঁজে বাসায় পুলিশের অভিযান"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "তারানা হালিমের গুলশানের বাসায় পুলিশের অভিযান",
-        "title_en": "Police search Tarana Halim's Gulshan home",
-        "summary_bn": "পুলিশ সাবেক প্রতিমন্ত্রী তারানা হালিমের গুলশানের বাসা তল্লাশি করেছে তবে তাকে পায়নি।",
-        "summary_en": "Police have searched the Gulshan home of former state minister Tarana Halim but did not find her.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-21T18:00:59.267241+00:00",
-        "lead_bn": "পুলিশ সাবেক প্রতিমন্ত্রী তারানা হালিমের গুলশানের বাসা তল্লাশি করেছে তবে তাকে পায়নি।",
-        "lead_en": "Police have searched the Gulshan home of former state minister Tarana Halim but did not find her.",
-        "bullets_bn": [
-          "গুলশান-২ এলাকার বাসায় বিকাল থেকে রাত পৌনে আটটা পর্যন্ত পুলিশ অবস্থান করে।",
-          "গুলশান থানার প্রধান জায়েদুল নূর জানান তথ্য সঠিক ছিল না এবং অভিযান তারানার সাথে সম্পর্কিত নয়।",
-          "নিরাপত্তা প্রহরী শরীফ মিয়া জানান তিনি দেশত্যাগ করেছেন এবং পুলিশ কিছু মালামাল নামিয়েছে।"
-        ],
-        "bullets_en": [
-          "The police remained at the Gulshan-2 residence from Saturday afternoon until 7:45 pm.",
-          "Gulshan Police chief Zayed Noor said the information was untrue and the operation had no connection with Tarana.",
-          "Security guard Sharif Mia claimed she had left the country and police brought some belongings downstairs."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "জুলাই অভ্যুত্থানের পর দলীয় শাসন শেষ হওয়ার পর থেকে সংরক্ষিত নারী আসনের সাবেক সংসদ সদস্য তারানা হালিম প্রকাশ্যে আসেননি। অভিযানে ১০ থেকে ১২ জন পুলিশ সদস্য ও সাদা পোশাকের গোয়েন্দা কর্মকর্তা অংশ নেন।",
-        "details_en": "Tarana, a former Awami League lawmaker elected to a reserved women's seat, has not appeared in public since the July Uprising ended her party's rule. At least 10 to 12 police personnel and plainclothes intelligence officers were seen at the building during the operation.",
-        "hook_bn": "তারানা হালিমের গুলশানের বাসায় পুলিশের অভিযান",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-21T18:02:05.310323+00:00"
+        "status": "unchecked",
+        "checked_at": "2026-11-21T19:01:47.694271+00:00"
       }
     }
   ]
