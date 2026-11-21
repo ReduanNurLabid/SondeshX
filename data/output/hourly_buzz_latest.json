@@ -1,309 +1,222 @@
 {
-  "updated_at": "2026-11-21T08:00:41.120064",
-  "total_stories": 4,
+  "updated_at": "2026-11-21T09:00:46.637859",
+  "total_stories": 3,
   "stories": [
     {
-      "story_id": "fe86d0d2-6477-563a-8c10-8dd0924f7670",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Economy",
-        "#Finance"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1722871513349-45c61ed6aa5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZmluYW5jZSUyMGVjb25vbXklMjBiYW5nbGFkZXNofGVufDF8MHx8fDE3OTUwODYwODN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-21T07:28:57+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 8.25,
-      "rank_score": 6.599,
-      "sources": [
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822183/%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A7%80%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A7%87-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A7%AE%E0%A7%A6-%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%82%E0%A6%B6-%E0%A6%AA%E0%A7%8B%E0%A6%B6%E0%A6%BE%E0%A6%95-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95",
-          "title": "গাজীপুরে কাজে ফিরেছেন ৮০ শতাংশ পোশাক শ্রমিক, সাভার-আশুলিয়ায় ৫০ কারখানায় আজও কর্মবিরতি",
-          "snippet": "গাজীপুরে কাজে ফিরেছেন ৮০ শতাংশ পোশাক শ্রমিক, সাভার-আশুলিয়ায় ৫০ কারখানায় আজও কর্মবিরতি"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1181924",
-          "title": "শ্রমিক অসন্তোষ: সাভার-আশুলিয়ায় কর্মবিরতি, ৫০ কারখানায় ছুটি ঘোষণা",
-          "snippet": "শ্রমিক অসন্তোষ: সাভার-আশুলিয়ায় কর্মবিরতি, ৫০ কারখানায় ছুটি ঘোষণা"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/dhaka/982323/%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A7%80%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%9F%E0%A6%9B%E0%A7%87-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%85%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8B%E0%A6%B7-%E0%A6%B8%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B6%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A7%AB%E0%A7%A6",
-          "title": "গাজীপুরে কাটছে শ্রমিক অসন্তোষ, সাভার-আশুলিয়ায় ৫০ কারখানায় ছুটি",
-          "snippet": "গাজীপুরে কাটছে শ্রমিক অসন্তোষ, সাভার-আশুলিয়ায় ৫০ কারখানায় ছুটি"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সাভার ও আশুলিয়ায় ৫০টি পোশাক কারখানায় ছুটি ঘোষণা, গাজীপুরে পরিস্থিতি স্বাভাবিক",
-        "title_en": "At least 50 factories closed in Savar and Ashulia amid garment worker protests",
-        "summary_bn": "মজুরি বৃদ্ধির দাবিতে শ্রমিকদের কর্মবিরতির মুখে ২১ নভেম্বর সাভার ও আশুলিয়ার অন্তত ৫০টি পোশাক কারখানায় ছুটি ঘোষণা করেছে কর্তৃপক্ষ।",
-        "summary_en": "Authorities declared holidays in at least 50 garment factories in Savar and Ashulia on November 21 following worker work abstentions over wage hike demands.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-21T07:28:57+00:00",
-        "lead_bn": "মজুরি বৃদ্ধির দাবিতে শ্রমিকদের কর্মবিরতির মুখে ২১ নভেম্বর সাভার ও আশুলিয়ার অন্তত ৫০টি পোশাক কারখানায় ছুটি ঘোষণা করেছে কর্তৃপক্ষ।",
-        "lead_en": "Authorities declared holidays in at least 50 garment factories in Savar and Ashulia on November 21 following worker work abstentions over wage hike demands.",
-        "bullets_bn": [
-          "গাজীপুরে ৮০ শতাংশ পোশাক শ্রমিক কাজে ফিরেছেন এবং নতুন কোনো আন্দোলন বা সড়ক অবরোধের খবর পাওয়া যায়নি।",
-          "সাভার-আশুলিয়া শিল্পাঞ্চলে বাংলাদেশ শ্রম আইনের ১৩(১) ধারায় ১১টি কারখানা বন্ধ রয়েছে এবং আরও দুটি কারখানায় সাধারণ ছুটি রয়েছে।",
-          "ন্যূনতম মজুরি ৩০ হাজার টাকা নির্ধারণসহ বিভিন্ন দাবিতে পোশাক শ্রমিকরা এই আন্দোলন চালিয়ে যাচ্ছেন।"
-        ],
-        "bullets_en": [
-          "In Gazipur, 80 percent of garment workers returned to work and the situation remained normal without new protests or road blockades.",
-          "Eleven factories in the Savar-Ashulia region are closed under Section 13(1) of the Labor Law, with two others under general holiday.",
-          "Workers are protesting for various demands, including the fixing of a minimum wage at 30,000 taka."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "মজুরি বৃদ্ধির দাবিতে চলমান আন্দোলনের প্রভাব পড়েছে সাভার ও আশুলিয়ার শিল্পাঞ্চলে। সপ্তাহের প্রথম কর্মদিবস গাজীপুর মহানগর ও জেলায় পরিস্থিতি স্বাভাবিক থাকলেও সাভার ও আশুলিয়ায় শ্রমিকদের কর্মবিরতি দেখা দেয়। এর ফলে পরিস্থিতি নিয়ন্ত্রণে কর্তৃপক্ষ কয়েক ডজন কারখানায় ছুটি ঘোষণা করতে বাধ্য হয়।",
-        "details_en": "The ongoing movement for a wage hike has impacted the industrial belts of Savar and Ashulia. While Gazipur city and district saw a return to normalcy the first working day of the week, Savar and Ashulia faced worker work abstentions. This led authorities to declare holidays in dozens of factories to manage the situation.",
-        "hook_bn": "সাভার-আশুলিয়ায় ৫০ কারখানায় ছুটি ঘোষণা",
-        "kicker_bn": "শ্রমিক অসন্তোষ",
-        "share_value": true,
-        "question_bn": "পোশাক শ্রমিকদের এই আন্দোলন সম্পর্কে আপনার মতামত কী?"
-      },
-      "desk_importance": 8.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 9.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-21T08:02:09.404386+00:00"
-      }
-    },
-    {
-      "story_id": "76793f38-ae94-583e-b50b-856781daa081",
+      "story_id": "6fadc80f-4a16-5fdc-82ec-a70c1543e11d",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
-        "economy_business"
+        "economy_business",
+        "society_education"
       ],
       "region": "national",
       "tags": [
-        "#Narail",
-        "#Kalia",
-        "#BangladeshPolice"
+        "#CID",
+        "#ChattogramEducationBoard",
+        "#SSC"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/21/police_1.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/21/ctg_edu_board.jpg",
       "image_caption": null,
-      "published_at": "2026-11-21T07:40:00+00:00",
+      "published_at": "2026-11-21T07:55:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 8.0,
-      "rank_score": 6.2715,
+      "importance_score": 6.25,
+      "rank_score": 3.6643,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/police-dismiss-reports-attacks-hindu-homes-narail-rumours-1609461",
-          "title": "Police dismiss reports of attacks on Hindu homes in Narail as rumours",
-          "snippet": "Police dismiss reports of attacks on Hindu homes in Narail as rumours"
+          "url": "https://www.tbsnews.net/bangladesh/cid-arrests-3-chattogram-education-board-employees-over-ssc-result-fraud-1609476",
+          "title": "CID arrests 3 Chattogram education board employees over SSC result fraud",
+          "snippet": "CID arrests 3 Chattogram education board employees over SSC result fraud"
         },
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/dozens-of-homes-shops-torched-amid-tensions-in-narails-kalia",
-          "title": "Homes, shops torched amid tensions in Narail's Kalia",
-          "snippet": "Homes, shops torched amid tensions in Narail's Kalia"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/narail-awami-league-leaders-homes-vandalized/",
-          "title": "নড়াইলে নিষিদ্ধ আ. লীগের নেতাকর্মীদের বাড়িঘর-ব্যবসাপ্রতিষ্ঠানে ভাঙচুর ও অগ্নিসংযোগ",
-          "snippet": "নড়াইলে নিষিদ্ধ আ. লীগের নেতাকর্মীদের বাড়িঘর-ব্যবসাপ্রতিষ্ঠানে ভাঙচুর ও অগ্নিসংযোগ"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/education/news/1181944",
+          "title": "এসএসসির ফল জালিয়াতি, চট্টগ্রাম শিক্ষাবোর্ডের প্রোগ্রামারসহ গ্রেফতার ৩",
+          "snippet": "এসএসসির ফল জালিয়াতি, চট্টগ্রাম শিক্ষাবোর্ডের প্রোগ্রামারসহ গ্রেফতার ৩"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নড়াইলের কালিয়ায় হিন্দু বাড়িতে হামলার খবর ভুয়া বলেছে পুলিশ",
-        "title_en": "Police dismiss reports of attacks on Hindu homes in Narail",
-        "summary_bn": "নড়াইলের কালিয়ায় হিন্দু সম্প্রদায়ের বাড়িতে হামলা, ভাঙচুর ও অগ্নিসংযোগের খবর মিথ্যা বলে জানিয়েছে পুলিশ।",
-        "summary_en": "Police have described reports of attacks, vandalism, and arson at Hindu homes in Kalia, Narail, as false.",
+        "title_bn": "চট্টগ্রাম শিক্ষাবোর্ডের ফল জালিয়াতিতে গ্রেফতার ৩",
+        "title_en": "Three arrested over Chattogram education board result fraud",
+        "summary_bn": "পুলিশের অপরাধ তদন্ত বিভাগ চট্টগ্রাম শিক্ষাবোর্ডের তিন কর্মীকে এসএসসি পরীক্ষার ফল জালিয়াতির অভিযোগে গ্রেফতার করেছে।",
+        "summary_en": "The Criminal Investigation Department arrested three Chattogram education board employees over allegations of SSC result fraud.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law",
-          "economy_business"
+          "economy_business",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T07:40:00+00:00",
-        "lead_bn": "নড়াইলের কালিয়ায় হিন্দু সম্প্রদায়ের বাড়িতে হামলা, ভাঙচুর ও অগ্নিসংযোগের খবর মিথ্যা বলে জানিয়েছে পুলিশ।",
-        "lead_en": "Police have described reports of attacks, vandalism, and arson at Hindu homes in Kalia, Narail, as false.",
+        "published_at": "2026-11-21T07:55:00+00:00",
+        "lead_bn": "পুলিশের অপরাধ তদন্ত বিভাগ চট্টগ্রাম শিক্ষাবোর্ডের তিন কর্মীকে এসএসসি পরীক্ষার ফল জালিয়াতির অভিযোগে গ্রেফতার করেছে।",
+        "lead_en": "The Criminal Investigation Department arrested three Chattogram education board employees over allegations of SSC result fraud.",
         "bullets_bn": [
-          "পুলিশ সদর দপ্তরের সহকারী মহাপরিদর্শক কামরুন মুনিরা জানিয়েছেন এলাকার পরিস্থিতি বর্তমানে স্বাভাবিক রয়েছে।",
-          "বেন্দারচর গ্রামে কোনো হিন্দু পরিবার বসবাস করে না বলে লিখিত বক্তব্যে জানিয়েছে পুলিশ।",
-          "পুলিশের ভাষ্যমতে সামাজিক যোগাযোগ মাধ্যমে ছড়িয়ে পড়া ভিডিওগুলো পুরনো কিংবা কৃত্রিম বুদ্ধিমত্তা দিয়ে তৈরি।"
+          "সিআইডির ঢাকা ক্রাইম ডিভিশন ১৮ নভেম্বর রাতে এক অভিযানে তিনজনকে গ্রেফতার করে।",
+          "সিআইডির তদন্ত কর্মকর্তা পরিদর্শক মোড় রাসেল গ্রেফতারের বিষয়টি নিশ্চিত করেছেন।",
+          "সিআইডি বাকি তিন অভিযুক্ত ও এক শিক্ষার্থীকে গ্রেফতারের চেষ্টা চালাচ্ছে।"
         ],
         "bullets_en": [
-          "Police Headquarters Assistant Inspector General Kamarun Munira stated that the situation in the area was currently normal.",
-          "The written statement said that no Hindu families live in Bendar Char village.",
-          "Police stated that videos circulating on social media are old or generated using artificial intelligence."
+          "A team from the CID Dhaka Crime Division arrested the three during a raid on 18 November night.",
+          "CID investigation officer Inspector Md Rasel confirmed the arrests after finding evidence of involvement.",
+          "The CID is seeking to arrest three other accused individuals and the beneficiary student."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "কালিয়ায় বিএনপির একটি মিছিলে হামলার জেরে দুই ব্যক্তি নিহত হওয়ার পর এই উত্তেজনা তৈরি হয়। এই ঘটনায় পুলিশ তাৎক্ষণিক অভিযান চালিয়ে দুজনকে গ্রেপ্তার করেছে। পরে বিএনপির নেতাকর্মী ও নিহতদের স্বজনেরা হামলায় জড়িত থাকার অভিযোগে নিষিদ্ধ আওয়ামী লীগের নেতাকর্মীদের কয়েকটি বাড়িতে হামলা চালান।",
-        "details_en": "The tension arose after two people were killed in an attack on a BNP procession in Kalia. Police immediately launched an operation and arrested two people in connection with the incident. Later, relatives of the victims and BNP activists attacked several houses belonging to members of the banned Awami League.",
-        "hook_bn": "নড়াইলে হিন্দু বাড়িতে হামলার খবর ভুয়া",
-        "kicker_bn": null,
+        "details_bn": "২০২৬ সালের এসএসসি পরীক্ষায় এক শিক্ষার্থীর ফল জালিয়াতি করে ১০ বিষয়ে ফেল করার পরও ১১ বিষয়ে পাস দেখানো হয়। এই ঘটনায় বোর্ডের স্ক্যানিং শাখার কর্মী ফারহাদুল ইসলাম, শহিদুল আলম জিসান এবং কম্পিউটার বিভাগের প্রোগ্রামার মো. আবদুল মালেককে গ্রেফতার করা হয়েছে। অন্য এক অভিযুক্ত মো. রাশেদুল ইসলাম আদালত থেকে জামিন পেয়েছেন।",
+        "details_en": "The fraud involved manipulating a student's 2026 SSC exam results to show passes in 11 subjects despite failing 10. Arrestees include scanning section employee Farhadul Islam, Shahidul Alam Jisan, and programmer Md Abdul Malek. Another accused, Md Rashedul Islam, earlier secured court bail.",
+        "hook_bn": "চট্টগ্রাম শিক্ষাবোর্ডে এসএসসি ফল জালিয়াতি",
+        "kicker_bn": "ফল জালিয়াতি",
         "share_value": false,
-        "question_bn": null
+        "question_bn": "শিক্ষা বোর্ডের ফল জালিয়াতি রোধে কী ধরনের ব্যবস্থা নেওয়া উচিত বলে আপনি মনে করেন?"
       },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
-      "trending": true,
-      "social_appeal": 7.0,
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-21T08:02:09.404386+00:00"
+        "checked_at": "2026-11-21T09:02:03.096702+00:00"
       }
     },
     {
-      "story_id": "8162699e-21a7-5b01-af77-40d956f51c4c",
+      "story_id": "97bc3668-6bc2-583d-923c-6a52a256b725",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#ApratimMurder",
+        "#Comilla",
+        "#Court"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-21%2Fa7z5zaze%2FWhatsApp-Image-2026-11-21-at-13.37.25.jpeg?rect=0%2C0%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/09/20/apratim.jpg",
       "image_caption": null,
-      "published_at": "2026-11-21T07:42:27+00:00",
+      "published_at": "2026-11-21T07:10:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 5.5251,
+      "importance_score": 6.25,
+      "rank_score": 3.5089,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/z3zoygd0yl",
-          "title": "কথা ছিল মালয়েশিয়া নেওয়ার, চার দিন সাগরে ঘুরিয়ে কক্সবাজার সৈকতে নামিয়ে পালায় দালাল চক্র",
-          "snippet": "কথা ছিল মালয়েশিয়া নেওয়ার, চার দিন সাগরে ঘুরিয়ে কক্সবাজার সৈকতে নামিয়ে পালায় দালাল চক্র"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/court/charge-hearing-apratim-murder-case-set-29-nov-trial-be-held-two-courts-1609436",
+          "title": "Charge hearing in Apratim murder case set for 29 Nov, trial to be held in two courts",
+          "snippet": "Charge hearing in Apratim murder case set for 29 Nov, trial to be held in two courts"
         },
         {
           "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/nation/425304/traffickers-abandon-malaysia-bound-trawler-at",
-          "title": "Traffickers abandon Malaysia-bound trawler at Cox’s Bazar beach, 28 rescued",
-          "snippet": "Traffickers abandon Malaysia-bound trawler at Cox’s Bazar beach, 28 rescued"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1181923",
-          "title": "আটদিন সাগরে ঘুরিয়ে ৭২ ভিকটিমকে নামিয়ে পালাল পাচারকারীরা",
-          "snippet": "আটদিন সাগরে ঘুরিয়ে ৭২ ভিকটিমকে নামিয়ে পালাল পাচারকারীরা"
+          "url": "https://www.dhakatribune.com/bangladesh/nation/425314/opratim-murder-charge-hearing-set-for-nov-29",
+          "title": "Opratim murder: Charge hearing set for Nov 29",
+          "snippet": "Opratim murder: Charge hearing set for Nov 29"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মালয়েশিয়া যাওয়ার ট্রলার থেকে কক্সবাজার সৈকতে ২৮ জন উদ্ধার",
-        "title_en": "Twenty-eight rescued from trawler at Cox’s Bazar beach",
-        "summary_bn": "দালাল চক্রের মাধ্যমে সাগরপথে মালয়েশিয়া যাওয়ার চেষ্টা করা ৭২ জনের মধ্যে ২৮ জনকে কক্সবাজার সমুদ্রসৈকত থেকে উদ্ধার করেছে পুলিশ।",
-        "summary_en": "Police rescued twenty-eight people from Cox’s Bazar sea beach out of seventy-two individuals attempting to reach Malaysia via maritime routes.",
+        "title_bn": "ইশায়াত শাহরিয়ার অপ্রমিত হত্যা মামলার চার্জ গঠনের শুনানি ২৯ নভেম্বর",
+        "title_en": "Charge hearing in Apratim murder case set for November 29",
+        "summary_bn": "কুমিল্লা বিশ্ববিদ্যালয়ের এক শিক্ষকের ১৩ বছর বয়সী ছেলে ইশায়াত শাহরিয়ার অপ্রমিত হত্যা মামলার চার্জ গঠনের শুনানি আগামী ২৯ নভেম্বর নির্ধারণ করা হয়েছে।",
+        "summary_en": "The charge-framing hearing in the murder case of 13-year-old Ishayat Shahriar Apratim is scheduled for November 29.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T07:42:27+00:00",
-        "lead_bn": "দালাল চক্রের মাধ্যমে সাগরপথে মালয়েশিয়া যাওয়ার চেষ্টা করা ৭২ জনের মধ্যে ২৮ জনকে কক্সবাজার সমুদ্রসৈকত থেকে উদ্ধার করেছে পুলিশ।",
-        "lead_en": "Police rescued twenty-eight people from Cox’s Bazar sea beach out of seventy-two individuals attempting to reach Malaysia via maritime routes.",
+        "published_at": "2026-11-21T07:10:00+00:00",
+        "lead_bn": "কুমিল্লা বিশ্ববিদ্যালয়ের এক শিক্ষকের ১৩ বছর বয়সী ছেলে ইশায়াত শাহরিয়ার অপ্রমিত হত্যা মামলার চার্জ গঠনের শুনানি আগামী ২৯ নভেম্বর নির্ধারণ করা হয়েছে।",
+        "lead_en": "The charge-framing hearing in the murder case of 13-year-old Ishayat Shahriar Apratim is scheduled for November 29.",
         "bullets_bn": [
-          "উদ্ধার হওয়া ব্যক্তিদের মধ্যে ২৫ জন পুরুষ, ২ জন নারী ও ১ জন শিশু রয়েছেন এবং তাঁদের বেশির ভাগ রোহিঙ্গা।",
-          "কক্সবাজার সদর মডেল থানার ভারপ্রাপ্ত কর্মকর্তা শেখ মোহাম্মদ আলী জানান, পাচার কাজে ব্যবহৃত জব্দ ট্রলারটি কোস্টগার্ডের হেফাজতে রাখা হয়েছে।",
-          "উদ্ধার হওয়া ব্যক্তিদের পরিচয় শনাক্তের কাজ চলছে এবং রোহিঙ্গাদের আশ্রয়শিবিরে এবং বাংলাদেশিদের পরিবারের কাছে হস্তান্তর করা হবে।"
+          "চার আসামির বিচার প্রক্রিয়া শুরুর অংশ হিসেবে ওই দিন চার্জ গঠনের শুনানি হবে।",
+          "প্রাপ্তবয়স্ক দুই আসামির বিচার কুমিল্লা সেশনস কোর্টে এবং অপ্রাপ্তবয়স্ক দুই আসামির বিচার হবে শিশু আদালতে।",
+          "মামলার সব আসামি বর্তমানে কারাগারে আছেন।"
         ],
         "bullets_en": [
-          "The rescued individuals include twenty-five men, two women, and one child, with most being Rohingya refugees.",
-          "Cox’s Bazar Sadar Model Police Station officer-in-charge Sheikh Mohammad Ali stated that the seized trawler used for trafficking is kept in Coast Guard custody.",
-          "The identity verification of the rescued individuals is ongoing, and they will be handed over to Rohingya camps and Bangladeshi families."
+          "The hearing will mark the start of formal judicial proceedings for the four accused.",
+          "The two adults will be tried in the Cumilla Sessions Court and the two minors in the Juvenile Court.",
+          "The accused are currently in jail according to the state counsel."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "টেকনাফ সদর ইউনিয়নের মিঠাপানির ছড়া নৌঘাট থেকে ছোট মাছ ধরার নৌকায় করে যাত্রীদের গভীর সাগরে নিয়ে একটি বড় কাঠের ট্রলারে তোলা হয়েছিল। ঘূর্ণিঝড়ের প্রভাবে সাগর উত্তাল হলে ট্রলারটি সেন্ট মার্টিন দ্বীপের কাছাকাছি অবস্থান নেয় এবং পরে দালাল ও মাঝিমাল্লাদের মধ্যে বিবাদের জেরে ট্রলারটি কক্সবাজার সৈকতে নিয়ে আসা হয়।",
-        "details_en": "Passengers were taken from the Mithapani Chhara boat dock in Teknaf Sadar Union on small fishing boats and transferred to a larger wooden trawler in the deep sea. When the sea became rough due to a cyclone, the trawler stayed near Saint Martin's Island, and later, following disputes between traffickers and boatmen, the trawler was brought to Cox's Bazar beach.",
-        "hook_bn": "মালয়েশিয়া যাওয়ার ট্রলার থেকে ২৮ জন উদ্ধার",
-        "kicker_bn": "সাগরপথ",
+        "details_bn": "কুমিল্লার কোটবাড়ির গন্ধমতি এলাকার একটি ভাড়া বাসা থেকে বের হওয়ার পর গত ১৮ সেপ্টেম্বর নিখোঁজ হয় ১৩ বছর বয়সী অপ্রমিত। তিনি কুমিল্লা বিশ্ববিদ্যালয়ের সহযোগী অধ্যাপক নাহিদা বেগমের ছেলে।",
+        "details_en": "Thirteen-year-old Apratim, son of Comilla University Associate Professor Nahida Begum, went missing after leaving his rented residence in the Gandhamati area of Kotbari, Comilla, on September 18.",
+        "hook_bn": "অপ্রমিত হত্যা মামলার চার্জ শুনানি ২৯ নভেম্বর",
+        "kicker_bn": "নতুন তারিখ",
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
+      "desk_importance": 6.0,
+      "outlet_count": 2,
       "trending": false,
-      "social_appeal": 8.0,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-21T08:02:09.404386+00:00"
+        "checked_at": "2026-11-21T09:02:03.096702+00:00"
       }
     },
     {
-      "story_id": "5fd16fe3-ab79-5ad9-aaa0-a654d5060bc0",
-      "primary_category": "governance_law",
+      "story_id": "4ec97575-e518-5162-8210-04d7c3b03439",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "governance_law"
+        "world_diplomacy",
+        "climate_environment"
       ],
-      "region": "national",
+      "region": "international",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#IraqFire",
+        "#BasraPowerStation",
+        "#HarthaPowerStation"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-21%2Fm2a67v9u%2Fjessoredh055220261120img-20261120-wa0065.jpg?rect=0%2C125%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
       "image_caption": null,
-      "published_at": "2026-11-21T05:52:26+00:00",
+      "published_at": "2026-11-21T07:29:42+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.4352,
+      "importance_score": 5.0,
+      "rank_score": 2.2887,
       "sources": [
         {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/bangladesh/district/fwq3zflzrv",
-          "title": "শেখ হাসিনার লাশ দরকার, কারণ তিনি আন্দোলন গড়ে তুলতে চান: রিজভী",
-          "snippet": "শেখ হাসিনার লাশ দরকার, কারণ তিনি আন্দোলন গড়ে তুলতে চান: রিজভী"
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/fire-at-basras-hartha-power-station-in-iraq/article71727609.ece",
+          "title": "Iraq fire at Basra power station kills at least four, injures 30",
+          "snippet": "Iraq fire at Basra power station kills at least four, injures 30"
         },
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822180/%E0%A6%B6%E0%A7%87%E0%A6%96-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%B2%E0%A6%BE%E0%A6%B6-%E0%A6%A6%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%B2%E0%A6%A8-%E0%A6%97%E0%A7%9C%E0%A7%87-%E0%A6%A4%E0%A7%81%E0%A6%B2%E0%A6%A4%E0%A7%87",
-          "title": "শেখ হাসিনার লাশ দরকার, কারণ তিনি আন্দোলন গড়ে তুলতে চান: রিজভী",
-          "snippet": "শেখ হাসিনার লাশ দরকার, কারণ তিনি আন্দোলন গড়ে তুলতে চান: রিজভী"
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
+          "title": "At least four killed, 35 injured in fire at power station in Iraq’s Basra",
+          "snippet": "At least four killed, 35 injured in fire at power station in Iraq’s Basra"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শেখ হাসিনার লাশ দরকার আন্দোলন গড়ার জন্য: রিজভী",
-        "title_en": "Sheikh Hasina needs a corpse to build a movement: Rizvi",
-        "summary_bn": "বিএনপির ভারপ্রাপ্ত মহাসচিব রুহুল কবির রিজভী বলেছেন, শেখ হাসিনার একটি লাশ দরকার কারণ তিনি একটি আন্দোলন গড়ে তুলতে চান।",
-        "summary_en": "BNP Senior Joint Secretary General Ruhul Kabir Rizvi said that Sheikh Hasina needs a corpse because she wants to build a movement.",
+        "title_bn": "ইরাকের বাসরা শহরে বিদ্যুৎকেন্দ্রে আগুনে নিহত অন্তত চার",
+        "title_en": "Iraq fire at Basra power station kills at least four",
+        "summary_bn": "দক্ষিণ ইরাকের বাসরা শহরের একটি বিদ্যুৎকেন্দ্রে অগ্নিকাণ্ডে অন্তত চারজন নিহত এবং ৩০ জন আহত হয়েছেন।",
+        "summary_en": "At least four people were killed and 30 injured in a fire at a power station in southern Iraq.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "world_diplomacy",
+          "climate_environment"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T05:52:26+00:00",
-        "lead_bn": "বিএনপির ভারপ্রাপ্ত মহাসচিব রুহুল কবির রিজভী বলেছেন, শেখ হাসিনার একটি লাশ দরকার কারণ তিনি একটি আন্দোলন গড়ে তুলতে চান।",
-        "lead_en": "BNP Senior Joint Secretary General Ruhul Kabir Rizvi said that Sheikh Hasina needs a corpse because she wants to build a movement.",
+        "published_at": "2026-11-21T07:29:42+00:00",
+        "lead_bn": "দক্ষিণ ইরাকের বাসরা শহরের একটি বিদ্যুৎকেন্দ্রে অগ্নিকাণ্ডে অন্তত চারজন নিহত এবং ৩০ জন আহত হয়েছেন।",
+        "lead_en": "At least four people were killed and 30 injured in a fire at a power station in southern Iraq.",
         "bullets_bn": [
-          "যশোর শহরের জেলা পরিষদ মিলনায়তনে সাবেক মন্ত্রী তরিকুল ইসলামের অষ্টম মৃত্যুবার্ষিকীর স্মরণসভায় রিজভী এই মন্তব্য করেন।",
-          "ফ্যাসিস্টের দোসর ও গণতন্ত্রবিরোধী শক্তি প্রশাসন ও দেশের ভেতরে সক্রিয় রয়েছে বলে তিনি অভিযোগ করেন।",
-          "গত তিন থেকে চার দিনে বিএনপির তিনজন খুন হয়েছেন বলে তিনি জানান।"
+          "বাসরার উত্তরে হারথা বিদ্যুৎকেন্দ্রে লাগা এই আগুন নিয়ন্ত্রণে আনে সিভিল ডিফেন্স টিম।",
+          "নিরাপত্তা কর্মকর্তারা জানিয়েছেন, এই অগ্নিকাণ্ডে হতাহতের সংখ্যা বাড়ার আশঙ্কা রয়েছে।",
+          "আগুন পাশের বাড়িগুলোতে ছড়িয়ে পড়ায় বিদ্যুৎকেন্দ্রটির কার্যক্রম বন্ধ হয়ে যায়।"
         ],
         "bullets_en": [
-          "Rizvi made the remark at a memorial meeting marking the eighth death anniversary of former minister Tarikul Islam at the Jashore Town Zilla Parishad Auditorium.",
-          "He alleged that fascist cohorts and anti-democracy forces are active inside the country and the administration.",
-          "He stated that three BNP members were killed over the past three to four days."
+          "Civil defence teams brought the fire at the Hartha power station north of Basra under control.",
+          "Security officials said the death toll from the fire is expected to rise.",
+          "The fire spread to neighbouring houses and forced operations at the power station to stop."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "তরিকুল ইসলামের অষ্টম মৃত্যুবার্ষিকী উপলক্ষে যশোর জেলা বিএনপির উদ্যোগে জেলা পরিষদ মিলনায়তনে এই স্মরণসভা অনুষ্ঠিত হয়। এতে দলের কেন্দ্রীয় ও স্থানীয় নেতারা বক্তব্য দেন এবং প্রয়াত নেতার স্মরণে দোয়া মাহফিল অনুষ্ঠিত হয়।",
-        "details_en": "The memorial meeting was held at the Zilla Parishad Auditorium under the initiative of Jashore district BNP on the occasion of the eighth death anniversary of Tarikul Islam. Central and local leaders spoke at the event, and a doa mahfil was held in memory of the late leader.",
-        "hook_bn": "'শেখ হাসিনার লাশ দরকার'",
+        "details_bn": "ইরাকের বিদ্যুৎ অবকাঠামো দীর্ঘকাল ধরে অবহেলা ও পর্যাপ্ত রক্ষণাবেক্ষণের অভাবে ভুগছে। প্রচণ্ড গরমের সময়ে বিদ্যুতের চাহিদা মেটাতে না পারায় সাবস্টেশন ও বিদ্যুৎ কেন্দ্রে এর আগেও অগ্নিকাণ্ড ও প্রযুক্তিগত ত্রুটির ঘটনা ঘটেছে। অগ্নিকাণ্ডের কারণ বা ক্ষয়ক্ষতির পরিমাণ সম্পর্কে তাৎক্ষণিকভাবে কোনো আনুষ্ঠানিক তথ্য জানা যায়নি। ঘটনার সময় হারথা বিদ্যুৎকেন্দ্রের উৎপাদন ক্ষমতা ছিল প্রায় ৪০০ মেগাওয়াট।",
+        "details_en": "Iraq’s electricity infrastructure has long struggled with decades of underinvestment, inadequate maintenance, and an inability to meet peak demand, particularly during the extremely hot summer months. Fires and technical failures at substations and power facilities have previously disrupted electricity supplies and caused widespread outages. There was no immediate official information on the cause of the fire or the extent of the damage.",
+        "hook_bn": "বাসরার বিদ্যুৎকেন্দ্রে আগুন, নিহত চার",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
@@ -314,7 +227,7 @@
       "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-21T08:02:09.404386+00:00"
+        "checked_at": "2026-11-21T09:02:03.096702+00:00"
       }
     }
   ]
