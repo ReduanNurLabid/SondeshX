@@ -1,239 +1,80 @@
 {
-  "updated_at": "2026-11-21T16:00:43.660536",
-  "total_stories": 6,
+  "updated_at": "2026-11-21T17:00:44.580416",
+  "total_stories": 4,
   "stories": [
     {
-      "story_id": "f877abf0-a864-5a12-9b1e-d669a1a6b3c7",
-      "primary_category": "economy_business",
+      "story_id": "99e933ef-8c31-543e-a3a6-7a98960d200e",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#VAT",
-        "#RAPID"
-      ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-02/Karwan%20bazar.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-21T15:50:40+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 5.2006,
-      "sources": [
-        {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/news/vat-takes-one-fifth-poorest-households-income-4329671",
-          "title": "VAT takes one-fifth of poorest households’ income",
-          "snippet": "VAT takes one-fifth of poorest households’ income"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/economy/vat-takes-7-times-larger-income-share-poor-rich-study-1609856",
-          "title": "Vat takes 7 times larger income share from poor than rich: Study",
-          "snippet": "Vat takes 7 times larger income share from poor than rich: Study"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "দরিদ্র পরিবারগুলোর আয়ের এক পঞ্চমাংশ ভ্যাট হিসেবে কাটা যায়",
-        "title_en": "VAT takes one-fifth of poorest households income",
-        "summary_bn": "নতুন এক গবেষণায় দেখা গেছে, বাংলাদেশের সবচেয়ে দরিদ্র ১০ শতাংশ পরিবার তাদের আয়ের ২০ দশমিক ৩৭ শতাংশ ভ্যাট দেয়।",
-        "summary_en": "A new study shows that the poorest 10 percent of households in Bangladesh pay VAT equivalent to 20.37 percent of their income.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-21T15:50:40+00:00",
-        "lead_bn": "নতুন এক গবেষণায় দেখা গেছে, বাংলাদেশের সবচেয়ে দরিদ্র ১০ শতাংশ পরিবার তাদের আয়ের ২০ দশমিক ৩৭ শতাংশ ভ্যাট দেয়।",
-        "lead_en": "A new study shows that the poorest 10 percent of households in Bangladesh pay VAT equivalent to 20.37 percent of their income.",
-        "bullets_bn": [
-          "সবচেয়ে ধনী ১০ শতাংশ পরিবার তাদের আয়ের ২ দশমিক ৮ শতাংশ ভ্যাট দেয়।",
-          "গ্রামীণ অঞ্চলে দরিদ্র পরিবারগুলোর পরিশোধ করা ভ্যাটের হার ২৩ শতাংশ ছাড়িয়ে যায়।",
-          "গবেষণাটি যৌথভাবে পরিচালনা করেন মো. দীন ইসলাম ও তহসিন রিফাত।"
-        ],
-        "bullets_en": [
-          "The richest 10 percent of households pay just 2.8 percent of their income as VAT.",
-          "In rural areas, VAT paid by the poorest households exceeds 23 percent of their reported income.",
-          "The study was jointly conducted by Md Deen Islam and Tahsin Rifat."
-        ],
-        "impact_bn": "দরিদ্র পরিবারগুলোর আয়ের তুলনায় অতিরিক্ত করের বোঝা তাদের আর্থিক অবস্থাকে আরও চাপে ফেলছে।",
-        "impact_en": "The disproportionate tax burden relative to income places heavy financial pressure on low-income families.",
-        "details_bn": "ঢাকাভিত্তিক থিংক ট্যাংক র‍্যাপিড আয়োজিত এক অনুষ্ঠানে এই গবেষণার ফলাফল প্রকাশ করেন সংস্থাটির চেয়ারম্যান এম এ রাজ্জাক। গবেষণায় বলা হয়েছে, বিদ্যমান কর আইন সঠিকভাবে পালন করলে নতুন কর বা হার না বাড়িয়েই উল্লেখযোগ্য রাজস্ব আয় সম্ভব।",
-        "details_en": "MA Razzaque, chairman of Dhaka-based think tank RAPID, unveiled the findings in Dhaka. The study noted that Bangladesh has substantial scope to mobilise additional revenue through better compliance with existing tax laws without raising tax rates.",
-        "hook_bn": "দরিদ্রদের আয়ের এক পঞ্চমাংশ ভ্যাট",
-        "kicker_bn": "নতুন গবেষণা",
-        "share_value": false,
-        "question_bn": "নিত্যপ্রয়োজনীয় পণ্যের ওপর ভ্যাটের এই বোঝা কমাতে কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-21T16:05:16.331170+00:00"
-      }
-    },
-    {
-      "story_id": "4be05b3e-94c3-55fa-afd1-5e813697e8dd",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
+        "world_diplomacy",
+        "climate_environment",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#GarmentWages",
-        "#MinimumWageBoard"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://images.unsplash.com/photo-1741176505800-caaa3a52631a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z2FybWVudCUyMGZhY3RvcnklMjBvd25lcnMlMjBleHBlY3RlZCUyMGJ1c2luZXNzfGVufDF8MHx8fDE3OTUyNzY5Njh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1630162255263-1ae766abbff9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFuZ2xhZGVzaCUyMGluZGlhJTIwam9pbnQlMjByaXZlcnMlMjBkaXBsb21hY3l8ZW58MXwwfHx8MTc5NTI4MDQ5OXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-21T14:13:13+00:00",
+      "published_at": "2026-11-21T16:40:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 5.067,
+      "importance_score": 6.0,
+      "rank_score": 3.527,
       "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/425355/employers-to-propose-new-garment-wages-on-monday",
-          "title": "Employers to propose new garment wages on Monday",
-          "snippet": "Employers to propose new garment wages on Monday"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/decision-on-new-wage-wont-wait-for-owners-proposal-board-chair",
-          "title": "Decision on new wage won’t wait for owners’ proposal: Board chair",
-          "snippet": "Decision on new wage won’t wait for owners’ proposal: Board chair"
-        },
         {
           "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822282/%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%AE%E0%A6%9C%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%AC-%E0%A6%A8%E0%A6%BE-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%87-%E0%A6%86%E0%A6%87%E0%A6%A8-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%AF%E0%A6%BE%E0%A7%9F%E0%A7%80",
-          "title": "মালিকপক্ষ নতুন মজুরির প্রস্তাব না দিলে আইন অনুযায়ী ব্যবস্থা",
-          "snippet": "মালিকপক্ষ নতুন মজুরির প্রস্তাব না দিলে আইন অনুযায়ী ব্যবস্থা"
+          "url": "https://www.ittefaq.com.bd/822289/%E0%A6%86%E0%A6%97%E0%A6%BE%E0%A6%AE%E0%A7%80%E0%A6%95%E0%A6%BE%E0%A6%B2-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%B8%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4-%E0%A6%AF%E0%A7%8C%E0%A6%A5-%E0%A6%A8%E0%A6%A6%E0%A7%80-%E0%A6%95%E0%A6%AE%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0",
+          "title": "আগামীকাল ঢাকায় বসছে বাংলাদেশ-ভারত যৌথ নদী কমিশনের বৈঠক",
+          "snippet": "আগামীকাল ঢাকায় বসছে বাংলাদেশ-ভারত যৌথ নদী কমিশনের বৈঠক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "২৩ নভেম্বর পোশাক কারখানার মালিকদের নতুন মজুরি প্রস্তাব দেওয়ার কথা রয়েছে",
-        "title_en": "Garment factory owners expected to submit new wage proposal on 23 November",
-        "summary_bn": "২৩ নভেম্বর অনুষ্ঠিতব্য সভায় পোশাক কারখানার মালিকেরা নতুন মজুরি কাঠামোর প্রস্তাব জমা দেবেন বলে আশা করছে ন্যূনতম মজুরি বোর্ড।",
-        "summary_en": "The Minimum Wage Board expects garment factory owners to submit their proposed pay structure at its meeting scheduled for 23 November.",
+        "title_bn": "ঢাকায় বসছে বাংলাদেশ-ভারত যৌথ নদী কমিশনের বৈঠক",
+        "title_en": "Bangladesh-India Joint Rivers Commission meeting begins in Dhaka",
+        "summary_bn": "বাংলাদেশ ও ভারতের যৌথ নদী কমিশনের গুরুত্বপূর্ণ বৈঠক ঢাকায় অনুষ্ঠিত হতে যাচ্ছে।",
+        "summary_en": "An important meeting of the Bangladesh-India Joint Rivers Commission is going to be held in Dhaka.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
+          "world_diplomacy",
+          "climate_environment",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T14:13:13+00:00",
-        "lead_bn": "২৩ নভেম্বর অনুষ্ঠিতব্য সভায় পোশাক কারখানার মালিকেরা নতুন মজুরি কাঠামোর প্রস্তাব জমা দেবেন বলে আশা করছে ন্যূনতম মজুরি বোর্ড।",
-        "lead_en": "The Minimum Wage Board expects garment factory owners to submit their proposed pay structure at its meeting scheduled for 23 November.",
+        "published_at": "2026-11-21T16:40:00+00:00",
+        "lead_bn": "বাংলাদেশ ও ভারতের যৌথ নদী কমিশনের গুরুত্বপূর্ণ বৈঠক ঢাকায় অনুষ্ঠিত হতে যাচ্ছে।",
+        "lead_en": "An important meeting of the Bangladesh-India Joint Rivers Commission is going to be held in Dhaka.",
         "bullets_bn": [
-          "ন্যূনতম মজুরি বোর্ডের চেয়ারম্যান সৈয়দ আজাদ সুবহানী জানান, বোর্ডের পরবর্তী সভা ২৩ নভেম্বর অনুষ্ঠিত হবে।",
-          "কাউকে প্রস্তাব দিতে বাধ্য করা সম্ভব নয় জানিয়ে সুবহানী বলেন, মজুরির সিদ্ধান্ত মালিকপক্ষের প্রস্তাবের জন্য আটকে থাকবে না।",
-          "মালিকপক্ষ প্রস্তাব না দিলে প্রচলিত আইন, নির্ধারিত প্রক্রিয়া ও সূচক অনুসরণ করে বোর্ড পরবর্তী পদক্ষেপ নেবে।"
+          "বৈঠকে দুই দেশের প্রতিনিধিরা গঙ্গা ও পদ্মা নদীর পানি বণ্টন সংক্রান্ত তথ্য-উপাত্ত বিনিময় করবেন।",
+          "আগামী ১২ ডিসেম্বর শেষ হতে যাওয়া ঐতিহাসিক গঙ্গা পানি বণ্টন চুক্তির মেয়াদ বাড়ানোর বিষয়টি এজেন্ডায় নেই।",
+          "নতুন চুক্তির বিষয়টি এবারের বৈঠকের আলোচনার এজেন্ডায় রাখা হয়নি বলে জানিয়েছে যৌথ নদী কমিশন।"
         ],
         "bullets_en": [
-          "Minimum Wage Board Chairman Syed Azad Subhani announced that the board's next meeting will take place on 23 November.",
-          "Subhani stated that no party can be compelled to submit a proposal and the wage decision will not wait for owners.",
-          "If owners fail to submit a proposal, the board will proceed following existing laws, established procedures, and indicators."
+          "Representatives of both countries will exchange data and information regarding the sharing of the Ganges and Padma rivers.",
+          "The extension of the historic Ganges water-sharing treaty ending on December 12 is not on the agenda.",
+          "The Joint Rivers Commission stated that the issue of a new treaty has not been included in the agenda of this meeting."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ন্যূনতম মজুরি বোর্ড শ্রম ও কর্মসংস্থান মন্ত্রণালয়ের আওতাধীন একটি সংস্থা। ২১ নভেম্বর বিকেলে বোর্ডের চেয়ারম্যান জেলা ও দায়রা জজ সৈয়দ আজাদ সুবহানী মজুরি পুনর্নির্ধারণ সংক্রান্ত বিষয়ে বক্তব্য দেন।",
-        "details_en": "The Minimum Wage Board operates under the Ministry of Labour and Employment. Board Chairman District and Sessions Judge Syed Azad Subhani shared details about the wage revision process on the afternoon of 21 November.",
-        "hook_bn": "'কাউকে প্রস্তাব দিতে বাধ্য করা সম্ভব নয়'",
+        "details_bn": "এর আগে গত ২২ মে ভারতের কলকাতায় যৌথ নদী কমিশনের বৈঠক অনুষ্ঠিত হয়েছিল।",
+        "details_en": "Earlier, the Joint Rivers Commission meeting was held in Kolkata, India on May 22.",
+        "hook_bn": "ঢাকায় বাংলাদেশ ভারত যৌথ নদী কমিশনের বৈঠক",
         "kicker_bn": "নতুন তারিখ",
-        "share_value": true,
-        "question_bn": "পোশাক খাতের নতুন মজুরি নির্ধারণ নিয়ে আপনার মতামত কী?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-21T16:05:16.331170+00:00"
-      }
-    },
-    {
-      "story_id": "596d389c-7a2e-5f87-80fa-d6616c8a2fb8",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#AwamiLeague",
-        "#MirShaheAlam",
-        "#Rangpur",
-        "#BangladeshPolitics"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/08/30/9145205.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-21T14:55:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 4.9292,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/politics/constitution-may-be-amended-permanently-ban-al-if-needed-shahe-alam-1609866",
-          "title": "Constitution may be amended to permanently ban AL if needed: Shahe Alam",
-          "snippet": "Constitution may be amended to permanently ban AL if needed: Shahe Alam"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/425357/govt-opposition-may-reach-consensus-on-permanent",
-          "title": "Govt, opposition may reach consensus on permanent Awami League ban",
-          "snippet": "Govt, opposition may reach consensus on permanent Awami League ban"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "আওয়ামী লীগকে স্থায়ীভাবে নিষিদ্ধ করতে সংবিধান সংশোধন করা হতে পারে, বললেন প্রতিমন্ত্রী",
-        "title_en": "Government and opposition may amend constitution to ban Awami League permanently, says minister",
-        "summary_bn": "প্রয়োজন হলে ঐকমত্যের ভিত্তিতে সংবিধান সংশোধন করে আওয়ামী লীগকে স্থায়ীভাবে নিষিদ্ধ করা হতে পারে বলে জানিয়েছেন প্রতিমন্ত্রী মীর শাহে আলম।",
-        "summary_en": "State Minister Mir Shahe Alam said the government and opposition may amend the constitution through consensus to permanently ban the Awami League if necessary.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-21T14:55:00+00:00",
-        "lead_bn": "প্রয়োজন হলে ঐকমত্যের ভিত্তিতে সংবিধান সংশোধন করে আওয়ামী লীগকে স্থায়ীভাবে নিষিদ্ধ করা হতে পারে বলে জানিয়েছেন প্রতিমন্ত্রী মীর শাহে আলম।",
-        "lead_en": "State Minister Mir Shahe Alam said the government and opposition may amend the constitution through consensus to permanently ban the Awami League if necessary.",
-        "bullets_bn": [
-          "মীর শাহে আলম আওয়ামী লীগের কার্যক্রম নিষিদ্ধ করার অন্তর্বর্তীকালীন সরকারের সিদ্ধান্তকে সঠিক ও যৌক্তিক বলে উল্লেখ করেন।",
-          "তিনি বলেন, দীর্ঘ সংগ্রামের পর অবাধ ও সুষ্ঠু নির্বাচনের মাধ্যমে প্রধানমন্ত্রী তারেক রহমানের নেতৃত্বে জনগণ গণতান্ত্রিক সরকার প্রতিষ্ঠা করেছে।",
-          "গোপালগঞ্জে পেট্রোল বোমা নিক্ষেপ বা থানায় আগুন দেওয়ার মতো সহিংসতায় কিছু অর্জিত হবে না বলে সতর্ক করেন তিনি।"
-        ],
-        "bullets_en": [
-          "Mir Shahe Alam called the interim government's decision to ban Awami League activities correct and logical.",
-          "He stated people established a democratic government under Prime Minister Tarique Rahman's leadership through a free and fair electoral process.",
-          "He warned that acts like throwing petrol bombs or burning police stations in Gopalganj would not yield anything."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "রংপুরে শহীদ আবু সাঈদ স্টেডিয়াম ও ইনডোর স্টেডিয়াম উদ্বোধন শেষে ২১ নভেম্বর সাংবাদিকদের সঙ্গে কথা বলেন মীর শাহে আলম। তিনি বলেন, নিষিদ্ধ সংগঠনের ষড়যন্ত্র প্রতিহত করতে জনগণ ঐক্যবদ্ধ থাকবে এবং দলটির রাজনীতিতে ফেরার কোনো সুযোগ নেই। দেশকে পুনরায় অন্য দেশের অধীনস্থ করার ষড়যন্ত্রকারীদের জবাবদিহিতার আওতায় আনা হবে উল্লেখ করে তিনি বলেন, বর্তমান সরকার মানবিক, ধৈর্যশীল এবং গণতান্ত্রিক নীতিতে প্রতিশ্রুতিবদ্ধ।",
-        "details_en": "Mir Shahe Alam spoke to journalists on 21 November after inaugurating Shaheed Abu Sayed Stadium and Indoor Stadium in Rangpur. He said people would stand united against conspiracies by the banned entity and there was no possibility of its political return. He added that those involved in plots to make the nation subservient would be held accountable, emphasizing that the current government is humane, patient and committed to democratic principles.",
-        "hook_bn": "'বর্তমান সরকার মানবিক ও ধৈর্যশীল'",
-        "kicker_bn": null,
         "share_value": false,
-        "question_bn": "আওয়ামী লীগকে স্থায়ীভাবে নিষিদ্ধ করতে সংবিধান সংশোধনের বিষয়ে আপনার মতামত কী?"
+        "question_bn": null
       },
-      "desk_importance": 7.0,
-      "outlet_count": 2,
+      "desk_importance": 6.0,
+      "outlet_count": 1,
       "trending": false,
-      "social_appeal": 8.0,
+      "social_appeal": 5.0,
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-21T16:05:16.331170+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-21T17:02:00.099295+00:00"
       }
     },
     {
-      "story_id": "b6460abc-dda2-5c57-8b3f-5cc56889b264",
+      "story_id": "0d26a39f-b203-5418-825c-1897d0a25450",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
@@ -241,36 +82,35 @@
       ],
       "region": "national",
       "tags": [
-        "#Gazipur",
-        "#ChhatraLeague",
-        "#Sreepur",
+        "#Mugda",
+        "#BPDB",
         "#BangladeshPolice"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/21/unnamed_1.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2025/11/15/crude_bomb.png",
       "image_caption": null,
-      "published_at": "2026-11-21T15:05:00+00:00",
+      "published_at": "2026-11-21T14:50:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.25,
-      "rank_score": 3.6986,
+      "rank_score": 3.4426,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/crime/gazipur-chhatra-league-leader-arrested-over-robbery-involving-bkash-money-associate",
-          "title": "Gazipur Chhatra League leader arrested over robbery involving bKash money; associate held with firearm",
-          "snippet": "Gazipur Chhatra League leader arrested over robbery involving bKash money; associate held with firearm"
+          "url": "https://www.tbsnews.net/bangladesh/crime/crude-bomb-explodes-front-power-development-board-officers-quarters-mugda-1609861",
+          "title": "Crude bomb explodes in front of Power Development Board officers' quarters in Mugda",
+          "snippet": "Crude bomb explodes in front of Power Development Board officers' quarters in Mugda"
         },
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1182112",
-          "title": "বিকাশ কর্মীদের গুলি করে কোটি টাকা লুট, অস্ত্রসহ ছাত্রলীগ নেতা গ্রেফতার",
-          "snippet": "বিকাশ কর্মীদের গুলি করে কোটি টাকা লুট, অস্ত্রসহ ছাত্রলীগ নেতা গ্রেফতার"
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/crude-bomb-explodes-front-bpdb-officers-quarters-dhakas-mugda-4329691",
+          "title": "Crude bomb explodes in front of BPDB officers' quarters in Dhaka's Mugda",
+          "snippet": "Crude bomb explodes in front of BPDB officers' quarters in Dhaka's Mugda"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গাজীপুরে বিকাশ টাকা ছিনতাইয়ের ঘটনায় ছাত্রলীগ নেতাসহ দুজন গ্রেফতার",
-        "title_en": "Chhatra League leader and associate arrested over Gazipur bKash robbery",
-        "summary_bn": "গাজীপুরের শ্রীপুরে বিকাশ টাকা ছিনতাইয়ের ঘটনায় জেলা ছাত্রলীগের সাংগঠনিক সম্পাদক ইমরান শেখসহ দুজনকে গ্রেফতার করেছে জেলা গোয়েন্দা পুলিশ।",
-        "summary_en": "Gazipur district DB police arrested district Chhatra League organizing secretary Imran Sheikh and his associate over a bKash money robbery in Sreepur.",
+        "title_bn": "মুগদায় বিপিডিবি কর্মকর্তাদের কোয়ার্টারের সামনে ককটেল বিস্ফোরণ",
+        "title_en": "Crude bomb explodes in front of BPDB quarters in Mugda",
+        "summary_bn": "২১ নভেম্বর সন্ধ্যায় ঢাকার মুগদায় বাংলাদেশ বিদ্যুৎ উন্নয়ন বোর্ডের কর্মকর্তাদের কোয়ার্টারের গেটের সামনে একটি ককটেল বিস্ফোরিত হয়েছে।",
+        "summary_en": "A crude bomb exploded in front of the gate of the Bangladesh Power Development Board officers quarters in Mugda, Dhaka, on 21 November.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -278,25 +118,25 @@
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T15:05:00+00:00",
-        "lead_bn": "গাজীপুরের শ্রীপুরে বিকাশ টাকা ছিনতাইয়ের ঘটনায় জেলা ছাত্রলীগের সাংগঠনিক সম্পাদক ইমরান শেখসহ দুজনকে গ্রেফতার করেছে জেলা গোয়েন্দা পুলিশ।",
-        "lead_en": "Gazipur district DB police arrested district Chhatra League organizing secretary Imran Sheikh and his associate over a bKash money robbery in Sreepur.",
+        "published_at": "2026-11-21T14:50:00+00:00",
+        "lead_bn": "২১ নভেম্বর সন্ধ্যায় ঢাকার মুগদায় বাংলাদেশ বিদ্যুৎ উন্নয়ন বোর্ডের কর্মকর্তাদের কোয়ার্টারের গেটের সামনে একটি ককটেল বিস্ফোরিত হয়েছে।",
+        "lead_en": "A crude bomb exploded in front of the gate of the Bangladesh Power Development Board officers quarters in Mugda, Dhaka, on 21 November.",
         "bullets_bn": [
-          "১৯ নভেম্বর মৌলভীবাজার জেলার শ্রীমঙ্গল উপজেলার গিয়াসনগর এলাকা থেকে ২৪ বছর বয়সী ইমরান শেখকে গ্রেফতার করা হয়।",
-          "অভিযানে অস্ত্র ও একটি খালি ম্যাগাজিনসহ ২২ বছর বয়সী সহযোগী রবিন আহমেদকে আটক করা হয়েছে বলে জেলা গোয়েন্দা পুলিশ জানিয়েছে।",
-          "ইমরানের বিরুদ্ধে সাতটি এবং রবিনের বিরুদ্ধে তিনটি মামলা বিচারাধীন রয়েছে বলে পুলিশ জানিয়েছে।"
+          "রাত সাতটা পঞ্চাশ মিনিটের দিকে এই বিস্ফোরণের ঘটনা ঘটে।",
+          "এই ঘটনায় কোনো হতাহতের খবর পাওয়া যায়নি বলে পুলিশ জানিয়েছে।",
+          "পরিচয়হীন দুর্বৃত্তরা গেটের সামনে ককটেল ফেলে পালিয়ে যায় বলে পুলিশ জানায়।"
         ],
         "bullets_en": [
-          "Imran Sheikh, 24, was arrested on 19 November from the Giasnagar area under Sreemangal Police Station in Moulvibazar district.",
-          "DB police detained his associate Robin Ahmed, 22, along with a firearm and an empty magazine in a separate raid.",
-          "Police stated that Imran faces seven pending cases while Robin has three pending cases related to various offences."
+          "The explosion took place around 7:50pm.",
+          "No casualties were reported, police said.",
+          "Unidentified miscreants threw a crude bomb in front of the gate before fleeing, police said."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "পুলিশ জানায়, গত ৯ অক্টোবর শ্রীপুর উপজেলার গোসিংগা ইউনিয়নের নরসিংদী ও মাওনার সংযোগকারী আঞ্চলিক মহাসড়কে এই ছিনতাইয়ের ঘটনা ঘটে। ২০ নভেম্বর অস্ত্র আইনে শ্রীপুর থানায় রবিনের বিরুদ্ধে একটি মামলা দায়ের করা হয়। গাজীপুর জেলা গোয়েন্দা কর্মকর্তা-১ আবুল বাশার মিয়া এই গ্রেফতারের বিষয়টি নিশ্চিত করেছেন।",
-        "details_en": "Police stated that the robbery took place on 9 October on the regional highway connecting Narsingdi and Mawna in Gosinga union of Sreepur upazila. A case was filed against Robin at Sreepur Police Station on 20 November under the Arms Act. Abul Bashar Mia, district intelligence officer-1 of Gazipur, confirmed the arrests.",
-        "hook_bn": "শ্রীপুরে বিকাশ টাকা ছিনতাইয়ে ছাত্রলীগ নেতা গ্রেফতার",
-        "kicker_bn": null,
+        "details_bn": "খবর পেয়ে পুলিশ ঘটনাস্থলে পৌঁছেছে এবং এই ঘটনার সঙ্গে জড়িতদের শনাক্ত করে গ্রেপ্তার করতে সিসিটিভি ফুটেজ সংগ্রহ করছে।",
+        "details_en": "Police reached the scene after receiving information about the incident and are collecting CCTV footage to identify and arrest those involved.",
+        "hook_bn": "মুগদায় বিপিডিবি কোয়ার্টারের সামনে ককটেল বিস্ফোরণ",
+        "kicker_bn": "অপরাধ",
         "share_value": false,
         "question_bn": null
       },
@@ -305,156 +145,154 @@
       "trending": false,
       "social_appeal": 7.0,
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-21T16:05:16.331170+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-21T17:02:00.099295+00:00"
       }
     },
     {
-      "story_id": "5c0343ba-137a-5d60-97c9-807faab73873",
+      "story_id": "883f28a2-39fe-53a2-969b-087dcf5126f7",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy"
+        "world_diplomacy",
+        "governance_law"
       ],
       "region": "international",
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#Kaliningrad",
+        "#Finland",
+        "#Russia",
+        "#SpartaII"
       ],
-      "image_url": "https://images.unsplash.com/photo-1737719158987-e7cd95068bec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8aXJhbiUyMHJldmVhbHMlMjBtaXNzaWxlJTIwc3RvY2twaWxlJTIwZGlwbG9tYWN5fGVufDF8MHx8fDE3OTUyNzcwNDB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://th-i.thgim.com/public/incoming/ldpog9/article71729312.ece/alternates/LANDSCAPE_1200/2026-11-21T160708Z_1736225898_RC2DSOAQBVC2_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-VESSEL.JPG",
       "image_caption": null,
-      "published_at": "2026-11-21T15:49:59+00:00",
+      "published_at": "2026-11-21T16:51:03+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.7252,
+      "importance_score": 6.0,
+      "rank_score": 3.5647,
       "sources": [
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822283/%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA%E0%A6%A3%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AD%E0%A6%BE%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%8F%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A7%87",
-          "title": "ক্ষেপণাস্ত্রের বিশাল ভাণ্ডার প্রকাশ্যে এনে বিশ্বকে নতুন বার্তা ইরানের",
-          "snippet": "ক্ষেপণাস্ত্রের বিশাল ভাণ্ডার প্রকাশ্যে এনে বিশ্বকে নতুন বার্তা ইরানের"
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/cargo-ship-bound-for-russias-kaliningrad-hit-by-drones-finland-tightens-security/article71729285.ece",
+          "title": "Cargo ship bound for Russia's Kaliningrad hit by drones, Finland tightens security",
+          "snippet": "Cargo ship bound for Russia's Kaliningrad hit by drones, Finland tightens security"
         },
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1182109",
-          "title": "মার্কিন এফ-১৬ যুদ্ধবিমানে ক্ষেপণাস্ত্র হামলার দাবি ইরানের",
-          "snippet": "মার্কিন এফ-১৬ যুদ্ধবিমানে ক্ষেপণাস্ত্র হামলার দাবি ইরানের"
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-all-1573-rdf",
+          "title": "Russia strikes Zelenskyy's hometown, killing 2",
+          "snippet": "Russia strikes Zelenskyy's hometown, killing 2"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইরান ক্ষেপণাস্ত্রের ভাণ্ডার প্রকাশ করেছে এবং যুদ্ধবিমানে হামলার দাবি করেছে।",
-        "title_en": "Iran reveals missile stockpile and claims attack on warplane.",
-        "summary_bn": "ইরানের ইসলামি বিপ্লবী গার্ড বাহিনী তাদের মিসাইল সিটির ভিডিও প্রকাশ করেছে এবং উপসাগরের আকাশে যুক্তরাষ্ট্রের যুদ্ধবিমানে ক্ষেপণাস্ত্র ছোড়ার দাবি করেছে।",
-        "summary_en": "Iran Islamic Revolutionary Guard Corps released a missile city video and claimed firing a missile at a US warplane over the Gulf.",
+        "title_bn": "রাশিয়ার কার্গো জাহাজে ড্রোন হামলা, ফিনল্যান্ডের নিরাপত্তা জোরদার",
+        "title_en": "Cargo ship bound for Russia's Kaliningrad hit by drones, Finland tightens security",
+        "summary_bn": "রাশিয়ার কালিনিনগ্রাদমুখী একটি কার্গো জাহাজে আন্তর্জাতিক জলসীমায় ড্রোন হামলা হয়েছে, যার ফলে ফিনল্যান্ড ওই এলাকায় নিরাপত্তা জোরদার করেছে।",
+        "summary_en": "A cargo ship bound for Russia's Kaliningrad was struck by drones in international waters, prompting Finland to tighten security measures.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "world_diplomacy",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T15:49:59+00:00",
-        "lead_bn": "ইরানের ইসলামি বিপ্লবী গার্ড বাহিনী তাদের মিসাইল সিটির ভিডিও প্রকাশ করেছে এবং উপসাগরের আকাশে যুক্তরাষ্ট্রের যুদ্ধবিমানে ক্ষেপণাস্ত্র ছোড়ার দাবি করেছে।",
-        "lead_en": "Iran Islamic Revolutionary Guard Corps released a missile city video and claimed firing a missile at a US warplane over the Gulf.",
+        "published_at": "2026-11-21T16:51:03+00:00",
+        "lead_bn": "রাশিয়ার কালিনিনগ্রাদমুখী একটি কার্গো জাহাজে আন্তর্জাতিক জলসীমায় ড্রোন হামলা হয়েছে, যার ফলে ফিনল্যান্ড ওই এলাকায় নিরাপত্তা জোরদার করেছে।",
+        "lead_en": "A cargo ship bound for Russia's Kaliningrad was struck by drones in international waters, prompting Finland to tighten security measures.",
         "bullets_bn": [
-          "আইআরজিসির প্রকাশিত ভিডিওতে ভূগর্ভস্থ বিশাল সুড়ঙ্গজুড়ে সারি সারি ক্ষেপণাস্ত্র ও উৎক্ষেপণযন্ত্র দেখা গেছে।",
-          "আলজাজিরার সাংবাদিক রেসুল সারদার আতাস তেহরান থেকে ভিডিওটি সম্পর্কে জানিয়েছেন।",
-          "উপসাগরের আকাশে যুক্তরাষ্ট্রের একটি এফ-১৬ যুদ্ধবিমান লক্ষ্য করে ক্ষেপণাস্ত্র ছোড়ার পর সেটি ক্ষতিগ্রস্ত হয়েছে বলে জানানো হয়েছে।"
+          "স্পার্টা টু নামের জাহাজটি ক্ষতিগ্রস্ত হয়ে আগুন ধরে যাওয়ার পর ফিনল্যান্ডের জলসীমায় চলে আসে।",
+          "লেনিনগ্রাদ অঞ্চলের গভর্নর আলেকসান্দ্র দ্রোজদেনকো জানান, রাশিয়ার সীমান্ত থেকে প্রায় তিন নটিক্যাল দূরে জাহাজটিতে হামলা হয়।",
+          "ফিনল্যান্ডের প্রতিরক্ষা মন্ত্রণালয় পূর্ব ফিনল্যান্ড উপসাগরে সাময়িক বিমান ও সামুদ্রিক নিষেধাজ্ঞা পুনর্বহাল করেছে।"
         ],
         "bullets_en": [
-          "The IRGC video showed rows of missiles and launchers inside a vast underground tunnel.",
-          "Al Jazeera journalist Resul Sardar Aytac reported from Tehran regarding the video.",
-          "A US F-16 warplane was reported damaged after a missile was fired at it over the Gulf sky."
+          "The vessel Sparta II was damaged, caught fire and drifted into Finnish territorial waters.",
+          "Leningrad region Governor Aleksandr Drozdenko said the vessel was attacked about three nautical miles from Russia's border.",
+          "Finland's Defence Ministry reintroduced temporary aviation and maritime restrictions in the eastern Gulf of Finland."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "ক্ষেপণাস্ত্রের বিশাল ভাণ্ডার প্রকাশ্যে এনেছে ইরান",
+        "hook_bn": "রাশিয়ার কার্গো জাহাজে ড্রোন হামলা",
         "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 5.0,
+      "desk_importance": 6.0,
       "outlet_count": 2,
       "trending": false,
-      "social_appeal": 6.0,
+      "social_appeal": 5.0,
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-21T16:05:16.331170+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-21T17:02:00.099295+00:00"
       }
     },
     {
-      "story_id": "51997a2b-5c85-514e-8a8c-634cb1378d53",
-      "primary_category": "governance_law",
+      "story_id": "0d65b845-1d9d-5856-8afe-83cfa1bef9c1",
+      "primary_category": "society_education",
       "interest_categories": [
-        "governance_law",
-        "world_diplomacy"
+        "society_education",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
-        "#Governance"
+        "#NationalAffairs"
       ],
-      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/sylthet-1.jpg",
+      "image_url": "https://images.unsplash.com/photo-1650532114493-99adf3f0623f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGhha2ElMjBnb3Zlcm5tZW50JTIwc2Nob29sJTIwY2xhc3MlMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NTI4MDUyMHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-21T14:12:59+00:00",
+      "published_at": "2026-11-21T15:51:58+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.4823,
+      "importance_score": 6.0,
+      "rank_score": 3.3676,
       "sources": [
         {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/bangladesh/post-1223960/",
-          "title": "সিলেট সীমান্ত থেকে বাংলাদেশি যুবককে ধরে নিয়ে গেল বিএসএফ",
-          "snippet": "সিলেট সীমান্ত থেকে বাংলাদেশি যুবককে ধরে নিয়ে গেল বিএসএফ"
-        },
-        {
           "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822279/%E0%A6%AD%E0%A7%81%E0%A6%B2%E0%A7%87-%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%85%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF-%E2%80%98%E0%A6%AC%E0%A6%A7%E0%A6%BF%E0%A6%B0%E2%80%99",
-          "title": "ভুলে সীমান্ত অতিক্রমের পর বাংলাদেশি ‘বধির’ শ্রমিককে ধরে নিয়ে গেল বিএসএফ",
-          "snippet": "ভুলে সীমান্ত অতিক্রমের পর বাংলাদেশি ‘বধির’ শ্রমিককে ধরে নিয়ে গেল বিএসএফ"
+          "url": "https://www.ittefaq.com.bd/822286/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%81%E0%A6%B2%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF%E0%A6%B0-%E0%A6%AD%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%B2%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A7%A7%E0%A7%AB",
+          "title": "ঢাকার সরকারি স্কুলে প্রথম শ্রেণির ভর্তি লটারি ১৫ ডিসেম্বর",
+          "snippet": "ঢাকার সরকারি স্কুলে প্রথম শ্রেণির ভর্তি লটারি ১৫ ডিসেম্বর"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সিলেটের বিছনাকান্দি সীমান্তে বাংলাদেশি যুবককে ধরে নিয়ে গেছে বিএসএফ",
-        "title_en": "BSF detains Bangladeshi youth at Bichnakandi border in Sylhet",
-        "summary_bn": "সিলেটে ২১ নভেম্বর গোয়াইনঘাট উপজেলার বিছনাকান্দি সীমান্তে ভারতের অভ্যন্তরে প্রবেশের অভিযোগে শাহরিয়ার নামে এক বাংলাদেশি যুবককে আটক করেছে ভারতীয় সীমান্তরক্ষী বাহিনী বিএসএফ।",
-        "summary_en": "Indian Border Security Force BSF detained a Bangladeshi youth named Shahriar after he entered Indian territory at Bichnakandi border in Sylhet on 21 November.",
+        "title_bn": "ঢাকার সরকারি স্কুলে প্রথম শ্রেণির ভর্তি লটারি ১৫ ডিসেম্বর",
+        "title_en": "Dhaka government school class one admission lottery on 15 December",
+        "summary_bn": "ঢাকা মহানগরীর সরকারি মাধ্যমিক বিদ্যালয়গুলোতে প্রথম শ্রেণিতে ভর্তির লটারি আগামী ১৫ ডিসেম্বর অনুষ্ঠিত হবে।",
+        "summary_en": "The admission lottery for class one in Dhaka metropolitan government secondary schools will be held on 15 December.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "world_diplomacy"
+          "society_education",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T14:12:59+00:00",
-        "lead_bn": "সিলেটে ২১ নভেম্বর গোয়াইনঘাট উপজেলার বিছনাকান্দি সীমান্তে ভারতের অভ্যন্তরে প্রবেশের অভিযোগে শাহরিয়ার নামে এক বাংলাদেশি যুবককে আটক করেছে ভারতীয় সীমান্তরক্ষী বাহিনী বিএসএফ।",
-        "lead_en": "Indian Border Security Force BSF detained a Bangladeshi youth named Shahriar after he entered Indian territory at Bichnakandi border in Sylhet on 21 November.",
+        "published_at": "2026-11-21T15:51:58+00:00",
+        "lead_bn": "ঢাকা মহানগরীর সরকারি মাধ্যমিক বিদ্যালয়গুলোতে প্রথম শ্রেণিতে ভর্তির লটারি আগামী ১৫ ডিসেম্বর অনুষ্ঠিত হবে।",
+        "lead_en": "The admission lottery for class one in Dhaka metropolitan government secondary schools will be held on 15 December.",
         "bullets_bn": [
-          "শাহরিয়ার বিছনাকান্দি ইউনিয়নের উপর গ্রামের মনির মিয়ার ছেলে এবং তার বাবা জানান যে শাহরিয়ার কানে কম শোনেন।",
-          "৪৮ বিজিবির অধিনায়ক লেফটেন্যান্ট কর্নেল নুর উদ্দিন আহমেদ জানান শাহরিয়ার অবৈধভাবে পাথর তুলতে ভারতের ভেতরে প্রবেশ করেছিলেন।",
-          "শাহরিয়ারকে বিএসএফ ধরে নিয়ে যাওয়ার পর বিষয়টি নিয়ে তাদের সঙ্গে আলোচনা চলছে বলে জানিয়েছে বিজিবি।"
+          "২০২৭ শিক্ষাবর্ষে ঢাকা মহানগরীর সরকারি মাধ্যমিক বিদ্যালয়গুলোতে প্রথম শ্রেণিতে ভর্তির জন্য শিক্ষার্থী নির্বাচন করা হবে লটারির মাধ্যমে।",
+          "দ্বিতীয় থেকে নবম শ্রেণিতে ভর্তি নেওয়া হবে লিখিত পরীক্ষার মাধ্যমে।",
+          "আসন্ন শিক্ষাবর্ষে ঢাকা মহানগরীর ৪৬টি সরকারি মাধ্যমিক বিদ্যালয় ও তিনটি ফিডার শাখায় শিক্ষার্থী ভর্তি করা হবে।"
         ],
         "bullets_en": [
-          "Shahriar is the son of Monir Miah from Upar village, and his father stated that Shahriar is hard of hearing.",
-          "48 BGB Commander Lieutenant Colonel Nur Uddin Ahmed said Shahriar entered India illegally to extract stones.",
-          "BGB stated that discussions are ongoing with the BSF following the detention of the Bangladeshi youth."
+          "Students will be selected through a lottery for admission to class one in Dhaka metropolitan government secondary schools for the 2027 academic year.",
+          "Admission to classes two through nine will be conducted through written examinations.",
+          "Students will be admitted to 46 government secondary schools and three feeder branches in the Dhaka metropolitan area for the upcoming academic year."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "এর আগে ১৭ নভেম্বর বিছনাকান্দি পর্যটন এলাকায় বাংলাদেশের অভ্যন্তরে প্রবেশ করে পর্যটককে গালিগালাজ করার অভিযোগে অস্ত্রসহ এক বিএসএফ সদস্যকে আটক করে বিজিবি। পরে জিরো পয়েন্টে উভয় দেশের সীমান্তরক্ষী বাহিনীর অধিনায়ক পর্যায়ের পতাকা বৈঠক অনুষ্ঠিত হয়। বৈঠকের প্রায় ৭ ঘণ্টা পর আটক বিএসএফ সদস্যকে ভারতের কাছে হস্তান্তর করা হয়।",
-        "details_en": "Earlier on 17 November, BGB detained an armed BSF member who entered Bangladeshi territory in the Bichnakandi tourist area and verbally abused a tourist. A battalion commander-level flag meeting was later held at the zero point, and the detained BSF member was handed over to India nearly seven hours later.",
-        "hook_bn": "বিছনাকান্দি সীমান্তে বাংলাদেশি যুবক আটক",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "১৫ ডিসেম্বর সরকারি স্কুলের ভর্তি লটারি",
+        "kicker_bn": "নতুন তারিখ",
+        "share_value": true,
+        "question_bn": "আপনার এলাকার সরকারি স্কুলের ভর্তি নিয়ে আপনার কোনো অভিজ্ঞতা আছে কি?"
       },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
+      "desk_importance": 6.0,
+      "outlet_count": 1,
       "trending": false,
-      "social_appeal": 6.0,
+      "social_appeal": 8.0,
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-21T16:05:16.331170+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-21T17:02:00.099295+00:00"
       }
     }
   ]
