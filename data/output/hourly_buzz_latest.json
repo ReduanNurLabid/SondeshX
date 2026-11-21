@@ -1,169 +1,235 @@
 {
-  "updated_at": "2026-11-21T19:00:44.962087",
-  "total_stories": 2,
+  "updated_at": "2026-11-21T20:00:43.436280",
+  "total_stories": 3,
   "stories": [
     {
-      "story_id": "0cb57181-1a78-5dd0-8920-956c719148bc",
-      "primary_category": "society_education",
+      "story_id": "965973a4-fc5e-5c48-9d65-0c290356d3a1",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "society_education",
-        "governance_law"
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#SheikhMujiburRahmanHall",
-        "#StudentProtest"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1767781792401-f3913243cba3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8c2hlaWtoJTIwbXVqaWJ1ciUyMHJhaG1hbiUyMGhhbGwlMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NTI4NzY4OHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2023-12%2F549dd621-db09-4e4a-a151-156f17a5320b%2Ffb53bd89-c15a-48b9-9beb-270d3735c874.jpg?rect=0%2C50%2C977%2C513&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-21T18:38:36+00:00",
+      "published_at": "2026-11-21T17:49:25+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.4458,
+      "importance_score": 8.0,
+      "rank_score": 5.638,
       "sources": [
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/campus1/425373/du-reopens-sheikh-mujibur-rahman-hall-pocket-gate",
-          "title": "DU reopens Sheikh Mujibur Rahman Hall pocket gate after student protests",
-          "snippet": "DU reopens Sheikh Mujibur Rahman Hall pocket gate after student protests"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/business/economics/vcrgx3equq",
+          "title": "এক বছরের বেশি সময় পরে ২ লাখ টাকার নিচে নামল সোনার ভরির দাম",
+          "snippet": "এক বছরের বেশি সময় পরে ২ লাখ টাকার নিচে নামল সোনার ভরির দাম"
         },
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/my-campus/982434/%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%B2%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%87-%E0%A6%B6%E0%A7%87%E0%A6%96-%E0%A6%AE%E0%A7%81%E0%A6%9C%E0%A6%BF%E0%A6%AC-%E0%A6%B9%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%95%E0%A7%87%E0%A6%9F-%E0%A6%97%E0%A7%87%E0%A6%9F-%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%8B",
-          "title": "আন্দোলনের মুখে শেখ মুজিব হলের পকেট গেট খুলে দিলো প্রশাসন",
-          "snippet": "আন্দোলনের মুখে শেখ মুজিব হলের পকেট গেট খুলে দিলো প্রশাসন"
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/financial-development/post-1224007/",
+          "title": "সোনার দামে বিশাল পতন, ভরি ১ লাখ ৯৪ হাজার টাকা",
+          "snippet": "সোনার দামে বিশাল পতন, ভরি ১ লাখ ৯৪ হাজার টাকা"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822298/%E0%A6%8F%E0%A6%95-%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A7%87-%E0%A7%A8-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%9A%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%B2-%E0%A6%B8%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%AD%E0%A6%B0%E0%A6%BF%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE",
+          "title": "এক বছর পরে ২ লাখ টাকার নিচে নামল সোনার ভরির দাম",
+          "snippet": "এক বছর পরে ২ লাখ টাকার নিচে নামল সোনার ভরির দাম"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আন্দোলনের মুখে ঢাকা বিশ্ববিদ্যালয়ের শেখ মুজিবুর রহমান হলের পকেট গেট খুলে দেওয়া হয়েছে",
-        "title_en": "DU Sheikh Mujibur Rahman Hall pocket gate reopened after student protests",
-        "summary_bn": "শিক্ষার্থীদের আন্দোলনের মুখে ঢাকা বিশ্ববিদ্যালয়ের শেখ মুজিবুর রহমান হলের পকেট গেটের তালা খুলে দিয়েছে বিশ্ববিদ্যালয় প্রশাসন।",
-        "summary_en": "The Dhaka University administration unlocked the Sheikh Mujibur Rahman Hall pocket gate following student protests.",
+        "title_bn": "দেশের বাজারে সোনার ভরির দাম দুই লাখ টাকার নিচে নামল।",
+        "title_en": "Gold price per bhori drops below two lakh taka in local market.",
+        "summary_bn": "বাংলাদেশ জুয়েলার্স সমিতির দাম কমানোর পর ২২ ক্যারেটের প্রতি ভরি সোনার দাম ১ লাখ ৯৪ হাজার ৯৬৪ টাকা হয়েছে।",
+        "summary_en": "The price of 22-carat gold became Tk 1,94,964 per bhori after the Bangladesh Jewellers Association reduced prices.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
-          "governance_law"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T18:38:36+00:00",
-        "lead_bn": "শিক্ষার্থীদের আন্দোলনের মুখে ঢাকা বিশ্ববিদ্যালয়ের শেখ মুজিবুর রহমান হলের পকেট গেটের তালা খুলে দিয়েছে বিশ্ববিদ্যালয় প্রশাসন।",
-        "lead_en": "The Dhaka University administration unlocked the Sheikh Mujibur Rahman Hall pocket gate following student protests.",
+        "published_at": "2026-11-21T17:49:25+00:00",
+        "lead_bn": "বাংলাদেশ জুয়েলার্স সমিতির দাম কমানোর পর ২২ ক্যারেটের প্রতি ভরি সোনার দাম ১ লাখ ৯৪ হাজার ৯৬৪ টাকা হয়েছে।",
+        "lead_en": "The price of 22-carat gold became Tk 1,94,964 per bhori after the Bangladesh Jewellers Association reduced prices.",
         "bullets_bn": [
-          "রাত ১০টা ২০ মিনিটে বিশ্ববিদ্যালয় প্রশাসন গেটটি খুলে দেয়।",
-          "রাত ৯টা ৫০ মিনিটের দিকে গেটটি খুলে দেওয়ার দাবিতে শিক্ষার্থীরা বিক্ষোভ শুরু করেন।",
-          "শিক্ষার্থীরা প্রথমে জিয়াউর রহমান হলের সামনে জড়ো হয়ে মিছিল নিয়ে মুজিব হলের দিকে যান।"
+          "প্রায় ১৩ মাস পরে সোনার ভরির দাম কমে দুই লাখ টাকার নিচে নেমেছে।",
+          "সবচেয়ে ভালো মানের বা ২২ ক্যারেটের প্রতি ভরি সোনার দাম ৬ হাজার ১৮২ টাকা কমেছে।",
+          "গত ৯ দফায় দেশে সোনার দাম ৩৪ হাজার ৬৯০ টাকা কমেছে।"
         ],
         "bullets_en": [
-          "The university administration unlocked the gate at 10:20 pm on Saturday.",
-          "Students started protests demanding the opening of the gate at around 9:50 pm.",
-          "Students gathered in front of Ziaur Rahman Hall and marched toward Mujib Hall."
+          "Gold price per bhori dropped below two lakh taka after nearly 13 months.",
+          "The price of the highest quality 22-carat gold decreased by Tk 6,182 per bhori.",
+          "Gold prices in the country decreased by Tk 34,690 across nine consecutive adjustments."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "নিরাপত্তাজনিত কারণ দেখিয়ে প্রশাসন গত ১৭ নভেম্বর পকেট গেটটি সাময়িকভাবে বন্ধ রাখার সিদ্ধান্ত নিয়েছিল।",
-        "details_en": "The administration decided to temporarily close the pocket gate on November 17, citing security concerns.",
-        "hook_bn": "ঢাবি হলের পকেট গেট খুলে দিলো প্রশাসন",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": "ঢাকা বিশ্ববিদ্যালয়ের হলগুলোর গেট বন্ধ রাখার বিষয়ে আপনার মতামত কী?"
+        "impact_bn": "সোনার পুরোনো অলংকার বিক্রি করলে এখন আগের চেয়ে বেশি টাকা পাওয়া যাবে।",
+        "impact_en": "People selling old gold jewelry will now receive more money than before.",
+        "details_bn": "স্থানীয় বাজারে তেজাবী সোনার দাম কমে যাওয়ায় বাংলাদেশ জুয়েলার্স সমিতি এই দাম সমন্বয় করেছে। বিশ্ববাজারে সোনার দাম কমে যাওয়া এবং মার্কিন ডলার শক্তিশালী হওয়া এবং মার্কিন কেন্দ্রীয় ব্যাংক ফেডারেল রিজার্ভের সুদের হার বাড়ানোর ধারণার কারণে বিশ্ববাজারে সোনা ও রুপার দাম কমছে বলে বিশ্লেষকেরা জানিয়েছেন।",
+        "details_en": "The Bangladesh Jewellers Association adjusted the price due to a decrease in local bullion gold prices. Analysts noted that gold and silver prices are falling globally because international gold prices are dropping, the US dollar is strengthening, and expectations exist that the US Federal Reserve may raise interest rates.",
+        "hook_bn": "দুই লাখ টাকার নিচে নামল সোনার দাম",
+        "kicker_bn": "দাম কমছে",
+        "share_value": true,
+        "question_bn": "সোনার দাম কমার এই পরিস্থিতি আপনার কেনাকাটার পরিকল্পনায় কেমন প্রভাব ফেলছে?"
       },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 6.0,
+      "desk_importance": 7.0,
+      "outlet_count": 3,
+      "trending": true,
+      "social_appeal": 9.0,
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-21T19:01:47.694271+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-21T20:01:42.094303+00:00"
       }
     },
     {
-      "story_id": "6ea7f1c0-2014-59cb-8848-4d0816b7be83",
-      "primary_category": "world_diplomacy",
+      "story_id": "4ebb5948-b2a7-5a1d-81b2-d00704644c91",
+      "primary_category": "sports_fitness",
       "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
+        "sports_fitness",
+        "world_diplomacy"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#ElChapoIsidro",
-        "#Mexico",
-        "#FBI",
-        "#Sinaloa"
+        "#Sports",
+        "#BangladeshCricket"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/109833a4d1387ede241180856c6e37007aa8a6a3/264_354_897_717/master/897.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b228975517691e02d9f2c13e8010a7ae",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-21%2F4qjz0myq%2FHXqpavTaMAAoST.jpg?rect=0%2C0%2C2251%2C1182&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-21T17:46:55+00:00",
+      "published_at": "2026-11-21T17:37:01+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.3271,
+      "importance_score": 7.5,
+      "rank_score": 4.8964,
       "sources": [
         {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
-          "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
-          "snippet": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid"
-        },
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-all-1573-rdf",
-          "title": "Mexican special forces arrest drug kingpin 'Chapo Isidro'",
-          "snippet": "Mexican special forces arrest drug kingpin 'Chapo Isidro'"
-        },
-        {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/south-america/0keoaxemc3",
-          "title": "সেনা অভিযানের পর গোলাগুলি ও সহিংসতা, মোস্ট ওয়ান্টেড মাদকসম্রাট ‘এল চাপো ইসিদ্রো’ গ্রেপ্তার",
-          "snippet": "সেনা অভিযানের পর গোলাগুলি ও সহিংসতা, মোস্ট ওয়ান্টেড মাদকসম্রাট ‘এল চাপো ইসিদ্রো’ গ্রেপ্তার"
+          "url": "https://www.prothomalo.com/sports/cricket/uexekqrylz",
+          "title": "ইকবালের ছক্কায় রোমাঞ্চকর জয়, আফগানদের হারিয়ে সেমিফাইনালে বাংলাদেশ",
+          "snippet": "ইকবালের ছক্কায় রোমাঞ্চকর জয়, আফগানদের হারিয়ে সেমিফাইনালে বাংলাদেশ"
         },
         {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
-          "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
-          "snippet": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/bangladesh-afghanistan-asia-cup-rising-stars-lead-sports/",
+          "title": "শ্বাসরুদ্ধকর জয়ে এক ম্যাচ হাতে রেখে সেমিফাইনালে বাংলাদেশ",
+          "snippet": "শ্বাসরুদ্ধকর জয়ে এক ম্যাচ হাতে রেখে সেমিফাইনালে বাংলাদেশ"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/sports/499817",
+          "title": "আফগানদের বিপক্ষে এক উইকেটের জয়ে সেমিতে বাংলাদেশ",
+          "snippet": "আফগানদের বিপক্ষে এক উইকেটের জয়ে সেমিতে বাংলাদেশ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মেক্সিকোয় মার্কিন এফবিআইয়ের মোস্ট ওয়ান্টেড মাদকসম্রাট এল চাপো ইসিদ্রো গ্রেপ্তার",
-        "title_en": "FBI most wanted drug boss El Chapo Isidro arrested in Mexico",
-        "summary_bn": "মেক্সিকোর সিনালোয়া রাজ্যে বিশেষ বাহিনীর অভিযানে এফবিআইয়ের মোস্ট ওয়ান্টেড ১০ আসামির একজন ফাউস্তো ইসিদ্রো মেজা ফ্লোরেস গ্রেপ্তার হয়েছেন।",
-        "summary_en": "Fausto Isidro Meza Flores, one of the FBI's top 10 most wanted fugitives, was captured in a special forces raid in Sinaloa.",
+        "title_bn": "আফগানদের হারিয়ে সেমিফাইনালে বাংলাদেশ",
+        "title_en": "Bangladesh reaches semifinals by defeating Afghans",
+        "summary_bn": "ইকবাল হোসেনের শেষ ওভারের ব্যাটিং নৈপুণ্যে আফগানিস্তানকে ১ উইকেটে হারিয়ে এশিয়া কাপ রাইজিং স্টার্সের সেমিফাইনালে উঠেছে বাংলাদেশ এ দল।",
+        "summary_en": "Bangladesh A team reached the semifinals of the Asia Cup Rising Stars by defeating Afghanistan by 1 wicket through Iqbal Hossain's batting heroics in the final over.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
+          "sports_fitness",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T17:46:55+00:00",
-        "lead_bn": "মেক্সিকোর সিনালোয়া রাজ্যে বিশেষ বাহিনীর অভিযানে এফবিআইয়ের মোস্ট ওয়ান্টেড ১০ আসামির একজন ফাউস্তো ইসিদ্রো মেজা ফ্লোরেস গ্রেপ্তার হয়েছেন।",
-        "lead_en": "Fausto Isidro Meza Flores, one of the FBI's top 10 most wanted fugitives, was captured in a special forces raid in Sinaloa.",
+        "published_at": "2026-11-21T17:37:01+00:00",
+        "lead_bn": "ইকবাল হোসেনের শেষ ওভারের ব্যাটিং নৈপুণ্যে আফগানিস্তানকে ১ উইকেটে হারিয়ে এশিয়া কাপ রাইজিং স্টার্সের সেমিফাইনালে উঠেছে বাংলাদেশ এ দল।",
+        "lead_en": "Bangladesh A team reached the semifinals of the Asia Cup Rising Stars by defeating Afghanistan by 1 wicket through Iqbal Hossain's batting heroics in the final over.",
         "bullets_bn": [
-          "অভিযানের সময় গুয়াসাবে শহরে তীব্র আতঙ্ক ছড়িয়ে পড়ে এবং গোলাগুলির ঘটনা ঘটে।",
-          "মেক্সিকোর প্রতিরক্ষা মন্ত্রণালয় জানায়, মার্কিন গোয়েন্দাদের সহায়তায় অভিজাত সামরিক বাহিনী এই অভিযান পরিচালনা করে।",
-          "এই অভিযানে তাঁর সহযোগী জারমান এন এবং জোসে এন নামের আরও দুই ব্যক্তি গ্রেপ্তার হন।"
+          "কাতারের ওয়েস্ট এন্ড পার্ক ইন্টারন্যাশনাল ক্রিকেট স্টেডিয়ামে জয়ের লক্ষ্য ছিল ১৭৫ রান।",
+          "রিপন মন্ডল সর্বোচ্চ ৩ উইকেট শিকার করে আফগানিস্তান এ দলকে ৪৫ ওভারে ১৪৭ রানে অলআউট করেন।",
+          "এর আগে হংকং জাতীয় দলকে ৮ উইকেটে হারিয়েছিল বাংলাদেশ এ দল।"
         ],
         "bullets_en": [
-          "The raid triggered widespread panic and a gun battle in the city of Guasave.",
-          "Mexico's defence ministry stated that elite military forces carried out the operation with help from US intelligence.",
-          "His alleged second-in-command, German N, and financial operator Jose N were also arrested."
+          "The target for victory was 175 runs at the West End Park International Cricket Stadium in Qatar.",
+          "Ripon Mondal took a maximum of 3 wickets to bowl out the Afghanistan A team for 147 runs in 45 overs.",
+          "Earlier, the Bangladesh A team defeated the Hong Kong national team by 8 wickets."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "মেক্সিকোর প্রতিরক্ষা মন্ত্রণালয়ের তথ্য অনুযায়ী, মেজা ফ্লোরেস মেজা ফ্লোরেস ট্র্যান্সন্যাশনাল ক্রিমিনাল অর্গানাইজেশন এবং বেলত্রান লেইভা অপরাধ সংগঠনের নেতৃত্ব দিচ্ছিলেন। এফবিআইয়ের পোস্টার অনুসারে, তাঁর সংগঠন যুক্তরাষ্ট্রে বিপুল পরিমাণ মাদক চোরাচালানের সঙ্গে জড়িত এবং মেক্সিকোর বিভিন্ন স্থানে মাদক উৎপাদন ও বিতরণ নিয়ন্ত্রণ করে। তাঁর মাথার ওপর ৫ মিলিয়ন মার্কিন ডলার পর্যন্ত পুরস্কার ছিল এবং তিনি এক দশকের বেশি সময় ধরে আইনশৃঙ্খলা রক্ষাকারী বাহিনীর হাত থেকে পালিয়ে বেড়াচ্ছিলেন।",
-        "details_en": "According to Mexico's defence ministry, Meza Flores led the Meza Flores Transnational Criminal Organization and the Beltran Leyva criminal organization. The FBI states his organisation imported large quantities of drugs into the United States and controlled drug production in Mexico. A reward of up to $5m was on his head, and he evaded arrest for more than a decade.",
-        "hook_bn": "মেক্সিকোয় মোস্ট ওয়ান্টেড মাদকসম্রাট এল চাপো ইসিদ্রো গ্রেপ্তার",
-        "kicker_bn": "সতর্কতা",
+        "details_bn": "কাতারের ওয়েস্ট এন্ড পার্ক ইন্টারন্যাশনাল ক্রিকেট স্টেডিয়ামে ১৭৫ রানের লক্ষ্য তাড়া করতে নেমে প্রথম ওভারে অধিনায়ক সাইফ হাসানের উইকেট হারায় বাংলাদেশ। পারভেজ হোসেন ৩৩ এবং সাব্বির রহমান ও সাইফউদ্দিন ২৮ রান করলেও নবম উইকেটে ১৬২ রানে পতন ঘটে। পরে শেষ ওভারে রিপন মন্ডল ও ইকবাল হোসেন দলের জয় নিশ্চিত করেন। গ্রুপপর্বের শেষ ম্যাচে বাংলাদেশ ও শ্রীলঙ্কার এ দল মুখোমুখি হবে।",
+        "details_en": "Chasing a target of 175 runs at the West End Park International Cricket Stadium in Qatar, Bangladesh lost captain Saif Hasan in the first over. Parvez Hossain scored 33 and Sabbir Rahman and Saifuddin scored 28 runs each, but the ninth wicket fell at 162 runs. Later in the final over, Ripon Mondal and Iqbal Hossain secured the team's victory. Bangladesh and Sri Lanka A teams will face each other in the final match of the group stage.",
+        "hook_bn": "আফগানদের হারিয়ে সেমিফাইনালে বাংলাদেশ",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 5.0,
-      "outlet_count": 4,
+      "desk_importance": 7.0,
+      "outlet_count": 3,
       "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-21T20:01:42.094303+00:00"
+      }
+    },
+    {
+      "story_id": "e4c6e28d-e54a-5ef0-b3cc-3a83657a318b",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "tech_innovation"
+      ],
+      "region": "international",
+      "tags": [
+        "#Anthropic",
+        "#VandaResearch",
+        "#SpaceX"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1781643439137-b578fa8b1179?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YW50aHJvcGljJTIwcmV0YWlsJTIwaW52ZXN0b3JzJTIwZmFjZSUyMGJ1c2luZXNzfGVufDF8MHx8fDE3OTUyOTEyODd8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-21T18:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.5,
+      "rank_score": 2.6921,
+      "sources": [
+        {
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/global-economy/news/anthropic-retail-traders-face-losses-shares-dive-13-4329791",
+          "title": "Anthropic retail traders face losses as shares dive 13%",
+          "snippet": "Anthropic retail traders face losses as shares dive 13%"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "অ্যানথ্রপিকের শেয়ারের দর পতনে খুচরা বিনিয়োগকারীরা ক্ষতির মুখে পড়েছেন।",
+        "title_en": "Anthropic retail investors face losses as share prices dive.",
+        "summary_bn": "প্রাথমিক গণপ্রস্তাবের পর অ্যানথ্রপিকের শেয়ারের দাম ১৩ শতাংশ কমে যাওয়ায় খুচরা বিনিয়োগকারীরা ক্ষতির মুখে পড়েছেন।",
+        "summary_en": "Retail investors face losses after Anthropic shares dropped 13 percent following its initial public offering.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-21T18:00:00+00:00",
+        "lead_bn": "প্রাথমিক গণপ্রস্তাবের পর অ্যানথ্রপিকের শেয়ারের দাম ১৩ শতাংশ কমে যাওয়ায় খুচরা বিনিয়োগকারীরা ক্ষতির মুখে পড়েছেন।",
+        "lead_en": "Retail investors face losses after Anthropic shares dropped 13 percent following its initial public offering.",
+        "bullets_bn": [
+          "কোম্পানিটি ৮৩ ডলারে ৯৮ কোটি শেয়ার বিক্রি করে।",
+          "ভেন্ডা রিসার্চ জানিয়েছে, খুচরা বিনিয়োগকারীরা ৭৫ কোটি ডলারের বেশি অ্যানথ্রপিকের শেয়ার লেনদেন করেন।",
+          "শেয়ারবাজারে প্রথম দিন লেনদেন শুরুর পর দাম কমে ৯৭ ডলারে বন্ধ হয়।"
+        ],
+        "bullets_en": [
+          "The company sold 980 million shares at $83 apiece on Thursday.",
+          "Vanda Research reported that retail investors traded over $750 million of Anthropic stock on Thursday.",
+          "The stock closed at $97 on its first day of trading after opening higher."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "খুচরা বিনিয়োগকারীরা প্রাথমিক গণপ্রস্তাবের পর কাছাকাছি সময়ে রেকর্ড গতিতে অ্যানথ্রপিকের শেয়ার কিনেছিলেন। শেয়ারবাজারে লেনদেন শুরুর সময় দাম ১১২ ডলারে ওঠে এবং পরে ৯৭ ডলারে বন্ধ হয়। দিনের শুরুতে দর কমে ৮৫ ডলারে নেমে আসে।",
+        "details_en": "Retail investors snapped up Anthropic shares at a near-record pace after the IPO. the stock began trading at $112 and closed at $97, before falling to $85 on Friday.",
+        "hook_bn": "অ্যানথ্রপিকের শেয়ারের দর ১৩ শতাংশ পতন",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": "শেয়ারবাজারের বর্তমান পরিস্থিতি নিয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": true,
       "social_appeal": 4.0,
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-21T19:01:47.694271+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-21T20:01:42.094303+00:00"
       }
     }
   ]
