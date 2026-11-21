@@ -1,261 +1,9 @@
 {
-  "updated_at": "2026-11-21T07:00:51.852617",
-  "total_stories": 5,
+  "updated_at": "2026-11-21T08:00:41.120064",
+  "total_stories": 4,
   "stories": [
     {
-      "story_id": "c1383d31-e2c7-5119-9e07-11335ec14093",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1639736921908-4fc1e56370ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Y2hpZWZzJTIwcGF5JTIwY291cnRlc3klMjBjYWxsJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1MjQ0NDg0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-21T06:53:57+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 4.3249,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1181907",
-          "title": "প্রধানমন্ত্রীর সঙ্গে ৩ বাহিনী প্রধানের সাক্ষাৎ",
-          "snippet": "প্রধানমন্ত্রীর সঙ্গে ৩ বাহিনী প্রধানের সাক্ষাৎ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "প্রধানমন্ত্রীর সঙ্গে তিন বাহিনী প্রধানের সৌজন্য সাক্ষাৎ",
-        "title_en": "Three chiefs pay courtesy call on Prime Minister",
-        "summary_bn": "সশস্ত্র বাহিনী দিবস উপলক্ষে প্রধানমন্ত্রী তারেক রহমানের সঙ্গে সৌজন্য সাক্ষাৎ করেছেন তিন বাহিনী প্রধান।",
-        "summary_en": "The three service chiefs paid a courtesy call on Prime Minister Tarique Rahman on the occasion of Armed Forces Day.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-21T06:53:57+00:00",
-        "lead_bn": "সশস্ত্র বাহিনী দিবস উপলক্ষে প্রধানমন্ত্রী তারেক রহমানের সঙ্গে সৌজন্য সাক্ষাৎ করেছেন তিন বাহিনী প্রধান।",
-        "lead_en": "The three service chiefs paid a courtesy call on Prime Minister Tarique Rahman on the occasion of Armed Forces Day.",
-        "bullets_bn": [
-          "সশস্ত্র বাহিনী দিবস উপলক্ষে এই সৌজন্য সাক্ষাৎ অনুষ্ঠিত হয়।",
-          "তিন বাহিনী প্রধান প্রধানমন্ত্রীর সঙ্গে সাক্ষাৎ করেন।",
-          "সাক্ষাৎকালে সশস্ত্র বাহিনী দিবস উদযাপনের বিভিন্ন বিষয় নিয়ে আলোচনা হয়।"
-        ],
-        "bullets_en": [
-          "This courtesy call took place on the occasion of Armed Forces Day.",
-          "The three service chiefs met with the Prime Minister.",
-          "Various matters regarding the celebration of Armed Forces Day were discussed during the meeting."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "প্রধানমন্ত্রীর সঙ্গে তিন বাহিনী প্রধানের সাক্ষাৎ",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-21T07:01:39.520996+00:00"
-      }
-    },
-    {
-      "story_id": "77916ee3-aa07-5bd5-a966-b50a22fe72ac",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1693585172757-b9e057feb878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFybGlhbWVudCUyMGxhdyUyMGNvdXJ0JTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1MjQ0NDg4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-21T06:18:30+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 4.1798,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/law-courts/news/1181896",
-          "title": "সুপ্রিম কোর্টে প্রবেশ-বহির্গমনে নতুন নির্দেশনা",
-          "snippet": "সুপ্রিম কোর্টে প্রবেশ-বহির্গমনে নতুন নির্দেশনা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সুপ্রিম কোর্টে প্রবেশ ও বহির্গমনে নতুন নির্দেশনা জারি",
-        "title_en": "New directives issued for entry and exit at Supreme Court",
-        "summary_bn": "বাংলাদেশ সুপ্রিম কোর্টের নিরাপত্তা জোরদারে প্রবেশ ও বহির্গমন ব্যবস্থায় নতুন নির্দেশনা জারি করেছে সুপ্রিম কোর্ট প্রশাসন।",
-        "summary_en": "The Supreme Court administration has issued new directives on entry and exit systems to strengthen security.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-21T06:18:30+00:00",
-        "lead_bn": "বাংলাদেশ সুপ্রিম কোর্টের নিরাপত্তা জোরদারে প্রবেশ ও বহির্গমন ব্যবস্থায় নতুন নির্দেশনা জারি করেছে সুপ্রিম কোর্ট প্রশাসন।",
-        "lead_en": "The Supreme Court administration has issued new directives on entry and exit systems to strengthen security.",
-        "bullets_bn": [
-          "নির্দেশনা অনুযায়ী এখন থেকে সুপ্রিম কোর্ট প্রাঙ্গণে প্রবেশ ও বের হওয়ার ক্ষেত্রে নির্ধারিত গেট ব্যবহার করতে হবে।",
-          "সুপ্রিম কোর্ট প্রশাসন নিরাপত্তা জোরদারের অংশ হিসেবে এই নতুন ব্যবস্থা গ্রহণ করেছে।",
-          "সংবাদমাধ্যম জানিয়েছে যে এই ব্যবস্থা প্রাঙ্গণে যাতায়াত নিয়ন্ত্রণের জন্য কার্যকর করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "According to the directives, designated gates must now be used to enter and exit the Supreme Court premises.",
-          "The Supreme Court administration has adopted this new system as part of strengthening security.",
-          "Reports indicate this system has been implemented to regulate movement within the premises."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "সুপ্রিম কোর্টে প্রবেশে নতুন নির্দেশনা",
-        "kicker_bn": "নতুন নির্দেশনা",
-        "share_value": true,
-        "question_bn": "সুপ্রিম কোর্টের নতুন এই প্রবেশ ব্যবস্থা নিয়ে আপনার মতামত কী?"
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-21T07:01:39.520996+00:00"
-      }
-    },
-    {
-      "story_id": "ec531e9d-a96d-5839-9875-9c90ced965f0",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1673026002361-64b5b15032ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8aG91dGhpJTIwcmViZWxzJTIwbGF1bmNoJTIwbWlzc2lsZSUyMGRpcGxvbWFjeXxlbnwxfDB8fHwxNzk1MjQ0NDkwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-21T06:42:42+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.2629,
-      "sources": [
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822178/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF-%E0%A6%9C%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B0-%E2%80%98%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8%E2%80%99-%E0%A6%8F%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A6%E0%A7%87-%E0%A6%87%E0%A7%9F%E0%A7%87%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%87%E0%A6%B0",
-          "title": "সৌদি জোটের ‘বিশেষ অভিযান’-এর পর রিয়াদে ইয়েমেনের হুতিদের হামলা",
-          "snippet": "সৌদি জোটের ‘বিশেষ অভিযান’-এর পর রিয়াদে ইয়েমেনের হুতিদের হামলা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সৌদি আরবের রিয়াদে হুতি বিদ্রোহীদের ক্ষেপণাস্ত্র হামলা",
-        "title_en": "Houthi rebels launch missile attacks on Riyadh",
-        "summary_bn": "ইয়েমেনের হুতি বিদ্রোহীরা সৌদি আরবের রাজধানী রিয়াদসহ দেশটির বিভিন্ন স্থানে ক্ষেপণাস্ত্র হামলা চালানোর দাবি করেছে।",
-        "summary_en": "Yemen's Houthi rebels claimed they launched missile attacks on Saudi Arabia's capital Riyadh and various parts of the country.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-21T06:42:42+00:00",
-        "lead_bn": "ইয়েমেনের হুতি বিদ্রোহীরা সৌদি আরবের রাজধানী রিয়াদসহ দেশটির বিভিন্ন স্থানে ক্ষেপণাস্ত্র হামলা চালানোর দাবি করেছে।",
-        "lead_en": "Yemen's Houthi rebels claimed they launched missile attacks on Saudi Arabia's capital Riyadh and various parts of the country.",
-        "bullets_bn": [
-          "২১ নভেম্বর ভোরে রিয়াদে সম্ভাব্য আকাশপথে হামলার বিষয়ে সতর্কতা জারি করেছিল সৌদি কর্তৃপক্ষ।",
-          "ইয়েমেনের হুতি নিয়ন্ত্রিত এলাকাগুলোতে সৌদি নেতৃত্বাধীন জোটের বিশেষ অভিযানের প্রতিশোধ নেওয়ার হুমকি দেওয়া হয়েছিল।",
-          "বার্তা সংস্থা রয়টার্সের প্রতিবেদনে এ তথ্য জানানো হয়েছে।"
-        ],
-        "bullets_en": [
-          "Saudi authorities issued a warning regarding potential aerial attacks in Riyadh early 21 November.",
-          "The attacks followed threats to retaliate against special operations by the Saudi-led coalition in Houthi-controlled areas of Yemen.",
-          "This information was reported by news agency Reuters."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "রিয়াদে হুতি বিদ্রোহীদের ক্ষেপণাস্ত্র হামলা",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-21T07:01:39.520996+00:00"
-      }
-    },
-    {
-      "story_id": "3941d9f0-e2bd-5963-82cd-69931bbed437",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1653289755997-1b028ff8ace8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8dmFuY2UlMjBhdm9pZGVkJTIwZGlyZWN0JTIwYW5zd2VyJTIwZGlwbG9tYWN5fGVufDF8MHx8fDE3OTUyNDQ0OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-21T06:16:39+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.2069,
-      "sources": [
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822173/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B6%E0%A7%8D%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%B0%E0%A6%BF-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0",
-          "title": "ইরানে হামলার সিদ্ধান্ত নিয়ে প্রশ্নের সরাসরি উত্তর এড়িয়ে গেলেন ভ্যান্স",
-          "snippet": "ইরানে হামলার সিদ্ধান্ত নিয়ে প্রশ্নের সরাসরি উত্তর এড়িয়ে গেলেন ভ্যান্স"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইরানে হামলার সিদ্ধান্ত নিয়ে প্রশ্নের সরাসরি উত্তর দিলেন না ভ্যান্স",
-        "title_en": "Vance avoided direct answer on decision to attack Iran",
-        "summary_bn": "যুক্তরাষ্ট্রের ভাইস প্রেসিডেন্ট জে ডি ভ্যান্স ইরানে হামলার সিদ্ধান্ত নিয়ে প্রশ্নের সরাসরি উত্তর এড়িয়ে গেছেন।",
-        "summary_en": "US Vice President JD Vance avoided a direct answer on the decision to attack Iran.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-21T06:16:39+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের ভাইস প্রেসিডেন্ট জে ডি ভ্যান্স ইরানে হামলার সিদ্ধান্ত নিয়ে প্রশ্নের সরাসরি উত্তর এড়িয়ে গেছেন।",
-        "lead_en": "US Vice President JD Vance avoided a direct answer on the decision to attack Iran.",
-        "bullets_bn": [
-          "ভ্যান্স ইঙ্গিত দিয়েছেন যে ইরানের সঙ্গে যুদ্ধে জড়িয়ে পড়ার ক্ষেত্রে ব্যক্তিগতভাবে তার সায় ছিলো না।",
-          "মার্কিন প্রেসিডেন্টের সরকারি বাসভবন ও দপ্তর হোয়াইট হাউসে একটি সংবাদ সম্মেলন অনুষ্ঠিত হয়।",
-          "তার হাতে ক্ষমতা থাকলে মার্কিন বাহিনীকে ইরানে অভিযান শুরুর নির্দেশ দিতেন কি-না, সে প্রশ্নের উত্তর দেননি ভ্যান্স।"
-        ],
-        "bullets_en": [
-          "Vance indicated he personally did not support getting involved in a war with Iran.",
-          "A press conference was held at the White House, the official residence and office of the US President.",
-          "Vance did not answer whether he would have ordered US forces to launch operations in Iran if he had the power."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "(২০ নভেম্বর) হোয়াইট হাউসে আয়োজিত এক সংবাদ সম্মেলনে প্রেসিডেন্ট ট্রাম্পের সঙ্গে উপস্থিত ছিলেন যুক্তরাষ্ট্রের ভাইস প্রেসিডেন্ট জে ডি ভ্যান্স। সেখানে ইরানে হামলা সংক্রান্ত প্রশ্নের মুখোমুখি হয়ে তিনি সরাসরি উত্তর দেওয়া থেকে বিরত থাকেন।",
-        "details_en": "US Vice President JD Vance was present with President Trump at a press conference held at the White House on Friday (20 November). Facing questions regarding the attack on Iran, he refrained from giving a direct answer.",
-        "hook_bn": "ইরানে হামলা নিয়ে প্রশ্নের জবাব এড়িয়ে গেলেন ভ্যান্স",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-21T07:01:39.520996+00:00"
-      }
-    },
-    {
-      "story_id": "92b5aae7-9cec-5247-aede-c3b5a8f587d1",
+      "story_id": "fe86d0d2-6477-563a-8c10-8dd0924f7670",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business",
@@ -263,29 +11,40 @@
       ],
       "region": "national",
       "tags": [
-        "#AmirKhosru",
-        "#ChattogramTradeFair",
-        "#CCCI"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182428/uj.jpg",
+      "image_url": "https://images.unsplash.com/photo-1722871513349-45c61ed6aa5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZmluYW5jZSUyMGVjb25vbXklMjBiYW5nbGFkZXNofGVufDF8MHx8fDE3OTUwODYwODN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-21T07:01:04.062495+00:00",
+      "published_at": "2026-11-21T07:28:57+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.5758,
+      "importance_score": 8.25,
+      "rank_score": 6.599,
       "sources": [
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/politics-of-criminalisation-resurfaces-amir-khosru",
-          "title": "Politics of criminalisation resurfaces: Amir Khosru",
-          "snippet": "Politics of criminalisation resurfaces: Amir Khosru"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822183/%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A7%80%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A7%87-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A7%AE%E0%A7%A6-%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%82%E0%A6%B6-%E0%A6%AA%E0%A7%8B%E0%A6%B6%E0%A6%BE%E0%A6%95-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95",
+          "title": "গাজীপুরে কাজে ফিরেছেন ৮০ শতাংশ পোশাক শ্রমিক, সাভার-আশুলিয়ায় ৫০ কারখানায় আজও কর্মবিরতি",
+          "snippet": "গাজীপুরে কাজে ফিরেছেন ৮০ শতাংশ পোশাক শ্রমিক, সাভার-আশুলিয়ায় ৫০ কারখানায় আজও কর্মবিরতি"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1181924",
+          "title": "শ্রমিক অসন্তোষ: সাভার-আশুলিয়ায় কর্মবিরতি, ৫০ কারখানায় ছুটি ঘোষণা",
+          "snippet": "শ্রমিক অসন্তোষ: সাভার-আশুলিয়ায় কর্মবিরতি, ৫০ কারখানায় ছুটি ঘোষণা"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/dhaka/982323/%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A7%80%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%9F%E0%A6%9B%E0%A7%87-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%85%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8B%E0%A6%B7-%E0%A6%B8%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B6%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A7%AB%E0%A7%A6",
+          "title": "গাজীপুরে কাটছে শ্রমিক অসন্তোষ, সাভার-আশুলিয়ায় ৫০ কারখানায় ছুটি",
+          "snippet": "গাজীপুরে কাটছে শ্রমিক অসন্তোষ, সাভার-আশুলিয়ায় ৫০ কারখানায় ছুটি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চট্টগ্রাম আন্তর্জাতিক বাণিজ্য মেলা শুরু হয়েছে",
-        "title_en": "Chattogram International Trade Fair begins",
-        "summary_bn": "অর্থ ও পরিকল্পনা মন্ত্রী আমীর খসরু মাহমুদ চৌধুরী চট্টগ্রামে ৩২তম আন্তর্জাতিক বাণিজ্য মেলা উদ্বোধন করেছেন।",
-        "summary_en": "Finance and Planning Minister Amir Khosru Mahmud Chowdhury inaugurated the 32nd Chattogram International Trade Fair.",
+        "title_bn": "সাভার ও আশুলিয়ায় ৫০টি পোশাক কারখানায় ছুটি ঘোষণা, গাজীপুরে পরিস্থিতি স্বাভাবিক",
+        "title_en": "At least 50 factories closed in Savar and Ashulia amid garment worker protests",
+        "summary_bn": "মজুরি বৃদ্ধির দাবিতে শ্রমিকদের কর্মবিরতির মুখে ২১ নভেম্বর সাভার ও আশুলিয়ার অন্তত ৫০টি পোশাক কারখানায় ছুটি ঘোষণা করেছে কর্তৃপক্ষ।",
+        "summary_en": "Authorities declared holidays in at least 50 garment factories in Savar and Ashulia on November 21 following worker work abstentions over wage hike demands.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -293,31 +52,269 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T07:01:04.062495+00:00",
-        "lead_bn": "অর্থ ও পরিকল্পনা মন্ত্রী আমীর খসরু মাহমুদ চৌধুরী চট্টগ্রামে ৩২তম আন্তর্জাতিক বাণিজ্য মেলা উদ্বোধন করেছেন।",
-        "lead_en": "Finance and Planning Minister Amir Khosru Mahmud Chowdhury inaugurated the 32nd Chattogram International Trade Fair.",
+        "published_at": "2026-11-21T07:28:57+00:00",
+        "lead_bn": "মজুরি বৃদ্ধির দাবিতে শ্রমিকদের কর্মবিরতির মুখে ২১ নভেম্বর সাভার ও আশুলিয়ার অন্তত ৫০টি পোশাক কারখানায় ছুটি ঘোষণা করেছে কর্তৃপক্ষ।",
+        "lead_en": "Authorities declared holidays in at least 50 garment factories in Savar and Ashulia on November 21 following worker work abstentions over wage hike demands.",
         "bullets_bn": [
-          "রেলওয়ে পলোগ্রাউন্ডে মাসব্যাপী বাণিজ্য মেলা শুরু হয়েছে।",
-          "অর্থনীতির গণতান্ত্রায়ন দাবি করে আমীর খসরু বলেন, অপরাধীকরণের রাজনীতি আবার মাথাচাড়া দিয়ে উঠেছে।",
-          "চট্টগ্রাম সিটি কর্পোরেশনের প্রশাসক ডা. শাহদাত হোসেন ওয়ার্ডে 'গ্রিন ক্লাব' গঠনের আহ্বান জানান।"
+          "গাজীপুরে ৮০ শতাংশ পোশাক শ্রমিক কাজে ফিরেছেন এবং নতুন কোনো আন্দোলন বা সড়ক অবরোধের খবর পাওয়া যায়নি।",
+          "সাভার-আশুলিয়া শিল্পাঞ্চলে বাংলাদেশ শ্রম আইনের ১৩(১) ধারায় ১১টি কারখানা বন্ধ রয়েছে এবং আরও দুটি কারখানায় সাধারণ ছুটি রয়েছে।",
+          "ন্যূনতম মজুরি ৩০ হাজার টাকা নির্ধারণসহ বিভিন্ন দাবিতে পোশাক শ্রমিকরা এই আন্দোলন চালিয়ে যাচ্ছেন।"
         ],
         "bullets_en": [
-          "The month-long trade fair began at Railway Pologround.",
-          "Democratising the economy, Amir Khosru said the politics of criminalisation has resurfaced.",
-          "CCC Administrator Dr Shahadat Hossain urged establishing Green Clubs in every ward."
+          "In Gazipur, 80 percent of garment workers returned to work and the situation remained normal without new protests or road blockades.",
+          "Eleven factories in the Savar-Ashulia region are closed under Section 13(1) of the Labor Law, with two others under general holiday.",
+          "Workers are protesting for various demands, including the fixing of a minimum wage at 30,000 taka."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "চট্টগ্রাম চেম্বার অব কমার্স অ্যান্ড ইন্ডাস্ট্রির আয়োজনে উদ্বোধনী অনুষ্ঠানে সভাপতিত্ব করেন চেম্বার সভাপতি মোহাম্মদ আমীরুল হক। এতে বিশেষ অতিথি ছিলেন চট্টগ্রাম সিটি কর্পোরেশনের প্রশাসক ডা. শাহদাত হোসেন এবং সম্মানীয় অতিথি ছিলেন আবু সুফিয়ান এমপি।",
-        "details_en": "Organised by the Chittagong Chamber of Commerce and Industry, the inaugural event was presided over by CCCI President Mohammad Amirul Haque, with CCC Administrator Dr Shahadat Hossain and Abu Sufian MP in attendance.",
-        "hook_bn": "অপরাধীকরণের রাজনীতি আবার মাথাচাড়া দিয়েছে",
-        "kicker_bn": "সতর্কতা",
+        "details_bn": "মজুরি বৃদ্ধির দাবিতে চলমান আন্দোলনের প্রভাব পড়েছে সাভার ও আশুলিয়ার শিল্পাঞ্চলে। সপ্তাহের প্রথম কর্মদিবস গাজীপুর মহানগর ও জেলায় পরিস্থিতি স্বাভাবিক থাকলেও সাভার ও আশুলিয়ায় শ্রমিকদের কর্মবিরতি দেখা দেয়। এর ফলে পরিস্থিতি নিয়ন্ত্রণে কর্তৃপক্ষ কয়েক ডজন কারখানায় ছুটি ঘোষণা করতে বাধ্য হয়।",
+        "details_en": "The ongoing movement for a wage hike has impacted the industrial belts of Savar and Ashulia. While Gazipur city and district saw a return to normalcy the first working day of the week, Savar and Ashulia faced worker work abstentions. This led authorities to declare holidays in dozens of factories to manage the situation.",
+        "hook_bn": "সাভার-আশুলিয়ায় ৫০ কারখানায় ছুটি ঘোষণা",
+        "kicker_bn": "শ্রমিক অসন্তোষ",
+        "share_value": true,
+        "question_bn": "পোশাক শ্রমিকদের এই আন্দোলন সম্পর্কে আপনার মতামত কী?"
+      },
+      "desk_importance": 8.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 9.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-21T08:02:09.404386+00:00"
+      }
+    },
+    {
+      "story_id": "76793f38-ae94-583e-b50b-856781daa081",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Narail",
+        "#Kalia",
+        "#BangladeshPolice"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/21/police_1.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-21T07:40:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 8.0,
+      "rank_score": 6.2715,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/police-dismiss-reports-attacks-hindu-homes-narail-rumours-1609461",
+          "title": "Police dismiss reports of attacks on Hindu homes in Narail as rumours",
+          "snippet": "Police dismiss reports of attacks on Hindu homes in Narail as rumours"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/dozens-of-homes-shops-torched-amid-tensions-in-narails-kalia",
+          "title": "Homes, shops torched amid tensions in Narail's Kalia",
+          "snippet": "Homes, shops torched amid tensions in Narail's Kalia"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/narail-awami-league-leaders-homes-vandalized/",
+          "title": "নড়াইলে নিষিদ্ধ আ. লীগের নেতাকর্মীদের বাড়িঘর-ব্যবসাপ্রতিষ্ঠানে ভাঙচুর ও অগ্নিসংযোগ",
+          "snippet": "নড়াইলে নিষিদ্ধ আ. লীগের নেতাকর্মীদের বাড়িঘর-ব্যবসাপ্রতিষ্ঠানে ভাঙচুর ও অগ্নিসংযোগ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নড়াইলের কালিয়ায় হিন্দু বাড়িতে হামলার খবর ভুয়া বলেছে পুলিশ",
+        "title_en": "Police dismiss reports of attacks on Hindu homes in Narail",
+        "summary_bn": "নড়াইলের কালিয়ায় হিন্দু সম্প্রদায়ের বাড়িতে হামলা, ভাঙচুর ও অগ্নিসংযোগের খবর মিথ্যা বলে জানিয়েছে পুলিশ।",
+        "summary_en": "Police have described reports of attacks, vandalism, and arson at Hindu homes in Kalia, Narail, as false.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-21T07:40:00+00:00",
+        "lead_bn": "নড়াইলের কালিয়ায় হিন্দু সম্প্রদায়ের বাড়িতে হামলা, ভাঙচুর ও অগ্নিসংযোগের খবর মিথ্যা বলে জানিয়েছে পুলিশ।",
+        "lead_en": "Police have described reports of attacks, vandalism, and arson at Hindu homes in Kalia, Narail, as false.",
+        "bullets_bn": [
+          "পুলিশ সদর দপ্তরের সহকারী মহাপরিদর্শক কামরুন মুনিরা জানিয়েছেন এলাকার পরিস্থিতি বর্তমানে স্বাভাবিক রয়েছে।",
+          "বেন্দারচর গ্রামে কোনো হিন্দু পরিবার বসবাস করে না বলে লিখিত বক্তব্যে জানিয়েছে পুলিশ।",
+          "পুলিশের ভাষ্যমতে সামাজিক যোগাযোগ মাধ্যমে ছড়িয়ে পড়া ভিডিওগুলো পুরনো কিংবা কৃত্রিম বুদ্ধিমত্তা দিয়ে তৈরি।"
+        ],
+        "bullets_en": [
+          "Police Headquarters Assistant Inspector General Kamarun Munira stated that the situation in the area was currently normal.",
+          "The written statement said that no Hindu families live in Bendar Char village.",
+          "Police stated that videos circulating on social media are old or generated using artificial intelligence."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "কালিয়ায় বিএনপির একটি মিছিলে হামলার জেরে দুই ব্যক্তি নিহত হওয়ার পর এই উত্তেজনা তৈরি হয়। এই ঘটনায় পুলিশ তাৎক্ষণিক অভিযান চালিয়ে দুজনকে গ্রেপ্তার করেছে। পরে বিএনপির নেতাকর্মী ও নিহতদের স্বজনেরা হামলায় জড়িত থাকার অভিযোগে নিষিদ্ধ আওয়ামী লীগের নেতাকর্মীদের কয়েকটি বাড়িতে হামলা চালান।",
+        "details_en": "The tension arose after two people were killed in an attack on a BNP procession in Kalia. Police immediately launched an operation and arrested two people in connection with the incident. Later, relatives of the victims and BNP activists attacked several houses belonging to members of the banned Awami League.",
+        "hook_bn": "নড়াইলে হিন্দু বাড়িতে হামলার খবর ভুয়া",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
+      "desk_importance": 7.0,
+      "outlet_count": 3,
+      "trending": true,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-21T07:01:39.520996+00:00"
+        "checked_at": "2026-11-21T08:02:09.404386+00:00"
+      }
+    },
+    {
+      "story_id": "8162699e-21a7-5b01-af77-40d956f51c4c",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-21%2Fa7z5zaze%2FWhatsApp-Image-2026-11-21-at-13.37.25.jpeg?rect=0%2C0%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-21T07:42:27+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.5,
+      "rank_score": 5.5251,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/z3zoygd0yl",
+          "title": "কথা ছিল মালয়েশিয়া নেওয়ার, চার দিন সাগরে ঘুরিয়ে কক্সবাজার সৈকতে নামিয়ে পালায় দালাল চক্র",
+          "snippet": "কথা ছিল মালয়েশিয়া নেওয়ার, চার দিন সাগরে ঘুরিয়ে কক্সবাজার সৈকতে নামিয়ে পালায় দালাল চক্র"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/nation/425304/traffickers-abandon-malaysia-bound-trawler-at",
+          "title": "Traffickers abandon Malaysia-bound trawler at Cox’s Bazar beach, 28 rescued",
+          "snippet": "Traffickers abandon Malaysia-bound trawler at Cox’s Bazar beach, 28 rescued"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1181923",
+          "title": "আটদিন সাগরে ঘুরিয়ে ৭২ ভিকটিমকে নামিয়ে পালাল পাচারকারীরা",
+          "snippet": "আটদিন সাগরে ঘুরিয়ে ৭২ ভিকটিমকে নামিয়ে পালাল পাচারকারীরা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মালয়েশিয়া যাওয়ার ট্রলার থেকে কক্সবাজার সৈকতে ২৮ জন উদ্ধার",
+        "title_en": "Twenty-eight rescued from trawler at Cox’s Bazar beach",
+        "summary_bn": "দালাল চক্রের মাধ্যমে সাগরপথে মালয়েশিয়া যাওয়ার চেষ্টা করা ৭২ জনের মধ্যে ২৮ জনকে কক্সবাজার সমুদ্রসৈকত থেকে উদ্ধার করেছে পুলিশ।",
+        "summary_en": "Police rescued twenty-eight people from Cox’s Bazar sea beach out of seventy-two individuals attempting to reach Malaysia via maritime routes.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-21T07:42:27+00:00",
+        "lead_bn": "দালাল চক্রের মাধ্যমে সাগরপথে মালয়েশিয়া যাওয়ার চেষ্টা করা ৭২ জনের মধ্যে ২৮ জনকে কক্সবাজার সমুদ্রসৈকত থেকে উদ্ধার করেছে পুলিশ।",
+        "lead_en": "Police rescued twenty-eight people from Cox’s Bazar sea beach out of seventy-two individuals attempting to reach Malaysia via maritime routes.",
+        "bullets_bn": [
+          "উদ্ধার হওয়া ব্যক্তিদের মধ্যে ২৫ জন পুরুষ, ২ জন নারী ও ১ জন শিশু রয়েছেন এবং তাঁদের বেশির ভাগ রোহিঙ্গা।",
+          "কক্সবাজার সদর মডেল থানার ভারপ্রাপ্ত কর্মকর্তা শেখ মোহাম্মদ আলী জানান, পাচার কাজে ব্যবহৃত জব্দ ট্রলারটি কোস্টগার্ডের হেফাজতে রাখা হয়েছে।",
+          "উদ্ধার হওয়া ব্যক্তিদের পরিচয় শনাক্তের কাজ চলছে এবং রোহিঙ্গাদের আশ্রয়শিবিরে এবং বাংলাদেশিদের পরিবারের কাছে হস্তান্তর করা হবে।"
+        ],
+        "bullets_en": [
+          "The rescued individuals include twenty-five men, two women, and one child, with most being Rohingya refugees.",
+          "Cox’s Bazar Sadar Model Police Station officer-in-charge Sheikh Mohammad Ali stated that the seized trawler used for trafficking is kept in Coast Guard custody.",
+          "The identity verification of the rescued individuals is ongoing, and they will be handed over to Rohingya camps and Bangladeshi families."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "টেকনাফ সদর ইউনিয়নের মিঠাপানির ছড়া নৌঘাট থেকে ছোট মাছ ধরার নৌকায় করে যাত্রীদের গভীর সাগরে নিয়ে একটি বড় কাঠের ট্রলারে তোলা হয়েছিল। ঘূর্ণিঝড়ের প্রভাবে সাগর উত্তাল হলে ট্রলারটি সেন্ট মার্টিন দ্বীপের কাছাকাছি অবস্থান নেয় এবং পরে দালাল ও মাঝিমাল্লাদের মধ্যে বিবাদের জেরে ট্রলারটি কক্সবাজার সৈকতে নিয়ে আসা হয়।",
+        "details_en": "Passengers were taken from the Mithapani Chhara boat dock in Teknaf Sadar Union on small fishing boats and transferred to a larger wooden trawler in the deep sea. When the sea became rough due to a cyclone, the trawler stayed near Saint Martin's Island, and later, following disputes between traffickers and boatmen, the trawler was brought to Cox's Bazar beach.",
+        "hook_bn": "মালয়েশিয়া যাওয়ার ট্রলার থেকে ২৮ জন উদ্ধার",
+        "kicker_bn": "সাগরপথ",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-21T08:02:09.404386+00:00"
+      }
+    },
+    {
+      "story_id": "5fd16fe3-ab79-5ad9-aaa0-a654d5060bc0",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-21%2Fm2a67v9u%2Fjessoredh055220261120img-20261120-wa0065.jpg?rect=0%2C125%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-21T05:52:26+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.25,
+      "rank_score": 2.4352,
+      "sources": [
+        {
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/bangladesh/district/fwq3zflzrv",
+          "title": "শেখ হাসিনার লাশ দরকার, কারণ তিনি আন্দোলন গড়ে তুলতে চান: রিজভী",
+          "snippet": "শেখ হাসিনার লাশ দরকার, কারণ তিনি আন্দোলন গড়ে তুলতে চান: রিজভী"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822180/%E0%A6%B6%E0%A7%87%E0%A6%96-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%B2%E0%A6%BE%E0%A6%B6-%E0%A6%A6%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%B2%E0%A6%A8-%E0%A6%97%E0%A7%9C%E0%A7%87-%E0%A6%A4%E0%A7%81%E0%A6%B2%E0%A6%A4%E0%A7%87",
+          "title": "শেখ হাসিনার লাশ দরকার, কারণ তিনি আন্দোলন গড়ে তুলতে চান: রিজভী",
+          "snippet": "শেখ হাসিনার লাশ দরকার, কারণ তিনি আন্দোলন গড়ে তুলতে চান: রিজভী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "শেখ হাসিনার লাশ দরকার আন্দোলন গড়ার জন্য: রিজভী",
+        "title_en": "Sheikh Hasina needs a corpse to build a movement: Rizvi",
+        "summary_bn": "বিএনপির ভারপ্রাপ্ত মহাসচিব রুহুল কবির রিজভী বলেছেন, শেখ হাসিনার একটি লাশ দরকার কারণ তিনি একটি আন্দোলন গড়ে তুলতে চান।",
+        "summary_en": "BNP Senior Joint Secretary General Ruhul Kabir Rizvi said that Sheikh Hasina needs a corpse because she wants to build a movement.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-21T05:52:26+00:00",
+        "lead_bn": "বিএনপির ভারপ্রাপ্ত মহাসচিব রুহুল কবির রিজভী বলেছেন, শেখ হাসিনার একটি লাশ দরকার কারণ তিনি একটি আন্দোলন গড়ে তুলতে চান।",
+        "lead_en": "BNP Senior Joint Secretary General Ruhul Kabir Rizvi said that Sheikh Hasina needs a corpse because she wants to build a movement.",
+        "bullets_bn": [
+          "যশোর শহরের জেলা পরিষদ মিলনায়তনে সাবেক মন্ত্রী তরিকুল ইসলামের অষ্টম মৃত্যুবার্ষিকীর স্মরণসভায় রিজভী এই মন্তব্য করেন।",
+          "ফ্যাসিস্টের দোসর ও গণতন্ত্রবিরোধী শক্তি প্রশাসন ও দেশের ভেতরে সক্রিয় রয়েছে বলে তিনি অভিযোগ করেন।",
+          "গত তিন থেকে চার দিনে বিএনপির তিনজন খুন হয়েছেন বলে তিনি জানান।"
+        ],
+        "bullets_en": [
+          "Rizvi made the remark at a memorial meeting marking the eighth death anniversary of former minister Tarikul Islam at the Jashore Town Zilla Parishad Auditorium.",
+          "He alleged that fascist cohorts and anti-democracy forces are active inside the country and the administration.",
+          "He stated that three BNP members were killed over the past three to four days."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "তরিকুল ইসলামের অষ্টম মৃত্যুবার্ষিকী উপলক্ষে যশোর জেলা বিএনপির উদ্যোগে জেলা পরিষদ মিলনায়তনে এই স্মরণসভা অনুষ্ঠিত হয়। এতে দলের কেন্দ্রীয় ও স্থানীয় নেতারা বক্তব্য দেন এবং প্রয়াত নেতার স্মরণে দোয়া মাহফিল অনুষ্ঠিত হয়।",
+        "details_en": "The memorial meeting was held at the Zilla Parishad Auditorium under the initiative of Jashore district BNP on the occasion of the eighth death anniversary of Tarikul Islam. Central and local leaders spoke at the event, and a doa mahfil was held in memory of the late leader.",
+        "hook_bn": "'শেখ হাসিনার লাশ দরকার'",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-21T08:02:09.404386+00:00"
       }
     }
   ]
