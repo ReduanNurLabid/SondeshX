@@ -1,237 +1,260 @@
 {
-  "updated_at": "2026-11-21T10:00:47.350128",
+  "updated_at": "2026-11-21T11:00:49.458957",
   "total_stories": 3,
   "stories": [
     {
-      "story_id": "2b3b3b03-8fab-5dac-8257-c8d0b85f58a5",
+      "story_id": "96303bb5-ebce-59ad-9714-0d8a09c93cfb",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law"
+        "governance_law",
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Khulna",
-        "#Digholia",
-        "#CrudeBomb"
+        "#Savar",
+        "#Ashulia",
+        "#GarmentUnrest",
+        "#BangladeshPolice"
       ],
-      "image_url": "https://images.unsplash.com/photo-1693585172757-b9e057feb878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFybGlhbWVudCUyMGxhdyUyMGNvdXJ0JTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1MjQ0NDg4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1770196009760-bead9eb10514?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bmluZXR5JTIwYXJyZXN0ZWQlMjBnYXJtZW50JTIwc2VjdG9yJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1MjU4ODg5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-21T09:09:41+00:00",
+      "published_at": "2026-11-21T10:22:55+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.878,
+      "importance_score": 8.5,
+      "rank_score": 6.962,
       "sources": [
         {
           "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/nation/425316/crude-bomb-blast-sparks-panic-in-khulna%E2%80%99s-digholia",
-          "title": "Crude bomb blast sparks panic in Khulna’s Digholia",
-          "snippet": "Crude bomb blast sparks panic in Khulna’s Digholia"
+          "url": "https://www.dhakatribune.com/bangladesh/425325/savar-ashulia-garment-unrest-96-including-five",
+          "title": "Savar-Ashulia garment unrest: 96, including five labour leaders, arrested",
+          "snippet": "Savar-Ashulia garment unrest: 96, including five labour leaders, arrested"
         },
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822205/%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%95%E0%A6%95%E0%A6%9F%E0%A7%87%E0%A6%B2-%E0%A6%AB%E0%A6%BE%E0%A6%9F%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B2%E0%A7%8B-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A7%9F",
-          "title": "খুলনায় ককটেল ফাটিয়ে পালালো দুর্বৃত্তরা, এলাকায় আতঙ্ক",
-          "snippet": "খুলনায় ককটেল ফাটিয়ে পালালো দুর্বৃত্তরা, এলাকায় আতঙ্ক"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/7maarcb2mj",
+          "title": "শ্রমিকেরা হাজির হয়েও কাজ না করায় সাভারের অর্ধশত কারখানায় ছুটি",
+          "snippet": "শ্রমিকেরা হাজির হয়েও কাজ না করায় সাভারের অর্ধশত কারখানায় ছুটি"
         },
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1181970",
-          "title": "ভোরে বিকট শব্দে কেঁপে উঠল দিঘলিয়ার ফরমায়েশ খানা",
-          "snippet": "ভোরে বিকট শব্দে কেঁপে উঠল দিঘলিয়ার ফরমায়েশ খানা"
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/national/post-1223847/",
+          "title": "হিলি স্থলবন্দরে বসছে আধুনিক ল্যাগেজ স্ক্যানার",
+          "snippet": "হিলি স্থলবন্দরে বসছে আধুনিক ল্যাগেজ স্ক্যানার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "খুলনার দিঘলিয়ায় ককটেল বিস্ফোরণ ঘটিয়ে পালিয়েছে দুর্বৃত্তরা",
-        "title_en": "Miscreants flee after crude bomb blast in Khulna's Digholia",
-        "summary_bn": "খুলনার দিঘলিয়া উপজেলার সেনহাটি সাগর জুট স্পিনিং মিল আবাসিক এলাকায় একটি ককটেল বিস্ফোরণ ঘটিয়েছে দুর্বৃত্তরা।",
-        "summary_en": "Miscreants triggered a crude bomb blast in the Sagar Jute Spinning Mill residential area of Digholia upazila in Khulna.",
+        "title_bn": "সাভার ও আশুলিয়ায় পোশাক খাতে সহিংসতা ও ভাঙচুরের ঘটনায় ৯৬ জন গ্রেপ্তার।",
+        "title_en": "Ninety-six arrested over garment sector violence and vandalism in Savar and Ashulia.",
+        "summary_bn": "সাভার ও আশুলিয়ায় শ্রমিক অসন্তোষের জেরে সহিংসতা ও ভাঙচুরের অভিযোগে পাঁচ শ্রমিক নেতাসহ ৯৬ জনকে গ্রেপ্তার করেছে পুলিশ।",
+        "summary_en": "Police arrested 96 people, including five labour leaders, over violence and vandalism amid garment worker protests in Savar and Ashulia.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "governance_law",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T09:09:41+00:00",
-        "lead_bn": "খুলনার দিঘলিয়া উপজেলার সেনহাটি সাগর জুট স্পিনিং মিল আবাসিক এলাকায় একটি ককটেল বিস্ফোরণ ঘটিয়েছে দুর্বৃত্তরা।",
-        "lead_en": "Miscreants triggered a crude bomb blast in the Sagar Jute Spinning Mill residential area of Digholia upazila in Khulna.",
+        "published_at": "2026-11-21T10:22:55+00:00",
+        "lead_bn": "সাভার ও আশুলিয়ায় শ্রমিক অসন্তোষের জেরে সহিংসতা ও ভাঙচুরের অভিযোগে পাঁচ শ্রমিক নেতাসহ ৯৬ জনকে গ্রেপ্তার করেছে পুলিশ।",
+        "lead_en": "Police arrested 96 people, including five labour leaders, over violence and vandalism amid garment worker protests in Savar and Ashulia.",
         "bullets_bn": [
-          "ঘটনাটি ঘটেছে ২১ নভেম্বর ভোরে সেনহাটি ৭ নম্বর ওয়ার্ডের সাগর জুট স্পিনিং মিলের আবাসিক এলাকার তিন রাস্তা মোড়ে।",
-          "এলাকাবাসী ও পুলিশ সূত্র জানায় যে ফজরের নামাজের আগে এ ককটেল বিস্ফোরণ ঘটানো হয়।",
-          "ঘটনার সময় এলাকা জনমানবশূন্য থাকায় এতে কোনো হতাহতের ঘটনা ঘটেনি।"
+          "কর্তৃপক্ষ ন্যূনতম মজুরি ৩০ হাজার টাকা নির্ধারণসহ বিভিন্ন দাবিতে চলমান আন্দোলনের মধ্যে সাভার ও আশুলিয়ার ৫০টি কারখানায় সাধারণ ছুটি ঘোষণা করে।",
+          "পুলিশ জানায়, গ্রেপ্তার ব্যক্তিরা wage protests বা মজুরি আন্দোলনের সময় সহিংসতা, ভাঙচুর, অগ্নিসংযোগ এবং পুলিশ কর্মকর্তাদের ওপর হামলার সাথে জড়িত।",
+          "বাংলাদেশ স্থলবন্দর কর্তৃপক্ষের চেয়ারম্যান মোহাম্মদ মানজারুল মান্নান হিলি স্থলবন্দর ও ইমিগ্রেশন চেকপোস্ট পরিদর্শন করেন।"
         ],
         "bullets_en": [
-          "The incident took place early on November 21 at the three-way road junction in the Sagar Jute Spinning Mill residential area of Senhati ward 7.",
-          "According to locals and police sources, the crude bomb blast occurred before Fajr prayers.",
-          "As the area was deserted at the time of the incident, no casualties were reported."
+          "Authorities declared general holidays at 50 factories in Savar and Ashulia amid ongoing protests demanding a minimum wage of 30,000 taka.",
+          "Police stated that the arrests are linked to violence, vandalism, arson, and attacks on officers during wage protests.",
+          "Bangladesh Land Port Authority Chairman Mohammad Manjarul Mannan inspected the Hili land port and immigration checkpost."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "দিঘলিয়ায় ককটেল বিস্ফোরণ",
+        "details_bn": "ন্যূনতম মজুরি ৩০ হাজার টাকা নির্ধারণসহ বিভিন্ন দাবিতে শ্রমিকেরা আন্দোলন চালিয়ে যান। শ্রমিকেরা কারખાনায় হাজির হয়েও কাজ না করায় কর্তৃপক্ষ সাভার ও আশুলিয়ার অর্ধশত কারখানায় সাধারণ ছুটি ঘোষণা করে। এর আগে সাভার ও আশুলিয়ায় শ্রমিক আন্দোলনের সময় সহিংসতা, ভাঙচুর ও অগ্নিসংযোগের ঘটনা ঘটে এবং পুলিশ সদস্যদের জখম করা হয়। পুলিশ এসব ঘটনার সাথে জড়িত থাকার অভিযোগে পাঁচ শ্রমিক নেতাসহ মোট ৯৬ জনকে গ্রেপ্তার করে।",
+        "details_en": "Workers continued protests demanding various benefits including a minimum wage of 30,000 taka. As workers arrived at factories but did not work, authorities declared general holidays at 50 factories in Savar and Ashulia. Earlier, incidents of violence, vandalism, arson, and injuries to police personnel occurred during the wage protests in Savar and Ashulia. Police arrested a total of 96 people, including five labour leaders, in connection with these incidents.",
+        "hook_bn": "সাভার ও আশুলিয়ায় ৯৬ জন গ্রেপ্তার",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 8.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-21T11:01:58.524176+00:00"
+      }
+    },
+    {
+      "story_id": "14bd3ed4-ae78-5da8-bdad-d26a1e04212b",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business",
+        "sports_fitness"
+      ],
+      "region": "national",
+      "tags": [
+        "#AwamiLeague",
+        "#BangladeshPolice",
+        "#Gopalganj",
+        "#BGB"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/19/untitled-1.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-21T09:40:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 8.5,
+      "rank_score": 6.6802,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/violence-continues-after-al-lockdown-attacks-reported-12-districts-over-two-days-1609571",
+          "title": "Violence continues after AL lockdown, attacks reported in 12 districts over two days",
+          "snippet": "Violence continues after AL lockdown, attacks reported in 12 districts over two days"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/288-detained-cumilla-drives-4329456",
+          "title": "288 detained in Cumilla drives",
+          "snippet": "288 detained in Cumilla drives"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822221/%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A7%AD-%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%9F%E0%A7%81%E0%A6%A8-%E0%A6%86%E0%A6%A8%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A7%8B%E0%A6%A4%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%A8-%E0%A6%B8%E0%A6%BE%E0%A6%A4",
+          "title": "গোপালগঞ্জে নতুন করে ৭ প্লাটুন আনসার মোতায়েন, সাত জেলায় দায়িত্বে ৪৯ প্লাটুন",
+          "snippet": "গোপালগঞ্জে নতুন করে ৭ প্লাটুন আনসার মোতায়েন, সাত জেলায় দায়িত্বে ৪৯ প্লাটুন"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "দেশের ১২ জেলায় সহিংসতা ও হামলার ঘটনা অব্যাহত রয়েছে",
+        "title_en": "Violence and attacks continue across twelve districts of the country",
+        "summary_bn": "আওয়ামী লীগের লকডাউন কর্মসূচি শেষের পর থেকে দেশের অন্তত ১২ জেলায় সহিংসতা, অগ্নিসংযোগ ও ভাঙচুরের ঘটনা ঘটেছে।",
+        "summary_en": "Violence, arson and vandalism have been reported in at least twelve districts following the end of the Awami League lockdown programme.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business",
+          "sports_fitness"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-21T09:40:00+00:00",
+        "lead_bn": "আওয়ামী লীগের লকডাউন কর্মসূচি শেষের পর থেকে দেশের অন্তত ১২ জেলায় সহিংসতা, অগ্নিসংযোগ ও ভাঙচুরের ঘটনা ঘটেছে।",
+        "lead_en": "Violence, arson and vandalism have been reported in at least twelve districts following the end of the Awami League lockdown programme.",
+        "bullets_bn": [
+          "নোয়াখালী, নরসিংদী, চট্টগ্রাম, সিলেট, মৌলভীবাজার, চুয়াডাঙ্গা, রাজশাহী ও বাগেরহাটসহ বিভিন্ন জেলায় হামলা চালানো হয়েছে।",
+          "গ্রামীণ ব্যাংকের শাখা, রাজনৈতিক নেতার বাড়ি, দলীয় কার্যালয় ও যানবাহন লক্ষ্য করে এসব হামলা চালানো হয়।",
+          "আইনশৃঙ্খলা পরিস্থিতির অবনতির আশঙ্কায় পুলিশ, বিজিবি, এসআরবি ও আনসার এবংভিডিপি প্রধানরা গোপালগঞ্জ পরিদর্শন করেছেন।"
+        ],
+        "bullets_en": [
+          "Attacks were reported in districts including Noakhali, Narsingdi, Chattogram, Sylhet, Moulvibazar, Chuadanga, Rajshahi and Bagerhat.",
+          "Targets of the attacks included Grameen Bank branches, political leaders' residences, party offices and vehicles.",
+          "Chiefs of Bangladesh Police, BGB, SRB and Ansar and VDP visited Gopalganj amid concerns over law and order."
+        ],
+        "impact_bn": "গোপালগঞ্জের মধ্য দিয়ে দক্ষিণ অঞ্চলের বাস চলাচল কয়েক দিন বিঘ্নিত হওয়ার পর চালু হয়েছে।",
+        "impact_en": "Bus services to southern districts through Gopalganj resumed after several days of disruption.",
+        "details_bn": "পুলিশ রাজধানীর দুই দিনের বিশেষ অভিযানে ১৮১ জন নিষিদ্ধ আওয়ামী লীগ ও এর অঙ্গসংগঠনের সদস্যসহ ৭৭৩ জনকে গ্রেপ্তার করেছে। এছাড়া দেশের সাত জেলায় ৪৯ প্লাটুন আনসার ব্যাটালিয়ন এবং গোপালগঞ্জে অতিরিক্ত বিজিবি ও আনসার মোতায়েন করা হয়েছে।",
+        "details_en": "Police arrested 773 people in the capital during two consecutive 24-hour operations, including 181 members of the banned Awami League and its affiliates. Additionally, 49 platoons of Ansar battalions were deployed across seven districts and additional BGB and Ansar personnel were sent to Gopalganj.",
+        "hook_bn": "১২ জেলায় হামলা ও সহিংসতা অব্যাহত",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 8.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-21T11:01:58.524176+00:00"
+      }
+    },
+    {
+      "story_id": "3ab1d7a2-8654-549e-86e2-cbcfabe92312",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Netrokona",
+        "#GrameenBank"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1792508684379-a5fa84be03bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bWlzY3JlYW50cyUyMGh1cmwlMjBwZXRyb2wlMjBib21icyUyMGdvdmVybm1lbnR8ZW58MXwwfHx8MTc5NTI1ODkxOHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-21T10:54:57+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.5,
+      "rank_score": 3.0062,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/crime/425328/two-petrol-bombs-hurled-at-grameen-bank-office-in",
+          "title": "Two petrol bombs hurled at Netrokona Grameen Bank",
+          "snippet": "Two petrol bombs hurled at Netrokona Grameen Bank"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/2-petrol-bombs-hurled-grameen-bank-office-netrokona-one-unexploded-1609636",
+          "title": "2 petrol bombs hurled at Grameen Bank office in Netrokona, one unexploded",
+          "snippet": "2 petrol bombs hurled at Grameen Bank office in Netrokona, one unexploded"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/2-petrol-bombs-hurled-at-grameen-bank-office-in-netrokona-1-unexploded",
+          "title": "2 petrol bombs hurled at Grameen Bank office in Netrokona, 1 unexploded",
+          "snippet": "2 petrol bombs hurled at Grameen Bank office in Netrokona, 1 unexploded"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/mymensing/982364/%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A6%BE%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%80%E0%A6%A3-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87-%E0%A6%AA%E0%A7%87%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%AC%E0%A7%8B%E0%A6%AE%E0%A6%BE",
+          "title": "দুর্গাপুরে গ্রামীণ ব্যাংক কার্যালয়ে পেট্রলবোমা নিক্ষেপ",
+          "snippet": "দুর্গাপুরে গ্রামীণ ব্যাংক কার্যালয়ে পেট্রলবোমা নিক্ষেপ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নেত্রকোনার গ্রামীণ ব্যাংক কার্যালয়ে দুটি পেট্রলবোমা নিক্ষেপ করেছে দুর্বৃত্তরা",
+        "title_en": "Miscreants hurl two petrol bombs at Netrokona Grameen Bank office",
+        "summary_bn": "নেত্রকোনার দুর্গাপুর উপজেলায় গ্রামীণ ব্যাংকের একটি শাখা কার্যালয় লক্ষ্য করে পরপর দুটি পেট্রলবোমা নিক্ষেপ করেছে দুর্বৃত্তরা।",
+        "summary_en": "Miscreants hurled two consecutive petrol bombs targeting a branch office of Grameen Bank in Durgapur upazila of Netrokona.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-21T10:54:57+00:00",
+        "lead_bn": "নেত্রকোনার দুর্গাপুর উপজেলায় গ্রামীণ ব্যাংকের একটি শাখা কার্যালয় লক্ষ্য করে পরপর দুটি পেট্রলবোমা নিক্ষেপ করেছে দুর্বৃত্তরা।",
+        "lead_en": "Miscreants hurled two consecutive petrol bombs targeting a branch office of Grameen Bank in Durgapur upazila of Netrokona.",
+        "bullets_bn": [
+          "ঘটনাটি ঘটেছে উপজেলার বিরিশিরি বাজারসংলগ্ন শাখা কার্যালয়ে।",
+          "নিক্ষেপ করা বোমা দুটির মধ্যে একটি বিস্ফোরিত হয়ে আগুন ধরে যায়।",
+          "অপর পেট্রলবোমাটি অবিস্ফোরিত অবস্থায় পড়ে থাকে।"
+        ],
+        "bullets_en": [
+          "The incident took place at the branch office adjacent to Birishiri Bazar in the upazila.",
+          "One of the thrown bombs exploded and caught fire.",
+          "The other petrol bomb remained unexploded."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "২১ নভেম্বর দিবাগত রাত দেড়টার দিকে নেত্রকোনার দুর্গাপুর উপজেলার বিরিশিরি বাজারসংলগ্ন গ্রামীণ ব্যাংকের শাখা কার্যালয়ে এ ঘটনা ঘটে। এর মধ্যে একটি পেট্রলবোমা বিস্ফোরিত হলেও আনসার সদস্যদের তৎপরতায় দ্রুত আগুন নিয়ন্ত্রণে আনা সম্ভব হয় এবং অপর বোমাটি অবিস্ফোরিত অবস্থায় থাকে।",
+        "details_en": "The incident occurred around 1:30 am on the night of November 21 at the Grameen Bank branch office adjacent to Birishiri Bazar in Durgapur upazila of Netrokona. One petrol bomb exploded, but Ansar members quickly brought the fire under control, while the other bomb remained unexploded.",
+        "hook_bn": "নেত্রকোনায় গ্রামীণ ব্যাংকে পেট্রলবোমা নিক্ষেপ",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 5.0,
-      "outlet_count": 3,
+      "outlet_count": 4,
       "trending": false,
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-21T10:03:12.444581+00:00"
-      }
-    },
-    {
-      "story_id": "55d4183e-5763-5525-8b78-5aa4356ea56b",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#ShahriarKaderSiddiky",
-        "#TIKA"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/21/image-448434-1795251333_1.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-21T09:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.598,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/turkiye-host-bangladesh-delegation-eyeing-broader-cooperation-1609521",
-          "title": "Türkiye to host Bangladesh delegation, eyeing broader cooperation",
-          "snippet": "Türkiye to host Bangladesh delegation, eyeing broader cooperation"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/425319/t%C3%BCrkiye-to-host-bangladesh-delegation-eyeing",
-          "title": "Türkiye to host Bangladesh delegation, eyeing broader cooperation",
-          "snippet": "Türkiye to host Bangladesh delegation, eyeing broader cooperation"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বাংলাদেশি প্রতিনিধিদলকে আমন্ত্রণ জানিয়েছে তুরস্ক",
-        "title_en": "Türkiye to host Bangladesh delegation",
-        "summary_bn": "বাণিজ্য ছাড়িয়ে দ্বিপক্ষীয় সহযোগিতা বাড়াতে আগামী ২২ থেকে ২৮ নভেম্বর ১৫ সদস্যের একটি বাংলাদেশি প্রতিনিধিদলকে অভ্যর্থনা জানাবে তুরস্ক।",
-        "summary_en": "Türkiye will host a 15-member Bangladeshi delegation from 22 to 28 November to expand bilateral cooperation beyond trade.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-21T09:00:00+00:00",
-        "lead_bn": "বাণিজ্য ছাড়িয়ে দ্বিপক্ষীয় সহযোগিতা বাড়াতে আগামী ২২ থেকে ২৮ নভেম্বর ১৫ সদস্যের একটি বাংলাদেশি প্রতিনিধিদলকে অভ্যর্থনা জানাবে তুরস্ক।",
-        "lead_en": "Türkiye will host a 15-member Bangladeshi delegation from 22 to 28 November to expand bilateral cooperation beyond trade.",
-        "bullets_bn": [
-          "অর্থনৈতিক সম্পর্ক বিভাগের সচিব শাহরিয়ার কাদের সিদ্দিকী এই প্রতিনিধিদলের নেতৃত্ব দেবেন।",
-          "সফরে শিক্ষা, স্বাস্থ্য, বিজ্ঞান ও প্রযুক্তি এবং লোকপ্রশাসন নিয়ে আলোচনা করা হবে।",
-          "আঙ্কারার পর প্রতিনিধিদলটি সাংস্কৃতিক ও ঐতিহাসিক স্থান পরিদর্শনের জন্য ইস্তাম্বুল ভ্রমণ করবে।"
-        ],
-        "bullets_en": [
-          "Economic Relations Division Secretary Shahriar Kader Siddiky will lead the delegation.",
-          "Discussions will focus on education, healthcare, science and technology, and public administration.",
-          "Following meetings in Ankara, the delegation will travel to Istanbul to visit cultural and historical sites."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "তুরস্কের সহযোগিতা ও সমন্বয় সংস্থার বাংলাদেশ অফিসের একটি প্রেস বিজ্ঞপ্তিতে জানানো হয়, তুরস্ক সরকার সমর্থিত এই সফরের উদ্দেশ্য দুই দেশের সরকারি প্রতিষ্ঠানের মধ্যে সম্পর্ক জোরদার করা। এর মাধ্যমে কর্মকর্তারা বৈজ্ঞানিক গবেষণা, প্রযুক্তিগত উন্নয়ন এবং জনসেবামূলক প্রশিক্ষণ বিষয়ে অভিজ্ঞতা বিনিময় করতে পারবেন। প্রতিনিধিদলটি আঙ্কারায় শিক্ষা, স্বাস্থ্য, বাণিজ্য এবং শিল্প ও প্রযুক্তি মন্ত্রণালয়ের কর্মকর্তাদের সঙ্গে বৈঠক করবে।",
-        "details_en": "According to a press release by the TIKA Bangladesh office, the visit aims to strengthen ties between public institutions and provide officials an opportunity to exchange experiences. The delegation is scheduled to meet officials from various Turkish ministries and agencies in Ankara.",
-        "hook_bn": "তুরস্ক যাচ্ছে বাংলাদেশি প্রতিনিধিদল",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": "তুরস্কের সঙ্গে এই ধরনের সহযোগিতা বাংলাদেশের কোন খাতে বেশি উপকারে আসবে বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 4.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-21T10:03:12.444581+00:00"
-      }
-    },
-    {
-      "story_id": "b7bbac2c-8200-5a06-99bc-c6211d3470bc",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#BGB",
-        "#Brahmanbaria",
-        "#MobileDisplays"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/21/pic.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-21T08:45:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.5608,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/bgb-seizes-indian-mobile-phone-displays-worth-tk46-crore-brahmanbaria-1609516",
-          "title": "BGB seizes Indian mobile phone displays worth Tk4.6 crore in Brahmanbaria",
-          "snippet": "BGB seizes Indian mobile phone displays worth Tk4.6 crore in Brahmanbaria"
-        },
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/bangladesh/post-1223831/",
-          "title": "কুমিল্লায় ১ কোটি ৬২ লাখ টাকার মোবাইল ডিসপ্লে জব্দ",
-          "snippet": "কুমিল্লায় ১ কোটি ৬২ লাখ টাকার মোবাইল ডিসপ্লে জব্দ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ব্রাহ্মণবাড়িয়ায় কোটি টাকার বেশি মূল্যের ভারতীয় মোবাইল ডিসপ্লে জব্দ",
-        "title_en": "Indian mobile phone displays seized in Brahmanbaria",
-        "summary_bn": "বর্ডার গার্ড বাংলাদেশ ব্রাহ্মণবাড়িয়ার বিজয়নগর সীমান্ত এলাকা থেকে ৪ কোটি ৬০ লাখ টাকার ভারতীয় মোবাইল ডিসপ্লে জব্দ করেছে।",
-        "summary_en": "Border Guard Bangladesh seized Indian mobile phone displays worth Tk4.60 crore from the Bijoynagar border area in Brahmanbaria.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-21T08:45:00+00:00",
-        "lead_bn": "বর্ডার গার্ড বাংলাদেশ ব্রাহ্মণবাড়িয়ার বিজয়নগর সীমান্ত এলাকা থেকে ৪ কোটি ৬০ লাখ টাকার ভারতীয় মোবাইল ডিসপ্লে জব্দ করেছে।",
-        "lead_en": "Border Guard Bangladesh seized Indian mobile phone displays worth Tk4.60 crore from the Bijoynagar border area in Brahmanbaria.",
-        "bullets_bn": [
-          "বিজিবির ২৫ ব্যাটালিয়নের একটি দল বিজয়নগর উপজেলার কামালমুড়া সীমান্ত এলাকায় অভিযান চালিয়ে এসব ডিসপ্লে উদ্ধার করে।",
-          "সীমান্তের ২০০০৭/৭-এস নম্বর পিলারের কাছ দিয়ে ১৫ থেকে ২০ জন লোক ভারতে থেকে বাংলাদেশে প্রবেশের চেষ্টা করছিলেন।",
-          "বিজিবির উপস্থিতি টের পেয়ে চোরাকারবারিরা কার্টনগুলো ফেলে পালিয়ে যায়।"
-        ],
-        "bullets_en": [
-          "Members of BGB's 25 Battalion recovered the displays during a raid in the Kamalmura border area of Bijoynagar upazila.",
-          "Fifteen to 20 people attempted to enter Bangladesh from India carrying cartons on their heads.",
-          "The smugglers fled, leaving the cartons behind after sensing the presence of BGB personnel."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বিজিবির ২৫ ব্যাটালিয়নের অধিনায়ক লেফটেন্যান্ট কর্নেল জব্বার আহমেদ জানান, মুক্তারপুর বিওপির একটি টহল দল গোপন সংবাদের ভিত্তিতে অভিযান পরিচালনা করে। উদ্ধারকৃত ৫ হাজার ৭৬০টি মোবাইল ডিসপ্লের আনুমানিক বাজারমূল্য ৪ কোটি ৬০ লাখ টাকা। এছাড়া কুমিল্লায় চৌদ্দগ্রামে আলাদা অভিযানে ১ কোটি ৬২ লাখ টাকার মোবাইল ডিসপ্লে জব্দ করেছে ১০ বিজিবি।",
-        "details_en": "Lieutenant Colonel Jabbar Ahmed, commander of BGB's 25 Battalion, stated that a patrol team from the Mukundapur Border Outpost launched the operation based on a tip-off. The operation led to the recovery of 5,760 mobile phone displays with an estimated market value of Tk4.6 crore. Separately, the 10 BGB battalion in Cumilla seized mobile displays worth Tk1.62 crore in Chauddagram.",
-        "hook_bn": "ব্রাহ্মণবাড়িয়ায় সাড়ে চার কোটি টাকার ডিসপ্লে জব্দ",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-21T10:03:12.444581+00:00"
+        "checked_at": "2026-11-21T11:01:58.524176+00:00"
       }
     }
   ]
