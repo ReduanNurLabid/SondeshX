@@ -1,9 +1,239 @@
 {
-  "updated_at": "2026-11-21T15:00:45.905681",
+  "updated_at": "2026-11-21T16:00:43.660536",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "1045b792-ecef-5c77-a627-dda97ddf9010",
+      "story_id": "f877abf0-a864-5a12-9b1e-d669a1a6b3c7",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#VAT",
+        "#RAPID"
+      ],
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-02/Karwan%20bazar.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-21T15:50:40+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.25,
+      "rank_score": 5.2006,
+      "sources": [
+        {
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/news/vat-takes-one-fifth-poorest-households-income-4329671",
+          "title": "VAT takes one-fifth of poorest households’ income",
+          "snippet": "VAT takes one-fifth of poorest households’ income"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/vat-takes-7-times-larger-income-share-poor-rich-study-1609856",
+          "title": "Vat takes 7 times larger income share from poor than rich: Study",
+          "snippet": "Vat takes 7 times larger income share from poor than rich: Study"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "দরিদ্র পরিবারগুলোর আয়ের এক পঞ্চমাংশ ভ্যাট হিসেবে কাটা যায়",
+        "title_en": "VAT takes one-fifth of poorest households income",
+        "summary_bn": "নতুন এক গবেষণায় দেখা গেছে, বাংলাদেশের সবচেয়ে দরিদ্র ১০ শতাংশ পরিবার তাদের আয়ের ২০ দশমিক ৩৭ শতাংশ ভ্যাট দেয়।",
+        "summary_en": "A new study shows that the poorest 10 percent of households in Bangladesh pay VAT equivalent to 20.37 percent of their income.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-21T15:50:40+00:00",
+        "lead_bn": "নতুন এক গবেষণায় দেখা গেছে, বাংলাদেশের সবচেয়ে দরিদ্র ১০ শতাংশ পরিবার তাদের আয়ের ২০ দশমিক ৩৭ শতাংশ ভ্যাট দেয়।",
+        "lead_en": "A new study shows that the poorest 10 percent of households in Bangladesh pay VAT equivalent to 20.37 percent of their income.",
+        "bullets_bn": [
+          "সবচেয়ে ধনী ১০ শতাংশ পরিবার তাদের আয়ের ২ দশমিক ৮ শতাংশ ভ্যাট দেয়।",
+          "গ্রামীণ অঞ্চলে দরিদ্র পরিবারগুলোর পরিশোধ করা ভ্যাটের হার ২৩ শতাংশ ছাড়িয়ে যায়।",
+          "গবেষণাটি যৌথভাবে পরিচালনা করেন মো. দীন ইসলাম ও তহসিন রিফাত।"
+        ],
+        "bullets_en": [
+          "The richest 10 percent of households pay just 2.8 percent of their income as VAT.",
+          "In rural areas, VAT paid by the poorest households exceeds 23 percent of their reported income.",
+          "The study was jointly conducted by Md Deen Islam and Tahsin Rifat."
+        ],
+        "impact_bn": "দরিদ্র পরিবারগুলোর আয়ের তুলনায় অতিরিক্ত করের বোঝা তাদের আর্থিক অবস্থাকে আরও চাপে ফেলছে।",
+        "impact_en": "The disproportionate tax burden relative to income places heavy financial pressure on low-income families.",
+        "details_bn": "ঢাকাভিত্তিক থিংক ট্যাংক র‍্যাপিড আয়োজিত এক অনুষ্ঠানে এই গবেষণার ফলাফল প্রকাশ করেন সংস্থাটির চেয়ারম্যান এম এ রাজ্জাক। গবেষণায় বলা হয়েছে, বিদ্যমান কর আইন সঠিকভাবে পালন করলে নতুন কর বা হার না বাড়িয়েই উল্লেখযোগ্য রাজস্ব আয় সম্ভব।",
+        "details_en": "MA Razzaque, chairman of Dhaka-based think tank RAPID, unveiled the findings in Dhaka. The study noted that Bangladesh has substantial scope to mobilise additional revenue through better compliance with existing tax laws without raising tax rates.",
+        "hook_bn": "দরিদ্রদের আয়ের এক পঞ্চমাংশ ভ্যাট",
+        "kicker_bn": "নতুন গবেষণা",
+        "share_value": false,
+        "question_bn": "নিত্যপ্রয়োজনীয় পণ্যের ওপর ভ্যাটের এই বোঝা কমাতে কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "unchecked",
+        "checked_at": "2026-11-21T16:05:16.331170+00:00"
+      }
+    },
+    {
+      "story_id": "4be05b3e-94c3-55fa-afd1-5e813697e8dd",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#GarmentWages",
+        "#MinimumWageBoard"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1741176505800-caaa3a52631a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z2FybWVudCUyMGZhY3RvcnklMjBvd25lcnMlMjBleHBlY3RlZCUyMGJ1c2luZXNzfGVufDF8MHx8fDE3OTUyNzY5Njh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-21T14:13:13+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.5,
+      "rank_score": 5.067,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425355/employers-to-propose-new-garment-wages-on-monday",
+          "title": "Employers to propose new garment wages on Monday",
+          "snippet": "Employers to propose new garment wages on Monday"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/decision-on-new-wage-wont-wait-for-owners-proposal-board-chair",
+          "title": "Decision on new wage won’t wait for owners’ proposal: Board chair",
+          "snippet": "Decision on new wage won’t wait for owners’ proposal: Board chair"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822282/%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%AE%E0%A6%9C%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%AC-%E0%A6%A8%E0%A6%BE-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%87-%E0%A6%86%E0%A6%87%E0%A6%A8-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%AF%E0%A6%BE%E0%A7%9F%E0%A7%80",
+          "title": "মালিকপক্ষ নতুন মজুরির প্রস্তাব না দিলে আইন অনুযায়ী ব্যবস্থা",
+          "snippet": "মালিকপক্ষ নতুন মজুরির প্রস্তাব না দিলে আইন অনুযায়ী ব্যবস্থা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "২৩ নভেম্বর পোশাক কারখানার মালিকদের নতুন মজুরি প্রস্তাব দেওয়ার কথা রয়েছে",
+        "title_en": "Garment factory owners expected to submit new wage proposal on 23 November",
+        "summary_bn": "২৩ নভেম্বর অনুষ্ঠিতব্য সভায় পোশাক কারখানার মালিকেরা নতুন মজুরি কাঠামোর প্রস্তাব জমা দেবেন বলে আশা করছে ন্যূনতম মজুরি বোর্ড।",
+        "summary_en": "The Minimum Wage Board expects garment factory owners to submit their proposed pay structure at its meeting scheduled for 23 November.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-21T14:13:13+00:00",
+        "lead_bn": "২৩ নভেম্বর অনুষ্ঠিতব্য সভায় পোশাক কারখানার মালিকেরা নতুন মজুরি কাঠামোর প্রস্তাব জমা দেবেন বলে আশা করছে ন্যূনতম মজুরি বোর্ড।",
+        "lead_en": "The Minimum Wage Board expects garment factory owners to submit their proposed pay structure at its meeting scheduled for 23 November.",
+        "bullets_bn": [
+          "ন্যূনতম মজুরি বোর্ডের চেয়ারম্যান সৈয়দ আজাদ সুবহানী জানান, বোর্ডের পরবর্তী সভা ২৩ নভেম্বর অনুষ্ঠিত হবে।",
+          "কাউকে প্রস্তাব দিতে বাধ্য করা সম্ভব নয় জানিয়ে সুবহানী বলেন, মজুরির সিদ্ধান্ত মালিকপক্ষের প্রস্তাবের জন্য আটকে থাকবে না।",
+          "মালিকপক্ষ প্রস্তাব না দিলে প্রচলিত আইন, নির্ধারিত প্রক্রিয়া ও সূচক অনুসরণ করে বোর্ড পরবর্তী পদক্ষেপ নেবে।"
+        ],
+        "bullets_en": [
+          "Minimum Wage Board Chairman Syed Azad Subhani announced that the board's next meeting will take place on 23 November.",
+          "Subhani stated that no party can be compelled to submit a proposal and the wage decision will not wait for owners.",
+          "If owners fail to submit a proposal, the board will proceed following existing laws, established procedures, and indicators."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ন্যূনতম মজুরি বোর্ড শ্রম ও কর্মসংস্থান মন্ত্রণালয়ের আওতাধীন একটি সংস্থা। ২১ নভেম্বর বিকেলে বোর্ডের চেয়ারম্যান জেলা ও দায়রা জজ সৈয়দ আজাদ সুবহানী মজুরি পুনর্নির্ধারণ সংক্রান্ত বিষয়ে বক্তব্য দেন।",
+        "details_en": "The Minimum Wage Board operates under the Ministry of Labour and Employment. Board Chairman District and Sessions Judge Syed Azad Subhani shared details about the wage revision process on the afternoon of 21 November.",
+        "hook_bn": "'কাউকে প্রস্তাব দিতে বাধ্য করা সম্ভব নয়'",
+        "kicker_bn": "নতুন তারিখ",
+        "share_value": true,
+        "question_bn": "পোশাক খাতের নতুন মজুরি নির্ধারণ নিয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "unchecked",
+        "checked_at": "2026-11-21T16:05:16.331170+00:00"
+      }
+    },
+    {
+      "story_id": "596d389c-7a2e-5f87-80fa-d6616c8a2fb8",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#AwamiLeague",
+        "#MirShaheAlam",
+        "#Rangpur",
+        "#BangladeshPolitics"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/08/30/9145205.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-21T14:55:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.25,
+      "rank_score": 4.9292,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/politics/constitution-may-be-amended-permanently-ban-al-if-needed-shahe-alam-1609866",
+          "title": "Constitution may be amended to permanently ban AL if needed: Shahe Alam",
+          "snippet": "Constitution may be amended to permanently ban AL if needed: Shahe Alam"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425357/govt-opposition-may-reach-consensus-on-permanent",
+          "title": "Govt, opposition may reach consensus on permanent Awami League ban",
+          "snippet": "Govt, opposition may reach consensus on permanent Awami League ban"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আওয়ামী লীগকে স্থায়ীভাবে নিষিদ্ধ করতে সংবিধান সংশোধন করা হতে পারে, বললেন প্রতিমন্ত্রী",
+        "title_en": "Government and opposition may amend constitution to ban Awami League permanently, says minister",
+        "summary_bn": "প্রয়োজন হলে ঐকমত্যের ভিত্তিতে সংবিধান সংশোধন করে আওয়ামী লীগকে স্থায়ীভাবে নিষিদ্ধ করা হতে পারে বলে জানিয়েছেন প্রতিমন্ত্রী মীর শাহে আলম।",
+        "summary_en": "State Minister Mir Shahe Alam said the government and opposition may amend the constitution through consensus to permanently ban the Awami League if necessary.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-21T14:55:00+00:00",
+        "lead_bn": "প্রয়োজন হলে ঐকমত্যের ভিত্তিতে সংবিধান সংশোধন করে আওয়ামী লীগকে স্থায়ীভাবে নিষিদ্ধ করা হতে পারে বলে জানিয়েছেন প্রতিমন্ত্রী মীর শাহে আলম।",
+        "lead_en": "State Minister Mir Shahe Alam said the government and opposition may amend the constitution through consensus to permanently ban the Awami League if necessary.",
+        "bullets_bn": [
+          "মীর শাহে আলম আওয়ামী লীগের কার্যক্রম নিষিদ্ধ করার অন্তর্বর্তীকালীন সরকারের সিদ্ধান্তকে সঠিক ও যৌক্তিক বলে উল্লেখ করেন।",
+          "তিনি বলেন, দীর্ঘ সংগ্রামের পর অবাধ ও সুষ্ঠু নির্বাচনের মাধ্যমে প্রধানমন্ত্রী তারেক রহমানের নেতৃত্বে জনগণ গণতান্ত্রিক সরকার প্রতিষ্ঠা করেছে।",
+          "গোপালগঞ্জে পেট্রোল বোমা নিক্ষেপ বা থানায় আগুন দেওয়ার মতো সহিংসতায় কিছু অর্জিত হবে না বলে সতর্ক করেন তিনি।"
+        ],
+        "bullets_en": [
+          "Mir Shahe Alam called the interim government's decision to ban Awami League activities correct and logical.",
+          "He stated people established a democratic government under Prime Minister Tarique Rahman's leadership through a free and fair electoral process.",
+          "He warned that acts like throwing petrol bombs or burning police stations in Gopalganj would not yield anything."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "রংপুরে শহীদ আবু সাঈদ স্টেডিয়াম ও ইনডোর স্টেডিয়াম উদ্বোধন শেষে ২১ নভেম্বর সাংবাদিকদের সঙ্গে কথা বলেন মীর শাহে আলম। তিনি বলেন, নিষিদ্ধ সংগঠনের ষড়যন্ত্র প্রতিহত করতে জনগণ ঐক্যবদ্ধ থাকবে এবং দলটির রাজনীতিতে ফেরার কোনো সুযোগ নেই। দেশকে পুনরায় অন্য দেশের অধীনস্থ করার ষড়যন্ত্রকারীদের জবাবদিহিতার আওতায় আনা হবে উল্লেখ করে তিনি বলেন, বর্তমান সরকার মানবিক, ধৈর্যশীল এবং গণতান্ত্রিক নীতিতে প্রতিশ্রুতিবদ্ধ।",
+        "details_en": "Mir Shahe Alam spoke to journalists on 21 November after inaugurating Shaheed Abu Sayed Stadium and Indoor Stadium in Rangpur. He said people would stand united against conspiracies by the banned entity and there was no possibility of its political return. He added that those involved in plots to make the nation subservient would be held accountable, emphasizing that the current government is humane, patient and committed to democratic principles.",
+        "hook_bn": "'বর্তমান সরকার মানবিক ও ধৈর্যশীল'",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "আওয়ামী লীগকে স্থায়ীভাবে নিষিদ্ধ করতে সংবিধান সংশোধনের বিষয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "unchecked",
+        "checked_at": "2026-11-21T16:05:16.331170+00:00"
+      }
+    },
+    {
+      "story_id": "b6460abc-dda2-5c57-8b3f-5cc56889b264",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
@@ -11,29 +241,36 @@
       ],
       "region": "national",
       "tags": [
-        "#BoishakhiTV",
-        "#JulyUprising",
+        "#Gazipur",
+        "#ChhatraLeague",
+        "#Sreepur",
         "#BangladeshPolice"
       ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182499/boishakhi-tv.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/21/unnamed_1.jpg",
       "image_caption": null,
-      "published_at": "2026-11-21T15:00:53.424884+00:00",
+      "published_at": "2026-11-21T15:05:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.3002,
+      "importance_score": 6.25,
+      "rank_score": 3.6986,
       "sources": [
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/boishakhi-tv-alleges-mob-attack-as-police-pursue-july-uprising-murder-suspect",
-          "title": "Boishakhi TV alleges mob attack as police pursue July Uprising murder suspect",
-          "snippet": "Boishakhi TV alleges mob attack as police pursue July Uprising murder suspect"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/crime/gazipur-chhatra-league-leader-arrested-over-robbery-involving-bkash-money-associate",
+          "title": "Gazipur Chhatra League leader arrested over robbery involving bKash money; associate held with firearm",
+          "snippet": "Gazipur Chhatra League leader arrested over robbery involving bKash money; associate held with firearm"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1182112",
+          "title": "বিকাশ কর্মীদের গুলি করে কোটি টাকা লুট, অস্ত্রসহ ছাত্রলীগ নেতা গ্রেফতার",
+          "snippet": "বিকাশ কর্মীদের গুলি করে কোটি টাকা লুট, অস্ত্রসহ ছাত্রলীগ নেতা গ্রেফতার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বৈশাখী টিভিতে হামলা ও জুলাই অভ্যুত্থানের হত্যা মামলার আসামি আটকের অভিযোগ উঠেছে",
-        "title_en": "Boishakhi TV alleges mob attack as police pursue July Uprising murder suspect",
-        "summary_bn": "বেসরকারি বৈশাখী টেলিভিশন অভিযোগ করেছে যে জুলাই অভ্যুত্থানের একটি হত্যা মামলার এক আসামিকে ধরতে পুলিশ যাওয়ার সময় তাদের প্রতিষ্ঠানে হামলা হয়েছে।",
-        "summary_en": "Private broadcaster Boishakhi Television alleged that a mob entered its premises in a Facebook livestream while police pursued a murder suspect.",
+        "title_bn": "গাজীপুরে বিকাশ টাকা ছিনতাইয়ের ঘটনায় ছাত্রলীগ নেতাসহ দুজন গ্রেফতার",
+        "title_en": "Chhatra League leader and associate arrested over Gazipur bKash robbery",
+        "summary_bn": "গাজীপুরের শ্রীপুরে বিকাশ টাকা ছিনতাইয়ের ঘটনায় জেলা ছাত্রলীগের সাংগঠনিক সম্পাদক ইমরান শেখসহ দুজনকে গ্রেফতার করেছে জেলা গোয়েন্দা পুলিশ।",
+        "summary_en": "Gazipur district DB police arrested district Chhatra League organizing secretary Imran Sheikh and his associate over a bKash money robbery in Sreepur.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -41,353 +278,183 @@
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T15:00:53.424884+00:00",
-        "lead_bn": "বেসরকারি বৈশাখী টেলিভিশন অভিযোগ করেছে যে জুলাই অভ্যুত্থানের একটি হত্যা মামলার এক আসামিকে ধরতে পুলিশ যাওয়ার সময় তাদের প্রতিষ্ঠানে হামলা হয়েছে।",
-        "lead_en": "Private broadcaster Boishakhi Television alleged that a mob entered its premises in a Facebook livestream while police pursued a murder suspect.",
+        "published_at": "2026-11-21T15:05:00+00:00",
+        "lead_bn": "গাজীপুরের শ্রীপুরে বিকাশ টাকা ছিনতাইয়ের ঘটনায় জেলা ছাত্রলীগের সাংগঠনিক সম্পাদক ইমরান শেখসহ দুজনকে গ্রেফতার করেছে জেলা গোয়েন্দা পুলিশ।",
+        "lead_en": "Gazipur district DB police arrested district Chhatra League organizing secretary Imran Sheikh and his associate over a bKash money robbery in Sreepur.",
         "bullets_bn": [
-          "বৈশাখী টিভিতে হামলার একটি ভিডিও ফেসবুক লাইভস্ট্রিম এবং সামাজিক যোগাযোগ মাধ্যমে দেখা গেছে।",
-          "পুলিশ কর্মকর্তা মোহাম্মদ রুহুল কবির খান জানান যে জুলাই অভ্যুত্থানের একটি হত্যা মামলার আসামি টেলিভিশন স্টেশনে ছিলেন।",
-          "লাইভস্ট্রিমের সময় হোয়াইট শার্ট পরা মোবাইল ব্যবহারকারী এক ব্যক্তিকে বৈশাখী টেলিভিশন ভাঙচুর করার কথা বলা হয়।"
+          "১৯ নভেম্বর মৌলভীবাজার জেলার শ্রীমঙ্গল উপজেলার গিয়াসনগর এলাকা থেকে ২৪ বছর বয়সী ইমরান শেখকে গ্রেফতার করা হয়।",
+          "অভিযানে অস্ত্র ও একটি খালি ম্যাগাজিনসহ ২২ বছর বয়সী সহযোগী রবিন আহমেদকে আটক করা হয়েছে বলে জেলা গোয়েন্দা পুলিশ জানিয়েছে।",
+          "ইমরানের বিরুদ্ধে সাতটি এবং রবিনের বিরুদ্ধে তিনটি মামলা বিচারাধীন রয়েছে বলে পুলিশ জানিয়েছে।"
         ],
         "bullets_en": [
-          "The broadcast appeared on the Boishakhi TV News page and a social media video showed the alleged attack.",
-          "Police officer Mohammad Ruhul Kabir Khan said a suspect in a murder case linked to the July Uprising was inside.",
-          "During the livestream, the narrator pointed to a man in a white shirt using his mobile phone."
+          "Imran Sheikh, 24, was arrested on 19 November from the Giasnagar area under Sreemangal Police Station in Moulvibazar district.",
+          "DB police detained his associate Robin Ahmed, 22, along with a firearm and an empty magazine in a separate raid.",
+          "Police stated that Imran faces seven pending cases while Robin has three pending cases related to various offences."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বৈশাখী টেলিভিশন নিউজ পেজে প্রায় চার মিনিট পনেরো সেকেন্ডের একটি লাইভস্ট্রিম প্রচার করা হয়। নিরাপত্তা উদ্বেগের কারণে ঘটনার বর্ণনা দেওয়া ব্যক্তি নিজের পরিচয় বা পদ প্রকাশ করেননি।",
-        "details_en": "The broadcast appeared on the Boishakhi TV News page. The person narrating the events did not identify himself or disclose his position, citing security concerns, during the livestream which lasted about four minutes and 15 seconds.",
-        "hook_bn": "বৈশাখী টিভিতে হামলা ও হত্যা মামলার আসামি আটক",
-        "kicker_bn": "সংবাদ",
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-21T15:03:16.361505+00:00"
-      }
-    },
-    {
-      "story_id": "0cb8912d-aab0-559b-ad2d-a3508a88bfee",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/new-project-8-20261121205233.jpg?cid=499790",
-      "image_caption": null,
-      "published_at": "2026-11-21T14:52:33+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.2818,
-      "sources": [
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/national/499790",
-          "title": "ফটিকছড়িতে যুবদলের মিছিলে হামলা, তিন মোটরসাইকেলে আগুন",
-          "snippet": "ফটিকছড়িতে যুবদলের মিছিলে হামলা, তিন মোটরসাইকেলে আগুন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ফটিকছড়িতে যুবদলের মিছিলে হামলা ও তিন মোটরসাইকেলে আগুন",
-        "title_en": "Attack on Juba Dal procession and three motorcycles torched in Fatikchhari",
-        "summary_bn": "চট্টগ্রামের ফটিকছড়িতে যুবদলের সন্ত্রাসবিরোধী মিছিলে হামলার ঘটনায় আট থেকে দশ জন নেতাকর্মী আহত হয়েছেন এবং তিনটি মোটরসাইকেলে আগুন দেওয়া হয়েছে।",
-        "summary_en": "Eight to ten leaders and activists were injured and three motorcycles were torched in an attack on a Juba Dal anti-terrorism procession in Fatikchhari, Chattogram.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-21T14:52:33+00:00",
-        "lead_bn": "চট্টগ্রামের ফটিকছড়িতে যুবদলের সন্ত্রাসবিরোধী মিছিলে হামলার ঘটনায় আট থেকে দশ জন নেতাকর্মী আহত হয়েছেন এবং তিনটি মোটরসাইকেলে আগুন দেওয়া হয়েছে।",
-        "lead_en": "Eight to ten leaders and activists were injured and three motorcycles were torched in an attack on a Juba Dal anti-terrorism procession in Fatikchhari, Chattogram.",
-        "bullets_bn": [
-          "২১ নভেম্বর বিকেল চারটার দিকে উপজেলার নানুপুর ইউনিয়নের কিপাইত নগর গ্রামের শাহী মুহাম্মদ চৌধুরী মসজিদ এলাকায় এই হামলার ঘটনা ঘটে।",
-          "হামলার শিকার নেতাকর্মী ও প্রত্যক্ষদর্শীদের অভিযোগ, মাইকে ঘোষণা দিয়ে যুবলীগের একদল নেতাকর্মী এই অতর্কিত হামলা চালায়।",
-          "ঘটনার প্রতিবাদে বিএনপি ও যুবদলের শতাধিক নেতাকর্মী স্থানীয় যুবলীগ নেতার বাড়ির সামনে বিক্ষোভ করেন এবং পুলিশ পরিস্থিতি নিয়ন্ত্রণে আনে।"
-        ],
-        "bullets_en": [
-          "The incident occurred around 4 pm on 21 November in the Shahi Muhammad Chowdhury mosque area of Kipait Nagar village in Nanupur union.",
-          "Victims and eyewitnesses alleged that a group of Jubo League leaders and activists launched the sudden attack after making announcements over a megaphone.",
-          "Protesting the incident, over a hundred BNP and Juba Dal activists demonstrated in front of local Jubo League leader Nurul Karim's house, and police brought the situation under control."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "নানুপুর ইউনিয়ন যুবদলের উদ্যোগে প্রায় ২০টি মোটরসাইকেল নিয়ে একটি সন্ত্রাসবিরোধী মিছিল বের করা হয়। মিছিলটি বিনাজুরী আমতলী ও কিপাইত নগর লম্বা টিলা বাজার প্রদক্ষিণ করে শাহী মুহাম্মদ চৌধুরী মসজিদ এলাকায় পৌঁছালে এই হামলা চালানো হয়। হামলায় আহত আজিজ, হোসেন মঞ্জু, আকিব, ইয়ামিনি ও বখতিয়ারকে ফটিকছড়ি উপজেলা স্বাস্থ্য কমপ্লেক্সে নেওয়া হয়েছে। ঘটনার পর এলাকায় উত্তেজনা সৃষ্টি হলে অতিরিক্ত পুলিশ মোতায়েন করা হয় এবং বর্তমানে পরিস্থিতি শান্ত রয়েছে বলে জানিয়েছেন চট্টগ্রামের অতিরিক্ত পুলিশ সুপার কাজী তারেক আজিজ।",
-        "details_en": "An anti-terrorism procession with around 20 motorcycles was brought out under the initiative of Nanupur Union Juba Dal. The attack took place when the procession reached the Shahi Muhammad Chowdhury mosque area after parading through Binajuri Amtali and Kipait Nagar Lomba Tila Bazar. Injured persons Aziz, Hossain Manju, Akib, Yamini, and Bakhtiar were taken to Fatikchhari Upazila Health Complex. Following tension in the area, additional police were deployed and the situation is currently calm, according to Chattogram Additional Superintendent of Police Kazi Tarek Aziz.",
-        "hook_bn": "ফটিকছড়িতে যুবদলের মিছিলে হামলা ও মোটরসাইকেলে আগুন",
+        "details_bn": "পুলিশ জানায়, গত ৯ অক্টোবর শ্রীপুর উপজেলার গোসিংগা ইউনিয়নের নরসিংদী ও মাওনার সংযোগকারী আঞ্চলিক মহাসড়কে এই ছিনতাইয়ের ঘটনা ঘটে। ২০ নভেম্বর অস্ত্র আইনে শ্রীপুর থানায় রবিনের বিরুদ্ধে একটি মামলা দায়ের করা হয়। গাজীপুর জেলা গোয়েন্দা কর্মকর্তা-১ আবুল বাশার মিয়া এই গ্রেফতারের বিষয়টি নিশ্চিত করেছেন।",
+        "details_en": "Police stated that the robbery took place on 9 October on the regional highway connecting Narsingdi and Mawna in Gosinga union of Sreepur upazila. A case was filed against Robin at Sreepur Police Station on 20 November under the Arms Act. Abul Bashar Mia, district intelligence officer-1 of Gazipur, confirmed the arrests.",
+        "hook_bn": "শ্রীপুরে বিকাশ টাকা ছিনতাইয়ে ছাত্রলীগ নেতা গ্রেফতার",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "unchecked",
-        "checked_at": "2026-11-21T15:03:16.361505+00:00"
+        "checked_at": "2026-11-21T16:05:16.331170+00:00"
       }
     },
     {
-      "story_id": "84f634b0-ad03-5703-9714-9c3c62777d0c",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "society_education",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.channelionline.com/2026/11/%E0%A6%B6%E0%A6%AA%E0%A6%BF%E0%A6%82-%E0%A6%AE%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%A8%E0%A7%87-%E0%A6%A4%E0%A6%B0%E0%A7%81%E0%A6%A3-%E0%A6%A4%E0%A6%B0%E0%A7%81%E0%A6%A3%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B9%E0%A6%BE%E0%A6%B2-%E0%A6%AD%E0%A6%BE%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%B2-%E0%A6%AD%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%93%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%86%E0%A6%9F%E0%A6%95-%E0%A6%95%E0%A6%BF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-11-21T14:44:17+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.2637,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/teen-gang-detained-following-viral-video-harassment-young/",
-          "title": "শপিং মল এলাকায় তরুণ-তরুণী নাজেহাল, ভিডিও ভাইরালের পর আটক কিশোর গ্যাং",
-          "snippet": "শপিং মল এলাকায় তরুণ-তরুণী নাজেহাল, ভিডিও ভাইরালের পর আটক কিশোর গ্যাং"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মুম্বাইয়ে শপিং মলের সামনে তরুণ-তরুণীকে হেনস্তার ঘটনায় আট কিশোর আটক।",
-        "title_en": "Eight teenagers arrested in Mumbai after a couple is harassed outside mall.",
-        "summary_bn": "ভারতের মুম্বাইয়ে শপিং মলের সামনে ছবি তোলার সময় এক যুগলকে মারধর ও শ্লীলতাহানির অভিযোগে আট কিশোরকে আটক করেছে পুলিশ।",
-        "summary_en": "Police arrested eight teenagers in Mumbai for allegedly assaulting and molesting a couple taking pictures outside a shopping mall.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-21T14:44:17+00:00",
-        "lead_bn": "ভারতের মুম্বাইয়ে শপিং মলের সামনে ছবি তোলার সময় এক যুগলকে মারধর ও শ্লীলতাহানির অভিযোগে আট কিশোরকে আটক করেছে পুলিশ।",
-        "lead_en": "Police arrested eight teenagers in Mumbai for allegedly assaulting and molesting a couple taking pictures outside a shopping mall.",
-        "bullets_bn": [
-          "অশ্লীল মন্তব্যের প্রতিবাদ করায় যুগলটির ওপর হামলা চালানো হয়।",
-          "ভাইরাল হওয়া ভিডিওতে দেখা যায় এক কিশোর চপ্পল দিয়ে এবং অন্যজন লাঠি দিয়ে আঘাত করছে।",
-          "অভিযুক্তদের জুভেনাইল জাস্টিস বোর্ডের সামনে হাজির করা হবে এবং অভিভাবকদের নোটিশ পাঠানো হয়েছে।"
-        ],
-        "bullets_en": [
-          "The couple was attacked after protesting against obscene remarks.",
-          "A viral video shows one teenager striking the youth with a slipper and another hitting the young woman with a stick.",
-          "The accused will be produced before the Juvenile Justice Board and notices have been sent to their parents."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "মুম্বাইয়ের কুর্লার একটি শপিং মলের সামনের বাগানে ছবি তোলার সময় ওই তরুণ-তরুণীর উদ্দেশে সাত থেকে আটজন কিশোর অশ্লীল মন্তব্য শুরু করে। যুগল প্রতিবাদ করলে তাদের ঘিরে ধরে হেনস্তা ও মারধর করা হয় এবং সিঁড়ি দিয়ে তাড়া করে নিচে নামিয়ে দেওয়া হয়। ‘ঘর কা কলেশ’ নামের একটি এক্স অ্যাকাউন্ট থেকে ভিডিওটি প্রকাশের পর সামাজিক যোগাযোগমাধ্যমে প্রতিক্রিয়া দেখা দেয়। বিজেপি নেতা কিরিট সোমাইয়া এ ঘটনায় কঠোর পদক্ষেপের দাবি জানিয়েছেন।",
-        "details_en": "While the couple was taking pictures in the garden in front of a shopping mall in Kurla, Mumbai, seven to eight teenagers started making obscene remarks at them. When the couple protested, they were surrounded, harassed, beaten, and chased down the stairs. After the video was published from an X account named Ghar Ka Kalesh, reactions emerged on social media, and BJP leader Kirit Somaiya demanded strict action regarding the incident.",
-        "hook_bn": "মুম্বাইয়ে শপিং মলের সামনে তরুণ-তরুণী হেনস্তা",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-21T15:03:16.361505+00:00"
-      }
-    },
-    {
-      "story_id": "946fe889-b8d2-5579-a483-c221a4818d0c",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/De.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-21T12:21:15+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.9725,
-      "sources": [
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/post-1223915/",
-          "title": "ছুটিতে দেশে এসে ডেঙ্গুতে প্রাণ গেল প্রবাসী প্রকৌশলীর",
-          "snippet": "ছুটিতে দেশে এসে ডেঙ্গুতে প্রাণ গেল প্রবাসী প্রকৌশলীর"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ছুটিতে দেশে এসে ডেঙ্গুতে মারা গেলেন প্রবাসী প্রকৌশলী নেজাম উদ্দিন পারভেজ",
-        "title_en": "Expatriate engineer Nezam Uddin Parvez dies of dengue during vacation in Bangladesh",
-        "summary_bn": "ছুটিতে কাতার থেকে দেশে এসে ডেঙ্গুতে আক্রান্ত হয়ে চট্টগ্রাম নগরীর একটি বেসরকারি হাসপাতালে মারা গেছেন প্রবাসী প্রকৌশলী নেজাম উদ্দিন পারভেজ।",
-        "summary_en": "Expatriate engineer Nezam Uddin Parvez died of dengue at a private hospital in Chattogram city after returning home on vacation from Qatar.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-21T12:21:15+00:00",
-        "lead_bn": "ছুটিতে কাতার থেকে দেশে এসে ডেঙ্গুতে আক্রান্ত হয়ে চট্টগ্রাম নগরীর একটি বেসরকারি হাসপাতালে মারা গেছেন প্রবাসী প্রকৌশলী নেজাম উদ্দিন পারভেজ।",
-        "lead_en": "Expatriate engineer Nezam Uddin Parvez died of dengue at a private hospital in Chattogram city after returning home on vacation from Qatar.",
-        "bullets_bn": [
-          "পাঁচ দিন জ্বর থাকার পর শারীরিক অবস্থার অবনতি হলে তাকে একটি বেসরকারি হাসপাতালে ভর্তি করা হয়।",
-          "রক্ত পরীক্ষায় ডেঙ্গু শনাক্ত হওয়ার পর তার অবস্থার অবনতি হলে তাকে আইসিইউতে নেওয়া হয়।",
-          "জানাজা শেষে স্থানীয় সামাজিক কবরস্থানে তাকে দাফন করা হয়।"
-        ],
-        "bullets_en": [
-          "He was admitted to a private hospital after his physical condition deteriorated following five days of fever.",
-          "He was shifted to the ICU as his condition worsened after dengue was detected in blood tests.",
-          "He was buried in a local social graveyard on Saturday following his namaz-e-janaza."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "৩৪ বছর বয়সী নেজাম উদ্দিন পারভেজ চট্টগ্রামের বোয়ালখালী উপজেলার পৌরসভার ২ নম্বর ওয়ার্ডের বাংলা পাড়া নুর হোসেন সওদাগরের বাড়ির আহম্মদ নবীর ছেলে। তিনি দুই ভাই ও এক বোনের মধ্যে বড় ছিলেন। ২০১৮ সালে কাতারে গিয়ে ব্যবসা শুরু করেন তিনি এবং প্রবাস জীবনে তিনবার ছুটিতে দেশে এসেছিলেন। এবার প্রায় ২০ থেকে ২৫ দিন আগে দুই মাসের ছুটি নিয়ে দেশে ফিরেছিলেন। দুই বছর আগে বিয়ে করা পারভেজের স্ত্রী আছমিরা মেহনাজ এবং আট মাস বয়সী ফারহিনানা পারভেজ আয়রা নামের একটি কন্যাসন্তান রয়েছে।",
-        "details_en": "Nezam Uddin Parvez, 34, was the son of Ahmed Nabi from Bangla Para Nur Hossain Sawdagar's house in Ward 2 of Boalkhali upazila municipality in Chattogram. He was the eldest of two brothers and a sister. He moved to Qatar in Sarah 2018 for business and had returned home on vacation three times during his expatriate life. He returned home about 20 to 25 days ago on a two-month leave. Parvez, who married two years ago, leaves behind his wife Asmira Mehnaz and an eight-month-old daughter named Farhinana Parvez Ayra.",
-        "hook_bn": "ছুটিতে দেশে এসে ডেঙ্গুতে প্রবাসীর মৃত্যু",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-21T15:03:16.361505+00:00"
-      }
-    },
-    {
-      "story_id": "cc687752-6a89-5fd9-9b2a-8f1f41b3a038",
+      "story_id": "5c0343ba-137a-5d60-97c9-807faab73873",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
       ],
       "region": "international",
       "tags": [
-        "#VolodymyrZelenskiy",
-        "#VladimirPutin",
-        "#China",
-        "#Russia"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://th-i.thgim.com/public/incoming/5c30v/article71728779.ece/alternates/LANDSCAPE_1200/2026-11-21T114938Z_92849356_RC29SOAACL1M_RTRMADP_3_UKRAINE-CRISIS-BRITAIN-DEFENCE.JPG",
+      "image_url": "https://images.unsplash.com/photo-1737719158987-e7cd95068bec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8aXJhbiUyMHJldmVhbHMlMjBtaXNzaWxlJTIwc3RvY2twaWxlJTIwZGlwbG9tYWN5fGVufDF8MHx8fDE3OTUyNzcwNDB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-21T14:29:07+00:00",
+      "published_at": "2026-11-21T15:49:59+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.25,
-      "rank_score": 1.7489,
+      "importance_score": 5.25,
+      "rank_score": 2.7252,
       "sources": [
         {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/zelenskiy-says-china-summit-was-very-unsuccessful-for-russia/article71728572.ece",
-          "title": "Zelenskiy says China summit was ‘very unsuccessful’ for Russia",
-          "snippet": "Zelenskiy says China summit was ‘very unsuccessful’ for Russia"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822283/%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA%E0%A6%A3%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AD%E0%A6%BE%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%8F%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A7%87",
+          "title": "ক্ষেপণাস্ত্রের বিশাল ভাণ্ডার প্রকাশ্যে এনে বিশ্বকে নতুন বার্তা ইরানের",
+          "snippet": "ক্ষেপণাস্ত্রের বিশাল ভাণ্ডার প্রকাশ্যে এনে বিশ্বকে নতুন বার্তা ইরানের"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1182109",
+          "title": "মার্কিন এফ-১৬ যুদ্ধবিমানে ক্ষেপণাস্ত্র হামলার দাবি ইরানের",
+          "snippet": "মার্কিন এফ-১৬ যুদ্ধবিমানে ক্ষেপণাস্ত্র হামলার দাবি ইরানের"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চীন শীর্ষ সম্মেলন রাশিয়ার জন্য অত্যন্ত অসফল ছিল, বলেছেন জেলেনস্কি",
-        "title_en": "China summit was very unsuccessful for Russia, Zelenskiy says",
-        "summary_bn": "ইউক্রেনের প্রেসিডেন্ট ভলোদিমির জেলেনস্কি বলেছেন যে চীন, রাশিয়া ও যুক্তরাষ্ট্রের নেতাদের মধ্যে অনুষ্ঠিত ত্রিমাত্রিক শীর্ষ সম্মেলন রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিনের জন্য অত্যন্ত অসফল ছিল।",
-        "summary_en": "Ukrainian President Volodymyr Zelenskiy said that this week’s trilateral summit between the leaders of China, Russia and the United States was very unsuccessful for Russian President Vladimir Putin.",
+        "title_bn": "ইরান ক্ষেপণাস্ত্রের ভাণ্ডার প্রকাশ করেছে এবং যুদ্ধবিমানে হামলার দাবি করেছে।",
+        "title_en": "Iran reveals missile stockpile and claims attack on warplane.",
+        "summary_bn": "ইরানের ইসলামি বিপ্লবী গার্ড বাহিনী তাদের মিসাইল সিটির ভিডিও প্রকাশ করেছে এবং উপসাগরের আকাশে যুক্তরাষ্ট্রের যুদ্ধবিমানে ক্ষেপণাস্ত্র ছোড়ার দাবি করেছে।",
+        "summary_en": "Iran Islamic Revolutionary Guard Corps released a missile city video and claimed firing a missile at a US warplane over the Gulf.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T14:29:07+00:00",
-        "lead_bn": "ইউক্রেনের প্রেসিডেন্ট ভলোদিমির জেলেনস্কি বলেছেন যে চীন, রাশিয়া ও যুক্তরাষ্ট্রের নেতাদের মধ্যে অনুষ্ঠিত ত্রিমাত্রিক শীর্ষ সম্মেলন রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিনের জন্য অত্যন্ত অসফল ছিল।",
-        "lead_en": "Ukrainian President Volodymyr Zelenskiy said that this week’s trilateral summit between the leaders of China, Russia and the United States was very unsuccessful for Russian President Vladimir Putin.",
+        "published_at": "2026-11-21T15:49:59+00:00",
+        "lead_bn": "ইরানের ইসলামি বিপ্লবী গার্ড বাহিনী তাদের মিসাইল সিটির ভিডিও প্রকাশ করেছে এবং উপসাগরের আকাশে যুক্তরাষ্ট্রের যুদ্ধবিমানে ক্ষেপণাস্ত্র ছোড়ার দাবি করেছে।",
+        "lead_en": "Iran Islamic Revolutionary Guard Corps released a missile city video and claimed firing a missile at a US warplane over the Gulf.",
         "bullets_bn": [
-          "জেলেনস্কি বলেন যে রুশ প্রেসিডেন্ট পুতিন ১৯৪৫ সালের ইউরোপের ভাগ্য নির্ধারণকারী ইয়াল্টা সম্মেলন পুনর্গঠন করতে ব্যর্থ হয়েছেন।",
-          "ইউক্রেন যুদ্ধ শেষে ন্যাটোতে যোগদানের সম্ভাবনার বিষয়টি বার্লিনের উইলিং কোয়ালিশন বৈঠকে উত্থাপিত হয়েছিল বলে জানান জেলেনস্কি।",
-          "দীর্ঘদিন ধরে ন্যাটোতে যোগদানের চেষ্টা করা ইউক্রেন এই জোটে যোগ দিতে পারবে কি না তা কিয়েভের কাছে এখনও স্পষ্ট নয়।"
+          "আইআরজিসির প্রকাশিত ভিডিওতে ভূগর্ভস্থ বিশাল সুড়ঙ্গজুড়ে সারি সারি ক্ষেপণাস্ত্র ও উৎক্ষেপণযন্ত্র দেখা গেছে।",
+          "আলজাজিরার সাংবাদিক রেসুল সারদার আতাস তেহরান থেকে ভিডিওটি সম্পর্কে জানিয়েছেন।",
+          "উপসাগরের আকাশে যুক্তরাষ্ট্রের একটি এফ-১৬ যুদ্ধবিমান লক্ষ্য করে ক্ষেপণাস্ত্র ছোড়ার পর সেটি ক্ষতিগ্রস্ত হয়েছে বলে জানানো হয়েছে।"
         ],
         "bullets_en": [
-          "Zelenskiy said Russian President Putin had failed to recreate the Yalta conference that decided Europe’s fate in 1945.",
-          "Zelenskiy said the possibility of Ukraine joining NATO was raised at the Coalition of the Willing meeting in Berlin.",
-          "It is not currently clear to Kyiv whether Ukraine will be able to join the NATO alliance, something it has long sought."
+          "The IRGC video showed rows of missiles and launchers inside a vast underground tunnel.",
+          "Al Jazeera journalist Resul Sardar Aytac reported from Tehran regarding the video.",
+          "A US F-16 warplane was reported damaged after a missile was fired at it over the Gulf sky."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "খবরটিতে জানানো হয়েছে, কিয়েভে ব্রিটিশ প্রতিরক্ষাপ্রধান ওয়েস স্টি্রিংয়ের সঙ্গে বৈঠকের শুরুতে সংবাদমাধ্যমকে এই কথা বলেন ইউক্রেনের প্রেসিডেন্ট। আলাদাভাবে ইরান জানিয়েছে যে তাদের মিত্র চীন ও রাশিয়া পারমাণবিক মতবাদের পরিবর্তনের বিরোধিতা করেছে এবং ইরান নিরাপত্তা আশঙ্কার কারণ দেখিয়ে আন্তর্জাতিক পরমাণু শক্তি সংস্থাকে তাদের পারমাণবিক সাইট পরিদর্শনে বাধা দিয়েছে।",
-        "details_en": "The report states that Ukrainian President Volodymyr Zelenskiy spoke to the media at the beginning of a meeting with British Defence Secretary Wes Streeting in Kyiv. Separately, Iran stated that its allies China and Russia oppose a change in its nuclear doctrine, and Iran has barred the International Atomic Energy Agency from inspecting its nuclear sites citing security concerns.",
-        "hook_bn": "চীন শীর্ষ সম্মেলন রাশিয়ার জন্য অত্যন্ত অসফল",
-        "kicker_bn": "শীর্ষ সম্মেলন",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "ক্ষেপণাস্ত্রের বিশাল ভাণ্ডার প্রকাশ্যে এনেছে ইরান",
+        "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "unchecked",
-        "checked_at": "2026-11-21T15:03:16.361505+00:00"
+        "checked_at": "2026-11-21T16:05:16.331170+00:00"
       }
     },
     {
-      "story_id": "5c8e1c8f-a44c-5bb1-9469-7cac1b303ca9",
-      "primary_category": "economy_business",
+      "story_id": "51997a2b-5c85-514e-8a8c-634cb1378d53",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "economy_business"
+        "governance_law",
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#BangladeshiSpinningMills",
-        "#AmeriBanglaCorporation",
-        "#USCotton"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182517/1000286322.jpg",
+      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/sylthet-1.jpg",
       "image_caption": null,
-      "published_at": "2026-11-21T15:00:53.424884+00:00",
+      "published_at": "2026-11-21T14:12:59+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.575,
+      "importance_score": 5.25,
+      "rank_score": 2.4823,
       "sources": [
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/bangladeshi-spinning-mills-turn-to-us-farmers-to-cut-cotton-costs-industry-leaders",
-          "title": "Bangladeshi spinning mills turn to US farmers to cut cotton costs: Industry leaders",
-          "snippet": "Bangladeshi spinning mills turn to US farmers to cut cotton costs: Industry leaders"
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/bangladesh/post-1223960/",
+          "title": "সিলেট সীমান্ত থেকে বাংলাদেশি যুবককে ধরে নিয়ে গেল বিএসএফ",
+          "snippet": "সিলেট সীমান্ত থেকে বাংলাদেশি যুবককে ধরে নিয়ে গেল বিএসএফ"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822279/%E0%A6%AD%E0%A7%81%E0%A6%B2%E0%A7%87-%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%85%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF-%E2%80%98%E0%A6%AC%E0%A6%A7%E0%A6%BF%E0%A6%B0%E2%80%99",
+          "title": "ভুলে সীমান্ত অতিক্রমের পর বাংলাদেশি ‘বধির’ শ্রমিককে ধরে নিয়ে গেল বিএসএফ",
+          "snippet": "ভুলে সীমান্ত অতিক্রমের পর বাংলাদেশি ‘বধির’ শ্রমিককে ধরে নিয়ে গেল বিএসএফ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আমেরিকান তুলা সরাসরি আমদানিতে খরচ কমাতে চাইছে স্থানীয় স্পিনিং মিলগুলো",
-        "title_en": "Bangladeshi spinning mills turn to US farmers to cut cotton costs",
-        "summary_bn": "মধ্যস্বত্বভোগীদের এড়িয়ে সরাসরি মার্কিন কৃষকদের কাছ থেকে কাঁচা তুলা আমদানির মাধ্যমে খরচ ৬ শতাংশ পর্যন্ত কমাতে চাইছে বাংলাদেশের স্পিনিং মিলগুলো।",
-        "summary_en": "Bangladeshi spinning mills are moving to source raw cotton directly from American farmers, bypassing middlemen to cut costs.",
+        "title_bn": "সিলেটের বিছনাকান্দি সীমান্তে বাংলাদেশি যুবককে ধরে নিয়ে গেছে বিএসএফ",
+        "title_en": "BSF detains Bangladeshi youth at Bichnakandi border in Sylhet",
+        "summary_bn": "সিলেটে ২১ নভেম্বর গোয়াইনঘাট উপজেলার বিছনাকান্দি সীমান্তে ভারতের অভ্যন্তরে প্রবেশের অভিযোগে শাহরিয়ার নামে এক বাংলাদেশি যুবককে আটক করেছে ভারতীয় সীমান্তরক্ষী বাহিনী বিএসএফ।",
+        "summary_en": "Indian Border Security Force BSF detained a Bangladeshi youth named Shahriar after he entered Indian territory at Bichnakandi border in Sylhet on 21 November.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business"
+          "governance_law",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T15:00:53.424884+00:00",
-        "lead_bn": "মধ্যস্বত্বভোগীদের এড়িয়ে সরাসরি মার্কিন কৃষকদের কাছ থেকে কাঁচা তুলা আমদানির মাধ্যমে খরচ ৬ শতাংশ পর্যন্ত কমাতে চাইছে বাংলাদেশের স্পিনিং মিলগুলো।",
-        "lead_en": "Bangladeshi spinning mills are moving to source raw cotton directly from American farmers, bypassing middlemen to cut costs.",
+        "published_at": "2026-11-21T14:12:59+00:00",
+        "lead_bn": "সিলেটে ২১ নভেম্বর গোয়াইনঘাট উপজেলার বিছনাকান্দি সীমান্তে ভারতের অভ্যন্তরে প্রবেশের অভিযোগে শাহরিয়ার নামে এক বাংলাদেশি যুবককে আটক করেছে ভারতীয় সীমান্তরক্ষী বাহিনী বিএসএফ।",
+        "lead_en": "Indian Border Security Force BSF detained a Bangladeshi youth named Shahriar after he entered Indian territory at Bichnakandi border in Sylhet on 21 November.",
         "bullets_bn": [
-          "এনভয় গ্রুপ, স্কয়ার এবং রোজ গোল্ড কর্পোরেশনের মতো প্রধান স্থানীয় প্রস্তুতকারকরা সরাসরি তুলা কেনার বিষয়ে তীব্র আগ্রহ প্রকাশ করেছে।",
-          "আমেরিকান তুলা প্রচলিত বাজার দরের চেয়ে প্রতি পাউন্ডে প্রায় ৫ মার্কিন সেন্ট কমে সরবরাহ করা সম্ভব বলে জানিয়েছেন আসওয়ার রহমান।",
-          "আগামী দুই বছরে মাসিক চালান ১৬০০ কন্টেইনারে উন্নীত করার পরিকল্পনা রয়েছে মার্কিন সরবরাহকারী প্রতিষ্ঠানটির।"
+          "শাহরিয়ার বিছনাকান্দি ইউনিয়নের উপর গ্রামের মনির মিয়ার ছেলে এবং তার বাবা জানান যে শাহরিয়ার কানে কম শোনেন।",
+          "৪৮ বিজিবির অধিনায়ক লেফটেন্যান্ট কর্নেল নুর উদ্দিন আহমেদ জানান শাহরিয়ার অবৈধভাবে পাথর তুলতে ভারতের ভেতরে প্রবেশ করেছিলেন।",
+          "শাহরিয়ারকে বিএসএফ ধরে নিয়ে যাওয়ার পর বিষয়টি নিয়ে তাদের সঙ্গে আলোচনা চলছে বলে জানিয়েছে বিজিবি।"
         ],
         "bullets_en": [
-          "Major local manufacturers like Envoy Group, Square, and Rose Gold Corporation have expressed strong interest in direct procurement.",
-          "AmeriBangla CEO Aswar Rahman said eliminating intermediaries allows offering US cotton about five US cents per pound below prevailing rates.",
-          "The US-based supplier plans to scale monthly shipments to 1,600 containers over the next two years to meet rising demand."
+          "Shahriar is the son of Monir Miah from Upar village, and his father stated that Shahriar is hard of hearing.",
+          "48 BGB Commander Lieutenant Colonel Nur Uddin Ahmed said Shahriar entered India illegally to extract stones.",
+          "BGB stated that discussions are ongoing with the BSF following the detention of the Bangladeshi youth."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বর্তমানে প্রথাগত বাণিজ্যিক ব্যবস্থার মাধ্যমে তুলা আমদানিতে ৬০ থেকে ৯০ দিন সময় লাগে। প্রথাগত এলসি ব্যবস্থা, ভাসমান নিলাম এবং গুদামভিত্তিক বিক্রয়—এই তিন স্তরের একটি ক্রয়ের মডেল চালু করেছে অ্যামেরিকাবাংলা কর্পোরেশন। বর্তমানে টঙ্গী ও চট্টগ্রামে অংশীদার গুদাম পরিচালনা করছে প্রতিষ্ঠানটি এবং ডিএফসি-র অর্থায়নে চট্টগ্রামে মার্কিন তুলার একটি আন্তর্জাতিক মানের গুদাম নির্মাণের পরিকল্পনা রয়েছে তাদের।",
-        "details_en": "Currently importing cotton through conventional arrangements takes 60 to 90 days. To help spinners cut procurement lead times, AmeriBangla introduced a three-tier purchasing model including a conventional LC system, floating auction, and warehouse-based sales. Operating partner warehouses in Tongi and Chattogram, the firm plans to build an international-standard US cotton warehouse in Chattogram using DFC financing.",
-        "hook_bn": "মার্কিন তুলা আমদানিতে ৬ শতাংশ কম খরচ",
-        "kicker_bn": "দাম কমছে",
-        "share_value": true,
-        "question_bn": "সরাসরি তুলা আমদানির এই পদক্ষেপে পোশাক খাতের উৎপাদন খরচ কতখানি কমতে পারে বলে আপনার মনে হয়?"
+        "details_bn": "এর আগে ১৭ নভেম্বর বিছনাকান্দি পর্যটন এলাকায় বাংলাদেশের অভ্যন্তরে প্রবেশ করে পর্যটককে গালিগালাজ করার অভিযোগে অস্ত্রসহ এক বিএসএফ সদস্যকে আটক করে বিজিবি। পরে জিরো পয়েন্টে উভয় দেশের সীমান্তরক্ষী বাহিনীর অধিনায়ক পর্যায়ের পতাকা বৈঠক অনুষ্ঠিত হয়। বৈঠকের প্রায় ৭ ঘণ্টা পর আটক বিএসএফ সদস্যকে ভারতের কাছে হস্তান্তর করা হয়।",
+        "details_en": "Earlier on 17 November, BGB detained an armed BSF member who entered Bangladeshi territory in the Bichnakandi tourist area and verbally abused a tourist. A battalion commander-level flag meeting was later held at the zero point, and the detained BSF member was handed over to India nearly seven hours later.",
+        "hook_bn": "বিছনাকান্দি সীমান্তে বাংলাদেশি যুবক আটক",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
       },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "unchecked",
-        "checked_at": "2026-11-21T15:03:16.361505+00:00"
+        "checked_at": "2026-11-21T16:05:16.331170+00:00"
       }
     }
   ]
