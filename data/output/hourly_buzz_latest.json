@@ -1,135 +1,68 @@
 {
-  "updated_at": "2026-11-21T01:00:46.474745",
-  "total_stories": 6,
+  "updated_at": "2026-11-21T02:00:43.730387",
+  "total_stories": 4,
   "stories": [
     {
-      "story_id": "8c24c5f0-34bd-5344-85d7-22be6928e862",
-      "primary_category": "world_diplomacy",
+      "story_id": "bb51674c-7c7c-5909-8b92-791cae7368d8",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "world_diplomacy",
-        "economy_business"
+        "economy_business",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#SaudiArabia",
-        "#Houthi",
-        "#Riyadh"
+        "#AmirKhosruMahmudChowdhury",
+        "#BSEC",
+        "#BangladeshNationalistParty",
+        "#FinanceMinistry"
       ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182398/16102.jpg",
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182406/khosru.jpg",
       "image_caption": null,
-      "published_at": "2026-11-21T01:01:00.542174+00:00",
+      "published_at": "2026-11-21T02:00:56.766061+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.4867,
+      "importance_score": 6.0,
+      "rank_score": 3.5961,
       "sources": [
         {
           "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/bangladesh-condemns-houthi-attack-on-tower-in-saudi",
-          "title": "Bangladesh condemns Houthi attack on tower in Saudi",
-          "snippet": "Bangladesh condemns Houthi attack on tower in Saudi"
+          "url": "https://thefinancialexpress.com.bd/stock/special-probe-commission-on-bourse-irregularities-ahead",
+          "title": "Special probe commission on bourse irregularities ahead",
+          "snippet": "Special probe commission on bourse irregularities ahead"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সৌদি আরবে হুথি হামলার তীব্র নিন্দা জানিয়েছে বাংলাদেশ।",
-        "title_en": "Bangladesh condemns Houthi attack on tower in Saudi.",
-        "summary_bn": "সৌদি আরবের রিয়াদের একটি টাওয়ারে হুথি মিলিশিয়ার হামলার তীব্র নিন্দা জানিয়েছে বাংলাদেশ সরকার।",
-        "summary_en": "The Bangladesh government has strongly condemned a Houthi attack on a tower in Saudi Arabia’s Riyadh.",
+        "title_bn": "বিশেষ তদন্ত কমিশন ও সংস্কার কমিশন গঠন করবে সরকার",
+        "title_en": "Government to form special investigation and reform commissions for bourses",
+        "summary_bn": "পূর্ববর্তী সরকারের আমলে পুঁজিবাজারে সংঘটিত অনি irregularities উদঘাটনে বিশেষ তদন্ত কমিশন ও সংস্কার কমিশন গঠন করবে সরকার।",
+        "summary_en": "The government will form a special investigation commission and a reform commission to unveil capital market irregularities.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "economy_business"
+          "economy_business",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T01:01:00.542174+00:00",
-        "lead_bn": "সৌদি আরবের রিয়াদের একটি টাওয়ারে হুথি মিলিশিয়ার হামলার তীব্র নিন্দা জানিয়েছে বাংলাদেশ সরকার।",
-        "lead_en": "The Bangladesh government has strongly condemned a Houthi attack on a tower in Saudi Arabia’s Riyadh.",
+        "published_at": "2026-11-21T02:00:56.766061+00:00",
+        "lead_bn": "পূর্ববর্তী সরকারের আমলে পুঁজিবাজারে সংঘটিত অনি irregularities উদঘাটনে বিশেষ তদন্ত কমিশন ও সংস্কার কমিশন গঠন করবে সরকার।",
+        "lead_en": "The government will form a special investigation commission and a reform commission to unveil capital market irregularities.",
         "bullets_bn": [
-          "পররাষ্ট্র মন্ত্রণালয় এক বিবৃতিতে জানিয়েছে বেসামরিক স্থাপনায় এমন হামলা আঞ্চলিক নিরাপত্তার জন্য হুমকি।",
-          "বিবিসি ভেরিফাইয়ের ভিডিও ফুটেজ বিশ্লেষণে ভবনটি উল্লেখযোগ্য ক্ষতির শিকার হয়েছে বলে দেখা গেছে।",
-          "সরকার সৌদি আরবের সাথে পূর্ণ সংহতি প্রকাশ করে এই ধরনের শত্রুসুলভ কর্মকাণ্ডের তাৎক্ষণিক অবসান চেয়েছে।"
+          "অর্থমন্ত্রী আমির খসরু মাহমুদ চৌধুরী জানিয়েছেন, পুঁজিবাজার স্বাভাবিক অবস্থায় ফেরার পর বিশেষ তদন্ত কমিশন গঠন করা হবে।",
+          "বাংলাদেশ জাতীয়তাবাদী দলের নির্বাচনী ইশতেহার অনুযায়ী পুঁজিবাজার সংস্কার কমিশন গঠন করা হবে।",
+          "বাংলাদেশ সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ কমিশন গত সপ্তাহে অর্থ মন্ত্রণালয়ে চিঠি পাঠিয়ে নির্দেশনা চেয়েছে।"
         ],
         "bullets_en": [
-          "The Ministry of Foreign Affairs stated that such attacks against civilian infrastructure threaten regional security.",
-          "BBC Verify video footage analysis showed the building suffered significant damage.",
-          "The government expressed full solidarity with Saudi Arabia and called for an immediate end to hostile acts."
+          "Finance Minister Amir Khosru Mahmud Chowdhury stated that the special investigation commission will be formed after bourses return to a stable state.",
+          "A capital market reform commission will be formed in line with the election manifesto of the Bangladesh Nationalist Party.",
+          "The Bangladesh Securities and Exchange Commission sent a letter last week to the Ministry of Finance seeking directives."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "রিয়াদ শহরের কিং আব্দুল্লাহ ফাইন্যান্সিয়াল ডিস্ট্রিক্টের একটি টাওয়ার লক্ষ্য করে এই হামলা চালানো হয়। হুথিদের মুখপত্র সাবা নিউজ এজেন্সি জানিয়েছে বাণিজ্যিক জেলার এই টাওয়ারটি লক্ষ্যবস্তু করা হয়েছিল। সৌদি জ্বালানি মন্ত্রণালয় শুরুতে সামান্য ক্ষতি হওয়ার কথা জানালেও বিবিসি জানিয়েছে একটি ক্ষেপণাস্ত্র বা ড্রোন টাওয়ারের একটি তলায় আঘাত হানে এবং বেশ কয়েকটি তলার জানালা ভেঙে যায়।",
-        "details_en": "The attack targeted a tower in the King Abdullah Financial District of Riyadh. Saba News Agency, a Houthi mouthpiece, reported the tower in the commercial district was targeted. The Saudi Ministry of Energy initially described damage as minor, but the BBC reported a missile or drone struck one floor and shattered windows on several others.",
-        "hook_bn": "সৌদি আরবের টাওয়ারে হুথি হামলা",
+        "details_bn": "অর্থমন্ত্রী আমির খসরু মাহমুদ চৌধুরীর মতে, বিগত আওয়ামী লীগ সরকারের আমলে অর্থনীতির অনেক ক্ষেত্র ক্ষতিগ্রস্ত হয়েছে এবং তার প্রধান লক্ষ্য হলো পুঁজিবাজার, ব্যাংকিং খাত ও রাজস্ব ব্যবস্থা ঠিক করা। অতীতের অনিয়ম উদ্ঘাটন করা গৌণ বিষয় বলে তিনি উল্লেখ করেন।",
+        "details_en": "According to Finance Minister Amir Khosru Mahmud Chowdhury, many areas of the economy were ravaged during the Awami League regime, and his primary focus is fixing the stock market, banking sector, and revenue system while digging out past issues remains secondary.",
+        "hook_bn": "'পুঁজিবাজার ঠিক করা আমার প্রধান কাজ'",
         "kicker_bn": null,
         "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 4.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-21T01:07:54.538065+00:00"
-      }
-    },
-    {
-      "story_id": "48dbc0a7-2cd5-51b0-9056-6ce501ce6700",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness"
-      ],
-      "region": "national",
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/hasan-mahmud-injury-.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-20T16:13:26+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 2.1548,
-      "sources": [
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/sports/post-1223755/",
-          "title": "দক্ষিণ আফ্রিকার সিরিজের বাকি অংশে নেই হাসান, ফিরছেন দেশে",
-          "snippet": "দক্ষিণ আফ্রিকার সিরিজের বাকি অংশে নেই হাসান, ফিরছেন দেশে"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "দক্ষিণ আফ্রিকা সিরিজের বাকি অংশ থেকে ছিটকে গেলেন পেসার হাসান মাহমুদ",
-        "title_en": "Fast bowler Hasan Mahmud ruled out of remaining South Africa series",
-        "summary_bn": "পুরনো চোট নতুন করে মাথাচাড়া দেওয়ায় দক্ষিণ আফ্রিকা সিরিজের বাকি অংশ থেকে ছিটকে গেছেন পেসার হাসান মাহমুদ এবং তাকে দেশে ফিরিয়ে আনা হবে।",
-        "summary_en": "Pacer Hasan Mahmud has been ruled out of the rest of the South Africa series due to a recurring old injury and will be brought home.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-20T16:13:26+00:00",
-        "lead_bn": "পুরনো চোট নতুন করে মাথাচাড়া দেওয়ায় দক্ষিণ আফ্রিকা সিরিজের বাকি অংশ থেকে ছিটকে গেছেন পেসার হাসান মাহমুদ এবং তাকে দেশে ফিরিয়ে আনা হবে।",
-        "lead_en": "Pacer Hasan Mahmud has been ruled out of the rest of the South Africa series due to a recurring old injury and will be brought home.",
-        "bullets_bn": [
-          "বাংলাদেশ ক্রিকেট বোর্ড জানিয়েছে, সেঞ্চুরিয়ান টেস্টসহ সিরিজের বাকি সব ম্যাচ থেকে ছিটকে গেছেন এই পেসার।",
-          "বাংলাদেশ দলের পরবর্তী ম্যাচগুলোর আগে হাসানকে পর্যাপ্ত বিশ্রাম দিতে চায় টিম ম্যানেজমেন্ট যাতে তিনি পুরো সুস্থ হয়ে উঠতে পারেন।",
-          "চলতি সফরে দক্ষিণ আফ্রিকায় এখনো একটি টেস্ট, তিনটি ওয়ানডে ও তিনটি টি-টোয়েন্টি ম্যাচ খেলবে বাংলাদেশ।"
-        ],
-        "bullets_en": [
-          "The Bangladesh Cricket Board stated that the pacer is ruled out of the Centurion Test and all remaining matches of the series.",
-          "The team management wants to give Hasan sufficient rest before the Bangladesh team's next matches so he can fully recover.",
-          "Bangladesh will still play one Test, three ODIs, and three T20Is on the current tour of South Africa."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ডান হাতের কনুইয়ের চোটটি হাসানের পুরনো। এই চোটের কারণে গত মে মাসে ঘরের মাঠে পাকিস্তানের বিপক্ষে টেস্ট খেলতে পারেননি তিনি। অক্টোবরে আফগানিস্তানের বিপক্ষে টেস্ট খেলার সময় কনুইতে ব্যথা অনুভব করেছেন বলে জানা যায়। তারপর ঘরের মাঠে ওয়েস্ট ইন্ডিজ সিরিজ খেলে দক্ষিণ আফ্রিকায় গিয়ে আবারও সেই ব্যথা অনুভব করেন হাসান। জোহানেসবার্গ টেস্টে ব্যথা নিয়ে মাঠ ছাড়তে দেখা গেছে তাকে এবং একাধিকবার মাঠে ফিজিও ডেকে শুশ্রূষা নিতেও দেখা গেছে। সাম্প্রতিক সময়ে বল হাতে দুর্দান্ত ফর্মে থাকলেও এই চোটে বেশ ভোগাবে বাংলাদেশকে।",
-        "details_en": "Hasan suffers from an old right elbow injury. Due to this injury, he could not play the Test against Pakistan at home in May, and experienced elbow pain while playing a Test against Afghanistan in October. After playing the West Indies series at home, he felt the pain again in South Africa. He was seen leaving the field with pain in the Johannesburg Test and received treatment from the physio on the field multiple times. Although recently in great form with the ball, this injury will certainly trouble Bangladesh.",
-        "hook_bn": "দক্ষিণ আফ্রিকা সিরিজ থেকে ছিটকে গেলেন হাসান",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
+        "question_bn": "পুঁজিবাজারের বর্তমান পরিস্থিতি উন্নয়নে কোন বিষয়টিকে আপনার সবচেয়ে বেশি জরুরি বলে মনে হয়?"
       },
       "desk_importance": 6.0,
       "outlet_count": 1,
@@ -137,290 +70,210 @@
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-21T01:07:54.538065+00:00"
+        "checked_at": "2026-11-21T02:03:03.729417+00:00"
       }
     },
     {
-      "story_id": "d46b7282-5a6c-5790-833f-33e6b560a8a3",
-      "primary_category": "world_diplomacy",
+      "story_id": "7d96b3b0-32b5-550c-a178-2b462dfd4517",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy"
+        "governance_law",
+        "economy_business"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#SaudiArabia",
-        "#Riyadh"
+        "#TariqueRahman",
+        "#ArmedForcesDay",
+        "#BangladeshArmy"
       ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00dbc90b00-1795218377.jpg?resize=1920%2C1440",
+      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_31a42ef4e45b6da8baa080d14299f507.jpg",
       "image_caption": null,
-      "published_at": "2026-11-21T00:00:06+00:00",
+      "published_at": "2026-11-21T02:00:56.766061+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.8375,
+      "importance_score": 5.25,
+      "rank_score": 2.7532,
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
-          "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
-          "snippet": "Iran war live: Saudi-led coalition downs Houthi missiles"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সৌদি নেতৃত্বাধীন জোট হুথি ক্ষেপণাস্ত্র ভূপাতিত করেছে",
-        "title_en": "Saudi-led coalition downs Houthi missiles",
-        "summary_bn": "সৌদি নেতৃত্বাধীন জোট হুথিদের ছোড়া তিনটি ক্ষেপণাস্ত্র ভূপাতিত করেছে।",
-        "summary_en": "The Saudi-led coalition says it intercepted three missiles.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-21T00:00:06+00:00",
-        "lead_bn": "সৌদি নেতৃত্বাধীন জোট হুথিদের ছোড়া তিনটি ক্ষেপণাস্ত্র ভূপাতিত করেছে।",
-        "lead_en": "The Saudi-led coalition says it intercepted three missiles.",
-        "bullets_bn": [
-          "সৌদি আরব রিয়াদের জন্য জরুরি সতর্কতা জারি করেছে।",
-          "সৌদি জোটের পক্ষ থেকে তিনটি ক্ষেপণাস্ত্র ভূপাতিত করার কথা জানানো হয়েছে।",
-          "সংবাদমাধ্যম আল জাজিরার ইরান যুদ্ধ লাইভ প্রতিবেদনে এই তথ্য জানানো হয়েছে।"
-        ],
-        "bullets_en": [
-          "Saudi Arabia issues a flurry of emergency alerts for Riyadh.",
-          "The Saudi coalition says it intercepted three missiles.",
-          "Al Jazeera English reported this in its Iran war live coverage."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "রিয়াদে জরুরি সতর্কতা, ক্ষেপণাস্ত্র ভূপাতিত",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": true,
-      "social_appeal": 4.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-21T01:07:54.538065+00:00"
-      }
-    },
-    {
-      "story_id": "6af20230-cb09-51f1-b47a-f70287cba5e5",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "tech_innovation",
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#Nasdaq",
-        "#Anthropic",
-        "#AI"
-      ],
-      "image_url": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a36857abb7bd0660d819105186f898a0",
-      "image_caption": null,
-      "published_at": "2026-11-20T21:38:17+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.4754,
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-          "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
-          "snippet": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/armed-forces-symbol-of-countrys-independence-sovereignty-pride-pm",
+          "title": "Armed Forces symbol of country’s independence, sovereignty, pride: PM",
+          "snippet": "Armed Forces symbol of country’s independence, sovereignty, pride: PM"
         },
         {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-          "snippet": "Tech stock sell-off drags markets down as Anthropic shares slide"
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/national/499623",
+          "title": "সশস্ত্র বাহিনী দিবস আজ, থাকছে যেসব কর্মসূচি",
+          "snippet": "সশস্ত্র বাহিনী দিবস আজ, থাকছে যেসব কর্মসূচি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "কৃত্রিম বুদ্ধিমত্তার শেয়ার বিক্রি কমে যাওয়ায় ন্যাসডাক সূচক সব লাভ হারিয়েছে",
-        "title_en": "Nasdaq erases all gains as AI sell-off dampens Anthropic trading",
-        "summary_bn": "কৃত্রিম বুদ্ধিমত্তা খাতের শেয়ার বিক্রির চাপে নাসডাক সূচক ২০২৬ সালের সব লাভ মুছে ফেলেছে এবং বিশ্ববাজার নিমজ্জিত হয়েছে।",
-        "summary_en": "Global markets and the Nasdaq index dipped as an AI-linked sell-off erased all gains for the year 2026.",
+        "title_bn": "সশস্ত্র বাহিনী দেশের স্বাধীনতা ও সার্বভৌমত্বের প্রতীক বলে মন্তব্য করেছেন প্রধানমন্ত্রী।",
+        "title_en": "Armed Forces symbol of country’s independence and sovereignty, says Prime Minister.",
+        "summary_bn": "প্রধানমন্ত্রী তারিক রহমান সশস্ত্র বাহিনীকে দেশের স্বাধীনতা, সার্বভৌমত্ব ও মর্যাদার প্রতীক হিসেবে বর্ণনা করেছেন।",
+        "summary_en": "Prime Minister Tarique Rahman has described the Armed Forces as a symbol of the country's independence and sovereignty.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "tech_innovation",
-          "world_diplomacy"
+          "governance_law",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-20T21:38:17+00:00",
-        "lead_bn": "কৃত্রিম বুদ্ধিমত্তা খাতের শেয়ার বিক্রির চাপে নাসডাক সূচক ২০২৬ সালের সব লাভ মুছে ফেলেছে এবং বিশ্ববাজার নিমজ্জিত হয়েছে।",
-        "lead_en": "Global markets and the Nasdaq index dipped as an AI-linked sell-off erased all gains for the year 2026.",
+        "published_at": "2026-11-21T02:00:56.766061+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারিক রহমান সশস্ত্র বাহিনীকে দেশের স্বাধীনতা, সার্বভৌমত্ব ও মর্যাদার প্রতীক হিসেবে বর্ণনা করেছেন।",
+        "lead_en": "Prime Minister Tarique Rahman has described the Armed Forces as a symbol of the country's independence and sovereignty.",
         "bullets_bn": [
-          "ক্লড চ্যাটবটের প্রস্তুতকারক কৃত্রিম বুদ্ধিমত্তা প্রতিষ্ঠান অ্যানথ্রিপিকের শেয়ারের দাম ৯ শতাংশ কমে ৮৮ দশমিক ৩০ ডলারে নেমেছে।",
-          "যুক্তরাষ্ট্রের প্রযুক্তি খাতের শেয়ারের পতন ঘটেছে এবং স্যান্ডিস্ক ১৪ শতাংশ ও মাইক্রন ১২ শতাংশ কমেছে।",
-          "তাইওয়ানের শেয়ারবাজার ৬ দশমিক ৭ শতাংশ কমে এপ্রিলের মাঝামাঝি সময়ের সর্বনিম্নে পৌঁছেছে।"
+          "তারিক রহমান এক বাণীতে সশস্ত্র বাহিনীর সদস্যদের আন্তরিক শুভেচ্ছা ও অভিনন্দন জানিয়েছেন।",
+          "১৯৭১ সালের ২১ নভেম্বর সেনা, নৌ ও বিমান বাহিনীর সদস্যরা যৌথভাবে পাল্টা আক্রমণ চালিয়েছিলেন।",
+          "মেজর জিয়াউর রহমান বাংলাদেশের স্বাধীনতা ঘোষণা করেছিলেন বলে তিনি উল্লেখ করেছেন।"
         ],
         "bullets_en": [
-          "Shares in frontier AI company Anthropic fell by 9 percent to $88.30 during its second day of trading.",
-          "US technology stocks followed Anthropic down, with SanDisk falling 14 percent and Micron down 12 percent.",
-          "Taiwan stocks dropped 6.7 percent to hit their lowest point since mid-April amid a global market slump."
+          "Tarique Rahman extended sincere greetings and congratulations to all members of the Armed Forces.",
+          "On November 21, 1971, members of the Army, Navy and Air Force jointly launched a counter-offensive.",
+          "He mentioned that Major Ziaur Rahman proclaimed Bangladesh's independence."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "অ্যানথ্রিপিকের রেকর্ড ভাঙা আইপিওর পরও কৃত্রিম বুদ্ধিমত্তা খাতের কোম্পানিগুলোর বৈশ্বিক শেয়ার বিক্রি ঠেকানো যায়নি। এর ফলে চলতি সপ্তাহে প্রযুক্তিপ্রধান নাসডাক প্রায় চার ট্রিলিয়ন ডলার বাজারমূল্য হারিয়েছে। সাক্সোর ইউকে বিনিয়োগকারী কৌশলবিদ নিল উইলসন জানান, প্রযুক্তিতে মাত্র একটানা বিক্রি চলছে। এছাড়া এশিয়ার স্টক বাজারগুলো ২০২০ সালের পর থেকে তাদের সবচেয়ে খারাপ সপ্তাহ রেকর্ড করেছে। তাইওয়ান স্টক এক্সচেঞ্জের প্রধান মূলধন বাজারের স্থিতিশীল অপারেশন নিশ্চিত করার প্রতিশ্রুতি দিয়েছেন।",
-        "details_en": "Anthropic's record-breaking IPO failed to stem a global sell-off in AI-linked companies, erasing some $4tn in market value this week on the tech-heavy Nasdaq. Saxo UK investor strategist Neil Wilson stated there was relentless selling in tech. Asian stock markets recorded their worst week since 2020. The chair of the Taiwan stock exchange pledged to ensure the stable operation of capital markets following a 6.7 percent drop.",
-        "hook_bn": "প্রযুক্তিতে শুধু একটানা বিক্রি চলছে",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": true,
-      "social_appeal": 3.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-21T01:07:54.538065+00:00"
-      }
-    },
-    {
-      "story_id": "64ad4479-2a36-54a7-8107-1818f2ab5d94",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business",
-        "governance_law"
-      ],
-      "region": "international",
-      "tags": [
-        "#Bayer",
-        "#Roundup",
-        "#Monsanto"
-      ],
-      "image_url": "https://i.guim.co.uk/img/media/efbc188d676f119c98b60ce20d212a75264e7757/483_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5edeaf13f200c4f950da4fc630d80c08",
-      "image_caption": null,
-      "published_at": "2026-11-20T23:42:43+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.3061,
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
-          "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
-          "snippet": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer"
-        },
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/us-judge-approves-bayer-s-7-25-billion-cancer-settlement/a-80007474?maca=en-rss-en-all-1573-rdf",
-          "title": "US judge approves Bayer's $7.25 billion cancer settlement",
-          "snippet": "US judge approves Bayer's $7.25 billion cancer settlement"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বায়ারের ৭ দশমিক ২৫ বিলিয়ন ডলারের ক্যানসার নিষ্পত্তি অনুমোদন বিচারকের",
-        "title_en": "Judge approves Bayer 7.25bn dollar cancer settlement",
-        "summary_bn": "যুক্তরাষ্ট্রের এক বিচারক বায়ারের ৭ দশমিক ২৫ বিলিয়ন ডলারের ক্যানসার নিষ্পত্তি অনুমোদন করেছেন, যার ফলে রাউন্ডআপ আগাছানাশক সংক্রান্ত মামলা সমাধান হতে পারে।",
-        "summary_en": "A US judge approved Bayer's 7.25bn dollar settlement to resolve lawsuits alleging that its Roundup weedkiller causes cancer.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-20T23:42:43+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের এক বিচারক বায়ারের ৭ দশমিক ২৫ বিলিয়ন ডলারের ক্যানসার নিষ্পত্তি অনুমোদন করেছেন, যার ফলে রাউন্ডআপ আগাছানাশক সংক্রান্ত মামলা সমাধান হতে পারে।",
-        "lead_en": "A US judge approved Bayer's 7.25bn dollar settlement to resolve lawsuits alleging that its Roundup weedkiller causes cancer.",
-        "bullets_bn": [
-          "সেন্ট লুইসের আদালতের বিচারক টিমোথি বয়ার নিষ্পত্তিটিকে ন্যায্য, সংগত ও পর্যাপ্ত বলে মনে করেছেন।",
-          "বায়ারের প্রধান নির্বাহী বিল অ্যান্ডারসন বলেছেন আদালতের চূড়ান্ত অনুমোদন একটি নিষ্পত্তিমূলক মাইলফলক।",
-          "বায়ার বাড়ি বা কর্মক্ষেত্রে রাউন্ডআপ ব্যবহারের পর ক্যানসারে আক্রান্ত হওয়া মানুষের প্রায় ৬৫,০০০ দাবির মুখোমুখি হয়েছিল।"
-        ],
-        "bullets_en": [
-          "Judge Timothy Boyer of a state court in St Louis found the settlement fair, reasonable and adequate.",
-          "Bayer CEO Bill Anderson said the court final approval is a decisive milestone in the company strategy.",
-          "Bayer had faced approximately 65,000 claims from people who said they developed cancer after using Roundup."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বায়ার ২০১৮ সালে ৬৩ বিলিয়ন ডলারে আগাছানাশক উৎপাদনকারী প্রতিষ্ঠান মনসান্তোকে কেনার পর থেকে শেয়ারের দাম ৪৬ শতাংশ কমেছে এবং জার্মান কোম্পানিটি প্রায় এক দশক ধরে এই মামলার চাপের মধ্যে ছিল। নিষ্পত্তির ঘোষণাটি ২০২৪ সালের ফেব্রুয়ারিতে দেওয়া হয়েছিল এবং এটি মার্কিন আদালতে বর্তমান ও ভবিষ্যৎ সব রাউন্ডআপ দাবি মীমাংসার লক্ষ্য নিয়েছিল।",
-        "details_en": "Bayer had seen its share price fall 46% since it bought Monsanto, which produces the weedkiller, for 63bn dollars in 2018. The settlement announced in February aimed to resolve nearly all current and future Roundup claims in the US after the company faced litigation for close to a decade.",
-        "hook_bn": "বায়ারের ৭ দশমিক ২৫ বিলিয়ন ডলারের ক্যানসার নিষ্পত্তি",
-        "kicker_bn": "রায় ঘোষণা",
+        "details_bn": "সশস্ত্র বাহিনী দিবস উপলক্ষে দেওয়া বাণীতে প্রধানমন্ত্রী ১৯৭১ সালের মুক্তিযুদ্ধের সময় সশস্ত্র বাহিনীর ঐতিহাসিক ভূমিকার কথা স্মরণ করেন। তিনি বলেন, ২১ নভেম্বর ১৯৭১ সালে যুদ্ধের এক সংকটময় মুহূর্তে সশস্ত্র বাহিনী ও মুক্তি বাহিনী যৌথ অভিযান চালায়, যা যুদ্ধকে নতুন মাত্রা দিয়েছিল।",
+        "details_en": "In a message issued on the occasion of Armed Forces Day, the Prime Minister recalled the historic role of the Armed Forces during the 1971 Liberation War. He stated that on November 21, 1971, at a critical juncture of the war, the forces launched a joint offensive that gave a new dimension to operations.",
+        "hook_bn": "সশস্ত্র বাহিনী দেশের স্বাধীনতা ও সার্বভৌমত্বের প্রতীক",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 5.0,
       "outlet_count": 2,
       "trending": false,
-      "social_appeal": 3.0,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-21T01:07:54.538065+00:00"
+        "checked_at": "2026-11-21T02:03:03.729417+00:00"
       }
     },
     {
-      "story_id": "487fed67-898c-598b-95e2-595cad9a86ef",
-      "primary_category": "world_diplomacy",
+      "story_id": "a5c832d7-55b0-51be-9797-08e8c372e24a",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "world_diplomacy",
         "economy_business"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#BalendraShah",
-        "#NarendraModi",
-        "#Nepal",
-        "#India"
+        "#BangladeshRailway",
+        "#MohammadFahimulIslam",
+        "#RailBhaban"
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ce4/live/0cd0ed60-e3e9-11f1-a16c-7de3762c094b.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/10/16/railway_india.jpg",
       "image_caption": null,
-      "published_at": "2026-11-20T23:28:17+00:00",
+      "published_at": "2026-11-21T01:20:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 5.0,
-      "rank_score": 2.2743,
+      "rank_score": 2.4008,
       "sources": [
         {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
-          "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
-          "snippet": "A new Nepal, an old neighbour - Balendra Shah's India test"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/transport/railway-plans-dollar-based-charges-container-transport-1609151",
+          "title": "Railway plans dollar-based charges for container transport",
+          "snippet": "Railway plans dollar-based charges for container transport"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ভারত সফরে গেছেন নেপালের প্রধানমন্ত্রী বালেন্দ্র শাহ",
-        "title_en": "Nepal Prime Minister Balendra Shah visits India",
-        "summary_bn": "নেপালের প্রধানমন্ত্রী বালেন্দ্র শাহ দুই দিনের সফরে ভারতে পৌঁছেছেন, যা দুই দেশের নতুন রাজনৈতিক প্রজন্মের মধ্যে প্রথম উচ্চপর্যায়ের বৈঠক।",
-        "summary_en": "Nepal Prime Minister Balendra Shah has arrived in India for a two-day visit, marking the first high-level engagement between the new political generations.",
+        "title_bn": "বাংলাদেশ রেলওয়ে মার্কিন ডলারে কনটেইনার পরিবহনের ভাড়া নির্ধারণের পরিকল্পনা করছে।",
+        "title_en": "Bangladesh Railway plans to calculate container transport charges in US dollars.",
+        "summary_bn": "আয় বাড়াতে এবং আয়-ব্যয়ের ব্যবধান কমাতে মার্কিন ডলারের বিনিময় হরে রেলপথে কনটেইনার পরিবহনের চার্জ নির্ধারণের পরিকল্পনা করছে বাংলাদেশ রেলওয়ে।",
+        "summary_en": "Bangladesh Railway plans to calculate charges for transporting import- and export-bound containers by rail based on the US dollar exchange rate.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-20T23:28:17+00:00",
-        "lead_bn": "নেপালের প্রধানমন্ত্রী বালেন্দ্র শাহ দুই দিনের সফরে ভারতে পৌঁছেছেন, যা দুই দেশের নতুন রাজনৈতিক প্রজন্মের মধ্যে প্রথম উচ্চপর্যায়ের বৈঠক।",
-        "lead_en": "Nepal Prime Minister Balendra Shah has arrived in India for a two-day visit, marking the first high-level engagement between the new political generations.",
+        "published_at": "2026-11-21T01:20:00+00:00",
+        "lead_bn": "আয় বাড়াতে এবং আয়-ব্যয়ের ব্যবধান কমাতে মার্কিন ডলারের বিনিময় হরে রেলপথে কনটেইনার পরিবহনের চার্জ নির্ধারণের পরিকল্পনা করছে বাংলাদেশ রেলওয়ে।",
+        "lead_en": "Bangladesh Railway plans to calculate charges for transporting import- and export-bound containers by rail based on the US dollar exchange rate.",
         "bullets_bn": [
-          "দিল্লিতে ভারতের প্রধানমন্ত্রী নরেন্দ্র মোদি ও অন্যান্য জ্যেষ্ঠ কর্মকর্তাদের সঙ্গে বৈঠক করবেন বালেন্দ্র শাহ।",
-          "আলোচনায় অর্থনৈতিক ও জ্বালানি সহযোগিতা এবং নতুন বিমান করিডোর খোলার বিষয়টি অন্তর্ভুক্ত রয়েছে।",
-          "আগস্টে নেপালে আঘাত হানা আকস্মিক বন্যায় ১ হাজার ৪৫০ জনের বেশি মানুষের মৃত্যু হয়েছে।"
+          "১৯৯২ সাল থেকে টাকার পরিমাণ বাড়লেও ডলারের হিসাবে কনটেইনার ভাড়ায় পতন ঘটেছে বলে একটি রেলওয়ে কমিটি জানিয়েছে।",
+          "দূরত্বভিত্তিক মালবাহী ছাড় তুলে নেওয়া এবং সেতু ও কালভার্টের জন্য অতিরিক্ত চার্জ আরোপের সুপারিশ করা হয়েছে।",
+          "রেলওয়ে সচিব মোহাম্মদ ফাহিমুল ইসলাম জানান যে আয় ও ব্যয়ের ব্যবধান কমাতে তারা এই উদ্যোগ নিয়েছেন।"
         ],
         "bullets_en": [
-          "Shah will meet Indian Prime Minister Narendra Modi and other senior officials in Delhi.",
-          "Talks are expected to cover economic and energy cooperation and the opening of new air corridors.",
-          "Devastating flash floods in August killed more than 1,450 people in the Himalayan nation."
+          "A railway committee reported that container freight charges have declined in dollar terms since 1992 despite taka increases.",
+          "The report recommends withdrawing distance-based freight discounts and imposing additional charges for bridges and culverts.",
+          "Railway Secretary Mohammad Fahimul Islam said they have taken initiatives to narrow the gap between income and expenditure."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "মার্চ মাসে রাষ্ট্রীয় স্বতন্ত্র পার্টি ক্ষমতায় আসার পর এটি বালেন্দ্র শাহের প্রথম দ্বিপক্ষীয় সফর। এর ছয় মাস আগে দুর্নীতি ও স্বজনপ্রীতির বিরুদ্ধে জেন জি অভ্যুত্থানে কে পি শর্মা অলির সরকার পতন ঘটে। ভারত ও নেপালের মধ্যে ১ হাজার ৭৫০ কিলোমিটারের বেশি উন্মুক্ত সীমান্ত রয়েছে এবং দুই দেশের মধ্যে ঘনিষ্ঠ জাতিগত, সাংস্কৃতিক ও অর্থনৈতিক সম্পর্ক রয়েছে।",
-        "details_en": "It is Shah's first bilateral visit since his Rastriya Swatantra Party swept to power in March, following a Gen Z uprising against K P Sharma Oli's government. India and Nepal share an open border stretching more than 1,750km with close ethnic and economic ties.",
-        "hook_bn": "দিল্লিতে প্রধানমন্ত্রী নরেন্দ্র মোদির সঙ্গে বৈঠক",
+        "details_bn": "১ সেপ্টেম্বর ডিরেক্টর জেনারেলের সভাপতিত্বে অনুষ্ঠিত মাসিক অপারেশনাল রিভিউ সভায় এই উদ্যোগ নেওয়া হয়। বিদ্যমান মালবাহী হার পর্যালোচনা করতে এবং লোড করা ও খালি কনটেইনারের জন্য ডলারে চার্জ সুপারিশ করতে ৬ অক্টোবর চার সদস্যের একটি কমিটি গঠিত হয়। পুঙ্খানুপুঙ্খ পর্যালোচনার পর গত ২৩ এপ্রিল প্রতিবেদনটি চূড়ান্ত অনুমোদনের জন্য রেল ভবনে পাঠানো হয়।",
+        "details_en": "The initiative was taken at a monthly operational review meeting chaired by the director general on 1 September. A four-member committee was formed on 6 October to review freight rates and recommend dollar-based charges. After scrutiny, the report was sent to Rail Bhaban for final approval on 23 April.",
+        "hook_bn": "ডলারে কনটেইনার ভাড়া নির্ধারণের পরিকল্পনা রেলওয়ের",
+        "kicker_bn": "নতুন নিয়ম",
+        "share_value": false,
+        "question_bn": "ডলারে কনটেইনার ভাড়া নির্ধারণের এই পদক্ষেপে রেলওয়ের সেবার মানে কী ধরনের পরিবর্তন আসতে পারে বলে আপনার মনে হয়?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-21T02:03:03.729417+00:00"
+      }
+    },
+    {
+      "story_id": "bea70cd2-35c3-5666-93a3-0ad14ef578f7",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#Peru",
+        "#Earthquake",
+        "#Andes"
+      ],
+      "image_url": "https://th-i.thgim.com/public/incoming/p4oads/article71727131.ece/alternates/LANDSCAPE_1200/Screenshot%202434.png",
+      "image_caption": null,
+      "published_at": "2026-11-21T01:43:40+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4561,
+      "sources": [
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/peru-andes-earthquake-toll-updates-november-21-2026/article71727128.ece",
+          "title": "Magnitude 6.9 earthquake shakes Peru’s Andes, with no damage or casualties immediately reported",
+          "snippet": "Magnitude 6.9 earthquake shakes Peru’s Andes, with no damage or casualties immediately reported"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পেরুর আন্দিজ অঞ্চলে ৬.৯ মাত্রার ভূমিকম্প আঘাত হেনেছে",
+        "title_en": "Magnitude 6.9 earthquake shakes Peru Andes",
+        "summary_bn": "পেরুর মধ্য আন্দিজ অঞ্চলে একটি শক্তিশালী ভূমিকম্প আঘাত হেনেছে এবং তাৎক্ষণিকভাবে কোনো ক্ষয়ক্ষতি বা হতাহতের খবর পাওয়া যায়নি।",
+        "summary_en": "A magnitude 6.9 earthquake shook the Andes in central Peru on Friday with no immediate reports of damage or casualties.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-21T01:43:40+00:00",
+        "lead_bn": "পেরুর মধ্য আন্দিজ অঞ্চলে একটি শক্তিশালী ভূমিকম্প আঘাত হেনেছে এবং তাৎক্ষণিকভাবে কোনো ক্ষয়ক্ষতি বা হতাহতের খবর পাওয়া যায়নি।",
+        "lead_en": "A magnitude 6.9 earthquake shook the Andes in central Peru on Friday with no immediate reports of damage or casualties.",
+        "bullets_bn": [
+          "মার্কিন ভূতাত্ত্বিক জরিপ সংস্থা জানিয়েছে, ভূমিকম্পটির কেন্দ্রস্থল ছিল জুনিন থেকে ৩৪ কিলোমিটার উত্তরে এবং ১০৮ কিলোমিটার গভীরে।",
+          "পেরুর ভূভৌতিক ইনস্টিটিউট জানিয়েছে, এই ভূমিকম্পে কোনো ক্ষয়ক্ষতি বা হতাহতের খবর পাওয়া যায়নি।",
+          "রাজধানী লিমায় এই ভূকম্পন অনুভূত হলে বাসিন্দারা ভয়ে রাস্তায় বেরিয়ে আসে।"
+        ],
+        "bullets_en": [
+          "The U.S. Geological Survey said the epicenter was 34 kilometers north of Junin at a depth of 108 kilometers.",
+          "Peru's Geophysical Institute said no damage or casualties had been reported.",
+          "The earthquake was felt in the capital, prompting residents to rush into the streets."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "পেরু প্রশান্ত মহাসাগরীয় অববাহিকার আগ্নেয়গিরি ও ফল্ট লাইন সংলগ্ন ৪০ হাজার কিলোমিটার দীর্ঘ রিং অব ফায়ারের ওপর অবস্থিত, যেখানে বিশ্বের বেশিরভাগ ভূমিকম্প ঘটে। এর আগে আগস্ট মাসে পেরুর আন্দিজ অঞ্চলে ৬.৭ মাত্রার এক ভূমিকম্পে দুজন আহত এবং বেশ কিছু বাড়িঘর ক্ষতিগ্রস্ত হয়েছিল। এছাড়া জুলাই মাসে জুনিন অঞ্চলে ৫.৫ মাত্রার আরেকটি ভূমিকম্পে ছয়জনের মৃত্যু ও ৩০ জন আহত হয়েছিল।",
+        "details_en": "Peru lies along the Ring of Fire, a 40,000-kilometre arc of volcanoes and fault lines around the Pacific Basin where most earthquakes occur. In August, a 6.7-magnitude quake left two people injured and damaged homes, while a July quake of 5.5 magnitude in Junin resulted in six deaths and 30 injuries.",
+        "hook_bn": "পেরুর আন্দিজ অঞ্চলে ভূমিকম্প আঘাত হেনেছে",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
@@ -428,10 +281,10 @@
       "desk_importance": 5.0,
       "outlet_count": 1,
       "trending": false,
-      "social_appeal": 3.0,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-21T01:07:54.538065+00:00"
+        "checked_at": "2026-11-21T02:03:03.729417+00:00"
       }
     }
   ]
