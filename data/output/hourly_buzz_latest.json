@@ -1,230 +1,157 @@
 {
-  "updated_at": "2026-11-21T04:00:40.023876",
-  "total_stories": 3,
+  "updated_at": "2026-11-21T05:00:44.325467",
+  "total_stories": 2,
   "stories": [
     {
-      "story_id": "f8b101fe-1d15-5840-851e-4216596f859f",
-      "primary_category": "society_education",
+      "story_id": "24286f0a-1a07-5a15-8c9c-217c112677c6",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "society_education",
-        "economy_business",
         "governance_law"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
-        "#NationalAffairs"
+        "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1708481686679-1bfebe1afefc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFnbGElMjBtb3NxdWUlMjBkb25hdGlvbiUyMGJveGVzJTIwZWR1Y2F0aW9ufGVufDF8MHx8fDE3OTUyMzM2NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-21%2Fethnnnlx%2FWhatsApp-Image-2026-11-21-at-10.21.12-AM.jpeg?rect=0%2C0%2C1152%2C605&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-21T03:07:17+00:00",
+      "published_at": "2026-11-21T04:07:46+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.7089,
+      "importance_score": 9.0,
+      "rank_score": 7.6867,
       "sources": [
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822154/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A7%AB-%E0%A6%AE%E0%A6%BE%E0%A6%B8-%E0%A6%AA%E0%A6%B0-%E0%A6%96%E0%A7%8B%E0%A6%B2%E0%A6%BE-%E0%A6%B9%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%97%E0%A6%B2%E0%A6%BE-%E0%A6%AE%E0%A6%B8%E0%A6%9C%E0%A6%BF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B8",
-          "title": "প্রায় ৫ মাস পর খোলা হয়েছে পাগলা মসজিদের দানবাক্স, চলছে গণনা",
-          "snippet": "প্রায় ৫ মাস পর খোলা হয়েছে পাগলা মসজিদের দানবাক্স, চলছে গণনা"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/e5xzut6nj9",
+          "title": "ঢাকা ও গোপালগঞ্জসহ ৮ জেলায় ৯০ প্লাটুন বিজিবি, থাকবে বডি–ওর্ন ক্যামেরা, ওড়ানো হবে ড্রোন",
+          "snippet": "ঢাকা ও গোপালগঞ্জসহ ৮ জেলায় ৯০ প্লাটুন বিজিবি, থাকবে বডি–ওর্ন ক্যামেরা, ওড়ানো হবে ড্রোন"
         },
         {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/country/499644",
-          "title": "পাগলা মসজিদে দানের নতুন রেকর্ড, দানবাক্সে মিলল ৫১ বস্তা টাকা",
-          "snippet": "পাগলা মসজিদে দানের নতুন রেকর্ড, দানবাক্সে মিলল ৫১ বস্তা টাকা"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/90-platoons-bgb-deployed-dhaka-several-districts-maintain-law-and-order-1609211",
+          "title": "90 platoons of BGB deployed in Dhaka, several districts to maintain law and order",
+          "snippet": "90 platoons of BGB deployed in Dhaka, several districts to maintain law and order"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425296/90-bgb-platoons-deployed-in-seven-districts",
+          "title": "90 BGB platoons deployed in seven districts",
+          "snippet": "90 BGB platoons deployed in seven districts"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822162/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B8%E0%A6%B9-%E0%A6%86%E0%A6%9F-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A7%AF%E0%A7%A6-%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%9F%E0%A7%81%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%BF-%E0%A6%AE%E0%A7%8B%E0%A6%A4%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%A8-%E0%A6%93%E0%A6%A1%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A7%8B",
+          "title": "ঢাকাসহ আট জেলায় ৯০ প্লাটুন বিজিবি মোতায়েন, ওড়ানো হবে ড্রোন",
+          "snippet": "ঢাকাসহ আট জেলায় ৯০ প্লাটুন বিজিবি মোতায়েন, ওড়ানো হবে ড্রোন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "প্রায় পাঁচ মাস পর খোলা হয়েছে পাগলা মসজিদের দানবাক্স",
-        "title_en": "Pagla mosque donation boxes opened after nearly five months",
-        "summary_bn": "প্রায় পাঁচ মাস পর কিশোরগঞ্জের ঐতিহাসিক পাগলা মসজিদের দানবাক্স খোলা হয়েছে এবং ৫১ বস্তা টাকা পাওয়া গেছে।",
-        "summary_en": "Pagla mosque donation boxes were opened in Kishoreganj after nearly five months, revealing 51 sacks of money.",
+        "title_bn": "আইনশৃঙ্খলা রক্ষায় আট জেলায় ৯০ প্লাটুন বিজিবি মোতায়েন",
+        "title_en": "Ninety platoons of BGB deployed in eight districts to maintain law and order",
+        "summary_bn": "আইনশৃঙ্খলা পরিস্থিতি নিয়ন্ত্রণ ও জননিরাপত্তা নিশ্চিত করতে ঢাকা মহানগর ও গোপালগঞ্জসহ দেশের আট জেলায় ৯০ প্লাটুন বিজিবি মোতায়েন করা হয়েছে।",
+        "summary_en": "Ninety platoons of Border Guard Bangladesh have been deployed in eight districts including Dhaka and Gopalganj to control law and order.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
-          "economy_business",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T03:07:17+00:00",
-        "lead_bn": "প্রায় পাঁচ মাস পর কিশোরগঞ্জের ঐতিহাসিক পাগলা মসজিদের দানবাক্স খোলা হয়েছে এবং ৫১ বস্তা টাকা পাওয়া গেছে।",
-        "lead_en": "Pagla mosque donation boxes were opened in Kishoreganj after nearly five months, revealing 51 sacks of money.",
+        "published_at": "2026-11-21T04:07:46+00:00",
+        "lead_bn": "আইনশৃঙ্খলা পরিস্থিতি নিয়ন্ত্রণ ও জননিরাপত্তা নিশ্চিত করতে ঢাকা মহানগর ও গোপালগঞ্জসহ দেশের আট জেলায় ৯০ প্লাটুন বিজিবি মোতায়েন করা হয়েছে।",
+        "lead_en": "Ninety platoons of Border Guard Bangladesh have been deployed in eight districts including Dhaka and Gopalganj to control law and order.",
         "bullets_bn": [
-          "সকাল সাতটায় জেলা প্রশাসক ও পাগলা মসজিদ পরিচালনা কমিটির সভাপতি সোহানা নাসরিন এবং সংসদ সদস্য মো. মাজহারুল ইসলামের উপস্থিতিতে তালা খোলা হয়।",
-          "দানবাক্সে পাওয়া টাকা বস্তায় ভরে মসজিদ কমপ্লেক্সের দ্বিতীয় তলায় নেওয়া হয়েছে।",
-          "মসজিদ কমপ্লেক্সের দ্বিতীয় তলায় দিনব্যাপী টাকা গণনার কাজ চলছে।"
+          "স্বরাষ্ট্র মন্ত্রণালয়ের নির্দেশক্রমে মোতায়েন করা বিজিবি সদস্যরা জেলা প্রশাসন ও আইনশৃঙ্খলা রক্ষাকারী অন্যান্য বাহিনীর সঙ্গে সমন্বয় করে দায়িত্ব পালন করবেন।",
+          "ঢাকা জেলায় ১৮ প্লাটুন, ঢাকা মহানগরে ৫ প্লাটুন, নারায়ণগঞ্জে ৬ প্লাটুন, গাজীপুরে ১৫ প্লাটুন এবং গোপালগঞ্জে ২৯ প্লাটুন বিজিবি দায়িত্ব পালন করছে।",
+          "ময়মনসিংহে ২ প্লাটুন, ফরিদপুরে ৫ প্লাটুন এবং কক্সবাজারে ৬ প্লাটুন বিজিবি সদস্য দায়িত্ব পালন করছেন এবং চার প্লাটুন প্রস্তুত রাখা হয়েছে।"
         ],
         "bullets_en": [
-          "The locks were opened in the presence of Deputy Commissioner Sohana Nasrin and Member of Parliament Md. Mazharul Islam.",
-          "The money found in the donation boxes was put into sacks and taken to the second floor of the mosque complex.",
-          "Counting of the money is ongoing throughout the day on the second floor of the mosque complex."
+          "Deployed BGB members will perform duties in coordination with district administrations and other law enforcement agencies under the directives of the Ministry of Home Affairs.",
+          "Eighteen platoons in Dhaka district, five in Dhaka metropolitan, six in Narayanganj, fifteen in Gazipur, and twenty-nine in Gopalganj are performing duties.",
+          "Two platoons in Mymensingh, five in Faridpur, and six in Cox's Bazar are on duty while four platoons are kept on standby."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "পাগলা মসজিদের দানবাক্সে মিলল ৫১ বস্তা টাকা",
-        "kicker_bn": null,
+        "details_bn": "বিজিবির সংবাদ বিজ্ঞপ্তিতে জানানো হয়, সংশ্লিষ্ট জেলাগুলোর গুরুত্বপূর্ণ স্থাপনা, শিল্পাঞ্চল ও অন্যান্য গুরুত্বপূর্ণ স্থানে নিরাপত্তা ও নজরদারি জোরদার করা হবে। মাঠপর্যায়ের পরিস্থিতি পর্যবেক্ষণের জন্য ড্রোন, বডি-ওয়র্ন ক্যামেরা ও অন্যান্য প্রযুক্তির লাইভ ফুটেজ পর্যবেক্ষণ করা হচ্ছে।",
+        "details_en": "According to a BGB press release, security and surveillance will be strengthened at key installations, industrial zones, and other important locations in the respective districts. Live footage from drones, body-worn cameras, and other technologies is being monitored to observe field-level situations.",
+        "hook_bn": "আট জেলায় ৯০ প্লাটুন বিজিবি মোতায়েন",
+        "kicker_bn": "সতর্কতা",
         "share_value": false,
-        "question_bn": null
+        "question_bn": "আপনার এলাকায় আইনশৃঙ্খলা পরিস্থিতি কেমন দেখছেন?"
       },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
+      "desk_importance": 8.0,
+      "outlet_count": 4,
+      "trending": true,
       "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-21T04:01:30.949934+00:00"
+        "checked_at": "2026-11-21T05:02:56.409202+00:00"
       }
     },
     {
-      "story_id": "04a6cb61-2c4e-5e00-8976-82847d822893",
-      "primary_category": "world_diplomacy",
+      "story_id": "ff9aa314-4454-5f77-b141-bf29aeaddde6",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "world_diplomacy"
+        "economy_business"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#SaudiArabia",
-        "#Houthi",
-        "#Riyadh",
-        "#Yemen"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-07-11%2Fb5x566pl%2FBusiness-2.jpg?rect=0%2C111%2C1561%2C820&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-21T03:21:27+00:00",
+      "published_at": "2026-11-21T04:00:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 4.0666,
+      "importance_score": 7.0,
+      "rank_score": 4.6153,
       "sources": [
         {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/saudi-led-coalition-says-downed-3-houthi-missiles-headed-for-riyadh/article71727179.ece",
-          "title": "Saudi-led coalition says downed 3 Houthi missiles headed for Riyadh",
-          "snippet": "Saudi-led coalition says downed 3 Houthi missiles headed for Riyadh"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/middle-east/982288/%E0%A6%B9%E0%A7%81%E0%A6%A5%E0%A6%BF-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%98%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A7%A8%E0%A7%AA-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A7%9F-%E0%A6%95%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%8B",
-          "title": "হুথি হামলা ঘিরে ২৪ ঘণ্টায় কতবার সতর্কতা জারি করলো সৌদি আরব?",
-          "snippet": "হুথি হামলা ঘিরে ২৪ ঘণ্টায় কতবার সতর্কতা জারি করলো সৌদি আরব?"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/business/industry/s9ytnyqzr8",
+          "title": "চামড়া পণ্য ও জুতা কারখানার শ্রমিকের ন্যূনতম মজুরি বাড়ল ৪,৮০০ টাকা",
+          "snippet": "চামড়া পণ্য ও জুতা কারখানার শ্রমিকের ন্যূনতম মজুরি বাড়ল ৪,৮০০ টাকা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সৌদি নেতৃত্বাধীন জোট রিয়াদমুখী তিনটি হুথি ক্ষেপণাস্ত্র ধ্বংস করেছে।",
-        "title_en": "Saudi-led coalition downs three Houthi missiles headed for Riyadh.",
-        "summary_bn": "সৌদি আরব জানিয়েছে যে তারা রিয়াদ অভিমুখে ছোড়া হুথিদের তিনটি ক্ষেপণাস্ত্র ধ্বংস করেছে, যার আগে রাজধানীজুড়ে বিস্ফোরণের শব্দ শোনা গিয়েছিল।",
-        "summary_en": "Saudi Arabia said it destroyed three Houthi missiles headed for Riyadh, following reports of explosions heard across the capital.",
+        "title_bn": "চামড়াপণ্য ও জুতা কারখানার শ্রমিকের ন্যূনতম মজুরি বেড়েছে ৪ হাজার ৮০০ টাকা",
+        "title_en": "Leather goods and footwear factory workers' minimum wage increased by 4,800 taka",
+        "summary_bn": "শ্রম ও কর্মসংস্থান মন্ত্রণালয় চামড়াপণ্য ও জুতা কারখানার শ্রমিকদের ন্যূনতম মাসিক মজুরি ১১ হাজার ৯০০ টাকা নির্ধারণ করে প্রজ্ঞাপন জারি করেছে।",
+        "summary_en": "The Ministry of Labour and Employment has issued a gazette notification setting the minimum monthly wage for leather goods and footwear factory workers at 11,900 taka.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T03:21:27+00:00",
-        "lead_bn": "সৌদি আরব জানিয়েছে যে তারা রিয়াদ অভিমুখে ছোড়া হুথিদের তিনটি ক্ষেপণাস্ত্র ধ্বংস করেছে, যার আগে রাজধানীজুড়ে বিস্ফোরণের শব্দ শোনা গিয়েছিল।",
-        "lead_en": "Saudi Arabia said it destroyed three Houthi missiles headed for Riyadh, following reports of explosions heard across the capital.",
+        "published_at": "2026-11-21T04:00:00+00:00",
+        "lead_bn": "শ্রম ও কর্মসংস্থান মন্ত্রণালয় চামড়াপণ্য ও জুতা কারখানার শ্রমিকদের ন্যূনতম মাসিক মজুরি ১১ হাজার ৯০০ টাকা নির্ধারণ করে প্রজ্ঞাপন জারি করেছে।",
+        "lead_en": "The Ministry of Labour and Employment has issued a gazette notification setting the minimum monthly wage for leather goods and footwear factory workers at 11,900 taka.",
         "bullets_bn": [
-          "জোট জানিয়েছে, বিমান প্রতিরক্ষা ব্যবস্থা সন্ত্রাসী হুথি মিলিশিয়ার উৎক্ষেপিত তিনটি ব্যালিস্টিক ক্ষেপণাস্ত্র রিয়াদের দিকে ইন্টারসেপ্ট করে ধ্বংস করেছে।",
-          "কর্তৃপক্ষ রিয়াদকে শত শত্রুভাবাপন্ন আকাশ হুমকির মুখে ঘোষণা করার পর একজন এএফপি রিপোর্টার দুটি বিস্ফোরণের শব্দ শুনেছিলেন।",
-          "ইয়েমেনের হুথিরা এক্স এ জানিয়েছে যে তারা রিয়াদসহ সৌদি আরবজুড়ে লক্ষ্যবস্তুতে হামলা চালাচ্ছে।"
+          "বর্তমান ৭ হাজার ১০০ টাকার তুলনায় এ খাতের শ্রমিকদের ন্যূনতম মজুরি বৃদ্ধি পেয়েছে ৪ হাজার ৮০০ টাকা।",
+          "কর্মচারীদের ন্যূনতম মজুরি ১৪ হাজার ৪০৫ টাকা এবং শিক্ষানবিশ কর্মচারীদের মজুরি ১০ হাজার টাকা নির্ধারণ করা হয়েছে।",
+          "নতুন কাঠামো অনুযায়ী প্রতিবছর মজুরি ৫ শতাংশ বৃদ্ধি পাবে।"
         ],
         "bullets_en": [
-          "The coalition said air defences intercepted and destroyed three ballistic missiles launched by the terrorist Houthi militia toward Riyadh.",
-          "An AFP reporter heard two explosions after authorities issued an alert saying the city was under a hostile aerial threat.",
-          "Yemen's Houthis said on X that they were striking targets across Saudi Arabia, including in Riyadh."
+          "The minimum wage for workers in this sector has increased by 4,800 taka compared to the current 7,100 taka.",
+          "The minimum wage for employees has been set at 14,405 taka and for apprentice employees at 10,000 taka.",
+          "According to the new structure, wages will increase by 5 percent every year."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "রিয়াদমুখী তিনটি ক্ষেপণাস্ত্র ধ্বংস",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
+        "details_bn": "চলতি বছরের শুরুর দিকে এই খাতের মজুরি পুনর্নির্ধারণে ছয় সদস্যের মজুরি বোর্ড গঠিত হয় এবং কয়েকটি সভার পর আগস্টে মজুরি বোর্ড মজুরিকাঠামো চূড়ান্ত করে। সর্বশেষ ২০২০ সালের সেপ্টেম্বর মাসে মজুরি বোর্ডের মাধ্যমে এই খাতের মজুরি নির্ধারিত হয়েছিল।",
+        "details_en": "Earlier this year, a six-member wage board was formed to redetermine wages in this sector, and after several meetings, the wage board finalized the wage structure in August. The wages for this sector were last determined through the wage board in September 2020.",
+        "hook_bn": "শ্রমিকদের ন্যূনতম মজুরি বেড়ে ১১ হাজার ৯০০ টাকা",
+        "kicker_bn": "নতুন মজুরি",
+        "share_value": true,
+        "question_bn": "চামড়াপণ্য ও জুতা কারখানার নতুন এই মজুরিকাঠামো নিয়ে আপনার মতামত কী?"
       },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": true,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-21T04:01:30.949934+00:00"
-      }
-    },
-    {
-      "story_id": "21a17600-dd90-520a-a4b4-0bfd8e53416d",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1656436075877-a20103919f4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8aXJhbiUyMGRvd25zJTIwYW5vdGhlciUyMGRyb25lJTIwZGlwbG9tYWN5fGVufDF8MHx8fDE3OTUyMzM2ODF8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-21T03:43:23+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.84,
-      "sources": [
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822160/%E0%A6%B9%E0%A6%B0%E0%A6%AE%E0%A7%81%E0%A6%9C%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%8F%E0%A6%AE%E0%A6%95%E0%A6%BF%E0%A6%89-%E0%A7%AF-%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%A8-%E0%A6%AD%E0%A7%82%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A6%B2",
-          "title": "হরমুজে আরও একটি মার্কিন এমকিউ-৯ ড্রোন ভূপাতিত করল ইরান",
-          "snippet": "হরমুজে আরও একটি মার্কিন এমকিউ-৯ ড্রোন ভূপাতিত করল ইরান"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/international/499641",
-          "title": "হরমুজে আরও একটি মার্কিন এমকিউ-৯ ড্রোন ভূপাতিত করল ইরান",
-          "snippet": "হরমুজে আরও একটি মার্কিন এমকিউ-৯ ড্রোন ভূপাতিত করল ইরান"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "হরমুজে মার্কিন এমকিউ-৯ ড্রোন ভূপাতিত করল ইরান",
-        "title_en": "Iran downs another US MQ-9 drone in Hormuz",
-        "summary_bn": "হরমুজ প্রণালিতে যুক্তরাষ্ট্রের আরও একটি এমকিউ-৯ রিপার ড্রোন ভূপাতিত করেছে ইরানের ইসলামিক রেভল্যুশনারি গার্ড কোর (আইআরজিসি)।",
-        "summary_en": "Iran's Islamic Revolutionary Guard Corps (IRGC) has downed another US MQ-9 Reaper drone in the Strait of Hormuz.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-21T03:43:23+00:00",
-        "lead_bn": "হরমুজ প্রণালিতে যুক্তরাষ্ট্রের আরও একটি এমকিউ-৯ রিপার ড্রোন ভূপাতিত করেছে ইরানের ইসলামিক রেভল্যুশনারি গার্ড কোর (আইআরজিসি)।",
-        "lead_en": "Iran's Islamic Revolutionary Guard Corps (IRGC) has downed another US MQ-9 Reaper drone in the Strait of Hormuz.",
-        "bullets_bn": [
-          "২০ নভেম্বর দিবাগত রাতে দেশটির প্রতিরক্ষা বাহিনীর আকাশ প্রতিরক্ষা ব্যবস্থার মাধ্যমে ড্রোনটি ধ্বংস করা হয়।",
-          "২১ নভেম্বর ইরানের রাষ্ট্রীয় টেলিভিশন চ্যানেল আইআরআইবি এক প্রতিবেদনে এ তথ্য প্রকাশ করে।",
-          "আইআরজিসির বিবৃতির বরাত দিয়ে রাষ্ট্রীয় টেলিভিশন এই তথ্য জানায়।"
-        ],
-        "bullets_en": [
-          "The drone was destroyed on the night of Friday 20 November by the country's air defense system.",
-          "Iran's state television channel IRIB published this report on Saturday 21 November.",
-          "State television reported this citing a statement from the IRGC."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "হরমুজে মার্কিন ড্রোন ভূপাতিত করল ইরান",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
+      "desk_importance": 7.0,
+      "outlet_count": 1,
       "trending": false,
-      "social_appeal": 6.0,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-21T04:01:30.949934+00:00"
+        "checked_at": "2026-11-21T05:02:56.409202+00:00"
       }
     }
   ]
