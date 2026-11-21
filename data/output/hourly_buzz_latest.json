@@ -1,235 +1,173 @@
 {
-  "updated_at": "2026-11-21T20:00:43.436280",
-  "total_stories": 3,
+  "updated_at": "2026-11-21T21:00:42.122834",
+  "total_stories": 2,
   "stories": [
     {
-      "story_id": "965973a4-fc5e-5c48-9d65-0c290356d3a1",
-      "primary_category": "economy_business",
+      "story_id": "3521ad57-a793-53a9-9ff7-9caa49567545",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "economy_business"
+        "governance_law",
+        "world_diplomacy",
+        "society_education"
       ],
       "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2023-12%2F549dd621-db09-4e4a-a151-156f17a5320b%2Ffb53bd89-c15a-48b9-9beb-270d3735c874.jpg?rect=0%2C50%2C977%2C513&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-21%2Flepnfseg%2F%E0%A7%A8.avif?rect=0%2C36%2C506%2C266&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-21T17:49:25+00:00",
+      "published_at": "2026-11-21T19:48:23+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 8.0,
-      "rank_score": 5.638,
+      "importance_score": 6.5,
+      "rank_score": 3.9391,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/business/economics/vcrgx3equq",
-          "title": "এক বছরের বেশি সময় পরে ২ লাখ টাকার নিচে নামল সোনার ভরির দাম",
-          "snippet": "এক বছরের বেশি সময় পরে ২ লাখ টাকার নিচে নামল সোনার ভরির দাম"
+          "url": "https://www.prothomalo.com/bangladesh/crime/ivmtogj80r",
+          "title": "খুলনায় বিএনপি নেতাকে গুলি",
+          "snippet": "খুলনায় বিএনপি নেতাকে গুলি"
         },
         {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/financial-development/post-1224007/",
-          "title": "সোনার দামে বিশাল পতন, ভরি ১ লাখ ৯৪ হাজার টাকা",
-          "snippet": "সোনার দামে বিশাল পতন, ভরি ১ লাখ ৯৪ হাজার টাকা"
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/local-bnp-leader-shot-khulnas-terokhada-4329866",
+          "title": "Local BNP leader shot in Khulna's Terokhada",
+          "snippet": "Local BNP leader shot in Khulna's Terokhada"
         },
         {
           "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822298/%E0%A6%8F%E0%A6%95-%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A7%87-%E0%A7%A8-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%9A%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%B2-%E0%A6%B8%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%AD%E0%A6%B0%E0%A6%BF%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE",
-          "title": "এক বছর পরে ২ লাখ টাকার নিচে নামল সোনার ভরির দাম",
-          "snippet": "এক বছর পরে ২ লাখ টাকার নিচে নামল সোনার ভরির দাম"
+          "url": "https://www.ittefaq.com.bd/822301/%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF",
+          "title": "খুলনায় বিএনপি নেতাকে গুলি",
+          "snippet": "খুলনায় বিএনপি নেতাকে গুলি"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/khulna/982439/%E0%A6%AC%E0%A6%B8%E0%A7%87-%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%93%E0%A6%A4%E0%A6%AA%E0%A7%87%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF-%E0%A6%AB%E0%A7%87%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%9F-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%8F%E0%A6%95%E0%A7%87",
+          "title": "বসে ছিল ওতপেতে, বাড়ি ফেরার সময় বিএনপি নেতাকে একে একে ৩ গুলি",
+          "snippet": "বসে ছিল ওতপেতে, বাড়ি ফেরার সময় বিএনপি নেতাকে একে একে ৩ গুলি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "দেশের বাজারে সোনার ভরির দাম দুই লাখ টাকার নিচে নামল।",
-        "title_en": "Gold price per bhori drops below two lakh taka in local market.",
-        "summary_bn": "বাংলাদেশ জুয়েলার্স সমিতির দাম কমানোর পর ২২ ক্যারেটের প্রতি ভরি সোনার দাম ১ লাখ ৯৪ হাজার ৯৬৪ টাকা হয়েছে।",
-        "summary_en": "The price of 22-carat gold became Tk 1,94,964 per bhori after the Bangladesh Jewellers Association reduced prices.",
+        "title_bn": "খুলনায় দুর্বৃত্তের গুলিতে বিএনপি নেতা আহত",
+        "title_en": "BNP leader injured in shooting by miscreants in Khulna",
+        "summary_bn": "খুলনার তেরখাদায় দুর্বৃত্তের গুলিতে মধুপুর ইউনিয়ন বিএনপির সম্মেলন প্রস্তুতি কমিটির সদস্য মাফিজুর রহমান আহত হয়েছেন।",
+        "summary_en": "Maphizur Rahman, a member of the Madhupur Union BNP conference preparation committee, was injured in a shooting by miscreants in Terokhada, Khulna.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business"
+          "governance_law",
+          "world_diplomacy",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T17:49:25+00:00",
-        "lead_bn": "বাংলাদেশ জুয়েলার্স সমিতির দাম কমানোর পর ২২ ক্যারেটের প্রতি ভরি সোনার দাম ১ লাখ ৯৪ হাজার ৯৬৪ টাকা হয়েছে।",
-        "lead_en": "The price of 22-carat gold became Tk 1,94,964 per bhori after the Bangladesh Jewellers Association reduced prices.",
+        "published_at": "2026-11-21T19:48:23+00:00",
+        "lead_bn": "খুলনার তেরখাদায় দুর্বৃত্তের গুলিতে মধুপুর ইউনিয়ন বিএনপির সম্মেলন প্রস্তুতি কমিটির সদস্য মাফিজুর রহমান আহত হয়েছেন।",
+        "lead_en": "Maphizur Rahman, a member of the Madhupur Union BNP conference preparation committee, was injured in a shooting by miscreants in Terokhada, Khulna.",
         "bullets_bn": [
-          "প্রায় ১৩ মাস পরে সোনার ভরির দাম কমে দুই লাখ টাকার নিচে নেমেছে।",
-          "সবচেয়ে ভালো মানের বা ২২ ক্যারেটের প্রতি ভরি সোনার দাম ৬ হাজার ১৮২ টাকা কমেছে।",
-          "গত ৯ দফায় দেশে সোনার দাম ৩৪ হাজার ৬৯০ টাকা কমেছে।"
+          "ঘটনাটি ঘটেছে উপজেলার উত্তর মোকামপুর এলাকায়।",
+          "মাফিজুর রহমান বাঁ হাত, ডান পা ও বাঁ পাজরের নিচে গুলিবিদ্ধ হয়েছেন।",
+          "পুলিশ জানিয়েছে জড়িত ব্যক্তিদের শনাক্ত ও গ্রেপ্তারের পাশাপাশি আইনগত ব্যবস্থা নেওয়ার কার্যক্রম চলছে।"
         ],
         "bullets_en": [
-          "Gold price per bhori dropped below two lakh taka after nearly 13 months.",
-          "The price of the highest quality 22-carat gold decreased by Tk 6,182 per bhori.",
-          "Gold prices in the country decreased by Tk 34,690 across nine consecutive adjustments."
-        ],
-        "impact_bn": "সোনার পুরোনো অলংকার বিক্রি করলে এখন আগের চেয়ে বেশি টাকা পাওয়া যাবে।",
-        "impact_en": "People selling old gold jewelry will now receive more money than before.",
-        "details_bn": "স্থানীয় বাজারে তেজাবী সোনার দাম কমে যাওয়ায় বাংলাদেশ জুয়েলার্স সমিতি এই দাম সমন্বয় করেছে। বিশ্ববাজারে সোনার দাম কমে যাওয়া এবং মার্কিন ডলার শক্তিশালী হওয়া এবং মার্কিন কেন্দ্রীয় ব্যাংক ফেডারেল রিজার্ভের সুদের হার বাড়ানোর ধারণার কারণে বিশ্ববাজারে সোনা ও রুপার দাম কমছে বলে বিশ্লেষকেরা জানিয়েছেন।",
-        "details_en": "The Bangladesh Jewellers Association adjusted the price due to a decrease in local bullion gold prices. Analysts noted that gold and silver prices are falling globally because international gold prices are dropping, the US dollar is strengthening, and expectations exist that the US Federal Reserve may raise interest rates.",
-        "hook_bn": "দুই লাখ টাকার নিচে নামল সোনার দাম",
-        "kicker_bn": "দাম কমছে",
-        "share_value": true,
-        "question_bn": "সোনার দাম কমার এই পরিস্থিতি আপনার কেনাকাটার পরিকল্পনায় কেমন প্রভাব ফেলছে?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
-      "trending": true,
-      "social_appeal": 9.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-21T20:01:42.094303+00:00"
-      }
-    },
-    {
-      "story_id": "4ebb5948-b2a7-5a1d-81b2-d00704644c91",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-21%2F4qjz0myq%2FHXqpavTaMAAoST.jpg?rect=0%2C0%2C2251%2C1182&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-21T17:37:01+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 4.8964,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/sports/cricket/uexekqrylz",
-          "title": "ইকবালের ছক্কায় রোমাঞ্চকর জয়, আফগানদের হারিয়ে সেমিফাইনালে বাংলাদেশ",
-          "snippet": "ইকবালের ছক্কায় রোমাঞ্চকর জয়, আফগানদের হারিয়ে সেমিফাইনালে বাংলাদেশ"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/bangladesh-afghanistan-asia-cup-rising-stars-lead-sports/",
-          "title": "শ্বাসরুদ্ধকর জয়ে এক ম্যাচ হাতে রেখে সেমিফাইনালে বাংলাদেশ",
-          "snippet": "শ্বাসরুদ্ধকর জয়ে এক ম্যাচ হাতে রেখে সেমিফাইনালে বাংলাদেশ"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/sports/499817",
-          "title": "আফগানদের বিপক্ষে এক উইকেটের জয়ে সেমিতে বাংলাদেশ",
-          "snippet": "আফগানদের বিপক্ষে এক উইকেটের জয়ে সেমিতে বাংলাদেশ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "আফগানদের হারিয়ে সেমিফাইনালে বাংলাদেশ",
-        "title_en": "Bangladesh reaches semifinals by defeating Afghans",
-        "summary_bn": "ইকবাল হোসেনের শেষ ওভারের ব্যাটিং নৈপুণ্যে আফগানিস্তানকে ১ উইকেটে হারিয়ে এশিয়া কাপ রাইজিং স্টার্সের সেমিফাইনালে উঠেছে বাংলাদেশ এ দল।",
-        "summary_en": "Bangladesh A team reached the semifinals of the Asia Cup Rising Stars by defeating Afghanistan by 1 wicket through Iqbal Hossain's batting heroics in the final over.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-21T17:37:01+00:00",
-        "lead_bn": "ইকবাল হোসেনের শেষ ওভারের ব্যাটিং নৈপুণ্যে আফগানিস্তানকে ১ উইকেটে হারিয়ে এশিয়া কাপ রাইজিং স্টার্সের সেমিফাইনালে উঠেছে বাংলাদেশ এ দল।",
-        "lead_en": "Bangladesh A team reached the semifinals of the Asia Cup Rising Stars by defeating Afghanistan by 1 wicket through Iqbal Hossain's batting heroics in the final over.",
-        "bullets_bn": [
-          "কাতারের ওয়েস্ট এন্ড পার্ক ইন্টারন্যাশনাল ক্রিকেট স্টেডিয়ামে জয়ের লক্ষ্য ছিল ১৭৫ রান।",
-          "রিপন মন্ডল সর্বোচ্চ ৩ উইকেট শিকার করে আফগানিস্তান এ দলকে ৪৫ ওভারে ১৪৭ রানে অলআউট করেন।",
-          "এর আগে হংকং জাতীয় দলকে ৮ উইকেটে হারিয়েছিল বাংলাদেশ এ দল।"
-        ],
-        "bullets_en": [
-          "The target for victory was 175 runs at the West End Park International Cricket Stadium in Qatar.",
-          "Ripon Mondal took a maximum of 3 wickets to bowl out the Afghanistan A team for 147 runs in 45 overs.",
-          "Earlier, the Bangladesh A team defeated the Hong Kong national team by 8 wickets."
+          "The incident took place in the North Mokampur area of the upazila.",
+          "Maphizur Rahman sustained bullet injuries on his left hand, right leg, and below his left rib.",
+          "Police stated that work is underway to identify and arrest the involved individuals and take legal action."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "কাতারের ওয়েস্ট এন্ড পার্ক ইন্টারন্যাশনাল ক্রিকেট স্টেডিয়ামে ১৭৫ রানের লক্ষ্য তাড়া করতে নেমে প্রথম ওভারে অধিনায়ক সাইফ হাসানের উইকেট হারায় বাংলাদেশ। পারভেজ হোসেন ৩৩ এবং সাব্বির রহমান ও সাইফউদ্দিন ২৮ রান করলেও নবম উইকেটে ১৬২ রানে পতন ঘটে। পরে শেষ ওভারে রিপন মন্ডল ও ইকবাল হোসেন দলের জয় নিশ্চিত করেন। গ্রুপপর্বের শেষ ম্যাচে বাংলাদেশ ও শ্রীলঙ্কার এ দল মুখোমুখি হবে।",
-        "details_en": "Chasing a target of 175 runs at the West End Park International Cricket Stadium in Qatar, Bangladesh lost captain Saif Hasan in the first over. Parvez Hossain scored 33 and Sabbir Rahman and Saifuddin scored 28 runs each, but the ninth wicket fell at 162 runs. Later in the final over, Ripon Mondal and Iqbal Hossain secured the team's victory. Bangladesh and Sri Lanka A teams will face each other in the final match of the group stage.",
-        "hook_bn": "আফগানদের হারিয়ে সেমিফাইনালে বাংলাদেশ",
+        "details_bn": "পুলিশ ও স্থানীয় সূত্রে জানা যায়, মাফিজুর রহমান মোকামপুর বাজার থেকে ভ্যানে করে বাড়ি ফিরছিলেন। পথে মিকাইলের স মিলের সামনে পৌঁছালে মোটরসাইকেলে আসা দুর্বৃত্তরা তাঁকে লক্ষ্য করে পরপর তিনটি গুলি ছুড়ে পালিয়ে যায়। স্থানীয় লোকজন তাঁকে উদ্ধার করে খুলনা মেডিকেল কলেজ হাসপাতালে নিয়ে যান। ২২ অক্টোবর থেকে ২২ নভেম্বর পর্যন্ত গত এক মাসে খুলনায় অন্তত ১৫টি গুলির ঘটনা ঘটেছে। এসব ঘটনায় গুলিতে ৯ জন নিহত হয়েছেন।",
+        "details_en": "According to police and local sources, Maphizur Rahman was returning home by van from Mokampur market. Upon reaching in front of Mikail's sawmill on the way, miscreants coming on a motorcycle fired three consecutive shots at him and fled. Local people rescued him and took him to Khulna Medical College Hospital. Between October 22 and November 22, at least 15 shooting incidents occurred in Khulna over the past month, resulting in 9 deaths from bullets.",
+        "hook_bn": "খুলনায় গুলਤ বিএনপি নেতা আহত",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
+      "desk_importance": 6.0,
+      "outlet_count": 4,
       "trending": false,
-      "social_appeal": 8.0,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-21T20:01:42.094303+00:00"
+        "checked_at": "2026-11-21T21:01:33.456549+00:00"
       }
     },
     {
-      "story_id": "e4c6e28d-e54a-5ef0-b3cc-3a83657a318b",
-      "primary_category": "economy_business",
+      "story_id": "9bc26ff1-3d19-57c8-984a-8291494a0bba",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "economy_business",
-        "tech_innovation"
+        "governance_law"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#Anthropic",
-        "#VandaResearch",
-        "#SpaceX"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1781643439137-b578fa8b1179?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YW50aHJvcGljJTIwcmV0YWlsJTIwaW52ZXN0b3JzJTIwZmFjZSUyMGJ1c2luZXNzfGVufDF8MHx8fDE3OTUyOTEyODd8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1760098571181-705c0f9925fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFubmVkJTIwY2hoYXRyYSUyMGxlYWd1ZSUyMGxlYWRlcnMlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTUyOTQ4NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-21T18:00:00+00:00",
+      "published_at": "2026-11-21T20:22:58+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.6921,
+      "importance_score": 6.25,
+      "rank_score": 3.7652,
       "sources": [
         {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/global-economy/news/anthropic-retail-traders-face-losses-shares-dive-13-4329791",
-          "title": "Anthropic retail traders face losses as shares dive 13%",
-          "snippet": "Anthropic retail traders face losses as shares dive 13%"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822304/%E0%A6%9A%E0%A6%BE%E0%A6%9F%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%B0%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AD%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A6%B9-%E0%A7%A9-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE-%E0%A6%86%E0%A6%9F%E0%A6%95",
+          "title": "চাটমোহরে নিষিদ্ধ ছাত্রলীগের সভাপতিসহ ৩ নেতা আটক",
+          "snippet": "চাটমোহরে নিষিদ্ধ ছাত্রলীগের সভাপতিসহ ৩ নেতা আটক"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1182128",
+          "title": "বেড়ায় বিএনপি-আ’লীগের সংঘর্ষের ঘটনায় ওসি প্রত্যাহার, থমথমে এলাকায়",
+          "snippet": "বেড়ায় বিএনপি-আ’লীগের সংঘর্ষের ঘটনায় ওসি প্রত্যাহার, থমথমে এলাকায়"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/rajshahi/982438/%E0%A6%AC%E0%A7%87%E0%A7%9C%E0%A6%BE-%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%93%E0%A6%B8%E0%A6%BF-%E0%A6%A8%E0%A7%9F%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BF%E0%A6%A4%E0%A6%BF",
+          "title": "বেড়া থানার ওসি নয়ন প্রত্যাহার, এলাকার পরিস্থিতি থমথমে",
+          "snippet": "বেড়া থানার ওসি নয়ন প্রত্যাহার, এলাকার পরিস্থিতি থমথমে"
         }
       ],
       "daily_buzz": {
-        "title_bn": "অ্যানথ্রপিকের শেয়ারের দর পতনে খুচরা বিনিয়োগকারীরা ক্ষতির মুখে পড়েছেন।",
-        "title_en": "Anthropic retail investors face losses as share prices dive.",
-        "summary_bn": "প্রাথমিক গণপ্রস্তাবের পর অ্যানথ্রপিকের শেয়ারের দাম ১৩ শতাংশ কমে যাওয়ায় খুচরা বিনিয়োগকারীরা ক্ষতির মুখে পড়েছেন।",
-        "summary_en": "Retail investors face losses after Anthropic shares dropped 13 percent following its initial public offering.",
+        "title_bn": "পাবনার চাটমোহরে নিষিদ্ধ ছাত্রলীগের তিন নেতা আটক ও বেড়ায় ওসি প্রত্যাহার",
+        "title_en": "Three banned Chhatra League leaders detained in Chatmohar and OC withdrawn in Bera",
+        "summary_bn": "পাবনার চাটমোহরে নিষিদ্ধ ঘোষিত ছাত্রলীগের তিনজন নেতাকে আটক করেছে পুলিশ এবং বেড়া থানার ওসিকে প্রত্যাহার করা হয়েছে।",
+        "summary_en": "Police detained three leaders of the banned Chhatra League in Chatmohar and the OC of Bera police station was withdrawn.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "tech_innovation"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T18:00:00+00:00",
-        "lead_bn": "প্রাথমিক গণপ্রস্তাবের পর অ্যানথ্রপিকের শেয়ারের দাম ১৩ শতাংশ কমে যাওয়ায় খুচরা বিনিয়োগকারীরা ক্ষতির মুখে পড়েছেন।",
-        "lead_en": "Retail investors face losses after Anthropic shares dropped 13 percent following its initial public offering.",
+        "published_at": "2026-11-21T20:22:58+00:00",
+        "lead_bn": "পাবনার চাটমোহরে নিষিদ্ধ ঘোষিত ছাত্রলীগের তিনজন নেতাকে আটক করেছে পুলিশ এবং বেড়া থানার ওসিকে প্রত্যাহার করা হয়েছে।",
+        "lead_en": "Police detained three leaders of the banned Chhatra League in Chatmohar and the OC of Bera police station was withdrawn.",
         "bullets_bn": [
-          "কোম্পানিটি ৮৩ ডলারে ৯৮ কোটি শেয়ার বিক্রি করে।",
-          "ভেন্ডা রিসার্চ জানিয়েছে, খুচরা বিনিয়োগকারীরা ৭৫ কোটি ডলারের বেশি অ্যানথ্রপিকের শেয়ার লেনদেন করেন।",
-          "শেয়ারবাজারে প্রথম দিন লেনদেন শুরুর পর দাম কমে ৯৭ ডলারে বন্ধ হয়।"
+          "২১ নভেম্বর রাত সাড়ে ১০টার দিকে চাটমোহরের হরিপুর ও গুনাইগাছা এলাকা থেকে তাদের আটক করা হয়।",
+          "আটক ব্যক্তিরা হলেন উপজেলা ছাত্রলীগের সভাপতি হুমায়ূন কবির, সাধারণ সম্পাদক রাসেল হোসেন ও সদস্য রাশেদুল ইসলাম।",
+          "বেড়া পৌর এলাকায় বিএনপি ও আওয়ামী লীগের কর্মী-সমর্থকদের সংঘর্ষের ঘটনায় ওসি নয়ন কুমার সরকারকে প্রত্যাহার করা হয়েছে।"
         ],
         "bullets_en": [
-          "The company sold 980 million shares at $83 apiece on Thursday.",
-          "Vanda Research reported that retail investors traded over $750 million of Anthropic stock on Thursday.",
-          "The stock closed at $97 on its first day of trading after opening higher."
+          "They were detained from Haripur and Gunaigachha areas of Chatmohar around 10:30 pm on 21 November.",
+          "The detainees are upazila Chhatra League president Humayun Kabir, general secretary Rasel Hossain, and member Rashedul Islam.",
+          "OC Nayan Kumar Sarker was withdrawn following clashes between BNP and Awami League workers and supporters in Bera municipal area."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "খুচরা বিনিয়োগকারীরা প্রাথমিক গণপ্রস্তাবের পর কাছাকাছি সময়ে রেকর্ড গতিতে অ্যানথ্রপিকের শেয়ার কিনেছিলেন। শেয়ারবাজারে লেনদেন শুরুর সময় দাম ১১২ ডলারে ওঠে এবং পরে ৯৭ ডলারে বন্ধ হয়। দিনের শুরুতে দর কমে ৮৫ ডলারে নেমে আসে।",
-        "details_en": "Retail investors snapped up Anthropic shares at a near-record pace after the IPO. the stock began trading at $112 and closed at $97, before falling to $85 on Friday.",
-        "hook_bn": "অ্যানথ্রপিকের শেয়ারের দর ১৩ শতাংশ পতন",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": "শেয়ারবাজারের বর্তমান পরিস্থিতি নিয়ে আপনার মতামত কী?"
+        "details_bn": "পাবনার চাটমোহরে পৃথক অভিযান চালিয়ে নিষিদ্ধ ঘোষিত উপজেলা ছাত্রলীগের সভাপতিসহ তিনজনকে আটক করেছে থানা-পুলিশ। অন্যদিকে পাবনার বেড়া পৌর এলাকায় বিএনপি ও কার্যক্রম নিষিদ্ধ আওয়ামী লীগের কর্মী-সমর্থকদের মধ্যে দফায় দফায় সংঘর্ষের ঘটনা ঘটে। এই সংঘর্ষের ঘটনায় বেড়া মডেল থানার ভারপ্রাপ্ত কর্মকর্তা বা ওসি নয়ন কুমার সরকারকে প্রত্যাহার করা হয়েছে এবং তার স্থলে পাবনা সদর সার্কেলের পরিদর্শক গোলাম মোস্তফাকে নতুন ওসি হিসেবে দায়িত্ব দেওয়া হয়েছে। জেলা পুলিশের পক্ষ থেকে এই আদেশ দেওয়া হয়েছে বলে নিশ্চিত করেছেন পাবনার পুলিশ সুপার আবু আশ্রাফ।",
+        "details_en": "Police conducted separate drives in Chatmohar of Pabna and detained three leaders of the banned upazila Chhatra League. On the other hand, repeated clashes took place between BNP and banned Awami League workers and supporters in Bera municipal area of Pabna. Following the clashes, Bera Model Police Station officer-in-charge Nayan Kumar Sarker was withdrawn, and Pabna Sadar circle inspector Golam Mostofa was assigned as the new OC. Pabna superintendent of police Abu Ashraf confirmed that this order was issued by the district police on Saturday evening.",
+        "hook_bn": "বেড়া থানার ওসি নয়ন প্রত্যাহার",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
       },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": true,
-      "social_appeal": 4.0,
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-21T20:01:42.094303+00:00"
+        "checked_at": "2026-11-21T21:01:33.456549+00:00"
       }
     }
   ]
