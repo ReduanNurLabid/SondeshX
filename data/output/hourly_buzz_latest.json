@@ -1,74 +1,141 @@
 {
-  "updated_at": "2026-11-22T00:00:44.024028",
-  "total_stories": 1,
+  "updated_at": "2026-11-22T01:00:42.774406",
+  "total_stories": 2,
   "stories": [
     {
-      "story_id": "d32ff2ab-59b8-532a-8840-57dc3731de72",
-      "primary_category": "society_education",
+      "story_id": "184a5ec0-9128-5746-8730-bc47d0bb1f14",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "society_education",
+        "governance_law",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1593091285708-8dc58f9ff4b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YXR0ZW1wdGVkJTIwYXJzb24lMjBob3VzZSUyMGR1Y3N1JTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1MzA5MjgyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-22T00:38:02+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5203,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1182142",
+          "title": "সাদিক কায়েমের বাড়িতে পেট্রোলবোমা ও কেরোসিন দিয়ে অগ্নিসংযোগের চেষ্টা",
+          "snippet": "সাদিক কায়েমের বাড়িতে পেট্রোলবোমা ও কেরোসিন দিয়ে অগ্নিসংযোগের চেষ্টা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ডাকসু ভিপি সাদিক কায়েমের বাড়িতে অগ্নিসংযোগের চেষ্টা",
+        "title_en": "Attempted arson at the house of DUCSU VP Sadiq Kayem",
+        "summary_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতাকর্মীরা ঢাকা বিশ্ববিদ্যালয় কেন্দ্রীয় ছাত্র সংসদের ভিপি সাদিক কায়েমের খাগড়াছড়ির বাড়িতে পেট্রোলবোমা ও কেরোসিন দিয়ে অগ্নিসংযোগের চেষ্টা চালিয়েছেন।",
+        "summary_en": "Leaders and activists of the banned Awami League attempted to set fire to the Khagrachhari house of DUCSU VP Sadiq Kayem using petrol bombs and kerosene.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-22T00:38:02+00:00",
+        "lead_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতাকর্মীরা ঢাকা বিশ্ববিদ্যালয় কেন্দ্রীয় ছাত্র সংসদের ভিপি সাদিক কায়েমের খাগড়াছড়ির বাড়িতে পেট্রোলবোমা ও কেরোসিন দিয়ে অগ্নিসংযোগের চেষ্টা চালিয়েছেন।",
+        "lead_en": "Leaders and activists of the banned Awami League attempted to set fire to the Khagrachhari house of DUCSU VP Sadiq Kayem using petrol bombs and kerosene.",
+        "bullets_bn": [
+          "খাগড়াছড়ির বাড়িতে পেট্রোলবোমা ও কেরোসিন দিয়ে অগ্নিসংযোগের চেষ্টা চালানো হয়।",
+          "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতাকর্মীরা এই অগ্নিসংযোগের চেষ্টা চালান।",
+          "ঘটনার শিকার ব্যক্তি ঢাকা বিশ্ববিদ্যালয় কেন্দ্রীয় ছাত্র সংসদের ভিপি।"
+        ],
+        "bullets_en": [
+          "An attempt was made to set fire to the house in Khagrachhari using petrol bombs and kerosene.",
+          "Leaders and activists of the banned Awami League carried out this arson attempt.",
+          "The target of the incident is the vice president of the Dhaka University Central Student Union."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "সাদিক কায়েমের বাড়িতে অগ্নিসংযোগের চেষ্টা",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-22T01:01:34.144797+00:00"
+      }
+    },
+    {
+      "story_id": "818af569-0593-5e56-8284-e1f7119bf4ee",
+      "primary_category": "governance_law",
+      "interest_categories": [
         "governance_law"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
-        "#NationalAffairs"
+        "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1563699935612-f42f819c2777?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8dGFyZ2V0JTIwc2V0JTIwb3BlcmF0aW5nJTIwbWV0cm8lMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NTMwNTY3Nnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1693585172757-b9e057feb878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFybGlhbWVudCUyMGxhdyUyMGNvdXJ0JTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1MzA5Mjg0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-21T23:55:00+00:00",
+      "published_at": "2026-11-22T00:17:43+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.0,
-      "rank_score": 3.5788,
+      "rank_score": 3.4521,
       "sources": [
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822305/%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%B0%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%97%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A7%8D%E0%A6%AF-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AD",
-          "title": "উত্তরা থেকে কমলাপুর, মেট্রোরেলের নতুন গন্তব্য ২০২৭ সালের জুলাই",
-          "snippet": "উত্তরা থেকে কমলাপুর, মেট্রোরেলের নতুন গন্তব্য ২০২৭ সালের জুলাই"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1182141",
+          "title": "চট্টগ্রামে যুবদলকর্মী জীবন হত্যা মামলায় গ্রেফতার ৩",
+          "snippet": "চট্টগ্রামে যুবদলকর্মী জীবন হত্যা মামলায় গ্রেফতার ৩"
         }
       ],
       "daily_buzz": {
-        "title_bn": "কমলাপুর পর্যন্ত মেট্রোরেল চালুর নতুন লক্ষ্য নির্ধারণ করা হয়েছে",
-        "title_en": "New target set for operating metro rail up to Kamalapur",
-        "summary_bn": "উত্তরা থেকে মতিঝিল পর্যন্ত চালু থাকা মেট্রোরেল কমলাপুর রেলওয়ে স্টেশন পর্যন্ত সম্প্রসারণের নতুন লক্ষ্য নির্ধারণ করা হয়েছে ২০২৭ সালের জুলাই।",
-        "summary_en": "A new target has been set to launch commercial train operations on the Motijheel-Kamalapur section of the metro rail by July 2027.",
+        "title_bn": "চট্টগ্রামে যুবদলকর্মী জীবন হত্যা মামলায় তিন আসামিকে গ্রেফতার করেছে এসআরবি।",
+        "title_en": "Three suspects arrested in Jubadal activist Jiban murder case in Chattogram.",
+        "summary_bn": "চট্টগ্রাম নগরের বায়েজিদ বোস্তামীতে যুবদলকর্মী আবু ইউসুফ প্রকাশ জীবন হত্যা মামলায় তিনজনকে গ্রেফতার করেছে এসআরবি।",
+        "summary_en": "SRB has arrested three suspects in the murder case of Jubadal activist Abu Yusuf alias Jiban in Chattogram city's Bayezid Bostami.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T23:55:00+00:00",
-        "lead_bn": "উত্তরা থেকে মতিঝিল পর্যন্ত চালু থাকা মেট্রোরেল কমলাপুর রেলওয়ে স্টেশন পর্যন্ত সম্প্রসারণের নতুন লক্ষ্য নির্ধারণ করা হয়েছে ২০২৭ সালের জুলাই।",
-        "lead_en": "A new target has been set to launch commercial train operations on the Motijheel-Kamalapur section of the metro rail by July 2027.",
+        "published_at": "2026-11-22T00:17:43+00:00",
+        "lead_bn": "চট্টগ্রাম নগরের বায়েজিদ বোস্তামীতে যুবদলকর্মী আবু ইউসুফ প্রকাশ জীবন হত্যা মামলায় তিনজনকে গ্রেফতার করেছে এসআরবি।",
+        "lead_en": "SRB has arrested three suspects in the murder case of Jubadal activist Abu Yusuf alias Jiban in Chattogram city's Bayezid Bostami.",
         "bullets_bn": [
-          "উত্তরা থেকে মতিঝিল পর্যন্ত চালু থাকা মেট্রোরেল কমলাপুর রেলওয়ে স্টেশন পর্যন্ত সম্প্রসারণ করা হচ্ছে।",
-          "দেশের প্রধান রেলওয়ে স্টেশনকে মেট্রোরেলের সঙ্গে যুক্ত করার এই প্রকল্প ঘিরে যাত্রীদের প্রত্যাশা বাড়ছে।",
-          "কয়েক দফা সময়সূচি পরিবর্তনের পর সর্বশেষ পরিকল্পনা অনুযায়ী এই নতুন লক্ষ্য নির্ধারণ করা হয়েছে।"
+          "এসআরবি এই তিন আসামিকে গ্রেফতার করেছে।",
+          "মামলাটি যুবদলকর্মী আবু ইউসুফ প্রকাশ জীবন হত্যার ঘটনায় দায়ের করা হয়েছে।",
+          "অভিযানটি চট্টগ্রাম নগরের বায়েজিদ বোস্তামী এলাকায় পরিচালিত হয়েছে।"
         ],
         "bullets_en": [
-          "The currently operational metro rail from Uttara to Motijheel is being extended up to Kamalapur railway station.",
-          "Expectations among passengers are rising around this project to connect the country's main railway station with the metro rail.",
-          "This new target has been set following the latest plan after several schedule changes."
+          "SRB arrested these three suspects.",
+          "The case was filed over the murder of Jubadal activist Abu Yusuf alias Jiban.",
+          "The operation was conducted in Chattogram city's Bayezid Bostami area."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "রাজধানীর গণপরিবহনে নতুন সংযোগ তৈরি করতে উত্তরা থেকে মতিঝিল পর্যন্ত চালু থাকা মেট্রোরেল সম্প্রসারণ করা হচ্ছে কমলাপুর রেলওয়ে স্টেশন পর্যন্ত। দেশের প্রধান রেলওয়ে স্টেশনকে মেট্রোরেলের সঙ্গে যুক্ত করার এই প্রকল্প ঘিরে যাত্রীদের প্রত্যাশা বাড়ছে। তবে কয়েক দফা সময়সূচি পরিবর্তনের পর সর্বশেষ পরিকল্পনায় ২০২৭ সালের জুলাইয়ে মতিঝিল-কমলাপুর অংশে বাণিজ্যিকভাবে ট্রেন চলাচল শুরুর লক্ষ্য নির্ধারণ করা হয়েছে।",
-        "details_en": "To create a new connection in the capital's public transport, the operational metro rail from Uttara to Motijheel is being extended to Kamalapur railway station. Expectations among passengers are rising around this project to connect the country's main railway station with the metro rail. However, after several schedule changes, the latest plan sets the target to start commercial train operations on the Motijheel-Kamalapur section in July 2027.",
-        "hook_bn": "মেট্রোরেল যাবে কমলাপুর, নতুন তারিখ ২০২৭",
-        "kicker_bn": "নতুন তারিখ",
-        "share_value": true,
-        "question_bn": "কমলাপুর পর্যন্ত মেট্রোরেল চালু হলে আপনার যাতায়াতে কেমন সুবিধা হবে বলে মনে করেন?"
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "চট্টগ্রামে যুবদলকর্মী জীবন হত্যা মামলায় গ্রেফতার ৩",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
       },
       "desk_importance": 6.0,
       "outlet_count": 1,
       "trending": false,
-      "social_appeal": 8.0,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T00:01:27.968755+00:00"
+        "checked_at": "2026-11-22T01:01:34.144797+00:00"
       }
     }
   ]
