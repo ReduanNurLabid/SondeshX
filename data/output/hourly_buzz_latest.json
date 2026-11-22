@@ -1,418 +1,402 @@
 {
-  "updated_at": "2026-11-22T19:00:46.318407",
-  "total_stories": 6,
+  "updated_at": "2026-11-22T20:00:45.156696",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "85cbd30a-1f2f-5d59-a260-13b1db276958",
-      "primary_category": "governance_law",
+      "story_id": "b9051ed7-24c6-50e5-8eea-18763a46366f",
+      "primary_category": "society_education",
       "interest_categories": [
-        "governance_law",
-        "world_diplomacy",
-        "society_education"
+        "society_education",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
+        "#Lalbagh",
         "#Bangladesh",
-        "#Governance"
+        "#NationalAffairs"
       ],
-      "image_url": "https://sarabangla.net/wp-content/uploads/2026/10/PM_23.jpg",
+      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZWR1Y2F0aW9uJTIwdW5pdmVyc2l0eSUyMHN0dWRlbnRzJTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1Mzc3Njk2fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-22T17:35:36+00:00",
+      "published_at": "2026-11-22T19:46:54+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 9.0,
-      "rank_score": 7.4563,
+      "importance_score": 6.75,
+      "rank_score": 4.4936,
       "sources": [
         {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/politics/post-1224495/",
-          "title": "জাতীয় ঐক্যের উদ্যোগ, বিরোধীদের সঙ্গে বৈঠকে বসছেন প্রধানমন্ত্রী",
-          "snippet": "জাতীয় ঐক্যের উদ্যোগ, বিরোধীদের সঙ্গে বৈঠকে বসছেন প্রধানমন্ত্রী"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/accidents/425458/six-restaurant-workers-burned-during-gas-line",
+          "title": "Six burned in gas line fire at Lalbagh restaurant",
+          "snippet": "Six burned in gas line fire at Lalbagh restaurant"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/six-suffer-burns-gas-line-explosion-lalbagh-restaurant-1611051",
+          "title": "6 suffer burns in gas line explosion at Lalbagh restaurant",
+          "snippet": "6 suffer burns in gas line explosion at Lalbagh restaurant"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1182509",
+          "title": "লালবাগে রেস্টুরেন্টে গ্যাস লিকেজ থেকে বিস্ফোরণ, দগ্ধ ৬",
+          "snippet": "লালবাগে রেস্টুরেন্টে গ্যাস লিকেজ থেকে বিস্ফোরণ, দগ্ধ ৬"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/national/500081",
+          "title": "লালবাগে রেস্তোরাঁয় গ্যাস লাইনের বিস্ফোরণ, দগ্ধ ৬",
+          "snippet": "লালবাগে রেস্তোরাঁয় গ্যাস লাইনের বিস্ফোরণ, দগ্ধ ৬"
         }
       ],
       "daily_buzz": {
-        "title_bn": "প্রধানমন্ত্রী তারেক রহমান বিরোধী দলগুলোর সঙ্গে বৈঠকের উদ্যোগ নিয়েছেন",
-        "title_en": "Prime Minister Tariq Rahman initiated meetings with opposition parties",
-        "summary_bn": "চলমান রাজনৈতিক অস্থিরতা ও সহিংসতার প্রেক্ষাপটে জাতীয় ঐক্য গড়ে তোলার লক্ষ্যে বিরোধী দলগুলোর সঙ্গে ধারাবাহিক বৈঠকে বসছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "summary_en": "Prime Minister Tariq Rahman is holding continuous meetings with opposition parties to build national unity amid ongoing political unrest and violence.",
+        "title_bn": "লালবাগে রেস্তোরাঁয় গ্যাস লাইনের আগুনে দগ্ধ ৬",
+        "title_en": "Six burned in gas line fire at Lalbagh restaurant",
+        "summary_bn": "রাজধানীর লালবাগে কাচ্চি খানাস রেস্তোরাঁয় গ্যাস লাইন মেরামতের সময় অগ্নিকাণ্ডে পাঁচ কর্মচারীসহ ছয়জন দগ্ধ হয়েছেন।",
+        "summary_en": "Six people, including five workers, suffered burns in a fire during gas line repairs at Kacchi Khanas restaurant in Lalbagh.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "world_diplomacy",
-          "society_education"
+          "society_education",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T17:35:36+00:00",
-        "lead_bn": "চলমান রাজনৈতিক অস্থিরতা ও সহিংসতার প্রেক্ষাপটে জাতীয় ঐক্য গড়ে তোলার লক্ষ্যে বিরোধী দলগুলোর সঙ্গে ধারাবাহিক বৈঠকে বসছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "lead_en": "Prime Minister Tariq Rahman is holding continuous meetings with opposition parties to build national unity amid ongoing political unrest and violence.",
+        "published_at": "2026-11-22T19:46:54+00:00",
+        "lead_bn": "রাজধানীর লালবাগে কাচ্চি খানাস রেস্তোরাঁয় গ্যাস লাইন মেরামতের সময় অগ্নিকাণ্ডে পাঁচ কর্মচারীসহ ছয়জন দগ্ধ হয়েছেন।",
+        "lead_en": "Six people, including five workers, suffered burns in a fire during gas line repairs at Kacchi Khanas restaurant in Lalbagh.",
         "bullets_bn": [
-          "সংলাপ প্রক্রিয়ার অংশ হিসেবে ২৩ নভেম্বর জাতীয় নাগরিক পার্টির (এনসিপি) সঙ্গে বৈঠক হওয়ার কথা রয়েছে।",
-          "এনসিপির পর বাংলাদেশ জামায়াতে ইসলামীর সঙ্গে বৈঠক হবে, যার তারিখ নির্ধারিত হবে দলটির আমিরের ২৬ নভেম্বর দেশে ফেরার পর।",
-          "রাজনৈতিক দলগুলোর মধ্যে অভিন্ন অবস্থান তৈরি হলে তা আইনশৃঙ্খলা নিয়ন্ত্রণ এবং রাজনৈতিক স্থিতিশীলতা প্রতিষ্ঠায় ভূমিকা রাখতে পারে।"
+          "ঘটনাটি ঘটেছে ২২ নভেম্বর রাত সাড়ে আটটায় লালবাগ থানা এলাকার কাচ্চি খানাস রেস্তোরাঁয়।",
+          "দগ্ধ ব্যক্তিরা হলেন নয়ন, জনি, নিরব, নয়ন, রবিন ও পলাশ।",
+          "আহত ব্যক্তিদের উদ্ধার করে জাতীয় বার্ন অ্যান্ড প্লাস্টিক সার্জারি ইনস্টিটিউটে নেওয়া হয়েছে।"
         ],
         "bullets_en": [
-          "A meeting with the National Citizen Party (NCP) is scheduled to be held as part of the dialogue process.",
-          "A meeting with Bangladesh Jamaat-e-Islami will follow the NCP, with the date to be set after the party amir returns to the country.",
-          "Forming a unified stance among political parties could help control law and order and establish political stability."
+          "The incident occurred around 8:30 pm on November 22 at Kacchi Khanas restaurant under Lalbagh Police Station.",
+          "The injured are Noyon, Joni, Nirob, Noyon, Robin, and Polash.",
+          "The injured were rescued and taken to the National Institute of Burn and Plastic Surgery."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "দেশের রাজনৈতিক পরিস্থিতি এবং কার্যক্রম নিষিদ্ধ আওয়ামী লীগের সাম্প্রতিক সহিংসতার প্রেক্ষাপটে রাজনৈতিকভাবে ঐক্যবদ্ধ অবস্থান তৈরির জন্য প্রধানমন্ত্রী এই উদ্যোগ নিয়েছেন। এর আগে ১৮ নভেম্বর জাতীয় সংসদে প্রধানমন্ত্রী ও বিরোধীদলীয় নেতার মধ্যে একান্ত বৈঠক হয়েছিল।",
-        "details_en": "The Prime Minister took this initiative to create a politically united stance in the context of the country's political situation and recent violence by the banned Awami League. Earlier on November 18, an exclusive meeting took place between the Prime Minister and the opposition leader in the national parliament.",
-        "hook_bn": "বিরোধীদের সঙ্গে বৈঠকে বসছেন প্রধানমন্ত্রী তারেক রহমান",
-        "kicker_bn": "জাতীয় ঐক্য",
+        "details_bn": "সহকর্মী শাকিল জানিয়েছেন, রেস্তোরাঁয় গ্যাস লাইনের মেরামতের কাজ করানোর সময় হঠাৎ করে আগুন ও বিস্ফোরণ ঘটে। পরে আহত অবস্থায় সবাইকে উদ্ধার করে হাসপাতালে নেওয়া হয়।",
+        "details_en": "Colleague Shakil said that flames suddenly flared up during gas line repair work at the restaurant, and the injured were subsequently rescued and taken to the hospital.",
+        "hook_bn": "লালবাগে রেস্তোরাঁয় গ্যাস লাইনের বিস্ফোরণে দগ্ধ ৬",
+        "kicker_bn": null,
         "share_value": false,
-        "question_bn": "জাতীয় ঐক্য প্রতিষ্ঠায় রাজনৈতিক দলগুলোর এই সংলাপ কতটা কার্যকর ভূমিকা রাখতে পারে বলে আপনি মনে করেন?"
+        "question_bn": null
       },
+      "desk_importance": 6.0,
+      "outlet_count": 5,
+      "trending": false,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T19:02:02.573929+00:00"
+        "checked_at": "2026-11-22T20:02:12.569779+00:00"
       }
     },
     {
-      "story_id": "7b8007ad-9870-51dd-9f86-5d1c362118c6",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1614610741181-2bce5e06976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z292ZXJubWVudCUyMGluaXRpYXRlcyUyMG5hdGlvbmFsJTIwZGlhbG9ndWUlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTUzNzQxMDF8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-22T18:17:43+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 4.1758,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/982615/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%AA-%E0%A6%90%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A6%BF-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95",
-          "title": "প্রধানমন্ত্রীর সংলাপ: ঐক্যের উদ্যোগ, নাকি রাজনৈতিক সমীকরণ?",
-          "snippet": "প্রধানমন্ত্রীর সংলাপ: ঐক্যের উদ্যোগ, নাকি রাজনৈতিক সমীকরণ?"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জাতীয় সংলাপ শুরু করছে সরকার",
-        "title_en": "Government initiates national dialogue",
-        "summary_bn": "দেশের চলমান পরিস্থিতিতে জুলাই আন্দোলনের পক্ষের রাজনৈতিক দলগুলোর সঙ্গে জাতীয় সংলাপের উদ্যোগ নিয়েছে সরকার।",
-        "summary_en": "The government has initiated a national dialogue with political parties supporting the July movement amid the country's current situation.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T18:17:43+00:00",
-        "lead_bn": "দেশের চলমান পরিস্থিতিতে জুলাই আন্দোলনের পক্ষের রাজনৈতিক দলগুলোর সঙ্গে জাতীয় সংলাপের উদ্যোগ নিয়েছে সরকার।",
-        "lead_en": "The government has initiated a national dialogue with political parties supporting the July movement amid the country's current situation.",
-        "bullets_bn": [
-          "প্রধানমন্ত্রী বাসভবন যমুনায় জাতীয় নাগরিক পার্টির নেতাদের সঙ্গে বৈঠকে বসবেন।",
-          "বিএনপি ও এনসিপির দুই পক্ষই বৈঠকের বিষয়টি নিশ্চিত করেছে।",
-          "পর্যায়েক্রমে অন্য রাজনৈতিক দলগুলোকেও সংলাপে আমন্ত্রণ জানানোর কথা রয়েছে।"
-        ],
-        "bullets_en": [
-          "Leaders of the National Citizen Party will sit for a meeting at the Prime Minister's residence Jamuna.",
-          "Both the BNP and NCP factions have confirmed the matter of the meeting.",
-          "Other political parties are scheduled to be invited to the dialogue in phases."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "জাতীয় সংলাপ শুরু করছে সরকার",
-        "kicker_bn": "নতুন উদ্যোগ",
-        "share_value": false,
-        "question_bn": "রাজনৈতিক দলগুলোর এই সংলাপ দেশের পরিস্থিতিতে কী ধরনের প্রভাব ফেলতে পারে বলে আপনি মনে করেন?"
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T19:02:02.573929+00:00"
-      }
-    },
-    {
-      "story_id": "f3d19e06-52f4-5c53-ae33-85fa12661857",
+      "story_id": "55a66ab5-71fd-5fcd-ae3f-29bcd78346e4",
       "primary_category": "economy_business",
       "interest_categories": [
-        "economy_business",
-        "society_education"
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#GarmentWorkers",
-        "#MinimumWage",
-        "#PPRC",
-        "#Bangladesh"
+        "#IslamiBank",
+        "#BangladeshBank"
       ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/minimum%20wage%20board.png",
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/rescue-Islami-Bank.jpg",
       "image_caption": null,
       "published_at": "2026-11-22T18:00:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.3927,
+      "importance_score": 7.0,
+      "rank_score": 4.36,
       "sources": [
         {
           "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/economy/news/fair-rmg-wages-must-go-beyond-inflation-4330676",
-          "title": "Fair RMG wages must go beyond inflation",
-          "snippet": "Fair RMG wages must go beyond inflation"
+          "url": "https://www.thedailystar.net/business/economy/news/will-state-ownership-rescue-islami-bank-or-deepen-its-woes-4330681",
+          "title": "Will state ownership rescue Islami Bank or deepen its woes?",
+          "snippet": "Will state ownership rescue Islami Bank or deepen its woes?"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পোশাক শ্রমিকের ন্যূনতম মজুরি শুধু মুদ্রাস্ফীতির ওপর নির্ভর করা উচিত নয়",
-        "title_en": "Fair RMG wages must go beyond inflation, say labour leaders",
-        "summary_bn": "শ্রমিক নেতা ও শিল্প প্রতিনিধিরা বলেছেন, পোশাক শ্রমিকদের ন্যূনতম মজুরি কেবল মুদ্রাস্ফীতির ভিত্তিতে না হয়ে জীবনযাত্রার ব্যয়ের প্রতিফলন হওয়া উচিত।",
-        "summary_en": "Labour leaders and industry representatives said garment workers minimum wages should reflect living costs rather than being determined by inflation alone.",
+        "title_bn": "ইসলামী ব্যাংক সরকারের কাছে নতুন শেয়ার বিক্রির প্রস্তাব দিয়েছে।",
+        "title_en": "Islami Bank has proposed offering fresh shares to the government.",
+        "summary_bn": "স্ক্যামে আক্রান্ত ইসলামী ব্যাংক মূলধন বাড়াতে সরকারকে শেয়ার দিয়ে কৌশলগত অংশীদার করার প্রস্তাব দিয়েছে।",
+        "summary_en": "Scam-hit Islami Bank has proposed raising fresh capital by offering shares to the government to become a strategic partner.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "society_education"
+          "economy_business"
         ],
         "read_time_seconds": 60,
         "published_at": "2026-11-22T18:00:00+00:00",
-        "lead_bn": "শ্রমিক নেতা ও শিল্প প্রতিনিধিরা বলেছেন, পোশাক শ্রমিকদের ন্যূনতম মজুরি কেবল মুদ্রাস্ফীতির ভিত্তিতে না হয়ে জীবনযাত্রার ব্যয়ের প্রতিফলন হওয়া উচিত।",
-        "lead_en": "Labour leaders and industry representatives said garment workers minimum wages should reflect living costs rather than being determined by inflation alone.",
+        "lead_bn": "স্ক্যামে আক্রান্ত ইসলামী ব্যাংক মূলধন বাড়াতে সরকারকে শেয়ার দিয়ে কৌশলগত অংশীদার করার প্রস্তাব দিয়েছে।",
+        "lead_en": "Scam-hit Islami Bank has proposed raising fresh capital by offering shares to the government to become a strategic partner.",
         "bullets_bn": [
-          "বক্তারা স্বাস্থ্যসেবা, শিক্ষা ও আবাসন খরচ এবং শিল্পের পরিশোধ ক্ষমতা বিবেচনা করার আহ্বান জানিয়েছেন।",
-          "তারা একটি জাতীয় ন্যূনতম মজুরি বেঞ্চমার্ক ও খাতভিত্তিক মজুরির জন্য গবেষণালব্ধ প্রক্রিয়া দাবি করেছেন।",
-          "পাওয়ার অ্যান্ড পার্টিসিপেশন রিসার্চ সেন্টার আয়োজিত একটি ওয়েবিনারে এই সুপারিশগুলো দেওয়া হয়।"
+          "ব্যাংকটি বাংলাদেশ ব্যাংকের কাছে জমা দেওয়া এক পরিকল্পনায়ে এই প্রস্তাব দিয়েছে।",
+          "প্রস্তাব অনুযায়ী, ১০ টাকা অভিহিত মূল্যের ৬০০ কোটি নতুন শেয়ার ইস্যু করে পেইড-আপ ক্যাপিটাল ৬,০০০ কোটি টাকা বাড়ানো হবে।",
+          "বাংলাদেশ ব্যাংকের নির্বাহী পরিচালক মোহাম্মদ জহির হুসেন জানান, বেসরকারি অংশীদার আনা বা অন্য বিনিয়োগকারীকে শেয়ার দেওয়া ঝুঁকিপূর্ণ হতে পারে।"
         ],
         "bullets_en": [
-          "Speakers called for reflecting healthcare, education, housing costs and the industry capacity to pay.",
-          "They demanded a national minimum wage benchmark and a research-based process for sectoral wages.",
-          "The recommendations came at a webinar organised by the Power and Participation Research Centre."
+          "The lender proposed the plan in a submission to the Bangladesh Bank earlier this year.",
+          "It plans to increase paid-up capital by Tk 6,000 crore by issuing 600 crore new shares at Tk 10 each.",
+          "Bangladesh Bank executive director Mohammad Zahir Hussain said bringing private sector partners could raise various questions and risks."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "পোশাক শ্রমিকদের ন্যূনতম মজুরি ২০২৩ সালের নভেম্বর মাসে ১২,৫০০ টাকা নির্ধারণ করা হয়েছিল এবং বর্তমান মজুরি কাঠামো চলতি বছরের ডিসেম্বরে শেষ হওয়ার কথা রয়েছে। প্রাসঙ্গিক নিয়মগুলোতে জীবনযাত্রার ব্যয়, পণ্যের দাম, উৎপাদনশীলতা, শিল্প সক্ষমতা ও সার্বিক অর্থনৈতিক পরিস্থিতি বিবেচনা করার কথা বলা হলেও কীভাবে তা মূল্যায়ন করতে হবে তা নির্দিষ্ট করা নেই।",
-        "details_en": "The minimum wage for garment workers was last set at Tk 12,500 in November 2023, with the current wage structure due to expire in December this year. Relevant rules listed the cost of living, commodity prices, productivity, industrial capacity and the overall economic situation as considerations, but did not specify how to assess them.",
-        "hook_bn": "জীবনযাত্রার ব্যয়ের ওপর ভিত্তি করে মজুরি নির্ধারণের দাবি",
-        "kicker_bn": "মজুরি বোর্ড",
+        "details_bn": "বর্তমান ১,৬১০ কোটি টাকার পরিশোধিত মূলধন থেকে এই পরিমাণ বাড়িয়ে ব্যাংকটি সরকারকে প্রায় ৮০ শতাংশ মালিকানা দেওয়ার প্রস্তাব করেছে। কেন্দ্রীয় ব্যাংকের ক্ষমতা প্রাপ্ত নির্বাহী পরিচালক মোহাম্মদ জহির হুসেন জানান, ব্যাংকটি এই প্রস্তাব কেন্দ্রীয় ব্যাংককে জানিয়েছে এবং কেন্দ্রীয় ব্যাংক সরকারকে বিষয়টি অবহিত করেছে।",
+        "details_en": "The shariah-based lender proposed increasing its paid-up capital from the current Tk 1,610 crore to bring the state on board as a strategic partner holding around 80 percent ownership. Bangladesh Bank executive director Mohammad Zahir Hussain stated that the central bank has informed the government about this proposal.",
+        "hook_bn": "ইসলামী ব্যাংকের সরকারের কাছে শেয়ার বিক্রির প্রস্তাব",
+        "kicker_bn": null,
         "share_value": false,
-        "question_bn": "পোশাক শ্রমিকদের ন্যূনতম মজুরি নির্ধারণে জীবনযাত্রার ব্যয়ের পাশাপাশি আর কোন বিষয়গুলো বিবেচনা করা উচিত বলে আপনি মনে করেন?"
+        "question_bn": "ইসলামী ব্যাংকে সরকারের অংশীদারিত্ব বাড়ার এই সিদ্ধান্ত ব্যাংকিং খাতে কী প্রভাব ফেলবে বলে আপনার মনে হয়?"
       },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T19:02:02.573929+00:00"
+        "checked_at": "2026-11-22T20:02:12.569779+00:00"
       }
     },
     {
-      "story_id": "35e87b24-1e17-5b63-a023-474f5127e7eb",
-      "primary_category": "climate_environment",
+      "story_id": "cb8656d5-218f-51b4-a742-33dce9069bf4",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "climate_environment",
-        "world_diplomacy"
+        "governance_law",
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Climate",
-        "#Environment"
+        "#Narayanganj",
+        "#Fatullah",
+        "#BangladeshPolice"
       ],
-      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8am9pbnQlMjBjb21taXR0ZWUlMjBoZWxkJTIwZmluYWwlMjBlbnZpcm9ubWVudHxlbnwxfDB8fHwxNzk1Mzc0MTE0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/21/dead_2.jpg",
       "image_caption": null,
-      "published_at": "2026-11-22T17:36:09+00:00",
+      "published_at": "2026-11-22T19:10:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.122,
+      "importance_score": 6.75,
+      "rank_score": 4.3368,
       "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/crime/police-constable-stabbed-death-narayanganjs-fatullah-one-detained-1611061",
+          "title": "Police constable stabbed to death in Narayanganj's Fatullah; one detained",
+          "snippet": "Police constable stabbed to death in Narayanganj's Fatullah; one detained"
+        },
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/r5chx5vpe6",
+          "title": "ফতুল্লায় ছুরিকাঘাতে পুলিশ কনস্টেবল খুন, প্রাণে বাঁচলেন এএসআই",
+          "snippet": "ফতুল্লায় ছুরিকাঘাতে পুলিশ কনস্টেবল খুন, প্রাণে বাঁচলেন এএসআই"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/constable-stabbed-death-while-gathering-intel-nganj-4330856",
+          "title": "Constable stabbed to death while gathering intel in N’ganj",
+          "snippet": "Constable stabbed to death while gathering intel in N’ganj"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1182511",
+          "title": "নারায়ণগঞ্জে পুলিশ সদস্যকে ছুরিকাঘাতে হত্যা",
+          "snippet": "নারায়ণগঞ্জে পুলিশ সদস্যকে ছুরিকাঘাতে হত্যা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নারায়ণগঞ্জের ফতুল্লায় ছুরিকাঘাতে পুলিশ কনস্টেবল নিহত, আটক ১",
+        "title_en": "Police constable stabbed to death in Narayanganj's Fatullah, one detained",
+        "summary_bn": "নারায়ণগঞ্জের ফতুল্লায় সাদা পোশাকে তথ্য সংগ্রহ করতে গিয়ে দুর্বৃত্তদের ছুরিকাঘাতে আনোয়ার হোসেন নামের এক পুলিশ কনস্টেবল নিহত হয়েছেন।",
+        "summary_en": "Police constable Anwar Hossain was stabbed to death by unidentified assailants while gathering information in Narayanganj's Fatullah.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-22T19:10:00+00:00",
+        "lead_bn": "নারায়ণগঞ্জের ফতুল্লায় সাদা পোশাকে তথ্য সংগ্রহ করতে গিয়ে দুর্বৃত্তদের ছুরিকাঘাতে আনোয়ার হোসেন নামের এক পুলিশ কনস্টেবল নিহত হয়েছেন।",
+        "lead_en": "Police constable Anwar Hossain was stabbed to death by unidentified assailants while gathering information in Narayanganj's Fatullah.",
+        "bullets_bn": [
+          "ঘটনাটি ঘটেছে ২২ নভেম্বর রাত সাড়ে দশটার দিকে ফতুল্লার দেওভোগের হাশেমবাগ এলাকায়।",
+          "অতিরিক্ত পুলিশ সুপার তারেক আল মেহেদী জানান, এ ঘটনায় এক ব্যক্তিকে আটক করা হয়েছে।",
+          "নিহত কনস্টেবল ও এএসআই আবদুস সাত্তার সদর মডেল থানার শীতলক্ষ্যা পুলিশ ফাঁড়িতে কর্মরত ছিলেন।"
+        ],
+        "bullets_en": [
+          "The attack took place around 10:30pm on 22 November in the Hasembagh area of Deobhog, Fatullah.",
+          "Additional Superintendent of Police Tarek Al Mehedi confirmed that one person has been detained in connection with the killing.",
+          "The slain constable and ASI Abdus Sattar were both posted at the Shitalakshya Police Outpost of Narayanganj Sadar Model Police Station."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "শীতলক্ষ্যা পুলিশ ফাঁড়ির কনস্টেবল আনোয়ার হোসেন ও এএসআই আবদুস সাত্তার সাদা পোশাকে হাশেমবাগ এলাকায় গোয়েন্দা তথ্য সংগ্রহ করতে গিয়েছিলেন। এ সময় অজ্ঞাতপরিচয় দুর্বৃত্তরা তাদের ধাওয়া করলে এএসআই সাত্তার পালিয়ে বাঁচলেও আনোয়ারের বুকে ছুরিকাঘাত করা হয়। পুলিশ ঘটনাস্থল থেকে মরদেহ উদ্ধার করে হাসপাতালের মর্গে পাঠিয়েছে।",
+        "details_en": "Constable Anwar Hossain and ASI Abdus Sattar, both from the Shitalakshya Police Outpost, went to the Hasembagh area in plain clothes to gather intelligence. Unidentified assailants chased the two officers, and while Sattar managed to escape, the attackers stabbed Anwar in the chest. Police recovered the body and sent it to a hospital morgue for autopsy.",
+        "hook_bn": "ফতুল্লায় হাশেমবাগে পুলিশ সদস্যকে ছুরিকাঘাতে হত্যা",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 6,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-22T20:02:12.569779+00:00"
+      }
+    },
+    {
+      "story_id": "3f18d50b-c14a-54ee-9e79-00326a04a4f0",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#BomaruMamun",
+        "#NeoJMB",
+        "#Lakshmipur",
+        "#BangladeshPolice"
+      ],
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Bomaru-mamun.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-22T18:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.75,
+      "rank_score": 4.0541,
+      "sources": [
+        {
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/man-held-lakshmipur-identified-bomaru-mamun-4330811",
+          "title": "Man held in Lakshmipur identified as ‘Bomaru Mamun’",
+          "snippet": "Man held in Lakshmipur identified as ‘Bomaru Mamun’"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/crime/neo-jmb-member-bomaru-mamun-arrested-lakshmipur-after-hiding-under-false-identity",
+          "title": "Neo-JMB member 'Bomaru Mamun' arrested in Lakshmipur after hiding under false identity",
+          "snippet": "Neo-JMB member 'Bomaru Mamun' arrested in Lakshmipur after hiding under false identity"
+        },
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/xny2tq569i",
+          "title": "পরিচয় গোপন করে দুই মাস ধরে লক্ষ্মীপুরে আত্মগোপনে ছিলেন ‘বোমারু মামুন’",
+          "snippet": "পরিচয় গোপন করে দুই মাস ধরে লক্ষ্মীপুরে আত্মগোপনে ছিলেন ‘বোমারু মামুন’"
+        },
         {
           "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822495/%E0%A6%97%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE-%E0%A6%9A%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A7%9F-%E0%A6%9C%E0%A7%87%E0%A6%86%E0%A6%B0%E0%A6%B8%E0%A6%BF%E0%A6%B0-%E0%A6%B6%E0%A7%87%E0%A6%B7",
-          "title": "গঙ্গা চুক্তির বাস্তবায়ন নিয়ে ঢাকায় জেআরসির শেষ বৈঠক",
-          "snippet": "গঙ্গা চুক্তির বাস্তবায়ন নিয়ে ঢাকায় জেআরসির শেষ বৈঠক"
+          "url": "https://www.ittefaq.com.bd/822500/%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E2%80%98%E0%A6%AC%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%81-%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A7%81%E0%A6%A8%E2%80%99-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%AC%E0%A6%A6%E0%A6%B2%E0%A7%87",
+          "title": "লক্ষ্মীপুরে গ্রেপ্তার ‘বোমারু মামুন’, পরিচয় বদলে ছিলেন আত্মগোপনে",
+          "snippet": "লক্ষ্মীপুরে গ্রেপ্তার ‘বোমারু মামুন’, পরিচয় বদলে ছিলেন আত্মগোপনে"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গঙ্গা চুক্তির বাস্তবায়ন নিয়ে ঢাকায় যৌথ কমিটির শেষ বৈঠক অনুষ্ঠিত হয়েছে।",
-        "title_en": "The joint committee held its final meeting in Dhaka on the implementation of the Ganges treaty.",
-        "summary_bn": "গঙ্গার পানিবণ্টন চুক্তির নবায়ন নিয়ে অনিশ্চয়তার মধ্যে চুক্তির বাস্তবায়ন পর্যবেক্ষণে ঢাকায় শেষ বৈঠক করেছে বাংলাদেশ ও ভারতের যৌথ কমিটি।",
-        "summary_en": "Amid uncertainty over the renewal of the Ganges water-sharing treaty, the joint committee of Bangladesh and India held its final meeting in Dhaka to monitor implementation.",
+        "title_bn": "লক্ষ্মীপুরে নব্য জেএমবির সদস্য বোমারু মামুন গ্রেপ্তার",
+        "title_en": "Neo-JMB member Bomaru Mamun arrested in Lakshmipur",
+        "summary_bn": "লক্ষ্মীপুরের রায়পুর উপজেলায় স্থানীয় লোকজনের হাতে আটক নব্য জেএমবির সদস্য নাজমুল হাসান মামুনকে গ্রেপ্তার করেছে পুলিশ।",
+        "summary_en": "Police have arrested Neo-JMB member Nazmul Hasan Mamun after locals detained him in Lakshmipur’s Raipur upazila.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "climate_environment",
-          "world_diplomacy"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T17:36:09+00:00",
-        "lead_bn": "গঙ্গার পানিবণ্টন চুক্তির নবায়ন নিয়ে অনিশ্চয়তার মধ্যে চুক্তির বাস্তবায়ন পর্যবেক্ষণে ঢাকায় শেষ বৈঠক করেছে বাংলাদেশ ও ভারতের যৌথ কমিটি।",
-        "lead_en": "Amid uncertainty over the renewal of the Ganges water-sharing treaty, the joint committee of Bangladesh and India held its final meeting in Dhaka to monitor implementation.",
+        "published_at": "2026-11-22T18:00:00+00:00",
+        "lead_bn": "লক্ষ্মীপুরের রায়পুর উপজেলায় স্থানীয় লোকজনের হাতে আটক নব্য জেএমবির সদস্য নাজমুল হাসান মামুনকে গ্রেপ্তার করেছে পুলিশ।",
+        "lead_en": "Police have arrested Neo-JMB member Nazmul Hasan Mamun after locals detained him in Lakshmipur’s Raipur upazila.",
         "bullets_bn": [
-          "রাজধানীর একটি হোটেলে যৌথ নদী কমিশনের সদস্যদের নেতৃত্বে গঠিত এ কমিটির ৯১তম বৈঠক অনুষ্ঠিত হয়।",
-          "যৌথ নদী কমিশনের এক বিজ্ঞপ্তিতে এ বৈঠকের তথ্য জানানো হয়।",
-          "১৯৯৬ সালের ১২ ডিসেম্বর বাংলাদেশ ও ভারতের মধ্যে গঙ্গার পানিবণ্টন চুক্তি সই হয়।"
+          "রায়পুরে স্থানীয়রা ধাওয়া করলে তিনি একটি ককটেল বিস্ফোরণ ঘটান।",
+          "পুলিশ জানায়, রিমান্ডে জিজ্ঞাসাবাদের সময় তার আসল পরিচয় প্রকাশ পায়।",
+          "পুলিশ তার ভাড়া বাসা থেকে ১১টি ইম্প্রোভাইজড এক্সপ্লোসিভ ডিভাইস উদ্ধার করেছে।"
         ],
         "bullets_en": [
-          "The 91st meeting of the committee, led by members of the Joint Rivers Commission, was held at a hotel in the capital.",
-          "A press release from the Joint Rivers Commission informed about this meeting.",
-          "The Ganges water-sharing treaty was signed between Bangladesh and India on 12 December 1996."
+          "He allegedly detonated a crude bomb when locals chased him in Raipur.",
+          "Police said his real identity came to light during interrogation in remand.",
+          "Police recovered 11 improvised explosive devices from his rented house."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "৩০ বছর মেয়াদি গঙ্গার পানিবণ্টন চুক্তির নবায়ন নিয়ে অনিশ্চয়তার মধ্যে চুক্তির বাস্তবায়ন পর্যবেক্ষণে ঢাকায় এই শেষ বৈঠক অনুষ্ঠিত হয়। যৌথ নদী কমিশনের এক বিজ্ঞপ্তিতে জানানো হয়, ১৯৯৬ সালের ১২ ডিসেম্বর বাংলাদেশ ও ভারতের মধ্যে গঙ্গার পানিবণ্টন চুক্তি সই হয়।",
-        "details_en": "Amid uncertainty over the renewal of the 30-year Ganges water-sharing treaty, this final meeting was held in Dhaka to monitor the implementation of the agreement. A press release from the Joint Rivers Commission stated that the Ganges water-sharing treaty was signed between Bangladesh and India on 12 December 1996.",
-        "hook_bn": "ঢাকায় অনুষ্ঠিত হলো যৌথ কমিটির বৈঠক",
-        "kicker_bn": "যৌথ বৈঠক",
-        "share_value": false,
-        "question_bn": "গঙ্গার পানিবণ্টন চুক্তি নিয়ে আপনার মতামত কী?"
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T19:02:02.573929+00:00"
-      }
-    },
-    {
-      "story_id": "aa1b577c-1a81-5e98-a671-9a5acad1d342",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#Benghazi",
-        "#Libya",
-        "#Russia"
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0559/live/3e9dd1e0-e692-11f1-936e-1fd1d31671db.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-22T17:16:47+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.55,
-      "rank_score": 0.5878,
-      "sources": [
-        {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-          "snippet": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say"
-        },
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
-          "title": "Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base",
-          "snippet": "Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base"
-        },
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-          "title": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities",
-          "snippet": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities"
-        },
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/libya-suspected-drone-attack-hits-russian-ship-in-benghazi/a-80014545?maca=en-rss-en-all-1573-rdf",
-          "title": "Libya: Suspected drone attack hits Russian ship in Benghazi",
-          "snippet": "Libya: Suspected drone attack hits Russian ship in Benghazi"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "লিবিয়ার বেনগাজিতে রুশ জাহাজে সন্দেহভাজন ড্রোন হামলা হয়েছে।",
-        "title_en": "Explosion on Russian ship at Libya port caused by suspected drone attack.",
-        "summary_bn": "লিবিয়ার বেনগাজি নৌঘাঁটি বন্দরে একটি রুশ জাহাজে বিস্ফোরণ ঘটে এবং একে সন্দেহভাজন ড্রোন হামলা বলে জানিয়েছে লিবিয়ার পূর্বের সরকার।",
-        "summary_en": "An explosion on a Russian ship docked at Benghazi naval base port was caused by a suspected drone attack, Libya's eastern government has said.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T17:16:47+00:00",
-        "lead_bn": "লিবিয়ার বেনগাজি নৌঘাঁটি বন্দরে একটি রুশ জাহাজে বিস্ফোরণ ঘটে এবং একে সন্দেহভাজন ড্রোন হামলা বলে জানিয়েছে লিবিয়ার পূর্বের সরকার।",
-        "lead_en": "An explosion on a Russian ship docked at Benghazi naval base port was caused by a suspected drone attack, Libya's eastern government has said.",
-        "bullets_bn": [
-          "রোববার ভোরে রুশ জাহাজে এই বিস্ফোরণ ঘটে যখন জাহাজটি জ্বালানি ও রসদের জন্য থেমেছিল।",
-          "স্যাটেলাইট চিত্রে বেনগাজি বন্দরে একটি জাহাজে আগুন ও পরে সেটি আংশিক নিমজ্জিত দেখা গেছে।",
-          "লিবিয়ার পূর্বের সরকার এই হামলার নিন্দা জানিয়ে বলেছে তারা রাশিয়ার সঙ্গে সমন্বয় করে তদন্ত করছে।"
-        ],
-        "bullets_en": [
-          "The explosion happened at dawn while the ship had stopped for fuel and supplies on its way back to Russia.",
-          "Satellite imagery shows a boat on fire at the Benghazi port and a separate image shows it partially submerged.",
-          "The eastern-based government condemned the attack and said authorities are coordinating with Russian counterparts to investigate."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "লিবিয়ার পূর্বের সরকার জানিয়েছে, রাশিয়ার জাহাজটি বিদ্যমান সমুদ্র চুক্তির কাঠামোর মধ্যে বেনগাজি বন্দর ব্যবহার করছিল। লিবিয়া রাশিয়া-ইউক্রেন যুদ্ধ বা এর বাইরের কোনো সংঘাতে পক্ষ নয় বলে সরকার উল্লেখ করেছে। এই হামলায় কেউ দায়িত্ব স্বীকার করেনি এবং মস্কো থেকে তাৎক্ষণিক কোনো মন্তব্য পাওয়া যায়নি।",
-        "details_en": "The eastern-based Government of National Stability said the Russian ship was using the Benghazi port within the framework of an existing maritime agreement. It added that Libya was not party to the Russia-Ukraine war, or any other conflict beyond its borders. No one has claimed responsibility for the strike, and Moscow has yet to comment.",
-        "hook_bn": "বেনগাজি বন্দরে রুশ জাহাজে বিস্ফোরণ",
+        "details_bn": "৩০ বছর বয়সী নাজমুল হাসান মামুন সাইফুল ইসলাম সুজন নাম ব্যবহার করে ভোলার সদর উপজেলার বাসিন্দা পরিচয়ে প্রায় দুই মাস ধরে রায়পুরের চরবংশী এলাকায় একটি বাড়ি ভাড়া নিয়ে বসবাস করছিলেন। সেখানে এক নারী ও এক পুরুষের সঙ্গে তিনি থাকতেন এবং চর এলাকায় একটি পোলট্রি ফার্ম করার কথা জানিয়েছিলেন।",
+        "details_en": "The 30-year-old Nazmul Hasan Mamun had been living in Raipur’s Charbangshi area for around two months using the false identity of Saiful Islam Sujon, a resident of Bhola Sadar, along with a man and a woman.",
+        "hook_bn": "লক্ষ্মীপুরে বোমারু মামুন গ্রেপ্তার",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
+      "desk_importance": 6.0,
+      "outlet_count": 5,
+      "trending": false,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T19:02:02.573929+00:00"
+        "checked_at": "2026-11-22T20:02:12.569779+00:00"
       }
     },
     {
-      "story_id": "129e5440-280f-5bd4-86fc-caf0a3215af9",
-      "primary_category": "tech_innovation",
+      "story_id": "4982e36b-f900-5c00-bddd-e0510d4b9c37",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "tech_innovation",
-        "world_diplomacy"
+        "economy_business"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#Anthropic",
-        "#Claude",
-        "#RiemannHypothesis",
-        "#LeventAlpoge"
+        "#Ecnec",
+        "#BangladeshDevelopment"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a7ad1c833428adafc056e7f188ca63a",
+      "image_url": "https://images.unsplash.com/photo-1783260606348-bb2deaa215a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZWNuZWMlMjBhcHByb3ZlZCUyMGRldmVsb3BtZW50JTIwcHJvamVjdHMlMjBidXNpbmVzc3xlbnwxfDB8fHwxNzk1Mzc3NzI2fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-22T17:55:27+00:00",
+      "published_at": "2026-11-22T19:36:06+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.2712,
+      "importance_score": 6.0,
+      "rank_score": 3.5137,
       "sources": [
         {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-          "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-          "snippet": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/opinion/editorial/425456/execution-is-everything-for-development-projects",
+          "title": "Execution is everything for development projects",
+          "snippet": "Execution is everything for development projects"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রিমান অনুমান প্রমাণে সাহায্য করেছে অ্যানথ্রপিকের এআই ক্লাউড",
-        "title_en": "Anthropic AI software Claude helped prove the Riemann hypothesis",
-        "summary_bn": "তুর্কি আমেরিকান গণিতবিদ লেভেন্ট আলপোজে জানিয়েছেন, অ্যানথ্রপিকের এআই সফটওয়্যার ক্লাউড গাণিতিক সমস্যা রিমান অনুমান প্রমাণে সহায়তা করেছে।",
-        "summary_en": "Turkish American mathematician Levent Alpöge said that Anthropic AI software Claude helped prove the Riemann hypothesis.",
+        "title_bn": "একনেক ১৬টি উন্নয়ন প্রকল্প অনুমোদন করেছে",
+        "title_en": "Ecnec approved 16 development projects",
+        "summary_bn": "জাতীয় অর্থনৈতিক পরিষদের নির্বাহী কমিটি বা একনেক ৩৩,২৯৮.৪৮ কোটি টাকা ব্যয়ে ১৬টি নতুন উন্নয়ন প্রকল্প অনুমোদন করেছে।",
+        "summary_en": "The Executive Committee of the National Economic Council approved 16 development projects worth Tk33,298.48 crore.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "tech_innovation",
-          "world_diplomacy"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T17:55:27+00:00",
-        "lead_bn": "তুর্কি আমেরিকান গণিতবিদ লেভেন্ট আলপোজে জানিয়েছেন, অ্যানথ্রপিকের এআই সফটওয়্যার ক্লাউড গাণিতিক সমস্যা রিমান অনুমান প্রমাণে সহায়তা করেছে।",
-        "lead_en": "Turkish American mathematician Levent Alpöge said that Anthropic AI software Claude helped prove the Riemann hypothesis.",
+        "published_at": "2026-11-22T19:36:06+00:00",
+        "lead_bn": "জাতীয় অর্থনৈতিক পরিষদের নির্বাহী কমিটি বা একনেক ৩৩,২৯৮.৪৮ কোটি টাকা ব্যয়ে ১৬টি নতুন উন্নয়ন প্রকল্প অনুমোদন করেছে।",
+        "lead_en": "The Executive Committee of the National Economic Council approved 16 development projects worth Tk33,298.48 crore.",
         "bullets_bn": [
-          "লিভেন্ট আলপোজে তার ব্যক্তিগত ওয়েবসাইটে একটি নোট পোস্ট করে এই তথ্য জানিয়েছেন।",
-          "দুটি সংস্থা জানিয়েছে যে তারা আলপোজের দাবি স্বাধীনভাবে যাচাই করেছে।",
-          "আলপোজে এমন একটি প্রোগ্রামিং ভাষা ব্যবহার করেছেন যা লিন নামে পরিচিত।"
+          "অনুমোদিত প্রকল্পের মোট ব্যয়ের মধ্যে পাঁচশ কোটি টাকার কম বিদেশি উৎস থেকে আসবে।",
+          "এই প্রকল্পগুলোর মাধ্যমে গ্রামীণ সংযোগ জোরদার করা হবে।",
+          "প্রকল্পগুলোর মধ্যে মৃত প্রায় জলপথ পুনরুজ্জীবিত করা ও কৃষি উৎপাদন বৃদ্ধি করা অন্তর্ভুক্ত রয়েছে।"
         ],
         "bullets_en": [
-          "Levent Alpöge posted a note on his personal website to share this information.",
-          "Two organizations announced that they had independently verified Alpöge claim.",
-          "Alpöge used a programming language called Lean to share the solution."
+          "Less than Tk500cr of the approved project costs will be from external sources.",
+          "These projects will strengthen rural connectivity.",
+          "The projects include reviving dying waterways and bolstering agricultural productivity."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "সান ফ্রান্সিসকো ভিত্তিক এআই কোম্পানি অ্যানথ্রপিকের একজন গণিতবিদ লেভেন্ট আলপোজে প্রায় ছয় সপ্তাহের মধ্যে এই সমস্যার সমাধান তৈরি করতে ক্লাউডের সহায়তা নেন। পরে দুটি সংস্থা লিন ফোকাসড রিসার্চ অর্গানাইজেশন এবং ম্যাথলিব ইনিশিয়েটিভ তার সমাধানটি যাচাই করে।",
-        "details_en": "Levent Alpöge, a mathematician at San Francisco-based AI company Anthropic, used Claude to develop a solution over about six weeks. Later, the Lean Focused Research Organization and the Mathlib Initiative verified his solution.",
-        "hook_bn": "ক্লাউড ও আমি একসঙ্গে দারুণ সময় কাটিয়েছি",
+        "details_bn": "অনুমোদিত ১৬টি উন্নয়ন প্রকল্পের মধ্যে ২৫৬টি দীর্ঘ গ্রামীণ সেতু নির্মাণ এবং প্রায় ৮,৯০০টি খননকাজ অন্তর্ভুক্ত রয়েছে।",
+        "details_en": "The 16 approved development projects include constructing 256 long rural bridges and excavating nearly 8,900.",
+        "hook_bn": "৩৩ হাজার কোটি টাকার বেশি ১৬ প্রকল্প",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T19:02:02.573929+00:00"
+        "checked_at": "2026-11-22T20:02:12.569779+00:00"
       }
     }
   ]
