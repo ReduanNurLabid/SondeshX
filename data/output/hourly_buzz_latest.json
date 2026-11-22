@@ -1,402 +1,200 @@
 {
-  "updated_at": "2026-11-22T20:00:45.156696",
-  "total_stories": 5,
+  "updated_at": "2026-11-22T21:00:50.883368",
+  "total_stories": 3,
   "stories": [
     {
-      "story_id": "b9051ed7-24c6-50e5-8eea-18763a46366f",
-      "primary_category": "society_education",
+      "story_id": "8606582c-80a7-5165-9df9-f36fc5ae0058",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "society_education",
-        "governance_law"
+        "world_diplomacy",
+        "climate_environment"
       ],
       "region": "national",
       "tags": [
-        "#Lalbagh",
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZWR1Y2F0aW9uJTIwdW5pdmVyc2l0eSUyMHN0dWRlbnRzJTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1Mzc3Njk2fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/RUSH.jpg",
       "image_caption": null,
-      "published_at": "2026-11-22T19:46:54+00:00",
+      "published_at": "2026-11-22T18:04:39+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.75,
-      "rank_score": 4.4936,
+      "importance_score": 4.8,
+      "rank_score": 1.9436,
       "sources": [
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/accidents/425458/six-restaurant-workers-burned-during-gas-line",
-          "title": "Six burned in gas line fire at Lalbagh restaurant",
-          "snippet": "Six burned in gas line fire at Lalbagh restaurant"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/six-suffer-burns-gas-line-explosion-lalbagh-restaurant-1611051",
-          "title": "6 suffer burns in gas line explosion at Lalbagh restaurant",
-          "snippet": "6 suffer burns in gas line explosion at Lalbagh restaurant"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1182509",
-          "title": "লালবাগে রেস্টুরেন্টে গ্যাস লিকেজ থেকে বিস্ফোরণ, দগ্ধ ৬",
-          "snippet": "লালবাগে রেস্টুরেন্টে গ্যাস লিকেজ থেকে বিস্ফোরণ, দগ্ধ ৬"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/national/500081",
-          "title": "লালবাগে রেস্তোরাঁয় গ্যাস লাইনের বিস্ফোরণ, দগ্ধ ৬",
-          "snippet": "লালবাগে রেস্তোরাঁয় গ্যাস লাইনের বিস্ফোরণ, দগ্ধ ৬"
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/international/post-1224507/",
+          "title": "ড্রোন হামলায় লিবিয়ার বন্দরে রুশ জাহাজে বিস্ফোরণ",
+          "snippet": "ড্রোন হামলায় লিবিয়ার বন্দরে রুশ জাহাজে বিস্ফোরণ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "লালবাগে রেস্তোরাঁয় গ্যাস লাইনের আগুনে দগ্ধ ৬",
-        "title_en": "Six burned in gas line fire at Lalbagh restaurant",
-        "summary_bn": "রাজধানীর লালবাগে কাচ্চি খানাস রেস্তোরাঁয় গ্যাস লাইন মেরামতের সময় অগ্নিকাণ্ডে পাঁচ কর্মচারীসহ ছয়জন দগ্ধ হয়েছেন।",
-        "summary_en": "Six people, including five workers, suffered burns in a fire during gas line repairs at Kacchi Khanas restaurant in Lalbagh.",
+        "title_bn": "লিবিয়ার বন্দরে রুশ জাহাজে বিস্ফোরণ",
+        "title_en": "Explosion on a Russian ship at a Libyan port",
+        "summary_bn": "লিবিয়ার বেনগাজি নৌঘাঁটির বন্দরে জ্বালানি ও প্রয়োজনীয় সরঞ্জাম নেওয়ার সময় একটি রুশ জাহাজে বিস্ফোরণের ঘটনা ঘটেছে।",
+        "summary_en": "An explosion occurred on a Russian ship while stopping at the port of Libya's Benghazi naval base for fuel and supplies.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
-          "governance_law"
+          "world_diplomacy",
+          "climate_environment"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T19:46:54+00:00",
-        "lead_bn": "রাজধানীর লালবাগে কাচ্চি খানাস রেস্তোরাঁয় গ্যাস লাইন মেরামতের সময় অগ্নিকাণ্ডে পাঁচ কর্মচারীসহ ছয়জন দগ্ধ হয়েছেন।",
-        "lead_en": "Six people, including five workers, suffered burns in a fire during gas line repairs at Kacchi Khanas restaurant in Lalbagh.",
+        "published_at": "2026-11-22T18:04:39+00:00",
+        "lead_bn": "লিবিয়ার বেনগাজি নৌঘাঁটির বন্দরে জ্বালানি ও প্রয়োজনীয় সরঞ্জাম নেওয়ার সময় একটি রুশ জাহাজে বিস্ফোরণের ঘটনা ঘটেছে।",
+        "lead_en": "An explosion occurred on a Russian ship while stopping at the port of Libya's Benghazi naval base for fuel and supplies.",
         "bullets_bn": [
-          "ঘটনাটি ঘটেছে ২২ নভেম্বর রাত সাড়ে আটটায় লালবাগ থানা এলাকার কাচ্চি খানাস রেস্তোরাঁয়।",
-          "দগ্ধ ব্যক্তিরা হলেন নয়ন, জনি, নিরব, নয়ন, রবিন ও পলাশ।",
-          "আহত ব্যক্তিদের উদ্ধার করে জাতীয় বার্ন অ্যান্ড প্লাস্টিক সার্জারি ইনস্টিটিউটে নেওয়া হয়েছে।"
+          "রোববার এই বিস্ফোরণ ঘটে এবং সন্দেহ করা হচ্ছে এটি ড্রোন হামলার কারণে হয়েছে।",
+          "লিবিয়ার পূর্বাঞ্চলভিত্তিক গভর্নমেন্ট অব ন্যাশনাল স্ট্যাবিলিটি জানিয়েছে, এই ঘটনায় কেউ হতাহত হয়নি।",
+          "হামলার উৎস ও এর জন্য কারা দায়ী তা নির্ধারণে রুশ কর্তৃপক্ষের সঙ্গে সমন্বয় চলছে।"
         ],
         "bullets_en": [
-          "The incident occurred around 8:30 pm on November 22 at Kacchi Khanas restaurant under Lalbagh Police Station.",
-          "The injured are Noyon, Joni, Nirob, Noyon, Robin, and Polash.",
-          "The injured were rescued and taken to the National Institute of Burn and Plastic Surgery."
+          "The explosion occurred on Sunday and is suspected to be due to a drone attack.",
+          "Libya's eastern-based Government of National Stability stated that there were no casualties in this incident.",
+          "Coordination is underway with Russian authorities to determine the source of the attack and who is responsible."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "সহকর্মী শাকিল জানিয়েছেন, রেস্তোরাঁয় গ্যাস লাইনের মেরামতের কাজ করানোর সময় হঠাৎ করে আগুন ও বিস্ফোরণ ঘটে। পরে আহত অবস্থায় সবাইকে উদ্ধার করে হাসপাতালে নেওয়া হয়।",
-        "details_en": "Colleague Shakil said that flames suddenly flared up during gas line repair work at the restaurant, and the injured were subsequently rescued and taken to the hospital.",
-        "hook_bn": "লালবাগে রেস্তোরাঁয় গ্যাস লাইনের বিস্ফোরণে দগ্ধ ৬",
+        "details_bn": "পূর্বাঞ্চলীয় সরকার জানিয়েছে, জাহাজটি রাশিয়ায় ফেরার পথে বেনগাজি বন্দরে অবস্থান করছিল এবং বিদ্যমান সামুদ্রিক চুক্তির আওতায় এর অনুমতির বিষয়টি নিশ্চিত করা হয়। স্যাটেলাইট চিত্র ও ভিডিওতে বন্দরে জাহাজে আগুন ও ধোঁয়া দেখা গেছে। এর আগে বাল্টিক সাগরে রাশিয়ার আরেকটি পণ্যবাহী জাহাজে ড্রোন হামলার ঘটনা ঘটেছিল।",
+        "details_en": "The eastern government stated that the ship was stationed at the Benghazi port on its way back to Russia under an existing maritime agreement. Satellite imagery and videos showed fire and smoke on the ship at the port. Earlier, another Russian cargo ship was targeted by a drone attack in the Baltic Sea.",
+        "hook_bn": "লিবিয়ার বন্দরে রুশ জাহাজে বিস্ফোরণ",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 6.0,
-      "outlet_count": 5,
-      "trending": false,
-      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T20:02:12.569779+00:00"
+        "checked_at": "2026-11-22T21:01:46.535793+00:00"
       }
     },
     {
-      "story_id": "55a66ab5-71fd-5fcd-ae3f-29bcd78346e4",
+      "story_id": "504fac7d-b51c-5a28-bbbf-0c21cec1a91d",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#IslamiBank",
-        "#BangladeshBank"
+        "#StateOwnedBanks",
+        "#BankBoard",
+        "#GovernmentPolicy"
       ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/rescue-Islami-Bank.jpg",
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182676/p1-lead-info-outline.jpg",
       "image_caption": null,
-      "published_at": "2026-11-22T18:00:00+00:00",
+      "published_at": "2026-11-22T21:01:01.455112+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.36,
+      "importance_score": 2.4,
+      "rank_score": 0.5758,
       "sources": [
         {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/economy/news/will-state-ownership-rescue-islami-bank-or-deepen-its-woes-4330681",
-          "title": "Will state ownership rescue Islami Bank or deepen its woes?",
-          "snippet": "Will state ownership rescue Islami Bank or deepen its woes?"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/economy/serving-secretaries-debarred-from-state-owned-banks-boards",
+          "title": "Serving secretaries debarred from state-owned banks' boards",
+          "snippet": "Serving secretaries debarred from state-owned banks' boards"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইসলামী ব্যাংক সরকারের কাছে নতুন শেয়ার বিক্রির প্রস্তাব দিয়েছে।",
-        "title_en": "Islami Bank has proposed offering fresh shares to the government.",
-        "summary_bn": "স্ক্যামে আক্রান্ত ইসলামী ব্যাংক মূলধন বাড়াতে সরকারকে শেয়ার দিয়ে কৌশলগত অংশীদার করার প্রস্তাব দিয়েছে।",
-        "summary_en": "Scam-hit Islami Bank has proposed raising fresh capital by offering shares to the government to become a strategic partner.",
+        "title_bn": "রাষ্ট্রীয় ব্যাংকের বোর্ডে থাকতে পারবেন না কর্মরত সচিবরা",
+        "title_en": "Serving secretaries debarred from state-owned banks boards",
+        "summary_bn": "সরকারি মালিকানাধীন ও শেয়ার থাকা ব্যাংকের পরিচালক বা চেয়ারম্যান পদে নিয়োগের ক্ষেত্রে অযোগ্য ঘোষণা করা হয়েছে কর্মরত সচিবদের।",
+        "summary_en": "Serving secretaries or equivalent-grade officials are disqualified to be appointed or nominated as chairman or director of banks with government shares.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T18:00:00+00:00",
-        "lead_bn": "স্ক্যামে আক্রান্ত ইসলামী ব্যাংক মূলধন বাড়াতে সরকারকে শেয়ার দিয়ে কৌশলগত অংশীদার করার প্রস্তাব দিয়েছে।",
-        "lead_en": "Scam-hit Islami Bank has proposed raising fresh capital by offering shares to the government to become a strategic partner.",
+        "published_at": "2026-11-22T21:01:01.455112+00:00",
+        "lead_bn": "সরকারি মালিকানাধীন ও শেয়ার থাকা ব্যাংকের পরিচালক বা চেয়ারম্যান পদে নিয়োগের ক্ষেত্রে অযোগ্য ঘোষণা করা হয়েছে কর্মরত সচিবদের।",
+        "lead_en": "Serving secretaries or equivalent-grade officials are disqualified to be appointed or nominated as chairman or director of banks with government shares.",
         "bullets_bn": [
-          "ব্যাংকটি বাংলাদেশ ব্যাংকের কাছে জমা দেওয়া এক পরিকল্পনায়ে এই প্রস্তাব দিয়েছে।",
-          "প্রস্তাব অনুযায়ী, ১০ টাকা অভিহিত মূল্যের ৬০০ কোটি নতুন শেয়ার ইস্যু করে পেইড-আপ ক্যাপিটাল ৬,০০০ কোটি টাকা বাড়ানো হবে।",
-          "বাংলাদেশ ব্যাংকের নির্বাহী পরিচালক মোহাম্মদ জহির হুসেন জানান, বেসরকারি অংশীদার আনা বা অন্য বিনিয়োগকারীকে শেয়ার দেওয়া ঝুঁকিপূর্ণ হতে পারে।"
+          "সরকারি ব্যাংক ও আর্থিক প্রতিষ্ঠানে চেয়ারম্যান বা পরিচালক নিয়োগের নতুন নীতিমালায় এই সিদ্ধান্ত নেওয়া হয়েছে।",
+          "বোর্ড অব ডিরেক্টরসে চার্টার্ড অ্যাকাউন্ট্যান্ট, আইনি বিশেষজ্ঞ ও অভিজ্ঞ অবসরপ্রাপ্ত ব্যাংকার রাখার কথা বলা হয়েছে।",
+          "স্বার্থের সংঘাত থাকলে সংশ্লিষ্ট প্রার্থীকে নিয়োগ বা মনোনয়নের জন্য অযোগ্য হিসেবে বিবেচনা করা হবে।"
         ],
         "bullets_en": [
-          "The lender proposed the plan in a submission to the Bangladesh Bank earlier this year.",
-          "It plans to increase paid-up capital by Tk 6,000 crore by issuing 600 crore new shares at Tk 10 each.",
-          "Bangladesh Bank executive director Mohammad Zahir Hussain said bringing private sector partners could raise various questions and risks."
+          "The decision is carried in a latest unveiled policy for appointment or nomination of chairman or director in state-owned banks.",
+          "A bank board shall include one Chartered Accountant, one legal expert, and one experienced retired banker.",
+          "If any matter involving a conflict of interest exists, the candidate shall be considered ineligible for appointment or nomination."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বর্তমান ১,৬১০ কোটি টাকার পরিশোধিত মূলধন থেকে এই পরিমাণ বাড়িয়ে ব্যাংকটি সরকারকে প্রায় ৮০ শতাংশ মালিকানা দেওয়ার প্রস্তাব করেছে। কেন্দ্রীয় ব্যাংকের ক্ষমতা প্রাপ্ত নির্বাহী পরিচালক মোহাম্মদ জহির হুসেন জানান, ব্যাংকটি এই প্রস্তাব কেন্দ্রীয় ব্যাংককে জানিয়েছে এবং কেন্দ্রীয় ব্যাংক সরকারকে বিষয়টি অবহিত করেছে।",
-        "details_en": "The shariah-based lender proposed increasing its paid-up capital from the current Tk 1,610 crore to bring the state on board as a strategic partner holding around 80 percent ownership. Bangladesh Bank executive director Mohammad Zahir Hussain stated that the central bank has informed the government about this proposal.",
-        "hook_bn": "ইসলামী ব্যাংকের সরকারের কাছে শেয়ার বিক্রির প্রস্তাব",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": "ইসলামী ব্যাংকে সরকারের অংশীদারিত্ব বাড়ার এই সিদ্ধান্ত ব্যাংকিং খাতে কী প্রভাব ফেলবে বলে আপনার মনে হয়?"
+        "details_bn": "রাষ্ট্রীয় বাণিজ্যিক ব্যাংক, বিশেষায়িত ব্যাংক এবং আর্থিক প্রতিষ্ঠানের পাশাপাশি যেসব বেসরকারি ব্যাংক ও আর্থিক প্রতিষ্ঠানে সরকারের অংশীদারিত্ব রয়েছে, সেগুলোর চেয়ারম্যান ও পরিচালক নিয়োগের নতুন নীতিমালায় এই সিদ্ধান্ত অন্তর্ভুক্ত করা হয়েছে। ব্যাংক কোম্পানী আইন ১৯৯১ অনুযায়ী যেখানে প্রযোজ্য, সেখানে স্বতন্ত্র পরিচালক নিয়োগ বা মনোনয়ন দেওয়া হবে।",
+        "details_en": "The decision is carried in a latest unveiled policy for appointment or nomination of chairman or director in state-owned commercial banks, specialised banks, financial institutions, and private banks and financial institutions in which the government holds stakes. Independent directors will be appointed or nominated, where applicable, in accordance with the Bank Company Act 1991.",
+        "hook_bn": "রাষ্ট্রীয় ব্যাংকের বোর্ডে থাকবেন না সচিবরা",
+        "kicker_bn": "নতুন নীতি",
+        "share_value": true,
+        "question_bn": "রাষ্ট্রীয় ব্যাংকগুলোর বোর্ডে পেশাজীবীদের অন্তর্ভুক্তি নিয়ে আপনার মতামত কী?"
       },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T20:02:12.569779+00:00"
+        "checked_at": "2026-11-22T21:01:46.535793+00:00"
       }
     },
     {
-      "story_id": "cb8656d5-218f-51b4-a742-33dce9069bf4",
-      "primary_category": "governance_law",
+      "story_id": "5a393bf8-dde7-5529-a65f-fcd164e4e0b2",
+      "primary_category": "climate_environment",
       "interest_categories": [
-        "governance_law",
+        "climate_environment",
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Narayanganj",
-        "#Fatullah",
-        "#BangladeshPolice"
+        "#SaintMartin",
+        "#CoxBazar",
+        "#BIWTA"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/21/dead_2.jpg",
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182673/16366.jpg",
       "image_caption": null,
-      "published_at": "2026-11-22T19:10:00+00:00",
+      "published_at": "2026-11-22T21:01:01.455112+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.75,
-      "rank_score": 4.3368,
+      "importance_score": 2.4,
+      "rank_score": 0.5758,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/crime/police-constable-stabbed-death-narayanganjs-fatullah-one-detained-1611061",
-          "title": "Police constable stabbed to death in Narayanganj's Fatullah; one detained",
-          "snippet": "Police constable stabbed to death in Narayanganj's Fatullah; one detained"
-        },
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/r5chx5vpe6",
-          "title": "ফতুল্লায় ছুরিকাঘাতে পুলিশ কনস্টেবল খুন, প্রাণে বাঁচলেন এএসআই",
-          "snippet": "ফতুল্লায় ছুরিকাঘাতে পুলিশ কনস্টেবল খুন, প্রাণে বাঁচলেন এএসআই"
-        },
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/constable-stabbed-death-while-gathering-intel-nganj-4330856",
-          "title": "Constable stabbed to death while gathering intel in N’ganj",
-          "snippet": "Constable stabbed to death while gathering intel in N’ganj"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1182511",
-          "title": "নারায়ণগঞ্জে পুলিশ সদস্যকে ছুরিকাঘাতে হত্যা",
-          "snippet": "নারায়ণগঞ্জে পুলিশ সদস্যকে ছুরিকাঘাতে হত্যা"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/ship-services-to-st-martin-resume-after-three-day-suspension",
+          "title": "Ship services to St. Martin resume after three-day suspension",
+          "snippet": "Ship services to St. Martin resume after three-day suspension"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নারায়ণগঞ্জের ফতুল্লায় ছুরিকাঘাতে পুলিশ কনস্টেবল নিহত, আটক ১",
-        "title_en": "Police constable stabbed to death in Narayanganj's Fatullah, one detained",
-        "summary_bn": "নারায়ণগঞ্জের ফতুল্লায় সাদা পোশাকে তথ্য সংগ্রহ করতে গিয়ে দুর্বৃত্তদের ছুরিকাঘাতে আনোয়ার হোসেন নামের এক পুলিশ কনস্টেবল নিহত হয়েছেন।",
-        "summary_en": "Police constable Anwar Hossain was stabbed to death by unidentified assailants while gathering information in Narayanganj's Fatullah.",
+        "title_bn": "খারাপ আবহাওয়া কেটে যাওয়ায় সেন্ট মার্টিনে জাহাজ চলাচল শুরু হয়েছে।",
+        "title_en": "Ship services to Saint Martin resumed after adverse weather cleared.",
+        "summary_bn": "খারাপ আবহাওয়ার কারণে তিন দিন বন্ধ থাকার পর কক্সবাজার-সেন্ট মার্টিন রুটে জাহাজ চলাচল শুরু হয়েছে।",
+        "summary_en": "Ship services on the Cox’s Bazar-Saint Martin route resumed after remaining suspended for three days due to adverse weather.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
+          "climate_environment",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T19:10:00+00:00",
-        "lead_bn": "নারায়ণগঞ্জের ফতুল্লায় সাদা পোশাকে তথ্য সংগ্রহ করতে গিয়ে দুর্বৃত্তদের ছুরিকাঘাতে আনোয়ার হোসেন নামের এক পুলিশ কনস্টেবল নিহত হয়েছেন।",
-        "lead_en": "Police constable Anwar Hossain was stabbed to death by unidentified assailants while gathering information in Narayanganj's Fatullah.",
+        "published_at": "2026-11-22T21:01:01.455112+00:00",
+        "lead_bn": "খারাপ আবহাওয়ার কারণে তিন দিন বন্ধ থাকার পর কক্সবাজার-সেন্ট মার্টিন রুটে জাহাজ চলাচল শুরু হয়েছে।",
+        "lead_en": "Ship services on the Cox’s Bazar-Saint Martin route resumed after remaining suspended for three days due to adverse weather.",
         "bullets_bn": [
-          "ঘটনাটি ঘটেছে ২২ নভেম্বর রাত সাড়ে দশটার দিকে ফতুল্লার দেওভোগের হাশেমবাগ এলাকায়।",
-          "অতিরিক্ত পুলিশ সুপার তারেক আল মেহেদী জানান, এ ঘটনায় এক ব্যক্তিকে আটক করা হয়েছে।",
-          "নিহত কনস্টেবল ও এএসআই আবদুস সাত্তার সদর মডেল থানার শীতলক্ষ্যা পুলিশ ফাঁড়িতে কর্মরত ছিলেন।"
+          "রোববার সকালে পাঁচটি জাহাজ ১,৮৭০ জন পর্যটক নিয়ে কক্সবাজারের বিআইডব্লিউটিএ জেটিঘাট থেকে সেন্ট মার্টিন দ্বীপের উদ্দেশ্যে ছেড়ে যায়।",
+          "বিকেল চারটার দিকে প্রায় ৮০০ জন আটকে থাকা পর্যটক নিয়ে জাহাজগুলো কক্সবাজারের উদ্দেশ্যে ফিরতি যাত্রা শুরু করে।",
+          "সেন্ট মার্টিন ইউনিয়ন পরিষদের ভারপ্রাপ্ত চেয়ারম্যান ফয়েজুল ইসলাম জানান, খারাপ আবহাওয়ার কারণে প্রায় ১,৫০০ পর্যটক দ্বীপে আটকা পড়েছিলেন।"
         ],
         "bullets_en": [
-          "The attack took place around 10:30pm on 22 November in the Hasembagh area of Deobhog, Fatullah.",
-          "Additional Superintendent of Police Tarek Al Mehedi confirmed that one person has been detained in connection with the killing.",
-          "The slain constable and ASI Abdus Sattar were both posted at the Shitalakshya Police Outpost of Narayanganj Sadar Model Police Station."
+          "Five ships carrying 1,870 tourists left the BIWTA Jetty Ghat in Cox’s Bazar for Saint Martin on Sunday morning.",
+          "At around 4:00 pm, the ships carrying around 800 stranded tourists started their return journey to Cox’s Bazar.",
+          "Acting Chairman of Saint Martin Union Parishad Foyezul Islam said around 1,500 tourists had been stranded due to inclement weather."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "শীতলক্ষ্যা পুলিশ ফাঁড়ির কনস্টেবল আনোয়ার হোসেন ও এএসআই আবদুস সাত্তার সাদা পোশাকে হাশেমবাগ এলাকায় গোয়েন্দা তথ্য সংগ্রহ করতে গিয়েছিলেন। এ সময় অজ্ঞাতপরিচয় দুর্বৃত্তরা তাদের ধাওয়া করলে এএসআই সাত্তার পালিয়ে বাঁচলেও আনোয়ারের বুকে ছুরিকাঘাত করা হয়। পুলিশ ঘটনাস্থল থেকে মরদেহ উদ্ধার করে হাসপাতালের মর্গে পাঠিয়েছে।",
-        "details_en": "Constable Anwar Hossain and ASI Abdus Sattar, both from the Shitalakshya Police Outpost, went to the Hasembagh area in plain clothes to gather intelligence. Unidentified assailants chased the two officers, and while Sattar managed to escape, the attackers stabbed Anwar in the chest. Police recovered the body and sent it to a hospital morgue for autopsy.",
-        "hook_bn": "ফতুল্লায় হাশেমবাগে পুলিশ সদস্যকে ছুরিকাঘাতে হত্যা",
-        "kicker_bn": null,
-        "share_value": false,
+        "details_bn": "বঙ্গোপসাগরে ঘূর্ণিঝড় ‘আকভান’-এর প্রভাবে সৃষ্ট উত্তাল সমুদ্রের কারণে থেকে প্রশাসন এই রুটে জাহাজ চলাচল স্থগিতের নির্দেশ দিয়েছিল। এর ফলে ১৭ ও ১৮ নভেম্বর দ্বীপে যাওয়া অনেক পর্যটক আটকা পড়েন। পরবর্তীতে প্রশাসনের অনুমতি নিয়ে ১৬টি ট্রলারে করে সাত শর বেশি পর্যটক টেকনাফের মাধ্যমে ফিরে যান। বাকি পর্যটকেরা রোববারের জাহাজে কক্সবাজারে ফেরেন।",
+        "details_en": "Due to rough seas in the Bay of Bengal under the influence of Cyclone ‘Akvan’, the administration had ordered the suspension of ship services on the route from last Thursday. As a result, tourists who visited on November 17 and 18 became stranded. Later, with permission from the local administration, more than 700 tourists returned via Teknaf in 16 trawlers while the rest returned by ships.",
+        "hook_bn": "সেন্ট মার্টিনে আটকে পড়া পর্যটকেরা ফিরছেন",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
         "question_bn": null
       },
-      "desk_importance": 6.0,
-      "outlet_count": 6,
-      "trending": false,
-      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T20:02:12.569779+00:00"
-      }
-    },
-    {
-      "story_id": "3f18d50b-c14a-54ee-9e79-00326a04a4f0",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#BomaruMamun",
-        "#NeoJMB",
-        "#Lakshmipur",
-        "#BangladeshPolice"
-      ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Bomaru-mamun.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-22T18:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.75,
-      "rank_score": 4.0541,
-      "sources": [
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/man-held-lakshmipur-identified-bomaru-mamun-4330811",
-          "title": "Man held in Lakshmipur identified as ‘Bomaru Mamun’",
-          "snippet": "Man held in Lakshmipur identified as ‘Bomaru Mamun’"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/crime/neo-jmb-member-bomaru-mamun-arrested-lakshmipur-after-hiding-under-false-identity",
-          "title": "Neo-JMB member 'Bomaru Mamun' arrested in Lakshmipur after hiding under false identity",
-          "snippet": "Neo-JMB member 'Bomaru Mamun' arrested in Lakshmipur after hiding under false identity"
-        },
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/xny2tq569i",
-          "title": "পরিচয় গোপন করে দুই মাস ধরে লক্ষ্মীপুরে আত্মগোপনে ছিলেন ‘বোমারু মামুন’",
-          "snippet": "পরিচয় গোপন করে দুই মাস ধরে লক্ষ্মীপুরে আত্মগোপনে ছিলেন ‘বোমারু মামুন’"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822500/%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E2%80%98%E0%A6%AC%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%81-%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A7%81%E0%A6%A8%E2%80%99-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%AC%E0%A6%A6%E0%A6%B2%E0%A7%87",
-          "title": "লক্ষ্মীপুরে গ্রেপ্তার ‘বোমারু মামুন’, পরিচয় বদলে ছিলেন আত্মগোপনে",
-          "snippet": "লক্ষ্মীপুরে গ্রেপ্তার ‘বোমারু মামুন’, পরিচয় বদলে ছিলেন আত্মগোপনে"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "লক্ষ্মীপুরে নব্য জেএমবির সদস্য বোমারু মামুন গ্রেপ্তার",
-        "title_en": "Neo-JMB member Bomaru Mamun arrested in Lakshmipur",
-        "summary_bn": "লক্ষ্মীপুরের রায়পুর উপজেলায় স্থানীয় লোকজনের হাতে আটক নব্য জেএমবির সদস্য নাজমুল হাসান মামুনকে গ্রেপ্তার করেছে পুলিশ।",
-        "summary_en": "Police have arrested Neo-JMB member Nazmul Hasan Mamun after locals detained him in Lakshmipur’s Raipur upazila.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T18:00:00+00:00",
-        "lead_bn": "লক্ষ্মীপুরের রায়পুর উপজেলায় স্থানীয় লোকজনের হাতে আটক নব্য জেএমবির সদস্য নাজমুল হাসান মামুনকে গ্রেপ্তার করেছে পুলিশ।",
-        "lead_en": "Police have arrested Neo-JMB member Nazmul Hasan Mamun after locals detained him in Lakshmipur’s Raipur upazila.",
-        "bullets_bn": [
-          "রায়পুরে স্থানীয়রা ধাওয়া করলে তিনি একটি ককটেল বিস্ফোরণ ঘটান।",
-          "পুলিশ জানায়, রিমান্ডে জিজ্ঞাসাবাদের সময় তার আসল পরিচয় প্রকাশ পায়।",
-          "পুলিশ তার ভাড়া বাসা থেকে ১১টি ইম্প্রোভাইজড এক্সপ্লোসিভ ডিভাইস উদ্ধার করেছে।"
-        ],
-        "bullets_en": [
-          "He allegedly detonated a crude bomb when locals chased him in Raipur.",
-          "Police said his real identity came to light during interrogation in remand.",
-          "Police recovered 11 improvised explosive devices from his rented house."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "৩০ বছর বয়সী নাজমুল হাসান মামুন সাইফুল ইসলাম সুজন নাম ব্যবহার করে ভোলার সদর উপজেলার বাসিন্দা পরিচয়ে প্রায় দুই মাস ধরে রায়পুরের চরবংশী এলাকায় একটি বাড়ি ভাড়া নিয়ে বসবাস করছিলেন। সেখানে এক নারী ও এক পুরুষের সঙ্গে তিনি থাকতেন এবং চর এলাকায় একটি পোলট্রি ফার্ম করার কথা জানিয়েছিলেন।",
-        "details_en": "The 30-year-old Nazmul Hasan Mamun had been living in Raipur’s Charbangshi area for around two months using the false identity of Saiful Islam Sujon, a resident of Bhola Sadar, along with a man and a woman.",
-        "hook_bn": "লক্ষ্মীপুরে বোমারু মামুন গ্রেপ্তার",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 5,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T20:02:12.569779+00:00"
-      }
-    },
-    {
-      "story_id": "4982e36b-f900-5c00-bddd-e0510d4b9c37",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Ecnec",
-        "#BangladeshDevelopment"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1783260606348-bb2deaa215a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZWNuZWMlMjBhcHByb3ZlZCUyMGRldmVsb3BtZW50JTIwcHJvamVjdHMlMjBidXNpbmVzc3xlbnwxfDB8fHwxNzk1Mzc3NzI2fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-22T19:36:06+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5137,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/opinion/editorial/425456/execution-is-everything-for-development-projects",
-          "title": "Execution is everything for development projects",
-          "snippet": "Execution is everything for development projects"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "একনেক ১৬টি উন্নয়ন প্রকল্প অনুমোদন করেছে",
-        "title_en": "Ecnec approved 16 development projects",
-        "summary_bn": "জাতীয় অর্থনৈতিক পরিষদের নির্বাহী কমিটি বা একনেক ৩৩,২৯৮.৪৮ কোটি টাকা ব্যয়ে ১৬টি নতুন উন্নয়ন প্রকল্প অনুমোদন করেছে।",
-        "summary_en": "The Executive Committee of the National Economic Council approved 16 development projects worth Tk33,298.48 crore.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T19:36:06+00:00",
-        "lead_bn": "জাতীয় অর্থনৈতিক পরিষদের নির্বাহী কমিটি বা একনেক ৩৩,২৯৮.৪৮ কোটি টাকা ব্যয়ে ১৬টি নতুন উন্নয়ন প্রকল্প অনুমোদন করেছে।",
-        "lead_en": "The Executive Committee of the National Economic Council approved 16 development projects worth Tk33,298.48 crore.",
-        "bullets_bn": [
-          "অনুমোদিত প্রকল্পের মোট ব্যয়ের মধ্যে পাঁচশ কোটি টাকার কম বিদেশি উৎস থেকে আসবে।",
-          "এই প্রকল্পগুলোর মাধ্যমে গ্রামীণ সংযোগ জোরদার করা হবে।",
-          "প্রকল্পগুলোর মধ্যে মৃত প্রায় জলপথ পুনরুজ্জীবিত করা ও কৃষি উৎপাদন বৃদ্ধি করা অন্তর্ভুক্ত রয়েছে।"
-        ],
-        "bullets_en": [
-          "Less than Tk500cr of the approved project costs will be from external sources.",
-          "These projects will strengthen rural connectivity.",
-          "The projects include reviving dying waterways and bolstering agricultural productivity."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "অনুমোদিত ১৬টি উন্নয়ন প্রকল্পের মধ্যে ২৫৬টি দীর্ঘ গ্রামীণ সেতু নির্মাণ এবং প্রায় ৮,৯০০টি খননকাজ অন্তর্ভুক্ত রয়েছে।",
-        "details_en": "The 16 approved development projects include constructing 256 long rural bridges and excavating nearly 8,900.",
-        "hook_bn": "৩৩ হাজার কোটি টাকার বেশি ১৬ প্রকল্প",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T20:02:12.569779+00:00"
+        "checked_at": "2026-11-22T21:01:46.535793+00:00"
       }
     }
   ]
