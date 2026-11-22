@@ -1,137 +1,204 @@
 {
-  "updated_at": "2026-11-22T02:00:44.028374",
+  "updated_at": "2026-11-22T03:00:47.947392",
   "total_stories": 5,
   "stories": [
     {
-      "story_id": "f1cbbc04-4a3d-5001-aefd-0192ee92decc",
-      "primary_category": "governance_law",
+      "story_id": "d96e3c1f-aad7-5b93-bebe-3c8873521edd",
+      "primary_category": "society_education",
       "interest_categories": [
+        "society_education",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Gopalganj",
-        "#BGB"
+        "#Bangladesh",
+        "#NationalAffairs"
       ],
-      "image_url": "https://images.unsplash.com/photo-1614610741181-2bce5e06976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YW5vdGhlciUyMGJnYiUyMHBsYXRvb25zJTIwZGVwbG95ZWQlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTUzMTI4OTR8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2024-09-19%2Ffkqz6p73%2F1.png?rect=11%2C0%2C596%2C313&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-21T19:06:10+00:00",
+      "published_at": "2026-11-22T02:25:32+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 8.25,
-      "rank_score": 4.563,
+      "importance_score": 7.0,
+      "rank_score": 4.7326,
       "sources": [
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/425375/another-26-bgb-platoons-deployed-in-gopalganj-to",
-          "title": "Another 26 BGB platoons deployed in Gopalganj to maintain law and order",
-          "snippet": "Another 26 BGB platoons deployed in Gopalganj to maintain law and order"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/law-order/police-step-security-amid-fears-december-sabotage-following-recent-attacks",
-          "title": "Police step up security amid fears of December sabotage following recent attacks",
-          "snippet": "Police step up security amid fears of December sabotage following recent attacks"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/education/admission/cvv5ei2c7o",
+          "title": "বেসরকারি স্কুলে ভর্তি: অতিরিক্ত ভর্তি ফি নিলে বাতিল এমপিও, পুনঃভর্তি ফি নিষিদ্ধ",
+          "snippet": "বেসরকারি স্কুলে ভর্তি: অতিরিক্ত ভর্তি ফি নিলে বাতিল এমপিও, পুনঃভর্তি ফি নিষিদ্ধ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গোপালগঞ্জে আরও ২৬ প্লাটুন বিজিবি মোতায়েন করা হয়েছে",
-        "title_en": "Another 26 BGB platoons deployed in Gopalganj",
-        "summary_bn": "আইনশৃঙ্খলা রক্ষা ও জনসাধারণের জীবন ও সম্পত্তি সুরক্ষায় গোপালগঞ্জে আরও ২৬ প্লাটুন বিজিবি মোতায়েন করা হয়েছে।",
-        "summary_en": "Another 26 BGB platoons have been deployed in Gopalganj to maintain law and order and protect lives and property.",
+        "title_bn": "বেসরকারি স্কুলে অতিরিক্ত ফি নিলে এমপিও বাতিল করবে শিক্ষা মন্ত্রণালয়",
+        "title_en": "Education ministry warns MPO cancellation for excess admission fees in private schools",
+        "summary_bn": "বেসরকারি স্কুলে অতিরিক্ত ভর্তি ফি নিলে এমপিও বাতিল ও আইনি ব্যবস্থা নেওয়ার নির্দেশ দিয়েছে শিক্ষা মন্ত্রণালয়।",
+        "summary_en": "The education ministry has ordered MPO cancellation and legal action for taking excess admission fees in private schools.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "society_education",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-21T19:06:10+00:00",
-        "lead_bn": "আইনশৃঙ্খলা রক্ষা ও জনসাধারণের জীবন ও সম্পত্তি সুরক্ষায় গোপালগঞ্জে আরও ২৬ প্লাটুন বিজিবি মোতায়েন করা হয়েছে।",
-        "lead_en": "Another 26 BGB platoons have been deployed in Gopalganj to maintain law and order and protect lives and property.",
+        "published_at": "2026-11-22T02:25:32+00:00",
+        "lead_bn": "বেসরকারি স্কুলে অতিরিক্ত ভর্তি ফি নিলে এমপিও বাতিল ও আইনি ব্যবস্থা নেওয়ার নির্দেশ দিয়েছে শিক্ষা মন্ত্রণালয়।",
+        "lead_en": "The education ministry has ordered MPO cancellation and legal action for taking excess admission fees in private schools.",
         "bullets_bn": [
-          "মোতায়েন করা বিজিবি সদস্যরা উচ্চ সতর্কতায় থেকে পেশাদারিত্বের সাথে কাজ করবেন।",
-          "সাম্প্রতিক হামলার পর ডিসেম্বরের অন্তর্ঘাতের আশঙ্কায় পুলিশ নিরাপত্তা জোরদার করেছে।",
-          "ঝুঁকিপূর্ণ জেলাগুলোর জন্য অতিরিক্ত পুলিশ পরিকল্পনা করা হয়েছে এবং সীমান্ত নজরদারি তীব্র করা হয়েছে।"
+          "প্রথম শ্রেণিতে ভর্তির ক্ষেত্রে শিক্ষার্থীদের ন্যূনতম বয়স ছয় বছর নির্ধারণ করা হয়েছে।",
+          "একই প্রতিষ্ঠানে এক শ্রেণি থেকে পরবর্তী শ্রেণিতে উত্তীর্ণ শিক্ষার্থীদের পুনঃভর্তি ফি আদায় নিষিদ্ধ করা হয়েছে।",
+          "অনলাইনে প্রথম শ্রেণির আবেদন ফরমের মূল্য সর্বোচ্চ ১১০ টাকা এবং দ্বিতীয় থেকে নবম শ্রেণির মূল্য ২৫০ টাকা নির্ধারণ করা হয়েছে।"
         ],
         "bullets_en": [
-          "The deployed BGB personnel will remain on high alert and work professionally.",
-          "Police stepped up security amid fears of December sabotage following recent attacks.",
-          "Additional police are planned for vulnerable districts and border surveillance intensifies as investigators trace funding."
+          "The minimum age for admission to the first grade has been set at six years.",
+          "Re-admission fee collection for students passing from one class to the next in the same institution has been banned.",
+          "Online application form price for the first grade is set at a maximum of 110 taka and 250 taka for second to ninth grades."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "সাম্প্রতিক হামলার পর ডিসেম্বরের অন্তর্ঘাতের আশঙ্কায় পুলিশ নিরাপত্তা জোরদার করেছে। ঝুঁকিযুক্ত জেলাগুলোতে অতিরিক্ত পুলিশ মোতায়েনের পরিকল্পনা করা হয়েছে। পাশাপাশি সীমান্ত নজরদারি জোরদার করা হয়েছে এবং তদন্তকারীরা অর্থায়ন খতিয়ে দেখছেন।",
-        "details_en": "Police stepped up security amid fears of December sabotage following recent attacks. Additional police are planned for vulnerable districts as border surveillance intensifies and investigators trace funding.",
-        "hook_bn": "গোপালগঞ্জে আরও ২৬ প্লাটুন বিজিবি মোতায়েন",
+        "details_bn": "১০ নভেম্বর শিক্ষা মন্ত্রণালয়ের মাধ্যমিক ও উচ্চশিক্ষা বিভাগ থেকে ২০২৭ শিক্ষাবর্ষের ভর্তি নীতিমালায় এসব নির্দেশনা জারি করা হয়েছে। নতুন নীতিমালায় সেশন চার্জসহ ভর্তি ফির সর্বোচ্চ সীমা নির্ধারণ করে দেওয়া হয়েছে এবং উন্নয়ন ফির নামে ৩ হাজার টাকার বেশি আদায় নিষিদ্ধ করা হয়েছে।",
+        "details_en": "These directives were issued in the admission policy for the 2027 academic year by the Secondary and Higher Education Division of the Ministry of Education on November 10. The new policy sets maximum limits for admission fees including session charges and prohibits collecting more than 3,000 taka in the name of development fees.",
+        "hook_bn": "বেসরকারি স্কুলে অতিরিক্ত ফি নিলে বাতিল এমপিও",
         "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
+        "share_value": true,
+        "question_bn": "আপনার এলাকার বেসরকারি স্কুলে ভর্তি ফি কত রাখা উচিত বলে আপনি মনে করেন?"
       },
-      "desk_importance": 8.0,
-      "outlet_count": 2,
+      "desk_importance": 7.0,
+      "outlet_count": 1,
       "trending": false,
       "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T02:01:54.727988+00:00"
+        "checked_at": "2026-11-22T03:02:04.364281+00:00"
       }
     },
     {
-      "story_id": "ec2fc960-b262-5fb3-91be-80da6f43b938",
+      "story_id": "de4fdc88-f320-545e-8cf5-48c1b1183654",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#IncomeTax",
+        "#RAPID",
+        "#NBR"
+      ],
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182539/2095441dccabac0c439268da6eb78d4a.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-22T03:00:56.699902+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5976,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/less-than-4pc-of-labour-force-pays-income-tax-lowest-in-south-asia",
+          "title": "Less than 4pc of labour force pays income tax, lowest in South Asia",
+          "snippet": "Less than 4pc of labour force pays income tax, lowest in South Asia"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "দক্ষিণ এশিয়ায় সবচেয়ে কম আয়কর প্রদানকারী শ্রমশক্তি বাংলাদেশের",
+        "title_en": "Bangladesh labour force has South Asia lowest income tax share",
+        "summary_bn": "বাংলাদেশের মোট শ্রমশক্তির মাত্র ৩.৩৭ শতাংশ সক্রিয় ব্যক্তিগত আয়করদাতা, যা দক্ষিণ এশিয়ায় সর্বনিম্ন বলে এক গবেষণায় উঠে এসেছে।",
+        "summary_en": "Active personal income taxpayers account for only 3.37 per cent of Bangladesh total labour force, the lowest in South Asia, a study shows.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-22T03:00:56.699902+00:00",
+        "lead_bn": "বাংলাদেশের মোট শ্রমশক্তির মাত্র ৩.৩৭ শতাংশ সক্রিয় ব্যক্তিগত আয়করদাতা, যা দক্ষিণ এশিয়ায় সর্বনিম্ন বলে এক গবেষণায় উঠে এসেছে।",
+        "lead_en": "Active personal income taxpayers account for only 3.37 per cent of Bangladesh total labour force, the lowest in South Asia, a study shows.",
+        "bullets_bn": [
+          "গবেষণায় বলা হয়েছে, পাকিস্তানে এই হার ৭.০৪ শতাংশ, ভারতে ১৩.৪৩ শতাংশ, ভুটানে ২৯.৭৪ শতাংশ এবং নেপালে ৪১.৮৬ শতাংশ।",
+          "গবেষণাটি উন্মোচন করেছে রিসার্চ অ্যান্ড পলিসি ইন্টিগ্রেশন ফর ডেভেলপমেন্ট এবং ফ্রেডরিখ এবার্ট স্টেফটিং।",
+          "সম্পূর্ণ কর আইন মানা হলে ব্যক্তিগত আয়কর থেকে জিডিপির ৪.৮৫ শতাংশ এবং ভ্যাট থেকে ৩.৮২ শতাংশ রাজস্ব আহরণ সম্ভব ছিল।"
+        ],
+        "bullets_en": [
+          "The proportion is 7.04 per cent in Pakistan, 13.43 per cent in India, 29.74 per cent in Bhutan and 41.86 per cent in Nepal.",
+          "The findings were unveiled by Research and Policy Integration for Development with support from Friedrich-Ebert-Stiftung.",
+          "Full compliance with tax laws could yield personal income tax equivalent to 4.85 per cent and VAT to 3.82 per cent of GDP."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ঢাকার একটি হোটেলে আয়োজিত অনুষ্ঠানে মিসিং রেভিনিউজ ইন বাংলাদেশ শীর্ষক গবেষণা প্রতিবেদনটি উপস্থাপন করেন RAPID-এর চেয়ারম্যান ড. মোহাম্মদ আব্দুর রাজ্জাক। অনুষ্ঠানে প্রধান অতিথি ছিলেন অর্থ সচিব ড. খায়েরুজ্জামান মজুমদার এবং বিশেষ অতিথি ছিলেন এনবিআরের সদস্য সৈয়দ মুসফেজুর রহমান।",
+        "details_en": "RAPID chairman Dr Mohammad Abdur Razzaque presented the findings titled Missing Revenues in Bangladesh at a hotel in Dhaka. Finance Secretary Dr Khairuzzaman Mazumder and NBR Member Syed Musfequr Rahman attended the programme.",
+        "hook_bn": "দক্ষিণ এশিয়ায় সবচেয়ে কম আয়করদাতা",
+        "kicker_bn": "রাজস্ব গবেষণা",
+        "share_value": false,
+        "question_bn": "কর জাল বাড়াতে কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-22T03:02:04.364281+00:00"
+      }
+    },
+    {
+      "story_id": "2e77744a-14c6-5f29-9016-f863f06bcaff",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law"
+        "governance_law",
+        "tech_innovation"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/pabna-01-20261122075443.jpg?cid=499842",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2021-12%2Fb73b8657-b831-4ff0-ae24-c9322a52dc85%2Fprothomalo_import_media_2018_10_05_6938b1921034b01295ca3306a1b96c22_5bb71836128d5.jpg?rect=0%2C0%2C736%2C386&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-22T01:54:43+00:00",
+      "published_at": "2026-11-22T02:28:21+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.0,
-      "rank_score": 3.5765,
+      "rank_score": 3.4865,
       "sources": [
         {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/country/499842",
-          "title": "পাবনায় আ.লীগ-বিএনপি সংঘর্ষের ঘটনায় তাৎক্ষণিকভাবে ওসি প্রত্যাহার",
-          "snippet": "পাবনায় আ.লীগ-বিএনপি সংঘর্ষের ঘটনায় তাৎক্ষণিকভাবে ওসি প্রত্যাহার"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/chakri/employment/uw4waol4ci",
+          "title": "৪৯৫ জন এআই টেকনিশিয়ন নেবে সরকার, চুক্তিতে স্বাধীন চাকরির সুযোগ উপজেলায়",
+          "snippet": "৪৯৫ জন এআই টেকনিশিয়ন নেবে সরকার, চুক্তিতে স্বাধীন চাকরির সুযোগ উপজেলায়"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পাবনায় সংঘর্ষের ঘটনায় বেড়া থানার ওসি প্রত্যাহার",
-        "title_en": "Bera police station OC withdrawn following clashes in Pabna",
-        "summary_bn": "পাবনার বেড়া উপজেলায় আওয়ামী লীগ ও বিএনপির নেতাকর্মীদের মধ্যে সংঘর্ষের ঘটনায় বেড়া মডেল থানার ভারপ্রাপ্ত কর্মকর্তা নয়ন কুমার সরকারকে প্রত্যাহার করা হয়েছে।",
-        "summary_en": "Bera Model Police Station Officer-in-Charge Nayan Kumar Sarkar has been withdrawn following clashes between Awami League and BNP activists in Pabna's Bera upazila.",
+        "title_bn": "মৎস্য ও প্রাণিসম্পদ মন্ত্রণালয় ৪৯৫ জন এআই টেকনিশিয়ান নিয়োগ দেবে।",
+        "title_en": "Fisheries and livestock ministry to hire 495 AI technicians.",
+        "summary_bn": "মৎস্য ও প্রাণিসম্পদ মন্ত্রণালয়ের অধীন প্রাণিসম্পদ অধিদপ্তর আউটসোর্সিং প্রক্রিয়ায় সারা দেশের ৪৯৫টি উপজেলায় ৪৯৫ জন এআই টেকনিশিয়ান নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে।",
+        "summary_en": "The Department of Livestock Services under the Ministry of Fisheries and Livestock has issued a notice to recruit 495 AI technicians.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "governance_law",
+          "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T01:54:43+00:00",
-        "lead_bn": "পাবনার বেড়া উপজেলায় আওয়ামী লীগ ও বিএনপির নেতাকর্মীদের মধ্যে সংঘর্ষের ঘটনায় বেড়া মডেল থানার ভারপ্রাপ্ত কর্মকর্তা নয়ন কুমার সরকারকে প্রত্যাহার করা হয়েছে।",
-        "lead_en": "Bera Model Police Station Officer-in-Charge Nayan Kumar Sarkar has been withdrawn following clashes between Awami League and BNP activists in Pabna's Bera upazila.",
+        "published_at": "2026-11-22T02:28:21+00:00",
+        "lead_bn": "মৎস্য ও প্রাণিসম্পদ মন্ত্রণালয়ের অধীন প্রাণিসম্পদ অধিদপ্তর আউটসোর্সিং প্রক্রিয়ায় সারা দেশের ৪৯৫টি উপজেলায় ৪৯৫ জন এআই টেকনিশিয়ান নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে।",
+        "lead_en": "The Department of Livestock Services under the Ministry of Fisheries and Livestock has issued a notice to recruit 495 AI technicians.",
         "bullets_bn": [
-          "পাবনা সদর সার্কেল অফিসের ইন্সপেক্টর গোলাম মোস্তফাকে বেড়া থানার দায়িত্ব দেওয়া হয়েছে।",
-          "বিষয়টি নিশ্চিত করেন পাবনার পুলিশ সুপার আবু আশ্রাফ।",
-          "পরিস্থিতি নিয়ন্ত্রণে পুলিশ কয়েক রাউন্ড টিয়ারশেল ও রাবার বুলেট নিক্ষেপ করে।"
+          "বাংলাদেশের স্থায়ী নাগরিকেরা সরাসরি চুক্তি সম্পাদনের মাধ্যমে এ সরকারি কাজের জন্য আবেদন করতে পারবেন।",
+          "আগ্রহী প্রার্থীদের আগামী ৬ ডিসেম্বর ২০২৬ বিকেল ৪টার মধ্যে রেজিস্ট্রি ডাকযোগে অথবা কুরিয়ার সার্ভিসের মাধ্যমে আবেদনপত্র পাঠাতে হবে।",
+          "নির্বাচিত টেকনিশিয়ানদের নিজ উপজেলায় প্রতি মাসে কমপক্ষে ৫০টি কৃত্রিম প্রজনন কাজ সম্পন্ন করার অঙ্গীকারনামা দিতে হবে।"
         ],
         "bullets_en": [
-          "Pabna Sadar Circle Office Inspector Golam Mostofa has been assigned to the Bera police station.",
-          "Pabna Superintendent of Police Abu Ashraf confirmed the matter on Saturday night.",
-          "Police fired several rounds of tear gas shells and rubber bullets to bring the situation under control."
+          "Bangladeshi permanent citizens can apply for this government work through direct contract execution.",
+          "Interested candidates must send application forms by registered post or courier service by 4 pm on December 6, 2026.",
+          "Selected technicians must give an undertaking to complete at least 50 artificial insemination works per month in their respective upazilas."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "গত ১৯ নভেম্বর লকডাউন কর্মসূচিকে ঘিরে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতাকর্মীরা বেড়া মডেল থানার সামনে বিক্ষোভ মিছিল করেন। পরে বিএনপি ও ছাত্রদলের নেতাকর্মীরা পাল্টা মিছিল বের করলে উভয় পক্ষের মধ্যে ধাওয়া-পাল্টা ধাওয়া ও সংঘর্ষের সূত্রপাত হয়। এ সময় সাবেক ডেপুটি স্পিকার শামসুল হক টুকুর পরিত্যক্ত বাড়িতে থাকা খড়ের পালায় আগুন দেওয়া হয় এবং সন্ধ্যা পর্যন্ত দফায় দফায় সংঘর্ষ চলে।",
-        "details_en": "On November 19, leaders and activists of the banned Awami League brought out a protest procession in front of Bera Model Police Station surrounding a lockdown program. Later, BNP and Chhatra Dal activists brought out a counter-procession, triggering chase and counter-chase and clashes between the two sides. During this time, a straw stack at the abandoned house of former deputy speaker Shamsul Haque Tuku was set on fire, and clashes continued in phases until Saturday evening.",
-        "hook_bn": "পাবনায় সংঘর্ষের ঘটনায় ওসি প্রত্যাহার",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
+        "impact_bn": "এ কাজের মাধ্যমে প্রান্তিক খামারিরা অর্থনৈতিকভাবে লাভবান হবেন এবং দেশি ও অনুন্নত জাতের গবাদিপশুর জাত উন্নয়ন ঘটবে।",
+        "impact_en": "Through this work, marginal farmers will benefit economically and indigenous and underdeveloped cattle breeds will be developed.",
+        "details_bn": "বিজ্ঞপ্তির শর্ত অনুযায়ী নির্বাচিত কর্মীরা নিজ এলাকায় অবস্থান করে তাঁদের নিয়মিত কৃষিকাজ বা ব্যক্তিগত ব্যবসার পাশাপাশি এ কাজ চালিয়ে যেতে পারবেন এবং সম্মানজনক বাড়তি আয়ের সুযোগ পাবেন। ন্যূনতম এসএসসি বা সমমান পাস প্রার্থীরা এ পদে আবেদন করতে পারবেন এবং সরাসরি কোনো আবেদনপত্র গ্রহণ করা হবে না।",
+        "details_en": "According to the notification conditions, selected workers can stay in their own areas and carry on this work alongside regular farming or personal business and get an opportunity for honorable extra income. Candidates with a minimum SSC or equivalent pass can apply for this post and no direct application forms will be accepted.",
+        "hook_bn": "উপজেলায় ৪৯৫ জন এআই টেকনিশিয়ান নিয়োগ",
+        "kicker_bn": "নতুন চাকরি",
+        "share_value": true,
+        "question_bn": "আপনার উপজেলায় এআই টেকনিশিয়ান নিয়োগের এই সুযোগকে আপনি কীভাবে দেখছেন?"
       },
       "desk_importance": 6.0,
       "outlet_count": 1,
@@ -139,204 +206,70 @@
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T02:01:54.727988+00:00"
+        "checked_at": "2026-11-22T03:02:04.364281+00:00"
       }
     },
     {
-      "story_id": "c961a578-7cd8-550f-b9e1-55c33558ce15",
-      "primary_category": "world_diplomacy",
+      "story_id": "6441d6ad-e4d0-50b5-84d3-bb25ec9558a8",
+      "primary_category": "governance_law",
       "interest_categories": [
+        "governance_law",
+        "economy_business",
         "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#FaustoIsidroMezaFlores",
-        "#FBI",
-        "#Mexico",
-        "#Guasave"
+        "#Chattogram",
+        "#Jorarganj",
+        "#Khagrachhari",
+        "#BangladeshPolice"
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/22/919038293_1616663906348174_3504808917606193367_n.jpg",
       "image_caption": null,
-      "published_at": "2026-11-22T01:25:03+00:00",
+      "published_at": "2026-11-22T02:40:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 5.0,
-      "rank_score": 2.4137,
+      "rank_score": 2.4485,
       "sources": [
         {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-          "snippet": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/law-order/two-arrested-foreign-made-pistol-ammunition-chattograms-jorarganj-1610041",
+          "title": "Two arrested with foreign-made pistol, ammunition in Chattogram's Jorarganj",
+          "snippet": "Two arrested with foreign-made pistol, ammunition in Chattogram's Jorarganj"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মেক্সিকোতে গুলিবিনিময়ে এফবিআইয়ের মোস্ট ওয়ান্টেড মাদকসম্রাট গ্রেপ্তার",
-        "title_en": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-        "summary_bn": "মেক্সিকীয় কর্তৃপক্ষের সঙ্গে গোলাগুলিতে এফবিআইয়ের শীর্ষ ১০ মোস্ট ওয়ান্টেড তালিকার এক মেক্সিকীয় মাদকসম্রাট গ্রেপ্তার হয়েছেন।",
-        "summary_en": "A Mexican drug lord on the FBI's 10 most wanted list has been arrested following a shoot-out with Mexican authorities.",
+        "title_bn": "জোয়ারগঞ্জে অস্ত্রসহ দুজন গ্রেপ্তার",
+        "title_en": "Two arrested with weapons in Jorarganj",
+        "summary_bn": "চট্টগ্রামের জোরারগঞ্জে একটি বাস তল্লাশি করে বিদেশি পিস্তল ও গুলিসহ দুই ব্যক্তিকে গ্রেপ্তার করেছে পুলিশ।",
+        "summary_en": "Police arrested two men with a foreign-made pistol and ammunition after searching a bus in Chattogram's Jorarganj.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "governance_law",
+          "economy_business",
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T01:25:03+00:00",
-        "lead_bn": "মেক্সিকীয় কর্তৃপক্ষের সঙ্গে গোলাগুলিতে এফবিআইয়ের শীর্ষ ১০ মোস্ট ওয়ান্টেড তালিকার এক মেক্সিকীয় মাদকসম্রাট গ্রেপ্তার হয়েছেন।",
-        "lead_en": "A Mexican drug lord on the FBI's 10 most wanted list has been arrested following a shoot-out with Mexican authorities.",
+        "published_at": "2026-11-22T02:40:00+00:00",
+        "lead_bn": "চট্টগ্রামের জোরারগঞ্জে একটি বাস তল্লাশি করে বিদেশি পিস্তল ও গুলিসহ দুই ব্যক্তিকে গ্রেপ্তার করেছে পুলিশ।",
+        "lead_en": "Police arrested two men with a foreign-made pistol and ammunition after searching a bus in Chattogram's Jorarganj.",
         "bullets_bn": [
-          "মেক্সিকোর প্রতিরক্ষা সচিবালয় জানিয়েছে, গুয়াসাবের সিনালোয়ায় মেক্সিকীয় বিশেষ বাহিনীর অভিযানে ফাউস্তো ইসিদ্রো চ্যাপো ইসিদ্রো মেজা ফ্লোরেস ও সাতজন আটক হয়েছেন।",
-          "এই অভিযানে সাতজন সন্দেহভাজন এবং গুয়াসাবে নিরাপত্তা জোরদার করতে যাওয়া চার মেক্সিকীয় সেনা সদস্য নিহত হয়েছেন।",
-          "যুক্তরাষ্ট্রের পক্ষ থেকে তার প্রত্যর্পণ চাওয়া হয়েছে এবং এফবিআই তার বিরুদ্ধে যুক্তরাষ্ট্রে মারাত্মক মাদক পাচারের অভিযোগ এনেছে।"
+          "খাগড়াছড়ির পানছড়ি থেকে ঢাকাগামী শান্তি পরিবহন বাসে তল্লাশি চালিয়ে অস্ত্রগুলো উদ্ধার করা হয়।",
+          "গ্রেপ্তার ব্যক্তিরা হলেন ইবন জাহিদ এবং সালাহ উদ্দিন আকবর।",
+          "পুলিশ সুনির্দিষ্ট তথ্যের ভিত্তিতে রামগতি-করেরহাট সড়কের নয়টিলা মাজার এলাকায় চেকপোস্ট বসায়।"
         ],
         "bullets_en": [
-          "Mexico's defence secretariat said Fausto Isidro Chapo Isidro Meza Flores and seven others were detained by special forces in Guasave, Sinaloa on Friday.",
-          "Seven suspects and four members of the Mexican army travelling to reinforce security in Guasave were killed in the operation.",
-          "The US is seeking his extradition, and the FBI has accused him of flooding the US with deadly drugs."
+          "The weapons were recovered during a search of a Shanti Paribahan bus travelling from Khagrachhari to Dhaka.",
+          "The arrestees were identified as Ibn Zahid and Salah Uddin Akbar.",
+          "Police set up checkpoints along the Ramgarh-Korerhat road near Noytilla Mazar based on specific information."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড হোয়াইট হাউসে ফেরার পর মেক্সিকো তার ওপর চাপের মুখে মাদক সংক্রান্ত অপরাধ দমনের প্রচেষ্টা জোরদার করেছে। মেজা ফ্লোরেস অরগানাইজেশন বা গুয়াসাবে কার্টেলের নেতা মেজা ফ্লোরেস নব্বইয়ের দশক থেকে মাদক পাচার চক্রে সক্রিয় ছিলেন বলে ধারণা করা হয়, তবে এতদিন তুলনামূলকভাবে কম প্রোফাইল বজায় রেখে কর্তৃপক্ষকে এড়িয়ে চলেছিলেন। যুক্তরাষ্ট্রের গোয়েন্দা তথ্যের ভিত্তিতে মেক্সিকোর বিশেষ বাহিনী গোপনীয়তা ও আকস্মিকতার মাধ্যমে তার অবস্থানে হানা দেয়।",
-        "details_en": "Mexico has stepped up efforts to tackle drug-related crime after coming under pressure from US President Donald Trump since he returned to the White House. Meza Flores, the leader of the Meza Flores Organisation, also known as the Guasave Cartel, is thought to have been active in the drug trafficking trade since the 1990s but managed to evade authorities till now by maintaining a relatively low profile. Using US intelligence on his whereabouts, Mexican special forces descended on his location using stealth and surprise.",
-        "hook_bn": "মেক্সিকোতে গুলিবিনিময়ে মাদকসম্রাট গ্রেপ্তার",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T02:01:54.727988+00:00"
-      }
-    },
-    {
-      "story_id": "1d897d4e-2c56-5937-a9a4-926c21901461",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-22%2Fbzo78lnj%2Frussian-cargo.avif?rect=0%2C221%2C960%2C504&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-22T01:04:23+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 3.9989,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/europe/z165rqc1hk",
-          "title": "বাল্টিক সাগরে ড্রোন হামলায় রুশ পণ্যবাহী জাহাজে আগুন",
-          "snippet": "বাল্টিক সাগরে ড্রোন হামলায় রুশ পণ্যবাহী জাহাজে আগুন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বাল্টিক সাগরে রুশ পণ্যবাহী জাহাজে ড্রোন হামলা",
-        "title_en": "Russian cargo ship hit by drone attack in Baltic Sea",
-        "summary_bn": "বাল্টিক সাগরে রাশিয়ার একটি পণ্যবাহী জাহাজে ড্রোন হামলায় আগুন ধরে যায় এবং ফিনল্যান্ড বলছে হামলাটি সম্ভবত ইউক্রেন চালিয়েছে।",
-        "summary_en": "A Russian cargo ship caught fire in the Baltic Sea following a drone attack, which Finland says was likely carried out by Ukraine.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T01:04:23+00:00",
-        "lead_bn": "বাল্টিক সাগরে রাশিয়ার একটি পণ্যবাহী জাহাজে ড্রোন হামলায় আগুন ধরে যায় এবং ফিনল্যান্ড বলছে হামলাটি সম্ভবত ইউক্রেন চালিয়েছে।",
-        "lead_en": "A Russian cargo ship caught fire in the Baltic Sea following a drone attack, which Finland says was likely carried out by Ukraine.",
-        "bullets_bn": [
-          "স্পার্টা-২ নামের জাহাজটির ১৬ নাবিক প্রথমে লাইফবোটে এবং পরে কাছের একটি রুশ জাহাজে ওঠেন।",
-          "ফিনল্যান্ডের সশস্ত্র বাহিনীর মুখপাত্র আকি-মাউরি হুহতিনেন বলেন যে সম্ভবত ইউক্রেন এ হামলার পেছনে রয়েছে।",
-          "জাহাজটি ফিনল্যান্ডের জলসীমায় নোঙর করা আছে এবং উদ্ধার অভিযানের নেতৃত্ব দিচ্ছে ফিনল্যান্ড।"
-        ],
-        "bullets_en": [
-          "The 16 crew members of the Sparta-2 ship boarded a life-boat and then a nearby Russian vessel.",
-          "Finnish armed forces spokesperson Aki-Mauri Huhtinen stated that Ukraine is probably behind the attack.",
-          "The ship is anchored in Finnish waters and Finland is leading the rescue operation."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "চলতি বছর রাশিয়ার উত্তর-পশ্চিমাঞ্চলের লেনিনগ্রাদ অঞ্চলের দিকে একের পর এক সামরিক ড্রোন পাঠিয়েছে ইউক্রেন। এর কয়েকটি পথ হারিয়ে বাল্টিক অঞ্চলের আকাশসীমায় ঢুকে পড়ে। ফিনল্যান্ডের প্রতিরক্ষা বাহিনী জানিয়েছে, রাশিয়ার সামরিক বাহিনীর সঙ্গে সম্পর্কিত জাহাজটি কালিনিনগ্রাদে যাচ্ছিল এবং রাশিয়ার গোগল্যান্ড দ্বীপের পশ্চিমে আন্তর্জাতিক জলসীমায় এটি ক্ষতিগ্রস্ত হয়। উদ্ধার অভিযানের সময় রাশিয়ার একটি হেলিকপ্টার অল্প সময়ের জন্য ফিনল্যান্ডের আকাশসীমা লঙ্ঘন করেছে বলে সন্দেহ করা হচ্ছে।",
-        "details_en": "Ukraine has sent multiple military drones toward Russia's northwestern Leningrad region this year, some of which strayed into the Baltic airspace. Finnish defense forces stated that the military-linked ship was heading to Kaliningrad and was damaged in international waters west of Russia's Gogland island. Authorities suspect a Russian helicopter briefly violated Finnish airspace during the rescue operation.",
-        "hook_bn": "সমభাবত ইউক্রেন এ হামলার পেছনে রয়েছে",
+        "details_bn": "পুলিশ জানায়, দুজন ব্যক্তি অস্ত্র নিয়ে ঢাকা যাচ্ছিলেন—এমন খবরের ভিত্তিতে বিভিন্ন সম্ভাব্য রুটে চেকপোস্ট বসানো হয়। পরে রামগতি-করেরহাট সড়কের নয়টিলা মাজার এলাকায় শান্তি পরিবহন বাসে তল্লাশি চালিয়ে একটি জাপানি ৭.৬২ মিমি পিস্তল, দুটি ম্যাগাজিন ও তিন রাউন্ড গুলি উদ্ধার করা হয়।",
+        "details_en": "Police said they had received information that two individuals were travelling to Dhaka with firearms and set up checkpoints along several possible routes. During a search of a Shanti Paribahan bus near Noytilla Mazar, officers recovered a Japanese-made 7.62mm pistol, two magazines and three rounds of ammunition.",
+        "hook_bn": "জোরারগঞ্জে বাসে অস্ত্রসহ গ্রেপ্তার দুই",
         "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": true,
-      "social_appeal": 4.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T02:01:54.727988+00:00"
-      }
-    },
-    {
-      "story_id": "8095ebf5-c419-544c-a5cb-c88d479f300d",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "climate_environment"
-      ],
-      "region": "international",
-      "tags": [
-        "#Nigeria",
-        "#BayelsaState",
-        "#BolaTinubu",
-        "#NationalEmergencyManagementAgency"
-      ],
-      "image_url": "https://static.dw.com/image/78967690_6.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-21T23:52:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.2069,
-      "sources": [
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/nigeria-at-least-24-dead-after-boat-capsizes/a-80011248?maca=en-rss-en-all-1573-rdf",
-          "title": "Nigeria: At least 24 dead after boat capsizes",
-          "snippet": "Nigeria: At least 24 dead after boat capsizes"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "নাইজেরিয়ায় নৌকাডুবিতে অন্তত ২৪ জনের মৃত্যু",
-        "title_en": "At least 24 dead after boat capsizes in Nigeria",
-        "summary_bn": "দক্ষিণ নাইজেরিয়ায় একটি নৌকা ডুবে যাওয়ার পর অন্তত ২৪ জনের মরদেহ উদ্ধার করা হয়েছে এবং উদ্ধার অভিযান চলছে।",
-        "summary_en": "At least 24 people have died after a boat capsized in southern Nigeria, and search and rescue operations are ongoing.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "climate_environment"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-21T23:52:00+00:00",
-        "lead_bn": "দক্ষিণ নাইজেরিয়ায় একটি নৌকা ডুবে যাওয়ার পর অন্তত ২৪ জনের মরদেহ উদ্ধার করা হয়েছে এবং উদ্ধার অভিযান চলছে।",
-        "lead_en": "At least 24 people have died after a boat capsized in southern Nigeria, and search and rescue operations are ongoing.",
-        "bullets_bn": [
-          "নৌকাটি আয়ামা শহর থেকে ইউকুবিতে একটি অন্ত্যেষ্টিক্রিয়ার শোকসন্তপ্ত যাত্রীদের বহন করছিল।",
-          "নাইজেরিয়ার প্রেসিডেন্ট বোলা টিনুউ এক্স-এ এক বিবৃতিতে বলেছেন যে নিহত ব্যক্তিরা এভাবে মরার যোগ্য ছিলেন না।",
-          "প্রাথমিক প্রতিবেদন অনুযায়ী নৌকাটিতে যান্ত্রিক ত্রুটি দেখা দিয়েছিল বলে পুলিশ জানিয়েছে।"
-        ],
-        "bullets_en": [
-          "The boat was carrying mourners for a burial ceremony from the town of Ayama to Ukubie.",
-          "Nigerian President Bola Tinubu said in a statement on X that those who lost their lives did not deserve to die that way.",
-          "Police spokesman Musa Mohammed said that preliminary reports suggested the boat suffered a mechanical problem."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "দক্ষিণ নাইজেরিয়ার বেলেসা রাজ্যে এই দুর্ঘটনা ঘটে। পুলিশ জানায়, প্রথম দিনে পানি থেকে চার জনের মরদেহ উদ্ধারের সময় দুই শিশুও ছিল এবং সে সময় ২৪ জন জীবিত উদ্ধার হন। তবে বোর্ডে ঠিক কতজন যাত্রী ছিলেন তা কর্তৃপক্ষ নিশ্চিত করতে পারেনি। নাইজেরিয়ার ব্যস্ত নদীগুলোতে অতিরিক্ত বোঝাই, নৌযানের দুর্বল রক্ষণাবেক্ষণ এবং নিরাপত্তা নিয়ম মেনে না চলার কারণে নৌকা দুর্ঘটনা সচরাচর ঘটে থাকে।",
-        "details_en": "The incident occurred on Friday in southern Bayelsa State when the boat sank while traveling from Ayama to Ukubie. Police reported that two children were among four bodies initially recovered along with 24 survivors, though authorities have not confirmed total passenger numbers. Boat accidents are common on Nigeria's busy river networks due to overloading, poor vessel maintenance, and failure to comply with safety norms.",
-        "hook_bn": "দক্ষিণ নাইজেরিয়ায় নৌকাডুবিতে অন্তত ২৪ জনের মৃত্যু",
-        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
@@ -346,7 +279,76 @@
       "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T02:01:54.727988+00:00"
+        "checked_at": "2026-11-22T03:02:04.364281+00:00"
+      }
+    },
+    {
+      "story_id": "be472193-1654-5e4b-a602-d1cd94db1eda",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "climate_environment"
+      ],
+      "region": "international",
+      "tags": [
+        "#Technology",
+        "#Innovation"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-21%2Fwazfe54z%2Fgoogle.jpg?rect=0%2C0%2C690%2C362&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-22T02:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.356,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/technology/cyberworld/nj74lvkq79",
+          "title": "এআইকে নিরাপদে প্রশিক্ষণ দিতে কৃত্রিম ইন্টারনেট তৈরি করেছে গুগল",
+          "snippet": "এআইকে নিরাপদে প্রশিক্ষণ দিতে কৃত্রিম ইন্টারনেট তৈরি করেছে গুগল"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "এআই প্রশিক্ষণের জন্য কৃত্রিম ইন্টারনেট তৈরি করেছে গুগল",
+        "title_en": "Google creates artificial internet to train AI safely",
+        "summary_bn": "কৃত্রিম বুদ্ধিমত্তাভিত্তিক ব্রাউজিং এজেন্টকে নিরাপদে প্রশিক্ষণ দিতে মিরর ডাইমেনশন নামের একটি কৃত্রিম ইন্টারনেট তৈরি করেছে গুগল।",
+        "summary_en": "Google created an artificial internet named Mirror Dimension to safely train artificial intelligence browsing agents.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation",
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-22T02:00:00+00:00",
+        "lead_bn": "কৃত্রিম বুদ্ধিমত্তাভিত্তিক ব্রাউজিং এজেন্টকে নিরাপদে প্রশিক্ষণ দিতে মিরর ডাইমেনশন নামের একটি কৃত্রিম ইন্টারনেট তৈরি করেছে গুগল।",
+        "lead_en": "Google created an artificial internet named Mirror Dimension to safely train artificial intelligence browsing agents.",
+        "bullets_bn": [
+          "এই নিয়ন্ত্রিত ডিজিটাল পরিবেশে এআই নিজে থেকে ওয়েবসাইটে প্রবেশ করতে ও ফরম পূরণ করতে পারে।",
+          "প্রকৃত ইন্টারনেটে পরীক্ষা না চালিয়ে এই পরিবেশে কাজ করায় ব্যবহারকারীর ব্যক্তিগত তথ্য ঝুঁকিতে পড়ে না।",
+          "জিভাইজর প্রযুক্তি ব্যবহার করে সম্পূর্ণ বিচ্ছিন্ন ও নিয়ন্ত্রিত এই ডিজিটাল পরিবেশ তৈরি করেছে গুগল।"
+        ],
+        "bullets_en": [
+          "In this controlled digital environment, AI can independently enter websites and fill out forms.",
+          "User personal data remains safe because testing occurs here instead of the real internet.",
+          "Google built this completely isolated and controlled digital environment using a technology named Gvisor."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "দৈনন্দিন জীবনের বিভিন্ন অনলাইন কাজ নিজে থেকে সম্পন্ন করতে সক্ষম এআই এজেন্ট তৈরি করতে হলে বিপুলসংখ্যক পরীক্ষা চালাতে হয়। কিন্তু প্রকৃত ইন্টারনেটে এ ধরনের পরীক্ষা চালানো বেশ কঠিন, কারণ ওয়েবসাইটগুলো নিয়মিত পরিবর্তিত হয় এবং নিরাপত্তাঝুঁকি থাকে। এর পাশাপাশি আধুনিক এআই মডেল বুঝতে পারে যে তাকে পরীক্ষা করা হচ্ছে, যা ইভাল্যুশন অ্যাওয়ারনেস নামে পরিচিত। এসব সমস্যা এড়াতে গুগল এই কৃত্রিম পরিবেশ তৈরি করেছে।",
+        "details_en": "Creating AI agents capable of completing daily online tasks independently requires conducting numerous tests. Running such tests on the real internet is difficult because websites change regularly and security risks exist. Additionally, modern AI models can realize when they are being tested, a problem known as evaluation awareness. Google created this artificial environment to avoid these problems.",
+        "hook_bn": "এআই প্রশিক্ষণে কৃত্রিম ইন্টারনেট এনেছে গুগল",
+        "kicker_bn": "প্রযুক্তি",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-22T03:02:04.364281+00:00"
       }
     }
   ]
