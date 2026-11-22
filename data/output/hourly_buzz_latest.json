@@ -1,165 +1,9 @@
 {
-  "updated_at": "2026-11-22T22:00:43.399321",
-  "total_stories": 3,
+  "updated_at": "2026-11-22T23:00:44.435113",
+  "total_stories": 1,
   "stories": [
     {
-      "story_id": "c6911896-edbd-5e00-81bd-c11636781524",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "world_diplomacy",
-        "climate_environment",
-        "governance_law",
-        "tech_innovation"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://i.guim.co.uk/img/media/807a7655d731bfbb7ed51cf1b1cc24c153a66ea9/503_0_5014_4013/master/5014.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=b2c40f40e9bb4687c73a113345d6884a",
-      "image_caption": null,
-      "published_at": "2026-11-22T21:44:18+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.8199,
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-          "title": "Australian politics live: Labor to extend PBS medicine freeze to 2030; Bowen ‘failed’ on Cop, Hume says",
-          "snippet": "Australian politics live: Labor to extend PBS medicine freeze to 2030; Bowen ‘failed’ on Cop, Hume says"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/opinion/editorial/425457/we-are-losing-the-fight-against-dengue",
-          "title": "We are losing the fight against dengue",
-          "snippet": "We are losing the fight against dengue"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ডেঙ্গুতে মৃত্যু ও হাসপাতালে ভর্তি দ্রুত বাড়ছে।",
-        "title_en": "Dengue deaths and hospitalizations are rising rapidly.",
-        "summary_bn": "বাংলাদেশে ডেঙ্গু পরিস্থিতির অবনতি ঘটেছে এবং এটি দেশের ইতিহাসের তৃতীয় সর্বোচ্চ প্রাণঘাতী প্রাদুর্ভাব।",
-        "summary_en": "The dengue situation in Bangladesh has deteriorated, marking the third-deadliest outbreak in the country's history.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "world_diplomacy",
-          "climate_environment",
-          "governance_law",
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T21:44:18+00:00",
-        "lead_bn": "বাংলাদেশে ডেঙ্গু পরিস্থিতির অবনতি ঘটেছে এবং এটি দেশের ইতিহাসের তৃতীয় সর্বোচ্চ প্রাণঘাতী প্রাদুর্ভাব।",
-        "lead_en": "The dengue situation in Bangladesh has deteriorated, marking the third-deadliest outbreak in the country's history.",
-        "bullets_bn": [
-          "এখন পর্যন্ত ৫১৮ জন নিশ্চিত মৃত্যুর খবর পাওয়া গেছে।",
-          "চলতি বছর হাসপাতালে ভর্তির সংখ্যা ১ লক্ষ ৭৫ হাজারের কাছাকাছি পৌঁছেছে।",
-          "ডেঙ্গু মোকাবেলায় বর্তমান পদক্ষেপগুলোকে অপর্যাপ্ত হিসেবে বর্ণনা করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "Confirmed deaths have reached 518 as of writing this editorial.",
-          "Hospitalizations recorded so far this year are fast approaching 175,000.",
-          "The response to dengue remains inadequate three years after the Directorate General of Health."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বাংলাদেশে ডেঙ্গু প্রাদুর্ভাবের বিরুদ্ধে লড়াইয়ে পরিস্থিতি অত্যন্ত আশঙ্কাজনক পর্যায়ে পৌঁছেছে এবং এ পর্যন্ত রেকর্ডকৃত তথ্য অনুযায়ী এটি দেশের ইতিহাসে তৃতীয় সর্বোচ্চ প্রাণঘাতী outbreak।",
-        "details_en": "The fight against the dengue outbreak in Bangladesh has reached a critical stage, with recorded figures marking it as the third-deadliest outbreak in the country's history.",
-        "hook_bn": "ডেঙ্গুতে মৃত্যু ছাড়াল পাঁচশো আট",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": "আপনার এলাকায় ডেঙ্গু মোকাবেলায় কী ধরনের পদক্ষেপ নেওয়া হচ্ছে?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T22:02:24.697152+00:00"
-      }
-    },
-    {
-      "story_id": "055d67d5-d28c-5dd5-8933-87c134e8e56a",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Economy",
-        "#Finance"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Y29uc3VtZXIlMjByaWdodHMlMjBwcm90ZWN0aW9uJTIwZGVwYXJ0bWVudCUyMGJ1c2luZXNzfGVufDF8MHx8fDE3OTUzODQ5MjB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-22T21:45:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.713,
-      "sources": [
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822511/%E0%A6%B0%E0%A6%99-%E0%A6%AE%E0%A7%87%E0%A6%B6%E0%A6%BE%E0%A6%A8%E0%A7%8B-%E0%A6%B6%E0%A7%81%E0%A6%81%E0%A6%9F%E0%A6%95%E0%A6%BF-%E0%A6%AA%E0%A6%9A%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%82%E0%A6%B8-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A6%95%E0%A7%87",
-          "title": "রঙ মেশানো শুঁটকি-পচা মাংস বিক্রি, তিন প্রতিষ্ঠানকে জরিমানা",
-          "snippet": "রঙ মেশানো শুঁটকি-পচা মাংস বিক্রি, তিন প্রতিষ্ঠানকে জরিমানা"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1182513",
-          "title": "৩৪ জেলায় ৭৭ প্রতিষ্ঠানকে জরিমানা",
-          "snippet": "৩৪ জেলায় ৭৭ প্রতিষ্ঠানকে জরিমানা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "চাঁদপুরে তিন প্রতিষ্ঠানকে ২০ হাজার টাকা জরিমানা করেছে ভোক্তা অধিকার সংরক্ষণ অধিদপ্তর।",
-        "title_en": "Consumer Rights Protection Department fined three establishments 20 thousand taka in Chandpur.",
-        "summary_bn": "জাতীয় ভোক্তা অধিকার সংরক্ষণ অধিদপ্তর চাঁদপুরে রঙ মেশানো শুঁটকি বিক্রি ও পচা মাংস মজুতের দায়ে তিন প্রতিষ্ঠানকে মোট ২০ হাজার টাকা জরিমানা করেছে।",
-        "summary_en": "The Directorate of National Consumer Rights Protection fined three establishments a total of 20 thousand taka in Chandpur for selling dyed dried fish and stocking rotten meat.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T21:45:00+00:00",
-        "lead_bn": "জাতীয় ভোক্তা অধিকার সংরক্ষণ অধিদপ্তর চাঁদপুরে রঙ মেশানো শুঁটকি বিক্রি ও পচা মাংস মজুতের দায়ে তিন প্রতিষ্ঠানকে মোট ২০ হাজার টাকা জরিমানা করেছে।",
-        "lead_en": "The Directorate of National Consumer Rights Protection fined three establishments a total of 20 thousand taka in Chandpur for selling dyed dried fish and stocking rotten meat.",
-        "bullets_bn": [
-          "রোববার ২২ নভেম্বর চাঁদপুর শহরের বাবুরহাট বাজারে এই অভিযান চালানো হয়।",
-          "অভিযানে উত্তম কুমার সরকারকে ১০ হাজার টাকা জরিমানা করা হয়েছে।",
-          "আমিন পাটোয়ারী ও একতা ট্রেডার্সকে ৫ হাজার টাকা করে জরিমানা করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "The drive was conducted at Baburhat Bazar in Chandpur town on Sunday 22 November.",
-          "Uttam Kumar Sarkar was fined 10 thousand taka in the drive.",
-          "Amin Patwari and Ekota Traders were each fined 5 thousand taka."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "জাতীয় ভোক্তা অধিকার সংরক্ষণ অধিদপ্তর ভোজ্যতেলসহ নিত্যপ্রয়োজনীয় পণ্যের বাজারে মূল্য স্থিতিশীল রাখা, স্বাভাবিক সরবরাহ নিশ্চিত করা এবং নকল-ভেজাল খাদ্যপণ্য প্রতিরোধসহ নিরাপদ খাদ্য নিশ্চিতকরণের লক্ষ্যে এই অভিযান পরিচালনা করে।",
-        "details_en": "The Directorate of National Consumer Rights Protection conducted this drive to keep prices stable in the market for edible oil and other daily commodities, ensure normal supply of goods, and ensure safe food by preventing fake and adulterated food products.",
-        "hook_bn": "চাঁদপুরে ভেজাল পণ্যের দায়ে তিন প্রতিষ্ঠানকে জরিমানা",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": "আপনার এলাকায় বাজারে এ ধরনের ভেজাল রোধে কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T22:02:24.697152+00:00"
-      }
-    },
-    {
-      "story_id": "59bb2de8-c192-5518-ad06-26383f60c0df",
+      "story_id": "da020867-1f18-537b-aa97-f30a83ff0121",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
@@ -167,34 +11,30 @@
       ],
       "region": "international",
       "tags": [
-        "#HouseDemocrats",
-        "#ChuckHubbard"
+        "#Turkey",
+        "#Istanbul",
+        "#YeniParti",
+        "#HalkTV"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/5f402191919a3838c9536ca633ae08dfe18991da/530_0_4817_3854/master/4817.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=55a79b30034ae865497535ef2879a83e",
+      "image_url": "https://static.dw.com/image/80015327_6.jpg",
       "image_caption": null,
-      "published_at": "2026-11-22T19:17:56+00:00",
+      "published_at": "2026-11-22T21:31:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.5845,
+      "importance_score": 5.0,
+      "rank_score": 2.2917,
       "sources": [
         {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
-          "title": "Democrats capture at least 258 House seats in largest sweep since 1992",
-          "snippet": "Democrats capture at least 258 House seats in largest sweep since 1992"
-        },
-        {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-          "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-          "snippet": "Democrats win largest House majority since 1992 after flipping North Carolina seat"
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/turkey-thousands-protest-closure-of-critical-media-outlets/a-80015347?maca=en-rss-en-all-1573-rdf",
+          "title": "Turkey: Thousands protest closure of critical media outlets",
+          "snippet": "Turkey: Thousands protest closure of critical media outlets"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মার্কিন প্রতিনিধি পরিষদে ১৯৯২ সালের পর ডেমোক্র্যাটদের বৃহত্তম জয়",
-        "title_en": "Democrats capture at least 258 House seats in largest sweep since 1992",
-        "summary_bn": "মার্কিন মধ্যবর্তী নির্বাচনে ডেমোক্র্যাটরা কমপক্ষে ২৫৮টি হাউস আসন জিতে ১৯৯২ সালের পর তাদের সেরা সাধারণ নির্বাচন ফলাফল অর্জন করেছে।",
-        "summary_en": "House Democrats have secured their best general election result in decades, winning at least 258 seats in a midterm election sweep.",
+        "title_bn": "তুরস্কে সংবাদমাধ্যমের কার্যালয় বন্ধের প্রতিবাদে হাজার হাজার মানুষের বিক্ষোভ",
+        "title_en": "Thousands protest closure of critical media outlets in Turkey",
+        "summary_bn": "তুরস্কে বিরোধীদের সাথে সম্পর্কিত কয়েকটি সংবাদমাধ্যম বন্ধ করে দেওয়ার প্রতিবাদে ইস্তাম্বুলে হাজার হাজার মানুষ বিক্ষোভ করেছেন।",
+        "summary_en": "Several thousand people in Istanbul protested the closure of several opposition-linked media outlets in Turkey.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -202,35 +42,35 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T19:17:56+00:00",
-        "lead_bn": "মার্কিন মধ্যবর্তী নির্বাচনে ডেমোক্র্যাটরা কমপক্ষে ২৫৮টি হাউস আসন জিতে ১৯৯২ সালের পর তাদের সেরা সাধারণ নির্বাচন ফলাফল অর্জন করেছে।",
-        "lead_en": "House Democrats have secured their best general election result in decades, winning at least 258 seats in a midterm election sweep.",
+        "published_at": "2026-11-22T21:31:00+00:00",
+        "lead_bn": "তুরস্কে বিরোধীদের সাথে সম্পর্কিত কয়েকটি সংবাদমাধ্যম বন্ধ করে দেওয়ার প্রতিবাদে ইস্তাম্বুলে হাজার হাজার মানুষ বিক্ষোভ করেছেন।",
+        "lead_en": "Several thousand people in Istanbul protested the closure of several opposition-linked media outlets in Turkey.",
         "bullets_bn": [
-          "উত্তরাকারোলিনায় রিপাবলিকান প্রতিনিধি ভার্জিনিয়া ফক্সকে ডেমোক্র্যাট চাক হাবার্ড পরাজিত করার পর এই ২৫৮টি আসনের সংখ্যা নিশ্চিত হয়।",
-          "ডেমোক্র্যাট প্রতিনিধি জেসন ক্রো বলেছেন, এই জয়ের পর তাদের ওপর চাপ অনুভব করা উচিত।",
-          "হাউসের ৪৩৫টি আসনের এই মাইলফলকটি ডেমোক্র্যাটদের জন্য একটি বিভক্ত সরকার তৈরি করেছে যেখানে সিনেটও ডেমোক্র্যাটদের হাতে রয়েছে।"
+          "বিক্ষোভকারীরা প্রেস স্বাধীনতা এবং মতপ্রকাশের স্বাধীনতার দাবি জানিয়ে শহরের মধ্য দিয়ে কয়েক কিলোমিটার মিছিল করেন।",
+          "প্রধান বিরোধী দল ইয়েনি পার্টির আহ্বানে এই বিক্ষোভ হয়, যা সোজকু টিভির কার্যালয়ে পুলিশি অভিযানের কয়েক দিন পর অনুষ্ঠিত হয়।",
+          "সাংবাদিক তৈমুর সয়কান জনসাধারণকে হাল্ক টিভির সাংবাদিকদের ইউটিউব চ্যানেলে সম্প্রচার চালিয়ে যাওয়ার কাজে সহায়তা করার আহ্বান জানান।"
         ],
         "bullets_en": [
-          "The 258-seat tally was reached after Democrat Chuck Hubbard defeated Republican representative Virginia Foxx in North Carolina.",
-          "Democratic representative Jason Crow said that they should feel pressure following the victory.",
-          "This milestone in the 435-member House sets up a divided government with the Senate also in Democratic hands."
+          "Protesters marched several kilometers through the city calling for press freedom and freedom of expression.",
+          "The main opposition party Yeni Parti called the protest days after police raided Sozcu TV.",
+          "Journalist Timur Soykan asked the public to support Halk TV journalists planning to broadcast on YouTube."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ডেমোক্র্যাটরা ডোনাল্ড ট্রাম্পের প্রথম মধ্যবর্তী নির্বাচন ২০১৮ সালের তুলনায় এবার ৪টি বেশি আসনসহ মোট ৪৪টি হাউস আসন জিতেছে। রিপাবলিকানরা সংখ্যালঘু হিসেবে কমপক্ষে ১৭৩টি আসন পাবে এবং মিনেসোটা, টেনেসি ও লুইসিয়ানার অবশিষ্ট চারটি আসনের ফল এখনো বাকি রয়েছে। এই সংখ্যাগরিষ্ঠতা বিল ক্লিনটন বা বারাক ওবামার সময়কালের চেয়ে বড়, যা দলটিকে জীবনযাত্রার উচ্চ ব্যয় মোকাবিলার জন্য ১০০ দিনের এজেন্ডা প্রস্তুত করতে সহায়তা করছে।",
-        "details_en": "Democrats have gained 44 House seats so far, four more than the 40 they picked up in Donald Trump’s first midterm in 2018. Republicans will have at least 173 seats in the minority, while four House races remain outstanding. The majority sets up a divided government with a Republican president and the Senate in Democratic hands, as empowered Democrats prepare a 100-day agenda.",
-        "hook_bn": "'লাইক, হেল ইয়েস, আমাদের চাপ অনুভব করা উচিত'",
+        "details_bn": "পুলিশ সোজকু টিভিতে অভিযান চালিয়ে জ্যেষ্ঠ কর্মীদের গ্রেপ্তার করে এবং সরকারি নিয়োগপ্রাপ্ত অসি বসিয়ে টিভি কোম্পানিটিকে বাধ্যতামূলক প্রশাসনের অধীনে নেয়। এক বছরের মধ্যে এটি ছিল তৃতীয় দখলদারিত্ব। এর আগে টেলিওয়ান, হাল্ক টিভি এবং ডিজিটাল সংবাদমাধ্যম টি২৪ এর বিরুদ্ধেও একই ধরনের পদক্ষেপ নেওয়া হয়েছিল। সরকারের সমালোচনা করায় সংক্ষিপ্ত সময়ের জন্য আটক হওয়া সাংবাদিক তৈমুর সয়কান জানান, সরকার সাংবাদিকদের নীরব করতে সব চেষ্টা করেও ব্যর্থ হচ্ছে।",
+        "details_en": "Police raided Sozcu TV, arrested senior staff members, installed a government-appointed trustee, and placed the company under compulsory administration. It was the third takeover in a year following similar actions against Tele1, Halk TV, and digital news website T24. Journalist Timur Soykan, briefly detained for criticizing the government, said the government was doing everything to silence journalists but failing.",
+        "hook_bn": "প্রেসের স্বাধীনতা চাই, গণমাধ্যম বন্ধ করা যাবে না",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": true,
+      "outlet_count": 1,
+      "trending": false,
       "social_appeal": 3.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T22:02:24.697152+00:00"
+        "checked_at": "2026-11-22T23:01:37.239994+00:00"
       }
     }
   ]
