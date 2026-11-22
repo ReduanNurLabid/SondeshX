@@ -1,392 +1,311 @@
 {
-  "updated_at": "2026-11-22T13:00:51.985918",
-  "total_stories": 5,
+  "updated_at": "2026-11-22T14:00:43.643342",
+  "total_stories": 4,
   "stories": [
     {
-      "story_id": "57f1cdb9-2850-56f4-8285-11c084dfeab6",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Jashore",
-        "#CycloneAkvan",
-        "#CropDamage"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/22/whatsapp_image_2026-11-22_at_2.27.16_pm.jpeg",
-      "image_caption": null,
-      "published_at": "2026-11-22T12:25:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.75,
-      "rank_score": 5.7999,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/agriculture/akvan-triggered-rain-damages-3844-hectares-crops-jashore-1610676",
-          "title": "Akvan-triggered rain damages 3,844 hectares of crops in Jashore",
-          "snippet": "Akvan-triggered rain damages 3,844 hectares of crops in Jashore"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/continuous-rain-floods-paddy-potato-crop/",
-          "title": "‎কালাইয়ে বৃষ্টির পানিতে ভাসছে কাটা ধান, আলু চাষ পেছানোর শঙ্কা ‎",
-          "snippet": "‎কালাইয়ে বৃষ্টির পানিতে ভাসছে কাটা ধান, আলু চাষ পেছানোর শঙ্কা ‎"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "আকভান-প্ররোচিত বৃষ্টিতে যশোরে ৩ হাজার ৮৪৪ হেক্টর জমির ফসল ক্ষতিগ্রস্ত হয়েছে।",
-        "title_en": "Akvan-triggered rain damages 3,844 hectares of crops in Jashore.",
-        "summary_bn": "ঘূর্ণিঝড় আকভানের প্রভাবে তিন দিনের টানা বৃষ্টিতে যশোরের আটটি উপজেলার ৩ হাজার ৮৪৪ হেক্টর জমির ফসল ক্ষতিগ্রস্ত হয়েছে।",
-        "summary_en": "Three days of rainfall triggered by Cyclone Akvan have damaged crops on 3,844 hectares of land across eight upazilas in Jashore.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T12:25:00+00:00",
-        "lead_bn": "ঘূর্ণিঝড় আকভানের প্রভাবে তিন দিনের টানা বৃষ্টিতে যশোরের আটটি উপজেলার ৩ হাজার ৮৪৪ হেক্টর জমির ফসল ক্ষতিগ্রস্ত হয়েছে।",
-        "lead_en": "Three days of rainfall triggered by Cyclone Akvan have damaged crops on 3,844 hectares of land across eight upazilas in Jashore.",
-        "bullets_bn": [
-          "আবহাওয়া অফিস ১৯ থেকে ২১ নভেম্বর পর্যন্ত যশোরে ১৩৭ মিলিমিটার বৃষ্টিপাত রেকর্ড করেছে।",
-          "কৃষি সম্প্রসারণ অধিদপ্তরের তথ্য অনুযায়ী, ১৩ হাজার ৫০০ হেক্টর জমির মধ্যে ১ হাজার ৮৯০ হেক্টর জমির সরিষার ব্যাপক ক্ষতি হয়েছে।",
-          "ক্ষতিগ্রস্ত কৃষকেরা ক্ষেত থেকে আমন ধান ও খড় উদ্ধারে ব্যস্ত সময় পার করছেন।"
-        ],
-        "bullets_en": [
-          "The meteorological office recorded 137mm of rainfall in Jashore between 19 and 21 November.",
-          "According to the Department of Agricultural Extension, mustard suffered the most extensive damage on 1,890 hectares of land.",
-          "Affected farmers are busy salvaging harvested paddy and straw from waterlogged fields."
-        ],
-        "impact_bn": "ফসল হারিয়ে কৃষকদের পরিবার চালানো এবং ঋণ পরিশোধ করা কঠিন হয়ে পড়েছে।",
-        "impact_en": "Losing the crop leaves farmers struggling to feed their families and repay their debts.",
-        "details_bn": "১৯ থেকে ২১ নভেম্বর পর্যন্ত টানা তিন দিনের বৃষ্টি ও শক্তিশালী বাতাসের কারণে কাটা ধান ক্ষতিগ্রস্ত হয়েছে এবং পাকা ধানগাছ মাটিতে নুয়ে পড়েছে। টানা বৃষ্টির পর ২২ নভেম্বর রোদ উঠলে কৃষকেরা ক্ষেতে নেমে পড়েন। মালঞ্চি মাঠে এক কৃষক দেড় বিঘা জমিতে ধান চাষে ২২ হাজার টাকা খরচ করেছিলেন এবং সার ও সেচের টাকা এখনো বকেয়া রয়েছে।",
-        "details_en": "Prolonged rain and strong winds between 19 and 21 November damaged harvested paddy and flattened standing crops. Sunshine returned on 22 November, prompting farmers to head to their fields. At Malanchi field, a farmer had spent Tk22,000 on paddy cultivation with outstanding payments for fertiliser and irrigation.",
-        "hook_bn": "ফসলের মাঠে হাঁটুসমান পানি",
-        "kicker_bn": "ধান ও সরিষার ক্ষতি",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 2,
-      "trending": true,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T13:05:26.967376+00:00"
-      }
-    },
-    {
-      "story_id": "a4006e2a-236a-54ae-bf54-9cd9ef356cda",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#BGMEA",
-        "#RMG",
-        "#GarmentWorkers",
-        "#BangladeshEconomy"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/04/factory-closure_0.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-22T12:45:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 5.5373,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/economy/rmg/garment-unrest-causes-tk5136cr-losses-317-factories-bgmea-1610716",
-          "title": "Garment unrest causes Tk5,136cr losses at 317 factories: BGMEA",
-          "snippet": "Garment unrest causes Tk5,136cr losses at 317 factories: BGMEA"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/rmg-sector-loses-428m-amid-unrest",
-          "title": "RMG sector loses $428m amid unrest",
-          "snippet": "RMG sector loses $428m amid unrest"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/economy/500010",
-          "title": "১৮ দিনে পোশাক খাতে ৪২৮ মিলিয়ন ডলারের ক্ষতি",
-          "snippet": "১৮ দিনে পোশাক খাতে ৪২৮ মিলিয়ন ডলারের ক্ষতি"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পোশাক খাতে শ্রম অসন্তোষে ৪২৮ মিলিয়ন ডলার ক্ষতি হয়েছে",
-        "title_en": "RMG sector loses $428m amid labor unrest",
-        "summary_bn": "পোশাক খাতের শ্রমিক অসন্তোষের কারণে ৩১৭টি কারখানায় ৪২৮ মিলিয়ন মার্কিন ডলার বা ৫,১৩৬ কোটি টাকার সরাসরি ক্ষতি হয়েছে।",
-        "summary_en": "Labour unrest in the readymade garment sector has caused direct losses of $428 million across 317 factories.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T12:45:00+00:00",
-        "lead_bn": "পোশাক খাতের শ্রমিক অসন্তোষের কারণে ৩১৭টি কারখানায় ৪২৮ মিলিয়ন মার্কিন ডলার বা ৫,১৩৬ কোটি টাকার সরাসরি ক্ষতি হয়েছে।",
-        "lead_en": "Labour unrest in the readymade garment sector has caused direct losses of $428 million across 317 factories.",
-        "bullets_bn": [
-          "বিজিএমইএর তথ্য অনুযায়ী এই ক্ষতি হয়েছে ৫,১৩৬ কোটি টাকার সমান।",
-          "অন্য দেশে চলে যাওয়া রপ্তানি আদেশ হারিয়ে বাংলাদেশ আরও ২৫৪ মিলিয়ন ডলার বা ৩,০৯৬ কোটি টাকা হারিয়েছে।",
-          "বাংলাদেশ পোশাক প্রস্তুতকারক ও রপ্তানিকারক সমিতি বা বিজিএমইএ এই পরিসংখ্যান প্রকাশ করেছে।"
-        ],
-        "bullets_en": [
-          "The trade body disclosed the figures based on preliminary information collected from 317 member factories.",
-          "Bangladesh lost another $254 million in export orders shifted to other countries.",
-          "The losses were revealed by the Bangladesh Garment Manufacturers and Exporters Association in a press release."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বিজিএমইএর ৩১৭টি সদস্য কারখানা থেকে সংগৃহীত প্রাথমিক তথ্যের ভিত্তিতে ২২ নভেম্বর এই পরিসংখ্যান প্রকাশ করা হয়। অসন্তোষের কারণে পোশাক খাতে এই বড় অংকের আর্থিক ক্ষতি এবং রপ্তানি আদেশ হারানোর ঘটনা ঘটেছে।",
-        "details_en": "The figures were disclosed on 22 November in a press release based on preliminary information collected from 317 member factories of the Bangladesh Garment Manufacturers and Exporters Association.",
-        "hook_bn": "পোশাক খাতে শ্রম অসন্তোষে ৪২৮ মিলিয়ন ডলার ক্ষতি",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T13:05:26.967376+00:00"
-      }
-    },
-    {
-      "story_id": "2b9c4d66-f15f-5239-ba61-da4705fc46ef",
+      "story_id": "742fb9c5-6cac-5ded-8211-2c032fa424e2",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education"
       ],
       "region": "national",
       "tags": [
-        "#Dengue",
-        "#DGHS"
+        "#HSC",
+        "#EducationBoard"
       ],
-      "image_url": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGVuZ3VlJTIwY2xhaW1zJTIwbW9yZSUyMGxpdmVzJTIwZWR1Y2F0aW9ufGVufDF8MHx8fDE3OTUzNTI1MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1567206163313-9e34c830557a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8aHNjJTIwZXZhbHVhdGlvbiUyMHJlc3VsdHMlMjBwdWJsaXNoZWQlMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NTM1NjA4MXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-22T12:19:56+00:00",
+      "published_at": "2026-11-22T13:56:10+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 5.4053,
+      "importance_score": 6.25,
+      "rank_score": 3.8878,
       "sources": [
         {
           "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/health/425420/dengue-claims-2-more-lives-1-519-hospitalized-in",
-          "title": "Dengue claims 2 more lives, 1,519 hospitalized in 24hrs",
-          "snippet": "Dengue claims 2 more lives, 1,519 hospitalized in 24hrs"
+          "url": "https://www.dhakatribune.com/bangladesh/education/425434/hsc-re-evaluation-results-to-be-published-monday",
+          "title": "HSC re-evaluation results to be published Monday",
+          "snippet": "HSC re-evaluation results to be published Monday"
         },
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-rises-518-two-more-die-1610626",
-          "title": "Dengue: Death toll rises to 518 as two more die",
-          "snippet": "Dengue: Death toll rises to 518 as two more die"
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/country/500033",
+          "title": "যতই ষড়যন্ত্র করুন, আপাকে ফেরানো যাবে না: মির্জা ফয়সল",
+          "snippet": "যতই ষড়যন্ত্র করুন, আপাকে ফেরানো যাবে না: মির্জা ফয়সল"
         },
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822443/%E0%A6%A1%E0%A7%87%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%8F%E0%A6%95%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A7%A8-%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%AD%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BF",
-          "title": "ডেঙ্গুতে একদিনে ২ জনের মৃত্যু, হাসপাতালে ভর্তি ১,৫১৯",
-          "snippet": "ডেঙ্গুতে একদিনে ২ জনের মৃত্যু, হাসপাতালে ভর্তি ১,৫১৯"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/educations/982573/%E0%A6%8F%E0%A6%87%E0%A6%9A%E0%A6%8F%E0%A6%B8%E0%A6%B8%E0%A6%BF-%E0%A6%AA%E0%A7%81%E0%A6%A8%E0%A6%B0%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A6%B2-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6-%E0%A6%B8%E0%A7%8B%E0%A6%AE%E0%A6%AC%E0%A6%BE%E0%A6%B0",
+          "title": "এইচএসসির পুনর্মূল্যায়নের ফল প্রকাশ সোমবার",
+          "snippet": "এইচএসসির পুনর্মূল্যায়নের ফল প্রকাশ সোমবার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ডেঙ্গুতে আরও দুদিন মৃত্যুর পর দেশে মোট মৃত বেড়ে ৫১৮",
-        "title_en": "Dengue claims 2 more lives as total death toll rises to 518",
-        "summary_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, দেশে গত ২৪ ঘণ্টায় ডেঙ্গুতে আক্রান্ত হয়ে আরও দুজনের মৃত্যু হয়েছে এবং ১ হাজার ৫১৯ জন হাসপাতালে ভর্তি হয়েছেন।",
-        "summary_en": "Two more people died of dengue and 1,519 new patients were hospitalized across the country in 24 hours, according to the DGHS.",
+        "title_bn": "এইচএসসি পুনর্মূল্যায়নের ফল প্রকাশ",
+        "title_en": "HSC re-evaluation results to be published Monday",
+        "summary_bn": "এইচএসসি ও সমমান পরীক্ষার পুনর্নিরীক্ষণ ও পুনর্মূল্যায়নের ফল প্রকাশ করা হবে ২৩ নভেম্বর বেলা ৩টায়।",
+        "summary_en": "Results of the HSC and equivalent exams re-evaluation will be published November 23 at 3 PM.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T12:19:56+00:00",
-        "lead_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, দেশে গত ২৪ ঘণ্টায় ডেঙ্গুতে আক্রান্ত হয়ে আরও দুজনের মৃত্যু হয়েছে এবং ১ হাজার ৫১৯ জন হাসপাতালে ভর্তি হয়েছেন।",
-        "lead_en": "Two more people died of dengue and 1,519 new patients were hospitalized across the country in 24 hours, according to the DGHS.",
+        "published_at": "2026-11-22T13:56:10+00:00",
+        "lead_bn": "এইচএসসি ও সমমান পরীক্ষার পুনর্নিরীক্ষণ ও পুনর্মূল্যায়নের ফল প্রকাশ করা হবে ২৩ নভেম্বর বেলা ৩টায়।",
+        "lead_en": "Results of the HSC and equivalent exams re-evaluation will be published November 23 at 3 PM.",
         "bullets_bn": [
-          "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, নতুন মৃত্যুর মধ্যে একটি চট্টগ্রাম বিভাগে এবং একটি রংপুর বিভাগে ঘটেছ।",
-          "এই নিয়ে চলতি বছর দেশে ডেঙ্গুতে মোট মৃতের সংখ্যা বেড়ে দাঁড়িয়েছে ৫১৮ জনে।",
-          "স্বাস্থ্য অধিদপ্তরের ডেঙ্গুবিষয়ক নিয়মিত প্রতিবেদনে এসব তথ্য জানানো হয়েছে।"
+          "আন্তঃশিক্ষা বোর্ড পরীক্ষা নিয়ন্ত্রক কমিটির এক বিজ্ঞপ্তিতে এ তথ্য জানানো হয়েছে।",
+          "সংশ্লিষ্ট শিক্ষা বোর্ডগুলোর ওয়েবসাইটে ফল পাওয়া যাবে।",
+          "কেন্দ্রীয় ফলাফল প্রকাশের ওয়েবসাইটেও এই ফল পাওয়া যাবে।"
         ],
         "bullets_en": [
-          "Among the latest deaths, one each was reported in Chittagong division and Rangpur division.",
-          "With the latest fatalities, the dengue death toll has risen to 518 in the country this year.",
-          "These figures were reported in the regular dengue report of the Directorate General of Health Services."
+          "The information was given in a notification by the Inter-Education Board Examination Controller Committee.",
+          "The results will be available on the respective education boards websites.",
+          "The results will also be available on the central results publication website."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "আন্তঃশিক্ষা বোর্ড পরীক্ষা নিয়ন্ত্রক কমিটির এক বিজ্ঞপ্তিতে পুনর্নিরীক্ষণ ও পুনর্মূল্যায়নের ফল প্রকাশের এই তথ্য জানানো হয়।",
+        "details_en": "The Inter-Education Board Examination Controller Committee announced the re-evaluation results publication in a notification on Sunday.",
+        "hook_bn": "এইচএসসি পুনর্মূল্যায়নের ফল প্রকাশ ২৩ নভেম্বর",
+        "kicker_bn": "নতুন তারিখ",
+        "share_value": true,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-22T14:02:22.909349+00:00"
+      }
+    },
+    {
+      "story_id": "08f00409-b9cc-5c8f-87ab-bfbddd7e3105",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#BorderGuardBangladesh",
+        "#BenapoleBorder"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/22/img-20261122-wa0034.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-22T13:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.3944,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/bgb-tightens-border-security-ahead-december-prevent-illegal-entry-1610731",
+          "title": "BGB tightens border security ahead of December to prevent illegal entry",
+          "snippet": "BGB tightens border security ahead of December to prevent illegal entry"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/khulna/982575/%E0%A6%B6%E0%A7%87%E0%A6%96-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A6%BE-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%A8%E2%80%94%E0%A6%8F%E0%A6%AE%E0%A6%A8-%E0%A6%97%E0%A7%81%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%A8%E0%A7%87-%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%87",
+          "title": "শেখ হাসিনা ফিরতে পারেন—এমন গুঞ্জনে সীমান্তে নিরাপত্তা ও নজরদারি জোরদার",
+          "snippet": "শেখ হাসিনা ফিরতে পারেন—এমন গুঞ্জনে সীমান্তে নিরাপত্তা ও নজরদারি জোরদার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সীমান্তে নিরাপত্তা জোরদার করেছে বিজিবি",
+        "title_en": "BGB strengthens security along the borders",
+        "summary_bn": "ডিসেম্বর মাসে অবৈধ প্রবেশ ঠেকাতে দেশের সীমান্ত এলাকায় নিরাপত্তা জোরদার করেছে বর্ডার গার্ড বাংলাদেশ (বিজিবি)।",
+        "summary_en": "Border Guard Bangladesh (BGB) has strengthened security along the country's borders to prevent illegal entry ahead of December.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-22T13:00:00+00:00",
+        "lead_bn": "ডিসেম্বর মাসে অবৈধ প্রবেশ ঠেকাতে দেশের সীমান্ত এলাকায় নিরাপত্তা জোরদার করেছে বর্ডার গার্ড বাংলাদেশ (বিজিবি)।",
+        "lead_en": "Border Guard Bangladesh (BGB) has strengthened security along the country's borders to prevent illegal entry ahead of December.",
+        "bullets_bn": [
+          "বিজিবি মহাপরিচালক মেজর জেনারেল মোহাম্মদ আশরাফুজ্জামান সিদ্দিকী ব্রাহ্মণবাড়িয়ার আখাউড়া সীমান্ত পরিদর্শনের সময় এই কথা জানান।",
+          "সীমান্তে পুশ-ইন, মাদক চোরাচালান এবং অস্ত্র ও বিস্ফোরক পাচার রোধে কাজ করছে বাহিনীটি।",
+          "সীমান্তে সন্দেহজনক গতিবিধি দেখলে বিজিবিকে তথ্য জানানোর জন্য স্থানীয় বাসিন্দাদের প্রতি আহ্বান জানানো হয়েছে।"
+        ],
+        "bullets_en": [
+          "BGB Director General Major General Mohammad Ashrafuzzaman Siddiqui made the remarks while inspecting the Akhaura border in Brahmanbaria.",
+          "The force is also working to prevent push-ins, drug smuggling and the trafficking of arms and explosives.",
+          "Local residents have been urged to share information about suspicious cross-border movements with the BGB."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "ডেঙ্গুতে আরও দুুজন মারা গেছেন",
+        "hook_bn": "সীমান্তে নিরাপত্তা ও নজরদারি জোরদার",
         "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
+      "desk_importance": 6.0,
+      "outlet_count": 2,
       "trending": false,
-      "social_appeal": 9.0,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T13:05:26.967376+00:00"
+        "checked_at": "2026-11-22T14:02:22.909349+00:00"
       }
     },
     {
-      "story_id": "678ce428-d290-561f-b55d-83c5af91c709",
-      "primary_category": "economy_business",
+      "story_id": "3dce53ad-202c-54a7-897e-e6526a24ab75",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "economy_business",
-        "governance_law"
+        "world_diplomacy",
+        "governance_law",
+        "society_education"
       ],
-      "region": "national",
+      "region": "international",
       "tags": [
-        "#ACC",
-        "#DhakaElevatedExpressway",
-        "#FDEE"
+        "#Bangladesh",
+        "#Thailand",
+        "#ASEAN",
+        "#Rohingya"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/print-popup/p1_dee_mumitm-0470.jpg",
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/asean.jpg",
       "image_caption": null,
-      "published_at": "2026-11-22T12:30:00+00:00",
+      "published_at": "2026-11-22T11:23:42+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 5.1001,
+      "importance_score": 6.25,
+      "rank_score": 3.357,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/corruption/acc-finds-transparency-gaps-dhaka-elevated-expressway-toll-collection-1610691",
-          "title": "ACC finds transparency gaps in Dhaka Elevated Expressway toll collection",
-          "snippet": "ACC finds transparency gaps in Dhaka Elevated Expressway toll collection"
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/thailand-backs-bangladeshs-asean-rcep-bids-4330326",
+          "title": "Thailand backs Bangladesh’s ASEAN, RCEP bids",
+          "snippet": "Thailand backs Bangladesh’s ASEAN, RCEP bids"
         },
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822444/%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%9F%E0%A7%8B%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%A8%E0%A7%9F%E0%A6%9B%E0%A7%9F-%E0%A6%A4%E0%A7%87%E0%A6%9C%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%93",
-          "title": "যানবাহনের সংখ্যা গোপন করে টোলের টাকা নয়ছয়, তেজগাঁও ও কুড়িল প্লাজায় দুদক",
-          "snippet": "যানবাহনের সংখ্যা গোপন করে টোলের টাকা নয়ছয়, তেজগাঁও ও কুড়িল প্লাজায় দুদক"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/bangladesh-nepal-agree-to-deepen-bilateral-ties",
+          "title": "Bangladesh, Nepal agree to deepen bilateral ties",
+          "snippet": "Bangladesh, Nepal agree to deepen bilateral ties"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ঢাকা এলিভেটেড এক্সপ্রেসওয়ের টোল সংগ্রহে স্বচ্ছতার ঘাটতি পেয়েছে দুদক।",
-        "title_en": "ACC finds transparency gaps in Dhaka Elevated Expressway toll collection.",
-        "summary_bn": "দুর্নীতি দমন কমিশন ঢাকা এলিভেটেড এক্সপ্রেসওয়ের টোল প্লাজায় যানবাহন গণনা ও টোল সংগ্রহে স্বচ্ছতার প্রাথমিক ঘাটতি পেয়েছে।",
-        "summary_en": "The Anti-Corruption Commission found preliminary transparency shortcomings in vehicle counting and toll collection at the expressway plazas.",
+        "title_bn": "রোহিঙ্গা প্রত্যাবাসন ও আসিয়ান বিডে বাংলাদেশের পাশে থাকবে থাইল্যান্ড",
+        "title_en": "Thailand backs Bangladesh on ASEAN bid and Rohingya repatriation",
+        "summary_bn": "থাইল্যান্ডের রাষ্ট্রদূত থিতিপর্ণ চিরাসওয়াদী পররাষ্ট্র মন্ত্রণালয়ে বৈঠককালে আসিয়ান ও আরসিইপি জোটে বাংলাদেশের বিড এবং রোহিঙ্গা প্রত্যাবাসনে সমর্থন পুনর্ব্যক্ত করেছেন।",
+        "summary_en": "Thai Ambassador Thitiporn Chirasawadi reaffirmed her country's support for Bangladesh's ASEAN and RCEP bids and Rohingya repatriation during a meeting at the foreign ministry.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "governance_law"
+          "world_diplomacy",
+          "governance_law",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T12:30:00+00:00",
-        "lead_bn": "দুর্নীতি দমন কমিশন ঢাকা এলিভেটেড এক্সপ্রেসওয়ের টোল প্লাজায় যানবাহন গণনা ও টোল সংগ্রহে স্বচ্ছতার প্রাথমিক ঘাটতি পেয়েছে।",
-        "lead_en": "The Anti-Corruption Commission found preliminary transparency shortcomings in vehicle counting and toll collection at the expressway plazas.",
+        "published_at": "2026-11-22T11:23:42+00:00",
+        "lead_bn": "থাইল্যান্ডের রাষ্ট্রদূত থিতিপর্ণ চিরাসওয়াদী পররাষ্ট্র মন্ত্রণালয়ে বৈঠককালে আসিয়ান ও আরসিইপি জোটে বাংলাদেশের বিড এবং রোহিঙ্গা প্রত্যাবাসনে সমর্থন পুনর্ব্যক্ত করেছেন।",
+        "lead_en": "Thai Ambassador Thitiporn Chirasawadi reaffirmed her country's support for Bangladesh's ASEAN and RCEP bids and Rohingya repatriation during a meeting at the foreign ministry.",
         "bullets_bn": [
-          "দুদকের একটি দল তেজগাঁও ও কুড়িল টোল প্লাজা পরিদর্শন করে এবং তথ্য সংগ্রহ করে।",
-          "এফডিইই কোম্পানির বিরুদ্ধে যানবাহন সংখ্যা গোপন ও রাজস্ব আত্মসাতের অভিযোগ রয়েছে।",
-          "তথ্য যাচাইয়ের পর কমিশন একটি পূর্ণাঙ্গ প্রতিবেদন জমা দেবে।"
+          "বৈঠকে বাণিজ্য, বিনিয়োগ, জ্বালানি ও যোগাযোগসহ দ্বিপক্ষীয়, আঞ্চলিক ও বহুপক্ষীয় বিষয় নিয়ে আলোচনা হয়।",
+          "রাষ্ট্রদূত থিতিপর্ণ চিরাসওয়াদী জানান যে থাইল্যান্ড বারবার চিকিৎসা নিতে আসা রোগীদের মাল্টিপল এন্ট্রি ভিসা দেবে।",
+          "পররাষ্ট্র প্রতিমন্ত্রী হুমায়ুন কবির দ্বিপক্ষীয় সম্পর্ক নতুন উচ্চতায় নিতে ২০২৭ সালে দুই দেশের মধ্যে উচ্চপর্যায়ের সফরের গুরুত্ব তুলে ধরেন।"
         ],
         "bullets_en": [
-          "An ACC team inspected the Tejgaon and Kuril toll plazas and collected data.",
-          "FDEE faces allegations of concealing vehicle numbers and misappropriating revenue.",
-          "The enforcement team will submit a comprehensive report after data analysis."
+          "They discussed bilateral, regional and multilateral issues including trade, investment, energy and connectivity during the meeting.",
+          "Ambassador Thitiporn Chirasawadi assured that multiple-entry visas would be issued to patients requiring repeated treatment in Thailand.",
+          "State Minister Humaiun Kobir stressed the importance of a high-level visit between the two countries in 2027 to take relations forward."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ফার্স্ট ঢাকা এলিভেটেড এক্সপ্রেসওয়ে কোম্পানি লিমিটেডের বিরুদ্ধে যানবাহন সংখ্যা গোপন করা এবং সরকারকে প্রাপ্য রাজস্ব থেকে বঞ্চিত করার অভিযোগের ভিত্তিতে দুদক এই এনফোর্সমেন্ট অভিযান পরিচালনা করে।",
-        "details_en": "The ACC conducted the enforcement operation following allegations that First Dhaka Elevated Expressway Company Ltd concealed vehicle numbers and deprived the government of income.",
-        "hook_bn": "এক্সপ্রেসওয়ের টোল আদায়ে অনিয়মের খোঁজে দুদক",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": "টোল প্লাজাগুলোতে এ ধরনের অনিয়ম রোধে কী ধরনের তদারকি বাড়ানো উচিত বলে আপনি মনে করেন?"
+        "impact_bn": "থাইল্যান্ডে বারবার চিকিৎসা নিতে যাওয়া বাংলাদেশিরা এখন থেকে একাধিকবার প্রবেশের ভিসা বা মাল্টিপল এন্ট্রি ভিসা পাবেন।",
+        "impact_en": "Bangladeshi patients requiring repeated medical treatment in Thailand will now be issued multiple-entry visas.",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "মাল্টিপল এন্ট্রি ভিসা পাবেন রোগীরা",
+        "kicker_bn": "ভিসা আপডেট",
+        "share_value": true,
+        "question_bn": "থাইল্যান্ডে চিকিৎসা নিতে গিয়ে আপনাদের কী ধরনের ভিসাসংক্রান্ত সমস্যায় পড়তে হয়?"
       },
-      "desk_importance": 7.0,
+      "desk_importance": 6.0,
       "outlet_count": 2,
       "trending": false,
-      "social_appeal": 8.0,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T13:05:26.967376+00:00"
+        "checked_at": "2026-11-22T14:02:22.909349+00:00"
       }
     },
     {
-      "story_id": "f66af98d-4b07-5cb9-88e9-e381d701c338",
-      "primary_category": "world_diplomacy",
+      "story_id": "29e0ce49-207d-5879-989e-fd4d6284a6cb",
+      "primary_category": "society_education",
       "interest_categories": [
+        "society_education",
         "world_diplomacy",
         "economy_business"
       ],
       "region": "international",
       "tags": [
-        "#WestBank",
-        "#Israel"
+        "#MonzurulHuq",
+        "#DhakaCourier",
+        "#Tokyo",
+        "#ProthomAlo"
       ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-22T071015Z_268220017_RC2VSOAP8KV4_RTRMADP_3_ISRAEL-PALESTINIANS-SETTLERS-AFTERMATH-1795343380.jpg?resize=1920%2C1440",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2025/09/10/monzurul_huq.jpg",
       "image_caption": null,
-      "published_at": "2026-11-22T12:19:42+00:00",
+      "published_at": "2026-11-22T13:20:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 5.0,
-      "rank_score": 2.4018,
+      "rank_score": 2.403,
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss",
-          "title": "Israeli settlers attack several Palestinian villages in occupied West Bank",
-          "snippet": "Israeli settlers attack several Palestinian villages in occupied West Bank"
-        },
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/middle-east/ka6mjfv2ck",
-          "title": "ইসরায়েলে সরকার গঠন নিয়ে আবারও আলোচনায় নেতানিয়াহু ও আইজেনকটের দলের",
-          "snippet": "ইসরায়েলে সরকার গঠন নিয়ে আবারও আলোচনায় নেতানিয়াহু ও আইজেনকটের দলের"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/obituary/veteran-journalist-dhaka-courier-columnist-monzurul-huq-dies-tokyo-1610761",
+          "title": "Veteran journalist, Dhaka Courier columnist Monzurul Huq dies in Tokyo",
+          "snippet": "Veteran journalist, Dhaka Courier columnist Monzurul Huq dies in Tokyo"
         }
       ],
       "daily_buzz": {
-        "title_bn": "দখলকৃত পশ্চিম তীরে ইসরায়েলি বসতিস্থাপনকারীদের হামলা",
-        "title_en": "Israeli settlers attack several Palestinian villages in occupied West Bank",
-        "summary_bn": "দখলকৃত পশ্চিম তীরের বেশ কয়েকটি শহরে ইসরায়েলি বসতিস্থাপনকারীরা হামলা চালিয়ে গাড়ি ও সম্পত্তি ধ্বংস করেছে।",
-        "summary_en": "Israeli settlers have attacked several Palestinian towns and villages in the central occupied West Bank, burning cars and damaging property.",
+        "title_bn": "জাপানে মারা গেছেন প্রবীণ সাংবাদিক মনজুরুল হক",
+        "title_en": "Veteran journalist Monzurul Huq dies in Tokyo",
+        "summary_bn": "টোকিওতে মারা গেছেন ঢাকা কুরিয়ারের কলামিস্ট এবং দ্য ফরেন করেসপন্ডেন্টস ক্লাব অব জাপানের সাবেক সভাপতি মনজুরুল হক।",
+        "summary_en": "Monzurul Huq, columnist for Dhaka Courier and former president of the Foreign Correspondents' Club of Japan, died in Tokyo.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "society_education",
           "world_diplomacy",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T12:19:42+00:00",
-        "lead_bn": "দখলকৃত পশ্চিম তীরের বেশ কয়েকটি শহরে ইসরায়েলি বসতিস্থাপনকারীরা হামলা চালিয়ে গাড়ি ও সম্পত্তি ধ্বংস করেছে।",
-        "lead_en": "Israeli settlers have attacked several Palestinian towns and villages in the central occupied West Bank, burning cars and damaging property.",
+        "published_at": "2026-11-22T13:20:00+00:00",
+        "lead_bn": "টোকিওতে মারা গেছেন ঢাকা কুরিয়ারের কলামিস্ট এবং দ্য ফরেন করেসপন্ডেন্টস ক্লাব অব জাপানের সাবেক সভাপতি মনজুরুল হক।",
+        "lead_en": "Monzurul Huq, columnist for Dhaka Courier and former president of the Foreign Correspondents' Club of Japan, died in Tokyo.",
         "bullets_bn": [
-          "রামাল্লাহ ও এল-বিদেহ প্রদেশে ১২টি গাড়ি পুড়িয়ে দেওয়া হয়েছে এবং বাড়ির দেয়ালে বর্ণবাদী স্লোগান লেখা হয়েছে।",
-          "কাফর মালিক, দেইর আবু মাশাল ও দেইর আল-সুদান গ্রামে এই হামলার ঘটনা ঘটেছে।",
-          "ইসরায়েলি গাজা যুদ্ধ শুরুর পর থেকে দখলকৃত পশ্চিম তীরে বসতিস্থাপনকারীদের সহিংসতা বৃদ্ধি পেয়েছে।"
+          "মৃত্যুকালে তাঁর বয়স হয়েছিল ৭৩ বছর এবং তিনি স্ত্রী ও কন্যা রেখে গেছেন।",
+          "তিনি ১৯৯৪ সাল থেকে জাপানে বসবাস করতেন এবং প্রথম আলোর টোকিও ব্যুরো প্রধান ছিলেন।",
+          "ইউএনবি ও ঢাকা কুরিয়ারের প্রধান সম্পাদক এনায়েতুল্লাহ খান তাঁর মৃত্যুতে গভীর শোক প্রকাশ করেছেন।"
         ],
         "bullets_en": [
-          "Twelve vehicles were burned and racist slogans were spray-painted on the walls of homes in Ramallah and el-Bireh provinces.",
-          "The incidents were reported in Kafr Malik village, Deir Abu Mash’al village, and Deir al-Sudan village.",
-          "Israeli settler violence has surged across the occupied West Bank since Israel launched its war in Gaza."
+          "He was 73 years old at the time of his death and is survived by his wife and daughter.",
+          "He had lived in Japan since 1994 and served as Prothom Alo's Tokyo bureau chief.",
+          "Enayetullah Khan, editor-in-chief of UNB and Dhaka Courier, expressed deep sadness at his passing."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "পশ্চিম তীরে ইসরায়েলি বসতিস্থাপনকারীদের হামলা",
+        "hook_bn": "জাপানে মারা গেছেন প্রবীণ সাংবাদিক মনজুরুল হক",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 5.0,
-      "outlet_count": 2,
+      "outlet_count": 1,
       "trending": false,
-      "social_appeal": 4.0,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T13:05:26.967376+00:00"
+        "checked_at": "2026-11-22T14:02:22.909349+00:00"
       }
     }
   ]
