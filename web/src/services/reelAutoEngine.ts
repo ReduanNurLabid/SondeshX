@@ -101,7 +101,7 @@ function roundRect(ctx: CanvasRenderingContext2D, x: number, y: number, w: numbe
 // videos whose picture sits inside bands (blurred copies, bars, frames) as a "border",
 // which it treats as a sign of reposted content and shows to fewer people.
 
-const PHOTO_H = 1240; // the photo fills the frame down to here, then fades into the text area
+const PHOTO_H = 1280; // the photo takes the top two thirds; the bottom third is for the text
 
 interface Prepared {
   sx: number; sy: number; sw: number; sh: number; // source rect, watermark strip removed
@@ -170,14 +170,23 @@ function drawPicture(ctx: CanvasRenderingContext2D, input: AutoReelInput, t: num
   const dh = p.sh * scale;
   const x = (W - dw) / 2 + ((dw - W) / 2) * cam.panX;
   const y = (PHOTO_H - dh) / 2 + ((dh - PHOTO_H) / 2) * cam.panY;
+  // The photo is clipped to its two thirds and always covers them (zoom >= 1), so its
+  // edge never moves. The fade is drawn after it and ends in the solid text-area colour
+  // exactly at that edge, with eased steps so no band or line shows while the photo moves.
+  ctx.save();
+  ctx.beginPath();
+  ctx.rect(0, 0, W, PHOTO_H);
+  ctx.clip();
   ctx.drawImage(img, p.sx, p.sy, p.sw, p.sh, x, y, dw, dh);
-
-  // Fade the photo into the dark text area (a gradient, not a band), and shade the top.
-  const fade = ctx.createLinearGradient(0, 760, 0, PHOTO_H);
-  fade.addColorStop(0, 'rgba(11,11,12,0)');
-  fade.addColorStop(1, 'rgba(11,11,12,1)');
+  ctx.restore();
+  const FADE_TOP = 860;
+  const fade = ctx.createLinearGradient(0, FADE_TOP, 0, PHOTO_H);
+  for (let i = 0; i <= 8; i++) {
+    const u = i / 8;
+    fade.addColorStop(u, `rgba(11,11,12,${(u * u * (3 - 2 * u)).toFixed(3)})`); // smoothstep
+  }
   ctx.fillStyle = fade;
-  ctx.fillRect(0, 760, W, PHOTO_H - 760 + 2);
+  ctx.fillRect(0, FADE_TOP, W, PHOTO_H - FADE_TOP + 1);
   const top = ctx.createLinearGradient(0, 0, 0, 300);
   top.addColorStop(0, 'rgba(0,0,0,0.5)');
   top.addColorStop(1, 'rgba(0,0,0,0)');
