@@ -1,133 +1,142 @@
 {
-  "updated_at": "2026-11-22T08:00:40.113817",
-  "total_stories": 6,
+  "updated_at": "2026-11-22T09:00:40.588296",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "830c5f74-ab9f-55e6-8e1f-72f60785d163",
+      "story_id": "7e77bf5c-de93-5430-9361-3cf5e1d2651c",
       "primary_category": "economy_business",
       "interest_categories": [
-        "economy_business"
+        "economy_business",
+        "climate_environment"
       ],
       "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#CPD",
+        "#BGMEA",
+        "#RMGWages"
       ],
-      "image_url": "https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z292ZXJubWVudCUyMHRha2VuJTIwaW5pdGlhdGl2ZXMlMjBicmluZyUyMGJ1c2luZXNzfGVufDF8MHx8fDE3OTUzMzQ1Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/20/bgmea-cpd.jpg",
       "image_caption": null,
-      "published_at": "2026-11-22T07:10:44+00:00",
+      "published_at": "2026-11-22T08:20:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.6643,
+      "importance_score": 6.25,
+      "rank_score": 3.7509,
       "sources": [
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822368/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%A8%E0%A6%BE-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%A6%E0%A7%87-%E0%A6%86%E0%A6%B8%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A7%9C-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%A8-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%A4%E0%A7%87",
-          "title": "ব্যাংকের পরিচালনা পর্ষদে আসছে বড় পরিবর্তন, থাকতে পারবেন না রাজনীতিবিদরা",
-          "snippet": "ব্যাংকের পরিচালনা পর্ষদে আসছে বড় পরিবর্তন, থাকতে পারবেন না রাজনীতিবিদরা"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/rmg/cpd-says-energy-crisis-high-interest-rates-no-excuse-keeping-rmg-wages-low-1610321",
+          "title": "CPD says energy crisis, high interest rates no excuse for keeping RMG wages low",
+          "snippet": "CPD says energy crisis, high interest rates no excuse for keeping RMG wages low"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/cpd-defends-garment-wage-analysis-amid-bgmea-criticism",
+          "title": "CPD defends garment wage analysis amid BGMEA criticism",
+          "snippet": "CPD defends garment wage analysis amid BGMEA criticism"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ব্যাংকের পরিচালনা পর্ষদে বড় পরিবর্তন আনার উদ্যোগ নিয়েছে সরকার।",
-        "title_en": "The government has taken initiatives to bring major changes to bank boards.",
-        "summary_bn": "ব্যাংক পরিচালকদের দায়িত্ব পালনের সর্বোচ্চ মেয়াদ ১২ বছর থেকে কমিয়ে ৬ বছর করার উদ্যোগ নিয়েছে সরকার।",
-        "summary_en": "The government has initiated steps to reduce the maximum tenure of bank directors from 12 years to 6 years.",
+        "title_bn": "খাতওয়ারী সমস্যার অজুহাতে পোশাক শ্রমিকদের মজুরি কম রাখা যাবে না: সিপিডি",
+        "title_en": "CPD says governance problems are no excuse for low RMG wages",
+        "summary_bn": "সিপিডি জানিয়েছে, জ্বালানি সংকট ও দুর্নীতির মতো সমস্যাগুলো পোশাক শ্রমিকদের মজুরি কম রাখার অজুহাত হিসেবে ব্যবহার করা উচিত নয়।",
+        "summary_en": "The Centre for Policy Dialogue stated that governance problems like energy crises and corruption should not be used to keep garment wages low.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business"
+          "economy_business",
+          "climate_environment"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T07:10:44+00:00",
-        "lead_bn": "ব্যাংক পরিচালকদের দায়িত্ব পালনের সর্বোচ্চ মেয়াদ ১২ বছর থেকে কমিয়ে ৬ বছর করার উদ্যোগ নিয়েছে সরকার।",
-        "lead_en": "The government has initiated steps to reduce the maximum tenure of bank directors from 12 years to 6 years.",
+        "published_at": "2026-11-22T08:20:00+00:00",
+        "lead_bn": "সিপিডি জানিয়েছে, জ্বালানি সংকট ও দুর্নীতির মতো সমস্যাগুলো পোশাক শ্রমিকদের মজুরি কম রাখার অজুহাত হিসেবে ব্যবহার করা উচিত নয়।",
+        "lead_en": "The Centre for Policy Dialogue stated that governance problems like energy crises and corruption should not be used to keep garment wages low.",
         "bullets_bn": [
-          "ব্যাংকের পরিচালনা পর্ষদে একই পরিবারের সদস্যদের অংশগ্রহণ সীমিত করার প্রস্তাব করা হয়েছে।",
-          "স্বতন্ত্র পরিচালকের সংখ্যা বাড়ানোর প্রস্তাব করা হয়েছে।",
-          "মন্ত্রী-এমপিসহ সরকারি দায়িত্বে থাকা রাজনীতিবিদদের ব্যাংকের শীর্ষ পদে নিয়োগে নিষেধাজ্ঞা প্রস্তাব করা হয়েছে।"
+          "সিপিডি পোশাক শ্রমিকদের জন্য ১৮,৫৭৮ টাকা থেকে ২৪,২০৪ টাকা পর্যন্ত ন্যূনতম মজুরি পরিসর প্রস্তাব করেছে।",
+          "বিজিএমইএ পরিবারের সদস্য সংখ্যা এবং জীবনযাত্রার ব্যয় গণনায় পদ্ধতির ত্রুটির কথা বলে সিপিডির প্রস্তাবের সমালোচনা করেছে।",
+          "সিপিডি জানিয়েছে যে তারা বিজিএমইএর পর্যবেক্ষণগুলো গভীরভাবে বিবেচনা করেছে এবং গঠনমূলক আলোচনা বাস্তবসম্মত মজুরি নির্ধারণে সাহায্য করতে পারে।"
         ],
         "bullets_en": [
-          "It has been proposed to limit the participation of members of the same family on bank boards.",
-          "A proposal has been made to increase the number of independent directors.",
-          "A ban has been proposed on appointing politicians holding government positions, including ministers and MPs, to top bank posts."
+          "CPD proposed a minimum wage range of Tk18,578 to Tk24,204 for garment workers.",
+          "BGMEA criticized CPD's proposal, citing methodological flaws in calculating household size and living costs.",
+          "CPD stated it carefully considered BGMEA's observations and maintained that constructive exchanges could help establish a realistic wage."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বাংলাদেশ ব্যাংকের সুপারিশের ভিত্তিতে আর্থিক প্রতিষ্ঠান বিভাগ ব্যাংক পরিচালনা পর্ষদে এই পরিবর্তনের উদ্যোগ নিয়েছে।",
-        "details_en": "Based on the recommendations of Bangladesh Bank, the Financial Institutions Division has taken the initiative for these changes in bank management boards.",
-        "hook_bn": "ব্যাংক পরিচালকদের মেয়াদ কমানোর উদ্যোগ",
-        "kicker_bn": "নতুন সিদ্ধান্ত",
-        "share_value": true,
-        "question_bn": "ব্যাংক খাতের সুশাসন ফেরাতে এই নতুন নিয়মগুলো কতটা কার্যকর হবে বলে আপনার মনে হয়?"
+        "details_bn": "বিজিএমইএ গত ১৮ নভেম্বর সিপিডির মজুরি বিশ্লেষণের সমালোচনা করে বলেছিল যে গৃহস্থালির আকার এবং দারিদ্র্যসীমা গণনায় পদ্ধতিগত ত্রুটি রয়েছে। এর জবাবে ২২ নভেম্বর সিপিডি জানায় যে তারা প্রকাশিত বিভিন্ন গবেষণার ওপর ভিত্তি করে মধ্যম মানের গৃহস্থালির আকার চার এবং ১.৫৮ জন উপার্জনকারী ধরেছে। তবে সংস্থাটি স্বীকার করেছে যে এই পরিসংখ্যানগুলো কোনো প্রতিনিধিত্বমূলক জরিপের ওপর ভিত্তি করে তৈরি নয়।",
+        "details_en": "The BGMEA criticized CPD's wage analysis presented on 18 November, pointing out flaws in calculating household sizes and poverty thresholds. In response on 22 November, CPD defended using a median household size of four and 1.58 earners based on published studies, while acknowledging the figures did not replace a representative survey.",
+        "hook_bn": "মজুরি কম রাখার অজুহাত নয় খাতের সংকট",
+        "kicker_bn": "মজুরি বিতর্ক",
+        "share_value": false,
+        "question_bn": "পোশাক শ্রমিকদের ন্যূনতম মজুরি কত হওয়া উচিত বলে আপনি মনে করেন?"
       },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
+      "desk_importance": 6.0,
+      "outlet_count": 2,
       "trending": false,
-      "social_appeal": 6.0,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T08:02:55.980094+00:00"
+        "checked_at": "2026-11-22T09:02:55.637076+00:00"
       }
     },
     {
-      "story_id": "853cd33e-8e6f-599e-a78e-efba7ece3c48",
-      "primary_category": "society_education",
+      "story_id": "df42152a-bd57-5c43-a4f4-9645d013ea88",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "society_education",
-        "governance_law"
+        "governance_law",
+        "society_education"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
-        "#NationalAffairs"
+        "#Governance"
       ],
-      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/sylhet-ham-01-20261122135314.jpg?cid=499924",
+      "image_url": "https://images.unsplash.com/photo-1614610741181-2bce5e06976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGlyZWN0aXZlJTIwaXNzdWVkJTIwZm9ybXVsYXRlJTIwcG9saWN5JTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1MzM4MTU4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-22T07:53:14+00:00",
+      "published_at": "2026-11-22T08:54:20+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.0,
-      "rank_score": 3.5699,
+      "rank_score": 3.573,
       "sources": [
         {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/country/499924",
-          "title": "সিলেটে সন্দেহভাজন হামে ২ মাসের শিশুর মৃত্যু, ভর্তি ১৫৭",
-          "snippet": "সিলেটে সন্দেহভাজন হামে ২ মাসের শিশুর মৃত্যু, ভর্তি ১৫৭"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/law-courts/news/1182284",
+          "title": "১৬ বছরের কম বয়সীদের সোশ্যাল মিডিয়া ব্যবহারে নীতিমালা প্রণয়নের নির্দেশ",
+          "snippet": "১৬ বছরের কম বয়সীদের সোশ্যাল মিডিয়া ব্যবহারে নীতিমালা প্রণয়নের নির্দেশ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সিলেটে হামে দুই মাসের শিশুর মৃত্যু এবং ১৫৭ জন হাসপাতালে ভর্তি",
-        "title_en": "Two-month-old child dies of suspected measles and 157 hospitalized in Sylhet",
-        "summary_bn": "সিলেটে সন্দেহভাজন হামে দুই মাসের এক শিশুর মৃত্যু হয়েছে এবং ২৪ ঘণ্টায় বিভাগে নতুন ১৫৭ জন হাসপাতালে ভর্তি হয়েছেন।",
-        "summary_en": "A two-month-old child has died of suspected measles in Sylhet, with 157 new patients hospitalized across the division in 24 hours.",
+        "title_bn": "১৬ বছরের কম বয়সীদের সোশ্যাল মিডিয়া ব্যবহারে নীতিমালা প্রণয়নের নির্দেশ",
+        "title_en": "Directive issued to formulate policy on social media use for under-16s",
+        "summary_bn": "সংশ্লিষ্টদের প্রতি দেশে ১৬ বছর বা তার কম বয়সী শিশু-কিশোরদের সামাজিক যোগাযোগমাধ্যম বা সোশ্যাল মিডিয়া ব্যবহার নিয়ন্ত্রণে নীতিমালা প্রণয়নের নির্দেশ দেওয়া হয়েছে।",
+        "summary_en": "Relevant authorities have been directed to formulate a policy to control the use of social media by children and adolescents aged 16 or under in the country.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
-          "governance_law"
+          "governance_law",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T07:53:14+00:00",
-        "lead_bn": "সিলেটে সন্দেহভাজন হামে দুই মাসের এক শিশুর মৃত্যু হয়েছে এবং ২৪ ঘণ্টায় বিভাগে নতুন ১৫৭ জন হাসপাতালে ভর্তি হয়েছেন।",
-        "lead_en": "A two-month-old child has died of suspected measles in Sylhet, with 157 new patients hospitalized across the division in 24 hours.",
+        "published_at": "2026-11-22T08:54:20+00:00",
+        "lead_bn": "সংশ্লিষ্টদের প্রতি দেশে ১৬ বছর বা তার কম বয়সী শিশু-কিশোরদের সামাজিক যোগাযোগমাধ্যম বা সোশ্যাল মিডিয়া ব্যবহার নিয়ন্ত্রণে নীতিমালা প্রণয়নের নির্দেশ দেওয়া হয়েছে।",
+        "lead_en": "Relevant authorities have been directed to formulate a policy to control the use of social media by children and adolescents aged 16 or under in the country.",
         "bullets_bn": [
-          "২১ নভেম্বর সিলেট এমএজি ওসমানী মেডিকেল কলেজ হাসপাতালে দুই মাসের সুমাইয়া আক্তারের মৃত্যু হয়।",
-          "২৪ ঘণ্টায় হাসপাতালে ভর্তি হওয়া ১৫৭ জনের মধ্যে সিলেট জেলার ১০৮ জন এবং হবিগঞ্জের ৪৩ জন রয়েছেন।",
-          "চলতি বছরের ১ জানুয়ারি থেকে ২২ নভেম্বর পর্যন্ত সিলেট বিভাগে সন্দেহভাজন হাম রোগীর সংখ্যা ১ হাজার ৮২৫ জন।"
+          "নির্দেশটি প্রদান করা হয়েছে সংশ্লিষ্টদের প্রতি।",
+          "নীতিমালাটি প্রণয়নের নির্দেশ দেওয়া হয়েছে ১৬ বছর বা তার কম বয়সী শিশু-কিশোরদের সোশ্যাল মিডিয়া ব্যবহার নিয়ন্ত্রণের জন্য।",
+          "সোশ্যাল মিডিয়া ব্যবহারের ক্ষেত্রে এই নিয়ন্ত্রণ আরোপের কথা বলা হয়েছে।"
         ],
         "bullets_en": [
-          "Two-month-old Sumaiya Akhter died at Sylhet MAG Osmani Medical College Hospital on November 21.",
-          "Among the 157 newly hospitalized patients in 24 hours, 108 are from Sylhet district and 43 from Habiganj.",
-          "From January 1 to November 22 of this year, the number of suspected measles patients in Sylhet division reached 1,825."
+          "The directive has been issued to the relevant authorities.",
+          "The policy has been ordered to control the use of social media by children and adolescents aged 16 or under.",
+          "This control has been instructed regarding the use of social media."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "স্বাস্থ্য অধিদপ্তরের সিলেট বিভাগীয় কার্যালয়ের প্রকাশিত দৈনিক প্রতিবেদন অনুযায়ী, সিলেট সদর উপজেলার শিবেরবাজার এলাকার বাসিন্দা সাদিক মিয়ার শিশুর মৃত্যুটিকে সন্দেহভাজন হামজনিত মৃত্যু হিসেবে উল্লেখ করা হয়েছে। মৌলভীবাজারের ৪ জন এবং সুনামগঞ্জের ২ জনসহ গত ২৪ ঘণ্টায় নতুন করে ৮ জনের হাম শনাক্ত হয়েছে। বর্তমানে সরকারি ও বেসরকারি হাসপাতাল মিলিয়ে সিলেট বিভাগের বিভিন্ন হাসপাতালে ৫৩৯ জন হাম রোগী চিকিৎসাধীন রয়েছেন। সব মিলিয়ে বিভাগে সন্দেহভাজন ও নিশ্চিত হামজনিত মৃত্যুর সংখ্যা ২২৬ জন।",
-        "details_en": "According to the daily report published by the Directorate General of Health Services Sylhet divisional office, the death of the child of Sadik Mia from Shiberbazar area of Sylhet Sadar upazila has been recorded as a suspected measles death. Eight new measles cases were identified in 24 hours, including 4 from Moulvibazar and 2 from Sunamganj. Currently, 539 measles patients are undergoing treatment in various hospitals across the Sylhet division. In total, the number of suspected and confirmed measles deaths in the division stands at 226.",
-        "hook_bn": "সিলেটে সন্দেহভাজন হামে শিশুর মৃত্যু",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "সোশ্যাল মিডিয়া ব্যবহারে নীতিমালা প্রণয়নের নির্দেশ",
+        "kicker_bn": "নতুন নীতিমালা",
+        "share_value": true,
+        "question_bn": "১৬ বছরের কম বয়সীদের জন্য সামাজিক যোগাযোগমাধ্যম ব্যবহারে কেমন নীতিমালা হওয়া উচিত বলে আপনি মনে করেন?"
       },
       "desk_importance": 6.0,
       "outlet_count": 1,
@@ -135,327 +144,226 @@
       "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T08:02:55.980094+00:00"
+        "checked_at": "2026-11-22T09:02:55.637076+00:00"
       }
     },
     {
-      "story_id": "657044c7-0322-5a88-8485-4124845eb288",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/Climate.png",
-      "image_caption": null,
-      "published_at": "2026-11-22T07:17:06+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.4479,
-      "sources": [
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/national/post-1224095/",
-          "title": "কপ৩১ সম্মেলনে ৭৮৪ কোটি টাকার অনুদান নিশ্চিত করেছে বাংলাদেশ",
-          "snippet": "কপ৩১ সম্মেলনে ৭৮৪ কোটি টাকার অনুদান নিশ্চিত করেছে বাংলাদেশ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "কপ৩১ সম্মেলনে বাংলাদেশের জন্য ৭৮৪ কোটি টাকার জলবায়ু অনুদান নিশ্চিত হয়েছে",
-        "title_en": "Bangladesh secures Tk 784 crore climate grant at COP31 conference",
-        "summary_bn": "কপ৩১ সম্মেলন চলাকালে বাংলাদেশের জন্য প্রায় ৭৮৪ কোটি টাকার পুরোটাই অফেরতযোগ্য জলবায়ু অনুদান নিশ্চিত হয়েছে বলে জানিয়েছেন ড. সাইমুম পারভেজ।",
-        "summary_en": "Dr. Saimum Parvez stated that Bangladesh secured about Tk 784 crore in entirely non-repayable climate grants during the COP31 conference.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T07:17:06+00:00",
-        "lead_bn": "কপ৩১ সম্মেলন চলাকালে বাংলাদেশের জন্য প্রায় ৭৮৪ কোটি টাকার পুরোটাই অফেরতযোগ্য জলবায়ু অনুদান নিশ্চিত হয়েছে বলে জানিয়েছেন ড. সাইমুম পারভেজ।",
-        "lead_en": "Dr. Saimum Parvez stated that Bangladesh secured about Tk 784 crore in entirely non-repayable climate grants during the COP31 conference.",
-        "bullets_bn": [
-          "ক্লাইমেট ইনভেস্টমেন্ট ফান্ডস বা সিআইএফ থেকে ৩ কোটি মার্কিন ডলার বা প্রায় ৩৭৪ কোটি টাকা পাওয়া যাচ্ছে।",
-          "গ্লোবাল শিল্ড থেকে ৩ কোটি ইউরো বা প্রায় ৪১০ কোটি টাকা অনুদান হিসেবে আসছে।",
-          "গ্লোবাল শিল্ডের প্রথম পর্যায়ের কার্যক্রম সফল হলে আরও ২ কোটি ইউরো বা প্রায় ২৭৩ কোটি টাকা পাওয়া যাবে।"
-        ],
-        "bullets_en": [
-          "Bangladesh is receiving 3 million US dollars or about Tk 374 crore from Climate Investment Funds (CIF).",
-          "An amount of 3 million euros, or about Tk 410 crore, is coming as a grant from the Global Shield.",
-          "Another 2 million euros or about Tk 273 crore will be received if the first phase of Global Shield is successful."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বিশ্বজুড়ে জলবায়ু অর্থায়নে ঋণের ওপর নির্ভরতা বাড়লেও দুটি আন্তর্জাতিক তহবিল থেকে দীর্ঘদিনের প্রচেষ্টার ফল হিসেবে এই অনুদান নিশ্চিত হয়েছে। নিশ্চিত হওয়া অর্থের মধ্যে সিআইএফের অনুদান সরকারের মাধ্যমে বিভিন্ন প্রকল্পে ব্যয় করা হবে। এছাড়া গ্লোবাল শিল্ডের সহায়তা সরকারি ও বেসরকারি প্রতিষ্ঠানের মাধ্যমে জলবায়ু ঝুঁকি মোকাবিলায় এবং জলবায়ু বীমা নিয়ে কাজ করতে আগ্রহী প্রতিষ্ঠানগুলোর জন্য কাজে লাগবে, যা তদারক করবে অর্থনৈতিক সম্পর্ক বিভাগ।",
-        "details_en": "Although reliance on loans is increasing globally in climate finance, this grant has been secured from two international funds as a result of long-standing efforts. Among the secured funds, CIF grants will be spent on various projects through the government. Additionally, Global Shield assistance will be utilized by government and private institutions to tackle climate risks and support institutions interested in climate insurance, supervised by the Economic Relations Division.",
-        "hook_bn": "জলবায়ু অনুদান পেল বাংলাদেশ",
-        "kicker_bn": "জলবায়ু অনুদান",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T08:02:55.980094+00:00"
-      }
-    },
-    {
-      "story_id": "d3048b83-b817-5c70-9933-462bba88e477",
+      "story_id": "dfa266b1-4a2a-5a7f-ad1d-ba5dd1fed319",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#JuboLeague",
-        "#Mirpur",
-        "#Narail",
-        "#DhakaPolice"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/22/924338140_1849468032755092_1513424772584712193_n_1.jpg",
+      "image_url": "https://images.unsplash.com/photo-1614610741181-2bce5e06976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZW1lcmdlbmN5JTIwZGlyZWN0aXZlJTIwaXNzdWVkJTIwYWxsJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1MzM4MTYwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-22T05:55:00+00:00",
+      "published_at": "2026-11-22T08:32:46+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.75,
-      "rank_score": 2.9259,
+      "importance_score": 6.0,
+      "rank_score": 3.4996,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/crime/jubo-league-leader-arrested-mirpur-over-alleged-sabotage-plot-1610181",
-          "title": "Jubo League leader arrested in Mirpur over alleged sabotage plot",
-          "snippet": "Jubo League leader arrested in Mirpur over alleged sabotage plot"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/jubo-league-leader-papia-arrested-over-sabotage-plot-in-narail",
-          "title": "Jubo League leader Papia arrested over ‘sabotage plot’ in Narail",
-          "snippet": "Jubo League leader Papia arrested over ‘sabotage plot’ in Narail"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/papia-arrested-sabotage-charge/",
-          "title": "নাশকতার পরিকল্পনার অভিযোগে কার্যক্রম নিষিদ্ধ যুবলীগ নেত্রী পাপিয়া গ্রেপ্তার",
-          "snippet": "নাশকতার পরিকল্পনার অভিযোগে কার্যক্রম নিষিদ্ধ যুবলীগ নেত্রী পাপিয়া গ্রেপ্তার"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/national/499927",
-          "title": "মিরপুরে নাশকতার পরিকল্পনার অভিযোগে যুবলীগ নেত্রী গ্রেপ্তার",
-          "snippet": "মিরপুরে নাশকতার পরিকল্পনার অভিযোগে যুবলীগ নেত্রী গ্রেপ্তার"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822384/%E0%A7%A7-%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%95%E0%A6%B2-%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%9C%E0%A6%B0%E0%A7%81%E0%A6%B0%E0%A7%80-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%A8%E0%A6%BE",
+          "title": "১ ডিসেম্বর থেকে সকল যানবাহনের জন্য জরুরী নির্দেশনা",
+          "snippet": "১ ডিসেম্বর থেকে সকল যানবাহনের জন্য জরুরী নির্দেশনা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মিরপুরে নিষিদ্ধ যুবলীগ নেত্রী পাপিয়া গ্রেপ্তার",
-        "title_en": "Jubilee League leader Papia arrested in Mirpur",
-        "summary_bn": "কার্যক্রম নিষিদ্ধ যুবলীগ নেত্রীকে নাশকতার পরিকল্পনার অভিযোগে ঢাকার মিরপুর থেকে গ্রেপ্তার করেছে পুলিশ।",
-        "summary_en": "Police have arrested a banned Jubo League leader in Dhaka's Mirpur over allegations of planning sabotage activities.",
+        "title_bn": "১ ডিসেম্বর থেকে সকল যানবাহনের জন্য জরুরী নির্দেশনা জারি",
+        "title_en": "Emergency directive issued for all vehicles starting 1 December",
+        "summary_bn": "ইত্তেফাকের প্রতিবেদন অনুযায়ী, আগামী ১ ডিসেম্বর থেকে সকল যানবাহনের জন্য জরুরী নির্দেশনা কার্যকর করা হবে।",
+        "summary_en": "According to the report by Ittefaq, emergency directives for all vehicles will take effect starting 1 December.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T05:55:00+00:00",
-        "lead_bn": "কার্যক্রম নিষিদ্ধ যুবলীগ নেত্রীকে নাশকতার পরিকল্পনার অভিযোগে ঢাকার মিরপুর থেকে গ্রেপ্তার করেছে পুলিশ।",
-        "lead_en": "Police have arrested a banned Jubo League leader in Dhaka's Mirpur over allegations of planning sabotage activities.",
+        "published_at": "2026-11-22T08:32:46+00:00",
+        "lead_bn": "ইত্তেফাকের প্রতিবেদন অনুযায়ী, আগামী ১ ডিসেম্বর থেকে সকল যানবাহনের জন্য জরুরী নির্দেশনা কার্যকর করা হবে।",
+        "lead_en": "According to the report by Ittefaq, emergency directives for all vehicles will take effect starting 1 December.",
         "bullets_bn": [
-          "মিরপুর মডেল থানার পুলিশ মিরপুর-২ এলাকা থেকে বিশেষ অভিযান চালিয়ে পাপিয়া সুলতানাকে গ্রেপ্তার করে।",
-          "পাপিয়া সুলতানা কার্যক্রম নিষিদ্ধ যুবলীগের নড়াইল জেলা ইউনিটের দপ্তর সম্পাদক হিসেবে দায়িত্বে ছিলেন।",
-          "তার সহযোগীরা গোপালগঞ্জের সাম্প্রতিক নাশকতার সঙ্গে জড়িত ছিল বলে তথ্য পেয়েছে পুলিশ।"
+          "নির্দেশনাটি আগামী ১ ডিসেম্বর থেকে সকল যানবাহনের ক্ষেত্রে প্রযোজ্য হবে।",
+          "ইত্তেফাক এই বিষয়ে একটি জরুরী নির্দেশনা প্রকাশ করেছে।",
+          "সকল যানবাহনকে এই নির্দেশনা মেনে চলার কথা বলা হয়েছে।"
         ],
         "bullets_en": [
-          "Police arrested Papia Sultana during a special operation in the Mirpur-2 area by Mirpur Model Police Station officers.",
-          "Papia Sultana served as the office secretary of the banned Jubo League's Narail district unit.",
-          "Police have also received information that her associates were involved in recent sabotage activities in Gopalganj."
+          "The directive will apply to all vehicles starting next 1 December.",
+          "Ittefaq published an emergency directive regarding this matter.",
+          "All vehicles have been asked to follow this directive."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "পুলিশ জানিয়েছে, পাপিয়া ফেসবুকে কার্যক্রম নিষিদ্ধ সংগঠনের পক্ষে প্রচারণা চালাচ্ছিলেন। এছাড়া তিনি ঢাকার বিভিন্ন স্থানে নাশকতার পরিকল্পনা করার সঙ্গে জড়িত ছিলেন। বর্তমানে তাকে জিজ্ঞাসাবাদ করা হচ্ছে এবং তার বিরুদ্ধে আইনগত ব্যবস্থা নেওয়া হচ্ছে।",
-        "details_en": "Police stated that Papia was campaigning in favour of the banned organisation on Facebook. She was also involved in planning sabotage activities in different parts of Dhaka at various times. She is currently being questioned and further legal action is being taken against her.",
-        "hook_bn": "মিরপুরে নিষিদ্ধ যুবলীগ নেত্রী গ্রেপ্তার",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 4,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T08:02:55.980094+00:00"
-      }
-    },
-    {
-      "story_id": "78e7914a-1c95-5a35-932e-4daa79e2d139",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business",
-        "climate_environment"
-      ],
-      "region": "international",
-      "tags": [
-        "#DonaldTrump",
-        "#XiJinping",
-        "#VladimirPutin",
-        "#Energy"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2024/10/15/usa_brent_oil_storage.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-22T06:10:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 3.7933,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/explainer/trump-putin-and-xi-pledge-more-fuel-supplies-can-they-deliver-1610191",
-          "title": "Trump, Putin and Xi pledge more fuel supplies: Can they deliver?",
-          "snippet": "Trump, Putin and Xi pledge more fuel supplies: Can they deliver?"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ট্রাম্প, পুতিন ও শি জ্বালানি সরবরাহ বাড়ানোর প্রতিশ্রুতি দিয়েছেন",
-        "title_en": "Trump, Putin and Xi pledge more fuel supplies",
-        "summary_bn": "যুক্তরাষ্ট্র, চীন ও রাশিয়ার শীর্ষ নেতারা বিশ্ববাজারে পরিশোধিত জ্বালানি তেলের সরবরাহ বাড়ানোর প্রতিশ্রুতি দিলেও বিশ্লেষকেরা এর কার্যকারিতা নিয়ে সন্দেহ প্রকাশ করেছেন।",
-        "summary_en": "US, China and Putin have pledged to increase global refined petroleum supplies, but analysts question if they can deliver.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business",
-          "climate_environment"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T06:10:00+00:00",
-        "lead_bn": "যুক্তরাষ্ট্র, চীন ও রাশিয়ার শীর্ষ নেতারা বিশ্ববাজারে পরিশোধিত জ্বালানি তেলের সরবরাহ বাড়ানোর প্রতিশ্রুতি দিলেও বিশ্লেষকেরা এর কার্যকারিতা নিয়ে সন্দেহ প্রকাশ করেছেন।",
-        "lead_en": "US, China and Putin have pledged to increase global refined petroleum supplies, but analysts question if they can deliver.",
-        "bullets_bn": [
-          "চীনের শেনচেনে অনুষ্ঠিত এক ত্রিপক্ষীয় শীর্ষ সম্মেলনের পর তিন নেতা এই যৌথ ঘোষণা দেন।",
-          "বিশ্লেষকেরা একে রাজনৈতিক প্রচার হিসেবে অভিহিত করে বলেছেন যে এটি কার্যকর হওয়ার সম্ভাবনা কম।",
-          "যুক্তরাষ্ট্রের শোধনাগারগুলোর সক্ষমতা এবং চীনের অভ্যন্তরীণ মজুদ পূরণের প্রয়োজনীয়তার কথা তুলে ধরা হয়েছে।"
-        ],
-        "bullets_en": [
-          "The pledge followed a trilateral summit in Shenzhen, China, where the leaders issued a joint statement.",
-          "Experts called the statement political noise or designed to placate consumers rather than a real step.",
-          "Analysts pointed to limited spare refining capacity in the United States and China's domestic reserve needs."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ইরান সংঘাত ও ইউক্রেন যুদ্ধের কারণে বিশ্ব জ্বালানি বাজারে বিঘ্ন ঘটার প্রেক্ষাপটে এই ঘোষণা এল। যুক্তরাষ্ট্রের শোধনাগারগুলো তাদের ক্ষমতার প্রায় ৯৫ শতাংশের বেশি ব্যবহার করে কাজ করছে। পূর্ববর্তী মার্কিন-রুশ ডিজেল চুক্তির মতো আগের উদ্যোগগুলোও ব্যর্থ হয়েছিল বলে বিশেষজ্ঞরা জানান।",
-        "details_en": "The announcement comes amid global energy market disruptions from the Iran conflict and Russia's war in Ukraine. US refineries operate close to limits with capacity utilisation exceeding 95 percent, while previous efforts like the US-Russian diesel deal went nowhere.",
-        "hook_bn": "জ্বালানি সরবরাহ বাড়ানোর প্রতিশ্রুতি তিন নেতার",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": "বিশ্ববাজারে জ্বালানি তেল সরবরাহের এই প্রতিশ্রুতি কতটা বাস্তবসম্মত বলে আপনি মনে করেন?"
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "১ ডিসেম্বর থেকে সকল যানবাহনের জন্য নির্দেশনা",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": "আপনার যাতায়াতে এই নতুন নির্দেশনার কী প্রভাব পড়তে পারে বলে আপনার মনে হয়?"
       },
       "desk_importance": 6.0,
       "outlet_count": 1,
-      "trending": true,
-      "social_appeal": 7.0,
+      "trending": false,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T08:02:55.980094+00:00"
+        "checked_at": "2026-11-22T09:02:55.637076+00:00"
       }
     },
     {
-      "story_id": "c3c62c7b-ad15-5df8-a4c0-78b829104034",
+      "story_id": "168768b4-4fe5-504b-9522-e7a6ffbe0dac",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
-        "governance_law",
-        "society_education"
+        "economy_business"
       ],
       "region": "international",
       "tags": [
-        "#IndonesiaFactoryFire",
-        "#BantenProvince",
-        "#FonusaAgungMulia",
-        "#Jakarta"
+        "#Poland",
+        "#Russia",
+        "#Nato",
+        "#Ukraine"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/e0ed3952c817519e338f7b090e77d68893b48948/485_0_4287_3430/master/4287.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3efce65abbdaf52cb8ffc85ca31dd0d0",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2025/02/27/poland_donald_tusk.jpg",
       "image_caption": null,
-      "published_at": "2026-11-22T07:11:17+00:00",
+      "published_at": "2026-11-22T07:30:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.381,
+      "importance_score": 6.0,
+      "rank_score": 3.2944,
       "sources": [
         {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
-          "title": "Fire at confectionary factory in Indonesia leaves at least three dead and dozens missing",
-          "snippet": "Fire at confectionary factory in Indonesia leaves at least three dead and dozens missing"
-        },
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-all-1573-rdf",
-          "title": "Dozens missing as deadly fire hits Indonesian candy factory",
-          "snippet": "Dozens missing as deadly fire hits Indonesian candy factory"
-        },
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing?traffic_source=rss",
-          "title": "Indonesia factory fire kills three, 36 missing",
-          "snippet": "Indonesia factory fire kills three, 36 missing"
-        },
-        {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-          "title": "Three killed and dozens missing after fire at Indonesian factory",
-          "snippet": "Three killed and dozens missing after fire at Indonesian factory"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/explainer/russian-missiles-hit-poland-what-happened-and-could-nato-respond-1610206",
+          "title": "Russian missiles hit Poland: What happened, and could Nato respond?",
+          "snippet": "Russian missiles hit Poland: What happened, and could Nato respond?"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইন্দোনেশিয়ার এক মিষ্টান্ন কারখানায় ভয়াবহ আগুনে অন্তত তিনজন নিহত ও ৩৬ জন নিখোঁজ",
-        "title_en": "At least three dead and 36 missing after Indonesian factory fire",
-        "summary_bn": "ইন্দোনেশিয়ার বানতেন প্রদেশের একটি মিষ্টান্ন কারখানায় ভয়াবহ অগ্নিকাণ্ডে অন্তত তিনজন নিহত এবং ৩৬ জন নিখোঁজ রয়েছেন।",
-        "summary_en": "A fire at a confectionery factory in Indonesia's Banten province has killed at least three people and left 36 missing.",
+        "title_bn": "পোল্যান্ডে দুটি ক্ষেপণাস্ত্র ও একটি ড্রোন আঘাত হেনেছে।",
+        "title_en": "Two missiles and a drone hit Poland.",
+        "summary_bn": "ইউক্রেনে রুশ হামলার সময় দক্ষিণ-পূর্ব পোল্যান্ডে দুটি ক্ষেপণাস্ত্র ও একটি জেটচালিত ড্রোন আঘাত হেনেছে।",
+        "summary_en": "Two missiles and a jet-powered drone landed in south-eastern Poland during a Russian attack on Ukraine.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "governance_law",
-          "society_education"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T07:11:17+00:00",
-        "lead_bn": "ইন্দোনেশিয়ার বানতেন প্রদেশের একটি মিষ্টান্ন কারখানায় ভয়াবহ অগ্নিকাণ্ডে অন্তত তিনজন নিহত এবং ৩৬ জন নিখোঁজ রয়েছেন।",
-        "lead_en": "A fire at a confectionery factory in Indonesia's Banten province has killed at least three people and left 36 missing.",
+        "published_at": "2026-11-22T07:30:00+00:00",
+        "lead_bn": "ইউক্রেনে রুশ হামলার সময় দক্ষিণ-পূর্ব পোল্যান্ডে দুটি ক্ষেপণাস্ত্র ও একটি জেটচালিত ড্রোন আঘাত হেনেছে।",
+        "lead_en": "Two missiles and a jet-powered drone landed in south-eastern Poland during a Russian attack on Ukraine.",
         "bullets_bn": [
-          "ছোট আগুন জ্বলতে থাকা অবস্থাতেই উদ্ধারকারীরা নিখোঁজদের সন্ধানে ফোনুসা আগুং মুলিয়া কারখানার ক্ষতিগ্রস্ত ভবনে তল্লাশি চালাচ্ছেন।",
-          "উদ্ধার কর্মকর্তা রিজকি দভিয়ান্তো জানান, আহত চারজনকে উদ্ধার করে স্থানীয় হাসপাতাল ও ক্লিনিকে নেওয়া হয়েছে।",
-          "ফায়ার সার্ভিসের কর্মকর্তা তুবাগুস মাচফুদ জানান, অগ্নিকাণ্ডের সময় কারখানার সুরক্ষা ব্যবস্থা সঠিকভাবে কাজ করেছিল কি না তা নিশ্চিত নয়।"
+          "নভি লিপোভিয়েচ ও রুদনিক নাদ সানেমে দুটি ক্ষেপণাস্ত্র এবং মলোদিচে একটি ড্রোন পড়েছে।",
+          "প্রতিরক্ষামন্ত্রী ভ্লাদিস্লাভ কোসিনিয়াক-কামিশ এই ঘটনার সত্যতা নিশ্চিত করেছেন।",
+          "পোল্যান্ডের প্রধানমন্ত্রী ডোনাল্ড টাস্ক এটিকে উদ্দেশ্যপ্রণোদিত রুশ উসকানি বলে অভিহিত করেছেন।"
         ],
         "bullets_en": [
-          "Rescuers entered the charred Fonusa Agung Mulia factory building to search for the missing while small fires were still burning.",
-          "Search and rescue official Rizky Dwianto said four injured people were taken to a nearby hospital and health clinic.",
-          "Fire official Tubagus Machfudz stated it was unclear whether the factory's safety protection system functioned properly during the blaze."
+          "Two missiles landed at Nowy Lipowiec and Rudnik nad Sanem, while a drone crashed near Molodycz.",
+          "Defence Minister Wladyslaw Kosiniak-Kamysz confirmed the incidents.",
+          "Polish Prime Minister Donald Tusk described the incident as an intentional Russian provocation."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "জাকার্তা থেকে ৫০ কিলোমিটার দূরে অবস্থিত ফোনুসা আগুং মুলিয়া কারখানায় বিকেল সাড়ে ৪টায় আগুন লাগার খবর পায় ফায়ার সার্ভিস। অগ্নিনির্বাপক দল পৌঁছানোর আগেই ভবনের বড় অংশ আগুনে পুড়ে ছাদ ধসে পড়ে। কর্তৃপক্ষ অন্তত ১৫ জনকে উদ্ধার করেছে। নিখোঁজ কর্মীদের স্বজনেরা তথ্যের জন্য কারখানার সামনে ভিড় করেন। যৌথ উদ্ধারকারী দল ক্ষতিগ্রস্ত এলাকায় অনুসন্ধান চালাচ্ছে, তবে অগ্নিকাণ্ডের কারণ এখনও স্পষ্ট নয়।",
-        "details_en": "The fire occurred at the Fonusa Agung Mulia factory in Cikande, located about 50km from Jakarta. Firefighters alerted at 4:30pm arrived to find a large area engulfed in flames, causing the roof to collapse. Authorities rescued at least 15 people from the site. Relatives of the missing gathered near the factory entrance seeking updates, while joint search and rescue teams continue operating in the complex. The cause of the fire remains unclear.",
-        "hook_bn": "ইন্দোনেশিয়ার কারখানায় আগুন, নিহত ৩",
-        "kicker_bn": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "পোল্যান্ডে রুশ ক্ষেপণাস্ত্র ও ড্রোন আঘাত হেনেছে",
+        "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 5.0,
-      "outlet_count": 4,
+      "desk_importance": 6.0,
+      "outlet_count": 1,
       "trending": false,
       "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T08:02:55.980094+00:00"
+        "checked_at": "2026-11-22T09:02:55.637076+00:00"
+      }
+    },
+    {
+      "story_id": "6f46cb4a-4490-5219-9122-ff189c9f0d47",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-22%2Fz8ow3kf5%2FEducation-Minister.jpeg?rect=0%2C360%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-22T08:35:07+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.5,
+      "rank_score": 2.9473,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/2rhze9r7vq",
+          "title": "শিক্ষক–শিক্ষার্থীর রাজনীতির উদ্দেশ্যে বিশ্ববিদ্যালয়ে নতুন বিভাগ চালু নয়: শিক্ষামন্ত্রী",
+          "snippet": "শিক্ষক–শিক্ষার্থীর রাজনীতির উদ্দেশ্যে বিশ্ববিদ্যালয়ে নতুন বিভাগ চালু নয়: শিক্ষামন্ত্রী"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/bangladesh/education/news/dont-approve-university-departments-no-job-market-demand-milon-4330226",
+          "title": "Don't approve university departments with no job market demand: Milon",
+          "snippet": "Don't approve university departments with no job market demand: Milon"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822386/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A7%87%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A7%8B-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%A8%E0%A6%BE",
+          "title": "বিশ্ববিদ্যালয়কে বেকারত্বের কারখানা বানানো যাবে না: শিক্ষামন্ত্রী",
+          "snippet": "বিশ্ববিদ্যালয়কে বেকারত্বের কারখানা বানানো যাবে না: শিক্ষামন্ত্রী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "অপ্রয়োজনীয় বিভাগ না খুলতে ইউজিসিকে শিক্ষামন্ত্রীর আহ্বান",
+        "title_en": "Education minister urges UGC not to approve unnecessary departments",
+        "summary_bn": "শিক্ষামন্ত্রী আ ন ম এহছানুল হক মিলন শিক্ষক ও শিক্ষার্থীর রাজনীতির উদ্দেশ্যে বা শ্রমবাজারে চাহিদা নেই এমন নতুন বিভাগ না খুলতে আহ্বান জানিয়েছেন।",
+        "summary_en": "Education minister ASM Ehsanul Haque Milon has urged universities not to open new departments for teacher-student politics or without job market demand.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-22T08:35:07+00:00",
+        "lead_bn": "শিক্ষামন্ত্রী আ ন ম এহছানুল হক মিলন শিক্ষক ও শিক্ষার্থীর রাজনীতির উদ্দেশ্যে বা শ্রমবাজারে চাহিদা নেই এমন নতুন বিভাগ না খুলতে আহ্বান জানিয়েছেন।",
+        "lead_en": "Education minister ASM Ehsanul Haque Milon has urged universities not to open new departments for teacher-student politics or without job market demand.",
+        "bullets_bn": [
+          "মন্ত্রী বলেন, বর্তমান চাকরির বাজারের চাহিদা বিবেচনা না করে কোনো বিভাগ খোলা উচিত নয়।",
+          "তিনি ইউজিসিকে সতর্ক থাকার আহ্বান জানিয়ে বলেন, শ্রমবাজারে চাহিদা নেই এমন বিষয়ে নতুন বিভাগ খোলার অনুমতি দেওয়া উচিত নয়।",
+          "শিক্ষামন্ত্রী উল্লেখ করেন, প্রাথমিক থেকে বিশ্ববিদ্যালয় পর্যন্ত সব পর্যায়েই শিক্ষকের ঘাটতি রয়েছে।"
+        ],
+        "bullets_en": [
+          "The minister said no department should be opened without considering current job market demands.",
+          "He urged the UGC to remain cautious and not permit new departments in subjects with no labor market demand.",
+          "The education minister noted that there is a shortage of teachers at all levels from primary to university."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ঢাকা বিশ্ববিদ্যালয়ের নবাব নওয়াব আলী চৌধুরী সিনেট ভবন মিলনায়তনে আয়োজিত এক সেমিনারে প্রধান অতিথির বক্তব্যে শিক্ষামন্ত্রী এই আহ্বান জানান। সেমিনারের শিরোনাম ছিল ইন্ডাস্ট্রি–একাডেমিয়া কোলাবোরেশন: সরকারের নীতি এবং ঢাকা বিশ্ববিদ্যালয়ের অবস্থান।",
+        "details_en": "The education minister made the call while speaking as the chief guest at a seminar at the Nawab Nawab Ali Chowdhury Senate Bhaban auditorium of Dhaka University. The seminar was titled Industry-Academia Collaboration: Government Policies and Dhaka University's Stance.",
+        "hook_bn": "বেকারত্বের কারখানা বানাবেন না",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": "আপনার মতে বিশ্ববিদ্যালয়গুলোয় শ্রমবাজারের চাহিদা অনুযায়ী নতুন বিভাগ খোলা কতটা জরুরি?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-22T09:02:55.637076+00:00"
       }
     }
   ]
