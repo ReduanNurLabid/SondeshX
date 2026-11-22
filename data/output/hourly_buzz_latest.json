@@ -1,78 +1,82 @@
 {
-  "updated_at": "2026-11-22T01:00:42.774406",
-  "total_stories": 2,
+  "updated_at": "2026-11-22T02:00:44.028374",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "184a5ec0-9128-5746-8730-bc47d0bb1f14",
+      "story_id": "f1cbbc04-4a3d-5001-aefd-0192ee92decc",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law",
-        "society_education"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Gopalganj",
+        "#BGB"
       ],
-      "image_url": "https://images.unsplash.com/photo-1593091285708-8dc58f9ff4b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YXR0ZW1wdGVkJTIwYXJzb24lMjBob3VzZSUyMGR1Y3N1JTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1MzA5MjgyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1614610741181-2bce5e06976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YW5vdGhlciUyMGJnYiUyMHBsYXRvb25zJTIwZGVwbG95ZWQlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTUzMTI4OTR8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-22T00:38:02+00:00",
+      "published_at": "2026-11-21T19:06:10+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5203,
+      "importance_score": 8.25,
+      "rank_score": 4.563,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1182142",
-          "title": "সাদিক কায়েমের বাড়িতে পেট্রোলবোমা ও কেরোসিন দিয়ে অগ্নিসংযোগের চেষ্টা",
-          "snippet": "সাদিক কায়েমের বাড়িতে পেট্রোলবোমা ও কেরোসিন দিয়ে অগ্নিসংযোগের চেষ্টা"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425375/another-26-bgb-platoons-deployed-in-gopalganj-to",
+          "title": "Another 26 BGB platoons deployed in Gopalganj to maintain law and order",
+          "snippet": "Another 26 BGB platoons deployed in Gopalganj to maintain law and order"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/law-order/police-step-security-amid-fears-december-sabotage-following-recent-attacks",
+          "title": "Police step up security amid fears of December sabotage following recent attacks",
+          "snippet": "Police step up security amid fears of December sabotage following recent attacks"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ডাকসু ভিপি সাদিক কায়েমের বাড়িতে অগ্নিসংযোগের চেষ্টা",
-        "title_en": "Attempted arson at the house of DUCSU VP Sadiq Kayem",
-        "summary_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতাকর্মীরা ঢাকা বিশ্ববিদ্যালয় কেন্দ্রীয় ছাত্র সংসদের ভিপি সাদিক কায়েমের খাগড়াছড়ির বাড়িতে পেট্রোলবোমা ও কেরোসিন দিয়ে অগ্নিসংযোগের চেষ্টা চালিয়েছেন।",
-        "summary_en": "Leaders and activists of the banned Awami League attempted to set fire to the Khagrachhari house of DUCSU VP Sadiq Kayem using petrol bombs and kerosene.",
+        "title_bn": "গোপালগঞ্জে আরও ২৬ প্লাটুন বিজিবি মোতায়েন করা হয়েছে",
+        "title_en": "Another 26 BGB platoons deployed in Gopalganj",
+        "summary_bn": "আইনশৃঙ্খলা রক্ষা ও জনসাধারণের জীবন ও সম্পত্তি সুরক্ষায় গোপালগঞ্জে আরও ২৬ প্লাটুন বিজিবি মোতায়েন করা হয়েছে।",
+        "summary_en": "Another 26 BGB platoons have been deployed in Gopalganj to maintain law and order and protect lives and property.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "society_education"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T00:38:02+00:00",
-        "lead_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতাকর্মীরা ঢাকা বিশ্ববিদ্যালয় কেন্দ্রীয় ছাত্র সংসদের ভিপি সাদিক কায়েমের খাগড়াছড়ির বাড়িতে পেট্রোলবোমা ও কেরোসিন দিয়ে অগ্নিসংযোগের চেষ্টা চালিয়েছেন।",
-        "lead_en": "Leaders and activists of the banned Awami League attempted to set fire to the Khagrachhari house of DUCSU VP Sadiq Kayem using petrol bombs and kerosene.",
+        "published_at": "2026-11-21T19:06:10+00:00",
+        "lead_bn": "আইনশৃঙ্খলা রক্ষা ও জনসাধারণের জীবন ও সম্পত্তি সুরক্ষায় গোপালগঞ্জে আরও ২৬ প্লাটুন বিজিবি মোতায়েন করা হয়েছে।",
+        "lead_en": "Another 26 BGB platoons have been deployed in Gopalganj to maintain law and order and protect lives and property.",
         "bullets_bn": [
-          "খাগড়াছড়ির বাড়িতে পেট্রোলবোমা ও কেরোসিন দিয়ে অগ্নিসংযোগের চেষ্টা চালানো হয়।",
-          "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতাকর্মীরা এই অগ্নিসংযোগের চেষ্টা চালান।",
-          "ঘটনার শিকার ব্যক্তি ঢাকা বিশ্ববিদ্যালয় কেন্দ্রীয় ছাত্র সংসদের ভিপি।"
+          "মোতায়েন করা বিজিবি সদস্যরা উচ্চ সতর্কতায় থেকে পেশাদারিত্বের সাথে কাজ করবেন।",
+          "সাম্প্রতিক হামলার পর ডিসেম্বরের অন্তর্ঘাতের আশঙ্কায় পুলিশ নিরাপত্তা জোরদার করেছে।",
+          "ঝুঁকিপূর্ণ জেলাগুলোর জন্য অতিরিক্ত পুলিশ পরিকল্পনা করা হয়েছে এবং সীমান্ত নজরদারি তীব্র করা হয়েছে।"
         ],
         "bullets_en": [
-          "An attempt was made to set fire to the house in Khagrachhari using petrol bombs and kerosene.",
-          "Leaders and activists of the banned Awami League carried out this arson attempt.",
-          "The target of the incident is the vice president of the Dhaka University Central Student Union."
+          "The deployed BGB personnel will remain on high alert and work professionally.",
+          "Police stepped up security amid fears of December sabotage following recent attacks.",
+          "Additional police are planned for vulnerable districts and border surveillance intensifies as investigators trace funding."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "সাদিক কায়েমের বাড়িতে অগ্নিসংযোগের চেষ্টা",
-        "kicker_bn": null,
+        "details_bn": "সাম্প্রতিক হামলার পর ডিসেম্বরের অন্তর্ঘাতের আশঙ্কায় পুলিশ নিরাপত্তা জোরদার করেছে। ঝুঁকিযুক্ত জেলাগুলোতে অতিরিক্ত পুলিশ মোতায়েনের পরিকল্পনা করা হয়েছে। পাশাপাশি সীমান্ত নজরদারি জোরদার করা হয়েছে এবং তদন্তকারীরা অর্থায়ন খতিয়ে দেখছেন।",
+        "details_en": "Police stepped up security amid fears of December sabotage following recent attacks. Additional police are planned for vulnerable districts as border surveillance intensifies and investigators trace funding.",
+        "hook_bn": "গোপালগঞ্জে আরও ২৬ প্লাটুন বিজিবি মোতায়েন",
+        "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
+      "desk_importance": 8.0,
+      "outlet_count": 2,
       "trending": false,
-      "social_appeal": 7.0,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T01:01:34.144797+00:00"
+        "checked_at": "2026-11-22T02:01:54.727988+00:00"
       }
     },
     {
-      "story_id": "818af569-0593-5e56-8284-e1f7119bf4ee",
+      "story_id": "ec2fc960-b262-5fb3-91be-80da6f43b938",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -82,60 +86,267 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1693585172757-b9e057feb878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFybGlhbWVudCUyMGxhdyUyMGNvdXJ0JTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1MzA5Mjg0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/pabna-01-20261122075443.jpg?cid=499842",
       "image_caption": null,
-      "published_at": "2026-11-22T00:17:43+00:00",
+      "published_at": "2026-11-22T01:54:43+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.0,
-      "rank_score": 3.4521,
+      "rank_score": 3.5765,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1182141",
-          "title": "চট্টগ্রামে যুবদলকর্মী জীবন হত্যা মামলায় গ্রেফতার ৩",
-          "snippet": "চট্টগ্রামে যুবদলকর্মী জীবন হত্যা মামলায় গ্রেফতার ৩"
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/country/499842",
+          "title": "পাবনায় আ.লীগ-বিএনপি সংঘর্ষের ঘটনায় তাৎক্ষণিকভাবে ওসি প্রত্যাহার",
+          "snippet": "পাবনায় আ.লীগ-বিএনপি সংঘর্ষের ঘটনায় তাৎক্ষণিকভাবে ওসি প্রত্যাহার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চট্টগ্রামে যুবদলকর্মী জীবন হত্যা মামলায় তিন আসামিকে গ্রেফতার করেছে এসআরবি।",
-        "title_en": "Three suspects arrested in Jubadal activist Jiban murder case in Chattogram.",
-        "summary_bn": "চট্টগ্রাম নগরের বায়েজিদ বোস্তামীতে যুবদলকর্মী আবু ইউসুফ প্রকাশ জীবন হত্যা মামলায় তিনজনকে গ্রেফতার করেছে এসআরবি।",
-        "summary_en": "SRB has arrested three suspects in the murder case of Jubadal activist Abu Yusuf alias Jiban in Chattogram city's Bayezid Bostami.",
+        "title_bn": "পাবনায় সংঘর্ষের ঘটনায় বেড়া থানার ওসি প্রত্যাহার",
+        "title_en": "Bera police station OC withdrawn following clashes in Pabna",
+        "summary_bn": "পাবনার বেড়া উপজেলায় আওয়ামী লীগ ও বিএনপির নেতাকর্মীদের মধ্যে সংঘর্ষের ঘটনায় বেড়া মডেল থানার ভারপ্রাপ্ত কর্মকর্তা নয়ন কুমার সরকারকে প্রত্যাহার করা হয়েছে।",
+        "summary_en": "Bera Model Police Station Officer-in-Charge Nayan Kumar Sarkar has been withdrawn following clashes between Awami League and BNP activists in Pabna's Bera upazila.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T00:17:43+00:00",
-        "lead_bn": "চট্টগ্রাম নগরের বায়েজিদ বোস্তামীতে যুবদলকর্মী আবু ইউসুফ প্রকাশ জীবন হত্যা মামলায় তিনজনকে গ্রেফতার করেছে এসআরবি।",
-        "lead_en": "SRB has arrested three suspects in the murder case of Jubadal activist Abu Yusuf alias Jiban in Chattogram city's Bayezid Bostami.",
+        "published_at": "2026-11-22T01:54:43+00:00",
+        "lead_bn": "পাবনার বেড়া উপজেলায় আওয়ামী লীগ ও বিএনপির নেতাকর্মীদের মধ্যে সংঘর্ষের ঘটনায় বেড়া মডেল থানার ভারপ্রাপ্ত কর্মকর্তা নয়ন কুমার সরকারকে প্রত্যাহার করা হয়েছে।",
+        "lead_en": "Bera Model Police Station Officer-in-Charge Nayan Kumar Sarkar has been withdrawn following clashes between Awami League and BNP activists in Pabna's Bera upazila.",
         "bullets_bn": [
-          "এসআরবি এই তিন আসামিকে গ্রেফতার করেছে।",
-          "মামলাটি যুবদলকর্মী আবু ইউসুফ প্রকাশ জীবন হত্যার ঘটনায় দায়ের করা হয়েছে।",
-          "অভিযানটি চট্টগ্রাম নগরের বায়েজিদ বোস্তামী এলাকায় পরিচালিত হয়েছে।"
+          "পাবনা সদর সার্কেল অফিসের ইন্সপেক্টর গোলাম মোস্তফাকে বেড়া থানার দায়িত্ব দেওয়া হয়েছে।",
+          "বিষয়টি নিশ্চিত করেন পাবনার পুলিশ সুপার আবু আশ্রাফ।",
+          "পরিস্থিতি নিয়ন্ত্রণে পুলিশ কয়েক রাউন্ড টিয়ারশেল ও রাবার বুলেট নিক্ষেপ করে।"
         ],
         "bullets_en": [
-          "SRB arrested these three suspects.",
-          "The case was filed over the murder of Jubadal activist Abu Yusuf alias Jiban.",
-          "The operation was conducted in Chattogram city's Bayezid Bostami area."
+          "Pabna Sadar Circle Office Inspector Golam Mostofa has been assigned to the Bera police station.",
+          "Pabna Superintendent of Police Abu Ashraf confirmed the matter on Saturday night.",
+          "Police fired several rounds of tear gas shells and rubber bullets to bring the situation under control."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "চট্টগ্রামে যুবদলকর্মী জীবন হত্যা মামলায় গ্রেফতার ৩",
-        "kicker_bn": null,
+        "details_bn": "গত ১৯ নভেম্বর লকডাউন কর্মসূচিকে ঘিরে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতাকর্মীরা বেড়া মডেল থানার সামনে বিক্ষোভ মিছিল করেন। পরে বিএনপি ও ছাত্রদলের নেতাকর্মীরা পাল্টা মিছিল বের করলে উভয় পক্ষের মধ্যে ধাওয়া-পাল্টা ধাওয়া ও সংঘর্ষের সূত্রপাত হয়। এ সময় সাবেক ডেপুটি স্পিকার শামসুল হক টুকুর পরিত্যক্ত বাড়িতে থাকা খড়ের পালায় আগুন দেওয়া হয় এবং সন্ধ্যা পর্যন্ত দফায় দফায় সংঘর্ষ চলে।",
+        "details_en": "On November 19, leaders and activists of the banned Awami League brought out a protest procession in front of Bera Model Police Station surrounding a lockdown program. Later, BNP and Chhatra Dal activists brought out a counter-procession, triggering chase and counter-chase and clashes between the two sides. During this time, a straw stack at the abandoned house of former deputy speaker Shamsul Haque Tuku was set on fire, and clashes continued in phases until Saturday evening.",
+        "hook_bn": "পাবনায় সংঘর্ষের ঘটনায় ওসি প্রত্যাহার",
+        "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 6.0,
       "outlet_count": 1,
       "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-22T02:01:54.727988+00:00"
+      }
+    },
+    {
+      "story_id": "c961a578-7cd8-550f-b9e1-55c33558ce15",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#FaustoIsidroMezaFlores",
+        "#FBI",
+        "#Mexico",
+        "#Guasave"
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-22T01:25:03+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4137,
+      "sources": [
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+          "snippet": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মেক্সিকোতে গুলিবিনিময়ে এফবিআইয়ের মোস্ট ওয়ান্টেড মাদকসম্রাট গ্রেপ্তার",
+        "title_en": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+        "summary_bn": "মেক্সিকীয় কর্তৃপক্ষের সঙ্গে গোলাগুলিতে এফবিআইয়ের শীর্ষ ১০ মোস্ট ওয়ান্টেড তালিকার এক মেক্সিকীয় মাদকসম্রাট গ্রেপ্তার হয়েছেন।",
+        "summary_en": "A Mexican drug lord on the FBI's 10 most wanted list has been arrested following a shoot-out with Mexican authorities.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-22T01:25:03+00:00",
+        "lead_bn": "মেক্সিকীয় কর্তৃপক্ষের সঙ্গে গোলাগুলিতে এফবিআইয়ের শীর্ষ ১০ মোস্ট ওয়ান্টেড তালিকার এক মেক্সিকীয় মাদকসম্রাট গ্রেপ্তার হয়েছেন।",
+        "lead_en": "A Mexican drug lord on the FBI's 10 most wanted list has been arrested following a shoot-out with Mexican authorities.",
+        "bullets_bn": [
+          "মেক্সিকোর প্রতিরক্ষা সচিবালয় জানিয়েছে, গুয়াসাবের সিনালোয়ায় মেক্সিকীয় বিশেষ বাহিনীর অভিযানে ফাউস্তো ইসিদ্রো চ্যাপো ইসিদ্রো মেজা ফ্লোরেস ও সাতজন আটক হয়েছেন।",
+          "এই অভিযানে সাতজন সন্দেহভাজন এবং গুয়াসাবে নিরাপত্তা জোরদার করতে যাওয়া চার মেক্সিকীয় সেনা সদস্য নিহত হয়েছেন।",
+          "যুক্তরাষ্ট্রের পক্ষ থেকে তার প্রত্যর্পণ চাওয়া হয়েছে এবং এফবিআই তার বিরুদ্ধে যুক্তরাষ্ট্রে মারাত্মক মাদক পাচারের অভিযোগ এনেছে।"
+        ],
+        "bullets_en": [
+          "Mexico's defence secretariat said Fausto Isidro Chapo Isidro Meza Flores and seven others were detained by special forces in Guasave, Sinaloa on Friday.",
+          "Seven suspects and four members of the Mexican army travelling to reinforce security in Guasave were killed in the operation.",
+          "The US is seeking his extradition, and the FBI has accused him of flooding the US with deadly drugs."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড হোয়াইট হাউসে ফেরার পর মেক্সিকো তার ওপর চাপের মুখে মাদক সংক্রান্ত অপরাধ দমনের প্রচেষ্টা জোরদার করেছে। মেজা ফ্লোরেস অরগানাইজেশন বা গুয়াসাবে কার্টেলের নেতা মেজা ফ্লোরেস নব্বইয়ের দশক থেকে মাদক পাচার চক্রে সক্রিয় ছিলেন বলে ধারণা করা হয়, তবে এতদিন তুলনামূলকভাবে কম প্রোফাইল বজায় রেখে কর্তৃপক্ষকে এড়িয়ে চলেছিলেন। যুক্তরাষ্ট্রের গোয়েন্দা তথ্যের ভিত্তিতে মেক্সিকোর বিশেষ বাহিনী গোপনীয়তা ও আকস্মিকতার মাধ্যমে তার অবস্থানে হানা দেয়।",
+        "details_en": "Mexico has stepped up efforts to tackle drug-related crime after coming under pressure from US President Donald Trump since he returned to the White House. Meza Flores, the leader of the Meza Flores Organisation, also known as the Guasave Cartel, is thought to have been active in the drug trafficking trade since the 1990s but managed to evade authorities till now by maintaining a relatively low profile. Using US intelligence on his whereabouts, Mexican special forces descended on his location using stealth and surprise.",
+        "hook_bn": "মেক্সিকোতে গুলিবিনিময়ে মাদকসম্রাট গ্রেপ্তার",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T01:01:34.144797+00:00"
+        "checked_at": "2026-11-22T02:01:54.727988+00:00"
+      }
+    },
+    {
+      "story_id": "1d897d4e-2c56-5937-a9a4-926c21901461",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-22%2Fbzo78lnj%2Frussian-cargo.avif?rect=0%2C221%2C960%2C504&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-22T01:04:23+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.5,
+      "rank_score": 3.9989,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/europe/z165rqc1hk",
+          "title": "বাল্টিক সাগরে ড্রোন হামলায় রুশ পণ্যবাহী জাহাজে আগুন",
+          "snippet": "বাল্টিক সাগরে ড্রোন হামলায় রুশ পণ্যবাহী জাহাজে আগুন"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাল্টিক সাগরে রুশ পণ্যবাহী জাহাজে ড্রোন হামলা",
+        "title_en": "Russian cargo ship hit by drone attack in Baltic Sea",
+        "summary_bn": "বাল্টিক সাগরে রাশিয়ার একটি পণ্যবাহী জাহাজে ড্রোন হামলায় আগুন ধরে যায় এবং ফিনল্যান্ড বলছে হামলাটি সম্ভবত ইউক্রেন চালিয়েছে।",
+        "summary_en": "A Russian cargo ship caught fire in the Baltic Sea following a drone attack, which Finland says was likely carried out by Ukraine.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-22T01:04:23+00:00",
+        "lead_bn": "বাল্টিক সাগরে রাশিয়ার একটি পণ্যবাহী জাহাজে ড্রোন হামলায় আগুন ধরে যায় এবং ফিনল্যান্ড বলছে হামলাটি সম্ভবত ইউক্রেন চালিয়েছে।",
+        "lead_en": "A Russian cargo ship caught fire in the Baltic Sea following a drone attack, which Finland says was likely carried out by Ukraine.",
+        "bullets_bn": [
+          "স্পার্টা-২ নামের জাহাজটির ১৬ নাবিক প্রথমে লাইফবোটে এবং পরে কাছের একটি রুশ জাহাজে ওঠেন।",
+          "ফিনল্যান্ডের সশস্ত্র বাহিনীর মুখপাত্র আকি-মাউরি হুহতিনেন বলেন যে সম্ভবত ইউক্রেন এ হামলার পেছনে রয়েছে।",
+          "জাহাজটি ফিনল্যান্ডের জলসীমায় নোঙর করা আছে এবং উদ্ধার অভিযানের নেতৃত্ব দিচ্ছে ফিনল্যান্ড।"
+        ],
+        "bullets_en": [
+          "The 16 crew members of the Sparta-2 ship boarded a life-boat and then a nearby Russian vessel.",
+          "Finnish armed forces spokesperson Aki-Mauri Huhtinen stated that Ukraine is probably behind the attack.",
+          "The ship is anchored in Finnish waters and Finland is leading the rescue operation."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "চলতি বছর রাশিয়ার উত্তর-পশ্চিমাঞ্চলের লেনিনগ্রাদ অঞ্চলের দিকে একের পর এক সামরিক ড্রোন পাঠিয়েছে ইউক্রেন। এর কয়েকটি পথ হারিয়ে বাল্টিক অঞ্চলের আকাশসীমায় ঢুকে পড়ে। ফিনল্যান্ডের প্রতিরক্ষা বাহিনী জানিয়েছে, রাশিয়ার সামরিক বাহিনীর সঙ্গে সম্পর্কিত জাহাজটি কালিনিনগ্রাদে যাচ্ছিল এবং রাশিয়ার গোগল্যান্ড দ্বীপের পশ্চিমে আন্তর্জাতিক জলসীমায় এটি ক্ষতিগ্রস্ত হয়। উদ্ধার অভিযানের সময় রাশিয়ার একটি হেলিকপ্টার অল্প সময়ের জন্য ফিনল্যান্ডের আকাশসীমা লঙ্ঘন করেছে বলে সন্দেহ করা হচ্ছে।",
+        "details_en": "Ukraine has sent multiple military drones toward Russia's northwestern Leningrad region this year, some of which strayed into the Baltic airspace. Finnish defense forces stated that the military-linked ship was heading to Kaliningrad and was damaged in international waters west of Russia's Gogland island. Authorities suspect a Russian helicopter briefly violated Finnish airspace during the rescue operation.",
+        "hook_bn": "সমభাবত ইউক্রেন এ হামলার পেছনে রয়েছে",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-22T02:01:54.727988+00:00"
+      }
+    },
+    {
+      "story_id": "8095ebf5-c419-544c-a5cb-c88d479f300d",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "climate_environment"
+      ],
+      "region": "international",
+      "tags": [
+        "#Nigeria",
+        "#BayelsaState",
+        "#BolaTinubu",
+        "#NationalEmergencyManagementAgency"
+      ],
+      "image_url": "https://static.dw.com/image/78967690_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-21T23:52:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.2069,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/nigeria-at-least-24-dead-after-boat-capsizes/a-80011248?maca=en-rss-en-all-1573-rdf",
+          "title": "Nigeria: At least 24 dead after boat capsizes",
+          "snippet": "Nigeria: At least 24 dead after boat capsizes"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নাইজেরিয়ায় নৌকাডুবিতে অন্তত ২৪ জনের মৃত্যু",
+        "title_en": "At least 24 dead after boat capsizes in Nigeria",
+        "summary_bn": "দক্ষিণ নাইজেরিয়ায় একটি নৌকা ডুবে যাওয়ার পর অন্তত ২৪ জনের মরদেহ উদ্ধার করা হয়েছে এবং উদ্ধার অভিযান চলছে।",
+        "summary_en": "At least 24 people have died after a boat capsized in southern Nigeria, and search and rescue operations are ongoing.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-21T23:52:00+00:00",
+        "lead_bn": "দক্ষিণ নাইজেরিয়ায় একটি নৌকা ডুবে যাওয়ার পর অন্তত ২৪ জনের মরদেহ উদ্ধার করা হয়েছে এবং উদ্ধার অভিযান চলছে।",
+        "lead_en": "At least 24 people have died after a boat capsized in southern Nigeria, and search and rescue operations are ongoing.",
+        "bullets_bn": [
+          "নৌকাটি আয়ামা শহর থেকে ইউকুবিতে একটি অন্ত্যেষ্টিক্রিয়ার শোকসন্তপ্ত যাত্রীদের বহন করছিল।",
+          "নাইজেরিয়ার প্রেসিডেন্ট বোলা টিনুউ এক্স-এ এক বিবৃতিতে বলেছেন যে নিহত ব্যক্তিরা এভাবে মরার যোগ্য ছিলেন না।",
+          "প্রাথমিক প্রতিবেদন অনুযায়ী নৌকাটিতে যান্ত্রিক ত্রুটি দেখা দিয়েছিল বলে পুলিশ জানিয়েছে।"
+        ],
+        "bullets_en": [
+          "The boat was carrying mourners for a burial ceremony from the town of Ayama to Ukubie.",
+          "Nigerian President Bola Tinubu said in a statement on X that those who lost their lives did not deserve to die that way.",
+          "Police spokesman Musa Mohammed said that preliminary reports suggested the boat suffered a mechanical problem."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "দক্ষিণ নাইজেরিয়ার বেলেসা রাজ্যে এই দুর্ঘটনা ঘটে। পুলিশ জানায়, প্রথম দিনে পানি থেকে চার জনের মরদেহ উদ্ধারের সময় দুই শিশুও ছিল এবং সে সময় ২৪ জন জীবিত উদ্ধার হন। তবে বোর্ডে ঠিক কতজন যাত্রী ছিলেন তা কর্তৃপক্ষ নিশ্চিত করতে পারেনি। নাইজেরিয়ার ব্যস্ত নদীগুলোতে অতিরিক্ত বোঝাই, নৌযানের দুর্বল রক্ষণাবেক্ষণ এবং নিরাপত্তা নিয়ম মেনে না চলার কারণে নৌকা দুর্ঘটনা সচরাচর ঘটে থাকে।",
+        "details_en": "The incident occurred on Friday in southern Bayelsa State when the boat sank while traveling from Ayama to Ukubie. Police reported that two children were among four bodies initially recovered along with 24 survivors, though authorities have not confirmed total passenger numbers. Boat accidents are common on Nigeria's busy river networks due to overloading, poor vessel maintenance, and failure to comply with safety norms.",
+        "hook_bn": "দক্ষিণ নাইজেরিয়ায় নৌকাডুবিতে অন্তত ২৪ জনের মৃত্যু",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-22T02:01:54.727988+00:00"
       }
     }
   ]
