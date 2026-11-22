@@ -1,200 +1,236 @@
 {
-  "updated_at": "2026-11-22T21:00:50.883368",
+  "updated_at": "2026-11-22T22:00:43.399321",
   "total_stories": 3,
   "stories": [
     {
-      "story_id": "8606582c-80a7-5165-9df9-f36fc5ae0058",
-      "primary_category": "world_diplomacy",
+      "story_id": "c6911896-edbd-5e00-81bd-c11636781524",
+      "primary_category": "society_education",
       "interest_categories": [
+        "society_education",
         "world_diplomacy",
-        "climate_environment"
+        "climate_environment",
+        "governance_law",
+        "tech_innovation"
       ],
       "region": "national",
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#Bangladesh",
+        "#NationalAffairs"
       ],
-      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/RUSH.jpg",
+      "image_url": "https://i.guim.co.uk/img/media/807a7655d731bfbb7ed51cf1b1cc24c153a66ea9/503_0_5014_4013/master/5014.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=b2c40f40e9bb4687c73a113345d6884a",
       "image_caption": null,
-      "published_at": "2026-11-22T18:04:39+00:00",
+      "published_at": "2026-11-22T21:44:18+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.9436,
+      "importance_score": 7.0,
+      "rank_score": 4.8199,
       "sources": [
         {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/international/post-1224507/",
-          "title": "ড্রোন হামলায় লিবিয়ার বন্দরে রুশ জাহাজে বিস্ফোরণ",
-          "snippet": "ড্রোন হামলায় লিবিয়ার বন্দরে রুশ জাহাজে বিস্ফোরণ"
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+          "title": "Australian politics live: Labor to extend PBS medicine freeze to 2030; Bowen ‘failed’ on Cop, Hume says",
+          "snippet": "Australian politics live: Labor to extend PBS medicine freeze to 2030; Bowen ‘failed’ on Cop, Hume says"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/opinion/editorial/425457/we-are-losing-the-fight-against-dengue",
+          "title": "We are losing the fight against dengue",
+          "snippet": "We are losing the fight against dengue"
         }
       ],
       "daily_buzz": {
-        "title_bn": "লিবিয়ার বন্দরে রুশ জাহাজে বিস্ফোরণ",
-        "title_en": "Explosion on a Russian ship at a Libyan port",
-        "summary_bn": "লিবিয়ার বেনগাজি নৌঘাঁটির বন্দরে জ্বালানি ও প্রয়োজনীয় সরঞ্জাম নেওয়ার সময় একটি রুশ জাহাজে বিস্ফোরণের ঘটনা ঘটেছে।",
-        "summary_en": "An explosion occurred on a Russian ship while stopping at the port of Libya's Benghazi naval base for fuel and supplies.",
+        "title_bn": "ডেঙ্গুতে মৃত্যু ও হাসপাতালে ভর্তি দ্রুত বাড়ছে।",
+        "title_en": "Dengue deaths and hospitalizations are rising rapidly.",
+        "summary_bn": "বাংলাদেশে ডেঙ্গু পরিস্থিতির অবনতি ঘটেছে এবং এটি দেশের ইতিহাসের তৃতীয় সর্বোচ্চ প্রাণঘাতী প্রাদুর্ভাব।",
+        "summary_en": "The dengue situation in Bangladesh has deteriorated, marking the third-deadliest outbreak in the country's history.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "world_diplomacy",
+          "climate_environment",
+          "governance_law",
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-22T21:44:18+00:00",
+        "lead_bn": "বাংলাদেশে ডেঙ্গু পরিস্থিতির অবনতি ঘটেছে এবং এটি দেশের ইতিহাসের তৃতীয় সর্বোচ্চ প্রাণঘাতী প্রাদুর্ভাব।",
+        "lead_en": "The dengue situation in Bangladesh has deteriorated, marking the third-deadliest outbreak in the country's history.",
+        "bullets_bn": [
+          "এখন পর্যন্ত ৫১৮ জন নিশ্চিত মৃত্যুর খবর পাওয়া গেছে।",
+          "চলতি বছর হাসপাতালে ভর্তির সংখ্যা ১ লক্ষ ৭৫ হাজারের কাছাকাছি পৌঁছেছে।",
+          "ডেঙ্গু মোকাবেলায় বর্তমান পদক্ষেপগুলোকে অপর্যাপ্ত হিসেবে বর্ণনা করা হয়েছে।"
+        ],
+        "bullets_en": [
+          "Confirmed deaths have reached 518 as of writing this editorial.",
+          "Hospitalizations recorded so far this year are fast approaching 175,000.",
+          "The response to dengue remains inadequate three years after the Directorate General of Health."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বাংলাদেশে ডেঙ্গু প্রাদুর্ভাবের বিরুদ্ধে লড়াইয়ে পরিস্থিতি অত্যন্ত আশঙ্কাজনক পর্যায়ে পৌঁছেছে এবং এ পর্যন্ত রেকর্ডকৃত তথ্য অনুযায়ী এটি দেশের ইতিহাসে তৃতীয় সর্বোচ্চ প্রাণঘাতী outbreak।",
+        "details_en": "The fight against the dengue outbreak in Bangladesh has reached a critical stage, with recorded figures marking it as the third-deadliest outbreak in the country's history.",
+        "hook_bn": "ডেঙ্গুতে মৃত্যু ছাড়াল পাঁচশো আট",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": "আপনার এলাকায় ডেঙ্গু মোকাবেলায় কী ধরনের পদক্ষেপ নেওয়া হচ্ছে?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-22T22:02:24.697152+00:00"
+      }
+    },
+    {
+      "story_id": "055d67d5-d28c-5dd5-8933-87c134e8e56a",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Y29uc3VtZXIlMjByaWdodHMlMjBwcm90ZWN0aW9uJTIwZGVwYXJ0bWVudCUyMGJ1c2luZXNzfGVufDF8MHx8fDE3OTUzODQ5MjB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-22T21:45:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.25,
+      "rank_score": 2.713,
+      "sources": [
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822511/%E0%A6%B0%E0%A6%99-%E0%A6%AE%E0%A7%87%E0%A6%B6%E0%A6%BE%E0%A6%A8%E0%A7%8B-%E0%A6%B6%E0%A7%81%E0%A6%81%E0%A6%9F%E0%A6%95%E0%A6%BF-%E0%A6%AA%E0%A6%9A%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%82%E0%A6%B8-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A6%95%E0%A7%87",
+          "title": "রঙ মেশানো শুঁটকি-পচা মাংস বিক্রি, তিন প্রতিষ্ঠানকে জরিমানা",
+          "snippet": "রঙ মেশানো শুঁটকি-পচা মাংস বিক্রি, তিন প্রতিষ্ঠানকে জরিমানা"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1182513",
+          "title": "৩৪ জেলায় ৭৭ প্রতিষ্ঠানকে জরিমানা",
+          "snippet": "৩৪ জেলায় ৭৭ প্রতিষ্ঠানকে জরিমানা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "চাঁদপুরে তিন প্রতিষ্ঠানকে ২০ হাজার টাকা জরিমানা করেছে ভোক্তা অধিকার সংরক্ষণ অধিদপ্তর।",
+        "title_en": "Consumer Rights Protection Department fined three establishments 20 thousand taka in Chandpur.",
+        "summary_bn": "জাতীয় ভোক্তা অধিকার সংরক্ষণ অধিদপ্তর চাঁদপুরে রঙ মেশানো শুঁটকি বিক্রি ও পচা মাংস মজুতের দায়ে তিন প্রতিষ্ঠানকে মোট ২০ হাজার টাকা জরিমানা করেছে।",
+        "summary_en": "The Directorate of National Consumer Rights Protection fined three establishments a total of 20 thousand taka in Chandpur for selling dyed dried fish and stocking rotten meat.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-22T21:45:00+00:00",
+        "lead_bn": "জাতীয় ভোক্তা অধিকার সংরক্ষণ অধিদপ্তর চাঁদপুরে রঙ মেশানো শুঁটকি বিক্রি ও পচা মাংস মজুতের দায়ে তিন প্রতিষ্ঠানকে মোট ২০ হাজার টাকা জরিমানা করেছে।",
+        "lead_en": "The Directorate of National Consumer Rights Protection fined three establishments a total of 20 thousand taka in Chandpur for selling dyed dried fish and stocking rotten meat.",
+        "bullets_bn": [
+          "রোববার ২২ নভেম্বর চাঁদপুর শহরের বাবুরহাট বাজারে এই অভিযান চালানো হয়।",
+          "অভিযানে উত্তম কুমার সরকারকে ১০ হাজার টাকা জরিমানা করা হয়েছে।",
+          "আমিন পাটোয়ারী ও একতা ট্রেডার্সকে ৫ হাজার টাকা করে জরিমানা করা হয়েছে।"
+        ],
+        "bullets_en": [
+          "The drive was conducted at Baburhat Bazar in Chandpur town on Sunday 22 November.",
+          "Uttam Kumar Sarkar was fined 10 thousand taka in the drive.",
+          "Amin Patwari and Ekota Traders were each fined 5 thousand taka."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "জাতীয় ভোক্তা অধিকার সংরক্ষণ অধিদপ্তর ভোজ্যতেলসহ নিত্যপ্রয়োজনীয় পণ্যের বাজারে মূল্য স্থিতিশীল রাখা, স্বাভাবিক সরবরাহ নিশ্চিত করা এবং নকল-ভেজাল খাদ্যপণ্য প্রতিরোধসহ নিরাপদ খাদ্য নিশ্চিতকরণের লক্ষ্যে এই অভিযান পরিচালনা করে।",
+        "details_en": "The Directorate of National Consumer Rights Protection conducted this drive to keep prices stable in the market for edible oil and other daily commodities, ensure normal supply of goods, and ensure safe food by preventing fake and adulterated food products.",
+        "hook_bn": "চাঁদপুরে ভেজাল পণ্যের দায়ে তিন প্রতিষ্ঠানকে জরিমানা",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": "আপনার এলাকায় বাজারে এ ধরনের ভেজাল রোধে কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-22T22:02:24.697152+00:00"
+      }
+    },
+    {
+      "story_id": "59bb2de8-c192-5518-ad06-26383f60c0df",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#HouseDemocrats",
+        "#ChuckHubbard"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/5f402191919a3838c9536ca633ae08dfe18991da/530_0_4817_3854/master/4817.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=55a79b30034ae865497535ef2879a83e",
+      "image_caption": null,
+      "published_at": "2026-11-22T19:17:56+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.5,
+      "rank_score": 2.5845,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
+          "title": "Democrats capture at least 258 House seats in largest sweep since 1992",
+          "snippet": "Democrats capture at least 258 House seats in largest sweep since 1992"
+        },
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+          "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+          "snippet": "Democrats win largest House majority since 1992 after flipping North Carolina seat"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মার্কিন প্রতিনিধি পরিষদে ১৯৯২ সালের পর ডেমোক্র্যাটদের বৃহত্তম জয়",
+        "title_en": "Democrats capture at least 258 House seats in largest sweep since 1992",
+        "summary_bn": "মার্কিন মধ্যবর্তী নির্বাচনে ডেমোক্র্যাটরা কমপক্ষে ২৫৮টি হাউস আসন জিতে ১৯৯২ সালের পর তাদের সেরা সাধারণ নির্বাচন ফলাফল অর্জন করেছে।",
+        "summary_en": "House Democrats have secured their best general election result in decades, winning at least 258 seats in a midterm election sweep.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "climate_environment"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T18:04:39+00:00",
-        "lead_bn": "লিবিয়ার বেনগাজি নৌঘাঁটির বন্দরে জ্বালানি ও প্রয়োজনীয় সরঞ্জাম নেওয়ার সময় একটি রুশ জাহাজে বিস্ফোরণের ঘটনা ঘটেছে।",
-        "lead_en": "An explosion occurred on a Russian ship while stopping at the port of Libya's Benghazi naval base for fuel and supplies.",
+        "published_at": "2026-11-22T19:17:56+00:00",
+        "lead_bn": "মার্কিন মধ্যবর্তী নির্বাচনে ডেমোক্র্যাটরা কমপক্ষে ২৫৮টি হাউস আসন জিতে ১৯৯২ সালের পর তাদের সেরা সাধারণ নির্বাচন ফলাফল অর্জন করেছে।",
+        "lead_en": "House Democrats have secured their best general election result in decades, winning at least 258 seats in a midterm election sweep.",
         "bullets_bn": [
-          "রোববার এই বিস্ফোরণ ঘটে এবং সন্দেহ করা হচ্ছে এটি ড্রোন হামলার কারণে হয়েছে।",
-          "লিবিয়ার পূর্বাঞ্চলভিত্তিক গভর্নমেন্ট অব ন্যাশনাল স্ট্যাবিলিটি জানিয়েছে, এই ঘটনায় কেউ হতাহত হয়নি।",
-          "হামলার উৎস ও এর জন্য কারা দায়ী তা নির্ধারণে রুশ কর্তৃপক্ষের সঙ্গে সমন্বয় চলছে।"
+          "উত্তরাকারোলিনায় রিপাবলিকান প্রতিনিধি ভার্জিনিয়া ফক্সকে ডেমোক্র্যাট চাক হাবার্ড পরাজিত করার পর এই ২৫৮টি আসনের সংখ্যা নিশ্চিত হয়।",
+          "ডেমোক্র্যাট প্রতিনিধি জেসন ক্রো বলেছেন, এই জয়ের পর তাদের ওপর চাপ অনুভব করা উচিত।",
+          "হাউসের ৪৩৫টি আসনের এই মাইলফলকটি ডেমোক্র্যাটদের জন্য একটি বিভক্ত সরকার তৈরি করেছে যেখানে সিনেটও ডেমোক্র্যাটদের হাতে রয়েছে।"
         ],
         "bullets_en": [
-          "The explosion occurred on Sunday and is suspected to be due to a drone attack.",
-          "Libya's eastern-based Government of National Stability stated that there were no casualties in this incident.",
-          "Coordination is underway with Russian authorities to determine the source of the attack and who is responsible."
+          "The 258-seat tally was reached after Democrat Chuck Hubbard defeated Republican representative Virginia Foxx in North Carolina.",
+          "Democratic representative Jason Crow said that they should feel pressure following the victory.",
+          "This milestone in the 435-member House sets up a divided government with the Senate also in Democratic hands."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "পূর্বাঞ্চলীয় সরকার জানিয়েছে, জাহাজটি রাশিয়ায় ফেরার পথে বেনগাজি বন্দরে অবস্থান করছিল এবং বিদ্যমান সামুদ্রিক চুক্তির আওতায় এর অনুমতির বিষয়টি নিশ্চিত করা হয়। স্যাটেলাইট চিত্র ও ভিডিওতে বন্দরে জাহাজে আগুন ও ধোঁয়া দেখা গেছে। এর আগে বাল্টিক সাগরে রাশিয়ার আরেকটি পণ্যবাহী জাহাজে ড্রোন হামলার ঘটনা ঘটেছিল।",
-        "details_en": "The eastern government stated that the ship was stationed at the Benghazi port on its way back to Russia under an existing maritime agreement. Satellite imagery and videos showed fire and smoke on the ship at the port. Earlier, another Russian cargo ship was targeted by a drone attack in the Baltic Sea.",
-        "hook_bn": "লিবিয়ার বন্দরে রুশ জাহাজে বিস্ফোরণ",
+        "details_bn": "ডেমোক্র্যাটরা ডোনাল্ড ট্রাম্পের প্রথম মধ্যবর্তী নির্বাচন ২০১৮ সালের তুলনায় এবার ৪টি বেশি আসনসহ মোট ৪৪টি হাউস আসন জিতেছে। রিপাবলিকানরা সংখ্যালঘু হিসেবে কমপক্ষে ১৭৩টি আসন পাবে এবং মিনেসোটা, টেনেসি ও লুইসিয়ানার অবশিষ্ট চারটি আসনের ফল এখনো বাকি রয়েছে। এই সংখ্যাগরিষ্ঠতা বিল ক্লিনটন বা বারাক ওবামার সময়কালের চেয়ে বড়, যা দলটিকে জীবনযাত্রার উচ্চ ব্যয় মোকাবিলার জন্য ১০০ দিনের এজেন্ডা প্রস্তুত করতে সহায়তা করছে।",
+        "details_en": "Democrats have gained 44 House seats so far, four more than the 40 they picked up in Donald Trump’s first midterm in 2018. Republicans will have at least 173 seats in the minority, while four House races remain outstanding. The majority sets up a divided government with a Republican president and the Senate in Democratic hands, as empowered Democrats prepare a 100-day agenda.",
+        "hook_bn": "'লাইক, হেল ইয়েস, আমাদের চাপ অনুভব করা উচিত'",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": true,
+      "social_appeal": 3.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T21:01:46.535793+00:00"
-      }
-    },
-    {
-      "story_id": "504fac7d-b51c-5a28-bbbf-0c21cec1a91d",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#StateOwnedBanks",
-        "#BankBoard",
-        "#GovernmentPolicy"
-      ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182676/p1-lead-info-outline.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-22T21:01:01.455112+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.5758,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/economy/serving-secretaries-debarred-from-state-owned-banks-boards",
-          "title": "Serving secretaries debarred from state-owned banks' boards",
-          "snippet": "Serving secretaries debarred from state-owned banks' boards"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রাষ্ট্রীয় ব্যাংকের বোর্ডে থাকতে পারবেন না কর্মরত সচিবরা",
-        "title_en": "Serving secretaries debarred from state-owned banks boards",
-        "summary_bn": "সরকারি মালিকানাধীন ও শেয়ার থাকা ব্যাংকের পরিচালক বা চেয়ারম্যান পদে নিয়োগের ক্ষেত্রে অযোগ্য ঘোষণা করা হয়েছে কর্মরত সচিবদের।",
-        "summary_en": "Serving secretaries or equivalent-grade officials are disqualified to be appointed or nominated as chairman or director of banks with government shares.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T21:01:01.455112+00:00",
-        "lead_bn": "সরকারি মালিকানাধীন ও শেয়ার থাকা ব্যাংকের পরিচালক বা চেয়ারম্যান পদে নিয়োগের ক্ষেত্রে অযোগ্য ঘোষণা করা হয়েছে কর্মরত সচিবদের।",
-        "lead_en": "Serving secretaries or equivalent-grade officials are disqualified to be appointed or nominated as chairman or director of banks with government shares.",
-        "bullets_bn": [
-          "সরকারি ব্যাংক ও আর্থিক প্রতিষ্ঠানে চেয়ারম্যান বা পরিচালক নিয়োগের নতুন নীতিমালায় এই সিদ্ধান্ত নেওয়া হয়েছে।",
-          "বোর্ড অব ডিরেক্টরসে চার্টার্ড অ্যাকাউন্ট্যান্ট, আইনি বিশেষজ্ঞ ও অভিজ্ঞ অবসরপ্রাপ্ত ব্যাংকার রাখার কথা বলা হয়েছে।",
-          "স্বার্থের সংঘাত থাকলে সংশ্লিষ্ট প্রার্থীকে নিয়োগ বা মনোনয়নের জন্য অযোগ্য হিসেবে বিবেচনা করা হবে।"
-        ],
-        "bullets_en": [
-          "The decision is carried in a latest unveiled policy for appointment or nomination of chairman or director in state-owned banks.",
-          "A bank board shall include one Chartered Accountant, one legal expert, and one experienced retired banker.",
-          "If any matter involving a conflict of interest exists, the candidate shall be considered ineligible for appointment or nomination."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "রাষ্ট্রীয় বাণিজ্যিক ব্যাংক, বিশেষায়িত ব্যাংক এবং আর্থিক প্রতিষ্ঠানের পাশাপাশি যেসব বেসরকারি ব্যাংক ও আর্থিক প্রতিষ্ঠানে সরকারের অংশীদারিত্ব রয়েছে, সেগুলোর চেয়ারম্যান ও পরিচালক নিয়োগের নতুন নীতিমালায় এই সিদ্ধান্ত অন্তর্ভুক্ত করা হয়েছে। ব্যাংক কোম্পানী আইন ১৯৯১ অনুযায়ী যেখানে প্রযোজ্য, সেখানে স্বতন্ত্র পরিচালক নিয়োগ বা মনোনয়ন দেওয়া হবে।",
-        "details_en": "The decision is carried in a latest unveiled policy for appointment or nomination of chairman or director in state-owned commercial banks, specialised banks, financial institutions, and private banks and financial institutions in which the government holds stakes. Independent directors will be appointed or nominated, where applicable, in accordance with the Bank Company Act 1991.",
-        "hook_bn": "রাষ্ট্রীয় ব্যাংকের বোর্ডে থাকবেন না সচিবরা",
-        "kicker_bn": "নতুন নীতি",
-        "share_value": true,
-        "question_bn": "রাষ্ট্রীয় ব্যাংকগুলোর বোর্ডে পেশাজীবীদের অন্তর্ভুক্তি নিয়ে আপনার মতামত কী?"
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T21:01:46.535793+00:00"
-      }
-    },
-    {
-      "story_id": "5a393bf8-dde7-5529-a65f-fcd164e4e0b2",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#SaintMartin",
-        "#CoxBazar",
-        "#BIWTA"
-      ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182673/16366.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-22T21:01:01.455112+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.5758,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/ship-services-to-st-martin-resume-after-three-day-suspension",
-          "title": "Ship services to St. Martin resume after three-day suspension",
-          "snippet": "Ship services to St. Martin resume after three-day suspension"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "খারাপ আবহাওয়া কেটে যাওয়ায় সেন্ট মার্টিনে জাহাজ চলাচল শুরু হয়েছে।",
-        "title_en": "Ship services to Saint Martin resumed after adverse weather cleared.",
-        "summary_bn": "খারাপ আবহাওয়ার কারণে তিন দিন বন্ধ থাকার পর কক্সবাজার-সেন্ট মার্টিন রুটে জাহাজ চলাচল শুরু হয়েছে।",
-        "summary_en": "Ship services on the Cox’s Bazar-Saint Martin route resumed after remaining suspended for three days due to adverse weather.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T21:01:01.455112+00:00",
-        "lead_bn": "খারাপ আবহাওয়ার কারণে তিন দিন বন্ধ থাকার পর কক্সবাজার-সেন্ট মার্টিন রুটে জাহাজ চলাচল শুরু হয়েছে।",
-        "lead_en": "Ship services on the Cox’s Bazar-Saint Martin route resumed after remaining suspended for three days due to adverse weather.",
-        "bullets_bn": [
-          "রোববার সকালে পাঁচটি জাহাজ ১,৮৭০ জন পর্যটক নিয়ে কক্সবাজারের বিআইডব্লিউটিএ জেটিঘাট থেকে সেন্ট মার্টিন দ্বীপের উদ্দেশ্যে ছেড়ে যায়।",
-          "বিকেল চারটার দিকে প্রায় ৮০০ জন আটকে থাকা পর্যটক নিয়ে জাহাজগুলো কক্সবাজারের উদ্দেশ্যে ফিরতি যাত্রা শুরু করে।",
-          "সেন্ট মার্টিন ইউনিয়ন পরিষদের ভারপ্রাপ্ত চেয়ারম্যান ফয়েজুল ইসলাম জানান, খারাপ আবহাওয়ার কারণে প্রায় ১,৫০০ পর্যটক দ্বীপে আটকা পড়েছিলেন।"
-        ],
-        "bullets_en": [
-          "Five ships carrying 1,870 tourists left the BIWTA Jetty Ghat in Cox’s Bazar for Saint Martin on Sunday morning.",
-          "At around 4:00 pm, the ships carrying around 800 stranded tourists started their return journey to Cox’s Bazar.",
-          "Acting Chairman of Saint Martin Union Parishad Foyezul Islam said around 1,500 tourists had been stranded due to inclement weather."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বঙ্গোপসাগরে ঘূর্ণিঝড় ‘আকভান’-এর প্রভাবে সৃষ্ট উত্তাল সমুদ্রের কারণে থেকে প্রশাসন এই রুটে জাহাজ চলাচল স্থগিতের নির্দেশ দিয়েছিল। এর ফলে ১৭ ও ১৮ নভেম্বর দ্বীপে যাওয়া অনেক পর্যটক আটকা পড়েন। পরবর্তীতে প্রশাসনের অনুমতি নিয়ে ১৬টি ট্রলারে করে সাত শর বেশি পর্যটক টেকনাফের মাধ্যমে ফিরে যান। বাকি পর্যটকেরা রোববারের জাহাজে কক্সবাজারে ফেরেন।",
-        "details_en": "Due to rough seas in the Bay of Bengal under the influence of Cyclone ‘Akvan’, the administration had ordered the suspension of ship services on the route from last Thursday. As a result, tourists who visited on November 17 and 18 became stranded. Later, with permission from the local administration, more than 700 tourists returned via Teknaf in 16 trawlers while the rest returned by ships.",
-        "hook_bn": "সেন্ট মার্টিনে আটকে পড়া পর্যটকেরা ফিরছেন",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T21:01:46.535793+00:00"
+        "checked_at": "2026-11-22T22:02:24.697152+00:00"
       }
     }
   ]
