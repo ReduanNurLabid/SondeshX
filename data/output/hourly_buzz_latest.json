@@ -1,135 +1,66 @@
 {
-  "updated_at": "2026-11-22T03:00:47.947392",
-  "total_stories": 5,
+  "updated_at": "2026-11-22T04:00:38.752824",
+  "total_stories": 1,
   "stories": [
     {
-      "story_id": "d96e3c1f-aad7-5b93-bebe-3c8873521edd",
-      "primary_category": "society_education",
+      "story_id": "14eeefa5-3193-5842-a599-49752c6d9c80",
+      "primary_category": "sports_fitness",
       "interest_categories": [
-        "society_education",
-        "governance_law"
+        "sports_fitness",
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#Sports",
+        "#BangladeshCricket"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2024-09-19%2Ffkqz6p73%2F1.png?rect=11%2C0%2C596%2C313&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-22%2Fy2rhl7pd%2F936690-01-02.jpg?rect=0%2C0%2C3864%2C2029&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-22T02:25:32+00:00",
+      "published_at": "2026-11-22T03:11:31+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.7326,
+      "importance_score": 6.0,
+      "rank_score": 3.4321,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/education/admission/cvv5ei2c7o",
-          "title": "বেসরকারি স্কুলে ভর্তি: অতিরিক্ত ভর্তি ফি নিলে বাতিল এমপিও, পুনঃভর্তি ফি নিষিদ্ধ",
-          "snippet": "বেসরকারি স্কুলে ভর্তি: অতিরিক্ত ভর্তি ফি নিলে বাতিল এমপিও, পুনঃভর্তি ফি নিষিদ্ধ"
+          "url": "https://www.prothomalo.com/sports/cricket/ix0e1vcfbs",
+          "title": "নিউজিল্যান্ডের মাটিতে ভারতের ইতিহাস, ৭২০ রান তুলে গড়েছে রেকর্ডের পর রেকর্ড",
+          "snippet": "নিউজিল্যান্ডের মাটিতে ভারতের ইতিহাস, ৭২০ রান তুলে গড়েছে রেকর্ডের পর রেকর্ড"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বেসরকারি স্কুলে অতিরিক্ত ফি নিলে এমপিও বাতিল করবে শিক্ষা মন্ত্রণালয়",
-        "title_en": "Education ministry warns MPO cancellation for excess admission fees in private schools",
-        "summary_bn": "বেসরকারি স্কুলে অতিরিক্ত ভর্তি ফি নিলে এমপিও বাতিল ও আইনি ব্যবস্থা নেওয়ার নির্দেশ দিয়েছে শিক্ষা মন্ত্রণালয়।",
-        "summary_en": "The education ministry has ordered MPO cancellation and legal action for taking excess admission fees in private schools.",
+        "title_bn": "নিউজিল্যান্ডে ৭২০ রান তুলে টেস্টে নতুন রেকর্ড গড়েছে ভারত",
+        "title_en": "India sets new Test record by scoring 720 runs in New Zealand",
+        "summary_bn": "ওয়েলিংটনের বেসিন রিজার্ভে প্রথম টেস্টের প্রথম ইনিংসে ৯ উইকেটে ৭২০ রান তুলে ইনিংস ঘোষণা করেছে সফরকারী ভারত।",
+        "summary_en": "Visiting India declared their first innings at 9 wickets for 720 runs in the first Test at the Basin Reserve in Wellington.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
-          "governance_law"
+          "sports_fitness",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T02:25:32+00:00",
-        "lead_bn": "বেসরকারি স্কুলে অতিরিক্ত ভর্তি ফি নিলে এমপিও বাতিল ও আইনি ব্যবস্থা নেওয়ার নির্দেশ দিয়েছে শিক্ষা মন্ত্রণালয়।",
-        "lead_en": "The education ministry has ordered MPO cancellation and legal action for taking excess admission fees in private schools.",
+        "published_at": "2026-11-22T03:11:31+00:00",
+        "lead_bn": "ওয়েলিংটনের বেসিন রিজার্ভে প্রথম টেস্টের প্রথম ইনিংসে ৯ উইকেটে ৭২০ রান তুলে ইনিংস ঘোষণা করেছে সফরকারী ভারত।",
+        "lead_en": "Visiting India declared their first innings at 9 wickets for 720 runs in the first Test at the Basin Reserve in Wellington.",
         "bullets_bn": [
-          "প্রথম শ্রেণিতে ভর্তির ক্ষেত্রে শিক্ষার্থীদের ন্যূনতম বয়স ছয় বছর নির্ধারণ করা হয়েছে।",
-          "একই প্রতিষ্ঠানে এক শ্রেণি থেকে পরবর্তী শ্রেণিতে উত্তীর্ণ শিক্ষার্থীদের পুনঃভর্তি ফি আদায় নিষিদ্ধ করা হয়েছে।",
-          "অনলাইনে প্রথম শ্রেণির আবেদন ফরমের মূল্য সর্বোচ্চ ১১০ টাকা এবং দ্বিতীয় থেকে নবম শ্রেণির মূল্য ২৫০ টাকা নির্ধারণ করা হয়েছে।"
+          "এটি নিউজিল্যান্ডের বিপক্ষে টেস্টে এবং নিউজিল্যান্ডের মাটিতে কোনো দলের এক ইনিংসে সর্বোচ্চ সংগ্রহ।",
+          "ভারতের ইনিংসের প্রথম ৭ জুটিতেই এসেছে পঞ্চাশোর্ধ রানের জুটি, যা টেস্ট ইতিহাসেই প্রথম।",
+          "নিউজিল্যান্ডের বিপক্ষে ভারতের প্রথম ইনিংসের লিড দাঁড়িয়েছে ৩৫২ রান।"
         ],
         "bullets_en": [
-          "The minimum age for admission to the first grade has been set at six years.",
-          "Re-admission fee collection for students passing from one class to the next in the same institution has been banned.",
-          "Online application form price for the first grade is set at a maximum of 110 taka and 250 taka for second to ninth grades."
+          "This is the highest total in a Test innings against New Zealand and on New Zealand soil.",
+          "The first 7 partnerships of India's innings all crossed fifty runs, a first in Test history.",
+          "India's first innings lead against New Zealand stands at 352 runs."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "১০ নভেম্বর শিক্ষা মন্ত্রণালয়ের মাধ্যমিক ও উচ্চশিক্ষা বিভাগ থেকে ২০২৭ শিক্ষাবর্ষের ভর্তি নীতিমালায় এসব নির্দেশনা জারি করা হয়েছে। নতুন নীতিমালায় সেশন চার্জসহ ভর্তি ফির সর্বোচ্চ সীমা নির্ধারণ করে দেওয়া হয়েছে এবং উন্নয়ন ফির নামে ৩ হাজার টাকার বেশি আদায় নিষিদ্ধ করা হয়েছে।",
-        "details_en": "These directives were issued in the admission policy for the 2027 academic year by the Secondary and Higher Education Division of the Ministry of Education on November 10. The new policy sets maximum limits for admission fees including session charges and prohibits collecting more than 3,000 taka in the name of development fees.",
-        "hook_bn": "বেসরকারি স্কুলে অতিরিক্ত ফি নিলে বাতিল এমপিও",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": "আপনার এলাকার বেসরকারি স্কুলে ভর্তি ফি কত রাখা উচিত বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T03:02:04.364281+00:00"
-      }
-    },
-    {
-      "story_id": "de4fdc88-f320-545e-8cf5-48c1b1183654",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#IncomeTax",
-        "#RAPID",
-        "#NBR"
-      ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182539/2095441dccabac0c439268da6eb78d4a.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-22T03:00:56.699902+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5976,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/less-than-4pc-of-labour-force-pays-income-tax-lowest-in-south-asia",
-          "title": "Less than 4pc of labour force pays income tax, lowest in South Asia",
-          "snippet": "Less than 4pc of labour force pays income tax, lowest in South Asia"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "দক্ষিণ এশিয়ায় সবচেয়ে কম আয়কর প্রদানকারী শ্রমশক্তি বাংলাদেশের",
-        "title_en": "Bangladesh labour force has South Asia lowest income tax share",
-        "summary_bn": "বাংলাদেশের মোট শ্রমশক্তির মাত্র ৩.৩৭ শতাংশ সক্রিয় ব্যক্তিগত আয়করদাতা, যা দক্ষিণ এশিয়ায় সর্বনিম্ন বলে এক গবেষণায় উঠে এসেছে।",
-        "summary_en": "Active personal income taxpayers account for only 3.37 per cent of Bangladesh total labour force, the lowest in South Asia, a study shows.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T03:00:56.699902+00:00",
-        "lead_bn": "বাংলাদেশের মোট শ্রমশক্তির মাত্র ৩.৩৭ শতাংশ সক্রিয় ব্যক্তিগত আয়করদাতা, যা দক্ষিণ এশিয়ায় সর্বনিম্ন বলে এক গবেষণায় উঠে এসেছে।",
-        "lead_en": "Active personal income taxpayers account for only 3.37 per cent of Bangladesh total labour force, the lowest in South Asia, a study shows.",
-        "bullets_bn": [
-          "গবেষণায় বলা হয়েছে, পাকিস্তানে এই হার ৭.০৪ শতাংশ, ভারতে ১৩.৪৩ শতাংশ, ভুটানে ২৯.৭৪ শতাংশ এবং নেপালে ৪১.৮৬ শতাংশ।",
-          "গবেষণাটি উন্মোচন করেছে রিসার্চ অ্যান্ড পলিসি ইন্টিগ্রেশন ফর ডেভেলপমেন্ট এবং ফ্রেডরিখ এবার্ট স্টেফটিং।",
-          "সম্পূর্ণ কর আইন মানা হলে ব্যক্তিগত আয়কর থেকে জিডিপির ৪.৮৫ শতাংশ এবং ভ্যাট থেকে ৩.৮২ শতাংশ রাজস্ব আহরণ সম্ভব ছিল।"
-        ],
-        "bullets_en": [
-          "The proportion is 7.04 per cent in Pakistan, 13.43 per cent in India, 29.74 per cent in Bhutan and 41.86 per cent in Nepal.",
-          "The findings were unveiled by Research and Policy Integration for Development with support from Friedrich-Ebert-Stiftung.",
-          "Full compliance with tax laws could yield personal income tax equivalent to 4.85 per cent and VAT to 3.82 per cent of GDP."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ঢাকার একটি হোটেলে আয়োজিত অনুষ্ঠানে মিসিং রেভিনিউজ ইন বাংলাদেশ শীর্ষক গবেষণা প্রতিবেদনটি উপস্থাপন করেন RAPID-এর চেয়ারম্যান ড. মোহাম্মদ আব্দুর রাজ্জাক। অনুষ্ঠানে প্রধান অতিথি ছিলেন অর্থ সচিব ড. খায়েরুজ্জামান মজুমদার এবং বিশেষ অতিথি ছিলেন এনবিআরের সদস্য সৈয়দ মুসফেজুর রহমান।",
-        "details_en": "RAPID chairman Dr Mohammad Abdur Razzaque presented the findings titled Missing Revenues in Bangladesh at a hotel in Dhaka. Finance Secretary Dr Khairuzzaman Mazumder and NBR Member Syed Musfequr Rahman attended the programme.",
-        "hook_bn": "দক্ষিণ এশিয়ায় সবচেয়ে কম আয়করদাতা",
-        "kicker_bn": "রাজস্ব গবেষণা",
+        "details_bn": "এর আগে ১৯৯৫ সালে নিউজিল্যান্ডের বিপক্ষে সর্বোচ্চ ৬৬০ রান তুলেছিল ওয়েস্ট ইন্ডিজ। ২০১৯ সালে হ্যামিল্টনে বাংলাদেশের বিপক্ষে ৬ উইকেটে ৭১৫ রান তুলেছিল নিউজিল্যান্ড। ওয়েলিংটনে ৭২০ রান করার মাধ্যমে টেস্ট ক্রিকেটে পঞ্চমবারের মতো ৭০০ রানের বেশি সংগ্রহ গড়ল ভারত। ভারতের শীর্ষ পাঁচ ব্যাটসম্যানের প্রত্যেকেই অন্তত ৮০ রান করেছেন।",
+        "details_en": "Previously, West Indies scored a maximum of 660 runs against New Zealand in 1995. In 2019, New Zealand declared at 715 for 6 against Bangladesh in Hamilton. By scoring 720 runs in Wellington, India crossed 700 runs in a Test innings for the fifth time. Each of India's top five batsmen scored at least 80 runs.",
+        "hook_bn": "নিউজিল্যান্ডের মাটিতে ভারতের রেকর্ড ৭২০ রান",
+        "kicker_bn": "রেকর্ড সংগ্রহ",
         "share_value": false,
-        "question_bn": "কর জাল বাড়াতে কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
+        "question_bn": "নিউজিল্যান্ডের মাটিতে ভারতের এই ব্যাটিং পারফরম্যান্স নিয়ে আপনার মতামত কী?"
       },
       "desk_importance": 6.0,
       "outlet_count": 1,
@@ -137,218 +68,7 @@
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T03:02:04.364281+00:00"
-      }
-    },
-    {
-      "story_id": "2e77744a-14c6-5f29-9016-f863f06bcaff",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "tech_innovation"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2021-12%2Fb73b8657-b831-4ff0-ae24-c9322a52dc85%2Fprothomalo_import_media_2018_10_05_6938b1921034b01295ca3306a1b96c22_5bb71836128d5.jpg?rect=0%2C0%2C736%2C386&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-22T02:28:21+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.4865,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/chakri/employment/uw4waol4ci",
-          "title": "৪৯৫ জন এআই টেকনিশিয়ন নেবে সরকার, চুক্তিতে স্বাধীন চাকরির সুযোগ উপজেলায়",
-          "snippet": "৪৯৫ জন এআই টেকনিশিয়ন নেবে সরকার, চুক্তিতে স্বাধীন চাকরির সুযোগ উপজেলায়"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মৎস্য ও প্রাণিসম্পদ মন্ত্রণালয় ৪৯৫ জন এআই টেকনিশিয়ান নিয়োগ দেবে।",
-        "title_en": "Fisheries and livestock ministry to hire 495 AI technicians.",
-        "summary_bn": "মৎস্য ও প্রাণিসম্পদ মন্ত্রণালয়ের অধীন প্রাণিসম্পদ অধিদপ্তর আউটসোর্সিং প্রক্রিয়ায় সারা দেশের ৪৯৫টি উপজেলায় ৪৯৫ জন এআই টেকনিশিয়ান নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে।",
-        "summary_en": "The Department of Livestock Services under the Ministry of Fisheries and Livestock has issued a notice to recruit 495 AI technicians.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T02:28:21+00:00",
-        "lead_bn": "মৎস্য ও প্রাণিসম্পদ মন্ত্রণালয়ের অধীন প্রাণিসম্পদ অধিদপ্তর আউটসোর্সিং প্রক্রিয়ায় সারা দেশের ৪৯৫টি উপজেলায় ৪৯৫ জন এআই টেকনিশিয়ান নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে।",
-        "lead_en": "The Department of Livestock Services under the Ministry of Fisheries and Livestock has issued a notice to recruit 495 AI technicians.",
-        "bullets_bn": [
-          "বাংলাদেশের স্থায়ী নাগরিকেরা সরাসরি চুক্তি সম্পাদনের মাধ্যমে এ সরকারি কাজের জন্য আবেদন করতে পারবেন।",
-          "আগ্রহী প্রার্থীদের আগামী ৬ ডিসেম্বর ২০২৬ বিকেল ৪টার মধ্যে রেজিস্ট্রি ডাকযোগে অথবা কুরিয়ার সার্ভিসের মাধ্যমে আবেদনপত্র পাঠাতে হবে।",
-          "নির্বাচিত টেকনিশিয়ানদের নিজ উপজেলায় প্রতি মাসে কমপক্ষে ৫০টি কৃত্রিম প্রজনন কাজ সম্পন্ন করার অঙ্গীকারনামা দিতে হবে।"
-        ],
-        "bullets_en": [
-          "Bangladeshi permanent citizens can apply for this government work through direct contract execution.",
-          "Interested candidates must send application forms by registered post or courier service by 4 pm on December 6, 2026.",
-          "Selected technicians must give an undertaking to complete at least 50 artificial insemination works per month in their respective upazilas."
-        ],
-        "impact_bn": "এ কাজের মাধ্যমে প্রান্তিক খামারিরা অর্থনৈতিকভাবে লাভবান হবেন এবং দেশি ও অনুন্নত জাতের গবাদিপশুর জাত উন্নয়ন ঘটবে।",
-        "impact_en": "Through this work, marginal farmers will benefit economically and indigenous and underdeveloped cattle breeds will be developed.",
-        "details_bn": "বিজ্ঞপ্তির শর্ত অনুযায়ী নির্বাচিত কর্মীরা নিজ এলাকায় অবস্থান করে তাঁদের নিয়মিত কৃষিকাজ বা ব্যক্তিগত ব্যবসার পাশাপাশি এ কাজ চালিয়ে যেতে পারবেন এবং সম্মানজনক বাড়তি আয়ের সুযোগ পাবেন। ন্যূনতম এসএসসি বা সমমান পাস প্রার্থীরা এ পদে আবেদন করতে পারবেন এবং সরাসরি কোনো আবেদনপত্র গ্রহণ করা হবে না।",
-        "details_en": "According to the notification conditions, selected workers can stay in their own areas and carry on this work alongside regular farming or personal business and get an opportunity for honorable extra income. Candidates with a minimum SSC or equivalent pass can apply for this post and no direct application forms will be accepted.",
-        "hook_bn": "উপজেলায় ৪৯৫ জন এআই টেকনিশিয়ান নিয়োগ",
-        "kicker_bn": "নতুন চাকরি",
-        "share_value": true,
-        "question_bn": "আপনার উপজেলায় এআই টেকনিশিয়ান নিয়োগের এই সুযোগকে আপনি কীভাবে দেখছেন?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T03:02:04.364281+00:00"
-      }
-    },
-    {
-      "story_id": "6441d6ad-e4d0-50b5-84d3-bb25ec9558a8",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Chattogram",
-        "#Jorarganj",
-        "#Khagrachhari",
-        "#BangladeshPolice"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/22/919038293_1616663906348174_3504808917606193367_n.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-22T02:40:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.4485,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/law-order/two-arrested-foreign-made-pistol-ammunition-chattograms-jorarganj-1610041",
-          "title": "Two arrested with foreign-made pistol, ammunition in Chattogram's Jorarganj",
-          "snippet": "Two arrested with foreign-made pistol, ammunition in Chattogram's Jorarganj"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জোয়ারগঞ্জে অস্ত্রসহ দুজন গ্রেপ্তার",
-        "title_en": "Two arrested with weapons in Jorarganj",
-        "summary_bn": "চট্টগ্রামের জোরারগঞ্জে একটি বাস তল্লাশি করে বিদেশি পিস্তল ও গুলিসহ দুই ব্যক্তিকে গ্রেপ্তার করেছে পুলিশ।",
-        "summary_en": "Police arrested two men with a foreign-made pistol and ammunition after searching a bus in Chattogram's Jorarganj.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T02:40:00+00:00",
-        "lead_bn": "চট্টগ্রামের জোরারগঞ্জে একটি বাস তল্লাশি করে বিদেশি পিস্তল ও গুলিসহ দুই ব্যক্তিকে গ্রেপ্তার করেছে পুলিশ।",
-        "lead_en": "Police arrested two men with a foreign-made pistol and ammunition after searching a bus in Chattogram's Jorarganj.",
-        "bullets_bn": [
-          "খাগড়াছড়ির পানছড়ি থেকে ঢাকাগামী শান্তি পরিবহন বাসে তল্লাশি চালিয়ে অস্ত্রগুলো উদ্ধার করা হয়।",
-          "গ্রেপ্তার ব্যক্তিরা হলেন ইবন জাহিদ এবং সালাহ উদ্দিন আকবর।",
-          "পুলিশ সুনির্দিষ্ট তথ্যের ভিত্তিতে রামগতি-করেরহাট সড়কের নয়টিলা মাজার এলাকায় চেকপোস্ট বসায়।"
-        ],
-        "bullets_en": [
-          "The weapons were recovered during a search of a Shanti Paribahan bus travelling from Khagrachhari to Dhaka.",
-          "The arrestees were identified as Ibn Zahid and Salah Uddin Akbar.",
-          "Police set up checkpoints along the Ramgarh-Korerhat road near Noytilla Mazar based on specific information."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "পুলিশ জানায়, দুজন ব্যক্তি অস্ত্র নিয়ে ঢাকা যাচ্ছিলেন—এমন খবরের ভিত্তিতে বিভিন্ন সম্ভাব্য রুটে চেকপোস্ট বসানো হয়। পরে রামগতি-করেরহাট সড়কের নয়টিলা মাজার এলাকায় শান্তি পরিবহন বাসে তল্লাশি চালিয়ে একটি জাপানি ৭.৬২ মিমি পিস্তল, দুটি ম্যাগাজিন ও তিন রাউন্ড গুলি উদ্ধার করা হয়।",
-        "details_en": "Police said they had received information that two individuals were travelling to Dhaka with firearms and set up checkpoints along several possible routes. During a search of a Shanti Paribahan bus near Noytilla Mazar, officers recovered a Japanese-made 7.62mm pistol, two magazines and three rounds of ammunition.",
-        "hook_bn": "জোরারগঞ্জে বাসে অস্ত্রসহ গ্রেপ্তার দুই",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T03:02:04.364281+00:00"
-      }
-    },
-    {
-      "story_id": "be472193-1654-5e4b-a602-d1cd94db1eda",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation",
-        "climate_environment"
-      ],
-      "region": "international",
-      "tags": [
-        "#Technology",
-        "#Innovation"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-21%2Fwazfe54z%2Fgoogle.jpg?rect=0%2C0%2C690%2C362&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-22T02:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.356,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/technology/cyberworld/nj74lvkq79",
-          "title": "এআইকে নিরাপদে প্রশিক্ষণ দিতে কৃত্রিম ইন্টারনেট তৈরি করেছে গুগল",
-          "snippet": "এআইকে নিরাপদে প্রশিক্ষণ দিতে কৃত্রিম ইন্টারনেট তৈরি করেছে গুগল"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "এআই প্রশিক্ষণের জন্য কৃত্রিম ইন্টারনেট তৈরি করেছে গুগল",
-        "title_en": "Google creates artificial internet to train AI safely",
-        "summary_bn": "কৃত্রিম বুদ্ধিমত্তাভিত্তিক ব্রাউজিং এজেন্টকে নিরাপদে প্রশিক্ষণ দিতে মিরর ডাইমেনশন নামের একটি কৃত্রিম ইন্টারনেট তৈরি করেছে গুগল।",
-        "summary_en": "Google created an artificial internet named Mirror Dimension to safely train artificial intelligence browsing agents.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation",
-          "climate_environment"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T02:00:00+00:00",
-        "lead_bn": "কৃত্রিম বুদ্ধিমত্তাভিত্তিক ব্রাউজিং এজেন্টকে নিরাপদে প্রশিক্ষণ দিতে মিরর ডাইমেনশন নামের একটি কৃত্রিম ইন্টারনেট তৈরি করেছে গুগল।",
-        "lead_en": "Google created an artificial internet named Mirror Dimension to safely train artificial intelligence browsing agents.",
-        "bullets_bn": [
-          "এই নিয়ন্ত্রিত ডিজিটাল পরিবেশে এআই নিজে থেকে ওয়েবসাইটে প্রবেশ করতে ও ফরম পূরণ করতে পারে।",
-          "প্রকৃত ইন্টারনেটে পরীক্ষা না চালিয়ে এই পরিবেশে কাজ করায় ব্যবহারকারীর ব্যক্তিগত তথ্য ঝুঁকিতে পড়ে না।",
-          "জিভাইজর প্রযুক্তি ব্যবহার করে সম্পূর্ণ বিচ্ছিন্ন ও নিয়ন্ত্রিত এই ডিজিটাল পরিবেশ তৈরি করেছে গুগল।"
-        ],
-        "bullets_en": [
-          "In this controlled digital environment, AI can independently enter websites and fill out forms.",
-          "User personal data remains safe because testing occurs here instead of the real internet.",
-          "Google built this completely isolated and controlled digital environment using a technology named Gvisor."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "দৈনন্দিন জীবনের বিভিন্ন অনলাইন কাজ নিজে থেকে সম্পন্ন করতে সক্ষম এআই এজেন্ট তৈরি করতে হলে বিপুলসংখ্যক পরীক্ষা চালাতে হয়। কিন্তু প্রকৃত ইন্টারনেটে এ ধরনের পরীক্ষা চালানো বেশ কঠিন, কারণ ওয়েবসাইটগুলো নিয়মিত পরিবর্তিত হয় এবং নিরাপত্তাঝুঁকি থাকে। এর পাশাপাশি আধুনিক এআই মডেল বুঝতে পারে যে তাকে পরীক্ষা করা হচ্ছে, যা ইভাল্যুশন অ্যাওয়ারনেস নামে পরিচিত। এসব সমস্যা এড়াতে গুগল এই কৃত্রিম পরিবেশ তৈরি করেছে।",
-        "details_en": "Creating AI agents capable of completing daily online tasks independently requires conducting numerous tests. Running such tests on the real internet is difficult because websites change regularly and security risks exist. Additionally, modern AI models can realize when they are being tested, a problem known as evaluation awareness. Google created this artificial environment to avoid these problems.",
-        "hook_bn": "এআই প্রশিক্ষণে কৃত্রিম ইন্টারনেট এনেছে গুগল",
-        "kicker_bn": "প্রযুক্তি",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T03:02:04.364281+00:00"
+        "checked_at": "2026-11-22T04:01:40.450785+00:00"
       }
     }
   ]
