@@ -61,6 +61,10 @@ def _parse_time(value) -> Optional[datetime]:
         return None
 
 
+def _minutes_ago(m: float) -> str:
+    return (datetime.now(timezone.utc) - timedelta(minutes=m)).isoformat()
+
+
 def bn_date(dt: datetime) -> str:
     local = dt.astimezone(timezone(timedelta(hours=6)))
     return f"{str(local.day).translate(BN_DIGITS)} {BN_MONTHS[local.month - 1]} {str(local.year).translate(BN_DIGITS)}"
@@ -143,7 +147,7 @@ def focus_tags(tags: List[str]) -> set:
     return {t.lower() for t in tags if t.lower() not in shared}
 
 
-def pick_story(db, story_id: Optional[str] = None, fmt: str = "reel") -> Optional[dict]:
+def pick_story(db, story_id: Optional[str] = None, fmt: str = "reel", ask_photos: bool = False) -> Optional[dict]:
     if story_id:
         snap = db.collection("daily_buzz").document(story_id).get()
         if not snap.exists:
@@ -215,8 +219,38 @@ def pick_story(db, story_id: Optional[str] = None, fmt: str = "reel") -> Optiona
     if fmt == "reel":
         learned = learned_section_bonus(db)
         pool.sort(key=lambda s: reel_score(s, learned), reverse=True)
-    else:
-        pool.sort(key=photo_score, reverse=True)
+        # A Reel with no real photo is a dark screen of text and performs badly, so an
+        # automatic Reel needs a publisher photo that actually loads. If none of the
+        # candidates has one, the slot is skipped and a better story is picked next time.
+        if not ask_photos:
+            return next((s for s in pool if photo_usable(reel_image(s))), None)
+        # Ask the editor on Telegram for more photos before an automatic Reel goes out,
+        # even when the story has a publisher photo: a different photo behind each key
+        # point holds viewers longer. Once asked, the slot waits AUTO_WAIT_MIN minutes;
+        # if the editor sent nothing, a story with a publisher photo posts as it is.
+        # A story with no usable photo never posts on its own; it waits for the editor.
+        from pipeline.social.telegram_clips import (AUTO_WAIT_MIN, ask_for_photos,
+                                                    clip_in_progress, photo_asked_at)
+        asked_now = False
+        for s in pool:
+            if clip_in_progress(db, s["story_id"]):
+                continue                       # the editor's own Reel for it is on its way
+            has_photo = photo_usable(reel_image(s))
+            asked = photo_asked_at(db, s["story_id"])
+            if asked:
+                if has_photo and asked <= _minutes_ago(AUTO_WAIT_MIN):
+                    return s                   # waited long enough: post with the publisher photo
+                if asked > _minutes_ago(AUTO_WAIT_MIN):
+                    asked_now = True           # one open request at a time: no new asks yet
+                continue                       # still waiting for the editor's photos
+            if not asked_now and ask_for_photos(db, s, has_photo):
+                asked_now = True
+                print(f"Asked the editor on Telegram for photos: {s['daily_buzz']['title_bn']}")
+            if has_photo and not asked_now:
+                return s                       # Telegram not set up: post as before
+        print("Waiting for the editor's photos (or no story has a usable photo); skipping this Reel slot.")
+        return None
+    pool.sort(key=photo_score, reverse=True)
     return pool[0]
 
 
@@ -241,6 +275,30 @@ def reel_image(story: dict) -> Optional[str]:
         # (overlay=...); the plain photo is the same address without them.
         url = url.split("?")[0] + "?w=1200&auto=format%2Ccompress"
     return url
+
+
+MIN_PHOTO_BYTES = 15_000      # smaller than this is a placeholder or tracking pixel
+
+
+def photo_usable(url: Optional[str]) -> bool:
+    """True when the photo downloads, is an image, and is big enough to fill a Reel frame."""
+    if not url:
+        return False
+    try:
+        r = requests.get(url, timeout=15, stream=True, headers={"User-Agent": "Mozilla/5.0"})
+        try:
+            if r.status_code != 200 or not (r.headers.get("content-type") or "").startswith("image/"):
+                return False
+            size = 0
+            for chunk in r.iter_content(8192):
+                size += len(chunk)
+                if size >= MIN_PHOTO_BYTES:
+                    return True
+            return False
+        finally:
+            r.close()
+    except requests.RequestException:
+        return False
 
 
 # ---------------------------------------------------------------- voiceover
@@ -758,7 +816,7 @@ def main():
         if clip:
             print(f"Posting the editor's approved video clip {clip['clip_id']} in this slot.")
             return telegram_post(db, clip["clip_id"])
-    story = pick_story(db, args.story_id, args.format)
+    story = pick_story(db, args.story_id, args.format, ask_photos=not args.dry_run)
     if not story:
         print(f"No eligible story this slot (fact-checked, importance >= {MIN_IMPORTANCE}, appeal >= {MIN_APPEAL}, last {LOOKBACK_HOURS} hours, not yet posted).")
         return

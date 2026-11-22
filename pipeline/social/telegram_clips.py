@@ -399,6 +399,48 @@ def handle_candidate(db, chat_id, kind: str, story_id: str):
     send(chat_id, f"রিল তৈরি হচ্ছে, কয়েক মিনিটের মধ্যে প্রিভিউ পাঠাব।\nখবর: {title}")
 
 
+AUTO_WAIT_MIN = 20    # after asking, the automatic Reel waits this long for the editor's photos
+
+
+def photo_asked_at(db, story_id: str) -> str:
+    """When the editor was last asked for photos of this story ('' if never)."""
+    asked = (db.collection("admin_config").document("telegram").get().to_dict() or {}).get("photo_asked") or {}
+    return asked.get(story_id) or ""
+
+
+def clip_in_progress(db, story_id: str) -> bool:
+    """True if the editor already sent media for this story and it is not cancelled, so the
+    automatic Reel must not post the same story a second time."""
+    for d in db.collection(COLLECTION).where("story_id", "==", story_id).stream():
+        if (d.to_dict() or {}).get("status") != "cancelled":
+            return True
+    return False
+
+
+def ask_for_photos(db, story: dict, has_photo: bool = False) -> bool:
+    """Ask the editor on Telegram for photos of the story the next automatic Reel would use:
+    more photos (a different one behind each key point) hold viewers longer. Returns True
+    if a request went out (False: no Telegram set up)."""
+    chat = os.getenv("TELEGRAM_CHAT_ID", "").strip()
+    if not chat or not os.getenv("TELEGRAM_BOT_TOKEN"):
+        return False
+    sid = story["story_id"]
+    title = story["daily_buzz"]["title_bn"]
+    if has_photo:
+        why = (f"📷 পরের রিলের জন্য এই খবরটি বাছা হয়েছে। এর একটি ছবি আছে, তবে আরও ছবি দিলে রিল ভালো চলে।\n"
+               f"ছবি না পাঠালে {AUTO_WAIT_MIN} মিনিট পর এই ছবি দিয়েই রিল পোস্ট হবে।")
+        skip = "🎬 এই ছবি দিয়েই রিল বানাও"
+    else:
+        why = "📷 এই খবরের রিলের জন্য কোনো ছবি পাওয়া যায়নি। ছবি ছাড়া রিল ভালো চলে না।"
+        skip = "🎬 ছবি ছাড়াই রিল বানাও"
+    send(chat, f"{why}\nখবর: {title}\n{SITE}/story/{sid}/\n\n"
+               "১-৪টি ছবি পাঠান (প্রতিটি মূল তথ্যের সঙ্গে আলাদা ছবি দেখাবে)। নিচের বোতামে চাপ দিন, তারপর ছবি পাঠান।",
+         [[{"text": "📷 ছবি দেব", "callback_data": f"w:{sid}"}],
+          [{"text": skip, "callback_data": f"m:{sid}"}]])
+    db.collection("admin_config").document("telegram").set({"photo_asked": {sid: _now()}}, merge=True)
+    return True
+
+
 def maybe_send_digest(db, state_ref, allowed: str):
     from datetime import timedelta
     local = datetime.now(timezone.utc) + timedelta(hours=6)

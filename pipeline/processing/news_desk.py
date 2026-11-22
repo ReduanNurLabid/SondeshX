@@ -141,22 +141,39 @@ def _tokens(text: str) -> set:
     return {w for w in re.findall(r"[\w\u0980-\u09FF]{3,}", (text or "").lower())}
 
 
+def _stems(text: str) -> set:
+    """Words cut to their first 4 characters, so Bengali inflections of one word
+    (ব্যবহার / ব্যবহারে, প্রণয়ন / প্রণয়নের) count as the same word."""
+    return {w[:4] for w in _tokens(text)}
+
+
+def _similar_headlines(a: str, b: str) -> bool:
+    """Same-event check on two headlines in one language. Needs at least 4 stems on
+    both sides; matches on Jaccard >= 0.6, or when one headline is mostly contained in
+    the other (>= 0.75 of the shorter, with at least 5 shared stems)."""
+    ta, tb = _stems(a), _stems(b)
+    if len(ta) < 4 or len(tb) < 4:
+        return False
+    shared = len(ta & tb)
+    return shared / len(ta | tb) >= 0.6 or (shared >= 5 and shared / min(len(ta), len(tb)) >= 0.75)
+
+
 def _known_story(members: List[RawArticle], published: List[dict]) -> Optional[dict]:
     """Hard duplicate check the desk cannot miss: an article already cited by a published
     story (front pages without timestamps are scraped again every hour), or a headline
     nearly identical to a published headline or source headline."""
     urls = {a.url for a in members}
-    titles = [_tokens(a.title) for a in members]
+    titles = [a.title for a in members]
     for story in published:
         sources = story.get("sources") or []
         if urls & {s.get("url") for s in sources if isinstance(s, dict)}:
             return story
         buzz = story.get("daily_buzz") or {}
-        known = [_tokens(buzz.get("title_en")), _tokens(buzz.get("title_bn"))] + [
-            _tokens(s.get("title")) for s in sources if isinstance(s, dict)]
+        known = [buzz.get("title_en"), buzz.get("title_bn")] + [
+            s.get("title") for s in sources if isinstance(s, dict)]
         for t in titles:
             for k in known:
-                if len(t) >= 4 and len(k) >= 4 and len(t & k) / len(t | k) >= 0.6:
+                if _similar_headlines(t or "", k or ""):
                     return story
     return None
 
