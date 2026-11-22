@@ -1,204 +1,295 @@
 {
-  "updated_at": "2026-11-22T17:00:43.415853",
-  "total_stories": 4,
+  "updated_at": "2026-11-22T18:00:44.489124",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "669dcdf9-44de-5c54-aaf6-c23ffcbb7de7",
-      "primary_category": "economy_business",
+      "story_id": "6c496d73-55ed-5641-b60f-a7589e298fea",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "economy_business",
-        "governance_law"
+        "governance_law",
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-22%2Fubgny4of%2FACC-chairman.jpeg?rect=77%2C0%2C1379%2C724&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-22%2Fywrlefeu%2FPetrapolindiaProthomalo.jpg?rect=63%2C0%2C627%2C329&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-22T16:35:57+00:00",
+      "published_at": "2026-11-22T17:52:39+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5129,
+      "importance_score": 8.0,
+      "rank_score": 6.348,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/8ir0a9w551",
-          "title": "দেশ থেকে প্রায় ২৩৪ বিলিয়ন ডলার পাচার হয়েছে",
-          "snippet": "দেশ থেকে প্রায় ২৩৪ বিলিয়ন ডলার পাচার হয়েছে"
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/dej54h7rlr",
+          "title": "পশ্চিমবঙ্গের পেট্রাপোল সীমান্তে নানক–নাছিমসহ কার্যক্রম নিষিদ্ধ আ.লীগের নেতারা",
+          "snippet": "পশ্চিমবঙ্গের পেট্রাপোল সীমান্তে নানক–নাছিমসহ কার্যক্রম নিষিদ্ধ আ.লীগের নেতারা"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/al-leaders-visit-petrapole-border-assess-possible-route-hasinas-return-indian-media",
+          "title": "AL leaders visit Petrapole border to assess possible route for Hasina's return: Indian media",
+          "snippet": "AL leaders visit Petrapole border to assess possible route for Hasina's return: Indian media"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425450/indian-media-4-al-leaders-visit-petrapole-to",
+          "title": "Indian media: 4 AL leaders visit Petrapole to assess Hasina's return route",
+          "snippet": "Indian media: 4 AL leaders visit Petrapole to assess Hasina's return route"
         }
       ],
       "daily_buzz": {
-        "title_bn": "দেশ থেকে প্রায় ২৩৪ বিলিয়ন ডলার পাচার হয়েছে",
-        "title_en": "Nearly 234 billion dollars have been laundered from the country",
-        "summary_bn": "দুর্নীতি দমন কমিশনের কমিশনার জাহাঙ্গীর আলম খান জানিয়েছেন, দেশ থেকে প্রায় ২৩৪ বিলিয়ন ডলার পাচার হয়েছে।",
-        "summary_en": "Anti-Corruption Commission Commissioner Jahangir Alam Khan stated that nearly 234 billion dollars have been laundered from the country.",
+        "title_bn": "পেট্রাপোল সীমান্তে নিষিদ্ধ আ.লীগের চার নেতা",
+        "title_en": "Four banned AL leaders at Petrapole border",
+        "summary_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতা জাহাঙ্গীর কবির নানক ও বাহাউদ্দিন নাছিমসহ চারজন পশ্চিমবঙ্গের পেট্রাপোল স্থলবন্দরের ইমিগ্রেশন সেন্টারে সময় কাটিয়েছেন।",
+        "summary_en": "Banned Awami League leaders Jahangir Kabir Nanak and Bahauddin Nasim were among four individuals who spent time at the Petrapole land port immigration center.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "governance_law"
+          "governance_law",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T16:35:57+00:00",
-        "lead_bn": "দুর্নীতি দমন কমিশনের কমিশনার জাহাঙ্গীর আলম খান জানিয়েছেন, দেশ থেকে প্রায় ২৩৪ বিলিয়ন ডলার পাচার হয়েছে।",
-        "lead_en": "Anti-Corruption Commission Commissioner Jahangir Alam Khan stated that nearly 234 billion dollars have been laundered from the country.",
+        "published_at": "2026-11-22T17:52:39+00:00",
+        "lead_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতা জাহাঙ্গীর কবির নানক ও বাহাউদ্দিন নাছিমসহ চারজন পশ্চিমবঙ্গের পেট্রাপোল স্থলবন্দরের ইমিগ্রেশন সেন্টারে সময় কাটিয়েছেন।",
+        "lead_en": "Banned Awami League leaders Jahangir Kabir Nanak and Bahauddin Nasim were among four individuals who spent time at the Petrapole land port immigration center.",
         "bullets_bn": [
-          "জাহাঙ্গীর আলম খান বলেছেন, এসব ডলারের মধ্যে প্রতিবছর ১৬ বিলিয়ন ডলার ইনভয়েস ও ওভার ইনভয়েসের মাধ্যমে পাচার হয়েছে।",
-          "দুদক চেয়ারম্যান বিচারপতি এ কে এম আসাদুজ্জামান বলেছেন, দুর্নীতিমুক্ত দেশ গড়তে তাঁরা প্রতিজ্ঞাবদ্ধ।",
-          "কমিশনার মো. সাজ্জাদ হোসেন ভূঁইয়া বলেছেন, দেশের প্রায় ৯৫ শতাংশ মানি লন্ডারিং ক্লিয়ারিং হাউসের মাধ্যমে হয়।"
+          "একটি সাদা গাড়িতে করে এসে ওই নেতারা ইমিগ্রেশন সেন্টারে প্রবেশ করেন এবং ভিন্ন পথ ব্যবহার করে যাতায়াত করেন।",
+          "অভিবাসন দপ্তর, বিএসএফ বা পেট্রাপোল থানা এই বিষয়ে কোনো মন্তব্য করতে চায়নি।",
+          "ডিসেম্বরের মাঝামাঝি বাংলাদেশে প্রবেশের চেষ্টা শুরু হতে পারে বলে পশ্চিমবঙ্গে থাকা আওয়ামী লীগ নেতাদের বক্তব্য।"
         ],
         "bullets_en": [
-          "Jahangir Alam Khan said that out of these dollars, 16 billion dollars are laundered every year through invoice and over-invoice.",
-          "ACC Chairman Justice Md. Ashfaquzzaman stated that they are committed to building a corruption-free country.",
-          "Commissioner Md. Sajjad Hossain Bhuiyan said that nearly 95 percent of money laundering in the country occurs through clearing houses."
+          "The leaders arrived in a white car and used different routes to enter and exit the immigration center.",
+          "The immigration department, BSF, and Petrapole police station declined to comment on the matter.",
+          "Awami League leaders currently in West Bengal state that an attempt to enter Bangladesh may begin in mid-December."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "দুর্নীতি দমন কমিশনের ২২তম প্রতিষ্ঠাবার্ষিকী উপলক্ষে আয়োজিত আলোচনা সভায় দুদক কর্মকর্তারা এসব কথা বলেন। সভায় সভাপতিত্ব করেন দুদকের সচিব মো. সাইদুর রহমান খান। অনুষ্ঠানে দুদকের সব মহাপরিচালক, পরিচালক ও উপপরিচালকেরা অংশ নেন।",
-        "details_en": "ACC officials made these remarks at a discussion meeting organized on the occasion of the 22nd founding anniversary of the Anti-Corruption Commission. The meeting was presided over by ACC Secretary Md. Saidur Rahman Khan. All directors general, directors, and deputy directors of the ACC participated in the event.",
-        "hook_bn": "দেশ থেকে প্রায় ২৩৪ বিলিয়ন ডলার পাচার",
-        "kicker_bn": "দুদক",
-        "share_value": false,
-        "question_bn": "অর্থ পাচার রোধে কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T17:02:21.294246+00:00"
-      }
-    },
-    {
-      "story_id": "d98b4492-35be-58b6-a71b-28232d98bc83",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "economy_business",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1631571772417-4585cb47814f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z2FzJTIwZm91bmQlMjBzZWNvbmQlMjBsYXllciUyMGVudmlyb25tZW50fGVufDF8MHx8fDE3OTUzNjY5MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-22T16:26:15+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.4803,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1182500",
-          "title": "ভোলায় নতুন কূপের দ্বিতীয় স্তরেও মিলেছে গ্যাস",
-          "snippet": "ভোলায় নতুন কূপের দ্বিতীয় স্তরেও মিলেছে গ্যাস"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ভোলার ভোলা নর্থ-৩ কূপের দ্বিতীয় স্তরেও গ্যাসের সন্ধান মিলেছে",
-        "title_en": "Gas found in the second layer of Bhola North-3 well",
-        "summary_bn": "ভোলার ভোলা নর্থ গ্যাসক্ষেত্রের নতুন খনন করা ভোলা নর্থ-৩ কূপের প্রথম স্তরের পর এবার দ্বিতীয় স্তরেও গ্যাসের সন্ধান পাওয়া গেছে।",
-        "summary_en": "Gas has been found in the newly drilled Bhola North-3 well of Bhola North gas field after the first layer.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T16:26:15+00:00",
-        "lead_bn": "ভোলার ভোলা নর্থ গ্যাসক্ষেত্রের নতুন খনন করা ভোলা নর্থ-৩ কূপের প্রথম স্তরের পর এবার দ্বিতীয় স্তরেও গ্যাসের সন্ধান পাওয়া গেছে।",
-        "lead_en": "Gas has been found in the newly drilled Bhola North-3 well of Bhola North gas field after the first layer.",
-        "bullets_bn": [
-          "ভোলা নর্থ গ্যাসক্ষেত্রের নতুন খনন করা ভোলা নর্থ-৩ কূপের দ্বিতীয় স্তরে গ্যাসের সন্ধান পাওয়া গেছে।",
-          "এর আগে একই কূপের প্রথম স্তরেও গ্যাসের সন্ধান মিলেছিল।",
-          "নতুন এই কূপটিতে খনন কাজ চালানো হয়েছে।"
-        ],
-        "bullets_en": [
-          "Gas has been found in the second layer of the newly drilled Bhola North-3 well in Bhola North gas field.",
-          "Earlier, gas was also found in the first layer of the same well.",
-          "Drilling work was conducted in this new well."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "ভোলার নতুন কূপে মিলল গ্যাস",
+        "details_bn": "জুলাই গণ–অভ্যুত্থানে ক্ষমতাচ্যুত হয়ে ২০২৪ সালের ৫ আগস্ট থেকে ভারতে অবস্থান করছেন তৎকালীন প্রধানমন্ত্রী শেখ হাসিনা। ভারতীয় গণমাধ্যমের প্রতিবেদন অনুযায়ী, শেখ হাসিনার সম্ভাব্য রিটার্ন রুট মূল্যায়ন করতে এই প্রতিনিধিদল সীমান্ত পরিদর্শন করেছে। একই সাথে আগরতলা সীমান্তও পরিদর্শনের কথা রয়েছে। এ সময় চিন্ময়কৃষ্ণ দাসের মুক্তির দাবিতে হিন্দু সুরক্ষা সমিতির ব্যানারে একটি মিছিল ও সভার আয়োজন করা হয়।",
+        "details_en": "Then-prime minister Sheikh Hasina fled to India after being ousted in the July mass uprising and has been staying there since August 5, 2024. According to Indian media reports, the delegation visited the border to assess a possible return route for Sheikh Hasina, with a delegation also expected to visit the Agartala border. During this time, a procession and meeting were organized under the banner of Hindu Suraksha Samiti demanding the release of Chinmoy Krishna Das.",
+        "hook_bn": "পেট্রাপোল সীমান্তে নিষিদ্ধ আ.লীগের চার নেতা",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 7.0,
+      "desk_importance": 7.0,
+      "outlet_count": 3,
+      "trending": true,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T17:02:21.294246+00:00"
+        "checked_at": "2026-11-22T18:01:46.727445+00:00"
       }
     },
     {
-      "story_id": "1188e2e4-dafc-5583-bab0-b2b5f3bd3726",
+      "story_id": "07187913-eb44-5022-8e79-8f3cf44c86bc",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#BangladeshEconomy",
+        "#GDPGrowth",
+        "#Inflation"
       ],
-      "image_url": "https://media.channelionline.com/2026/11/Untitled7-15.jpg?w=1200",
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/images/2025/07/08/af-nesaruddin.jpg",
       "image_caption": null,
-      "published_at": "2026-11-22T15:55:29+00:00",
+      "published_at": "2026-11-22T18:00:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.3787,
+      "importance_score": 7.0,
+      "rank_score": 4.8946,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/garment-exports-earn-10-billion-dollars/",
-          "title": "পোশাক রপ্তানিতে আয় ছাড়াল ১০ বিলিয়ন ডলার",
-          "snippet": "পোশাক রপ্তানিতে আয় ছাড়াল ১০ বিলিয়ন ডলার"
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/economy/news/bangladeshs-economic-growth-conundrum-4330646",
+          "title": "Bangladesh’s economic growth in a conundrum",
+          "snippet": "Bangladesh’s economic growth in a conundrum"
         }
       ],
       "daily_buzz": {
-        "title_bn": "২১ মাস পর পোশাক রপ্তানি আয় ১০ বিলিয়ন ডলার ছাড়াল",
-        "title_en": "Garment export earnings exceed 10 billion dollars after 21 months",
-        "summary_bn": "চলতি অর্থবছরের প্রথম তিন মাসে দেশের তৈরি পোশাক রপ্তানি থেকে আয় ১০ বিলিয়ন ডলারের মাইলফলক ছাড়িয়েছে বলে জানিয়েছে বাংলাদেশ ব্যাংক।",
-        "summary_en": "Bangladesh Bank reports that the country's garment export earnings exceeded the 10 billion dollar milestone in the first three months.",
+        "title_bn": "বাংলাদেশের জিডিপি প্রবৃদ্ধি কমে হয়েছে ৩.২ শতাংশ",
+        "title_en": "Bangladesh GDP growth drops to 3.2 percent",
+        "summary_bn": "বাংলাদেশের জিডিপি প্রবৃদ্ধি ৩.২ শতাংশে নেমেছে, যা ২৫ বছরের বেশি সময়ের মধ্যে সর্বনিম্ন এবং অত্যন্ত হতাশাজনক।",
+        "summary_en": "Bangladesh GDP growth has dropped to 3.2 percent, apparently the lowest in more than 25 years and the most frustrating.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T15:55:29+00:00",
-        "lead_bn": "চলতি অর্থবছরের প্রথম তিন মাসে দেশের তৈরি পোশাক রপ্তানি থেকে আয় ১০ বিলিয়ন ডলারের মাইলফলক ছাড়িয়েছে বলে জানিয়েছে বাংলাদেশ ব্যাংক।",
-        "lead_en": "Bangladesh Bank reports that the country's garment export earnings exceeded the 10 billion dollar milestone in the first three months.",
+        "published_at": "2026-11-22T18:00:00+00:00",
+        "lead_bn": "বাংলাদেশের জিডিপি প্রবৃদ্ধি ৩.২ শতাংশে নেমেছে, যা ২৫ বছরের বেশি সময়ের মধ্যে সর্বনিম্ন এবং অত্যন্ত হতাশাজনক।",
+        "lead_en": "Bangladesh GDP growth has dropped to 3.2 percent, apparently the lowest in more than 25 years and the most frustrating.",
         "bullets_bn": [
-          "জুলাই-সেপ্টেম্বর প্রান্তিকে তৈরি পোশাক রপ্তানি থেকে আয় হয়েছে ১ হাজার ৫৪ কোটি ৫১ লাখ ৬০ হাজার ডলার।",
-          "এক বছরের ব্যবধানে পোশাক রপ্তানি আয় বেড়েছে ৬ দশমিক ২৫ শতাংশ এবং আগের প্রান্তিকের তুলনায় প্রবৃদ্ধি হয়েছে ৪ দশমিক ৪৩ শতাংশ।",
-          "আলোচ্য সময়ে মোট রপ্তানি আয়ের ৮০ দশমিক ৭৯ শতাংশ এসেছে তৈরি পোশাক খাত থেকে।"
+          "প্রথম প্রান্তিকে রাজস্ব আদায়ে ৪২ হাজার কোটি টাকার বড় ঘাটতি দেখা গেছে।",
+          "জাতীয় বাজেটে ২০২৬-২৭ অর্থবছরের জন্য দুই লাখ কোটি টাকার বিশাল ঘাটতির পূর্বাভাস দেওয়া হয়েছে।",
+          "উচ্চ মূল্যস্ফীতি, জ্বালানি সংকট এবং ব্যাংকিং খাতে খেলাপি ঋণ বড় উদ্বেগের কারণ।"
         ],
         "bullets_en": [
-          "Garment export earnings reached 1,054 crore 51 lakh 60 thousand dollars in the July-September quarter.",
-          "Export earnings increased by 6.25 percent year-on-year and 4.43 percent compared to the previous quarter.",
-          "During this period, 80.79 percent of total export earnings came from the readymade garment sector."
+          "Revenue collection in the first quarter recorded a significant shortfall of Tk 42,000 crore.",
+          "The national budget had already projected a huge deficit of Tk 200,000 crore for 2026-27.",
+          "High inflation, an energy crisis, and non-performing loans in banking remain major concerns."
+        ],
+        "impact_bn": "দ্রুত জীবনযাত্রার খরচ বৃদ্ধি পাওয়ায় সাধারণ মানুষের ওপর আর্থিক চাপ তৈরি হয়েছে।",
+        "impact_en": "Sharply rising living costs have increased financial pressure on ordinary people.",
+        "details_bn": "দুর্বল সুশাসন, দুর্নীতি এবং বিদেশি বিনিয়োগের স্বল্পতার কারণে শিল্প উৎপাদন ব্যাহত হচ্ছে এবং কর্মসংস্থান বৃদ্ধি পাচ্ছে না। রাজস্ব বাড়ানোর জন্য করজাল সম্প্রসারণ এবং দুর্নীতি নিয়ন্ত্রণের ওপর জোর দেওয়া হয়েছে।",
+        "details_en": "Weak governance, corruption, and insignificant foreign direct investment have disrupted industrial production and hindered employment growth. Experts emphasize expanding the tax net and curbing corruption to boost revenue.",
+        "hook_bn": "জিডিপি প্রবৃদ্ধি ৩.২ শতাংশে নেমেছে",
+        "kicker_bn": "অর্থনীতি",
+        "share_value": false,
+        "question_bn": "আপনার কি মনে হয় এই অর্থনৈতিক সংকট মোকাবিলায় কর আহরণ বাড়ানোর কার্যকর কোনো বিকল্প রয়েছে?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-22T18:01:46.727445+00:00"
+      }
+    },
+    {
+      "story_id": "7c55ff4b-ce65-52ba-8249-9f103f5fc93d",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#AnwarIbrahim",
+        "#TariqueRahman",
+        "#Malaysia"
+      ],
+      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_a9ad4ca90b4d2668459d0829ef2de41f.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-22T18:00:52.126740+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.25,
+      "rank_score": 3.9052,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/malaysian-pm-to-arrive-in-dhaka-on-dec-7-for-two-day-visit",
+          "title": "Malaysian PM to arrive in Dhaka on Dec 7 for two-day visit",
+          "snippet": "Malaysian PM to arrive in Dhaka on Dec 7 for two-day visit"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822493/%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%AE%E0%A6%B2%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%B8%E0%A6%AB%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%B8%E0%A6%9B%E0%A7%87%E0%A6%A8",
+          "title": "বিএনপি সরকারের আমলে প্রথম ঢাকা সফরে আসছেন মালয়েশিয়ার প্রধানমন্ত্রী",
+          "snippet": "বিএনপি সরকারের আমলে প্রথম ঢাকা সফরে আসছেন মালয়েশিয়ার প্রধানমন্ত্রী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "৭ ডিসেম্বর ঢাকায় আসছেন মালয়েশিয়ার প্রধানমন্ত্রী আনোয়ার ইব্রাহিম",
+        "title_en": "Malaysian PM Anwar Ibrahim to visit Dhaka on Dec 7",
+        "summary_bn": "বিএনপি সরকার গঠনের আট মাস পর প্রথম কোনো বিদেশি সরকারপ্রধান হিসেবে দুই দিনের সফরে আগামী ৭ ডিসেম্বর ঢাকায় আসছেন মালয়েশিয়ার প্রধানমন্ত্রী আনোয়ার ইব্রাহিম।",
+        "summary_en": "Malaysian Prime Minister Anwar Ibrahim is scheduled to arrive in Dhaka on Dec 7 for a two-day bilateral visit.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "world_diplomacy",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-22T18:00:52.126740+00:00",
+        "lead_bn": "বিএনপি সরকার গঠনের আট মাস পর প্রথম কোনো বিদেশি সরকারপ্রধান হিসেবে দুই দিনের সফরে আগামী ৭ ডিসেম্বর ঢাকায় আসছেন মালয়েশিয়ার প্রধানমন্ত্রী আনোয়ার ইব্রাহিম।",
+        "lead_en": "Malaysian Prime Minister Anwar Ibrahim is scheduled to arrive in Dhaka on Dec 7 for a two-day bilateral visit.",
+        "bullets_bn": [
+          "পররাষ্ট্র মন্ত্রণালয় জানিয়েছে, সফরকালে প্রধানমন্ত্রী তারেক রহমানের সঙ্গে দ্বিপক্ষীয় বৈঠক করবেন মালয়েশিয়ার প্রধানমন্ত্রী।",
+          "বিএনপির ক্ষমতায় ফেরার পর গত জুনে প্রথম বিদেশ সফরে মালয়েশিয়া গিয়েছিলেন প্রধানমন্ত্রী তারেক রহমান।",
+          "গত জুনে দুই নেতার বৈঠকে দ্বিপক্ষীয় সম্পর্ক আরও জোরদার করার বিষয়ে একমত হয়েছিল উভয় দেশ।"
+        ],
+        "bullets_en": [
+          "According to the foreign ministry, Anwar will hold bilateral talks with Prime Minister Tarique Rahman during the trip.",
+          "Tarique chose Malaysia for his first overseas trip in June after the BNP returned to power.",
+          "During their June meeting, both leaders pledged to elevate ties between the two nations."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বাংলাদেশ ব্যাংকের প্রতিবেদনে বলা হয়েছে, আলোচ্য সময়ে নিট পোশাকের রপ্তানি আয় ৫৯৪ কোটি ৪০ লাখ ডলার এবং ওভেন পোশাকের অবদান ৪৬০ কোটি ১১ লাখ ৬০ হাজার ডলার ছিল। যুক্তরাষ্ট্র, যুক্তরাজ্য, স্পেন, জার্মানি, নেদারল্যান্ডস, ফ্রান্স, কানাডা, ইতালি ও বেলজিয়ামে পোশাক রপ্তানি থেকে ৭৬০ কোটি ৩৭ লাখ ৪০ হাজার ডলার আয় হয়েছে। তবে বৈশ্বিক পোশাকের বাজারে চাহিদার অনিশ্চয়তা, উৎপাদন ব্যয় বৃদ্ধি এবং যুক্তরাষ্ট্রের বাণিজ্যনীতি নিয়ে অনিশ্চয়তা এখনো চ্যালেঞ্জ রয়েছে।",
-        "details_en": "According to the Bangladesh Bank report, net garment export earnings were 594 crore 40 lakh dollars and woven garment earnings were 460 crore 11 lakh 60 thousand dollars. Earnings from the US, UK, Spain, Germany, Netherlands, France, Canada, Italy and Belgium totaled 760 crore 37 lakh 40 thousand dollars. However, uncertainties in global demand, rising production costs and US trade policies remain challenges.",
-        "hook_bn": "পোশাক রপ্তানি আয় ছাড়াল ১০ বিলিয়ন ডলার",
-        "kicker_bn": null,
+        "details_bn": "বিএনপি দুই দশক ক্ষমতার বাইরে থাকার পর ফেব্রুয়ারিতে ক্ষমতায় ফিরে আসে। এরপর গত জুনে প্রধানমন্ত্রী তারেক রহমান মালয়েশিয়া সফর করেন, যা ছিল তাঁর প্রথম বিদেশ সফর। সেই সময় দুই নেতা দ্বিপক্ষীয় সম্পর্ক উন্নত করার পাশাপাশি দীর্ঘস্থায়ী যৌথ কমিশন সভা ও দ্বিপক্ষীয় আলোচনা আয়োজনের তাগিদ দিয়েছিলেন।",
+        "details_en": "The BNP returned to power in February following two decades out of office. Tarique then chose Malaysia for his first overseas trip in June. During their June summit, the two prime ministers agreed to deepen coordination and underscored the urgency of convening long-stalled Joint Commission Meetings.",
+        "hook_bn": "৭ ডিসেম্বর ঢাকায় আসছেন মালয়েশিয়ার প্রধানমন্ত্রী",
+        "kicker_bn": "নতুন সফর",
         "share_value": false,
-        "question_bn": "পোশাক খাতের এই প্রবৃদ্ধি দেশের অর্থনীতিতে কেমন প্রভাব ফেলবে বলে আপনার মনে হয়?"
+        "question_bn": "মালয়েশিয়ার প্রধানমন্ত্রীর এই সফর দুই দেশের সম্পর্কে কী প্রভাব ফেলবে বলে আপনার মনে হয়?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-22T18:01:46.727445+00:00"
+      }
+    },
+    {
+      "story_id": "4cc0f8ff-6dae-54e3-b72e-146c528f85fd",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#BangladeshBond",
+        "#ADB",
+        "#SovereignBond",
+        "#Economy"
+      ],
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/dollar-bond.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-22T18:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5961,
+      "sources": [
+        {
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/economy/news/bangladesh-faces-higher-cost-debut-dollar-bond-4330696",
+          "title": "Bangladesh faces higher cost for debut dollar bond",
+          "snippet": "Bangladesh faces higher cost for debut dollar bond"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ডিসেম্বরে প্রথম ডলার বন্ড বিক্রিতে বেশি খরচ হতে পারে বাংলাদেশের",
+        "title_en": "Bangladesh may face higher costs for its debut dollar bond in December",
+        "summary_bn": "ডিসেম্বরে বিদেশি বিনিয়োগকারীদের কাছে প্রথম সার্বভৌম বন্ড বিক্রির সময় বাংলাদেশকে প্রায় ৮ দশমিক ৫ শতাংশ বার্ষিক সুদের মুখোমুখি হতে হতে পারে।",
+        "summary_en": "Bangladesh could sell its first sovereign bond to foreign investors in December, paying interest of about 8.5 percent a year.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-22T18:00:00+00:00",
+        "lead_bn": "ডিসেম্বরে বিদেশি বিনিয়োগকারীদের কাছে প্রথম সার্বভৌম বন্ড বিক্রির সময় বাংলাদেশকে প্রায় ৮ দশমিক ৫ শতাংশ বার্ষিক সুদের মুখোমুখি হতে হতে পারে।",
+        "lead_en": "Bangladesh could sell its first sovereign bond to foreign investors in December, paying interest of about 8.5 percent a year.",
+        "bullets_bn": [
+          "কক্সবাজারে ঋণ সম্মেলনে এ প্রাক্কলন করেন এশীয় উন্নয়ন ব্যাংকের পরামর্শক জুয়ান প্রাডেল্লি ও প্রসাদ অনন্তকৃষ্ণান।",
+          "সরকারের পরিকল্পনা ছিল ৭ থেকে ৮ শতাংশ সুদের, যা এখন প্রায় ৮ দশমিক ৫ শতাংশে দাঁড়াতে পারে।",
+          "এসঅ্যান্ডপি ও ফিচ বাংলাদেশের রেটিংয়ে নেতিবাচক দৃষ্টিভঙ্গি বজায় রেখেছে এবং মুডিস সেপ্টেম্বর থেকে স্থিতিশীল দৃষ্টিভঙ্গি রেখেছে।"
+        ],
+        "bullets_en": [
+          "The estimate was made by Asian Development Bank consultants Juan Pradelli and Prasad Ananthakrishnan at a debt conference in Cox’s Bazar.",
+          "The government had planned for 7 to 8 percent interest, which could now reach about 8.5 percent.",
+          "S&P and Fitch maintain negative outlooks on Bangladesh, while Moody has kept a stable outlook since September."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বিনিয়োগ সম্মেলনে বিকল্প উপায়ে অর্থ সংগ্রহের একটি সেশনে এই প্রাক্কলন করা হয়, যা পরিচালনা করেন বিনিয়োগ ও পুঁজিবাজার বিষয়ক প্রধানমন্ত্রীর বিশেষ সহকারী তানভীর শাহরিয়ার গনি। এসঅ্যান্ডপি এবং ফিচের রেটিংয়ে বাংলাদেশ বি প্লাস এবং মুডিজে বি২ রেটিংপ্রাপ্ত, যা ঝুঁকিপূর্ণ ঋণগ্রহীতাদের মধ্যে পড়ে। গত সেপ্টেম্বর থেকে মার্কিন সুদের হার বৃদ্ধির কারণে একক বি ক্যাটাগরির দেশগুলোর ঋণের হার ১ দশমিক ৬ শতাংশ পয়েন্ট বেড়েছে। সরকার ৫০ কোটি থেকে ১ বিলিয়ন ডলারের বন্ড বিবেচনা করছে।",
+        "details_en": "The estimate came during a session on alternative ways to raise money, moderated by Tanvir Shahriar Ghani, special assistant to the prime minister for investment and capital market affairs. Bangladesh is rated B+ by S&P and Fitch and B2 by Moody’s, placing it among riskier borrowers. Rates for single-B borrowers have risen by 1.6 percentage points since September 2025 mainly due to US interest rate hikes. The government is considering a bond of $500m to $1 billion.",
+        "hook_bn": "ডলার বন্ডে সাড়ে আট শতাংশ সুদ দিতে হতে পারে",
+        "kicker_bn": "দাম বাড়ছে",
+        "share_value": true,
+        "question_bn": "বিদেশি বিনিয়োগের জন্য এ ধরনের বন্ড ছাড়ার সিদ্ধান্তকে আপনি কীভাবে দেখেন?"
       },
       "desk_importance": 6.0,
       "outlet_count": 1,
@@ -206,75 +297,159 @@
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T17:02:21.294246+00:00"
+        "checked_at": "2026-11-22T18:01:46.727445+00:00"
       }
     },
     {
-      "story_id": "322f4ed3-c99a-532f-baec-973cae3aee49",
-      "primary_category": "world_diplomacy",
+      "story_id": "be2e189f-875b-5112-951b-1adc08228ffa",
+      "primary_category": "tech_innovation",
       "interest_categories": [
+        "tech_innovation",
+        "economy_business",
         "world_diplomacy"
       ],
       "region": "international",
       "tags": [
-        "#Sudan",
-        "#Khartoum",
-        "#UnitedNations"
+        "#RockstarGames",
+        "#Bangladesh",
+        "#TakeTwoInteractive"
       ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03005929fe-1795358809.jpg?resize=1920%2C1440",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/22/gta-6-2.jpg",
       "image_caption": null,
-      "published_at": "2026-11-22T15:03:38+00:00",
+      "published_at": "2026-11-22T15:45:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.2142,
+      "importance_score": 5.0,
+      "rank_score": 2.1929,
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
-          "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
-          "snippet": "Drone attacks kill four near Sudan’s capital, damage UN building"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/game/gta-6-cost-around-tk9979-bangladesh-asian-price-gap-widens-1610956",
+          "title": "GTA 6 to cost around Tk9,979 in Bangladesh as Asian price gap widens",
+          "snippet": "GTA 6 to cost around Tk9,979 in Bangladesh as Asian price gap widens"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সুদানে ড্রোন হামলায় চারজন নিহত এবং জাতিসংঘ ভবন ক্ষতিগ্রস্ত হয়েছে",
-        "title_en": "Drone attacks kill four people and damage UN building in Sudan",
-        "summary_bn": "সুদানের রাজধানী খার্তুম ও এর আশেপাশে আধাসামরিক বাহিনীর ড্রোন হামলায় চারজন নিহত এবং একটি জাতিসংঘ ভবন ক্ষতিগ্রস্ত হয়েছে।",
-        "summary_en": "Drone attacks blamed on paramilitary forces killed four people and damaged a United Nations building in and around Khartoum.",
+        "title_bn": "বাংলাদেশে জিটিএ ৬ গেমের আনুমানিক দাম ৯,৯৭৯ টাকা",
+        "title_en": "Estimated price of GTA 6 in Bangladesh is Tk9,979",
+        "summary_bn": "রকস্টার গেমসের গ্র্যান্ড থেফট অটো সিক্সের দাম এশিয়ার বাজারে ভিন্ন হওয়ায় বাংলাদেশে এর আনুমানিক দাম দাঁড়িয়েছে প্রায় ৯,৯৭৯ টাকা।",
+        "summary_en": "The estimated price of Rockstar Games' Grand Theft Auto VI in Bangladesh stands at around Tk9,979 amid varying Asian market prices.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "tech_innovation",
+          "economy_business",
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T15:03:38+00:00",
-        "lead_bn": "সুদানের রাজধানী খার্তুম ও এর আশেপাশে আধাসামরিক বাহিনীর ড্রোন হামলায় চারজন নিহত এবং একটি জাতিসংঘ ভবন ক্ষতিগ্রস্ত হয়েছে।",
-        "lead_en": "Drone attacks blamed on paramilitary forces killed four people and damaged a United Nations building in and around Khartoum.",
+        "published_at": "2026-11-22T15:45:00+00:00",
+        "lead_bn": "রকস্টার গেমসের গ্র্যান্ড থেফট অটো সিক্সের দাম এশিয়ার বাজারে ভিন্ন হওয়ায় বাংলাদেশে এর আনুমানিক দাম দাঁড়িয়েছে প্রায় ৯,৯৭৯ টাকা।",
+        "lead_en": "The estimated price of Rockstar Games' Grand Theft Auto VI in Bangladesh stands at around Tk9,979 amid varying Asian market prices.",
         "bullets_bn": [
-          "উত্তর ওমডুরমানে একটি বাড়িতে ড্রোন আঘাত হানলে তিনজন নিহত এবং নয়জন আহত হন।",
-          "রাজধানীর দক্ষিণে পৃথক হামলায় একটি শিশু নিহত হয়েছে এবং জেবেল আউলিয়া গ্রামে একটি বাড়ি ক্ষতিগ্রস্ত হয়েছে।",
-          "সুদানের জাতিসংঘের মানবিক সমন্বয়কারী ডেনিস ব্রাউন জানান, স্টাফরা ভেতরে থাকা অবস্থায় একটি ভবন ক্ষতিগ্রস্ত হয়েছে।"
+          "সিঙ্গাপুরে তালিকাভুক্ত দাম সবচেয়ে বেশি প্রায় ১০,৬৪৬ টাকা বা ৮৫ ডলার এবং জাপানে সবচেয়ে কম প্রায় ৭,৭৮৭ টাকা বা ৬২ ডলার।",
+          "টেক-টু ইন্টারেক্টিভ মার্কিন যুক্তরাষ্ট্রে স্ট্যান্ডার্ড এডিশনের আনুষ্ঠানিক মূল্য নির্ধারণ করেছে ৭৯.৯৯ ডলার এবং আল্টিমেট এডিশনের মূল্য ৯৯.৯৯ ডলার।",
+          "বাংলাদেশ যেহেতু স্থানীয় কোনো প্লেস্টেশন বা এক্সবক্স ডিজিটাল স্টোরফ্রন্ট নেই, তাই ক্রেতারা উপহার কার্ড বা আমদানি করা কপির ওপর নির্ভর করেন।"
         ],
         "bullets_en": [
-          "Three people were killed and nine wounded when a drone struck a home in northern Omdurman.",
-          "A child was killed in a separate attack south of the capital, and a home was hit in Jebel Aulia village.",
-          "UN humanitarian coordinator Denise Brown stated that a UN building was damaged while staff were inside."
+          "Singapore has the highest listed price at approximately Tk10,646, or $85, while Japan has the lowest at around Tk7,787, equivalent to $62.",
+          "Publisher Take-Two Interactive set the US official price of the Standard Edition at $79.99 and the Ultimate Edition at $99.99.",
+          "As Bangladesh lacks an official local PlayStation or Xbox digital storefront, consumers rely on foreign digital accounts or imported copies."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ভোরে খার্তুম ও এর আশেপাশে এই হামলাগুলো চালানো হয়। সুদানের বিমান প্রতিরক্ষা ব্যবস্থা সরকারি ভবন এবং খার্তুম বিমানবন্দরকে লক্ষ্য করে আসা ড্রোন প্রতিহত করার চেষ্টা করার সময় আবাসিক এলাকায় হামলাগুলো হয়। প্রত্যক্ষদর্শীদের মতে, সেনাবাহিনী ড্রোনগুলো প্রতিহত করার চেষ্টার সময় আনুমানিক রাত ২টা থেকে ভোর ৪টা ৩০ মিনিটের মধ্যে রাজধানীতে বিস্ফোরণের শব্দ শোনা যায়।",
-        "details_en": "The attacks struck early on Sunday as Sudanese air defences responded to drones reportedly targeting government buildings and Khartoum airport. Witnesses heard explosions across the capital between approximately 2am and 4:30am as the army attempted to intercept the drones.",
-        "hook_bn": "সুদানে ড্রোন হামলায় চারজন নিহত",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
+        "details_bn": "১৯ নভেম্বর প্লেস্টেশন ৫ এবং এক্সবক্স সিরিজ এক্সএস-এ গেমটির বৈশ্বিক লঞ্চের পর এশিয়ার বাজারে মূল্যের এই তারতম্য দেখা গেছে। স্থানীয় কর, ডিজিটাল স্টোরফ্রন্টের বিনিময় হার এবং আঞ্চলিক মূল্য সমন্বয়ের কারণে এশিয়ার gamers-দের মধ্যে দামের বড় পার্থক্য তৈরি হয়েছে। সংগৃহীত ডাটা থেকে দেখা যায় যে দক্ষিণ-পূর্ব এশিয়ার বাজারগুলোর দাম মার্কিন খুচরা বেঞ্চমার্কের চেয়ে বেশি, তবে পূর্ব ও দক্ষিণ এশিয়ার কয়েকটি বাজার কম রূপান্তরিত হার অফার করছে।",
+        "details_en": "Following the global launch on 19 November for PlayStation 5 and Xbox Series X|S, regional pricing comparisons showed significant differences. Local taxes, digital storefront exchange rates, and regional pricing adjustments created price differences across Asia, with Southeast Asian markets generally higher than the US benchmark while several East and South Asian markets offer lower converted rates.",
+        "hook_bn": "জিটিএ ৬ গেমের দাম প্রায় ৯,৯৭৯ টাকা",
+        "kicker_bn": "দাম বাড়ছে",
+        "share_value": true,
+        "question_bn": "বাংলাদেশে জিটিএ ৬ গেমের এই দাম আপনার কাছে কেমন মনে হয়?"
       },
-      "desk_importance": 6.0,
+      "desk_importance": 5.0,
       "outlet_count": 1,
       "trending": false,
       "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T17:02:21.294246+00:00"
+        "checked_at": "2026-11-22T18:01:46.727445+00:00"
+      }
+    },
+    {
+      "story_id": "694df96d-4329-55a1-b8bd-7170826448e3",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#NixonChowdhury",
+        "#Faridpur",
+        "#KrishakDal"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2020/12/08/mp_mujibur_rahman_nixon_chowdhury.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-22T17:50:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.25,
+      "rank_score": 3.8646,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/ex-mp-nixon-named-prime-accused-faridpur-krishak-dal-leader-raju-murder-case-1611001",
+          "title": "Ex-MP Nixon named prime accused in Faridpur Krishak Dal leader Raju murder case",
+          "snippet": "Ex-MP Nixon named prime accused in Faridpur Krishak Dal leader Raju murder case"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/nixon-chowdhury-named-prime-accused-faridpur-krishak-dal-leader-murder-case-4330581",
+          "title": "Nixon Chowdhury named prime accused in Faridpur Krishak Dal leader murder case",
+          "snippet": "Nixon Chowdhury named prime accused in Faridpur Krishak Dal leader murder case"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/dhaka/982617/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%95-%E0%A6%A6%E0%A6%B2-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%86%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BF-%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%A8-%E0%A6%9A%E0%A7%8C%E0%A6%A7%E0%A7%81%E0%A6%B0%E0%A7%80",
+          "title": "কৃষক দল নেতাকে হত্যার ঘটনায় মামলা: প্রধান আসামি নিক্সন চৌধুরী",
+          "snippet": "কৃষক দল নেতাকে হত্যার ঘটনায় মামলা: প্রধান আসামি নিক্সন চৌধুরী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রাজু হত্যা মামলায় প্রধান আসামি সাবেক এমপি নিক্সন চৌধুরী",
+        "title_en": "Ex-MP Nixon named prime accused in Raju murder case",
+        "summary_bn": "ফরিদপুরের ভাঙ্গায় কৃষক দল নেতা রাজু মোল্লা হত্যার ঘটনায় সাবেক সংসদ সদস্য মজিবুর রহমান চৌধুরী নিক্সনকে প্রধান আসামি করে মামলা হয়েছে।",
+        "summary_en": "A murder case has been filed naming former lawmaker Mujibur Rahman Chowdhury Nixon as the prime accused in Faridpur.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-22T17:50:00+00:00",
+        "lead_bn": "ফরিদপুরের ভাঙ্গায় কৃষক দল নেতা রাজু মোল্লা হত্যার ঘটনায় সাবেক সংসদ সদস্য মজিবুর রহমান চৌধুরী নিক্সনকে প্রধান আসামি করে মামলা হয়েছে।",
+        "lead_en": "A murder case has been filed naming former lawmaker Mujibur Rahman Chowdhury Nixon as the prime accused in Faridpur.",
+        "bullets_bn": [
+          "নিহত রাজুর স্ত্রী রিয়া বেগম ভাঙ্গা থানায় মামলাটি দায়ের করেন।",
+          "মামলায় ৯৬ জনের নাম উল্লেখসহ অজ্ঞাতনামা আরও ১০০ থেকে ১৫০ জনকে আসামি করা হয়েছে।",
+          "পুলিশের কাছে দেওয়া তথ্য অনুযায়ী ১৭ নভেম্বর রাজুকে কুপিয়ে গুরুতর আহত করা হয়।"
+        ],
+        "bullets_en": [
+          "The case was filed with Bhanga Police Station by Riya Begum, wife of the deceased Raju.",
+          "The case includes 96 named accused and another 100 to 150 unidentified people.",
+          "According to the FIR, Raju was attacked and critically injured on 17 November."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মামলার এজাহারে বলা হয়, ১৭ নভেম্বর সন্ধ্যায় রাজু মোল্লা মোটরসাইকেলে ভাঙ্গা যাওয়ার পথে হামিরদী বাসস্ট্যান্ডে তাকে থামানো হয়। প্রধান আসামি নিক্সন চৌধুরীর নির্দেশনা ও আর্থিক সহায়তায় নিষিদ্ধ সংগঠনের নেতাকর্মীরা মহাসড়ক অবরোধ করে তার ওপর হামলা চালায়। পরে হাসপাতালে নেওয়ার পর চিকিৎসকেরা তাকে মৃত ঘোষণা করেন।",
+        "details_en": "According to the first information report, Raju was heading towards Bhanga on 17 November when the accused stopped him at Hamirdi Bus Stand. The FIR alleged that on the instructions of prime accused Nixon Chowdhury, activists blocked the highway and attacked Raju, who was later declared dead at a hospital.",
+        "hook_bn": "ফরিদপুরে কৃষক দল নেতা রাজু হত্যা মামলা",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-22T18:01:46.727445+00:00"
       }
     }
   ]
