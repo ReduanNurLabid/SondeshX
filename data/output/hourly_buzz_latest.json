@@ -1,311 +1,397 @@
 {
-  "updated_at": "2026-11-22T14:00:43.643342",
-  "total_stories": 4,
+  "updated_at": "2026-11-22T15:00:44.559689",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "742fb9c5-6cac-5ded-8211-2c032fa424e2",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#HSC",
-        "#EducationBoard"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1567206163313-9e34c830557a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8aHNjJTIwZXZhbHVhdGlvbiUyMHJlc3VsdHMlMjBwdWJsaXNoZWQlMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NTM1NjA4MXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-22T13:56:10+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.8878,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/education/425434/hsc-re-evaluation-results-to-be-published-monday",
-          "title": "HSC re-evaluation results to be published Monday",
-          "snippet": "HSC re-evaluation results to be published Monday"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/country/500033",
-          "title": "যতই ষড়যন্ত্র করুন, আপাকে ফেরানো যাবে না: মির্জা ফয়সল",
-          "snippet": "যতই ষড়যন্ত্র করুন, আপাকে ফেরানো যাবে না: মির্জা ফয়সল"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/educations/982573/%E0%A6%8F%E0%A6%87%E0%A6%9A%E0%A6%8F%E0%A6%B8%E0%A6%B8%E0%A6%BF-%E0%A6%AA%E0%A7%81%E0%A6%A8%E0%A6%B0%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A6%B2-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6-%E0%A6%B8%E0%A7%8B%E0%A6%AE%E0%A6%AC%E0%A6%BE%E0%A6%B0",
-          "title": "এইচএসসির পুনর্মূল্যায়নের ফল প্রকাশ সোমবার",
-          "snippet": "এইচএসসির পুনর্মূল্যায়নের ফল প্রকাশ সোমবার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "এইচএসসি পুনর্মূল্যায়নের ফল প্রকাশ",
-        "title_en": "HSC re-evaluation results to be published Monday",
-        "summary_bn": "এইচএসসি ও সমমান পরীক্ষার পুনর্নিরীক্ষণ ও পুনর্মূল্যায়নের ফল প্রকাশ করা হবে ২৩ নভেম্বর বেলা ৩টায়।",
-        "summary_en": "Results of the HSC and equivalent exams re-evaluation will be published November 23 at 3 PM.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T13:56:10+00:00",
-        "lead_bn": "এইচএসসি ও সমমান পরীক্ষার পুনর্নিরীক্ষণ ও পুনর্মূল্যায়নের ফল প্রকাশ করা হবে ২৩ নভেম্বর বেলা ৩টায়।",
-        "lead_en": "Results of the HSC and equivalent exams re-evaluation will be published November 23 at 3 PM.",
-        "bullets_bn": [
-          "আন্তঃশিক্ষা বোর্ড পরীক্ষা নিয়ন্ত্রক কমিটির এক বিজ্ঞপ্তিতে এ তথ্য জানানো হয়েছে।",
-          "সংশ্লিষ্ট শিক্ষা বোর্ডগুলোর ওয়েবসাইটে ফল পাওয়া যাবে।",
-          "কেন্দ্রীয় ফলাফল প্রকাশের ওয়েবসাইটেও এই ফল পাওয়া যাবে।"
-        ],
-        "bullets_en": [
-          "The information was given in a notification by the Inter-Education Board Examination Controller Committee.",
-          "The results will be available on the respective education boards websites.",
-          "The results will also be available on the central results publication website."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "আন্তঃশিক্ষা বোর্ড পরীক্ষা নিয়ন্ত্রক কমিটির এক বিজ্ঞপ্তিতে পুনর্নিরীক্ষণ ও পুনর্মূল্যায়নের ফল প্রকাশের এই তথ্য জানানো হয়।",
-        "details_en": "The Inter-Education Board Examination Controller Committee announced the re-evaluation results publication in a notification on Sunday.",
-        "hook_bn": "এইচএসসি পুনর্মূল্যায়নের ফল প্রকাশ ২৩ নভেম্বর",
-        "kicker_bn": "নতুন তারিখ",
-        "share_value": true,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T14:02:22.909349+00:00"
-      }
-    },
-    {
-      "story_id": "08f00409-b9cc-5c8f-87ab-bfbddd7e3105",
+      "story_id": "fe1a3363-304c-5bee-9480-bf1348478a2e",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
+        "society_education",
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#BorderGuardBangladesh",
-        "#BenapoleBorder"
+        "#KabiNazrulCollege",
+        "#DhakaUniversity",
+        "#OldDhaka",
+        "#CrudeBomb"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/22/img-20261122-wa0034.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/09/18/crude_bomb.jpg",
       "image_caption": null,
-      "published_at": "2026-11-22T13:00:00+00:00",
+      "published_at": "2026-11-22T14:15:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.3944,
+      "importance_score": 7.5,
+      "rank_score": 5.3784,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/bgb-tightens-border-security-ahead-december-prevent-illegal-entry-1610731",
-          "title": "BGB tightens border security ahead of December to prevent illegal entry",
-          "snippet": "BGB tightens border security ahead of December to prevent illegal entry"
+          "url": "https://www.tbsnews.net/bangladesh/du-gardener-injured-crude-bomb-explosion-outside-kabi-nazrul-govt-college-old-dhaka",
+          "title": "DU gardener injured in crude bomb explosion outside Kabi Nazrul Govt College in Old Dhaka",
+          "snippet": "DU gardener injured in crude bomb explosion outside Kabi Nazrul Govt College in Old Dhaka"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/crude-bomb-blast-injures-du-employee-old-dhaka-4330506",
+          "title": "Crude bomb blast injures DU employee in Old Dhaka",
+          "snippet": "Crude bomb blast injures DU employee in Old Dhaka"
+        },
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/crime/post-1224334/",
+          "title": "মালিবাগ সরকারি অফিসার্স কোয়ার্টারে ককটেল বিস্ফোরণ",
+          "snippet": "মালিবাগ সরকারি অফিসার্স কোয়ার্টারে ককটেল বিস্ফোরণ"
         },
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/khulna/982575/%E0%A6%B6%E0%A7%87%E0%A6%96-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A6%BE-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%A8%E2%80%94%E0%A6%8F%E0%A6%AE%E0%A6%A8-%E0%A6%97%E0%A7%81%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%A8%E0%A7%87-%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%87",
-          "title": "শেখ হাসিনা ফিরতে পারেন—এমন গুঞ্জনে সীমান্তে নিরাপত্তা ও নজরদারি জোরদার",
-          "snippet": "শেখ হাসিনা ফিরতে পারেন—এমন গুঞ্জনে সীমান্তে নিরাপত্তা ও নজরদারি জোরদার"
+          "url": "https://www.banglatribune.com/law-and-crime/982590/%E0%A6%95%E0%A6%95%E0%A6%9F%E0%A7%87%E0%A6%B2-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%95%E0%A6%AC%E0%A6%BF-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%81%E0%A6%B2-%E0%A6%95%E0%A6%B2%E0%A7%87%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%93",
+          "title": "ককটেল বিস্ফোরণে কবি নজরুল কলেজের কর্মচারী ও ছাত্রদল নেতা আহত",
+          "snippet": "ককটেল বিস্ফোরণে কবি নজরুল কলেজের কর্মচারী ও ছাত্রদল নেতা আহত"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সীমান্তে নিরাপত্তা জোরদার করেছে বিজিবি",
-        "title_en": "BGB strengthens security along the borders",
-        "summary_bn": "ডিসেম্বর মাসে অবৈধ প্রবেশ ঠেকাতে দেশের সীমান্ত এলাকায় নিরাপত্তা জোরদার করেছে বর্ডার গার্ড বাংলাদেশ (বিজিবি)।",
-        "summary_en": "Border Guard Bangladesh (BGB) has strengthened security along the country's borders to prevent illegal entry ahead of December.",
+        "title_bn": "কবি নজরুল কলেজের সামনে ককটেল বিস্ফোরণে ঢাকা বিশ্ববিদ্যালয়ের মালি আহত",
+        "title_en": "DU gardener injured in crude bomb explosion outside Kabi Nazrul college",
+        "summary_bn": "রাজধানীর কবি নজরুল সরকারি কলেজের সামনে ককটেল বিস্ফোরণে ঢাকা বিশ্ববিদ্যালয়ের এক মালি গুরুতর আহত হয়েছেন।",
+        "summary_en": "A Dhaka University gardener sustained serious injuries in a crude bomb explosion outside Kabi Nazrul Government College.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T13:00:00+00:00",
-        "lead_bn": "ডিসেম্বর মাসে অবৈধ প্রবেশ ঠেকাতে দেশের সীমান্ত এলাকায় নিরাপত্তা জোরদার করেছে বর্ডার গার্ড বাংলাদেশ (বিজিবি)।",
-        "lead_en": "Border Guard Bangladesh (BGB) has strengthened security along the country's borders to prevent illegal entry ahead of December.",
-        "bullets_bn": [
-          "বিজিবি মহাপরিচালক মেজর জেনারেল মোহাম্মদ আশরাফুজ্জামান সিদ্দিকী ব্রাহ্মণবাড়িয়ার আখাউড়া সীমান্ত পরিদর্শনের সময় এই কথা জানান।",
-          "সীমান্তে পুশ-ইন, মাদক চোরাচালান এবং অস্ত্র ও বিস্ফোরক পাচার রোধে কাজ করছে বাহিনীটি।",
-          "সীমান্তে সন্দেহজনক গতিবিধি দেখলে বিজিবিকে তথ্য জানানোর জন্য স্থানীয় বাসিন্দাদের প্রতি আহ্বান জানানো হয়েছে।"
-        ],
-        "bullets_en": [
-          "BGB Director General Major General Mohammad Ashrafuzzaman Siddiqui made the remarks while inspecting the Akhaura border in Brahmanbaria.",
-          "The force is also working to prevent push-ins, drug smuggling and the trafficking of arms and explosives.",
-          "Local residents have been urged to share information about suspicious cross-border movements with the BGB."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "সীমান্তে নিরাপত্তা ও নজরদারি জোরদার",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T14:02:22.909349+00:00"
-      }
-    },
-    {
-      "story_id": "3dce53ad-202c-54a7-897e-e6526a24ab75",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law",
-        "society_education"
-      ],
-      "region": "international",
-      "tags": [
-        "#Bangladesh",
-        "#Thailand",
-        "#ASEAN",
-        "#Rohingya"
-      ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/asean.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-22T11:23:42+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.357,
-      "sources": [
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/thailand-backs-bangladeshs-asean-rcep-bids-4330326",
-          "title": "Thailand backs Bangladesh’s ASEAN, RCEP bids",
-          "snippet": "Thailand backs Bangladesh’s ASEAN, RCEP bids"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/bangladesh-nepal-agree-to-deepen-bilateral-ties",
-          "title": "Bangladesh, Nepal agree to deepen bilateral ties",
-          "snippet": "Bangladesh, Nepal agree to deepen bilateral ties"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রোহিঙ্গা প্রত্যাবাসন ও আসিয়ান বিডে বাংলাদেশের পাশে থাকবে থাইল্যান্ড",
-        "title_en": "Thailand backs Bangladesh on ASEAN bid and Rohingya repatriation",
-        "summary_bn": "থাইল্যান্ডের রাষ্ট্রদূত থিতিপর্ণ চিরাসওয়াদী পররাষ্ট্র মন্ত্রণালয়ে বৈঠককালে আসিয়ান ও আরসিইপি জোটে বাংলাদেশের বিড এবং রোহিঙ্গা প্রত্যাবাসনে সমর্থন পুনর্ব্যক্ত করেছেন।",
-        "summary_en": "Thai Ambassador Thitiporn Chirasawadi reaffirmed her country's support for Bangladesh's ASEAN and RCEP bids and Rohingya repatriation during a meeting at the foreign ministry.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T11:23:42+00:00",
-        "lead_bn": "থাইল্যান্ডের রাষ্ট্রদূত থিতিপর্ণ চিরাসওয়াদী পররাষ্ট্র মন্ত্রণালয়ে বৈঠককালে আসিয়ান ও আরসিইপি জোটে বাংলাদেশের বিড এবং রোহিঙ্গা প্রত্যাবাসনে সমর্থন পুনর্ব্যক্ত করেছেন।",
-        "lead_en": "Thai Ambassador Thitiporn Chirasawadi reaffirmed her country's support for Bangladesh's ASEAN and RCEP bids and Rohingya repatriation during a meeting at the foreign ministry.",
-        "bullets_bn": [
-          "বৈঠকে বাণিজ্য, বিনিয়োগ, জ্বালানি ও যোগাযোগসহ দ্বিপক্ষীয়, আঞ্চলিক ও বহুপক্ষীয় বিষয় নিয়ে আলোচনা হয়।",
-          "রাষ্ট্রদূত থিতিপর্ণ চিরাসওয়াদী জানান যে থাইল্যান্ড বারবার চিকিৎসা নিতে আসা রোগীদের মাল্টিপল এন্ট্রি ভিসা দেবে।",
-          "পররাষ্ট্র প্রতিমন্ত্রী হুমায়ুন কবির দ্বিপক্ষীয় সম্পর্ক নতুন উচ্চতায় নিতে ২০২৭ সালে দুই দেশের মধ্যে উচ্চপর্যায়ের সফরের গুরুত্ব তুলে ধরেন।"
-        ],
-        "bullets_en": [
-          "They discussed bilateral, regional and multilateral issues including trade, investment, energy and connectivity during the meeting.",
-          "Ambassador Thitiporn Chirasawadi assured that multiple-entry visas would be issued to patients requiring repeated treatment in Thailand.",
-          "State Minister Humaiun Kobir stressed the importance of a high-level visit between the two countries in 2027 to take relations forward."
-        ],
-        "impact_bn": "থাইল্যান্ডে বারবার চিকিৎসা নিতে যাওয়া বাংলাদেশিরা এখন থেকে একাধিকবার প্রবেশের ভিসা বা মাল্টিপল এন্ট্রি ভিসা পাবেন।",
-        "impact_en": "Bangladeshi patients requiring repeated medical treatment in Thailand will now be issued multiple-entry visas.",
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "মাল্টিপল এন্ট্রি ভিসা পাবেন রোগীরা",
-        "kicker_bn": "ভিসা আপডেট",
-        "share_value": true,
-        "question_bn": "থাইল্যান্ডে চিকিৎসা নিতে গিয়ে আপনাদের কী ধরনের ভিসাসংক্রান্ত সমস্যায় পড়তে হয়?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T14:02:22.909349+00:00"
-      }
-    },
-    {
-      "story_id": "29e0ce49-207d-5879-989e-fd4d6284a6cb",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "world_diplomacy",
-        "economy_business"
-      ],
-      "region": "international",
-      "tags": [
-        "#MonzurulHuq",
-        "#DhakaCourier",
-        "#Tokyo",
-        "#ProthomAlo"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2025/09/10/monzurul_huq.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-22T13:20:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.403,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/obituary/veteran-journalist-dhaka-courier-columnist-monzurul-huq-dies-tokyo-1610761",
-          "title": "Veteran journalist, Dhaka Courier columnist Monzurul Huq dies in Tokyo",
-          "snippet": "Veteran journalist, Dhaka Courier columnist Monzurul Huq dies in Tokyo"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জাপানে মারা গেছেন প্রবীণ সাংবাদিক মনজুরুল হক",
-        "title_en": "Veteran journalist Monzurul Huq dies in Tokyo",
-        "summary_bn": "টোকিওতে মারা গেছেন ঢাকা কুরিয়ারের কলামিস্ট এবং দ্য ফরেন করেসপন্ডেন্টস ক্লাব অব জাপানের সাবেক সভাপতি মনজুরুল হক।",
-        "summary_en": "Monzurul Huq, columnist for Dhaka Courier and former president of the Foreign Correspondents' Club of Japan, died in Tokyo.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
           "society_education",
-          "world_diplomacy",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T13:20:00+00:00",
-        "lead_bn": "টোকিওতে মারা গেছেন ঢাকা কুরিয়ারের কলামিস্ট এবং দ্য ফরেন করেসপন্ডেন্টস ক্লাব অব জাপানের সাবেক সভাপতি মনজুরুল হক।",
-        "lead_en": "Monzurul Huq, columnist for Dhaka Courier and former president of the Foreign Correspondents' Club of Japan, died in Tokyo.",
+        "published_at": "2026-11-22T14:15:00+00:00",
+        "lead_bn": "রাজধানীর কবি নজরুল সরকারি কলেজের সামনে ককটেল বিস্ফোরণে ঢাকা বিশ্ববিদ্যালয়ের এক মালি গুরুতর আহত হয়েছেন।",
+        "lead_en": "A Dhaka University gardener sustained serious injuries in a crude bomb explosion outside Kabi Nazrul Government College.",
         "bullets_bn": [
-          "মৃত্যুকালে তাঁর বয়স হয়েছিল ৭৩ বছর এবং তিনি স্ত্রী ও কন্যা রেখে গেছেন।",
-          "তিনি ১৯৯৪ সাল থেকে জাপানে বসবাস করতেন এবং প্রথম আলোর টোকিও ব্যুরো প্রধান ছিলেন।",
-          "ইউএনবি ও ঢাকা কুরিয়ারের প্রধান সম্পাদক এনায়েতুল্লাহ খান তাঁর মৃত্যুতে গভীর শোক প্রকাশ করেছেন।"
+          "আহত Jahangir Islam ঢাকা মেডিকেল কলেজ হাসপাতালের জরুরি বিভাগে চিকিৎসা নিচ্ছেন।",
+          "ককটেলটি ওপর থেকে এসে তার মাথায় পড়ে বিস্ফোরিত হয় বলে তার ভাই আলমগীর হোসেন জানান।",
+          "পুলিশ ঘটনার সঙ্গে জড়িতদের শনাক্ত করতে কাজ করছে বলে জানিয়েছে।"
         ],
         "bullets_en": [
-          "He was 73 years old at the time of his death and is survived by his wife and daughter.",
-          "He had lived in Japan since 1994 and served as Prothom Alo's Tokyo bureau chief.",
-          "Enayetullah Khan, editor-in-chief of UNB and Dhaka Courier, expressed deep sadness at his passing."
+          "Injured Jahangir Islam is receiving treatment at the Dhaka Medical College Hospital emergency department.",
+          "His brother Alamgir Hossain said the crude bomb fell on his head from above and exploded.",
+          "Police stated they were working to identify those responsible for the incident."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "জাপানে মারা গেছেন প্রবীণ সাংবাদিক মনজুরুল হক",
+        "details_bn": "২২ নভেম্বর সন্ধ্যায় লক্ষ্মীবাজারে কবি নজরুল সরকারি কলেজের মূল ফটকের সামনে এ বিস্ফোরণের ঘটনা ঘটে। এ ছাড়া এদিন রাজধানীর মালিবাগে আবুজর গিফারী কলেজসংলগ্ন সরকারি অফিসার্স কোয়ার্টারের ভেতরে জোড়া ককটেল বিস্ফোরণের ঘটনা ঘটে।",
+        "details_en": "The explosion occurred in front of the main gate of Kabi Nazrul Government College in Luxmibazar on 22 November evening. Additionally, two crude bombs exploded inside the government officers quarters adjacent to Abudharr Ghifari College in Malibagh on the same day.",
+        "hook_bn": "কবি নজরুল কলেজের সামনে ককটেল বিস্ফোরণে আহত ১",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
+      "desk_importance": 7.0,
+      "outlet_count": 4,
       "trending": false,
-      "social_appeal": 5.0,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T14:02:22.909349+00:00"
+        "checked_at": "2026-11-22T15:02:28.929305+00:00"
+      }
+    },
+    {
+      "story_id": "a22349ba-10b4-58ca-91f8-027e8e23362b",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-07-12%2F0ezn0d4x%2FCMM-Court.jpeg?rect=0%2C44%2C1164%2C611&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-22T14:13:53+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.5,
+      "rank_score": 5.3726,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/crime/ybbtatqubs",
+          "title": "বিমানবন্দরে সাড়ে ৭ কেজি সোনার পেস্ট উদ্ধার: তিন আসামির ৫ দিনের রিমান্ড",
+          "snippet": "বিমানবন্দরে সাড়ে ৭ কেজি সোনার পেস্ট উদ্ধার: তিন আসামির ৫ দিনের রিমান্ড"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/zubaida-rahman-hands-over-home-keys-korail-fire-victims-1610721",
+          "title": "Zubaida Rahman hands over home keys to Korail fire victims",
+          "snippet": "Zubaida Rahman hands over home keys to Korail fire victims"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/court/425431/tk11.67cr-gold-paste-seizure-three-placed-on",
+          "title": "Tk11.67cr gold paste seizure: Three placed on five-day remand",
+          "snippet": "Tk11.67cr gold paste seizure: Three placed on five-day remand"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বিমানবন্দরে সাড়ে ৭ কেজি সোনার পেস্ট উদ্ধারের মামলায় তিন আসামির রিমান্ড মঞ্জুর।",
+        "title_en": "Three placed on five-day remand over Tk11.67cr gold paste seizure at airport.",
+        "summary_bn": "হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দর থেকে প্রায় সাড়ে সাত কেজি সোনার পেস্টসহ গ্রেপ্তার তিন আসামির পাঁচ দিন করে রিমান্ড মঞ্জুর করেছেন আদালত।",
+        "summary_en": "A court granted a five-day remand for three suspects arrested with about seven and a half kilograms of gold paste at Hazrat Shahjalal International Airport.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-22T14:13:53+00:00",
+        "lead_bn": "হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দর থেকে প্রায় সাড়ে সাত কেজি সোনার পেস্টসহ গ্রেপ্তার তিন আসামির পাঁচ দিন করে রিমান্ড মঞ্জুর করেছেন আদালত।",
+        "lead_en": "A court granted a five-day remand for three suspects arrested with about seven and a half kilograms of gold paste at Hazrat Shahjalal International Airport.",
+        "bullets_bn": [
+          "ঢাকার অতিরিক্ত চিফ মেট্রোপলিটন ম্যাজিস্ট্রেট মো. জাকির হোসাইন শুনানি শেষে রিমান্ডের এ আদেশ দেন।",
+          "উদ্ধার করা সোনার পেস্টের ওজন ৭ কেজি ৫০০ গ্রাম এবং এর আনুমানিক বাজারমূল্য ১১ কোটি ৬৭ লাখ টাকা।",
+          "তদন্ত কর্মকর্তা ১০ দিনের রিমান্ড আবেদন করলেও আদালত পাঁচ দিনের রিমান্ড মঞ্জুর করেন।"
+        ],
+        "bullets_en": [
+          "Dhaka Additional Chief Metropolitan Magistrate Md Jakir Hossain issued the remand order following a hearing.",
+          "The seized gold paste weighs 7 kg 500 gm and has an estimated market value of Tk11.67 crore.",
+          "The investigation officer sought a ten-day remand, but the court granted a five-day remand."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "এর আগে বিমানবন্দর এলাকা থেকে আসামিদের আটক করা হয় এবং তাঁদের বিরুদ্ধে বিশেষ ক্ষমতা আইনে বিমানবন্দর থানায় মামলা করেন এসআই আবুল কালাম। এপিবিএন ও পুলিশ অভিযান চালিয়ে আসামিদের আটক করে এবং ইয়াছিনের শরীর তল্লাশি করে কমলা রঙের কাপড়ে মোড়ানো ১৫টি ডিম্বাকৃতির প্যাকেট পাওয়া যায়। পুলিশ জানায়, আসামি সৌরভ নিয়মিত সৌদি আরবে যাতায়াত করেন এবং সেখান থেকে অভিনব কায়দায় সোনা এনে চোরাচালান করতেন।",
+        "details_en": "Earlier, the suspects were detained from the airport area, and SI Abul Kalam filed a case against them under the Special Powers Act at the airport police station. APBn and police conducted a drive to detain the suspects, and a search of Yasin's body at the APBn office yielded 15 egg-shaped packets wrapped in orange cloth. Police said suspect Sourav regularly travels to Saudi Arabia and used novel methods to smuggle gold from there.",
+        "hook_bn": "শাহজালাল বিমানবন্দরে সাড়ে সাত কেজি সোনার পেস্ট উদ্ধার",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-22T15:02:28.929305+00:00"
+      }
+    },
+    {
+      "story_id": "fbea6680-f694-5c6f-b4cf-053ed5be9215",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#GangesWaterTreaty",
+        "#BangladeshIndia",
+        "#JointRiversCommission"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/16/farakka-barrage-1724754012.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-22T14:05:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.0,
+      "rank_score": 4.6403,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/foreign-policy/ganges-water-treaty-set-expire-neither-country-clarifies-position-new-agreement",
+          "title": "Ganges water treaty set to expire, but neither country clarifies position on new agreement",
+          "snippet": "Ganges water treaty set to expire, but neither country clarifies position on new agreement"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মেয়াদ শেষ হতে চলা গঙ্গা চুক্তি নিয়ে এখনও অবস্থান পরিষ্কার করেনি ভারত",
+        "title_en": "India yet to clarify position on expiring Ganges water treaty",
+        "summary_bn": "আগামী ১২ ডিসেম্বর বাংলাদেশ ও ভারতের মধ্যে স্বাক্ষরিত ত্রিশ বছর মেয়াদী গঙ্গা পানি বণ্টন চুক্তি শেষ হতে চলেছে, তবে এখনও নতুন চুক্তি নিয়ে কোনো আনুষ্ঠানিক আলোচনার সময়সূচী ঠিক হয়নি।",
+        "summary_en": "The thirty-year Ganges water-sharing treaty between Bangladesh and India is set to expire on 12 December, yet no formal talks schedule has been fixed.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-22T14:05:00+00:00",
+        "lead_bn": "আগামী ১২ ডিসেম্বর বাংলাদেশ ও ভারতের মধ্যে স্বাক্ষরিত ত্রিশ বছর মেয়াদী গঙ্গা পানি বণ্টন চুক্তি শেষ হতে চলেছে, তবে এখনও নতুন চুক্তি নিয়ে কোনো আনুষ্ঠানিক আলোচনার সময়সূচী ঠিক হয়নি।",
+        "lead_en": "The thirty-year Ganges water-sharing treaty between Bangladesh and India is set to expire on 12 December, yet no formal talks schedule has been fixed.",
+        "bullets_bn": [
+          "বাংলাদেশ নতুন চুক্তিতে পানির ন্যায্য হিস্যা নিশ্চিত করার জন্য একটি গ্যারান্টি ধারা চাচ্ছে।",
+          "ভারত এখনও আনুষ্ঠানিক আলোচনার জন্য কবে বসবে সে বিষয়ে অবস্থান স্পষ্ট করেনি।",
+          "ঢাকাতে অনুষ্ঠিত বাংলাদেশ ও ভারতের যৌথ নদী কমিশনের যৌথ কমিটির একানব্বইতম সভায় নতুন চুক্তি নিয়ে কোনো আলোচনা হয়নি।"
+        ],
+        "bullets_en": [
+          "Bangladesh wants a guarantee clause in a new treaty to ensure its fair share of water.",
+          "India has yet to make its position clear on when it will sit for formal negotiations.",
+          "The 91st meeting of the Joint Committee of the Joint Rivers Commission in Dhaka held no discussions on a new agreement."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "যৌথ নদী কমিশনের যৌথ কমিটির একানব্বইতম সভায় ২০২৬ সালের গঙ্গা পানি বণ্টন চুক্তি বাস্তবায়নের বার্ষিক প্রতিবেদন চূড়ান্ত করা হয়েছে। যৌথ নদী কমিশনের সদস্য এবং যৌথ কমিটির বাংলাদেশ প্রতিনিধি দলের প্রধান আনোয়ার কাদির জানিয়েছেন এটি নতুন চুক্তির সভা নয়, যৌথ নদী কমিশনের নিয়মিত সভা। বাংলাদেশ বিদ্যমান চুক্তি কেবল বাড়ানোর বদলে জাতীয় স্বার্থ রক্ষা করে নতুন চুক্তি করার পক্ষে এবং শুষ্ক মৌসুমে নির্দিষ্ট পরিমাণ পানির জন্য গ্যারান্টি ধারা চাচ্ছে।",
+        "details_en": "The 91st meeting of the Joint Committee of the Joint Rivers Commission finalized the annual report for 2026 on the implementation of the Ganges Water Sharing Treaty. Anwar Qadir, member of the Joint Rivers Commission and head of the Bangladesh delegation, stated this was a regular meeting rather than one on a new treaty. Bangladesh wants a new agreement safeguarding national interests with a guarantee clause ensuring a specific water volume during the dry season, rather than simply extending the existing one.",
+        "hook_bn": "ডিসেম্বরে শেষ হচ্ছে ত্রিশ বছরের গঙ্গা চুক্তি",
+        "kicker_bn": "মেয়াদ শেষ",
+        "share_value": true,
+        "question_bn": "ভারতের সঙ্গে গঙ্গা পানি চুক্তি নবায়ন বা নতুন চুক্তির ক্ষেত্রে বাংলাদেশের কী ধরনের শর্ত রাখা উচিত বলে আপনার মনে হয়?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-22T15:02:28.929305+00:00"
+      }
+    },
+    {
+      "story_id": "da8ff33f-f700-53f4-b8da-114b5bb82d49",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#NCTB",
+        "#TextbookBoard",
+        "#EducationNews"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/02/10/nctb.png",
+      "image_caption": null,
+      "published_at": "2026-11-22T14:20:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.5,
+      "rank_score": 4.0593,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/education/nctb-suspends-printing-binding-all-notes-guidebooks-until-31-dec-1610806",
+          "title": "NCTB suspends printing, binding of all notes, guidebooks until 31 Dec",
+          "snippet": "NCTB suspends printing, binding of all notes, guidebooks until 31 Dec"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822473/%E0%A7%A9%E0%A7%A7-%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%A8%E0%A7%8B%E0%A6%9F-%E0%A6%97%E0%A6%BE%E0%A6%87%E0%A6%A1-%E0%A6%AC%E0%A6%87-%E0%A6%9B%E0%A6%BE%E0%A6%AA%E0%A6%BE-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%B0",
+          "title": "৩১ ডিসেম্বর পর্যন্ত নোট-গাইড বই ছাপা বন্ধের নির্দেশ",
+          "snippet": "৩১ ডিসেম্বর পর্যন্ত নোট-গাইড বই ছাপা বন্ধের নির্দেশ"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/printing-notes-guidebooks-remain-suspended-until-distribution-free/",
+          "title": "পাঠ্যপুস্তক বিতরণ শেষ না হওয়া পর্যন্ত নোট-গাইড ছাপা বন্ধ",
+          "snippet": "পাঠ্যপুস্তক বিতরণ শেষ না হওয়া পর্যন্ত নোট-গাইড ছাপা বন্ধ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "৩১ ডিসেম্বর পর্যন্ত সব নোট ও গাইড বই ছাপা বন্ধের নির্দেশ",
+        "title_en": "NCTB suspends printing of all notes and guidebooks until 31 December",
+        "summary_bn": "২০২৭ শিক্ষাবর্ষের বিনামూল্যের পাঠ্যপুস্তক বিতরণ শেষ না হওয়া পর্যন্ত সব নোট ও গাইড বই ছাপা বন্ধ রাখার নির্দেশ দিয়েছে এনসিটিবি।",
+        "summary_en": "The NCTB has directed to suspend printing and binding of all note and guidebooks until distribution of 2027 textbooks ends.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-22T14:20:00+00:00",
+        "lead_bn": "২০২৭ শিক্ষাবর্ষের বিনামూল্যের পাঠ্যপুস্তক বিতরণ শেষ না হওয়া পর্যন্ত সব নোট ও গাইড বই ছাপা বন্ধ রাখার নির্দেশ দিয়েছে এনসিটিবি।",
+        "lead_en": "The NCTB has directed to suspend printing and binding of all note and guidebooks until distribution of 2027 textbooks ends.",
+        "bullets_bn": [
+          "আগামী ৩১ ডিসেম্বর পর্যন্ত সব ধরনের নোট, গাইড ও অনুশীলনমূলক সহায়ক বইয়ের মুদ্রণ ও বাঁধাই কার্যক্রম বন্ধ রাখতে বলা হয়েছে।",
+          "এনসিটিবির সচিব অধ্যাপক শাহ মুহাম্মদ ফিরোজ আল ফেরদৌস স্বাক্ষরিত এক চিঠিতে গত ১৯ নভেম্বর এই নির্দেশ দেওয়া হয়।",
+          "প্রাথমিক ও মাধ্যমিক স্তরের শিক্ষার্থীদের মাঝে বিনামূল্যের পাঠ্যপুস্তক সরবরাহ নিশ্চিত করার লক্ষে এই সিদ্ধান্ত নেওয়া হয়েছে।"
+        ],
+        "bullets_en": [
+          "The directive orders the suspension of printing and binding of all note, guide, and supplementary practice books until 31 December.",
+          "The letter dated 19 November was issued with the signature of NCTB Secretary Professor Shah Muhammad Firoz Al Ferdous.",
+          "The decision aims to ensure the smooth, uninterrupted, and timely completion of free textbook distribution for primary and secondary students."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "জাতীয় শিক্ষাক্রম ও পাঠ্যপুস্তক বোর্ডের (এনসিটিবি) দেওয়া নির্দেশনায় বলা হয়েছে, ২০২৭ শিক্ষাবর্ষের জন্য প্রাক-প্রাথমিক, প্রাথমিক, ইবতেদায়ী, মাধ্যমিক, দাখিল, দাখিল ভোকেশনাল, এসএসসি ভোকেশনাল, কারিগরি ও ব্রেইল স্তরের শিক্ষার্থীদের মাঝে বিনামূল্যে বিতরণের জন্য পাঠ্যপুস্তক মুদ্রণ, বাঁধাই ও সরবরাহ কার্যক্রম চলছে। সরকারের এই গুরুত্বপূর্ণ জাতীয় দায়িত্বটি সময়মতো সম্পন্ন করতে সংশ্লিষ্ট সবার সহযোগিতা চাওয়া হয়েছে। চিঠিটি দেশের সব মুদ্রণ ও বাঁধাই প্রতিষ্ঠানের মালিকদের কাছে পাঠানো হয়েছে এবং মাধ্যমিক ও উচ্চশিক্ষা অধিদপ্তরের (মাউশি) মহাপরিচালকের কাছেও পাঠানো হয়েছে।",
+        "details_en": "According to the NCTB directive, the printing, binding, and supply of textbooks for Ebtedayee, secondary, Dakhil, Dakhil Vocational, SSC Vocational, technical, and Braille education for the 2027 academic year are currently underway. The directive stated that ensuring textbooks reach all students within the stipulated time is an important national responsibility, requiring cooperation from all concerned parties. The letter was addressed to owners of printing and binding establishments nationwide and sent to the director general of the Directorate of Secondary and Higher Education (DSHE).",
+        "hook_bn": "৩১ ডিসেম্বর পর্যন্ত সব নোট গাইড বই ছাপা বন্ধ",
+        "kicker_bn": "নতুন নির্দেশ",
+        "share_value": true,
+        "question_bn": "বিনামূল্যের পাঠ্যপুস্তক সময়মতো শিক্ষার্থীদের হাতে পৌঁছাতে এই সিদ্ধান্ত কতটা সাহায্য করবে বলে আপনি মনে করেন?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-22T15:02:28.929305+00:00"
+      }
+    },
+    {
+      "story_id": "3fdbdec4-93da-5e30-a3fa-49c7c425a6d1",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#BangladeshBank",
+        "#InterestRate",
+        "#BankingSector"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2024/07/31/banking_sector_0.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-22T14:30:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.4922,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/banking/banks-defying-4-interest-spread-cap-average-gap-nears-6-1610831",
+          "title": "Banks defying 4% interest spread cap, average gap nears 6%",
+          "snippet": "Banks defying 4% interest spread cap, average gap nears 6%"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ব্যাংকগুলো চার শতাংশ সুদের ব্যবধানের নির্দেশ মানছে না",
+        "title_en": "Banks are defying four percent interest spread cap",
+        "summary_bn": "সেপ্টেম্বর শেষে ব্যাংক খাতের গড় সুদের ব্যবধান প্রায় ছয় শতাংশে রয়েছে, যা বাংলাদেশ ব্যাংকের চার শতাংশের নির্দেশ লঙ্ঘন করেছে।",
+        "summary_en": "The banking sector average spread remained close to six percent at the end of September, defying Bangladesh Bank directives.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-22T14:30:00+00:00",
+        "lead_bn": "সেপ্টেম্বর শেষে ব্যাংক খাতের গড় সুদের ব্যবধান প্রায় ছয় শতাংশে রয়েছে, যা বাংলাদেশ ব্যাংকের চার শতাংশের নির্দেশ লঙ্ঘন করেছে।",
+        "lead_en": "The banking sector average spread remained close to six percent at the end of September, defying Bangladesh Bank directives.",
+        "bullets_bn": [
+          "বিদেশি ব্যাংকগুলোতে গড় ব্যবধান আট দশমিক ১৯ শতাংশ, রাষ্ট্রায়ত্ত ব্যাংকে পাঁচ দশমিক ৭০ শতাংশ এবং বেসরকারি ব্যাংকে পাঁচ দশমিক ৫৬ শতাংশ রেকর্ড করা হয়েছে।",
+          "বাংলাদেশ ব্যাংক জুন মাসে ক্রেডিট কার্ড ও ভোক্তা ঋণ ছাড়া সব ঋণের ক্ষেত্রে সুদের ব্যবধান সর্বোচ্চ চার শতাংশ নির্ধারণ করেছিল।",
+          "রাষ্ট্রায়ত্ত ছয় বাণিজ্যিক ব্যাংকের মধ্যে পাঁচটিরই সেপ্টেম্বর শেষে চার শতাংশের বেশি ব্যবধান ছিল।"
+        ],
+        "bullets_en": [
+          "Foreign banks recorded an average spread of 8.19 percent, state-owned banks 5.70 percent, and private banks 5.56 percent.",
+          "In June, Bangladesh Bank set a maximum four percent spread for all loans except credit cards and consumer loans.",
+          "Among six state-owned commercial banks, five had spreads exceeding four percent at the end of September."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বাংলাদেশ ব্যাংক ঋণ ও আমানতের সুদের হারের ব্যবধান কমিয়ে আনতে এই নির্দেশনা দিয়েছিল। কেন্দ্রীয় ব্যাংক জানায়, অনেক ব্যাংক আমানতের তুলনায় অনেক বেশি ঋণগ্রহীতা সুদের হার আদায় করছে। ব্যাংকারদের মতে, পর্যাপ্ত তরলতা থাকা প্রতিষ্ঠানগুলোতেও ঋণ উল্লেখযোগ্যভাবে বাড়েনি।",
+        "details_en": "Bangladesh Bank issued the directive to bring borrowing costs down to reasonable levels. The central bank stated many banks were charging substantially higher lending rates. Bankers said lending has not expanded significantly even at institutions with adequate liquidity.",
+        "hook_bn": "ব্যাংকগুলোতে সুদের ব্যবধান প্রায় ছয় শতাংশ",
+        "kicker_bn": "ব্যাংকিং",
+        "share_value": false,
+        "question_bn": "ঋণের উচ্চ সুদের হারের কারণে আপনাদের ব্যবসা বা দৈনন্দিন খরচে কেমন প্রভাব পড়ছে?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-22T15:02:28.929305+00:00"
       }
     }
   ]
