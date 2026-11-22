@@ -1,238 +1,245 @@
 {
-  "updated_at": "2026-11-22T12:00:42.023789",
-  "total_stories": 6,
+  "updated_at": "2026-11-22T13:00:51.985918",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "d0c6479a-e9b8-5b84-b9a3-98e0e7b28250",
+      "story_id": "57f1cdb9-2850-56f4-8285-11c084dfeab6",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Jashore",
+        "#CycloneAkvan",
+        "#CropDamage"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/22/whatsapp_image_2026-11-22_at_2.27.16_pm.jpeg",
+      "image_caption": null,
+      "published_at": "2026-11-22T12:25:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.75,
+      "rank_score": 5.7999,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/agriculture/akvan-triggered-rain-damages-3844-hectares-crops-jashore-1610676",
+          "title": "Akvan-triggered rain damages 3,844 hectares of crops in Jashore",
+          "snippet": "Akvan-triggered rain damages 3,844 hectares of crops in Jashore"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/continuous-rain-floods-paddy-potato-crop/",
+          "title": "‎কালাইয়ে বৃষ্টির পানিতে ভাসছে কাটা ধান, আলু চাষ পেছানোর শঙ্কা ‎",
+          "snippet": "‎কালাইয়ে বৃষ্টির পানিতে ভাসছে কাটা ধান, আলু চাষ পেছানোর শঙ্কা ‎"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আকভান-প্ররোচিত বৃষ্টিতে যশোরে ৩ হাজার ৮৪৪ হেক্টর জমির ফসল ক্ষতিগ্রস্ত হয়েছে।",
+        "title_en": "Akvan-triggered rain damages 3,844 hectares of crops in Jashore.",
+        "summary_bn": "ঘূর্ণিঝড় আকভানের প্রভাবে তিন দিনের টানা বৃষ্টিতে যশোরের আটটি উপজেলার ৩ হাজার ৮৪৪ হেক্টর জমির ফসল ক্ষতিগ্রস্ত হয়েছে।",
+        "summary_en": "Three days of rainfall triggered by Cyclone Akvan have damaged crops on 3,844 hectares of land across eight upazilas in Jashore.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-22T12:25:00+00:00",
+        "lead_bn": "ঘূর্ণিঝড় আকভানের প্রভাবে তিন দিনের টানা বৃষ্টিতে যশোরের আটটি উপজেলার ৩ হাজার ৮৪৪ হেক্টর জমির ফসল ক্ষতিগ্রস্ত হয়েছে।",
+        "lead_en": "Three days of rainfall triggered by Cyclone Akvan have damaged crops on 3,844 hectares of land across eight upazilas in Jashore.",
+        "bullets_bn": [
+          "আবহাওয়া অফিস ১৯ থেকে ২১ নভেম্বর পর্যন্ত যশোরে ১৩৭ মিলিমিটার বৃষ্টিপাত রেকর্ড করেছে।",
+          "কৃষি সম্প্রসারণ অধিদপ্তরের তথ্য অনুযায়ী, ১৩ হাজার ৫০০ হেক্টর জমির মধ্যে ১ হাজার ৮৯০ হেক্টর জমির সরিষার ব্যাপক ক্ষতি হয়েছে।",
+          "ক্ষতিগ্রস্ত কৃষকেরা ক্ষেত থেকে আমন ধান ও খড় উদ্ধারে ব্যস্ত সময় পার করছেন।"
+        ],
+        "bullets_en": [
+          "The meteorological office recorded 137mm of rainfall in Jashore between 19 and 21 November.",
+          "According to the Department of Agricultural Extension, mustard suffered the most extensive damage on 1,890 hectares of land.",
+          "Affected farmers are busy salvaging harvested paddy and straw from waterlogged fields."
+        ],
+        "impact_bn": "ফসল হারিয়ে কৃষকদের পরিবার চালানো এবং ঋণ পরিশোধ করা কঠিন হয়ে পড়েছে।",
+        "impact_en": "Losing the crop leaves farmers struggling to feed their families and repay their debts.",
+        "details_bn": "১৯ থেকে ২১ নভেম্বর পর্যন্ত টানা তিন দিনের বৃষ্টি ও শক্তিশালী বাতাসের কারণে কাটা ধান ক্ষতিগ্রস্ত হয়েছে এবং পাকা ধানগাছ মাটিতে নুয়ে পড়েছে। টানা বৃষ্টির পর ২২ নভেম্বর রোদ উঠলে কৃষকেরা ক্ষেতে নেমে পড়েন। মালঞ্চি মাঠে এক কৃষক দেড় বিঘা জমিতে ধান চাষে ২২ হাজার টাকা খরচ করেছিলেন এবং সার ও সেচের টাকা এখনো বকেয়া রয়েছে।",
+        "details_en": "Prolonged rain and strong winds between 19 and 21 November damaged harvested paddy and flattened standing crops. Sunshine returned on 22 November, prompting farmers to head to their fields. At Malanchi field, a farmer had spent Tk22,000 on paddy cultivation with outstanding payments for fertiliser and irrigation.",
+        "hook_bn": "ফসলের মাঠে হাঁটুসমান পানি",
+        "kicker_bn": "ধান ও সরিষার ক্ষতি",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": true,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-22T13:05:26.967376+00:00"
+      }
+    },
+    {
+      "story_id": "a4006e2a-236a-54ae-bf54-9cd9ef356cda",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#BGMEA",
+        "#RMG",
+        "#GarmentWorkers",
+        "#BangladeshEconomy"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/04/factory-closure_0.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-22T12:45:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.5,
+      "rank_score": 5.5373,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/rmg/garment-unrest-causes-tk5136cr-losses-317-factories-bgmea-1610716",
+          "title": "Garment unrest causes Tk5,136cr losses at 317 factories: BGMEA",
+          "snippet": "Garment unrest causes Tk5,136cr losses at 317 factories: BGMEA"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/rmg-sector-loses-428m-amid-unrest",
+          "title": "RMG sector loses $428m amid unrest",
+          "snippet": "RMG sector loses $428m amid unrest"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/economy/500010",
+          "title": "১৮ দিনে পোশাক খাতে ৪২৮ মিলিয়ন ডলারের ক্ষতি",
+          "snippet": "১৮ দিনে পোশাক খাতে ৪২৮ মিলিয়ন ডলারের ক্ষতি"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পোশাক খাতে শ্রম অসন্তোষে ৪২৮ মিলিয়ন ডলার ক্ষতি হয়েছে",
+        "title_en": "RMG sector loses $428m amid labor unrest",
+        "summary_bn": "পোশাক খাতের শ্রমিক অসন্তোষের কারণে ৩১৭টি কারখানায় ৪২৮ মিলিয়ন মার্কিন ডলার বা ৫,১৩৬ কোটি টাকার সরাসরি ক্ষতি হয়েছে।",
+        "summary_en": "Labour unrest in the readymade garment sector has caused direct losses of $428 million across 317 factories.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-22T12:45:00+00:00",
+        "lead_bn": "পোশাক খাতের শ্রমিক অসন্তোষের কারণে ৩১৭টি কারখানায় ৪২৮ মিলিয়ন মার্কিন ডলার বা ৫,১৩৬ কোটি টাকার সরাসরি ক্ষতি হয়েছে।",
+        "lead_en": "Labour unrest in the readymade garment sector has caused direct losses of $428 million across 317 factories.",
+        "bullets_bn": [
+          "বিজিএমইএর তথ্য অনুযায়ী এই ক্ষতি হয়েছে ৫,১৩৬ কোটি টাকার সমান।",
+          "অন্য দেশে চলে যাওয়া রপ্তানি আদেশ হারিয়ে বাংলাদেশ আরও ২৫৪ মিলিয়ন ডলার বা ৩,০৯৬ কোটি টাকা হারিয়েছে।",
+          "বাংলাদেশ পোশাক প্রস্তুতকারক ও রপ্তানিকারক সমিতি বা বিজিএমইএ এই পরিসংখ্যান প্রকাশ করেছে।"
+        ],
+        "bullets_en": [
+          "The trade body disclosed the figures based on preliminary information collected from 317 member factories.",
+          "Bangladesh lost another $254 million in export orders shifted to other countries.",
+          "The losses were revealed by the Bangladesh Garment Manufacturers and Exporters Association in a press release."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বিজিএমইএর ৩১৭টি সদস্য কারখানা থেকে সংগৃহীত প্রাথমিক তথ্যের ভিত্তিতে ২২ নভেম্বর এই পরিসংখ্যান প্রকাশ করা হয়। অসন্তোষের কারণে পোশাক খাতে এই বড় অংকের আর্থিক ক্ষতি এবং রপ্তানি আদেশ হারানোর ঘটনা ঘটেছে।",
+        "details_en": "The figures were disclosed on 22 November in a press release based on preliminary information collected from 317 member factories of the Bangladesh Garment Manufacturers and Exporters Association.",
+        "hook_bn": "পোশাক খাতে শ্রম অসন্তোষে ৪২৮ মিলিয়ন ডলার ক্ষতি",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-22T13:05:26.967376+00:00"
+      }
+    },
+    {
+      "story_id": "2b9c4d66-f15f-5239-ba61-da4705fc46ef",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#Dengue",
+        "#DGHS"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-05-21%2F16u8b6zp%2F22__Dhaka_Hospital_Children.jfif?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGVuZ3VlJTIwY2xhaW1zJTIwbW9yZSUyMGxpdmVzJTIwZWR1Y2F0aW9ufGVufDF8MHx8fDE3OTUzNTI1MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-22T11:09:53+00:00",
+      "published_at": "2026-11-22T12:19:56+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.75,
-      "rank_score": 5.7104,
+      "importance_score": 7.5,
+      "rank_score": 5.4053,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/hkqjc86jep",
-          "title": "হামে দুই মাসের মধ্যে এক দিনে সর্বোচ্চ মৃত্যু",
-          "snippet": "হামে দুই মাসের মধ্যে এক দিনে সর্বোচ্চ মৃত্যু"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/health/425420/dengue-claims-2-more-lives-1-519-hospitalized-in",
+          "title": "Dengue claims 2 more lives, 1,519 hospitalized in 24hrs",
+          "snippet": "Dengue claims 2 more lives, 1,519 hospitalized in 24hrs"
         },
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1352-9-more-children-die-1610456",
-          "title": "Measles toll reaches 1,352 as 9 more children die",
-          "snippet": "Measles toll reaches 1,352 as 9 more children die"
+          "url": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-rises-518-two-more-die-1610626",
+          "title": "Dengue: Death toll rises to 518 as two more die",
+          "snippet": "Dengue: Death toll rises to 518 as two more die"
         },
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/nine-more-children-die-with-measles-symptoms-in-24hrs",
-          "title": "Nine more children die with measles symptoms in 24hrs",
-          "snippet": "Nine more children die with measles symptoms in 24hrs"
-        },
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/national/post-1224278/",
-          "title": "হামের উপসর্গে একদিনে ৯ মৃত্যু",
-          "snippet": "হামের উপসর্গে একদিনে ৯ মৃত্যু"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822443/%E0%A6%A1%E0%A7%87%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%8F%E0%A6%95%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A7%A8-%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%AD%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BF",
+          "title": "ডেঙ্গুতে একদিনে ২ জনের মৃত্যু, হাসপাতালে ভর্তি ১,৫১৯",
+          "snippet": "ডেঙ্গুতে একদিনে ২ জনের মৃত্যু, হাসপাতালে ভর্তি ১,৫১৯"
         }
       ],
       "daily_buzz": {
-        "title_bn": "হামের উপসর্গে ৯ জনের মৃত্যু হয়েছে",
-        "title_en": "Nine die with measles symptoms",
-        "summary_bn": "স্বাস্থ্য অধিদপ্তর জানিয়েছে, দেশের বিভিন্ন স্থানে হামের উপসর্গ নিয়ে একদিনে ৯ জনের মৃত্যু হয়েছে।",
-        "summary_en": "Health department states nine people died with measles symptoms in one day across various locations.",
+        "title_bn": "ডেঙ্গুতে আরও দুদিন মৃত্যুর পর দেশে মোট মৃত বেড়ে ৫১৮",
+        "title_en": "Dengue claims 2 more lives as total death toll rises to 518",
+        "summary_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, দেশে গত ২৪ ঘণ্টায় ডেঙ্গুতে আক্রান্ত হয়ে আরও দুজনের মৃত্যু হয়েছে এবং ১ হাজার ৫১৯ জন হাসপাতালে ভর্তি হয়েছেন।",
+        "summary_en": "Two more people died of dengue and 1,519 new patients were hospitalized across the country in 24 hours, according to the DGHS.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T11:09:53+00:00",
-        "lead_bn": "স্বাস্থ্য অধিদপ্তর জানিয়েছে, দেশের বিভিন্ন স্থানে হামের উপসর্গ নিয়ে একদিনে ৯ জনের মৃত্যু হয়েছে।",
-        "lead_en": "Health department states nine people died with measles symptoms in one day across various locations.",
+        "published_at": "2026-11-22T12:19:56+00:00",
+        "lead_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, দেশে গত ২৪ ঘণ্টায় ডেঙ্গুতে আক্রান্ত হয়ে আরও দুজনের মৃত্যু হয়েছে এবং ১ হাজার ৫১৯ জন হাসপাতালে ভর্তি হয়েছেন।",
+        "lead_en": "Two more people died of dengue and 1,519 new patients were hospitalized across the country in 24 hours, according to the DGHS.",
         "bullets_bn": [
-          "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী মারা যাওয়া ৯ জনের মধ্যে ঢাকা বিভাগে চারজন এবং চট্টগ্রামে তিনজন মারা গেছে।",
-          "চলতি মাসের প্রথম ২২ দিনে হামের উপসর্গে মারা গেছে ৯৮ জন এবং মোট মৃত্যু হয়েছে ১ হাজার ৩৫২ জনের।",
-          "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী গত ২৪ ঘণ্টায় নতুন করে ১ হাজার ১৬২ জনের মধ্যে হামের উপসর্গ দেখা গেছে।"
+          "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, নতুন মৃত্যুর মধ্যে একটি চট্টগ্রাম বিভাগে এবং একটি রংপুর বিভাগে ঘটেছ।",
+          "এই নিয়ে চলতি বছর দেশে ডেঙ্গুতে মোট মৃতের সংখ্যা বেড়ে দাঁড়িয়েছে ৫১৮ জনে।",
+          "স্বাস্থ্য অধিদপ্তরের ডেঙ্গুবিষয়ক নিয়মিত প্রতিবেদনে এসব তথ্য জানানো হয়েছে।"
         ],
         "bullets_en": [
-          "According to health department data, four died in Dhaka division and three in Chittagong among the nine deceased.",
-          "Ninety-eight died with measles symptoms in the first 22 days of this month, bringing total deaths to 1,352.",
-          "Health department data shows 1,162 new people developed measles symptoms in the past 24 hours."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "স্বাস্থ্য অধিদপ্তরের হিসাব অনুযায়ী, গত ১৫ মার্চ থেকে হামের উপসর্গে ১ হাজার ২৪৭ জন এবং নিশ্চিত হামে ১০৫ জন মারা গেছে। গত ২৪ ঘণ্টায় ৭৬ জনের শরীরে হাম শনাক্ত হয়েছে এবং ঢাকা বিভাগে সবচেয়ে বেশি রোগী পাওয়া গেছে।",
-        "details_en": "According to health department figures, 1,247 died from measles symptoms and 105 from confirmed measles since March 15. In the past 24 hours, 76 cases were confirmed with the highest number of patients found in Dhaka division.",
-        "hook_bn": "হামের উপসর্গে একদিনে ৯ জনের মৃত্যু",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 4,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-22T12:03:09.834135+00:00"
-      }
-    },
-    {
-      "story_id": "27ada440-3024-57e6-bbf7-2bada7912deb",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#ArmedForces",
-        "#PayScale2026",
-        "#BangladeshMilitary"
-      ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/bd_army.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-22T10:03:51+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 8.0,
-      "rank_score": 5.71,
-      "sources": [
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/bangladesh/armed-forces/news/armed-forces-soldiers-starting-basic-salary-rises-138-tk-21400-4330281",
-          "title": "Armed forces soldiers’ starting basic salary rises 138% to Tk 21,400",
-          "snippet": "Armed forces soldiers’ starting basic salary rises 138% to Tk 21,400"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সশস্ত্র বাহিনীর নিয়মিত সৈনিকদের শুরুর মূল বেতন বেড়ে ২১,৪০০ টাকা হয়েছে",
-        "title_en": "Bangladesh increases starting basic salary of regular soldiers to 21,400 taka",
-        "summary_bn": "নতুন সশস্ত্র বাহিনী বেতন কাঠামোর অধীনে নিয়মিত সৈনিকদের প্রাথমিক মূল বেতন ১৩৭.৭৮ শতাংশ বাড়িয়ে ৯,০০০ টাকা থেকে ২১,৪০০ টাকা করা হয়েছে।",
-        "summary_en": "Under the new pay structure, the starting basic salary of regular soldiers has been raised by 137.78 percent to Tk 21,400 from Tk 9,000.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T10:03:51+00:00",
-        "lead_bn": "নতুন সশস্ত্র বাহিনী বেতন কাঠামোর অধীনে নিয়মিত সৈনিকদের প্রাথমিক মূল বেতন ১৩৭.৭৮ শতাংশ বাড়িয়ে ৯,০০০ টাকা থেকে ২১,৪০০ টাকা করা হয়েছে।",
-        "lead_en": "Under the new pay structure, the starting basic salary of regular soldiers has been raised by 137.78 percent to Tk 21,400 from Tk 9,000.",
-        "bullets_bn": [
-          "নতুন কাঠামোর অধীনে জেনারেল পদমর্যাদার একজন বাহিনী প্রধানের মূল বেতন দ্বিগুণ হয়ে ১,৭২,০০০ টাকা হয়েছে।",
-          "যৌথ বাহিনী নির্দেশাবলী ০১/২০২৬ অনুযায়ী নতুন মূল বেতন ২০২৬ সালের জুলাই থেকে ধাপে ধাপে কার্যকর করা হবে।",
-          "২০২৭ সালের ১ জুলাই থেকে পূর্ণাঙ্গ নতুন মূল বেতন এবং ২০২৮ সালের ১ জানুয়ারি থেকে সংশোধিত ভাতা কার্যকর হবে।"
-        ],
-        "bullets_en": [
-          "A general holding the rank of service chief will see their basic salary double from Tk 86,000 to Tk 1,72,000.",
-          "The revised basic salaries outlined in Joint Services Instructions 01/2026 will be implemented in phases starting from July 2026.",
-          "Full revised basic salaries take effect from July 1, 2027, while revised allowances will be effective from January 1, 2028."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "জাতীয় বেতন স্কেল ২০২৬ অনুসরণ করে গত ১৫ নভেম্বর বাংলাদেশ গেজেটে এই সংশোধনটি প্রকাশিত হয়। ৮৪ পৃষ্ঠার গেজেট অনুযায়ী, ল্যান্স কর্পোরালদের শুরুর মূল বেতন ২৩,৫০০ টাকা এবং মাস্টার ওয়ারেন্ট অফিসারদের ৪৫,০০০ টাকা করা হয়েছে। অবসরপ্রাপ্ত কর্মকর্তা ও সদস্যরা সর্বনিম্ন ১০,০০০ টাকা নিট মাসিক পেনশন পাবেন। এছাড়া বিশেষ চাহিদাসম্পন্ন সন্তান, প্রতিরক্ষা ঝুঁকি এবং হাওর, দ্বীপ ও চর এলাকায় নিযুক্ত কর্মকর্তাদের জন্য অতিরিক্ত ভাতার বিধান রাখা হয়েছে।",
-        "details_en": "The revisions were published in the Bangladesh Gazette on November 15 following the National Pay Scale 2026. Under the 84-page gazette, lance corporals will start at Tk 23,500 and master warrant officers at Tk 45,000. Retired personnel are set to receive a minimum net monthly pension of Tk 10,000. Additionally, benefits include monthly allowances for children with special needs, defence risk allowances, and special area postings.",
-        "hook_bn": "সৈনিকদের মূল বেতন বেড়ে ২১,৪০০ টাকা",
-        "kicker_bn": null,
-        "share_value": true,
-        "question_bn": "সশস্ত্র বাহিনীর নতুন বেতন কাঠামো নিয়ে আপনার মতামত কী?"
-      },
-      "desk_importance": 8.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-22T12:03:09.834135+00:00"
-      }
-    },
-    {
-      "story_id": "e4cf0d44-36bf-5787-be6b-57bed41a2f86",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#MedicalAdmission",
-        "#DentalCollege",
-        "#MinistryOfHealth"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2021/05/20/medical_admission.png",
-      "image_caption": null,
-      "published_at": "2026-11-22T11:35:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 5.1197,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/education/medical-dental-college-entry-tests-18-dec-1610576",
-          "title": "Medical, dental college entry tests on 18 Dec",
-          "snippet": "Medical, dental college entry tests on 18 Dec"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/education/425406/medical-dental-college-entry-tests-on-dec-18",
-          "title": "Medical, dental college entry tests on Dec 18",
-          "snippet": "Medical, dental college entry tests on Dec 18"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "আগামী ১৮ ডিসেম্বর মেডিকেল ও ডেন্টাল কলেজের ভর্তি পরীক্ষা অনুষ্ঠিত হবে",
-        "title_en": "Medical and dental college entry tests will be held on December 18",
-        "summary_bn": "২০২৬-২৭ শিক্ষাবর্ষে সরকারি ও বেসরকারি মেডিকেল এবং ডেন্টাল কলেজের ভর্তি পরীক্ষা আগামী ১৮ ডিসেম্বর অনুষ্ঠিত হবে।",
-        "summary_en": "Admission tests for government and private medical and dental colleges for the 2026-27 academic session will be held on December 18.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T11:35:00+00:00",
-        "lead_bn": "২০২৬-২৭ শিক্ষাবর্ষে সরকারি ও বেসরকারি মেডিকেল এবং ডেন্টাল কলেজের ভর্তি পরীক্ষা আগামী ১৮ ডিসেম্বর অনুষ্ঠিত হবে।",
-        "lead_en": "Admission tests for government and private medical and dental colleges for the 2026-27 academic session will be held on December 18.",
-        "bullets_bn": [
-          "স্বাস্থ্য ও পরিবার কল্যাণ মন্ত্রণালয়ের সম্মেলন কক্ষে অনুষ্ঠিত সভায় এই সিদ্ধান্ত নেওয়া হয়েছে।",
-          "চিকিৎসা শিক্ষা অধিদপ্তরের মহাপরিচালক অধ্যাপক ডা. মো. নাজমুল হোসেন এই সিদ্ধান্ত নিশ্চিত করেছেন।",
-          "আগামী দুদিনের মধ্যে ভর্তি বিজ্ঞপ্তি প্রকাশিত হবে বলে আশা করা হচ্ছে।"
-        ],
-        "bullets_en": [
-          "The decision was taken at a meeting held at the conference room of the Ministry of Health and Family Welfare.",
-          "Director General of the Directorate General of Medical Education Professor Dr Md Nazmul Hossain confirmed the decision.",
-          "The admission circular is expected to be published within the next couple of days."
+          "Among the latest deaths, one each was reported in Chittagong division and Rangpur division.",
+          "With the latest fatalities, the dengue death toll has risen to 518 in the country this year.",
+          "These figures were reported in the regular dengue report of the Directorate General of Health Services."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "১৮ ডিসেম্বর মেডিকেল ও ডেন্টাল ভর্তি পরীক্ষা",
-        "kicker_bn": "নতুন তারিখ",
-        "share_value": true,
-        "question_bn": "আসন্ন মেডিকেল ও ডেন্টাল ভর্তি পরীক্ষার প্রস্তুতি কেমন চলছে?"
+        "hook_bn": "ডেঙ্গুতে আরও দুুজন মারা গেছেন",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
       },
       "desk_importance": 7.0,
-      "outlet_count": 2,
+      "outlet_count": 3,
       "trending": false,
-      "social_appeal": 8.0,
+      "social_appeal": 9.0,
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-22T12:03:09.834135+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-22T13:05:26.967376+00:00"
       }
     },
     {
-      "story_id": "28ea55bf-5673-52d0-b0ed-454de75fe34a",
+      "story_id": "678ce428-d290-561f-b55d-83c5af91c709",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business",
@@ -240,29 +247,35 @@
       ],
       "region": "national",
       "tags": [
-        "#BangladeshBank",
-        "#LoanDefaulters",
-        "#StimulusFund"
+        "#ACC",
+        "#DhakaElevatedExpressway",
+        "#FDEE"
       ],
-      "image_url": "https://images.unsplash.com/photo-1527874594978-ee4f8a05b4c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bG9hbiUyMGRlZmF1bHRlcnMlMjBjb3VydCUyMHN0YXklMjBidXNpbmVzc3xlbnwxfDB8fHwxNzk1MzQ4OTgxfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/print-popup/p1_dee_mumitm-0470.jpg",
       "image_caption": null,
-      "published_at": "2026-11-22T11:58:02+00:00",
+      "published_at": "2026-11-22T12:30:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.8797,
+      "importance_score": 7.25,
+      "rank_score": 5.1001,
       "sources": [
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/business/banks/425416/defaulters-with-court%E2%80%99s-stay-orders-can-avail",
-          "title": "Defaulters with court’s stay orders can avail Tk60,000cr stimulus",
-          "snippet": "Defaulters with court’s stay orders can avail Tk60,000cr stimulus"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/corruption/acc-finds-transparency-gaps-dhaka-elevated-expressway-toll-collection-1610691",
+          "title": "ACC finds transparency gaps in Dhaka Elevated Expressway toll collection",
+          "snippet": "ACC finds transparency gaps in Dhaka Elevated Expressway toll collection"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822444/%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%9F%E0%A7%8B%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%A8%E0%A7%9F%E0%A6%9B%E0%A7%9F-%E0%A6%A4%E0%A7%87%E0%A6%9C%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%93",
+          "title": "যানবাহনের সংখ্যা গোপন করে টোলের টাকা নয়ছয়, তেজগাঁও ও কুড়িল প্লাজায় দুদক",
+          "snippet": "যানবাহনের সংখ্যা গোপন করে টোলের টাকা নয়ছয়, তেজগাঁও ও কুড়িল প্লাজায় দুদক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আদালতের স্থগিতাদেশ থাকা খেলাপিরাও পাবেন উদ্দীপনা তহবিল",
-        "title_en": "Loan defaulters with court stay orders can get stimulus funds",
-        "summary_bn": "আদালতের স্থগিতাদেশ থাকলেও ঋণ খেলাপি গ্রাহকেরা বাংলাদেশ ব্যাংকের ঘোষিত উদ্দীপনা তহবিল থেকে ঋণ সুবিধা পাবেন।",
-        "summary_en": "Loan defaulters will receive loan facilities from the Bangladesh Bank stimulus fund even with court stay orders.",
+        "title_bn": "ঢাকা এলিভেটেড এক্সপ্রেসওয়ের টোল সংগ্রহে স্বচ্ছতার ঘাটতি পেয়েছে দুদক।",
+        "title_en": "ACC finds transparency gaps in Dhaka Elevated Expressway toll collection.",
+        "summary_bn": "দুর্নীতি দমন কমিশন ঢাকা এলিভেটেড এক্সপ্রেসওয়ের টোল প্লাজায় যানবাহন গণনা ও টোল সংগ্রহে স্বচ্ছতার প্রাথমিক ঘাটতি পেয়েছে।",
+        "summary_en": "The Anti-Corruption Commission found preliminary transparency shortcomings in vehicle counting and toll collection at the expressway plazas.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -270,39 +283,39 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T11:58:02+00:00",
-        "lead_bn": "আদালতের স্থগিতাদেশ থাকলেও ঋণ খেলাপি গ্রাহকেরা বাংলাদেশ ব্যাংকের ঘোষিত উদ্দীপনা তহবিল থেকে ঋণ সুবিধা পাবেন।",
-        "lead_en": "Loan defaulters will receive loan facilities from the Bangladesh Bank stimulus fund even with court stay orders.",
+        "published_at": "2026-11-22T12:30:00+00:00",
+        "lead_bn": "দুর্নীতি দমন কমিশন ঢাকা এলিভেটেড এক্সপ্রেসওয়ের টোল প্লাজায় যানবাহন গণনা ও টোল সংগ্রহে স্বচ্ছতার প্রাথমিক ঘাটতি পেয়েছে।",
+        "lead_en": "The Anti-Corruption Commission found preliminary transparency shortcomings in vehicle counting and toll collection at the expressway plazas.",
         "bullets_bn": [
-          "বাংলাদেশ ব্যাংক এই সিদ্ধান্ত নিয়েছে।",
-          "৬০,০০০ কোটি টাকার ১৫টি উদ্দীপনা স্কিম বাস্তবায়নের জন্য এই সিদ্ধান্ত নেওয়া হয়েছে।",
-          "বাংলাদেশ ব্যাংকের ব্যাংকিং প্রবিধান ও নীতি বিভাগ এ বিষয়ে কার্যক্রম পরিচালনা করছে।"
+          "দুদকের একটি দল তেজগাঁও ও কুড়িল টোল প্লাজা পরিদর্শন করে এবং তথ্য সংগ্রহ করে।",
+          "এফডিইই কোম্পানির বিরুদ্ধে যানবাহন সংখ্যা গোপন ও রাজস্ব আত্মসাতের অভিযোগ রয়েছে।",
+          "তথ্য যাচাইয়ের পর কমিশন একটি পূর্ণাঙ্গ প্রতিবেদন জমা দেবে।"
         ],
         "bullets_en": [
-          "Bangladesh Bank has taken this decision.",
-          "This decision aims to implement 15 stimulus schemes worth Tk60,000 crore.",
-          "Bangladesh Bank's Banking Regulation and Policy Department is handling the matter."
+          "An ACC team inspected the Tejgaon and Kuril toll plazas and collected data.",
+          "FDEE faces allegations of concealing vehicle numbers and misappropriating revenue.",
+          "The enforcement team will submit a comprehensive report after data analysis."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "আর্থিক পুনরুদ্ধারের জন্য বাংলাদেশ ব্যাংক ৬০,০০০ কোটি টাকার ১৫টি উদ্দীপনা স্কিম ঘোষণা করেছে। এসব স্কিম সফলভাবে বাস্তবায়নের লক্ষ্যেই কেন্দ্রীয় ব্যাংক এই নতুন সিদ্ধান্ত গ্রহণ করেছে।",
-        "details_en": "To ensure economic recovery, Bangladesh Bank announced 15 stimulus schemes worth Tk60,000 crore. The central bank has taken this decision to ensure the implementation of these stimulus schemes.",
-        "hook_bn": "স্থগিতাদেশ থাকা খেলাপিরা পাবেন প্রণোদনা",
-        "kicker_bn": "নতুন সিদ্ধান্ত",
-        "share_value": true,
-        "question_bn": "আদালতের স্থগিতাদেশ নিয়ে ঋণ খেলাপিদের প্রণোদনা পাওয়ার সিদ্ধান্তকে আপনি কীভাবে দেখেন?"
+        "details_bn": "ফার্স্ট ঢাকা এলিভেটেড এক্সপ্রেসওয়ে কোম্পানি লিমিটেডের বিরুদ্ধে যানবাহন সংখ্যা গোপন করা এবং সরকারকে প্রাপ্য রাজস্ব থেকে বঞ্চিত করার অভিযোগের ভিত্তিতে দুদক এই এনফোর্সমেন্ট অভিযান পরিচালনা করে।",
+        "details_en": "The ACC conducted the enforcement operation following allegations that First Dhaka Elevated Expressway Company Ltd concealed vehicle numbers and deprived the government of income.",
+        "hook_bn": "এক্সপ্রেসওয়ের টোল আদায়ে অনিয়মের খোঁজে দুদক",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": "টোল প্লাজাগুলোতে এ ধরনের অনিয়ম রোধে কী ধরনের তদারকি বাড়ানো উচিত বলে আপনি মনে করেন?"
       },
       "desk_importance": 7.0,
-      "outlet_count": 1,
+      "outlet_count": 2,
       "trending": false,
-      "social_appeal": 7.0,
+      "social_appeal": 8.0,
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-22T12:03:09.834135+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-22T13:05:26.967376+00:00"
       }
     },
     {
-      "story_id": "9742d5e6-c4fa-518f-9302-c8e6aef27329",
+      "story_id": "f66af98d-4b07-5cb9-88e9-e381d701c338",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
@@ -310,30 +323,34 @@
       ],
       "region": "international",
       "tags": [
-        "#IndiaEU",
-        "#FreeTradeAgreement",
-        "#NarendraModi",
-        "#JeanEricPaquet"
+        "#WestBank",
+        "#Israel"
       ],
-      "image_url": "https://th-i.thgim.com/public/incoming/3iw5ey/article70024592.ece/alternates/LANDSCAPE_1200/MODI%20URSULA%20MEETING%20%20DELHI%202025_28_02_48.jpg",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-22T071015Z_268220017_RC2VSOAP8KV4_RTRMADP_3_ISRAEL-PALESTINIANS-SETTLERS-AFTERMATH-1795343380.jpg?resize=1920%2C1440",
       "image_caption": null,
-      "published_at": "2026-11-22T11:39:31+00:00",
+      "published_at": "2026-11-22T12:19:42+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 5.0,
-      "rank_score": 2.4456,
+      "rank_score": 2.4018,
       "sources": [
         {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/national/india-eu-trade-pact-likely-to-be-signed-on-december-16/article71731223.ece",
-          "title": "India-EU trade pact likely to be signed on December 16",
-          "snippet": "India-EU trade pact likely to be signed on December 16"
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss",
+          "title": "Israeli settlers attack several Palestinian villages in occupied West Bank",
+          "snippet": "Israeli settlers attack several Palestinian villages in occupied West Bank"
+        },
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/middle-east/ka6mjfv2ck",
+          "title": "ইসরায়েলে সরকার গঠন নিয়ে আবারও আলোচনায় নেতানিয়াহু ও আইজেনকটের দলের",
+          "snippet": "ইসরায়েলে সরকার গঠন নিয়ে আবারও আলোচনায় নেতানিয়াহু ও আইজেনকটের দলের"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ভারত ও ইউরোপীয় ইউনিয়ন ১৬ ডিসেম্বর মুক্ত বাণিজ্য চুক্তি স্বাক্ষর করতে পারে।",
-        "title_en": "India and European Union likely to sign free trade agreement on December 16.",
-        "summary_bn": "ভারত এবং ২৭ জাতির জোট ইউরোপীয় ইউনিয়ন আগামী ১৬ ডিসেম্বর মুক্ত বাণিজ্য চুক্তি স্বাক্ষর করতে পারে বলে একজন কর্মকর্তা জানিয়েছেন।",
-        "summary_en": "India and the 27-nation bloc European Union are likely to sign the Free Trade Agreement on December 16, an official said.",
+        "title_bn": "দখলকৃত পশ্চিম তীরে ইসরায়েলি বসতিস্থাপনকারীদের হামলা",
+        "title_en": "Israeli settlers attack several Palestinian villages in occupied West Bank",
+        "summary_bn": "দখলকৃত পশ্চিম তীরের বেশ কয়েকটি শহরে ইসরায়েলি বসতিস্থাপনকারীরা হামলা চালিয়ে গাড়ি ও সম্পত্তি ধ্বংস করেছে।",
+        "summary_en": "Israeli settlers have attacked several Palestinian towns and villages in the central occupied West Bank, burning cars and damaging property.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -341,103 +358,35 @@
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T11:39:31+00:00",
-        "lead_bn": "ভারত এবং ২৭ জাতির জোট ইউরোপীয় ইউনিয়ন আগামী ১৬ ডিসেম্বর মুক্ত বাণিজ্য চুক্তি স্বাক্ষর করতে পারে বলে একজন কর্মকর্তা জানিয়েছেন।",
-        "lead_en": "India and the 27-nation bloc European Union are likely to sign the Free Trade Agreement on December 16, an official said.",
+        "published_at": "2026-11-22T12:19:42+00:00",
+        "lead_bn": "দখলকৃত পশ্চিম তীরের বেশ কয়েকটি শহরে ইসরায়েলি বসতিস্থাপনকারীরা হামলা চালিয়ে গাড়ি ও সম্পত্তি ধ্বংস করেছে।",
+        "lead_en": "Israeli settlers have attacked several Palestinian towns and villages in the central occupied West Bank, burning cars and damaging property.",
         "bullets_bn": [
-          "ইউরোপীয় ইউনিয়নের রাষ্ট্রদূত জিন-এরিক পেকেট বলেছেন, ডিসেম্বরে ব্রাসেলসে ভারতীয় প্রধানমন্ত্রী নরেন্দ্র মোদির সফره চুক্তিটি স্বাক্ষরিত হবে।",
-          "চুক্তির অধীনে ৯৩ শতাংশ ভারতীয় পণ্য শুল্কমুক্ত প্রবেশাধিকার পাবে এবং ইইউ থেকে গাড়ি ও ওয়াইন সস্তা হবে।",
-          "ইউরোপীয় কমিশন চুক্তির স্বাক্ষর ও নিষ্পত্তির জন্য কাউন্সিল অব দ্য ইউরোপীয় ইউনিয়নের কাছে প্রস্তাব জমা দিয়েছে।"
+          "রামাল্লাহ ও এল-বিদেহ প্রদেশে ১২টি গাড়ি পুড়িয়ে দেওয়া হয়েছে এবং বাড়ির দেয়ালে বর্ণবাদী স্লোগান লেখা হয়েছে।",
+          "কাফর মালিক, দেইর আবু মাশাল ও দেইর আল-সুদান গ্রামে এই হামলার ঘটনা ঘটেছে।",
+          "ইসরায়েলি গাজা যুদ্ধ শুরুর পর থেকে দখলকৃত পশ্চিম তীরে বসতিস্থাপনকারীদের সহিংসতা বৃদ্ধি পেয়েছে।"
         ],
         "bullets_en": [
-          "European Union Ambassador Jean-Eric Paquet said the FTA will be signed during Indian Prime Minister Narendra Modi's visit to Brussels in December.",
-          "Under the agreement, 93 per cent of Indian shipments will enjoy duty-free access while cars and wines from the EU will become less expensive.",
-          "The European Commission has already submitted proposals to the Council of the European Union seeking authorisation for signing and conclusion of the agreement."
+          "Twelve vehicles were burned and racist slogans were spray-painted on the walls of homes in Ramallah and el-Bireh provinces.",
+          "The incidents were reported in Kafr Malik village, Deir Abu Mash’al village, and Deir al-Sudan village.",
+          "Israeli settler violence has surged across the occupied West Bank since Israel launched its war in Gaza."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "দুই দশকের বেশি সময় ধরে আলোচনার পর এই চুক্তিটি চূড়ান্ত করা হয়েছে, যা বিশ্বের চতুর্থ বৃহত্তম অর্থনীতি ভারত এবং দ্বিতীয় বৃহত্তম অর্থনৈতিক ব্লক ইইউর মধ্যে প্রায় ২ বিলিয়ন মানুষের একটি বাজার তৈরি করবে।",
-        "details_en": "The deal, concluded after negotiations spanning over two decades, will create a market of about 2 billion people across the world's fourth-largest economy, India, and the second-largest economic bloc, the EU.",
-        "hook_bn": "১৬ ডিসেম্বর ভারত-ইইউ মুক্ত বাণিজ্য চুক্তি স্বাক্ষর",
-        "kicker_bn": "নতুন তারিখ",
-        "share_value": true,
-        "question_bn": "ভারত ও ইউরোপীয় ইউনিয়নের এই মুক্ত বাণিজ্য চুক্তি বৈশ্বিক অর্থনীতিতে কী প্রভাব ফেলতে পারে বলে আপনার মনে হয়?"
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 4.0,
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-22T12:03:09.834135+00:00"
-      }
-    },
-    {
-      "story_id": "059e85d9-2805-51cc-84e3-92418a0d21bb",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#VolodymyrZelenskyy",
-        "#Kyiv",
-        "#Russia"
-      ],
-      "image_url": "https://th-i.thgim.com/public/incoming/aquemx/article71731081.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_44754.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-22T09:51:45+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.2046,
-      "sources": [
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/at-least-14-people-missing-after-russian-drone-hit-building-in-kyiv-region-zelenskyy-says/article71731042.ece",
-          "title": "At least 14 people missing after Russian drone hit building in Kyiv region, Zelenskyy says",
-          "snippet": "At least 14 people missing after Russian drone hit building in Kyiv region, Zelenskyy says"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইউক্রেনের কিয়েভ অঞ্চলে রুশ ড্রোন হামলায় ১৪ জন নিখোঁজ",
-        "title_en": "At least 14 missing after Russian drone hit building in Kyiv region",
-        "summary_bn": "ইউক্রেনের কিয়েভ অঞ্চলে একটি আবাসিক ভবনে রুশ ড্রোন আঘাত হানার পর ধ্বংসস্তূপের নিচে অন্তত ১৪ জন মানুষ আটকে থাকতে পারেন।",
-        "summary_en": "At least 14 people may still be trapped under the rubble of a residential building struck by a Russian drone.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T09:51:45+00:00",
-        "lead_bn": "ইউক্রেনের কিয়েভ অঞ্চলে একটি আবাসিক ভবনে রুশ ড্রোন আঘাত হানার পর ধ্বংসস্তূপের নিচে অন্তত ১৪ জন মানুষ আটকে থাকতে পারেন।",
-        "lead_en": "At least 14 people may still be trapped under the rubble of a residential building struck by a Russian drone.",
-        "bullets_bn": [
-          "প্রেসিডেন্ট ভলোদিমির জেলেনস্কি জানান, রুশ ড্রোন হামলায় পাঁচতলা অ্যাপার্টমেন্ট ভবনটির একটি অংশ ধসে পড়েছে।",
-          "প্রেসিডেন্ট ভলোদিমির জেলেনস্কি জানান, দ্রুত পদক্ষেপ নিয়ে ৯ জনকে উদ্ধার করা হয়েছে এবং আগুন নিয়ন্ত্রণে আনা হয়েছে।",
-          "স্থানীয় কর্মকর্তারা জানান, একজন কিশোরসহ দুজন আহত হয়েছেন।"
-        ],
-        "bullets_en": [
-          "President Volodymyr Zelenskyy said part of a five-story apartment building collapsed following a Russian drone attack.",
-          "President Volodymyr Zelenskyy stated that nine people have already been evacuated and the fire has been contained.",
-          "Local officials said two people, including a teenager, were injured."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "জরুরি সেবার ফুটেজে দেখা গেছে, উদ্ধারকর্মীরা বড় স্তূপের মতো ধ্বংসস্তূপের মধ্যে তল্লাশি চালাচ্ছেন এবং সিঁড়ি ও ক্রেন প্ল্যাটফর্মের সাহায্যে ক্ষতিগ্রস্ত ভবনটি থেকে বাসিন্দাদের নামিয়ে আনছেন।",
-        "details_en": "Emergency service footage showed rescuers searching through a large pile of rubble, helping residents descend from the damaged building by ladder and crane platform.",
-        "hook_bn": "কিয়েভ অঞ্চলে ভবনে রুশ ড্রোন হামলা",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "পশ্চিম তীরে ইসরায়েলি বসতিস্থাপনকারীদের হামলা",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 5.0,
-      "outlet_count": 1,
+      "outlet_count": 2,
       "trending": false,
-      "social_appeal": 5.0,
+      "social_appeal": 4.0,
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-22T12:03:09.834135+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-22T13:05:26.967376+00:00"
       }
     }
   ]
