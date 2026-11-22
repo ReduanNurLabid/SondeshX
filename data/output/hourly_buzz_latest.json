@@ -1,74 +1,390 @@
 {
-  "updated_at": "2026-11-22T04:00:38.752824",
-  "total_stories": 1,
+  "updated_at": "2026-11-22T05:00:47.821232",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "14eeefa5-3193-5842-a599-49752c6d9c80",
-      "primary_category": "sports_fitness",
+      "story_id": "a181b444-d003-5264-a414-6a9e7505736a",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "sports_fitness",
+        "governance_law",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#TarequeRahman",
+        "#ShafiqurRahman",
+        "#NationalCitizenParty"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1627317764899-eb00cfc40ac2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cHJpbWUlMjBtaW5pc3RlciUyMHRhcmVxdWUlMjByYWhtYW4lMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTUzMjM2ODl8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-22T04:22:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 8.0,
+      "rank_score": 6.1619,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/government-affairs/425379/pm-to-begin-talks-with-july-movement-parties-on",
+          "title": "PM to begin talks with July movement parties on Monday, NCP first",
+          "snippet": "PM to begin talks with July movement parties on Monday, NCP first"
+        },
+        {
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/qrmx8qv4ab",
+          "title": "রাজনৈতিক দলগুলোর সঙ্গে সংলাপে বসছেন প্রধানমন্ত্রী",
+          "snippet": "রাজনৈতিক দলগুলোর সঙ্গে সংলাপে বসছেন প্রধানমন্ত্রী"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/prime-minister-meets-political-parties/",
+          "title": "রাজনৈতিক দলগুলোর সঙ্গে সংলাপে বসছেন প্রধানমন্ত্রী",
+          "snippet": "রাজনৈতিক দলগুলোর সঙ্গে সংলাপে বসছেন প্রধানমন্ত্রী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রাজনৈতিক দলগুলোর সঙ্গে সংলাপে বসছেন প্রধানমন্ত্রী তারেক রহমান",
+        "title_en": "Prime Minister Tareque Rahman to begin talks with political parties",
+        "summary_bn": "নাশকতা প্রতিরোধে জাতীয় ঐক্য গড়ে তুলতে বিভিন্ন রাজনৈতিক দলের সঙ্গে সংলাপে বসার উদ্যোগ নিয়েছেন প্রধানমন্ত্রী তারেক রহমান।",
+        "summary_en": "Prime Minister Tareque Rahman has taken an initiative to hold talks with various political parties to build national unity against sabotage.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-22T04:22:00+00:00",
+        "lead_bn": "নাশকতা প্রতিরোধে জাতীয় ঐক্য গড়ে তুলতে বিভিন্ন রাজনৈতিক দলের সঙ্গে সংলাপে বসার উদ্যোগ নিয়েছেন প্রধানমন্ত্রী তারেক রহমান।",
+        "lead_en": "Prime Minister Tareque Rahman has taken an initiative to hold talks with various political parties to build national unity against sabotage.",
+        "bullets_bn": [
+          "এই সংলাপের আয়োজনের বিষয়টি প্রধানমন্ত্রীর দপ্তর থেকে তত্ত্বাবধান করা হচ্ছে।",
+          "বিরোধী জোটের শরিক জামায়াতে ইসলামী, জাতীয় নাগরিক পার্টি এবং জুলাই গণ-অভ্যুত্থানে অংশ নেওয়া দলগুলোকে আমন্ত্রণ জানানো হতে পারে।",
+          "আগামী জাতীয় নাগরিক পার্টির সঙ্গে প্রধানমন্ত্রীর বৈঠক হতে পারে।"
+        ],
+        "bullets_en": [
+          "The organization of this dialogue is being supervised by the Prime Minister's Office.",
+          "Alliance partners Jamaat-e-Islami, the National Citizen Party, and parties that participated in the July mass uprising may be invited.",
+          "A meeting between the Prime Minister and the National Citizen Party may take place."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "এর আগে জাতীয় সংসদে প্রধানমন্ত্রী তারেক রহমান ও বিরোধী দলের নেতা ড. শফিকুর রহমানের মধ্যে একটি বৈঠক হয়। এই বৈঠকের পরই মূলত সংলাপের এই উদ্যোগ নেওয়া হয়। তবে বৈঠকের সময়সূচি এখনো চূড়ান্ত হয়নি এবং সংশ্লিষ্ট কেউ এখনই গণমাধ্যমে আনুষ্ঠানিক বক্তব্য দিতে রাজি হননি।",
+        "details_en": "This initiative reportedly follows a meeting between Prime Minister Tareque Rahman and Leader of the Opposition Dr Shafiqur Rahman at the National Parliament. The schedule for the meetings is not yet finalized, and relevant individuals have not yet agreed to make formal statements to the media.",
+        "hook_bn": "রাজনৈতিক দলগুলোর সঙ্গে সংলাপে বসছেন প্রধানমন্ত্রী",
+        "kicker_bn": "সংলাপ",
+        "share_value": false,
+        "question_bn": "জাতীয় ঐক্য গড়ে তুলতে রাজনৈতিক দলগুলোর এই সংলাপ কতটা কার্যকর ভূমিকা রাখতে পারে বলে আপনি মনে করেন?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 3,
+      "trending": true,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-22T05:01:58.485178+00:00"
+      }
+    },
+    {
+      "story_id": "92bd9cfb-982d-5d96-af68-a167bf473477",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
         "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#Sports",
-        "#BangladeshCricket"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-22%2Fy2rhl7pd%2F936690-01-02.jpg?rect=0%2C0%2C3864%2C2029&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-22%2Fpoiwozzk%2F42b1e6c7-ec3b-46cd-849b-af4b0cdeaa42.jfif?rect=0%2C83%2C1079%2C566&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-22T03:11:31+00:00",
+      "published_at": "2026-11-22T04:30:25+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.4321,
+      "importance_score": 6.25,
+      "rank_score": 3.7915,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/sports/cricket/ix0e1vcfbs",
-          "title": "নিউজিল্যান্ডের মাটিতে ভারতের ইতিহাস, ৭২০ রান তুলে গড়েছে রেকর্ডের পর রেকর্ড",
-          "snippet": "নিউজিল্যান্ডের মাটিতে ভারতের ইতিহাস, ৭২০ রান তুলে গড়েছে রেকর্ডের পর রেকর্ড"
+          "url": "https://www.prothomalo.com/bangladesh/district/cmlwasedm5",
+          "title": "টেকনাফে শতাধিক বোমা, বিস্ফোরক তৈরির সরঞ্জাম ও অস্ত্র-গুলি উদ্ধার, আটক ২",
+          "snippet": "টেকনাফে শতাধিক বোমা, বিস্ফোরক তৈরির সরঞ্জাম ও অস্ত্র-গুলি উদ্ধার, আটক ২"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822337/%E0%A6%9F%E0%A7%87%E0%A6%95%E0%A6%A8%E0%A6%BE%E0%A6%AB%E0%A7%87-%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%A7%E0%A6%BF%E0%A6%95-%E0%A6%86%E0%A6%87%E0%A6%87%E0%A6%A1%E0%A6%BF-%E0%A6%AC%E0%A7%8B%E0%A6%AE%E0%A6%BE-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A6%95-%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A6%BF%E0%A6%B0",
+          "title": "টেকনাফে শতাধিক আইইডি বোমা ও বিস্ফোরক তৈরির সরঞ্জামসহ আটক ২",
+          "snippet": "টেকনাফে শতাধিক আইইডি বোমা ও বিস্ফোরক তৈরির সরঞ্জামসহ আটক ২"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নিউজিল্যান্ডে ৭২০ রান তুলে টেস্টে নতুন রেকর্ড গড়েছে ভারত",
-        "title_en": "India sets new Test record by scoring 720 runs in New Zealand",
-        "summary_bn": "ওয়েলিংটনের বেসিন রিজার্ভে প্রথম টেস্টের প্রথম ইনিংসে ৯ উইকেটে ৭২০ রান তুলে ইনিংস ঘোষণা করেছে সফরকারী ভারত।",
-        "summary_en": "Visiting India declared their first innings at 9 wickets for 720 runs in the first Test at the Basin Reserve in Wellington.",
+        "title_bn": "টেকনাফে শতাধিক বোমা ও অস্ত্রসহ দুজন আটক",
+        "title_en": "Two arrested in Teknaf with over hundred bombs and weapons",
+        "summary_bn": "বর্ডার গার্ড বাংলাদেশ কক্সবাজারের টেকনাফে অভিযান চালিয়ে শতাধিক বোমা, বিস্ফোরক তৈরির সরঞ্জাম, দুটি আগ্নেয়াস্ত্র ও ২৫৪টি গুলি উদ্ধার করে দুজনকে আটক করেছে।",
+        "summary_en": "Border Guard Bangladesh arrested two people and recovered over a hundred bombs, explosive-making materials, two firearms, and 254 bullets in Teknaf.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness",
+          "governance_law",
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T03:11:31+00:00",
-        "lead_bn": "ওয়েলিংটনের বেসিন রিজার্ভে প্রথম টেস্টের প্রথম ইনিংসে ৯ উইকেটে ৭২০ রান তুলে ইনিংস ঘোষণা করেছে সফরকারী ভারত।",
-        "lead_en": "Visiting India declared their first innings at 9 wickets for 720 runs in the first Test at the Basin Reserve in Wellington.",
+        "published_at": "2026-11-22T04:30:25+00:00",
+        "lead_bn": "বর্ডার গার্ড বাংলাদেশ কক্সবাজারের টেকনাফে অভিযান চালিয়ে শতাধিক বোমা, বিস্ফোরক তৈরির সরঞ্জাম, দুটি আগ্নেয়াস্ত্র ও ২৫৪টি গুলি উদ্ধার করে দুজনকে আটক করেছে।",
+        "lead_en": "Border Guard Bangladesh arrested two people and recovered over a hundred bombs, explosive-making materials, two firearms, and 254 bullets in Teknaf.",
         "bullets_bn": [
-          "এটি নিউজিল্যান্ডের বিপক্ষে টেস্টে এবং নিউজিল্যান্ডের মাটিতে কোনো দলের এক ইনিংসে সর্বোচ্চ সংগ্রহ।",
-          "ভারতের ইনিংসের প্রথম ৭ জুটিতেই এসেছে পঞ্চাশোর্ধ রানের জুটি, যা টেস্ট ইতিহাসেই প্রথম।",
-          "নিউজিল্যান্ডের বিপক্ষে ভারতের প্রথম ইনিংসের লিড দাঁড়িয়েছে ৩৫২ রান।"
+          "অভিযানে জব্দ করা হয়েছে দুটি অটোরিকশা ও একটি মোটরসাইকেল।",
+          "আটক ব্যক্তিরা হলেন অটোরিকশাচালক মো. ইব্রাহিম ও মেহেদী হাসান।",
+          "উদ্ধার হওয়া অস্ত্র, গোলাবারুদ ও বিস্ফোরক এবং আটক ব্যক্তিদের বিষয়ে আইনি কার্যক্রম প্রক্রিয়াধীন।"
         ],
         "bullets_en": [
-          "This is the highest total in a Test innings against New Zealand and on New Zealand soil.",
-          "The first 7 partnerships of India's innings all crossed fifty runs, a first in Test history.",
-          "India's first innings lead against New Zealand stands at 352 runs."
+          "Two autorickshaws and one motorcycle were seized during the operation.",
+          "The detained individuals are autorickshaw drivers Md. Ibrahim and Mehedi Hasan.",
+          "Legal procedures regarding the recovered weapons, ammunition, explosives, and detainees are underway."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "এর আগে ১৯৯৫ সালে নিউজিল্যান্ডের বিপক্ষে সর্বোচ্চ ৬৬০ রান তুলেছিল ওয়েস্ট ইন্ডিজ। ২০১৯ সালে হ্যামিল্টনে বাংলাদেশের বিপক্ষে ৬ উইকেটে ৭১৫ রান তুলেছিল নিউজিল্যান্ড। ওয়েলিংটনে ৭২০ রান করার মাধ্যমে টেস্ট ক্রিকেটে পঞ্চমবারের মতো ৭০০ রানের বেশি সংগ্রহ গড়ল ভারত। ভারতের শীর্ষ পাঁচ ব্যাটসম্যানের প্রত্যেকেই অন্তত ৮০ রান করেছেন।",
-        "details_en": "Previously, West Indies scored a maximum of 660 runs against New Zealand in 1995. In 2019, New Zealand declared at 715 for 6 against Bangladesh in Hamilton. By scoring 720 runs in Wellington, India crossed 700 runs in a Test innings for the fifth time. Each of India's top five batsmen scored at least 80 runs.",
-        "hook_bn": "নিউজিল্যান্ডের মাটিতে ভারতের রেকর্ড ৭২০ রান",
-        "kicker_bn": "রেকর্ড সংগ্রহ",
+        "details_bn": "বিজিবি জানায়, দেশে বড় ধরনের নাশকতার উদ্দেশে একটি সংঘবদ্ধ চক্র মিয়ানমার থেকে এসব বিস্ফোরক ও অস্ত্র-গুলি চোরাই পথে টেকনাফে নিয়ে এসেছে। গোপনে খবর পেয়ে টেকনাফ ২ বিজিবি সড়কে তল্লাশিচৌকি বসিয়ে অটোরিকশাচালক দুই ব্যক্তিকে আটক করে।",
+        "details_en": "BGB stated that a syndicate brought these explosives and weapons to Teknaf from Myanmar via smuggling routes for large-scale sabotage. Acting on a tip-off, Teknaf 2 BGB set up a checkpoint on the road and detained the two autorickshaw drivers.",
+        "hook_bn": "টেকনাফে শতাধিক বোমা ও অস্ত্র উদ্ধার",
+        "kicker_bn": "সতর্কতা",
         "share_value": false,
-        "question_bn": "নিউজিল্যান্ডের মাটিতে ভারতের এই ব্যাটিং পারফরম্যান্স নিয়ে আপনার মতামত কী?"
+        "question_bn": null
       },
       "desk_importance": 6.0,
-      "outlet_count": 1,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-22T05:01:58.485178+00:00"
+      }
+    },
+    {
+      "story_id": "933d36e0-7596-5d12-a900-242b3559e85b",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://th-i.thgim.com/public/incoming/yv50er/article71729373.ece/alternates/LANDSCAPE_1200/2026-11-19T084350Z_1105585625_RC2WQOAQOPC3_RTRMADP_3_APEC-SUMMIT-TRUMP.JPG",
+      "image_caption": null,
+      "published_at": "2026-11-22T04:22:33+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.4679,
+      "sources": [
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/the-shenzhen-trilateral-the-unlikely-trio/article71729376.ece",
+          "title": "The Shenzhen trilateral | The unlikely trio",
+          "snippet": "The Shenzhen trilateral | The unlikely trio"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/pagla-mosque-receives-record-18-crore-taka/",
+          "title": "পাগলা মসজিদের দানবাক্সে মিলল রেকর্ড ১৮ কোটি টাকা",
+          "snippet": "পাগলা মসজিদের দানবাক্সে মিলল রেকর্ড ১৮ কোটি টাকা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কিশোরগঞ্জের পাগলা মসজিদের দানবাক্সে মিলল রেকর্ড ১৮ কোটি টাকা",
+        "title_en": "Kishoreganj Pagla mosque donation boxes yield record 18 crore taka",
+        "summary_bn": "কিশোরগঞ্জের পাগলা মসজিদের দানবাক্সগুলোতে রেকর্ড ১৮ কোটি ২১ লাখ ৬৯ হাজার ৫১৭ টাকা পাওয়া গেছে।",
+        "summary_en": "Record 18 crore 21 lakh 69 thousand 517 taka was found in the donation boxes of Kishoreganj Pagla mosque.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-22T04:22:33+00:00",
+        "lead_bn": "কিশোরগঞ্জের পাগলা মসজিদের দানবাক্সগুলোতে রেকর্ড ১৮ কোটি ২১ লাখ ৬৯ হাজার ৫১৭ টাকা পাওয়া গেছে।",
+        "lead_en": "Record 18 crore 21 lakh 69 thousand 517 taka was found in the donation boxes of Kishoreganj Pagla mosque.",
+        "bullets_bn": [
+          "টাকা ছাড়াও দানবাক্সগুলোতে বৈদেশিক মুদ্রা ও স্বর্ণালংকার পাওয়া গেছে।",
+          "টাকা গণনা করতে প্রায় ১৫ ঘণ্টা সময় লেগেছে।",
+          "কিশোরগঞ্জ উপজেলা নির্বাহী কর্মকর্তা ও পাগলা মসজিদ পরিচালনা কমিটির সদস্য সচিব মো. কামরুল হাসান মারুফ বিষয়টি নিশ্চিত করেছেন।"
+        ],
+        "bullets_en": [
+          "Foreign currency and gold jewelry were also found in the donation boxes besides money.",
+          "Counting the money took about 15 hours.",
+          "Kishoreganj Upazila Nirbahi Officer and Pagla mosque management committee member secretary Md. Kamrul Hasan Maruf confirmed the matter."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "পাগলা মসজিদের দানবাক্সে মিলল ১৮ কোটি টাকা",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-22T05:01:58.485178+00:00"
+      }
+    },
+    {
+      "story_id": "0f0ac7c0-8608-567c-bd64-d7efb642920c",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#EducationAllowance",
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1614610741181-2bce5e06976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z292dCUyMHJldmlzZXMlMjBlZHVjYXRpb24lMjBhbGxvd2FuY2VzJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1MzIzNzExfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-22T04:48:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.25,
+      "rank_score": 2.721,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/education/425381/govt-revises-education-allowances-for-officials%E2%80%99",
+          "title": "Govt revises education allowances for officials’ children abroad",
+          "snippet": "Govt revises education allowances for officials’ children abroad"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/economy/news/1182187",
+          "title": "বিদেশে মিশনকর্মীদের সন্তানদের পড়াশোনার ৮৫ শতাংশ খরচ দেবে সরকার",
+          "snippet": "বিদেশে মিশনকর্মীদের সন্তানদের পড়াশোনার ৮৫ শতাংশ খরচ দেবে সরকার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বিদেশে মিশনকর্মীদের সন্তানদের পড়াশোনার ৮৫ শতাংশ খরচ দেবে সরকার",
+        "title_en": "Govt revises education allowances for officials children abroad",
+        "summary_bn": "বিদেশে বাংলাদেশের বিভিন্ন মিশনে কর্মরত স্থানীয়ভাবে নিয়োগপ্রাপ্ত কর্মকর্তা-কর্মচারীদের সন্তানদের পড়াশোনার খরচের ৮৫ শতাংশ বহন করবে সরকার।",
+        "summary_en": "The government will bear 85 percent of the education expenses for children of locally appointed officials working in foreign missions.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-22T04:48:00+00:00",
+        "lead_bn": "বিদেশে বাংলাদেশের বিভিন্ন মিশনে কর্মরত স্থানীয়ভাবে নিয়োগপ্রাপ্ত কর্মকর্তা-কর্মচারীদের সন্তানদের পড়াশোনার খরচের ৮৫ শতাংশ বহন করবে সরকার।",
+        "lead_en": "The government will bear 85 percent of the education expenses for children of locally appointed officials working in foreign missions.",
+        "bullets_bn": [
+          "বাকি ১৫ শতাংশ খরচ সংশ্লিষ্ট কর্মকর্তা-কর্মচারীকে বহন করতে হবে।",
+          "সরকার বিদেশে কর্মরত কর্মকর্তা-কর্মচারীদের সন্তানদের শিক্ষাভাতার এই আদেশ সংশোধন করেছে।",
+          "কর্মকর্তা-কর্মচারীদের সন্তানদের পড়াশোনার খরচের ক্ষেত্রে বিদ্যমান এই নিয়ম কার্যকর থাকবে।"
+        ],
+        "bullets_en": [
+          "The remaining 15 percent must be borne by the respective official and employee.",
+          "The government has revised this order regarding education allowances for children of officials working abroad.",
+          "The existing arrangement for children education expenses of officials and employees will remain in force."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "মিশনকর্মীদের সন্তানদের পড়াশোনার ৮৫ শতাংশ খরচ দেবে সরকার",
+        "kicker_bn": "শিক্ষাভাতা",
+        "share_value": true,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
       "trending": false,
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T04:01:40.450785+00:00"
+        "checked_at": "2026-11-22T05:01:58.485178+00:00"
+      }
+    },
+    {
+      "story_id": "7ef00ec4-b9a6-55c3-bc1d-b78046ef0533",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1657037030554-ab3410b8820c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bmluZSUyMGZhbWlseSUyMGtpbGxlZCUyMHZlaGljbGUlMjBkaXBsb21hY3l8ZW58MXwwfHx8MTc5NTMyMzcxOHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-22T04:37:49+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.25,
+      "rank_score": 2.6944,
+      "sources": [
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822339/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%A6%E0%A6%BE%E0%A6%81%E0%A7%9C%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%97%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%95%E0%A6%BE-%E0%A6%8F%E0%A6%95%E0%A6%87",
+          "title": "ভারতে দাঁড়িয়ে থাকা ট্রাকে গাড়ির ধাক্কা, একই পরিবারের ৯ জন নিহত",
+          "snippet": "ভারতে দাঁড়িয়ে থাকা ট্রাকে গাড়ির ধাক্কা, একই পরিবারের ৯ জন নিহত"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/international/499865",
+          "title": "রাজস্থানে দাঁড়িয়ে থাকা ট্রাকে গাড়ির ধাক্কা, একই পরিবারের ৯ জন নিহত",
+          "snippet": "রাজস্থানে দাঁড়িয়ে থাকা ট্রাকে গাড়ির ধাক্কা, একই পরিবারের ৯ জন নিহত"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ভারতের রাজস্থানে গাড়ির ধাক্কায় একই পরিবারের নয়জন নিহত",
+        "title_en": "Nine of a family killed in vehicle collision in India's Rajasthan",
+        "summary_bn": "ভারতের রাজস্থানে দাঁড়িয়ে থাকা ট্রাকে গাড়ির ধাক্কায় একই পরিবারের নয়জন নিহত হয়েছেন।",
+        "summary_en": "Nine members of the same family were killed when a car hit a stationary truck in India's Rajasthan.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-22T04:37:49+00:00",
+        "lead_bn": "ভারতের রাজস্থানে দাঁড়িয়ে থাকা ট্রাকে গাড়ির ধাক্কায় একই পরিবারের নয়জন নিহত হয়েছেন।",
+        "lead_en": "Nine members of the same family were killed when a car hit a stationary truck in India's Rajasthan.",
+        "bullets_bn": [
+          "নিহতদের মধ্যে দুই শিশু রয়েছে এবং এ ঘটনায় আরও ছয়জন আহত হয়েছেন।",
+          "২১ নভেম্বর দিবাগত রাত দুইটার দিকে কোটা-উদয়পুর জাতীয় মহাসড়কে এ দুর্ঘটনা ঘটে।",
+          "ভারতীয় সংবাদমাধ্যম এনডিটিভির প্রতিবেদনে এ তথ্য জানানো হয়েছে।"
+        ],
+        "bullets_en": [
+          "Two children are among the dead, and six others were injured in the incident.",
+          "The accident occurred around 2 am on the intervening night of 21 November on the Kota-Udaipur national highway.",
+          "Indian media outlet NDTV reported this information."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ভারতীয় সংবাদমাধ্যম এনডিটিভির প্রতিবেদনে বলা হয়েছে, দুর্ঘটনার সময় গাড়িটিতে মহারাষ্ট্রের একই পরিবারের ১৫ জন সদস্য ছিলেন। তারা রাজস্থানের খাতু শ্যামজি মন্দির দর্শন শেষে বাড়ি ফিরছিলেন।",
+        "details_en": "According to Indian media outlet NDTV, the car was carrying 15 members of the same family from Maharashtra at the time of the accident. They were returning home after visiting the Khatu Shyamji temple in Rajasthan.",
+        "hook_bn": "রাজস্থানে দাঁড়িয়ে থাকা ট্রাকে গাড়ির ধাক্কা, নিহত ৯",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-22T05:01:58.485178+00:00"
       }
     }
   ]
