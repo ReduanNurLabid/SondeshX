@@ -1,73 +1,75 @@
 {
-  "updated_at": "2026-11-22T09:00:40.588296",
-  "total_stories": 5,
+  "updated_at": "2026-11-22T10:00:48.206421",
+  "total_stories": 3,
   "stories": [
     {
-      "story_id": "7e77bf5c-de93-5430-9361-3cf5e1d2651c",
-      "primary_category": "economy_business",
+      "story_id": "80865cfb-74da-5f16-be1a-3f413c91dda8",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "economy_business",
-        "climate_environment"
+        "governance_law",
+        "tech_innovation",
+        "society_education"
       ],
       "region": "national",
       "tags": [
-        "#CPD",
-        "#BGMEA",
-        "#RMGWages"
+        "#SocialMedia",
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/20/bgmea-cpd.jpg",
+      "image_url": "https://images.unsplash.com/photo-1675352161865-27816c76141a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8b3JkZXJzJTIwcG9saWN5JTIwc29jaWFsJTIwbWVkaWElMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTUzNDE2NzR8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-22T08:20:00+00:00",
+      "published_at": "2026-11-22T09:50:11+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.25,
-      "rank_score": 3.7509,
+      "rank_score": 3.8651,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/economy/rmg/cpd-says-energy-crisis-high-interest-rates-no-excuse-keeping-rmg-wages-low-1610321",
-          "title": "CPD says energy crisis, high interest rates no excuse for keeping RMG wages low",
-          "snippet": "CPD says energy crisis, high interest rates no excuse for keeping RMG wages low"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/court/425396/hc-orders-policy-on-social-media-use-by-children",
+          "title": "HC orders policy on social media use by children under 16",
+          "snippet": "HC orders policy on social media use by children under 16"
         },
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/cpd-defends-garment-wage-analysis-amid-bgmea-criticism",
-          "title": "CPD defends garment wage analysis amid BGMEA criticism",
-          "snippet": "CPD defends garment wage analysis amid BGMEA criticism"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/high-court-guideline-social-media-use/",
+          "title": "১৬ বছরের কম বয়সীদের সোশ্যাল মিডিয়া ব্যবহার নীতিমালা করার নির্দেশ হাইকোর্টের",
+          "snippet": "১৬ বছরের কম বয়সীদের সোশ্যাল মিডিয়া ব্যবহার নীতিমালা করার নির্দেশ হাইকোর্টের"
         }
       ],
       "daily_buzz": {
-        "title_bn": "খাতওয়ারী সমস্যার অজুহাতে পোশাক শ্রমিকদের মজুরি কম রাখা যাবে না: সিপিডি",
-        "title_en": "CPD says governance problems are no excuse for low RMG wages",
-        "summary_bn": "সিপিডি জানিয়েছে, জ্বালানি সংকট ও দুর্নীতির মতো সমস্যাগুলো পোশাক শ্রমিকদের মজুরি কম রাখার অজুহাত হিসেবে ব্যবহার করা উচিত নয়।",
-        "summary_en": "The Centre for Policy Dialogue stated that governance problems like energy crises and corruption should not be used to keep garment wages low.",
+        "title_bn": "১৬ বছরের কম বয়সীদের সোশ্যাল মিডিয়া ব্যবহারে নীতিমালা করার নির্দেশ হাইকোর্টের",
+        "title_en": "HC orders policy on social media use by children under 16",
+        "summary_bn": "বাংলাদেশের ১৬ বছরের কম বয়সীদের সামাজিক যোগাযোগমাধ্যম ব্যবহারের ঝুঁকি বিবেচনায় নীতিমালা প্রণয়নের নির্দেশ দিয়েছেন হাইকোর্ট।",
+        "summary_en": "The High Court directed to formulate a policy considering the risks of social media use by children under 16 in Bangladesh.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "climate_environment"
+          "governance_law",
+          "tech_innovation",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T08:20:00+00:00",
-        "lead_bn": "সিপিডি জানিয়েছে, জ্বালানি সংকট ও দুর্নীতির মতো সমস্যাগুলো পোশাক শ্রমিকদের মজুরি কম রাখার অজুহাত হিসেবে ব্যবহার করা উচিত নয়।",
-        "lead_en": "The Centre for Policy Dialogue stated that governance problems like energy crises and corruption should not be used to keep garment wages low.",
+        "published_at": "2026-11-22T09:50:11+00:00",
+        "lead_bn": "বাংলাদেশের ১৬ বছরের কম বয়সীদের সামাজিক যোগাযোগমাধ্যম ব্যবহারের ঝুঁকি বিবেচনায় নীতিমালা প্রণয়নের নির্দেশ দিয়েছেন হাইকোর্ট।",
+        "lead_en": "The High Court directed to formulate a policy considering the risks of social media use by children under 16 in Bangladesh.",
         "bullets_bn": [
-          "সিপিডি পোশাক শ্রমিকদের জন্য ১৮,৫৭৮ টাকা থেকে ২৪,২০৪ টাকা পর্যন্ত ন্যূনতম মজুরি পরিসর প্রস্তাব করেছে।",
-          "বিজিএমইএ পরিবারের সদস্য সংখ্যা এবং জীবনযাত্রার ব্যয় গণনায় পদ্ধতির ত্রুটির কথা বলে সিপিডির প্রস্তাবের সমালোচনা করেছে।",
-          "সিপিডি জানিয়েছে যে তারা বিজিএমইএর পর্যবেক্ষণগুলো গভীরভাবে বিবেচনা করেছে এবং গঠনমূলক আলোচনা বাস্তবসম্মত মজুরি নির্ধারণে সাহায্য করতে পারে।"
+          "সাইবার নিরাপত্তা বিশেষজ্ঞ, শিশু মনোবিজ্ঞানী, শিশু বিশেষজ্ঞ ও আইনজ্ঞদের সমন্বয়ে অবিলম্বে একটি স্বাধীন কমিটি গঠনের নির্দেশ দেওয়া হয়েছে।",
+          "জনস্বার্থে দায়ের করা একটি রিট আবেদনের প্রাথমিক শুনানি শেষে এই আদেশ দেওয়া হয়।",
+          "আদেশ প্রদানকারী বেঞ্চের বিচারপতিরা হলেন বিচারপতি শিকদার মাহমুদুর রাজী ও বিচারপতি ফাতেমা আনোয়ার।"
         ],
         "bullets_en": [
-          "CPD proposed a minimum wage range of Tk18,578 to Tk24,204 for garment workers.",
-          "BGMEA criticized CPD's proposal, citing methodological flaws in calculating household size and living costs.",
-          "CPD stated it carefully considered BGMEA's observations and maintained that constructive exchanges could help establish a realistic wage."
+          "An immediate independent committee comprising cyber security experts, child psychologists, pediatricians and jurists has been ordered to be formed.",
+          "The order was issued following the primary hearing of a writ petition filed in the public interest.",
+          "The justices of the bench issuing the order are Justice Shikder Mahmudur Razi and Justice Fatema Anwar."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বিজিএমইএ গত ১৮ নভেম্বর সিপিডির মজুরি বিশ্লেষণের সমালোচনা করে বলেছিল যে গৃহস্থালির আকার এবং দারিদ্র্যসীমা গণনায় পদ্ধতিগত ত্রুটি রয়েছে। এর জবাবে ২২ নভেম্বর সিপিডি জানায় যে তারা প্রকাশিত বিভিন্ন গবেষণার ওপর ভিত্তি করে মধ্যম মানের গৃহস্থালির আকার চার এবং ১.৫৮ জন উপার্জনকারী ধরেছে। তবে সংস্থাটি স্বীকার করেছে যে এই পরিসংখ্যানগুলো কোনো প্রতিনিধিত্বমূলক জরিপের ওপর ভিত্তি করে তৈরি নয়।",
-        "details_en": "The BGMEA criticized CPD's wage analysis presented on 18 November, pointing out flaws in calculating household sizes and poverty thresholds. In response on 22 November, CPD defended using a median household size of four and 1.58 earners based on published studies, while acknowledging the figures did not replace a representative survey.",
-        "hook_bn": "মজুরি কম রাখার অজুহাত নয় খাতের সংকট",
-        "kicker_bn": "মজুরি বিতর্ক",
-        "share_value": false,
-        "question_bn": "পোশাক শ্রমিকদের ন্যূনতম মজুরি কত হওয়া উচিত বলে আপনি মনে করেন?"
+        "details_bn": "শিশুরা স্মার্টফোন, টেলিভিশন, ট্যাবলেট, কম্পিউটার এবং গেমিং ডিভাইস ব্যবহারে গড়ে প্রতিদিন ৪.৬ ঘণ্টা সময় ব্যয় করেছে বলে একটি সমীক্ষায় উঠে এসেছে।",
+        "details_en": "Children who participated in the study spent an average of 4.6 hours a day using smartphones, televisions, tablets, computers and gaming devices.",
+        "hook_bn": "১৬ বছরের কম বয়সীদের সোশ্যাল মিডিয়া ব্যবহারের নির্দেশ",
+        "kicker_bn": "রায় ঘোষণা",
+        "share_value": true,
+        "question_bn": "১৬ বছরের কম বয়সীদের সামাজিক যোগাযোগমাধ্যম ব্যবহারে নীতিমালা করার এই সিদ্ধান্তকে আপনি কীভাবে দেখছেন?"
       },
       "desk_importance": 6.0,
       "outlet_count": 2,
@@ -75,295 +77,168 @@
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T09:02:55.637076+00:00"
+        "checked_at": "2026-11-22T10:01:49.196707+00:00"
       }
     },
     {
-      "story_id": "df42152a-bd57-5c43-a4f4-9645d013ea88",
-      "primary_category": "governance_law",
+      "story_id": "7122d130-1355-5e36-94b4-5dfa7628d742",
+      "primary_category": "climate_environment",
       "interest_categories": [
-        "governance_law",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1614610741181-2bce5e06976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGlyZWN0aXZlJTIwaXNzdWVkJTIwZm9ybXVsYXRlJTIwcG9saWN5JTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1MzM4MTU4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-22T08:54:20+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.573,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/law-courts/news/1182284",
-          "title": "১৬ বছরের কম বয়সীদের সোশ্যাল মিডিয়া ব্যবহারে নীতিমালা প্রণয়নের নির্দেশ",
-          "snippet": "১৬ বছরের কম বয়সীদের সোশ্যাল মিডিয়া ব্যবহারে নীতিমালা প্রণয়নের নির্দেশ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "১৬ বছরের কম বয়সীদের সোশ্যাল মিডিয়া ব্যবহারে নীতিমালা প্রণয়নের নির্দেশ",
-        "title_en": "Directive issued to formulate policy on social media use for under-16s",
-        "summary_bn": "সংশ্লিষ্টদের প্রতি দেশে ১৬ বছর বা তার কম বয়সী শিশু-কিশোরদের সামাজিক যোগাযোগমাধ্যম বা সোশ্যাল মিডিয়া ব্যবহার নিয়ন্ত্রণে নীতিমালা প্রণয়নের নির্দেশ দেওয়া হয়েছে।",
-        "summary_en": "Relevant authorities have been directed to formulate a policy to control the use of social media by children and adolescents aged 16 or under in the country.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T08:54:20+00:00",
-        "lead_bn": "সংশ্লিষ্টদের প্রতি দেশে ১৬ বছর বা তার কম বয়সী শিশু-কিশোরদের সামাজিক যোগাযোগমাধ্যম বা সোশ্যাল মিডিয়া ব্যবহার নিয়ন্ত্রণে নীতিমালা প্রণয়নের নির্দেশ দেওয়া হয়েছে।",
-        "lead_en": "Relevant authorities have been directed to formulate a policy to control the use of social media by children and adolescents aged 16 or under in the country.",
-        "bullets_bn": [
-          "নির্দেশটি প্রদান করা হয়েছে সংশ্লিষ্টদের প্রতি।",
-          "নীতিমালাটি প্রণয়নের নির্দেশ দেওয়া হয়েছে ১৬ বছর বা তার কম বয়সী শিশু-কিশোরদের সোশ্যাল মিডিয়া ব্যবহার নিয়ন্ত্রণের জন্য।",
-          "সোশ্যাল মিডিয়া ব্যবহারের ক্ষেত্রে এই নিয়ন্ত্রণ আরোপের কথা বলা হয়েছে।"
-        ],
-        "bullets_en": [
-          "The directive has been issued to the relevant authorities.",
-          "The policy has been ordered to control the use of social media by children and adolescents aged 16 or under.",
-          "This control has been instructed regarding the use of social media."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "সোশ্যাল মিডিয়া ব্যবহারে নীতিমালা প্রণয়নের নির্দেশ",
-        "kicker_bn": "নতুন নীতিমালা",
-        "share_value": true,
-        "question_bn": "১৬ বছরের কম বয়সীদের জন্য সামাজিক যোগাযোগমাধ্যম ব্যবহারে কেমন নীতিমালা হওয়া উচিত বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T09:02:55.637076+00:00"
-      }
-    },
-    {
-      "story_id": "dfa266b1-4a2a-5a7f-ad1d-ba5dd1fed319",
-      "primary_category": "governance_law",
-      "interest_categories": [
+        "climate_environment",
+        "society_education",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Climate",
+        "#Environment"
       ],
-      "image_url": "https://images.unsplash.com/photo-1614610741181-2bce5e06976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZW1lcmdlbmN5JTIwZGlyZWN0aXZlJTIwaXNzdWVkJTIwYWxsJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1MzM4MTYwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-22%2F0fnlu0f3%2FWhatsApp-Image-2026-11-22-at-15.06.43.jpeg?rect=0%2C0%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-22T08:32:46+00:00",
+      "published_at": "2026-11-22T09:17:16+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.4996,
+      "importance_score": 6.25,
+      "rank_score": 3.7446,
       "sources": [
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822384/%E0%A7%A7-%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%95%E0%A6%B2-%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%9C%E0%A6%B0%E0%A7%81%E0%A6%B0%E0%A7%80-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%A8%E0%A6%BE",
-          "title": "১ ডিসেম্বর থেকে সকল যানবাহনের জন্য জরুরী নির্দেশনা",
-          "snippet": "১ ডিসেম্বর থেকে সকল যানবাহনের জন্য জরুরী নির্দেশনা"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/1s719451u1",
+          "title": "তিন দিন পর সেন্ট মার্টিনে গেল পাঁচ জাহাজ, ফিরবেন আটকে পড়া পর্যটকেরা",
+          "snippet": "তিন দিন পর সেন্ট মার্টিনে গেল পাঁচ জাহাজ, ফিরবেন আটকে পড়া পর্যটকেরা"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/tourist-vessel-operations-st-martin-resume-after-three/",
+          "title": "তিন দিন বন্ধ থাকার পর আবারও সেন্ট মার্টিনের জাহাজ চলাচল শুরু",
+          "snippet": "তিন দিন বন্ধ থাকার পর আবারও সেন্ট মার্টিনের জাহাজ চলাচল শুরু"
         }
       ],
       "daily_buzz": {
-        "title_bn": "১ ডিসেম্বর থেকে সকল যানবাহনের জন্য জরুরী নির্দেশনা জারি",
-        "title_en": "Emergency directive issued for all vehicles starting 1 December",
-        "summary_bn": "ইত্তেফাকের প্রতিবেদন অনুযায়ী, আগামী ১ ডিসেম্বর থেকে সকল যানবাহনের জন্য জরুরী নির্দেশনা কার্যকর করা হবে।",
-        "summary_en": "According to the report by Ittefaq, emergency directives for all vehicles will take effect starting 1 December.",
+        "title_bn": "তিন দিন পর সেন্ট মার্টিনে পর্যটকবাহী জাহাজ চলাচল শুরু হয়েছে",
+        "title_en": "Passenger ships resume operations to Saint Martin's after three days",
+        "summary_bn": "তিন দিন বন্ধ থাকার পর কক্সবাজার থেকে সেন্ট মার্টিন দ্বীপে পর্যটকবাহী জাহাজ চলাচল শুরু হয়েছে।",
+        "summary_en": "Passenger ship movement from Cox's Bazar to Saint Martin's island has resumed after remaining suspended for three days.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "climate_environment",
+          "society_education",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T08:32:46+00:00",
-        "lead_bn": "ইত্তেফাকের প্রতিবেদন অনুযায়ী, আগামী ১ ডিসেম্বর থেকে সকল যানবাহনের জন্য জরুরী নির্দেশনা কার্যকর করা হবে।",
-        "lead_en": "According to the report by Ittefaq, emergency directives for all vehicles will take effect starting 1 December.",
+        "published_at": "2026-11-22T09:17:16+00:00",
+        "lead_bn": "তিন দিন বন্ধ থাকার পর কক্সবাজার থেকে সেন্ট মার্টিন দ্বীপে পর্যটকবাহী জাহাজ চলাচল শুরু হয়েছে।",
+        "lead_en": "Passenger ship movement from Cox's Bazar to Saint Martin's island has resumed after remaining suspended for three days.",
         "bullets_bn": [
-          "নির্দেশনাটি আগামী ১ ডিসেম্বর থেকে সকল যানবাহনের ক্ষেত্রে প্রযোজ্য হবে।",
-          "ইত্তেফাক এই বিষয়ে একটি জরুরী নির্দেশনা প্রকাশ করেছে।",
-          "সকল যানবাহনকে এই নির্দেশনা মেনে চলার কথা বলা হয়েছে।"
+          "কক্সবাজারের বাঁকখালী নদীর বিআইডব্লিউটিএ জেটি থেকে পাঁচটি জাহাজ ১ হাজার ৮৭০ জন পর্যটক নিয়ে সেন্ট মার্টিনের উদ্দেশে ছেড়ে যায়।",
+          "সি ক্রুজ অপারেটর ওনার্স অ্যাসোসিয়েশন অব বাংলাদেশের সাধারণ সম্পাদক হোসাইন ইসলাম জানান সাগরের পরিস্থিতি স্বাভাবিক হওয়ায় জাহাজ চলাচল শুরু হয়েছে।",
+          "বেলা সাড়ে তিনটায় সেন্ট মার্টিনে আটকে থাকা আট শতাধিক পর্যটক নিয়ে দ্বীপটি থেকে পুনরায় কক্সবাজারের উদ্দেশে জাহাজগুলো যাত্রা করবে।"
         ],
         "bullets_en": [
-          "The directive will apply to all vehicles starting next 1 December.",
-          "Ittefaq published an emergency directive regarding this matter.",
-          "All vehicles have been asked to follow this directive."
+          "Five ships left the BIWTA jetty on the Bakkhali river in Cox's Bazar for Saint Martin's carrying 1,870 tourists.",
+          "Hosain Islam, general secretary of the Sea Cruise Operator Owners Association of Bangladesh, said movement started as sea conditions normalized.",
+          "The ships will start their return journey to Cox's Bazar at 3:30 pm carrying over eight hundred stranded tourists from Saint Martin's."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "১ ডিসেম্বর থেকে সকল যানবাহনের জন্য নির্দেশনা",
-        "kicker_bn": "সতর্কতা",
+        "impact_bn": "তিন দিন ধরে নৌযান চলাচল বন্ধ থাকায় দ্বীপটিতে বোতলজাত পানিসহ নিত্যপণ্যের সংকট দেখা দেয় এবং খাবারের দাম বেড়ে যায়।",
+        "impact_en": "As vessel movement remained suspended for three days, a crisis of bottled water and daily essentials emerged on the island, raising food prices.",
+        "details_bn": "ঘূর্ণিঝড় আকভান–এর প্রভাবে সাগর উত্তাল থাকায় থেকে সেন্ট মার্টিনে পর্যটকবাহী জাহাজ চলাচল বন্ধ ছিল। এতে দেড় হাজারের বেশি পর্যটক আটকে পড়েন, যার মধ্যে অন্তত ৬৮০ জন ১৬টি কাঠের নৌকায় টেকনাফের শাহপরীর দ্বীপ হয়ে ফিরে আসেন। আবহাওয়া অধিদপ্তরের নির্দেশনা পাওয়ায় এবং সাগরের পরিস্থিতি স্বাভাবিক হওয়ায় বিআইডব্লিউটিএ জাহাজ চালুর নির্দেশনা দেয়। সেন্ট মার্টিন ইউনিয়ন পরিষদের ভারপ্রাপ্ত চেয়ারম্যান ফয়েজুল ইসলাম জানান জাহাজ চলাচল শুরু হওয়ায় আটকে পড়া পর্যটকদের মধ্যে স্বস্তি ফিরেছে।",
+        "details_en": "Passenger ship operations to Saint Martin's were suspended from last Thursday due to rough seas caused by cyclone Akvan. Over 1,500 tourists were stranded, of whom at least 680 returned via Shah Porir Dwip in Teknaf using 16 wooden boats. BIWTA directed to resume operations after receiving instructions from the meteorological department and normalization of sea conditions. Saint Martin's Union Parishad acting chairman Foyezul Islam stated that stranded tourists felt relieved after ship movements resumed.",
+        "hook_bn": "সেন্ট মার্টিনে শুরু হলো জাহাজ চলাচল",
+        "kicker_bn": "স্বস্তি",
         "share_value": true,
-        "question_bn": "আপনার যাতায়াতে এই নতুন নির্দেশনার কী প্রভাব পড়তে পারে বলে আপনার মনে হয়?"
+        "question_bn": "সেন্ট মার্টিনে আটকে পড়ার অভিজ্ঞতা আপনার কেমন ছিল?"
       },
       "desk_importance": 6.0,
-      "outlet_count": 1,
+      "outlet_count": 2,
       "trending": false,
-      "social_appeal": 8.0,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T09:02:55.637076+00:00"
+        "checked_at": "2026-11-22T10:01:49.196707+00:00"
       }
     },
     {
-      "story_id": "168768b4-4fe5-504b-9522-e7a6ffbe0dac",
-      "primary_category": "world_diplomacy",
+      "story_id": "64fa31cb-8939-59c8-8490-79676b957a3d",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy",
-        "economy_business"
+        "governance_law",
+        "sports_fitness",
+        "world_diplomacy"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#Poland",
-        "#Russia",
-        "#Nato",
-        "#Ukraine"
+        "#AwamiLeague",
+        "#InternationalCrimesTribunal",
+        "#Bangladesh"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2025/02/27/poland_donald_tusk.jpg",
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Prosecutor.PNG",
       "image_caption": null,
-      "published_at": "2026-11-22T07:30:00+00:00",
+      "published_at": "2026-11-22T08:44:11+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.2944,
+      "importance_score": 6.25,
+      "rank_score": 3.6272,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/explainer/russian-missiles-hit-poland-what-happened-and-could-nato-respond-1610206",
-          "title": "Russian missiles hit Poland: What happened, and could Nato respond?",
-          "snippet": "Russian missiles hit Poland: What happened, and could Nato respond?"
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/probe-awami-leagues-alleged-crimes-against-humanity-progressing-prosecutor-4330241",
+          "title": "Probe into Awami League's alleged crimes against humanity progressing: Prosecutor",
+          "snippet": "Probe into Awami League's alleged crimes against humanity progressing: Prosecutor"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/law-courts/news/1182322",
+          "title": "দল হিসেবে আওয়ামী লীগের বিরুদ্ধে দেশব্যাপী তদন্ত চলছে",
+          "snippet": "দল হিসেবে আওয়ামী লীগের বিরুদ্ধে দেশব্যাপী তদন্ত চলছে"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/law-and-crime/982518/%E0%A6%A6%E0%A6%B2-%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A7%87-%E0%A6%86.-%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%A4%E0%A6%A6%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%97%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87",
+          "title": "দল হিসেবে আ. লীগের বিরুদ্ধে তদন্তের অগ্রগতি নিয়ে যা বললেন প্রসিকিউটর তামিম",
+          "snippet": "দল হিসেবে আ. লীগের বিরুদ্ধে তদন্তের অগ্রগতি নিয়ে যা বললেন প্রসিকিউটর তামিম"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পোল্যান্ডে দুটি ক্ষেপণাস্ত্র ও একটি ড্রোন আঘাত হেনেছে।",
-        "title_en": "Two missiles and a drone hit Poland.",
-        "summary_bn": "ইউক্রেনে রুশ হামলার সময় দক্ষিণ-পূর্ব পোল্যান্ডে দুটি ক্ষেপণাস্ত্র ও একটি জেটচালিত ড্রোন আঘাত হেনেছে।",
-        "summary_en": "Two missiles and a jet-powered drone landed in south-eastern Poland during a Russian attack on Ukraine.",
+        "title_bn": "দল হিসেবে আওয়ামী লীগের বিরুদ্ধে তদন্ত চলছে বলে জানিয়েছেন প্রসিকিউটর।",
+        "title_en": "Investigation against Awami League is progressing, says prosecutor.",
+        "summary_bn": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনালের তদন্ত সংস্থা দল হিসেবে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের বিরুদ্ধে দেশব্যাপী মানবতাবিরোধী অপরাধের তদন্ত চালিয়ে যাচ্ছে।",
+        "summary_en": "The investigation agency of the International Crimes Tribunal is conducting a nationwide probe into alleged crimes against humanity committed by the Awami League.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "economy_business"
+          "governance_law",
+          "sports_fitness",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T07:30:00+00:00",
-        "lead_bn": "ইউক্রেনে রুশ হামলার সময় দক্ষিণ-পূর্ব পোল্যান্ডে দুটি ক্ষেপণাস্ত্র ও একটি জেটচালিত ড্রোন আঘাত হেনেছে।",
-        "lead_en": "Two missiles and a jet-powered drone landed in south-eastern Poland during a Russian attack on Ukraine.",
+        "published_at": "2026-11-22T08:44:11+00:00",
+        "lead_bn": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনালের তদন্ত সংস্থা দল হিসেবে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের বিরুদ্ধে দেশব্যাপী মানবতাবিরোধী অপরাধের তদন্ত চালিয়ে যাচ্ছে।",
+        "lead_en": "The investigation agency of the International Crimes Tribunal is conducting a nationwide probe into alleged crimes against humanity committed by the Awami League.",
         "bullets_bn": [
-          "নভি লিপোভিয়েচ ও রুদনিক নাদ সানেমে দুটি ক্ষেপণাস্ত্র এবং মলোদিচে একটি ড্রোন পড়েছে।",
-          "প্রতিরক্ষামন্ত্রী ভ্লাদিস্লাভ কোসিনিয়াক-কামিশ এই ঘটনার সত্যতা নিশ্চিত করেছেন।",
-          "পোল্যান্ডের প্রধানমন্ত্রী ডোনাল্ড টাস্ক এটিকে উদ্দেশ্যপ্রণোদিত রুশ উসকানি বলে অভিহিত করেছেন।"
+          "তদন্তটি দেশব্যাপী বিস্তৃত এবং বাংলাদেশের ইতিহাসে এ ধরনের মামলা কখনো পরিচালিত হয়নি।",
+          "তদন্ত সংস্থা দেশজুড়ে সংঘটিত বিভিন্ন ঘটনার তদন্ত করছে বলে জানিয়েছেন প্রসিকিউটর গাজী এমএইচ তামিম।",
+          "তদন্ত শেষ হতে আরও সময় লাগবে বলে জানিয়েছেন প্রসিকিউটর।"
         ],
         "bullets_en": [
-          "Two missiles landed at Nowy Lipowiec and Rudnik nad Sanem, while a drone crashed near Molodycz.",
-          "Defence Minister Wladyslaw Kosiniak-Kamysz confirmed the incidents.",
-          "Polish Prime Minister Donald Tusk described the incident as an intentional Russian provocation."
+          "The investigation is nationwide and such a case has never been dealt with in Bangladesh's history.",
+          "Prosecutor Gazi Monawar Hossain Tamim said the investigation agency is probing incidents across the country.",
+          "The prosecutor stated that the process will take more time to complete."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "পোল্যান্ডে রুশ ক্ষেপণাস্ত্র ও ড্রোন আঘাত হেনেছে",
-        "kicker_bn": "সতর্কতা",
+        "details_bn": "সাম্প্রতিক এক মামলার রায়ে ট্রাইব্যুনাল অভিযুক্তদের দোষী সাব্যস্ত করে চার্জ গঠন করেছে, যেখানে দলটিকে সন্ত্রাসী সংগঠন হিসেবে উল্লেখ করা হয়েছে বলে মনে করে প্রসিকিউশন। সারা দেশে সাম্প্রতিক সহিংসতা ট্রাইব্যুনালের কার্যক্রমের সময় উত্থাপিত উদ্বেগের প্রতিফলন বলে জানান প্রসিকিউটর।",
+        "details_en": "In a recent verdict against former MP Mahbubul Alam Hanif and others, the tribunal framed a charge and found the accused guilty, which the prosecution believes established the Awami League as a terrorist organization. The prosecutor also noted that recent nationwide violence reflects concerns raised during tribunal proceedings.",
+        "hook_bn": "দল হিসেবে আওয়ামী লীগের বিরুদ্ধে দেশব্যাপী তদন্ত চলছে",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T09:02:55.637076+00:00"
-      }
-    },
-    {
-      "story_id": "6f46cb4a-4490-5219-9122-ff189c9f0d47",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-22%2Fz8ow3kf5%2FEducation-Minister.jpeg?rect=0%2C360%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-22T08:35:07+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.9473,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/2rhze9r7vq",
-          "title": "শিক্ষক–শিক্ষার্থীর রাজনীতির উদ্দেশ্যে বিশ্ববিদ্যালয়ে নতুন বিভাগ চালু নয়: শিক্ষামন্ত্রী",
-          "snippet": "শিক্ষক–শিক্ষার্থীর রাজনীতির উদ্দেশ্যে বিশ্ববিদ্যালয়ে নতুন বিভাগ চালু নয়: শিক্ষামন্ত্রী"
-        },
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/bangladesh/education/news/dont-approve-university-departments-no-job-market-demand-milon-4330226",
-          "title": "Don't approve university departments with no job market demand: Milon",
-          "snippet": "Don't approve university departments with no job market demand: Milon"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822386/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A7%87%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A7%8B-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%A8%E0%A6%BE",
-          "title": "বিশ্ববিদ্যালয়কে বেকারত্বের কারখানা বানানো যাবে না: শিক্ষামন্ত্রী",
-          "snippet": "বিশ্ববিদ্যালয়কে বেকারত্বের কারখানা বানানো যাবে না: শিক্ষামন্ত্রী"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "অপ্রয়োজনীয় বিভাগ না খুলতে ইউজিসিকে শিক্ষামন্ত্রীর আহ্বান",
-        "title_en": "Education minister urges UGC not to approve unnecessary departments",
-        "summary_bn": "শিক্ষামন্ত্রী আ ন ম এহছানুল হক মিলন শিক্ষক ও শিক্ষার্থীর রাজনীতির উদ্দেশ্যে বা শ্রমবাজারে চাহিদা নেই এমন নতুন বিভাগ না খুলতে আহ্বান জানিয়েছেন।",
-        "summary_en": "Education minister ASM Ehsanul Haque Milon has urged universities not to open new departments for teacher-student politics or without job market demand.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T08:35:07+00:00",
-        "lead_bn": "শিক্ষামন্ত্রী আ ন ম এহছানুল হক মিলন শিক্ষক ও শিক্ষার্থীর রাজনীতির উদ্দেশ্যে বা শ্রমবাজারে চাহিদা নেই এমন নতুন বিভাগ না খুলতে আহ্বান জানিয়েছেন।",
-        "lead_en": "Education minister ASM Ehsanul Haque Milon has urged universities not to open new departments for teacher-student politics or without job market demand.",
-        "bullets_bn": [
-          "মন্ত্রী বলেন, বর্তমান চাকরির বাজারের চাহিদা বিবেচনা না করে কোনো বিভাগ খোলা উচিত নয়।",
-          "তিনি ইউজিসিকে সতর্ক থাকার আহ্বান জানিয়ে বলেন, শ্রমবাজারে চাহিদা নেই এমন বিষয়ে নতুন বিভাগ খোলার অনুমতি দেওয়া উচিত নয়।",
-          "শিক্ষামন্ত্রী উল্লেখ করেন, প্রাথমিক থেকে বিশ্ববিদ্যালয় পর্যন্ত সব পর্যায়েই শিক্ষকের ঘাটতি রয়েছে।"
-        ],
-        "bullets_en": [
-          "The minister said no department should be opened without considering current job market demands.",
-          "He urged the UGC to remain cautious and not permit new departments in subjects with no labor market demand.",
-          "The education minister noted that there is a shortage of teachers at all levels from primary to university."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ঢাকা বিশ্ববিদ্যালয়ের নবাব নওয়াব আলী চৌধুরী সিনেট ভবন মিলনায়তনে আয়োজিত এক সেমিনারে প্রধান অতিথির বক্তব্যে শিক্ষামন্ত্রী এই আহ্বান জানান। সেমিনারের শিরোনাম ছিল ইন্ডাস্ট্রি–একাডেমিয়া কোলাবোরেশন: সরকারের নীতি এবং ঢাকা বিশ্ববিদ্যালয়ের অবস্থান।",
-        "details_en": "The education minister made the call while speaking as the chief guest at a seminar at the Nawab Nawab Ali Chowdhury Senate Bhaban auditorium of Dhaka University. The seminar was titled Industry-Academia Collaboration: Government Policies and Dhaka University's Stance.",
-        "hook_bn": "বেকারত্বের কারখানা বানাবেন না",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": "আপনার মতে বিশ্ববিদ্যালয়গুলোয় শ্রমবাজারের চাহিদা অনুযায়ী নতুন বিভাগ খোলা কতটা জরুরি?"
-      },
-      "desk_importance": 5.0,
       "outlet_count": 3,
       "trending": false,
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T09:02:55.637076+00:00"
+        "checked_at": "2026-11-22T10:01:49.196707+00:00"
       }
     }
   ]
