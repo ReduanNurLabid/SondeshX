@@ -1,307 +1,204 @@
 {
-  "updated_at": "2026-11-22T16:00:54.721825",
-  "total_stories": 5,
+  "updated_at": "2026-11-22T17:00:43.415853",
+  "total_stories": 4,
   "stories": [
     {
-      "story_id": "a49e3479-b9f5-590b-ab46-80abe3037d46",
+      "story_id": "669dcdf9-44de-5c54-aaf6-c23ffcbb7de7",
       "primary_category": "economy_business",
       "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#MirShaheAlam",
-        "#GarmentWorkers",
-        "#Savar"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/22/mir_shahe_alam.png",
-      "image_caption": null,
-      "published_at": "2026-11-22T15:25:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 5.4313,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/landlords-face-legal-action-if-they-raise-rents-alongside-garment-wages-state-minister",
-          "title": "Landlords face legal action if they raise rents alongside garment wages: State minister",
-          "snippet": "Landlords face legal action if they raise rents alongside garment wages: State minister"
-        },
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/imxlkgplvw",
-          "title": "বেতন বৃদ্ধির পরপরই বাসাভাড়া বাড়ালে আইনগত ব্যবস্থা : মীর শাহে আলম",
-          "snippet": "বেতন বৃদ্ধির পরপরই বাসাভাড়া বাড়ালে আইনগত ব্যবস্থা : মীর শাহে আলম"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1182489",
-          "title": "শ্রমিকদের বেতন বাড়লে বাড়িভাড়া বাড়ানো যাবে না: মীর শাহে আলম",
-          "snippet": "শ্রমিকদের বেতন বাড়লে বাড়িভাড়া বাড়ানো যাবে না: মীর শাহে আলম"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পোশাকশ্রমিকদের বেতন বৃদ্ধির পর বাড়িভাড়া বাড়ালে আইনি ব্যবস্থা নেওয়া হবে।",
-        "title_en": "Landlords face legal action for raising rents after garment wage increase.",
-        "summary_bn": "পোশাকশ্রমিকদের মজুরি বৃদ্ধির পর বাড়িভাড়া বাড়ালে সংশ্লিষ্ট বাড়িওয়ালাদের বিরুদ্ধে আইনি ব্যবস্থা নেওয়া হবে বলে সতর্ক করেছেন স্থানীয় সরকার প্রতিমন্ত্রী মীর শাহে আলম।",
-        "summary_en": "State Minister Mir Shahe Alam warned that landlords in garment areas will face legal action if they raise rents after wage increases.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T15:25:00+00:00",
-        "lead_bn": "পোশাকশ্রমিকদের মজুরি বৃদ্ধির পর বাড়িভাড়া বাড়ালে সংশ্লিষ্ট বাড়িওয়ালাদের বিরুদ্ধে আইনি ব্যবস্থা নেওয়া হবে বলে সতর্ক করেছেন স্থানীয় সরকার প্রতিমন্ত্রী মীর শাহে আলম।",
-        "lead_en": "State Minister Mir Shahe Alam warned that landlords in garment areas will face legal action if they raise rents after wage increases.",
-        "bullets_bn": [
-          "প্রতিমন্ত্রী বলেন, নতুন মজুরি কাঠামো ঘোষণার সঙ্গে সঙ্গে যারা ভাড়া বাড়াবে, সরকার তাদের বিরুদ্ধে ইউনিয়ন পরিষদ, উপজেলা পরিষদ ও পৌরসভার মাধ্যমে ব্যবস্থা নেবে।",
-          "সাভার পৌরসভা মিলনায়তনে আয়োজিত এক বিনিময় সভায় প্রধান অতিথির বক্তব্যে তিনি এই হুঁশিয়ারি দেন।",
-          "পোশাকশ্রমিক ও মালিকপক্ষের সঙ্গে আলোচনা সাপেক্ষে মজুরি বোর্ড নতুন বেতন কাঠামো নির্ধারণের কাজ চালিয়ে যাচ্ছে।"
-        ],
-        "bullets_en": [
-          "The government will take action through union parishads, upazila parishads and municipalities against landlords who raise rents immediately after the new wage structure.",
-          "The state minister made the warning while attending as chief guest at an exchange meeting at the Savar Municipality auditorium.",
-          "The wage board is currently working to determine a new pay structure through ongoing discussions between garment workers and factory owners."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সাভার পৌরসভা মিলনায়তনে স্থানীয় lawmakers, administrative officials, garment factory owners এবং labour leaders-দের উপস্থিতিতে আয়োজিত এক বিনিময় সভায় স্থানীয় সরকার, পল্লী উন্নয়ন ও সমবায় প্রতিমন্ত্রী মীর শাহে আলম এই মন্তব্য করেন। তিনি জানান, অন্তর্বর্তী সরকারের ব্যবস্থার কারণে এবার পাঁচ বছরের পরিবর্তে তিন বছর পর নতুন মজুরি বোর্ড গঠন করা হয়েছে। বোর্ড ইতোমধ্যে কাজ শুরু করেছে এবং শ্রমিক ও মালিকদের প্রস্তাবের মধ্য দিয়ে একটি মধ্যস্ততায় পৌঁছানোর চেষ্টা চলছে।",
-        "details_en": "State Minister for Local Government, Rural Development and Cooperatives Mir Shahe Alam made the remarks at an exchange meeting at the Savar Municipality auditorium, attended by local lawmakers, administrative officials, garment factory owners and labour leaders. He said the government formed a new wage board after three years instead of the usual five-year interval following the arrangement introduced by the interim government, and the board has already started its work.",
-        "hook_bn": "বেতন বৃদ্ধির পর বাড়িভাড়া বাড়ালে আইনি ব্যবস্থা",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": "পোশাকশ্রমিকদের মজুরি বৃদ্ধির পর বাড়িভাড়া নিয়ন্ত্রণে কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 9.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T16:02:02.447277+00:00"
-      }
-    },
-    {
-      "story_id": "a1c113f2-a8ff-5123-9010-4d9b4f015b67",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "world_diplomacy",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-22%2Fsep0e0lj%2FNahid.jpeg?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-22T14:43:42+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 5.2195,
-      "sources": [
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/21zhhxlwz5",
-          "title": "জাতীয় ঐক্যের প্রথম পদক্ষেপ একদলীয় সংবিধান সংশোধন কমিটি বাতিল করা: নাহিদ",
-          "snippet": "জাতীয় ঐক্যের প্রথম পদক্ষেপ একদলীয় সংবিধান সংশোধন কমিটি বাতিল করা: নাহিদ"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/politics/ncp-shun-bnp-led-national-unity-initiative-unless-demands-met-nahid-1610811",
-          "title": "NCP to shun BNP-led national unity initiative unless demands met: Nahid",
-          "snippet": "NCP to shun BNP-led national unity initiative unless demands met: Nahid"
-        },
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/politics/post-1224444/",
-          "title": "আওয়ামী লীগ ঠেকাতে ডিসেম্বরেই ঐকমত্য চায় সরকার: নাহিদ ইসলাম",
-          "snippet": "আওয়ামী লীগ ঠেকাতে ডিসেম্বরেই ঐকমত্য চায় সরকার: নাহিদ ইসলাম"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "এনসিপি জাতীয় ঐক্যের শর্ত হিসেবে সংবিধান সংশোধন কমিটি বাতিলের দাবি জানিয়েছে",
-        "title_en": "NCP demands cancellation of constitution amendment committee as condition for national unity",
-        "summary_bn": "জাতীয় নাগরিক পার্টির (এনসিপি) আহ্বায়ক নাহিদ ইসলাম বলেছেন, জাতীয় ঐক্যের প্রথম পদক্ষেপ হিসেবে একদলীয় সংবিধান সংশোধন কমিটি ভেঙে দিতে হবে।",
-        "summary_en": "National Citizens Party (NCP) Convener Nahid Islam said the single-party constitution amendment committee must be dissolved as the first step of national unity.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "world_diplomacy",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T14:43:42+00:00",
-        "lead_bn": "জাতীয় নাগরিক পার্টির (এনসিপি) আহ্বায়ক নাহিদ ইসলাম বলেছেন, জাতীয় ঐক্যের প্রথম পদক্ষেপ হিসেবে একদলীয় সংবিধান সংশোধন কমিটি ভেঙে দিতে হবে।",
-        "lead_en": "National Citizens Party (NCP) Convener Nahid Islam said the single-party constitution amendment committee must be dissolved as the first step of national unity.",
-        "bullets_bn": [
-          "নাহিদ ইসলাম বলেন, প্রধানমন্ত্রী তারেক রহমানের আমন্ত্রণে সংলাপে অংশ নিয়ে এনসিপি সংবিধান সংস্কার পরিষদের শপথ নেওয়ার আহ্বান জানাবে।",
-          "তিনি জানান, গণভোটের রায় অনুযায়ী জুলাই সনদ বাস্তবায়ন এবং গণহত্যার বিচার ত্বরান্বিত করার অঙ্গীকার থাকতে হবে।",
-          "জামায়াতের নায়েবে আমির এটিএম আজহারুল ইসলাম বলেন, জনগণের ঐক্য প্রতিষ্ঠা করতে হলে গণভোটের ৭০ ভাগ মানুষের রায় কার্যকর করতে হবে।"
-        ],
-        "bullets_en": [
-          "Nahid Islam said NCP will join the dialogue invited by Prime Minister Tarique Rahman and call for taking the oath as Constitution Reform Council members.",
-          "He stated that there must be commitments to implement the July Charter according to the referendum verdict and accelerate genocide trials.",
-          "Jamaat-e-Islami Assistant Amir ATM Azharul Islam said the verdict of seventy percent of people in the referendum must be implemented to establish unity."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "'একদলীয় সংবিধান সংশোধন কমিটি বাতিল করতে হবে'",
-        "kicker_bn": "জাতীয় ঐক্য",
-        "share_value": false,
-        "question_bn": "জাতীয় ঐক্য গঠনে রাজনৈতিক দলগুলোর মধ্যে সংলাপ কতটা ফলপ্রসূ হবে বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-22T16:02:02.447277+00:00"
-      }
-    },
-    {
-      "story_id": "c13d836d-b01a-534e-b0c5-861e7548ccad",
-      "primary_category": "governance_law",
-      "interest_categories": [
+        "economy_business",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-08%2Fkghflbla%2FDIPU0159063849.JPG?rect=0%2C157%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-22%2Fubgny4of%2FACC-chairman.jpeg?rect=77%2C0%2C1379%2C724&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-22T15:28:15+00:00",
+      "published_at": "2026-11-22T16:35:57+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.7835,
+      "importance_score": 6.0,
+      "rank_score": 3.5129,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/u9xyeeibhp",
-          "title": "জিয়াউলের বিরুদ্ধে গুম–হত্যার মামলায় সাক্ষ্য গ্রহণ শেষ, যুক্তিতর্ক ২৪ নভেম্বর",
-          "snippet": "জিয়াউলের বিরুদ্ধে গুম–হত্যার মামলায় সাক্ষ্য গ্রহণ শেষ, যুক্তিতর্ক ২৪ নভেম্বর"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/former-army-officer-ziauls-defence-rests-in-100-plus-disappearances-killings-trial",
-          "title": "Ziaul’s defence testimony ends, arguments Nov 24",
-          "snippet": "Ziaul’s defence testimony ends, arguments Nov 24"
+          "url": "https://www.prothomalo.com/bangladesh/8ir0a9w551",
+          "title": "দেশ থেকে প্রায় ২৩৪ বিলিয়ন ডলার পাচার হয়েছে",
+          "snippet": "দেশ থেকে প্রায় ২৩৪ বিলিয়ন ডলার পাচার হয়েছে"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মেজর জেনারেল (অব.) জিয়াউল আহসানের মানবতাবিরোধী অপরাধ মামলার সাক্ষ্য গ্রহণ শেষ",
-        "title_en": "Testimony ends in crimes against humanity case against Maj Gen (Retd) Ziaul আহসান",
-        "summary_bn": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল-১-এ শতাধিক ব্যক্তিকে গুম ও হত্যার অভিযোগে মেজর জেনারেল (অব.) জিয়াউল আহসানের বিরুদ্ধে মামলার সাক্ষ্য গ্রহণ শেষ হয়েছে।",
-        "summary_en": "Testimony has ended in the crimes against humanity case against Major General (Retd) Ziaul Ahsan at International Crimes Tribunal-1 over enforced disappearances and killings.",
+        "title_bn": "দেশ থেকে প্রায় ২৩৪ বিলিয়ন ডলার পাচার হয়েছে",
+        "title_en": "Nearly 234 billion dollars have been laundered from the country",
+        "summary_bn": "দুর্নীতি দমন কমিশনের কমিশনার জাহাঙ্গীর আলম খান জানিয়েছেন, দেশ থেকে প্রায় ২৩৪ বিলিয়ন ডলার পাচার হয়েছে।",
+        "summary_en": "Anti-Corruption Commission Commissioner Jahangir Alam Khan stated that nearly 234 billion dollars have been laundered from the country.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "economy_business",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T15:28:15+00:00",
-        "lead_bn": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল-১-এ শতাধিক ব্যক্তিকে গুম ও হত্যার অভিযোগে মেজর জেনারেল (অব.) জিয়াউল আহসানের বিরুদ্ধে মামলার সাক্ষ্য গ্রহণ শেষ হয়েছে।",
-        "lead_en": "Testimony has ended in the crimes against humanity case against Major General (Retd) Ziaul Ahsan at International Crimes Tribunal-1 over enforced disappearances and killings.",
+        "published_at": "2026-11-22T16:35:57+00:00",
+        "lead_bn": "দুর্নীতি দমন কমিশনের কমিশনার জাহাঙ্গীর আলম খান জানিয়েছেন, দেশ থেকে প্রায় ২৩৪ বিলিয়ন ডলার পাচার হয়েছে।",
+        "lead_en": "Anti-Corruption Commission Commissioner Jahangir Alam Khan stated that nearly 234 billion dollars have been laundered from the country.",
         "bullets_bn": [
-          "মামলায় জিয়াউল আহসানের পক্ষে সাক্ষী হিসেবে জবানবন্দি দিয়েছেন আইনজীবী তাসলিমা জাহান।",
-          "সাক্ষী তাসলিমা জাহান ট্রাইব্যুনালে কাগজপত্র ও ভিডিও পেনড্রাইভে উপস্থাপন করেন।",
-          "মামলায় ২৪ নভেম্বর যুক্তিতর্কের জন্য দিন ধার্য করা হয়েছে।"
+          "জাহাঙ্গীর আলম খান বলেছেন, এসব ডলারের মধ্যে প্রতিবছর ১৬ বিলিয়ন ডলার ইনভয়েস ও ওভার ইনভয়েসের মাধ্যমে পাচার হয়েছে।",
+          "দুদক চেয়ারম্যান বিচারপতি এ কে এম আসাদুজ্জামান বলেছেন, দুর্নীতিমুক্ত দেশ গড়তে তাঁরা প্রতিজ্ঞাবদ্ধ।",
+          "কমিশনার মো. সাজ্জাদ হোসেন ভূঁইয়া বলেছেন, দেশের প্রায় ৯৫ শতাংশ মানি লন্ডারিং ক্লিয়ারিং হাউসের মাধ্যমে হয়।"
         ],
         "bullets_en": [
-          "Lawyer Taslima Jahan testified as a witness for Ziaul Ahsan in the case.",
-          "Witness Taslima Jahan presented documents and videos in a pendrive to the tribunal.",
-          "The tribunal has set November 24 for arguments in the case."
+          "Jahangir Alam Khan said that out of these dollars, 16 billion dollars are laundered every year through invoice and over-invoice.",
+          "ACC Chairman Justice Md. Ashfaquzzaman stated that they are committed to building a corruption-free country.",
+          "Commissioner Md. Sajjad Hossain Bhuiyan said that nearly 95 percent of money laundering in the country occurs through clearing houses."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "শতাধিক ব্যক্তিকে গুম ও হত্যার অভিযোগে মেজর জেনারেল (অব.) জিয়াউল আহসানের বিরুদ্ধে আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল-১-এ এই মামলার বিচার চলছে। চলতি বছরের ৮ ফেব্রুয়ারি এই মামলায় সাক্ষ্য গ্রহণ শুরু হয় এবং ১৯ নভেম্বর রাষ্ট্রপক্ষের সাক্ষ্য উপস্থাপন শেষ হয়। একমাত্র আসামি জিয়াউল আহসান ভার্চ্যুয়ালি শুনানিতে অংশ নেন।",
-        "details_en": "The trial is ongoing at International Crimes Tribunal-1 against Major General (Retd) Ziaul Ahsan for over a hundred enforced disappearances and killings. Testimony began on February 8 of this year, and prosecution testimony ended on November 19. The lone accused Ziaul Ahsan participated in the hearing virtually.",
-        "hook_bn": "জিয়াউল আহসানের মামলার সাক্ষ্য গ্রহণ শেষ",
-        "kicker_bn": "নতুন তারিখ",
-        "share_value": true,
-        "question_bn": null
+        "details_bn": "দুর্নীতি দমন কমিশনের ২২তম প্রতিষ্ঠাবার্ষিকী উপলক্ষে আয়োজিত আলোচনা সভায় দুদক কর্মকর্তারা এসব কথা বলেন। সভায় সভাপতিত্ব করেন দুদকের সচিব মো. সাইদুর রহমান খান। অনুষ্ঠানে দুদকের সব মহাপরিচালক, পরিচালক ও উপপরিচালকেরা অংশ নেন।",
+        "details_en": "ACC officials made these remarks at a discussion meeting organized on the occasion of the 22nd founding anniversary of the Anti-Corruption Commission. The meeting was presided over by ACC Secretary Md. Saidur Rahman Khan. All directors general, directors, and deputy directors of the ACC participated in the event.",
+        "hook_bn": "দেশ থেকে প্রায় ২৩৪ বিলিয়ন ডলার পাচার",
+        "kicker_bn": "দুদক",
+        "share_value": false,
+        "question_bn": "অর্থ পাচার রোধে কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
       },
       "desk_importance": 6.0,
-      "outlet_count": 2,
+      "outlet_count": 1,
       "trending": false,
-      "social_appeal": 5.0,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T16:02:02.447277+00:00"
+        "checked_at": "2026-11-22T17:02:21.294246+00:00"
       }
     },
     {
-      "story_id": "2e9322a9-e1a5-5fd4-b68c-9121d50a2fc1",
+      "story_id": "d98b4492-35be-58b6-a71b-28232d98bc83",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "economy_business",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1631571772417-4585cb47814f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z2FzJTIwZm91bmQlMjBzZWNvbmQlMjBsYXllciUyMGVudmlyb25tZW50fGVufDF8MHx8fDE3OTUzNjY5MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-22T16:26:15+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.4803,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1182500",
+          "title": "ভোলায় নতুন কূপের দ্বিতীয় স্তরেও মিলেছে গ্যাস",
+          "snippet": "ভোলায় নতুন কূপের দ্বিতীয় স্তরেও মিলেছে গ্যাস"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ভোলার ভোলা নর্থ-৩ কূপের দ্বিতীয় স্তরেও গ্যাসের সন্ধান মিলেছে",
+        "title_en": "Gas found in the second layer of Bhola North-3 well",
+        "summary_bn": "ভোলার ভোলা নর্থ গ্যাসক্ষেত্রের নতুন খনন করা ভোলা নর্থ-৩ কূপের প্রথম স্তরের পর এবার দ্বিতীয় স্তরেও গ্যাসের সন্ধান পাওয়া গেছে।",
+        "summary_en": "Gas has been found in the newly drilled Bhola North-3 well of Bhola North gas field after the first layer.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-22T16:26:15+00:00",
+        "lead_bn": "ভোলার ভোলা নর্থ গ্যাসক্ষেত্রের নতুন খনন করা ভোলা নর্থ-৩ কূপের প্রথম স্তরের পর এবার দ্বিতীয় স্তরেও গ্যাসের সন্ধান পাওয়া গেছে।",
+        "lead_en": "Gas has been found in the newly drilled Bhola North-3 well of Bhola North gas field after the first layer.",
+        "bullets_bn": [
+          "ভোলা নর্থ গ্যাসক্ষেত্রের নতুন খনন করা ভোলা নর্থ-৩ কূপের দ্বিতীয় স্তরে গ্যাসের সন্ধান পাওয়া গেছে।",
+          "এর আগে একই কূপের প্রথম স্তরেও গ্যাসের সন্ধান মিলেছিল।",
+          "নতুন এই কূপটিতে খনন কাজ চালানো হয়েছে।"
+        ],
+        "bullets_en": [
+          "Gas has been found in the second layer of the newly drilled Bhola North-3 well in Bhola North gas field.",
+          "Earlier, gas was also found in the first layer of the same well.",
+          "Drilling work was conducted in this new well."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "ভোলার নতুন কূপে মিলল গ্যাস",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-22T17:02:21.294246+00:00"
+      }
+    },
+    {
+      "story_id": "1188e2e4-dafc-5583-bab0-b2b5f3bd3726",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#MatinSpinning",
-        "#DhakaStockExchange",
-        "#ShareMarket"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2020/06/10/matin_spinning_mill_ltd.jpg",
+      "image_url": "https://media.channelionline.com/2026/11/Untitled7-15.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-11-22T15:40:00+00:00",
+      "published_at": "2026-11-22T15:55:29+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.0,
-      "rank_score": 3.5265,
+      "rank_score": 3.3787,
       "sources": [
         {
-          "name": "The Business Standard Economy",
-          "url": "https://www.tbsnews.net/economy/stocks/matin-spinning-vice-chairman-buy-1024-lakh-shares-worth-tk135cr-1610946",
-          "title": "Matin Spinning vice chairman to buy 10.24 lakh shares worth Tk13.5cr",
-          "snippet": "Matin Spinning vice chairman to buy 10.24 lakh shares worth Tk13.5cr"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/economy/stocks/dse-stocks-rally-turnover-jumps-63-nearly-four-month-high-1610926",
-          "title": "DSE stocks rally as turnover jumps 63% to nearly four-month high",
-          "snippet": "DSE stocks rally as turnover jumps 63% to nearly four-month high"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/garment-exports-earn-10-billion-dollars/",
+          "title": "পোশাক রপ্তানিতে আয় ছাড়াল ১০ বিলিয়ন ডলার",
+          "snippet": "পোশাক রপ্তানিতে আয় ছাড়াল ১০ বিলিয়ন ডলার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মটিন স্পিনিংয়ের ভাইস চেয়ারম্যান ১০.২৪ লাখ শেয়ার কিনবেন",
-        "title_en": "Matin Spinning vice chairman to buy 10.24 lakh shares",
-        "summary_bn": "মটিন স্পিনিং মিলস পিএলসির ভাইস চেয়ারম্যান মোহাম্মদ আবদুর রহিম কোম্পানির ১০.২৪ লাখ শেয়ার কেনার ইচ্ছা প্রকাশ করেছেন।",
-        "summary_en": "Mohammed Abdur Rahim, vice chairman of Matin Spinning Mills PLC, expressed intention to purchase 10.24 lakh shares.",
+        "title_bn": "২১ মাস পর পোশাক রপ্তানি আয় ১০ বিলিয়ন ডলার ছাড়াল",
+        "title_en": "Garment export earnings exceed 10 billion dollars after 21 months",
+        "summary_bn": "চলতি অর্থবছরের প্রথম তিন মাসে দেশের তৈরি পোশাক রপ্তানি থেকে আয় ১০ বিলিয়ন ডলারের মাইলফলক ছাড়িয়েছে বলে জানিয়েছে বাংলাদেশ ব্যাংক।",
+        "summary_en": "Bangladesh Bank reports that the country's garment export earnings exceeded the 10 billion dollar milestone in the first three months.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T15:40:00+00:00",
-        "lead_bn": "মটিন স্পিনিং মিলস পিএলসির ভাইস চেয়ারম্যান মোহাম্মদ আবদুর রহিম কোম্পানির ১০.২৪ লাখ শেয়ার কেনার ইচ্ছা প্রকাশ করেছেন।",
-        "lead_en": "Mohammed Abdur Rahim, vice chairman of Matin Spinning Mills PLC, expressed intention to purchase 10.24 lakh shares.",
+        "published_at": "2026-11-22T15:55:29+00:00",
+        "lead_bn": "চলতি অর্থবছরের প্রথম তিন মাসে দেশের তৈরি পোশাক রপ্তানি থেকে আয় ১০ বিলিয়ন ডলারের মাইলফলক ছাড়িয়েছে বলে জানিয়েছে বাংলাদেশ ব্যাংক।",
+        "lead_en": "Bangladesh Bank reports that the country's garment export earnings exceeded the 10 billion dollar milestone in the first three months.",
         "bullets_bn": [
-          "বাজারদর অনুযায়ী এই শেয়ার কিনতে প্রায় ১৩.৫০ কোটি টাকা খরচ হবে।",
-          "ঢাকা স্টক এক্সচেঞ্জে দাখিল করা এক disclosures এ এই তথ্য জানানো হয়েছে।",
-          "আগামী ৩০ কার্যদিবসের মধ্যে পাবলিক ও ব্লক মার্কেট থেকে এসব শেয়ার কেনা হবে।"
+          "জুলাই-সেপ্টেম্বর প্রান্তিকে তৈরি পোশাক রপ্তানি থেকে আয় হয়েছে ১ হাজার ৫৪ কোটি ৫১ লাখ ৬০ হাজার ডলার।",
+          "এক বছরের ব্যবধানে পোশাক রপ্তানি আয় বেড়েছে ৬ দশমিক ২৫ শতাংশ এবং আগের প্রান্তিকের তুলনায় প্রবৃদ্ধি হয়েছে ৪ দশমিক ৪৩ শতাংশ।",
+          "আলোচ্য সময়ে মোট রপ্তানি আয়ের ৮০ দশমিক ৭৯ শতাংশ এসেছে তৈরি পোশাক খাত থেকে।"
         ],
         "bullets_en": [
-          "The acquisition will cost around Tk13.50 crore based on market prices.",
-          "The purchase was disclosed in a filing submitted to the Dhaka Stock Exchange.",
-          "The shares will be purchased from the public and block markets within the next 30 working days."
+          "Garment export earnings reached 1,054 crore 51 lakh 60 thousand dollars in the July-September quarter.",
+          "Export earnings increased by 6.25 percent year-on-year and 4.43 percent compared to the previous quarter.",
+          "During this period, 80.79 percent of total export earnings came from the readymade garment sector."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "মটিন স্পিনিংয়ের ১৩.৫০ কোটি টাকার শেয়ার কেনা",
-        "kicker_bn": "শেয়ারবাজার",
-        "share_value": true,
-        "question_bn": "শেয়ারবাজারের বর্তমান পরিস্থিতি নিয়ে আপনার মতামত কী?"
+        "details_bn": "বাংলাদেশ ব্যাংকের প্রতিবেদনে বলা হয়েছে, আলোচ্য সময়ে নিট পোশাকের রপ্তানি আয় ৫৯৪ কোটি ৪০ লাখ ডলার এবং ওভেন পোশাকের অবদান ৪৬০ কোটি ১১ লাখ ৬০ হাজার ডলার ছিল। যুক্তরাষ্ট্র, যুক্তরাজ্য, স্পেন, জার্মানি, নেদারল্যান্ডস, ফ্রান্স, কানাডা, ইতালি ও বেলজিয়ামে পোশাক রপ্তানি থেকে ৭৬০ কোটি ৩৭ লাখ ৪০ হাজার ডলার আয় হয়েছে। তবে বৈশ্বিক পোশাকের বাজারে চাহিদার অনিশ্চয়তা, উৎপাদন ব্যয় বৃদ্ধি এবং যুক্তরাষ্ট্রের বাণিজ্যনীতি নিয়ে অনিশ্চয়তা এখনো চ্যালেঞ্জ রয়েছে।",
+        "details_en": "According to the Bangladesh Bank report, net garment export earnings were 594 crore 40 lakh dollars and woven garment earnings were 460 crore 11 lakh 60 thousand dollars. Earnings from the US, UK, Spain, Germany, Netherlands, France, Canada, Italy and Belgium totaled 760 crore 37 lakh 40 thousand dollars. However, uncertainties in global demand, rising production costs and US trade policies remain challenges.",
+        "hook_bn": "পোশাক রপ্তানি আয় ছাড়াল ১০ বিলিয়ন ডলার",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "পোশাক খাতের এই প্রবৃদ্ধি দেশের অর্থনীতিতে কেমন প্রভাব ফেলবে বলে আপনার মনে হয়?"
       },
       "desk_importance": 6.0,
       "outlet_count": 1,
@@ -309,86 +206,75 @@
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T16:02:02.447277+00:00"
+        "checked_at": "2026-11-22T17:02:21.294246+00:00"
       }
     },
     {
-      "story_id": "5ef71db5-717a-5b47-b08b-17339a0a7781",
-      "primary_category": "governance_law",
+      "story_id": "322f4ed3-c99a-532f-baec-973cae3aee49",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "governance_law"
+        "world_diplomacy"
       ],
-      "region": "national",
+      "region": "international",
       "tags": [
-        "#Chittagong",
-        "#Police"
+        "#Sudan",
+        "#Khartoum",
+        "#UnitedNations"
       ],
-      "image_url": "https://images.unsplash.com/photo-1581553673739-c4906b5d0de8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cG9saWNlJTIwdW5jb3ZlciUyMGZha2UlMjB2aXNhJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1MzYzMzIwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03005929fe-1795358809.jpg?resize=1920%2C1440",
       "image_caption": null,
-      "published_at": "2026-11-22T14:05:07+00:00",
+      "published_at": "2026-11-22T15:03:38+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 3.7775,
+      "importance_score": 6.0,
+      "rank_score": 3.2142,
       "sources": [
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/nation/425436/police-uncover-fake-visa-factory-in-chittagong",
-          "title": "Police uncover fake visa factory in Chittagong, arrest 1",
-          "snippet": "Police uncover fake visa factory in Chittagong, arrest 1"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/crime/fake-visa-racket-busted-chattogram-man-arrested-17-passports-1610916",
-          "title": "Fake visa racket busted in Chattogram, man arrested with 17 passports",
-          "snippet": "Fake visa racket busted in Chattogram, man arrested with 17 passports"
-        },
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/man-detained-locals-lakshmipur-turns-out-be-jmb-member-bomaru-mamun-4330536",
-          "title": "Man detained by locals in Lakshmipur turns out to be JMB member ‘Bomaru Mamun’",
-          "snippet": "Man detained by locals in Lakshmipur turns out to be JMB member ‘Bomaru Mamun’"
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
+          "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
+          "snippet": "Drone attacks kill four near Sudan’s capital, damage UN building"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চট্টগ্রামে ভুয়া ভিসা তৈরির কারখানা থেকে ১ জন গ্রেপ্তার",
-        "title_en": "Police uncover fake visa factory in Chittagong and arrest one",
-        "summary_bn": "চট্টগ্রামের টেরিবাজারে অভিযান চালিয়ে পুলিশ ১৭টি পাসপোর্ট ও ভুয়া ভিসা তৈরির সরঞ্জামসহ এক ব্যক্তিকে গ্রেপ্তার করেছে।",
-        "summary_en": "Police arrested a man and seized 17 passports and visa-making equipment during an operation in Chittagong's Teribazar.",
+        "title_bn": "সুদানে ড্রোন হামলায় চারজন নিহত এবং জাতিসংঘ ভবন ক্ষতিগ্রস্ত হয়েছে",
+        "title_en": "Drone attacks kill four people and damage UN building in Sudan",
+        "summary_bn": "সুদানের রাজধানী খার্তুম ও এর আশেপাশে আধাসামরিক বাহিনীর ড্রোন হামলায় চারজন নিহত এবং একটি জাতিসংঘ ভবন ক্ষতিগ্রস্ত হয়েছে।",
+        "summary_en": "Drone attacks blamed on paramilitary forces killed four people and damaged a United Nations building in and around Khartoum.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T14:05:07+00:00",
-        "lead_bn": "চট্টগ্রামের টেরিবাজারে অভিযান চালিয়ে পুলিশ ১৭টি পাসপোর্ট ও ভুয়া ভিসা তৈরির সরঞ্জামসহ এক ব্যক্তিকে গ্রেপ্তার করেছে।",
-        "lead_en": "Police arrested a man and seized 17 passports and visa-making equipment during an operation in Chittagong's Teribazar.",
+        "published_at": "2026-11-22T15:03:38+00:00",
+        "lead_bn": "সুদানের রাজধানী খার্তুম ও এর আশেপাশে আধাসামরিক বাহিনীর ড্রোন হামলায় চারজন নিহত এবং একটি জাতিসংঘ ভবন ক্ষতিগ্রস্ত হয়েছে।",
+        "lead_en": "Drone attacks blamed on paramilitary forces killed four people and damaged a United Nations building in and around Khartoum.",
         "bullets_bn": [
-          "পুলিশ এই অভিযানে ১৭টি বাংলাদেশি পাসপোর্ট এবং ভুয়া ভিসা জব্দ করেছে।",
-          "অভিযানে ভুয়া সার্বীয় ভিসা এবং একটি প্রিন্টারসহ অন্যান্য সরঞ্জাম উদ্ধার করা হয়।",
-          "লক্ষ্মীপুরে স্থানীয়দের হাতে আটক এক ব্যক্তি জেএমবি সদস্য ‘বোমারু মামুন’ হিসেবে শনাক্ত হয়েছেন।"
+          "উত্তর ওমডুরমানে একটি বাড়িতে ড্রোন আঘাত হানলে তিনজন নিহত এবং নয়জন আহত হন।",
+          "রাজধানীর দক্ষিণে পৃথক হামলায় একটি শিশু নিহত হয়েছে এবং জেবেল আউলিয়া গ্রামে একটি বাড়ি ক্ষতিগ্রস্ত হয়েছে।",
+          "সুদানের জাতিসংঘের মানবিক সমন্বয়কারী ডেনিস ব্রাউন জানান, স্টাফরা ভেতরে থাকা অবস্থায় একটি ভবন ক্ষতিগ্রস্ত হয়েছে।"
         ],
         "bullets_en": [
-          "Police seized 17 Bangladeshi passports and fake visas during the operation.",
-          "Forged Serbian visas, a printer, and other equipment were recovered in the raid.",
-          "A man detained by locals in Lakshmipur turned out to be JMB member Bomaru Mamun."
+          "Three people were killed and nine wounded when a drone struck a home in northern Omdurman.",
+          "A child was killed in a separate attack south of the capital, and a home was hit in Jebel Aulia village.",
+          "UN humanitarian coordinator Denise Brown stated that a UN building was damaged while staff were inside."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "এসআরইউ কর্মকর্তারা জানিয়েছেন, গ্রেপ্তার হওয়া মামুন সাভারে আগস্ট মাসে বোমা উদ্ধার মামলায় গ্রেপ্তার হওয়া আরিফের একজন মেন্টর ছিলেন।",
-        "details_en": "SRU officials stated that the detained man was a mentor to Arif, who was arrested in Savar in August with bombs.",
-        "hook_bn": "চট্টগ্রামে ভুয়া ভিসা কারখানা উদ্ঘাটন",
-        "kicker_bn": "সতর্কতা",
+        "details_bn": "ভোরে খার্তুম ও এর আশেপাশে এই হামলাগুলো চালানো হয়। সুদানের বিমান প্রতিরক্ষা ব্যবস্থা সরকারি ভবন এবং খার্তুম বিমানবন্দরকে লক্ষ্য করে আসা ড্রোন প্রতিহত করার চেষ্টা করার সময় আবাসিক এলাকায় হামলাগুলো হয়। প্রত্যক্ষদর্শীদের মতে, সেনাবাহিনী ড্রোনগুলো প্রতিহত করার চেষ্টার সময় আনুমানিক রাত ২টা থেকে ভোর ৪টা ৩০ মিনিটের মধ্যে রাজধানীতে বিস্ফোরণের শব্দ শোনা যায়।",
+        "details_en": "The attacks struck early on Sunday as Sudanese air defences responded to drones reportedly targeting government buildings and Khartoum airport. Witnesses heard explosions across the capital between approximately 2am and 4:30am as the army attempted to intercept the drones.",
+        "hook_bn": "সুদানে ড্রোন হামলায় চারজন নিহত",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 6.0,
-      "outlet_count": 3,
+      "outlet_count": 1,
       "trending": false,
-      "social_appeal": 6.0,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-22T16:02:02.447277+00:00"
+        "checked_at": "2026-11-22T17:02:21.294246+00:00"
       }
     }
   ]
