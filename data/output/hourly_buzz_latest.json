@@ -1,38 +1,180 @@
 {
-  "updated_at": "2026-11-23T22:00:47.525185",
-  "total_stories": 3,
+  "updated_at": "2026-11-23T23:00:56.312302",
+  "total_stories": 4,
   "stories": [
     {
-      "story_id": "f429c62e-5487-5372-8d2b-528591edd7b9",
+      "story_id": "7c57fe46-b6c4-5af9-a760-501a2baca9e8",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1536337005238-94b997371b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8aHNjJTIwZXZhbHVhdGlvbiUyMHJlc3VsdHMlMjBjaGFuZ2VkJTIwZWR1Y2F0aW9ufGVufDF8MHx8fDE3OTU0NzQ5NzN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-23T21:32:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.25,
+      "rank_score": 3.5808,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1182920",
+          "title": "খাতা পুনর্নিরীক্ষণে দিনাজপুর বোর্ডে ফেল থেকে পাস ৪১৮ শিক্ষার্থী",
+          "snippet": "খাতা পুনর্নিরীক্ষণে দিনাজপুর বোর্ডে ফেল থেকে পাস ৪১৮ শিক্ষার্থী"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/country/500363",
+          "title": "বরিশাল বোর্ডে এইচএসসি পুনঃনিরীক্ষণে ৫২০ জনের জিপিএ পরিবর্তন",
+          "snippet": "বরিশাল বোর্ডে এইচএসসি পুনঃনিরীক্ষণে ৫২০ জনের জিপিএ পরিবর্তন"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "দিনাজপুর ও বরিশাল বোর্ডে এইচএসসি পুনর্নিরীক্ষায় ফল পরিবর্তিত হয়েছে",
+        "title_en": "HSC re-evaluation results changed in Dinajpur and Barishal boards",
+        "summary_bn": "এইচএসসি ও সমমান পরীক্ষার উত্তরপত্র পুনর্নিরীক্ষায় দিনাজপুর এবং বরিশাল বোর্ডে হাজার হাজার শিক্ষার্থীর ফল পরিবর্তন হয়েছে।",
+        "summary_en": "Results of thousands of students changed in Dinajpur and Barishal boards following the re-evaluation of HSC and equivalent exam answer scripts.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-23T21:32:00+00:00",
+        "lead_bn": "এইচএসসি ও সমমান পরীক্ষার উত্তরপত্র পুনর্নিরীক্ষায় দিনাজপুর এবং বরিশাল বোর্ডে হাজার হাজার শিক্ষার্থীর ফল পরিবর্তন হয়েছে।",
+        "lead_en": "Results of thousands of students changed in Dinajpur and Barishal boards following the re-evaluation of HSC and equivalent exam answer scripts.",
+        "bullets_bn": [
+          "দিনাজপুর শিক্ষা বোর্ডে উত্তরপত্র পুনর্নিরীক্ষায় মোট ২ হাজার ২৪৮ জন শিক্ষার্থীর ফল পরিবর্তন হয়েছে।",
+          "দিনাজপুর বোর্ডে পুনর্নিরীক্ষায় ফেল করা ৪১৮ জন শিক্ষার্থী পাস করেছেন।",
+          "বরিশাল বোর্ডে এইচএসসি পুনঃনিরীক্ষায় ৫২০ জনের জিপিএ পরিবর্তন হয়েছে।"
+        ],
+        "bullets_en": [
+          "A total of 2,248 students' results changed in the Dinajpur Education Board following answer script re-evaluation.",
+          "In the Dinajpur board, 418 failed students passed the exams through the re-evaluation.",
+          "GPA changed for 520 people in the HSC re-evaluation under the Barishal board."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "এইচএসসি ও সমমান পরীক্ষা-২০২৬ এর উত্তরপত্র পুনর্নিরীক্ষার পর দিনাজপুর শিক্ষা বোর্ড এবং বরিশাল বোর্ডের এই ফল পরিবর্তনের তথ্য সামনে আসে।",
+        "details_en": "The information on these result changes in the Dinajpur Education Board and the Barishal Board came to light after the re-evaluation of HSC and equivalent exam answer scripts for 2026.",
+        "hook_bn": "দিনাজপুর বোর্ডে ফেল থেকে পাস ৪১৮ শিক্ষার্থী",
+        "kicker_bn": "ফেল থেকে পাস",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-23T23:08:18.457383+00:00"
+      }
+    },
+    {
+      "story_id": "49ad35f5-046d-55fc-8dc8-0196ec1517ab",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#BankGovernance",
+        "#FinancialInstitutions",
+        "#MinistryOfFinance",
+        "#IFICBank"
+      ],
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182855/16576.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-23T23:01:08.009515+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.497,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/banks-with-govt-stakes-need-pm-nod-to-appoint-chairpersons",
+          "title": "Banks with govt stakes need PM nod to appoint chairpersons",
+          "snippet": "Banks with govt stakes need PM nod to appoint chairpersons"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সরকারি শেয়ার থাকা ব্যাংকের চেয়ারম্যান নিয়োগে প্রধানমন্ত্রীর অনুমোদন বাধ্যতামূলক",
+        "title_en": "PM approval now mandatory to appoint chairpersons in government-staked banks",
+        "summary_bn": "সরকারি এবং সরকারের শেয়ার থাকা বেসরকারি ব্যাংক ও আর্থিক প্রতিষ্ঠানে চেয়ারম্যান নিয়োগে প্রধানমন্ত্রীর অনুমোদন বাধ্যতামূলক করেছে সরকার।",
+        "summary_en": "The government has made the prime minister's approval mandatory for appointing chairpersons to state-owned and government-staked private banks and financial institutions.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-23T23:01:08.009515+00:00",
+        "lead_bn": "সরকারি এবং সরকারের শেয়ার থাকা বেসরকারি ব্যাংক ও আর্থিক প্রতিষ্ঠানে চেয়ারম্যান নিয়োগে প্রধানমন্ত্রীর অনুমোদন বাধ্যতামূলক করেছে সরকার।",
+        "lead_en": "The government has made the prime minister's approval mandatory for appointing chairpersons to state-owned and government-staked private banks and financial institutions.",
+        "bullets_bn": [
+          "নতুন নীতিমালায় কর্মরত সচিব ও সমপর্যায়ের কর্মকর্তাদের চেয়ারম্যান বা পরিচালক হওয়ার ওপর নিষেধাজ্ঞা জারি করা হয়েছে।",
+          "প্রার্থীদের বয়স ৪৫ থেকে ৭৫ বছর এবং ১০ বছরের অভিজ্ঞতা থাকতে হবে, তবে বিশেষ দক্ষতার ক্ষেত্রে বয়সসীমা শিথিলযোগ্য।",
+          "বিদেশি বা দ্বৈত নাগরিক এবং আর্থিক অপরাধ, দুর্নীতি বা আদালতে দণ্ডপ্রাপ্ত ব্যক্তিরা এসব পদে নিয়োগের অযোগ্য হবেন।"
+        ],
+        "bullets_en": [
+          "Serving secretaries and officials of equivalent rank are barred from becoming chairpersons or directors under the new policy.",
+          "Candidates must be aged 45 to 75 with 10 years of experience, though age limits may be relaxed for exceptional expertise.",
+          "Foreign citizens, dual citizens, convicted individuals, and financial offenders are disqualified from holding these positions."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ফাইন্যান্সিয়াল ইনস্টিটিউশনস ডিভিশনের ২০২৬ সালের নীতিমালায় বাছাই কমিটির সুপারিশে চেয়ারম্যান নিয়োগে প্রধানমন্ত্রীর এবং পরিচালক নিয়োগে অর্থমন্ত্রীর অনুমোদনের বাধ্যবাধকতা রাখা হয়েছে। পাশাপাশি রাষ্ট্রায়ত্ত ও সরকারি শেয়ার থাকা বেসরকারি ব্যাংকের জন্য বাংলাদেশ ব্যাংকের অনুমোদনও লাগবে। রাষ্ট্রায়ত্ত ব্যাংকগুলো ছাড়াও বেসরকারি আইএফআইসি ব্যাংকে সরকারের শেয়ার রয়েছে, ফলে ব্যাংকটির চেয়ারম্যান নিয়োগেও প্রধানমন্ত্রীর অনুমোদন প্রয়োজন হবে।",
+        "details_en": "Under the Financial Institutions Division's 2026 policy, the prime minister approves chairperson appointments on a selection committee's recommendation, while directors require the finance minister's approval. State-owned commercial banks and private banks with government shares also require Bangladesh Bank's approval. The government holds shares in state-owned commercial and specialised banks, as well as private lender IFIC Bank, making the premier's approval mandatory for appointing IFIC's chairperson.",
+        "hook_bn": "ব্যাংকে চেয়ারম্যান নিয়োগে প্রধানমন্ত্রীর অনুমোদন বাধ্যতামূলক",
+        "kicker_bn": "নতুন নীতিমালা",
+        "share_value": false,
+        "question_bn": "ব্যাংক খাতের পরিচালনায় এই নতুন নীতিমালা কি ইতিবাচক প্রভাব ফেলবে?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-23T23:08:18.457383+00:00"
+      }
+    },
+    {
+      "story_id": "d3646c5a-d54b-5817-8123-1e3106a9b21e",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
         "governance_law"
       ],
-      "region": "national",
+      "region": "international",
       "tags": [
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-23%2Fcf283jum%2Fchina-Embasador-01.jpeg?rect=0%2C91%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/harmuz-20261124041622.jpg?cid=500365",
       "image_caption": null,
-      "published_at": "2026-11-23T20:04:32+00:00",
+      "published_at": "2026-11-23T22:16:22+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.231,
+      "importance_score": 6.0,
+      "rank_score": 3.444,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/z6rmeme3cb",
-          "title": "বাংলাদেশের অভ্যন্তরীণ বিষয়ে হস্তক্ষেপ না করার নীতিতে অঙ্গীকারবদ্ধ চীন",
-          "snippet": "বাংলাদেশের অভ্যন্তরীণ বিষয়ে হস্তক্ষেপ না করার নীতিতে অঙ্গীকারবদ্ধ চীন"
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/international/500365",
+          "title": "হরমুজে মাইন বিস্ফোরণে ৩ তেলবাহী ট্যাংকারে আগুন",
+          "snippet": "হরমুজে মাইন বিস্ফোরণে ৩ তেলবাহী ট্যাংকারে আগুন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাংলাদেশের অভ্যন্তরীণ বিষয়ে হস্তক্ষেপ না করার নীতিতে অঙ্গীকারবদ্ধ চীন",
-        "title_en": "China is committed to the policy of non-interference in Bangladesh's internal affairs",
-        "summary_bn": "ঢাকার চীনা দূতাবাস আয়োজিত অনুষ্ঠানে ভারপ্রাপ্ত রাষ্ট্রদূত লিউ ইউয়িন বলেছেন, বাংলাদেশের অভ্যন্তরীণ বিষয়ে হস্তক্ষেপ না করার নীতিতে বেইজিং অঙ্গীকারবদ্ধ।",
-        "summary_en": "Acting Ambassador Liu Yuyin said at an event hosted by the Chinese Embassy in Dhaka that Beijing is committed to non-interference in Bangladesh's internal affairs.",
+        "title_bn": "হরমুজ প্রণালিতে মাইন বিস্ফোরণে ৩টি তেলবাহী ট্যাংকারে আগুন",
+        "title_en": "Three oil tankers catch fire after hitting mines in Strait of Hormuz",
+        "summary_bn": "২৩ নভেম্বর রাতে হরমুজ প্রণালিতে নৌ মাইনের আঘাতে তিনটি তেলবাহী ট্যাংকারে বিস্ফোরণ ও অগ্নিকাণ্ডের ঘটনা ঘটেছে বলে জানিয়েছে ইরানের ইসলামি বিপ্লবী গার্ড বাহিনী।",
+        "summary_en": "Iran's Revolutionary Guard Corps reported that three oil tankers caught fire after hitting naval mines in the Strait of Hormuz on 23 November.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -40,180 +182,116 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-23T20:04:32+00:00",
-        "lead_bn": "ঢাকার চীনা দূতাবাস আয়োজিত অনুষ্ঠানে ভারপ্রাপ্ত রাষ্ট্রদূত লিউ ইউয়িন বলেছেন, বাংলাদেশের অভ্যন্তরীণ বিষয়ে হস্তক্ষেপ না করার নীতিতে বেইজিং অঙ্গীকারবদ্ধ।",
-        "lead_en": "Acting Ambassador Liu Yuyin said at an event hosted by the Chinese Embassy in Dhaka that Beijing is committed to non-interference in Bangladesh's internal affairs.",
+        "published_at": "2026-11-23T22:16:22+00:00",
+        "lead_bn": "২৩ নভেম্বর রাতে হরমুজ প্রণালিতে নৌ মাইনের আঘাতে তিনটি তেলবাহী ট্যাংকারে বিস্ফোরণ ও অগ্নিকাণ্ডের ঘটনা ঘটেছে বলে জানিয়েছে ইরানের ইসলামি বিপ্লবী গার্ড বাহিনী।",
+        "lead_en": "Iran's Revolutionary Guard Corps reported that three oil tankers caught fire after hitting naval mines in the Strait of Hormuz on 23 November.",
         "bullets_bn": [
-          "চীন বাংলাদেশের সার্বভৌমত্ব এবং নিজস্ব উন্নয়নের পথ বেছে নেওয়ার অধিকারের প্রতি শ্রদ্ধাশীল।",
-          "বাংলাদেশ এক চীন নীতির প্রতি দৃঢ়ভাবে অঙ্গীকারবদ্ধ এবং তাইওয়ানের যেকোনো স্বাধীনতার বিরোধিতা করে।",
-          "বিআরআইয়ের দশ বছর পূর্তি উপলক্ষে ঢাকায় প্রকাশিত ব্লু পেপারের মোড়ক উন্মোচন অনুষ্ঠানে এ বক্তব্য দেওয়া হয়।"
+          "একটি ট্যাংকার প্রণালির দক্ষিণ উপকূলে এবং অন্য দুটি পূর্বাংশে অবস্থানকালে বিস্ফোরণের শিকার হয় বলে আইআরজিসি জানিয়েছে।",
+          "আইআরজিসির দাবি, মার্কিন সেনাবাহিনীর আকাশপথের পাহারার মধ্যেই জাহাজগুলো মাইনে আঘাত হানে এবং মার্কিন বাহিনী তা ঠেকাতে ব্যর্থ হয়েছে।",
+          "অননুমোদিত নৌপথ ব্যবহার না করতে সতর্ক করার পাশাপাশি শীঘ্রই এই অগ্নিকাণ্ডের ভিডিও ফুটেজ প্রকাশের কথা জানিয়েছে ইরানি কর্তৃপক্ষ।"
         ],
         "bullets_en": [
-          "China respects Bangladesh's sovereignty and its right to choose its own path of development.",
-          "Bangladesh is firmly committed to the One China policy and opposes any independence of Taiwan.",
-          "This was stated at the unveiling ceremony of the Blue Paper published in Dhaka to mark a decade of the BRI."
+          "One tanker was on the southern coast and two were in the eastern part of the strait when the explosions occurred.",
+          "The IRGC claimed the tankers hit mines while under US military aerial surveillance, which failed to prevent the incidents.",
+          "Authorities warned sailors to follow maritime regulations and avoid unauthorized routes, promising to release footage of the incidents soon."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "রাজধানীর একটি হোটেলে বাংলাদেশে চীনের অঞ্চল ও পথের উদ্যোগের দশ বছর পূর্তি উপলক্ষে 'সিল্ক রোডের সঙ্গে স্বপ্ন দেখা, উভয়ের জন্য লাভজনক ভবিষ্যৎ গড়া' প্রতিপাদ্যে চীনা দূতাবাস অনুষ্ঠানটির আয়োজন করে। অনুষ্ঠানে অধ্যাপক ইমতিয়াজ আহমেদ বিনিয়োগের জন্য অবকাঠামো, স্বাস্থ্যসেবা, শিক্ষা, উন্নত প্রযুক্তি, নবায়নযোগ্য জ্বালানি এবং তৈরি পোশাকশিল্পসহ ছয়টি অগ্রাধিকার ক্ষেত্র চিহ্নিত করেন। অনুষ্ঠানে হান কুন এবং ইমতিয়াজ আহমেদসহ অন্যান্য বক্তারা সহযোগিতা আরও গভীর করার আহ্বান জানান।",
-        "details_en": "The Chinese Embassy organized the event at a hotel in the capital with the theme 'Dreaming with the Silk Road, Building a Win-Win Future' to mark the tenth anniversary of China's Belt and Road Initiative in Bangladesh. During the event, Professor Imtiaz Ahmed identified six priority areas for investment including infrastructure, healthcare, education, advanced technology, renewable energy, and the garment industry. Other speakers including Han Kun and Imtiaz Ahmed called for deepening cooperation.",
-        "hook_bn": "বাংলাদেশের অভ্যন্তরীণ বিষয়ে হস্তক্ষেপ না করার নীতিতে চীন অঙ্গীকারবদ্ধ",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": "বাংলাদেশ ও চীনের দ্বিপক্ষীয় সম্পর্ক জোরদারে কোন ক্ষেত্রগুলোকে আপনি সবচেয়ে গুরুত্বপূর্ণ মনে করেন?"
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-23T22:03:51.261090+00:00"
-      }
-    },
-    {
-      "story_id": "d3cde909-f84a-5f5f-bc0b-b9ec6f4e7050",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation"
-      ],
-      "region": "international",
-      "tags": [
-        "#SpaceX",
-        "#Grok",
-        "#Virginia",
-        "#Oregon"
-      ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/03/2026-03-18T142725Z_1699232240_RC2PVCAIIX5G_RTRMADP_3_XAI-GROK-EU-1774548597.jpg?resize=1920%2C1440",
-      "image_caption": null,
-      "published_at": "2026-11-23T21:15:33+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.8906,
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material?traffic_source=rss",
-          "title": "US states sue SpaceX over Grok AI’s creation of child sexual abuse material",
-          "snippet": "US states sue SpaceX over Grok AI’s creation of child sexual abuse material"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ভার্জিনিয়া ও অরেগনের গ্রোক এআই নিয়ে স্পেসএক্সের বিরুদ্ধে মামলা",
-        "title_en": "Virginia and Oregon sue SpaceX over Grok AI",
-        "summary_bn": "যুক্তরাষ্ট্রের ভার্জিনিয়া ও অরেগন অঙ্গরাজ্য শিশু যৌন নিপীড়নের উপাদান তৈরির উপযোগী এআই চ্যাটবট তৈরির অভিযোগে স্পেসএক্সের বিরুদ্ধে মামলা করেছে।",
-        "summary_en": "The US states of Virginia and Oregon have sued SpaceX over an AI chatbot capable of creating child sexual abuse material.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T21:15:33+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের ভার্জিনিয়া ও অরেগন অঙ্গরাজ্য শিশু যৌন নিপীড়নের উপাদান তৈরির উপযোগী এআই চ্যাটবট তৈরির অভিযোগে স্পেসএক্সের বিরুদ্ধে মামলা করেছে।",
-        "lead_en": "The US states of Virginia and Oregon have sued SpaceX over an AI chatbot capable of creating child sexual abuse material.",
-        "bullets_bn": [
-          "মামলায় বলা হয়েছে স্পেসএক্স গ্রোকের সুরক্ষা ব্যবস্থা এড়িয়ে চলতে গিয়ে ভোক্তাদের ক্ষতি করেছে।",
-          "ভার্জিনিয়ার অ্যাটর্নি জেনারেল জে জোন্স বলেন দুর্বল সুরক্ষা ব্যবস্থা তাদের একটি কৌশল ছিল।",
-          "মামলায় ক্ষতিপূরণ, জরিমানা এবং রাষ্ট্রীয় আইন লঙ্ঘন বন্ধের আদালতের আদেশ চাওয়া হয়েছে।"
-        ],
-        "bullets_en": [
-          "The lawsuits state SpaceX harmed consumers by avoiding safeguards when designing the AI chatbot.",
-          "Virginia Attorney General Jay Jones said weak safeguards were a feature, not a failure.",
-          "The states are seeking damages, penalties and court orders forcing the company to stop violations."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "স্পেসএক্সের তৈরি এআই চ্যাটবট গ্রোকের মাধ্যমে ব্যবহারকারীরা ছবি ব্যবহার করে নগ্ন ছবি বা ভিডিও তৈরি করতে পারে বলে অভিযোগে বলা হয়েছে। এক্স প্ল্যাটফর্মে এই চ্যাটবট পাওয়া যায় এবং কোম্পানিটি স্পেসএক্সের একটি সহযোগী প্রতিষ্ঠান। একাধিক রাজ্য আগে তদন্তের ঘোষণা দিলেও ভার্জিনিয়া ও অরেগন প্রথম মামলা করল।",
-        "details_en": "The lawsuits accuse SpaceX of misleading consumers about Grok and promoting a spicy mode that generates nudity from existing photographs. Grok is available on X, a social media platform that is a subsidiary of SpaceX. Several states previously announced investigations, but Virginia and Oregon are the first to sue.",
-        "hook_bn": "দুর্বল সুরক্ষা ব্যবস্থা কোনো ব্যর্থতা নয়",
+        "details_bn": "এর আগে ১২ জুলাই যুক্তরাষ্ট্র ইরানের বিরুদ্ধে সামরিক হামলা শুরু করলে হরমুজ প্রণালি বন্ধের ঘোষণা দিয়েছিল তেহরান। অনুমতি ছাড়া বা নির্ধারিত পথের বাইরে অন্য কোনো রুট ব্যবহার করলে জাহাজকে লক্ষ্যবস্তু করার হুঁশিয়ারিও দেওয়া হয়েছিল। বিশ্বব্যাপী অপরিশোধিত তেল ও তরলীকৃত প্রাকৃতিক গ্যাস সরবরাহের অন্যতম প্রধান নৌপথ হলো এই হরমুজ প্রণালি। তবে ক্ষতিগ্রস্ত ট্যাংকারগুলো কোন দেশের পতাকাবাহী তা তাৎক্ষণিকভাবে জানানো হয়নি।",
+        "details_en": "Tehran previously announced on 12 July that it would close the Strait of Hormuz if the United States resumed military attacks against Iran. The authorities warned that any vessel using unauthorized routes or crossing without permission would be targeted. The Strait of Hormuz remains a critical global maritime route for the supply of crude oil and liquefied natural gas. The names or flags of the damaged tankers were not immediately disclosed.",
+        "hook_bn": "হরমুজ প্রণালিতে ৩টি তেলবাহী ট্যাংকারে আগুন",
         "kicker_bn": "সতর্কতা",
-        "share_value": false,
+        "share_value": true,
         "question_bn": null
       },
-      "desk_importance": 5.0,
+      "desk_importance": 6.0,
       "outlet_count": 1,
-      "trending": true,
+      "trending": false,
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-23T22:03:51.261090+00:00"
+        "checked_at": "2026-11-23T23:08:18.457383+00:00"
       }
     },
     {
-      "story_id": "0b4d996a-3f2c-53b8-9e75-c2aaa969c6bf",
+      "story_id": "a8309ab2-e461-5887-a9d8-befd1b79f82f",
       "primary_category": "tech_innovation",
       "interest_categories": [
         "tech_innovation",
-        "world_diplomacy"
+        "economy_business",
+        "world_diplomacy",
+        "governance_law"
       ],
       "region": "international",
       "tags": [
         "#Nvidia",
-        "#JensenHuang",
-        "#DonaldTrump"
+        "#Megaspeed",
+        "#AIChips",
+        "#USChinaTrade"
       ],
-      "image_url": "https://static.dw.com/image/79940149_6.jpg",
+      "image_url": "https://static.dw.com/image/79909063_6.jpg",
       "image_caption": null,
-      "published_at": "2026-11-23T14:18:00+00:00",
+      "published_at": "2026-11-23T22:35:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 1.9338,
+      "importance_score": 5.0,
+      "rank_score": 2.435,
       "sources": [
         {
           "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/nvidia-reinstates-former-ceo-jensen-huang-despite-china-espionage-scandal/a-80021926?maca=en-rss-en-all-1573-rdf",
-          "title": "Nvidia reinstates former CEO Jensen Huang despite China espionage scandal",
-          "snippet": "Nvidia reinstates former CEO Jensen Huang despite China espionage scandal"
+          "url": "https://www.dw.com/en/us-adds-megaspeed-at-center-of-nvidia-scandal-to-a-trade-blacklist/a-80026849?maca=en-rss-en-all-1573-rdf",
+          "title": "US adds Megaspeed, at center of Nvidia scandal, to a trade blacklist",
+          "snippet": "US adds Megaspeed, at center of Nvidia scandal, to a trade blacklist"
         },
         {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/sci-tech/technology/nvidia-reinstates-jensen-huang-as-ceo-after-us-government-input/article71735341.ece",
-          "title": "Nvidia reinstates Jensen Huang as CEO after U.S. government input",
-          "snippet": "Nvidia reinstates Jensen Huang as CEO after U.S. government input"
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+          "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+          "snippet": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জেনসেন হুয়াংকে প্রধান নির্বাহী হিসেবে পুনরায় নিয়োগ দিল এনভিডিয়া।",
-        "title_en": "Nvidia reinstates Jensen Huang as CEO.",
-        "summary_bn": "যুক্তরাষ্ট্রের প্রযুক্তি প্রতিষ্ঠান এনভিডিয়া জেনসেন হুয়াংকে অবিলম্বে কার্যকর করার মাধ্যমে তাদের প্রধান নির্বাহী হিসেবে পুনরায় নিয়োগ দিয়েছে।",
-        "summary_en": "US tech company Nvidia reinstated Jensen Huang as its CEO effective immediately.",
+        "title_bn": "এনভিডিয়া চিপ পাচার কেলেঙ্কারিতে সিঙ্গাপুরের মেগাস্পিডকে কালো তালিকাভুক্ত করল যুক্তরাষ্ট্র",
+        "title_en": "US blacklists Singapore firm Megaspeed following Nvidia chip smuggling scandal",
+        "summary_bn": "চীনের কাছে এনভিডিয়ার কৃত্রিম বুদ্ধিমত্তার চিপ পাচারের অভিযোগে সিঙ্গাপুরভিত্তিক প্রতিষ্ঠান মেগাস্পিড ইন্টারন্যাশনালকে বাণিজ্যিকভাবে কালো তালিকাভুক্ত করেছে যুক্তরাষ্ট্র সরকার।",
+        "summary_en": "The US government added Singapore-based Megaspeed International to a trade blacklist following allegations of smuggling sensitive Nvidia AI chips to China.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "tech_innovation",
-          "world_diplomacy"
+          "economy_business",
+          "world_diplomacy",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-23T14:18:00+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের প্রযুক্তি প্রতিষ্ঠান এনভিডিয়া জেনসেন হুয়াংকে অবিলম্বে কার্যকর করার মাধ্যমে তাদের প্রধান নির্বাহী হিসেবে পুনরায় নিয়োগ দিয়েছে।",
-        "lead_en": "US tech company Nvidia reinstated Jensen Huang as its CEO effective immediately.",
+        "published_at": "2026-11-23T22:35:00+00:00",
+        "lead_bn": "চীনের কাছে এনভিডিয়ার কৃত্রিম বুদ্ধিমত্তার চিপ পাচারের অভিযোগে সিঙ্গাপুরভিত্তিক প্রতিষ্ঠান মেগাস্পিড ইন্টারন্যাশনালকে বাণিজ্যিকভাবে কালো তালিকাভুক্ত করেছে যুক্তরাষ্ট্র সরকার।",
+        "lead_en": "The US government added Singapore-based Megaspeed International to a trade blacklist following allegations of smuggling sensitive Nvidia AI chips to China.",
         "bullets_bn": [
-          "বোর্ডের সর্বসম্মত সিদ্ধান্ত অনুযায়ী এই প্রত্যাবর্তন কোম্পানির সর্বোত্তম স্বার্থে হয়েছে।",
-          "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প এই পদক্ষেপকে সঠিক ও যথাযথ সিদ্ধান্ত বলে স্বাগত জানিয়েছেন।",
-          "অন্তর্বর্তীকালীন প্রধান নির্বাহী কোলেট ক্রেস প্রধান আর্থিক কর্মকর্তা হিসেবে নিজের আগের ভূমিকায় ফিরে যাবেন।"
+          "মেগাস্পিড এখন থেকে মার্কিন সরকারের বিশেষ লাইসেন্স ছাড়া সেমিকন্ডাক্টরসহ কোনো আমেরিকান প্রযুক্তি সংগ্রহ করতে পারবে না।",
+          "মেগাস্পিডের এক কর্মকর্তার সঙ্গে সম্পর্কের জেরে পদত্যাগ করা এনভিডিয়ার সিইও জেনসেন হুয়াংকে পুনরায় পদে ফিরিয়ে আনা হয়েছে।",
+          "মার্কিন কর্মকর্তাদের দাবি, অ্যালিস হুয়াং নামের ওই নারী একজন চীনা গোয়েন্দা এবং চিপ পাচারের সঙ্গে জড়িত ছিলেন।"
         ],
         "bullets_en": [
-          "The board unanimously decided that his return was in the best interests of the company.",
-          "US President Donald Trump welcomed the move as a correct and proper decision.",
-          "Interim CEO Colette Kress is set to return to her role as chief financial officer."
+          "Megaspeed cannot obtain US technology, including semiconductors, without a specific license from the US government.",
+          "Nvidia CEO Jensen Huang was reinstated after briefly resigning over an affair with a Megaspeed executive.",
+          "US officials identified the executive, Alice Huang, as a Chinese spy involved in the chip smuggling operation."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "চৈনিক গোয়েন্দা সম্পদের সঙ্গে সম্পর্কযুক্ত এক নারীর সঙ্গে সম্পর্ক স্বীকার করার পর জেনসেন হুয়াং পদত্যাগ করেছিলেন। এর কিছুদিন পরেই তার এই পুনর্নিয়োগ হলো। ৬৩ বছর বয়সী হুয়াং এক বিবৃতিতে পুনরায় দায়িত্ব নিতে পেরে সম্মানিত বোধ করার কথা জানিয়েছেন। যুক্তরাষ্ট্রের সরকার জানিয়েছে যে হুয়াংকে পুনরায় ফিরিয়ে আনার মধ্যে জাতীয় নিরাপত্তার কোনো ঝুঁকি নেই এবং তার বেআইনি কর্মকাণ্ডের কোনো প্রমাণ যুক্তরাষ্ট্রের কাছে নেই।",
-        "details_en": "Huang had resigned days earlier after admitting to extramarital affairs, reportedly including a dalliance with a woman who was a Chinese intelligence asset. The 63-year-old said he was honored to return. The US government stated that there was no reason to believe his return posed any risk to national security and no evidence of unlawful conduct.",
-        "hook_bn": "কোম্পানির প্রধান নির্বাহী হিসেবে জেনসেন হুয়াংয়ের পুনর্নিয়োগ",
-        "kicker_bn": null,
+        "details_bn": "মার্কিন বাণিজ্য বিভাগ ১ বছরেরও বেশি সময় ধরে মেগাস্পিডের বিরুদ্ধে পাচারের তদন্ত করছিল। এনভিডিয়ার সিইও জেনসেন হুয়াং মেগাস্পিডের এক কর্মকর্তার সঙ্গে বিবাহবহির্ভূত সম্পর্কের কথা স্বীকার করার পর এই কেলেঙ্কারি প্রকাশ্যে আসে। প্রতিষ্ঠানটিকে আগে কালো তালিকাভুক্ত না করায় রাজনীতিবিদরা বাণিজ্য সচিব হাওয়ার্ড লুটনিকের সমালোচনা করেন। সেমাফোর ও ফিন্যান্সিয়াল টাইমসের প্রতিবেদন অনুযায়ী, এই ঘটনার জেরে হুয়াং পদত্যাগ করলেও সম্প্রতি তাকে আবারও সিইও হিসেবে নিয়োগ দেওয়া হয়েছে।",
+        "details_en": "The US Commerce Department investigated Megaspeed for over a year following intelligence warnings that it was a front for smuggling. The scandal intensified after Nvidia CEO Jensen Huang admitted to an affair with a Megaspeed executive. Politicians criticized Commerce Secretary Howard Lutnick for not blacklisting the firm sooner. Semafor and the Financial Times reported that the firm allegedly funneled sensitive AI technology to China, leading to Huang's brief resignation before his recent reinstatement.",
+        "hook_bn": "এনভিডিয়া চিপ পাচারকাণ্ডে মেগাস্পিড কালো তালিকাভুক্ত",
+        "kicker_bn": "বাণিজ্য নিষেধাজ্ঞা",
         "share_value": false,
-        "question_bn": null
+        "question_bn": "কৃত্রিম বুদ্ধিমত্তার প্রযুক্তি নিয়ে দেশগুলোর এই লড়াইকে আপনি কীভাবে দেখেন?"
       },
       "desk_importance": 5.0,
       "outlet_count": 2,
-      "trending": true,
-      "social_appeal": 6.0,
+      "trending": false,
+      "social_appeal": 4.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-23T22:03:51.261090+00:00"
+        "checked_at": "2026-11-23T23:08:18.457383+00:00"
       }
     }
   ]
