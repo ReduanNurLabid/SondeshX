@@ -1,84 +1,9 @@
 {
-  "updated_at": "2026-11-23T10:00:45.467087",
-  "total_stories": 4,
+  "updated_at": "2026-11-23T11:01:01.462075",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "1970fd19-9099-5fbf-acf7-72be59bd0c9a",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#NurulIslamNahid",
-        "#Court"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1593115057322-e94b77572f20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Y291cnQlMjBkZW5pZXMlMjBiYWlsJTIwZm9ybWVyJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1NDI4MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-23T09:39:28+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.8226,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/crime/425497/court-denies-bail-to-ex-education-minister-nahid",
-          "title": "Court denies bail to ex-education minister Nahid",
-          "snippet": "Court denies bail to ex-education minister Nahid"
-        },
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/politics/post-1224697/",
-          "title": "সাদিকুল হত্যা মামলা: নুরুল ইসলাম নাহিদের জামিন নামঞ্জুর",
-          "snippet": "সাদিকুল হত্যা মামলা: নুরুল ইসলাম নাহিদের জামিন নামঞ্জুর"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সাবেক শিক্ষামন্ত্রী নুরুল ইসলাম নাহিদের জামিন নামঞ্জুর করেছে আদালত",
-        "title_en": "Court denies bail to former education minister Nurul Islam Nahid",
-        "summary_bn": "আদালত বৈষম্যবিরোধী ছাত্র আন্দোলন চলাকালে হাফেজ মাওলানা সাদিকুল ইসলাম হত্যা মামলায় সাবেক শিক্ষামন্ত্রী নুরুল ইসলাম নাহিদের জামিন আবেদন নামঞ্জুর করেছেন।",
-        "summary_en": "A court has denied the bail petition of former education minister Nurul Islam Nahid in a murder case over the death of Hafez Maulana Sadikul Islam during the anti-discrimination student movement.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T09:39:28+00:00",
-        "lead_bn": "আদালত বৈষম্যবিরোধী ছাত্র আন্দোলন চলাকালে হাফেজ মাওলানা সাদিকুল ইসলাম হত্যা মামলায় সাবেক শিক্ষামন্ত্রী নুরুল ইসলাম নাহিদের জামিন আবেদন নামঞ্জুর করেছেন।",
-        "lead_en": "A court has denied the bail petition of former education minister Nurul Islam Nahid in a murder case over the death of Hafez Maulana Sadikul Islam during the anti-discrimination student movement.",
-        "bullets_bn": [
-          "ঢাকার অতিরিক্ত চিফ মেট্রোপলিটন ম্যাজিস্ট্রেট মো. সেফাতুল্লাহ শুনানি শেষে এই আদেশ দেন।",
-          "নুরুল ইসলাম নাহিদ সিলেট-৬ আসনের সাবেক সংসদ সদস্য এবং সাবেক শিক্ষামন্ত্রী।",
-          "আদালতে নুরুল ইসলাম নাহিদের পক্ষে আইনজীবীরা জামিনের আবেদন করেছিলেন।"
-        ],
-        "bullets_en": [
-          "Additional Chief Metropolitan Magistrate Md. Sefatullah issued the order after a hearing in Dhaka.",
-          "Nurul Islam Nahid is a former member of parliament for the Sylhet-6 constituency and former education minister.",
-          "Lawyers for Nurul Islam Nahid moved the bail petition in the court."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বৈষম্যবিরোধী ছাত্র আন্দোলন চলাকালে রাজধানীর উত্তরা পশ্চিম এলাকায় হাফেজ মাওলানা সাদিকুল ইসলাম নিহত হন। এই মৃত্যুর ঘটনায় দায়ের করা হত্যা মামলায় সাবেক শিক্ষামন্ত্রী ও সিলেট-৬ আসনের সাবেক সংসদ সদস্য নুরুল ইসলাম নাহিদকে অভিযুক্ত করা হয়েছে।",
-        "details_en": "Hafez Maulana Sadikul Islam was killed in the Uttara West area of the capital during the anti-discrimination student movement. Former education minister and former Sylhet-6 MP Nurul Islam Nahid is accused in the murder case filed over the death.",
-        "hook_bn": "সাদিকুল হত্যা মামলায় নাহিদের জামিন নামঞ্জুর",
-        "kicker_bn": "রায় ঘোষণা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-23T10:02:52.213522+00:00"
-      }
-    },
-    {
-      "story_id": "53a45dda-735b-5c76-93fa-f20c1129b25e",
+      "story_id": "295afc39-ce6e-5344-bd89-5707e872e1e1",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education"
@@ -86,213 +11,370 @@
       "region": "national",
       "tags": [
         "#Bangladesh",
-        "#NationalAffairs"
+        "#Measles"
       ],
-      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/Medicine-1.jpg",
+      "image_url": "https://images.unsplash.com/photo-1528726164383-33c4a223b78c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFuZ2xhZGVzaCUyMHJlY29yZHMlMjBtZWFzbGVzJTIwZGVhdGhzJTIwZWR1Y2F0aW9ufGVufDF8MHx8fDE3OTU0MzE3Njh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-23T09:09:35+00:00",
+      "published_at": "2026-11-23T11:00:51+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.423,
+      "importance_score": 7.5,
+      "rank_score": 5.6172,
       "sources": [
         {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/post-1224660/",
-          "title": "অ্যান্টিবায়োটিকের অকার্যকারিতায় বছরে মৃত্যু সোয়া লাখ: স্বাস্থ্য প্রতিমন্ত্রী",
-          "snippet": "অ্যান্টিবায়োটিকের অকার্যকারিতায় বছরে মৃত্যু সোয়া লাখ: স্বাস্থ্য প্রতিমন্ত্রী"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/health/425516/bangladesh-records-no-measles-deaths-for-the-first",
+          "title": "Bangladesh records no measles deaths for the first time since March 15",
+          "snippet": "Bangladesh records no measles deaths for the first time since March 15"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/health/no-measles-related-deaths-first-time-eight-months-1611476",
+          "title": "No measles-related deaths for the first time in eight months",
+          "snippet": "No measles-related deaths for the first time in eight months"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822609/%E0%A7%A8%E0%A7%AA-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A7%9F-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81-%E0%A6%A8%E0%A7%87%E0%A6%87-%E0%A6%86%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A7%A7-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A7%AA%E0%A7%A7%E0%A7%AD",
+          "title": "২৪ ঘণ্টায় হামে মৃত্যু নেই, আক্রান্ত ১ হাজার ৪১৭",
+          "snippet": "২৪ ঘণ্টায় হামে মৃত্যু নেই, আক্রান্ত ১ হাজার ৪১৭"
         }
       ],
       "daily_buzz": {
-        "title_bn": "অ্যান্টিবায়োটিকের অকার্যকারিতায় বছরে সোয়া লাখ মানুষের মৃত্যু হয়",
-        "title_en": "Antibiotic resistance causes one hundred twenty-five thousand deaths annually",
-        "summary_bn": "স্বাস্থ্য ও পরিবার কল্যাণ প্রতিমন্ত্রী ড. এমএ মুহিত বলেছেন, অ্যান্টিবায়োটিক রেজিস্ট্যান্সের কারণে দেশে প্রতি বছর সোয়া লাখ মানুষের মৃত্যু ঘটে।",
-        "summary_en": "State Minister for Health and Family Welfare Dr. M.A. Muhith said that one hundred twenty-five thousand people die annually due to antibiotic resistance.",
+        "title_bn": "দেশে হামে কোনো মৃত্যুর ঘটনা ঘটেনি",
+        "title_en": "Bangladesh records no measles deaths",
+        "summary_bn": "দেশে গত ২৪ ঘণ্টায় হাম ও হামের উপসর্গ নিয়ে কোনো মৃত্যুর ঘটনা ঘটেনি বলে জানিয়েছে স্বাস্থ্য অধিদপ্তর।",
+        "summary_en": "Bangladesh recorded no measles-related deaths during the reporting period according to the Directorate General of Health Services.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-23T09:09:35+00:00",
-        "lead_bn": "স্বাস্থ্য ও পরিবার কল্যাণ প্রতিমন্ত্রী ড. এমএ মুহিত বলেছেন, অ্যান্টিবায়োটিক রেজিস্ট্যান্সের কারণে দেশে প্রতি বছর সোয়া লাখ মানুষের মৃত্যু ঘটে।",
-        "lead_en": "State Minister for Health and Family Welfare Dr. M.A. Muhith said that one hundred twenty-five thousand people die annually due to antibiotic resistance.",
+        "published_at": "2026-11-23T11:00:51+00:00",
+        "lead_bn": "দেশে গত ২৪ ঘণ্টায় হাম ও হামের উপসর্গ নিয়ে কোনো মৃত্যুর ঘটনা ঘটেনি বলে জানিয়েছে স্বাস্থ্য অধিদপ্তর।",
+        "lead_en": "Bangladesh recorded no measles-related deaths during the reporting period according to the Directorate General of Health Services.",
         "bullets_bn": [
-          "ব্যবস্থাপত্র ছাড়া অ্যান্টিবায়োটিক বিক্রি বন্ধে সুনির্দিষ্ট নীতিমালা প্রণয়ন ও কঠোর বাস্তবায়ন জরুরি বলে প্রতিমন্ত্রী উল্লেখ করেন।",
-          "অ্যান্টিবায়োটিকের যথেচ্ছ ব্যবহার রোধে সরকার ইলেকট্রনিক মেডিকেল রেকর্ড ও ইলেকট্রনিক প্রেসক্রিপশন ব্যবস্থা চালুর উদ্যোগ নিয়েছে।",
-          "চিকিৎসা শিক্ষার পাঠ্যক্রমে ঘাটতি পূরণের ওপর জোর দিয়ে স্বাস্থ্য শিক্ষা অধিদফতর প্রটোকল না জানার কথা জানিয়েছে।"
+          "চলতি বছরের ১৫ মার্চ থেকে এ পর্যন্ত হাম ও হামের উপসর্গ নিয়ে মোট ১ হাজার ৩৫২ জনের মৃত্যু হয়েছে।",
+          "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী গত ২৪ ঘণ্টায় নতুন করে ১ হাজার ৪১৭ জনের হাম শনাক্ত হয়েছে।",
+          "এ সময়ে ১ হাজার ৩২১টি সন্দেহভাজন কেস এবং ৯৬টি নিশ্চিত কেস রেকর্ড করা হয়েছে।"
         ],
         "bullets_en": [
-          "The state minister stated that specific policies and strict implementation are crucial to stop selling antibiotics without prescriptions.",
-          "The government has taken initiatives to introduce electronic medical records and electronic prescription systems to prevent the misuse of antibiotics.",
-          "Emphasizing the need to fill gaps in medical education, the Directorate General of Medical Education noted that protocols are unknown to many."
+          "The cumulative number of measles-related deaths has reached 1,352 since March 15 of this year.",
+          "A total of 1,417 new measles cases were identified during the past 24 hours according to health department data.",
+          "The reporting period recorded 1,321 suspected cases and 96 confirmed cases."
         ],
-        "impact_bn": "অ্যান্টিবায়োটিক অকার্যকারিতার কারণে রোগীদের দীর্ঘ সময় হাসপাতালে থাকতে হয় এবং চিকিৎসা ব্যয় বেড়ে যায়।",
-        "impact_en": "Patients have to stay in hospitals for longer periods and medical costs increase due to antibiotic resistance.",
-        "details_bn": "রাজধানীর বনানীর একটি হোটেলে বিশ্ব স্বাস্থ্য সংস্থার মূল্যায়ন পদ্ধতি অনুসরণ করে চিকিৎসা, ফার্মেসি এবং নার্সিং শিক্ষার পাঠ্যক্রম পর্যালোচনা বিষয়ক এই কর্মশালা অনুষ্ঠিত হয়। সেন্টার ফর মেডিকেল এডুকেশন, স্বাস্থ্য শিক্ষা অধিদফতর এবং বিশ্ব স্বাস্থ্য সংস্থা যৌথভাবে এটি বাস্তবায়ন করছে।",
-        "details_en": "The workshop on reviewing the curricula of medical, pharmacy, and nursing education following WHO evaluation methods was held at a hotel in Banani, Dhaka. It is jointly implemented by the Centre for Medical Education, Directorate General of Medical Education, and the World Health Organization.",
-        "hook_bn": "'অ্যান্টিবায়োটিক অকার্যকারিতায় বছরে মৃত্যু সোয়া লাখ'",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": "ব্যবস্থাপত্র ছাড়া অ্যান্টিবায়োটিক কেনার অভিজ্ঞতা আপনার কেমন?"
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, চলতি বছরের ১৫ মার্চ থেকে এ পর্যন্ত হাম ও হামের উপসর্গ নিয়ে মারা যাওয়া ব্যক্তিদের মধ্যে নিশ্চিত হামে ১০৫ জন এবং হামের উপসর্গ নিয়ে ১ হাজার ২৪৭ জন রয়েছে।",
+        "details_en": "According to Directorate General of Health Services data, among the total 1,352 deaths from March 15 to date, 105 were from confirmed measles and 1,247 from measles symptoms.",
+        "hook_bn": "হামে মৃত্যু নেই, শনাক্ত ১ হাজার ৪১৭",
+        "kicker_bn": "স্বাস্থ্য আপডেট",
+        "share_value": false,
+        "question_bn": "আপনার এলাকায় হামের প্রকোপ কেমন দেখছেন?"
       },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
+      "desk_importance": 7.0,
+      "outlet_count": 3,
       "trending": false,
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-23T10:02:52.213522+00:00"
+        "checked_at": "2026-11-23T11:03:40.046116+00:00"
       }
     },
     {
-      "story_id": "1254b65c-9d86-5913-8ebb-997629b2e739",
-      "primary_category": "economy_business",
+      "story_id": "920992fd-0351-5b2b-964f-ba65025b7248",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "economy_business",
-        "world_diplomacy",
-        "climate_environment"
+        "governance_law",
+        "society_education"
       ],
       "region": "national",
       "tags": [
-        "#Hathazari",
-        "#HaldaRiver",
-        "#RedChilli"
+        "#MahadiAmin",
+        "#NationalCitizenParty",
+        "#JulyUprising"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/23/screenshot_2026-11-23_143235.png",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/23/920664681_1147954084646368_7748793845162913740_n.jpg",
       "image_caption": null,
-      "published_at": "2026-11-23T08:30:00+00:00",
+      "published_at": "2026-11-23T10:35:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.5227,
+      "importance_score": 6.75,
+      "rank_score": 4.4382,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/halda-banks-middle-east-hathazaris-sweet-red-chilli-goes-global-1611401",
-          "title": "From Halda banks to Middle East: Hathazari's sweet red chilli goes global",
-          "snippet": "From Halda banks to Middle East: Hathazari's sweet red chilli goes global"
+          "url": "https://www.tbsnews.net/bangladesh/politics/july-uprising-unity-established-govt-wants-strengthen-it-further-mahadi-amin",
+          "title": "July Uprising unity established, govt wants to strengthen it further: Mahadi Amin",
+          "snippet": "July Uprising unity established, govt wants to strengthen it further: Mahadi Amin"
         },
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/from-halda-banks-to-middle-east-hathazaris-sweet-red-chilli-goes-global",
-          "title": "Hathazari’s sweet red chilli goes global",
-          "snippet": "Hathazari’s sweet red chilli goes global"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/politics/425509/mahdi-amin-no-conditions-set-during-pm-s-meeting",
+          "title": "Mahdi Amin: No conditions set during PM's meeting with NCP delegation",
+          "snippet": "Mahdi Amin: No conditions set during PM's meeting with NCP delegation"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/all-parties-unite-against-awami-league-violence/",
+          "title": "আওয়ামী লীগের সহিংসতার বিরুদ্ধে সব দল ঐক্যবদ্ধ: মাহদী আমিন",
+          "snippet": "আওয়ামী লীগের সহিংসতার বিরুদ্ধে সব দল ঐক্যবদ্ধ: মাহদী আমিন"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1182750",
+          "title": "প্রধানমন্ত্রীর সঙ্গে এনসিপির বৈঠকে কী আলোচনা হলো, জানালেন মাহাদী আমীন",
+          "snippet": "প্রধানমন্ত্রীর সঙ্গে এনসিপির বৈঠকে কী আলোচনা হলো, জানালেন মাহাদী আমীন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "হাথাজারীর মিষ্টি লাল মরিচ বিদেশে রপ্তানি হচ্ছে",
-        "title_en": "Hathazari sweet red chilli goes global",
-        "summary_bn": "চট্টগ্রামের হালদার তীরের ঐতিহ্যবাহী হাথাজারীর মিষ্টি লাল মরিচ দেশের গণ্ডি পেরিয়ে বেশ কয়েকটি মধ্যপ্রাচ্যের দেশে রপ্তানি হচ্ছে।",
-        "summary_en": "The traditional sweet red chilli of Hathazari along the Halda River in Chattogram has crossed borders into Middle Eastern countries.",
+        "title_bn": "জুলাই অভ্যুত্থানের ঐক্য আরও সুসংহত করতে চায় সরকার: মাহাদী আমিন",
+        "title_en": "Govt wants to further consolidate July Uprising unity: Mahadi Amin",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমানের উপদেষ্টা মাহাদী আমিন বলেছেন, জুলাই অভ্যুত্থানের মাধ্যমে অর্জিত ফ্যাসিবাদবিরোধী জাতীয় ঐক্য আরও সুসংহত করতে চায় সরকার।",
+        "summary_en": "The government wants to further consolidate the anti-fascist national unity forged during the July Uprising, said Mahadi Amin, adviser to Prime Minister Tarique Rahman.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "world_diplomacy",
-          "climate_environment"
+          "governance_law",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-23T08:30:00+00:00",
-        "lead_bn": "চট্টগ্রামের হালদার তীরের ঐতিহ্যবাহী হাথাজারীর মিষ্টি লাল মরিচ দেশের গণ্ডি পেরিয়ে বেশ কয়েকটি মধ্যপ্রাচ্যের দেশে রপ্তানি হচ্ছে।",
-        "lead_en": "The traditional sweet red chilli of Hathazari along the Halda River in Chattogram has crossed borders into Middle Eastern countries.",
+        "published_at": "2026-11-23T10:35:00+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমানের উপদেষ্টা মাহাদী আমিন বলেছেন, জুলাই অভ্যুত্থানের মাধ্যমে অর্জিত ফ্যাসিবাদবিরোধী জাতীয় ঐক্য আরও সুসংহত করতে চায় সরকার।",
+        "lead_en": "The government wants to further consolidate the anti-fascist national unity forged during the July Uprising, said Mahadi Amin, adviser to Prime Minister Tarique Rahman.",
         "bullets_bn": [
-          "মরিচটি মিষ্টি স্বাদের জন্য নয় বরং এর চমৎকার সুবাসের কারণে এই নামকরণ হয়েছে এবং এটি হালদার নামেও পরিচিত।",
-          "উপজেলা কৃষি অফিসের তথ্য অনুযায়ী, হাথাজারীর মরিচ সাধারণত অন্যান্য সাধারণ জাতের তুলনায় কেজিতে ৫০ থেকে ১০০ টাকা বেশি দামে বিক্রি হয়।",
-          "হাটবাজারের চাহিদা অনুযায়ী হালদার মরিচ প্রতি কেজি ৩৫০ থেকে ৬০০ টাকায় বিক্রি হতে পারে।"
+          "জাতীয় নাগরিক পার্টির (এনসিপি) চার সদস্যের প্রতিনিধি দলের সঙ্গে সচিবালয়ে বৈঠক করেন প্রধানমন্ত্রী।",
+          "বৈঠকে আহ্বায়ক নাহিদ ইসলাম, সদস্য সচিব আখতার হোসেন, হাসনাত আবদুল্লাহ ও আকরাম হোসেন উপস্থিত ছিলেন।",
+          "সরকার নোট অব ডিসেন্ট মেনেই জুলাই সনদ শতভাগ বাস্তবায়ন করবে বলে জানিয়েছেন মাহাদী আমিন।"
         ],
         "bullets_en": [
-          "The chilli earned its name not from a sugary taste but from a remarkable sweet-scented aroma, and is also known as Halda chilli.",
-          "According to the Upazila Agriculture Office, Hathazari chillies generally command a premium of Tk 50 to 100 per kilogram over other common varieties.",
-          "Depending on market demand, Halda chillies can sell for Tk 350 to 600 per kilogram."
+          "The prime minister held a meeting with a four-member delegation of the National Citizen Party (NCP) at the Secretariat.",
+          "The NCP delegation included Convener Nahid Islam, Member Secretary Akhter Hossen, Hasnat Abdullah, and Akram Hossain.",
+          "Mahadi Amin said the government would fully implement the July Charter, including the note of dissent."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ব্রিটিশ আমল থেকেই গৃহিণী ও রাঁধুনিদের কাছে সমাদৃত এই মরিচ হাথাজারীর গুমরমর্দন, নাঙ্গলমোড়া, ছিপাতলী, মেখল ও গড়দুয়ারা এলাকার শত শত একর জমিতে চাষ করা হয়। শীতকালীন রবি মৌসুমে চাষ হওয়া এই মরিচ লম্বায় ২.৫ থেকে ৪ ইঞ্চি হয় এবং প্রতি হেক্টরে ১.৫ থেকে ২ মেট্রিক টন ফলন দেয়। অনুকূল পরিস্থিতিতে কৃষকেরা মৌসুম শেষে বিনিয়োগের প্রায় দ্বিগুণ আয় করেন।",
-        "details_en": "Valued by homemakers and cooks since the British era, these chillies are grown across hundreds of acres in Gumanmardan, Nangalmora, Chhipatali, Mekhal, and Garduara in Hathazari. Cultivated during the Rabi season, the plants grow 3.5 to 4 feet tall and yield 1.5 to 2 metric tonnes per hectare, with farmers earning about double their investment under favourable conditions.",
-        "hook_bn": "হালদার তীরের মিষ্টি লাল মরিচ বিদেশে",
-        "kicker_bn": "দাম বাড়ছে",
-        "share_value": true,
-        "question_bn": "আপনি কি রান্নায় হাথাজারীর মিষ্টি লাল মরিচ ব্যবহার করেছেন?"
+        "details_bn": "সচিবালয়ে অনুষ্ঠিত এই বৈঠকে দেশের সাম্প্রতিক রাজনৈতিক পরিস্থিতি, জাতীয় স্বার্থে রাজনৈতিক দলগুলোর মধ্যে ঐকমত্য এবং সংস্কার কার্যক্রম নিয়ে আলোচনা হয়।",
+        "details_en": "The meeting at the Secretariat discussed the country's recent political situation, consensus among political parties on national interest, and reform activities.",
+        "hook_bn": "জুলাই অভ্যুত্থানের ঐক্য আরও সুসংহত করবে সরকার",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "জাতীয় ঐক্য বজায় রাখতে রাজনৈতিক দলগুলোর মধ্যে কেমন সহযোগিতা প্রয়োজন বলে আপনি মনে করেন?"
       },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
+      "desk_importance": 6.0,
+      "outlet_count": 5,
       "trending": false,
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-23T10:02:52.213522+00:00"
+        "checked_at": "2026-11-23T11:03:40.046116+00:00"
       }
     },
     {
-      "story_id": "2552857e-d802-589b-b4a3-41048039d60b",
-      "primary_category": "world_diplomacy",
+      "story_id": "be62a503-b0bc-5f38-829d-5eaebb2749c9",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "world_diplomacy",
-        "governance_law",
-        "economy_business"
+        "economy_business",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#KhaledaZia",
-        "#Chicago",
-        "#Bangladesh",
-        "#FazlurRahmanKhan"
+        "#Cabinet",
+        "#Sumitomo"
       ],
-      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_f827123b8b709779337820e9a8697a6a.jpg",
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182762/image-900x600-47.jpg",
       "image_caption": null,
-      "published_at": "2026-11-23T10:01:01.664699+00:00",
+      "published_at": "2026-11-23T11:01:15.825486+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.4978,
+      "importance_score": 6.0,
+      "rank_score": 3.5963,
       "sources": [
         {
           "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/chicago-unveils-street-named-after-late-bangladesh-ex-pm-khaleda-zia",
-          "title": "Chicago names street after late Bangladesh ex-PM Khaleda Zia",
-          "snippet": "Chicago names street after late Bangladesh ex-PM Khaleda Zia"
+          "url": "https://thefinancialexpress.com.bd/trade/cabinet-approves-3rd-terminal-concession-agreement",
+          "title": "Cabinet approves 3rd terminal concession agreement",
+          "snippet": "Cabinet approves 3rd terminal concession agreement"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শিকাগোর একটি সড়কের নামকরণ করা হয়েছে খালেদা জিয়ার নামে।",
-        "title_en": "Chicago names street after late Bangladesh ex-PM Khaleda Zia.",
-        "summary_bn": "যুক্তরাষ্ট্রের শিকাগো শহরের উইলিস টাওয়ারের কাছে একটি সড়কের নাম সাবেক প্রধানমন্ত্রী খালেদা জিয়ার নামে রাখা হয়েছে।",
-        "summary_en": "A street in the US city of Chicago has been named after the late former Bangladeshi prime minister Khaleda Zia.",
+        "title_bn": "তৃতীয় টার্মিনালের concession agreement অনুমোদন করেছে মন্ত্রিসভা",
+        "title_en": "Cabinet approves 3rd terminal concession agreement",
+        "summary_bn": "মন্ত্রিসভা তৃতীয় টার্মিনালের concessionary agreement অনুমোদন করেছে।",
+        "summary_en": "The cabinet approved the 3rd terminal concessionary agreement.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "governance_law",
-          "economy_business"
+          "economy_business",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-23T10:01:01.664699+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের শিকাগো শহরের উইলিস টাওয়ারের কাছে একটি সড়কের নাম সাবেক প্রধানমন্ত্রী খালেদা জিয়ার নামে রাখা হয়েছে।",
-        "lead_en": "A street in the US city of Chicago has been named after the late former Bangladeshi prime minister Khaleda Zia.",
+        "published_at": "2026-11-23T11:01:15.825486+00:00",
+        "lead_bn": "মন্ত্রিসভা তৃতীয় টার্মিনালের concessionary agreement অনুমোদন করেছে।",
+        "lead_en": "The cabinet approved the 3rd terminal concessionary agreement.",
         "bullets_bn": [
-          "স্থানীয় সময় রোববার বিকেলে শিকাগো শহরের অল্ডারম্যান গিলবার্ট ভিলেগাস একটি সাইন উন্মোচন করেন।",
-          "আপার ওয়াকার ড্রাইভের একটি অংশের নাম রাখা হয়েছে মাদার অব ডেমোক্রেসি বেগম খালেদা জিয়া ওয়ে।",
-          "বাংলাদেশি স্থপতি ফজলুর রহমান খান আইকনিক উইলিস টাওয়ারটি ডিজাইন করেছিলেন।"
+          "পাবলিক প্রাইভেট পার্টনারশিপের অধীনে পরিচালিত হবে এই চুক্তি।",
+          "মন্ত্রিসভার ৩৮তম সভায় এই চুক্তি অনুমোদিত হয়।",
+          "জাপানি অপারেটরের সাথে চুক্তি স্বাক্ষরের পথ প্রশস্ত হয়েছে।"
         ],
         "bullets_en": [
-          "Chicago City Alderman Gilbert Villegas unveiled a sign at a ceremony on Sunday afternoon local time.",
-          "A section of Upper Wacker Drive has been named Mother of Democracy Begum Khaleda Zia Way.",
-          "The tower was designed by renowned Bangladeshi architect Fazlur Rahman Khan."
+          "The deal is to be operated under public private partnership.",
+          "Cabinet in its 38th meeting approved the deal.",
+          "The approval paves the way to sign the agreement with its Japanese operator."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "শিকাগোর অল্ডারম্যান গিলবার্ট ভিলেগাস বাংলাদেশের প্রথম নারী প্রধানমন্ত্রী খালেদা জিয়াকে সম্মান জানাতে ২৩ সেপ্টেম্বর এই নামকরণের প্রস্তাব করেছিলেন। অনুষ্ঠানে যুক্তরাষ্ট্রে নিযুক্ত বাংলাদেশের রাষ্ট্রদূত তারেক মোহাম্মদ আরিফুল ইসলাম এবং বিএনপির জাতীয় নির্বাহী কমিটির সদস্য গিয়াস আহমেদ বক্তব্য দেন।",
-        "details_en": "Chicago City Alderman Gilbert Villegas proposed the naming on Sept 23 to honour Khaleda, Bangladesh’s first female prime minister. Bangladesh Ambassador to the United States Tareq Mohammad Ariful Islam and BNP National Executive Committee member Giash Ahmed spoke at the ceremony.",
-        "hook_bn": "মাদার অব ডেমোক্রেসি বেগম খালেদা জিয়া ওয়ে",
+        "details_bn": "সিভিল এভিয়েশন মন্ত্রী সচিবালয়ে প্রধানমন্ত্রীর সাথে বৈঠক করার পর জানান যে, টার্মিনাল ৩ এর সফট ওপেনিং নিশ্চিত করতে সুমিতোমোর নেতৃত্বে জাপানি কনসোর্টিয়ামের সাথে নির্দিষ্ট তারিখের মধ্যে concessionary agreement স্বাক্ষরের পরিকল্পনা রয়েছে সরকারের।",
+        "details_en": "Civil aviation minister after a meeting with the Prime Minister at secretariat said the government plans to sign the concessionary agreement with the Japanese consortium led by Sumitomo to ensure soft opening of the terminal 3.",
+        "hook_bn": "তৃতীয় টার্মিনালের কনসেশন চুক্তি অনুমোদন",
+        "kicker_bn": "নতুন চুক্তি",
+        "share_value": true,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-23T11:03:40.046116+00:00"
+      }
+    },
+    {
+      "story_id": "4730e605-5dcd-5347-b95d-2e33dbd43a8f",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "sports_fitness"
+      ],
+      "region": "international",
+      "tags": [
+        "#EuropeanUnion",
+        "#Bangladesh",
+        "#FreeTradeAgreement",
+        "#MichaelMiller"
+      ],
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182770/eu.jpeg",
+      "image_caption": null,
+      "published_at": "2026-11-23T11:01:15.825486+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5963,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/fta-talks-to-begin-in-december-first-ever-eu-bangladesh-investment-forum-in-dhaka-in-april",
+          "title": "EU ready to match Bangladesh’s ambition for FTA",
+          "snippet": "EU ready to match Bangladesh’s ambition for FTA"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাংলাদেশ ও ইইউ মুক্ত বাণিজ্য চুক্তির জন্য আলোচনা শুরু করবে",
+        "title_en": "Bangladesh and EU to begin exploratory discussions for free trade agreement",
+        "summary_bn": "ইউরোপীয় ইউনিয়ন বাংলাদেশের সঙ্গে একটি মুক্ত বাণিজ্য চুক্তির বিষয়ে আলোচনা করতে প্রস্তুত রয়েছে বলে জানিয়েছেন ঢাকার ইইউ প্রতিনিধিদলের প্রধান মাইকেল মিলার।",
+        "summary_en": "The European Union is ready to match Bangladesh’s ambition for a free trade agreement, said EU Delegation Head in Dhaka Michael Miller.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "sports_fitness"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-23T11:01:15.825486+00:00",
+        "lead_bn": "ইউরোপীয় ইউনিয়ন বাংলাদেশের সঙ্গে একটি মুক্ত বাণিজ্য চুক্তির বিষয়ে আলোচনা করতে প্রস্তুত রয়েছে বলে জানিয়েছেন ঢাকার ইইউ প্রতিনিধিদলের প্রধান মাইকেল মিলার।",
+        "lead_en": "The European Union is ready to match Bangladesh’s ambition for a free trade agreement, said EU Delegation Head in Dhaka Michael Miller.",
+        "bullets_bn": [
+          "বাংলাদেশ ও ইইউর মধ্যে মুক্ত বাণিজ্য চুক্তি নিয়ে প্রাথমিক আলোচনা আগামী মাসে শুরু হওয়ার কথা রয়েছে।",
+          "ইউরোপীয় ইউনিয়ন ঢাকায় আগামী বছর ৫-৬ এপ্রিল প্রথম বাংলাদেশ-ইইউ বিজনেস অ্যান্ড ইনভেস্টমেন্ট ফোরামের পরিকল্পনা করছে।",
+          "চুক্তিতে শ্রম অধিকার, পরিবেশগত সুরক্ষা এবং সুশাসন কেন্দ্রীয় বিষয় হিসেবে থাকবে বলে জানানো হয়েছে।"
+        ],
+        "bullets_en": [
+          "Exploratory discussions between the two sides for an FTA are scheduled to begin next month.",
+          "The EU is planning its first-ever Bangladesh-EU Business and Investment Forum in Dhaka on April 5-6 next year.",
+          "Labour rights, environmental protection and good governance will remain central to the proposed agreement."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইইউর পক্ষ থেকে জানানো হয়েছে যে এই ঘোষণাটি রাজনৈতিক, অর্থনৈতিক এবং নিরাপত্তা সহযোগিতা জোরদার করার একটি বৃহত্তর এজেন্ডার অংশ। ব্লকটি বাংলাদেশের সঙ্গে ঐতিহ্যগত দাতা-গ্রহীতার সম্পর্ক থেকে সরে এসে পারস্পরিক স্বার্থ এবং বিনিয়োগের ওপর ভিত্তি করে একটি পূর্ণাঙ্গ অংশীদারিত্বের দিকে এগিয়ে যাচ্ছে।",
+        "details_en": "The announcements came as the European Union outlined an agenda for strengthening political, economic and security cooperation with Bangladesh. The bloc is moving beyond its traditional donor-recipient relationship towards a partnership based on mutual interests, investment, economic security and shared values.",
+        "hook_bn": "মুক্ত বাণিজ্য চুক্তির জন্য প্রস্তুত ইউরোপীয় ইউনিয়ন",
+        "kicker_bn": "নতুন তারিখ",
+        "share_value": false,
+        "question_bn": "মুক্ত বাণিজ্য চুক্তি বাস্তবায়িত হলে বাংলাদেশের অর্থনীতিতে এর কী প্রভাব পড়তে পারে বলে আপনি মনে করেন?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-23T11:03:40.046116+00:00"
+      }
+    },
+    {
+      "story_id": "ccae0178-8247-5659-a159-15386e92c0d9",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#Kyiv",
+        "#Ukraine",
+        "#Russia"
+      ],
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-23T075010Z_1397359685_RC2JTOA0Y61N_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-REGION-1795420311.jpg?resize=1200%2C630",
+      "image_caption": null,
+      "published_at": "2026-11-23T09:34:25+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.3079,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss",
+          "title": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks",
+          "snippet": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইউক্রেনের কিয়েভ অঞ্চলে রাশিয়ার হামলায় কমপক্ষে ১৫ জন নিহত হয়েছে।",
+        "title_en": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks.",
+        "summary_bn": "ইউক্রেনের কিয়েভ অঞ্চলে রাশিয়ার হামলায় কমপক্ষে ১৫ জন নিহত হয়েছে এবং ধসে পড়া ভবনের নিচে আটকে থাকা লোকজনকে উদ্ধারে অভিযান চলছে।",
+        "summary_en": "At least 15 people have been killed in Russian attacks in Ukraine’s Kyiv region, as rescuers race to find trapped residents.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-23T09:34:25+00:00",
+        "lead_bn": "ইউক্রেনের কিয়েভ অঞ্চলে রাশিয়ার হামলায় কমপক্ষে ১৫ জন নিহত হয়েছে এবং ধসে পড়া ভবনের নিচে আটকে থাকা লোকজনকে উদ্ধারে অভিযান চলছে।",
+        "lead_en": "At least 15 people have been killed in Russian attacks in Ukraine’s Kyiv region, as rescuers race to find trapped residents.",
+        "bullets_bn": [
+          "কিয়েভ থেকে প্রায় ৪৫ কিলোমিটার উত্তরে দাইমেরে একটি পাঁচতলা ভবনে রাতের হামলায় অন্তত ১১ জন নিহত হয়েছেন।",
+          "নিহতদের মধ্যে একজন কিশোর রয়েছে এবং উদ্ধারকারীরা ১১ জনের খোঁজ করছেন যারা সাড়া দিচ্ছেন না।",
+          "উদ্ধারকর্মীরা ধ্বংসস্তূপ থেকে ৭৯ বছর বয়সী এক নারী ও একটি শিশুকে জীবিত উদ্ধার করেছেন।"
+        ],
+        "bullets_en": [
+          "An overnight strike on Dymer, about 45km north of the capital, hit a five-storey building, killing at least 11 people.",
+          "The dead included a teenager, and rescuers were searching for 11 people who were not responding or cannot be reached.",
+          "Rescuers managed to pull out survivors from the rubble, including a 79-year-old woman and a child."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মস্কো ইউক্রেনে নিয়মিত ড্রোন ও ক্ষেপণাস্ত্র হামলা চালিয়ে যাচ্ছে। যুদ্ধবিধ্বস্ত এই দেশটি আরেকটি শীতের জন্য প্রস্তুতি নিচ্ছে এবং এর পূর্ণাঙ্গ আগ্রাসন পঞ্চম বছরে গড়াল।",
+        "details_en": "Moscow has been pummelling Ukraine with nightly drone and missile barrages as the war-torn country braces for another winter while the full-scale invasion grinds through its fifth year.",
+        "hook_bn": "কিয়েভে রাশিয়ার হামলায় নিহত ১৫",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 5.0,
+      "desk_importance": 6.0,
       "outlet_count": 1,
       "trending": false,
-      "social_appeal": 7.0,
+      "social_appeal": 4.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-23T10:02:52.213522+00:00"
+        "checked_at": "2026-11-23T11:03:40.046116+00:00"
       }
     }
   ]
