@@ -1,176 +1,84 @@
 {
-  "updated_at": "2026-11-23T11:01:01.462075",
-  "total_stories": 5,
+  "updated_at": "2026-11-23T12:00:44.911970",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "295afc39-ce6e-5344-bd89-5707e872e1e1",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Measles"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1528726164383-33c4a223b78c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFuZ2xhZGVzaCUyMHJlY29yZHMlMjBtZWFzbGVzJTIwZGVhdGhzJTIwZWR1Y2F0aW9ufGVufDF8MHx8fDE3OTU0MzE3Njh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-23T11:00:51+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 5.6172,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/health/425516/bangladesh-records-no-measles-deaths-for-the-first",
-          "title": "Bangladesh records no measles deaths for the first time since March 15",
-          "snippet": "Bangladesh records no measles deaths for the first time since March 15"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/health/no-measles-related-deaths-first-time-eight-months-1611476",
-          "title": "No measles-related deaths for the first time in eight months",
-          "snippet": "No measles-related deaths for the first time in eight months"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822609/%E0%A7%A8%E0%A7%AA-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A7%9F-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81-%E0%A6%A8%E0%A7%87%E0%A6%87-%E0%A6%86%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A7%A7-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A7%AA%E0%A7%A7%E0%A7%AD",
-          "title": "২৪ ঘণ্টায় হামে মৃত্যু নেই, আক্রান্ত ১ হাজার ৪১৭",
-          "snippet": "২৪ ঘণ্টায় হামে মৃত্যু নেই, আক্রান্ত ১ হাজার ৪১৭"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "দেশে হামে কোনো মৃত্যুর ঘটনা ঘটেনি",
-        "title_en": "Bangladesh records no measles deaths",
-        "summary_bn": "দেশে গত ২৪ ঘণ্টায় হাম ও হামের উপসর্গ নিয়ে কোনো মৃত্যুর ঘটনা ঘটেনি বলে জানিয়েছে স্বাস্থ্য অধিদপ্তর।",
-        "summary_en": "Bangladesh recorded no measles-related deaths during the reporting period according to the Directorate General of Health Services.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T11:00:51+00:00",
-        "lead_bn": "দেশে গত ২৪ ঘণ্টায় হাম ও হামের উপসর্গ নিয়ে কোনো মৃত্যুর ঘটনা ঘটেনি বলে জানিয়েছে স্বাস্থ্য অধিদপ্তর।",
-        "lead_en": "Bangladesh recorded no measles-related deaths during the reporting period according to the Directorate General of Health Services.",
-        "bullets_bn": [
-          "চলতি বছরের ১৫ মার্চ থেকে এ পর্যন্ত হাম ও হামের উপসর্গ নিয়ে মোট ১ হাজার ৩৫২ জনের মৃত্যু হয়েছে।",
-          "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী গত ২৪ ঘণ্টায় নতুন করে ১ হাজার ৪১৭ জনের হাম শনাক্ত হয়েছে।",
-          "এ সময়ে ১ হাজার ৩২১টি সন্দেহভাজন কেস এবং ৯৬টি নিশ্চিত কেস রেকর্ড করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "The cumulative number of measles-related deaths has reached 1,352 since March 15 of this year.",
-          "A total of 1,417 new measles cases were identified during the past 24 hours according to health department data.",
-          "The reporting period recorded 1,321 suspected cases and 96 confirmed cases."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, চলতি বছরের ১৫ মার্চ থেকে এ পর্যন্ত হাম ও হামের উপসর্গ নিয়ে মারা যাওয়া ব্যক্তিদের মধ্যে নিশ্চিত হামে ১০৫ জন এবং হামের উপসর্গ নিয়ে ১ হাজার ২৪৭ জন রয়েছে।",
-        "details_en": "According to Directorate General of Health Services data, among the total 1,352 deaths from March 15 to date, 105 were from confirmed measles and 1,247 from measles symptoms.",
-        "hook_bn": "হামে মৃত্যু নেই, শনাক্ত ১ হাজার ৪১৭",
-        "kicker_bn": "স্বাস্থ্য আপডেট",
-        "share_value": false,
-        "question_bn": "আপনার এলাকায় হামের প্রকোপ কেমন দেখছেন?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-23T11:03:40.046116+00:00"
-      }
-    },
-    {
-      "story_id": "920992fd-0351-5b2b-964f-ba65025b7248",
+      "story_id": "6b88571a-9769-5e3b-81bb-0f0db5ac00ab",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
-        "society_education"
+        "world_diplomacy",
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#MahadiAmin",
-        "#NationalCitizenParty",
-        "#JulyUprising"
+        "#ShamaObaed",
+        "#SheikhHasina",
+        "#Bangladesh",
+        "#India"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/23/920664681_1147954084646368_7748793845162913740_n.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/09/sheikh_hasinaupdated.jpg",
       "image_caption": null,
-      "published_at": "2026-11-23T10:35:00+00:00",
+      "published_at": "2026-11-23T11:35:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.75,
-      "rank_score": 4.4382,
+      "importance_score": 7.2,
+      "rank_score": 5.0542,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/politics/july-uprising-unity-established-govt-wants-strengthen-it-further-mahadi-amin",
-          "title": "July Uprising unity established, govt wants to strengthen it further: Mahadi Amin",
-          "snippet": "July Uprising unity established, govt wants to strengthen it further: Mahadi Amin"
+          "url": "https://www.tbsnews.net/bangladesh/she-will-face-music-shama-obaed-says-hasina-will-be-arrested-if-she-returns-india-1611606",
+          "title": "'She will ​face the music': Shama Obaed says Hasina will be arrested if she returns from India",
+          "snippet": "'She will ​face the music': Shama Obaed says Hasina will be arrested if she returns from India"
         },
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/politics/425509/mahdi-amin-no-conditions-set-during-pm-s-meeting",
-          "title": "Mahdi Amin: No conditions set during PM's meeting with NCP delegation",
-          "snippet": "Mahdi Amin: No conditions set during PM's meeting with NCP delegation"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/all-parties-unite-against-awami-league-violence/",
-          "title": "আওয়ামী লীগের সহিংসতার বিরুদ্ধে সব দল ঐক্যবদ্ধ: মাহদী আমিন",
-          "snippet": "আওয়ামী লীগের সহিংসতার বিরুদ্ধে সব দল ঐক্যবদ্ধ: মাহদী আমিন"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1182750",
-          "title": "প্রধানমন্ত্রীর সঙ্গে এনসিপির বৈঠকে কী আলোচনা হলো, জানালেন মাহাদী আমীন",
-          "snippet": "প্রধানমন্ত্রীর সঙ্গে এনসিপির বৈঠকে কী আলোচনা হলো, জানালেন মাহাদী আমীন"
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/us-panel-urges-india-dialogue-for-dalai-lama-succession-warns-of-china-legitimacy-contest/article71733447.ece",
+          "title": "U.S. panel urges India dialogue for Dalai Lama succession, warns of China legitimacy contest",
+          "snippet": "U.S. panel urges India dialogue for Dalai Lama succession, warns of China legitimacy contest"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জুলাই অভ্যুত্থানের ঐক্য আরও সুসংহত করতে চায় সরকার: মাহাদী আমিন",
-        "title_en": "Govt wants to further consolidate July Uprising unity: Mahadi Amin",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমানের উপদেষ্টা মাহাদী আমিন বলেছেন, জুলাই অভ্যুত্থানের মাধ্যমে অর্জিত ফ্যাসিবাদবিরোধী জাতীয় ঐক্য আরও সুসংহত করতে চায় সরকার।",
-        "summary_en": "The government wants to further consolidate the anti-fascist national unity forged during the July Uprising, said Mahadi Amin, adviser to Prime Minister Tarique Rahman.",
+        "title_bn": "বাংলাদেশ ফিরলে শেখ হাসিনাকে গ্রেপ্তার করা হবে, বলেছেন শামা ওবায়েদ",
+        "title_en": "Hasina will be arrested if she returns, says Shama Obaed",
+        "summary_bn": "ভারত থেকে দেশে ফিরলেই সাবেক প্রধানমন্ত্রী শেখ হাসিনাকে গ্রেপ্তার করে কারাগারে পাঠানো হবে বলে জানিয়েছেন পররাষ্ট্র প্রতিমন্ত্রী শামা ওবায়েদ ইসলাম।",
+        "summary_en": "Former Prime Minister Sheikh Hasina will be arrested and jailed immediately upon returning to Bangladesh from India, State Minister Shama Obaed Islam said.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law",
-          "society_education"
+          "world_diplomacy",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-23T10:35:00+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমানের উপদেষ্টা মাহাদী আমিন বলেছেন, জুলাই অভ্যুত্থানের মাধ্যমে অর্জিত ফ্যাসিবাদবিরোধী জাতীয় ঐক্য আরও সুসংহত করতে চায় সরকার।",
-        "lead_en": "The government wants to further consolidate the anti-fascist national unity forged during the July Uprising, said Mahadi Amin, adviser to Prime Minister Tarique Rahman.",
+        "published_at": "2026-11-23T11:35:00+00:00",
+        "lead_bn": "ভারত থেকে দেশে ফিরলেই সাবেক প্রধানমন্ত্রী শেখ হাসিনাকে গ্রেপ্তার করে কারাগারে পাঠানো হবে বলে জানিয়েছেন পররাষ্ট্র প্রতিমন্ত্রী শামা ওবায়েদ ইসলাম।",
+        "lead_en": "Former Prime Minister Sheikh Hasina will be arrested and jailed immediately upon returning to Bangladesh from India, State Minister Shama Obaed Islam said.",
         "bullets_bn": [
-          "জাতীয় নাগরিক পার্টির (এনসিপি) চার সদস্যের প্রতিনিধি দলের সঙ্গে সচিবালয়ে বৈঠক করেন প্রধানমন্ত্রী।",
-          "বৈঠকে আহ্বায়ক নাহিদ ইসলাম, সদস্য সচিব আখতার হোসেন, হাসনাত আবদুল্লাহ ও আকরাম হোসেন উপস্থিত ছিলেন।",
-          "সরকার নোট অব ডিসেন্ট মেনেই জুলাই সনদ শতভাগ বাস্তবায়ন করবে বলে জানিয়েছেন মাহাদী আমিন।"
+          "বাংলাদেশ ভারত থেকে হাসিনাকে প্রত্যার্পণ করার জন্য দেশটির কাছে আবেদন জানিয়েছে।",
+          "ভারত সরকারের পক্ষ থেকে তাৎক্ষণিকভাবে কোনো মন্তব্য পাওয়া যায়নি।",
+          "ডিসেম্বরে হাসিনার পরিকল্পিত প্রত্যাবর্তন ঘিরে রাজনৈতিক উত্তেজনা ও সহিংসতা বাড়ছে।"
         ],
         "bullets_en": [
-          "The prime minister held a meeting with a four-member delegation of the National Citizen Party (NCP) at the Secretariat.",
-          "The NCP delegation included Convener Nahid Islam, Member Secretary Akhter Hossen, Hasnat Abdullah, and Akram Hossain.",
-          "Mahadi Amin said the government would fully implement the July Charter, including the note of dissent."
+          "Dhaka is seeking Hasina's extradition from India and expects New Delhi to comply with an existing extradition treaty.",
+          "India's foreign ministry did not immediately respond to a request for comment on the matter.",
+          "Hasina's planned return in December has fueled political tension and renewed street violence in Bangladesh."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "সচিবালয়ে অনুষ্ঠিত এই বৈঠকে দেশের সাম্প্রতিক রাজনৈতিক পরিস্থিতি, জাতীয় স্বার্থে রাজনৈতিক দলগুলোর মধ্যে ঐকমত্য এবং সংস্কার কার্যক্রম নিয়ে আলোচনা হয়।",
-        "details_en": "The meeting at the Secretariat discussed the country's recent political situation, consensus among political parties on national interest, and reform activities.",
-        "hook_bn": "জুলাই অভ্যুত্থানের ঐক্য আরও সুসংহত করবে সরকার",
-        "kicker_bn": null,
+        "details_bn": "২০২৪ সালে গণঅভ্যুত্থানের পর শেখ হাসিনা পদত্যাগ করে দেশ ছেড়ে ভারতে চলে যান। এই অভ্যুত্থানের সময় জাতিসংঘ ১,৪০০ মানুষের মৃত্যুর কথা জানিয়েছে। বাংলাদেশে তাঁর বিরুদ্ধে মৃত্যুদণ্ডের আদেশ রয়েছে এবং তাঁর দল আওয়ামী লীগ নিষিদ্ধ করা হয়েছে।",
+        "details_en": "Hasina fled Dhaka in August 2024 as protests demanding her resignation swept the country. The United Nations has said as many as 1,400 people were killed during the unrest. She faces a death sentence in Bangladesh and her Awami League party is banned following the uprising.",
+        "hook_bn": "'সে আইনগত পরিস্থিতির মুখোমুখি হবে'",
+        "kicker_bn": "সতর্কতা",
         "share_value": false,
-        "question_bn": "জাতীয় ঐক্য বজায় রাখতে রাজনৈতিক দলগুলোর মধ্যে কেমন সহযোগিতা প্রয়োজন বলে আপনি মনে করেন?"
+        "question_bn": null
       },
-      "desk_importance": 6.0,
-      "outlet_count": 5,
-      "trending": false,
-      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-23T11:03:40.046116+00:00"
+        "checked_at": "2026-11-23T12:01:41.972124+00:00"
       }
     },
     {
-      "story_id": "be62a503-b0bc-5f38-829d-5eaebb2749c9",
+      "story_id": "b644e25f-fac4-5f5f-af64-22fcdd0557ec",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business",
@@ -178,28 +86,28 @@
       ],
       "region": "national",
       "tags": [
-        "#Cabinet",
-        "#Sumitomo"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182762/image-900x600-47.jpg",
+      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/tarek-rahman-20261123174640.jpg?cid=500267",
       "image_caption": null,
-      "published_at": "2026-11-23T11:01:15.825486+00:00",
+      "published_at": "2026-11-23T11:46:40+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5963,
+      "importance_score": 6.6,
+      "rank_score": 4.2949,
       "sources": [
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/cabinet-approves-3rd-terminal-concession-agreement",
-          "title": "Cabinet approves 3rd terminal concession agreement",
-          "snippet": "Cabinet approves 3rd terminal concession agreement"
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/national/500267",
+          "title": "প্রধানমন্ত্রীর সঙ্গে দক্ষিণ কোরিয়ার এসকে গ্রুপের প্রতিনিধিদলের সাক্ষাৎ",
+          "snippet": "প্রধানমন্ত্রীর সঙ্গে দক্ষিণ কোরিয়ার এসকে গ্রুপের প্রতিনিধিদলের সাক্ষাৎ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "তৃতীয় টার্মিনালের concession agreement অনুমোদন করেছে মন্ত্রিসভা",
-        "title_en": "Cabinet approves 3rd terminal concession agreement",
-        "summary_bn": "মন্ত্রিসভা তৃতীয় টার্মিনালের concessionary agreement অনুমোদন করেছে।",
-        "summary_en": "The cabinet approved the 3rd terminal concessionary agreement.",
+        "title_bn": "দক্ষিণ কোরিয়ার এসকে গ্রুপের প্রধানমন্ত্রী তারেক রহমানের সাথে সাক্ষাৎ",
+        "title_en": "SK Group of South Korea meets Prime Minister Tarique Rahman",
+        "summary_bn": "দক্ষিণ কোরিয়ার এসকে গ্রুপের একটি প্রতিনিধিদল প্রধানমন্ত্রী তারেক রহমানের সাথে সাক্ষাৎ করে মাতারবাড়ী গভীর সমুদ্রবন্দর এলাকায় এলপিজি ও এলএনজি টার্মিনাল নির্মাণে বিনিয়োগের আগ্রহ প্রকাশ করেছে।",
+        "summary_en": "A delegation from South Korea's SK Group met Prime Minister Tarique Rahman to express interest in investing in LPG and LNG terminals at Matarbari deep sea port.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -207,174 +115,312 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-23T11:01:15.825486+00:00",
-        "lead_bn": "মন্ত্রিসভা তৃতীয় টার্মিনালের concessionary agreement অনুমোদন করেছে।",
-        "lead_en": "The cabinet approved the 3rd terminal concessionary agreement.",
+        "published_at": "2026-11-23T11:46:40+00:00",
+        "lead_bn": "দক্ষিণ কোরিয়ার এসকে গ্রুপের একটি প্রতিনিধিদল প্রধানমন্ত্রী তারেক রহমানের সাথে সাক্ষাৎ করে মাতারবাড়ী গভীর সমুদ্রবন্দর এলাকায় এলপিজি ও এলএনজি টার্মিনাল নির্মাণে বিনিয়োগের আগ্রহ প্রকাশ করেছে।",
+        "lead_en": "A delegation from South Korea's SK Group met Prime Minister Tarique Rahman to express interest in investing in LPG and LNG terminals at Matarbari deep sea port.",
         "bullets_bn": [
-          "পাবলিক প্রাইভেট পার্টনারশিপের অধীনে পরিচালিত হবে এই চুক্তি।",
-          "মন্ত্রিসভার ৩৮তম সভায় এই চুক্তি অনুমোদিত হয়।",
-          "জাপানি অপারেটরের সাথে চুক্তি স্বাক্ষরের পথ প্রশস্ত হয়েছে।"
+          "প্রতিনিধিদল মাতারবাড়ী গভীর সমুদ্রবন্দর এলাকায় এলপিজি ও এলএনজি টার্মিনাল নির্মাণে বিনিয়োগের বিষয়ে প্রধানমন্ত্রীকে বিস্তারিত উপস্থাপনা দেয়।",
+          "প্রতিনিধিদল জানায় মাতারবাড়ী দক্ষিণ কোরিয়ার উলসানের মতো একটি এনার্জি হাব হয়ে ওঠার সম্ভাবনা রয়েছে।",
+          "প্রধানমন্ত্রী প্রস্তাবিত প্রকল্পের কাজ দ্রুত এগিয়ে নেওয়ার আহ্বান জানান এবং সংশ্লিষ্ট কর্তৃপক্ষকে প্রয়োজনীয় ব্যবস্থা নেওয়ার নির্দেশ দেন।"
         ],
         "bullets_en": [
-          "The deal is to be operated under public private partnership.",
-          "Cabinet in its 38th meeting approved the deal.",
-          "The approval paves the way to sign the agreement with its Japanese operator."
+          "The delegation gave a detailed presentation to the Prime Minister on investing in LPG and LNG terminal construction in the Matarbari deep sea port area.",
+          "The delegation stated that Matarbari has the potential to become an energy hub like Ulsan in South Korea.",
+          "The Prime Minister called for advancing the proposed project work quickly and directed relevant authorities to take necessary measures."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "সিভিল এভিয়েশন মন্ত্রী সচিবালয়ে প্রধানমন্ত্রীর সাথে বৈঠক করার পর জানান যে, টার্মিনাল ৩ এর সফট ওপেনিং নিশ্চিত করতে সুমিতোমোর নেতৃত্বে জাপানি কনসোর্টিয়ামের সাথে নির্দিষ্ট তারিখের মধ্যে concessionary agreement স্বাক্ষরের পরিকল্পনা রয়েছে সরকারের।",
-        "details_en": "Civil aviation minister after a meeting with the Prime Minister at secretariat said the government plans to sign the concessionary agreement with the Japanese consortium led by Sumitomo to ensure soft opening of the terminal 3.",
-        "hook_bn": "তৃতীয় টার্মিনালের কনসেশন চুক্তি অনুমোদন",
-        "kicker_bn": "নতুন চুক্তি",
-        "share_value": true,
-        "question_bn": null
+        "details_bn": "সচিবালয়ে প্রধানমন্ত্রীর কার্যালয়ে এই সাক্ষাৎ অনুষ্ঠিত হয়। বৈঠকে অর্থমন্ত্রী আমির খসরু মাহমুদ চৌধুরী, বিদ্যুৎ প্রতিমন্ত্রী অনিন্দ্য ইসলাম অমিত এবং বিডা চেয়ারম্যান আশিক চৌধুরী উপস্থিত ছিলেন। এছাড়া ইয়ংওয়ান করপোরেশনের চেয়ারম্যান কিহাক সুং এবং এসকে গ্যাসের সিইও ও প্রেসিডেন্ট কিউনইয়ল সং উপস্থিত ছিলেন।",
+        "details_en": "The meeting took place at the Prime Minister's office in the Secretariat. Finance Minister Amir Khosru Mahmud Chowdhury, State Minister for Power Anindya Islam Amit, and BIDA Chairman Ashik Chowdhury were present. Additionally, Youngone Corporation Chairman Kihak Sung and SK Gas CEO and President Kyunyoul Song were present.",
+        "hook_bn": "মাতারবাড়ীতে এলপিজি ও এলএনজি টার্মিনাল নির্মাণে কোরিয়ান গ্রুপের আগ্রহ",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "মাতারবাড়ী গভীর সমুদ্রবন্দর এলাকায় এ ধরনের জ্বালানি প্রকল্প দেশের অর্থনীতিতে কী ধরনের প্রভাব ফেলতে পারে বলে আপনি মনে করেন?"
       },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-23T11:03:40.046116+00:00"
+        "checked_at": "2026-11-23T12:01:41.972124+00:00"
       }
     },
     {
-      "story_id": "4730e605-5dcd-5347-b95d-2e33dbd43a8f",
-      "primary_category": "economy_business",
+      "story_id": "8a83499f-7248-5d96-831d-c76fec73a138",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "economy_business",
-        "sports_fitness"
+        "governance_law",
+        "economy_business"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#EuropeanUnion",
-        "#Bangladesh",
-        "#FreeTradeAgreement",
-        "#MichaelMiller"
+        "#SwedenAslam",
+        "#NewMarket",
+        "#Dhaka"
       ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182770/eu.jpeg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/23/sweden_aslam.jpg",
       "image_caption": null,
-      "published_at": "2026-11-23T11:01:15.825486+00:00",
+      "published_at": "2026-11-23T11:15:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.0,
-      "rank_score": 3.5963,
+      "rank_score": 3.4429,
       "sources": [
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/fta-talks-to-begin-in-december-first-ever-eu-bangladesh-investment-forum-in-dhaka-in-april",
-          "title": "EU ready to match Bangladesh’s ambition for FTA",
-          "snippet": "EU ready to match Bangladesh’s ambition for FTA"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/court/titon-murder-case-sweden-aslam-placed-5-day-remand-1611581",
+          "title": "Titon murder case: Sweden Aslam placed on 5-day remand",
+          "snippet": "Titon murder case: Sweden Aslam placed on 5-day remand"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/court/425519/titon-murder-db-seeks-7-day-remand-for-sweden",
+          "title": "Titon murder: DB seeks 7-day remand for Sweden Aslam",
+          "snippet": "Titon murder: DB seeks 7-day remand for Sweden Aslam"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাংলাদেশ ও ইইউ মুক্ত বাণিজ্য চুক্তির জন্য আলোচনা শুরু করবে",
-        "title_en": "Bangladesh and EU to begin exploratory discussions for free trade agreement",
-        "summary_bn": "ইউরোপীয় ইউনিয়ন বাংলাদেশের সঙ্গে একটি মুক্ত বাণিজ্য চুক্তির বিষয়ে আলোচনা করতে প্রস্তুত রয়েছে বলে জানিয়েছেন ঢাকার ইইউ প্রতিনিধিদলের প্রধান মাইকেল মিলার।",
-        "summary_en": "The European Union is ready to match Bangladesh’s ambition for a free trade agreement, said EU Delegation Head in Dhaka Michael Miller.",
+        "title_bn": "টিটন হত্যা মামলায় সোয়েদন আসলাম পাঁচ দিনের রিমান্ডে",
+        "title_en": "Sweden Aslam placed on five-day remand in Titon murder case",
+        "summary_bn": "ব্যবসায়ী খন্দকার নাঈম আহমেদ টিটন হত্যা মামলায় শীর্ষ অপরাধী এস এম আসলাম ওরফে সোয়েদন আসলামকে পাঁচ দিনের রিমান্ডে পাঠিয়েছে আদালত।",
+        "summary_en": "A Dhaka court has placed alleged top criminal SM Aslam, known as Sweden Aslam, on a five-day remand in a murder case.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "sports_fitness"
+          "governance_law",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-23T11:01:15.825486+00:00",
-        "lead_bn": "ইউরোপীয় ইউনিয়ন বাংলাদেশের সঙ্গে একটি মুক্ত বাণিজ্য চুক্তির বিষয়ে আলোচনা করতে প্রস্তুত রয়েছে বলে জানিয়েছেন ঢাকার ইইউ প্রতিনিধিদলের প্রধান মাইকেল মিলার।",
-        "lead_en": "The European Union is ready to match Bangladesh’s ambition for a free trade agreement, said EU Delegation Head in Dhaka Michael Miller.",
+        "published_at": "2026-11-23T11:15:00+00:00",
+        "lead_bn": "ব্যবসায়ী খন্দকার নাঈম আহমেদ টিটন হত্যা মামলায় শীর্ষ অপরাধী এস এম আসলাম ওরফে সোয়েদন আসলামকে পাঁচ দিনের রিমান্ডে পাঠিয়েছে আদালত।",
+        "lead_en": "A Dhaka court has placed alleged top criminal SM Aslam, known as Sweden Aslam, on a five-day remand in a murder case.",
         "bullets_bn": [
-          "বাংলাদেশ ও ইইউর মধ্যে মুক্ত বাণিজ্য চুক্তি নিয়ে প্রাথমিক আলোচনা আগামী মাসে শুরু হওয়ার কথা রয়েছে।",
-          "ইউরোপীয় ইউনিয়ন ঢাকায় আগামী বছর ৫-৬ এপ্রিল প্রথম বাংলাদেশ-ইইউ বিজনেস অ্যান্ড ইনভেস্টমেন্ট ফোরামের পরিকল্পনা করছে।",
-          "চুক্তিতে শ্রম অধিকার, পরিবেশগত সুরক্ষা এবং সুশাসন কেন্দ্রীয় বিষয় হিসেবে থাকবে বলে জানানো হয়েছে।"
+          "ঢাকা মেট্রোপলিটন ম্যাজিস্ট্রেট মো. ইসমাইল ২৩ নভেম্বর এই আদেশ দেন।",
+          "ঢাকা মেট্রোপলিটন পুলিশের গোয়েন্দা বিভাগ সাত দিনের রিমান্ড আবেদন করেছিল।",
+          "প্রাথমিক তদন্তে হত্যাকাণ্ডে সোয়েদন আসলামের সরাসরি সম্পৃক্ততার তথ্য পাওয়া গেছে।"
         ],
         "bullets_en": [
-          "Exploratory discussions between the two sides for an FTA are scheduled to begin next month.",
-          "The EU is planning its first-ever Bangladesh-EU Business and Investment Forum in Dhaka on April 5-6 next year.",
-          "Labour rights, environmental protection and good governance will remain central to the proposed agreement."
+          "Dhaka Metropolitan Magistrate Md Ismail passed the order on 23 November.",
+          "The Detective Branch of Dhaka Metropolitan Police had sought a seven-day remand.",
+          "Preliminary investigations found information indicating Sweden Aslam was directly involved in the murder."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ইইউর পক্ষ থেকে জানানো হয়েছে যে এই ঘোষণাটি রাজনৈতিক, অর্থনৈতিক এবং নিরাপত্তা সহযোগিতা জোরদার করার একটি বৃহত্তর এজেন্ডার অংশ। ব্লকটি বাংলাদেশের সঙ্গে ঐতিহ্যগত দাতা-গ্রহীতার সম্পর্ক থেকে সরে এসে পারস্পরিক স্বার্থ এবং বিনিয়োগের ওপর ভিত্তি করে একটি পূর্ণাঙ্গ অংশীদারিত্বের দিকে এগিয়ে যাচ্ছে।",
-        "details_en": "The announcements came as the European Union outlined an agenda for strengthening political, economic and security cooperation with Bangladesh. The bloc is moving beyond its traditional donor-recipient relationship towards a partnership based on mutual interests, investment, economic security and shared values.",
-        "hook_bn": "মুক্ত বাণিজ্য চুক্তির জন্য প্রস্তুত ইউরোপীয় ইউনিয়ন",
-        "kicker_bn": "নতুন তারিখ",
+        "details_bn": "গোয়েন্দা পুলিশের রামনা জোনালের উপ-পরিদর্শক ও মামলার তদন্ত কর্মকর্তা মো. ইরফান খান সাত দিনের রিমান্ড চেয়ে আবেদন করেছিলেন। মামলার এজাহার অনুযায়ী, একটি গরুর হাটের ইজারা সংক্রান্ত দরপত্র সিডিউল নিয়ে টিটনের সঙ্গে সন্দেহভাজনদের বিরোধ ছিল। পুলিশ জানিয়েছে, পিন্টু হেলফ, কিলার বাদলসহ বেশ কয়েকজন পলাতক আসামি হত্যাকাণ্ডের সঙ্গে জড়িত রয়েছে।",
+        "details_en": "Sub-Inspector Md Irfan Khan of the DB's Ramna Zonal Team sought the remand. According to the petition, a dispute arose between Titon and suspects over a cattle market lease tender schedule. Investigators identified several absconding suspects including Pichchi Helal and Killer Badal.",
+        "hook_bn": "টিটন হত্যা মামলায় সোয়েদন আসলাম রিমান্ডে",
+        "kicker_bn": null,
         "share_value": false,
-        "question_bn": "মুক্ত বাণিজ্য চুক্তি বাস্তবায়িত হলে বাংলাদেশের অর্থনীতিতে এর কী প্রভাব পড়তে পারে বলে আপনি মনে করেন?"
+        "question_bn": null
       },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-23T11:03:40.046116+00:00"
+        "checked_at": "2026-11-23T12:01:41.972124+00:00"
       }
     },
     {
-      "story_id": "ccae0178-8247-5659-a159-15386e92c0d9",
+      "story_id": "c650a992-3db7-598b-b2ef-44b9c74c6ec8",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#BorderGuardBangladesh",
+        "#Mymensingh",
+        "#MohammadNasirUddin"
+      ],
+      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_5877807f835d2500b38dfd3cc565818b.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-23T12:00:53.670278+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 2.303,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/fugitives-arrested-if-they-cross-border-bangladesh-mymensingh-bgb-sector-commander",
+          "title": "Fugitives crossing border will be arrested: BGB commander",
+          "snippet": "Fugitives crossing border will be arrested: BGB commander"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সীমান্ত পেরিয়ে আসা পলাতক আসামিদের গ্রেপ্তার করা হবে: বিজিবি কমান্ডার",
+        "title_en": "Fugitives crossing border will be arrested: BGB commander",
+        "summary_bn": "বর্ডার গার্ড বাংলাদেশ সীমান্ত পেরিয়ে দেশে প্রবেশের চেষ্টাকারী যেকোনো বিতর্কিত পলাতক আসামিকে গ্রেপ্তার করবে বলে জানিয়েছেন এক বিজিবি কর্মকর্তা।",
+        "summary_en": "Border Guard Bangladesh will arrest any controversial fugitive attempting to enter the country by crossing the border, a BGB official said.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-23T12:00:53.670278+00:00",
+        "lead_bn": "বর্ডার গার্ড বাংলাদেশ সীমান্ত পেরিয়ে দেশে প্রবেশের চেষ্টাকারী যেকোনো বিতর্কিত পলাতক আসামিকে গ্রেপ্তার করবে বলে জানিয়েছেন এক বিজিবি কর্মকর্তা।",
+        "lead_en": "Border Guard Bangladesh will arrest any controversial fugitive attempting to enter the country by crossing the border, a BGB official said.",
+        "bullets_bn": [
+          "ময়মনসিংহ সেক্টরের সেক্টর কমান্ডার কর্নেল মোহাম্মদ নাসির উদ্দিন এই মন্তব্য করেন।",
+          "ময়মনসিংহ সেক্টর হেডকোয়ার্টারে আয়োজিত এক সংবাদ সম্মেলনে তিনি এই বক্তব্য দেন।",
+          "সার্বিক সীমান্ত নিরাপত্তা পরিস্থিতি নিয়ে সংবাদ সম্মেলনে সাংবাদিকদের কাছে এই কথাগুলো তুলে ধরা হয়।"
+        ],
+        "bullets_en": [
+          "Colonel Mohammad Nasir Uddin is the sector commander of the BGB's Mymensingh Sector.",
+          "He made the remarks during a media briefing held at the Mymensingh Sector Headquarters.",
+          "The briefing was convened to discuss the overall border security situation with reporters."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "সীমান্ত পেরিয়ে আসা পলাতক আসামিরা গ্রেপ্তার হবে",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": null
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-23T12:01:41.972124+00:00"
+      }
+    },
+    {
+      "story_id": "aa1b577c-1a81-5e98-a671-9a5acad1d342",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
       ],
       "region": "international",
       "tags": [
-        "#Kyiv",
-        "#Ukraine",
-        "#Russia"
+        "#VolodymyrZelensky",
+        "#Libya",
+        "#Russia",
+        "#Ukraine"
       ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-23T075010Z_1397359685_RC2JTOA0Y61N_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-REGION-1795420311.jpg?resize=1200%2C630",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7507/live/ee06aa60-e720-11f1-a094-5fdc692f3e33.jpg",
       "image_caption": null,
-      "published_at": "2026-11-23T09:34:25+00:00",
+      "published_at": "2026-11-23T11:40:01+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.3079,
+      "importance_score": 2.55,
+      "rank_score": 0.637,
       "sources": [
         {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+          "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+          "snippet": "Russian warship hit by Ukrainian drones in Libya, Zelensky says"
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
+          "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+          "snippet": "Ukraine confirms it used naval drones to strike two Russian ships off Libya"
+        },
+        {
           "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss",
-          "title": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks",
-          "snippet": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks"
+          "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
+          "title": "Zelenskyy says Ukraine was behind drone attacks on Russian ships off Libya",
+          "snippet": "Zelenskyy says Ukraine was behind drone attacks on Russian ships off Libya"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইউক্রেনের কিয়েভ অঞ্চলে রাশিয়ার হামলায় কমপক্ষে ১৫ জন নিহত হয়েছে।",
-        "title_en": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks.",
-        "summary_bn": "ইউক্রেনের কিয়েভ অঞ্চলে রাশিয়ার হামলায় কমপক্ষে ১৫ জন নিহত হয়েছে এবং ধসে পড়া ভবনের নিচে আটকে থাকা লোকজনকে উদ্ধারে অভিযান চলছে।",
-        "summary_en": "At least 15 people have been killed in Russian attacks in Ukraine’s Kyiv region, as rescuers race to find trapped residents.",
+        "title_bn": "লিবিয়ায় ইউক্রেনের ড্রোন হামলায় রুশ যুদ্ধজাহাজ ডুবে গেছে।",
+        "title_en": "Ukrainian drone attack sinks Russian warship in Libya.",
+        "summary_bn": "প্রেসিডেন্ট ভলোদিমির জেলেনস্কি জানিয়েছেন, লিবিয়ার একটি বন্দরে ইউক্রেনীয় ড্রোনের আঘাতে একটি রুশ যুদ্ধজাহাজ ডুবে গেছে।",
+        "summary_en": "President Volodymyr Zelensky said a Russian warship was sunk by Ukrainian drones at a port in Libya.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-23T09:34:25+00:00",
-        "lead_bn": "ইউক্রেনের কিয়েভ অঞ্চলে রাশিয়ার হামলায় কমপক্ষে ১৫ জন নিহত হয়েছে এবং ধসে পড়া ভবনের নিচে আটকে থাকা লোকজনকে উদ্ধারে অভিযান চলছে।",
-        "lead_en": "At least 15 people have been killed in Russian attacks in Ukraine’s Kyiv region, as rescuers race to find trapped residents.",
+        "published_at": "2026-11-23T11:40:01+00:00",
+        "lead_bn": "প্রেসিডেন্ট ভলোদিমির জেলেনস্কি জানিয়েছেন, লিবিয়ার একটি বন্দরে ইউক্রেনীয় ড্রোনের আঘাতে একটি রুশ যুদ্ধজাহাজ ডুবে গেছে।",
+        "lead_en": "President Volodymyr Zelensky said a Russian warship was sunk by Ukrainian drones at a port in Libya.",
         "bullets_bn": [
-          "কিয়েভ থেকে প্রায় ৪৫ কিলোমিটার উত্তরে দাইমেরে একটি পাঁচতলা ভবনে রাতের হামলায় অন্তত ১১ জন নিহত হয়েছেন।",
-          "নিহতদের মধ্যে একজন কিশোর রয়েছে এবং উদ্ধারকারীরা ১১ জনের খোঁজ করছেন যারা সাড়া দিচ্ছেন না।",
-          "উদ্ধারকর্মীরা ধ্বংসস্তূপ থেকে ৭৯ বছর বয়সী এক নারী ও একটি শিশুকে জীবিত উদ্ধার করেছেন।"
+          "সাতটি নৌ ড্রোন ব্যবহার করে রাশিয়ার অন্যতম নতুন জাহাজ কর্ভেট মের্কুরি এবং একটি কা-২৭ যুদ্ধ হেলিকপ্টার ধ্বংস করা হয়েছে।",
+          "ইউক্রেনের সিকিউরিটি সার্ভিস জানিয়েছে যে মাদারশিপ থেকে সাতটি দেশীয় নৌ ড্রোন নিক্ষেপ করা হয়েছিল।",
+          "ইউক্রেনীয় প্রেসিডেন্ট বলেছেন যে দ্বিতীয় জাহাজটি ছিল রাশিয়ান কন্টেইনার ক্যারিয়ার এমভি অঙ্গারা।"
         ],
         "bullets_en": [
-          "An overnight strike on Dymer, about 45km north of the capital, hit a five-storey building, killing at least 11 people.",
-          "The dead included a teenager, and rescuers were searching for 11 people who were not responding or cannot be reached.",
-          "Rescuers managed to pull out survivors from the rubble, including a 79-year-old woman and a child."
+          "Seven naval drones were deployed to target and sink the corvette Merkury, and a Ka-27 combat helicopter was destroyed.",
+          "Ukraine's security service said seven domestically-made naval drones were launched from a mothership in the operation.",
+          "The Ukrainian president said the second ship was the MV Angara, a Russian container carrier."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "মস্কো ইউক্রেনে নিয়মিত ড্রোন ও ক্ষেপণাস্ত্র হামলা চালিয়ে যাচ্ছে। যুদ্ধবিধ্বস্ত এই দেশটি আরেকটি শীতের জন্য প্রস্তুতি নিচ্ছে এবং এর পূর্ণাঙ্গ আগ্রাসন পঞ্চম বছরে গড়াল।",
-        "details_en": "Moscow has been pummelling Ukraine with nightly drone and missile barrages as the war-torn country braces for another winter while the full-scale invasion grinds through its fifth year.",
-        "hook_bn": "কিয়েভে রাশিয়ার হামলায় নিহত ১৫",
+        "details_bn": "পূর্ব লিবিয়া নিয়ন্ত্রণকারী সরকার জানিয়েছে যে বেনগাজি নেভাল বেসে রাশিয়া ফেরার আগে জ্বালানি ও সরবরাহের জন্য ডকিং করার সময় যুদ্ধজাহাজে বিস্ফোরণ ঘটে। স্বাস্থ্য মন্ত্রণালয় জানিয়েছে যে বন্দরের উপকূলে লক্ষ্যবস্তু হওয়া একটি বাণিজ্যিক জাহাজ থেকে আহত ব্যক্তিদের তারা গ্রহণ করেছে। ক্রেমলিন এই হামলার বিষয়ে মন্তব্য করতে অস্বীকার করেছে।",
+        "details_en": "The government that controls eastern Libya said there had been an explosion on the warship at the Benghazi naval base while it was docking for fuel and supplies ahead of its return to Russia. The health ministry said it had received injured people from a commercial ship targeted off the coast. The Kremlin declined to comment on the attack.",
+        "hook_bn": "লিবিয়ায় রুশ যুদ্ধজাহাজ ডুবিয়ে দিল ইউক্রেন",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 4.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-23T11:03:40.046116+00:00"
+        "checked_at": "2026-11-23T12:01:41.972124+00:00"
+      }
+    },
+    {
+      "story_id": "75592a6d-a0ea-53fa-898a-7e94b05eded1",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#BangladeshGarments",
+        "#MinimumWage",
+        "#Gazipur"
+      ],
+      "image_url": "https://th-i.thgim.com/public/incoming/wpd2dq/article71734360.ece/alternates/LANDSCAPE_1200/2026-11-23T102454Z_1721171661_RC2MTOAJGE9T_RTRMADP_3_BANGLADESH-GARMENTS.JPG",
+      "image_caption": null,
+      "published_at": "2026-11-23T11:05:43+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.546,
+      "sources": [
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/bangladesh-garment-makers-eye-15-wage-hike-far-short-of-workers-demand/article71734242.ece",
+          "title": "Bangladesh garment makers eye 15% wage hike, far short of workers' demand",
+          "snippet": "Bangladesh garment makers eye 15% wage hike, far short of workers' demand"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পোশাক প্রস্তুতকারকেরা প্রায় ১৫ শতাংশ ন্যূনতম মজুরি বৃদ্ধির প্রস্তাব করতে পারেন",
+        "title_en": "Garment makers could propose roughly 15% minimum wage increase",
+        "summary_bn": "বাংলাদেশের পোশাক প্রস্তুতকারকেরা ন্যূনতম মাসিক মজুরি প্রায় ১৫ শতাংশ বাড়ানোর প্রস্তাব করতে পারেন, যা শ্রমিকদের দাবির চেয়ে অনেক কম।",
+        "summary_en": "Bangladesh garment manufacturers could propose a roughly 15 percent increase in the minimum monthly wage at talks, far short of workers demands.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-23T11:05:43+00:00",
+        "lead_bn": "বাংলাদেশের পোশাক প্রস্তুতকারকেরা ন্যূনতম মাসিক মজুরি প্রায় ১৫ শতাংশ বাড়ানোর প্রস্তাব করতে পারেন, যা শ্রমিকদের দাবির চেয়ে অনেক কম।",
+        "lead_en": "Bangladesh garment manufacturers could propose a roughly 15 percent increase in the minimum monthly wage at talks, far short of workers demands.",
+        "bullets_bn": [
+          "শ্রমিকেরা ন্যূনতম মাসিক মজুরি ১২,৫০০ টাকা থেকে বাড়িয়ে ৩০,০০০ টাকা করার দাবি জানিয়েছেন।",
+          "খাদ্য, বাসস্থান এবং যাতায়াত খরচ বাড়ার কারণে শ্রমিকেরা এই দাবি তুলেছেন।",
+          "খাতের নেতারা জানান, ১৫ শতাংশের বেশি বৃদ্ধি টেকসই হবে না কারণ খাতটি খরচ ও দুর্বল বৈশ্বিক চাহিদার মুখোমুখি।"
+        ],
+        "bullets_en": [
+          "Workers are demanding a rise in the minimum monthly wage to 30,000 taka from 12,500 taka.",
+          "Workers cited soaring food, housing and transport costs for their wage demands.",
+          "Industry leaders said an increase of more than 15 percent would be unsustainable as the sector grapples with rising costs."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "নভেম্বরের শুরু থেকে মজুরি নিয়ে অস্থিরতার কারণে বিশ্বের দ্বিতীয় বৃহত্তম পোশাক রপ্তানিকারক দেশে শাটডাউন ও সহিংসতা দেখা দিয়েছে। এই শিল্পে ৪০ লক্ষেরও বেশি শ্রমিক কাজ করে এবং এইচ অ্যান্ড এম, গ্যাপ ও ওয়ালমার্টের মতো প্রধান বিশ্বব্যাপী খুচরা বিক্রেতাদের সরবরাহ করে। এই খাতের রপ্তানি আয় দেশের মোট রপ্তানি আয়ের ৮০ শতাংশেরও বেশি।",
+        "details_en": "Since early November, unrest over wages has led to shutdowns and violence in the world's second-largest garment exporter, which employs over 4 million workers and provides supplies for major global retailers including H and M, Gap and Walmart. The industry generates more than 80 percent of the country's export earnings.",
+        "hook_bn": "মজুরি বাড়ছে প্রায় ১৫ শতাংশ",
+        "kicker_bn": "মজুরি বৃদ্ধি",
+        "share_value": false,
+        "question_bn": "পোশাক খাতের বর্তমান পরিস্থিতি নিয়ে আপনার মতামত কী?"
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-23T12:01:41.972124+00:00"
       }
     }
   ]
