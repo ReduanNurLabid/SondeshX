@@ -1,405 +1,176 @@
 {
-  "updated_at": "2026-11-23T17:00:53.439065",
-  "total_stories": 6,
+  "updated_at": "2026-11-23T18:00:43.081010",
+  "total_stories": 2,
   "stories": [
     {
-      "story_id": "3ac42bcd-6217-575a-8c50-beb8d167d212",
+      "story_id": "7dde679a-488c-52b4-a3f2-2651e1cb3c86",
       "primary_category": "governance_law",
       "interest_categories": [
+        "governance_law",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Gopalganj",
+        "#AwamiLeague",
+        "#Clash"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/23/screenshot_2026-11-23_234723.png",
+      "image_caption": null,
+      "published_at": "2026-11-23T17:40:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.75,
+      "rank_score": 5.8834,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/least-20-injured-clash-between-two-al-factions-gopalganj-1612076",
+          "title": "At least 20 injured in clash between two AL factions in Gopalganj",
+          "snippet": "At least 20 injured in clash between two AL factions in Gopalganj"
+        },
+        {
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/bangladesh/district/rr5h0e1jkk",
+          "title": "গোপালগঞ্জে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের দুই পক্ষে সংঘর্ষ, ককটেল বিস্ফোরণ ও ভাঙচুর",
+          "snippet": "গোপালগঞ্জে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের দুই পক্ষে সংঘর্ষ, ককটেল বিস্ফোরণ ও ভাঙচুর"
+        },
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/rbxanwk8ja",
+          "title": "গোপালগঞ্জ সদরের পর কোটালীপাড়াতেও কার্যক্রম নিষিদ্ধ আওয়ামী লীগের দুই পক্ষে সংঘর্ষ",
+          "snippet": "গোপালগঞ্জ সদরের পর কোটালীপাড়াতেও কার্যক্রম নিষিদ্ধ আওয়ামী লীগের দুই পক্ষে সংঘর্ষ"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/nation/425565/20-injured-in-gopalganj-clashes-between-two-awami",
+          "title": "20 injured in Gopalganj clashes between two Awami League groups, 4 shot",
+          "snippet": "20 injured in Gopalganj clashes between two Awami League groups, 4 shot"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "গোপালগঞ্জে আওয়ামী লীগের দুই পক্ষের সংঘর্ষে অন্তত ২০ জন আহত",
+        "title_en": "At least 20 injured in Awami League factional clash in Gopalganj",
+        "summary_bn": "২৩ নভেম্বর গোপালগঞ্জ সদর উপজেলায় কার্যক্রম নিষিদ্ধ আওয়ামী লীগের দুই পক্ষের সংঘর্ষে অন্তত ২০ জন আহত হয়েছেন।",
+        "summary_en": "At least 20 people were injured during a clash between two factions of the activities-banned Awami League in Gopalganj Sadar upazila on 23 November.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-23T17:40:00+00:00",
+        "lead_bn": "২৩ নভেম্বর গোপালগঞ্জ সদর উপজেলায় কার্যক্রম নিষিদ্ধ আওয়ামী লীগের দুই পক্ষের সংঘর্ষে অন্তত ২০ জন আহত হয়েছেন।",
+        "lead_en": "At least 20 people were injured during a clash between two factions of the activities-banned Awami League in Gopalganj Sadar upazila on 23 November.",
+        "bullets_bn": [
+          "দেশীয় অস্ত্রে সজ্জিত দুই পক্ষ গোপালগঞ্জ ক্রিকেট স্টেডিয়ামের পাশের সড়কে ককটেল বিস্ফোরণ ঘটায় এবং দোকানপাট ভাঙচুর করে।",
+          "গুরুতর আহত পাঁচজনকে গোপালগঞ্জ মেডিকেল কলেজ হাসপাতালে ভর্তি করা হয়েছে এবং অন্যেরা স্থানীয়ভাবে চিকিৎসা নিয়েছেন।",
+          "মতামতের জন্য গোপালগঞ্জ সদর থানার কর্মকর্তা ইনচার্জ মো. আমিনুল ইসলামের সাথে ফোনে যোগাযোগের চেষ্টা করা হলেও তাকে পাওয়া যায়নি।"
+        ],
+        "bullets_en": [
+          "Clashing groups armed with local weapons exploded crude bombs and vandalised shops on a road beside Gopalganj Cricket Stadium.",
+          "Five seriously injured individuals were admitted to Gopalganj Medical College Hospital, while others received local treatment.",
+          "Attempts to contact Gopalganj Sadar Police Station Officer-in-Charge Md Aminul Islam by phone were unsuccessful."
+        ],
+        "impact_bn": "ককটেল বিস্ফোরণ ও দোকানপাট ভাঙচুরের ঘটনায় স্থানীয় বাসিন্দা, ব্যবসায়ী ও পথচারীদের মধ্যে আতঙ্ক ছড়িয়ে পড়ে।",
+        "impact_en": "The explosion of crude bombs and shop vandalism spread panic among local residents, businesspeople, and passers-by.",
+        "details_bn": "লঞ্চঘাট এলাকা থেকে বের হওয়া একটি মিছিল চলাকালে এক যুবককে মারধরের ঘটনা কেন্দ্র করে উত্তেজনার সূত্রপাত হয়। পরে স্টেডিয়ামের পাশে দুই পক্ষের কর্মীরা ধাওয়া-পাল্টাধাওয়ায় জড়ায়। এছাড়া কোটালীপাড়া উপজেলার দক্ষিণ হিরণ গ্রামেও কার্যক্রম নিষিদ্ধ দলটির দুই পক্ষের মধ্যে সংঘর্ষের খবর পাওয়া গেছে।",
+        "details_en": "Tension began after several youths beat a young man during a procession that started from the Launch Ghat area. Later, armed activists engaged in chases and counter-chases near the stadium. Another clash between two factions of the activities-banned party was also reported in South Hiran village of Kotalipara upazila.",
+        "hook_bn": "গোপালগঞ্জে আওয়ামী লীগের দুই পক্ষে সংঘর্ষ",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 4,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-23T18:04:48.343806+00:00"
+      }
+    },
+    {
+      "story_id": "df984b57-16b9-55fe-8d26-8e9430e60286",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#ChattogramPort",
+        "#EverestPortServices",
+        "#SaifPowertec",
+        "#CCT"
       ],
-      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/ctg-2-20261123222512.JPG?cid=500338",
+      "image_url": "https://images.unsplash.com/photo-1647311075842-ca25db57304d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZXZlcmVzdCUyMHBvcnQlMjBzZXJ2aWNlcyUyMHJlcGxhY2VzJTIwYnVzaW5lc3N8ZW58MXwwfHx8MTc5NTQ1NzA4NHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-23T16:25:12+00:00",
+      "published_at": "2026-11-23T18:00:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 4.2023,
+      "importance_score": 6.5,
+      "rank_score": 4.219,
       "sources": [
         {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/politics/500338",
-          "title": "সংসদ সদস্য ফজলুর রহমানকে শৃঙ্খলিত করুন, প্রধানমন্ত্রীর উদ্দেশে সিফাত",
-          "snippet": "সংসদ সদস্য ফজলুর রহমানকে শৃঙ্খলিত করুন, প্রধানমন্ত্রীর উদ্দেশে সিফাত"
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/economy/news/everest-replaces-saif-powertec-interim-cct-operator-4331546",
+          "title": "Everest replaces Saif Powertec as interim CCT operator",
+          "snippet": "Everest replaces Saif Powertec as interim CCT operator"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/everest-port-services-wins-6-month-container-terminal-contract-amid-short-bidding-window",
+          "title": "Everest Port Services wins 6-month container terminal contract amid short bidding window controversy",
+          "snippet": "Everest Port Services wins 6-month container terminal contract amid short bidding window controversy"
+        },
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/business/economics/kmpqpe9wzn",
+          "title": "ছয় মাসের জন্য সিসিটির দায়িত্ব পেল সংসদ সদস্যের পারিবারিক প্রতিষ্ঠান এভারেস্ট",
+          "snippet": "ছয় মাসের জন্য সিসিটির দায়িত্ব পেল সংসদ সদস্যের পারিবারিক প্রতিষ্ঠান এভারেস্ট"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জাতীয় ঐক্যের আগে সংসদ সদস্য ফজলুর রহমানকে শৃঙ্খল করার দাবি এনসিপি নেতার",
-        "title_en": "NCP leader demands Prime Minister restrain MP Fazlur Rahman before national unity call",
-        "summary_bn": "জাতীয় ঐক্যের আহ্বান জানানোর আগে সংসদ সদস্য ফজলুর রহমানকে শৃঙ্খলিত করার জন্য প্রধানমন্ত্রীর প্রতি আহ্বান জানিয়েছেন এনসিপির যুগ্ম সদস্যসচিব সালেহ উদ্দিন সিফাত।",
-        "summary_en": "NCP joint member secretary Saleh Uddin Sifat called on the Prime Minister to restrain MP Fazlur Rahman before calling for national unity.",
+        "title_bn": "চট্টগ্রাম কনটেইনার টার্মিনাল পরিচালনায় সাইফ পাওয়ারটেকের স্থলাভিষিক্ত হলো এভারেস্ট পোর্ট সার্ভিসেস",
+        "title_en": "Everest Port Services replaces Saif Powertec to operate Chittagong Container Terminal",
+        "summary_bn": "চট্টগ্রাম বন্দরের চট্টগ্রাম কনটেইনার টার্মিনাল ছয় মাসের জন্য পরিচালনার চুক্তি পেয়েছে স্থানীয় প্রতিষ্ঠান এভারেস্ট পোর্ট সার্ভিসেস লিমিটেড, যা সাইফ পাওয়ারটেক লিমিটেডের স্থলাভিষিক্ত হয়েছে।",
+        "summary_en": "Everest Port Services Ltd has secured a six-month contract to operate the Chittagong Container Terminal at Chattogram port, replacing local operator Saif Powertec Ltd.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "economy_business",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-23T16:25:12+00:00",
-        "lead_bn": "জাতীয় ঐক্যের আহ্বান জানানোর আগে সংসদ সদস্য ফজলুর রহমানকে শৃঙ্খলিত করার জন্য প্রধানমন্ত্রীর প্রতি আহ্বান জানিয়েছেন এনসিপির যুগ্ম সদস্যসচিব সালেহ উদ্দিন সিফাত।",
-        "lead_en": "NCP joint member secretary Saleh Uddin Sifat called on the Prime Minister to restrain MP Fazlur Rahman before calling for national unity.",
+        "published_at": "2026-11-23T18:00:00+00:00",
+        "lead_bn": "চট্টগ্রাম বন্দরের চট্টগ্রাম কনটেইনার টার্মিনাল ছয় মাসের জন্য পরিচালনার চুক্তি পেয়েছে স্থানীয় প্রতিষ্ঠান এভারেস্ট পোর্ট সার্ভিসেস লিমিটেড, যা সাইফ পাওয়ারটেক লিমিটেডের স্থলাভিষিক্ত হয়েছে।",
+        "lead_en": "Everest Port Services Ltd has secured a six-month contract to operate the Chittagong Container Terminal at Chattogram port, replacing local operator Saif Powertec Ltd.",
         "bullets_bn": [
-          "সিফাত অভিযোগ করেন, সংসদ সদস্য ফজলুর রহমান জুলাই যোদ্ধাদের নিয়ে অপমানজনক মন্তব্য করছেন এবং পুলিশ হত্যা নিয়ে গুজব ছড়াচ্ছেন।",
-          "তিনি দাবি করেন, গণভোটের জনরায় অস্বীকার করে একদলীয় সংসদীয় কমিটি গঠনকারীরাই মূলত রাজনৈতিক ঐক্য ভেঙেছে।",
-          "আওয়ামী লীগের কর্মকাণ্ডে জড়িতদের বিচারের মুখোমুখি করতে বিচারপ্রক্রিয়া দ্রুত করার আহ্বান জানান এই এনসিপি নেতা।"
+          "নৌপরিবহন মন্ত্রণালয়ের অনুমোদনের পর সাইফ পাওয়ারটেকের মেয়াদের শেষে রাত ১২টা থেকে আনুষ্ঠানিকভাবে দায়িত্ব নেয় এভারেস্ট পোর্ট সার্ভিসেস।",
+          "চট্টগ্রাম বন্দর কর্তৃপক্ষ জানায়, চারটি দরদাতা প্রতিষ্ঠানের মধ্যে এভারেস্ট সর্বনিম্ন ৩০.১৫ কোটি টাকার প্রস্তাব জমা দিয়ে কাজ পেয়েছে।",
+          "এভারেস্ট পোর্ট সার্ভিসেসের অন্যতম পরিচালক হলেন লক্ষ্মীপুর-১ আসনের বিএনপি সংসদ সদস্য শাহাদাত হোসেন সেলিম।"
         ],
         "bullets_en": [
-          "Sifat alleged that MP Fazlur Rahman made derogatory comments about July warriors and spread rumors regarding police killings.",
-          "He claimed that those who rejected the referendum verdict and formed a single-party parliamentary committee broke the unity.",
-          "The NCP leader called for expediting trial processes to bring those involved in Awami League activities to justice."
+          "Everest officially took over operations at 12:00am after Saif Powertec's extended contract expired following shipping ministry approval.",
+          "Chittagong Port Authority said Everest was selected after quoting the lowest bid of Tk 30.15 crore among four participating companies.",
+          "Shahadat Hossain Selim, a BNP lawmaker from Lakshmipur-1, is one of the directors of Everest Port Services."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "চট্টগ্রাম নগরের নিউ মার্কেট এলাকায় চার দফা দাবিতে আয়োজিত বিক্ষোভ সমাবেশে সালেহ উদ্দিন সিফাত বক্তব্য দেন। সমাবেশ শেষে একটি বিক্ষোভ মিছিল আন্দরকিল্লা শাহি জামে মসজিদের সামনে গিয়ে শেষ হয়। এতে এনসিপির কেন্দ্রীয় সিনিয়র যুগ্ম আহ্বায়ক নাসীরুদ্দীন পাটওয়ারীসহ স্থানীয় নেতারা অংশ নেন। সিফাত অভিযোগ করেন, আওয়ামী লীগের সাম্প্রতিক কর্মকাণ্ডের পেছনে ভারতীয় আধিপত্যবাদের ইন্ধন রয়েছে।",
-        "details_en": "Saleh Uddin Sifat spoke at a protest rally demanding four points in Chittagong city's New Market area. Following the rally, a protest march ended in front of Anderkilla Shahi Jama Masjid. Central senior joint convener Nasiruddin Patwari and local leaders participated in the program. Sifat alleged that recent activities in the name of Awami League are backed by Indian hegemony.",
-        "hook_bn": "'জাতীয় ঐক্যের আগে সংসদ সদস্যকে শৃঙ্খলিত করতে হবে'",
+        "details_bn": "এভারেস্ট পোর্ট সার্ভিসেস ইতোমধ্যে চট্টগ্রাম বন্দরের জেনারেল কার্গো বার্থের ছয়টি কনটেইনার জেটির একটি পরিচালনা করছে। সিসিটি পরিচালনার দরপত্রে বিঅ্যান্ডএম ওশেনিয়া জেভি, শামীম এন্টারপ্রাইজ (প্রা:) লিমিটেড এবং দ্য সিভিল ইঞ্জিনিয়ার্স লিমিটেডসহ মোট চারটি প্রতিষ্ঠান অংশ নেয়। এর মধ্যে দুটি প্রতিষ্ঠান কারিগরি ও আর্থিকভাবে উপযুক্ত বিবেচিত হয়েছিল।",
+        "details_en": "Everest Port Services already operates one of the six container jetties at the port's General Cargo Berth. Four companies submitted financial offers for the contract, including B&M Oceania JV, Shamim Enterprise (Pvt) Ltd, and The Civil Engineers Ltd, of which two were found technically and financially responsive.",
+        "hook_bn": "চট্টগ্রাম কনটেইনার টার্মিনালের দায়িত্বে এভারেস্ট",
         "kicker_bn": null,
         "share_value": false,
-        "question_bn": "রাজনৈতিক দলগুলোর মধ্যকার জাতীয় ঐক্য প্রতিষ্ঠার ভিত্তি কী হওয়া উচিত বলে আপনি মনে করেন?"
+        "question_bn": "চট্টগ্রাম বন্দরের পরিচালনা চুক্তি প্রক্রিয়া নিয়ে আপনার বক্তব্য কী?"
       },
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-23T17:14:05.927648+00:00"
-      }
-    },
-    {
-      "story_id": "409ac355-f356-5c84-9138-db9c878251e4",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://videos.channelionline.com/og?src=https%3A%2F%2Fmedia.channelionline.com%2F2026%2F11%2F01-6.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-23T15:38:09+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 4.0162,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/pm-calls-unity-against-fascism/",
-          "title": "ফ্যাসিবাদবিরোধী সব শক্তিকে ঐক্যবদ্ধ থাকার আহ্বান প্রধানমন্ত্রীর",
-          "snippet": "ফ্যাসিবাদবিরোধী সব শক্তিকে ঐক্যবদ্ধ থাকার আহ্বান প্রধানমন্ত্রীর"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ফ্যাসিবাদবিরোধী সব রাজনৈতিক শক্তিকে ঐক্যবদ্ধ থাকার আহ্বান জানিয়েছেন প্রধানমন্ত্রী তারেক রহমান",
-        "title_en": "Prime Minister Tarique Rahman calls on anti-fascist political forces to remain united",
-        "summary_bn": "জাতীয় নাগরিক পার্টির প্রতিনিধিদলের সঙ্গে বৈঠক শেষে প্রধানমন্ত্রী তারেক রহমান ফ্যাসিবাদবিরোধী সব রাজনৈতিক শক্তিকে ঐক্যবদ্ধ থাকার আহ্বান জানিয়েছেন।",
-        "summary_en": "Prime Minister Tarique Rahman called on all anti-fascist political forces to remain united following a meeting with a National Citizen Party delegation.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T15:38:09+00:00",
-        "lead_bn": "জাতীয় নাগরিক পার্টির প্রতিনিধিদলের সঙ্গে বৈঠক শেষে প্রধানমন্ত্রী তারেক রহমান ফ্যাসিবাদবিরোধী সব রাজনৈতিক শক্তিকে ঐক্যবদ্ধ থাকার আহ্বান জানিয়েছেন।",
-        "lead_en": "Prime Minister Tarique Rahman called on all anti-fascist political forces to remain united following a meeting with a National Citizen Party delegation.",
-        "bullets_bn": [
-          "প্রধানমন্ত্রীর কার্যালয়ের মুখপাত্র ও উপদেষ্টা মাহাদী আমিন বৈঠক শেষে প্রধানমন্ত্রীর এই আহ্বানের কথা জানান।",
-          "জুলাই গণ-অভ্যুত্থানের মধ্য দিয়ে গড়ে ওঠা ঐক্য সরকার আরও সুসংহত করতে চায় বলে মাহাদী আমিন জানান।",
-          "জুলাই সনদ বাস্তবায়নে সরকারের পক্ষ থেকে কোনো বিচ্যুতি হবে না বলে তিনি উল্লেখ করেন।"
-        ],
-        "bullets_en": [
-          "Prime Minister Office spokesman and adviser Mahadi Amin announced the call following the meeting.",
-          "Mahadi Amin said the government wants to further consolidate the unity forged during the July mass uprising.",
-          "He added that there will be no deviation in implementing the July Charter."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "'জুলাই সনদ বাস্তবায়নে কোনো বিচ্যুতি হবে না'",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": "জুলাই সনদ বাস্তবায়ন নিয়ে আপনার মতামত কী?"
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-23T17:14:05.927648+00:00"
-      }
-    },
-    {
-      "story_id": "0c73a389-2df3-582b-89d3-2eb84affc0f9",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://www.channelionline.com/opengraph-image",
-      "image_caption": null,
-      "published_at": "2026-11-23T15:35:58+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 4.0078,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/eu-welcomes-pm-talks-opposition-parties/",
-          "title": "বিরোধী দলগুলোর সাথে প্রধানমন্ত্রীর সংলাপকে স্বাগত জানিয়েছে ইইউ",
-          "snippet": "বিরোধী দলগুলোর সাথে প্রধানমন্ত্রীর সংলাপকে স্বাগত জানিয়েছে ইইউ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বিরোধী দলগুলোর সাথে প্রধানমন্ত্রীর সংলাপের উদ্যোগকে স্বাগত জানিয়েছে ইইউ",
-        "title_en": "EU welcomes Prime Minister's dialogue initiative with opposition parties",
-        "summary_bn": "চলমান রাজনৈতিক পরিস্থিতি মোকাবিলায় বিরোধী দলগুলোর সাথে প্রধানমন্ত্রীর সংলাপের উদ্যোগকে স্বাগত জানিয়েছে ইউরোপীয় ইউনিয়ন।",
-        "summary_en": "The European Union has welcomed the Prime Minister's initiative to hold a dialogue with opposition parties to address the ongoing political situation.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T15:35:58+00:00",
-        "lead_bn": "চলমান রাজনৈতিক পরিস্থিতি মোকাবিলায় বিরোধী দলগুলোর সাথে প্রধানমন্ত্রীর সংলাপের উদ্যোগকে স্বাগত জানিয়েছে ইউরোপীয় ইউনিয়ন।",
-        "lead_en": "The European Union has welcomed the Prime Minister's initiative to hold a dialogue with opposition parties to address the ongoing political situation.",
-        "bullets_bn": [
-          "ইইউ রাষ্ট্রদূত মাইকেল মিলার মনে করেন যে সহিংসতা দমনে সরকার বর্তমানে সংযত আচরণ করছে।",
-          "ডিক্যাব টকে মিলার বলেন, মত প্রকাশের নামে কোনো ধরনের সহিংসতা কাম্য নয়।",
-          "রাষ্ট্রদূত অতীতের মানবাধিকার লঙ্ঘনের বিচার, জবাবদিহি, আইনের শাসন এবং বর্তমান সহিংসতা পরিহারের ওপর গুরুত্ব দেন।"
-        ],
-        "bullets_en": [
-          "EU Ambassador Michael Miller believes that the government is behaving with restraint in suppressing violence.",
-          "Speaking at DCAB Talk, Miller stated that any form of violence in the name of freedom of expression is not desirable.",
-          "The Ambassador emphasized justice for past human rights violations, accountability, the rule of law, and avoiding current violence."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "আওয়ামী লীগের নিষেধাজ্ঞা বা রাজনৈতিক কার্যক্রম নিয়ে সরাসরি কোনো মন্তব্য না করলেও ইইউ রাষ্ট্রদূত মাইকেল মিলার অতীতের মানবাধিকার লঙ্ঘনের বিচার, জবাবদিহি এবং আইনের শাসনের ওপর গুরুত্ব দেন। ডিক্যাব টকে দেওয়া বক্তব্যে তিনি এই বিষয়গুলো তুলে ধরেন।",
-        "details_en": "EU Ambassador Michael Miller did not comment directly on the ban or political activities of the Awami League. However, he emphasized the importance of justice for past human rights violations, accountability, and the rule of law. These remarks were made during his speech at the DCAB Talk event.",
-        "hook_bn": "'মত প্রকাশের নামে সহিংসতা কাম্য নয়'",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-23T17:14:05.927648+00:00"
-      }
-    },
-    {
-      "story_id": "7f675a07-4d60-5f6d-ba82-88defad48a08",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#TariqueRahman",
-        "#Swarnadwip",
-        "#BangladeshArmedForces",
-        "#MilitaryExercise"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/10/22/bss_photo_pm_tarique_rahman.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-23T16:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 3.0,
-      "rank_score": 0.8474,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/pm-visit-noakhalis-swarnadwip-tomorrow-witness-joint-military-exercise-1612041",
-          "title": "PM to visit Noakhali's Swarnadwip tomorrow to witness joint military exercise",
-          "snippet": "PM to visit Noakhali's Swarnadwip tomorrow to witness joint military exercise"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/pm-to-visit-swarnadwip-on-tuesday-to-witness-joint-military-exercise",
-          "title": "PM to visit Swarnadwip on Tuesday to witness joint military exercise",
-          "snippet": "PM to visit Swarnadwip on Tuesday to witness joint military exercise"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "স্বর্ণদ্বীপে যৌথ সামরিক মহড়া পরিদর্শন করবেন প্রধানমন্ত্রী তারেক রহমান",
-        "title_en": "PM Tarique Rahman to witness joint military exercise at Swarnadwip",
-        "summary_bn": "নোয়াখালীর স্বর্ণদ্বীপে তিন বাহিনীর যৌথ বিশেষ বল মহড়া-১, ২০২৬-এর চূড়ান্ত পর্ব পর্যবেক্ষণ করতে ২৪ নভেম্বর পরিদর্শনে যাবেন প্রধানমন্ত্রী তারেক রহমান।",
-        "summary_en": "Prime Minister Tarique Rahman will visit Swarnadwip in Noakhali on 24 November to observe the final phase of Joint Special Forces Exercise-1, 2026.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T16:00:00+00:00",
-        "lead_bn": "নোয়াখালীর স্বর্ণদ্বীপে তিন বাহিনীর যৌথ বিশেষ বল মহড়া-১, ২০২৬-এর চূড়ান্ত পর্ব পর্যবেক্ষণ করতে ২৪ নভেম্বর পরিদর্শনে যাবেন প্রধানমন্ত্রী তারেক রহমান।",
-        "lead_en": "Prime Minister Tarique Rahman will visit Swarnadwip in Noakhali on 24 November to observe the final phase of Joint Special Forces Exercise-1, 2026.",
-        "bullets_bn": [
-          "এই মহড়ায় সেনাবাহিনীর প্যারা কমান্ডো ব্রিগেড, নৌবাহিনীর সোয়াডস এবং বিমানবাহিনীর ৫০১ এয়ার রেজিমেন্ট অংশ নেবে।",
-          "প্রধানমন্ত্রীর উপ-প্রেস সচিব জাহিদুল ইসলাম রনি জানান, সফরকালে দেশীয় প্রযুক্তিতে তৈরি সামরিক সরঞ্জাম পরিদর্শন করবেন প্রধানমন্ত্রী।",
-          "স্বর্ণদ্বীপে সশস্ত্র বাহিনীর তিন সেবার এই প্রথম যৌথ মহড়া কোনো সরকারপ্রধান পরিদর্শন করতে যাচ্ছেন।"
-        ],
-        "bullets_en": [
-          "The exercise features the Army's Para Commando Brigade, Navy's SWADS unit, and Air Force's 501 Air Regiment.",
-          "PM's Deputy Press Secretary Jahidul Islam Rony said the prime minister will view military equipment developed using domestic technology.",
-          "This marks the first time a head of government witnesses a joint exercise by the three services at Swarnadwip."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "স্বর্ণদ্বীপ হলো নোয়াখালীর হাতিয়ার কাছে বঙ্গোপসাগরে জেগে ওঠা একটি প্রাকৃতিক ভূখণ্ড। বাংলাদেশ সশস্ত্র বাহিনীর তিনটি শাখার বিশেষ বাহিনীগুলোর অংশগ্রহণে প্রথমবারের মতো এই যৌথ মহড়া আয়োজন করা হচ্ছে।",
-        "details_en": "Swarnadwip is a naturally emerged landmass located in the Bay of Bengal near Hatiya in Noakhali. The event marks the first time special forces from all three branches of the Bangladesh Armed Forces are participating together in a joint exercise.",
-        "hook_bn": "স্বর্ণদ্বীপে তিন বাহিনীর যৌথ সামরিক মহড়া",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-23T17:14:05.927648+00:00"
-      }
-    },
-    {
-      "story_id": "c91ee993-0627-5bea-8c0b-21399cf497c0",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#COP31",
-        "#ClimateDiplomacy",
-        "#AntalyaPact"
-      ],
-      "image_url": "https://static.dw.com/image/80012458_6.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-23T13:03:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.2295,
-      "sources": [
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/cop-deadlock-prompts-calls-for-a-reset-of-climate-diplomacy/a-80020494?maca=en-rss-en-all-1573-rdf",
-          "title": "COP deadlock prompts calls for a reset of climate diplomacy",
-          "snippet": "COP deadlock prompts calls for a reset of climate diplomacy"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জলবায়ু সম্মেলনে চূড়ান্ত চুক্তি ব্যর্থ হওয়ায় কড়া সমালোচনা",
-        "title_en": "Climate summit deadlock prompts calls for a reset of diplomacy",
-        "summary_bn": "সর্বকালের দীর্ঘতম জলবায়ু আলোচনা শেষ হয়েছে কোনো যৌথ রাজনৈতিক দিকনির্দেশনা ছাড়াই, কারণ প্রতিনিধিরা তথাকথিত আন্তালিয়া চুক্তির বিরোধিতা করেছেন।",
-        "summary_en": "The longest-running climate talks ended without a shared political direction as representatives voiced opposition to the Antalya Pact.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T13:03:00+00:00",
-        "lead_bn": "সর্বকালের দীর্ঘতম জলবায়ু আলোচনা শেষ হয়েছে কোনো যৌথ রাজনৈতিক দিকনির্দেশনা ছাড়াই, কারণ প্রতিনিধিরা তথাকথিত আন্তালিয়া চুক্তির বিরোধিতা করেছেন।",
-        "lead_en": "The longest-running climate talks ended without a shared political direction as representatives voiced opposition to the Antalya Pact.",
-        "bullets_bn": [
-          "তুর্কি প্রেসিডেন্ট মুরাত কুরুম জানিয়েছেন যে পাঠ্যটিতে কোনো চুক্তি হয়নি এবং সিদ্ধান্তগুলো গৃহীত হয়নি।",
-          "প্রায় ১৩০টি পক্ষ জীবাশ্ম জ্বালানির কথা পাঠ্যে পুনরায় অন্তর্ভুক্ত করার আহ্বান জানিয়েছিল।",
-          "এই বছরের শীর্ষ সম্মেলন প্রথম স্বীকার করেছে যে বিশ্ব ১.৫ ডিগ্রি সেলসিয়াস উষ্ণতা সীমা লঙ্ঘন করবে।"
-        ],
-        "bullets_en": [
-          "Turkish president Murat Kurum stated that there was no agreement on the text and decisions were not adopted.",
-          "Around 130 parties called for the reintroduction of the phrase fossil fuels into the text.",
-          "This year summit was the first to acknowledge that the world will breach the 1.5-degree Celsius threshold."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "জীবাশ্ম জ্বালানি শব্দগুচ্ছটি প্রথম তিন বছর আগে দুবাইয়ের কপ২৮-এর সমাপনী সিদ্ধান্তে শক্তি ব্যবস্থায় জীবাশ্ম জ্বালানি থেকে সরে আসার প্রতিশ্রুতির সাথে উপস্থিত হয়েছিল। তবে এর পর থেকে প্রতিটি পাঠ্য থেকেই এটি বাদ দেওয়া হয়েছে।",
-        "details_en": "The phrase fossil fuels first appeared three years ago in the closing decision of COP28 in Dubai with the promise of transitioning away from fossil fuels. But it has been omitted from every text since.",
-        "hook_bn": "চুক্তিতে কোনো ঐকমত্য হয়নি",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-23T17:14:05.927648+00:00"
-      }
-    },
-    {
-      "story_id": "57b4def4-f0b4-5d48-96d4-8bc4db7cda29",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#Ukraine",
-        "#Kyiv",
-        "#Russia"
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-23T05:33:17+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.1488,
-      "sources": [
-        {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
-          "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-          "snippet": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইউক্রেনে রুশ হামলায় ভবন ধসে সাত বছরের শিশু জীবিত উদ্ধার",
-        "title_en": "Seven-year-old boy pulled alive from rubble after Russian strike in Ukraine",
-        "summary_bn": "ইউক্রেনের কিয়েভ অঞ্চলে রুশ বিমান হামলার চৌদ্দ ঘণ্টা পর ধ্বংসস্তূপ থেকে সাত বছরের এক শিশুকে জীবিত উদ্ধার করা হয়েছে।",
-        "summary_en": "A seven-year-old boy has been pulled alive from rubble 14 hours after a Russian strike in Ukraine's Kyiv region.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T05:33:17+00:00",
-        "lead_bn": "ইউক্রেনের কিয়েভ অঞ্চলে রুশ বিমান হামলার চৌদ্দ ঘণ্টা পর ধ্বংসস্তূপ থেকে সাত বছরের এক শিশুকে জীবিত উদ্ধার করা হয়েছে।",
-        "lead_en": "A seven-year-old boy has been pulled alive from rubble 14 hours after a Russian strike in Ukraine's Kyiv region.",
-        "bullets_bn": [
-          "কিয়েভ অঞ্চলের দিমারে রাতের হামলায় এগারো জনের প্রাণহানি ঘটেছে বলে ইউক্রেনীয় কর্মকর্তারা জানিয়েছেন।",
-          "ধ্বংসস্তূপ থেকে উনআশি বছর বয়সী এক নারীসহ আরও একজনকে জীবিত উদ্ধার করা হয়েছে।",
-          "উদ্ধার হওয়া শিশুটিকে হাসপাতালে ভর্তি করা হয়েছে এবং তার অবস্থা স্থিতিশীল রয়েছে।"
-        ],
-        "bullets_en": [
-          "Ukrainian officials said overnight strikes on Dymer in the Kyiv region killed 11 people.",
-          "A 79-year-old woman was also rescued alive from the collapsed building.",
-          "The rescued boy was taken to hospital and is in stable condition."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "ইউক্রেনে রুশ হামলায় ধসের পর শিশু উদ্ধার",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-23T17:14:05.927648+00:00"
+        "checked_at": "2026-11-23T18:04:48.343806+00:00"
       }
     }
   ]
