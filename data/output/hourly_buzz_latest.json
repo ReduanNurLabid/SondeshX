@@ -1,383 +1,476 @@
 {
-  "updated_at": "2026-11-23T06:00:49.044708",
-  "total_stories": 5,
+  "updated_at": "2026-11-23T07:00:50.240109",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "10005783-6382-5ceb-8d9a-11c52dd855cb",
-      "primary_category": "economy_business",
+      "story_id": "f7539366-1aba-541f-868d-ff93f8befae6",
+      "primary_category": "society_education",
       "interest_categories": [
-        "economy_business",
-        "climate_environment"
+        "society_education",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#BangladeshBank",
-        "#DefaultedLoans",
-        "#BankingSector"
+        "#SupremeCourt",
+        "#PublicUniversity",
+        "#AdmissionTest",
+        "#HSC"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/16/default_loan_cartoon_1.jpg",
+      "image_url": "https://images.unsplash.com/photo-1732721093900-5b1f9091cf5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YXBwZWxsYXRlJTIwZGl2aXNpb24lMjBjbGVhcnMlMjB3YXklMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NTQxNzI4Mnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-23T05:35:00+00:00",
+      "published_at": "2026-11-23T06:30:19+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 8.5,
-      "rank_score": 7.0454,
+      "importance_score": 7.75,
+      "rank_score": 5.8298,
       "sources": [
         {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/court/425467/public-university-admission-tests-can-proceed",
+          "title": "Public university admission tests can proceed, rules top court",
+          "snippet": "Public university admission tests can proceed, rules top court"
+        },
+        {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/economy/banking/defaulted-loans-rise-tk627-lakh-crore-nearly-34-total-loans-1611196",
-          "title": "Defaulted loans rise to Tk6.27 lakh crore, nearly 34% of total loans",
-          "snippet": "Defaulted loans rise to Tk6.27 lakh crore, nearly 34% of total loans"
+          "url": "https://www.tbsnews.net/bangladesh/no-legal-bar-holding-public-university-admission-tests-hsc-re-exam-results-appellate",
+          "title": "No legal bar to holding public university admission tests before HSC re-exam results: Appellate Division",
+          "snippet": "No legal bar to holding public university admission tests before HSC re-exam results: Appellate Division"
         },
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/business/bank/lia0lrur8l",
-          "title": "খেলাপি ঋণ বেড়ে দাঁড়িয়েছে সোয়া ৬ লাখ কোটি টাকা",
-          "snippet": "খেলাপি ঋণ বেড়ে দাঁড়িয়েছে সোয়া ৬ লাখ কোটি টাকা"
+          "url": "https://www.prothomalo.com/education/higher-education/2ql52k60a9",
+          "title": "পাবলিক বিশ্ববিদ্যালয়গুলো নিজস্ব নিয়ম–পদ্ধতিতে ভর্তি কার্যক্রম চালাতে পারবে",
+          "snippet": "পাবলিক বিশ্ববিদ্যালয়গুলো নিজস্ব নিয়ম–পদ্ধতিতে ভর্তি কার্যক্রম চালাতে পারবে"
         },
         {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/news/default-loans-swell-tk-20850cr-three-months-tk-627400cr-4330976",
-          "title": "Default loans swell by Tk 20,850cr in three months to Tk 6,27,400cr",
-          "snippet": "Default loans swell by Tk 20,850cr in three months to Tk 6,27,400cr"
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/bangladesh/education/news/sc-clears-way-public-universities-medical-colleges-hold-admission-tests-4331006",
+          "title": "SC clears way for public universities, medical colleges to hold admission tests",
+          "snippet": "SC clears way for public universities, medical colleges to hold admission tests"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ব্যাংক খাতে খেলাপি ঋণ বেড়ে দাঁড়িয়েছে ৬ লাখ ২৭ হাজার ৪০৪ কোটি টাকা।",
-        "title_en": "Defaulted loans in the banking sector rise to Tk6,27,404 crore.",
-        "summary_bn": "বাংলাদেশ ব্যাংকের সেপ্টেম্বরভিত্তিক প্রতিবেদন অনুযায়ী, জুলাই-সেপ্টেম্বর প্রান্তিকে ব্যাংক খাতে খেলাপি ঋণ বেড়ে দাঁড়িয়েছে ৬ লাখ ২৭ হাজার ৪০৪ কোটি টাকা।",
-        "summary_en": "Defaulted loans in the banking sector rose by Tk20,849 crore in the July-September quarter to Tk6,27,404 crore, according to Bangladesh Bank.",
+        "title_bn": "পাবলিক বিশ্ববিদ্যালয়ের ভর্তি পরীক্ষা নেওয়ার পথ পরিষ্কার করল আপিল বিভাগ।",
+        "title_en": "Appellate Division clears the way for public university admission tests.",
+        "summary_bn": "সুপ্রিমের আপিল বিভাগ পাবলিক বিশ্ববিদ্যালয়ের ভর্তি পরীক্ষা স্থগিত রাখার হাইকোর্টের আদেশ স্থগিত করেছে।",
+        "summary_en": "The Appellate Division of the Supreme Court has stayed a High Court order suspending public university admission tests.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "climate_environment"
+          "society_education",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-23T05:35:00+00:00",
-        "lead_bn": "বাংলাদেশ ব্যাংকের সেপ্টেম্বরভিত্তিক প্রতিবেদন অনুযায়ী, জুলাই-সেপ্টেম্বর প্রান্তিকে ব্যাংক খাতে খেলাপি ঋণ বেড়ে দাঁড়িয়েছে ৬ লাখ ২৭ হাজার ৪০৪ কোটি টাকা।",
-        "lead_en": "Defaulted loans in the banking sector rose by Tk20,849 crore in the July-September quarter to Tk6,27,404 crore, according to Bangladesh Bank.",
+        "published_at": "2026-11-23T06:30:19+00:00",
+        "lead_bn": "সুপ্রিমের আপিল বিভাগ পাবলিক বিশ্ববিদ্যালয়ের ভর্তি পরীক্ষা স্থগিত রাখার হাইকোর্টের আদেশ স্থগিত করেছে।",
+        "lead_en": "The Appellate Division of the Supreme Court has stayed a High Court order suspending public university admission tests.",
         "bullets_bn": [
-          "খেলাপি ঋণ মোট বিতরণ করা ঋণের ৩৩ দশমিক ৮০ শতাংশ।",
-          "স্টেট-অ próprio ব্যাংকগুলোর খেলাপি ঋণ ১ লাখ ৪৯ হাজার ৭১২ কোটি টাকা।",
-          "বেসরকারি ব্যাংকে খেলাপি ঋণ ৪ লাখ ৫৫ হাজার ৪৭৩ কোটি টাকা।"
+          "প্রধান বিচারপতির নেতৃত্বাধীন পাঁচ সদস্যের আপিল বিভাগ রাষ্ট্রপক্ষের করা আবেদনের শুনানি নিয়ে এই আদেশ দেন।",
+          "এইচএসসি ও সমমানের পরীক্ষার ফলাফল প্রকাশের আগে পরীক্ষা বন্ধ রাখার হাইকোর্টের আদেশ স্থগিত করা হয়েছে।",
+          "বিশ্ববিদ্যালয়গুলো নিজস্ব নিয়ম-পদ্ধতিতে এবং ইউজিসির নির্দেশিকা অনুযায়ী ভর্তি কার্যক্রম চালাতে পারবে।"
         ],
         "bullets_en": [
-          "Defaulted loans accounted to 33.80% of total disbursed loans.",
-          "State-owned banks had Tk1,49,712 crore in defaulted loans.",
-          "Private banks had Tk4,55,473 crore in defaulted loans."
+          "The five-member Appellate Division led by the Chief Justice passed the order following an appeal by the state.",
+          "The High Court order barring tests before the publication of HSC results has been stayed.",
+          "Universities can conduct admission activities under their own rules and in line with UGC guidelines."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ব্যাংকাররা জানিয়েছেন, ব্যবসা পরিস্থিতির অবনতি, উচ্চ সুদের হার, ডলারের মূল্যবৃদ্ধি এবং জ্বালানি সংকটের কারণে অনেক ব্যবসায়ী ঋণ পরিশোধ করতে হিমশিম খাচ্ছেন। এছাড়া দীর্ঘদিনের অনিয়ম এবং প্রভাবশালী ঋণগ্রহীতাদের কাছ থেকে ঋণ আদায়ে ব্যর্থতাও এর জন্য দায়ী। জুন শেষে মোট ঋণ ছিল ১৮ লাখ ৫০ হাজার ৫৯৫ কোটি টাকা এবং খেলাপি ঋণ ছিল ৬ লাখ ৬ হাজার ৫৫৫ কোটি টাকা বা ৩২ দশমিক ৭৮ শতাংশ।",
-        "details_en": "Bankers attributed the rise to deteriorating business conditions, high interest rates, the dollar's appreciation and the energy crisis, alongside long-standing irregularities and failure to recover loans from influential borrowers. At the end of June, total loans stood at Tk18,50,595 crore, while defaulted loans amounted to Tk6,06,555 crore, or 32.78% of the total.",
-        "hook_bn": "বেড়েছে খেলাপি ঋণ",
-        "kicker_bn": "বাংলাদেশ ব্যাংক",
-        "share_value": false,
-        "question_bn": "ব্যাংক খাতের এই পরিস্থিতি মোকাবেলায় কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
+        "details_bn": "চলতি বছরের এইচএসসি ও সমমান পরীক্ষায় অকৃতকার্য শিক্ষার্থীদের খাতা পুনর্মূল্যায়ন ও পুনঃপরীক্ষার ফল প্রকাশ না করা পর্যন্ত দেশের সব পাবলিক বিশ্ববিদ্যালয়ের ভর্তি পরীক্ষা স্থগিত রাখতে হাইকোর্ট আদেশ দিয়েছিল। পাশাপাশি বিশ্ববিদ্যালয়গুলোকে ভর্তি পোর্টাল খোলা রাখতে বা যোগ্য প্রার্থীদের শর্তসাপেক্ষে আবেদন করতে দিতে বলা হয়েছিল। রাষ্ট্রপক্ষের করা আবেদনের শুনানি শেষে আপিল বিভাগ এই আদেশ দেন।",
+        "details_en": "The High Court had earlier directed to suspend admission tests at all public universities until the publication of re-evaluated answer scripts and re-examinations results of this year's HSC and equivalent exams. It also directed universities to keep admission portals open or allow eligible candidates to apply conditionally. The Appellate Division passed the order following an appeal filed by the state.",
+        "hook_bn": "পাবলিক বিশ্ববিদ্যালয়ের ভর্তি পরীক্ষায় বাধা নেই",
+        "kicker_bn": "রায় ঘোষণা",
+        "share_value": true,
+        "question_bn": "পাবলিক বিশ্ববিদ্যালয়ের ভর্তি পরীক্ষা নিয়ে আদালতের এই সিদ্ধান্তে আপনার কী মতামত?"
       },
-      "desk_importance": 8.0,
-      "outlet_count": 3,
+      "desk_importance": 7.0,
+      "outlet_count": 7,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-23T07:01:49.739938+00:00"
+      }
+    },
+    {
+      "story_id": "7f34b255-34a4-5a6b-98bc-f33fcf21e0ee",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "sports_fitness"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1718128120413-783e25de9a3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z292ZXJubWVudCUyMG1ha2VzJTIwc2V2ZW4lMjBoZWFsdGglMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NTQxNzI5M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-23T06:37:55+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.25,
+      "rank_score": 3.8193,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1182613",
+          "title": "হজযাত্রীদের টিকার আগে করতে হবে ৭ ধরনের স্বাস্থ্য পরীক্ষা",
+          "snippet": "হজযাত্রীদের টিকার আগে করতে হবে ৭ ধরনের স্বাস্থ্য পরীক্ষা"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/national/500173",
+          "title": "হজ যাত্রীদের টিকা গ্রহণের আগে সাতটি টেস্ট বাধ্যতামূলক করেছে সরকার",
+          "snippet": "হজ যাত্রীদের টিকা গ্রহণের আগে সাতটি টেস্ট বাধ্যতামূলক করেছে সরকার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "হজ যাত্রীদের টিকা গ্রহণের আগে সাতটি স্বাস্থ্য পরীক্ষা বাধ্যতামূলক করা হয়েছে।",
+        "title_en": "Government makes seven health tests mandatory before Hajj pilgrims' vaccination.",
+        "summary_bn": "স্বাস্থ্য অধিদপ্তরের নির্দেশনা অনুযায়ী হজযাত্রীদের টিকা গ্রহণের আগে সাত ধরনের স্বাস্থ্য পরীক্ষা করা বাধ্যতামূলক করেছে সরকার।",
+        "summary_en": "The government has made seven types of health tests mandatory for Hajj pilgrims before vaccination, according to health department directives.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "sports_fitness"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-23T06:37:55+00:00",
+        "lead_bn": "স্বাস্থ্য অধিদপ্তরের নির্দেশনা অনুযায়ী হজযাত্রীদের টিকা গ্রহণের আগে সাত ধরনের স্বাস্থ্য পরীক্ষা করা বাধ্যতামূলক করেছে সরকার।",
+        "lead_en": "The government has made seven types of health tests mandatory for Hajj pilgrims before vaccination, according to health department directives.",
+        "bullets_bn": [
+          "হজযাত্রীদের টিকা গ্রহণের আগে ব্লাড গ্রুপিং ও আরএইচ টাইপিং পরীক্ষা করাতে হবে।",
+          "কমপ্লিট ব্লাড কাউন্ট এবং ইউরিন আর এম ই পরীক্ষা বাধ্যতামূলক করা হয়েছে।",
+          "বুকের এক্স-রে, ইসিজি, র‌্যান্ডম ব্লাড সুগার এবং সিরাম ক্রিয়েটিনিন পরীক্ষা করতে হবে।"
+        ],
+        "bullets_en": [
+          "Hajj pilgrims must undergo blood grouping and Rh typing before receiving vaccines.",
+          "Complete blood count and urine RME tests have been made mandatory.",
+          "Chest X-ray, ECG, random blood sugar and serum creatinine tests must be done."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "হজযাত্রীদের সাত ধরনের স্বাস্থ্য পরীক্ষা বাধ্যতামূলক",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": "হজযাত্রীদের জন্য এই স্বাস্থ্য পরীক্ষাগুলো বাধ্যতামূলক করার বিষয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-23T07:01:49.739938+00:00"
+      }
+    },
+    {
+      "story_id": "19faf84c-2ace-5195-ad0c-fcc364cd1d9e",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Dhaka",
+        "#VegetablePrices"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1722871513349-45c61ed6aa5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZmluYW5jZSUyMGVjb25vbXklMjBiYW5nbGFkZXNofGVufDF8MHx8fDE3OTUyNDgwOTR8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-23T06:02:13+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.4009,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425465/vegetable-prices-rise-by-tk20-50-per-kg",
+          "title": "Vegetable prices mark sharp rise in Dhaka",
+          "snippet": "Vegetable prices mark sharp rise in Dhaka"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ঢাকায় শাকসবজির দাম তীক্ষ্ণভাবে বৃদ্ধি পেয়েছে",
+        "title_en": "Vegetable prices mark sharp rise in Dhaka",
+        "summary_bn": "গত দুই দিনের বৃষ্টিপাত এবং বাজারে সরবরাহ হ্রাসের কারণে ঢাকায় শাকসবজির দাম বৃদ্ধি পেয়েছে।",
+        "summary_en": "Vegetable prices in Dhaka increased due to rainfall over the past two days and a decline in market supply.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-23T06:02:13+00:00",
+        "lead_bn": "গত দুই দিনের বৃষ্টিপাত এবং বাজারে সরবরাহ হ্রাসের কারণে ঢাকায় শাকসবজির দাম বৃদ্ধি পেয়েছে।",
+        "lead_en": "Vegetable prices in Dhaka increased due to rainfall over the past two days and a decline in market supply.",
+        "bullets_bn": [
+          "দাম বৃদ্ধির প্রধান কারণ হিসেবে গত দুই দিনের বৃষ্টিপাতকে দায়ী করেছেন ব্যবসায়ীরা।",
+          "বাজারে শাকসবজির সরবরাহ হ্রাস পাওয়ায় দাম বেড়েছে বলে ব্যবসায়ীরা জানিয়েছেন।",
+          "ঢাকা ট্রিবিউনের প্রতিবেদন অনুযায়ী বিক্রেতারা দাম বৃদ্ধির এই কারণগুলো উল্লেখ করেছেন।"
+        ],
+        "bullets_en": [
+          "Traders attributed the increase to rainfall over the past two days.",
+          "Traders stated that prices rose due to a decline in market supply.",
+          "The Dhaka Tribune report detailed these causes for the price hike."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ঢাকা ট্রিবিউনের প্রতিবেদন অনুযায়ী, গত দুই দিনের বৃষ্টিপাত এবং বাজারে সরবরাহ হ্রাসের কারণে এই দাম বৃদ্ধি ঘটেছে। ব্যবসায়ীরা এই পরিস্থিতির জন্য আবহাওয়া এবং সরবরাহ সংকটকে দায়ী করেছেন।",
+        "details_en": "According to the Dhaka Tribune report, the price increase occurred due to rainfall over the past two days and a decline in market supply. Traders attributed this situation to the weather and supply shortage.",
+        "hook_bn": "ঢাকায় শাকসবজির দাম বাড়ছে",
+        "kicker_bn": "দাম বাড়ছে",
+        "share_value": true,
+        "question_bn": "আপনার এলাকার বাজারে শাকসবজির দাম এখন কেমন?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
       "trending": false,
       "social_appeal": 9.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-23T06:01:41.430566+00:00"
+        "checked_at": "2026-11-23T07:01:49.739938+00:00"
       }
     },
     {
-      "story_id": "7f21d05b-599e-56ea-b0ce-a5b4f5cc44b7",
+      "story_id": "0b6f376d-b921-5a38-8ee3-143a8ba00b99",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
-        "economy_business",
-        "world_diplomacy"
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#DhakaAirport",
-        "#GoldSeizure",
-        "#CIID"
+        "#ElectionCommission",
+        "#UPElection"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2021/06/16/gold_jewellery.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/23/image-449051-1795413474.jpg",
       "image_caption": null,
-      "published_at": "2026-11-23T05:10:00+00:00",
+      "published_at": "2026-11-23T06:20:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 4.022,
+      "importance_score": 5.25,
+      "rank_score": 2.6488,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/18-gold-bars-worth-tk378-crore-seized-dhaka-airport-1611191",
-          "title": "18 gold bars worth Tk3.78 crore seized at Dhaka airport",
-          "snippet": "18 gold bars worth Tk3.78 crore seized at Dhaka airport"
+          "url": "https://www.tbsnews.net/bangladesh/ec-hold-talks-political-parties-ahead-elections-1611286",
+          "title": "EC to hold talks with political parties ahead of UP elections",
+          "snippet": "EC to hold talks with political parties ahead of UP elections"
         },
         {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/capital/post-1224567/",
-          "title": "বিমানবন্দরে ৪ কোটি টাকার সোনার বারসহ যাত্রী আটক",
-          "snippet": "বিমানবন্দরে ৪ কোটি টাকার সোনার বারসহ যাত্রী আটক"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822554/%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A7%AA-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%B8%E0%A6%B9-%E0%A6%86%E0%A6%9F%E0%A6%95",
-          "title": "বিমানবন্দরে প্রায় ৪ কোটি টাকার স্বর্ণের বারসহ আটক যুবক",
-          "snippet": "বিমানবন্দরে প্রায় ৪ কোটি টাকার স্বর্ণের বারসহ আটক যুবক"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/ec-to-hold-talks-with-political-parties-ahead-of-up-elections",
+          "title": "EC to hold talks with political parties ahead of UP elections",
+          "snippet": "EC to hold talks with political parties ahead of UP elections"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ঢাকা বিমানবন্দরে ১৮টি স্বর্ণের বারসহ এক যাত্রী আটক",
-        "title_en": "Passenger held with 18 gold bars at Dhaka airport",
-        "summary_bn": "কাস্টমস গোয়েন্দা ও তদন্ত অধিদফতরের কর্মকর্তারা হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে ৩ কোটি ৭৮ লাখ টাকার ১৮টি স্বর্ণের বারসহ এক যাত্রীকে আটক করেছেন।",
-        "summary_en": "Customs intelligence officials seized 18 gold bars worth Tk3.78 crore from a passenger at Hazrat Shahjalal International Airport.",
+        "title_bn": "ইউনিয়ন পরিষদ নির্বাচন সামনে রেখে রাজনৈতিক দলগুলোর সঙ্গে নির্বাচন কমিশনের সংলাপ",
+        "title_en": "Election Commission to hold talks with political parties ahead of UP elections",
+        "summary_bn": "সুষ্ঠু ও গ্রহণযোগ্য ইউনিয়ন পরিষদ নির্বাচন নিশ্চিত করতে রাজনৈতিক দলগুলোর সঙ্গে তিন দিনের সংলাপের প্রস্তুতি নিচ্ছে নির্বাচন কমিশন।",
+        "summary_en": "The Election Commission is planning a three-day dialogue with political parties to ensure free, fair and credible Union Parishad elections.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law",
-          "economy_business",
-          "world_diplomacy"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-23T05:10:00+00:00",
-        "lead_bn": "কাস্টমস গোয়েন্দা ও তদন্ত অধিদফতরের কর্মকর্তারা হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে ৩ কোটি ৭৮ লাখ টাকার ১৮টি স্বর্ণের বারসহ এক যাত্রীকে আটক করেছেন।",
-        "lead_en": "Customs intelligence officials seized 18 gold bars worth Tk3.78 crore from a passenger at Hazrat Shahjalal International Airport.",
+        "published_at": "2026-11-23T06:20:00+00:00",
+        "lead_bn": "সুষ্ঠু ও গ্রহণযোগ্য ইউনিয়ন পরিষদ নির্বাচন নিশ্চিত করতে রাজনৈতিক দলগুলোর সঙ্গে তিন দিনের সংলাপের প্রস্তুতি নিচ্ছে নির্বাচন কমিশন।",
+        "lead_en": "The Election Commission is planning a three-day dialogue with political parties to ensure free, fair and credible Union Parishad elections.",
         "bullets_bn": [
-          "মোহাম্মদ রুহুল নামের ওই যাত্রী ফ্লাইদুবাইয়ের একটি ফ্লাইটে দুবাই থেকে ঢাকায় অবতরণ করেন।",
-          "কাস্টমস হলের গ্রিন চ্যানেলে স্ক্যান করার পর তিনি তার শরীরে স্বর্ণ লুকানোর কথা স্বীকার করেন।",
-          "উদ্ধার করা প্রতিটি স্বর্ণের বারের ওজন ১১৭ গ্রাম।"
+          "সংলাপটি শুরু হতে পারে আগামী ২৯ বা ৩০ নভেম্বর এবং সব প্রস্তুতি সম্পন্ন হবে ১০ ডিসেম্বরের মধ্যে।",
+          "ত্রয়োদশ সংসদ নির্বাচনের আগে সংলাপে অংশ নেওয়া এবং পরবর্তী সময়ে নিবন্ধিত দলগুলোকে এই সংলাপে আমন্ত্রণ জানানো হবে।",
+          "নির্বাচনের প্রথম ধাপের ভোটগ্রহণ অনুষ্ঠিত হবে ২০২৭ সালের ২১ জানুয়ারি এবং তপশিল ঘোষণা করা হবে ডিসেম্বরের প্রথম সপ্তাহে।"
         ],
         "bullets_en": [
-          "The passenger, Mohammed Ruhul, arrived in Dhaka from Dubai on a Flydubai flight.",
-          "After scanning at the green channel, he admitted to hiding gold on his person.",
-          "Each of the recovered gold bars weighs 117 grams."
+          "The dialogue may begin on 29 or 30 November and all preparations will be completed by 10 December.",
+          "Parties that joined consultations before the 13th parliamentary elections and subsequently registered parties will be invited.",
+          "The first phase of voting is scheduled for 21 January 2027, with the schedule expected in the first week of December."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "কাস্টমস গোয়েন্দা ও তদন্ত অধিদফতরের কর্মকর্তারা গোয়েন্দা সংস্থার সদস্যদের উপস্থিতিতে যাত্রীর শরীর থেকে আঠালো টেপে মোড়ানো ধাতব বস্তু উদ্ধার করেন। টেপ খুলে ১১৭ গ্রাম ওজনের মোট ১৮টি স্বর্ণের বার পাওয়া যায়।",
-        "details_en": "Officials recovered metallic items wrapped in adhesive tape from the passenger in the presence of intelligence agency members. Removing the tape revealed 18 gold bars, each weighing 117 grams.",
-        "hook_bn": "বিমানবন্দরে স্বর্ণের বারসহ যাত্রী আটক",
+        "details_bn": "নির্বাচন কমিশন জানিয়েছে, বড় কোনো প্রাকৃতিক দুর্যোগ বা অনভিপ্রেত পরিস্থিতি না ঘটলে নির্ধারিত সময়েই ভোটগ্রহণ অনুষ্ঠিত হবে। অবাধ ও শান্তিপূর্ণ নির্বাচন আয়োজনে রাজনৈতিক দলগুলোর পূর্ণ সহযোগিতা এবং সরকারের সহায়তা চেয়েছে কমিশন।",
+        "details_en": "The Election Commission stated that voting will take place as scheduled barring any major natural disaster or unavoidable circumstances. The commission sought full cooperation from political parties and the government to conduct a free and peaceful election.",
+        "hook_bn": "অবাধ নির্বাচনের জন্য রাজনৈতিক দলগুলোর সহযোগিতা চেয়েছে কমিশন",
+        "kicker_bn": "নির্বাচন কমিশন",
+        "share_value": true,
+        "question_bn": "স্থানীয় সরকার নির্বাচনে রাজনৈতিক দলগুলোর এই সংলাপ কতটা প্রভাব ফেলবে বলে আপনার মনে হয়?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-23T07:01:49.739938+00:00"
+      }
+    },
+    {
+      "story_id": "7e3f9313-b47e-5c3d-ac9b-09539fb695e6",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#DonaldTrump",
+        "#IranWar",
+        "#USCongress"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2020/01/09/us_senate_builing.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-23T06:35:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.5,
+      "rank_score": 2.9494,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/explainer/how-democrats-plan-use-congresss-funding-power-push-trump-end-iran-war-1611301",
+          "title": "How Democrats plan to use Congress's funding power to push Trump to end Iran war",
+          "snippet": "How Democrats plan to use Congress's funding power to push Trump to end Iran war"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822557/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A4-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%95%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%AA-%E0%A6%A6%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A8",
+          "title": "ইরানে দ্রুত হামলা চালাতে ট্রাম্পকে চাপ দিচ্ছেন নেতানিয়াহু",
+          "snippet": "ইরানে দ্রুত হামলা চালাতে ট্রাম্পকে চাপ দিচ্ছেন নেতানিয়াহু"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1182614",
+          "title": "ইরানে দ্রুত হামলা চালাতে ট্রাম্পকে চাপ দিচ্ছেন নেতানিয়াহু: রিপোর্ট",
+          "snippet": "ইরানে দ্রুত হামলা চালাতে ট্রাম্পকে চাপ দিচ্ছেন নেতানিয়াহু: রিপোর্ট"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইরানের যুদ্ধ থামাতে তহবিলের ক্ষমতা ব্যবহারের প্রস্তুতি ডেমোক্র্যাটদের",
+        "title_en": "Democrats plan to use funding power to end Iran war",
+        "summary_bn": "মার্কিন কংগ্রেসের সরকারি অর্থ বরাদ্দের নিয়ন্ত্রণ ব্যবহার করে ডেমোক্র্যাট আইনপ্রণেতারা ডোনাল্ড ট্রাম্পকে ইরানের যুদ্ধ বন্ধে বাধ্য করার প্রস্তুতি নিচ্ছেন।",
+        "summary_en": "Democratic lawmakers are preparing to use Congress's control over government spending to pressure Donald Trump to end the war on Iran.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-23T06:35:00+00:00",
+        "lead_bn": "মার্কিন কংগ্রেসের সরকারি অর্থ বরাদ্দের নিয়ন্ত্রণ ব্যবহার করে ডেমোক্র্যাট আইনপ্রণেতারা ডোনাল্ড ট্রাম্পকে ইরানের যুদ্ধ বন্ধে বাধ্য করার প্রস্তুতি নিচ্ছেন।",
+        "lead_en": "Democratic lawmakers are preparing to use Congress's control over government spending to pressure Donald Trump to end the war on Iran.",
+        "bullets_bn": [
+          "ডিসেম্বরের ১১ তারিখের সরকারি তহবিলের সময়সীমার মধ্যে সামরিক সংঘাতের অর্থায়ন নিয়ন্ত্রণের সুযোগ খুঁজছেন কিছু ডেমোক্র্যাট।",
+          "ইরানে আক্রমণাত্মক সামরিক অভিযানে কোনো মার্কিন করদাতার অর্থ ব্যয় না করার আহ্বান জানিয়েছেন প্রতিনিধি ইয়াসমিন আনসারি ও রো খান্না।",
+          "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু যত দ্রুত সম্ভব ইরানে হামলা চালানোর জন্য ডোনাল্ড ট্রাম্পকে চাপ দিচ্ছেন বলে কান জানিয়েছে।"
+        ],
+        "bullets_en": [
+          "Some Democrats are looking at restricting funding through the December 11 deadline for government agency funding.",
+          "Representatives Yassamin Ansari and Ro Khanna called for ensuring not another cent of taxpayer money goes towards the conflict.",
+          "Kan reported that Israeli Prime Minister Benjamin Netanyahu is pressuring Donald Trump to attack Iran as quickly as possible."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "২০২৬ সালের মধ্যবর্তী নির্বাচনে দুই কক্ষেই ডেমোক্র্যাটরা সংখ্যাগরিষ্ঠতা অর্জন করায় এই সুযোগ তৈরি হয়েছে। যদিও নতুন কংগ্রেস ২০২৭ সালের ৩ জানুয়ারি ক্ষমতা গ্রহণ করবে, তবে এর আগেই আগামী ১১ ডিসেম্বর সরকারি সংস্থার অর্থায়নের সময়সীমা রয়েছে। আল জাজিরার মতে, করদাতার অর্থ ইরানের আক্রমণে ব্যবহার রোধ করতে এই তহবিলের ক্ষমতা ব্যবহারের কৌশল নেওয়া হয়েছে। এদিকে ইসরায়েলের রাষ্ট্রীয় সম্প্রচারমাধ্যম কান জানিয়েছে, নেতানিয়াহু ট্রাম্পকে ইরানে দ্রুত হামলার চাপ দিলেও ট্রাম্প এখনো কোনো সিদ্ধান্ত নেননি।",
+        "details_en": "The strategy follows Democratic victories in the 2026 midterm elections, giving the party majorities in both chambers. Although the new Congress takes office on January 3, 2027, an upcoming December 11 funding deadline presents an opportunity, according to Al Jazeera. The centre of the strategy is using the power of the purse to prevent spending on offensive operations. Meanwhile, Israeli state broadcaster Kan reported that Netanyahu is pressuring Trump to attack Iran as quickly as possible, though Trump has not yet made a decision.",
+        "hook_bn": "'আরেকটি পয়সাও নয়'",
+        "kicker_bn": "যুক্তরাষ্ট্র",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-23T07:01:49.739938+00:00"
+      }
+    },
+    {
+      "story_id": "3597f6ae-7c08-5ae1-b699-c0699c256f72",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business",
+        "society_education"
+      ],
+      "region": "international",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-23%2Ffctntpv1%2FGazaEisencot.avif?rect=0%2C136%2C960%2C504&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-23T06:04:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.25,
+      "rank_score": 2.6083,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/middle-east/q7q21a1a09",
+          "title": "পশ্চিম তীরে ফিলিস্তিনি গ্রামে অবৈধ বসতি স্থাপনকারীদের হামলাকে ‘ইহুদি সন্ত্রাসবাদ’ বললেন আইজেনকট",
+          "snippet": "পশ্চিম তীরে ফিলিস্তিনি গ্রামে অবৈধ বসতি স্থাপনকারীদের হামলাকে ‘ইহুদি সন্ত্রাসবাদ’ বললেন আইজেনকট"
+        },
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group?traffic_source=rss",
+          "title": "Israeli attacks on medics in occupied West Bank surge by 350%: Rights group",
+          "snippet": "Israeli attacks on medics in occupied West Bank surge by 350%: Rights group"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/country/500167",
+          "title": "গাইবান্ধায় মরিচ খেতে অচেনা রোগের থাবা, ক্ষতির আশঙ্কা কৃষকদের",
+          "snippet": "গাইবান্ধায় মরিচ খেতে অচেনা রোগের থাবা, ক্ষতির আশঙ্কা কৃষকদের"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পশ্চিম তীরে বসতি স্থাপনকারীদের হামলাকে ইহুদি সন্ত্রাসবাদ বললেন আইজেনকট",
+        "title_en": "Eisenkot calls settler attacks in West Bank Jewish terrorism",
+        "summary_bn": "ইসরায়েলের অধিকৃত পশ্চিম তীরের কয়েকটি গ্রামে সশস্ত্র অবৈধ বসতি স্থাপনকারীদের হামলাকে ইহুদি সন্ত্রাসবাদ বলে মন্তব্য করেছেন গাদি আইজেনকট।",
+        "summary_en": "Gadi Eisenkot described armed illegal settlers attacks on several villages in the occupied West Bank as Jewish terrorism.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-23T06:04:00+00:00",
+        "lead_bn": "ইসরায়েলের অধিকৃত পশ্চিম তীরের কয়েকটি গ্রামে সশস্ত্র অবৈধ বসতি স্থাপনকারীদের হামলাকে ইহুদি সন্ত্রাসবাদ বলে মন্তব্য করেছেন গাদি আইজেনকট।",
+        "lead_en": "Gadi Eisenkot described armed illegal settlers attacks on several villages in the occupied West Bank as Jewish terrorism.",
+        "bullets_bn": [
+          "হামলাকারীরা সেখানে গাড়িতে আগুন দিয়েছে এবং দেয়ালে বর্ণবাদী স্লোগান লিখে রেখেছে বলে জানান স্থানীয় বাসিন্দারা।",
+          "আইজেনকট অভিযোগ করেন যে দুই মন্ত্রীর নীতি পশ্চিম তীরকে নৈরাজ্যের দ্বারপ্রান্তে নিয়ে গেছে।",
+          "পররাষ্ট্রমন্ত্রী গিদিওন সার মুষ্টিমেয় চরমপন্থীর হামলার সমালোচনা করে বলেছেন এসব কর্মকাণ্ড ইসরায়েলের মূল্যবোধের পরিপন্থী।"
+        ],
+        "bullets_en": [
+          "Local residents reported that attackers set cars on fire and wrote racist slogans on walls.",
+          "Eisenkot accused two ministers policies of pushing the West Bank to the brink of anarchy.",
+          "Foreign Minister Gideon Saer criticized the attacks by a handful of extremists and called them contrary to Israeli values."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "গাজা উপত্যকায় ২০২৩ সালে ফিলিস্তিনিদের হামাসের বিরুদ্ধে সর্বাত্মক হামলা চালায় ইসরায়েল এবং এর পর থেকে পশ্চিম তীরেও সহিংসতা বেড়েছে। অক্টোবরের শেষের দিকে ইসরায়েলের পার্লামেন্ট নেসেটের নির্বাচনে কোনো দল বা জোট নিরঙ্কুশ সংখ্যাগরিষ্ঠতা না পাওয়ায় জোট সরকার গঠনের দায়িত্ব পেয়েছেন আইজেনকট।",
+        "details_en": "Israel launched a full-scale assault against Hamas in the Gaza Strip in 2023, and violence has since increased in the West Bank. Following the Knesset elections in late October where no party or coalition won an outright majority, Eisenkot was tasked with forming a coalition government.",
+        "hook_bn": "পশ্চিম তীরে অবৈধ বসতি স্থাপনকারীদের হামলা",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 6.0,
+      "desk_importance": 5.0,
       "outlet_count": 3,
       "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-23T06:01:41.430566+00:00"
-      }
-    },
-    {
-      "story_id": "0c84ce6f-5e5f-5938-86e0-140b1576cb42",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "economy_business",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1583794018021-c841442da0e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bmF0dXJlJTIwY2xpbWF0ZSUyMGZsb29kJTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1NDEzNjc5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-23T05:56:01+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5823,
-      "sources": [
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822555/%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A4%E0%A7%8B-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%A1%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A6%95-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E",
-          "title": "দ্বিতীয়বারের মতো জাতীয় গ্রিডে পরীক্ষামূলক বিদ্যুৎ সরবরাহ শুরু রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্রের",
-          "snippet": "দ্বিতীয়বারের মতো জাতীয় গ্রিডে পরীক্ষামূলক বিদ্যুৎ সরবরাহ শুরু রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্রের"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্র থেকে দ্বিতীয়বারের মতো পরীক্ষামূলক বিদ্যুৎ সরবরাহ শুরু হয়েছে।",
-        "title_en": "Trial electricity supply from Rooppur Nuclear Power Plant begins for the second time.",
-        "summary_bn": "রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্র থেকে দ্বিতীয়বারের মতো জাতীয় গ্রিডে পরীক্ষামূলকভাবে বিদ্যুৎ সরবরাহ শুরু হয়েছে।",
-        "summary_en": "Trial electricity supply from the Rooppur Nuclear Power Plant to the national grid has begun for the second time.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T05:56:01+00:00",
-        "lead_bn": "রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্র থেকে দ্বিতীয়বারের মতো জাতীয় গ্রিডে পরীক্ষামূলকভাবে বিদ্যুৎ সরবরাহ শুরু হয়েছে।",
-        "lead_en": "Trial electricity supply from the Rooppur Nuclear Power Plant to the national grid has begun for the second time.",
-        "bullets_bn": [
-          "পরীক্ষামূলক বিদ্যুৎ সরবরাহ শুরু হয়েছে ২৩ নভেম্বর সকাল ১০টা ২০ মিনিটে।",
-          "প্রকল্প পরিচালক ড. মো. কবীর হোসেন এ বিদ্যুৎ সরবরাহ শুরুর বিষয়টি নিশ্চিত করেছেন।",
-          "এ পর্যায়ে ১০ থেকে ২৪ ঘণ্টা পরীক্ষামূলক বিদ্যুৎ সরবরাহ করা হবে।"
-        ],
-        "bullets_en": [
-          "The trial electricity supply began at 10:20 am on November 23.",
-          "Project Director Dr. Md. Kabir Hossain confirmed the start of this electricity supply.",
-          "At this stage, electricity will be supplied experimentally for 10 to 24 hours."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "প্রকল্প পরিচালক ড. মো. কবীর হোসেন জানান যে, এই পর্যায়ে ৩০০ থেকে ৩৫০ মেগাওয়াট বিদ্যুৎ সরবরাহ করা হবে। এর আগে ১৭ তারিখেও পরীক্ষামূলক বিদ্যুৎ সরবরাহ করা হয়েছিল।",
-        "details_en": "Project Director Dr. Md. Kabir Hossain stated that 300 to 350 megawatts of electricity will be supplied at this stage. Earlier, trial electricity supply was also conducted on the 17th.",
-        "hook_bn": "জাতীয় গ্রিডে পরীক্ষামূলক বিদ্যুৎ সরবরাহ শুরু",
-        "kicker_bn": "বিদ্যুৎ সরবরাহ",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-23T06:01:41.430566+00:00"
-      }
-    },
-    {
-      "story_id": "51e4ad74-64ff-5244-b5aa-784fb86728f2",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#DhakaAir",
-        "#AQI",
-        "#AirPollution"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1630987871777-f7b2d62894d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGhha2ElMjBhaXIlMjBxdWFsaXR5JTIwcmVtYWluZWQlMjBlbnZpcm9ubWVudHxlbnwxfDB8fHwxNzk1NDEzNjgyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-23T03:17:10+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.1349,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/dhaka/425460/dhaka-air-9th-worst-in-world-monday-morning",
-          "title": "Dhaka air 9th worst in world Monday morning",
-          "snippet": "Dhaka air 9th worst in world Monday morning"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ঢাকার বাতাসের মান অস্বাস্থ্যকর অবস্থায় রয়েছে।",
-        "title_en": "Dhaka air quality remained unhealthy.",
-        "summary_bn": "ঢাকার বাতাসের মান অস্বাস্থ্যকর অবস্থায় রয়েছে এবং শহরটি বিশ্বের সবচেয়ে দূষিত শহরের তালিকায় নবম স্থানে অবস্থান করছে।",
-        "summary_en": "Dhaka's air quality remained unhealthy, with the capital ranking 9th among the world's most polluted cities.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T03:17:10+00:00",
-        "lead_bn": "ঢাকার বাতাসের মান অস্বাস্থ্যকর অবস্থায় রয়েছে এবং শহরটি বিশ্বের সবচেয়ে দূষিত শহরের তালিকায় নবম স্থানে অবস্থান করছে।",
-        "lead_en": "Dhaka's air quality remained unhealthy, with the capital ranking 9th among the world's most polluted cities.",
-        "bullets_bn": [
-          "বাতাসের গুণসূচক বা একিউআই স্কোর ১৫৫ রেকর্ড করা হয়েছে।",
-          "লাহোর, দিল্লি ও মুম্বাই যথাক্রমে ২৭২, ২০৬ ও ১৭৪ একিউআই স্কোর নিয়ে তালিকার শীর্ষ তিনটি স্থান দখল করেছে।",
-          "একই শহরের ক্ষেত্রে আগের সময়ে ১৪তম অবস্থানে থাকার তথ্য জানা গেছে।"
-        ],
-        "bullets_en": [
-          "An Air Quality Index score of 155 was recorded.",
-          "Lahore, Delhi and Mumbai occupied the top three spots with scores of 272, 206 and 174 respectively.",
-          "The city previously ranked 14th earlier."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ঢাকা ট্রাইব্যুনালের প্রতিবেদনে জানানো হয়েছে, নির্ধারিত সময়ে ঢাকার একিউআই স্কোর ১৫৫ ছিল। এর আগে নির্দিষ্ট সময়ে শহরটি ১৪তম অবস্থানে ছিল। তালিকার শীর্ষ স্থানগুলোতে পাকিস্তানের লাহোর এবং ভারতের দিল্লি ও মুম্বাইয়ের নাম এসেছে।",
-        "details_en": "According to the report, Dhaka's air quality remained unhealthy with an AQI score of 155. The capital ranked 9th among the world's most polluted cities, while Lahore, Delhi and Mumbai occupied the top three spots.",
-        "hook_bn": "ঢাকার বাতাস বিশ্বের নবম অস্বাস্থ্যকর",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": "আপনার এলাকার বাতাসের বর্তমান অবস্থা কেমন?"
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-23T06:01:41.430566+00:00"
-      }
-    },
-    {
-      "story_id": "2e7c3c20-3c61-52f9-b75e-45c410ce6a23",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "international",
-      "tags": [
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_bengali/bd97/live/6cb5b1f0-e6fc-11f1-9177-bfaafe54e5e5.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-23T05:09:38+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 4.0206,
-      "sources": [
-        {
-          "name": "BBC News বাংলা",
-          "url": "https://www.bbc.com/bengali/articles/c5n4egxkrjjwo?at_medium=RSS&at_campaign=rss",
-          "title": "চুক্তিতে পৌঁছাতে ব্যর্থ হলো জাতিসংঘ জলবায়ু সম্মেলন",
-          "snippet": "চুক্তিতে পৌঁছাতে ব্যর্থ হলো জাতিসংঘ জলবায়ু সম্মেলন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "তুরস্কে জাতিসংঘের জলবায়ু সম্মেলন নতুন চুক্তিতে পৌঁছাতে ব্যর্থ হয়েছে।",
-        "title_en": "The United Nations climate conference in Turkey failed to reach a new agreement.",
-        "summary_bn": "তুরস্কে জাতিসংঘের জলবায়ু সম্মেলনে জীবাশ্ম জ্বালানি ও অর্থায়ন নিয়ে গভীর মতবিরোধের জের ধরে জলবায়ু পরিবর্তন মোকাবিলায় নতুন কোনো বড় চুক্তিতে পৌঁছাতে ব্যর্থ হয়েছে দেশগুলো।",
-        "summary_en": "Countries failed to reach a major new agreement to tackle climate change at the UN climate conference in Turkey due to deep disagreements.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T05:09:38+00:00",
-        "lead_bn": "তুরস্কে জাতিসংঘের জলবায়ু সম্মেলনে জীবাশ্ম জ্বালানি ও অর্থায়ন নিয়ে গভীর মতবিরোধের জের ধরে জলবায়ু পরিবর্তন মোকাবিলায় নতুন কোনো বড় চুক্তিতে পৌঁছাতে ব্যর্থ হয়েছে দেশগুলো।",
-        "lead_en": "Countries failed to reach a major new agreement to tackle climate change at the UN climate conference in Turkey due to deep disagreements.",
-        "bullets_bn": [
-          "আলোচনা শেষ হওয়ার কথা থাকলেও সমঝোতার চেষ্টায় তা রোববার পর্যন্ত গড়ায় এবং এটি ইতিহাসের দীর্ঘতম কপ৩১ সম্মেলনে পরিণত হয়।",
-          "ইউরোপীয় ইউনিয়ন, প্রশান্ত মহাসাগরীয় দ্বীপরাষ্ট্রগুলো এবং অন্যান্য দেশের কাছে এই চুক্তি গ্রহণযোগ্য হয়নি কারণ এতে জীবাশ্ম জ্বালানির কথা সরাসরি উল্লেখ করা হয়নি।",
-          "জাতিসংঘের মহাসচিব আন্তোনিও গুতেরেস গভীর হতাশা প্রকাশ করে প্রভাবশালী জীবাশ্ম জ্বালানি স্বার্থসংশ্লিষ্ট গোষ্ঠীগুলোর সমালোচনা করেছেন।"
-        ],
-        "bullets_en": [
-          "Although discussions were scheduled to end efforts to reach a compromise extended until making it the longest COP31 in history.",
-          "The agreement was not acceptable to the European Union, Pacific island states, and other countries because fossil fuels were not directly mentioned.",
-          "UN Secretary-General António Guterres expressed deep disappointment and criticized influential fossil fuel interest groups."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "অনেক দরিদ্র দেশ আপত্তি জানিয়েছে যে ক্রমবর্ধমান তাপমাত্রার প্রভাব মোকাবিলায় তাদের সহায়তার জন্য ধনী দেশগুলোর পক্ষ থেকে এতে কোনো সুনির্দিষ্ট আর্থিক প্রতিশ্রুতি নেই। সবশেষ ২০০৯ সালে কোপেনহেগেন সম্মেলনেও এবারের মতো মূল রাজনৈতিক সমঝোতা এভাবে ভেস্তে গিয়েছিল। সম্মেলনের যৌথ আয়োজক দেশ অস্ট্রেলিয়ার প্রধানমন্ত্রী অ্যান্থনি আলবানিজ ব্যর্থতার জন্য কঠিন ভূরাজনৈতিক সময়কে দায়ী করেছেন।",
-        "details_en": "Many poor countries objected that there was no specific financial commitment from rich countries to help them cope with rising temperatures. Similar to this year, the main political compromise collapsed at the Copenhagen conference in 2009. Australian Prime Minister Anthony Albanese, the co-host of the conference, blamed difficult geopolitical times for the failure.",
-        "hook_bn": "'গভীরভাবে হতাশ' জাতিসংঘের মহাসচিব আন্তোনিও গুতেরেস",
-        "kicker_bn": "জলবায়ু সম্মেলন",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": true,
       "social_appeal": 4.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-23T06:01:41.430566+00:00"
+        "checked_at": "2026-11-23T07:01:49.739938+00:00"
       }
     }
   ]
