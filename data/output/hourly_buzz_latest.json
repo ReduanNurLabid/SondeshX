@@ -1,168 +1,311 @@
 {
-  "updated_at": "2026-11-23T08:00:47.419370",
-  "total_stories": 2,
+  "updated_at": "2026-11-23T09:01:00.319675",
+  "total_stories": 4,
   "stories": [
     {
-      "story_id": "061d96f9-f12d-5aec-8dda-46b84f673089",
-      "primary_category": "economy_business",
+      "story_id": "25138e67-5e73-5587-9dae-7e3979b10aa1",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "economy_business",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Ashulia",
-        "#GarmentWorkers"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1498811008858-d95a730b2ffc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZmFjdG9yaWVzJTIwY2xvc2VkJTIwaG9saWRheXMlMjBkZWNsYXJlZCUyMGJ1c2luZXNzfGVufDF8MHx8fDE3OTU0MjA4ODF8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-21%2Fe4ylizeb%2FBGB-Law-and-order-01.jpeg?rect=114%2C0%2C1371%2C720&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-23T07:50:11+00:00",
+      "published_at": "2026-11-23T08:33:35+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.75,
-      "rank_score": 5.9423,
+      "importance_score": 7.5,
+      "rank_score": 5.4733,
       "sources": [
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/425478/workers-block-road-in-ashulia-28-factories",
-          "title": "Workers block road in Ashulia; 28 factories declare holiday",
-          "snippet": "Workers block road in Ashulia; 28 factories declare holiday"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/urmfy7g0q3",
+          "title": "ঢাকাসহ বিভিন্ন জেলায় ৯৮ প্লাটুন বিজিবি মোতায়েন, নিরাপত্তা জোরদার",
+          "snippet": "ঢাকাসহ বিভিন্ন জেলায় ৯৮ প্লাটুন বিজিবি মোতায়েন, নিরাপত্তা জোরদার"
         },
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1182641",
-          "title": "সাভারে শ্রমিক বিক্ষোভে ফের ২২ কারখানা বন্ধ, ২৩টিতে ছুটি",
-          "snippet": "সাভারে শ্রমিক বিক্ষোভে ফের ২২ কারখানা বন্ধ, ২৩টিতে ছুটি"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সাভার ও আশুলিয়ায় শ্রমিক বিক্ষোভে কারখানা বন্ধ ও ছুটি ঘোষণা করা হয়েছে।",
-        "title_en": "Factories closed and holidays declared amid worker protests in Savar and Ashulia.",
-        "summary_bn": "সাভার ও আশুলিয়ার শিল্পাঞ্চলে শ্রমিক অসন্তোষের জেরে ২২টি কারখানা বন্ধ এবং ২৩টিতে সাধারণ ছুটি ঘোষণা করা হয়েছে।",
-        "summary_en": "Twenty-two factories have been closed and general holidays declared in 23 others amid worker unrest in the Savar-Ashulia industrial zone.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T07:50:11+00:00",
-        "lead_bn": "সাভার ও আশুলিয়ার শিল্পাঞ্চলে শ্রমিক অসন্তোষের জেরে ২২টি কারখানা বন্ধ এবং ২৩টিতে সাধারণ ছুটি ঘোষণা করা হয়েছে।",
-        "lead_en": "Twenty-two factories have been closed and general holidays declared in 23 others amid worker unrest in the Savar-Ashulia industrial zone.",
-        "bullets_bn": [
-          "আশুলিয়ায় শ্রমিকরা সড়ক অবরোধ করে একটি বাসে ভাঙচুরের চেষ্টা চালায়।",
-          "বিক্ষোভকারীরা আশেপাশের বেশ কয়েকটি কারখানায় হামলার চেষ্টা চালায়।",
-          "তবে পূর্বের কয়েক দিনের তুলনায় বেশিরভাগ পোশাক কারখানার শ্রমিকদের কাজে যোগ দিতে দেখা গেছে।"
-        ],
-        "bullets_en": [
-          "Workers blocked a road and attempted to vandalize a bus in Ashulia.",
-          "Protesters attempted to attack several nearby factories.",
-          "However, workers at most garment factories were seen joining shifts compared to past days."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "নিম্নতম মজুরি বৃদ্ধির দাবিতে সাভার ও আশুলিয়া শিল্পাঞ্চলে শ্রমিক অসন্তোষের জেরে এই পরিস্থিতি সৃষ্টি হয়। এর ফলে ২২টি কারখানা বন্ধ ঘোষণা করা হয় এবং ২৩টিতে ছুটি দেওয়া হয়।",
-        "details_en": "The situation arose due to worker unrest in the Savar and Ashulia industrial zones demanding an increase in the minimum wage, leading to the closure of 22 factories and holidays in 23 others.",
-        "hook_bn": "শ্রমিক বিক্ষোভে বন্ধ ৪৫ কারখানা",
-        "kicker_bn": "শ্রমিক অসন্তোষ",
-        "share_value": true,
-        "question_bn": "আপনার এলাকার শিল্পাঞ্চলের বর্তমান পরিস্থিতি কেমন?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 2,
-      "trending": true,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-23T08:01:46.039707+00:00"
-      }
-    },
-    {
-      "story_id": "2b19e12e-0b9b-5fb4-ae96-1da936343ba8",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Narayanganj",
-        "#Signboard",
-        "#DhakaChittagongHighway"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1638837758350-1396fd6555e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YnVzJTIwdHJ1Y2slMjBzZXQlMjBmaXJlJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1NDIwODg5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-23T07:03:57+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.75,
-      "rank_score": 4.3115,
-      "sources": [
-        {
           "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/425472/bus-truck-set-on-fire-in-separate-incidents-in",
-          "title": "Bus, truck set on fire in separate incidents in Narayanganj",
-          "snippet": "Bus, truck set on fire in separate incidents in Narayanganj"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/bus-set-fire-narayanganjs-signboard-area-1611306",
-          "title": "Bus set on fire in Narayanganj's Signboard area",
-          "snippet": "Bus set on fire in Narayanganj's Signboard area"
+          "url": "https://www.dhakatribune.com/bangladesh/425481/98-bgb-platoons-deployed-in-dhaka-several",
+          "title": "98 BGB platoons deployed in Dhaka, several districts",
+          "snippet": "98 BGB platoons deployed in Dhaka, several districts"
         },
         {
           "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822571/%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A3%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%95%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%95-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%B8-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A7%81%E0%A6%A8",
-          "title": "নারায়ণগঞ্জে কয়েক ঘণ্টার ব্যবধানে বাস-ট্রাকে আগুন",
-          "snippet": "নারায়ণগঞ্জে কয়েক ঘণ্টার ব্যবধানে বাস-ট্রাকে আগুন"
+          "url": "https://www.ittefaq.com.bd/822591/%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A7%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%A8%E0%A6%B8%E0%A6%B9-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A7%AF%E0%A7%AE-%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%9F%E0%A7%81%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%BF",
+          "title": "গোপালগঞ্জে ২ ব্যাটালিয়নসহ দেশে ৯৮ প্লাটুন বিজিবি মোতায়েন",
+          "snippet": "গোপালগঞ্জে ২ ব্যাটালিয়নসহ দেশে ৯৮ প্লাটুন বিজিবি মোতায়েন"
         },
         {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/country/500185",
-          "title": "নারায়ণগঞ্জে কয়েক ঘণ্টার ব্যবধানে বাস-ট্রাকে আগুন",
-          "snippet": "নারায়ণগঞ্জে কয়েক ঘণ্টার ব্যবধানে বাস-ট্রাকে আগুন"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/law-and-crime/982713/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B8%E0%A6%B9-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A7%AF%E0%A7%AE-%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%9F%E0%A7%81%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%BF-%E0%A6%AE%E0%A7%8B%E0%A6%A4%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%A8",
+          "title": "ঢাকাসহ বিভিন্ন জেলায় ৯৮ প্লাটুন বিজিবি মোতায়েন",
+          "snippet": "ঢাকাসহ বিভিন্ন জেলায় ৯৮ প্লাটুন বিজিবি মোতায়েন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নারায়ণগঞ্জে দুর্বৃত্তদের দেওয়া আগুনে বাস ও ট্রাক পুড়ে গেছে।",
-        "title_en": "Bus and truck set on fire by miscreants in Narayanganj.",
-        "summary_bn": "নারায়ণগঞ্জে দুর্বৃত্তদের পৃথক আগুনে একটি বাস ও গার্মেন্টস বর্জ্যবোঝাই ট্রাক পুড়ে গেছে।",
-        "summary_en": "Miscreants set fire to a bus and a truck carrying garment waste in separate incidents in Narayanganj.",
+        "title_bn": "আইনশৃঙ্খলা রক্ষায় ঢাকাসহ বিভিন্ন জেলায় ৯৮ প্লাটুন বিজিবি মোতায়েন",
+        "title_en": "98 BGB platoons deployed in Dhaka and other districts for security",
+        "summary_bn": "আইনশৃঙ্খলা পরিস্থিতি নিয়ন্ত্রণ ও জননিরাপত্তা নিশ্চিত করতে ঢাকাসহ দেশের বিভিন্ন জেলায় ৯৮ প্লাটুন বর্ডার গার্ড বাংলাদেশ মোতায়েন করা হয়েছে।",
+        "summary_en": "Ninety-eight platoons of Border Guard Bangladesh have been deployed in Dhaka and various districts to control law and order.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "world_diplomacy"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-23T07:03:57+00:00",
-        "lead_bn": "নারায়ণগঞ্জে দুর্বৃত্তদের পৃথক আগুনে একটি বাস ও গার্মেন্টস বর্জ্যবোঝাই ট্রাক পুড়ে গেছে।",
-        "lead_en": "Miscreants set fire to a bus and a truck carrying garment waste in separate incidents in Narayanganj.",
+        "published_at": "2026-11-23T08:33:35+00:00",
+        "lead_bn": "আইনশৃঙ্খলা পরিস্থিতি নিয়ন্ত্রণ ও জননিরাপত্তা নিশ্চিত করতে ঢাকাসহ দেশের বিভিন্ন জেলায় ৯৮ প্লাটুন বর্ডার গার্ড বাংলাদেশ মোতায়েন করা হয়েছে।",
+        "lead_en": "Ninety-eight platoons of Border Guard Bangladesh have been deployed in Dhaka and various districts to control law and order.",
         "bullets_bn": [
-          "ঢাকা-চট্টগ্রাম মহাসড়কের সাইনবোর্ড এলাকার গিরিধারা এলাকায় একটি অনাবিল পরিবহনের বাসে আগুন দেওয়া হয়।",
-          "দ্বিতীয় ঘটনায় সিএনজিচালিত অটোরিকশার স্ট্যান্ডের কাছে একটি ট্রাকে আগুন দেওয়া হয়।",
-          "মালিকদের দাবি অনুযায়ী দুই ঘটনায় প্রায় ১৫ লাখ টাকার ক্ষতি হয়েছে।"
+          "স্বরাষ্ট্র মন্ত্রণালয়ের নির্দেশে ঢাকা, গাজীপুর, নারায়ণগঞ্জ, ময়মনসিংহ, ফরিদপুর, চট্টগ্রাম ও কক্সবাজার জেলায় বিজিবি সদস্যরা দায়িত্ব পালন করছেন।",
+          "এর মধ্যে গোপালগঞ্জে দুই ব্যাটালিয়ন বিজিবি মোতায়েন করা হয়েছে বলে জানানো হয়।",
+          "বিজিবি সদর দপ্তরের মনিটরিং সেল থেকে ড্রোন ও বডি-ওর্ন ক্যামেরার মাধ্যমে মাঠপর্যায়ের পরিস্থিতি প্রযুক্তিনির্ভর নজরদারি করা হচ্ছে।"
         ],
         "bullets_en": [
-          "An Anabil Paribahan bus parked in the Giridhara area of Signboard on the Dhaka-Chittagong Highway was set on fire.",
-          "The second incident took place near a CNG-run auto-rickshaw stand where a truck was torched.",
-          "Owners claimed that the two incidents caused losses of approximately Tk 15 lakh."
+          "BGB members are on duty in Dhaka, Gazipur, Narayanganj, Mymensingh, Faridpur, Chattogram and Cox's Bazar under the directives of the Ministry of Home Affairs.",
+          "Among them, two battalions of BGB have been deployed in Gopalganj.",
+          "Field-level situations are monitored technologically using drones and body-worn cameras from the BGB headquarters monitoring cell."
+        ],
+        "impact_bn": "সাধারণ মানুষের জানমালের নিরাপত্তা, স্বাভাবিক চলাচল ও দৈনন্দিন কার্যক্রম নির্বিঘ্ন রাখতে বিজিবি প্রয়োজনীয় সতর্কতামূলক ব্যবস্থা গ্রহণ করছে।",
+        "impact_en": "BGB is taking necessary precautionary measures to ensure the security of ordinary people's lives and property, normal movement, and daily activities.",
+        "details_bn": "স্বরাষ্ট্র মন্ত্রণালয়ের নির্দেশে দেশের আইনশৃঙ্খলা পরিস্থিতি নিয়ন্ত্রণ এবং জননিরাপত্তা নিশ্চিত করতে এই বিজিবি সদস্যরা সংশ্লিষ্ট জেলা প্রশাসন ও অন্যান্য আইনশৃঙ্খলা রক্ষাকারী বাহিনীর সঙ্গে সমন্বয় করে দায়িত্ব পালন করছেন।",
+        "details_en": "Under the directives of the Ministry of Home Affairs, these BGB members are performing duties in coordination with the respective district administration and other law enforcement agencies to control the law and order situation and ensure public safety.",
+        "hook_bn": "ঢাকাসহ বিভিন্ন জেলায় বিজিবি মোতায়েন",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": "আপনার এলাকায় আইনশৃঙ্খলা পরিস্থিতি কেমন দেখছেন?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 4,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-23T09:02:33.642424+00:00"
+      }
+    },
+    {
+      "story_id": "c12e7e08-7151-5f86-be98-ff2db4b0c5eb",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness",
+        "climate_environment"
+      ],
+      "region": "national",
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-23%2Fd14xo1m3%2FOMT9862.JPG?rect=0%2C0%2C4902%2C2574&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-23T07:29:05+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.5,
+      "rank_score": 3.8636,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/sports/cricket/ph1g04v88a",
+          "title": "বাংলাদেশ–দক্ষিণ আফ্রিকা: কাভার সরানো শুরুর পর আবার বৃষ্টি",
+          "snippet": "বাংলাদেশ–দক্ষিণ আফ্রিকা: কাভার সরানো শুরুর পর আবার বৃষ্টি"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/sport/cricket/425488/rain-delays-toss-in-2nd-bangladesh-south-africa",
+          "title": "Rain delays toss in 2nd Bangladesh-South Africa Test",
+          "snippet": "Rain delays toss in 2nd Bangladesh-South Africa Test"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/bangladesh-south-africa-2nd-test-centurion-sports-live/",
+          "title": "সরাসরি সেঞ্চুরিয়ন: টসে কেন দেরি?",
+          "snippet": "সরাসরি সেঞ্চুরিয়ন: টসে কেন দেরি?"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাংলাদেশ ও দক্ষিণ আফ্রিকা টেস্টের টস বৃষ্টির কারণে বিলম্বিত হয়েছে।",
+        "title_en": "Toss for Bangladesh and South Africa test delayed due to rain.",
+        "summary_bn": "সেঞ্চুরিয়নে বাংলাদেশ ও দক্ষিণ আফ্রিকার দ্বিতীয় ও শেষ টেস্টের টস বৃষ্টির কারণে নির্ধারিত সময়ে হয়নি।",
+        "summary_en": "The toss for the second and final Test between Bangladesh and South Africa in Centurion was delayed due to rain.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness",
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-23T07:29:05+00:00",
+        "lead_bn": "সেঞ্চুরিয়নে বাংলাদেশ ও দক্ষিণ আফ্রিকার দ্বিতীয় ও শেষ টেস্টের টস বৃষ্টির কারণে নির্ধারিত সময়ে হয়নি।",
+        "lead_en": "The toss for the second and final Test between Bangladesh and South Africa in Centurion was delayed due to rain.",
+        "bullets_bn": [
+          "মাঠকর্মীরা মূল পিচ ও বোলারদের রান-আপ ঢেকে রেখেছেন।",
+          "আম্পায়াররা ছাতা মাথায় মাঠে নেমে মাঠের অবস্থা ঘুরে দেখেছেন।",
+          "প্রোটিয়ারা সিরিজে ১-০তে এগিয়ে রয়েছে।"
+        ],
+        "bullets_en": [
+          "Groundstaff covered the main pitch and bowlers run-ups.",
+          "Umpires walked onto the field with umbrellas to inspect conditions.",
+          "The Proteas lead the series 1-0."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "দিবাগত রাত সোয়া ১২টার দিকে ঢাকা-চট্টগ্রাম মহাসড়কের সাইনবোর্ড এলাকায় প্রথম ঘটনাটি ঘটে এবং রাত সাড়ে ১২টার দিকে আগুন নেভানো হয়। এর পর রাত পৌনে পাঁচটার দিকে আরেকটি ট্রাকে আগুন দেওয়ার ঘটনা ঘটে। পেট্রোল বোমা নিক্ষেপ করে এসব আগুন দেওয়ার অভিযোগ রয়েছে এবং এতে কোনো হতাহতের খবর পাওয়া যায়নি।",
-        "details_en": "The first incident occurred around 12:15am in the Signboard area on the Dhaka-Chittagong Highway, and the fire was extinguished at approximately 12:45am. The second incident took place around 4:45am. It was alleged that petrol bombs were thrown in these separate incidents, and no casualties were reported.",
-        "hook_bn": "নারায়ণগঞ্জে বাস ও ট্রাকে আগুন",
+        "details_bn": "সেঞ্চুরিয়নে গুঁড়ি গুঁড়ি বৃষ্টির পর একবার বৃষ্টি থামলেও ক্রিকইনফো জানিয়েছে আবার বৃষ্টি নেমে গেছে এবং খেলা শুরু হতে বেশ খানিকটা দেরি হবে।",
+        "details_en": "After light rain in Centurion, play was delayed as covers remained on the pitch and intermittent rain continued.",
+        "hook_bn": "সেঞ্চুরিয়নে বৃষ্টিতে টস পিছিয়েছে",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 6.0,
-      "outlet_count": 4,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-23T09:02:33.642424+00:00"
+      }
+    },
+    {
+      "story_id": "deb2bd31-a0c9-5318-9e3b-b6de0aca59f7",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#WorldBank",
+        "#AbdulMoyeenKhan",
+        "#Bangladesh",
+        "#ClimateChange"
+      ],
+      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_153c58e42ce7db2248e849141d16e92f.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-23T09:01:17.457125+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5975,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/wb-to-provide-200m-to-improve-coastal-livelihoods-moyeen",
+          "title": "WB to provide $200m to improve coastal livelihoods: Moyeen",
+          "snippet": "WB to provide $200m to improve coastal livelihoods: Moyeen"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "উপকূলীয় মানুষের জীবনমান উন্নয়নে ২০০ মিলিয়ন ডলার দেবে বিশ্বব্যাংক",
+        "title_en": "World Bank to provide $200m to improve coastal livelihoods",
+        "summary_bn": "বাংলাদেশের উপকূলীয় অঞ্চলের মানুষের জীবনমান উন্নয়ন ও জলবায়ুর ক্ষতিকর প্রভাব মোকাবেলায় ২০০ মিলিয়ন ডলার সহায়তার প্রতিশ্রুতি দিয়েছে বিশ্বব্যাংক।",
+        "summary_en": "The World Bank has pledged $200 million in assistance to improve living standards in Bangladesh's coastal regions and protect against climate change.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-23T09:01:17.457125+00:00",
+        "lead_bn": "বাংলাদেশের উপকূলীয় অঞ্চলের মানুষের জীবনমান উন্নয়ন ও জলবায়ুর ক্ষতিকর প্রভাব মোকাবেলায় ২০০ মিলিয়ন ডলার সহায়তার প্রতিশ্রুতি দিয়েছে বিশ্বব্যাংক।",
+        "lead_en": "The World Bank has pledged $200 million in assistance to improve living standards in Bangladesh's coastal regions and protect against climate change.",
+        "bullets_bn": [
+          "সচিবালয়ে মন্ত্রীর দপ্তরে বিশ্বব্যাংক প্রতিনিধিদের সাথে এক বৈঠকে এই তহবিল নিয়ে আলোচনা হয়।",
+          "বৈঠকে বিশ্বব্যাংকের বাংলাদেশ ও ভুটানের ডিভিশন ডিরেক্টর জিন পেসমসহ অন্যান্য ঊর্ধ্বতন কর্মকর্তারা উপস্থিত ছিলেন।",
+          "এছাড়া ঢাকা শহরের ওপর জনসংখ্যার চাপ কমানো এবং বস্তিবাসীর জীবনযাত্রার মানোন্নয়ন নিয়েও আলোচনা করা হয়েছে।"
+        ],
+        "bullets_en": [
+          "The issue was discussed at a meeting with World Bank representatives at the minister's office at the Secretariat.",
+          "Jean Pesme, World Bank Division Director for Bangladesh and Bhutan, and other officials attended the meeting.",
+          "Discussions also covered reducing population pressure in Dhaka and improving living standards for low-income residents."
+        ],
+        "impact_bn": "এই তহবিল উপকূলীয় সম্প্রদায়ের জীবনযাত্রা টেকসই করতে এবং জলবায়ুর নেতিবাচক প্রভাব থেকে তাদের রক্ষা করতে সাহায্য করবে।",
+        "impact_en": "The fund will be used to make coastal livelihoods sustainable and help communities protect themselves from adverse climate impacts.",
+        "details_bn": "স্থানীয় সরকার, পল্লী উন্নয়ন ও সমবায় মন্ত্রী ড. আবদুল মোয়েন খান জানিয়েছেন, ঢাকার ভাসানটেক, কড়াইলসহ নির্দিষ্ট এলাকায় মডেল প্রকল্প তৈরির মাধ্যমে গরিব ও শ্রমজীবী মানুষের জীবনমান উন্নয়নের পরিকল্পনা রয়েছে।",
+        "details_en": "Local Government, Rural Development and Cooperatives Minister Dr Abdul Moyeen Khan said plans include developing model projects in specific areas like Korail and Bhashantek to improve the lives of urban poor.",
+        "hook_bn": "উপকূলীয় উন্নয়নে ২০০ মিলিয়ন ডলার সহায়তা",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-23T09:02:33.642424+00:00"
+      }
+    },
+    {
+      "story_id": "37305f99-4a7c-520e-8b17-3c92f7ac191b",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.channelionline.com/2026/11/kuwait.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-11-23T08:57:25+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5841,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/bangladeshi-killed-kuwait-landmine-blast/",
+          "title": "কুয়েতের মরুভূমিতে মাইন বিস্ফোরণে বাংলাদেশি রাখাল নিহত",
+          "snippet": "কুয়েতের মরুভূমিতে মাইন বিস্ফোরণে বাংলাদেশি রাখাল নিহত"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কুয়েতের মরুভূমিতে মাইন বিস্ফোরণে বাংলাদেশি রাখাল নিহত",
+        "title_en": "Bangladeshi shepherd killed in landmine explosion in Kuwaiti desert",
+        "summary_bn": "কুয়েতের আল-সালমি মরুভূমিতে স্থলমাইন বিস্ফোরণে ২৮ বছর বয়সি এক বাংলাদেশি রাখাল নিহত হয়েছেন।",
+        "summary_en": "A twenty-eight-year-old Bangladeshi shepherd was killed in a landmine explosion in Kuwait's Al-Salmi desert.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-23T08:57:25+00:00",
+        "lead_bn": "কুয়েতের আল-সালমি মরুভূমিতে স্থলমাইন বিস্ফোরণে ২৮ বছর বয়সি এক বাংলাদেশি রাখাল নিহত হয়েছেন।",
+        "lead_en": "A twenty-eight-year-old Bangladeshi shepherd was killed in a landmine explosion in Kuwait's Al-Salmi desert.",
+        "bullets_bn": [
+          "বিস্ফোরণের ঘটনায় কাছাকাছি থাকা একটি উট আহত হয়েছে।",
+          "নিহত ব্যক্তির পুরো পরিচয় এখনও নিশ্চিত করেনি কুয়েতের কর্তৃপক্ষ।",
+          "বাংলাদেশ দূতাবাস জানিয়েছে তারা বিস্ফোরণে এক বাংলাদেশির মৃত্যুর খবর পেয়েছে।"
+        ],
+        "bullets_en": [
+          "A nearby camel was injured in the explosion.",
+          "Kuwaiti authorities have not yet confirmed the full identity of the deceased.",
+          "The Bangladesh embassy stated it received news of a Bangladeshi citizen's death in the explosion."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "১৯৯০ সালে ইরাকের কুয়েত আগ্রাসনের সময় পুঁতে রাখা মাইন থেকে এ দুর্ঘটনা ঘটেছে বলে জানিয়েছে দেশটির কর্তৃপক্ষ। কুয়েতের সংবাদমাধ্যম জিডিএন অনలైনের প্রতিবেদন অনুযায়ী, মরুভূমির একটি এলাকায় বিস্ফোরণের খবর পায় দেশটির স্বরাষ্ট্র মন্ত্রণালয়। ঘটনার পর মাইনটি নিষ্ক্রিয় করতে এবং আশপাশের এলাকায় বিস্ফোরক পরীক্ষার জন্য সেনবাহিনীর বিস্ফোরক নিষ্ক্রিয়করণ দল পাঠানো হয়।",
+        "details_en": "Authorities said the accident resulted from a landmine planted during the Iraqi invasion of Kuwait in 1990. According to Kuwaiti media GDN Online, the interior ministry received news of an explosion in a desert area on Thursday. Following the incident, the army's bomb disposal team was sent to deactivate the mine and check for explosives in surrounding areas.",
+        "hook_bn": "কুয়েতের মরুভূমিতে মাইন বিস্ফোরণে বাংলাদেশি নিহত",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
       "trending": false,
       "social_appeal": 7.0,
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-23T08:01:46.039707+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-23T09:02:33.642424+00:00"
       }
     }
   ]
