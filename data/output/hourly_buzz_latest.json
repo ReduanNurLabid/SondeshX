@@ -1,476 +1,168 @@
 {
-  "updated_at": "2026-11-23T07:00:50.240109",
-  "total_stories": 6,
+  "updated_at": "2026-11-23T08:00:47.419370",
+  "total_stories": 2,
   "stories": [
     {
-      "story_id": "f7539366-1aba-541f-868d-ff93f8befae6",
-      "primary_category": "society_education",
+      "story_id": "061d96f9-f12d-5aec-8dda-46b84f673089",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "society_education",
+        "economy_business",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#SupremeCourt",
-        "#PublicUniversity",
-        "#AdmissionTest",
-        "#HSC"
+        "#Ashulia",
+        "#GarmentWorkers"
       ],
-      "image_url": "https://images.unsplash.com/photo-1732721093900-5b1f9091cf5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YXBwZWxsYXRlJTIwZGl2aXNpb24lMjBjbGVhcnMlMjB3YXklMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NTQxNzI4Mnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1498811008858-d95a730b2ffc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZmFjdG9yaWVzJTIwY2xvc2VkJTIwaG9saWRheXMlMjBkZWNsYXJlZCUyMGJ1c2luZXNzfGVufDF8MHx8fDE3OTU0MjA4ODF8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-23T06:30:19+00:00",
+      "published_at": "2026-11-23T07:50:11+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 7.75,
-      "rank_score": 5.8298,
+      "rank_score": 5.9423,
       "sources": [
         {
           "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/court/425467/public-university-admission-tests-can-proceed",
-          "title": "Public university admission tests can proceed, rules top court",
-          "snippet": "Public university admission tests can proceed, rules top court"
+          "url": "https://www.dhakatribune.com/bangladesh/425478/workers-block-road-in-ashulia-28-factories",
+          "title": "Workers block road in Ashulia; 28 factories declare holiday",
+          "snippet": "Workers block road in Ashulia; 28 factories declare holiday"
         },
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/no-legal-bar-holding-public-university-admission-tests-hsc-re-exam-results-appellate",
-          "title": "No legal bar to holding public university admission tests before HSC re-exam results: Appellate Division",
-          "snippet": "No legal bar to holding public university admission tests before HSC re-exam results: Appellate Division"
-        },
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/education/higher-education/2ql52k60a9",
-          "title": "পাবলিক বিশ্ববিদ্যালয়গুলো নিজস্ব নিয়ম–পদ্ধতিতে ভর্তি কার্যক্রম চালাতে পারবে",
-          "snippet": "পাবলিক বিশ্ববিদ্যালয়গুলো নিজস্ব নিয়ম–পদ্ধতিতে ভর্তি কার্যক্রম চালাতে পারবে"
-        },
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/bangladesh/education/news/sc-clears-way-public-universities-medical-colleges-hold-admission-tests-4331006",
-          "title": "SC clears way for public universities, medical colleges to hold admission tests",
-          "snippet": "SC clears way for public universities, medical colleges to hold admission tests"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1182641",
+          "title": "সাভারে শ্রমিক বিক্ষোভে ফের ২২ কারখানা বন্ধ, ২৩টিতে ছুটি",
+          "snippet": "সাভারে শ্রমিক বিক্ষোভে ফের ২২ কারখানা বন্ধ, ২৩টিতে ছুটি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পাবলিক বিশ্ববিদ্যালয়ের ভর্তি পরীক্ষা নেওয়ার পথ পরিষ্কার করল আপিল বিভাগ।",
-        "title_en": "Appellate Division clears the way for public university admission tests.",
-        "summary_bn": "সুপ্রিমের আপিল বিভাগ পাবলিক বিশ্ববিদ্যালয়ের ভর্তি পরীক্ষা স্থগিত রাখার হাইকোর্টের আদেশ স্থগিত করেছে।",
-        "summary_en": "The Appellate Division of the Supreme Court has stayed a High Court order suspending public university admission tests.",
+        "title_bn": "সাভার ও আশুলিয়ায় শ্রমিক বিক্ষোভে কারখানা বন্ধ ও ছুটি ঘোষণা করা হয়েছে।",
+        "title_en": "Factories closed and holidays declared amid worker protests in Savar and Ashulia.",
+        "summary_bn": "সাভার ও আশুলিয়ার শিল্পাঞ্চলে শ্রমিক অসন্তোষের জেরে ২২টি কারখানা বন্ধ এবং ২৩টিতে সাধারণ ছুটি ঘোষণা করা হয়েছে।",
+        "summary_en": "Twenty-two factories have been closed and general holidays declared in 23 others amid worker unrest in the Savar-Ashulia industrial zone.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
+          "economy_business",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-23T06:30:19+00:00",
-        "lead_bn": "সুপ্রিমের আপিল বিভাগ পাবলিক বিশ্ববিদ্যালয়ের ভর্তি পরীক্ষা স্থগিত রাখার হাইকোর্টের আদেশ স্থগিত করেছে।",
-        "lead_en": "The Appellate Division of the Supreme Court has stayed a High Court order suspending public university admission tests.",
+        "published_at": "2026-11-23T07:50:11+00:00",
+        "lead_bn": "সাভার ও আশুলিয়ার শিল্পাঞ্চলে শ্রমিক অসন্তোষের জেরে ২২টি কারখানা বন্ধ এবং ২৩টিতে সাধারণ ছুটি ঘোষণা করা হয়েছে।",
+        "lead_en": "Twenty-two factories have been closed and general holidays declared in 23 others amid worker unrest in the Savar-Ashulia industrial zone.",
         "bullets_bn": [
-          "প্রধান বিচারপতির নেতৃত্বাধীন পাঁচ সদস্যের আপিল বিভাগ রাষ্ট্রপক্ষের করা আবেদনের শুনানি নিয়ে এই আদেশ দেন।",
-          "এইচএসসি ও সমমানের পরীক্ষার ফলাফল প্রকাশের আগে পরীক্ষা বন্ধ রাখার হাইকোর্টের আদেশ স্থগিত করা হয়েছে।",
-          "বিশ্ববিদ্যালয়গুলো নিজস্ব নিয়ম-পদ্ধতিতে এবং ইউজিসির নির্দেশিকা অনুযায়ী ভর্তি কার্যক্রম চালাতে পারবে।"
+          "আশুলিয়ায় শ্রমিকরা সড়ক অবরোধ করে একটি বাসে ভাঙচুরের চেষ্টা চালায়।",
+          "বিক্ষোভকারীরা আশেপাশের বেশ কয়েকটি কারখানায় হামলার চেষ্টা চালায়।",
+          "তবে পূর্বের কয়েক দিনের তুলনায় বেশিরভাগ পোশাক কারখানার শ্রমিকদের কাজে যোগ দিতে দেখা গেছে।"
         ],
         "bullets_en": [
-          "The five-member Appellate Division led by the Chief Justice passed the order following an appeal by the state.",
-          "The High Court order barring tests before the publication of HSC results has been stayed.",
-          "Universities can conduct admission activities under their own rules and in line with UGC guidelines."
+          "Workers blocked a road and attempted to vandalize a bus in Ashulia.",
+          "Protesters attempted to attack several nearby factories.",
+          "However, workers at most garment factories were seen joining shifts compared to past days."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "চলতি বছরের এইচএসসি ও সমমান পরীক্ষায় অকৃতকার্য শিক্ষার্থীদের খাতা পুনর্মূল্যায়ন ও পুনঃপরীক্ষার ফল প্রকাশ না করা পর্যন্ত দেশের সব পাবলিক বিশ্ববিদ্যালয়ের ভর্তি পরীক্ষা স্থগিত রাখতে হাইকোর্ট আদেশ দিয়েছিল। পাশাপাশি বিশ্ববিদ্যালয়গুলোকে ভর্তি পোর্টাল খোলা রাখতে বা যোগ্য প্রার্থীদের শর্তসাপেক্ষে আবেদন করতে দিতে বলা হয়েছিল। রাষ্ট্রপক্ষের করা আবেদনের শুনানি শেষে আপিল বিভাগ এই আদেশ দেন।",
-        "details_en": "The High Court had earlier directed to suspend admission tests at all public universities until the publication of re-evaluated answer scripts and re-examinations results of this year's HSC and equivalent exams. It also directed universities to keep admission portals open or allow eligible candidates to apply conditionally. The Appellate Division passed the order following an appeal filed by the state.",
-        "hook_bn": "পাবলিক বিশ্ববিদ্যালয়ের ভর্তি পরীক্ষায় বাধা নেই",
-        "kicker_bn": "রায় ঘোষণা",
+        "details_bn": "নিম্নতম মজুরি বৃদ্ধির দাবিতে সাভার ও আশুলিয়া শিল্পাঞ্চলে শ্রমিক অসন্তোষের জেরে এই পরিস্থিতি সৃষ্টি হয়। এর ফলে ২২টি কারখানা বন্ধ ঘোষণা করা হয় এবং ২৩টিতে ছুটি দেওয়া হয়।",
+        "details_en": "The situation arose due to worker unrest in the Savar and Ashulia industrial zones demanding an increase in the minimum wage, leading to the closure of 22 factories and holidays in 23 others.",
+        "hook_bn": "শ্রমিক বিক্ষোভে বন্ধ ৪৫ কারখানা",
+        "kicker_bn": "শ্রমিক অসন্তোষ",
         "share_value": true,
-        "question_bn": "পাবলিক বিশ্ববিদ্যালয়ের ভর্তি পরীক্ষা নিয়ে আদালতের এই সিদ্ধান্তে আপনার কী মতামত?"
+        "question_bn": "আপনার এলাকার শিল্পাঞ্চলের বর্তমান পরিস্থিতি কেমন?"
       },
       "desk_importance": 7.0,
-      "outlet_count": 7,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-23T07:01:49.739938+00:00"
-      }
-    },
-    {
-      "story_id": "7f34b255-34a4-5a6b-98bc-f33fcf21e0ee",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "sports_fitness"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1718128120413-783e25de9a3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z292ZXJubWVudCUyMG1ha2VzJTIwc2V2ZW4lMjBoZWFsdGglMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NTQxNzI5M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-23T06:37:55+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.8193,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1182613",
-          "title": "হজযাত্রীদের টিকার আগে করতে হবে ৭ ধরনের স্বাস্থ্য পরীক্ষা",
-          "snippet": "হজযাত্রীদের টিকার আগে করতে হবে ৭ ধরনের স্বাস্থ্য পরীক্ষা"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/national/500173",
-          "title": "হজ যাত্রীদের টিকা গ্রহণের আগে সাতটি টেস্ট বাধ্যতামূলক করেছে সরকার",
-          "snippet": "হজ যাত্রীদের টিকা গ্রহণের আগে সাতটি টেস্ট বাধ্যতামূলক করেছে সরকার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "হজ যাত্রীদের টিকা গ্রহণের আগে সাতটি স্বাস্থ্য পরীক্ষা বাধ্যতামূলক করা হয়েছে।",
-        "title_en": "Government makes seven health tests mandatory before Hajj pilgrims' vaccination.",
-        "summary_bn": "স্বাস্থ্য অধিদপ্তরের নির্দেশনা অনুযায়ী হজযাত্রীদের টিকা গ্রহণের আগে সাত ধরনের স্বাস্থ্য পরীক্ষা করা বাধ্যতামূলক করেছে সরকার।",
-        "summary_en": "The government has made seven types of health tests mandatory for Hajj pilgrims before vaccination, according to health department directives.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "sports_fitness"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T06:37:55+00:00",
-        "lead_bn": "স্বাস্থ্য অধিদপ্তরের নির্দেশনা অনুযায়ী হজযাত্রীদের টিকা গ্রহণের আগে সাত ধরনের স্বাস্থ্য পরীক্ষা করা বাধ্যতামূলক করেছে সরকার।",
-        "lead_en": "The government has made seven types of health tests mandatory for Hajj pilgrims before vaccination, according to health department directives.",
-        "bullets_bn": [
-          "হজযাত্রীদের টিকা গ্রহণের আগে ব্লাড গ্রুপিং ও আরএইচ টাইপিং পরীক্ষা করাতে হবে।",
-          "কমপ্লিট ব্লাড কাউন্ট এবং ইউরিন আর এম ই পরীক্ষা বাধ্যতামূলক করা হয়েছে।",
-          "বুকের এক্স-রে, ইসিজি, র‌্যান্ডম ব্লাড সুগার এবং সিরাম ক্রিয়েটিনিন পরীক্ষা করতে হবে।"
-        ],
-        "bullets_en": [
-          "Hajj pilgrims must undergo blood grouping and Rh typing before receiving vaccines.",
-          "Complete blood count and urine RME tests have been made mandatory.",
-          "Chest X-ray, ECG, random blood sugar and serum creatinine tests must be done."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "হজযাত্রীদের সাত ধরনের স্বাস্থ্য পরীক্ষা বাধ্যতামূলক",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": "হজযাত্রীদের জন্য এই স্বাস্থ্য পরীক্ষাগুলো বাধ্যতামূলক করার বিষয়ে আপনার মতামত কী?"
-      },
-      "desk_importance": 6.0,
       "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 8.0,
+      "trending": true,
+      "social_appeal": 7.0,
       "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-23T07:01:49.739938+00:00"
+        "status": "unchecked",
+        "checked_at": "2026-11-23T08:01:46.039707+00:00"
       }
     },
     {
-      "story_id": "19faf84c-2ace-5195-ad0c-fcc364cd1d9e",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Dhaka",
-        "#VegetablePrices"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1722871513349-45c61ed6aa5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZmluYW5jZSUyMGVjb25vbXklMjBiYW5nbGFkZXNofGVufDF8MHx8fDE3OTUyNDgwOTR8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-23T06:02:13+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.4009,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/425465/vegetable-prices-rise-by-tk20-50-per-kg",
-          "title": "Vegetable prices mark sharp rise in Dhaka",
-          "snippet": "Vegetable prices mark sharp rise in Dhaka"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ঢাকায় শাকসবজির দাম তীক্ষ্ণভাবে বৃদ্ধি পেয়েছে",
-        "title_en": "Vegetable prices mark sharp rise in Dhaka",
-        "summary_bn": "গত দুই দিনের বৃষ্টিপাত এবং বাজারে সরবরাহ হ্রাসের কারণে ঢাকায় শাকসবজির দাম বৃদ্ধি পেয়েছে।",
-        "summary_en": "Vegetable prices in Dhaka increased due to rainfall over the past two days and a decline in market supply.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T06:02:13+00:00",
-        "lead_bn": "গত দুই দিনের বৃষ্টিপাত এবং বাজারে সরবরাহ হ্রাসের কারণে ঢাকায় শাকসবজির দাম বৃদ্ধি পেয়েছে।",
-        "lead_en": "Vegetable prices in Dhaka increased due to rainfall over the past two days and a decline in market supply.",
-        "bullets_bn": [
-          "দাম বৃদ্ধির প্রধান কারণ হিসেবে গত দুই দিনের বৃষ্টিপাতকে দায়ী করেছেন ব্যবসায়ীরা।",
-          "বাজারে শাকসবজির সরবরাহ হ্রাস পাওয়ায় দাম বেড়েছে বলে ব্যবসায়ীরা জানিয়েছেন।",
-          "ঢাকা ট্রিবিউনের প্রতিবেদন অনুযায়ী বিক্রেতারা দাম বৃদ্ধির এই কারণগুলো উল্লেখ করেছেন।"
-        ],
-        "bullets_en": [
-          "Traders attributed the increase to rainfall over the past two days.",
-          "Traders stated that prices rose due to a decline in market supply.",
-          "The Dhaka Tribune report detailed these causes for the price hike."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ঢাকা ট্রিবিউনের প্রতিবেদন অনুযায়ী, গত দুই দিনের বৃষ্টিপাত এবং বাজারে সরবরাহ হ্রাসের কারণে এই দাম বৃদ্ধি ঘটেছে। ব্যবসায়ীরা এই পরিস্থিতির জন্য আবহাওয়া এবং সরবরাহ সংকটকে দায়ী করেছেন।",
-        "details_en": "According to the Dhaka Tribune report, the price increase occurred due to rainfall over the past two days and a decline in market supply. Traders attributed this situation to the weather and supply shortage.",
-        "hook_bn": "ঢাকায় শাকসবজির দাম বাড়ছে",
-        "kicker_bn": "দাম বাড়ছে",
-        "share_value": true,
-        "question_bn": "আপনার এলাকার বাজারে শাকসবজির দাম এখন কেমন?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 9.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-23T07:01:49.739938+00:00"
-      }
-    },
-    {
-      "story_id": "0b6f376d-b921-5a38-8ee3-143a8ba00b99",
+      "story_id": "2b19e12e-0b9b-5fb4-ae96-1da936343ba8",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
-        "economy_business"
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#ElectionCommission",
-        "#UPElection"
+        "#Narayanganj",
+        "#Signboard",
+        "#DhakaChittagongHighway"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/23/image-449051-1795413474.jpg",
+      "image_url": "https://images.unsplash.com/photo-1638837758350-1396fd6555e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YnVzJTIwdHJ1Y2slMjBzZXQlMjBmaXJlJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1NDIwODg5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-23T06:20:00+00:00",
+      "published_at": "2026-11-23T07:03:57+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.6488,
+      "importance_score": 6.75,
+      "rank_score": 4.3115,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/ec-hold-talks-political-parties-ahead-elections-1611286",
-          "title": "EC to hold talks with political parties ahead of UP elections",
-          "snippet": "EC to hold talks with political parties ahead of UP elections"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425472/bus-truck-set-on-fire-in-separate-incidents-in",
+          "title": "Bus, truck set on fire in separate incidents in Narayanganj",
+          "snippet": "Bus, truck set on fire in separate incidents in Narayanganj"
         },
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/ec-to-hold-talks-with-political-parties-ahead-of-up-elections",
-          "title": "EC to hold talks with political parties ahead of UP elections",
-          "snippet": "EC to hold talks with political parties ahead of UP elections"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/bus-set-fire-narayanganjs-signboard-area-1611306",
+          "title": "Bus set on fire in Narayanganj's Signboard area",
+          "snippet": "Bus set on fire in Narayanganj's Signboard area"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822571/%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A3%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%95%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%95-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%B8-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A7%81%E0%A6%A8",
+          "title": "নারায়ণগঞ্জে কয়েক ঘণ্টার ব্যবধানে বাস-ট্রাকে আগুন",
+          "snippet": "নারায়ণগঞ্জে কয়েক ঘণ্টার ব্যবধানে বাস-ট্রাকে আগুন"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/country/500185",
+          "title": "নারায়ণগঞ্জে কয়েক ঘণ্টার ব্যবধানে বাস-ট্রাকে আগুন",
+          "snippet": "নারায়ণগঞ্জে কয়েক ঘণ্টার ব্যবধানে বাস-ট্রাকে আগুন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইউনিয়ন পরিষদ নির্বাচন সামনে রেখে রাজনৈতিক দলগুলোর সঙ্গে নির্বাচন কমিশনের সংলাপ",
-        "title_en": "Election Commission to hold talks with political parties ahead of UP elections",
-        "summary_bn": "সুষ্ঠু ও গ্রহণযোগ্য ইউনিয়ন পরিষদ নির্বাচন নিশ্চিত করতে রাজনৈতিক দলগুলোর সঙ্গে তিন দিনের সংলাপের প্রস্তুতি নিচ্ছে নির্বাচন কমিশন।",
-        "summary_en": "The Election Commission is planning a three-day dialogue with political parties to ensure free, fair and credible Union Parishad elections.",
+        "title_bn": "নারায়ণগঞ্জে দুর্বৃত্তদের দেওয়া আগুনে বাস ও ট্রাক পুড়ে গেছে।",
+        "title_en": "Bus and truck set on fire by miscreants in Narayanganj.",
+        "summary_bn": "নারায়ণগঞ্জে দুর্বৃত্তদের পৃথক আগুনে একটি বাস ও গার্মেন্টস বর্জ্যবোঝাই ট্রাক পুড়ে গেছে।",
+        "summary_en": "Miscreants set fire to a bus and a truck carrying garment waste in separate incidents in Narayanganj.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law",
-          "economy_business"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-23T06:20:00+00:00",
-        "lead_bn": "সুষ্ঠু ও গ্রহণযোগ্য ইউনিয়ন পরিষদ নির্বাচন নিশ্চিত করতে রাজনৈতিক দলগুলোর সঙ্গে তিন দিনের সংলাপের প্রস্তুতি নিচ্ছে নির্বাচন কমিশন।",
-        "lead_en": "The Election Commission is planning a three-day dialogue with political parties to ensure free, fair and credible Union Parishad elections.",
+        "published_at": "2026-11-23T07:03:57+00:00",
+        "lead_bn": "নারায়ণগঞ্জে দুর্বৃত্তদের পৃথক আগুনে একটি বাস ও গার্মেন্টস বর্জ্যবোঝাই ট্রাক পুড়ে গেছে।",
+        "lead_en": "Miscreants set fire to a bus and a truck carrying garment waste in separate incidents in Narayanganj.",
         "bullets_bn": [
-          "সংলাপটি শুরু হতে পারে আগামী ২৯ বা ৩০ নভেম্বর এবং সব প্রস্তুতি সম্পন্ন হবে ১০ ডিসেম্বরের মধ্যে।",
-          "ত্রয়োদশ সংসদ নির্বাচনের আগে সংলাপে অংশ নেওয়া এবং পরবর্তী সময়ে নিবন্ধিত দলগুলোকে এই সংলাপে আমন্ত্রণ জানানো হবে।",
-          "নির্বাচনের প্রথম ধাপের ভোটগ্রহণ অনুষ্ঠিত হবে ২০২৭ সালের ২১ জানুয়ারি এবং তপশিল ঘোষণা করা হবে ডিসেম্বরের প্রথম সপ্তাহে।"
+          "ঢাকা-চট্টগ্রাম মহাসড়কের সাইনবোর্ড এলাকার গিরিধারা এলাকায় একটি অনাবিল পরিবহনের বাসে আগুন দেওয়া হয়।",
+          "দ্বিতীয় ঘটনায় সিএনজিচালিত অটোরিকশার স্ট্যান্ডের কাছে একটি ট্রাকে আগুন দেওয়া হয়।",
+          "মালিকদের দাবি অনুযায়ী দুই ঘটনায় প্রায় ১৫ লাখ টাকার ক্ষতি হয়েছে।"
         ],
         "bullets_en": [
-          "The dialogue may begin on 29 or 30 November and all preparations will be completed by 10 December.",
-          "Parties that joined consultations before the 13th parliamentary elections and subsequently registered parties will be invited.",
-          "The first phase of voting is scheduled for 21 January 2027, with the schedule expected in the first week of December."
+          "An Anabil Paribahan bus parked in the Giridhara area of Signboard on the Dhaka-Chittagong Highway was set on fire.",
+          "The second incident took place near a CNG-run auto-rickshaw stand where a truck was torched.",
+          "Owners claimed that the two incidents caused losses of approximately Tk 15 lakh."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "নির্বাচন কমিশন জানিয়েছে, বড় কোনো প্রাকৃতিক দুর্যোগ বা অনভিপ্রেত পরিস্থিতি না ঘটলে নির্ধারিত সময়েই ভোটগ্রহণ অনুষ্ঠিত হবে। অবাধ ও শান্তিপূর্ণ নির্বাচন আয়োজনে রাজনৈতিক দলগুলোর পূর্ণ সহযোগিতা এবং সরকারের সহায়তা চেয়েছে কমিশন।",
-        "details_en": "The Election Commission stated that voting will take place as scheduled barring any major natural disaster or unavoidable circumstances. The commission sought full cooperation from political parties and the government to conduct a free and peaceful election.",
-        "hook_bn": "অবাধ নির্বাচনের জন্য রাজনৈতিক দলগুলোর সহযোগিতা চেয়েছে কমিশন",
-        "kicker_bn": "নির্বাচন কমিশন",
-        "share_value": true,
-        "question_bn": "স্থানীয় সরকার নির্বাচনে রাজনৈতিক দলগুলোর এই সংলাপ কতটা প্রভাব ফেলবে বলে আপনার মনে হয়?"
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-23T07:01:49.739938+00:00"
-      }
-    },
-    {
-      "story_id": "7e3f9313-b47e-5c3d-ac9b-09539fb695e6",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business"
-      ],
-      "region": "international",
-      "tags": [
-        "#DonaldTrump",
-        "#IranWar",
-        "#USCongress"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2020/01/09/us_senate_builing.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-23T06:35:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.9494,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/explainer/how-democrats-plan-use-congresss-funding-power-push-trump-end-iran-war-1611301",
-          "title": "How Democrats plan to use Congress's funding power to push Trump to end Iran war",
-          "snippet": "How Democrats plan to use Congress's funding power to push Trump to end Iran war"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822557/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A4-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%95%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%AA-%E0%A6%A6%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A8",
-          "title": "ইরানে দ্রুত হামলা চালাতে ট্রাম্পকে চাপ দিচ্ছেন নেতানিয়াহু",
-          "snippet": "ইরানে দ্রুত হামলা চালাতে ট্রাম্পকে চাপ দিচ্ছেন নেতানিয়াহু"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1182614",
-          "title": "ইরানে দ্রুত হামলা চালাতে ট্রাম্পকে চাপ দিচ্ছেন নেতানিয়াহু: রিপোর্ট",
-          "snippet": "ইরানে দ্রুত হামলা চালাতে ট্রাম্পকে চাপ দিচ্ছেন নেতানিয়াহু: রিপোর্ট"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইরানের যুদ্ধ থামাতে তহবিলের ক্ষমতা ব্যবহারের প্রস্তুতি ডেমোক্র্যাটদের",
-        "title_en": "Democrats plan to use funding power to end Iran war",
-        "summary_bn": "মার্কিন কংগ্রেসের সরকারি অর্থ বরাদ্দের নিয়ন্ত্রণ ব্যবহার করে ডেমোক্র্যাট আইনপ্রণেতারা ডোনাল্ড ট্রাম্পকে ইরানের যুদ্ধ বন্ধে বাধ্য করার প্রস্তুতি নিচ্ছেন।",
-        "summary_en": "Democratic lawmakers are preparing to use Congress's control over government spending to pressure Donald Trump to end the war on Iran.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T06:35:00+00:00",
-        "lead_bn": "মার্কিন কংগ্রেসের সরকারি অর্থ বরাদ্দের নিয়ন্ত্রণ ব্যবহার করে ডেমোক্র্যাট আইনপ্রণেতারা ডোনাল্ড ট্রাম্পকে ইরানের যুদ্ধ বন্ধে বাধ্য করার প্রস্তুতি নিচ্ছেন।",
-        "lead_en": "Democratic lawmakers are preparing to use Congress's control over government spending to pressure Donald Trump to end the war on Iran.",
-        "bullets_bn": [
-          "ডিসেম্বরের ১১ তারিখের সরকারি তহবিলের সময়সীমার মধ্যে সামরিক সংঘাতের অর্থায়ন নিয়ন্ত্রণের সুযোগ খুঁজছেন কিছু ডেমোক্র্যাট।",
-          "ইরানে আক্রমণাত্মক সামরিক অভিযানে কোনো মার্কিন করদাতার অর্থ ব্যয় না করার আহ্বান জানিয়েছেন প্রতিনিধি ইয়াসমিন আনসারি ও রো খান্না।",
-          "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু যত দ্রুত সম্ভব ইরানে হামলা চালানোর জন্য ডোনাল্ড ট্রাম্পকে চাপ দিচ্ছেন বলে কান জানিয়েছে।"
-        ],
-        "bullets_en": [
-          "Some Democrats are looking at restricting funding through the December 11 deadline for government agency funding.",
-          "Representatives Yassamin Ansari and Ro Khanna called for ensuring not another cent of taxpayer money goes towards the conflict.",
-          "Kan reported that Israeli Prime Minister Benjamin Netanyahu is pressuring Donald Trump to attack Iran as quickly as possible."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "২০২৬ সালের মধ্যবর্তী নির্বাচনে দুই কক্ষেই ডেমোক্র্যাটরা সংখ্যাগরিষ্ঠতা অর্জন করায় এই সুযোগ তৈরি হয়েছে। যদিও নতুন কংগ্রেস ২০২৭ সালের ৩ জানুয়ারি ক্ষমতা গ্রহণ করবে, তবে এর আগেই আগামী ১১ ডিসেম্বর সরকারি সংস্থার অর্থায়নের সময়সীমা রয়েছে। আল জাজিরার মতে, করদাতার অর্থ ইরানের আক্রমণে ব্যবহার রোধ করতে এই তহবিলের ক্ষমতা ব্যবহারের কৌশল নেওয়া হয়েছে। এদিকে ইসরায়েলের রাষ্ট্রীয় সম্প্রচারমাধ্যম কান জানিয়েছে, নেতানিয়াহু ট্রাম্পকে ইরানে দ্রুত হামলার চাপ দিলেও ট্রাম্প এখনো কোনো সিদ্ধান্ত নেননি।",
-        "details_en": "The strategy follows Democratic victories in the 2026 midterm elections, giving the party majorities in both chambers. Although the new Congress takes office on January 3, 2027, an upcoming December 11 funding deadline presents an opportunity, according to Al Jazeera. The centre of the strategy is using the power of the purse to prevent spending on offensive operations. Meanwhile, Israeli state broadcaster Kan reported that Netanyahu is pressuring Trump to attack Iran as quickly as possible, though Trump has not yet made a decision.",
-        "hook_bn": "'আরেকটি পয়সাও নয়'",
-        "kicker_bn": "যুক্তরাষ্ট্র",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 4.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-23T07:01:49.739938+00:00"
-      }
-    },
-    {
-      "story_id": "3597f6ae-7c08-5ae1-b699-c0699c256f72",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business",
-        "society_education"
-      ],
-      "region": "international",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-23%2Ffctntpv1%2FGazaEisencot.avif?rect=0%2C136%2C960%2C504&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-23T06:04:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.6083,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/middle-east/q7q21a1a09",
-          "title": "পশ্চিম তীরে ফিলিস্তিনি গ্রামে অবৈধ বসতি স্থাপনকারীদের হামলাকে ‘ইহুদি সন্ত্রাসবাদ’ বললেন আইজেনকট",
-          "snippet": "পশ্চিম তীরে ফিলিস্তিনি গ্রামে অবৈধ বসতি স্থাপনকারীদের হামলাকে ‘ইহুদি সন্ত্রাসবাদ’ বললেন আইজেনকট"
-        },
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group?traffic_source=rss",
-          "title": "Israeli attacks on medics in occupied West Bank surge by 350%: Rights group",
-          "snippet": "Israeli attacks on medics in occupied West Bank surge by 350%: Rights group"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/country/500167",
-          "title": "গাইবান্ধায় মরিচ খেতে অচেনা রোগের থাবা, ক্ষতির আশঙ্কা কৃষকদের",
-          "snippet": "গাইবান্ধায় মরিচ খেতে অচেনা রোগের থাবা, ক্ষতির আশঙ্কা কৃষকদের"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পশ্চিম তীরে বসতি স্থাপনকারীদের হামলাকে ইহুদি সন্ত্রাসবাদ বললেন আইজেনকট",
-        "title_en": "Eisenkot calls settler attacks in West Bank Jewish terrorism",
-        "summary_bn": "ইসরায়েলের অধিকৃত পশ্চিম তীরের কয়েকটি গ্রামে সশস্ত্র অবৈধ বসতি স্থাপনকারীদের হামলাকে ইহুদি সন্ত্রাসবাদ বলে মন্তব্য করেছেন গাদি আইজেনকট।",
-        "summary_en": "Gadi Eisenkot described armed illegal settlers attacks on several villages in the occupied West Bank as Jewish terrorism.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T06:04:00+00:00",
-        "lead_bn": "ইসরায়েলের অধিকৃত পশ্চিম তীরের কয়েকটি গ্রামে সশস্ত্র অবৈধ বসতি স্থাপনকারীদের হামলাকে ইহুদি সন্ত্রাসবাদ বলে মন্তব্য করেছেন গাদি আইজেনকট।",
-        "lead_en": "Gadi Eisenkot described armed illegal settlers attacks on several villages in the occupied West Bank as Jewish terrorism.",
-        "bullets_bn": [
-          "হামলাকারীরা সেখানে গাড়িতে আগুন দিয়েছে এবং দেয়ালে বর্ণবাদী স্লোগান লিখে রেখেছে বলে জানান স্থানীয় বাসিন্দারা।",
-          "আইজেনকট অভিযোগ করেন যে দুই মন্ত্রীর নীতি পশ্চিম তীরকে নৈরাজ্যের দ্বারপ্রান্তে নিয়ে গেছে।",
-          "পররাষ্ট্রমন্ত্রী গিদিওন সার মুষ্টিমেয় চরমপন্থীর হামলার সমালোচনা করে বলেছেন এসব কর্মকাণ্ড ইসরায়েলের মূল্যবোধের পরিপন্থী।"
-        ],
-        "bullets_en": [
-          "Local residents reported that attackers set cars on fire and wrote racist slogans on walls.",
-          "Eisenkot accused two ministers policies of pushing the West Bank to the brink of anarchy.",
-          "Foreign Minister Gideon Saer criticized the attacks by a handful of extremists and called them contrary to Israeli values."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "গাজা উপত্যকায় ২০২৩ সালে ফিলিস্তিনিদের হামাসের বিরুদ্ধে সর্বাত্মক হামলা চালায় ইসরায়েল এবং এর পর থেকে পশ্চিম তীরেও সহিংসতা বেড়েছে। অক্টোবরের শেষের দিকে ইসরায়েলের পার্লামেন্ট নেসেটের নির্বাচনে কোনো দল বা জোট নিরঙ্কুশ সংখ্যাগরিষ্ঠতা না পাওয়ায় জোট সরকার গঠনের দায়িত্ব পেয়েছেন আইজেনকট।",
-        "details_en": "Israel launched a full-scale assault against Hamas in the Gaza Strip in 2023, and violence has since increased in the West Bank. Following the Knesset elections in late October where no party or coalition won an outright majority, Eisenkot was tasked with forming a coalition government.",
-        "hook_bn": "পশ্চিম তীরে অবৈধ বসতি স্থাপনকারীদের হামলা",
+        "details_bn": "দিবাগত রাত সোয়া ১২টার দিকে ঢাকা-চট্টগ্রাম মহাসড়কের সাইনবোর্ড এলাকায় প্রথম ঘটনাটি ঘটে এবং রাত সাড়ে ১২টার দিকে আগুন নেভানো হয়। এর পর রাত পৌনে পাঁচটার দিকে আরেকটি ট্রাকে আগুন দেওয়ার ঘটনা ঘটে। পেট্রোল বোমা নিক্ষেপ করে এসব আগুন দেওয়ার অভিযোগ রয়েছে এবং এতে কোনো হতাহতের খবর পাওয়া যায়নি।",
+        "details_en": "The first incident occurred around 12:15am in the Signboard area on the Dhaka-Chittagong Highway, and the fire was extinguished at approximately 12:45am. The second incident took place around 4:45am. It was alleged that petrol bombs were thrown in these separate incidents, and no casualties were reported.",
+        "hook_bn": "নারায়ণগঞ্জে বাস ও ট্রাকে আগুন",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 5.0,
-      "outlet_count": 3,
+      "desk_importance": 6.0,
+      "outlet_count": 4,
       "trending": false,
-      "social_appeal": 4.0,
+      "social_appeal": 7.0,
       "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-23T07:01:49.739938+00:00"
+        "status": "unchecked",
+        "checked_at": "2026-11-23T08:01:46.039707+00:00"
       }
     }
   ]
