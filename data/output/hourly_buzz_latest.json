@@ -1,90 +1,251 @@
 {
-  "updated_at": "2026-11-23T13:00:49.965563",
-  "total_stories": 4,
+  "updated_at": "2026-11-23T14:00:50.923599",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "9c323b2e-679e-54ec-b253-fab006af3c52",
+      "story_id": "1e8f6b51-67c1-5856-9110-9074c16843bb",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
+        "world_diplomacy",
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#MinistryOfForeignAffairs",
+        "#Diplomats",
+        "#BangladeshGovernment",
+        "#TariqueRahman"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2024-08-17%2Fibye1hwk%2FYounus.webp?rect=0%2C0%2C640%2C336&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2025/01/20/foreign_ministry.jpg",
       "image_caption": null,
-      "published_at": "2026-11-23T12:36:20+00:00",
+      "published_at": "2026-11-23T13:30:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.5,
-      "rank_score": 4.1244,
+      "rank_score": 4.0888,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/n6dq0avwa9",
-          "title": "‘জয় বাংলা’ স্লোগান দিয়ে শুধু নভেম্বরে গ্রামীণ ব্যাংকের প্রায় ১০০ শাখায় হামলা: অধ্যাপক ইউনূস",
-          "snippet": "‘জয় বাংলা’ স্লোগান দিয়ে শুধু নভেম্বরে গ্রামীণ ব্যাংকের প্রায় ১০০ শাখায় হামলা: অধ্যাপক ইউনূস"
-        },
-        {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/yunus-urges-end-attacks-grameen-bank-calls-perpetrators-face-justice-1611591",
-          "title": "Yunus urges end to attacks on Grameen Bank, calls for perpetrators to face justice",
-          "snippet": "Yunus urges end to attacks on Grameen Bank, calls for perpetrators to face justice"
+          "url": "https://www.tbsnews.net/bangladesh/govt-brief-diplomats-tomorrow-official-1611821",
+          "title": "Govt to brief diplomats tomorrow: Official",
+          "snippet": "Govt to brief diplomats tomorrow: Official"
         },
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/dr-muhammad-yunus-demands-punishment-attack-grameen/",
-          "title": "গ্রামীণ ব্যাংকে হামলায় জড়িত ব্যক্তিদের শাস্তির দাবি ড.মুহাম্মদ ইউনূসের",
-          "snippet": "গ্রামীণ ব্যাংকে হামলায় জড়িত ব্যক্তিদের শাস্তির দাবি ড.মুহাম্মদ ইউনূসের"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425545/official-govt-to-brief-diplomats-tuesday",
+          "title": "Official: Govt to brief diplomats Tuesday",
+          "snippet": "Official: Govt to brief diplomats Tuesday"
+        },
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/national/post-1224826/",
+          "title": "মঙ্গলবার কূটনীতিকদের ব্রিফ করবে সরকার",
+          "snippet": "মঙ্গলবার কূটনীতিকদের ব্রিফ করবে সরকার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নভেম্বরে গ্রামীণ ব্যাংকের প্রায় ১০০ শাখায় হামলা হয়েছে বলে অধ্যাপক ইউনূসের অভিযোগ",
-        "title_en": "Prof Yunus alleges attacks on nearly 100 Grameen Bank branches in November",
-        "summary_bn": "সাবেক অন্তর্বর্তী সরকারের প্রধান উপদেষ্টা অধ্যাপক মুহাম্মদ ইউনূস অভিযোগ করেছেন যে নভেম্বর মাসেই দেশে গ্রামীণ ব্যাংকের প্রায় ১০০টি শাখায় পেট্রলবোমা দিয়ে হামলা চালানো হয়েছে।",
-        "summary_en": "Former interim government chief adviser Professor Muhammad Yunus alleges that nearly 100 Grameen Bank branches were attacked with petrol bombs in November.",
+        "title_bn": "ঢাকায় অবস্থানরত কূটনীতিকদের ব্রিফ করবে সরকার",
+        "title_en": "Government to brief diplomats stationed in Dhaka",
+        "summary_bn": "সরকার দেশে ঘটে যাওয়া সাম্প্রতিক ঘটনাবলি সম্পর্কে অবহিত করার উদ্দেশ্যে ২৪ নভেম্বর ঢাকায় অবস্থানরত কূটনীতিকদের ব্রিফ করবে।",
+        "summary_en": "The government will brief diplomats stationed in Dhaka on 24 November on the latest developments in the country.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law",
+          "world_diplomacy",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-23T12:36:20+00:00",
-        "lead_bn": "সাবেক অন্তর্বর্তী সরকারের প্রধান উপদেষ্টা অধ্যাপক মুহাম্মদ ইউনূস অভিযোগ করেছেন যে নভেম্বর মাসেই দেশে গ্রামীণ ব্যাংকের প্রায় ১০০টি শাখায় পেট্রলবোমা দিয়ে হামলা চালানো হয়েছে।",
-        "lead_en": "Former interim government chief adviser Professor Muhammad Yunus alleges that nearly 100 Grameen Bank branches were attacked with petrol bombs in November.",
+        "published_at": "2026-11-23T13:30:00+00:00",
+        "lead_bn": "সরকার দেশে ঘটে যাওয়া সাম্প্রতিক ঘটনাবলি সম্পর্কে অবহিত করার উদ্দেশ্যে ২৪ নভেম্বর ঢাকায় অবস্থানরত কূটনীতিকদের ব্রিফ করবে।",
+        "lead_en": "The government will brief diplomats stationed in Dhaka on 24 November on the latest developments in the country.",
         "bullets_bn": [
-          "হামলার সময় 'জয় বাংলা' স্লোগান দেওয়া হচ্ছে এবং অপরাধীরা ওপরের মহল থেকে নির্দেশনা পাচ্ছে বলে তিনি মনে করেন।",
-          "ব্যাংকটির ১ কোটি ১০ লাখ ঋণগ্রহীতার ৯৭ শতাংশই নারী এবং ঋণ আদায়ের হার ৯৫ শতাংশের বেশি বলে উল্লেখ করা হয়েছে।",
-          "হামলার ঘটনায় স্বরাষ্ট্র মন্ত্রণালয়ের কাছে আরও জোরদার নিরাপত্তা চেয়েছে গ্রামীণ ব্যাংক।"
+          "রাজধানীর রাষ্ট্রীয় এক অতিথি ভবনে ২৪ নভেম্বর সকাল ৯টায় এই ব্রিফিং অনুষ্ঠিত হওয়ার কথা রয়েছে।",
+          "পররাষ্ট্র প্রতিমন্ত্রী (১) হুমায়ুন কবির কূটনীতিকদের ব্রিফ করবেন বলে পররাষ্ট্র মন্ত্রণালয়ের এক কর্মকর্তা জানিয়েছেন।",
+          "পররাষ্ট্র মন্ত্রণালয় ঢাকাতে অবস্থিত সব কূটনৈতিক মিশন, জাতিসংঘ সংস্থা ও আন্তর্জাতিক সংস্থার প্রতিনিধিদের এতে আমন্ত্রণ জানিয়েছে।"
         ],
         "bullets_en": [
-          "He states that Joy Bangla slogans are chanted during the attacks and perpetrators receive directives from higher quarters.",
-          "He mentions that 97 percent of the bank's 1.10 crore borrowers are women and the loan recovery rate is over 95 percent.",
-          "Grameen Bank has sought stricter security from the Home Ministry following the incidents."
+          "The briefing is scheduled to be held at a state guesthouse in the capital on 24 November, likely beginning at 9am.",
+          "State Minister for Foreign Affairs-1 Humaiun Kobir will brief the diplomats, according to a foreign ministry official.",
+          "The foreign ministry invited representatives of all diplomatic missions, United Nations agencies and international organisations in Dhaka."
         ],
-        "impact_bn": "এসব হামলায় লাখ লাখ গ্রামীণ নারী আতঙ্কের মধ্যে দিন কাটাচ্ছেন এবং তাঁদের দৈনন্দিন প্রয়োজন মেটানোর গুরুত্বপূর্ণ অবলম্বন বাধাগ্রস্ত হচ্ছে।",
-        "impact_en": "These attacks have left millions of rural women in panic, disrupting the crucial support system they rely on for daily needs.",
-        "details_bn": "অধ্যাপক মুহাম্মদ ইউনূস জানান যে ২০১১ সালে আওয়ামী লীগ সরকার তাঁকে গ্রামীণ ব্যাংকের ব্যবস্থাপনা পরিচালকের পদ থেকে অপসারণ করার পর থেকে ব্যাংকটির ব্যবস্থাপনা বা পরিচালনায় তাঁর কোনো সম্পৃক্ততা নেই। সহিংসতার ধারাবাহিকতায় জুলাই গণ-অভ্যুত্থানে সম্মুখসারিতে নেতৃত্ব দেওয়া সংসদ সদস্য নুসরাত তাবাসসুমের বাড়ি, বিএনপির তিন সংসদ সদস্যের বাড়ি এবং তিনটি থানাতেও অগ্নিসংযোগ করা হয়েছে বলে বিবৃতিতে উল্লেখ করা হয়।",
-        "details_en": "Professor Muhammad Yunus stated that he has no involvement in the management or operation of Grameen Bank since the Awami League government removed him from the post of managing director in 2011. The statement noted that in a similar sequence of violence, the house of July mass uprising frontline leader MP Nusrat Tabassum, three BNP MPs' houses, and three police stations were also torched.",
-        "hook_bn": "গ্রামীণ ব্যাংকের প্রায় ১০০ শাখায় হামলা",
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "পররাষ্ট্র মন্ত্রণালয়ের এক কর্মকর্তা জানিয়েছেন, রাজধানীর রাষ্ট্রীয় এক অতিথি ভবনে ২৪ নভেম্বর সকাল ৯টায় এই ব্রিফিং অনুষ্ঠিত হওয়ার কথা রয়েছে। এছাড়া প্রধানমন্ত্রী তারেক রহমানের সঙ্গে ন্যাশনাল সিটিজেন পার্টির প্রতিনিধি দলের বৈঠকে গণতান্ত্রিক ও গণতান্ত্রিক বিরোধবিরোধী রাজনৈতিক শক্তির ঐক্যের কথা জানিয়েছেন পিএমও মুখপাত্র মাহদী আমিন।",
+        "details_en": "A senior official of the Ministry of Foreign Affairs stated that the briefing will be held at a state guesthouse in the capital and is likely to begin at 9am on 24 November. Meanwhile, PMO Spokesperson Mahdi Amin stated that a meeting between Prime Minister Tarique Rahman and a National Citizen Party delegation reflected the unity of democratic political forces.",
+        "hook_bn": "২৪ নভেম্বর কূটনীতিকদের ব্রিফ করবে সরকার",
+        "kicker_bn": "নতুন তারিখ",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-23T14:05:19.595563+00:00"
+      }
+    },
+    {
+      "story_id": "50cb19f4-9157-5d0c-903c-0eef0c651cd9",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness"
+      ],
+      "region": "national",
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-23%2Fc5g7swao%2F334783.webp?rect=0%2C185%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-23T13:08:31+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.5,
+      "rank_score": 4.0051,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/sports/cricket/y5q1ns7k50",
+          "title": "দক্ষিণ আফ্রিকা সিরিজের ওয়ানডে দল ঘোষণা, তিন বছর পর ফিরলেন ইয়াসির",
+          "snippet": "দক্ষিণ আফ্রিকা সিরিজের ওয়ানডে দল ঘোষণা, তিন বছর পর ফিরলেন ইয়াসির"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/sports/cricket/1182848",
+          "title": "নাঈম শেখ, জাকের আলীদের ফিরিয়ে ওয়ানডে দল ঘোষণা",
+          "snippet": "নাঈম শেখ, জাকের আলীদের ফিরিয়ে ওয়ানডে দল ঘোষণা"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/yaser-naeem-return-bangladesh-one-day-team/",
+          "title": "ইয়াসির-নাঈমকে ফিরিয়ে ওয়ানডে দল বাংলাদেশের, আছেন আরও কারা",
+          "snippet": "ইয়াসির-নাঈমকে ফিরিয়ে ওয়ানডে দল বাংলাদেশের, আছেন আরও কারা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "দক্ষিণ আফ্রিকা সিরিজের ওয়ানডে দল ঘোষণা করেছে বাংলাদেশ",
+        "title_en": "Bangladesh announces ODI squad for South Africa series",
+        "summary_bn": "দক্ষিণ আফ্রিকার বিপক্ষে তিন ম্যাচের ওয়ানডে সিরিজের জন্য ১৫ সদস্যের দল ঘোষণা করেছে বাংলাদেশ ক্রিকেট বোর্ড।",
+        "summary_en": "Bangladesh Cricket Board announced a 15-member squad for the three-match ODI series against South Africa.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-23T13:08:31+00:00",
+        "lead_bn": "দক্ষিণ আফ্রিকার বিপক্ষে তিন ম্যাচের ওয়ানডে সিরিজের জন্য ১৫ সদস্যের দল ঘোষণা করেছে বাংলাদেশ ক্রিকেট বোর্ড।",
+        "lead_en": "Bangladesh Cricket Board announced a 15-member squad for the three-match ODI series against South Africa.",
+        "bullets_bn": [
+          "দলে বেশ কিছু পরিবর্তন এনেছে বাংলাদেশ দল।",
+          "দীর্ঘ বিরতির পর ওয়ানডে দলে ফিরেছেন নাঈম শেখ, জাকের আলী অনিক ও সৈয়দ খালেদ আহমেদ।",
+          "সাড়ে তিন বছর পর ওয়ানডে দলে ফিরেছেন ইয়াসির আলী।"
+        ],
+        "bullets_en": [
+          "Bangladesh made several changes to the squad.",
+          "Naim Sheikh, Jaker Ali Anik, and Syed Khaled Ahmed returned to the ODI team after a long break.",
+          "Yasir Ali returned to the ODI team after three and a half years."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "দক্ষিণ আফ্রিকা সিরিজের ওয়ানডে দল ঘোষণা",
+        "kicker_bn": "দল ঘোষণা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-23T14:05:19.595563+00:00"
+      }
+    },
+    {
+      "story_id": "562ab278-a6a3-5ed8-b1db-edc2d524b224",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#AwamiLeague",
+        "#MichaelMiller",
+        "#Bangladesh"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1653289755997-1b028ff8ace8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8dGFrZXMlMjBwb3NpdGlvbiUyMGNhbGxzJTIwbGFiZWwlMjBkaXBsb21hY3l8ZW58MXwwfHx8MTc5NTQ0MjY2Nnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-23T13:55:49+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.25,
+      "rank_score": 3.8754,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425546/eu-takes-no-position-on-calls-to-label-awami",
+          "title": "EU takes no position on calls to label Awami League ‘terrorist group’",
+          "snippet": "EU takes no position on calls to label Awami League ‘terrorist group’"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/foreign-policy/eu-has-no-specific-position-ban-awami-league-activities-ambassador-1611766",
+          "title": "EU has no specific position on ban on Awami League activities: Ambassador",
+          "snippet": "EU has no specific position on ban on Awami League activities: Ambassador"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আওয়ামী লীগকে সন্ত্রাসী দল হিসেবে চিহ্নিত করার Calls এ ইউরোপীয় ইউনিয়নের অবস্থান নেই",
+        "title_en": "EU takes no position on calls to label Awami League terrorist group",
+        "summary_bn": "ইউরোপীয় ইউনিয়ন আওয়ামী লীগকে সন্ত্রাসী গোষ্ঠী হিসেবে চিহ্নিত করার আহ্বানের বিষয়ে কোনো অবস্থান নেয়নি বলে জানিয়েছেন রাষ্ট্রদূত মাইকেল মিলার।",
+        "summary_en": "The European Union has no specific position on calls to label the Awami League a terrorist group, says Ambassador Michael Miller.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-23T13:55:49+00:00",
+        "lead_bn": "ইউরোপীয় ইউনিয়ন আওয়ামী লীগকে সন্ত্রাসী গোষ্ঠী হিসেবে চিহ্নিত করার আহ্বানের বিষয়ে কোনো অবস্থান নেয়নি বলে জানিয়েছেন রাষ্ট্রদূত মাইকেল মিলার।",
+        "lead_en": "The European Union has no specific position on calls to label the Awami League a terrorist group, says Ambassador Michael Miller.",
+        "bullets_bn": [
+          "রাষ্ট্রদূত মাইকেল মিলার জবাবদিহিতা, আইনের শাসন এবং সহিংসতা প্রত্যাখ্যানের ওপর জোর দিয়েছেন।",
+          "ইইউ বাংলাদেশের পোশাক খাতের ক্রমবর্ধমান বাণিজ্য চ্যালেঞ্জের বিষয়ে সতর্ক করেছে।",
+          "ইইউ বাণিজ্য, বিনিয়োগ, মাইগ্রেশন এবং নিরাপত্তাসহ বিভিন্ন ক্ষেত্রে কৌশলগত সহযোগিতা গভীর করতে চায়।"
+        ],
+        "bullets_en": [
+          "Ambassador Michael Miller stressed accountability, the rule of law, and the rejection of violence.",
+          "The EU warned that Bangladesh's garment sector faces mounting trade challenges.",
+          "The EU is looking to deepen strategic cooperation with Bangladesh across trade, investment, migration, and security."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "প্রধানমন্ত্রী তারেক রহমান ইইউ নেতাদের সাথে আলোচনার জন্য দুই হাজার সাতাশ সালের জুন মাসে ব্রাসেলস সফর করতে পারেন বলে আশা করা হচ্ছে। ইইউ বাংলাদেশের সাথে শক্তিশালী কৌশলগত সহযোগিতার জন্য একটি বিস্তৃত এজেন্ডাও রূপরেখা দিয়েছে।",
+        "details_en": "Prime Minister Tarique Rahman is expected to visit Brussels in June 2027 for talks with EU leaders. The EU also outlined a broad agenda for stronger strategic cooperation with Bangladesh.",
+        "hook_bn": "আওয়ামী লীগ নিয়ে ইইউর সুনির্দিষ্ট অবস্থান নেই",
         "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 6.0,
-      "outlet_count": 3,
+      "outlet_count": 2,
       "trending": false,
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-23T13:14:25.789832+00:00"
+        "checked_at": "2026-11-23T14:05:19.595563+00:00"
       }
     },
     {
-      "story_id": "8e819116-de74-523d-8eba-2f9a07128a58",
+      "story_id": "09274530-3232-5a78-8e6a-855601061265",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
@@ -92,41 +253,35 @@
       ],
       "region": "national",
       "tags": [
-        "#AzizulIslam",
-        "#DetectiveBranch",
-        "#Jashore"
+        "#SupremeCourt",
+        "#BangladeshCourts",
+        "#JudicialOfficers"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/23/azizul_hakim.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/01/08/supreme_court_1.jpg",
       "image_caption": null,
-      "published_at": "2026-11-23T12:15:00+00:00",
+      "published_at": "2026-11-23T13:10:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.25,
-      "rank_score": 3.7357,
+      "rank_score": 3.7082,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/former-jashore-6-mp-azizul-islam-arrested-dhaka-1611706",
-          "title": "Former Jashore-6 MP Azizul Islam arrested in Dhaka",
-          "snippet": "Former Jashore-6 MP Azizul Islam arrested in Dhaka"
+          "url": "https://www.tbsnews.net/bangladesh/court/sc-directs-lower-court-judges-strictly-observe-office-court-hours-1611796",
+          "title": "SC directs lower court judges to strictly observe office, court hours",
+          "snippet": "SC directs lower court judges to strictly observe office, court hours"
         },
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/crime/425532/ex-jessore-mp-azizul-islam-arrested-in-dhaka",
-          "title": "Ex-Jessore MP Azizul Islam arrested in Dhaka",
-          "snippet": "Ex-Jessore MP Azizul Islam arrested in Dhaka"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/law-and-crime/982768/%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95-%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A7%9F-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0",
-          "title": "যশোরের সাবেক এমপি ঢাকায় গ্রেফতার",
-          "snippet": "যশোরের সাবেক এমপি ঢাকায় গ্রেফতার"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/law-courts/news/1182846",
+          "title": "অনুমতি ছাড়া কর্মস্থল ত্যাগ করতে পারবেন না বিচারকরা",
+          "snippet": "অনুমতি ছাড়া কর্মস্থল ত্যাগ করতে পারবেন না বিচারকরা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ঢাকার লালমাটিয়া থেকে সাবেক এমপি আজিজুল ইসলাম গ্রেফতার",
-        "title_en": "Former MP Azizul Islam arrested in Lalmatia, Dhaka",
-        "summary_bn": "গোয়েন্দা পুলিশ ঢাকার লালমাটিয়ার একটি বাসা থেকে যশোর-৬ আসনের সাবেক সংসদ সদস্য মো. আজিজুল ইসলামকে গ্রেফতার করেছে।",
-        "summary_en": "Detective Branch police have arrested former Jashore-6 MP Md Azizul Islam from a house in Lalmatia, Dhaka.",
+        "title_bn": "নিম্ন আদালতের বিচারকদের যথাসময়ে কর্মস্থলে উপস্থিত থাকার নির্দেশ সুপ্রিম কোর্টের",
+        "title_en": "Supreme Court directs lower court judges to strictly observe office hours",
+        "summary_bn": "সুপ্রিম কোর্ট অধস্তন আদালতের বিচারকদের নির্ধারিত কর্মঘণ্টা পুরোপুরি পালন এবং অনুমতি ছাড়া কর্মস্থল ত্যাগ না করার নির্দেশ দিয়েছে।",
+        "summary_en": "The Supreme Court has directed subordinate court judges to report to work on time and avoid leaving workplaces without approval.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -134,191 +289,178 @@
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-23T12:15:00+00:00",
-        "lead_bn": "গোয়েন্দা পুলিশ ঢাকার লালমাটিয়ার একটি বাসা থেকে যশোর-৬ আসনের সাবেক সংসদ সদস্য মো. আজিজুল ইসলামকে গ্রেফতার করেছে।",
-        "lead_en": "Detective Branch police have arrested former Jashore-6 MP Md Azizul Islam from a house in Lalmatia, Dhaka.",
+        "published_at": "2026-11-23T13:10:00+00:00",
+        "lead_bn": "সুপ্রিম কোর্ট অধস্তন আদালতের বিচারকদের নির্ধারিত কর্মঘণ্টা পুরোপুরি পালন এবং অনুমতি ছাড়া কর্মস্থল ত্যাগ না করার নির্দেশ দিয়েছে।",
+        "lead_en": "The Supreme Court has directed subordinate court judges to report to work on time and avoid leaving workplaces without approval.",
         "bullets_bn": [
-          "তেজগাঁও বিভাগের একটি টিম লালমাটিয়ার ব্লক এ-র একটি বাসা থেকে তাকে গ্রেফতার করে।",
-          "ডিবি পুলিশ জানায় আজিজুল ইসলামের বিরুদ্ধে যশোরে একাধিক মামলা রয়েছে।",
-          "গ্রেফতারের পর তাকে ডিবি কার্যালয়ে নেওয়া হয়েছে এবং ঢাকার সাম্প্রতিক নাশকতায় তার সম্পৃক্ততা রয়েছে বলে ধারণা করা হচ্ছে।"
+          "প্রধান বিচারপতির নির্দেশনায় সুপ্রিম কোর্ট প্রশাসন ২৩ নভেম্বর একটি সার্কুলার জারি করেছে।",
+          "অনুমতি ছাড়া কর্মস্থল ত্যাগ ও নির্ধারিত সময়ের আগে বিচারিক কার্যক্রম শেষ করার অভিযোগ পাওয়া গেছে।",
+          "নিয়ম লঙ্ঘন করলে প্রশাসনিক ব্যবস্থা নেওয়া হতে পারে বলে সতর্ক করা হয়েছে।"
         ],
         "bullets_en": [
-          "A Tejgaon Division team arrested him from a house in Block A of Lalmatia.",
-          "DB police said Azizul faces multiple cases in Jashore.",
-          "He was taken to the DB office and is suspected of involvement in recent Dhaka sabotage."
+          "The Supreme Court administration issued a circular on 23 November under the direction of the chief justice.",
+          "Some judges were reportedly leaving workplaces without permission and concluding hearings before scheduled hours.",
+          "Violations of these directives could lead to administrative action, according to the circular."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "মো. আজিজুল ইসলাম ২০২৪ সালের দ্বাদশ জাতীয় সংসদ নির্বাচনে যশোর-৬ (কেশবপুর) আসন থেকে স্বতন্ত্র প্রার্থী হিসেবে সংসদ সদস্য নির্বাচিত হয়েছিলেন। তিনি নির্বাচনে আওয়ামী লীগ মনোনীত প্রার্থী ও যশোর জেলা ইউনিট সাধারণ সম্পাদক শাহীন চাকলাদারকে পরাজিত করেছিলেন।",
-        "details_en": "Md Azizul Islam was elected as an independent MP from the Jashore-6 (Keshabpur) constituency in the 2024 12th parliamentary election, defeating Awami League-nominated candidate and Jashore district unit General Secretary Shaheen Chakladar.",
-        "hook_bn": "লালমাটিয়া থেকে সাবেক এমপি আজিজুল গ্রেফতার",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-23T13:14:25.789832+00:00"
-      }
-    },
-    {
-      "story_id": "8916d934-55d8-52f6-8625-3767a290e52b",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#DhakaUniversity",
-        "#DUAdmission",
-        "#ABMObaidulIslam"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/23/screenshot_2026-11-23_164919.png",
-      "image_caption": null,
-      "published_at": "2026-11-23T10:45:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 3.7052,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/du-likely-extend-admission-application-deadline-2-3-days-1611541",
-          "title": "DU likely to extend admission application deadline by 2-3 days",
-          "snippet": "DU likely to extend admission application deadline by 2-3 days"
-        },
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/education/admission/vwceuog4l0",
-          "title": "ঢাকা বিশ্ববিদ্যালয়ে ভর্তি পরীক্ষা, আবেদনের সময় বাড়ল তিন দিন",
-          "snippet": "ঢাকা বিশ্ববিদ্যালয়ে ভর্তি পরীক্ষা, আবেদনের সময় বাড়ল তিন দিন"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/campus/500285",
-          "title": "ঢাকা বিশ্ববিদ্যালয়ে ভর্তি আবেদনের সময় বাড়ল ৩ দিন",
-          "snippet": "ঢাকা বিশ্ববিদ্যালয়ে ভর্তি আবেদনের সময় বাড়ল ৩ দিন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ঢাকা বিশ্ববিদ্যালয়ের ভর্তি আবেদনের সময় বাড়ানো হতে পারে",
-        "title_en": "DU admission application deadline likely to be extended",
-        "summary_bn": "পরীক্ষার খাতা পুনর্নিরীক্ষণের আবেদন করা শিক্ষার্থীদের কথা বিবেচনা করে ঢাকা বিশ্ববিদ্যালয় তাদের ভর্তি আবেদনের সময় দুই থেকে তিন দিন বাড়াতে পারে।",
-        "summary_en": "The University of Dhaka may extend its admission application deadline by two to three days to accommodate students who applied for result re-evaluation.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T10:45:00+00:00",
-        "lead_bn": "পরীক্ষার খাতা পুনর্নিরীক্ষণের আবেদন করা শিক্ষার্থীদের কথা বিবেচনা করে ঢাকা বিশ্ববিদ্যালয় তাদের ভর্তি আবেদনের সময় দুই থেকে তিন দিন বাড়াতে পারে।",
-        "lead_en": "The University of Dhaka may extend its admission application deadline by two to three days to accommodate students who applied for result re-evaluation.",
-        "bullets_bn": [
-          "উপাচার্য অধ্যাপক ড. এবিএম ওবায়দুল ইসলাম বিষয়টি নিশ্চিত করেছেন।",
-          "শিক্ষামন্ত্রীর অনুরোধে এই সময় বাড়ানোর বিষয়টি বিবেচনা করা হচ্ছে।",
-          "পুনর্নিরীক্ষার ফল প্রত্যাশী শিক্ষার্থীরা আবেদন করার পর্যাপ্ত সময় পাবেন।"
-        ],
-        "bullets_en": [
-          "Vice-Chancellor Professor ABM Obaidul Islam confirmed the possibility of extending the deadline.",
-          "The education minister had also requested the university authorities to extend the deadline.",
-          "Students awaiting re-evaluation results will get sufficient time to complete their applications."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "পরীক্ষার ফল পুনর্নিরীক্ষণের জন্য আবেদন করা শিক্ষার্থীদের ভর্তি আবেদন সম্পন্ন করার সুযোগ দিতে এই সময় বাড়ানোর উদ্যোগ নেওয়া হয়েছে। তবে এই সিদ্ধান্ত এখনো চূড়ান্ত হয়নি এবং তা দুই বা তিন দিন বাড়তে পারে।",
-        "details_en": "The proposed extension is intended to give students awaiting their re-evaluation results sufficient time to complete their admission applications. Vice-Chancellor Professor ABM Obaidul Islam stated that the final decision has not yet been finalised.",
-        "hook_bn": "সময় বাড়ছে ঢাকা বিশ্ববিদ্যালয়ের ভর্তি আবেদনের",
-        "kicker_bn": "নতুন তারিখ",
+        "impact_bn": "এই নির্দেশের ফলে বিচারপ্রার্থীদের ন্যায়বিচার প্রাপ্তি নিশ্চিত হবে এবং মামলার জট কমবে বলে সার্কুলারে উল্লেখ করা হয়েছে।",
+        "impact_en": "Ensuring proper use of scheduled hours is essential to guaranteeing justice for litigants and reducing case backlogs.",
+        "details_bn": "সার্কুলারে বলা হয়, পূর্বেও একই ধরনের নির্দেশ জারি করা হয়েছিল কিন্তু কিছু বিচারক তা অমান্য করছেন। এতে মানুষের বিচারপ্রাপ্তি ব্যাহত হচ্ছে এবং বিচারিক কার্যক্রমের গতি ও শৃঙ্খলা নষ্ট হচ্ছে। নতুন নির্দেশনায় সব বিচারিক কর্মকর্তাকে কর্মদিবসে যথাসময়ে উপস্থিত থাকার কথা বলা হয়েছে।",
+        "details_en": "The circular noted that similar directives had previously been issued requiring judicial officers to report on time and conduct proceedings. However, some judges were recently leaving without permission or concluding hearings early, disrupting access to justice and judicial discipline.",
+        "hook_bn": "অনুমতি ছাড়া কর্মস্থল ত্যাগ করতে পারবেন না বিচারকরা",
+        "kicker_bn": "সতর্কতা",
         "share_value": true,
-        "question_bn": "ঢাকা বিশ্ববিদ্যালয়ের ভর্তি আবেদনের সময় বাড়ানো হলে আপনার কি সুবিধা হবে?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-23T13:14:25.789832+00:00"
-      }
-    },
-    {
-      "story_id": "ea01850e-a73b-5563-921c-f96d9889f238",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#iBAS",
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2023-09%2Fc455b975-3e73-4bb4-88af-12a49438bdf7%2FWhatsApp_Image_2023_09_18_at_12_32_21.jpeg?rect=0%2C0%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-23T12:00:39+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.6844,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/chakri/chakri-news/619q256w76",
-          "title": "যোগদানের প্রায় দুই মাসেও বেতন পাননি প্রাথমিকের অধিকাংশ সহকারী শিক্ষক",
-          "snippet": "যোগদানের প্রায় দুই মাসেও বেতন পাননি প্রাথমিকের অধিকাংশ সহকারী শিক্ষক"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822636/%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%A6%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%93-%E0%A6%AC%E0%A7%87%E0%A6%A4%E0%A6%A8-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A6%BF-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%82%E0%A6%B6",
-          "title": "যোগদানের প্রায় দুই মাসেও বেতন পাননি অধিকাংশ প্রাথমিক শিক্ষক",
-          "snippet": "যোগদানের প্রায় দুই মাসেও বেতন পাননি অধিকাংশ প্রাথমিক শিক্ষক"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "যোগদানের দুই মাস হতে চললেও বেতন পাননি অধিকাংশ প্রাথমিক সহকারী শিক্ষক",
-        "title_en": "Most newly appointed primary assistant teachers have not received salaries for two months",
-        "summary_bn": "গত ১ অক্টোবর সরকারি প্রাথমিক বিদ্যালয়ে যোগদান করা ১২ হাজার ৮৩০ জন সহকারী শিক্ষকের অধিকাংশ দুই মাস হতে চললেও এখনো বেতন-ভাতা পাননি।",
-        "summary_en": "Most of the 12,830 assistant teachers who joined government primary schools on October 1 have not received their salaries nearly two months after starting work.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T12:00:39+00:00",
-        "lead_bn": "গত ১ অক্টোবর সরকারি প্রাথমিক বিদ্যালয়ে যোগদান করা ১২ হাজার ৮৩০ জন সহকারী শিক্ষকের অধিকাংশ দুই মাস হতে চললেও এখনো বেতন-ভাতা পাননি।",
-        "lead_en": "Most of the 12,830 assistant teachers who joined government primary schools on October 1 have not received their salaries nearly two months after starting work.",
-        "bullets_bn": [
-          "শিক্ষকেরা জানান, আইবাস++ সিস্টেমে বেতন নির্ধারণের তথ্য উপজেলা হিসাবরক্ষণ অফিসের অডিটরদের আইডিতে দেখা না যাওয়ায় বিল প্রস্তুত করা যাচ্ছে না।",
-          "তবে মাগুরা সদর এবং গাইবান্ধা ও ঝিনাইদহ জেলার কয়েকটি উপজেলার কিছু শিক্ষক ইতিমধ্যে বেতন পেয়েছেন বলে জানা গেছে।",
-          "আইবাস++ কর্তৃপক্ষ জানিয়েছে, কারিগরি ত্রুটির কারণে স্বয়ংক্রিয় বেতন নির্ধারণে দেরি হতে পারে, তবে সমাধানের নির্দিষ্ট সময় জানানো হয়নি।"
-        ],
-        "bullets_en": [
-          "Teachers said pay fixation data is not visible in the iBAS++ system to auditors at sub-district accounts offices, preventing bill preparation.",
-          "Some teachers in Magura Sadar and a few sub-districts of Gaibandha and Jhenaidah have reportedly received their salaries.",
-          "The iBAS++ authorities stated that technical errors might cause delays in the automated pay fixation process but provided no resolution date."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "দীর্ঘ আট মাস অপেক্ষার পর গত ১ অক্টোবর সরকারি প্রাথমিক বিদ্যালয়ের ২০২৫ ব্যাচের ১২ হাজার ৮৩০ সহকারী শিক্ষক চাকরিতে যোগ দেন। এক সংবাদ বিজ্ঞপ্তিতে নবনিযুক্ত শিক্ষকেরা ডিসেম্বরের শুরুতে বেতন নিশ্চিত করার দাবি জানিয়েছেন। তাঁদের অভিযোগ, সিস্টেম থেকে তথ্য পাঠানোর পর তা দেখা যাচ্ছে না এবং সংশোধনের সময় কারিগরি ত্রুটির বার্তা দেখাচ্ছে।",
-        "details_en": "The 2025 batch of assistant teachers joined their posts on October 1 after an eight-month wait. In a press release, the newly appointed teachers demanded that their salaries be ensured by early December. They alleged that technical errors occur when trying to forward or edit pay fixation data in the system, with some information disappearing from the edit menu.",
-        "hook_bn": "১২ হাজার শিক্ষকের বেতন আটকে আছে",
-        "kicker_bn": "বেতন জটিলতা",
-        "share_value": true,
-        "question_bn": "সরকারি চাকরিতে যোগদানের পর বেতন পেতে আপনার কি এমন ভোগান্তি হয়েছে?"
+        "question_bn": "বিচারকদের সময়মতো কর্মস্থলে উপস্থিতি আদালতের সেবায় কী ধরনের পরিবর্তন আনতে পারে বলে আপনার মনে হয়?"
       },
       "desk_importance": 6.0,
       "outlet_count": 2,
       "trending": false,
-      "social_appeal": 8.0,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-23T13:14:25.789832+00:00"
+        "checked_at": "2026-11-23T14:05:19.595563+00:00"
+      }
+    },
+    {
+      "story_id": "ba7e410d-f036-56de-9d2a-dafe1410522b",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#BelgiumStrike",
+        "#BrusselsAirport",
+        "#BartDeWever"
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6bf3/live/3920ed00-e738-11f1-8294-033bd8ee7e95.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-23T13:34:02+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4288,
+      "sources": [
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+          "title": "Flights and train services cancelled in Belgium due to strike",
+          "snippet": "Flights and train services cancelled in Belgium due to strike"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822643/%E0%A6%AC%E0%A7%87%E0%A6%B2%E0%A6%9C%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%98%E0%A6%9F%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B2-%E0%A6%B6%E0%A6%A4-%E0%A6%B6%E0%A6%A4-%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9F-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A8",
+          "title": "বেলজিয়ামে ধর্মঘটে বাতিল শত শত ফ্লাইট, বন্ধ ট্রেন চলাচল",
+          "snippet": "বেলজিয়ামে ধর্মঘটে বাতিল শত শত ফ্লাইট, বন্ধ ট্রেন চলাচল"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ব্যয় সংকোচন নীতির প্রতিবাদে বেলজিয়ামে বিমান ও ট্রেন চলাচল স্থবির",
+        "title_en": "Strike halts flights and public transport across Belgium over austerity measures",
+        "summary_bn": "পরিকল্পিত ব্যয় সংকোচন নীতির প্রতিবাদে দেশব্যাপী ধর্মঘটের কারণে বেলজিয়ামে শত শত ফ্লাইট বাতিল এবং গণপরিবহন ব্যবস্থা মারাত্মকভাবে ব্যাহত হয়েছে।",
+        "summary_en": "Hundreds of flights were cancelled and public transport was severely disrupted across Belgium as workers struck against planned austerity measures.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-23T13:34:02+00:00",
+        "lead_bn": "পরিকল্পিত ব্যয় সংকোচন নীতির প্রতিবাদে দেশব্যাপী ধর্মঘটের কারণে বেলজিয়ামে শত শত ফ্লাইট বাতিল এবং গণপরিবহন ব্যবস্থা মারাত্মকভাবে ব্যাহত হয়েছে।",
+        "lead_en": "Hundreds of flights were cancelled and public transport was severely disrupted across Belgium as workers struck against planned austerity measures.",
+        "bullets_bn": [
+          "জাভেনতেমের ব্রাসেলস বিমানবন্দর ও শার্লরয় বিমানবন্দরে বিমান চলাচল এবং রাজধানী ব্রাসেলসে ভূগর্ভস্থ মেট্রো পরিষেবা বন্ধ হয়ে যায়।",
+          "ব্রাসেলস বিমানবন্দরের মুখপাত্র জেফরি ফ্রানসেন্স জানান, মোট ৪০৪টি ফ্লাইট বাতিল হওয়ায় ৫০ হাজারের বেশি যাত্রী প্রভাবিত হয়েছেন।",
+          "বিমান নিয়ন্ত্রকদের ধর্মঘটের কারণে স্থানীয় সময় সকাল ৭টা থেকে রাত ৯টা পর্যন্ত ব্রাসেলস বিমানবন্দরে ফ্লাইট ওঠানামা বন্ধ থাকে।"
+        ],
+        "bullets_en": [
+          "Air traffic came to a halt at Brussels Airport in Zaventem and Charleroi Airport, while Brussels underground services also stopped.",
+          "Brussels Airport spokesperson Jeffrey Franssens said 404 flights were cancelled, affecting more than 50,000 passengers.",
+          "Air traffic controllers halted flight operations at Brussels Airport between 07:00 and 21:00 local time."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ঋণ গ্রহণের খরচ কমাতে জোট সহযোগীদের সাথে প্রধানমন্ত্রী বার্ট দে ভেভারের বাজেট আলোচনার মধ্যেই এই প্রতিবাদ কর্মসূচি শুরু হয়। এই মাসের শুরুতে রাজা ফিলিপ বার্ট দে ভেভারের পদত্যাগপত্র প্রত্যাখ্যান করে তাকে আলোচনার জন্য বাড়তি সময় দেন।",
+        "details_en": "The protest occurred while Prime Minister Bart De Wever held budget negotiations with coalition allies to cut borrowing costs. Earlier this month, King Philippe declined De Wever's resignation, granting him additional time to negotiate the budget.",
+        "hook_bn": "বেলজিয়ামে ধর্মঘটে শত শত ফ্লাইট বাতিল",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "এ ধরনের পরিবহন ধর্মঘট নিয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-23T14:05:19.595563+00:00"
+      }
+    },
+    {
+      "story_id": "ea7aff00-b63f-5f8f-af44-b8c566717001",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#BangladeshBank",
+        "#Remittance"
+      ],
+      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_c31a458f00e8a8eb2c9ab8c1e775782e.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-23T14:00:59.459093+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5894,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/economy/remittance-rises-104pc-yoy-to-236b-in-first-22-days-of-november",
+          "title": "Remittance rises 10.4pc YoY to $2.36b in first 22 days of November",
+          "snippet": "Remittance rises 10.4pc YoY to $2.36b in first 22 days of November"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নভেম্বরের প্রথম ২২ দিনে রেমিট্যান্স বেড়েছে ১০.৪ শতাংশ",
+        "title_en": "Remittance rises 10.4pc in first 22 days of November",
+        "summary_bn": "বাংলাদেশ ব্যাংক জানিয়েছে, নভেম্বর মাসের প্রথম ২২ দিনে বাংলাদেশ ২ দশমিক ৩৫৭ বিলিয়ন মার্কিন ডলার রেমিট্যান্স পেয়েছে।",
+        "summary_en": "Bangladesh received US$2.357 billion in remittances during the first 22 days of November, according to Bangladesh Bank.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-23T14:00:59.459093+00:00",
+        "lead_bn": "বাংলাদেশ ব্যাংক জানিয়েছে, নভেম্বর মাসের প্রথম ২২ দিনে বাংলাদেশ ২ দশমিক ৩৫৭ বিলিয়ন মার্কিন ডলার রেমিট্যান্স পেয়েছে।",
+        "lead_en": "Bangladesh received US$2.357 billion in remittances during the first 22 days of November, according to Bangladesh Bank.",
+        "bullets_bn": [
+          "বাংলাদেশ ব্যাংকের তথ্য অনুযায়ী, এই অংক গত বছরের একই সময়ের তুলনায় ১০ দশমিক ৪ শতাংশ বেশি।",
+          "গত বছরের নভেম্বর মাসের সংশ্লিষ্ট সময়ে প্রবাসীরা ২ দশমিক ১৩৫ বিলিয়ন ডলার পাঠিয়েছিলেন।",
+          "শুধু ২২ নভেম্বর দেশটিতে ১১ কোটি ৯০ লাখ ডলার রেমিট্যান্স এসেছে।"
+        ],
+        "bullets_en": [
+          "The figure marks a 10.4 percent year-on-year growth compared to the same period.",
+          "Expatriate Bangladeshis sent home $2.135 billion in the corresponding period in November 2025.",
+          "On November 22 alone, the country received $119 million in remittances."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বাংলাদেশ ব্যাংকের তথ্য অনুযায়ী, চলতি অর্থবছরের পহেলা জুলাই থেকে ২২ নভেম্বর পর্যন্ত সময়ে মোট রেমিট্যান্স অর্জিত হয়েছে ১৩ দশমিক ৮২২ বিলিয়ন ডলার। এটি গত অর্থবছরের একই সময়ের ১২ দশমিক ২৮৪ বিলিয়ন ডলারের তুলনায় ১২ দশমিক ৫ শতাংশ বেশি। কেন্দ্রীয় ব্যাংক জানিয়েছে, আনুষ্ঠানিক ব্যাংকিং চ্যানেলে এই রেমিট্যান্স প্রবাহ অব্যাহত থাকায় বৈদেশিক মুদ্রার রিজার্ভ শক্তিশালী হচ্ছে এবং সামষ্টিক অর্থনৈতিক স্থিতিশীলতা বজায় থাকছে।",
+        "details_en": "Cumulative remittance earnings during the July 1 to November 22 period of current fiscal year reached $13.822 billion, marking a 12.5 percent increase over the $12.284 billion received during the same timeframe of the previous fiscal year. The central bank stated that the steady upward trajectory in remittance inflows through formal banking channels continues to bolster the country’s foreign exchange reserves and support macroeconomic stability.",
+        "hook_bn": "নভেম্বরের প্রথম ২২ দিনে রেমিট্যান্স ২.৩৫ বিলিয়ন ডলার",
+        "kicker_bn": "রেমিট্যান্স",
+        "share_value": false,
+        "question_bn": "বৈধ চ্যানেলে রেমিট্যান্স পাঠানোর ক্ষেত্রে আপনার অভিজ্ঞতা কেমন?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-23T14:05:19.595563+00:00"
       }
     }
   ]
