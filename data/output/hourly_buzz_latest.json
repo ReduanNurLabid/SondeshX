@@ -1,426 +1,324 @@
 {
-  "updated_at": "2026-11-23T12:00:44.911970",
-  "total_stories": 6,
+  "updated_at": "2026-11-23T13:00:49.965563",
+  "total_stories": 4,
   "stories": [
     {
-      "story_id": "6b88571a-9769-5e3b-81bb-0f0db5ac00ab",
+      "story_id": "9c323b2e-679e-54ec-b253-fab006af3c52",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
-        "world_diplomacy",
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#ShamaObaed",
-        "#SheikhHasina",
         "#Bangladesh",
-        "#India"
+        "#Governance"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/09/sheikh_hasinaupdated.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2024-08-17%2Fibye1hwk%2FYounus.webp?rect=0%2C0%2C640%2C336&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-23T11:35:00+00:00",
+      "published_at": "2026-11-23T12:36:20+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.2,
-      "rank_score": 5.0542,
+      "importance_score": 6.5,
+      "rank_score": 4.1244,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/she-will-face-music-shama-obaed-says-hasina-will-be-arrested-if-she-returns-india-1611606",
-          "title": "'She will ​face the music': Shama Obaed says Hasina will be arrested if she returns from India",
-          "snippet": "'She will ​face the music': Shama Obaed says Hasina will be arrested if she returns from India"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/n6dq0avwa9",
+          "title": "‘জয় বাংলা’ স্লোগান দিয়ে শুধু নভেম্বরে গ্রামীণ ব্যাংকের প্রায় ১০০ শাখায় হামলা: অধ্যাপক ইউনূস",
+          "snippet": "‘জয় বাংলা’ স্লোগান দিয়ে শুধু নভেম্বরে গ্রামীণ ব্যাংকের প্রায় ১০০ শাখায় হামলা: অধ্যাপক ইউনূস"
         },
         {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/us-panel-urges-india-dialogue-for-dalai-lama-succession-warns-of-china-legitimacy-contest/article71733447.ece",
-          "title": "U.S. panel urges India dialogue for Dalai Lama succession, warns of China legitimacy contest",
-          "snippet": "U.S. panel urges India dialogue for Dalai Lama succession, warns of China legitimacy contest"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/yunus-urges-end-attacks-grameen-bank-calls-perpetrators-face-justice-1611591",
+          "title": "Yunus urges end to attacks on Grameen Bank, calls for perpetrators to face justice",
+          "snippet": "Yunus urges end to attacks on Grameen Bank, calls for perpetrators to face justice"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/dr-muhammad-yunus-demands-punishment-attack-grameen/",
+          "title": "গ্রামীণ ব্যাংকে হামলায় জড়িত ব্যক্তিদের শাস্তির দাবি ড.মুহাম্মদ ইউনূসের",
+          "snippet": "গ্রামীণ ব্যাংকে হামলায় জড়িত ব্যক্তিদের শাস্তির দাবি ড.মুহাম্মদ ইউনূসের"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাংলাদেশ ফিরলে শেখ হাসিনাকে গ্রেপ্তার করা হবে, বলেছেন শামা ওবায়েদ",
-        "title_en": "Hasina will be arrested if she returns, says Shama Obaed",
-        "summary_bn": "ভারত থেকে দেশে ফিরলেই সাবেক প্রধানমন্ত্রী শেখ হাসিনাকে গ্রেপ্তার করে কারাগারে পাঠানো হবে বলে জানিয়েছেন পররাষ্ট্র প্রতিমন্ত্রী শামা ওবায়েদ ইসলাম।",
-        "summary_en": "Former Prime Minister Sheikh Hasina will be arrested and jailed immediately upon returning to Bangladesh from India, State Minister Shama Obaed Islam said.",
+        "title_bn": "নভেম্বরে গ্রামীণ ব্যাংকের প্রায় ১০০ শাখায় হামলা হয়েছে বলে অধ্যাপক ইউনূসের অভিযোগ",
+        "title_en": "Prof Yunus alleges attacks on nearly 100 Grameen Bank branches in November",
+        "summary_bn": "সাবেক অন্তর্বর্তী সরকারের প্রধান উপদেষ্টা অধ্যাপক মুহাম্মদ ইউনূস অভিযোগ করেছেন যে নভেম্বর মাসেই দেশে গ্রামীণ ব্যাংকের প্রায় ১০০টি শাখায় পেট্রলবোমা দিয়ে হামলা চালানো হয়েছে।",
+        "summary_en": "Former interim government chief adviser Professor Muhammad Yunus alleges that nearly 100 Grameen Bank branches were attacked with petrol bombs in November.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law",
-          "world_diplomacy",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-23T11:35:00+00:00",
-        "lead_bn": "ভারত থেকে দেশে ফিরলেই সাবেক প্রধানমন্ত্রী শেখ হাসিনাকে গ্রেপ্তার করে কারাগারে পাঠানো হবে বলে জানিয়েছেন পররাষ্ট্র প্রতিমন্ত্রী শামা ওবায়েদ ইসলাম।",
-        "lead_en": "Former Prime Minister Sheikh Hasina will be arrested and jailed immediately upon returning to Bangladesh from India, State Minister Shama Obaed Islam said.",
+        "published_at": "2026-11-23T12:36:20+00:00",
+        "lead_bn": "সাবেক অন্তর্বর্তী সরকারের প্রধান উপদেষ্টা অধ্যাপক মুহাম্মদ ইউনূস অভিযোগ করেছেন যে নভেম্বর মাসেই দেশে গ্রামীণ ব্যাংকের প্রায় ১০০টি শাখায় পেট্রলবোমা দিয়ে হামলা চালানো হয়েছে।",
+        "lead_en": "Former interim government chief adviser Professor Muhammad Yunus alleges that nearly 100 Grameen Bank branches were attacked with petrol bombs in November.",
         "bullets_bn": [
-          "বাংলাদেশ ভারত থেকে হাসিনাকে প্রত্যার্পণ করার জন্য দেশটির কাছে আবেদন জানিয়েছে।",
-          "ভারত সরকারের পক্ষ থেকে তাৎক্ষণিকভাবে কোনো মন্তব্য পাওয়া যায়নি।",
-          "ডিসেম্বরে হাসিনার পরিকল্পিত প্রত্যাবর্তন ঘিরে রাজনৈতিক উত্তেজনা ও সহিংসতা বাড়ছে।"
+          "হামলার সময় 'জয় বাংলা' স্লোগান দেওয়া হচ্ছে এবং অপরাধীরা ওপরের মহল থেকে নির্দেশনা পাচ্ছে বলে তিনি মনে করেন।",
+          "ব্যাংকটির ১ কোটি ১০ লাখ ঋণগ্রহীতার ৯৭ শতাংশই নারী এবং ঋণ আদায়ের হার ৯৫ শতাংশের বেশি বলে উল্লেখ করা হয়েছে।",
+          "হামলার ঘটনায় স্বরাষ্ট্র মন্ত্রণালয়ের কাছে আরও জোরদার নিরাপত্তা চেয়েছে গ্রামীণ ব্যাংক।"
         ],
         "bullets_en": [
-          "Dhaka is seeking Hasina's extradition from India and expects New Delhi to comply with an existing extradition treaty.",
-          "India's foreign ministry did not immediately respond to a request for comment on the matter.",
-          "Hasina's planned return in December has fueled political tension and renewed street violence in Bangladesh."
+          "He states that Joy Bangla slogans are chanted during the attacks and perpetrators receive directives from higher quarters.",
+          "He mentions that 97 percent of the bank's 1.10 crore borrowers are women and the loan recovery rate is over 95 percent.",
+          "Grameen Bank has sought stricter security from the Home Ministry following the incidents."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "২০২৪ সালে গণঅভ্যুত্থানের পর শেখ হাসিনা পদত্যাগ করে দেশ ছেড়ে ভারতে চলে যান। এই অভ্যুত্থানের সময় জাতিসংঘ ১,৪০০ মানুষের মৃত্যুর কথা জানিয়েছে। বাংলাদেশে তাঁর বিরুদ্ধে মৃত্যুদণ্ডের আদেশ রয়েছে এবং তাঁর দল আওয়ামী লীগ নিষিদ্ধ করা হয়েছে।",
-        "details_en": "Hasina fled Dhaka in August 2024 as protests demanding her resignation swept the country. The United Nations has said as many as 1,400 people were killed during the unrest. She faces a death sentence in Bangladesh and her Awami League party is banned following the uprising.",
-        "hook_bn": "'সে আইনগত পরিস্থিতির মুখোমুখি হবে'",
+        "impact_bn": "এসব হামলায় লাখ লাখ গ্রামীণ নারী আতঙ্কের মধ্যে দিন কাটাচ্ছেন এবং তাঁদের দৈনন্দিন প্রয়োজন মেটানোর গুরুত্বপূর্ণ অবলম্বন বাধাগ্রস্ত হচ্ছে।",
+        "impact_en": "These attacks have left millions of rural women in panic, disrupting the crucial support system they rely on for daily needs.",
+        "details_bn": "অধ্যাপক মুহাম্মদ ইউনূস জানান যে ২০১১ সালে আওয়ামী লীগ সরকার তাঁকে গ্রামীণ ব্যাংকের ব্যবস্থাপনা পরিচালকের পদ থেকে অপসারণ করার পর থেকে ব্যাংকটির ব্যবস্থাপনা বা পরিচালনায় তাঁর কোনো সম্পৃক্ততা নেই। সহিংসতার ধারাবাহিকতায় জুলাই গণ-অভ্যুত্থানে সম্মুখসারিতে নেতৃত্ব দেওয়া সংসদ সদস্য নুসরাত তাবাসসুমের বাড়ি, বিএনপির তিন সংসদ সদস্যের বাড়ি এবং তিনটি থানাতেও অগ্নিসংযোগ করা হয়েছে বলে বিবৃতিতে উল্লেখ করা হয়।",
+        "details_en": "Professor Muhammad Yunus stated that he has no involvement in the management or operation of Grameen Bank since the Awami League government removed him from the post of managing director in 2011. The statement noted that in a similar sequence of violence, the house of July mass uprising frontline leader MP Nusrat Tabassum, three BNP MPs' houses, and three police stations were also torched.",
+        "hook_bn": "গ্রামীণ ব্যাংকের প্রায় ১০০ শাখায় হামলা",
         "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-23T12:01:41.972124+00:00"
+        "checked_at": "2026-11-23T13:14:25.789832+00:00"
       }
     },
     {
-      "story_id": "b644e25f-fac4-5f5f-af64-22fcdd0557ec",
-      "primary_category": "economy_business",
+      "story_id": "8e819116-de74-523d-8eba-2f9a07128a58",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "economy_business",
+        "governance_law",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#AzizulIslam",
+        "#DetectiveBranch",
+        "#Jashore"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/23/azizul_hakim.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-23T12:15:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.25,
+      "rank_score": 3.7357,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/former-jashore-6-mp-azizul-islam-arrested-dhaka-1611706",
+          "title": "Former Jashore-6 MP Azizul Islam arrested in Dhaka",
+          "snippet": "Former Jashore-6 MP Azizul Islam arrested in Dhaka"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/crime/425532/ex-jessore-mp-azizul-islam-arrested-in-dhaka",
+          "title": "Ex-Jessore MP Azizul Islam arrested in Dhaka",
+          "snippet": "Ex-Jessore MP Azizul Islam arrested in Dhaka"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/law-and-crime/982768/%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95-%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A7%9F-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0",
+          "title": "যশোরের সাবেক এমপি ঢাকায় গ্রেফতার",
+          "snippet": "যশোরের সাবেক এমপি ঢাকায় গ্রেফতার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ঢাকার লালমাটিয়া থেকে সাবেক এমপি আজিজুল ইসলাম গ্রেফতার",
+        "title_en": "Former MP Azizul Islam arrested in Lalmatia, Dhaka",
+        "summary_bn": "গোয়েন্দা পুলিশ ঢাকার লালমাটিয়ার একটি বাসা থেকে যশোর-৬ আসনের সাবেক সংসদ সদস্য মো. আজিজুল ইসলামকে গ্রেফতার করেছে।",
+        "summary_en": "Detective Branch police have arrested former Jashore-6 MP Md Azizul Islam from a house in Lalmatia, Dhaka.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-23T12:15:00+00:00",
+        "lead_bn": "গোয়েন্দা পুলিশ ঢাকার লালমাটিয়ার একটি বাসা থেকে যশোর-৬ আসনের সাবেক সংসদ সদস্য মো. আজিজুল ইসলামকে গ্রেফতার করেছে।",
+        "lead_en": "Detective Branch police have arrested former Jashore-6 MP Md Azizul Islam from a house in Lalmatia, Dhaka.",
+        "bullets_bn": [
+          "তেজগাঁও বিভাগের একটি টিম লালমাটিয়ার ব্লক এ-র একটি বাসা থেকে তাকে গ্রেফতার করে।",
+          "ডিবি পুলিশ জানায় আজিজুল ইসলামের বিরুদ্ধে যশোরে একাধিক মামলা রয়েছে।",
+          "গ্রেফতারের পর তাকে ডিবি কার্যালয়ে নেওয়া হয়েছে এবং ঢাকার সাম্প্রতিক নাশকতায় তার সম্পৃক্ততা রয়েছে বলে ধারণা করা হচ্ছে।"
+        ],
+        "bullets_en": [
+          "A Tejgaon Division team arrested him from a house in Block A of Lalmatia.",
+          "DB police said Azizul faces multiple cases in Jashore.",
+          "He was taken to the DB office and is suspected of involvement in recent Dhaka sabotage."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মো. আজিজুল ইসলাম ২০২৪ সালের দ্বাদশ জাতীয় সংসদ নির্বাচনে যশোর-৬ (কেশবপুর) আসন থেকে স্বতন্ত্র প্রার্থী হিসেবে সংসদ সদস্য নির্বাচিত হয়েছিলেন। তিনি নির্বাচনে আওয়ামী লীগ মনোনীত প্রার্থী ও যশোর জেলা ইউনিট সাধারণ সম্পাদক শাহীন চাকলাদারকে পরাজিত করেছিলেন।",
+        "details_en": "Md Azizul Islam was elected as an independent MP from the Jashore-6 (Keshabpur) constituency in the 2024 12th parliamentary election, defeating Awami League-nominated candidate and Jashore district unit General Secretary Shaheen Chakladar.",
+        "hook_bn": "লালমাটিয়া থেকে সাবেক এমপি আজিজুল গ্রেফতার",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-23T13:14:25.789832+00:00"
+      }
+    },
+    {
+      "story_id": "8916d934-55d8-52f6-8625-3767a290e52b",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#DhakaUniversity",
+        "#DUAdmission",
+        "#ABMObaidulIslam"
       ],
-      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/tarek-rahman-20261123174640.jpg?cid=500267",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/23/screenshot_2026-11-23_164919.png",
       "image_caption": null,
-      "published_at": "2026-11-23T11:46:40+00:00",
+      "published_at": "2026-11-23T10:45:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 4.2949,
-      "sources": [
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/national/500267",
-          "title": "প্রধানমন্ত্রীর সঙ্গে দক্ষিণ কোরিয়ার এসকে গ্রুপের প্রতিনিধিদলের সাক্ষাৎ",
-          "snippet": "প্রধানমন্ত্রীর সঙ্গে দক্ষিণ কোরিয়ার এসকে গ্রুপের প্রতিনিধিদলের সাক্ষাৎ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "দক্ষিণ কোরিয়ার এসকে গ্রুপের প্রধানমন্ত্রী তারেক রহমানের সাথে সাক্ষাৎ",
-        "title_en": "SK Group of South Korea meets Prime Minister Tarique Rahman",
-        "summary_bn": "দক্ষিণ কোরিয়ার এসকে গ্রুপের একটি প্রতিনিধিদল প্রধানমন্ত্রী তারেক রহমানের সাথে সাক্ষাৎ করে মাতারবাড়ী গভীর সমুদ্রবন্দর এলাকায় এলপিজি ও এলএনজি টার্মিনাল নির্মাণে বিনিয়োগের আগ্রহ প্রকাশ করেছে।",
-        "summary_en": "A delegation from South Korea's SK Group met Prime Minister Tarique Rahman to express interest in investing in LPG and LNG terminals at Matarbari deep sea port.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T11:46:40+00:00",
-        "lead_bn": "দক্ষিণ কোরিয়ার এসকে গ্রুপের একটি প্রতিনিধিদল প্রধানমন্ত্রী তারেক রহমানের সাথে সাক্ষাৎ করে মাতারবাড়ী গভীর সমুদ্রবন্দর এলাকায় এলপিজি ও এলএনজি টার্মিনাল নির্মাণে বিনিয়োগের আগ্রহ প্রকাশ করেছে।",
-        "lead_en": "A delegation from South Korea's SK Group met Prime Minister Tarique Rahman to express interest in investing in LPG and LNG terminals at Matarbari deep sea port.",
-        "bullets_bn": [
-          "প্রতিনিধিদল মাতারবাড়ী গভীর সমুদ্রবন্দর এলাকায় এলপিজি ও এলএনজি টার্মিনাল নির্মাণে বিনিয়োগের বিষয়ে প্রধানমন্ত্রীকে বিস্তারিত উপস্থাপনা দেয়।",
-          "প্রতিনিধিদল জানায় মাতারবাড়ী দক্ষিণ কোরিয়ার উলসানের মতো একটি এনার্জি হাব হয়ে ওঠার সম্ভাবনা রয়েছে।",
-          "প্রধানমন্ত্রী প্রস্তাবিত প্রকল্পের কাজ দ্রুত এগিয়ে নেওয়ার আহ্বান জানান এবং সংশ্লিষ্ট কর্তৃপক্ষকে প্রয়োজনীয় ব্যবস্থা নেওয়ার নির্দেশ দেন।"
-        ],
-        "bullets_en": [
-          "The delegation gave a detailed presentation to the Prime Minister on investing in LPG and LNG terminal construction in the Matarbari deep sea port area.",
-          "The delegation stated that Matarbari has the potential to become an energy hub like Ulsan in South Korea.",
-          "The Prime Minister called for advancing the proposed project work quickly and directed relevant authorities to take necessary measures."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সচিবালয়ে প্রধানমন্ত্রীর কার্যালয়ে এই সাক্ষাৎ অনুষ্ঠিত হয়। বৈঠকে অর্থমন্ত্রী আমির খসরু মাহমুদ চৌধুরী, বিদ্যুৎ প্রতিমন্ত্রী অনিন্দ্য ইসলাম অমিত এবং বিডা চেয়ারম্যান আশিক চৌধুরী উপস্থিত ছিলেন। এছাড়া ইয়ংওয়ান করপোরেশনের চেয়ারম্যান কিহাক সুং এবং এসকে গ্যাসের সিইও ও প্রেসিডেন্ট কিউনইয়ল সং উপস্থিত ছিলেন।",
-        "details_en": "The meeting took place at the Prime Minister's office in the Secretariat. Finance Minister Amir Khosru Mahmud Chowdhury, State Minister for Power Anindya Islam Amit, and BIDA Chairman Ashik Chowdhury were present. Additionally, Youngone Corporation Chairman Kihak Sung and SK Gas CEO and President Kyunyoul Song were present.",
-        "hook_bn": "মাতারবাড়ীতে এলপিজি ও এলএনজি টার্মিনাল নির্মাণে কোরিয়ান গ্রুপের আগ্রহ",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": "মাতারবাড়ী গভীর সমুদ্রবন্দর এলাকায় এ ধরনের জ্বালানি প্রকল্প দেশের অর্থনীতিতে কী ধরনের প্রভাব ফেলতে পারে বলে আপনি মনে করেন?"
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-23T12:01:41.972124+00:00"
-      }
-    },
-    {
-      "story_id": "8a83499f-7248-5d96-831d-c76fec73a138",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#SwedenAslam",
-        "#NewMarket",
-        "#Dhaka"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/23/sweden_aslam.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-23T11:15:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.4429,
+      "importance_score": 6.5,
+      "rank_score": 3.7052,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/court/titon-murder-case-sweden-aslam-placed-5-day-remand-1611581",
-          "title": "Titon murder case: Sweden Aslam placed on 5-day remand",
-          "snippet": "Titon murder case: Sweden Aslam placed on 5-day remand"
+          "url": "https://www.tbsnews.net/bangladesh/du-likely-extend-admission-application-deadline-2-3-days-1611541",
+          "title": "DU likely to extend admission application deadline by 2-3 days",
+          "snippet": "DU likely to extend admission application deadline by 2-3 days"
         },
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/court/425519/titon-murder-db-seeks-7-day-remand-for-sweden",
-          "title": "Titon murder: DB seeks 7-day remand for Sweden Aslam",
-          "snippet": "Titon murder: DB seeks 7-day remand for Sweden Aslam"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/education/admission/vwceuog4l0",
+          "title": "ঢাকা বিশ্ববিদ্যালয়ে ভর্তি পরীক্ষা, আবেদনের সময় বাড়ল তিন দিন",
+          "snippet": "ঢাকা বিশ্ববিদ্যালয়ে ভর্তি পরীক্ষা, আবেদনের সময় বাড়ল তিন দিন"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/campus/500285",
+          "title": "ঢাকা বিশ্ববিদ্যালয়ে ভর্তি আবেদনের সময় বাড়ল ৩ দিন",
+          "snippet": "ঢাকা বিশ্ববিদ্যালয়ে ভর্তি আবেদনের সময় বাড়ল ৩ দিন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "টিটন হত্যা মামলায় সোয়েদন আসলাম পাঁচ দিনের রিমান্ডে",
-        "title_en": "Sweden Aslam placed on five-day remand in Titon murder case",
-        "summary_bn": "ব্যবসায়ী খন্দকার নাঈম আহমেদ টিটন হত্যা মামলায় শীর্ষ অপরাধী এস এম আসলাম ওরফে সোয়েদন আসলামকে পাঁচ দিনের রিমান্ডে পাঠিয়েছে আদালত।",
-        "summary_en": "A Dhaka court has placed alleged top criminal SM Aslam, known as Sweden Aslam, on a five-day remand in a murder case.",
+        "title_bn": "ঢাকা বিশ্ববিদ্যালয়ের ভর্তি আবেদনের সময় বাড়ানো হতে পারে",
+        "title_en": "DU admission application deadline likely to be extended",
+        "summary_bn": "পরীক্ষার খাতা পুনর্নিরীক্ষণের আবেদন করা শিক্ষার্থীদের কথা বিবেচনা করে ঢাকা বিশ্ববিদ্যালয় তাদের ভর্তি আবেদনের সময় দুই থেকে তিন দিন বাড়াতে পারে।",
+        "summary_en": "The University of Dhaka may extend its admission application deadline by two to three days to accommodate students who applied for result re-evaluation.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "economy_business"
+          "society_education",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-23T11:15:00+00:00",
-        "lead_bn": "ব্যবসায়ী খন্দকার নাঈম আহমেদ টিটন হত্যা মামলায় শীর্ষ অপরাধী এস এম আসলাম ওরফে সোয়েদন আসলামকে পাঁচ দিনের রিমান্ডে পাঠিয়েছে আদালত।",
-        "lead_en": "A Dhaka court has placed alleged top criminal SM Aslam, known as Sweden Aslam, on a five-day remand in a murder case.",
+        "published_at": "2026-11-23T10:45:00+00:00",
+        "lead_bn": "পরীক্ষার খাতা পুনর্নিরীক্ষণের আবেদন করা শিক্ষার্থীদের কথা বিবেচনা করে ঢাকা বিশ্ববিদ্যালয় তাদের ভর্তি আবেদনের সময় দুই থেকে তিন দিন বাড়াতে পারে।",
+        "lead_en": "The University of Dhaka may extend its admission application deadline by two to three days to accommodate students who applied for result re-evaluation.",
         "bullets_bn": [
-          "ঢাকা মেট্রোপলিটন ম্যাজিস্ট্রেট মো. ইসমাইল ২৩ নভেম্বর এই আদেশ দেন।",
-          "ঢাকা মেট্রোপলিটন পুলিশের গোয়েন্দা বিভাগ সাত দিনের রিমান্ড আবেদন করেছিল।",
-          "প্রাথমিক তদন্তে হত্যাকাণ্ডে সোয়েদন আসলামের সরাসরি সম্পৃক্ততার তথ্য পাওয়া গেছে।"
+          "উপাচার্য অধ্যাপক ড. এবিএম ওবায়দুল ইসলাম বিষয়টি নিশ্চিত করেছেন।",
+          "শিক্ষামন্ত্রীর অনুরোধে এই সময় বাড়ানোর বিষয়টি বিবেচনা করা হচ্ছে।",
+          "পুনর্নিরীক্ষার ফল প্রত্যাশী শিক্ষার্থীরা আবেদন করার পর্যাপ্ত সময় পাবেন।"
         ],
         "bullets_en": [
-          "Dhaka Metropolitan Magistrate Md Ismail passed the order on 23 November.",
-          "The Detective Branch of Dhaka Metropolitan Police had sought a seven-day remand.",
-          "Preliminary investigations found information indicating Sweden Aslam was directly involved in the murder."
+          "Vice-Chancellor Professor ABM Obaidul Islam confirmed the possibility of extending the deadline.",
+          "The education minister had also requested the university authorities to extend the deadline.",
+          "Students awaiting re-evaluation results will get sufficient time to complete their applications."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "গোয়েন্দা পুলিশের রামনা জোনালের উপ-পরিদর্শক ও মামলার তদন্ত কর্মকর্তা মো. ইরফান খান সাত দিনের রিমান্ড চেয়ে আবেদন করেছিলেন। মামলার এজাহার অনুযায়ী, একটি গরুর হাটের ইজারা সংক্রান্ত দরপত্র সিডিউল নিয়ে টিটনের সঙ্গে সন্দেহভাজনদের বিরোধ ছিল। পুলিশ জানিয়েছে, পিন্টু হেলফ, কিলার বাদলসহ বেশ কয়েকজন পলাতক আসামি হত্যাকাণ্ডের সঙ্গে জড়িত রয়েছে।",
-        "details_en": "Sub-Inspector Md Irfan Khan of the DB's Ramna Zonal Team sought the remand. According to the petition, a dispute arose between Titon and suspects over a cattle market lease tender schedule. Investigators identified several absconding suspects including Pichchi Helal and Killer Badal.",
-        "hook_bn": "টিটন হত্যা মামলায় সোয়েদন আসলাম রিমান্ডে",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
+        "details_bn": "পরীক্ষার ফল পুনর্নিরীক্ষণের জন্য আবেদন করা শিক্ষার্থীদের ভর্তি আবেদন সম্পন্ন করার সুযোগ দিতে এই সময় বাড়ানোর উদ্যোগ নেওয়া হয়েছে। তবে এই সিদ্ধান্ত এখনো চূড়ান্ত হয়নি এবং তা দুই বা তিন দিন বাড়তে পারে।",
+        "details_en": "The proposed extension is intended to give students awaiting their re-evaluation results sufficient time to complete their admission applications. Vice-Chancellor Professor ABM Obaidul Islam stated that the final decision has not yet been finalised.",
+        "hook_bn": "সময় বাড়ছে ঢাকা বিশ্ববিদ্যালয়ের ভর্তি আবেদনের",
+        "kicker_bn": "নতুন তারিখ",
+        "share_value": true,
+        "question_bn": "ঢাকা বিশ্ববিদ্যালয়ের ভর্তি আবেদনের সময় বাড়ানো হলে আপনার কি সুবিধা হবে?"
       },
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-23T12:01:41.972124+00:00"
+        "checked_at": "2026-11-23T13:14:25.789832+00:00"
       }
     },
     {
-      "story_id": "c650a992-3db7-598b-b2ef-44b9c74c6ec8",
-      "primary_category": "governance_law",
+      "story_id": "ea01850e-a73b-5563-921c-f96d9889f238",
+      "primary_category": "society_education",
       "interest_categories": [
-        "governance_law",
-        "economy_business"
+        "society_education"
       ],
       "region": "national",
       "tags": [
-        "#BorderGuardBangladesh",
-        "#Mymensingh",
-        "#MohammadNasirUddin"
+        "#iBAS",
+        "#Bangladesh",
+        "#NationalAffairs"
       ],
-      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_5877807f835d2500b38dfd3cc565818b.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2023-09%2Fc455b975-3e73-4bb4-88af-12a49438bdf7%2FWhatsApp_Image_2023_09_18_at_12_32_21.jpeg?rect=0%2C0%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-23T12:00:53.670278+00:00",
+      "published_at": "2026-11-23T12:00:39+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.303,
+      "importance_score": 6.25,
+      "rank_score": 3.6844,
       "sources": [
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/fugitives-arrested-if-they-cross-border-bangladesh-mymensingh-bgb-sector-commander",
-          "title": "Fugitives crossing border will be arrested: BGB commander",
-          "snippet": "Fugitives crossing border will be arrested: BGB commander"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/chakri/chakri-news/619q256w76",
+          "title": "যোগদানের প্রায় দুই মাসেও বেতন পাননি প্রাথমিকের অধিকাংশ সহকারী শিক্ষক",
+          "snippet": "যোগদানের প্রায় দুই মাসেও বেতন পাননি প্রাথমিকের অধিকাংশ সহকারী শিক্ষক"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822636/%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%A6%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%93-%E0%A6%AC%E0%A7%87%E0%A6%A4%E0%A6%A8-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A6%BF-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%82%E0%A6%B6",
+          "title": "যোগদানের প্রায় দুই মাসেও বেতন পাননি অধিকাংশ প্রাথমিক শিক্ষক",
+          "snippet": "যোগদানের প্রায় দুই মাসেও বেতন পাননি অধিকাংশ প্রাথমিক শিক্ষক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সীমান্ত পেরিয়ে আসা পলাতক আসামিদের গ্রেপ্তার করা হবে: বিজিবি কমান্ডার",
-        "title_en": "Fugitives crossing border will be arrested: BGB commander",
-        "summary_bn": "বর্ডার গার্ড বাংলাদেশ সীমান্ত পেরিয়ে দেশে প্রবেশের চেষ্টাকারী যেকোনো বিতর্কিত পলাতক আসামিকে গ্রেপ্তার করবে বলে জানিয়েছেন এক বিজিবি কর্মকর্তা।",
-        "summary_en": "Border Guard Bangladesh will arrest any controversial fugitive attempting to enter the country by crossing the border, a BGB official said.",
+        "title_bn": "যোগদানের দুই মাস হতে চললেও বেতন পাননি অধিকাংশ প্রাথমিক সহকারী শিক্ষক",
+        "title_en": "Most newly appointed primary assistant teachers have not received salaries for two months",
+        "summary_bn": "গত ১ অক্টোবর সরকারি প্রাথমিক বিদ্যালয়ে যোগদান করা ১২ হাজার ৮৩০ জন সহকারী শিক্ষকের অধিকাংশ দুই মাস হতে চললেও এখনো বেতন-ভাতা পাননি।",
+        "summary_en": "Most of the 12,830 assistant teachers who joined government primary schools on October 1 have not received their salaries nearly two months after starting work.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "economy_business"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-23T12:00:53.670278+00:00",
-        "lead_bn": "বর্ডার গার্ড বাংলাদেশ সীমান্ত পেরিয়ে দেশে প্রবেশের চেষ্টাকারী যেকোনো বিতর্কিত পলাতক আসামিকে গ্রেপ্তার করবে বলে জানিয়েছেন এক বিজিবি কর্মকর্তা।",
-        "lead_en": "Border Guard Bangladesh will arrest any controversial fugitive attempting to enter the country by crossing the border, a BGB official said.",
+        "published_at": "2026-11-23T12:00:39+00:00",
+        "lead_bn": "গত ১ অক্টোবর সরকারি প্রাথমিক বিদ্যালয়ে যোগদান করা ১২ হাজার ৮৩০ জন সহকারী শিক্ষকের অধিকাংশ দুই মাস হতে চললেও এখনো বেতন-ভাতা পাননি।",
+        "lead_en": "Most of the 12,830 assistant teachers who joined government primary schools on October 1 have not received their salaries nearly two months after starting work.",
         "bullets_bn": [
-          "ময়মনসিংহ সেক্টরের সেক্টর কমান্ডার কর্নেল মোহাম্মদ নাসির উদ্দিন এই মন্তব্য করেন।",
-          "ময়মনসিংহ সেক্টর হেডকোয়ার্টারে আয়োজিত এক সংবাদ সম্মেলনে তিনি এই বক্তব্য দেন।",
-          "সার্বিক সীমান্ত নিরাপত্তা পরিস্থিতি নিয়ে সংবাদ সম্মেলনে সাংবাদিকদের কাছে এই কথাগুলো তুলে ধরা হয়।"
+          "শিক্ষকেরা জানান, আইবাস++ সিস্টেমে বেতন নির্ধারণের তথ্য উপজেলা হিসাবরক্ষণ অফিসের অডিটরদের আইডিতে দেখা না যাওয়ায় বিল প্রস্তুত করা যাচ্ছে না।",
+          "তবে মাগুরা সদর এবং গাইবান্ধা ও ঝিনাইদহ জেলার কয়েকটি উপজেলার কিছু শিক্ষক ইতিমধ্যে বেতন পেয়েছেন বলে জানা গেছে।",
+          "আইবাস++ কর্তৃপক্ষ জানিয়েছে, কারিগরি ত্রুটির কারণে স্বয়ংক্রিয় বেতন নির্ধারণে দেরি হতে পারে, তবে সমাধানের নির্দিষ্ট সময় জানানো হয়নি।"
         ],
         "bullets_en": [
-          "Colonel Mohammad Nasir Uddin is the sector commander of the BGB's Mymensingh Sector.",
-          "He made the remarks during a media briefing held at the Mymensingh Sector Headquarters.",
-          "The briefing was convened to discuss the overall border security situation with reporters."
+          "Teachers said pay fixation data is not visible in the iBAS++ system to auditors at sub-district accounts offices, preventing bill preparation.",
+          "Some teachers in Magura Sadar and a few sub-districts of Gaibandha and Jhenaidah have reportedly received their salaries.",
+          "The iBAS++ authorities stated that technical errors might cause delays in the automated pay fixation process but provided no resolution date."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "সীমান্ত পেরিয়ে আসা পলাতক আসামিরা গ্রেপ্তার হবে",
-        "kicker_bn": "সতর্কতা",
+        "details_bn": "দীর্ঘ আট মাস অপেক্ষার পর গত ১ অক্টোবর সরকারি প্রাথমিক বিদ্যালয়ের ২০২৫ ব্যাচের ১২ হাজার ৮৩০ সহকারী শিক্ষক চাকরিতে যোগ দেন। এক সংবাদ বিজ্ঞপ্তিতে নবনিযুক্ত শিক্ষকেরা ডিসেম্বরের শুরুতে বেতন নিশ্চিত করার দাবি জানিয়েছেন। তাঁদের অভিযোগ, সিস্টেম থেকে তথ্য পাঠানোর পর তা দেখা যাচ্ছে না এবং সংশোধনের সময় কারিগরি ত্রুটির বার্তা দেখাচ্ছে।",
+        "details_en": "The 2025 batch of assistant teachers joined their posts on October 1 after an eight-month wait. In a press release, the newly appointed teachers demanded that their salaries be ensured by early December. They alleged that technical errors occur when trying to forward or edit pay fixation data in the system, with some information disappearing from the edit menu.",
+        "hook_bn": "১২ হাজার শিক্ষকের বেতন আটকে আছে",
+        "kicker_bn": "বেতন জটিলতা",
         "share_value": true,
-        "question_bn": null
+        "question_bn": "সরকারি চাকরিতে যোগদানের পর বেতন পেতে আপনার কি এমন ভোগান্তি হয়েছে?"
       },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-23T12:01:41.972124+00:00"
-      }
-    },
-    {
-      "story_id": "aa1b577c-1a81-5e98-a671-9a5acad1d342",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#VolodymyrZelensky",
-        "#Libya",
-        "#Russia",
-        "#Ukraine"
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7507/live/ee06aa60-e720-11f1-a094-5fdc692f3e33.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-23T11:40:01+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.55,
-      "rank_score": 0.637,
-      "sources": [
-        {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-          "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-          "snippet": "Russian warship hit by Ukrainian drones in Libya, Zelensky says"
-        },
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
-          "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
-          "snippet": "Ukraine confirms it used naval drones to strike two Russian ships off Libya"
-        },
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
-          "title": "Zelenskyy says Ukraine was behind drone attacks on Russian ships off Libya",
-          "snippet": "Zelenskyy says Ukraine was behind drone attacks on Russian ships off Libya"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "লিবিয়ায় ইউক্রেনের ড্রোন হামলায় রুশ যুদ্ধজাহাজ ডুবে গেছে।",
-        "title_en": "Ukrainian drone attack sinks Russian warship in Libya.",
-        "summary_bn": "প্রেসিডেন্ট ভলোদিমির জেলেনস্কি জানিয়েছেন, লিবিয়ার একটি বন্দরে ইউক্রেনীয় ড্রোনের আঘাতে একটি রুশ যুদ্ধজাহাজ ডুবে গেছে।",
-        "summary_en": "President Volodymyr Zelensky said a Russian warship was sunk by Ukrainian drones at a port in Libya.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T11:40:01+00:00",
-        "lead_bn": "প্রেসিডেন্ট ভলোদিমির জেলেনস্কি জানিয়েছেন, লিবিয়ার একটি বন্দরে ইউক্রেনীয় ড্রোনের আঘাতে একটি রুশ যুদ্ধজাহাজ ডুবে গেছে।",
-        "lead_en": "President Volodymyr Zelensky said a Russian warship was sunk by Ukrainian drones at a port in Libya.",
-        "bullets_bn": [
-          "সাতটি নৌ ড্রোন ব্যবহার করে রাশিয়ার অন্যতম নতুন জাহাজ কর্ভেট মের্কুরি এবং একটি কা-২৭ যুদ্ধ হেলিকপ্টার ধ্বংস করা হয়েছে।",
-          "ইউক্রেনের সিকিউরিটি সার্ভিস জানিয়েছে যে মাদারশিপ থেকে সাতটি দেশীয় নৌ ড্রোন নিক্ষেপ করা হয়েছিল।",
-          "ইউক্রেনীয় প্রেসিডেন্ট বলেছেন যে দ্বিতীয় জাহাজটি ছিল রাশিয়ান কন্টেইনার ক্যারিয়ার এমভি অঙ্গারা।"
-        ],
-        "bullets_en": [
-          "Seven naval drones were deployed to target and sink the corvette Merkury, and a Ka-27 combat helicopter was destroyed.",
-          "Ukraine's security service said seven domestically-made naval drones were launched from a mothership in the operation.",
-          "The Ukrainian president said the second ship was the MV Angara, a Russian container carrier."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "পূর্ব লিবিয়া নিয়ন্ত্রণকারী সরকার জানিয়েছে যে বেনগাজি নেভাল বেসে রাশিয়া ফেরার আগে জ্বালানি ও সরবরাহের জন্য ডকিং করার সময় যুদ্ধজাহাজে বিস্ফোরণ ঘটে। স্বাস্থ্য মন্ত্রণালয় জানিয়েছে যে বন্দরের উপকূলে লক্ষ্যবস্তু হওয়া একটি বাণিজ্যিক জাহাজ থেকে আহত ব্যক্তিদের তারা গ্রহণ করেছে। ক্রেমলিন এই হামলার বিষয়ে মন্তব্য করতে অস্বীকার করেছে।",
-        "details_en": "The government that controls eastern Libya said there had been an explosion on the warship at the Benghazi naval base while it was docking for fuel and supplies ahead of its return to Russia. The health ministry said it had received injured people from a commercial ship targeted off the coast. The Kremlin declined to comment on the attack.",
-        "hook_bn": "লিবিয়ায় রুশ যুদ্ধজাহাজ ডুবিয়ে দিল ইউক্রেন",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-23T12:01:41.972124+00:00"
-      }
-    },
-    {
-      "story_id": "75592a6d-a0ea-53fa-898a-7e94b05eded1",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#BangladeshGarments",
-        "#MinimumWage",
-        "#Gazipur"
-      ],
-      "image_url": "https://th-i.thgim.com/public/incoming/wpd2dq/article71734360.ece/alternates/LANDSCAPE_1200/2026-11-23T102454Z_1721171661_RC2MTOAJGE9T_RTRMADP_3_BANGLADESH-GARMENTS.JPG",
-      "image_caption": null,
-      "published_at": "2026-11-23T11:05:43+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.546,
-      "sources": [
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/bangladesh-garment-makers-eye-15-wage-hike-far-short-of-workers-demand/article71734242.ece",
-          "title": "Bangladesh garment makers eye 15% wage hike, far short of workers' demand",
-          "snippet": "Bangladesh garment makers eye 15% wage hike, far short of workers' demand"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পোশাক প্রস্তুতকারকেরা প্রায় ১৫ শতাংশ ন্যূনতম মজুরি বৃদ্ধির প্রস্তাব করতে পারেন",
-        "title_en": "Garment makers could propose roughly 15% minimum wage increase",
-        "summary_bn": "বাংলাদেশের পোশাক প্রস্তুতকারকেরা ন্যূনতম মাসিক মজুরি প্রায় ১৫ শতাংশ বাড়ানোর প্রস্তাব করতে পারেন, যা শ্রমিকদের দাবির চেয়ে অনেক কম।",
-        "summary_en": "Bangladesh garment manufacturers could propose a roughly 15 percent increase in the minimum monthly wage at talks, far short of workers demands.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T11:05:43+00:00",
-        "lead_bn": "বাংলাদেশের পোশাক প্রস্তুতকারকেরা ন্যূনতম মাসিক মজুরি প্রায় ১৫ শতাংশ বাড়ানোর প্রস্তাব করতে পারেন, যা শ্রমিকদের দাবির চেয়ে অনেক কম।",
-        "lead_en": "Bangladesh garment manufacturers could propose a roughly 15 percent increase in the minimum monthly wage at talks, far short of workers demands.",
-        "bullets_bn": [
-          "শ্রমিকেরা ন্যূনতম মাসিক মজুরি ১২,৫০০ টাকা থেকে বাড়িয়ে ৩০,০০০ টাকা করার দাবি জানিয়েছেন।",
-          "খাদ্য, বাসস্থান এবং যাতায়াত খরচ বাড়ার কারণে শ্রমিকেরা এই দাবি তুলেছেন।",
-          "খাতের নেতারা জানান, ১৫ শতাংশের বেশি বৃদ্ধি টেকসই হবে না কারণ খাতটি খরচ ও দুর্বল বৈশ্বিক চাহিদার মুখোমুখি।"
-        ],
-        "bullets_en": [
-          "Workers are demanding a rise in the minimum monthly wage to 30,000 taka from 12,500 taka.",
-          "Workers cited soaring food, housing and transport costs for their wage demands.",
-          "Industry leaders said an increase of more than 15 percent would be unsustainable as the sector grapples with rising costs."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "নভেম্বরের শুরু থেকে মজুরি নিয়ে অস্থিরতার কারণে বিশ্বের দ্বিতীয় বৃহত্তম পোশাক রপ্তানিকারক দেশে শাটডাউন ও সহিংসতা দেখা দিয়েছে। এই শিল্পে ৪০ লক্ষেরও বেশি শ্রমিক কাজ করে এবং এইচ অ্যান্ড এম, গ্যাপ ও ওয়ালমার্টের মতো প্রধান বিশ্বব্যাপী খুচরা বিক্রেতাদের সরবরাহ করে। এই খাতের রপ্তানি আয় দেশের মোট রপ্তানি আয়ের ৮০ শতাংশেরও বেশি।",
-        "details_en": "Since early November, unrest over wages has led to shutdowns and violence in the world's second-largest garment exporter, which employs over 4 million workers and provides supplies for major global retailers including H and M, Gap and Walmart. The industry generates more than 80 percent of the country's export earnings.",
-        "hook_bn": "মজুরি বাড়ছে প্রায় ১৫ শতাংশ",
-        "kicker_bn": "মজুরি বৃদ্ধি",
-        "share_value": false,
-        "question_bn": "পোশাক খাতের বর্তমান পরিস্থিতি নিয়ে আপনার মতামত কী?"
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-23T12:01:41.972124+00:00"
+        "checked_at": "2026-11-23T13:14:25.789832+00:00"
       }
     }
   ]
