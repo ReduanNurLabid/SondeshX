@@ -1,417 +1,350 @@
 {
-  "updated_at": "2026-11-23T01:00:51.065401",
-  "total_stories": 6,
+  "updated_at": "2026-11-23T02:00:45.090286",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "e96bf0d1-7f86-5e22-bf2d-a5e07449ac14",
+      "story_id": "36c96d36-d466-5f37-b21a-83d75da2d17e",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_bengali/f58a/live/98eeb530-e67c-11f1-a094-5fdc692f3e33.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-23T01:58:59+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.5,
+      "rank_score": 4.216,
+      "sources": [
+        {
+          "name": "BBC News বাংলা",
+          "url": "https://www.bbc.com/bengali/articles/cm1j6x28nzg1o?at_medium=RSS&at_campaign=rss",
+          "title": "দেশের বাজারে কমছে স্বর্ণের দাম, আরো কমবে নাকি বাড়বে?",
+          "snippet": "দেশের বাজারে কমছে স্বর্ণের দাম, আরো কমবে নাকি বাড়বে?"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাংলাদেশের বাজারে স্বর্ণের দাম কমে দুই লাখ টাকার নিচে নেমেছে।",
+        "title_en": "Gold prices in the Bangladeshi market have fallen below two lakh Taka.",
+        "summary_bn": "এক সপ্তাহের বেশি সময় ধরে দেশের বাজারে স্বর্ণের দাম কমতে কমতে ভরি প্রতি দুই লাখ টাকার নিচে নেমে এসেছে।",
+        "summary_en": "For over a week, gold prices in the domestic market have continuously dropped below two lakh Taka per bhori.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-23T01:58:59+00:00",
+        "lead_bn": "এক সপ্তাহের বেশি সময় ধরে দেশের বাজারে স্বর্ণের দাম কমতে কমতে ভরি প্রতি দুই লাখ টাকার নিচে নেমে এসেছে।",
+        "lead_en": "For over a week, gold prices in the domestic market have continuously dropped below two lakh Taka per bhori.",
+        "bullets_bn": [
+          "দেশের বাজারে ২২ ক্যারেটের এক ভরি স্বর্ণের দাম এক লাখ ৯৪ হাজার ৯৬৩ টাকা হয়েছে।",
+          "বিশ্ববাজারেই সোনার দাম কমে যাওয়ার প্রভাব পড়েছে দেশের বাজারেও।",
+          "অর্থনীতিবিদ ড. খন্দকার গোলাম মোয়াজ্জেম বলেছেন যে আন্তর্জাতিক বাজারের দরপতন সবসময় দেশীয় বাজারকে প্রভাবিত করে না।"
+        ],
+        "bullets_en": [
+          "the price of one bhori of 22-carat gold in the domestic market was one lakh 94 thousand 963 Taka.",
+          "The fall in gold prices in the global market has impacted the domestic market.",
+          "Economist Dr. Khondaker Golam Moazzem stated that international market price drops do not always affect the domestic market."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "চলতি বছরের শুরুতেই স্বর্ণের ভরি প্রায় তিন লাখ টাকা ছুঁইছুঁই ছিল, যা বাংলাদেশের বাজারে ইতিহাসের সর্বোচ্চ দাম। বছরের শেষের দিকে এসে অক্টোবরের মাঝামাঝি থেকে নভেম্বরের চলতি সপ্তাহেও ভরি প্রতি সোনার দাম নামছে। একদিনেই ভরিতে দাম কমেছিল প্রায় ১১ হাজার টাকা। অর্থনীতিবিদরা বলছেন, স্বর্ণের দাম বিনিয়োগের নানা উপকরণ যেমন বন্ড, ডলার, তেল এবং স্বর্ণের ওপর নির্ভরশীল, যা একে অপরের পরিপূরক।",
+        "details_en": "At the beginning of this year, the price of a bhori of gold was nearly three lakh Taka, which was the highest price in the history of the Bangladeshi market. Towards the end of the year, from mid-October to the current week of November, gold prices per bhori have been decreasing. On Friday alone, the price dropped by nearly 11 thousand Taka in a single day. Economists say gold prices depend on various investment instruments such as bonds, dollars, oil, and gold, which complement each other.",
+        "hook_bn": "স্বর্ণের দাম কমে দুই লাখ টাকার নিচে",
+        "kicker_bn": "দাম কমছে",
+        "share_value": true,
+        "question_bn": "দেশের বাজারে স্বর্ণের দাম আরও কমার কোনো সম্ভাবনা দেখছেন কি?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-23T02:01:35.598995+00:00"
+      }
+    },
+    {
+      "story_id": "327fdf4f-047e-5356-91ea-30aea5c0f99a",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#PaglaMosque",
+        "#Kishoreganj"
+      ],
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182672/16364.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-23T02:00:56.674349+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5991,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/pagla-mosque-fund-reaches-tk-151b",
+          "title": "Pagla Mosque fund reaches Tk 1.51b",
+          "snippet": "Pagla Mosque fund reaches Tk 1.51b"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কিশোরগঞ্জের পাগলা মসজিদের তহবিল পৌঁছেছে ১.৫১ বিলিয়ন টাকায়।",
+        "title_en": "Pagla Mosque fund in Kishoreganj reaches Tk 1.51 billion.",
+        "summary_bn": "কিশোরগঞ্জের ঐতিহাসিক পাগলা মসজিদের তহবিল বেড়ে ১.৫১ বিলিয়ন বা ১৫১.৪৩ কোটি টাকায় দাঁড়িয়েছে।",
+        "summary_en": "The fund of the historic Pagla Mosque in Kishoreganj has reached Tk 1.51 billion, reflecting growing donations.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-23T02:00:56.674349+00:00",
+        "lead_bn": "কিশোরগঞ্জের ঐতিহাসিক পাগলা মসজিদের তহবিল বেড়ে ১.৫১ বিলিয়ন বা ১৫১.৪৩ কোটি টাকায় দাঁড়িয়েছে।",
+        "lead_en": "The fund of the historic Pagla Mosque in Kishoreganj has reached Tk 1.51 billion, reflecting growing donations.",
+        "bullets_bn": [
+          "২১ নভেম্বর চার মাস ২৪ দিন পর মসজিদের দানবাক্সগুলো খুলে ১৮.২১ কোটি টাকা নগদ, বৈদেশিক মুদ্রা এবং স্বর্ণালংকার পাওয়া যায়।",
+          "মসজিদের তহবিল থেকে একটি মাদ্রাসা পরিচালনা এবং দরিদ্র রোগীদের চিকিৎসা সহায়তা দেওয়া হয়।",
+          "তহবিল থেকে মাদ্রাসার শিক্ষার্থী, স্টাফ ও আনসার সদস্যদের খরচ বহন করা হয়।"
+        ],
+        "bullets_en": [
+          "Donation boxes opened on November 21 yielded Tk 18.21 crore in cash, foreign currencies, and gold ornaments.",
+          "The mosque fund supports a madrasah and provides medical assistance to poor patients.",
+          "The fund covers expenses for madrasah students, employees, and Ansar members."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "কিশোরগঞ্জ শহরের হারুয়া এলাকায় অবস্থিত এই মসজিদটি ১৯৬৪ সালের ফেব্রুয়ারি মাসে ওয়াকফ সম্পত্তি হিসেবে তালিকাভুক্ত হয়। এর আয় ও ব্যয় নিয়মিতভাবে নিরীক্ষা করা হয় এবং বার্ষিক আয়ের পাঁচ শতাংশ ওয়াকফ প্রশাসনকে প্রদান করা হয়।",
+        "details_en": "Located in the Harua area of Kishoreganj town, the mosque was enlisted as a waqf property in February 1964. Its income and expenditure are regularly audited, and five percent of its annual income is paid to the Waqf Administration.",
+        "hook_bn": "পাগলা মসজিদের তহবিল ১৫১ কোটি টাকা ছাড়াল",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-23T02:01:35.598995+00:00"
+      }
+    },
+    {
+      "story_id": "6dc69cbd-56f1-5888-861d-02a8ed16be8b",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "governance_law",
+        "climate_environment"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1722871513349-45c61ed6aa5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZmluYW5jZSUyMGVjb25vbXklMjBiYW5nbGFkZXNofGVufDF8MHx8fDE3OTUzOTkyODZ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-23T02:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5958,
+      "sources": [
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822508/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%AD%E0%A6%AC%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%9B%E0%A6%BE%E0%A6%A6%E0%A7%87-%E0%A6%B8%E0%A7%8C%E0%A6%B0%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%8B%E0%A6%97%E0%A7%87%E0%A6%B0",
+          "title": "সরকারি ভবনের ছাদে সৌরবিদ্যুতে বেসরকারি বিনিয়োগের পথ খুলল",
+          "snippet": "সরকারি ভবনের ছাদে সৌরবিদ্যুতে বেসরকারি বিনিয়োগের পথ খুলল"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সরকারি ভবনের ছাদে সৌরবিদ্যুতে বেসরকারি বিনিয়োগের পথ খুলে দিল সরকার।",
+        "title_en": "Government opens path for private investment in solar power on government building roofs.",
+        "summary_bn": "সরকার সরকারি ভবনের অব্যবহৃত ছাদে বেসরকারি বিনিয়োগে সৌরবিদ্যুৎ উৎপাদনের পথ খুলে দিয়েছে।",
+        "summary_en": "The government has opened the path for private investment to generate solar power on unused roofs of government buildings.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "governance_law",
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-23T02:00:00+00:00",
+        "lead_bn": "সরকার সরকারি ভবনের অব্যবহৃত ছাদে বেসরকারি বিনিয়োগে সৌরবিদ্যুৎ উৎপাদনের পথ খুলে দিয়েছে।",
+        "lead_en": "The government has opened the path for private investment to generate solar power on unused roofs of government buildings.",
+        "bullets_bn": [
+          "বিদ্যুৎ বিভাগ বিশেষ অধ্যাদেশ জারির পর প্রজ্ঞাপন জারি করেছে।",
+          "উদ্যোক্তা নির্বাচন, বিদ্যুৎ বিক্রি, মূল্য নির্ধারণ ও চুক্তির শর্ত চূড়ান্ত করা হয়েছে।",
+          "নতুন ব্যবস্থায় সরকারি প্রতিষ্ঠানকে নিজস্ব অর্থ বিনিয়োগ করতে হবে না।"
+        ],
+        "bullets_en": [
+          "The Power Division issued a notification after the issuance of a special ordinance.",
+          "Conditions for entrepreneur selection, electricity sale, pricing, and contracts have been finalized.",
+          "Under the new system, government institutions will not have to invest their own funds."
+        ],
+        "impact_bn": "ভবনের ছাদ ব্যবহারের বিনিময়ে উৎপাদিত বিদ্যুতের অন্তত ১০ শতাংশ বিনা মূল্যে পাবে সংশ্লিষ্ট সরকারি প্রতিষ্ঠান।",
+        "impact_en": "In exchange for using the building roof, the concerned government institution will get at least 10 percent of the generated electricity for free.",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "সরকারি ছাদে সৌরবিদ্যুতে বেসরকারি বিনিয়োগ",
+        "kicker_bn": "নতুন প্রজ্ঞাপন",
+        "share_value": true,
+        "question_bn": "সরকারি ভবনের ছাদে সৌরবিদ্যুৎ উৎপাদনের এই উদ্যোগকে আপনি কীভাবে দেখছেন?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-23T02:01:35.598995+00:00"
+      }
+    },
+    {
+      "story_id": "b7f22999-750f-5573-ab62-49e0f3117a9d",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law",
-        "society_education"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1600081232007-19c495bef255?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8c2V2ZW4lMjBwb2xpY2UlMjBwZXJzb25uZWwlMjBpbmp1cmVkJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1Mzk1Njg0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/cu-20261123074253.jpg?cid=500100",
       "image_caption": null,
-      "published_at": "2026-11-22T23:36:00+00:00",
+      "published_at": "2026-11-23T01:42:53+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.1222,
+      "importance_score": 6.0,
+      "rank_score": 3.5371,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/chitagong/982641/%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%93-%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A7%9F",
-          "title": "এনসিপি নেতাকে গ্রেফতারের পর পুলিশের ওপর ও থানায় হামলা, ৭ পুলিশ আহত",
-          "snippet": "এনসিপি নেতাকে গ্রেফতারের পর পুলিশের ওপর ও থানায় হামলা, ৭ পুলিশ আহত"
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/campus/500100",
+          "title": "চট্টগ্রাম বিশ্ববিদ্যালয়ে শাটল ট্রেনে অগ্নিসংযোগের চেষ্টা",
+          "snippet": "চট্টগ্রাম বিশ্ববিদ্যালয়ে শাটল ট্রেনে অগ্নিসংযোগের চেষ্টা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আখাউড়া থানায় হামলা ও সংঘর্ষে ৭ পুলিশ সদস্য আহত",
-        "title_en": "Seven police personnel injured in attack and clashes at Akhaura police station.",
-        "summary_bn": "ব্রাহ্মণবাড়িয়ার আখাউড়ায় এনসিপি নেতাকে গ্রেফতারের জেরে থানায় হামলা ও পুলিশের সঙ্গে সংঘর্ষে সাত পুলিশ সদস্য আহত হয়েছেন।",
-        "summary_en": "Seven police personnel were injured in an attack and clashes at the police station following the arrest of an NCP leader in Akhaura, Brahmanbaria.",
+        "title_bn": "চট্টগ্রাম বিশ্ববিদ্যালয়ে শাটল ট্রেনে আগুন দেওয়ার চেষ্টা করেছে দুর্বৃত্তরা",
+        "title_en": "Miscreants attempted to set fire to a shuttle train at Chittagong University",
+        "summary_bn": "চট্টগ্রাম বিশ্ববিদ্যালয়ে শহর থেকে ক্যাম্পাসগামী শাটল ট্রেনে আগুন দেওয়ার চেষ্টা করেছে দুর্বৃত্তরা, যা শিক্ষার্থী ও ট্রেনের নিরাপত্তাকর্মীরা দ্রুত নিভিয়ে ফেলেন।",
+        "summary_en": "Miscreants attempted to set fire to a university shuttle train heading from the city to the campus, which students and train security personnel quickly extinguished.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "society_education"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T23:36:00+00:00",
-        "lead_bn": "ব্রাহ্মণবাড়িয়ার আখাউড়ায় এনসিপি নেতাকে গ্রেফতারের জেরে থানায় হামলা ও পুলিশের সঙ্গে সংঘর্ষে সাত পুলিশ সদস্য আহত হয়েছেন।",
-        "lead_en": "Seven police personnel were injured in an attack and clashes at the police station following the arrest of an NCP leader in Akhaura, Brahmanbaria.",
+        "published_at": "2026-11-23T01:42:53+00:00",
+        "lead_bn": "চট্টগ্রাম বিশ্ববিদ্যালয়ে শহর থেকে ক্যাম্পাসগামী শাটল ট্রেনে আগুন দেওয়ার চেষ্টা করেছে দুর্বৃত্তরা, যা শিক্ষার্থী ও ট্রেনের নিরাপত্তাকর্মীরা দ্রুত নিভিয়ে ফেলেন।",
+        "lead_en": "Miscreants attempted to set fire to a university shuttle train heading from the city to the campus, which students and train security personnel quickly extinguished.",
         "bullets_bn": [
-          "পুলিশ বিস্ফোরক মামলার এজাহারভুক্ত আসামি ও উপজেলা জাতীয় নাগরিক পার্টির যুগ্ম আহ্বায়ক ছায়েব আলীকে গ্রেফতার করে।",
-          "গ্রেফতারের পর তার সমর্থকরা আখাউড়া থানায় হামলা, বিক্ষোভ ও পুলিশের সঙ্গে সংঘর্ষের ঘটনা ঘটায়।",
-          "পরে বিএনপির অঙ্গ ও সহযোগী সংগঠনের নেতাকর্মীদের ধাওয়ার মুখে বিক্ষোভকারীরা ঘটনাস্থل ত্যাগ করেন।"
+          "ঘটনাটি ২২ নভেম্বর রাত ৮টার দিকে নগরীর বটতলী স্টেশনে অবস্থানকালে ঘটে।",
+          "বগির ভেতরে কেরোসিনের গন্ধ এবং আসনগুলোতে কেরোসিন মাখানো অবস্থায় একটি বোতল পাওয়া যায়।",
+          "বিশ্ববিদ্যালয়ের প্রক্টর অধ্যাপক ড. কামরুল হোসেন এটিকে নাশকতার চেষ্টা বলে উল্লেখ করেছেন।"
         ],
         "bullets_en": [
-          "Police arrested Shaeb Ali, a named accused in an explosives case and joint convenor of the upazila National Citizen Party.",
-          "Following his arrest, supporters carried out an attack, protest, and clashed with police at the Akhaura police station.",
-          "The protesters later left the scene after being chased away by leaders and activists of BNP's affiliate and associate organizations."
+          "The incident occurred around 8 pm on November 22 while the train was stationed at the city's Bottoli Station.",
+          "The smell of kerosene was found inside the carriage, along with a bottle and kerosene-smeared seats.",
+          "University Proctor Professor Dr. Kamrul Hossain termed the incident an act of sabotage."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ব্রাহ্মণবাড়িয়ার আখাউড়ায় বিস্ফোরক মামলার এজাহারভুক্ত আসামি ও উপজেলা জাতীয় নাগরিক পার্টির যুগ্ম আহ্বায়ক ছায়েব আলীকে গ্রেফতার করে পুলিশ। ২২ নভেম্বর রাত ১০টার পর তার গ্রেফতারকে কেন্দ্র করে আখাউড়া থানায় হামলা, বিক্ষোভ ও পুলিশের সঙ্গে সংঘর্ষের ঘটনা ঘটে। এতে অন্তত সাত পুলিশ সদস্য আহত হন। পরে বিএনপির অঙ্গ ও সহযোগী সংগঠনের নেতাকর্মীদের ধাওয়ার মুখে বিক্ষোভকারীরা ঘটনাস্থল ছাড়েন।",
-        "details_en": "Police arrested Shaeb Ali, a named accused in an explosives case and joint convenor of the upazila National Citizen Party, in Akhaura, Brahmanbaria. Following his arrest after 10 pm on November 22, an attack, protest, and clash took place at the Akhaura police station, leaving at least seven police personnel injured. The protesters later left the scene when chased away by leaders and activists of BNP's affiliate and associate organizations.",
-        "hook_bn": "আখাউড়া থানায় হামলা ও সংঘর্ষ",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-23T01:01:37.265628+00:00"
-      }
-    },
-    {
-      "story_id": "2f13cc38-3635-5cff-82cf-bb424587f37d",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "economy_business",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1706701710093-4a72a0f35a51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cmVuZXdhbCUyMGdhbmdlcyUyMHRyZWF0eSUyMGxpbmtlZCUyMGVudmlyb25tZW50fGVufDF8MHx8fDE3OTUzOTU2ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-22T23:18:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.0858,
-      "sources": [
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822504/%E0%A6%97%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE-%E0%A6%9A%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE-%E0%A6%B8%E0%A6%AE%E0%A6%A4%E0%A6%BE-%E0%A6%93-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%95",
-          "title": "গঙ্গা চুক্তির নবায়ন: ন্যায্যতা, সমতা ও পারস্পরিক সহযোগিতা",
-          "snippet": "গঙ্গা চুক্তির নবায়ন: ন্যায্যতা, সমতা ও পারস্পরিক সহযোগিতা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "গঙ্গা চুক্তির নবায়ন বাংলাদেশের পানি ও জীববৈচিত্র্যের সঙ্গে জড়িত।",
-        "title_en": "The renewal of the Ganges treaty is linked to Bangladesh's water and biodiversity.",
-        "summary_bn": "ইত্তেফাক প্রকাশিত প্রতিবেদনে বলা হয়েছে, গঙ্গার পানি শুধু একটি নদীর পানি নয় বরং এটি বাংলাদেশের কৃষি, পরিবেশ ও মানুষের জীবন-জীবিকার সঙ্গে জড়িত।",
-        "summary_en": "According to a report published by Ittefaq, Ganges water is not just river water but is linked to Bangladesh's agriculture, environment, and livelihoods.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "economy_business",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-22T23:18:00+00:00",
-        "lead_bn": "ইত্তেফাক প্রকাশিত প্রতিবেদনে বলা হয়েছে, গঙ্গার পানি শুধু একটি নদীর পানি নয় বরং এটি বাংলাদেশের কৃষি, পরিবেশ ও মানুষের জীবন-জীবিকার সঙ্গে জড়িত।",
-        "lead_en": "According to a report published by Ittefaq, Ganges water is not just river water but is linked to Bangladesh's agriculture, environment, and livelihoods.",
-        "bullets_bn": [
-          "১৯৯৬ সালের ১২ ডিসেম্বর বাংলাদেশ ও ভারতের মধ্যে গঙ্গার পানিবণ্টন চুক্তি স্বাক্ষরিত হয়।",
-          "চুক্তিটির বর্তমানে ৩০ বছর পূর্ণ হতে চলেছে বলে প্রতিবেদনে উল্লেখ করা হয়েছে।",
-          "এটি ভারত ও বাংলাদেশের অভিন্ন নদীর পানির ন্যায্য হিস্যা ও আঞ্চলিক সহযোগিতার পরীক্ষা।"
-        ],
-        "bullets_en": [
-          "The Ganges water sharing treaty was signed between Bangladesh and India on December 12, 1996.",
-          "The report mentions that the treaty is now reaching 30 years of completion.",
-          "It is a test of fair share of shared river water and regional cooperation between India and Bangladesh."
-        ],
-        "impact_bn": "গঙ্গার পানি বাংলাদেশের কৃষি, খাদ্যনিরাপত্তা, পরিবেশ, জীববৈচিত্র্য, নদীনির্ভর অর্থনীতি এবং কোটি মানুষের জীবন-জীবিকার সঙ্গে জড়িত।",
-        "impact_en": "Ganges water is associated with Bangladesh's agriculture, food security, environment, biodiversity, river-dependent economy, and the livelihoods of crores of people.",
-        "details_bn": "১৯৯৬ সালের ১২ ডিসেম্বর বাংলাদেশ ও ভারতের মধ্যে গঙ্গার পানিবণ্টন চুক্তি স্বাক্ষরিত হয়েছিল এবং এর ৩০ বছর পূর্ণ হতে চলেছে। এই চুক্তিটি বাংলাদেশ ও ভারতের অভিন্ন নদীর পানির ন্যায্য হিস্যা, প্রতিবেশীসুলভ সম্পর্ক এবং আঞ্চলিক সহযোগিতার একটি গুরুত্বপূর্ণ পরীক্ষা।",
-        "details_en": "The Ganges water sharing treaty was signed between Bangladesh and India on December 12, 1996, and it is completing 30 years. This treaty is an important test of the fair share of shared river water, neighborly relations, and regional cooperation between India and Bangladesh.",
-        "hook_bn": "গঙ্গার পানি কোটি মানুষের জীবন-জীবিকার সঙ্গে জড়িত",
-        "kicker_bn": "গঙ্গা চুক্তি",
-        "share_value": false,
-        "question_bn": "গঙ্গার পানিবণ্টন চুক্তি বাংলাদেশের পরিবেশ ও কৃষির সুরক্ষায় কী ভূমিকা রাখতে পারে বলে আপনি মনে করেন?"
-      },
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-23T01:01:37.265628+00:00"
-      }
-    },
-    {
-      "story_id": "5a393bf8-dde7-5529-a65f-fcd164e4e0b2",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#SaintMartin",
-        "#CoxBazar",
-        "#CyclonAkvan"
-      ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182673/16366.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-23T01:00:57.976827+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.5758,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/ship-services-to-st-martin-resume-after-three-day-suspension",
-          "title": "Ship services to St. Martin resume after three-day suspension",
-          "snippet": "Ship services to St. Martin resume after three-day suspension"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "খারাপ আবহাওয়া কেটে যাওয়ায় সেন্ট মার্টিনে জাহাজ চলাচল শুরু হয়েছে",
-        "title_en": "Ship services to Saint Martin resumed after adverse weather cleared",
-        "summary_bn": "খারাপ আবহাওয়ার কারণে তিন দিন স্থগিত থাকার পর কক্সবাজার-সেন্ট মার্টিন রুটে জাহাজ চলাচল শুরু হয়েছে।",
-        "summary_en": "Ship services on the Cox’s Bazar-Saint Martin’s route resumed after remaining suspended for three days due to adverse weather.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T01:00:57.976827+00:00",
-        "lead_bn": "খারাপ আবহাওয়ার কারণে তিন দিন স্থগিত থাকার পর কক্সবাজার-সেন্ট মার্টিন রুটে জাহাজ চলাচল শুরু হয়েছে।",
-        "lead_en": "Ship services on the Cox’s Bazar-Saint Martin’s route resumed after remaining suspended for three days due to adverse weather.",
-        "bullets_bn": [
-          "রোববার সকালে পাঁচটি জাহাজ ১,৮৭০ জন পর্যটক নিয়ে কক্সবাজার শহরের বিআইডব্লিউটিএ জেটি ঘাট থেকে সেন্ট মার্টিনের উদ্দেশ্যে রওনা হয়।",
-          "বিকেল চারটার দিকে প্রায় ৮০০ জন আটকা পড়া পর্যটক নিয়ে জাহাজগুলো কক্সবাজারের পথে ফিরতি যাত্রা শুরু করে।",
-          "সেন্ট মার্টিন ইউনিয়ন পরিষদের ভারপ্রাপ্ত চেয়ারম্যান ফয়েজুল ইসলাম জানান, খারাপ আবহাওয়ার কারণে প্রায় ১,৫০০ পর্যটক দ্বীপে আটকা পড়েছিলেন।"
-        ],
-        "bullets_en": [
-          "Five ships carrying 1,870 tourists left the BIWTA Jetty Ghat in Cox’s Bazar town for Saint Martin’s Island on Sunday morning.",
-          "At around 4:00 pm, the ships carrying around 800 stranded tourists started their return journey to Cox’s Bazar.",
-          "Acting Chairman of Saint Martin Union Parishad Foyezul Islam said around 1,500 tourists had been stranded on the island due to inclement weather."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বঙ্গোপসাগরে ঘূর্ণিঝড় আকভানের প্রভাবে সৃষ্ট উত্তাল সমুদ্রের কারণে থেকে কক্সবাজার-সেন্ট মার্টিন রুটে জাহাজ চলাচল স্থগিতের নির্দেশ দিয়েছিল প্রশাসন। এর ফলে ১৭ ও ১৮ নভেম্বর দ্বীপে যাওয়া অনেক পর্যটক আটকা পড়েন। পরে স্থানীয় প্রশাসনের অনুমতি নিয়ে ১৬টি ট্রলারে করে ৭০০ জনের বেশি পর্যটক টেকনাফ হয়ে ফিরে আসেন।",
-        "details_en": "Due to rough seas in the Bay of Bengal underカワ the influence of Cyclone Akvan, the administration had ordered the suspension of ship services on the route from stranding tourists who visited on November 17 and 18. Later, with permission from the local administration, more than 700 tourists returned via Teknaf on Saturday in 16 trawlers.",
-        "hook_bn": "সেন্ট মার্টিনে আটকা দেড় হাজার পর্যটক",
+        "details_bn": "প্রত্যক্ষদর্শী ও চবি শিক্ষার্থী তাওসিফ হোসাইন আনন্দ জানান, বগিতে ওঠার সময় এক কর্মী ও তিনি দ্রুত আগুন নেভান এবং বগিতে কেরোসিনের বোতল পান। প্রক্টর অধ্যাপক ড. কামরুল হোসেন জানান, কোনো ক্ষয়ক্ষতি হয়নি এবং ট্রেনটি পরিবর্তন করে শিক্ষার্থীদের অন্য একটি ট্রেনে বিশ্ববিদ্যালয়ে নিয়ে আসা হয়। এ বিষয়ে রেলওয়ে কর্তৃপক্ষকে অবহিত করা হয়েছে এবং স্টেশনে নিরাপত্তা জোরদার ও টহল বাড়ানোর অনুরোধ জানানো হয়েছে। এছাড়া একই দিনে চট্টগ্রামে পুলিশ লাইনসের সামনে দুটি ককটেল বিস্ফোরণের ঘটনাও ঘটে।",
+        "details_en": "Eyewitness and CU student Tausif Hossain Anand said that while boarding, he and a worker quickly put out the fire and found a kerosene bottle in the carriage. Proctor Professor Dr. Kamrul Hossain stated there was no damage and students were brought to the university on another train. Railway authorities were informed, and a request was made to increase security and patrols at the station. Additionally, two cocktails were exploded in front of the police lines in Chittagong on the same day.",
+        "hook_bn": "চবি শাটল ট্রেনে আগুন দেওয়ার চেষ্টা",
         "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-23T01:01:37.265628+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-23T02:01:35.598995+00:00"
       }
     },
     {
-      "story_id": "27c3d9bb-e0c2-5635-97f0-7ed3951d4ad1",
-      "primary_category": "governance_law",
+      "story_id": "d04c6d41-0c52-5150-896e-b1518e52a66a",
+      "primary_category": "society_education",
       "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#ArmedForces",
-        "#PayStructure",
-        "#BangladeshGovt",
-        "#Gazette"
-      ],
-      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_fca3c46ff2c773cea2d07060ed7b13ca.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-23T01:00:57.976827+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.5758,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/govt-reveals-new-pay-structure-for-armed-forces",
-          "title": "Govt reveals new pay structure for Armed Forces",
-          "snippet": "Govt reveals new pay structure for Armed Forces"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সশস্ত্র বাহিনীর নতুন বেতন কাঠামো প্রকাশ করেছে সরকার",
-        "title_en": "Govt reveals new pay structure for Armed Forces",
-        "summary_bn": "নতুন সশস্ত্র বাহিনী বেতন কাঠামোর অধীনে নিয়মিত সৈন্যদের প্রারম্ভিক মূল বেতন ১৩৭.৭৮ শতাংশ বৃদ্ধি পেয়ে ৯,০০০ টাকা থেকে ২১,৪০০ টাকা করা হয়েছে।",
-        "summary_en": "The starting basic salary of regular soldiers has been raised by 137.78 percent to Tk 21,400 from Tk 9,000 under the new armed forces pay structure.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T01:00:57.976827+00:00",
-        "lead_bn": "নতুন সশস্ত্র বাহিনী বেতন কাঠামোর অধীনে নিয়মিত সৈন্যদের প্রারম্ভিক মূল বেতন ১৩৭.৭৮ শতাংশ বৃদ্ধি পেয়ে ৯,০০০ টাকা থেকে ২১,৪০০ টাকা করা হয়েছে।",
-        "lead_en": "The starting basic salary of regular soldiers has been raised by 137.78 percent to Tk 21,400 from Tk 9,000 under the new armed forces pay structure.",
-        "bullets_bn": [
-          "জেনারেল পদমর্যাদার একজন সেবা প্রধানের মূল বেতন দ্বিগুণ হয়ে ৮৬,০০০ টাকা থেকে ১,৭২,০০০ টাকা করা হয়েছে।",
-          "সংশোধনীগুলো ২০২৬ সালের জাতীয় বেতন স্কেল অনুসরণ করে যৌথ সেবা নির্দেশিকা (জেএসআই) ০১৭২০২৬-এ রূপরেখা দেওয়া হয়েছে।",
-          "সংশোধিত বেতন কাঠামোর বাস্তবায়ন পর্যায়ক্রমে হবে এবং নির্দিষ্ট কর্মীরা মূল বেতন বৃদ্ধির একটি অংশ পাবেন।"
-        ],
-        "bullets_en": [
-          "The basic salary of a service chief holding the rank of general has doubled to Tk 1,72,000 from Tk 86,000.",
-          "The revisions are outlined in Joint Services Instructions (JSI) 01/2026 following the National Pay Scale 2026.",
-          "Implementation of the revised pay structure will take place in phases with eligible personnel receiving a portion of the increase."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "নভেম্বর ১৪ তারিখের যৌথ সেবা নির্দেশিকা (জেএসআই) ০১৭২০২৬ এবং নভেম্বর ১৫ তারিখে বাংলাদেশ গেজেটে প্রকাশিত ৮৪ পৃষ্ঠার গেজেটে এই সংশোধনীর রূপরেখা দেওয়া হয়েছে। এই নির্দেশিকাটি ২০২৬ সালের জাতীয় বেতন স্কেল অনুসরণ করে তৈরি করা হয়েছে এবং এতে সৈন্য থেকে শুরু করে সেনা প্রধান পর্যন্ত বিভিন্ন পদের নতুন মূল বেতন ও ধাপে ধাপে বাস্তবায়নের বিবরণ রয়েছে।",
-        "details_en": "The revisions are outlined in Joint Services Instructions (JSI) 01/2026, dated November 14 and published in the Bangladesh Gazette on November 15, following the National Pay Scale 2026. The 84-page gazette details the new basic salaries across various ranks from regular soldiers to service chiefs along with phased implementation.",
-        "hook_bn": "সৈনিকদের মূল বেতন বেড়ে ২১,৪০০ টাকা",
-        "kicker_bn": "নতুন বেতন কাঠামো",
-        "share_value": true,
-        "question_bn": "সশস্ত্র বাহিনীর নতুন এই বেতন কাঠামো সম্পর্কে আপনার মতামত কী?"
-      },
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-23T01:01:37.265628+00:00"
-      }
-    },
-    {
-      "story_id": "aa1b577c-1a81-5e98-a671-9a5acad1d342",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
+        "society_education"
       ],
       "region": "international",
       "tags": [
-        "#Benghazi",
-        "#Russia",
-        "#Libya",
-        "#Merkury"
+        "#WHO",
+        "#Ebola",
+        "#DRCongo",
+        "#TedrosAdhanom"
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26224654243554-1795391797.jpg?resize=1920%2C1440",
       "image_caption": null,
-      "published_at": "2026-11-22T20:28:09+00:00",
+      "published_at": "2026-11-23T00:39:51+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.55,
-      "rank_score": 0.4999,
+      "importance_score": 5.0,
+      "rank_score": 2.3117,
       "sources": [
         {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-          "snippet": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say"
-        },
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-          "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
-          "snippet": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack"
-        },
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/libya-suspected-drone-attack-hits-russian-ship-in-benghazi/a-80014545?maca=en-rss-en-all-1573-rdf",
-          "title": "Libya: Suspected drone attack hits Russian ship in Benghazi",
-          "snippet": "Libya: Suspected drone attack hits Russian ship in Benghazi"
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+          "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+          "snippet": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region"
         }
       ],
       "daily_buzz": {
-        "title_bn": "লিবিয়ার বেনগাজিতে রাশিয়ার জাহাজে ড্রোন হামলা এবং নিমজ্জন",
-        "title_en": "Russian ship struck and sunk in suspected drone attack in Benghazi",
-        "summary_bn": "লিবিয়ার বেনগাজি বন্দরে একটি রুশ জাহাজে বিস্ফোরণ ঘটে, যা সন্দেহভাজন ড্রোন হামলার কারণে হয়েছে বলে জানিয়েছে লিবিয়ার পূর্বতন সরকার।",
-        "summary_en": "An explosion on a Russian ship docked at Benghazi was caused by a suspected drone attack, Libya's eastern government said.",
+        "title_bn": "গণতান্ত্রিক কঙ্গো প্রজাতন্ত্রে ভারী লড়াইয়ের মধ্যে শান্তি প্রতিষ্ঠার আহ্বান ডব্লিউএইচওর প্রধানের",
+        "title_en": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+        "summary_bn": "ইবোলা আক্রান্ত গণতান্ত্রিক কঙ্গো প্রজাতন্ত্রের উত্তর-পূর্বাঞ্চলে ভারী লড়াইয়ের জেরে শান্তি প্রতিষ্ঠার আহ্বান জানিয়েছেন বিশ্ব স্বাস্থ্য সংস্থার প্রধান।",
+        "summary_en": "The World Health Organization chief has urged peace following heavy fighting in the Democratic Republic of the Congo’s northeastern province.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-22T20:28:09+00:00",
-        "lead_bn": "লিবিয়ার বেনগাজি বন্দরে একটি রুশ জাহাজে বিস্ফোরণ ঘটে, যা সন্দেহভাজন ড্রোন হামলার কারণে হয়েছে বলে জানিয়েছে লিবিয়ার পূর্বতন সরকার।",
-        "lead_en": "An explosion on a Russian ship docked at Benghazi was caused by a suspected drone attack, Libya's eastern government said.",
+        "published_at": "2026-11-23T00:39:51+00:00",
+        "lead_bn": "ইবোলা আক্রান্ত গণতান্ত্রিক কঙ্গো প্রজাতন্ত্রের উত্তর-পূর্বাঞ্চলে ভারী লড়াইয়ের জেরে শান্তি প্রতিষ্ঠার আহ্বান জানিয়েছেন বিশ্ব স্বাস্থ্য সংস্থার প্রধান।",
+        "lead_en": "The World Health Organization chief has urged peace following heavy fighting in the Democratic Republic of the Congo’s northeastern province.",
         "bullets_bn": [
-          "বিস্ফোরণটি ে ভোরে ঘটে যখন রুশ জাহাজটি রাশিয়া ফেরার পথে জ্বালানি ও সরবরাহের জন্য থেমেছিল।",
-          "যুক্তরাষ্ট্রভিত্তিক গোয়েন্দা প্রতিষ্ঠান ভ্যান্টরের তথ্য অনুযায়ী, মার্কারি নামের রুশ নৌবাহিনীর একটি করভেটের বেশিরভাগ অংশ ডুবে গেছে।",
-          "পূর্বতন সরকার জানিয়েছে যে এই ঘটনার কোনো হতাহতের খবর পাওয়া যায়নি এবং মস্কো এখনো কোনো মন্তব্য করেনি।"
+          "ইতুরির একটি হাসপাতালের কাছে ভারী লড়াইয়ের কারণে ইবোলা মোকাবিলা কার্যক্রম ব্যাহত হয়েছে।",
+          "স্বাস্থ্যকর্মী ও সাহায্য সহযোগীরা একটি প্রসূতি ওয়ার্ডের ভেতরে ২৪ ঘণ্টার বেশি সময় ধরে আশ্রয় নিয়েছেন।",
+          "বিশ্ব স্বাস্থ্য সংস্থা দলটির নিরাপদে বের হয়ে আসার ব্যবস্থা করতে কাজ করছে।"
         ],
         "bullets_en": [
-          "The explosion happened at dawn on Sunday while the ship had stopped for fuel and supplies on its way back to Russia.",
-          "US-based intelligence firm Vantor collected images showing most of the Russian navy corvette Merkury capsized and sunk.",
-          "The eastern government stated there were no casualties, and Moscow has yet to comment on the incident."
+          "Fighting near a hospital in Ituri disrupted Ebola response efforts.",
+          "Health workers and aid partners sheltered inside a maternity ward for more than 24 hours.",
+          "The WHO is working to arrange a safe exit for the team."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "লিবিয়ার পূর্বতন সরকারের ভাষ্যমতে, বেনগাজি বন্দরে থাকা রুশ জাহাজটি একটি বিদ্যমান সমুদ্র চুক্তির কাঠামোর অধীনে অবস্থান করছিল। সামাজিক যোগাযোগমাধ্যমে আসা ভিডিও এবং উপগ্রহ চিত্রে দেখা গেছে যে বন্দরটিতে জাহাজটি আগুনে পুড়ে গেছে। এই ঘটনা তদন্তাধীন রয়েছে এবং কর্তৃপক্ষ দায়ী ব্যক্তিদের চিহ্নিত করতে রুশ সমকক্ষদের সঙ্গে যোগাযোগ করছে।",
-        "details_en": "The eastern-based Government of National Stability stated that the Russian ship was using the Benghazi port within the framework of an existing maritime agreement. Social media videos and satellite imagery showed the vessel engulfed in flames and smoke. The incident is under investigation as authorities coordinate with Russian counterparts to determine responsibility.",
-        "hook_bn": "বেনগাজিতে রুশ জাহাজে সন্দেহভাজন ড্রোন হামলা",
-        "kicker_bn": null,
+        "details_bn": "বিশ্ব স্বাস্থ্য সংস্থার প্রধান টেড্রোস আধানম গেব্রিয়েসুস জানান, ইবোলা প্রাদুর্ভাব প্রথম যেখানে দেখা দিয়েছিল তার কাছাকাছি এলাকায় হাসপাতালের আশেপাশে লড়াই চলছে। এই পরিস্থিতির কারণে রোগী, পরিবার ও স্বাস্থ্যকর্মীরা গুরুতর ঝুঁকিতে পড়েছেন। বিশ্ব স্বাস্থ্য সংস্থা জানায়, দেশটিতে এটি সবচেয়ে বড় ও মারাত্মক ইবোলা প্রাদুর্ভাব।",
+        "details_en": "WHO Director-General Tedros Adhanom Ghebreyesus said fighting near a hospital in Ituri province disrupted Ebola response efforts. Medical staff sheltered in a maternity ward for more than 24 hours. The WHO reported a total of 5,678 deaths out of 11,613 cases in the DRC, the largest and deadliest Ebola outbreak in the country.",
+        "hook_bn": "'সবচেয়ে ভালো ওষুধ হলো শান্তি'",
+        "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 4.0,
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-23T01:01:37.265628+00:00"
-      }
-    },
-    {
-      "story_id": "c6911896-edbd-5e00-81bd-c11636781524",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "climate_environment",
-        "governance_law",
-        "tech_innovation"
-      ],
-      "region": "international",
-      "tags": [
-        "#PaulineHanson",
-        "#OneNation",
-        "#AustraliaPolitics"
-      ],
-      "image_url": "https://i.guim.co.uk/img/media/2778355ecb84fbdd945291563fda9cdd5665b91e/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=ab79c7ba758d99f85511157aefdbe40b",
-      "image_caption": null,
-      "published_at": "2026-11-23T00:42:03+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.2837,
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-          "title": "Australian politics live: Hanson calls Coalition and Labor a ‘uni’ party; Liberals demand Bowen resign over Cop ‘disaster’",
-          "snippet": "Australian politics live: Hanson calls Coalition and Labor a ‘uni’ party; Liberals demand Bowen resign over Co"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পলিন হ্যানসন কোয়ালিশন ও লেবার পার্টিকে একটি যৌথ দল হিসেবে অভিযুক্ত করেছেন।",
-        "title_en": "Pauline Hanson accuses the Coalition and Labor of being a single party.",
-        "summary_bn": "ওয়ান নেশনের পলিন হ্যানসন বলেছেন যে কোয়ালিশন এবং লেবার পার্টি মূলত একটি যৌথ দল এবং তারা দেশকে ধ্বংসের দিকে নিয়ে গেছে।",
-        "summary_en": "One Nation’s Pauline Hanson says the Coalition and Labor are a single party that has led the country to its demise.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "climate_environment",
-          "governance_law",
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T00:42:03+00:00",
-        "lead_bn": "ওয়ান নেশনের পলিন হ্যানসন বলেছেন যে কোয়ালিশন এবং লেবার পার্টি মূলত একটি যৌথ দল এবং তারা দেশকে ধ্বংসের দিকে নিয়ে গেছে।",
-        "lead_en": "One Nation’s Pauline Hanson says the Coalition and Labor are a single party that has led the country to its demise.",
-        "bullets_bn": [
-          "পলিন হ্যানসন দাবি করেছেন যে তার দল লিবারেল পার্টির এজেন্ডা নির্ধারণ করেছে।",
-          "পলিন হ্যানসন এবং বার্নাবি জয়েস পার্লামেন্ট হাউসের বাইরে উপস্থিত ছিলেন।",
-          "পলিন হ্যানসন ছোট ব্যবসাগুলোকে সমর্থন করেন এবং তার দলের দুই-তৃতীয়াংশ সদস্য ছোট ব্যবসার মালিক।"
-        ],
-        "bullets_en": [
-          "Pauline Hanson claims that her party has set the agenda for the Liberal party.",
-          "Pauline Hanson and Barnaby Joyce were out the front of Parliament House.",
-          "Hanson says she backs small businesses and that two-thirds of her party are small business owners."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "পলিন হ্যানসন ছোট ব্যবসাগুলোর জন্য কর্মীদের বরখাস্ত করা সহজ করতে চান এবং ন্যূনতম মজুরি বৃদ্ধির বিরোধিতা করেছেন।",
-        "details_en": "Hanson wants to make it easier for businesses, particularly small businesses, to fire workers and pushed back against wage rises for minimum wage workers.",
-        "hook_bn": "কোয়ালিশন ও লেবার পার্টি একটি যৌথ দল",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-23T01:01:37.265628+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-23T02:01:35.598995+00:00"
       }
     }
   ]
