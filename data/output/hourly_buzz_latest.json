@@ -1,176 +1,159 @@
 {
-  "updated_at": "2026-11-23T18:00:43.081010",
+  "updated_at": "2026-11-23T20:00:45.593479",
   "total_stories": 2,
   "stories": [
     {
-      "story_id": "7dde679a-488c-52b4-a3f2-2651e1cb3c86",
-      "primary_category": "governance_law",
+      "story_id": "0b0c9a7f-4dcb-5cff-a7d7-2bbb8dbe1ae9",
+      "primary_category": "society_education",
       "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Gopalganj",
-        "#AwamiLeague",
-        "#Clash"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/23/screenshot_2026-11-23_234723.png",
-      "image_caption": null,
-      "published_at": "2026-11-23T17:40:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.75,
-      "rank_score": 5.8834,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/least-20-injured-clash-between-two-al-factions-gopalganj-1612076",
-          "title": "At least 20 injured in clash between two AL factions in Gopalganj",
-          "snippet": "At least 20 injured in clash between two AL factions in Gopalganj"
-        },
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/bangladesh/district/rr5h0e1jkk",
-          "title": "গোপালগঞ্জে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের দুই পক্ষে সংঘর্ষ, ককটেল বিস্ফোরণ ও ভাঙচুর",
-          "snippet": "গোপালগঞ্জে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের দুই পক্ষে সংঘর্ষ, ককটেল বিস্ফোরণ ও ভাঙচুর"
-        },
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/rbxanwk8ja",
-          "title": "গোপালগঞ্জ সদরের পর কোটালীপাড়াতেও কার্যক্রম নিষিদ্ধ আওয়ামী লীগের দুই পক্ষে সংঘর্ষ",
-          "snippet": "গোপালগঞ্জ সদরের পর কোটালীপাড়াতেও কার্যক্রম নিষিদ্ধ আওয়ামী লীগের দুই পক্ষে সংঘর্ষ"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/nation/425565/20-injured-in-gopalganj-clashes-between-two-awami",
-          "title": "20 injured in Gopalganj clashes between two Awami League groups, 4 shot",
-          "snippet": "20 injured in Gopalganj clashes between two Awami League groups, 4 shot"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "গোপালগঞ্জে আওয়ামী লীগের দুই পক্ষের সংঘর্ষে অন্তত ২০ জন আহত",
-        "title_en": "At least 20 injured in Awami League factional clash in Gopalganj",
-        "summary_bn": "২৩ নভেম্বর গোপালগঞ্জ সদর উপজেলায় কার্যক্রম নিষিদ্ধ আওয়ামী লীগের দুই পক্ষের সংঘর্ষে অন্তত ২০ জন আহত হয়েছেন।",
-        "summary_en": "At least 20 people were injured during a clash between two factions of the activities-banned Awami League in Gopalganj Sadar upazila on 23 November.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T17:40:00+00:00",
-        "lead_bn": "২৩ নভেম্বর গোপালগঞ্জ সদর উপজেলায় কার্যক্রম নিষিদ্ধ আওয়ামী লীগের দুই পক্ষের সংঘর্ষে অন্তত ২০ জন আহত হয়েছেন।",
-        "lead_en": "At least 20 people were injured during a clash between two factions of the activities-banned Awami League in Gopalganj Sadar upazila on 23 November.",
-        "bullets_bn": [
-          "দেশীয় অস্ত্রে সজ্জিত দুই পক্ষ গোপালগঞ্জ ক্রিকেট স্টেডিয়ামের পাশের সড়কে ককটেল বিস্ফোরণ ঘটায় এবং দোকানপাট ভাঙচুর করে।",
-          "গুরুতর আহত পাঁচজনকে গোপালগঞ্জ মেডিকেল কলেজ হাসপাতালে ভর্তি করা হয়েছে এবং অন্যেরা স্থানীয়ভাবে চিকিৎসা নিয়েছেন।",
-          "মতামতের জন্য গোপালগঞ্জ সদর থানার কর্মকর্তা ইনচার্জ মো. আমিনুল ইসলামের সাথে ফোনে যোগাযোগের চেষ্টা করা হলেও তাকে পাওয়া যায়নি।"
-        ],
-        "bullets_en": [
-          "Clashing groups armed with local weapons exploded crude bombs and vandalised shops on a road beside Gopalganj Cricket Stadium.",
-          "Five seriously injured individuals were admitted to Gopalganj Medical College Hospital, while others received local treatment.",
-          "Attempts to contact Gopalganj Sadar Police Station Officer-in-Charge Md Aminul Islam by phone were unsuccessful."
-        ],
-        "impact_bn": "ককটেল বিস্ফোরণ ও দোকানপাট ভাঙচুরের ঘটনায় স্থানীয় বাসিন্দা, ব্যবসায়ী ও পথচারীদের মধ্যে আতঙ্ক ছড়িয়ে পড়ে।",
-        "impact_en": "The explosion of crude bombs and shop vandalism spread panic among local residents, businesspeople, and passers-by.",
-        "details_bn": "লঞ্চঘাট এলাকা থেকে বের হওয়া একটি মিছিল চলাকালে এক যুবককে মারধরের ঘটনা কেন্দ্র করে উত্তেজনার সূত্রপাত হয়। পরে স্টেডিয়ামের পাশে দুই পক্ষের কর্মীরা ধাওয়া-পাল্টাধাওয়ায় জড়ায়। এছাড়া কোটালীপাড়া উপজেলার দক্ষিণ হিরণ গ্রামেও কার্যক্রম নিষিদ্ধ দলটির দুই পক্ষের মধ্যে সংঘর্ষের খবর পাওয়া গেছে।",
-        "details_en": "Tension began after several youths beat a young man during a procession that started from the Launch Ghat area. Later, armed activists engaged in chases and counter-chases near the stadium. Another clash between two factions of the activities-banned party was also reported in South Hiran village of Kotalipara upazila.",
-        "hook_bn": "গোপালগঞ্জে আওয়ামী লীগের দুই পক্ষে সংঘর্ষ",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 4,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-23T18:04:48.343806+00:00"
-      }
-    },
-    {
-      "story_id": "df984b57-16b9-55fe-8d26-8e9430e60286",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
+        "society_education",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#ChattogramPort",
-        "#EverestPortServices",
-        "#SaifPowertec",
-        "#CCT"
+        "#Bangladesh",
+        "#NationalAffairs"
       ],
-      "image_url": "https://images.unsplash.com/photo-1647311075842-ca25db57304d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZXZlcmVzdCUyMHBvcnQlMjBzZXJ2aWNlcyUyMHJlcGxhY2VzJTIwYnVzaW5lc3N8ZW58MXwwfHx8MTc5NTQ1NzA4NHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZWR1Y2F0aW9uJTIwdW5pdmVyc2l0eSUyMHN0dWRlbnRzJTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1NDY0MjMwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-23T18:00:00+00:00",
+      "published_at": "2026-11-23T18:46:25+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 4.219,
+      "importance_score": 5.25,
+      "rank_score": 2.559,
       "sources": [
         {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/economy/news/everest-replaces-saif-powertec-interim-cct-operator-4331546",
-          "title": "Everest replaces Saif Powertec as interim CCT operator",
-          "snippet": "Everest replaces Saif Powertec as interim CCT operator"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822690/%E0%A6%AA%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%AE%E0%A7%8B%E0%A6%9F%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%87%E0%A6%B2-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%8B%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A6%BF-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A7%87-%E0%A6%A4%E0%A6%BF%E0%A6%A8",
+          "title": "পিরোজপুরে মোটরসাইকেল-ট্রলির মুখোমুখি সংঘর্ষে তিন যুবক নিহত, আহত ২",
+          "snippet": "পিরোজপুরে মোটরসাইকেল-ট্রলির মুখোমুখি সংঘর্ষে তিন যুবক নিহত, আহত ২"
         },
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/everest-port-services-wins-6-month-container-terminal-contract-amid-short-bidding-window",
-          "title": "Everest Port Services wins 6-month container terminal contract amid short bidding window controversy",
-          "snippet": "Everest Port Services wins 6-month container terminal contract amid short bidding window controversy"
-        },
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/business/economics/kmpqpe9wzn",
-          "title": "ছয় মাসের জন্য সিসিটির দায়িত্ব পেল সংসদ সদস্যের পারিবারিক প্রতিষ্ঠান এভারেস্ট",
-          "snippet": "ছয় মাসের জন্য সিসিটির দায়িত্ব পেল সংসদ সদস্যের পারিবারিক প্রতিষ্ঠান এভারেস্ট"
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/country/500352",
+          "title": "পিরোজপুরে বেকুটিয়া সেতুতে ট্রলি-মোটরসাইকেল সংঘর্ষ, নিহত ৩",
+          "snippet": "পিরোজপুরে বেকুটিয়া সেতুতে ট্রলি-মোটরসাইকেল সংঘর্ষ, নিহত ৩"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চট্টগ্রাম কনটেইনার টার্মিনাল পরিচালনায় সাইফ পাওয়ারটেকের স্থলাভিষিক্ত হলো এভারেস্ট পোর্ট সার্ভিসেস",
-        "title_en": "Everest Port Services replaces Saif Powertec to operate Chittagong Container Terminal",
-        "summary_bn": "চট্টগ্রাম বন্দরের চট্টগ্রাম কনটেইনার টার্মিনাল ছয় মাসের জন্য পরিচালনার চুক্তি পেয়েছে স্থানীয় প্রতিষ্ঠান এভারেস্ট পোর্ট সার্ভিসেস লিমিটেড, যা সাইফ পাওয়ারটেক লিমিটেডের স্থলাভিষিক্ত হয়েছে।",
-        "summary_en": "Everest Port Services Ltd has secured a six-month contract to operate the Chittagong Container Terminal at Chattogram port, replacing local operator Saif Powertec Ltd.",
+        "title_bn": "পিরোজপুরের বেকুটিয়া সেতুতে ট্রলি ও মোটরসাইকেলের সংঘর্ষে নিহত ৩",
+        "title_en": "Three killed in collision between trolly and motorcycles on Pirojpur bridge",
+        "summary_bn": "পিরোজপুরের কাউখালীর বেকুটিয়া সেতুতে দুটি মোটরসাইকেল ও একটি মালবোঝাই ট্রলির মুখোমুখি সংঘর্ষে তিন যুবক নিহত ও দুজন আহত হয়েছেন।",
+        "summary_en": "Three young men were killed and two others injured in a head-on collision between two motorcycles and a goods-laden trolly in Pirojpur.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
+          "society_education",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-23T18:00:00+00:00",
-        "lead_bn": "চট্টগ্রাম বন্দরের চট্টগ্রাম কনটেইনার টার্মিনাল ছয় মাসের জন্য পরিচালনার চুক্তি পেয়েছে স্থানীয় প্রতিষ্ঠান এভারেস্ট পোর্ট সার্ভিসেস লিমিটেড, যা সাইফ পাওয়ারটেক লিমিটেডের স্থলাভিষিক্ত হয়েছে।",
-        "lead_en": "Everest Port Services Ltd has secured a six-month contract to operate the Chittagong Container Terminal at Chattogram port, replacing local operator Saif Powertec Ltd.",
+        "published_at": "2026-11-23T18:46:25+00:00",
+        "lead_bn": "পিরোজপুরের কাউখালীর বেকুটিয়া সেতুতে দুটি মোটরসাইকেল ও একটি মালবোঝাই ট্রলির মুখোমুখি সংঘর্ষে তিন যুবক নিহত ও দুজন আহত হয়েছেন।",
+        "lead_en": "Three young men were killed and two others injured in a head-on collision between two motorcycles and a goods-laden trolly in Pirojpur.",
         "bullets_bn": [
-          "নৌপরিবহন মন্ত্রণালয়ের অনুমোদনের পর সাইফ পাওয়ারটেকের মেয়াদের শেষে রাত ১২টা থেকে আনুষ্ঠানিকভাবে দায়িত্ব নেয় এভারেস্ট পোর্ট সার্ভিসেস।",
-          "চট্টগ্রাম বন্দর কর্তৃপক্ষ জানায়, চারটি দরদাতা প্রতিষ্ঠানের মধ্যে এভারেস্ট সর্বনিম্ন ৩০.১৫ কোটি টাকার প্রস্তাব জমা দিয়ে কাজ পেয়েছে।",
-          "এভারেস্ট পোর্ট সার্ভিসেসের অন্যতম পরিচালক হলেন লক্ষ্মীপুর-১ আসনের বিএনপি সংসদ সদস্য শাহাদাত হোসেন সেলিম।"
+          "দুর্ঘটনাটি ঘটেছে সেতুর কাউখালী প্রান্তে।",
+          "নিহতদের মধ্যে শান্ত রায় ও সুনান মাঝীর পরিচয় পাওয়া গেছে।",
+          "আহত দুজনকে হাসপাতালে চিকিৎসা দেওয়া হচ্ছে।"
         ],
         "bullets_en": [
-          "Everest officially took over operations at 12:00am after Saif Powertec's extended contract expired following shipping ministry approval.",
-          "Chittagong Port Authority said Everest was selected after quoting the lowest bid of Tk 30.15 crore among four participating companies.",
-          "Shahadat Hossain Selim, a BNP lawmaker from Lakshmipur-1, is one of the directors of Everest Port Services."
+          "The accident took place at the Kaukhali end of the bridge.",
+          "Shanto Roy and Sunan Majhi are among the identified victims.",
+          "Two injured persons are receiving medical treatment."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "এভারেস্ট পোর্ট সার্ভিসেস ইতোমধ্যে চট্টগ্রাম বন্দরের জেনারেল কার্গো বার্থের ছয়টি কনটেইনার জেটির একটি পরিচালনা করছে। সিসিটি পরিচালনার দরপত্রে বিঅ্যান্ডএম ওশেনিয়া জেভি, শামীম এন্টারপ্রাইজ (প্রা:) লিমিটেড এবং দ্য সিভিল ইঞ্জিনিয়ার্স লিমিটেডসহ মোট চারটি প্রতিষ্ঠান অংশ নেয়। এর মধ্যে দুটি প্রতিষ্ঠান কারিগরি ও আর্থিকভাবে উপযুক্ত বিবেচিত হয়েছিল।",
-        "details_en": "Everest Port Services already operates one of the six container jetties at the port's General Cargo Berth. Four companies submitted financial offers for the contract, including B&M Oceania JV, Shamim Enterprise (Pvt) Ltd, and The Civil Engineers Ltd, of which two were found technically and financially responsive.",
-        "hook_bn": "চট্টগ্রাম কনটেইনার টার্মিনালের দায়িত্বে এভারেস্ট",
-        "kicker_bn": null,
+        "details_bn": "সন্ধ্যা সাড়ে ৬টার দিকে পিরোজপুরের কাউখালীর বেকুটিয়া সেতুতে দুটি মোটরসাইকেল ও একটি মালবোঝাই ট্রলির মুখোমুখি সংঘর্ষ হয়। এতে ঘটনাস্থলেই তিন যুবক নিহত ও দুজন আহত হন। নিহত শান্ত রায় বেকুটিয়া এলাকার সতদল রায়ের ছেলে এবং সুনান মাঝী সয়না-রঘুনাথপুর গ্রামের বাবর মাঝীর ছেলে। এছাড়া কেউন্দিয়া গ্রামের আজমল হক বাদল মৃধার ছেলেও এই দুর্ঘটনায় নিহত হয়েছেন।",
+        "details_en": "The head-on collision occurred at around 6:30 PM on the Bekutia bridge in Kaukhali, Pirojpur, involving two motorcycles and a goods-laden trolly. Three young men died and two others were injured. The victims include Shanto Roy, son of Satadal Roy from Bekutia, Sunan Majhi, son of Babar Majhi from Sayna-Raghunathpur village, and the son of Ajmal Haque Badal Mridha from Keutia village.",
+        "hook_bn": "বেকুটিয়া সেতুতে ট্রলি-মোটরসাইকেল সংঘর্ষে নিহত ৩",
+        "kicker_bn": "সতর্কতা",
         "share_value": false,
-        "question_bn": "চট্টগ্রাম বন্দরের পরিচালনা চুক্তি প্রক্রিয়া নিয়ে আপনার বক্তব্য কী?"
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "unchecked",
+        "checked_at": "2026-11-23T20:04:07.874400+00:00"
+      }
+    },
+    {
+      "story_id": "b34e9aee-1cea-5d07-bca2-8bcfdd4e1a2f",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-23%2Fsa76d124%2F2.avif?rect=0%2C44%2C622%2C327&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-23T19:25:32+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.5,
+      "rank_score": 4.0732,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/4khw41fg38",
+          "title": "মিয়ানমারকে আইসিজের রায় পুরোপুরি মেনে চলার আহ্বান ১৪ দেশের",
+          "snippet": "মিয়ানমারকে আইসিজের রায় পুরোপুরি মেনে চলার আহ্বান ১৪ দেশের"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822689/%E0%A6%AE%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%87%E0%A6%B8%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B9%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A8-%E0%A7%A7%E0%A7%AA-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0",
+          "title": "মিয়ানমারকে আইসিজের রায় মানার আহ্বান ১৪ দেশের",
+          "snippet": "মিয়ানমারকে আইসিজের রায় মানার আহ্বান ১৪ দেশের"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/national/500350",
+          "title": "আইসিজের রায় মানতে মিয়ানমারকে ১৪ দেশের আহ্বান",
+          "snippet": "আইসিজের রায় মানতে মিয়ানমারকে ১৪ দেশের আহ্বান"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মিয়ানমারকে আইসিজের রায় পুরোপুরি মেনে চলার আহ্বান ১৪ দেশের",
+        "title_en": "Fourteen countries urge Myanmar to fully comply with ICJ ruling",
+        "summary_bn": "মিয়ানমারের বিরুদ্ধে গাম্বিয়ার করা জেনোসাইড মামলায় আন্তর্জাতিক বিচার আদালতের দেওয়া রায় পুরোপুরি মেনে চলার আহ্বান জানিয়েছেন ১৪ দেশের পররাষ্ট্রমন্ত্রীরা।",
+        "summary_en": "Foreign ministers of 14 countries have urged Myanmar to fully comply with the International Court of Justice ruling in the genocide case brought by Gambia.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-23T19:25:32+00:00",
+        "lead_bn": "মিয়ানমারের বিরুদ্ধে গাম্বিয়ার করা জেনোসাইড মামলায় আন্তর্জাতিক বিচার আদালতের দেওয়া রায় পুরোপুরি মেনে চলার আহ্বান জানিয়েছেন ১৪ দেশের পররাষ্ট্রমন্ত্রীরা।",
+        "lead_en": "Foreign ministers of 14 countries have urged Myanmar to fully comply with the International Court of Justice ruling in the genocide case brought by Gambia.",
+        "bullets_bn": [
+          "অস্ট্রেলিয়া, যুক্তরাজ্য ও গাম্বিয়াসহ ১৪ দেশের পররাষ্ট্রমন্ত্রীরা এই যৌথ বিবৃতি দিয়েছেন।",
+          "আইসিজের রায় মানা মিয়ানমারের জন্য বাধ্যতামূলক বলে বিবৃতিতে উল্লেখ করা হয়।",
+          "মিয়ানমারের পররাষ্ট্র মন্ত্রণালয় ২০ নভেম্বর দেওয়া এক বিবৃতিতে আইসিজের রায়ের ফলকে হতাশাজনক বলে উল্লেখ করেছে।"
+        ],
+        "bullets_en": [
+          "Foreign ministers of 14 countries, including Australia, the UK, and Gambia, issued the joint statement.",
+          "The statement noted that complying with the ICJ ruling is mandatory for Myanmar.",
+          "Myanmar's Ministry of Foreign Affairs described the outcome of the ICJ ruling as disappointing in a statement issued on 20 November."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "জেনোসাইড কনভেনশনের অধীন গাম্বিয়ার করা মামলায় গত ১৯ নভেম্বর আন্তর্জাতিক বিচার আদালত রায় দেন। রায়ে বলা হয়, ২০১৭ সালে উত্তর রাখাইন রাজ্যে সামরিক অভিযানের সময় রোহিঙ্গাদের বিরুদ্ধে জেনোসাইড চালিয়েছে মিয়ানমার এবং জেনোসাইড প্রতিরোধ ও অপরাধীদের শাস্তি দেওয়ার দায়িত্ব পালনে ব্যর্থ হয়েছে দেশটি।",
+        "details_en": "On 19 November, the International Court of Justice delivered its verdict in the case brought by Gambia under the Genocide Convention, ruling that Myanmar committed genocide against Rohingya during military operations in northern Rakhine State in 2017 and failed in its duty to prevent genocide and punish perpetrators.",
+        "hook_bn": "মিয়ানমারকে আইসিজের রায় মানার আহ্বান",
+        "kicker_bn": "রায় ঘোষণা",
+        "share_value": false,
+        "question_bn": null
       },
       "desk_importance": 6.0,
       "outlet_count": 3,
       "trending": false,
-      "social_appeal": 6.0,
+      "social_appeal": 4.0,
       "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-23T18:04:48.343806+00:00"
+        "status": "unchecked",
+        "checked_at": "2026-11-23T20:04:07.874400+00:00"
       }
     }
   ]
