@@ -1,145 +1,137 @@
 {
-  "updated_at": "2026-11-24T02:00:42.416617",
-  "total_stories": 4,
+  "updated_at": "2026-11-24T03:00:45.997882",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "8be69c16-3989-5c0f-9b99-751b06c9d1ec",
-      "primary_category": "governance_law",
+      "story_id": "d86d37ff-8b56-56ce-919c-c1390949a83a",
+      "primary_category": "climate_environment",
       "interest_categories": [
+        "climate_environment",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Climate",
+        "#Environment"
       ],
-      "image_url": "https://images.unsplash.com/photo-1769708046949-108aa733f753?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFubmVkJTIwYXdhbWklMjBsZWFndWUlMjBsZWFkZXIlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTU0ODU3MDl8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1583794018021-c841442da0e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bmF0dXJlJTIwY2xpbWF0ZSUyMGZsb29kJTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1NDEzNjc5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-24T00:46:29+00:00",
+      "published_at": "2026-11-24T02:50:12+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.6334,
+      "importance_score": 6.5,
+      "rank_score": 4.1748,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1182925",
-          "title": "কার্যক্রম নিষিদ্ধ আ’লীগের চট্টগ্রাম উত্তর জেলা সাধারণ সম্পাদক গ্রেফতার",
-          "snippet": "কার্যক্রম নিষিদ্ধ আ’লীগের চট্টগ্রাম উত্তর জেলা সাধারণ সম্পাদক গ্রেফতার"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/national/500374",
-          "title": "চট্টগ্রামে আওয়ামী লীগ নেতা শেখ আতাউর রহমান গ্রেপ্তার",
-          "snippet": "চট্টগ্রামে আওয়ামী লীগ নেতা শেখ আতাউর রহমান গ্রেপ্তার"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822707/%E0%A6%A0%E0%A6%BE%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%93-%E0%A6%93-%E0%A6%AA%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%97%E0%A7%9C%E0%A7%87-%E0%A6%AE%E0%A7%83%E0%A6%A6%E0%A7%81-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%AD%E0%A7%82%E0%A6%A4",
+          "title": "ঠাকুরগাঁও ও পঞ্চগড়ে মৃদু ভূমিকম্প অনুভূত",
+          "snippet": "ঠাকুরগাঁও ও পঞ্চগড়ে মৃদু ভূমিকম্প অনুভূত"
         }
       ],
       "daily_buzz": {
-        "title_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগ নেতা শেখ আতাউর রহমান গ্রেফতার",
-        "title_en": "Banned Awami League leader Sheikh Ataur Rahman arrested",
-        "summary_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের চট্টগ্রাম উত্তর জেলা সাধারণ সম্পাদক শেখ মোহাম্মদ আতাউর রহমানকে গ্রেফতার করা হয়েছে।",
-        "summary_en": "Sheikh Mohammad Ataur Rahman, general secretary of the banned Awami League's Chattogram North district, has been arrested.",
+        "title_bn": "ঠাকুরগাঁও ও পঞ্চগড়ে মৃদু ভূমিকম্প অনুভূত হয়েছে",
+        "title_en": "Mild earthquake felt in Thakurgaon and Panchagarh",
+        "summary_bn": "উত্তরবঙ্গের ঠাকুরগাঁও ও পঞ্চগড়সহ দেশের বিভিন্ন এলাকায় মৃদু ভূমিকম্প অনুভূত হয়েছে।",
+        "summary_en": "A mild earthquake was felt in various areas of the country including Thakurgaon and Panchagarh in North Bengal on Tuesday morning.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "climate_environment",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-24T00:46:29+00:00",
-        "lead_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের চট্টগ্রাম উত্তর জেলা সাধারণ সম্পাদক শেখ মোহাম্মদ আতাউর রহমানকে গ্রেফতার করা হয়েছে।",
-        "lead_en": "Sheikh Mohammad Ataur Rahman, general secretary of the banned Awami League's Chattogram North district, has been arrested.",
+        "published_at": "2026-11-24T02:50:12+00:00",
+        "lead_bn": "উত্তরবঙ্গের ঠাকুরগাঁও ও পঞ্চগড়সহ দেশের বিভিন্ন এলাকায় মৃদু ভূমিকম্প অনুভূত হয়েছে।",
+        "lead_en": "A mild earthquake was felt in various areas of the country including Thakurgaon and Panchagarh in North Bengal on Tuesday morning.",
         "bullets_bn": [
-          "শেখ মোহাম্মদ আতাউর রহমান মিরসরাই উপজেলার সাবেক সভাপতি ছিলেন।",
-          "জাগো নিউজ ২৪ ও ঢাকা পোস্ট এই তথ্য জানিয়েছে।",
-          "তাকে গ্রেফতারের বিষয়ে বিস্তারিত আর কিছু জানানো হয়নি।"
+          "এ কম্পন অনুভূত হয় ২৪ নভেম্বর সকালে।",
+          "কম্পনে অনেকের ঘুম ভেঙে যায় এবং স্থানীয়দের মধ্যে আতঙ্ক ছড়িয়ে পড়ে।",
+          "প্রাপ্ত তথ্য অনুযায়ী ভূমিকম্প অনুভূত হয় সকাল ৭টার দিকে।"
         ],
         "bullets_en": [
-          "Sheikh Mohammad Ataur Rahman was the former president of Mirsarai upazila.",
-          "Jago News 24 and Dhaka Post reported this information.",
-          "No further details regarding his arrest were provided."
+          "This tremor was felt on the morning of 24 November.",
+          "The tremor broke the sleep of many and spread panic among locals.",
+          "According to received information, the earthquake was felt around 7 am."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "চট্টগ্রাম উত্তর জেলা আওয়ামী লীগ নেতা গ্রেফতার",
-        "kicker_bn": null,
+        "details_bn": "প্রাপ্ত তথ্য অনুযায়ী, সকাল ৭টার দিকে প্রথম ভূমিকম্প অনুভূত হয়। প্রাথমিক তথ্যমতে, প্রথম ভূমিকম্পের মাত্রা ছিল রিখটার স্কেলে ৫ দশমিক ৪। এর উৎপত্তিস্থল ছিল নেপালের কোশি প্রদেশের লেলেপ এলাকার প্রায় ৯ কিলোমিটারে।",
+        "details_en": "According to received information, the first earthquake was felt around 7 am on Tuesday. According to primary information, the magnitude of the first earthquake on the Richter scale was 5.4. Its epicenter was about 9 kilometers from the Lelep area of Kosi province in Nepal.",
+        "hook_bn": "ঠাকুরগাঁও ও পঞ্চগড়ে মৃদু ভূমিকম্প অনুভূত",
+        "kicker_bn": "ভূমিকম্প",
         "share_value": false,
-        "question_bn": null
+        "question_bn": "আপনার এলাকায় কি ভূমিকম্প অনুভূত হয়েছে? কেমন ছিল সেই অভিজ্ঞতা?"
       },
       "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
+      "outlet_count": 1,
+      "trending": true,
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-24T02:02:56.526547+00:00"
+        "checked_at": "2026-11-24T03:03:28.789962+00:00"
       }
     },
     {
-      "story_id": "ff507667-238b-5bd4-acfb-d2db0ef90b03",
-      "primary_category": "governance_law",
+      "story_id": "adae27b5-2353-56e7-b904-8e5bcc1c7ac8",
+      "primary_category": "climate_environment",
       "interest_categories": [
-        "governance_law",
+        "climate_environment",
         "economy_business",
-        "tech_innovation",
-        "society_education"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#AmnestyInternational",
-        "#CyberProtectionAct",
-        "#FreedomOfExpression",
-        "#Bangladesh"
+        "#Climate",
+        "#Environment"
       ],
-      "image_url": "https://images.unsplash.com/photo-1722944759942-791464a16ee0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YW1uZXN0eSUyMHdhcm5zJTIwYmFuZ2xhZGVzaCUyMGN5YmVyJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1NDg1NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1677928586959-2f41b8228c44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZWlnaHRoJTIwc2hpcG1lbnQlMjB1cmFuaXVtJTIwYXJyaXZlcyUyMGVudmlyb25tZW50fGVufDF8MHx8fDE3OTU0ODkzNjd8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-24T01:40:00+00:00",
+      "published_at": "2026-11-24T02:34:47+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.0,
-      "rank_score": 3.5256,
+      "rank_score": 3.5049,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/amnesty-warns-bangladeshs-proposed-cyber-law-amendment-could-restrict-online-speech",
-          "title": "Amnesty warns Bangladesh's proposed cyber law amendment could restrict online speech",
-          "snippet": "Amnesty warns Bangladesh's proposed cyber law amendment could restrict online speech"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1182933",
+          "title": "রূপপুরে পৌঁছাল ইউরেনিয়ামের অষ্টম চালান",
+          "snippet": "রূপপুরে পৌঁছাল ইউরেনিয়ামের অষ্টম চালান"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সাইবার সুরক্ষা আইনে অনলাইন বাকস্বাধীনতা সীমিত হওয়ার আশঙ্কা অ্যামনেস্টি ইন্টারন্যাশনালের",
-        "title_en": "Amnesty warns Bangladesh's cyber law amendment could restrict online speech",
-        "summary_bn": "অ্যামনেস্টি ইন্টারন্যাশনাল সতর্ক করেছে যে বাংলাদেশের প্রস্তাবিত সাইবার সুরক্ষা আইন কর্তৃপক্ষকে অনলাইন বাকস্বাধীনতা সীমিত করার ব্যাপক ক্ষমতা দেবে।",
-        "summary_en": "Amnesty International has warned that Bangladesh's draft cyber protection law would give authorities broad powers to restrict online speech.",
+        "title_bn": "রূপপুরে পৌঁছাল ইউরেনিয়ামের অষ্টম চালান",
+        "title_en": "Eighth shipment of uranium arrives at Rooppur",
+        "summary_bn": "রাশিয়া থেকে আনা ইউরেনিয়ামের আরেকটি চালান পাবনার ঈশ্বরদীর রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্র প্রকল্প এলাকায় পৌঁছেছে।",
+        "summary_en": "Another shipment of uranium brought from Russia has reached the Rooppur Nuclear Power Plant project area in Pabna's Ishwardi.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
+          "climate_environment",
           "economy_business",
-          "tech_innovation",
-          "society_education"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-24T01:40:00+00:00",
-        "lead_bn": "অ্যামনেস্টি ইন্টারন্যাশনাল সতর্ক করেছে যে বাংলাদেশের প্রস্তাবিত সাইবার সুরক্ষা আইন কর্তৃপক্ষকে অনলাইন বাকস্বাধীনতা সীমিত করার ব্যাপক ক্ষমতা দেবে।",
-        "lead_en": "Amnesty International has warned that Bangladesh's draft cyber protection law would give authorities broad powers to restrict online speech.",
+        "published_at": "2026-11-24T02:34:47+00:00",
+        "lead_bn": "রাশিয়া থেকে আনা ইউরেনিয়ামের আরেকটি চালান পাবনার ঈশ্বরদীর রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্র প্রকল্প এলাকায় পৌঁছেছে।",
+        "lead_en": "Another shipment of uranium brought from Russia has reached the Rooppur Nuclear Power Plant project area in Pabna's Ishwardi.",
         "bullets_bn": [
-          "প্রস্তাবিত সংশোধনীতে অস্পষ্ট বিধান রয়েছে যা সরকারি সংস্থাকে অনলাইন কনটেন্ট ব্লক বা অপসারণের ক্ষমতা দিতে পারে।",
-          "আইনের খসড়ায় ২৫ ও ২৬ ধারার অধীনে গুজব, মানহানি, বুলিং এবং অপপ্রচারের অপরাধীকরণ বজায় রাখা হয়েছে।",
-          "অপরাধভেদে দুই থেকে পাঁচ বছরের কারাদণ্ড এবং ৫ লাখ থেকে ১০ লাখ টাকা পর্যন্ত জরিমানার বিধান রাখা হয়েছে।"
+          "রাশিয়া থেকে আনা ইউরেনিয়ামের চালানটি রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্র প্রকল্প এলাকায় পৌঁছেছে।",
+          "এই চালানটি পাবনার ঈশ্বরদীর রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্র প্রকল্প এলাকায় আনা হয়েছে।",
+          "এ নিয়ে দ্বিতীয় ইউনিটের জন্য ইউরেনিয়ামের চালান পৌঁছাল।"
         ],
         "bullets_en": [
-          "The amendments contain vague provisions that could allow agencies to block or remove online content under broad standards.",
-          "The draft retains the criminalisation of rumours, defamation, bullying and disinformation under Sections 25 and 26.",
-          "Penalties include imprisonment of between two and five years and fines ranging from Tk500,000 to Tk1 million."
+          "The shipment of uranium brought from Russia has arrived at the Rooppur Nuclear Power Plant project area.",
+          "This shipment has been brought to the Rooppur Nuclear Power Plant project area in Pabna's Ishwardi.",
+          "With this, a shipment of uranium has arrived for the second unit."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "২৩ নভেম্বর প্রকাশিত এক বিবৃতিতে মানবাধিকার সংস্থাটি জানিয়েছে, খসড়ায় এমন বিধান রয়েছে যা দেশের অখণ্ডতা ও মর্যাদা ক্ষুণ্ন করা বা ধর্মীয় ঘৃণা সৃষ্টির আশঙ্কায় কনটেন্ট সরাতে পারে। সংস্থাটি বলছে, সম্ভাব্য ক্ষতির অনুমানভিত্তিক মূল্যায়নের ভিত্তিতে কনটেন্ট নিয়ন্ত্রণের সুযোগ তৈরি হয়েছে। এছাড়া খসড়ায় মর্যাদা ও আত্মসম্মানবোধের মতো বিষয়গুলোকে অস্পষ্টভাবে সংজ্ঞায়িত করা হয়েছে, যা আন্তর্জাতিক মানবাধিকার আইনের সাথে সঙ্গতিপূর্ণ নয়।",
-        "details_en": "In a statement issued on 23 November, the human rights organisation said the proposed amendments contained vague provisions that could allow government agencies to block, remove or relocate online content under broad standards. Amnesty said the use of phrases lowering the threshold for restricting content based on speculative assessments of potential harm raised concerns. The draft also retains criminal penalties for expression based on broad concepts such as deception, harm, panic and social unrest.",
-        "hook_bn": "অনলাইন বাকস্বাধীনতা সীমিত করতে পারে সাইবার আইন",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": "প্রস্তাবিত সাইবার সুরক্ষা আইনের বিধানগুলো নিয়ে আপনার মতামত কী?"
+        "details_bn": "রাশিয়া থেকে আনা ইউরেনিয়ামের আরেকটি চালান পাবনার ঈশ্বরদীর রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্র প্রকল্প এলাকায় পৌঁছেছে। এ নিয়ে দ্বিতীয় ইউনিটের জন্য ইউরেনিয়ামের চালান এসেছে।",
+        "details_en": "Another shipment of uranium brought from Russia has reached the Rooppur Nuclear Power Plant project area in Pabna's Ishwardi. With this, a shipment of uranium has arrived for the second unit.",
+        "hook_bn": "রূপপুরে পৌঁছাল ইউরেনিয়ামের অষ্টম চালান",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
       },
       "desk_importance": 6.0,
       "outlet_count": 1,
@@ -147,136 +139,69 @@
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-24T02:02:56.526547+00:00"
+        "checked_at": "2026-11-24T03:03:28.789962+00:00"
       }
     },
     {
-      "story_id": "76ef2e59-97ea-5d2f-af0a-63ab31b7b12c",
-      "primary_category": "climate_environment",
+      "story_id": "f0b8a75a-5fff-5a21-bf51-c80b513232f1",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "climate_environment",
-        "economy_business"
+        "world_diplomacy",
+        "economy_business",
+        "governance_law"
       ],
-      "region": "national",
+      "region": "international",
       "tags": [
-        "#JhumCultivation",
-        "#ChittagongHillTracts",
-        "#FoodSecurity",
-        "#Agriculture"
+        "#BenjaminNetanyahu",
+        "#DonaldTrump",
+        "#Iran",
+        "#Israel"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/24/p5_bandarban_jhum_rice_cultivation_photo8.jpg.jpeg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/10/14/aminul_haque_2.png",
       "image_caption": null,
-      "published_at": "2026-11-24T01:25:00+00:00",
+      "published_at": "2026-11-24T02:05:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 5.0,
-      "rank_score": 2.4133,
+      "rank_score": 2.3651,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/agriculture/jhum-cultivation-shrinks-19-cht-over-5-years-raising-food-insecurity-risks-1612136",
-          "title": "Jhum cultivation shrinks 19% in CHT over 5 years, raising food insecurity risks",
-          "snippet": "Jhum cultivation shrinks 19% in CHT over 5 years, raising food insecurity risks"
+          "url": "https://www.tbsnews.net/worldbiz/middle-east/netanyahu-urges-trump-launch-fresh-strikes-iran-political-pressure-mounts",
+          "title": "Netanyahu urges Trump to launch fresh strikes on Iran as political pressure mounts",
+          "snippet": "Netanyahu urges Trump to launch fresh strikes on Iran as political pressure mounts"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পার্বত্য চট্টগ্রামে পাঁচ বছরে জুম চাষ কমেছে ১৯ শতাংশ",
-        "title_en": "Jhum cultivation shrinks 19% in CHT over 5 years",
-        "summary_bn": "পার্বত্য চট্টগ্রামের তিন জেলায় গত পাঁচ বছরে আউশ ধানের জুম চাষের আওতা ১৮ দশমিক ৭৪ শতাংশ কমেছে।",
-        "summary_en": "The area under jhum cultivation of Aus rice in the three hill districts of the CHT has shrunk by 18.74% over five years.",
+        "title_bn": "ইরানের ওপর নতুন হামলার আহ্বান জানিয়েছেন বেনিয়ামিন নেতানিয়াহু",
+        "title_en": "Benjamin Netanyahu urges Trump to launch fresh strikes on Iran",
+        "summary_bn": "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে যত দ্রুত সম্ভব ইরানের ওপর নতুন সামরিক হামলা চালানোর আহ্বান জানিয়েছেন।",
+        "summary_en": "Israeli Prime Minister Benjamin Netanyahu has urged US President Donald Trump to launch new military strikes against Iran as soon as possible.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "climate_environment",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-24T01:25:00+00:00",
-        "lead_bn": "পার্বত্য চট্টগ্রামের তিন জেলায় গত পাঁচ বছরে আউশ ধানের জুম চাষের আওতা ১৮ দশমিক ৭৪ শতাংশ কমেছে।",
-        "lead_en": "The area under jhum cultivation of Aus rice in the three hill districts of the CHT has shrunk by 18.74% over five years.",
-        "bullets_bn": [
-          "উৎপাদন প্রায় ১০ শতাংশ কমেছে এবং তিন জেলায় বার্ষিক চালের ঘাটতি প্রায় ২০৩,০০০ টন।",
-          "কৃষি সম্প্রসারণ অধিদপ্তর জানায় যে স্থানীয় উৎপাদন তিন পাহাড়ি জেলার চালের চাহিদার মাত্র ১৭ দশমিক ৮ শতাংশ পূরণ করে।",
-          "খাগড়াছড়িতে পতন সবচেয়ে তীব্র হয়েছে যেখানে ছয় বছরে চাষের জমি ৫৩ দশমিক ৪ শতাংশ কমেছে।"
-        ],
-        "bullets_en": [
-          "Production has declined by around 10% and the three districts face an annual rice deficit of nearly 203,000 tonnes.",
-          "According to the Department of Agricultural Extension, local production meets only 17.8% of the three hill districts' rice demand.",
-          "The decline has been sharper in Khagrachhari, where the cultivated area shrank by 53.4% over six years."
-        ],
-        "impact_bn": "জুম চাষ সংকুচিত হওয়ায় এবং চালের উৎপাদন কমায় অনেক কৃষক পরিবারের সারা বছরের খাদ্যের চাহিদা মেটাতে পারছে না এবং বাজারে নির্ভরতা বাড়ছে।",
-        "impact_en": "As jhum farming contracts, many farmers can no longer meet their families' year-round food needs and dependence on market purchases is increasing.",
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "পার্বত্য চট্টগ্রামে জুম চাষ কমেছে ১৯ শতাংশ",
-        "kicker_bn": "খাদ্য নিরাপত্তা",
-        "share_value": false,
-        "question_bn": "পার্বত্য চট্টগ্রামে জুম চাষ কমে যাওয়ার পেছনে আপনার কী মনে হয় প্রধান কারণ কী?"
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-24T02:02:56.526547+00:00"
-      }
-    },
-    {
-      "story_id": "b226401e-111e-525e-9d6f-5f09223d1cd6",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Pabna",
-        "#Ishwardi",
-        "#ChhatraDal",
-        "#JuboLeague"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1693585172757-b9e057feb878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFybGlhbWVudCUyMGxhdyUyMGNvdXJ0JTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1NDEwMDg5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-24T01:36:02+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.439,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/425574/5-chhatra-dal-men-shot-accused-jubo-league",
-          "title": "5 Chhatra Dal men shot, accused Jubo League leader’s house torched in Pabna",
-          "snippet": "5 Chhatra Dal men shot, accused Jubo League leader’s house torched in Pabna"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পাবনায় ৫ ছাত্রদল কর্মী গুলিবিদ্ধ ও যুবলীগ নেতার বাড়িতে আগুন",
-        "title_en": "Five Chhatra Dal men shot and Jubo League leader's house torched in Pabna",
-        "summary_bn": "পাবনার ঈশ্বরদীতে যুবলীগ নেতার বাড়িতে আগুন দেওয়া হয়েছে এবং পাঁচ ছাত্রদল নেতা-কর্মী গুলিবিদ্ধ হয়েছেন।",
-        "summary_en": "A Jubo League leader's house was set on fire and five Chhatra Dal men were shot in Ishwardi, Pabna.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-24T01:36:02+00:00",
-        "lead_bn": "পাবনার ঈশ্বরদীতে যুবলীগ নেতার বাড়িতে আগুন দেওয়া হয়েছে এবং পাঁচ ছাত্রদল নেতা-কর্মী গুলিবিদ্ধ হয়েছেন।",
-        "lead_en": "A Jubo League leader's house was set on fire and five Chhatra Dal men were shot in Ishwardi, Pabna.",
+        "published_at": "2026-11-24T02:05:00+00:00",
+        "lead_bn": "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে যত দ্রুত সম্ভব ইরানের ওপর নতুন সামরিক হামলা চালানোর আহ্বান জানিয়েছেন।",
+        "lead_en": "Israeli Prime Minister Benjamin Netanyahu has urged US President Donald Trump to launch new military strikes against Iran as soon as possible.",
         "bullets_bn": [
-          "স্থানীয় ও প্রত্যক্ষদর্শীদের মতে, দুর্বৃত্তদের হামলায় পাঁচ ছাত্রদল নেতা-কর্মী গুলিবিদ্ধ হন।",
-          "উপজেলার সারা ইউনিয়নে যুবলীগ নেতার বাড়িতে আগুন লাগার ঘটনা ঘটে।",
-          "ছাত্রদল নেতাদের ওপর হামলার সঙ্গে ওই নেতার জড়িত থাকার অভিযোগের জেরে এই ঘটনা ঘটে।"
+          "ইসরায়েলের পাবলিক ব্রডকাস্টার কানের বরাত দিয়ে এই তথ্য জানা গেছে।",
+          "যুক্তরাষ্ট্রের কোনো হোমল্যান্ডে কোনো বিশ্বাসযোগ্য বা আসন্ন হুমকি নেই বলে জানিয়েছেন দেশটির সিনিয়র প্রশাসন কর্মকর্তারা।",
+          "কাতারের প্রধানমন্ত্রীর সঙ্গে বৈঠকের পর ট্রাম্প ইঙ্গিত দিয়েছেন যে বড় ধরনের নতুন হামলা সম্ভবত unlikely হবে।"
         ],
         "bullets_en": [
-          "According to locals and witnesses, five Chhatra Dal leaders and activists were shot in an attack by miscreants.",
-          "The fire at the Jubo League leader's house broke out in Sara Union of the upazila.",
-          "The incident followed allegations of the leader's involvement in an attack on Chhatra Dal leaders and activists."
+          "This was reported by Israel's public broadcaster Kan.",
+          "Senior US administration officials said there was no credible or imminent threat to the US homeland.",
+          "After meeting Qatar's prime minister, Trump suggested that major new strikes were unlikely."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "পাবনার ঈশ্বরদীতে ছাত্রদল নেতাদের ওপর হামলার অভিযোগ ওঠার পর এর জেরে এক যুবলীগ নেতার বাড়িতে আগুন দেওয়া হয়। হামলার সময় পাঁচ ছাত্রদল নেতা ও কর্মী গুলিবিদ্ধ হন বলে স্থানীয় ও প্রত্যক্ষদর্শীরা জানিয়েছেন।",
-        "details_en": "Following allegations of his involvement in an attack on Chhatra Dal leaders and activists, a house belonging to a Jubo League leader was set on fire in Ishwardi, Pabna. Locals and witnesses reported that five Chhatra Dal leaders and activists were shot during the events.",
-        "hook_bn": "পাবনায় ছাত্রদল কর্মী গুলিবিদ্ধ ও বাড়িতে আগুন",
+        "details_bn": "ইসরায়েলে গত ২৭ অক্টোবর অনুষ্ঠিত নির্বাচনে নেতানিয়াহু তাঁর সংসদীয় সংখ্যাগরিষ্ঠতা হারিয়েছেন। এর ফলে তিনি কেয়ারটেকার প্রধানমন্ত্রী হিসেবে দায়িত্বে রয়েছেন, আর বিরোধীরা তাঁকে ক্ষমতা থেকে সরাতে জোট গঠনের চেষ্টা করছে। অন্যদিকে মার্কিন মধ্যবর্তী নির্বাচনে রিপাবলিকানরা খারাপ ফল করেছে এবং উপরাষ্ট্রপতি জেডি ভ্যান্স সংঘাতের জেরে ট্রাম্পের সঙ্গে প্রকাশ্যে দূরত্ব তৈরি করেছেন।",
+        "details_en": "In Israel, Netanyahu lost his parliamentary majority in the 27 October election, leaving him as caretaker prime minister while opposition rivals seek to form a coalition. In the US, Republicans suffered poor results in the midterm elections, while Vice President JD Vance publicly broke with Trump over the conflict.",
+        "hook_bn": "ইরানে নতুন হামলার আহ্বান নেতানিয়াহুর",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
@@ -284,10 +209,147 @@
       "desk_importance": 5.0,
       "outlet_count": 1,
       "trending": false,
-      "social_appeal": 7.0,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-24T02:02:56.526547+00:00"
+        "checked_at": "2026-11-24T03:03:28.789962+00:00"
+      }
+    },
+    {
+      "story_id": "e162302a-b9fb-5e06-b1aa-8adc77f56b2e",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation"
+      ],
+      "region": "international",
+      "tags": [
+        "#Technology",
+        "#Innovation"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-23%2F99cwz0az%2FAI.-Reuters1.png?rect=0%2C74%2C960%2C504&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-24T02:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.3538,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/technology/artificial-intelligence/z2181p8061",
+          "title": "এআই মডেলগুলো গোপনে নিজস্ব ভাষা তৈরি করছে, সতর্ক করলেন জিওফ্রে হিন্টন",
+          "snippet": "এআই মডেলগুলো গোপনে নিজস্ব ভাষা তৈরি করছে, সতর্ক করলেন জিওফ্রে হিন্টন"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "এআই মডেলগুলো নিজেদের মধ্যে গোপন ভাষা তৈরি করছে",
+        "title_en": "AI models are secretly creating their own language",
+        "summary_bn": "কম্পিউটারবিজ্ঞানী জিওফ্রে হিন্টন সতর্ক করেছেন যে কৃত্রিম বুদ্ধিমত্তা মডেলগুলো নিজেদের মধ্যে যোগাযোগের জন্য মানুষের বোধগম্য নয় এমন ভাষাগত সংকেত তৈরি করছে।",
+        "summary_en": "Computer scientist Geoffrey Hinton warned that artificial intelligence models are creating linguistic signals for communication that are incomprehensible to humans.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T02:00:00+00:00",
+        "lead_bn": "কম্পিউটারবিজ্ঞানী জিওফ্রে হিন্টন সতর্ক করেছেন যে কৃত্রিম বুদ্ধিমত্তা মডেলগুলো নিজেদের মধ্যে যোগাযোগের জন্য মানুষের বোধগম্য নয় এমন ভাষাগত সংকেত তৈরি করছে।",
+        "lead_en": "Computer scientist Geoffrey Hinton warned that artificial intelligence models are creating linguistic signals for communication that are incomprehensible to humans.",
+        "bullets_bn": [
+          "হিন্টনের আশঙ্কা, ভবিষ্যতে জ্ঞান বিনিময়ের মাধ্যমে এআই মডেলগুলো মানুষের তুলনায় অনেক দ্রুত শিখতে পারবে।",
+          "এআই এজেন্টগুলো প্রশিক্ষণে সরাসরি শেখানো হয়নি এমন নতুন শব্দাংশের সমন্বয় তৈরি করছে।",
+          "এআইয়ের ১০ হাজার অনুলিপি একসঙ্গে কাজ করে নিজেদের শেখা বিষয়গুলো একে অপরের সঙ্গে ভাগ করে নিতে পারে।"
+        ],
+        "bullets_en": [
+          "Hinton fears that AI models will learn much faster than humans by exchanging knowledge in the future.",
+          "AI agents are creating new combinations of word parts that are not directly taught during training.",
+          "Ten thousand copies of AI can work simultaneously and share learned subjects with each other."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "কানাডার ইউনিভার্সিটি অব ম্যানিটোবায় এক প্রশ্নোত্তর পর্বে হিন্টন জানান, এআই মডেলগুলো শব্দগুলোকে ছোট ছোট অংশে ভাগ করে ভাষা শেখে। গুগলের গেম খেলার এআই ব্যবস্থা আলফাজিরো নিজের সঙ্গে নিজেই প্রতিদ্বন্দ্বিতা করে দাবাসহ বিভিন্ন খেলায় দক্ষতা অর্জন করেছিল। হিন্টনের মতে, একই প্রক্রিয়ায় ভাষাভিত্তিক এআই মডেলগুলো নিজেদের ধারণা ও বিশ্বাস যাচাই করতে পারবে।",
+        "details_en": "At a Q and A session at the University of Manitoba in Canada, Hinton stated that AI models learn language by dividing words into small parts. Google's game playing AI system AlphaZero gained proficiency in chess and other games by competing against itself. According to Hinton, language based AI models can verify their own ideas and beliefs through the same process.",
+        "hook_bn": "এআই মডেলগুলো নিজেদের মধ্যে গোপনে ভাষা তৈরি করছে",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T03:03:28.789962+00:00"
+      }
+    },
+    {
+      "story_id": "ac79e1d0-4a7c-59e6-bc60-0493cd3bb11b",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#MollyFalco",
+        "#MassachusettsGeneralHospital",
+        "#PigKidney"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/07/11/doctor.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-24T01:50:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.3312,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/worldbiz/usa/us-woman-pig-kidney-inside-her-marks-one-year-milestone-amazed-its-still-working",
+          "title": "US woman with a pig kidney inside her marks one-year milestone: ‘Amazed that it’s still working’",
+          "snippet": "US woman with a pig kidney inside her marks one-year milestone: ‘Amazed that it’s still working’"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মার্কিন নারী জিন প্রকৌশলে পরিবর্তিত শুকরের কিডনি নিয়ে এক বছর পার করলেন।",
+        "title_en": "US woman with a pig kidney inside her marks one-year milestone.",
+        "summary_bn": "নিউ Hampshire-এর এক নারী জিনগতভাবে পরিবর্তিত শুকরের কিডনি নিয়ে বেঁচে থাকার এক বছর পূর্ণ করে রেকর্ড গড়েছেন।",
+        "summary_en": "A 58-year-old woman from New Hampshire has marked one year of living with a genetically modified pig kidney, setting a record.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T01:50:00+00:00",
+        "lead_bn": "নিউ Hampshire-এর এক নারী জিনগতভাবে পরিবর্তিত শুকরের কিডনি নিয়ে বেঁচে থাকার এক বছর পূর্ণ করে রেকর্ড গড়েছেন।",
+        "lead_en": "A 58-year-old woman from New Hampshire has marked one year of living with a genetically modified pig kidney, setting a record.",
+        "bullets_bn": [
+          "মলি ফ্যালকো বোস্টনের ম্যাসাচুসেটস জেনারেল হাসপাতালে চতুর্থ ব্যক্তি হিসেবে এই প্রতিস্থাপন পান।",
+          "চিকিৎসকেরা মানুষের সাথে সামঞ্জস্যপূর্ণ করতে শুকরের কিডনিটি সম্পাদনা করেছিলেন।",
+          "এই মাইলফলক অঙ্গদাতার সংকট সমাধানের জন্য ক্রস-স্পিসিজ অঙ্গ প্রতিস্থাপনের সম্ভাবনা তুলে ধরে।"
+        ],
+        "bullets_en": [
+          "Molly Falco became the fourth person to receive a genetically engineered pig kidney at Massachusetts General Hospital.",
+          "Doctors at Mass General edited the pig kidney to make it more compatible with humans.",
+          "The milestone highlights the potential of cross-species organ transplants to address the shortage of donor kidneys."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ম্যাসাচুসেটস জেনারেল হাসপাতালের গবেষকেরা এই জিনগতভাবে পরিবর্তিত অঙ্গ ব্যবহার করেন। গবেষণাগারের গবেষণা দলের মতে, এই সাফল্য চিকিৎসাবিজ্ঞানের জন্য বড় একটি পদক্ষেপ হলেও এটি এখনও চূড়ান্ত বিজয় নয়।",
+        "details_en": "Doctors at Mass General edited the pig kidney for human compatibility. Experts believe the milestone points to a future of using animal kidneys for humans, though researchers caution it is not yet a final victory.",
+        "hook_bn": "'এটি বিজ্ঞানের জন্য অত্যন্ত চমৎকার এবং রোমাঞ্চকর'",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "জেনেটিক্যালি মডিফাইড অঙ্গ প্রতিস্থাপনের এই অগ্রগতি চিকিৎসাবিজ্ঞানের ভবিষ্যৎ কীভাবে বদলাতে পারে বলে আপনার মনে হয়?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T03:03:28.789962+00:00"
       }
     }
   ]
