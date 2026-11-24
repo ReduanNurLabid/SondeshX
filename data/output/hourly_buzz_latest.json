@@ -1,5 +1,294 @@
 {
-  "updated_at": "2026-11-24T01:00:49.586345",
-  "total_stories": 0,
-  "stories": []
+  "updated_at": "2026-11-24T02:00:42.416617",
+  "total_stories": 4,
+  "stories": [
+    {
+      "story_id": "8be69c16-3989-5c0f-9b99-751b06c9d1ec",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1769708046949-108aa733f753?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFubmVkJTIwYXdhbWklMjBsZWFndWUlMjBsZWFkZXIlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTU0ODU3MDl8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-24T00:46:29+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.25,
+      "rank_score": 3.6334,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1182925",
+          "title": "কার্যক্রম নিষিদ্ধ আ’লীগের চট্টগ্রাম উত্তর জেলা সাধারণ সম্পাদক গ্রেফতার",
+          "snippet": "কার্যক্রম নিষিদ্ধ আ’লীগের চট্টগ্রাম উত্তর জেলা সাধারণ সম্পাদক গ্রেফতার"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/national/500374",
+          "title": "চট্টগ্রামে আওয়ামী লীগ নেতা শেখ আতাউর রহমান গ্রেপ্তার",
+          "snippet": "চট্টগ্রামে আওয়ামী লীগ নেতা শেখ আতাউর রহমান গ্রেপ্তার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগ নেতা শেখ আতাউর রহমান গ্রেফতার",
+        "title_en": "Banned Awami League leader Sheikh Ataur Rahman arrested",
+        "summary_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের চট্টগ্রাম উত্তর জেলা সাধারণ সম্পাদক শেখ মোহাম্মদ আতাউর রহমানকে গ্রেফতার করা হয়েছে।",
+        "summary_en": "Sheikh Mohammad Ataur Rahman, general secretary of the banned Awami League's Chattogram North district, has been arrested.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T00:46:29+00:00",
+        "lead_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের চট্টগ্রাম উত্তর জেলা সাধারণ সম্পাদক শেখ মোহাম্মদ আতাউর রহমানকে গ্রেফতার করা হয়েছে।",
+        "lead_en": "Sheikh Mohammad Ataur Rahman, general secretary of the banned Awami League's Chattogram North district, has been arrested.",
+        "bullets_bn": [
+          "শেখ মোহাম্মদ আতাউর রহমান মিরসরাই উপজেলার সাবেক সভাপতি ছিলেন।",
+          "জাগো নিউজ ২৪ ও ঢাকা পোস্ট এই তথ্য জানিয়েছে।",
+          "তাকে গ্রেফতারের বিষয়ে বিস্তারিত আর কিছু জানানো হয়নি।"
+        ],
+        "bullets_en": [
+          "Sheikh Mohammad Ataur Rahman was the former president of Mirsarai upazila.",
+          "Jago News 24 and Dhaka Post reported this information.",
+          "No further details regarding his arrest were provided."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "চট্টগ্রাম উত্তর জেলা আওয়ামী লীগ নেতা গ্রেফতার",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T02:02:56.526547+00:00"
+      }
+    },
+    {
+      "story_id": "ff507667-238b-5bd4-acfb-d2db0ef90b03",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business",
+        "tech_innovation",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#AmnestyInternational",
+        "#CyberProtectionAct",
+        "#FreedomOfExpression",
+        "#Bangladesh"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1722944759942-791464a16ee0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YW1uZXN0eSUyMHdhcm5zJTIwYmFuZ2xhZGVzaCUyMGN5YmVyJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1NDg1NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-24T01:40:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5256,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/amnesty-warns-bangladeshs-proposed-cyber-law-amendment-could-restrict-online-speech",
+          "title": "Amnesty warns Bangladesh's proposed cyber law amendment could restrict online speech",
+          "snippet": "Amnesty warns Bangladesh's proposed cyber law amendment could restrict online speech"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সাইবার সুরক্ষা আইনে অনলাইন বাকস্বাধীনতা সীমিত হওয়ার আশঙ্কা অ্যামনেস্টি ইন্টারন্যাশনালের",
+        "title_en": "Amnesty warns Bangladesh's cyber law amendment could restrict online speech",
+        "summary_bn": "অ্যামনেস্টি ইন্টারন্যাশনাল সতর্ক করেছে যে বাংলাদেশের প্রস্তাবিত সাইবার সুরক্ষা আইন কর্তৃপক্ষকে অনলাইন বাকস্বাধীনতা সীমিত করার ব্যাপক ক্ষমতা দেবে।",
+        "summary_en": "Amnesty International has warned that Bangladesh's draft cyber protection law would give authorities broad powers to restrict online speech.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business",
+          "tech_innovation",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T01:40:00+00:00",
+        "lead_bn": "অ্যামনেস্টি ইন্টারন্যাশনাল সতর্ক করেছে যে বাংলাদেশের প্রস্তাবিত সাইবার সুরক্ষা আইন কর্তৃপক্ষকে অনলাইন বাকস্বাধীনতা সীমিত করার ব্যাপক ক্ষমতা দেবে।",
+        "lead_en": "Amnesty International has warned that Bangladesh's draft cyber protection law would give authorities broad powers to restrict online speech.",
+        "bullets_bn": [
+          "প্রস্তাবিত সংশোধনীতে অস্পষ্ট বিধান রয়েছে যা সরকারি সংস্থাকে অনলাইন কনটেন্ট ব্লক বা অপসারণের ক্ষমতা দিতে পারে।",
+          "আইনের খসড়ায় ২৫ ও ২৬ ধারার অধীনে গুজব, মানহানি, বুলিং এবং অপপ্রচারের অপরাধীকরণ বজায় রাখা হয়েছে।",
+          "অপরাধভেদে দুই থেকে পাঁচ বছরের কারাদণ্ড এবং ৫ লাখ থেকে ১০ লাখ টাকা পর্যন্ত জরিমানার বিধান রাখা হয়েছে।"
+        ],
+        "bullets_en": [
+          "The amendments contain vague provisions that could allow agencies to block or remove online content under broad standards.",
+          "The draft retains the criminalisation of rumours, defamation, bullying and disinformation under Sections 25 and 26.",
+          "Penalties include imprisonment of between two and five years and fines ranging from Tk500,000 to Tk1 million."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "২৩ নভেম্বর প্রকাশিত এক বিবৃতিতে মানবাধিকার সংস্থাটি জানিয়েছে, খসড়ায় এমন বিধান রয়েছে যা দেশের অখণ্ডতা ও মর্যাদা ক্ষুণ্ন করা বা ধর্মীয় ঘৃণা সৃষ্টির আশঙ্কায় কনটেন্ট সরাতে পারে। সংস্থাটি বলছে, সম্ভাব্য ক্ষতির অনুমানভিত্তিক মূল্যায়নের ভিত্তিতে কনটেন্ট নিয়ন্ত্রণের সুযোগ তৈরি হয়েছে। এছাড়া খসড়ায় মর্যাদা ও আত্মসম্মানবোধের মতো বিষয়গুলোকে অস্পষ্টভাবে সংজ্ঞায়িত করা হয়েছে, যা আন্তর্জাতিক মানবাধিকার আইনের সাথে সঙ্গতিপূর্ণ নয়।",
+        "details_en": "In a statement issued on 23 November, the human rights organisation said the proposed amendments contained vague provisions that could allow government agencies to block, remove or relocate online content under broad standards. Amnesty said the use of phrases lowering the threshold for restricting content based on speculative assessments of potential harm raised concerns. The draft also retains criminal penalties for expression based on broad concepts such as deception, harm, panic and social unrest.",
+        "hook_bn": "অনলাইন বাকস্বাধীনতা সীমিত করতে পারে সাইবার আইন",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": "প্রস্তাবিত সাইবার সুরক্ষা আইনের বিধানগুলো নিয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T02:02:56.526547+00:00"
+      }
+    },
+    {
+      "story_id": "76ef2e59-97ea-5d2f-af0a-63ab31b7b12c",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#JhumCultivation",
+        "#ChittagongHillTracts",
+        "#FoodSecurity",
+        "#Agriculture"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/24/p5_bandarban_jhum_rice_cultivation_photo8.jpg.jpeg",
+      "image_caption": null,
+      "published_at": "2026-11-24T01:25:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4133,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/agriculture/jhum-cultivation-shrinks-19-cht-over-5-years-raising-food-insecurity-risks-1612136",
+          "title": "Jhum cultivation shrinks 19% in CHT over 5 years, raising food insecurity risks",
+          "snippet": "Jhum cultivation shrinks 19% in CHT over 5 years, raising food insecurity risks"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পার্বত্য চট্টগ্রামে পাঁচ বছরে জুম চাষ কমেছে ১৯ শতাংশ",
+        "title_en": "Jhum cultivation shrinks 19% in CHT over 5 years",
+        "summary_bn": "পার্বত্য চট্টগ্রামের তিন জেলায় গত পাঁচ বছরে আউশ ধানের জুম চাষের আওতা ১৮ দশমিক ৭৪ শতাংশ কমেছে।",
+        "summary_en": "The area under jhum cultivation of Aus rice in the three hill districts of the CHT has shrunk by 18.74% over five years.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T01:25:00+00:00",
+        "lead_bn": "পার্বত্য চট্টগ্রামের তিন জেলায় গত পাঁচ বছরে আউশ ধানের জুম চাষের আওতা ১৮ দশমিক ৭৪ শতাংশ কমেছে।",
+        "lead_en": "The area under jhum cultivation of Aus rice in the three hill districts of the CHT has shrunk by 18.74% over five years.",
+        "bullets_bn": [
+          "উৎপাদন প্রায় ১০ শতাংশ কমেছে এবং তিন জেলায় বার্ষিক চালের ঘাটতি প্রায় ২০৩,০০০ টন।",
+          "কৃষি সম্প্রসারণ অধিদপ্তর জানায় যে স্থানীয় উৎপাদন তিন পাহাড়ি জেলার চালের চাহিদার মাত্র ১৭ দশমিক ৮ শতাংশ পূরণ করে।",
+          "খাগড়াছড়িতে পতন সবচেয়ে তীব্র হয়েছে যেখানে ছয় বছরে চাষের জমি ৫৩ দশমিক ৪ শতাংশ কমেছে।"
+        ],
+        "bullets_en": [
+          "Production has declined by around 10% and the three districts face an annual rice deficit of nearly 203,000 tonnes.",
+          "According to the Department of Agricultural Extension, local production meets only 17.8% of the three hill districts' rice demand.",
+          "The decline has been sharper in Khagrachhari, where the cultivated area shrank by 53.4% over six years."
+        ],
+        "impact_bn": "জুম চাষ সংকুচিত হওয়ায় এবং চালের উৎপাদন কমায় অনেক কৃষক পরিবারের সারা বছরের খাদ্যের চাহিদা মেটাতে পারছে না এবং বাজারে নির্ভরতা বাড়ছে।",
+        "impact_en": "As jhum farming contracts, many farmers can no longer meet their families' year-round food needs and dependence on market purchases is increasing.",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "পার্বত্য চট্টগ্রামে জুম চাষ কমেছে ১৯ শতাংশ",
+        "kicker_bn": "খাদ্য নিরাপত্তা",
+        "share_value": false,
+        "question_bn": "পার্বত্য চট্টগ্রামে জুম চাষ কমে যাওয়ার পেছনে আপনার কী মনে হয় প্রধান কারণ কী?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T02:02:56.526547+00:00"
+      }
+    },
+    {
+      "story_id": "b226401e-111e-525e-9d6f-5f09223d1cd6",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Pabna",
+        "#Ishwardi",
+        "#ChhatraDal",
+        "#JuboLeague"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1693585172757-b9e057feb878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFybGlhbWVudCUyMGxhdyUyMGNvdXJ0JTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1NDEwMDg5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-24T01:36:02+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.439,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425574/5-chhatra-dal-men-shot-accused-jubo-league",
+          "title": "5 Chhatra Dal men shot, accused Jubo League leader’s house torched in Pabna",
+          "snippet": "5 Chhatra Dal men shot, accused Jubo League leader’s house torched in Pabna"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পাবনায় ৫ ছাত্রদল কর্মী গুলিবিদ্ধ ও যুবলীগ নেতার বাড়িতে আগুন",
+        "title_en": "Five Chhatra Dal men shot and Jubo League leader's house torched in Pabna",
+        "summary_bn": "পাবনার ঈশ্বরদীতে যুবলীগ নেতার বাড়িতে আগুন দেওয়া হয়েছে এবং পাঁচ ছাত্রদল নেতা-কর্মী গুলিবিদ্ধ হয়েছেন।",
+        "summary_en": "A Jubo League leader's house was set on fire and five Chhatra Dal men were shot in Ishwardi, Pabna.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T01:36:02+00:00",
+        "lead_bn": "পাবনার ঈশ্বরদীতে যুবলীগ নেতার বাড়িতে আগুন দেওয়া হয়েছে এবং পাঁচ ছাত্রদল নেতা-কর্মী গুলিবিদ্ধ হয়েছেন।",
+        "lead_en": "A Jubo League leader's house was set on fire and five Chhatra Dal men were shot in Ishwardi, Pabna.",
+        "bullets_bn": [
+          "স্থানীয় ও প্রত্যক্ষদর্শীদের মতে, দুর্বৃত্তদের হামলায় পাঁচ ছাত্রদল নেতা-কর্মী গুলিবিদ্ধ হন।",
+          "উপজেলার সারা ইউনিয়নে যুবলীগ নেতার বাড়িতে আগুন লাগার ঘটনা ঘটে।",
+          "ছাত্রদল নেতাদের ওপর হামলার সঙ্গে ওই নেতার জড়িত থাকার অভিযোগের জেরে এই ঘটনা ঘটে।"
+        ],
+        "bullets_en": [
+          "According to locals and witnesses, five Chhatra Dal leaders and activists were shot in an attack by miscreants.",
+          "The fire at the Jubo League leader's house broke out in Sara Union of the upazila.",
+          "The incident followed allegations of the leader's involvement in an attack on Chhatra Dal leaders and activists."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "পাবনার ঈশ্বরদীতে ছাত্রদল নেতাদের ওপর হামলার অভিযোগ ওঠার পর এর জেরে এক যুবলীগ নেতার বাড়িতে আগুন দেওয়া হয়। হামলার সময় পাঁচ ছাত্রদল নেতা ও কর্মী গুলিবিদ্ধ হন বলে স্থানীয় ও প্রত্যক্ষদর্শীরা জানিয়েছেন।",
+        "details_en": "Following allegations of his involvement in an attack on Chhatra Dal leaders and activists, a house belonging to a Jubo League leader was set on fire in Ishwardi, Pabna. Locals and witnesses reported that five Chhatra Dal leaders and activists were shot during the events.",
+        "hook_bn": "পাবনায় ছাত্রদল কর্মী গুলিবিদ্ধ ও বাড়িতে আগুন",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T02:02:56.526547+00:00"
+      }
+    }
+  ]
 }
