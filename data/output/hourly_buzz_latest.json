@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-24T07:00:47.822855",
+  "updated_at": "2026-11-24T08:00:47.543127",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "d1f3bcd1-e240-5265-a86e-a6b1bc2e61f0",
+      "story_id": "5ffb2e9b-b87f-5125-bd5e-4c6bd4499489",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business",
@@ -11,30 +11,36 @@
       ],
       "region": "national",
       "tags": [
-        "#HSIA",
-        "#SumitomoCorporation",
-        "#BimanBangladeshAirlines",
-        "#CAAB"
+        "#BangladeshBank",
+        "#AgraniBank",
+        "#BankingSector",
+        "#NonPerformingLoans"
       ],
-      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_d5d7a87460464aafc907326e2bbbdb76.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2024/09/03/agrani_bank_chairman_naser.png",
       "image_caption": null,
-      "published_at": "2026-11-24T07:01:04.337438+00:00",
+      "published_at": "2026-11-24T07:35:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 4.3446,
+      "importance_score": 6.0,
+      "rank_score": 3.4999,
       "sources": [
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/hsia-third-terminal-flight-opening-gets-cabinet-approval",
-          "title": "HSIA third-terminal flight opening gets cabinet approval",
-          "snippet": "HSIA third-terminal flight opening gets cabinet approval"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/banking/effects-some-bb-loan-policies-show-results-december-1612376",
+          "title": "Effects of some BB loan policies to show results by December",
+          "snippet": "Effects of some BB loan policies to show results by December"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/business/money-and-investment/982909/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95-%E0%A6%96%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A4-%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A7%AA-%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%A8%E0%A6%BE-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%AA%E0%A6%BF",
+          "title": "ব্যাংক খাতের ক্ষত সারাতে ৪ বছরের পরিকল্পনা, খেলাপি ঋণ কমাতে বেঁধে দেওয়া হলো সময়",
+          "snippet": "ব্যাংক খাতের ক্ষত সারাতে ৪ বছরের পরিকল্পনা, খেলাপি ঋণ কমাতে বেঁধে দেওয়া হলো সময়"
         }
       ],
       "daily_buzz": {
-        "title_bn": "হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দরের তৃতীয় টার্মিনালের ফ্লাইট পরিচালনার অনুমোদন মিলেছে।",
-        "title_en": "HSIA third-terminal flight opening gets cabinet approval.",
-        "summary_bn": "হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দরের তৃতীয় টার্মিনাল পরিচালনার জন্য জাপানি অপারেটরের সঙ্গে কনসেশন চুক্তি অনুমোদন করেছে সরকারি মন্ত্রিসভা কমিটি।",
-        "summary_en": "The government approved the concessionaire agreement to operate the third terminal of Hazrat Shahjalal International Airport with a Japanese operator.",
+        "title_bn": "বাংলাদেশ ব্যাংক ব্যাংকিং খাতের সংস্কারে চার বছরের পরিকল্পনা নিয়েছে",
+        "title_en": "Bangladesh Bank adopts four-year plan to reform banking sector",
+        "summary_bn": "বাংলাদেশ ব্যাংক দুর্বল ব্যাংকগুলোর আর্থিক ভিত্তি শক্তিশালী করতে এবং খেলাপি ঋণ কমাতে চার বছর মেয়াদি সংস্কার পরিকল্পনা নিয়েছে।",
+        "summary_en": "Bangladesh Bank has adopted a four-year reform plan to strengthen weak banks and reduce non-performing loans.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -42,35 +48,129 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-24T07:01:04.337438+00:00",
-        "lead_bn": "হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দরের তৃতীয় টার্মিনাল পরিচালনার জন্য জাপানি অপারেটরের সঙ্গে কনসেশন চুক্তি অনুমোদন করেছে সরকারি মন্ত্রিসভা কমিটি।",
-        "lead_en": "The government approved the concessionaire agreement to operate the third terminal of Hazrat Shahjalal International Airport with a Japanese operator.",
+        "published_at": "2026-11-24T07:35:00+00:00",
+        "lead_bn": "বাংলাদেশ ব্যাংক দুর্বল ব্যাংকগুলোর আর্থিক ভিত্তি শক্তিশালী করতে এবং খেলাপি ঋণ কমাতে চার বছর মেয়াদি সংস্কার পরিকল্পনা নিয়েছে।",
+        "lead_en": "Bangladesh Bank has adopted a four-year reform plan to strengthen weak banks and reduce non-performing loans.",
         "bullets_bn": [
-          "সুমিতোমো কর্পোরেশন-নেতৃত্বাধীন জাপানি কনসোর্টিয়াম পরবর্তী ১৫ বছরের জন্য টার্মিনাল ৩ পরিচালনা ও রক্ষণাবেক্ষণ করবে।",
-          "বেসামরিক বিমান পরিবহন ও পর্যটন মন্ত্রী এম রাশিদুজ্জামান মিল্লাত আগামী ৩০ নভেম্বরের মধ্যে চুক্তি স্বাক্ষরের সিদ্ধান্ত ঘোষণা করেছেন।",
-          "১৬ ডিসেম্বর বিজয় দিবসে টার্মিনালটির সফট ওপেনিংয়ের ঘোষণা দেওয়া হয়েছে এবং প্রথম দিন বিমান বাংলাদেশ এয়ারলাইন্স ফ্লাইট পরিচালনা করবে।"
+          "বাংলাদেশ ব্যাংকের গৃহీত সংস্কার পরিকল্পনার আওতায় প্রয়োজন অনুযায়ী নতুন মূলধন জোগান ও পরিচালনা পর্ষদ পুনর্গঠনের উদ্যোগ নেওয়া হয়েছে।",
+          "অগ্রণী ব্যাংকের খেলাপি ঋণের অনুমাত্রা গত বছরের ডিসেম্বর পর্যন্ত প্রায় ১৯ শতাংশ ছিল।",
+          "বাংলাদেশ ব্যাংকের ঋণ অবলোপন ও প্রস্থান নীতির ফলাফল মূল্যায়ন করতে অন্তত এক বছর সময় দেওয়া প্রয়োজন।"
         ],
         "bullets_en": [
-          "A Sumitomo Corporation-led Japanese consortium will operate and maintain Terminal-3 for the next 15 years.",
-          "Civil Aviation and Tourism Minister M Rashiduzzaman Millat announced a decision to sign the agreement by November 30.",
-          "The soft opening is announced for December 16, marking Victory Day, with Biman Bangladesh Airlines operating inaugural flights on the first day."
+          "The reform plan includes providing new capital as needed and reconstructing boards of directors.",
+          "Agrani Bank's non-performing loan ratio was around 19% as of December last year.",
+          "At least a year is needed to assess the results of Bangladesh Bank's write-off and exit policies."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "অর্থমন্ত্রী আমীর খসরু মাহমুদ চৌধুরীর সভাপতিত্বে অর্থনৈতিক বিষয়সংক্রান্ত মন্ত্রিসভা কমিটির সভায় এই চুক্তি অনুমোদিত হয়। চুক্তি স্বাক্ষরের ১৫ দিনের মধ্যে টার্মিনালটি জাপানি পক্ষের কাছে হস্তান্তর করার কথা রয়েছে। তবে জাপানি অংশীদারের মাধ্যমে টার্মিনালের অপারেশনাল কার্যক্রম শুরু হবে টার্মিনাল হস্তান্তরের আট মাস পর, ২৫ শতাংশ ফ্লাইট পরিচালনার মাধ্যমে।",
-        "details_en": "The deal was endorsed in a meeting of the Cabinet Committee on Economic Affairs with Finance Minister Amir Khosru Mahmud Chowdhury in the chair. The agreement must be signed 15 days before the inauguration, meeting a condition to hand over the terminal to the consortium within 15 days thereafter. Operational commencement with the Japanese partner will take place eight months after the handover with 25-percent flight operation.",
-        "hook_bn": "ডিসেম্বরে চালু হচ্ছে তৃতীয় টার্মিনাল",
-        "kicker_bn": "নতুন তারিখ",
-        "share_value": true,
-        "question_bn": "নতুন এই টার্মিনাল চালুর ফলে যাত্রীদের সেবার মান কতটা উন্নত হবে বলে আপনার মনে হয়?"
+        "details_bn": "গত ১৫ বছরে খেলাপি ঋণ ক্রমান্বয়ে বৃদ্ধি পেলেও অতীতে প্রকৃত খেলাপি ঋণের পরিমাণ পুরোপুরি প্রকাশ করা হয়নি। অনেক ক্ষেত্রে ঋণ শ্রেণিও করা হয়নি। এছাড়া খেলাপি ঋণ বাড়ার পেছনে ঋণ শ্রেণিকরণের সময়সীমা ছয় মাস থেকে কমিয়ে তিন মাস করাও একটি কারণ।",
+        "details_en": "Over the past 15 years, non-performing loans have risen steadily, but the actual extent of default loans was not fully disclosed in the past. In many cases, loans were not classified. Another factor behind the rise in NPLs is the shortening of the loan classification period from six months to three months.",
+        "hook_bn": "ব্যাংকিং খাতের ক্ষত সারাতে চার বছরের পরিকল্পনা",
+        "kicker_bn": "নতুন পরিকল্পনা",
+        "share_value": false,
+        "question_bn": "ব্যাংকিং খাতের বর্তমান পরিস্থিতি উন্নয়নে আর কী কী পদক্ষেপ নেওয়া উচিত বলে আপনার মনে হয়?"
       },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-24T07:04:19.577297+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-24T08:05:50.537780+00:00"
       }
     },
     {
-      "story_id": "f9292b93-9c45-5cff-8d00-9357d1a5470f",
+      "story_id": "7c948fe1-440d-55a6-8ebb-bd53e1e71f5a",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#SayeedKhokon",
+        "#DetectiveBranch",
+        "#DhakaCourt"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/17/sayeed_khokon_-new_0.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-24T06:45:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.75,
+      "rank_score": 3.0632,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/court/db-seeks-another-7-day-remand-sayeed-khokon-accuses-him-misleading-investigators",
+          "title": "DB seeks another 7-day remand for Sayeed Khokon, accuses him of misleading investigators",
+          "snippet": "DB seeks another 7-day remand for Sayeed Khokon, accuses him of misleading investigators"
+        },
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/law-justice/post-1225015/",
+          "title": "মোতালিব হত্যা মামলায় সাঈদ খোকনকে ফের রিমান্ডে নিতে আবেদন",
+          "snippet": "মোতালিব হত্যা মামলায় সাঈদ খোকনকে ফের রিমান্ডে নিতে আবেদন"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822754/%E0%A6%AA%E0%A6%BE%E0%A6%81%E0%A6%9A-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%88%E0%A6%A6-%E0%A6%96%E0%A7%8B%E0%A6%95%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A7%AD-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A7%9F",
+          "title": "পাঁচ কারণে সাঈদ খোকনকে আরও ৭ দিনের রিমান্ডে চায় ডিবি",
+          "snippet": "পাঁচ কারণে সাঈদ খোকনকে আরও ৭ দিনের রিমান্ডে চায় ডিবি"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/said-khokon-7-day-remand-sought/",
+          "title": "সাঈদ খোকনের আরও ৭ দিনের রিমান্ড চায় ডিবি",
+          "snippet": "সাঈদ খোকনের আরও ৭ দিনের রিমান্ড চায় ডিবি"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সাঈদ খোকনকে ফের সাতদিনের রিমান্ডে নিতে আবেদন ডিবির",
+        "title_en": "DB seeks fresh seven-day remand for Sayeed Khokon",
+        "summary_bn": "কিশোর আবদুল মোতালেব হত্যা মামলায় ঢাকা দক্ষিণ সিটি করপোরেশনের সাবেক মেয়র মোহাম্মদ সাঈদ খোকনকে আরও সাত দিনের রিমান্ডে নিতে আবেদন করেছে গোয়েন্দা পুলিশ।",
+        "summary_en": "Detective Branch of police has sought a fresh seven-day remand for former Dhaka South City Corporation mayor Mohammad Sayeed Khokon over a murder case.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T06:45:00+00:00",
+        "lead_bn": "কিশোর আবদুল মোতালেব হত্যা মামলায় ঢাকা দক্ষিণ সিটি করপোরেশনের সাবেক মেয়র মোহাম্মদ সাঈদ খোকনকে আরও সাত দিনের রিমান্ডে নিতে আবেদন করেছে গোয়েন্দা পুলিশ।",
+        "lead_en": "Detective Branch of police has sought a fresh seven-day remand for former Dhaka South City Corporation mayor Mohammad Sayeed Khokon over a murder case.",
+        "bullets_bn": [
+          "তদন্ত কর্মকর্তা ডিবির রমনা জোনাল টিমের পরিদর্শক মো. সুজন হক ২৪ নভেম্বর সিএমএম আদালতে এ রিমান্ড আবেদন করেন।",
+          "তদন্তের সময় সাঈদ খোকন অসংলগ্ন উত্তর দিয়েছেন এবং মূল অভিযুক্তদের অবস্থান গোপনের চেষ্টা করেছেন বলে ডিবির রিমান্ড আবেদনে উল্লেখ করা হয়েছে।",
+          "রাষ্ট্রপক্ষের আইনজীবী হারুন-অর-রশীদ জানিয়েছেন যে এ বিষয়ে আদালতে শুনানির তারিখ নির্ধারিত রয়েছে।"
+        ],
+        "bullets_en": [
+          "Investigation officer Md Sujan Haque filed the remand petition at the CMM court on 24 November.",
+          "The remand petition states that Khokon gave inconsistent answers and avoided key questions during his previous interrogation.",
+          "Public Prosecutor Harun Or-Rashid confirmed that a hearing on the petition is scheduled at the court."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "জুলাই আন্দোলনের সময় রাজধানীর ধানমন্ডির জিগাতলায় কিশোর আবদুল মোতালেব হত্যা মামলায় এর আগে সাঈদ খোকনকে সাত দিনের রিমান্ডে নিয়ে ডিএমপি হেডকোয়ার্টারে জিজ্ঞাসাবাদ করা হয়েছিল। প্রাথমিক জিজ্ঞাসাবাদে তার সরাসরি সম্পৃক্ততা পাওয়া গেছে বলে দাবি করেছে ডিবি।",
+        "details_en": "Khokon was previously placed on a seven-day remand and intensively interrogated at the DMP headquarters following a court order on 17 November in connection with the killing of teenager Abdul Motaleb during the July Uprising.",
+        "hook_bn": "সাঈদ খোকনের ফের সাতদিনের রিমান্ড চায় ডিবি",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 4,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T08:05:50.537780+00:00"
+      }
+    },
+    {
+      "story_id": "8e21e5fc-63b2-58d5-99ee-a13fbc4d1a1f",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -80,326 +180,275 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1627317764899-eb00cfc40ac2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8c2hlaWtoJTIwaGFzaW5hJTIwcmV0dXJuJTIwYW5ub3VuY2VtZW50JTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1NTAzODQyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1624417963912-8532660d9de8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZG91YmxlJTIwcmVudCUyMHN0YXlpbmclMjBnb3Zlcm5tZW50JTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1NTA3NDkwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-24T06:59:23+00:00",
+      "published_at": "2026-11-24T07:53:04+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 4.3375,
+      "importance_score": 5.25,
+      "rank_score": 2.7266,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/982898/%E0%A6%AD%E0%A6%BE%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%B8-%E0%A6%B6%E0%A7%87%E0%A6%96-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A6%B2%E0%A7%87%E0%A6%A8%E0%A6%A8%E0%A6%BF-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%B9%E0%A7%9F%E0%A7%87",
-          "title": "ভাগ্যিস শেখ হাসিনা বলেননি, তিনি প্রধানমন্ত্রী হয়ে ফিরতে চান: তথ্য উপদেষ্টা",
-          "snippet": "ভাগ্যিস শেখ হাসিনা বলেননি, তিনি প্রধানমন্ত্রী হয়ে ফিরতে চান: তথ্য উপদেষ্টা"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822760/%E0%A6%AC%E0%A6%A6%E0%A6%B2%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%93-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%B2%E0%A7%87-%E0%A6%97%E0%A7%81%E0%A6%A8%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%AC%E0%A7%87-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%97%E0%A7%81%E0%A6%A3",
+          "title": "বদলির পরও সরকারি বাসায় থাকলে গুনতে হবে দ্বিগুণ ভাড়া",
+          "snippet": "বদলির পরও সরকারি বাসায় থাকলে গুনতে হবে দ্বিগুণ ভাড়া"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/national/500464",
+          "title": "বদলির পর সরকারি বাসায় থাকলে দ্বিগুণ ভাড়া গুনতে হবে",
+          "snippet": "বদলির পর সরকারি বাসায় থাকলে দ্বিগুণ ভাড়া গুনতে হবে"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শেখ হাসিনার দেশে ফেরার ঘোষণা রাজনৈতিক ব্লাফ: তথ্য উপদেষ্টা",
-        "title_en": "Sheikh Hasina return announcement is a political bluff: Information Advisor",
-        "summary_bn": "প্রধানমন্ত্রীর তথ্য উপদেষ্টা ডা. জাহেদ উর রহমান বলেছেন, আগামী ১৬ ডিসেম্বর দেশে ফেরার বিষয়ে শেখ হাসিনার ঘোষণা রাজনৈতিক ব্লাফ বা প্রতারণা ছাড়া কিছুই নয়।",
-        "summary_en": "Prime Minister's Information Advisor Dr. Zahed Ur Rahman said Sheikh Hasina's announcement to return to the country on December 16 is nothing but a political bluff.",
+        "title_bn": "বদলির পরও সরকারি বাসায় থাকলে দিতে হবে দ্বিগুণ ভাড়া",
+        "title_en": "Double rent for staying in government quarters after transfer",
+        "summary_bn": "ঢাকা ও চট্টগ্রাম সিটি করপোরেশন এলাকার বাইরে বদলি হওয়ার পরও সরকারি বাসা দখলে রাখলে নির্ধারিত সময় শেষে দ্বিগুণ ভাড়া দিতে হবে।",
+        "summary_en": "Government employees occupying official quarters after transfer outside Dhaka and Dhaka City Corporation areas must pay double rent after the deadline.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-24T06:59:23+00:00",
-        "lead_bn": "প্রধানমন্ত্রীর তথ্য উপদেষ্টা ডা. জাহেদ উর রহমান বলেছেন, আগামী ১৬ ডিসেম্বর দেশে ফেরার বিষয়ে শেখ হাসিনার ঘোষণা রাজনৈতিক ব্লাফ বা প্রতারণা ছাড়া কিছুই নয়।",
-        "lead_en": "Prime Minister's Information Advisor Dr. Zahed Ur Rahman said Sheikh Hasina's announcement to return to the country on December 16 is nothing but a political bluff.",
+        "published_at": "2026-11-24T07:53:04+00:00",
+        "lead_bn": "ঢাকা ও চট্টগ্রাম সিটি করপোরেশন এলাকার বাইরে বদলি হওয়ার পরও সরকারি বাসা দখলে রাখলে নির্ধারিত সময় শেষে দ্বিগুণ ভাড়া দিতে হবে।",
+        "lead_en": "Government employees occupying official quarters after transfer outside Dhaka and Dhaka City Corporation areas must pay double rent after the deadline.",
         "bullets_bn": [
-          "ডা. জাহেদ উর রহমান সচিবালয়ে এক সংবাদ সম্মেলনে এই মন্তব্য করেন।",
-          "তিনি জানান, শেখ হাসিনা বাংলাদেশে আসবেন কি না, সেই আলোচনা ভারতের সঙ্গে হবে।",
-          "তিনি আরও বলেন, কোনও অপরাধীর সঙ্গে আলোচনা হবে না।"
+          "বাংলাদেশ বরাদ্দ বিধিমালা, ১৯৮২ অনুযায়ী বদলির দুই মাসের মধ্যে সরকারি বাসার দখল ছাড়তে হবে।",
+          "সন্তানের লেখাপড়ার বিষয় বিবেচনায় সরকারের অনুমোদন সাপেক্ষে সর্বোচ্চ ছয় মাস পর্যন্ত বাসার বরাদ্দ বহাল রাখা যাবে।",
+          "এ বিষয়ে সরকারি কর্মকর্তা-কর্মচারীদের সতর্ক করা হয়েছে।"
         ],
         "bullets_en": [
-          "Dr. Zahed Ur Rahman made this remark at a press conference at the secretariat.",
-          "He stated that discussions about whether Sheikh Hasina will come to Bangladesh will take place with India.",
-          "He also said that no discussions will be held with any criminal."
+          "According to the Government Allocation Rules, 1982, official quarters must be vacated within two months of transfer.",
+          "Allocation can be maintained for up to six months with government approval considering children education.",
+          "Government officials and employees have been warned regarding this matter."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইত্তেফাক পত্রিকার প্রতিবেদন অনুযায়ী, ঢাকা ও চট্টগ্রাম সিটি করপোরেশন এলাকার বাইরে বদলি বা পদায়ন হওয়ার পরও সরকারি বাসা দখলে রাখলে নির্ধারিত সময় শেষে দ্বিগুণ হারে বাড়িভাড়া দিতে হবে। এ বিষয়ে সরকারি কর্মকর্তা-কর্মচারীদের সতর্ক করা হয়েছে।",
+        "details_en": "According to the report by Ittefaq, government officials occupying official quarters after transfer outside Dhaka and Chattogram City Corporation areas must pay double house rent after the specified time. Government employees have been warned about this matter.",
+        "hook_bn": "বদলির পরও সরকারি বাসায় থাকলে দ্বিগুণ ভাড়া",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": "বদলির পর সরকারি বাসা ছাড়ার এই নিয়ম নিয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T08:05:50.537780+00:00"
+      }
+    },
+    {
+      "story_id": "aa8f97b7-4a02-59e3-9d27-638410da84fd",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-21%2Fcnuzteih%2FWhatsApp_Image_2026_11_21_at_7_18_20_PM.jpeg?rect=0%2C22%2C1122%2C589&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-24T07:45:23+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4549,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/l4xdl6lelk",
+          "title": "প্যারোলে মুক্ত বাদল ফরাজী, ১৮ বছর পর বাগেরহাটে নিজের বাড়িতে যাচ্ছেন",
+          "snippet": "প্যারোলে মুক্ত বাদল ফরাজী, ১৮ বছর পর বাগেরহাটে নিজের বাড়িতে যাচ্ছেন"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "১৮ বছর পর চার সপ্তাহের প্যারোলে মুক্তি পেলেন বাদল ফরাজি",
+        "title_en": "Badal Faraji released on four-week parole after 18 years in prison",
+        "summary_bn": "ভারতে ভুল মামলায় সাজাপ্রাপ্ত বাংলাদেশি নাগরিক বাদল ফরাজিকে চার সপ্তাহের জন্য প্যারোলে মুক্তি দেওয়া হয়েছে।",
+        "summary_en": "Bangladeshi citizen Badal Faraji, wrongly convicted in a murder case in India, has been released on a four-week parole.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T07:45:23+00:00",
+        "lead_bn": "ভারতে ভুল মামলায় সাজাপ্রাপ্ত বাংলাদেশি নাগরিক বাদল ফরাজিকে চার সপ্তাহের জন্য প্যারোলে মুক্তি দেওয়া হয়েছে।",
+        "lead_en": "Bangladeshi citizen Badal Faraji, wrongly convicted in a murder case in India, has been released on a four-week parole.",
+        "bullets_bn": [
+          "নামের মিলের কারণে ভারতে ভুল মামলায় জড়ানো বাদল ফরাজিকে কাশিমপুর কেন্দ্রীয় কারাগার থেকে পুলিশের কাছে হস্তান্তর করা হয়েছে।",
+          "গাজীপুরের জেলা প্রশাসক জানান, মানবিক কারণে স্বাভাবিক ১২ ঘণ্টার পরিবর্তে চার সপ্তাহের এই বিশেষ প্যারোল মঞ্জুর করা হয়েছে।",
+          "মুক্তির পর বাদল ফরাজিকে পুলিশের প্রহরায় বাগেরহাটের মোংলায় নিজ স্থায়ী ঠিকানায় পৌঁছে দেওয়ার ব্যবস্থা করা হচ্ছে।"
+        ],
+        "bullets_en": [
+          "Implicated in India due to a name mix-up, Badal Faraji was handed over to police from Kashimpur Central Jail.",
+          "Gazipur District Magistrate said a four-week parole was granted instead of the usual 12 hours on humanitarian grounds.",
+          "Following his release, arrangements were made to escort Badal Faraji safely to his permanent address in Mongla, Bagerhat."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "২০০৮ সালের ৬ মে দিল্লির একটি হত্যা মামলায় গৃহকর্মী বাদল সিংকে খুঁজছিল ভারতীয় পুলিশ। ২০০৮ সালের ১৩ জুলাই পর্যটক ভিসায় ভারতে গেলে বিএসএফ বাদল ফরাজিকে আটক করে সেই হত্যা মামলায় গ্রেপ্তার দেখায়। বিচারে যাবজ্জীবন কারাদণ্ড পেয়ে প্রায় ১০ বছর ভারতের কারাগারে বন্দী থাকার পর ২০১৮ সালে বন্দী বিনিময় চুক্তির আওতায় তাঁকে বাংলাদেশে ফিরিয়ে আনা হয়। এর পর থেকে তিনি দেশের কারাগারে বন্দী ছিলেন।",
+        "details_en": "In 2008, Indian police sought domestic help Badal Singh over a Delhi murder. On July 13, 2008, Badal Faraji entered India on a tourist visa, where BSF detained him mistaking him for Badal Singh. Sentenced to life imprisonment, he spent nearly 10 years in Indian prisons before being returned to Bangladesh in 2018 under a prisoner exchange treaty, where he remained incarcerated until his parole.",
+        "hook_bn": "১৮ বছর পর প্যারোলে মুক্ত বাদল ফরাজি",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T08:05:50.537780+00:00"
+      }
+    },
+    {
+      "story_id": "c4c40192-47d0-5308-b810-eb8889fbb7c9",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Macquarie",
+        "#EDOTCO",
+        "#Axiata",
+        "#Bangladesh"
+      ],
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Edotco.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-24T07:30:35+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4202,
+      "sources": [
+        {
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/news/australias-macquarie-led-group-buy-edotco-tower-businesses-bangladesh-four-other-markets-12b-reports-4331911",
+          "title": "Australia's Macquarie-led group to buy EDOTCO tower businesses in Bangladesh, four other markets for $1.2b, reports Reuters",
+          "snippet": "Australia's Macquarie-led group to buy EDOTCO tower businesses in Bangladesh, four other markets for $1.2b, re"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ম্যাককোয়ারির নেতৃত্বাধীন গোষ্ঠী ১.২ বিলিয়ন ডলারে এডোটকোর টাওয়ার ব্যবসা কিনছে।",
+        "title_en": "Macquarie-led group to buy EDOTCO tower businesses for $1.2b.",
+        "summary_bn": "অস্ট্রেলিয়ার ম্যাককোয়ারি গ্রুপের নেতৃত্বাধীন একটি কনসোর্টিয়াম ১.২ বিলিয়ন ডলারে বাংলাদেশের এডোটকো সহ পাঁচ বাজারের টাওয়ার ব্যবসা অধিগ্রহণের চুক্তি করেছে।",
+        "summary_en": "A Macquarie Group-led consortium agreed to acquire EDOTCO Group tower businesses across five markets, including Bangladesh, for $1.2 billion.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T07:30:35+00:00",
+        "lead_bn": "অস্ট্রেলিয়ার ম্যাককোয়ারি গ্রুপের নেতৃত্বাধীন একটি কনসোর্টিয়াম ১.২ বিলিয়ন ডলারে বাংলাদেশের এডোটকো সহ পাঁচ বাজারের টাওয়ার ব্যবসা অধিগ্রহণের চুক্তি করেছে।",
+        "lead_en": "A Macquarie Group-led consortium agreed to acquire EDOTCO Group tower businesses across five markets, including Bangladesh, for $1.2 billion.",
+        "bullets_bn": [
+          "ম্যাককোয়ারি গ্রুপ জানায়, এই লেনদেনের মধ্যে ফিলিপাইন, ইন্দোনেশিয়া, পাকিস্তান এবং কম্বোডিয়ার এডোটকোর কার্যক্রমও অন্তর্ভুক্ত রয়েছে।",
+          "এডোটকো বাংলাদেশ প্রায় ১৭,০০০ টাওয়ার নিয়ে দেশের বৃহত্তম টেলিযোগাযোগ টাওয়ার অবকাঠামো কোম্পানি।",
+          "ম্যাককোয়ারি এশিয়া-প্যাসিফিক ইনফ্রাস্ট্রাকচার ফান্ড ৪ ফিলিপাইনের এডোটকো টাওয়ার্স ইনক অধিগ্রহণ করবে।"
+        ],
+        "bullets_en": [
+          "The transaction covers EDOTCO operations in the Philippines, Indonesia, Pakistan and Cambodia, according to Macquarie Group.",
+          "EDOTCO Bangladesh is the country's largest telecommunications tower infrastructure company with nearly 17,000 towers.",
+          "Macquarie Asia-Pacific Infrastructure Fund 4 will acquire EDOTCO Towers Inc in the Philippines."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "রাজনৈতিক ব্লাফ ছাড়া কিছুই নয়",
-        "kicker_bn": "বক্তব্য",
+        "hook_bn": "১.২ বিলিয়ন ডলারে এডোটকোর টাওয়ার ব্যবসা বিক্রি",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-24T07:04:19.577297+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-24T08:05:50.537780+00:00"
       }
     },
     {
-      "story_id": "fbade4d2-969d-5620-86d4-782c2348cc99",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/lawyer-20261124124651.jpg?cid=500446",
-      "image_caption": null,
-      "published_at": "2026-11-24T06:46:51+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 4.2855,
-      "sources": [
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/national/500446",
-          "title": "সাঈদ খোকনের আইনজীবীকে হেনস্তা, অনুচিত বললেন প্রধানমন্ত্রীর উপদেষ্টা",
-          "snippet": "সাঈদ খোকনের আইনজীবীকে হেনস্তা, অনুচিত বললেন প্রধানমন্ত্রীর উপদেষ্টা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সাঈদ খোকনের আইনজীবীকে আদালত চত্বরে হেনস্তা অনুচিত বললেন উপদেষ্টা",
-        "title_en": "Adviser calls harassment of Sayed Khokon lawyer at court inappropriate",
-        "summary_bn": "প্রধানমন্ত্রীর তথ্য ও সম্প্রচারবিষয়ক উপদেষ্টা ডা. জাহেদ উর রহমান আদালত চত্বরে সাবেক মেয়র সাঈদ খোকনের আইনজীবীকে হেনস্তার ঘটনাকে অনুচিত ও অন্যায় বলে মন্তব্য করেছেন।",
-        "summary_en": "Prime Minister Info and Broadcasting Adviser Dr. Zahed Ur Rahman termed the harassment of former mayor Sayed Khokon's lawyer inappropriate.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-24T06:46:51+00:00",
-        "lead_bn": "প্রধানমন্ত্রীর তথ্য ও সম্প্রচারবিষয়ক উপদেষ্টা ডা. জাহেদ উর রহমান আদালত চত্বরে সাবেক মেয়র সাঈদ খোকনের আইনজীবীকে হেনস্তার ঘটনাকে অনুচিত ও অন্যায় বলে মন্তব্য করেছেন।",
-        "lead_en": "Prime Minister Info and Broadcasting Adviser Dr. Zahed Ur Rahman termed the harassment of former mayor Sayed Khokon's lawyer inappropriate.",
-        "bullets_bn": [
-          "ডা. জাহেদ উর রহমান সচিবালয়ে সরকারের কর্মকাণ্ড তুলে ধরতে আয়োজিত নিয়মিত সংবাদ সম্মেলনে এ মন্তব্য করেন।",
-          "সংক্ষুব্ধ ব্যক্তি চাইলে বিচারালয়ে আইনি সহায়তা নিতে পারেন বলে জানান প্রধানমন্ত্রীর উপদেষ্টা।",
-          "এ ধরনের ঘটনার বিচার আদালতের মাধ্যমে হবে বলে আশা প্রকাশ করেন তিনি।"
-        ],
-        "bullets_en": [
-          "Dr. Zahed Ur Rahman made the remarks at a regular press briefing at the secretariat highlighting government activities.",
-          "The Prime Minister's adviser stated that aggrieved persons can seek legal assistance through the judiciary.",
-          "He expressed hope that such incidents will be decided through the courts."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সাবেক মেয়র সাঈদ খোকন আটক হওয়ার পর আদালত চত্বরে তার আইনজীবীকে হেনস্তার ঘটনা ঘটে এবং দেশে মব সংস্কৃতি এখনো দৃশ্যমান রয়েছে। এই বিষয়ে (২৪ ডিসেম্বর) এক প্রশ্নের জবাবে উপদেষ্টা জাহেদ উর রহমান তার মন্তব্য প্রকাশ করেন। তিনি বলেন যে কেউ অন্যায়ের শিকার হলে সংক্ষুব্ধ ব্যক্তি আইনি সহায়তা নিতে পারেন এবং তিনি যেহেতু আইনজীবী, তিনি এ ব্যাপারে আইনি সহায়তা নিতে পারেন।",
-        "details_en": "Following the detention of former mayor Sayed Khokon, his lawyer was harassed at the court premises while mob culture remains visible in the country. Adviser Zahed Ur Rahman expressed his views in response to a question on Tuesday (24 December). He stated that anyone aggrieved by injustice can seek legal assistance, and since the victim is a lawyer, he can take legal help.",
-        "hook_bn": "আইনজীবীকে হেনস্তা খুবই অনুচিত ও অন্যায়",
-        "kicker_bn": "সভাসদ",
-        "share_value": false,
-        "question_bn": "আদালত চত্বরে এ ধরনের আইনজীবী হেনস্তার ঘটনার বিচার কীভাবে হওয়া উচিত বলে আপনি মনে করেন?"
-      },
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-24T07:04:19.577297+00:00"
-      }
-    },
-    {
-      "story_id": "806313e5-7dd7-5bfa-85e7-a5affd2890e8",
+      "story_id": "c740aa8a-175b-58a1-ad9a-d7b5c79cb8dd",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
-        "world_diplomacy"
+        "society_education"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/pm-2.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-24%2Fh0z13b46%2Finner-ring-road-thumbnail-1.png?rect=0%2C0%2C2400%2C1260&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-24T05:39:33+00:00",
+      "published_at": "2026-11-24T07:24:23+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 4.0166,
+      "importance_score": 5.0,
+      "rank_score": 2.4057,
       "sources": [
         {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/national/post-1224955/",
-          "title": "তিন বাহিনীর সামরিক মহড়া দেখতে স্বর্ণদ্বীপের পথে প্রধানমন্ত্রী",
-          "snippet": "তিন বাহিনীর সামরিক মহড়া দেখতে স্বর্ণদ্বীপের পথে প্রধানমন্ত্রী"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/828uop5iti",
+          "title": "পদ্মা সেতু পেরিয়ে পোস্তগোলা হয়ে গাবতলী, ঢাকার যানজট এড়াতে আট লেনের সড়ক",
+          "snippet": "পদ্মা সেতু পেরিয়ে পোস্তগোলা হয়ে গাবতলী, ঢাকার যানজট এড়াতে আট লেনের সড়ক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "প্রধানমন্ত্রী স্বর্ণদ্বীপে তিন বাহিনীর সামরিক মহড়া পরিদর্শনে গেছেন",
-        "title_en": "Prime Minister visits Swarnadwip to inspect tri-services military exercise",
-        "summary_bn": "প্রধানমন্ত্রী তিন বাহিনীর সামরিক মহড়া দেখতে ২৪ নভেম্বর সকালে তেজগাঁও বিমানবন্দর থেকে স্বর্ণদ্বীপের উদ্দেশে রওনা হয়েছেন।",
-        "summary_en": "Prime Minister left Tejgaon airport on the morning of 24 November for Swarnadwip to observe the tri-services military exercise.",
+        "title_bn": "ঢাকার যানজট এড়াতে পদ্মা সেতু থেকে গাবতলী পর্যন্ত আট লেনের সড়ক নির্মাণ কাজ চলছে",
+        "title_en": "Construction of an eight-lane road from Padma Bridge to Gabtoli is underway to avoid traffic.",
+        "summary_bn": "রাজধানীর ভেতরকার ব্যস্ত সড়ক এড়িয়ে দক্ষিণ-পশ্চিমাঞ্চল থেকে গাবতলীমুখী যানবাহন চলাচলের জন্য একটি আট লেনের বিকল্প সড়ক তৈরির উদ্যোগ এগিয়ে যাচ্ছে।",
+        "summary_en": "An initiative is progressing to build an eight-lane alternative road for vehicles heading towards Gabtoli from the southwest, avoiding busy inner-city roads.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law",
-          "world_diplomacy"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-24T05:39:33+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তিন বাহিনীর সামরিক মহড়া দেখতে ২৪ নভেম্বর সকালে তেজগাঁও বিমানবন্দর থেকে স্বর্ণদ্বীপের উদ্দেশে রওনা হয়েছেন।",
-        "lead_en": "Prime Minister left Tejgaon airport on the morning of 24 November for Swarnadwip to observe the tri-services military exercise.",
+        "published_at": "2026-11-24T07:24:23+00:00",
+        "lead_bn": "রাজধানীর ভেতরকার ব্যস্ত সড়ক এড়িয়ে দক্ষিণ-পশ্চিমাঞ্চল থেকে গাবতলীমুখী যানবাহন চলাচলের জন্য একটি আট লেনের বিকল্প সড়ক তৈরির উদ্যোগ এগিয়ে যাচ্ছে।",
+        "lead_en": "An initiative is progressing to build an eight-lane alternative road for vehicles heading towards Gabtoli from the southwest, avoiding busy inner-city roads.",
         "bullets_bn": [
-          "স্বর্ণদ্বীপে যৌথ অনুশীলন মহড়া পরিদর্শন করবেন প্রধানমন্ত্রী এবং দেশীয় প্রযুক্তিতে উদ্ভাবিত সামরিক সরঞ্জামের প্রদর্শনী পর্যবেক্ষণ করবেন।",
-          "মহড়ায় অংশ নিচ্ছে বাংলাদেশ সেনাবাহিনীর প্যারা কমান্ডো ব্রিগেড, সোয়াডস এবং ৫০১ এয়ার রেজিমেন্ট।",
-          "মহড়া পরিদর্শন শেষে বিকেলে প্রধানমন্ত্রী ঢাকায় ফিরে আসবেন বলে জানিয়েছেন অতিরিক্ত প্রেস সচিব আতিকুর রহমান রুমন।"
+          "রায়েরবাজার থেকে কামরাঙ্গীরচরের লোহারপুল পর্যন্ত সরু সড়কটি আট লেনে উন্নীত করা হচ্ছে।",
+          "ঢাকা দক্ষিণ সিটি করপোরেশনের বাস্তবায়নাধীন ইনার সার্কুলার রিং রোডের প্রথম ধাপের ভৌত অগ্রগতি ৫২ শতাংশ।",
+          "ঢাকা দক্ষিণ সিটির প্রশাসক আবদুস সালাম জানিয়েছেন নির্ধারিত সময়ের মধ্যেই প্রথম ধাপের কাজ শেষ হবে।"
         ],
         "bullets_en": [
-          "Prime Minister will inspect the joint exercise at Swarnadwip and observe the exhibition of locally produced military equipment.",
-          "Bangladesh Armypara commando brigade, SWADS and 501 Air Regiment are participating in the exercise.",
-          "Additional Press Secretary Atikul Rahman Rumon stated that the Prime Minister will return to Dhaka in the afternoon after inspecting the exercise."
+          "The narrow road from Rayerbazar to Loharpul in Kamrangirchar is being upgraded to eight lanes.",
+          "The physical progress of the first phase of the Inner Circular Ring Road being implemented by DSCC is ۵۲ percent.",
+          "DSCC administrator Abdus Salam stated that the work of the first phase will be completed within the scheduled time."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "নোয়াখালীর দক্ষিণে বঙ্গোপসাগরে প্রাকৃতিকভাবে জেগে ওঠা স্বর্ণদ্বীপ স্থানীয়ভাবে জাহাইজ্জার চর নামে পরিচিত। ২০১৩ সাল থেকে দ্বীপটিতে বাংলাদেশ সেনাবাহিনী প্রশিক্ষণ মহড়া ও বিভিন্ন উন্নয়ন কার্যক্রম পরিচালনা করে আসছে। তিন বাহিনীর এই যৌথ মহড়ার মাধ্যমে সশস্ত্র বাহিনীর সামরিক সক্ষমতা, পেশাদারিত্ব, আন্তঃবাহিনী সমন্বয় এবং সমন্বিত যুদ্ধপ্রস্তুতির বিষয়গুলো তুলে ধরা হবে।",
-        "details_en": "Swarnadwip, a naturally emerged island in the Bay of Bengal south of Noakhali, is locally known as Jahaijjar Char. Since 2013, the Bangladesh Army has been conducting training exercises and various development activities on the island. This joint exercise of the three forces will showcase the military capability, professionalism, inter-service coordination, and integrated combat preparedness of the armed forces.",
-        "hook_bn": "স্বর্ণদ্বীপে তিন বাহিনীর সামরিক মহড়া",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
+        "impact_bn": "দূরপাল্লার যানবাহন শহরের ভেতর এড়িয়ে চলতে পারলে এবং স্থানীয় সড়ক যুক্ত হলে নগরবাসীর দৈনন্দিন যাতায়াত সহজ হবে এবং স্থানীয় যানবাহনের ওপর চাপ কমবে।",
+        "impact_en": "If long-distance vehicles avoid the city center and local roads are connected, daily commuting for city residents will become easier and pressure on local transport will decrease.",
+        "details_bn": "ঢাকা দক্ষিণ সিটি করপোরেশনের বাস্তবায়নাধীন ইনার সার্কুলার রিং রোডের প্রথম ধাপের রায়েরবাজার–লোহারপুল অংশ ১২০ ফুট চওড়া করা হচ্ছে এবং কাজ শেষ করার নতুন সময়সীমা আগামী বছরের জুন। লোহারপুল থেকে পোস্তগোলা পর্যন্ত দ্বিতীয় ধাপ বাস্তবায়নে মন্ত্রণালয়ে ৫ হাজার ২০০ কোটি টাকার প্রকল্প প্রস্তাব জমা দেওয়া হয়েছে। প্রথম ধাপের মূল সড়কটি ৪ দশমিক ৮০ কিলোমিটার দীর্ঘ এবং মাঝের চার লেন হবে এক্সপ্রেসওয়ে।",
+        "details_en": "The Rayerbazar-Loharpul section of the first phase of the Inner Circular Ring Road being implemented by DSCC is being widened to 120 feet, with the new deadline for completion set for June next year. A project proposal of ۵,۲۰۰ crore taka has been submitted to the ministry for the implementation of the second phase from Loharpul to Postogola. The main road of the first phase is 4.80 kilometers long, with the middle four lanes serving as an expressway.",
+        "hook_bn": "নির্ধারিত সময়ের মধ্যেই প্রথম ধাপের কাজ শেষ হবে",
+        "kicker_bn": "নতুন সড়ক",
+        "share_value": true,
+        "question_bn": "এই বিকল্প সড়ক চালু হলে আপনার যাতায়াতে কেমন সুবিধা হবে বলে আপনার মনে হয়?"
       },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-24T07:04:19.577297+00:00"
-      }
-    },
-    {
-      "story_id": "40bdef14-c4b0-5f8d-858a-8a5effaeda3d",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#Zaporizhzhia",
-        "#Ukraine",
-        "#Russia",
-        "#Sumy"
-      ],
-      "image_url": "https://th-i.thgim.com/public/incoming/l8w7ub/article71737253.ece/alternates/LANDSCAPE_1200/2026-11-23T131608Z_1706480473_RC2MTOAGIBNC_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA.JPG",
-      "image_caption": null,
-      "published_at": "2026-11-24T05:10:51+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.12,
-      "rank_score": 0.4031,
-      "sources": [
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/russian-attack-kills-two-people-wounds-22-in-ukraines-zaporizhzhia-official-says/article71737237.ece",
-          "title": "Russian attack kills two people, wounds 22 in Ukraine's Zaporizhzhia, official says",
-          "snippet": "Russian attack kills two people, wounds 22 in Ukraine's Zaporizhzhia, official says"
-        },
-        {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-          "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-          "snippet": "What strike on Russian ship in Libya says about spread of Ukraine war"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইউক্রেনের জাপোরিজ্জিয়ায় রুশ হামলায় দুই জন নিহত এবং ২২ জন আহত হয়েছেন।",
-        "title_en": "Russian attack kills two people and wounds 22 in Ukraine's Zaporizhzhia.",
-        "summary_bn": "ইউক্রেনের জাপোরিজ্জিয়ায় রাশিয়ার এক হামলায় দুই শিশুসহ দুই জন নিহত এবং ২২ জন আহত হয়েছেন বলে একজন কর্মকর্তা জানিয়েছেন।",
-        "summary_en": "A Russian attack killed two people and injured 22 more, including two children, in Ukraine's Zaporizhzhia, an official said.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-24T05:10:51+00:00",
-        "lead_bn": "ইউক্রেনের জাপোরিজ্জিয়ায় রাশিয়ার এক হামলায় দুই শিশুসহ দুই জন নিহত এবং ২২ জন আহত হয়েছেন বলে একজন কর্মকর্তা জানিয়েছেন।",
-        "lead_en": "A Russian attack killed two people and injured 22 more, including two children, in Ukraine's Zaporizhzhia, an official said.",
-        "bullets_bn": [
-          "জাপোরিজ্জিয়া আঞ্চলিক প্রতিরক্ষা কাউন্সিলের সহ-প্রধান ইভান ফেডোরভ টেলিগ্রামে এই তথ্য জানান।",
-          "আহত ব্যক্তিদের মধ্যে দুই শিশুও রয়েছে বলে জানানো হয়েছে।",
-          "রাশিয়ার হামলায় ক্ষতিগ্রস্ত অ্যাপার্টমেন্ট ভবনের ছবি টেলিগ্রাম অ্যাকাউন্টে প্রকাশ করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "Ivan Fedorov, co-head of the Zaporizhzhia Regional Defense Council, shared the information on Telegram.",
-          "The injured people include two children, according to the official statement.",
-          "Pictures of a damaged apartment building were shown on his Telegram account."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "আঞ্চলিক গভর্নর মাইখাইলো সেমিকিন জানান যে রাশিয়ার হামলার পর ধ্বংসস্তূপের নিচে মানুষ আটকে থাকতে পারে। এই হামলায় অ্যাপার্টমেন্ট, বেসরকারি ভবন, পরিবহন অবকাঠামো এবং গাড়ি ক্ষতিগ্রস্ত হয়েছে। এর বাইরে রাশিয়ার প্রতিরক্ষা মন্ত্রণালয়ের বরাত দিয়ে ইন্টারফ্যাক্স বার্তা সংস্থা জানায় যে রুশ সামরিক বাহিনী ইউক্রেনের সুমি অঞ্চলে ড্রোন নিয়ন্ত্রণ কেন্দ্র, স্টারলিংক স্যাটেলাইট টার্মিনাল এবং অন্যান্য সামরিক সম্পদ লক্ষ্য করে হামলা চালিয়ে সেনাসদস্যদের হত্যা করেছে।",
-        "details_en": "Earlier, regional Governor Mykhailo Semikin stated that people might be trapped under rubble after Russia struck the city, damaging apartments, private buildings, transport infrastructure and cars. Meanwhile, Russia's Interfax news agency quoted the country's Defence Ministry stating that the Russian military hit drone control sites, Starlink satellite terminals and other military assets in Ukraine's Sumy region, killing servicemen.",
-        "hook_bn": "জাপোরিজ্জিয়ায় রুশ হামলায় নিহত দুই",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-24T07:04:19.577297+00:00"
-      }
-    },
-    {
-      "story_id": "ffb4c87c-f0c9-5f68-b8cb-65b5ec0b1534",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#Shenzhou24",
-        "#Tiangong",
-        "#MuhammadZeeshanAli",
-        "#ChinaMannedSpaceAgency"
-      ],
-      "image_url": "https://th-i.thgim.com/public/incoming/2ixinz/article71737177.ece/alternates/LANDSCAPE_1200/2026-11-24T040214Z_1286380670_RC23UOAB1PY8_RTRMADP_3_SPACE-EXPLORATION-CHINA-SHENZHOU.JPG",
-      "image_caption": null,
-      "published_at": "2026-11-24T04:22:29+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.12,
-      "rank_score": 0.3848,
-      "sources": [
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/sci-tech/science/chinas-shenzhou-24-spaceship-to-include-first-foreign-astronaut-from-pakistan/article71737165.ece",
-          "title": "China's Shenzhou-24 spaceship to include first foreign astronaut from Pakistan",
-          "snippet": "China's Shenzhou-24 spaceship to include first foreign astronaut from Pakistan"
-        },
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/weapons-war-and-wavering-trust-germans-want-to-see-more-restraint-in-foreign-policy/a-80026254?maca=en-rss-en-all-1573-rdf",
-          "title": "Weapons, war and wavering trust: Germans want to see more restraint in foreign policy",
-          "snippet": "Weapons, war and wavering trust: Germans want to see more restraint in foreign policy"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পাকিস্তানের প্রথম মহাকাশচারী যাচ্ছেন চীনের শেনঝৌ-২৪ মহাকাশযানে।",
-        "title_en": "China's Shenzhou-24 spaceship to include first foreign astronaut from Pakistan.",
-        "summary_bn": "চীন আগামী ২৫ নভেম্বর শেনঝৌ-২৪ মহাকাশযান উৎক্ষেপণ করবে, যাতে পাকিস্তানের মুহাম্মদ জেসান আলীসহ তিন সদস্যের দল থাকবে।",
-        "summary_en": "China will launch its Shenzhou-24 spaceship on November 25 with a crew including Pakistani payload specialist Muhammad Zeeshan Ali.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-24T04:22:29+00:00",
-        "lead_bn": "চীন আগামী ২৫ নভেম্বর শেনঝৌ-২৪ মহাকাশযান উৎক্ষেপণ করবে, যাতে পাকিস্তানের মুহাম্মদ জেসান আলীসহ তিন সদস্যের দল থাকবে।",
-        "lead_en": "China will launch its Shenzhou-24 spaceship on November 25 with a crew including Pakistani payload specialist Muhammad Zeeshan Ali.",
-        "bullets_bn": [
-          "পাকিস্তানই প্রথম দেশ যার মহাকাশচারী চীনের মহাকাশ স্টেশনে প্রবেশ করছেন।",
-          "মিশনের কমান্ডার টাং হংবো এবং ফ্লাইট ইঞ্জিনিয়ার উ ই এই মহাকাশযানের অন্য দুই সদস্য।",
-          "বেইজিংয়ের বেল্ট অ্যান্ড রোড ইনিশিয়েটিভের দ্বিপক্ষীয় সহযোগিতার অংশ হিসেবে এই মিশন পরিচালিত হচ্ছে।"
-        ],
-        "bullets_en": [
-          "Pakistan will be the first foreign nation to have an astronaut board China's space station.",
-          "The flight crew consists of commander Tang Hongbo, flight engineer Wu Yi and Zeeshan Ali.",
-          "The participation is part of bilateral cooperation under Beijing's Belt and Road Initiative."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "চীন মহাকাশ স্টেশনে ২০২১ সাল থেকে ছয় মাসের জন্য নিয়মিত মহাকাশচারী পাঠাচ্ছে। জেসান আলী শেনঝৌ-২৪ মহাকাশযানে একটি সংক্ষিপ্ত সফর শেষ করে দুই জন বহির্গামী শেনঝৌ-২৩ ক্রুর সাথে ফিরে আসবেন। শেনঝৌ-২৩ ক্রুর ঝু ইয়াংঝু এক বছরব্যাপী মিশনে মহাকাশে অবস্থান করবেন বলে কর্তৃপক্ষ জানিয়েছে।",
-        "details_en": "China has sent trios of Chinese astronauts to the Tiangong station for six-month stays since 2021. Ali is scheduled for a short-term visit before returning with two of the outgoing Shenzhou-23 crew. Zhu Yangzhu from the Shenzhou-23 crew will stay in space for a year-long mission.",
-        "hook_bn": "চীনের মহাকাশযানে যাচ্ছেন পাকিস্তানি মহাকাশচারী",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-24T07:04:19.577297+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-24T08:05:50.537780+00:00"
       }
     }
   ]
