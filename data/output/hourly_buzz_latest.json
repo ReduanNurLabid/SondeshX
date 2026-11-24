@@ -1,134 +1,214 @@
 {
-  "updated_at": "2026-11-24T03:00:45.997882",
-  "total_stories": 5,
+  "updated_at": "2026-11-24T04:00:40.562899",
+  "total_stories": 3,
   "stories": [
     {
-      "story_id": "d86d37ff-8b56-56ce-919c-c1390949a83a",
-      "primary_category": "climate_environment",
+      "story_id": "d858e5d6-5262-513b-ac3b-c4662be47815",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "climate_environment",
-        "governance_law"
+        "governance_law",
+        "economy_business",
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#Climate",
-        "#Environment"
+        "#SheikhHasina",
+        "#Bangladesh",
+        "#VictoryDay"
       ],
-      "image_url": "https://images.unsplash.com/photo-1583794018021-c841442da0e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bmF0dXJlJTIwY2xpbWF0ZSUyMGZsb29kJTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1NDEzNjc5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/14/hasina.jpg",
       "image_caption": null,
-      "published_at": "2026-11-24T02:50:12+00:00",
+      "published_at": "2026-11-24T03:25:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 4.1748,
+      "importance_score": 9.0,
+      "rank_score": 7.8176,
       "sources": [
         {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/sheikh-hasina-seeks-return-bangladesh-16-december-state-carrier-1612171",
+          "title": "Sheikh Hasina seeks to return to Bangladesh on 16 December on state carrier",
+          "snippet": "Sheikh Hasina seeks to return to Bangladesh on 16 December on state carrier"
+        },
+        {
           "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822707/%E0%A6%A0%E0%A6%BE%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%93-%E0%A6%93-%E0%A6%AA%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%97%E0%A7%9C%E0%A7%87-%E0%A6%AE%E0%A7%83%E0%A6%A6%E0%A7%81-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%AD%E0%A7%82%E0%A6%A4",
-          "title": "ঠাকুরগাঁও ও পঞ্চগড়ে মৃদু ভূমিকম্প অনুভূত",
-          "snippet": "ঠাকুরগাঁও ও পঞ্চগড়ে মৃদু ভূমিকম্প অনুভূত"
+          "url": "https://www.ittefaq.com.bd/822718/%E0%A7%A7%E0%A7%AC-%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%A8-%E0%A6%B6%E0%A7%87%E0%A6%96",
+          "title": "১৬ ডিসেম্বর রাষ্ট্রীয় বিমানে দেশে ফিরতে চান শেখ হাসিনা",
+          "snippet": "১৬ ডিসেম্বর রাষ্ট্রীয় বিমানে দেশে ফিরতে চান শেখ হাসিনা"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1182955",
+          "title": "১৬ ডিসেম্বর দেশে ফিরতে চান শেখ হাসিনা",
+          "snippet": "১৬ ডিসেম্বর দেশে ফিরতে চান শেখ হাসিনা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ঠাকুরগাঁও ও পঞ্চগড়ে মৃদু ভূমিকম্প অনুভূত হয়েছে",
-        "title_en": "Mild earthquake felt in Thakurgaon and Panchagarh",
-        "summary_bn": "উত্তরবঙ্গের ঠাকুরগাঁও ও পঞ্চগড়সহ দেশের বিভিন্ন এলাকায় মৃদু ভূমিকম্প অনুভূত হয়েছে।",
-        "summary_en": "A mild earthquake was felt in various areas of the country including Thakurgaon and Panchagarh in North Bengal on Tuesday morning.",
+        "title_bn": "১৬ ডিসেম্বর দেশে ফেরার পরিকল্পনা করছেন শেখ হাসিনা",
+        "title_en": "Sheikh Hasina plans to return to Bangladesh on 16 December",
+        "summary_bn": "দুই বছরের বেশি সময় ভারতে নির্বাসনে থাকা ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনা আগামী ১৬ ডিসেম্বর বিজয় দিবসে দেশে ফেরার পরিকল্পনা করছেন।",
+        "summary_en": "Ousted Prime Minister Sheikh Hasina plans to return to Bangladesh on 16 December after more than two years of exile.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "climate_environment",
-          "governance_law"
+          "governance_law",
+          "economy_business",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-24T02:50:12+00:00",
-        "lead_bn": "উত্তরবঙ্গের ঠাকুরগাঁও ও পঞ্চগড়সহ দেশের বিভিন্ন এলাকায় মৃদু ভূমিকম্প অনুভূত হয়েছে।",
-        "lead_en": "A mild earthquake was felt in various areas of the country including Thakurgaon and Panchagarh in North Bengal on Tuesday morning.",
+        "published_at": "2026-11-24T03:25:00+00:00",
+        "lead_bn": "দুই বছরের বেশি সময় ভারতে নির্বাসনে থাকা ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনা আগামী ১৬ ডিসেম্বর বিজয় দিবসে দেশে ফেরার পরিকল্পনা করছেন।",
+        "lead_en": "Ousted Prime Minister Sheikh Hasina plans to return to Bangladesh on 16 December after more than two years of exile.",
         "bullets_bn": [
-          "এ কম্পন অনুভূত হয় ২৪ নভেম্বর সকালে।",
-          "কম্পনে অনেকের ঘুম ভেঙে যায় এবং স্থানীয়দের মধ্যে আতঙ্ক ছড়িয়ে পড়ে।",
-          "প্রাপ্ত তথ্য অনুযায়ী ভূমিকম্প অনুভূত হয় সকাল ৭টার দিকে।"
+          "তার মুখপাত্র জানিয়েছেন, হাসিনা রাষ্ট্রীয় পতাকাবাহী বিমান বাংলাদেশ এয়ারলাইন্সে করে দিল্লি থেকে ঢাকা ফেরার ব্যবস্থা করার জন্য সরকারের প্রতি আহ্বান জানিয়েছেন।",
+          "হাসিনার মুখপাত্র বলেছেন, সংবিধানের বিপরীতে তাকে নির্বাসনে পাঠানোর কারণে বিজয় দিবসে তার প্রত্যাবর্তন নিশ্চিত করা সরকারের দায়িত্ব।",
+          "এক বাংলাদেশি মন্ত্রী জানিয়েছেন, মৃত্যুদণ্ডপ্রাপ্ত হাসিনাকে দেশে ফেরার সাথে সাথে গ্রেপ্তার করে কারাগারে পাঠানো হবে এবং তাকে আনতে বিমান পাঠানোর বিষয়ে ভারতের সাথে কোনো আনুষ্ঠানিক আলোচনা হয়নি।"
         ],
         "bullets_en": [
-          "This tremor was felt on the morning of 24 November.",
-          "The tremor broke the sleep of many and spread panic among locals.",
-          "According to received information, the earthquake was felt around 7 am."
+          "Her spokesperson said Hasina has urged the government to arrange her return from Delhi on flag carrier Biman Bangladesh Airlines.",
+          "The spokesperson said that having exiled her contrary to the Constitution, it is the government's responsibility to enable her return on Victory Day.",
+          "A Bangladeshi minister stated Hasina faces a death sentence and would be arrested upon return, adding there were no official discussions with India about an aircraft."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "প্রাপ্ত তথ্য অনুযায়ী, সকাল ৭টার দিকে প্রথম ভূমিকম্প অনুভূত হয়। প্রাথমিক তথ্যমতে, প্রথম ভূমিকম্পের মাত্রা ছিল রিখটার স্কেলে ৫ দশমিক ৪। এর উৎপত্তিস্থল ছিল নেপালের কোশি প্রদেশের লেলেপ এলাকার প্রায় ৯ কিলোমিটারে।",
-        "details_en": "According to received information, the first earthquake was felt around 7 am on Tuesday. According to primary information, the magnitude of the first earthquake on the Richter scale was 5.4. Its epicenter was about 9 kilometers from the Lelep area of Kosi province in Nepal.",
-        "hook_bn": "ঠাকুরগাঁও ও পঞ্চগড়ে মৃদু ভূমিকম্প অনুভূত",
-        "kicker_bn": "ভূমিকম্প",
+        "details_bn": "২০২৪ সালের ৫ আগস্ট ছাত্র-জনতার গণঅভ্যুত্থানের মুখে ক্ষমতাচ্যুত হয়ে দেশ ছেড়ে ভারতে যান শেখ হাসিনা। এর পর থেকে তিনি ভারতে নির্বাসনে রয়েছেন। গত নভেম্বর মাসে তার অনুপস্থিতিতে যুদ্ধাপরাধ আদালত তাকে মৃত্যুদণ্ড দেন। চলতি মাসে তিনি পাসপোর্ট ও অন্যান্য কাগজপত্রের জন্য আবেদন করার পর দেশটিতে রাজনৈতিক ও আইনি উত্তেজনা বৃদ্ধি পেয়েছে।",
+        "details_en": "Sheikh Hasina fled to India on 5 August 2024 following a deadly uprising that forced her out of power. She has since been in exile. Last November, Bangladesh's war crimes court sentenced her to death in her absence. Political and legal tensions have risen since she sought a new passport and other documents this month.",
+        "hook_bn": "১৬ ডিসেম্বর দেশে ফিরতে চান শেখ হাসিনা",
+        "kicker_bn": "নতুন তারিখ",
         "share_value": false,
-        "question_bn": "আপনার এলাকায় কি ভূমিকম্প অনুভূত হয়েছে? কেমন ছিল সেই অভিজ্ঞতা?"
+        "question_bn": null
+      },
+      "desk_importance": 8.0,
+      "outlet_count": 3,
+      "trending": true,
+      "social_appeal": 9.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T04:02:41.643006+00:00"
+      }
+    },
+    {
+      "story_id": "f0a951e8-f1d1-5dda-b4f4-81512c6632d6",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1610375461246-83df859d849d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z29sZCUyMHByaWNlcyUyMGluY3JlYXNlZCUyMGZ1cnRoZXIlMjBidXNpbmVzc3xlbnwxfDB8fHwxNzk1NDkyOTIyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-24T03:50:34+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.5,
+      "rank_score": 4.1793,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/economy/news/1182953",
+          "title": "ফের বাড়লো সোনার দাম, ভরি ২ লাখ টাকা ছুঁই ছুঁই",
+          "snippet": "ফের বাড়লো সোনার দাম, ভরি ২ লাখ টাকা ছুঁই ছুঁই"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "দেশের বাজারে আরও বাড়লো সোনার দাম",
+        "title_en": "Gold prices increased further in the country's market",
+        "summary_bn": "দেশের বাজারে সোনার গহনার দাম আরও বাড়ানো হয়েছে এবং ভালো মানের প্রতি ভরি সোনা ছুঁই ছুঁই করছে ২ লাখ টাকা।",
+        "summary_en": "Gold jewelry prices have been increased further in the domestic market, with the best quality per bhori approaching 2 lakh taka.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T03:50:34+00:00",
+        "lead_bn": "দেশের বাজারে সোনার গহনার দাম আরও বাড়ানো হয়েছে এবং ভালো মানের প্রতি ভরি সোনা ছুঁই ছুঁই করছে ২ লাখ টাকা।",
+        "lead_en": "Gold jewelry prices have been increased further in the domestic market, with the best quality per bhori approaching 2 lakh taka.",
+        "bullets_bn": [
+          "সবচেয়ে ভালো মানের বা ২২ ক্যারেটের প্রতি ভরি সোনার গহনার দাম বাড়ানো হয়েছে ১ হাজার ৫৭৫ টাকা।",
+          "প্রতি ভরি সোনার দাম বাড়ানোর এই ঘোষণায় ভ্যাটসহ ভালো মানের সোনার দাম ২ লাখ টাকার কাছাকাছি পৌঁছেছে।",
+          "দেশের বাজারে সোনার গহনার এই দাম বৃদ্ধির তথ্য জানিয়েছে জাগো নিউজ ২৪।"
+        ],
+        "bullets_en": [
+          "The price of the best quality or 22-carat gold jewelry per bhori has been increased by 1,575 taka.",
+          "With this announcement of increasing the price per bhori, the best quality gold price including VAT has reached close to 2 lakh taka.",
+          "Jago News 24 reported this information about the price hike of gold jewelry in the domestic market."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "সোনার ভরি দুই লাখ টাকা ছুঁই ছুঁই",
+        "kicker_bn": "দাম বাড়ছে",
+        "share_value": true,
+        "question_bn": "সোনার দাম এভাবে বারবার বাড়ায় গহনা কিনতে আপনাদের কেমন অসুবিধা হচ্ছে?"
       },
       "desk_importance": 6.0,
       "outlet_count": 1,
       "trending": true,
-      "social_appeal": 7.0,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-24T03:03:28.789962+00:00"
+        "checked_at": "2026-11-24T04:02:41.643006+00:00"
       }
     },
     {
-      "story_id": "adae27b5-2353-56e7-b904-8e5bcc1c7ac8",
-      "primary_category": "climate_environment",
+      "story_id": "fd770de0-e7fe-5ff4-996b-d07f4b4acbf8",
+      "primary_category": "sports_fitness",
       "interest_categories": [
-        "climate_environment",
-        "economy_business",
-        "governance_law"
+        "sports_fitness",
+        "society_education"
       ],
       "region": "national",
       "tags": [
-        "#Climate",
-        "#Environment"
+        "#Sports",
+        "#BangladeshCricket"
       ],
-      "image_url": "https://images.unsplash.com/photo-1677928586959-2f41b8228c44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZWlnaHRoJTIwc2hpcG1lbnQlMjB1cmFuaXVtJTIwYXJyaXZlcyUyMGVudmlyb25tZW50fGVufDF8MHx8fDE3OTU0ODkzNjd8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-24%2F3ae53ejp%2Figexport-Dfd2TU4jYz3-3.jpg?rect=0%2C0%2C1722%2C904&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-24T02:34:47+00:00",
+      "published_at": "2026-11-24T03:23:34+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.0,
-      "rank_score": 3.5049,
+      "rank_score": 3.4697,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1182933",
-          "title": "রূপপুরে পৌঁছাল ইউরেনিয়ামের অষ্টম চালান",
-          "snippet": "রূপপুরে পৌঁছাল ইউরেনিয়ামের অষ্টম চালান"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/sports/football/i8favdfxdq",
+          "title": "রেকর্ড গড়ে এমএলএসে বর্ষসেরা তরুণ বাংলাদেশি বংশোদ্ভূত কাভান সুলিভান",
+          "snippet": "রেকর্ড গড়ে এমএলএসে বর্ষসেরা তরুণ বাংলাদেশি বংশোদ্ভূত কাভান সুলিভান"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রূপপুরে পৌঁছাল ইউরেনিয়ামের অষ্টম চালান",
-        "title_en": "Eighth shipment of uranium arrives at Rooppur",
-        "summary_bn": "রাশিয়া থেকে আনা ইউরেনিয়ামের আরেকটি চালান পাবনার ঈশ্বরদীর রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্র প্রকল্প এলাকায় পৌঁছেছে।",
-        "summary_en": "Another shipment of uranium brought from Russia has reached the Rooppur Nuclear Power Plant project area in Pabna's Ishwardi.",
+        "title_bn": "এমএলএসের বর্ষসেরা তরুণ খেলোয়াড় নির্বাচিত হয়েছেন বাংলাদেশি বংশোদ্ভূত কাভান সুলিভান",
+        "title_en": "Kavan Sullivan named MLS Young Player of the Year",
+        "summary_bn": "বাংলাদেশি বংশোদ্ভূত ফিলাডেলফিয়া ইউনিয়নের অ্যাটাকিং মিডফিল্ডার কাভান সুলিভান আমেরিকার মেজর লিগ সকারে ২০২৬ সালের সেরা তরুণ খেলোয়াড় নির্বাচিত হয়েছেন।",
+        "summary_en": "Kavan Sullivan, a Philadelphia Union attacking midfielder of Bangladeshi descent, has been named MLS Young Player of the Year.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "climate_environment",
-          "economy_business",
-          "governance_law"
+          "sports_fitness",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-24T02:34:47+00:00",
-        "lead_bn": "রাশিয়া থেকে আনা ইউরেনিয়ামের আরেকটি চালান পাবনার ঈশ্বরদীর রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্র প্রকল্প এলাকায় পৌঁছেছে।",
-        "lead_en": "Another shipment of uranium brought from Russia has reached the Rooppur Nuclear Power Plant project area in Pabna's Ishwardi.",
+        "published_at": "2026-11-24T03:23:34+00:00",
+        "lead_bn": "বাংলাদেশি বংশোদ্ভূত ফিলাডেলফিয়া ইউনিয়নের অ্যাটাকিং মিডফিল্ডার কাভান সুলিভান আমেরিকার মেজর লিগ সকারে ২০২৬ সালের সেরা তরুণ খেলোয়াড় নির্বাচিত হয়েছেন।",
+        "lead_en": "Kavan Sullivan, a Philadelphia Union attacking midfielder of Bangladeshi descent, has been named MLS Young Player of the Year.",
         "bullets_bn": [
-          "রাশিয়া থেকে আনা ইউরেনিয়ামের চালানটি রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্র প্রকল্প এলাকায় পৌঁছেছে।",
-          "এই চালানটি পাবনার ঈশ্বরদীর রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্র প্রকল্প এলাকায় আনা হয়েছে।",
-          "এ নিয়ে দ্বিতীয় ইউনিটের জন্য ইউরেনিয়ামের চালান পৌঁছাল।"
+          "১৭ বছর ৫৬ দিন বয়সে সবচেয়ে কম বয়সী খেলোয়াড় হিসেবে এই পুরস্কার জিতেছেন কাভান সুলিভান।",
+          "সংবাদমাধ্যম, সহকর্মী পেশাদার খেলোয়াড় এবং এমএলএস ক্লাবগুলোর কারিগরি কর্মকর্তার ভোটে বিজয়ী নির্ধারিত হন।",
+          "ভোটিং ক্যাটাগরির প্রতিটিতে শীর্ষে থেকে মোট ভোটের ৬৫.০৬ শতাংশ পান সুলিভান।"
         ],
         "bullets_en": [
-          "The shipment of uranium brought from Russia has arrived at the Rooppur Nuclear Power Plant project area.",
-          "This shipment has been brought to the Rooppur Nuclear Power Plant project area in Pabna's Ishwardi.",
-          "With this, a shipment of uranium has arrived for the second unit."
+          "Sullivan won the award as the youngest player at seventeen years and fifty-six days old.",
+          "The winner was decided by votes from media, fellow professional players, and MLS club technical staff.",
+          "Sullivan topped every voting category and received sixty-five point zero six percent of the total votes."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "রাশিয়া থেকে আনা ইউরেনিয়ামের আরেকটি চালান পাবনার ঈশ্বরদীর রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্র প্রকল্প এলাকায় পৌঁছেছে। এ নিয়ে দ্বিতীয় ইউনিটের জন্য ইউরেনিয়ামের চালান এসেছে।",
-        "details_en": "Another shipment of uranium brought from Russia has reached the Rooppur Nuclear Power Plant project area in Pabna's Ishwardi. With this, a shipment of uranium has arrived for the second unit.",
-        "hook_bn": "রূপপুরে পৌঁছাল ইউরেনিয়ামের অষ্টম চালান",
+        "details_bn": "নিয়মিত খেলোয়াড় হিসেবে প্রথম মৌসুমে ২৯ ম্যাচে ৯ গোল ও ১৪ অ্যাসিস্টসহ ২৩ গোলে অবদান রাখেন কাভান সুলিভান। এর মাধ্যমে এমএলএসে কিশোর খেলোয়াড় হিসেবে এক মৌসুমে সর্বোচ্চ গোল অবদান এবং টানা ১০ ম্যাচে গোলে অবদানের রেকর্ড গড়েন তিনি। গত সেপ্টেম্বরে যুক্তরাষ্ট্রের জাতীয় দলে ডাক পান সুলিভান এবং ১৭ বছর ৫ দিন বয়সে সর্বকনিষ্ঠ খেলোয়াড় হিসেবে গোলের রেকর্ড গড়েন। সুলিভানের নানি সুলতানা বাংলাদেশ থেকে যুক্তরাষ্ট্রে বসত গড়েন এবং তিনি বাংলাদেশের বয়সভিত্তিক জাতীয় দলের দুই ফুটবলার রোনান ও ডেকলান সুলিভানের ভাই।",
+        "details_en": "Playing his first season as a regular, Sullivan contributed to twenty-three goals with nine goals and fourteen assists in twenty-nine matches. He set records for the most goal contributions by a teenager in a single MLS season and in ten consecutive matches. Sullivan received a United States national team call-up in September, setting a record as the youngest goalscorer at seventeen years and five days old. His grandmother Sultana moved from Bangladesh to the United States, and he is the brother of Bangladesh youth national team footballers Ronan and Declan Sullivan.",
+        "hook_bn": "এমএলএসে বর্ষসেরা তরুণ খেলোয়াড় কাভান সুলিভান",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
@@ -136,220 +216,10 @@
       "desk_importance": 6.0,
       "outlet_count": 1,
       "trending": false,
-      "social_appeal": 6.0,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-24T03:03:28.789962+00:00"
-      }
-    },
-    {
-      "story_id": "f0b8a75a-5fff-5a21-bf51-c80b513232f1",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business",
-        "governance_law"
-      ],
-      "region": "international",
-      "tags": [
-        "#BenjaminNetanyahu",
-        "#DonaldTrump",
-        "#Iran",
-        "#Israel"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/10/14/aminul_haque_2.png",
-      "image_caption": null,
-      "published_at": "2026-11-24T02:05:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.3651,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/worldbiz/middle-east/netanyahu-urges-trump-launch-fresh-strikes-iran-political-pressure-mounts",
-          "title": "Netanyahu urges Trump to launch fresh strikes on Iran as political pressure mounts",
-          "snippet": "Netanyahu urges Trump to launch fresh strikes on Iran as political pressure mounts"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইরানের ওপর নতুন হামলার আহ্বান জানিয়েছেন বেনিয়ামিন নেতানিয়াহু",
-        "title_en": "Benjamin Netanyahu urges Trump to launch fresh strikes on Iran",
-        "summary_bn": "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে যত দ্রুত সম্ভব ইরানের ওপর নতুন সামরিক হামলা চালানোর আহ্বান জানিয়েছেন।",
-        "summary_en": "Israeli Prime Minister Benjamin Netanyahu has urged US President Donald Trump to launch new military strikes against Iran as soon as possible.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-24T02:05:00+00:00",
-        "lead_bn": "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে যত দ্রুত সম্ভব ইরানের ওপর নতুন সামরিক হামলা চালানোর আহ্বান জানিয়েছেন।",
-        "lead_en": "Israeli Prime Minister Benjamin Netanyahu has urged US President Donald Trump to launch new military strikes against Iran as soon as possible.",
-        "bullets_bn": [
-          "ইসরায়েলের পাবলিক ব্রডকাস্টার কানের বরাত দিয়ে এই তথ্য জানা গেছে।",
-          "যুক্তরাষ্ট্রের কোনো হোমল্যান্ডে কোনো বিশ্বাসযোগ্য বা আসন্ন হুমকি নেই বলে জানিয়েছেন দেশটির সিনিয়র প্রশাসন কর্মকর্তারা।",
-          "কাতারের প্রধানমন্ত্রীর সঙ্গে বৈঠকের পর ট্রাম্প ইঙ্গিত দিয়েছেন যে বড় ধরনের নতুন হামলা সম্ভবত unlikely হবে।"
-        ],
-        "bullets_en": [
-          "This was reported by Israel's public broadcaster Kan.",
-          "Senior US administration officials said there was no credible or imminent threat to the US homeland.",
-          "After meeting Qatar's prime minister, Trump suggested that major new strikes were unlikely."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ইসরায়েলে গত ২৭ অক্টোবর অনুষ্ঠিত নির্বাচনে নেতানিয়াহু তাঁর সংসদীয় সংখ্যাগরিষ্ঠতা হারিয়েছেন। এর ফলে তিনি কেয়ারটেকার প্রধানমন্ত্রী হিসেবে দায়িত্বে রয়েছেন, আর বিরোধীরা তাঁকে ক্ষমতা থেকে সরাতে জোট গঠনের চেষ্টা করছে। অন্যদিকে মার্কিন মধ্যবর্তী নির্বাচনে রিপাবলিকানরা খারাপ ফল করেছে এবং উপরাষ্ট্রপতি জেডি ভ্যান্স সংঘাতের জেরে ট্রাম্পের সঙ্গে প্রকাশ্যে দূরত্ব তৈরি করেছেন।",
-        "details_en": "In Israel, Netanyahu lost his parliamentary majority in the 27 October election, leaving him as caretaker prime minister while opposition rivals seek to form a coalition. In the US, Republicans suffered poor results in the midterm elections, while Vice President JD Vance publicly broke with Trump over the conflict.",
-        "hook_bn": "ইরানে নতুন হামলার আহ্বান নেতানিয়াহুর",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-24T03:03:28.789962+00:00"
-      }
-    },
-    {
-      "story_id": "e162302a-b9fb-5e06-b1aa-8adc77f56b2e",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation"
-      ],
-      "region": "international",
-      "tags": [
-        "#Technology",
-        "#Innovation"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-23%2F99cwz0az%2FAI.-Reuters1.png?rect=0%2C74%2C960%2C504&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-24T02:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.3538,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/technology/artificial-intelligence/z2181p8061",
-          "title": "এআই মডেলগুলো গোপনে নিজস্ব ভাষা তৈরি করছে, সতর্ক করলেন জিওফ্রে হিন্টন",
-          "snippet": "এআই মডেলগুলো গোপনে নিজস্ব ভাষা তৈরি করছে, সতর্ক করলেন জিওফ্রে হিন্টন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "এআই মডেলগুলো নিজেদের মধ্যে গোপন ভাষা তৈরি করছে",
-        "title_en": "AI models are secretly creating their own language",
-        "summary_bn": "কম্পিউটারবিজ্ঞানী জিওফ্রে হিন্টন সতর্ক করেছেন যে কৃত্রিম বুদ্ধিমত্তা মডেলগুলো নিজেদের মধ্যে যোগাযোগের জন্য মানুষের বোধগম্য নয় এমন ভাষাগত সংকেত তৈরি করছে।",
-        "summary_en": "Computer scientist Geoffrey Hinton warned that artificial intelligence models are creating linguistic signals for communication that are incomprehensible to humans.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-24T02:00:00+00:00",
-        "lead_bn": "কম্পিউটারবিজ্ঞানী জিওফ্রে হিন্টন সতর্ক করেছেন যে কৃত্রিম বুদ্ধিমত্তা মডেলগুলো নিজেদের মধ্যে যোগাযোগের জন্য মানুষের বোধগম্য নয় এমন ভাষাগত সংকেত তৈরি করছে।",
-        "lead_en": "Computer scientist Geoffrey Hinton warned that artificial intelligence models are creating linguistic signals for communication that are incomprehensible to humans.",
-        "bullets_bn": [
-          "হিন্টনের আশঙ্কা, ভবিষ্যতে জ্ঞান বিনিময়ের মাধ্যমে এআই মডেলগুলো মানুষের তুলনায় অনেক দ্রুত শিখতে পারবে।",
-          "এআই এজেন্টগুলো প্রশিক্ষণে সরাসরি শেখানো হয়নি এমন নতুন শব্দাংশের সমন্বয় তৈরি করছে।",
-          "এআইয়ের ১০ হাজার অনুলিপি একসঙ্গে কাজ করে নিজেদের শেখা বিষয়গুলো একে অপরের সঙ্গে ভাগ করে নিতে পারে।"
-        ],
-        "bullets_en": [
-          "Hinton fears that AI models will learn much faster than humans by exchanging knowledge in the future.",
-          "AI agents are creating new combinations of word parts that are not directly taught during training.",
-          "Ten thousand copies of AI can work simultaneously and share learned subjects with each other."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "কানাডার ইউনিভার্সিটি অব ম্যানিটোবায় এক প্রশ্নোত্তর পর্বে হিন্টন জানান, এআই মডেলগুলো শব্দগুলোকে ছোট ছোট অংশে ভাগ করে ভাষা শেখে। গুগলের গেম খেলার এআই ব্যবস্থা আলফাজিরো নিজের সঙ্গে নিজেই প্রতিদ্বন্দ্বিতা করে দাবাসহ বিভিন্ন খেলায় দক্ষতা অর্জন করেছিল। হিন্টনের মতে, একই প্রক্রিয়ায় ভাষাভিত্তিক এআই মডেলগুলো নিজেদের ধারণা ও বিশ্বাস যাচাই করতে পারবে।",
-        "details_en": "At a Q and A session at the University of Manitoba in Canada, Hinton stated that AI models learn language by dividing words into small parts. Google's game playing AI system AlphaZero gained proficiency in chess and other games by competing against itself. According to Hinton, language based AI models can verify their own ideas and beliefs through the same process.",
-        "hook_bn": "এআই মডেলগুলো নিজেদের মধ্যে গোপনে ভাষা তৈরি করছে",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-24T03:03:28.789962+00:00"
-      }
-    },
-    {
-      "story_id": "ac79e1d0-4a7c-59e6-bc60-0493cd3bb11b",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation",
-        "economy_business"
-      ],
-      "region": "international",
-      "tags": [
-        "#MollyFalco",
-        "#MassachusettsGeneralHospital",
-        "#PigKidney"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/07/11/doctor.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-24T01:50:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.3312,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/worldbiz/usa/us-woman-pig-kidney-inside-her-marks-one-year-milestone-amazed-its-still-working",
-          "title": "US woman with a pig kidney inside her marks one-year milestone: ‘Amazed that it’s still working’",
-          "snippet": "US woman with a pig kidney inside her marks one-year milestone: ‘Amazed that it’s still working’"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মার্কিন নারী জিন প্রকৌশলে পরিবর্তিত শুকরের কিডনি নিয়ে এক বছর পার করলেন।",
-        "title_en": "US woman with a pig kidney inside her marks one-year milestone.",
-        "summary_bn": "নিউ Hampshire-এর এক নারী জিনগতভাবে পরিবর্তিত শুকরের কিডনি নিয়ে বেঁচে থাকার এক বছর পূর্ণ করে রেকর্ড গড়েছেন।",
-        "summary_en": "A 58-year-old woman from New Hampshire has marked one year of living with a genetically modified pig kidney, setting a record.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-24T01:50:00+00:00",
-        "lead_bn": "নিউ Hampshire-এর এক নারী জিনগতভাবে পরিবর্তিত শুকরের কিডনি নিয়ে বেঁচে থাকার এক বছর পূর্ণ করে রেকর্ড গড়েছেন।",
-        "lead_en": "A 58-year-old woman from New Hampshire has marked one year of living with a genetically modified pig kidney, setting a record.",
-        "bullets_bn": [
-          "মলি ফ্যালকো বোস্টনের ম্যাসাচুসেটস জেনারেল হাসপাতালে চতুর্থ ব্যক্তি হিসেবে এই প্রতিস্থাপন পান।",
-          "চিকিৎসকেরা মানুষের সাথে সামঞ্জস্যপূর্ণ করতে শুকরের কিডনিটি সম্পাদনা করেছিলেন।",
-          "এই মাইলফলক অঙ্গদাতার সংকট সমাধানের জন্য ক্রস-স্পিসিজ অঙ্গ প্রতিস্থাপনের সম্ভাবনা তুলে ধরে।"
-        ],
-        "bullets_en": [
-          "Molly Falco became the fourth person to receive a genetically engineered pig kidney at Massachusetts General Hospital.",
-          "Doctors at Mass General edited the pig kidney to make it more compatible with humans.",
-          "The milestone highlights the potential of cross-species organ transplants to address the shortage of donor kidneys."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ম্যাসাচুসেটস জেনারেল হাসপাতালের গবেষকেরা এই জিনগতভাবে পরিবর্তিত অঙ্গ ব্যবহার করেন। গবেষণাগারের গবেষণা দলের মতে, এই সাফল্য চিকিৎসাবিজ্ঞানের জন্য বড় একটি পদক্ষেপ হলেও এটি এখনও চূড়ান্ত বিজয় নয়।",
-        "details_en": "Doctors at Mass General edited the pig kidney for human compatibility. Experts believe the milestone points to a future of using animal kidneys for humans, though researchers caution it is not yet a final victory.",
-        "hook_bn": "'এটি বিজ্ঞানের জন্য অত্যন্ত চমৎকার এবং রোমাঞ্চকর'",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": "জেনেটিক্যালি মডিফাইড অঙ্গ প্রতিস্থাপনের এই অগ্রগতি চিকিৎসাবিজ্ঞানের ভবিষ্যৎ কীভাবে বদলাতে পারে বলে আপনার মনে হয়?"
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-24T03:03:28.789962+00:00"
+        "checked_at": "2026-11-24T04:02:41.643006+00:00"
       }
     }
   ]
