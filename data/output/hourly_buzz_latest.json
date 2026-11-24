@@ -1,85 +1,9 @@
 {
-  "updated_at": "2026-11-24T10:00:41.993698",
-  "total_stories": 5,
+  "updated_at": "2026-11-24T11:00:49.252867",
+  "total_stories": 4,
   "stories": [
     {
-      "story_id": "9379283c-7646-597b-a98f-c15a63e1351f",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#ZiaulAhsan",
-        "#SheikhHasina",
-        "#InternationalCrimesTribunal"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/09/chief_prosecutor_aminul_islam.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-24T09:40:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.8217,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/court/ziaul-ahsan-was-one-hasinas-main-tools-suppress-opposition-chief-prosecutor-1612506",
-          "title": "Ziaul Ahsan was one of Hasina's main tools to suppress opposition: Chief prosecutor",
-          "snippet": "Ziaul Ahsan was one of Hasina's main tools to suppress opposition: Chief prosecutor"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822780/%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7%E0%A7%80-%E0%A6%A6%E0%A6%B2-%E0%A6%A6%E0%A6%AE%E0%A6%A8-%E0%A6%AA%E0%A7%80%E0%A7%9C%E0%A6%A8%E0%A7%87-%E0%A6%B6%E0%A7%87%E0%A6%96-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%AE-%E0%A6%B9%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0",
-          "title": "১১৫ জনের বেশি মানুষকে সরাসরি হত্যা করেছে জিয়াউল আহসান: চিফ প্রসিকিউটর",
-          "snippet": "১১৫ জনের বেশি মানুষকে সরাসরি হত্যা করেছে জিয়াউল আহসান: চিফ প্রসিকিউটর"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জিয়াউল আহসান বিরোধীদের দমনে শেখ হাসিনার মূল হাতিয়ার ছিলেন: চিফ প্রসিকিউটর",
-        "title_en": "Ziaul Ahsan was Hasina main tool to suppress opposition: Chief prosecutor",
-        "summary_bn": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনালের চিফ প্রসিকিউটর মো. আমিনুল ইসলাম বলেছেন, সাবেক প্রধানমন্ত্রী শেখ হাসিনার নির্দেশে অপরাধ চালিয়েছিলেন মেজর জেনারেল (অব.) জিয়াউল আহসান।",
-        "summary_en": "International Crimes Tribunal Chief Prosecutor Md Aminul Islam accused Major General (retd) Ziaul Ahsan of carrying out crimes at Sheikh Hasina direction.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-24T09:40:00+00:00",
-        "lead_bn": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনালের চিফ প্রসিকিউটর মো. আমিনুল ইসলাম বলেছেন, সাবেক প্রধানমন্ত্রী শেখ হাসিনার নির্দেশে অপরাধ চালিয়েছিলেন মেজর জেনারেল (অব.) জিয়াউল আহসান।",
-        "lead_en": "International Crimes Tribunal Chief Prosecutor Md Aminul Islam accused Major General (retd) Ziaul Ahsan of carrying out crimes at Sheikh Hasina direction.",
-        "bullets_bn": [
-          "জিয়াউলের বিরুদ্ধে শতাধিক গুম ও হত্যার অপরাধের মামলার শুনানিতে এই মন্তব্য করা হয়।",
-          "সাবেক সেনা প্রধান ইকবাল করিম ভূঁইয়া, মেজর সাব্বির ও মেজর দেলোয়ার হোসেন সাক্ষ্য দিয়েছেন।",
-          "জিয়াউল আহসান প্রত্যক্ষভাবে ১১৫ জনের বেশি মানুষকে হত্যা করেছেন বলে সাক্ষ্য পাওয়া গেছে।"
-        ],
-        "bullets_en": [
-          "The remarks came during the hearing of arguments in the crimes against humanity case over more than 100 incidents.",
-          "Witnesses including former army chief General Iqbal Karim Bhuiyan, Major Sabbir and Major Delwar Hossain testified.",
-          "Witness accounts and testimonies identified more than 115 people as victims of killings directly linked to Ziaul."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "শেখ হাসিনা এবং তার সামরিক উপদেষ্টা তারিক আহমেদ সিদ্দিকীর ছত্রছায়ায় জিয়াউল আহসান একের পর এক অপকর্ম করেছেন বলে সাক্ষ্যপ্রমাণ উঠে এসেছে। তার সহযোগী কমান্ডার সোহেল চাড়ুয়ানার অভিযানসহ বিভিন্ন অভিযানের খবর সংগ্রহের জন্য সাংবাদিকদের নৌকায় করে নিয়ে গিয়েছিলেন। তিনি দীর্ঘদিন মূল বাহিনীতে না ফিরে তৎকালীন র‍্যাপিড অ্যাকশন ব্যাটালিয়নে (র‍্যাব) বহাল ছিলেন এবং অপরাধের পরও বারবার পদোন্নতি পেয়েছিলেন।",
-        "details_en": "Ziaul Ahsan committed misdeeds under the shelter and patronage of Sheikh Hasina and her military adviser Tarique Ahmed Siddique, according to witness testimonies. His associate Commander Sohel had taken journalists by boat to cover operations including one at Charduani. He received repeated promotions despite alleged crimes and remained in the then Rapid Action Battalion for an extended period.",
-        "hook_bn": "জিয়াউল আহসান বিরোধীদের দমনে প্রধান হাতিয়ার ছিলেন",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-24T10:03:22.126823+00:00"
-      }
-    },
-    {
-      "story_id": "5e1abaf5-ffbf-5e76-9670-29eda33be959",
+      "story_id": "979e96b8-a4ef-5e91-94ad-b81f37f9a954",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education"
@@ -89,271 +13,306 @@
         "#Bangladesh",
         "#NationalAffairs"
       ],
-      "image_url": "https://images.unsplash.com/photo-1588674845784-9d0c32777b3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z292ZXJubWVudCUyMGdpdmUlMjBsYXB0b3BzJTIwZ3BhJTIwZWR1Y2F0aW9ufGVufDF8MHx8fDE3OTU1MTQ1ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-05-21%2F16u8b6zp%2F22__Dhaka_Hospital_Children.jfif?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-24T10:00:00+00:00",
+      "published_at": "2026-11-24T10:41:07+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5905,
+      "importance_score": 7.5,
+      "rank_score": 5.5136,
       "sources": [
         {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/e307v1p36a",
+          "title": "হামের উপসর্গে গেল ৯ প্রাণ, নতুন আক্রান্ত ১৩৫১",
+          "snippet": "হামের উপসর্গে গেল ৯ প্রাণ, নতুন আক্রান্ত ১৩৫১"
+        },
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/health/post-1225127/",
+          "title": "হামের উপসর্গে একদিনে ৯ শিশুর মৃত্যু",
+          "snippet": "হামের উপসর্গে একদিনে ৯ শিশুর মৃত্যু"
+        },
+        {
           "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822782/%E0%A6%8F%E0%A6%B8%E0%A6%8F%E0%A6%B8%E0%A6%B8%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%9C%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%8F-%E0%A7%AB-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%A4-%E0%A7%A7%E0%A7%AB%E0%A7%A6%E0%A7%A6-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%9F%E0%A6%AA",
-          "title": "এসএসসিতে জিপিএ-৫ প্রাপ্ত ১৫০০ শিক্ষার্থীকে ল্যাপটপ দেবে সরকার",
-          "snippet": "এসএসসিতে জিপিএ-৫ প্রাপ্ত ১৫০০ শিক্ষার্থীকে ল্যাপটপ দেবে সরকার"
+          "url": "https://www.ittefaq.com.bd/822790/%E0%A6%B9%E0%A6%BE%E0%A6%AE-%E0%A6%89%E0%A6%AA%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A7%AF-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81",
+          "title": "হাম উপসর্গে আরও ৯ মৃত্যু",
+          "snippet": "হাম উপসর্গে আরও ৯ মৃত্যু"
         }
       ],
       "daily_buzz": {
-        "title_bn": "এসএসসিতে জিপিএ-৫ প্রাপ্ত ১৫০০ শিক্ষার্থীকে ল্যাপটপ দেবে সরকার",
-        "title_en": "Government to give laptops to 1500 GPA-5 scoring SSC students",
-        "summary_bn": "চলতি বছরের এসএসসি ও সমমানের পরীক্ষায় বোর্ডপ্রতি সব বিষয়ে জিপিএ-৫ প্রাপ্ত সর্বোচ্চ নম্বরধারী প্রথম ১০০ জন শিক্ষার্থীকে ল্যাপটপ দেবে সরকার।",
-        "summary_en": "The government will provide laptops to the top 100 students per board achieving GPA-5 in all subjects in this year's SSC exams.",
+        "title_bn": "হামের উপসর্গ নিয়ে ২৪ ঘণ্টায় ৯ জনের মৃত্যু এবং ১ হাজার ৩৫১ জন নতুন আক্রান্ত",
+        "title_en": "Nine deaths and 1351 new cases reported with measles symptoms in 24 hours",
+        "summary_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, ২৪ নভেম্বর পর্যন্ত গত ২৪ ঘণ্টায় হামের উপসর্গ নিয়ে দেশে ৯ জনের মৃত্যু ও ১ হাজার ৩৫১ জন নতুন শনাক্ত হয়েছেন।",
+        "summary_en": "According to Directorate General of Health Services, nine people died and 1351 new cases were identified with measles symptoms in 24 hours till 24 November.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-24T10:00:00+00:00",
-        "lead_bn": "চলতি বছরের এসএসসি ও সমমানের পরীক্ষায় বোর্ডপ্রতি সব বিষয়ে জিপিএ-৫ প্রাপ্ত সর্বোচ্চ নম্বরধারী প্রথম ১০০ জন শিক্ষার্থীকে ল্যাপটপ দেবে সরকার।",
-        "lead_en": "The government will provide laptops to the top 100 students per board achieving GPA-5 in all subjects in this year's SSC exams.",
+        "published_at": "2026-11-24T10:41:07+00:00",
+        "lead_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, ২৪ নভেম্বর পর্যন্ত গত ২৪ ঘণ্টায় হামের উপসর্গ নিয়ে দেশে ৯ জনের মৃত্যু ও ১ হাজার ৩৫১ জন নতুন শনাক্ত হয়েছেন।",
+        "lead_en": "According to Directorate General of Health Services, nine people died and 1351 new cases were identified with measles symptoms in 24 hours till 24 November.",
         "bullets_bn": [
-          "প্রস্তাবনা অনুযায়ী দেশের ১১টি শিক্ষা বোর্ডে সব বিষয়ে জিপিএ-৫ প্রাপ্তদের এ ল্যাপটপ দেওয়া হবে।",
-          "মেধাক্রমের ভিত্তিতে প্রণোদনা হিসেবে বোর্ডপ্রতি ১০০ জন করে মোট ১ হাজার ১০০ শিক্ষার্থী নির্বাচিত করা হবে।",
-          "১০০তম অবস্থানে সমান নম্বরধারীদের বিষয়েও ব্যবস্থা রাখা হয়েছে।"
+          "মৃত ব্যক্তিদের মধ্যে ঢাকা ও সিলেট বিভাগে তিনজন করে, চট্টগ্রাম, বরিশাল ও খুলনা বিভাগে একজন করে রয়েছেন।",
+          "নতুন শনাক্তদের মধ্যে ১ হাজার ২৮৩ জনের হামের উপসর্গ দেখা গেছে এবং ৬৮ জনের হাম শনাক্ত হয়েছে।",
+          "গত ২৪ ঘণ্টায় ১ হাজার ২০৮ জন হামের উপসর্গ নিয়ে হাসপাতালে ভর্তি হয়েছে এবং সুস্থ হয়ে বাড়ি ফিরেছে ১ হাজার ১৩৯ জন।"
         ],
         "bullets_en": [
-          "According to the proposal, these laptops will be given to those who obtained GPA-5 in all subjects across 11 education boards.",
-          "A total of 1,100 students will be selected as an incentive based on merit ranking, with 100 from each board.",
-          "Provisions are also made for candidates tied in scores at the 100th position."
+          "Among the deceased, three are from Dhaka and Sylhet divisions each, and one each from Chattogram, Barishal and Khulna divisions.",
+          "Among the newly identified, 1351 showed measles symptoms and 68 were confirmed with measles.",
+          "In 24 hours, 1208 people were admitted to hospitals with measles symptoms and 1139 recovered and left hospitals."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "চলতি বছরের এসএসসি ও সমমানের পরীক্ষার ফলের ভিত্তিতে দেশের ১১টি শিক্ষা বোর্ডের সব বিষয়ে জিপিএ-৫ প্রাপ্ত শিক্ষার্থীদের মধ্য থেকে মেধাক্রম অনুযায়ী এই প্রণোদনা দেওয়ার প্রস্তাব করা হয়েছে।",
-        "details_en": "Based on the results of this year's SSC and equivalent exams, a proposal has been made to provide this incentive according to merit ranking among students who achieved GPA-5 in all subjects across 11 education boards of the country.",
-        "hook_bn": "এসএসসিতে জিপিএ-৫ প্রাপ্তদের ল্যাপটপ দেবে সরকার",
-        "kicker_bn": "শিক্ষার্থী",
+        "details_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, ১৫ মার্চ থেকে ২৪ নভেম্বর পর্যন্ত দেশে হামের উপসর্গ নিয়ে মোট ২ লাখ ৫৯ হাজার ১৯০ জন শনাক্ত হয়েছে এবং নিশ্চিত হাম শনাক্ত হয়েছে ২৬ হাজার ৩০০ জনের। এ সময়ে সন্দেহজনক হাম নিয়ে মৃত্যুর সংখ্যা ১ হাজার ২৫৬ এবং নিশ্চিত হামে মৃত্যুর সংখ্যা ১০৫। ১৫ মার্চ থেকে এ পর্যন্ত সন্দেহজনক হাম নিয়ে হাসপাতালে ভর্তি হয়েছে মোট ২ লাখ ৩১ হাজার ৯৯৯ জন।",
+        "details_en": "According to Directorate General of Health Services data from 15 March to 24 November, total 259,190 people were identified with measles symptoms and 26,300 with confirmed measles. During this period, deaths from suspected measles reached 1,256 and confirmed measles deaths 105. Total 231,999 people were hospitalized with suspected measles from 15 March.",
+        "hook_bn": "হামের উপসর্গ নিয়ে একদিনে ৯ জনের মৃত্যু",
+        "kicker_bn": "সতর্কতা",
         "share_value": true,
-        "question_bn": "সরকারের এই প্রণোদনা মেধাবী শিক্ষার্থীদের পড়াশোনায় কতটা উৎসাহ জোগাবে বলে আপনার মনে হয়?"
+        "question_bn": "আপনার এলাকায় হামের প্রকোপ কেমন দেখছেন?"
       },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
+      "desk_importance": 7.0,
+      "outlet_count": 3,
       "trending": false,
       "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-24T10:03:22.126823+00:00"
+        "checked_at": "2026-11-24T11:04:58.368358+00:00"
       }
     },
     {
-      "story_id": "aeee84fc-0f96-59d0-9007-6564437c6c58",
-      "primary_category": "governance_law",
+      "story_id": "bdb6510d-a681-572a-86e2-8a9ec553cd8f",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "governance_law",
-        "society_education"
+        "world_diplomacy",
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#BimanBangladeshAirlines",
+        "#DhakaRiyadhFlights",
+        "#SaudiArabia"
       ],
-      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/Setu-2026-11-24-at-15.24.24.jpeg",
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/biman.jpg",
       "image_caption": null,
-      "published_at": "2026-11-24T09:48:07+00:00",
+      "published_at": "2026-11-24T10:27:54+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5497,
+      "importance_score": 7.5,
+      "rank_score": 5.4439,
       "sources": [
         {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/post-1225164/",
-          "title": "ঢাকার গণপরিবহন আধুনিকায়নে ৩ হাজার বৈদ্যুতিক বাস চালুর উদ্যোগ",
-          "snippet": "ঢাকার গণপরিবহন আধুনিকায়নে ৩ হাজার বৈদ্যুতিক বাস চালুর উদ্যোগ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ঢাকার গণপরিবহন আধুনিকায়নে ৩ হাজার বৈদ্যুতিক বাস চালুর উদ্যোগ নিয়েছে সরকার।",
-        "title_en": "The government initiated steps to introduce 3,000 electric buses to modernize public transport in Dhaka.",
-        "summary_bn": "রাজধানীর গণপরিবহন ব্যবস্থায় শৃঙ্খলা প্রতিষ্ঠা এবং বায়ুদূষণ নিয়ন্ত্রণে পর্যায়ক্রমে ৩ হাজার আধুনিক বৈদ্যুতিক বাস চালুর উদ্যোগ নেওয়া হয়েছে।",
-        "summary_en": "Authorities initiated steps to introduce 3,000 modern electric buses to establish discipline and control air pollution in Dhaka's public transport.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-24T09:48:07+00:00",
-        "lead_bn": "রাজধানীর গণপরিবহন ব্যবস্থায় শৃঙ্খলা প্রতিষ্ঠা এবং বায়ুদূষণ নিয়ন্ত্রণে পর্যায়ক্রমে ৩ হাজার আধুনিক বৈদ্যুতিক বাস চালুর উদ্যোগ নেওয়া হয়েছে।",
-        "lead_en": "Authorities initiated steps to introduce 3,000 modern electric buses to establish discipline and control air pollution in Dhaka's public transport.",
-        "bullets_bn": [
-          "সচিবালয়ে বিশ্বব্যাংকের সহায়তাপুষ্ট বাংলাদেশ ক্লিন এয়ার প্রজেক্টের আওতায় গণপরিবহন সংস্কার নিয়ে আলোচনা সভা অনুষ্ঠিত হয়।",
-          "প্রাথমিক পর্যায়ে সরকারি উদ্যোগে বাংলাদেশ সড়ক পরিবহন করপোরেশনের মাধ্যমে এ কার্যক্রম শুরু করা হবে।",
-          "প্রস্তাবিত ব্যবস্থায় ত্রিপক্ষীয় চুক্তির ভিত্তিতে গ্রস-কস্ট মডেলে বাস পরিচালিত হবে।"
-        ],
-        "bullets_en": [
-          "A discussion meeting on public transport reform was held at the secretariat under the World Bank-supported Bangladesh Clean Air Project.",
-          "In the primary phase, this activity will start through government initiative via the Bangladesh Road Transport Corporation.",
-          "Under the proposed system, buses will be operated on a gross-cost model based on a tripartite agreement."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "রাজধানীর গণপরিবহন ব্যবস্থায় শৃঙ্খলা প্রতিষ্ঠা, যাত্রীসেবার মানোন্নয়ন এবং বায়ুদূষণ নিয়ন্ত্রণে আধুনিক ও টেকসই পরিবহন ব্যবস্থা গড়ে তোলার লক্ষ্যে সরকার কাজ করছে। এর অংশ হিসেবে সচিবালয়ে বিশ্বব্যাংকের সহায়তাপুষ্ট বাংলাদেশ ক্লিন এয়ার প্রজেক্টের আওতায় গণপরিবহন সংস্কার এবং গ্রস-কস্ট মডেল বাস্তবায়নের বিষয়ে আলোচনা সভা অনুষ্ঠিত হয়। সড়ক পরিবহন ও সেতু, রেলপথ এবং নৌপরিবহন মন্ত্রী শেখ রবিউল আলম সভায় সভাপতিত্ব করেন। এতে সড়ক পরিবহন ও রেলপথ মন্ত্রণালয়ের প্রতিমন্ত্রী মো. হাবিবুর রশিদ হাবিব, সড়ক পরিবহন ও মহাসড়ক বিভাগের সচিব মো. জিয়াউল হক এবং বিশ্বব্যাংকের বাংলাদেশ ও ভুটানের ডিভিশন ডিরেক্টর জ্যাঁ পেসমে-সহ বিশ্বব্যাংকের প্রতিনিধিবৃন্দ ও সংশ্লিষ্ট ঊর্ধ্বতন কর্মকর্তারা উপস্থিত ছিলেন।",
-        "details_en": "The government is working to build a modern and sustainable transport system to establish discipline, improve passenger service quality, and control air pollution in the capital's public transport system. As part of this, a discussion meeting on public transport reform and implementation of the gross-cost model under the World Bank-supported Bangladesh Clean Air Project was held at the secretariat. Road Transport and Bridges, Railways and Shipping Minister Sheikh Rabiul Alam presided over the meeting. State Minister for Road Transport and Railways Md. Habibur Rashid Habib, Road Transport and Highways Division Secretary Md. Ziaul Haque, World Bank Division Director for Bangladesh and Bhutan Jean Pesme, along with other World Bank representatives and senior officials, were present.",
-        "hook_bn": "৩ হাজার বৈদ্যুতিক বাস চালুর উদ্যোগ",
-        "kicker_bn": "নতুন উদ্যোগ",
-        "share_value": false,
-        "question_bn": "ঢাকার গণপরিবহনে বৈদ্যুতিক বাস চালুর এই উদ্যোগ নিয়ে আপনার মতামত কী?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-24T10:03:22.126823+00:00"
-      }
-    },
-    {
-      "story_id": "1dd564b8-10d8-5524-97df-fe3890f39d98",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#Malaysia",
-        "#Myanmar"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1695654396488-612369cef115?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bWFsYXlzaWElMjByZXBhdHJpYXRlJTIwdGhvdXNhbmRzJTIwbXlhbm1hciUyMGRpcGxvbWFjeXxlbnwxfDB8fHwxNzk1NTE0NTk2fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-24T09:31:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.4917,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/world/asia/425610/malaysia-to-repatriate-thousands-more-myanmar",
-          "title": "Malaysia to repatriate thousands more Myanmar migrants",
-          "snippet": "Malaysia to repatriate thousands more Myanmar migrants"
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/economy/aviation/news/biman-suspends-dhaka-riyadh-flights-until-december-16-4332031",
+          "title": "Biman suspends Dhaka-Riyadh flights until December 16",
+          "snippet": "Biman suspends Dhaka-Riyadh flights until December 16"
         },
         {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/24/malaysia-set-to-return-thousands-of-rohingya-refugees-to-myanmar-2?traffic_source=rss",
-          "title": "Malaysia set to return thousands of Rohingya refugees to Myanmar",
-          "snippet": "Malaysia set to return thousands of Rohingya refugees to Myanmar"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822788/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A6-%E0%A6%B0%E0%A7%81%E0%A6%9F%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9F-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%97%E0%A6%BF%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A7%9F%E0%A6%BE%E0%A6%A6-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%B2",
+          "title": "ঢাকা-রিয়াদ রুটে বিমানের ফ্লাইট স্থগিতের মেয়াদ বাড়ল",
+          "snippet": "ঢাকা-রিয়াদ রুটে বিমানের ফ্লাইট স্থগিতের মেয়াদ বাড়ল"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/biman-flights-dhaka-riyadh-route-suspended-until-december/",
+          "title": "১৬ ডিসেম্বর পর্যন্ত বিমানের ঢাকা-রিয়াদ ফ্লাইট বন্ধ",
+          "snippet": "১৬ ডিসেম্বর পর্যন্ত বিমানের ঢাকা-রিয়াদ ফ্লাইট বন্ধ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মিয়ানমারে হাজার হাজার অভিবাসী ও শরণার্থী ফেরত পাঠাচ্ছে মালয়েশিয়া",
-        "title_en": "Malaysia to repatriate thousands of Myanmar migrants and refugees",
-        "summary_bn": "মালয়েশিয়া হাজার হাজার মিয়ানমারের অভিবাসী এবং রোহিঙ্গা শরণার্থীকে নিজ দেশে ফেরত পাঠানোর ঘোষণা দিয়েছে।",
-        "summary_en": "Malaysia has announced plans to return thousands of Myanmar migrants and Rohingya refugees to their home country.",
+        "title_bn": "১৬ ডিসেম্বর পর্যন্ত ঢাকা-রিয়াদ রুটে বিমানের নিয়মিত ফ্লাইট স্থগিত",
+        "title_en": "Biman suspends Dhaka-Riyadh regular flights until December 16",
+        "summary_bn": "সৌদি আরবে সাম্প্রতিক বিমান হামলা ও যাত্রীদের নিরাপত্তার কথা বিবেচনা করে ঢাকা-রিয়াদ রুটে নিয়মিত ফ্লাইট স্থগিতের মেয়াদ ১৬ ডিসেম্বর পর্যন্ত বাড়িয়েছে বিমান বাংলাদেশ এয়ারলাইনস।",
+        "summary_en": "Biman Bangladesh Airlines extended the suspension of regular flights on the Dhaka-Riyadh route until December 16 citing Saudi airstrikes and passenger safety.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "world_diplomacy",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-24T09:31:00+00:00",
-        "lead_bn": "মালয়েশিয়া হাজার হাজার মিয়ানমারের অভিবাসী এবং রোহিঙ্গা শরণার্থীকে নিজ দেশে ফেরত পাঠানোর ঘোষণা দিয়েছে।",
-        "lead_en": "Malaysia has announced plans to return thousands of Myanmar migrants and Rohingya refugees to their home country.",
+        "published_at": "2026-11-24T10:27:54+00:00",
+        "lead_bn": "সৌদি আরবে সাম্প্রতিক বিমান হামলা ও যাত্রীদের নিরাপত্তার কথা বিবেচনা করে ঢাকা-রিয়াদ রুটে নিয়মিত ফ্লাইট স্থগিতের মেয়াদ ১৬ ডিসেম্বর পর্যন্ত বাড়িয়েছে বিমান বাংলাদেশ এয়ারলাইনস।",
+        "lead_en": "Biman Bangladesh Airlines extended the suspension of regular flights on the Dhaka-Riyadh route until December 16 citing Saudi airstrikes and passenger safety.",
         "bullets_bn": [
-          "ডিসেম্বরের ৬ ও ৭ তারিখে তিনটি নৌবাহিনীর জাহাজে করে ১,৫০০ অভিবাসী পাঠানো হবে।",
-          "ডিসেম্বরে আরও ৫,৩০৩ জন অভিবাসী বিমানে করে ফিরে যাবেন।",
-          "মিয়ানমার কর্তৃক সংখ্যালঘু রোহিঙ্গাদের বিরুদ্ধে সংঘটিত গণহত্যার আন্তর্জাতিক বিচার আদালতের রায়ের পাঁচ দিন পর এই ঘোষণা এল।"
+          "বিমান বাংলাদেশ এয়ারলাইনসের জনসংযোগ বিভাগের মহাব্যবস্থাপক স্বাক্ষরিত সংবাদ বিজ্ঞপ্তিতে এ তথ্য জানানো হয়।",
+          "ঢাকা-জেদ্দা, ঢাকা-দাম্মাম ও ঢাকা-মদিনা রুটের ফ্লাইট আগের সিদ্ধান্ত অনুযায়ী যথারীতি চালূ থাকবে।",
+          "রিয়াদগামী যাত্রীরা আসন খালি থাকা সাপেক্ষে জেদ্দা, দাম্মাম বা মদিনা হয়ে যাতায়াত করতে পারবেন।"
         ],
         "bullets_en": [
-          "Three naval ships will transport 1,500 migrants on December 6-7.",
-          "Another 5,303 migrants will return by aircraft in December.",
-          "The announcement comes five days after the ICJ ruled that Myanmar committed genocide against its Rohingya minority."
+          "The information was provided in a press release signed by the general manager of Biman Bangladesh Airlines public relations department.",
+          "Flights on the Dhaka-Jeddah, Dhaka-Dammam and Dhaka-Madinah routes will continue according to previous decisions.",
+          "Passengers travelling to Riyadh can travel via Jeddah, Dammam or Madinah subject to seat availability."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "মিয়ানমারে হাজার হাজার অভিবাসী ফেরত পাঠাচ্ছে মালয়েশিয়া",
-        "kicker_bn": "রোহিঙ্গা শরণার্থী",
-        "share_value": false,
-        "question_bn": null
+        "hook_bn": "১৬ ডিসেম্বর পর্যন্ত বিমানের ঢাকা-রিয়াদ ফ্লাইট বন্ধ",
+        "kicker_bn": "নতুন তারিখ",
+        "share_value": true,
+        "question_bn": "ফ্লাইট স্থগিতের এই ঘোষণায় আপনার ভ্রমণ পরিকল্পনায় কী ধরনের সমস্যা হচ্ছে?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T11:04:58.368358+00:00"
+      }
+    },
+    {
+      "story_id": "b9a4fc30-3f22-56a1-afe9-cddaaccdb25e",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#NationalBoardOfRevenue",
+        "#TariffCut",
+        "#Ramadan"
+      ],
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Updated%20Until%20Feb%2023%2C%202027%20Label.png",
+      "image_caption": null,
+      "published_at": "2026-11-24T10:45:50+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.25,
+      "rank_score": 3.8463,
+      "sources": [
+        {
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/news/nbr-slashes-import-tariffs-dates-apples-and-oranges-4332051",
+          "title": "NBR slashes import tariffs on dates, apples and oranges",
+          "snippet": "NBR slashes import tariffs on dates, apples and oranges"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/govt-waives-additional-customs-duties-on-dates-until-march-10",
+          "title": "Govt waives additional customs duties on dates until March 10",
+          "snippet": "Govt waives additional customs duties on dates until March 10"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "খেজুর, আপেল ও কমলার আমদানি শুল্ক কমাচ্ছে এনবিআর",
+        "title_en": "NBR cuts import tariffs on dates, apples and oranges",
+        "summary_bn": "রমজান মাসে দাম কমানো ও আমদানি বাড়াতে খেজুর, আপেল এবং কমলার আমদানি শুল্ক কমিয়েছে জাতীয় রাজস্ব বোর্ড।",
+        "summary_en": "The National Board of Revenue has cut import tariffs on dates, oranges and apples to bring down prices and boost imports ahead of Ramadan.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T10:45:50+00:00",
+        "lead_bn": "রমজান মাসে দাম কমানো ও আমদানি বাড়াতে খেজুর, আপেল এবং কমলার আমদানি শুল্ক কমিয়েছে জাতীয় রাজস্ব বোর্ড।",
+        "lead_en": "The National Board of Revenue has cut import tariffs on dates, oranges and apples to bring down prices and boost imports ahead of Ramadan.",
+        "bullets_bn": [
+          "খেজুরের শুল্ক ২৫ শতাংশ থেকে কমিয়ে ৫ শতাংশ করা হয়েছে।",
+          "আপেল ও কমলার নিয়ন্ত্রণমূলক শুল্ক ৫ শতাংশ করা হয়েছে।",
+          "নতুন শুল্ক হার অবিলম্বে কার্যকর হবে বলে জানিয়েছে জাতীয় রাজস্ব বোর্ড।"
+        ],
+        "bullets_en": [
+          "Customs duty on dates was slashed to 5 percent from 25 percent.",
+          "Regulatory duty on apples and oranges was cut to 5 percent.",
+          "The National Board of Revenue stated that the new tariffs would become effective immediately."
+        ],
+        "impact_bn": "রমজান মাসে খেজুর, আপেল ও কমলার দাম সাধারণ মানুষের নাগালে রাখতে এই শুল্ক কমানো হয়েছে।",
+        "impact_en": "Tariffs were reduced to bring down prices of dates, apples and oranges for consumers ahead of Ramadan.",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "রমজানে কমছে খেজুর আপেলের দাম",
+        "kicker_bn": "নতুন শুল্ক",
+        "share_value": true,
+        "question_bn": "রমজানের আগে এই শুল্ক হ্রাসের ফলে বাজারে ফলের দামে কী প্রভাব পড়বে বলে আপনার মনে হয়?"
       },
       "desk_importance": 6.0,
       "outlet_count": 2,
       "trending": false,
-      "social_appeal": 6.0,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-24T10:03:22.126823+00:00"
+        "checked_at": "2026-11-24T11:04:58.368358+00:00"
       }
     },
     {
-      "story_id": "cb3ef94d-c870-51bf-bf6e-74bb8bd71855",
-      "primary_category": "tech_innovation",
+      "story_id": "73ce0c6d-49a4-594c-9cba-bbb39108d487",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "tech_innovation",
-        "climate_environment"
+        "economy_business",
+        "governance_law",
+        "tech_innovation"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#Technology",
-        "#Innovation"
+        "#BSEC",
+        "#SMEBoard",
+        "#Bangladesh"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-24%2Fiv19kigb%2FSolar.png?rect=0%2C0%2C1920%2C1008&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/10/18/bsec_stock.jpg",
       "image_caption": null,
-      "published_at": "2026-11-24T08:56:45+00:00",
+      "published_at": "2026-11-24T10:35:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.3461,
+      "importance_score": 5.25,
+      "rank_score": 2.6858,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/technology/science/6gq87nep1h",
-          "title": "সূর্যের আলো থেকে জ্বালানি তৈরির ব্যাটারিবিহীন যন্ত্র তৈরি করেছেন বিজ্ঞানীরা",
-          "snippet": "সূর্যের আলো থেকে জ্বালানি তৈরির ব্যাটারিবিহীন যন্ত্র তৈরি করেছেন বিজ্ঞানীরা"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/stocks/bsec-cut-sme-board-trading-threshold-tk10-lakh-tk30-lakh-1612566",
+          "title": "BSEC to cut SME board trading threshold to Tk10 lakh from Tk30 lakh",
+          "snippet": "BSEC to cut SME board trading threshold to Tk10 lakh from Tk30 lakh"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/economy/news/1183175",
+          "title": "এসএমই বোর্ডে বিনিয়োগসীমা কমলো দুই-তৃতীয়াংশ, ডিজিটাল এজিএমের সুযোগ",
+          "snippet": "এসএমই বোর্ডে বিনিয়োগসীমা কমলো দুই-তৃতীয়াংশ, ডিজিটাল এজিএমের সুযোগ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জাপানি বিজ্ঞানীরা সূর্যের আলো থেকে জ্বালানি তৈরির ব্যাটারিবিহীন যন্ত্র তৈরি করেছেন।",
-        "title_en": "Japanese scientists created a battery-free device to generate fuel from sunlight.",
-        "summary_bn": "ওসাকা মেট্রোপলিটন ইউনিভার্সিটির বিজ্ঞানীরা সূর্যের আলো, পানি ও কার্বন ডাই-অক্সাইড থেকে জ্বালানি তৈরির ব্যাটারিবিহীন কৃত্রিম সালোকসংশ্লেষণ যন্ত্র তৈরি করেছেন।",
-        "summary_en": "Scientists at Osaka Metropolitan University created a battery-free artificial photosynthesis device converting sunlight, water, and carbon dioxide into fuel.",
+        "title_bn": "এসএমই বোর্ডের ট্রেডিং থ্রেশহোল্ড ১০ লাখ টাকায় নামাল বিএসইসি",
+        "title_en": "BSEC cuts SME board trading threshold to Tk10 lakh",
+        "summary_bn": "বাংলাদেশ সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ কমিশন এসএমই প্ল্যাটফর্মের সেকেন্ডারি বাজারে লেনদেনের জন্য যোগ্য বিনিয়োগকারীদের ন্যূনতম পোর্টফোলিও প্রয়োজন ৩০ লাখ টাকা থেকে কমিয়ে ১০ লাখ টাকায় নামিয়েছে।",
+        "summary_en": "The Bangladesh Securities and Exchange Commission has reduced the minimum portfolio requirement for eligible individual investors on the SME platform to Tk10 lakh from Tk30 lakh.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "tech_innovation",
-          "climate_environment"
+          "economy_business",
+          "governance_law",
+          "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-24T08:56:45+00:00",
-        "lead_bn": "ওসাকা মেট্রোপলিটন ইউনিভার্সিটির বিজ্ঞানীরা সূর্যের আলো, পানি ও কার্বন ডাই-অক্সাইড থেকে জ্বালানি তৈরির ব্যাটারিবিহীন কৃত্রিম সালোকসংশ্লেষণ যন্ত্র তৈরি করেছেন।",
-        "lead_en": "Scientists at Osaka Metropolitan University created a battery-free artificial photosynthesis device converting sunlight, water, and carbon dioxide into fuel.",
+        "published_at": "2026-11-24T10:35:00+00:00",
+        "lead_bn": "বাংলাদেশ সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ কমিশন এসএমই প্ল্যাটফর্মের সেকেন্ডারি বাজারে লেনদেনের জন্য যোগ্য বিনিয়োগকারীদের ন্যূনতম পোর্টফোলিও প্রয়োজন ৩০ লাখ টাকা থেকে কমিয়ে ১০ লাখ টাকায় নামিয়েছে।",
+        "lead_en": "The Bangladesh Securities and Exchange Commission has reduced the minimum portfolio requirement for eligible individual investors on the SME platform to Tk10 lakh from Tk30 lakh.",
         "bullets_bn": [
-          "যন্ত্রটি সৌরকোষ থেকে উৎপন্ন বিদ্যুৎকে রাসায়নিক শক্তিতে রূপান্তরিত করে ফরমিক অ্যাসিড জমা করে।",
-          "ইলেকট্রোলাইজারের ভেতরে বিশেষ সলিড ইলেকট্রোলাইট সংযুক্ত থাকায় এটি স্বয়ংক্রিয়ভাবে এমপিপিটির কাজ করতে পারে।",
-          "প্রযুক্তি বিশ্লেষকদের মতে এই উদ্ভাবন কৃত্রিম সালোকসংশ্লেষণ যন্ত্র তৈরির খরচ কমিয়ে আনবে।"
+          "কমিশনের নিয়মিত বৈঠকে এই সিদ্ধান্ত নেওয়া হয়।",
+          "সংশোধিত আদেশ বা নির্দেশনা জারির পর এই সিদ্ধান্ত কার্যকর হবে।",
+          "এর আগে গত মে মাসে জারি করা এক নির্দেশিকায় ন্যূনতম পোর্টফোলিও প্রয়োজন ৩০ লাখ টাকা করা হয়েছিল।"
         ],
         "bullets_en": [
-          "The device converts solar cell electricity into chemical energy and stores formic acid.",
-          "A solid electrolyte inside the electrolyzer allows the device to automatically perform MPPT functions.",
-          "Tech analysts say this innovation will reduce the manufacturing cost of artificial photosynthesis devices."
+          "The decision was taken at the commission's regular meeting.",
+          "The revised threshold will take effect once the BSEC issues an amended order or directive.",
+          "Through a directive issued on 19 May, the regulator previously reinstated the minimum portfolio requirement at Tk30 lakh."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "এত দিন পরিবর্তনশীল সূর্যের আলোর কারণে এই প্রযুক্তির ব্যবহার বাধাগ্রস্ত হতো এবং তা সমাধানে ব্যয়বহুল ব্যাটারি ও জটিল ইলেকট্রনিক যন্ত্রাংশ লাগত। ওসাকা মেট্রোপলিটন ইউনিভার্সিটির রিসার্চ সেন্টার ফর আর্টিফিশিয়াল ফটোসিন্থেসিসের বিজ্ঞানী ইয়াসুও মাতসুবারা এবং ইউতাকা আমাওর নেতৃত্বাধীন বিজ্ঞানীরা প্রচলিত ইলেকট্রোলাইজারের নকশা বদলে ভেতরে বিশেষ সলিড ইলেকট্রোলাইট যুক্ত করে এই সমস্যার সমাধান করেছেন।",
-        "details_en": "Variable sunlight previously hindered this technology, requiring expensive batteries and complex electronic parts to solve. Scientists led by Yasuo Matsubara and Yutaka Amao at Osaka Metropolitan University's Research Center for Artificial Photosynthesis redesigned the electrolyzer by adding a solid electrolyte inside to solve this issue.",
-        "hook_bn": "সূর্যের আলো থেকে জ্বালানি তৈরির নতুন যন্ত্র",
-        "kicker_bn": "নতুন প্রযুক্তি",
-        "share_value": false,
-        "question_bn": "এই প্রযুক্তি ভবিষ্যতে বিদ্যুৎ সংকট দূর করতে কতটা ভূমিকা রাখবে বলে আপনার মনে হয়?"
+        "details_bn": "চলতি বছরের জানুয়ারি মাসে বিএসইসি ন্যূনতম বিনিয়োগসীমা ৩০ লাখ টাকা থেকে কমিয়ে ১০ লাখ টাকা করেছিল, যা কিউআইও রুলস, ২০২২-এর যোগ্য বিনিয়োগকারীদের মানদণ্ডের সাথে সামঞ্জস্যপূর্ণ ছিল। তবে ১৯ মে এক নির্দেশনার মাধ্যমে নিয়ন্ত্রক সংস্থা সেই সিদ্ধান্ত পাল্টে সেকেন্ডারি বাজারে লেনদেনের জন্য ন্যূনতম পোর্টফোলিও আবার ৩০ লাখ টাকা করেছিল।",
+        "details_en": "In January this year, the BSEC reduced the minimum investment threshold from Tk30 lakh to Tk10 lakh, aligning it with the QIO Rules, 2022. However, through a directive issued on 19 May, the regulator reversed that decision and reinstated the requirement at Tk30 lakh.",
+        "hook_bn": "এসএমই বোর্ডে বিনিয়োগসীমা কমলো ১০ লাখ টাকায়",
+        "kicker_bn": "নতুন নিয়ম",
+        "share_value": true,
+        "question_bn": "এসএমই বোর্ডে বিনিয়োগের এই নতুন সীমা পুঁজিবাজারে কেমন প্রভাব ফেলবে বলে আপনি মনে করেন?"
       },
       "desk_importance": 5.0,
-      "outlet_count": 1,
+      "outlet_count": 2,
       "trending": false,
-      "social_appeal": 6.0,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-24T10:03:22.126823+00:00"
+        "checked_at": "2026-11-24T11:04:58.368358+00:00"
       }
     }
   ]
