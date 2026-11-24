@@ -1,9 +1,84 @@
 {
-  "updated_at": "2026-11-24T18:00:47.762689",
+  "updated_at": "2026-11-24T19:00:44.503486",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "e2bedf22-5001-5262-a37f-0c480a492d62",
+      "story_id": "3eafeb8d-ace6-5c0f-b5db-d95bdd1deae1",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#PadmaBank",
+        "#BangladeshBank",
+        "#BankResolution",
+        "#BankingSector"
+      ],
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Padma%20Bank%20Resolution%20Infographic.png",
+      "image_caption": null,
+      "published_at": "2026-11-24T18:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.25,
+      "rank_score": 4.9549,
+      "sources": [
+        {
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/economy/news/padma-banks-fate-rests-undefined-resolution-measure-4332446",
+          "title": "Padma Bank’s fate rests on undefined ‘resolution measure’",
+          "snippet": "Padma Bank’s fate rests on undefined ‘resolution measure’"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822856/%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE%E0%A6%BE-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3-%E0%A6%A8%E0%A6%BF%E0%A6%B2-%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A7%9F-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95",
+          "title": "পদ্মা ব্যাংকের নিয়ন্ত্রণ নিল কেন্দ্রীয় ব্যাংক",
+          "snippet": "পদ্মা ব্যাংকের নিয়ন্ত্রণ নিল কেন্দ্রীয় ব্যাংক"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পদ্মা ব্যাংককে বিশেষ রেজোলিউশন ব্যবস্থার আওতায় নিয়েছে বাংলাদেশ ব্যাংক",
+        "title_en": "Bangladesh Bank places Padma Bank under undefined resolution measure",
+        "summary_bn": "আমানতকারীদের অর্থ সুরক্ষা ও আর্থিক শৃঙ্খলা নিশ্চিত করতে পদ্মা ব্যাংক পিএলসিকে ব্যাংক রেজোলিউশন আইন, ২০২৬-এর আওতায় নিয়েছে বাংলাদেশ ব্যাংক।",
+        "summary_en": "Bangladesh Bank has placed Padma Bank PLC under a resolution measure under the Bank Resolution Act, 2026 to protect depositors and restore financial discipline.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T18:00:00+00:00",
+        "lead_bn": "আমানতকারীদের অর্থ সুরক্ষা ও আর্থিক শৃঙ্খলা নিশ্চিত করতে পদ্মা ব্যাংক পিএলসিকে ব্যাংক রেজোলিউশন আইন, ২০২৬-এর আওতায় নিয়েছে বাংলাদেশ ব্যাংক।",
+        "lead_en": "Bangladesh Bank has placed Padma Bank PLC under a resolution measure under the Bank Resolution Act, 2026 to protect depositors and restore financial discipline.",
+        "bullets_bn": [
+          "রেজোলিউশন ব্যবস্থার সুনির্দিষ্ট উপায়, বাস্তবায়নের সময়সীমা বা দায়িত্বপ্রাপ্তদের বিষয়ে স্পষ্ট করে কিছু জানায়নি কেন্দ্রীয় ব্যাংক।",
+          "বাংলাদেশ ব্যাংকের তথ্য অনুযায়ী, ব্যাংকটির বিতরণের ৫,৫৩৯ কোটি টাকা ঋণের মধ্যে ৪,৯৩২ কোটি টাকাই খেলাপি হয়ে পড়েছে।",
+          "আপাতত কোনো প্রশাসক নিয়োগ দেওয়া হচ্ছে না এবং ব্যাংকটির দৈনন্দিন গ্রাহক সেবা স্বাভাবিক থাকবে।"
+        ],
+        "bullets_en": [
+          "The central bank did not specify the resolution option, implementation deadline, or who would be responsible for devising it.",
+          "According to central bank data, Tk 4,932 crore of Padma Bank's Tk 5,539 crore in disbursed loans was in default.",
+          "The lender's day-to-day operations and customer services will continue as usual without an administrator appointed for now."
+        ],
+        "impact_bn": "বাংলাদেশ ব্যাংক জানিয়েছে, পদ্মা ব্যাংকের দৈনন্দিন কার্যক্রম ও গ্রাহক সেবা স্বাভাবিকভাবে চালু থাকবে।",
+        "impact_en": "The central bank clarified that the lender's day-to-day operations and customer services will continue as usual.",
+        "details_bn": "খেলাপি ঋণ, মূলধন ও তারল্য সংকট এবং সুশাসনের অভাবসহ দীর্ঘদিন পুঞ্জীভূত দুর্বলতার কারণে এ সিদ্ধান্ত নেওয়া হয়েছে। ২০২৫ সালের অক্টোবরে বাংলাদেশ ব্যাংকের অব-সাইট সুপারভিশন বিভাগ ব্যাংকটিকে রেজোলিউশনের আওতায় নেওয়ার সুপারিশ করেছিল। কেন্দ্রীয় ব্যাংকের কর্মকর্তারা জানান, পদ্মা ব্যাংকের মূলধন ঋণাত্মক হয়ে পড়েছে এবং ৮৯ শতাংশ ঋণই খেলাপিতে পরিণত হয়েছে।",
+        "details_en": "The decision followed years of accumulated weaknesses, including non-performing loans, capital and liquidity shortfalls, and governance failures. In October 2025, BB's Department of Off-site Supervision recommended placing Padma Bank under resolution under the Prompt Corrective Action framework. Central bank officials said the lender's capital had turned negative, while 89 percent of its loans were classified as non-performing.",
+        "hook_bn": "পদ্মা ব্যাংকের ৮৯ শতাংশ ঋণ খেলাপি",
+        "kicker_bn": null,
+        "share_value": true,
+        "question_bn": "পদ্মা ব্যাংক নিয়ে কেন্দ্রীয় ব্যাংকের এই পদক্ষেপের বিষয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T19:05:20.981989+00:00"
+      }
+    },
+    {
+      "story_id": "592a5aa9-637b-5cff-beb8-f176a6099f4c",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
@@ -11,28 +86,40 @@
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Khulna",
+        "#AwamiLeague"
       ],
-      "image_url": "https://images.unsplash.com/photo-1651293478838-1f51675131c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8amFtYWF0JTIwaXNsYW1pJTIwd2FudHMlMjBwYXJ0aWNpcGF0ZSUyMGdvdmVybm1lbnR8ZW58MXwwfHx8MTc5NTU0MzM0NHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1627317764899-eb00cfc40ac2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YXdhbWklMjBsZWFndWUlMjBsZWFkZXIlMjBhYmR1bCUyMGdvdmVybm1lbnR8ZW58MXwwfHx8MTc5NTU0Njk0OHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-24T17:29:31+00:00",
+      "published_at": "2026-11-24T17:59:36+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 4.2211,
+      "importance_score": 6.5,
+      "rank_score": 3.9812,
       "sources": [
         {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/nation/425687/awami-league-leader-shot-dead-in-khulna",
+          "title": "Awami League leader shot dead in Khulna",
+          "snippet": "Awami League leader shot dead in Khulna"
+        },
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/bangladesh/post-1225473/",
+          "title": "খুলনায় দুর্বৃত্তদের গুলিতে নিহত ১",
+          "snippet": "খুলনায় দুর্বৃত্তদের গুলিতে নিহত ১"
+        },
+        {
           "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822855/%E0%A6%B8%E0%A6%AC-%E0%A6%A6%E0%A6%B2%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%AA%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A6%A4%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%AF%E0%A6%BC",
-          "title": "সব দলকে নিয়ে প্রধানমন্ত্রীর সংলাপে বসতে চায় জামায়াত",
-          "snippet": "সব দলকে নিয়ে প্রধানমন্ত্রীর সংলাপে বসতে চায় জামায়াত"
+          "url": "https://www.ittefaq.com.bd/822857/%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7",
+          "title": "খুলনায় দুর্বৃত্তদের গুলিতে কার্যক্রম নিষিদ্ধ আওয়ামী লীগ নেতা নিহত",
+          "snippet": "খুলনায় দুর্বৃত্তদের গুলিতে কার্যক্রম নিষিদ্ধ আওয়ামী লীগ নেতা নিহত"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সংলাপে অংশ নিতে চায় জামায়াতে ইসলামী",
-        "title_en": "Jamaat-e-Islami wants to participate in dialogue",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমানের ডাকা রাজনৈতিক দলগুলোর সংলাপে জোটবদ্ধভাবে অংশ নিতে চায় জামায়াতে ইসলামী।",
-        "summary_en": "Jamaat-e-Islami wants to participate in the dialogue with political parties called by Prime Minister Tarique Rahman as an alliance.",
+        "title_bn": "খুলনায় দুর্বৃত্তদের গুলিতে সাবেক আওয়ামী লীগ নেতা আব্দুল হালিম নিহত",
+        "title_en": "Awami League leader Abdul Halim Sheikh shot dead in Khulna",
+        "summary_bn": "খুলনায় ২৪ নভেম্বর রাতে দুর্বৃত্তদের গুলিতে সাবেক আওয়ামী লীগ নেতা আব্দুল হালিম নিহত হয়েছেন।",
+        "summary_en": "Former Awami League local leader Abdul Halim Sheikh was shot dead by miscreants in Khulna on 24 November.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -40,380 +127,339 @@
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-24T17:29:31+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমানের ডাকা রাজনৈতিক দলগুলোর সংলাপে জোটবদ্ধভাবে অংশ নিতে চায় জামায়াতে ইসলামী।",
-        "lead_en": "Jamaat-e-Islami wants to participate in the dialogue with political parties called by Prime Minister Tarique Rahman as an alliance.",
+        "published_at": "2026-11-24T17:59:36+00:00",
+        "lead_bn": "খুলনায় ২৪ নভেম্বর রাতে দুর্বৃত্তদের গুলিতে সাবেক আওয়ামী লীগ নেতা আব্দুল হালিম নিহত হয়েছেন।",
+        "lead_en": "Former Awami League local leader Abdul Halim Sheikh was shot dead by miscreants in Khulna on 24 November.",
         "bullets_bn": [
-          "দলটি একা নয়, ১১-দলীয় ঐক্যের সব দলকে সঙ্গে নিয়ে সংলাপে বসতে চায়।",
-          "জাতীয় নাগরিক পার্টিসহ অন্যান্য দলকেও সংলাপে আমন্ত্রণ জানানোর পক্ষে মত দিয়েছে জামায়াত।",
-          "কার্যক্রম নিষিদ্ধ থাকা আওয়ামী লীগের সহিংসতার প্রেক্ষাপটে প্রধানমন্ত্রী এই সংলাপের উদ্যোগ নিয়েছেন।"
+          "দৌলতপুরের কল্পতরু মার্কেট এলাকায় রাত আনুমানিক ৮টার দিকে এ ঘটনা ঘটে।",
+          "স্থানীয়রা জানান, দুর্বৃত্তরা তার মাথা ও বুকে গুলি করে পালিয়ে যায়।",
+          "নিহত আব্দুল হালিম খুলনা কেসিসি ৪ নম্বর ওয়ার্ড আওয়ামী লীগের সাবেক সাংগঠনিক সম্পাদক ছিলেন।"
         ],
         "bullets_en": [
-          "The party wants to sit for dialogue not alone, but together with all parties of the 11-party alliance.",
-          "Jamaat has expressed its opinion in favor of inviting other parties including the National Citizen Party to the dialogue.",
-          "The Prime Minister has taken this dialogue initiative in the context of violence by the banned Awami League."
+          "The incident occurred around 8:00 PM in the Kalpataru Market area of Daulatpur.",
+          "Miscreants shot him in the head and chest before fleeing, according to locals.",
+          "The deceased was a former organising secretary of Awami League's KCC Ward No 4 unit."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "সংলাপে অংশ নিতে চায় জামায়াত",
-        "kicker_bn": "সংলাপ",
+        "details_bn": "নিহত আব্দুল হালিম দেয়ানা উত্তরপাড়ার হোসেন শাহ রোডের মৃত মোহাম্মদ শেখের ছেলে ছিলেন। ঘটনাটির তথ্য নিশ্চিত করেছেন দৌলতপুর থানার ভারপ্রাপ্ত কর্মকর্তা।",
+        "details_en": "The deceased was the son of late Mohammad Sheikh of Hosen Shah Road in Deyana Uttarpara. The Officer-in-Charge of Daulatpur Police Station confirmed the incident.",
+        "hook_bn": "খুলনায় গুলিতে সাবেক আওয়ামী লীগ নেতা নিহত",
+        "kicker_bn": null,
         "share_value": false,
-        "question_bn": "রাজনৈতিক দলগুলোর এই সংলাপে দেশের পরিস্থিতিতে কী প্রভাব পড়তে পারে বলে আপনি মনে করেন?"
+        "question_bn": null
       },
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-24T18:05:37.386790+00:00"
+        "checked_at": "2026-11-24T19:05:20.981989+00:00"
       }
     },
     {
-      "story_id": "dfa90a1d-d377-58aa-a8ea-8fdca18ca49d",
-      "primary_category": "governance_law",
+      "story_id": "58eac3da-6405-5c52-bc33-ad77e2db2b94",
+      "primary_category": "society_education",
       "interest_categories": [
+        "society_education",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#CoxsBazar",
+        "#ChattogramCoxsBazarHighway"
       ],
-      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/red-crisent.jpg",
+      "image_url": "https://images.unsplash.com/photo-1565277137786-852b2b136552?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGllJTIwYnVzJTIwYXV0b3JpY2tzaGF3JTIwY29sbGlzaW9uJTIwZWR1Y2F0aW9ufGVufDF8MHx8fDE3OTU1NDY5Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-24T16:16:19+00:00",
+      "published_at": "2026-11-24T17:23:10+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 3.9339,
+      "importance_score": 6.5,
+      "rank_score": 3.844,
       "sources": [
         {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/law-justice/post-1225459/",
-          "title": "রেড ক্রিসেন্টের নির্বাচন ১৫ দিনের মধ্যে শেষ করার নির্দেশ হাইকোর্টের",
-          "snippet": "রেড ক্রিসেন্টের নির্বাচন ১৫ দিনের মধ্যে শেষ করার নির্দেশ হাইকোর্টের"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/accidents/425686/five-killed-in-bus-auto-rickshaw-collision-in",
+          "title": "Five killed in bus-auto-rickshaw collision in Cox’s Bazar",
+          "snippet": "Five killed in bus-auto-rickshaw collision in Cox’s Bazar"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/five-die-as-bus-smashes-into-autorickshaw-on-chattogram-coxs-bazar-highway",
+          "title": "Five die as bus smashes into autorickshaw on Chattogram-Cox's Bazar Highway",
+          "snippet": "Five die as bus smashes into autorickshaw on Chattogram-Cox's Bazar Highway"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/5-killed-head-collision-between-bus-auto-rickshaw/",
+          "title": "বাস-অটোরিকশার মুখোমুখি সংঘর্ষে নিহত ৫",
+          "snippet": "বাস-অটোরিকশার মুখোমুখি সংঘর্ষে নিহত ৫"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রেড ক্রিসেন্টের নির্বাচন ১৫ দিনের মধ্যে শেষের নির্দেশ হাইকোর্টের",
-        "title_en": "High Court orders BDRCS election completion within 15 days",
-        "summary_bn": "বাংলাদেশ রেড ক্রিসেন্ট সোসাইটির আগের নির্বাচন কমিশনকে পূর্বঘোষিত তফসিল অনুযায়ী ১৫ দিনের মধ্যে নির্বাচন সম্পন্ন করার নির্দেশ দিয়েছেন হাইকোর্ট।",
-        "summary_en": "The High Court has ordered the previous election commission of Bangladesh Red Crescent Society to complete the election within 15 days per the declared schedule.",
+        "title_bn": "কক্সবাজারে বাস ও অটোরিকশার সংঘর্ষে ৫ জন নিহত",
+        "title_en": "Five die in bus-autorickshaw collision in Cox's Bazar",
+        "summary_bn": "২৪ নভেম্বর কক্সবাজারে একটি যাত্রীবাহী বাস ও অটোরিকশার মুখোমুখি সংঘর্ষে পাঁচজন নিহত হয়েছেন।",
+        "summary_en": "Five people were killed in a head-on collision between a passenger bus and an auto-rickshaw in Cox's Bazar on 24 November.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "society_education",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-24T16:16:19+00:00",
-        "lead_bn": "বাংলাদেশ রেড ক্রিসেন্ট সোসাইটির আগের নির্বাচন কমিশনকে পূর্বঘোষিত তফসিল অনুযায়ী ১৫ দিনের মধ্যে নির্বাচন সম্পন্ন করার নির্দেশ দিয়েছেন হাইকোর্ট।",
-        "lead_en": "The High Court has ordered the previous election commission of Bangladesh Red Crescent Society to complete the election within 15 days per the declared schedule.",
+        "published_at": "2026-11-24T17:23:10+00:00",
+        "lead_bn": "২৪ নভেম্বর কক্সবাজারে একটি যাত্রীবাহী বাস ও অটোরিকশার মুখোমুখি সংঘর্ষে পাঁচজন নিহত হয়েছেন।",
+        "lead_en": "Five people were killed in a head-on collision between a passenger bus and an auto-rickshaw in Cox's Bazar on 24 November.",
         "bullets_bn": [
-          "আদালত নতুন করে গঠিত নির্বাচন কমিশনের যাবতীয় কার্যক্রম তিন মাসের জন্য স্থগিত করেছেন।",
-          "আগের কমিশন ভেঙে নতুন তফসিল ঘোষণা আপিল বিভাগের আদেশকে ব্যর্থ করার কৌশল বলে পর্যবেক্ষণ দিয়েছেন হাইকোর্ট।",
-          "নতুন কমিশন সংক্রান্ত সার্কুলার ও স্মারক কেন বেআইনি ঘোষণা করা হবে না, জানতে চার সপ্তাহের রুল জারি করা হয়েছে।"
+          "দুর্ঘটনাটি কক্সবাজার-চট্টগ্রাম মহাসড়কের ঈদগাঁও থানার সামনে সন্ধ্যা সাড়ে ৬টার দিকে ঘটে।",
+          "পুলিশ জানায়, ঘটনাস্থলেই তিনজন এবং কক্সবাজার সদর হাসপাতালে নেওয়ার পথে দুজন মারা যান।",
+          "ঘটনায় এক মা ও তাঁর শিশু সন্তান গুরুতর আহত হলে তাঁদের আশঙ্কাজনক অবস্থায় রামু উপজেলা স্বাস্থ্য কমপ্লেক্সে নেওয়া হয়।"
         ],
         "bullets_en": [
-          "The High Court stayed all activities of the newly formed election commission for three months.",
-          "The court observed that forming a new commission seemed to be a strategy to frustrate the Appellate Division order.",
-          "A supplementary rule was issued asking why the circulars regarding the new commission should not be declared illegal."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "গত ২৭ অক্টোবরের সার্কুলারের মাধ্যমে গঠিত নতুন নির্বাচন কমিশন ও ৪ নভেম্বরের স্মারকের বৈধতা চ্যালেঞ্জ করে রিট আবেদন করা হয়। ২৪ নভেম্বর বিচারপতি সিকদার মাহমুদুর রাজী ও বিচারপতি ফাতেমা আনোয়ারের সমন্বয়ে গঠিত হাইকোর্ট বেঞ্চ সম্পূরক আবেদনের শুনানি শেষে এই আদেশ দেন। নির্দেশ অনুযায়ী আগের তিন সদস্যের নির্বাচন কমিশন সাচিবিক, আর্থিক ও প্রয়োজনীয় লজিস্টিক সহায়তায় চূড়ান্ত ভোটার তালিকার ভিত্তিতে নির্বাচন সম্পন্ন করবে।",
-        "details_en": "The High Court bench of Justice Sikder Mahmudur Razi and Justice Fatema Anwar issued the order following a supplementary application hearing on Writ Petition 13257/2026 on 24 November. The court stayed the 27 October circular forming a new commission and a 4 November memo. The directives specify that the previous three-member election commission must receive secretarial, financial, and logistical support to finish the election process based on the final voter list.",
-        "hook_bn": "রেড ক্রিসেন্টের নির্বাচন ১৫ দিনে শেষের নির্দেশ",
-        "kicker_bn": "হাইকোর্টের আদেশ",
-        "share_value": false,
-        "question_bn": "রেড ক্রিসেন্ট সোসাইটির নির্বাচন সংক্রান্ত হাইকোর্টের এই আদেশের বিষয়ে আপনার মতামত কী?"
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-24T18:05:37.386790+00:00"
-      }
-    },
-    {
-      "story_id": "e31c879f-f2b7-5331-83c7-283db420c971",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/soudi-tower.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-24T16:42:50+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.1345,
-      "sources": [
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/international/post-1225469/",
-          "title": "রিয়াদে সবচেয়ে উঁচু ভবনে হুতিদের হামলা, আহত ১১",
-          "snippet": "রিয়াদে সবচেয়ে উঁচু ভবনে হুতিদের হামলা, আহত ১১"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রিয়াদে সবচেয়ে উঁচু ভবনে হুতিদের হামলায় ১১ জন আহত",
-        "title_en": "Houthi attack on highest building in Riyadh injures 11 civilians",
-        "summary_bn": "ইয়েমেনের প্রতিরোধ গোষ্ঠী হুতিদের দ্বিতীয় দফার ক্ষেপণাস্ত্র হামলায় সৌদি আরবের রাজধানী রিয়াদের সবচেয়ে উঁচু ভবনে ১১ জন বেসামরিক ব্যক্তি আহত হয়েছেন।",
-        "summary_en": "Eleven civilians were injured after Yemeni resistance group Houthis launched a second missile attack on Saudi Arabia's tallest building in Riyadh.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-24T16:42:50+00:00",
-        "lead_bn": "ইয়েমেনের প্রতিরোধ গোষ্ঠী হুতিদের দ্বিতীয় দফার ক্ষেপণাস্ত্র হামলায় সৌদি আরবের রাজধানী রিয়াদের সবচেয়ে উঁচু ভবনে ১১ জন বেসামরিক ব্যক্তি আহত হয়েছেন।",
-        "lead_en": "Eleven civilians were injured after Yemeni resistance group Houthis launched a second missile attack on Saudi Arabia's tallest building in Riyadh.",
-        "bullets_bn": [
-          "আহতদের মধ্যে দুজন সৌদি, দুজন ভারতীয়, তিনজন নেপালি এবং চারজন মিশরীয় নাগরিক রয়েছেন।",
-          "সৌদি নেতৃত্বাধীন জোটের মুখপাত্র ের এই হামলাকে একটি কাপুরুষোচিত সন্ত্রাসী হামলা বলে বর্ণনা করেছেন।",
-          "স্পিকার লাগানো গাড়ির মাধ্যমে পথচারীদের নিরাপদ আশ্রয়ে যাওয়ার সতর্কবার্তা দেওয়া হলেও মুঠোফোনে কোনো বার্তা পাঠানো হয়নি।"
-        ],
-        "bullets_en": [
-          "The injured include two Saudi, two Indian, three Nepali, and four Egyptian citizens.",
-          "A spokesman for the Saudi-led coalition described Tuesday's strike as a cowardly terrorist attack.",
-          "A vehicle with speakers warned pedestrians to seek shelter, though no mobile alert was sent."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "এক সপ্তাহেরও কম সময়ের মধ্যে রিয়াদের কিং আবদুল্লাহ ফিন্যান্সিয়াল ডিস্ট্রিক্টে অবস্থিত পাবলিক ইনভেস্টমেন্ট ফান্ড (পিআইএফ) টাওয়ার দ্বিতীয়বারের মতো হামলার শিকার হলো। এর আগে পরিচালিত হামলায় দেশটির সার্বভৌম সম্পদ তহবিলের সদর দপ্তর হিসেবে ব্যবহৃত এ ভবনটির বস্তুগত ক্ষতি হয়েছিল। ের হামলায় আক্রান্ত ভবনটি পিআইএফ টাওয়ার বলে তিনজন প্রত্যক্ষদর্শী নিশ্চিত করেছেন। ঘটনার পর জরুরি সেবাদানকারী দল দ্রুত ব্যবস্থা নিয়েছে এবং বেসামরিক প্রতিরক্ষা সংস্থা জানিয়েছে যে পরিস্থিতি তদন্তাধীন রয়েছে।",
-        "details_en": "This was the second attack in less than a week on the Public Investment Fund (PIF) Tower located in Riyadh's King Abdullah Financial District. A previous attack on Thursday caused material damage to the building, which serves as the headquarters for Saudi Arabia's sovereign wealth fund. Three witnesses confirmed the PIF Tower was targeted in Tuesday's strike. Emergency teams responded promptly, and the Saudi civil defense authority confirmed that an investigation into the incident is currently underway.",
-        "hook_bn": "রিয়াদে উঁচু ভবনে হামলায় আহত ১১",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-24T18:05:37.386790+00:00"
-      }
-    },
-    {
-      "story_id": "c059d2cc-dec3-56e9-9d45-5f1294ebe711",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business",
-        "tech_innovation"
-      ],
-      "region": "national",
-      "tags": [
-        "#Nvidia",
-        "#JensenHuang",
-        "#UnitedStates",
-        "#Singapore"
-      ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/official-X-account-of-Nvidia.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-24T18:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 3.6,
-      "rank_score": 1.2933,
-      "sources": [
-        {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/global-economy/news/us-targets-chip-smuggling-china-after-huangs-return-nvidia-4332426",
-          "title": "US targets chip smuggling to China after Huang’s return to Nvidia",
-          "snippet": "US targets chip smuggling to China after Huang’s return to Nvidia"
-        },
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining?traffic_source=rss",
-          "title": "China’s probes Shanghai party chief Chen Jining over corruption",
-          "snippet": "China’s probes Shanghai party chief Chen Jining over corruption"
-        },
-        {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
-          "title": "What Jensen Huang's return teaches China's Xi about Trump",
-          "snippet": "What Jensen Huang's return teaches China's Xi about Trump"
-        },
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/china-announces-shock-corruption-probe-into-politburo-member/article71738737.ece",
-          "title": "China announces shock corruption probe into Politburo member",
-          "snippet": "China announces shock corruption probe into Politburo member"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "যুক্তরাষ্ট্র চীনে চিপ পাচার রোধে বাণিজ্য কালোতালিকা সম্প্রসারণ করেছে",
-        "title_en": "United States targets chip smuggling to China with trade blacklist expansion",
-        "summary_bn": "সিঙ্গাপুরের একটি কোম্পানি এবং আলিবাবার এক সহায়ক সংস্থাকে উন্নত চিপ কেনা থেকে নিষিদ্ধ করতে বাণিজ্য কালোতালিকায় যুক্ত করেছে যুক্তরাষ্ট্র।",
-        "summary_en": "The United States added a Singaporean company and an Alibaba subsidiary to a trade blacklist barring them from purchasing advanced chips.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business",
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-24T18:00:00+00:00",
-        "lead_bn": "সিঙ্গাপুরের একটি কোম্পানি এবং আলিবাবার এক সহায়ক সংস্থাকে উন্নত চিপ কেনা থেকে নিষিদ্ধ করতে বাণিজ্য কালোতালিকায় যুক্ত করেছে যুক্তরাষ্ট্র।",
-        "lead_en": "The United States added a Singaporean company and an Alibaba subsidiary to a trade blacklist barring them from purchasing advanced chips.",
-        "bullets_bn": [
-          "সিঙ্গাপুর সরকারের পক্ষ থেকে যুক্তরাষ্ট্রের সাথে সহযোগিতার বিষয়ে সম্মত হওয়ার কথা জানানো হয়েছে।",
-          "যুক্তরাষ্ট্রের বাণিজ্য বিভাগের ফিনান্সিয়াল রেজিস্টারে প্রকাশিত ফাইলিংয়ে এই তালিকাভুক্তির কথা বলা হয়।",
-          "মালয়েশিয়ার পক্ষ থেকে ডাটা সেন্টার অপারেটরদের কালোতালিকাভুক্ত সাতটি কোম্পানির সাথে যোগাযোগ বিচ্ছিন্ন করার আহ্বান জানানো হয়েছে।"
-        ],
-        "bullets_en": [
-          "Singapore agreed to cooperate with the United States following the trade blacklist addition.",
-          "The companies were added to the US Commerce Department Entity List as detailed in a Federal Register filing.",
-          "Malaysia urged data centre operators to cut links with seven companies on the blacklist."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "এনভিডিয়া কেলেঙ্কারির সাথে যুক্ত মেগাস্পিড ইন্টারন্যাশনাল সম্পর্কিত কোম্পানিটি যুক্তরাষ্ট্র কালোতালিকায় অন্তর্ভুক্ত করেছে। এর আগে জেনসেন হুয়াং পরকীয়া সম্পর্কের জেরে পদত্যাগ করেছিলেন এবং পরবর্তীতে মার্কিন সরকারের কাছ থেকে তিনি জাতীয় নিরাপত্তার জন্য ঝুঁকি নন—এমন তথ্য পাওয়ার পর তাকে প্রধান নির্বাহী হিসেবে পুনর্বহাল করা হয়।",
-        "details_en": "The US added Megaspeed International, a company at the centre of an Nvidia scandal, to the Entity List. Jensen Huang had previously resigned over extramarital affairs before being reinstated as chief executive after the US government received information that he did not pose a national security risk.",
-        "hook_bn": "যুক্তরাষ্ট্র কালোতালিকায় যুক্ত করেছে মেগাস্পিড ইন্টারন্যাশনালকে",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-24T18:05:37.386790+00:00"
-      }
-    },
-    {
-      "story_id": "c6f74fc0-ef8d-5f0b-b403-5d19c35a4588",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness"
-      ],
-      "region": "international",
-      "tags": [
-        "#Arsenal",
-        "#BorussiaDortmund",
-        "#UEFAChampionsLeague"
-      ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-07T170117Z_144779000_UP1EMB71BA3QD_RTRMADP_3_SOCCER-ENGLAND-ARS-HUL-1795542538.jpg?resize=1920%2C1440",
-      "image_caption": null,
-      "published_at": "2026-11-24T16:01:23+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.2573,
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/11/24/arsenal-vs-borussia-dortmund-live-uefa-champions-league?traffic_source=rss",
-          "title": "Arsenal vs Borussia Dortmund LIVE: UEFA Champions League",
-          "snippet": "Arsenal vs Borussia Dortmund LIVE: UEFA Champions League"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "আর্সেনাল ও বরুশিয়া ডর্টমুন্ডের ম্যাচ নিয়ে আল জাজিরার লাইভ কভারেজ চলছে।",
-        "title_en": "Al Jazeera provides live coverage of the Arsenal vs Borussia Dortmund match.",
-        "summary_bn": "আল জাজিরা ইংলিশ আর্সেনাল ও বরুশিয়া ডর্টমুন্ডের উয়েফা চ্যাম্পিয়নস লিগ ম্যাচ নিয়ে লাইভ টেক্সট কমেন্ট্রি স্ট্রিমিং পরিবেশন করছে।",
-        "summary_en": "Al Jazeera English is providing live text commentary streaming of the UEFA Champions League match between Arsenal and Borussia Dortmund.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-24T16:01:23+00:00",
-        "lead_bn": "আল জাজিরা ইংলিশ আর্সেনাল ও বরুশিয়া ডর্টমুন্ডের উয়েফা চ্যাম্পিয়নস লিগ ম্যাচ নিয়ে লাইভ টেক্সট কমেন্ট্রি স্ট্রিমিং পরিবেশন করছে।",
-        "lead_en": "Al Jazeera English is providing live text commentary streaming of the UEFA Champions League match between Arsenal and Borussia Dortmund.",
-        "bullets_bn": [
-          "মার্টিন ওডেগার্ড এই কভারেজের শিরোনামে রয়েছেন।",
-          "পাঠকেরা লাইভ টেক্সট কমেন্ট্রি স্ট্রিমিংয়ের মাধ্যমে আপডেট অনুসরণ করতে পারবেন।",
-          "কভারেজের মধ্যে রয়েছে বিল্ড-আপ এবং দলীয় খবরের বিবরণ।"
-        ],
-        "bullets_en": [
-          "Martin Odegaard headlines the coverage.",
-          "Readers can follow updates through the live text commentary stream.",
-          "The coverage includes build-up and team news reporting."
+          "The accident occurred around 6:30 PM in front of Eidgaon Police Station on the Chattogram-Cox's Bazar Highway.",
+          "Police said three victims died on the spot, while two others died en route to Cox's Bazar Sadar Hospital.",
+          "A mother and her child were critically injured and taken to Ramu Upazila Health Complex in critical condition."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "আর্সেনাল ও বরুশিয়া ডর্টমুন্ডের চ্যাম্পিয়নস লিগ লাইভ",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": "উয়েফা চ্যাম্পিয়নস লিগের এই ম্যাচে আপনার সমর্থন কোন দলের প্রতি?"
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-24T18:05:37.386790+00:00"
-      }
-    },
-    {
-      "story_id": "34435495-8503-510e-acab-8bdfad1f6116",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Satkhira",
-        "#Kaliganj",
-        "#SepticTankAccident"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/21/dead_2.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-24T15:40:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 3.0,
-      "rank_score": 0.7849,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/2-die-after-inhaling-toxic-gas-satkhira-septic-tank-1613061",
-          "title": "2 die after inhaling toxic gas in Satkhira septic tank",
-          "snippet": "2 die after inhaling toxic gas in Satkhira septic tank"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/nation/425676/2-die-after-inhaling-toxic-gas-in-satkhira-septic",
-          "title": "2 die after inhaling toxic gas in Satkhira septic tank",
-          "snippet": "2 die after inhaling toxic gas in Satkhira septic tank"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সাতক্ষীরায় সেপটিক ট্যাংকের বিষাক্ত গ্যাসে দুইজনের মৃত্যু",
-        "title_en": "Two die after inhaling toxic gas in Satkhira septic tank",
-        "summary_bn": "২৪ নভেম্বর সাতক্ষীরায় একটি সেপটিক ট্যাংকের বিষাক্ত গ্যাসে দুইজনের মৃত্যু হয়েছে এবং দুইজন অসুস্থ হয়ে পড়েছেন।",
-        "summary_en": "Two people died and two others fell sick after inhaling toxic gas from a septic tank in Satkhira on 24 November.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-24T15:40:00+00:00",
-        "lead_bn": "২৪ নভেম্বর সাতক্ষীরায় একটি সেপটিক ট্যাংকের বিষাক্ত গ্যাসে দুইজনের মৃত্যু হয়েছে এবং দুইজন অসুস্থ হয়ে পড়েছেন।",
-        "lead_en": "Two people died and two others fell sick after inhaling toxic gas from a septic tank in Satkhira on 24 November.",
-        "bullets_bn": [
-          "আশরাফ নামের এক ব্যক্তির সেপটিক ট্যাংক পরিষ্কার করতে গিয়ে মহানন্দ সরকার এবং তাঁর খোঁজ নিতে গিয়ে মো. আরাফাত মারা যান।",
-          "তারালী ইউপি সদস্য এনামুল হক জানান, স্থানীয়রা অসুস্থদের উদ্ধার করে সাতক্ষীরা মেডিকেল কলেজ হাসপাতালে নিয়ে যান।",
-          "উদ্ধার করতে গিয়ে অসুস্থ হওয়া ব্যক্তিদের মধ্যে জাতীয়তাবাদী স্বেচ্ছাসেবক দল তারালী ইউনিয়ন শাখার যুগ্ম আহ্বায়ক গোলাম হোসেন রয়েছেন।"
-        ],
-        "bullets_en": [
-          "Mahananda Sarkar died while cleaning a septic tank, and Md Arafat died after going to check his condition.",
-          "Tarali Union Parishad member Enamul Haque said local people rescued two sick individuals and took them to Satkhira Medical College Hospital.",
-          "The sick individuals included Jatiyatabadi Swechchhasebak Dal Tarali union unit joint convener Golam Hossain, who attempted a rescue."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "নিহতরা হলেন সনাতন সরকারের ছেলে ৩৫ বছর বয়সী মহানন্দ সরকার এবং কালিগঞ্জের বাড়িয়া গ্রামের মনি পাড়ের ছেলে ১৬ বছর বয়সী মো. আরাফাত। আশরাফের সেপটিক ট্যাংক পরিষ্কার করতে গিয়ে বিষাক্ত গ্যাসে মহানন্দ ঘটনাস্থলেই মারা যান। পরে তাঁর অবস্থা দেখতে গিয়ে আরাফাত এবং তাঁদের উদ্ধারচেষ্টাকালে আরও দুইজন বিষাক্ত গ্যাসে আক্রান্ত হন।",
-        "details_en": "The deceased were identified as 35-year-old Mahananda Sarkar, son of Sanatan Sarkar, and 16-year-old Md Arafat, son of Moni Par of Bareya village in Kaliganj upazila. Mahananda died on the spot after inhaling toxic gas inside the septic tank. Arafat and two rescuers subsequently entered the tank, resulting in Arafat's death and illness of the two rescuers.",
-        "hook_bn": "সাতক্ষীরায় সেপটিক ট্যাংকের বিষাক্ত গ্যাসে দুই মৃত্যু",
+        "hook_bn": "কক্সবাজারের ঈদগাঁওয়ে বাস-অটোরিকশা সংঘর্ষে নিহত ৫",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-24T18:05:37.386790+00:00"
+        "checked_at": "2026-11-24T19:05:20.981989+00:00"
+      }
+    },
+    {
+      "story_id": "db5004ab-69a6-5c79-b672-c6602bd6f085",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": "https://images.unsplash.com/flagged/photo-1612703439778-c265ec4781ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8c291dGglMjBhZnJpY2ElMjBidWlsdCUyMHJ1biUyMHNwb3J0c3xlbnwxfDB8fHwxNzk1NTQ2OTk5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-24T18:31:17+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.25,
+      "rank_score": 3.7949,
+      "sources": [
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822860/%E0%A6%B8%E0%A7%87%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%A8-%E0%A6%9F%E0%A7%87%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%87-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%B6%E0%A7%87%E0%A6%B7%E0%A7%87-%E0%A7%AA%E0%A7%A6%E0%A7%A9-%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B2%E0%A6%BF%E0%A6%A1",
+          "title": "সেঞ্চুরিয়ন টেস্টে দ্বিতীয় দিন শেষে ৪০৩ রানের লিড দক্ষিণ আফ্রিকার",
+          "snippet": "সেঞ্চুরিয়ন টেস্টে দ্বিতীয় দিন শেষে ৪০৩ রানের লিড দক্ষিণ আফ্রিকার"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/sports/cricket/1183344",
+          "title": "দিনের শেষ ওভারে উল্লাস বাংলাদেশের, প্রোটিয়াদের ৪০৩ রানের বড় লিড",
+          "snippet": "দিনের শেষ ওভারে উল্লাস বাংলাদেশের, প্রোটিয়াদের ৪০৩ রানের বড় লিড"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সেঞ্চুরিয়ন টেস্টের দ্বিতীয় দিন শেষে বাংলাদেশের বিপক্ষে ৪০৩ রানের লিড দক্ষিণ আফ্রিকার",
+        "title_en": "South Africa built a 403-run lead against Bangladesh in Centurion Test second day",
+        "summary_bn": "সেঞ্চুরিয়ন টেস্টে দ্বিতীয় দিনের খেলা শেষে বাংলাদেশের বিপক্ষে স্বাগতিক দক্ষিণ আফ্রিকা ৪০৩ রানের বড় লিড নিয়েছে।",
+        "summary_en": "South Africa secured a massive 403-run lead against Bangladesh by the end of the second day of the Centurion Test.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T18:31:17+00:00",
+        "lead_bn": "সেঞ্চুরিয়ন টেস্টে দ্বিতীয় দিনের খেলা শেষে বাংলাদেশের বিপক্ষে স্বাগতিক দক্ষিণ আফ্রিকা ৪০৩ রানের বড় লিড নিয়েছে।",
+        "lead_en": "South Africa secured a massive 403-run lead against Bangladesh by the end of the second day of the Centurion Test.",
+        "bullets_bn": [
+          "ওপেনার মার্কেস অ্যাকারম্যান ১৩৭ বলে ১৫০ রান করে টেস্টে দক্ষিণ আফ্রিকার দ্রুততম ১৫০ রানের রেকর্ড গড়েছেন।",
+          "দক্ষিণ আফ্রিকার হয়ে ইনিংসে টানা দ্বিতীয় টেস্টে সেঞ্চুরি পূরণ করেন মার্কেস অ্যাকারম্যান।",
+          "দিনের শেষ ওভারে পার্টটাইমার তাওহীদ হৃদয়ের ঘূর্ণিতে উইকেটরক্ষকের ক্যাচ হন সেঞ্চুরিয়ান উইয়ান মুল্ডার।"
+        ],
+        "bullets_en": [
+          "Opener Marques Ackerman completed 150 off 137 balls, setting South Africa's fastest 150-run record in Test cricket.",
+          "Ackerman also scored a century in his second consecutive Test match during the South African innings.",
+          "On the final over of the day, part-timer Towhid Hridoy dismissed century-maker Wiaan Mulder, caught behind by the keeper."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "দক্ষিণ আফ্রিকা ২৪ নভেম্বর ১ উইকেটে ৮৮ রান নিয়ে দ্বিতীয় দিনের খেলা শুরু করে।",
+        "details_en": "South Africa resumed play on 24 November from 88 runs for the loss of one wicket.",
+        "hook_bn": "সেঞ্চুরিয়নে দক্ষিণ আফ্রিকার ৪০৩ রানের বিশাল লিড",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "সেঞ্চুরিয়ন টেস্টে বাংলাদেশের পারফরম্যান্স নিয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T19:05:20.981989+00:00"
+      }
+    },
+    {
+      "story_id": "9c028c19-d75f-5024-b357-1af2c981000a",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#NBR",
+        "#GopalganjViolence",
+        "#BankAccountFreeze",
+        "#CentralIntelligenceCell"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/16/unf8rq1f.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-24T18:35:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5099,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/nbr/nbr-freezes-bank-accounts-97-individuals-4-firms-over-funding-gopalganj-violence-1613136",
+          "title": "NBR freezes bank accounts of 97 individuals, 4 firms over funding of Gopalganj violence",
+          "snippet": "NBR freezes bank accounts of 97 individuals, 4 firms over funding of Gopalganj violence"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "গোপালগঞ্জে সহিংসতায় অর্থায়নের অভিযোগে ৯৭ ব্যক্তি ও ৪ প্রতিষ্ঠানের ব্যাংক হিসাব স্থগিত",
+        "title_en": "NBR freezes bank accounts of 97 individuals and four entities over Gopalganj violence",
+        "summary_bn": "গোপালগঞ্জে সাম্প্রতিক নাশকতা ও আইনশৃঙ্খলা রক্ষাকারী বাহিনীর ওপর হামলায় অর্থায়নের অভিযোগে ৯৭ জন ব্যক্তি এবং চারটি প্রতিষ্ঠানের ব্যাংক হিসাব স্থগিত করেছে এনবিআর।",
+        "summary_en": "The National Board of Revenue has frozen the bank accounts of 97 individuals and four business entities over allegations of financing recent Gopalganj violence.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T18:35:00+00:00",
+        "lead_bn": "গোপালগঞ্জে সাম্প্রতিক নাশকতা ও আইনশৃঙ্খলা রক্ষাকারী বাহিনীর ওপর হামলায় অর্থায়নের অভিযোগে ৯৭ জন ব্যক্তি এবং চারটি প্রতিষ্ঠানের ব্যাংক হিসাব স্থগিত করেছে এনবিআর।",
+        "lead_en": "The National Board of Revenue has frozen the bank accounts of 97 individuals and four business entities over allegations of financing recent Gopalganj violence.",
+        "bullets_bn": [
+          "তালিকায় সাবেক স্বাস্থ্য সচিব সিরাজুল হক খান, তাঁর স্ত্রী এবং কার্যক্রম নিষিদ্ধ আওয়ামী লীগের স্থানীয় সাবেক নেতারা রয়েছেন।",
+          "অর্থের উৎস ও প্রকৃতি যাচাইয়ে এসব হিসাবের লেনদেন পরীক্ষা শুরু করেছে এনবিআরের সেন্ট্রাল ইন্টেলিজেন্স সেল।",
+          "তালিকায় সর্বোচ্চ ৩২ জন কোটালীপাড়ার, এছাড়া কাশিয়ানীর ১৯, গোপালগঞ্জ সদরের ১৭, টুঙ্গিপাড়ার ১৫ ও মুকসুদপুরের ১৪ জন রয়েছেন।"
+        ],
+        "bullets_en": [
+          "The list includes former health secretary Sirajul Haque Khan, his wife, and former leaders of the activity-banned Awami League.",
+          "NBR's Central Intelligence Cell has begun examining banking transactions to verify the source and nature of the funds.",
+          "Among the individuals, Kotalipara has the highest number at 32, followed by Kashiani, Gopalganj Sadar, Tungipara, and Muksudpur."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "গোপালগঞ্জে আইনশৃঙ্খলা রক্ষাকারী বাহিনীর ওপর হামলা ও সাম্প্রতিক নাশকতায় অর্থায়নের অভিযোগ থেকে এই পদক্ষেপ নেওয়া হয়েছে। স্থগিত হওয়া ৯৭ জনের মধ্যে সাবেক স্বাস্থ্য সচিবসহ ১২ জনের পরিচয় এ পর্যন্ত নিশ্চিত হওয়া গেছে। বর্তমানে এনবিআরের সেন্ট্রাল ইন্টেলিজেন্স সেল সব হিসাবের আর্থিক লেনদেন পর্যালোচনা করছে। অভিযুক্তদের তাৎক্ষণিকভাবে মন্তব্যের জন্য পাওয়া যায়নি।",
+        "details_en": "The action follows allegations of financing recent sabotage and attacks on law enforcement personnel in Gopalganj. So far, the identities of 12 of the 97 individuals, including the former health secretary, have been confirmed. The NBR's Central Intelligence Cell is currently reviewing the banking transactions of all affected accounts. The accused individuals could not be reached immediately for comment.",
+        "hook_bn": "গোপালগঞ্জে সহিংসতায় অর্থায়ন: ৯৭ ব্যাংক হিসাব স্থগিত",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T19:05:20.981989+00:00"
+      }
+    },
+    {
+      "story_id": "26713f39-39c2-5f61-a18b-fca8d55cbe28",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law",
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#InceptaPharmaceuticals",
+        "#MedogenSubQ",
+        "#Contraceptive",
+        "#Healthcare"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZWR1Y2F0aW9uJTIwdW5pdmVyc2l0eSUyMHN0dWRlbnRzJTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1NTQ3MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-24T18:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.3567,
+      "sources": [
+        {
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/countrys-first-self-injectable-contraceptive-4332671",
+          "title": "Country’s first self-injectable contraceptive",
+          "snippet": "Country’s first self-injectable contraceptive"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইনসেপ্টা দেশের প্রথম স্ব-ইনজেকশনযোগ্য জন্মনিয়ন্ত্রক মেডোজেন সাবকিউ চালু করেছে",
+        "title_en": "Incepta launches Bangladesh's first self-injectable contraceptive Medogen SubQ",
+        "summary_bn": "ইনসেপ্টা ফার্মাসিউটিক্যালস লিমিটেড দেশের প্রথম নিজে গ্রহণযোগ্য জন্মনিয়ন্ত্রক এবং এ ধরনের বিশ্বের প্রথম জেনেরিক সংস্করণ মেডোজেন সাবকিউ বাজারে এনেছে।",
+        "summary_en": "Incepta Pharmaceuticals Ltd has launched Medogen SubQ, Bangladesh's first self-administered contraceptive and the world's first generic version of its kind.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law",
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T18:00:00+00:00",
+        "lead_bn": "ইনসেপ্টা ফার্মাসিউটিক্যালস লিমিটেড দেশের প্রথম নিজে গ্রহণযোগ্য জন্মনিয়ন্ত্রক এবং এ ধরনের বিশ্বের প্রথম জেনেরিক সংস্করণ মেডোজেন সাবকিউ বাজারে এনেছে।",
+        "lead_en": "Incepta Pharmaceuticals Ltd has launched Medogen SubQ, Bangladesh's first self-administered contraceptive and the world's first generic version of its kind.",
+        "bullets_bn": [
+          "প্রি-ফিল্ড ইউনিজেক্ট ডিভাইসের মাধ্যমে প্রতি তিন মাসে একবার ব্যবহারযোগ্য এই ইনজেকশনটি ক্লিনিক-ভিত্তিক ইনজেকশনের বিকল্প হিসেবে কাজ করবে।",
+          "প্রতিষ্ঠানটির মতে, ১০৪ মিলিগ্রামের এই ফর্মুলেশনে ১৫০ মিলিগ্রাম সংস্করণের চেয়ে প্রায় ৩০ শতাংশ কম উপাদান ব্যবহার করা হয়েছে।",
+          "ইনসেপ্টা জানিয়েছে, পণ্যটি এন্ডোমেট্রিওসিসজনিত ব্যথা ব্যবস্থাপনায়ও ব্যবহার করা যেতে পারে।"
+        ],
+        "bullets_en": [
+          "Administered once every three months via a pre-filled Uniject device, it serves as an alternative to conventional clinic-based injections.",
+          "The 104mg formulation uses around 30 percent less active ingredient than the 150mg version while maintaining efficacy, according to Incepta.",
+          "The product can also be used to manage endometriosis-associated pain, the company said."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইনসেপ্টার চেয়ারম্যান ও ব্যবস্থাপনা পরিচালক আবদুল মুক্তাদির জানান, মেডোজেন সাবকিউ-এর উন্নয়ন কাজ ২০১১ সালে শুরু হয় এবং গবেষণায় ১৩ থেকে ১৪ বছর সময় লাগে। এর আগে প্রতিষ্ঠানটি একটি ১৫০ মিলিগ্রামের ইন্ট্রামাস্কুলার ফর্মুলেশন তৈরি করেছিল, যা বিশ্ব স্বাস্থ্য সংস্থার প্রিকুয়ালিফিকেশন পায় এবং ১০০টিরও বেশি দেশে সরবরাহ করা হয়। শিল্প খাতের হিসাব অনুযায়ী, বাংলাদেশের ফার্মাসিউটিক্যাল জন্মনিয়ন্ত্রক বাজার বছরে প্রায় ১১০ কোটি টাকার, যার প্রায় ৯০ শতাংশই ওরাল পিল।",
+        "details_en": "Development of Medogen SubQ began in 2011 and took 13 to 14 years of research and investment, overcoming technological challenges, said Abdul Muktadir, chairman and managing director of Incepta. The company previously developed a 150mg intramuscular formulation that received World Health Organization prequalification and is supplied to over 100 countries. Bangladesh's pharmaceutical contraceptive market, consisting of oral pills and injectables, is valued at around Tk 110 crore annually, with oral pills accounting for around 90 percent.",
+        "hook_bn": "দেশে প্রথম স্ব-ইনজেকশনযোগ্য জন্মনিয়ন্ত্রক চালু",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "বাংলাদেশে নিজে ব্যবহারযোগ্য জন্মনিয়ন্ত্রক ইনজেকশনের প্রবর্তন নিয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T19:05:20.981989+00:00"
       }
     }
   ]
