@@ -1,418 +1,166 @@
 {
-  "updated_at": "2026-11-24T22:00:55.928664",
-  "total_stories": 6,
+  "updated_at": "2026-11-24T23:00:47.483313",
+  "total_stories": 2,
   "stories": [
     {
-      "story_id": "3ee6d156-0e4b-57da-b008-c415db64d26b",
-      "primary_category": "governance_law",
+      "story_id": "4a509811-8451-5e61-b292-b1b835840b8a",
+      "primary_category": "tech_innovation",
       "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZnJlZSUyMGVkdWNhdGlvbiUyMGdpcmxzJTIwZ3JhZHVhdGlvbiUyMGdvdmVybm1lbnR8ZW58MXwwfHx8MTc5NTU1NzcwMnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-24T21:23:34+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 4.1992,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1183362",
-          "title": "প্রধানমন্ত্রীর এক সিদ্ধান্ত অভিভাবকদের মনের আশা পূরণ করেছে: এমপি ফখরুল",
-          "snippet": "প্রধানমন্ত্রীর এক সিদ্ধান্ত অভিভাবকদের মনের আশা পূরণ করেছে: এমপি ফখরুল"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "স্নাতক পর্যন্ত মেয়েদের বিনামূল্যে শিক্ষা অভিভাবকদের আশা পূরণ করেছে: এমপি ফখরুল",
-        "title_en": "Free education for girls up to graduation fulfilled parents' hopes: MP Fakhrul",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমানের স্নাতক পর্যন্ত মেয়েদের বিনামূল্যে শিক্ষার সিদ্ধান্ত অভিভাবকদের মনের আশা পূরণ করেছে বলে মন্তব্য করেছেন এমপি ফখরুল।",
-        "summary_en": "MP Fakhrul stated that Prime Minister Tarique Rahman's decision on free education for girls up to graduation fulfilled parents' hopes.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-24T21:23:34+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমানের স্নাতক পর্যন্ত মেয়েদের বিনামূল্যে শিক্ষার সিদ্ধান্ত অভিভাবকদের মনের আশা পূরণ করেছে বলে মন্তব্য করেছেন এমপি ফখরুল।",
-        "lead_en": "MP Fakhrul stated that Prime Minister Tarique Rahman's decision on free education for girls up to graduation fulfilled parents' hopes.",
-        "bullets_bn": [
-          "প্রধানমন্ত্রী তারেক রহমান স্নাতক পর্যন্ত মেয়েদের বিনামূল্যে শিক্ষার সুযোগ করে দিয়েছেন।",
-          "এমপি ফখরুল এই সিদ্ধান্তকে অভিভাবকদের মনের আশা পূরণ হিসেবে উল্লেখ করেছেন।",
-          "এই সিদ্ধান্তের মাধ্যমে মেয়েদের শিক্ষার পথ আরও সুগম হয়েছে।"
-        ],
-        "bullets_en": [
-          "Prime Minister Tarique Rahman has ensured free education opportunities for girls up to graduation.",
-          "MP Fakhrul mentioned this decision as the fulfillment of parents' hopes.",
-          "This decision has smoothed the path of education for girls."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "স্নাতক পর্যন্ত মেয়েদের বিনামূল্যে শিক্ষা",
-        "kicker_bn": "বিনামূল্যে শিক্ষা",
-        "share_value": true,
-        "question_bn": "স্নাতক পর্যন্ত মেয়েদের বিনামূল্যে শিক্ষার এই সিদ্ধান্তকে আপনি কীভাবে দেখছেন?"
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-24T22:05:38.923625+00:00"
-      }
-    },
-    {
-      "story_id": "15b7e568-e09b-5e59-9703-2afd0b97134d",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1693585172757-b9e057feb878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFybGlhbWVudCUyMGxhdyUyMGNvdXJ0JTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1NDQ2NDI0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-24T20:27:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.1033,
-      "sources": [
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822866/%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C-%E0%A6%89%E0%A6%AA%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0",
-          "title": "মাদারগঞ্জ উপজেলার কার্যক্রম নিষিদ্ধ যুবলীগের সভাপতি রাজধানীর তুরাগ থেকে গ্রেপ্তার",
-          "snippet": "মাদারগঞ্জ উপজেলার কার্যক্রম নিষিদ্ধ যুবলীগের সভাপতি রাজধানীর তুরাগ থেকে গ্রেপ্তার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ঢাকার তুরাগ থেকে মাদারগঞ্জ উপজেলা নিষিদ্ধ যুবলীগের সভাপতি গ্রেপ্তার",
-        "title_en": "Banned Madarganj Jubo League president arrested in Dhaka Turag area",
-        "summary_bn": "জামালপুরের মাদারগঞ্জ উপজেলার কার্যক্রম নিষিদ্ধ আওয়ামী যুবলীগের সভাপতি ফরিদুল ইসলামকে ২৪ নভেম্বর ঢাকার তুরাগ এলাকা থেকে গ্রেপ্তার করা হয়েছে।",
-        "summary_en": "Faridul Islam, the president of the banned Awami Jubo League in Jamalpur's Madarganj Upazila, was arrested from Dhaka's Turag area on 24 November.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-24T20:27:00+00:00",
-        "lead_bn": "জামালপুরের মাদারগঞ্জ উপজেলার কার্যক্রম নিষিদ্ধ আওয়ামী যুবলীগের সভাপতি ফরিদুল ইসলামকে ২৪ নভেম্বর ঢাকার তুরাগ এলাকা থেকে গ্রেপ্তার করা হয়েছে।",
-        "lead_en": "Faridul Islam, the president of the banned Awami Jubo League in Jamalpur's Madarganj Upazila, was arrested from Dhaka's Turag area on 24 November.",
-        "bullets_bn": [
-          "৪৯ বছর বয়সী এই রাজনৈতিক নেতাকে ওইদিন সন্ধ্যায় রাজধানী থেকে গ্রেপ্তার করা হয়।",
-          "তিনি মাদারগঞ্জ উপজেলার সুখনগরী বফাত উদ্দিন তালুকদার উচ্চ বিদ্যালয়ের প্রধান শিক্ষক হিসেবে কর্মরত ছিলেন।",
-          "ফরিদুল ইসলাম জামালপুরের মাদারগঞ্জ উপজেলার পশ্চিম এলাকার বাসিন্দা।"
-        ],
-        "bullets_en": [
-          "The arrest of the 49-year-old political leader took place during the evening in the capital.",
-          "He served as the headmaster of Sukhnagari Bafat Uddin Talukdar High School in Madarganj Upazila.",
-          "Faridul Islam is a resident of the West area of Jamalpur's Madarganj Upazila."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ফরিদুল ইসলাম মাদারগঞ্জ উপজেলা আওয়ামী যুবলীগের সভাপতির দায়িত্বে ছিলেন, যার কার্যক্রম বর্তমানে নিষিদ্ধ। তাকে ঢাকার তুরাগ এলাকা থেকে গ্রেপ্তার করা হয়। রাজনৈতিক পদের পাশাপাশি তিনি সুখনগরী বফাত উদ্দিন তালুকদার উচ্চ বিদ্যালয়ের প্রধান শিক্ষক হিসেবে নিয়োজিত ছিলেন। তিনি জামালপুরের মাদারগঞ্জ উপজেলার পশ্চিম এলাকার বাসিন্দা।",
-        "details_en": "Faridul Islam held the position of president for the Madarganj Upazila unit of the Awami Jubo League, which has been banned. He was arrested in Dhaka's Turag area. In addition to his political involvement, he was the headmaster of Sukhnagari Bafat Uddin Talukdar High School. He is a resident of the West area of Jamalpur's Madarganj Upazila.",
-        "hook_bn": "তুরাগ থেকে মাদারগঞ্জ যুবলীগ সভাপতি গ্রেপ্তার",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-24T22:05:38.923625+00:00"
-      }
-    },
-    {
-      "story_id": "6cd44ad7-2146-5824-875e-c3835d9c0d9d",
-      "primary_category": "economy_business",
-      "interest_categories": [
+        "tech_innovation",
+        "world_diplomacy",
         "economy_business"
       ],
-      "region": "national",
+      "region": "international",
       "tags": [
-        "#WageBoard",
-        "#GarmentWorkers",
-        "#MinimumWage"
+        "#Huawei",
+        "#TradeSecrets",
+        "#TechNews"
       ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/wage-board_0.jpg",
+      "image_url": "https://th-i.thgim.com/public/incoming/iseakk/article71740061.ece/alternates/LANDSCAPE_1200/US_Huawei_Trial_3978_.jpg",
       "image_caption": null,
-      "published_at": "2026-11-24T20:28:02+00:00",
+      "published_at": "2026-11-24T22:55:50+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 3.6,
-      "rank_score": 1.1843,
+      "importance_score": 5.0,
+      "rank_score": 2.4867,
       "sources": [
         {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/economy/rmg/news/wage-board-sets-garment-workers-minimum-wage-tk-17000-4332716",
-          "title": "Wage board sets garment workers’ minimum wage at Tk 17,000",
-          "snippet": "Wage board sets garment workers’ minimum wage at Tk 17,000"
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/sci-tech/technology/chinese-tech-giant-huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-finds/article71740060.ece",
+          "title": "Chinese tech giant Huawei is guilty of conspiracy to steal trade secrets, U.S. jury finds",
+          "snippet": "Chinese tech giant Huawei is guilty of conspiracy to steal trade secrets, U.S. jury finds"
         },
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/economy/rmg/wage-board-fixes-tk17000-minimum-wage-garment-workers-36-1613156",
-          "title": "Wage board fixes Tk17,000 minimum wage for garment workers, up 36%",
-          "snippet": "Wage board fixes Tk17,000 minimum wage for garment workers, up 36%"
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss",
+          "title": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
+          "snippet": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial"
         },
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/425693/garment-workers-minimum-wage-raised-36-percent-tk1",
-          "title": "Garment workers’ minimum wage rises 36% to Tk17,000",
-          "snippet": "Garment workers’ minimum wage rises 36% to Tk17,000"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/wage-board-eyes-finalising-garment-workers-pay-tonight-1",
-          "title": "Wage board eyes finalising garment workers’ pay tonight",
-          "snippet": "Wage board eyes finalising garment workers’ pay tonight"
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+          "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+          "snippet": "Huawei found guilty of stealing trade secrets but acquitted of racketeering"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পোশাক শ্রমিকদের ন্যূনতম মজুরি ১৭,০০০ টাকা নির্ধারণ করেছে মজুরি বোর্ড।",
-        "title_en": "Wage board sets garment workers minimum wage at Tk 17,000.",
-        "summary_bn": "মজুরি বোর্ড পোশাক শ্রমিকদের ন্যূনতম মাসিক মজুরি ১২,৫০০ টাকা থেকে বাড়িয়ে ১৭,০০০ টাকা নির্ধারণ করেছে।",
-        "summary_en": "The wage board has fixed the minimum monthly wage for garment workers at Tk 17,000, raising it from the existing Tk 12,500.",
+        "title_bn": "বাণিজ্যের গোপন তথ্য চুরির চক্রান্তে দোষী সাব্যস্ত হুয়াওয়ে, খালাস র্যাকেটিয়ারিং মামলায়",
+        "title_en": "US jury convicts Huawei of trade secrets conspiracy but acquits on racketeering",
+        "summary_bn": "বাণিজ্যবিষয়ক গোপন তথ্য চুরি ও ব্যাংক জালিয়াতির চক্রান্তের মামলায় যুক্তরাষ্ট্রের এক আদালতে দোষী সাব্যস্ত হয়েছে চীনের প্রযুক্তি প্রতিষ্ঠান হুয়াওয়ে, তবে র্যাকেটিয়ারিং চক্রান্তের অভিযোগে খালাস পেয়েছে।",
+        "summary_en": "A United States jury has convicted Chinese technology giant Huawei of conspiracy to steal trade secrets and bank fraud, while acquitting it of criminal racketeering.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "tech_innovation",
+          "world_diplomacy",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-24T20:28:02+00:00",
-        "lead_bn": "মজুরি বোর্ড পোশাক শ্রমিকদের ন্যূনতম মাসিক মজুরি ১২,৫০০ টাকা থেকে বাড়িয়ে ১৭,০০০ টাকা নির্ধারণ করেছে।",
-        "lead_en": "The wage board has fixed the minimum monthly wage for garment workers at Tk 17,000, raising it from the existing Tk 12,500.",
+        "published_at": "2026-11-24T22:55:50+00:00",
+        "lead_bn": "বাণিজ্যবিষয়ক গোপন তথ্য চুরি ও ব্যাংক জালিয়াতির চক্রান্তের মামলায় যুক্তরাষ্ট্রের এক আদালতে দোষী সাব্যস্ত হয়েছে চীনের প্রযুক্তি প্রতিষ্ঠান হুয়াওয়ে, তবে র্যাকেটিয়ারিং চক্রান্তের অভিযোগে খালাস পেয়েছে।",
+        "lead_en": "A United States jury has convicted Chinese technology giant Huawei of conspiracy to steal trade secrets and bank fraud, while acquitting it of criminal racketeering.",
         "bullets_bn": [
-          "সেগুনবাগিচায় ন্যূনতম মজুরি বোর্ডের কার্যালয়ে একটি দীর্ঘ বৈঠকের পর এই সিদ্ধান্ত নেওয়া হয়।",
-          "বোর্ডের বৈঠকে চার সদস্য ১৭,০০০ টাকার পক্ষে এবং দুই সদস্য ১৮,০০০ টাকার প্রস্তাবের পক্ষে ভোট দেন।",
-          "শ্রম মন্ত্রণালয় চূড়ান্ত সিদ্ধান্ত নেবে এবং অফিসিয়াল প্রজ্ঞাপন জারির আগে হার বাড়াতে পারে।"
+          "আমেরিকান প্রতিষ্ঠানগুলো থেকে মেধাস্বত্ব চুরির জন্য পরিচালিত অপরাধমূলক র্যাকেটিয়ারিং চক্রান্তের সবচেয়ে মারাত্মক অভিযোগটি থেকে হুয়াওয়েকে খালাস দিয়েছেন জুরিরা।",
+          "হুয়াওয়ের আইনজীবীরা বলেন, দুই লাখেরও বেশি কর্মীর মধ্যে কয়েকজনের বিচ্ছিন্ন অন্যায়কে ব্যবহার করে একটি মিথ্যা ষড়যন্ত্রের গল্প তৈরি করেছে মার্কিন তদন্তকারীরা।",
+          "মার্কিন কৌঁসুলিরা অভিযোগ করেন, হুয়াওয়ে প্রযুক্তিগত গোপন তথ্য চুরি করেছে এবং ইরান ও উত্তর কোরিয়ার মতো নিষেধাজ্ঞাপ্রাপ্ত দেশে বাণিজ্য গোপন করেছে।"
         ],
         "bullets_en": [
-          "The decision followed a lengthy meeting at the Minimum Wage Board office in Segunbagicha.",
-          "Four members voted in favour of Tk 17,000 while two supported the Tk 18,000 proposal.",
-          "The labour ministry will make the final decision and can increase rates before issuing official notification."
+          "Jurors acquitted Huawei of the most serious charge of engaging in a criminal racketeering conspiracy to steal intellectual property.",
+          "Huawei lawyers said investigators used isolated wrongdoing by a few of over 200,000 employees to spin a false grand conspiracy narrative.",
+          "Prosecutors argued Huawei repeatedly stole technological secrets and hid business done in sanctioned countries like Iran and North Korea."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "মজুরি বোর্ডের অফিস তথ্য অনুযায়ী চতুর্থ গ্রেডের শ্রমিকদের ন্যূনতম মাসিক মজুরি ১৭,০০০ টাকা নির্ধারণ করা হয়েছে এবং প্রথম, দ্বিতীয় ও তৃতীয় গ্রেডের মজুরি যথাক্রমে ২১,৫০০ টাকা, ২০,০০০ টাকা এবং ১৯,২০০ টাকা নির্ধারণ করা হয়েছে।",
-        "details_en": "According to data from the wage board office, the minimum monthly wage for workers in grade four has been fixed at Tk 17,000, while grades one, two and three are Tk 21,500, Tk 20,000 and Tk 19,200 respectively.",
-        "hook_bn": "পোশাক শ্রমিকদের ন্যূনতম মজুরি ১৭,০০০ টাকা",
-        "kicker_bn": "নতুন মজুরি",
-        "share_value": true,
-        "question_bn": "পোশাক শ্রমিকদের জন্য নির্ধারিত এই নতুন মজুরি বর্তমান বাজারদরের সাথে সামঞ্জস্যপূর্ণ বলে কি আপনার মনে হয়?"
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-24T22:05:38.923625+00:00"
-      }
-    },
-    {
-      "story_id": "53b6ab25-ef73-5813-a25a-d368441bb4ee",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#TariqueRahman",
-        "#BangladeshArmy",
-        "#Swarnadwip"
-      ],
-      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_65723629f40bddb520ba0f82a62b666c.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-24T22:01:07.370738+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.5757,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/joint-military-exercise-to-showcase-armed-forces-capabilities-globally-pm",
-          "title": "Joint military exercise to showcase armed forces’ capabilities globally: PM",
-          "snippet": "Joint military exercise to showcase armed forces’ capabilities globally: PM"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বাংলাদেশী সশস্ত্র বাহিনীর সক্ষমতা প্রদর্শনে প্রথম যৌথ সামরিক মহড়া অনুষ্ঠিত হয়েছে।",
-        "title_en": "First joint military exercise held to showcase Bangladesh armed forces capabilities.",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান নোয়াখালীর স্বর্ণদ্বীপ ভিউ পয়েন্ট-ওয়ানে তিন বাহিনীর বিশেষ ফোর্সের প্রথম যৌথ সামরিক মহড়া প্রত্যক্ষ করেছেন।",
-        "summary_en": "Prime Minister Tarique Rahman witnessed the first-ever joint military exercise of the three services' special forces in Noakhali.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-24T22:01:07.370738+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান নোয়াখালীর স্বর্ণদ্বীপ ভিউ পয়েন্ট-ওয়ানে তিন বাহিনীর বিশেষ ফোর্সের প্রথম যৌথ সামরিক মহড়া প্রত্যক্ষ করেছেন।",
-        "lead_en": "Prime Minister Tarique Rahman witnessed the first-ever joint military exercise of the three services' special forces in Noakhali.",
-        "bullets_bn": [
-          "মহড়াটি সেনাবাহিনী, নৌবাহিনী ও বিমান বাহিনীর বিশেষ ফোর্সের অংশীদারিত্বে অনুষ্ঠিত হয়েছে।",
-          "তারেক রহমান বলেন, মহড়াটি সশস্ত্র বাহিনীর আধুনিকায়নে সরকারের প্রতিশ্রুতির প্রতিফলন।",
-          "অনুষ্ঠানে সেনাপ্রধান জেনারেল ওয়াকের-উজ-জামানসহ অন্যান্যরা উপস্থিত ছিলেন।"
-        ],
-        "bullets_en": [
-          "The exercise took place with the participation of special forces from the Army, Navy and Air Force.",
-          "Tarique Rahman said the exercise reflected the government commitment to modernising the armed forces.",
-          "Army Chief General Waker-Uz-Zaman and other officials were present at the event."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "প্রধানমন্ত্রী নোয়াখালীর স্বর্ণদ্বীপ ভিউ পয়েন্ট-ওয়ানে বিশেষ যৌথ প্রশিক্ষণ মহড়া প্রত্যক্ষ করার সময় বলেন, এই মহড়ার মাধ্যমে সশস্ত্র বাহিনীর উচ্চ সাংগঠনিক দক্ষতা ও পেশাদারিত্বের স্পষ্ট বার্তা বিশ্বে পৌঁছে যাবে।",
-        "details_en": "Prime Minister Tarique Rahman said while witnessing the training exercise that the event sends a clear message to the world about the organisation and professionalism of the armed forces.",
-        "hook_bn": "দেশের ইতিহাসে প্রথম যৌথ সামরিক মহড়া",
-        "kicker_bn": "সশস্ত্র বাহিনী",
+        "details_bn": "নিউ ইয়র্কে মাসব্যাপী বিচার শেষে এই রায় আসে, যেখানে মার্কিন কৌঁসুলিরা যুক্তি দেন যে হুয়াওয়ে যুক্তরাষ্ট্র ও অন্যান্য স্থানের প্রতিযোগীদের কাছ থেকে বারবার প্রযুক্তিগত গোপন তথ্য চুরি করেছে। বিশ্বের অন্যতম বৃহৎ বেতার টেলিযোগাযোগ সরঞ্জাম সরবরাহকারী প্রতিষ্ঠানে পরিণত হওয়া হুয়াওয়ের বিরুদ্ধে ইরান ও উত্তর কোরিয়ার মতো মার্কিন নিষেধাজ্ঞাপ্রাপ্ত দেশে ব্যবসা করা এবং তা লুকাতে কর্মকর্তা ও ব্যাংকগুলোকে মিথ্যা তথ্য দেওয়ার অভিযোগ আনা হয়েছিল।",
+        "details_en": "The verdict in New York followed a months-long trial where U.S. prosecutors argued that Huawei repeatedly stole technological secrets from competitors and partners globally. The company was also accused of doing business in U.S.-sanctioned countries, including Iran and North Korea, and making false statements to officials and banks to cover up its misdeeds as it grew into one of the world's largest wireless telecommunications gear suppliers.",
+        "hook_bn": "যুক্তরাষ্ট্রে বাণিজ্য চক্রান্তে দোষী সাব্যস্ত হুয়াওয়ে",
+        "kicker_bn": "রায় ঘোষণা",
         "share_value": false,
-        "question_bn": "সশস্ত্র বাহিনীর এমন যৌথ মহড়া দেশের নিরাপত্তায় কতটা ভূমিকা রাখবে বলে আপনি মনে করেন?"
+        "question_bn": "হুয়াওয়ের বিরুদ্ধে যুক্তরাষ্ট্রের আদালতের এই রায় বিশ্ব প্রযুক্তি বাজারে কী প্রভাব ফেলতে পারে?"
       },
+      "desk_importance": 5.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 3.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-24T22:05:38.923625+00:00"
+        "checked_at": "2026-11-24T23:02:04.841413+00:00"
       }
     },
     {
-      "story_id": "122bc969-33a6-5b85-b72e-3d9dbc0aca1e",
+      "story_id": "f7a6a344-9f08-5ed0-a5ce-ccf3cbcc18c4",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy"
+        "world_diplomacy",
+        "governance_law"
       ],
       "region": "international",
       "tags": [
-        "#KhalifaHaftar",
-        "#Turkiye",
-        "#Libya",
-        "#Ukraine"
+        "#ToddBlanche",
+        "#JensenHuang",
+        "#Nvidia",
+        "#Megaspeed"
       ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/IMG_5435-1795549817.jpg?resize=1920%2C1381",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
       "image_caption": null,
-      "published_at": "2026-11-24T20:35:03+00:00",
+      "published_at": "2026-11-24T21:19:42+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.55,
-      "rank_score": 0.5982,
+      "importance_score": 5.0,
+      "rank_score": 2.2669,
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship?traffic_source=rss",
-          "title": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
-          "snippet": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship"
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+          "title": "US attorney general dodges questions about Nvidia investigation",
+          "snippet": "US attorney general dodges questions about Nvidia investigation"
         },
         {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/russian-attack-kills-two-people-wounds-22-in-ukraines-zaporizhzhia-official-says/article71737237.ece",
-          "title": "A Russian strike on Ukraine kills two, wounds 48 as Kyiv explains its attack in Libya",
-          "snippet": "A Russian strike on Ukraine kills two, wounds 48 as Kyiv explains its attack in Libya"
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated?traffic_source=rss",
+          "title": "Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated",
+          "snippet": "Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated"
         }
       ],
       "daily_buzz": {
-        "title_bn": "তুরকি সফর করছেন লিবিয়ার সামরিক কমান্ডার খলিফা হাফতার",
-        "title_en": "Libyan military commander Khalifa Haftar visits Turkiye",
-        "summary_bn": "পূর্ব লিবিয়ার সামরিক কমান্ডার খলিফা হাফতার তুরকিয়ের রাজধানী আঙ্কারায় পৌঁছেছেন, যা তার প্রথম পরিচিত সফর।",
-        "summary_en": "Eastern Libyan military commander Khalifa Haftar arrived in Ankara on his first known visit to Turkiye.",
+        "title_bn": "ইউএস অ্যাটর্নি জেনারেল এনভিডিয়া নিয়ে তদন্ত নিয়ে মন্তব্য করতে অস্বীকার করেছেন।",
+        "title_en": "US attorney general dodges questions about Nvidia investigation.",
+        "summary_bn": "যুক্তরাষ্ট্রের অ্যাটর্নি জেনারেল টড ব্ল্যাঞ্চ এনভিডিয়াকে ভালো করপোরেট নাগরিক বললেও প্রতিষ্ঠানটি বা এর প্রধান তদন্তের আওতায় আছে কি না তা জানাতে অস্বীকার করেছেন।",
+        "summary_en": "US Attorney General Todd Blanche has backed Nvidia as a good corporate citizen while refusing to comment on whether it was under federal investigation.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "world_diplomacy",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-24T20:35:03+00:00",
-        "lead_bn": "পূর্ব লিবিয়ার সামরিক কমান্ডার খলিফা হাফতার তুরকিয়ের রাজধানী আঙ্কারায় পৌঁছেছেন, যা তার প্রথম পরিচিত সফর।",
-        "lead_en": "Eastern Libyan military commander Khalifa Haftar arrived in Ankara on his first known visit to Turkiye.",
+        "published_at": "2026-11-24T21:19:42+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের অ্যাটর্নি জেনারেল টড ব্ল্যাঞ্চ এনভিডিয়াকে ভালো করপোরেট নাগরিক বললেও প্রতিষ্ঠানটি বা এর প্রধান তদন্তের আওতায় আছে কি না তা জানাতে অস্বীকার করেছেন।",
+        "lead_en": "US Attorney General Todd Blanche has backed Nvidia as a good corporate citizen while refusing to comment on whether it was under federal investigation.",
         "bullets_bn": [
-          "আঙ্কারার বিমানবন্দরে তাকে অভ্যর্থনা জানান তুর্কি চিফ অব জেনারেল স্টাফ জেনারেল সেলজুক বায়রাতারোগলু।",
-          "তার সাথে ছিলেন দুই ছেলে খালেদ ও বেলকাসিম হাফতার।",
-          "বেনগাজিতে একটি রুশ যুদ্ধজাহাজে ইউক্রেনের হামলার দুদিন পরে এই সফর হলো।"
+          "টড ব্ল্যাঞ্চ জানিয়েছেন, সদ্য পুনর্বহাল হওয়া প্রধান নির্বাহী জেনসেন হুয়াংয়ের নিরাপত্তা ছাড়পত্র নিয়ে তার কাছে কোনো তথ্য নেই।",
+          "যুক্তরাষ্ট্রের বিচার বিভাগ বা এফবিআই হুয়াংকে তদন্ত করেছে কি না জানতে চাইলে ব্ল্যাঞ্চ বলেন, তিনি এ বিষয়ে কিছু জানেন না।",
+          "মার্কিন বাণিজ্য বিভাগ উন্নত চিপ চীনে পাচার রোধে সহায়তার অভিযোগে সন্দেহভাজন মেগাস্পিড কোম্পানিকে কালো তালিকাভুক্ত করার প্রস্তুতি নিচ্ছে।"
         ],
         "bullets_en": [
-          "He was greeted at the airport by Turkish Chief of General Staff General Selcuk Bayraktaroglu.",
-          "He was accompanied by his sons Khaled and Belqasim Haftar.",
-          "The visit came two days after a Ukrainian attack struck a Russian warship in Benghazi."
+          "Blanche said he had no information about newly reinstated CEO Jensen Huang security clearance status.",
+          "Asked if the justice department or FBI investigated Huang, Blanche responded that he did not know what was being discussed.",
+          "The US commerce department is preparing to blacklist tech company Megaspeed over suspicions of diverting advanced chips to China."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বেনগাজিতে রুশ যুদ্ধজাহাজে ইউক্রেনের হামলার পর এই সফর অনুষ্ঠিত হয়। হামলাটিতে কমপক্ষে ১০ জন লিবিয়ান ও রুশ ক্রু নিহত হন। যুদ্ধজাহাজটি পূর্ব কর্তৃপক্ষের সাথে চুক্তির অধীনে জ্বালানি ও রসদ নিতে ভিড়েছিল। লিবিয়ার ত্রিপোলির আন্তর্জাতিকভাবে স্বীকৃত সরকার এই হামলার নিন্দা জানিয়েছে।",
-        "details_en": "The visit followed a Ukrainian strike on a Russian warship in Benghazi, killing at least 10 Libyan and Russian crew members. The warship had docked to refuel and resupply under an agreement with eastern authorities. Libya's internationally recognised government in Tripoli condemned the attack.",
-        "hook_bn": "তুরকি সফরে লিবিয়ার সামরিক কমান্ডার খলিফা হাফতার",
-        "kicker_bn": null,
+        "details_bn": "পরকীয়া সম্পর্কের জেরে পদত্যাগের বাধ্যবাধকতার দুই সপ্তাহের কম সময়ের মধ্যে জেনসেন হুয়াংকে আবার প্রধান নির্বাহী হিসেবে ফিরিয়ে আনা হয়। হুয়াংয়ের সম্পর্ক ছিল মেগাস্পিড নামের সিঙ্গাপুরভিত্তিক একটি করপোরেট ক্রেতা প্রতিষ্ঠানের এক নারীর সাথে, যিনি একজন চীনপন্থী গুপ্তচর বলে সন্দেহ করা হচ্ছে। আগামী সপ্তাহে হুয়াংকে কংগ্রেসের সামনে হাজির হয়ে জাতীয় নিরাপত্তা সংক্রান্ত প্রশ্নের মুখোমুখি হতে হবে। বাণিজ্য ও বিচার বিভাগ যৌথ বিবৃতিতে জানিয়েছে, তারা ২০২৪ সালে মেগাস্পিডকে রপ্তানি নিয়ন্ত্রণ লঙ্ঘনের অভিযোগে তদন্ত শুরু করেছিল। তবে ব্ল্যাঞ্চ জানিয়েছেন বিচার বিভাগে একই সময়ে শত শত এমন রপ্তানি তদন্ত চলমান থাকে।",
+        "details_en": "Jensen Huang was given his job back less than two weeks after being forced to resign over revelations of extramarital affairs, including one with an alleged Chinese spy who led Megaspeed. Huang is still set to appear before Congress to be questioned about national security concerns. The commerce and justice departments announced a joint investigation into Megaspeed in 2024 for potential export control violations, though Blanche noted the justice department handles hundreds of such investigations simultaneously.",
+        "hook_bn": "আই ডোন্ট নো হোয়াট ইউ আর টকিং অ্যাবাউট",
+        "kicker_bn": "তদন্ত প্রসঙ্গে",
         "share_value": false,
         "question_bn": null
       },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 3.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-24T22:05:38.923625+00:00"
-      }
-    },
-    {
-      "story_id": "07798fca-6881-58ae-8e0d-55b74be78f6d",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation"
-      ],
-      "region": "international",
-      "tags": [
-        "#CIA",
-        "#ODNI",
-        "#Cybersecurity"
-      ],
-      "image_url": "https://th-i.thgim.com/public/incoming/54u96w/article71740187.ece/alternates/LANDSCAPE_1200/CIA_Cyberattack_239_4.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-24T21:43:34+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.284,
-      "sources": [
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/us-cia-odni-suffer-cybersecurity-breach-of-some-unclassified-information-nyt-reports/article71740185.ece",
-          "title": "U.S. CIA, ODNI suffer cybersecurity breach of some unclassified information, NYT reports",
-          "snippet": "U.S. CIA, ODNI suffer cybersecurity breach of some unclassified information, NYT reports"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সিআইএ এবং ওডিএনআইয়ের সাইবার নিরাপত্তা লঙ্ঘন প্রকাশ",
-        "title_en": "CIA and ODNI suffer cybersecurity breach of unclassified information",
-        "summary_bn": "যুক্তরাষ্ট্রের সেন্ট্রাল ইন্টেলিজেন্স এজেন্সি এবং অফিস অব দ্য ডিরেক্টর অব ন্যাশনাল ইন্টেলিজেন্স সাইবার নিরাপত্তা লঙ্ঘনের শিকার হয়েছে।",
-        "summary_en": "The U.S. Central Intelligence Agency and the Office of the Director of National Intelligence suffered a cybersecurity breach.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-24T21:43:34+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের সেন্ট্রাল ইন্টেলিজেন্স এজেন্সি এবং অফিস অব দ্য ডিরেক্টর অব ন্যাশনাল ইন্টেলিজেন্স সাইবার নিরাপত্তা লঙ্ঘনের শিকার হয়েছে।",
-        "lead_en": "The U.S. Central Intelligence Agency and the Office of the Director of National Intelligence suffered a cybersecurity breach.",
-        "bullets_bn": [
-          "নিউইয়র্ক টাইমসের প্রতিবেদনে এই তথ্য জানানো হয়েছে।",
-          "പൊതു এবং অননুমোদিত তথ্য খোঁজার একটি নেটওয়ার্ক এই অনুপ্রবেশের শিকার হয়।",
-          "ওডিএনআই জানিয়েছে সমালোচনামূলক সক্ষমতা বা শ্রেণীবদ্ধ সিস্টেমে কোনো ব্যাঘাত ঘটেনি।"
-        ],
-        "bullets_en": [
-          "The New York Times reported the breach on November 24, 2026.",
-          "The intrusions affected a network that looks for intelligence insights in public, unclassified material.",
-          "The ODNI stated there were no disruptions to critical capabilities or classified systems."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "এই ঘটনাটি যুক্তরাষ্ট্র সরকারের বিভিন্ন সংস্থায় ঘটে যাওয়া ধারাবাহিক প্রযুক্তিগত বিভ্রাট ও সাইবার নিরাপত্তা ঘটনার সর্বশেষ উদাহরণ। এর আগে মার্কিন কৃষি বিভাগে সাইবার হামলার খবর পাওয়া গিয়েছিল। পাশাপাশি এফবিআইয়ে দুটি পৃথক লঙ্ঘন প্রকাশ পেয়েছে এবং পেন্টাগন ও ডিপার্টমেন্ট অব হোমল্যান্ড সিকিউরিটি সাইবার ঘটনার শিকার হয়েছে।",
-        "details_en": "This is the latest publicly reported hack in a series of tech outages and cybersecurity incidents, including a breach at the U.S. Department of Agriculture. Two separate breaches were recently disclosed at the FBI, while the Pentagon and Department of Homeland Security also faced cyber incidents.",
-        "hook_bn": "সিআইএ ও ওডিএনআইয়ে সাইবার নিরাপত্তা লঙ্ঘন",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-24T22:05:38.923625+00:00"
+        "checked_at": "2026-11-24T23:02:04.841413+00:00"
       }
     }
   ]
