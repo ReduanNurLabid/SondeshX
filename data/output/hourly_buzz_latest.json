@@ -1,225 +1,373 @@
 {
-  "updated_at": "2026-11-24T04:00:40.562899",
-  "total_stories": 3,
+  "updated_at": "2026-11-24T05:00:48.166052",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "d858e5d6-5262-513b-ac3b-c4662be47815",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#SheikhHasina",
-        "#Bangladesh",
-        "#VictoryDay"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/14/hasina.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-24T03:25:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 9.0,
-      "rank_score": 7.8176,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/sheikh-hasina-seeks-return-bangladesh-16-december-state-carrier-1612171",
-          "title": "Sheikh Hasina seeks to return to Bangladesh on 16 December on state carrier",
-          "snippet": "Sheikh Hasina seeks to return to Bangladesh on 16 December on state carrier"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822718/%E0%A7%A7%E0%A7%AC-%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%A8-%E0%A6%B6%E0%A7%87%E0%A6%96",
-          "title": "১৬ ডিসেম্বর রাষ্ট্রীয় বিমানে দেশে ফিরতে চান শেখ হাসিনা",
-          "snippet": "১৬ ডিসেম্বর রাষ্ট্রীয় বিমানে দেশে ফিরতে চান শেখ হাসিনা"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1182955",
-          "title": "১৬ ডিসেম্বর দেশে ফিরতে চান শেখ হাসিনা",
-          "snippet": "১৬ ডিসেম্বর দেশে ফিরতে চান শেখ হাসিনা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "১৬ ডিসেম্বর দেশে ফেরার পরিকল্পনা করছেন শেখ হাসিনা",
-        "title_en": "Sheikh Hasina plans to return to Bangladesh on 16 December",
-        "summary_bn": "দুই বছরের বেশি সময় ভারতে নির্বাসনে থাকা ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনা আগামী ১৬ ডিসেম্বর বিজয় দিবসে দেশে ফেরার পরিকল্পনা করছেন।",
-        "summary_en": "Ousted Prime Minister Sheikh Hasina plans to return to Bangladesh on 16 December after more than two years of exile.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-24T03:25:00+00:00",
-        "lead_bn": "দুই বছরের বেশি সময় ভারতে নির্বাসনে থাকা ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনা আগামী ১৬ ডিসেম্বর বিজয় দিবসে দেশে ফেরার পরিকল্পনা করছেন।",
-        "lead_en": "Ousted Prime Minister Sheikh Hasina plans to return to Bangladesh on 16 December after more than two years of exile.",
-        "bullets_bn": [
-          "তার মুখপাত্র জানিয়েছেন, হাসিনা রাষ্ট্রীয় পতাকাবাহী বিমান বাংলাদেশ এয়ারলাইন্সে করে দিল্লি থেকে ঢাকা ফেরার ব্যবস্থা করার জন্য সরকারের প্রতি আহ্বান জানিয়েছেন।",
-          "হাসিনার মুখপাত্র বলেছেন, সংবিধানের বিপরীতে তাকে নির্বাসনে পাঠানোর কারণে বিজয় দিবসে তার প্রত্যাবর্তন নিশ্চিত করা সরকারের দায়িত্ব।",
-          "এক বাংলাদেশি মন্ত্রী জানিয়েছেন, মৃত্যুদণ্ডপ্রাপ্ত হাসিনাকে দেশে ফেরার সাথে সাথে গ্রেপ্তার করে কারাগারে পাঠানো হবে এবং তাকে আনতে বিমান পাঠানোর বিষয়ে ভারতের সাথে কোনো আনুষ্ঠানিক আলোচনা হয়নি।"
-        ],
-        "bullets_en": [
-          "Her spokesperson said Hasina has urged the government to arrange her return from Delhi on flag carrier Biman Bangladesh Airlines.",
-          "The spokesperson said that having exiled her contrary to the Constitution, it is the government's responsibility to enable her return on Victory Day.",
-          "A Bangladeshi minister stated Hasina faces a death sentence and would be arrested upon return, adding there were no official discussions with India about an aircraft."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "২০২৪ সালের ৫ আগস্ট ছাত্র-জনতার গণঅভ্যুত্থানের মুখে ক্ষমতাচ্যুত হয়ে দেশ ছেড়ে ভারতে যান শেখ হাসিনা। এর পর থেকে তিনি ভারতে নির্বাসনে রয়েছেন। গত নভেম্বর মাসে তার অনুপস্থিতিতে যুদ্ধাপরাধ আদালত তাকে মৃত্যুদণ্ড দেন। চলতি মাসে তিনি পাসপোর্ট ও অন্যান্য কাগজপত্রের জন্য আবেদন করার পর দেশটিতে রাজনৈতিক ও আইনি উত্তেজনা বৃদ্ধি পেয়েছে।",
-        "details_en": "Sheikh Hasina fled to India on 5 August 2024 following a deadly uprising that forced her out of power. She has since been in exile. Last November, Bangladesh's war crimes court sentenced her to death in her absence. Political and legal tensions have risen since she sought a new passport and other documents this month.",
-        "hook_bn": "১৬ ডিসেম্বর দেশে ফিরতে চান শেখ হাসিনা",
-        "kicker_bn": "নতুন তারিখ",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 8.0,
-      "outlet_count": 3,
-      "trending": true,
-      "social_appeal": 9.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-24T04:02:41.643006+00:00"
-      }
-    },
-    {
-      "story_id": "f0a951e8-f1d1-5dda-b4f4-81512c6632d6",
+      "story_id": "e05f9eaa-bd99-5962-910d-56c33e2122c3",
       "primary_category": "economy_business",
       "interest_categories": [
-        "economy_business"
+        "economy_business",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
         "#Economy",
         "#Finance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1610375461246-83df859d849d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z29sZCUyMHByaWNlcyUyMGluY3JlYXNlZCUyMGZ1cnRoZXIlMjBidXNpbmVzc3xlbnwxfDB8fHwxNzk1NDkyOTIyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_bengali/6878/live/f5e9a860-e7af-11f1-9c22-6527a1213967.jpg",
       "image_caption": null,
-      "published_at": "2026-11-24T03:50:34+00:00",
+      "published_at": "2026-11-24T03:03:57+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 4.1793,
+      "importance_score": 7.0,
+      "rank_score": 4.3718,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/economy/news/1182953",
-          "title": "ফের বাড়লো সোনার দাম, ভরি ২ লাখ টাকা ছুঁই ছুঁই",
-          "snippet": "ফের বাড়লো সোনার দাম, ভরি ২ লাখ টাকা ছুঁই ছুঁই"
+          "name": "BBC News বাংলা",
+          "url": "https://www.bbc.com/bengali/articles/c623jm2kpvy5o?at_medium=RSS&at_campaign=rss",
+          "title": "পত্রিকা: 'সরকারের কাছে ৭৫ হাজার কোটি টাকা চায় ইসলামী ব্যাংক'",
+          "snippet": "পত্রিকা: 'সরকারের কাছে ৭৫ হাজার কোটি টাকা চায় ইসলামী ব্যাংক'"
         }
       ],
       "daily_buzz": {
-        "title_bn": "দেশের বাজারে আরও বাড়লো সোনার দাম",
-        "title_en": "Gold prices increased further in the country's market",
-        "summary_bn": "দেশের বাজারে সোনার গহনার দাম আরও বাড়ানো হয়েছে এবং ভালো মানের প্রতি ভরি সোনা ছুঁই ছুঁই করছে ২ লাখ টাকা।",
-        "summary_en": "Gold jewelry prices have been increased further in the domestic market, with the best quality per bhori approaching 2 lakh taka.",
+        "title_bn": "সরকারের কাছে ৭৫ হাজার কোটি টাকা চায় ইসলামী ব্যাংক",
+        "title_en": "Islami Bank seeks 75,000 crore taka from the government",
+        "summary_bn": "সমস্যার শিকার ইসলামী ব্যাংক প্রতিবছর ১৫ হাজার কোটি টাকা করে পাঁচ বছরে মোট ৭৫ হাজার কোটি টাকা সরকারের কাছে ধার চেয়েছে।",
+        "summary_en": "Troubled Islami Bank has asked the government for a loan of 75,000 crore taka over five years, at 15,000 crore taka annually.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business"
+          "economy_business",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-24T03:50:34+00:00",
-        "lead_bn": "দেশের বাজারে সোনার গহনার দাম আরও বাড়ানো হয়েছে এবং ভালো মানের প্রতি ভরি সোনা ছুঁই ছুঁই করছে ২ লাখ টাকা।",
-        "lead_en": "Gold jewelry prices have been increased further in the domestic market, with the best quality per bhori approaching 2 lakh taka.",
+        "published_at": "2026-11-24T03:03:57+00:00",
+        "lead_bn": "সমস্যার শিকার ইসলামী ব্যাংক প্রতিবছর ১৫ হাজার কোটি টাকা করে পাঁচ বছরে মোট ৭৫ হাজার কোটি টাকা সরকারের কাছে ধার চেয়েছে।",
+        "lead_en": "Troubled Islami Bank has asked the government for a loan of 75,000 crore taka over five years, at 15,000 crore taka annually.",
         "bullets_bn": [
-          "সবচেয়ে ভালো মানের বা ২২ ক্যারেটের প্রতি ভরি সোনার গহনার দাম বাড়ানো হয়েছে ১ হাজার ৫৭৫ টাকা।",
-          "প্রতি ভরি সোনার দাম বাড়ানোর এই ঘোষণায় ভ্যাটসহ ভালো মানের সোনার দাম ২ লাখ টাকার কাছাকাছি পৌঁছেছে।",
-          "দেশের বাজারে সোনার গহনার এই দাম বৃদ্ধির তথ্য জানিয়েছে জাগো নিউজ ২৪।"
+          "ব্যাংকটি ষষ্ঠ বছর থেকে মুনাফাসহ এই অর্থ ফেরত দিতে চায়।",
+          "অন্য ব্যাংকে আটকে থাকা প্রায় ১৪ হাজার কোটি টাকা ফেরত পেতে কেন্দ্রীয় ব্যাংকের হস্তক্ষেপ চেয়েছে ব্যাংকটি।",
+          "ব্যাংকটিকে লাভজনক করতে তিন ভাগে বিভক্ত করে মোট ১৩টি প্রস্তাব পরিচালনা পর্ষদ পাঠিয়েছে।"
         ],
         "bullets_en": [
-          "The price of the best quality or 22-carat gold jewelry per bhori has been increased by 1,575 taka.",
-          "With this announcement of increasing the price per bhori, the best quality gold price including VAT has reached close to 2 lakh taka.",
-          "Jago News 24 reported this information about the price hike of gold jewelry in the domestic market."
+          "The bank wants to repay the amount with profit starting from the sixth year.",
+          "The bank has sought central bank intervention to recover about 14,000 crore taka stuck in other banks.",
+          "The board of directors has submitted a total of 13 proposals divided into three parts to make the bank profitable."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "সোনার ভরি দুই লাখ টাকা ছুঁই ছুঁই",
-        "kicker_bn": "দাম বাড়ছে",
-        "share_value": true,
-        "question_bn": "সোনার দাম এভাবে বারবার বাড়ায় গহনা কিনতে আপনাদের কেমন অসুবিধা হচ্ছে?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": true,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-24T04:02:41.643006+00:00"
-      }
-    },
-    {
-      "story_id": "fd770de0-e7fe-5ff4-996b-d07f4b4acbf8",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-24%2F3ae53ejp%2Figexport-Dfd2TU4jYz3-3.jpg?rect=0%2C0%2C1722%2C904&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-24T03:23:34+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.4697,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/sports/football/i8favdfxdq",
-          "title": "রেকর্ড গড়ে এমএলএসে বর্ষসেরা তরুণ বাংলাদেশি বংশোদ্ভূত কাভান সুলিভান",
-          "snippet": "রেকর্ড গড়ে এমএলএসে বর্ষসেরা তরুণ বাংলাদেশি বংশোদ্ভূত কাভান সুলিভান"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "এমএলএসের বর্ষসেরা তরুণ খেলোয়াড় নির্বাচিত হয়েছেন বাংলাদেশি বংশোদ্ভূত কাভান সুলিভান",
-        "title_en": "Kavan Sullivan named MLS Young Player of the Year",
-        "summary_bn": "বাংলাদেশি বংশোদ্ভূত ফিলাডেলফিয়া ইউনিয়নের অ্যাটাকিং মিডফিল্ডার কাভান সুলিভান আমেরিকার মেজর লিগ সকারে ২০২৬ সালের সেরা তরুণ খেলোয়াড় নির্বাচিত হয়েছেন।",
-        "summary_en": "Kavan Sullivan, a Philadelphia Union attacking midfielder of Bangladeshi descent, has been named MLS Young Player of the Year.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-24T03:23:34+00:00",
-        "lead_bn": "বাংলাদেশি বংশোদ্ভূত ফিলাডেলফিয়া ইউনিয়নের অ্যাটাকিং মিডফিল্ডার কাভান সুলিভান আমেরিকার মেজর লিগ সকারে ২০২৬ সালের সেরা তরুণ খেলোয়াড় নির্বাচিত হয়েছেন।",
-        "lead_en": "Kavan Sullivan, a Philadelphia Union attacking midfielder of Bangladeshi descent, has been named MLS Young Player of the Year.",
-        "bullets_bn": [
-          "১৭ বছর ৫৬ দিন বয়সে সবচেয়ে কম বয়সী খেলোয়াড় হিসেবে এই পুরস্কার জিতেছেন কাভান সুলিভান।",
-          "সংবাদমাধ্যম, সহকর্মী পেশাদার খেলোয়াড় এবং এমএলএস ক্লাবগুলোর কারিগরি কর্মকর্তার ভোটে বিজয়ী নির্ধারিত হন।",
-          "ভোটিং ক্যাটাগরির প্রতিটিতে শীর্ষে থেকে মোট ভোটের ৬৫.০৬ শতাংশ পান সুলিভান।"
-        ],
-        "bullets_en": [
-          "Sullivan won the award as the youngest player at seventeen years and fifty-six days old.",
-          "The winner was decided by votes from media, fellow professional players, and MLS club technical staff.",
-          "Sullivan topped every voting category and received sixty-five point zero six percent of the total votes."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "নিয়মিত খেলোয়াড় হিসেবে প্রথম মৌসুমে ২৯ ম্যাচে ৯ গোল ও ১৪ অ্যাসিস্টসহ ২৩ গোলে অবদান রাখেন কাভান সুলিভান। এর মাধ্যমে এমএলএসে কিশোর খেলোয়াড় হিসেবে এক মৌসুমে সর্বোচ্চ গোল অবদান এবং টানা ১০ ম্যাচে গোলে অবদানের রেকর্ড গড়েন তিনি। গত সেপ্টেম্বরে যুক্তরাষ্ট্রের জাতীয় দলে ডাক পান সুলিভান এবং ১৭ বছর ৫ দিন বয়সে সর্বকনিষ্ঠ খেলোয়াড় হিসেবে গোলের রেকর্ড গড়েন। সুলিভানের নানি সুলতানা বাংলাদেশ থেকে যুক্তরাষ্ট্রে বসত গড়েন এবং তিনি বাংলাদেশের বয়সভিত্তিক জাতীয় দলের দুই ফুটবলার রোনান ও ডেকলান সুলিভানের ভাই।",
-        "details_en": "Playing his first season as a regular, Sullivan contributed to twenty-three goals with nine goals and fourteen assists in twenty-nine matches. He set records for the most goal contributions by a teenager in a single MLS season and in ten consecutive matches. Sullivan received a United States national team call-up in September, setting a record as the youngest goalscorer at seventeen years and five days old. His grandmother Sultana moved from Bangladesh to the United States, and he is the brother of Bangladesh youth national team footballers Ronan and Declan Sullivan.",
-        "hook_bn": "এমএলএসে বর্ষসেরা তরুণ খেলোয়াড় কাভান সুলিভান",
-        "kicker_bn": null,
+        "details_bn": "এস আলম গ্রুপের আত্মসাৎ করা ৮২ হাজার কোটি টাকা আদায়ে অগ্রগতি না থাকার প্রেক্ষাপটে ইসলামী ব্যাংকের পরিচালনা পর্ষদ সম্প্রতি বাংলাদেশ ব্যাংকের কাছে দুরবস্থা থেকে উদ্ধারের এই প্রস্তাব পাঠিয়েছে। এদিকে ব্যাংকটিতে পূর্ণাঙ্গ পর্ষদ গঠনের দাবিতে জামায়াতপন্থী হিসেবে পরিচিত ইসলামী ব্যাংক গ্রাহক ফোরাম আন্দোলন করছে এবং বিএনপি ও জামায়াতে ইসলামীর সঙ্গে আলোচনার ভিত্তিতে শিগগিরই পূর্ণাঙ্গ পর্ষদ গঠিত হতে পারে।",
+        "details_en": "In the context of no progress in recovering 82,000 crore taka embezzled by the S Alam Group, the board of directors of Islami Bank recently sent this rescue proposal to Bangladesh Bank. Meanwhile, the Islami Bank Customers Forum, known to be Jamaat-leaning, is agitating for a full board, and a full board may soon be formed following discussions with BNP and Jamaat-e-Islami.",
+        "hook_bn": "ইসলামী ব্যাংকের ৭৫ হাজার কোটি টাকা ধার চাওয়া",
+        "kicker_bn": "ইসলামী ব্যাংক",
         "share_value": false,
-        "question_bn": null
+        "question_bn": "ব্যাংক খাতের এই পরিস্থিতি সমাধানে কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনার মনে হয়?"
       },
-      "desk_importance": 6.0,
+      "desk_importance": 7.0,
       "outlet_count": 1,
       "trending": false,
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-24T04:02:41.643006+00:00"
+        "checked_at": "2026-11-24T05:03:05.561723+00:00"
+      }
+    },
+    {
+      "story_id": "6c307fea-0e4d-5468-bb94-faf57d82d084",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#TazreenFashions",
+        "#Ashulia",
+        "#GarmentIndustry"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1693585172757-b9e057feb878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFybGlhbWVudCUyMGxhdyUyMGNvdXJ0JTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1NDk2NTU5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-24T04:05:06+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.5,
+      "rank_score": 3.9981,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425581/tazreen-fire-victims-still-await-rehabilitation-14",
+          "title": "Tazreen fire victims still await rehabilitation 14 years on",
+          "snippet": "Tazreen fire victims still await rehabilitation 14 years on"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/court/14-years-tazreen-fire-victims-await-justice-trial-drags-1612156",
+          "title": "14 years on, Tazreen fire victims await justice as trial drags on",
+          "snippet": "14 years on, Tazreen fire victims await justice as trial drags on"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/14-years-on-tazreen-factory-fire-trial-yet-to-finish-recording-testimony",
+          "title": "Tazreen fire trial still stuck after 14 years",
+          "snippet": "Tazreen fire trial still stuck after 14 years"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "তাজরীন অগ্নিকাণ্ডের ১৪ বছর পর পুনর্বাসন ও বিচার ঝুলে রয়েছে",
+        "title_en": "Tazreen fire victims await rehabilitation and justice 14 years on",
+        "summary_bn": "তাজরীন ফ্যাশনসে অগ্নিকাণ্ডের ১৪ বছর পেরিয়ে গেলেও ক্ষতিগ্রস্ত শ্রমিকেরা পুনর্বাসন ও বিচার পাননি।",
+        "summary_en": "Fourteen years after the Tazreen Fashions fire, affected workers are still awaiting rehabilitation and justice.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T04:05:06+00:00",
+        "lead_bn": "তাজরীন ফ্যাশনসে অগ্নিকাণ্ডের ১৪ বছর পেরিয়ে গেলেও ক্ষতিগ্রস্ত শ্রমিকেরা পুনর্বাসন ও বিচার পাননি।",
+        "lead_en": "Fourteen years after the Tazreen Fashions fire, affected workers are still awaiting rehabilitation and justice.",
+        "bullets_bn": [
+          "স্মরণ ও পুনর্বাসনের দাবিতে বিভিন্ন শ্রম সংগঠনের নেতারা ও কর্মীরা কর্মসূচি পালন করেছেন।",
+          "প্রসিকিউশনের পক্ষ থেকে সাক্ষী হাজির করতে না পারার কারণে মামলার বিচারকাজ বাধাগ্রস্ত হয়েছে।",
+          "২০১২ সালের ২৪ নভেম্বর ঢাকার আশুলিয়ার নিশ্চিন্তপুরে তাজরীন ফ্যাশনে এই অগ্নিকাণ্ড ঘটেছিল।"
+        ],
+        "bullets_en": [
+          "Leaders and activists of various labour organisations held programs to remember the victims and demand rehabilitation.",
+          "The prosecution's failure to produce witnesses has impeded the progress of the trial.",
+          "The fire at Tazreen Fashions in Nishchintapur, Ashulia, Dhaka, occurred on November 24, 2012."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "২০১২ সালের ২৪ নভেম্বর ঢাকার আশুলিয়ার নিশ্চিন্তপুরে তাজরীন ফ্যাশনে সংঘটিত অগ্নিকাণ্ড বাংলাদেশের তৈরি পোশাক খাতের অন্যতম ভয়াবহ শিল্প দুর্ঘটনা। এই দুর্ঘটনায় ১১৪ জন শ্রমিক নিহত এবং দুই শতাধিক আহত হয়েছিলেন। ঘটনার ১৪ বছর পরও বিচার এবং পুনর্বাসনের জন্য শ্রমিকেরা অপেক্ষা করছেন।",
+        "details_en": "The fire at Tazreen Fashions in Nishchintapur, Ashulia, Dhaka, on November 24, 2012, remains one of the deadliest industrial disasters in Bangladesh’s garment industry. The disaster killed 114 workers and injured more than 200. Fourteen years later, victims are still awaiting trial progress and rehabilitation.",
+        "hook_bn": "তাজরীন অগ্নিকাণ্ডের ১৪ বছর পরও বিচার নেই",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T05:03:05.561723+00:00"
+      }
+    },
+    {
+      "story_id": "c6b6e95c-9c98-5f50-8d62-7fb35de40341",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "tech_innovation"
+      ],
+      "region": "international",
+      "tags": [
+        "#Nato",
+        "#MarkRutte",
+        "#Russia",
+        "#SputnikS"
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1177/live/c8dee990-e7a8-11f1-96e2-87034e8ab973.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-24T02:15:59+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.5,
+      "rank_score": 3.5994,
+      "sources": [
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+          "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+          "snippet": "Nato chief vows defence against space threat after Russian nuclear satellite reports"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ন্যাটো প্রধান মহাকাশ হুমকি মোকাবেলার প্রতিশ্রুতি দিয়েছেন।",
+        "title_en": "Nato chief vows defence against space threat.",
+        "summary_bn": "রাশিয়ার একটি পরমাণু অস্ত্রসজ্জিত উপগ্রহ তৈরির রিপোর্টের পর ন্যাটোর প্রধান মার্ক রুটে জোটের সদস্য দেশগুলোর মহাকাশ সুরক্ষার প্রতিশ্রুতি দিয়েছেন।",
+        "summary_en": "Nato chief Mark Rutte vowed the alliance will defend against space threats following reports that Russia was preparing a nuclear-armed satellite.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T02:15:59+00:00",
+        "lead_bn": "রাশিয়ার একটি পরমাণু অস্ত্রসজ্জিত উপগ্রহ তৈরির রিপোর্টের পর ন্যাটোর প্রধান মার্ক রুটে জোটের সদস্য দেশগুলোর মহাকাশ সুরক্ষার প্রতিশ্রুতি দিয়েছেন।",
+        "lead_en": "Nato chief Mark Rutte vowed the alliance will defend against space threats following reports that Russia was preparing a nuclear-armed satellite.",
+        "bullets_bn": [
+          "জার্মান সংবাদমাধ্যমের তথ্য অনুযায়ী গোয়েন্দা প্রতিবেদনগুলো এই মাসে ন্যাটো দেশগুলোর মধ্যে শেয়ার করা হয়েছিল।",
+          "ক্রেমলিনের মুখপাত্র দিমিত্রি পেসকভ অজানা সূত্রের এই ধরনের প্রতিবেদনগুলোকে গুরুত্ব সহকারে না নেওয়ার কথা বলেছেন।",
+          "রুটে বার্লিনে এক সংবাদ সম্মেলনে বলেছেন যে ন্যাটোর বিভিন্ন ধরনের প্রতিক্রিয়ার বিকল্প রয়েছে।"
+        ],
+        "bullets_en": [
+          "Intelligence reports about a possible launch were shared among Nato countries this month according to German media outlets.",
+          "Kremlin spokesman Dmitry Peskov dismissed reports citing unknown sources as hardly worth taking seriously.",
+          "Rutte told a press conference in Berlin that Nato had a variety of response options."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "জার্মান সম্প্রচারক এনডিআর এবং ডব্লিউডিআর এবং সংবাদপত্র জুয়েডডয়েচে জেইতুংয়ের সূত্র অনুযায়ী স্পুটনিক-এস নামক রাশিয়ার এই উপগ্রহটি পরমাণু ওয়ারহেড দিয়ে সজ্জিত হতে পারে। এটি গুরুত্বপূর্ণ যোগাযোগ এবং পর্যবেক্ষণ উপগ্রহসহ অন্যান্য উপগ্রহগুলো ব্যাহত বা ধ্বংস করতে ব্যবহৃত হতে পারে। বার্লিনে রুশ দূতাবাস এই অভিযোগগুলোকে ভিত্তিহীন প্রচারণা বলে প্রত্যাখ্যান করেছে।",
+        "details_en": "Citing anonymous German military and intelligence sources, reports by broadcasters NDR and WDR and newspaper Sueddeutsche Zeitung said the Russian satellite dubbed Sputnik-S was equipped with a nuclear warhead. It could disrupt or destroy other communication and observation satellites. The Russian embassy in Berlin rejected the allegations as a propaganda campaign.",
+        "hook_bn": "মহাকাশে প্রতিটি ইঞ্চি ন্যাটোকে রক্ষা করা হবে",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T05:03:05.561723+00:00"
+      }
+    },
+    {
+      "story_id": "a4887d56-3d9c-526a-8b4a-d9221122ed30",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_bengali/30d9/live/904b3cb0-e7b6-11f1-b578-97360f7f683d.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-24T03:42:02+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.25,
+      "rank_score": 2.5509,
+      "sources": [
+        {
+          "name": "BBC News বাংলা",
+          "url": "https://www.bbc.com/bengali/articles/c5dj19kg4vm7o?at_medium=RSS&at_campaign=rss",
+          "title": "ইরানের 'বিকল্প ব্যাংকিং নেটওয়ার্কে'র ওপর যুক্তরাষ্ট্রের নতুন নিষেধাজ্ঞা",
+          "snippet": "ইরানের 'বিকল্প ব্যাংকিং নেটওয়ার্কে'র ওপর যুক্তরাষ্ট্রের নতুন নিষেধাজ্ঞা"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/iran-demands-290-billion-compensation-from-united-states/",
+          "title": "যুক্তরাষ্ট্রের কাছে ২৯ হাজার কোটি ডলার ক্ষতিপূরণ দাবি ইরানের",
+          "snippet": "যুক্তরাষ্ট্রের কাছে ২৯ হাজার কোটি ডলার ক্ষতিপূরণ দাবি ইরানের"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যুক্তরাষ্ট্র ইরানের ওপর নতুন নিষেধাজ্ঞা আরোপ করেছে এবং ইরান ক্ষতিপূরণ দাবি করেছে।",
+        "title_en": "US imposes new sanctions on Iran as Iran demands compensation.",
+        "summary_bn": "যুক্তরাষ্ট্র ইরানের শ্যাডো ব্যাংকিং নেটওয়ার্কের সঙ্গে যুক্ত ব্যক্তি ও প্রতিষ্ঠানের ওপর নতুন নিষেধাজ্ঞা দিয়েছে এবং ইরান যুক্তরাষ্ট্রের কাছে ক্ষতিপূরণ দাবি করেছে।",
+        "summary_en": "The US has imposed new sanctions on individuals and entities linked to Iran's shadow banking network, while Iran has demanded compensation.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T03:42:02+00:00",
+        "lead_bn": "যুক্তরাষ্ট্র ইরানের শ্যাডো ব্যাংকিং নেটওয়ার্কের সঙ্গে যুক্ত ব্যক্তি ও প্রতিষ্ঠানের ওপর নতুন নিষেধাজ্ঞা দিয়েছে এবং ইরান যুক্তরাষ্ট্রের কাছে ক্ষতিপূরণ দাবি করেছে।",
+        "lead_en": "The US has imposed new sanctions on individuals and entities linked to Iran's shadow banking network, while Iran has demanded compensation.",
+        "bullets_bn": [
+          "মার্কিন ট্রেজারি বিভাগ ইরান-সংশ্লিষ্ট আটজন ব্যক্তি এবং চারটি দেশে অবস্থিত বাইশটি সংস্থাকে নিষেধাজ্ঞার তালিকায় যুক্ত করেছে।",
+          "ফিনসেনের তথ্যানুযায়ী, নির্দিষ্ট সময়ের মধ্যে আনুমানিক চৌদ্দ দশমিক সাত বিলিয়ন ডলার মূল্যের আর্থিক কার্যকলাপ ইরানের শ্যাডো ব্যাংকিং ব্যবস্থার সাথে যুক্ত।",
+          "ইরান যুক্তরাষ্ট্রের বিরুদ্ধে কয়েক দশকের মার্কিন কর্মকাণ্ডে ক্ষয়ক্ষতির অভিযোগ তুলে উনত্রিশ হাজার কোটি ডলার ক্ষতিপূরণ দাবি করেছে।"
+        ],
+        "bullets_en": [
+          "The US Treasury Department added eight Iran-linked individuals and twenty-two entities located in four countries to the sanctions list.",
+          "According to FinCEN, financial activity valued at approximately fourteen point seven billion dollars is linked to Iran's shadow banking system.",
+          "Iran demanded two hundred and ninety billion dollars in compensation from the US, citing damages from decades of US actions."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মার্কিন ট্রেজারি বিভাগের বিজ্ঞপ্তি অনুযায়ী, প্রায় তিন বছর আগে কেন্দ্রীয় ব্যাংকের অনুমতি নিয়ে প্রতিষ্ঠিত ইরানি মুদ্রা ও স্বর্ণ বিনিময় প্রতিষ্ঠান এই শ্যাডো ব্যাংকিং ব্যবস্থার মাধ্যমে আন্তর্জাতিক বাণিজ্য থেকে তহবিল স্থানান্তরে মধ্যস্থতা করেছে। এদিকে ক্রমবর্ধমান সংঘাতে ইরান নৌ অবরোধ মোকাবিলার হুঁশিয়ারি দিয়েছে এবং পরিস্থিতি উত্তপ্ত হলে মধ্যপ্রাচ্যে মার্কিন সামরিক স্থাপনায় হামলার বিষয়টি বিবেচনায় রেখেছে। তবে ইসরায়েলের প্রধানমন্ত্রী পদে লড়াই করা বেনিয়ামিন নেতানিয়াহু ও গাদি আইজেনকোট ইরানের বিরুদ্ধে নতুন সামরিক পদক্ষেপের বিপক্ষে অবস্থান নিয়েছেন।",
+        "details_en": "According to the US Treasury Department notice, the Iranian currency and gold exchange institution, established with central bank permission about three years ago, mediated the transfer of funds from international trade through this shadow banking system. Meanwhile, amid the ongoing conflict, Iran warned it would counter a US naval blockade and consider attacks on US military installations in the Middle East if the situation escalates. However, Israeli prime ministerial candidates Benjamin Netanyahu and Gadi Eisenkot opposed new military action against Iran.",
+        "hook_bn": "যুক্তরাষ্ট্রের কাছে উনত্রিশ হাজার কোটি ডলার দাবি",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T05:03:05.561723+00:00"
+      }
+    },
+    {
+      "story_id": "ffb4c87c-f0c9-5f68-b8cb-65b5ec0b1534",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "tech_innovation"
+      ],
+      "region": "international",
+      "tags": [
+        "#China",
+        "#Pakistan",
+        "#Shenzhou24",
+        "#Tiangong"
+      ],
+      "image_url": "https://th-i.thgim.com/public/incoming/2ixinz/article71737177.ece/alternates/LANDSCAPE_1200/2026-11-24T040214Z_1286380670_RC23UOAB1PY8_RTRMADP_3_SPACE-EXPLORATION-CHINA-SHENZHOU.JPG",
+      "image_caption": null,
+      "published_at": "2026-11-24T04:22:29+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4056,
+      "sources": [
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/sci-tech/science/chinas-shenzhou-24-spaceship-to-include-first-foreign-astronaut-from-pakistan/article71737165.ece",
+          "title": "China's Shenzhou-24 spaceship to include first foreign astronaut from Pakistan",
+          "snippet": "China's Shenzhou-24 spaceship to include first foreign astronaut from Pakistan"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "চীনের শেনঝৌ-২৪ মহাকাশযানে যাবেন পাকিস্তানি নভোচারী",
+        "title_en": "China's Shenzhou-24 spaceship to include Pakistani astronaut",
+        "summary_bn": "পাকিস্তানের মোহাম্মদ জিশান আলীসহ তিন সদস্যের একটি দল চীনের তিয়ানগং মহাকাশ স্টেশনের উদ্দেশ্যে মহাকাশযানে রওনা দেবেন।",
+        "summary_en": "China will launch its Shenzhou-24 spaceship with a crew including Pakistani payload specialist Zeeshan Ali heading to the Tiangong space station.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T04:22:29+00:00",
+        "lead_bn": "পাকিস্তানের মোহাম্মদ জিশান আলীসহ তিন সদস্যের একটি দল চীনের তিয়ানগং মহাকাশ স্টেশনের উদ্দেশ্যে মহাকাশযানে রওনা দেবেন।",
+        "lead_en": "China will launch its Shenzhou-24 spaceship with a crew including Pakistani payload specialist Zeeshan Ali heading to the Tiangong space station.",
+        "bullets_bn": [
+          "চীনের মানববাহী মহাকাশ সংস্থা জানিয়েছে যে অভিযানটির উৎক্ষেপণ ২৫ নভেম্বর সকাল ৮:১৮ মিনিটে নির্ধারণ করা হয়েছে।",
+          "মিশনটির কমান্ডার হিসেবে দায়িত্ব পালন করবেন তাং হংবো এবং ফ্লাইট ইঞ্জিনিয়ার থাকবেন উ ই।",
+          "মোহাম্মদ জিশান আলী চীনের মহাকাশ স্টেশনে বোর্ডে ওঠা প্রথম বিদেশি নভোচারী হবেন।"
+        ],
+        "bullets_en": [
+          "The China Manned Space Agency announced the launch is scheduled for November 25 at 8:18 a.m. local time.",
+          "The flight crew consists of commander Tang Hongbo and flight engineer Wu Yi alongside the Pakistani specialist.",
+          "Zeeshan Ali will be the first foreign astronaut to board China's space station."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "চীনের বেল্ট অ্যান্ড রোড ইনিশিয়েটিভের দ্বিপক্ষীয় সহযোগিতার অংশ হিসেবে এই অভিযান পরিচালিত হচ্ছে। জিশান আলী একটি স্বল্পমেয়াদি পরিদর্শন শেষে শেনঝৌ-২৩ ক্রু দলের দুবারের সদস্যের সঙ্গে পৃথিবীতে ফিরে আসবেন। তিয়ানগং স্টেশনে চীন ২০২১ সাল থেকে নিয়মিতভাবে ছয় মাসের জন্য নভোচারী পাঠিয়ে আসছে।",
+        "details_en": "Ali's participation is part of bilateral cooperation under Beijing's Belt and Road Initiative. He is scheduled for a short-term visit before returning with two of the outgoing Shenzhou-23 crew. China has sent trios of Chinese astronauts to the Tiangong station for six-month stays since 2021.",
+        "hook_bn": "মহাকাশে প্রথম পাকিস্তানি নভোচারী",
+        "kicker_bn": "মহাকাশ অভিযান",
+        "share_value": false,
+        "question_bn": "চীনের মহাকাশ অভিযানে পাকিস্তানি নভোচারীর অংশগ্রহণকে আপনি কীভাবে দেখেন?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T05:03:05.561723+00:00"
       }
     }
   ]
