@@ -1,310 +1,320 @@
 {
-  "updated_at": "2026-11-24T11:00:49.252867",
-  "total_stories": 4,
+  "updated_at": "2026-11-24T12:00:45.251288",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "979e96b8-a4ef-5e91-94ad-b81f37f9a954",
-      "primary_category": "society_education",
+      "story_id": "dbccb98f-8d88-53b2-92c6-35d5a015877e",
+      "primary_category": "economy_business",
       "interest_categories": [
+        "economy_business",
         "society_education"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#MinimumWage",
+        "#RMGWorkers",
+        "#WageBoard"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-05-21%2F16u8b6zp%2F22__Dhaka_Hospital_Children.jfif?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/21/wage_board_chairman.jpg",
       "image_caption": null,
-      "published_at": "2026-11-24T10:41:07+00:00",
+      "published_at": "2026-11-24T10:50:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 5.5136,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/e307v1p36a",
-          "title": "হামের উপসর্গে গেল ৯ প্রাণ, নতুন আক্রান্ত ১৩৫১",
-          "snippet": "হামের উপসর্গে গেল ৯ প্রাণ, নতুন আক্রান্ত ১৩৫১"
-        },
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/health/post-1225127/",
-          "title": "হামের উপসর্গে একদিনে ৯ শিশুর মৃত্যু",
-          "snippet": "হামের উপসর্গে একদিনে ৯ শিশুর মৃত্যু"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822790/%E0%A6%B9%E0%A6%BE%E0%A6%AE-%E0%A6%89%E0%A6%AA%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A7%AF-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81",
-          "title": "হাম উপসর্গে আরও ৯ মৃত্যু",
-          "snippet": "হাম উপসর্গে আরও ৯ মৃত্যু"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "হামের উপসর্গ নিয়ে ২৪ ঘণ্টায় ৯ জনের মৃত্যু এবং ১ হাজার ৩৫১ জন নতুন আক্রান্ত",
-        "title_en": "Nine deaths and 1351 new cases reported with measles symptoms in 24 hours",
-        "summary_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, ২৪ নভেম্বর পর্যন্ত গত ২৪ ঘণ্টায় হামের উপসর্গ নিয়ে দেশে ৯ জনের মৃত্যু ও ১ হাজার ৩৫১ জন নতুন শনাক্ত হয়েছেন।",
-        "summary_en": "According to Directorate General of Health Services, nine people died and 1351 new cases were identified with measles symptoms in 24 hours till 24 November.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-24T10:41:07+00:00",
-        "lead_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, ২৪ নভেম্বর পর্যন্ত গত ২৪ ঘণ্টায় হামের উপসর্গ নিয়ে দেশে ৯ জনের মৃত্যু ও ১ হাজার ৩৫১ জন নতুন শনাক্ত হয়েছেন।",
-        "lead_en": "According to Directorate General of Health Services, nine people died and 1351 new cases were identified with measles symptoms in 24 hours till 24 November.",
-        "bullets_bn": [
-          "মৃত ব্যক্তিদের মধ্যে ঢাকা ও সিলেট বিভাগে তিনজন করে, চট্টগ্রাম, বরিশাল ও খুলনা বিভাগে একজন করে রয়েছেন।",
-          "নতুন শনাক্তদের মধ্যে ১ হাজার ২৮৩ জনের হামের উপসর্গ দেখা গেছে এবং ৬৮ জনের হাম শনাক্ত হয়েছে।",
-          "গত ২৪ ঘণ্টায় ১ হাজার ২০৮ জন হামের উপসর্গ নিয়ে হাসপাতালে ভর্তি হয়েছে এবং সুস্থ হয়ে বাড়ি ফিরেছে ১ হাজার ১৩৯ জন।"
-        ],
-        "bullets_en": [
-          "Among the deceased, three are from Dhaka and Sylhet divisions each, and one each from Chattogram, Barishal and Khulna divisions.",
-          "Among the newly identified, 1351 showed measles symptoms and 68 were confirmed with measles.",
-          "In 24 hours, 1208 people were admitted to hospitals with measles symptoms and 1139 recovered and left hospitals."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, ১৫ মার্চ থেকে ২৪ নভেম্বর পর্যন্ত দেশে হামের উপসর্গ নিয়ে মোট ২ লাখ ৫৯ হাজার ১৯০ জন শনাক্ত হয়েছে এবং নিশ্চিত হাম শনাক্ত হয়েছে ২৬ হাজার ৩০০ জনের। এ সময়ে সন্দেহজনক হাম নিয়ে মৃত্যুর সংখ্যা ১ হাজার ২৫৬ এবং নিশ্চিত হামে মৃত্যুর সংখ্যা ১০৫। ১৫ মার্চ থেকে এ পর্যন্ত সন্দেহজনক হাম নিয়ে হাসপাতালে ভর্তি হয়েছে মোট ২ লাখ ৩১ হাজার ৯৯৯ জন।",
-        "details_en": "According to Directorate General of Health Services data from 15 March to 24 November, total 259,190 people were identified with measles symptoms and 26,300 with confirmed measles. During this period, deaths from suspected measles reached 1,256 and confirmed measles deaths 105. Total 231,999 people were hospitalized with suspected measles from 15 March.",
-        "hook_bn": "হামের উপসর্গ নিয়ে একদিনে ৯ জনের মৃত্যু",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": "আপনার এলাকায় হামের প্রকোপ কেমন দেখছেন?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-24T11:04:58.368358+00:00"
-      }
-    },
-    {
-      "story_id": "bdb6510d-a681-572a-86e2-8a9ec553cd8f",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#BimanBangladeshAirlines",
-        "#DhakaRiyadhFlights",
-        "#SaudiArabia"
-      ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/biman.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-24T10:27:54+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 5.4439,
-      "sources": [
-        {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/economy/aviation/news/biman-suspends-dhaka-riyadh-flights-until-december-16-4332031",
-          "title": "Biman suspends Dhaka-Riyadh flights until December 16",
-          "snippet": "Biman suspends Dhaka-Riyadh flights until December 16"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822788/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A6-%E0%A6%B0%E0%A7%81%E0%A6%9F%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9F-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%97%E0%A6%BF%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A7%9F%E0%A6%BE%E0%A6%A6-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%B2",
-          "title": "ঢাকা-রিয়াদ রুটে বিমানের ফ্লাইট স্থগিতের মেয়াদ বাড়ল",
-          "snippet": "ঢাকা-রিয়াদ রুটে বিমানের ফ্লাইট স্থগিতের মেয়াদ বাড়ল"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/biman-flights-dhaka-riyadh-route-suspended-until-december/",
-          "title": "১৬ ডিসেম্বর পর্যন্ত বিমানের ঢাকা-রিয়াদ ফ্লাইট বন্ধ",
-          "snippet": "১৬ ডিসেম্বর পর্যন্ত বিমানের ঢাকা-রিয়াদ ফ্লাইট বন্ধ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "১৬ ডিসেম্বর পর্যন্ত ঢাকা-রিয়াদ রুটে বিমানের নিয়মিত ফ্লাইট স্থগিত",
-        "title_en": "Biman suspends Dhaka-Riyadh regular flights until December 16",
-        "summary_bn": "সৌদি আরবে সাম্প্রতিক বিমান হামলা ও যাত্রীদের নিরাপত্তার কথা বিবেচনা করে ঢাকা-রিয়াদ রুটে নিয়মিত ফ্লাইট স্থগিতের মেয়াদ ১৬ ডিসেম্বর পর্যন্ত বাড়িয়েছে বিমান বাংলাদেশ এয়ারলাইনস।",
-        "summary_en": "Biman Bangladesh Airlines extended the suspension of regular flights on the Dhaka-Riyadh route until December 16 citing Saudi airstrikes and passenger safety.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-24T10:27:54+00:00",
-        "lead_bn": "সৌদি আরবে সাম্প্রতিক বিমান হামলা ও যাত্রীদের নিরাপত্তার কথা বিবেচনা করে ঢাকা-রিয়াদ রুটে নিয়মিত ফ্লাইট স্থগিতের মেয়াদ ১৬ ডিসেম্বর পর্যন্ত বাড়িয়েছে বিমান বাংলাদেশ এয়ারলাইনস।",
-        "lead_en": "Biman Bangladesh Airlines extended the suspension of regular flights on the Dhaka-Riyadh route until December 16 citing Saudi airstrikes and passenger safety.",
-        "bullets_bn": [
-          "বিমান বাংলাদেশ এয়ারলাইনসের জনসংযোগ বিভাগের মহাব্যবস্থাপক স্বাক্ষরিত সংবাদ বিজ্ঞপ্তিতে এ তথ্য জানানো হয়।",
-          "ঢাকা-জেদ্দা, ঢাকা-দাম্মাম ও ঢাকা-মদিনা রুটের ফ্লাইট আগের সিদ্ধান্ত অনুযায়ী যথারীতি চালূ থাকবে।",
-          "রিয়াদগামী যাত্রীরা আসন খালি থাকা সাপেক্ষে জেদ্দা, দাম্মাম বা মদিনা হয়ে যাতায়াত করতে পারবেন।"
-        ],
-        "bullets_en": [
-          "The information was provided in a press release signed by the general manager of Biman Bangladesh Airlines public relations department.",
-          "Flights on the Dhaka-Jeddah, Dhaka-Dammam and Dhaka-Madinah routes will continue according to previous decisions.",
-          "Passengers travelling to Riyadh can travel via Jeddah, Dammam or Madinah subject to seat availability."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "১৬ ডিসেম্বর পর্যন্ত বিমানের ঢাকা-রিয়াদ ফ্লাইট বন্ধ",
-        "kicker_bn": "নতুন তারিখ",
-        "share_value": true,
-        "question_bn": "ফ্লাইট স্থগিতের এই ঘোষণায় আপনার ভ্রমণ পরিকল্পনায় কী ধরনের সমস্যা হচ্ছে?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-24T11:04:58.368358+00:00"
-      }
-    },
-    {
-      "story_id": "b9a4fc30-3f22-56a1-afe9-cddaaccdb25e",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#NationalBoardOfRevenue",
-        "#TariffCut",
-        "#Ramadan"
-      ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Updated%20Until%20Feb%2023%2C%202027%20Label.png",
-      "image_caption": null,
-      "published_at": "2026-11-24T10:45:50+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.8463,
-      "sources": [
-        {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/news/nbr-slashes-import-tariffs-dates-apples-and-oranges-4332051",
-          "title": "NBR slashes import tariffs on dates, apples and oranges",
-          "snippet": "NBR slashes import tariffs on dates, apples and oranges"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/govt-waives-additional-customs-duties-on-dates-until-march-10",
-          "title": "Govt waives additional customs duties on dates until March 10",
-          "snippet": "Govt waives additional customs duties on dates until March 10"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "খেজুর, আপেল ও কমলার আমদানি শুল্ক কমাচ্ছে এনবিআর",
-        "title_en": "NBR cuts import tariffs on dates, apples and oranges",
-        "summary_bn": "রমজান মাসে দাম কমানো ও আমদানি বাড়াতে খেজুর, আপেল এবং কমলার আমদানি শুল্ক কমিয়েছে জাতীয় রাজস্ব বোর্ড।",
-        "summary_en": "The National Board of Revenue has cut import tariffs on dates, oranges and apples to bring down prices and boost imports ahead of Ramadan.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-24T10:45:50+00:00",
-        "lead_bn": "রমজান মাসে দাম কমানো ও আমদানি বাড়াতে খেজুর, আপেল এবং কমলার আমদানি শুল্ক কমিয়েছে জাতীয় রাজস্ব বোর্ড।",
-        "lead_en": "The National Board of Revenue has cut import tariffs on dates, oranges and apples to bring down prices and boost imports ahead of Ramadan.",
-        "bullets_bn": [
-          "খেজুরের শুল্ক ২৫ শতাংশ থেকে কমিয়ে ৫ শতাংশ করা হয়েছে।",
-          "আপেল ও কমলার নিয়ন্ত্রণমূলক শুল্ক ৫ শতাংশ করা হয়েছে।",
-          "নতুন শুল্ক হার অবিলম্বে কার্যকর হবে বলে জানিয়েছে জাতীয় রাজস্ব বোর্ড।"
-        ],
-        "bullets_en": [
-          "Customs duty on dates was slashed to 5 percent from 25 percent.",
-          "Regulatory duty on apples and oranges was cut to 5 percent.",
-          "The National Board of Revenue stated that the new tariffs would become effective immediately."
-        ],
-        "impact_bn": "রমজান মাসে খেজুর, আপেল ও কমলার দাম সাধারণ মানুষের নাগালে রাখতে এই শুল্ক কমানো হয়েছে।",
-        "impact_en": "Tariffs were reduced to bring down prices of dates, apples and oranges for consumers ahead of Ramadan.",
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "রমজানে কমছে খেজুর আপেলের দাম",
-        "kicker_bn": "নতুন শুল্ক",
-        "share_value": true,
-        "question_bn": "রমজানের আগে এই শুল্ক হ্রাসের ফলে বাজারে ফলের দামে কী প্রভাব পড়বে বলে আপনার মনে হয়?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-24T11:04:58.368358+00:00"
-      }
-    },
-    {
-      "story_id": "73ce0c6d-49a4-594c-9cba-bbb39108d487",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "governance_law",
-        "tech_innovation"
-      ],
-      "region": "national",
-      "tags": [
-        "#BSEC",
-        "#SMEBoard",
-        "#Bangladesh"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/10/18/bsec_stock.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-24T10:35:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.6858,
+      "importance_score": 8.5,
+      "rank_score": 6.7471,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/economy/stocks/bsec-cut-sme-board-trading-threshold-tk10-lakh-tk30-lakh-1612566",
-          "title": "BSEC to cut SME board trading threshold to Tk10 lakh from Tk30 lakh",
-          "snippet": "BSEC to cut SME board trading threshold to Tk10 lakh from Tk30 lakh"
+          "url": "https://www.tbsnews.net/economy/rmg/rmg-owners-propose-tk15700-minimum-wage-workers-want-tk22000-1612626",
+          "title": "RMG owners propose Tk15,700 as min wage, workers want Tk22,000",
+          "snippet": "RMG owners propose Tk15,700 as min wage, workers want Tk22,000"
         },
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/economy/news/1183175",
-          "title": "এসএমই বোর্ডে বিনিয়োগসীমা কমলো দুই-তৃতীয়াংশ, ডিজিটাল এজিএমের সুযোগ",
-          "snippet": "এসএমই বোর্ডে বিনিয়োগসীমা কমলো দুই-তৃতীয়াংশ, ডিজিটাল এজিএমের সুযোগ"
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/news/owners-propose-tk-15700-minimum-rmg-wage-4332071",
+          "title": "Owners propose Tk 15,700 as minimum RMG wage",
+          "snippet": "Owners propose Tk 15,700 as minimum RMG wage"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/garment-workers-minimum-wage-talks-continue/",
+          "title": "ন্যূনতম মজুরি নিয়ে শ্রমিক-মালিক সমঝোতা হয়নি, চলবে আলোচনা",
+          "snippet": "ন্যূনতম মজুরি নিয়ে শ্রমিক-মালিক সমঝোতা হয়নি, চলবে আলোচনা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "এসএমই বোর্ডের ট্রেডিং থ্রেশহোল্ড ১০ লাখ টাকায় নামাল বিএসইসি",
-        "title_en": "BSEC cuts SME board trading threshold to Tk10 lakh",
-        "summary_bn": "বাংলাদেশ সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ কমিশন এসএমই প্ল্যাটফর্মের সেকেন্ডারি বাজারে লেনদেনের জন্য যোগ্য বিনিয়োগকারীদের ন্যূনতম পোর্টফোলিও প্রয়োজন ৩০ লাখ টাকা থেকে কমিয়ে ১০ লাখ টাকায় নামিয়েছে।",
-        "summary_en": "The Bangladesh Securities and Exchange Commission has reduced the minimum portfolio requirement for eligible individual investors on the SME platform to Tk10 lakh from Tk30 lakh.",
+        "title_bn": "পোশাক শ্রমিকদের ন্যূনতম মজুরি ১৫,৭০‌০ টাকা প্রস্তাব মালিকদের",
+        "title_en": "RMG owners propose Tk 15,700 as minimum wage",
+        "summary_bn": "পোশাক খাতের মালিকেরা ন্যূনতম মাসিক মজুরি ১৫,৭০০ টাকা প্রস্তাব করেছেন এবং শ্রমিকপক্ষ দাবি করছে ২২,০০০ টাকা।",
+        "summary_en": "Ready-made garment owners proposed a minimum monthly wage of Tk 15,700, while workers demanded Tk 22,000.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business",
-          "governance_law",
-          "tech_innovation"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-24T10:35:00+00:00",
-        "lead_bn": "বাংলাদেশ সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ কমিশন এসএমই প্ল্যাটফর্মের সেকেন্ডারি বাজারে লেনদেনের জন্য যোগ্য বিনিয়োগকারীদের ন্যূনতম পোর্টফোলিও প্রয়োজন ৩০ লাখ টাকা থেকে কমিয়ে ১০ লাখ টাকায় নামিয়েছে।",
-        "lead_en": "The Bangladesh Securities and Exchange Commission has reduced the minimum portfolio requirement for eligible individual investors on the SME platform to Tk10 lakh from Tk30 lakh.",
+        "published_at": "2026-11-24T10:50:00+00:00",
+        "lead_bn": "পোশাক খাতের মালিকেরা ন্যূনতম মাসিক মজুরি ১৫,৭০০ টাকা প্রস্তাব করেছেন এবং শ্রমিকপক্ষ দাবি করছে ২২,০০০ টাকা।",
+        "lead_en": "Ready-made garment owners proposed a minimum monthly wage of Tk 15,700, while workers demanded Tk 22,000.",
         "bullets_bn": [
-          "কমিশনের নিয়মিত বৈঠকে এই সিদ্ধান্ত নেওয়া হয়।",
-          "সংশোধিত আদেশ বা নির্দেশনা জারির পর এই সিদ্ধান্ত কার্যকর হবে।",
-          "এর আগে গত মে মাসে জারি করা এক নির্দেশিকায় ন্যূনতম পোর্টফোলিও প্রয়োজন ৩০ লাখ টাকা করা হয়েছিল।"
+          "উভয় পক্ষের প্রস্তাবের মধ্যে ৬,৩০০ টাকার ব্যবধান রয়েছে বলে জানিয়েছেন নিম্নতম মজুরি বোর্ডের চেয়ারম্যান সৈয়দ আজাদ সুবহানী।",
+          "আলোচনার সময় শ্রমিকপক্ষ তাদের দাবি ৩২,০০০ টাকা থেকে কমিয়ে ২২,০০০ টাকায় নামিয়ে এনেছে।",
+          "উভয় পক্ষের তৃতীয় দফার সংশোধিত প্রস্তাব পর্যালোচনার মাধ্যমে আলোচনা চলবে।"
         ],
         "bullets_en": [
-          "The decision was taken at the commission's regular meeting.",
-          "The revised threshold will take effect once the BSEC issues an amended order or directive.",
-          "Through a directive issued on 19 May, the regulator previously reinstated the minimum portfolio requirement at Tk30 lakh."
+          "Minimum Wage Board Chairman Syed Azad Subhani said there is a Tk 6,300 gap between the proposals.",
+          "During negotiations, the workers' side reduced its demand from Tk 32,000 to Tk 22,000.",
+          "Discussions will continue as both sides prepare to submit their third round of revised proposals."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "চলতি বছরের জানুয়ারি মাসে বিএসইসি ন্যূনতম বিনিয়োগসীমা ৩০ লাখ টাকা থেকে কমিয়ে ১০ লাখ টাকা করেছিল, যা কিউআইও রুলস, ২০২২-এর যোগ্য বিনিয়োগকারীদের মানদণ্ডের সাথে সামঞ্জস্যপূর্ণ ছিল। তবে ১৯ মে এক নির্দেশনার মাধ্যমে নিয়ন্ত্রক সংস্থা সেই সিদ্ধান্ত পাল্টে সেকেন্ডারি বাজারে লেনদেনের জন্য ন্যূনতম পোর্টফোলিও আবার ৩০ লাখ টাকা করেছিল।",
-        "details_en": "In January this year, the BSEC reduced the minimum investment threshold from Tk30 lakh to Tk10 lakh, aligning it with the QIO Rules, 2022. However, through a directive issued on 19 May, the regulator reversed that decision and reinstated the requirement at Tk30 lakh.",
-        "hook_bn": "এসএমই বোর্ডে বিনিয়োগসীমা কমলো ১০ লাখ টাকায়",
-        "kicker_bn": "নতুন নিয়ম",
+        "details_bn": "গত কয়েক সপ্তাহ ধরে তৈরি পোশাকশিল্পের শ্রমিকেরা মাসিক বেতন উল্লেখযোগ্য হারে বাড়ানোর দাবিতে আন্দোলন করে আসছেন। ২৪ নভেম্বর মজুরি বোর্ডের বৈঠকে এই প্রস্তাবগুলো দেওয়া হয় এবং দিন শেষে চূড়ান্ত সিদ্ধান্তে পৌঁছানোর আশা প্রকাশ করা হয়।",
+        "details_en": "Ready-made garment workers have been protesting for the past few weeks demanding a significant raise in monthly salaries. These proposals were presented during a wage board meeting on 24 November, with hopes of reaching a final decision by the end of the day.",
+        "hook_bn": "মালিকদের প্রস্তাব ১৫ হাজার ৭০০ টাকা",
+        "kicker_bn": "নতুন মজুরি",
+        "share_value": false,
+        "question_bn": "পোশাক শ্রমিকদের এই মজুরি নিয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 8.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 9.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T12:03:30.696397+00:00"
+      }
+    },
+    {
+      "story_id": "757f215e-5801-5893-b5f5-b949cd721c2e",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#BIDS",
+        "#BCI",
+        "#BangladeshEconomy",
+        "#Manufacturing"
+      ],
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/AMR_1424%20%28131%29.JPG",
+      "image_caption": null,
+      "published_at": "2026-11-24T11:44:33+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 8.25,
+      "rank_score": 6.6987,
+      "sources": [
+        {
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/news/manufacturing-output-stagnates-power-disruptions-double-bids-bci-survey-4332121",
+          "title": "Manufacturing output stagnates as power disruptions double: BIDS-BCI survey",
+          "snippet": "Manufacturing output stagnates as power disruptions double: BIDS-BCI survey"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/energy/power-gas-shortages-stall-industrial-production-output-declines-04-1612476",
+          "title": "Power, gas shortages stall industrial production as output declines 0.4%",
+          "snippet": "Power, gas shortages stall industrial production as output declines 0.4%"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বিদ্যুৎ ও গ্যাস সংকটে বাংলাদেশের উৎপাদন খাতের প্রবৃদ্ধি থমকে গেছে, বলছে সমীক্ষা",
+        "title_en": "Power and gas disruptions stall Bangladesh manufacturing output growth, survey shows",
+        "summary_bn": "বিদ্যুৎ ও গ্যাস সরবরাহে তীব্র বিঘ্নের কারণে ২০২৬ সালের এপ্রিল-জুন প্রান্তিকে মাঝারি ও বড় উৎপাদন শিল্পে কোনো প্রবৃদ্ধি হয়নি বলে সমীক্ষায় উঠে এসেছে।",
+        "summary_en": "Real output in medium and large manufacturing industries recorded no growth in the April-June quarter of 2026 due to severe energy disruptions, according to a survey.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T11:44:33+00:00",
+        "lead_bn": "বিদ্যুৎ ও গ্যাস সরবরাহে তীব্র বিঘ্নের কারণে ২০২৬ সালের এপ্রিল-জুন প্রান্তিকে মাঝারি ও বড় উৎপাদন শিল্পে কোনো প্রবৃদ্ধি হয়নি বলে সমীক্ষায় উঠে এসেছে।",
+        "lead_en": "Real output in medium and large manufacturing industries recorded no growth in the April-June quarter of 2026 due to severe energy disruptions, according to a survey.",
+        "bullets_bn": [
+          "দৈনিক গ্রিড বিদ্যুৎ বিভ্রাট দ্বিগুণ হয়ে ৪.১ ঘণ্টা এবং পাইপলাইনের গ্যাস বিভ্রাট প্রায় চারগুণ বেড়ে ৩.২ ঘণ্টা হয়েছে।",
+          "প্রকৃত উৎপাদন ২০২৫ সালের গড় প্রান্তিক স্তরের চেয়ে ০.৪ শতাংশ কমেছে এবং ৯৪ শতাংশ কারখানা কাঁচামালের বাড়তি খরচের কথা জানিয়েছে।",
+          "বিআইডিএস-বিসিআই সমীক্ষায় দেখা গেছে, কারখানার উৎপাদন সক্ষমতার ব্যবহার কমছে, জ্বালানি খরচ বাড়ছে এবং যন্ত্রপাতিতে বিনিয়োগ আশঙ্কাজনকভাবে হ্রাস পাচ্ছে।"
+        ],
+        "bullets_en": [
+          "Daily grid electricity disruptions doubled to 4.1 hours, while gas supply disruptions among pipeline-using factories quadrupled to 3.2 hours.",
+          "Real manufacturing output fell 0.4 percent below the 2025 average quarterly level, with 94 percent of factories reporting higher raw material costs.",
+          "The BIDS-BCI survey revealed slipping capacity utilisation, rising energy costs, and sharply falling investment in machinery."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বাংলাদেশ ইনস্টিটিউট অব ডেভেলপমেন্ট স্টাডিজ (বিআইডিএস) ও বাংলাদেশ চেম্বার অব ইন্ডাস্ট্রিজ (বিসিআই) ১৪টি উৎপাদন খাতের ১৩০টি মাঝারি ও বড় কারখানায় সমীক্ষাটি পরিচালনা করে। এসব খাত মাঝারি ও বড় শিল্পের মোট উৎপাদনের প্রায় ৯০ শতাংশ ধারণ করে। বিআইডিএসের গবেষণাপরিচালক কাজী ইকবাল আগারগাঁওয়ে সংস্থাটির কার্যালয়ে সমীক্ষার ফলাফল প্রকাশ করেন। অনুষ্ঠানে সভাপতিত্ব করেন বিআইডিএসের মহাপরিচালক এ কে এনামুল হক। এ সময় পরিকল্পনা প্রতিমন্ত্রী জোনায়েদ আব্দুর রহিম সাকি এবং বিসিআই সভাপতি আনোয়ার-উল আলম চৌধুরী উপস্থিত ছিলেন।",
+        "details_en": "The Bangladesh Institute of Development Studies and Bangladesh Chamber of Industries surveyed 130 medium and large factories across 14 sectors, representing about 90 percent of output. BIDS Research Director Kazi Iqbal presented the findings at BIDS in Agargaon. The event was chaired by BIDS Director General AK Enamul Haque, with State Minister for Planning Zonayed Abdur Rahim Saki and BCI President Anwar-ul Alam Chowdhury present.",
+        "hook_bn": "দৈনিক ৪.১ ঘণ্টা বিদ্যুৎ বিভ্রাটে শিল্প উৎপাদন স্থবির",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "আপনার এলাকার কারখানাগুলোতে কি গ্যাস ও বিদ্যুতের সংকট উৎপাদনে প্রভাব ফেলছে?"
+      },
+      "desk_importance": 8.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T12:03:30.696397+00:00"
+      }
+    },
+    {
+      "story_id": "c78d9c5e-afa8-51a1-956c-3700102b174d",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "climate_environment",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Dengue",
+        "#Bangladesh",
+        "#Health"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2025/10/07/dengue.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-24T10:50:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.5,
+      "rank_score": 5.2529,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/health/dengue-claims-4-more-lives-24hrs-toll-hits-524-1612616",
+          "title": "Dengue claims 4 more lives in 24hrs, toll hits 524",
+          "snippet": "Dengue claims 4 more lives in 24hrs, toll hits 524"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/health/425633/dengue-claims-4-more-lives-1-145-hospitalized-in",
+          "title": "Dengue claims 4 more lives, 1,145 hospitalized in 24hrs",
+          "snippet": "Dengue claims 4 more lives, 1,145 hospitalized in 24hrs"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1183213",
+          "title": "ডেঙ্গুতে আরও ৮ জনের মৃত্যু, নতুন ভর্তি ১১৪৫",
+          "snippet": "ডেঙ্গুতে আরও ৮ জনের মৃত্যু, নতুন ভর্তি ১১৪৫"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/weather/982973/%E0%A6%B6%E0%A7%80%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%87%E0%A6%87-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A7%9F%E0%A7%81%E0%A6%A6%E0%A7%82%E0%A6%B7%E0%A6%A3-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%9B%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A7%8D%E0%A6%AF%E0%A6%9D%E0%A7%81%E0%A6%81%E0%A6%95%E0%A6%BF",
+          "title": "শীতের শুরুতেই বাড়ছে বায়ুদূষণ, বাড়ছে স্বাস্থ্যঝুঁকি",
+          "snippet": "শীতের শুরুতেই বাড়ছে বায়ুদূষণ, বাড়ছে স্বাস্থ্যঝুঁকি"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ডেঙ্গুতে আরও চারজনের মৃত্যু এবং ১,১৪৫ জন নতুন রোগী হাসপাতালে ভর্তি।",
+        "title_en": "Dengue claims four more lives and 1,145 new patients are hospitalized.",
+        "summary_bn": "স্বাস্থ্য অধিদপ্তর জানিয়েছে, ২৪ নভেম্বর পর্যন্ত ডেঙ্গুতে চলতি বছরে মোট মৃত্যুর সংখ্যা বেড়ে ৫২৪ জনে দাঁড়িয়েছে।",
+        "summary_en": "The health directorate reports that this year's total dengue death toll has reached 524 up to November 24.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "climate_environment",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T10:50:00+00:00",
+        "lead_bn": "স্বাস্থ্য অধিদপ্তর জানিয়েছে, ২৪ নভেম্বর পর্যন্ত ডেঙ্গুতে চলতি বছরে মোট মৃত্যুর সংখ্যা বেড়ে ৫২৪ জনে দাঁড়িয়েছে।",
+        "lead_en": "The health directorate reports that this year's total dengue death toll has reached 524 up to November 24.",
+        "bullets_bn": [
+          "২৪ নভেম্বর সকাল আটটার আগের ২৪ ঘণ্টায় সারাদেশে ১,১৪৫ জন ডেঙ্গু রোগী হাসপাতালে ভর্তি হয়েছেন।",
+          "মৃত চারজনের মধ্যে তিনজন ঢাকা বিভাগের এবং একজন ময়মনসিংহ বিভাগের বাসিন্দা ছিলেন।",
+          "একই সময়ে ১,২০৯ জন ডেঙ্গু রোগী হাসপাতাল থেকে ছাড়পত্র পেয়েছেন এবং বর্তমানে ৪,৮৬১ জন চিকিৎসাধীন আছেন।"
+        ],
+        "bullets_en": [
+          "A total of 1,145 dengue patients were admitted to hospitals across the country in the 24 hours preceding 8am on November 24.",
+          "Three of the deceased were from Dhaka Division and one was from Mymensingh Division.",
+          "During the same period, 1,209 dengue patients were discharged from hospitals and 4,861 are currently receiving treatment."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, ২৪ নভেম্বর পর্যন্ত চলতি বছরে ডেঙ্গুতে আক্রান্ত হয়ে মোট ১৭৫,৯৮৫ জন রোগী হাসপাতালে ভর্তি হয়েছেন এবং ১৭০,৬০_০ জন সুস্থ হয়ে বাড়ি ফিরেছেন।",
+        "details_en": "According to DGHS data, the cumulative number of dengue cases reached 175,985 and 170,600 patients recovered this year up to November 24.",
+        "hook_bn": "ডেঙ্গুতে আরও চারজনের মৃত্যু, মোট toll ৫২৪",
+        "kicker_bn": "সতর্কতা",
         "share_value": true,
-        "question_bn": "এসএমই বোর্ডে বিনিয়োগের এই নতুন সীমা পুঁজিবাজারে কেমন প্রভাব ফেলবে বলে আপনি মনে করেন?"
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 4,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T12:03:30.696397+00:00"
+      }
+    },
+    {
+      "story_id": "0bff4779-eef2-5a79-9fa7-db8f6b49fda4",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#ManusherJonnoFoundation",
+        "#GenderBasedViolence",
+        "#Dhaka"
+      ],
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Event_MJF_24Nov26.jpeg",
+      "image_caption": null,
+      "published_at": "2026-11-24T11:00:16+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.25,
+      "rank_score": 2.5995,
+      "sources": [
+        {
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/bangladesh/rights/news/misinterpretation-religious-teachings-being-used-discriminate-against-women-speakers-say-national-4332061",
+          "title": "Misinterpretation of religious teachings being used to discriminate against women, speakers say at national dialogue",
+          "snippet": "Misinterpretation of religious teachings being used to discriminate against women, speakers say at national di"
+        },
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/a0tpxyy26q",
+          "title": "নির্যাতনের শিকার নারীদের আইনের দ্বারস্থ হতে হবে, এগিয়ে আসতে হবে পুরুষদেরও",
+          "snippet": "নির্যাতনের শিকার নারীদের আইনের দ্বারস্থ হতে হবে, এগিয়ে আসতে হবে পুরুষদেরও"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ধর্মে কুসংস্কার ছড়িয়ে নারীর প্রতি বৈষম্যের অভিযোগ বক্তাদের",
+        "title_en": "Misinterpretation of religion used for discrimination, speakers say",
+        "summary_bn": "ঢাকার একটি জাতীয় সংলাপে বক্তারা বলেছেন, ধর্মীয় শিক্ষার বিকৃত ব্যাখ্যা ও উগ্রবাদ নারীর প্রতি বৈষম্য তৈরিতে ব্যবহার করা হচ্ছে।",
+        "summary_en": "Speakers at a national dialogue in Dhaka said distorted religious interpretations were being used to justify discrimination against women.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T11:00:16+00:00",
+        "lead_bn": "ঢাকার একটি জাতীয় সংলাপে বক্তারা বলেছেন, ধর্মীয় শিক্ষার বিকৃত ব্যাখ্যা ও উগ্রবাদ নারীর প্রতি বৈষম্য তৈরিতে ব্যবহার করা হচ্ছে।",
+        "lead_en": "Speakers at a national dialogue in Dhaka said distorted religious interpretations were being used to justify discrimination against women.",
+        "bullets_bn": [
+          "অনুষ্ঠানটি বাংলাদেশ মিলিটারী মিউজিয়াম সেমিনার হলে মানুষের জন্য ফাউন্ডেশন কর্তৃক আয়োজিত হয়।",
+          "আইনজীবী সারওয়াত সিরাজ শুক্লা তদন্তের ত্রুটি ও ফরেনসিক সুবিধা বাড়ানোর ওপর জোর দেন।",
+          "ড. সেলিম জাহান বলেন, সমাজ ও পুরুষের দৃষ্টিভঙ্গি না বদলালে শুধু আইনি সংস্কারে ফল আসবে না।"
+        ],
+        "bullets_en": [
+          "The event was organised by Manusher Jonno Foundation at the Bangladesh Military Museum seminar hall.",
+          "Lawyer Sarwat Siraj Shukla called for better training, stronger forensic facilities and wider DNA testing.",
+          "Dr Selim Jahan said legal reforms alone could not end violence without changes in social values."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মানুষের জন্য ফাউন্ডেশনের নির্বাহী পরিচালক শাহীন আনাম জানান, তিন দশকের প্রচেষ্টাতেও সহিংসতা রোধে সামান্য অগ্রগতি হয়েছে। মূলপ্রবন্ধ উপস্থাপনকালে বানশ্রী মিত্র নিয়োগী জানান, বেঁচে যাওয়া নারীদের আইনি, চিকিৎসা ও মানসিক সহায়তা প্রয়োজন। এছাড়া ড. তসনিম জারা হেল্পলাইন ও ওয়ান-স্টপ ক্রিসিস সেন্টারের পর্যাপ্ত সম্পদ নিয়ে প্রশ্ন তোলেন।",
+        "details_en": "Shaheen Anam of MJF said three decades of efforts brought little progress in preventing violence. Banasree Mitra Neogi presented the keynote paper, while Dr Tasneem Jara questioned if helplines had adequate resources.",
+        "hook_bn": "ধর্মের ভুল ব্যাখ্যা দিয়ে নারীর প্রতি বৈষম্য",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": "নারীর সুরক্ষায় বিদ্যমান আইনি প্রক্রিয়া ও সহায়তা আরও কার্যকর করতে কী করা উচিত বলে আপনি মনে করেন?"
       },
       "desk_importance": 5.0,
       "outlet_count": 2,
@@ -312,7 +322,83 @@
       "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-24T11:04:58.368358+00:00"
+        "checked_at": "2026-11-24T12:03:30.696397+00:00"
+      }
+    },
+    {
+      "story_id": "2936bf6a-ce09-5887-8206-ff2426bc0f09",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#Vietnam",
+        "#Hanoi",
+        "#Explosion"
+      ],
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "image_caption": null,
+      "published_at": "2026-11-24T11:24:51+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4143,
+      "sources": [
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/vietnam-blast-six-killed-dozens-injured-in-a-hot-pot-eatery-blast-in-hanoi/article71738306.ece",
+          "title": "Vietnam Blast: Six killed, dozens injured in a hot pot eatery blast in Hanoi",
+          "snippet": "Vietnam Blast: Six killed, dozens injured in a hot pot eatery blast in Hanoi"
+        },
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/24/vietnam-restaurant-blast-kills-at-least-six?traffic_source=rss",
+          "title": "Vietnam restaurant blast kills at least six",
+          "snippet": "Vietnam restaurant blast kills at least six"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "হ্যানয়তে হটপট রেস্তোরাঁয় বিস্ফোরণে ছয়জন নিহত",
+        "title_en": "Six killed in hot pot eatery blast in Hanoi",
+        "summary_bn": "ভিয়েতনামের রাজধানী হ্যানয়ের একটি হটপট রেস্তোরাঁয় ২৪ নভেম্বর ২০২৬ তারিখে বিস্ফোরণে ছয়জন নিহত এবং ডজনখানেক মানুষ আহত হয়েছেন।",
+        "summary_en": "An explosion at a hot pot eatery in Vietnam's capital on November 24, 2026, killed six people and injured dozens.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T11:24:51+00:00",
+        "lead_bn": "ভিয়েতনামের রাজধানী হ্যানয়ের একটি হটপট রেস্তোরাঁয় ২৪ নভেম্বর ২০২৬ তারিখে বিস্ফোরণে ছয়জন নিহত এবং ডজনখানেক মানুষ আহত হয়েছেন।",
+        "lead_en": "An explosion at a hot pot eatery in Vietnam's capital on November 24, 2026, killed six people and injured dozens.",
+        "bullets_bn": [
+          "প্রাথমিক অনুসন্ধানে জানা গেছে যে গ্যাস লিকেজের কারণে এই বিস্ফোরণ ঘটে।",
+          "আহত চৌদ্দ জনের বেশি মানুষকে হাসপাতালে ভর্তি করা হয়েছে, যার মধ্যে একজনের মাথার খুলিতে গুরুতর আঘাত রয়েছে।",
+          "উদ্ধারকর্মীরা বেঁচে থাকা ব্যক্তিদের খুঁজতে এবং ধ্বংসস্তূপের নিচে আটকে থাকা মানুষদের উদ্ধারে যন্ত্রপাতি ব্যবহার করছেন।"
+        ],
+        "bullets_en": [
+          "Preliminary findings pointed to a gas explosion as the cause of the incident.",
+          "More than 14 people have been hospitalised, including one with a traumatic brain injury.",
+          "Rescuers are using detection equipment and machinery to search for survivors trapped under the rubble."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "হ্যানয়তে হটপট রেস্তোরাঁয় বিস্ফোরণে নিহত ছয়",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T12:03:30.696397+00:00"
       }
     }
   ]
