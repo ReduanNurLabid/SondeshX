@@ -1,5 +1,406 @@
 {
-  "updated_at": "2026-11-24T06:00:44.694630",
-  "total_stories": 0,
-  "stories": []
+  "updated_at": "2026-11-24T07:00:47.822855",
+  "total_stories": 6,
+  "stories": [
+    {
+      "story_id": "d1f3bcd1-e240-5265-a86e-a6b1bc2e61f0",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#HSIA",
+        "#SumitomoCorporation",
+        "#BimanBangladeshAirlines",
+        "#CAAB"
+      ],
+      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_d5d7a87460464aafc907326e2bbbdb76.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-24T07:01:04.337438+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 4.3446,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/hsia-third-terminal-flight-opening-gets-cabinet-approval",
+          "title": "HSIA third-terminal flight opening gets cabinet approval",
+          "snippet": "HSIA third-terminal flight opening gets cabinet approval"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দরের তৃতীয় টার্মিনালের ফ্লাইট পরিচালনার অনুমোদন মিলেছে।",
+        "title_en": "HSIA third-terminal flight opening gets cabinet approval.",
+        "summary_bn": "হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দরের তৃতীয় টার্মিনাল পরিচালনার জন্য জাপানি অপারেটরের সঙ্গে কনসেশন চুক্তি অনুমোদন করেছে সরকারি মন্ত্রিসভা কমিটি।",
+        "summary_en": "The government approved the concessionaire agreement to operate the third terminal of Hazrat Shahjalal International Airport with a Japanese operator.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T07:01:04.337438+00:00",
+        "lead_bn": "হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দরের তৃতীয় টার্মিনাল পরিচালনার জন্য জাপানি অপারেটরের সঙ্গে কনসেশন চুক্তি অনুমোদন করেছে সরকারি মন্ত্রিসভা কমিটি।",
+        "lead_en": "The government approved the concessionaire agreement to operate the third terminal of Hazrat Shahjalal International Airport with a Japanese operator.",
+        "bullets_bn": [
+          "সুমিতোমো কর্পোরেশন-নেতৃত্বাধীন জাপানি কনসোর্টিয়াম পরবর্তী ১৫ বছরের জন্য টার্মিনাল ৩ পরিচালনা ও রক্ষণাবেক্ষণ করবে।",
+          "বেসামরিক বিমান পরিবহন ও পর্যটন মন্ত্রী এম রাশিদুজ্জামান মিল্লাত আগামী ৩০ নভেম্বরের মধ্যে চুক্তি স্বাক্ষরের সিদ্ধান্ত ঘোষণা করেছেন।",
+          "১৬ ডিসেম্বর বিজয় দিবসে টার্মিনালটির সফট ওপেনিংয়ের ঘোষণা দেওয়া হয়েছে এবং প্রথম দিন বিমান বাংলাদেশ এয়ারলাইন্স ফ্লাইট পরিচালনা করবে।"
+        ],
+        "bullets_en": [
+          "A Sumitomo Corporation-led Japanese consortium will operate and maintain Terminal-3 for the next 15 years.",
+          "Civil Aviation and Tourism Minister M Rashiduzzaman Millat announced a decision to sign the agreement by November 30.",
+          "The soft opening is announced for December 16, marking Victory Day, with Biman Bangladesh Airlines operating inaugural flights on the first day."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "অর্থমন্ত্রী আমীর খসরু মাহমুদ চৌধুরীর সভাপতিত্বে অর্থনৈতিক বিষয়সংক্রান্ত মন্ত্রিসভা কমিটির সভায় এই চুক্তি অনুমোদিত হয়। চুক্তি স্বাক্ষরের ১৫ দিনের মধ্যে টার্মিনালটি জাপানি পক্ষের কাছে হস্তান্তর করার কথা রয়েছে। তবে জাপানি অংশীদারের মাধ্যমে টার্মিনালের অপারেশনাল কার্যক্রম শুরু হবে টার্মিনাল হস্তান্তরের আট মাস পর, ২৫ শতাংশ ফ্লাইট পরিচালনার মাধ্যমে।",
+        "details_en": "The deal was endorsed in a meeting of the Cabinet Committee on Economic Affairs with Finance Minister Amir Khosru Mahmud Chowdhury in the chair. The agreement must be signed 15 days before the inauguration, meeting a condition to hand over the terminal to the consortium within 15 days thereafter. Operational commencement with the Japanese partner will take place eight months after the handover with 25-percent flight operation.",
+        "hook_bn": "ডিসেম্বরে চালু হচ্ছে তৃতীয় টার্মিনাল",
+        "kicker_bn": "নতুন তারিখ",
+        "share_value": true,
+        "question_bn": "নতুন এই টার্মিনাল চালুর ফলে যাত্রীদের সেবার মান কতটা উন্নত হবে বলে আপনার মনে হয়?"
+      },
+      "fact_check": {
+        "status": "unchecked",
+        "checked_at": "2026-11-24T07:04:19.577297+00:00"
+      }
+    },
+    {
+      "story_id": "f9292b93-9c45-5cff-8d00-9357d1a5470f",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1627317764899-eb00cfc40ac2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8c2hlaWtoJTIwaGFzaW5hJTIwcmV0dXJuJTIwYW5ub3VuY2VtZW50JTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1NTAzODQyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-24T06:59:23+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 4.3375,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/national/982898/%E0%A6%AD%E0%A6%BE%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%B8-%E0%A6%B6%E0%A7%87%E0%A6%96-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A6%B2%E0%A7%87%E0%A6%A8%E0%A6%A8%E0%A6%BF-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%B9%E0%A7%9F%E0%A7%87",
+          "title": "ভাগ্যিস শেখ হাসিনা বলেননি, তিনি প্রধানমন্ত্রী হয়ে ফিরতে চান: তথ্য উপদেষ্টা",
+          "snippet": "ভাগ্যিস শেখ হাসিনা বলেননি, তিনি প্রধানমন্ত্রী হয়ে ফিরতে চান: তথ্য উপদেষ্টা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "শেখ হাসিনার দেশে ফেরার ঘোষণা রাজনৈতিক ব্লাফ: তথ্য উপদেষ্টা",
+        "title_en": "Sheikh Hasina return announcement is a political bluff: Information Advisor",
+        "summary_bn": "প্রধানমন্ত্রীর তথ্য উপদেষ্টা ডা. জাহেদ উর রহমান বলেছেন, আগামী ১৬ ডিসেম্বর দেশে ফেরার বিষয়ে শেখ হাসিনার ঘোষণা রাজনৈতিক ব্লাফ বা প্রতারণা ছাড়া কিছুই নয়।",
+        "summary_en": "Prime Minister's Information Advisor Dr. Zahed Ur Rahman said Sheikh Hasina's announcement to return to the country on December 16 is nothing but a political bluff.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T06:59:23+00:00",
+        "lead_bn": "প্রধানমন্ত্রীর তথ্য উপদেষ্টা ডা. জাহেদ উর রহমান বলেছেন, আগামী ১৬ ডিসেম্বর দেশে ফেরার বিষয়ে শেখ হাসিনার ঘোষণা রাজনৈতিক ব্লাফ বা প্রতারণা ছাড়া কিছুই নয়।",
+        "lead_en": "Prime Minister's Information Advisor Dr. Zahed Ur Rahman said Sheikh Hasina's announcement to return to the country on December 16 is nothing but a political bluff.",
+        "bullets_bn": [
+          "ডা. জাহেদ উর রহমান সচিবালয়ে এক সংবাদ সম্মেলনে এই মন্তব্য করেন।",
+          "তিনি জানান, শেখ হাসিনা বাংলাদেশে আসবেন কি না, সেই আলোচনা ভারতের সঙ্গে হবে।",
+          "তিনি আরও বলেন, কোনও অপরাধীর সঙ্গে আলোচনা হবে না।"
+        ],
+        "bullets_en": [
+          "Dr. Zahed Ur Rahman made this remark at a press conference at the secretariat.",
+          "He stated that discussions about whether Sheikh Hasina will come to Bangladesh will take place with India.",
+          "He also said that no discussions will be held with any criminal."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "রাজনৈতিক ব্লাফ ছাড়া কিছুই নয়",
+        "kicker_bn": "বক্তব্য",
+        "share_value": false,
+        "question_bn": null
+      },
+      "fact_check": {
+        "status": "unchecked",
+        "checked_at": "2026-11-24T07:04:19.577297+00:00"
+      }
+    },
+    {
+      "story_id": "fbade4d2-969d-5620-86d4-782c2348cc99",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/lawyer-20261124124651.jpg?cid=500446",
+      "image_caption": null,
+      "published_at": "2026-11-24T06:46:51+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 4.2855,
+      "sources": [
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/national/500446",
+          "title": "সাঈদ খোকনের আইনজীবীকে হেনস্তা, অনুচিত বললেন প্রধানমন্ত্রীর উপদেষ্টা",
+          "snippet": "সাঈদ খোকনের আইনজীবীকে হেনস্তা, অনুচিত বললেন প্রধানমন্ত্রীর উপদেষ্টা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সাঈদ খোকনের আইনজীবীকে আদালত চত্বরে হেনস্তা অনুচিত বললেন উপদেষ্টা",
+        "title_en": "Adviser calls harassment of Sayed Khokon lawyer at court inappropriate",
+        "summary_bn": "প্রধানমন্ত্রীর তথ্য ও সম্প্রচারবিষয়ক উপদেষ্টা ডা. জাহেদ উর রহমান আদালত চত্বরে সাবেক মেয়র সাঈদ খোকনের আইনজীবীকে হেনস্তার ঘটনাকে অনুচিত ও অন্যায় বলে মন্তব্য করেছেন।",
+        "summary_en": "Prime Minister Info and Broadcasting Adviser Dr. Zahed Ur Rahman termed the harassment of former mayor Sayed Khokon's lawyer inappropriate.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T06:46:51+00:00",
+        "lead_bn": "প্রধানমন্ত্রীর তথ্য ও সম্প্রচারবিষয়ক উপদেষ্টা ডা. জাহেদ উর রহমান আদালত চত্বরে সাবেক মেয়র সাঈদ খোকনের আইনজীবীকে হেনস্তার ঘটনাকে অনুচিত ও অন্যায় বলে মন্তব্য করেছেন।",
+        "lead_en": "Prime Minister Info and Broadcasting Adviser Dr. Zahed Ur Rahman termed the harassment of former mayor Sayed Khokon's lawyer inappropriate.",
+        "bullets_bn": [
+          "ডা. জাহেদ উর রহমান সচিবালয়ে সরকারের কর্মকাণ্ড তুলে ধরতে আয়োজিত নিয়মিত সংবাদ সম্মেলনে এ মন্তব্য করেন।",
+          "সংক্ষুব্ধ ব্যক্তি চাইলে বিচারালয়ে আইনি সহায়তা নিতে পারেন বলে জানান প্রধানমন্ত্রীর উপদেষ্টা।",
+          "এ ধরনের ঘটনার বিচার আদালতের মাধ্যমে হবে বলে আশা প্রকাশ করেন তিনি।"
+        ],
+        "bullets_en": [
+          "Dr. Zahed Ur Rahman made the remarks at a regular press briefing at the secretariat highlighting government activities.",
+          "The Prime Minister's adviser stated that aggrieved persons can seek legal assistance through the judiciary.",
+          "He expressed hope that such incidents will be decided through the courts."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "সাবেক মেয়র সাঈদ খোকন আটক হওয়ার পর আদালত চত্বরে তার আইনজীবীকে হেনস্তার ঘটনা ঘটে এবং দেশে মব সংস্কৃতি এখনো দৃশ্যমান রয়েছে। এই বিষয়ে (২৪ ডিসেম্বর) এক প্রশ্নের জবাবে উপদেষ্টা জাহেদ উর রহমান তার মন্তব্য প্রকাশ করেন। তিনি বলেন যে কেউ অন্যায়ের শিকার হলে সংক্ষুব্ধ ব্যক্তি আইনি সহায়তা নিতে পারেন এবং তিনি যেহেতু আইনজীবী, তিনি এ ব্যাপারে আইনি সহায়তা নিতে পারেন।",
+        "details_en": "Following the detention of former mayor Sayed Khokon, his lawyer was harassed at the court premises while mob culture remains visible in the country. Adviser Zahed Ur Rahman expressed his views in response to a question on Tuesday (24 December). He stated that anyone aggrieved by injustice can seek legal assistance, and since the victim is a lawyer, he can take legal help.",
+        "hook_bn": "আইনজীবীকে হেনস্তা খুবই অনুচিত ও অন্যায়",
+        "kicker_bn": "সভাসদ",
+        "share_value": false,
+        "question_bn": "আদালত চত্বরে এ ধরনের আইনজীবী হেনস্তার ঘটনার বিচার কীভাবে হওয়া উচিত বলে আপনি মনে করেন?"
+      },
+      "fact_check": {
+        "status": "unchecked",
+        "checked_at": "2026-11-24T07:04:19.577297+00:00"
+      }
+    },
+    {
+      "story_id": "806313e5-7dd7-5bfa-85e7-a5affd2890e8",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/pm-2.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-24T05:39:33+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 4.0166,
+      "sources": [
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/national/post-1224955/",
+          "title": "তিন বাহিনীর সামরিক মহড়া দেখতে স্বর্ণদ্বীপের পথে প্রধানমন্ত্রী",
+          "snippet": "তিন বাহিনীর সামরিক মহড়া দেখতে স্বর্ণদ্বীপের পথে প্রধানমন্ত্রী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "প্রধানমন্ত্রী স্বর্ণদ্বীপে তিন বাহিনীর সামরিক মহড়া পরিদর্শনে গেছেন",
+        "title_en": "Prime Minister visits Swarnadwip to inspect tri-services military exercise",
+        "summary_bn": "প্রধানমন্ত্রী তিন বাহিনীর সামরিক মহড়া দেখতে ২৪ নভেম্বর সকালে তেজগাঁও বিমানবন্দর থেকে স্বর্ণদ্বীপের উদ্দেশে রওনা হয়েছেন।",
+        "summary_en": "Prime Minister left Tejgaon airport on the morning of 24 November for Swarnadwip to observe the tri-services military exercise.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T05:39:33+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তিন বাহিনীর সামরিক মহড়া দেখতে ২৪ নভেম্বর সকালে তেজগাঁও বিমানবন্দর থেকে স্বর্ণদ্বীপের উদ্দেশে রওনা হয়েছেন।",
+        "lead_en": "Prime Minister left Tejgaon airport on the morning of 24 November for Swarnadwip to observe the tri-services military exercise.",
+        "bullets_bn": [
+          "স্বর্ণদ্বীপে যৌথ অনুশীলন মহড়া পরিদর্শন করবেন প্রধানমন্ত্রী এবং দেশীয় প্রযুক্তিতে উদ্ভাবিত সামরিক সরঞ্জামের প্রদর্শনী পর্যবেক্ষণ করবেন।",
+          "মহড়ায় অংশ নিচ্ছে বাংলাদেশ সেনাবাহিনীর প্যারা কমান্ডো ব্রিগেড, সোয়াডস এবং ৫০১ এয়ার রেজিমেন্ট।",
+          "মহড়া পরিদর্শন শেষে বিকেলে প্রধানমন্ত্রী ঢাকায় ফিরে আসবেন বলে জানিয়েছেন অতিরিক্ত প্রেস সচিব আতিকুর রহমান রুমন।"
+        ],
+        "bullets_en": [
+          "Prime Minister will inspect the joint exercise at Swarnadwip and observe the exhibition of locally produced military equipment.",
+          "Bangladesh Armypara commando brigade, SWADS and 501 Air Regiment are participating in the exercise.",
+          "Additional Press Secretary Atikul Rahman Rumon stated that the Prime Minister will return to Dhaka in the afternoon after inspecting the exercise."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "নোয়াখালীর দক্ষিণে বঙ্গোপসাগরে প্রাকৃতিকভাবে জেগে ওঠা স্বর্ণদ্বীপ স্থানীয়ভাবে জাহাইজ্জার চর নামে পরিচিত। ২০১৩ সাল থেকে দ্বীপটিতে বাংলাদেশ সেনাবাহিনী প্রশিক্ষণ মহড়া ও বিভিন্ন উন্নয়ন কার্যক্রম পরিচালনা করে আসছে। তিন বাহিনীর এই যৌথ মহড়ার মাধ্যমে সশস্ত্র বাহিনীর সামরিক সক্ষমতা, পেশাদারিত্ব, আন্তঃবাহিনী সমন্বয় এবং সমন্বিত যুদ্ধপ্রস্তুতির বিষয়গুলো তুলে ধরা হবে।",
+        "details_en": "Swarnadwip, a naturally emerged island in the Bay of Bengal south of Noakhali, is locally known as Jahaijjar Char. Since 2013, the Bangladesh Army has been conducting training exercises and various development activities on the island. This joint exercise of the three forces will showcase the military capability, professionalism, inter-service coordination, and integrated combat preparedness of the armed forces.",
+        "hook_bn": "স্বর্ণদ্বীপে তিন বাহিনীর সামরিক মহড়া",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "fact_check": {
+        "status": "unchecked",
+        "checked_at": "2026-11-24T07:04:19.577297+00:00"
+      }
+    },
+    {
+      "story_id": "40bdef14-c4b0-5f8d-858a-8a5effaeda3d",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#Zaporizhzhia",
+        "#Ukraine",
+        "#Russia",
+        "#Sumy"
+      ],
+      "image_url": "https://th-i.thgim.com/public/incoming/l8w7ub/article71737253.ece/alternates/LANDSCAPE_1200/2026-11-23T131608Z_1706480473_RC2MTOAGIBNC_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA.JPG",
+      "image_caption": null,
+      "published_at": "2026-11-24T05:10:51+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.12,
+      "rank_score": 0.4031,
+      "sources": [
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/russian-attack-kills-two-people-wounds-22-in-ukraines-zaporizhzhia-official-says/article71737237.ece",
+          "title": "Russian attack kills two people, wounds 22 in Ukraine's Zaporizhzhia, official says",
+          "snippet": "Russian attack kills two people, wounds 22 in Ukraine's Zaporizhzhia, official says"
+        },
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+          "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+          "snippet": "What strike on Russian ship in Libya says about spread of Ukraine war"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইউক্রেনের জাপোরিজ্জিয়ায় রুশ হামলায় দুই জন নিহত এবং ২২ জন আহত হয়েছেন।",
+        "title_en": "Russian attack kills two people and wounds 22 in Ukraine's Zaporizhzhia.",
+        "summary_bn": "ইউক্রেনের জাপোরিজ্জিয়ায় রাশিয়ার এক হামলায় দুই শিশুসহ দুই জন নিহত এবং ২২ জন আহত হয়েছেন বলে একজন কর্মকর্তা জানিয়েছেন।",
+        "summary_en": "A Russian attack killed two people and injured 22 more, including two children, in Ukraine's Zaporizhzhia, an official said.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T05:10:51+00:00",
+        "lead_bn": "ইউক্রেনের জাপোরিজ্জিয়ায় রাশিয়ার এক হামলায় দুই শিশুসহ দুই জন নিহত এবং ২২ জন আহত হয়েছেন বলে একজন কর্মকর্তা জানিয়েছেন।",
+        "lead_en": "A Russian attack killed two people and injured 22 more, including two children, in Ukraine's Zaporizhzhia, an official said.",
+        "bullets_bn": [
+          "জাপোরিজ্জিয়া আঞ্চলিক প্রতিরক্ষা কাউন্সিলের সহ-প্রধান ইভান ফেডোরভ টেলিগ্রামে এই তথ্য জানান।",
+          "আহত ব্যক্তিদের মধ্যে দুই শিশুও রয়েছে বলে জানানো হয়েছে।",
+          "রাশিয়ার হামলায় ক্ষতিগ্রস্ত অ্যাপার্টমেন্ট ভবনের ছবি টেলিগ্রাম অ্যাকাউন্টে প্রকাশ করা হয়েছে।"
+        ],
+        "bullets_en": [
+          "Ivan Fedorov, co-head of the Zaporizhzhia Regional Defense Council, shared the information on Telegram.",
+          "The injured people include two children, according to the official statement.",
+          "Pictures of a damaged apartment building were shown on his Telegram account."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "আঞ্চলিক গভর্নর মাইখাইলো সেমিকিন জানান যে রাশিয়ার হামলার পর ধ্বংসস্তূপের নিচে মানুষ আটকে থাকতে পারে। এই হামলায় অ্যাপার্টমেন্ট, বেসরকারি ভবন, পরিবহন অবকাঠামো এবং গাড়ি ক্ষতিগ্রস্ত হয়েছে। এর বাইরে রাশিয়ার প্রতিরক্ষা মন্ত্রণালয়ের বরাত দিয়ে ইন্টারফ্যাক্স বার্তা সংস্থা জানায় যে রুশ সামরিক বাহিনী ইউক্রেনের সুমি অঞ্চলে ড্রোন নিয়ন্ত্রণ কেন্দ্র, স্টারলিংক স্যাটেলাইট টার্মিনাল এবং অন্যান্য সামরিক সম্পদ লক্ষ্য করে হামলা চালিয়ে সেনাসদস্যদের হত্যা করেছে।",
+        "details_en": "Earlier, regional Governor Mykhailo Semikin stated that people might be trapped under rubble after Russia struck the city, damaging apartments, private buildings, transport infrastructure and cars. Meanwhile, Russia's Interfax news agency quoted the country's Defence Ministry stating that the Russian military hit drone control sites, Starlink satellite terminals and other military assets in Ukraine's Sumy region, killing servicemen.",
+        "hook_bn": "জাপোরিজ্জিয়ায় রুশ হামলায় নিহত দুই",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "fact_check": {
+        "status": "unchecked",
+        "checked_at": "2026-11-24T07:04:19.577297+00:00"
+      }
+    },
+    {
+      "story_id": "ffb4c87c-f0c9-5f68-b8cb-65b5ec0b1534",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#Shenzhou24",
+        "#Tiangong",
+        "#MuhammadZeeshanAli",
+        "#ChinaMannedSpaceAgency"
+      ],
+      "image_url": "https://th-i.thgim.com/public/incoming/2ixinz/article71737177.ece/alternates/LANDSCAPE_1200/2026-11-24T040214Z_1286380670_RC23UOAB1PY8_RTRMADP_3_SPACE-EXPLORATION-CHINA-SHENZHOU.JPG",
+      "image_caption": null,
+      "published_at": "2026-11-24T04:22:29+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.12,
+      "rank_score": 0.3848,
+      "sources": [
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/sci-tech/science/chinas-shenzhou-24-spaceship-to-include-first-foreign-astronaut-from-pakistan/article71737165.ece",
+          "title": "China's Shenzhou-24 spaceship to include first foreign astronaut from Pakistan",
+          "snippet": "China's Shenzhou-24 spaceship to include first foreign astronaut from Pakistan"
+        },
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/weapons-war-and-wavering-trust-germans-want-to-see-more-restraint-in-foreign-policy/a-80026254?maca=en-rss-en-all-1573-rdf",
+          "title": "Weapons, war and wavering trust: Germans want to see more restraint in foreign policy",
+          "snippet": "Weapons, war and wavering trust: Germans want to see more restraint in foreign policy"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পাকিস্তানের প্রথম মহাকাশচারী যাচ্ছেন চীনের শেনঝৌ-২৪ মহাকাশযানে।",
+        "title_en": "China's Shenzhou-24 spaceship to include first foreign astronaut from Pakistan.",
+        "summary_bn": "চীন আগামী ২৫ নভেম্বর শেনঝৌ-২৪ মহাকাশযান উৎক্ষেপণ করবে, যাতে পাকিস্তানের মুহাম্মদ জেসান আলীসহ তিন সদস্যের দল থাকবে।",
+        "summary_en": "China will launch its Shenzhou-24 spaceship on November 25 with a crew including Pakistani payload specialist Muhammad Zeeshan Ali.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T04:22:29+00:00",
+        "lead_bn": "চীন আগামী ২৫ নভেম্বর শেনঝৌ-২৪ মহাকাশযান উৎক্ষেপণ করবে, যাতে পাকিস্তানের মুহাম্মদ জেসান আলীসহ তিন সদস্যের দল থাকবে।",
+        "lead_en": "China will launch its Shenzhou-24 spaceship on November 25 with a crew including Pakistani payload specialist Muhammad Zeeshan Ali.",
+        "bullets_bn": [
+          "পাকিস্তানই প্রথম দেশ যার মহাকাশচারী চীনের মহাকাশ স্টেশনে প্রবেশ করছেন।",
+          "মিশনের কমান্ডার টাং হংবো এবং ফ্লাইট ইঞ্জিনিয়ার উ ই এই মহাকাশযানের অন্য দুই সদস্য।",
+          "বেইজিংয়ের বেল্ট অ্যান্ড রোড ইনিশিয়েটিভের দ্বিপক্ষীয় সহযোগিতার অংশ হিসেবে এই মিশন পরিচালিত হচ্ছে।"
+        ],
+        "bullets_en": [
+          "Pakistan will be the first foreign nation to have an astronaut board China's space station.",
+          "The flight crew consists of commander Tang Hongbo, flight engineer Wu Yi and Zeeshan Ali.",
+          "The participation is part of bilateral cooperation under Beijing's Belt and Road Initiative."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "চীন মহাকাশ স্টেশনে ২০২১ সাল থেকে ছয় মাসের জন্য নিয়মিত মহাকাশচারী পাঠাচ্ছে। জেসান আলী শেনঝৌ-২৪ মহাকাশযানে একটি সংক্ষিপ্ত সফর শেষ করে দুই জন বহির্গামী শেনঝৌ-২৩ ক্রুর সাথে ফিরে আসবেন। শেনঝৌ-২৩ ক্রুর ঝু ইয়াংঝু এক বছরব্যাপী মিশনে মহাকাশে অবস্থান করবেন বলে কর্তৃপক্ষ জানিয়েছে।",
+        "details_en": "China has sent trios of Chinese astronauts to the Tiangong station for six-month stays since 2021. Ali is scheduled for a short-term visit before returning with two of the outgoing Shenzhou-23 crew. Zhu Yangzhu from the Shenzhou-23 crew will stay in space for a year-long mission.",
+        "hook_bn": "চীনের মহাকাশযানে যাচ্ছেন পাকিস্তানি মহাকাশচারী",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "fact_check": {
+        "status": "unchecked",
+        "checked_at": "2026-11-24T07:04:19.577297+00:00"
+      }
+    }
+  ]
 }
