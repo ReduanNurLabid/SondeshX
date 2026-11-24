@@ -1,368 +1,235 @@
 {
-  "updated_at": "2026-11-24T12:00:45.251288",
+  "updated_at": "2026-11-24T13:01:00.898053",
   "total_stories": 5,
   "stories": [
     {
-      "story_id": "dbccb98f-8d88-53b2-92c6-35d5a015877e",
+      "story_id": "a50525af-3c79-5285-8af0-5ef8517fca6f",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#MinimumWage",
-        "#RMGWorkers",
-        "#WageBoard"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/21/wage_board_chairman.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-24T10:50:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 8.5,
-      "rank_score": 6.7471,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/economy/rmg/rmg-owners-propose-tk15700-minimum-wage-workers-want-tk22000-1612626",
-          "title": "RMG owners propose Tk15,700 as min wage, workers want Tk22,000",
-          "snippet": "RMG owners propose Tk15,700 as min wage, workers want Tk22,000"
-        },
-        {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/news/owners-propose-tk-15700-minimum-rmg-wage-4332071",
-          "title": "Owners propose Tk 15,700 as minimum RMG wage",
-          "snippet": "Owners propose Tk 15,700 as minimum RMG wage"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/garment-workers-minimum-wage-talks-continue/",
-          "title": "ন্যূনতম মজুরি নিয়ে শ্রমিক-মালিক সমঝোতা হয়নি, চলবে আলোচনা",
-          "snippet": "ন্যূনতম মজুরি নিয়ে শ্রমিক-মালিক সমঝোতা হয়নি, চলবে আলোচনা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পোশাক শ্রমিকদের ন্যূনতম মজুরি ১৫,৭০‌০ টাকা প্রস্তাব মালিকদের",
-        "title_en": "RMG owners propose Tk 15,700 as minimum wage",
-        "summary_bn": "পোশাক খাতের মালিকেরা ন্যূনতম মাসিক মজুরি ১৫,৭০০ টাকা প্রস্তাব করেছেন এবং শ্রমিকপক্ষ দাবি করছে ২২,০০০ টাকা।",
-        "summary_en": "Ready-made garment owners proposed a minimum monthly wage of Tk 15,700, while workers demanded Tk 22,000.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-24T10:50:00+00:00",
-        "lead_bn": "পোশাক খাতের মালিকেরা ন্যূনতম মাসিক মজুরি ১৫,৭০০ টাকা প্রস্তাব করেছেন এবং শ্রমিকপক্ষ দাবি করছে ২২,০০০ টাকা।",
-        "lead_en": "Ready-made garment owners proposed a minimum monthly wage of Tk 15,700, while workers demanded Tk 22,000.",
-        "bullets_bn": [
-          "উভয় পক্ষের প্রস্তাবের মধ্যে ৬,৩০০ টাকার ব্যবধান রয়েছে বলে জানিয়েছেন নিম্নতম মজুরি বোর্ডের চেয়ারম্যান সৈয়দ আজাদ সুবহানী।",
-          "আলোচনার সময় শ্রমিকপক্ষ তাদের দাবি ৩২,০০০ টাকা থেকে কমিয়ে ২২,০০০ টাকায় নামিয়ে এনেছে।",
-          "উভয় পক্ষের তৃতীয় দফার সংশোধিত প্রস্তাব পর্যালোচনার মাধ্যমে আলোচনা চলবে।"
-        ],
-        "bullets_en": [
-          "Minimum Wage Board Chairman Syed Azad Subhani said there is a Tk 6,300 gap between the proposals.",
-          "During negotiations, the workers' side reduced its demand from Tk 32,000 to Tk 22,000.",
-          "Discussions will continue as both sides prepare to submit their third round of revised proposals."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "গত কয়েক সপ্তাহ ধরে তৈরি পোশাকশিল্পের শ্রমিকেরা মাসিক বেতন উল্লেখযোগ্য হারে বাড়ানোর দাবিতে আন্দোলন করে আসছেন। ২৪ নভেম্বর মজুরি বোর্ডের বৈঠকে এই প্রস্তাবগুলো দেওয়া হয় এবং দিন শেষে চূড়ান্ত সিদ্ধান্তে পৌঁছানোর আশা প্রকাশ করা হয়।",
-        "details_en": "Ready-made garment workers have been protesting for the past few weeks demanding a significant raise in monthly salaries. These proposals were presented during a wage board meeting on 24 November, with hopes of reaching a final decision by the end of the day.",
-        "hook_bn": "মালিকদের প্রস্তাব ১৫ হাজার ৭০০ টাকা",
-        "kicker_bn": "নতুন মজুরি",
-        "share_value": false,
-        "question_bn": "পোশাক শ্রমিকদের এই মজুরি নিয়ে আপনার মতামত কী?"
-      },
-      "desk_importance": 8.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 9.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-24T12:03:30.696397+00:00"
-      }
-    },
-    {
-      "story_id": "757f215e-5801-5893-b5f5-b949cd721c2e",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#BIDS",
-        "#BCI",
-        "#BangladeshEconomy",
-        "#Manufacturing"
-      ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/AMR_1424%20%28131%29.JPG",
-      "image_caption": null,
-      "published_at": "2026-11-24T11:44:33+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 8.25,
-      "rank_score": 6.6987,
-      "sources": [
-        {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/news/manufacturing-output-stagnates-power-disruptions-double-bids-bci-survey-4332121",
-          "title": "Manufacturing output stagnates as power disruptions double: BIDS-BCI survey",
-          "snippet": "Manufacturing output stagnates as power disruptions double: BIDS-BCI survey"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/economy/energy/power-gas-shortages-stall-industrial-production-output-declines-04-1612476",
-          "title": "Power, gas shortages stall industrial production as output declines 0.4%",
-          "snippet": "Power, gas shortages stall industrial production as output declines 0.4%"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বিদ্যুৎ ও গ্যাস সংকটে বাংলাদেশের উৎপাদন খাতের প্রবৃদ্ধি থমকে গেছে, বলছে সমীক্ষা",
-        "title_en": "Power and gas disruptions stall Bangladesh manufacturing output growth, survey shows",
-        "summary_bn": "বিদ্যুৎ ও গ্যাস সরবরাহে তীব্র বিঘ্নের কারণে ২০২৬ সালের এপ্রিল-জুন প্রান্তিকে মাঝারি ও বড় উৎপাদন শিল্পে কোনো প্রবৃদ্ধি হয়নি বলে সমীক্ষায় উঠে এসেছে।",
-        "summary_en": "Real output in medium and large manufacturing industries recorded no growth in the April-June quarter of 2026 due to severe energy disruptions, according to a survey.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-24T11:44:33+00:00",
-        "lead_bn": "বিদ্যুৎ ও গ্যাস সরবরাহে তীব্র বিঘ্নের কারণে ২০২৬ সালের এপ্রিল-জুন প্রান্তিকে মাঝারি ও বড় উৎপাদন শিল্পে কোনো প্রবৃদ্ধি হয়নি বলে সমীক্ষায় উঠে এসেছে।",
-        "lead_en": "Real output in medium and large manufacturing industries recorded no growth in the April-June quarter of 2026 due to severe energy disruptions, according to a survey.",
-        "bullets_bn": [
-          "দৈনিক গ্রিড বিদ্যুৎ বিভ্রাট দ্বিগুণ হয়ে ৪.১ ঘণ্টা এবং পাইপলাইনের গ্যাস বিভ্রাট প্রায় চারগুণ বেড়ে ৩.২ ঘণ্টা হয়েছে।",
-          "প্রকৃত উৎপাদন ২০২৫ সালের গড় প্রান্তিক স্তরের চেয়ে ০.৪ শতাংশ কমেছে এবং ৯৪ শতাংশ কারখানা কাঁচামালের বাড়তি খরচের কথা জানিয়েছে।",
-          "বিআইডিএস-বিসিআই সমীক্ষায় দেখা গেছে, কারখানার উৎপাদন সক্ষমতার ব্যবহার কমছে, জ্বালানি খরচ বাড়ছে এবং যন্ত্রপাতিতে বিনিয়োগ আশঙ্কাজনকভাবে হ্রাস পাচ্ছে।"
-        ],
-        "bullets_en": [
-          "Daily grid electricity disruptions doubled to 4.1 hours, while gas supply disruptions among pipeline-using factories quadrupled to 3.2 hours.",
-          "Real manufacturing output fell 0.4 percent below the 2025 average quarterly level, with 94 percent of factories reporting higher raw material costs.",
-          "The BIDS-BCI survey revealed slipping capacity utilisation, rising energy costs, and sharply falling investment in machinery."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বাংলাদেশ ইনস্টিটিউট অব ডেভেলপমেন্ট স্টাডিজ (বিআইডিএস) ও বাংলাদেশ চেম্বার অব ইন্ডাস্ট্রিজ (বিসিআই) ১৪টি উৎপাদন খাতের ১৩০টি মাঝারি ও বড় কারখানায় সমীক্ষাটি পরিচালনা করে। এসব খাত মাঝারি ও বড় শিল্পের মোট উৎপাদনের প্রায় ৯০ শতাংশ ধারণ করে। বিআইডিএসের গবেষণাপরিচালক কাজী ইকবাল আগারগাঁওয়ে সংস্থাটির কার্যালয়ে সমীক্ষার ফলাফল প্রকাশ করেন। অনুষ্ঠানে সভাপতিত্ব করেন বিআইডিএসের মহাপরিচালক এ কে এনামুল হক। এ সময় পরিকল্পনা প্রতিমন্ত্রী জোনায়েদ আব্দুর রহিম সাকি এবং বিসিআই সভাপতি আনোয়ার-উল আলম চৌধুরী উপস্থিত ছিলেন।",
-        "details_en": "The Bangladesh Institute of Development Studies and Bangladesh Chamber of Industries surveyed 130 medium and large factories across 14 sectors, representing about 90 percent of output. BIDS Research Director Kazi Iqbal presented the findings at BIDS in Agargaon. The event was chaired by BIDS Director General AK Enamul Haque, with State Minister for Planning Zonayed Abdur Rahim Saki and BCI President Anwar-ul Alam Chowdhury present.",
-        "hook_bn": "দৈনিক ৪.১ ঘণ্টা বিদ্যুৎ বিভ্রাটে শিল্প উৎপাদন স্থবির",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": "আপনার এলাকার কারখানাগুলোতে কি গ্যাস ও বিদ্যুতের সংকট উৎপাদনে প্রভাব ফেলছে?"
-      },
-      "desk_importance": 8.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-24T12:03:30.696397+00:00"
-      }
-    },
-    {
-      "story_id": "c78d9c5e-afa8-51a1-956c-3700102b174d",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "climate_environment",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Dengue",
-        "#Bangladesh",
-        "#Health"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2025/10/07/dengue.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-24T10:50:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 5.2529,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/health/dengue-claims-4-more-lives-24hrs-toll-hits-524-1612616",
-          "title": "Dengue claims 4 more lives in 24hrs, toll hits 524",
-          "snippet": "Dengue claims 4 more lives in 24hrs, toll hits 524"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/health/425633/dengue-claims-4-more-lives-1-145-hospitalized-in",
-          "title": "Dengue claims 4 more lives, 1,145 hospitalized in 24hrs",
-          "snippet": "Dengue claims 4 more lives, 1,145 hospitalized in 24hrs"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1183213",
-          "title": "ডেঙ্গুতে আরও ৮ জনের মৃত্যু, নতুন ভর্তি ১১৪৫",
-          "snippet": "ডেঙ্গুতে আরও ৮ জনের মৃত্যু, নতুন ভর্তি ১১৪৫"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/weather/982973/%E0%A6%B6%E0%A7%80%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%87%E0%A6%87-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A7%9F%E0%A7%81%E0%A6%A6%E0%A7%82%E0%A6%B7%E0%A6%A3-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%9B%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A7%8D%E0%A6%AF%E0%A6%9D%E0%A7%81%E0%A6%81%E0%A6%95%E0%A6%BF",
-          "title": "শীতের শুরুতেই বাড়ছে বায়ুদূষণ, বাড়ছে স্বাস্থ্যঝুঁকি",
-          "snippet": "শীতের শুরুতেই বাড়ছে বায়ুদূষণ, বাড়ছে স্বাস্থ্যঝুঁকি"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ডেঙ্গুতে আরও চারজনের মৃত্যু এবং ১,১৪৫ জন নতুন রোগী হাসপাতালে ভর্তি।",
-        "title_en": "Dengue claims four more lives and 1,145 new patients are hospitalized.",
-        "summary_bn": "স্বাস্থ্য অধিদপ্তর জানিয়েছে, ২৪ নভেম্বর পর্যন্ত ডেঙ্গুতে চলতি বছরে মোট মৃত্যুর সংখ্যা বেড়ে ৫২৪ জনে দাঁড়িয়েছে।",
-        "summary_en": "The health directorate reports that this year's total dengue death toll has reached 524 up to November 24.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "climate_environment",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-24T10:50:00+00:00",
-        "lead_bn": "স্বাস্থ্য অধিদপ্তর জানিয়েছে, ২৪ নভেম্বর পর্যন্ত ডেঙ্গুতে চলতি বছরে মোট মৃত্যুর সংখ্যা বেড়ে ৫২৪ জনে দাঁড়িয়েছে।",
-        "lead_en": "The health directorate reports that this year's total dengue death toll has reached 524 up to November 24.",
-        "bullets_bn": [
-          "২৪ নভেম্বর সকাল আটটার আগের ২৪ ঘণ্টায় সারাদেশে ১,১৪৫ জন ডেঙ্গু রোগী হাসপাতালে ভর্তি হয়েছেন।",
-          "মৃত চারজনের মধ্যে তিনজন ঢাকা বিভাগের এবং একজন ময়মনসিংহ বিভাগের বাসিন্দা ছিলেন।",
-          "একই সময়ে ১,২০৯ জন ডেঙ্গু রোগী হাসপাতাল থেকে ছাড়পত্র পেয়েছেন এবং বর্তমানে ৪,৮৬১ জন চিকিৎসাধীন আছেন।"
-        ],
-        "bullets_en": [
-          "A total of 1,145 dengue patients were admitted to hospitals across the country in the 24 hours preceding 8am on November 24.",
-          "Three of the deceased were from Dhaka Division and one was from Mymensingh Division.",
-          "During the same period, 1,209 dengue patients were discharged from hospitals and 4,861 are currently receiving treatment."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, ২৪ নভেম্বর পর্যন্ত চলতি বছরে ডেঙ্গুতে আক্রান্ত হয়ে মোট ১৭৫,৯৮৫ জন রোগী হাসপাতালে ভর্তি হয়েছেন এবং ১৭০,৬০_০ জন সুস্থ হয়ে বাড়ি ফিরেছেন।",
-        "details_en": "According to DGHS data, the cumulative number of dengue cases reached 175,985 and 170,600 patients recovered this year up to November 24.",
-        "hook_bn": "ডেঙ্গুতে আরও চারজনের মৃত্যু, মোট toll ৫২৪",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 4,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-24T12:03:30.696397+00:00"
-      }
-    },
-    {
-      "story_id": "0bff4779-eef2-5a79-9fa7-db8f6b49fda4",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#ManusherJonnoFoundation",
-        "#GenderBasedViolence",
-        "#Dhaka"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Event_MJF_24Nov26.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-24%2F5vw1yx3v%2Fbusiness.jpg?rect=0%2C41%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-24T11:00:16+00:00",
+      "published_at": "2026-11-24T12:42:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.5995,
+      "importance_score": 4.8,
+      "rank_score": 2.2587,
       "sources": [
         {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/bangladesh/rights/news/misinterpretation-religious-teachings-being-used-discriminate-against-women-speakers-say-national-4332061",
-          "title": "Misinterpretation of religious teachings being used to discriminate against women, speakers say at national dialogue",
-          "snippet": "Misinterpretation of religious teachings being used to discriminate against women, speakers say at national di"
-        },
-        {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/a0tpxyy26q",
-          "title": "নির্যাতনের শিকার নারীদের আইনের দ্বারস্থ হতে হবে, এগিয়ে আসতে হবে পুরুষদেরও",
-          "snippet": "নির্যাতনের শিকার নারীদের আইনের দ্বারস্থ হতে হবে, এগিয়ে আসতে হবে পুরুষদেরও"
+          "url": "https://www.prothomalo.com/business/q2em5a4eoi",
+          "title": "শ্রমিক ও মালিকপক্ষ আজ আবার সংশোধিত প্রস্তাব দেবে, মজুরি বোর্ডের বৈঠক চলছে",
+          "snippet": "শ্রমিক ও মালিকপক্ষ আজ আবার সংশোধিত প্রস্তাব দেবে, মজুরি বোর্ডের বৈঠক চলছে"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ধর্মে কুসংস্কার ছড়িয়ে নারীর প্রতি বৈষম্যের অভিযোগ বক্তাদের",
-        "title_en": "Misinterpretation of religion used for discrimination, speakers say",
-        "summary_bn": "ঢাকার একটি জাতীয় সংলাপে বক্তারা বলেছেন, ধর্মীয় শিক্ষার বিকৃত ব্যাখ্যা ও উগ্রবাদ নারীর প্রতি বৈষম্য তৈরিতে ব্যবহার করা হচ্ছে।",
-        "summary_en": "Speakers at a national dialogue in Dhaka said distorted religious interpretations were being used to justify discrimination against women.",
+        "title_bn": "মজুরি বোর্ডের বৈঠকে শ্রমিক ও মালিকপক্ষ সংশোধিত প্রস্তাব দেবে",
+        "title_en": "Workers and employers will submit revised proposals at the minimum wage board meeting",
+        "summary_bn": "নিম্নতম মজুরি বোর্ডে শ্রমিক ও মালিকপক্ষের বৈঠক চলছে এবং পক্ষগুলো তাদের সংশোধিত প্রস্তাব জমা দেবে।",
+        "summary_en": "A meeting of the minimum wage board is underway where workers and employers will submit their revised proposals.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
+          "economy_business",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-24T11:00:16+00:00",
-        "lead_bn": "ঢাকার একটি জাতীয় সংলাপে বক্তারা বলেছেন, ধর্মীয় শিক্ষার বিকৃত ব্যাখ্যা ও উগ্রবাদ নারীর প্রতি বৈষম্য তৈরিতে ব্যবহার করা হচ্ছে।",
-        "lead_en": "Speakers at a national dialogue in Dhaka said distorted religious interpretations were being used to justify discrimination against women.",
+        "published_at": "2026-11-24T12:42:00+00:00",
+        "lead_bn": "নিম্নতম মজুরি বোর্ডে শ্রমিক ও মালিকপক্ষের বৈঠক চলছে এবং পক্ষগুলো তাদের সংশোধিত প্রস্তাব জমা দেবে।",
+        "lead_en": "A meeting of the minimum wage board is underway where workers and employers will submit their revised proposals.",
         "bullets_bn": [
-          "অনুষ্ঠানটি বাংলাদেশ মিলিটারী মিউজিয়াম সেমিনার হলে মানুষের জন্য ফাউন্ডেশন কর্তৃক আয়োজিত হয়।",
-          "আইনজীবী সারওয়াত সিরাজ শুক্লা তদন্তের ত্রুটি ও ফরেনসিক সুবিধা বাড়ানোর ওপর জোর দেন।",
-          "ড. সেলিম জাহান বলেন, সমাজ ও পুরুষের দৃষ্টিভঙ্গি না বদলালে শুধু আইনি সংস্কারে ফল আসবে না।"
+          "বোর্ডের চেয়ারম্যান সৈয়দ আজাদ সুবহানি জানিয়েছেন যে এ বৈঠকেই শেষ পর্যন্ত সমঝোতা হয়ে যেতে পারে।",
+          "মালিকপক্ষ প্রাথমিকভাবে ১৫ হাজার টাকা প্রস্তাব করার পর শ্রমিকপক্ষ ২৫ হাজার টাকা দাবি করে।",
+          "সব শেষে মালিকপক্ষ ১৫ হাজার ৭০০ টাকা প্রস্তাব করেছে।"
         ],
         "bullets_en": [
-          "The event was organised by Manusher Jonno Foundation at the Bangladesh Military Museum seminar hall.",
-          "Lawyer Sarwat Siraj Shukla called for better training, stronger forensic facilities and wider DNA testing.",
-          "Dr Selim Jahan said legal reforms alone could not end violence without changes in social values."
+          "Board chairman Syed Azad Sobhani stated that a compromise on wages could finally be reached at this meeting.",
+          "After employers initially proposed 15,000 taka, the workers' side demanded 25,000 taka.",
+          "Finally, the employers' side proposed 15,700 taka."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "মানুষের জন্য ফাউন্ডেশনের নির্বাহী পরিচালক শাহীন আনাম জানান, তিন দশকের প্রচেষ্টাতেও সহিংসতা রোধে সামান্য অগ্রগতি হয়েছে। মূলপ্রবন্ধ উপস্থাপনকালে বানশ্রী মিত্র নিয়োগী জানান, বেঁচে যাওয়া নারীদের আইনি, চিকিৎসা ও মানসিক সহায়তা প্রয়োজন। এছাড়া ড. তসনিম জারা হেল্পলাইন ও ওয়ান-স্টপ ক্রিসিস সেন্টারের পর্যাপ্ত সম্পদ নিয়ে প্রশ্ন তোলেন।",
-        "details_en": "Shaheen Anam of MJF said three decades of efforts brought little progress in preventing violence. Banasree Mitra Neogi presented the keynote paper, while Dr Tasneem Jara questioned if helplines had adequate resources.",
-        "hook_bn": "ধর্মের ভুল ব্যাখ্যা দিয়ে নারীর প্রতি বৈষম্য",
-        "kicker_bn": "সতর্কতা",
+        "details_bn": "নব্বই দশকের শুরুতে তৈরি পোশাকশিল্পের শ্রমিকের নিম্নতম মজুরি ছিল ৬২৭ টাকা। ১৯৯৪ সালে সেই মজুরি বেড়ে ৯৩০ টাকা হয়। এরপর প্রায় ত্রিশ বছরে পোশাকশ্রমিকদের মজুরি বেড়েছে ১১ হাজার ৫০০ টাকা এবং সর্বশেষ ২০২৩ সালে মজুরি বেড়ে সাড়ে ১২ হাজার টাকা হয়।",
+        "details_en": "At the beginning of the 1990s, the minimum wage for garment workers was 627 taka, which increased to 930 taka in 1994. Over nearly thirty years, the minimum wage increased by 11,570 taka, and was last increased to 12,500 taka in 2023.",
+        "hook_bn": "শ্রমিক ও মালিকপক্ষের মজুরি সমঝোতার বৈঠক চলছে",
+        "kicker_bn": "মজুরি বোর্ড",
         "share_value": false,
-        "question_bn": "নারীর সুরক্ষায় বিদ্যমান আইনি প্রক্রিয়া ও সহায়তা আরও কার্যকর করতে কী করা উচিত বলে আপনি মনে করেন?"
+        "question_bn": "তৈরি পোশাকশিল্পের শ্রমিকদের নিম্নতম মজুরি কত হওয়া উচিত বলে আপনি মনে করেন?"
       },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-24T12:03:30.696397+00:00"
+        "checked_at": "2026-11-24T13:03:57.364052+00:00"
       }
     },
     {
-      "story_id": "2936bf6a-ce09-5887-8206-ff2426bc0f09",
+      "story_id": "2bab8485-9a79-5794-9ce0-934f17832fe2",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-24%2F91lq605s%2FsrB.jpg?rect=0%2C113%2C1426%2C749&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-24T12:35:57+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 2.2456,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/crime/t0crsv4km6",
+          "title": "আতঙ্ক ছড়াতে অস্ত্র নিয়ে মহড়ার ভিডিও, পিস্তল-অস্ত্রসহ ‘মশিউর গ্রুপ’-এর ছয় সদস্য গ্রেপ্তার",
+          "snippet": "আতঙ্ক ছড়াতে অস্ত্র নিয়ে মহড়ার ভিডিও, পিস্তল-অস্ত্রসহ ‘মশিউর গ্রুপ’-এর ছয় সদস্য গ্রেপ্তার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মিরপুর ও পল্লবীতে অস্ত্রসহ মশিউর গ্রুপের ছয় সদস্য গ্রেপ্তার",
+        "title_en": "Six members of Mashiur group arrested with weapons in Mirpur and Pallabi",
+        "summary_bn": "স্পেশাল রেসপন্স ব্যাটালিয়ন-৪ মিরপুর ও পল্লবী এলাকায় অভিযান চালিয়ে বিদেশি পিস্তল ও দেশীয় অস্ত্রসহ মশিউর গ্রুপের ছয় সদস্যকে গ্রেপ্তার করেছে।",
+        "summary_en": "Special Response Battalion-4 arrested six members of Mashiur group with a foreign pistol and local weapons in Mirpur and Pallabi.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T12:35:57+00:00",
+        "lead_bn": "স্পেশাল রেসপন্স ব্যাটালিয়ন-৪ মিরপুর ও পল্লবী এলাকায় অভিযান চালিয়ে বিদেশি পিস্তল ও দেশীয় অস্ত্রসহ মশিউর গ্রুপের ছয় সদস্যকে গ্রেপ্তার করেছে।",
+        "lead_en": "Special Response Battalion-4 arrested six members of Mashiur group with a foreign pistol and local weapons in Mirpur and Pallabi.",
+        "bullets_bn": [
+          "অভিযানে শেখ ওসমান গনি সোহাগের কাছ থেকে একটি বিদেশি পিস্তল, একটি ম্যাগাজিন, পাঁচটি গুলি ও দেশীয় অস্ত্র উদ্ধার করা হয়।",
+          "এসআরবি-৪ ব্যাটালিয়নের অধিনায়ক লেফটেন্যান্ট কর্নেল মো. হাফিজুর রহমান কারওয়ান বাজারের এসআরবি মিডিয়া সেন্টারে এক সংবাদ সম্মেলনে এ তথ্য জানান।",
+          "রূপনগরের শিয়ালবাড়ি কবরস্থানের আশপাশে অভিযান চালিয়ে ডাকাতির প্রস্তুতির সময় পাঁচজনকে স্থানীয় লোকজনের সহায়তায় গ্রেপ্তার করা হয়।"
+        ],
+        "bullets_en": [
+          "A foreign pistol, a magazine, five bullets and local weapons were recovered from Sheikh Osman Goni Sohag during the raid.",
+          "SRB-4 battalion captain Lieutenant Colonel Md. Hafizur Rahman shared this information in a press conference at the SRB media centre in Karwan Bazar.",
+          "Five people were arrested with the help of locals near Shialbari graveyard in Rupnagar while preparing for a robbery during a raid."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মশিউর গ্রুপের সদস্যরা ফোর স্টার গ্রুপের অধীনে দেশীয় অস্ত্র নিয়ে মহড়া দিয়ে ভিডিও ছড়িয়ে আতঙ্ক সৃষ্টি করতেন। আধিপত্য বিস্তার ছাড়াও চুরি, ডাকাতি, ছিনতাই ও চাঁদাবাজির মতো অপরাধে জড়িত থাকার অভিযোগ রয়েছে তাঁদের বিরুদ্ধে। সোহাগের দেওয়া তথ्यानुसार এসব অস্ত্র খুন, চাঁদাবাজি ও ভয়ভীতি প্রদর্শনের মতো অপরাধে ব্যবহৃত হতো এবং পেশাদার অপরাধীদের কাছে ভাড়ায় সরবরাহ করা হতো। গ্রেপ্তার ব্যক্তিদের মধ্যে সোহাগের বিরুদ্ধে পাঁচটি এবং রনি ব্যাপারীর বিরুদ্ধে চারটি মামলা রয়েছে।",
+        "details_en": "Members of Mashiur group under Four Star group used to create panic by parading with local weapons and spreading videos. They faced allegations of involvement in supremacy struggles, theft, robbery, extortion and mugging. According to information given by Sohag, these weapons were used in crimes like murder, extortion and intimidation, and were rented out to professional criminals. Among the arrestees, Sohag faces five cases and Roni Bepari faces four cases.",
+        "hook_bn": "মিরপুর ও পল্লবীতে অস্ত্রসহ ছয় সদস্য গ্রেপ্তার",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T13:03:57.364052+00:00"
+      }
+    },
+    {
+      "story_id": "8af01e72-d52d-586b-b288-3aca03c5c92f",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#DhakaCourt",
+        "#AbulHasan",
+        "#BNPMokbulMurder",
+        "#CTTC"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/09/18/jailed_representational_image.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-24T12:15:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 2.2008,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/court/cttc-adc-sent-jail-bnp-activist-mokbul-murder-case-1612741",
+          "title": "CTTC ADC sent to jail in BNP activist Mokbul murder case",
+          "snippet": "CTTC ADC sent to jail in BNP activist Mokbul murder case"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মকবুল হত্যা মামলায় কারাগারে সিটিটিসির এডিসি আবুল হাসান",
+        "title_en": "Dhaka court sends CTTC ADC Abul Hasan to jail in Mokbul murder case",
+        "summary_bn": "বিএনপি কর্মী মকবুল হত্যা এবং দলটির কেন্দ্রীয় কার্যালয়ে হামলার মামলায় সিটিটিসির অতিরিক্ত উপ-পুলিশ কমিশনার মোহাম্মদ আবুল হাসানকে কারাগারে পাঠিয়েছে ঢাকার একটি আদালত।",
+        "summary_en": "A Dhaka court has sent CTTC Additional Deputy Commissioner Mohammad Abul Hasan to jail in a case over the murder of BNP activist Mokbul Hossain.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T12:15:00+00:00",
+        "lead_bn": "বিএনপি কর্মী মকবুল হত্যা এবং দলটির কেন্দ্রীয় কার্যালয়ে হামলার মামলায় সিটিটিসির অতিরিক্ত উপ-পুলিশ কমিশনার মোহাম্মদ আবুল হাসানকে কারাগারে পাঠিয়েছে ঢাকার একটি আদালত।",
+        "lead_en": "A Dhaka court has sent CTTC Additional Deputy Commissioner Mohammad Abul Hasan to jail in a case over the murder of BNP activist Mokbul Hossain.",
+        "bullets_bn": [
+          "২৩ নভেম্বর ময়মনসিংহে র‍্যাব-১১ কার্যালয় থেকে আবুল হাসানকে গ্রেপ্তার করে গোয়েন্দা পুলিশ।",
+          "তদন্ত কর্মকর্তা আদালতে জানান, আবুল হাসান তৎকালীন সরকারকে রাজনৈতিক প্রতিপক্ষ দমনে সহায়তা করেছিলেন।",
+          "তদন্ত কর্মকর্তা জানান, তাকে জেলগেটে জিজ্ঞাসাবাদ করা প্রয়োজন এবং প্রয়োজনে পরে রিমান্ডে নেওয়া হতে পারে।"
+        ],
+        "bullets_en": [
+          "Detective Branch arrested Abul Hasan from the RAB-11 office in Mymensingh on 23 November.",
+          "Investigators told the court that Hasan helped the then government suppress political opponents and gave information about the killing.",
+          "The investigation officer stated that questioning Hasan at the jail gate is essential and he may be remanded if necessary."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মামলাটি বিএনপির কেন্দ্রীয় কার্যালয়ে হামলা এবং দলটির কর্মী মকবুল হোসেন নিহতের ঘটনার। মামলার বিবরণ অনুযায়ী, সরকারের পদত্যাগের এক দফা দাবিতে ১০ ডিসেম্বর ২০২২ সালে কর্মসূচি ঘোষণা করেছিল বিএনপি। মামলাটি বর্তমানে ঢাকা মহানগর গোয়েন্দা পুলিশের মতিঝিল বিভাগ তদন্ত করছে।",
+        "details_en": "The case stems from an attack on the BNP central office and the killing of party activist Mokbul Hossain. According to the case statement, the BNP announced a programme on 10 December 2022 demanding the government's resignation under a one-point demand. The case is being investigated by the Detective Branch's Motijheel division.",
+        "hook_bn": "মকবুল হত্যা মামলায় কারাগারে এডিসি আবুল হাসান",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T13:03:57.364052+00:00"
+      }
+    },
+    {
+      "story_id": "752b7cef-c59e-5b06-b3f6-aae72f5f1efa",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
         "governance_law"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#Vietnam",
-        "#Hanoi",
-        "#Explosion"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "image_url": "https://media.channelionline.com/2026/11/Untitled1-21.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-11-24T11:24:51+00:00",
+      "published_at": "2026-11-24T12:01:22+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.4143,
+      "importance_score": 4.8,
+      "rank_score": 2.1721,
       "sources": [
         {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/vietnam-blast-six-killed-dozens-injured-in-a-hot-pot-eatery-blast-in-hanoi/article71738306.ece",
-          "title": "Vietnam Blast: Six killed, dozens injured in a hot pot eatery blast in Hanoi",
-          "snippet": "Vietnam Blast: Six killed, dozens injured in a hot pot eatery blast in Hanoi"
-        },
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/24/vietnam-restaurant-blast-kills-at-least-six?traffic_source=rss",
-          "title": "Vietnam restaurant blast kills at least six",
-          "snippet": "Vietnam restaurant blast kills at least six"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/malaysia-sending-6000-rohingya-back-myanmar/",
+          "title": "৬ হাজারের বেশি রোহিঙ্গাকে মিয়ানমারে ফেরত পাঠাচ্ছে মালয়েশিয়া",
+          "snippet": "৬ হাজারের বেশি রোহিঙ্গাকে মিয়ানমারে ফেরত পাঠাচ্ছে মালয়েশিয়া"
         }
       ],
       "daily_buzz": {
-        "title_bn": "হ্যানয়তে হটপট রেস্তোরাঁয় বিস্ফোরণে ছয়জন নিহত",
-        "title_en": "Six killed in hot pot eatery blast in Hanoi",
-        "summary_bn": "ভিয়েতনামের রাজধানী হ্যানয়ের একটি হটপট রেস্তোরাঁয় ২৪ নভেম্বর ২০২৬ তারিখে বিস্ফোরণে ছয়জন নিহত এবং ডজনখানেক মানুষ আহত হয়েছেন।",
-        "summary_en": "An explosion at a hot pot eatery in Vietnam's capital on November 24, 2026, killed six people and injured dozens.",
+        "title_bn": "মালয়েশিয়া ৬ হাজার ৮০০ এর বেশি রোহিঙ্গাকে মিয়ানমারে ফেরত পাঠাবে",
+        "title_en": "Malaysia will send back over 6,800 Rohingya to Myanmar",
+        "summary_bn": "মালয়েশিয়া ৬ হাজার ৮০০ জনের বেশি রোহিঙ্গা শরণার্থীকে মিয়ানমারে ফেরত পাঠানোর সিদ্ধান্ত নিয়েছে, যা আগামী ডিসেম্বর মাসে দুই ধাপে কার্যকর হবে।",
+        "summary_en": "Malaysia decided to send back over 6,800 Rohingya refugees to Myanmar in two phases next December.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -370,35 +237,109 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-24T11:24:51+00:00",
-        "lead_bn": "ভিয়েতনামের রাজধানী হ্যানয়ের একটি হটপট রেস্তোরাঁয় ২৪ নভেম্বর ২০২৬ তারিখে বিস্ফোরণে ছয়জন নিহত এবং ডজনখানেক মানুষ আহত হয়েছেন।",
-        "lead_en": "An explosion at a hot pot eatery in Vietnam's capital on November 24, 2026, killed six people and injured dozens.",
+        "published_at": "2026-11-24T12:01:22+00:00",
+        "lead_bn": "মালয়েশিয়া ৬ হাজার ৮০০ জনের বেশি রোহিঙ্গা শরণার্থীকে মিয়ানমারে ফেরত পাঠানোর সিদ্ধান্ত নিয়েছে, যা আগামী ডিসেম্বর মাসে দুই ধাপে কার্যকর হবে।",
+        "lead_en": "Malaysia decided to send back over 6,800 Rohingya refugees to Myanmar in two phases next December.",
         "bullets_bn": [
-          "প্রাথমিক অনুসন্ধানে জানা গেছে যে গ্যাস লিকেজের কারণে এই বিস্ফোরণ ঘটে।",
-          "আহত চৌদ্দ জনের বেশি মানুষকে হাসপাতালে ভর্তি করা হয়েছে, যার মধ্যে একজনের মাথার খুলিতে গুরুতর আঘাত রয়েছে।",
-          "উদ্ধারকর্মীরা বেঁচে থাকা ব্যক্তিদের খুঁজতে এবং ধ্বংসস্তূপের নিচে আটকে থাকা মানুষদের উদ্ধারে যন্ত্রপাতি ব্যবহার করছেন।"
+          "প্রধানমন্ত্রী আনোয়ার ইব্রাহিম ২৪ নভেম্বর পার্লামেন্টে এই তথ্য জানান।",
+          "আগামী ৬ ও ৭ ডিসেম্বর নৌবাহিনীর তিনটি জাহাজে ১ হাজার ৫০০ নাগরিককে ফেরত পাঠানো হবে।",
+          "ডিসেম্বরে আরও ৫ হাজার ৩০৩ জনকে উড়োজাহাজে ফিরিয়ে নেওয়া হবে এবং এর ব্যয় বহন করবে মিয়ানমার সরকার।"
         ],
         "bullets_en": [
-          "Preliminary findings pointed to a gas explosion as the cause of the incident.",
-          "More than 14 people have been hospitalised, including one with a traumatic brain injury.",
-          "Rescuers are using detection equipment and machinery to search for survivors trapped under the rubble."
+          "Prime Minister Anwar Ibrahim announced this in parliament on 24 November.",
+          "On 6 and 7 December, 1,500 citizens will be sent back in three navy ships.",
+          "Another 5,303 will be returned by airplane in December, with costs borne by the Myanmar government."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মালয়েশিয়ার দাবি, শরণার্থীদের আশ্রয় দেওয়া দেশটির জন্য আর্থিক বোঝা ও নিরাপত্তাঝুঁকি তৈরি করছে। এর আগে সেপ্টেম্বরের শেষ দিকে প্রায় দেড় হাজার অভিবাসীকে যুদ্ধবিধ্বস্ত মিয়ানমারে ফেরত পাঠানো হয়েছিল। ইউএনএইচসিআরের তথ্য অনুযায়ী, গত আগস্ট পর্যন্ত মালয়েশিয়ায় নিবন্ধিত শরণার্থী ও আশ্রয়প্রার্থীর সংখ্যা ছিল ২ লাখ ২৫ হাজার ৭৪০ জন, যার ৯০ শতাংশই মিয়ানমারের নাগরিক। আন্তর্জাতিক বিচার আদালত সম্প্রতি রায় দেয় যে মিয়ানমারের নিরাপত্তা বাহিনী রোহিঙ্গা সংখ্যালঘু জনগোষ্ঠীর বিরুদ্ধে গণহত্যা চালিয়েছে।",
+        "details_en": "Malaysia claims hosting refugees creates a financial burden and security risk. Previously, in late September, about 1,500 immigrants were sent back to war-torn Myanmar. According to UNHCR, registered refugees and asylum seekers in Malaysia totaled 225,740 until last August, with about 90 percent being Myanmar citizens. The International Court of Justice recently ruled that Myanmar security forces committed genocide against the Rohingya minority.",
+        "hook_bn": "মালয়েশিয়া থেকে ৬ হাজার ৮০০ রোহিঙ্গা ফেরত",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-24T13:03:57.364052+00:00"
+      }
+    },
+    {
+      "story_id": "ee2bae76-e656-5f36-8f75-e1d2402c546f",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#EuropeanUnion",
+        "#China",
+        "#HybridVehicles"
+      ],
+      "image_url": "https://static.dw.com/image/70517191_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-24T10:42:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.55,
+      "rank_score": 0.5679,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/eu-imposes-import-quotas-for-hybrid-vehicles-from-china/a-80029981?maca=en-rss-en-all-1573-rdf",
+          "title": "EU imposes import quotas for hybrid vehicles from China",
+          "snippet": "EU imposes import quotas for hybrid vehicles from China"
+        },
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+          "title": "What Jensen Huang's return teaches China's Xi about Trump",
+          "snippet": "What Jensen Huang's return teaches China's Xi about Trump"
+        },
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/us-targets-chip-smuggling-to-china-after-huangs-return-to-scandal-hit-nvidia/article71737766.ece",
+          "title": "U.S. targets chip smuggling to China after Huang's return to scandal-hit Nvidia",
+          "snippet": "U.S. targets chip smuggling to China after Huang's return to scandal-hit Nvidia"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "চীন থেকে হাইব্রিড গাড়ি আমদানিতে কোটা আরোপ করেছে ইউরোপীয় ইউনিয়ন।",
+        "title_en": "The European Union imposed import quotas for hybrid vehicles from China.",
+        "summary_bn": "ইউরোপীয় ইউনিয়ন চীন থেকে আমদানিকৃত হাইব্রিড গাড়ির সংখ্যা সীমিত করার ঘোষণা দিয়েছে।",
+        "summary_en": "The European Union announced that it was capping the number of hybrid vehicles imported from China.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-24T10:42:00+00:00",
+        "lead_bn": "ইউরোপীয় ইউনিয়ন চীন থেকে আমদানিকৃত হাইব্রিড গাড়ির সংখ্যা সীমিত করার ঘোষণা দিয়েছে।",
+        "lead_en": "The European Union announced that it was capping the number of hybrid vehicles imported from China.",
+        "bullets_bn": [
+          "কোটাটি পূর্ববর্তী বছরের আমদানিকৃত পরিমাণের ওপর প্রায় ১৫ শতাংশ নির্ধারণ করা হয়েছে।",
+          "অক্টোবরে বাণিজ্য কমিশনার মারোস সেফকোভিক এবং চীনা বাণিজ্যমন্ত্রী ওয়াং ওয়েনতাওয়ের মধ্যে একটি চুক্তি হয়েছিল।",
+          "চীন ইউরোপীয় ইউনিয়নকে তাদের মধ্যে হওয়া সুশৃঙ্খল ও ভারসাম্যপূর্ণ চুক্তি মেনে চলার আহ্বান জানিয়েছে।"
+        ],
+        "bullets_en": [
+          "The quota is to stand at around 15% on top of the volume imported in the previous year.",
+          "The announcement follows an agreement made between EU trade commissioner Maros Sefcovic and Chinese Trade Minister Wang Wentao in October.",
+          "China called on the EU to stick to the compliant and balanced agreement the two sides had reached."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "হ্যানয়তে হটপট রেস্তোরাঁয় বিস্ফোরণে নিহত ছয়",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
+        "hook_bn": "চীন থেকে হাইব্রিড গাড়ি আমদানিতে ইইউর কোটা",
+        "kicker_bn": "নতুন নিয়ম",
+        "share_value": true,
+        "question_bn": "চীন থেকে হাইব্রিড গাড়ি আমদানিতে ইউরোপীয় ইউনিয়নের এই কোটা আরোপ বৈশ্বিক বাণিজ্যে কী প্রভাব ফেলতে পারে বলে আপনার মনে হয়?"
       },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 4.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-24T12:03:30.696397+00:00"
+        "checked_at": "2026-11-24T13:03:57.364052+00:00"
       }
     }
   ]
