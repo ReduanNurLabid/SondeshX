@@ -1,151 +1,79 @@
 {
-  "updated_at": "2026-11-23T23:00:56.312302",
-  "total_stories": 4,
+  "updated_at": "2026-11-24T00:00:48.325784",
+  "total_stories": 3,
   "stories": [
     {
-      "story_id": "7c57fe46-b6c4-5af9-a760-501a2baca9e8",
-      "primary_category": "society_education",
+      "story_id": "81e275e0-fbc5-5d84-942e-32f3433c42c3",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1536337005238-94b997371b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8aHNjJTIwZXZhbHVhdGlvbiUyMHJlc3VsdHMlMjBjaGFuZ2VkJTIwZWR1Y2F0aW9ufGVufDF8MHx8fDE3OTU0NzQ5NzN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-23T21:32:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.5808,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1182920",
-          "title": "খাতা পুনর্নিরীক্ষণে দিনাজপুর বোর্ডে ফেল থেকে পাস ৪১৮ শিক্ষার্থী",
-          "snippet": "খাতা পুনর্নিরীক্ষণে দিনাজপুর বোর্ডে ফেল থেকে পাস ৪১৮ শিক্ষার্থী"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/country/500363",
-          "title": "বরিশাল বোর্ডে এইচএসসি পুনঃনিরীক্ষণে ৫২০ জনের জিপিএ পরিবর্তন",
-          "snippet": "বরিশাল বোর্ডে এইচএসসি পুনঃনিরীক্ষণে ৫২০ জনের জিপিএ পরিবর্তন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "দিনাজপুর ও বরিশাল বোর্ডে এইচএসসি পুনর্নিরীক্ষায় ফল পরিবর্তিত হয়েছে",
-        "title_en": "HSC re-evaluation results changed in Dinajpur and Barishal boards",
-        "summary_bn": "এইচএসসি ও সমমান পরীক্ষার উত্তরপত্র পুনর্নিরীক্ষায় দিনাজপুর এবং বরিশাল বোর্ডে হাজার হাজার শিক্ষার্থীর ফল পরিবর্তন হয়েছে।",
-        "summary_en": "Results of thousands of students changed in Dinajpur and Barishal boards following the re-evaluation of HSC and equivalent exam answer scripts.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-23T21:32:00+00:00",
-        "lead_bn": "এইচএসসি ও সমমান পরীক্ষার উত্তরপত্র পুনর্নিরীক্ষায় দিনাজপুর এবং বরিশাল বোর্ডে হাজার হাজার শিক্ষার্থীর ফল পরিবর্তন হয়েছে।",
-        "lead_en": "Results of thousands of students changed in Dinajpur and Barishal boards following the re-evaluation of HSC and equivalent exam answer scripts.",
-        "bullets_bn": [
-          "দিনাজপুর শিক্ষা বোর্ডে উত্তরপত্র পুনর্নিরীক্ষায় মোট ২ হাজার ২৪৮ জন শিক্ষার্থীর ফল পরিবর্তন হয়েছে।",
-          "দিনাজপুর বোর্ডে পুনর্নিরীক্ষায় ফেল করা ৪১৮ জন শিক্ষার্থী পাস করেছেন।",
-          "বরিশাল বোর্ডে এইচএসসি পুনঃনিরীক্ষায় ৫২০ জনের জিপিএ পরিবর্তন হয়েছে।"
-        ],
-        "bullets_en": [
-          "A total of 2,248 students' results changed in the Dinajpur Education Board following answer script re-evaluation.",
-          "In the Dinajpur board, 418 failed students passed the exams through the re-evaluation.",
-          "GPA changed for 520 people in the HSC re-evaluation under the Barishal board."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "এইচএসসি ও সমমান পরীক্ষা-২০২৬ এর উত্তরপত্র পুনর্নিরীক্ষার পর দিনাজপুর শিক্ষা বোর্ড এবং বরিশাল বোর্ডের এই ফল পরিবর্তনের তথ্য সামনে আসে।",
-        "details_en": "The information on these result changes in the Dinajpur Education Board and the Barishal Board came to light after the re-evaluation of HSC and equivalent exam answer scripts for 2026.",
-        "hook_bn": "দিনাজপুর বোর্ডে ফেল থেকে পাস ৪১৮ শিক্ষার্থী",
-        "kicker_bn": "ফেল থেকে পাস",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-23T23:08:18.457383+00:00"
-      }
-    },
-    {
-      "story_id": "49ad35f5-046d-55fc-8dc8-0196ec1517ab",
-      "primary_category": "economy_business",
-      "interest_categories": [
+        "governance_law",
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#BankGovernance",
-        "#FinancialInstitutions",
-        "#MinistryOfFinance",
-        "#IFICBank"
+        "#SupremeCourt",
+        "#JuboDal",
+        "#Paltan"
       ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182855/16576.jpg",
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/182854/16569.jpg",
       "image_caption": null,
-      "published_at": "2026-11-23T23:01:08.009515+00:00",
+      "published_at": "2026-11-24T00:01:06.389004+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 5.0,
-      "rank_score": 2.497,
+      "rank_score": 2.4991,
       "sources": [
         {
           "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/banks-with-govt-stakes-need-pm-nod-to-appoint-chairpersons",
-          "title": "Banks with govt stakes need PM nod to appoint chairpersons",
-          "snippet": "Banks with govt stakes need PM nod to appoint chairpersons"
+          "url": "https://thefinancialexpress.com.bd/national/lawyer-beaten-by-jubo-dal-men-led-by-noyan-in-paltan",
+          "title": "Lawyer beaten by ‘Jubo Dal men led by Noyan’ in Paltan",
+          "snippet": "Lawyer beaten by ‘Jubo Dal men led by Noyan’ in Paltan"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সরকারি শেয়ার থাকা ব্যাংকের চেয়ারম্যান নিয়োগে প্রধানমন্ত্রীর অনুমোদন বাধ্যতামূলক",
-        "title_en": "PM approval now mandatory to appoint chairpersons in government-staked banks",
-        "summary_bn": "সরকারি এবং সরকারের শেয়ার থাকা বেসরকারি ব্যাংক ও আর্থিক প্রতিষ্ঠানে চেয়ারম্যান নিয়োগে প্রধানমন্ত্রীর অনুমোদন বাধ্যতামূলক করেছে সরকার।",
-        "summary_en": "The government has made the prime minister's approval mandatory for appointing chairpersons to state-owned and government-staked private banks and financial institutions.",
+        "title_bn": "পল্টনে সুপ্রিম কোর্টের আইনজীবী রাইহান রনিকে মারধরের অভিযোগ",
+        "title_en": "Supreme Court lawyer Raihan Roni beaten in Paltan",
+        "summary_bn": "রাজধানীর পল্টনে জাতীয়তাবাদী যুবদল নেতাদের বিরুদ্ধে সুপ্রিম কোর্টের এক আইনজীবীকে পিটিয়ে আহত করার অভিযোগ উঠেছে।",
+        "summary_en": "A Supreme Court lawyer was assaulted allegedly by Jatiyatabadi Jubo Dal leaders and activists in the capital's Paltan area.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "governance_law",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-23T23:01:08.009515+00:00",
-        "lead_bn": "সরকারি এবং সরকারের শেয়ার থাকা বেসরকারি ব্যাংক ও আর্থিক প্রতিষ্ঠানে চেয়ারম্যান নিয়োগে প্রধানমন্ত্রীর অনুমোদন বাধ্যতামূলক করেছে সরকার।",
-        "lead_en": "The government has made the prime minister's approval mandatory for appointing chairpersons to state-owned and government-staked private banks and financial institutions.",
+        "published_at": "2026-11-24T00:01:06.389004+00:00",
+        "lead_bn": "রাজধানীর পল্টনে জাতীয়তাবাদী যুবদল নেতাদের বিরুদ্ধে সুপ্রিম কোর্টের এক আইনজীবীকে পিটিয়ে আহত করার অভিযোগ উঠেছে।",
+        "lead_en": "A Supreme Court lawyer was assaulted allegedly by Jatiyatabadi Jubo Dal leaders and activists in the capital's Paltan area.",
         "bullets_bn": [
-          "নতুন নীতিমালায় কর্মরত সচিব ও সমপর্যায়ের কর্মকর্তাদের চেয়ারম্যান বা পরিচালক হওয়ার ওপর নিষেধাজ্ঞা জারি করা হয়েছে।",
-          "প্রার্থীদের বয়স ৪৫ থেকে ৭৫ বছর এবং ১০ বছরের অভিজ্ঞতা থাকতে হবে, তবে বিশেষ দক্ষতার ক্ষেত্রে বয়সসীমা শিথিলযোগ্য।",
-          "বিদেশি বা দ্বৈত নাগরিক এবং আর্থিক অপরাধ, দুর্নীতি বা আদালতে দণ্ডপ্রাপ্ত ব্যক্তিরা এসব পদে নিয়োগের অযোগ্য হবেন।"
+          "আহত আইনজীবী রাইহান রনিকে ঢাকা মেডিকেল কলেজ হাসপাতালে ভর্তি করা হয়েছে।",
+          "যুবদলের ঢাকা দক্ষিণ ইউনিটের সদস্য সচিব রবিউল ইসলাম নয়নের নেতৃত্বে এই হামলা চালানো হয় বলে অভিযোগ করা হয়েছে।",
+          "পল্টন থানার উপ-পরিদর্শক আবু সালেহ জানান, আওয়ামী লীগের সদস্য সন্দেহে কিছু বিএনপি কর্মী তাকে মারধর করে পুলিশের হাতে সোপর্দ করেছে।"
         ],
         "bullets_en": [
-          "Serving secretaries and officials of equivalent rank are barred from becoming chairpersons or directors under the new policy.",
-          "Candidates must be aged 45 to 75 with 10 years of experience, though age limits may be relaxed for exceptional expertise.",
-          "Foreign citizens, dual citizens, convicted individuals, and financial offenders are disqualified from holding these positions."
+          "Injured lawyer Raihan Roni was admitted to Dhaka Medical College Hospital for treatment.",
+          "The assault was allegedly carried out under the leadership of Jubo Dal Dhaka South unit Member Secretary Robiul Islam Noyan.",
+          "Paltan Police Station Sub-Inspector Abu Saleh said BNP activists beat him on suspicion of being an Awami League member before handing him over to police."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ফাইন্যান্সিয়াল ইনস্টিটিউশনস ডিভিশনের ২০২৬ সালের নীতিমালায় বাছাই কমিটির সুপারিশে চেয়ারম্যান নিয়োগে প্রধানমন্ত্রীর এবং পরিচালক নিয়োগে অর্থমন্ত্রীর অনুমোদনের বাধ্যবাধকতা রাখা হয়েছে। পাশাপাশি রাষ্ট্রায়ত্ত ও সরকারি শেয়ার থাকা বেসরকারি ব্যাংকের জন্য বাংলাদেশ ব্যাংকের অনুমোদনও লাগবে। রাষ্ট্রায়ত্ত ব্যাংকগুলো ছাড়াও বেসরকারি আইএফআইসি ব্যাংকে সরকারের শেয়ার রয়েছে, ফলে ব্যাংকটির চেয়ারম্যান নিয়োগেও প্রধানমন্ত্রীর অনুমোদন প্রয়োজন হবে।",
-        "details_en": "Under the Financial Institutions Division's 2026 policy, the prime minister approves chairperson appointments on a selection committee's recommendation, while directors require the finance minister's approval. State-owned commercial banks and private banks with government shares also require Bangladesh Bank's approval. The government holds shares in state-owned commercial and specialised banks, as well as private lender IFIC Bank, making the premier's approval mandatory for appointing IFIC's chairperson.",
-        "hook_bn": "ব্যাংকে চেয়ারম্যান নিয়োগে প্রধানমন্ত্রীর অনুমোদন বাধ্যতামূলক",
-        "kicker_bn": "নতুন নীতিমালা",
+        "details_bn": "রাইহান রনি অভিযোগ করেন, পল্টন থানার কালভার্ট এলাকায় নয়ন ও তার সহযোগীরা তাকে বেধড়ক মারধর করে পুলিশের হাতে তুলে দেন। তার মাথায় ১০টি সেলাই পড়েছে এবং শরীরের বিভিন্ন স্থানে আঘাতের চিহ্ন রয়েছে। পুলিশ তাকে উদ্ধার করে ঢাকা মেডিকেল কলেজ হাসপাতালে নিয়ে যায়।",
+        "details_en": "Raihan Roni said Noyan and his associates beat him severely in the Culvert area under Paltan Police Station before handing him over to police. He received 10 stitches on his head and sustained injuries to different parts of his body. Police rescued him and took him to Dhaka Medical College Hospital for treatment.",
+        "hook_bn": "পল্টনে আইনজীবী রাইহান রনিকে মারধরের অভিযোগ",
+        "kicker_bn": null,
         "share_value": false,
-        "question_bn": "ব্যাংক খাতের পরিচালনায় এই নতুন নীতিমালা কি ইতিবাচক প্রভাব ফেলবে?"
+        "question_bn": null
       },
       "desk_importance": 5.0,
       "outlet_count": 1,
       "trending": false,
-      "social_appeal": 4.0,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-23T23:08:18.457383+00:00"
+        "checked_at": "2026-11-24T00:02:12.686392+00:00"
       }
     },
     {
-      "story_id": "d3646c5a-d54b-5817-8123-1e3106a9b21e",
+      "story_id": "eb892cef-a76a-5131-a9f6-971d3ee2dd62",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
@@ -153,28 +81,28 @@
       ],
       "region": "international",
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#DonaldTrump",
+        "#NewYork"
       ],
-      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/harmuz-20261124041622.jpg?cid=500365",
+      "image_url": "https://th-i.thgim.com/public/incoming/j7v72z/article71736368.ece/alternates/LANDSCAPE_1200/2026-11-23T175105Z_1421164491_RC2TROAZ0M6H_RTRMADP_3_BOEING-TRUMP.JPG",
       "image_caption": null,
-      "published_at": "2026-11-23T22:16:22+00:00",
+      "published_at": "2026-11-23T21:36:25+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.444,
+      "importance_score": 5.5,
+      "rank_score": 2.6307,
       "sources": [
         {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/international/500365",
-          "title": "হরমুজে মাইন বিস্ফোরণে ৩ তেলবাহী ট্যাংকারে আগুন",
-          "snippet": "হরমুজে মাইন বিস্ফোরণে ৩ তেলবাহী ট্যাংকারে আগুন"
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/federal-appeals-court-gives-president-donald-trump-path-to-erasing-hush-money-conviction/article71736252.ece",
+          "title": "Federal appeals court gives President Donald Trump path to erasing hush money conviction",
+          "snippet": "Federal appeals court gives President Donald Trump path to erasing hush money conviction"
         }
       ],
       "daily_buzz": {
-        "title_bn": "হরমুজ প্রণালিতে মাইন বিস্ফোরণে ৩টি তেলবাহী ট্যাংকারে আগুন",
-        "title_en": "Three oil tankers catch fire after hitting mines in Strait of Hormuz",
-        "summary_bn": "২৩ নভেম্বর রাতে হরমুজ প্রণালিতে নৌ মাইনের আঘাতে তিনটি তেলবাহী ট্যাংকারে বিস্ফোরণ ও অগ্নিকাণ্ডের ঘটনা ঘটেছে বলে জানিয়েছে ইরানের ইসলামি বিপ্লবী গার্ড বাহিনী।",
-        "summary_en": "Iran's Revolutionary Guard Corps reported that three oil tankers caught fire after hitting naval mines in the Strait of Hormuz on 23 November.",
+        "title_bn": "ডোনাল্ড ট্রাম্পের hush money সাজা বাতিলের নতুন পথ তৈরি",
+        "title_en": "Federal appeals court gives Trump path to erasing conviction",
+        "summary_bn": "যুক্তরাষ্ট্রের একটি আপিল আদালত ডোনাল্ড ট্রাম্পকে তাঁর গোপন অর্থ প্রদান সংক্রান্ত অপরাধের সাজা বাতিল করার নতুন পথ করে দিয়েছে।",
+        "summary_en": "A federal appeals court gave U.S. President Donald Trump a new pathway to erasing his hush money criminal conviction.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -182,116 +110,105 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-23T22:16:22+00:00",
-        "lead_bn": "২৩ নভেম্বর রাতে হরমুজ প্রণালিতে নৌ মাইনের আঘাতে তিনটি তেলবাহী ট্যাংকারে বিস্ফোরণ ও অগ্নিকাণ্ডের ঘটনা ঘটেছে বলে জানিয়েছে ইরানের ইসলামি বিপ্লবী গার্ড বাহিনী।",
-        "lead_en": "Iran's Revolutionary Guard Corps reported that three oil tankers caught fire after hitting naval mines in the Strait of Hormuz on 23 November.",
+        "published_at": "2026-11-23T21:36:25+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের একটি আপিল আদালত ডোনাল্ড ট্রাম্পকে তাঁর গোপন অর্থ প্রদান সংক্রান্ত অপরাধের সাজা বাতিল করার নতুন পথ করে দিয়েছে।",
+        "lead_en": "A federal appeals court gave U.S. President Donald Trump a new pathway to erasing his hush money criminal conviction.",
         "bullets_bn": [
-          "একটি ট্যাংকার প্রণালির দক্ষিণ উপকূলে এবং অন্য দুটি পূর্বাংশে অবস্থানকালে বিস্ফোরণের শিকার হয় বলে আইআরজিসি জানিয়েছে।",
-          "আইআরজিসির দাবি, মার্কিন সেনাবাহিনীর আকাশপথের পাহারার মধ্যেই জাহাজগুলো মাইনে আঘাত হানে এবং মার্কিন বাহিনী তা ঠেকাতে ব্যর্থ হয়েছে।",
-          "অননুমোদিত নৌপথ ব্যবহার না করতে সতর্ক করার পাশাপাশি শীঘ্রই এই অগ্নিকাণ্ডের ভিডিও ফুটেজ প্রকাশের কথা জানিয়েছে ইরানি কর্তৃপক্ষ।"
+          "আদালত মামলাটি ফেডারেল আদালতে স্থানান্তরের নির্দেশ দিয়েছে যেখানে তিনি প্রেসিডেন্ট ইমিউনিটির ভিত্তিতে এটি খারিজের আবেদন করতে পারবেন।",
+          "দ্বিতীয় সার্কিট আপিল আদালতের তিন বিচারপতির প্যানেল নিউ ইয়র্কের নিম্ন আদালতের পূর্বের সিদ্ধান্তটি উল্টে দিয়েছে।",
+          "এই সিদ্ধান্তের ফলে ডোনাল্ড ট্রাম্পের সমসাময়িক রাজ্য আদালতের আপিল কার্যক্রম স্থগিত হয়ে গেছে।"
         ],
         "bullets_en": [
-          "One tanker was on the southern coast and two were in the eastern part of the strait when the explosions occurred.",
-          "The IRGC claimed the tankers hit mines while under US military aerial surveillance, which failed to prevent the incidents.",
-          "Authorities warned sailors to follow maritime regulations and avoid unauthorized routes, promising to release footage of the incidents soon."
+          "The panel moved the case to a federal court where he could seek dismissal on immunity grounds.",
+          "A three-judge panel of the 2nd US Circuit Court of Appeals reversed a lower court decision.",
+          "The decision set in motion a halt to proceedings in the simultaneous state court appeal."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "এর আগে ১২ জুলাই যুক্তরাষ্ট্র ইরানের বিরুদ্ধে সামরিক হামলা শুরু করলে হরমুজ প্রণালি বন্ধের ঘোষণা দিয়েছিল তেহরান। অনুমতি ছাড়া বা নির্ধারিত পথের বাইরে অন্য কোনো রুট ব্যবহার করলে জাহাজকে লক্ষ্যবস্তু করার হুঁশিয়ারিও দেওয়া হয়েছিল। বিশ্বব্যাপী অপরিশোধিত তেল ও তরলীকৃত প্রাকৃতিক গ্যাস সরবরাহের অন্যতম প্রধান নৌপথ হলো এই হরমুজ প্রণালি। তবে ক্ষতিগ্রস্ত ট্যাংকারগুলো কোন দেশের পতাকাবাহী তা তাৎক্ষণিকভাবে জানানো হয়নি।",
-        "details_en": "Tehran previously announced on 12 July that it would close the Strait of Hormuz if the United States resumed military attacks against Iran. The authorities warned that any vessel using unauthorized routes or crossing without permission would be targeted. The Strait of Hormuz remains a critical global maritime route for the supply of crude oil and liquefied natural gas. The names or flags of the damaged tankers were not immediately disclosed.",
-        "hook_bn": "হরমুজ প্রণালিতে ৩টি তেলবাহী ট্যাংকারে আগুন",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "ট্রাম্পের সাজা বাতিলের নতুন আইনি পথ",
+        "kicker_bn": "রায় ঘোষণা",
+        "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 6.0,
+      "desk_importance": 5.0,
       "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
+      "trending": true,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-23T23:08:18.457383+00:00"
+        "checked_at": "2026-11-24T00:02:12.686392+00:00"
       }
     },
     {
-      "story_id": "a8309ab2-e461-5887-a9d8-befd1b79f82f",
-      "primary_category": "tech_innovation",
+      "story_id": "2c567751-c464-5dd1-8ded-39fc32fb9e05",
+      "primary_category": "society_education",
       "interest_categories": [
-        "tech_innovation",
-        "economy_business",
-        "world_diplomacy",
-        "governance_law"
+        "society_education",
+        "world_diplomacy"
       ],
       "region": "international",
       "tags": [
-        "#Nvidia",
-        "#Megaspeed",
-        "#AIChips",
-        "#USChinaTrade"
+        "#ParastooAhmadi",
+        "#Iran",
+        "#Qom"
       ],
-      "image_url": "https://static.dw.com/image/79909063_6.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg",
       "image_caption": null,
-      "published_at": "2026-11-23T22:35:00+00:00",
+      "published_at": "2026-11-23T18:04:20+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.435,
+      "importance_score": 5.5,
+      "rank_score": 2.1449,
       "sources": [
         {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/us-adds-megaspeed-at-center-of-nvidia-scandal-to-a-trade-blacklist/a-80026849?maca=en-rss-en-all-1573-rdf",
-          "title": "US adds Megaspeed, at center of Nvidia scandal, to a trade blacklist",
-          "snippet": "US adds Megaspeed, at center of Nvidia scandal, to a trade blacklist"
-        },
-        {
           "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-          "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-          "snippet": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal"
+          "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+          "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
+          "snippet": "Iranian authorities flog singer who performed without hijab, lawyers say"
         }
       ],
       "daily_buzz": {
-        "title_bn": "এনভিডিয়া চিপ পাচার কেলেঙ্কারিতে সিঙ্গাপুরের মেগাস্পিডকে কালো তালিকাভুক্ত করল যুক্তরাষ্ট্র",
-        "title_en": "US blacklists Singapore firm Megaspeed following Nvidia chip smuggling scandal",
-        "summary_bn": "চীনের কাছে এনভিডিয়ার কৃত্রিম বুদ্ধিমত্তার চিপ পাচারের অভিযোগে সিঙ্গাপুরভিত্তিক প্রতিষ্ঠান মেগাস্পিড ইন্টারন্যাশনালকে বাণিজ্যিকভাবে কালো তালিকাভুক্ত করেছে যুক্তরাষ্ট্র সরকার।",
-        "summary_en": "The US government added Singapore-based Megaspeed International to a trade blacklist following allegations of smuggling sensitive Nvidia AI chips to China.",
+        "title_bn": "ইরানে হিজাব ছাড়া গান পরিবেশন করায় গায়িকাকে বেত্রাঘাত",
+        "title_en": "Iranian authorities flog singer who performed without hijab",
+        "summary_bn": "আইন লঙ্ঘন করে হিজাব ছাড়া কনসার্টে গান পরিবেশন করায় ইরানের এক গায়িকা ও তাঁর চার সহযোগীকে বেত্রাঘাত করা হয়েছে।",
+        "summary_en": "Iranian authorities have flogged a prominent singer and four members of her band and production team for performing without a hijab.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "tech_innovation",
-          "economy_business",
-          "world_diplomacy",
-          "governance_law"
+          "society_education",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-23T22:35:00+00:00",
-        "lead_bn": "চীনের কাছে এনভিডিয়ার কৃত্রিম বুদ্ধিমত্তার চিপ পাচারের অভিযোগে সিঙ্গাপুরভিত্তিক প্রতিষ্ঠান মেগাস্পিড ইন্টারন্যাশনালকে বাণিজ্যিকভাবে কালো তালিকাভুক্ত করেছে যুক্তরাষ্ট্র সরকার।",
-        "lead_en": "The US government added Singapore-based Megaspeed International to a trade blacklist following allegations of smuggling sensitive Nvidia AI chips to China.",
+        "published_at": "2026-11-23T18:04:20+00:00",
+        "lead_bn": "আইন লঙ্ঘন করে হিজাব ছাড়া কনসার্টে গান পরিবেশন করায় ইরানের এক গায়িকা ও তাঁর চার সহযোগীকে বেত্রাঘাত করা হয়েছে।",
+        "lead_en": "Iranian authorities have flogged a prominent singer and four members of her band and production team for performing without a hijab.",
         "bullets_bn": [
-          "মেগাস্পিড এখন থেকে মার্কিন সরকারের বিশেষ লাইসেন্স ছাড়া সেমিকন্ডাক্টরসহ কোনো আমেরিকান প্রযুক্তি সংগ্রহ করতে পারবে না।",
-          "মেগাস্পিডের এক কর্মকর্তার সঙ্গে সম্পর্কের জেরে পদত্যাগ করা এনভিডিয়ার সিইও জেনসেন হুয়াংকে পুনরায় পদে ফিরিয়ে আনা হয়েছে।",
-          "মার্কিন কর্মকর্তাদের দাবি, অ্যালিস হুয়াং নামের ওই নারী একজন চীনা গোয়েন্দা এবং চিপ পাচারের সঙ্গে জড়িত ছিলেন।"
+          "কুমম শহরে প্রতিরক্ষা দলের এক সদস্যের বরাত দিয়ে বিবিসি জানায়, গায়িকা পারস্তু আহমাদি এবং তাঁর চার সহকর্মীকে প্রত্যেকে ৭৪টি করে বেত্রাঘাত করা হয়েছে।",
+          "ইরানি আইন অনুযায়ী নারীদের জনসমক্ষে গান পরিবেশন নিষিদ্ধ এবং হিজাব ও শালীন পোশাক পরা বাধ্যতামূলক।",
+          "অন্যান্য ইরানি শিল্পী ও মানবাধিকার কর্মীরা এই বেত্রাঘাতের তীব্র নিন্দা জানিয়ে একে নির্যাতন হিসেবে অভিহিত করেছেন।"
         ],
         "bullets_en": [
-          "Megaspeed cannot obtain US technology, including semiconductors, without a specific license from the US government.",
-          "Nvidia CEO Jensen Huang was reinstated after briefly resigning over an affair with a Megaspeed executive.",
-          "US officials identified the executive, Alice Huang, as a Chinese spy involved in the chip smuggling operation."
+          "Parastoo Ahmadi and four members of her band and production team were each given 74 lashes in the city of Qom, defence lawyers said.",
+          "Iran bans public performances by women and requires them to wear headscarves and modest clothing.",
+          "Other Iranian artists and human rights activists condemned the sentences, warning that flogging violated the international prohibition on torture."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "মার্কিন বাণিজ্য বিভাগ ১ বছরেরও বেশি সময় ধরে মেগাস্পিডের বিরুদ্ধে পাচারের তদন্ত করছিল। এনভিডিয়ার সিইও জেনসেন হুয়াং মেগাস্পিডের এক কর্মকর্তার সঙ্গে বিবাহবহির্ভূত সম্পর্কের কথা স্বীকার করার পর এই কেলেঙ্কারি প্রকাশ্যে আসে। প্রতিষ্ঠানটিকে আগে কালো তালিকাভুক্ত না করায় রাজনীতিবিদরা বাণিজ্য সচিব হাওয়ার্ড লুটনিকের সমালোচনা করেন। সেমাফোর ও ফিন্যান্সিয়াল টাইমসের প্রতিবেদন অনুযায়ী, এই ঘটনার জেরে হুয়াং পদত্যাগ করলেও সম্প্রতি তাকে আবারও সিইও হিসেবে নিয়োগ দেওয়া হয়েছে।",
-        "details_en": "The US Commerce Department investigated Megaspeed for over a year following intelligence warnings that it was a front for smuggling. The scandal intensified after Nvidia CEO Jensen Huang admitted to an affair with a Megaspeed executive. Politicians criticized Commerce Secretary Howard Lutnick for not blacklisting the firm sooner. Semafor and the Financial Times reported that the firm allegedly funneled sensitive AI technology to China, leading to Huang's brief resignation before his recent reinstatement.",
-        "hook_bn": "এনভিডিয়া চিপ পাচারকাণ্ডে মেগাস্পিড কালো তালিকাভুক্ত",
-        "kicker_bn": "বাণিজ্য নিষেধাজ্ঞা",
+        "details_bn": "ডিসেম্বর ২০২৪-এ লাইভস্ট্রিম করা এক কনসার্টে sleeveless পোশাক পরেছিলেন ২৯ বছর বয়সী পারস্তু আহমাদি। এই জুনে কুমমের একটি অপরাধ আদালত আহমাদি ও অন্য আটজনকে প্রকাশ্য শালীনতা ক্ষুণ্ন করার দায়ে অভিযুক্ত করে। আদালতের রায়ে তাদের ৭৪টি করে বেত্রাঘাতের পাশাপাশি দুই বছরের জন্য অডিও-ভিজ্যুয়াল কার্যক্রমে নিষেধাজ্ঞা এবং দেশত্যাগে নিষেধাজ্ঞা দেওয়া হয়। সেপ্টেম্বরের শেষে কুমমের একটি আপিল আদালত এই সাজা বহাল রাখে।",
+        "details_en": "Ahmadi wore a sleeveless dress during a livestreamed concert in December 2024. In June, a criminal court in Qom convicted her and eight others of offending public decency through the publication of obscene and indecent material, sentencing them to 74 lashes, a two-year ban on audiovisual activities and a travel ban. An appeals court confirmed the sentence at the end of September.",
+        "hook_bn": "হিজাব ছাড়া গান গাওয়ায় গায়িকাকে বেত্রাঘাত",
+        "kicker_bn": "রায় ঘোষণা",
         "share_value": false,
-        "question_bn": "কৃত্রিম বুদ্ধিমত্তার প্রযুক্তি নিয়ে দেশগুলোর এই লড়াইকে আপনি কীভাবে দেখেন?"
+        "question_bn": null
       },
       "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 4.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-23T23:08:18.457383+00:00"
+        "checked_at": "2026-11-24T00:02:12.686392+00:00"
       }
     }
   ]
