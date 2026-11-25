@@ -1,84 +1,77 @@
 {
-  "updated_at": "2026-11-25T22:00:48.755134",
+  "updated_at": "2026-11-25T23:37:40.996242",
   "total_stories": 1,
   "stories": [
     {
-      "story_id": "2d471bfe-2916-5307-b7a9-19667de559e8",
-      "primary_category": "governance_law",
+      "story_id": "b023c44c-e6af-5402-a6b4-890d185185fa",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "governance_law"
+        "economy_business",
+        "world_diplomacy",
+        "tech_innovation"
       ],
-      "region": "national",
+      "region": "international",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Nvidia",
+        "#Nasdaq",
+        "#USStocks"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-25%2F5jel1gm2%2FCapture.PNG?rect=7%2C0%2C1230%2C646&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg",
       "image_caption": null,
-      "published_at": "2026-11-25T19:53:49+00:00",
+      "published_at": "2026-11-25T21:43:18+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 3.7373,
+      "importance_score": 5.5,
+      "rank_score": 2.7077,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/crime/8fmrx9f9lo",
-          "title": "পুলিশে অভ্যন্তরীণ নজরদারি: দুই ঊর্ধ্বতন কর্মকর্তা গ্রেপ্তার, একজন হেফাজতে, নজরদারিতে অনেকে",
-          "snippet": "পুলিশে অভ্যন্তরীণ নজরদারি: দুই ঊর্ধ্বতন কর্মকর্তা গ্রেপ্তার, একজন হেফাজতে, নজরদারিতে অনেকে"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/sps-among-14-police-officers-transferred-in-fresh-police-reshuffle",
-          "title": "SPs among 14 police officers transferred in fresh police reshuffle",
-          "snippet": "SPs among 14 police officers transferred in fresh police reshuffle"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823029/%E0%A6%B8%E0%A6%BE%E0%A6%A4-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%B8%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%B0-%C2%A0%E0%A6%AC%E0%A6%A6%E0%A6%B2%E0%A6%BF-%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A7%A7%E0%A7%AA",
-          "title": "সাত জেলায় নতুন পুলিশ সুপার, বদলি-পদায়ন ১৪ কর্মকর্তা",
-          "snippet": "সাত জেলায় নতুন পুলিশ সুপার, বদলি-পদায়ন ১৪ কর্মকর্তা"
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+          "title": "US stocks fall further as fears over AI intensify",
+          "snippet": "US stocks fall further as fears over AI intensify"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পুলিশে অভ্যন্তরীণ নজরদারি ও তথ্য ফাঁসের অভিযোগে দুই ঊর্ধ্বতন কর্মকর্তা গ্রেপ্তার",
-        "title_en": "Two senior police officers arrested over internal surveillance and information leaks",
-        "summary_bn": "পুলিশের উচ্চপর্যায়ের সূত্র জানিয়েছে, অভ্যন্তরীণ তথ্য ফাঁস এবং সাম্প্রতিক নাশকতার ঘটনায় যোগসাজশের অভিযোগে দুই ঊর্ধ্বতন পুলিশ কর্মকর্তাকে গ্রেপ্তার করা হয়েছে এবং একজনকে হেফাজতে নেওয়া হয়েছে।",
-        "summary_en": "High-level police sources say two senior police officers have been arrested and one taken into custody over internal information leaks and recent sabotage.",
+        "title_bn": "কৃত্রিম বুদ্ধিমত্তার বিনিয়োগ নিয়ে শঙ্কার মধ্যে মার্কিন শেয়ারবাজারে পতন ঘটেছে।",
+        "title_en": "US stocks fall further as fears over AI intensify.",
+        "summary_bn": "কৃত্রিম বুদ্ধিমত্তা খাতের বিনিয়োগের মাত্রা ও স্থায়িত্ব নিয়ে উদ্বেগের কারণে মার্কিন শেয়ারবাজারের প্রধান সূচকগুলো কমেছে।",
+        "summary_en": "US stock market indices fell on Wednesday amid concerns over the level and sustainability of artificial intelligence investment.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "economy_business",
+          "world_diplomacy",
+          "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-25T19:53:49+00:00",
-        "lead_bn": "পুলিশের উচ্চপর্যায়ের সূত্র জানিয়েছে, অভ্যন্তরীণ তথ্য ফাঁস এবং সাম্প্রতিক নাশকতার ঘটনায় যোগসাজশের অভিযোগে দুই ঊর্ধ্বতন পুলিশ কর্মকর্তাকে গ্রেপ্তার করা হয়েছে এবং একজনকে হেফাজতে নেওয়া হয়েছে।",
-        "lead_en": "High-level police sources say two senior police officers have been arrested and one taken into custody over internal information leaks and recent sabotage.",
+        "published_at": "2026-11-25T21:43:18+00:00",
+        "lead_bn": "কৃত্রিম বুদ্ধিমত্তা খাতের বিনিয়োগের মাত্রা ও স্থায়িত্ব নিয়ে উদ্বেগের কারণে মার্কিন শেয়ারবাজারের প্রধান সূচকগুলো কমেছে।",
+        "lead_en": "US stock market indices fell on Wednesday amid concerns over the level and sustainability of artificial intelligence investment.",
         "bullets_bn": [
-          "স্বরাষ্ট্রমন্ত্রী সালেহউদ্দিন আহমদ সচিবালয়ে এক সংবাদ সম্মেলনে জানান, আইনশৃঙ্খলা রক্ষাকারী বাহিনীর কিছু কর্মকর্তা ফ্যাসিস্ট শক্তির সঙ্গে যুক্ত আছেন।",
-          "চট্টগ্রাম রেঞ্জ রিজার্ভ ফোর্সে কর্মরত পুলিশ সুপার মোহাম্মদ জাহাঙ্গীর আলমকে রাষ্ট্রদ্রোহের মামলায় গ্রেপ্তার করা হয়।",
-          "সরকার সাত জেলায় নতুন পুলিশ সুপার নিয়োগ দিয়েছে এবং ১৪ কর্মকর্তাকে বদলি ও পদায়ন করা হয়েছে।"
+          "প্রযুক্তিনির্ভর নাসডাক সূচক শূন্য দশমিক ছয় শতাংশ কমে লেনদেন শেষ করেছে।",
+          "জেেনসেন হুয়াংয়ের পুনর্বহালের পর এনভিডিয়ার শেয়ারের সাময়িক উত্থান দীর্ঘস্থায়ী হয়নি।",
+          "যুক্তরাষ্ট্রের সরকার দেশের ট্রেড পলিসির অংশ হিসেবে নতুন শুল্ক আরোপের ঘোষণা দিয়েছে।"
         ],
         "bullets_en": [
-          "Home Minister Salahuddin Ahmed told a press conference that some law enforcement officers are linked with fascist forces.",
-          "Superintendent of Police Mohammad Jahangir Alam, working in the Chattogram Range Reserve Force, was arrested in a sedition case.",
-          "The government appointed new superintendents of police in seven districts and transferred and posted 14 officials."
+          "The tech-dominated Nasdaq closed 0.6% lower at the end of the trading day.",
+          "The surge in Nvidia shares after boss Jensen Huang was reinstated was temporary.",
+          "The US government announced a raft of new tariffs as part of the trade policy."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ভারতে অবস্থানরত ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনার দেশে ফেরার ঘোষণা ও কর্মসূচি ঘিরে নাশকতার আশঙ্কায় পুলিশ বাহিনীতে নজরদারি বাড়িয়েছে সরকার। পুলিশ সুপার মোহাম্মদ জাহাঙ্গীর আলম ব্যক্তিগত ও সরকারি মুঠোফোনে নিষিদ্ধ আওয়ামী লীগের নেতাদের সঙ্গে যোগাযোগ রাখতেন বলে অভিযোগে বলা হয়েছে। এছাড়া অতিরিক্ত পুলিশ সুপার আবুল হাসানকে বিএনপির কর্মী মকবুল হোসেন হত্যা মামলায় কারাগারে পাঠানো হয়েছে এবং মো. কাবুল হাসানকে হেফাজতে নেওয়া হয়েছে।",
-        "details_en": "Amid fears of sabotage surrounding the announcement of the return of ousted Prime Minister Sheikh Hasan living in India, the government increased surveillance in the police force. SP Mohammad Jahangir Alam was accused of communicating with banned Awami League leaders via personal and official mobile phones. Additionally, Additional SP Abul Hasan was sent to jail in a BNP worker Mokbul Hossain murder case and Md. Kabul Hasan was taken into custody.",
-        "hook_bn": "পুলিশের ভেতরে নজরদারি ও দুই কর্মকর্তা গ্রেপ্তার",
-        "kicker_bn": "সতর্কতা",
+        "details_bn": "কৃত্রিম বুদ্ধিমত্তার সঙ্গে যুক্ত বড় প্রযুক্তি প্রতিষ্ঠানগুলোর শেয়ারদর সম্প্রতি চাপের মুখে রয়েছে। এনভিডিয়ার প্রধান নির্বাহী কর্মকর্তার পদত্যাগ এবং পুনরায় বহাল হওয়ার ঘটনার পর কোম্পানিটির বাজারমূল্যে বড় ধরনের ওঠানামা দেখা গেছে। এছাড়া অ্যামাজন, টেসলা ও মাইক্রোসফটের শেয়ারদর পতনের সঙ্গে বন্ধ হলেও মেটা ও স্পেসএক্স ইতিবাচক অবস্থানে ছিল।",
+        "details_en": "Share prices of major technology firms connected to artificial intelligence continued to fall, with Nvidia and Anthropic dropping sharply in early trading. The resignation and reinstatement of Nvidia's CEO caused wild market value fluctuations. Shares in Amazon, Tesla, and Microsoft closed lower, while Meta and SpaceX ended in positive territory.",
+        "hook_bn": "কৃত্রিম বুদ্ধিমত্তা নিয়ে শঙ্কার জেরে মার্কিন শেয়ারবাজারে পতন",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 6.0,
-      "outlet_count": 3,
-      "trending": false,
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": true,
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-25T22:01:45.778165+00:00"
+        "checked_at": "2026-11-25T23:38:55.477203+00:00"
       }
     }
   ]
