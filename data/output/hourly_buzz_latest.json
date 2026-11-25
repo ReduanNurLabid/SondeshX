@@ -1,92 +1,162 @@
 {
-  "updated_at": "2026-11-25T19:00:44.910988",
-  "total_stories": 4,
+  "updated_at": "2026-11-25T20:00:45.664996",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "ce5d92f1-a99a-58c5-b48f-7c5a0516d9a5",
-      "primary_category": "world_diplomacy",
+      "story_id": "71f0d7b2-9ecc-5e34-a1ac-5f8bd943ed56",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#SheikhHasina",
-        "#IndiaBangladesh",
-        "#Extradition",
-        "#RandhirJaiswal"
+        "#Keraniganj",
+        "#AwamiLeague"
       ],
-      "image_url": "https://th-i.thgim.com/public/incoming/1f4n2b/article71743888.ece/alternates/LANDSCAPE_1200/2026-11-24T025432Z_2061744365_RC2PF5AGMYVK_RTRMADP_3_BANGLADESH-POLITICS-HASINA.JPG",
+      "image_url": "https://images.unsplash.com/photo-1705499632577-a93ceadf5962?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Y3J1ZGUlMjBib21icyUyMHJlY292ZXJlZCUyMGNuZyUyMGdvdmVybm1lbnR8ZW58MXwwfHx8MTc5NTYzNjg5MHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-25T18:01:32+00:00",
+      "published_at": "2026-11-25T18:05:18+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 8.75,
-      "rank_score": 7.2184,
+      "importance_score": 6.25,
+      "rank_score": 3.4935,
       "sources": [
         {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/national/mea-separates-sheikh-hasinas-plans-to-return-to-bangladesh-from-issue-of-extradition/article71743712.ece",
-          "title": "MEA separates Sheikh Hasina’s plans to return to Bangladesh from issue of extradition",
-          "snippet": "MEA separates Sheikh Hasina’s plans to return to Bangladesh from issue of extradition"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/nation/425773/16-crude-bombs-recovered-from-cng-in-keraniganj-2",
+          "title": "16 crude bombs recovered from CNG in Keraniganj; 2 AL activists held",
+          "snippet": "16 crude bombs recovered from CNG in Keraniganj; 2 AL activists held"
         },
         {
-          "name": "DW বাংলা",
-          "url": "https://www.dw.com/bn/শেখ-হাসিনার-বাংলাদেশে-ফেরার-পরিকল্পনা-এবং-প্রত্যর্পণের-অনুরোধ-সম্পূর্ণ-আলাদা-বিষয়-জয়সওয়াল/a-80051024?maca=ben-rss-ben-all-3197-rdf",
-          "title": "শেখ হাসিনার বাংলাদেশে ফেরার পরিকল্পনা এবং প্রত্যর্পণের অনুরোধ সম্পূর্ণ আলাদা বিষয় : জয়সওয়াল",
-          "snippet": "শেখ হাসিনার বাংলাদেশে ফেরার পরিকল্পনা এবং প্রত্যর্পণের অনুরোধ সম্পূর্ণ আলাদা বিষয় : জয়সওয়াল"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/india-separates-hasinas-return-plan-from-extradition",
-          "title": "India ‘separates’ Hasina’s return plan from extradition",
-          "snippet": "India ‘separates’ Hasina’s return plan from extradition"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/crime/16-crude-bombs-recovered-cng-keraniganj-2-al-activists-held-1614196",
+          "title": "16 crude bombs recovered from CNG in Keraniganj; 2 AL activists held",
+          "snippet": "16 crude bombs recovered from CNG in Keraniganj; 2 AL activists held"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শেখ হাসিনার ফেরার পরিকল্পনা ও প্রত্যর্পণ আলাদা বিষয়: ভারত",
-        "title_en": "India separates Sheikh Hasina’s return plan from her extradition request",
-        "summary_bn": "বাংলাদেশের সাবেক প্রধানমন্ত্রী শেখ হাসিনার দেশে ফেরার পরিকল্পনা এবং তাকে প্রত্যর্পণের অনুরোধ আলাদা বিষয় বলে জানিয়েছে ভারতের পররাষ্ট্র মন্ত্রণালয়।",
-        "summary_en": "India’s Ministry of External Affairs stated that Sheikh Hasina’s plan to return to Bangladesh and her extradition request are separate issues.",
+        "title_bn": "কেরানীগঞ্জে সিএনজি থেকে ১৬টি ককটেল উদ্ধার, আটক ২",
+        "title_en": "16 crude bombs recovered from CNG in Keraniganj; 2 arrested",
+        "summary_bn": "কেরানীগঞ্জে একটি সিএনজি চালিত অটোরিকশা থেকে ১৬টি ককটেল উদ্ধার করেছে পুলিশ এবং দুই আওয়ামী লীগ কর্মীকে আটক করেছে।",
+        "summary_en": "Police recovered 16 crude bombs from a CNG-run autorickshaw in Keraniganj and arrested two Awami League activists.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-25T18:01:32+00:00",
-        "lead_bn": "বাংলাদেশের সাবেক প্রধানমন্ত্রী শেখ হাসিনার দেশে ফেরার পরিকল্পনা এবং তাকে প্রত্যর্পণের অনুরোধ আলাদা বিষয় বলে জানিয়েছে ভারতের পররাষ্ট্র মন্ত্রণালয়।",
-        "lead_en": "India’s Ministry of External Affairs stated that Sheikh Hasina’s plan to return to Bangladesh and her extradition request are separate issues.",
+        "published_at": "2026-11-25T18:05:18+00:00",
+        "lead_bn": "কেরানীগঞ্জে একটি সিএনজি চালিত অটোরিকশা থেকে ১৬টি ককটেল উদ্ধার করেছে পুলিশ এবং দুই আওয়ামী লীগ কর্মীকে আটক করেছে।",
+        "lead_en": "Police recovered 16 crude bombs from a CNG-run autorickshaw in Keraniganj and arrested two Awami League activists.",
         "bullets_bn": [
-          "এমইএর মুখপাত্র রণধীর জয়সওয়াল জানান, ট্রাভেল ডকুমেন্টে স্বেচ্ছায় ফেরা এবং বাংলাদেশের প্রত্যর্পণের অনুরোধ সম্পূর্ণ আলাদা বিষয়।",
-          "অধ্যাপক মুহাম্মদ ইউনূসের অন্তর্বর্তী সরকারের দেওয়া প্রত্যর্পণের অনুরোধটি ভারতের প্রচলিত প্রক্রিয়া অনুযায়ী পরীক্ষা করে দেখা হচ্ছে।",
-          "দেশে ফিরতে শেখ হাসিনা যুক্তরাজ্যভিত্তিক এক ল ফার্মের মাধ্যমে নতুন পাসপোর্ট চেয়ে বাংলাদেশ হাইকমিশনে আবেদন জানিয়েছেন।"
+          "পুলিশ জানিয়েছে, কেরানীগঞ্জের একটি চেকপোস্টে দুই ব্যক্তিকে আটক করা হয়।",
+          "সিআইডির বোমা নিষ্ক্রিয়করণ ইউনিট পরে বিস্ফোরগুলো নিরাপদে নিষ্ক্রিয় করে।",
+          "আটক দুই কথিত আওয়ামী লীগ কর্মীর বিরুদ্ধে বিস্ফোরক আইনে মামলা দায়ের করা হয়েছে।"
         ],
         "bullets_en": [
-          "MEA spokesperson Randhir Jaiswal said returning voluntarily on a travel document is separate from Bangladesh’s extradition request.",
-          "The extradition request from Prof. Mohammed Yunus’s interim government is being examined according to India’s established processes.",
-          "Hasina requested the Bangladesh High Commission via a U.K. law firm for a fresh passport to return home."
+          "Police say the two men were arrested at a checkpoint in Keraniganj.",
+          "A CID bomb disposal team later detonated the explosives safely.",
+          "A case was filed under the Explosive Substances Act against the two alleged Awami League activists."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "গোপালগঞ্জ ও নড়াইলসহ বিভিন্ন স্থানে আওয়ামী লীগ সমর্থকেরা বিক্ষোভ করছেন, যেখানে কর্মীদের লক্ষ্য করেছে আইনপ্রয়োগকারী সংস্থা। ভারত বাংলাদেশে সংখ্যালঘুদের ওপর সহিংসতার ঘটনায় উদ্বেগ প্রকাশ করে এসব ঘটনার তদন্ত ও বিচার নিশ্চিত করার আহ্বান জানিয়েছে।",
-        "details_en": "Awami League supporters have been agitating in places including Gopalganj and Narail. India also expressed concern over incidents of violence against minorities in Bangladesh and urged authorities to investigate thoroughly.",
-        "hook_bn": "'স্বচ্ছায় ফেরা ও প্রত্যর্পণ আলাদা বিষয়'",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "কেরানীগঞ্জে সিএনজি থেকে ১৬ ককটেল উদ্ধার",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 8.0,
-      "outlet_count": 3,
-      "trending": true,
-      "social_appeal": 9.0,
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-25T19:04:27.058150+00:00"
+        "checked_at": "2026-11-25T20:02:59.524126+00:00"
       }
     },
     {
-      "story_id": "dba3961e-da43-5c70-9830-b603983e889e",
+      "story_id": "813ea2a4-f39d-5566-aa05-7407a3f293be",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#JuboDal",
+        "#JuboLeague",
+        "#Dhaka"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/26/noyon.png",
+      "image_caption": null,
+      "published_at": "2026-11-25T18:35:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.313,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/politics/jubo-dals-noyan-hands-over-al-activist-police-after-serving-him-fruit-cheese",
+          "title": "Jubo Dal's Noyan hands over AL activist to police after serving him fruit, cheese",
+          "snippet": "Jubo Dal's Noyan hands over AL activist to police after serving him fruit, cheese"
+        },
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/crime/kkgu3ey2yv",
+          "title": "এবার বাড়ি ঘেরাও করে আওয়ামী লীগ সন্দেহে ২০ জনকে পুলিশে দিলেন যুবদল নেতা নয়ন",
+          "snippet": "এবার বাড়ি ঘেরাও করে আওয়ামী লীগ সন্দেহে ২০ জনকে পুলিশে দিলেন যুবদল নেতা নয়ন"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/national/500900",
+          "title": "আপত্তিকর ভিডিও ভাইরাল : দলীয় পদ হারালেন ছাত্রদল নেতা নয়ন",
+          "snippet": "আপত্তিকর ভিডিও ভাইরাল : দলীয় পদ হারালেন ছাত্রদল নেতা নয়ন"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যুবদল নেতা নয়ন নাশকতা পরিকল্পনার অভিযোগে আওয়ামী লীগ কর্মীকে পুলিশে সঁপে দিয়েছেন।",
+        "title_en": "Jubo Dal leader Noyan hands over AL activist to police over sabotage plots.",
+        "summary_bn": "জাতীয়তাবাদী যুবদলের ঢাকা মহানগর দক্ষিণ ইউনিটের সদস্যসচিব রবিউল ইসলাম নয়ন নাশকতা পরিকল্পনার অভিযোগে এক যুবলীগ নেতাকে পুলিশে সঁপে দিয়েছেন।",
+        "summary_en": "Robiul Islam Noyan, member secretary of Jatiyatabadi Jubo Dal's Dhaka South City unit, handed over a Jubo League leader to police over sabotage plots.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-25T18:35:00+00:00",
+        "lead_bn": "জাতীয়তাবাদী যুবদলের ঢাকা মহানগর দক্ষিণ ইউনিটের সদস্যসচিব রবিউল ইসলাম নয়ন নাশকতা পরিকল্পনার অভিযোগে এক যুবলীগ নেতাকে পুলিশে সঁপে দিয়েছেন।",
+        "lead_en": "Robiul Islam Noyan, member secretary of Jatiyatabadi Jubo Dal's Dhaka South City unit, handed over a Jubo League leader to police over sabotage plots.",
+        "bullets_bn": [
+          "নয়ন রাতে নিজের ভেরিফায়েড ফেসবুক পেজে ঘটনার একটি ভিডিও পোস্ট করেছেন।",
+          "তিনি বলেন, রহমতুল্লাহ নামের ওই ব্যক্তি নাশকতার পরিকল্পনা করছিলেন এবং তিনি তাকে হাতেনাতে ধরেছেন।",
+          "নয়ন জানান, পুলিশে সঁপে দেওয়ার আগে তিনি রহমতুল্লাহকে ফল ও পনির খেতে দেন।"
+        ],
+        "bullets_en": [
+          "Noyan posted a video of the incident on his verified Facebook page at night.",
+          "He said Rahmatullah was planning acts of sabotage and he caught him red-handed.",
+          "Noyan said he served Rahmatullah fruit and cheese before handing him over to police."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "নাশকতার অভিযোগে যুবলীগ নেতাকে পুলিশে সঁপে দিলেন যুবদল নেতা",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 3,
+      "trending": true,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-25T20:02:59.524126+00:00"
+      }
+    },
+    {
+      "story_id": "65bcaa43-05e1-5d5b-a7cf-71cd1dfc0cac",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education",
@@ -94,46 +164,29 @@
       ],
       "region": "national",
       "tags": [
-        "#DhakaArichaHighway",
-        "#StudentProtest"
+        "#AntibioticResistance",
+        "#IEDCR",
+        "#Health"
       ],
-      "image_url": "https://images.unsplash.com/photo-1750091036429-c562076e4cdc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8c3R1ZGVudHMlMjBibG9jayUyMGhpZ2h3YXklMjBhbGxlZ2VkJTIwZWR1Y2F0aW9ufGVufDF8MHx8fDE3OTU2MzM0MTN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/bugs%20graph.jpg",
       "image_caption": null,
-      "published_at": "2026-11-25T17:35:17+00:00",
+      "published_at": "2026-11-25T18:00:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.75,
-      "rank_score": 5.5214,
+      "importance_score": 6.0,
+      "rank_score": 3.2033,
       "sources": [
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/campus1/425772/ju-students-block-highway-over-fellow%E2%80%99s-alleged",
-          "title": "JU students block highway over fellow’s alleged assault by Army men",
-          "snippet": "JU students block highway over fellow’s alleged assault by Army men"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/ju-students-block-highway-over-alleged-assault-army-personnel-1614171",
-          "title": "JU students block highway over alleged assault by army personnel",
-          "snippet": "JU students block highway over alleged assault by army personnel"
-        },
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/uian7i5zi2",
-          "title": "শিক্ষার্থীকে মারধরের অভিযোগে দুই ঘণ্টা ঢাকা-আরিচা মহাসড়ক অবরোধ",
-          "snippet": "শিক্ষার্থীকে মারধরের অভিযোগে দুই ঘণ্টা ঢাকা-আরিচা মহাসড়ক অবরোধ"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/ju-students-block-highway-over-fellows-alleged-assault-by-army-men",
-          "title": "JU students block highway over fellow’s alleged assault by Army men",
-          "snippet": "JU students block highway over fellow’s alleged assault by Army men"
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/more-bugs-beat-antibiotics-resistance-rises-4333336",
+          "title": "More bugs beat antibiotics as resistance rises",
+          "snippet": "More bugs beat antibiotics as resistance rises"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সহপাঠীকে সেনাসদস্যদের মারধরের অভিযোগে মহাসড়ক অবরোধ করেন জাবি শিক্ষার্থীরা",
-        "title_en": "JU students block highway over alleged assault of peer by Army personnel",
-        "summary_bn": "সহপাঠীকে সেনাসদস্যরা মারধর করেছেন এমন অভিযোগে ঢাকা-আরিচা মহাসড়ক দুই ঘণ্টা অবরোধ করেন জাহাঙ্গীরনগর বিশ্ববিদ্যালয়ের শিক্ষার্থীরা।",
-        "summary_en": "Jahangirnagar University students blocked the Dhaka-Aricha highway for two hours following allegations that Army personnel assaulted a fellow student.",
+        "title_bn": "দেশে অ্যান্টিবায়োটিকের কার্যকারিতা কমছে",
+        "title_en": "Antibiotic resistance is rising in the country",
+        "summary_bn": "জাতীয় নজরদারির নমুনা বিশ্লেষণে দেখা গেছে, দেশে ৫৫ শতাংশের বেশি নমুনায় অ্যান্টিবায়োটিকের বিরুদ্ধে বহুবিধ প্রতিরোধ ক্ষমতা তৈরি হয়েছে।",
+        "summary_en": "Around 55 percent of samples analyzed in national surveillance showed resistance to multiple antibiotics in the country.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -141,162 +194,100 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-25T17:35:17+00:00",
-        "lead_bn": "সহপাঠীকে সেনাসদস্যরা মারধর করেছেন এমন অভিযোগে ঢাকা-আরিচা মহাসড়ক দুই ঘণ্টা অবরোধ করেন জাহাঙ্গীরনগর বিশ্ববিদ্যালয়ের শিক্ষার্থীরা।",
-        "lead_en": "Jahangirnagar University students blocked the Dhaka-Aricha highway for two hours following allegations that Army personnel assaulted a fellow student.",
+        "published_at": "2026-11-25T18:00:00+00:00",
+        "lead_bn": "জাতীয় নজরদারির নমুনা বিশ্লেষণে দেখা গেছে, দেশে ৫৫ শতাংশের বেশি নমুনায় অ্যান্টিবায়োটিকের বিরুদ্ধে বহুবিধ প্রতিরোধ ক্ষমতা তৈরি হয়েছে।",
+        "lead_en": "Around 55 percent of samples analyzed in national surveillance showed resistance to multiple antibiotics in the country.",
         "bullets_bn": [
-          "আন্দোলনকারীরা অভিযুক্তদের বিরুদ্ধে ব্যবস্থা গ্রহণ এবং ভুক্তভোগী শিক্ষার্থীর চিকিৎসার ক্ষতিপূরণের দাবি জানান।",
-          "দাবি আদায় এবং ঘটনার সুস্পষ্ট ব্যাখ্যা না পাওয়া পর্যন্ত অবরোধ চালিয়ে যাওয়ার কথা জানিয়েছিলেন আন্দোলনকারীরা।",
-          "সেনা কর্মকর্তারা উপাচার্যকে তদন্তের আশ্বাস দেওয়ার পর শিক্ষার্থীরা মহাসড়ক অবরোধ তুলে নেন।"
+          "আইসিইউতে বহুবিধ অ্যান্টিবায়োটিক প্রতিরোধের হার বেড়ে ৯৩ শতাংশে দাঁড়িয়েছে।",
+          "আইইডিসিআর পরিচালিত এই জাতীয় নজরদারিতে ৯৯,৮৬৭টি নমুনা সংগ্রহ করা হয়।",
+          "বিশেষজ্ঞরা অতিরিক্ত অ্যান্টিবায়োটিক ব্যবহার এবং সচেতনতার অভাবকে এর জন্য দায়ী করেছেন।"
         ],
         "bullets_en": [
-          "Protesting students demanded action against the accused personnel and medical compensation for the victim.",
-          "Protesters initially stated the blockade would continue until their demands were met and the incident explained.",
-          "Students withdrew the blockade after Army officials assured the Vice-Chancellor of an investigation."
+          "The proportion of multidrug resistance rose to 93 percent in intensive care units.",
+          "The national surveillance conducted by IEDCR covered 99,867 samples.",
+          "Experts cited overprescription, poor infection control, and lack of awareness as key drivers."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "ঢাকা-আরিচা মহাসড়কে জাবি শিক্ষার্থীদের দুই ঘণ্টার অবরোধ",
-        "kicker_bn": null,
-        "share_value": false,
+        "impact_bn": "অ্যান্টিবায়োটিকের কার্যকারিতা কমে যাওয়ায় মানুষের গুরুতর অসুস্থতা, দীর্ঘ সময় হাসপাতালে থাকা এবং চিকিৎসা ব্যয় বাড়ার ঝুঁকি তৈরি হয়েছে।",
+        "impact_en": "Reduced antibiotic effectiveness leads to more critical illnesses, prolonged hospital stays, and increased healthcare costs.",
+        "details_bn": "আইইডিসিআরের প্রকাশিত জাতীয় অ্যান্টিমাইক্রোবিয়াল রেজিস্ট্যান্স নজরদারিতে জুলাই ২০২৫ থেকে জুন ২০২৬ সালের মধ্যে সংগৃহীত নমুনাগুলো বিশ্লেষণ করা হয়। বিশ্ব স্বাস্থ্য সংস্থার মতে, অ্যান্টিমাইক্রোবিয়াল রেজিস্ট্যান্সের কারণে সংক্রমণ চিকিৎসা করা কঠিন হয়ে পড়ে এবং অসুস্থতা ও মৃত্যুর ঝুঁকি বাড়ে।",
+        "details_en": "The National AMR Surveillance conducted by IEDCR analyzed samples between July 2025 and June 2026. According to the World Health Organisation, AMR occurs when pathogens no longer respond to antimicrobial medicines, making infections difficult or impossible to treat.",
+        "hook_bn": "অ্যান্টিবায়োটিকের কার্যকারিতা কমছে দেশে",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
         "question_bn": null
       },
-      "desk_importance": 7.0,
-      "outlet_count": 5,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-25T19:04:27.058150+00:00"
-      }
-    },
-    {
-      "story_id": "45994e64-001e-50d6-962d-a7955b5a6e10",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1652787542567-f86c0b4c0269?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YWRtaXNzaW9uJTIwbm90aWZpY2F0aW9uJTIwcHVibGlzaGVkJTIwbWVkaWNhbCUyMGVkdWNhdGlvbnxlbnwxfDB8fHwxNzk1NjMzNDI1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-25T18:57:23+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.8749,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/education/news/1183767",
-          "title": "মেডিকেল-ডেন্টালে ভর্তির বিজ্ঞপ্তি প্রকাশ, আবেদন শুরু",
-          "snippet": "মেডিকেল-ডেন্টালে ভর্তির বিজ্ঞপ্তি প্রকাশ, আবেদন শুরু"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মেডিকেল ও ডেন্টালে ভর্তির বিজ্ঞপ্তি প্রকাশ করা হয়েছে",
-        "title_en": "Admission notification published for medical and dental colleges",
-        "summary_bn": "সরকারি ও বেসরকারি মেডিকেল এবং ডেন্টাল কলেজের এমবিবিএস ও বিডিএস কোর্সে ভর্তির বিজ্ঞপ্তি প্রকাশ করা হয়েছে।",
-        "summary_en": "Admission notification has been published for MBBS and BDS courses in government and private medical and dental colleges.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-25T18:57:23+00:00",
-        "lead_bn": "সরকারি ও বেসরকারি মেডিকেল এবং ডেন্টাল কলেজের এমবিবিএস ও বিডিএস কোর্সে ভর্তির বিজ্ঞপ্তি প্রকাশ করা হয়েছে।",
-        "lead_en": "Admission notification has been published for MBBS and BDS courses in government and private medical and dental colleges.",
-        "bullets_bn": [
-          "২০২৬-২৭ শিক্ষাবর্ষের এমবিবিএস ও বিডিএস কোর্সে ভর্তির বিজ্ঞপ্তি প্রকাশ করা হয়েছে।",
-          "সরকারি ও বেসরকারি মেডিকেল ও ডেন্টাল কলেজে ভর্তির বিজ্ঞপ্তি প্রকাশ করা হয়েছে।",
-          "বিজ্ঞপ্তি প্রকাশের পাশাপাশি এরই মধ্যে আবেদন শুরু হয়েছে।"
-        ],
-        "bullets_en": [
-          "Admission notification has been published for MBBS and BDS courses for the 2026-27 academic year.",
-          "Notification has been released for admission to government and private medical and dental colleges.",
-          "Along with the publication of the notification, the application process has already started."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "মেডিকেল ও ডেন্টালে ভর্তির আবেদন শুরু",
-        "kicker_bn": "ভর্তি বিজ্ঞপ্তি",
-        "share_value": true,
-        "question_bn": "মেডিকেল ও ডেন্টাল ভর্তি পরীক্ষার জন্য আপনার প্রস্তুতি কেমন চলছে?"
-      },
-      "desk_importance": 7.0,
+      "desk_importance": 6.0,
       "outlet_count": 1,
       "trending": false,
-      "social_appeal": 9.0,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-25T19:04:27.058150+00:00"
+        "checked_at": "2026-11-25T20:02:59.524126+00:00"
       }
     },
     {
-      "story_id": "42824be5-9846-5aa5-8fef-6c5fe6ee8ecc",
-      "primary_category": "economy_business",
+      "story_id": "c6d6ff83-eec2-5b57-b027-12985d64ee8e",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
+        "world_diplomacy",
+        "governance_law",
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#BangladeshBank",
-        "#NationalBoardOfRevenue",
-        "#BankingSector"
+        "#BangladeshChinaRelations",
+        "#EconomicCorridor",
+        "#IsmailZabihullah",
+        "#Kunming"
       ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Govt-bank.jpg",
+      "image_url": "https://images.unsplash.com/photo-1592487501226-7ed5e5dc80f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGlwbG9tYWN5JTIwd29ybGQlMjBwb2xpdGljcyUyMGZsYWd8ZW58MXwwfHx8MTc5NTYwMTAyNXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
       "published_at": "2026-11-25T18:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.0,
-      "rank_score": 3.3891,
+      "rank_score": 3.2033,
       "sources": [
         {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/economy/news/govts-bank-borrowing-surges-72-jul-sept-revenue-falls-short-4333356",
-          "title": "Govt’s bank borrowing surges 72% in Jul-Sept as revenue falls short",
-          "snippet": "Govt’s bank borrowing surges 72% in Jul-Sept as revenue falls short"
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/dhaka-mulls-new-corridor-china-myanmar-4333321",
+          "title": "Dhaka mulls new corridor to China via Myanmar",
+          "snippet": "Dhaka mulls new corridor to China via Myanmar"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রাজস্ব ঘাটতির মধ্যে জুলাই-সেপ্টেম্বরে সরকারের ব্যাংক ঋণ ৭২ শতাংশ বেড়েছে।",
-        "title_en": "Govts bank borrowing surges 72 percent in July-September amid revenue shortfall.",
-        "summary_bn": "রাজস্ব আদায় লক্ষ্যমাত্রা অনুযায়ী না হওয়ায় বাজেট ঘাটতি মেটাতে চলতি অর্থবছরের প্রথম প্রান্তিকে ব্যাংকিং খাত থেকে সরকারের নিট ঋণ ৭২ শতাংশ বেড়েছে।",
-        "summary_en": "The governments net borrowing from the banking system rose 72 percent year-on-year in July-September as revenue collection fell short.",
+        "title_bn": "মিয়ানমার হয়ে চীনের সাথে নতুন অর্থনৈতিক করিডোর বিবেচনা করছে বাংলাদেশ",
+        "title_en": "Bangladesh explores new economic corridor to China via Myanmar",
+        "summary_bn": "রাখাইন রাজ্যের অস্থিতিশীলতার কারণে বাংলাদেশ মিয়ানমার হয়ে চীনের কুমিং অঞ্চলের সঙ্গে একটি নতুন অর্থনৈতিক করিডোর তৈরির সম্ভাবনা বিবেচনা করছে।",
+        "summary_en": "Bangladesh is exploring a new economic corridor connecting to China's Kunming region via Myanmar amid ongoing instability in Rakhine State.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "world_diplomacy",
+          "governance_law",
           "economy_business"
         ],
         "read_time_seconds": 60,
         "published_at": "2026-11-25T18:00:00+00:00",
-        "lead_bn": "রাজস্ব আদায় লক্ষ্যমাত্রা অনুযায়ী না হওয়ায় বাজেট ঘাটতি মেটাতে চলতি অর্থবছরের প্রথম প্রান্তিকে ব্যাংকিং খাত থেকে সরকারের নিট ঋণ ৭২ শতাংশ বেড়েছে।",
-        "lead_en": "The governments net borrowing from the banking system rose 72 percent year-on-year in July-September as revenue collection fell short.",
+        "lead_bn": "রাখাইন রাজ্যের অস্থিতিশীলতার কারণে বাংলাদেশ মিয়ানমার হয়ে চীনের কুমিং অঞ্চলের সঙ্গে একটি নতুন অর্থনৈতিক করিডোর তৈরির সম্ভাবনা বিবেচনা করছে।",
+        "lead_en": "Bangladesh is exploring a new economic corridor connecting to China's Kunming region via Myanmar amid ongoing instability in Rakhine State.",
         "bullets_bn": [
-          "বাংলাদেশ ব্যাংক জানিয়েছে, একই সময়ে ব্যাংক ও অ-ব্যাংক উৎস থেকে মোট নিট দেশীয় অর্থায়ন ৩৮ শতাংশ বৃদ্ধি পেয়েছে।",
-          "প্রথম প্রান্তিকে সরকারের মোট নিট দেশীয় অর্থায়নের ৮৭.৭ শতাংশ এসেছে ব্যাংকগুলো থেকে, যা এক বছর আগে ছিল ৭০.৬ শতাংশ।",
-          "জাতীয় রাজস্ব বোর্ড বা এনবিআর প্রথম প্রান্তিকে ৯২ হাজার কোটি টাকার লক্ষ্যমাত্রার বিপরীতে ৪২ হাজার কোটি টাকা কম সংগ্রহ করেছে।"
+          "বাংলাদেশ-চীন সম্পর্ক বিষয়ক ২০২৬ ঢাকা ফোরামে প্রধানমন্ত্রীর জনপ্রশাসন উপদেষ্টা ইসমাইল জবিউল্লাহ প্রস্তাবিত চীন-মিয়ানমার-বাংলাদেশ অর্থনৈতিক করিডোরের কথা জানান।",
+          "ইসমাইল বলেন, এই করিডোর আঞ্চলিক একত্রীকরণ, বাণিজ্য, চিকিৎসা পর্যটন ও শিক্ষা বিনিময় বাড়াবে, তবে এর জন্য রাজনৈতিক ও নিরাপত্তা বিবেচনা প্রয়োজন।",
+          "তিনি করিডোরটি বাস্তবায়নে জোরালো গবেষণা, নীতি সংলাপ, তথ্যভিত্তিক মূল্যায়ন এবং সম্ভাব্যতা সমীক্ষা পরিচালনা করার আহ্বান জানান।"
         ],
         "bullets_en": [
-          "Bangladesh Bank data shows total net domestic financing increased 38 percent during the same period.",
-          "Banks accounted for 87.7 percent of total net domestic financing in the first quarter, up from 70.6 percent a year earlier.",
-          "The National Board of Revenue fell Tk 42,000 crore short of its first-quarter collection target of Tk 92,000 crore."
+          "Public administration adviser Ismail Zabihullah announced the proposed China-Myanmar-Bangladesh Economic Corridor at the 2026 Dhaka Forum on Bangladesh-China Relations.",
+          "Ismail stated the corridor would foster regional integration, trade, medical tourism, and educational exchanges, requiring security and political considerations.",
+          "He called for research, policy dialogue, evidence-based assessments, and feasibility studies to identify viable pathways for developing the corridor."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বাংলাদেশ ব্যাংকের তথ্য অনুযায়ী, অর্থবছরের প্রথম প্রান্তিকে অ-ব্যাংক উৎস থেকে নিট অর্থায়ন ৪২ শতাংশ কমেছে। তবে এই সময়ে জাতীয় সঞ্চয়পত্রের নিট বিক্রি ২৭.৯৫ শতাংশ বৃদ্ধি পেয়েছে। দুর্বল রাজস্ব আদায়ের প্রেক্ষাপটে অভ্যন্তরীণ ব্যাংকগুলোর ওপর সরকারের এই নির্ভরশীলতা বৃদ্ধি পেয়েছে।",
-        "details_en": "According to Bangladesh Bank data, net financing from non-bank sources fell 42 percent while net sales of national savings certificates increased 27.95 percent during the period. The growing dependence on domestic banks came amid weak revenue mobilisation by the National Board of Revenue.",
-        "hook_bn": "৯২ হাজার কোটি টাকার লক্ষ্যমাত্রায় ৪২ হাজার কোটি টাকা ঘাটতি এনবিআরের",
-        "kicker_bn": "রাজস্ব ঘাটতি",
+        "details_bn": "গত জুনে প্রধানমন্ত্রী তারেক রহমানের চীন সফরের পর প্রস্তাবিত এই করিডোর নিয়ে আলোচনা শুরু হয়। রাখাইন রাজ্যের অস্থিতিশীলতা আঞ্চলিক সংযোগ পরিকল্পনায় চ্যালেঞ্জ তৈরি করায় এই উদ্যোগ নেওয়া হচ্ছে। উপদেষ্টা ইসমাইল জবিউল্লাহ জানান, এশিয়ার পরিবর্তনশীল অর্থনৈতিক পরিমণ্ডলে বাংলাদেশের ভৌগোলিক অবস্থান বিশেষ সুবিধা দিচ্ছে। তিনি প্রকল্পটিকে কেবল অবকাঠামো হিসেবে না দেখে সংশ্লিষ্ট দেশগুলোর মধ্যে ব্যবহারিক সহযোগিতার বিস্তৃত কাঠামো হিসেবে বিবেচনার আহ্বান জানান।",
+        "details_en": "Discussions on the proposed economic corridor emerged following Prime Minister Tarique Rahman's visit to China in June. The initiative comes as instability in Rakhine State poses challenges to regional connectivity plans. Adviser Ismail Zabihullah highlighted that Bangladesh's geographical position offers a distinct advantage in Asia's changing economic landscape, emphasizing that the project should serve as a broader framework for practical cooperation among relevant stakeholders.",
+        "hook_bn": "মিয়ানমার হয়ে চীনের সঙ্গে নতুন অর্থনৈতিক করিডোর",
+        "kicker_bn": null,
         "share_value": false,
-        "question_bn": "রাজস্ব আদায় বাড়াতে সরকারের কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
+        "question_bn": "চীন ও মিয়ানমারের সঙ্গে এই নতুন অর্থনৈতিক করিডোর প্রস্তাব নিয়ে আপনার মতামত কী?"
       },
       "desk_importance": 6.0,
       "outlet_count": 1,
@@ -304,7 +295,153 @@
       "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-25T19:04:27.058150+00:00"
+        "checked_at": "2026-11-25T20:02:59.524126+00:00"
+      }
+    },
+    {
+      "story_id": "6f11f7a0-8274-58e0-9aa1-b0970a72859f",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "world_diplomacy",
+        "sports_fitness"
+      ],
+      "region": "international",
+      "tags": [
+        "#Nasa",
+        "#Asteroid",
+        "#Dimorphos",
+        "#Hera"
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8562/live/1f8d5d00-e8ec-11f1-a094-5fdc692f3e33.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-25T17:30:16+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.5,
+      "rank_score": 2.6157,
+      "sources": [
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+          "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+          "snippet": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater"
+        },
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/25/us-army-declares-iowa-lead-azide-detonation-tremendously-successful?traffic_source=rss",
+          "title": "US Army declares Iowa lead azide detonation ‘tremendously successful’",
+          "snippet": "US Army declares Iowa lead azide detonation ‘tremendously successful’"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নাসার মহাকাশযানের ধাক্কায় গ্রহাণুতে তৈরি হয়েছে স্টেডিয়াম আকৃতির গহ্বর।",
+        "title_en": "Nasa spacecraft impact creates stadium-sized crater on asteroid.",
+        "summary_bn": "নাসার মহাকাশযানের ধাক্কায় ডিমরফস গ্রহাণুর পৃষ্ঠে একটি স্টেডিয়ামের সমান বড় গহ্বর তৈরি হয়েছে।",
+        "summary_en": "First images of the asteroid targeted by Nasa reveal a stadium-sized crater on its surface.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation",
+          "world_diplomacy",
+          "sports_fitness"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-25T17:30:16+00:00",
+        "lead_bn": "নাসার মহাকাশযানের ধাক্কায় ডিমরফস গ্রহাণুর পৃষ্ঠে একটি স্টেডিয়ামের সমান বড় গহ্বর তৈরি হয়েছে।",
+        "lead_en": "First images of the asteroid targeted by Nasa reveal a stadium-sized crater on its surface.",
+        "bullets_bn": [
+          "২০২২ সালে ডিমরফস গ্রহাণুর সঙ্গে নাসা মহাকাশযানটি আঘাত হানে।",
+          "গ্রহাণুটির গহ্বরটি এর দেহের প্রায় সমান বড় বলে জানিয়েছেন ড. সাবিনা রাডুকান।",
+          "সংঘর্ষের পরিণতি মূল্যায়ন করতে ইউরোপিয়ান স্পেস এজেন্সির একটি যান কাজ করছে।"
+        ],
+        "bullets_en": [
+          "A Nasa spacecraft hit the asteroid Dimorphos in the year 2022.",
+          "Dr Sabina Raducan stated that the crater is almost as large as the body itself.",
+          "A European Space Agency spacecraft is scouring the scene to fully assess the aftermath."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "গ্রহাণুটির কক্ষপথ পরিবর্তনের পরীক্ষার অংশ হিসেবে ২০২২ সালে নাসা এই সংঘর্ষ ঘটায়। ১৪,০০০ মাইল বা ২২,০০০ কিলোমিটার গতিতে ডার্ট নামের ওই মহাকাশযান ডিমরফসকে ধাক্কা দেয়। এই সংঘর্ষের ফলে ১০,০০০ কিলোমিটার দীর্ঘ ধ্বংসাবশেষের সৃষ্টি হয়েছিল। ডিমরফস নামের এই গ্রহাণুটি আকারে প্রায় ১৫০ মিটার বা ৫০০ ফুট প্রশস্ত এবং এটি দিদিমফস নামক বড় একটি গ্রহাণুকে প্রদক্ষিণ করে।",
+        "details_en": "The 2022 crash test was carried out by a Nasa spacecraft called Dart which hurtled into Dimorphos at 14,000mph. The impact created a trail of debris measuring about 6,200 miles long. Dimorphos is about 150m wide and orbits around a larger space rock called Didymos.",
+        "hook_bn": "গ্রহাণুতে স্টেডিয়ামের সমান বড় গহ্বর",
+        "kicker_bn": "মহাকাশ গবেষণা",
+        "share_value": false,
+        "question_bn": "গ্রহাণু থেকে পৃথিবীর সুরক্ষার এই পরীক্ষাকে আপনি কীভাবে দেখছেন?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": true,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-25T20:02:59.524126+00:00"
+      }
+    },
+    {
+      "story_id": "e94045c1-ecb4-50f3-897d-4251bf8dc78d",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#BenjaminNetanyahu",
+        "#Israel"
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d91d/live/f0a5ecf0-e8fa-11f1-99b6-a35a62fa4264.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-25T19:47:39+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4674,
+      "sources": [
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+          "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+          "snippet": "Israeli judges recommend dropping most serious charges against Netanyahu"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইসরায়েলি বিচারকরা নেতানিয়াহুর বিরুদ্ধে গুরুতর অভিযোগ বাদ দেওয়ার সুপারিশ করেছেন",
+        "title_en": "Israeli judges recommend dropping most serious charges against Netanyahu",
+        "summary_bn": "ইসরায়েলি বিচারকরা কেয়ারটেকার প্রধানমন্ত্রী বেঞ্জামিন নেতানিয়াহুর বিরুদ্ধে ঘুষের অভিযোগ বাদ দেওয়ার পরামর্শ দিয়েছেন।",
+        "summary_en": "Judges in Israel have suggested prosecutors drop bribery charges against caretaker prime minister Benjamin Netanyahu.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-25T19:47:39+00:00",
+        "lead_bn": "ইসরায়েলি বিচারকরা কেয়ারটেকার প্রধানমন্ত্রী বেঞ্জামিন নেতানিয়াহুর বিরুদ্ধে ঘুষের অভিযোগ বাদ দেওয়ার পরামর্শ দিয়েছেন।",
+        "lead_en": "Judges in Israel have suggested prosecutors drop bribery charges against caretaker prime minister Benjamin Netanyahu.",
+        "bullets_bn": [
+          "বিচারকরা বলেছেন প্রথম মামলাটিতে দোষী সাব্যস্ত হওয়ার সম্ভাবনা খুবই কম।",
+          "বেঞ্জামিন নেতানিয়াহু বিচার অবিলম্বে শেষ করার আহ্বান জানিয়েছেন।",
+          "নেতানিয়াহু প্রথম অভিযুক্ত হন ২০১৯ সালে।"
+        ],
+        "bullets_en": [
+          "The judges told the attorney general there was little chance of conviction in the first case.",
+          "Benjamin Netanyahu called for the trial to be ended immediately.",
+          "Netanyahu was first charged in 2019."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বেঞ্জামিন নেতানিয়াহু তিনটি মামলার মুখোমুখি হচ্ছেন। প্রথম মামলাটিতে তার বিরুদ্ধে সরকারি সুবিধা পাইয়ে দেওয়ার বিনিময়ে অনুকূল মিডিয়া কভারেজ নেওয়ার অভিযোগ রয়েছে। বিচারকরা দ্বিতীয় দুর্নীতি মামলায় তার আচরণ অপরাধমূলক কি না তা নিয়েও প্রশ্ন তুলেছেন এবং তৃতীয়টিতে plea deal চাওয়ার পরামর্শ দিয়েছেন। সাম্প্রতিক ইসরায়েল-গাজা যুদ্ধের কারণে আদালতের কার্যক্রম দীর্ঘায়িত হয়েছে।",
+        "details_en": "Netanyahu is facing three cases, the first involving allegations of granting government favours for positive media coverage. Judges also questioned conduct in a second corruption case and suggested a plea deal in a third, while court proceedings have been prolonged by the recent Israel-Gaza war.",
+        "hook_bn": "বিচার অবিলম্বে শেষ করার আহ্বান নেতানিয়াহুর",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-25T20:02:59.524126+00:00"
       }
     }
   ]
