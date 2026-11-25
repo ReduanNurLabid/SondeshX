@@ -1,74 +1,157 @@
 {
-  "updated_at": "2026-11-25T03:00:49.505463",
-  "total_stories": 1,
+  "updated_at": "2026-11-25T04:00:47.885778",
+  "total_stories": 2,
   "stories": [
     {
-      "story_id": "8fd0092a-7ea7-5a92-8327-4f7f3b2a6f90",
+      "story_id": "805926af-91ab-5ce4-b883-4271092148cf",
       "primary_category": "climate_environment",
       "interest_categories": [
         "climate_environment",
-        "governance_law"
+        "world_diplomacy",
+        "society_education"
       ],
       "region": "national",
       "tags": [
-        "#Climate",
-        "#Environment"
+        "#DhakaAirPollution",
+        "#IQAir"
       ],
-      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/kurigram-01-20261125083045.jpg?cid=500654",
+      "image_url": "https://images.unsplash.com/photo-1706725535076-ce1bd3cc98d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGhha2ElMjBhaXIlMjBiZWNvbWVzJTIwdmVyeSUyMGVudmlyb25tZW50fGVufDF8MHx8fDE3OTU1NzkyNzl8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-25T02:30:45+00:00",
+      "published_at": "2026-11-25T03:44:26+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 4.1031,
+      "importance_score": 6.25,
+      "rank_score": 3.8436,
       "sources": [
         {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/country/500654",
-          "title": "কনকনে শীতে বিপর্যস্ত জনজীবন, কুড়িগ্রামে দুর্ভোগে খেটে খাওয়া মানুষ",
-          "snippet": "কনকনে শীতে বিপর্যস্ত জনজীবন, কুড়িগ্রামে দুর্ভোগে খেটে খাওয়া মানুষ"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/dhaka/425694/dhaka-s-air-pollution-worsens-as-winter-sets-in",
+          "title": "Dhaka's air pollution worsens as winter sets in, raising health risks",
+          "snippet": "Dhaka's air pollution worsens as winter sets in, raising health risks"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822880/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B8-%E0%A6%86%E0%A6%9C-%E2%80%98%E0%A6%96%E0%A7%81%E0%A6%AC%E0%A6%87-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A6%B0%E2%80%99-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A7%80",
+          "title": "ঢাকার বাতাস আজ ‘খুবই অস্বাস্থ্যকর’, বিশ্বব্যাপী তালিকায় অবস্থান চতুর্থ",
+          "snippet": "ঢাকার বাতাস আজ ‘খুবই অস্বাস্থ্যকর’, বিশ্বব্যাপী তালিকায় অবস্থান চতুর্থ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "কনকনে শীতে বিপর্যস্ত কুড়িগ্রামের জনজীবন",
-        "title_en": "Kurigram life disrupted by severe winter cold",
-        "summary_bn": "টানা গুঁড়ি গুঁড়ি বৃষ্টি, ঘন কুয়াশা ও হিমেল বাতাসে কুড়িগ্রামে জনজীবন বিপর্যস্ত হয়ে পড়েছে।",
-        "summary_en": "Normal life in Kurigram has been disrupted by continuous drizzle, dense fog, and cold winds.",
+        "title_bn": "শীতের শুরুতে ঢাকার বাতাস খুবই অস্বাস্থ্যকর",
+        "title_en": "Dhaka air becomes very unhealthy as winter sets in",
+        "summary_bn": "শীতের শুরুতেই রাজধানীর বাতাসে দূষণের মাত্রা বাড়ছে এবং ঢাকা বিশ্বের দূষিত শহরগুলোর তালিকায় স্থান পেয়েছে।",
+        "summary_en": "Pollution levels are rising in Dhaka's air with the onset of winter as the city ranks among the world's polluted cities.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "climate_environment",
-          "governance_law"
+          "world_diplomacy",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-25T02:30:45+00:00",
-        "lead_bn": "টানা গুঁড়ি গুঁড়ি বৃষ্টি, ঘন কুয়াশা ও হিমেল বাতাসে কুড়িগ্রামে জনজীবন বিপর্যস্ত হয়ে পড়েছে।",
-        "lead_en": "Normal life in Kurigram has been disrupted by continuous drizzle, dense fog, and cold winds.",
+        "published_at": "2026-11-25T03:44:26+00:00",
+        "lead_bn": "শীতের শুরুতেই রাজধানীর বাতাসে দূষণের মাত্রা বাড়ছে এবং ঢাকা বিশ্বের দূষিত শহরগুলোর তালিকায় স্থান পেয়েছে।",
+        "lead_en": "Pollution levels are rising in Dhaka's air with the onset of winter as the city ranks among the world's polluted cities.",
         "bullets_bn": [
-          "জেলায় সর্বনিম্ন তাপমাত্রা রেকর্ড করা হয়েছে ১৪ ডিগ্রি সেলসিয়াস।",
-          "ঠান্ডার কারণে কৃষিকাজে ব্যাঘাত ঘটছে এবং ঠান্ডাজনিত রোগে হাসপাতালে রোগীর সংখ্যা বাড়ছে।",
-          "রাজারহাট কৃষি আবহাওয়া পর্যবেক্ষণ কেন্দ্রের ভারপ্রাপ্ত কর্মকর্তা সুবল চন্দ্র সরকার এই তথ্য জানিয়েছেন।"
+          "আন্তর্জাতিক বায়ুমান পর্যবেক্ষণকারী প্রতিষ্ঠান আইকিউএয়ারের লাইভ সূচক অনুযায়ী ঢাকার বাতাস খুবই অস্বাস্থ্যকর হিসেবে বিবেচিত হয়েছে।",
+          "আইকিউএয়ারের তথ্য অনুযায়ী পাকিস্তানের লাহোর ২৭৯ স্কোর নিয়ে বায়ুদূষণে শীর্ষে রয়েছে।",
+          "ঢাকার বাতাস দূষণের কারণে স্বাস্থ্যঝুঁকি তৈরি হচ্ছে।"
         ],
         "bullets_en": [
-          "The lowest temperature in the district was recorded at 14 degrees Celsius on Wednesday morning.",
-          "Agricultural work is disrupted and the number of patients in hospitals with cold-related diseases is increasing.",
-          "Subol Chandra Sarkar, acting officer of the Rajarhat Agricultural Weather Observation Centre, provided this information."
+          "Dhaka's air was considered very unhealthy according to the live index of international air quality monitoring institution IQAir.",
+          "According to IQAir data, Pakistan's Lahore topped air pollution with a score of 279.",
+          "Air pollution in Dhaka is raising health risks."
         ],
-        "impact_bn": "ঠান্ডা ও হিমেল বাতাসে খেটে খাওয়া মানুষ, দিনমজুর, কৃষক, শিশু ও বয়স্করা সবচেয়ে বেশি ভোগান্তিতে পড়েছেন।",
-        "impact_en": "Working people, day laborers, farmers, children, and the elderly are suffering the most from the cold and chilly winds.",
-        "details_bn": "কয়েক দিনের টানা গুঁড়ি গুঁড়ি বৃষ্টির পর কুড়িগ্রামে জেঁকে বসেছে শীত। বঙ্গোপসাগরে সৃষ্ট নিম্নচাপের প্রভাবে বৃষ্টিপাত হয়েছে এবং বৃষ্টির পর তাপমাত্রা কমে যাওয়ায় শীতের অনুভূতি বেড়েছে। এছাড়া হিমালয়ের পাদদেশ থেকে আসা হিমেল বাতাসের কারণে রংপুর অঞ্চলে তুলনামূলক বেশি ঠান্ডা অনুভূত হচ্ছে। প্রয়োজনে বাইরে বের হওয়া মানুষ চরম ভোগান্তিতে পড়েছেন।",
-        "details_en": "Winter has gripped Kurigram following several days of continuous drizzle. Rainfall occurred due to a depression over the Bay of Bengal, and the drop in temperature after the rain increased the feeling of cold. Additionally, chilly winds coming from the foothills of the Himalayas are causing relatively more cold feeling in the Rangpur region. People going outside out of necessity are facing extreme suffering.",
-        "hook_bn": null,
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "শীতের শুরুতে ঢাকার বাতাস খুবই অস্বাস্থ্যকর",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": "আপনার এলাকায় কি বায়ুদূষণের মাত্রা বেশি মনে হচ্ছে?"
       },
       "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": true,
+      "outlet_count": 2,
+      "trending": false,
       "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-25T03:01:40.787481+00:00"
+        "checked_at": "2026-11-25T04:01:42.974414+00:00"
+      }
+    },
+    {
+      "story_id": "33887bdf-219c-5c4e-a055-0d19ee96985e",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2023-03%2Fcabc1ef1-6711-4be0-9fa6-e642c99496de%2F1.jpeg?rect=0%2C43%2C1599%2C839&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-25T03:30:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.25,
+      "rank_score": 3.7906,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/education/admission/8c3923qau0",
+          "title": "১০ বিশ্ববিদ্যালয়ে ভর্তির আবেদন শুরু আজ, জেনে নিন সব তথ্য",
+          "snippet": "১০ বিশ্ববিদ্যালয়ে ভর্তির আবেদন শুরু আজ, জেনে নিন সব তথ্য"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/education/500665",
+          "title": "চার বিশ্ববিদ্যালয় ও কৃষিগুচ্ছে ভর্তির তোড়জোড়, আজ শুরু আবেদন",
+          "snippet": "চার বিশ্ববিদ্যালয় ও কৃষিগুচ্ছে ভর্তির তোড়জোড়, আজ শুরু আবেদন"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "১০ বিশ্ববিদ্যালয়ে ভর্তির আবেদন শুরু হচ্ছে",
+        "title_en": "Admission applications begin for ten universities",
+        "summary_bn": "কৃষি গুচ্ছের ৯ বিশ্ববিদ্যালয় ও জগন্নাথ বিশ্ববিদ্যালয়ে ভর্তি আবেদন শুরু হয়েছে।",
+        "summary_en": "Admission applications have started for nine agricultural cluster universities and Jagannath University.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-25T03:30:00+00:00",
+        "lead_bn": "কৃষি গুচ্ছের ৯ বিশ্ববিদ্যালয় ও জগন্নাথ বিশ্ববিদ্যালয়ে ভর্তি আবেদন শুরু হয়েছে।",
+        "lead_en": "Admission applications have started for nine agricultural cluster universities and Jagannath University.",
+        "bullets_bn": [
+          "কৃষি গুচ্ছের বিশ্ববিদ্যালয়ে ভর্তির আবেদন করা যাবে ২৫ নভেম্বর থেকে আগামী ১৫ ডিসেম্বর পর্যন্ত।",
+          "কৃষি গুচ্ছের বিশ্ববিদ্যালয়ে আবেদন ফি ১ হাজার ৬০০ টাকা নির্ধারণ করা হয়েছে।",
+          "আগামী ২ জানুয়ারি ২০২৭ তারিখে কৃষি গুচ্ছের ভর্তি পরীক্ষা অনুষ্ঠিত হবে।"
+        ],
+        "bullets_en": [
+          "Applications for agricultural cluster universities can be submitted from 25 November to 15 December.",
+          "The application fee for agricultural cluster universities has been set at 1,600 taka.",
+          "The admission test for the agricultural cluster will be held on 2 January 2027."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "১০ বিশ্ববিদ্যালয়ে ভর্তির আবেদন শুরু",
+        "kicker_bn": "ভর্তি পরীক্ষা",
+        "share_value": true,
+        "question_bn": "কোন বিশ্ববিদ্যালয়ে আবেদন করতে চান?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-25T04:01:42.974414+00:00"
       }
     }
   ]
