@@ -1,5 +1,75 @@
 {
-  "updated_at": "2026-11-25T02:00:45.008324",
-  "total_stories": 0,
-  "stories": []
+  "updated_at": "2026-11-25T03:00:49.505463",
+  "total_stories": 1,
+  "stories": [
+    {
+      "story_id": "8fd0092a-7ea7-5a92-8327-4f7f3b2a6f90",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/kurigram-01-20261125083045.jpg?cid=500654",
+      "image_caption": null,
+      "published_at": "2026-11-25T02:30:45+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.5,
+      "rank_score": 4.1031,
+      "sources": [
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/country/500654",
+          "title": "কনকনে শীতে বিপর্যস্ত জনজীবন, কুড়িগ্রামে দুর্ভোগে খেটে খাওয়া মানুষ",
+          "snippet": "কনকনে শীতে বিপর্যস্ত জনজীবন, কুড়িগ্রামে দুর্ভোগে খেটে খাওয়া মানুষ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কনকনে শীতে বিপর্যস্ত কুড়িগ্রামের জনজীবন",
+        "title_en": "Kurigram life disrupted by severe winter cold",
+        "summary_bn": "টানা গুঁড়ি গুঁড়ি বৃষ্টি, ঘন কুয়াশা ও হিমেল বাতাসে কুড়িগ্রামে জনজীবন বিপর্যস্ত হয়ে পড়েছে।",
+        "summary_en": "Normal life in Kurigram has been disrupted by continuous drizzle, dense fog, and cold winds.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-25T02:30:45+00:00",
+        "lead_bn": "টানা গুঁড়ি গুঁড়ি বৃষ্টি, ঘন কুয়াশা ও হিমেল বাতাসে কুড়িগ্রামে জনজীবন বিপর্যস্ত হয়ে পড়েছে।",
+        "lead_en": "Normal life in Kurigram has been disrupted by continuous drizzle, dense fog, and cold winds.",
+        "bullets_bn": [
+          "জেলায় সর্বনিম্ন তাপমাত্রা রেকর্ড করা হয়েছে ১৪ ডিগ্রি সেলসিয়াস।",
+          "ঠান্ডার কারণে কৃষিকাজে ব্যাঘাত ঘটছে এবং ঠান্ডাজনিত রোগে হাসপাতালে রোগীর সংখ্যা বাড়ছে।",
+          "রাজারহাট কৃষি আবহাওয়া পর্যবেক্ষণ কেন্দ্রের ভারপ্রাপ্ত কর্মকর্তা সুবল চন্দ্র সরকার এই তথ্য জানিয়েছেন।"
+        ],
+        "bullets_en": [
+          "The lowest temperature in the district was recorded at 14 degrees Celsius on Wednesday morning.",
+          "Agricultural work is disrupted and the number of patients in hospitals with cold-related diseases is increasing.",
+          "Subol Chandra Sarkar, acting officer of the Rajarhat Agricultural Weather Observation Centre, provided this information."
+        ],
+        "impact_bn": "ঠান্ডা ও হিমেল বাতাসে খেটে খাওয়া মানুষ, দিনমজুর, কৃষক, শিশু ও বয়স্করা সবচেয়ে বেশি ভোগান্তিতে পড়েছেন।",
+        "impact_en": "Working people, day laborers, farmers, children, and the elderly are suffering the most from the cold and chilly winds.",
+        "details_bn": "কয়েক দিনের টানা গুঁড়ি গুঁড়ি বৃষ্টির পর কুড়িগ্রামে জেঁকে বসেছে শীত। বঙ্গোপসাগরে সৃষ্ট নিম্নচাপের প্রভাবে বৃষ্টিপাত হয়েছে এবং বৃষ্টির পর তাপমাত্রা কমে যাওয়ায় শীতের অনুভূতি বেড়েছে। এছাড়া হিমালয়ের পাদদেশ থেকে আসা হিমেল বাতাসের কারণে রংপুর অঞ্চলে তুলনামূলক বেশি ঠান্ডা অনুভূত হচ্ছে। প্রয়োজনে বাইরে বের হওয়া মানুষ চরম ভোগান্তিতে পড়েছেন।",
+        "details_en": "Winter has gripped Kurigram following several days of continuous drizzle. Rainfall occurred due to a depression over the Bay of Bengal, and the drop in temperature after the rain increased the feeling of cold. Additionally, chilly winds coming from the foothills of the Himalayas are causing relatively more cold feeling in the Rangpur region. People going outside out of necessity are facing extreme suffering.",
+        "hook_bn": null,
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-25T03:01:40.787481+00:00"
+      }
+    }
+  ]
 }
