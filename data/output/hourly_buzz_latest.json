@@ -1,246 +1,464 @@
 {
-  "updated_at": "2026-11-25T06:00:42.344447",
-  "total_stories": 3,
+  "updated_at": "2026-11-25T07:00:44.366906",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "b9a0e8a5-b7e3-59df-8b23-9da104e164cd",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Narayanganj",
-        "#BangladeshPolice",
-        "#Fatullah"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/25/dead_constable.jpeg",
-      "image_caption": null,
-      "published_at": "2026-11-25T05:55:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 4.1974,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/6-arrested-over-constables-murder-nganj-one-shot-while-fleeing-1613341",
-          "title": "6 arrested over constable's murder in N'ganj, one shot while fleeing",
-          "snippet": "6 arrested over constable's murder in N'ganj, one shot while fleeing"
-        },
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/six-arrested-over-narayanganj-constable-killing-4332831",
-          "title": "Six arrested over Narayanganj constable killing",
-          "snippet": "Six arrested over Narayanganj constable killing"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1183454",
-          "title": "নারায়ণগঞ্জে পুলিশ হত্যায় গ্রেফতার ৬, গুলিবিদ্ধ ১",
-          "snippet": "নারায়ণগঞ্জে পুলিশ হত্যায় গ্রেফতার ৬, গুলিবিদ্ধ ১"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "নারায়ণগঞ্জে পুলিশ কনস্টেবল হত্যায় ছয়জনকে গ্রেফতার করেছে পুলিশ",
-        "title_en": "Police arrest six over murder of constable in Narayanganj",
-        "summary_bn": "পুলিশ ও স্পেশাল রিজার্ভ ব্যাটালিয়ন নারায়ণগঞ্জে পুলিশ কনস্টেবল আনোয়ার মোল্লা হত্যার ঘটনায় ছয়জনকে গ্রেফতার করেছে এবং পালানোর সময় একজনকে গুলি করেছে।",
-        "summary_en": "Police and the Special Reserve Battalion arrested six people and shot one while fleeing over the murder of a constable in Narayanganj.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-25T05:55:00+00:00",
-        "lead_bn": "পুলিশ ও স্পেশাল রিজার্ভ ব্যাটালিয়ন নারায়ণগঞ্জে পুলিশ কনস্টেবল আনোয়ার মোল্লা হত্যার ঘটনায় ছয়জনকে গ্রেফতার করেছে এবং পালানোর সময় একজনকে গুলি করেছে।",
-        "lead_en": "Police and the Special Reserve Battalion arrested six people and shot one while fleeing over the murder of a constable in Narayanganj.",
-        "bullets_bn": [
-          "পুলিশ ও স্পেশাল রিজার্ভ ব্যাটালিয়ন ২৫ নভেম্বর সকালে এই গ্রেফতারের বিষয়টি নিশ্চিত করে।",
-          "ফতুল্লা ও মুন্সিগঞ্জ এলাকায় অভিযান চালিয়ে সন্দেহভাজনদের গ্রেফতার করা হয়।",
-          "নারায়ণগঞ্জের পুলিশ সুপার এক সংবাদ সম্মেলনে এ বিষয়ে বিস্তারিত জানাবেন।"
-        ],
-        "bullets_en": [
-          "Police and the Special Reserve Battalion confirmed the arrests on 25 November morning.",
-          "Suspects were arrested during operations in Fatullah and Munshiganj areas.",
-          "The Narayanganj Superintendent of Police will provide further details at a press conference."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "গত ২২ নভেম্বর রাতে ফতুল্লার কশিপুর ইউনিয়নের হাসেমবাগ এলাকায় মাদক কারবারিরা ধারালো অস্ত্র দিয়ে ৩২ বছর বয়সী পুলিশ কনস্টেবল আনোয়ার মোল্লাকে হত্যা করে। তিনি ঢাকা জেলার নবাবগঞ্জ উপজেলার দত্তকান্দা গ্রামের বাসিন্দা ছিলেন এবং নারায়ণগঞ্জ সদর পুলিশ স্টেশনের শীতলক্ষা পুলিশ ফাঁড়িতে কর্মরত ছিলেন।",
-        "details_en": "Police Constable Anwar Molla, 32, was killed on the night of 22 November after drug dealers attacked him with sharp weapons in the Hashembag area of Kashipur Union under Fatullah. He was a resident of Dattakhanda village in Nawabganj upazila of Dhaka and was stationed at the Shitalakkhya Police Outpost under Narayanganj Sadar Police Station.",
-        "hook_bn": "নারায়ণগঞ্জে পুলিশ কনস্টেবল হত্যায় গ্রেপ্তার ৬",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-25T06:02:17.997920+00:00"
-      }
-    },
-    {
-      "story_id": "2879c2c2-251d-5748-a14c-d1ced3f750f3",
+      "story_id": "d9cd782f-7f97-54f7-9c68-425a6d7f7119",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business",
-        "world_diplomacy"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
         "#Economy",
         "#Finance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1669399213378-2853e748f217?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cmVtaXR0YW5jZSUyMGluY3JlYXNlZCUyMHBlcmNlbnQlMjBjdXJyZW50JTIwYnVzaW5lc3N8ZW58MXwwfHx8MTc5NTU4NjUxOXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://static.dw.com/image/79915052_6.jpg",
       "image_caption": null,
-      "published_at": "2026-11-25T05:09:45+00:00",
+      "published_at": "2026-11-25T06:33:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.7153,
+      "importance_score": 9.0,
+      "rank_score": 7.8719,
       "sources": [
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822897/%E0%A6%9A%E0%A6%B2%E0%A6%A4%E0%A6%BF-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87-%E0%A6%B0%E0%A7%87%E0%A6%AE%E0%A6%BF%E0%A6%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8-%E0%A6%8F%E0%A6%B8%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A7%A7%E0%A7%A9.%E0%A7%AE%E0%A7%AF-%E0%A6%AC%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%A8-%E0%A6%A1%E0%A6%B2%E0%A6%BE%E0%A6%B0",
-          "title": "চলতি অর্থবছরে রেমিট্যান্স এসেছে ১৩.৮৯ বিলিয়ন ডলার, প্রবৃদ্ধি ১১.৯ শতাংশ",
-          "snippet": "চলতি অর্থবছরে রেমিট্যান্স এসেছে ১৩.৮৯ বিলিয়ন ডলার, প্রবৃদ্ধি ১১.৯ শতাংশ"
+          "name": "DW বাংলা",
+          "url": "https://www.dw.com/bn/ন্যূনতম-মজুরি-১৭-হাজার-সিদ্ধান্ত-না-মেনে-বিক্ষোভ-শ্রমিকরা/live-80015558?maca=ben-rss-ben-all-3197-rdf",
+          "title": "ন্যূনতম মজুরি ১৭ হাজার, সিদ্ধান্ত না মেনে বিক্ষোভ শ্রমিকরা",
+          "snippet": "ন্যূনতম মজুরি ১৭ হাজার, সিদ্ধান্ত না মেনে বিক্ষোভ শ্রমিকরা"
         },
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/upward-trend-remittances-current-fiscal-year/",
-          "title": "চলতি অর্থবছরে প্রবাসী আয়ে ঊর্ধ্বমুখী ধারা",
-          "snippet": "চলতি অর্থবছরে প্রবাসী আয়ে ঊর্ধ্বমুখী ধারা"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/man-arrested-over-arson-attack-police-vehicle-gazipur-1613381",
+          "title": "Man who set police vehicle on fire during labour unrest arrested in Gazipur",
+          "snippet": "Man who set police vehicle on fire during labour unrest arrested in Gazipur"
+        },
+        {
+          "name": "BBC News বাংলা",
+          "url": "https://www.bbc.com/bengali/articles/cxj05mz141m8o?at_medium=RSS&at_campaign=rss",
+          "title": "পত্রিকা: পোশাক শ্রমিকদের ন্যূনতম মজুরি ৩৬% বাড়িয়ে ১৭ হাজার টাকা নির্ধারণ",
+          "snippet": "পত্রিকা: পোশাক শ্রমিকদের ন্যূনতম মজুরি ৩৬% বাড়িয়ে ১৭ হাজার টাকা নির্ধারণ"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425710/bnp-stages-protest-in-gazipur-over-garment-factory",
+          "title": "BNP stages protest in Gazipur over garment factory attacks, unrest",
+          "snippet": "BNP stages protest in Gazipur over garment factory attacks, unrest"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চলতি অর্থবছরে রেমিট্যান্স বেড়েছে ১১.৯ শতাংশ",
-        "title_en": "Remittance increased by 11.9 percent in the current fiscal year.",
-        "summary_bn": "চলতি ২০২৬-২৭ অর্থবছরের ২৩ নভেম্বর পর্যন্ত দেশে ১ হাজার ৩৮৯ কোটি মার্কিন ডলার রেমিট্যান্স এসেছে, যা গত অর্থবছরের তুলনায় ১১ দশমিক ৯ শতাংশ বেশি।",
-        "summary_en": "Bangladesh received 1.389 billion US dollars in remittances up to November 23 of the current 2026-27 fiscal year, an 11.9 percent increase.",
+        "title_bn": "পোশাক শ্রমিকদের ন্যূনতম মজুরি ১৭ হাজার টাকা নির্ধারণের পর গাজীপুরে বিক্ষোভ",
+        "title_en": "Protests erupt in Gazipur after garment workers minimum wage is set at Tk 17,000",
+        "summary_bn": "তৈরি পোশাকশিল্পের শ্রমিকদের ন্যূনতম মজুরি ১৭ হাজার টাকা নির্ধারণ করা হলেও তা প্রত্যাখ্যান করে গাজীপুরে মহাসড়ক অবরোধ ও বিক্ষোভ করেছেন শ্রমিকরা।",
+        "summary_en": "Garment workers have blocked highways and staged protests in Gazipur rejecting the newly set minimum wage of Tk 17,000.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-25T06:33:00+00:00",
+        "lead_bn": "তৈরি পোশাকশিল্পের শ্রমিকদের ন্যূনতম মজুরি ১৭ হাজার টাকা নির্ধারণ করা হলেও তা প্রত্যাখ্যান করে গাজীপুরে মহাসড়ক অবরোধ ও বিক্ষোভ করেছেন শ্রমিকরা।",
+        "lead_en": "Garment workers have blocked highways and staged protests in Gazipur rejecting the newly set minimum wage of Tk 17,000.",
+        "bullets_bn": [
+          "দীর্ঘ আলাপ-আলোচনার পর মজুরি বোর্ডের সভায় ভোটাভুটির মাধ্যমে এই ন্যূনতম মজুরি নির্ধারিত হয়।",
+          "শ্রমিকদের দাবি ন্যূনতম মজুরি ৩০ হাজার টাকা করতে হবে, আর মালিকপক্ষ জানায় ১৭ হাজার টাকা।",
+          "শ্রমিক অসন্তোষের কারণে গাজীপুরে অন্তত ২০টি কারখানায় ছুটি ঘোষণা করা হয়েছে।"
+        ],
+        "bullets_en": [
+          "The minimum wage was decided through voting in a wage board meeting after long discussions.",
+          "Workers demanded a minimum wage of Tk 30,000 while the factory owners proposed Tk 17,000.",
+          "At least 20 factories have declared holidays in Gazipur due to the ongoing labor unrest."
+        ],
+        "impact_bn": "শ্রমিকদের অবরোধের কারণে ঢাকা-টাঙ্গাইল ও ঢাকা-ময়মনসিংহ মহাসড়কে যানবাহন চলাচল বন্ধ থাকায় যাত্রী ও সাধারণ মানুষ চরম দুর্ভোগে পড়েছেন।",
+        "impact_en": "Commuters and ordinary people suffered immensely as traffic movement came to a halt on the Dhaka-Tangail and Dhaka-Mymensingh highways due to worker blockades.",
+        "details_bn": "মজুরি বোর্ডের সভায় দুই পক্ষ একমত হতে না পারায় চেয়ারম্যান সৈয়দ আজাদ সুবহানি ভোটাভুটির সিদ্ধান্ত নেন যেখানে ছয়জন সদস্যের মধ্যে চার সদস্য ১৭ হাজার টাকার পক্ষে ভোট দেন। এর আগে ১৮ নভেম্বর গাচায় পুলিশি গাড়ি পোড়ানোর ঘটনা ঘটে এবং শ্রমিকদের বিক্ষোভের মুখে পুলিশ ও সংঘর্ষের ঘটনাও ঘটে বিভিন্ন স্থানে।",
+        "details_en": "As both parties failed to agree during the wage board meeting, chairman Syed Azad Sobhani decided on a vote where four out of six members voted in favor of Tk 17,000. Earlier on 18 November, a police vehicle was set on fire in Gacha, and clashes with police occurred in various places amid worker protests.",
+        "hook_bn": "মজুরি ১৭ হাজার, সিদ্ধান্ত না মেনে বিক্ষোভ",
+        "kicker_bn": "বিক্ষোভ",
+        "share_value": false,
+        "question_bn": "ন্যূনতম মজুরি ১৭ হাজার টাকা নির্ধারণের সিদ্ধান্তকে আপনারা কীভাবে দেখছেন?"
+      },
+      "desk_importance": 8.0,
+      "outlet_count": 8,
+      "trending": true,
+      "social_appeal": 9.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-25T07:03:10.478446+00:00"
+      }
+    },
+    {
+      "story_id": "0964e229-3c08-5597-a1ef-6a6cbe148d3c",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#InternationalCrimesTribunal",
+        "#EnforcedDisappearances",
+        "#MdAminulIslam"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/06/29/chief_prosecutor_aminul_islam.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-25T06:25:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.75,
+      "rank_score": 5.7923,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/nearly-200-victims-enforced-disappearances-remain-untraced-ict-chief-prosecutor-1613396",
+          "title": "Nearly 200 victims of enforced disappearances remain untraced: ICT chief prosecutor",
+          "snippet": "Nearly 200 victims of enforced disappearances remain untraced: ICT chief prosecutor"
+        },
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/eonowjlf0v",
+          "title": "মানবতাবিরোধী অপরাধ চিহ্নিত করতে জেলায় জেলায় গণশুনানি করবে প্রসিকিউশন",
+          "snippet": "মানবতাবিরোধী অপরাধ চিহ্নিত করতে জেলায় জেলায় গণশুনানি করবে প্রসিকিউশন"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/awami-league-regime-crime-hearing-starts-jashore/",
+          "title": "আওয়ামী লীগ আমলের গুম-খুনের তথ্য সংগ্রহে দেশজুড়ে গণশুনানি করবে ট্রাইব্যুনাল",
+          "snippet": "আওয়ামী লীগ আমলের গুম-খুনের তথ্য সংগ্রহে দেশজুড়ে গণশুনানি করবে ট্রাইব্যুনাল"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/law-courts/news/1183479",
+          "title": "জেলায় জেলায় গণশুনানিতে প্রসিকিউশন, তদন্ত সংস্থা সঙ্গে ডিসি-এসপি",
+          "snippet": "জেলায় জেলায় গণশুনানিতে প্রসিকিউশন, তদন্ত সংস্থা সঙ্গে ডিসি-এসপি"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "প্রায় ২০০ গুমের শিকার ব্যক্তি এখনো নিখোঁজ রয়েছেন",
+        "title_en": "Nearly 200 victims of enforced disappearances remain untraced",
+        "summary_bn": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনালের চিফ প্রসিকিউটর মো. আমিনুল ইসলাম জানিয়েছেন যে গুমের শিকার প্রায় ২০০ ব্যক্তির খোঁজ মেলেনি।",
+        "summary_en": "Chief Prosecutor of the International Crimes Tribunal Md Aminul Islam said that nearly 200 victims of enforced disappearances remain untraced.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
           "economy_business",
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-25T05:09:45+00:00",
-        "lead_bn": "চলতি ২০২৬-২৭ অর্থবছরের ২৩ নভেম্বর পর্যন্ত দেশে ১ হাজার ৩৮৯ কোটি মার্কিন ডলার রেমিট্যান্স এসেছে, যা গত অর্থবছরের তুলনায় ১১ দশমিক ৯ শতাংশ বেশি।",
-        "lead_en": "Bangladesh received 1.389 billion US dollars in remittances up to November 23 of the current 2026-27 fiscal year, an 11.9 percent increase.",
+        "published_at": "2026-11-25T06:25:00+00:00",
+        "lead_bn": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনালের চিফ প্রসিকিউটর মো. আমিনুল ইসলাম জানিয়েছেন যে গুমের শিকার প্রায় ২০০ ব্যক্তির খোঁজ মেলেনি।",
+        "lead_en": "Chief Prosecutor of the International Crimes Tribunal Md Aminul Islam said that nearly 200 victims of enforced disappearances remain untraced.",
         "bullets_bn": [
-          "বাংলাদেশ ব্যাংকের সর্বশেষ তথ্য অনুযায়ী রেমিট্যান্স বাড়ার এই তথ্য জানা গেছে।",
-          "গত ২০২৫-২৬ অর্থবছরের একই সময়ে দেশে রেমিট্যান্স এসেছিল ১ হাজার ২৪২ কোটি মার্কিন ডলার।",
-          "নভেম্বর মাসের প্রথম ২৩ দিনে প্রবাসীরা দেশে পাঠিয়েছেন ২৪২ কোটি ৮০ লাখ ডলার।"
+          "ট্রাইব্যুনাল গুমের সব মামলা একত্রিত করে যৌথভাবে তদন্ত পরিচালনা করছে।",
+          "চিফ প্রসিকিউটর মো. আমিনুল ইসলাম ২৫ নভেম্বর সাংবাদিকদের এই তথ্য জানান।",
+          "তদন্ত শেষে যত দ্রুত সম্ভব একটি পূর্ণাঙ্গ প্রতিবেদন জমা দেওয়ার আশা করা হচ্ছে।"
         ],
         "bullets_en": [
-          "This information on remittance growth comes from the latest data of Bangladesh Bank.",
-          "During the same period of the previous 2025-26 fiscal year, the country received 1.242 billion US dollars in remittances.",
-          "Expatriates sent 2.428 billion dollars to the country in the first 23 days of November."
+          "The tribunal is conducting a consolidated investigation into all enforced disappearance cases.",
+          "Chief Prosecutor Md Aminul Islam shared this information with journalists on 25 November.",
+          "A comprehensive report is expected to be submitted as soon as the investigation is completed."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বাংলাদেশ ব্যাংকের সর্বশেষ তথ্য অনুযায়ী, গত ২০২৫-২৬ অর্থবছরের একই সময়ে দেশে রেমিট্যান্স এসেছিল ১ হাজার ২৪২ কোটি ডলার। গত বছরের একই সময়ে এ আয়ের পরিমাণ ছিল ২২৭১ কোটি ১০ লাখ ডলার। চলতি ২০২৬-২৭ অর্থবছরের শুরু থেকে ২৩ নভেম্বর পর্যন্ত প্রবাসী বাংলাদেশিরা এই রেমিট্যান্স পাঠিয়েছেন।",
-        "details_en": "According to the latest data of Bangladesh Bank, remittance inflow was 1.242 billion dollars during the same period of the previous 2025-26 fiscal year. The income during the same period last year was 2.271 billion 10 million dollars. Bangladeshi expatriates sent this remittance from the beginning of the current 2026-27 fiscal year until November 23.",
-        "hook_bn": "রেমিট্যান্স এসেছে ১ হাজার ৩৮৯ কোটি ডলার",
-        "kicker_bn": null,
+        "details_bn": "তদন্তের আওতাধীন মামলার মধ্যে রয়েছে হোম মিনিস্টার সালাহউদ্দিন আহমেদ এবং বিএনপি নেতা ইলিয়াস আলী ও সুমনের বিরুদ্ধে দায়ের করা অভিযোগ। ২০০৯ সাল থেকে ২০২৪ সালের ৫ আগস্ট পর্যন্ত আওয়ামী লীগ সরকারের আমলে সংঘটিত অপরাধের তথ্য সংগ্রহে দেশজুড়ে গণশুনানি করবে প্রসিকিউশন।",
+        "details_en": "The ongoing investigations cover cases involving Home Minister Salahuddin Ahmed and BNP leaders Ilias Ali and Sumon. The prosecution will hold public hearings across the country to collect information on crimes committed during the Awami League government from 2009 to 5 August 2024.",
+        "hook_bn": "প্রায় ২০০ গুমের শিকার ব্যক্তি নিখোঁজ",
+        "kicker_bn": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল",
         "share_value": false,
-        "question_bn": "প্রবাসী আয় বাড়ার এই ধারা দেশের অর্থনীতিতে কী ধরনের প্রভাব ফেলবে বলে আপনার মনে হয়?"
+        "question_bn": "গুমের বিচার ও তথ্য সংগ্রহে দেশব্যাপী গণশুনানির এই উদ্যোগে সাধারণ মানুষের অংশগ্রহণ সম্পর্কে আপনার মতামত কী?"
       },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
+      "desk_importance": 7.0,
+      "outlet_count": 4,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-25T07:03:10.478446+00:00"
+      }
+    },
+    {
+      "story_id": "9edd3901-a154-5343-b727-804f446d39c4",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFuZ2xhZGVzaCUyMHdhbnRzJTIwZ3VhcmFudGVlJTIwY2xhdXNlJTIwZGlwbG9tYWN5fGVufDF8MHx8fDE3OTU1OTAxNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-25T06:46:33+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.0,
+      "rank_score": 4.8246,
+      "sources": [
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822913/%E0%A6%97%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE-%E0%A6%9A%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A7%9F%E0%A6%BE%E0%A6%A6-%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A7%A7%E0%A7%A8-%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8",
+          "title": "গঙ্গা চুক্তির মেয়াদ শেষ হচ্ছে ১২ ডিসেম্বর, নতুন চুক্তিতে গ্যারান্টি ক্লজ চায় বাংলাদেশ",
+          "snippet": "গঙ্গা চুক্তির মেয়াদ শেষ হচ্ছে ১২ ডিসেম্বর, নতুন চুক্তিতে গ্যারান্টি ক্লজ চায় বাংলাদেশ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "গঙ্গা চুক্তির নতুন মেয়াদে গ্যারান্টি ক্লজ চায় বাংলাদেশ",
+        "title_en": "Bangladesh wants a guarantee clause in the new Ganges treaty",
+        "summary_bn": "আগামী ১২ ডিসেম্বর মেয়াদ শেষ হচ্ছে বাংলাদেশ ও ভারতের মধ্যকার ৩০ বছর মেয়াদি গঙ্গার পানি বণ্টন চুক্তির।",
+        "summary_en": "The thirty-year Ganges water sharing treaty between Bangladesh and India is expiring on the coming 12 December.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-25T06:46:33+00:00",
+        "lead_bn": "আগামী ১২ ডিসেম্বর মেয়াদ শেষ হচ্ছে বাংলাদেশ ও ভারতের মধ্যকার ৩০ বছর মেয়াদি গঙ্গার পানি বণ্টন চুক্তির।",
+        "lead_en": "The thirty-year Ganges water sharing treaty between Bangladesh and India is expiring on the coming 12 December.",
+        "bullets_bn": [
+          "বাংলাদেশ ও ভারতের মধ্যে স্বাক্ষরিত ১৯৯৬ সালের চুক্তির মেয়াদ শেষ হতে চলেছে।",
+          "চুক্তি নবায়ন বা নতুন চুক্তি নিয়ে দুই দেশের মধ্যে এখনো আনুষ্ঠানিক আলোচনা শুরু হয়নি।",
+          "শুষ্ক মৌসুমে বাংলাদেশের পানির ন্যায্য হিস্যা নিশ্চিত করতে এই দাবি জানানো হয়েছে।"
+        ],
+        "bullets_en": [
+          "The 1996 treaty signed between Bangladesh and India is coming to an end.",
+          "Formal discussions between the two countries regarding treaty renewal or a new treaty have not yet started.",
+          "This demand has been made to ensure Bangladesh's fair share of water during the dry season."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বাংলাদেশ ও ভারতের মধ্যে ১৯৯৬ সালে ৩০ বছর মেয়াদি গঙ্গার পানি বণ্টন চুক্তি স্বাক্ষরিত হয়েছিল। আগামী ১২ ডিসেম্বর এই চুক্তির মেয়াদ শেষ হতে যাচ্ছে। বর্তমান পরিস্থিতিতে শুষ্ক মৌসুমে বাংলাদেশের পানির ন্যায্য হিস্যা নিশ্চিত করতে নতুন চুক্তিতে গ্যারান্টি ক্লজ বা পানিপ্রবাহের নিশ্চয়তামূলক ধারা অন্তর্ভুক্ত করার দাবি জানিয়েছে বাংলাদেশ। তবে চুক্তি নবায়ন কিংবা নতুন চুক্তি নিয়ে দুই দেশের মধ্যে এখনো আনুষ্ঠানিক আলোচনা শুরু হয়নি।",
+        "details_en": "A thirty-year Ganges water sharing treaty was signed between Bangladesh and India in 1996. The term of this treaty is expiring on the coming 12 December. In the current situation, Bangladesh has demanded the inclusion of a guarantee clause or water flow certainty provision in the new treaty to ensure Bangladesh's fair share of water during the dry season. However, formal discussions between the two countries regarding treaty renewal or a new treaty have not yet started.",
+        "hook_bn": "গঙ্গা চুক্তির মেয়াদ শেষ হচ্ছে ১২ ডিসেম্বর",
+        "kicker_bn": "নতুন তারিখ",
+        "share_value": true,
+        "question_bn": "শুষ্ক মৌসুমে পানির ন্যায্য হিস্যা নিশ্চিত করতে নতুন চুক্তিতে কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
       "trending": false,
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-25T06:02:17.997920+00:00"
+        "checked_at": "2026-11-25T07:03:10.478446+00:00"
       }
     },
     {
-      "story_id": "6e9760ae-68f8-5431-8769-e978bfd258e9",
-      "primary_category": "world_diplomacy",
+      "story_id": "ca8c2dc0-b71b-5284-8e63-87907bebc784",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy",
-        "economy_business",
         "governance_law",
-        "climate_environment"
+        "economy_business"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#Indonesia",
-        "#WestJava",
-        "#Bogor"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://th-i.thgim.com/public/incoming/ug7hzl/article71741010.ece/alternates/LANDSCAPE_1200/IMG_FILE_PHOTO__A_dump_t_2_1_GOCIK1TA.jpg",
+      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/IMG-20261125-WA0005.jpg",
       "image_caption": null,
-      "published_at": "2026-11-25T03:38:07+00:00",
+      "published_at": "2026-11-25T05:12:03+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.177,
+      "importance_score": 7.0,
+      "rank_score": 4.405,
       "sources": [
         {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/indonesian-rescuers-searching-for-possibly-dozens-trapped-in-mine/article71741002.ece",
-          "title": "Indonesian rescuers searching for possibly ‘dozens’ trapped in mine",
-          "snippet": "Indonesian rescuers searching for possibly ‘dozens’ trapped in mine"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/world/flooding-traps-26-workers-indonesia-gold-mine-police-1613286",
-          "title": "Flooding traps 26 workers in Indonesia gold mine: Police",
-          "snippet": "Flooding traps 26 workers in Indonesia gold mine: Police"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/middle-east/983107/%E0%A6%B9%E0%A6%B0%E0%A6%AE%E0%A7%81%E0%A6%9C%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%87%E0%A6%9F%E0%A6%BF-%E0%A6%A4%E0%A7%87%E0%A6%B2%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%87",
-          "title": "হরমুজে ফের মাইন বিস্ফোরণে দুইটি তেলবাহী ট্যাংকারে আগুন",
-          "snippet": "হরমুজে ফের মাইন বিস্ফোরণে দুইটি তেলবাহী ট্যাংকারে আগুন"
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/national/post-1225564/",
+          "title": "প্রধানমন্ত্রী তারেক রহমানের সভাপতিত্বে একনেকের বৈঠক শুরু",
+          "snippet": "প্রধানমন্ত্রী তারেক রহমানের সভাপতিত্বে একনেকের বৈঠক শুরু"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইন্দোনেশিয়ায় খনিতে আটকা পড়েছে বহু শ্রমিক",
-        "title_en": "Workers trapped in Indonesia mine",
-        "summary_bn": "ভারী বৃষ্টির কারণে পশ্চিম জাভা প্রদেশের একটি খনিতে বহু শ্রমিক আটকা পড়েছে বলে জানিয়েছে উদ্ধারকারী সংস্থা।",
-        "summary_en": "Indonesian rescue teams are searching for possibly dozens of workers trapped in a mine in West Java province.",
+        "title_bn": "প্রধানমন্ত্রী তারেক রহমানের সভাপতিত্বে একনেকের বৈঠক শুরু হয়েছে",
+        "title_en": "NEC meeting begins under the chairmanship of Prime Minister Tarique Rahman",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমানের সভাপতিত্বে বাংলাদেশ সচিবালয়ে জাতীয় অর্থনৈতিক পরিষদের নির্বাহী কমিটির বৈঠক শুরু হয়েছে।",
+        "summary_en": "The meeting of the Executive Committee of the National Economic Council began at the Bangladesh Secretariat under Prime Minister Tarique Rahman.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "economy_business",
           "governance_law",
-          "climate_environment"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-25T03:38:07+00:00",
-        "lead_bn": "ভারী বৃষ্টির কারণে পশ্চিম জাভা প্রদেশের একটি খনিতে বহু শ্রমিক আটকা পড়েছে বলে জানিয়েছে উদ্ধারকারী সংস্থা।",
-        "lead_en": "Indonesian rescue teams are searching for possibly dozens of workers trapped in a mine in West Java province.",
+        "published_at": "2026-11-25T05:12:03+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমানের সভাপতিত্বে বাংলাদেশ সচিবালয়ে জাতীয় অর্থনৈতিক পরিষদের নির্বাহী কমিটির বৈঠক শুরু হয়েছে।",
+        "lead_en": "The meeting of the Executive Committee of the National Economic Council began at the Bangladesh Secretariat under Prime Minister Tarique Rahman.",
         "bullets_bn": [
-          "স্থানীয় গণমাধ্যমগুলোর খবরে বলা হয়েছে, খনিতে আটকা পড়া কর্মীর সংখ্যা ৩০।",
-          "পুলিশ জানিয়েছে, ২৬ জন শ্রমিক একটি স্বর্ণ খনিতে আটকা পড়েছে এবং কর্তৃপক্ষকে জানানো হয়েছে।",
-          "রাষ্ট্রীয় খনি সংস্থা আনটাম জানিয়েছে এটি একটি অননুমোদিত স্বর্ণের খনি।"
+          "বৈঠকটি ২৫ নভেম্বর সকাল ১০টায় বাংলাদেশ সচিবালয়ে মন্ত্রিপরিষদ বিভাগের মন্ত্রিসভা কক্ষে শুরু হয়।",
+          "সরকারের উন্নয়ন পরিকল্পনা বাস্তবায়ন এবং সরকারি বিনিয়োগের কার্যকর ব্যবহারে একনেক গুরুত্বপূর্ণ ভূমিকা পালন করে।",
+          "বৈঠকে কোন কোন প্রকল্প উপস্থাপন করা হচ্ছে এবং কী পরিমাণ অর্থ বরাদ্দ রয়েছে তা এখনো জানা যায়নি।"
         ],
         "bullets_en": [
-          "Several local media outlets reported the number of workers trapped to be 30.",
-          "Police stated that 26 workers were trapped in a gold mine and authorities were alerted on Tuesday.",
-          "State miner Antam stated it was an unauthorised gold mine and not part of its operations."
+          "The meeting began at 10 am on 25 November at the Cabinet Division cabinet room of the Bangladesh Secretariat.",
+          "The Executive Committee plays an important role in implementing government development plans and effective use of public investment.",
+          "Details on which projects are being presented and the amount of money allocated are not yet known."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ব Bogor এলাকায় রাজধানী জাকার্তার ৬০ কিলোমিটার দক্ষিণে পাহাড়ি অঞ্চলে এই খনিটি অবস্থিত। ভারী বৃষ্টির কারণে ২৩ নভেম্বর থেকে ১০০ মিটার গভীর এই খনিতে শ্রমিকরা আটকে রয়েছে। ইন্দোনেশিয়ায় ছোট ও অবৈধ খনিতে প্রায়ই দুর্ঘটনা ঘটে থাকে।",
-        "details_en": "The mine is located in Bogor, a mountainous area 60 km south of the capital Jakarta. The miners have been stuck in a mine 100 m deep due to heavy rains since 23 November 2026. Small-scale and illegal mining has often caused accidents in Indonesia.",
-        "hook_bn": "খনিতে আটকা পড়েছে বহু শ্রমিক",
-        "kicker_bn": "সতর্কতা",
+        "details_bn": "একনেক হলো জাতীয় অর্থনৈতিক পরিষদের নির্বাহী কমিটি। প্রধানমন্ত্রী এর চেয়ারপারসন এবং অর্থ ও পরিকল্পনাসংশ্লিষ্ট মন্ত্রীসহ সরকারের গুরুত্বপূর্ণ মন্ত্রীরা এ কমিটির সদস্য হিসেবে দায়িত্ব পালন করেন। পরিকল্পনা কমিশন একনেকের কার্যক্রমে সাচিবিক সহায়তা দিয়ে থাকে। দেশের বিভিন্ন খাতের উন্নয়ন প্রকল্প অনুমোদন, সংশোধন এবং প্রকল্প বাস্তবায়নের অগ্রগতি পর্যালোচনা করা হয় এ কমিটির বৈঠকে। বৈঠক শেষে বিস্তারিত জানা যাবে।",
+        "details_en": "The Executive Committee of the National Economic Council has the Prime Minister as its chairperson, with important ministers including finance and planning ministers as members. The Planning Commission provides secretarial support to the activities of the committee, which approves, amends, and reviews the progress of development projects across various sectors of the country.",
+        "hook_bn": "সচিবালয়ে শুরু হয়েছে একনেকের বৈঠক",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-25T07:03:10.478446+00:00"
+      }
+    },
+    {
+      "story_id": "82727cdb-9506-5782-b624-07b13d53854e",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/Women.png",
+      "image_caption": null,
+      "published_at": "2026-11-25T05:00:44+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.25,
+      "rank_score": 2.4509,
+      "sources": [
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/feature/post-1225537/",
+          "title": "আন্তর্জাতিক নারী নির্যাতন প্রতিরোধ দিবস আজ",
+          "snippet": "আন্তর্জাতিক নারী নির্যাতন প্রতিরোধ দিবস আজ"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1183481",
+          "title": "স্বজনের হাতে প্রতি ঘণ্টায় খুন ৫ নারী: জাতিসংঘ",
+          "snippet": "স্বজনের হাতে প্রতি ঘণ্টায় খুন ৫ নারী: জাতিসংঘ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আন্তর্জাতিক নারী নির্যাতন প্রতিরোধ দিবস পালিত হচ্ছে",
+        "title_en": "International Day for the Elimination of Violence against Women observed",
+        "summary_bn": "নারীর প্রতি সহিংসতা ও বৈষম্য বন্ধের আহ্বানে ২৫ নভেম্বর আন্তর্জাতিক নারী নির্যাতন প্রতিরোধ দিবস পালিত হচ্ছে।",
+        "summary_en": "The International Day for the Elimination of Violence against Women is observed on 25 November calling to end violence.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-25T05:00:44+00:00",
+        "lead_bn": "নারীর প্রতি সহিংসতা ও বৈষম্য বন্ধের আহ্বানে ২৫ নভেম্বর আন্তর্জাতিক নারী নির্যাতন প্রতিরোধ দিবস পালিত হচ্ছে।",
+        "lead_en": "The International Day for the Elimination of Violence against Women is observed on 25 November calling to end violence.",
+        "bullets_bn": [
+          "জাতিসংঘের প্রতিবেদন অনুযায়ী গত বছর বিশ্বে প্রতি ঘণ্টায় গড়ে পাঁচ নারী ও কিশোরী স্বজনদের হাতে খুন হয়েছেন।",
+          "১৯৬০ সালের ২৫ নভেম্বর ডোমিনিকান প্রজাতন্ত্রের তিন বোন প্যাট্রিয়া, মারিয়া তেরেসা ও মিনার্ভা মিরাবালকে হত্যা করা হয়।",
+          "বাংলাদেশে ১৯৯৭ সাল থেকে নারী নির্যাতনের বিরুদ্ধে আন্তর্জাতিক প্রতিবাদ দিবস উদ্যাপন কমিটি দিবসটি পালন করে আসছে।"
+        ],
+        "bullets_en": [
+          "According to a UN report, an average of five women and girls were killed by relatives every hour globally last year.",
+          "Three sisters Patria, Maria Teresa and Minerva Mirabal of the Dominican Republic were killed on 25 November 1960.",
+          "The International Protest Day against Violence against Women Celebration Committee has been observing the day in Bangladesh since 1997."
+        ],
+        "impact_bn": "নারীরা পারিবারিক, সামাজিক ও কর্মক্ষেত্রে সহিংসতার পাশাপাশি জলবায়ু পরিবর্তন ও মজুরি বৈষম্যের সংকটের মুখোমুখি হচ্ছেন।",
+        "impact_en": "Women face crises of climate change and wage discrimination alongside family, social and workplace violence.",
+        "details_bn": "১৯৮১ সালে লাতিন আমেরিকায় এক সম্মেলনে ২৫ নভেম্বর দিবসটি পালনের ঘোষণা দেওয়া হয় এবং ১৯৯৩ সালে ভিয়েনায় স্বীকৃতি পায়। পরে ১৯৯৯ সালের ১৭ ডিসেম্বর জাতিসংঘ এটি আনুষ্ঠানিকভাবে স্বীকৃতি দেয়। ডোমিনিকান প্রজাতন্ত্রের তিন বোনের স্মরণে এবং স্বৈরাচার ও সহিংসতার বিরুদ্ধে নারীদের সংগ্রাম স্মরণে দিনটি নির্ধারিত হয়। বাংলাদেশে বিভিন্ন সংগঠন সভা-সমাবেশ ও প্রচারাভিযানের মাধ্যমে সচেতনতা তৈরির চেষ্টা করে।",
+        "details_en": "The day was announced at a conference in Latin America in 1981 and recognized at the Vienna conference in 1993. The UN officially recognized the day on 17 December 1999. It was initiated to remember three sisters from the Dominican Republic and women's struggle against tyranny and violence. In Bangladesh, organizations try to build awareness through rallies and campaigns.",
+        "hook_bn": "প্রতি ঘণ্টায় পাঁচ নারী খুন",
+        "kicker_bn": "জাতিসংঘের প্রতিবেদন",
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 5.0,
-      "outlet_count": 3,
+      "outlet_count": 2,
       "trending": false,
-      "social_appeal": 5.0,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-25T06:02:17.997920+00:00"
+        "checked_at": "2026-11-25T07:03:10.478446+00:00"
+      }
+    },
+    {
+      "story_id": "6161ec75-7e7b-5f76-8894-55955b76e7d2",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#Benghazi",
+        "#Ukraine",
+        "#Russia",
+        "#Libya"
+      ],
+      "image_url": "https://static.dw.com/image/80042297_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-25T04:41:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.1812,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/libya-2-dead-after-ukrainian-attack-on-russian-warship-in-benghazi/a-80042348?maca=en-rss-en-all-1573-rdf",
+          "title": "Libya: 2 dead after Ukrainian attack on Russian warship in Benghazi",
+          "snippet": "Libya: 2 dead after Ukrainian attack on Russian warship in Benghazi"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বেনগাজীতে রুশ যুদ্ধজাহাজে ইউক্রেনীয় হামলায় দুই লিবিয়ান সেনা নিহত",
+        "title_en": "Two Libyan soldiers killed in Ukrainian attack on Russian warship in Benghazi",
+        "summary_bn": "বেনগাজী বন্দরে রুশ যুদ্ধজাহাজে ইউক্রেনের হামলায় আহত দুই লিবিয়ান সেনা মারা গেছেন।",
+        "summary_en": "Two Libyan soldiers have died from injuries sustained during a Ukrainian attack on a Russian warship docked in Benghazi.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-25T04:41:00+00:00",
+        "lead_bn": "বেনগাজী বন্দরে রুশ যুদ্ধজাহাজে ইউক্রেনের হামলায় আহত দুই লিবিয়ান সেনা মারা গেছেন।",
+        "lead_en": "Two Libyan soldiers have died from injuries sustained during a Ukrainian attack on a Russian warship docked in Benghazi.",
+        "bullets_bn": [
+          "ইউক্রেনীয় প্রেসিডেন্ট ভলোদিমির জেলেনস্কি বেনগাজীতে নেভাল ড্রোন হামলার দায় স্বীকার করেছেন।",
+          "ইউক্রেনের পররাষ্ট্রমন্ত্রী আন্দ্রেই সিবিহা দাবি করেছেন যে এই হামলা লিবিয়ার ক্ষতি করার উদ্দেশ্যে নয়।",
+          "লিবিয়ার পূর্বের প্রশাসন ও লিবিয়ান ন্যাশনাল আর্মি এই হামলার জবাব দেওয়ার কথা জানিয়েছে।"
+        ],
+        "bullets_en": [
+          "Ukrainian President Volodymyr Zelenskyy claimed responsibility for the naval drone attack in Benghazi.",
+          "Ukrainian Foreign Minister Andrii Sybiha defended the attack, stating it is not intended to harm Libya.",
+          "The eastern administration and the Libyan National Army stated that a response would come."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "লিবিয়া বর্তমানে ত্রিপোলির একটি জাতিসংঘ স্বীকৃত সরকার এবং দেশের পূর্বে বেনগাজী নিয়ন্ত্রণকারী একটি সমান্তরাল প্রশাসনের মধ্যে বিভক্ত। লিবিয়ার পররাষ্ট্র মন্ত্রণালয় এই হামলার নিন্দা জানিয়ে জানিয়েছে যে তারা দেশের ভূখণ্ড বা জলসীমায় কোনো বিদেশি সামরিক অভিযান অনুমোদন করেনি।",
+        "details_en": "Libya is currently divided between a UN-recognized government in Tripoli and a parallel administration in the east that controls Benghazi. Libya's Foreign ministry denounced the attacks and said it did not authorize any foreign military operations within its territory or territorial waters.",
+        "hook_bn": "'ইউক্রেনীয় আগ্রাসন' বেনগাজী বন্দরে দুই সেনা নিহত",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-25T07:03:10.478446+00:00"
       }
     }
   ]
