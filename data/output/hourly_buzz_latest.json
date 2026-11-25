@@ -1,157 +1,249 @@
 {
-  "updated_at": "2026-11-25T04:00:47.885778",
-  "total_stories": 2,
+  "updated_at": "2026-11-25T05:00:46.167045",
+  "total_stories": 3,
   "stories": [
     {
-      "story_id": "805926af-91ab-5ce4-b883-4271092148cf",
-      "primary_category": "climate_environment",
+      "story_id": "38e53a7c-524e-506b-ab4e-17f090e06fbc",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "climate_environment",
-        "world_diplomacy",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#DhakaAirPollution",
-        "#IQAir"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1706725535076-ce1bd3cc98d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGhha2ElMjBhaXIlMjBiZWNvbWVzJTIwdmVyeSUyMGVudmlyb25tZW50fGVufDF8MHx8fDE3OTU1NzkyNzl8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-25T03:44:26+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.8436,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/dhaka/425694/dhaka-s-air-pollution-worsens-as-winter-sets-in",
-          "title": "Dhaka's air pollution worsens as winter sets in, raising health risks",
-          "snippet": "Dhaka's air pollution worsens as winter sets in, raising health risks"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/822880/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B8-%E0%A6%86%E0%A6%9C-%E2%80%98%E0%A6%96%E0%A7%81%E0%A6%AC%E0%A6%87-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A6%B0%E2%80%99-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A7%80",
-          "title": "ঢাকার বাতাস আজ ‘খুবই অস্বাস্থ্যকর’, বিশ্বব্যাপী তালিকায় অবস্থান চতুর্থ",
-          "snippet": "ঢাকার বাতাস আজ ‘খুবই অস্বাস্থ্যকর’, বিশ্বব্যাপী তালিকায় অবস্থান চতুর্থ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "শীতের শুরুতে ঢাকার বাতাস খুবই অস্বাস্থ্যকর",
-        "title_en": "Dhaka air becomes very unhealthy as winter sets in",
-        "summary_bn": "শীতের শুরুতেই রাজধানীর বাতাসে দূষণের মাত্রা বাড়ছে এবং ঢাকা বিশ্বের দূষিত শহরগুলোর তালিকায় স্থান পেয়েছে।",
-        "summary_en": "Pollution levels are rising in Dhaka's air with the onset of winter as the city ranks among the world's polluted cities.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "world_diplomacy",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-25T03:44:26+00:00",
-        "lead_bn": "শীতের শুরুতেই রাজধানীর বাতাসে দূষণের মাত্রা বাড়ছে এবং ঢাকা বিশ্বের দূষিত শহরগুলোর তালিকায় স্থান পেয়েছে।",
-        "lead_en": "Pollution levels are rising in Dhaka's air with the onset of winter as the city ranks among the world's polluted cities.",
-        "bullets_bn": [
-          "আন্তর্জাতিক বায়ুমান পর্যবেক্ষণকারী প্রতিষ্ঠান আইকিউএয়ারের লাইভ সূচক অনুযায়ী ঢাকার বাতাস খুবই অস্বাস্থ্যকর হিসেবে বিবেচিত হয়েছে।",
-          "আইকিউএয়ারের তথ্য অনুযায়ী পাকিস্তানের লাহোর ২৭৯ স্কোর নিয়ে বায়ুদূষণে শীর্ষে রয়েছে।",
-          "ঢাকার বাতাস দূষণের কারণে স্বাস্থ্যঝুঁকি তৈরি হচ্ছে।"
-        ],
-        "bullets_en": [
-          "Dhaka's air was considered very unhealthy according to the live index of international air quality monitoring institution IQAir.",
-          "According to IQAir data, Pakistan's Lahore topped air pollution with a score of 279.",
-          "Air pollution in Dhaka is raising health risks."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "শীতের শুরুতে ঢাকার বাতাস খুবই অস্বাস্থ্যকর",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": "আপনার এলাকায় কি বায়ুদূষণের মাত্রা বেশি মনে হচ্ছে?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-25T04:01:42.974414+00:00"
-      }
-    },
-    {
-      "story_id": "33887bdf-219c-5c4e-a055-0d19ee96985e",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#BGB",
+        "#Dhaka"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2023-03%2Fcabc1ef1-6711-4be0-9fa6-e642c99496de%2F1.jpeg?rect=0%2C43%2C1599%2C839&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmdiJTIwcGxhdG9vbnMlMjBkZXBsb3llZCUyMGRoYWthJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1NTgyODc3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-25T03:30:00+00:00",
+      "published_at": "2026-11-25T05:00:05+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.7906,
+      "importance_score": 6.75,
+      "rank_score": 4.5512,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/education/admission/8c3923qau0",
-          "title": "১০ বিশ্ববিদ্যালয়ে ভর্তির আবেদন শুরু আজ, জেনে নিন সব তথ্য",
-          "snippet": "১০ বিশ্ববিদ্যালয়ে ভর্তির আবেদন শুরু আজ, জেনে নিন সব তথ্য"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425699/108-bgb-platoons-deployed-in-dhaka-7-other",
+          "title": "108 BGB platoons deployed in Dhaka, 7 other districts",
+          "snippet": "108 BGB platoons deployed in Dhaka, 7 other districts"
         },
         {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/education/500665",
-          "title": "চার বিশ্ববিদ্যালয় ও কৃষিগুচ্ছে ভর্তির তোড়জোড়, আজ শুরু আবেদন",
-          "snippet": "চার বিশ্ববিদ্যালয় ও কৃষিগুচ্ছে ভর্তির তোড়জোড়, আজ শুরু আবেদন"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/108-bgb-platoons-deployed-in-dhaka-7-other-districts-to-maintain-law-and-order",
+          "title": "BGB deploys 108 platoons in Dhaka, 7 other districts",
+          "snippet": "BGB deploys 108 platoons in Dhaka, 7 other districts"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822893/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B8%E0%A6%B9-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A7%A7%E0%A7%A6%E0%A7%AE-%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%9F%E0%A7%81%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%BF-%E0%A6%AE%E0%A7%8B%E0%A6%A4%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%A8",
+          "title": "ঢাকাসহ বিভিন্ন জেলায় ১০৮ প্লাটুন বিজিবি মোতায়েন",
+          "snippet": "ঢাকাসহ বিভিন্ন জেলায় ১০৮ প্লাটুন বিজিবি মোতায়েন"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/bgb-deployed-8-districts/",
+          "title": "ঢাকাসহ ৮ জেলায় ১০৮ প্লাটুন বিজিবি মোতায়েন",
+          "snippet": "ঢাকাসহ ৮ জেলায় ১০৮ প্লাটুন বিজিবি মোতায়েন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "১০ বিশ্ববিদ্যালয়ে ভর্তির আবেদন শুরু হচ্ছে",
-        "title_en": "Admission applications begin for ten universities",
-        "summary_bn": "কৃষি গুচ্ছের ৯ বিশ্ববিদ্যালয় ও জগন্নাথ বিশ্ববিদ্যালয়ে ভর্তি আবেদন শুরু হয়েছে।",
-        "summary_en": "Admission applications have started for nine agricultural cluster universities and Jagannath University.",
+        "title_bn": "ঢাকাসহ আট জেলায় ১০৮ প্লাটুন বিজিবি মোতায়েন করা হয়েছে।",
+        "title_en": "108 BGB platoons deployed in Dhaka and 7 other districts.",
+        "summary_bn": "আইনশৃঙ্খলা পরিস্থিতি নিয়ন্ত্রণ ও জননিরাপত্তা নিশ্চিত করতে ঢাকাসহ দেশের আট জেলায় ১০৮ প্লাটুন বর্ডার গার্ড বাংলাদেশ মোতায়েন করা হয়েছে।",
+        "summary_en": "One hundred and eight platoons of Border Guard Bangladesh have been deployed in Dhaka and seven other districts.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-25T03:30:00+00:00",
-        "lead_bn": "কৃষি গুচ্ছের ৯ বিশ্ববিদ্যালয় ও জগন্নাথ বিশ্ববিদ্যালয়ে ভর্তি আবেদন শুরু হয়েছে।",
-        "lead_en": "Admission applications have started for nine agricultural cluster universities and Jagannath University.",
+        "published_at": "2026-11-25T05:00:05+00:00",
+        "lead_bn": "আইনশৃঙ্খলা পরিস্থিতি নিয়ন্ত্রণ ও জননিরাপত্তা নিশ্চিত করতে ঢাকাসহ দেশের আট জেলায় ১০৮ প্লাটুন বর্ডার গার্ড বাংলাদেশ মোতায়েন করা হয়েছে।",
+        "lead_en": "One hundred and eight platoons of Border Guard Bangladesh have been deployed in Dhaka and seven other districts.",
         "bullets_bn": [
-          "কৃষি গুচ্ছের বিশ্ববিদ্যালয়ে ভর্তির আবেদন করা যাবে ২৫ নভেম্বর থেকে আগামী ১৫ ডিসেম্বর পর্যন্ত।",
-          "কৃষি গুচ্ছের বিশ্ববিদ্যালয়ে আবেদন ফি ১ হাজার ৬০০ টাকা নির্ধারণ করা হয়েছে।",
-          "আগামী ২ জানুয়ারি ২০২৭ তারিখে কৃষি গুচ্ছের ভর্তি পরীক্ষা অনুষ্ঠিত হবে।"
+          "স্বরাষ্ট্র মন্ত্রণালয়ের নির্দেশে ঢাকা, নারায়ণগঞ্জ, গাজীপুর, ময়মনসিংহ, গোপালগঞ্জ, ফরিদপুর, চট্টগ্রাম ও কক্সবাজারে এই সদস্য মোতায়েন করা হয়েছে।",
+          "২৫ নভেম্বর বিজিবি সদর দপ্তরে আয়োজিত সংবাদ সম্মেলনে জানানো হয় যে আরও চার প্লাটুন বিজিবি সদস্য প্রস্তুত রাখা হয়েছে।",
+          "ঢাকার সাভার ও আশুলিয়ায় ১৮ প্লাটুন এবং নারায়ণগঞ্জে ছয় প্লাটুন বিজিবি মোতায়েন করা হয়েছে।"
         ],
         "bullets_en": [
-          "Applications for agricultural cluster universities can be submitted from 25 November to 15 December.",
-          "The application fee for agricultural cluster universities has been set at 1,600 taka.",
-          "The admission test for the agricultural cluster will be held on 2 January 2027."
+          "These members were deployed in Dhaka, Narayanganj, Gazipur, Mymensingh, Gopalganj, Faridpur, Chattogram, and Cox's Bazar under the directives of the Ministry of Home Affairs.",
+          "It was informed at a press briefing held at the BGB headquarters on 25 November that another four platoons of BGB members have been kept ready.",
+          "Eighteen platoons have been deployed in Savar and Ashulia of Dhaka, and six platoons in Narayanganj."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "আইনশৃঙ্খলা পরিস্থিতি নিয়ন্ত্রণ ও জননিরাপত্তা নিশ্চিত করতে ২৫ নভেম্বর বিজিবি সদর দপ্তরে আয়োজিত সংবাদ সম্মেলনে এই তথ্য জানানো হয়। লাইভ ফুটেজ ড্রোন, বডি-ওয়র্ন ক্যামেরা এবং অন্যান্য আধুনিক প্রযুক্তির মাধ্যমে চব্বিশ ঘণ্টা মনিটরিং করা হচ্ছে।",
+        "details_en": "This information was disclosed at a press briefing held at the BGB headquarters on 25 November to control the law and order situation and ensure public security. Live footage is being monitored round the clock using drones, body-worn cameras, and other modern technologies.",
+        "hook_bn": "ঢাকাসহ ৮ জেলায় ১০৮ প্লাটুন বিজিবি",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": "আপনার এলাকায় আইনশৃঙ্খলা পরিস্থিতি কেমন দেখছেন?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 4,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-25T05:01:40.401604+00:00"
+      }
+    },
+    {
+      "story_id": "cfdc9731-5a35-5b58-9d6f-0ec170e5708f",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/cHHATRA.png",
+      "image_caption": null,
+      "published_at": "2026-11-25T03:35:08+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.25,
+      "rank_score": 2.537,
+      "sources": [
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/bangladesh/post-1225518/",
+          "title": "ছাত্রলীগ নেতাকে পুলিশে দেওয়া নিয়ে ছাত্রদলের ২ পক্ষের সংঘর্ষ",
+          "snippet": "ছাত্রলীগ নেতাকে পুলিশে দেওয়া নিয়ে ছাত্রদলের ২ পক্ষের সংঘর্ষ"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822892/%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%80%E0%A6%97-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%B0",
+          "title": "নিষিদ্ধ ছাত্রলীগ নেতাকে নিয়ে ছাত্রদলের দুই পক্ষের সংঘর্ষ, গুলি-ককটেল বিস্ফোরণ",
+          "snippet": "নিষিদ্ধ ছাত্রলীগ নেতাকে নিয়ে ছাত্রদলের দুই পক্ষের সংঘর্ষ, গুলি-ককটেল বিস্ফোরণ"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/rajshahi/983096/%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%80%E0%A6%97-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87-%E0%A6%B8%E0%A7%8B%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%A6-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87",
+          "title": "নিষিদ্ধ ছাত্রলীগ নেতাকে পুলিশে সোপর্দ করা নিয়ে ছাত্রদলের দুই গ্রুপে সংঘর্ষ",
+          "snippet": "নিষিদ্ধ ছাত্রলীগ নেতাকে পুলিশে সোপর্দ করা নিয়ে ছাত্রদলের দুই গ্রুপে সংঘর্ষ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রাজশাহীতে ছাত্রলীগ নেতাকে পুলিশে দেওয়া নিয়ে ছাত্রদলের দুই পক্ষের সংঘর্ষ",
+        "title_en": "Chhatra Dal factions clash in Rajshahi over handing over Chhatra League leader to police",
+        "summary_bn": "রাজশাহীতে নিষিদ্ধ সংগঠন ছাত্রলীগের এক নেতাকে পুলিশে সোপর্দ করাকে কেন্দ্র করে ছাত্রদলের দুই পক্ষের মধ্যে সংঘর্ষ হয়েছে।",
+        "summary_en": "Chhatra Dal factions clashed in Rajshahi over handing over a banned Chhatra League leader to the police.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-25T03:35:08+00:00",
+        "lead_bn": "রাজশাহীতে নিষিদ্ধ সংগঠন ছাত্রলীগের এক নেতাকে পুলিশে সোপর্দ করাকে কেন্দ্র করে ছাত্রদলের দুই পক্ষের মধ্যে সংঘর্ষ হয়েছে।",
+        "lead_en": "Chhatra Dal factions clashed in Rajshahi over handing over a banned Chhatra League leader to the police.",
+        "bullets_bn": [
+          "সংঘর্ষের সময় দু’পক্ষের বিরুদ্ধে আগ্নেয়াস্ত্র, দেশীয় অস্ত্র, পিস্তল, ককটেল ও ইটপাটকেল ব্যবহারের অভিযোগ উঠেছে।",
+          "পরিস্থিতি নিয়ন্ত্রণে আনতে পুলিশ টিয়ারশেল নিক্ষেপ করে এবং সংঘর্ষে ছাত্রদলের কয়েকজন নেতাকর্মী আহত হন।",
+          "আহত নেতাকর্মীদের রাজশাহী মেডিকেল কলেজ হাসপাতালে চিকিৎসা দেওয়া হয়েছে।"
+        ],
+        "bullets_en": [
+          "Factions were accused of using firearms, domestic weapons, pistols, cocktails, and throwing bricks during the clashes.",
+          "Police fired tear shells to bring the situation under control, and several Chhatra Dal activists were injured.",
+          "The injured activists received treatment at the Rajshahi Medical College Hospital."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "১০ বিশ্ববিদ্যালয়ে ভর্তির আবেদন শুরু",
-        "kicker_bn": "ভর্তি পরীক্ষা",
+        "hook_bn": "ছাত্রলীগ নেতাকে পুলিশে দেওয়া নিয়ে ছাত্রদলে সংঘর্ষ",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-25T05:01:40.401604+00:00"
+      }
+    },
+    {
+      "story_id": "9c0e93d4-749a-53cb-b974-5c3c946fef4e",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#US",
+        "#China",
+        "#Trade"
+      ],
+      "image_url": "https://th-i.thgim.com/public/incoming/gfxfcq/article71740912.ece/alternates/LANDSCAPE_1200/2026-09-21T132213Z_2125814534_RC22NNAEAZ0G_RTRMADP_3_USA-CHINA-BESSENT.JPG",
+      "image_caption": null,
+      "published_at": "2026-11-25T03:00:59+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.2065,
+      "sources": [
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/trump-administration-set-to-unveil-new-tariffs-after-probeon-excess-factory-capacity-sources/article71740905.ece",
+          "title": "U.S. set to slap tariffs on China, EU and others after probe on excess industrial capacity: report",
+          "snippet": "U.S. set to slap tariffs on China, EU and others after probe on excess industrial capacity: report"
+        },
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/india-news-us-prepares-new-tariffs-after-trade-probe/live-80042306?maca=en-rss-en-all-1573-rdf",
+          "title": "India news: US prepares new tariffs after trade probe",
+          "snippet": "India news: US prepares new tariffs after trade probe"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মার্কিন প্রশাসন ১৬ দেশের অতিরিক্ত শিল্প সক্ষমতার ওপর নতুন শুল্ক আরোপ করতে যাচ্ছে।",
+        "title_en": "U.S. administration is set to impose new tariffs on 16 countries over excess industrial capacity.",
+        "summary_bn": "মার্কিন প্রশাসন ১৬টি প্রধান বাণিজ্য অংশীদারের অতিরিক্ত শিল্প সক্ষমতার বিরুদ্ধে তদন্তের ফলাফল প্রকাশ করতে চলেছে, যা নতুন আমদানি শুল্ক নিয়ে আসবে।",
+        "summary_en": "The Trump administration is poised to release the findings of a probe into excess industrial capacity in 16 major U.S. trading partners, bringing new import duties.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-25T03:00:59+00:00",
+        "lead_bn": "মার্কিন প্রশাসন ১৬টি প্রধান বাণিজ্য অংশীদারের অতিরিক্ত শিল্প সক্ষমতার বিরুদ্ধে তদন্তের ফলাফল প্রকাশ করতে চলেছে, যা নতুন আমদানি শুল্ক নিয়ে আসবে।",
+        "lead_en": "The Trump administration is poised to release the findings of a probe into excess industrial capacity in 16 major U.S. trading partners, bringing new import duties.",
+        "bullets_bn": [
+          "যুক্তরাষ্ট্রের বাণিজ্য প্রতিনিধির কার্যালয় নতুন শুল্ক প্রস্তাব করবে যা প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের দ্বিতীয় মেয়াদের আগের শুল্কগুলোর সঙ্গে যুক্ত হবে।",
+          "তিনজন সূত্র জানিয়েছেন যে এই শুল্কগুলো প্রতিটি দেশের জন্য বিশেষভাবে তৈরি করা হবে এবং মেক্সিকো ও নরওয়ের পণ্যে তাৎক্ষণিক কোনো শুল্ক আরোপ হওয়ার সম্ভাবনা নেই।",
+          "শ্বেতভদ্র যুক্তরাষ্ট্র ইইউ, জাপান, দক্ষিণ কোরিয়ার পণ্যে ১৫% এবং মালয়েশিয়ার জন্য ১৯% নির্ধারিত শুল্ক হারের সীমা বজায় রাখবে বলে আশা করা হচ্ছে।"
+        ],
+        "bullets_en": [
+          "The U.S. Trade Representative’s office is expected to propose new duties that would stack on top of previous tariffs from President Donald Trump’s second term.",
+          "Three people said the duties would be tailored to each country, with goods from Mexico and Norway unlikely to see immediate levies.",
+          "The White House is expected to honor capped tariff rates including 15% for the EU, Japan and South Korea and 19% for Malaysia."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ফেব্রুয়ারিতে মার্কিন সুপ্রিম কোর্ট প্রশাসনের কিছু শুল্ক বাতিল করেছিল, এবং নতুন এই শুল্কগুলো আংশিক সেগুলোর স্থলাভিষিক্ত হবে। ট্রেড অ্যাক্ট অব ১৯৭৪-এর ধারা ৩০১ এর অধীনে বাণিজ্য প্রতিনিধি কার্যালয় এই তদন্ত চালিয়েছে। প্রশাসনের আগের শুল্কগুলোর কারণে যুক্তরাষ্ট্রে ভোক্তা পণ্যের দাম বৃদ্ধি পেয়েছে এবং রয়টার্স/ইপসোসের একটি জনমত জরিপে দেখা গেছে ৬২ শতাংশ উত্তরদাতা শুল্ক বাতিলের প্রচেষ্টাকে সমর্থন করেছেন।",
+        "details_en": "The duties would partly replace tariffs struck down by the U.S. Supreme Court in February. USTR has been investigating most of the U.S.'s largest trading partners under Section 301 of the Trade Act of 1974 over evidence of excess industrial capacity. The administration's previous tariffs contributed to higher prices on consumer goods, and a Reuters/Ipsos poll showed 62% of respondents would support efforts to repeal them.",
+        "hook_bn": "১৬ দেশের পণ্যে নতুন মার্কিন শুল্ক আসছে",
+        "kicker_bn": "দাম বাড়ছে",
         "share_value": true,
-        "question_bn": "কোন বিশ্ববিদ্যালয়ে আবেদন করতে চান?"
+        "question_bn": "যুক্তরাষ্ট্রের এই নতুন শুল্ক আরোপের সিদ্ধান্ত বৈশ্বিক বাণিজ্যে কী প্রভাব ফেলতে পারে বলে আপনার মনে হয়?"
       },
       "desk_importance": 6.0,
       "outlet_count": 2,
       "trending": false,
-      "social_appeal": 8.0,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-25T04:01:42.974414+00:00"
+        "checked_at": "2026-11-25T05:01:40.401604+00:00"
       }
     }
   ]
