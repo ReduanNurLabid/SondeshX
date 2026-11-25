@@ -1,486 +1,84 @@
 {
-  "updated_at": "2026-11-25T21:00:50.379224",
-  "total_stories": 6,
+  "updated_at": "2026-11-25T22:00:48.755134",
+  "total_stories": 1,
   "stories": [
     {
-      "story_id": "fdbc38cd-a767-5212-a321-8897512c81cc",
+      "story_id": "2d471bfe-2916-5307-b7a9-19667de559e8",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#JahangirAlam",
-        "#CMP",
-        "#AwamiLeague",
-        "#BangladeshPolice"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/15/rrf_sp_1.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-25T18:55:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 4.9811,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/sedition-case-cmp-seizes-2-phones-ex-sp-jahangir-seeks-forensic-examination-1614211",
-          "title": "Sedition case: CMP seizes 2 phones of ex-SP Jahangir, seeks forensic examination",
-          "snippet": "Sedition case: CMP seizes 2 phones of ex-SP Jahangir, seeks forensic examination"
-        },
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/lidikd84r5",
-          "title": "পুলিশ বক্সে আগুন, মামলার বাদী হতে রাজি না হওয়ায় ট্রাফিক সার্জেন্ট সাময়িক বরখাস্ত",
-          "snippet": "পুলিশ বক্সে আগুন, মামলার বাদী হতে রাজি না হওয়ায় ট্রাফিক সার্জেন্ট সাময়িক বরখাস্ত"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/national/500903",
-          "title": "ডিবি হেফাজতে অতিরিক্ত পুলিশ সুপার রাকিবুল হাসান",
-          "snippet": "ডিবি হেফাজতে অতিরিক্ত পুলিশ সুপার রাকিবুল হাসান"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/chitagong/983271/%E0%A6%A8%E0%A6%BE%E0%A6%B6%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A7%80-%E0%A6%B9%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%9A%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%8F%E0%A6%95-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AB%E0%A6%BF%E0%A6%95",
-          "title": "নাশকতা মামলার বাদী হতে না চাওয়ায় এক ট্রাফিক সার্জেন্ট বরখাস্ত",
-          "snippet": "নাশকতা মামলার বাদী হতে না চাওয়ায় এক ট্রাফিক সার্জেন্ট বরখাস্ত"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সাবেক পুলিশ কর্মকর্তা জাহাঙ্গীর আলমের দুটি মোবাইল ফোন জব্দ করেছে সিএমপি",
-        "title_en": "CMP seizes two mobile phones of former police official Jahangir Alam",
-        "summary_bn": "তথ্য ফাঁস ও নিষিদ্ধ আওয়ামী লীগের সাথে যোগাযোগের অভিযোগে করা রাষ্ট্রদ্রোহ মামলায় সাবেক পুলিশ কর্মকর্তা জাহাঙ্গীর আলমের দুটি মোবাইল ফোন জব্দ করেছে পুলিশ।",
-        "summary_en": "Police have seized two mobile phones of former police official Jahangir Alam in a sedition case over leaking information and ties with Awami League.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-25T18:55:00+00:00",
-        "lead_bn": "তথ্য ফাঁস ও নিষিদ্ধ আওয়ামী লীগের সাথে যোগাযোগের অভিযোগে করা রাষ্ট্রদ্রোহ মামলায় সাবেক পুলিশ কর্মকর্তা জাহাঙ্গীর আলমের দুটি মোবাইল ফোন জব্দ করেছে পুলিশ।",
-        "lead_en": "Police have seized two mobile phones of former police official Jahangir Alam in a sedition case over leaking information and ties with Awami League.",
-        "bullets_bn": [
-          "মামলার বাদী ও আরআরএফের সহকারী পুলিশ সুপার আবুল কাশেম ২৫ নভেম্বর দুটি মোবাইল ফোন তদন্ত কর্মকর্তা ইন্সপেক্টর রাসেল মাহমুদের কাছে হস্তান্তর করেন।",
-          "ফরেনসিক পরীক্ষার জন্য আদালতের অনুমতি চেয়ে ২৬ নভেম্বর আবেদন করবে পুলিশ বলে জানিয়েছেন ডিসি মোহাম্মদ শামীম হোসেন।",
-          "বিবৃতিতে অসংগতি বা তথ্য অনুপস্থিত থাকলে নতুন করে রিমান্ড আবেদন করা হতে পারে বলে জানানো হয়েছে।"
-        ],
-        "bullets_en": [
-          "Complainant RRF Assistant Superintendent of Police Abul Kashem handed over the two mobile phones to investigating officer Inspector Russel Mahmud on 25 November.",
-          "Police would seek court permission on 26 November to send the phones for forensic examination, said Deputy Commissioner of Police Mohammad Shamim Hossain.",
-          "A fresh remand application may be filed if information is found missing or there are inconsistencies in statements, police said."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "গত ১০ নভেম্বর নিষিদ্ধ ঘোষিত আওয়ামী লীগের সাথে যোগাযোগ এবং সংবেদনশীল প্রশাসনিক পুলিশ তথ্য ফাঁসের অভিযোগে জাহাঙ্গীর আলমকে জিজ্ঞাসাবাদ করেছিলেন তৎকালীন চট্টগ্রাম রেঞ্জের উপমহাপুলিশ পরিদর্শক মোহাম্মদ আবদুল কুদ্দুস চৌধুরী। একই সময়ে বাহিনীর অভ্যন্তরীণ তথ্য ফাঁস ও নাশকতার অভিযোগে সাত জেলায় নতুন পুলিশ সুপার নিয়োগসহ অভ্যন্তরীণ নজরদারি জোরদার করা হয়েছে।",
-        "details_en": "On 10 November, Jahangir was questioned by then Chattogram Range Deputy Inspector General Mohammad Abdul Quddus Chowdhury over allegations of leaking sensitive police information and maintaining contact with the Awami League. Concurrently, internal police surveillance has been stepped up amid allegations of leaking internal force information and sabotage.",
-        "hook_bn": "সাবেক পুলিশ কর্মকর্তার দুটি ফোন জব্দ",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 4,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-25T21:07:34.997866+00:00"
-      }
-    },
-    {
-      "story_id": "92dc3789-8c17-50fc-b501-749d11951410",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#FamilyPlanning",
-        "#BangladeshGovernment",
-        "#HealthMinistry"
-      ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/183164/fcgincht3475b4wyrbkkzttiiiv5bcmziznlrncl-1280x1119.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-25T21:00:58.824513+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.9051,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/family-planning-campaign-to-begin-nationwide-on-dec-13-state-minister",
-          "title": "Family planning campaign to begin nationwide on Dec 13: State Minister",
-          "snippet": "Family planning campaign to begin nationwide on Dec 13: State Minister"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/economy/news/1183768",
-          "title": "পোশাকশ্রমিকদের কমেছে সাপ্তাহিক ছুটি ও নিয়মিত মজুরি পাওয়ার হার",
-          "snippet": "পোশাকশ্রমিকদের কমেছে সাপ্তাহিক ছুটি ও নিয়মিত মজুরি পাওয়ার হার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ডিসেম্বর থেকে দেশব্যাপী পরিবার পরিকল্পনা কর্মসূচি শুরু হবে",
-        "title_en": "Nationwide family planning campaign begins in December",
-        "summary_bn": "সরকার পরিবার পরিকল্পনা ও টিকাদান কর্মসূচি চালুর ওপর সর্বোচ্চ অগ্রাধিকার দেওয়ায় আগামী ১৩ ডিসেম্বর দেশব্যাপী একটি পরিবার পরিকল্পনা কর্মসূচি শুরু হবে।",
-        "summary_en": "A nationwide family planning campaign will begin on December 13 as the government prioritises reviving family planning and vaccination programmes.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-25T21:00:58.824513+00:00",
-        "lead_bn": "সরকার পরিবার পরিকল্পনা ও টিকাদান কর্মসূচি চালুর ওপর সর্বোচ্চ অগ্রাধিকার দেওয়ায় আগামী ১৩ ডিসেম্বর দেশব্যাপী একটি পরিবার পরিকল্পনা কর্মসূচি শুরু হবে।",
-        "lead_en": "A nationwide family planning campaign will begin on December 13 as the government prioritises reviving family planning and vaccination programmes.",
-        "bullets_bn": [
-          "স্বাস্থ্য ও পরিবার কল্যাণ মন্ত্রণালয়ের প্রতিমন্ত্রী ডা. এম এ মহিউত এ কথা জানিয়েছেন।",
-          "দৈনিক সমকাল কার্যালয়ে যৌথভাবে আয়োজিত একটি গোলটেবিল আলোচনায় প্রধান অতিথি হিসেবে তিনি এই বক্তব্য দেন।",
-          "রাষ্ট্রপতি আগামী ১৩ ডিসেম্বর বছরব্যাপী তীব্র এই কর্মসূচির আনুষ্ঠানিক উদ্বোধন করবেন।"
-        ],
-        "bullets_en": [
-          "State Minister for Health and Family Welfare Dr MA Muhit made the announcement.",
-          "He made the remarks while addressing a roundtable discussion jointly organised at the Daily Samakal office.",
-          "The President will formally inaugurate the year-long intensive campaign on December 13."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "প্রতিমন্ত্রী বলেন যে পূর্ববর্তী অন্তর্বর্তীকালীন সরকারের ভুল নীতির কারণে চার থেকে পাঁচ দশকে গড়ে ওঠা সফল পরিবার পরিকল্পনা ও টিকাদান কর্মসূচি ক্ষতিগ্রস্ত হয়েছে। তিনি উল্লেখ করেন যে অন্তর্বর্তীকালীন সরকার কোনো বিকল্প নির্দেশিকা ছাড়াই খাতভিত্তিক কর্মসূচি বন্ধ করে দিয়েছিল, যা মাঠপর্যায়ের কর্মীদের বেতন এবং সরবরাহ শৃঙ্খল ব্যাহত করেছে। বর্তমান সরকার দায়িত্ব নেওয়ার পর অবিলম্বে দরপত্র আহ্বান করেছে এবং সাতটি বিভাগের গুদামে পরিবার পরিকল্পনা সামগ্রী পৌঁছে গেছে।",
-        "details_en": "The state minister said the previous interim government’s misguided policy decisions had undermined successful family planning and immunisation programmes built over four to five decades. He stated that the interim government discontinued the sector programme without alternative guidelines, disrupting field-level workers' salaries and the supply chain. The current government immediately invited tenders after assuming office, and supplies have reached depots in seven divisions.",
-        "hook_bn": "'ভুল নীতির পরিণতি দুর্নীতির চেয়েও ভয়াবহ'",
-        "kicker_bn": "নতুন তারিখ",
-        "share_value": true,
-        "question_bn": "পরিবার পরিকল্পনা ও টিকাদান সেবা আরও সহজলভ্য করতে আর কী কী পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-25T21:07:34.997866+00:00"
-      }
-    },
-    {
-      "story_id": "facd6433-8404-5310-8aad-7148a96a7f80",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "world_diplomacy"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1599751969826-c0f5503e4f92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8aHVtYW0lMjBxdWFkZXIlMjByZW1lbWJlcnMlMjBoaXMlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTU2NDA0OTR8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-25%2F5jel1gm2%2FCapture.PNG?rect=7%2C0%2C1230%2C646&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-25T18:17:38+00:00",
+      "published_at": "2026-11-25T19:53:49+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.5,
-      "rank_score": 3.6091,
+      "rank_score": 3.7373,
       "sources": [
         {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/crime/8fmrx9f9lo",
+          "title": "পুলিশে অভ্যন্তরীণ নজরদারি: দুই ঊর্ধ্বতন কর্মকর্তা গ্রেপ্তার, একজন হেফাজতে, নজরদারিতে অনেকে",
+          "snippet": "পুলিশে অভ্যন্তরীণ নজরদারি: দুই ঊর্ধ্বতন কর্মকর্তা গ্রেপ্তার, একজন হেফাজতে, নজরদারিতে অনেকে"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/sps-among-14-police-officers-transferred-in-fresh-police-reshuffle",
+          "title": "SPs among 14 police officers transferred in fresh police reshuffle",
+          "snippet": "SPs among 14 police officers transferred in fresh police reshuffle"
+        },
+        {
           "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823022/%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%87-%E0%A6%A6%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%B0-%E0%A6%9B%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%9A%E0%A7%87-%E0%A6%A6%E0%A6%BE%E0%A6%81%E0%A7%9C%E0%A6%BF%E0%A7%9F%E0%A7%87",
-          "title": "পাকিস্তানের পার্লামেন্টে দাদার ছবির নিচে দাঁড়িয়ে আবেগাপ্লুত হুমাম কাদের",
-          "snippet": "পাকিস্তানের পার্লামেন্টে দাদার ছবির নিচে দাঁড়িয়ে আবেগাপ্লুত হুমাম কাদের"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/law-courts/news/1183773",
-          "title": "হাসিনার মাথা থেকে এসেছে গুম-হত্যার বিষয়, বাস্তবায়ন করেছেন জিয়াউল",
-          "snippet": "হাসিনার মাথা থেকে এসেছে গুম-হত্যার বিষয়, বাস্তবায়ন করেছেন জিয়াউল"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/national/500901",
-          "title": "গোপালগঞ্জ থেকে সরানো হচ্ছে দুই আন্তঃনগর ট্রেন",
-          "snippet": "গোপালগঞ্জ থেকে সরানো হচ্ছে দুই আন্তঃনগর ট্রেন"
+          "url": "https://www.ittefaq.com.bd/823029/%E0%A6%B8%E0%A6%BE%E0%A6%A4-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%B8%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%B0-%C2%A0%E0%A6%AC%E0%A6%A6%E0%A6%B2%E0%A6%BF-%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A7%A7%E0%A7%AA",
+          "title": "সাত জেলায় নতুন পুলিশ সুপার, বদলি-পদায়ন ১৪ কর্মকর্তা",
+          "snippet": "সাত জেলায় নতুন পুলিশ সুপার, বদলি-পদায়ন ১৪ কর্মকর্তা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পাকিস্তানের পার্লামেন্টে দাদার ছবির সামনে হুমাম কাদেরের স্মৃতিচারণ",
-        "title_en": "Humam Quader remembers his grandfather in Pakistan parliament",
-        "summary_bn": "চট্টগ্রাম-৭ (রাঙ্গুনিয়া) আসনের সংসদ সদস্য হুমাম কাদের চৌধুরী পাকিস্তানের পার্লামেন্ট হাউসে নিজের দাদার প্রতিকৃতির সামনে দাঁড়িয়ে স্মৃতিচারণ করেছেন।",
-        "summary_en": "Member of Parliament for Chattogram-7 (Rangunia) Humam Quader Chowdhury recalled memories standing before his grandfather's portrait in Pakistan's Parliament House.",
+        "title_bn": "পুলিশে অভ্যন্তরীণ নজরদারি ও তথ্য ফাঁসের অভিযোগে দুই ঊর্ধ্বতন কর্মকর্তা গ্রেপ্তার",
+        "title_en": "Two senior police officers arrested over internal surveillance and information leaks",
+        "summary_bn": "পুলিশের উচ্চপর্যায়ের সূত্র জানিয়েছে, অভ্যন্তরীণ তথ্য ফাঁস এবং সাম্প্রতিক নাশকতার ঘটনায় যোগসাজশের অভিযোগে দুই ঊর্ধ্বতন পুলিশ কর্মকর্তাকে গ্রেপ্তার করা হয়েছে এবং একজনকে হেফাজতে নেওয়া হয়েছে।",
+        "summary_en": "High-level police sources say two senior police officers have been arrested and one taken into custody over internal information leaks and recent sabotage.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "world_diplomacy"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-25T18:17:38+00:00",
-        "lead_bn": "চট্টগ্রাম-৭ (রাঙ্গুনিয়া) আসনের সংসদ সদস্য হুমাম কাদের চৌধুরী পাকিস্তানের পার্লামেন্ট হাউসে নিজের দাদার প্রতিকৃতির সামনে দাঁড়িয়ে স্মৃতিচারণ করেছেন।",
-        "lead_en": "Member of Parliament for Chattogram-7 (Rangunia) Humam Quader Chowdhury recalled memories standing before his grandfather's portrait in Pakistan's Parliament House.",
+        "published_at": "2026-11-25T19:53:49+00:00",
+        "lead_bn": "পুলিশের উচ্চপর্যায়ের সূত্র জানিয়েছে, অভ্যন্তরীণ তথ্য ফাঁস এবং সাম্প্রতিক নাশকতার ঘটনায় যোগসাজশের অভিযোগে দুই ঊর্ধ্বতন পুলিশ কর্মকর্তাকে গ্রেপ্তার করা হয়েছে এবং একজনকে হেফাজতে নেওয়া হয়েছে।",
+        "lead_en": "High-level police sources say two senior police officers have been arrested and one taken into custody over internal information leaks and recent sabotage.",
         "bullets_bn": [
-          "পাকিস্তানের জাতীয় পরিষদের সাবেক স্পিকার ও নিজের দাদা এ কে এম ফজলুল কাদের চৌধুরীর প্রতিকৃতির সামনে দাঁড়িয়েছিলেন তিনি।",
-          "(২৫ নভেম্বর) নিজের ভেরিফায়েড ফেসবুক পেজে ওই প্রতিকৃতির নিচে দাঁড়ানো একটি ছবি প্রকাশ করেছেন তিনি।",
-          "কয়েক প্রজন্ম পর বাংলাদেশের একজন সংসদ সদস্য হিসেবে তিনি এই প্রতিকৃতির সামনে দাঁড়িয়েছেন বলে উল্লেখ করেছেন।"
+          "স্বরাষ্ট্রমন্ত্রী সালেহউদ্দিন আহমদ সচিবালয়ে এক সংবাদ সম্মেলনে জানান, আইনশৃঙ্খলা রক্ষাকারী বাহিনীর কিছু কর্মকর্তা ফ্যাসিস্ট শক্তির সঙ্গে যুক্ত আছেন।",
+          "চট্টগ্রাম রেঞ্জ রিজার্ভ ফোর্সে কর্মরত পুলিশ সুপার মোহাম্মদ জাহাঙ্গীর আলমকে রাষ্ট্রদ্রোহের মামলায় গ্রেপ্তার করা হয়।",
+          "সরকার সাত জেলায় নতুন পুলিশ সুপার নিয়োগ দিয়েছে এবং ১৪ কর্মকর্তাকে বদলি ও পদায়ন করা হয়েছে।"
         ],
         "bullets_en": [
-          "He stood in front of the portrait of his grandfather AKM Fazlul Quader Chowdhury, a former Speaker of Pakistan's National Assembly.",
-          "He published a photo of himself standing under the portrait on his verified Facebook page on Wednesday (November 25).",
-          "He mentioned that he stood before the portrait as a Member of Parliament from Bangladesh after several generations."
+          "Home Minister Salahuddin Ahmed told a press conference that some law enforcement officers are linked with fascist forces.",
+          "Superintendent of Police Mohammad Jahangir Alam, working in the Chattogram Range Reserve Force, was arrested in a sedition case.",
+          "The government appointed new superintendents of police in seven districts and transferred and posted 14 officials."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "পাকিস্তানের পার্লামেন্টে হুমাম কাদেরের স্মৃতিচারণ",
-        "kicker_bn": null,
+        "details_bn": "ভারতে অবস্থানরত ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনার দেশে ফেরার ঘোষণা ও কর্মসূচি ঘিরে নাশকতার আশঙ্কায় পুলিশ বাহিনীতে নজরদারি বাড়িয়েছে সরকার। পুলিশ সুপার মোহাম্মদ জাহাঙ্গীর আলম ব্যক্তিগত ও সরকারি মুঠোফোনে নিষিদ্ধ আওয়ামী লীগের নেতাদের সঙ্গে যোগাযোগ রাখতেন বলে অভিযোগে বলা হয়েছে। এছাড়া অতিরিক্ত পুলিশ সুপার আবুল হাসানকে বিএনপির কর্মী মকবুল হোসেন হত্যা মামলায় কারাগারে পাঠানো হয়েছে এবং মো. কাবুল হাসানকে হেফাজতে নেওয়া হয়েছে।",
+        "details_en": "Amid fears of sabotage surrounding the announcement of the return of ousted Prime Minister Sheikh Hasan living in India, the government increased surveillance in the police force. SP Mohammad Jahangir Alam was accused of communicating with banned Awami League leaders via personal and official mobile phones. Additionally, Additional SP Abul Hasan was sent to jail in a BNP worker Mokbul Hossain murder case and Md. Kabul Hasan was taken into custody.",
+        "hook_bn": "পুলিশের ভেতরে নজরদারি ও দুই কর্মকর্তা গ্রেপ্তার",
+        "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 6.0,
       "outlet_count": 3,
       "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-25T21:07:34.997866+00:00"
-      }
-    },
-    {
-      "story_id": "11bfafea-63e5-5c99-ba44-ef65553e8c60",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-05-12%2F2fkgp87o%2FJamaat-e-Islami-fb-12052026.png?rect=0%2C83%2C2160%2C1134&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-25T20:23:10+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.657,
-      "sources": [
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/rs7xi6rzpn",
-          "title": "শফিকুর রহমানকে নিয়ে অস্ট্রেলীয় পত্রিকার প্রতিবেদন প্রত্যাহার চায় জামায়াত, পাঠিয়েছে আইনি নোটিশ",
-          "snippet": "শফিকুর রহমানকে নিয়ে অস্ট্রেলীয় পত্রিকার প্রতিবেদন প্রত্যাহার চায় জামায়াত, পাঠিয়েছে আইনি নোটিশ"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823024/%E2%80%98%E0%A6%A6%E0%A7%8D%E0%A6%AF-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A8%E2%80%99-%E0%A6%8F%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%B9%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A6%A8",
-          "title": "‘দ্য অস্ট্রেলিয়ান’-এর মানহানিকর প্রতিবেদন প্রত্যাহার করে ক্ষমা চাইতে হবে: গোলাম পরওয়ার",
-          "snippet": "‘দ্য অস্ট্রেলিয়ান’-এর মানহানিকর প্রতিবেদন প্রত্যাহার করে ক্ষমা চাইতে হবে: গোলাম পরওয়ার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "দ্য অস্ট্রেলিয়ান পত্রিকার প্রতিবেদন প্রত্যাহার চায় জামায়াত",
-        "title_en": "Jamaat demands retraction of report by The Australian",
-        "summary_bn": "বাংলাদেশ জামায়াতে ইসলামীর আমির শফিকুর রহমানের সফর নিয়ে দ্য অস্ট্রেলিয়ান পত্রিকায় প্রকাশিত প্রতিবেদনকে মিথ্যা ও মানহানিকর বলে দাবি করেছে দলটি।",
-        "summary_en": "Jamaat-e-Islami claimed that a report published in The Australian regarding party leader Shafiqur Rahman's visit is false and defamatory.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-25T20:23:10+00:00",
-        "lead_bn": "বাংলাদেশ জামায়াতে ইসলামীর আমির শফিকুর রহমানের সফর নিয়ে দ্য অস্ট্রেলিয়ান পত্রিকায় প্রকাশিত প্রতিবেদনকে মিথ্যা ও মানহানিকর বলে দাবি করেছে দলটি।",
-        "lead_en": "Jamaat-e-Islami claimed that a report published in The Australian regarding party leader Shafiqur Rahman's visit is false and defamatory.",
-        "bullets_bn": [
-          "জামায়াতের সেক্রেটারি জেনারেল মিয়া গোলাম পরওয়ার অবিলম্বে প্রতিবেদনটি প্রত্যাহার এবং প্রকাশ্যে ক্ষমা চাওয়ার দাবি জানিয়েছেন।",
-          "জামায়াতের পক্ষ থেকে পত্রিকাটির প্রকাশক নেশনওয়াইড নিউজ পিটিওয়াই লিমিটেডকে আনুষ্ঠানিক আইনি নোটিশ পাঠানো হয়েছে।",
-          "নোটিশে প্রতিবেদনটি সংশোধন, প্রত্যাহার ও ক্ষমা প্রার্থনা করে ৪৮ ঘণ্টার মধ্যে লিখিত জবাব দিতে বলা হয়েছে।"
-        ],
-        "bullets_en": [
-          "Jamaat Secretary General Mia Golam Porwar demanded the immediate retraction of the report and a public apology.",
-          "A formal legal notice was sent to the publisher of the newspaper, Nationwide News Pty Limited, on behalf of Jamaat.",
-          "The notice demanded a written reply within forty-eight hours, requesting correction, retraction, and an apology for the report."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "দ্য অস্ট্রেলিয়ান পত্রিকার প্রতিবেদনে শফিকুর রহমানের ভিসা বাতিল এবং গাজার হামাস নেতাকে নিয়ে তাঁর মন্তব্য তুলে ধরা হয়। জামায়াত জানায়, সংসদ অনুমোদিত সরকারি সফরের দিনেই এই প্রতিবেদন প্রকাশ করা হয় এবং ভিসা বাতিলের আবেদনকারী রেমন্ড সলোমনের পরিচয় গোপন রাখা হয়। এছাড়া ১৯৭১ সালে মানবতাবিরোধী অপরাধে দণ্ডিত নেতাদের নিয়ে করা পোস্ট হ্যাকড অ্যাকাউন্ট থেকে দেওয়া হয়েছিল বলে জানায় দলটি।",
-        "details_en": "The report by The Australian highlighted the cancellation of Shafiqur Rahman's visa and his remarks regarding a Hamas leader in Gaza. Jamaat stated that the report was published on the day of his parliament-approved official visit and concealed the identity of visa cancellation applicant Raymond Solomon. The party also stated that a post regarding leaders convicted of crimes against humanity in 1971 was made from a hacked account.",
-        "hook_bn": "মিথ্যা, বিভ্রান্তিকর ও মানহানিকর প্রতিবেদন প্রত্যাহার চায় জামায়াত",
-        "kicker_bn": "আইনি নোটিশ",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-25T21:07:34.997866+00:00"
-      }
-    },
-    {
-      "story_id": "04fd67bd-2b17-5eab-b658-b761eb4cc4e1",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "society_education",
-        "economy_business",
-        "governance_law"
-      ],
-      "region": "international",
-      "tags": [
-        "#SuvenduAdhikari",
-        "#WestBengal",
-        "#CoochBehar",
-        "#Bangladesh"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/05/08/suvendu_adhikari.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-25T19:15:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.2569,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/world/south-asia/west-bengal-cm-suvendu-orders-police-trace-deport-illegal-muslim-immigrants-1614216",
-          "title": "West Bengal CM Suvendu orders police to trace, deport illegal Muslim immigrants",
-          "snippet": "West Bengal CM Suvendu orders police to trace, deport illegal Muslim immigrants"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/europe/983275/%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%A8%E0%A7%87-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%80%E0%A6%B0-%E0%A6%A2%E0%A6%B2-%E0%A6%8F%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%87-%E0%A6%8F%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A7%A8-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0",
-          "title": "স্পেনে অভিবাসীর ঢল, এক দিনেই এলেন প্রায় ২ হাজার",
-          "snippet": "স্পেনে অভিবাসীর ঢল, এক দিনেই এলেন প্রায় ২ হাজার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পশ্চিমবঙ্গের মুখ্যমন্ত্রী শুভেন্দু অবৈধ মুসলিম অভিবাসীদের ফেরত পাঠানোর নির্দেশ দিয়েছেন",
-        "title_en": "West Bengal CM Suvendu orders police to deport illegal Muslim immigrants",
-        "summary_bn": "পশ্চিমবঙ্গের মুখ্যমন্ত্রী শুভেন্দু অধিকারী কোচবিহার জেলা থেকে অবৈধ মুসলিম অভিবাসীদের শনাক্ত করে ফেরত পাঠানোর নির্দেশ দিয়েছেন পুলিশকে।",
-        "summary_en": "West Bengal Chief Minister Suvendu Adhikari asked the police to track down and deport illegal Muslim immigrants from Cooch Behar district.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "society_education",
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-25T19:15:00+00:00",
-        "lead_bn": "পশ্চিমবঙ্গের মুখ্যমন্ত্রী শুভেন্দু অধিকারী কোচবিহার জেলা থেকে অবৈধ মুসলিম অভিবাসীদের শনাক্ত করে ফেরত পাঠানোর নির্দেশ দিয়েছেন পুলিশকে।",
-        "lead_en": "West Bengal Chief Minister Suvendu Adhikari asked the police to track down and deport illegal Muslim immigrants from Cooch Behar district.",
-        "bullets_bn": [
-          "শুভেন্দু অধিকারী পুলিশ সুপার মনীশ জোশীকে প্রতিটি অবৈধ মুসলিম অভিবাসীকে চিহ্নিত করার নির্দেশ দিয়েছেন।",
-          "তিনি বলেন যে বাংলাদেশ থেকে আসা হিন্দুদের শরণার্থী হিসেবে আশ্রয় দেওয়া উচিত।",
-          "তিনি রাজ্য পুলিশ ও সীমান্ত নিরাপত্তা বাহিনীকে আন্তর্জাতিক সীমান্তের নিরাপত্তা জোরদার করার আহ্বান জানান।"
-        ],
-        "bullets_en": [
-          "Adhikari told Superintendent of Police Manish Joshi to identify illegal Muslim immigrants one by one.",
-          "He stated that Hindus coming from Bangladesh should be given shelter as refugees.",
-          "He called on state police and the Border Security Force to strengthen international border security."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "কোচবিহার জেলায় এক কর্মসূচি চলাকালীন মুখ্যমন্ত্রী এই নির্দেশ দেন। তিনি জানান, রাজ্য সরকার সীমান্ত অবকাঠামো ও বেড়ার কাজের জন্য প্রয়োজনীয় জমি বিএসএফকে দিয়েছে।",
-        "details_en": "During a programme in Cooch Behar, the chief minister stated that the state government had provided the necessary land to the BSF for border infrastructure and fencing.",
-        "hook_bn": "অনুপ্রবেশকারীদের চিহ্নিত করে ফেরত পাঠানো হবে",
-        "kicker_bn": "নির্দেশনা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": false,
       "social_appeal": 6.0,
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-25T21:07:34.997866+00:00"
-      }
-    },
-    {
-      "story_id": "d75fadc4-a35e-5ccb-b550-85649ec7c004",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Egypt",
-        "#Cairo",
-        "#VehicleFire",
-        "#HealthMinistry"
-      ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b073e9ed881-1795636894.jpg?resize=1920%2C1440",
-      "image_caption": null,
-      "published_at": "2026-11-25T18:55:23+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.189,
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss",
-          "title": "At least 30 killed in Egypt vehicle fire, health ministry says",
-          "snippet": "At least 30 killed in Egypt vehicle fire, health ministry says"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/country/500904",
-          "title": "টিকটকে পরিচয়, ঢাকায় এনে স্কুলছাত্রীকে ধর্ষণের অভিযোগ",
-          "snippet": "টিকটকে পরিচয়, ঢাকায় এনে স্কুলছাত্রীকে ধর্ষণের অভিযোগ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মিশরে তেলের লরি উল্টে অগ্নিকাণ্ডে অন্তত ৩০ জনের মৃত্যু",
-        "title_en": "At least 30 killed in Egypt vehicle fire after petroleum truck overturns",
-        "summary_bn": "মিশরের স্বাস্থ্য মন্ত্রণালয়ের তথ্যমতে, কায়রোতে পেট্রোলিয়াম পণ্যবাহী একটি যানবাহন উল্টে আগুন লেগে অন্তত ৩০ জন নিহত এবং ২৫ জন আহত হয়েছেন।",
-        "summary_en": "At least 30 people died and 25 were injured after a petroleum vehicle overturned and caught fire in Cairo, according to Egypt’s Health Ministry.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-25T18:55:23+00:00",
-        "lead_bn": "মিশরের স্বাস্থ্য মন্ত্রণালয়ের তথ্যমতে, কায়রোতে পেট্রোলিয়াম পণ্যবাহী একটি যানবাহন উল্টে আগুন লেগে অন্তত ৩০ জন নিহত এবং ২৫ জন আহত হয়েছেন।",
-        "lead_en": "At least 30 people died and 25 were injured after a petroleum vehicle overturned and caught fire in Cairo, according to Egypt’s Health Ministry.",
-        "bullets_bn": [
-          "স্থানীয় সংবাদমাধ্যম জানিয়েছে, একটি ট্রাক নিয়ন্ত্রণ হারিয়ে ডিভাইডারে ধাক্কা দিলে বিস্ফোরণ ঘটে এবং এতে ২৭টি যানবাহন পুড়ে যায়।",
-          "মিশরের স্বাস্থ্য মন্ত্রণালয় জানিয়েছে, ঘটনাস্থলে ৩৯টি অ্যাম্বুলেন্স পাঠানো হয়েছে এবং আহতদের নিকটস্থ হাসপাতালে স্থানান্তর করা হয়েছে।",
-          "পাবলিক প্রসিকিউটর এই দুর্ঘটনার তদন্ত শুরু করেছেন এবং নিহতদের ডিএনএ নমুনা সংগ্রহের নির্দেশ দিয়েছেন।"
-        ],
-        "bullets_en": [
-          "Local media reported that a truck hit the central reservation and exploded, resulting in the burning of 27 vehicles.",
-          "Egypt's Health Ministry sent 39 ambulances to the site and transferred the injured to nearby hospitals for medical care.",
-          "The public prosecutor has launched an investigation into the crash and ordered the collection of DNA samples from the victims."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "গিজার ইমবামা জেলার ওয়ারাক এলাকার একটি টানেলের ওপর এই অগ্নিকাণ্ড ঘটে। এই রিং রোডটি কায়রো, গিজা এবং কাল্যুবিয়াকে সংযুক্ত করেছে। প্রধানমন্ত্রী মোস্তফা মাদবৌলি নিহতদের পরিবারের প্রতি সমবেদনা জানিয়েছেন এবং আহতদের চিকিৎসার খরচ রাষ্ট্র বহন করবে বলে নির্দেশ দিয়েছেন। প্রেসিডেন্ট আবদেল ফাত্তাহ আল-সিসি এই ঘটনায় গভীর শোক প্রকাশ করেছেন এবং আহতদের দ্রুত আরোগ্য কামনা করেছেন।",
-        "details_en": "The fire broke out above a tunnel in Giza’s Imbaba district on a road connecting Cairo, Giza, and Qalyubia. Prime Minister Mostafa Madbouly ordered that the state cover the medical expenses of the victims' families. President Abdel Fattah el-Sisi expressed his condolences to the families and wished the injured a speedy recovery. The Ministry of Health continues to coordinate with authorities to provide medical care.",
-        "hook_bn": "কায়রোর রিং রোডে আগুনে ৩০ মৃত্যু",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-25T21:07:34.997866+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-25T22:01:45.778165+00:00"
       }
     }
   ]
