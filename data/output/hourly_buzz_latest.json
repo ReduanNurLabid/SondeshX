@@ -1,397 +1,310 @@
 {
-  "updated_at": "2026-11-25T18:00:45.854607",
-  "total_stories": 6,
+  "updated_at": "2026-11-25T19:00:44.910988",
+  "total_stories": 4,
   "stories": [
     {
-      "story_id": "908e0a20-2a25-5372-8a96-a3abc91ab2f0",
+      "story_id": "ce5d92f1-a99a-58c5-b48f-7c5a0516d9a5",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
-        "economy_business",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#SheikhHasina",
+        "#IndiaBangladesh",
+        "#Extradition",
+        "#RandhirJaiswal"
       ],
-      "image_url": "https://media.channelionline.com/2026/11/WhatsApp-Image-2026-11-25-at-11.01.50-PM.jpeg?w=1200",
+      "image_url": "https://th-i.thgim.com/public/incoming/1f4n2b/article71743888.ece/alternates/LANDSCAPE_1200/2026-11-24T025432Z_2061744365_RC2PF5AGMYVK_RTRMADP_3_BANGLADESH-POLITICS-HASINA.JPG",
       "image_caption": null,
-      "published_at": "2026-11-25T17:18:59+00:00",
+      "published_at": "2026-11-25T18:01:32+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.4549,
+      "importance_score": 8.75,
+      "rank_score": 7.2184,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/portugal-approves-2027-budget-zero-vat-food/",
-          "title": "পর্তুগালের ২০২৭ সালের বাজেট অনুমোদন, খাদ্যপণ্যে শূন্য ভ্যাট, আবাসন ও পেনশনে বড় পরিবর্তন",
-          "snippet": "পর্তুগালের ২০২৭ সালের বাজেট অনুমোদন, খাদ্যপণ্যে শূন্য ভ্যাট, আবাসন ও পেনশনে বড় পরিবর্তন"
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/national/mea-separates-sheikh-hasinas-plans-to-return-to-bangladesh-from-issue-of-extradition/article71743712.ece",
+          "title": "MEA separates Sheikh Hasina’s plans to return to Bangladesh from issue of extradition",
+          "snippet": "MEA separates Sheikh Hasina’s plans to return to Bangladesh from issue of extradition"
+        },
+        {
+          "name": "DW বাংলা",
+          "url": "https://www.dw.com/bn/শেখ-হাসিনার-বাংলাদেশে-ফেরার-পরিকল্পনা-এবং-প্রত্যর্পণের-অনুরোধ-সম্পূর্ণ-আলাদা-বিষয়-জয়সওয়াল/a-80051024?maca=ben-rss-ben-all-3197-rdf",
+          "title": "শেখ হাসিনার বাংলাদেশে ফেরার পরিকল্পনা এবং প্রত্যর্পণের অনুরোধ সম্পূর্ণ আলাদা বিষয় : জয়সওয়াল",
+          "snippet": "শেখ হাসিনার বাংলাদেশে ফেরার পরিকল্পনা এবং প্রত্যর্পণের অনুরোধ সম্পূর্ণ আলাদা বিষয় : জয়সওয়াল"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/india-separates-hasinas-return-plan-from-extradition",
+          "title": "India ‘separates’ Hasina’s return plan from extradition",
+          "snippet": "India ‘separates’ Hasina’s return plan from extradition"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পর্তুগালের ২০২৭ সালের বাজেট পাস হয়েছে",
-        "title_en": "Portugal passes state budget for 2027",
-        "summary_bn": "পর্তুগালের জাতীয় সংসদ দেশটির ২০২৭ সালের রাষ্ট্রীয় বাজেট অনুমোদন করেছে, যাতে জীবনযাত্রার ব্যয় কমানো ও আবাসন সংকট মোকাবিলার ব্যবস্থা রয়েছে।",
-        "summary_en": "The national parliament of Portugal has approved the country's state budget for 2027, including measures to lower living costs.",
+        "title_bn": "শেখ হাসিনার ফেরার পরিকল্পনা ও প্রত্যর্পণ আলাদা বিষয়: ভারত",
+        "title_en": "India separates Sheikh Hasina’s return plan from her extradition request",
+        "summary_bn": "বাংলাদেশের সাবেক প্রধানমন্ত্রী শেখ হাসিনার দেশে ফেরার পরিকল্পনা এবং তাকে প্রত্যর্পণের অনুরোধ আলাদা বিষয় বলে জানিয়েছে ভারতের পররাষ্ট্র মন্ত্রণালয়।",
+        "summary_en": "India’s Ministry of External Affairs stated that Sheikh Hasina’s plan to return to Bangladesh and her extradition request are separate issues.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "economy_business",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-25T17:18:59+00:00",
-        "lead_bn": "পর্তুগালের জাতীয় সংসদ দেশটির ২০২৭ সালের রাষ্ট্রীয় বাজেট অনুমোদন করেছে, যাতে জীবনযাত্রার ব্যয় কমানো ও আবাসন সংকট মোকাবিলার ব্যবস্থা রয়েছে।",
-        "lead_en": "The national parliament of Portugal has approved the country's state budget for 2027, including measures to lower living costs.",
+        "published_at": "2026-11-25T18:01:32+00:00",
+        "lead_bn": "বাংলাদেশের সাবেক প্রধানমন্ত্রী শেখ হাসিনার দেশে ফেরার পরিকল্পনা এবং তাকে প্রত্যর্পণের অনুরোধ আলাদা বিষয় বলে জানিয়েছে ভারতের পররাষ্ট্র মন্ত্রণালয়।",
+        "lead_en": "India’s Ministry of External Affairs stated that Sheikh Hasina’s plan to return to Bangladesh and her extradition request are separate issues.",
         "bullets_bn": [
-          "নির্দিষ্ট খাদ্যপণ্যে মূল্য সংযোজন কর বা আইভিএ শূন্য করা হয়েছে।",
-          "২৪ নভেম্বর সংসদে ক্ষমতাসীন জোটের সমর্থনে বাজেটটি পাস হয়।",
-          "বাড়ির মালিকদের মাসিক ২ হাজার ৩০০ ইউরো পর্যন্ত মাঝারি ভাড়ার ক্ষেত্রে নির্দিষ্ট কর সুবিধা বাতিল করা হয়েছে।"
+          "এমইএর মুখপাত্র রণধীর জয়সওয়াল জানান, ট্রাভেল ডকুমেন্টে স্বেচ্ছায় ফেরা এবং বাংলাদেশের প্রত্যর্পণের অনুরোধ সম্পূর্ণ আলাদা বিষয়।",
+          "অধ্যাপক মুহাম্মদ ইউনূসের অন্তর্বর্তী সরকারের দেওয়া প্রত্যর্পণের অনুরোধটি ভারতের প্রচলিত প্রক্রিয়া অনুযায়ী পরীক্ষা করে দেখা হচ্ছে।",
+          "দেশে ফিরতে শেখ হাসিনা যুক্তরাজ্যভিত্তিক এক ল ফার্মের মাধ্যমে নতুন পাসপোর্ট চেয়ে বাংলাদেশ হাইকমিশনে আবেদন জানিয়েছেন।"
         ],
         "bullets_en": [
-          "Value added tax on certain food items has been set to zero.",
-          "The budget was passed in parliament on November 24 with the support of the ruling coalition.",
-          "Specific tax benefits for landlords for medium rents up to 2,300 euros per month have been cancelled."
+          "MEA spokesperson Randhir Jaiswal said returning voluntarily on a travel document is separate from Bangladesh’s extradition request.",
+          "The extradition request from Prof. Mohammed Yunus’s interim government is being examined according to India’s established processes.",
+          "Hasina requested the Bangladesh High Commission via a U.K. law firm for a fresh passport to return home."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "২৪ নভেম্বর চূড়ান্ত ভোটাভুটিতে ক্ষমতাসীন সোশ্যাল ডেমোক্রেটিক পার্টি ও সিডিএস-পিিপি জোটের সমর্থনে বাজেটটি পাস হয়। চার দিনের বিশেষ আলোচনা ও ভোটাভুটিতে সংসদে ২ হাজার ৮০০টির বেশি সংশোধনী প্রস্তাব বিবেচনা করা হয়, যার মধ্যে ৩৪৩টি অনুমোদন পায়। বিরোধী সমাজতান্ত্রিক দল ভোটদানে বিরত ছিল এবং অন্য দলগুলো বিপক্ষে ভোট দেয়।",
-        "details_en": "The budget was passed in the final vote on November 24 with the support of the ruling Social Democratic Party and CDS-PP coalition. Over 2,800 amendment proposals were considered during four days of special discussion and voting, of which 343 were approved. The opposition Socialist Party abstained, while other parties voted against it.",
-        "hook_bn": "খাদ্যপণ্যে শূন্য ভ্যাট রেখে পর্তুগালের বাজেট পাস",
-        "kicker_bn": "বাজেট অনুমোদন",
+        "details_bn": "গোপালগঞ্জ ও নড়াইলসহ বিভিন্ন স্থানে আওয়ামী লীগ সমর্থকেরা বিক্ষোভ করছেন, যেখানে কর্মীদের লক্ষ্য করেছে আইনপ্রয়োগকারী সংস্থা। ভারত বাংলাদেশে সংখ্যালঘুদের ওপর সহিংসতার ঘটনায় উদ্বেগ প্রকাশ করে এসব ঘটনার তদন্ত ও বিচার নিশ্চিত করার আহ্বান জানিয়েছে।",
+        "details_en": "Awami League supporters have been agitating in places including Gopalganj and Narail. India also expressed concern over incidents of violence against minorities in Bangladesh and urged authorities to investigate thoroughly.",
+        "hook_bn": "'স্বচ্ছায় ফেরা ও প্রত্যর্পণ আলাদা বিষয়'",
+        "kicker_bn": null,
         "share_value": false,
-        "question_bn": "পর্তুগালের নতুন এই বাজেট আপনার জীবনযাত্রায় কেমন প্রভাব ফেলবে বলে আপনি মনে করেন?"
+        "question_bn": null
       },
+      "desk_importance": 8.0,
+      "outlet_count": 3,
+      "trending": true,
+      "social_appeal": 9.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-25T18:09:34.220371+00:00"
+        "checked_at": "2026-11-25T19:04:27.058150+00:00"
       }
     },
     {
-      "story_id": "de958fa2-dc0d-58e6-b1e5-bd1c5154f479",
-      "primary_category": "economy_business",
+      "story_id": "dba3961e-da43-5c70-9830-b603983e889e",
+      "primary_category": "society_education",
       "interest_categories": [
-        "economy_business"
+        "society_education",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#DhakaArichaHighway",
+        "#StudentProtest"
       ],
-      "image_url": "https://images.unsplash.com/photo-1741176505800-caaa3a52631a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bWluaW11bSUyMHdhZ2UlMjBnYXJtZW50JTIwd29ya2VycyUyMGJ1c2luZXNzfGVufDF8MHx8fDE3OTU2Mjk3MDl8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1750091036429-c562076e4cdc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8c3R1ZGVudHMlMjBibG9jayUyMGhpZ2h3YXklMjBhbGxlZ2VkJTIwZWR1Y2F0aW9ufGVufDF8MHx8fDE3OTU2MzM0MTN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-25T18:01:00+00:00",
+      "published_at": "2026-11-25T17:35:17+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.3024,
+      "importance_score": 7.75,
+      "rank_score": 5.5214,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/business/983250/%E0%A6%9B%E0%A7%8B%E0%A6%9F-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%B6%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A7%9F-%E0%A7%A7%E0%A7%AD-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%9F%E0%A6%95%E0%A7%87-%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A7%8B",
-          "title": "ছোট কারখানা বন্ধের আশঙ্কায় ১৭ হাজারে আটকে গেলো মজুরি",
-          "snippet": "ছোট কারখানা বন্ধের আশঙ্কায় ১৭ হাজারে আটকে গেলো মজুরি"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/campus1/425772/ju-students-block-highway-over-fellow%E2%80%99s-alleged",
+          "title": "JU students block highway over fellow’s alleged assault by Army men",
+          "snippet": "JU students block highway over fellow’s alleged assault by Army men"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/ju-students-block-highway-over-alleged-assault-army-personnel-1614171",
+          "title": "JU students block highway over alleged assault by army personnel",
+          "snippet": "JU students block highway over alleged assault by army personnel"
+        },
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/uian7i5zi2",
+          "title": "শিক্ষার্থীকে মারধরের অভিযোগে দুই ঘণ্টা ঢাকা-আরিচা মহাসড়ক অবরোধ",
+          "snippet": "শিক্ষার্থীকে মারধরের অভিযোগে দুই ঘণ্টা ঢাকা-আরিচা মহাসড়ক অবরোধ"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/ju-students-block-highway-over-fellows-alleged-assault-by-army-men",
+          "title": "JU students block highway over fellow’s alleged assault by Army men",
+          "snippet": "JU students block highway over fellow’s alleged assault by Army men"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পোশাকশ্রমিকদের নতুন ন্যূনতম মজুরি ১৭ হাজার টাকা নির্ধারিত হয়েছে।",
-        "title_en": "New minimum wage for garment workers is set at 17000 Taka.",
-        "summary_bn": "ছোট ও মাঝারি পোশাক কারখানা বন্ধ হয়ে যাওয়ার আশঙ্কা এবং মালিকদের আর্থিক সক্ষমতা বিবেচনায় নিয়ে নিম্নতম মজুরি বোর্ড নতুন ন্যূনতম মজুরি ১৭ হাজার টাকা নির্ধারণ করেছে।",
-        "summary_en": "Considering the risk of closure of small and medium garment factories and owners financial capacity, the minimum wage board set the new minimum wage at 17000 Taka.",
+        "title_bn": "সহপাঠীকে সেনাসদস্যদের মারধরের অভিযোগে মহাসড়ক অবরোধ করেন জাবি শিক্ষার্থীরা",
+        "title_en": "JU students block highway over alleged assault of peer by Army personnel",
+        "summary_bn": "সহপাঠীকে সেনাসদস্যরা মারধর করেছেন এমন অভিযোগে ঢাকা-আরিচা মহাসড়ক দুই ঘণ্টা অবরোধ করেন জাহাঙ্গীরনগর বিশ্ববিদ্যালয়ের শিক্ষার্থীরা।",
+        "summary_en": "Jahangirnagar University students blocked the Dhaka-Aricha highway for two hours following allegations that Army personnel assaulted a fellow student.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business"
+          "society_education",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-25T18:01:00+00:00",
-        "lead_bn": "ছোট ও মাঝারি পোশাক কারখানা বন্ধ হয়ে যাওয়ার আশঙ্কা এবং মালিকদের আর্থিক সক্ষমতা বিবেচনায় নিয়ে নিম্নতম মজুরি বোর্ড নতুন ন্যূনতম মজুরি ১৭ হাজার টাকা নির্ধারণ করেছে।",
-        "lead_en": "Considering the risk of closure of small and medium garment factories and owners financial capacity, the minimum wage board set the new minimum wage at 17000 Taka.",
+        "published_at": "2026-11-25T17:35:17+00:00",
+        "lead_bn": "সহপাঠীকে সেনাসদস্যরা মারধর করেছেন এমন অভিযোগে ঢাকা-আরিচা মহাসড়ক দুই ঘণ্টা অবরোধ করেন জাহাঙ্গীরনগর বিশ্ববিদ্যালয়ের শিক্ষার্থীরা।",
+        "lead_en": "Jahangirnagar University students blocked the Dhaka-Aricha highway for two hours following allegations that Army personnel assaulted a fellow student.",
         "bullets_bn": [
-          "শ্রমিকপক্ষের দাবি ছিল ১৮ হাজার টাকা।",
-          "মালিকপক্ষ সর্বশেষ ১৬ হাজার টাকা দিতে রাজি ছিল।",
-          "দুই পক্ষের মধ্যে সমঝোতা না হওয়ায় ভোটাভুটির মাধ্যমে নতুন মজুরি নির্ধারণ করা হয়।"
+          "আন্দোলনকারীরা অভিযুক্তদের বিরুদ্ধে ব্যবস্থা গ্রহণ এবং ভুক্তভোগী শিক্ষার্থীর চিকিৎসার ক্ষতিপূরণের দাবি জানান।",
+          "দাবি আদায় এবং ঘটনার সুস্পষ্ট ব্যাখ্যা না পাওয়া পর্যন্ত অবরোধ চালিয়ে যাওয়ার কথা জানিয়েছিলেন আন্দোলনকারীরা।",
+          "সেনা কর্মকর্তারা উপাচার্যকে তদন্তের আশ্বাস দেওয়ার পর শিক্ষার্থীরা মহাসড়ক অবরোধ তুলে নেন।"
         ],
         "bullets_en": [
-          "Workers demanded 18000 Taka.",
-          "Owners last agreed to pay 16000 Taka.",
-          "As there was no consensus between the two parties, the new wage was decided through voting."
+          "Protesting students demanded action against the accused personnel and medical compensation for the victim.",
+          "Protesters initially stated the blockade would continue until their demands were met and the incident explained.",
+          "Students withdrew the blockade after Army officials assured the Vice-Chancellor of an investigation."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ছোট ও মাঝারি পোশাক কারখানা বন্ধ হয়ে যাওয়ার আশঙ্কা এবং মালিকদের আর্থিক সক্ষমতার বিষয়টি বিবেচনায় নিয়ে শেষ পর্যন্ত ১৭ হাজার টাকায় নির্ধারিত হলো পোশাকশ্রমিকদের নতুন ন্যূনতম মজুরি। শ্রমিকপক্ষের দাবি ছিল ১৮ হাজার টাকা এবং মালিকপক্ষ সর্বশেষ ১৬ হাজার টাকা দিতে রাজি ছিল। দুই পক্ষের মধ্যে সমঝোতা না হওয়ায় শেষ পর্যন্ত ভোটাভুটির মাধ্যমে ১৭ হাজার টাকা নির্ধারণ করে নিম্নতম মজুরি বোর্ড।",
-        "details_en": "Considering the risk of closure of small and medium garment factories and owners financial capacity, the new minimum wage for garment workers was finally set at 17000 Taka. Workers demanded 18000 Taka while owners last agreed to give 16000 Taka. As there was no consensus between the two parties, the minimum wage board ultimately determined 17000 Taka through voting.",
-        "hook_bn": "পোশাকশ্রমিকদের নতুন ন্যূনতম মজুরি ১৭ হাজার টাকা",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "ঢাকা-আরিচা মহাসড়কে জাবি শিক্ষার্থীদের দুই ঘণ্টার অবরোধ",
         "kicker_bn": null,
-        "share_value": true,
-        "question_bn": "পোশাকশ্রমিকদের এই নতুন মজুরি বর্তমান বাজার পরিস্থিতির জন্য কি যথেষ্ট বলে আপনার মনে হয়?"
+        "share_value": false,
+        "question_bn": null
       },
+      "desk_importance": 7.0,
+      "outlet_count": 5,
+      "trending": false,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-25T18:09:34.220371+00:00"
+        "checked_at": "2026-11-25T19:04:27.058150+00:00"
       }
     },
     {
-      "story_id": "c1d72898-2183-5bf5-80c4-7d085c7b0ebe",
-      "primary_category": "governance_law",
+      "story_id": "45994e64-001e-50d6-962d-a7955b5a6e10",
+      "primary_category": "society_education",
       "interest_categories": [
-        "governance_law"
+        "society_education"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
-        "#Governance"
+        "#NationalAffairs"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-02%2Fp5cm0oay%2FWhatsApp-Image-2026-11-02-at-11.52.jpg?rect=0%2C202%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://images.unsplash.com/photo-1652787542567-f86c0b4c0269?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YWRtaXNzaW9uJTIwbm90aWZpY2F0aW9uJTIwcHVibGlzaGVkJTIwbWVkaWNhbCUyMGVkdWNhdGlvbnxlbnwxfDB8fHwxNzk1NjMzNDI1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-25T16:26:45+00:00",
+      "published_at": "2026-11-25T18:57:23+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.1027,
+      "importance_score": 7.0,
+      "rank_score": 4.8749,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/06jpnp9v2g",
-          "title": "তারেক সাঈদের ভাষ্যমতে জিয়াউল আহসানের হুকুম ছাড়া কোনো অপারেশন হতো না: অ্যাটর্নি জেনারেল",
-          "snippet": "তারেক সাঈদের ভাষ্যমতে জিয়াউল আহসানের হুকুম ছাড়া কোনো অপারেশন হতো না: অ্যাটর্নি জেনারেল"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/education/news/1183767",
+          "title": "মেডিকেল-ডেন্টালে ভর্তির বিজ্ঞপ্তি প্রকাশ, আবেদন শুরু",
+          "snippet": "মেডিকেল-ডেন্টালে ভর্তির বিজ্ঞপ্তি প্রকাশ, আবেদন শুরু"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সাত খুন মামলার আপিল শুনানি শুরু হয়েছে",
-        "title_en": "Appeal hearings in the seven-murder case have started",
-        "summary_bn": "নারায়ণগঞ্জে সাত খুনের মামলায় হাইকোর্টের রায়ের বিরুদ্ধে আসামিদের আপিলের শুনানি শুরু করেছে সুপ্রিম কোর্টের আপিল বিভাগ।",
-        "summary_en": "The Appellate Division of the Supreme Court started hearing appeals against the High Court verdict in the Narayanganj seven-murder case.",
+        "title_bn": "মেডিকেল ও ডেন্টালে ভর্তির বিজ্ঞপ্তি প্রকাশ করা হয়েছে",
+        "title_en": "Admission notification published for medical and dental colleges",
+        "summary_bn": "সরকারি ও বেসরকারি মেডিকেল এবং ডেন্টাল কলেজের এমবিবিএস ও বিডিএস কোর্সে ভর্তির বিজ্ঞপ্তি প্রকাশ করা হয়েছে।",
+        "summary_en": "Admission notification has been published for MBBS and BDS courses in government and private medical and dental colleges.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-25T16:26:45+00:00",
-        "lead_bn": "নারায়ণগঞ্জে সাত খুনের মামলায় হাইকোর্টের রায়ের বিরুদ্ধে আসামিদের আপিলের শুনানি শুরু করেছে সুপ্রিম কোর্টের আপিল বিভাগ।",
-        "lead_en": "The Appellate Division of the Supreme Court started hearing appeals against the High Court verdict in the Narayanganj seven-murder case.",
+        "published_at": "2026-11-25T18:57:23+00:00",
+        "lead_bn": "সরকারি ও বেসরকারি মেডিকেল এবং ডেন্টাল কলেজের এমবিবিএস ও বিডিএস কোর্সে ভর্তির বিজ্ঞপ্তি প্রকাশ করা হয়েছে।",
+        "lead_en": "Admission notification has been published for MBBS and BDS courses in government and private medical and dental colleges.",
         "bullets_bn": [
-          "প্রধান বিচারপতি জুবায়ের রহমান চৌধুরীর নেতৃত্বাধীন চার সদস্যের আপিল বিভাগ প্রথম দিনের শুনানি গ্রহণ করেন।",
-          "অ্যাটর্নি জেনারেল মো. রুহুল কুদ্দুস কাজল জানান, তারেক সাঈদের জবানবন্দিতে জিয়াউল আহসানের হুকুম ছাড়া অপারেশন হতো না বলে উঠে এসেছে।",
-          "শুনানির পরবর্তী দিন আগামীকাল নির্ধারণ করা হয়েছে।"
+          "২০২৬-২৭ শিক্ষাবর্ষের এমবিবিএস ও বিডিএস কোর্সে ভর্তির বিজ্ঞপ্তি প্রকাশ করা হয়েছে।",
+          "সরকারি ও বেসরকারি মেডিকেল ও ডেন্টাল কলেজে ভর্তির বিজ্ঞপ্তি প্রকাশ করা হয়েছে।",
+          "বিজ্ঞপ্তি প্রকাশের পাশাপাশি এরই মধ্যে আবেদন শুরু হয়েছে।"
         ],
         "bullets_en": [
-          "The four-member Appellate Division led by Chief Justice Zubayer Rahman Chowdhury conducted the first day of hearings.",
-          "Attorney General Md. Ruhul Quddus Kajol stated that Tareq Sayed's confession revealed operations did not occur without Ziaul Ahsan's order.",
-          "The next date for the hearing has been set for tomorrow, Thursday."
+          "Admission notification has been published for MBBS and BDS courses for the 2026-27 academic year.",
+          "Notification has been released for admission to government and private medical and dental colleges.",
+          "Along with the publication of the notification, the application process has already started."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "২০১৪ সালের ২৭ এপ্রিল নারায়ণগঞ্জে সাত খুনের ঘটনা ঘটে। ২০১৭ সালের ১৬ জানুয়ারি বিচারিক আদালতের রায়ে ২৬ জনের মৃত্যুদণ্ড ও ৯ জনকে কারাদণ্ড দেওয়া হয়। পরে হাইকোর্টের রায়ে ১৫ জনের মৃত্যুদণ্ড বহাল এবং অন্যদের সাজা পরিবর্তন করা হয়।",
-        "details_en": "The seven murders occurred in Narayanganj on 27 April 2014. On 16 January 2017, a trial court sentenced 26 people to death and 9 to imprisonment. Later, the High Court upheld 15 death sentences and modified other penalties.",
-        "hook_bn": "জিয়াউল আহসানের হুকুম ছাড়া অপারেশন হতো না",
-        "kicker_bn": "শুনানি শুরু",
-        "share_value": false,
-        "question_bn": null
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "মেডিকেল ও ডেন্টালে ভর্তির আবেদন শুরু",
+        "kicker_bn": "ভর্তি বিজ্ঞপ্তি",
+        "share_value": true,
+        "question_bn": "মেডিকেল ও ডেন্টাল ভর্তি পরীক্ষার জন্য আপনার প্রস্তুতি কেমন চলছে?"
       },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 9.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-25T18:09:34.220371+00:00"
+        "checked_at": "2026-11-25T19:04:27.058150+00:00"
       }
     },
     {
-      "story_id": "81f4eccf-861b-5a94-8adc-37309fef0a34",
-      "primary_category": "world_diplomacy",
+      "story_id": "42824be5-9846-5aa5-8fef-6c5fe6ee8ecc",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "world_diplomacy",
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#BangladeshBank",
+        "#NationalBoardOfRevenue",
+        "#BankingSector"
       ],
-      "image_url": "https://media.channelionline.com/2026/11/grammen-bank.jpg?w=1200",
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Govt-bank.jpg",
       "image_caption": null,
-      "published_at": "2026-11-25T16:19:15+00:00",
+      "published_at": "2026-11-25T18:00:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.0876,
+      "importance_score": 6.0,
+      "rank_score": 3.3891,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/us-con-demns-tack-grameen-bank-dr-yunus/",
-          "title": "গ্রামীণ ব্যাংক ও ড. ইউনূসের বাড়িতে হামলার ঘটনায় যুক্তরাষ্ট্রের নিন্দা",
-          "snippet": "গ্রামীণ ব্যাংক ও ড. ইউনূসের বাড়িতে হামলার ঘটনায় যুক্তরাষ্ট্রের নিন্দা"
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/economy/news/govts-bank-borrowing-surges-72-jul-sept-revenue-falls-short-4333356",
+          "title": "Govt’s bank borrowing surges 72% in Jul-Sept as revenue falls short",
+          "snippet": "Govt’s bank borrowing surges 72% in Jul-Sept as revenue falls short"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গ্রামীণ ব্যাংক ও ড. ইউনূসের বাড়িতে হামলার ঘটনায় যুক্তরাষ্ট্রের নিন্দা",
-        "title_en": "US condemns attacks on Grameen Bank and Dr Yunus home",
-        "summary_bn": "যুক্তরাষ্ট্র বাংলাদেশে গ্রামীণ ব্যাংকের বিভিন্ন শাখা এবং অধ্যাপক মুহাম্মদ ইউনূসের পৈতৃক বাড়িতে অগ্নিসংযোগ ও ভাঙচুরের ঘটনায় নিন্দা জানিয়েছে।",
-        "summary_en": "The United States condemned arson and vandalism at various Grameen Bank branches and Professor Muhammad Yunus ancestral home in Bangladesh.",
+        "title_bn": "রাজস্ব ঘাটতির মধ্যে জুলাই-সেপ্টেম্বরে সরকারের ব্যাংক ঋণ ৭২ শতাংশ বেড়েছে।",
+        "title_en": "Govts bank borrowing surges 72 percent in July-September amid revenue shortfall.",
+        "summary_bn": "রাজস্ব আদায় লক্ষ্যমাত্রা অনুযায়ী না হওয়ায় বাজেট ঘাটতি মেটাতে চলতি অর্থবছরের প্রথম প্রান্তিকে ব্যাংকিং খাত থেকে সরকারের নিট ঋণ ৭২ শতাংশ বেড়েছে।",
+        "summary_en": "The governments net borrowing from the banking system rose 72 percent year-on-year in July-September as revenue collection fell short.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-25T16:19:15+00:00",
-        "lead_bn": "যুক্তরাষ্ট্র বাংলাদেশে গ্রামীণ ব্যাংকের বিভিন্ন শাখা এবং অধ্যাপক মুহাম্মদ ইউনূসের পৈতৃক বাড়িতে অগ্নিসংযোগ ও ভাঙচুরের ঘটনায় নিন্দা জানিয়েছে।",
-        "lead_en": "The United States condemned arson and vandalism at various Grameen Bank branches and Professor Muhammad Yunus ancestral home in Bangladesh.",
+        "published_at": "2026-11-25T18:00:00+00:00",
+        "lead_bn": "রাজস্ব আদায় লক্ষ্যমাত্রা অনুযায়ী না হওয়ায় বাজেট ঘাটতি মেটাতে চলতি অর্থবছরের প্রথম প্রান্তিকে ব্যাংকিং খাত থেকে সরকারের নিট ঋণ ৭২ শতাংশ বেড়েছে।",
+        "lead_en": "The governments net borrowing from the banking system rose 72 percent year-on-year in July-September as revenue collection fell short.",
         "bullets_bn": [
-          "দেশটি বাংলাদেশে সব ধরনের সহিংসতার বিরোধিতা করে সংশ্লিষ্ট সবাইকে সংযত থাকার আহ্বান জানিয়েছে।",
-          "যুক্তরাষ্ট্রের পররাষ্ট্র দপ্তরের এক মুখপাত্র ডেইলি ওয়াদাকে এই তথ্য জানিয়েছেন।",
-          "যুক্তরাষ্ট্রের পররাষ্ট্র দপ্তর গ্রামীণ ব্যাংক বা ড. ইউনূসের বাড়িতে হামলার ঘটনা আলাদাভাবে উল্লেখ করেনি।"
+          "বাংলাদেশ ব্যাংক জানিয়েছে, একই সময়ে ব্যাংক ও অ-ব্যাংক উৎস থেকে মোট নিট দেশীয় অর্থায়ন ৩৮ শতাংশ বৃদ্ধি পেয়েছে।",
+          "প্রথম প্রান্তিকে সরকারের মোট নিট দেশীয় অর্থায়নের ৮৭.৭ শতাংশ এসেছে ব্যাংকগুলো থেকে, যা এক বছর আগে ছিল ৭০.৬ শতাংশ।",
+          "জাতীয় রাজস্ব বোর্ড বা এনবিআর প্রথম প্রান্তিকে ৯২ হাজার কোটি টাকার লক্ষ্যমাত্রার বিপরীতে ৪২ হাজার কোটি টাকা কম সংগ্রহ করেছে।"
         ],
         "bullets_en": [
-          "The country opposed all forms of violence in Bangladesh and called on all concerned to remain restrained.",
-          "A spokesperson for the US State Department provided this information to Daily Wada.",
-          "The US State Department did not separately mention the attacks on Grameen Bank or Dr Yunus home."
+          "Bangladesh Bank data shows total net domestic financing increased 38 percent during the same period.",
+          "Banks accounted for 87.7 percent of total net domestic financing in the first quarter, up from 70.6 percent a year earlier.",
+          "The National Board of Revenue fell Tk 42,000 crore short of its first-quarter collection target of Tk 92,000 crore."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "যুক্তরাষ্ট্রের পররাষ্ট্র দপ্তর ডেইল ওয়াদাকে জানিয়েছে যে তারা সব ধরনের সহিংসতার নিন্দা জানায়, সংযম প্রদর্শনের আহ্বান জানায় এবং বাংলাদেশের আইন অনুযায়ী শান্তিপূর্ণভাবে মতপ্রকাশের অধিকারকে সমর্থন করে। এর আগে চট্টগ্রামে ড. ইউনূসের পৈতৃক বাড়িতে আগুন দেওয়া হয় এবং বাংলাদেশের ৫০টির বেশি গ্রামীণ ব্যাংক শাখায় অগ্নিসংযোগের ঘটনা ঘটেছিল। পরবর্তীতে যুক্তরাষ্ট্রের পররাষ্ট্র দপ্তরের জবাব আসার সময় গ্রামীণ ব্যাংকের যেসব শাখায় অগ্নিসংযোগ ও ভাঙচুরের ঘটনা ঘটেছে, তার সংখ্যা ১০০ ছাড়িয়ে যায়।",
-        "details_en": "The US State Department told Daily Wada that they condemn all types of violence, call for restraint, and support the right to freedom of expression peacefully according to Bangladesh law. Earlier, Dr Yunus ancestral home in Chattogram was set on fire and over 50 Grameen Bank branches in Bangladesh experienced arson. Later, by the time the US State Department response arrived, the number of Grameen Bank branches subjected to arson and vandalism exceeded 100.",
-        "hook_bn": "আমরা সব ধরনের সহিংসতার নিন্দা জানাই",
-        "kicker_bn": null,
+        "details_bn": "বাংলাদেশ ব্যাংকের তথ্য অনুযায়ী, অর্থবছরের প্রথম প্রান্তিকে অ-ব্যাংক উৎস থেকে নিট অর্থায়ন ৪২ শতাংশ কমেছে। তবে এই সময়ে জাতীয় সঞ্চয়পত্রের নিট বিক্রি ২৭.৯৫ শতাংশ বৃদ্ধি পেয়েছে। দুর্বল রাজস্ব আদায়ের প্রেক্ষাপটে অভ্যন্তরীণ ব্যাংকগুলোর ওপর সরকারের এই নির্ভরশীলতা বৃদ্ধি পেয়েছে।",
+        "details_en": "According to Bangladesh Bank data, net financing from non-bank sources fell 42 percent while net sales of national savings certificates increased 27.95 percent during the period. The growing dependence on domestic banks came amid weak revenue mobilisation by the National Board of Revenue.",
+        "hook_bn": "৯২ হাজার কোটি টাকার লক্ষ্যমাত্রায় ৪২ হাজার কোটি টাকা ঘাটতি এনবিআরের",
+        "kicker_bn": "রাজস্ব ঘাটতি",
         "share_value": false,
-        "question_bn": null
+        "question_bn": "রাজস্ব আদায় বাড়াতে সরকারের কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
       },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-25T18:09:34.220371+00:00"
-      }
-    },
-    {
-      "story_id": "c95cc255-d3a1-5454-8502-333c0375be6e",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation",
-        "governance_law"
-      ],
-      "region": "international",
-      "tags": [
-        "#NigeriaElection",
-        "#AIDisinformation",
-        "#Deepfakes",
-        "#INEC"
-      ],
-      "image_url": "https://static.dw.com/image/79855923_6.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-25T15:28:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.2492,
-      "sources": [
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-rdf",
-          "title": "Nigeria's upcoming election marred by rising AI disinformation",
-          "snippet": "Nigeria's upcoming election marred by rising AI disinformation"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "নাইজেরিয়ার ভোটার তালিকায় কৃত্রিম বুদ্ধিমত্তার ছবি ব্যবহারের অভিযোগ তদন্ত করছে দেশটির নির্বাচন কমিশন",
-        "title_en": "Nigeria investigates AI-generated images in preliminary voter register ahead of election",
-        "summary_bn": "সাধারণ নির্বাচনের মাত্র ২ মাস আগে নাইজেরিয়ার নির্বাচন কমিশন ভোটার তালিকায় কৃত্রিম বুদ্ধিমত্তা বা এআই-এর মাধ্যমে তৈরি ছবি ও অসংগতি থাকার অভিযোগ তদন্ত করছে।",
-        "summary_en": "Nigeria's electoral body is investigating reports of AI-generated images and inconsistencies in its preliminary voter register just months before the country's general election.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-25T15:28:00+00:00",
-        "lead_bn": "সাধারণ নির্বাচনের মাত্র ২ মাস আগে নাইজেরিয়ার নির্বাচন কমিশন ভোটার তালিকায় কৃত্রিম বুদ্ধিমত্তা বা এআই-এর মাধ্যমে তৈরি ছবি ও অসংগতি থাকার অভিযোগ তদন্ত করছে।",
-        "lead_en": "Nigeria's electoral body is investigating reports of AI-generated images and inconsistencies in its preliminary voter register just months before the country's general election.",
-        "bullets_bn": [
-          "প্রাথমিক ভোটার তালিকায় অতিরঞ্জিত মুখাবয়ব সম্পন্ন ছবি, একই নাম একাধিকবার আসা এবং মৃত ব্যক্তিদের পরিচয়ের মতো অসংগতি পাওয়া গেছে।",
-          "নির্বাচন কমিশনের চেয়ারম্যান জোয়াশ আমুপিতান এআই হুমকি মোকাবিলা, ডিপফেক শনাক্ত এবং নির্বাচনের স্বচ্ছতা রক্ষায় একটি বিশেষ ইউনিট গঠনের ঘোষণা দিয়েছেন।",
-          "কমিশন সতর্ক করেছে যে, এআই-সংক্রান্ত অপপ্রচার মোকাবিলা করা না গেলে আসন্ন নির্বাচনের গ্রহণযোগ্যতা সংকটে পড়তে পারে।"
-        ],
-        "bullets_en": [
-          "Preliminary registers reportedly contain images with exaggerated facial features, duplicate names, and identities of people who have already died.",
-          "Electoral commission chairman Joash Amupitan announced a dedicated unit to monitor AI threats, detect deepfakes, and protect electoral integrity.",
-          "The commission warned that the credibility of the upcoming vote could be under attack without measures to counter AI-related disinformation."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "আসন্ন নির্বাচনে বর্তমান প্রেসিডেন্ট বোলা তিনুবু, সাবেক ভাইস প্রেসিডেন্ট আতিকু আবুবকর এবং বিরোধী নেতা পিটার ওবির মুখোমুখি হবেন। নাইজেরিয়ায় এর আগেও ভুয়া ছবি ও ভিডিওর প্রচার দেখা গেছে। ২০২৩ সালের নির্বাচনের আগে সামাজিক যোগাযোগমাধ্যমে ডিপফেকের মাধ্যমে প্রার্থীদের সন্ত্রাসী কর্মকাণ্ডের সঙ্গে যুক্ত করার অপচেষ্টা চালানো হয়েছিল। বর্তমান পরিস্থিতি ২০২৭ সালের সাধারণ নির্বাচনের প্রস্তুতি এবং আফ্রিকা মহাদেশের নির্বাচনে এআই-এর ক্রমবর্ধমান প্রভাব নিয়ে উদ্বেগ তৈরি করেছে।",
-        "details_en": "Incumbent Bola Tinubu faces Atiku Abubakar and Peter Obi in the upcoming vote. This is not Nigeria's first encounter with digital fabrication; during the 2023 election, deepfakes on social media falsely linked candidates to terror-related activities. The current controversy has raised concerns about the Independent National Electoral Commission's preparedness for the 2027 general election and its transparency amid the expanding influence of AI in elections across the continent.",
-        "hook_bn": "নাইজেরিয়ার ভোটার তালিকায় এআই-এর ছবি",
-        "kicker_bn": "তদন্ত শুরু",
-        "share_value": false,
-        "question_bn": "নির্বাচনের স্বচ্ছতা রক্ষায় কৃত্রিম বুদ্ধিমত্তার ব্যবহার কি ঝুঁকি বাড়াচ্ছে বলে আপনি মনে করেন?"
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-25T18:09:34.220371+00:00"
-      }
-    },
-    {
-      "story_id": "729fa0da-c17b-576a-9584-114cba12365b",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#TrumpTariffs",
-        "#USTrade",
-        "#Section301",
-        "#TradePolicy"
-      ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b06e0c38c0bf-1795612867.jpg?resize=1920%2C1440",
-      "image_caption": null,
-      "published_at": "2026-11-25T14:54:44+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.2414,
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target?traffic_source=rss",
-          "title": "Trump announces new trade tariffs: Which countries are affected?",
-          "snippet": "Trump announces new trade tariffs: Which countries are affected?"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "১৪টি প্রধান বাণিজ্য অংশীদারের ওপর নতুন শুল্ক আরোপের ঘোষণা দিল ট্রাম্প প্রশাসন",
-        "title_en": "Trump administration announces new trade tariffs on 14 major trading partners",
-        "summary_bn": "চীন, ইউরোপীয় ইউনিয়ন ও ভারতসহ ১৪টি প্রধান বাণিজ্য অংশীদারের ওপর নতুন শুল্ক আরোপের পরিকল্পনা ঘোষণা করেছে ট্রাম্প প্রশাসন।",
-        "summary_en": "The Trump administration has announced plans to impose new trade tariffs on 14 major trading partners, including China, the European Union, and India.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-25T14:54:44+00:00",
-        "lead_bn": "চীন, ইউরোপীয় ইউনিয়ন ও ভারতসহ ১৪টি প্রধান বাণিজ্য অংশীদারের ওপর নতুন শুল্ক আরোপের পরিকল্পনা ঘোষণা করেছে ট্রাম্প প্রশাসন।",
-        "lead_en": "The Trump administration has announced plans to impose new trade tariffs on 14 major trading partners, including China, the European Union, and India.",
-        "bullets_bn": [
-          "কাঠামোগত অতিরিক্ত উৎপাদন সক্ষমতা নিয়ে আট মাসের তদন্ত শেষে এসব শুল্ক আরোপের ঘোষণা দেয় ইউএসটিআর।",
-          "ভর্তুকির মাধ্যমে বাজারের নীতির বাইরে গিয়ে উৎপাদন বৃদ্ধির কথা রয়টার্সকে জানান মার্কিন এক জ্যেষ্ঠ কর্মকর্তা।",
-          "মার্কিন ব্যবসা প্রতিষ্ঠানের প্রতি অন্যায় আচরণের শাস্তিমূলক ব্যবস্থা হিসেবে ১৯৭৪ সালের বাণিজ্য আইনের ধারা ৩০১-এর অধীনে এই শুল্ক আরোপ করা হচ্ছে।"
-        ],
-        "bullets_en": [
-          "The Office of the US Trade Representative announced duties following an eight-month investigation into structural excess capacity.",
-          "A senior US official told Reuters that affected countries promote production divorced from market principles through subsidies.",
-          "The tariffs are imposed under Section 301 of a 1974 trade law, which penalises unfair treatment of US businesses."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "গত ফেব্রুয়ারিতে মার্কিন সুপ্রিম কোর্ট জরুরি ক্ষমতার অধীনে জারি করা শুল্ক বাতিল করার পর পুনরায় আমদানিকর বসানোর উদ্যোগ এটি। ট্রাম্প ২০২৫ সালের এপ্রিলে 'মুক্তি দিবস' শুল্ক ঘোষণা করেছিলেন। সুপ্রিম কোর্টের রায়ের পর জুলাই পর্যন্ত ১০ শতাংশ অস্থায়ী শুল্ক চালু ছিল। পরবর্তীতে বাধ্যতামূলক শ্রম ঠেকানোয় ব্যর্থতার অভিযোগে ধারা ৩০১-এর আওতায় ৬০টি অর্থনীতির ওপর ১০ থেকে ১২.৫ শতাংশ শুল্ক আরোপ করা হয়।",
-        "details_en": "The tariffs are the latest attempt to rebuild import taxes after the US Supreme Court struck down earlier emergency powers tariffs in February. Trump originally introduced Liberation Day tariffs in April 2025. Following the Supreme Court ruling, temporary 10 percent tariffs were put in place until July. They were later replaced with 10 to 12.5 percent duties on 60 economies under Section 301, citing inadequate action against goods made with forced labour.",
-        "hook_bn": "১৪ দেশের ওপর ট্রাম্পের নতুন শুল্ক",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": "আন্তর্জাতিক বাণিজ্যে ট্রাম্পের এই নতুন শুল্ক নীতির প্রভাব কেমন হতে পারে বলে আপনি মনে করেন?"
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-25T18:09:34.220371+00:00"
+        "checked_at": "2026-11-25T19:04:27.058150+00:00"
       }
     }
   ]
