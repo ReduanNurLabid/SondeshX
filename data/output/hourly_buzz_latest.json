@@ -1,9 +1,151 @@
 {
-  "updated_at": "2026-11-25T11:00:47.788868",
-  "total_stories": 3,
+  "updated_at": "2026-11-25T12:00:45.699175",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "e800c95a-9465-5b70-af16-1106f7c1ef6c",
+      "story_id": "41c16cb1-9d60-55b2-896a-735029a1eec5",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#MohammadAbdurRazzaque",
+        "#RAPID",
+        "#BangladeshRMG",
+        "#Inflation"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/03/22/-abdur-razzaque-chairman-rapid.png",
+      "image_caption": null,
+      "published_at": "2026-11-25T10:15:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.2476,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/high-inflation-weakens-bangladeshs-rmg-competitiveness-says-rapid-chairman-1613626",
+          "title": "High inflation weakens Bangladesh’s RMG competitiveness, says RAPID chairman",
+          "snippet": "High inflation weakens Bangladesh’s RMG competitiveness, says RAPID chairman"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "উচ্চ মূল্যস্ফীতির কারণে পোশাক খাতের প্রতিযোগিতায় পিছিয়েছে বাংলাদেশ",
+        "title_en": "High inflation weakens Bangladesh RMG competitiveness",
+        "summary_bn": "বাংলাদেশ টানা চার বছর উচ্চ মূল্যস্ফীতি নিয়ন্ত্রণে ব্যর্থ হওয়ায় বৈশ্বিক বাজারে পোশাক খাতের প্রতিযোগিতায় পিছিয়ে পড়েছে বলে জানিয়েছেন র‍্যাপিড চেয়ারম্যান।",
+        "summary_en": "Bangladesh has lost RMG competitiveness in the global market after failing to contain high inflation for four consecutive years, RAPID chairman said.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-25T10:15:00+00:00",
+        "lead_bn": "বাংলাদেশ টানা চার বছর উচ্চ মূল্যস্ফীতি নিয়ন্ত্রণে ব্যর্থ হওয়ায় বৈশ্বিক বাজারে পোশাক খাতের প্রতিযোগিতায় পিছিয়ে পড়েছে বলে জানিয়েছেন র‍্যাপিড চেয়ারম্যান।",
+        "lead_en": "Bangladesh has lost RMG competitiveness in the global market after failing to contain high inflation for four consecutive years, RAPID chairman said.",
+        "bullets_bn": [
+          "ঢাকাতে আয়োজিত এক সংলাপে র‍্যাপিড চেয়ারম্যান মোহাম্মদ আবদুর রাজ্জাক এই মন্তব্য করেন।",
+          "যুক্তরাষ্ট্রের অতিরিক্ত শুল্কের সুযোগ ভিয়েতনাম ও কম্বোডিয়া নিলেও বাংলাদেশ তা নিতে পারেনি।",
+          "মূল্যস্ফীতি নিয়ন্ত্রণে না এনে টাকার অবমূল্যায়ন করলে তা বুমেরাং হতে পারে বলে সতর্ক করেছেন তিনি।"
+        ],
+        "bullets_en": [
+          "Mohammad Abdur Razzaque, chairman of RAPID, made the remarks at a dialogue in Dhaka.",
+          "Vietnam and Cambodia capitalized on opportunities from US tariffs on China that Bangladesh missed.",
+          "He warned that weakening the taka before controlling inflation could prove counterproductive."
+        ],
+        "impact_bn": "অবিরত মূল্যস্ফীতির কারণে শ্রমিকদের প্রকৃত মজুরি কমে যাচ্ছে বলে জানানো হয়েছে।",
+        "impact_en": "Persistent inflation is further eroding workers' real wages, according to the report.",
+        "details_bn": "ভয়েস ফর রিফর্ম নামক প্ল্যাটফর্মের উদ্যোগে কারওয়ান বাজারের বিডিবিএল ভবনে এই সংলাপ অনুষ্ঠিত হয়। অতিরিক্ত মূল্যস্ফীতি এবং দীর্ঘ সময় ধরে নির্দিষ্ট থাকা মুদ্রা বিনিময়ের হারের কারণে ভিয়েতনাম, কম্বোডিয়া, ইন্দোনেশিয়া ও ভারতের কাছে বাজার হারাচ্ছে বাংলাদেশ।",
+        "details_en": "The dialogue was organised by the civic platform Voice for Reform at BDBL Bhaban in Karwan Bazar. Due to persistent inflation and a rigid exchange rate, Bangladesh lost ground to Vietnam, Cambodia, Indonesia and India.",
+        "hook_bn": "মূল্যস্ফীতি না কমিয়ে মুদ্রার অবমূল্যায়ন নয়",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": "মূল্যস্ফীতি নিয়ন্ত্রণে সরকারের প্রধান অগ্রাধিকার দেওয়া উচিত বলে কি আপনি মনে করেন?"
+      },
+      "fact_check": {
+        "status": "unchecked",
+        "checked_at": "2026-11-25T12:03:34.977863+00:00"
+      }
+    },
+    {
+      "story_id": "bc5ffe95-1ff5-56b4-adc0-3cf8436c688f",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#SheikhHasina",
+        "#SalahuddinAhmed",
+        "#BangladeshGovt",
+        "#AwamiLeague"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/06/20/home_minister.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-25T10:10:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.232,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/hasinas-return-depends-extradition-treaty-government-has-no-concerns-over-her-16-dec",
+          "title": "Hasina's return depends on extradition treaty, govt has no concerns over her 16 Dec return plan: Home minister",
+          "snippet": "Hasina's return depends on extradition treaty, govt has no concerns over her 16 Dec return plan: Home minister"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/politics/425732/home-minister-awami-league-will-never-return-to",
+          "title": "Home minister: Awami League will never return to politics in Bangladesh",
+          "snippet": "Home minister: Awami League will never return to politics in Bangladesh"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "হাসিনার ফেরার পরিকল্পনা নিয়ে সরকারের কোনো উদ্বেগ নেই",
+        "title_en": "Govt has no concerns over Hasina return plan",
+        "summary_bn": "স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমেদ বলেছেন, সাবেক প্রধানমন্ত্রী শেখ হাসিনার ১৬ ডিসেম্বর ফেরার ঘোষণা নিয়ে সরকারের কোনো উদ্বেগ নেই।",
+        "summary_en": "Home Minister Salahuddin Ahmed said the government has no concerns over ousted prime minister Sheikh Hasina's 16 December return plan.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-25T10:10:00+00:00",
+        "lead_bn": "স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমেদ বলেছেন, সাবেক প্রধানমন্ত্রী শেখ হাসিনার ১৬ ডিসেম্বর ফেরার ঘোষণা নিয়ে সরকারের কোনো উদ্বেগ নেই।",
+        "lead_en": "Home Minister Salahuddin Ahmed said the government has no concerns over ousted prime minister Sheikh Hasina's 16 December return plan.",
+        "bullets_bn": [
+          "শেখ হাসিনাকে ফিরিয়ে আনার যেকোনো পদক্ষেপ প্রত্যর্পণ চুক্তির ওপর নির্ভর করবে বলে জানিয়েছেন স্বরাষ্ট্রমন্ত্রী।",
+          "সীমান্তের ওপার থেকে নিষিদ্ধ আওয়ামী লীগের নেতারা আন্দোলন পরিচালনা করছেন বলে গণমাধ্যমে খবর এসেছে।",
+          "বিজেম বিজয় দিবস উপলক্ষে বিভিন্ন জেলায় বর্ডার গার্ড বাংলাদেশ বা বিজিবি মোতায়েন করা হয়েছে।"
+        ],
+        "bullets_en": [
+          "The home minister said any move to bring back Sheikh Hasina would depend on the extradition treaty.",
+          "Reports emerged that fugitive Awami League leaders were directing activities from across the border.",
+          "Border Guard Bangladesh personnel were deployed in different districts for Victory Day security arrangements."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "স্বরাষ্ট্র মন্ত্রণালয়ে সাংবাদিকদের সঙ্গে আলাপকালে স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমেদ জানান, সরকারের পক্ষ থেকে ইতোমধ্যে কূটনৈতিক মাধ্যমে প্রত্যর্পণ অনুরোধ পাঠানো হয়েছে। গাজীপুরের শ্রম অসন্তোষ প্রসঙ্গে তিনি বলেন, প্রকৃত শ্রমিকেরা এই ঘটনার সঙ্গে জড়িত নন এবং আলোচনার মাধ্যমে মজুরির বিষয়ে সিদ্ধান্ত হয়েছে।",
+        "details_en": "Speaking to journalists at the Secretariat, Home Minister Salahuddin Ahmed said the government had already sent an extradition request through diplomatic channels. Regarding Gazipur labour unrest, he said genuine workers were not involved and a decision on wages was reached following discussions.",
+        "hook_bn": "হাসিনার ফেরা নির্ভর করবে প্রত্যর্পণ চুক্তির ওপর",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "fact_check": {
+        "status": "unchecked",
+        "checked_at": "2026-11-25T12:03:34.977863+00:00"
+      }
+    },
+    {
+      "story_id": "156ea72b-7aaf-5be4-b4fd-90520e956540",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
@@ -11,34 +153,28 @@
       ],
       "region": "national",
       "tags": [
-        "#Netrokona",
-        "#GrameenBank"
+        "#DhakaMetropolitanPolice",
+        "#AwamiLeague"
       ],
-      "image_url": "https://images.unsplash.com/photo-1693585172757-b9e057feb878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFybGlhbWVudCUyMGxhdyUyMGNvdXJ0JTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1NjA0NDkwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://thefinancialexpress.com.bd/storage/merged/merged_0fbd415e03749a5f2abcaf35fd37bc0d.jpg",
       "image_caption": null,
-      "published_at": "2026-11-25T10:36:14+00:00",
+      "published_at": "2026-11-25T12:00:56.514418+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.8134,
+      "importance_score": 4.8,
+      "rank_score": 2.3016,
       "sources": [
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/nation/425726/two-grameen-bank-branches-in-netrokona-set-on-fire",
-          "title": "Two Grameen Bank branches in Netrokona set on fire",
-          "snippet": "Two Grameen Bank branches in Netrokona set on fire"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/2-grameen-bank-branches-netrokona-set-fire-1613621",
-          "title": "2 Grameen Bank branches in Netrokona set on fire",
-          "snippet": "2 Grameen Bank branches in Netrokona set on fire"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/49-awami-league-members-among-nearly-500-arrested-in-dhaka",
+          "title": "497 arrested in Dhaka in a day",
+          "snippet": "497 arrested in Dhaka in a day"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নেত্রকোণায় দুটি গ্রামীণ ব্যাংক শাখায় আগুন দেওয়া হয়েছে",
-        "title_en": "Two Grameen Bank branches in Netrokona set on fire",
-        "summary_bn": "নেত্রকোণায় দুটি গ্রামীণ ব্যাংক শাখায় আগুন দেওয়ার ঘটনা ঘটেছে।",
-        "summary_en": "Two Grameen Bank branches in Netrokona were set on fire.",
+        "title_bn": "ঢাকায় একদিনে ৪৯৭ জন গ্রেপ্তার",
+        "title_en": "497 arrested in Dhaka in a day",
+        "summary_bn": "নিষিদ্ধ কার্যক্রমের দায়ে আওয়ামী লীগের ৪৯ জন নেতাকর্মীসহ গত ২৪ ঘণ্টায় ঢাকায় মোট ৪৯৭ জনকে গ্রেপ্তার করেছে পুলিশ।",
+        "summary_en": "Police have arrested 497 people in Dhaka over the past 24 hours, including 49 leaders and activists of the Awami League.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -46,184 +182,231 @@
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-25T10:36:14+00:00",
-        "lead_bn": "নেত্রকোণায় দুটি গ্রামীণ ব্যাংক শাখায় আগুন দেওয়ার ঘটনা ঘটেছে।",
-        "lead_en": "Two Grameen Bank branches in Netrokona were set on fire.",
+        "published_at": "2026-11-25T12:00:56.514418+00:00",
+        "lead_bn": "নিষিদ্ধ কার্যক্রমের দায়ে আওয়ামী লীগের ৪৯ জন নেতাকর্মীসহ গত ২৪ ঘণ্টায় ঢাকায় মোট ৪৯৭ জনকে গ্রেপ্তার করেছে পুলিশ।",
+        "lead_en": "Police have arrested 497 people in Dhaka over the past 24 hours, including 49 leaders and activists of the Awami League.",
         "bullets_bn": [
-          "নেত্রকোণা সদর এবং পূর্বধলায় হামলা দুটি চালানো হয়।",
-          "ভোরে এই হামলাগুলোর ঘটনা ঘটে।",
-          "সীমান্ত প্রাচীর এবং অফিসের দেয়ালে পোড়ার দাগ দেখা গেছে।"
+          "ঢাকা মেট্রোপলিটন পুলিশ জানিয়েছে এই সময়ে মোট ৪৪টি মামলা দায়ের করা হয়েছে।",
+          "সবচেয়ে বেশি ১১৭ জন গ্রেপ্তার হয়েছেন মিরপুর বিভাগে এবং সবচেয়ে কম ৩০ জন রামনা বিভাগে।",
+          "অভিযানে একটি বিদেশি পিস্তল, পাঁচটি তাজা ককটেল, ইয়াবা এবং বিদেশি মদ জব্দ করা হয়েছে।"
         ],
         "bullets_en": [
-          "The attacks targeted branches in Netrokona Sadar and Purbadhala.",
-          "The attacks took place early.",
-          "The boundary wall and office walls bore burn marks."
+          "The Dhaka Metropolitan Police said 44 cases had also been filed during the period.",
+          "The highest 117 arrests were made in Mirpur Division and the lowest 30 in Ramna Division.",
+          "Police also seized a foreign-made pistol, five unexploded crude bombs, yaba pills and foreign liquor."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "নেত্রকোণা সদর ও পূর্বধলায় গ্রামীণ ব্যাংকের দুটি শাখায় ভোরে এই হামলার ঘটনা ঘটে। হামলায় শাখাগুলোর সীমান্ত প্রাচীর ও অফিসের দেয়ালে পোড়ার দাগের সৃষ্টি হয়।",
-        "details_en": "The attacks targeted Grameen Bank branches in Netrokona Sadar and Purbadhala early. Following the incidents, the boundary wall and office walls of the branches bore burn marks.",
-        "hook_bn": "নেত্রকোণায় গ্রামীণ ব্যাংকের শাখায় আগুন",
-        "kicker_bn": null,
+        "details_bn": "ঢাকা মেট্রোপলিটন পুলিশ জানিয়েছে, রামনা বিভাগে ৩০, লালবাগে ৪৩, ওয়ারীতে ৬০, মতিঝিলে ৬৪, তেজগাঁওয়ে ১০০, মিরপুরে ১১৭, গুলশানে ৪১ এবং উত্তরায় ৪২ জন গ্রেপ্তার হয়েছেন। অভিযানে একটি বিদেশি পিস্তল, একটি ম্যাগাজিন, পাঁচ রাউন্ড গুলি, পাঁচটি তাজা ককটেল, বিস্ফোরিত তিনটি ককটেলের অংশবিশেষ, এক লিটার কাঁচা পেট্রোল, চারটি রামদা ও অন্যান্য দেশীয় অস্ত্র, ৫২২ পিস ইয়াবা এবং আট বোতল বিদেশি মদ জব্দ করা হয়েছে।",
+        "details_en": "Of the arrests, 30 were made in the Ramna Division, 43 in Lalbagh, 60 in Wari, 64 in Motijheel, 100 in Tejgaon, 117 in Mirpur, 41 in Gulshan and 42 in Uttara. Police also seized a foreign-made pistol, a magazine, five rounds of ammunition, five unexploded crude bombs, fragments of three detonated crude bombs, one litre of raw petrol, four machetes and other sharp weapons, 522 yaba pills and eight bottles of foreign liquor.",
+        "hook_bn": "ঢাকায় একদিনে গ্রেপ্তার ৪৯৭ জন",
+        "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 6.0,
       "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-25T11:02:02.255855+00:00"
+        "status": "unchecked",
+        "checked_at": "2026-11-25T12:03:34.977863+00:00"
       }
     },
     {
-      "story_id": "e9b9475d-2676-5ddd-9d4c-bc256dc6b6f1",
-      "primary_category": "economy_business",
+      "story_id": "25c79f66-585f-571f-91e8-2c4f969218cc",
+      "primary_category": "society_education",
       "interest_categories": [
-        "economy_business"
+        "society_education",
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#Ecnec",
-        "#TariqueRahman",
-        "#BangladeshGovernment",
-        "#DevelopmentProjects"
+        "#Bangladesh",
+        "#NationalAffairs"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2021/03/16/ecnec.jpg",
+      "image_url": "https://images.unsplash.com/photo-1528726164383-33c4a223b78c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cm9oaW5neWElMjB3b21hbiUyMGdpdmVzJTIwYmlydGglMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NTYwODEzN3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-25T09:55:00+00:00",
+      "published_at": "2026-11-25T11:49:45+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.665,
+      "importance_score": 4.8,
+      "rank_score": 2.277,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/economy/10-development-projects-involving-tk24110cr-get-ecnec-nod-1613591",
-          "title": "10 development projects involving Tk24,110cr get Ecnec nod",
-          "snippet": "10 development projects involving Tk24,110cr get Ecnec nod"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/development/425725/10-development-projects-involving-tk24-110cr-get",
-          "title": "10 development projects involving Tk24,110cr get ECNEC nod",
-          "snippet": "10 development projects involving Tk24,110cr get ECNEC nod"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1183644",
+          "title": "দুদিনে ৪ সন্তান প্রসব করলেন রোহিঙ্গা নারী",
+          "snippet": "দুদিনে ৪ সন্তান প্রসব করলেন রোহিঙ্গা নারী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "একনেক সভায় ২৪,১১০ কোটি টাকার ১০ উন্নয়ন প্রকল্প অনুমোদিত",
-        "title_en": "Ecnec approves 10 development projects involving Tk24,110cr",
-        "summary_bn": "জাতীয় অর্থনৈতিক পরিষদের নির্বাহী কমিটি ২৪,১১০ কোটি টাকার বেশি ব্যয়ে দশটি উন্নয়ন প্রকল্প অনুমোদন করেছে।",
-        "summary_en": "The Executive Committee of the National Economic Council approved 10 development projects involving Tk24,110.66 crore.",
+        "title_bn": "উখিয়ায় ফ্রেন্ডশিপ হাসপাতালে দুদিনে চার সন্তান প্রসব করলেন রোহিঙ্গা নারী",
+        "title_en": "Rohingya woman gives birth to four children in two days in Ukhiya",
+        "summary_bn": "কক্সবাজারের উখিয়ায় ফ্রেন্ডশিপ হাসপাতালে দুদিনের ব্যবধানে চার সন্তানের জন্ম দিয়েছেন এক রোহিঙ্গা নারী।",
+        "summary_en": "A Rohingya woman has given birth to four children over two days at Friendship Hospital in Cox's Bazar's Ukhiya.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business"
+          "society_education",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-25T09:55:00+00:00",
-        "lead_bn": "জাতীয় অর্থনৈতিক পরিষদের নির্বাহী কমিটি ২৪,১১০ কোটি টাকার বেশি ব্যয়ে দশটি উন্নয়ন প্রকল্প অনুমোদন করেছে।",
-        "lead_en": "The Executive Committee of the National Economic Council approved 10 development projects involving Tk24,110.66 crore.",
+        "published_at": "2026-11-25T11:49:45+00:00",
+        "lead_bn": "কক্সবাজারের উখিয়ায় ফ্রেন্ডশিপ হাসপাতালে দুদিনের ব্যবধানে চার সন্তানের জন্ম দিয়েছেন এক রোহিঙ্গা নারী।",
+        "lead_en": "A Rohingya woman has given birth to four children over two days at Friendship Hospital in Cox's Bazar's Ukhiya.",
         "bullets_bn": [
-          "বৈঠকে পাঁচটি নতুন প্রকল্প, চারটি সংশোধিত প্রকল্প এবং একটি প্রকল্পের মেয়াদ বৃদ্ধি অনুমোদন করা হয়েছে।",
-          "মোট ব্যয়ের মধ্যে ১২,৭৭৫ কোটি টাকার বেশি সরকারি তহবিল থেকে এবং বাকি অর্থ ঋণ ও সংস্থার নিজস্ব উৎস থেকে আসবে।",
-          "স্বাস্থ্য ও পরিবার কল্যাণ মন্ত্রণালয় এবং সমাজকল্যাণ মন্ত্রণালয়ের বিভিন্ন প্রকল্প এই অনুমোদনের অন্তর্ভুক্ত।"
+          "প্রথম দিন স্বাভাবিক প্রসবের মাধ্যমে একটি শিশুর জন্ম হয়।",
+          "হাসপাতালটিতে এই ঘটনা ঘটে।",
+          "রোহিঙ্গা নারী চার সন্তান প্রসব করেন।"
         ],
         "bullets_en": [
-          "The meeting approved five new projects, four revised projects, and one time-extension project.",
-          "Of the total cost, over Tk12,775 crore will come from government funds, with the rest from loans and agency resources.",
-          "Projects under the Ministry of Health and Family Welfare and the Ministry of Social Welfare received approval."
+          "One child was born through a normal delivery on the first day.",
+          "The incident took place at the hospital.",
+          "The Rohingya woman gave birth to four children."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "২৪,১১০ কোটি টাকার ১০ উন্নয়ন প্রকল্প অনুমোদিত",
+        "hook_bn": "উখিয়ায় চার সন্তানের জন্ম দিলেন রোহিঙ্গা নারী",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 4.0,
       "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-25T11:02:02.255855+00:00"
+        "status": "unchecked",
+        "checked_at": "2026-11-25T12:03:34.977863+00:00"
       }
     },
     {
-      "story_id": "636281a1-953b-5613-bd7e-14b8866daeb9",
-      "primary_category": "economy_business",
+      "story_id": "ce6ab689-86de-5691-8002-f9114ba64cd6",
+      "primary_category": "sports_fitness",
       "interest_categories": [
-        "economy_business"
+        "sports_fitness"
       ],
-      "region": "national",
+      "region": "international",
       "tags": [
-        "#OlympicCement",
-        "#HeidelbergMaterials",
-        "#DSE"
+        "#IPL",
+        "#BangladeshCricket",
+        "#BCB",
+        "#BCCI"
       ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/images/2024/10/22/heidelberg_materials.jpg",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP25051450696392-1795600293.jpg?resize=1800%2C1200&quality=80",
       "image_caption": null,
-      "published_at": "2026-11-25T10:19:48+00:00",
+      "published_at": "2026-11-25T11:02:03+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.6485,
+      "importance_score": 2.4,
+      "rank_score": 0.5437,
       "sources": [
         {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/news/olympic-cement-manufacture-heidelberg-materials-4332966",
-          "title": "Olympic Cement to manufacture for Heidelberg Materials",
-          "snippet": "Olympic Cement to manufacture for Heidelberg Materials"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/economy/500783",
-          "title": "অলিম্পিকের কারখানায় সিমেন্ট উৎপাদন করবে হাইডেলবার্গ",
-          "snippet": "অলিম্পিকের কারখানায় সিমেন্ট উৎপাদন করবে হাইডেলবার্গ"
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/sports/2026/11/25/shakib-mustafizur-not-among-bangladeshi-players-on-2027-ipl-auction-list?traffic_source=rss",
+          "title": "Shakib, Mustafizur not among Bangladeshi players on 2027 IPL auction list",
+          "snippet": "Shakib, Mustafizur not among Bangladeshi players on 2027 IPL auction list"
         }
       ],
       "daily_buzz": {
-        "title_bn": "হাইডেলবার্গ ম্যাটেরিয়ালসের জন্য সিমেন্ট উৎপাদন করবে অলিম্পিক সিমেন্ট",
-        "title_en": "Olympic Cement to manufacture cement for Heidelberg Materials",
-        "summary_bn": "হাইডেলবার্গ ম্যাটেরিয়ালস বাংলাদেশ লিমিটেডের জন্য কাঁচামাল ব্যবহার করে সিমেন্ট উৎপাদন করবে অলিম্পিক সিমেন্ট।",
-        "summary_en": "Olympic Cement will manufacture cement for Heidelberg Materials Bangladesh using materials supplied by the latter.",
+        "title_bn": "২০২৭ আইপিএল নিলামের তালিকায় নেই সাকিব আল হাসান ও মুস্তাফিজুর রহমান",
+        "title_en": "Shakib Al-Hasan and Mustafizur Rahman missing from 2027 IPL auction list",
+        "summary_bn": "গোয়ায় হতে যাওয়া আগামী আইপিএল খেলোয়াড় নিলামের জন্য ১১ জন বাংলাদেশী ক্রিকেটার নিবন্ধিত হলেও সাকিব আল হাসান ও মুস্তাফিজুর রহমান এ তালিকায় নেই।",
+        "summary_en": "Eleven Bangladeshi cricketers have registered for the upcoming IPL player auction in Goa, with former captain Shakib Al-Hasan and bowler Mustafizur Rahman noticeably absent.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business"
+          "sports_fitness"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-25T10:19:48+00:00",
-        "lead_bn": "হাইডেলবার্গ ম্যাটেরিয়ালস বাংলাদেশ লিমিটেডের জন্য কাঁচামাল ব্যবহার করে সিমেন্ট উৎপাদন করবে অলিম্পিক সিমেন্ট।",
-        "lead_en": "Olympic Cement will manufacture cement for Heidelberg Materials Bangladesh using materials supplied by the latter.",
+        "published_at": "2026-11-25T11:02:03+00:00",
+        "lead_bn": "গোয়ায় হতে যাওয়া আগামী আইপিএল খেলোয়াড় নিলামের জন্য ১১ জন বাংলাদেশী ক্রিকেটার নিবন্ধিত হলেও সাকিব আল হাসান ও মুস্তাফিজুর রহমান এ তালিকায় নেই।",
+        "lead_en": "Eleven Bangladeshi cricketers have registered for the upcoming IPL player auction in Goa, with former captain Shakib Al-Hasan and bowler Mustafizur Rahman noticeably absent.",
         "bullets_bn": [
-          "হাইডেলবার্গ বোর্ডের অনুমোদন পাওয়া এই চুক্তির আওতায় অলিম্পিক সিমেন্ট নির্ধারিত মান ও মানদণ্ড অনুযায়ী পণ্য উৎপাদন করবে।",
-          "উৎপাদন ও অপারেশনাল নমনীয়তা বাড়াতে এবং ব্যবসায়িক প্রয়োজন মেটাতে এই ব্যবস্থা নেওয়া হয়েছে।",
-          "চুক্তিটি প্রাথমিকভাবে ছয় মাসের জন্য কার্যকর থাকবে এবং উভয় পক্ষের সম্মতিতে নবায়ন করা যাবে।"
+          "টুর্নামেন্টে সুযোগ পাওয়ার দৌড়ে থাকা ১১ জন বাংলাদেশী খেলোয়াড়ের তালিকায় নেতৃত্ব দিচ্ছেন টপ-অর্ডার ব্যাটার তাওহীদ হৃদয়।",
+          "বিসিসিআই জানিয়েছে, প্রাথমিক তালিকায় ১,২২০ জন খেলোয়াড় থাকলেও সর্বোচ্চ ৬৬টি স্থান খালি রয়েছে, যার ২৫টি বিদেশি।",
+          "১৬ ডিসেম্বর গোয়ায় এই নিলাম অনুষ্ঠিত হবে, যেখানে ফ্র্যাঞ্চাইজিগুলোর নির্বাচনের আগে খেলোয়াড়দের প্রাথমিক তালিকা ছাঁটাই করা হবে।"
         ],
         "bullets_en": [
-          "Under the board-approved agreement, Olympic Cement will manufacture the product in line with quality specifications and regulatory standards.",
-          "The arrangement is intended to enhance manufacturing and operational flexibility and support business requirements.",
-          "The agreement will initially remain in effect for six months, with an option for renewal by mutual agreement."
+          "Top-order batter Towhid Hridoy leads the list of 11 Bangladeshi players seeking spots in the league.",
+          "The BCCI stated that maximum 66 slots, including 25 overseas slots, are available from an initial list of 1,220 players.",
+          "The auction is scheduled for December 16 in Goa, where the initial pool of players will be trimmed before selections."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "হাইডেলবার্গ ম্যাটেরিয়ালস বাংলাদেশ জানুয়ারি-সেপ্টেম্বর ২০২৬ সময়ে ৩১.৫০ কোটি টাকা লোকসানের মুখে পড়েছে, যেখানে আগের বছরের একই সময়ে ২৩.২৩ কোটি টাকা মুনাফা ছিল। টনপ্রতি কম মার্জিন এবং বিক্রয় পরিমাণ হ্রাসের কারণে এই লোকসান হয়েছে। গত ৩১ অক্টোবর ২০২৬ তারিখের ডিএসই তথ্য অনুযায়ী, কোম্পানিটির ৬০.৬৭ শতাংশ শেয়ার স্পন্সর ও পরিচালক এবং বাকি অংশ প্রাতিষ্ঠানিক, পাবলিক ও বিদেশি বিনিয়োগকারীদের হাতে ছিল।",
-        "details_en": "Heidelberg Materials Bangladesh incurred a loss of Tk 31.50 crore in January-September 2026, compared with a profit of Tk 23.23 crore a year earlier, due to lower margins and sales volume. According to DSE data as of October 31, 2026, sponsors and directors held 60.67 percent of the company, with the remainder held by institutional, public and foreign investors.",
-        "hook_bn": "অলিম্পিকের কারখানায় সিমেন্ট উৎপাদন করবে হাইডেলবার্গ",
+        "details_bn": "যৌথভাবে ভারত আয়োজিত আইসিসি পুরুষ টি-টোয়েন্টি বিশ্বকাপ থেকে বাংলাদেশের বহিষ্কারের পর এ তালিকা এলো। বিসিসিআইয়ের নির্দেশে কলকাতা নাইট রাইডার্স থেকে মুস্তাফিজুর রহমান বাদ পড়ার পর নিরাপত্তা উদ্বেগে ভারতে দল পাঠাতে অস্বীকৃতি জানায় বিসিবি। বিসিসিআই বিষয়টিকে চারপাশের পরিস্থিতি বলে উল্লেখ করে, যা ২০২৪ সালে সাবেক প্রধানমন্ত্রী শেখ হাসিনার ক্ষমতাচ্যুত ও নতুন দিল্লিতে আশ্রয় নেওয়ার পর দুদেশের মধ্যকার উত্তেজনাকে নির্দেশ করে।",
+        "details_en": "The inclusions come after Bangladesh was expelled from the ICC Men's T20 World Cup, cohosted by India. The Bangladesh Cricket Board refused to send its team over security concerns, following Mustafizur Rahman's removal from Kolkata Knight Riders on BCCI instructions. The BCCI cited developments all around, an apparent reference to tensions after the 2024 ouster of former Bangladesh Prime Minister Sheikh Hasina, who received exile in New Delhi.",
+        "hook_bn": "আইপিএল নিলাম তালিকায় নেই সাকিব ও মুস্তাফিজ",
         "kicker_bn": null,
         "share_value": false,
-        "question_bn": null
+        "question_bn": "আইপিএল নিলামের তালিকায় সাকিব ও মুস্তাফিজের না থাকা নিয়ে আপনার মতামত কী?"
       },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 3.0,
       "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-25T11:02:02.255855+00:00"
+        "status": "unchecked",
+        "checked_at": "2026-11-25T12:03:34.977863+00:00"
+      }
+    },
+    {
+      "story_id": "cf940e67-38dd-50ee-a001-3f1d574765a9",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#NorthKorea",
+        "#Switzerland",
+        "#Sanctions"
+      ],
+      "image_url": "https://static.dw.com/image/80044514_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-25T11:12:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.12,
+      "rank_score": 0.4283,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/north-korea-expels-swiss-envoy-over-sanctions-on-camp-accused-of-indoctrinating-ukrainian-children/a-80043648?maca=en-rss-en-all-1573-rdf",
+          "title": "North Korea expels Swiss envoy over sanctions on camp accused of indoctrinating Ukrainian children",
+          "snippet": "North Korea expels Swiss envoy over sanctions on camp accused of indoctrinating Ukrainian children"
+        },
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/north-korea-declares-a-swiss-diplomat-persona-non-grata-and-orders-him-to-leave/article71741084.ece",
+          "title": "North Korea declares a Swiss diplomat persona non grata and orders him to leave",
+          "snippet": "North Korea declares a Swiss diplomat persona non grata and orders him to leave"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আন্তর্জাতিক শিশুশিবিরে নিষেধাজ্ঞাকে কেন্দ্র করে সুইজারল্যান্ডের দূতকে তাড়ালো উত্তর কোরিয়া",
+        "title_en": "North Korea expels Swiss envoy over sanctions on international children's camp",
+        "summary_bn": "উত্তর কোরিয়া সুইজারল্যান্ডের শীর্ষ কূটনৈতিক প্রতিনিধিকে অগ্রহণযোগ্য ব্যক্তি ঘোষণা করে ৪৮ ঘণ্টার মধ্যে দেশ ছাড়ার নির্দেশ দিয়েছে বলে রাষ্ট্রীয় গণমাধ্যম জানিয়েছে।",
+        "summary_en": "North Korea declared Switzerland's top diplomatic representative persona non grata and ordered him to leave the country within 48 hours, state media reported.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-25T11:12:00+00:00",
+        "lead_bn": "উত্তর কোরিয়া সুইজারল্যান্ডের শীর্ষ কূটনৈতিক প্রতিনিধিকে অগ্রহণযোগ্য ব্যক্তি ঘোষণা করে ৪৮ ঘণ্টার মধ্যে দেশ ছাড়ার নির্দেশ দিয়েছে বলে রাষ্ট্রীয় গণমাধ্যম জানিয়েছে।",
+        "lead_en": "North Korea declared Switzerland's top diplomatic representative persona non grata and ordered him to leave the country within 48 hours, state media reported.",
+        "bullets_bn": [
+          "উত্তর কোরিয়ার পররাষ্ট্র মন্ত্রণালয় সুইজারল্যান্ডের কূটনৈতিক কার্যালয় বন্ধের আহ্বান জানিয়েছে, যা এক মাসেরও কম সময় আগে পুনরায় চালু হয়েছিল।",
+          "ইউক্রেনীয় শিশুদের স্থানান্তরের অভিযোগে ওয়োনসানের সংদোওয়ান আন্তর্জাতিক শিশুশিবিরে সুইজারল্যান্ড নিষেধাজ্ঞা দেওয়ায় পিয়ংইয়ং এই পদক্ষেপ নেয়।",
+          "উত্তর কোরিয়ার নেতা কিম জং উনের বোন কিম ইয়ো জং এই যুব শিবিরে সুইজারল্যান্ডের নিষেধাজ্ঞার তীব্র নিন্দা জানিয়েছেন।"
+        ],
+        "bullets_en": [
+          "DPRK Foreign Ministry called for the closure of Switzerland's diplomatic office, which had reopened less than a month ago.",
+          "Pyongyang acted after Switzerland sanctioned the Songdowon International Children's Camp in Wonsan over alleged transfers of Ukrainian children.",
+          "Kim Yo Jong, sister of Kim Jong Un, condemned the Swiss sanctions imposed on the youth facility."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "গত ৪ নভেম্বর সুইজারল্যান্ড ওয়োনসান শহরের সংদোওয়ান আন্তর্জাতিক শিশুশিবিরে নিষেধাজ্ঞা আরোপ করে। সুইজারল্যান্ড কর্তৃপক্ষের অভিযোগ, সংস্থাটি ইউক্রেনের দখলকৃত অঞ্চল থেকে শিশুদের স্থানান্তর এবং তাদের বৈচিত্র্যময় মতাদর্শগত পরিবর্তনের সঙ্গে জড়িত। এই প্রেক্ষিতে উত্তর কোরিয়ার ইউরোপীয় বিভাগের মহাপরিচালক পাক হিয়ন সু সুইজারল্যান্ডের কূটনীতিক সিলভাইন আসতিয়েরকে তলব করে অফিস বন্ধের স্মারক হস্তান্তর করেন।",
+        "details_en": "Swiss authorities sanctioned the camp on November 4, accusing it of participating in the transfer of Ukrainian children from temporarily occupied territories and contributing to their ideological conditioning. Pak Hyon Su, director general of the foreign ministry's European Department, summoned Swiss diplomat Sylvain Astier and handed him a memorandum demanding the office closure. KCNA quoted Pyongyang as saying any act violating DPRK's sovereign rights and citizens' interests will never be welcomed.",
+        "hook_bn": "উত্তর কোরিয়ায় সুইজারল্যান্ডের দূতকে বহিষ্কারের নির্দেশ",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "উত্তর কোরিয়ার এই কূটনৈতিক পদক্ষেপকে আপনি কীভাবে দেখছেন?"
+      },
+      "fact_check": {
+        "status": "unchecked",
+        "checked_at": "2026-11-25T12:03:34.977863+00:00"
       }
     }
   ]
