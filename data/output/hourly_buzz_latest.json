@@ -1,79 +1,92 @@
 {
-  "updated_at": "2026-11-25T09:00:44.773519",
-  "total_stories": 4,
+  "updated_at": "2026-11-25T10:00:42.361872",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "a5ee46a4-1a63-5a2f-b282-764960d28232",
-      "primary_category": "governance_law",
+      "story_id": "73390fc0-5174-5d92-b096-df9894392d1b",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "governance_law",
-        "economy_business"
+        "economy_business",
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#SheikhHasina",
-        "#MohammadpurMurderCase",
-        "#JulyUprising"
+        "#Australia",
+        "#Bangladesh",
+        "#LDCGraduation",
+        "#Trade"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/05/14/pm_hasina.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/25/aus_bd.jpg",
       "image_caption": null,
-      "published_at": "2026-11-25T08:05:00+00:00",
+      "published_at": "2026-11-25T09:15:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.6414,
+      "importance_score": 7.5,
+      "rank_score": 5.3708,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/july-murder-case-trial-hasina-33-others-begins-absence-6-accused-lead-new-testimony",
-          "title": "July murder case: Trial of Hasina, 33 others begins, absence of 6 accused leads to new testimony recording date",
-          "snippet": "July murder case: Trial of Hasina, 33 others begins, absence of 6 accused leads to new testimony recording dat"
+          "url": "https://www.tbsnews.net/bangladesh/bangladesh-retain-duty-free-quota-free-access-australian-market-after-ldc-graduation",
+          "title": "Bangladesh to retain duty-free, quota-free access to Australian market after LDC graduation",
+          "snippet": "Bangladesh to retain duty-free, quota-free access to Australian market after LDC graduation"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/425715/australia-to-retain-duty-free-access-for",
+          "title": "Australia to retain duty-free access for Bangladesh after LDC graduation",
+          "snippet": "Australia to retain duty-free access for Bangladesh after LDC graduation"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/bangladesh-to-retain-duty-free-access-to-australian-market-after-ldc-graduation",
+          "title": "Australia to allow duty-free access after LDC graduation",
+          "snippet": "Australia to allow duty-free access after LDC graduation"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শেখ হাসিনাসহ ৩৪ জনের বিরুদ্ধে হত্যা মামলায় বিচার শুরু হয়েছে",
-        "title_en": "Trial of Sheikh Hasina and 33 others in murder case begins",
-        "summary_bn": "২০২৪ সালের জুলাই অভ্যুত্থানের সময় মোহাম্মদপুরে ট্রাকচালক মো. হোসেন হত্যার ঘটনায় সাবেক প্রধানমন্ত্রী শেখ হাসিনাসহ ৩৪ জনের বিরুদ্ধে বিচার শুরু হয়েছে।",
-        "summary_en": "The trial of ousted prime minister Sheikh Hasina and 33 others in a murder case over killing a truck driver began.",
+        "title_bn": "অস্ট্রেলিয়ার বাজারে শুল্কমুক্ত সুবিধা পাবে বাংলাদেশ",
+        "title_en": "Bangladesh to retain duty-free access to Australia",
+        "summary_bn": "স্বল্পোন্নত দেশের তালিকা থেকে উত্তরণের পরও অস্ট্রেলিয়ার বাজারে বাংলাদেশি পণ্য শুল্ক ও কোটামুক্ত সুবিধা ভোগ করবে।",
+        "summary_en": "Bangladesh products will continue to enjoy duty-free and quota-free access to the Australian market after LDC graduation.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "economy_business"
+          "economy_business",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-25T08:05:00+00:00",
-        "lead_bn": "২০২৪ সালের জুলাই অভ্যুত্থানের সময় মোহাম্মদপুরে ট্রাকচালক মো. হোসেন হত্যার ঘটনায় সাবেক প্রধানমন্ত্রী শেখ হাসিনাসহ ৩৪ জনের বিরুদ্ধে বিচার শুরু হয়েছে।",
-        "lead_en": "The trial of ousted prime minister Sheikh Hasina and 33 others in a murder case over killing a truck driver began.",
+        "published_at": "2026-11-25T09:15:00+00:00",
+        "lead_bn": "স্বল্পোন্নত দেশের তালিকা থেকে উত্তরণের পরও অস্ট্রেলিয়ার বাজারে বাংলাদেশি পণ্য শুল্ক ও কোটামুক্ত সুবিধা ভোগ করবে।",
+        "lead_en": "Bangladesh products will continue to enjoy duty-free and quota-free access to the Australian market after LDC graduation.",
         "bullets_bn": [
-          "নিহত ব্যক্তির মা ও বাদী রিনা বেগমসহ চার সাক্ষী সাক্ষ্য দিতে আদালতে হাজির হলেও জবানবন্দি রেকর্ড করা হয়নি।",
-          "নিরাপত্তা আশঙ্কার কারণে কাশিমপুর কারা কর্তৃপক্ষ ছয়জন আসামিকে আদালতে হাজির করতে পারেনি।",
-          "ঢাকা স্পেশাল জজ কোর্ট-৪ এর বিচারক রবিউল আলম সাক্ষ্য গ্রহণের নতুন তারিখ নির্ধারণ করেছেন ৭ ডিসেম্বর।"
+          "ক্যানবেরায় অনুষ্ঠিত যৌথ কার্যপলীর পঞ্চম সভায় এই নিশ্চয়তা দেওয়া হয়।",
+          "বাংলাদেশ প্রতিনিধি দলের নেতৃত্ব দেন বাণিজ্য সচিব শরীফ উদ্দিন আহমেদ চৌধুরী।",
+          "দুই দেশ বাণিজ্য বৈচিত্র্যকরণ এবং অর্থনৈতিক সহযোগিতা সম্প্রসারণের ওপর গুরুত্ব দেয়।"
         ],
         "bullets_en": [
-          "Four witnesses including the victim's mother and plaintiff Rina Begum appeared, but no testimonies were recorded.",
-          "Kashimpur Jail authorities failed to produce six accused before the court due to security concerns.",
-          "Judge Robiul Alam of Dhaka Special Judge Court-4 fixed 7 December as the new date for recording testimonies."
+          "The assurance was given at the fifth meeting of the Joint Working Group held in Canberra.",
+          "Commerce Secretary Sharif Uddin Ahmed Chowdhury led the Bangladesh delegation.",
+          "Both countries stressed the need to expand bilateral trade and diversify exports."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "২০২৪ সালের ১৯ জুলাই জুলাই অভ্যুত্থানের সময় মোহাম্মদপুরের চাঁদ উদ্যান এলাকায় গুলি করে হত্যা করা হয় ট্রাকচালক মো. হোসেনকে। এই ঘটনায় ২৬ অক্টোবর আসামিদের বিরুদ্ধে অভিযোগ গঠন করে বিচার শুরুর আদেশ দেয় আদালত এবং ২৫ নভেম্বর সাক্ষ্য গ্রহণের তারিখ ঠিক করা হয়েছিল। সাবেক স্বরাষ্ট্র প্রতিমন্ত্রী জুনাইদ আহমেদ পলকসহ ১০ জন আসামি বর্তমানে কারাবন্দী রয়েছেন।",
-        "details_en": "Truck driver Md Hossain was shot dead in the Chand Udyan area of Mohammadpur on 19 July 2024 during the July uprising. The court framed charges on 26 October and set 25 November for recording testimony. A total of 10 accused, including former state minister Zunaid Ahmed Palak, are currently in custody.",
-        "hook_bn": "মোহাম্মদপুরে ট্রাকচালক হোসেন হত্যা মামলা",
-        "kicker_bn": "নতুন তারিখ",
-        "share_value": false,
-        "question_bn": null
+        "details_bn": "ক্যানবেরায় বাণিজ্য ও বিনিয়োগ কাঠামো ব্যবস্থার আওতায় যৌথ কার্যপলীর পঞ্চম সভা অনুষ্ঠিত হয়। এতে দুই দেশের দ্বিপক্ষীয় বাণিজ্য, বিনিয়োগ, কৃষি পণ্যের বাজার প্রবেশাধিকার এবং সরাসরি বিমান যোগাযোগ নিয়ে আলোচনা হয়।",
+        "details_en": "The fifth meeting of the Joint Working Group under the Trade and Investment Framework Arrangement was held in Canberra. Discussions covered bilateral trade, investment, agricultural market access, and direct air connectivity.",
+        "hook_bn": "অস্ট্রেলিয়ার বাজারে শুল্কমুক্ত সুবিধা পাবে বাংলাদেশ",
+        "kicker_bn": "বাণিজ্য সংবাদ",
+        "share_value": true,
+        "question_bn": "অস্ট্রেলিয়ার বাজারে বাংলাদেশি পণ্যের এই সুযোগ দেশের রপ্তানি বৃদ্ধিতে কেমন ভূমিকা রাখবে বলে আপনি মনে করেন?"
       },
       "desk_importance": 7.0,
-      "outlet_count": 1,
+      "outlet_count": 3,
       "trending": false,
-      "social_appeal": 8.0,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-25T09:02:11.901385+00:00"
+        "checked_at": "2026-11-25T10:04:43.488620+00:00"
       }
     },
     {
-      "story_id": "6214fd36-95dc-5a35-a339-2df5f4a0b5e9",
+      "story_id": "ecf3f03d-1c3f-55d8-9013-22ef949e7920",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business",
@@ -84,37 +97,31 @@
         "#Economy",
         "#Finance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-25%2F25l4af44%2FTIB.jfif?rect=0%2C180%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2020-10%2Ffcda0e45-8f0f-4748-83cb-74f018478431%2F786023a3-8c0b-47d8-ae9d-e15de5cfb5f0.png?rect=0%2C56%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-25T07:45:01+00:00",
+      "published_at": "2026-11-25T09:09:02+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 3.9258,
+      "importance_score": 7.25,
+      "rank_score": 4.9899,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/aq74j6nykt",
-          "title": "টিআইবির গবেষণা: ঢাকায় প্লট বুঝে পেতে কাঠাপ্রতি সাড়ে ১৪ লাখ টাকা পর্যন্ত বাড়তি ব্যয়",
-          "snippet": "টিআইবির গবেষণা: ঢাকায় প্লট বুঝে পেতে কাঠাপ্রতি সাড়ে ১৪ লাখ টাকা পর্যন্ত বাড়তি ব্যয়"
+          "url": "https://www.prothomalo.com/business/bank/6ti7xe2p2j",
+          "title": "আমানত বেড়েছে ৫৫ হাজার কোটি, ঋণ বেড়েছে মাত্র সাড়ে ৫ হাজার কোটি টাকা",
+          "snippet": "আমানত বেড়েছে ৫৫ হাজার কোটি, ঋণ বেড়েছে মাত্র সাড়ে ৫ হাজার কোটি টাকা"
         },
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/mafia-syndicate-emerges-real-estate-sector-through-political-influence-administrative",
-          "title": "Mafia-like syndicate emerges in real estate sector through political influence, administrative collusion: TIB",
-          "snippet": "Mafia-like syndicate emerges in real estate sector through political influence, administrative collusion: TIB"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/speed-money-at-every-step-of-private-housing-projects-tib",
-          "title": "Speed money at every step of private housing projects: TIB",
-          "snippet": "Speed money at every step of private housing projects: TIB"
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/financial-development/post-1225457/",
+          "title": "ঋণের ছাড়ে লাগামছাড়া খেলাপি",
+          "snippet": "ঋণের ছাড়ে লাগামছাড়া খেলাপি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ঢাকায় প্লট বুঝে পেতে কাঠাপ্রতি সাড়ে ১৪ লাখ টাকা পর্যন্ত বাড়তি ব্যয়",
-        "title_en": "Plot buyers in Dhaka face extra costs up to Tk 14.5 lakh per katha",
-        "summary_bn": "ঢাকার বেসরকারি আবাসন প্রকল্পে প্লট কিনে মালিকানা বুঝে পেতে ক্রেতাদের প্রতি কাঠায় সর্বোচ্চ ১৪ লাখ ৫০ হাজার টাকা পর্যন্ত অতিরিক্ত ব্যয় করতে হয়।",
-        "summary_en": "Private housing plot buyers in Dhaka have to spend up to an additional Tk 14.50 lakh per katha to get ownership.",
+        "title_bn": "রাষ্ট্রমালিকানাধীন ছয় ব্যাংকে আমানত বাড়লেও কমেছে ঋণ বিতরণ",
+        "title_en": "Deposits rise while loans drop in six state-owned banks",
+        "summary_bn": "রাষ্ট্রমালিকানাধীন ছয় ব্যাংকে আমানত বাড়লেও সে তুলনায় ঋণ বিতরণ অনেক কম হয়েছে বলে অর্থ মন্ত্রণালয়ের আর্থিক প্রতিষ্ঠান বিভাগের বৈঠকে জানানো হয়েছে।",
+        "summary_en": "Deposits have increased while loan distribution remains much lower in six state-owned banks, a meeting of the Financial Institutions Division revealed.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -122,27 +129,106 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-25T07:45:01+00:00",
-        "lead_bn": "ঢাকার বেসরকারি আবাসন প্রকল্পে প্লট কিনে মালিকানা বুঝে পেতে ক্রেতাদের প্রতি কাঠায় সর্বোচ্চ ১৪ লাখ ৫০ হাজার টাকা পর্যন্ত অতিরিক্ত ব্যয় করতে হয়।",
-        "lead_en": "Private housing plot buyers in Dhaka have to spend up to an additional Tk 14.50 lakh per katha to get ownership.",
+        "published_at": "2026-11-25T09:09:02+00:00",
+        "lead_bn": "রাষ্ট্রমালিকানাধীন ছয় ব্যাংকে আমানত বাড়লেও সে তুলনায় ঋণ বিতরণ অনেক কম হয়েছে বলে অর্থ মন্ত্রণালয়ের আর্থিক প্রতিষ্ঠান বিভাগের বৈঠকে জানানো হয়েছে।",
+        "lead_en": "Deposits have increased while loan distribution remains much lower in six state-owned banks, a meeting of the Financial Institutions Division revealed.",
         "bullets_bn": [
-          "উন্নয়ন ফি, সার্ভিস চার্জ, ইউটিলিটি সংযোগ ও অবকাঠামো নির্মাণসহ বিভিন্ন খাতে এই অতিরিক্ত অর্থ নেওয়া হয়।",
-          "টিআইবির নির্বাহী পরিচালক ইফতেখারুজ্জামান জানান যে বেসরকারি আবাসন খাতে সুশাসনে ব্যাপক ঘাটতি রয়েছে।",
-          "রাজনৈতিক যোগসাজশ ও প্রশাসনের একাংশের কারণে এ খাতে একধরনের মাফিয়াতন্ত্র গড়ে উঠেছে বলে টিআইবি জানিয়েছে।"
+          "এক বছরে সোনালী, রূপালী, অগ্রণী, জনতা, বেসিক ও বিডিবিএল ব্যাংকের আমানত বেড়েছে প্রায় ৫২ হাজার কোটি টাকা এবং ঋণ বেড়েছে ৫ হাজার ৫০০ কোটি টাকা।",
+          "ছয় ব্যাংকের মোট খেলাপি ঋণ ১ লাখ ৫২ হাজার ৫০৯ কোটি টাকা, যা মোট ঋণের ৪৭ দশমিক ২৫ শতাংশ।",
+          "ছয় ব্যাংকের চারটিই এখন বড় অঙ্কের মূলধনঘাটতিতে রয়েছে বলে পর্যালোচনা বৈঠকে জানানো হয়।"
         ],
         "bullets_en": [
-          "This extra money is taken in various sectors including development fees, service charges, utility connections, and infrastructure construction.",
-          "TIB Executive Director Iftekharuzzaman said there is a massive deficit of good governance in the private housing sector.",
-          "TIB stated that a kind of mafia-like syndicate has emerged in this sector due to political collusion and parts of the administration."
+          "Deposits in Sonali, Rupali, Agrani, Janata, BASIC and BDBL banks increased by about 52,000 crore taka and loans rose by 5,500 crore taka in one year.",
+          "Total classified loans of the six state-owned banks stand at 1,52,509 crore taka, which is 47.25 percent of total loans.",
+          "Four of the six banks are currently facing large capital deficits, the review meeting was informed."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ট্রান্সপারেন্সি ইন্টারন্যাশনাল বাংলাদেশের গবেষণায় ঢাকা শহরে বেসরকারি আবাসন খাতে ভূমি উন্নয়নে সুশাসনের চ্যালেঞ্জ তুলে ধরা হয়। এতে রিয়েল এস্টেট কোম্পানি, প্লট ক্রেতা ও জমির মালিকের সাক্ষাৎকার নেওয়া হয়েছে। গবেষণায় দেখা যায়, উন্নয়ন ফি বা সার্ভিস চার্জ বাবদ প্রতি কাঠায় ২৫ হাজার থেকে ৫ লাখ টাকা এবং ইউটিলিটি ডিপোজিট বাবদ প্রতি প্লটে ১ লাখ থেকে ২ লাখ ৫০ হাজার টাকা নেওয়া হয়।",
-        "details_en": "Transparency International Bangladesh revealed the findings in a research on governance challenges in land development within Dhaka's private housing sector. The research involved interviews with real estate companies, plot buyers, and landowners. It showed that development fees or service charges range from Tk 25,000 to Tk 5 lakh per katha, and utility deposits range from Tk 1 lakh to Tk 2.50 lakh per plot.",
-        "hook_bn": "প্লট বুঝে পেতে কাঠাপ্রতি সাড়ে ১৪ লাখ টাকা বাড়তি ব্যয়",
-        "kicker_bn": "গবেষণা প্রতিবেদন",
+        "details_bn": "আর্থিক প্রতিষ্ঠান বিভাগের সচিব নাজমা মোবারেকের সভাপতিত্বে ১৮ নভেম্বর ঢাকায় সচিবালয়ে অনুষ্ঠিত এক পর্যালোচনা বৈঠকে ২০২৬ সালের জুন পর্যন্ত ব্যাংকগুলোর আর্থিক পরিস্থিতি পর্যালোচনা করা হয়। বৈঠকে জানানো হয়, গত সেপ্টেম্বর পর্যন্ত বেসরকারি খাতের ঋণ প্রবৃদ্ধি কমে ৪ দশমিক ১৭ শতাংশ হয়েছে, যা দেশের ইতিহাসে সর্বনিম্ন। রাজনৈতিক প্রভাব, পরিচালকদের পছন্দের গ্রাহককে ঋণ বিতরণ এবং বড় গ্রাহকদের নীতিগত ছাড়ের কারণে খেলাপি ঋণ বাড়ছে বলে সংশ্লিষ্ট সূত্রে জানা গেছে।",
+        "details_en": "A review meeting held on November 18 at the secretariat in Dhaka, chaired by Financial Institutions Division Secretary Nazma Mobarek, reviewed the financial status of the banks until June 2026. The meeting was informed that private sector credit growth dropped to 4.17 percent by last September, the lowest in the country's history. According to reports, classified loans are increasing due to political influence, loan distribution to directors' preferred clients, and policy exemptions for large borrowers.",
+        "hook_bn": "ছয় ব্যাংকে আমানত বাড়লেও ঋণ কমেছে",
+        "kicker_bn": "ব্যাংকিং খাত",
+        "share_value": false,
+        "question_bn": "রাষ্ট্রায়ত্ত ব্যাংকগুলোতে ঋণ বিতরণ কমে যাওয়া নিয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-25T10:04:43.488620+00:00"
+      }
+    },
+    {
+      "story_id": "a2352327-170e-5b5c-8be7-1138070d3dc3",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-09-23%2F8tsqw0xp%2Ffd3712e1_a131_4003_857f_2bd3890ea7be.jfif?rect=0%2C16%2C622%2C327&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-25T09:47:33+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.5,
+      "rank_score": 4.1624,
+      "sources": [
+        {
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/09navks14h",
+          "title": "কিশোরগঞ্জ-৩ আসনে উপনির্বাচন ১০ জানুয়ারি",
+          "snippet": "কিশোরগঞ্জ-৩ আসনে উপনির্বাচন ১০ জানুয়ারি"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/kishoreganj-3-local-government-elections-scheduled-10-january-ec-secretary-1613501",
+          "title": "Kishoreganj-3 by-polls on 10 Jan: EC secretary",
+          "snippet": "Kishoreganj-3 by-polls on 10 Jan: EC secretary"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822945/%E0%A6%95%E0%A6%BF%E0%A6%B6%E0%A7%8B%E0%A6%B0%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C-%E0%A7%A9-%E0%A6%86%E0%A6%B8%E0%A6%A8%E0%A7%87-%E0%A6%89%E0%A6%AA-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A7%A7%E0%A7%A6-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%BF",
+          "title": "কিশোরগঞ্জ-৩ আসনে উপ-নির্বাচন ১০ জানুয়ারি",
+          "snippet": "কিশোরগঞ্জ-৩ আসনে উপ-নির্বাচন ১০ জানুয়ারি"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কিশোরগঞ্জ-৩ আসনে উপনির্বাচন আগামী ১০ জানুয়ারি অনুষ্ঠিত হবে",
+        "title_en": "Kishoreganj-3 by-election will be held on January 10",
+        "summary_bn": "নির্বাচন কমিশন ত্রয়োদশ জাতীয় সংসদের কিশোরগঞ্জ-৩ আসনের উপনির্বাচনের তফসিল ঘোষণা করেছে এবং আগামী ১০ জানুয়ারি ভোট গ্রহণ করা হবে।",
+        "summary_en": "The Election Commission has announced the schedule for the Kishoreganj-3 thirteenth national parliament by-election, with voting set for January 10.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-25T09:47:33+00:00",
+        "lead_bn": "নির্বাচন কমিশন ত্রয়োদশ জাতীয় সংসদের কিশোরগঞ্জ-৩ আসনের উপনির্বাচনের তফসিল ঘোষণা করেছে এবং আগামী ১০ জানুয়ারি ভোট গ্রহণ করা হবে।",
+        "lead_en": "The Election Commission has announced the schedule for the Kishoreganj-3 thirteenth national parliament by-election, with voting set for January 10.",
+        "bullets_bn": [
+          "মনোনয়নপত্র জমা দেওয়ার শেষ তারিখ ৬ ডিসেম্বর এবং বাছাই ৭ ডিসেম্বর।",
+          "মনোনয়নপত্র প্রত্যাহারের শেষ তারিখ ১৭ ডিসেম্বর এবং ভোট গ্রহণ চলবে সকাল আটটা থেকে বিকেল চারটা পর্যন্ত।",
+          "বিএনপির প্রার্থী ওসমান ফারুকের পদত্যাগের ফলে আসনটি শূন্য হয়।"
+        ],
+        "bullets_en": [
+          "The deadline for submitting nomination papers is December 6 and scrutiny will take place on December 7.",
+          "The final date for withdrawing nomination papers is December 17 and voting will continue from eight in the morning to four in the afternoon.",
+          "The seat became vacant following the resignation of BNP candidate Osman Faruk."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "কিশোরগঞ্জ-৩ আসনে উপনির্বাচন ১০ জানুয়ারি",
+        "kicker_bn": "নতুন তারিখ",
         "share_value": true,
-        "question_bn": "বেসরকারি আবাসন খাতে প্লট কিনতে গিয়ে আপনারা কী ধরনের অতিরিক্ত ব্যয়ের মুখোমুখি হয়েছেন?"
+        "question_bn": "কিশোরগঞ্জ-৩ আসনের উপনির্বাচন নিয়ে আপনার মতামত কী?"
       },
       "desk_importance": 6.0,
       "outlet_count": 3,
@@ -150,161 +236,158 @@
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-25T09:02:11.901385+00:00"
+        "checked_at": "2026-11-25T10:04:43.488620+00:00"
       }
     },
     {
-      "story_id": "4ac1768f-6892-57fa-b8a3-70dc0b59b74a",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/Untitled-1-230.png",
-      "image_caption": null,
-      "published_at": "2026-11-25T07:47:51+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.568,
-      "sources": [
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/law-justice/post-1225669/",
-          "title": "কিশোরগঞ্জে হোটেল কর্মচারী জয়নাল হত্যা মামলায় ৩ জনের যাবজ্জীবন",
-          "snippet": "কিশোরগঞ্জে হোটেল কর্মচারী জয়নাল হত্যা মামলায় ৩ জনের যাবজ্জীবন"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1183548",
-          "title": "হোটেল কর্মচারী জয়নাল হত্যা মামলায় তিনজনের যাবজ্জীবন",
-          "snippet": "হোটেল কর্মচারী জয়নাল হত্যা মামলায় তিনজনের যাবজ্জীবন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "কিশোরগঞ্জে হোটেল কর্মচারী হত্যা মামলায় তিনজনের যাবজ্জীবন কারাদণ্ড",
-        "title_en": "Three given life imprisonment in Kishoreganj hotel employee murder case",
-        "summary_bn": "কিশোরগঞ্জে ১৮ বছর আগে হোটেল কর্মচারী জয়নাল আবেদীন হত্যা মামলায় তিন আসামিকে যাবজ্জীবন কারাদণ্ড দেওয়া হয়েছে।",
-        "summary_en": "Three defendants have been sentenced to life imprisonment in an 18-year-old hotel employee murder case in Kishoreganj.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-25T07:47:51+00:00",
-        "lead_bn": "কিশোরগঞ্জে ১৮ বছর আগে হোটেল কর্মচারী জয়নাল আবেদীন হত্যা মামলায় তিন আসামিকে যাবজ্জীবন কারাদণ্ড দেওয়া হয়েছে।",
-        "lead_en": "Three defendants have been sentenced to life imprisonment in an 18-year-old hotel employee murder case in Kishoreganj.",
-        "bullets_bn": [
-          "আসামিদের প্রত্যেককে ১ লাখ টাকা করে জরিমানা এবং অনাদায়ে আরও এক বছরের সশ্রম কারাদণ্ড দেওয়া হয়েছে।",
-          "কিশোরগঞ্জ জেলা ও দায়রা জজ আদালতের অতিরিক্ত জেলা ও দায়রা জজ-১-এর বিচারক মোহাম্মদ জহির উদ্দিন এ রায় ঘোষণা করেন।",
-          "সিআইডির তদন্তে আগের গ্রেফতার ব্যক্তিদের সম্পৃক্ততা না পাওয়ায় শাহজাহান সাজু, শফিকুল ইসলাম রতন ও আবু তাহেরের বিরুদ্ধে অভিযোগপত্র দাখিল করা হয়।"
-        ],
-        "bullets_en": [
-          "Each defendant was also fined 1 lakh taka, with an additional one year of rigorous imprisonment in default.",
-          "Judge Mohammad Zahir Uddin of the Additional District and Sessions Judge Court-1 of Kishoreganj District and Sessions Judge Court announced the verdict.",
-          "Following a CID investigation that found no involvement of previously arrested individuals, a charge sheet was filed against Shahjahan Saju, Shafiqul Islam Ratan, and Abu Taher."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "২০০৮ সালের ১১ জানুয়ারি কিশোরগঞ্জ শহরের বটতলা এলাকার কোহিনুর হোটেলের কর্মচারী জয়নাল আবেদীনকে চা-পুরি খাওয়ানোর কথা বলে ডেকে নিয়ে যান আসামিরা। পরদিন গাইটাল নয়াপাড়া মাটিকাটা হাওড়ের মাঝখানে তার গলাকাটা মরদেহ পাওয়া যায়। প্রথমে নিহতের স্ত্রী টাকা-পয়সার বিরোধকে কেন্দ্র করে মামলা করলেও পরে সিআইডির তদন্তে আসল খুনিরা চিহ্নিত হয়।",
-        "details_en": "On January 11, 2008, the defendants called Zainal Abedin, an employee of Kohinoor Hotel in the Bottola area of Kishoreganj town, away under the pretext of feeding him tea and puri. The next day, his throat-slit body was found in the middle of Gaital Noyapara Matikata haor. Although the victim's wife initially filed a case over a money dispute, the actual killers were identified later through a CID investigation.",
-        "hook_bn": "কিশোরগঞ্জে হোটেল কর্মচারী হত্যায় তিনজনের যাবজ্জীবন",
-        "kicker_bn": "রায় ঘোষণা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-25T09:02:11.901385+00:00"
-      }
-    },
-    {
-      "story_id": "e80a1987-15e7-54be-a715-7c4c44a70b3b",
+      "story_id": "4cd0522e-4f24-5213-94c1-e6c17a449a0c",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
-        "economy_business",
-        "governance_law"
+        "economy_business"
       ],
       "region": "international",
       "tags": [
-        "#ArjunSingh",
-        "#SheikhHasina",
-        "#HumaiunKobir",
-        "#Bangladesh"
+        "#SaudiCoalition",
+        "#Houthis",
+        "#Yemen"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/25/bengal-minister-arjun-singh-253952161-16x9_0-0000.jpg",
+      "image_url": "https://images.unsplash.com/photo-1592487501226-7ed5e5dc80f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGlwbG9tYWN5JTIwd29ybGQlMjBwb2xpdGljcyUyMGZsYWd8ZW58MXwwfHx8MTc5NTYwMTAyNXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-25T08:15:00+00:00",
+      "published_at": "2026-11-25T09:44:01+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.75,
-      "rank_score": 3.1621,
+      "importance_score": 5.0,
+      "rank_score": 2.4546,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/world/south-asia/will-take-bangladesh-16-dec-west-bengal-minister-makes-controversial-remark-amid",
-          "title": "'Will take Bangladesh by 16 Dec': West Bengal minister makes controversial remark amid tensions",
-          "snippet": "'Will take Bangladesh by 16 Dec': West Bengal minister makes controversial remark amid tensions"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/world/middle-east/425720/saudi-coalition-says-struck-yemen-port-city",
+          "title": "Saudi coalition says struck Yemen port city, Houthis threaten retaliation",
+          "snippet": "Saudi coalition says struck Yemen port city, Houthis threaten retaliation"
         },
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/west-bengal-minister-threatens-occupy-bangladesh/",
-          "title": "১৬ ডিসেম্বরের মধ্যে ‘বাংলাদেশ দখলের হুমকি’ পশ্চিমবঙ্গের মন্ত্রীর",
-          "snippet": "১৬ ডিসেম্বরের মধ্যে ‘বাংলাদেশ দখলের হুমকি’ পশ্চিমবঙ্গের মন্ত্রীর"
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike?traffic_source=rss",
+          "title": "Saudi-led coalition intercepts Houthi attacks after Hodeidah strike",
+          "snippet": "Saudi-led coalition intercepts Houthi attacks after Hodeidah strike"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাংলাদেশ দখলের হুমকি দিয়েছেন পশ্চিমবঙ্গের মন্ত্রী অর্জুন সিং",
-        "title_en": "West Bengal minister Arjun Singh threatens to take over Bangladesh",
-        "summary_bn": "পশ্চিমবঙ্গের মন্ত্রী অর্জুন সিং আগামী ১৬ ডিসেম্বরের মধ্যে বাংলাদেশ দখলের হুমকি দিয়ে বলেছেন হিন্দুদের হত্যার প্রতিশোধ নেওয়া হবে।",
-        "summary_en": "West Bengal minister Arjun Singh claimed the country would take over Bangladesh by 16 December and avenge Hindu killings.",
+        "title_bn": "সৌদি জোটের ইয়েমেন হামলায় হুথিদের প্রতিশোধের হুমকি",
+        "title_en": "Saudi coalition strikes Yemen port city, Houthis threaten retaliation",
+        "summary_bn": "সৌদি নেতৃত্বাধীন জোট ইয়েমেনের বন্দর নগরীতে হামলা চালিয়েছে এবং এর প্রতিক্রিয়ায় হুথি বিদ্রোহীরা হামলার হুমকি দিয়েছে।",
+        "summary_en": "The Saudi-led coalition struck a port city in Yemen, prompting threats of retaliation from Houthi rebels.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "economy_business",
-          "governance_law"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-25T08:15:00+00:00",
-        "lead_bn": "পশ্চিমবঙ্গের মন্ত্রী অর্জুন সিং আগামী ১৬ ডিসেম্বরের মধ্যে বাংলাদেশ দখলের হুমকি দিয়ে বলেছেন হিন্দুদের হত্যার প্রতিশোধ নেওয়া হবে।",
-        "lead_en": "West Bengal minister Arjun Singh claimed the country would take over Bangladesh by 16 December and avenge Hindu killings.",
+        "published_at": "2026-11-25T09:44:01+00:00",
+        "lead_bn": "সৌদি নেতৃত্বাধীন জোট ইয়েমেনের বন্দর নগরীতে হামলা চালিয়েছে এবং এর প্রতিক্রিয়ায় হুথি বিদ্রোহীরা হামলার হুমকি দিয়েছে।",
+        "lead_en": "The Saudi-led coalition struck a port city in Yemen, prompting threats of retaliation from Houthi rebels.",
         "bullets_bn": [
-          "ভাটপাড়ায় সাংবাদিকদের সঙ্গে আলাপকালে অর্জুন সিং ১৬ ডিসেম্বরের মধ্যে বাংলাদেশ দখলের কথা বলেন।",
-          "বাংলাদেশের স্টেট মিনিস্টার ফর ফরেইন অ্যাফেয়ার্স হুমায়ুন কবীর বলেছেন শেখ হাসিনাকে শুধু বন্দী হিসেবে ফেরানো হবে।",
-          "শেখ হাসিনার মুখপাত্র সৈয়দ মোজাম্মেল আলী রয়টার্সকে জানান সাবেক প্রধানমন্ত্রী ১৬ ডিসেম্বরে দিল্লি থেকে ঢাকা যাওয়ার পরিকল্পনা করেছেন।"
+          "হুথিরা রিয়াদের আর্থিক জেলায় হামলার দাবি করেছে।",
+          "এই হামলায় ১১ জন আহত হয়েছেন বলে হুথিরা জানিয়েছে।",
+          "গ্রুপটি রাস তানুরা তেল শোধনাগারেও হামলার দাবি করেছে।"
         ],
         "bullets_en": [
-          "Arjun Singh spoke to reporters in Bhatpara and said they would take Bangladesh by 16 December.",
-          "State Minister for Foreign Affairs Humaiun Kobir said Sheikh Hasina would only be allowed to return as a prisoner.",
-          "Hasina's spokesperson Syed Mozammel Ali told Reuters that the former prime minister intended to travel from Delhi to Dhaka on 16 December."
+          "The Houthis claimed attacks on Riyadh's financial district.",
+          "The group stated that 11 people were wounded in the attack.",
+          "The group also claimed striking the Ras Tanura oil refinery."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "শেখ হাসিনার মুখপাত্র সৈয়দ মোজাম্মেল আলী জানান সাবেক প্রধানমন্ত্রী ৫ আগস্ট ২০২৪ একটি বিমানে ভারতে যাওয়ার পর এবার ঢাকা প্রশাসনের কাছে দিল্লি থেকে ঢাকা ফেরার বিমান ব্যবস্থার অনুরোধ করেছেন। বাংলাদেশের ইন্টারন্যাশন্যাল ক্রাইমস ট্রাইব্যুনালের চিফ প্রসিকিউটর মো. আমিনুল ইসলাম শেখ হাসিনার এই দাবিকে পাগলামি বলে বর্ণনা করেছেন। হুমায়ুন কবীর ফরেইন মিনিস্ট্রিতে বিদেশি কূটনীতিকদের ব্রিফ করার পর জানান সন্ত্রাসী হিসেবে তাকে হাতকড়া ও কড়া নিরাপত্তার মধ্যে ফিরিয়ে আনা হবে।",
-        "details_en": "Hasina's spokesperson Syed Mozammel Ali stated that after being flown to India on 5 August 2024, the former prime minister called upon the Dhaka administration to arrange air transport from Delhi to Dhaka. Bangladesh International Crimes Tribunal Chief Prosecutor Md Aminul Islam described the demand for a state aircraft as nothing but madness. Humaiun Kobir briefed foreign diplomats at the Ministry of Foreign Affairs and stated that a terrorist would only be brought back in handcuffs under strict surveillance.",
-        "hook_bn": "১৬ ডিসেম্বরের মধ্যে বাংলাদেশ দখল করা হবে",
+        "details_bn": "সৌদি নেতৃত্বাধীন জোট লোহিত সাগরের বন্দরগুলোতে হামলার হুমকির পর এই সংঘাতের তীব্রতা বৃদ্ধি পায়।",
+        "details_en": "The escalation comes after the Yemeni rebel group threatened to attack the kingdom's Red Sea ports in retaliation.",
+        "hook_bn": "ইয়েমেনে সৌদি জোটের হামলা, হুথিদের প্রতিশোধের হুমকি",
         "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 5.0,
       "outlet_count": 2,
-      "trending": true,
-      "social_appeal": 7.0,
+      "trending": false,
+      "social_appeal": 4.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-25T09:02:11.901385+00:00"
+        "checked_at": "2026-11-25T10:04:43.488620+00:00"
+      }
+    },
+    {
+      "story_id": "c66e7e8b-c90c-5c96-9856-f7cdea07da8c",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-30%2Fiqhvbyun%2FGold.jpg?rect=0%2C44%2C622%2C327&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-25T08:49:20+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.75,
+      "rank_score": 4.2441,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/business/world-business/ze4fcxq2ne",
+          "title": "বিশ্ববাজারে মঙ্গলবার বড় দরপতনের পর বুধবার স্থিতিশীল সোনার দাম",
+          "snippet": "বিশ্ববাজারে মঙ্গলবার বড় দরপতনের পর বুধবার স্থিতিশীল সোনার দাম"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/gold-price-cut-tk2858-bhori-after-two-successive-hikes-1613426",
+          "title": "Gold price cut by Tk2,858 per bhori after two successive hikes",
+          "snippet": "Gold price cut by Tk2,858 per bhori after two successive hikes"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বিশ্ববাজারে দরপতনের পর দেশে ভরিতে ২,৮৫৮ টাকা কমল সোনার দাম",
+        "title_en": "Bajus cuts gold price in Bangladesh as global market stabilizes after drop",
+        "summary_bn": "আন্তর্জাতিক বাজারে দর ওঠানামার প্রেক্ষাপটে বাংলাদেশ জুয়েলার্স সমিতি ২২ ক্যারেট সোনার দাম ভরিতে ২,৮৫৮ টাকা কমিয়েছে।",
+        "summary_en": "The Bangladesh Jewellers Association has reduced the price of 22-carat gold by 2,858 taka per bhori following price fluctuations in the international market.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-25T08:49:20+00:00",
+        "lead_bn": "আন্তর্জাতিক বাজারে দর ওঠানামার প্রেক্ষাপটে বাংলাদেশ জুয়েলার্স সমিতি ২২ ক্যারেট সোনার দাম ভরিতে ২,৮৫৮ টাকা কমিয়েছে।",
+        "lead_en": "The Bangladesh Jewellers Association has reduced the price of 22-carat gold by 2,858 taka per bhori following price fluctuations in the international market.",
+        "bullets_bn": [
+          "আন্তর্জাতিক স্পট মার্কেটে প্রতি আউন্স সোনার দাম ২ শতাংশের বেশি বা ৯৩ ডলার কমার পর ৩,৫৫৮.৮৫ ডলারে স্থিতিশীল রয়েছে।",
+          "এএনজেড ব্যাংকিং গ্রুপের বিশ্লেষক সোনি কুমারী জানান, শেয়ারবাজারের বিক্রির চাপে বিনিয়োগকারীরা মার্জিন ঋণ পরিশোধে নগদ অর্থের জন্য সোনা বিক্রি করেছেন।",
+          "বিনিয়োগকারীরা এখন যুক্তরাষ্ট্রের মূল্যস্ফীতি পরিমাপক ব্যক্তিগত ভোগব্যয় মূল্যসূচক সম্পর্কিত তথ্যের অপেক্ষায় রয়েছেন।"
+        ],
+        "bullets_en": [
+          "International spot market gold prices stabilized at 3,558.85 dollars per ounce after dropping more than 2 percent or 93 dollars.",
+          "ANZ analyst Soni Kumari stated that investors sold gold for cash to meet margin loan payments amid stock market selling pressure.",
+          "Investors are now awaiting the release of the United States personal consumption expenditures price index data."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "এই দরপতনের আগে বাংলাদেশে পর পর দুই দফায় সোনার দাম বাড়ানো হয়েছিল। আন্তর্জাতিক বাজারে এর আগে সোনার দাম ১৪ মাসের মধ্যে সর্বনিম্ন পর্যায়ে নেমে এসেছিল। সিএমই গ্রুপের ফেডওয়াচ টুলের পূর্বাভাস অনুযায়ী, ডিসেম্বর মাসে যুক্তরাষ্ট্রের ফেড নীতি সুদের হার ২৫ ভিত্তি পয়েন্ট বাড়াতে পারে বলে ৯৬.৪ শতাংশ সম্ভাবনা রয়েছে, যা সোনার মতো সুদবিহীন সম্পদে বিনিয়োগের আগ্রহ কমিয়ে দেয়।",
+        "details_en": "Prior to this price cut, gold prices in Bangladesh experienced two successive hikes. In the international market, gold prices previously dropped to a 14-month low. Market forecasts from the CME FedWatch Tool indicate a 96.4 percent probability that the US Federal Reserve will raise policy interest rates by 25 basis points in December, and a 3.6 percent chance of a 50 basis point hike, which typically reduces interest in non-yielding assets like gold.",
+        "hook_bn": "ভরিতে ২,৮৫৮ টাকা কমল সোনার দাম",
+        "kicker_bn": "দাম কমছে",
+        "share_value": true,
+        "question_bn": "সোনার দাম কমায় আপনি কি এখন সোনা কেনার কথা ভাবছেন?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": true,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-25T10:04:43.488620+00:00"
       }
     }
   ]
