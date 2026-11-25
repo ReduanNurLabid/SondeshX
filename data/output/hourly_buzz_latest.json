@@ -1,182 +1,328 @@
 {
-  "updated_at": "2026-11-25T14:00:47.773372",
-  "total_stories": 6,
+  "updated_at": "2026-11-25T15:00:58.989124",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "10c3e62d-6a73-59bf-8d5e-1a10db093e47",
+      "story_id": "8baaa680-030c-53a7-9138-ad8d3b8f591c",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law"
+        "governance_law",
+        "economy_business",
+        "society_education"
       ],
       "region": "national",
       "tags": [
         "#AwamiLeague",
-        "#JulyUprising"
+        "#HighCourt",
+        "#WritPetition",
+        "#JulyFighters"
       ],
-      "image_url": "https://images.unsplash.com/photo-1693585172757-b9e057feb878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFybGlhbWVudCUyMGxhdyUyMGNvdXJ0JTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1NjE1NDIwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2025/11/19/high_courtt.png",
       "image_caption": null,
-      "published_at": "2026-11-25T13:12:48+00:00",
+      "published_at": "2026-11-25T14:50:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 5.0086,
+      "importance_score": 6.6,
+      "rank_score": 4.3017,
       "sources": [
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/politics/425752/july-fighters-file-writ-seeking-permanent-ban-on",
-          "title": "July fighters file writ seeking permanent ban on Awami League",
-          "snippet": "July fighters file writ seeking permanent ban on Awami League"
-        },
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/writ-filed-seeking-ban-awami-league-designation-terrorist-organisation-4333111",
-          "title": "Writ filed seeking ban on Awami League, designation as terrorist organisation",
-          "snippet": "Writ filed seeking ban on Awami League, designation as terrorist organisation"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/court/july-fighters-seek-high-court-order-dissolve-ban-awami-league-and-affiliated-groups",
+          "title": "July fighters seek High Court order to dissolve, ban Awami League and affiliated groups",
+          "snippet": "July fighters seek High Court order to dissolve, ban Awami League and affiliated groups"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আওয়ামী লীগ নিষিদ্ধ ও দলটির নিবন্ধন বাতিলের দাবিতে হাইকোর্টে রিট",
-        "title_en": "Writ filed in High Court seeking ban on Awami League and party dissolution",
-        "summary_bn": "জুলাই অভ্যুত্থানের সাত অংশগ্রহণকারী আওয়ামী লীগকে নিষিদ্ধ ও সন্ত্রাসী সংগঠন হিসেবে ঘোষণা এবং দলটির নিবন্ধন বাতিলের নির্দেশনা চেয়ে রিট করেছেন।",
-        "summary_en": "Seven July uprising participants have filed a writ petition seeking a ban on the Awami League, its designation as a terrorist organization, and the cancellation of its registration.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-25T13:12:48+00:00",
-        "lead_bn": "জুলাই অভ্যুত্থানের সাত অংশগ্রহণকারী আওয়ামী লীগকে নিষিদ্ধ ও সন্ত্রাসী সংগঠন হিসেবে ঘোষণা এবং দলটির নিবন্ধন বাতিলের নির্দেশনা চেয়ে রিট করেছেন।",
-        "lead_en": "Seven July uprising participants have filed a writ petition seeking a ban on the Awami League, its designation as a terrorist organization, and the cancellation of its registration.",
-        "bullets_bn": [
-          "রিটে দলটির অঙ্গসংগঠনগুলোর বিলুপ্তি এবং দলটির সম্পদ জব্দ করার নির্দেশনা চাওয়া হয়েছে।",
-          "আবেদনকারীরা দলটির তহবিল সন্ধান ও তা বন্ধ করার জন্যও প্রয়োজনীয় ব্যবস্থা গ্রহণের দাবি জানিয়েছেন।",
-          "রিটটি দায়ের করেছেন জুলাই আন্দোলনের সাতজন অংশগ্রহণকারী।"
-        ],
-        "bullets_en": [
-          "The writ seeks the dissolution of the party and its affiliates along with the seizure of its assets.",
-          "The petitioners also sought measures to trace and stop the party funding.",
-          "The writ was filed by seven participants of the July uprising."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "আওয়ামী লীগ নিষিদ্ধের রিট হাইকোর্টে",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-25T14:05:44.537960+00:00"
-      }
-    },
-    {
-      "story_id": "8134b7f1-7f4c-5aba-a68a-f05781234825",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#ElectionCommission",
-        "#BangladeshVoters",
-        "#UnionParishadElection"
-      ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/183122/ec.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-25T14:01:01.535492+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5934,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/bangladeshs-voters-climb-to-1292m",
-          "title": "Bangladesh’s voters climb to 129.2m",
-          "snippet": "Bangladesh’s voters climb to 129.2m"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বাংলাদেশে মোট ভোটার বেড়ে ১২ কোটি ৯২ লাখে দাঁড়িয়েছে",
-        "title_en": "Bangladesh voter total climbs to 129.2m",
-        "summary_bn": "নির্বাচন কমিশন প্রকাশিত হালনাগাদ ভোটার তালিকা অনুযায়ী আগামী স্থানীয় সরকার নির্বাচনের আগে দেশের মোট ভোটার সংখ্যা ১২ কোটি ৯২ লক্ষ প্রায় দাঁড়িয়েছে।",
-        "summary_en": "The Election Commission published updated electoral rolls showing the country's total voters at nearly 129.2 million ahead of local body elections.",
+        "title_bn": "আওয়ামী লীগ বিলুপ্ত ও নিষিদ্ধের নির্দেশনা চেয়ে হাইকোর্টে রিট",
+        "title_en": "July fighters file High Court writ to dissolve and ban Awami League",
+        "summary_bn": "আওয়ামী লীগ ও এর সহযোগী সংগঠনগুলোকে রাজনৈতিক দল হিসেবে বিলুপ্ত এবং নিষিদ্ধ করার নির্দেশনা চেয়ে হাইকোর্টে রিট আবেদন করেছেন সাতজন জুলাই যোদ্ধা।",
+        "summary_en": "Seven July fighters have filed a writ petition with the High Court seeking the dissolution and ban of Awami League and its affiliated organisations.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law",
-          "economy_business"
+          "economy_business",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-25T14:01:01.535492+00:00",
-        "lead_bn": "নির্বাচন কমিশন প্রকাশিত হালনাগাদ ভোটার তালিকা অনুযায়ী আগামী স্থানীয় সরকার নির্বাচনের আগে দেশের মোট ভোটার সংখ্যা ১২ কোটি ৯২ লক্ষ প্রায় দাঁড়িয়েছে।",
-        "lead_en": "The Election Commission published updated electoral rolls showing the country's total voters at nearly 129.2 million ahead of local body elections.",
+        "published_at": "2026-11-25T14:50:00+00:00",
+        "lead_bn": "আওয়ামী লীগ ও এর সহযোগী সংগঠনগুলোকে রাজনৈতিক দল হিসেবে বিলুপ্ত এবং নিষিদ্ধ করার নির্দেশনা চেয়ে হাইকোর্টে রিট আবেদন করেছেন সাতজন জুলাই যোদ্ধা।",
+        "lead_en": "Seven July fighters have filed a writ petition with the High Court seeking the dissolution and ban of Awami League and its affiliated organisations.",
         "bullets_bn": [
-          "ভোটারদের মধ্যে ৬,৫৮,০৬,৫৮৭৪ জন পুরুষ, ৬,৩৪,২১,৮৭৮১ জন নারী এবং ১,২৯৭ জন হিজড়া রয়েছেন।",
-          "ইউনিয়ন পরিষদ নির্বাচন সামনে রেখে ভোটার তালিকায় নতুন ৪,৫২,১০৬ জন ভোটার অন্তর্ভুক্ত হয়েছেন।",
-          "নির্বাচন কমিশন আগামী ২৯ নভেম্বর থেকে ৫৫টি নিবন্ধিত রাজনৈতিক দলের সঙ্গে তিন দিনের সংলাপ শুরু করতে যাচ্ছে।"
+          "রিটে আইন বা অধ্যাদেশের মাধ্যমে আওয়ামী লীগ ও সহযোগী সংগঠনগুলোকে বিলুপ্ত, নিষিদ্ধ এবং সন্ত্রাসী সংগঠন হিসেবে ঘোষণা ও তালিকাভুক্তির আর্জি জানানো হয়েছে।",
+          "নড়াইলের কালিয়ার এমএস মোস্তাফিজুর রহমানসহ সাত জুলাই যোদ্ধার পক্ষে ২৫ নভেম্বর রিটটি দায়ের করেন ব্যারিস্টার এএসএম শাহরিয়ার কবির।",
+          "বিচারপতি সিকদার মাহমুদুর রাজী ও বিচারপতি ফাতেমা আনোয়ারের সমন্বয়ে গঠিত হাইকোর্ট বেঞ্চে ২৯ নভেম্বর রিটটির শুনানি হতে পারে।"
         ],
         "bullets_en": [
-          "The voters include 6,58,06,574 males, 6,34,21,8781 females and 1,297 transgender persons.",
-          "A total of 4,52,106 fresh voters were incorporated in the electoral rolls ahead of the Union Parishad election.",
-          "The Election Commission is going to hold a three-day dialogue with 55 registered political parties starting on November 29."
+          "The petition seeks to declare Awami League and its affiliated groups as terrorist organisations and ban them through legislation or an ordinance.",
+          "Barrister ASM Shahriar Kabir filed the petition on 25 November on behalf of seven July fighters, including MS Mostafizur Rahman of Narail.",
+          "A High Court bench comprising Justice Sikder Mahmudur Razi and Justice Fatema Anwar may hear the petition on 29 November."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "নির্বাচন কমিশন আগামী জানুয়ারি থেকে শুরু হতে যাওয়া পাঁচ ধাপের ইউনিয়ন পরিষদ নির্বাচনসহ আসন্ন স্থানীয় সরকার নির্বাচনকে সামনে রেখে এই হালনাগাদ ভোটার তালিকা প্রকাশ করেছে। নতুন এই চূড়ান্ত তালিকায় ২০০৮ সালের ৩১ অক্টোবর বা তার আগে জন্মগ্রহণকারীরা অন্তর্ভুক্ত হয়েছেন। প্রথম ধাপে আগামী ২১ জানুয়ারি ১,০৪২টি ইউনিয়ন পরিষদে ভোট গ্রহণের সিদ্ধান্ত নিয়েছে কমিশন। এরপর ধাপে ধাপে অন্যান্য স্থানীয় সরকার প্রতিষ্ঠানের নির্বাচন অনুষ্ঠিত হওয়ার পরিকল্পনা রয়েছে।",
-        "details_en": "The Election Commission published the updated rolls ahead of upcoming local body elections, particularly the five-phase Union Parishad polls starting in January 2027. The rolls include those born on or before October 31, 2008. The commission decided to hold voting in 1,042 Union Parishads in the first phase on January 21, 2027, with other local body elections planned afterward.",
-        "hook_bn": "দেশের মোট ভোটার ১২ কোটি ৯২ লাখ",
-        "kicker_bn": "নতুন তালিকা",
-        "share_value": true,
-        "question_bn": "আপনার এলাকায় কি ভোটার তালিকা হালনাগাদ করা হয়েছে?"
+        "details_bn": "রিটে এসব সংগঠনের নামে প্রচারিত মিডিয়া ও সামাজিক যোগাযোগমাধ্যমের বিষয়বস্তু অপসারণ বা ব্লক করার এবং পুনরায় প্রকাশ ঠেকাতে নির্দেশনা চাওয়া হয়েছে। এতে স্বরাষ্ট্র, পররাষ্ট্র, আইন, মন্ত্রিসভা, ডাক ও টেলিযোগাযোগ এবং তথ্য সচিবের পাশাপাশি বিটিআরসির চেয়ারম্যান, বাংলাদেশ ব্যাংকের গভর্নর ও বিএফআইইউ প্রধানকে বিবাদী করা হয়েছে। নাম উল্লিখিত সংগঠনগুলোর মধ্যে রয়েছে বাংলাদেশ ছাত্রলীগ, যুবলীগ, স্বেচ্ছাসেবক লীগ, কৃষক লীগ, জাতীয় শ্রমিক লীগ, মহিলা আওয়ামী লীগ, তাঁতী লীগ ও মৎস্যজীবী লীগ।",
+        "details_en": "The petition seeks directions to remove or block media and social media content published in the names of these organisations and prevent republication. It names secretaries of home, foreign affairs, law, cabinet, posts and telecommunications, and information ministries as respondents, along with the BTRC chairperson, Bangladesh Bank governor, and BFIU head. Organisations named include Chhatra League, Jubo League, Swechchhasebak League, Krishak League, Jatiya Sramik League, Mahila Awami League, Tanti League, and Matsyajibi League.",
+        "hook_bn": "আওয়ামী লীগ নিষিদ্ধের নির্দেশনা চেয়ে হাইকোর্টে রিট",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "আওয়ামী লীগ ও এর সহযোগী সংগঠন নিষিদ্ধের রিট আবেদন নিয়ে আপনার মতামত কী?"
       },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-25T14:05:44.537960+00:00"
+        "checked_at": "2026-11-25T15:06:42.017824+00:00"
       }
     },
     {
-      "story_id": "bd2272b6-9542-570e-9341-065f2e12a44f",
+      "story_id": "612373b6-c5c4-5841-b2ae-eb4897f6f98e",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#USTariffs",
+        "#Bangladesh"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1740393068414-d1fc73159b91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YW5ub3VuY2VzJTIwcHJvcG9zZWQlMjB0YXJpZmZzJTIwbWFqb3IlMjBidXNpbmVzc3xlbnwxfDB8fHwxNzk1NjE5MDkzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-25T13:45:28+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 3.6,
+      "rank_score": 1.2028,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/world/north-america/425757/us-unveils-proposed-tariffs-on-major-partners",
+          "title": "US unveils proposed tariffs on major partners, including EU and China",
+          "snippet": "US unveils proposed tariffs on major partners, including EU and China"
+        },
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/us-plans-new-tariffs-on-eu-china-and-12-others/a-80050872?maca=en-rss-en-all-1573-rdf",
+          "title": "US plans new tariffs on EU, China and 12 others",
+          "snippet": "US plans new tariffs on EU, China and 12 others"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/why-skin-one-family-members-blue/",
+          "title": "কেন নীল হয়ে গিয়েছিল একটি পরিবারের সব সদস্যদের ত্বক?",
+          "snippet": "কেন নীল হয়ে গিয়েছিল একটি পরিবারের সব সদস্যদের ত্বক?"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/822999/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%B8%E0%A6%B9-%E0%A7%A7%E0%A7%AA-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%B6%E0%A7%81%E0%A6%B2%E0%A7%8D%E0%A6%95-%E0%A6%98%E0%A7%8B%E0%A6%B7%E0%A6%A3%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%B2",
+          "title": "বাংলাদেশসহ ১৪ দেশের ওপর নতুন শুল্ক ঘোষণা করল যুক্তরাষ্ট্র",
+          "snippet": "বাংলাদেশসহ ১৪ দেশের ওপর নতুন শুল্ক ঘোষণা করল যুক্তরাষ্ট্র"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাংলাদেশ ও চীনসহ শীর্ষ বাণিজ্য অংশীদারদের ওপর মার্কিন যুক্তরাষ্ট্রের নতুন শুল্ক ঘোষণা",
+        "title_en": "US announces proposed tariffs on major trading partners including Bangladesh and China",
+        "summary_bn": "বাংলাদেশ, চীন এবং ইউরোপীয় ইউনিয়নসহ ১৪টি অর্থনৈতিক অঞ্চলের ওপর ২০ শতাংশ পর্যন্ত নতুন আমদানিকৃত শুল্ক আরোপের পরিকল্পনা ঘোষণা করেছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+        "summary_en": "US President Donald Trump has announced plans for new import tariffs of up to 20 percent on 14 economic regions, including Bangladesh, China, and the European Union.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-25T13:45:28+00:00",
+        "lead_bn": "বাংলাদেশ, চীন এবং ইউরোপীয় ইউনিয়নসহ ১৪টি অর্থনৈতিক অঞ্চলের ওপর ২০ শতাংশ পর্যন্ত নতুন আমদানিকৃত শুল্ক আরোপের পরিকল্পনা ঘোষণা করেছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+        "lead_en": "US President Donald Trump has announced plans for new import tariffs of up to 20 percent on 14 economic regions, including Bangladesh, China, and the European Union.",
+        "bullets_bn": [
+          "প্রস্তাবিত এই আমদানিকৃত শুল্কের তালিকায় রয়েছে বাংলাদেশ, চীন, ইউরোপীয় ইউনিয়ন, ভারত, জাপান এবং বেশ কয়েকটি এশীয় অর্থনীতি।",
+          "ওয়াশিংটন তার বাণিজ্য অংশীদারদের অতিরিক্ত উৎপাদনের মাধ্যমে বাজারের নীতিগুলো ব্যাহত করার অভিযোগে অভিযুক্ত করেছে।",
+          "এই পদক্ষেপগুলো ইতোমধ্যেই উচ্চ জীবনযাত্রার ব্যয়ে থাকা মার্কিন গ্রাহকদের ওপর অতিরিক্ত চাপ সৃষ্টি করতে পারে।"
+        ],
+        "bullets_en": [
+          "The proposed import duties target Bangladesh, China, the European Union, India, Japan, and several other Asian economies.",
+          "Washington accused its trading partners of excessive foreign manufacturing that undermines market principles.",
+          "The measures could put further pressure on US consumers who are already struggling with high living costs."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প তার অন্যতম প্রধান বাণিজ্য নীতি এগিয়ে নিতে নতুন শুল্কের ঘোষণা দিয়েছেন বলে ২৫ নভেম্বর বিবিসি জানিয়েছে। বিদেশে অতিরিক্ত উৎপাদন মোকাবিলার লক্ষ্যে এসব পদক্ষেপ নেওয়া হয়েছে।",
+        "details_en": "President Donald Trump announced the new set of tariffs to advance one of his main trade policies, according to a BBC report 25 November. The measures aim to counter excessive manufacturing abroad.",
+        "hook_bn": "বাংলাদেশসহ ১৪ দেশের ওপর নতুন মার্কিন শুল্ক ঘোষণা",
+        "kicker_bn": "নতুন শুল্ক",
+        "share_value": false,
+        "question_bn": "মার্কিন সরকারের এই নতুন শুল্ক নীতি বিশ্ব অর্থনীতিতে কী প্রভাব ফেলবে বলে আপনি মনে করেন?"
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-25T15:06:42.017824+00:00"
+      }
+    },
+    {
+      "story_id": "4c7cfa77-fb22-5a6f-b8ef-356823e75f67",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#RMGWage",
+        "#CleanClothesCampaign",
+        "#MinimumWageBoard",
+        "#GarmentWorkers"
+      ],
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/183139/rmg.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-25T15:01:12.003146+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.575,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/labour-groups-reject-proposed-tk-17000-rmg-wage",
+          "title": "Labour groups reject proposed Tk 17,000 RMG wage",
+          "snippet": "Labour groups reject proposed Tk 17,000 RMG wage"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "তৈরি পোশাক শ্রমিকদের জন্য প্রস্তাবিত ১৭,০০০ টাকা ন্যূনতম মজুরি প্রত্যাখ্যান বিভিন্ন সংগঠনের",
+        "title_en": "RMG worker groups and Clean Clothes Campaign reject proposed Tk 17,000 minimum wage",
+        "summary_bn": "জীবনযাত্রার বাড়তি খরচের মুখে তৈরি পোশাক শ্রমিকদের জন্য ঘোষিত ১৭,০০০ টাকার নতুন মাসিক ন্যূনতম মজুরি প্রত্যাখ্যান করেছে দেশি-বিদেশি বিভিন্ন শ্রমিক সংগঠন।",
+        "summary_en": "Global watchdog Clean Clothes Campaign and major Bangladeshi garment worker federations rejected the proposed Tk 17,000 monthly minimum wage for RMG workers, calling it inadequate.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-25T15:01:12.003146+00:00",
+        "lead_bn": "জীবনযাত্রার বাড়তি খরচের মুখে তৈরি পোশাক শ্রমিকদের জন্য ঘোষিত ১৭,০০০ টাকার নতুন মাসিক ন্যূনতম মজুরি প্রত্যাখ্যান করেছে দেশি-বিদেশি বিভিন্ন শ্রমিক সংগঠন।",
+        "lead_en": "Global watchdog Clean Clothes Campaign and major Bangladeshi garment worker federations rejected the proposed Tk 17,000 monthly minimum wage for RMG workers, calling it inadequate.",
+        "bullets_bn": [
+          "ন্যূনতম মজুরি বোর্ড ডিসেম্বরের প্রথম থেকে গ্রেড-৪ এর জন্য ১৭,০০০ টাকা এবং গ্রেড-১ এর জন্য ২১,৫০০ টাকা মজুরি নির্ধারণ করে।",
+          "ক্লিন ক্লোথস ক্যাম্পেইন এই মজুরিকে শোষণমূলক আখ্যা দিয়ে জানায়, শ্রমিকদের দাবি করা ৩২,০০০ টাকার চেয়ে তা বহু কম।",
+          "ইন্ডাস্ট্রিয়াল বাংলাদেশ কাউন্সিল বলেছে, প্রস্তাবিত মজুরি শ্রমিকদের আকাঙ্ক্ষার প্রতিফলন ঘটাতে ব্যর্থ হয়েছে।"
+        ],
+        "bullets_en": [
+          "The Minimum Wage Board set Grade-4 wage at Tk 17,000 and Grade-1 at Tk 21,500, effective from December.",
+          "Clean Clothes Campaign called the Tk 17,000 wage exploitative, saying it falls far short of the Tk 32,000 demanded by workers.",
+          "IndustriALL Bangladesh Council criticized the workers' representative on the board, stating the proposed wage fails to meet worker expectations."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ক্লিন ক্লোথস ক্যাম্পেইনের কর্মকর্তা অ্যান বিনিয়াস জানান, ২০১৮ সালেই ট্রেড ইউনিয়নগুলো ১৬,০০০ টাকা মজুরির আন্দোলন করেছিল এবং এরপর থেকে মূল্যস্ফীতি টানা ৫.৫ শতাংশের ওপরে রয়েছে। এ ছাড়া তিন সপ্তাহের আলোচনায় নীরব থাকা আন্তর্জাতিক ফ্যাশন ব্র্যান্ডগুলোর সমালোচনা করেছে সংস্থাটি। একই সঙ্গে আন্দোলনরত শ্রমিকদের বিরুদ্ধে সহিংসতা, ছাঁটাই ও কালো তালিকাভুক্তকরণ বন্ধ এবং আটক ট্রেড ইউনিয়ন নেতাদের মুক্তির দাবি জানিয়েছে ক্লিন ক্লোথস ক্যাম্পেইন।",
+        "details_en": "CCC Living Wage Coordinator Anne Bienias noted that trade unions campaigned for a Tk 16,000 minimum wage in 2018, while inflation consistently stayed above 5.5 per cent since. CCC also criticized international fashion brands for remaining silent during the three-week negotiations. Furthermore, the organization urged global retailers to prevent supplier violence, terminations, and blacklisting of protesting workers, while demanding the release of detained unionists.",
+        "hook_bn": "'১৭ হাজার টাকার নতুন মজুরি শোষণমূলক'",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "পোশাক শ্রমিকদের প্রস্তাবিত এই নতুন ন্যূনতম মজুরি নিয়ে আপনার মতামত কী?"
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-25T15:06:42.017824+00:00"
+      }
+    },
+    {
+      "story_id": "082bc7c4-abb3-57e4-861a-94e60667aacb",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#UkraineWar",
+        "#Russia",
+        "#Ukraine",
+        "#Savasleyka"
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/263d/live/670b2250-e8df-11f1-a3b9-79c60ec9ab33.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-25T14:46:41+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.12,
+      "rank_score": 0.4424,
+      "sources": [
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+          "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+          "snippet": "Five Russian military jets hit in airfield strike, says Ukraine"
+        },
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions?traffic_source=rss",
+          "title": "Russian strikes on Ukraine kill five, cause power outages in five regions",
+          "snippet": "Russian strikes on Ukraine kill five, cause power outages in five regions"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রাশিয়ার বিমানঘাঁটিতে ইউক্রেনের হামলায় পাঁচটি সামরিক বিমান ক্ষতিগ্রস্তের দাবি",
+        "title_en": "Kyiv damages five Russian military jets in airfield attack, Ukraine says",
+        "summary_bn": "মস্কোর ৩০০ কিলোমিটার পূর্বে রাশিয়ার সাভাসলেইকা বিমানঘাঁটিতে হামলা চালিয়ে পাঁচটি সামরিক বিমান ক্ষতিগ্রস্ত করার দাবি করেছে ইউক্রেন।",
+        "summary_en": "Ukraine says it damaged five Russian military aircraft in an attack on Russia's Savasleyka airfield, located 300 kilometres east of Moscow.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-25T14:46:41+00:00",
+        "lead_bn": "মস্কোর ৩০০ কিলোমিটার পূর্বে রাশিয়ার সাভাসলেইকা বিমানঘাঁটিতে হামলা চালিয়ে পাঁচটি সামরিক বিমান ক্ষতিগ্রস্ত করার দাবি করেছে ইউক্রেন।",
+        "lead_en": "Ukraine says it damaged five Russian military aircraft in an attack on Russia's Savasleyka airfield, located 300 kilometres east of Moscow.",
+        "bullets_bn": [
+          "কিইভের জেনারেল স্টাফ জানায়, হামলায় তিনটি মিগ-৩১ এবং দুটি সু-৩৪ বিমান ক্ষতিগ্রস্ত হয়েছে।",
+          "কিইভ রাশিয়ার সামারা অঞ্চলের দুটি তেল শোধনাগারেও হামলা চালায়, যেখানে ১ জন নিহত হয়েছেন।",
+          "ইউক্রেনীয় কর্মকর্তা জানান, রাশিয়ার হামলায় ইউক্রেনে ৫ জন নিহত এবং ৫টি অঞ্চলে বিদ্যুৎ ব্যাহত হয়েছে।"
+        ],
+        "bullets_en": [
+          "Kyiv's General Staff stated three MiG-31 and two Su-34 aircraft were hit, while the extent of damage is still being assessed.",
+          "Kyiv also reported striking two oil refineries in Russia's Samara region, where a governor said one person was killed.",
+          "Ukrainian officials said Russian strikes killed five people and damaged energy infrastructure, causing power outages across five regions."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "সাভাসলেইকা বিমানঘাঁটিতে রাশিয়ার এমন বিমান থাকে যা থেকে হাইপারসনিক কিঞ্জাল ক্ষেপণাস্ত্র ও গ্লাইড বোমা নিক্ষেপ করা হয়। মিগ-৩১ বিমান উড্ডয়ন করলেই ইউক্রেনজুড়ে সতর্কতা জারি হয়, কারণ এদের বহনে সক্ষম কিঞ্জাল ক্ষেপণাস্ত্র ভূপাতিত করা কঠিন। সম্মুখসারি থেকে ৮০০ কিলোমিটার দূরে সামারা অঞ্চলের দুটি তেল শোধনাগারে হামলায় মস্কোর তেল প্রক্রিয়াজাতকরণ ক্ষমতা কমেছে। সামারার গভর্নর ভিয়াচেস্লাভ ফেদোরিশচেভ জানান, সেখানে ১৪৫টির বেশি ড্রোন গুলি করে ফেলা হয় এবং ১ জন নিহত হন।",
+        "details_en": "Savasleyka airfield hosts aircraft used by Russia to launch hypersonic Kinzhal missiles and glide bombs. The take-off of MiG-31s frequently triggers nationwide alerts across Ukraine as Kinzhal missiles can hit large infrastructure targets and are hard to shoot down. Long-range strikes in the Samara region, 800 kilometres from the front line, dented Moscow's oil processing capacity. Samara Governor Vyacheslav Fedorishchev said over 145 drones were shot down, one person was killed, and several towns experienced power outages.",
+        "hook_bn": "রাশিয়ার বিমানঘাঁটিতে ইউক্রেনের হামলায় ৫ বিমান ক্ষতিগ্রস্ত",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-25T15:06:42.017824+00:00"
+      }
+    },
+    {
+      "story_id": "79c34cc2-a02d-59aa-9fc0-0495a2ce5eec",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
         "economy_business"
       ],
-      "region": "national",
+      "region": "international",
       "tags": [
-        "#IndiaBangladesh",
-        "#SheikhHasina",
-        "#MinorityViolence"
+        "#Germany",
+        "#Africa",
+        "#FrankWalterSteinmeier",
+        "#Ghana"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/09/04/randhir_jaiswal.jpg",
+      "image_url": "https://static.dw.com/image/55045121_6.jpg",
       "image_caption": null,
-      "published_at": "2026-11-25T13:35:00+00:00",
+      "published_at": "2026-11-25T14:38:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5045,
+      "importance_score": 1.7,
+      "rank_score": 0.2821,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/foreign-policy/india-voices-concern-over-violence-against-minorities-bangladesh-urges-thorough-probe",
-          "title": "India voices concern over violence against minorities in Bangladesh, urges thorough probe",
-          "snippet": "India voices concern over violence against minorities in Bangladesh, urges thorough probe"
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/german-firms-eye-africa-as-global-trade-shocks-hit-traditional-markets/a-80047671?maca=en-rss-en-all-1573-rdf",
+          "title": "German firms eye Africa as global trade shocks hit traditional markets",
+          "snippet": "German firms eye Africa as global trade shocks hit traditional markets"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাংলাদেশে সংখ্যালঘু সহিংসতার ঘটনায় ভারতের উদ্বেগ প্রকাশ",
-        "title_en": "India voices concern over minority violence in Bangladesh",
-        "summary_bn": "ভারতের পররাষ্ট্র মন্ত্রণালয় বাংলাদেশে সংখ্যালঘুদের ওপর সাম্প্রতিক সহিংস ঘটনার বিষয়ে গভীর উদ্বেগ প্রকাশ করেছে এবং তদন্তের আহ্বান জানিয়েছে।",
-        "summary_en": "India has expressed concern over recent incidents of violence against minorities in Bangladesh and urged thorough investigations.",
+        "title_bn": "আফ্রিকার বাজার খুঁজছে জার্মান কোম্পানিগুলো",
+        "title_en": "German firms look to Africa for new markets",
+        "summary_bn": "বৈশ্বিক বাণিজ্য সংকটের মধ্যে ঐতিহ্যবাহী বাজার ছেড়ে আফ্রিকার দিকে ঝুঁকছে জার্মান কোম্পানিগুলো।",
+        "summary_en": "German firms are increasingly viewing Africa as an attractive destination as global trade shocks hit traditional markets.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -184,265 +330,31 @@
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-25T13:35:00+00:00",
-        "lead_bn": "ভারতের পররাষ্ট্র মন্ত্রণালয় বাংলাদেশে সংখ্যালঘুদের ওপর সাম্প্রতিক সহিংস ঘটনার বিষয়ে গভীর উদ্বেগ প্রকাশ করেছে এবং তদন্তের আহ্বান জানিয়েছে।",
-        "lead_en": "India has expressed concern over recent incidents of violence against minorities in Bangladesh and urged thorough investigations.",
+        "published_at": "2026-11-25T14:38:00+00:00",
+        "lead_bn": "বৈশ্বিক বাণিজ্য সংকটের মধ্যে ঐতিহ্যবাহী বাজার ছেড়ে আফ্রিকার দিকে ঝুঁকছে জার্মান কোম্পানিগুলো।",
+        "lead_en": "German firms are increasingly viewing Africa as an attractive destination as global trade shocks hit traditional markets.",
         "bullets_bn": [
-          "নয়াদিল্লিতে এক মিডিয়া ব্রিফিংয়ে ভারতীয় পররাষ্ট্র মন্ত্রণালয়ের মুখপাত্র রণধৈর্ষ জয়সওয়াল দোষীদের বিচারের আওতায় আনার দাবি জানান।",
-          "সাবেক প্রধানমন্ত্রী শেখ হাসিনার প্রত্যার্পণের অনুরোধটি তাদের প্রতিষ্ঠিত প্রক্রিয়া অনুযায়ী পরীক্ষা করা হচ্ছে বলে জানানো হয়।",
-          "পানি ভাগাভাগি নিয়ে উভয় দেশের কর্মকর্তাদের মধ্যে ঢাকায় একটি প্রযুক্তিগত কমিটির বৈঠক অনুষ্ঠিত হয়েছে।"
+          "ঘানার আক্রায় অনুষ্ঠিত ষষ্ঠ জার্মান-আফ্রিকান বিজনেস সামিটে আফ্রিকাকে ভবিষ্যতের বাজার হিসেবে বর্ণনা করা হয়েছে।",
+          "জার্মান প্রেসিডেন্ট ফ্রাঙ্ক-ভাল্টার স্টেইনমায়ার বলেছেন ভূরাজনৈতিক সংকটের কারণে উত্তর আমেরিকা ও চীনের ওপর নির্ভরতা কমেছে।",
+          "দক্ষ কর্মী সংকট কাটাতে কেনিয়ার সাথে মাইগ্রেশন চুক্তি সই করেছে জার্মানি এবং ঘানার সাথেও কাজ চলছে।"
         ],
         "bullets_en": [
-          "Indian External Affairs Ministry spokesperson Randhir Jaiswal urged Dhaka to bring those responsible to justice during a media briefing in New Delhi.",
-          "Jaiswal stated that Bangladesh's request for the extradition of former prime minister Sheikh Hasina is being examined in line with established procedures.",
-          "A technical committee meeting between officials from both countries was recently held in Dhaka regarding Ganges water-sharing."
+          "Business leaders discussed Africa as a market of the future at the sixth edition of the German-African Business Summit in Accra, Ghana.",
+          "German President Frank-Walter Steinmeier stated that geopolitical ruptures have undermined certainty in traditional export markets like North America and China.",
+          "Germany has signed a migration pact with Kenya and is working on one with Ghana to attract skilled workers."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "বাংলাদেশে সংখ্যালঘু সহিংসতার ঘটনায় ভারতের উদ্বেগ",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-25T14:05:44.537960+00:00"
-      }
-    },
-    {
-      "story_id": "f3a4e1a8-b512-5780-84ca-54dbb5d364fc",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "economy_business",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#MAMuhit",
-        "#FamilyPlanning",
-        "#BangladeshHealth",
-        "#Samakal"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/25/ma_muhit.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-25T13:40:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.696,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/ma-muhit-blames-interim-govt-policies-disruption-family-planning-vaccination-programmes",
-          "title": "MA Muhit blames interim govt policies for disruption in family planning, vaccination programmes",
-          "snippet": "MA Muhit blames interim govt policies for disruption in family planning, vaccination programmes"
-        },
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/health/post-1225771/",
-          "title": "১৩ ডিসেম্বর শুরু হচ্ছে পরিবার পরিকল্পনা ক্যাম্পেইন",
-          "snippet": "১৩ ডিসেম্বর শুরু হচ্ছে পরিবার পরিকল্পনা ক্যাম্পেইন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পরিবার পরিকল্পনা ও টিকাদান কর্মসূচি ব্যাহত হওয়ার জন্য অন্তর্বর্তী সরকারকে দায়ী করলেন প্রতিমন্ত্রী।",
-        "title_en": "State Minister blames interim government for disruption in family planning and vaccination programmes.",
-        "summary_bn": "স্বাস্থ্য ও পরিবার কল্যাণ প্রতিমন্ত্রী এম এ মুহিত বলেছেন, বিগত অন্তর্বর্তী সরকারের ভুল নীতির কারণে পরিবার পরিকল্পনা ও টিকাদান কর্মসূচি ব্যাহত হয়েছে।",
-        "summary_en": "State Minister for Health and Family Welfare MA Muhit said family planning and vaccination programmes were disrupted due to flawed policies of the previous interim government.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-25T13:40:00+00:00",
-        "lead_bn": "স্বাস্থ্য ও পরিবার কল্যাণ প্রতিমন্ত্রী এম এ মুহিত বলেছেন, বিগত অন্তর্বর্তী সরকারের ভুল নীতির কারণে পরিবার পরিকল্পনা ও টিকাদান কর্মসূচি ব্যাহত হয়েছে।",
-        "lead_en": "State Minister for Health and Family Welfare MA Muhit said family planning and vaccination programmes were disrupted due to flawed policies of the previous interim government.",
-        "bullets_bn": [
-          "আগামী ১৩ ডিসেম্বর থেকে দেশব্যাপী একটি পরিবার পরিকল্পনা ক্যাম্পেইন শুরু হতে যাচ্ছে।",
-          "প্রতিমন্ত্রী এম এ মুহিত ডেইলি সমকালের কনফারেন্স রুমে এক গোলটেবিল বৈঠকে এই মন্তব্য করেন।",
-          "সরকার এক লাখ স্বাস্থ্যকর্মী নিয়োগ এবং প্রায় ৪০ হাজার মাঠকর্মীকে আধুনিক প্রযুক্তির আওতায় আনার পরিকল্পনা করছে।"
-        ],
-        "bullets_en": [
-          "A nationwide family planning campaign is set to begin on 13 December.",
-          "State Minister MA Muhit made the remarks at a roundtable discussion at the conference room of Daily Samakal.",
-          "The government plans to recruit 1,00,000 health workers and equip 40,000 field workers with tablets and AI systems."
-        ],
-        "impact_bn": "নদীভাঙন ও জলবায়ু পরিবর্তনজনিত ঝুঁকিতে থাকা উপকূলীয় এলাকার নারী ও প্রান্তিক জনগোষ্ঠী পরিবার পরিকল্পনা সেবা এবং টিকাদান কর্মসূচির দীর্ঘমেয়াদি বাধার মুখোমুখি হচ্ছে।",
-        "impact_en": "Women and remote communities in climate-vulnerable areas face multidimensional impacts and disruptions in accessing essential family planning and healthcare services.",
-        "details_bn": "স্বাস্থ্য ও পরিবার কল্যাণ প্রতিমন্ত্রী এম এ মুহিত জানান, অন্তর্বর্তী সরকার কোনো বিকল্প নির্দেশিকা ছাড়াই খাতভিত্তিক কর্মসূচি বন্ধ করে দিয়েছিল, যার ফলে মাঠপর্যায়ের কর্মীদের বেতন এবং সরবরাহ শৃঙ্খল ব্যাহত হয়। বর্তমান সরকার দায়িত্ব নেওয়ার পর জরুরি ভিত্তিতে টেন্ডার আহ্বান করে এবং পরিবার পরিকল্পনা সামগ্রী সাতটি বিভাগের ডিপোতে পৌঁছেছে। এছাড়া রাষ্ট্রপতি এই বছরব্যাপী তীব্র ক্যাম্পেইনের উদ্বোধন করবেন।",
-        "details_en": "State Minister MA Muhit stated that the interim government discontinued the sector programme without providing alternative guidelines, disrupting field workers salaries and supply chains. Following this, the current government immediately invited urgent tenders, and supplies have reached depots across seven divisions while the president will formally inaugurate the year-long campaign.",
-        "hook_bn": "ভুল নীতিতে ভেঙেছে পরিবার পরিকল্পনা কর্মসূচি",
-        "kicker_bn": "স্বাস্থ্য খাত",
-        "share_value": true,
-        "question_bn": "আপনার এলাকায় পরিবার পরিকল্পনা ও টিকাদান সেবার বর্তমান পরিস্থিতি কেমন?"
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-25T14:05:44.537960+00:00"
-      }
-    },
-    {
-      "story_id": "76df63cc-b594-576c-b9cf-59e4fd81455f",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation",
-        "governance_law"
-      ],
-      "region": "international",
-      "tags": [
-        "#Technology",
-        "#Innovation"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-25%2F19j50vjt%2FMercury.ESA.png?rect=0%2C17%2C789%2C414&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-25T13:06:28+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.3677,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/technology/science/ynqe7eydkf",
-          "title": "৮ বছরের যাত্রা শেষে রহস্যময় বুধ গ্রহের কক্ষপথে পৌঁছেছে মহাকাশযান",
-          "snippet": "৮ বছরের যাত্রা শেষে রহস্যময় বুধ গ্রহের কক্ষপথে পৌঁছেছে মহাকাশযান"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রহস্যময় বুধ গ্রহের কক্ষপথে পৌঁছেছে বেপিকলম্বো মহাকাশযান",
-        "title_en": "BepiColombo spacecraft reaches the orbit of Mercury",
-        "summary_bn": "প্রায় ৬০০ কোটি মাইল পথ পাড়ি দিয়ে ৮ বছরের দীর্ঘ যাত্রা শেষে বুধ গ্রহের কক্ষপথে পৌঁছেছে বেপিকলম্বো মহাকাশযান।",
-        "summary_en": "After an eight-year journey spanning nearly six billion miles, the BepiColombo spacecraft has reached Mercury's orbit.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-25T13:06:28+00:00",
-        "lead_bn": "প্রায় ৬০০ কোটি মাইল পথ পাড়ি দিয়ে ৮ বছরের দীর্ঘ যাত্রা শেষে বুধ গ্রহের কক্ষপথে পৌঁছেছে বেপিকলম্বো মহাকাশযান।",
-        "lead_en": "After an eight-year journey spanning nearly six billion miles, the BepiColombo spacecraft has reached Mercury's orbit.",
-        "bullets_bn": [
-          "ইউরোপীয় মহাকাশ সংস্থা ও জাপানের মহাকাশ সংস্থার পাঠানো মহাকাশযানটি বর্তমানে বুধ গ্রহের চারপাশে ঘুরছে।",
-          "লেস্টার ইউনিভার্সিটির অধ্যাপক এমা বান্স জানান যে বৈজ্ঞানিকভাবে বুধ গ্রহকে জানতে চাওয়ার পেছনে অনেক কারণ রয়েছে।",
-          "প্রপালশন সিস্টেমের সমস্যার কারণে সাত বছরের পরিবর্তে বুধ গ্রহে পৌঁছাতে ১ বছর বেশি সময় লেগেছে।"
-        ],
-        "bullets_en": [
-          "Sent by the European Space Agency and the Japan Aerospace Exploration Agency, the spacecraft is currently orbiting Mercury.",
-          "Professor Emma Bunce of the University of Leicester stated that there are many reasons for scientifically wanting to know Mercury.",
-          "Due to propulsion system issues, it took one more year than the targeted seven years to reach Mercury."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "২০১৮ সালে ফ্রেঞ্চ গায়ানা থেকে বুধ গ্রহের উদ্দেশে যাত্রা শুরু করে বেপিকলম্বো মহাকাশযানটি। সৌরজগতের গভীরে যাওয়ার সময় এটিকে সূর্যের বিশাল মহাকর্ষীয় টানের বিরুদ্ধে লড়াই করতে হয়েছে। চলার পথে এটি পৃথিবীকে একবার, শুক্র গ্রহকে দুবার এবং বুধ গ্রহকে ছয়বার প্রদক্ষিণ করেছে। এখন পর্যন্ত মাত্র তিনটি মহাকাশযান বুধ গ্রহের কাছাকাছি গেছে। ১৯৭০-এর দশকে মেরিনার-১০ এবং ২০১১ সালে মেসেঞ্জার মহাকাশযান বুধের কক্ষপথে পৌঁছেছিল।",
-        "details_en": "The BepiColombo spacecraft launched toward Mercury from French Guiana in 2018. While moving deeper into the solar system, it had to fight against the sun's massive gravitational pull. Along the way, it flew past Earth once, Venus twice, and Mercury six times. So far, only three spacecraft have gone close to Mercury. Mariner-10 flew past Mercury three times in the 1970s, and Messenger reached Mercury's orbit in 2011.",
-        "hook_bn": "বুধ গ্রহের কক্ষপথে বেপিকলম্বো মহাকাশযান",
+        "details_bn": "ইউক্রেন ও ইরানের যুদ্ধ, উচ্চ জ্বালানি মূল্য, মার্কিন শুল্ক এবং চীনে শ্লথ প্রবৃদ্ধির কারণে জার্মান কোম্পানিগুলো নতুন বাজার খুঁজছে। ইথিওপিয়া ও রুয়ান্ডার মতো দ্রুত বর্ধনশীল অর্থনীতি এবং ক্রমবর্ধমান ভোক্তা শ্রেণির কারণে জার্মান firms এই অঞ্চলে আগ্রহী হচ্ছে।",
+        "details_en": "German firms are scrambling to find new markets amid wars in Ukraine and Iran, high energy prices, punishing US tariffs and slowing growth in traditional markets like China. Africa is home to fast growing economies and a growing consumer class.",
+        "hook_bn": "আফ্রিকা ভবিষ্যতের বাজার",
         "kicker_bn": null,
         "share_value": false,
-        "question_bn": "বুধ গ্রহ সম্পর্কে আপনার কী জানা আছে?"
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-25T14:05:44.537960+00:00"
-      }
-    },
-    {
-      "story_id": "665c56a3-34da-5670-baf2-29bf990f5b15",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "climate_environment"
-      ],
-      "region": "international",
-      "tags": [
-        "#Ukraine",
-        "#Russia",
-        "#FriedrichMerz"
-      ],
-      "image_url": "https://static.dw.com/image/80048230_6.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-25T12:39:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.3059,
-      "sources": [
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/ukraine-industrial-attacks-and-anger-at-russia-as-ukraine-s-allies-justify-defense-aid-argue-over-military-action-in-libya/live-80047122?maca=en-rss-en-all-1573-rdf",
-          "title": "Ukraine: Industrial attacks and anger at Russia as Ukraine's allies justify defense aid, argue over military action in Libya",
-          "snippet": "Ukraine: Industrial attacks and anger at Russia as Ukraine's allies justify defense aid, argue over military a"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/world/russian-attack-damages-ukraines-energy-and-gas-sites-cuts-power-five-regions-1613896",
-          "title": "Russian attack damages Ukraine's energy and gas sites, cuts power in five regions",
-          "snippet": "Russian attack damages Ukraine's energy and gas sites, cuts power in five regions"
-        },
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions?traffic_source=rss",
-          "title": "Russian strikes on Ukraine cause power outages in five regions",
-          "snippet": "Russian strikes on Ukraine cause power outages in five regions"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইউক্রেনের জ্বালানি সাইটে রুশ হামলায় পাঁচ অঞ্চলে বিদ্যুৎহীন",
-        "title_en": "Russian strikes on Ukraine cause power outages in five regions",
-        "summary_bn": "ইউক্রেনে রাশিয়ার হামলায় জ্বালানি ও গ্যাস সাইট ক্ষতিগ্রস্ত হয়েছে এবং পাঁচ অঞ্চলে বিদ্যুৎ সরবরাহ বন্ধ রয়েছে।",
-        "summary_en": "Russian attacks on Ukraine damaged energy and gas sites, cutting power across five regions.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "climate_environment"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-25T12:39:00+00:00",
-        "lead_bn": "ইউক্রেনে রাশিয়ার হামলায় জ্বালানি ও গ্যাস সাইট ক্ষতিগ্রস্ত হয়েছে এবং পাঁচ অঞ্চলে বিদ্যুৎ সরবরাহ বন্ধ রয়েছে।",
-        "lead_en": "Russian attacks on Ukraine damaged energy and gas sites, cutting power across five regions.",
-        "bullets_bn": [
-          "ডেপুটি এনার্জি মিনিস্টার Artem Nekrasov জানান, হামলার কারণে রাশিয়ার দখলে থাকা Zaporizhzhia পারমাণবিক প্লান্টের বহিরাগত বিদ্যুৎ সংযোগ বিচ্ছিন্ন হয়।",
-          "জার্মান চ্যান্সেলর Friedrich Merz Bundestag-এ বাজেট বিতর্কের সময় ইউক্রেন সহায়তার পক্ষে যুক্তি দেন।",
-          "জার্মানি এই গ্রীষ্মে Leipzig বিমানবন্দরে ড্রোন হামলা এবং সাইবার হামলার জন্য রাশিয়াকে দায়ী করেছে।"
-        ],
-        "bullets_en": [
-          "Deputy Energy Minister Artem Nekrasov stated the attacks cut external power to the Russian-occupied Zaporizhzhia nuclear plant.",
-          "German Chancellor Friedrich Merz defended Ukraine aid expenditures during a budget debate in the Bundestag.",
-          "Germany blames Russia for an explosive drone incident at Leipzig airport this summer as well as cyberattacks."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "জার্মান চ্যান্সেলর Friedrich Merz বলেন, রাশিয়া ইউক্রেনের চেয়েও বেশি কিছু চায় এবং বাল্টিক অঞ্চল, পোল্যান্ড ও কৃষ্ণসাগরে উত্তেজনা বাড়াচ্ছে। বামপন্থী দল এবং Alternative for Germany ইউক্রেন সহায়তা বন্ধের আহ্বান জানিয়েছে।",
-        "details_en": "German Chancellor Friedrich Merz said Russia wants more than Ukraine and is escalating in the Baltic region, Poland, and the Black Sea. The Left Party and Alternative for Germany have called for an end to Ukraine aid.",
-        "hook_bn": "ইউক্রেনে রুশ হামলায় পাঁচ অঞ্চলে বিদ্যুৎহীন",
-        "kicker_bn": "হামলা",
-        "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 5.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 4.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-25T14:05:44.537960+00:00"
+        "checked_at": "2026-11-25T15:06:42.017824+00:00"
       }
     }
   ]
