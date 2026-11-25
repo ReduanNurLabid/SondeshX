@@ -1,176 +1,310 @@
 {
-  "updated_at": "2026-11-25T08:00:42.521648",
-  "total_stories": 2,
+  "updated_at": "2026-11-25T09:00:44.773519",
+  "total_stories": 4,
   "stories": [
     {
-      "story_id": "62e1ae4a-4fb1-5f9b-a1e6-a65281319d33",
-      "primary_category": "sports_fitness",
+      "story_id": "a5ee46a4-1a63-5a2f-b282-764960d28232",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "sports_fitness",
-        "world_diplomacy"
+        "governance_law",
+        "economy_business"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#VaibhavSooryavanshi",
-        "#AsiaCupRisingStars",
-        "#Doha",
-        "#IndiaA"
+        "#SheikhHasina",
+        "#MohammadpurMurderCase",
+        "#JulyUprising"
       ],
-      "image_url": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8c29vcnlhdmFuc2hpJTIwc2NvcmVzJTIwb2ZmJTIwYmFsbHMlMjBzcG9ydHN8ZW58MXwwfHx8MTc5NTU5MzY5Nnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/05/14/pm_hasina.jpg",
       "image_caption": null,
-      "published_at": "2026-11-25T05:44:56+00:00",
+      "published_at": "2026-11-25T08:05:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 4.9327,
+      "importance_score": 7.0,
+      "rank_score": 4.6414,
       "sources": [
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/sport/cricket/425705/sooryavanshi-smashes-204-off-53-balls-to-rewrite",
-          "title": "Sooryavanshi smashes 204 off 53 balls to rewrite record books",
-          "snippet": "Sooryavanshi smashes 204 off 53 balls to rewrite record books"
-        },
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/sports/cricket/4oyvp4yff4",
-          "title": "কার সঙ্গে কথা বলে ৫৩ বলে ২০৪ করলেন সূর্যবংশী, রহস্য কী",
-          "snippet": "কার সঙ্গে কথা বলে ৫৩ বলে ২০৪ করলেন সূর্যবংশী, রহস্য কী"
-        },
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/sports/post-1225660/",
-          "title": "যুবরাজের সঙ্গে আধাঘণ্টা; এরপর বৈভবের ৫৩ বলে ২০৪!",
-          "snippet": "যুবরাজের সঙ্গে আধাঘণ্টা; এরপর বৈভবের ৫৩ বলে ২০৪!"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/july-murder-case-trial-hasina-33-others-begins-absence-6-accused-lead-new-testimony",
+          "title": "July murder case: Trial of Hasina, 33 others begins, absence of 6 accused leads to new testimony recording date",
+          "snippet": "July murder case: Trial of Hasina, 33 others begins, absence of 6 accused leads to new testimony recording dat"
         }
       ],
       "daily_buzz": {
-        "title_bn": "এশিয়া কাপ রাইজিং স্টারসে ৫৩ বলে ২০৪ রান করলেন সূর্যবংশী",
-        "title_en": "Sooryavanshi scores 204 off 53 balls at Asia Cup Rising Stars",
-        "summary_bn": "ভারতের তরুণ ওপেনার বৈভব সূর্যবংশী এশিয়া কাপ রাইজিং স্টার টুর্নামেন্টে ৫৩ বলে ২০৪ রান করেছেন।",
-        "summary_en": "India's teenage opener Vaibhav Sooryavanshi scored 204 off 53 balls at the Asia Cup Rising Stars tournament.",
+        "title_bn": "শেখ হাসিনাসহ ৩৪ জনের বিরুদ্ধে হত্যা মামলায় বিচার শুরু হয়েছে",
+        "title_en": "Trial of Sheikh Hasina and 33 others in murder case begins",
+        "summary_bn": "২০২৪ সালের জুলাই অভ্যুত্থানের সময় মোহাম্মদপুরে ট্রাকচালক মো. হোসেন হত্যার ঘটনায় সাবেক প্রধানমন্ত্রী শেখ হাসিনাসহ ৩৪ জনের বিরুদ্ধে বিচার শুরু হয়েছে।",
+        "summary_en": "The trial of ousted prime minister Sheikh Hasina and 33 others in a murder case over killing a truck driver began.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness",
-          "world_diplomacy"
+          "governance_law",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-25T05:44:56+00:00",
-        "lead_bn": "ভারতের তরুণ ওপেনার বৈভব সূর্যবংশী এশিয়া কাপ রাইজিং স্টার টুর্নামেন্টে ৫৩ বলে ২০৪ রান করেছেন।",
-        "lead_en": "India's teenage opener Vaibhav Sooryavanshi scored 204 off 53 balls at the Asia Cup Rising Stars tournament.",
+        "published_at": "2026-11-25T08:05:00+00:00",
+        "lead_bn": "২০২৪ সালের জুলাই অভ্যুত্থানের সময় মোহাম্মদপুরে ট্রাকচালক মো. হোসেন হত্যার ঘটনায় সাবেক প্রধানমন্ত্রী শেখ হাসিনাসহ ৩৪ জনের বিরুদ্ধে বিচার শুরু হয়েছে।",
+        "lead_en": "The trial of ousted prime minister Sheikh Hasina and 33 others in a murder case over killing a truck driver began.",
         "bullets_bn": [
-          "দোহায় অনুষ্ঠিত ম্যাচে ভারত এ দলের পক্ষে এই ইনিংস খেলেন বৈভব সূর্যবংশী।",
-          "তার এই ইনিংসে মোট ২৮টি ছক্কা রয়েছে।",
-          "এই ইনিংস খেলার আগে তিনি একজনের পরামর্শ নেন এবং যুবরাজের সঙ্গে আধা ঘণ্টা কথা বলেন।"
+          "নিহত ব্যক্তির মা ও বাদী রিনা বেগমসহ চার সাক্ষী সাক্ষ্য দিতে আদালতে হাজির হলেও জবানবন্দি রেকর্ড করা হয়নি।",
+          "নিরাপত্তা আশঙ্কার কারণে কাশিমপুর কারা কর্তৃপক্ষ ছয়জন আসামিকে আদালতে হাজির করতে পারেনি।",
+          "ঢাকা স্পেশাল জজ কোর্ট-৪ এর বিচারক রবিউল আলম সাক্ষ্য গ্রহণের নতুন তারিখ নির্ধারণ করেছেন ৭ ডিসেম্বর।"
         ],
         "bullets_en": [
-          "Vaibhav Sooryavanshi played this innings for India A in the match held in Doha.",
-          "His innings included a total of 28 sixes.",
-          "Before playing this innings, he took advice and spoke with Yuvraj for half an hour."
+          "Four witnesses including the victim's mother and plaintiff Rina Begum appeared, but no testimonies were recorded.",
+          "Kashimpur Jail authorities failed to produce six accused before the court due to security concerns.",
+          "Judge Robiul Alam of Dhaka Special Judge Court-4 fixed 7 December as the new date for recording testimonies."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "চলতি রাইজিং স্টারস এশিয়া কাপের প্রথম দুই ম্যাচে ব্যাট হাতে ব্যর্থ হয়ে চাপে ছিলেন বৈভব সূর্যবংশী। আইপিএলে যেভাবে ব্যাটিং করে আলোচনায় এসেছিলেন, ভারতের জার্সি গায়ে তাকে সেইভাবে দেখা যাচ্ছিল না। তৃতীয় ম্যাচের আগে তিনি ফোন করেন এবং যুবরাজের সঙ্গে আধা ঘণ্টা কথা বলেন। এরপর তৃতীয় ম্যাচে মাঠে নেমে তিনি এই বিশ্বরেকর্ড গড়েন এবং একের পর এক রেকর্ড ভাঙেন।",
-        "details_en": "Vaibhav Sooryavanshi was under pressure after failing with the bat in the first two matches of the ongoing Rising Stars Asia Cup. He was not seen playing the way he did in the IPL to gain attention while wearing the India jersey. Before the third match, he made a phone call and spoke with Yuvraj for half an hour, after which he set this world record and broke several records in the third match.",
-        "hook_bn": "৫৩ বলে বৈভবের ঐতিহাসিক ২০৪ রান",
-        "kicker_bn": "বিশ্বরেকর্ড",
+        "details_bn": "২০২৪ সালের ১৯ জুলাই জুলাই অভ্যুত্থানের সময় মোহাম্মদপুরের চাঁদ উদ্যান এলাকায় গুলি করে হত্যা করা হয় ট্রাকচালক মো. হোসেনকে। এই ঘটনায় ২৬ অক্টোবর আসামিদের বিরুদ্ধে অভিযোগ গঠন করে বিচার শুরুর আদেশ দেয় আদালত এবং ২৫ নভেম্বর সাক্ষ্য গ্রহণের তারিখ ঠিক করা হয়েছিল। সাবেক স্বরাষ্ট্র প্রতিমন্ত্রী জুনাইদ আহমেদ পলকসহ ১০ জন আসামি বর্তমানে কারাবন্দী রয়েছেন।",
+        "details_en": "Truck driver Md Hossain was shot dead in the Chand Udyan area of Mohammadpur on 19 July 2024 during the July uprising. The court framed charges on 26 October and set 25 November for recording testimony. A total of 10 accused, including former state minister Zunaid Ahmed Palak, are currently in custody.",
+        "hook_bn": "মোহাম্মদপুরে ট্রাকচালক হোসেন হত্যা মামলা",
+        "kicker_bn": "নতুন তারিখ",
         "share_value": false,
-        "question_bn": "ভারতের এই তরুণ ওপেনারের রেকর্ড গড়া ইনিংসটি নিয়ে আপনার মতামত কী?"
+        "question_bn": null
       },
       "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-25T09:02:11.901385+00:00"
+      }
+    },
+    {
+      "story_id": "6214fd36-95dc-5a35-a339-2df5f4a0b5e9",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-25%2F25l4af44%2FTIB.jfif?rect=0%2C180%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-25T07:45:01+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.5,
+      "rank_score": 3.9258,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/aq74j6nykt",
+          "title": "টিআইবির গবেষণা: ঢাকায় প্লট বুঝে পেতে কাঠাপ্রতি সাড়ে ১৪ লাখ টাকা পর্যন্ত বাড়তি ব্যয়",
+          "snippet": "টিআইবির গবেষণা: ঢাকায় প্লট বুঝে পেতে কাঠাপ্রতি সাড়ে ১৪ লাখ টাকা পর্যন্ত বাড়তি ব্যয়"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/mafia-syndicate-emerges-real-estate-sector-through-political-influence-administrative",
+          "title": "Mafia-like syndicate emerges in real estate sector through political influence, administrative collusion: TIB",
+          "snippet": "Mafia-like syndicate emerges in real estate sector through political influence, administrative collusion: TIB"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/speed-money-at-every-step-of-private-housing-projects-tib",
+          "title": "Speed money at every step of private housing projects: TIB",
+          "snippet": "Speed money at every step of private housing projects: TIB"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ঢাকায় প্লট বুঝে পেতে কাঠাপ্রতি সাড়ে ১৪ লাখ টাকা পর্যন্ত বাড়তি ব্যয়",
+        "title_en": "Plot buyers in Dhaka face extra costs up to Tk 14.5 lakh per katha",
+        "summary_bn": "ঢাকার বেসরকারি আবাসন প্রকল্পে প্লট কিনে মালিকানা বুঝে পেতে ক্রেতাদের প্রতি কাঠায় সর্বোচ্চ ১৪ লাখ ৫০ হাজার টাকা পর্যন্ত অতিরিক্ত ব্যয় করতে হয়।",
+        "summary_en": "Private housing plot buyers in Dhaka have to spend up to an additional Tk 14.50 lakh per katha to get ownership.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-25T07:45:01+00:00",
+        "lead_bn": "ঢাকার বেসরকারি আবাসন প্রকল্পে প্লট কিনে মালিকানা বুঝে পেতে ক্রেতাদের প্রতি কাঠায় সর্বোচ্চ ১৪ লাখ ৫০ হাজার টাকা পর্যন্ত অতিরিক্ত ব্যয় করতে হয়।",
+        "lead_en": "Private housing plot buyers in Dhaka have to spend up to an additional Tk 14.50 lakh per katha to get ownership.",
+        "bullets_bn": [
+          "উন্নয়ন ফি, সার্ভিস চার্জ, ইউটিলিটি সংযোগ ও অবকাঠামো নির্মাণসহ বিভিন্ন খাতে এই অতিরিক্ত অর্থ নেওয়া হয়।",
+          "টিআইবির নির্বাহী পরিচালক ইফতেখারুজ্জামান জানান যে বেসরকারি আবাসন খাতে সুশাসনে ব্যাপক ঘাটতি রয়েছে।",
+          "রাজনৈতিক যোগসাজশ ও প্রশাসনের একাংশের কারণে এ খাতে একধরনের মাফিয়াতন্ত্র গড়ে উঠেছে বলে টিআইবি জানিয়েছে।"
+        ],
+        "bullets_en": [
+          "This extra money is taken in various sectors including development fees, service charges, utility connections, and infrastructure construction.",
+          "TIB Executive Director Iftekharuzzaman said there is a massive deficit of good governance in the private housing sector.",
+          "TIB stated that a kind of mafia-like syndicate has emerged in this sector due to political collusion and parts of the administration."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ট্রান্সপারেন্সি ইন্টারন্যাশনাল বাংলাদেশের গবেষণায় ঢাকা শহরে বেসরকারি আবাসন খাতে ভূমি উন্নয়নে সুশাসনের চ্যালেঞ্জ তুলে ধরা হয়। এতে রিয়েল এস্টেট কোম্পানি, প্লট ক্রেতা ও জমির মালিকের সাক্ষাৎকার নেওয়া হয়েছে। গবেষণায় দেখা যায়, উন্নয়ন ফি বা সার্ভিস চার্জ বাবদ প্রতি কাঠায় ২৫ হাজার থেকে ৫ লাখ টাকা এবং ইউটিলিটি ডিপোজিট বাবদ প্রতি প্লটে ১ লাখ থেকে ২ লাখ ৫০ হাজার টাকা নেওয়া হয়।",
+        "details_en": "Transparency International Bangladesh revealed the findings in a research on governance challenges in land development within Dhaka's private housing sector. The research involved interviews with real estate companies, plot buyers, and landowners. It showed that development fees or service charges range from Tk 25,000 to Tk 5 lakh per katha, and utility deposits range from Tk 1 lakh to Tk 2.50 lakh per plot.",
+        "hook_bn": "প্লট বুঝে পেতে কাঠাপ্রতি সাড়ে ১৪ লাখ টাকা বাড়তি ব্যয়",
+        "kicker_bn": "গবেষণা প্রতিবেদন",
+        "share_value": true,
+        "question_bn": "বেসরকারি আবাসন খাতে প্লট কিনতে গিয়ে আপনারা কী ধরনের অতিরিক্ত ব্যয়ের মুখোমুখি হয়েছেন?"
+      },
+      "desk_importance": 6.0,
       "outlet_count": 3,
       "trending": false,
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-25T08:02:00.451505+00:00"
+        "checked_at": "2026-11-25T09:02:11.901385+00:00"
       }
     },
     {
-      "story_id": "1dbe1b1e-c2f2-52f2-89a5-abf88a2a0836",
-      "primary_category": "world_diplomacy",
+      "story_id": "4ac1768f-6892-57fa-b8a3-70dc0b59b74a",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy",
-        "tech_innovation"
+        "governance_law",
+        "economy_business"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#Pakistan",
-        "#China",
-        "#SpaceStation"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1693141520831-f0466dd82cdc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Zmlyc3QlMjBwYWtpc3RhbmklMjBhc3Ryb25hdXQlMjBtdWhhbW1hZCUyMGRpcGxvbWFjeXxlbnwxfDB8fHwxNzk1NTkzNzAzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/Untitled-1-230.png",
       "image_caption": null,
-      "published_at": "2026-11-25T07:42:17+00:00",
+      "published_at": "2026-11-25T07:47:51+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5345,
+      "importance_score": 5.25,
+      "rank_score": 2.568,
       "sources": [
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/world/asia/425713/pakistan-s-first-astronaut-heads-to-china-s-space",
-          "title": "Pakistan's first astronaut heads to China's space station",
-          "snippet": "Pakistan's first astronaut heads to China's space station"
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/law-justice/post-1225669/",
+          "title": "কিশোরগঞ্জে হোটেল কর্মচারী জয়নাল হত্যা মামলায় ৩ জনের যাবজ্জীবন",
+          "snippet": "কিশোরগঞ্জে হোটেল কর্মচারী জয়নাল হত্যা মামলায় ৩ জনের যাবজ্জীবন"
         },
         {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/sci-tech/science/chinas-shenzhou-24-space-flight-takes-off-with-pakistani-national-as-first-foreign-astronaut/article71740891.ece",
-          "title": "China launches crewed spaceship carrying first Pakistani astronaut to its space station",
-          "snippet": "China launches crewed spaceship carrying first Pakistani astronaut to its space station"
-        },
-        {
-          "name": "BBC News বাংলা",
-          "url": "https://www.bbc.com/bengali/articles/ck4gn88qd45vo?at_medium=RSS&at_campaign=rss",
-          "title": "চীনের রকেটে চড়ে প্রথমবার মহাকাশে পাকিস্তানের নভোচারী",
-          "snippet": "চীনের রকেটে চড়ে প্রথমবার মহাকাশে পাকিস্তানের নভোচারী"
-        },
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/25/pakistan-rejoices-as-countrys-first-astronaut-enters-orbit?traffic_source=rss",
-          "title": "Pakistan rejoices as country’s first astronaut enters orbit",
-          "snippet": "Pakistan rejoices as country’s first astronaut enters orbit"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1183548",
+          "title": "হোটেল কর্মচারী জয়নাল হত্যা মামলায় তিনজনের যাবজ্জীবন",
+          "snippet": "হোটেল কর্মচারী জয়নাল হত্যা মামলায় তিনজনের যাবজ্জীবন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চীনের মহাকাশ স্টেশনে প্রথম পাকিস্তানি নভোচারী মুহাম্মদ জিশান আলী",
-        "title_en": "First Pakistani astronaut Muhammad Zishan Ali enters China space station",
-        "summary_bn": "মুহাম্মদ জিশান আলী প্রথম পাকিস্তানি নভোচারী হিসেবে চীনের মহাকাশ স্টেশনে প্রবেশ করে ইতিহাস গড়েছেন।",
-        "summary_en": "Muhammad Zishan Ali made history by entering China space station as the first Pakistani astronaut.",
+        "title_bn": "কিশোরগঞ্জে হোটেল কর্মচারী হত্যা মামলায় তিনজনের যাবজ্জীবন কারাদণ্ড",
+        "title_en": "Three given life imprisonment in Kishoreganj hotel employee murder case",
+        "summary_bn": "কিশোরগঞ্জে ১৮ বছর আগে হোটেল কর্মচারী জয়নাল আবেদীন হত্যা মামলায় তিন আসামিকে যাবজ্জীবন কারাদণ্ড দেওয়া হয়েছে।",
+        "summary_en": "Three defendants have been sentenced to life imprisonment in an 18-year-old hotel employee murder case in Kishoreganj.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "tech_innovation"
+          "governance_law",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-25T07:42:17+00:00",
-        "lead_bn": "মুহাম্মদ জিশান আলী প্রথম পাকিস্তানি নভোচারী হিসেবে চীনের মহাকাশ স্টেশনে প্রবেশ করে ইতিহাস গড়েছেন।",
-        "lead_en": "Muhammad Zishan Ali made history by entering China space station as the first Pakistani astronaut.",
+        "published_at": "2026-11-25T07:47:51+00:00",
+        "lead_bn": "কিশোরগঞ্জে ১৮ বছর আগে হোটেল কর্মচারী জয়নাল আবেদীন হত্যা মামলায় তিন আসামিকে যাবজ্জীবন কারাদণ্ড দেওয়া হয়েছে।",
+        "lead_en": "Three defendants have been sentenced to life imprisonment in an 18-year-old hotel employee murder case in Kishoreganj.",
         "bullets_bn": [
-          "মহাকাশযানটি উত্তর-পশ্চিম চীনের জিচুয়ান স্যাটেলাইট লঞ্চ সেন্টার থেকে লং মার্চ-টুএফ রকেট ব্যবহার করে উড্ডয়ন করে।",
-          "এই অভিযান চীন ও পাকিস্তানের মধ্যে মহাকাশ সহযোগিতায় একটি মাইলফলক হিসেবে চিহ্নিত হয়েছে।",
-          "মুহাম্মদ জিশান আলী চীনের মহাকাশ স্টেশনে বোর্ডে ওঠা প্রথম বিদেশি নাগরিক হয়েছেন।"
+          "আসামিদের প্রত্যেককে ১ লাখ টাকা করে জরিমানা এবং অনাদায়ে আরও এক বছরের সশ্রম কারাদণ্ড দেওয়া হয়েছে।",
+          "কিশোরগঞ্জ জেলা ও দায়রা জজ আদালতের অতিরিক্ত জেলা ও দায়রা জজ-১-এর বিচারক মোহাম্মদ জহির উদ্দিন এ রায় ঘোষণা করেন।",
+          "সিআইডির তদন্তে আগের গ্রেফতার ব্যক্তিদের সম্পৃক্ততা না পাওয়ায় শাহজাহান সাজু, শফিকুল ইসলাম রতন ও আবু তাহেরের বিরুদ্ধে অভিযোগপত্র দাখিল করা হয়।"
         ],
         "bullets_en": [
-          "The spacecraft took off using a Long March-2F rocket from the Jiuquan Satellite Launch Centre in northwest China.",
-          "The mission marks a milestone in space cooperation between Pakistan and China.",
-          "Zishan Ali makes history as the first foreign national to board China space station."
+          "Each defendant was also fined 1 lakh taka, with an additional one year of rigorous imprisonment in default.",
+          "Judge Mohammad Zahir Uddin of the Additional District and Sessions Judge Court-1 of Kishoreganj District and Sessions Judge Court announced the verdict.",
+          "Following a CID investigation that found no involvement of previously arrested individuals, a charge sheet was filed against Shahjahan Saju, Shafiqul Islam Ratan, and Abu Taher."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "চীন মহাকাশে তাদের শেনঝৌ-২৪ অভিযান শুরু করেছে। এই অভিযানটি দুই দেশের মধ্যে কূটনৈতিক সম্পর্কের ৭৫তম বার্ষিকীর সাথে মিলে গেছে।",
-        "details_en": "China launched its Shenzhou-24 mission into space. The mission coincides with the 75th anniversary of diplomatic relations between the two countries.",
-        "hook_bn": "মহাকাশে প্রথম পাকিস্তানি নভোচারী",
-        "kicker_bn": null,
+        "details_bn": "২০০৮ সালের ১১ জানুয়ারি কিশোরগঞ্জ শহরের বটতলা এলাকার কোহিনুর হোটেলের কর্মচারী জয়নাল আবেদীনকে চা-পুরি খাওয়ানোর কথা বলে ডেকে নিয়ে যান আসামিরা। পরদিন গাইটাল নয়াপাড়া মাটিকাটা হাওড়ের মাঝখানে তার গলাকাটা মরদেহ পাওয়া যায়। প্রথমে নিহতের স্ত্রী টাকা-পয়সার বিরোধকে কেন্দ্র করে মামলা করলেও পরে সিআইডির তদন্তে আসল খুনিরা চিহ্নিত হয়।",
+        "details_en": "On January 11, 2008, the defendants called Zainal Abedin, an employee of Kohinoor Hotel in the Bottola area of Kishoreganj town, away under the pretext of feeding him tea and puri. The next day, his throat-slit body was found in the middle of Gaital Noyapara Matikata haor. Although the victim's wife initially filed a case over a money dispute, the actual killers were identified later through a CID investigation.",
+        "hook_bn": "কিশোরগঞ্জে হোটেল কর্মচারী হত্যায় তিনজনের যাবজ্জীবন",
+        "kicker_bn": "রায় ঘোষণা",
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 5.0,
-      "outlet_count": 5,
-      "trending": true,
-      "social_appeal": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-25T08:02:00.451505+00:00"
+        "checked_at": "2026-11-25T09:02:11.901385+00:00"
+      }
+    },
+    {
+      "story_id": "e80a1987-15e7-54be-a715-7c4c44a70b3b",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#ArjunSingh",
+        "#SheikhHasina",
+        "#HumaiunKobir",
+        "#Bangladesh"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/25/bengal-minister-arjun-singh-253952161-16x9_0-0000.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-25T08:15:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.75,
+      "rank_score": 3.1621,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/world/south-asia/will-take-bangladesh-16-dec-west-bengal-minister-makes-controversial-remark-amid",
+          "title": "'Will take Bangladesh by 16 Dec': West Bengal minister makes controversial remark amid tensions",
+          "snippet": "'Will take Bangladesh by 16 Dec': West Bengal minister makes controversial remark amid tensions"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/west-bengal-minister-threatens-occupy-bangladesh/",
+          "title": "১৬ ডিসেম্বরের মধ্যে ‘বাংলাদেশ দখলের হুমকি’ পশ্চিমবঙ্গের মন্ত্রীর",
+          "snippet": "১৬ ডিসেম্বরের মধ্যে ‘বাংলাদেশ দখলের হুমকি’ পশ্চিমবঙ্গের মন্ত্রীর"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাংলাদেশ দখলের হুমকি দিয়েছেন পশ্চিমবঙ্গের মন্ত্রী অর্জুন সিং",
+        "title_en": "West Bengal minister Arjun Singh threatens to take over Bangladesh",
+        "summary_bn": "পশ্চিমবঙ্গের মন্ত্রী অর্জুন সিং আগামী ১৬ ডিসেম্বরের মধ্যে বাংলাদেশ দখলের হুমকি দিয়ে বলেছেন হিন্দুদের হত্যার প্রতিশোধ নেওয়া হবে।",
+        "summary_en": "West Bengal minister Arjun Singh claimed the country would take over Bangladesh by 16 December and avenge Hindu killings.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-25T08:15:00+00:00",
+        "lead_bn": "পশ্চিমবঙ্গের মন্ত্রী অর্জুন সিং আগামী ১৬ ডিসেম্বরের মধ্যে বাংলাদেশ দখলের হুমকি দিয়ে বলেছেন হিন্দুদের হত্যার প্রতিশোধ নেওয়া হবে।",
+        "lead_en": "West Bengal minister Arjun Singh claimed the country would take over Bangladesh by 16 December and avenge Hindu killings.",
+        "bullets_bn": [
+          "ভাটপাড়ায় সাংবাদিকদের সঙ্গে আলাপকালে অর্জুন সিং ১৬ ডিসেম্বরের মধ্যে বাংলাদেশ দখলের কথা বলেন।",
+          "বাংলাদেশের স্টেট মিনিস্টার ফর ফরেইন অ্যাফেয়ার্স হুমায়ুন কবীর বলেছেন শেখ হাসিনাকে শুধু বন্দী হিসেবে ফেরানো হবে।",
+          "শেখ হাসিনার মুখপাত্র সৈয়দ মোজাম্মেল আলী রয়টার্সকে জানান সাবেক প্রধানমন্ত্রী ১৬ ডিসেম্বরে দিল্লি থেকে ঢাকা যাওয়ার পরিকল্পনা করেছেন।"
+        ],
+        "bullets_en": [
+          "Arjun Singh spoke to reporters in Bhatpara and said they would take Bangladesh by 16 December.",
+          "State Minister for Foreign Affairs Humaiun Kobir said Sheikh Hasina would only be allowed to return as a prisoner.",
+          "Hasina's spokesperson Syed Mozammel Ali told Reuters that the former prime minister intended to travel from Delhi to Dhaka on 16 December."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "শেখ হাসিনার মুখপাত্র সৈয়দ মোজাম্মেল আলী জানান সাবেক প্রধানমন্ত্রী ৫ আগস্ট ২০২৪ একটি বিমানে ভারতে যাওয়ার পর এবার ঢাকা প্রশাসনের কাছে দিল্লি থেকে ঢাকা ফেরার বিমান ব্যবস্থার অনুরোধ করেছেন। বাংলাদেশের ইন্টারন্যাশন্যাল ক্রাইমস ট্রাইব্যুনালের চিফ প্রসিকিউটর মো. আমিনুল ইসলাম শেখ হাসিনার এই দাবিকে পাগলামি বলে বর্ণনা করেছেন। হুমায়ুন কবীর ফরেইন মিনিস্ট্রিতে বিদেশি কূটনীতিকদের ব্রিফ করার পর জানান সন্ত্রাসী হিসেবে তাকে হাতকড়া ও কড়া নিরাপত্তার মধ্যে ফিরিয়ে আনা হবে।",
+        "details_en": "Hasina's spokesperson Syed Mozammel Ali stated that after being flown to India on 5 August 2024, the former prime minister called upon the Dhaka administration to arrange air transport from Delhi to Dhaka. Bangladesh International Crimes Tribunal Chief Prosecutor Md Aminul Islam described the demand for a state aircraft as nothing but madness. Humaiun Kobir briefed foreign diplomats at the Ministry of Foreign Affairs and stated that a terrorist would only be brought back in handcuffs under strict surveillance.",
+        "hook_bn": "১৬ ডিসেম্বরের মধ্যে বাংলাদেশ দখল করা হবে",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": true,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-25T09:02:11.901385+00:00"
       }
     }
   ]
