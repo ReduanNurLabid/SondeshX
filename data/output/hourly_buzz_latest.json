@@ -1,222 +1,88 @@
 {
-  "updated_at": "2026-11-26T03:01:01.481026",
-  "total_stories": 3,
+  "updated_at": "2026-11-26T04:00:51.612247",
+  "total_stories": 1,
   "stories": [
     {
-      "story_id": "7a837f68-5643-5693-adde-74b5206e39d8",
-      "primary_category": "governance_law",
+      "story_id": "af517bc7-1199-5cce-9ada-9fed1271b17b",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "governance_law"
+        "world_diplomacy",
+        "governance_law",
+        "society_education"
       ],
-      "region": "national",
+      "region": "international",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://images.unsplash.com/photo-1627317764899-eb00cfc40ac2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8aW5jbHVkaW5nJTIwc2hlaWtoJTIwaGFzaW5hJTIwZm9ybWVyJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1NjYyMDk4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_bengali/b978/live/c02fd6b0-e942-11f1-bb03-0f017f7b7c99.jpg",
       "image_caption": null,
-      "published_at": "2026-11-26T02:37:40+00:00",
+      "published_at": "2026-11-26T03:27:03+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.25,
-      "rank_score": 3.8175,
+      "rank_score": 3.7795,
       "sources": [
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823037/%E0%A6%AE%E0%A6%BE%E0%A6%9D%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%B6%E0%A7%87%E0%A6%96-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95-%E0%A6%89%E0%A6%AA%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B8-%E0%A6%B8%E0%A6%9A%E0%A6%BF%E0%A6%AC-%E0%A6%93-%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%B9",
-          "title": "মাঝরাতে শেখ হাসিনার সাবেক উপপ্রেস সচিব ও ডিসিসহ গ্রেপ্তার ৪",
-          "snippet": "মাঝরাতে শেখ হাসিনার সাবেক উপপ্রেস সচিব ও ডিসিসহ গ্রেপ্তার ৪"
+          "name": "BBC News বাংলা",
+          "url": "https://www.bbc.com/bengali/articles/cr868gzy4x94o?at_medium=RSS&at_campaign=rss",
+          "title": "দুই সৌদি বন্দরে হামলার দাবি হুথিদের, পাল্টা হুথি ড্রোন ভূপাতিত করেছে রিয়াদ",
+          "snippet": "দুই সৌদি বন্দরে হামলার দাবি হুথিদের, পাল্টা হুথি ড্রোন ভূপাতিত করেছে রিয়াদ"
         },
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/former-prime-minister-deputy-press-secretary-shakhawat/",
-          "title": "শেখ হাসিনার সাবেক উপ-প্রেস সচিব শাখাওয়াত মুন আটক",
-          "snippet": "শেখ হাসিনার সাবেক উপ-প্রেস সচিব শাখাওয়াত মুন আটক"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/823043/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF-%E0%A6%86%E0%A6%B0%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0-%E0%A6%93-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80-%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8D%E0%A6%AF-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE",
+          "title": "সৌদি আরবের বন্দর ও রাজধানী লক্ষ্য করে হামলা",
+          "snippet": "সৌদি আরবের বন্দর ও রাজধানী লক্ষ্য করে হামলা"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/america/983310/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%AC%E0%A7%88%E0%A6%A0%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%A5%E0%A6%BE-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A7%80%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B0",
+          "title": "ইরানের সঙ্গে বৈঠকের কথা স্বীকার করলেন ট্রাম্পের বিশেষ দূত কুশনার",
+          "snippet": "ইরানের সঙ্গে বৈঠকের কথা স্বীকার করলেন ট্রাম্পের বিশেষ দূত কুশনার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ধানমন্ডি থেকে শেখ হাসিনার সাবেক উপপ্রেস সচিবসহ চারজন গ্রেপ্তার",
-        "title_en": "Four including Sheikh Hasina's former deputy press secretary arrested from Dhanmondi",
-        "summary_bn": "ছাত্রদলের নেতা-কর্মীরা সাবেক প্রধানমন্ত্রী শেখ হাসিনার উপপ্রেস সচিব কে এম শাখাওয়াত মুনসহ চারজনকে আটক করে পুলিশের কাছে হস্তান্তর করেছেন।",
-        "summary_en": "Chhatra Dal leaders and activists detained and handed over four people including former prime minister Sheikh Hasina's deputy press secretary KM Shakhawat Moon to the police.",
+        "title_bn": "সৌদি বন্দরে হুথিদের হামলার দাবি ও ড্রোন ভূপাতিত করার কথা জানাল রিয়াদ",
+        "title_en": "Houthis claim attacks on Saudi ports as Riyadh downs drone",
+        "summary_bn": "সৌদি আরবের জেদ্দা ও জাজান বন্দরে হামলা চালানোর দাবি করেছে ইয়েমেনের হুথি যোদ্ধারা এবং রিয়াদ একটি ড্রোন ধ্বংস করেছে।",
+        "summary_en": "Yemen's Houthi fighters claimed attacks on Saudi Arabia's Jeddah and Jizan ports while Riyadh destroyed a drone.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "world_diplomacy",
+          "governance_law",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T02:37:40+00:00",
-        "lead_bn": "ছাত্রদলের নেতা-কর্মীরা সাবেক প্রধানমন্ত্রী শেখ হাসিনার উপপ্রেস সচিব কে এম শাখাওয়াত মুনসহ চারজনকে আটক করে পুলিশের কাছে হস্তান্তর করেছেন।",
-        "lead_en": "Chhatra Dal leaders and activists detained and handed over four people including former prime minister Sheikh Hasina's deputy press secretary KM Shakhawat Moon to the police.",
+        "published_at": "2026-11-26T03:27:03+00:00",
+        "lead_bn": "সৌদি আরবের জেদ্দা ও জাজান বন্দরে হামলা চালানোর দাবি করেছে ইয়েমেনের হুথি যোদ্ধারা এবং রিয়াদ একটি ড্রোন ধ্বংস করেছে।",
+        "lead_en": "Yemen's Houthi fighters claimed attacks on Saudi Arabia's Jeddah and Jizan ports while Riyadh destroyed a drone.",
         "bullets_bn": [
-          "আটককৃতদের মধ্যে সাবেক জেলা প্রশাসক মোহাম্মদ ইলিয়াস হোসেন ও আয়কর আইনজীবী সুফি মো. আল মামুন রয়েছেন।",
-          "পৃথক অভিযানে ককটেলসহ আল আমিন নামে আরেকজনকে গ্রেপ্তার করা হয়েছে।",
-          "দিবাগত রাত একটার দিকে ধানমন্ডি ২৭ নম্বর এলাকা থেকে তাদের আটক করা হয়।"
+          "হুথিদের সামরিক মুখপাত্র ইয়াহিয়া সারি জানান যে জেদ্দা এবং জাজান বন্দরে চালানো হামলায় নির্দিষ্ট লক্ষ্যবস্তু ক্ষতিগ্রস্ত হয়েছে।",
+          "সৌদি নেতৃত্বাধীন সামরিক জোট জানায় যে জেদ্দা বন্দরের কাছে ড্রোনটি বিধ্বস্ত হলেও কোনো হতাহত বা ক্ষয়ক্ষতি হয়নি।",
+          "সৌদি জোটের মুখপাত্র তুর্কি আল-মালিকি জানান যে জাজান বন্দরে হুথিদের ছোড়া একটি ক্ষেপণাস্ত্র এসে পড়লেও কোনো বেসামরিক নাগরিক নিহত বা আহত হননি।"
         ],
         "bullets_en": [
-          "Those detained include former district commissioner Mohammad Elias Hossain and income tax lawyer Sufi Md Al Mamun.",
-          "Another person named Al Amin was arrested with cocktails in a separate drive.",
-          "They were detained from the Dhanmondi 27 number area around 1:00 am on the intervening night of Wednesday."
+          "Houthi military spokesperson Yahya Sarea claimed that their attacks on Jeddah and Jizan ports hit specific targets.",
+          "The Saudi-led coalition stated that the drone crashed near Jeddah port with no casualties or damage.",
+          "Coalition spokesperson Turki al-Maliki stated that a Houthi missile landed in Jizan port causing no civilian deaths or injuries."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "দিবাগত রাত ১টার দিকে রাজধানীর ধানমন্ডি ২৭ নম্বর এলাকা থেকে সাবেক প্রধানমন্ত্রী শেখ হাসিনার উপপ্রেস সচিব কে এম শাখাওয়াত মুন, সাবেক জেলা প্রশাসক মোহাম্মদ ইলিয়াস হোসেন ও আয়কর আইনজীবী সুফি মো. আল মামুনকে আটক করে ছাত্রদলের নেতা-কর্মীরা পুলিশের কাছে হস্তান্তর করেন। পৃথক অভিযানে ককটেলসহ আল আমিন নামে আরেকজনকে গ্রেপ্তার করা হয় এবং এ ঘটনায় মোট চারজনকে গ্রেপ্তার করা হয়। মোহাম্মদপুর থানা পুলিশ রাত ২:৩০ মিনিটে বিষয়টি নিশ্চিত করে।",
-        "details_en": "Around 1:00 am on the intervening night of Chhatra Dal leaders and activists detained former prime minister Sheikh Hasina's deputy press secretary KM Shakhawat Moon, former district commissioner Mohammad Elias Hossain, and income tax lawyer Sufi Md Al Mamun from the Dhanmondi 27 number area in the capital and handed them over to the police. In a separate drive, another person named Al Amin was arrested with cocktails, bringing the total number of arrested individuals to four. Mohammadpur police station confirmed the matter at 2:30 am.",
-        "hook_bn": "ধানমন্ডিতে শাখাওয়াত মুনসহ গ্রেপ্তার চার",
+        "details_bn": "ইয়েমেনের একটি বন্দরে সৌদি হামলার জবাবে হুথিরা এই হামলা চালিয়েছে বলে দাবি করা হয়েছে এবং সাম্প্রতিক দিনগুলোতে দুই পক্ষের মধ্যে সংঘর্ষ তীব্র আকার ধারণ করেছে। এর আগে সৌদি জোট ইয়েমেনের লোহিত সাগর উপকূলের হোদাইদাহ বন্দরে হামলা চালানোর কথা জানিয়েছিল। এছাড়া দুবাইয়ের ৫০ নটিক্যাল মাইল পশ্চিমে সংযুক্ত আরব আমিরাতের জলসীমায় একটি বিস্ফোরণের খবর পেয়েছে ইউকেএমটিও।",
+        "details_en": "The attacks were reportedly in response to Saudi attacks on a Yemeni port, with clashes intensifying between the two sides in recent days. Earlier, the Saudi-led coalition reported carrying out attacks on Yemen's Red Sea port of Hudaydah. Additionally, UKMTO reported an explosion in UAE waters fifty nautical miles west of Dubai.",
+        "hook_bn": "সৌদি বন্দরে হুথিদের হামলা",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-26T03:02:09.751016+00:00"
-      }
-    },
-    {
-      "story_id": "2848f257-ab3e-5375-a001-e50c3a5537f5",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#BangladeshBank",
-        "#DollarSwap",
-        "#TakaDollar",
-        "#ExchangeRate"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/08/29/untitled_design_14.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-26T01:20:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.5425,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/economy/banking/bb-turns-dollar-swaps-commercial-banks-stabilise-exchange-rate-1614241",
-          "title": "BB turns to dollar swaps with commercial banks to stabilise exchange rate",
-          "snippet": "BB turns to dollar swaps with commercial banks to stabilise exchange rate"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/bb-resumes-currency-swap-with-banks-to-shore-up-dollar-stock",
-          "title": "BB resumes currency swap with banks to shore up dollar stock",
-          "snippet": "BB resumes currency swap with banks to shore up dollar stock"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বিনিময় হার ঠিক রাখতে বাণিজ্যিক ব্যাংকের সঙ্গে ডলার সোয়াপ শুরু করছে বাংলাদেশ ব্যাংক",
-        "title_en": "Bangladesh Bank conducts dollar swaps with commercial banks to stabilise exchange rate",
-        "summary_bn": "রিজার্ভ থেকে ডলার বিক্রি করেও বিনিময় হার কমাতে না পেরে বাণিজ্যিক ব্যাংকগুলোর সঙ্গে ডলার সোয়াপ করার সিদ্ধান্ত নিয়েছে বাংলাদেশ ব্যাংক।",
-        "summary_en": "After failing to lower the exchange rate by selling dollars from reserves, Bangladesh Bank decided to conduct dollar swaps with commercial banks.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-26T01:20:00+00:00",
-        "lead_bn": "রিজার্ভ থেকে ডলার বিক্রি করেও বিনিময় হার কমাতে না পেরে বাণিজ্যিক ব্যাংকগুলোর সঙ্গে ডলার সোয়াপ করার সিদ্ধান্ত নিয়েছে বাংলাদেশ ব্যাংক।",
-        "lead_en": "After failing to lower the exchange rate by selling dollars from reserves, Bangladesh Bank decided to conduct dollar swaps with commercial banks.",
-        "bullets_bn": [
-          "বাংলাদেশ ব্যাংক ও বাণিজ্যিক ব্যাংকের মধ্যে নির্দিষ্ট সময়ের জন্য টাকা ও মার্কিন ডলার বিনিময় করা হয় সোয়াপ ব্যবস্থায়।",
-          "নির্ধারিত শর্ত ও প্রযোজ্য সুদসহ নির্দিষ্ট মেয়াদ শেষে মূল মুদ্রাগুলো ফেরত দেওয়া হয়।",
-          "কেন্দ্রীয় ব্যাংক বাণিজ্যিক ব্যাংকগুলোকে এই সিদ্ধান্তের কথা আনুষ্ঠানিকভাবে জানিয়েছে।"
-        ],
-        "bullets_en": [
-          "A taka-dollar swap involves exchanging Bangladeshi taka and US dollars between commercial banks and the central bank for a specified period.",
-          "The original currencies are returned at the end of the agreed tenure along with applicable interest under predetermined terms.",
-          "The central bank has formally informed commercial banks of this decision."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "রিজার্ভ থেকে ডলার বিক্রি করেও বিনিময় হার না কমায় বাংলাদেশ ব্যাংক এই উদ্যোগ নিয়েছে। বাণিজ্যিক ব্যাংকগুলো সরকারের এলসি পেমেন্টের চাপে রয়েছে এবং বাজারের ব্যাংকগুলো এগ্রিগেটরদের কাছ থেকে প্রতি ডলার ১২৫.২০ থেকে ১২৫.৩০ টাকায় কিনেছে। পেট্রোবাংলা ও বাংলাদেশ পেট্রোলিয়াম কর্পোরেশনের সরকারি এলসি পরিশোধের জন্য ব্যাংকগুলোর ওপর পেমেন্টের বড় চাপ রয়েছে। সোয়াপ ব্যবস্থার মাধ্যমে কেন্দ্রীয় ব্যাংক ডলারের বিনিময় হার ১২৫ টাকার মধ্যে রাখতে চায়।",
-        "details_en": "Bangladesh Bank took this initiative after failing to lower the exchange rate by selling dollars from its foreign exchange reserves. Commercial banks face heavy pressure for government LC payments, particularly for Petrobangla and the Bangladesh Petroleum Corporation, with some banks purchasing remittances from aggregators at Tk125.20-Tk125.30 per dollar. Through this arrangement, the central bank aims to keep the exchange rate within Tk125.",
-        "hook_bn": "ডলারের বিনিময় হার রাখতে ১২৫ টাকার মধ্যে সোয়াপ শুরু",
-        "kicker_bn": "বিনিময় হার",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
+      "outlet_count": 3,
       "trending": false,
       "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-26T03:02:09.751016+00:00"
-      }
-    },
-    {
-      "story_id": "c859870f-924d-5100-ac90-d0f7cf8f8009",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1652305500057-0fcb348b62aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8c3R1ZGVudHMlMjBhbm5vdW5jZSUyMGNvbXBsZXRlJTIwc2h1dGRvd24lMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NTY2MjEyMHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-26T02:42:28+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5345,
-      "sources": [
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823038/%E0%A6%9A%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%9F%E0%A7%87-%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%93-%E2%80%98%E0%A6%95%E0%A6%AE%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%9F-%E0%A6%B6%E0%A6%BE%E0%A6%9F%E0%A6%A1%E0%A6%BE%E0%A6%89%E0%A6%A8%E2%80%99-%E0%A6%98%E0%A7%8B%E0%A6%B7%E0%A6%A3%E0%A6%BE",
-          "title": "চুয়েটে আবারও ‘কমপ্লিট শাটডাউন’ ঘোষণা",
-          "snippet": "চুয়েটে আবারও ‘কমপ্লিট শাটডাউন’ ঘোষণা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "চুয়েটে আবারও কমপ্লিট শাটডাউন ঘোষণা শিক্ষার্থীদের",
-        "title_en": "Students announce complete shutdown at CUET again",
-        "summary_bn": "সংকটের স্থায়ী সমাধান না হওয়ায় ২৬ নভেম্বর থেকে চুয়েটে আবারও কমপ্লিট শাটডাউন কর্মসূচি ঘোষণা করেছেন শিক্ষার্থীরা।",
-        "summary_en": "Students announced a complete shutdown program at CUET again starting from 26 November due to lack of a permanent solution.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-26T02:42:28+00:00",
-        "lead_bn": "সংকটের স্থায়ী সমাধান না হওয়ায় ২৬ নভেম্বর থেকে চুয়েটে আবারও কমপ্লিট শাটডাউন কর্মসূচি ঘোষণা করেছেন শিক্ষার্থীরা।",
-        "lead_en": "Students announced a complete shutdown program at CUET again starting from 26 November due to lack of a permanent solution.",
-        "bullets_bn": [
-          "কর্মসূচির আওতায় বিশ্ববিদ্যালয়ের সব ব্যাচের একাডেমিক ও প্রশাসনিক কার্যক্রম বন্ধ থাকবে।",
-          "২৬ নভেম্বর দুপুর ২টায় আইইবি চট্টগ্রাম কেন্দ্রে বিক্ষোভ ও অবস্থান কর্মসূচি পালন করা হবে।",
-          "আন্দোলনকে আরও বেগবান ও কার্যকর করার লক্ষ্যে ২৫ নভেম্বর রাতে এই সিদ্ধান্ত নেওয়া হয়।"
-        ],
-        "bullets_en": [
-          "Academic and administrative activities of all batches of the university will remain closed under the program.",
-          "Protest and sit-in programs will be held at 2 PM on 26 November at the IEB Chattogram center.",
-          "The decision was taken on the night of 25 November to make the movement more dynamic and effective."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সংকটের স্থায়ী সমাধান না হওয়ায় আন্দোলনকে আরও বেগবান ও কার্যকর করার লক্ষ্যে ২৫ নভেম্বর রাতে চুয়েট শিক্ষার্থীরা এই কর্মসূচি ঘোষণা করেন।",
-        "details_en": "To make the movement more dynamic and effective due to the lack of a permanent solution, CUET students announced this program on the night of 25 November.",
-        "hook_bn": "চুয়েটে আবারও কমপ্লিট শাটডাউন ঘোষণা",
-        "kicker_bn": "কমপ্লিট শাটডাউন",
-        "share_value": true,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-26T03:02:09.751016+00:00"
+        "checked_at": "2026-11-26T04:01:49.475184+00:00"
       }
     }
   ]
