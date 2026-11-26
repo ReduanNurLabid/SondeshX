@@ -1,134 +1,79 @@
 {
-  "updated_at": "2026-11-26T19:01:01.041788",
-  "total_stories": 2,
+  "updated_at": "2026-11-26T20:00:45.766438",
+  "total_stories": 1,
   "stories": [
     {
-      "story_id": "79efe11a-5819-5a41-82ee-e77f96f042ce",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Malaysia",
-        "#TariqueRahman",
-        "#MigrantWorkers"
-      ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/183328/front3981.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-26T19:01:12.204771+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5819,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/cost-free-worker-migration-to-malaysia-takes-off",
-          "title": "Cost-free worker migration to Malaysia takes off",
-          "snippet": "Cost-free worker migration to Malaysia takes off"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "কোনো খরচ ছাড়াই প্রথমবার ১১২ জন কর্মী মালয়েশিয়ায় গেলেন।",
-        "title_en": "Cost-free worker migration to Malaysia takes off with 112 recruits.",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে কোনো অভিবাসন খরচ ছাড়াই মালয়েশিয়ায় কর্মী পাঠানোর প্রথম সরকারি কর্মসূচি উদ্বোধন করেছেন।",
-        "summary_en": "Prime Minister Tarique Rahman launched Bangladesh's first-ever zero-cost worker migration programme to Malaysia from Hazrat Shahjalal International Airport.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-26T19:01:12.204771+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে কোনো অভিবাসন খরচ ছাড়াই মালয়েশিয়ায় কর্মী পাঠানোর প্রথম সরকারি কর্মসূচি উদ্বোধন করেছেন।",
-        "lead_en": "Prime Minister Tarique Rahman launched Bangladesh's first-ever zero-cost worker migration programme to Malaysia from Hazrat Shahjalal International Airport.",
-        "bullets_bn": [
-          "প্রাথমিক পর্যায়ে ১১২ জন কর্মী কুয়ালালামপুরের উদ্দেশ্যে রওনা হয়েছেন।",
-          "প্রধানমন্ত্রী মালয়েশিয়ার আইন ও সংস্কৃতি শ্রদ্ধা করার পরামর্শ দিয়েছেন।",
-          "সরকার গন্তব্য দেশের চাহিদা অনুযায়ী ভাষা প্রশিক্ষণ চালুর উদ্যোগ নেবে।"
-        ],
-        "bullets_en": [
-          "An initial batch of 112 recruits departed for Kuala Lumpur.",
-          "The prime minister advised workers to respect the culture and laws of Malaysia.",
-          "The government will initiate language training according to destination country requirements."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "প্রায় আড়াই বছর বন্ধ থাকার পর বাংলাদেশিদের জন্য মালয়েশিয়ার শ্রমবাজার পুনরায় চালু হয়েছে। প্রধানমন্ত্রী জানিয়েছেন, আন্তর্জাতিক বাজারের চাহিদা অনুযায়ী দক্ষ কর্মী তৈরি এবং গন্তব্য দেশের প্রয়োজন অনুযায়ী ভাষা প্রশিক্ষণের ব্যবস্থা নেওয়ার উদ্যোগ নিয়েছে সরকার।",
-        "details_en": "The initiative comes after Malaysia reopened its labour market to Bangladeshi workers following a suspension of recruitment for around two and a half years. The prime minister said his government was taking initiatives to rear skilled workers in line with international market demands and provide language training.",
-        "hook_bn": "আইন মেনে সততার সঙ্গে কাজ করুন",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": "শূন্য খরচে বিদেশে কর্মী পাঠানোর এই পদক্ষেপে মালয়েশিয়ার শ্রমবাজারে কতটা সুফল আসবে বলে আপনার মনে হয়?"
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-26T19:07:01.714815+00:00"
-      }
-    },
-    {
-      "story_id": "9b475f97-ffc9-5961-b717-ea3e588d1120",
+      "story_id": "3ca62a5f-96f2-5c49-8a39-af75e7034539",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law",
-        "world_diplomacy"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Shibganj",
+        "#Rajshahi",
+        "#AwamiLeague"
       ],
-      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/mou-20261127000656.jpg?cid=501169",
+      "image_url": "https://images.unsplash.com/photo-1693585172757-b9e057feb878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFybGlhbWVudCUyMGxhdyUyMGNvdXJ0JTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1NzIzMjcxfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-26T18:06:56+00:00",
+      "published_at": "2026-11-26T19:43:19+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.1757,
+      "importance_score": 6.25,
+      "rank_score": 3.8399,
       "sources": [
         {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/national/501169",
-          "title": "শরীয়তপুর–চাঁদপুর সড়কে মেঘনা সেতু নির্মাণে পরামর্শক নিয়োগে চুক্তি",
-          "snippet": "শরীয়তপুর–চাঁদপুর সড়কে মেঘনা সেতু নির্মাণে পরামর্শক নিয়োগে চুক্তি"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425879/srb-nabs-shibganj-blast-suspect-from-rajshahi",
+          "title": "SRB nabs Shibganj blast suspect from Rajshahi hideout",
+          "snippet": "SRB nabs Shibganj blast suspect from Rajshahi hideout"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/man-injured-chapainawabganj-crude-bomb-blast-detained-rajshahi-home-1615406",
+          "title": "Man injured in Chapainawabganj crude bomb blast detained at Rajshahi home",
+          "snippet": "Man injured in Chapainawabganj crude bomb blast detained at Rajshahi home"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শরীয়তপুর-চাঁদপুর সড়কে মেঘনা সেতু নির্মাণে পরামর্শক চুক্তি সই হয়েছে।",
-        "title_en": "Consultancy agreement signed for Meghna bridge construction on Shariatpur-Chandpur road.",
-        "summary_bn": "বাংলাদেশ সেতু কর্তৃপক্ষ ও আইআইএফসির মধ্যে শরীয়তপুর-চাঁদপুর সড়কে মেঘনা সেতু নির্মাণের পরামর্শক সেবা নিতে চুক্তি স্বাক্ষরিত হয়েছে।",
-        "summary_en": "Bangladesh Bridge Authority and IIFC signed an agreement for consultancy services to construct the Meghna bridge.",
+        "title_bn": "রাজশাহী থেকে শিবগঞ্জের বোমা বিস্ফোরণ মামলার সন্দেহভাজন আটক",
+        "title_en": "Shibganj blast suspect detained from Rajshahi",
+        "summary_bn": "শিবগঞ্জে বোমা বিস্ফোরণে আহত এক ব্যক্তিকে রাজশাহীর একটি বাসা থেকে আটক করেছে এসআরবি-৫।",
+        "summary_en": "SRB-5 detained a man injured in a Chapainawabganj crude bomb blast from a Rajshahi home.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "world_diplomacy"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T18:06:56+00:00",
-        "lead_bn": "বাংলাদেশ সেতু কর্তৃপক্ষ ও আইআইএফসির মধ্যে শরীয়তপুর-চাঁদপুর সড়কে মেঘনা সেতু নির্মাণের পরামর্শক সেবা নিতে চুক্তি স্বাক্ষরিত হয়েছে।",
-        "lead_en": "Bangladesh Bridge Authority and IIFC signed an agreement for consultancy services to construct the Meghna bridge.",
+        "published_at": "2026-11-26T19:43:19+00:00",
+        "lead_bn": "শিবগঞ্জে বোমা বিস্ফোরণে আহত এক ব্যক্তিকে রাজশাহীর একটি বাসা থেকে আটক করেছে এসআরবি-৫।",
+        "lead_en": "SRB-5 detained a man injured in a Chapainawabganj crude bomb blast from a Rajshahi home.",
         "bullets_bn": [
-          "পিপিপি ভিত্তিতে সেতুটি নির্মাণের জন্য এই চুক্তি স্বাক্ষরিত হয়।",
-          "সেতু বিভাগের সচিব মোহাম্মদ আবদুর রউফ অনুষ্ঠানে প্রধান অতিথি ছিলেন।",
-          "জাপান সরকারের মনোনীত দুটি প্রতিষ্ঠান সেতুটি বাস্তবায়ন করবে বলে উল্লেখ করা হয়।"
+          "এসআরবি-৫ এর দাবি অনুযায়ী আটক ব্যক্তি নিষিদ্ধ ঘোষিত সংগঠনের সঙ্গে জড়িত।",
+          "আটক ব্যক্তি কার্যক্রম নিষিদ্ধ ঘোষিত আওয়ামী লীগের একজন কর্মী বলে দাবি করেছে এসআরবি-৫।",
+          "চাঁপাইনবাবগঞ্জের শিবগঞ্জে ঘটিত বিস্ফোরণের ঘটনায় ওই ব্যক্তি আহত হয়েছিলেন।"
         ],
         "bullets_en": [
-          "The agreement was signed to construct the bridge on a PPP basis.",
-          "Bridge Division Secretary Mohammad Abdur Rouf was the chief guest at the event.",
-          "Two firms nominated by the Japan government will implement the bridge."
+          "SRB-5 claimed that the detained man is involved with a banned organisation.",
+          "SRB-5 claimed that he is an activist of the activities-banned Awami League.",
+          "The man was injured in a crude bomb blast in Shibganj, Chapainawabganj."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "২৬ নভেম্বর বাংলাদেশ সেতু কর্তৃপক্ষের সম্মেলন কক্ষে এ চুক্তি সই হয়। ট্রানজেকশন অ্যাডভাইজরি সার্ভিসেস ফর দ্য কনস্ট্রাকশন অব ব্রিজ ওভার দ্য মেঘনা রিভার অন শরীয়তপুর-চাঁদপুর রোড অন পিপিপি বেসিস শীর্ষক পরামর্শক সেবা দেবে আইআইএফসি। বাংলাদেশ-জাপান অষ্টম প্ল্যাটফর্ম সভায় পিপিপি মডেলে সেতুটি বাস্তবায়নের সিদ্ধান্ত হয়। এতে মিয়াগাওয়া-কেনসেতসু ও জাপান ব্রিজ কোম্পানি সেতুটি বাস্তবায়ন করবে বলে উল্লেখ করা হয়। চুক্তি স্বাক্ষর অনুষ্ঠানে প্রধান প্রকৌশলী আবুল হোসেন এবং ব্যবস্থাপনা পরিচালক মো. মনিরুজ্জামান নিজ নিজ প্রতিষ্ঠানের পক্ষে স্বাক্ষর করেন।",
-        "details_en": "The agreement was signed on 26 November at the conference room of the Bangladesh Bridge Authority. IIFC will provide consultancy services titled Transaction Advisory Services for the Construction of Bridge Over the Meghna River on Shariatpur-Chandpur Road on PPP Basis. The decision to implement the proposed bridge on the PPP model was taken at the eighth Bangladesh-Japan platform meeting. It was mentioned that Miyagawa Kensetsu and Japan Bridge Company nominated by the Japan government will implement the bridge. Chief Engineer Abul Hossain and Managing Director Md. Moniruzzaman signed the agreement on behalf of their respective organizations.",
-        "hook_bn": "শরীয়তপুর-চাঁদপুর সড়কে মেঘনা সেতু নির্মাণ",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "রাজশাহীতে শিবগঞ্জ বিস্ফোরণ মামলার সন্দেহভাজন আটক",
         "kicker_bn": null,
         "share_value": false,
-        "question_bn": "শরীয়তপুর-চাঁদপুর সড়কে মেঘনা সেতু নির্মিত হলে যাতায়াতে কেমন সুবিধা হবে বলে আপনি মনে করেন?"
+        "question_bn": null
       },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-26T19:07:01.714815+00:00"
+        "checked_at": "2026-11-26T20:01:23.396345+00:00"
       }
     }
   ]
