@@ -1,77 +1,72 @@
 {
-  "updated_at": "2026-11-25T23:37:40.996242",
+  "updated_at": "2026-11-26T00:00:48.370463",
   "total_stories": 1,
   "stories": [
     {
-      "story_id": "b023c44c-e6af-5402-a6b4-890d185185fa",
-      "primary_category": "economy_business",
+      "story_id": "d1a6121c-2d28-5b3a-8009-4529330c739c",
+      "primary_category": "society_education",
       "interest_categories": [
-        "economy_business",
-        "world_diplomacy",
-        "tech_innovation"
+        "society_education"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#Nvidia",
-        "#Nasdaq",
-        "#USStocks"
+        "#Bangladesh",
+        "#NationalAffairs"
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg",
+      "image_url": "https://images.unsplash.com/photo-1577897113292-3b95936e5206?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8anVseSUyMGZpZ2h0ZXJzJTIwZmFtaWx5JTIwY2FyZCUyMGVkdWNhdGlvbnxlbnwxfDB8fHwxNzk1NjUxMjg1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-25T21:43:18+00:00",
+      "published_at": "2026-11-26T00:00:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.7077,
+      "importance_score": 6.0,
+      "rank_score": 3.5953,
       "sources": [
         {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-          "title": "US stocks fall further as fears over AI intensify",
-          "snippet": "US stocks fall further as fears over AI intensify"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/823027/%E0%A6%89%E0%A6%AA%E0%A6%AC%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%86%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A6%A8%E0%A7%87-%E0%A6%8F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A7%81%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%AF%E0%A7%8B%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE%C2%A0%E0%A6%93-%E0%A6%AB%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%BF",
+          "title": "উপবৃত্তির আবেদনে এবার জুলাইযোদ্ধা ও ফ্যামিলি কার্ডের তথ্যও দিতে হবে",
+          "snippet": "উপবৃত্তির আবেদনে এবার জুলাইযোদ্ধা ও ফ্যামিলি কার্ডের তথ্যও দিতে হবে"
         }
       ],
       "daily_buzz": {
-        "title_bn": "কৃত্রিম বুদ্ধিমত্তার বিনিয়োগ নিয়ে শঙ্কার মধ্যে মার্কিন শেয়ারবাজারে পতন ঘটেছে।",
-        "title_en": "US stocks fall further as fears over AI intensify.",
-        "summary_bn": "কৃত্রিম বুদ্ধিমত্তা খাতের বিনিয়োগের মাত্রা ও স্থায়িত্ব নিয়ে উদ্বেগের কারণে মার্কিন শেয়ারবাজারের প্রধান সূচকগুলো কমেছে।",
-        "summary_en": "US stock market indices fell on Wednesday amid concerns over the level and sustainability of artificial intelligence investment.",
+        "title_bn": "উপবৃত্তির আবেদনে জুলাইযোদ্ধা ও ফ্যামিলি কার্ডের তথ্য দিতে হবে",
+        "title_en": "July fighters and family card info required for stipend applications",
+        "summary_bn": "প্রধানমন্ত্রীর শিক্ষাসহায়তা ট্রাস্টের উপবৃত্তি কর্মসূচির আওতায় অনলাইন তথ্য অন্তর্ভুক্তির কার্যক্রমে জুলাইযোদ্ধা ও ফ্যামিলি কার্ডের তথ্য যুক্ত করা হয়েছে।",
+        "summary_en": "July fighters and family card information has been added to the online stipend program of the Prime Minister's Education Assistance Trust.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "world_diplomacy",
-          "tech_innovation"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-25T21:43:18+00:00",
-        "lead_bn": "কৃত্রিম বুদ্ধিমত্তা খাতের বিনিয়োগের মাত্রা ও স্থায়িত্ব নিয়ে উদ্বেগের কারণে মার্কিন শেয়ারবাজারের প্রধান সূচকগুলো কমেছে।",
-        "lead_en": "US stock market indices fell on Wednesday amid concerns over the level and sustainability of artificial intelligence investment.",
+        "published_at": "2026-11-26T00:00:00+00:00",
+        "lead_bn": "প্রধানমন্ত্রীর শিক্ষাসহায়তা ট্রাস্টের উপবৃত্তি কর্মসূচির আওতায় অনলাইন তথ্য অন্তর্ভুক্তির কার্যক্রমে জুলাইযোদ্ধা ও ফ্যামিলি কার্ডের তথ্য যুক্ত করা হয়েছে।",
+        "lead_en": "July fighters and family card information has been added to the online stipend program of the Prime Minister's Education Assistance Trust.",
         "bullets_bn": [
-          "প্রযুক্তিনির্ভর নাসডাক সূচক শূন্য দশমিক ছয় শতাংশ কমে লেনদেন শেষ করেছে।",
-          "জেেনসেন হুয়াংয়ের পুনর্বহালের পর এনভিডিয়ার শেয়ারের সাময়িক উত্থান দীর্ঘস্থায়ী হয়নি।",
-          "যুক্তরাষ্ট্রের সরকার দেশের ট্রেড পলিসির অংশ হিসেবে নতুন শুল্ক আরোপের ঘোষণা দিয়েছে।"
+          "ষষ্ঠ থেকে দ্বাদশ শ্রেণি এবং আলিম দ্বিতীয় বর্ষের শিক্ষার্থীদের উপবৃত্তির জন্য তথ্য অন্তর্ভুক্তির কার্যক্রম শুরু হয়েছে।",
+          "অনলাইনে এই কার্যক্রম আগামী ১২ ডিসেম্বর রাত ১০টা পর্যন্ত চলবে।",
+          "নতুন ফরমে শিক্ষার্থী ও অভিভাবকের ব্যক্তিগত তথ্যের পাশাপাশি পরিবারের আয়-ব্যয় ও জমির তথ্য দিতে হবে।"
         ],
         "bullets_en": [
-          "The tech-dominated Nasdaq closed 0.6% lower at the end of the trading day.",
-          "The surge in Nvidia shares after boss Jensen Huang was reinstated was temporary.",
-          "The US government announced a raft of new tariffs as part of the trade policy."
+          "Data entry activities have started for student stipends from class six to twelfth grade and second-year Alim.",
+          "This online activity will continue until 12 December at 10 PM.",
+          "The new form requires personal information of the student and guardian as well as family income, expenditure, and land details."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "কৃত্রিম বুদ্ধিমত্তার সঙ্গে যুক্ত বড় প্রযুক্তি প্রতিষ্ঠানগুলোর শেয়ারদর সম্প্রতি চাপের মুখে রয়েছে। এনভিডিয়ার প্রধান নির্বাহী কর্মকর্তার পদত্যাগ এবং পুনরায় বহাল হওয়ার ঘটনার পর কোম্পানিটির বাজারমূল্যে বড় ধরনের ওঠানামা দেখা গেছে। এছাড়া অ্যামাজন, টেসলা ও মাইক্রোসফটের শেয়ারদর পতনের সঙ্গে বন্ধ হলেও মেটা ও স্পেসএক্স ইতিবাচক অবস্থানে ছিল।",
-        "details_en": "Share prices of major technology firms connected to artificial intelligence continued to fall, with Nvidia and Anthropic dropping sharply in early trading. The resignation and reinstatement of Nvidia's CEO caused wild market value fluctuations. Shares in Amazon, Tesla, and Microsoft closed lower, while Meta and SpaceX ended in positive territory.",
-        "hook_bn": "কৃত্রিম বুদ্ধিমত্তা নিয়ে শঙ্কার জেরে মার্কিন শেয়ারবাজারে পতন",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
+        "details_bn": "সারা দেশের স্কুল, কলেজ ও মাদ্রাসায় ষষ্ঠ থেকে দ্বাদশ শ্রেণি এবং আলিম দ্বিতীয় বর্ষে অধ্যয়নরত শিক্ষার্থীদের উপবৃত্তির জন্য তথ্য অন্তর্ভুক্তির কার্যক্রম শুরু হয়েছে। প্রধানমন্ত্রীর শিক্ষাসহায়তা ট্রাস্টের সমন্বিত উপবৃত্তি কর্মসূচির আওতায় অনলাইনে এই কার্যক্রম পরিচালিত হচ্ছে।",
+        "details_en": "Data entry activities have started for student stipends from class six to twelfth grade and second-year Alim in schools, colleges, and madrasahs across the country. This online activity is being conducted under the integrated stipend program of the Prime Minister's Education Assistance Trust.",
+        "hook_bn": "উপবৃত্তির আবেদনে জুলাইযোদ্ধা ও ফ্যামিলি কার্ডের তথ্য",
+        "kicker_bn": "নতুন নিয়ম",
+        "share_value": true,
+        "question_bn": "উপবৃত্তি আবেদনের নতুন এই নিয়ম সম্পর্কে আপনার অভিজ্ঞতা কেমন?"
       },
-      "desk_importance": 5.0,
+      "desk_importance": 6.0,
       "outlet_count": 1,
-      "trending": true,
-      "social_appeal": 6.0,
+      "trending": false,
+      "social_appeal": 7.0,
       "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-25T23:38:55.477203+00:00"
+        "status": "unchecked",
+        "checked_at": "2026-11-26T00:01:35.941432+00:00"
       }
     }
   ]
