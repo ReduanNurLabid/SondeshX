@@ -1,150 +1,470 @@
 {
-  "updated_at": "2026-11-26T05:00:52.741699",
-  "total_stories": 2,
+  "updated_at": "2026-11-26T06:00:49.317775",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "6653bcf2-a0c2-56ee-92cc-0a86c8170fad",
-      "primary_category": "society_education",
+      "story_id": "0cbe95fc-ee95-5a26-9417-0032ae9c24ac",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "society_education",
+        "economy_business",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#DhakaUniversity",
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#Savar",
+        "#Ashulia",
+        "#WageBoard",
+        "#RMG"
       ],
-      "image_url": "https://images.unsplash.com/photo-1648201158624-7141d2bb44e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGhha2ElMjB1bml2ZXJzaXR5JTIwdGFrZXMlMjBhZG1pbmlzdHJhdGl2ZSUyMGVkdWNhdGlvbnxlbnwxfDB8fHwxNzk1NjY5Mjk4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/14/untitled-1.jpg",
       "image_caption": null,
-      "published_at": "2026-11-26T04:18:00+00:00",
+      "published_at": "2026-11-26T03:50:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.4531,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/education/425784/du-takes-administrative-action-against-six",
-          "title": "DU takes administrative action against six teachers, including former VC",
-          "snippet": "DU takes administrative action against six teachers, including former VC"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ঢাকা বিশ্ববিদ্যালয় ছয় শিক্ষকের বিরুদ্ধে প্রশাসনিক ব্যবস্থা নিয়েছে।",
-        "title_en": "Dhaka University takes administrative action against six teachers.",
-        "summary_bn": "ঢাকা বিশ্ববিদ্যালয় সাবেক উপাচার্যসহ ছয় শিক্ষকের বিরুদ্ধে প্রশাসনিক ব্যবস্থা গ্রহণ করেছে।",
-        "summary_en": "Dhaka University has taken administrative action against six teachers, including a former VC.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-26T04:18:00+00:00",
-        "lead_bn": "ঢাকা বিশ্ববিদ্যালয় সাবেক উপাচার্যসহ ছয় শিক্ষকের বিরুদ্ধে প্রশাসনিক ব্যবস্থা গ্রহণ করেছে।",
-        "lead_en": "Dhaka University has taken administrative action against six teachers, including a former VC.",
-        "bullets_bn": [
-          "বিশ্ববিদ্যালয় সূত্র এই প্রশাসনিক ব্যবস্থা গ্রহণের তথ্য জানিয়েছে।",
-          "অভিযোগগুলো তদন্তের জন্য একটি ফ্যাক্ট-ফাইন্ডিং কমিটি গঠন করা হয়েছে।",
-          "তদন্ত কমিটির মাধ্যমে সংশ্লিষ্ট অভিযোগগুলোর বিষয়ে কাজ করা হচ্ছে।"
-        ],
-        "bullets_en": [
-          "University sources confirmed that administrative action has been taken.",
-          "A fact-finding committee has been formed to investigate the allegations.",
-          "The committee is looking into the allegations brought against the individuals."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বিশ্ববিদ্যালয় সূত্রে জানা গেছে, অভিযোগগুলো তদন্ত করার জন্য একটি ফ্যাক্ট-ফাইন্ডিং কমিটি গঠন করা হয়েছিল।",
-        "details_en": "University sources said a fact-finding committee had been formed to investigate the allegations.",
-        "hook_bn": "ঢাকা বিশ্ববিদ্যালয়ে ছয় শিক্ষকের বিরুদ্ধে ব্যবস্থা",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": "বিশ্ববিদ্যালয় প্রশাসনের এই পদক্ষেপ সম্পর্কে আপনার মতামত কী?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-26T05:01:57.230532+00:00"
-      }
-    },
-    {
-      "story_id": "586a97b1-94d6-5b86-a721-c18d47e6b3d2",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#AsianDevelopmentBank",
-        "#WaterSupply",
-        "#Sanitation",
-        "#Bangladesh"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/26/adb_16x9.png",
-      "image_caption": null,
-      "published_at": "2026-11-26T03:35:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.5366,
+      "importance_score": 8.75,
+      "rank_score": 6.7473,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/adb-approves-150m-loan-improve-water-sanitation-services-8-towns-1614291",
-          "title": "ADB approves $150m loan to improve water, sanitation services in 8 towns",
-          "snippet": "ADB approves $150m loan to improve water, sanitation services in 8 towns"
+          "url": "https://www.tbsnews.net/bangladesh/labour-unrest-persists-despite-new-wage-announcement-workers-halt-production-1614301",
+          "title": "Labour unrest persists despite new wage announcement; workers halt production",
+          "snippet": "Labour unrest persists despite new wage announcement; workers halt production"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425786/police-disperse-garment-workers-attempting-to",
+          "title": "Police disperse garment workers attempting to block highway in Gazipur",
+          "snippet": "Police disperse garment workers attempting to block highway in Gazipur"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/gazipur-garment-workers-protest-continues/",
+          "title": "মজুরি বাড়িয়েও থামেনি শ্রমিক অসন্তোষ, গাজীপুরে শ্রমিক-পুলিশ সংঘর্ষ",
+          "snippet": "মজুরি বাড়িয়েও থামেনি শ্রমিক অসন্তোষ, গাজীপুরে শ্রমিক-পুলিশ সংঘর্ষ"
         },
         {
           "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/economy/500950",
-          "title": "৮ শহরে নিরাপদ পানি ও স্যানিটেশনে ১৫ কোটি ডলার ঋণ অনুমোদন এডিবির",
-          "snippet": "৮ শহরে নিরাপদ পানি ও স্যানিটেশনে ১৫ কোটি ডলার ঋণ অনুমোদন এডিবির"
+          "url": "https://www.dhakapost.com/national/500967",
+          "title": "বিনা খরচে আজ মালয়েশিয়া যাচ্ছেন ১১২ কর্মী, বিদায় জানাবেন প্রধানমন্ত্রী",
+          "snippet": "বিনা খরচে আজ মালয়েশিয়া যাচ্ছেন ১১২ কর্মী, বিদায় জানাবেন প্রধানমন্ত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আট শহরে পানি ও স্যানিটেশন উন্নয়নে ১৫ কোটি ডলার ঋণ অনুমোদন এডিবির",
-        "title_en": "ADB approves $150m loan to improve water and sanitation in eight towns",
-        "summary_bn": "এশীয় উন্নয়ন ব্যাংক বাংলাদেশের আটটি শহরে নিরাপদ ও জলবায়ু সহনশীল পানি সরবরাহ এবং স্যানিটেশন সেবা বাড়াতে ১৫ কোটি ডলার ঋণ অনুমোদন করেছে।",
-        "summary_en": "The Asian Development Bank approved a $150 million loan to expand water supply and sanitation services in eight towns in Bangladesh.",
+        "title_bn": "নতুন মজুরি ঘোষণার পরও সাভার ও আশুলিয়ায় শ্রমিক অসন্তোষ অব্যাহত রয়েছে।",
+        "title_en": "Labour unrest persists in Savar and Ashulia despite the new wage announcement.",
+        "summary_bn": "নতুন ন্যূনতম মজুরি ঘোষণার পরও সাভার ও আশুলিয়ায় শ্রমিক অসন্তোষ অব্যাহত রয়েছে এবং বেশ কিছু কারখানার শ্রমিকরা কাজ বন্ধ রেখেছেন।",
+        "summary_en": "Labour unrest continues in Savar and Ashulia despite the new minimum wage announcement, with workers at several factories halting work.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business"
+          "economy_business",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T03:35:00+00:00",
-        "lead_bn": "এশীয় উন্নয়ন ব্যাংক বাংলাদেশের আটটি শহরে নিরাপদ ও জলবায়ু সহনশীল পানি সরবরাহ এবং স্যানিটেশন সেবা বাড়াতে ১৫ কোটি ডলার ঋণ অনুমোদন করেছে।",
-        "lead_en": "The Asian Development Bank approved a $150 million loan to expand water supply and sanitation services in eight towns in Bangladesh.",
+        "published_at": "2026-11-26T03:50:00+00:00",
+        "lead_bn": "নতুন ন্যূনতম মজুরি ঘোষণার পরও সাভার ও আশুলিয়ায় শ্রমিক অসন্তোষ অব্যাহত রয়েছে এবং বেশ কিছু কারখানার শ্রমিকরা কাজ বন্ধ রেখেছেন।",
+        "lead_en": "Labour unrest continues in Savar and Ashulia despite the new minimum wage announcement, with workers at several factories halting work.",
         "bullets_bn": [
-          "ক্লাস্টার টাউনস ওয়াটার সাপ্লাই অ্যান্ড স্যানিটেশন প্রজেক্টের মাধ্যমে প্রায় নয় লাখ মানুষ উপকৃত হবে।",
-          "প্রকল্পটি বাস্তবায়নে প্রায় ১,৭৯০ কিলোমিটার পানি বিতরণ নেটওয়ার্ক নির্মাণ এবং স্মার্ট মিটারসহ ৬৫,০০০ সংযোগ স্থাপন বা পুনর্বাসন করা হবে।",
-          "এশীয় উন্নয়ন ব্যাংকের বাংলাদেশ কাউন্টি ডিরেক্টর কিংফেং ঝাং বলেন, নির্ভরযোগ্য পানি ও স্যানিটেশন সেবা জনস্বাস্থ্য এবং মানব মর্যাদার জন্য মৌলিক।"
+          "প্রত্যাশার সঙ্গে নতুন মজুরির ব্যবধান থাকায় শ্রমিকরা কাজ বন্ধ রাখেন।",
+          "শিল্প পুলিশের সুপারিনটেনডেন্ট মোহাম্মদ মমিনুল ইসলাম ভূঁইয়া জানান যে সকাল নয়টার দিকে সাতটি কারখানার শ্রমিকরা কাজ বন্ধ রেখেছিলেন।",
+          "আইনশৃঙ্খলা রক্ষাকারী বাহিনী পরিস্থিতি আরও অবনতি হওয়া রোধ করতে সতর্ক অবস্থানে রয়েছে।"
         ],
         "bullets_en": [
-          "The Cluster Towns Water Supply and Sanitation Project is expected to benefit around 900,000 people.",
-          "It will construct around 1,790 kilometres of water distribution networks and install or rehabilitate 65,000 household connections with smart meters.",
-          "ADB Country Director for Bangladesh Qingfeng Zhang said reliable water and sanitation services are fundamental to public health and human dignity."
+          "Workers stopped work citing a gap between their expectations and the newly announced wages.",
+          "Industrial Police Superintendent Mohammad Mominul Islam Bhuiyan said workers at seven factories had been observing work stoppages since the morning.",
+          "Law enforcement personnel remained on alert to prevent further escalation of the situation."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "শ্রমিক অসন্তোষের কারণে এর আগে শ্রম আইনের ১৩(১) ধারায় বন্ধ ঘোষিত ২২টি কারখানা আজও বন্ধ রয়েছে। এছাড়া গাজীপুরে ৩০ হাজার টাকা ন্যূনতম মজুরির দাবিতে চলমান আন্দোলনের মধ্যে মহাসড়ক অবরোধের চেষ্টা করেন শ্রমিকরা এবং গাজীপুরে ৫০টি কারখানায় সাধারণ ছুটি ও ৩৫টি কারখানা অনির্দিষ্টকালের জন্য বন্ধ ঘোষণা করা হয়।",
+        "details_en": "Twenty-two factories previously declared closed under Section 13(1) of the Labour Act amid the ongoing unrest remained shut. Meanwhile, workers attempted to block a highway in Gazipur amid a movement demanding a minimum wage of 30000 taka, where general leave was declared in 50 factories and 35 factories were shut indefinitely.",
+        "hook_bn": "মজুরি ঘোষণাতেও থামেনি সাভার-আশুলিয়ার শ্রমিক অসন্তোষ",
+        "kicker_bn": "শ্রমিক অসন্তোষ",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 8.0,
+      "outlet_count": 4,
+      "trending": false,
+      "social_appeal": 9.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-26T06:01:45.914456+00:00"
+      }
+    },
+    {
+      "story_id": "35f21ae5-8f0d-5912-bdcb-476dfbf0e602",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-26%2Fwjdcnc45%2FLabour.PNG?rect=0%2C28%2C798%2C419&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-26T05:07:41+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 8.25,
+      "rank_score": 6.464,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/business/npkaf2dxod",
+          "title": "পোশাকশ্রমিকদের মজুরি বাড়ছে ৪৫০০ থেকে ৬৪৬৫ টাকা",
+          "snippet": "পোশাকশ্রমিকদের মজুরি বাড়ছে ৪৫০০ থেকে ৬৪৬৫ টাকা"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/rmg-wage-board-to-finalise-draft-gazette-on-tk-17000-minimum-wage",
+          "title": "RMG wage board to finalise draft gazette on Tk 17,000 minimum wage",
+          "snippet": "RMG wage board to finalise draft gazette on Tk 17,000 minimum wage"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পোশাকশ্রমিকদের ন্যূনতম মজুরি ১৭ হাজার টাকা নির্ধারণের প্রস্তাব গৃহীত",
+        "title_en": "Proposal for Tk 17,000 minimum wage for garment workers accepted",
+        "summary_bn": "তৈরি পোশাকশ্রমিকদের নতুন মজুরিকাঠামোতে নিম্নতম মজুরি ১৭ হাজার টাকা নির্ধারণের প্রস্তাব সংখ্যাগরিষ্ঠের ভোটে গৃহীত হয়েছে।",
+        "summary_en": "The proposal to set the minimum wage at Tk 17,000 in the new RMG wage structure has been adopted by majority vote.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-26T05:07:41+00:00",
+        "lead_bn": "তৈরি পোশাকশ্রমিকদের নতুন মজুরিকাঠামোতে নিম্নতম মজুরি ১৭ হাজার টাকা নির্ধারণের প্রস্তাব সংখ্যাগরিষ্ঠের ভোটে গৃহীত হয়েছে।",
+        "lead_en": "The proposal to set the minimum wage at Tk 17,000 in the new RMG wage structure has been adopted by majority vote.",
+        "bullets_bn": [
+          "মজুরি বোর্ড জানিয়েছে, প্রজ্ঞাপন যখনই হোক না কেন, ১ ডিসেম্বর থেকে নতুন মজুরিকাঠামো বাস্তবায়ন হবে।",
+          "নতুন মজুরিকাঠামোতে গ্রেড ভেদে মজুরি বাড়ছে ৩৬ থেকে ৪৩ শতাংশ এবং ২০২৩ সালের তুলনায় এই বৃদ্ধি সাড়ে ৪ হাজার থেকে ৬ হাজার ৪৬৫ টাকা।",
+          "শ্রমিকদের মূল বেতন ও বিভিন্ন ভাতা নির্ধারণ করতে মজুরি বোর্ডের পঞ্চম সভা অনুষ্ঠিত হবে।"
+        ],
+        "bullets_en": [
+          "The wage board stated that the new wage structure will be implemented from 1 December regardless of when the gazette is issued.",
+          "Wages will increase by 36 to 43 percent depending on grades, which is an increase of Tk 4,500 to Tk 6,465 compared to 2023.",
+          "The fifth meeting of the wage board will be held to determine workers basic pay and various allowances."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মজুরি বোর্ড গঠনের ২৫ দিনের মাথায় নিম্নতম মজুরি ১৭ হাজার টাকা নির্ধারণের বিষয়ে সিদ্ধান্ত হয়। প্রথম তিন গ্রেডের মজুরি নিয়ে সমঝোতা হলেও চতুর্থ বা সর্বনিম্ন গ্রেডের মজুরি নিয়ে সমঝোতা না হওয়ায় ভোটাভুটি হয়। বোর্ডের ছয়জন সদস্যের মধ্যে চারজন ১৭ হাজার টাকার পক্ষে ভোট দেন।",
+        "details_en": "The decision to set the minimum wage at Tk 17,000 was reached 25 days after the formation of the wage board. While agreement was reached on the first three grades, voting took place as there was no consensus on the fourth or lowest grade. Four out of six board members voted in favour of Tk 17,000.",
+        "hook_bn": "শ্রমিকদের নিম্নতম মজুরি ১৭ হাজার টাকা প্রস্তাব",
+        "kicker_bn": "নতুন মজুরি",
+        "share_value": true,
+        "question_bn": "পোশাকশ্রমিকদের এই নতুন মজুরি কাঠামো নিয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 8.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 9.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-26T06:01:45.914456+00:00"
+      }
+    },
+    {
+      "story_id": "a9c38c32-4a20-5984-8248-ff0e0456b2b5",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#AnwarulAzimAnar",
+        "#MuntarinFerdousDorin",
+        "#DetectiveBranch",
+        "#Dhaka"
+      ],
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Dorin_AnarMPDaughter.PNG",
+      "image_caption": null,
+      "published_at": "2026-11-26T05:45:57+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.25,
+      "rank_score": 5.1793,
+      "sources": [
+        {
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/ex-mp-anars-daughter-dorin-held-dhaka-4333671",
+          "title": "Ex-MP Anar’s daughter Dorin held in Dhaka",
+          "snippet": "Ex-MP Anar’s daughter Dorin held in Dhaka"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/anar-daughter-dorin-arrested/",
+          "title": "ভারতে নিহত সাবেক সংসদ সদস্য আনারের মেয়ে ডরিন গ্রেপ্তার",
+          "snippet": "ভারতে নিহত সাবেক সংসদ সদস্য আনারের মেয়ে ডরিন গ্রেপ্তার"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/law-and-crime/983328/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%86.%E0%A6%B2%E0%A7%80%E0%A6%97-%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A7%9F%E0%A7%87-%E0%A6%A1%E0%A6%B0%E0%A6%BF%E0%A6%A8-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0",
+          "title": "ভারতে হত্যার শিকার আ.লীগ এমপির মেয়ে ডরিন গ্রেফতার",
+          "snippet": "ভারতে হত্যার শিকার আ.লীগ এমপির মেয়ে ডরিন গ্রেফতার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সাবেক এমপি আনারের মেয়ে ডরিন ঢাকায় গ্রেপ্তার",
+        "title_en": "Ex-MP Anar’s daughter Dorin held in Dhaka",
+        "summary_bn": "ঢাকা মহানগর গোয়েন্দা পুলিশ সাবেক সংসদ সদস্য আনোয়ারুল আজীম আনারের মেয়ে মুনতারিন ফেরদৌস ডরিনকে গ্রেপ্তার করেছে।",
+        "summary_en": "The Detective Branch of Dhaka Metropolitan Police has detained Muntarin Ferdous Dorin, daughter of former lawmaker Anwarul Azim Anar.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-26T05:45:57+00:00",
+        "lead_bn": "ঢাকা মহানগর গোয়েন্দা পুলিশ সাবেক সংসদ সদস্য আনোয়ারুল আজীম আনারের মেয়ে মুনতারিন ফেরদৌস ডরিনকে গ্রেপ্তার করেছে।",
+        "lead_en": "The Detective Branch of Dhaka Metropolitan Police has detained Muntarin Ferdous Dorin, daughter of former lawmaker Anwarul Azim Anar.",
+        "bullets_bn": [
+          "ডিএমপির ওয়ারী গোয়েন্দা বিভাগের একটি দল মোহাম্মদপুর থানার লালমাটিয়া এলাকা থেকে তাকে গ্রেপ্তার করে।",
+          "গ্রেপ্তার মুনতারিন ফেরদৌস ডরিনের বয়স ২৪ বছর এবং তিনি ঝিনাইদহ-৪ আসনের প্রয়াত সংসদ সদস্যের মেয়ে।",
+          "তার বিরুদ্ধে পরবর্তী আইনি কার্যক্রম প্রক্রিয়াধীন রয়েছে বলে জানিয়েছে পুলিশ।"
+        ],
+        "bullets_en": [
+          "A team of the DB's Wari Division detained her from the Lalmatia area under Mohammadpur Police Station.",
+          "Muntarin Ferdous Dorin is 24 years old and is the daughter of the late lawmaker for Jhenaidah-4.",
+          "Police stated that further legal proceedings against her were underway."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "আওয়ামী লীগের সাবেক সংসদ সদস্য আনোয়ারুল আজীম আনার গত ১২ মে ভারতে গিয়ে চিকিৎসকের কাছে যাওয়ার কথা বলে বাড়ি থেকে বের হয়ে নিখোঁজ হন। পরবর্তীতে গত ২২ মে ভারতীয় ও বাংলাদেশি পুলিশ জানায় যে ওই সংসদ সদস্যকে হত্যা করা হয়েছে। নিহত আনার ঝিনাইদহ-৪ আসনের সংসদ সদস্য এবং কালীগঞ্জ উপজেলা আওয়ামী লীগের সাবেক সভাপতি ছিলেন।",
+        "details_en": "Anwarul Azim Anar went to Kolkata on May 12, 2024, stayed overnight at a friend's house, and left the following day to visit a doctor. On May 22, Indian and Bangladeshi police announced that the lawmaker had been murdered. Anar represented Jhenaidah-4 in parliament and served as the former president of Kaliganj upazila Awami League.",
+        "hook_bn": "লালমাটিয়ায় সাবেক এমপি কন্যার গ্রেপ্তার",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-26T06:01:45.914456+00:00"
+      }
+    },
+    {
+      "story_id": "59077003-80a4-5580-ad6a-95f0f85a3270",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1676313496173-e3b325353087?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bWVkaWNhbCUyMGRlbnRhbCUyMGFkbWlzc2lvbiUyMHRlc3RzJTIwZWR1Y2F0aW9ufGVufDF8MHx8fDE3OTU2NzI4OTl8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-26T05:53:22+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.0,
+      "rank_score": 4.8628,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/education/news/1183871",
+          "title": "মেডিকেল-ডেন্টালে ভর্তি পরীক্ষা ১৮ ডিসেম্বর, মানবণ্টন যেভাবে",
+          "snippet": "মেডিকেল-ডেন্টালে ভর্তি পরীক্ষা ১৮ ডিসেম্বর, মানবণ্টন যেভাবে"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মেডিকেল ও ডেন্টাল কলেজে ভর্তি পরীক্ষা আগামী ১৮ ডিসেম্বর অনুষ্ঠিত হবে।",
+        "title_en": "Medical and dental admission tests will be held on December 18.",
+        "summary_bn": "দেশের সরকারি ও বেসরকারি মেডিকেল এবং ডেন্টাল কলেজে ২০২৬-২৭ শিক্ষাবর্ষে ভর্তি পরীক্ষা আগামী ১৮ ডিসেম্বর অনুষ্ঠিত হবে।",
+        "summary_en": "Admission tests for government and private medical and dental colleges for the 2026-27 academic session will be held on December 18.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-26T05:53:22+00:00",
+        "lead_bn": "দেশের সরকারি ও বেসরকারি মেডিকেল এবং ডেন্টাল কলেজে ২০২৬-২৭ শিক্ষাবর্ষে ভর্তি পরীক্ষা আগামী ১৮ ডিসেম্বর অনুষ্ঠিত হবে।",
+        "lead_en": "Admission tests for government and private medical and dental colleges for the 2026-27 academic session will be held on December 18.",
+        "bullets_bn": [
+          "ভর্তি পরীক্ষা আগামী ১৮ ডিসেম্বর অনুষ্ঠিত হবে।",
+          "পরীক্ষাটি ২০২৬-২৭ শিক্ষাবর্ষের জন্য নির্ধারিত হয়েছে।",
+          "একই সময়ে অভিন্ন প্রশ্নপত্রে এমবিবিএস পরীক্ষা হবে।"
+        ],
+        "bullets_en": [
+          "The admission test will be held on December 18.",
+          "The test has been scheduled for the 2026-27 academic session.",
+          "The MBBS examination will be held at the same time using identical question papers."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "'নির্ভরযোগ্য পানি ও স্যানিটেশন সেবা জনস্বাস্থ্য ও মানব মর্যাদার জন্য মৌলিক'",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": "আপনার এলাকায় পানি ও স্যানিটেশন ব্যবস্থার বর্তমান পরিস্থিতি কেমন?"
+        "hook_bn": "মেডিকেল ও ডেন্টাল ভর্তি পরীক্ষা ১৮ ডিসেম্বর",
+        "kicker_bn": "নতুন তারিখ",
+        "share_value": true,
+        "question_bn": "এই পরীক্ষার তারিখ পরিবর্তনের ফলে আপনার প্রস্তুতিতে কেমন প্রভাব পড়বে বলে মনে করেন?"
       },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
+      "desk_importance": 7.0,
+      "outlet_count": 1,
       "trending": false,
-      "social_appeal": 5.0,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-26T05:01:57.230532+00:00"
+        "checked_at": "2026-11-26T06:01:45.914456+00:00"
+      }
+    },
+    {
+      "story_id": "0edb4c1d-4337-51a0-baac-43c605caac90",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law",
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#Cairo",
+        "#Egypt",
+        "#Warraq"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/26/screenshot_2026-11-26_111445_0.png",
+      "image_caption": null,
+      "published_at": "2026-11-26T05:10:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.5,
+      "rank_score": 2.8793,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/worldbiz/africa/over-30-dead-after-fuel-truck-overturns-near-cairo-1614326",
+          "title": "Over 30 dead after fuel truck overturns near Cairo",
+          "snippet": "Over 30 dead after fuel truck overturns near Cairo"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কায়রোতে জ্বালানি ট্রাক উল্টে আগুন, নিহত ৩১",
+        "title_en": "Fuel truck overturns and catches fire near Cairo, killing 31",
+        "summary_bn": "মিশরের কায়রোতে একটি জ্বালানি ট্যাংকার উল্টে ভয়াবহ আগুন লাগার ঘটনায় ৩১ জন নিহত এবং ২১ জন আহত হয়েছেন।",
+        "summary_en": "A fuel tanker crash and massive fire on a highway in Cairo, Egypt, has killed 31 people and injured 21 others.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-26T05:10:00+00:00",
+        "lead_bn": "মিশরের কায়রোতে একটি জ্বালানি ট্যাংকার উল্টে ভয়াবহ আগুন লাগার ঘটনায় ৩১ জন নিহত এবং ২১ জন আহত হয়েছেন।",
+        "lead_en": "A fuel tanker crash and massive fire on a highway in Cairo, Egypt, has killed 31 people and injured 21 others.",
+        "bullets_bn": [
+          "দুর্ঘটনাটি ২৫ নভেম্বর সন্ধ্যায় উত্তর কায়রোর ওয়ারাক এলাকার রিং রোডের একটি অংশে ঘটে।",
+          "স্বাস্থ্য মন্ত্রণালয়ের তথ্য অনুযায়ী, এই দুর্ঘটনায় ২১ জন আহত হয়েছেন।",
+          "নিকটবর্তী হাসপাতালগুলোতে দগ্ধ এবং ধোঁয়ায় অসুস্থ ব্যক্তিদের চিকিৎসা দেওয়া হয়েছে বলে জানিয়েছে বিবিসি।"
+        ],
+        "bullets_en": [
+          "The incident occurred on 25 November in the Warraq neighbourhood, north of the old city centre.",
+          "The countrys health ministry reported that 21 people were injured in the incident.",
+          "Nearby hospitals treated people suffering from burns and smoke inhalation, according to BBC reports."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "আল-আহরামের প্রতিবেদন অনুযায়ী, একটি বেসরকারি ঠিকাদারের ট্যাংকারটি চলাচলের সময় সামনে একটি উচ্চ ভোল্টেজের তার পড়ে গেলে চালক নিয়ন্ত্রণ হারিয়ে ফেলেন। এরপর ট্যাংকারটি কেন্দ্রীয় বিভাজক পার হয়ে উল্টে যায় এবং পেট্রোল ছড়িয়ে পড়ে আগুন ধরে যায়। আঞ্চলিক সরকারি কৌসুলী এই ঘটনার তদন্ত শুরু করেছেন এবং মৃতদের শরীর থেকে ডিএনএ নমুনা সংগ্রহের নির্দেশ দিয়েছেন।",
+        "details_en": "According to Al-Ahram, citing sources familiar with the investigation, a high-voltage cable fell in front of the private contractor's tanker, causing the driver to lose control. The tanker crossed the central reservation, overturned and caught fire, spilling petrol onto nearby vehicles. The regional public prosecutor launched an investigation and ordered DNA samples collected from the deceased.",
+        "hook_bn": "কায়রোতে জ্বালানি ট্রাকে আগুন, নিহত ৩১",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-26T06:01:45.914456+00:00"
+      }
+    },
+    {
+      "story_id": "f169cad0-8247-5627-aa43-8ec8ed844eb5",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1722871513403-1a56a543390a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFuZ2xhZGVzaGklMjBwYXJsaWFtZW50YXJ5JTIwZGVsZWdhdGlvbiUyMG1lZXRzJTIwZGlwbG9tYWN5fGVufDF8MHx8fDE3OTU2NzI5MDV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-26T05:03:55+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.5,
+      "rank_score": 2.8625,
+      "sources": [
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/823059/%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A6%A6%E0%A7%80%E0%A7%9F",
+          "title": "পাকিস্তানের প্রধানমন্ত্রীর সঙ্গে বাংলাদেশি সংসদীয় প্রতিনিধিদলের সাক্ষাৎ",
+          "snippet": "পাকিস্তানের প্রধানমন্ত্রীর সঙ্গে বাংলাদেশি সংসদীয় প্রতিনিধিদলের সাক্ষাৎ"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1183865",
+          "title": "স্পিকারের সম্মানে পাকিস্তানের প্রধানমন্ত্রীর নৈশভোজ",
+          "snippet": "স্পিকারের সম্মানে পাকিস্তানের প্রধানমন্ত্রীর নৈশভোজ"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/national/500969",
+          "title": "পাকিস্তানের রাষ্ট্রপতির সঙ্গে বাংলাদেশের স্পিকারের সাক্ষাৎ",
+          "snippet": "পাকিস্তানের রাষ্ট্রপতির সঙ্গে বাংলাদেশের স্পিকারের সাক্ষাৎ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পাকিস্তানের প্রধানমন্ত্রীর সঙ্গে বাংলাদেশি সংসদীয় প্রতিনিধিদলের সাক্ষাৎ",
+        "title_en": "Bangladeshi parliamentary delegation meets Pakistan prime minister",
+        "summary_bn": "পাকিস্তানের প্রধানমন্ত্রী মুহাম্মদ শাহবাজ শরিফের সঙ্গে সাক্ষাৎ করেছেন সফররত বাংলাদেশি সংসদীয় প্রতিনিধিদলের সদস্যরা।",
+        "summary_en": "Visiting members of the Bangladeshi parliamentary delegation met Pakistan Prime Minister Muhammad Shehbaz Sharif.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-26T05:03:55+00:00",
+        "lead_bn": "পাকিস্তানের প্রধানমন্ত্রী মুহাম্মদ শাহবাজ শরিফের সঙ্গে সাক্ষাৎ করেছেন সফররত বাংলাদেশি সংসদীয় প্রতিনিধিদলের সদস্যরা।",
+        "lead_en": "Visiting members of the Bangladeshi parliamentary delegation met Pakistan Prime Minister Muhammad Shehbaz Sharif.",
+        "bullets_bn": [
+          "বাংলাদেশ জাতীয় সংসদের স্পিকার হাফিজ উদ্দিন আহমদের সম্মানে নৈশভোজের আয়োজন করেছেন পাকিস্তানের প্রধানমন্ত্রী শাহবাজ শরিফ।",
+          "প্রধানমন্ত্রীর বাসভবনে আয়োজিত এ নৈশভোজে অংশ নেন সফররত বাংলাদেশি সংসদীয় প্রতিনিধিদলের সদস্যরা।",
+          "বাংলাদেশ জাতীয় সংসদের স্পিকার মেজর (অব.) হাফিজ উদ্দিন আহমদ বীর বিক্রম পাকিস্তানের রাষ্ট্রপতি আসিফ আলী জারদারির সঙ্গে সৌজন্য সাক্ষাৎ করেছেন।"
+        ],
+        "bullets_en": [
+          "Pakistan Prime Minister Shehbaz Sharif hosted a dinner in honor of Bangladesh National Parliament Speaker Hafiz Uddin Ahmed.",
+          "The visiting members of the Bangladeshi parliamentary delegation participated in this dinner held at the prime minister's residence.",
+          "Bangladesh National Parliament Speaker Major (Retd) Hafiz Uddin Ahmed Bir Bikrom made a courtesy call on Pakistan President Asif Ali Zardari."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বাংলাদেশ সংসদীয় প্রতিনিধিদলের সদস্যদের মধ্যে রয়েছেন স্পিকার হাফিজ উদ্দিন আহমদ বীর বিক্রম, সংসদ সদস্য নাসের রহমান, জহরত আদিব চৌধুরী, হুম্মাম কাদের চৌধুরী, মোহাম্মদ নাজিবুর। দিবাগত রাতে পাকিস্তান সরকারের প্রকাশিত কয়েকটি ছবিতে এ সাক্ষাতের বিষয়টি সামনে আসে।",
+        "details_en": "Members of the Bangladesh parliamentary delegation include Speaker Hafiz Uddin Ahmed Bir Bikrom, Members of Parliament Nasser Rahman, Zohrat Adib Chowdhury, Hummam Quader Chowdhury, Mohammad Najibur. This meeting came to light through several photos published by the government of Pakistan on Wednesday night.",
+        "hook_bn": "পাকিস্তানের প্রধানমন্ত্রীর সঙ্গে বাংলাদেশি প্রতিনিধিদলের সাক্ষাৎ",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-26T06:01:45.914456+00:00"
       }
     }
   ]
