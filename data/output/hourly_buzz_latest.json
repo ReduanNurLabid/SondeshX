@@ -1,72 +1,148 @@
 {
-  "updated_at": "2026-11-26T01:00:54.204703",
-  "total_stories": 1,
+  "updated_at": "2026-11-26T02:00:48.498225",
+  "total_stories": 2,
   "stories": [
     {
-      "story_id": "2ce25a3d-9b34-5a1b-adf6-5bf7f97ea3b2",
-      "primary_category": "governance_law",
+      "story_id": "d5dd105c-ceb8-53ae-a9b5-8f331320191d",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "governance_law"
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-25%2F7vapv8ox%2Fbbaria-border-1.jpg?rect=0%2C60%2C1599%2C839&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://images.unsplash.com/photo-1635322039158-cdb4e239854e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8d2FnZSUyMGJvYXJkJTIwc2V0cyUyMG1pbmltdW0lMjBidXNpbmVzc3xlbnwxfDB8fHwxNzk1NjU4NDg1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-25T13:52:11+00:00",
+      "published_at": "2026-11-26T01:00:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 1.5779,
+      "importance_score": 9.5,
+      "rank_score": 8.5077,
       "sources": [
         {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/bangladesh/district/n7gh72d605",
-          "title": "নানক–নাছিমদের আগরতলা আসার খবরে আখাউড়া স্থলবন্দরে বিএনপির বিক্ষোভ",
-          "snippet": "নানক–নাছিমদের আগরতলা আসার খবরে আখাউড়া স্থলবন্দরে বিএনপির বিক্ষোভ"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/823025/%E0%A6%AA%E0%A7%8B%E0%A6%B6%E0%A6%BE%E0%A6%95%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%9C%E0%A7%81%E0%A6%B0%E0%A6%BF-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%B2%C2%A0%E0%A7%A9%E0%A7%AC-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A7%AA%E0%A7%A9-%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%82%E0%A6%B6",
+          "title": "পোশাকশ্রমিকদের মজুরি বাড়ল ৩৬ থেকে ৪৩ শতাংশ পর্যন্ত: কোন গ্রেডে কত",
+          "snippet": "পোশাকশ্রমিকদের মজুরি বাড়ল ৩৬ থেকে ৪৩ শতাংশ পর্যন্ত: কোন গ্রেডে কত"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আগরতলায় নানক ও নাছিমের অবস্থানের খবরে আখাউড়ায় বিএনপির বিক্ষোভ",
-        "title_en": "BNP protests in Akhaura over reports of Nanak and Nasim in Agartala",
-        "summary_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতা জাহাঙ্গীর কবির নানক ও বাহাউদ্দিন নাছিম আগরতলায় অবস্থান করছেন—এমন খবর ছড়িয়ে পড়ার পর ব্রাহ্মণবাড়িয়ার আখাউড়া স্থলবন্দর এলাকায় বিক্ষোভ করেছেন বিএনপির নেতা-কর্মীরা।",
-        "summary_en": "BNP leaders and activists staged protests in the Akhaura land port area of Brahmanbaria following reports that banned Awami League leaders Jahangir Kabir Nanak and Bahauddin Nasim are staying in Agartala.",
+        "title_bn": "পোশাকশ্রমিকদের ন্যূনতম মজুরি ১৭ হাজার টাকা নির্ধারণ করল মজুরি বোর্ড।",
+        "title_en": "Wage board sets minimum wage for garment workers at 17,000 taka.",
+        "summary_bn": "দীর্ঘ আলোচনা ও দরকষাকষির পরে নিম্নতম মজুরি বোর্ড পোশাকশ্রমিকদের ন্যূনতম মজুরি ১৭ হাজার টাকা নির্ধারণ করেছে।",
+        "summary_en": "Following lengthy discussions and bargaining, the minimum wage board has set the minimum wage for garment workers at 17,000 taka.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-25T13:52:11+00:00",
-        "lead_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতা জাহাঙ্গীর কবির নানক ও বাহাউদ্দিন নাছিম আগরতলায় অবস্থান করছেন—এমন খবর ছড়িয়ে পড়ার পর ব্রাহ্মণবাড়িয়ার আখাউড়া স্থলবন্দর এলাকায় বিক্ষোভ করেছেন বিএনপির নেতা-কর্মীরা।",
-        "lead_en": "BNP leaders and activists staged protests in the Akhaura land port area of Brahmanbaria following reports that banned Awami League leaders Jahangir Kabir Nanak and Bahauddin Nasim are staying in Agartala.",
+        "published_at": "2026-11-26T01:00:00+00:00",
+        "lead_bn": "দীর্ঘ আলোচনা ও দরকষাকষির পরে নিম্নতম মজুরি বোর্ড পোশাকশ্রমিকদের ন্যূনতম মজুরি ১৭ হাজার টাকা নির্ধারণ করেছে।",
+        "lead_en": "Following lengthy discussions and bargaining, the minimum wage board has set the minimum wage for garment workers at 17,000 taka.",
         "bullets_bn": [
-          "সামাজিক যোগাযোগমাধ্যমে জাহাঙ্গীর কবির, মোফাজ্জল হোসেন চৌধুরী মায়া, বাহাউদ্দিন নাছিম ও আলাউদ্দিন চৌধুরীর আগরতলা বিমানবন্দরে আসার একাধিক ভিডিও ছড়িয়ে পড়ে।",
-          "আখাউড়া উপজেলা বিএনপি ও অঙ্গসংগঠনের নেতা-কর্মীরা আন্তর্জাতিক ইমিগ্রেশন পুলিশ চেকপোস্ট এলাকায় বিজিবির বিওপি ক্যাম্পের ফটকের সামনে বিক্ষোভ ও স্লোগান দেন।",
-          "ব্রাহ্মণবাড়িয়া জেলা বিএনপির সাধারণ সম্পাদক সিরাজুল ইসলাম জানান, জাহাঙ্গীর কবির নানকের নেতৃত্বে একটি দল নাশকতা করার জন্য সীমান্ত দিয়ে প্রবেশের চেষ্টা করছে।"
+          "পোশাকশ্রমিকদের মজুরি ৩৬ থেকে ৪৩ শতাংশ পর্যন্ত বাড়ানো হয়েছে।",
+          "দীর্ঘ আলোচনা এবং দরকষাকষির পর মজুরি বোর্ডের চতুর্থ সভায় এই সিদ্ধান্ত হয়।",
+          "এ সংক্রান্ত প্রজ্ঞাপন শিগিগরই জারি করা হবে।"
         ],
         "bullets_en": [
-          "Multiple videos circulated on social media showing Jahangir Kabir, Mofazzal Hossain Chowdhury Maya, Bahauddin Nasim, and Alauddin Chowdhury arriving at Agartala airport.",
-          "Leaders and activists of Akhaura upazila BNP and associated organizations protested and chanted slogans in front of the BGB BOP camp gate near the international immigration police checkpost.",
-          "Brahmanbaria district BNP general secretary Sirajul Islam stated that a group led by Jahangir Kabir Nanak is attempting to enter through the border to commit sabotage."
+          "Wages for garment workers have been increased by 36 to 43 percent.",
+          "The decision was reached at the fourth meeting of the wage board after lengthy discussions and bargaining.",
+          "A gazette notification in this regard will be issued soon."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "জেলা বিএনপির দপ্তর সম্পাদক সামসুজ্জামান চৌধুরী স্বাক্ষরিত বিজ্ঞপ্তিতে জানানো হয়, জাহাঙ্গীর কবির নানক আগরতলা বিমানবন্দরের কাছাকাছি অবস্থান করে দেশের ভেতরে ষড়যন্ত্রমূলকভাবে অস্থিতিশীলতা সৃষ্টির অপচেষ্টা চালাচ্ছেন। এর পরিপ্রেক্ষিতে কসবা, আখাউড়া ও বিজয়নগর থানার নেতা-কর্মীদের সংগঠিত ও সতর্ক অবস্থায় থাকার নির্দেশ দেওয়া হয়েছে।",
-        "details_en": "A press release signed by district BNP office secretary Shamsuzzaman Chowdhury stated that Jahangir Kabir Nanak is staying near Agartala airport and attempting to create instability inside the country through conspiracy. In response, leaders and activists in Kasba, Akhaura, and Bijoynagar upazilas were instructed to remain organized and alert.",
-        "hook_bn": "'ফ্যাসিস্টদের কাউকে এই দেশে প্রবেশ করতে দেওয়া হবে না'",
-        "kicker_bn": "সতর্কতা",
+        "details_bn": "নিম্নতম মজুরি বোর্ডের চতুর্থ সভা শুরু হওয়ার পর প্রায় ১০ ঘণ্টা ধরে আলোচনা চলে। এর পরে তিনটি গ্রেডের মজুরি সর্বসম্মতিক্রমে নির্ধারণ করা হয়। তবে বোর্ড সদস্যদের ভোটাভুটিতে ন্যূনতম গ্রেডের মজুরি ১৭ হাজার টাকা নির্ধারণ হয়। এক্ষেত্রে মজুরি বেড়েছে ৪ হাজার ৫০০ টাকা।",
+        "details_en": "Discussions continued for nearly 10 hours after the fourth meeting of the minimum wage board began. Subsequently, wages for three grades were determined unanimously. However, the wage for the minimum grade was set at 17,000 taka through voting by board members. In this case, the wage increased by 4,500 taka.",
+        "hook_bn": "পোশাকশ্রমিকদের ন্যূনতম মজুরি ১৭ হাজার টাকা",
+        "kicker_bn": null,
         "share_value": true,
-        "question_bn": null
+        "question_bn": "পোশাকশ্রমিকদের নতুন এই মজুরি কাঠামো নিয়ে আপনার মতামত কী?"
       },
-      "desk_importance": 5.0,
+      "desk_importance": 9.0,
       "outlet_count": 1,
       "trending": true,
-      "social_appeal": 6.0,
+      "social_appeal": 10.0,
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-26T01:08:51.402055+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-26T02:01:45.245257+00:00"
+      }
+    },
+    {
+      "story_id": "ece7034c-5e84-5574-a04d-26ea7431a663",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#UnitedStates",
+        "#Brazil",
+        "#Embraer"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/26/img_7718.jpeg",
+      "image_caption": null,
+      "published_at": "2026-11-26T01:40:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 8.75,
+      "rank_score": 7.5007,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/world/us-proposes-surprise-new-tariffs-brazil-imports-including-10-duty-aircraft-1614251",
+          "title": "US proposes surprise new tariffs on Brazil imports, including 10% duty on aircraft",
+          "snippet": "US proposes surprise new tariffs on Brazil imports, including 10% duty on aircraft"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/bangladesh-faces-addl-tariffs-up-to-18pc-on-exports-to-us",
+          "title": "Bangladesh faces addl tariffs up to 18pc on exports to US",
+          "snippet": "Bangladesh faces addl tariffs up to 18pc on exports to US"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যুক্তরাষ্ট্র ব্রাজিলের পণ্যের ওপর নতুন শুল্ক প্রস্তাব করেছে।",
+        "title_en": "United States proposes new tariffs on goods from Brazil.",
+        "summary_bn": "যুক্তরাষ্ট্র ব্রাজিলের ওপর নতুন শুল্কের প্রস্তাব দিয়েছে, যার মধ্যে বিমান আমদানিতে ১০ শতাংশ শুল্ক অন্তর্ভুক্ত রয়েছে।",
+        "summary_en": "The United States proposed new tariffs on goods from Brazil, including a 10 percent duty on aircraft imports.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-26T01:40:00+00:00",
+        "lead_bn": "যুক্তরাষ্ট্র ব্রাজিলের ওপর নতুন শুল্কের প্রস্তাব দিয়েছে, যার মধ্যে বিমান আমদানিতে ১০ শতাংশ শুল্ক অন্তর্ভুক্ত রয়েছে।",
+        "lead_en": "The United States proposed new tariffs on goods from Brazil, including a 10 percent duty on aircraft imports.",
+        "bullets_bn": [
+          "ব্রাসিলিয়া বাণিজ্য অনুশীলন সংশোধনে ব্যর্থ হওয়ায় এই পদক্ষেপ নেওয়া হয়েছে বলে যুক্তরাষ্ট্র জানিয়েছে।",
+          "যুক্তরাষ্ট্রের বাণিজ্য প্রতিনিধি জেমিসন গ্রিয়ার জানিয়েছেন, জুলাই মাসে আরোপিত শুল্কে পরিবর্তনের প্রস্তাব দেওয়া হয়েছে।",
+          "সমাপ্ত ব্রাজিলের বিমান ১০ শতাংশ শুল্কের মুখোমুখি হবে যা পূর্বে অব্যাহতিপ্রাপ্ত ছিল।"
+        ],
+        "bullets_en": [
+          "Washington said the move came after Brasilia failed to rectify trade practices.",
+          "US Trade Representative Jamieson Greer said his office proposed changes to tariffs imposed in July.",
+          "Finished Brazilian aircraft, which are currently exempt, would face a 10 percent duty."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "যুক্তরাষ্ট্র ব্রাজিলকে লক্ষ্য করে নতুন শুল্ক কৌশল শুরু করেছে, যা ১৯৭৪ সালের বাণিজ্য আইনের ধারা ৩০১ এর ওপর ভিত্তি করে তৈরি। এর আগে ফেব্রুয়ারিতে মার্কিন সুপ্রিম কোর্ট জরুরি আইনের অধীনে ব্রাজিলের পণ্যের ওপর ৫০ শতাংশ পর্যন্ত শুল্ক বাতিল করেছিল।",
+        "details_en": "Brazil was the first country targeted under US President Donald Trump's new tariff strategy, which relies on Section 301 of the Trade Act of 1974. The US Supreme Court struck down Trump's previous global tariffs under an emergency law, including duties of up to 50% on Brazilian goods, in February.",
+        "hook_bn": "যুক্তরাষ্ট্রের নতুন শুল্ক প্রস্তাবে বিপাকে ব্রাজিল",
+        "kicker_bn": "নতুন শুল্ক",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 8.0,
+      "outlet_count": 2,
+      "trending": true,
+      "social_appeal": 9.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-26T02:01:45.245257+00:00"
       }
     }
   ]
