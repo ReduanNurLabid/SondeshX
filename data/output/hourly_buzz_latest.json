@@ -1,88 +1,150 @@
 {
-  "updated_at": "2026-11-26T04:00:51.612247",
-  "total_stories": 1,
+  "updated_at": "2026-11-26T05:00:52.741699",
+  "total_stories": 2,
   "stories": [
     {
-      "story_id": "af517bc7-1199-5cce-9ada-9fed1271b17b",
-      "primary_category": "world_diplomacy",
+      "story_id": "6653bcf2-a0c2-56ee-92cc-0a86c8170fad",
+      "primary_category": "society_education",
       "interest_categories": [
-        "world_diplomacy",
-        "governance_law",
-        "society_education"
+        "society_education",
+        "governance_law"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#DhakaUniversity",
+        "#Bangladesh",
+        "#NationalAffairs"
       ],
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_bengali/b978/live/c02fd6b0-e942-11f1-bb03-0f017f7b7c99.jpg",
+      "image_url": "https://images.unsplash.com/photo-1648201158624-7141d2bb44e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGhha2ElMjB1bml2ZXJzaXR5JTIwdGFrZXMlMjBhZG1pbmlzdHJhdGl2ZSUyMGVkdWNhdGlvbnxlbnwxfDB8fHwxNzk1NjY5Mjk4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-26T03:27:03+00:00",
+      "published_at": "2026-11-26T04:18:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.7795,
+      "importance_score": 6.0,
+      "rank_score": 3.4531,
       "sources": [
         {
-          "name": "BBC News বাংলা",
-          "url": "https://www.bbc.com/bengali/articles/cr868gzy4x94o?at_medium=RSS&at_campaign=rss",
-          "title": "দুই সৌদি বন্দরে হামলার দাবি হুথিদের, পাল্টা হুথি ড্রোন ভূপাতিত করেছে রিয়াদ",
-          "snippet": "দুই সৌদি বন্দরে হামলার দাবি হুথিদের, পাল্টা হুথি ড্রোন ভূপাতিত করেছে রিয়াদ"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823043/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF-%E0%A6%86%E0%A6%B0%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0-%E0%A6%93-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80-%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8D%E0%A6%AF-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE",
-          "title": "সৌদি আরবের বন্দর ও রাজধানী লক্ষ্য করে হামলা",
-          "snippet": "সৌদি আরবের বন্দর ও রাজধানী লক্ষ্য করে হামলা"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/america/983310/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%AC%E0%A7%88%E0%A6%A0%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%A5%E0%A6%BE-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A7%80%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B0",
-          "title": "ইরানের সঙ্গে বৈঠকের কথা স্বীকার করলেন ট্রাম্পের বিশেষ দূত কুশনার",
-          "snippet": "ইরানের সঙ্গে বৈঠকের কথা স্বীকার করলেন ট্রাম্পের বিশেষ দূত কুশনার"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/education/425784/du-takes-administrative-action-against-six",
+          "title": "DU takes administrative action against six teachers, including former VC",
+          "snippet": "DU takes administrative action against six teachers, including former VC"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সৌদি বন্দরে হুথিদের হামলার দাবি ও ড্রোন ভূপাতিত করার কথা জানাল রিয়াদ",
-        "title_en": "Houthis claim attacks on Saudi ports as Riyadh downs drone",
-        "summary_bn": "সৌদি আরবের জেদ্দা ও জাজান বন্দরে হামলা চালানোর দাবি করেছে ইয়েমেনের হুথি যোদ্ধারা এবং রিয়াদ একটি ড্রোন ধ্বংস করেছে।",
-        "summary_en": "Yemen's Houthi fighters claimed attacks on Saudi Arabia's Jeddah and Jizan ports while Riyadh destroyed a drone.",
+        "title_bn": "ঢাকা বিশ্ববিদ্যালয় ছয় শিক্ষকের বিরুদ্ধে প্রশাসনিক ব্যবস্থা নিয়েছে।",
+        "title_en": "Dhaka University takes administrative action against six teachers.",
+        "summary_bn": "ঢাকা বিশ্ববিদ্যালয় সাবেক উপাচার্যসহ ছয় শিক্ষকের বিরুদ্ধে প্রশাসনিক ব্যবস্থা গ্রহণ করেছে।",
+        "summary_en": "Dhaka University has taken administrative action against six teachers, including a former VC.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "governance_law",
-          "society_education"
+          "society_education",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T03:27:03+00:00",
-        "lead_bn": "সৌদি আরবের জেদ্দা ও জাজান বন্দরে হামলা চালানোর দাবি করেছে ইয়েমেনের হুথি যোদ্ধারা এবং রিয়াদ একটি ড্রোন ধ্বংস করেছে।",
-        "lead_en": "Yemen's Houthi fighters claimed attacks on Saudi Arabia's Jeddah and Jizan ports while Riyadh destroyed a drone.",
+        "published_at": "2026-11-26T04:18:00+00:00",
+        "lead_bn": "ঢাকা বিশ্ববিদ্যালয় সাবেক উপাচার্যসহ ছয় শিক্ষকের বিরুদ্ধে প্রশাসনিক ব্যবস্থা গ্রহণ করেছে।",
+        "lead_en": "Dhaka University has taken administrative action against six teachers, including a former VC.",
         "bullets_bn": [
-          "হুথিদের সামরিক মুখপাত্র ইয়াহিয়া সারি জানান যে জেদ্দা এবং জাজান বন্দরে চালানো হামলায় নির্দিষ্ট লক্ষ্যবস্তু ক্ষতিগ্রস্ত হয়েছে।",
-          "সৌদি নেতৃত্বাধীন সামরিক জোট জানায় যে জেদ্দা বন্দরের কাছে ড্রোনটি বিধ্বস্ত হলেও কোনো হতাহত বা ক্ষয়ক্ষতি হয়নি।",
-          "সৌদি জোটের মুখপাত্র তুর্কি আল-মালিকি জানান যে জাজান বন্দরে হুথিদের ছোড়া একটি ক্ষেপণাস্ত্র এসে পড়লেও কোনো বেসামরিক নাগরিক নিহত বা আহত হননি।"
+          "বিশ্ববিদ্যালয় সূত্র এই প্রশাসনিক ব্যবস্থা গ্রহণের তথ্য জানিয়েছে।",
+          "অভিযোগগুলো তদন্তের জন্য একটি ফ্যাক্ট-ফাইন্ডিং কমিটি গঠন করা হয়েছে।",
+          "তদন্ত কমিটির মাধ্যমে সংশ্লিষ্ট অভিযোগগুলোর বিষয়ে কাজ করা হচ্ছে।"
         ],
         "bullets_en": [
-          "Houthi military spokesperson Yahya Sarea claimed that their attacks on Jeddah and Jizan ports hit specific targets.",
-          "The Saudi-led coalition stated that the drone crashed near Jeddah port with no casualties or damage.",
-          "Coalition spokesperson Turki al-Maliki stated that a Houthi missile landed in Jizan port causing no civilian deaths or injuries."
+          "University sources confirmed that administrative action has been taken.",
+          "A fact-finding committee has been formed to investigate the allegations.",
+          "The committee is looking into the allegations brought against the individuals."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ইয়েমেনের একটি বন্দরে সৌদি হামলার জবাবে হুথিরা এই হামলা চালিয়েছে বলে দাবি করা হয়েছে এবং সাম্প্রতিক দিনগুলোতে দুই পক্ষের মধ্যে সংঘর্ষ তীব্র আকার ধারণ করেছে। এর আগে সৌদি জোট ইয়েমেনের লোহিত সাগর উপকূলের হোদাইদাহ বন্দরে হামলা চালানোর কথা জানিয়েছিল। এছাড়া দুবাইয়ের ৫০ নটিক্যাল মাইল পশ্চিমে সংযুক্ত আরব আমিরাতের জলসীমায় একটি বিস্ফোরণের খবর পেয়েছে ইউকেএমটিও।",
-        "details_en": "The attacks were reportedly in response to Saudi attacks on a Yemeni port, with clashes intensifying between the two sides in recent days. Earlier, the Saudi-led coalition reported carrying out attacks on Yemen's Red Sea port of Hudaydah. Additionally, UKMTO reported an explosion in UAE waters fifty nautical miles west of Dubai.",
-        "hook_bn": "সৌদি বন্দরে হুথিদের হামলা",
+        "details_bn": "বিশ্ববিদ্যালয় সূত্রে জানা গেছে, অভিযোগগুলো তদন্ত করার জন্য একটি ফ্যাক্ট-ফাইন্ডিং কমিটি গঠন করা হয়েছিল।",
+        "details_en": "University sources said a fact-finding committee had been formed to investigate the allegations.",
+        "hook_bn": "ঢাকা বিশ্ববিদ্যালয়ে ছয় শিক্ষকের বিরুদ্ধে ব্যবস্থা",
         "kicker_bn": null,
         "share_value": false,
-        "question_bn": null
+        "question_bn": "বিশ্ববিদ্যালয় প্রশাসনের এই পদক্ষেপ সম্পর্কে আপনার মতামত কী?"
       },
       "desk_importance": 6.0,
-      "outlet_count": 3,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-26T05:01:57.230532+00:00"
+      }
+    },
+    {
+      "story_id": "586a97b1-94d6-5b86-a721-c18d47e6b3d2",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#AsianDevelopmentBank",
+        "#WaterSupply",
+        "#Sanitation",
+        "#Bangladesh"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/26/adb_16x9.png",
+      "image_caption": null,
+      "published_at": "2026-11-26T03:35:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.25,
+      "rank_score": 2.5366,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/adb-approves-150m-loan-improve-water-sanitation-services-8-towns-1614291",
+          "title": "ADB approves $150m loan to improve water, sanitation services in 8 towns",
+          "snippet": "ADB approves $150m loan to improve water, sanitation services in 8 towns"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/economy/500950",
+          "title": "৮ শহরে নিরাপদ পানি ও স্যানিটেশনে ১৫ কোটি ডলার ঋণ অনুমোদন এডিবির",
+          "snippet": "৮ শহরে নিরাপদ পানি ও স্যানিটেশনে ১৫ কোটি ডলার ঋণ অনুমোদন এডিবির"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আট শহরে পানি ও স্যানিটেশন উন্নয়নে ১৫ কোটি ডলার ঋণ অনুমোদন এডিবির",
+        "title_en": "ADB approves $150m loan to improve water and sanitation in eight towns",
+        "summary_bn": "এশীয় উন্নয়ন ব্যাংক বাংলাদেশের আটটি শহরে নিরাপদ ও জলবায়ু সহনশীল পানি সরবরাহ এবং স্যানিটেশন সেবা বাড়াতে ১৫ কোটি ডলার ঋণ অনুমোদন করেছে।",
+        "summary_en": "The Asian Development Bank approved a $150 million loan to expand water supply and sanitation services in eight towns in Bangladesh.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-26T03:35:00+00:00",
+        "lead_bn": "এশীয় উন্নয়ন ব্যাংক বাংলাদেশের আটটি শহরে নিরাপদ ও জলবায়ু সহনশীল পানি সরবরাহ এবং স্যানিটেশন সেবা বাড়াতে ১৫ কোটি ডলার ঋণ অনুমোদন করেছে।",
+        "lead_en": "The Asian Development Bank approved a $150 million loan to expand water supply and sanitation services in eight towns in Bangladesh.",
+        "bullets_bn": [
+          "ক্লাস্টার টাউনস ওয়াটার সাপ্লাই অ্যান্ড স্যানিটেশন প্রজেক্টের মাধ্যমে প্রায় নয় লাখ মানুষ উপকৃত হবে।",
+          "প্রকল্পটি বাস্তবায়নে প্রায় ১,৭৯০ কিলোমিটার পানি বিতরণ নেটওয়ার্ক নির্মাণ এবং স্মার্ট মিটারসহ ৬৫,০০০ সংযোগ স্থাপন বা পুনর্বাসন করা হবে।",
+          "এশীয় উন্নয়ন ব্যাংকের বাংলাদেশ কাউন্টি ডিরেক্টর কিংফেং ঝাং বলেন, নির্ভরযোগ্য পানি ও স্যানিটেশন সেবা জনস্বাস্থ্য এবং মানব মর্যাদার জন্য মৌলিক।"
+        ],
+        "bullets_en": [
+          "The Cluster Towns Water Supply and Sanitation Project is expected to benefit around 900,000 people.",
+          "It will construct around 1,790 kilometres of water distribution networks and install or rehabilitate 65,000 household connections with smart meters.",
+          "ADB Country Director for Bangladesh Qingfeng Zhang said reliable water and sanitation services are fundamental to public health and human dignity."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "'নির্ভরযোগ্য পানি ও স্যানিটেশন সেবা জনস্বাস্থ্য ও মানব মর্যাদার জন্য মৌলিক'",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "আপনার এলাকায় পানি ও স্যানিটেশন ব্যবস্থার বর্তমান পরিস্থিতি কেমন?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
       "trending": false,
       "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-26T04:01:49.475184+00:00"
+        "checked_at": "2026-11-26T05:01:57.230532+00:00"
       }
     }
   ]
