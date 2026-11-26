@@ -1,70 +1,144 @@
 {
-  "updated_at": "2026-11-26T17:00:43.953111",
-  "total_stories": 2,
+  "updated_at": "2026-11-26T18:00:45.006547",
+  "total_stories": 3,
   "stories": [
     {
-      "story_id": "a7bfb81e-c15a-59d9-9a78-130044fa4f3d",
-      "primary_category": "governance_law",
+      "story_id": "370d8ae8-3721-568a-becd-61e2e15f80b5",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "governance_law",
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#ArakanArmy",
+        "#BangladeshFishermen",
+        "#BorderGuardBangladesh",
+        "#Teknaf"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Zm9ydHklMjBvbmUlMjBiYW5nbGFkZXNoaSUyMGZpc2hlcnMlMjBkaXBsb21hY3l8ZW58MXwwfHx8MTc5NTcxNjA5NXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-26T18:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.25,
+      "rank_score": 5.2492,
+      "sources": [
+        {
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/chattogram/news/41-fishers-return-home-arakan-army-captivity-4334206",
+          "title": "41 fishers return home from Arakan Army captivity",
+          "snippet": "41 fishers return home from Arakan Army captivity"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/41-more-bangladeshi-fishermen-detained-arakan-army-return-home-1615246",
+          "title": "41 more Bangladeshi fishermen detained by Arakan Army return home",
+          "snippet": "41 more Bangladeshi fishermen detained by Arakan Army return home"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মিয়ানমার থেকে মুক্তি পেলেন একচল্লিশ বাংলাদেশি জেলে",
+        "title_en": "Forty-one Bangladeshi fishers return home from Arakan Army captivity",
+        "summary_bn": "মিয়ানমারের সশস্ত্র গোষ্ঠী আরাকান আর্মির হাতে আটক একচল্লিশ বাংলাদেশি জেলে দীর্ঘ দিন বন্দি থাকার পর দেশে ফিরেছেন।",
+        "summary_en": "Forty-one Bangladeshi fishermen detained by Myanmar’s armed group Arakan Army returned home after spending months and years in captivity.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-26T18:00:00+00:00",
+        "lead_bn": "মিয়ানমারের সশস্ত্র গোষ্ঠী আরাকান আর্মির হাতে আটক একচল্লিশ বাংলাদেশি জেলে দীর্ঘ দিন বন্দি থাকার পর দেশে ফিরেছেন।",
+        "lead_en": "Forty-one Bangladeshi fishermen detained by Myanmar’s armed group Arakan Army returned home after spending months and years in captivity.",
+        "bullets_bn": [
+          "বর্ডার গার্ড বাংলাদেশ টেকনাফ-মিয়ানমার ট্রানজিট জেটির কাছে জেলেদের হস্তান্তর গ্রহণ করে।",
+          "বিজিবির তথ্য অনুযায়ী এই বছর আরাকান আর্মির বন্দিদশা থেকে মোট ৩২৩ জন জেলেকে ফিরিয়ে আনা হয়েছে।",
+          "ফিরে আসা জেলেরা বন্দিদশায় শারীরিক নির্যাতন, খাদ্যবঞ্চনা ও জোরপূর্বক শ্রমের শিকার হওয়ার অভিযোগ করেছেন।"
+        ],
+        "bullets_en": [
+          "Border Guard Bangladesh received the fishermen near the Teknaf-Myanmar Transit Jetty.",
+          "According to the BGB, the number of fishermen brought back from Arakan Army captivity this year reached 323.",
+          "The returnees alleged that they faced physical torture, food deprivation, and forced labour during captivity."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "টেকনাফ ব্যাটালিয়নের অধিনায়ক লেফটেন্যান্ট কর্নেল মোহাম্মদ তাজুল ইসলাম চৌধুরী জানান, গভীর সমুদ্র থেকে মাছ ধরে ফেরার সময় বেশিরভাগ জেলে আটক হন। ফিরে আসা ব্যক্তিরা জানান, তাদের প্রতিদিন প্রায় সাত থেকে আট ঘণ্টা কাজ করতে বাধ্য করা হতো এবং অস্বীকৃতি জানালে মারধর করা হতো। বন্দিদশায় তাদের দিনে মাত্র এক বেলা ভাত দেওয়া হতো।",
+        "details_en": "Lt Col Mohammad Tajul Islam Chowdhury said most were detained while returning from deep-sea fishing expeditions. Returnees stated they were forced to work up to eight hours daily and beaten for refusing, receiving only one meal of rice a day.",
+        "hook_bn": "মিয়ানমার থেকে ফিরলেন একচল্লিশ বাংলাদেশি জেলে",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "unchecked",
+        "checked_at": "2026-11-26T18:02:05.302122+00:00"
+      }
+    },
+    {
+      "story_id": "eb5040d5-910a-5a3e-8eb0-e4c4775c4e57",
+      "primary_category": "economy_business",
+      "interest_categories": [
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#KushtiaDistrictJail",
-        "#CrudeBombAttack",
-        "#LawAndOrder"
+        "#NBR",
+        "#VAT"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/26/kushtia_jail_gate_.jpg",
+      "image_url": "https://images.unsplash.com/photo-1722871513349-45c61ed6aa5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZmluYW5jZSUyMGVjb25vbXklMjBiYW5nbGFkZXNofGVufDF8MHx8fDE3OTU3MTYxMDR8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-26T15:00:00+00:00",
+      "published_at": "2026-11-26T18:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.25,
-      "rank_score": 3.4757,
+      "rank_score": 3.901,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/crime/another-crude-bomb-thrown-kushtia-district-jail-1615236",
-          "title": "Another crude bomb thrown at Kushtia District Jail",
-          "snippet": "Another crude bomb thrown at Kushtia District Jail"
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/economy/news/27000-online-businesses-identified-vat-scrutiny-4334146",
+          "title": "27,000 online businesses identified for VAT scrutiny",
+          "snippet": "27,000 online businesses identified for VAT scrutiny"
         },
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/0ou91zzng6",
-          "title": "কুষ্টিয়ায় কারাগারের কোয়ার্টার ও ফটকে ককটেল বিস্ফোরণ, দুই জেলায় গ্রামীণ ব্যাংকের দুই শাখায় আগুন",
-          "snippet": "কুষ্টিয়ায় কারাগারের কোয়ার্টার ও ফটকে ককটেল বিস্ফোরণ, দুই জেলায় গ্রামীণ ব্যাংকের দুই শাখায় আগুন"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/nbr/29-restaurants-found-evading-vat-online-sales-1615361",
+          "title": "29 restaurants found evading VAT on online sales",
+          "snippet": "29 restaurants found evading VAT on online sales"
         }
       ],
       "daily_buzz": {
-        "title_bn": "২৬ নভেম্বর কুষ্টিয়া জেলা কারাগারে দুই দফা ককটেল হামলা",
-        "title_en": "Two crude bombs thrown at Kushtia District Jail on 26 November",
-        "summary_bn": "২৬ নভেম্বর কুষ্টিয়া জেলা কারাগারে অজ্ঞাতপরিচয় ব্যক্তিরা দুই দফা ককটেল হামলা চালিয়েছে, এতে আতঙ্ক ছড়ালেও কোনো হতাহত বা ক্ষয়ক্ষতির খবর পাওয়া যায়নি।",
-        "summary_en": "Unidentified assailants threw two crude bombs at Kushtia District Jail on 26 November, causing panic but no reported casualties or damage.",
+        "title_bn": "ভ্যাট তদারকির জন্য ২৭ হাজার অনলাইন ব্যবসা চিহ্নিত করেছে এনবিআর",
+        "title_en": "NBR identifies 27,000 online businesses for VAT scrutiny",
+        "summary_bn": "জাতীয় রাজস্ব বোর্ড আনুষ্ঠানিক কর ব্যবস্থার আওতায় আনতে প্রায় ২৭ হাজার ই-কমার্স ব্যবসা ভ্যাট তদারকির জন্য চিহ্নিত করেছে।",
+        "summary_en": "The National Board of Revenue has identified around 27,000 e-commerce businesses for VAT scrutiny to bring them into formal tax system.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T15:00:00+00:00",
-        "lead_bn": "২৬ নভেম্বর কুষ্টিয়া জেলা কারাগারে অজ্ঞাতপরিচয় ব্যক্তিরা দুই দফা ককটেল হামলা চালিয়েছে, এতে আতঙ্ক ছড়ালেও কোনো হতাহত বা ক্ষয়ক্ষতির খবর পাওয়া যায়নি।",
-        "lead_en": "Unidentified assailants threw two crude bombs at Kushtia District Jail on 26 November, causing panic but no reported casualties or damage.",
+        "published_at": "2026-11-26T18:00:00+00:00",
+        "lead_bn": "জাতীয় রাজস্ব বোর্ড আনুষ্ঠানিক কর ব্যবস্থার আওতায় আনতে প্রায় ২৭ হাজার ই-কমার্স ব্যবসা ভ্যাট তদারকির জন্য চিহ্নিত করেছে।",
+        "lead_en": "The National Board of Revenue has identified around 27,000 e-commerce businesses for VAT scrutiny to bring them into formal tax system.",
         "bullets_bn": [
-          "প্রথম ককটেলটি ভোরে প্রধান ফটকে এবং দ্বিতীয়টি বিকেল ৪:১৫ মিনিটে কারারক্ষীদের আবাসিক এলাকার কাছে বিস্ফোরিত হয়।",
-          "জেল সুপারিনটেনডেন্ট শরিফুল আলম জানান, দ্বিতীয় ককটেলটি একটি গাছে লেগে ভবনের ছাদে পড়ে বিকট শব্দে বিস্ফোরিত হয়।",
-          "কর্তৃপক্ষ ধারণা করছে, কারাগারের দক্ষিণ পাশে জেলখানা মোড়ের কাছের একটি পরিত্যক্ত জায়গা থেকে দ্বিতীয় ককটেলটি ছোড়া হয়েছে।"
+          "চিহ্নিত ব্যবসার বেশিরভাগেরই কোনো ব্যবসায়িক শনাক্তকরণ নম্বর বা বিন নেই।",
+          "ভ্যাট অডিট, ইন্টেলিজেন্স অ্যান্ড ইনভেস্টিগেশন ডিরেক্টরেটের একটি প্রতিবেদনে এই তথ্য জানানো হয়েছে।",
+          "যাচাই-বাছাই করে সংশ্লিষ্ট ভ্যাট কমিশনারেটগুলো পরবর্তী পদক্ষেপ নেবে।"
         ],
         "bullets_en": [
-          "The first bomb was thrown at the main gate early morning, followed by a second explosion near the guards' residential area at 4:15pm.",
-          "Jail Superintendent Shariful Alom said the second bomb hit a tree before landing on a roof and exploding with a loud bang.",
-          "Authorities believe the second bomb was thrown from an abandoned space near the Jailkhana intersection on the southern side of the prison."
+          "Most of the identified businesses do not have a business identification number.",
+          "This information was stated in a report by the VAT Audit, Intelligence and Investigation Directorate.",
+          "The respective VAT commissionerates will examine the information and take further steps."
         ],
-        "impact_bn": "বিস্ফোরণের ঘটনায় কারারক্ষী, তাদের পরিবার এবং স্থানীয় বাসিন্দাদের মধ্যে আতঙ্ক ছড়িয়ে পড়ে।",
-        "impact_en": "The explosions triggered panic among the prison guards, their families, and local residents.",
-        "details_bn": "দ্বিতীয় ঘটনাটি জেল সুপারের বাসভবনের কাছে ঘটে। কারারক্ষী তারিকুল ইসলাম জানান, বিশ্রামের সময় তারা বিকট শব্দ শুনতে পান। পুলিশ ও কারা কর্তৃপক্ষ জানায়, স্কচটেপ মোড়ানো ককটেলটি পূর্ব-দক্ষিণ পাশের দেয়ালের ওপর দিয়ে ছোড়া হয়েছিল। ভবনের কোনো ক্ষতি হয়নি এবং কর্তৃপক্ষ ঘটনাটি তদন্ত করছে। এছাড়া প্রথম আলোর প্রতিবেদন অনুযায়ী, একই দিনে দুই জেলায় গ্রামীণ ব্যাংকের দুটি শাখায় আগুনের ঘটনা ঘটেছে।",
-        "details_en": "The second incident occurred near the jail superintendent's residence. Prison guard Tarikul Islam said they were resting when they heard the loud explosion. Police and prison authorities reported that the tape-wrapped bomb was thrown over the eastern-southern wall. No damage was reported to the buildings, and the incident is currently being investigated by the authorities. Prothom Alo also reported fires at two Grameen Bank branches in two districts on the same day.",
-        "hook_bn": "কুষ্টিয়া কারাগারে দুই দফা ককটেল হামলা",
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ই-কমার্স এবং কুরিয়ার সেবা খাতের রাজস্ব সম্ভাবনার ওপর গবেষণা চালানোর পর এনবিআর এই উদ্যোগ নেয়। এর আগে ভ্যাট ফাঁকি দেওয়ার অভিযোগে ২৯টি রেস্তোরাঁ খুঁজে পেয়েছিল ডিরেক্টরেট।",
+        "details_en": "The initiative followed research into the e-commerce and courier service sectors. The directorate also previously found 29 restaurants evading VAT on online sales.",
+        "hook_bn": "ভ্যাট তদারকির মুখে ২৭ হাজার অনলাইন ব্যবসা",
         "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
@@ -74,76 +148,77 @@
       "trending": false,
       "social_appeal": 7.0,
       "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-26T17:02:34.138174+00:00"
+        "status": "unchecked",
+        "checked_at": "2026-11-26T18:02:05.302122+00:00"
       }
     },
     {
-      "story_id": "62d7e3a2-41b5-5a9c-b8cb-0624ff285dfc",
+      "story_id": "8950a9e9-a171-5ab9-a7d6-6789ed43bd05",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#DhakaStockExchange",
-        "#DSE",
-        "#ShareMarket"
+        "#GoldImports",
+        "#DhakaCustoms",
+        "#BAJUS",
+        "#BangladeshEconomy"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2025/09/07/dse.jpg",
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Gold-imports.jpg",
       "image_caption": null,
-      "published_at": "2026-11-26T15:45:00+00:00",
+      "published_at": "2026-11-26T18:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 5.0,
-      "rank_score": 2.3229,
+      "rank_score": 2.4966,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/economy/stocks/dse-extends-losing-streak-turnover-drops-23-tk707cr-1615301",
-          "title": "DSE extends losing streak as turnover drops 23% to Tk707cr",
-          "snippet": "DSE extends losing streak as turnover drops 23% to Tk707cr"
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/economy/news/gold-imports-thru-dhaka-customs-plunge-over-99-3-years-4334166",
+          "title": "Gold imports thru Dhaka customs plunge over 99% in 3 years",
+          "snippet": "Gold imports thru Dhaka customs plunge over 99% in 3 years"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শেয়ারবাজারে টানা দ্বিতীয় কার্যদিবসে পতন, কমেছে লেনদেন",
-        "title_en": "DSE extends losing streak as turnover drops 23% to Tk707cr",
-        "summary_bn": "লাভ তুলে নেওয়ার প্রবণতা এবং বিভিন্ন আশঙ্কার কারণে ২৬ নভেম্বর ঢাকা স্টক এক্সচেঞ্জের প্রধান সূচক ও লেনদেন কমেছে।",
-        "summary_en": "The benchmark index of the Dhaka Stock Exchange fell on 26 November as continued profit-booking and various concerns dampened investor sentiment.",
+        "title_bn": "তিন বছরে ঢাকা কাস্টমসে স্বর্ণের আমদানি ৯৯ শতাংশের বেশি কমেছে",
+        "title_en": "Gold imports through Dhaka customs plunge over 99 percent in 3 years",
+        "summary_bn": "তিন বছরে ঢাকা কাস্টমস হাউসের মাধ্যমে স্বর্ণের আমদানি ৯৯ শতাংশের বেশি কমেছে এবং একে শুল্ক বৃদ্ধি, কঠোর লাগেজ বিধি ও দীর্ঘসূত্রিতাকে দায়ী করেছেন সংশ্লিষ্টরা।",
+        "summary_en": "Gold imports through Customs House Dhaka fell by more than 99 percent in three years, blamed on hiked duties, tightened baggage rules and lengthy procedures.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T15:45:00+00:00",
-        "lead_bn": "লাভ তুলে নেওয়ার প্রবণতা এবং বিভিন্ন আশঙ্কার কারণে ২৬ নভেম্বর ঢাকা স্টক এক্সচেঞ্জের প্রধান সূচক ও লেনদেন কমেছে।",
-        "lead_en": "The benchmark index of the Dhaka Stock Exchange fell on 26 November as continued profit-booking and various concerns dampened investor sentiment.",
+        "published_at": "2026-11-26T18:00:00+00:00",
+        "lead_bn": "তিন বছরে ঢাকা কাস্টমস হাউসের মাধ্যমে স্বর্ণের আমদানি ৯৯ শতাংশের বেশি কমেছে এবং একে শুল্ক বৃদ্ধি, কঠোর লাগেজ বিধি ও দীর্ঘসূত্রিতাকে দায়ী করেছেন সংশ্লিষ্টরা।",
+        "lead_en": "Gold imports through Customs House Dhaka fell by more than 99 percent in three years, blamed on hiked duties, tightened baggage rules and lengthy procedures.",
         "bullets_bn": [
-          "ডিএসইর প্রধান সূচক ডিএসইএক্স ৬.৯৪ পয়েন্ট কমে ৫,৫২৬.৩৮ পয়েন্টে দাঁড়িয়েছে।",
-          "ইবিএল সিকিউরিটিজ জানিয়েছে, বাজারে লেনদেন কমে হয়েছে ৭০৭.০৬ কোটি টাকা।",
-          "টেক্সটাইল খাত মোট লেনদেনের ২৩.৭ শতাংশ দখল করে শীর্ষে অবস্থান করছে।"
+          "তৎক্ষণাৎ ঘোষণায় খালাস হওয়া আমদানি অর্থবছর ২০২২-২৩ এ প্রায় ৪৩ হাজার কেজিতে পৌঁছানোর পর অর্থবছর ২৬ এ ২০০ কেজির নিচে নেমেছে।",
+          "এই সময়ে স্বর্ণ থেকে সংগৃহীত রাজস্ব ৭৬১ কোটি টাকা থেকে কমে মাত্র ৮ কোটি ৮২ লাখ টাকায় দাঁড়িয়েছে।",
+          "বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশনের (বাজুস) সভাপতি এনামুল হক খান দাবি করেছেন যে পুনর্ব্যবহৃত স্বর্ণ মোট চাহিদার ৬০ থেকে ৭০ শতাংশ পূরণ করে।"
         ],
         "bullets_en": [
-          "The DSEX shed 6.94 points to close at 5,526.38.",
-          "Market turnover fell to Tk707.06 crore, according to EBL Securities.",
-          "Textile stocks accounted for the largest share of turnover at 23.7%."
+          "Imports cleared through instant declaration peaked at about 43,000 kilogrammes in fiscal year 2022-23, then fell to below 200 kg in FY26.",
+          "Revenue collected from gold fell from Tk 761 crore to just Tk 8.82 crore during the period.",
+          "Enamul Haque Khan, president of the Bangladesh Jewellers Association, claimed that recycled gold meets 60 to 70 percent of total demand."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "মার্কিন শুল্কের সম্ভাবনা, দেশের ভেতরের অস্থিরতা এবং বাজারের স্বল্পমেয়াদি দৃষ্টিভঙ্গি নিয়ে উদ্বেগের কারণে বিনিয়োগকারীদের সতর্ক অবস্থানের মধ্যে বাজারে এই পতন ঘটে।",
-        "details_en": "The downturn was driven by concerns over potential additional US tariffs, domestic unrest, and the market's near-term outlook, which caused weaker participation among investors.",
-        "hook_bn": "ডিএসইতে লেনদেন কমে হলো ৭০৭ কোটি টাকা",
-        "kicker_bn": "শেয়ারবাজার",
+        "details_bn": "পরিস্থিতিটি দেশের স্বর্ণ নীতি নিয়ে নতুন বিতর্ক তৈরি করেছে এবং বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশন বাণিজ্যের বড় অংশ আনুষ্ঠানিক খাতে আনতে সংস্কারের দাবি জানিয়েছে। স্বর্ণ নীতি ২০১৮ অনুযায়ী বার্ষিক অভ্যন্তরীণ চাহিদা ২০ থেকে ৪০ টন। অর্থবছর ২৬ থেকে সরকার সংশোধিত লাগেজ বিধির আওতায় স্বর্ণের বার ও অলংকার আমদানির ওপর কঠোর নিয়ম প্রবর্তন করেছে এবং একজন ঢাকা কাস্টম হাউস কর্মকর্তা এই পতনকে সংশোধিত লাগেজ বিধির ফল বলে উল্লেখ করেছেন।",
+        "details_en": "The situation has renewed debate over the country's gold policy, with the Bangladesh Jewellers' Association pressing for reforms. The Gold Policy 2018 estimates yearly domestic demand at 20 to 40 tonnes. Stricter regulations on gold bars and ornaments were introduced under revised baggage rules starting from FY26, which a Customs House Dhaka official attributed the decline to.",
+        "hook_bn": "আমদানি কমেছে ৯৯ শতাংশ",
+        "kicker_bn": "স্বর্ণ আমদানি",
         "share_value": false,
-        "question_bn": "শেয়ারবাজারের বর্তমান পরিস্থিতি নিয়ে আপনার মতামত কী?"
+        "question_bn": null
       },
       "desk_importance": 5.0,
       "outlet_count": 1,
       "trending": false,
-      "social_appeal": 4.0,
+      "social_appeal": 5.0,
       "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-26T17:02:34.138174+00:00"
+        "status": "unchecked",
+        "checked_at": "2026-11-26T18:02:05.302122+00:00"
       }
     }
   ]
