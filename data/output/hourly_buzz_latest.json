@@ -1,79 +1,199 @@
 {
-  "updated_at": "2026-11-26T20:00:45.766438",
-  "total_stories": 1,
+  "updated_at": "2026-11-26T21:00:44.090020",
+  "total_stories": 3,
   "stories": [
     {
-      "story_id": "3ca62a5f-96f2-5c49-8a39-af75e7034539",
+      "story_id": "24da4f6a-b626-5051-9d7b-34ca0e5880c1",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Shibganj",
-        "#Rajshahi",
-        "#AwamiLeague"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1693585172757-b9e057feb878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFybGlhbWVudCUyMGxhdyUyMGNvdXJ0JTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1NzIzMjcxfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/bogura-20261127023756.JPG?cid=501177",
       "image_caption": null,
-      "published_at": "2026-11-26T19:43:19+00:00",
+      "published_at": "2026-11-26T20:37:56+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.8399,
+      "importance_score": 6.6,
+      "rank_score": 4.2595,
       "sources": [
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/425879/srb-nabs-shibganj-blast-suspect-from-rajshahi",
-          "title": "SRB nabs Shibganj blast suspect from Rajshahi hideout",
-          "snippet": "SRB nabs Shibganj blast suspect from Rajshahi hideout"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/man-injured-chapainawabganj-crude-bomb-blast-detained-rajshahi-home-1615406",
-          "title": "Man injured in Chapainawabganj crude bomb blast detained at Rajshahi home",
-          "snippet": "Man injured in Chapainawabganj crude bomb blast detained at Rajshahi home"
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/country/501177",
+          "title": "বগুড়া বিমানবন্দরে চালু হচ্ছে অভ্যন্তরীণ ফ্লাইট, প্রধানমন্ত্রীর সম্মতি",
+          "snippet": "বগুড়া বিমানবন্দরে চালু হচ্ছে অভ্যন্তরীণ ফ্লাইট, প্রধানমন্ত্রীর সম্মতি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রাজশাহী থেকে শিবগঞ্জের বোমা বিস্ফোরণ মামলার সন্দেহভাজন আটক",
-        "title_en": "Shibganj blast suspect detained from Rajshahi",
-        "summary_bn": "শিবগঞ্জে বোমা বিস্ফোরণে আহত এক ব্যক্তিকে রাজশাহীর একটি বাসা থেকে আটক করেছে এসআরবি-৫।",
-        "summary_en": "SRB-5 detained a man injured in a Chapainawabganj crude bomb blast from a Rajshahi home.",
+        "title_bn": "বগুড়া বিমানবন্দরে অভ্যন্তরীণ ফ্লাইট চালুর মৌখিক সম্মতি দিয়েছেন প্রধানমন্ত্রী",
+        "title_en": "Prime minister gives verbal consent to launch domestic flights at Bogura airport",
+        "summary_bn": "বগুড়া বিমানবন্দরে দ্রুত অভ্যন্তরীণ ফ্লাইট চালুর বিষয়ে প্রধানমন্ত্রী মৌখিকভাবে সম্মতি দিয়েছেন বলে জানিয়েছেন সংসদ সদস্য রেজাউল করিম বাদশা।",
+        "summary_en": "Member of parliament Rezaul Karim Badsha said the prime minister has given verbal consent to quickly launch domestic flights at Bogura airport.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T19:43:19+00:00",
-        "lead_bn": "শিবগঞ্জে বোমা বিস্ফোরণে আহত এক ব্যক্তিকে রাজশাহীর একটি বাসা থেকে আটক করেছে এসআরবি-৫।",
-        "lead_en": "SRB-5 detained a man injured in a Chapainawabganj crude bomb blast from a Rajshahi home.",
+        "published_at": "2026-11-26T20:37:56+00:00",
+        "lead_bn": "বগুড়া বিমানবন্দরে দ্রুত অভ্যন্তরীণ ফ্লাইট চালুর বিষয়ে প্রধানমন্ত্রী মৌখিকভাবে সম্মতি দিয়েছেন বলে জানিয়েছেন সংসদ সদস্য রেজাউল করিম বাদশা।",
+        "lead_en": "Member of parliament Rezaul Karim Badsha said the prime minister has given verbal consent to quickly launch domestic flights at Bogura airport.",
         "bullets_bn": [
-          "এসআরবি-৫ এর দাবি অনুযায়ী আটক ব্যক্তি নিষিদ্ধ ঘোষিত সংগঠনের সঙ্গে জড়িত।",
-          "আটক ব্যক্তি কার্যক্রম নিষিদ্ধ ঘোষিত আওয়ামী লীগের একজন কর্মী বলে দাবি করেছে এসআরবি-৫।",
-          "চাঁপাইনবাবগঞ্জের শিবগঞ্জে ঘটিত বিস্ফোরণের ঘটনায় ওই ব্যক্তি আহত হয়েছিলেন।"
+          "বেসরকারি বিমান সংস্থাগুলোর সঙ্গে আলোচনা করে দ্রুত ফ্লাইট চালুর ব্যবস্থা নিতে সংশ্লিষ্টদের নির্দেশনা দিয়েছেন প্রধানমন্ত্রী।",
+          "আন্তর্জাতিক বিমানবন্দর চালু করতে দীর্ঘ সময় লাগতে পারে বিধায় আপাতত বেসরকারি সংস্থার মাধ্যমে অভ্যন্তরীণ ফ্লাইট চালুর উদ্যোগ নেওয়া হয়েছে।",
+          "বিমানবন্দর চালুর জন্য প্রাথমিকভাবে রানওয়ে সম্প্রসারণ ও একটি টার্মিনাল নির্মাণের প্রয়োজন হতে পারে বলে জানিয়েছেন সংসদ সদস্য।"
         ],
         "bullets_en": [
-          "SRB-5 claimed that the detained man is involved with a banned organisation.",
-          "SRB-5 claimed that he is an activist of the activities-banned Awami League.",
-          "The man was injured in a crude bomb blast in Shibganj, Chapainawabganj."
+          "The prime minister instructed concerned authorities to arrange quick flights by discussing with private airlines.",
+          "As launching an international airport may take a long time, domestic flights are temporarily initiated through private airlines.",
+          "The MP stated that initially expanding the runway and constructing a terminal may be required to launch the airport."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "রাজশাহীতে শিবগঞ্জ বিস্ফোরণ মামলার সন্দেহভাজন আটক",
+        "details_bn": "বগুড়া-৬ সদর আসনের সংসদ সদস্য রেজাউল করিম বাদশা জানান, প্রধানমন্ত্রী আগামী ৫ ডিসেম্বর বগুড়া সফর করবেন এবং তার সম্ভাব্য কর্মসূচিতে বিভিন্ন উন্নয়ন কর্মকাণ্ডের উদ্বোধন ও সাংগঠনিক সভায় অংশ নেওয়া রয়েছে।",
+        "details_en": "Bogura-6 sadar seat member of parliament Rezaul Karim Badsha stated that the prime minister will visit Bogura on 5 December, and her potential schedule includes inaugurating various development activities and joining an organizational meeting.",
+        "hook_bn": "বগুড়া বিমানবন্দরে চালু হচ্ছে অভ্যন্তরীণ ফ্লাইট",
+        "kicker_bn": "নতুন উদ্যোগ",
+        "share_value": false,
+        "question_bn": "বগুড়া বিমানবন্দর চালু হলে এই অঞ্চলের যোগাযোগ ব্যবস্থায় কী ধরনের পরিবর্তন আসবে বলে আপনার মনে হয়?"
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-26T21:01:44.213671+00:00"
+      }
+    },
+    {
+      "story_id": "3f213539-8a33-545a-872f-d698ffa791d5",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/arrest-8-20261127023915.jpg?cid=501178",
+      "image_caption": null,
+      "published_at": "2026-11-26T20:39:15+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 2.2558,
+      "sources": [
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/country/501178",
+          "title": "রাজবাড়ীতে কার্যক্রম নিষিদ্ধ সংগঠনের ৩ সদস্য গ্রেপ্তার",
+          "snippet": "রাজবাড়ীতে কার্যক্রম নিষিদ্ধ সংগঠনের ৩ সদস্য গ্রেপ্তার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রাজবাড়ীতে নিষিদ্ধ সংগঠনের তিন সদস্যকে গ্রেপ্তার করেছে পুলিশ।",
+        "title_en": "Police arrested three members of banned organizations in Rajbari.",
+        "summary_bn": "রাজবাড়ীর পাংশায় কার্যক্রম নিষিদ্ধ যুবলীগ ও ছাত্রলীগের তিন সদস্যকে নিজ নিজ বাড়ি থেকে গ্রেপ্তার করেছে পুলিশ।",
+        "summary_en": "Police arrested three members of banned organizations Jubo League and Chhatra League from their respective homes in Pangsha, Rajbari.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-26T20:39:15+00:00",
+        "lead_bn": "রাজবাড়ীর পাংশায় কার্যক্রম নিষিদ্ধ যুবলীগ ও ছাত্রলীগের তিন সদস্যকে নিজ নিজ বাড়ি থেকে গ্রেপ্তার করেছে পুলিশ।",
+        "lead_en": "Police arrested three members of banned organizations Jubo League and Chhatra League from their respective homes in Pangsha, Rajbari.",
+        "bullets_bn": [
+          "গ্রেপ্তার ব্যক্তিরা হলেন আব্দুর রাজ্জাক ওরফে রাজা, মো. সাইফুজ্জামান শুভ এবং মো. রুবেল সরদার।",
+          "পুলিশের প্রেস বিজ্ঞপ্তিতে সরকারবিরোধী কর্মকাণ্ড ও সামাজিক যোগাযোগমাধ্যমে অপপ্রচারের অভিযোগ আনা হয়েছে।",
+          "বিশেষ ক্ষমতা আইনের মামলায় তদন্তে প্রাপ্ত আসামি হিসেবে তাদের আদালতে পাঠানো হয়েছে।"
+        ],
+        "bullets_en": [
+          "The arrested individuals are Abdur Razzaq alias Raja, Md. Saifuzzaman Shuvo, and Md. Rubel Sardar.",
+          "A police press release stated they were involved in anti-government activities and propaganda on social media.",
+          "They were sent to court as accused persons found in the investigation under the Special Powers Act."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "পুলিশের প্রেস বিজ্ঞপ্তিতে জানানো হয়, গ্রেপ্তার ব্যক্তিরা সরকারবিরোধী বিভিন্ন কর্মকাণ্ড, সামাজিক যোগাযোগমাধ্যমে অপপ্রচার এবং সরকারের ভাবমূর্তি ক্ষুণ্ন করার উদ্দেশ্যে অন্তর্ঘাতমূলক কার্যকলাপে জড়িত থাকার বিষয়ে সাক্ষ্য-প্রমাণ পাওয়া গেছে। পাংশা মডেল থানার ভারপ্রাপ্ত কর্মকর্তা শেখ মঈনুল ইসলাম জানান, বিশেষ ক্ষমতা আইন ১৯৭৪-এর ১৫(১)/১৫(৩) ধারার মামলার তদন্তে প্রাপ্ত আসামি হিসেবে তাদের গ্রেপ্তার করা হয়।",
+        "details_en": "According to the police press release, evidence was found that the arrested individuals were involved in anti-government activities, propaganda on social media, and subversive acts aimed at tarnishing the government's image. Pangsha Model Police Station Officer-in-Charge Sheikh Mainul Islam stated they were arrested as accused persons found during the investigation of a case under sections 15(1) and 15(3) of the Special Powers Act 1974.",
+        "hook_bn": "রাজবাড়ীতে নিষিদ্ধ সংগঠনের তিন সদস্য গ্রেপ্তার",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-26T20:01:23.396345+00:00"
+        "checked_at": "2026-11-26T21:01:44.213671+00:00"
+      }
+    },
+    {
+      "story_id": "91338230-85c4-559f-92ab-b6f1a630d9d1",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law",
+        "climate_environment"
+      ],
+      "region": "international",
+      "tags": [
+        "#SaudiArabia",
+        "#Jazan",
+        "#Houthi"
+      ],
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b089a77b51e8-1795725943.jpg?resize=1920%2C1440",
+      "image_caption": null,
+      "published_at": "2026-11-26T20:34:34+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.2817,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
+          "title": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
+          "snippet": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সৌদি আরবের জাজান শোধনাগারে হামলায় নিহত ১",
+        "title_en": "Attack on Saudi refinery in Jazan kills one",
+        "summary_bn": "সৌদি আরবের জাজান শহরে একটি তেল শোধনাগারে আকাশ থেকে নিক্ষিপ্ত প্রজেক্টাইলের আঘাতে এক শ্রমিক নিহত এবং বেশ কয়েকজন আহত হয়েছেন।",
+        "summary_en": "An aerial projectile hit an oil refinery in Saudi Arabia’s city of Jazan, killing one worker and injuring several people.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law",
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-26T20:34:34+00:00",
+        "lead_bn": "সৌদি আরবের জাজান শহরে একটি তেল শোধনাগারে আকাশ থেকে নিক্ষিপ্ত প্রজেক্টাইলের আঘাতে এক শ্রমিক নিহত এবং বেশ কয়েকজন আহত হয়েছেন।",
+        "lead_en": "An aerial projectile hit an oil refinery in Saudi Arabia’s city of Jazan, killing one worker and injuring several people.",
+        "bullets_bn": [
+          "সৌদি জ্বালানি মন্ত্রণালয়ের তথ্য অনুযায়ী, নিহত ওই শ্রমিকের বাড়ি নেপালে এবং আহতরা বিভিন্ন দেশের নাগরিক।",
+          "সৌদি সমর্থিত সামরিক জোট জানিয়েছে, ইয়েমেনের হুতি গোষ্ঠী এই তেল শোধনাগারে হামলা চালিয়েছে।",
+          "হামলার কারণে সৃষ্ট আগুনে শোধনাগারটির কিছু কার্যক্রম সাময়িকভাবে বন্ধ হয়ে গেছে।"
+        ],
+        "bullets_en": [
+          "The Ministry of Energy stated that the worker who died was Nepali, while the injured were of various nationalities.",
+          "The Saudi-led military coalition stated that the Houthi group attacked the refinery.",
+          "The attack caused a fire and temporarily halted some operations at the facility."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "সৌদি আরবের লোহিত সাগর উপকূলে অবস্থিত এবং ইয়েমেন সীমান্তের কাছে অবস্থিত এই শোধনাগারটি প্রতিদিন চার লাখ ব্যারেল পর্যন্ত কাঁচা তেল প্রক্রিয়াজাত করার জন্য তৈরি। এর আগে ইয়েমেনের হুতিদের বিরুদ্ধে লড়াইরত সৌদি সমর্থিত সামরিক জোটের পক্ষ থেকে হামলাটি চালানো হয় এবং এর একদিন আগে রাস তানুড়া, জেদ্দা ও জাজানের বন্দরগুলোতে হামলার দাবি করেছিল হুতি গোষ্ঠী।",
+        "details_en": "The refinery in southwestern Saudi Arabia, near the Yemeni border, is designed to process up to 400,000 barrels of crude oil per day. The strike came a day after the Houthi group claimed attacks on Ras Tanura, the kingdom’s largest refinery, and the Red Sea ports of Jeddah and Jazan.",
+        "hook_bn": "সৌদি আরবের শোধনাগারে হামলায় নিহত ১",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-26T21:01:44.213671+00:00"
       }
     }
   ]
