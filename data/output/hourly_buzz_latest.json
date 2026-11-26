@@ -1,396 +1,232 @@
 {
-  "updated_at": "2026-11-26T15:00:47.807160",
-  "total_stories": 6,
+  "updated_at": "2026-11-26T16:00:54.164358",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "295d46c6-af88-58da-b00f-0ddd2b7b3a0a",
-      "primary_category": "climate_environment",
+      "story_id": "1750e640-c207-5914-8de0-3c5e607cbbf0",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "climate_environment",
-        "society_education",
-        "economy_business"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Chawkbazar",
-        "#FireService",
-        "#DhakaFire"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2021/05/19/fire.jpg",
+      "image_url": "https://images.unsplash.com/photo-1614610741181-2bce5e06976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Y2FzZSUyMGZpbGVkJTIwYWdhaW5zdCUyMHBlb3BsZSUyMGdvdmVybm1lbnR8ZW58MXwwfHx8MTc5NTcwODkxMnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-26T14:10:00+00:00",
+      "published_at": "2026-11-26T15:52:23+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.75,
-      "rank_score": 5.7169,
+      "importance_score": 7.25,
+      "rank_score": 5.2095,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/fire-breaks-out-warehouse-chawkbazar-building-1615156",
-          "title": "Fire breaks out at warehouse in Chawkbazar building",
-          "snippet": "Fire breaks out at warehouse in Chawkbazar building"
-        },
-        {
           "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823168/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%B0-%E0%A6%9A%E0%A6%95%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A6%A6%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A7%81%E0%A6%A8",
-          "title": "রাজধানীর চকবাজারে প্লাস্টিকের গুদামে আগুন, নিয়ন্ত্রণে পাঁচ ইউনিট",
-          "snippet": "রাজধানীর চকবাজারে প্লাস্টিকের গুদামে আগুন, নিয়ন্ত্রণে পাঁচ ইউনিট"
+          "url": "https://www.ittefaq.com.bd/823176/%E0%A6%9F%E0%A7%81%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BF%E0%A6%AA%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BE-%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%9A%E0%A7%81%E0%A6%B0-%E0%A6%93-%E0%A6%85%E2%80%99%E0%A6%97%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%B8%E0%A6%82%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A7%AE-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A7%A8%E0%A7%AC",
+          "title": "টুঙ্গিপাড়া থানায় ভাঙচুর ও অ’গ্নিসংযোগ: ৮ হাজার ২৬ জনকে আসামি করে মামলা",
+          "snippet": "টুঙ্গিপাড়া থানায় ভাঙচুর ও অ’গ্নিসংযোগ: ৮ হাজার ২৬ জনকে আসামি করে মামলা"
         },
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1184134",
-          "title": "চকবাজারে প্লাস্টিকের গোডাউনে আগুন, নিয়ন্ত্রণে ৫ ইউনিট",
-          "snippet": "চকবাজারে প্লাস্টিকের গোডাউনে আগুন, নিয়ন্ত্রণে ৫ ইউনিট"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/national/501128",
-          "title": "পুরান ঢাকার চকবাজারে প্লাস্টিকের গোডাউনে আগুন, নিয়ন্ত্রণে ৫ ইউনিট",
-          "snippet": "পুরান ঢাকার চকবাজারে প্লাস্টিকের গোডাউনে আগুন, নিয়ন্ত্রণে ৫ ইউনিট"
+          "url": "https://www.jagonews24.com/country/news/1184163",
+          "title": "টুঙ্গিপাড়া থানায় হামলা-অস্ত্র লুট, ৮ হাজার ২৬ জনের বিরুদ্ধে মামলা",
+          "snippet": "টুঙ্গিপাড়া থানায় হামলা-অস্ত্র লুট, ৮ হাজার ২৬ জনের বিরুদ্ধে মামলা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রাজধানীর চকবাজারে প্লাস্টিক গুদামে আগুন লেগেছে",
-        "title_en": "Fire breaks out at plastic warehouse in Chawkbazar",
-        "summary_bn": "রাজধানীর চকবাজারের ছোট কাটারা এলাকায় একটি ছয়তলা ভবনের চতুর্থ তলায় প্লাস্টিকের গুদামে আগুন লেগেছে।",
-        "summary_en": "A fire broke out at a plastic warehouse on the fourth floor of a building in Chawkbazar.",
+        "title_bn": "টুঙ্গিপাড়া থানায় হামলা ও অস্ত্র লুটের ঘটনায় ৮ হাজার ২৬ জনের বিরুদ্ধে মামলা",
+        "title_en": "Case filed against 8,026 people over attack and arms looting at Tungipara police station",
+        "summary_bn": "গোপালগঞ্জের টুঙ্গিপাড়া থানায় হামলা, ভাঙচুর, অগ্নিসংযোগ ও অস্ত্র লুটের ঘটনায় সন্ত্রাসবিরোধী আইনে ৮ হাজার ২৬ জনের বিরুদ্ধে মামলা করেছে পুলিশ।",
+        "summary_en": "Police have filed a case under the Anti-Terrorism Act against 8,026 people over the attack, vandalism, arson, and arms looting at Tungipara police station in Gopalganj.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "climate_environment",
-          "society_education",
-          "economy_business"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T14:10:00+00:00",
-        "lead_bn": "রাজধানীর চকবাজারের ছোট কাটারা এলাকায় একটি ছয়তলা ভবনের চতুর্থ তলায় প্লাস্টিকের গুদামে আগুন লেগেছে।",
-        "lead_en": "A fire broke out at a plastic warehouse on the fourth floor of a building in Chawkbazar.",
+        "published_at": "2026-11-26T15:52:23+00:00",
+        "lead_bn": "গোপালগঞ্জের টুঙ্গিপাড়া থানায় হামলা, ভাঙচুর, অগ্নিসংযোগ ও অস্ত্র লুটের ঘটনায় সন্ত্রাসবিরোধী আইনে ৮ হাজার ২৬ জনের বিরুদ্ধে মামলা করেছে পুলিশ।",
+        "lead_en": "Police have filed a case under the Anti-Terrorism Act against 8,026 people over the attack, vandalism, arson, and arms looting at Tungipara police station in Gopalganj.",
         "bullets_bn": [
-          "ফায়ার সার্ভিসের পাঁচটি ইউনিট আগুন নিয়ন্ত্রণে কাজ করছে।",
-          "ফায়ার সার্ভিস নিয়ন্ত্রণ কক্ষের ডিউটি অফিসার রোজিনা আক্তার অগ্নিকাণ্ডের বিষয়টি নিশ্চিত করেছেন।",
-          "আগুন লাগার কারণ এবং হতাহতের কোনো খবর তাৎক্ষণিকভাবে জানা যায়নি।"
+          "মামলায় কার্যক্রম নিষিদ্ধ টুঙ্গিপাড়া উপজেলা আওয়ামী লীগের সাধারণ সম্পাদক মো. বাবুল শেখকে প্রধান আসামি করা হয়েছে।",
+          "মামলায় ২৬ জনের নাম উল্লেখ করা হয়েছে এবং বাকিরা অজ্ঞাতনামা আসামি।",
+          "প্রধান আসামি ছাড়াও উপজেলা কমিটির সহ-সভাপতি মো. ইলিয়াস হোসেন সরদারসহ বেশ কয়েকজনকে আসামি করা হয়েছে।"
         ],
         "bullets_en": [
-          "Five firefighting units are working to bring the blaze under control.",
-          "Rozina Akter, duty officer at the control room, confirmed the incident.",
-          "The cause of the fire and any casualties could not be confirmed immediately."
+          "Md. Babul Sheikh, general secretary of the banned Tungipara upazila Awami League, has been made the prime accused.",
+          "The case names 26 individuals while the rest are unnamed accused persons.",
+          "Aside from the prime accused, upazila committee vice-president Md. Elias Hossain Sardar and several others have been accused."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "চকবাজারে প্লাস্টিকের গুদামে আগুন",
-        "kicker_bn": "ব্রেকিং",
+        "details_bn": "গোপালগঞ্জের টুঙ্গিপাড়া থানায় হামলা, ভাঙচুর, অগ্নিসংযোগ ও অস্ত্র-গোলাবারুদ লুটের ঘটনা ঘটেছে। এসব ঘটনায় পুলিশ সন্ত্রাসবিরোধী আইনে মামলা দায়ের করেছে। মামলায় কার্যক্রম নিষিদ্ধ টুঙ্গিপাড়া উপজেলা আওয়ামী লীগের সাধারণ সম্পাদক মো. বাবুল শেখকে প্রধান আসামি করা হয়েছে। এছাড়া উপজেলা কমিটির সহ-সভাপতি মো. ইলিয়াস হোসেন সরদার, যুগ্ম সাধারণ সম্পাদক এমদাদ বিশ্বাস এবং সাংগঠনিক সম্পাদক তৌফিক বিশ্বাসসহ ২৬ জনের নাম উল্লেখ করে অজ্ঞাত আরও অনেকের বিরুদ্ধে মামলা করা হয়।",
+        "details_en": "Attacks, vandalism, arson, and looting of arms and ammunition took place at Tungipara police station in Gopalganj. Police filed a case under the Anti-Terrorism Act over these incidents. Md. Babul Sheikh, general secretary of the banned Tungipara upazila Awami League, was named as the prime accused. Additionally, 26 individuals including upazila committee vice-president Md. Elias Hossain Sardar, joint general secretary Emdad Biswas, and organizing secretary Toufik Biswas were named alongside unnamed others.",
+        "hook_bn": "টুঙ্গিপাড়া থানায় হামলা ও অস্ত্র লুট",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 7.0,
-      "outlet_count": 5,
+      "outlet_count": 2,
       "trending": false,
       "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-26T15:01:48.894432+00:00"
+        "checked_at": "2026-11-26T16:02:32.057265+00:00"
       }
     },
     {
-      "story_id": "b5baf422-ca20-5e05-8830-a14d1adc975c",
-      "primary_category": "economy_business",
+      "story_id": "4abe6899-ca47-5ff1-aef2-56ec13a90bb0",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "economy_business"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#MFS",
-        "#Economy",
-        "#Finance"
+        "#Pallabi",
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-26%2Fixb68xeg%2FgopalgonjMFS-1.jpg?rect=0%2C0%2C4032%2C2117&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://images.unsplash.com/photo-1513894697031-3e3aa4c54326?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bWlzY3JlYW50cyUyMHNldCUyMGZpcmUlMjBwYXJrZWQlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTU3MDg5MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-26T14:48:28+00:00",
+      "published_at": "2026-11-26T15:47:56+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 5.556,
+      "importance_score": 6.75,
+      "rank_score": 4.4964,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/dhethguono",
-          "title": "গোপালগঞ্জে মুঠোফোনে টাকা লেনদেন করতে পারছেন না অনেক গ্রাহক",
-          "snippet": "গোপালগঞ্জে মুঠোফোনে টাকা লেনদেন করতে পারছেন না অনেক গ্রাহক"
-        },
-        {
           "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/nation/425865/mfs-account-locks-leave-gopalganj-customers",
-          "title": "MFS account locks leave Gopalganj customers stranded",
-          "snippet": "MFS account locks leave Gopalganj customers stranded"
+          "url": "https://www.dhakatribune.com/bangladesh/425867/bus-set-on-fire-while-parked-in-pallabi",
+          "title": "Bus set on fire while parked in Pallabi",
+          "snippet": "Bus set on fire while parked in Pallabi"
         },
         {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/country/501135",
-          "title": "গোপালগঞ্জে বন্ধ অসংখ্য মোবাইল ব্যাংকিং সেবা ব্যবহারকারীর অ্যাকাউন্ট",
-          "snippet": "গোপালগঞ্জে বন্ধ অসংখ্য মোবাইল ব্যাংকিং সেবা ব্যবহারকারীর অ্যাকাউন্ট"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/bus-set-fire-mirpurs-pallabi-1615186",
+          "title": "Bus set on fire in Mirpur's Pallabi",
+          "snippet": "Bus set on fire in Mirpur's Pallabi"
+        },
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/crime/029byk9tsa",
+          "title": "পল্পবীতে বাসে আগুন দিয়েছে দুর্বৃত্তরা",
+          "snippet": "পল্পবীতে বাসে আগুন দিয়েছে দুর্বৃত্তরা"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/823172/%E0%A6%AA%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%AC%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A7%81%E0%A6%A8-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE",
+          "title": "পল্লবীতে বাসে আগুন দিয়েছে দুর্বৃত্তরা",
+          "snippet": "পল্লবীতে বাসে আগুন দিয়েছে দুর্বৃত্তরা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গোপালগঞ্জে অনেক গ্রাহক মুঠোফোনে টাকা লেনদেন করতে পারছেন না",
-        "title_en": "Many customers in Gopalganj unable to transact money on mobile phones",
-        "summary_bn": "গোপালগঞ্জে হঠাৎ করে মুঠোফোনে আর্থিক সেবা ব্যবহার করতে পারছেন না অনেক গ্রাহক এবং বন্ধ হতে শুরু করেছে ব্যক্তিগত হিসাব।",
-        "summary_en": "Many customers in Gopalganj are suddenly unable to use mobile financial services and personal accounts have started closing.",
+        "title_bn": "পল্লবীতে পার্ক করা বাসে আগুন দিয়েছে দুর্বৃত্তরা",
+        "title_en": "Miscreants set fire to a parked bus in Pallabi",
+        "summary_bn": "রাজধানীর পল্লবীর মিরপুর ১১ নম্বর এলাকায় পার্ক করা মধুমতি পরিবহনের একটি বাসে আগুন দিয়েছে দুর্বৃত্তরা।",
+        "summary_en": "Miscreants set fire to a Madhumoti Paribahan bus parked in the Mirpur 11 area of the capital's Pallabi.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T14:48:28+00:00",
-        "lead_bn": "গোপালগঞ্জে হঠাৎ করে মুঠোফোনে আর্থিক সেবা ব্যবহার করতে পারছেন না অনেক গ্রাহক এবং বন্ধ হতে শুরু করেছে ব্যক্তিগত হিসাব।",
-        "lead_en": "Many customers in Gopalganj are suddenly unable to use mobile financial services and personal accounts have started closing.",
+        "published_at": "2026-11-26T15:47:56+00:00",
+        "lead_bn": "রাজধানীর পল্লবীর মিরপুর ১১ নম্বর এলাকায় পার্ক করা মধুমতি পরিবহনের একটি বাসে আগুন দিয়েছে দুর্বৃত্তরা।",
+        "lead_en": "Miscreants set fire to a Madhumoti Paribahan bus parked in the Mirpur 11 area of the capital's Pallabi.",
         "bullets_bn": [
-          "গ্রাহকেরা টাকা তুলতে, পাঠাতে ও জরুরি লেনদেন করতে পারেননি।",
-          "নিবন্ধিত মুঠোফোন নম্বরে প্রতিষ্ঠানগুলো থেকে এসএমএস পাঠানো হচ্ছে।",
-          "এমএফএস বিধিমালা অনুযায়ী অ্যাকাউন্ট সাময়িকভাবে বন্ধ রাখা হয়েছে।"
+          "২৬ নভেম্বর সন্ধ্যা ৭টার দিকে অগ্নিকাণ্ডের এই ঘটনা ঘটে।",
+          "পল্লবীর সেকশন ১১-এর বিহারী মিল্লাত ক্যাম্পের কাছের সড়কে ঘটনাটি ঘটে আনুমানিক সাড়ে ছয়টায়।",
+          "আগুন দেওয়ার এই ঘটনায় কারও হতাহত হওয়ার খবর পাওয়া যায়নি।"
         ],
         "bullets_en": [
-          "Customers could not withdraw, send money or make urgent transactions.",
-          "SMS are being sent from companies to registered mobile numbers.",
-          "Accounts have been temporarily closed according to MFS rules."
+          "The fire incident took place around 7:00 pm November 26.",
+          "The incident occurred around 6:30 pm on a road near the Bihari Millat Camp in Section 11 of Pallabi.",
+          "No casualties were reported from the arson incident."
         ],
-        "impact_bn": "অ্যাকাউন্ট বন্ধ থাকায় গ্রাহকেরা জরুরি লেনদেন ও বিশ্ববিদ্যালয় ভর্তির ফি পরিশোধ করতে না পেরে দুশ্চিন্তায় পড়েছেন।",
-        "impact_en": "Customers are worried as they cannot make urgent transactions and pay university admission fees due to blocked accounts.",
-        "details_bn": "গোপালগঞ্জে অনেক গ্রাহক মুঠোফোনে আর্থিক সেবা ব্যবহার করতে পারছেন না। ব্যক্তিগত এমএফএস অ্যাকাউন্ট বন্ধ হতে শুরু করায় গ্রাহকেরা টাকা তুলতে বা পাঠাতে গিয়ে সমস্যায় পড়েন। বিকাশ, নগদ, রকেটের গ্রাহকেরা লেনদেন করতে না পেরে উদ্বেগ ও অনিশ্চয়তার মধ্যে পড়েছেন।",
-        "details_en": "Many customers in Gopalganj cannot use mobile financial services. As personal MFS accounts started closing, customers faced problems withdrawing or sending money. bKash, Nagad and Rocket customers faced anxiety and uncertainty for not being able to transact.",
-        "hook_bn": "মুঠোফোনে টাকা লেনদেন করতে পারছেন না গ্রাহকেরা",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": "আপনার মুঠোফোনে আর্থিক সেবার অ্যাকাউন্ট কি সচল রয়েছে?"
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "পুলিশ জানিয়েছে, আগুনে বাসের বেশিরভাগ আসন ও জানালার কাচ ক্ষতিগ্রস্ত হয়েছে। এতে আনুমানিক দুই লাখ টাকার ক্ষতি হয়েছে। খবর পেয়ে পুলিশ ঘটনাস্থলে যায়। পল্লবী থানার ভারপ্রাপ্ত কর্মকর্তা মো. জালাল উদ্দিন বিষয়টি নিশ্চিত করেছেন।",
+        "details_en": "Police said the fire damaged most of the seats and windowpanes, causing an estimated loss of Tk200,000. Police went to the scene after receiving the news. Pallabi police station officer-in-charge Md. Jalal Uddin confirmed the matter.",
+        "hook_bn": "পল্লবীতে পার্ক করা বাসে আগুন",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
       },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
+      "desk_importance": 6.0,
+      "outlet_count": 4,
       "trending": false,
       "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-26T15:01:48.894432+00:00"
+        "checked_at": "2026-11-26T16:02:32.057265+00:00"
       }
     },
     {
-      "story_id": "512fabbe-86af-5f62-a93c-3ea791a67719",
+      "story_id": "a0727437-b13b-533d-af22-49455eb3ed0a",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business",
-        "world_diplomacy"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#TariqueRahman",
-        "#Malaysia",
-        "#HazratShahjalalInternationalAirport"
+        "#RuposhiBanglaExpress",
+        "#BangladeshRailway",
+        "#Benapole"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/26/prime_minister.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/07/19/train_unb_img.jpg",
       "image_caption": null,
-      "published_at": "2026-11-26T14:00:00+00:00",
+      "published_at": "2026-11-26T14:25:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 5.3027,
+      "importance_score": 6.25,
+      "rank_score": 3.5591,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/pm-stresses-skills-development-overseas-jobs-urges-workers-uphold-bangladeshs-image",
-          "title": "PM stresses skills development for overseas jobs, urges workers to uphold Bangladesh's image",
-          "snippet": "PM stresses skills development for overseas jobs, urges workers to uphold Bangladesh's image"
+          "url": "https://www.tbsnews.net/bangladesh/transport/eight-day-suspension-ruposhi-bangla-train-leaves-southwestern-passengers",
+          "title": "Eight-day suspension of Ruposhi Bangla train leaves southwestern passengers in distress",
+          "snippet": "Eight-day suspension of Ruposhi Bangla train leaves southwestern passengers in distress"
         },
         {
           "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/425860/pm-inaugurates-zero-cost-manpower-export-to",
-          "title": "PM inaugurates zero-cost manpower export to Malaysia",
-          "snippet": "PM inaugurates zero-cost manpower export to Malaysia"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/tarique-launches-first-ever-zero-cost-worker-migration-programme-to-malaysia",
-          "title": "Tarique launches first-ever zero-cost worker migration programme to Malaysia",
-          "snippet": "Tarique launches first-ever zero-cost worker migration programme to Malaysia"
+          "url": "https://www.dhakatribune.com/bangladesh/425862/ruposhi-bangla-express-suspension-disrupts",
+          "title": "Ruposhi Bangla Express suspension disrupts Benapole-Dhaka passengers",
+          "snippet": "Ruposhi Bangla Express suspension disrupts Benapole-Dhaka passengers"
         }
       ],
       "daily_buzz": {
-        "title_bn": "প্রধানমন্ত্রী মালয়েশিয়ায় শূন্য খরচে কর্মী পাঠানোর উদ্যোগ উদ্বোধন করেছেন",
-        "title_en": "Prime Minister inaugurates zero-cost worker migration programme to Malaysia",
-        "summary_bn": "প্রধানমন্ত্রী তারিক রহমান ২৬ নভেম্বর হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে কোনো অভিবাসন খরচ ছাড়াই মালয়েশিয়ায় বাংলাদেশি কর্মী পাঠানোর সরকারি উদ্যোগ উদ্বোধন করেছেন।",
-        "summary_en": "Prime Minister Tarique Rahman on 26 November inaugurated a government initiative to send Bangladeshi workers to Malaysia at no migration cost at Hazrat Shahjalal International Airport.",
+        "title_bn": "নিরাপত্তাজনিত কারণে রূপসী বাংলা ট্রেন চলাচল আট দিন ধরে স্থগিত",
+        "title_en": "Suspension of Ruposhi Bangla train service continues for eight days",
+        "summary_bn": "নিরাপত্তাজনিত কারণে বেনাপোল-যশোর-ঢাকা রুটে রূপসী বাংলা এক্সপ্রেস ট্রেন চলাচল আট দিন ধরে স্থগিত রয়েছে।",
+        "summary_en": "The Ruposhi Bangla Express train service on the Benapole-Jessore-Dhaka route has remained suspended for eight consecutive days over security concerns.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business",
-          "world_diplomacy"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T14:00:00+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারিক রহমান ২৬ নভেম্বর হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে কোনো অভিবাসন খরচ ছাড়াই মালয়েশিয়ায় বাংলাদেশি কর্মী পাঠানোর সরকারি উদ্যোগ উদ্বোধন করেছেন।",
-        "lead_en": "Prime Minister Tarique Rahman on 26 November inaugurated a government initiative to send Bangladeshi workers to Malaysia at no migration cost at Hazrat Shahjalal International Airport.",
+        "published_at": "2026-11-26T14:25:00+00:00",
+        "lead_bn": "নিরাপত্তাজনিত কারণে বেনাপোল-যশোর-ঢাকা রুটে রূপসী বাংলা এক্সপ্রেস ট্রেন চলাচল আট দিন ধরে স্থগিত রয়েছে।",
+        "lead_en": "The Ruposhi Bangla Express train service on the Benapole-Jessore-Dhaka route has remained suspended for eight consecutive days over security concerns.",
         "bullets_bn": [
-          "অনুষ্ঠানে মালয়েশিয়াগামী ১১২ জন কর্মীর প্রথম দলের বিদায় জানানো হয়।",
-          "প্রধানমন্ত্রী অভিবাসী কর্মীদের স্বাগতিক দেশের আইন মেনে দেশের ভাবমূর্তি বজায় রাখার আহ্বান জানিয়েছেন।",
-          "সরকার আন্তর্জাতিক বাজারের চাহিদা পূরণে কর্মীদের ভাষা প্রশিক্ষণসহ দক্ষতা উন্নয়নে কাজ করছে।"
+          "বাংলাদেশ রেলওয়ে ২৫ নভেম্বর থেকে ঢাকা-বেনাপোল-ঢাকা রুটের রূপসী বাংলা এবং খুলনা-ঢাকা-খুলনা রুটের জাহানাবাদ এক্সপ্রেস বাতিল করেছে।",
+          "বেনাপোল রেলওয়ে স্টেশনের সহকারী স্টেশন মাস্টার মোসাম্মৎ পারভীন খাতুন জানিয়েছেন, নতুন নির্দেশিকায় ট্রেন চলাচল স্থগিতের মেয়াদ বাড়ানো হয়েছে।",
+          "স্থানীয় প্রশাসন নিরাপদ ট্রেন চলাচলের সুনির্দিষ্ট তথ্য বা মূল্যায়ন না দেওয়ায় রেলওয়ের নিরাপত্তার স্বার্থে এই সিদ্ধান্ত নেওয়া হয়েছে।"
         ],
         "bullets_en": [
-          "The first batch of 112 workers leaving for Malaysia under the programme was given a farewell.",
-          "The prime minister urged migrant workers to respect host countries laws and uphold Bangladesh image.",
-          "The government is working on skills development and language training to meet international market demands."
+          "Bangladesh Railway cancelled the Ruposhi Bangla Express on the Dhaka-Benapole-Dhaka route and the Jahanabad Express on the Khulna-Dhaka-Khulna route from 25 November.",
+          "Mosammat Parveen Khatun, assistant station master at Benapole Railway Station, said a fresh directive extended the suspension of the train service.",
+          "The decision was taken in the interest of overall railway security as the local administration had not provided an assessment confirming safe operations."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "শূন্য খরচে মালয়েশিয়ায় ১১২ কর্মীর যাত্রা",
-        "kicker_bn": "নতুন উদ্যোগ",
+        "impact_bn": "সেবা স্থগিত থাকায় নিয়মিত যাত্রী, শিক্ষার্থী, চাকরিজীবী ও ব্যবসায়ীরা বেশি খরচে ও দীর্ঘ সময়ে সড়কপথে যাতায়াত করতে বাধ্য হচ্ছেন।",
+        "impact_en": "The suspension forces regular passengers, including students, office-goers and businesspeople, to rely on road transport to reach Dhaka at higher costs and with longer travel times.",
+        "details_bn": "বেনাপোল থেকে ঢাকা পৌঁছাতে চার ঘণ্টা এবং যশোর থেকে তিন ঘণ্টা সময় লাগত। ট্রেন চলাচল না থাকায় বেনাপোল রেলওয়ে স্টেশন চত্বর মূলত জনশূন্য রয়েছে। এদিকে যশোর রেলওয়ে স্টেশনের মাস্টার সাইদুজ্জামান জানিয়েছেন, জাহানাবাদ এক্সপ্রেস বিকল্প রুটে চলাচল করবে।",
+        "details_en": "Passengers previously could reach Kamalapur Railway Station from Benapole in around four hours and Jessore in three hours. A visit to Benapole Railway Station found the premises largely deserted. Jessore Railway Station Master Saiduzzaman said the Jahanabad Express would operate on an alternative route.",
+        "hook_bn": "আট দিন ধরে স্থগিত রূপসী বাংলা ট্রেন",
+        "kicker_bn": "সতর্কতা",
         "share_value": true,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-26T15:01:48.894432+00:00"
-      }
-    },
-    {
-      "story_id": "54fc7333-50b7-5be1-9e5f-39b77ac6ad77",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#BCSFisheies",
-        "#PublicAdministrationMinistry",
-        "#BangladeshCivilService"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/10/06/screenshot_2026-10-06_114635.png",
-      "image_caption": null,
-      "published_at": "2026-11-26T14:30:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.7546,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/government-forms-separate-bcs-fisheries-cadre-delinks-it-agriculture-1615201",
-          "title": "Government forms separate BCS fisheries cadre, delinks it from agriculture",
-          "snippet": "Government forms separate BCS fisheries cadre, delinks it from agriculture"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মৎস্য অধিদপ্তরকে কৃষি ক্যাডার থেকে আলাদা করল সরকার",
-        "title_en": "Government forms separate BCS fisheries cadre, delinks it from agriculture",
-        "summary_bn": "জনপ্রশাসন মন্ত্রণালয় ২৫ নভেম্বর বাংলাদেশ সিভিল সার্ভিস মৎস্য ক্যাডার গঠন করে প্রজ্ঞাপন জারি করেছে।",
-        "summary_en": "The Public Administration Ministry issued a notification on 25 November forming the BCS Fisheries cadre.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-26T14:30:00+00:00",
-        "lead_bn": "জনপ্রশাসন মন্ত্রণালয় ২৫ নভেম্বর বাংলাদেশ সিভিল সার্ভিস মৎস্য ক্যাডার গঠন করে প্রজ্ঞাপন জারি করেছে।",
-        "lead_en": "The Public Administration Ministry issued a notification on 25 November forming the BCS Fisheries cadre.",
-        "bullets_bn": [
-          "নতুন ক্যাডারে ১২৯৫টি নিয়মিত পদসহ মোট ১৩৫৭টি পদ রয়েছে।",
-          "পূর্বের নিয়মে নিয়োগপ্রাপ্ত কর্মকর্তাদের চাকরির ধারাবাহিকতা ও সুযোগ-সুবিধা সংরক্ষিত থাকবে।",
-          "ভবিষ্যতে বাংলাদেশ সিভিল সার্ভিস নিয়োগ বিধিমালা অনুযায়ী নতুন নিয়োগ হবে।"
-        ],
-        "bullets_en": [
-          "The new cadre will initially have 1,357 posts, including 1,295 regular positions.",
-          "Existing officials appointed under previous rules will maintain their service continuity and benefits.",
-          "Future recruitment will follow the Bangladesh Civil Service Recruitment Rules."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "মৎস্য ও প্রাণিসম্পদ মন্ত্রণালয়ের কর্মকর্তাদের মতে, স্বাধীনতার পর মৎস্য, বন ও প্রাণী পালন খাত কৃষি মন্ত্রণালয়ের অধীনে ছিল। নতুন কাঠামোর অধীনে পরিচালক জেনারেল, পরিচালক, জেলা মৎস্য কর্মকর্তা এবং বিভিন্ন বৈজ্ঞানিক পদসহ বিভিন্ন পদ অন্তর্ভুক্ত করা হয়েছে।",
-        "details_en": "Fisheries and Livestock Ministry officials said fisheries, forestry and animal husbandry were initially under the Agriculture Ministry after independence. The new structure includes positions such as director general, director, district fisheries officer and various scientific posts.",
-        "hook_bn": "মৎস্য ক্যাডার আলাদা করল সরকার",
-        "kicker_bn": "নতুন প্রজ্ঞাপন",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-26T15:01:48.894432+00:00"
-      }
-    },
-    {
-      "story_id": "05617a25-db3b-507e-b64b-351fc0f953cb",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#SylhetAirport",
-        "#GoldSeizure",
-        "#NSI",
-        "#Customs"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1610375461246-83df859d849d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z29sZCUyMHNlaXplZCUyMGVpZ2h0JTIwcGFzc2VuZ2VycyUyMGdvdmVybm1lbnR8ZW58MXwwfHx8MTc5NTcwNTI5OXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-26T14:05:33+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.7022,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/crime/425858/gold-worth-tk1.15cr-seized-from-8-passengers-at",
-          "title": "Gold worth Tk1.15cr seized from 8 passengers at Sylhet airport",
-          "snippet": "Gold worth Tk1.15cr seized from 8 passengers at Sylhet airport"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/crime/gold-worth-tk115cr-seized-8-passengers-sylhet-airport-1615131",
-          "title": "Gold worth Tk1.15cr seized from 8 passengers at Sylhet airport",
-          "snippet": "Gold worth Tk1.15cr seized from 8 passengers at Sylhet airport"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সিলেট বিমানবন্দরে আট যাত্রীর কাছ থেকে সোনা জব্দ",
-        "title_en": "Gold seized from eight passengers at Sylhet airport",
-        "summary_bn": "সিলেট বিমানবন্দরে এনএসআই ও কাস্টমসের অভিযানে আট যাত্রীর কাছ থেকে ১ কোটি ১৫ লাখ টাকার সোনা জব্দ করা হয়েছে।",
-        "summary_en": "NSI and customs officials seized gold worth Tk1.15cr from eight passengers in a drive at Sylhet airport.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-26T14:05:33+00:00",
-        "lead_bn": "সিলেট বিমানবন্দরে এনএসআই ও কাস্টমসের অভিযানে আট যাত্রীর কাছ থেকে ১ কোটি ১৫ লাখ টাকার সোনা জব্দ করা হয়েছে।",
-        "lead_en": "NSI and customs officials seized gold worth Tk1.15cr from eight passengers in a drive at Sylhet airport.",
-        "bullets_bn": [
-          "জেদ্দাগামী একটি ফ্লাইট থেকে এই সোনা উদ্ধার করা হয়।",
-          "জব্দকৃত সোনার পরিমাণ ৬৮১ গ্রাম অপরিশোধিত ২৪ ক্যারেট সোনা।",
-          "জব্দ করা সোনার বিপরীতে ২ লাখ ৯১ হাজার ৯২৬ টাকা রাজস্ব আদায় করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "The gold was recovered from a Jeddah-bound flight.",
-          "The recovered quantity is 681g of raw 24-carat gold.",
-          "Tk2,91,926 was realized in revenue against the seized gold."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "সিলেট বিমানবন্দরে সোনা জব্দ",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
+        "question_bn": "বিকল্প সড়কপথে যাতায়াতে আপনাদের কী ধরনের সমস্যায় পড়তে হচ্ছে?"
       },
       "desk_importance": 6.0,
       "outlet_count": 2,
@@ -398,95 +234,160 @@
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-26T15:01:48.894432+00:00"
+        "checked_at": "2026-11-26T16:02:32.057265+00:00"
       }
     },
     {
-      "story_id": "a9301ee7-e7a6-536a-95b7-eef9b9292780",
-      "primary_category": "economy_business",
+      "story_id": "43c296bd-9a3e-5c95-8639-6f7f3ba81215",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "economy_business",
-        "world_diplomacy"
+        "world_diplomacy",
+        "society_education"
       ],
       "region": "international",
       "tags": [
-        "#UnitedStates",
-        "#China",
-        "#Tariffs"
+        "#Iran",
+        "#Kuwait",
+        "#Rheinmetall"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/07/24/us_tarrif_war.png",
+      "image_url": "https://static.dw.com/image/76620712_6.jpg",
       "image_caption": null,
-      "published_at": "2026-11-26T14:30:00+00:00",
+      "published_at": "2026-11-26T15:11:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 9.0,
-      "rank_score": 7.8597,
+      "importance_score": 5.0,
+      "rank_score": 2.381,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/worldbiz/usa/five-takeaways-trumps-new-tariffs-1615196",
-          "title": "Five takeaways from Trump's new tariffs",
-          "snippet": "Five takeaways from Trump's new tariffs"
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/iranian-drone-attack-kills-2-italians-in-kuwait/a-80064974?maca=en-rss-en-all-1573-rdf",
+          "title": "Iranian drone attack kills 2 Italians in Kuwait",
+          "snippet": "Iranian drone attack kills 2 Italians in Kuwait"
         },
         {
-          "name": "BBC News বাংলা",
-          "url": "https://www.bbc.com/bengali/articles/c5x2wxye4pw3o?at_medium=RSS&at_campaign=rss",
-          "title": "ট্রাম্পের নতুন শুল্ক ভারত-মার্কিন বাণিজ্য চুক্তিতে কী প্রভাব ফেলবে?",
-          "snippet": "ট্রাম্পের নতুন শুল্ক ভারত-মার্কিন বাণিজ্য চুক্তিতে কী প্রভাব ফেলবে?"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/govt-to-seek-concessions-from-us-on-unjustified-tariff-measures",
-          "title": "Govt to seek concessions from US on ‘unjustified’ tariff measures",
-          "snippet": "Govt to seek concessions from US on ‘unjustified’ tariff measures"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/business/news/983434/%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%AA%E0%A7%8B%E0%A6%B6%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%B6%E0%A7%81%E0%A6%B2%E0%A7%8D%E0%A6%95-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%9B%E0%A7%87-%E0%A7%A9%E0%A7%A9.%E0%A7%AC",
-          "title": "যুক্তরাষ্ট্রে বাংলাদেশি পোশাকে শুল্ক বাড়ছে ৩৩.৬ শতাংশ, বদলে যাচ্ছে প্রতিযোগিতার হিসাব",
-          "snippet": "যুক্তরাষ্ট্রে বাংলাদেশি পোশাকে শুল্ক বাড়ছে ৩৩.৬ শতাংশ, বদলে যাচ্ছে প্রতিযোগিতার হিসাব"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/middle-east/0eejxv1f7o",
+          "title": "ইরানের ড্রোন হামলায় কুয়েতে ইতালির দুই নাগরিক নিহত",
+          "snippet": "ইরানের ড্রোন হামলায় কুয়েতে ইতালির দুই নাগরিক নিহত"
         }
       ],
       "daily_buzz": {
-        "title_bn": "যুক্তরাষ্ট্র ১৪ দেশের পণ্যে নতুন শুল্ক প্রস্তাব করেছে",
-        "title_en": "United States proposed new tariffs on 14 countries",
-        "summary_bn": "অতিরিক্ত উৎপাদন সক্ষমতা মোকাবেলার যুক্তিতে চীন ও ইউরোপীয় ইউনিয়নসহ ১৪টি প্রধান বাণিজ্যিক অংশীদারের আমদানির ওপর নতুন শুল্ক প্রস্তাব করেছে যুক্তরাষ্ট্র।",
-        "summary_en": "The United States proposed new tariffs on imports from 14 major trading partners including China and the European Union to counter excess industrial capacity.",
+        "title_bn": "ইরানের ড্রোন হামলায় কুয়েতে ইতালির দুই নাগরিক নিহত হয়েছেন।",
+        "title_en": "Iranian drone attack kills two Italian citizens in Kuwait.",
+        "summary_bn": "কুয়েতে একটি ইরানি ড্রোন হামলায় জার্মানির অস্ত্র প্রস্তুতকারক প্রতিষ্ঠান রাইনমেটালের ইতালীয় শাখার দুই কর্মী নিহত হয়েছেন বলে জানিয়েছে ইতালির পররাষ্ট্র মন্ত্রণালয়।",
+        "summary_en": "An Iranian drone strike in Kuwait left two Italians dead who were working for German arms manufacturer Rheinmetall, according to the Italian Foreign Ministry.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "world_diplomacy"
+          "world_diplomacy",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T14:30:00+00:00",
-        "lead_bn": "অতিরিক্ত উৎপাদন সক্ষমতা মোকাবেলার যুক্তিতে চীন ও ইউরোপীয় ইউনিয়নসহ ১৪টি প্রধান বাণিজ্যিক অংশীদারের আমদানির ওপর নতুন শুল্ক প্রস্তাব করেছে যুক্তরাষ্ট্র।",
-        "lead_en": "The United States proposed new tariffs on imports from 14 major trading partners including China and the European Union to counter excess industrial capacity.",
+        "published_at": "2026-11-26T15:11:00+00:00",
+        "lead_bn": "কুয়েতে একটি ইরানি ড্রোন হামলায় জার্মানির অস্ত্র প্রস্তুতকারক প্রতিষ্ঠান রাইনমেটালের ইতালীয় শাখার দুই কর্মী নিহত হয়েছেন বলে জানিয়েছে ইতালির পররাষ্ট্র মন্ত্রণালয়।",
+        "lead_en": "An Iranian drone strike in Kuwait left two Italians dead who were working for German arms manufacturer Rheinmetall, according to the Italian Foreign Ministry.",
         "bullets_bn": [
-          "চীন নতুন শুল্ক প্রস্তাবের আওতায় ২০ শতাংশ পর্যন্ত সর্বোচ্চ হারের মুখোমুখি হবে।",
-          "যুক্তরাষ্ট্রের বাণিজ্য প্রতিনিধি জেমিসন গ্রিয়ার জানিয়েছেন, ১০ জানুয়ারি বাণিজ্য বিরতি শেষ হলে এই হার ৪০ শতাংশ পর্যন্ত বাড়তে পারে।",
-          "নতুন শুল্ক প্রস্তাব কার্যকর হলে যুক্তরাষ্ট্রের বাজারে বাংলাদেশের তৈরি পোশাক রফতানিতে গড় শুল্কের হার বেড়ে ৩৩ দশমিক ৬ শতাংশ পর্যন্ত হতে পারে।"
+          "পররাষ্ট্র মন্ত্রণালয়ের বিবৃতিতে বলা হয়েছে, রাইনমেটালের কর্মীরা কাজ করছিলেন এমন একটি স্থানে ড্রোন হামলার ফলে বিস্ফোরণ ঘটে।",
+          "কুয়েতের প্রতিরক্ষা মন্ত্রণালয় জানিয়েছে, একটি গুরুত্বপূর্ণ স্থানে সংঘটিত এই অপরাধমূলক হামলায় একজন কুয়েতি ও একজন পাকিস্তানি নাগরিক আহত হয়ে হাসপাতালে ভর্তি হয়েছেন।",
+          "ইউরোপীয় কাউন্সিলের বৈঠক চলাকালীন ইতালির প্রধানমন্ত্রী জর্চিয়া মেলোনি দুই ইতালীয় নাগরিকের মৃত্যুর খবর জানতে পারেন।"
         ],
         "bullets_en": [
-          "China would face the highest rate of 20% under the new tariff proposals.",
-          "The rate would go up to 40% if Beijing and Washington fail to further extend their trade truce, which is set to expire on 10 January, according to US Trade Representative Jamieson Greer.",
-          "The average tariff rate on Bangladeshi ready-made garment exports to the US market could increase up to 33.6% if the new tariff proposals are implemented."
+          "The Foreign Ministry statement said an explosion caused by a drone attack occurred at a site where the Rheinmetall workers were operating.",
+          "Kuwait's Defense Ministry stated that a Kuwaiti and a Pakistani national were injured and hospitalized in the criminal attack on a vital site.",
+          "Italian Prime Minister Giorgia Meloni learned of the tragic deaths of the two citizens during a European Council meeting."
         ],
-        "impact_bn": "যুক্তরাষ্ট্রের নতুন শুল্ক প্রস্তাব কার্যকর হলে বাংলাদেশি পোশাক রফতানিকারকদের ওপর বাড়তি চাপ তৈরি হবে।",
-        "impact_en": "Additional pressure will be created on Bangladeshi apparel exporters if the new US tariff proposals take effect.",
-        "details_bn": "অতিরিক্ত উৎপাদন সক্ষমতার অভিযোগে ওয়াশিংটন এই শুল্ক প্রস্তাব দিয়েছে। চীন জানিয়েছে তারা নতুন শুল্কের বিরুদ্ধে ব্যবস্থা নেওয়ার অধিকার সংরক্ষণ করে এবং বাণিজ্য বিরতি বাড়াতে দুই সরকার ঘনিষ্ট যোগাযোগ বজায় রাখছে। এছাড়া চীন ও যুক্তরাষ্ট্রের মধ্যে বাণিজ্য বিষয়গুলো ডিসেম্বরে চীনা নেতা শি জিনপিং এবং মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের প্রত্যাশিত শীর্ষ বৈঠকের এজেন্ডায় থাকতে পারে।",
-        "details_en": "Washington proposed the new tariffs to counter what it says is excess industrial capacity. China said it reserved the right to take measures against the new tariffs and that the two governments maintain close communication about extending the trade truce. Trade issues are likely to be on the agenda of an expected December summit between Chinese leader Xi Jinping and US President Donald Trump.",
-        "hook_bn": "যুক্তরাষ্ট্রের নতুন শুল্ক প্রস্তাবে বাড়ছে পোশাক রফতানির চাপ",
-        "kicker_bn": "শুল্ক বৃদ্ধি",
-        "share_value": true,
-        "question_bn": "যুক্তরাষ্ট্রের বাজারে নতুন শুল্ক প্রস্তাব বাংলাদেশের পোশাক খাতে কেমন প্রভাব ফেলতে পারে বলে আপনার মনে হয়?"
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "কুয়েতে ইরানি ড্রোন হামলায় ইতালির দুই নাগরিক নিহত",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
       },
-      "desk_importance": 8.0,
-      "outlet_count": 4,
-      "trending": true,
-      "social_appeal": 8.0,
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-26T15:01:48.894432+00:00"
+        "checked_at": "2026-11-26T16:02:32.057265+00:00"
+      }
+    },
+    {
+      "story_id": "b6891669-7cdd-522f-ab0e-5be4064e2a50",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#EhsanulHoqueMilon",
+        "#Rajshahi",
+        "#EducationMinister",
+        "#BiraldahaCollege"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/26/milon.png",
+      "image_caption": null,
+      "published_at": "2026-11-26T14:45:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.25,
+      "rank_score": 2.5602,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/education/milon-finds-only-one-female-student-class-during-college-inspection-rajshahi",
+          "title": "Milon finds only one female student in class during college inspection in Rajshahi",
+          "snippet": "Milon finds only one female student in class during college inspection in Rajshahi"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/nation/425856/edu-minister-finds-just-one-student-during",
+          "title": "Edu minister finds just one student during surprise college visit in Rajshahi",
+          "snippet": "Edu minister finds just one student during surprise college visit in Rajshahi"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "শিক্ষামন্ত্রীর কলেজ পরিদর্শনে ক্লাসে পাওয়া গেল মাত্র এক ছাত্রী",
+        "title_en": "Education minister finds only one student in class during college inspection",
+        "summary_bn": "রাজশাহীর পুঠিয়া উপজেলার বিড়ালদহ কলেজ পরিদর্শনে গিয়ে ক্লাসে মাত্র এক ছাত্রী উপস্থিত পাওয়ায় অসন্তোষ প্রকাশ করেছেন শিক্ষা এবং প্রাথমিক ও গণশিক্ষামন্ত্রী ডা. এ এন এম এহছানুল হক মিলন।",
+        "summary_en": "Education and Primary and Mass Education Minister Dr A N M Ehsanul Hoque Milon expressed dissatisfaction after finding only one student in class during a college visit in Rajshahi.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-26T14:45:00+00:00",
+        "lead_bn": "রাজশাহীর পুঠিয়া উপজেলার বিড়ালদহ কলেজ পরিদর্শনে গিয়ে ক্লাসে মাত্র এক ছাত্রী উপস্থিত পাওয়ায় অসন্তোষ প্রকাশ করেছেন শিক্ষা এবং প্রাথমিক ও গণশিক্ষামন্ত্রী ডা. এ এন এম এহছানুল হক মিলন।",
+        "lead_en": "Education and Primary and Mass Education Minister Dr A N M Ehsanul Hoque Milon expressed dissatisfaction after finding only one student in class during a college visit in Rajshahi.",
+        "bullets_bn": [
+          "নাটোরের এন এস কলেজের একটি অনুষ্ঠানে যোগ দিতে যাওয়ার পথে মন্ত্রী ২৬ নভেম্বর এই আকস্মিক পরিদর্শন করেন।",
+          "নিচতলা থেকে চতুর্থ তলার ক্লাসরুমগুলো ঘুরে প্রায় কোনো ছাত্রই উপস্থিত না থাকার বিষয়টি দেখা যায়।",
+          "শিক্ষার্থীরা ক্লাসে আসতে অনীহ হওয়ায় অনেক সময় ফোন করে তাদের ডাকতে হয় বলে জানান এক শিক্ষক।"
+        ],
+        "bullets_en": [
+          "The minister made the unannounced inspection on 26 November while on his way to a programme at Natore NS College.",
+          "He visited classrooms from the ground floor to the fourth floor and found almost no male students present.",
+          "A teacher acknowledged that students were often reluctant to attend and had to be called by phone to come to class."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "সকালে বিমানযোগে রাজশাহীতে পৌঁছে নাটোরের উদ্দেশ্যে রওনা দেন মন্ত্রী। পথিমধ্যে মহাসড়কের পাশে বিড়ালদহ কলেজ দেখতে পেয়ে তিনি আকস্মিক পরিদর্শনে নামেন। একটি হোম সায়েন্স ক্লাসে গিয়ে ১৫ জন শিক্ষার্থীর মধ্যে মাত্র একজনকে উপস্থিত পান এবং শিক্ষিকা এর কোনো সন্তোষজনক ব্যাখ্যা দিতে পারেননি।",
+        "details_en": "The minister arrived in Rajshahi by air in the morning and headed towards Natore. On his way, he noticed Biraldaha College beside the highway and stopped for an unannounced inspection. In a Home Science class, he found one of 15 students present, and the teacher could not provide a satisfactory explanation.",
+        "hook_bn": "কলেজে মাত্র এক ছাত্রী, শিক্ষামন্ত্রীর অসন্তোষ",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": "কলেজগুলোতে শিক্ষার্থীদের উপস্থিতি কম থাকার কারণ কী বলে আপনার মনে হয়?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-26T16:02:32.057265+00:00"
       }
     }
   ]
