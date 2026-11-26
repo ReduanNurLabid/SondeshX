@@ -1,393 +1,233 @@
 {
-  "updated_at": "2026-11-26T09:00:48.101945",
-  "total_stories": 5,
+  "updated_at": "2026-11-26T10:00:42.743671",
+  "total_stories": 3,
   "stories": [
     {
-      "story_id": "971e0432-ce84-5eaf-ad67-b6e6bb061e72",
-      "primary_category": "economy_business",
+      "story_id": "f4b7c856-512f-5065-860b-130d7593d92a",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "economy_business",
         "governance_law",
         "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#BangladeshBank",
-        "#GrameenBank"
+        "#ZiaulAhsan",
+        "#InternationalCrimesTribunal",
+        "#AttorneyGeneral",
+        "#HumanRights"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/26/bb_grameen_bank_collage.jpg",
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Attorney%20General.jpg",
       "image_caption": null,
-      "published_at": "2026-11-26T08:10:00+00:00",
+      "published_at": "2026-11-26T09:04:40+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 7.5,
-      "rank_score": 5.3543,
+      "rank_score": 5.3267,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/bangladesh-bank-concerned-over-attacks-104-grameen-bank-branches-offices-1614546",
-          "title": "BB expresses concern over attacks on 104 Grameen Bank branches, offices",
-          "snippet": "BB expresses concern over attacks on 104 Grameen Bank branches, offices"
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/attorney-general-seeks-death-penalty-ziaul-ahsan-4333786",
+          "title": "Attorney general seeks death penalty for Ziaul Ahsan",
+          "snippet": "Attorney general seeks death penalty for Ziaul Ahsan"
         },
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823097/%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A6%98%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%B6%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%A0%E0%A7%87%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%B8%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%95-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6",
-          "title": "ডিসেম্বর ঘিরে নাশকতা ঠেকাতে সতর্ক পুলিশ, রাষ্ট্রবিরোধী অভিযোগে ৪ কর্মকর্তা আটক",
-          "snippet": "ডিসেম্বর ঘিরে নাশকতা ঠেকাতে সতর্ক পুলিশ, রাষ্ট্রবিরোধী অভিযোগে ৪ কর্মকর্তা আটক"
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/law-justice/post-1226128/",
+          "title": "মৃত্যুদণ্ডই হতে পারে জিয়াউলের একমাত্র সাজা: অ্যাটর্নি জেনারেল",
+          "snippet": "মৃত্যুদণ্ডই হতে পারে জিয়াউলের একমাত্র সাজা: অ্যাটর্নি জেনারেল"
         },
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/economy/news/1183952",
-          "title": "২৯ ডিসেম্বর থেকে বিসিকের তিন দিনব্যাপী শিল্পমেলা, থাকবে ৬৪ জেলার পণ্য",
-          "snippet": "২৯ ডিসেম্বর থেকে বিসিকের তিন দিনব্যাপী শিল্পমেলা, থাকবে ৬৪ জেলার পণ্য"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/business/money-and-investment/983362/%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%80%E0%A6%A3-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A7%A7%E0%A7%A6%E0%A7%AA-%E0%A6%B6%E0%A6%BE%E0%A6%96%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7",
-          "title": "গ্রামীণ ব্যাংকের ১০৪ শাখা-কার্যালয়ে হামলা, বন্ধ ২৯টির কার্যক্রম: বাংলাদেশ ব্যাংক",
-          "snippet": "গ্রামীণ ব্যাংকের ১০৪ শাখা-কার্যালয়ে হামলা, বন্ধ ২৯টির কার্যক্রম: বাংলাদেশ ব্যাংক"
+          "url": "https://www.jagonews24.com/law-courts/news/1183991",
+          "title": "মানুষের জীবন ছিল জিয়াউল আহসানের কাছে খেলনা: অ্যাটর্নি জেনারেল",
+          "snippet": "মানুষের জীবন ছিল জিয়াউল আহসানের কাছে খেলনা: অ্যাটর্নি জেনারেল"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গ্রামীণ ব্যাংকের ১০৪ শাখা ও কার্যালয়ে হামলা ও উদ্বেগের প্রকাশ বাংলাদেশ ব্যাংকের",
-        "title_en": "Bangladesh Bank expresses concern over attacks on 104 Grameen Bank branches and offices",
-        "summary_bn": "দেশের বিভিন্ন স্থানে গ্রামীণ ব্যাংকের ১০৪টি শাখা ও কার্যালয়ে হামলার ঘটনায় উদ্বেগ প্রকাশ করেছে বাংলাদেশ ব্যাংক।",
-        "summary_en": "Bangladesh Bank expressed concern over recent attacks on Grameen Bank branches and offices across the country.",
+        "title_bn": "মানবতাবিরোধী অপরাধের মামলায় জিয়াউল আহসানের মৃত্যুদণ্ড চাইলেন অ্যাটর্নি জেনারেল",
+        "title_en": "Attorney General seeks death penalty for Ziaul Ahsan in crimes against humanity case",
+        "summary_bn": "আওয়ামী লীগ সরকারের আমলে গুম ও হত্যার অভিযোগে সাবেক সেনা কর্মকর্তা মেজর জেনারেল (অব.) জিয়াউল আহসানের মৃত্যুদণ্ড চেয়ে আন্তর্জাতিক অপরাধ ট্রাইব্যুনালে আবেদন করেছেন অ্যাটর্নি জেনারেল।",
+        "summary_en": "Attorney General Md Ruhul Quddus Kazal urged the International Crimes Tribunal-1 to sentence Maj Gen (relieved) Ziaul Ahsan to death for enforced disappearances and killings.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
           "governance_law",
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T08:10:00+00:00",
-        "lead_bn": "দেশের বিভিন্ন স্থানে গ্রামীণ ব্যাংকের ১০৪টি শাখা ও কার্যালয়ে হামলার ঘটনায় উদ্বেগ প্রকাশ করেছে বাংলাদেশ ব্যাংক।",
-        "lead_en": "Bangladesh Bank expressed concern over recent attacks on Grameen Bank branches and offices across the country.",
+        "published_at": "2026-11-26T09:04:40+00:00",
+        "lead_bn": "আওয়ামী লীগ সরকারের আমলে গুম ও হত্যার অভিযোগে সাবেক সেনা কর্মকর্তা মেজর জেনারেল (অব.) জিয়াউল আহসানের মৃত্যুদণ্ড চেয়ে আন্তর্জাতিক অপরাধ ট্রাইব্যুনালে আবেদন করেছেন অ্যাটর্নি জেনারেল।",
+        "lead_en": "Attorney General Md Ruhul Quddus Kazal urged the International Crimes Tribunal-1 to sentence Maj Gen (relieved) Ziaul Ahsan to death for enforced disappearances and killings.",
         "bullets_bn": [
-          "১০ নভেম্বর থেকে ২৫ নভেম্বর পর্যন্ত এসব হামলার ঘটনা ঘটে।",
-          "নিরাপত্তাজনিত কারণে ২৯টি শাখার কার্যক্রম সাময়িকভাবে বন্ধ রয়েছে।",
-          "হামলায় অবকাঠামো, আসবাবপত্র, গুরুত্বপূর্ণ কাগজপত্র এবং অন্যান্য সম্পদ ক্ষতিগ্রস্ত হয়েছে।"
+          "রাষ্ট্রপক্ষ যুক্তি দিয়েছে যে জিয়াউল আহসান সরাসরি হত্যাকাণ্ডে জড়িত ছিলেন এবং তার অধীনস্থদের অপরাধ করার নির্দেশ দিয়েছিলেন।",
+          "অ্যাটর্নি জেনারেল আসামিকে মানবতার কলঙ্ক হিসেবে বর্ণনা করে বলেন যে তার অপরাধের তুলনায় একটি মৃত্যুদণ্ডও যথেষ্ট নয়।",
+          "ভুক্তভোগী ও তাদের পরিবারকে ক্ষতিপূরণ দিতে জিয়াউল আহসানের সব সম্পত্তি বাজেয়াপ্ত করার আবেদনও জানানো হয়েছে।"
         ],
         "bullets_en": [
-          "The affected incidents occurred between 10 November and 25 November.",
-          "Operations at 29 branches have remained temporarily suspended for security reasons.",
-          "The incidents caused damage to infrastructure, furniture, important documents, and other assets."
+          "The prosecution argued Ziaul was directly involved in killings and ordered subordinates to commit crimes under individual and superior command responsibility.",
+          "Kazal described the accused as a serial killer and a stain on humanity, stating his crimes were as vast as the ocean.",
+          "The Attorney General also sought the confiscation of all of Ziaul’s properties to provide compensation to the victims and their families."
         ],
-        "impact_bn": "শাখা বন্ধ থাকায় গ্রাহকেরা ঋণসেবা থেকে বঞ্চিত হচ্ছেন এবং বিশেষ করে চলমান বোরো মৌসুমে ঋণ কার্যক্রম ব্যাহত হচ্ছে।",
-        "impact_en": "Customers are unable to access loans due to temporary closures, affecting loan services particularly during the ongoing Boro season.",
-        "details_bn": "গ্রামীণ ব্যাংকের সব মিলিয়ে ২ হাজার ৫২৮টি শাখা, ২৬১টি এরিয়া অফিস, ৪০টি জোনাল অফিস এবং ৪০টি জোনাল অডিট অফিস রয়েছে। ব্যাংকটির ১০ দশমিক ৬৭ মিলিয়নের বেশি সদস্য রয়েছে এবং এর বকেয়া ঋণের পরিমাণ প্রায় ১৯ হাজার ২৯৮ কোটি টাকা।",
-        "details_en": "Grameen Bank operates through 2,528 branches, 261 area offices, 40 zonal offices and 40 zonal audit offices. It has more than 10.67 million members and outstanding loans of around Tk19,298 crore.",
-        "hook_bn": "গ্রামীণ ব্যাংকের ১০৪ শাখা ও কার্যালয়ে হামলা",
-        "kicker_bn": "সতর্কতা",
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "২৬ নভেম্বর প্রসিকিউশনের যুক্তিতর্কের তৃতীয় দিনে এই আবেদন করা হয়। অ্যাটর্নি জেনারেল বলেন, রাষ্ট্রপক্ষ সন্দেহাতীতভাবে অভিযোগ প্রমাণ করতে সক্ষম হয়েছে। তিনি গুমকে একটি চলমান অপরাধ হিসেবে অভিহিত করেন এবং বলেন যে ভুক্তভোগীদের সন্ধান না পাওয়া পর্যন্ত এই অপরাধ চলতে থাকে। আওয়ামী লীগ সরকারের আমলে শতাধিক ব্যক্তিকে গুম ও হত্যার অভিযোগে এই বিচার চলছে।",
+        "details_en": "The submission was made on November 26, the third consecutive day of prosecution arguments. The Attorney General argued that the prosecution proved the charges beyond reasonable doubt and that the tribunal has jurisdiction. He defined enforced disappearance as a continuing crime until the fate of the victims is established. The case involves allegations of enforced disappearance and murder of over a hundred people during the Awami League government's tenure.",
+        "hook_bn": "'জিয়াউলের অপরাধ সমুদ্রসম, মৃত্যুদণ্ড কেবল শিশিরবিন্দু'",
+        "kicker_bn": "মৃত্যুদণ্ড দাবি",
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 7.0,
-      "outlet_count": 4,
+      "outlet_count": 3,
       "trending": false,
-      "social_appeal": 7.0,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-26T09:02:04.956868+00:00"
+        "checked_at": "2026-11-26T10:05:59.795743+00:00"
       }
     },
     {
-      "story_id": "34ca3112-a1fb-50d3-9308-b6bd00ba87d5",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#NCTB",
-        "#Textbooks"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8dGV4dGJvb2tzJTIwcGxhbm5lZCUyMGRpc3RyaWJ1dGlvbiUyMGFubnVhbCUyMGVkdWNhdGlvbnxlbnwxfDB8fHwxNzk1NjgzNjkzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-26T08:34:24+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.775,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/education/425800/new-textbooks-planned-for-distribution-with-annual",
-          "title": "New textbooks planned for distribution with annual exam results",
-          "snippet": "New textbooks planned for distribution with annual exam results"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বার্ষিক পরীক্ষার ফলের সঙ্গেই নতুন পাঠ্যবই বিতরণের পরিকল্পনা এনসিটিবির।",
-        "title_en": "New textbooks planned for distribution with annual exam results.",
-        "summary_bn": "মাধ্যমিক স্তরের ৯২ শতাংশের বেশি বই পরিদর্শন পর্যায়ে পৌঁছানোর পর ডিসেম্বর ২৪ থেকে ২৭ তারিখের মধ্যে নতুন পাঠ্যবই বিতরণের পরিকল্পনা করেছে এনসিটিবি।",
-        "summary_en": "NCTB targets December 24-27 rollout as over 92% of secondary-level books have reached inspection stage.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-26T08:34:24+00:00",
-        "lead_bn": "মাধ্যমিক স্তরের ৯২ শতাংশের বেশি বই পরিদর্শন পর্যায়ে পৌঁছানোর পর ডিসেম্বর ২৪ থেকে ২৭ তারিখের মধ্যে নতুন পাঠ্যবই বিতরণের পরিকল্পনা করেছে এনসিটিবি।",
-        "lead_en": "NCTB targets December 24-27 rollout as over 92% of secondary-level books have reached inspection stage.",
-        "bullets_bn": [
-          "মাধ্যমিক স্তরের ৯২ শতাংশের বেশি বই পরিদর্শন পর্যায়ে পৌঁছেছে।",
-          "ডিসেম্বর ২৪ থেকে ২৭ তারিখের মধ্যে বই বিতরণের লক্ষ্যমাত্রা নির্ধারণ করা হয়েছে।",
-          "বার্ষিক পরীক্ষার ফলের সঙ্গেই নতুন পাঠ্যবই বিতরণের পরিকল্পনা করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "Over 92 percent of secondary-level books have reached the inspection stage.",
-          "The rollout is targeted between December 24 and 27.",
-          "New textbooks are planned for distribution with annual exam results."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "২৪ থেকে ২৭ ডিসেম্বরের মধ্যে নতুন বই",
-        "kicker_bn": "নতুন তারিখ",
-        "share_value": true,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 9.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-26T09:02:04.956868+00:00"
-      }
-    },
-    {
-      "story_id": "42a297a6-d88b-593e-b487-7fd012f2b37b",
+      "story_id": "f89e5d2f-7133-505b-aa7f-820fd70fa8b0",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law"
+        "governance_law",
+        "economy_business"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-26%2Fw36y12g2%2Fmunshigonjdh071020261126img-20261126-wa0065.jpg?rect=0%2C48%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/V-2.jpg",
       "image_caption": null,
-      "published_at": "2026-11-26T08:20:25+00:00",
+      "published_at": "2026-11-26T08:58:19+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 4.0622,
+      "importance_score": 6.25,
+      "rank_score": 3.6766,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/81k8xrik6x",
-          "title": "মুন্সিগঞ্জে বিএনপির দুই পক্ষের সংঘর্ষ–গুলি, একজন নিহত",
-          "snippet": "মুন্সিগঞ্জে বিএনপির দুই পক্ষের সংঘর্ষ–গুলি, একজন নিহত"
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/financial-development/post-1226167/",
+          "title": "সরাসরি ক্রয় পদ্ধতিতে ভ্যাকসিন ও কম্বল কিনবে সরকার",
+          "snippet": "সরাসরি ক্রয় পদ্ধতিতে ভ্যাকসিন ও কম্বল কিনবে সরকার"
         },
         {
           "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823094/%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%87%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%87%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A6%B0%E0%A7%8D%E0%A6%B7",
-          "title": "বিএনপির দুইগ্রুপের সংঘর্ষ গোলাগুলি-ককটেল বিস্ফোরণ, নিহত ১",
-          "snippet": "বিএনপির দুইগ্রুপের সংঘর্ষ গোলাগুলি-ককটেল বিস্ফোরণ, নিহত ১"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1183960",
-          "title": "মুন্সীগঞ্জে বিএনপির দুই পক্ষের সংঘর্ষে নিহত ১",
-          "snippet": "মুন্সীগঞ্জে বিএনপির দুই পক্ষের সংঘর্ষে নিহত ১"
+          "url": "https://www.ittefaq.com.bd/823106/%E0%A6%B6%E0%A7%80%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%B8%E0%A6%BE%E0%A7%9C%E0%A7%87-%E0%A7%AA%E0%A7%AC-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B2-%E0%A6%95%E0%A6%BF%E0%A6%A8%E0%A6%AC%E0%A7%87",
+          "title": "শীতার্তদের জন্য সাড়ে ৪৬ কোটি টাকার কম্বল কিনবে সরকার",
+          "snippet": "শীতার্তদের জন্য সাড়ে ৪৬ কোটি টাকার কম্বল কিনবে সরকার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মুন্সিগঞ্জে বিএনপির দুই পক্ষের সংঘর্ষে নিহত ১",
-        "title_en": "One killed in clashes between two BNP factions in Munshiganj",
-        "summary_bn": "মুন্সিগঞ্জ সদর উপজেলার মোল্লাকান্দি ইউনিয়নে আসন্ন ইউনিয়ন পরিষদ নির্বাচন ও আধিপত্য বিস্তারকে কেন্দ্র করে বিএনপির দুই পক্ষের সংঘর্ষে একজন নিহত হয়েছেন।",
-        "summary_en": "One person was killed in clashes between two factions of the BNP over the upcoming union parishad election and dominance in Mollakandi union.",
+        "title_bn": "সরাসরি ক্রয় পদ্ধতিতে ভ্যাকসিন ও কম্বল কেনার অনুমোদন দিয়েছে সরকার।",
+        "title_en": "Government approves buying vaccines and blankets through direct procurement method.",
+        "summary_bn": "সরকার সরাসরি ক্রয় পদ্ধতিতে ইপিআই ভ্যাকসিন এবং মানবিক সহায়তার আওতায় তাঁত বোর্ডের মাধ্যমে কম্বল কেনার নীতিগত অনুমোদন দিয়েছে।",
+        "summary_en": "The government has given in-principle approval to purchase EPI vaccines and blankets through direct procurement under humanitarian assistance.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "governance_law",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T08:20:25+00:00",
-        "lead_bn": "মুন্সিগঞ্জ সদর উপজেলার মোল্লাকান্দি ইউনিয়নে আসন্ন ইউনিয়ন পরিষদ নির্বাচন ও আধিপত্য বিস্তারকে কেন্দ্র করে বিএনপির দুই পক্ষের সংঘর্ষে একজন নিহত হয়েছেন।",
-        "lead_en": "One person was killed in clashes between two factions of the BNP over the upcoming union parishad election and dominance in Mollakandi union.",
+        "published_at": "2026-11-26T08:58:19+00:00",
+        "lead_bn": "সরকার সরাসরি ক্রয় পদ্ধতিতে ইপিআই ভ্যাকসিন এবং মানবিক সহায়তার আওতায় তাঁত বোর্ডের মাধ্যমে কম্বল কেনার নীতিগত অনুমোদন দিয়েছে।",
+        "lead_en": "The government has given in-principle approval to purchase EPI vaccines and blankets through direct procurement under humanitarian assistance.",
         "bullets_bn": [
-          "নিহত ব্যক্তির নাম সেলিম মোল্লা এবং সংঘর্ষে শিশুসহ আরও কয়েকজন আহত হয়েছেন।",
-          "স্থানীয় সূত্রে জানা গেছে, মোল্লাকান্দি ইউনিয়নে বিএনপির দুটি পক্ষ রয়েছে এবং আসন্ন ইউপি নির্বাচনে প্রতিদ্বন্দ্বিতা নিয়ে তাদের মধ্যে দ্বন্দ্ব চলছে।",
-          "সংঘর্ষের সময় ককটেল বিস্ফোরণ ও গোলাগুলির ঘটনা ঘটে এবং প্রাণ বাঁচাতে নদীতে ঝাঁপ দিয়ে এক ব্যক্তি নিখোঁজ রয়েছেন।"
+          "অর্থ ও পরিকল্পনামন্ত্রী আমির খসরু মাহমুদ চৌধুরীর সভাপতিত্বে অর্থনৈতিক বিষয়সংক্রান্ত মন্ত্রিসভা কমিটির বৈঠকে এ প্রস্তাবের অনুমোদন দেওয়া হয়।",
+          "শীতার্ত, অসহায় ও দুর্যোগকবলিত মানুষের মধ্যে বিতরণের জন্য ৪৬ কোটি ৬৬ লাখ ৪৯ হাজার ২৬৮ টাকার কম্বল কেনা হবে।",
+          "চলতি ২০২৬-২৭ অর্থবছরের জন্য সম্প্রসারিত টিকাদান কর্মসূচি ও মানবিক সহায়তা কর্মসূচির আওতায় এসব সামগ্রী কেনা হবে।"
         ],
         "bullets_en": [
-          "The deceased was identified as Selim Molla, and several others, including a child, were injured in the clashes.",
-          "Local sources said there are two factions of the BNP in Mollakandi union, and tension exists over contesting the upcoming UP election.",
-          "Cocktail explosions and gunfire occurred during the clashes, and one person went missing after jumping into the river to save his life."
+          "The proposal was approved in a meeting of the Cabinet Committee on Economic Affairs chaired by Finance and Planning Minister Amir Khasru Mahmud Chowdhury.",
+          "Blankets worth Tk 46,66,49,268 will be bought for distribution among cold-affected, helpless and disaster-hit people.",
+          "These items will be purchased under the Expanded Programme on Immunization and humanitarian assistance programme for the current fiscal year 2026-27."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "মোল্লাকান্দি ইউনিয়নে বিএনপির দুটি পক্ষের নেতৃত্বে আছেন স্থানীয় নেতারা এবং আসন্ন ইউপি নির্বাচনে এক পক্ষে আওলাদ হোসেন ও অপর পক্ষে রহিম মোল্লা চেয়ারম্যান পদে নির্বাচন করবেন বলে দ্বন্দ্ব চলছে। এর আগে গত ১২ নভেম্বর এবং গত বছরের নভেম্বরেও এই দুই পক্ষের সংঘর্ষে হতাহতের ঘটনা ঘটেছিল।",
-        "details_en": "The two factions in Mollakandi union are led by local BNP leaders, and conflict arose as Awlad Hossain and Rahim Molla plan to contest the upcoming UP election from opposing sides. Previously, clashes between these two groups had resulted in casualties on 12 November and in November of last year.",
-        "hook_bn": "মুন্সিগঞ্জে বিএনপির দুই পক্ষের সংঘর্ষে নিহত ১",
-        "kicker_bn": null,
-        "share_value": false,
+        "details_bn": "সচিবালয়ে অর্থনৈতিক বিষয়সংক্রান্ত মন্ত্রিসভা কমিটির বৈঠকে সারাদেশের মাঠ পর্যায়ে নিরবচ্ছিন্ন সরবরাহ নিশ্চিত করতে এবং শীতার্ত মানুষের মধ্যে বিতরণের জন্য এই প্রস্তাবগুলো অনুমোদন করা হয়।",
+        "details_en": "The proposals were approved at the meeting of the Cabinet Committee on Economic Affairs at the Secretariat to ensure uninterrupted supply at the field level nationwide and for distribution among cold-hit people.",
+        "hook_bn": "শীতার্তদের জন্য সাড়ে ৪৬ কোটি টাকার কম্বল",
+        "kicker_bn": "নতুন প্রস্তাব",
+        "share_value": true,
         "question_bn": null
       },
       "desk_importance": 6.0,
-      "outlet_count": 3,
+      "outlet_count": 2,
       "trending": false,
-      "social_appeal": 7.0,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-26T09:02:04.956868+00:00"
+        "checked_at": "2026-11-26T10:05:59.795743+00:00"
       }
     },
     {
-      "story_id": "f0c3336a-bda2-5e7b-b92e-6682a92c6ae9",
-      "primary_category": "world_diplomacy",
+      "story_id": "a9719408-a527-51ec-90bd-88186e4d64a6",
+      "primary_category": "climate_environment",
       "interest_categories": [
-        "world_diplomacy",
-        "economy_business",
-        "climate_environment"
+        "climate_environment",
+        "world_diplomacy"
       ],
       "region": "international",
       "tags": [
-        "#FederalReserve",
-        "#Inflation",
-        "#CommerceDepartment"
+        "#Nepal",
+        "#AugustFloods",
+        "#GlacierCollapse"
       ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/images/2025/03/18/afp_us_mar18.25.jpg",
+      "image_url": "https://images.unsplash.com/photo-1678801548539-df03172e8aeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bmVwYWwlMjBtb3ZlcyUyMGRlY2xhcmUlMjBtaXNzaW5nJTIwZW52aXJvbm1lbnR8ZW58MXwwfHx8MTc5NTY4NzU0OHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-26T07:14:28+00:00",
+      "published_at": "2026-11-26T09:45:33+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 5.0,
-      "rank_score": 2.2558,
+      "rank_score": 2.4625,
       "sources": [
         {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/news/us-q3-gdp-revised-strongly-upward-feds-inflation-gauge-hits-three-year-high-4333721",
-          "title": "US Q3 GDP revised strongly upward, Fed's inflation gauge hits three-year high",
-          "snippet": "US Q3 GDP revised strongly upward, Fed's inflation gauge hits three-year high"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/world/asia/425808/nepal-moves-to-declare-dead-those-still-missing",
+          "title": "Nepal moves to declare dead those still missing after August floods",
+          "snippet": "Nepal moves to declare dead those still missing after August floods"
         }
       ],
       "daily_buzz": {
-        "title_bn": "যুক্তরাষ্ট্রের তৃতীয় প্রান্তিকের জিডিপি প্রবৃদ্ধি ঊর্ধ্বমুখী ও মূল্যস্ফীতি তিন বছরের সর্বউচ্চ স্তরে পৌঁছেছে।",
-        "title_en": "US Q3 GDP growth revised upward as inflation hits three-year high.",
-        "summary_bn": "যুক্তরাষ্ট্রের বাণিজ্য বিভাগের তথ্য অনুযায়ী, বিনিয়োগ ও ভোক্তা ব্যয়ের জোরে তৃতীয় প্রান্তিকে দেশের জিডিপি প্রবৃদ্ধি ৪ দশমিক ৩ শতাংশে উন্নীত হয়েছে।",
-        "summary_en": "US GDP growth in the third quarter was revised to 4.3 percent, driven by strong investment and consumer spending.",
+        "title_bn": "নেপালে নিখোঁজ ব্যক্তিদের মৃত ঘোষণা করার প্রক্রিয়া শুরু হয়েছে",
+        "title_en": "Nepal moves to declare missing people dead",
+        "summary_bn": "আগস্টে সংঘটিত আকস্মিক বন্যায় নিখোঁজ থাকা ব্যক্তিদের মৃত ঘোষণা করার উদ্যোগ নিয়েছে নেপাল।",
+        "summary_en": "Nepal has moved to declare dead those still missing after the August floods.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "economy_business",
-          "climate_environment"
+          "climate_environment",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T07:14:28+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের বাণিজ্য বিভাগের তথ্য অনুযায়ী, বিনিয়োগ ও ভোক্তা ব্যয়ের জোরে তৃতীয় প্রান্তিকে দেশের জিডিপি প্রবৃদ্ধি ৪ দশমিক ৩ শতাংশে উন্নীত হয়েছে।",
-        "lead_en": "US GDP growth in the third quarter was revised to 4.3 percent, driven by strong investment and consumer spending.",
+        "published_at": "2026-11-26T09:45:33+00:00",
+        "lead_bn": "আগস্টে সংঘটিত আকস্মিক বন্যায় নিখোঁজ থাকা ব্যক্তিদের মৃত ঘোষণা করার উদ্যোগ নিয়েছে নেপাল।",
+        "lead_en": "Nepal has moved to declare dead those still missing after the August floods.",
         "bullets_bn": [
-          "বাণিজ্য বিভাগের তথ্য অনুযায়ী, আগের অনুমানের চেয়ে জিডিপি প্রবৃদ্ধি শূন্য দশমিক ৯ শতাংশ পয়েন্ট বেড়েছে।",
-          "অক্টোবর মাসে ফেডের মূল্যস্ফীতির মাপকাঠি তিন বছরের সর্বোচ্চ পর্যায়ে পৌঁছেছে।",
-          "ব্যক্তিগত খরচ বা পিসিই মূল্য সূচক বছরে ৩ দশমিক ৮ শতাংশ বৃদ্ধি পেয়েছে।"
+          "আগস্টের ২৬ তারিখে নেপাল-চীন সীমান্তে হিমবাহ ধসের ফলে এই বন্যা ঘটেছিল।",
+          "এই বন্যায় ১,৪০০ জনের বেশি মানুষ নিহত হয়েছেন।",
+          "বন্যার পর ৫,৫০০ জন মানুষ নিখোঁজ রয়েছেন।"
         ],
         "bullets_en": [
-          "GDP growth rose by 0.9 percentage points from the previous estimate, according to the commerce department.",
-          "The Fed's preferred inflation gauge reached a three-year high in October.",
-          "The Personal Consumption Expenditures Price Index rose by 3.8 percent year-on-year in October."
+          "A glacier collapse on August 26 triggered floods along the Nepal-China border.",
+          "The floods killed over 1,400 people.",
+          "The disaster left 5,500 people missing."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "মার্কিন অর্থনীতি সাম্প্রতিক মাসগুলোতে মার্কিন প্রেসিডেন্টের শুল্ক নীতি এবং ইরানের সঙ্গে যুদ্ধজনিত জ্বালানি মূল্য বৃদ্ধির মতো প্রতিকূলতার মুখোমুখি হয়েছে। এই মূল্যস্ফীতি মোকাবিলায় ফেড তিন বছরে এই প্রথম সুদের হার বাড়িয়েছে।",
-        "details_en": "The US economy faced headwinds from the president's tariff policies and war on Iran, driving up energy prices. The Fed raised interest rates for the first time in three years to combat persistent price increases.",
-        "hook_bn": "যুক্তরাষ্ট্রে মূল্যস্ফীতি তিন বছরের সর্বউচ্চ স্তরে",
-        "kicker_bn": "দাম বাড়ছে",
+        "details_bn": "আগস্টের ২৬ তারিখে নেপাল-চীন সীমান্তে হিমবাহ ধসের কারণে এই আকস্মিক বন্যা সৃষ্টি হয়েছিল। এই দুর্যোগে ১,৪০০ জনের বেশি মানুষ প্রাণ হারিয়েছেন এবং ৫,৫০০ জন নিখোঁজ রয়েছেন।",
+        "details_en": "A glacier collapse on August 26 triggered floods along the Nepal-China border. The disaster killed over 1,400 people and left 5,500 missing.",
+        "hook_bn": "বন্যায় নিখোঁজ ৫,৫০০ জনকে মৃত ঘোষণা",
+        "kicker_bn": "নিখোঁজ",
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 5.0,
       "outlet_count": 1,
       "trending": false,
-      "social_appeal": 3.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-26T09:02:04.956868+00:00"
-      }
-    },
-    {
-      "story_id": "e891483c-3f84-5934-99df-b8c094474583",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business",
-        "climate_environment"
-      ],
-      "region": "national",
-      "tags": [
-        "#ShahiduddinChowdhuryAnee",
-        "#GangesWaterSharingTreaty",
-        "#BangladeshWaterDevelopmentBoard",
-        "#India"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/26/anee.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-26T08:35:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5102,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/india-yet-reply-two-letters-ganges-water-sharing-anee-1614586",
-          "title": "India yet to reply to two letters on Ganges water sharing: Anee",
-          "snippet": "India yet to reply to two letters on Ganges water sharing: Anee"
-        },
-        {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss",
-          "title": "Thirteen dead as mine disaster highlights illegal hunt for gold",
-          "snippet": "Thirteen dead as mine disaster highlights illegal hunt for gold"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ভারত এখনো গঙ্গা চুক্তি নিয়ে দুটি চিঠির কোনো জবাব দেয়নি",
-        "title_en": "India yet to reply to two letters on Ganges water sharing",
-        "summary_bn": "পানি সম্পদ মন্ত্রী শহিদুদ্দিন চৌধুরী এনি বলেছেন, গঙ্গা পানি চুক্তি নিয়ে বাংলাদেশ দুটি চিঠি পাঠালেও প্রতিবেশী দেশ থেকে এখনো কোনো জবাব মেলেনি।",
-        "summary_en": "Water Resources Minister Shahiduddin Chowdhury Anee said Bangladesh sent two letters to India over the Ganges Water Sharing Treaty but received no response.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business",
-          "climate_environment"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-26T08:35:00+00:00",
-        "lead_bn": "পানি সম্পদ মন্ত্রী শহিদুদ্দিন চৌধুরী এনি বলেছেন, গঙ্গা পানি চুক্তি নিয়ে বাংলাদেশ দুটি চিঠি পাঠালেও প্রতিবেশী দেশ থেকে এখনো কোনো জবাব মেলেনি।",
-        "lead_en": "Water Resources Minister Shahiduddin Chowdhury Anee said Bangladesh sent two letters to India over the Ganges Water Sharing Treaty but received no response.",
-        "bullets_bn": [
-          "মন্ত্রী জানান, তিনি ব্যক্তিগতভাবে একটি চিঠি পাঠিয়েছেন কিন্তু এখন পর্যন্ত কোনো উত্তর পাননি।",
-          "রাজধানীর পানি ভবনে বাংলাদেশ পানি উন্নয়ন বোর্ড জাতীয়তাবাদী শ্রমিক-কর্মচারী ইউনিয়নের আলোচনা সভায় তিনি এ কথা বলেন।",
-          "আসছে ১২ ডিসেম্বর গঙ্গা পানি বণ্টন চুক্তির মেয়াদ শেষ হবে বলে তিনি উল্লেখ করেন।"
-        ],
-        "bullets_en": [
-          "The minister said he personally sent a letter but has not received any response so far.",
-          "Anee made the remarks at a discussion organised by the Bangladesh Water Development Board Jatiyatabadi Sramik-Karmachari Union at Pani Bhaban.",
-          "He noted that the term of the Ganges Water Sharing Treaty will expire on 12 December."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "পানি সম্পদ মন্ত্রী শহিদুদ্দিন চৌধুরী এনি জানান, একটি বিশেষ কমিটি ইতিমধ্যেই বিষয়টি নিয়ে কাজ শুরু করেছে। এছাড়া বাংলাদেশ বসে নেই এবং পানি সংরক্ষণ ও উৎপাদন বৃদ্ধির জন্য বেশ কিছু উদ্যোগ গ্রহণ করেছে। তিনি আশা প্রকাশ করেন যে প্রতিবেশী দেশ নির্দিষ্ট কোনো ব্যক্তির সঙ্গে নয় বরং বাংলাদেশের জনগণের সঙ্গে বন্ধুসুলভ সম্পর্ক বজায় রাখবে।",
-        "details_en": "Water Resources Minister Shahiduddin Chowdhury Anee said a special committee had already taken up the matter and Bangladesh had undertaken several initiatives to conserve water and increase production. He added that Bangladesh expected its neighbouring country to maintain friendly relations with the people of Bangladesh rather than any particular individual.",
-        "hook_bn": "১২ ডিসেম্বরে শেষ হচ্ছে গঙ্গা পানি চুক্তি",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": "ভারত ও বাংলাদেশের মধ্যে পানি চুক্তির নবায়ন নিয়ে আপনার মতামত কী?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
       "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-26T09:02:04.956868+00:00"
+        "checked_at": "2026-11-26T10:05:59.795743+00:00"
       }
     }
   ]
