@@ -1,199 +1,155 @@
 {
-  "updated_at": "2026-11-26T21:00:44.090020",
-  "total_stories": 3,
+  "updated_at": "2026-11-26T22:00:44.577481",
+  "total_stories": 2,
   "stories": [
     {
-      "story_id": "24da4f6a-b626-5051-9d7b-34ca0e5880c1",
-      "primary_category": "governance_law",
+      "story_id": "cc04b5ba-a876-56bd-836e-e7b932c3bd4d",
+      "primary_category": "economy_business",
       "interest_categories": [
+        "economy_business",
+        "society_education",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/bogura-20261127023756.JPG?cid=501177",
+      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFuZ2xhZGVzaCUyMGJhbmslMjBmaW5hbGl6ZXMlMjB5b3VuZyUyMGJ1c2luZXNzfGVufDF8MHx8fDE3OTU3MzA0ODF8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-26T20:37:56+00:00",
+      "published_at": "2026-11-26T20:33:25+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 4.2595,
+      "importance_score": 6.0,
+      "rank_score": 3.3084,
       "sources": [
         {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/country/501177",
-          "title": "বগুড়া বিমানবন্দরে চালু হচ্ছে অভ্যন্তরীণ ফ্লাইট, প্রধানমন্ত্রীর সম্মতি",
-          "snippet": "বগুড়া বিমানবন্দরে চালু হচ্ছে অভ্যন্তরীণ ফ্লাইট, প্রধানমন্ত্রীর সম্মতি"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/823197/%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%A4-%E0%A6%9B%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BE%E0%A6%87-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A7%8B%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A7%A8%E0%A7%A6-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE-%E0%A7%AC%E0%A7%AA%E0%A7%A6",
+          "title": "জামানত ছাড়াই সর্বোচ্চ ২০ লাখ টাকার সুবিধা: ৬৪০ তরুণ উদ্যোক্তা চূড়ান্ত করলো বাংলাদেশ ব্যাংক",
+          "snippet": "জামানত ছাড়াই সর্বোচ্চ ২০ লাখ টাকার সুবিধা: ৬৪০ তরুণ উদ্যোক্তা চূড়ান্ত করলো বাংলাদেশ ব্যাংক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বগুড়া বিমানবন্দরে অভ্যন্তরীণ ফ্লাইট চালুর মৌখিক সম্মতি দিয়েছেন প্রধানমন্ত্রী",
-        "title_en": "Prime minister gives verbal consent to launch domestic flights at Bogura airport",
-        "summary_bn": "বগুড়া বিমানবন্দরে দ্রুত অভ্যন্তরীণ ফ্লাইট চালুর বিষয়ে প্রধানমন্ত্রী মৌখিকভাবে সম্মতি দিয়েছেন বলে জানিয়েছেন সংসদ সদস্য রেজাউল করিম বাদশা।",
-        "summary_en": "Member of parliament Rezaul Karim Badsha said the prime minister has given verbal consent to quickly launch domestic flights at Bogura airport.",
+        "title_bn": "উদ্যোগ কর্মসূচির প্রথম ধাপে ৬৪০ তরুণ উদ্যোক্তাকে চূড়ান্ত করেছে বাংলাদেশ ব্যাংক।",
+        "title_en": "Bangladesh Bank finalizes 640 young entrepreneurs in the first phase of Udyog program.",
+        "summary_bn": "দেশের গ্রামীণ ও উপজেলা পর্যায়ে নতুন উদ্যোক্তা তৈরি এবং কর্মসংস্থানের সুযোগ বাড়াতে উদ্যোগ কর্মসূচির প্রথম ধাপে ৬৪০ জন তরুণকে চূড়ান্তভাবে নির্বাচন করেছে বাংলাদেশ ব্যাংক।",
+        "summary_en": "Bangladesh Bank has finally selected 640 young people in the first phase of the Udyog program to create new entrepreneurs and increase employment opportunities in rural and upazila levels of the country.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "economy_business",
+          "society_education",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T20:37:56+00:00",
-        "lead_bn": "বগুড়া বিমানবন্দরে দ্রুত অভ্যন্তরীণ ফ্লাইট চালুর বিষয়ে প্রধানমন্ত্রী মৌখিকভাবে সম্মতি দিয়েছেন বলে জানিয়েছেন সংসদ সদস্য রেজাউল করিম বাদশা।",
-        "lead_en": "Member of parliament Rezaul Karim Badsha said the prime minister has given verbal consent to quickly launch domestic flights at Bogura airport.",
+        "published_at": "2026-11-26T20:33:25+00:00",
+        "lead_bn": "দেশের গ্রামীণ ও উপজেলা পর্যায়ে নতুন উদ্যোক্তা তৈরি এবং কর্মসংস্থানের সুযোগ বাড়াতে উদ্যোগ কর্মসূচির প্রথম ধাপে ৬৪০ জন তরুণকে চূড়ান্তভাবে নির্বাচন করেছে বাংলাদেশ ব্যাংক।",
+        "lead_en": "Bangladesh Bank has finally selected 640 young people in the first phase of the Udyog program to create new entrepreneurs and increase employment opportunities in rural and upazila levels of the country.",
         "bullets_bn": [
-          "বেসরকারি বিমান সংস্থাগুলোর সঙ্গে আলোচনা করে দ্রুত ফ্লাইট চালুর ব্যবস্থা নিতে সংশ্লিষ্টদের নির্দেশনা দিয়েছেন প্রধানমন্ত্রী।",
-          "আন্তর্জাতিক বিমানবন্দর চালু করতে দীর্ঘ সময় লাগতে পারে বিধায় আপাতত বেসরকারি সংস্থার মাধ্যমে অভ্যন্তরীণ ফ্লাইট চালুর উদ্যোগ নেওয়া হয়েছে।",
-          "বিমানবন্দর চালুর জন্য প্রাথমিকভাবে রানওয়ে সম্প্রসারণ ও একটি টার্মিনাল নির্মাণের প্রয়োজন হতে পারে বলে জানিয়েছেন সংসদ সদস্য।"
+          "বাংলাদেশ ব্যাংকের ওয়েবসাইটে ২৬ নভেম্বর এই তালিকা প্রকাশ করা হয়।",
+          "নির্বাচিত উদ্যোক্তারা জামানত ছাড়াই সর্বোচ্চ ১০ লাখ টাকা ঋণের পাশাপাশি বাণিজ্যিক ব্যাংকের সামাজিক দায়বদ্ধতা তহবিল থেকে সুবিধা পাবেন।",
+          "জামানত ছাড়াই সর্বোচ্চ ২০ লাখ টাকার সুবিধার কথা ইত্তেফাক সূত্রে জানা যায়।"
         ],
         "bullets_en": [
-          "The prime minister instructed concerned authorities to arrange quick flights by discussing with private airlines.",
-          "As launching an international airport may take a long time, domestic flights are temporarily initiated through private airlines.",
-          "The MP stated that initially expanding the runway and constructing a terminal may be required to launch the airport."
+          "This list was published on the central bank website on 26 November.",
+          "Selected entrepreneurs will get loans up to 10 lakh taka without collateral along with benefits from commercial banks social responsibility funds.",
+          "The source report mentions facilities of up to 20 lakh taka without collateral."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বগুড়া-৬ সদর আসনের সংসদ সদস্য রেজাউল করিম বাদশা জানান, প্রধানমন্ত্রী আগামী ৫ ডিসেম্বর বগুড়া সফর করবেন এবং তার সম্ভাব্য কর্মসূচিতে বিভিন্ন উন্নয়ন কর্মকাণ্ডের উদ্বোধন ও সাংগঠনিক সভায় অংশ নেওয়া রয়েছে।",
-        "details_en": "Bogura-6 sadar seat member of parliament Rezaul Karim Badsha stated that the prime minister will visit Bogura on 5 December, and her potential schedule includes inaugurating various development activities and joining an organizational meeting.",
-        "hook_bn": "বগুড়া বিমানবন্দরে চালু হচ্ছে অভ্যন্তরীণ ফ্লাইট",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "জামানত ছাড়াই সর্বোচ্চ ২০ লাখ টাকার সুবিধা",
         "kicker_bn": "নতুন উদ্যোগ",
-        "share_value": false,
-        "question_bn": "বগুড়া বিমানবন্দর চালু হলে এই অঞ্চলের যোগাযোগ ব্যবস্থায় কী ধরনের পরিবর্তন আসবে বলে আপনার মনে হয়?"
+        "share_value": true,
+        "question_bn": "গ্রামীণ পর্যায়ে নতুন উদ্যোক্তা তৈরিতে এই উদ্যোগ কতটা ভূমিকা রাখবে বলে আপনি মনে করেন?"
       },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-26T21:01:44.213671+00:00"
+        "checked_at": "2026-11-26T22:01:57.773973+00:00"
       }
     },
     {
-      "story_id": "3f213539-8a33-545a-872f-d698ffa791d5",
-      "primary_category": "governance_law",
+      "story_id": "ab15f0a0-350d-53e5-9afa-da25c5693c85",
+      "primary_category": "society_education",
       "interest_categories": [
-        "governance_law"
+        "society_education"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#MatiaBanuShuku",
+        "#NationalFilmAward"
       ],
-      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/arrest-8-20261127023915.jpg?cid=501178",
+      "image_url": "https://images.unsplash.com/photo-1625643268477-838321f445bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bmF0aW9uYWwlMjBmaWxtJTIwYXdhcmQlMjB3aW5uaW5nJTIwZWR1Y2F0aW9ufGVufDF8MHx8fDE3OTU3MzA0OTh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-26T20:39:15+00:00",
+      "published_at": "2026-11-26T20:09:38+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 2.2558,
+      "importance_score": 5.5,
+      "rank_score": 2.717,
       "sources": [
         {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/country/501178",
-          "title": "রাজবাড়ীতে কার্যক্রম নিষিদ্ধ সংগঠনের ৩ সদস্য গ্রেপ্তার",
-          "snippet": "রাজবাড়ীতে কার্যক্রম নিষিদ্ধ সংগঠনের ৩ সদস্য গ্রেপ্তার"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425880/national-film-award-winner-matia-banu-shuku-passes",
+          "title": "National Film Award winner Matia Banu Shuku passes away",
+          "snippet": "National Film Award winner Matia Banu Shuku passes away"
+        },
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/capital/post-1226428/",
+          "title": "না ফেরার দেশে চলচ্চিত্র নির্মাতা শুকু",
+          "snippet": "না ফেরার দেশে চলচ্চিত্র নির্মাতা শুকু"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/last-tribute-shukku-bakultala-shaheed-minar/",
+          "title": "বকুলতলা ও শহীদ মিনারে শেষ শ্রদ্ধা, উত্তরায় সমাহিত হবেন শুকু",
+          "snippet": "বকুলতলা ও শহীদ মিনারে শেষ শ্রদ্ধা, উত্তরায় সমাহিত হবেন শুকু"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রাজবাড়ীতে নিষিদ্ধ সংগঠনের তিন সদস্যকে গ্রেপ্তার করেছে পুলিশ।",
-        "title_en": "Police arrested three members of banned organizations in Rajbari.",
-        "summary_bn": "রাজবাড়ীর পাংশায় কার্যক্রম নিষিদ্ধ যুবলীগ ও ছাত্রলীগের তিন সদস্যকে নিজ নিজ বাড়ি থেকে গ্রেপ্তার করেছে পুলিশ।",
-        "summary_en": "Police arrested three members of banned organizations Jubo League and Chhatra League from their respective homes in Pangsha, Rajbari.",
+        "title_bn": "জাতীয় চলচ্চিত্র পুরস্কারপ্রাপ্ত নির্মাতা মাতিয়া বানু শুকু মারা গেছেন",
+        "title_en": "National Film Award winning director Matia Banu Shuku passes away",
+        "summary_bn": "জাতীয় চলচ্চিত্র পুরস্কারপ্রাপ্ত প্রযোজক, পরিচালক ও চিত্রনাট্যকার মাতিয়া বানু শুকু ৫৬ বছর বয়সে ঢাকার একটি হাসপাতালে মারা গেছেন।",
+        "summary_en": "National Film Award winning producer, director and screenwriter Matia Banu Shuku has passed away at a hospital in Dhaka at the age of 56.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T20:39:15+00:00",
-        "lead_bn": "রাজবাড়ীর পাংশায় কার্যক্রম নিষিদ্ধ যুবলীগ ও ছাত্রলীগের তিন সদস্যকে নিজ নিজ বাড়ি থেকে গ্রেপ্তার করেছে পুলিশ।",
-        "lead_en": "Police arrested three members of banned organizations Jubo League and Chhatra League from their respective homes in Pangsha, Rajbari.",
+        "published_at": "2026-11-26T20:09:38+00:00",
+        "lead_bn": "জাতীয় চলচ্চিত্র পুরস্কারপ্রাপ্ত প্রযোজক, পরিচালক ও চিত্রনাট্যকার মাতিয়া বানু শুকু ৫৬ বছর বয়সে ঢাকার একটি হাসপাতালে মারা গেছেন।",
+        "lead_en": "National Film Award winning producer, director and screenwriter Matia Banu Shuku has passed away at a hospital in Dhaka at the age of 56.",
         "bullets_bn": [
-          "গ্রেপ্তার ব্যক্তিরা হলেন আব্দুর রাজ্জাক ওরফে রাজা, মো. সাইফুজ্জামান শুভ এবং মো. রুবেল সরদার।",
-          "পুলিশের প্রেস বিজ্ঞপ্তিতে সরকারবিরোধী কর্মকাণ্ড ও সামাজিক যোগাযোগমাধ্যমে অপপ্রচারের অভিযোগ আনা হয়েছে।",
-          "বিশেষ ক্ষমতা আইনের মামলায় তদন্তে প্রাপ্ত আসামি হিসেবে তাদের আদালতে পাঠানো হয়েছে।"
+          "সাংস্কৃতিকর্মী এরশাদুল হক শুকুর মৃত্যুর বিষয়টি নিশ্চিত করেছেন।",
+          "তিনি ক্যানসার ও কিডনির জটিলতায় দীর্ঘ দিন ধরে ভুগছিলেন।",
+          "ঢাকা বিশ্ববিদ্যালয়ের চারুকলা অনুষদের বকুলতলা ও কেন্দ্রীয় শহীদ মিনারে তার শেষ শ্রদ্ধা জানানো হবে।"
         ],
         "bullets_en": [
-          "The arrested individuals are Abdur Razzaq alias Raja, Md. Saifuzzaman Shuvo, and Md. Rubel Sardar.",
-          "A police press release stated they were involved in anti-government activities and propaganda on social media.",
-          "They were sent to court as accused persons found in the investigation under the Special Powers Act."
+          "Cultural activist Ershadul Haque confirmed the death.",
+          "She had long been battling cancer and kidney complications.",
+          "Her remains will be taken to Charukola Bokultola at Dhaka University and Central Shaheed Minar for final tributes."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "পুলিশের প্রেস বিজ্ঞপ্তিতে জানানো হয়, গ্রেপ্তার ব্যক্তিরা সরকারবিরোধী বিভিন্ন কর্মকাণ্ড, সামাজিক যোগাযোগমাধ্যমে অপপ্রচার এবং সরকারের ভাবমূর্তি ক্ষুণ্ন করার উদ্দেশ্যে অন্তর্ঘাতমূলক কার্যকলাপে জড়িত থাকার বিষয়ে সাক্ষ্য-প্রমাণ পাওয়া গেছে। পাংশা মডেল থানার ভারপ্রাপ্ত কর্মকর্তা শেখ মঈনুল ইসলাম জানান, বিশেষ ক্ষমতা আইন ১৯৭৪-এর ১৫(১)/১৫(৩) ধারার মামলার তদন্তে প্রাপ্ত আসামি হিসেবে তাদের গ্রেপ্তার করা হয়।",
-        "details_en": "According to the police press release, evidence was found that the arrested individuals were involved in anti-government activities, propaganda on social media, and subversive acts aimed at tarnishing the government's image. Pangsha Model Police Station Officer-in-Charge Sheikh Mainul Islam stated they were arrested as accused persons found during the investigation of a case under sections 15(1) and 15(3) of the Special Powers Act 1974.",
-        "hook_bn": "রাজবাড়ীতে নিষিদ্ধ সংগঠনের তিন সদস্য গ্রেপ্তার",
+        "details_bn": "ঢাকা বিশ্ববিদ্যালয়ের চারুকলা অনুষদের বকুলতলায় ও কেন্দ্রীয় শহীদ মিনারে শ্রদ্ধা নিবেদনের পর নাট্যকার ও নির্মাতা মাতিয়া বানু শুকুর জানাজা ও দাফনের সময়সূচি চূড়ান্ত করা হয়েছে। তার ঘনিষ্ঠজন ও সংস্কৃতি কর্মী এরশাদুল হক টিংকু জানান, তার মরদেহ উত্তরায় দাফন করা হবে।",
+        "details_en": "Following tributes at Dhaka University's Charukola Bokultola and the Central Shaheed Minar, the schedule for playwright and director Matia Banu Shuku's janaza and burial has been finalised. Her close associate and cultural activist Ershadul Haque Tinku stated that her body will be buried in Uttara.",
+        "hook_bn": "না ফেরার দেশে নির্মাতা মাতিয়া বানু শুকু",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
+      "desk_importance": 5.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-26T21:01:44.213671+00:00"
-      }
-    },
-    {
-      "story_id": "91338230-85c4-559f-92ab-b6f1a630d9d1",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law",
-        "climate_environment"
-      ],
-      "region": "international",
-      "tags": [
-        "#SaudiArabia",
-        "#Jazan",
-        "#Houthi"
-      ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b089a77b51e8-1795725943.jpg?resize=1920%2C1440",
-      "image_caption": null,
-      "published_at": "2026-11-26T20:34:34+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.2817,
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
-          "title": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
-          "snippet": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সৌদি আরবের জাজান শোধনাগারে হামলায় নিহত ১",
-        "title_en": "Attack on Saudi refinery in Jazan kills one",
-        "summary_bn": "সৌদি আরবের জাজান শহরে একটি তেল শোধনাগারে আকাশ থেকে নিক্ষিপ্ত প্রজেক্টাইলের আঘাতে এক শ্রমিক নিহত এবং বেশ কয়েকজন আহত হয়েছেন।",
-        "summary_en": "An aerial projectile hit an oil refinery in Saudi Arabia’s city of Jazan, killing one worker and injuring several people.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law",
-          "climate_environment"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-26T20:34:34+00:00",
-        "lead_bn": "সৌদি আরবের জাজান শহরে একটি তেল শোধনাগারে আকাশ থেকে নিক্ষিপ্ত প্রজেক্টাইলের আঘাতে এক শ্রমিক নিহত এবং বেশ কয়েকজন আহত হয়েছেন।",
-        "lead_en": "An aerial projectile hit an oil refinery in Saudi Arabia’s city of Jazan, killing one worker and injuring several people.",
-        "bullets_bn": [
-          "সৌদি জ্বালানি মন্ত্রণালয়ের তথ্য অনুযায়ী, নিহত ওই শ্রমিকের বাড়ি নেপালে এবং আহতরা বিভিন্ন দেশের নাগরিক।",
-          "সৌদি সমর্থিত সামরিক জোট জানিয়েছে, ইয়েমেনের হুতি গোষ্ঠী এই তেল শোধনাগারে হামলা চালিয়েছে।",
-          "হামলার কারণে সৃষ্ট আগুনে শোধনাগারটির কিছু কার্যক্রম সাময়িকভাবে বন্ধ হয়ে গেছে।"
-        ],
-        "bullets_en": [
-          "The Ministry of Energy stated that the worker who died was Nepali, while the injured were of various nationalities.",
-          "The Saudi-led military coalition stated that the Houthi group attacked the refinery.",
-          "The attack caused a fire and temporarily halted some operations at the facility."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সৌদি আরবের লোহিত সাগর উপকূলে অবস্থিত এবং ইয়েমেন সীমান্তের কাছে অবস্থিত এই শোধনাগারটি প্রতিদিন চার লাখ ব্যারেল পর্যন্ত কাঁচা তেল প্রক্রিয়াজাত করার জন্য তৈরি। এর আগে ইয়েমেনের হুতিদের বিরুদ্ধে লড়াইরত সৌদি সমর্থিত সামরিক জোটের পক্ষ থেকে হামলাটি চালানো হয় এবং এর একদিন আগে রাস তানুড়া, জেদ্দা ও জাজানের বন্দরগুলোতে হামলার দাবি করেছিল হুতি গোষ্ঠী।",
-        "details_en": "The refinery in southwestern Saudi Arabia, near the Yemeni border, is designed to process up to 400,000 barrels of crude oil per day. The strike came a day after the Houthi group claimed attacks on Ras Tanura, the kingdom’s largest refinery, and the Red Sea ports of Jeddah and Jazan.",
-        "hook_bn": "সৌদি আরবের শোধনাগারে হামলায় নিহত ১",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-26T21:01:44.213671+00:00"
+        "checked_at": "2026-11-26T22:01:57.773973+00:00"
       }
     }
   ]
