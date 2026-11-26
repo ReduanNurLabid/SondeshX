@@ -1,224 +1,134 @@
 {
-  "updated_at": "2026-11-26T18:00:45.006547",
-  "total_stories": 3,
+  "updated_at": "2026-11-26T19:01:01.041788",
+  "total_stories": 2,
   "stories": [
     {
-      "story_id": "370d8ae8-3721-568a-becd-61e2e15f80b5",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#ArakanArmy",
-        "#BangladeshFishermen",
-        "#BorderGuardBangladesh",
-        "#Teknaf"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Zm9ydHklMjBvbmUlMjBiYW5nbGFkZXNoaSUyMGZpc2hlcnMlMjBkaXBsb21hY3l8ZW58MXwwfHx8MTc5NTcxNjA5NXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-26T18:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 5.2492,
-      "sources": [
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/chattogram/news/41-fishers-return-home-arakan-army-captivity-4334206",
-          "title": "41 fishers return home from Arakan Army captivity",
-          "snippet": "41 fishers return home from Arakan Army captivity"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/41-more-bangladeshi-fishermen-detained-arakan-army-return-home-1615246",
-          "title": "41 more Bangladeshi fishermen detained by Arakan Army return home",
-          "snippet": "41 more Bangladeshi fishermen detained by Arakan Army return home"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মিয়ানমার থেকে মুক্তি পেলেন একচল্লিশ বাংলাদেশি জেলে",
-        "title_en": "Forty-one Bangladeshi fishers return home from Arakan Army captivity",
-        "summary_bn": "মিয়ানমারের সশস্ত্র গোষ্ঠী আরাকান আর্মির হাতে আটক একচল্লিশ বাংলাদেশি জেলে দীর্ঘ দিন বন্দি থাকার পর দেশে ফিরেছেন।",
-        "summary_en": "Forty-one Bangladeshi fishermen detained by Myanmar’s armed group Arakan Army returned home after spending months and years in captivity.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-26T18:00:00+00:00",
-        "lead_bn": "মিয়ানমারের সশস্ত্র গোষ্ঠী আরাকান আর্মির হাতে আটক একচল্লিশ বাংলাদেশি জেলে দীর্ঘ দিন বন্দি থাকার পর দেশে ফিরেছেন।",
-        "lead_en": "Forty-one Bangladeshi fishermen detained by Myanmar’s armed group Arakan Army returned home after spending months and years in captivity.",
-        "bullets_bn": [
-          "বর্ডার গার্ড বাংলাদেশ টেকনাফ-মিয়ানমার ট্রানজিট জেটির কাছে জেলেদের হস্তান্তর গ্রহণ করে।",
-          "বিজিবির তথ্য অনুযায়ী এই বছর আরাকান আর্মির বন্দিদশা থেকে মোট ৩২৩ জন জেলেকে ফিরিয়ে আনা হয়েছে।",
-          "ফিরে আসা জেলেরা বন্দিদশায় শারীরিক নির্যাতন, খাদ্যবঞ্চনা ও জোরপূর্বক শ্রমের শিকার হওয়ার অভিযোগ করেছেন।"
-        ],
-        "bullets_en": [
-          "Border Guard Bangladesh received the fishermen near the Teknaf-Myanmar Transit Jetty.",
-          "According to the BGB, the number of fishermen brought back from Arakan Army captivity this year reached 323.",
-          "The returnees alleged that they faced physical torture, food deprivation, and forced labour during captivity."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "টেকনাফ ব্যাটালিয়নের অধিনায়ক লেফটেন্যান্ট কর্নেল মোহাম্মদ তাজুল ইসলাম চৌধুরী জানান, গভীর সমুদ্র থেকে মাছ ধরে ফেরার সময় বেশিরভাগ জেলে আটক হন। ফিরে আসা ব্যক্তিরা জানান, তাদের প্রতিদিন প্রায় সাত থেকে আট ঘণ্টা কাজ করতে বাধ্য করা হতো এবং অস্বীকৃতি জানালে মারধর করা হতো। বন্দিদশায় তাদের দিনে মাত্র এক বেলা ভাত দেওয়া হতো।",
-        "details_en": "Lt Col Mohammad Tajul Islam Chowdhury said most were detained while returning from deep-sea fishing expeditions. Returnees stated they were forced to work up to eight hours daily and beaten for refusing, receiving only one meal of rice a day.",
-        "hook_bn": "মিয়ানমার থেকে ফিরলেন একচল্লিশ বাংলাদেশি জেলে",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-26T18:02:05.302122+00:00"
-      }
-    },
-    {
-      "story_id": "eb5040d5-910a-5a3e-8eb0-e4c4775c4e57",
+      "story_id": "79efe11a-5819-5a41-82ee-e77f96f042ce",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#NBR",
-        "#VAT"
+        "#Malaysia",
+        "#TariqueRahman",
+        "#MigrantWorkers"
       ],
-      "image_url": "https://images.unsplash.com/photo-1722871513349-45c61ed6aa5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZmluYW5jZSUyMGVjb25vbXklMjBiYW5nbGFkZXNofGVufDF8MHx8fDE3OTU3MTYxMDR8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/183328/front3981.jpg",
       "image_caption": null,
-      "published_at": "2026-11-26T18:00:00+00:00",
+      "published_at": "2026-11-26T19:01:12.204771+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.901,
+      "importance_score": 6.0,
+      "rank_score": 3.5819,
       "sources": [
         {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/economy/news/27000-online-businesses-identified-vat-scrutiny-4334146",
-          "title": "27,000 online businesses identified for VAT scrutiny",
-          "snippet": "27,000 online businesses identified for VAT scrutiny"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/nbr/29-restaurants-found-evading-vat-online-sales-1615361",
-          "title": "29 restaurants found evading VAT on online sales",
-          "snippet": "29 restaurants found evading VAT on online sales"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/cost-free-worker-migration-to-malaysia-takes-off",
+          "title": "Cost-free worker migration to Malaysia takes off",
+          "snippet": "Cost-free worker migration to Malaysia takes off"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ভ্যাট তদারকির জন্য ২৭ হাজার অনলাইন ব্যবসা চিহ্নিত করেছে এনবিআর",
-        "title_en": "NBR identifies 27,000 online businesses for VAT scrutiny",
-        "summary_bn": "জাতীয় রাজস্ব বোর্ড আনুষ্ঠানিক কর ব্যবস্থার আওতায় আনতে প্রায় ২৭ হাজার ই-কমার্স ব্যবসা ভ্যাট তদারকির জন্য চিহ্নিত করেছে।",
-        "summary_en": "The National Board of Revenue has identified around 27,000 e-commerce businesses for VAT scrutiny to bring them into formal tax system.",
+        "title_bn": "কোনো খরচ ছাড়াই প্রথমবার ১১২ জন কর্মী মালয়েশিয়ায় গেলেন।",
+        "title_en": "Cost-free worker migration to Malaysia takes off with 112 recruits.",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে কোনো অভিবাসন খরচ ছাড়াই মালয়েশিয়ায় কর্মী পাঠানোর প্রথম সরকারি কর্মসূচি উদ্বোধন করেছেন।",
+        "summary_en": "Prime Minister Tarique Rahman launched Bangladesh's first-ever zero-cost worker migration programme to Malaysia from Hazrat Shahjalal International Airport.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T18:00:00+00:00",
-        "lead_bn": "জাতীয় রাজস্ব বোর্ড আনুষ্ঠানিক কর ব্যবস্থার আওতায় আনতে প্রায় ২৭ হাজার ই-কমার্স ব্যবসা ভ্যাট তদারকির জন্য চিহ্নিত করেছে।",
-        "lead_en": "The National Board of Revenue has identified around 27,000 e-commerce businesses for VAT scrutiny to bring them into formal tax system.",
+        "published_at": "2026-11-26T19:01:12.204771+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে কোনো অভিবাসন খরচ ছাড়াই মালয়েশিয়ায় কর্মী পাঠানোর প্রথম সরকারি কর্মসূচি উদ্বোধন করেছেন।",
+        "lead_en": "Prime Minister Tarique Rahman launched Bangladesh's first-ever zero-cost worker migration programme to Malaysia from Hazrat Shahjalal International Airport.",
         "bullets_bn": [
-          "চিহ্নিত ব্যবসার বেশিরভাগেরই কোনো ব্যবসায়িক শনাক্তকরণ নম্বর বা বিন নেই।",
-          "ভ্যাট অডিট, ইন্টেলিজেন্স অ্যান্ড ইনভেস্টিগেশন ডিরেক্টরেটের একটি প্রতিবেদনে এই তথ্য জানানো হয়েছে।",
-          "যাচাই-বাছাই করে সংশ্লিষ্ট ভ্যাট কমিশনারেটগুলো পরবর্তী পদক্ষেপ নেবে।"
+          "প্রাথমিক পর্যায়ে ১১২ জন কর্মী কুয়ালালামপুরের উদ্দেশ্যে রওনা হয়েছেন।",
+          "প্রধানমন্ত্রী মালয়েশিয়ার আইন ও সংস্কৃতি শ্রদ্ধা করার পরামর্শ দিয়েছেন।",
+          "সরকার গন্তব্য দেশের চাহিদা অনুযায়ী ভাষা প্রশিক্ষণ চালুর উদ্যোগ নেবে।"
         ],
         "bullets_en": [
-          "Most of the identified businesses do not have a business identification number.",
-          "This information was stated in a report by the VAT Audit, Intelligence and Investigation Directorate.",
-          "The respective VAT commissionerates will examine the information and take further steps."
+          "An initial batch of 112 recruits departed for Kuala Lumpur.",
+          "The prime minister advised workers to respect the culture and laws of Malaysia.",
+          "The government will initiate language training according to destination country requirements."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ই-কমার্স এবং কুরিয়ার সেবা খাতের রাজস্ব সম্ভাবনার ওপর গবেষণা চালানোর পর এনবিআর এই উদ্যোগ নেয়। এর আগে ভ্যাট ফাঁকি দেওয়ার অভিযোগে ২৯টি রেস্তোরাঁ খুঁজে পেয়েছিল ডিরেক্টরেট।",
-        "details_en": "The initiative followed research into the e-commerce and courier service sectors. The directorate also previously found 29 restaurants evading VAT on online sales.",
-        "hook_bn": "ভ্যাট তদারকির মুখে ২৭ হাজার অনলাইন ব্যবসা",
+        "details_bn": "প্রায় আড়াই বছর বন্ধ থাকার পর বাংলাদেশিদের জন্য মালয়েশিয়ার শ্রমবাজার পুনরায় চালু হয়েছে। প্রধানমন্ত্রী জানিয়েছেন, আন্তর্জাতিক বাজারের চাহিদা অনুযায়ী দক্ষ কর্মী তৈরি এবং গন্তব্য দেশের প্রয়োজন অনুযায়ী ভাষা প্রশিক্ষণের ব্যবস্থা নেওয়ার উদ্যোগ নিয়েছে সরকার।",
+        "details_en": "The initiative comes after Malaysia reopened its labour market to Bangladeshi workers following a suspension of recruitment for around two and a half years. The prime minister said his government was taking initiatives to rear skilled workers in line with international market demands and provide language training.",
+        "hook_bn": "আইন মেনে সততার সঙ্গে কাজ করুন",
         "kicker_bn": "সতর্কতা",
         "share_value": false,
-        "question_bn": null
+        "question_bn": "শূন্য খরচে বিদেশে কর্মী পাঠানোর এই পদক্ষেপে মালয়েশিয়ার শ্রমবাজারে কতটা সুফল আসবে বলে আপনার মনে হয়?"
       },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 7.0,
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-26T18:02:05.302122+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-26T19:07:01.714815+00:00"
       }
     },
     {
-      "story_id": "8950a9e9-a171-5ab9-a7d6-6789ed43bd05",
-      "primary_category": "economy_business",
+      "story_id": "9b475f97-ffc9-5961-b717-ea3e588d1120",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "economy_business"
+        "governance_law",
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#GoldImports",
-        "#DhakaCustoms",
-        "#BAJUS",
-        "#BangladeshEconomy"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Gold-imports.jpg",
+      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/mou-20261127000656.jpg?cid=501169",
       "image_caption": null,
-      "published_at": "2026-11-26T18:00:00+00:00",
+      "published_at": "2026-11-26T18:06:56+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.4966,
+      "importance_score": 4.8,
+      "rank_score": 2.1757,
       "sources": [
         {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/economy/news/gold-imports-thru-dhaka-customs-plunge-over-99-3-years-4334166",
-          "title": "Gold imports thru Dhaka customs plunge over 99% in 3 years",
-          "snippet": "Gold imports thru Dhaka customs plunge over 99% in 3 years"
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/national/501169",
+          "title": "শরীয়তপুর–চাঁদপুর সড়কে মেঘনা সেতু নির্মাণে পরামর্শক নিয়োগে চুক্তি",
+          "snippet": "শরীয়তপুর–চাঁদপুর সড়কে মেঘনা সেতু নির্মাণে পরামর্শক নিয়োগে চুক্তি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "তিন বছরে ঢাকা কাস্টমসে স্বর্ণের আমদানি ৯৯ শতাংশের বেশি কমেছে",
-        "title_en": "Gold imports through Dhaka customs plunge over 99 percent in 3 years",
-        "summary_bn": "তিন বছরে ঢাকা কাস্টমস হাউসের মাধ্যমে স্বর্ণের আমদানি ৯৯ শতাংশের বেশি কমেছে এবং একে শুল্ক বৃদ্ধি, কঠোর লাগেজ বিধি ও দীর্ঘসূত্রিতাকে দায়ী করেছেন সংশ্লিষ্টরা।",
-        "summary_en": "Gold imports through Customs House Dhaka fell by more than 99 percent in three years, blamed on hiked duties, tightened baggage rules and lengthy procedures.",
+        "title_bn": "শরীয়তপুর-চাঁদপুর সড়কে মেঘনা সেতু নির্মাণে পরামর্শক চুক্তি সই হয়েছে।",
+        "title_en": "Consultancy agreement signed for Meghna bridge construction on Shariatpur-Chandpur road.",
+        "summary_bn": "বাংলাদেশ সেতু কর্তৃপক্ষ ও আইআইএফসির মধ্যে শরীয়তপুর-চাঁদপুর সড়কে মেঘনা সেতু নির্মাণের পরামর্শক সেবা নিতে চুক্তি স্বাক্ষরিত হয়েছে।",
+        "summary_en": "Bangladesh Bridge Authority and IIFC signed an agreement for consultancy services to construct the Meghna bridge.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business"
+          "governance_law",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T18:00:00+00:00",
-        "lead_bn": "তিন বছরে ঢাকা কাস্টমস হাউসের মাধ্যমে স্বর্ণের আমদানি ৯৯ শতাংশের বেশি কমেছে এবং একে শুল্ক বৃদ্ধি, কঠোর লাগেজ বিধি ও দীর্ঘসূত্রিতাকে দায়ী করেছেন সংশ্লিষ্টরা।",
-        "lead_en": "Gold imports through Customs House Dhaka fell by more than 99 percent in three years, blamed on hiked duties, tightened baggage rules and lengthy procedures.",
+        "published_at": "2026-11-26T18:06:56+00:00",
+        "lead_bn": "বাংলাদেশ সেতু কর্তৃপক্ষ ও আইআইএফসির মধ্যে শরীয়তপুর-চাঁদপুর সড়কে মেঘনা সেতু নির্মাণের পরামর্শক সেবা নিতে চুক্তি স্বাক্ষরিত হয়েছে।",
+        "lead_en": "Bangladesh Bridge Authority and IIFC signed an agreement for consultancy services to construct the Meghna bridge.",
         "bullets_bn": [
-          "তৎক্ষণাৎ ঘোষণায় খালাস হওয়া আমদানি অর্থবছর ২০২২-২৩ এ প্রায় ৪৩ হাজার কেজিতে পৌঁছানোর পর অর্থবছর ২৬ এ ২০০ কেজির নিচে নেমেছে।",
-          "এই সময়ে স্বর্ণ থেকে সংগৃহীত রাজস্ব ৭৬১ কোটি টাকা থেকে কমে মাত্র ৮ কোটি ৮২ লাখ টাকায় দাঁড়িয়েছে।",
-          "বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশনের (বাজুস) সভাপতি এনামুল হক খান দাবি করেছেন যে পুনর্ব্যবহৃত স্বর্ণ মোট চাহিদার ৬০ থেকে ৭০ শতাংশ পূরণ করে।"
+          "পিপিপি ভিত্তিতে সেতুটি নির্মাণের জন্য এই চুক্তি স্বাক্ষরিত হয়।",
+          "সেতু বিভাগের সচিব মোহাম্মদ আবদুর রউফ অনুষ্ঠানে প্রধান অতিথি ছিলেন।",
+          "জাপান সরকারের মনোনীত দুটি প্রতিষ্ঠান সেতুটি বাস্তবায়ন করবে বলে উল্লেখ করা হয়।"
         ],
         "bullets_en": [
-          "Imports cleared through instant declaration peaked at about 43,000 kilogrammes in fiscal year 2022-23, then fell to below 200 kg in FY26.",
-          "Revenue collected from gold fell from Tk 761 crore to just Tk 8.82 crore during the period.",
-          "Enamul Haque Khan, president of the Bangladesh Jewellers Association, claimed that recycled gold meets 60 to 70 percent of total demand."
+          "The agreement was signed to construct the bridge on a PPP basis.",
+          "Bridge Division Secretary Mohammad Abdur Rouf was the chief guest at the event.",
+          "Two firms nominated by the Japan government will implement the bridge."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "পরিস্থিতিটি দেশের স্বর্ণ নীতি নিয়ে নতুন বিতর্ক তৈরি করেছে এবং বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশন বাণিজ্যের বড় অংশ আনুষ্ঠানিক খাতে আনতে সংস্কারের দাবি জানিয়েছে। স্বর্ণ নীতি ২০১৮ অনুযায়ী বার্ষিক অভ্যন্তরীণ চাহিদা ২০ থেকে ৪০ টন। অর্থবছর ২৬ থেকে সরকার সংশোধিত লাগেজ বিধির আওতায় স্বর্ণের বার ও অলংকার আমদানির ওপর কঠোর নিয়ম প্রবর্তন করেছে এবং একজন ঢাকা কাস্টম হাউস কর্মকর্তা এই পতনকে সংশোধিত লাগেজ বিধির ফল বলে উল্লেখ করেছেন।",
-        "details_en": "The situation has renewed debate over the country's gold policy, with the Bangladesh Jewellers' Association pressing for reforms. The Gold Policy 2018 estimates yearly domestic demand at 20 to 40 tonnes. Stricter regulations on gold bars and ornaments were introduced under revised baggage rules starting from FY26, which a Customs House Dhaka official attributed the decline to.",
-        "hook_bn": "আমদানি কমেছে ৯৯ শতাংশ",
-        "kicker_bn": "স্বর্ণ আমদানি",
+        "details_bn": "২৬ নভেম্বর বাংলাদেশ সেতু কর্তৃপক্ষের সম্মেলন কক্ষে এ চুক্তি সই হয়। ট্রানজেকশন অ্যাডভাইজরি সার্ভিসেস ফর দ্য কনস্ট্রাকশন অব ব্রিজ ওভার দ্য মেঘনা রিভার অন শরীয়তপুর-চাঁদপুর রোড অন পিপিপি বেসিস শীর্ষক পরামর্শক সেবা দেবে আইআইএফসি। বাংলাদেশ-জাপান অষ্টম প্ল্যাটফর্ম সভায় পিপিপি মডেলে সেতুটি বাস্তবায়নের সিদ্ধান্ত হয়। এতে মিয়াগাওয়া-কেনসেতসু ও জাপান ব্রিজ কোম্পানি সেতুটি বাস্তবায়ন করবে বলে উল্লেখ করা হয়। চুক্তি স্বাক্ষর অনুষ্ঠানে প্রধান প্রকৌশলী আবুল হোসেন এবং ব্যবস্থাপনা পরিচালক মো. মনিরুজ্জামান নিজ নিজ প্রতিষ্ঠানের পক্ষে স্বাক্ষর করেন।",
+        "details_en": "The agreement was signed on 26 November at the conference room of the Bangladesh Bridge Authority. IIFC will provide consultancy services titled Transaction Advisory Services for the Construction of Bridge Over the Meghna River on Shariatpur-Chandpur Road on PPP Basis. The decision to implement the proposed bridge on the PPP model was taken at the eighth Bangladesh-Japan platform meeting. It was mentioned that Miyagawa Kensetsu and Japan Bridge Company nominated by the Japan government will implement the bridge. Chief Engineer Abul Hossain and Managing Director Md. Moniruzzaman signed the agreement on behalf of their respective organizations.",
+        "hook_bn": "শরীয়তপুর-চাঁদপুর সড়কে মেঘনা সেতু নির্মাণ",
+        "kicker_bn": null,
         "share_value": false,
-        "question_bn": null
+        "question_bn": "শরীয়তপুর-চাঁদপুর সড়কে মেঘনা সেতু নির্মিত হলে যাতায়াতে কেমন সুবিধা হবে বলে আপনি মনে করেন?"
       },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 5.0,
       "fact_check": {
-        "status": "unchecked",
-        "checked_at": "2026-11-26T18:02:05.302122+00:00"
+        "status": "passed",
+        "checked_at": "2026-11-26T19:07:01.714815+00:00"
       }
     }
   ]
