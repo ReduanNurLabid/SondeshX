@@ -1,9 +1,88 @@
 {
-  "updated_at": "2026-11-26T07:00:49.278916",
-  "total_stories": 5,
+  "updated_at": "2026-11-26T08:00:43.724018",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "778921ed-a8fa-5063-ac02-5dab8d5e195b",
+      "story_id": "2a98849c-af10-5896-92d0-f48fbc6512f0",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "world_diplomacy",
+        "governance_law",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2025-02-20%2F16psy1nv%2F466783f9-b718-48b1-a7ad-25708b30468f.jfif?rect=0%2C0%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-26T07:53:12+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.25,
+      "rank_score": 3.8763,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/business/bank/tcf8actkod",
+          "title": "আজকের বিনিময় হার",
+          "snippet": "আজকের বিনিময় হার"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/823087/%E0%A6%87%E0%A6%89%E0%A6%A8%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AB-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%B0%E0%A6%BF-%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A7%AB%E0%A7%A9%E0%A7%AB-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A6%BE",
+          "title": "ইউনিসেফ থেকে সরাসরি পদ্ধতিতে ৫৩৫ কোটি টাকার টিকা কিনবে সরকার",
+          "snippet": "ইউনিসেফ থেকে সরাসরি পদ্ধতিতে ৫৩৫ কোটি টাকার টিকা কিনবে সরকার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ডলারের দাম অপরিবর্তিত রেখে বাজারে বিভিন্ন মুদ্রার দর ওঠানামা চলছে",
+        "title_en": "Dollar rate remains unchanged while other currency rates fluctuate in the market",
+        "summary_bn": "বাংলাদেশ ব্যাংকের প্রকাশিত তথ্য অনুসারে দেশের মুদ্রাবাজারে ডলারের দাম অপরিবর্তিত রয়েছে এবং বেশির ভাগ মুদ্রার দাম কমেছে।",
+        "summary_en": "According to data published by Bangladesh Bank, the dollar rate remains unchanged and prices of most currencies have decreased in the market.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "world_diplomacy",
+          "governance_law",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-26T07:53:12+00:00",
+        "lead_bn": "বাংলাদেশ ব্যাংকের প্রকাশিত তথ্য অনুসারে দেশের মুদ্রাবাজারে ডলারের দাম অপরিবর্তিত রয়েছে এবং বেশির ভাগ মুদ্রার দাম কমেছে।",
+        "lead_en": "According to data published by Bangladesh Bank, the dollar rate remains unchanged and prices of most currencies have decreased in the market.",
+        "bullets_bn": [
+          "বাজারে ডলারের গড় দাম ১২৪ টাকা ৭৫ পয়সা।",
+          "পাউন্ড, ইউয়ান, অস্ট্রেলীয় ডলার ও সিঙ্গাপুরি ডলারের দাম কমেছে।",
+          "ইউরো ও রুপির দাম বেড়েছে এবং ইয়েনের দাম অপরিবর্তিত আছে।"
+        ],
+        "bullets_en": [
+          "The average price of a dollar in the market is 124 taka 75 paisa.",
+          "Prices of pound, yuan, Australian dollar, and Singapore dollar have decreased.",
+          "Prices of euro and rupee have increased while the yen price remains unchanged."
+        ],
+        "impact_bn": "বৈদেশিক মুদ্রার বিনিময় হারের ওঠানামার সঙ্গে দেশের ব্যবসা-বাণিজ্যের খরচও ওঠানামা করে।",
+        "impact_en": "With the fluctuation of foreign exchange rates, the cost of business and commerce in the country also fluctuates.",
+        "details_bn": "মধ্যপ্রাচ্য সংকটসহ বিভিন্ন কারণে কয়েক মাস ধরেই বিদেশি মুদ্রার দাম ওঠানামা করছে। কেন্দ্রীয় ব্যাংকের প্রকাশিত বৈদেশিক মুদ্রার দামের চেয়ে কিছুটা বেশি দামে খোলাবাজারে বিক্রি হয়।",
+        "details_en": "Foreign currency prices have been fluctuating for several months due to various reasons including the Middle East crisis. Open market sales occur at prices slightly higher than the foreign exchange rates published by the central bank.",
+        "hook_bn": "বাজারে ডলারের গড় দাম ১২৪ টাকা ৭৫ পয়সা",
+        "kicker_bn": "দাম ওঠানামা",
+        "share_value": true,
+        "question_bn": "আপনার লেনদেনে বৈদেশিক মুদ্রার এই হারের পরিবর্তন কেমন প্রভাব ফেলছে?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-26T08:01:52.308185+00:00"
+      }
+    },
+    {
+      "story_id": "8dd2d0c5-2490-523a-b86b-a3b264cf74fb",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -13,237 +92,137 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2023-11%2F903cfc3e-3518-44b3-90b5-e0ff4a548f5f%2FCoctail.webp?rect=0%2C19%2C640%2C336&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-26%2F6w09zoco%2FRayhan.jpg?rect=0%2C0%2C1367%2C718&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-26T06:52:41+00:00",
+      "published_at": "2026-11-26T07:51:07+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.75,
-      "rank_score": 5.956,
+      "importance_score": 6.25,
+      "rank_score": 3.8685,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/crime/9pwfj0y5ik",
-          "title": "ঢাকার সিএমএম আদালতের প্রধান ফটকের সামনে ককটেল বিস্ফোরণ",
-          "snippet": "ঢাকার সিএমএম আদালতের প্রধান ফটকের সামনে ককটেল বিস্ফোরণ"
+          "url": "https://www.prothomalo.com/bangladesh/district/1c8fdgnjuv",
+          "title": "বারবার পালানো সন্ত্রাসী রায়হানের আস্তানায় অভিযান, পিস্তল-শটগান উদ্ধারের দাবি পুলিশের",
+          "snippet": "বারবার পালানো সন্ত্রাসী রায়হানের আস্তানায় অভিযান, পিস্তল-শটগান উদ্ধারের দাবি পুলিশের"
         },
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/dhaka/425789/crude-bomb-explodes-outside-dhaka-cmm-court",
-          "title": "Crude bomb explodes outside Dhaka CMM Court, lawyer injured",
-          "snippet": "Crude bomb explodes outside Dhaka CMM Court, lawyer injured"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/crude-bomb-explodes-front-dhaka-cmm-court-lawyer-injured-1614346",
-          "title": "Crude bomb explodes in front of Dhaka CMM Court, lawyer injured",
-          "snippet": "Crude bomb explodes in front of Dhaka CMM Court, lawyer injured"
-        },
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/crude-bomb-explodes-outside-dhaka-cmm-court-one-reportedly-injured-4333701",
-          "title": "Crude bomb explodes outside Dhaka CMM Court, one reportedly injured",
-          "snippet": "Crude bomb explodes outside Dhaka CMM Court, one reportedly injured"
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/national/501005",
+          "title": "ফটিকছড়িতে অস্ত্র তৈরির কারখানার সন্ধান, গ্রেপ্তার ৬",
+          "snippet": "ফটিকছড়িতে অস্ত্র তৈরির কারখানার সন্ধান, গ্রেপ্তার ৬"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ঢাকার সিএমএম আদালতের প্রধান ফটকের সামনে ককটেল বিস্ফোরণ",
-        "title_en": "Crude bomb explodes outside Dhaka CMM Court",
-        "summary_bn": "ঢাকার চিফ মেট্রোপলিটন ম্যাজিস্ট্রেট আদালতের প্রবেশের সড়কসংলগ্ন প্রধান ফটকের সামনে ককটেল বিস্ফোরণের ঘটনা ঘটেছে।",
-        "summary_en": "A crude bomb exploded in front of the main gate adjacent to the entrance road of the Dhaka Chief Metropolitan Magistrate Court.",
+        "title_bn": "ফটিকছড়িতে সন্ত্রাসী রায়হানের আস্তানায় অভিযান চালিয়ে অস্ত্র উদ্ধার করেছে পুলিশ",
+        "title_en": "Police recover weapons during raid on terrorist Raihan's hideout in Fatikchhari",
+        "summary_bn": "চট্টগ্রামের ফটিকছড়িতে তালিকাভুক্ত সন্ত্রাসী মো. রায়হানের পাহাড়ি আস্তানায় অভিযান চালিয়ে পিস্তল ও শটগান উদ্ধারের দাবি করেছে পুলিশ এবং চার সহযোগীকে গ্রেপ্তার করেছে।",
+        "summary_en": "Police claimed to recover a pistol and shotgun and arrested four associates during a raid on listed terrorist Md Raihan's mountain hideout in Fatikchhari, Chattogram.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T06:52:41+00:00",
-        "lead_bn": "ঢাকার চিফ মেট্রোপলিটন ম্যাজিস্ট্রেট আদালতের প্রবেশের সড়কসংলগ্ন প্রধান ফটকের সামনে ককটেল বিস্ফোরণের ঘটনা ঘটেছে।",
-        "lead_en": "A crude bomb exploded in front of the main gate adjacent to the entrance road of the Dhaka Chief Metropolitan Magistrate Court.",
+        "published_at": "2026-11-26T07:51:07+00:00",
+        "lead_bn": "চট্টগ্রামের ফটিকছড়িতে তালিকাভুক্ত সন্ত্রাসী মো. রায়হানের পাহাড়ি আস্তানায় অভিযান চালিয়ে পিস্তল ও শটগান উদ্ধারের দাবি করেছে পুলিশ এবং চার সহযোগীকে গ্রেপ্তার করেছে।",
+        "lead_en": "Police claimed to recover a pistol and shotgun and arrested four associates during a raid on listed terrorist Md Raihan's mountain hideout in Fatikchhari, Chattogram.",
         "bullets_bn": [
-          "ঢাকা মহানগর পুলিশের প্রসিকিউশন বিভাগের উপকমিশনার মহিউদ্দিন মাহমুদ সোহেল প্রথম আলোকে এ তথ্যের সত্যতা নিশ্চিত করেছেন।",
-          "ককটেল বিস্ফোরণের এই ঘটনায় একজন আইনজীবী আহত হয়েছেন।",
-          "ককটেল বিস্ফোরণের ঘটনায় সন্দেহভাজন এক ব্যক্তিকে জিজ্ঞাসাবাদ করা হচ্ছে।"
+          "অভিযানে রায়হানের ব্যবহৃত পিস্তল, শটগানসহ কয়েকটি অস্ত্র উদ্ধার করা হয়।",
+          "ভুজপুর থানার ভারপ্রাপ্ত কর্মকর্তা বিপুল চন্দ্র দে অস্ত্রশস্ত্রসহ চারজন গ্রেপ্তারের তথ্য জানিয়েছেন।",
+          "রায়হানের বিরুদ্ধে হত্যা, চাঁদাবাজি ও অস্ত্র আইনে ১৫টি মামলা রয়েছে বলে জানিয়েছে পুলিশ।"
         ],
         "bullets_en": [
-          "Mohiuddin Mahmud Sohel, deputy commissioner of the DMP prosecution division, confirmed the truth of this information to Prothom Alo.",
-          "A lawyer was injured in this crude bomb explosion incident.",
-          "A suspected person is being interrogated in connection with the crude bomb explosion."
+          "A pistol, shotgun, and several other weapons used by Raihan were recovered during the operation.",
+          "Bipul Chandra Dey, officer-in-charge of Bhujpur Police Station, confirmed the arrest of four individuals with weapons.",
+          "Police stated that Raihan has 15 cases against him involving murder, extortion, and arms laws."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ঢাকার চিফ মেট্রোপলিটন ম্যাজিস্ট্রেট আদালতে প্রবেশের সড়কসংলগ্ন প্রধান ফটকের সামনে ককটেল বিস্ফোরণ ঘটে। ঢাকা মহানগর পুলিশের প্রসিকিউশন বিভাগের উপকমিশনার মহিউদ্দিন মাহমুদ সোহেল জানান, যাঁকে জিজ্ঞাসাবাদ করা হচ্ছে, তিনি অপরাধী নাকি ভিকটিম, তা এখনই বলা যাচ্ছে না। বিস্ফোরণের পর ঢাকা আইনজীবী সমিতির নেতারা ঘটনাস্থলে আসেন।",
-        "details_en": "The crude bomb exploded in front of the main gate adjacent to the entrance road of the Dhaka Chief Metropolitan Magistrate Court. Mohiuddin Mahmud Sohel, deputy commissioner of the DMP prosecution division, stated that it cannot be said right away whether the person being interrogated is a criminal or a victim. Following the explosion, leaders of the Dhaka Bar Association arrived at the scene.",
-        "hook_bn": "সিএমএম আদালতের ফটকে ককটেল বিস্ফোরণ",
-        "kicker_bn": "ব্রেকিং",
+        "details_bn": "ভুজপুর থানা সূত্রে জানা গেছে, গত চার দিন ধরে জেলা ও থানা-পুলিশ যৌথভাবে ফটিকছড়ির বিভিন্ন স্থানে রায়হানকে ধরতে অভিযান চালিয়ে আসছে। অভিযানের মধ্যেই তিন দফায় পুলিশের চোখ ফাঁকি দিয়ে পালিয়ে যান রায়হান। বিদেশি হোয়াটসঅ্যাপ নম্বর থেকে ফোন করে নগর ও জেলার বিভিন্ন স্থানে চাঁদাবাজির অভিযোগ রয়েছে তাঁর বিরুদ্ধে। বিদেশে পলাতক সন্ত্রাসী সাজ্জাদ আলী ওরফে বড় সাজ্জাদের অন্যতম সহযোগী রায়হান দীর্ঘদিন ধরে অপরাধজগতের সঙ্গে জড়িত থাকায় স্থানীয় পাহাড়ি এলাকার পথঘাট সম্পর্কে ভালো ধারণা রাখেন।",
+        "details_en": "According to Bhujpur Police Station, district and local police had been jointly conducting operations in various areas of Fatikchhari to capture Raihan for four days. During the operations, Raihan managed to evade police three times. He is accused of extortion in various parts of the city and district by calling from foreign WhatsApp numbers. Raihan, one of the associates of abroad-fled terrorist Sajjad Ali alias Baro Sajjad, has been involved in the criminal underworld for a long time and has good knowledge of the local hilly area paths.",
+        "hook_bn": "ফটিকছড়িতে সন্ত্রাসী রায়হানের আস্তানায় অভিযান",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 7.0,
-      "outlet_count": 5,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-26T07:01:58.864647+00:00"
-      }
-    },
-    {
-      "story_id": "80b8c984-441c-5a46-bf42-7ba23b4b8309",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#AmirKhosruMahmudChowdhury",
-        "#CCGP",
-        "#USWheat",
-        "#FuelImports"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2025/01/02/refined_fuel_oil.png",
-      "image_caption": null,
-      "published_at": "2026-11-26T05:55:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 5.2766,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/govt-approves-tk9910cr-fuel-imports-440000-tonnes-us-wheat-1614376",
-          "title": "Govt approves Tk9,910cr fuel imports, 440,000 tonnes of US wheat",
-          "snippet": "Govt approves Tk9,910cr fuel imports, 440,000 tonnes of US wheat"
-        },
-        {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/news/govt-approves-tariffs-payra-rampal-power-plants-clears-440-lakh-tonnes-us-wheat-imports-4333661",
-          "title": "Govt approves tariffs for Payra, Rampal power plants, clears 4.40 lakh tonnes of US wheat imports",
-          "snippet": "Govt approves tariffs for Payra, Rampal power plants, clears 4.40 lakh tonnes of US wheat imports"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823075/%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A7%AA-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A7%AA%E0%A7%A6-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%9F%E0%A6%A8-%E0%A6%97%E0%A6%AE-%E0%A6%86%E0%A6%AE%E0%A6%A6%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A6%AC%E0%A7%87",
-          "title": "যুক্তরাষ্ট্র থেকে ৪ লাখ ৪০ হাজার টন গম আমদানি করবে সরকার",
-          "snippet": "যুক্তরাষ্ট্র থেকে ৪ লাখ ৪০ হাজার টন গম আমদানি করবে সরকার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সরকার ৯ হাজার ৯১০ কোটি টাকার জ্বালানি ও গম আমদানির অনুমোদন দিয়েছে।",
-        "title_en": "Government approves Tk9,910cr fuel imports and US wheat.",
-        "summary_bn": "সরকারি ক্রয় সংক্রান্ত মন্ত্রিসভা কমিটি প্রায় ৮ হাজার ১০ কোটি টাকার পেট্রোলিয়াম পণ্য এবং ১ হাজার ৯০৮ কোটি ৮০ লাখ টাকা ব্যয়ে মার্কিন যুক্তরাষ্ট্র থেকে ৪ লাখ ৪০ হাজার টন গম আমদানির অনুমোদন দিয়েছে।",
-        "summary_en": "The Cabinet Committee on Government Purchase has approved petroleum imports worth around Tk8,010 crore and 440,000 tonnes of US wheat at an estimated cost of Tk1,908.80 crore.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-26T05:55:00+00:00",
-        "lead_bn": "সরকারি ক্রয় সংক্রান্ত মন্ত্রিসভা কমিটি প্রায় ৮ হাজার ১০ কোটি টাকার পেট্রোলিয়াম পণ্য এবং ১ হাজার ৯০৮ কোটি ৮০ লাখ টাকা ব্যয়ে মার্কিন যুক্তরাষ্ট্র থেকে ৪ লাখ ৪০ হাজার টন গম আমদানির অনুমোদন দিয়েছে।",
-        "lead_en": "The Cabinet Committee on Government Purchase has approved petroleum imports worth around Tk8,010 crore and 440,000 tonnes of US wheat at an estimated cost of Tk1,908.80 crore.",
-        "bullets_bn": [
-          "অর্থমন্ত্রী আমীর খসরু মাহমুদ চৌধুরীর সভাপতিত্বে সচিবালয়ে এই ক্রয় প্রস্তাবগুলোর অনুমোদন দেওয়া হয়।",
-          "সিঙ্গাপুরভিত্তিক ট্রাফিগুরা পিটি লিমিটেড থেকে ডিজেল ও উচ্চ সালফারযুক্ত ফার্নেস তেল কেনা হবে।",
-          "সিঙ্গাপুরভিত্তিক অনিপেক সিঙ্গাপুর পিটি লিমিটেড থেকে ৯৫ আরওএন আনলেডেড পেট্রোল বা অকটেন আমদানি করা হবে।"
-        ],
-        "bullets_en": [
-          "The approvals were given at a meeting chaired by Finance Minister Amir Khosru Mahmud Chowdhury at the Secretariat.",
-          "Diesel and high-sulphur furnace oil will be procured from Singapore-based Trafigura Pte Ltd.",
-          "Unleaded petrol or octane will be imported from Singapore-based Onipec Singapore Pte Ltd."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "অর্থ মন্ত্রণালয়ের ২৫ নভেম্বর প্রকাশিত এক বিবৃতিতে জানানো হয়, ২০২৭ সালের জানুয়ারি-জুন সময়ের জন্য দেশের জ্বালানি চাহিদা মেটাতে আন্তর্জাতিক উন্মুক্ত টেন্ডারের মাধ্যমে এই পেট্রোলিয়াম পণ্যগুলো আমদানি করা হবে। অন্যদিকে, সরকারের সাথে সরকারের (জিটুজি) পদ্ধতিতে মার্কিন যুক্তরাষ্ট্র থেকে ১০ শতাংশ তারতম্যের বিধান রেখে ৪ লাখ ৪০ হাজার টন গম আমদানি করবে খাদ্য মন্ত্রণালয়।",
-        "details_en": "According to a statement issued by the Ministry of Finance on 26 November, the petroleum products will be imported through international open tenders to meet the country's requirements for the January-June period of 2027. Meanwhile, the Ministry of Food will import 440,000 tonnes of wheat from the United States under a government-to-government arrangement with a provision for a 10% variation.",
-        "hook_bn": "৯ হাজার ৯১০ কোটি টাকার জ্বালানি ও গম অনুমোদন",
-        "kicker_bn": "নতুন অনুমোদন",
-        "share_value": true,
-        "question_bn": "আমদানির এই সিদ্ধান্ত দেশের খাদ্য ও জ্বালানি সুরক্ষায় কেমন প্রভাব ফেলবে বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 3,
+      "desk_importance": 6.0,
+      "outlet_count": 2,
       "trending": false,
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-26T07:01:58.864647+00:00"
+        "checked_at": "2026-11-26T08:01:52.308185+00:00"
       }
     },
     {
-      "story_id": "f942623a-d465-5be8-af99-7c661ae9e3c2",
-      "primary_category": "governance_law",
+      "story_id": "63ea957d-c27c-5417-9089-179ae8dc8bcd",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "governance_law",
         "economy_business",
-        "society_education"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Netrakona",
-        "#NationalCitizenParty",
-        "#MohammadFahimRahmanKhanPathan",
-        "#AwamiLeague"
+        "#TariqueRahman",
+        "#NationalLivestockWeek2026",
+        "#Bangladesh"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/26/netrokona_ncp_fahim_fire.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/26/pm_livestockk.jpg",
       "image_caption": null,
-      "published_at": "2026-11-26T06:25:00+00:00",
+      "published_at": "2026-11-26T06:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.5,
-      "rank_score": 4.0794,
+      "rank_score": 3.7596,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/ncp-leaders-house-set-fire-netrakona-1614406",
-          "title": "NCP leader's house set on fire in Netrakona",
-          "snippet": "NCP leader's house set on fire in Netrakona"
+          "url": "https://www.tbsnews.net/bangladesh/pm-opens-livestock-fair-distributes-awards-23-individuals-organisations-1614386",
+          "title": "PM opens livestock fair, distributes awards to 23 individuals, organisations",
+          "snippet": "PM opens livestock fair, distributes awards to 23 individuals, organisations"
         },
         {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/bangladesh/district/gn8idp332r",
-          "title": "নেত্রকোনায় এনসিপি নেতা ফাহিমের বাসায় দুর্বৃত্তদের আগুন",
-          "snippet": "নেত্রকোনায় এনসিপি নেতা ফাহিমের বাসায় দুর্বৃত্তদের আগুন"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/govt-to-turn-livestock-sector-into-export-oriented-industry-pm",
+          "title": "Govt to turn livestock sector into export-oriented industry: PM",
+          "snippet": "Govt to turn livestock sector into export-oriented industry: PM"
         },
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/netrakona-ncp-leader-house-attacked-miscreants/",
-          "title": "এনসিপি নেতার বাসায় আগুন, আওয়ামী লীগের লোকজনকে সন্দেহ",
-          "snippet": "এনসিপি নেতার বাসায় আগুন, আওয়ামী লীগের লোকজনকে সন্দেহ"
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/national/post-1226070/",
+          "title": "জাতীয় প্রাণিসম্পদ সপ্তাহের উদ্বোধনী অনুষ্ঠানে প্রধানমন্ত্রী",
+          "snippet": "জাতীয় প্রাণিসম্পদ সপ্তাহের উদ্বোধনী অনুষ্ঠানে প্রধানমন্ত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নেত্রকোনায় এনসিপি নেতার বাসায় দুর্বৃত্তরা আগুন দিয়েছে",
-        "title_en": "Miscreants set fire to NCP leader's house in Netrakona",
-        "summary_bn": "নেত্রকোনা পৌরসভায় জাতীয় নাগরিক পার্টির কেন্দ্রীয় নেতা মোহাম্মদ ফাহিম রহমান খান পাঠানের বাসায় দুর্বৃত্তরা আগুন দিয়েছে।",
-        "summary_en": "Miscreants set fire to the house of National Citizen Party central leader Mohammad Fahim Rahman Khan Pathan in Netrakona municipality.",
+        "title_bn": "জাতীয় প্রাণিসম্পদ সপ্তাহ ২০২৬ উদ্বোধন করলেন প্রধানমন্ত্রী তারেক রহমান",
+        "title_en": "Prime Minister Tarique Rahman opens National Livestock Week 2026",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান ২৬ নভেম্বর রাজধানীতে তিন দিনব্যাপী জাতীয় প্রাণিসম্পদ সপ্তাহ ২০২৬ উদ্বোধন করেছেন।",
+        "summary_en": "Prime Minister Tarique Rahman inaugurated the three-day National Livestock Week 2026 in the capital on 26 November.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
           "economy_business",
-          "society_education"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T06:25:00+00:00",
-        "lead_bn": "নেত্রকোনা পৌরসভায় জাতীয় নাগরিক পার্টির কেন্দ্রীয় নেতা মোহাম্মদ ফাহিম রহমান খান পাঠানের বাসায় দুর্বৃত্তরা আগুন দিয়েছে।",
-        "lead_en": "Miscreants set fire to the house of National Citizen Party central leader Mohammad Fahim Rahman Khan Pathan in Netrakona municipality.",
+        "published_at": "2026-11-26T06:00:00+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান ২৬ নভেম্বর রাজধানীতে তিন দিনব্যাপী জাতীয় প্রাণিসম্পদ সপ্তাহ ২০২৬ উদ্বোধন করেছেন।",
+        "lead_en": "Prime Minister Tarique Rahman inaugurated the three-day National Livestock Week 2026 in the capital on 26 November.",
         "bullets_bn": [
-          "২৬ নভেম্বর ভোর সাড়ে চারটার দিকে হোসেনপুর এলাকার একটি বারান্দার ঘরে আগুন লাগার এই ঘটনা ঘটে।",
-          "ফাহিমের মা, ছোট ভাই এবং ভাগনে বাড়িতে ছিলেন এবং পরিবারের সদস্য ও প্রতিবেশীরা মিলে আগুন নিয়ন্ত্রণে আনেন।",
-          "ফাহিম সন্দেহ করছেন যে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের লোকজন এই ঘটনার সঙ্গে জড়িত।"
+          "প্রাণীজ আমিষের উৎপাদন নিশ্চিত করতে ও নতুন উদ্যোক্তা তৈরিতে এ সপ্তাহ উদ্বোধন করা হয়।",
+          "প্রধানমন্ত্রী আটটি শ্রেণীতে ২৩ জন ব্যক্তি ও প্রতিষ্ঠানের মধ্যে জাতীয় প্রাণিসম্পদ পদক ২০২৬ বিতরণ করেন।",
+          "অনুষ্ঠানে ৬৪টি স্টল ও ছয়টি প্যাভিলিয়ন নিয়ে একটি প্রাণিসম্পদ মেলা ও প্রদর্শনী আয়োজন করা হয়েছে।"
         ],
         "bullets_en": [
-          "The incident took place around 4:30am on 26 November in a room on the veranda in the Hossainpur area.",
-          "Fahim's mother, younger brother, and nephew were at home, and family members and neighbours extinguished the fire.",
-          "Fahim suspects that activists of the activities-banned Awami League were behind the incident."
+          "The week was inaugurated to ensure safe animal protein production and create new entrepreneurs.",
+          "The prime minister distributed the National Livestock Awards 2026 to 23 individuals and organisations in eight categories.",
+          "An exhibition and livestock fair featuring 64 stalls and six pavilions has been arranged at the venue."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ঘটনার সময় এনসিপি নেতা ফাহিম ঢাকায় ছিলেন। ফাহিমের ছোট ভাই নাফিউর রহমান খান পাঠানের বর্ণনায় পোড়া গন্ধ পেয়ে ঘরের দরজা খুলে বারান্দায় আগুন দেখা যায়। ঘটনার খবর পেয়ে পুলিশ ঘটনাস্থল পরিদর্শন করে এবং ফাহিম এ ঘটনার তদন্ত ও জড়িতদের বিরুদ্ধে ব্যবস্থা নেওয়ার দাবি জানিয়েছেন।",
-        "details_en": "Fahim was in Dhaka at the time of the incident. According to Fahim's younger brother Nafiu Rahman Khan Pathan, family members first noticed the fire after smelling burning and opening the door. Police visited the scene, and Fahim demanded an investigation and action against those involved.",
-        "hook_bn": "নেত্রকোনায় এনসিপি নেতার বাসায় আগুন",
+        "details_bn": "মৎস্য ও প্রাণিসম্পদ মন্ত্রণালয় এবং প্রাণিসম্পদ অধিদফতর রফতানিমুখী প্রাণিসম্পদে গড়বো দেশ, সবার আগে বাংলাদেশ প্রতিপাদ্যে এ অনুষ্ঠানের আয়োজন করে। রাজধানীর শেরেবাংলা নগরে পুরাতন বাণিজ্য মেলার মাঠে অনুষ্ঠানটি আয়োজিত হয়। অনুষ্ঠানে খাতটির ভবিষ্যৎ সম্ভাবনা ও উন্নয়ন নিয়ে একটি প্রামাণ্যচিত্র প্রদর্শিত হয়।",
+        "details_en": "The programme was organised by the Ministry of Fisheries and Livestock and the Department of Livestock Services under the theme Building the country through export-oriented livestock, Bangladesh first. It took place at the old Trade Fair Ground in Sher-e-Bangla Nagar in the capital. A documentary highlighting the future prospects and development of the livestock sector was screened at the event.",
+        "hook_bn": "জাতীয় প্রাণিসম্পদ সপ্তাহের উদ্বোধন",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
@@ -251,157 +230,228 @@
       "desk_importance": 6.0,
       "outlet_count": 3,
       "trending": false,
-      "social_appeal": 7.0,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-26T07:01:58.864647+00:00"
+        "checked_at": "2026-11-26T08:01:52.308185+00:00"
       }
     },
     {
-      "story_id": "29696087-a28d-5103-b592-1a6f46b82d1c",
-      "primary_category": "world_diplomacy",
+      "story_id": "f7aeb0a9-417e-5b23-b5c9-83df9b44c9fa",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#NorthKorea",
-        "#KimJongUn",
-        "#NuclearWeapons"
-      ],
-      "image_url": "https://th-i.thgim.com/public/incoming/z2dsgx/article71745197.ece/alternates/LANDSCAPE_1200/2026-11-26T011630Z_1118755875_RC2BVOAH3DNL_RTRMADP_3_NORTHKOREA-NUCLEAR.JPG",
-      "image_caption": null,
-      "published_at": "2026-11-26T04:35:38+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.1726,
-      "sources": [
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture/article71745171.ece",
-          "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
-          "snippet": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture"
-        },
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/kim-jong-un-tours-nuclear-material-sites-urges-wider-use-of-tactical-nuclear-weapons/a-80055887?maca=en-rss-en-all-1573-rdf",
-          "title": "Kim Jong Un tours nuclear material sites, urges wider use of tactical nuclear weapons",
-          "snippet": "Kim Jong Un tours nuclear material sites, urges wider use of tactical nuclear weapons"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823073/%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%A3%E0%A6%AC%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%A4%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%89-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A7%80%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87%E0%A6%87",
-          "title": "উত্তর কোরিয়ার পারমাণবিক ক্ষমতা কেউ অস্বীকার করলেই যুদ্ধের হুমকি কিমের",
-          "snippet": "উত্তর কোরিয়ার পারমাণবিক ক্ষমতা কেউ অস্বীকার করলেই যুদ্ধের হুমকি কিমের"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পারমাণবিক অস্ত্র তৈরির কারখানা পরিদর্শন করে আরও অস্ত্র বাড়ানোর ঘোষণা কিমের",
-        "title_en": "Kim vows to build more nuclear weapons after visiting nuclear facilities.",
-        "summary_bn": "উত্তর কোরিয়ার নেতা কিম জং উন পারমাণবিক উপাদানের কারখানা পরিদর্শন করেছেন এবং আরও বেশি পারমাণবিক অস্ত্র তৈরির আহ্বান জানিয়েছেন।",
-        "summary_en": "North Korean leader Kim Jong Un visited nuclear material production facilities and called for building more nuclear weapons.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-26T04:35:38+00:00",
-        "lead_bn": "উত্তর কোরিয়ার নেতা কিম জং উন পারমাণবিক উপাদানের কারখানা পরিদর্শন করেছেন এবং আরও বেশি পারমাণবিক অস্ত্র তৈরির আহ্বান জানিয়েছেন।",
-        "lead_en": "North Korean leader Kim Jong Un visited nuclear material production facilities and called for building more nuclear weapons.",
-        "bullets_bn": [
-          "উত্তর কোরিয়ার রাষ্ট্রীয় সংবাদমাধ্যম কেসিএনএ জানিয়েছে, কিম জং উন দুটি পারমাণবিক উপাদান উৎপাদন কারখানা পরিদর্শন করেছেন।",
-          "কিম জং উন কৌশলগত পারমাণবিক অস্ত্রের ব্যাপক মোতায়েন এবং সামরিক সক্ষমতা বাড়ানোর ওপর জোর দিয়েছেন।",
-          "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের বৈঠকের প্রস্তাব এড়িয়ে যাওয়ার কিছুদিন পর এই পরিদর্শন করলেন কিম।"
-        ],
-        "bullets_en": [
-          "North Korean state media KCNA reported that Kim Jong Un inspected two nuclear material production factories.",
-          "Kim Jong Un called for a wider deployment of tactical nuclear weapons and strengthening defence capabilities.",
-          "Kim visited these facilities days after ignoring U.S. President Donald Trump's offer to meet."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "কেসিএনএ জানিয়েছে, কিম জং উন একটি নতুন চালু হওয়া এবং অপর একটি সম্প্রসারিত পারমাণবিক উপাদান উৎপাদন কারখানা পরিদর্শন করেন। এছাড়া তিনি একটি পারমাণবিক চালিত সরঞ্জাম উৎপাদন ঘাঁটি এবং একটি পারমাণবিক গবেষণা ইনস্টিটিউটও পরিদর্শন করেন। কোরিয় উপদ্বীপের কাছাকাছি মুহূর্তে মুহূর্তে ঘনিয়ে আসা পরিবর্তনশীল পারমাণবিক হুমকির জবাবে প্রতিরক্ষা সক্ষমতা জোরদার করার প্রচেষ্টার অংশ হিসেবে এই পরিদর্শন করা হয়েছে বলে কেসিএনএ উল্লেখ করেছে।",
-        "details_en": "KCNA reported that Mr. Kim inspected two nuclear materials production factories, one newly inaugurated and the other being expanded. He also visited a nuclear-powered equipment production base and a nuclear research institute. The visit was part of efforts to strengthen North Korea's defence capabilities in response to variable nuclear threats approaching the Korean Peninsula moment by moment, according to KCNA.",
-        "hook_bn": "পারমাণবিক অস্ত্র বাড়ানোর ঘোষণা কিমের",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 3,
-      "trending": false,
-      "social_appeal": 4.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-26T07:01:58.864647+00:00"
-      }
-    },
-    {
-      "story_id": "eba785d5-4215-5a34-894a-666c933a8dd7",
-      "primary_category": "economy_business",
-      "interest_categories": [
+        "governance_law",
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#AwamiLeague",
+        "#Gopalganj",
+        "#Faridpur",
+        "#Police"
       ],
-      "image_url": "https://images.unsplash.com/photo-1524592714635-d77511a4834d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Y2l2aWwlMjBhdmlhdGlvbiUyMGF1dGhvcml0eSUyMGNsYWltcyUyMGJ1c2luZXNzfGVufDF8MHx8fDE3OTU2NzY1MTh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/26/pinu_.jpg",
       "image_caption": null,
-      "published_at": "2026-11-26T06:42:28+00:00",
+      "published_at": "2026-11-26T06:50:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5349,
+      "importance_score": 6.25,
+      "rank_score": 3.6474,
       "sources": [
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823074/%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%8F%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A7%87%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%93%E0%A6%A8%E0%A6%BE-%E0%A7%AD-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF",
-          "title": "চার এয়ারলাইনসের কাছে বেবিচকের পাওনা ৭ হাজার কোটি টাকা, তিনটি বন্ধ",
-          "snippet": "চার এয়ারলাইনসের কাছে বেবিচকের পাওনা ৭ হাজার কোটি টাকা, তিনটি বন্ধ"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/awami-leader-ex-chairman-pinu-arrested-gopalganj-1614431",
+          "title": "Awami leader, ex-Up chairman Pinu arrested in Gopalganj",
+          "snippet": "Awami leader, ex-Up chairman Pinu arrested in Gopalganj"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/politics/501008",
+          "title": "ফরিদপুরে কার্যক্রম নিষিদ্ধ আ.লীগ নেতা ও সাবেক ইউপি চেয়ারম্যান গ্রেপ্তার",
+          "snippet": "ফরিদপুরে কার্যক্রম নিষিদ্ধ আ.লীগ নেতা ও সাবেক ইউপি চেয়ারম্যান গ্রেপ্তার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চার এয়ারলাইনসের কাছে বেবিচকের পাওনা ৭ হাজার কোটি টাকার বেশি",
-        "title_en": "Civil Aviation Authority claims over Tk 7,000 crore from four airlines",
-        "summary_bn": "বাংলাদেশ বেসামরিক বিমান চলাচল কর্তৃপক্ষের কাছে দেশের চারটি এয়ারলাইনসের পাওনা রয়েছে ৭ হাজার ১২৭ কোটি টাকার বেশি।",
-        "summary_en": "The Civil Aviation Authority of Bangladesh is owed more than Tk 7,127 crore by four airlines of the country.",
+        "title_bn": "ফরিদপুরে গোপালগঞ্জের আওয়ামী লীগ নেতা পিনু গ্রেপ্তার",
+        "title_en": "Awami League leader Pinu arrested in Faridpur",
+        "summary_bn": "নাশকতা ও যৌথ বাহিনীর ওপর হামলার অভিযোগে গোপালগঞ্জের আওয়ামী লীগ নেতা বি এম হারুন-অর-রশিদ পিনুকে ফরিদপুর থেকে গ্রেপ্তার করা হয়েছে।",
+        "summary_en": "BM Harun-or-Rashid Pinu, an Awami League leader from Gopalganj, has been arrested in Faridpur over sabotage and attack allegations.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "governance_law",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T06:42:28+00:00",
-        "lead_bn": "বাংলাদেশ বেসামরিক বিমান চলাচল কর্তৃপক্ষের কাছে দেশের চারটি এয়ারলাইনসের পাওনা রয়েছে ৭ হাজার ১২৭ কোটি টাকার বেশি।",
-        "lead_en": "The Civil Aviation Authority of Bangladesh is owed more than Tk 7,127 crore by four airlines of the country.",
+        "published_at": "2026-11-26T06:50:00+00:00",
+        "lead_bn": "নাশকতা ও যৌথ বাহিনীর ওপর হামলার অভিযোগে গোপালগঞ্জের আওয়ামী লীগ নেতা বি এম হারুন-অর-রশিদ পিনুকে ফরিদপুর থেকে গ্রেপ্তার করা হয়েছে।",
+        "lead_en": "BM Harun-or-Rashid Pinu, an Awami League leader from Gopalganj, has been arrested in Faridpur over sabotage and attack allegations.",
         "bullets_bn": [
-          "রাষ্ট্রীয় উড়োজাহাজ সংস্থা বিমান বাংলাদেশ এয়ারলাইনসের কাছে পাওনা ৫ হাজার ৮৬৮ কোটি ৮৫ লাখ টাকা।",
-          "বাকি তিনটি বেসরকারি এয়ারলাইনসের কাছে বেবিচকের পাওনা ১ হাজার ২৫৮ কোটি টাকার বেশি।",
-          "বেবিচকের পাওনা থাকা বাকি তিনটি বেসরকারি এয়ারলাইনসই এখন বন্ধ রয়েছে।"
+          "গোপালগঞ্জের কাশিয়ানী উপজেলার রাটিল গ্রামের ৫২ বছর বয়সী পিনুকে ফরিদপুর সদর উপজেলার কানাইপুর এলাকা থেকে গ্রেপ্তার করা হয়।",
+          "কানাইপুরের প্রকৌশলী আবদুস সোবহানের বাসা থেকে ২৬ নভেম্বর ভোর ২টা ৫০ মিনিটে তাকে গ্রেপ্তার করা হয়।",
+          "গ্রেপ্তারের সময় তার কাছ থেকে দুটি মোবাইল ফোন জব্দ করা হয় এবং তাকে গোয়েন্দা পুলিশের কাছে হস্তান্তর করা হয়।"
         ],
         "bullets_en": [
-          "State-owned carrier Biman Bangladesh Airlines owes Tk 5,868 crore and 85 lakh.",
-          "The authority is owed more than Tk 1,258 crore by the remaining three private airlines.",
-          "All three of the private airlines that owe money to the authority are now closed."
+          "Fifty-two-year-old Pinu, a resident of Ratil village in Gopalganj's Kashiani upazila, was arrested from the Kanaipur area of Faridpur Sadar.",
+          "He was arrested from engineer Abdus Sobhan's residence in Kanaipur at 2:50am on 26 November.",
+          "Two mobile phones were seized from him during the arrest before he was handed over to the Detective Branch police."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বেবিচকের অর্থ ও হিসাব বিভাগের তৈরি একটি হিসাব বিবরণীতে চার এয়ারলাইনসের কাছে এই পাওনা থাকার তথ্য উঠে এসেছে।",
-        "details_en": "An account statement prepared by the finance and accounts division of the Civil Aviation Authority revealed these dues from the four airlines.",
-        "hook_bn": "চার এয়ারলাইনসের কাছে বেবিচকের পাওনা সাত হাজার কোটি টাকা",
-        "kicker_bn": "বকেয়া পাওনা",
+        "details_bn": "পুলিশ স্টেশনে ভাঙচুর ও অগ্নিসংযোগ, জনজীবন ব্যাহত করা এবং হত্যার উদ্দেশ্যে যৌথ বাহিনীর ওপর হামলার অভিযোগ রয়েছে পিনুর বিরুদ্ধে। গোয়েন্দা তথ্যের ভিত্তিতে কানাইপুর থেকে তাকে গ্রেপ্তার করা হয়। তিনি গোপালগঞ্জের কাশিয়ানী উপজেলার রাটিল ইউনিয়নের সাবেক চেয়ারম্যান এবং রাটিল ইউনিয়ন আওয়ামী লীগের বর্তমান সহ-সভাপতি। এছাড়া তিনি উপজেলা কৃষকলীগের সাধারণ সম্পাদক ছিলেন এবং আওয়ামী লীগের কথিত sabotage কার্যক্রমের প্রধান সংগঠক হিসেবে পরিচিত।",
+        "details_en": "Pinu faces allegations of sabotage, attacks on joint forces with the intention to kill, vandalism and arson at a police station, and disrupting public life. He was arrested based on intelligence information from Kanaipur. He previously served as chairman of Ratil Union Parishad, general secretary of the upazila Krishak League, and is currently vice-president of the Ratil Union Awami League, known as a leading organiser of alleged sabotage activities.",
+        "hook_bn": "ফরিদপুরে গোপালগঞ্জের আওয়ামী লীগ নেতা গ্রেপ্তার",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-26T08:01:52.308185+00:00"
+      }
+    },
+    {
+      "story_id": "7ea75a74-0758-5930-a48e-fe3a23859d59",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "economy_business",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#MAMuhit",
+        "#BangladeshCorneaAndRefractiveSociety",
+        "#Dhaka"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/26/health_state_minister_muhit.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-26T07:40:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4495,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/health/eye-banks-be-revived-tackle-corneal-blindness-state-minister-1614511",
+          "title": "Eye banks to be revived to tackle corneal blindness: State minister",
+          "snippet": "Eye banks to be revived to tackle corneal blindness: State minister"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কর্নিয়াল অন্ধত্ব দূর করতে আই ব্যাংক পুনরুজ্জীবিত করা হবে",
+        "title_en": "Eye banks will be revived to tackle corneal blindness",
+        "summary_bn": "স্বাস্থ্য ও পরিবার কল্যাণ মন্ত্রণালয়ের প্রতিমন্ত্রী ডা. এম এ মহিত বলেছেন, কর্নিয়াল অন্ধত্ব প্রতিরোধ করতে সরকার দেশের আই ব্যাংকগুলো পুনরুজ্জীবিত ও পুনর্গঠন করবে।",
+        "summary_en": "State Minister for Health and Family Welfare Dr MA Muhit has said the government will revive and restructure eye banks across the country.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-26T07:40:00+00:00",
+        "lead_bn": "স্বাস্থ্য ও পরিবার কল্যাণ মন্ত্রণালয়ের প্রতিমন্ত্রী ডা. এম এ মহিত বলেছেন, কর্নিয়াল অন্ধত্ব প্রতিরোধ করতে সরকার দেশের আই ব্যাংকগুলো পুনরুজ্জীবিত ও পুনর্গঠন করবে।",
+        "lead_en": "State Minister for Health and Family Welfare Dr MA Muhit has said the government will revive and restructure eye banks across the country.",
+        "bullets_bn": [
+          "ডা. এম এ মহিত মৃত্যুর পর কর্নিয়া দানে উদ্বুদ্ধ করতে জনসচেতনতা বাড়ানোর ওপর জোর দিয়েছেন।",
+          "২৬ নভেম্বর ঢাকায় বাংলাদেশ কর্নিয়া অ্যান্ড রিফ্র্যাক্টিভ সোসাইটির চতুর্থ দ্বিবার্ষিক সম্মেলনের উদ্বোধনী অনুষ্ঠানে তিনি এই মন্তব্য করেন।",
+          "সরকার ক্ষমতা গ্রহণের পর সংসদের প্রথম অধিবেশনে মানব অঙ্গ দান বিল পাস করেছে।"
+        ],
+        "bullets_en": [
+          "Dr MA Muhit stressed the need to raise public awareness and encourage people to donate their corneas after death.",
+          "He made the remarks at the opening ceremony of the fourth biennial conference of the Bangladesh Cornea and Refractive Society in Dhaka on 26 November.",
+          "The current government passed the Human Organ Transplantation Bill during the first session of parliament after taking office."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বর্তমানে বাংলাদেশে প্রায় ৫০ জন কর্নিয়া বিশেষজ্ঞ সার্জন আছেন, যার মধ্যে ২৫ জন নিয়মিত কর্নিয়াল ট্রান্সপ্লান্ট করেন। তবে দাতার স্বল্পতার কারণে বেশিরভাগ পদ্ধতি আমদানিকৃত কর্নিয়ার ওপর নির্ভর করে।",
+        "details_en": "Bangladesh currently has around 50 cornea specialist surgeons, of whom 25 regularly perform corneal transplants. However, a shortage of donated corneas means most procedures depend on imported corneas.",
+        "hook_bn": "পুনরুজ্জীবিত করা হবে দেশের সব আই ব্যাংক",
+        "kicker_bn": "স্বাস্থ্য মন্ত্রণালয়",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-26T08:01:52.308185+00:00"
+      }
+    },
+    {
+      "story_id": "73f03be6-5be7-5c67-979c-b43d8a666728",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-26%2Ffisnk8ee%2F92360730311427808753888703544919211488401914n.jpg?rect=0%2C121%2C720%2C378&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-26T07:33:36+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4344,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/aqr8k1ogbr",
+          "title": "রোগীর চিকিৎসা করেন, এবার নদের ক্ষত সারাতে নেমে জাগালেন মানুষের বিবেক",
+          "snippet": "রোগীর চিকিৎসা করেন, এবার নদের ক্ষত সারাতে নেমে জাগালেন মানুষের বিবেক"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যশোরে ভৈরব নদ পরিষ্কারের উদ্যোগ নিলেন শেখ সাদিয়া",
+        "title_en": "Sheikh Sadia takes initiative to clean Bhairab river in Jashore",
+        "summary_bn": "স্বাস্থ্য অধিদপ্তরের মেডিকেল অফিসার শেখ সাদিয়ার উদ্যোগে যশোর শহরের প্রাণকেন্দ্রে ভৈরব নদ থেকে কচুরিপানা সরানো হয়েছে।",
+        "summary_en": "Medical Officer of the Directorate General of Health Services Sheikh Sadia initiated the removal of water hyacinths from the Bhairab river in Jashore town.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-26T07:33:36+00:00",
+        "lead_bn": "স্বাস্থ্য অধিদপ্তরের মেডিকেল অফিসার শেখ সাদিয়ার উদ্যোগে যশোর শহরের প্রাণকেন্দ্রে ভৈরব নদ থেকে কচুরিপানা সরানো হয়েছে।",
+        "lead_en": "Medical Officer of the Directorate General of Health Services Sheikh Sadia initiated the removal of water hyacinths from the Bhairab river in Jashore town.",
+        "bullets_bn": [
+          "গত ৫ নভেম্বর ফেসবুকে কচুরিপানায় ঢেকে যাওয়া ভৈরব নদ পরিষ্কারের উদ্যোগের কথা জানিয়ে পরামর্শ চান শেখ সাদিয়া।",
+          "বাঁশ, দড়ি ও আংটা নিয়ে পানিতে নেমে শহরের দড়াটানা সেতু থেকে কাঠের পুল পর্যন্ত কচুরিপানা সরান তিনি।",
+          "৬ নভেম্বর থেকে ২২ নভেম্বর পর্যন্ত প্রায় ৮০০ মিটার বা তার বেশি অংশ থেকে কচুরিপানা সরানো হয়।"
+        ],
+        "bullets_en": [
+          "On November 5, Sheikh Sadia sought advice on Facebook regarding the initiative to clean the water hyacinth-covered Bhairab river.",
+          "Equipped with bamboo, ropes, and hooks, she entered the water to remove water hyacinths from Daratana bridge to the wooden bridge.",
+          "Water hyacinths were removed from about 800 meters or slightly more of the central urban area from November 6 to November 22."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "স্বাস্থ্য অধিদপ্তরের মেডিকেল অফিসার শেখ সাদিয়ার জন্ম ও বেড়ে ওঠা যশোর শহরে এবং তাঁর পরিবারের ভাড়া বাসা এই নদের পাড়ে। গত বছর ডিআর কঙ্গোতে জাতিসংঘ শান্তিরক্ষা মিশনে দায়িত্ব পালন করা এই চিকিৎসক সামাজিক যোগাযোগমাধ্যমে ভৈরবকন্যা ও যশোরকন্যা নামে পরিচিত। চৌগাছার তাহেরপুর থেকে খুলনার রূপসা পর্যন্ত ১৩৩ কিলোমিটার দীর্ঘ ভৈরব নদ পুনঃখনন করা হলেও শহরাংশে পানির স্বাভাবিক প্রবাহ বাধাগ্রস্ত হচ্ছে।",
+        "details_en": "Health Department Medical Officer Sheikh Sadia was born and raised in Jashore town, and her family's rented house is on the banks of this river. The doctor, who served in the UN peacekeeping mission in DR Congo last year, is known on social media as Bhairabkanya and Jashorekanya. Although the 133-kilometer long Bhairab river from Taherpur in Chaugachha to Rupsha in Khulna has been re-excavated, the normal flow of water is hindered in the urban section.",
+        "hook_bn": "কচুরিপানা তুলাধোনা কার্যক্রম",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "আপনার এলাকার নদী বা জলাশয় রক্ষায় সাধারণ মানুষের এই ধরনের উদ্যোগ কতটা ভূমিকা রাখতে পারে বলে আপনার মনে হয়?"
+      },
+      "desk_importance": 5.0,
       "outlet_count": 1,
       "trending": false,
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-26T07:01:58.864647+00:00"
+        "checked_at": "2026-11-26T08:01:52.308185+00:00"
       }
     }
   ]
