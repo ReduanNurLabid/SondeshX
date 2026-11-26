@@ -1,460 +1,330 @@
 {
-  "updated_at": "2026-11-26T06:00:49.317775",
-  "total_stories": 6,
+  "updated_at": "2026-11-26T07:00:49.278916",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "0cbe95fc-ee95-5a26-9417-0032ae9c24ac",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Savar",
-        "#Ashulia",
-        "#WageBoard",
-        "#RMG"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/14/untitled-1.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-26T03:50:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 8.75,
-      "rank_score": 6.7473,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/labour-unrest-persists-despite-new-wage-announcement-workers-halt-production-1614301",
-          "title": "Labour unrest persists despite new wage announcement; workers halt production",
-          "snippet": "Labour unrest persists despite new wage announcement; workers halt production"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/425786/police-disperse-garment-workers-attempting-to",
-          "title": "Police disperse garment workers attempting to block highway in Gazipur",
-          "snippet": "Police disperse garment workers attempting to block highway in Gazipur"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/gazipur-garment-workers-protest-continues/",
-          "title": "মজুরি বাড়িয়েও থামেনি শ্রমিক অসন্তোষ, গাজীপুরে শ্রমিক-পুলিশ সংঘর্ষ",
-          "snippet": "মজুরি বাড়িয়েও থামেনি শ্রমিক অসন্তোষ, গাজীপুরে শ্রমিক-পুলিশ সংঘর্ষ"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/national/500967",
-          "title": "বিনা খরচে আজ মালয়েশিয়া যাচ্ছেন ১১২ কর্মী, বিদায় জানাবেন প্রধানমন্ত্রী",
-          "snippet": "বিনা খরচে আজ মালয়েশিয়া যাচ্ছেন ১১২ কর্মী, বিদায় জানাবেন প্রধানমন্ত্রী"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "নতুন মজুরি ঘোষণার পরও সাভার ও আশুলিয়ায় শ্রমিক অসন্তোষ অব্যাহত রয়েছে।",
-        "title_en": "Labour unrest persists in Savar and Ashulia despite the new wage announcement.",
-        "summary_bn": "নতুন ন্যূনতম মজুরি ঘোষণার পরও সাভার ও আশুলিয়ায় শ্রমিক অসন্তোষ অব্যাহত রয়েছে এবং বেশ কিছু কারখানার শ্রমিকরা কাজ বন্ধ রেখেছেন।",
-        "summary_en": "Labour unrest continues in Savar and Ashulia despite the new minimum wage announcement, with workers at several factories halting work.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-26T03:50:00+00:00",
-        "lead_bn": "নতুন ন্যূনতম মজুরি ঘোষণার পরও সাভার ও আশুলিয়ায় শ্রমিক অসন্তোষ অব্যাহত রয়েছে এবং বেশ কিছু কারখানার শ্রমিকরা কাজ বন্ধ রেখেছেন।",
-        "lead_en": "Labour unrest continues in Savar and Ashulia despite the new minimum wage announcement, with workers at several factories halting work.",
-        "bullets_bn": [
-          "প্রত্যাশার সঙ্গে নতুন মজুরির ব্যবধান থাকায় শ্রমিকরা কাজ বন্ধ রাখেন।",
-          "শিল্প পুলিশের সুপারিনটেনডেন্ট মোহাম্মদ মমিনুল ইসলাম ভূঁইয়া জানান যে সকাল নয়টার দিকে সাতটি কারখানার শ্রমিকরা কাজ বন্ধ রেখেছিলেন।",
-          "আইনশৃঙ্খলা রক্ষাকারী বাহিনী পরিস্থিতি আরও অবনতি হওয়া রোধ করতে সতর্ক অবস্থানে রয়েছে।"
-        ],
-        "bullets_en": [
-          "Workers stopped work citing a gap between their expectations and the newly announced wages.",
-          "Industrial Police Superintendent Mohammad Mominul Islam Bhuiyan said workers at seven factories had been observing work stoppages since the morning.",
-          "Law enforcement personnel remained on alert to prevent further escalation of the situation."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "শ্রমিক অসন্তোষের কারণে এর আগে শ্রম আইনের ১৩(১) ধারায় বন্ধ ঘোষিত ২২টি কারখানা আজও বন্ধ রয়েছে। এছাড়া গাজীপুরে ৩০ হাজার টাকা ন্যূনতম মজুরির দাবিতে চলমান আন্দোলনের মধ্যে মহাসড়ক অবরোধের চেষ্টা করেন শ্রমিকরা এবং গাজীপুরে ৫০টি কারখানায় সাধারণ ছুটি ও ৩৫টি কারখানা অনির্দিষ্টকালের জন্য বন্ধ ঘোষণা করা হয়।",
-        "details_en": "Twenty-two factories previously declared closed under Section 13(1) of the Labour Act amid the ongoing unrest remained shut. Meanwhile, workers attempted to block a highway in Gazipur amid a movement demanding a minimum wage of 30000 taka, where general leave was declared in 50 factories and 35 factories were shut indefinitely.",
-        "hook_bn": "মজুরি ঘোষণাতেও থামেনি সাভার-আশুলিয়ার শ্রমিক অসন্তোষ",
-        "kicker_bn": "শ্রমিক অসন্তোষ",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 8.0,
-      "outlet_count": 4,
-      "trending": false,
-      "social_appeal": 9.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-26T06:01:45.914456+00:00"
-      }
-    },
-    {
-      "story_id": "35f21ae5-8f0d-5912-bdcb-476dfbf0e602",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Economy",
-        "#Finance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-26%2Fwjdcnc45%2FLabour.PNG?rect=0%2C28%2C798%2C419&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-26T05:07:41+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 8.25,
-      "rank_score": 6.464,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/business/npkaf2dxod",
-          "title": "পোশাকশ্রমিকদের মজুরি বাড়ছে ৪৫০০ থেকে ৬৪৬৫ টাকা",
-          "snippet": "পোশাকশ্রমিকদের মজুরি বাড়ছে ৪৫০০ থেকে ৬৪৬৫ টাকা"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/rmg-wage-board-to-finalise-draft-gazette-on-tk-17000-minimum-wage",
-          "title": "RMG wage board to finalise draft gazette on Tk 17,000 minimum wage",
-          "snippet": "RMG wage board to finalise draft gazette on Tk 17,000 minimum wage"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পোশাকশ্রমিকদের ন্যূনতম মজুরি ১৭ হাজার টাকা নির্ধারণের প্রস্তাব গৃহীত",
-        "title_en": "Proposal for Tk 17,000 minimum wage for garment workers accepted",
-        "summary_bn": "তৈরি পোশাকশ্রমিকদের নতুন মজুরিকাঠামোতে নিম্নতম মজুরি ১৭ হাজার টাকা নির্ধারণের প্রস্তাব সংখ্যাগরিষ্ঠের ভোটে গৃহীত হয়েছে।",
-        "summary_en": "The proposal to set the minimum wage at Tk 17,000 in the new RMG wage structure has been adopted by majority vote.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-26T05:07:41+00:00",
-        "lead_bn": "তৈরি পোশাকশ্রমিকদের নতুন মজুরিকাঠামোতে নিম্নতম মজুরি ১৭ হাজার টাকা নির্ধারণের প্রস্তাব সংখ্যাগরিষ্ঠের ভোটে গৃহীত হয়েছে।",
-        "lead_en": "The proposal to set the minimum wage at Tk 17,000 in the new RMG wage structure has been adopted by majority vote.",
-        "bullets_bn": [
-          "মজুরি বোর্ড জানিয়েছে, প্রজ্ঞাপন যখনই হোক না কেন, ১ ডিসেম্বর থেকে নতুন মজুরিকাঠামো বাস্তবায়ন হবে।",
-          "নতুন মজুরিকাঠামোতে গ্রেড ভেদে মজুরি বাড়ছে ৩৬ থেকে ৪৩ শতাংশ এবং ২০২৩ সালের তুলনায় এই বৃদ্ধি সাড়ে ৪ হাজার থেকে ৬ হাজার ৪৬৫ টাকা।",
-          "শ্রমিকদের মূল বেতন ও বিভিন্ন ভাতা নির্ধারণ করতে মজুরি বোর্ডের পঞ্চম সভা অনুষ্ঠিত হবে।"
-        ],
-        "bullets_en": [
-          "The wage board stated that the new wage structure will be implemented from 1 December regardless of when the gazette is issued.",
-          "Wages will increase by 36 to 43 percent depending on grades, which is an increase of Tk 4,500 to Tk 6,465 compared to 2023.",
-          "The fifth meeting of the wage board will be held to determine workers basic pay and various allowances."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "মজুরি বোর্ড গঠনের ২৫ দিনের মাথায় নিম্নতম মজুরি ১৭ হাজার টাকা নির্ধারণের বিষয়ে সিদ্ধান্ত হয়। প্রথম তিন গ্রেডের মজুরি নিয়ে সমঝোতা হলেও চতুর্থ বা সর্বনিম্ন গ্রেডের মজুরি নিয়ে সমঝোতা না হওয়ায় ভোটাভুটি হয়। বোর্ডের ছয়জন সদস্যের মধ্যে চারজন ১৭ হাজার টাকার পক্ষে ভোট দেন।",
-        "details_en": "The decision to set the minimum wage at Tk 17,000 was reached 25 days after the formation of the wage board. While agreement was reached on the first three grades, voting took place as there was no consensus on the fourth or lowest grade. Four out of six board members voted in favour of Tk 17,000.",
-        "hook_bn": "শ্রমিকদের নিম্নতম মজুরি ১৭ হাজার টাকা প্রস্তাব",
-        "kicker_bn": "নতুন মজুরি",
-        "share_value": true,
-        "question_bn": "পোশাকশ্রমিকদের এই নতুন মজুরি কাঠামো নিয়ে আপনার মতামত কী?"
-      },
-      "desk_importance": 8.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 9.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-26T06:01:45.914456+00:00"
-      }
-    },
-    {
-      "story_id": "a9c38c32-4a20-5984-8248-ff0e0456b2b5",
+      "story_id": "778921ed-a8fa-5063-ac02-5dab8d5e195b",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#AnwarulAzimAnar",
-        "#MuntarinFerdousDorin",
-        "#DetectiveBranch",
-        "#Dhaka"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Dorin_AnarMPDaughter.PNG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2023-11%2F903cfc3e-3518-44b3-90b5-e0ff4a548f5f%2FCoctail.webp?rect=0%2C19%2C640%2C336&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-26T05:45:57+00:00",
+      "published_at": "2026-11-26T06:52:41+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 5.1793,
+      "importance_score": 7.75,
+      "rank_score": 5.956,
       "sources": [
         {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/crime/9pwfj0y5ik",
+          "title": "ঢাকার সিএমএম আদালতের প্রধান ফটকের সামনে ককটেল বিস্ফোরণ",
+          "snippet": "ঢাকার সিএমএম আদালতের প্রধান ফটকের সামনে ককটেল বিস্ফোরণ"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/dhaka/425789/crude-bomb-explodes-outside-dhaka-cmm-court",
+          "title": "Crude bomb explodes outside Dhaka CMM Court, lawyer injured",
+          "snippet": "Crude bomb explodes outside Dhaka CMM Court, lawyer injured"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/crude-bomb-explodes-front-dhaka-cmm-court-lawyer-injured-1614346",
+          "title": "Crude bomb explodes in front of Dhaka CMM Court, lawyer injured",
+          "snippet": "Crude bomb explodes in front of Dhaka CMM Court, lawyer injured"
+        },
+        {
           "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/ex-mp-anars-daughter-dorin-held-dhaka-4333671",
-          "title": "Ex-MP Anar’s daughter Dorin held in Dhaka",
-          "snippet": "Ex-MP Anar’s daughter Dorin held in Dhaka"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/anar-daughter-dorin-arrested/",
-          "title": "ভারতে নিহত সাবেক সংসদ সদস্য আনারের মেয়ে ডরিন গ্রেপ্তার",
-          "snippet": "ভারতে নিহত সাবেক সংসদ সদস্য আনারের মেয়ে ডরিন গ্রেপ্তার"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/law-and-crime/983328/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%86.%E0%A6%B2%E0%A7%80%E0%A6%97-%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A7%9F%E0%A7%87-%E0%A6%A1%E0%A6%B0%E0%A6%BF%E0%A6%A8-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0",
-          "title": "ভারতে হত্যার শিকার আ.লীগ এমপির মেয়ে ডরিন গ্রেফতার",
-          "snippet": "ভারতে হত্যার শিকার আ.লীগ এমপির মেয়ে ডরিন গ্রেফতার"
+          "url": "https://www.thedailystar.net/news/crime-justice/news/crude-bomb-explodes-outside-dhaka-cmm-court-one-reportedly-injured-4333701",
+          "title": "Crude bomb explodes outside Dhaka CMM Court, one reportedly injured",
+          "snippet": "Crude bomb explodes outside Dhaka CMM Court, one reportedly injured"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সাবেক এমপি আনারের মেয়ে ডরিন ঢাকায় গ্রেপ্তার",
-        "title_en": "Ex-MP Anar’s daughter Dorin held in Dhaka",
-        "summary_bn": "ঢাকা মহানগর গোয়েন্দা পুলিশ সাবেক সংসদ সদস্য আনোয়ারুল আজীম আনারের মেয়ে মুনতারিন ফেরদৌস ডরিনকে গ্রেপ্তার করেছে।",
-        "summary_en": "The Detective Branch of Dhaka Metropolitan Police has detained Muntarin Ferdous Dorin, daughter of former lawmaker Anwarul Azim Anar.",
+        "title_bn": "ঢাকার সিএমএম আদালতের প্রধান ফটকের সামনে ককটেল বিস্ফোরণ",
+        "title_en": "Crude bomb explodes outside Dhaka CMM Court",
+        "summary_bn": "ঢাকার চিফ মেট্রোপলিটন ম্যাজিস্ট্রেট আদালতের প্রবেশের সড়কসংলগ্ন প্রধান ফটকের সামনে ককটেল বিস্ফোরণের ঘটনা ঘটেছে।",
+        "summary_en": "A crude bomb exploded in front of the main gate adjacent to the entrance road of the Dhaka Chief Metropolitan Magistrate Court.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T05:45:57+00:00",
-        "lead_bn": "ঢাকা মহানগর গোয়েন্দা পুলিশ সাবেক সংসদ সদস্য আনোয়ারুল আজীম আনারের মেয়ে মুনতারিন ফেরদৌস ডরিনকে গ্রেপ্তার করেছে।",
-        "lead_en": "The Detective Branch of Dhaka Metropolitan Police has detained Muntarin Ferdous Dorin, daughter of former lawmaker Anwarul Azim Anar.",
+        "published_at": "2026-11-26T06:52:41+00:00",
+        "lead_bn": "ঢাকার চিফ মেট্রোপলিটন ম্যাজিস্ট্রেট আদালতের প্রবেশের সড়কসংলগ্ন প্রধান ফটকের সামনে ককটেল বিস্ফোরণের ঘটনা ঘটেছে।",
+        "lead_en": "A crude bomb exploded in front of the main gate adjacent to the entrance road of the Dhaka Chief Metropolitan Magistrate Court.",
         "bullets_bn": [
-          "ডিএমপির ওয়ারী গোয়েন্দা বিভাগের একটি দল মোহাম্মদপুর থানার লালমাটিয়া এলাকা থেকে তাকে গ্রেপ্তার করে।",
-          "গ্রেপ্তার মুনতারিন ফেরদৌস ডরিনের বয়স ২৪ বছর এবং তিনি ঝিনাইদহ-৪ আসনের প্রয়াত সংসদ সদস্যের মেয়ে।",
-          "তার বিরুদ্ধে পরবর্তী আইনি কার্যক্রম প্রক্রিয়াধীন রয়েছে বলে জানিয়েছে পুলিশ।"
+          "ঢাকা মহানগর পুলিশের প্রসিকিউশন বিভাগের উপকমিশনার মহিউদ্দিন মাহমুদ সোহেল প্রথম আলোকে এ তথ্যের সত্যতা নিশ্চিত করেছেন।",
+          "ককটেল বিস্ফোরণের এই ঘটনায় একজন আইনজীবী আহত হয়েছেন।",
+          "ককটেল বিস্ফোরণের ঘটনায় সন্দেহভাজন এক ব্যক্তিকে জিজ্ঞাসাবাদ করা হচ্ছে।"
         ],
         "bullets_en": [
-          "A team of the DB's Wari Division detained her from the Lalmatia area under Mohammadpur Police Station.",
-          "Muntarin Ferdous Dorin is 24 years old and is the daughter of the late lawmaker for Jhenaidah-4.",
-          "Police stated that further legal proceedings against her were underway."
+          "Mohiuddin Mahmud Sohel, deputy commissioner of the DMP prosecution division, confirmed the truth of this information to Prothom Alo.",
+          "A lawyer was injured in this crude bomb explosion incident.",
+          "A suspected person is being interrogated in connection with the crude bomb explosion."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "আওয়ামী লীগের সাবেক সংসদ সদস্য আনোয়ারুল আজীম আনার গত ১২ মে ভারতে গিয়ে চিকিৎসকের কাছে যাওয়ার কথা বলে বাড়ি থেকে বের হয়ে নিখোঁজ হন। পরবর্তীতে গত ২২ মে ভারতীয় ও বাংলাদেশি পুলিশ জানায় যে ওই সংসদ সদস্যকে হত্যা করা হয়েছে। নিহত আনার ঝিনাইদহ-৪ আসনের সংসদ সদস্য এবং কালীগঞ্জ উপজেলা আওয়ামী লীগের সাবেক সভাপতি ছিলেন।",
-        "details_en": "Anwarul Azim Anar went to Kolkata on May 12, 2024, stayed overnight at a friend's house, and left the following day to visit a doctor. On May 22, Indian and Bangladeshi police announced that the lawmaker had been murdered. Anar represented Jhenaidah-4 in parliament and served as the former president of Kaliganj upazila Awami League.",
-        "hook_bn": "লালমাটিয়ায় সাবেক এমপি কন্যার গ্রেপ্তার",
-        "kicker_bn": null,
+        "details_bn": "ঢাকার চিফ মেট্রোপলিটন ম্যাজিস্ট্রেট আদালতে প্রবেশের সড়কসংলগ্ন প্রধান ফটকের সামনে ককটেল বিস্ফোরণ ঘটে। ঢাকা মহানগর পুলিশের প্রসিকিউশন বিভাগের উপকমিশনার মহিউদ্দিন মাহমুদ সোহেল জানান, যাঁকে জিজ্ঞাসাবাদ করা হচ্ছে, তিনি অপরাধী নাকি ভিকটিম, তা এখনই বলা যাচ্ছে না। বিস্ফোরণের পর ঢাকা আইনজীবী সমিতির নেতারা ঘটনাস্থলে আসেন।",
+        "details_en": "The crude bomb exploded in front of the main gate adjacent to the entrance road of the Dhaka Chief Metropolitan Magistrate Court. Mohiuddin Mahmud Sohel, deputy commissioner of the DMP prosecution division, stated that it cannot be said right away whether the person being interrogated is a criminal or a victim. Following the explosion, leaders of the Dhaka Bar Association arrived at the scene.",
+        "hook_bn": "সিএমএম আদালতের ফটকে ককটেল বিস্ফোরণ",
+        "kicker_bn": "ব্রেকিং",
         "share_value": false,
         "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 5,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-26T07:01:58.864647+00:00"
+      }
+    },
+    {
+      "story_id": "80b8c984-441c-5a46-bf42-7ba23b4b8309",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#AmirKhosruMahmudChowdhury",
+        "#CCGP",
+        "#USWheat",
+        "#FuelImports"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2025/01/02/refined_fuel_oil.png",
+      "image_caption": null,
+      "published_at": "2026-11-26T05:55:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.5,
+      "rank_score": 5.2766,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/govt-approves-tk9910cr-fuel-imports-440000-tonnes-us-wheat-1614376",
+          "title": "Govt approves Tk9,910cr fuel imports, 440,000 tonnes of US wheat",
+          "snippet": "Govt approves Tk9,910cr fuel imports, 440,000 tonnes of US wheat"
+        },
+        {
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/news/govt-approves-tariffs-payra-rampal-power-plants-clears-440-lakh-tonnes-us-wheat-imports-4333661",
+          "title": "Govt approves tariffs for Payra, Rampal power plants, clears 4.40 lakh tonnes of US wheat imports",
+          "snippet": "Govt approves tariffs for Payra, Rampal power plants, clears 4.40 lakh tonnes of US wheat imports"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/823075/%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A7%AA-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A7%AA%E0%A7%A6-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%9F%E0%A6%A8-%E0%A6%97%E0%A6%AE-%E0%A6%86%E0%A6%AE%E0%A6%A6%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A6%AC%E0%A7%87",
+          "title": "যুক্তরাষ্ট্র থেকে ৪ লাখ ৪০ হাজার টন গম আমদানি করবে সরকার",
+          "snippet": "যুক্তরাষ্ট্র থেকে ৪ লাখ ৪০ হাজার টন গম আমদানি করবে সরকার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সরকার ৯ হাজার ৯১০ কোটি টাকার জ্বালানি ও গম আমদানির অনুমোদন দিয়েছে।",
+        "title_en": "Government approves Tk9,910cr fuel imports and US wheat.",
+        "summary_bn": "সরকারি ক্রয় সংক্রান্ত মন্ত্রিসভা কমিটি প্রায় ৮ হাজার ১০ কোটি টাকার পেট্রোলিয়াম পণ্য এবং ১ হাজার ৯০৮ কোটি ৮০ লাখ টাকা ব্যয়ে মার্কিন যুক্তরাষ্ট্র থেকে ৪ লাখ ৪০ হাজার টন গম আমদানির অনুমোদন দিয়েছে।",
+        "summary_en": "The Cabinet Committee on Government Purchase has approved petroleum imports worth around Tk8,010 crore and 440,000 tonnes of US wheat at an estimated cost of Tk1,908.80 crore.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-26T05:55:00+00:00",
+        "lead_bn": "সরকারি ক্রয় সংক্রান্ত মন্ত্রিসভা কমিটি প্রায় ৮ হাজার ১০ কোটি টাকার পেট্রোলিয়াম পণ্য এবং ১ হাজার ৯০৮ কোটি ৮০ লাখ টাকা ব্যয়ে মার্কিন যুক্তরাষ্ট্র থেকে ৪ লাখ ৪০ হাজার টন গম আমদানির অনুমোদন দিয়েছে।",
+        "lead_en": "The Cabinet Committee on Government Purchase has approved petroleum imports worth around Tk8,010 crore and 440,000 tonnes of US wheat at an estimated cost of Tk1,908.80 crore.",
+        "bullets_bn": [
+          "অর্থমন্ত্রী আমীর খসরু মাহমুদ চৌধুরীর সভাপতিত্বে সচিবালয়ে এই ক্রয় প্রস্তাবগুলোর অনুমোদন দেওয়া হয়।",
+          "সিঙ্গাপুরভিত্তিক ট্রাফিগুরা পিটি লিমিটেড থেকে ডিজেল ও উচ্চ সালফারযুক্ত ফার্নেস তেল কেনা হবে।",
+          "সিঙ্গাপুরভিত্তিক অনিপেক সিঙ্গাপুর পিটি লিমিটেড থেকে ৯৫ আরওএন আনলেডেড পেট্রোল বা অকটেন আমদানি করা হবে।"
+        ],
+        "bullets_en": [
+          "The approvals were given at a meeting chaired by Finance Minister Amir Khosru Mahmud Chowdhury at the Secretariat.",
+          "Diesel and high-sulphur furnace oil will be procured from Singapore-based Trafigura Pte Ltd.",
+          "Unleaded petrol or octane will be imported from Singapore-based Onipec Singapore Pte Ltd."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "অর্থ মন্ত্রণালয়ের ২৫ নভেম্বর প্রকাশিত এক বিবৃতিতে জানানো হয়, ২০২৭ সালের জানুয়ারি-জুন সময়ের জন্য দেশের জ্বালানি চাহিদা মেটাতে আন্তর্জাতিক উন্মুক্ত টেন্ডারের মাধ্যমে এই পেট্রোলিয়াম পণ্যগুলো আমদানি করা হবে। অন্যদিকে, সরকারের সাথে সরকারের (জিটুজি) পদ্ধতিতে মার্কিন যুক্তরাষ্ট্র থেকে ১০ শতাংশ তারতম্যের বিধান রেখে ৪ লাখ ৪০ হাজার টন গম আমদানি করবে খাদ্য মন্ত্রণালয়।",
+        "details_en": "According to a statement issued by the Ministry of Finance on 26 November, the petroleum products will be imported through international open tenders to meet the country's requirements for the January-June period of 2027. Meanwhile, the Ministry of Food will import 440,000 tonnes of wheat from the United States under a government-to-government arrangement with a provision for a 10% variation.",
+        "hook_bn": "৯ হাজার ৯১০ কোটি টাকার জ্বালানি ও গম অনুমোদন",
+        "kicker_bn": "নতুন অনুমোদন",
+        "share_value": true,
+        "question_bn": "আমদানির এই সিদ্ধান্ত দেশের খাদ্য ও জ্বালানি সুরক্ষায় কেমন প্রভাব ফেলবে বলে আপনি মনে করেন?"
       },
       "desk_importance": 7.0,
       "outlet_count": 3,
       "trending": false,
-      "social_appeal": 8.0,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-26T06:01:45.914456+00:00"
+        "checked_at": "2026-11-26T07:01:58.864647+00:00"
       }
     },
     {
-      "story_id": "59077003-80a4-5580-ad6a-95f0f85a3270",
-      "primary_category": "society_education",
+      "story_id": "f942623a-d465-5be8-af99-7c661ae9e3c2",
+      "primary_category": "governance_law",
       "interest_categories": [
+        "governance_law",
+        "economy_business",
         "society_education"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#Netrakona",
+        "#NationalCitizenParty",
+        "#MohammadFahimRahmanKhanPathan",
+        "#AwamiLeague"
       ],
-      "image_url": "https://images.unsplash.com/photo-1676313496173-e3b325353087?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bWVkaWNhbCUyMGRlbnRhbCUyMGFkbWlzc2lvbiUyMHRlc3RzJTIwZWR1Y2F0aW9ufGVufDF8MHx8fDE3OTU2NzI4OTl8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/26/netrokona_ncp_fahim_fire.jpg",
       "image_caption": null,
-      "published_at": "2026-11-26T05:53:22+00:00",
+      "published_at": "2026-11-26T06:25:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.8628,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/education/news/1183871",
-          "title": "মেডিকেল-ডেন্টালে ভর্তি পরীক্ষা ১৮ ডিসেম্বর, মানবণ্টন যেভাবে",
-          "snippet": "মেডিকেল-ডেন্টালে ভর্তি পরীক্ষা ১৮ ডিসেম্বর, মানবণ্টন যেভাবে"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মেডিকেল ও ডেন্টাল কলেজে ভর্তি পরীক্ষা আগামী ১৮ ডিসেম্বর অনুষ্ঠিত হবে।",
-        "title_en": "Medical and dental admission tests will be held on December 18.",
-        "summary_bn": "দেশের সরকারি ও বেসরকারি মেডিকেল এবং ডেন্টাল কলেজে ২০২৬-২৭ শিক্ষাবর্ষে ভর্তি পরীক্ষা আগামী ১৮ ডিসেম্বর অনুষ্ঠিত হবে।",
-        "summary_en": "Admission tests for government and private medical and dental colleges for the 2026-27 academic session will be held on December 18.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-26T05:53:22+00:00",
-        "lead_bn": "দেশের সরকারি ও বেসরকারি মেডিকেল এবং ডেন্টাল কলেজে ২০২৬-২৭ শিক্ষাবর্ষে ভর্তি পরীক্ষা আগামী ১৮ ডিসেম্বর অনুষ্ঠিত হবে।",
-        "lead_en": "Admission tests for government and private medical and dental colleges for the 2026-27 academic session will be held on December 18.",
-        "bullets_bn": [
-          "ভর্তি পরীক্ষা আগামী ১৮ ডিসেম্বর অনুষ্ঠিত হবে।",
-          "পরীক্ষাটি ২০২৬-২৭ শিক্ষাবর্ষের জন্য নির্ধারিত হয়েছে।",
-          "একই সময়ে অভিন্ন প্রশ্নপত্রে এমবিবিএস পরীক্ষা হবে।"
-        ],
-        "bullets_en": [
-          "The admission test will be held on December 18.",
-          "The test has been scheduled for the 2026-27 academic session.",
-          "The MBBS examination will be held at the same time using identical question papers."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "মেডিকেল ও ডেন্টাল ভর্তি পরীক্ষা ১৮ ডিসেম্বর",
-        "kicker_bn": "নতুন তারিখ",
-        "share_value": true,
-        "question_bn": "এই পরীক্ষার তারিখ পরিবর্তনের ফলে আপনার প্রস্তুতিতে কেমন প্রভাব পড়বে বলে মনে করেন?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-26T06:01:45.914456+00:00"
-      }
-    },
-    {
-      "story_id": "0edb4c1d-4337-51a0-baac-43c605caac90",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "international",
-      "tags": [
-        "#Cairo",
-        "#Egypt",
-        "#Warraq"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/26/screenshot_2026-11-26_111445_0.png",
-      "image_caption": null,
-      "published_at": "2026-11-26T05:10:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.8793,
+      "importance_score": 6.5,
+      "rank_score": 4.0794,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/worldbiz/africa/over-30-dead-after-fuel-truck-overturns-near-cairo-1614326",
-          "title": "Over 30 dead after fuel truck overturns near Cairo",
-          "snippet": "Over 30 dead after fuel truck overturns near Cairo"
+          "url": "https://www.tbsnews.net/bangladesh/ncp-leaders-house-set-fire-netrakona-1614406",
+          "title": "NCP leader's house set on fire in Netrakona",
+          "snippet": "NCP leader's house set on fire in Netrakona"
+        },
+        {
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/bangladesh/district/gn8idp332r",
+          "title": "নেত্রকোনায় এনসিপি নেতা ফাহিমের বাসায় দুর্বৃত্তদের আগুন",
+          "snippet": "নেত্রকোনায় এনসিপি নেতা ফাহিমের বাসায় দুর্বৃত্তদের আগুন"
+        },
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/netrakona-ncp-leader-house-attacked-miscreants/",
+          "title": "এনসিপি নেতার বাসায় আগুন, আওয়ামী লীগের লোকজনকে সন্দেহ",
+          "snippet": "এনসিপি নেতার বাসায় আগুন, আওয়ামী লীগের লোকজনকে সন্দেহ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "কায়রোতে জ্বালানি ট্রাক উল্টে আগুন, নিহত ৩১",
-        "title_en": "Fuel truck overturns and catches fire near Cairo, killing 31",
-        "summary_bn": "মিশরের কায়রোতে একটি জ্বালানি ট্যাংকার উল্টে ভয়াবহ আগুন লাগার ঘটনায় ৩১ জন নিহত এবং ২১ জন আহত হয়েছেন।",
-        "summary_en": "A fuel tanker crash and massive fire on a highway in Cairo, Egypt, has killed 31 people and injured 21 others.",
+        "title_bn": "নেত্রকোনায় এনসিপি নেতার বাসায় দুর্বৃত্তরা আগুন দিয়েছে",
+        "title_en": "Miscreants set fire to NCP leader's house in Netrakona",
+        "summary_bn": "নেত্রকোনা পৌরসভায় জাতীয় নাগরিক পার্টির কেন্দ্রীয় নেতা মোহাম্মদ ফাহিম রহমান খান পাঠানের বাসায় দুর্বৃত্তরা আগুন দিয়েছে।",
+        "summary_en": "Miscreants set fire to the house of National Citizen Party central leader Mohammad Fahim Rahman Khan Pathan in Netrakona municipality.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
           "governance_law",
-          "economy_business"
+          "economy_business",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T05:10:00+00:00",
-        "lead_bn": "মিশরের কায়রোতে একটি জ্বালানি ট্যাংকার উল্টে ভয়াবহ আগুন লাগার ঘটনায় ৩১ জন নিহত এবং ২১ জন আহত হয়েছেন।",
-        "lead_en": "A fuel tanker crash and massive fire on a highway in Cairo, Egypt, has killed 31 people and injured 21 others.",
+        "published_at": "2026-11-26T06:25:00+00:00",
+        "lead_bn": "নেত্রকোনা পৌরসভায় জাতীয় নাগরিক পার্টির কেন্দ্রীয় নেতা মোহাম্মদ ফাহিম রহমান খান পাঠানের বাসায় দুর্বৃত্তরা আগুন দিয়েছে।",
+        "lead_en": "Miscreants set fire to the house of National Citizen Party central leader Mohammad Fahim Rahman Khan Pathan in Netrakona municipality.",
         "bullets_bn": [
-          "দুর্ঘটনাটি ২৫ নভেম্বর সন্ধ্যায় উত্তর কায়রোর ওয়ারাক এলাকার রিং রোডের একটি অংশে ঘটে।",
-          "স্বাস্থ্য মন্ত্রণালয়ের তথ্য অনুযায়ী, এই দুর্ঘটনায় ২১ জন আহত হয়েছেন।",
-          "নিকটবর্তী হাসপাতালগুলোতে দগ্ধ এবং ধোঁয়ায় অসুস্থ ব্যক্তিদের চিকিৎসা দেওয়া হয়েছে বলে জানিয়েছে বিবিসি।"
+          "২৬ নভেম্বর ভোর সাড়ে চারটার দিকে হোসেনপুর এলাকার একটি বারান্দার ঘরে আগুন লাগার এই ঘটনা ঘটে।",
+          "ফাহিমের মা, ছোট ভাই এবং ভাগনে বাড়িতে ছিলেন এবং পরিবারের সদস্য ও প্রতিবেশীরা মিলে আগুন নিয়ন্ত্রণে আনেন।",
+          "ফাহিম সন্দেহ করছেন যে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের লোকজন এই ঘটনার সঙ্গে জড়িত।"
         ],
         "bullets_en": [
-          "The incident occurred on 25 November in the Warraq neighbourhood, north of the old city centre.",
-          "The countrys health ministry reported that 21 people were injured in the incident.",
-          "Nearby hospitals treated people suffering from burns and smoke inhalation, according to BBC reports."
+          "The incident took place around 4:30am on 26 November in a room on the veranda in the Hossainpur area.",
+          "Fahim's mother, younger brother, and nephew were at home, and family members and neighbours extinguished the fire.",
+          "Fahim suspects that activists of the activities-banned Awami League were behind the incident."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "আল-আহরামের প্রতিবেদন অনুযায়ী, একটি বেসরকারি ঠিকাদারের ট্যাংকারটি চলাচলের সময় সামনে একটি উচ্চ ভোল্টেজের তার পড়ে গেলে চালক নিয়ন্ত্রণ হারিয়ে ফেলেন। এরপর ট্যাংকারটি কেন্দ্রীয় বিভাজক পার হয়ে উল্টে যায় এবং পেট্রোল ছড়িয়ে পড়ে আগুন ধরে যায়। আঞ্চলিক সরকারি কৌসুলী এই ঘটনার তদন্ত শুরু করেছেন এবং মৃতদের শরীর থেকে ডিএনএ নমুনা সংগ্রহের নির্দেশ দিয়েছেন।",
-        "details_en": "According to Al-Ahram, citing sources familiar with the investigation, a high-voltage cable fell in front of the private contractor's tanker, causing the driver to lose control. The tanker crossed the central reservation, overturned and caught fire, spilling petrol onto nearby vehicles. The regional public prosecutor launched an investigation and ordered DNA samples collected from the deceased.",
-        "hook_bn": "কায়রোতে জ্বালানি ট্রাকে আগুন, নিহত ৩১",
+        "details_bn": "ঘটনার সময় এনসিপি নেতা ফাহিম ঢাকায় ছিলেন। ফাহিমের ছোট ভাই নাফিউর রহমান খান পাঠানের বর্ণনায় পোড়া গন্ধ পেয়ে ঘরের দরজা খুলে বারান্দায় আগুন দেখা যায়। ঘটনার খবর পেয়ে পুলিশ ঘটনাস্থল পরিদর্শন করে এবং ফাহিম এ ঘটনার তদন্ত ও জড়িতদের বিরুদ্ধে ব্যবস্থা নেওয়ার দাবি জানিয়েছেন।",
+        "details_en": "Fahim was in Dhaka at the time of the incident. According to Fahim's younger brother Nafiu Rahman Khan Pathan, family members first noticed the fire after smelling burning and opening the door. Police visited the scene, and Fahim demanded an investigation and action against those involved.",
+        "hook_bn": "নেত্রকোনায় এনসিপি নেতার বাসায় আগুন",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": true,
-      "social_appeal": 6.0,
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-26T06:01:45.914456+00:00"
+        "checked_at": "2026-11-26T07:01:58.864647+00:00"
       }
     },
     {
-      "story_id": "f169cad0-8247-5627-aa43-8ec8ed844eb5",
+      "story_id": "29696087-a28d-5103-b592-1a6f46b82d1c",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
+        "world_diplomacy"
       ],
       "region": "international",
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#NorthKorea",
+        "#KimJongUn",
+        "#NuclearWeapons"
       ],
-      "image_url": "https://images.unsplash.com/photo-1722871513403-1a56a543390a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFuZ2xhZGVzaGklMjBwYXJsaWFtZW50YXJ5JTIwZGVsZWdhdGlvbiUyMG1lZXRzJTIwZGlwbG9tYWN5fGVufDF8MHx8fDE3OTU2NzI5MDV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://th-i.thgim.com/public/incoming/z2dsgx/article71745197.ece/alternates/LANDSCAPE_1200/2026-11-26T011630Z_1118755875_RC2BVOAH3DNL_RTRMADP_3_NORTHKOREA-NUCLEAR.JPG",
       "image_caption": null,
-      "published_at": "2026-11-26T05:03:55+00:00",
+      "published_at": "2026-11-26T04:35:38+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.8625,
+      "importance_score": 5.0,
+      "rank_score": 2.1726,
       "sources": [
         {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture/article71745171.ece",
+          "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+          "snippet": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture"
+        },
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/kim-jong-un-tours-nuclear-material-sites-urges-wider-use-of-tactical-nuclear-weapons/a-80055887?maca=en-rss-en-all-1573-rdf",
+          "title": "Kim Jong Un tours nuclear material sites, urges wider use of tactical nuclear weapons",
+          "snippet": "Kim Jong Un tours nuclear material sites, urges wider use of tactical nuclear weapons"
+        },
+        {
           "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823059/%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A6%A6%E0%A7%80%E0%A7%9F",
-          "title": "পাকিস্তানের প্রধানমন্ত্রীর সঙ্গে বাংলাদেশি সংসদীয় প্রতিনিধিদলের সাক্ষাৎ",
-          "snippet": "পাকিস্তানের প্রধানমন্ত্রীর সঙ্গে বাংলাদেশি সংসদীয় প্রতিনিধিদলের সাক্ষাৎ"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1183865",
-          "title": "স্পিকারের সম্মানে পাকিস্তানের প্রধানমন্ত্রীর নৈশভোজ",
-          "snippet": "স্পিকারের সম্মানে পাকিস্তানের প্রধানমন্ত্রীর নৈশভোজ"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/national/500969",
-          "title": "পাকিস্তানের রাষ্ট্রপতির সঙ্গে বাংলাদেশের স্পিকারের সাক্ষাৎ",
-          "snippet": "পাকিস্তানের রাষ্ট্রপতির সঙ্গে বাংলাদেশের স্পিকারের সাক্ষাৎ"
+          "url": "https://www.ittefaq.com.bd/823073/%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%A3%E0%A6%AC%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%A4%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%89-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A7%80%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87%E0%A6%87",
+          "title": "উত্তর কোরিয়ার পারমাণবিক ক্ষমতা কেউ অস্বীকার করলেই যুদ্ধের হুমকি কিমের",
+          "snippet": "উত্তর কোরিয়ার পারমাণবিক ক্ষমতা কেউ অস্বীকার করলেই যুদ্ধের হুমকি কিমের"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পাকিস্তানের প্রধানমন্ত্রীর সঙ্গে বাংলাদেশি সংসদীয় প্রতিনিধিদলের সাক্ষাৎ",
-        "title_en": "Bangladeshi parliamentary delegation meets Pakistan prime minister",
-        "summary_bn": "পাকিস্তানের প্রধানমন্ত্রী মুহাম্মদ শাহবাজ শরিফের সঙ্গে সাক্ষাৎ করেছেন সফররত বাংলাদেশি সংসদীয় প্রতিনিধিদলের সদস্যরা।",
-        "summary_en": "Visiting members of the Bangladeshi parliamentary delegation met Pakistan Prime Minister Muhammad Shehbaz Sharif.",
+        "title_bn": "পারমাণবিক অস্ত্র তৈরির কারখানা পরিদর্শন করে আরও অস্ত্র বাড়ানোর ঘোষণা কিমের",
+        "title_en": "Kim vows to build more nuclear weapons after visiting nuclear facilities.",
+        "summary_bn": "উত্তর কোরিয়ার নেতা কিম জং উন পারমাণবিক উপাদানের কারখানা পরিদর্শন করেছেন এবং আরও বেশি পারমাণবিক অস্ত্র তৈরির আহ্বান জানিয়েছেন।",
+        "summary_en": "North Korean leader Kim Jong Un visited nuclear material production facilities and called for building more nuclear weapons.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T05:03:55+00:00",
-        "lead_bn": "পাকিস্তানের প্রধানমন্ত্রী মুহাম্মদ শাহবাজ শরিফের সঙ্গে সাক্ষাৎ করেছেন সফররত বাংলাদেশি সংসদীয় প্রতিনিধিদলের সদস্যরা।",
-        "lead_en": "Visiting members of the Bangladeshi parliamentary delegation met Pakistan Prime Minister Muhammad Shehbaz Sharif.",
+        "published_at": "2026-11-26T04:35:38+00:00",
+        "lead_bn": "উত্তর কোরিয়ার নেতা কিম জং উন পারমাণবিক উপাদানের কারখানা পরিদর্শন করেছেন এবং আরও বেশি পারমাণবিক অস্ত্র তৈরির আহ্বান জানিয়েছেন।",
+        "lead_en": "North Korean leader Kim Jong Un visited nuclear material production facilities and called for building more nuclear weapons.",
         "bullets_bn": [
-          "বাংলাদেশ জাতীয় সংসদের স্পিকার হাফিজ উদ্দিন আহমদের সম্মানে নৈশভোজের আয়োজন করেছেন পাকিস্তানের প্রধানমন্ত্রী শাহবাজ শরিফ।",
-          "প্রধানমন্ত্রীর বাসভবনে আয়োজিত এ নৈশভোজে অংশ নেন সফররত বাংলাদেশি সংসদীয় প্রতিনিধিদলের সদস্যরা।",
-          "বাংলাদেশ জাতীয় সংসদের স্পিকার মেজর (অব.) হাফিজ উদ্দিন আহমদ বীর বিক্রম পাকিস্তানের রাষ্ট্রপতি আসিফ আলী জারদারির সঙ্গে সৌজন্য সাক্ষাৎ করেছেন।"
+          "উত্তর কোরিয়ার রাষ্ট্রীয় সংবাদমাধ্যম কেসিএনএ জানিয়েছে, কিম জং উন দুটি পারমাণবিক উপাদান উৎপাদন কারখানা পরিদর্শন করেছেন।",
+          "কিম জং উন কৌশলগত পারমাণবিক অস্ত্রের ব্যাপক মোতায়েন এবং সামরিক সক্ষমতা বাড়ানোর ওপর জোর দিয়েছেন।",
+          "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের বৈঠকের প্রস্তাব এড়িয়ে যাওয়ার কিছুদিন পর এই পরিদর্শন করলেন কিম।"
         ],
         "bullets_en": [
-          "Pakistan Prime Minister Shehbaz Sharif hosted a dinner in honor of Bangladesh National Parliament Speaker Hafiz Uddin Ahmed.",
-          "The visiting members of the Bangladeshi parliamentary delegation participated in this dinner held at the prime minister's residence.",
-          "Bangladesh National Parliament Speaker Major (Retd) Hafiz Uddin Ahmed Bir Bikrom made a courtesy call on Pakistan President Asif Ali Zardari."
+          "North Korean state media KCNA reported that Kim Jong Un inspected two nuclear material production factories.",
+          "Kim Jong Un called for a wider deployment of tactical nuclear weapons and strengthening defence capabilities.",
+          "Kim visited these facilities days after ignoring U.S. President Donald Trump's offer to meet."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বাংলাদেশ সংসদীয় প্রতিনিধিদলের সদস্যদের মধ্যে রয়েছেন স্পিকার হাফিজ উদ্দিন আহমদ বীর বিক্রম, সংসদ সদস্য নাসের রহমান, জহরত আদিব চৌধুরী, হুম্মাম কাদের চৌধুরী, মোহাম্মদ নাজিবুর। দিবাগত রাতে পাকিস্তান সরকারের প্রকাশিত কয়েকটি ছবিতে এ সাক্ষাতের বিষয়টি সামনে আসে।",
-        "details_en": "Members of the Bangladesh parliamentary delegation include Speaker Hafiz Uddin Ahmed Bir Bikrom, Members of Parliament Nasser Rahman, Zohrat Adib Chowdhury, Hummam Quader Chowdhury, Mohammad Najibur. This meeting came to light through several photos published by the government of Pakistan on Wednesday night.",
-        "hook_bn": "পাকিস্তানের প্রধানমন্ত্রীর সঙ্গে বাংলাদেশি প্রতিনিধিদলের সাক্ষাৎ",
-        "kicker_bn": null,
+        "details_bn": "কেসিএনএ জানিয়েছে, কিম জং উন একটি নতুন চালু হওয়া এবং অপর একটি সম্প্রসারিত পারমাণবিক উপাদান উৎপাদন কারখানা পরিদর্শন করেন। এছাড়া তিনি একটি পারমাণবিক চালিত সরঞ্জাম উৎপাদন ঘাঁটি এবং একটি পারমাণবিক গবেষণা ইনস্টিটিউটও পরিদর্শন করেন। কোরিয় উপদ্বীপের কাছাকাছি মুহূর্তে মুহূর্তে ঘনিয়ে আসা পরিবর্তনশীল পারমাণবিক হুমকির জবাবে প্রতিরক্ষা সক্ষমতা জোরদার করার প্রচেষ্টার অংশ হিসেবে এই পরিদর্শন করা হয়েছে বলে কেসিএনএ উল্লেখ করেছে।",
+        "details_en": "KCNA reported that Mr. Kim inspected two nuclear materials production factories, one newly inaugurated and the other being expanded. He also visited a nuclear-powered equipment production base and a nuclear research institute. The visit was part of efforts to strengthen North Korea's defence capabilities in response to variable nuclear threats approaching the Korean Peninsula moment by moment, according to KCNA.",
+        "hook_bn": "পারমাণবিক অস্ত্র বাড়ানোর ঘোষণা কিমের",
+        "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
@@ -464,7 +334,74 @@
       "social_appeal": 4.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-26T06:01:45.914456+00:00"
+        "checked_at": "2026-11-26T07:01:58.864647+00:00"
+      }
+    },
+    {
+      "story_id": "eba785d5-4215-5a34-894a-666c933a8dd7",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1524592714635-d77511a4834d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Y2l2aWwlMjBhdmlhdGlvbiUyMGF1dGhvcml0eSUyMGNsYWltcyUyMGJ1c2luZXNzfGVufDF8MHx8fDE3OTU2NzY1MTh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-26T06:42:28+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5349,
+      "sources": [
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/823074/%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%8F%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A7%87%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%93%E0%A6%A8%E0%A6%BE-%E0%A7%AD-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF",
+          "title": "চার এয়ারলাইনসের কাছে বেবিচকের পাওনা ৭ হাজার কোটি টাকা, তিনটি বন্ধ",
+          "snippet": "চার এয়ারলাইনসের কাছে বেবিচকের পাওনা ৭ হাজার কোটি টাকা, তিনটি বন্ধ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "চার এয়ারলাইনসের কাছে বেবিচকের পাওনা ৭ হাজার কোটি টাকার বেশি",
+        "title_en": "Civil Aviation Authority claims over Tk 7,000 crore from four airlines",
+        "summary_bn": "বাংলাদেশ বেসামরিক বিমান চলাচল কর্তৃপক্ষের কাছে দেশের চারটি এয়ারলাইনসের পাওনা রয়েছে ৭ হাজার ১২৭ কোটি টাকার বেশি।",
+        "summary_en": "The Civil Aviation Authority of Bangladesh is owed more than Tk 7,127 crore by four airlines of the country.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-26T06:42:28+00:00",
+        "lead_bn": "বাংলাদেশ বেসামরিক বিমান চলাচল কর্তৃপক্ষের কাছে দেশের চারটি এয়ারলাইনসের পাওনা রয়েছে ৭ হাজার ১২৭ কোটি টাকার বেশি।",
+        "lead_en": "The Civil Aviation Authority of Bangladesh is owed more than Tk 7,127 crore by four airlines of the country.",
+        "bullets_bn": [
+          "রাষ্ট্রীয় উড়োজাহাজ সংস্থা বিমান বাংলাদেশ এয়ারলাইনসের কাছে পাওনা ৫ হাজার ৮৬৮ কোটি ৮৫ লাখ টাকা।",
+          "বাকি তিনটি বেসরকারি এয়ারলাইনসের কাছে বেবিচকের পাওনা ১ হাজার ২৫৮ কোটি টাকার বেশি।",
+          "বেবিচকের পাওনা থাকা বাকি তিনটি বেসরকারি এয়ারলাইনসই এখন বন্ধ রয়েছে।"
+        ],
+        "bullets_en": [
+          "State-owned carrier Biman Bangladesh Airlines owes Tk 5,868 crore and 85 lakh.",
+          "The authority is owed more than Tk 1,258 crore by the remaining three private airlines.",
+          "All three of the private airlines that owe money to the authority are now closed."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বেবিচকের অর্থ ও হিসাব বিভাগের তৈরি একটি হিসাব বিবরণীতে চার এয়ারলাইনসের কাছে এই পাওনা থাকার তথ্য উঠে এসেছে।",
+        "details_en": "An account statement prepared by the finance and accounts division of the Civil Aviation Authority revealed these dues from the four airlines.",
+        "hook_bn": "চার এয়ারলাইনসের কাছে বেবিচকের পাওনা সাত হাজার কোটি টাকা",
+        "kicker_bn": "বকেয়া পাওনা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-26T07:01:58.864647+00:00"
       }
     }
   ]
