@@ -1,92 +1,87 @@
 {
-  "updated_at": "2026-11-26T10:00:42.743671",
-  "total_stories": 3,
+  "updated_at": "2026-11-26T11:00:48.152109",
+  "total_stories": 2,
   "stories": [
     {
-      "story_id": "f4b7c856-512f-5065-860b-130d7593d92a",
+      "story_id": "57310885-058b-5f02-90d7-d7b480d4533a",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
-        "world_diplomacy"
+        "economy_business",
+        "society_education"
       ],
       "region": "national",
       "tags": [
-        "#ZiaulAhsan",
-        "#InternationalCrimesTribunal",
-        "#AttorneyGeneral",
-        "#HumanRights"
+        "#RangpurMurders",
+        "#BangladeshPolice",
+        "#CrimeNews"
       ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Attorney%20General.jpg",
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/Ganapati%20family%20%281%29.jpg",
       "image_caption": null,
-      "published_at": "2026-11-26T09:04:40+00:00",
+      "published_at": "2026-11-26T10:51:38+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 5.3267,
+      "importance_score": 7.25,
+      "rank_score": 5.2067,
       "sources": [
         {
           "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/attorney-general-seeks-death-penalty-ziaul-ahsan-4333786",
-          "title": "Attorney general seeks death penalty for Ziaul Ahsan",
-          "snippet": "Attorney general seeks death penalty for Ziaul Ahsan"
+          "url": "https://www.thedailystar.net/news/crime-justice/news/rangpur-family-murders-police-identify-theft-motive-charge-mugdha-and-siddhartha-4333841",
+          "title": "Rangpur family murders: Police identify theft as motive, charge Mugdha and Siddhartha",
+          "snippet": "Rangpur family murders: Police identify theft as motive, charge Mugdha and Siddhartha"
         },
         {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/law-justice/post-1226128/",
-          "title": "মৃত্যুদণ্ডই হতে পারে জিয়াউলের একমাত্র সাজা: অ্যাটর্নি জেনারেল",
-          "snippet": "মৃত্যুদণ্ডই হতে পারে জিয়াউলের একমাত্র সাজা: অ্যাটর্নি জেনারেল"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/law-courts/news/1183991",
-          "title": "মানুষের জীবন ছিল জিয়াউল আহসানের কাছে খেলনা: অ্যাটর্নি জেনারেল",
-          "snippet": "মানুষের জীবন ছিল জিয়াউল আহসানের কাছে খেলনা: অ্যাটর্নি জেনারেল"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/823116/%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95-%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%A8-%E0%A6%A8%E0%A7%9F-%E0%A6%9A%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%9B%E0%A6%BE%E0%A6%A6%E0%A7%87-%E0%A6%85%E0%A6%AA%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E2%80%94%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F",
+          "title": "মাদক সেবন নয়, চুরির জন্য ছাদে অপেক্ষা—দেখে ফেলায় একে একে ৪ জনকে হত্যা",
+          "snippet": "মাদক সেবন নয়, চুরির জন্য ছাদে অপেক্ষা—দেখে ফেলায় একে একে ৪ জনকে হত্যা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মানবতাবিরোধী অপরাধের মামলায় জিয়াউল আহসানের মৃত্যুদণ্ড চাইলেন অ্যাটর্নি জেনারেল",
-        "title_en": "Attorney General seeks death penalty for Ziaul Ahsan in crimes against humanity case",
-        "summary_bn": "আওয়ামী লীগ সরকারের আমলে গুম ও হত্যার অভিযোগে সাবেক সেনা কর্মকর্তা মেজর জেনারেল (অব.) জিয়াউল আহসানের মৃত্যুদণ্ড চেয়ে আন্তর্জাতিক অপরাধ ট্রাইব্যুনালে আবেদন করেছেন অ্যাটর্নি জেনারেল।",
-        "summary_en": "Attorney General Md Ruhul Quddus Kazal urged the International Crimes Tribunal-1 to sentence Maj Gen (relieved) Ziaul Ahsan to death for enforced disappearances and killings.",
+        "title_bn": "রংপুরে চার খুন: মুগদা ও সিদ্ধার্থের বিরুদ্ধে অভিযোগপত্র দিল পুলিশ",
+        "title_en": "Rangpur murders: Police charge Mugdha and Siddhartha over family killings",
+        "summary_bn": "রংপুরে অবসরপ্রাপ্ত শিক্ষকসহ একই পরিবারের চার সদস্যকে হত্যার ঘটনায় মুগদা ও সিদ্ধার্থ নামের দুই ব্যক্তির বিরুদ্ধে অভিযোগপত্র দিয়েছে পুলিশ।",
+        "summary_en": "Police submitted a charge sheet against two men over the murders of a retired schoolteacher and three family members in Rangpur.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law",
-          "world_diplomacy"
+          "economy_business",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T09:04:40+00:00",
-        "lead_bn": "আওয়ামী লীগ সরকারের আমলে গুম ও হত্যার অভিযোগে সাবেক সেনা কর্মকর্তা মেজর জেনারেল (অব.) জিয়াউল আহসানের মৃত্যুদণ্ড চেয়ে আন্তর্জাতিক অপরাধ ট্রাইব্যুনালে আবেদন করেছেন অ্যাটর্নি জেনারেল।",
-        "lead_en": "Attorney General Md Ruhul Quddus Kazal urged the International Crimes Tribunal-1 to sentence Maj Gen (relieved) Ziaul Ahsan to death for enforced disappearances and killings.",
+        "published_at": "2026-11-26T10:51:38+00:00",
+        "lead_bn": "রংপুরে অবসরপ্রাপ্ত শিক্ষকসহ একই পরিবারের চার সদস্যকে হত্যার ঘটনায় মুগদা ও সিদ্ধার্থ নামের দুই ব্যক্তির বিরুদ্ধে অভিযোগপত্র দিয়েছে পুলিশ।",
+        "lead_en": "Police submitted a charge sheet against two men over the murders of a retired schoolteacher and three family members in Rangpur.",
         "bullets_bn": [
-          "রাষ্ট্রপক্ষ যুক্তি দিয়েছে যে জিয়াউল আহসান সরাসরি হত্যাকাণ্ডে জড়িত ছিলেন এবং তার অধীনস্থদের অপরাধ করার নির্দেশ দিয়েছিলেন।",
-          "অ্যাটর্নি জেনারেল আসামিকে মানবতার কলঙ্ক হিসেবে বর্ণনা করে বলেন যে তার অপরাধের তুলনায় একটি মৃত্যুদণ্ডও যথেষ্ট নয়।",
-          "ভুক্তভোগী ও তাদের পরিবারকে ক্ষতিপূরণ দিতে জিয়াউল আহসানের সব সম্পত্তি বাজেয়াপ্ত করার আবেদনও জানানো হয়েছে।"
+          "তদন্ত কর্মকর্তা ইন্সপেক্টর জিন্না আলী আদালতে এই অভিযোগপত্র জমা দেন।",
+          "পুলিশের ভাষ্য অনুযায়ী, চুরির উদ্দেশ্যে বাড়িতে ঢুকে মাদক সেবনের পর চারজনকে হত্যা করা হয়।",
+          "অভিযোগপত্রে ৫৩ জনকে সাক্ষী এবং ৬৬টি আলামত অন্তর্ভুক্ত করা হয়েছে।"
         ],
         "bullets_en": [
-          "The prosecution argued Ziaul was directly involved in killings and ordered subordinates to commit crimes under individual and superior command responsibility.",
-          "Kazal described the accused as a serial killer and a stain on humanity, stating his crimes were as vast as the ocean.",
-          "The Attorney General also sought the confiscation of all of Ziaul’s properties to provide compensation to the victims and their families."
+          "Investigation officer Inspector Zinnat Ali submitted the charge sheet to the court.",
+          "Police stated the accused entered for theft, consumed drugs, and killed all four family members.",
+          "The charge sheet names 53 witnesses and includes 66 pieces of evidence."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "২৬ নভেম্বর প্রসিকিউশনের যুক্তিতর্কের তৃতীয় দিনে এই আবেদন করা হয়। অ্যাটর্নি জেনারেল বলেন, রাষ্ট্রপক্ষ সন্দেহাতীতভাবে অভিযোগ প্রমাণ করতে সক্ষম হয়েছে। তিনি গুমকে একটি চলমান অপরাধ হিসেবে অভিহিত করেন এবং বলেন যে ভুক্তভোগীদের সন্ধান না পাওয়া পর্যন্ত এই অপরাধ চলতে থাকে। আওয়ামী লীগ সরকারের আমলে শতাধিক ব্যক্তিকে গুম ও হত্যার অভিযোগে এই বিচার চলছে।",
-        "details_en": "The submission was made on November 26, the third consecutive day of prosecution arguments. The Attorney General argued that the prosecution proved the charges beyond reasonable doubt and that the tribunal has jurisdiction. He defined enforced disappearance as a continuing crime until the fate of the victims is established. The case involves allegations of enforced disappearance and murder of over a hundred people during the Awami League government's tenure.",
-        "hook_bn": "'জিয়াউলের অপরাধ সমুদ্রসম, মৃত্যুদণ্ড কেবল শিশিরবিন্দু'",
-        "kicker_bn": "মৃত্যুদণ্ড দাবি",
+        "details_bn": "রংপুর মহানগর পুলিশের পক্ষ থেকে এক সংবাদ সম্মেলনে জানানো হয়, ব্যাংক থেকে টাকা তোলার ধারণার বশবর্তী হয়ে এবং ঘরে স্বর্ণালংকার থাকার সন্দেহে অভিযুক্তরা চুরির পরিকল্পনা করেছিল। অপরাধস্থল থেকে সংগৃহীত আলামত ঢাকার সিআইডি ফরোেনসিক ল্যাবরেটরিতে পাঠানো হয়।",
+        "details_en": "Rangpur Metropolitan Police stated in a press conference that the accused planned the theft suspecting gold and withdrawn bank money at the house. Evidence was sent to the CID forensic lab in Dhaka.",
+        "hook_bn": "রংপুরে চারজনকে হত্যার ঘটনায় অভিযোগপত্র",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 7.0,
-      "outlet_count": 3,
+      "outlet_count": 2,
       "trending": false,
       "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-26T10:05:59.795743+00:00"
+        "checked_at": "2026-11-26T11:02:21.502111+00:00"
       }
     },
     {
-      "story_id": "f89e5d2f-7133-505b-aa7f-820fd70fa8b0",
+      "story_id": "adc68147-0a90-5212-83ee-30df148dd1ac",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
@@ -94,34 +89,36 @@
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#AbulKalamAzad",
+        "#NuruzzamanJony",
+        "#ChhatraDal",
+        "#InternationalCrimesTribunal"
       ],
-      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/V-2.jpg",
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/183252/sp-kalam.jpg",
       "image_caption": null,
-      "published_at": "2026-11-26T08:58:19+00:00",
+      "published_at": "2026-11-26T11:01:05.774820+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.25,
-      "rank_score": 3.6766,
+      "rank_score": 3.9048,
       "sources": [
         {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/financial-development/post-1226167/",
-          "title": "সরাসরি ক্রয় পদ্ধতিতে ভ্যাকসিন ও কম্বল কিনবে সরকার",
-          "snippet": "সরাসরি ক্রয় পদ্ধতিতে ভ্যাকসিন ও কম্বল কিনবে সরকার"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/sp-kalam-arrested-over-killing-of-chhatra-dal-leader",
+          "title": "SP Kalam arrested over killing of Chhatra Dal leader",
+          "snippet": "SP Kalam arrested over killing of Chhatra Dal leader"
         },
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823106/%E0%A6%B6%E0%A7%80%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%B8%E0%A6%BE%E0%A7%9C%E0%A7%87-%E0%A7%AA%E0%A7%AC-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B2-%E0%A6%95%E0%A6%BF%E0%A6%A8%E0%A6%AC%E0%A7%87",
-          "title": "শীতার্তদের জন্য সাড়ে ৪৬ কোটি টাকার কম্বল কিনবে সরকার",
-          "snippet": "শীতার্তদের জন্য সাড়ে ৪৬ কোটি টাকার কম্বল কিনবে সরকার"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/sp-kalam-arrested-jony-murder-case/",
+          "title": "ক্রসফায়ারে ছাত্রদল নেতা জনি হত্যা মামলায় এসপি কালাম গ্রেপ্তার",
+          "snippet": "ক্রসফায়ারে ছাত্রদল নেতা জনি হত্যা মামলায় এসপি কালাম গ্রেপ্তার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সরাসরি ক্রয় পদ্ধতিতে ভ্যাকসিন ও কম্বল কেনার অনুমোদন দিয়েছে সরকার।",
-        "title_en": "Government approves buying vaccines and blankets through direct procurement method.",
-        "summary_bn": "সরকার সরাসরি ক্রয় পদ্ধতিতে ইপিআই ভ্যাকসিন এবং মানবিক সহায়তার আওতায় তাঁত বোর্ডের মাধ্যমে কম্বল কেনার নীতিগত অনুমোদন দিয়েছে।",
-        "summary_en": "The government has given in-principle approval to purchase EPI vaccines and blankets through direct procurement under humanitarian assistance.",
+        "title_bn": "ছাত্রদল নেতা জনি হত্যা মামলায় এসপি কালাম গ্রেপ্তার",
+        "title_en": "SP Kalam arrested over killing of Chhatra Dal leader",
+        "summary_bn": "খিলগাঁও থানা ছাত্রদল নেতা নুরুজ্জামান জনিকে বন্দুকযুদ্ধের নামে হত্যার অভিযোগে এসপি আবুল কালাম আজাদকে গ্রেপ্তার করা হয়েছে।",
+        "summary_en": "Superintendent of Police Abul Kalam Azad has been arrested over the alleged killing of Chhatra Dal leader Nuruzzaman Jony in a gunfight.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -129,105 +126,35 @@
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T08:58:19+00:00",
-        "lead_bn": "সরকার সরাসরি ক্রয় পদ্ধতিতে ইপিআই ভ্যাকসিন এবং মানবিক সহায়তার আওতায় তাঁত বোর্ডের মাধ্যমে কম্বল কেনার নীতিগত অনুমোদন দিয়েছে।",
-        "lead_en": "The government has given in-principle approval to purchase EPI vaccines and blankets through direct procurement under humanitarian assistance.",
+        "published_at": "2026-11-26T11:01:05.774820+00:00",
+        "lead_bn": "খিলগাঁও থানা ছাত্রদল নেতা নুরুজ্জামান জনিকে বন্দুকযুদ্ধের নামে হত্যার অভিযোগে এসপি আবুল কালাম আজাদকে গ্রেপ্তার করা হয়েছে।",
+        "lead_en": "Superintendent of Police Abul Kalam Azad has been arrested over the alleged killing of Chhatra Dal leader Nuruzzaman Jony in a gunfight.",
         "bullets_bn": [
-          "অর্থ ও পরিকল্পনামন্ত্রী আমির খসরু মাহমুদ চৌধুরীর সভাপতিত্বে অর্থনৈতিক বিষয়সংক্রান্ত মন্ত্রিসভা কমিটির বৈঠকে এ প্রস্তাবের অনুমোদন দেওয়া হয়।",
-          "শীতার্ত, অসহায় ও দুর্যোগকবলিত মানুষের মধ্যে বিতরণের জন্য ৪৬ কোটি ৬৬ লাখ ৪৯ হাজার ২৬৮ টাকার কম্বল কেনা হবে।",
-          "চলতি ২০২৬-২৭ অর্থবছরের জন্য সম্প্রসারিত টিকাদান কর্মসূচি ও মানবিক সহায়তা কর্মসূচির আওতায় এসব সামগ্রী কেনা হবে।"
+          "ঢাকা মেট্রোপলিটন পুলিশের গোয়েন্দা শাখা গাজীপুরের ইন-সার্ভিস ট্রেনিং সেন্টার থেকে তাকে আটক করে।",
+          "আন্তর্জাতিক অপরাধ ট্রাইব্যুনালের চাহিদাপত্রের ভিত্তিতে তাকে আটক করা হয়েছে বলে জানিয়েছেন ডিবি প্রধান শফিকুল ইসলাম।",
+          "২০২৪ সালের সেপ্টেম্বর মাসে নিহতের বাবা খিলগাঁও থানায় ৬২ জনকে আসামি করে মামলা দায়ের করেন।"
         ],
         "bullets_en": [
-          "The proposal was approved in a meeting of the Cabinet Committee on Economic Affairs chaired by Finance and Planning Minister Amir Khasru Mahmud Chowdhury.",
-          "Blankets worth Tk 46,66,49,268 will be bought for distribution among cold-affected, helpless and disaster-hit people.",
-          "These items will be purchased under the Expanded Programme on Immunization and humanitarian assistance programme for the current fiscal year 2026-27."
+          "The Detective Branch of the Dhaka Metropolitan Police apprehended him from the In-Service Training Centre in Gazipur.",
+          "DB chief Shafiqul Islam said he was picked up following a requisition from the International Crimes Tribunal.",
+          "In September 2024, the victim's father filed a case at Khilgaon Police Station naming 62 people as suspects."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "সচিবালয়ে অর্থনৈতিক বিষয়সংক্রান্ত মন্ত্রিসভা কমিটির বৈঠকে সারাদেশের মাঠ পর্যায়ে নিরবচ্ছিন্ন সরবরাহ নিশ্চিত করতে এবং শীতার্ত মানুষের মধ্যে বিতরণের জন্য এই প্রস্তাবগুলো অনুমোদন করা হয়।",
-        "details_en": "The proposals were approved at the meeting of the Cabinet Committee on Economic Affairs at the Secretariat to ensure uninterrupted supply at the field level nationwide and for distribution among cold-hit people.",
-        "hook_bn": "শীতার্তদের জন্য সাড়ে ৪৬ কোটি টাকার কম্বল",
-        "kicker_bn": "নতুন প্রস্তাব",
-        "share_value": true,
+        "details_bn": "মামলার বিবরণ অনুযায়ী, ২০১৫ সালের ১৯ ফেব্রুয়ারি ঢাকা কেন্দ্রীয় কারাগারের সামনে থেকে ছাত্রদল নেতা জনি ও মহিউদ্দিন নামে আরেকজনকে পুলিশ ধরে নিয়ে যায়। ওইদিন রাত সাড়ে তিনটার দিকে খিলগাঁও খেলার মাঠে কথিত বন্দুকযুদ্ধে জনি নিহত হন। অভিযুক্ত আবুল কালাম আজাদ ঝালকাঠি জেলার ২৫তম বিসিএস পুলিশ ব্যাচের কর্মকর্তা এবং গাজীপুরের ইন-সার্ভিস ট্রেনিং সেন্টারে কর্মরত ছিলেন।",
+        "details_en": "According to the case statement, police picked Jony up from outside Dhaka Central Jail on Feb 19, 2015, along with another Chhatra Dal leader named Mohiuddin. Around 3:30 am that night, Jony was allegedly killed at the Khilgaon playground in a staged gunfight. Azad, an officer of the 25th BCS police batch from Jhalakathi district, had been serving at the In-Service Training Centre in Gazipur.",
+        "hook_bn": "ছাত্রদল নেতা জনি হত্যা মামলায় এসপি গ্রেপ্তার",
+        "kicker_bn": null,
+        "share_value": false,
         "question_bn": null
       },
       "desk_importance": 6.0,
       "outlet_count": 2,
       "trending": false,
-      "social_appeal": 6.0,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-26T10:05:59.795743+00:00"
-      }
-    },
-    {
-      "story_id": "a9719408-a527-51ec-90bd-88186e4d64a6",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#Nepal",
-        "#AugustFloods",
-        "#GlacierCollapse"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1678801548539-df03172e8aeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bmVwYWwlMjBtb3ZlcyUyMGRlY2xhcmUlMjBtaXNzaW5nJTIwZW52aXJvbm1lbnR8ZW58MXwwfHx8MTc5NTY4NzU0OHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-26T09:45:33+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.4625,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/world/asia/425808/nepal-moves-to-declare-dead-those-still-missing",
-          "title": "Nepal moves to declare dead those still missing after August floods",
-          "snippet": "Nepal moves to declare dead those still missing after August floods"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "নেপালে নিখোঁজ ব্যক্তিদের মৃত ঘোষণা করার প্রক্রিয়া শুরু হয়েছে",
-        "title_en": "Nepal moves to declare missing people dead",
-        "summary_bn": "আগস্টে সংঘটিত আকস্মিক বন্যায় নিখোঁজ থাকা ব্যক্তিদের মৃত ঘোষণা করার উদ্যোগ নিয়েছে নেপাল।",
-        "summary_en": "Nepal has moved to declare dead those still missing after the August floods.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-26T09:45:33+00:00",
-        "lead_bn": "আগস্টে সংঘটিত আকস্মিক বন্যায় নিখোঁজ থাকা ব্যক্তিদের মৃত ঘোষণা করার উদ্যোগ নিয়েছে নেপাল।",
-        "lead_en": "Nepal has moved to declare dead those still missing after the August floods.",
-        "bullets_bn": [
-          "আগস্টের ২৬ তারিখে নেপাল-চীন সীমান্তে হিমবাহ ধসের ফলে এই বন্যা ঘটেছিল।",
-          "এই বন্যায় ১,৪০০ জনের বেশি মানুষ নিহত হয়েছেন।",
-          "বন্যার পর ৫,৫০০ জন মানুষ নিখোঁজ রয়েছেন।"
-        ],
-        "bullets_en": [
-          "A glacier collapse on August 26 triggered floods along the Nepal-China border.",
-          "The floods killed over 1,400 people.",
-          "The disaster left 5,500 people missing."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "আগস্টের ২৬ তারিখে নেপাল-চীন সীমান্তে হিমবাহ ধসের কারণে এই আকস্মিক বন্যা সৃষ্টি হয়েছিল। এই দুর্যোগে ১,৪০০ জনের বেশি মানুষ প্রাণ হারিয়েছেন এবং ৫,৫০০ জন নিখোঁজ রয়েছেন।",
-        "details_en": "A glacier collapse on August 26 triggered floods along the Nepal-China border. The disaster killed over 1,400 people and left 5,500 missing.",
-        "hook_bn": "বন্যায় নিখোঁজ ৫,৫০০ জনকে মৃত ঘোষণা",
-        "kicker_bn": "নিখোঁজ",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-26T10:05:59.795743+00:00"
+        "checked_at": "2026-11-26T11:02:21.502111+00:00"
       }
     }
   ]
