@@ -1,149 +1,73 @@
 {
-  "updated_at": "2026-11-26T11:00:48.152109",
+  "updated_at": "2026-11-26T12:00:47.012905",
   "total_stories": 2,
   "stories": [
     {
-      "story_id": "57310885-058b-5f02-90d7-d7b480d4533a",
-      "primary_category": "governance_law",
+      "story_id": "0e62374b-ac14-55f3-8473-c287ce008db4",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
+        "world_diplomacy",
         "governance_law",
-        "economy_business",
-        "society_education"
+        "climate_environment"
       ],
       "region": "national",
       "tags": [
-        "#RangpurMurders",
-        "#BangladeshPolice",
-        "#CrimeNews"
+        "#Rohingya",
+        "#Myanmar",
+        "#Dhaka",
+        "#UN"
       ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/Ganapati%20family%20%281%29.jpg",
+      "image_url": "https://images.unsplash.com/photo-1722871514641-47539a5208ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGhha2ElMjB1cmdlcyUyMHJlbmV3ZWQlMjBnbG9iYWwlMjBkaXBsb21hY3l8ZW58MXwwfHx8MTc5NTY5NDQ5Mnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-26T10:51:38+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 5.2067,
-      "sources": [
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/rangpur-family-murders-police-identify-theft-motive-charge-mugdha-and-siddhartha-4333841",
-          "title": "Rangpur family murders: Police identify theft as motive, charge Mugdha and Siddhartha",
-          "snippet": "Rangpur family murders: Police identify theft as motive, charge Mugdha and Siddhartha"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823116/%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95-%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%A8-%E0%A6%A8%E0%A7%9F-%E0%A6%9A%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%9B%E0%A6%BE%E0%A6%A6%E0%A7%87-%E0%A6%85%E0%A6%AA%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E2%80%94%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F",
-          "title": "মাদক সেবন নয়, চুরির জন্য ছাদে অপেক্ষা—দেখে ফেলায় একে একে ৪ জনকে হত্যা",
-          "snippet": "মাদক সেবন নয়, চুরির জন্য ছাদে অপেক্ষা—দেখে ফেলায় একে একে ৪ জনকে হত্যা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রংপুরে চার খুন: মুগদা ও সিদ্ধার্থের বিরুদ্ধে অভিযোগপত্র দিল পুলিশ",
-        "title_en": "Rangpur murders: Police charge Mugdha and Siddhartha over family killings",
-        "summary_bn": "রংপুরে অবসরপ্রাপ্ত শিক্ষকসহ একই পরিবারের চার সদস্যকে হত্যার ঘটনায় মুগদা ও সিদ্ধার্থ নামের দুই ব্যক্তির বিরুদ্ধে অভিযোগপত্র দিয়েছে পুলিশ।",
-        "summary_en": "Police submitted a charge sheet against two men over the murders of a retired schoolteacher and three family members in Rangpur.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-26T10:51:38+00:00",
-        "lead_bn": "রংপুরে অবসরপ্রাপ্ত শিক্ষকসহ একই পরিবারের চার সদস্যকে হত্যার ঘটনায় মুগদা ও সিদ্ধার্থ নামের দুই ব্যক্তির বিরুদ্ধে অভিযোগপত্র দিয়েছে পুলিশ।",
-        "lead_en": "Police submitted a charge sheet against two men over the murders of a retired schoolteacher and three family members in Rangpur.",
-        "bullets_bn": [
-          "তদন্ত কর্মকর্তা ইন্সপেক্টর জিন্না আলী আদালতে এই অভিযোগপত্র জমা দেন।",
-          "পুলিশের ভাষ্য অনুযায়ী, চুরির উদ্দেশ্যে বাড়িতে ঢুকে মাদক সেবনের পর চারজনকে হত্যা করা হয়।",
-          "অভিযোগপত্রে ৫৩ জনকে সাক্ষী এবং ৬৬টি আলামত অন্তর্ভুক্ত করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "Investigation officer Inspector Zinnat Ali submitted the charge sheet to the court.",
-          "Police stated the accused entered for theft, consumed drugs, and killed all four family members.",
-          "The charge sheet names 53 witnesses and includes 66 pieces of evidence."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "রংপুর মহানগর পুলিশের পক্ষ থেকে এক সংবাদ সম্মেলনে জানানো হয়, ব্যাংক থেকে টাকা তোলার ধারণার বশবর্তী হয়ে এবং ঘরে স্বর্ণালংকার থাকার সন্দেহে অভিযুক্তরা চুরির পরিকল্পনা করেছিল। অপরাধস্থল থেকে সংগৃহীত আলামত ঢাকার সিআইডি ফরোেনসিক ল্যাবরেটরিতে পাঠানো হয়।",
-        "details_en": "Rangpur Metropolitan Police stated in a press conference that the accused planned the theft suspecting gold and withdrawn bank money at the house. Evidence was sent to the CID forensic lab in Dhaka.",
-        "hook_bn": "রংপুরে চারজনকে হত্যার ঘটনায় অভিযোগপত্র",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-26T11:02:21.502111+00:00"
-      }
-    },
-    {
-      "story_id": "adc68147-0a90-5212-83ee-30df148dd1ac",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#AbulKalamAzad",
-        "#NuruzzamanJony",
-        "#ChhatraDal",
-        "#InternationalCrimesTribunal"
-      ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/183252/sp-kalam.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-26T11:01:05.774820+00:00",
+      "published_at": "2026-11-26T11:38:48+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.25,
-      "rank_score": 3.9048,
+      "rank_score": 3.8226,
       "sources": [
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/sp-kalam-arrested-over-killing-of-chhatra-dal-leader",
-          "title": "SP Kalam arrested over killing of Chhatra Dal leader",
-          "snippet": "SP Kalam arrested over killing of Chhatra Dal leader"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/425828/dhaka-urges-renewed-global-efforts-for-rohingya",
+          "title": "Dhaka urges renewed global efforts for Rohingya repatriation",
+          "snippet": "Dhaka urges renewed global efforts for Rohingya repatriation"
         },
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/sp-kalam-arrested-jony-murder-case/",
-          "title": "ক্রসফায়ারে ছাত্রদল নেতা জনি হত্যা মামলায় এসপি কালাম গ্রেপ্তার",
-          "snippet": "ক্রসফায়ারে ছাত্রদল নেতা জনি হত্যা মামলায় এসপি কালাম গ্রেপ্তার"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/asia/2s8woufc6s",
+          "title": "রোহিঙ্গা জেনোসাইড নিয়ে আইসিজের রায়ের পরও মিয়ানমারের জান্তার সঙ্গে যোগাযোগ রাখছে ট্রাম্প প্রশাসন: মার্কিন কংগ্রেসম্যান",
+          "snippet": "রোহিঙ্গা জেনোসাইড নিয়ে আইসিজের রায়ের পরও মিয়ানমারের জান্তার সঙ্গে যোগাযোগ রাখছে ট্রাম্প প্রশাসন: মার্কিন কংগ্র"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ছাত্রদল নেতা জনি হত্যা মামলায় এসপি কালাম গ্রেপ্তার",
-        "title_en": "SP Kalam arrested over killing of Chhatra Dal leader",
-        "summary_bn": "খিলগাঁও থানা ছাত্রদল নেতা নুরুজ্জামান জনিকে বন্দুকযুদ্ধের নামে হত্যার অভিযোগে এসপি আবুল কালাম আজাদকে গ্রেপ্তার করা হয়েছে।",
-        "summary_en": "Superintendent of Police Abul Kalam Azad has been arrested over the alleged killing of Chhatra Dal leader Nuruzzaman Jony in a gunfight.",
+        "title_bn": "রোহিঙ্গা প্রত্যাবাসনে নতুন বৈশ্বিক উদ্যোগের আহ্বান জানিয়েছে ঢাকা",
+        "title_en": "Dhaka urges renewed global efforts for Rohingya repatriation",
+        "summary_bn": "ঢাকা মিয়ানমারে স্বেচ্ছায় ও টেকসই রোহিঙ্গা প্রত্যাবাসনের জন্য নতুন বৈশ্বিক উদ্যোগের আহ্বান জানিয়েছে।",
+        "summary_en": "Dhaka urged renewed global efforts for voluntary and sustainable Rohingya repatriation to Myanmar.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "world_diplomacy",
           "governance_law",
-          "economy_business"
+          "climate_environment"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T11:01:05.774820+00:00",
-        "lead_bn": "খিলগাঁও থানা ছাত্রদল নেতা নুরুজ্জামান জনিকে বন্দুকযুদ্ধের নামে হত্যার অভিযোগে এসপি আবুল কালাম আজাদকে গ্রেপ্তার করা হয়েছে।",
-        "lead_en": "Superintendent of Police Abul Kalam Azad has been arrested over the alleged killing of Chhatra Dal leader Nuruzzaman Jony in a gunfight.",
+        "published_at": "2026-11-26T11:38:48+00:00",
+        "lead_bn": "ঢাকা মিয়ানমারে স্বেচ্ছায় ও টেকসই রোহিঙ্গা প্রত্যাবাসনের জন্য নতুন বৈশ্বিক উদ্যোগের আহ্বান জানিয়েছে।",
+        "lead_en": "Dhaka urged renewed global efforts for voluntary and sustainable Rohingya repatriation to Myanmar.",
         "bullets_bn": [
-          "ঢাকা মেট্রোপলিটন পুলিশের গোয়েন্দা শাখা গাজীপুরের ইন-সার্ভিস ট্রেনিং সেন্টার থেকে তাকে আটক করে।",
-          "আন্তর্জাতিক অপরাধ ট্রাইব্যুনালের চাহিদাপত্রের ভিত্তিতে তাকে আটক করা হয়েছে বলে জানিয়েছেন ডিবি প্রধান শফিকুল ইসলাম।",
-          "২০২৪ সালের সেপ্টেম্বর মাসে নিহতের বাবা খিলগাঁও থানায় ৬২ জনকে আসামি করে মামলা দায়ের করেন।"
+          "আইওএমের সঙ্গে আলোচনায় অভিবাসন পথ, দক্ষতা অংশীদারিত্ব এবং জলবায়ুজনিত বাস্তুচ্যুতি নিয়ে কথা হয়েছে।",
+          "ইউএন উইমেন এবং ইউএনএইচসিআর নারী অধিকার এগিয়ে নিতে তাদের অংশীদারিত্ব নবায়ন করেছে।",
+          "মার্কিন কংগ্রেসের ডেমোক্র্যাট নেতা মিকস দাবি করেছেন ট্রাম্প প্রশাসন মিয়ানমার জান্তার সঙ্গে যোগাযোগ রাখছে।"
         ],
         "bullets_en": [
-          "The Detective Branch of the Dhaka Metropolitan Police apprehended him from the In-Service Training Centre in Gazipur.",
-          "DB chief Shafiqul Islam said he was picked up following a requisition from the International Crimes Tribunal.",
-          "In September 2024, the victim's father filed a case at Khilgaon Police Station naming 62 people as suspects."
+          "Talks with IOM focused on migration pathways, skills partnerships, and climate-related displacement.",
+          "UN Women and UNHCR renewed their partnership to advance women's rights.",
+          "US Congressman Meeks claimed the Trump administration maintains contact with the Myanmar junta."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "মামলার বিবরণ অনুযায়ী, ২০১৫ সালের ১৯ ফেব্রুয়ারি ঢাকা কেন্দ্রীয় কারাগারের সামনে থেকে ছাত্রদল নেতা জনি ও মহিউদ্দিন নামে আরেকজনকে পুলিশ ধরে নিয়ে যায়। ওইদিন রাত সাড়ে তিনটার দিকে খিলগাঁও খেলার মাঠে কথিত বন্দুকযুদ্ধে জনি নিহত হন। অভিযুক্ত আবুল কালাম আজাদ ঝালকাঠি জেলার ২৫তম বিসিএস পুলিশ ব্যাচের কর্মকর্তা এবং গাজীপুরের ইন-সার্ভিস ট্রেনিং সেন্টারে কর্মরত ছিলেন।",
-        "details_en": "According to the case statement, police picked Jony up from outside Dhaka Central Jail on Feb 19, 2015, along with another Chhatra Dal leader named Mohiuddin. Around 3:30 am that night, Jony was allegedly killed at the Khilgaon playground in a staged gunfight. Azad, an officer of the 25th BCS police batch from Jhalakathi district, had been serving at the In-Service Training Centre in Gazipur.",
-        "hook_bn": "ছাত্রদল নেতা জনি হত্যা মামলায় এসপি গ্রেপ্তার",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "রোহিঙ্গা প্রত্যাবাসনে নতুন বৈশ্বিক উদ্যোগের আহ্বান ঢাকার",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
@@ -151,10 +75,91 @@
       "desk_importance": 6.0,
       "outlet_count": 2,
       "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-26T12:01:47.346465+00:00"
+      }
+    },
+    {
+      "story_id": "4cb79a9f-5935-5771-b92a-c857848cd89e",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#BNP",
+        "#TariqueRahman",
+        "#SalahuddinAhmed",
+        "#VictoryMonth"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/12/rizvi.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-26T09:35:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.5,
+      "rank_score": 3.67,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/bnp-hold-rally-1-dec-pm-attend-rizvi-1614676",
+          "title": "BNP to kick off Victory Month progs with rally on 1 Dec, PM to attend: Rizvi",
+          "snippet": "BNP to kick off Victory Month progs with rally on 1 Dec, PM to attend: Rizvi"
+        },
+        {
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/7wnfv7jkee",
+          "title": "১ ডিসেম্বর ঢাকায় বড় সমাবেশ করবে বিএনপি",
+          "snippet": "১ ডিসেম্বর ঢাকায় বড় সমাবেশ করবে বিএনপি"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/823129/%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1-%E0%A6%B0%E2%80%8D%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF-%E0%A6%A6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A7%A7%E0%A7%AC-%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A6%89%E0%A6%A6%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%A8",
+          "title": "গ্র্যান্ড র‍্যালির মধ্য দিয়ে ১৬ ডিসেম্বর উদযাপন করা হবে: সালাহউদ্দিন আহমদ",
+          "snippet": "গ্র্যান্ড র‍্যালির মধ্য দিয়ে ১৬ ডিসেম্বর উদযাপন করা হবে: সালাহউদ্দিন আহমদ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "১ ডিসেম্বর বিজয় মাসের কর্মসূচি শুরু করবে বিএনপি",
+        "title_en": "BNP to begin Victory Month programmes on 1 December",
+        "summary_bn": "বাংলাদেশ জাতীয়তাবাদী দল বিএনপি ১ ডিসেম্বর বড় একটি Rally এর মাধ্যমে মাসব্যাপী বিজয় মাসের কর্মসূচি শুরু করবে।",
+        "summary_en": "The Bangladesh Nationalist Party will begin its month-long Victory Month celebrations with a grand rally on 1 December.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-26T09:35:00+00:00",
+        "lead_bn": "বাংলাদেশ জাতীয়তাবাদী দল বিএনপি ১ ডিসেম্বর বড় একটি Rally এর মাধ্যমে মাসব্যাপী বিজয় মাসের কর্মসূচি শুরু করবে।",
+        "lead_en": "The Bangladesh Nationalist Party will begin its month-long Victory Month celebrations with a grand rally on 1 December.",
+        "bullets_bn": [
+          "প্রধানমন্ত্রী ও বিএনপির চেয়ারম্যান তারেক রহমান এই Rally তে উপস্থিত থাকবেন বলে আশা করা হচ্ছে।",
+          "বিএনপির পক্ষ থেকে এখনো Rally এর স্থান ও সময় ঘোষণা করা হয়নি।",
+          "স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ বলেছেন সরকার ১ ডিসেম্বর থেকে বিজয় মাস পালনের সিদ্ধান্ত নিয়েছে।"
+        ],
+        "bullets_en": [
+          "Prime Minister and BNP Chairman Tarique Rahman is expected to attend the rally.",
+          "The party has yet to announce the venue and timing of the rally.",
+          "Home Minister Salahuddin Ahmed said the government decided to begin observing Victory Month from 1 December."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "২৬ নভেম্বর নয়াপল্টনে দলের কেন্দ্রীয় কার্যালয়ে এক সংবাদ সম্মেলনে বিএনপির ভারপ্রাপ্ত মহাসচিব রুহুল কবির রিজভী কর্মসূচি ঘোষণা করেন এবং জানান যে দলের পক্ষ থেকে প্রস্তুতিমূলক সভা অনুষ্ঠিত হয়েছে।",
+        "details_en": "BNP Acting Secretary General Ruhul Kabir Rizvi announced the programme at a press conference at the party's central office in Nayapaltan on 26 November, adding that a preparatory meeting was held.",
+        "hook_bn": "১ ডিসেম্বর বিজয় মাসের কর্মসূচি শুরু করবে বিএনপি",
+        "kicker_bn": "নতুন তারিখ",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": false,
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-26T11:02:21.502111+00:00"
+        "checked_at": "2026-11-26T12:01:47.346465+00:00"
       }
     }
   ]
