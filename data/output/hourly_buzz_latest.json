@@ -1,155 +1,214 @@
 {
-  "updated_at": "2026-11-26T22:00:44.577481",
-  "total_stories": 2,
+  "updated_at": "2026-11-26T23:00:43.886731",
+  "total_stories": 3,
   "stories": [
     {
-      "story_id": "cc04b5ba-a876-56bd-836e-e7b932c3bd4d",
-      "primary_category": "economy_business",
+      "story_id": "e43f5465-797f-5a39-b0ad-64aa62ce3e2c",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "economy_business",
-        "society_education",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFuZ2xhZGVzaCUyMGJhbmslMjBmaW5hbGl6ZXMlMjB5b3VuZyUyMGJ1c2luZXNzfGVufDF8MHx8fDE3OTU3MzA0ODF8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-26%2Fbp97a2z7%2FCapture.PNG?rect=0%2C92%2C873%2C458&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-26T20:33:25+00:00",
+      "published_at": "2026-11-26T20:26:15+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.3084,
+      "importance_score": 7.25,
+      "rank_score": 4.5275,
       "sources": [
         {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/crime/ttxviwoih3",
+          "title": "পুলিশ বক্সসহ ছয় স্থানে আগুন, গ্রেপ্তার ৩৩৮",
+          "snippet": "পুলিশ বক্সসহ ছয় স্থানে আগুন, গ্রেপ্তার ৩৩৮"
+        },
+        {
           "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823197/%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%A4-%E0%A6%9B%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BE%E0%A6%87-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A7%8B%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A7%A8%E0%A7%A6-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE-%E0%A7%AC%E0%A7%AA%E0%A7%A6",
-          "title": "জামানত ছাড়াই সর্বোচ্চ ২০ লাখ টাকার সুবিধা: ৬৪০ তরুণ উদ্যোক্তা চূড়ান্ত করলো বাংলাদেশ ব্যাংক",
-          "snippet": "জামানত ছাড়াই সর্বোচ্চ ২০ লাখ টাকার সুবিধা: ৬৪০ তরুণ উদ্যোক্তা চূড়ান্ত করলো বাংলাদেশ ব্যাংক"
+          "url": "https://www.ittefaq.com.bd/823191/%E0%A6%86%E0%A6%87%E0%A6%A8%E0%A6%B6%E0%A7%83%E0%A6%99%E0%A7%8D%E0%A6%96%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%80%E0%A6%B0-%E0%A6%AD%E0%A7%87%E0%A6%A4%E0%A6%B0%E0%A7%87%C2%A0%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%8F%E0%A6%B8%E0%A6%AA%E0%A6%BF%E0%A6%B8%E0%A6%B9-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0",
+          "title": "আইনশৃঙ্খলা বাহিনীর ভেতরে নজরদারি, এসপিসহ গ্রেপ্তার ৩",
+          "snippet": "আইনশৃঙ্খলা বাহিনীর ভেতরে নজরদারি, এসপিসহ গ্রেপ্তার ৩"
         }
       ],
       "daily_buzz": {
-        "title_bn": "উদ্যোগ কর্মসূচির প্রথম ধাপে ৬৪০ তরুণ উদ্যোক্তাকে চূড়ান্ত করেছে বাংলাদেশ ব্যাংক।",
-        "title_en": "Bangladesh Bank finalizes 640 young entrepreneurs in the first phase of Udyog program.",
-        "summary_bn": "দেশের গ্রামীণ ও উপজেলা পর্যায়ে নতুন উদ্যোক্তা তৈরি এবং কর্মসংস্থানের সুযোগ বাড়াতে উদ্যোগ কর্মসূচির প্রথম ধাপে ৬৪০ জন তরুণকে চূড়ান্তভাবে নির্বাচন করেছে বাংলাদেশ ব্যাংক।",
-        "summary_en": "Bangladesh Bank has finally selected 640 young people in the first phase of the Udyog program to create new entrepreneurs and increase employment opportunities in rural and upazila levels of the country.",
+        "title_bn": "নাশকতার অভিযোগে ৩৩৮ আওয়ামী লীগ নেতা-কর্মী গ্রেপ্তার",
+        "title_en": "338 Awami League leaders and activists arrested over sabotage",
+        "summary_bn": "দেশজুড়ে বিশেষ অভিযানে কার্যক্রম নিষিদ্ধ আওয়ামী লীগ ও সহযোগী সংগঠনের ৩৩৮ নেতা-কর্মীকে গ্রেপ্তার করেছে পুলিশ।",
+        "summary_en": "Police arrested 338 leaders and activists of the banned Awami League and its affiliates in nationwide special operations.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "society_education",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T20:33:25+00:00",
-        "lead_bn": "দেশের গ্রামীণ ও উপজেলা পর্যায়ে নতুন উদ্যোক্তা তৈরি এবং কর্মসংস্থানের সুযোগ বাড়াতে উদ্যোগ কর্মসূচির প্রথম ধাপে ৬৪০ জন তরুণকে চূড়ান্তভাবে নির্বাচন করেছে বাংলাদেশ ব্যাংক।",
-        "lead_en": "Bangladesh Bank has finally selected 640 young people in the first phase of the Udyog program to create new entrepreneurs and increase employment opportunities in rural and upazila levels of the country.",
+        "published_at": "2026-11-26T20:26:15+00:00",
+        "lead_bn": "দেশজুড়ে বিশেষ অভিযানে কার্যক্রম নিষিদ্ধ আওয়ামী লীগ ও সহযোগী সংগঠনের ৩৩৮ নেতা-কর্মীকে গ্রেপ্তার করেছে পুলিশ।",
+        "lead_en": "Police arrested 338 leaders and activists of the banned Awami League and its affiliates in nationwide special operations.",
         "bullets_bn": [
-          "বাংলাদেশ ব্যাংকের ওয়েবসাইটে ২৬ নভেম্বর এই তালিকা প্রকাশ করা হয়।",
-          "নির্বাচিত উদ্যোক্তারা জামানত ছাড়াই সর্বোচ্চ ১০ লাখ টাকা ঋণের পাশাপাশি বাণিজ্যিক ব্যাংকের সামাজিক দায়বদ্ধতা তহবিল থেকে সুবিধা পাবেন।",
-          "জামানত ছাড়াই সর্বোচ্চ ২০ লাখ টাকার সুবিধার কথা ইত্তেফাক সূত্রে জানা যায়।"
+          "পুলিশ সদর দপ্তরের তথ্য অনুযায়ী, সকাল ৮টা থেকে সকাল ৮.০০ টার মধ্যে এই গ্রেপ্তার অভিযান চালানো হয়।",
+          "রাজধানী থেকে ৫০ জনকে গ্রেপ্তার করা হয়েছে, যার মধ্যে রয়েছেন সাবেক সংসদ সদস্য আনোয়ারুল আজীমের মেয়ে এবং শেখ হাসিনার সাবেক উপ-প্রেস সচিব।",
+          "পরিস্থিতি নিয়ন্ত্রণে ঢাকা ও গোপালগঞ্জসহ সাত জেলায় ১০৯ প্লাটুন বিজিবি মোতায়েন করা হয়েছে।"
         ],
         "bullets_en": [
-          "This list was published on the central bank website on 26 November.",
-          "Selected entrepreneurs will get loans up to 10 lakh taka without collateral along with benefits from commercial banks social responsibility funds.",
-          "The source report mentions facilities of up to 20 lakh taka without collateral."
+          "According to police headquarters, the arrests were made during a special operation between 8 am on Wednesday and 8 am on Thursday.",
+          "Fifty people were arrested from the capital, including the daughter of former MP Anwarul Azim and Sheikh Hasina's former deputy press secretary.",
+          "To control the situation, 109 platoons of BGB were deployed in seven districts including Dhaka and Gopalganj."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "২০২৪ সালের জুলাই গণ-অভ্যুত্থানে ক্ষমতাচ্যুত হয়ে ভারতে পালিয়ে যান শেখ হাসিনা। আন্তর্জাতিক গণমাধ্যমে তাঁর আগামী ১৬ ডিসেম্বর দেশে ফেরার ঘোষণা আসার পর থেকেই কার্যক্রম নিষিদ্ধ আওয়ামী লীগের পক্ষ থেকে অনলাইনে লকডাউনসহ নানা কর্মসূচি ঘোষণা করা হয়। পুলিশ জানিয়েছে, এসব কর্মসূচি ঘিরে দেশের বিভিন্ন স্থানে ককটেল বিস্ফোরণ, সরকারি স্থাপনা ও যানবাহনে আগুন দেওয়া হচ্ছে। এই পরিস্থিতিতে আইনশৃঙ্খলা বাহিনীর ভেতরেও নজরদারি বাড়িয়ে একজন পুলিশ সুপার ও দুইজন অতিরিক্ত পুলিশ সুপারকে গ্রেপ্তার করা হয়েছে।",
+        "details_en": "Sheikh Hasina fled to India after being ousted in the July 2024 mass uprising. Following international media reports of her return to the country on December 16, the banned Awami League announced various programmes including an online lockdown. Police stated that these programmes involved cocktail explosions and arson attacks on government establishments and vehicles across the country. In this situation, surveillance within law enforcement was also increased, leading to the arrest of one Superintendent of Police and two Additional Superintendents of Police.",
+        "hook_bn": "ছয় স্থানে আগুন, গ্রেপ্তার ৩৩৮",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-26T23:01:58.168483+00:00"
+      }
+    },
+    {
+      "story_id": "f5eb3910-efa7-5919-b45d-56b4e4d641ff",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#ChildMarriage",
+        "#Bangladesh"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1779444738981-df3f6e354963?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFuZ2xhZGVzaCUyMHRvcHMlMjBzb3V0aCUyMGFzaWElMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NTczNDA5MHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-26T20:16:47+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.0,
+      "rank_score": 4.1824,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/opinion/op-ed/425881/stolen-childhoods-why-bangladesh-must-scrap",
+          "title": "Stolen childhoods: Why Bangladesh must scrap section 19 of the Child Marriage Act",
+          "snippet": "Stolen childhoods: Why Bangladesh must scrap section 19 of the Child Marriage Act"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাংলাদেশে বাল্যবিবাহের হার শীর্ষে, দক্ষিণ এশিয়ার মধ্যে প্রথম স্থান",
+        "title_en": "Bangladesh tops South Asia in child marriage, with nearly half wed before 18",
+        "summary_bn": "দক্ষিণ এশিয়ার মধ্যে শিশু বিয়েতে শীর্ষস্থানে রয়েছে বাংলাদেশ, যেখানে ১৮ বছর বয়সের আগে বিয়ে হয় প্রায় অর্ধেক তরুণীর।",
+        "summary_en": "Bangladesh tops South Asia in child marriage, with nearly half of young women wed before 18.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-26T20:16:47+00:00",
+        "lead_bn": "দক্ষিণ এশিয়ার মধ্যে শিশু বিয়েতে শীর্ষস্থানে রয়েছে বাংলাদেশ, যেখানে ১৮ বছর বয়সের আগে বিয়ে হয় প্রায় অর্ধেক তরুণীর।",
+        "lead_en": "Bangladesh tops South Asia in child marriage, with nearly half of young women wed before 18.",
+        "bullets_bn": [
+          "বাংলাদেশে ৪ কোটি ৪০ লাখ নারী ও শিশু শৈশবেই বিবাহবন্ধনে আবদ্ধ হয়েছে।",
+          "রাজশাহী ও খুলনা বিভাগে বাল্যবিবাহের হার সবচেয়ে বেশি, যথাক্রমে ৫৮.১৬ শতাংশ এবং ৫৫.৫৭ শতাংশ।",
+          "চাঁপাইনবাবগঞ্জ জেলায় বাল্যবিবাহের হার সর্বোচ্চ ৭৩.২৬ শতাংশ।"
+        ],
+        "bullets_en": [
+          "An estimated 44 million women and girls in Bangladesh were married as children.",
+          "Rates are highest in Rajshahi and Khulna divisions, at 58.16% and 55.57%.",
+          "Chapainawabganj has the highest district rate in the country, standing at 73.26%."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "জামানত ছাড়াই সর্বোচ্চ ২০ লাখ টাকার সুবিধা",
-        "kicker_bn": "নতুন উদ্যোগ",
-        "share_value": true,
-        "question_bn": "গ্রামীণ পর্যায়ে নতুন উদ্যোক্তা তৈরিতে এই উদ্যোগ কতটা ভূমিকা রাখবে বলে আপনি মনে করেন?"
+        "hook_bn": "বাংলাদেশে শিশু বিয়েতে শীর্ষে চাঁপাইনবাবগঞ্জ জেলা",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": "আপনার এলাকায় বাল্যবিবাহ রোধে কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
       },
-      "desk_importance": 6.0,
+      "desk_importance": 7.0,
       "outlet_count": 1,
       "trending": false,
       "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-26T22:01:57.773973+00:00"
+        "checked_at": "2026-11-26T23:01:58.168483+00:00"
       }
     },
     {
-      "story_id": "ab15f0a0-350d-53e5-9afa-da25c5693c85",
-      "primary_category": "society_education",
+      "story_id": "a44897a2-0906-509d-8f4e-071798b92f83",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "society_education"
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#MatiaBanuShuku",
-        "#NationalFilmAward"
+        "#BangladeshBank",
+        "#Remittance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1625643268477-838321f445bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bmF0aW9uYWwlMjBmaWxtJTIwYXdhcmQlMjB3aW5uaW5nJTIwZWR1Y2F0aW9ufGVufDF8MHx8fDE3OTU3MzA0OTh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/merged/merged_eb7375d91e044c81ec93020061e5b6b1.jpg",
       "image_caption": null,
-      "published_at": "2026-11-26T20:09:38+00:00",
+      "published_at": "2026-11-26T23:01:00.127819+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.717,
+      "importance_score": 6.0,
+      "rank_score": 3.599,
       "sources": [
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/425880/national-film-award-winner-matia-banu-shuku-passes",
-          "title": "National Film Award winner Matia Banu Shuku passes away",
-          "snippet": "National Film Award winner Matia Banu Shuku passes away"
-        },
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/capital/post-1226428/",
-          "title": "না ফেরার দেশে চলচ্চিত্র নির্মাতা শুকু",
-          "snippet": "না ফেরার দেশে চলচ্চিত্র নির্মাতা শুকু"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/last-tribute-shukku-bakultala-shaheed-minar/",
-          "title": "বকুলতলা ও শহীদ মিনারে শেষ শ্রদ্ধা, উত্তরায় সমাহিত হবেন শুকু",
-          "snippet": "বকুলতলা ও শহীদ মিনারে শেষ শ্রদ্ধা, উত্তরায় সমাহিত হবেন শুকু"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/economy/remittance-rises-52pc-to-257b-in-first-25-days-of-november",
+          "title": "Remittance rises 5.2pc to $2.57b in first 25 days of November",
+          "snippet": "Remittance rises 5.2pc to $2.57b in first 25 days of November"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জাতীয় চলচ্চিত্র পুরস্কারপ্রাপ্ত নির্মাতা মাতিয়া বানু শুকু মারা গেছেন",
-        "title_en": "National Film Award winning director Matia Banu Shuku passes away",
-        "summary_bn": "জাতীয় চলচ্চিত্র পুরস্কারপ্রাপ্ত প্রযোজক, পরিচালক ও চিত্রনাট্যকার মাতিয়া বানু শুকু ৫৬ বছর বয়সে ঢাকার একটি হাসপাতালে মারা গেছেন।",
-        "summary_en": "National Film Award winning producer, director and screenwriter Matia Banu Shuku has passed away at a hospital in Dhaka at the age of 56.",
+        "title_bn": "নভেম্বরের প্রথম ২৫ দিনে রেমিট্যান্স বেড়েছে ৫.২ শতাংশ।",
+        "title_en": "Remittance rises 5.2pc in first 25 days of November.",
+        "summary_bn": "বাংলাদেশ ব্যাংকের তথ্য অনুযায়ী, নভেম্বর মাসের প্রথম ২৫ দিনে প্রবাসী বাংলাদেশিরা ২ দশমিক ৫৬৭ বিলিয়ন মার্কিন ডলার রেমিট্যান্স পাঠিয়েছেন।",
+        "summary_en": "Expatriate Bangladeshis sent home US$2.567 billion in remittances during the first 25 days of November 2026, according to Bangladesh Bank data.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T20:09:38+00:00",
-        "lead_bn": "জাতীয় চলচ্চিত্র পুরস্কারপ্রাপ্ত প্রযোজক, পরিচালক ও চিত্রনাট্যকার মাতিয়া বানু শুকু ৫৬ বছর বয়সে ঢাকার একটি হাসপাতালে মারা গেছেন।",
-        "lead_en": "National Film Award winning producer, director and screenwriter Matia Banu Shuku has passed away at a hospital in Dhaka at the age of 56.",
+        "published_at": "2026-11-26T23:01:00.127819+00:00",
+        "lead_bn": "বাংলাদেশ ব্যাংকের তথ্য অনুযায়ী, নভেম্বর মাসের প্রথম ২৫ দিনে প্রবাসী বাংলাদেশিরা ২ দশমিক ৫৬৭ বিলিয়ন মার্কিন ডলার রেমিট্যান্স পাঠিয়েছেন।",
+        "lead_en": "Expatriate Bangladeshis sent home US$2.567 billion in remittances during the first 25 days of November 2026, according to Bangladesh Bank data.",
         "bullets_bn": [
-          "সাংস্কৃতিকর্মী এরশাদুল হক শুকুর মৃত্যুর বিষয়টি নিশ্চিত করেছেন।",
-          "তিনি ক্যানসার ও কিডনির জটিলতায় দীর্ঘ দিন ধরে ভুগছিলেন।",
-          "ঢাকা বিশ্ববিদ্যালয়ের চারুকলা অনুষদের বকুলতলা ও কেন্দ্রীয় শহীদ মিনারে তার শেষ শ্রদ্ধা জানানো হবে।"
+          "নভেম্বর মাসের এই সময়ে রেমিট্যান্স প্রবাহে ৫ দশমিক ২ শতাংশ বছরওয়ারি প্রবৃদ্ধি হয়েছে।",
+          "কেন্দ্রীয় ব্যাংকের তথ্য অনুযায়ী, শুধু ২৫ নভেম্বর দেশ ৬৯ মিলিয়ন ডলার inward remittance পেয়েছে।",
+          "চলতি অর্থবছরের পহেলা জুলাই থেকে ২৫ নভেম্বর পর্যন্ত মোট রেমিট্যান্স প্রবাহ দাঁড়িয়েছে ১৪ দশমিক ০৩৮ বিলিয়ন ডলার।"
         ],
         "bullets_en": [
-          "Cultural activist Ershadul Haque confirmed the death.",
-          "She had long been battling cancer and kidney complications.",
-          "Her remains will be taken to Charukola Bokultola at Dhaka University and Central Shaheed Minar for final tributes."
+          "The inflow posted a 5.2 per cent year-on-year growth during the period.",
+          "On November 25 alone, the country received $69 million through official banking channels, central bank figures showed.",
+          "Cumulative remittance inflows from July 1 to November 25 reached $14.038 billion."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ঢাকা বিশ্ববিদ্যালয়ের চারুকলা অনুষদের বকুলতলায় ও কেন্দ্রীয় শহীদ মিনারে শ্রদ্ধা নিবেদনের পর নাট্যকার ও নির্মাতা মাতিয়া বানু শুকুর জানাজা ও দাফনের সময়সূচি চূড়ান্ত করা হয়েছে। তার ঘনিষ্ঠজন ও সংস্কৃতি কর্মী এরশাদুল হক টিংকু জানান, তার মরদেহ উত্তরায় দাফন করা হবে।",
-        "details_en": "Following tributes at Dhaka University's Charukola Bokultola and the Central Shaheed Minar, the schedule for playwright and director Matia Banu Shuku's janaza and burial has been finalised. Her close associate and cultural activist Ershadul Haque Tinku stated that her body will be buried in Uttara.",
-        "hook_bn": "না ফেরার দেশে নির্মাতা মাতিয়া বানু শুকু",
+        "details_bn": "বাংলাদেশ ব্যাংকের তথ্য অনুযায়ী, ২০২৫ সালের ১ থেকে ২৫ নভেম্বর পর্যন্ত সময়ের মধ্যে রেমিট্যান্স প্রবাহ ছিল ২ দশমিক ৪৪১ বিলিয়ন ডলার। বর্তমান অর্থবছরের চলতি সময়ের এই আয় আগের অর্থবছরের একই সময়ের ১২ দশমিক ৫৯০ বিলিয়ন ডলারের তুলনায় ১১ দশমিক ৫ শতাংশ বেশি।",
+        "details_en": "During the November 1-25 period in 2025, remittance inflows stood at $2.441 billion. Cumulative inflows during the July 1 to November 25 period of the current fiscal year were up 11.5 per cent from $12.590 billion recorded during the corresponding period of FY26.",
+        "hook_bn": "নভেম্বরের ২৫ দিনে রেমিট্যান্স ২.৫৬ বিলিয়ন ডলার",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 5.0,
-      "outlet_count": 3,
+      "desk_importance": 6.0,
+      "outlet_count": 1,
       "trending": false,
-      "social_appeal": 5.0,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-26T22:01:57.773973+00:00"
+        "checked_at": "2026-11-26T23:01:58.168483+00:00"
       }
     }
   ]
