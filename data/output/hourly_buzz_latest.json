@@ -1,302 +1,225 @@
 {
-  "updated_at": "2026-11-27T03:00:46.902892",
-  "total_stories": 4,
+  "updated_at": "2026-11-27T04:00:52.970103",
+  "total_stories": 3,
   "stories": [
     {
-      "story_id": "4efb1d8f-09dc-5f4b-b589-bbea338fca1b",
-      "primary_category": "climate_environment",
+      "story_id": "bf616cea-9090-5ee2-9076-fd49bd4a11a9",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "climate_environment",
-        "economy_business",
-        "governance_law"
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Climate",
-        "#Environment"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1720348463647-2b0e943dad2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bmludGglMjBmaW5hbCUyMHNoaXBtZW50JTIwbnVjbGVhciUyMGVudmlyb25tZW50fGVufDF8MHx8fDE3OTU3NDg0OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z29sZCUyMGpld2VscnklMjBwcmljZXMlMjBiZWVuJTIwYnVzaW5lc3N8ZW58MXwwfHx8MTc5NTc1MjA3Nnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-27T02:52:21+00:00",
+      "published_at": "2026-11-27T03:36:37+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 5.2104,
+      "importance_score": 8.5,
+      "rank_score": 7.0557,
       "sources": [
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823207/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%81%E0%A6%9B%E0%A6%BE%E0%A6%B2-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%A3%E0%A6%AC%E0%A6%BF%E0%A6%95-%E0%A6%9C%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE-%E0%A6%93-%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A8",
-          "title": "রূপপুরে পৌঁছাল পারমাণবিক জ্বালানির নবম ও শেষ চালান",
-          "snippet": "রূপপুরে পৌঁছাল পারমাণবিক জ্বালানির নবম ও শেষ চালান"
-        },
-        {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1184213",
-          "title": "রূপপুরে পৌঁছাল ইউরেনিয়ামের শেষ চালান",
-          "snippet": "রূপপুরে পৌঁছাল ইউরেনিয়ামের শেষ চালান"
+          "url": "https://www.jagonews24.com/economy/news/1184222",
+          "title": "সোনার দাম আরও বাড়লো",
+          "snippet": "সোনার দাম আরও বাড়লো"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রূপপুরে পৌঁছাল পারমাণবিক জ্বালানির নবম ও শেষ চালান",
-        "title_en": "Ninth and final shipment of nuclear fuel reaches Rooppur",
-        "summary_bn": "দেশের প্রথম পারমাণবিক বিদ্যুৎকেন্দ্র রূপপুরের জন্য রাশিয়া থেকে আমদানি করা ইউরেনিয়ামের নবম ও শেষ চালান প্রকল্প এলাকায় পৌঁছেছে।",
-        "summary_en": "The ninth and final shipment of uranium imported from Russia for the Rooppur nuclear power plant has arrived.",
+        "title_bn": "দেশের বাজারে সোনার গহনার দাম আরও বাড়ানো হয়েছে।",
+        "title_en": "Gold jewelry prices have been increased further in the domestic market.",
+        "summary_bn": "দেশের বাজারে সোনার গহনার দাম আরও বাড়ানো হয়েছে এবং সবচেয়ে ভালো মানের প্রতি ভরি সোনার দাম ১ হাজার ৫০ টাকা বাড়ানো হয়েছে।",
+        "summary_en": "Gold jewelry prices have been increased further in the domestic market, with the price of the best quality per bhori raised by 1,050 taka.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "climate_environment",
-          "economy_business",
-          "governance_law"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T02:52:21+00:00",
-        "lead_bn": "দেশের প্রথম পারমাণবিক বিদ্যুৎকেন্দ্র রূপপুরের জন্য রাশিয়া থেকে আমদানি করা ইউরেনিয়ামের নবম ও শেষ চালান প্রকল্প এলাকায় পৌঁছেছে।",
-        "lead_en": "The ninth and final shipment of uranium imported from Russia for the Rooppur nuclear power plant has arrived.",
+        "published_at": "2026-11-27T03:36:37+00:00",
+        "lead_bn": "দেশের বাজারে সোনার গহনার দাম আরও বাড়ানো হয়েছে এবং সবচেয়ে ভালো মানের প্রতি ভরি সোনার দাম ১ হাজার ৫০ টাকা বাড়ানো হয়েছে।",
+        "lead_en": "Gold jewelry prices have been increased further in the domestic market, with the price of the best quality per bhori raised by 1,050 taka.",
         "bullets_bn": [
-          "২৭ নভেম্বর ভোর ৫টা ৪৮ মিনিটে ইউরেনিয়ামবাহী তিনটি বিশেষায়িত লরি রূপপুর প্রকল্প এলাকায় প্রবেশ করে।",
-          "সেনাবাহিনীর তত্ত্বাবধানে ও আইনশৃঙ্খলা রক্ষাকারী বাহিনীর কঠোর নিরাপত্তার মধ্য দিয়ে লরিগুলো প্রকল্প এলাকায় প্রবেশ করে।",
-          "এর মধ্য দিয়ে কেন্দ্রটির দুটি ইউনিটের জন্য নির্ধারিত পারমাণবিক জ্বালানি আমদানির প্রক্রিয়া শেষ হলো।"
+          "দেশের বাজারে সোনার গহনার দাম আরও বাড়ানো হয়েছে।",
+          "সবচেয়ে ভালো মানের বা ২২ ক্যারেটের প্রতি ভরি সোনার গহনার দাম বাড়ানো হয়েছে ১ হাজার ৫০ টাকা।",
+          "প্রতি ভরি সোনার পরিমাণ ১১ দশমিক ৬৬৪ গ্রাম।"
         ],
         "bullets_en": [
-          "Three specialized lorries carrying uranium entered the Rooppur project area at 5:48 am November 27.",
-          "The lorries entered the project area under the supervision of the army and strict security of law enforcement agencies.",
-          "This concludes the process of importing nuclear fuel designated for the two units of the plant."
+          "Gold jewelry prices have been increased further in the domestic market.",
+          "The price of the best quality or 22-karat gold jewelry per bhori has been increased by 1,050 taka.",
+          "Each bhori of gold measures 11.664 grams."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "রূপপুরে পৌঁছাল ইউরেনিয়ামের শেষ চালান",
-        "kicker_bn": "ব্রেকিং",
-        "share_value": false,
-        "question_bn": null
+        "hook_bn": "সোনার দাম আরও বাড়লো",
+        "kicker_bn": "দাম বাড়ছে",
+        "share_value": true,
+        "question_bn": "সোনার দাম বাড়ার এই পরিস্থিতিতে গহনা কেনার ক্ষেত্রে আপনার পরিকল্পনা কী?"
       },
-      "desk_importance": 7.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 6.0,
+      "desk_importance": 8.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 9.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T03:01:55.990106+00:00"
+        "checked_at": "2026-11-27T04:01:40.220850+00:00"
       }
     },
     {
-      "story_id": "4f988567-2d0d-5104-b3ae-e9fe0c4d2244",
-      "primary_category": "governance_law",
+      "story_id": "bc2fa12c-a23a-5c3a-bd5a-c835671544c8",
+      "primary_category": "society_education",
       "interest_categories": [
-        "governance_law",
-        "society_education"
+        "society_education",
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#HSC",
+        "#EducationMinistry",
+        "#ANMEhsanulHoqueMilon"
       ],
-      "image_url": "https://images.unsplash.com/photo-1639736921908-4fc1e56370ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YXdhbWklMjBsZWFndWUlMjBjYXJyaWVkJTIwb3V0JTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1NzQ4NDk4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/09/23/milon.jpg",
       "image_caption": null,
-      "published_at": "2026-11-27T02:27:32+00:00",
+      "published_at": "2026-11-27T02:25:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.7426,
+      "importance_score": 6.0,
+      "rank_score": 3.2814,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1184209",
-          "title": "গোপালগঞ্জে কোথায় কোথায় হামলা-ভাঙচুর, কত কোটি টাকার ক্ষতি",
-          "snippet": "গোপালগঞ্জে কোথায় কোথায় হামলা-ভাঙচুর, কত কোটি টাকার ক্ষতি"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/education/hsc-answer-scripts-behind-changed-results-be-re-evaluated-education-minister",
+          "title": "HSC answer scripts behind changed results to be re-evaluated: Education minister",
+          "snippet": "HSC answer scripts behind changed results to be re-evaluated: Education minister"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গোপালগঞ্জে আওয়ামী লীগের ধারাবাহিক হামলা, ভাঙচুর ও অগ্নিসংযোগ হয়েছে",
-        "title_en": "Awami League carried out continuous attacks, vandalism and arson in Gopalganj",
-        "summary_bn": "গোপালগঞ্জে ১০ থেকে ২৫ নভেম্বর আওয়ামী লীগের ধারাবাহিক হামলা, ভাঙচুর ও অগ্নিসংযোগে বাড়িঘর ও সরকারি স্থাপনা ক্ষতিগ্রস্ত হয়েছে।",
-        "summary_en": "Houses and government establishments were damaged in continuous attacks, vandalism and arson by Awami League in Gopalganj from 10 to 25 November.",
+        "title_bn": "এইচএসসি পরীক্ষার ফল পরিবর্তনের উত্তরপত্র পুনরায় মূল্যায়ন করা হবে",
+        "title_en": "HSC answer scripts behind changed results to be re-evaluated",
+        "summary_bn": "পুনর্নিরীক্ষার পর ফলাফল পরিবর্তিত হওয়া এইচএসসি পরীক্ষার্থীদের উত্তরপত্রগুলো আবার পর্যালোচনা করা হবে বলে জানিয়েছেন শিক্ষা মন্ত্রী এএনএম এহসানুল হক মিলন।",
+        "summary_en": "Answer scripts of students whose Higher Secondary Certificate examination results changed following re-scrutiny will be reviewed again, Education Minister ANM Ehsanul Hoque Milon said.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "society_education"
+          "society_education",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T02:27:32+00:00",
-        "lead_bn": "গোপালগঞ্জে ১০ থেকে ২৫ নভেম্বর আওয়ামী লীগের ধারাবাহিক হামলা, ভাঙচুর ও অগ্নিসংযোগে বাড়িঘর ও সরকারি স্থাপনা ক্ষতিগ্রস্ত হয়েছে।",
-        "lead_en": "Houses and government establishments were damaged in continuous attacks, vandalism and arson by Awami League in Gopalganj from 10 to 25 November.",
+        "published_at": "2026-11-27T02:25:00+00:00",
+        "lead_bn": "পুনর্নিরীক্ষার পর ফলাফল পরিবর্তিত হওয়া এইচএসসি পরীক্ষার্থীদের উত্তরপত্রগুলো আবার পর্যালোচনা করা হবে বলে জানিয়েছেন শিক্ষা মন্ত্রী এএনএম এহসানুল হক মিলন।",
+        "lead_en": "Answer scripts of students whose Higher Secondary Certificate examination results changed following re-scrutiny will be reviewed again, Education Minister ANM Ehsanul Hoque Milon said.",
         "bullets_bn": [
-          "হামলা ও ভাঙচুরের ঘটনায় বাড়িঘর ও ব্যবসা প্রতিষ্ঠান ক্ষতিগ্রস্ত হয়েছে।",
-          "হামলার শিকার স্থানের মধ্যে এমপিদের বাসভবন, থানা ও হাসপাতাল রয়েছে।",
-          "সরকারি স্থাপনাতেও হামলা, ভাঙচুর ও অগ্নিসংযোগের ঘটনা ঘটেছে।"
+          "অবহেলা বা ভুলের জন্য দায়ী পরীক্ষকদের বিরুদ্ধে শৃঙ্খলামূলক ব্যবস্থা নেওয়া হবে এবং প্রশিক্ষণের ব্যবস্থা করা হবে।",
+          "ফলাফল পরিবর্তনের কারণ জানতে উত্তরপত্রগুলো বিভিন্ন শিক্ষা বোর্ডের মধ্যে অদলবদল করে পুনরায় মূল্যায়ন করা হচ্ছে।",
+          "পরীক্ষকের ভুলের কারণে ভালো করা শিক্ষার্থীর কম নম্বর পাওয়া অগ্রহণযোগ্য বলে উল্লেখ করেন মন্ত্রী।"
         ],
         "bullets_en": [
-          "Houses and business establishments were damaged in the attacks and vandalism.",
-          "The targeted locations include MPs residences, police stations and hospitals.",
-          "Government establishments also faced attacks, vandalism and arson."
+          "Examiners responsible for changes caused by negligence or errors will face disciplinary action and training programmes.",
+          "Answer scripts from different education boards whose results changed have been sent to other boards for fresh evaluation.",
+          "The minister said it was unacceptable for a student who performed well to receive a lower-than-expected result due to an examiner's mistake."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "১০ থেকে ২৫ নভেম্বর সময়কালে গোপালগঞ্জে বিভিন্ন স্থানে হামলা, ভাঙচুর ও অগ্নিসংযোগের ঘটনা ঘটে। এর ফলে বাড়িঘর, ব্যবসা প্রতিষ্ঠান, এমপিদের বাসভবন, থানা, হাসপাতাল এবং সরকারি স্থাপনায় ব্যাপক ক্ষয়ক্ষতি হয়েছে। প্রতিবেদনে কোন উপজেলায় কোথায় হামলা এবং কত টাকার ক্ষতি হয়েছে তার বিস্তারিত তুলে ধরা হয়েছে।",
-        "details_en": "Incidents of attacks, vandalism and arson took place at various places in Gopalganj between 10 and 25 November. This caused extensive damage to houses, business establishments, MPs residences, police stations, hospitals and government establishments. The report details where attacks took place in each upazila and the extent of financial loss.",
-        "hook_bn": "গোপালগঞ্জে ব্যাপক হামলা ভাঙচুর অগ্নিসংযোগ",
-        "kicker_bn": null,
+        "details_bn": "আন্তর্জাতিক মাতৃভাষা ইনস্টিটিউটে শিক্ষা রিপোর্টার্স অ্যাসোসিয়েশন অব বাংলাদেশের নতুন কমিটির অভিষেক অনুষ্ঠানে প্রধান অতিথির বক্তব্যে শিক্ষা মন্ত্রী বলেন, এসএসসি পরীক্ষার ফল পুনর্নিরীক্ষার পরেও এমন পরিবর্তন হয়েছিল যেখানে অনেকে পাস করেছে বা জিপিএ-৫ পেয়েছে।",
+        "details_en": "Speaking as the chief guest at the induction ceremony of the new committee of the Education Reporters Association, Bangladesh at the International Mother Language Institute, the education minister said results had also changed following re-scrutiny of SSC examination papers.",
+        "hook_bn": "ফল পরিবর্তনের কারণ খতিয়ে দেখা হবে",
+        "kicker_bn": "সতর্কতা",
         "share_value": false,
-        "question_bn": null
+        "question_bn": "শিক্ষার্থীদের উত্তরপত্র মূল্যায়নে ভুলের পুনরাবৃত্তি রোধে আর কী করা উচিত বলে আপনি মনে করেন?"
       },
-      "desk_importance": 7.0,
+      "desk_importance": 6.0,
       "outlet_count": 1,
       "trending": false,
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T03:01:55.990106+00:00"
+        "checked_at": "2026-11-27T04:01:40.220850+00:00"
       }
     },
     {
-      "story_id": "df7189c3-4a50-50de-992a-6479505d2f0f",
-      "primary_category": "sports_fitness",
+      "story_id": "183ae24d-af7c-55d4-8452-258682efe255",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "sports_fitness",
-        "governance_law"
+        "world_diplomacy",
+        "economy_business"
       ],
-      "region": "national",
+      "region": "international",
       "tags": [
-        "#Sports",
-        "#BangladeshCricket"
+        "#DonaldTrump",
+        "#VladimirPutin",
+        "#Ukraine",
+        "#Europe"
       ],
-      "image_url": "https://images.unsplash.com/photo-1528162841823-9e55a8cc2f58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmZmJTIwbW92ZXMlMjBkb21lc3RpYyUyMGxlYWd1ZSUyMHNwb3J0c3xlbnwxfDB8fHwxNzk1NzQ4NTA0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/27/screenshot_2026-11-27_084819.png",
       "image_caption": null,
-      "published_at": "2026-11-27T02:53:06+00:00",
+      "published_at": "2026-11-27T02:50:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5712,
+      "importance_score": 6.25,
+      "rank_score": 3.6473,
       "sources": [
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823208/%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%98%E0%A6%B0%E0%A7%8B%E0%A7%9F%E0%A6%BE-%E0%A6%B2%E0%A6%BF%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9A-%E0%A6%B8%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B2%E0%A7%8B-%E0%A6%AC%E0%A6%BE%E0%A6%AB%E0%A7%81%E0%A6%AB%E0%A7%87",
-          "title": "গোপালগঞ্জ থেকে ঘরোয়া লিগের ম্যাচ সরিয়ে নিলো বাফুফে",
-          "snippet": "গোপালগঞ্জ থেকে ঘরোয়া লিগের ম্যাচ সরিয়ে নিলো বাফুফে"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/world/trump-says-he-asked-putin-pull-back-military-aggression-throughout-europe-1615441",
+          "title": "Trump says he asked Putin to 'pull back' military aggression throughout Europe",
+          "snippet": "Trump says he asked Putin to 'pull back' military aggression throughout Europe"
+        },
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
+          "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+          "snippet": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1184223",
+          "title": "পুতিনকে ‘সামরিক আগ্রাসন’ বন্ধের আহ্বান জানালেন ট্রাম্প",
+          "snippet": "পুতিনকে ‘সামরিক আগ্রাসন’ বন্ধের আহ্বান জানালেন ট্রাম্প"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আইনশৃঙ্খলা উদ্বেগের কারণে গোপালগঞ্জ থেকে ঘরোয়া লিগের ম্যাচ সরিয়ে নিলো বাফুফে।",
-        "title_en": "BFF moves domestic league matches from Gopalganj over law and order concerns.",
-        "summary_bn": "আইনশৃঙ্খলা পরিস্থিতির উদ্বেগের মধ্যে বাংলাদেশ ফুটবল ফেডারেশন গোপালগঞ্জ থেকে ঘরোয়া ফুটবল লিগের ম্যাচ সরিয়ে নিয়েছে।",
-        "summary_en": "Bangladesh football federation moved domestic football league matches from Gopalganj amid law and order concerns.",
+        "title_bn": "ইউরোপে রুশ সামরিক আগ্রাসন বন্ধ করতে পুতিনকে বলেছেন ট্রাম্প",
+        "title_en": "Trump says he asked Putin to pull back military aggression in Europe",
+        "summary_bn": "ইউরোপজুড়ে রাশিয়ার সামরিক আগ্রাসন বন্ধ করার জন্য রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিনের প্রতি আহ্বান জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+        "summary_en": "US President Donald Trump said he told Russian leader Vladimir Putin he would like to see Russia pull back military aggression throughout Europe.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness",
-          "governance_law"
+          "world_diplomacy",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T02:53:06+00:00",
-        "lead_bn": "আইনশৃঙ্খলা পরিস্থিতির উদ্বেগের মধ্যে বাংলাদেশ ফুটবল ফেডারেশন গোপালগঞ্জ থেকে ঘরোয়া ফুটবল লিগের ম্যাচ সরিয়ে নিয়েছে।",
-        "lead_en": "Bangladesh football federation moved domestic football league matches from Gopalganj amid law and order concerns.",
+        "published_at": "2026-11-27T02:50:00+00:00",
+        "lead_bn": "ইউরোপজুড়ে রাশিয়ার সামরিক আগ্রাসন বন্ধ করার জন্য রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিনের প্রতি আহ্বান জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+        "lead_en": "US President Donald Trump said he told Russian leader Vladimir Putin he would like to see Russia pull back military aggression throughout Europe.",
         "bullets_bn": [
-          "প্রথম লেগের বাকি ম্যাচগুলো আর গোপালগঞ্জে আয়োজন করা হবে না।",
-          "বাফুফের লিগ কমিটির জরুরি সভায় এ সিদ্ধান্ত নেওয়া হয়েছে।",
-          "ভেন্যু পরিবর্তনের সিদ্ধান্তে নতুন করে ভাবতে হচ্ছে হোম দল ব্রাদার্স ইউনিয়ন ও আরামবাগ ক্রীড়া সংঘকে।"
+          "ট্রাম্প আশা করছেন এতে রাশিয়া ও ইউক্রেনের মধ্যে দ্রুত একটি চুক্তি হতে পারে।",
+          "ট্রাম্প বলেছেন প্রতি মাসে হাজার হাজার মানুষ নিহত হচ্ছে এবং এটি সম্পূর্ণ রক্তগঙ্গা।",
+          "আলোচনার ক্ষেত্রে সবচেয়ে বড় সমস্যা দুই নেতার একে অপরকে ঘৃণা করা বলে জানান ট্রাম্প।"
         ],
         "bullets_en": [
-          "The remaining matches of the first leg will no longer be held in Gopalganj.",
-          "The decision was taken in an emergency meeting of the BFF league committee.",
-          "The venue change forces home teams Brothers Union and Arambagh Krira Sangha to rethink."
+          "Trump expressed hope that this could lead to a quick settlement of the war in Ukraine.",
+          "Trump stated that thousands of people are being killed each and every month in a complete bloodbath.",
+          "Trump said the biggest problem to a settlement is the fact that the two leaders really hate each other."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "আইনশৃঙ্খলা পরিস্থিতি নিয়ে উদ্বেগের মধ্যে বাংলাদেশ ফুটবল ফেডারেশন গোপালগঞ্জ থেকে ঘরোয়া ফুটবল লিগের ম্যাচ সরিয়ে নেওয়ার সিদ্ধান্ত নিয়েছে। প্রথম লেগের বাকি ম্যাচগুলো আর গোপালগঞ্জে আয়োজন করা হবে না। ভেন্যু পরিবর্তনের সিদ্ধান্তে নতুন করে ভাবতে হচ্ছে হোম দল ব্রাদার্স ইউনিয়ন ও আরামবাগ ক্রীড়া সংঘকে। বাফুফের লিগ কমিটির জরুরি সভায় এ সিদ্ধান্ত নেওয়া হয়েছে এবং কমিটির ডেপুটি চেয়ারম্যান জাকির হোসেন।",
-        "details_en": "Amid concerns over the law and order situation, the Bangladesh Football Federation decided to shift domestic football league matches from Gopalganj. The remaining matches of the first leg will not be held in Gopalganj anymore. The venue change forces home teams Brothers Union and Arambagh Krira Sangha to rethink. This decision was made in an emergency meeting of the BFF league committee, with committee deputy chairman Zakir Hossain.",
-        "hook_bn": "গোপালগঞ্জ থেকে ঘরোয়া লিগের ম্যাচ সরিয়ে নিলো বাফুফে",
-        "kicker_bn": "ভোট বা ভেন্যু পরিবর্তন",
+        "details_bn": "২০২২ সালে ইউক্রেনে রাশিয়ার আগ্রাসন শুরুর পর থেকে অন্য দেশগুলো মাঝে মাঝে রাশিয়ার বিরুদ্ধে উসকানিমূলক আচরণের অভিযোগ তুলেছে। ফ্লোরিডার পাম বিচে মার-এ-লাগো ক্লাবে ট্রাম্প জানান যে তিনি জানেন না আগামী মাসের ফ্লোরিডার জি২০ বৈঠকে পুতিন যোগ দেবেন কি না।",
+        "details_en": "Since the Russian invasion of Ukraine started in 2022, other countries have occasionally accused Russia of provocative behavior. Trump told reporters at his Mar-a-Lago club in Florida that he did not know whether Putin would attend next month's G20 meeting.",
+        "hook_bn": "ইউরোপে সামরিক আগ্রাসন বন্ধ করুন",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 6.0,
-      "outlet_count": 1,
+      "outlet_count": 3,
       "trending": false,
       "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T03:01:55.990106+00:00"
-      }
-    },
-    {
-      "story_id": "45329a05-2fc3-5313-bd48-fd060e497c8d",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#USStorm",
-        "#Thanksgiving",
-        "#FlightDelays"
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-27T00:52:11+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.671,
-      "sources": [
-        {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-          "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-          "snippet": "Major Thanksgiving storm brings flooding, flight delays across US"
-        },
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/major-storm-batters-us-on-thanksgiving-holiday-400-flights-cancelled/article71749233.ece",
-          "title": "Major storm batters U.S. on Thanksgiving holiday; 400 flights cancelled",
-          "snippet": "Major storm batters U.S. on Thanksgiving holiday; 400 flights cancelled"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823210/%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87-%E0%A6%9D%E0%A7%9C%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A7%AE-%E0%A6%B2%E0%A6%BE%E0%A6%96%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%BF",
-          "title": "যুক্তরাষ্ট্রে ঝড়ে বিদ্যুৎবিচ্ছিন্ন ৮ লাখের বেশি গ্রাহক, বাতিল ৪০০ ফ্লাইট",
-          "snippet": "যুক্তরাষ্ট্রে ঝড়ে বিদ্যুৎবিচ্ছিন্ন ৮ লাখের বেশি গ্রাহক, বাতিল ৪০০ ফ্লাইট"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "যুক্তরাষ্ট্রে শক্তিশালী ঝড়ে ফ্লাইট বাতিল ও বিদ্যুৎবিচ্ছিন্ন লাখ লাখ গ্রাহক",
-        "title_en": "Major storm in US causes flight cancellations and widespread power outages",
-        "summary_bn": "যুক্তরাষ্ট্রে থ্যাংকসগিভিং দিবসে শক্তিশালী ঝড়ের কারণে চারশোর বেশি ফ্লাইট বাতিল এবং প্রায় দশ লাখ গ্রাহক বিদ্যুৎহীন হয়ে পড়েছেন।",
-        "summary_en": "A massive storm hitting the US on Thanksgiving has caused over 400 flight cancellations and left nearly one million households without power.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T00:52:11+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রে থ্যাংকসগিভিং দিবসে শক্তিশালী ঝড়ের কারণে চারশোর বেশি ফ্লাইট বাতিল এবং প্রায় দশ লাখ গ্রাহক বিদ্যুৎহীন হয়ে পড়েছেন।",
-        "lead_en": "A massive storm hitting the US on Thanksgiving has caused over 400 flight cancellations and left nearly one million households without power.",
-        "bullets_bn": [
-          "নিউ জার্সি ও নিউ ইয়র্ক সিটিতে জরুরি অবস্থা ঘোষণা করা হয়েছে।",
-          "ফ্লাইটঅ্যাওয়ারের তথ্য অনুযায়ী দেশজুড়ে দুই হাজার দুশোটির বেশি ফ্লাইট বিলম্বিত হয়েছে।",
-          "নিউ ইয়র্ক সিটিতে ম্যাসির থ্যাংকসগিভিং প্যারেড পর্যন্ত স্থগিত করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "States of emergency have been declared in New Jersey and New York City.",
-          "Tracking site FlightAware reported more than 2,200 delayed flights across the country.",
-          "The annual Macy Thanksgiving parade in New York City was postponed to Saturday."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "যুক্তরাষ্ট্রে ঝড়ে বিদ্যুৎবিচ্ছিন্ন লাখ লাখ গ্রাহক",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 3,
-      "trending": true,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T03:01:55.990106+00:00"
+        "checked_at": "2026-11-27T04:01:40.220850+00:00"
       }
     }
   ]
