@@ -1,9 +1,96 @@
 {
-  "updated_at": "2026-11-27T20:00:46.222044",
-  "total_stories": 3,
+  "updated_at": "2026-11-27T21:00:51.945919",
+  "total_stories": 4,
   "stories": [
     {
-      "story_id": "b9eb1a26-0198-51ae-9090-dc3e0986b316",
+      "story_id": "1bb3d42c-9654-596a-acb5-bb107936a9f2",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Dhaka",
+        "#Police"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2025/11/15/crude_bomb.png",
+      "image_caption": null,
+      "published_at": "2026-11-27T19:10:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.5,
+      "rank_score": 5.0537,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/crime/5-crude-bombs-explode-five-dhaka-locations-one-arrested-1616086",
+          "title": "5 crude bombs explode at five Dhaka locations; one arrested",
+          "snippet": "5 crude bombs explode at five Dhaka locations; one arrested"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/crude-bombs-explode-parts-dhaka-4334721",
+          "title": "Crude bombs explode in parts of Dhaka",
+          "snippet": "Crude bombs explode in parts of Dhaka"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1184441",
+          "title": "রাজধানীর পাঁচ স্থানে ককটেল বিস্ফোরণ",
+          "snippet": "রাজধানীর পাঁচ স্থানে ককটেল বিস্ফোরণ"
+        },
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/law-and-crime/983694/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A7%AA-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%95%E0%A6%95%E0%A6%9F%E0%A7%87%E0%A6%B2-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A6%A3-%E0%A6%86%E0%A6%9F%E0%A6%95-%E0%A7%A7",
+          "title": "রাজধানীতে ৪ স্থানে ককটেল বিস্ফোরণ, আটক ১",
+          "snippet": "রাজধানীতে ৪ স্থানে ককটেল বিস্ফোরণ, আটক ১"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রাজধানীর পাঁচ স্থানে ককটেল বিস্ফোরণ, পুলিশ একজনকে আটক করেছে",
+        "title_en": "Crude bombs explode at five Dhaka locations; one arrested",
+        "summary_bn": "রাজধানীতে পাঁচটি ককটেল বিস্ফোরণের ঘটনায় পুলিশ একজনকে আটক করেছে এবং কোনো হতাহতের খবর পাওয়া যায়নি।",
+        "summary_en": "Five crude bombs exploded across Dhaka, with police arresting one person and reporting no casualties.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T19:10:00+00:00",
+        "lead_bn": "রাজধানীতে পাঁচটি ককটেল বিস্ফোরণের ঘটনায় পুলিশ একজনকে আটক করেছে এবং কোনো হতাহতের খবর পাওয়া যায়নি।",
+        "lead_en": "Five crude bombs exploded across Dhaka, with police arresting one person and reporting no casualties.",
+        "bullets_bn": [
+          "বিস্ফোরণগুলো ওয়ারী, হাতিপুল, মিরপুর-১০, ধানমন্ডি ও বনানী এলাকায় ঘটে।",
+          "বনানী থানার ভারপ্রাপ্ত কর্মকর্তা মো. সালাহউদ্দিন জানান, তিতুমীর কলেজের ছাত্রীনিবাসের সাইনবোর্ডের দিকে ককটেলটি ছোড়া হয়েছিল।",
+          "পুলিশ জড়িতদের শনাক্ত করার জন্য কাজ করছে।"
+        ],
+        "bullets_en": [
+          "The explosions were reported in Wari, Hatirpool, Mirpur-10, Dhanmondi, and Banani.",
+          "Banani Police Station Officer-in-Charge Md Salahuddin said the crude bomb was thrown towards the hostel's signboard.",
+          "Police were working to identify those involved in the incidents."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "২৭ নভেম্বর বিকেল থেকে রাতের মধ্যে রাজধানীর বিভিন্ন স্থানে এই বিস্ফোরণগুলো ঘটে। রাত ১০টা ৪৫ মিনিটে গভর্নমেন্ট তিতুমীর কলেজের ছাত্রীনিবাসের সামনে এবং রাত ১০টা ৩৫ মিনিটে ধানমন্ডি-২৭ নম্বরের রাপা প্লাজার সামনে ককটেল বিস্ফোরণ হয়। এর আগে মিরপুর-১০ গোলচত্বর এলাকাতেও বিস্ফোরণের ঘটনা ঘটে।",
+        "details_en": "The explosions occurred between afternoon and night on 27 November across various locations in the capital. Blasts took place in front of the Government Titumir College female students' hostel at around 10:45pm and in front of Rapa Plaza in Dhanmondi-27 at around 10:35pm, following an earlier blast near the Mirpur-10 roundabout.",
+        "hook_bn": "রাজধানীর পাঁচ স্থানে ককটেল বিস্ফোরণ",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 4,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-27T21:01:35.443427+00:00"
+      }
+    },
+    {
+      "story_id": "fa5e0d4e-f6df-5f0b-92c5-9f618a9ba136",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -13,214 +100,202 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1588026236460-140eaa866e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bWlzY3JlYW50cyUyMHNldCUyMGZpcmUlMjBwYXNzZW5nZXIlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTU4MDk2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-27%2F7ungoguy%2FAmir.jpg?rect=0%2C24%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-27T17:21:16+00:00",
+      "published_at": "2026-11-27T18:40:14+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 4.5061,
+      "importance_score": 7.5,
+      "rank_score": 4.9109,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1184436",
-          "title": "নারায়ণগঞ্জে যাত্রীবেশে বাসে উঠে আগুন",
-          "snippet": "নারায়ণগঞ্জে যাত্রীবেশে বাসে উঠে আগুন"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/national/501352",
-          "title": "পল্লবীতে যাত্রীবেশে বাসে কেরোসিন ঢেলে আগুন, পুড়েছে ১০ সিট",
-          "snippet": "পল্লবীতে যাত্রীবেশে বাসে কেরোসিন ঢেলে আগুন, পুড়েছে ১০ সিট"
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/tj53h1ycze",
+          "title": "দুর্নীতি, চাঁদাবাজি, সন্ত্রাস, মিথ্যা মামলা দিয়ে হয়রানি আগের চেয়ে বেশি গতিতে চলছে: জামায়াত আমির",
+          "snippet": "দুর্নীতি, চাঁদাবাজি, সন্ত্রাস, মিথ্যা মামলা দিয়ে হয়রানি আগের চেয়ে বেশি গতিতে চলছে: জামায়াত আমির"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নারায়ণগঞ্জে ও পল্লবীতে যাত্রীবাহী বাসে আগুন দিয়েছে দুর্বৃত্তরা",
-        "title_en": "Miscreants set fire to passenger buses in Narayanganj and Pallabi",
-        "summary_bn": "দুর্বৃত্তরা নারায়ণগঞ্জের সিদ্ধিরগঞ্জে মেঘলা পরিবহনের একটি চলন্ত বাসে এবং পল্লবীতে যাত্রীবেশে বাসে আগুন দিয়েছে।",
-        "summary_en": "Miscreants set fire to a moving passenger bus of Meghla Paribahan in Siddhirganj, Narayanganj, and another bus in Pallabi.",
+        "title_bn": "জামায়াত আমির বলেছেন ৫ আগস্টের পর চাঁদাবাজি ও সন্ত্রাস বেড়েছে।",
+        "title_en": "Jamaat Ameer says extortion and terrorism increased after August 5.",
+        "summary_bn": "বিরোধীদলীয় নেতা ও বাংলাদেশ জামায়াতে ইসলামীর আমির শফিকুর রহমান বলেছেন, ৫ আগস্টের পর দুর্নীতি, চাঁদাবাজি ও সন্ত্রাস আগের চেয়ে বেশি গতিতে চলছে।",
+        "summary_en": "Opposition leader and Bangladesh Jamaat-e-Islami Ameer Shafiqur Rahman said corruption, extortion, and terrorism are proceeding at a higher pace after August 5.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T17:21:16+00:00",
-        "lead_bn": "দুর্বৃত্তরা নারায়ণগঞ্জের সিদ্ধিরগঞ্জে মেঘলা পরিবহনের একটি চলন্ত বাসে এবং পল্লবীতে যাত্রীবেশে বাসে আগুন দিয়েছে।",
-        "lead_en": "Miscreants set fire to a moving passenger bus of Meghla Paribahan in Siddhirganj, Narayanganj, and another bus in Pallabi.",
+        "published_at": "2026-11-27T18:40:14+00:00",
+        "lead_bn": "বিরোধীদলীয় নেতা ও বাংলাদেশ জামায়াতে ইসলামীর আমির শফিকুর রহমান বলেছেন, ৫ আগস্টের পর দুর্নীতি, চাঁদাবাজি ও সন্ত্রাস আগের চেয়ে বেশি গতিতে চলছে।",
+        "lead_en": "Opposition leader and Bangladesh Jamaat-e-Islami Ameer Shafiqur Rahman said corruption, extortion, and terrorism are proceeding at a higher pace after August 5.",
         "bullets_bn": [
-          "নারায়ণগঞ্জের সিদ্ধিরগঞ্জে ঢাকা-চট্টগ্রাম মহাসড়কে মেঘলা পরিবহনের চলন্ত বাসে আগুন দেওয়া হয়।",
-          "পল্লবীতে যাত্রীবেশে বাসে কেরোসিন ঢেলে আগুন দেওয়া হয়।",
-          "পল্লবীতে বাসের ১০টি সিট পুড়ে গেছে।"
+          "রাজধানীর মিন্টো রোডে বিরোধীদলীয় নেতার সরকারি বাসভবনে মতবিনিময় অনুষ্ঠানটি আয়োজিত হয়।",
+          "শফিকুর রহমান বলেন, গণভোট অস্বীকার করার মধ্য দিয়ে সংকট তৈরি হয়েছে।",
+          "তিনি আরও বলেন, তার অভিধানে কোনো সংখ্যালঘু নেই।"
         ],
         "bullets_en": [
-          "A moving bus of Meghla Paribahan was set on fire on the Dhaka-Chattogram highway in Siddhirganj, Narayanganj.",
-          "Kerosene was poured inside a bus to set it on fire while disguised as passengers in Pallabi.",
-          "Ten seats of the bus were burnt in Pallabi."
+          "The view-exchange meeting was held at the official residence of the opposition leader on Minto Road in the capital.",
+          "Shafiqur Rahman said a crisis was created through the rejection of the referendum.",
+          "He further stated that there are no minorities in his dictionary."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "চলন্ত বাসে আগুন",
+        "details_bn": "ডাকসু, জাকসু, রাকসু, চাকসু ও জকসুর নির্বাচিত ছাত্রপ্রতিনিধিদের সঙ্গে বিরোধীদলীয় নেতা ও জামায়াতের আমিরের এই মতবিনিময় সভা অনুষ্ঠিত হয়। অনুষ্ঠানে বিভিন্ন বিশ্ববিদ্যালয়ের ছাত্র সংসদের নেতারা উপস্থিত ছিলেন। প্রশ্নোত্তর পর্বে ঢাকা বিশ্ববিদ্যালয়ের জগন্নাথ হল সংসদের জিএস সুদীপ্ত প্রামাণিক সংখ্যালঘুদের অধিকার নিয়ে প্রশ্ন করেন।",
+        "details_en": "This view-exchange meeting of the opposition leader and the Jamaat Ameer was held with elected student representatives of DUCSU, Jaksu, RUCSU, Chaksou, and Zaksou. Leaders of various university student unions were present at the event. During the question-and-answer session, Dhaka University Jagannath Hall union GS Sudipta Pramanik asked a question regarding minority rights.",
+        "hook_bn": "আমার ডিকশনারিতে কোনো সংখ্যালঘু নাই",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "সংখ্যালঘু অধিকার ও দেশের বর্তমান পরিস্থিতি নিয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-27T21:01:35.443427+00:00"
+      }
+    },
+    {
+      "story_id": "29c279af-fae4-5f3e-8063-3632d2753283",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Savar",
+        "#DhakaArichaHighway",
+        "#FireService"
+      ],
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/merged/merged_534ca551fae02218afd2a2ad64d730bd.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-27T21:00:59.021227+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.0,
+      "rank_score": 4.8987,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/bus-set-ablaze-in-broad-daylight-in-savar",
+          "title": "Bus 'set ablaze' in broad daylight in Savar",
+          "snippet": "Bus 'set ablaze' in broad daylight in Savar"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সাভারে ঢাকা-আরিচা মহাসড়কে একটি বাসে আগুন",
+        "title_en": "Bus set on fire on Dhaka-Aricha Highway in Savar",
+        "summary_bn": "সাভারের জোড়পুল এলাকায় ঢাকা-আরিচা মহাসড়কে পার্ক করা অবস্থায় লাব্বাইক পরিবহনের একটি বাসে আগুন দেওয়া হয়েছে।",
+        "summary_en": "A Labbaik Paribahan bus parked on the Dhaka-Aricha Highway in Savar's Jorpul has been set on fire.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T21:00:59.021227+00:00",
+        "lead_bn": "সাভারের জোড়পুল এলাকায় ঢাকা-আরিচা মহাসড়কে পার্ক করা অবস্থায় লাব্বাইক পরিবহনের একটি বাসে আগুন দেওয়া হয়েছে।",
+        "lead_en": "A Labbaik Paribahan bus parked on the Dhaka-Aricha Highway in Savar's Jorpul has been set on fire.",
+        "bullets_bn": [
+          "খবর পেয়ে ফায়ার সার্ভিসের দুটি ইউনিট দ্রুত ঘটনাস্থলে পৌঁছে আগুন নিয়ন্ত্রণে আনে।",
+          "আগুন নিয়ন্ত্রণে আসার আগেই বাসটির পুরো ভেতর অংশ পুড়ে গেছে বলে ফায়ার সার্ভিস জানায়।",
+          "পুলিশের ধারণা, তীব্র রোদের তাপে গ্যাসচালিত বাসটিতে আগুন লেগে থাকতে পারে।"
+        ],
+        "bullets_en": [
+          "Two fire service units quickly reached the scene and brought the blaze under control.",
+          "The fire service said the entire interior of the bus had been gutted before the blaze was controlled.",
+          "Police suspect the gas-powered bus caught fire due to the intense heat of the sun."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "সাভার ফায়ার সার্ভিসের সিনিয়র স্টেশন অফিসার জাহাঙ্গীর আলম জানান, স্থানীয়দের সঙ্গে কথা বলে ও প্রাথমিক তদন্তে মনে হয়েছে বাসটিতে পরিকল্পিতভাবে আগুন দেওয়া হয়েছে। একজন প্রত্যক্ষদর্শীর দাবি, মোটরসাইকেলে করে এসে কয়েকজন বাসে আগুন দিয়ে দ্রুত পালিয়ে যায়। তবে সাভার মডেল থানার প্রধান মো. সাইফুল আলম জানান, বাসটি গত দুই দিন ধরে ওই স্থানে পার্ক করা ছিল এবং এটি একটি গ্যাসচালিত বাস। তিনি বলেন, আজকাল যেকোনো দুর্ঘটনাজনিত আগুনকেও অন্তর্ঘাত বলে লেবেল লাগিয়ে দেওয়া হয়।",
+        "details_en": "Savar Fire Service senior station officer Jahangir Alam said conversations with people at the scene and preliminary investigations suggested the bus was deliberately set on fire. An eyewitness claimed people arriving on a motorcycle set the bus ablaze before fleeing. However, Savar Model Police Station chief Md Saiful Alam said the gas-powered bus had been parked there for two days, adding that accidental fires are often labelled as sabotage.",
+        "hook_bn": "সাভারে মহাসড়কে পার্ক করা বাসে আগুন",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 7.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T20:01:29.148239+00:00"
-      }
-    },
-    {
-      "story_id": "52de0188-911a-53f0-8f9d-f9c8a45229f7",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1764792766788-1d5fb9d3920c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFraXN0YW4lMjByZWFjaGVzJTIwZmluYWwlMjBhZnRlciUyMHNwb3J0c3xlbnwxfDB8fHwxNzk1ODA5NjgxfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-27T18:37:07+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 3.8964,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/sports/cricket/1184439",
-          "title": "বিফলে দিপুর সেঞ্চুরি, বাংলাদেশের স্বপ্ন ভেঙে ফাইনালে পাকিস্তান",
-          "snippet": "বিফলে দিপুর সেঞ্চুরি, বাংলাদেশের স্বপ্ন ভেঙে ফাইনালে পাকিস্তান"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/bangladesh-out-pakistan-face-sri-lanka/",
-          "title": "ফাইনালের স্বপ্নভঙ্গ বাংলাদেশের, শিরোপা মঞ্চে শ্রীলঙ্কার প্রতিপক্ষ পাকিস্তান",
-          "snippet": "ফাইনালের স্বপ্নভঙ্গ বাংলাদেশের, শিরোপা মঞ্চে শ্রীলঙ্কার প্রতিপক্ষ পাকিস্তান"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/sports/501348",
-          "title": "দীপুর সেঞ্চুরি ব্যর্থ করে ফাইনালে পাকিস্তান",
-          "snippet": "দীপুর সেঞ্চুরি ব্যর্থ করে ফাইনালে পাকিস্তান"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "দীপুর সেঞ্চুরি ব্যর্থ করে ফাইনালে পাকিস্তান",
-        "title_en": "Pakistan reaches the final after defeating Bangladesh",
-        "summary_bn": "দীপুর সেঞ্চুরি সত্ত্বেও এশিয়া কাপ রাইজিং স্টারসের ফাইনালে পাকিস্তানের কাছে হেরে গেছে বাংলাদেশ।",
-        "summary_en": "Despite Dipu's century, Bangladesh lost to Pakistan in the Asia Cup Rising Stars semi-final.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T18:37:07+00:00",
-        "lead_bn": "দীপুর সেঞ্চুরি সত্ত্বেও এশিয়া কাপ রাইজিং স্টারসের ফাইনালে পাকিস্তানের কাছে হেরে গেছে বাংলাদেশ।",
-        "lead_en": "Despite Dipu's century, Bangladesh lost to Pakistan in the Asia Cup Rising Stars semi-final.",
-        "bullets_bn": [
-          "২৩৩ রানের লক্ষ্য তাড়া করতে নামা পাকিস্তানের ২১ রানে ২ উইকেট তুলে নেন রিপন মন্ডল।",
-          "শাহজাইব খান আর হাসান নেওয়াজের ১১০ রানের জুটিতে ঘুরে দাঁড়ায় পাকিস্তান।",
-          "শিরোপা মঞ্চে শ্রীলঙ্কার প্রতিপক্ষ হবে পাকিস্তান।"
-        ],
-        "bullets_en": [
-          "Ripon Mondol took two wickets for 21 runs as Pakistan chased a target of 233 runs.",
-          "Pakistan made a comeback through a 110-run partnership between Shahzaib Khan and Hasan Nawaz.",
-          "Pakistan will face Sri Lanka in the title match."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "এশিয়া কাপ রাইজিং স্টারসে ২৩৩ রানের লক্ষ্য তাড়া করতে নেমে পাকিস্তান শুরুতে ২১ রানে ২ উইকেট হারায়। এরপর শাহজাইব খান ও হাসান নেওয়াজের ১১০ রানের জুটিতে পাকিস্তান ম্যাচে ঘুরে দাঁড়ায় এবং শেষ পর্যন্ত ফাইনালে জায়গা করে নেয়। এই ম্যাচে দীপু সেঞ্চুরি করলেও তা দলের পরাজয় এড়াতে পারেনি। টুর্নামেন্টের ফাইনালে শ্রীলঙ্কার মুখোমুখি হবে পাকিস্তান।",
-        "details_en": "Chasing a target of 233 runs in the Asia Cup Rising Stars, Pakistan initially lost two wickets for 21 runs. Later, a 110-run partnership between Shahzaib Khan and Hasan Nawaz helped Pakistan recover and secure a place in the final. Despite Dipu's century in the match, Bangladesh could not avoid defeat. Pakistan will face Sri Lanka in the tournament final.",
-        "hook_bn": "দীপুর সেঞ্চুরি ব্যর্থ করে ফাইনালে পাকিস্তান",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 3,
+      "outlet_count": 1,
       "trending": false,
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T20:01:29.148239+00:00"
+        "checked_at": "2026-11-27T21:01:35.443427+00:00"
       }
     },
     {
-      "story_id": "6b882a0f-b63e-5c34-a59d-044abfc1f78b",
-      "primary_category": "governance_law",
+      "story_id": "4a4d3074-2505-591b-8235-8dbb25ec981f",
+      "primary_category": "climate_environment",
       "interest_categories": [
-        "governance_law"
+        "climate_environment",
+        "governance_law",
+        "economy_business"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Rooppur",
+        "#Rosatom",
+        "#BangladeshArmy"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-27%2Fc1lk9ehl%2Fwest-bengal.jpg?rect=0%2C166%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/merged/merged_ff63f654ddc7e0b226b4505eeb52b38c.jpg",
       "image_caption": null,
-      "published_at": "2026-11-27T18:59:21+00:00",
+      "published_at": "2026-11-27T21:00:59.021227+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.8501,
+      "importance_score": 5.0,
+      "rank_score": 2.4993,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/india/vwjzjoee07",
-          "title": "ঋতব্রত বন্দ্যোপাধ্যায়কে বিরোধী দলনেতা নিয়োগের স্পিকারের সিদ্ধান্ত কলকাতা হাইকোর্টে খারিজ",
-          "snippet": "ঋতব্রত বন্দ্যোপাধ্যায়কে বিরোধী দলনেতা নিয়োগের স্পিকারের সিদ্ধান্ত কলকাতা হাইকোর্টে খারিজ"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/final-nuclear-fuel-shipment-arrives-at-rooppur-power-plant",
+          "title": "Final nuclear fuel shipment arrives at Rooppur power plant",
+          "snippet": "Final nuclear fuel shipment arrives at Rooppur power plant"
         }
       ],
       "daily_buzz": {
-        "title_bn": "কলকাতা হাইকোর্ট ঋতব্রত বন্দ্যোপাধ্যায়ের বিরোধী দলনেতা নিয়োগের স্পিকারের সিদ্ধান্ত খারিজ করেছেন।",
-        "title_en": "Calcutta High Court cancels Speaker's decision appointing Rittabrata Banerjee as opposition leader.",
-        "summary_bn": "ভারতের পশ্চিমবঙ্গ বিধানসভায় ঋতব্রত বন্দ্যোপাধ্যায়কে বিরোধীদলীয় নেতা হিসেবে স্পিকারের দেওয়া স্বীকৃতি খারিজ করেছেন কলকাতা হাইকোর্ট।",
-        "summary_en": "The Calcutta High Court dismissed the Speaker's recognition of Rittabrata Banerjee as the leader of the opposition in the West Bengal Legislative Assembly.",
+        "title_bn": "রূপপুর প্রকল্পে পৌঁছেছে শেষ ইউরেনিয়াম চালান",
+        "title_en": "Final nuclear fuel shipment arrives at Rooppur power plant",
+        "summary_bn": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্রের জন্য রাশিয়া থেকে আমদানিকৃত নবম ও শেষ ইউরেনিয়াম চালান প্রকল্প এলাকায় পৌঁছেছে।",
+        "summary_en": "The ninth and final consignment of uranium imported from Russia for Bangladesh’s first nuclear power plant at Rooppur has arrived at the project site.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "climate_environment",
+          "governance_law",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T18:59:21+00:00",
-        "lead_bn": "ভারতের পশ্চিমবঙ্গ বিধানসভায় ঋতব্রত বন্দ্যোপাধ্যায়কে বিরোধীদলীয় নেতা হিসেবে স্পিকারের দেওয়া স্বীকৃতি খারিজ করেছেন কলকাতা হাইকোর্ট।",
-        "lead_en": "The Calcutta High Court dismissed the Speaker's recognition of Rittabrata Banerjee as the leader of the opposition in the West Bengal Legislative Assembly.",
+        "published_at": "2026-11-27T21:00:59.021227+00:00",
+        "lead_bn": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্রের জন্য রাশিয়া থেকে আমদানিকৃত নবম ও শেষ ইউরেনিয়াম চালান প্রকল্প এলাকায় পৌঁছেছে।",
+        "lead_en": "The ninth and final consignment of uranium imported from Russia for Bangladesh’s first nuclear power plant at Rooppur has arrived at the project site.",
         "bullets_bn": [
-          "বিচারপতি কৃষ্ণ রাওয়ের একক বেঞ্চ রায় দিয়ে স্পিকারকে ১০ দিনের মধ্যে নতুন করে সিদ্ধান্ত নিতে বলেছেন।",
-          "রায় ঘোষণার ফলে আগামী ১০ দিন রাজ্যে বিরোধীদলীয় নেতার পদ শূন্য থাকছে।",
-          "তৃণমূলের মমতা-গোষ্ঠীর বিধায়ক শোভনদেব চট্টোপাধ্যায় এই প্রক্রিয়ার বিরুদ্ধে আদালতে মামলা করেছিলেন।"
+          "বাংলাদেশ সেনাবাহিনীর তত্ত্বাবধানে এবং আইনশৃঙ্খলা রক্ষাকারী বাহিনীর কঠোর নিরাপত্তায় তিনটি বিশেষ লরিতে করে পারমাণবিক জ্বালানি রূপপুর প্রাঙ্গণে প্রবেশ করে।",
+          "প্রকল্প কর্তৃপক্ষ জানিয়েছে, জ্বালানিটি নয়টি ধাপে এসেছে যার মধ্যে দ্বিতীয় ইউনিটের প্রাথমিক জ্বালানি লোডের জন্য সাতটি এবং প্রথম ইউনিটের রিফুয়েলিংয়ের জন্য দুটি চালান রয়েছে।",
+          "রাশিয়ার রাষ্ট্রীয় পারমাণবিক কর্পোরেশন রোসাটমের পরিকল্পনা অনুযায়ী সাতটি কার্গো ফ্লাইটে দ্বিতীয় ইউনিটের জন্য ১৬৩টি এবং দুটি ফ্লাইটে প্রথম ইউনিটের জন্য আরও ৪৮টি ইউরেনিয়াম অ্যাসেম্বলি আনা হয়েছে।"
         ],
         "bullets_en": [
-          "Justice Krishna Rao's single bench delivered the verdict telling the Speaker to make a new decision within ১০ days.",
-          "As a result of the ruling, the post of opposition leader in the state remains vacant for the next ১০ days.",
-          "Shovandeb Chattopadhyay, a MLA from Mamata's faction of Trinamool, filed a case in court against this process."
+          "Three specialised lorries carrying the nuclear fuel entered the Rooppur compound under the supervision of the Bangladesh Army and tight security.",
+          "Project authorities said the fuel arrived in nine phases: seven shipments for Unit 2 and two for refuelling Unit 1.",
+          "Under Rosatom's plan, seven cargo flights carried 163 uranium assemblies for Unit 2, and two flights brought 48 for Unit 1."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "এবারের বিধানসভা নির্বাচনে তৃণমূল ৮০টি আসনে জিতে প্রধান বিরোধী দল হয়। চেয়ারপারসন মমতা বন্দ্যোপাধ্যায় শোভনদেব চট্টোপাধ্যায়কে বিরোধীদলীয় নেতা নির্বাচন করে ৯ মে চিঠি দিলেও স্পিকার পদক্ষেপ নেননি, বরং পরে বিক্ষুব্ধ বিধায়কদের চিঠির ভিত্তিতে বহিষ্কৃত ঋতব্রতকে স্বীকৃতি দেন।",
-        "details_en": "In the assembly elections, Trinamool won ৮০ seats to become the main opposition party. Although Chairperson Mamata Banerjee sent a letter on May ৯ electing Shovandeb Chattopadhyay as opposition leader, the Speaker took no action, instead recognizing the expelled Rittabrata based on a letter from dissident MLAs.",
-        "hook_bn": "হাইকোর্টে খারিজ ঋতব্রত বন্দ্যোপাধ্যায়ের বিরোধী দলনেতার পদ",
-        "kicker_bn": "রায় ঘোষণা",
+        "details_bn": "উদ্ভিদটিতে রুশ প্রযুক্তিতে নির্মিত দুটি ভিভিইআর-১২০০ ইউনিট রয়েছে, যার প্রতিটির ক্ষমতা ১,২০০ মেগাওয়াট। পূর্ণ ক্ষমতায় চালু হলে এগুলো জাতীয় গ্রিডে ২,৪০০ মেগাওয়াট নিরবচ্ছিন্ন বিদ্যুৎ সরবরাহ করবে। এদিকে প্রথম ইউনিটে পরীক্ষামূলক বিদ্যুৎ উৎপাদন এবং গ্রিডে সরবরাহ দ্রুত এগিয়ে চলছে। কারিগরি সক্ষমতা যাচাই করতে গত ২৩ নভেম্বর সকাল ১০টা ২০ মিনিটে দ্বিতীয় দফার পরীক্ষামূলক সরবরাহ শুরু হয়, যেখানে ১০ থেকে ২৪ ঘণ্টার জন্য গ্রিডে ৩০০ থেকে ৩৫০ মেগাওয়াট বিদ্যুৎ সরবরাহ করা হয়।",
+        "details_en": "The plant has two VVER-1200 units built with Russian technology, each with a capacity of 1,200MW. At full capacity, they will feed 2,400MW of uninterrupted power into the national grid. Trial power generation at Unit 1 and supply to the grid is moving ahead fast. The second round of trial supply began at 10:20am on Nov 23, with 300-350MW being fed into the grid for 10 to 24 hours to test technical capability.",
+        "hook_bn": "রূপপুরে পৌঁছাল ইউরেনিয়ামের শেষ চালান",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 5.0,
       "outlet_count": 1,
-      "trending": true,
-      "social_appeal": 4.0,
+      "trending": false,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T20:01:29.148239+00:00"
+        "checked_at": "2026-11-27T21:01:35.443427+00:00"
       }
     }
   ]
