@@ -1,96 +1,211 @@
 {
-  "updated_at": "2026-11-27T21:00:51.945919",
-  "total_stories": 4,
+  "updated_at": "2026-11-27T22:00:55.147690",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "1bb3d42c-9654-596a-acb5-bb107936a9f2",
-      "primary_category": "governance_law",
+      "story_id": "7e0e99ec-4e1f-5bd2-9e38-6437daf80c75",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "governance_law",
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Dhaka",
-        "#Police"
+        "#RevisedBudget",
+        "#FinanceDivision",
+        "#SubsidyPressure"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2025/11/15/crude_bomb.png",
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/183451/p1-revised-budget.jpg",
       "image_caption": null,
-      "published_at": "2026-11-27T19:10:00+00:00",
+      "published_at": "2026-11-27T22:01:04.115907+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 5.0537,
+      "importance_score": 6.0,
+      "rank_score": 3.5987,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/crime/5-crude-bombs-explode-five-dhaka-locations-one-arrested-1616086",
-          "title": "5 crude bombs explode at five Dhaka locations; one arrested",
-          "snippet": "5 crude bombs explode at five Dhaka locations; one arrested"
-        },
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/crude-bombs-explode-parts-dhaka-4334721",
-          "title": "Crude bombs explode in parts of Dhaka",
-          "snippet": "Crude bombs explode in parts of Dhaka"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1184441",
-          "title": "রাজধানীর পাঁচ স্থানে ককটেল বিস্ফোরণ",
-          "snippet": "রাজধানীর পাঁচ স্থানে ককটেল বিস্ফোরণ"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/law-and-crime/983694/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A7%AA-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%95%E0%A6%95%E0%A6%9F%E0%A7%87%E0%A6%B2-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A6%A3-%E0%A6%86%E0%A6%9F%E0%A6%95-%E0%A7%A7",
-          "title": "রাজধানীতে ৪ স্থানে ককটেল বিস্ফোরণ, আটক ১",
-          "snippet": "রাজধানীতে ৪ স্থানে ককটেল বিস্ফোরণ, আটক ১"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/economy/revised-budget-for-fy27-may-outstrip-original-one",
+          "title": "Revised budget for FY'27 may outstrip original one",
+          "snippet": "Revised budget for FY'27 may outstrip original one"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রাজধানীর পাঁচ স্থানে ককটেল বিস্ফোরণ, পুলিশ একজনকে আটক করেছে",
-        "title_en": "Crude bombs explode at five Dhaka locations; one arrested",
-        "summary_bn": "রাজধানীতে পাঁচটি ককটেল বিস্ফোরণের ঘটনায় পুলিশ একজনকে আটক করেছে এবং কোনো হতাহতের খবর পাওয়া যায়নি।",
-        "summary_en": "Five crude bombs exploded across Dhaka, with police arresting one person and reporting no casualties.",
+        "title_bn": "অর্থবছরের সংশোধিত বাজেট মূল বাজেট ছাড়িয়ে যেতে পারে",
+        "title_en": "Revised budget for the fiscal year may outstrip the original one",
+        "summary_bn": "সাবসিডি বৃদ্ধি এবং মধ্যপ্রাচ্যের সংকটের কারণে চলতি অর্থবছরের সংশোধিত বাজেটের আকার মূল বাজেট ছাড়িয়ে যেতে পারে।",
+        "summary_en": "The size of the revised budget for the current fiscal year may get bigger due to subsidy pressure and Mideast mayhem.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T19:10:00+00:00",
-        "lead_bn": "রাজধানীতে পাঁচটি ককটেল বিস্ফোরণের ঘটনায় পুলিশ একজনকে আটক করেছে এবং কোনো হতাহতের খবর পাওয়া যায়নি।",
-        "lead_en": "Five crude bombs exploded across Dhaka, with police arresting one person and reporting no casualties.",
+        "published_at": "2026-11-27T22:01:04.115907+00:00",
+        "lead_bn": "সাবসিডি বৃদ্ধি এবং মধ্যপ্রাচ্যের সংকটের কারণে চলতি অর্থবছরের সংশোধিত বাজেটের আকার মূল বাজেট ছাড়িয়ে যেতে পারে।",
+        "lead_en": "The size of the revised budget for the current fiscal year may get bigger due to subsidy pressure and Mideast mayhem.",
         "bullets_bn": [
-          "বিস্ফোরণগুলো ওয়ারী, হাতিপুল, মিরপুর-১০, ধানমন্ডি ও বনানী এলাকায় ঘটে।",
-          "বনানী থানার ভারপ্রাপ্ত কর্মকর্তা মো. সালাহউদ্দিন জানান, তিতুমীর কলেজের ছাত্রীনিবাসের সাইনবোর্ডের দিকে ককটেলটি ছোড়া হয়েছিল।",
-          "পুলিশ জড়িতদের শনাক্ত করার জন্য কাজ করছে।"
+          "অর্থবছরের সংশোধিত বাজেটের আকার সাধারণত কমে গেলেও এবার এই ধারা উল্টো হতে পারে বলে জানিয়েছেন অর্থ বিভাগের এক ঊর্ধ্বতন কর্মকর্তা।",
+          "সাবসিডি বৃদ্ধির আশঙ্কায় অর্থ বিভাগ fiscal, monetary, and currency exchange সংক্রান্ত কমিটির সমন্বয় সভা দুবার পিছিয়ে ৬ ডিসেম্বর নির্ধারণ করেছে।",
+          "সরকার সরকারি চাকরিজীবীদের নতুন বেতন কাঠামোর একটি অংশ বাস্তবায়ন করায় এবং সাবসিডি সর্বকালের সর্বোচ্চ পর্যায়ে রয়েছে।"
         ],
         "bullets_en": [
-          "The explosions were reported in Wari, Hatirpool, Mirpur-10, Dhanmondi, and Banani.",
-          "Banani Police Station Officer-in-Charge Md Salahuddin said the crude bomb was thrown towards the hostel's signboard.",
-          "Police were working to identify those involved in the incidents."
+          "A senior finance division official stated that while the size of the revised budget usually goes down, this year the trend may go atypical.",
+          "Confused over rising subsidy pressure, the Finance Division shifted a coordination committee meeting twice to December 6.",
+          "A senior finance official noted that the government implemented a part of the new pay scale while subsidy pressure is at an all-time high."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "২৭ নভেম্বর বিকেল থেকে রাতের মধ্যে রাজধানীর বিভিন্ন স্থানে এই বিস্ফোরণগুলো ঘটে। রাত ১০টা ৪৫ মিনিটে গভর্নমেন্ট তিতুমীর কলেজের ছাত্রীনিবাসের সামনে এবং রাত ১০টা ৩৫ মিনিটে ধানমন্ডি-২৭ নম্বরের রাপা প্লাজার সামনে ককটেল বিস্ফোরণ হয়। এর আগে মিরপুর-১০ গোলচত্বর এলাকাতেও বিস্ফোরণের ঘটনা ঘটে।",
-        "details_en": "The explosions occurred between afternoon and night on 27 November across various locations in the capital. Blasts took place in front of the Government Titumir College female students' hostel at around 10:45pm and in front of Rapa Plaza in Dhanmondi-27 at around 10:35pm, following an earlier blast near the Mirpur-10 roundabout.",
-        "hook_bn": "রাজধানীর পাঁচ স্থানে ককটেল বিস্ফোরণ",
-        "kicker_bn": null,
+        "details_bn": "চলতি অর্থবছরের বর্তমান বাজেট সংশোধনের কাজ করছেন অর্থ কর্মকর্তারা। বিশ্ব অর্থনীতিতে অস্থিরতা, মধ্যপ্রাচ্যের দীর্ঘমেয়াদী সংঘাত এবং যুক্তরাষ্ট্রের ইরানে সম্ভাব্য স্থল আগ্রাসনের আশঙ্কায় জ্বালানি পরিবহন ব্যাহত হওয়া এবং সাবসিডি চাপ বেড়ে যাওয়ার আশঙ্কা তৈরি হয়েছে। অতীতে অর্থবছরে মূল বাজেটের আকার কমানো হয়েছিল, যেমন অর্থবছর ২০২৫-২৬-এ ৭.৯ ট্রিলিয়ন টাকার বাজেট সামান্য কমিয়ে ৭.৮৮ ট্রিলিয়ন টাকা এবং অর্থবছর ২০২৪-২০৫-এ ৭.৯৭ ট্রিলিয়ন টাকার বাজেট কমিয়ে ৭.৪৪ ট্রিলিয়ন টাকা করা হয়েছিল।",
+        "details_en": "Finance officials crafting the revised budget face arithmetic dilemmas due to subsidy overruns and extra expenses amid global economic volatility and prolonged Mideast mayhem. Concerns also persist regarding a possible US ground invasion in Iran. In fiscal year 2025-26, the original budget of Tk 7.9 trillion was cut to Tk 7.88 trillion, while in fiscal year 2024-25, the actual budget of Tk 7.97 trillion was cut to Tk 7.44 trillion.",
+        "hook_bn": "সাবসিডি ও বাড়তি খরচে বাড়তে পারে বাজেট",
+        "kicker_bn": "বাজেট আপডেট",
         "share_value": false,
-        "question_bn": null
+        "question_bn": "বাজেটে সাবসিডি ও অতিরিক্ত খরচ সামলানোর আর কী উপায় থাকা উচিত বলে আপনি মনে করেন?"
       },
-      "desk_importance": 7.0,
-      "outlet_count": 4,
+      "desk_importance": 6.0,
+      "outlet_count": 1,
       "trending": false,
-      "social_appeal": 8.0,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T21:01:35.443427+00:00"
+        "checked_at": "2026-11-27T22:01:53.452582+00:00"
       }
     },
     {
-      "story_id": "fa5e0d4e-f6df-5f0b-92c5-9f618a9ba136",
+      "story_id": "4bbbdcaf-9094-560b-a462-20fba477e98d",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#BangladeshBank",
+        "#CrossBorderTransactions"
+      ],
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/merged/merged_c422728d3d1769e34b7752632c8851c7.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-27T22:01:04.115907+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5987,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/economy/bb-asks-banks-to-set-up-price-verification-cells-for-cross-border-transactions",
+          "title": "BB asks banks to set up price verification cells for cross-border transactions",
+          "snippet": "BB asks banks to set up price verification cells for cross-border transactions"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সীমান্ত বাণিজ্যের দাম যাচাইয়ে ব্যাংকগুলোকে বিশেষ সেল গঠনের নির্দেশ বাংলাদেশ ব্যাংকের।",
+        "title_en": "Bangladesh Bank asks banks to set up price verification cells for cross-border transactions.",
+        "summary_bn": "বাংলাদেশ ব্যাংক সব অনুমোদিত ডিলার ব্যাংককে আমদানি, রপ্তানি ও সেবামূলক লেনদেনের মূল্য কেন্দ্রীয়ভাবে মনিটরিং ও যাচাইয়ের জন্য সেল গঠনের নির্দেশ দিয়েছে।",
+        "summary_en": "Bangladesh Bank has asked all authorised dealer banks to establish dedicated cells for monitoring and verifying trade transaction prices.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T22:01:04.115907+00:00",
+        "lead_bn": "বাংলাদেশ ব্যাংক সব অনুমোদিত ডিলার ব্যাংককে আমদানি, রপ্তানি ও সেবামূলক লেনদেনের মূল্য কেন্দ্রীয়ভাবে মনিটরিং ও যাচাইয়ের জন্য সেল গঠনের নির্দেশ দিয়েছে।",
+        "lead_en": "Bangladesh Bank has asked all authorised dealer banks to establish dedicated cells for monitoring and verifying trade transaction prices.",
+        "bullets_bn": [
+          "নির্দেশনা অনুযায়ী ব্যাংকগুলোকে আন্তর্জাতিকভাবে স্বীকৃত অন্তত একটি মূল্য যাচাই প্ল্যাটফর্মের সাবস্ক্রিপশন নিতে হবে।",
+          "বাংলাদেশ ব্যাংকের বৈদেশিক মুদ্রা নীতি বিভাগ থেকে জারি করা এক সার্কেল চিঠিতে এই নির্দেশনা দেওয়া হয়েছে।",
+          "সব অনুমোদিত ডিলার ব্যাংককে নির্ধারিত সময়ের মধ্যে সেল গঠনসহ প্রয়োজনীয় প্রস্তুতি সম্পন্ন করতে বলা হয়েছে।"
+        ],
+        "bullets_en": [
+          "Banks were advised to subscribe to at least one internationally recognised price verification platform.",
+          "The instructions were issued through a circular letter by Bangladesh Bank’s Foreign Exchange Policy.",
+          "All authorised dealer banks must complete necessary arrangements and set up dedicated cells within the stipulated timeframe."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বাংলাদেশ ব্যাংকের বৈদেশিক মুদ্রা নীতি বিভাগ থেকে জারি করা সার্কেল অনুযায়ী, এই পদক্ষেপের উদ্দেশ্য হলো আন্তঃসীমান্ত লেনদেনে প্রতিযোগিতামূলক ও যৌক্তিক মূল্য নিশ্চিত করা। ব্যাংকগুলোকে তাদের নিজস্ব অপারেশনাল প্রয়োজনীয়তা অনুযায়ী সাশ্রয়ী ও উপযুক্ত প্ল্যাটফর্ম বেছে নিতে বলা হয়েছে। আগামী ২০২৭ সালের ১ জানুয়ারি থেকে এই নির্দেশনা কার্যকর হবে।",
+        "details_en": "According to the circular issued by Bangladesh Bank’s Foreign Exchange Policy, the move aims to ensure competitive and reasonable pricing of cross-border transactions. Banks have been advised to choose platforms that are affordable and suitable for their operational requirements. The instructions will come into effect on January 1, 2027.",
+        "hook_bn": "আমদানি-রপ্তানির দাম যাচাইয়ে ব্যাংকে নতুন সেল",
+        "kicker_bn": "নতুন নিয়ম",
+        "share_value": true,
+        "question_bn": "সীমান্ত বাণিজ্যের মূল্য যাচাইয়ে কেন্দ্রীয় ব্যাংকের এই পদক্ষেপ দেশের বাণিজ্যে কতটা প্রভাব ফেলবে বলে আপনার মনে হয়?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-27T22:01:53.452582+00:00"
+      }
+    },
+    {
+      "story_id": "93ac647c-110c-59c7-85fd-cf5b2597b3e3",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1732721093900-5b1f9091cf5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bGFraHMlMjBtcG8lMjBsaXN0ZWQlMjB0ZWFjaGVycyUyMGVkdWNhdGlvbnxlbnwxfDB8fHwxNzk1ODE2OTA0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-27T22:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5951,
+      "sources": [
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/823328/%E0%A7%A8-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A6%95%E0%A7%8B%E0%A6%9A%E0%A6%BF%E0%A6%82-%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%87%C2%A0%E0%A6%9C%E0%A7%9C%E0%A6%BF%E0%A6%A4-%E0%A6%B2%E0%A6%BE%E0%A6%96%E0%A7%8B-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95",
+          "title": "২ লাখ কোচিং সেন্টারে জড়িত লাখো শিক্ষক!",
+          "snippet": "২ লাখ কোচিং সেন্টারে জড়িত লাখো শিক্ষক!"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কোচিং সেন্টারে জড়িত লাখো এমপিওভুক্ত শিক্ষক",
+        "title_en": "Lakhs of MPO-listed teachers involved in coaching centres",
+        "summary_bn": "শিক্ষা মন্ত্রণালয়ের নির্দেশনা উপেক্ষা করে রাজধানীসহ সারা দেশে প্রায় ২ লাখ কোচিং সেন্টারে সম্পৃক্ত রয়েছেন লাখো এমপিওভুক্ত শিক্ষক।",
+        "summary_en": "Ignoring education ministry directives, lakhs of MPO-listed teachers are involved in nearly 2 lakh coaching centres across the country.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T22:00:00+00:00",
+        "lead_bn": "শিক্ষা মন্ত্রণালয়ের নির্দেশনা উপেক্ষা করে রাজধানীসহ সারা দেশে প্রায় ২ লাখ কোচিং সেন্টারে সম্পৃক্ত রয়েছেন লাখো এমপিওভুক্ত শিক্ষক।",
+        "lead_en": "Ignoring education ministry directives, lakhs of MPO-listed teachers are involved in nearly 2 lakh coaching centres across the country.",
+        "bullets_bn": [
+          "বাংলাদেশ পরিসংখ্যান ব্যুরোর জরিপ প্রতিবেদন অনুযায়ী দেশে নিবন্ধিত কোচিং সেন্টারের সংখ্যা ৬ হাজার ৫৮৭।",
+          "নিবন্ধিত প্রতিষ্ঠানের মধ্যে একাডেমিক কোচিং সেন্টার রয়েছে ৬ হাজার ৩১২টি।",
+          "বিশ্ববিদ্যালয় ভর্তি প্রস্তুতি বা চাকরিসংক্রান্ত কোচিং সেন্টার রয়েছে আরো ২৭৫টি।"
+        ],
+        "bullets_en": [
+          "According to the Bangladesh Bureau of Statistics survey report, the number of registered coaching centres in the country is 6,587.",
+          "Among the registered institutions, academic coaching centres number 6,312.",
+          "There are another 275 university admission preparation or job-related coaching centres."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "শিক্ষা মন্ত্রণালয়ের নির্দেশনা উপেক্ষা করে রাজধানীসহ সারা দেশে প্রায় ২ লাখ কোচিং সেন্টারে সম্পৃক্ত রয়েছেন লাখো এমপিওভুক্ত শিক্ষক। বাংলাদেশ পরিসংখ্যান ব্যুরোর জরিপ প্রতিবেদন অনুযায়ী, দেশে নিবন্ধিত কোচিং সেন্টারের সংখ্যা ৬ হাজার ৫৮৭। এর মধ্যে একাডেমিক ৬ হাজার ৩১২টি ও বিশ্ববিদ্যালয় ভর্তি প্রস্তুতি বা চাকরিসংক্রান্ত কোচিং সেন্টার রয়েছে আরো ২৭৫টি। শিক্ষাসংশ্লিষ্টরা যদিও বলছেন, নিবন্ধনহীন কোচিং সেন্টারের সংখ্যা আরও বেশি।",
+        "details_en": "Ignoring education ministry directives, lakhs of MPO-listed teachers are involved in nearly 2 lakh coaching centres across the country including the capital. According to the Bangladesh Bureau of Statistics survey report, the number of registered coaching centres in the country is 6,587. Among them, academic coaching centres are 6,312 and university admission preparation or job-related coaching centres are another 275. Education-related people, however, say that the number of unregistered coaching centres is even higher.",
+        "hook_bn": "দুই লাখ কোচিং সেন্টারে জড়িত লাখো শিক্ষক",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": "আপনার এলাকার কোচিং সেন্টারগুলোতে শিক্ষকদের সম্পৃক্ততা নিয়ে আপনার অভিজ্ঞতা কেমন?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-27T22:01:53.452582+00:00"
+      }
+    },
+    {
+      "story_id": "7d66ea72-f2c6-5c54-b0e3-5a7f100c1447",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -100,202 +215,201 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-27%2F7ungoguy%2FAmir.jpg?rect=0%2C24%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://images.unsplash.com/photo-1641554251012-0a0f858d52f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8aW5qdXJlZCUyMGNsYXNoJTIwYmV0d2VlbiUyMGF3YW1pJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1ODE2OTA2fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-27T18:40:14+00:00",
+      "published_at": "2026-11-27T21:52:39+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 4.9109,
+      "importance_score": 6.0,
+      "rank_score": 3.5697,
       "sources": [
         {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/tj53h1ycze",
-          "title": "দুর্নীতি, চাঁদাবাজি, সন্ত্রাস, মিথ্যা মামলা দিয়ে হয়রানি আগের চেয়ে বেশি গতিতে চলছে: জামায়াত আমির",
-          "snippet": "দুর্নীতি, চাঁদাবাজি, সন্ত্রাস, মিথ্যা মামলা দিয়ে হয়রানি আগের চেয়ে বেশি গতিতে চলছে: জামায়াত আমির"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1184444",
+          "title": "মাদারীপুরে আওয়ামী লীগ-বিএনপি সংঘর্ষ, অর্ধশত ককটেল বিস্ফোরণ",
+          "snippet": "মাদারীপুরে আওয়ামী লীগ-বিএনপি সংঘর্ষ, অর্ধশত ককটেল বিস্ফোরণ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জামায়াত আমির বলেছেন ৫ আগস্টের পর চাঁদাবাজি ও সন্ত্রাস বেড়েছে।",
-        "title_en": "Jamaat Ameer says extortion and terrorism increased after August 5.",
-        "summary_bn": "বিরোধীদলীয় নেতা ও বাংলাদেশ জামায়াতে ইসলামীর আমির শফিকুর রহমান বলেছেন, ৫ আগস্টের পর দুর্নীতি, চাঁদাবাজি ও সন্ত্রাস আগের চেয়ে বেশি গতিতে চলছে।",
-        "summary_en": "Opposition leader and Bangladesh Jamaat-e-Islami Ameer Shafiqur Rahman said corruption, extortion, and terrorism are proceeding at a higher pace after August 5.",
+        "title_bn": "মাদারীপুরে আওয়ামী লীগ ও বিএনপির সংঘর্ষে আহত ছয়",
+        "title_en": "Six injured in clash between Awami League and BNP in Madaripur",
+        "summary_bn": "মাদারীপুরের কালকিনিতে কার্যক্রম নিষিদ্ধ আওয়ামী লীগ ও বিএনপির নেতাকর্মীদের মধ্যে সংঘর্ষের ঘটনা ঘটেছে এবং এতে ছয়জন আহত হয়েছেন।",
+        "summary_en": "A clash took place between activists of the banned Awami League and the BNP in Kalkini, Madaripur, leaving six people injured.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T18:40:14+00:00",
-        "lead_bn": "বিরোধীদলীয় নেতা ও বাংলাদেশ জামায়াতে ইসলামীর আমির শফিকুর রহমান বলেছেন, ৫ আগস্টের পর দুর্নীতি, চাঁদাবাজি ও সন্ত্রাস আগের চেয়ে বেশি গতিতে চলছে।",
-        "lead_en": "Opposition leader and Bangladesh Jamaat-e-Islami Ameer Shafiqur Rahman said corruption, extortion, and terrorism are proceeding at a higher pace after August 5.",
+        "published_at": "2026-11-27T21:52:39+00:00",
+        "lead_bn": "মাদারীপুরের কালকিনিতে কার্যক্রম নিষিদ্ধ আওয়ামী লীগ ও বিএনপির নেতাকর্মীদের মধ্যে সংঘর্ষের ঘটনা ঘটেছে এবং এতে ছয়জন আহত হয়েছেন।",
+        "lead_en": "A clash took place between activists of the banned Awami League and the BNP in Kalkini, Madaripur, leaving six people injured.",
         "bullets_bn": [
-          "রাজধানীর মিন্টো রোডে বিরোধীদলীয় নেতার সরকারি বাসভবনে মতবিনিময় অনুষ্ঠানটি আয়োজিত হয়।",
-          "শফিকুর রহমান বলেন, গণভোট অস্বীকার করার মধ্য দিয়ে সংকট তৈরি হয়েছে।",
-          "তিনি আরও বলেন, তার অভিধানে কোনো সংখ্যালঘু নেই।"
+          "সংঘর্ষের সময় অর্ধশতাধিক ককটেল বিস্ফোরণের ঘটনা ঘটে।",
+          "কার্যক্রম নিষিদ্ধ আওয়ামী লীগ ও বিএনপির নেতাকর্মীদের মধ্যে এই সংঘর্ষ হয়।",
+          "সংঘর্ষে আহত হয়েছেন ছয়জন।"
         ],
         "bullets_en": [
-          "The view-exchange meeting was held at the official residence of the opposition leader on Minto Road in the capital.",
-          "Shafiqur Rahman said a crisis was created through the rejection of the referendum.",
-          "He further stated that there are no minorities in his dictionary."
+          "More than fifty cocktail explosions occurred during the clash.",
+          "The clash took place between activists of the banned Awami League and the BNP.",
+          "Six people were injured in the clash."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ডাকসু, জাকসু, রাকসু, চাকসু ও জকসুর নির্বাচিত ছাত্রপ্রতিনিধিদের সঙ্গে বিরোধীদলীয় নেতা ও জামায়াতের আমিরের এই মতবিনিময় সভা অনুষ্ঠিত হয়। অনুষ্ঠানে বিভিন্ন বিশ্ববিদ্যালয়ের ছাত্র সংসদের নেতারা উপস্থিত ছিলেন। প্রশ্নোত্তর পর্বে ঢাকা বিশ্ববিদ্যালয়ের জগন্নাথ হল সংসদের জিএস সুদীপ্ত প্রামাণিক সংখ্যালঘুদের অধিকার নিয়ে প্রশ্ন করেন।",
-        "details_en": "This view-exchange meeting of the opposition leader and the Jamaat Ameer was held with elected student representatives of DUCSU, Jaksu, RUCSU, Chaksou, and Zaksou. Leaders of various university student unions were present at the event. During the question-and-answer session, Dhaka University Jagannath Hall union GS Sudipta Pramanik asked a question regarding minority rights.",
-        "hook_bn": "আমার ডিকশনারিতে কোনো সংখ্যালঘু নাই",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "মাদারীপুরে আওয়ামী লীগ-বিএনপি সংঘর্ষ",
         "kicker_bn": null,
         "share_value": false,
-        "question_bn": "সংখ্যালঘু অধিকার ও দেশের বর্তমান পরিস্থিতি নিয়ে আপনার মতামত কী?"
+        "question_bn": null
       },
-      "desk_importance": 7.0,
+      "desk_importance": 6.0,
       "outlet_count": 1,
-      "trending": true,
+      "trending": false,
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T21:01:35.443427+00:00"
+        "checked_at": "2026-11-27T22:01:53.452582+00:00"
       }
     },
     {
-      "story_id": "29c279af-fae4-5f3e-8063-3632d2753283",
-      "primary_category": "governance_law",
+      "story_id": "66046174-eb92-561c-8ad9-c35f1af9c12b",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "governance_law",
-        "economy_business"
+        "world_diplomacy",
+        "governance_law"
       ],
-      "region": "national",
+      "region": "international",
       "tags": [
-        "#Savar",
-        "#DhakaArichaHighway",
-        "#FireService"
+        "#USMilitary",
+        "#Iran",
+        "#StraitOfHormuz",
+        "#CENTCOM"
       ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/merged/merged_534ca551fae02218afd2a2ad64d730bd.jpg",
+      "image_url": "https://th-i.thgim.com/public/incoming/agf8dh/article71752222.ece/alternates/LANDSCAPE_1200/US%20Iran%20blockade.jpg",
       "image_caption": null,
-      "published_at": "2026-11-27T21:00:59.021227+00:00",
+      "published_at": "2026-11-27T19:35:02+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.8987,
+      "importance_score": 6.0,
+      "rank_score": 3.1267,
       "sources": [
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/bus-set-ablaze-in-broad-daylight-in-savar",
-          "title": "Bus 'set ablaze' in broad daylight in Savar",
-          "snippet": "Bus 'set ablaze' in broad daylight in Savar"
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/us-military-says-it-disabled-commercial-ship-trying-to-run-iran-blockade/article71752214.ece",
+          "title": "U.S. disables ship trying to leave Iran, as Tehran vows to confront blockade",
+          "snippet": "U.S. disables ship trying to leave Iran, as Tehran vows to confront blockade"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সাভারে ঢাকা-আরিচা মহাসড়কে একটি বাসে আগুন",
-        "title_en": "Bus set on fire on Dhaka-Aricha Highway in Savar",
-        "summary_bn": "সাভারের জোড়পুল এলাকায় ঢাকা-আরিচা মহাসড়কে পার্ক করা অবস্থায় লাব্বাইক পরিবহনের একটি বাসে আগুন দেওয়া হয়েছে।",
-        "summary_en": "A Labbaik Paribahan bus parked on the Dhaka-Aricha Highway in Savar's Jorpul has been set on fire.",
+        "title_bn": "মার্কিন সামরিক বাহিনী ইরানের বন্দর থেকে যাওয়া একটি বাণিজ্যিক জাহাজ অচল করে দিয়েছে।",
+        "title_en": "U.S. military disables a commercial ship trying to leave Iran.",
+        "summary_bn": "মার্কিন সামরিক বাহিনী ওমান উপসাগরে ইরানের বন্দর থেকে যাওয়া একটি পালাউ-পতাকাবাহী বাণিজ্যিক জাহাজের গতিশক্তি অচল করে দিয়েছে।",
+        "summary_en": "The U.S. military disabled a Palau-flagged commercial ship in the Gulf of Oman after it departed from an Iranian port.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "economy_business"
+          "world_diplomacy",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T21:00:59.021227+00:00",
-        "lead_bn": "সাভারের জোড়পুল এলাকায় ঢাকা-আরিচা মহাসড়কে পার্ক করা অবস্থায় লাব্বাইক পরিবহনের একটি বাসে আগুন দেওয়া হয়েছে।",
-        "lead_en": "A Labbaik Paribahan bus parked on the Dhaka-Aricha Highway in Savar's Jorpul has been set on fire.",
+        "published_at": "2026-11-27T19:35:02+00:00",
+        "lead_bn": "মার্কিন সামরিক বাহিনী ওমান উপসাগরে ইরানের বন্দর থেকে যাওয়া একটি পালাউ-পতাকাবাহী বাণিজ্যিক জাহাজের গতিশক্তি অচল করে দিয়েছে।",
+        "lead_en": "The U.S. military disabled a Palau-flagged commercial ship in the Gulf of Oman after it departed from an Iranian port.",
         "bullets_bn": [
-          "খবর পেয়ে ফায়ার সার্ভিসের দুটি ইউনিট দ্রুত ঘটনাস্থলে পৌঁছে আগুন নিয়ন্ত্রণে আনে।",
-          "আগুন নিয়ন্ত্রণে আসার আগেই বাসটির পুরো ভেতর অংশ পুড়ে গেছে বলে ফায়ার সার্ভিস জানায়।",
-          "পুলিশের ধারণা, তীব্র রোদের তাপে গ্যাসচালিত বাসটিতে আগুন লেগে থাকতে পারে।"
+          "যুদ্ধবিমান থেকে সুনির্দিষ্ট লক্ষ্যবস্তু ভেদ করতে সক্ষম অস্ত্র দিয়ে জাহাজটির পেছনের অংশে আঘাত হানা হয়।",
+          "জাহাজটির বেসামরিক ক্রুরা অক্ষত রয়েছেন বলে মার্কিন সামরিক বাহিনী জানিয়েছে।",
+          "ইরানের সর্বোচ্চ নেতার এক উপদেষ্টা হরমুজ প্রণালী বন্ধ রাখার এবং নিষেধাজ্ঞা ভাঙার ঘোষণা দিয়েছেন।"
         ],
         "bullets_en": [
-          "Two fire service units quickly reached the scene and brought the blaze under control.",
-          "The fire service said the entire interior of the bus had been gutted before the blaze was controlled.",
-          "Police suspect the gas-powered bus caught fire due to the intense heat of the sun."
+          "Military aircraft launched precision munitions that struck the stern of the ship.",
+          "The U.S. military stated that the civilian crew of the ship remained unharmed.",
+          "An adviser to Iran's Supreme Leader vowed to keep the Strait of Hormuz shut and break the embargo."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "সাভার ফায়ার সার্ভিসের সিনিয়র স্টেশন অফিসার জাহাঙ্গীর আলম জানান, স্থানীয়দের সঙ্গে কথা বলে ও প্রাথমিক তদন্তে মনে হয়েছে বাসটিতে পরিকল্পিতভাবে আগুন দেওয়া হয়েছে। একজন প্রত্যক্ষদর্শীর দাবি, মোটরসাইকেলে করে এসে কয়েকজন বাসে আগুন দিয়ে দ্রুত পালিয়ে যায়। তবে সাভার মডেল থানার প্রধান মো. সাইফুল আলম জানান, বাসটি গত দুই দিন ধরে ওই স্থানে পার্ক করা ছিল এবং এটি একটি গ্যাসচালিত বাস। তিনি বলেন, আজকাল যেকোনো দুর্ঘটনাজনিত আগুনকেও অন্তর্ঘাত বলে লেবেল লাগিয়ে দেওয়া হয়।",
-        "details_en": "Savar Fire Service senior station officer Jahangir Alam said conversations with people at the scene and preliminary investigations suggested the bus was deliberately set on fire. An eyewitness claimed people arriving on a motorcycle set the bus ablaze before fleeing. However, Savar Model Police Station chief Md Saiful Alam said the gas-powered bus had been parked there for two days, adding that accidental fires are often labelled as sabotage.",
-        "hook_bn": "সাভারে মহাসড়কে পার্ক করা বাসে আগুন",
-        "kicker_bn": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "হরমুজ প্রণালী কখনোই পুনরায় খোলা হবে না",
+        "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T21:01:35.443427+00:00"
-      }
-    },
-    {
-      "story_id": "4a4d3074-2505-591b-8235-8dbb25ec981f",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Rooppur",
-        "#Rosatom",
-        "#BangladeshArmy"
-      ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/merged/merged_ff63f654ddc7e0b226b4505eeb52b38c.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-27T21:00:59.021227+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.4993,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/final-nuclear-fuel-shipment-arrives-at-rooppur-power-plant",
-          "title": "Final nuclear fuel shipment arrives at Rooppur power plant",
-          "snippet": "Final nuclear fuel shipment arrives at Rooppur power plant"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রূপপুর প্রকল্পে পৌঁছেছে শেষ ইউরেনিয়াম চালান",
-        "title_en": "Final nuclear fuel shipment arrives at Rooppur power plant",
-        "summary_bn": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্রের জন্য রাশিয়া থেকে আমদানিকৃত নবম ও শেষ ইউরেনিয়াম চালান প্রকল্প এলাকায় পৌঁছেছে।",
-        "summary_en": "The ninth and final consignment of uranium imported from Russia for Bangladesh’s first nuclear power plant at Rooppur has arrived at the project site.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T21:00:59.021227+00:00",
-        "lead_bn": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্রের জন্য রাশিয়া থেকে আমদানিকৃত নবম ও শেষ ইউরেনিয়াম চালান প্রকল্প এলাকায় পৌঁছেছে।",
-        "lead_en": "The ninth and final consignment of uranium imported from Russia for Bangladesh’s first nuclear power plant at Rooppur has arrived at the project site.",
-        "bullets_bn": [
-          "বাংলাদেশ সেনাবাহিনীর তত্ত্বাবধানে এবং আইনশৃঙ্খলা রক্ষাকারী বাহিনীর কঠোর নিরাপত্তায় তিনটি বিশেষ লরিতে করে পারমাণবিক জ্বালানি রূপপুর প্রাঙ্গণে প্রবেশ করে।",
-          "প্রকল্প কর্তৃপক্ষ জানিয়েছে, জ্বালানিটি নয়টি ধাপে এসেছে যার মধ্যে দ্বিতীয় ইউনিটের প্রাথমিক জ্বালানি লোডের জন্য সাতটি এবং প্রথম ইউনিটের রিফুয়েলিংয়ের জন্য দুটি চালান রয়েছে।",
-          "রাশিয়ার রাষ্ট্রীয় পারমাণবিক কর্পোরেশন রোসাটমের পরিকল্পনা অনুযায়ী সাতটি কার্গো ফ্লাইটে দ্বিতীয় ইউনিটের জন্য ১৬৩টি এবং দুটি ফ্লাইটে প্রথম ইউনিটের জন্য আরও ৪৮টি ইউরেনিয়াম অ্যাসেম্বলি আনা হয়েছে।"
-        ],
-        "bullets_en": [
-          "Three specialised lorries carrying the nuclear fuel entered the Rooppur compound under the supervision of the Bangladesh Army and tight security.",
-          "Project authorities said the fuel arrived in nine phases: seven shipments for Unit 2 and two for refuelling Unit 1.",
-          "Under Rosatom's plan, seven cargo flights carried 163 uranium assemblies for Unit 2, and two flights brought 48 for Unit 1."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "উদ্ভিদটিতে রুশ প্রযুক্তিতে নির্মিত দুটি ভিভিইআর-১২০০ ইউনিট রয়েছে, যার প্রতিটির ক্ষমতা ১,২০০ মেগাওয়াট। পূর্ণ ক্ষমতায় চালু হলে এগুলো জাতীয় গ্রিডে ২,৪০০ মেগাওয়াট নিরবচ্ছিন্ন বিদ্যুৎ সরবরাহ করবে। এদিকে প্রথম ইউনিটে পরীক্ষামূলক বিদ্যুৎ উৎপাদন এবং গ্রিডে সরবরাহ দ্রুত এগিয়ে চলছে। কারিগরি সক্ষমতা যাচাই করতে গত ২৩ নভেম্বর সকাল ১০টা ২০ মিনিটে দ্বিতীয় দফার পরীক্ষামূলক সরবরাহ শুরু হয়, যেখানে ১০ থেকে ২৪ ঘণ্টার জন্য গ্রিডে ৩০০ থেকে ৩৫০ মেগাওয়াট বিদ্যুৎ সরবরাহ করা হয়।",
-        "details_en": "The plant has two VVER-1200 units built with Russian technology, each with a capacity of 1,200MW. At full capacity, they will feed 2,400MW of uninterrupted power into the national grid. Trial power generation at Unit 1 and supply to the grid is moving ahead fast. The second round of trial supply began at 10:20am on Nov 23, with 300-350MW being fed into the grid for 10 to 24 hours to test technical capability.",
-        "hook_bn": "রূপপুরে পৌঁছাল ইউরেনিয়ামের শেষ চালান",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
+      "desk_importance": 6.0,
       "outlet_count": 1,
       "trending": false,
       "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T21:01:35.443427+00:00"
+        "checked_at": "2026-11-27T22:01:53.452582+00:00"
+      }
+    },
+    {
+      "story_id": "b1854c37-bbfc-58ad-82b1-fd61b2b42aac",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#SpainElection",
+        "#PedroSanchez",
+        "#AlbertoNunezFeijoo"
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-27T21:55:53+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4867,
+      "sources": [
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+          "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+          "snippet": "Spanish PM and rivals rally supporters in final pitch for votes"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "স্পেনের প্রধান দলগুলোর নেতারা ভোটের আগে শেষ প্রচারণা চালিয়েছেন।",
+        "title_en": "Spain main party leaders held final rallies ahead of vote.",
+        "summary_bn": "স্পেনের প্রধান রাজনৈতিক দলগুলোর নেতারা ভোটের আগে তাদের শেষ প্রচারণা ও সমাবেশ সম্পন্ন করেছেন।",
+        "summary_en": "Main party leaders in Spain held their final rallies and campaigns ahead of the election.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T21:55:53+00:00",
+        "lead_bn": "স্পেনের প্রধান রাজনৈতিক দলগুলোর নেতারা ভোটের আগে তাদের শেষ প্রচারণা ও সমাবেশ সম্পন্ন করেছেন।",
+        "lead_en": "Main party leaders in Spain held their final rallies and campaigns ahead of the election.",
+        "bullets_bn": [
+          "সোশালিষ্ট প্রধানমন্ত্রী পেদ্রো সানচেস বলেছেন নির্বাচনে হেরে যাওয়ার কথা তিনি ভাবতেই পারেন না।",
+          "পিপলস পার্টির আলবার্তো নুনেজ ফেইহো ভোটারদের নতুন রাজনৈতিক যুগের প্রতিশ্রুতি দিয়েছেন।",
+          "প্রায় ৩ কোটি ৯০ লাখ মানুষ স্পেনের নির্বাচনে ভোট দেওয়ার অধিকার রাখেন।"
+        ],
+        "bullets_en": [
+          "Socialist Prime Minister Pedro Sanchez said he cannot imagine losing the election.",
+          "People Party leader Alberto Nunez Feijoo promised voters a new political era.",
+          "Almost 39 million people are eligible to vote in the Spanish election."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "পিপলস পার্টি জনমত জরিপে সামান্য এগিয়ে রয়েছে এবং শেষ প্রচারণায় তারা বার্সেলোনা ও সেভিলে ভ্রমণ করেছে। সোশালিষ্ট নেতা এমন এক বামপন্থী সরকারের নেতৃত্ব দিচ্ছেন যা ইউরোপের অন্যতম। প্রায় ৩ কোটি ৯০ লাখ ভোটার স্পেনের নির্বাচনে ভোট দেবেন এবং জরিপগুলোতে তীব্র প্রতিদ্বন্দ্বিতার ইঙ্গিত পাওয়া গেছে। স্পেনের নির্বাচনী আইন অনুযায়ী সোমাবারের পর কোনো জরিপ প্রকাশ করা হয়নি। পিপলস পার্টি জয়ী হলে ফার রাইট দল ভক্সের সমর্থন নিয়ে সরকার গঠন করতে পারে।",
+        "details_en": "The People Party is narrowly ahead in the polls and campaigned in Barcelona and Seville. The Socialist leader heads one of Europe left-wing governments. Almost 39 million people have a vote in Spain with polls suggesting a close finish, and no polls have been published since Monday under Spanish electoral law. A People Party government would be formed with the support of the anti-immigration party Vox.",
+        "hook_bn": "আই কান ইমাজিন আস লুজিং",
+        "kicker_bn": "নির্বাচন",
+        "share_value": false,
+        "question_bn": "স্পেনের এই নির্বাচন নিয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 3.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-27T22:01:53.452582+00:00"
       }
     }
   ]
