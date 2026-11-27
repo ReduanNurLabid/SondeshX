@@ -1,74 +1,143 @@
 {
-  "updated_at": "2026-11-27T00:00:46.653740",
-  "total_stories": 1,
+  "updated_at": "2026-11-27T01:00:49.505749",
+  "total_stories": 2,
   "stories": [
     {
-      "story_id": "33953662-5c0b-5876-a352-464363703cf0",
-      "primary_category": "world_diplomacy",
+      "story_id": "51a07678-d688-5cf7-9b6f-f23c820bea66",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy"
+        "governance_law"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#VolodymyrZelensky",
-        "#DonaldTrump",
-        "#VladimirPutin",
-        "#US"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
+      "image_url": "https://images.unsplash.com/photo-1614610741181-2bce5e06976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGVwYXJ0bWVudCUyMHdpbGwlMjBvcGVuZWQlMjBnaXZlJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1NzQxMzU2fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-26T22:49:27+00:00",
+      "published_at": "2026-11-27T00:30:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.3333,
+      "importance_score": 7.0,
+      "rank_score": 4.7491,
       "sources": [
         {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-          "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
-          "snippet": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/823200/%E0%A7%A7%E0%A7%AD-%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A4%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%95-%E0%A6%AD%E0%A6%BE%E0%A6%A4%E0%A6%BE-%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%A6%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%B0",
+          "title": "১৭ বছরে ক্ষতিগ্রস্তদের মাসিক ভাতা দিতে অধিদপ্তর খোলা হবে: মুক্তিযুদ্ধ মন্ত্রী",
+          "snippet": "১৭ বছরে ক্ষতিগ্রস্তদের মাসিক ভাতা দিতে অধিদপ্তর খোলা হবে: মুক্তিযুদ্ধ মন্ত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "যুক্তরাষ্ট্র পর্যাপ্ত চাপ দিচ্ছে না এবং মধ্যপ্রাচ্যে বেশি মনোযোগী বলে জানিয়েছেন জেলেনস্কি।",
-        "title_en": "US too focused on Middle East and not pushing Russia hard enough, says Zelensky.",
-        "summary_bn": "ইউক্রেনের প্রেসিডেন্ট ভলোদিমির জেলেনস্কি যুক্তরাষ্ট্রের বিরুদ্ধে গভীর অসন্তোষ প্রকাশ করে বলেছেন, যুক্তরাষ্ট্র রাশিয়াকে যথেষ্ট চাপ দিচ্ছে না।",
-        "summary_en": "Ukrainian President Volodymyr Zelensky has voiced deep frustration with the US, saying the US is not pushing Russia hard enough.",
+        "title_bn": "ক্ষতিগ্রস্তদের মাসিক ভাতা দিতে অধিদপ্তর খোলা হবে বলে জানিয়েছেন মুক্তিযুদ্ধবিষয়ক মন্ত্রী",
+        "title_en": "Department will be opened to give monthly allowance to victims, says Liberation War Affairs Minister",
+        "summary_bn": "ফ্যাসিবাদ-বিরোধী আন্দোলনে নিহত ও গত ১৭ বছরে ক্ষতিগ্রস্তদের মাসিক ভাতা দেওয়ার জন্য অধিদপ্তর খোলা হবে বলে জানিয়েছেন মুক্তিযুদ্ধবিষয়ক মন্ত্রী আহমেদ আজম খান।",
+        "summary_en": "Liberation War Affairs Minister Ahmed Azam Khan stated that a department will be opened to provide monthly allowances to those killed in the anti-fascist movement and those affected over the past 17 years.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T22:49:27+00:00",
-        "lead_bn": "ইউক্রেনের প্রেসিডেন্ট ভলোদিমির জেলেনস্কি যুক্তরাষ্ট্রের বিরুদ্ধে গভীর অসন্তোষ প্রকাশ করে বলেছেন, যুক্তরাষ্ট্র রাশিয়াকে যথেষ্ট চাপ দিচ্ছে না।",
-        "lead_en": "Ukrainian President Volodymyr Zelensky has voiced deep frustration with the US, saying the US is not pushing Russia hard enough.",
+        "published_at": "2026-11-27T00:30:00+00:00",
+        "lead_bn": "ফ্যাসিবাদ-বিরোধী আন্দোলনে নিহত ও গত ১৭ বছরে ক্ষতিগ্রস্তদের মাসিক ভাতা দেওয়ার জন্য অধিদপ্তর খোলা হবে বলে জানিয়েছেন মুক্তিযুদ্ধবিষয়ক মন্ত্রী আহমেদ আজম খান।",
+        "lead_en": "Liberation War Affairs Minister Ahmed Azam Khan stated that a department will be opened to provide monthly allowances to those killed in the anti-fascist movement and those affected over the past 17 years.",
         "bullets_bn": [
-          "গুরুত্বপূর্ণ অ্যান্টি-ব্যালিস্টিক ক্ষেপণাস্ত্র সরবরাহে বিলম্বের কারণে ইউক্রেনীয়দের প্রাণহানি ঘটছে বলে জানিয়েছেন জেলেনস্কি।",
-          "ডোনাল্ড ট্রাম্প ভ্লাদিমির পুতিনকে বন্ধু হিসেবে জড়িয়ে ধরার ছবি পোস্ট করাকে অদ্ভুত বলে উল্লেখ করেছেন জেলেনস্কি।",
-          "আবুধাবিতে মধ্যস্থতা করা সর্বশেষ শান্তি আলোচনা কোনো স্পষ্ট অগ্রগতি ছাড়াই শেষ হয়েছে।"
+          "মন্ত্রী জানান যে জুলাই যোদ্ধারা ভাতা পাবেন।",
+          "ঝিনাইদহের শৈলকুপার কামান্নায় ২৭ বীর মুক্তিযোদ্ধা হত্যা দিবস উপলক্ষ্যে স্মরণ সভা আয়োজিত হয়।",
+          "স্মরণ সভায় প্রধান অতিথির বক্তব্যে মুক্তিযুদ্ধবিষয়ক মন্ত্রী এই ঘোষণা দেন।"
         ],
         "bullets_en": [
-          "Zelensky said that delays in delivering vital anti-ballistic missiles are costing Ukrainian lives.",
-          "Zelensky called it strange that Donald Trump had posted a picture of himself embracing Vladimir Putin as my friend.",
-          "The latest round of peace talks mediated in Abu Dhabi made no obvious progress."
+          "The minister stated that July fighters will receive allowances.",
+          "A memorial meeting was organized on the occasion of the 27 Bir Muktijoddha killing day in Kamanna, Shailkupa, Jhenaidah.",
+          "The Liberation War Affairs Minister made this announcement while speaking as the chief guest at the memorial meeting."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "যুক্তরাষ্ট্রের সঙ্গে সম্পর্ক পরিচালনার বিষয়ে ট্রাম্পের সঙ্গে ওভাল অফিসে ঘটা এক ঘটনার পর থেকে জেলেনস্কি সতর্ক রয়েছেন। ট্রাম্পের দুজন দূত রাশিয়া ও ইউক্রেনের মধ্যে শান্তি চুক্তি মধ্যস্থতার চেষ্টা চালাচ্ছেন। এই মাসের শুরুতে আবুধাবিতে শান্তি আলোচনা অনুষ্ঠিত হয় এবং আগামী ডিসেম্বরে আলোচনা পুনরায় শুরু হওয়ার কথা রয়েছে।",
-        "details_en": "Since a bruising encounter with Trump in the Oval Office, Zelensky has been careful how he handles relations with the US. Trump's two envoys have been trying to negotiate a peace deal between Russia and Ukraine. The latest round of talks was mediated in Abu Dhabi earlier this month, and talks are expected to resume in December.",
-        "hook_bn": "'সে একজন আক্রমণকারী এবং একজন খুনি'",
-        "kicker_bn": "সতর্কতা",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "ক্ষতিগ্রস্তদের মাসিক ভাতা দিতে অধিদপ্তর খোলা হবে",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 5.0,
+      "desk_importance": 7.0,
       "outlet_count": 1,
       "trending": false,
-      "social_appeal": 3.0,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T00:01:30.339866+00:00"
+        "checked_at": "2026-11-27T01:03:05.989114+00:00"
+      }
+    },
+    {
+      "story_id": "c81735b4-2601-565d-bf2f-712bc71278b0",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#UnitedStates",
+        "#China",
+        "#GlobalTrade",
+        "#Tariffs"
+      ],
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/California.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-26T18:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.5,
+      "rank_score": 2.8131,
+      "sources": [
+        {
+          "name": "The Daily Star Business",
+          "url": "https://www.thedailystar.net/business/global-economy/news/trumps-new-tariffs-aim-prise-global-trade-chinas-grip-4334131",
+          "title": "Trump’s new tariffs aim to prise global trade from China’s grip",
+          "snippet": "Trump’s new tariffs aim to prise global trade from China’s grip"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যুক্তরাষ্ট্রের নতুন শুল্ক চীনের বৈশ্বিক বাণিজ্যের ওপর চাপ সৃষ্টি করছে",
+        "title_en": "United States new tariffs aim to pressure China global trade",
+        "summary_bn": "যুক্তরাষ্ট্রের নতুন শুল্ক বৃদ্ধির লক্ষ্য হলো বেইজিংয়ের সঙ্গে বাণিজ্য উত্তেজনা বাড়িয়ে বৈশ্বিক বাণিজ্য পুনর্গঠন করা।",
+        "summary_en": "The United States latest tariff hikes aim to inflame trade tension with Beijing and reorder global trade.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-26T18:00:00+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের নতুন শুল্ক বৃদ্ধির লক্ষ্য হলো বেইজিংয়ের সঙ্গে বাণিজ্য উত্তেজনা বাড়িয়ে বৈশ্বিক বাণিজ্য পুনর্গঠন করা।",
+        "lead_en": "The United States latest tariff hikes aim to inflame trade tension with Beijing and reorder global trade.",
+        "bullets_bn": [
+          "যুক্তরাষ্ট্র চীনের ওপর ২০ শতাংশ শুল্ক বৃদ্ধির পরিকল্পনা করেছে।",
+          "মার্কিন প্রশাসন জানিয়েছে যে বাণিজ্যের ক্ষেত্রে অতিরিক্ত শিল্প সক্ষমতা নিয়ে আট মাস তদন্ত করা হয়েছে।",
+          "চিনের পররাষ্ট্র মন্ত্রণালয় অন্যায্য শিল্প অনুশীলনের অভিযোগ অস্বীকার করেছে।"
+        ],
+        "bullets_en": [
+          "The Trump administration planned to raise China tariffs by 20 percent.",
+          "The new tariffs follow an eight-month investigation of unfair trade practices that examined excess industrial capacity.",
+          "China foreign ministry responded by rejecting accusations of unfair industrial practices."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "যুক্তরাষ্ট্রের নতুন শুল্ক চীনের বাণিজ্যের ওপর চাপ",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": "বৈশ্বিক বাণিজ্যে এই নতুন শুল্কের প্রভাব কীভাবে পড়তে পারে বলে আপনি মনে করেন?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-27T01:03:05.989114+00:00"
       }
     }
   ]
