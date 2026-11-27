@@ -1,143 +1,223 @@
 {
-  "updated_at": "2026-11-27T01:00:49.505749",
-  "total_stories": 2,
+  "updated_at": "2026-11-27T02:00:40.861848",
+  "total_stories": 3,
   "stories": [
     {
-      "story_id": "51a07678-d688-5cf7-9b6f-f23c820bea66",
-      "primary_category": "governance_law",
+      "story_id": "89598b5a-1212-5623-8b32-4e32c633118c",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "governance_law"
+        "economy_business",
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1614610741181-2bce5e06976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGVwYXJ0bWVudCUyMHdpbGwlMjBvcGVuZWQlMjBnaXZlJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1NzQxMzU2fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://static.dw.com/image/80062726_6.jpg",
       "image_caption": null,
-      "published_at": "2026-11-27T00:30:00+00:00",
+      "published_at": "2026-11-26T14:32:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.7491,
+      "importance_score": 9.5,
+      "rank_score": 4.6483,
       "sources": [
         {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823200/%E0%A7%A7%E0%A7%AD-%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A4%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%95-%E0%A6%AD%E0%A6%BE%E0%A6%A4%E0%A6%BE-%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%A6%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%B0",
-          "title": "১৭ বছরে ক্ষতিগ্রস্তদের মাসিক ভাতা দিতে অধিদপ্তর খোলা হবে: মুক্তিযুদ্ধ মন্ত্রী",
-          "snippet": "১৭ বছরে ক্ষতিগ্রস্তদের মাসিক ভাতা দিতে অধিদপ্তর খোলা হবে: মুক্তিযুদ্ধ মন্ত্রী"
+          "name": "DW বাংলা",
+          "url": "https://www.dw.com/bn/ন্যূনতম-মজুরি-বৃদ্ধির-ঘোষণার-পরও-থামছে-না-পোশাক-শ্রমিকদের-বিক্ষোভ/a-80064289?maca=ben-rss-ben-all-3197-rdf",
+          "title": "ন্যূনতম মজুরি বৃদ্ধির ঘোষণার পরও থামছে না পোশাক শ্রমিকদের বিক্ষোভ",
+          "snippet": "ন্যূনতম মজুরি বৃদ্ধির ঘোষণার পরও থামছে না পোশাক শ্রমিকদের বিক্ষোভ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ক্ষতিগ্রস্তদের মাসিক ভাতা দিতে অধিদপ্তর খোলা হবে বলে জানিয়েছেন মুক্তিযুদ্ধবিষয়ক মন্ত্রী",
-        "title_en": "Department will be opened to give monthly allowance to victims, says Liberation War Affairs Minister",
-        "summary_bn": "ফ্যাসিবাদ-বিরোধী আন্দোলনে নিহত ও গত ১৭ বছরে ক্ষতিগ্রস্তদের মাসিক ভাতা দেওয়ার জন্য অধিদপ্তর খোলা হবে বলে জানিয়েছেন মুক্তিযুদ্ধবিষয়ক মন্ত্রী আহমেদ আজম খান।",
-        "summary_en": "Liberation War Affairs Minister Ahmed Azam Khan stated that a department will be opened to provide monthly allowances to those killed in the anti-fascist movement and those affected over the past 17 years.",
+        "title_bn": "ন্যূনতম মজুরি বৃদ্ধির ঘোষণার পরও গাজীপুরে পোশাক শ্রমিকদের বিক্ষোভ অব্যাহত রয়েছে",
+        "title_en": "Garment workers continue protests in Gazipur despite announcement of minimum wage increase",
+        "summary_bn": "পোশাক শ্রমিকদের মাসিক ন্যূনতম মজুরি ১৭ হাজার টাকা করার সিদ্ধান্ত নেওয়ার পরও গাজীপুরে শ্রমিকদের বিক্ষোভ ও পুলিশের সঙ্গে সংঘর্ষ হয়েছে।",
+        "summary_en": "Garment workers have staged protests and clashed with police in Gazipur despite the decision to raise the monthly minimum wage to 17,000 taka.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "economy_business",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T00:30:00+00:00",
-        "lead_bn": "ফ্যাসিবাদ-বিরোধী আন্দোলনে নিহত ও গত ১৭ বছরে ক্ষতিগ্রস্তদের মাসিক ভাতা দেওয়ার জন্য অধিদপ্তর খোলা হবে বলে জানিয়েছেন মুক্তিযুদ্ধবিষয়ক মন্ত্রী আহমেদ আজম খান।",
-        "lead_en": "Liberation War Affairs Minister Ahmed Azam Khan stated that a department will be opened to provide monthly allowances to those killed in the anti-fascist movement and those affected over the past 17 years.",
+        "published_at": "2026-11-26T14:32:00+00:00",
+        "lead_bn": "পোশাক শ্রমিকদের মাসিক ন্যূনতম মজুরি ১৭ হাজার টাকা করার সিদ্ধান্ত নেওয়ার পরও গাজীপুরে শ্রমিকদের বিক্ষোভ ও পুলিশের সঙ্গে সংঘর্ষ হয়েছে।",
+        "lead_en": "Garment workers have staged protests and clashed with police in Gazipur despite the decision to raise the monthly minimum wage to 17,000 taka.",
         "bullets_bn": [
-          "মন্ত্রী জানান যে জুলাই যোদ্ধারা ভাতা পাবেন।",
-          "ঝিনাইদহের শৈলকুপার কামান্নায় ২৭ বীর মুক্তিযোদ্ধা হত্যা দিবস উপলক্ষ্যে স্মরণ সভা আয়োজিত হয়।",
-          "স্মরণ সভায় প্রধান অতিথির বক্তব্যে মুক্তিযুদ্ধবিষয়ক মন্ত্রী এই ঘোষণা দেন।"
+          "মজুরি বোর্ডের ছয় সদস্যের প্যানেল মাসিক ন্যূনতম মজুরি ১২ হাজার ৫০০ টাকা থেকে বাড়িয়ে ১৭ হাজার টাকা নির্ধারণ করেছে।",
+          "পুলিশের বিশেষ শিল্প ইউনিটের প্রধান ইসরাইল হাওলাদার জানান যে পরিস্থিতি এখন নিয়ন্ত্রণে রয়েছে এবং নারায়ণগঞ্জে কারখানাগুলো চালু আছে।",
+          "শ্রম প্রতিমন্ত্রী আরিফুল হক চৌধুরী শ্রমিকদের শিল্প খাতকে এগিয়ে নিয়ে যাওয়ার আহ্বান জানিয়েছেন।"
         ],
         "bullets_en": [
-          "The minister stated that July fighters will receive allowances.",
-          "A memorial meeting was organized on the occasion of the 27 Bir Muktijoddha killing day in Kamanna, Shailkupa, Jhenaidah.",
-          "The Liberation War Affairs Minister made this announcement while speaking as the chief guest at the memorial meeting."
+          "A six-member panel of the wage board decided to raise the monthly minimum wage from 12,500 taka to 17,000 taka.",
+          "Police special industrial unit chief Israil Hawlader stated that the situation is now under control and factories in Narayanganj are operational.",
+          "State Minister for Labour Arifuzzaman Chowdhury called upon workers to help advance the industrial sector."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "ক্ষতিগ্রস্তদের মাসিক ভাতা দিতে অধিদপ্তর খোলা হবে",
-        "kicker_bn": null,
+        "details_bn": "খাদ্য, বাসস্থান, পরিবহন ও স্বাস্থ্যসেবার ব্যয় বৃদ্ধির সঙ্গে নতুন ন্যূনতম মজুরি সঙ্গতিপূর্ণ না হওয়ায় শ্রমিকরা বিক্ষোভ করছেন। ১৯৮৬ সালে পোশাক শিল্প খাতে প্রথম ন্যূনতম মজুরি নির্ধারণের পর থেকে এবারের ৩৬ শতাংশ বৃদ্ধির সিদ্ধান্তটি শতাংশের দিক থেকে সবচেয়ে কম। এর আগে ২০১৩ সালে ৭৭ শতাংশ, ২০১৮ সালে ৫১ শতাংশ এবং ২০২৩ সালে ৫৬ শতাংশ মজুরি বাড়ানো হয়েছিল। নতুন মজুরি ঘোষণার পর গাজীপুরে মহাসড়ক অবরোধ করলে পুলিশ কাঁদানে গ্যাস ও সাউন্ড গ্রেনেড ছুড়ে শ্রমিকদের ছত্রভঙ্গ করে।",
+        "details_en": "Workers are protesting as the new minimum wage is not commensurate with the increased costs of food, housing, transport, and healthcare. The 36 percent increase is the lowest in percentage terms since minimum wages were first set in the garment sector in 1986, following increases of 77 percent in 2013, 51 percent in 2018, and 56 percent in 2023. Following the wage announcement, police used tear gas and sound grenades to disperse workers who blocked a highway in Gazipur.",
+        "hook_bn": "গাজীপুরে মহাসড়ক অবরোধ ও পুলিশের সঙ্গে সংঘর্ষ",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 9.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 10.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-27T02:01:41.389066+00:00"
+      }
+    },
+    {
+      "story_id": "9f7f51c9-d6dd-58b1-a075-8f2762479bec",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "governance_law",
+        "world_diplomacy",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#AFP",
+        "#Cyberattack",
+        "#France",
+        "#FIFA"
+      ],
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08c392-1795736466.jpg?resize=1920%2C1440",
+      "image_caption": null,
+      "published_at": "2026-11-27T01:07:44+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.4194,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
+          "title": "Global news agency AFP reports cyberattack, shuts down content platform",
+          "snippet": "Global news agency AFP reports cyberattack, shuts down content platform"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/law-courts/news/1184203",
+          "title": "সাবেক ওসি অপূর্ব হাসান ও তার স্ত্রীর সম্পদ জব্দের নির্দেশ",
+          "snippet": "সাবেক ওসি অপূর্ব হাসান ও তার স্ত্রীর সম্পদ জব্দের নির্দেশ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সাইবার হামলার মুখে কনটেন্ট প্ল্যাটফর্ম বন্ধ রাখল এএফপি",
+        "title_en": "AFP shuts down content platform following a cyberattack",
+        "summary_bn": "আন্তর্জাতিক বার্তা সংস্থা এজেন্স ফ্রান্স-প্রেস সাইবার হামলার শিকার হওয়ার পর তাদের এএফপি ফোরাম প্ল্যাটফর্মটি বন্ধ রেখেছে।",
+        "summary_en": "International news agency Agence France-Presse has taken its AFP Forum platform offline after being hit by a cyberattack.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation",
+          "governance_law",
+          "world_diplomacy",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T01:07:44+00:00",
+        "lead_bn": "আন্তর্জাতিক বার্তা সংস্থা এজেন্স ফ্রান্স-প্রেস সাইবার হামলার শিকার হওয়ার পর তাদের এএফপি ফোরাম প্ল্যাটফর্মটি বন্ধ রেখেছে।",
+        "lead_en": "International news agency Agence France-Presse has taken its AFP Forum platform offline after being hit by a cyberattack.",
+        "bullets_bn": [
+          "হামলাটি প্যারিস সময় রাত ১টা ৩০ মিনিটে শুরু হয় এবং এর লক্ষ্য ছিল এএফপি ফোরাম প্ল্যাটফর্ম।",
+          "ফ্রান্সের সাইবার নিরাপত্তা প্রধান ভিনসেন্ট স্ট্রুবেল দেশটিতে নজিরবিহীন সাইবার হুমকির কথা জানিয়েছেন।",
+          "পোর্টালটি অফলাইন থাকা অবস্থায় সাবস্ক্রাইবারদের ব্যাকআপ সমাধান দেওয়া হচ্ছে বলে জানানো হয়েছে।"
+        ],
+        "bullets_en": [
+          "The attack started at 1:30 am Paris time and targeted the AFP Forum platform.",
+          "France cyber security chief Vincent Strubel warned of an unprecedented level of threats in the country.",
+          "Backup solutions are reportedly being offered to subscribers while the portal remains offline."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ফ্রান্সের বার্তা সংস্থা এএফপি জানিয়েছে, ক্লায়েন্টদের কন্টেন্ট ব্রাউজ ও ডাউনলোডের মাধ্যম এএফপি ফোরামে এই অনুপ্রবেশ ঘটে। অনুপ্রবেশ শনাক্ত হওয়ার সঙ্গে সঙ্গে নিরাপত্তা দলগুলো তা প্রতিহত করতে কাজ শুরু করে এবং সতর্কতামূলক ব্যবস্থা হিসেবে প্ল্যাটফর্মটি অফলাইনে নেয়। এদিকে সুইজারল্যান্ডের জুরিখে অবস্থিত ফিফাও সাইবার হামলার শিকার হয়েছে এবং অননুমোদিত প্রবেশাধিকারের বিষয়টি নিশ্চিত করেছে।",
+        "details_en": "Management at the France-based international news agency stated that the intrusion targeted AFP Forum, which clients use to browse and download content. Teams moved to contain the intrusion and took the platform offline as a precautionary measure. Meanwhile, Zurich-based FIFA also confirmed that it was the victim of a cyberattack giving unauthorised access to information.",
+        "hook_bn": "নজিরবিহীন সাইবার হুমকির মুখে এএফপির প্ল্যাটফর্ম",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-27T02:01:41.389066+00:00"
+      }
+    },
+    {
+      "story_id": "d969795e-cd33-5d67-9f83-67ec8d6b0ad4",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#SheikhHasina",
+        "#Bangladesh",
+        "#AwamiLeague"
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fe82/live/56152150-e9af-11f1-a094-5fdc692f3e33.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-27T00:47:43+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.5,
+      "rank_score": 5.2408,
+      "sources": [
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
+          "title": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+          "snippet": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "শেখ হাসিনা ১৬ ডিসেম্বর বাংলাদেশে ফেরার পরিকল্পনা ঘোষণা করেছেন",
+        "title_en": "Sheikh Hasina plans to return to Bangladesh on 16 December",
+        "summary_bn": "বহিষ্কৃত সাবেক প্রধানমন্ত্রী শেখ হাসিনা ১৬ ডিসেম্বর দেশে ফেরার পরিকল্পনা ঘোষণা করেছেন এবং দিল্লি থেকে বাংলাদেশ সরকারের কাছে একটি বিমান ব্যবস্থার অনুরোধ জানিয়েছেন।",
+        "summary_en": "Ousted former prime minister Sheikh Hasina has announced plans to return to the country on 16 December and wants the Bangladesh government to arrange a flight from Delhi.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T00:47:43+00:00",
+        "lead_bn": "বহিষ্কৃত সাবেক প্রধানমন্ত্রী শেখ হাসিনা ১৬ ডিসেম্বর দেশে ফেরার পরিকল্পনা ঘোষণা করেছেন এবং দিল্লি থেকে বাংলাদেশ সরকারের কাছে একটি বিমান ব্যবস্থার অনুরোধ জানিয়েছেন।",
+        "lead_en": "Ousted former prime minister Sheikh Hasina has announced plans to return to the country on 16 December and wants the Bangladesh government to arrange a flight from Delhi.",
+        "bullets_bn": [
+          "শেখ হাসিনার মুখপাত্র জানান তিনি বাংলাদেশের ১৯৭১ সালের মুক্তিযুদ্ধে পাকিস্তানের বিরুদ্ধে বিজয়ের বার্ষিকীতে ফিরতে চান।",
+          "আবু ওবায়দা আরিন বিবিসিকে জানান যে তিনি এমনকি হেঁটে বাংলাদেশে প্রবেশ করতে প্রস্তুত আছেন।",
+          "বাংলাদেশ সরকার জানিয়েছে তিনি ফিরলে তাকে তাৎক্ষণিকভাবে গ্রেপ্তার করা হবে এবং মৃত্যুদণ্ড কার্যকর করা হবে।"
+        ],
+        "bullets_en": [
+          "Her spokesperson stated she plans to go back on Victory Day, the anniversary of Bangladesh's triumph over Pakistan in the 1971 liberation war.",
+          "Abu Obaidha Arin told the BBC that she is even prepared to walk into Bangladesh.",
+          "The government stated she would be arrested immediately if she returned and has promised to carry out the death sentence."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "৭৯ বছর বয়সী শেখ হাসিনা ছাত্র-নেতৃত্বাধীন অভ্যুত্থানে ১৫ বছরের শাসনের অবসান ঘটার পর ২০২৪ সালের আগস্টে দিল্লিতে পালিয়ে যান। মানবাধিকার লঙ্ঘনের দায়ে অনুপস্থিতিতে বিচারে তাকে মৃত্যুদণ্ড দেওয়া হয় এবং তার দল আওয়ামী লীগকে নিষিদ্ধ করা হয়েছে। জাতিসংঘের মতে নিরাপত্তা বাহিনীর হাতে এই অভ্যুত্থানে প্রায় ১,৪০০ মানুষ নিহত হয়েছেন।",
+        "details_en": "Hasina, 79, fled to Delhi in August 2024 after a student-led uprising ended her 15-year rule. She was sentenced to death after being convicted of crimes against humanity in a trial held in her absence, and her Awami League party is banned. The UN says as many as 1,400 people were killed by security forces during the uprising.",
+        "hook_bn": "তিনি এমনকি হেঁটে বাংলাদেশে প্রবেশ করতে প্রস্তুত আছেন",
+        "kicker_bn": "নতুন তারিখ",
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 7.0,
       "outlet_count": 1,
-      "trending": false,
+      "trending": true,
       "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T01:03:05.989114+00:00"
-      }
-    },
-    {
-      "story_id": "c81735b4-2601-565d-bf2f-712bc71278b0",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business"
-      ],
-      "region": "international",
-      "tags": [
-        "#UnitedStates",
-        "#China",
-        "#GlobalTrade",
-        "#Tariffs"
-      ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/California.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-26T18:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 2.8131,
-      "sources": [
-        {
-          "name": "The Daily Star Business",
-          "url": "https://www.thedailystar.net/business/global-economy/news/trumps-new-tariffs-aim-prise-global-trade-chinas-grip-4334131",
-          "title": "Trump’s new tariffs aim to prise global trade from China’s grip",
-          "snippet": "Trump’s new tariffs aim to prise global trade from China’s grip"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "যুক্তরাষ্ট্রের নতুন শুল্ক চীনের বৈশ্বিক বাণিজ্যের ওপর চাপ সৃষ্টি করছে",
-        "title_en": "United States new tariffs aim to pressure China global trade",
-        "summary_bn": "যুক্তরাষ্ট্রের নতুন শুল্ক বৃদ্ধির লক্ষ্য হলো বেইজিংয়ের সঙ্গে বাণিজ্য উত্তেজনা বাড়িয়ে বৈশ্বিক বাণিজ্য পুনর্গঠন করা।",
-        "summary_en": "The United States latest tariff hikes aim to inflame trade tension with Beijing and reorder global trade.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-26T18:00:00+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের নতুন শুল্ক বৃদ্ধির লক্ষ্য হলো বেইজিংয়ের সঙ্গে বাণিজ্য উত্তেজনা বাড়িয়ে বৈশ্বিক বাণিজ্য পুনর্গঠন করা।",
-        "lead_en": "The United States latest tariff hikes aim to inflame trade tension with Beijing and reorder global trade.",
-        "bullets_bn": [
-          "যুক্তরাষ্ট্র চীনের ওপর ২০ শতাংশ শুল্ক বৃদ্ধির পরিকল্পনা করেছে।",
-          "মার্কিন প্রশাসন জানিয়েছে যে বাণিজ্যের ক্ষেত্রে অতিরিক্ত শিল্প সক্ষমতা নিয়ে আট মাস তদন্ত করা হয়েছে।",
-          "চিনের পররাষ্ট্র মন্ত্রণালয় অন্যায্য শিল্প অনুশীলনের অভিযোগ অস্বীকার করেছে।"
-        ],
-        "bullets_en": [
-          "The Trump administration planned to raise China tariffs by 20 percent.",
-          "The new tariffs follow an eight-month investigation of unfair trade practices that examined excess industrial capacity.",
-          "China foreign ministry responded by rejecting accusations of unfair industrial practices."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "যুক্তরাষ্ট্রের নতুন শুল্ক চীনের বাণিজ্যের ওপর চাপ",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": "বৈশ্বিক বাণিজ্যে এই নতুন শুল্কের প্রভাব কীভাবে পড়তে পারে বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": true,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T01:03:05.989114+00:00"
+        "checked_at": "2026-11-27T02:01:41.389066+00:00"
       }
     }
   ]
