@@ -1,430 +1,168 @@
 {
-  "updated_at": "2026-11-27T17:00:49.916900",
-  "total_stories": 6,
+  "updated_at": "2026-11-27T18:00:47.653032",
+  "total_stories": 2,
   "stories": [
     {
-      "story_id": "51e343c8-7d34-51b8-911c-f0beb9c38c04",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Petrobangla",
-        "#TitasGas",
-        "#BAPEX",
-        "#RPGCL"
-      ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/merged/merged_75f5c3fdd8878655b5841c0a29503050.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-27T17:00:57.200870+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5982,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/petrobangla-reshuffles-leadership-at-titas-bapex-rpgcl-amid-gas-crunch",
-          "title": "MDs of Titas, BAPEX, RPGCL replaced",
-          "snippet": "MDs of Titas, BAPEX, RPGCL replaced"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "তিতাস, বাপেক্স ও আর্গসিএলের ব্যবস্থাপনা পরিচালক পরিবর্তন করেছে পেট্রোবাংলা।",
-        "title_en": "Petrobangla replaces managing directors of Titas, BAPEX and RPGCL.",
-        "summary_bn": "দেশের গ্যাস সংকটের মধ্যে পেট্রোবাংলা তিতাস গ্যাস, বাপেক্স ও রূপান্তরিতা প্রাকৃাতিক গ্যাস কোম্পানি লিমিটেডের শীর্ষ পদে পরিবর্তন এনেছে।",
-        "summary_en": "Petrobangla has replaced the heads of three key state-owned energy companies as the country grapples with a gas shortage.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T17:00:57.200870+00:00",
-        "lead_bn": "দেশের গ্যাস সংকটের মধ্যে পেট্রোবাংলা তিতাস গ্যাস, বাপেক্স ও রূপান্তরিতা প্রাকৃাতিক গ্যাস কোম্পানি লিমিটেডের শীর্ষ পদে পরিবর্তন এনেছে।",
-        "lead_en": "Petrobangla has replaced the heads of three key state-owned energy companies as the country grapples with a gas shortage.",
-        "bullets_bn": [
-          "পেট্রোবাংলার রিক্রুটমেন্ট, প্রমোশন অ্যান্ড ট্রান্সফার সেকশন থেকে আলাদা অফিস অর্ডারের মাধ্যমে এই পরিবর্তন আনা হয়েছে।",
-          "তিন ব্যবস্থাপনা পরিচালককে পেট্রোবাংলার চেয়ারম্যানের কার্যালয়ে বদলি করা হয়েছে এবং তিন মহাব্যবস্থাপককে অন্তর্বর্তীকালীন দায়িত্ব দেওয়া হয়েছে।",
-          "তিতাসের মো. শাহনেওয়াজ পারভেজ এবং বাপেক্সের মো. ফজলুল হককে পেট্রোবাংলার সিনিয়র মহাব্যবস্থাপক হিসেবে বদলি করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "The changes were made through separate office orders issued by Petrobangla recruitment, promotion and transfer section.",
-          "Three managing directors were moved to Petrobangla and interim charges were handed to three general managers.",
-          "Titas MD Shahnewaz Parvez and BAPEX MD Fazlul Haque were moved to Petrobangla as senior general managers."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "দেশজুড়ে গ্যাস সংকটের প্রেক্ষাপটে জনস্বার্থে জারি করা পৃথক অফিস আডারে এই সিদ্ধান্ত নেওয়া হয়েছে এবং তা অবিলম্বে কার্যকর হয়। তিতাসের অপারেশনস ডিভিশনের মহাব্যবস্থাপক কাজী সাইদুল হাসান এবং বাপেক্সের প্রোডাকশন ডিভিশনের মহাব্যবস্থাপক মোহাম্মদ আহসানুল আমিন নিজ নিজ প্রতিষ্ঠানের অন্তর্বর্তীকালীন ব্যবস্থাপনা পরিচালকের দায়িত্ব পেয়েছেন।",
-        "details_en": "The decisions were made through separate office orders issued in the public interest as the country grapples with a gas shortage, and they take effect immediately. Titas operations division general manager Kazi Saidul Hasan and BAPEX production division general manager Mohammad Ahsanul Amin took over acting charges of their respective companies.",
-        "hook_bn": "তিতাস ও বাপেক্সে নতুন ব্যবস্থাপনা পরিচালক",
-        "kicker_bn": "শক্তি খাত",
-        "share_value": false,
-        "question_bn": "রাষ্ট্রীয় জ্বালানি কোম্পানিগুলোর নেতৃত্বে এই পরিবর্তনে গ্যাস সংকট মোকাবিলায় কোনো প্রভাব পড়বে বলে আপনার মনে হয়?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T17:02:07.630592+00:00"
-      }
-    },
-    {
-      "story_id": "5a7641dc-654a-54e7-9859-773a2df6750c",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/untitled-4-copy-20261127224205.jpg?cid=501342",
-      "image_caption": null,
-      "published_at": "2026-11-27T16:42:05+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5334,
-      "sources": [
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/sports/501342",
-          "title": "বিমসটেক অ্যাথলেটিক্সে বাংলাদেশের ১০ পদক",
-          "snippet": "বিমসটেক অ্যাথলেটিক্সে বাংলাদেশের ১০ পদক"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বিমসটেক অ্যাথলেটিক্সে বাংলাদেশের ১০ পদক",
-        "title_en": "Bangladesh wins 10 medals at BIMSTEC Athletics",
-        "summary_bn": "ভারতের ওড়িশার ভুবনেশ্বরে অনুষ্ঠিত বিমসটেক অনূর্ধ্ব-২৩ অ্যাথলেটিক্স মিট-২০২৬ এ বাংলাদেশ দল দুটি রৌপ্য ও আটটি ব্রোঞ্জসহ মোট ১০টি পদক জিতেছে।",
-        "summary_en": "The Bangladesh team won a total of 10 medals, including two silver and eight bronze, at the BIMSTEC Under-23 Athletics Meet 2026 in Bhubaneswar, Odisha, India.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T16:42:05+00:00",
-        "lead_bn": "ভারতের ওড়িশার ভুবনেশ্বরে অনুষ্ঠিত বিমসটেক অনূর্ধ্ব-২৩ অ্যাথলেটিক্স মিট-২০২৬ এ বাংলাদেশ দল দুটি রৌপ্য ও আটটি ব্রোঞ্জসহ মোট ১০টি পদক জিতেছে।",
-        "lead_en": "The Bangladesh team won a total of 10 medals, including two silver and eight bronze, at the BIMSTEC Under-23 Athletics Meet 2026 in Bhubaneswar, Odisha, India.",
-        "bullets_bn": [
-          "প্রতিযোগিতার প্রথম দিনে নারীদের ১০০ মিটার স্প্রিন্টে ১২.২৪ সেকেন্ড সময় নিয়ে ব্রোঞ্জ পদক জেতেন সুমাইয়া দেওয়ান।",
-          "দ্বিতীয় দিনে নারীদের ট্রিপল জাম্পে ১৩.২২ মিটার লাফিয়ে রৌপ্য পদক অর্জন করেন স্বপ্না খাতুন।",
-          "শেষ দিনে নারীদের লং জাম্পে ৬.০৮ মিটার দূরত্ব অতিক্রম করে রৌপ্য পদক জেতেন স্বপ্না খাতুন।"
-        ],
-        "bullets_en": [
-          "Sumaiya Dewan won a bronze medal in the women's 100-meter sprint on the first day with a time of 12.24 seconds.",
-          "Swapna Khatun won a silver medal in the women's triple jump on the second day by leaping 13.22 meters.",
-          "Swapna Khatun won a silver medal in the women's long jump on the final day by covering a distance of 6.08 meters."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ভারতের ওড়িশার ভুবনেশ্বরের কলিঙ্গ স্টেডিয়ামে তিন দিনব্যাপী অনুষ্ঠিত এই প্রতিযোগিতার সমাপ্তি ঘোষণা করেন ওড়িশার মুখ্যমন্ত্রী। প্রতিযোগিতার বিভিন্ন দিনে স্প্রিন্ট, জাম্প, থ্রো এবং রিলে ইভেন্টে অংশ নিয়ে এই পদকগুলো অর্জন করে বাংলাদেশ দল।",
-        "details_en": "The three-day competition at Kalinga Stadium in Bhubaneswar, Odisha, India, was concluded by the Chief Minister of Odisha. The Bangladesh team secured these medals by participating in sprint, jump, throw, and relay events across various days of the competition.",
-        "hook_bn": "বিমসটেক অ্যাথলেটিক্সে বাংলাদেশের ১০ পদক",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T17:02:07.630592+00:00"
-      }
-    },
-    {
-      "story_id": "5fb7cf84-3d68-5eef-8b89-81b4942d373a",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Khulna",
-        "#Pharmacy"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1638768921888-155ca784f9fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGhhcm1hY3klMjBvd25lciUyMHNvbiUyMHNob3QlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTU3OTg5MTN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-27T15:13:57+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.5221,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/nation/425936/khulna-pharmacy-owner%E2%80%99s-son-shot-following",
-          "title": "Khulna pharmacy owner’s son shot following extortion threats",
-          "snippet": "Khulna pharmacy owner’s son shot following extortion threats"
-        },
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/5pxlul2cyk",
-          "title": "খুলনায় পুলিশের পাহারায় খোলার ১৩ দিনের মাথায় ফার্মেসিতে গুলি, মালিকের ছেলে গুলিবিদ্ধ",
-          "snippet": "খুলনায় পুলিশের পাহারায় খোলার ১৩ দিনের মাথায় ফার্মেসিতে গুলি, মালিকের ছেলে গুলিবিদ্ধ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "খুলনায় পুলিশের পাহারায় খোলার ১৩ দিনের মাথায় ফার্মেসিতে গুলি ও মালিকের ছেলে গুলিবিদ্ধ",
-        "title_en": "Pharmacy owner's son shot in Khulna 13 days after reopening under police protection",
-        "summary_bn": "খুলনায় চাঁদাবাজির হুমকির পর পুলিশের পাহারায় ফার্মেসি খোলার ১৩ দিনের মাথায় মালিকের ছেলেকে গুলি করা হয়েছে।",
-        "summary_en": "A pharmacy owner's son was shot in Khulna 13 days after the pharmacy reopened under police protection following extortion threats.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T15:13:57+00:00",
-        "lead_bn": "খুলনায় চাঁদাবাজির হুমকির পর পুলিশের পাহারায় ফার্মেসি খোলার ১৩ দিনের মাথায় মালিকের ছেলেকে গুলি করা হয়েছে।",
-        "lead_en": "A pharmacy owner's son was shot in Khulna 13 days after the pharmacy reopened under police protection following extortion threats.",
-        "bullets_bn": [
-          "ফার্মেসিটির মালিকের ছেলেকে গুলিবিদ্ধ করা হয়েছে।",
-          "ঘটনার আগে ফার্মেসিটিতে চাঁদাবাজির হুমকি দেওয়া হয়েছিল।",
-          "পুলিশের পাহারায় দোকান খোলার ১৩ দিনের মাথায় এই ঘটনা ঘটে।"
-        ],
-        "bullets_en": [
-          "The pharmacy owner's son was shot and injured.",
-          "The pharmacy had faced prior extortion threats.",
-          "The shooting occurred 13 days after the shop reopened with police protection."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "চাঁদাবাজির হুমকির মুখে ফার্মেসিটি দুই সপ্তাহের বেশি সময় ধরে বন্ধ ছিল। পরবর্তীতে ১৪ নভেম্বর পুলিশের পাহারা নিয়ে এটি পুনরায় খোলা হয়। এর ১৩ দিন পর ফার্মেসিতে এই গুলির ঘটনা ঘটে এবং মালিকের ছেলে গুলিবিদ্ধ হন।",
-        "details_en": "The pharmacy had remained closed for over two weeks following extortion threats before reopening with police protection on November 14. Thirteen days later, the pharmacy was shot at and the owner's son was shot.",
-        "hook_bn": "খুলনায় পাহারার মধ্যে ফার্মেসিতে গুলি, গুলিবিদ্ধ মালিকের ছেলে",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T17:02:07.630592+00:00"
-      }
-    },
-    {
-      "story_id": "78fb6b24-510b-5bed-a102-7a9ad6774b68",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Police",
-        "#Sabotage"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1757839179718-45794ce29ff8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Y3J1ZGUlMjBib21icyUyMGV4cGxvZGVkJTIwdmVoaWNsZXMlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTU3OTg5MTV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-27T16:15:44+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.4449,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/425941/100-crude-bomb-blasts-92-vehicles-torched",
-          "title": "100 crude bomb blasts, 92 vehicles torched nationwide in 19 days",
-          "snippet": "100 crude bomb blasts, 92 vehicles torched nationwide in 19 days"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "১৯ দিনে দেশজুড়ে ১০০ ককটেল বিস্ফোরণ ও ৯২টি যানবাহন পোড়ানো হয়েছে",
-        "title_en": "100 crude bombs exploded and 92 vehicles torched nationwide in 19 days",
-        "summary_bn": "নভেম্বরের ৭ থেকে ২৫ তারিখের মধ্যে নাশকতা ও সহিংসতার ঘটনায় পুলিশ ৪৬টি মামলা দায়ের করেছে এবং ৮০ জনকে গ্রেপ্তার করেছে।",
-        "summary_en": "Police have filed 46 cases and arrested 80 people over sabotage and violence incidents between November 7 and 25.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T16:15:44+00:00",
-        "lead_bn": "নভেম্বরের ৭ থেকে ২৫ তারিখের মধ্যে নাশকতা ও সহিংসতার ঘটনায় পুলিশ ৪৬টি মামলা দায়ের করেছে এবং ৮০ জনকে গ্রেপ্তার করেছে।",
-        "lead_en": "Police have filed 46 cases and arrested 80 people over sabotage and violence incidents between November 7 and 25.",
-        "bullets_bn": [
-          "দেশজুড়ে সংঘটিত এসব নাশকতায় ১০০টি ককটেল বিস্ফোরণ ঘটানো হয়েছে।",
-          "এই সময়ের মধ্যে সারা দেশে মোট ৯২টি যানবাহন পুড়িয়ে দেওয়া হয়েছে।",
-          "পুলিশ এই সংক্রান্ত নাশকতার ঘটনায় ৪৬টি মামলা দায়ের করেছে।"
-        ],
-        "bullets_en": [
-          "A total of 100 crude bomb blasts occurred in these nationwide sabotage incidents.",
-          "A total of 92 vehicles were torched across the country during this period.",
-          "Police have filed 46 cases in connection with these sabotage incidents."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "১৯ দিনে ১০০ ককটেল বিস্ফোরণ, গ্রেপ্তার ৮০",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T17:02:07.630592+00:00"
-      }
-    },
-    {
-      "story_id": "86e2c23d-09b6-5188-8b73-a54803e569c1",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "tech_innovation"
-      ],
-      "region": "international",
-      "tags": [
-        "#China",
-        "#Taiwan",
-        "#MilitaryDrill"
-      ],
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "image_caption": null,
-      "published_at": "2026-11-27T16:52:37+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5694,
-      "sources": [
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/article71752063.ece",
-          "title": "Chinese Military tests new Taiwan landing tactics in coastal drills",
-          "snippet": "Chinese Military tests new Taiwan landing tactics in coastal drills"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "তাইওয়ান উপকূলের কাছে চীনের সামরিক মহড়া চলছে",
-        "title_en": "Chinese military tests new landing tactics near Taiwan",
-        "summary_bn": "চীনের সামরিক বাহিনী তাইওয়ানের মুখোমুখি প্রদেশে বেসামরিক জলযান যুক্ত করে একটি ভাসমান সেতু তৈরির নতুন মহড়া চালাচ্ছে।",
-        "summary_en": "China is staging an amphibious landing drill in the province facing Taiwan, testing a new method to land troops ashore.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T16:52:37+00:00",
-        "lead_bn": "চীনের সামরিক বাহিনী তাইওয়ানের মুখোমুখি প্রদেশে বেসামরিক জলযান যুক্ত করে একটি ভাসমান সেতু তৈরির নতুন মহড়া চালাচ্ছে।",
-        "lead_en": "China is staging an amphibious landing drill in the province facing Taiwan, testing a new method to land troops ashore.",
-        "bullets_bn": [
-          "চীনের ফুজিয়ান প্রদেশের দাচেন বে-তে স্যাটেলাইট চিত্রে এই মহড়া দেখা গেছে।",
-          "ইনজেনিস্পেসের প্রধান অপারেটিং অফিসার জেসন ওয়াং এই তথ্য জানিয়েছেন।",
-          "মহড়াটি তাইওয়ানের মূল দ্বীপ থেকে ২৮০ কিলোমিটার দূরে অবস্থিত।"
-        ],
-        "bullets_en": [
-          "The exercise in Dacheng Bay was spotted on November 1 according to satellite images and a report.",
-          "Jason Wang of geospatial data company ingeniSPACE commented on the low-signature logistical support methods.",
-          "A senior security official confirmed the drill was still in progress located 280 km from Taiwan."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "চীন গণতান্ত্রিকভাবে শাসিত তাইওয়ানকে নিজেদের ভূখণ্ড হিসেবে দেখে এবং নিয়ন্ত্রণে আনতে বলপ্রয়োগের কথা বাদ দেয়নি। নভেম্বর ১ থেকে ১৬ তারিখের চিত্রে দেখা গেছে জাহাজগুলো প্রায় ৮০০ মিটার দীর্ঘ ভাসমান সেতু তৈরি ও অপসারণ করেছে।",
-        "details_en": "China views democratically governed Taiwan as its own territory, despite Taipei's rejection of Beijing's sovereignty claims, and has never renounced the use of force. Analysis of images from November 1 to 16 showed vessels forming and dismantling a floating bridge about 800 m long.",
-        "hook_bn": "তাইওয়ানের কাছে চীনের সামরিক মহড়া",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T17:02:07.630592+00:00"
-      }
-    },
-    {
-      "story_id": "47d8579f-77d1-5e11-9a9e-bdfef73ba552",
+      "story_id": "c69cb322-5992-5814-bc88-862e6ea39eeb",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
         "economy_business",
+        "climate_environment",
         "tech_innovation"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#EuropeanUnion",
-        "#Brussels",
-        "#PeterMagyar",
-        "#AntonioCosta"
+        "#ShamaObaed",
+        "#Bangladesh",
+        "#Germany",
+        "#Berlin"
       ],
-      "image_url": "https://static.dw.com/image/80069925_6.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/27/shama.jpg",
       "image_caption": null,
-      "published_at": "2026-11-27T16:51:00+00:00",
+      "published_at": "2026-11-27T17:35:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5638,
+      "importance_score": 6.25,
+      "rank_score": 3.8085,
       "sources": [
         {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599?maca=en-rss-en-all-1573-rdf",
-          "title": "Divisions deepen between EU member states after tense budget summit",
-          "snippet": "Divisions deepen between EU member states after tense budget summit"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/foreign-policy/bangladesh-seeks-economic-security-diversified-supply-chains-shama-obaed-1616061",
+          "title": "Bangladesh seeks economic security, diversified supply chains: Shama Obaed",
+          "snippet": "Bangladesh seeks economic security, diversified supply chains: Shama Obaed"
+        },
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/uncategorized/post-1226680/",
+          "title": "বাংলাদেশ ও জার্মানির মধ্যে উন্নয়ন সহযোগিতা নিয়ে আলোচনা",
+          "snippet": "বাংলাদেশ ও জার্মানির মধ্যে উন্নয়ন সহযোগিতা নিয়ে আলোচনা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইইউ বাজেটের আলোচনা ভেঙে যাওয়ায় সদস্য রাষ্ট্রগুলোর মধ্যে মতপার্থক্য তৈরি হয়েছে।",
-        "title_en": "EU budget talks collapse as divisions deepen between member states.",
-        "summary_bn": "ব্রাসেলসে ইউরোপীয় ইউনিয়নের সাত বছর মেয়াদি বাজেট নিয়ে শুরু হওয়া শীর্ষ সম্মেলন মতপার্থক্যের কারণে কোনো চুক্তি ছাড়াই শেষ হয়েছে।",
-        "summary_en": "An EU summit in Brussels on the seven-year budget collapsed without a deal after divisions deepened between member states.",
+        "title_bn": "বাংলাদেশ অর্থনৈতিক নিরাপত্তা ও সরবরাহ শৃঙ্খল বৈচিত্র্যকরণ চাইছে",
+        "title_en": "Bangladesh seeks economic security and diversified supply chains",
+        "summary_bn": "পরিবর্তিত বৈশ্বিক পরিস্থিতিতে অর্থনৈতিক নিরাপত্তা এবং কৌশলগত সরবরাহ শৃঙ্খল বৈচিত্র্যকরণ চাচ্ছে বাংলাদেশ বলে জানিয়েছেন পররাষ্ট্র প্রতিমন্ত্রী শামা ওবায়েদ ইসলাম।",
+        "summary_en": "Bangladesh is seeking greater economic security and strategic diversification of its supply chains amid shifts in the global order, State Minister for Foreign Affairs Shama Obaed Islam said.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
           "economy_business",
+          "climate_environment",
           "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T16:51:00+00:00",
-        "lead_bn": "ব্রাসেলসে ইউরোপীয় ইউনিয়নের সাত বছর মেয়াদি বাজেট নিয়ে শুরু হওয়া শীর্ষ সম্মেলন মতপার্থক্যের কারণে কোনো চুক্তি ছাড়াই শেষ হয়েছে।",
-        "lead_en": "An EU summit in Brussels on the seven-year budget collapsed without a deal after divisions deepened between member states.",
+        "published_at": "2026-11-27T17:35:00+00:00",
+        "lead_bn": "পরিবর্তিত বৈশ্বিক পরিস্থিতিতে অর্থনৈতিক নিরাপত্তা এবং কৌশলগত সরবরাহ শৃঙ্খল বৈচিত্র্যকরণ চাচ্ছে বাংলাদেশ বলে জানিয়েছেন পররাষ্ট্র প্রতিমন্ত্রী শামা ওবায়েদ ইসলাম।",
+        "lead_en": "Bangladesh is seeking greater economic security and strategic diversification of its supply chains amid shifts in the global order, State Minister for Foreign Affairs Shama Obaed Islam said.",
         "bullets_bn": [
-          "ডেনমার্ক, সুইডেন, বেলজিয়াম এবং অস্ট্রিয়ার প্রধানমন্ত্রীরা বৈঠক থেকে ওয়াকআউট করেন।",
-          "হাঙ্গেরির প্রধানমন্ত্রী পেটার ম্যাগার পুরো শীর্ষ সম্মেলনকে সম্পূর্ণ অপ্রয়োজনীয় বলে অভিহিত করেন।",
-          "২০২৮ থেকে ২০৩৪ সালের বাজেটের জন্য ২০২৬ সালের শেষের মধ্যে ঐকমত্যে পৌঁছানোর সময়সীমা রয়েছে।"
+          "বার্লিনে কৌশলগত অংশীদারিত্ব বিষয়ক গোলটেবিল বৈঠকে প্রধান অতিথির বক্তব্যে শামা ওবায়েদ এই মন্তব্য করেন।",
+          "জার্মানির মতো বিশ্বস্ত উন্নয়ন অংশীদারদের সঙ্গে দ্বিপক্ষীয় ও বহুপক্ষীয় প্ল্যাটফর্মে সহযোগিতা জোরদার করার ওপর তিনি জোর দেন।",
+          "জলবায়ু পরিবর্তন, নবায়নযোগ্য জ্বালানি এবং নারী ক্ষমতায়নকে তিনি সহযোগিতার মূল ক্ষেত্র হিসেবে চিহ্নিত করেন।"
         ],
         "bullets_en": [
-          "Prime ministers of Denmark, Sweden, Belgium, and Austria staged a walkout from group meetings.",
-          "Hungarian Prime Minister Peter Magyar called the entire summit completely unnecessary.",
-          "There is a self-imposed deadline to find agreement before the end of 2026 on the budget."
+          "Shama Obaed made the remarks attending as the chief guest at a roundtable discussion in Berlin.",
+          "She stressed the need to strengthen cooperation with trusted partners like Germany through bilateral and multilateral platforms.",
+          "She identified climate change, renewable energy, and women empowerment as key areas for cooperation."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ইউরোপীয় ইউনিয়নের সাত বছর মেয়াদি বাজেট নিয়ে ব্রাসেলসে অনুষ্ঠিতব্য শীর্ষ সম্মেলনের আলোচনা গভীর রাতে ভেঙে যায়। মতপার্থক্য ও প্রকাশ্যে বাকবিতণ্ডার কারণে নেতারা কোনো চুক্তি ছাড়াই সম্মেলন ত্যাগ করেন এবং পরিকল্পনা অনুযায়ী দ্বিতীয় দিনে আলোচনা পুনরায় শুরু করার কোনো চেষ্টাই করা হয়নি। ব্রাসেলসের ব্রুয়েল থিংক ট্যাঙ্কের ইইউ অর্থনীতিবিদ জ্যাকব ফাঙ্ক কার্কেগার্ড জানান, দীর্ঘমেয়াদি ইইউ বাজেট আলোচনার সময় এ ধরনের ঘটনা প্রায়ই ঘটে থাকে। এর আগে জার্মানি শর্ত দিয়েছিল যে, ২০২৭ সাল পর্যন্ত ইউক্রেনকে সহায়তার জন্য অতিরিক্ত ৪৫ বিলিয়ন ইউরো বা ৪৯ বিলিয়ন মার্কিন ডলার ঋণে অন্য সব দেশ রাজি হলেই কেবল বার্লিন বাজেটে স্বাক্ষর করবে।",
-        "details_en": "EU leaders arrived in Brussels for a seven-year budget showdown, but talks broke down late on Thursday night. Squabbles and public barbs led to an early departure without a deal, and discussions were not resumed on the planned second day. Jacob Funk Kirkegaard, an EU economist at the Bruegel think tank in Brussels, noted that long-term budget negotiations often face breakdowns and political theater. Previously, Germany laid down an ultimatum requiring all other EU countries to approve an additional €45 billion support loan for Ukraine through 2027 before Berlin would sign off.",
-        "hook_bn": "শীর্ষ সম্মেলনের আলোচনা ভেঙে যাওয়ায় ইইউ বিভক্ত",
-        "kicker_bn": "সতর্কতা",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "অর্থনৈতিক নিরাপত্তা চাচ্ছে বাংলাদেশ",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "বৈশ্বিক অংশীদারিত্ব জোরদারে বাংলাদেশের এই উদ্যোগকে আপনি কীভাবে দেখছেন?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-27T18:01:43.458250+00:00"
+      }
+    },
+    {
+      "story_id": "2f772839-760b-5231-9b0a-76ecc09bd63e",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#Hamas",
+        "#Israel",
+        "#Gaza"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/05/07/untitled_design_2.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-27T15:30:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.25,
+      "rank_score": 2.3826,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/worldbiz/middle-east/son-hamas-chief-survives-israeli-strike-hamas-says-1616021",
+          "title": "Son of Hamas chief survives Israeli strike, Hamas says",
+          "snippet": "Son of Hamas chief survives Israeli strike, Hamas says"
+        },
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
+          "title": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia",
+          "snippet": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/823323/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2%E0%A7%80-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A6%95%E0%A7%8D%E0%A6%95%E0%A6%BE-%E0%A6%9C%E0%A7%8B%E0%A6%9F",
+          "title": "সৌদির নিরাপত্তা শক্তিশালী করতে মক্কা জোট প্রতিশ্রুতিবদ্ধ: পাকিস্তানের পররাষ্ট্রমন্ত্রী",
+          "snippet": "সৌদির নিরাপত্তা শক্তিশালী করতে মক্কা জোট প্রতিশ্রুতিবদ্ধ: পাকিস্তানের পররাষ্ট্রমন্ত্রী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "হামাস প্রধানের ছেলে ইসরায়েলি বিমান হামলায় বেঁচে গেছেন",
+        "title_en": "Son of Hamas chief survives Israeli airstrike",
+        "summary_bn": "হামাস প্রধান খলিল আল-হাইয়ার ছেলে ইজ্জেলদিন আল-হাইয়ার এবং তার পরিবার একটি ইসরায়েলি বিমান হামলা থেকে বেঁচে গেছেন।",
+        "summary_en": "Hamas chief Khalil al-Hayya's son Izzeldeen al-Hayya and his family survived an Israeli airstrike.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T15:30:00+00:00",
+        "lead_bn": "হামাস প্রধান খলিল আল-হাইয়ার ছেলে ইজ্জেলদিন আল-হাইয়ার এবং তার পরিবার একটি ইসরায়েলি বিমান হামলা থেকে বেঁচে গেছেন।",
+        "lead_en": "Hamas chief Khalil al-Hayya's son Izzeldeen al-Hayya and his family survived an Israeli airstrike.",
+        "bullets_bn": [
+          "হামাসের সিনিয়র কর্মকর্তা বাসেম নাঈম রয়টার্সকে জানান যে ভোরবেলার এই হামলায় কোনো প্রাণহানি হয়নি।",
+          "হামাসের মতে, ইসরায়েলি সামরিক বাহিনী একটি আবাসিক অ্যাপার্টমেন্ট লক্ষ্য করে এই হামলা চালায়।",
+          "হামাস অভিযোগ করেছে যে ইসরায়েল ২০২৫ সালের গাজা যুদ্ধবিরতি চুক্তি দুর্বল করার চেষ্টা করছে।"
+        ],
+        "bullets_en": [
+          "Senior Hamas official Basem Naim told Reuters that there were no fatalities in the dawn airstrike.",
+          "Hamas said the Israeli military had targeted a residential apartment in the attack.",
+          "Hamas accused Israel of seeking to undermine the 2025 Gaza ceasefire agreement."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বাসেম নাঈম জানান, ইজ্জেলদিন আল-হাইয়ার চার ভাই এর আগে ইসরায়েলি বাহিনীর হাতে নিহত হয়েছেন। খলিল আল-হাইয়ার আরেক নিহত ছেলের পরিবারও এই হামলা থেকে বেঁচে গেছে। ইজ্জেলদিন হলেন হামাম খলিল আল-হাইয়ার যমজ ভাই, যিনি কাতারে হামাস নেতাদের লক্ষ্য করে চালানো ২০২৫ সালের এক ইসরায়েলি বিমান হামলায় নিহত হয়েছিলেন।",
+        "details_en": "Basem Naim said Izzeldeen al-Hayya's four brothers had been killed by Israeli forces. The family of one of Khalil al-Hayya's late sons also survived the strike. Izzeldeen is the twin brother of Hamam Khalil al-Hayya, who was killed in a 2025 Israeli airstrike targeting Hamas leaders in Qatar.",
+        "hook_bn": "হামাস প্রধানের ছেলে ইসরায়েলি হামলা থেকে বেঁচে গেছেন",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
+      "desk_importance": 5.0,
+      "outlet_count": 3,
       "trending": false,
-      "social_appeal": 5.0,
+      "social_appeal": 3.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T17:02:07.630592+00:00"
+        "checked_at": "2026-11-27T18:01:43.458250+00:00"
       }
     }
   ]
