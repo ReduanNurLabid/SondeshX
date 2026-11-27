@@ -1,168 +1,435 @@
 {
-  "updated_at": "2026-11-27T18:00:47.653032",
-  "total_stories": 2,
+  "updated_at": "2026-11-27T19:00:47.172866",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "c69cb322-5992-5814-bc88-862e6ea39eeb",
-      "primary_category": "world_diplomacy",
+      "story_id": "d6a1cdc9-4c87-59be-b5e8-e56189102b1b",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "world_diplomacy",
         "economy_business",
-        "climate_environment",
-        "tech_innovation"
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#ShamaObaed",
-        "#Bangladesh",
-        "#Germany",
-        "#Berlin"
+        "#KhandakarAbdulMuktadir",
+        "#Ramadan",
+        "#CommerceMinistry"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/27/shama.jpg",
+      "image_url": "https://images.unsplash.com/photo-1678684437339-fec13c20856e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Y29tbWVyY2UlMjBtaW5pc3RlciUyMGV4cGVjdHMlMjByYW1hZGFuJTIwYnVzaW5lc3N8ZW58MXwwfHx8MTc5NTgwNjA4M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-27T17:35:00+00:00",
+      "published_at": "2026-11-27T17:39:13+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.8085,
+      "importance_score": 7.25,
+      "rank_score": 4.8569,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/foreign-policy/bangladesh-seeks-economic-security-diversified-supply-chains-shama-obaed-1616061",
-          "title": "Bangladesh seeks economic security, diversified supply chains: Shama Obaed",
-          "snippet": "Bangladesh seeks economic security, diversified supply chains: Shama Obaed"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425943/commerce-minister-ramadan-prices-expected-to",
+          "title": "Commerce minister: Ramadan prices expected to remain stable",
+          "snippet": "Commerce minister: Ramadan prices expected to remain stable"
         },
         {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/uncategorized/post-1226680/",
-          "title": "বাংলাদেশ ও জার্মানির মধ্যে উন্নয়ন সহযোগিতা নিয়ে আলোচনা",
-          "snippet": "বাংলাদেশ ও জার্মানির মধ্যে উন্নয়ন সহযোগিতা নিয়ে আলোচনা"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/823324/%E0%A6%B0%E0%A6%AE%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%9F%E0%A7%8B%E0%A6%9C%E0%A6%A8%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BF%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A7%80%E0%A6%B2-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%87",
+          "title": "রমজানে নিত্যপ্রয়োজনীয় পণ্যের দাম স্থিতিশীল থাকবে: বাণিজ্যমন্ত্রী",
+          "snippet": "রমজানে নিত্যপ্রয়োজনীয় পণ্যের দাম স্থিতিশীল থাকবে: বাণিজ্যমন্ত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাংলাদেশ অর্থনৈতিক নিরাপত্তা ও সরবরাহ শৃঙ্খল বৈচিত্র্যকরণ চাইছে",
-        "title_en": "Bangladesh seeks economic security and diversified supply chains",
-        "summary_bn": "পরিবর্তিত বৈশ্বিক পরিস্থিতিতে অর্থনৈতিক নিরাপত্তা এবং কৌশলগত সরবরাহ শৃঙ্খল বৈচিত্র্যকরণ চাচ্ছে বাংলাদেশ বলে জানিয়েছেন পররাষ্ট্র প্রতিমন্ত্রী শামা ওবায়েদ ইসলাম।",
-        "summary_en": "Bangladesh is seeking greater economic security and strategic diversification of its supply chains amid shifts in the global order, State Minister for Foreign Affairs Shama Obaed Islam said.",
+        "title_bn": "রমজানে নিত্যপণ্যের দাম স্থিতিশীল থাকার আশা বাণিজ্যমন্ত্রীর",
+        "title_en": "Commerce minister expects Ramadan commodity prices to remain stable",
+        "summary_bn": "বাণিজ্য ও পাটমন্ত্রী খন্দকার আব্দুল মুক্তাদির বলেছেন, আসন্ন রমজানে নিত্যপ্রয়োজনীয় পণ্যের সরবরাহ পরিস্থিতি ভালো থাকায় বাজারে দাম স্থিতিশীল থাকবে।",
+        "summary_en": "Commerce and jute minister Khandakar Abdul Muktadir said market prices will remain stable during the upcoming Ramadan due to adequate commodity supplies.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
           "economy_business",
-          "climate_environment",
-          "tech_innovation"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T17:35:00+00:00",
-        "lead_bn": "পরিবর্তিত বৈশ্বিক পরিস্থিতিতে অর্থনৈতিক নিরাপত্তা এবং কৌশলগত সরবরাহ শৃঙ্খল বৈচিত্র্যকরণ চাচ্ছে বাংলাদেশ বলে জানিয়েছেন পররাষ্ট্র প্রতিমন্ত্রী শামা ওবায়েদ ইসলাম।",
-        "lead_en": "Bangladesh is seeking greater economic security and strategic diversification of its supply chains amid shifts in the global order, State Minister for Foreign Affairs Shama Obaed Islam said.",
+        "published_at": "2026-11-27T17:39:13+00:00",
+        "lead_bn": "বাণিজ্য ও পাটমন্ত্রী খন্দকার আব্দুল মুক্তাদির বলেছেন, আসন্ন রমজানে নিত্যপ্রয়োজনীয় পণ্যের সরবরাহ পরিস্থিতি ভালো থাকায় বাজারে দাম স্থিতিশীল থাকবে।",
+        "lead_en": "Commerce and jute minister Khandakar Abdul Muktadir said market prices will remain stable during the upcoming Ramadan due to adequate commodity supplies.",
         "bullets_bn": [
-          "বার্লিনে কৌশলগত অংশীদারিত্ব বিষয়ক গোলটেবিল বৈঠকে প্রধান অতিথির বক্তব্যে শামা ওবায়েদ এই মন্তব্য করেন।",
-          "জার্মানির মতো বিশ্বস্ত উন্নয়ন অংশীদারদের সঙ্গে দ্বিপক্ষীয় ও বহুপক্ষীয় প্ল্যাটফর্মে সহযোগিতা জোরদার করার ওপর তিনি জোর দেন।",
-          "জলবায়ু পরিবর্তন, নবায়নযোগ্য জ্বালানি এবং নারী ক্ষমতায়নকে তিনি সহযোগিতার মূল ক্ষেত্র হিসেবে চিহ্নিত করেন।"
+          "বাণিজ্য ও পাটমন্ত্রী খন্দকার আব্দুল মুক্তাদির জানিয়েছেন, আসন্ন রমজানের জন্য নিত্যপ্রয়োজনীয় পণ্যের সরবরাহ পরিস্থিতি ভালো রয়েছে।",
+          "সিলেট জেলা পরিষদ মিলনায়তনে এক সভা শেষে সাংবাদিকদের প্রশ্নের জবাবে তিনি এসব কথা বলেন।",
+          "ভোজ্যতেলের দাম বৃদ্ধি প্রসঙ্গে তিনি জানান যে আন্তর্জাতিক বাজারে বা পণ্য আমদানির উৎসস্থলে দাম বৃদ্ধি পেয়েছে।"
         ],
         "bullets_en": [
-          "Shama Obaed made the remarks attending as the chief guest at a roundtable discussion in Berlin.",
-          "She stressed the need to strengthen cooperation with trusted partners like Germany through bilateral and multilateral platforms.",
-          "She identified climate change, renewable energy, and women empowerment as key areas for cooperation."
+          "Commerce and jute minister Khandakar Abdul Muktadir stated that the supply situation of essential commodities is good for the upcoming Ramadan.",
+          "He made these remarks in response to journalists' questions after a meeting on Friday evening at the Sylhet District Council Auditorium.",
+          "Regarding the increase in edible oil prices, he noted that prices have risen in international markets or at source import locations."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "অর্থনৈতিক নিরাপত্তা চাচ্ছে বাংলাদেশ",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": "বৈশ্বিক অংশীদারিত্ব জোরদারে বাংলাদেশের এই উদ্যোগকে আপনি কীভাবে দেখছেন?"
+        "hook_bn": "আসন্ন রমজানে নিত্যপণ্যের দাম স্থিতিশীল থাকবে",
+        "kicker_bn": "দাম স্থিতিশীল",
+        "share_value": true,
+        "question_bn": "আপনার এলাকায় রমজানের নিত্যপণ্যের বাজারদর কেমন হওয়া উচিত বলে আপনি মনে করেন?"
       },
-      "desk_importance": 6.0,
+      "desk_importance": 7.0,
       "outlet_count": 2,
       "trending": false,
-      "social_appeal": 4.0,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T18:01:43.458250+00:00"
+        "checked_at": "2026-11-27T19:01:40.540990+00:00"
       }
     },
     {
-      "story_id": "2f772839-760b-5231-9b0a-76ecc09bd63e",
-      "primary_category": "world_diplomacy",
+      "story_id": "294e758c-3044-5450-8005-cf3505525e50",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy",
-        "economy_business"
+        "governance_law",
+        "economy_business",
+        "tech_innovation"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#Hamas",
-        "#Israel",
-        "#Gaza"
+        "#FamilyCard",
+        "#SocialWelfare",
+        "#BangladeshGovt"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/05/07/untitled_design_2.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/08/28/dr_zahid.jpg",
       "image_caption": null,
-      "published_at": "2026-11-27T15:30:00+00:00",
+      "published_at": "2026-11-27T18:15:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.3826,
+      "importance_score": 7.0,
+      "rank_score": 4.6864,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/worldbiz/middle-east/son-hamas-chief-survives-israeli-strike-hamas-says-1616021",
-          "title": "Son of Hamas chief survives Israeli strike, Hamas says",
-          "snippet": "Son of Hamas chief survives Israeli strike, Hamas says"
-        },
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
-          "title": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia",
-          "snippet": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823323/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2%E0%A7%80-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A6%95%E0%A7%8D%E0%A6%95%E0%A6%BE-%E0%A6%9C%E0%A7%8B%E0%A6%9F",
-          "title": "সৌদির নিরাপত্তা শক্তিশালী করতে মক্কা জোট প্রতিশ্রুতিবদ্ধ: পাকিস্তানের পররাষ্ট্রমন্ত্রী",
-          "snippet": "সৌদির নিরাপত্তা শক্তিশালী করতে মক্কা জোট প্রতিশ্রুতিবদ্ধ: পাকিস্তানের পররাষ্ট্রমন্ত্রী"
+          "url": "https://www.tbsnews.net/bangladesh/govt-plans-bring-41-crore-families-under-family-card-allowance-programme-phases-1616071",
+          "title": "Govt plans to bring 4.1 crore families under Family Card allowance programme in phases",
+          "snippet": "Govt plans to bring 4.1 crore families under Family Card allowance programme in phases"
         }
       ],
       "daily_buzz": {
-        "title_bn": "হামাস প্রধানের ছেলে ইসরায়েলি বিমান হামলায় বেঁচে গেছেন",
-        "title_en": "Son of Hamas chief survives Israeli airstrike",
-        "summary_bn": "হামাস প্রধান খলিল আল-হাইয়ার ছেলে ইজ্জেলদিন আল-হাইয়ার এবং তার পরিবার একটি ইসরায়েলি বিমান হামলা থেকে বেঁচে গেছেন।",
-        "summary_en": "Hamas chief Khalil al-Hayya's son Izzeldeen al-Hayya and his family survived an Israeli airstrike.",
+        "title_bn": "সরকার ৪.১ কোটি পরিবারকে ফ্যামিলি কার্ড ভাতার আওতায় আনার পরিকল্পনা করেছে",
+        "title_en": "Govt plans to bring 4.1 crore families under Family Card allowance programme",
+        "summary_bn": "সমাজকল্যাণ মন্ত্রণালয়ের অধীন ফ্যামিলি কার্ড ভাতা কর্মসূচির আওতায় ৪.১ কোটি পরিবারকে ধাপে ধাপে আনার পরিকল্পনা করেছে সরকার।",
+        "summary_en": "The government plans to bring 4.1 crore families under the Family Card allowance programme in phases.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "economy_business"
+          "governance_law",
+          "economy_business",
+          "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T15:30:00+00:00",
-        "lead_bn": "হামাস প্রধান খলিল আল-হাইয়ার ছেলে ইজ্জেলদিন আল-হাইয়ার এবং তার পরিবার একটি ইসরায়েলি বিমান হামলা থেকে বেঁচে গেছেন।",
-        "lead_en": "Hamas chief Khalil al-Hayya's son Izzeldeen al-Hayya and his family survived an Israeli airstrike.",
+        "published_at": "2026-11-27T18:15:00+00:00",
+        "lead_bn": "সমাজকল্যাণ মন্ত্রণালয়ের অধীন ফ্যামিলি কার্ড ভাতা কর্মসূচির আওতায় ৪.১ কোটি পরিবারকে ধাপে ধাপে আনার পরিকল্পনা করেছে সরকার।",
+        "lead_en": "The government plans to bring 4.1 crore families under the Family Card allowance programme in phases.",
         "bullets_bn": [
-          "হামাসের সিনিয়র কর্মকর্তা বাসেম নাঈম রয়টার্সকে জানান যে ভোরবেলার এই হামলায় কোনো প্রাণহানি হয়নি।",
-          "হামাসের মতে, ইসরায়েলি সামরিক বাহিনী একটি আবাসিক অ্যাপার্টমেন্ট লক্ষ্য করে এই হামলা চালায়।",
-          "হামাস অভিযোগ করেছে যে ইসরায়েল ২০২৫ সালের গাজা যুদ্ধবিরতি চুক্তি দুর্বল করার চেষ্টা করছে।"
+          "কার্যক্রম বাস্তবায়নের লক্ষ্যে ১২ অক্টোবর থেকে দেশব্যাপী একযোগে গৃহস্থালির তথ্য সংগ্রহ শুরু হয়েছে।",
+          "সংসদ ভবনে সমাজকল্যাণ মন্ত্রণালয় সম্পর্কিত সংসদীয় স্থায়ী কমিটির বৈঠকে এই তথ্য জানানো হয়।",
+          "তথ্য সংগ্রহ ও উপকারভোগী বাছাইয়ের কাজ ডিসেম্বরের মধ্যে সম্পন্ন করার লক্ষ্য নির্ধারণ করেছে মন্ত্রণালয়।"
         ],
         "bullets_en": [
-          "Senior Hamas official Basem Naim told Reuters that there were no fatalities in the dawn airstrike.",
-          "Hamas said the Israeli military had targeted a residential apartment in the attack.",
-          "Hamas accused Israel of seeking to undermine the 2025 Gaza ceasefire agreement."
+          "Nationwide household data collection began simultaneously on 12 October to implement the programme.",
+          "The ministry presented this update at a meeting of the Parliamentary Standing Committee on the Ministry of Social Welfare at the Jatiya Sangsad.",
+          "The ministry aimed to complete data collection and beneficiary selection for all households by December."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বাসেম নাঈম জানান, ইজ্জেলদিন আল-হাইয়ার চার ভাই এর আগে ইসরায়েলি বাহিনীর হাতে নিহত হয়েছেন। খলিল আল-হাইয়ার আরেক নিহত ছেলের পরিবারও এই হামলা থেকে বেঁচে গেছে। ইজ্জেলদিন হলেন হামাম খলিল আল-হাইয়ার যমজ ভাই, যিনি কাতারে হামাস নেতাদের লক্ষ্য করে চালানো ২০২৫ সালের এক ইসরায়েলি বিমান হামলায় নিহত হয়েছিলেন।",
-        "details_en": "Basem Naim said Izzeldeen al-Hayya's four brothers had been killed by Israeli forces. The family of one of Khalil al-Hayya's late sons also survived the strike. Izzeldeen is the twin brother of Hamam Khalil al-Hayya, who was killed in a 2025 Israeli airstrike targeting Hamas leaders in Qatar.",
-        "hook_bn": "হামাস প্রধানের ছেলে ইসরায়েলি হামলা থেকে বেঁচে গেছেন",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "৪.১ কোটি পরিবার পাবে ফ্যামিলি কার্ড ভাতা",
+        "kicker_bn": "নতুন কর্মসূচি",
+        "share_value": true,
+        "question_bn": "আপনার এলাকায় কি ফ্যামিলি কার্ডের জন্য তথ্য সংগ্রহ শুরু হয়েছে?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-27T19:01:40.540990+00:00"
+      }
+    },
+    {
+      "story_id": "d6f1cf07-6c33-5947-914a-31a58c2954ed",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1760228604788-db8a36d5c1a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bGF3JTIwZW5mb3JjZW1lbnQlMjBzdGVwcyUyMHNlY3VyaXR5JTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1ODA2MDkwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-27T18:48:30+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.75,
+      "rank_score": 4.5005,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1184440",
+          "title": "আ’লীগের সম্ভাব্য নাশকতা ঠেকাতে যশোরে কঠোর নিরাপত্তা বলয়",
+          "snippet": "আ’লীগের সম্ভাব্য নাশকতা ঠেকাতে যশোরে কঠোর নিরাপত্তা বলয়"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/country/501345",
+          "title": "ময়মনসিংহে কার্যক্রম নিষিদ্ধ ঘোষিত সংগঠনের ১১ নেতাকর্মী গ্রেপ্তার",
+          "snippet": "ময়মনসিংহে কার্যক্রম নিষিদ্ধ ঘোষিত সংগঠনের ১১ নেতাকর্মী গ্রেপ্তার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নিষিদ্ধ আওয়ামী লীগের তৎপরতা ঠেকাতে দেশজুড়ে আইনশৃঙ্খলা বাহিনীর অভিযান ও নিরাপত্তা জোরদার",
+        "title_en": "Law enforcement steps up security and raids to curb banned Awami League activities",
+        "summary_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের সম্ভাব্য নাশকতা ও তৎপরতা ঠেকাতে যশোরসহ বিভিন্ন জেলায় কঠোর নিরাপত্তা বলয় ও অভিযান চালাচ্ছে আইনশৃঙ্খলা বাহিনী।",
+        "summary_en": "Law enforcement is maintaining strict security rings and conducting drives across various districts to prevent potential sabotage by the banned Awami League.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T18:48:30+00:00",
+        "lead_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের সম্ভাব্য নাশকতা ও তৎপরতা ঠেকাতে যশোরসহ বিভিন্ন জেলায় কঠোর নিরাপত্তা বলয় ও অভিযান চালাচ্ছে আইনশৃঙ্খলা বাহিনী।",
+        "lead_en": "Law enforcement is maintaining strict security rings and conducting drives across various districts to prevent potential sabotage by the banned Awami League.",
+        "bullets_bn": [
+          "যশোরের আইনশৃঙ্খলা পরিস্থিতি স্বাভাবিক রাখতে সর্বোচ্চ সতর্ক অবস্থানে রয়েছে প্রশাসন।",
+          "সিরাজগঞ্জের শাহজাদপুরে কার্যক্রম নিষিদ্ধ আওয়ামী লীগ নেতা ও সাবেক মেয়র হালিমুল হক মিরুকে গ্রেফতার করতে গিয়ে গ্রামবাসীর বাধার মুখে পড়ে পুলিশ।",
+          "পাবনা সদর উপজেলার দোগাছিতে প্রকাশ্যে মশাল মিছিল করেছেন কার্যক্রম নিষিদ্ধ আওয়ামী লীগের কর্মী-সমর্থকরা।"
+        ],
+        "bullets_en": [
+          "The administration remains in a maximum alert position to keep the law and order situation normal in Jashore.",
+          "Police faced opposition from villagers while attempting to arrest banned Awami League leader and former mayor Halimul Haque Miru in Shahjadpur, Sirajganj.",
+          "Workers and supporters of the banned Awami League brought out a public torch procession in Dogachi of Pabna Sadar upazila."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ডিসেম্বর মাস ঘিরে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের সম্ভাব্য নাশকতা রোধে যশোরে কঠোর নিরাপত্তা বলয় গড়ে তোলা হয়েছে। এছাড়া সিরাজগঞ্জের শাহজাদপুরে নিষিদ্ধ দলের নেতাকে গ্রেফতার করতে গিয়ে পুলিশ বাধা পায় এবং পাবনার দোগাছিতে মশাল মিছিল করেন কর্মী-সমর্থকরা। ময়মনসিংহে কার্যক্রম নিষিদ্ধ ঘোষিত সংগঠনের ১১ নেতাকর্মীকে গ্রেপ্তার করা হয়েছে।",
+        "details_en": "A strict security ring has been formed in Jashore to prevent potential sabotage by the banned Awami League surrounding the month of December. In addition, police faced obstacles while trying to arrest a banned party leader in Shahjadpur of Sirajganj, workers and supporters brought out a torch procession in Dogachi of Pabna, and eleven leaders and activists of the banned organization were arrested in Mymensingh.",
+        "hook_bn": "নিষিদ্ধ আ'লীগের তৎপরতা ঠেকাতে কঠোর নিরাপত্তা",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": true,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-27T19:01:40.540990+00:00"
+      }
+    },
+    {
+      "story_id": "30af1618-6d08-522b-8e48-f5385128cb46",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/terminal-3-20261127225420.jpg?cid=501346",
+      "image_caption": null,
+      "published_at": "2026-11-27T16:54:20+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.0,
+      "rank_score": 4.3362,
+      "sources": [
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/national/501346",
+          "title": "দরজা খুলছে থার্ড টার্মিনালের, জাপানি প্রতিষ্ঠানের সঙ্গে চুক্তি সোমবার",
+          "snippet": "দরজা খুলছে থার্ড টার্মিনালের, জাপানি প্রতিষ্ঠানের সঙ্গে চুক্তি সোমবার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দরের তৃতীয় টার্মিনাল পরিচালনার চুক্তি চূড়ান্ত হয়েছে।",
+        "title_en": "Agreement to operate Hazrat Shahjalal International Airport third terminal finalized.",
+        "summary_bn": "বেসামরিক বিমান চলাচল কর্তৃপক্ষ ও জাপানি প্রতিষ্ঠানের মধ্যে হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দরের তৃতীয় টার্মিনাল পরিচালনার চূড়ান্ত চুক্তি স্বাক্ষরিত হতে যাচ্ছে।",
+        "summary_en": "The Civil Aviation Authority of Bangladesh and a Japanese institution will sign the final operating agreement for the third terminal.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T16:54:20+00:00",
+        "lead_bn": "বেসামরিক বিমান চলাচল কর্তৃপক্ষ ও জাপানি প্রতিষ্ঠানের মধ্যে হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দরের তৃতীয় টার্মিনাল পরিচালনার চূড়ান্ত চুক্তি স্বাক্ষরিত হতে যাচ্ছে।",
+        "lead_en": "The Civil Aviation Authority of Bangladesh and a Japanese institution will sign the final operating agreement for the third terminal.",
+        "bullets_bn": [
+          "বেসামরিক বিমান চলাচল কর্তৃপক্ষ, মন্ত্রণালয় ও জাপানি কনসোর্টিয়ামের মধ্যে সমঝোতার পর আনুষ্ঠানিক চুক্তি হবে।",
+          "বেসামরিক বিমান চলাচল কর্তৃপক্ষের ৩২১তম বোর্ড সভায় জাপানি কনসোর্টিয়ামের প্রস্তাবিত শর্তাবলি পর্যালোচনা শেষে অনুমোদন দেওয়া হয়।",
+          "আগামী ২৯ নভেম্বর বেসামরিক বিমান চলাচল কর্তৃপক্ষের সদর দপ্তরে প্রেস ব্রিফিং অনুষ্ঠিত হবে।"
+        ],
+        "bullets_en": [
+          "The formal agreement follows a consensus between the Civil Aviation Authority, ministry, and Japanese consortium.",
+          "The Civil Aviation Authority approved the Japanese consortium's proposed conditions in its 321st board meeting.",
+          "A press briefing will be held at the Civil Aviation Authority headquarters."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "তৃতীয় টার্মিনাল পরিচালনার চুক্তি চূড়ান্ত",
+        "kicker_bn": "নতুন চুক্তি",
+        "share_value": true,
+        "question_bn": "তৃতীয় টার্মিনাল চালু হলে বিমানযাত্রীদের সেবার মান কতটা উন্নত হবে বলে আপনার মনে হয়?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-27T19:01:40.540990+00:00"
+      }
+    },
+    {
+      "story_id": "e2a1a544-d863-5155-be6d-75832b7700a6",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#BangladeshGarments",
+        "#Zara",
+        "#HM",
+        "#BGMEA"
+      ],
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/merged/merged_a0732ef15c0412806a96d434ad85331a.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-27T19:00:59.753901+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.0,
+      "rank_score": 4.8985,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/global-fashion-brands-shift-orders-from-bangladesh-to-india-reuters",
+          "title": "Global fashion brands shift orders from Bangladesh to India: Reuters",
+          "snippet": "Global fashion brands shift orders from Bangladesh to India: Reuters"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাংলাদেশ থেকে অর্ডার সরিয়ে নিচ্ছেন বৈশ্বিক ফ্যাশন ব্র্যান্ডগুলো",
+        "title_en": "Global fashion brands shift apparel orders from Bangladesh",
+        "summary_bn": "শ্রমিক অসন্তোষ ও উৎপাদন ব্যাহত হওয়ায় বিশ্বখ্যাত ফ্যাশন ব্র্যান্ডগুলো বাংলাদেশ থেকে তাদের মাসিক অর্ডারের প্রায় দশ ভাগ সরিয়ে নিয়েছে।",
+        "summary_en": "Global fashion retailers shifted nearly a tenth of their monthly orders from Bangladesh due to labour unrest and disrupted production.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T19:00:59.753901+00:00",
+        "lead_bn": "শ্রমিক অসন্তোষ ও উৎপাদন ব্যাহত হওয়ায় বিশ্বখ্যাত ফ্যাশন ব্র্যান্ডগুলো বাংলাদেশ থেকে তাদের মাসিক অর্ডারের প্রায় দশ ভাগ সরিয়ে নিয়েছে।",
+        "lead_en": "Global fashion retailers shifted nearly a tenth of their monthly orders from Bangladesh due to labour unrest and disrupted production.",
+        "bullets_bn": [
+          "১ থেকে ১৮ নভেম্বরের মধ্যে ব্র্যান্ডগুলো প্রায় ২৫৪ মিলিয়ন ডলারের অর্ডার অন্য দেশে সরিয়ে নিয়েছে।",
+          "অর্ডারগুলোর বেশিরভাগই প্রতিবেশী ভারতে স্থানান্তরিত হয়েছে বলে কারখানা মালিকরা জানিয়েছেন।",
+          "তৈরি পোশাক খাতের এই অস্থিরতার কারণে চারশ মিলিয়ন ডলারের বেশি উৎপাদন ক্ষতি হয়েছে।"
+        ],
+        "bullets_en": [
+          "Brands diverted about $254 million worth of orders between November 1 and 18.",
+          "Most of the orders moved to neighbouring India, factory owners said.",
+          "The protests have caused more than $400 million in production losses."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "অর্ডার সরিয়ে নিচ্ছে বৈশ্বিক ফ্যাশন ব্র্যান্ডগুলো",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 5.0,
-      "outlet_count": 3,
+      "desk_importance": 7.0,
+      "outlet_count": 1,
       "trending": false,
-      "social_appeal": 3.0,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T18:01:43.458250+00:00"
+        "checked_at": "2026-11-27T19:01:40.540990+00:00"
+      }
+    },
+    {
+      "story_id": "ed274eae-d819-5d16-8b3a-e1a516aea5c1",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.channelionline.com/2026/11/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%A8-%E0%A6%9A%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A6%BE-%E0%A6%87%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A7%81-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BF-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%B0-%E0%A6%A8%E0%A7%80%E0%A6%B0%E0%A6%AC%E0%A6%A4%E0%A6%BE.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-11-27T17:01:55+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.5,
+      "rank_score": 3.7663,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/return-agreement-hasina-issue-dhaka-demand-delhi/",
+          "title": "প্রত্যাবর্তন চুক্তি, হাসিনা ইস্যু, ঢাকার দাবি, দিল্লির নীরবতা",
+          "snippet": "প্রত্যাবর্তন চুক্তি, হাসিনা ইস্যু, ঢাকার দাবি, দিল্লির নীরবতা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাংলাদেশ প্রত্যাবর্তন চুক্তির মাধ্যমে শেখ হাসিনাকে ফেরত চাইছে",
+        "title_en": "Bangladesh demands Sheikh Hasina return through the extradition treaty",
+        "summary_bn": "শেখ হাসিনার প্রত্যাবর্তন চুক্তি নিয়ে ঢাকা ও নয়াদিল্লির মধ্যে কূটনৈতিক অচলাবস্থা তৈরি হয়েছে।",
+        "summary_en": "A diplomatic stalemate has emerged between Dhaka and New Delhi over the extradition of Sheikh Hasina.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T17:01:55+00:00",
+        "lead_bn": "শেখ হাসিনার প্রত্যাবর্তন চুক্তি নিয়ে ঢাকা ও নয়াদিল্লির মধ্যে কূটনৈতিক অচলাবস্থা তৈরি হয়েছে।",
+        "lead_en": "A diplomatic stalemate has emerged between Dhaka and New Delhi over the extradition of Sheikh Hasina.",
+        "bullets_bn": [
+          "আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল ২০২৫ সালের ১৭ নভেম্বর সাবেক প্রধানমন্ত্রী শেখ হাসিনাকে মৃত্যুদণ্ড দেয়।",
+          "ঢাকার যুক্তি অনুযায়ী মানবতাবিরোধী অপরাধ রাজনৈতিক অপরাধ নয় এবং হাসিনাকে ফেরত দেওয়া ভারতের দায়িত্ব।",
+          "নয়াদিল্লি জানিয়েছে বিষয়টি আইনি প্রক্রিয়ার মাধ্যমে দেখা হবে এবং এখনো চূড়ান্ত সিদ্ধান্ত জানানো হয়নি।"
+        ],
+        "bullets_en": [
+          "The International Crimes Tribunal sentenced former Prime Minister Sheikh Hasina to death on 17 November 2025.",
+          "Dhaka argues crimes against humanity are not political offenses and returning Hasina is India's obligation.",
+          "New Delhi stated the matter will be handled through legal processes and has not announced a final decision."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "২০১৩ সালের ২৮ জানুয়ারি স্বাক্ষরিত প্রত্যাবর্তন চুক্তির অধীনে বাংলাদেশ ও ভারতের মধ্যে এই আলোচনা চলছে। ২০১৬ সালে চুক্তি সংশোধন করে গ্রেপ্তারি পরোয়ানার মাধ্যমে প্রক্রিয়া সহজ করা হয়। ২০২৪ সালের ২৩ ডিসেম্বর বাংলাদেশ প্রথম আনুষ্ঠানিকভাবে নোট ভারবালের মাধ্যমে প্রত্যাবর্তনের অনুরোধ জানায় এবং রায়ের পর তা পুনর্ব্যক্ত করা হয়।",
+        "details_en": "Discussions are ongoing under the extradition treaty signed between Bangladesh and India on 28 January 2013. The treaty was amended in 2016 to simplify the process using arrest warrants. Bangladesh first officially requested extradition through a note verbale on 23 December 2024, and reiterated the demand following the verdict.",
+        "hook_bn": "শেখ হাসিনার প্রত্যাবর্তন নিয়ে কূটনৈতিক অচলাবস্থা",
+        "kicker_bn": "কূটনৈতিক অচলাবস্থা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-27T19:01:40.540990+00:00"
       }
     }
   ]
