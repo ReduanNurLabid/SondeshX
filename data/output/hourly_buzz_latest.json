@@ -1,66 +1,146 @@
 {
-  "updated_at": "2026-11-27T08:00:47.833527",
-  "total_stories": 4,
+  "updated_at": "2026-11-27T09:00:48.410791",
+  "total_stories": 2,
   "stories": [
     {
-      "story_id": "3d21da9f-3cf2-55f1-99c9-6d9563fc3159",
-      "primary_category": "society_education",
+      "story_id": "31e7f3ab-b3a6-5ffa-b6a8-fb80baf16671",
+      "primary_category": "climate_environment",
       "interest_categories": [
-        "society_education",
+        "climate_environment",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#Inani",
+        "#Bapex",
+        "#GasFire"
       ],
-      "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bXBvJTIwbGlzdGVkJTIwdGVhY2hlcnMlMjBodW5nZXIlMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NTc2NjQ3NXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1583794018021-c841442da0e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bmF0dXJlJTIwY2xpbWF0ZSUyMGZsb29kJTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1NzcwMDg4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-27T07:05:52+00:00",
+      "published_at": "2026-11-27T07:01:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.4133,
+      "importance_score": 6.5,
+      "rank_score": 3.7628,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/education/news/1184287",
-          "title": "বদলির আদেশ জারির দাবিতে শিক্ষকদের আমরণ অনশন",
-          "snippet": "বদলির আদেশ জারির দাবিতে শিক্ষকদের আমরণ অনশন"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/power-energy/425891/fire-at-inani-gas-well-brought-under-control-after",
+          "title": "Fire at Inani gas well brought under control after a month",
+          "snippet": "Fire at Inani gas well brought under control after a month"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/gas-fire-inani-brought-under-control-after-31-days-1615666",
+          "title": "Gas fire in Inani brought under control after 31 days",
+          "snippet": "Gas fire in Inani brought under control after 31 days"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/country/501246",
+          "title": "৩১ দিন পর নিয়ন্ত্রণে ইনানীর গ্যাসকূপের আগুন",
+          "snippet": "৩১ দিন পর নিয়ন্ত্রণে ইনানীর গ্যাসকূপের আগুন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বদলির আদেশ জারির দাবিতে শিক্ষকদের আমরণ অনশন",
-        "title_en": "MPO-listed teachers are on hunger strike demanding transfer orders",
-        "summary_bn": "এমপিওভুক্ত শিক্ষকদের বদলির চূড়ান্ত আদেশ জারির দাবিতে জাতীয় প্রেস ক্লাবের সামনে আমরণ অনশন করছেন নারী শিক্ষকরা।",
-        "summary_en": "Female teachers are on hunger strike in front of the National Press Club demanding final transfer orders for MPO-listed teachers.",
+        "title_bn": "৩১ দিন পর নিয়ন্ত্রণে এলো ইনানীর গ্যাসকূপের আগুন",
+        "title_en": "Fire at Inani gas well brought under control after 31 days",
+        "summary_bn": "ইনানীর গ্যাসকূপের আগুন এক মাস পর নিয়ন্ত্রণে আনা হয়েছে বলে জানিয়েছে বাপেক্স।",
+        "summary_en": "The gas fire in Inani has been brought under control after a month, according to Bapex.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
+          "climate_environment",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T07:05:52+00:00",
-        "lead_bn": "এমপিওভুক্ত শিক্ষকদের বদলির চূড়ান্ত আদেশ জারির দাবিতে জাতীয় প্রেস ক্লাবের সামনে আমরণ অনশন করছেন নারী শিক্ষকরা।",
-        "lead_en": "Female teachers are on hunger strike in front of the National Press Club demanding final transfer orders for MPO-listed teachers.",
+        "published_at": "2026-11-27T07:01:00+00:00",
+        "lead_bn": "ইনানীর গ্যাসকূপের আগুন এক মাস পর নিয়ন্ত্রণে আনা হয়েছে বলে জানিয়েছে বাপেক্স।",
+        "lead_en": "The gas fire in Inani has been brought under control after a month, according to Bapex.",
         "bullets_bn": [
-          "জাতীয় প্রেস ক্লাবের সামনে নারী শিক্ষকরা আমরণ অনশন করছেন।",
-          "এমপিওভুক্ত শিক্ষকদের বদলির চূড়ান্ত আদেশ জারির দাবি জানানো হয়েছে।",
-          "আবেদন করার তিন মাস পরও বদলির ফল প্রকাশ না হওয়ায় তাঁরা ক্ষোভ প্রকাশ করেছেন।"
+          "একটি বিশেষ কারিগরি প্রক্রিয়ায় ৩০ ইঞ্চি ক্যাসিং স্থাপন করে বাপেক্স।",
+          "এই বিশেষ প্রক্রিয়ায় আগুন নিভিয়ে ফেলা হয়।",
+          "পুরো প্রক্রিয়াটি শেষ করতে আরও চার থেকে পাঁচ দিন সময় লাগবে বলে অনুমান করছে বাপেক্স।"
         ],
         "bullets_en": [
-          "Female teachers are staging a hunger strike in front of the National Press Club.",
-          "The demand has been made to issue final transfer orders for MPO-listed teachers.",
-          "They expressed anger as the transfer results were not published three months after application."
+          "Bapex installed a 30-inch casing using a specialised technical procedure.",
+          "The flames were successfully extinguished through this procedure.",
+          "Bapex estimates that the process will take another four to five days."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "জাতীয় প্রেস ক্লাবের সামনে শিক্ষকদের আমরণ অনশন",
+        "hook_bn": "ইনানীর গ্যাসকূপের আগুন নিয়ন্ত্রণে",
         "kicker_bn": null,
         "share_value": false,
-        "question_bn": "শিক্ষকদের বদলি প্রক্রিয়া বিলম্বিত হওয়া নিয়ে আপনার মতামত কী?"
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-27T09:01:46.517261+00:00"
+      }
+    },
+    {
+      "story_id": "bc34200b-1013-5355-824d-26942f54869c",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/Untitled-1-5.png-cumilla-5.png",
+      "image_caption": null,
+      "published_at": "2026-11-27T06:58:05+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.1972,
+      "sources": [
+        {
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/bangladesh/post-1226533/",
+          "title": "কুমিল্লায় নিষিদ্ধ সংগঠনের ৭৮ জনসহ আটক ৪৯৬",
+          "snippet": "কুমিল্লায় নিষিদ্ধ সংগঠনের ৭৮ জনসহ আটক ৪৯৬"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কুমিল্লায় বিশেষ অভিযানে নিষিদ্ধ সংগঠনের ৭৮ জনসহ ৪৯৬ জন আটক",
+        "title_en": "Police detain 496 people, including 78 from banned organizations, in Comilla.",
+        "summary_bn": "কুমিল্লায় জেলা পুলিশের টানা ৭২ ঘণ্টার বিশেষ অভিযানে নিষিদ্ধ সংগঠনের ৭৮ জনসহ মোট ৪৯৬ জনকে আটক করা হয়েছে।",
+        "summary_en": "District police detained 496 people, including 78 from banned organizations, during a 72-hour special drive in Comilla.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T06:58:05+00:00",
+        "lead_bn": "কুমিল্লায় জেলা পুলিশের টানা ৭২ ঘণ্টার বিশেষ অভিযানে নিষিদ্ধ সংগঠনের ৭৮ জনসহ মোট ৪৯৬ জনকে আটক করা হয়েছে।",
+        "lead_en": "District police detained 496 people, including 78 from banned organizations, during a 72-hour special drive in Comilla.",
+        "bullets_bn": [
+          "গত ২৪ থেকে ২৬ নভেম্বর পর্যন্ত জেলার ১৮টি থানা ও জেলা গোয়েন্দা শাখা পুলিশের সমন্বয়ে এ অভিযান পরিচালনা করা হয়।",
+          "যাচাই-বাছাই শেষে ৩ টে ৯ জনের বিরুদ্ধে আইনানুগ ব্যবস্থা নেওয়া হয়েছে এবং ১৬৭ জনকে মুচলেকা নিয়ে পরিবারের জিম্মায় দেওয়া হয়েছে।",
+          "পুলিশ সুপার মো. আনিসুজ্জামান জানিয়েছেন যে আইনশৃঙ্খলা পরিস্থিতি স্বাভাবিক রাখতে এ ধরনের অভিযান ভবিষ্যতেও অব্যাহত থাকবে।"
+        ],
+        "bullets_en": [
+          "The drive was conducted from November 24 to 26 by 18 police stations and the district detective branch.",
+          "Legal action was taken against 329 people after verification, while 167 were handed over to families on bonds.",
+          "Superintendent of Police Md. Anisuzzaman stated that such special operations will continue to maintain law and order."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "কুমিল্লার সার্বিক আইনশৃঙ্খলা পরিস্থিতি স্বাভাবিক রাখা, অপরাধ দমন এবং জননিরাপত্তা নিশ্চিত করার লক্ষ্যে গত ২৪ থেকে ২৬ নভেম্বর এ বিশেষ অভিযান পরিচালনা করা হয়। অভিযানে নিষিদ্ধ সংগঠনের নাশকতামূলক কর্মকাণ্ড প্রতিরোধের পাশাপাশি কিশোর গ্যাং, মাদক ব্যবসায়ী ও মাদকসেবী, ছিনতাইকারী এবং ডাকাতদের বিরুদ্ধে ব্যবস্থা নেওয়া হয়। পুলিশ সুপার মো. আনিসুজ্জামান জানান, কোনো নিরপরাধ ব্যক্তি যেন হয়রানির শিকার না হন, তা সর্বোচ্চ গুরুত্ব দিয়ে তদারকি করা হচ্ছে।",
+        "details_en": "The special operation was conducted from November 24 to 26 to maintain law and order, suppress crime, and ensure public safety in Comilla. It targeted subversive activities of banned groups, teenage gangs, drug dealers and users, muggers, and robbers. Superintendent of Police Md. Anisuzzaman stated that maximum importance is given to ensuring no innocent person is harassed.",
+        "hook_bn": "কুমিল্লায় বিশেষ অভিযানে আটক ৪৯৬ জন",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
       },
       "desk_importance": 6.0,
       "outlet_count": 1,
@@ -68,215 +148,7 @@
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T08:01:34.019656+00:00"
-      }
-    },
-    {
-      "story_id": "2035e66e-5fba-52e2-81d2-5224c220aa76",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#MigrantWelfareNetwork",
-        "#BOESL",
-        "#DHL",
-        "#Malaysia"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2023/12/30/migrant_workers.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-27T06:45:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.3232,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/mwn-backs-boesl-dhl-zero-cost-recruitment-urges-probe-alleged-irregularities-1615616",
-          "title": "MWN backs BOESL-DHL zero-cost recruitment, urges probe into alleged irregularities",
-          "snippet": "MWN backs BOESL-DHL zero-cost recruitment, urges probe into alleged irregularities"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "অভিবাসী কল্যাণ নেটওয়ার্ক মালয়েশিয়ায় জিরো কস্ট কর্মী নিয়োগকে সমর্থন জানিয়েছে।",
-        "title_en": "Migrant Welfare Network backs zero-cost recruitment for Malaysian jobs.",
-        "summary_bn": "অভিবাসী কল্যাণ নেটওয়ার্ক বিওইএসএল ও ডিএইচএল-এর মাধ্যমে মালয়েশিয়ায় শূন্য খরচে কর্মী নিয়োগের উদ্যোগকে সমর্থন জানিয়েছে।",
-        "summary_en": "The Migrant Welfare Network welcomed the zero-cost recruitment initiative for Malaysian jobs through BOESL and DHL.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T06:45:00+00:00",
-        "lead_bn": "অভিবাসী কল্যাণ নেটওয়ার্ক বিওইএসএল ও ডিএইচএল-এর মাধ্যমে মালয়েশিয়ায় শূন্য খরচে কর্মী নিয়োগের উদ্যোগকে সমর্থন জানিয়েছে।",
-        "lead_en": "The Migrant Welfare Network welcomed the zero-cost recruitment initiative for Malaysian jobs through BOESL and DHL.",
-        "bullets_bn": [
-          "নেটওয়ার্কটি বিদেশগামী কর্মী নিয়োগ প্রক্রিয়ায় অধিক স্বচ্ছতা ও জবাবদিহির আহ্বান জানিয়েছে।",
-          "ডিএইচএল-এর কর্মী নিয়োগ প্রক্রিয়া গত এক মাস ধরে পর্যবেক্ষণ করেছে অভিবাসী কল্যাণ নেটওয়ার্ক।",
-          "নির্বাচিত কর্মীরা প্রয়োজনীয় প্রক্রিয়া সম্পন্ন করার পর ২৬ নভেম্বর মালয়েশিয়ায় রওনা হন।"
-        ],
-        "bullets_en": [
-          "The network called for greater transparency and accountability in overseas recruitment.",
-          "MWN monitored DHL's recruitment process in Bangladesh over the past month.",
-          "Selected workers completed processing and were deployed to Malaysia on 26 November."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বিওইএসএল-এর মাধ্যমে ডিএইচএল-এ নিয়োগের জন্য ৬ থেকে ৮ নভেম্বর ২০২৬ সালের মধ্যে হাজার হাজার আবেদন জমা পড়েছিল। টেলিভিশন সম্প্রচারের মাধ্যমে লটারির মাধ্যমে প্রাথমিক ৩০০ প্রার্থী বাছাই করা হয় এবং পরবর্তী সময়ে সাক্ষাত্কারের ভিত্তিতে ১১২ জন কর্মীকে মালয়েশিয়ায় কর্মসংস্থানের জন্য নির্বাচিত করা হয়।",
-        "details_en": "Thousands of applications were submitted to BOESL between 6 and 8 November 2026 for recruitment by DHL. BOESL shortlisted 300 candidates through a public lottery, and 112 workers were ultimately selected after interviews by DHL representatives.",
-        "hook_bn": "শূন্য খরচে মালয়েশিয়ায় কর্মী নিয়োগ",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": "শূন্য খরচে বিদেশ যাওয়ার এই প্রক্রিয়াটি নিয়ে আপনার মতামত কী?"
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T08:01:34.019656+00:00"
-      }
-    },
-    {
-      "story_id": "4f60fc06-62f9-565a-9024-452c29a1e365",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-27%2Ft6xz6t19%2FTrump-2.jpg?rect=0%2C25%2C720%2C378&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-27T07:32:31+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.4319,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/middle-east/6belzt2x85",
-          "title": "ইরানের কাছে ইউরোপে আঘাত হানার মতো শক্তিশালী ক্ষেপণাস্ত্র রয়েছে: ট্রাম্প",
-          "snippet": "ইরানের কাছে ইউরোপে আঘাত হানার মতো শক্তিশালী ক্ষেপণাস্ত্র রয়েছে: ট্রাম্প"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইরানের কাছে ইউরোপে আঘাত হানার মতো ক্ষেপণাস্ত্র রয়েছে বলে দাবি ট্রাম্পের",
-        "title_en": "Trump claims Iran has missiles capable of hitting Europe",
-        "summary_bn": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প দাবি করেছেন যে ইরানের কাছে ইউরোপে আঘাত হানার মতো শক্তিশালী ক্ষেপণাস্ত্র রয়েছে।",
-        "summary_en": "US President Donald Trump claimed that Iran has powerful missiles capable of striking Europe.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T07:32:31+00:00",
-        "lead_bn": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প দাবি করেছেন যে ইরানের কাছে ইউরোপে আঘাত হানার মতো শক্তিশালী ক্ষেপণাস্ত্র রয়েছে।",
-        "lead_en": "US President Donald Trump claimed that Iran has powerful missiles capable of striking Europe.",
-        "bullets_bn": [
-          "ফ্লোরিডার মার-এ-লাগো রিসোর্ট থেকে সামরিক বাহিনীর সদস্যদের সঙ্গে আলাপকালে ট্রাম্প এ মন্তব্য করেন।",
-          "মধ্যপ্রাচ্যে শান্তি না ফিরলে সেখানে পারমাণবিক ধ্বংসযজ্ঞ ঘটে যেতে পারে বলে সতর্ক করেছেন ট্রাম্প।",
-          "ইরানের শীর্ষ নেতাদের উন্মাদ বলে উল্লেখ করে ট্রাম্প বলেছেন তাদের হাতে কোনো পারমাণবিক অস্ত্র যেতে দেওয়া হবে না।"
-        ],
-        "bullets_en": [
-          "Trump made the remark while speaking with military members from the Mar-a-Lago resort in Florida.",
-          "Trump warned that a nuclear devastation could occur in the Middle East if peace is not established.",
-          "Calling Iran's top leaders insane, Trump stated they will not be allowed to get nuclear weapons."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "মার্কিন প্রেসিডেন্ট ফ্লোরিডার মার-এ-লাগো রিসোর্ট থেকে থ্যাংকসগিভিং উপলক্ষে মার্কিন সামরিক বাহিনীর সদস্যদের সঙ্গে ফোনে আলাপকালে ইরানের সক্ষমতা ও মধ্যপ্রাচ্যের পরিস্থিতি নিয়ে এই মন্তব্য করেন। তিনি জানান যে মধ্যপ্রাচ্যের তেল যুক্তরাষ্ট্রের দরকার নেই বরং শান্তি প্রয়োজন এবং দেশগুলো নিজেদের রক্ষা করার মতো যথেষ্ট শক্তিশালী না হওয়া পর্যন্ত তাদের সমর্থন দিয়ে যেতে হবে। তবে ইরানের কাছে এখনো কোনো পারমাণবিক অস্ত্র থাকার প্রমাণ পাওয়া যায়নি এবং দেশটি পারমাণবিক অস্ত্র বিস্তার রোধ চুক্তিতে স্বাক্ষরকারী রাষ্ট্র।",
-        "details_en": "The US President made these comments about Iran's capabilities and the Middle East situation during a phone conversation with US military members from the Mar-a-Lago resort in Florida for Thanksgiving. He stated that the US does not need Middle Eastern oil but rather peace, and must support the countries until they are strong enough to defend themselves. However, no proof has been found yet that Iran has nuclear weapons, and the country is a signatory to the nuclear Non-Proliferation Treaty.",
-        "hook_bn": "তারা সত্যিই উন্মাদ",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T08:01:34.019656+00:00"
-      }
-    },
-    {
-      "story_id": "dca69903-21b6-5b67-95e2-e89f479810ab",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "international",
-      "tags": [
-        "#ZakirNaik",
-        "#IslamicResearchFoundation",
-        "#IndiaHomeMinistry"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2019/08/14/zakir_naik.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-27T05:05:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.11,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/world/south-asia/indian-home-ministry-authorises-states-restrict-access-zakir-naiks-ngo-funds",
-          "title": "Indian home ministry authorises states to restrict access of Zakir Naik’s NGO to funds, premises",
-          "snippet": "Indian home ministry authorises states to restrict access of Zakir Naik’s NGO to funds, premises"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জাকির নায়েকের নিষিদ্ধ এনজিওর তহবিল ও সম্পত্তি নিয়ন্ত্রণে রাজ্যগুলোকে ক্ষমতা দিল ভারত।",
-        "title_en": "India authorises states to restrict Zakir Naik's banned NGO funds and premises.",
-        "summary_bn": "ভারতের স্বরাষ্ট্র মন্ত্রণালয় জাকির নায়েকের নিষিদ্ধ ইসলামিক রিসার্চ ফাউন্ডেশনের তহবিল ও প্রাঙ্গণ নিয়ন্ত্রণে রাজ্যগুলোকে ক্ষমতা দিয়েছে।",
-        "summary_en": "India's federal ministry authorised states and union territories to exercise powers over funds and premises of Zakir Naik's banned NGO.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T05:05:00+00:00",
-        "lead_bn": "ভারতের স্বরাষ্ট্র মন্ত্রণালয় জাকির নায়েকের নিষিদ্ধ ইসলামিক রিসার্চ ফাউন্ডেশনের তহবিল ও প্রাঙ্গণ নিয়ন্ত্রণে রাজ্যগুলোকে ক্ষমতা দিয়েছে।",
-        "lead_en": "India's federal ministry authorised states and union territories to exercise powers over funds and premises of Zakir Naik's banned NGO.",
-        "bullets_bn": [
-          "২৬ নভেম্বর ভারতের স্বরাষ্ট্র মন্ত্রণালয় ধারা ৪২ এর অধীনে এই নির্দেশিকা জারি করে।",
-          "আইনের ৭ ও ৮ ধারার অধীনে তহবিল ব্যবহার নিষিদ্ধ এবং প্রাঙ্গণ চিহ্নিত করার ক্ষমতা দেওয়া হয়েছে।",
-          "মহারাষ্ট্রের বাসিন্দা জাকির নায়েক ২০১৬ সাল থেকে মালয়েশিয়ায় বসবাস করছেন।"
-        ],
-        "bullets_en": [
-          "The Indian home ministry issued the directive under Section 42 on 26 November.",
-          "Sections 7 and 8 empower authorities to prohibit fund usage and notify premises.",
-          "Naik, a resident of Maharashtra, has been living in Malaysia since 2016."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ভারতের কেন্দ্রীয় সরকার ১৩ নভেম্বর আইনের ৩(১) ও ৩(৩) ধারার অধীনে ইসলামিক রিসার্চ ফাউন্ডেশনের ওপর নিষেধাজ্ঞা আরও পাঁচ বছর বাড়ায়। ২০১৬ সালে সরকার প্রথম সংগঠনটিকে নিষিদ্ধ করার সময় জাকির নায়েক বিদেশে একটি সফরে ছিলেন এবং তখন থেকেই তিনি মালয়েশিয়ায় থাকছেন।",
-        "details_en": "The central government extended the ban on the foundation by five more years on 13 November under sections 3(1) and 3(3) of the act. Naik was on a trip abroad when the government first banned his organisation in 2016 and has been living in Malaysia since.",
-        "hook_bn": "জাকির নায়েকের এনজিওর বিরুদ্ধে ভারতের কঠোর পদক্ষেপ",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 4.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T08:01:34.019656+00:00"
+        "checked_at": "2026-11-27T09:01:46.517261+00:00"
       }
     }
   ]
