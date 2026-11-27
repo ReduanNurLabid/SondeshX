@@ -1,132 +1,220 @@
 {
-  "updated_at": "2026-11-27T06:00:43.718790",
-  "total_stories": 5,
+  "updated_at": "2026-11-27T07:00:47.154296",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "09bf5818-8e4e-5656-a455-3a1e5d6f43c0",
+      "story_id": "0673cf3b-e7af-5138-bf6d-5e1ed0810ece",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
-        "economy_business"
+        "economy_business",
+        "society_education"
       ],
       "region": "national",
       "tags": [
-        "#Dhaka",
-        "#AwamiLeague",
+        "#Wari",
+        "#DhakaMedicalCollegeHospital",
         "#BangladeshPolice"
       ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/merged/merged_aa98ba3634b08b2525930ab96e565bf9.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/21/dead_2.jpg",
       "image_caption": null,
-      "published_at": "2026-11-27T06:00:57.752385+00:00",
+      "published_at": "2026-11-27T05:40:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 7.0,
-      "rank_score": 4.8986,
+      "rank_score": 4.5275,
       "sources": [
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/54-awami-league-activists-among-517-arrested-across-dhaka-in-24-hours",
-          "title": "54 AL activists among 517 arrested in Dhaka",
-          "snippet": "54 AL activists among 517 arrested in Dhaka"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/hotel-manager-stabbed-death-two-others-injured-wari-1615561",
+          "title": "Hotel manager stabbed to death, two others injured in Wari",
+          "snippet": "Hotel manager stabbed to death, two others injured in Wari"
+        },
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/crime/obrojxnprr",
+          "title": "গভীর রাতে ঢাকার আবাসিক হোটেলে ঢুকে এলোপাতাড়ি ছুরিকাঘাত, ব্যবস্থাপক নিহত, আহত ২",
+          "snippet": "গভীর রাতে ঢাকার আবাসিক হোটেলে ঢুকে এলোপাতাড়ি ছুরিকাঘাত, ব্যবস্থাপক নিহত, আহত ২"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/823232/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%95-%E0%A6%B9%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%A2%E0%A7%81%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%AA%E0%A6%95%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A7%81%E0%A6%AA%E0%A6%BF%E0%A7%9F%E0%A7%87",
+          "title": "রাজধানীতে আবাসিক হোটেলে ঢুকে ব্যবস্থাপককে কুপিয়ে হত্যা, আহত ২",
+          "snippet": "রাজধানীতে আবাসিক হোটেলে ঢুকে ব্যবস্থাপককে কুপিয়ে হত্যা, আহত ২"
+        },
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/national/501234",
+          "title": "ওয়ারীতে আবাসিক হোটেলে ঢুকে ম্যানেজারকে কুপিয়ে হত্যা",
+          "snippet": "ওয়ারীতে আবাসিক হোটেলে ঢুকে ম্যানেজারকে কুপিয়ে হত্যা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ঢাকায় ৫১৭ জন গ্রেপ্তার, ৫৪ জন আওয়ামী লীগের নেতাকর্মী",
-        "title_en": "517 arrested in Dhaka including 54 Awami League activists",
-        "summary_bn": "নিষেধাজ্ঞার মধ্যে ২৪ ঘণ্টার অভিযানে ঢাকা মেট্রোপলিটন পুলিশ ৫৪ জন আওয়ামী লীগ নেতাকর্মীসহ মোট ৫১৭ জনকে গ্রেপ্তার করেছে।",
-        "summary_en": "Police have arrested 517 people, including 54 Awami League activists, in the space of 24 hours across Dhaka.",
+        "title_bn": "ওয়ারীতে আবাসিক হোটেলে ম্যানেজারকে কুপিয়ে হত্যা, আহত ২",
+        "title_en": "Hotel manager killed and two injured in Wari attack",
+        "summary_bn": "ঢাকার ওয়ারীর একটি আবাসিক হোটেলে দুই ব্যক্তির হামলায় এক ব্যবস্থাপক নিহত এবং আরও দুজন আহত হয়েছেন।",
+        "summary_en": "A hotel manager was killed and two others were injured in an attack by two men at a Wari residential hotel in Dhaka.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law",
+          "economy_business",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T05:40:00+00:00",
+        "lead_bn": "ঢাকার ওয়ারীর একটি আবাসিক হোটেলে দুই ব্যক্তির হামলায় এক ব্যবস্থাপক নিহত এবং আরও দুজন আহত হয়েছেন।",
+        "lead_en": "A hotel manager was killed and two others were injured in an attack by two men at a Wari residential hotel in Dhaka.",
+        "bullets_bn": [
+          "নিহত নাঈমুর রহমানের বয়স ২৬ বছর এবং আহত দুজন হলেন মহাব্যবস্থাপক আব্দুর রাজ্জাক ও কর্মী মো. হাসান।",
+          "ওয়ারী থানার উপপরিদর্শক মো. আলম মিয়া জানান, হামলাকারীরা দেশীয় অস্ত্র নিয়ে হোটেলে ঢুকে এলোপাতাড়ি কুপিয়েছিল।",
+          "প্রাথমিক তথ্য অনুযায়ী একজন মুরগি ব্যবসায়ী ও তাঁর ছেলে এই হামলা চালিয়েছেন বলে জানিয়েছে পুলিশ।"
+        ],
+        "bullets_en": [
+          "The deceased Naimur Rahman was 26 years old, while the injured are general manager Abdur Razzaque and staff member Md Hasan.",
+          "Wari Police Station Sub-Inspector Md Alam Mia stated that the attackers entered the hotel with locally made weapons and indiscriminately hacked the victims.",
+          "Preliminary information suggests that a poultry trader and his son carried out the attack, according to police."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "২৭ নভেম্বর ভোরে ওয়ারীর জয়কালী মন্দিরের পাশের ওসমানী ইন্টারন্যাশনাল আবাসিক হোটেলে এই হামলার ঘটনা ঘটে। রাত ২টার দিকে দুই ব্যক্তি হোটেলে ঢুকে নাঈমুর রহমানকে এলোপাতাড়ি কুপিয়ে জখম করেন। তাঁর চিৎকার শুনে মহাব্যবস্থাপক আব্দুর রাজ্জাক ও কর্মী হাসান এগিয়ে গেলে তাঁদেরও কুপিয়ে জখম করা হয়। পরে ভোর ৪টার দিকে ঢাকা মেডিকেল কলেজ হাসপাতালের জরুরি বিভাগে নেওয়া হলে চিকিৎসকরা নাঈমুরকে মৃত ঘোষণা করেন। আব্দুর রাজ্জাকের পিঠে এবং হাসানের পেটে আঘাত রয়েছে। হামলার উদ্দেশ্য এখনো নিশ্চিত নয় এবং পুলিশ বিষয়টি তদন্ত করছে।",
+        "details_en": "The attack took place in the early hours of 27 November at the Osmani International Residential Hotel beside Joykali Temple in Wari. Around 2am, two men entered the hotel and indiscriminately hacked Naimur Rahman. When general manager Abdur Razzaque and staff member Hasan rushed to his screams, they were also hacked and injured. The three injured men were taken to the emergency department of Dhaka Medical College Hospital around 4am, where doctors declared Naimur dead. Abdur Razzaque sustained serious injuries to his back and Hasan suffered a stab wound to his abdomen. The motive remains unconfirmed and police are investigating.",
+        "hook_bn": "ওয়ারীতে আবাসিক হোটেলে ম্যানেজারকে কুপিয়ে হত্যা",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 4,
+      "trending": true,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-27T07:02:34.747040+00:00"
+      }
+    },
+    {
+      "story_id": "1b67ce52-a923-5cc4-94f1-7ef0c34976f7",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#BGMEA",
+        "#Savar",
+        "#Ashulia",
+        "#RMG"
+      ],
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/merged/merged_47faac2e2f3024e172a0bd93b36287c3.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-27T07:00:56.068236+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5959,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/128-rmg-factories-operate-on-weekly-holiday-to-offset-losses",
+          "title": "128 RMG factories work on weekly holiday to offset losses",
+          "snippet": "128 RMG factories work on weekly holiday to offset losses"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সাভার ও আশুলিয়ায় ক্ষতি পুষিয়ে নিতে ১২৮টি পোশাক কারখানা সচল রয়েছে।",
+        "title_en": "One hundred twenty-eight RMG factories operate on holiday to offset losses in Savar and Ashulia.",
+        "summary_bn": "ক্ষতি পুষিয়ে নিতে সাভার ও আশুলিয়া শিল্পাঞ্চলের অন্তত ১২৮টি পোশাক কারখানা সাপ্তাহিক ছুটির দিনে চালু রাখা হয়েছে।",
+        "summary_en": "At least 128 readymade garment factories in Savar and Ashulia operated on a weekly holiday to make up for losses.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T06:00:57.752385+00:00",
-        "lead_bn": "নিষেধাজ্ঞার মধ্যে ২৪ ঘণ্টার অভিযানে ঢাকা মেট্রোপলিটন পুলিশ ৫৪ জন আওয়ামী লীগ নেতাকর্মীসহ মোট ৫১৭ জনকে গ্রেপ্তার করেছে।",
-        "lead_en": "Police have arrested 517 people, including 54 Awami League activists, in the space of 24 hours across Dhaka.",
+        "published_at": "2026-11-27T07:00:56.068236+00:00",
+        "lead_bn": "ক্ষতি পুষিয়ে নিতে সাভার ও আশুলিয়া শিল্পাঞ্চলের অন্তত ১২৮টি পোশাক কারখানা সাপ্তাহিক ছুটির দিনে চালু রাখা হয়েছে।",
+        "lead_en": "At least 128 readymade garment factories in Savar and Ashulia operated on a weekly holiday to make up for losses.",
         "bullets_bn": [
-          "রাজধানীর বিভিন্ন থানায় একই সময়ে মোট ৫১টি মামলা দায়ের করা হয়েছে।",
-          "অভিযানের সময় পুলিশ একটি বিদেশি পিস্তল, ম্যাগাজিন, চার রাউন্ড গুলি এবং ককটেল উদ্ধার করেছে।",
-          "ঢাকা মেট্রোপলিটন পুলিশ ১২.৭ কেজি গাঁজা, ৯,১৫৮ পিস ইয়াবা ও একটি বাস জব্দ করেছে এবং একজনকে উদ্ধার করেছে।"
+          "শ্রম অসন্তোষের কারণে উৎপাদন স্থগিত বা ব্যাহত হওয়ার পর কারখানাগুলো চালু রাখা হয়।",
+          "শিল্প পুলিশ-১ (আশুলিয়া) এর পুলিশ সুপার মোহাম্মদ মমিনুল ইসলাম ভূঁইয়া জানান, শ্রমিকেরা শান্তিপূর্ণভাবে কাজে যোগ দিয়েছেন।",
+          "আন্তর্জাতিক ক্রেতাদের নির্ধারিত চালানের সময়মতো সম্পন্ন করতে কারখানা কর্তৃপক্ষ ছুটির দিনে কাজ করার সিদ্ধান্ত নেয়।"
         ],
         "bullets_en": [
-          "A total of 51 cases were filed with various police stations across the capital during the same period.",
-          "Police recovered a foreign-made pistol, a magazine, four rounds of ammunition and crude bombs during the operations.",
-          "The DMP reported the seizure of 12.7kg of cannabis, 9,158 yaba tablets and a bus, and rescued one victim."
+          "The factories operated on Friday following production suspensions or disruptions caused by labour unrest.",
+          "Superintendent of Industrial Police-1 (Ashulia) Mohammad Mominul Islam Bhuiyan stated that workers reported for duty peacefully.",
+          "Factory authorities decided to work on the holiday to ensure timely completion of scheduled shipments to international buyers."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মজুরি বোর্ডের ভোটাভুটির মাধ্যমে নিম্নতম মাসিক মজুরি ১৭,০০০ টাকা নির্ধারণ এবং গ্রেড চার থেকে একে বেতন ৪,৫০০ টাকা থেকে ৬,৪৬৫ টাকা বাড়ানোর পরও পর্যন্ত অসন্তোষ অব্যাহত ছিল। বিজিএমইএ-র তথ্য অনুযায়ী, ৩৬০টি কারখানা বন্ধ ছিল, যার মধ্যে ১৪৭টি কাজ নাই মজুরি নাই নীতিতে এবং ২২৩টি ঘোষিত ছুটির কারণে বন্ধ ছিল। এছাড়া বিজিএমইএ দাবি করেছে, ১ থেকে ১৮ নভেম্বর পর্যন্ত ৩১৭টি surveyed কারখানায় ৪২৮ মিলিয়ন ডলারের উৎপাদন ক্ষতি হয়েছে এবং ক্রেতারা ২৫৪ মিলিয়ন ডলারের আদেশ অন্য দেশে সরিয়ে নিয়েছে।",
+        "details_en": "The unrest persisted until Thursday even after the Minimum Wage Board fixed the entry-level monthly wage at Tk 17,000 and raised salaries across grades four to one by Tk 4,500 to Tk 6,465. According to BGMEA, 360 factories remained closed 147 under the no work, no pay rule and 223 on a declared holiday. BGMEA also claimed that 317 surveyed factories suffered production losses worth $428 million and buyers shifted orders worth $254 million over 18 days from November 1 to 18.",
+        "hook_bn": "সাভার ও আশুলিয়ায় ১২৮ কারখানা চালু",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "পোশাক খাতের উৎপাদন স্বাভাবিক রাখতে ছুটির দিনে কাজ করার এই সিদ্ধান্তকে আপনি কীভাবে দেখছেন?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-27T07:02:34.747040+00:00"
+      }
+    },
+    {
+      "story_id": "a46971e5-c4b0-5025-8af3-7e46675a300f",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZWR1Y2F0aW9uJTIwdW5pdmVyc2l0eSUyMHN0dWRlbnRzJTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1NzYyOTQyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-27T06:40:54+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5272,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1184279",
+          "title": "সিলেটে হাম উপসর্গে আরও ৩ শিশুর মৃত্যু",
+          "snippet": "সিলেটে হাম উপসর্গে আরও ৩ শিশুর মৃত্যু"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সিলেটে হাম উপসর্গে আরও তিন শিশুর মৃত্যু হয়েছে।",
+        "title_en": "Three more children died with measles symptoms in Sylhet.",
+        "summary_bn": "সিলেট এমএজি ওসমানী মেডিকেল কলেজ হাসপাতালে চিকিৎসাধীন অবস্থায় গত ২৪ ঘণ্টায় হাম উপসর্গে তিন শিশুর মৃত্যু হয়েছে।",
+        "summary_en": "Three children died with measles symptoms while undergoing treatment at Sylhet MAG Osmani Medical College Hospital in the past 24 hours.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T06:40:54+00:00",
+        "lead_bn": "সিলেট এমএজি ওসমানী মেডিকেল কলেজ হাসপাতালে চিকিৎসাধীন অবস্থায় গত ২৪ ঘণ্টায় হাম উপসর্গে তিন শিশুর মৃত্যু হয়েছে।",
+        "lead_en": "Three children died with measles symptoms while undergoing treatment at Sylhet MAG Osmani Medical College Hospital in the past 24 hours.",
+        "bullets_bn": [
+          "সিলেট এমএজি ওসমানী মেডিকেল কলেজ হাসপাতালে চিকিৎসাধীন অবস্থায় শিশুদের মৃত্যু হয়।",
+          "গত ২৪ ঘণ্টায় সিলেটে হাম উপসর্গে এই তিন শিশুর মৃত্যু হয়েছে।",
+          "হাসপাতালে চিকিৎসাধীন অবস্থায় তাদের মৃত্যু হয়েছে।"
+        ],
+        "bullets_en": [
+          "The children died while undergoing treatment at Sylhet MAG Osmani Medical College Hospital.",
+          "The deaths of the three children occurred in Sylhet within the past 24 hours.",
+          "They passed away while receiving medical care at the hospital."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "ঢাকায় ২৪ ঘণ্টায় গ্রেপ্তার ৫১৭ জন",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T06:01:44.200995+00:00"
-      }
-    },
-    {
-      "story_id": "2cf708e6-92d0-5ef9-91bd-c78f9ff2163d",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#JamunaOil",
-        "#SammilitoIslamiBank",
-        "#BangladeshBank"
-      ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/merged/merged_3adf9b9f06e2eaea485fb9a2391b0602.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-27T06:00:57.752385+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.599,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/stock/jamuna-oils-tk-159b-deposits-in-limbo-with-no-repayment-timeline",
-          "title": "Jamuna Oil's Tk 15.9b deposits in limbo with no repayment timeline",
-          "snippet": "Jamuna Oil's Tk 15.9b deposits in limbo with no repayment timeline"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "যমুনা অয়েলের ১৫ দশমিক ৯ বিলিয়ন টাকার আমানত অনিশ্চয়তায় পড়েছে।",
-        "title_en": "Jamuna Oil faces uncertainty over Tk 15.9 billion deposits.",
-        "summary_bn": "যমুনা অয়েলের ১৫ দশমিক ৯ বিলিয়ন টাকার আমানত ফেরত পাওয়ার কোনো নির্দিষ্ট সময়সীমা নেই কারণ মার্জড ব্যাংক শেয়ার ইস্যুর প্রস্তাব দিয়েছে।",
-        "summary_en": "Jamuna Oil faces challenges recovering Tk 15.9 billion in deposits as the merged bank proposed issuing shares instead of cash.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T06:00:57.752385+00:00",
-        "lead_bn": "যমুনা অয়েলের ১৫ দশমিক ৯ বিলিয়ন টাকার আমানত ফেরত পাওয়ার কোনো নির্দিষ্ট সময়সীমা নেই কারণ মার্জড ব্যাংক শেয়ার ইস্যুর প্রস্তাব দিয়েছে।",
-        "lead_en": "Jamuna Oil faces challenges recovering Tk 15.9 billion in deposits as the merged bank proposed issuing shares instead of cash.",
-        "bullets_bn": [
-          "পাঁচটি সংকটাপন্ন ব্যাংক একীভূত হয়ে সম্মিলিত ইসলামী ব্যাংক গঠিত হয়েছে।",
-          "রাষ্ট্রীয় পেট্রোলিয়াম পরিবেশক কোম্পানিটি শেয়ার নিতে অস্বীকৃতি জানিয়ে মার্জড ব্যাংককে চিঠি দিয়েছে।",
-          "বাংলাদেশ ব্যাংকের মুখপাত্র আরিফ হোসেন খান জানিয়েছেন কর্পোরেট আমানত ফেরতের বিষয়টি নতুন ব্যাংকের আয়ের ওপর নির্ভর করবে।"
-        ],
-        "bullets_en": [
-          "Five troubled banks have been merged to form Sammilito Islami Bank.",
-          "The state-owned petroleum distributor formally informed the merged bank that it does not want shares.",
-          "Bangladesh Bank spokesperson Arif Hossain Khan said corporate deposit repayment will depend on the new bank's future income."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "কোম্পানির সর্বশেষ নিরীক্ষিত আর্থিক বিবরণী অনুযায়ী জুন পর্যন্ত এই পাঁচ ব্যাংকে প্রায় ১৫ দশমিক ৯০ বিলিয়ন টাকার আমানত ছিল। বাংলাদেশ কমার্স ব্যাংক এবং ন্যাশনাল ব্যাংকে আমানতসহ আর্থিক অসচ্ছল ব্যাংকের সঙ্গে কোম্পানির মোট এক্সপোজার দাঁড়িয়েছে ১৬ দশমিক ৭৩ বিলিয়ন টাকা। অতীতে ব্যাংকে রাখা আমানত মূল পেট্রোলিয়াম বিতরণ ব্যবসার বাইরে কোম্পানির আয়ের একটি বড় উৎস ছিল।",
-        "details_en": "The company's latest audited financial statements show deposits of around Tk 15.90 billion with the five banks as of June, with total exposure to financially distressed banks at Tk 16.73 billion including Bangladesh Commerce Bank and National Bank. Bank deposits have historically been a major source of earnings outside core petroleum distribution.",
-        "hook_bn": "যমুনা অয়েলের ১৫ দশমিক ৯ বিলিয়ন টাকা আটকে আছে",
+        "hook_bn": "সিলেটে হাম উপসর্গে তিন শিশুর মৃত্যু",
         "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
@@ -137,153 +225,79 @@
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T06:01:44.200995+00:00"
+        "checked_at": "2026-11-27T07:02:34.747040+00:00"
       }
     },
     {
-      "story_id": "23ac42f1-3849-5444-84a5-9f78c2bc9010",
+      "story_id": "7bcb73d6-6d1a-54f6-b272-2e4ae304d4aa",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#BangladeshBank",
-        "#ForeignCurrency"
+        "#BangladeshAgriEntrepreneurshipProject",
+        "#WorldBank",
+        "#DepartmentOfAgriculturalExtension"
       ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/merged/merged_0c8317283912f3410e4543d03743310d.jpg",
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/merged/merged_e0354e934caafd4e7813bf6d088a5166.jpg",
       "image_caption": null,
-      "published_at": "2026-11-27T06:00:57.752385+00:00",
+      "published_at": "2026-11-27T07:00:56.068236+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.599,
+      "importance_score": 5.0,
+      "rank_score": 2.4971,
       "sources": [
         {
           "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/bb-caps-cash-dollar-sales-at-banks-bc-selling-rate",
-          "title": "BB caps cash dollar sales at banks' BC selling rate",
-          "snippet": "BB caps cash dollar sales at banks' BC selling rate"
+          "url": "https://thefinancialexpress.com.bd/trade/govt-plans-tk-140-billion-project-for-agriculture-transformation",
+          "title": "Govt plans Tk 140-billion project for agriculture transformation",
+          "snippet": "Govt plans Tk 140-billion project for agriculture transformation"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাংলাদেশ ব্যাংক ব্যাংকগুলোর নগদ ডলার বিক্রির হার নির্ধারণ করল",
-        "title_en": "Bangladesh Bank caps cash dollar sales at banks",
-        "summary_bn": "বাংলাদেশ ব্যাংক অতিরিক্ত মূল্য আদায় রোধ করতে ব্যাংকগুলোর নগদ বৈদেশিক মুদ্রা বিক্রির হার তাদের প্রচলিত বিসি বিক্রির হারের মধ্যে সীমাবদ্ধ করেছে।",
-        "summary_en": "The Bangladesh Bank has imposed a cap on cash foreign-currency sales by banks at their prevailing bill-for-collection selling rates.",
+        "title_bn": "কৃষি খাত রূপান্তরে ১৪ হাজার কোটি টাকার প্রকল্প পরিকল্পনা সরকারের",
+        "title_en": "Govt plans Tk 140-billion project to transform agriculture sector",
+        "summary_bn": "উৎপাদনভিত্তিক কৃষি খাতকে উদ্যোক্তা ও বাজারমুখী ব্যবস্থায় রূপান্তর করতে ১৪ হাজার কোটি টাকার একটি প্রকল্প হাতে নেওয়ার পরিকল্পনা করছে সরকার।",
+        "summary_en": "The government is planning to undertake a Tk 140-billion project to transform the country's agriculture sector into an entrepreneurship- and market-oriented system.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T06:00:57.752385+00:00",
-        "lead_bn": "বাংলাদেশ ব্যাংক অতিরিক্ত মূল্য আদায় রোধ করতে ব্যাংকগুলোর নগদ বৈদেশিক মুদ্রা বিক্রির হার তাদের প্রচলিত বিসি বিক্রির হারের মধ্যে সীমাবদ্ধ করেছে।",
-        "lead_en": "The Bangladesh Bank has imposed a cap on cash foreign-currency sales by banks at their prevailing bill-for-collection selling rates.",
+        "published_at": "2026-11-27T07:00:56.068236+00:00",
+        "lead_bn": "উৎপাদনভিত্তিক কৃষি খাতকে উদ্যোক্তা ও বাজারমুখী ব্যবস্থায় রূপান্তর করতে ১৪ হাজার কোটি টাকার একটি প্রকল্প হাতে নেওয়ার পরিকল্পনা করছে সরকার।",
+        "lead_en": "The government is planning to undertake a Tk 140-billion project to transform the country's agriculture sector into an entrepreneurship- and market-oriented system.",
         "bullets_bn": [
-          "কেন্দ্রীয় ব্যাংক সব অনুমোদিত ডিলার ব্যাংককে বিসি বিক্রির হারের চেয়ে বেশি দামে নগদ বৈদেশিক মুদ্রা না বিক্রির নির্দেশ দিয়েছে।",
-          "বৈদেশিক নীতি বিভাগ-২ এর জারি করা এই নির্দেশের লক্ষ্য অতিরিক্ত মূল্য রোধ করা এবং গ্রাহকদের সুরক্ষা দেওয়া।",
-          "ব্যাংকগুলোর সব অনুমোদিত ডিলার শাখাকে এই নির্দেশ পালন নিশ্চিত করতে কার্যকর ব্যবস্থা নিতে বলা হয়েছে।"
+          "বাংলাদেশ এগ্রি এন্টারপ্রেনারশিপ প্রজেক্ট নামের এই প্রাথমিক পরিকল্পনা তৈরিতে বিশ্বব্যাংক থেকে ১০ কোটি মার্কিন ডলার অর্থায়নের প্রস্তাব রয়েছে।",
+          "প্রকল্পটির প্রধান উদ্দেশ্য হলো কৃষক ও কৃষিভিত্তিক উদ্যোক্তাদের মধ্যে কার্যকর সংযোগ স্থাপনের মাধ্যমে উৎপাদন ও বিপণন ব্যবস্থা শক্তিশালী করা।",
+          "প্রকল্পটি বাস্তবায়নে কৃষি সম্প্রসারণ অধিদপ্তর, প্রাণিসম্পদ অধিদপ্তর এবং মৎস্য অধিদপ্তর যুক্ত থাকবে এবং প্রধান বাস্তবায়নকারী সংস্থা হিসেবে কৃষি সম্প্রসারণ অধিদপ্তর বিবেচিত হচ্ছে।"
         ],
         "bullets_en": [
-          "The central bank directed all authorised dealer banks not to sell cash foreign currency at rates higher than their prevailing BC selling rates.",
-          "The directive aims to curb excessive pricing on the cash foreign-currency market and safeguard customers from being charged higher rates.",
-          "All authorised dealer branches have been asked to take effective measures to ensure compliance with the directive."
-        ],
-        "impact_bn": "নগদ ডলারের দাম প্রচলিত হারের চেয়ে বেশি নেওয়ায় বিদেশগামী পর্যটক, শিক্ষার্থী এবং চিকিৎসাসেবা নিতে যাওয়া মানুষেরা আর্থিক কষ্টের মুখে পড়ছিলেন।",
-        "impact_en": "Travelers, higher education students, and medical patients going abroad faced hardship as many banks charged Tk 2.0 to Tk 3.0 higher than the BC selling rate.",
-        "details_bn": "ব্যাংকগুলো সাধারণত বৈদেশিক মুদ্রা ক্রয়ের ক্ষেত্রে টিটি ক্লিন, টিটি ডকুমেন্ট এবং ওডি সাইট রেট ব্যবহার করে এবং বিক্রির জন্য বিসি এক্সচেঞ্জ রেট ব্যবহার করে। তবে নাম প্রকাশে অনিচ্ছুক একজন বাংলাদেশ ব্যাংকের কর্মকর্তা জানান, অনেক ব্যাংক বিসি বিক্রির হারের চেয়ে ২.০ থেকে ৩.০ টাকা বেশি দামে নগদ ডলার বিক্রি করছিল।",
-        "details_en": "Banks generally use TT Clean, TT Document and OD Sight rates to purchase foreign currency, while the prevailing BC exchange rate is used for selling. A Bangladesh Bank official said many banks had been selling cash dollars at rates Tk 2.0 to Tk 3.0 higher than the BC selling rate, causing customer hardship.",
-        "hook_bn": "ডলার বিক্রির সর্বোচ্চ হার নির্ধারণ করল ব্যাংক",
-        "kicker_bn": "দাম বাড়ছিল",
-        "share_value": true,
-        "question_bn": "ব্যাংকগুলো থেকে নগদ বৈদেশিক মুদ্রা কিনতে গিয়ে আপনারা কি বাড়তি দামের মুখোমুখি হয়েছেন?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T06:01:44.200995+00:00"
-      }
-    },
-    {
-      "story_id": "22765149-c5b8-51e3-a9d6-b3734254b230",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "society_education"
-      ],
-      "region": "international",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.channelionline.com/2026/11/Capture66666.png?w=1200&quality=80",
-      "image_caption": null,
-      "published_at": "2026-11-27T05:08:37+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.75,
-      "rank_score": 3.1429,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/iran-says-kuwait-drone-attack-suspicious/",
-          "title": "কুয়েতে ড্রোন হামলা ‘সন্দেহজনক’, যুদ্ধের পটভূমি তৈরির চেষ্টা: ইরান",
-          "snippet": "কুয়েতে ড্রোন হামলা ‘সন্দেহজনক’, যুদ্ধের পটভূমি তৈরির চেষ্টা: ইরান"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1184254",
-          "title": "কুয়েতে ড্রোন হামলার অভিযোগ অস্বীকার করলো ইরান",
-          "snippet": "কুয়েতে ড্রোন হামলার অভিযোগ অস্বীকার করলো ইরান"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "কুয়েতে ড্রোন হামলার অভিযোগ প্রত্যাখ্যান করেছে ইরান",
-        "title_en": "Iran denies involvement in Kuwait drone attack",
-        "summary_bn": "কুয়েতে ড্রোন হামলায় ইটালির দুই নাগরিক নিহতের ঘটনায় নিজেদের সম্পৃক্ততার অভিযোগ প্রত্যাখ্যান করেছে ইরান।",
-        "summary_en": "Iran has rejected accusations of involvement in a drone attack in Kuwait that killed two Italian citizens.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T05:08:37+00:00",
-        "lead_bn": "কুয়েতে ড্রোন হামলায় ইটালির দুই নাগরিক নিহতের ঘটনায় নিজেদের সম্পৃক্ততার অভিযোগ প্রত্যাখ্যান করেছে ইরান।",
-        "lead_en": "Iran has rejected accusations of involvement in a drone attack in Kuwait that killed two Italian citizens.",
-        "bullets_bn": [
-          "ইরানের পররাষ্ট্রমন্ত্রী আব্বাস আরাঘচি এই হামলাকে সন্দেহজনক আখ্যা দিয়ে যুদ্ধের পটভূমি তৈরির চেষ্টা চলছে বলে মন্তব্য করেছেন।",
-          "কুয়েতের প্রতিরক্ষা মন্ত্রণালয় দাবি করেছে ইরান থেকে ছোড়া একটি ড্রোন গুরুত্বপূর্ণ স্থাপনা লক্ষ্য করে আঘাত হানে।",
-          "ইরান কুয়েত ও ইটালির সঙ্গে ঘটনার প্রকৃত কারণ অনুসন্ধানে সহযোগিতা করতে প্রস্তুত বলে জানিয়েছে।"
-        ],
-        "bullets_en": [
-          "Iranian Foreign Minister Abbas Araghchi called the attack suspicious and an attempt to create grounds for war.",
-          "The Kuwaiti Defence Ministry claimed a drone fired from Iran struck a vital facility.",
-          "Iran stated it is prepared to cooperate with Kuwait and Italy to investigate the true cause of the incident."
+          "The preliminary plan, titled Bangladesh Agri Entrepreneurship Project, is being prepared with proposed financing of US$100 million from the World Bank.",
+          "Its main objective is to strengthen production and marketing systems by establishing effective linkages among farmers and agri-based entrepreneurs.",
+          "The Department of Agricultural Extension, Department of Livestock Services and Department of Fisheries will be involved, with the DAE considered as lead."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "২৬ নভেম্বর কুয়েতের একটি গুরুত্বপূর্ণ স্থাপনায় ড্রোন হামলার ঘটনায় দুই ইতালীয় নাগরিক নিহত হন এবং একজন পাকিস্তানি ও একজন কুয়েতি নাগরিক আহত হন। এর আগে চলতি বছরের ২৮ ফেব্রুয়ারি ইরানে যুক্তরাষ্ট্র ও ইসরায়েলের যৌথ হামলার পর মধ্যপ্রাচ্যে সংঘাত ছড়িয়ে পড়ে এবং ইরান কুয়েতসহ উপসাগরীয় অঞ্চলে হামলা চালায়। সর্বশেষ বাহরাইনেও ড্রোন হামলার ঘটনা ঘটেছে।",
-        "details_en": "On 26 November, a drone attack on a vital facility in Kuwait killed two Italian citizens and injured a Pakistani and a Kuwaiti national. Previously, following joint US and Israeli attacks on Iran on 28 February this year, conflict spread across the Middle East, with Iran launching attacks in Gulf regions including Kuwait. Recently, drone attacks also occurred in Bahrain.",
-        "hook_bn": "কুয়েতে ড্রোন হামলা সন্দেহজনক পটভূমি তৈরির চেষ্টা",
-        "kicker_bn": "সতর্কতা",
+        "details_bn": "বাংলাদেশ কৃষি, প্রাণিসম্পদ, মৎস্য ও বন খাত নিয়ে গঠিত বৃহত্তর কৃষি খাত জিডিপির প্রায় ১১ থেকে ১১ দশমিক ৫ শতাংশ অবদান রাখে এবং প্রায় ৪৫ শতাংশ কর্মসংস্থান নিশ্চিত করার পাশাপাশি খাদ্য নিরাপত্তা ও গ্রামীণ জীবনযাত্রা ধরে রাখে।",
+        "details_en": "The broader agriculture sector, covering crops, livestock, fisheries, and forestry, accounts for roughly 11 per cent -11.5 per cent of GDP and employs around 45 per cent of the workforce, while anchoring food security and rural livelihoods.",
+        "hook_bn": "কৃষি খাত রূপান্তরে ১৪ হাজার কোটি টাকার পরিকল্পনা",
+        "kicker_bn": "নতুন প্রকল্প",
         "share_value": false,
-        "question_bn": null
+        "question_bn": "কৃষি খাতকে উদ্যোক্তামুখী করতে সরকারের এই উদ্যোগ কতটা কার্যকর ভূমিকা রাখবে বলে আপনি মনে করেন?"
       },
       "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": true,
+      "outlet_count": 1,
+      "trending": false,
       "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T06:01:44.200995+00:00"
+        "checked_at": "2026-11-27T07:02:34.747040+00:00"
       }
     },
     {
-      "story_id": "73d09028-5686-55d4-aa2a-29f563a2f5a5",
+      "story_id": "a1089dde-f3b3-5372-97ee-9ecdb9554259",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
@@ -291,36 +305,42 @@
       ],
       "region": "international",
       "tags": [
-        "#NewZealand",
-        "#ChristopherLuxon",
-        "#ChrisHipkins",
-        "#NewZealandElection"
+        "#ICJ",
+        "#Myanmar",
+        "#Rohingya",
+        "#Israel"
       ],
-      "image_url": "https://static.dw.com/image/79884613_6.jpg",
+      "image_url": "https://images.unsplash.com/photo-1777289953798-b3dc91e03b5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8aW50ZXJuYXRpb25hbCUyMGNvdXJ0JTIwanVzdGljZSUyMHJ1bGVkJTIwZGlwbG9tYWN5fGVufDF8MHx8fDE3OTU3NjI5NDh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-27T03:13:00+00:00",
+      "published_at": "2026-11-27T05:55:42+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.5727,
+      "importance_score": 6.5,
+      "rank_score": 3.9632,
       "sources": [
         {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/new-zealand-election-ends-in-hung-parliament/a-80070240?maca=en-rss-en-all-1573-rdf",
-          "title": "New Zealand election ends in hung parliament",
-          "snippet": "New Zealand election ends in hung parliament"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/opinion/op-ed/425889/what-the-icj%E2%80%99s-landmark-genocide-finding-could",
+          "title": "What the ICJ’s landmark genocide finding could mean for the case against Israel in Gaza",
+          "snippet": "What the ICJ’s landmark genocide finding could mean for the case against Israel in Gaza"
         },
         {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
-          "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-          "snippet": "New Zealand's ruling coalition falls short of parliamentary majority by one seat"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/opinion/column/58zddedec3",
+          "title": "রোহিঙ্গা জেনোসাইড নিয়ে রায়ে অস্বস্তিতে ইসরায়েল?",
+          "snippet": "রোহিঙ্গা জেনোসাইড নিয়ে রায়ে অস্বস্তিতে ইসরায়েল?"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1184284",
+          "title": "রোহিঙ্গা গণহত্যার রায় নিয়ে আপত্তি, কিছু নির্দেশনা মানবে না মিয়ানমার",
+          "snippet": "রোহিঙ্গা গণহত্যার রায় নিয়ে আপত্তি, কিছু নির্দেশনা মানবে না মিয়ানমার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নিউজিল্যান্ডের নির্বাচন ঝুলন্ত সংসদে গিয়ে শেষ হয়েছে",
-        "title_en": "New Zealand election ends in hung parliament",
-        "summary_bn": "নিউজিল্যান্ডের চূড়ান্ত নির্বাচনে দেখা গেছে যে শাসক জোট বা বিরোধী জোট কারোরই সরকার গঠনের জন্য পর্যাপ্ত আসন নেই।",
-        "summary_en": "The final vote in New Zealand's election showed that neither the ruling conservatives nor the opposition bloc has enough seats to form a government.",
+        "title_bn": "মিয়ানমার রোহিঙ্গা গণহত্যায় জড়িত বলে রায় দিয়েছে আন্তর্জাতিক বিচার আদালত।",
+        "title_en": "The International Court of Justice ruled Myanmar committed genocide against Rohingya.",
+        "summary_bn": "আন্তর্জাতিক বিচার আদালত রায় দিয়েছে যে মিয়ানমার রোহিঙ্গা সংখ্যালঘু গোষ্ঠীর বিরুদ্ধে গণহত্যা চালিয়েছে।",
+        "summary_en": "The International Court of Justice ruled that Myanmar committed genocide against the Rohingya minority group.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -328,35 +348,106 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T03:13:00+00:00",
-        "lead_bn": "নিউজিল্যান্ডের চূড়ান্ত নির্বাচনে দেখা গেছে যে শাসক জোট বা বিরোধী জোট কারোরই সরকার গঠনের জন্য পর্যাপ্ত আসন নেই।",
-        "lead_en": "The final vote in New Zealand's election showed that neither the ruling conservatives nor the opposition bloc has enough seats to form a government.",
+        "published_at": "2026-11-27T05:55:42+00:00",
+        "lead_bn": "আন্তর্জাতিক বিচার আদালত রায় দিয়েছে যে মিয়ানমার রোহিঙ্গা সংখ্যালঘু গোষ্ঠীর বিরুদ্ধে গণহত্যা চালিয়েছে।",
+        "lead_en": "The International Court of Justice ruled that Myanmar committed genocide against the Rohingya minority group.",
         "bullets_bn": [
-          "ক্রিস্টোফার লাক্সনের নেতৃত্বাধীন বর্তমান তিনদলীয় জোট ৬৫টি আসন জিতেছে, যা নির্বাচন রাতের চেয়ে দুটি কম।",
-          "ক্রিস হিপকিন্সের নেতৃত্বাধীন বামপন্থী বিরোধী জোট ৫৮টি আসন জিতেছে, যা নির্বাচন রাতের চেয়ে একটি বেশি।",
-          "নির্বাচন কর্তৃপক্ষ চার লাখ বিশেষ ভোট গণনার পর এই আনুষ্ঠানিক ফলাফল প্রকাশ করেছে।"
+          "আদালত বলেছে মিয়ানমার জাতিসংঘ গণহত্যা কনভেনশনের অধীনে গণহত্যা রোধ ও শাস্তির বাধ্যবাধকতা লঙ্ঘন করেছে।",
+          "মিয়ানমারের প্রেসিডেন্ট মিন অং হ্লাইং জানিয়েছেন রায়ের যেসব নির্দেশনা অগ্রহণযোগ্য মনে হবে, সেগুলো মানবে না মিয়ানমার।",
+          "প্রথম আলো জানিয়েছে রোহিঙ্গা জেনোসাইড নিয়ে এই রায়ে ইসরায়েল অস্বস্তিতে পড়েছে।"
         ],
         "bullets_en": [
-          "The incumbent three-way coalition government led by Christopher Luxon won 65 seats, two down from election night.",
-          "The left-wing opposition bloc led by Chris Hipkins won 58 seats, up by one from election night.",
-          "The official vote count was released after election authorities counted 400,000 so-called special votes."
+          "The court found Myanmar breached its obligations under the United Nations genocide convention to prevent and punish genocide.",
+          "Myanmar's President Min Aung Hlaing stated that Myanmar will not follow ICJ genocide rulings deemed unacceptable.",
+          "Prothom Alo reported that Israel is uncomfortable with the Rohingya genocide ruling."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "প্রাথমিক ফলাফলে দেখা গিয়েছিল ক্ষমতাসীন জোটের সামান্য দুই আসনের সংখ্যাগরিষ্ঠতা ছিল, যা এখন সমন্বয় করে দেখা যাচ্ছে জোটটি এক আসনের জন্য সংখ্যাগরিষ্ঠতা থেকে পিছিয়ে পড়েছে। লাক্সনের মধ্য-ডানপন্থী ন্যাশনাল পার্টি ৪০টি আসন অর্জন করেছে এবং হিপকিন্সের মধ্য-বামপন্থী লেবার পার্টি ৩৬টি আসন জিতেছে। বিশেষ ভোটের মধ্যে বিদেশে বসবাসকারী নিউজিল্যান্ডের নাগরিকদের দেওয়া ভোটও অন্তর্ভুক্ত রয়েছে।",
-        "details_en": "Preliminary results showed that the ruling coalition held a slim, two-seat majority, which has now been adjusted to falling short by a single seat. Luxon's National Party secured 40 seats, while Hipkins' Labour Party won 36 seats. Special votes include ballots cast by New Zealanders living abroad.",
-        "hook_bn": "নিউজিল্যান্ডের নির্বাচন ঝুলন্ত সংসদে শেষ",
-        "kicker_bn": null,
+        "details_bn": "আন্তর্জাতিক বিচার আদালত গত সপ্তাহে এই রায় দিয়েছে। আদালত জানায় মিয়ানমার জাতিসংঘ গণহত্যা কনভেনশনের অধীনে গণহত্যা রোধ ও শাস্তির বাধ্যবাধকতা লঙ্ঘন করেছে। এই রায় রোহিঙ্গা ও মিয়ানমারের জন্য গুরুত্বপূর্ণ এবং গাজায় ইসরায়েলের বিরুদ্ধে মামলার ওপরও এর বড় আইনি প্রভাব পড়তে পারে।",
+        "details_en": "The International Court of Justice ruled last week that Myanmar committed genocide against the Rohingya minority group, finding Myanmar breached its obligations under the United Nations genocide convention to prevent and punish genocide. This ruling may also have a significant legal impact on other genocide cases before the court, including the case against Israel in Gaza.",
+        "hook_bn": "রোহিঙ্গা গণহত্যা রায় মানবে না মিয়ানমার",
+        "kicker_bn": "রায় ঘোষণা",
+        "share_value": false,
+        "question_bn": "আন্তর্জাতিক আদালতের এই রায় রোহিঙ্গা সংকট সমাধানে কতটা ভূমিকা রাখবে বলে আপনার মনে হয়?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-27T07:02:34.747040+00:00"
+      }
+    },
+    {
+      "story_id": "160a1a6b-b98a-5bc3-b9ca-7f5167d23a5f",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#OPEC",
+        "#US",
+        "#Venezuela",
+        "#Iraq"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/02/14/opec_2.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-27T06:25:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4122,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/world/global-economy/us-pushed-venezuela-iraq-consider-leaving-opec-sources-1615596",
+          "title": "US pushed Venezuela, Iraq to consider leaving OPEC: Sources",
+          "snippet": "US pushed Venezuela, Iraq to consider leaving OPEC: Sources"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ভেনেজুয়েলা ও ইরাককে ওপেক ত্যাগের জন্য উৎসাহিত করেছে যুক্তরাষ্ট্র।",
+        "title_en": "US pushed Venezuela and Iraq to consider leaving OPEC.",
+        "summary_bn": "ওপেক ছাড়ার কথা বিবেচনা করতে ভেনেজুয়েলা ও ইরাককে উৎসাহিত করেছে ট্রাম্প প্রশাসন এবং ভেনেজুয়েলার সদস্য ফি দেওয়া আটকে রেখেছে।",
+        "summary_en": "The Trump administration encouraged Venezuela and Iraq to consider leaving OPEC and prevented Venezuela from paying its annual membership dues.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T06:25:00+00:00",
+        "lead_bn": "ওপেক ছাড়ার কথা বিবেচনা করতে ভেনেজুয়েলা ও ইরাককে উৎসাহিত করেছে ট্রাম্প প্রশাসন এবং ভেনেজুয়েলার সদস্য ফি দেওয়া আটকে রেখেছে।",
+        "lead_en": "The Trump administration encouraged Venezuela and Iraq to consider leaving OPEC and prevented Venezuela from paying its annual membership dues.",
+        "bullets_bn": [
+          "মার্কিন চাপের মুখে সৌদি যুবরাজ মোহাম্মদ বিন সালমান এ বিষয়ে ট্রাম্প প্রশাসনকে আর চাপ না দিতে রাজি করান।",
+          "ইরাকের প্রধানমন্ত্রী আলী ফালেহ আল-জায়দি মার্কিন কর্মকর্তাদের সঙ্গে আলোচনার পর সরকার বৈঠকে ওপেক ত্যাগের সম্ভাবনা উত্থাপন করেন।",
+          "ইরাকের তেল মন্ত্রণালয় প্রধানমন্ত্রীকে রাজি করিয়ে গ্রুপে থাকতে এবং উচ্চ উৎপাদন কোটা চাওয়ার কথা বিবেচনা করতে বলে।"
+        ],
+        "bullets_en": [
+          "Saudi Crown Prince Mohammed bin Salman intervened this summer, persuading the Trump administration not to press the issue further.",
+          "Iraq Prime Minister Ali Faleh al-Zaidi raised the possibility of leaving OPEC at a government meeting after discussions with US officials.",
+          "Iraq oil ministry pushed back, persuading al-Zaidi to keep Iraq in the group and consider seeking a higher production quota instead."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মার্কিন কর্মকর্তারা উভয় দেশেই তেল উৎপাদন ও বিনিয়োগ বাড়ানোর জন্য চাপ দিচ্ছিলেন এবং ওপেকের উৎপাদন সীমিতকরণ এই উচ্চাভিলাষ ব্যাহত করতে পারে বলে আশঙ্কা করছিলেন। যুক্তরাষ্ট্রের হাতে উভয় দেশের ওপর শক্তিশালী নিয়ন্ত্রণ রয়েছে, যার মধ্যে ভেনেজুয়েলার রাষ্ট্রীয় তহবিলে প্রবেশাধিকার এবং নিউইয়র্কের ফেডারেল রিজার্ভ ব্যাংকে থাকা ইরাকের তেল রাজস্বের হিসাব অন্তর্ভুক্ত।",
+        "details_en": "US officials were pushing for greater oil production and investment in both countries, worrying OPEC production limits could constrain those ambitions. The United States controls Venezuela access to state funds and holds Iraq oil revenues through an account at the Federal Reserve Bank of New York.",
+        "hook_bn": "ওপেক ছাড়তে ভেনেজুয়েলা ও ইরাককে যুক্তরাষ্ট্রের উৎসাহ",
+        "kicker_bn": "বিশ্ব",
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": true,
+      "outlet_count": 1,
+      "trending": false,
       "social_appeal": 4.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T06:01:44.200995+00:00"
+        "checked_at": "2026-11-27T07:02:34.747040+00:00"
       }
     }
   ]
