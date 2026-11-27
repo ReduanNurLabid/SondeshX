@@ -1,225 +1,235 @@
 {
-  "updated_at": "2026-11-27T04:00:52.970103",
+  "updated_at": "2026-11-27T05:00:50.381749",
   "total_stories": 3,
   "stories": [
     {
-      "story_id": "bf616cea-9090-5ee2-9076-fd49bd4a11a9",
-      "primary_category": "economy_business",
+      "story_id": "26e3f999-9de8-5191-8712-5b188df8722e",
+      "primary_category": "governance_law",
       "interest_categories": [
+        "governance_law",
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#BGB",
+        "#Dhaka",
+        "#Gopalganj",
+        "#HomeMinistry"
       ],
-      "image_url": "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z29sZCUyMGpld2VscnklMjBwcmljZXMlMjBiZWVuJTIwYnVzaW5lc3N8ZW58MXwwfHx8MTc5NTc1MjA3Nnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/23/screenshot_2026-11-23_154553.png",
       "image_caption": null,
-      "published_at": "2026-11-27T03:36:37+00:00",
+      "published_at": "2026-11-27T04:25:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 8.5,
-      "rank_score": 7.0557,
+      "importance_score": 7.75,
+      "rank_score": 5.8002,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/economy/news/1184222",
-          "title": "সোনার দাম আরও বাড়লো",
-          "snippet": "সোনার দাম আরও বাড়লো"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/109-platoons-bgb-deployed-dhaka-five-other-districts-maintain-law-and-order-1615521",
+          "title": "109 platoons of BGB deployed in Dhaka, five other districts to maintain law and order",
+          "snippet": "109 platoons of BGB deployed in Dhaka, five other districts to maintain law and order"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/gopalganj-gets-56-bgb-platoons-113-platoons-deployed-across-six-districts-4334436",
+          "title": "Gopalganj gets 56 BGB platoons as 113 platoons deployed across six districts",
+          "snippet": "Gopalganj gets 56 BGB platoons as 113 platoons deployed across six districts"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425886/109-platoons-of-bgb-deployed-in-dhaka-five-other",
+          "title": "109 platoons of BGB deployed in Dhaka, five other districts",
+          "snippet": "109 platoons of BGB deployed in Dhaka, five other districts"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/national/109-platoons-of-bgb-deployed-in-dhaka-five-other-districts-to-maintain-law-and-order",
+          "title": "BGB deploys 109 platoons in Dhaka, five other districts",
+          "snippet": "BGB deploys 109 platoons in Dhaka, five other districts"
         }
       ],
       "daily_buzz": {
-        "title_bn": "দেশের বাজারে সোনার গহনার দাম আরও বাড়ানো হয়েছে।",
-        "title_en": "Gold jewelry prices have been increased further in the domestic market.",
-        "summary_bn": "দেশের বাজারে সোনার গহনার দাম আরও বাড়ানো হয়েছে এবং সবচেয়ে ভালো মানের প্রতি ভরি সোনার দাম ১ হাজার ৫০ টাকা বাড়ানো হয়েছে।",
-        "summary_en": "Gold jewelry prices have been increased further in the domestic market, with the price of the best quality per bhori raised by 1,050 taka.",
+        "title_bn": "আইনশৃঙ্খলা রক্ষায় ছয় জেলায় ১০৯ প্লাটুন বিজিবি মোতায়েন করা হয়েছে",
+        "title_en": "One hundred and nine BGB platoons deployed in six districts",
+        "summary_bn": "আইনশৃঙ্খলা রক্ষা এবং জননিরাপত্তা নিশ্চিত করতে ঢাকা ও পাঁচ জেলায় ১০৯ প্লাটুন বর্ডার গার্ড বাংলাদেশ মোতায়েন করা হয়েছে।",
+        "summary_en": "A total of 109 Border Guard Bangladesh platoons have been deployed in Dhaka and five districts to maintain law and order.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "governance_law",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T03:36:37+00:00",
-        "lead_bn": "দেশের বাজারে সোনার গহনার দাম আরও বাড়ানো হয়েছে এবং সবচেয়ে ভালো মানের প্রতি ভরি সোনার দাম ১ হাজার ৫০ টাকা বাড়ানো হয়েছে।",
-        "lead_en": "Gold jewelry prices have been increased further in the domestic market, with the price of the best quality per bhori raised by 1,050 taka.",
+        "published_at": "2026-11-27T04:25:00+00:00",
+        "lead_bn": "আইনশৃঙ্খলা রক্ষা এবং জননিরাপত্তা নিশ্চিত করতে ঢাকা ও পাঁচ জেলায় ১০৯ প্লাটুন বর্ডার গার্ড বাংলাদেশ মোতায়েন করা হয়েছে।",
+        "lead_en": "A total of 109 Border Guard Bangladesh platoons have been deployed in Dhaka and five districts to maintain law and order.",
         "bullets_bn": [
-          "দেশের বাজারে সোনার গহনার দাম আরও বাড়ানো হয়েছে।",
-          "সবচেয়ে ভালো মানের বা ২২ ক্যারেটের প্রতি ভরি সোনার গহনার দাম বাড়ানো হয়েছে ১ হাজার ৫০ টাকা।",
-          "প্রতি ভরি সোনার পরিমাণ ১১ দশমিক ৬৬৪ গ্রাম।"
+          "গোপালগঞ্জে সবচেয়ে বেশি ৫৬ প্লাটুন এবং ঢাকায় ১৮ প্লাটুন বিজিবি মোতায়েন করা হয়েছে।",
+          "বর্ডার গার্ড বাংলাদেশ জানিয়েছে, আরও চার প্লাটুন সদস্য প্রস্তুত রাখা হয়েছে।",
+          "স্বরাষ্ট্র মন্ত্রণালয়ের নির্দেশনা অনুযায়ী স্থানীয় প্রশাসনের সঙ্গে মিলে কাজ করছে বিজিবি।"
         ],
         "bullets_en": [
-          "Gold jewelry prices have been increased further in the domestic market.",
-          "The price of the best quality or 22-karat gold jewelry per bhori has been increased by 1,050 taka.",
-          "Each bhori of gold measures 11.664 grams."
+          "The highest number of 56 platoons have been deployed in Gopalganj and 18 in Dhaka.",
+          "Four additional platoons are on standby for deployment, according to the BGB.",
+          "BGB personnel are working with local administration following Ministry of Home Affairs directives."
+        ],
+        "impact_bn": "নিরাপত্তা নিশ্চিত ও দৈনন্দিন কর্মকাণ্ডের জন্য সাধারণ মানুষের চলাচল স্বাভাবিক রাখতে কাজ করছে বিজিবি।",
+        "impact_en": "BGB is working to ensure public safety and property while enabling smooth movement of people and daily activities.",
+        "details_bn": "স্বরাষ্ট্র মন্ত্রণালয়ের নির্দেশনা অনুযায়ী বর্ডার গার্ড বাংলাদেশ সদস্যরা জেলা প্রশাসন ও আইনশৃঙ্খলা রক্ষাকারী বাহিনীর সঙ্গে সমন্বয় করে দায়িত্ব পালন করছেন। মূল স্থাপনা ও শিল্পাঞ্চলে নিরাপত্তা জোরদারের পাশাপাশি আধুনিক প্রযুক্তির মাধ্যমে কার্যক্রম মনিটরিং করা হচ্ছে।",
+        "details_en": "Following Ministry of Home Affairs directives, BGB personnel are carrying out duties in coordination with district administration and law enforcement agencies. Alongside strengthening security at key installations and industrial zones, activities are monitored using modern technology.",
+        "hook_bn": "ছয় জেলায় ১০৯ প্লাটুন বিজিবি মোতায়েন",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 5,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-27T05:01:52.557719+00:00"
+      }
+    },
+    {
+      "story_id": "5ed8723b-626b-5776-b35a-bef7d5174c85",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#India",
+        "#Petrapole",
+        "#Benapole"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZWlnaHQlMjBiYW5nbGFkZXNoaXMlMjByZXR1cm4lMjBob21lJTIwZGlwbG9tYWN5fGVufDF8MHx8fDE3OTU3NTU2OTB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-27T04:15:02+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.3912,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425884/eight-bangladeshis-return-home-after-two-years-in",
+          "title": "Eight Bangladeshis return home after two years in Indian jails",
+          "snippet": "Eight Bangladeshis return home after two years in Indian jails"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ভারতীয় কারাগার থেকে দুই বছর পর আট বাংলাদেশি দেশে ফিরেছেন",
+        "title_en": "Eight Bangladeshis return home after two years in Indian jails",
+        "summary_bn": "ভারতের কারাগারে দুই বছর বন্দি থাকার পর আট বাংলাদেশি নাগরিক দেশে ফিরে এসেছেন।",
+        "summary_en": "Eight Bangladeshi nationals returned home after spending two years in Indian prisons.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T04:15:02+00:00",
+        "lead_bn": "ভারতের কারাগারে দুই বছর বন্দি থাকার পর আট বাংলাদেশি নাগরিক দেশে ফিরে এসেছেন।",
+        "lead_en": "Eight Bangladeshi nationals returned home after spending two years in Indian prisons.",
+        "bullets_bn": [
+          "ভারতীয় ইমিগ্রেশন পুলিশ বেনাপোল চেকপোস্টে তাদের হস্তান্তর করে।",
+          "রাত আটটার দিকে পেট্রাপোল সীমান্তে এই হস্তান্তর প্রক্রিয়া সম্পন্ন হয়।",
+          "বাংলাদেশি ইমিগ্রেশন পুলিশ চেকপোস্টে তাদের গ্রহণ করে।"
+        ],
+        "bullets_en": [
+          "Indian immigration police handed them over at the Benapole checkpost.",
+          "The handover took place at around 8pm on Thursday at the Petrapole border.",
+          "Immigration police at the Benapole checkpost received the returning citizens."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "সোনার দাম আরও বাড়লো",
-        "kicker_bn": "দাম বাড়ছে",
-        "share_value": true,
-        "question_bn": "সোনার দাম বাড়ার এই পরিস্থিতিতে গহনা কেনার ক্ষেত্রে আপনার পরিকল্পনা কী?"
-      },
-      "desk_importance": 8.0,
-      "outlet_count": 1,
-      "trending": true,
-      "social_appeal": 9.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T04:01:40.220850+00:00"
-      }
-    },
-    {
-      "story_id": "bc2fa12c-a23a-5c3a-bd5a-c835671544c8",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#HSC",
-        "#EducationMinistry",
-        "#ANMEhsanulHoqueMilon"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/09/23/milon.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-27T02:25:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.2814,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/education/hsc-answer-scripts-behind-changed-results-be-re-evaluated-education-minister",
-          "title": "HSC answer scripts behind changed results to be re-evaluated: Education minister",
-          "snippet": "HSC answer scripts behind changed results to be re-evaluated: Education minister"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "এইচএসসি পরীক্ষার ফল পরিবর্তনের উত্তরপত্র পুনরায় মূল্যায়ন করা হবে",
-        "title_en": "HSC answer scripts behind changed results to be re-evaluated",
-        "summary_bn": "পুনর্নিরীক্ষার পর ফলাফল পরিবর্তিত হওয়া এইচএসসি পরীক্ষার্থীদের উত্তরপত্রগুলো আবার পর্যালোচনা করা হবে বলে জানিয়েছেন শিক্ষা মন্ত্রী এএনএম এহসানুল হক মিলন।",
-        "summary_en": "Answer scripts of students whose Higher Secondary Certificate examination results changed following re-scrutiny will be reviewed again, Education Minister ANM Ehsanul Hoque Milon said.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T02:25:00+00:00",
-        "lead_bn": "পুনর্নিরীক্ষার পর ফলাফল পরিবর্তিত হওয়া এইচএসসি পরীক্ষার্থীদের উত্তরপত্রগুলো আবার পর্যালোচনা করা হবে বলে জানিয়েছেন শিক্ষা মন্ত্রী এএনএম এহসানুল হক মিলন।",
-        "lead_en": "Answer scripts of students whose Higher Secondary Certificate examination results changed following re-scrutiny will be reviewed again, Education Minister ANM Ehsanul Hoque Milon said.",
-        "bullets_bn": [
-          "অবহেলা বা ভুলের জন্য দায়ী পরীক্ষকদের বিরুদ্ধে শৃঙ্খলামূলক ব্যবস্থা নেওয়া হবে এবং প্রশিক্ষণের ব্যবস্থা করা হবে।",
-          "ফলাফল পরিবর্তনের কারণ জানতে উত্তরপত্রগুলো বিভিন্ন শিক্ষা বোর্ডের মধ্যে অদলবদল করে পুনরায় মূল্যায়ন করা হচ্ছে।",
-          "পরীক্ষকের ভুলের কারণে ভালো করা শিক্ষার্থীর কম নম্বর পাওয়া অগ্রহণযোগ্য বলে উল্লেখ করেন মন্ত্রী।"
-        ],
-        "bullets_en": [
-          "Examiners responsible for changes caused by negligence or errors will face disciplinary action and training programmes.",
-          "Answer scripts from different education boards whose results changed have been sent to other boards for fresh evaluation.",
-          "The minister said it was unacceptable for a student who performed well to receive a lower-than-expected result due to an examiner's mistake."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "আন্তর্জাতিক মাতৃভাষা ইনস্টিটিউটে শিক্ষা রিপোর্টার্স অ্যাসোসিয়েশন অব বাংলাদেশের নতুন কমিটির অভিষেক অনুষ্ঠানে প্রধান অতিথির বক্তব্যে শিক্ষা মন্ত্রী বলেন, এসএসসি পরীক্ষার ফল পুনর্নিরীক্ষার পরেও এমন পরিবর্তন হয়েছিল যেখানে অনেকে পাস করেছে বা জিপিএ-৫ পেয়েছে।",
-        "details_en": "Speaking as the chief guest at the induction ceremony of the new committee of the Education Reporters Association, Bangladesh at the International Mother Language Institute, the education minister said results had also changed following re-scrutiny of SSC examination papers.",
-        "hook_bn": "ফল পরিবর্তনের কারণ খতিয়ে দেখা হবে",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": "শিক্ষার্থীদের উত্তরপত্র মূল্যায়নে ভুলের পুনরাবৃত্তি রোধে আর কী করা উচিত বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T04:01:40.220850+00:00"
-      }
-    },
-    {
-      "story_id": "183ae24d-af7c-55d4-8452-258682efe255",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business"
-      ],
-      "region": "international",
-      "tags": [
-        "#DonaldTrump",
-        "#VladimirPutin",
-        "#Ukraine",
-        "#Europe"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/27/screenshot_2026-11-27_084819.png",
-      "image_caption": null,
-      "published_at": "2026-11-27T02:50:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.6473,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/world/trump-says-he-asked-putin-pull-back-military-aggression-throughout-europe-1615441",
-          "title": "Trump says he asked Putin to 'pull back' military aggression throughout Europe",
-          "snippet": "Trump says he asked Putin to 'pull back' military aggression throughout Europe"
-        },
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
-          "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
-          "snippet": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1184223",
-          "title": "পুতিনকে ‘সামরিক আগ্রাসন’ বন্ধের আহ্বান জানালেন ট্রাম্প",
-          "snippet": "পুতিনকে ‘সামরিক আগ্রাসন’ বন্ধের আহ্বান জানালেন ট্রাম্প"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইউরোপে রুশ সামরিক আগ্রাসন বন্ধ করতে পুতিনকে বলেছেন ট্রাম্প",
-        "title_en": "Trump says he asked Putin to pull back military aggression in Europe",
-        "summary_bn": "ইউরোপজুড়ে রাশিয়ার সামরিক আগ্রাসন বন্ধ করার জন্য রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিনের প্রতি আহ্বান জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-        "summary_en": "US President Donald Trump said he told Russian leader Vladimir Putin he would like to see Russia pull back military aggression throughout Europe.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T02:50:00+00:00",
-        "lead_bn": "ইউরোপজুড়ে রাশিয়ার সামরিক আগ্রাসন বন্ধ করার জন্য রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিনের প্রতি আহ্বান জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-        "lead_en": "US President Donald Trump said he told Russian leader Vladimir Putin he would like to see Russia pull back military aggression throughout Europe.",
-        "bullets_bn": [
-          "ট্রাম্প আশা করছেন এতে রাশিয়া ও ইউক্রেনের মধ্যে দ্রুত একটি চুক্তি হতে পারে।",
-          "ট্রাম্প বলেছেন প্রতি মাসে হাজার হাজার মানুষ নিহত হচ্ছে এবং এটি সম্পূর্ণ রক্তগঙ্গা।",
-          "আলোচনার ক্ষেত্রে সবচেয়ে বড় সমস্যা দুই নেতার একে অপরকে ঘৃণা করা বলে জানান ট্রাম্প।"
-        ],
-        "bullets_en": [
-          "Trump expressed hope that this could lead to a quick settlement of the war in Ukraine.",
-          "Trump stated that thousands of people are being killed each and every month in a complete bloodbath.",
-          "Trump said the biggest problem to a settlement is the fact that the two leaders really hate each other."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "২০২২ সালে ইউক্রেনে রাশিয়ার আগ্রাসন শুরুর পর থেকে অন্য দেশগুলো মাঝে মাঝে রাশিয়ার বিরুদ্ধে উসকানিমূলক আচরণের অভিযোগ তুলেছে। ফ্লোরিডার পাম বিচে মার-এ-লাগো ক্লাবে ট্রাম্প জানান যে তিনি জানেন না আগামী মাসের ফ্লোরিডার জি২০ বৈঠকে পুতিন যোগ দেবেন কি না।",
-        "details_en": "Since the Russian invasion of Ukraine started in 2022, other countries have occasionally accused Russia of provocative behavior. Trump told reporters at his Mar-a-Lago club in Florida that he did not know whether Putin would attend next month's G20 meeting.",
-        "hook_bn": "ইউরোপে সামরিক আগ্রাসন বন্ধ করুন",
+        "hook_bn": "পেট্রাপোল সীমান্তে আট বাংলাদেশি হস্তান্তর",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 6.0,
-      "outlet_count": 3,
+      "desk_importance": 5.0,
+      "outlet_count": 1,
       "trending": false,
-      "social_appeal": 5.0,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T04:01:40.220850+00:00"
+        "checked_at": "2026-11-27T05:01:52.557719+00:00"
+      }
+    },
+    {
+      "story_id": "c5ea52b6-035c-5b44-b007-aef23608ff87",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Chapainawabganj",
+        "#Shibganj",
+        "#KrishakLeague"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/27/att.2ighbt00aveykfqsrtp9vduc2cby4zvdvyiemvd5nkg.jpeg",
+      "image_caption": null,
+      "published_at": "2026-11-27T04:45:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4612,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/229-sued-over-explosion-killed-krishak-league-leader-chapainawabganj-1615541",
+          "title": "229 sued over explosion that killed Krishak League leader in Chapainawabganj",
+          "snippet": "229 sued over explosion that killed Krishak League leader in Chapainawabganj"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "চাঁপাইনবাবগঞ্জে বোমা বিস্ফোরণে কৃষক লীগ নেতা নিহত, মামলায় আসামি ২২৯ জন।",
+        "title_en": "229 sued over Chapainawabganj explosion that killed Krishak League leader.",
+        "summary_bn": "চাঁপাইনবাবগঞ্জের শিবগঞ্জে বোমা বিস্ফোরণে এক কৃষক লীগ নেতা নিহত হওয়ার ঘটনায় পুলিশ ২২৯ জনের বিরুদ্ধে মামলা দায়ের করেছে।",
+        "summary_en": "Police have filed a case against 229 people over an explosion that killed a Krishak League leader in Shibganj, Chapainawabganj.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T04:45:00+00:00",
+        "lead_bn": "চাঁপাইনবাবগঞ্জের শিবগঞ্জে বোমা বিস্ফোরণে এক কৃষক লীগ নেতা নিহত হওয়ার ঘটনায় পুলিশ ২২৯ জনের বিরুদ্ধে মামলা দায়ের করেছে।",
+        "lead_en": "Police have filed a case against 229 people over an explosion that killed a Krishak League leader in Shibganj, Chapainawabganj.",
+        "bullets_bn": [
+          "মামলার এজাহারে বলা হয়েছে, অন্তর্ঘাতমূলক কর্মকাণ্ড চালানোর জন্য ককটেলগুলো তৈরি করা হচ্ছিল।",
+          "চাঁপাইনবাবগঞ্জের অতিরিক্ত পুলিশ সুপার এ এন এম ওয়াসিম ফিরোজ জানান, এ মামলায় ৭৯ জনের নাম উল্লেখ করা হয়েছে এবং ১৫০ জনকে অজ্ঞাতনামা আসামি করা হয়েছে।",
+          "পুলিশ এই ঘটনায় নাম এজাহারভুক্ত তিন আসামিকে গ্রেপ্তার করেছে।"
+        ],
+        "bullets_en": [
+          "According to the FIR, the crude bombs were being made to carry out acts of sabotage.",
+          "ANM Wasim Firoz, Chapainawabganj additional superintendent of police, said 79 people were named and 150 others remain unidentified.",
+          "Police have arrested three of the named accused in connection with the incident."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "বোমা বিস্ফোরণে কৃষক লীগ নেতা নিহত",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-27T05:01:52.557719+00:00"
       }
     }
   ]
