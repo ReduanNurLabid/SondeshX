@@ -1,211 +1,9 @@
 {
-  "updated_at": "2026-11-27T22:00:55.147690",
-  "total_stories": 6,
+  "updated_at": "2026-11-27T23:00:50.194870",
+  "total_stories": 4,
   "stories": [
     {
-      "story_id": "7e0e99ec-4e1f-5bd2-9e38-6437daf80c75",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#RevisedBudget",
-        "#FinanceDivision",
-        "#SubsidyPressure"
-      ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/183451/p1-revised-budget.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-27T22:01:04.115907+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5987,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/economy/revised-budget-for-fy27-may-outstrip-original-one",
-          "title": "Revised budget for FY'27 may outstrip original one",
-          "snippet": "Revised budget for FY'27 may outstrip original one"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "অর্থবছরের সংশোধিত বাজেট মূল বাজেট ছাড়িয়ে যেতে পারে",
-        "title_en": "Revised budget for the fiscal year may outstrip the original one",
-        "summary_bn": "সাবসিডি বৃদ্ধি এবং মধ্যপ্রাচ্যের সংকটের কারণে চলতি অর্থবছরের সংশোধিত বাজেটের আকার মূল বাজেট ছাড়িয়ে যেতে পারে।",
-        "summary_en": "The size of the revised budget for the current fiscal year may get bigger due to subsidy pressure and Mideast mayhem.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T22:01:04.115907+00:00",
-        "lead_bn": "সাবসিডি বৃদ্ধি এবং মধ্যপ্রাচ্যের সংকটের কারণে চলতি অর্থবছরের সংশোধিত বাজেটের আকার মূল বাজেট ছাড়িয়ে যেতে পারে।",
-        "lead_en": "The size of the revised budget for the current fiscal year may get bigger due to subsidy pressure and Mideast mayhem.",
-        "bullets_bn": [
-          "অর্থবছরের সংশোধিত বাজেটের আকার সাধারণত কমে গেলেও এবার এই ধারা উল্টো হতে পারে বলে জানিয়েছেন অর্থ বিভাগের এক ঊর্ধ্বতন কর্মকর্তা।",
-          "সাবসিডি বৃদ্ধির আশঙ্কায় অর্থ বিভাগ fiscal, monetary, and currency exchange সংক্রান্ত কমিটির সমন্বয় সভা দুবার পিছিয়ে ৬ ডিসেম্বর নির্ধারণ করেছে।",
-          "সরকার সরকারি চাকরিজীবীদের নতুন বেতন কাঠামোর একটি অংশ বাস্তবায়ন করায় এবং সাবসিডি সর্বকালের সর্বোচ্চ পর্যায়ে রয়েছে।"
-        ],
-        "bullets_en": [
-          "A senior finance division official stated that while the size of the revised budget usually goes down, this year the trend may go atypical.",
-          "Confused over rising subsidy pressure, the Finance Division shifted a coordination committee meeting twice to December 6.",
-          "A senior finance official noted that the government implemented a part of the new pay scale while subsidy pressure is at an all-time high."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "চলতি অর্থবছরের বর্তমান বাজেট সংশোধনের কাজ করছেন অর্থ কর্মকর্তারা। বিশ্ব অর্থনীতিতে অস্থিরতা, মধ্যপ্রাচ্যের দীর্ঘমেয়াদী সংঘাত এবং যুক্তরাষ্ট্রের ইরানে সম্ভাব্য স্থল আগ্রাসনের আশঙ্কায় জ্বালানি পরিবহন ব্যাহত হওয়া এবং সাবসিডি চাপ বেড়ে যাওয়ার আশঙ্কা তৈরি হয়েছে। অতীতে অর্থবছরে মূল বাজেটের আকার কমানো হয়েছিল, যেমন অর্থবছর ২০২৫-২৬-এ ৭.৯ ট্রিলিয়ন টাকার বাজেট সামান্য কমিয়ে ৭.৮৮ ট্রিলিয়ন টাকা এবং অর্থবছর ২০২৪-২০৫-এ ৭.৯৭ ট্রিলিয়ন টাকার বাজেট কমিয়ে ৭.৪৪ ট্রিলিয়ন টাকা করা হয়েছিল।",
-        "details_en": "Finance officials crafting the revised budget face arithmetic dilemmas due to subsidy overruns and extra expenses amid global economic volatility and prolonged Mideast mayhem. Concerns also persist regarding a possible US ground invasion in Iran. In fiscal year 2025-26, the original budget of Tk 7.9 trillion was cut to Tk 7.88 trillion, while in fiscal year 2024-25, the actual budget of Tk 7.97 trillion was cut to Tk 7.44 trillion.",
-        "hook_bn": "সাবসিডি ও বাড়তি খরচে বাড়তে পারে বাজেট",
-        "kicker_bn": "বাজেট আপডেট",
-        "share_value": false,
-        "question_bn": "বাজেটে সাবসিডি ও অতিরিক্ত খরচ সামলানোর আর কী উপায় থাকা উচিত বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T22:01:53.452582+00:00"
-      }
-    },
-    {
-      "story_id": "4bbbdcaf-9094-560b-a462-20fba477e98d",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#BangladeshBank",
-        "#CrossBorderTransactions"
-      ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/merged/merged_c422728d3d1769e34b7752632c8851c7.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-27T22:01:04.115907+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5987,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/economy/bb-asks-banks-to-set-up-price-verification-cells-for-cross-border-transactions",
-          "title": "BB asks banks to set up price verification cells for cross-border transactions",
-          "snippet": "BB asks banks to set up price verification cells for cross-border transactions"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সীমান্ত বাণিজ্যের দাম যাচাইয়ে ব্যাংকগুলোকে বিশেষ সেল গঠনের নির্দেশ বাংলাদেশ ব্যাংকের।",
-        "title_en": "Bangladesh Bank asks banks to set up price verification cells for cross-border transactions.",
-        "summary_bn": "বাংলাদেশ ব্যাংক সব অনুমোদিত ডিলার ব্যাংককে আমদানি, রপ্তানি ও সেবামূলক লেনদেনের মূল্য কেন্দ্রীয়ভাবে মনিটরিং ও যাচাইয়ের জন্য সেল গঠনের নির্দেশ দিয়েছে।",
-        "summary_en": "Bangladesh Bank has asked all authorised dealer banks to establish dedicated cells for monitoring and verifying trade transaction prices.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T22:01:04.115907+00:00",
-        "lead_bn": "বাংলাদেশ ব্যাংক সব অনুমোদিত ডিলার ব্যাংককে আমদানি, রপ্তানি ও সেবামূলক লেনদেনের মূল্য কেন্দ্রীয়ভাবে মনিটরিং ও যাচাইয়ের জন্য সেল গঠনের নির্দেশ দিয়েছে।",
-        "lead_en": "Bangladesh Bank has asked all authorised dealer banks to establish dedicated cells for monitoring and verifying trade transaction prices.",
-        "bullets_bn": [
-          "নির্দেশনা অনুযায়ী ব্যাংকগুলোকে আন্তর্জাতিকভাবে স্বীকৃত অন্তত একটি মূল্য যাচাই প্ল্যাটফর্মের সাবস্ক্রিপশন নিতে হবে।",
-          "বাংলাদেশ ব্যাংকের বৈদেশিক মুদ্রা নীতি বিভাগ থেকে জারি করা এক সার্কেল চিঠিতে এই নির্দেশনা দেওয়া হয়েছে।",
-          "সব অনুমোদিত ডিলার ব্যাংককে নির্ধারিত সময়ের মধ্যে সেল গঠনসহ প্রয়োজনীয় প্রস্তুতি সম্পন্ন করতে বলা হয়েছে।"
-        ],
-        "bullets_en": [
-          "Banks were advised to subscribe to at least one internationally recognised price verification platform.",
-          "The instructions were issued through a circular letter by Bangladesh Bank’s Foreign Exchange Policy.",
-          "All authorised dealer banks must complete necessary arrangements and set up dedicated cells within the stipulated timeframe."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বাংলাদেশ ব্যাংকের বৈদেশিক মুদ্রা নীতি বিভাগ থেকে জারি করা সার্কেল অনুযায়ী, এই পদক্ষেপের উদ্দেশ্য হলো আন্তঃসীমান্ত লেনদেনে প্রতিযোগিতামূলক ও যৌক্তিক মূল্য নিশ্চিত করা। ব্যাংকগুলোকে তাদের নিজস্ব অপারেশনাল প্রয়োজনীয়তা অনুযায়ী সাশ্রয়ী ও উপযুক্ত প্ল্যাটফর্ম বেছে নিতে বলা হয়েছে। আগামী ২০২৭ সালের ১ জানুয়ারি থেকে এই নির্দেশনা কার্যকর হবে।",
-        "details_en": "According to the circular issued by Bangladesh Bank’s Foreign Exchange Policy, the move aims to ensure competitive and reasonable pricing of cross-border transactions. Banks have been advised to choose platforms that are affordable and suitable for their operational requirements. The instructions will come into effect on January 1, 2027.",
-        "hook_bn": "আমদানি-রপ্তানির দাম যাচাইয়ে ব্যাংকে নতুন সেল",
-        "kicker_bn": "নতুন নিয়ম",
-        "share_value": true,
-        "question_bn": "সীমান্ত বাণিজ্যের মূল্য যাচাইয়ে কেন্দ্রীয় ব্যাংকের এই পদক্ষেপ দেশের বাণিজ্যে কতটা প্রভাব ফেলবে বলে আপনার মনে হয়?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T22:01:53.452582+00:00"
-      }
-    },
-    {
-      "story_id": "93ac647c-110c-59c7-85fd-cf5b2597b3e3",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1732721093900-5b1f9091cf5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bGFraHMlMjBtcG8lMjBsaXN0ZWQlMjB0ZWFjaGVycyUyMGVkdWNhdGlvbnxlbnwxfDB8fHwxNzk1ODE2OTA0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-27T22:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5951,
-      "sources": [
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823328/%E0%A7%A8-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A6%95%E0%A7%8B%E0%A6%9A%E0%A6%BF%E0%A6%82-%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%87%C2%A0%E0%A6%9C%E0%A7%9C%E0%A6%BF%E0%A6%A4-%E0%A6%B2%E0%A6%BE%E0%A6%96%E0%A7%8B-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95",
-          "title": "২ লাখ কোচিং সেন্টারে জড়িত লাখো শিক্ষক!",
-          "snippet": "২ লাখ কোচিং সেন্টারে জড়িত লাখো শিক্ষক!"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "কোচিং সেন্টারে জড়িত লাখো এমপিওভুক্ত শিক্ষক",
-        "title_en": "Lakhs of MPO-listed teachers involved in coaching centres",
-        "summary_bn": "শিক্ষা মন্ত্রণালয়ের নির্দেশনা উপেক্ষা করে রাজধানীসহ সারা দেশে প্রায় ২ লাখ কোচিং সেন্টারে সম্পৃক্ত রয়েছেন লাখো এমপিওভুক্ত শিক্ষক।",
-        "summary_en": "Ignoring education ministry directives, lakhs of MPO-listed teachers are involved in nearly 2 lakh coaching centres across the country.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T22:00:00+00:00",
-        "lead_bn": "শিক্ষা মন্ত্রণালয়ের নির্দেশনা উপেক্ষা করে রাজধানীসহ সারা দেশে প্রায় ২ লাখ কোচিং সেন্টারে সম্পৃক্ত রয়েছেন লাখো এমপিওভুক্ত শিক্ষক।",
-        "lead_en": "Ignoring education ministry directives, lakhs of MPO-listed teachers are involved in nearly 2 lakh coaching centres across the country.",
-        "bullets_bn": [
-          "বাংলাদেশ পরিসংখ্যান ব্যুরোর জরিপ প্রতিবেদন অনুযায়ী দেশে নিবন্ধিত কোচিং সেন্টারের সংখ্যা ৬ হাজার ৫৮৭।",
-          "নিবন্ধিত প্রতিষ্ঠানের মধ্যে একাডেমিক কোচিং সেন্টার রয়েছে ৬ হাজার ৩১২টি।",
-          "বিশ্ববিদ্যালয় ভর্তি প্রস্তুতি বা চাকরিসংক্রান্ত কোচিং সেন্টার রয়েছে আরো ২৭৫টি।"
-        ],
-        "bullets_en": [
-          "According to the Bangladesh Bureau of Statistics survey report, the number of registered coaching centres in the country is 6,587.",
-          "Among the registered institutions, academic coaching centres number 6,312.",
-          "There are another 275 university admission preparation or job-related coaching centres."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "শিক্ষা মন্ত্রণালয়ের নির্দেশনা উপেক্ষা করে রাজধানীসহ সারা দেশে প্রায় ২ লাখ কোচিং সেন্টারে সম্পৃক্ত রয়েছেন লাখো এমপিওভুক্ত শিক্ষক। বাংলাদেশ পরিসংখ্যান ব্যুরোর জরিপ প্রতিবেদন অনুযায়ী, দেশে নিবন্ধিত কোচিং সেন্টারের সংখ্যা ৬ হাজার ৫৮৭। এর মধ্যে একাডেমিক ৬ হাজার ৩১২টি ও বিশ্ববিদ্যালয় ভর্তি প্রস্তুতি বা চাকরিসংক্রান্ত কোচিং সেন্টার রয়েছে আরো ২৭৫টি। শিক্ষাসংশ্লিষ্টরা যদিও বলছেন, নিবন্ধনহীন কোচিং সেন্টারের সংখ্যা আরও বেশি।",
-        "details_en": "Ignoring education ministry directives, lakhs of MPO-listed teachers are involved in nearly 2 lakh coaching centres across the country including the capital. According to the Bangladesh Bureau of Statistics survey report, the number of registered coaching centres in the country is 6,587. Among them, academic coaching centres are 6,312 and university admission preparation or job-related coaching centres are another 275. Education-related people, however, say that the number of unregistered coaching centres is even higher.",
-        "hook_bn": "দুই লাখ কোচিং সেন্টারে জড়িত লাখো শিক্ষক",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": "আপনার এলাকার কোচিং সেন্টারগুলোতে শিক্ষকদের সম্পৃক্ততা নিয়ে আপনার অভিজ্ঞতা কেমন?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T22:01:53.452582+00:00"
-      }
-    },
-    {
-      "story_id": "7d66ea72-f2c6-5c54-b0e3-5a7f100c1447",
+      "story_id": "ccfef4a5-f514-5ca1-bc86-6358ae933c81",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -215,49 +13,185 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://images.unsplash.com/photo-1641554251012-0a0f858d52f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8aW5qdXJlZCUyMGNsYXNoJTIwYmV0d2VlbiUyMGF3YW1pJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1ODE2OTA2fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1693585172757-b9e057feb878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFybGlhbWVudCUyMGxhdyUyMGNvdXJ0JTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1ODIwNDk3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-27T21:52:39+00:00",
+      "published_at": "2026-11-27T20:56:11+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5697,
+      "importance_score": 7.0,
+      "rank_score": 4.3432,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1184444",
-          "title": "মাদারীপুরে আওয়ামী লীগ-বিএনপি সংঘর্ষ, অর্ধশত ককটেল বিস্ফোরণ",
-          "snippet": "মাদারীপুরে আওয়ামী লীগ-বিএনপি সংঘর্ষ, অর্ধশত ককটেল বিস্ফোরণ"
+          "url": "https://www.jagonews24.com/country/news/1184443",
+          "title": "চাঁদপুরে মেঘনা এক্সপ্রেসের বগিতে আগুন",
+          "snippet": "চাঁদপুরে মেঘনা এক্সপ্রেসের বগিতে আগুন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মাদারীপুরে আওয়ামী লীগ ও বিএনপির সংঘর্ষে আহত ছয়",
-        "title_en": "Six injured in clash between Awami League and BNP in Madaripur",
-        "summary_bn": "মাদারীপুরের কালকিনিতে কার্যক্রম নিষিদ্ধ আওয়ামী লীগ ও বিএনপির নেতাকর্মীদের মধ্যে সংঘর্ষের ঘটনা ঘটেছে এবং এতে ছয়জন আহত হয়েছেন।",
-        "summary_en": "A clash took place between activists of the banned Awami League and the BNP in Kalkini, Madaripur, leaving six people injured.",
+        "title_bn": "চাঁদপুরে মেঘনা এক্সপ্রেস ট্রেনের বগিতে আগুন",
+        "title_en": "Fire breaks out in Meghna Express train carriage in Chandpur",
+        "summary_bn": "চট্টগ্রাম থেকে ছেড়ে আসা মেঘনা এক্সপ্রেস ট্রেনের একটি বগিতে আগুন দেওয়ার ঘটনা ঘটেছে।",
+        "summary_en": "A fire was set in a carriage of the Meghna Express train coming from Chattogram.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T21:52:39+00:00",
-        "lead_bn": "মাদারীপুরের কালকিনিতে কার্যক্রম নিষিদ্ধ আওয়ামী লীগ ও বিএনপির নেতাকর্মীদের মধ্যে সংঘর্ষের ঘটনা ঘটেছে এবং এতে ছয়জন আহত হয়েছেন।",
-        "lead_en": "A clash took place between activists of the banned Awami League and the BNP in Kalkini, Madaripur, leaving six people injured.",
+        "published_at": "2026-11-27T20:56:11+00:00",
+        "lead_bn": "চট্টগ্রাম থেকে ছেড়ে আসা মেঘনা এক্সপ্রেস ট্রেনের একটি বগিতে আগুন দেওয়ার ঘটনা ঘটেছে।",
+        "lead_en": "A fire was set in a carriage of the Meghna Express train coming from Chattogram.",
         "bullets_bn": [
-          "সংঘর্ষের সময় অর্ধশতাধিক ককটেল বিস্ফোরণের ঘটনা ঘটে।",
-          "কার্যক্রম নিষিদ্ধ আওয়ামী লীগ ও বিএনপির নেতাকর্মীদের মধ্যে এই সংঘর্ষ হয়।",
-          "সংঘর্ষে আহত হয়েছেন ছয়জন।"
+          "চট্টগ্রাম থেকে ছেড়ে আসা মেঘনা এক্সপ্রেস ট্রেনের একটি বগিতে আগুন দেওয়া হয়।",
+          "এই ঘটনায় বগিটির দুটি আসনসহ বেশ কিছু অংশ পুড়ে ক্ষতিগ্রস্ত হয়েছে।",
+          "এই ঘটনায় কোনো হতাহতের ঘটনা ঘটেনি।"
         ],
         "bullets_en": [
-          "More than fifty cocktail explosions occurred during the clash.",
-          "The clash took place between activists of the banned Awami League and the BNP.",
-          "Six people were injured in the clash."
+          "A fire was set in a carriage of the Meghna Express train coming from Chattogram.",
+          "The incident burned and damaged several parts including two seats of the carriage.",
+          "No casualties were reported in this incident."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "মাদারীপুরে আওয়ামী লীগ-বিএনপি সংঘর্ষ",
+        "hook_bn": "চাঁদপুরে মেঘনা এক্সপ্রেসে আগুন",
+        "kicker_bn": "ব্রেকিং",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-27T23:01:58.714751+00:00"
+      }
+    },
+    {
+      "story_id": "4e7e1765-8bb4-50d0-986b-bebde0ae4f1d",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1774369914755-44d38630c7b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8aHVuZHJlZHMlMjBtb3VuZHMlMjBmYWtlJTIwZGF0ZSUyMGVkdWNhdGlvbnxlbnwxfDB8fHwxNzk1ODIwNTAyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-27T23:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5949,
+      "sources": [
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/823330/%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%98%E0%A6%BE%E0%A6%9F%E0%A7%87-%E0%A6%B0%E0%A6%B8-%E0%A6%9B%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A6%87-%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A6%BF%C2%A0%E0%A6%B6%E0%A6%A4-%E0%A6%B6%E0%A6%A4-%E0%A6%AE%E0%A6%A3-%E2%80%98%E0%A6%96%E0%A6%BE%E0%A6%81%E0%A6%9F%E0%A6%BF-%E0%A6%97%E0%A7%81%E0%A7%9C%E2%80%99",
+          "title": "চারঘাটে রস ছাড়াই তৈরি শত শত মণ ‘খাঁটি গুড়’!",
+          "snippet": "চারঘাটে রস ছাড়াই তৈরি শত শত মণ ‘খাঁটি গুড়’!"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "চারঘাটে রস ছাড়াই তৈরি হচ্ছে শত মণ খাঁটি গুড়",
+        "title_en": "Hundreds of mounds of fake date molasses are being made in Charghat.",
+        "summary_bn": "রাজশাহীর চারঘাট, বাঘা ও পুঠিয়ায় শীতের শুরুতে কোনো প্রকার খেজুরের রস ছাড়াই তৈরি হচ্ছে শত শত মণ ভেজাল গুড়।",
+        "summary_en": "Hundreds of mounds of adulterated date molasses are being made without any date juice at the start of winter in Charghat, Bagha and Puthia of Rajshahi.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T23:00:00+00:00",
+        "lead_bn": "রাজশাহীর চারঘাট, বাঘা ও পুঠিয়ায় শীতের শুরুতে কোনো প্রকার খেজুরের রস ছাড়াই তৈরি হচ্ছে শত শত মণ ভেজাল গুড়।",
+        "lead_en": "Hundreds of mounds of adulterated date molasses are being made without any date juice at the start of winter in Charghat, Bagha and Puthia of Rajshahi.",
+        "bullets_bn": [
+          "অসাধু চক্র শীতের আগমনের শুরুতেই খেজুরের গুড় তৈরির প্রস্তুতি নিয়েছে।",
+          "উপাদান হিসেবে চিনিকলের চিটাগুড় ও অপরিশোধিত চিনি ব্যবহার করা হচ্ছে।",
+          "মিশ্রণে কাপড়ের রং, আটা, রাসায়নিক পদার্থ ও কৃত্রিম ফ্লেভার দেওয়া হচ্ছে।"
+        ],
+        "bullets_en": [
+          "A dishonest syndicate has become active at the beginning of winter to make date molasses.",
+          "Molasses from sugar mills and crude sugar are being used as ingredients.",
+          "Fabric dye, flour, chemicals and artificial flavor are being added to the mixture."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "শীতের আগমনের শুরুতেই যখন মানুষের আগ্রহ থাকে খেজুরের গুড়ের প্রতি, তখন অসাধু চক্র ভেষজ নির্যাসসহ নানা ক্ষতিকর উপাদান মিশিয়ে রাতারাতি শত শত মণ কৃত্রিম গুড় তৈরি করছে।",
+        "details_en": "When people's interest in date molasses begins with the arrival of winter, a dishonest syndicate makes hundreds of mounds of artificial molasses overnight by mixing various harmful ingredients including herbal extracts.",
+        "hook_bn": "চারঘাটে রস ছাড়াই তৈরি শত শত মণ গুড়",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": "বাজারে ভেজাল গুড় চেনার উপায় সম্পর্কে আপনার কী জানা আছে?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-27T23:01:58.714751+00:00"
+      }
+    },
+    {
+      "story_id": "7b23dc59-20c4-5bdf-b129-e50d20d4d9af",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1621091465602-0b72adb9c6ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFubmVkJTIwY2hoYXRyYSUyMGxlYWd1ZSUyMGhvbGRzJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1ODIwNTA1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-27T22:46:42+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5492,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1184445",
+          "title": "লক্ষ্মীপুরে ১৪ স্থানে নিষিদ্ধ ছাত্রলীগের মশাল মিছিল",
+          "snippet": "লক্ষ্মীপুরে ১৪ স্থানে নিষিদ্ধ ছাত্রলীগের মশাল মিছিল"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "লক্ষ্মীপুরে ১৪ স্থানে নিষিদ্ধ ছাত্রলীগের মশাল মিছিল",
+        "title_en": "Banned Chhatra League holds torch processions at 14 spots in Lakshmipur",
+        "summary_bn": "লক্ষ্মীপুরে নিষিদ্ধ সংগঠন ছাত্রলীগের নেতাকর্মীরা ১৪টি স্থানে মশাল জ্বালিয়ে মিছিল করেছেন।",
+        "summary_en": "Leaders and activists of the banned organization Chhatra League carried out torch processions at 14 locations in Lakshmipur.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T22:46:42+00:00",
+        "lead_bn": "লক্ষ্মীপুরে নিষিদ্ধ সংগঠন ছাত্রলীগের নেতাকর্মীরা ১৪টি স্থানে মশাল জ্বালিয়ে মিছিল করেছেন।",
+        "lead_en": "Leaders and activists of the banned organization Chhatra League carried out torch processions at 14 locations in Lakshmipur.",
+        "bullets_bn": [
+          "প্রত্যেকটি স্থানেই কার্যক্রম নিষিদ্ধ আওয়ামী লীগের ঘোষিত আট দফা দাবি বাস্তবায়নের দাবি জানানো হয়।",
+          "মিছিলগুলোতে অংশগ্রহণকারীরা নিষিদ্ধ ছাত্রলীগের পক্ষে নানা স্লোগান দেন।",
+          "ঘটনাটি লক্ষ্মীপুর জেলার বিভিন্ন স্থানে ঘটেছে।"
+        ],
+        "bullets_en": [
+          "At every location, demands were made to implement the eight-point demands announced by the banned Awami League.",
+          "Participants in the processions chanted various slogans in favor of the banned Chhatra League.",
+          "The incident took place at various places in Lakshmipur district."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "লক্ষ্মীপুরে ১৪ স্থানে নিষিদ্ধ ছাত্রলীগের মশাল মিছিল",
         "kicker_bn": null,
         "share_value": false,
         "question_bn": null
@@ -265,151 +199,78 @@
       "desk_importance": 6.0,
       "outlet_count": 1,
       "trending": false,
-      "social_appeal": 7.0,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T22:01:53.452582+00:00"
+        "checked_at": "2026-11-27T23:01:58.714751+00:00"
       }
     },
     {
-      "story_id": "66046174-eb92-561c-8ad9-c35f1af9c12b",
+      "story_id": "4e2a590f-fbe7-5a45-9ae6-7d080a1ec6e0",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
+        "world_diplomacy"
       ],
       "region": "international",
       "tags": [
-        "#USMilitary",
-        "#Iran",
-        "#StraitOfHormuz",
-        "#CENTCOM"
+        "#Venezuela",
+        "#JorgeRodriguez",
+        "#MariaCorinaMachado"
       ],
-      "image_url": "https://th-i.thgim.com/public/incoming/agf8dh/article71752222.ece/alternates/LANDSCAPE_1200/US%20Iran%20blockade.jpg",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b09e7e49444-1795811300.jpg?resize=1920%2C1440",
       "image_caption": null,
-      "published_at": "2026-11-27T19:35:02+00:00",
+      "published_at": "2026-11-27T20:44:03+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.1267,
+      "importance_score": 5.0,
+      "rank_score": 2.1902,
       "sources": [
         {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/us-military-says-it-disabled-commercial-ship-trying-to-run-iran-blockade/article71752214.ece",
-          "title": "U.S. disables ship trying to leave Iran, as Tehran vows to confront blockade",
-          "snippet": "U.S. disables ship trying to leave Iran, as Tehran vows to confront blockade"
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss",
+          "title": "Venezuela to repeal law that bans opposition figures from office",
+          "snippet": "Venezuela to repeal law that bans opposition figures from office"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মার্কিন সামরিক বাহিনী ইরানের বন্দর থেকে যাওয়া একটি বাণিজ্যিক জাহাজ অচল করে দিয়েছে।",
-        "title_en": "U.S. military disables a commercial ship trying to leave Iran.",
-        "summary_bn": "মার্কিন সামরিক বাহিনী ওমান উপসাগরে ইরানের বন্দর থেকে যাওয়া একটি পালাউ-পতাকাবাহী বাণিজ্যিক জাহাজের গতিশক্তি অচল করে দিয়েছে।",
-        "summary_en": "The U.S. military disabled a Palau-flagged commercial ship in the Gulf of Oman after it departed from an Iranian port.",
+        "title_bn": "ভেনিজুয়েলা বিরোধী দলের ওপর নিষেধাজ্ঞা সৃষ্টিকারী আইন বাতিল করছে",
+        "title_en": "Venezuela to repeal law that bans opposition figures from office",
+        "summary_bn": "ভেনিজুয়েলার ন্যাশনাল অ্যাসেম্বলির প্রধান হোর্হে রোদ্রিগেজ ঘোষণা করেছেন যে দেশটিতে বিরোধী নেতাদের রাজনৈতিক কার্যালয়ে নিষিদ্ধকারী আইন বাতিল করা হবে।",
+        "summary_en": "National Assembly Chief Jorge Rodriguez announced that Venezuela will repeal a law that prohibits opposition figures from office.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T19:35:02+00:00",
-        "lead_bn": "মার্কিন সামরিক বাহিনী ওমান উপসাগরে ইরানের বন্দর থেকে যাওয়া একটি পালাউ-পতাকাবাহী বাণিজ্যিক জাহাজের গতিশক্তি অচল করে দিয়েছে।",
-        "lead_en": "The U.S. military disabled a Palau-flagged commercial ship in the Gulf of Oman after it departed from an Iranian port.",
+        "published_at": "2026-11-27T20:44:03+00:00",
+        "lead_bn": "ভেনিজুয়েলার ন্যাশনাল অ্যাসেম্বলির প্রধান হোর্হে রোদ্রিগেজ ঘোষণা করেছেন যে দেশটিতে বিরোধী নেতাদের রাজনৈতিক কার্যালয়ে নিষিদ্ধকারী আইন বাতিল করা হবে।",
+        "lead_en": "National Assembly Chief Jorge Rodriguez announced that Venezuela will repeal a law that prohibits opposition figures from office.",
         "bullets_bn": [
-          "যুদ্ধবিমান থেকে সুনির্দিষ্ট লক্ষ্যবস্তু ভেদ করতে সক্ষম অস্ত্র দিয়ে জাহাজটির পেছনের অংশে আঘাত হানা হয়।",
-          "জাহাজটির বেসামরিক ক্রুরা অক্ষত রয়েছেন বলে মার্কিন সামরিক বাহিনী জানিয়েছে।",
-          "ইরানের সর্বোচ্চ নেতার এক উপদেষ্টা হরমুজ প্রণালী বন্ধ রাখার এবং নিষেধাজ্ঞা ভাঙার ঘোষণা দিয়েছেন।"
+          "২০২৪ সালে অনুমোদিত এই আইনটি এমন ব্যক্তিদের লক্ষ্য করে করা হয়েছিল যারা দেশের ওপর নিষেধাজ্ঞার পক্ষে প্রচার চালিয়েছিলেন।",
+          "হোর্হে রোদ্রিগেজ বলেন যে ওই আইনটি ভেনিজুয়েলার মধ্য দিয়ে যাওয়া একটি নির্দিষ্ট মুহূর্ত ও পরিস্থিতির জবাব ছিল।",
+          "মার্কিন বাহিনী জানুয়ারি মাসে নিকোলাস মাদুরোকে অপসারণ করার পর থেকে ডেলসি রোদ্রিগেজের নেতৃত্বাধীন অন্তর্বর্তীকালীন সরকার দেশ পরিচালনা করছে।"
         ],
         "bullets_en": [
-          "Military aircraft launched precision munitions that struck the stern of the ship.",
-          "The U.S. military stated that the civilian crew of the ship remained unharmed.",
-          "An adviser to Iran's Supreme Leader vowed to keep the Strait of Hormuz shut and break the embargo."
+          "The legislation approved in 2024 targeted those who promoted or supported sanctions against the country.",
+          "Jorge Rodriguez said that the law responded to a very specific moment in a particular situation Venezuela was going through.",
+          "An interim government headed by Delcy Rodriguez has run Venezuela since Maduro was abducted by US forces in January."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "হরমুজ প্রণালী কখনোই পুনরায় খোলা হবে না",
-        "kicker_bn": "সতর্কতা",
+        "hook_bn": "বিরোধী নেতাদের নিষিদ্ধের আইন বাতিল করবে ভেনিজুয়েলা",
+        "kicker_bn": null,
         "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T22:01:53.452582+00:00"
-      }
-    },
-    {
-      "story_id": "b1854c37-bbfc-58ad-82b1-fd61b2b42aac",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "international",
-      "tags": [
-        "#SpainElection",
-        "#PedroSanchez",
-        "#AlbertoNunezFeijoo"
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-27T21:55:53+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.4867,
-      "sources": [
-        {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
-          "title": "Spanish PM and rivals rally supporters in final pitch for votes",
-          "snippet": "Spanish PM and rivals rally supporters in final pitch for votes"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "স্পেনের প্রধান দলগুলোর নেতারা ভোটের আগে শেষ প্রচারণা চালিয়েছেন।",
-        "title_en": "Spain main party leaders held final rallies ahead of vote.",
-        "summary_bn": "স্পেনের প্রধান রাজনৈতিক দলগুলোর নেতারা ভোটের আগে তাদের শেষ প্রচারণা ও সমাবেশ সম্পন্ন করেছেন।",
-        "summary_en": "Main party leaders in Spain held their final rallies and campaigns ahead of the election.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T21:55:53+00:00",
-        "lead_bn": "স্পেনের প্রধান রাজনৈতিক দলগুলোর নেতারা ভোটের আগে তাদের শেষ প্রচারণা ও সমাবেশ সম্পন্ন করেছেন।",
-        "lead_en": "Main party leaders in Spain held their final rallies and campaigns ahead of the election.",
-        "bullets_bn": [
-          "সোশালিষ্ট প্রধানমন্ত্রী পেদ্রো সানচেস বলেছেন নির্বাচনে হেরে যাওয়ার কথা তিনি ভাবতেই পারেন না।",
-          "পিপলস পার্টির আলবার্তো নুনেজ ফেইহো ভোটারদের নতুন রাজনৈতিক যুগের প্রতিশ্রুতি দিয়েছেন।",
-          "প্রায় ৩ কোটি ৯০ লাখ মানুষ স্পেনের নির্বাচনে ভোট দেওয়ার অধিকার রাখেন।"
-        ],
-        "bullets_en": [
-          "Socialist Prime Minister Pedro Sanchez said he cannot imagine losing the election.",
-          "People Party leader Alberto Nunez Feijoo promised voters a new political era.",
-          "Almost 39 million people are eligible to vote in the Spanish election."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "পিপলস পার্টি জনমত জরিপে সামান্য এগিয়ে রয়েছে এবং শেষ প্রচারণায় তারা বার্সেলোনা ও সেভিলে ভ্রমণ করেছে। সোশালিষ্ট নেতা এমন এক বামপন্থী সরকারের নেতৃত্ব দিচ্ছেন যা ইউরোপের অন্যতম। প্রায় ৩ কোটি ৯০ লাখ ভোটার স্পেনের নির্বাচনে ভোট দেবেন এবং জরিপগুলোতে তীব্র প্রতিদ্বন্দ্বিতার ইঙ্গিত পাওয়া গেছে। স্পেনের নির্বাচনী আইন অনুযায়ী সোমাবারের পর কোনো জরিপ প্রকাশ করা হয়নি। পিপলস পার্টি জয়ী হলে ফার রাইট দল ভক্সের সমর্থন নিয়ে সরকার গঠন করতে পারে।",
-        "details_en": "The People Party is narrowly ahead in the polls and campaigned in Barcelona and Seville. The Socialist leader heads one of Europe left-wing governments. Almost 39 million people have a vote in Spain with polls suggesting a close finish, and no polls have been published since Monday under Spanish electoral law. A People Party government would be formed with the support of the anti-immigration party Vox.",
-        "hook_bn": "আই কান ইমাজিন আস লুজিং",
-        "kicker_bn": "নির্বাচন",
-        "share_value": false,
-        "question_bn": "স্পেনের এই নির্বাচন নিয়ে আপনার মতামত কী?"
+        "question_bn": "বিরোধী রাজনৈতিক নিষেধাজ্ঞা প্রত্যাহার করা হলে ভেনিজুয়েলার রাজনীতিতে কেমন প্রভাব পড়তে পারে বলে আপনার মনে হয়?"
       },
       "desk_importance": 5.0,
       "outlet_count": 1,
       "trending": false,
-      "social_appeal": 3.0,
+      "social_appeal": 4.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T22:01:53.452582+00:00"
+        "checked_at": "2026-11-27T23:01:58.714751+00:00"
       }
     }
   ]
