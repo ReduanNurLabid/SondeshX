@@ -1,443 +1,241 @@
 {
-  "updated_at": "2026-11-27T12:00:48.503099",
-  "total_stories": 6,
+  "updated_at": "2026-11-27T13:00:58.747974",
+  "total_stories": 3,
   "stories": [
     {
-      "story_id": "b64ba4b5-9576-5ed3-b9c5-68b4f0f54223",
+      "story_id": "34e03708-fd97-5ca8-ad24-e56a8187f842",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education",
-        "climate_environment",
-        "governance_law"
+        "economy_business",
+        "governance_law",
+        "tech_innovation"
       ],
       "region": "national",
       "tags": [
-        "#MeaslesOutbreak",
-        "#DhakaTribune",
-        "#TheBusinessStandard"
+        "#Cuet",
+        "#KaptaiRoad",
+        "#Chittagong"
       ],
-      "image_url": "https://images.unsplash.com/photo-1774977867305-f0d5580e4afc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bWVhc2xlcyUyMGRlYXRoJTIwdG9sbCUyMHJlYWNoZXMlMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NTc4MDg4NHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/27/135610_0.jpg",
       "image_caption": null,
-      "published_at": "2026-11-27T10:36:30+00:00",
+      "published_at": "2026-11-27T12:50:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.25,
-      "rank_score": 4.8442,
+      "importance_score": 7.75,
+      "rank_score": 5.9386,
       "sources": [
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/health/425904/measles-outbreak-death-toll-reaches-1-378-as",
-          "title": "Measles outbreak: Death toll reaches 1,378 as seven die in 24 hours",
-          "snippet": "Measles outbreak: Death toll reaches 1,378 as seven die in 24 hours"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/cuet-students-block-kaptai-road-over-prolonged-vc-appointment-crisis-teachers-plan-hold",
+          "title": "Cuet students block Kaptai Road over prolonged VC appointment crisis; teachers plan to hold silent march",
+          "snippet": "Cuet students block Kaptai Road over prolonged VC appointment crisis; teachers plan to hold silent march"
         },
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1378-7-more-children-die-1615721",
-          "title": "Measles death toll reaches 1,378 as 7 more children die",
-          "snippet": "Measles death toll reaches 1,378 as 7 more children die"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/campus1/425918/cuet-students-block-kaptai-road-over-vc",
+          "title": "CUET students block Kaptai Road over VC appointment dispute",
+          "snippet": "CUET students block Kaptai Road over VC appointment dispute"
+        },
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/rbpgiytgn0",
+          "title": "চট্টগ্রাম–কাপ্তাই সড়ক অবরোধ করে চুয়েট শিক্ষার্থীদের বিক্ষোভ",
+          "snippet": "চট্টগ্রাম–কাপ্তাই সড়ক অবরোধ করে চুয়েট শিক্ষার্থীদের বিক্ষোভ"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/campus/news/1184381",
+          "title": "চুয়েট সংকট নিরসনে কাপ্তাই সড়ক অবরোধ, আধা ঘণ্টা পর প্রত্যাহার",
+          "snippet": "চুয়েট সংকট নিরসনে কাপ্তাই সড়ক অবরোধ, আধা ঘণ্টা পর প্রত্যাহার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "খসড়া ডেঙ্গু বা হামের মৃত্যু বেড়ে ১,৩৭৮ জনে দাঁড়িয়েছে",
-        "title_en": "Measles death toll reaches 1,378 as fatalities increase",
-        "summary_bn": "সাতজন নতুন মৃত্যুর পর হামের প্রাদুর্ভাগে মোট মৃত্যুর সংখ্যা ১,৩৭৮ জনে পৌঁছেছে বলে জানিয়েছে সংবাদ মাধ্যম।",
-        "summary_en": "The measles death toll has reached 1,378 after seven more deaths were reported over a 24-hour period.",
+        "title_bn": "চুয়েট শিক্ষার্থীদের কাপ্তাই সড়ক অবরোধ ও ভিসি সংকটের প্রতিবাদ",
+        "title_en": "Cuet students block Kaptai Road over vice-chancellor appointment crisis",
+        "summary_bn": "চট্টগ্রাম প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়ের শিক্ষার্থীরা উপাচার্য নিয়োগ সংকটের স্থায়ী সমাধানের দাবিতে চট্টগ্রাম-কাপ্তাই আঞ্চলিক মহাসড়ক অবরোধ করে বিক্ষোভ করেছেন।",
+        "summary_en": "Students of Chittagong University of Engineering and Technology blocked the Chattogram-Kaptai regional highway demanding a permanent resolution to the vice-chancellor appointment crisis.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "society_education",
-          "climate_environment",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T10:36:30+00:00",
-        "lead_bn": "সাতজন নতুন মৃত্যুর পর হামের প্রাদুর্ভাগে মোট মৃত্যুর সংখ্যা ১,৩৭৮ জনে পৌঁছেছে বলে জানিয়েছে সংবাদ মাধ্যম।",
-        "lead_en": "The measles death toll has reached 1,378 after seven more deaths were reported over a 24-hour period.",
-        "bullets_bn": [
-          "চল্লিশ বা চব্বিশ ঘণ্টার নির্দিষ্ট সময়ে সাতজন শিশু মারা গেছে।",
-          "ঢাকা ও সিলেট বিভাগ প্রতিটি তিন নতুন মৃত্যুর কথা জানিয়েছে।",
-          "বিশ ঘণ্টার সময়কালে মোট ১,২৭৩টি নতুন হামের সন্দেহভাজন রোগী পাওয়া গেছে।"
-        ],
-        "bullets_en": [
-          "Seven more children died during the 24-hour reporting period.",
-          "Dhaka and Sylhet divisions each reported three of the newly suspected fatalities.",
-          "A total of 1,273 new suspected measles cases were reported during the 24-hour period."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ঢাকা ট্রিবিউন এবং দ্য বিজনেস স্ট্যান্ডার্ডের প্রতিবেদনা অনুযায়ী, হামের প্রাদুর্ভাগে এই নতুন মৃত্যুর খবরগুলো এসেছে। ঢাকা ও সিলেট বিভাগে এই মৃত্যুর ঘটনাগুলো ঘটেছে।",
-        "details_en": "According to reports by Dhaka Tribune and The Business Standard, the fatalities were recorded across Dhaka and Sylhet divisions during the recent 24-hour period.",
-        "hook_bn": "হামে মৃত্যু বেড়ে ১,৩৭৮ জন",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T12:01:42.209589+00:00"
-      }
-    },
-    {
-      "story_id": "cb322aff-1157-578a-a1df-9ab8c87c3127",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#SheikhHasina",
-        "#HumaiunKobir",
-        "#BangladeshIndia"
-      ],
-      "image_url": "https://th-i.thgim.com/public/incoming/w7833f/article71750269.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGN9GR0M1S.3.jpg.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-27T11:32:49+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.7675,
-      "sources": [
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/hasina-has-become-a-thorn-in-bangladesh-india-ties-minister-humaiun-kobir/article71750164.ece",
-          "title": "Hasina has become a ‘thorn’ in Bangladesh-India ties: Minister Humaiun Kobir",
-          "snippet": "Hasina has become a ‘thorn’ in Bangladesh-India ties: Minister Humaiun Kobir"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "শেখ হাসিনাকে নিয়ে ভারত-বাংলাদেশ সম্পর্কে টানাপোড়েন চলছে বলে মন্তব্য করেছেন হুমায়ুন কবির।",
-        "title_en": "Sheikh Hasina has become a thorn in Bangladesh-India relations, says Humaiun Kobir.",
-        "summary_bn": "বাংলাদেশের পররাষ্ট্র প্রতিমন্ত্রী হুমায়ুন কবির বলেছেন, ভারতের জন্য শেখ হাসিনা একটি কাঁটায় পরিণত হয়েছেন এবং তার উপস্থিতি দুই দেশের সম্পর্কে টানাপোড়েন সৃষ্টি করছে।",
-        "summary_en": "State Minister for Foreign Affairs Humaiun Kobir said Sheikh Hasina has become a thorn in Bangladesh-India relations, causing strain to bilateral ties.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T11:32:49+00:00",
-        "lead_bn": "বাংলাদেশের পররাষ্ট্র প্রতিমন্ত্রী হুমায়ুন কবির বলেছেন, ভারতের জন্য শেখ হাসিনা একটি কাঁটায় পরিণত হয়েছেন এবং তার উপস্থিতি দুই দেশের সম্পর্কে টানাপোড়েন সৃষ্টি করছে।",
-        "lead_en": "State Minister for Foreign Affairs Humaiun Kobir said Sheikh Hasina has become a thorn in Bangladesh-India relations, causing strain to bilateral ties.",
-        "bullets_bn": [
-          "হুমায়ুন কবির এক বক্তব্যে deposed প্রধানমন্ত্রীকে এমন একজন অনাহুত অতিথির সাথে তুলনা করেন যিনি হঠাৎ কারও বাড়িতে চলে আসেন।",
-          "তিনি বলেন, ভারত একটি কঠিন পরিস্থিতিতে রয়েছে কারণ তারা তাকে পাঠাতে পারছে না কিংবা তার উপস্থিতি এড়াতেও পারছে না।",
-          "পররাষ্ট্র মন্ত্রণালয়ে সাংবাদিকদের সাথে আলাপকালে তিনি জানান, ভারত বুঝতে পারছে যে এই উপস্থিতি সম্পর্কের জন্য একটি সমস্যা।"
-        ],
-        "bullets_en": [
-          "Mr. Kobir compared the deposed Prime Minister to an unwelcome guest who suddenly walks into someone’s home.",
-          "He stated that India was in a difficult position as it could neither send her away nor avoid dealing with her presence.",
-          "Speaking to reporters at the Foreign Ministry, he said India understands that this is a problem for the relationship."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ভারত সরকার শেখ হাসিনার আগামী ১৬ ডিসেম্বর বাংলাদেশে ফেরার পরিকল্পনার বিষয়ে কোনো মন্তব্য করা থেকে বিরত থাকার এক দিন পর পররাষ্ট্র প্রতিমন্ত্রী হুমায়ুন কবির এই মন্তব্য করেন।",
-        "details_en": "Mr. Kobir's remarks came a day after India refrained from commenting on Ms. Hasina’s plan to return to Bangladesh on December 16.",
-        "hook_bn": "শেখ হাসিনা বাংলাদেশ-ভারত সম্পর্কের কাঁটা",
-        "kicker_bn": "দ্বিপক্ষীয় সম্পর্ক",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T12:01:42.209589+00:00"
-      }
-    },
-    {
-      "story_id": "b53a8b1e-8c82-55ee-9e0d-913c785e9c1d",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://sarabangla.net/wp-content/uploads/2026/11/speaker-8.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-27T11:03:44+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.6359,
-      "sources": [
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/national/post-1226579/",
-          "title": "মিনার-ই-পাকিস্তান পরিদর্শন করলেন স্পিকার",
-          "snippet": "মিনার-ই-পাকিস্তান পরিদর্শন করলেন স্পিকার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মিনার-ই-পাকিস্তান পরিদর্শন করলেন জাতীয় সংসদের স্পিকার",
-        "title_en": "Speaker of National Parliament visits Minar-e-Pakistan",
-        "summary_bn": "পাকিস্তান সফره অংশ হিসেবে দেশটির লাহোরে অবস্থিত ঐতিহাসিক মিনার-ই-পাকিস্তান পরিদর্শন করেছেন জাতীয় সংসদের স্পিকার হাফিজ উদ্দিন আহমদ, বীর বিক্রম।",
-        "summary_en": "As part of his visit to Pakistan, National Parliament Speaker Hafiz Uddin Ahmed, Bir Bikrom, visited the historic Minar-e-Pakistan in Lahore.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T11:03:44+00:00",
-        "lead_bn": "পাকিস্তান সফره অংশ হিসেবে দেশটির লাহোরে অবস্থিত ঐতিহাসিক মিনার-ই-পাকিস্তান পরিদর্শন করেছেন জাতীয় সংসদের স্পিকার হাফিজ উদ্দিন আহমদ, বীর বিক্রম।",
-        "lead_en": "As part of his visit to Pakistan, National Parliament Speaker Hafiz Uddin Ahmed, Bir Bikrom, visited the historic Minar-e-Pakistan in Lahore.",
-        "bullets_bn": [
-          "স্পিকারের এই পরিদর্শনের তথ্য জানানো হয় ২৭ নভেম্বর",
-          "মিনার-ই-পাকিস্তান দেশটির স্বাধীনতা আন্দোলনের ইতিহাসের সঙ্গে জড়িত একটি গুরুত্বপূর্ণ স্মৃতিস্তম্ভ।",
-          "১৯৪০ সালের ২৩ মার্চ লাহোরে অল ইন্ডিয়া মুসলিম লীগের অধিবেশনে ঐতিহাসিক লাহোর প্রস্তাব গৃহীত হওয়ার স্মরণে এটি নির্মাণ করা হয়।"
-        ],
-        "bullets_en": [
-          "Information about the Speaker's visit was shared November 27.",
-          "Minar-e-Pakistan is an important monument connected to the history of the country's independence movement.",
-          "It was built to commemorate the adoption of the historic Lahore Resolution at the All-India Muslim League session in Lahore on March 23, 1940."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "পাকিস্তান সফরের অংশ হিসেবে লাহোরে এই পরিদর্শনটি পরিচালিত হয়। মিনার-ই-পাকিস্তান ১৯৪০ সালের ২৩ মার্চ লাহোরে অল ইন্ডিয়া মুসলিম লীগের অধিবেশনে ঐতিহাসিক লাহোর প্রস্তাব গৃহীত হওয়ার স্মরণে নির্মিত হয় এবং এটি দেশটির স্বাধীনতা আন্দোলনের ইতিহাসের সঙ্গে জড়িত একটি গুরুত্বপূর্ণ স্মৃতিস্তম্ভ।",
-        "details_en": "This visit took place in Lahore as part of the Pakistan tour. Minar-e-Pakistan was built to commemorate the historic Lahore Resolution adopted at the All-India Muslim League session in Lahore on March 23, 1940, and is an important monument connected to the history of the country's independence movement.",
-        "hook_bn": "লাহোরে মিনার-ই-পাকিস্তান পরিদর্শন করলেন স্পিকার",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T12:01:42.209589+00:00"
-      }
-    },
-    {
-      "story_id": "f787715b-76c3-53aa-b3b9-3fb9a21ae76c",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Rajshahi",
-        "#AwamiLeague",
-        "#PoliceArrest"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/09/27/image-428779-1790493006.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-27T11:10:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.7181,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/crime/rmp-arrests-11-raids-over-banned-al-procession-sabotage-case-1615836",
-          "title": "RMP arrests 11 in raids over banned AL procession, sabotage case",
-          "snippet": "RMP arrests 11 in raids over banned AL procession, sabotage case"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/425908/three-awami-league-leaders-arrested-in-captal",
-          "title": "Three Awami League leaders arrested in captal",
-          "snippet": "Three Awami League leaders arrested in captal"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রাজশাহীতে নিষিদ্ধ আ.লীগের মিছিল ও নাশকতা মামলায় ১১ জন গ্রেফতার",
-        "title_en": "RMP arrests 11 in raids over banned AL procession, sabotage case",
-        "summary_bn": "নিষিদ্ধ ঘোষিত আওয়ামী লীগের মিছিল ও নাশকতা মামলার অভিযোগে রাজশাহী মহানগরীতে অভিযান চালিয়ে ১১ জনকে গ্রেফতার করেছে রাজশাহী মেট্রোপলিটন পুলিশ।",
-        "summary_en": "Rajshahi Metropolitan Police arrested 11 people in raids across the city over a banned Awami League procession and sabotage case.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T11:10:00+00:00",
-        "lead_bn": "নিষিদ্ধ ঘোষিত আওয়ামী লীগের মিছিল ও নাশকতা মামলার অভিযোগে রাজশাহী মহানগরীতে অভিযান চালিয়ে ১১ জনকে গ্রেফতার করেছে রাজশাহী মেট্রোপলিটন পুলিশ।",
-        "lead_en": "Rajshahi Metropolitan Police arrested 11 people in raids across the city over a banned Awami League procession and sabotage case.",
-        "bullets_bn": [
-          "মহানগরীর বিভিন্ন এলাকায় গত ২৬ নভেম্বর রাতে গোয়েন্দা শাখা, স্পেশাল রিজার্ভ ইউনিট ও থানা পুলিশ অভিযান চালিয়ে এই গ্রেফতার করে।",
-          "গ্রেফতারকৃতদের মধ্যে রয়েছেন মো. মাসুদ, মুসা আহমেদ খান মন্তু, আলহাজ মোড রেজাউল ইসলাম এবং মো. ইকবাল হোসেন।",
-          "প্রাথমিক জিজ্ঞাসাবাদের পর গ্রেফতারকৃতদের বিরুদ্ধে পরবর্তী আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া চলমান রয়েছে বলে পুলিশ জানিয়েছে।"
-        ],
-        "bullets_en": [
-          "Teams from the Detective Branch, Special Reserve Unit, and police stations conducted separate raids across the city on 26 November.",
-          "The arrestees include Md Masud, Musa Ahmad Khan Montu, Alhaj Md Rezaul Islam, and Md Iqbal Hossain.",
-          "Police said further legal action against the arrestees was under way after initial questioning."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "রাজপাড়া থানাধীন লক্ষ্মীপুর এলাকায় নিষিদ্ধ ঘোষিত আওয়ামী লীগের ব্যানারে একটি মিছিল অনুষ্ঠিত হওয়ার ঘটনায় সন্ত্রাসবিরোধী আইনে মামলাটি দায়ের করা হয়। মামলার ধারাগুলোর মধ্যে রয়েছে ৬(২), ১০, ১১, ১২, ১৩ এবং ২০।",
-        "details_en": "The case was filed under the Anti-Terrorism Act at Rajpara Police Station over a procession held under the banner of the activities-banned Awami League in the Lakshmipur area.",
-        "hook_bn": "রাজশাহীতে নিষিদ্ধ আ.লীগের মিছিল ও নাশকতা মামলায় গ্রেফতার ১১",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T12:01:42.209589+00:00"
-      }
-    },
-    {
-      "story_id": "4dc09df3-868c-5047-8b0d-d33bb7b92547",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#ArifulHaqueChoudhury",
-        "#Malaysia",
-        "#ExpatriateWorkers"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/02/17/untitled_design_10.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-27T11:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.6824,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/agencies-may-lose-licences-sending-unfit-workers-abroad-minister-1615826",
-          "title": "Agencies may lose licences for sending unfit workers abroad: Minister",
-          "snippet": "Agencies may lose licences for sending unfit workers abroad: Minister"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823272/%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%85%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%AE-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87-%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%9F%E0%A6%BF%E0%A6%82-%E0%A6%8F%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A6%BF%E0%A6%B0",
-          "title": "কর্মী পাঠাতে অনিয়ম করলে রিক্রুটিং এজেন্সির লাইসেন্স বাতিল",
-          "snippet": "কর্মী পাঠাতে অনিয়ম করলে রিক্রুটিং এজেন্সির লাইসেন্স বাতিল"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "স্বাস্থ্য পরীক্ষায় অনিয়ম করলে রিক্রুটিং এজেন্সির লাইসেন্স বাতিল হতে পারে",
-        "title_en": "Agencies may lose licences for sending unfit workers abroad",
-        "summary_bn": "স্বাস্থ্য পরীক্ষায় অনুপযুক্ত কর্মীকে উপযুক্ত দেখিয়ে বিদেশে পাঠানোর প্রমাণ মিললে সংশ্লিষ্ট রিক্রুটিং এজেন্সির লাইসেন্স বাতিল হতে পারে বলে জানিয়েছেন শ্রম ও কর্মসংস্থানমন্ত্রী আরিফুল হক চৌধুরী।",
-        "summary_en": "Licences of recruiting agencies found falsely declaring medically unfit workers fit for overseas jobs may be cancelled, said Labour and Employment Minister Ariful Haque Choudhury.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
           "economy_business",
-          "society_education"
+          "governance_law",
+          "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T11:00:00+00:00",
-        "lead_bn": "স্বাস্থ্য পরীক্ষায় অনুপযুক্ত কর্মীকে উপযুক্ত দেখিয়ে বিদেশে পাঠানোর প্রমাণ মিললে সংশ্লিষ্ট রিক্রুটিং এজেন্সির লাইসেন্স বাতিল হতে পারে বলে জানিয়েছেন শ্রম ও কর্মসংস্থানমন্ত্রী আরিফুল হক চৌধুরী।",
-        "lead_en": "Licences of recruiting agencies found falsely declaring medically unfit workers fit for overseas jobs may be cancelled, said Labour and Employment Minister Ariful Haque Choudhury.",
+        "published_at": "2026-11-27T12:50:00+00:00",
+        "lead_bn": "চট্টগ্রাম প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়ের শিক্ষার্থীরা উপাচার্য নিয়োগ সংকটের স্থায়ী সমাধানের দাবিতে চট্টগ্রাম-কাপ্তাই আঞ্চলিক মহাসড়ক অবরোধ করে বিক্ষোভ করেছেন।",
+        "lead_en": "Students of Chittagong University of Engineering and Technology blocked the Chattogram-Kaptai regional highway demanding a permanent resolution to the vice-chancellor appointment crisis.",
         "bullets_bn": [
-          "জিরো-কস্ট রিক্রুটমেন্ট ব্যবস্থার মাধ্যমে ১১২ জন কর্মী ২৬ নভেম্বর ডিএইচএল-এ যোগ দিতে মালয়েশিয়ায় গেছেন।",
-          "প্রবাসীদের আইনি সহায়তা দিতে সরকার একটি ল ফার্ম গঠনের কাজ করছে।",
-          "মৃত্যুবরণকারী প্রবাসীদের পরিবারের জন্য বিএমইটি কার্ড থাকা বা না থাকা নির্বিশেষে ৩৫,০০০ টাকা আর্থিক সহায়তা দেওয়া হচ্ছে।"
+          "চুয়েট শিক্ষক সমিতি ২৯ নভেম্বর প্রশাসনিক ভবন-২ এর সামনে একটি নীরব মিছিল করার ঘোষণা দিয়েছে।",
+          "শিক্ষক সমিতি বিশ্ববিদ্যালয়ের নিজস্ব অনুষদ থেকে একজন যোগ্য ইঞ্জিনিয়ারিং অ্যাকাডেমিককে উপাচার্য হিসেবে নিয়োগের দাবি জানিয়েছে।",
+          "শিক্ষার্থীরা গত ২৬ নভেম্বর থেকে বিশ্ববিদ্যালয়ে সম্পূর্ণ শাটডাউন কর্মসূচি পালন করছেন।"
         ],
         "bullets_en": [
-          "One hundred and twelve workers travelled to Malaysia on 26 November to join DHL through a zero-cost recruitment arrangement.",
-          "The government is working to establish a law firm to provide legal assistance to Bangladeshis living abroad.",
-          "Families of deceased expatriate workers are being given Tk35,000 in financial assistance regardless of having a BMET card."
+          "The Cuet Teachers Association announced plans to hold a silent procession in front of Administrative Building 2 on 29 November.",
+          "The teachers association demanded the appointment of a qualified engineering academic from the university's own faculty as vice-chancellor.",
+          "Students have been enforcing a complete shutdown at the university since 26 November."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "অনিয়ম করলে রিক্রুটিং এজেন্সির লাইসেন্স বাতিল",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": "বিদেশে কর্মী পাঠানোর প্রক্রিয়ায় স্বচ্ছতা নিশ্চিত করতে আর কী কী পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
+        "impact_bn": "অবরোধের কারণে মহাসড়কে তীব্র যানজট সৃষ্টি হয় এবং যাত্রীরা সড়কের উভয় পাশে আটকা পড়েন।",
+        "impact_en": "The blockade triggered severe traffic congestion, leaving commuters stranded on both sides of the road.",
+        "details_bn": "উপাচার্য নিয়োগের দাবিতে দুই মাসেরও বেশি সময় ধরে আন্দোলন চললেও কোনো কার্যকর উদ্যোগ নেওয়া হয়নি বলে শিক্ষার্থীরা অভিযোগ করেছেন। শিক্ষক সমিতির নির্বাহী কমিটির জরুরি সভায় সিদ্ধান্ত হয় যে তারা জনদুর্ভোগ সৃষ্টি করে এমন কর্মসূচিকে সমর্থন করবেন না এবং শিক্ষার্থীরা সব ব্যাচের একাডেমিক ও প্রশাসনিক কার্যক্রম স্থগিত রেখেছেন।",
+        "details_en": "Students alleged that no effective initiative has been taken to resolve the crisis despite more than two months of protests. The teachers association decided not to support programmes causing public suffering, while students suspended all academic and administrative activities.",
+        "hook_bn": "ভিসি সংকট নিরসনে কাপ্তাই সড়ক অবরোধ",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": "বিশ্ববিদ্যালয়ের উপাচার্য নিয়োগ সংকট নিরসনে শিক্ষার্থীদের এই আন্দোলন সম্পর্কে আপনার মতামত কী?"
       },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
+      "desk_importance": 7.0,
+      "outlet_count": 4,
       "trending": false,
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T12:01:42.209589+00:00"
+        "checked_at": "2026-11-27T13:02:11.183831+00:00"
       }
     },
     {
-      "story_id": "1e788a73-b40a-5b88-88b9-e75146cbb040",
+      "story_id": "d8f8903a-1e35-5fa9-baec-5f9e741e6e2e",
       "primary_category": "society_education",
       "interest_categories": [
-        "society_education",
-        "governance_law"
+        "society_education"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
         "#NationalAffairs"
       ],
-      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/chuet-20261127175108.jpg?cid=501286",
+      "image_url": "https://media.channelionline.com/2026/11/Measles1.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-11-27T11:51:08+00:00",
+      "published_at": "2026-11-27T12:02:17+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.565,
+      "importance_score": 7.25,
+      "rank_score": 4.9637,
       "sources": [
         {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/national/501286",
-          "title": "চুয়েট সংকট নিরসনে প্রধানমন্ত্রীর হস্তক্ষেপ চেয়ে সড়ক অবরোধ",
-          "snippet": "চুয়েট সংকট নিরসনে প্রধানমন্ত্রীর হস্তক্ষেপ চেয়ে সড়ক অবরোধ"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/7-more-deaths-linked-measles-symptoms-1351-hospitalized/",
+          "title": "হাম উপসর্গে আরও ৭ জনের মৃত্যু, হাসপাতালে ভর্তি ১৩৫১",
+          "snippet": "হাম উপসর্গে আরও ৭ জনের মৃত্যু, হাসপাতালে ভর্তি ১৩৫১"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/health/news/1184384",
+          "title": "হাম উপসর্গে একদিনে ৭ জনের মৃত্যু",
+          "snippet": "হাম উপসর্গে একদিনে ৭ জনের মৃত্যু"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চুয়েট সংকট নিরসনে প্রধানমন্ত্রীর হস্তক্ষেপ চেয়ে সড়ক অবরোধ করেছেন শিক্ষার্থীরা",
-        "title_en": "CUET students block road demanding Prime Minister intervention to resolve crisis",
-        "summary_bn": "চট্টগ্রাম প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়ের শিক্ষার্থীরা চলমান সংকট নিরসনে প্রধানমন্ত্রীর সরাসরি হস্তক্ষেপ কামনা করে চট্টগ্রাম-কাপ্তাই সড়ক অবরোধ করেছেন।",
-        "summary_en": "Students of Chittagong University of Engineering and Technology blocked the Chattogram-Kaptai road demanding direct Prime Minister intervention to resolve the ongoing crisis.",
+        "title_bn": "হামের উপসর্গ নিয়ে ২৪ ঘণ্টায় আরও সাতজনের মৃত্যু হয়েছে।",
+        "title_en": "Seven more people died from measles symptoms in twenty-four hours.",
+        "summary_bn": "স্বাস্থ্য অধিদপ্তরের বুলেটিন অনুযায়ী, হামের উপসর্গ নিয়ে ২৪ ঘণ্টায় আরও সাতজনের মৃত্যু হয়েছে এবং এক হাজার ৩৫১ জন হাসপাতালে ভর্তি হয়েছেন।",
+        "summary_en": "According to the Directorate General of Health Services bulletin, seven more people died from measles symptoms and 1,351 were hospitalized in twenty-four hours.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
-          "governance_law"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T11:51:08+00:00",
-        "lead_bn": "চট্টগ্রাম প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়ের শিক্ষার্থীরা চলমান সংকট নিরসনে প্রধানমন্ত্রীর সরাসরি হস্তক্ষেপ কামনা করে চট্টগ্রাম-কাপ্তাই সড়ক অবরোধ করেছেন।",
-        "lead_en": "Students of Chittagong University of Engineering and Technology blocked the Chattogram-Kaptai road demanding direct Prime Minister intervention to resolve the ongoing crisis.",
+        "published_at": "2026-11-27T12:02:17+00:00",
+        "lead_bn": "স্বাস্থ্য অধিদপ্তরের বুলেটিন অনুযায়ী, হামের উপসর্গ নিয়ে ২৪ ঘণ্টায় আরও সাতজনের মৃত্যু হয়েছে এবং এক হাজার ৩৫১ জন হাসপাতালে ভর্তি হয়েছেন।",
+        "lead_en": "According to the Directorate General of Health Services bulletin, seven more people died from measles symptoms and 1,351 were hospitalized in twenty-four hours.",
         "bullets_bn": [
-          "শিক্ষার্থীরা বিকেল সোয়া ৪টার দিকে সড়ক অবরোধ করেন এবং জনদুর্ভোগের কথা বিবেচনায় নিয়ে প্রায় আধা ঘণ্টা পর অবরোধ তুলে নেন।",
-          "অবরোধের পর শিক্ষার্থীরা বিশ্ববিদ্যালয়ের মূল ফটक থেকে একটি বিক্ষোভ মিছিল বের করেন যা শিক্ষকদের আবাসিক এলাকায় গিয়ে শেষ হয়।",
-          "সংকটের সমাধান না হওয়ায় শিক্ষার্থীরা আবারও কমপ্লিট শাটডাউনের ঘোষণা দেন এবং থেকে কার্যক্রম বন্ধ রয়েছে।"
+          "চলتبর্ষের ১৫ মার্চ থেকে এ পর্যন্ত হাম ও হামের উপসর্গে মোট মৃত্যুর সংখ্যা এক হাজার ৩৭৮ জনে দাঁড়িয়েছে।",
+          "গত ২৪ ঘণ্টায় নিশ্চিত হামে কারও মৃত্যু হয়নি এবং নতুন করে এক হাজার ২৭৩ জন সন্দেহভাজন হাম রোগী শনাক্ত হয়েছেন।",
+          "১৫ মার্চ থেকে ২৭ নভেম্বর পর্যন্ত হামের উপসর্গ নিয়ে দুই লাখ ৩৫ হাজার ৪৮২ জন হাসপাতালে ভর্তি হয়েছেন।"
         ],
         "bullets_en": [
-          "Students blocked the road at around 4:15 pm on Friday and withdrew the blockade after about half an hour considering public suffering.",
-          "Following the blockade, students brought out a protest procession from the university main gate which ended at the teachers residential area.",
-          "As the crisis remained unresolved, students announced another complete shutdown on Wednesday night and activities have been halted since Thursday."
+          "Total deaths from measles and its symptoms reached 1,378 from March 15 to this year.",
+          "No one died from confirmed measles in the past twenty-four hours, and 1,273 new suspected measles patients were identified.",
+          "From March 15 to November 27, 235,482 people were hospitalized with measles symptoms."
         ],
-        "impact_bn": "চট্টগ্রাম-কাপ্তাই সড়ক অবরোধের ফলে জনদুর্ভোগের সৃষ্টি হয়।",
-        "impact_en": "The blockade of the Chattogram-Kaptai road caused public suffering.",
-        "details_bn": "উপাচার্য পরিবর্তনকে কেন্দ্র করে গত ২১ সেপ্টেম্বর থেকে চুয়েটে অচলাবস্থার শুরু হয়। টানা ৩৬ দিন বন্ধ থাকার পর গত ২৮ অক্টোবর ক্লাস শুরু হলেও সংকটের সমাধান হয়নি। শিক্ষার্থীদের অভিযোগ, বর্তমান উপাচার্য ড. শেখ শরীফুল আলমকে অপসারণ এবং সাবেক উপাচার্য ড. আবু সাদাত মোহাম্মদ সায়েমকে পুনর্বহালের দাবি সরকার আমলে নিচ্ছে না। এ ছাড়া গবেষণা তহবিল বন্ধ থাকায় বিশ্ববিদ্যালয়ের গবেষণা কার্যক্রম ব্যাহত হচ্ছে এবং এসব সংকট নিরসনে বর্তমান উপাচার্যকে সরিয়ে নতুন উপাচার্য নিয়োগের দাবি জানিয়েছেন তারা।",
-        "details_en": "An impasse began at CUET from September 21 centring the change of vice-chancellor. Classes resumed on October 28 after being closed for 36 consecutive days, but the crisis was not resolved. Students allege the government is not taking into account the demand to remove current vice-chancellor Dr. Sheikh Shariful Alam and reinstate former vice-chancellor Dr. Abu Sadat Mohammad Sayem. Besides, research activities are hampered due to suspended research funds, and they demanded removing the current vice-chancellor and appointing a new one to resolve these crises.",
-        "hook_bn": "চুয়েটে সংকট নিরসনে প্রধানমন্ত্রীর হস্তক্ষেপ চেয়ে সড়ক অবরোধ",
-        "kicker_bn": "সড়ক অবরোধ",
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "স্বাস্থ্য অধিদপ্তরের হামসংক্রান্ত নিয়মিত বুলেটিনে জানানো হয়, গত ১৫ মার্চ থেকে এ পর্যন্ত নিশ্চিত হামে ১০৬ জন এবং হামের উপসর্গ নিয়ে এক হাজার ২৭২ জনের মৃত্যু হয়েছে। একই সময়ে নিশ্চিত হাম রোগীর সংখ্যা বেড়ে ২৬ হাজার ৫৫৪ জনে দাঁড়িয়েছে এবং দুই লাখ ২৬ হাজার ৪৪০ জন সুস্থ হয়ে হাসপাতাল ছেড়েছেন।",
+        "details_en": "The Directorate General of Health Services regular measles bulletin stated that from March 15 to date, 106 people died from confirmed measles and 1,272 from measles symptoms. Over the same period, confirmed measles cases rose to 26,554 and 226,440 people recovered and left hospitals.",
+        "hook_bn": "হামের উপসর্গ নিয়ে একদিনে মৃত ৭",
+        "kicker_bn": "সতর্কতা",
         "share_value": false,
-        "question_bn": "চুয়েটের চলমান সংকট নিরসনে আপনার মতামত কী?"
+        "question_bn": null
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-27T13:02:11.183831+00:00"
+      }
+    },
+    {
+      "story_id": "b02068a5-1de5-5c57-93bd-75eaaf0f09f8",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law",
+        "society_education"
+      ],
+      "region": "international",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1614982488537-c817e24a94ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YXJyZXN0ZWQlMjBhdHRhY2slMjBuY3AlMjBhZnRlciUyMGRpcGxvbWFjeXxlbnwxfDB8fHwxNzk1Nzg0NTMxfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-27T12:48:19+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5536,
+      "sources": [
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/823289/%E0%A6%B2%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%A8%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A6-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A7%E0%A6%A8%E0%A6%BE-%E0%A6%B6%E0%A7%87%E0%A6%B7%E0%A7%87-%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0",
+          "title": "লন্ডনে নাহিদ ইসলামের সংবর্ধনা শেষে এনসিপির ওপর হামলায় গ্রেপ্তার ছয়জন",
+          "snippet": "লন্ডনে নাহিদ ইসলামের সংবর্ধনা শেষে এনসিপির ওপর হামলায় গ্রেপ্তার ছয়জন"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "লন্ডনে এনসিপির সংবর্ধনা শেষে হামলার ঘটনায় ছয়জন গ্রেপ্তার",
+        "title_en": "Six arrested over attack on NCP after Nahid Islam reception in London",
+        "summary_bn": "যুক্তরাজ্যের পূর্ব লন্ডনে জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলামের সংবর্ধনা শেষে হামলার ঘটনায় ছয়জনকে গ্রেপ্তার করেছে লন্ডন মেট্রোপলিটন পুলিশ।",
+        "summary_en": "London Metropolitan Police arrested six people over an attack following a National Citizen Party reception in East London.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T12:48:19+00:00",
+        "lead_bn": "যুক্তরাজ্যের পূর্ব লন্ডনে জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলামের সংবর্ধনা শেষে হামলার ঘটনায় ছয়জনকে গ্রেপ্তার করেছে লন্ডন মেট্রোপলিটন পুলিশ।",
+        "lead_en": "London Metropolitan Police arrested six people over an attack following a National Citizen Party reception in East London.",
+        "bullets_bn": [
+          "যুক্তরাজ্যের পূর্ব লন্ডনে জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলামের সংবর্ধনা অনুষ্ঠান শেষ হওয়ার পর এই হামলার ঘটনা ঘটে।",
+          "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতাকর্মীদের হামলার ঘটনায় ছয়জনকে গ্রেপ্তার করা হয়েছে বলে জানানো হয়।",
+          "অধিকতর তদন্ত চলাকালে গ্রেপ্তার হওয়া ছয়জনকেই জামিনে মুক্তি দেওয়া হয়েছে।"
+        ],
+        "bullets_en": [
+          "The attack occurred after a reception for National Citizen Party convener Nahid Islam in East London, United Kingdom.",
+          "Six people were arrested in connection with the attack carried out by activists of the banned Awami League.",
+          "All six arrested individuals were released on bail while further investigations are ongoing."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "যুক্তরাজ্যের পূর্ব লন্ডনে জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলামের সংবর্ধনা অনুষ্ঠান শেষে দলটির নেতাকর্মীদের ওপর কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতাকর্মীদের হামলার ঘটনা ঘটে। এই ঘটনায় গত ২৪ থেকে ২৬ নভেম্বর ছয়জনকে গ্রেপ্তার করে লন্ডন মেট্রোপলিটন পুলিশ। অধিকতর তদন্ত চলাকালে তাদের জামিনে মুক্তি দেওয়া হলেও তাদের নাম ও রাজনৈতিক পরিচয় জানানো হয়নি।",
+        "details_en": "Following a reception for National Citizen Party convener Nahid Islam in East London, activists of the banned Awami League attacked party members. The London Metropolitan Police arrested six individuals between November 24 and 26 in connection with the incident. All six were released on bail during ongoing investigations, while their names and political identities were not disclosed.",
+        "hook_bn": "লন্ডনে এনসিপির সংবর্ধনা শেষে হামলা, গ্রেপ্তার ছয়",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
       },
       "desk_importance": 6.0,
       "outlet_count": 1,
       "trending": false,
-      "social_appeal": 7.0,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T12:01:42.209589+00:00"
+        "checked_at": "2026-11-27T13:02:11.183831+00:00"
       }
     }
   ]
