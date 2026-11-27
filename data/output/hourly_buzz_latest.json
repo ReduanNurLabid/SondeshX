@@ -1,223 +1,302 @@
 {
-  "updated_at": "2026-11-27T02:00:40.861848",
-  "total_stories": 3,
+  "updated_at": "2026-11-27T03:00:46.902892",
+  "total_stories": 4,
   "stories": [
     {
-      "story_id": "89598b5a-1212-5623-8b32-4e32c633118c",
-      "primary_category": "economy_business",
+      "story_id": "4efb1d8f-09dc-5f4b-b589-bbea338fca1b",
+      "primary_category": "climate_environment",
       "interest_categories": [
+        "climate_environment",
         "economy_business",
-        "world_diplomacy"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#Climate",
+        "#Environment"
       ],
-      "image_url": "https://static.dw.com/image/80062726_6.jpg",
+      "image_url": "https://images.unsplash.com/photo-1720348463647-2b0e943dad2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bmludGglMjBmaW5hbCUyMHNoaXBtZW50JTIwbnVjbGVhciUyMGVudmlyb25tZW50fGVufDF8MHx8fDE3OTU3NDg0OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-26T14:32:00+00:00",
+      "published_at": "2026-11-27T02:52:21+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 9.5,
-      "rank_score": 4.6483,
+      "importance_score": 7.25,
+      "rank_score": 5.2104,
       "sources": [
         {
-          "name": "DW বাংলা",
-          "url": "https://www.dw.com/bn/ন্যূনতম-মজুরি-বৃদ্ধির-ঘোষণার-পরও-থামছে-না-পোশাক-শ্রমিকদের-বিক্ষোভ/a-80064289?maca=ben-rss-ben-all-3197-rdf",
-          "title": "ন্যূনতম মজুরি বৃদ্ধির ঘোষণার পরও থামছে না পোশাক শ্রমিকদের বিক্ষোভ",
-          "snippet": "ন্যূনতম মজুরি বৃদ্ধির ঘোষণার পরও থামছে না পোশাক শ্রমিকদের বিক্ষোভ"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/823207/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%81%E0%A6%9B%E0%A6%BE%E0%A6%B2-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%A3%E0%A6%AC%E0%A6%BF%E0%A6%95-%E0%A6%9C%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%AE-%E0%A6%93-%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A8",
+          "title": "রূপপুরে পৌঁছাল পারমাণবিক জ্বালানির নবম ও শেষ চালান",
+          "snippet": "রূপপুরে পৌঁছাল পারমাণবিক জ্বালানির নবম ও শেষ চালান"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1184213",
+          "title": "রূপপুরে পৌঁছাল ইউরেনিয়ামের শেষ চালান",
+          "snippet": "রূপপুরে পৌঁছাল ইউরেনিয়ামের শেষ চালান"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ন্যূনতম মজুরি বৃদ্ধির ঘোষণার পরও গাজীপুরে পোশাক শ্রমিকদের বিক্ষোভ অব্যাহত রয়েছে",
-        "title_en": "Garment workers continue protests in Gazipur despite announcement of minimum wage increase",
-        "summary_bn": "পোশাক শ্রমিকদের মাসিক ন্যূনতম মজুরি ১৭ হাজার টাকা করার সিদ্ধান্ত নেওয়ার পরও গাজীপুরে শ্রমিকদের বিক্ষোভ ও পুলিশের সঙ্গে সংঘর্ষ হয়েছে।",
-        "summary_en": "Garment workers have staged protests and clashed with police in Gazipur despite the decision to raise the monthly minimum wage to 17,000 taka.",
+        "title_bn": "রূপপুরে পৌঁছাল পারমাণবিক জ্বালানির নবম ও শেষ চালান",
+        "title_en": "Ninth and final shipment of nuclear fuel reaches Rooppur",
+        "summary_bn": "দেশের প্রথম পারমাণবিক বিদ্যুৎকেন্দ্র রূপপুরের জন্য রাশিয়া থেকে আমদানি করা ইউরেনিয়ামের নবম ও শেষ চালান প্রকল্প এলাকায় পৌঁছেছে।",
+        "summary_en": "The ninth and final shipment of uranium imported from Russia for the Rooppur nuclear power plant has arrived.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "climate_environment",
           "economy_business",
-          "world_diplomacy"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-26T14:32:00+00:00",
-        "lead_bn": "পোশাক শ্রমিকদের মাসিক ন্যূনতম মজুরি ১৭ হাজার টাকা করার সিদ্ধান্ত নেওয়ার পরও গাজীপুরে শ্রমিকদের বিক্ষোভ ও পুলিশের সঙ্গে সংঘর্ষ হয়েছে।",
-        "lead_en": "Garment workers have staged protests and clashed with police in Gazipur despite the decision to raise the monthly minimum wage to 17,000 taka.",
+        "published_at": "2026-11-27T02:52:21+00:00",
+        "lead_bn": "দেশের প্রথম পারমাণবিক বিদ্যুৎকেন্দ্র রূপপুরের জন্য রাশিয়া থেকে আমদানি করা ইউরেনিয়ামের নবম ও শেষ চালান প্রকল্প এলাকায় পৌঁছেছে।",
+        "lead_en": "The ninth and final shipment of uranium imported from Russia for the Rooppur nuclear power plant has arrived.",
         "bullets_bn": [
-          "মজুরি বোর্ডের ছয় সদস্যের প্যানেল মাসিক ন্যূনতম মজুরি ১২ হাজার ৫০০ টাকা থেকে বাড়িয়ে ১৭ হাজার টাকা নির্ধারণ করেছে।",
-          "পুলিশের বিশেষ শিল্প ইউনিটের প্রধান ইসরাইল হাওলাদার জানান যে পরিস্থিতি এখন নিয়ন্ত্রণে রয়েছে এবং নারায়ণগঞ্জে কারখানাগুলো চালু আছে।",
-          "শ্রম প্রতিমন্ত্রী আরিফুল হক চৌধুরী শ্রমিকদের শিল্প খাতকে এগিয়ে নিয়ে যাওয়ার আহ্বান জানিয়েছেন।"
+          "২৭ নভেম্বর ভোর ৫টা ৪৮ মিনিটে ইউরেনিয়ামবাহী তিনটি বিশেষায়িত লরি রূপপুর প্রকল্প এলাকায় প্রবেশ করে।",
+          "সেনাবাহিনীর তত্ত্বাবধানে ও আইনশৃঙ্খলা রক্ষাকারী বাহিনীর কঠোর নিরাপত্তার মধ্য দিয়ে লরিগুলো প্রকল্প এলাকায় প্রবেশ করে।",
+          "এর মধ্য দিয়ে কেন্দ্রটির দুটি ইউনিটের জন্য নির্ধারিত পারমাণবিক জ্বালানি আমদানির প্রক্রিয়া শেষ হলো।"
         ],
         "bullets_en": [
-          "A six-member panel of the wage board decided to raise the monthly minimum wage from 12,500 taka to 17,000 taka.",
-          "Police special industrial unit chief Israil Hawlader stated that the situation is now under control and factories in Narayanganj are operational.",
-          "State Minister for Labour Arifuzzaman Chowdhury called upon workers to help advance the industrial sector."
+          "Three specialized lorries carrying uranium entered the Rooppur project area at 5:48 am November 27.",
+          "The lorries entered the project area under the supervision of the army and strict security of law enforcement agencies.",
+          "This concludes the process of importing nuclear fuel designated for the two units of the plant."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "খাদ্য, বাসস্থান, পরিবহন ও স্বাস্থ্যসেবার ব্যয় বৃদ্ধির সঙ্গে নতুন ন্যূনতম মজুরি সঙ্গতিপূর্ণ না হওয়ায় শ্রমিকরা বিক্ষোভ করছেন। ১৯৮৬ সালে পোশাক শিল্প খাতে প্রথম ন্যূনতম মজুরি নির্ধারণের পর থেকে এবারের ৩৬ শতাংশ বৃদ্ধির সিদ্ধান্তটি শতাংশের দিক থেকে সবচেয়ে কম। এর আগে ২০১৩ সালে ৭৭ শতাংশ, ২০১৮ সালে ৫১ শতাংশ এবং ২০২৩ সালে ৫৬ শতাংশ মজুরি বাড়ানো হয়েছিল। নতুন মজুরি ঘোষণার পর গাজীপুরে মহাসড়ক অবরোধ করলে পুলিশ কাঁদানে গ্যাস ও সাউন্ড গ্রেনেড ছুড়ে শ্রমিকদের ছত্রভঙ্গ করে।",
-        "details_en": "Workers are protesting as the new minimum wage is not commensurate with the increased costs of food, housing, transport, and healthcare. The 36 percent increase is the lowest in percentage terms since minimum wages were first set in the garment sector in 1986, following increases of 77 percent in 2013, 51 percent in 2018, and 56 percent in 2023. Following the wage announcement, police used tear gas and sound grenades to disperse workers who blocked a highway in Gazipur.",
-        "hook_bn": "গাজীপুরে মহাসড়ক অবরোধ ও পুলিশের সঙ্গে সংঘর্ষ",
-        "kicker_bn": "সতর্কতা",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "রূপপুরে পৌঁছাল ইউরেনিয়ামের শেষ চালান",
+        "kicker_bn": "ব্রেকিং",
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 9.0,
-      "outlet_count": 1,
-      "trending": true,
-      "social_appeal": 10.0,
+      "desk_importance": 7.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T02:01:41.389066+00:00"
+        "checked_at": "2026-11-27T03:01:55.990106+00:00"
       }
     },
     {
-      "story_id": "9f7f51c9-d6dd-58b1-a075-8f2762479bec",
-      "primary_category": "tech_innovation",
+      "story_id": "4f988567-2d0d-5104-b3ae-e9fe0c4d2244",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "tech_innovation",
         "governance_law",
-        "world_diplomacy",
         "society_education"
       ],
       "region": "national",
       "tags": [
-        "#AFP",
-        "#Cyberattack",
-        "#France",
-        "#FIFA"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08c392-1795736466.jpg?resize=1920%2C1440",
+      "image_url": "https://images.unsplash.com/photo-1639736921908-4fc1e56370ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YXdhbWklMjBsZWFndWUlMjBjYXJyaWVkJTIwb3V0JTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1NzQ4NDk4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-27T01:07:44+00:00",
+      "published_at": "2026-11-27T02:27:32+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.4194,
+      "importance_score": 7.0,
+      "rank_score": 4.7426,
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
-          "title": "Global news agency AFP reports cyberattack, shuts down content platform",
-          "snippet": "Global news agency AFP reports cyberattack, shuts down content platform"
-        },
-        {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/law-courts/news/1184203",
-          "title": "সাবেক ওসি অপূর্ব হাসান ও তার স্ত্রীর সম্পদ জব্দের নির্দেশ",
-          "snippet": "সাবেক ওসি অপূর্ব হাসান ও তার স্ত্রীর সম্পদ জব্দের নির্দেশ"
+          "url": "https://www.jagonews24.com/national/news/1184209",
+          "title": "গোপালগঞ্জে কোথায় কোথায় হামলা-ভাঙচুর, কত কোটি টাকার ক্ষতি",
+          "snippet": "গোপালগঞ্জে কোথায় কোথায় হামলা-ভাঙচুর, কত কোটি টাকার ক্ষতি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সাইবার হামলার মুখে কনটেন্ট প্ল্যাটফর্ম বন্ধ রাখল এএফপি",
-        "title_en": "AFP shuts down content platform following a cyberattack",
-        "summary_bn": "আন্তর্জাতিক বার্তা সংস্থা এজেন্স ফ্রান্স-প্রেস সাইবার হামলার শিকার হওয়ার পর তাদের এএফপি ফোরাম প্ল্যাটফর্মটি বন্ধ রেখেছে।",
-        "summary_en": "International news agency Agence France-Presse has taken its AFP Forum platform offline after being hit by a cyberattack.",
+        "title_bn": "গোপালগঞ্জে আওয়ামী লীগের ধারাবাহিক হামলা, ভাঙচুর ও অগ্নিসংযোগ হয়েছে",
+        "title_en": "Awami League carried out continuous attacks, vandalism and arson in Gopalganj",
+        "summary_bn": "গোপালগঞ্জে ১০ থেকে ২৫ নভেম্বর আওয়ামী লীগের ধারাবাহিক হামলা, ভাঙচুর ও অগ্নিসংযোগে বাড়িঘর ও সরকারি স্থাপনা ক্ষতিগ্রস্ত হয়েছে।",
+        "summary_en": "Houses and government establishments were damaged in continuous attacks, vandalism and arson by Awami League in Gopalganj from 10 to 25 November.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "tech_innovation",
           "governance_law",
-          "world_diplomacy",
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T01:07:44+00:00",
-        "lead_bn": "আন্তর্জাতিক বার্তা সংস্থা এজেন্স ফ্রান্স-প্রেস সাইবার হামলার শিকার হওয়ার পর তাদের এএফপি ফোরাম প্ল্যাটফর্মটি বন্ধ রেখেছে।",
-        "lead_en": "International news agency Agence France-Presse has taken its AFP Forum platform offline after being hit by a cyberattack.",
+        "published_at": "2026-11-27T02:27:32+00:00",
+        "lead_bn": "গোপালগঞ্জে ১০ থেকে ২৫ নভেম্বর আওয়ামী লীগের ধারাবাহিক হামলা, ভাঙচুর ও অগ্নিসংযোগে বাড়িঘর ও সরকারি স্থাপনা ক্ষতিগ্রস্ত হয়েছে।",
+        "lead_en": "Houses and government establishments were damaged in continuous attacks, vandalism and arson by Awami League in Gopalganj from 10 to 25 November.",
         "bullets_bn": [
-          "হামলাটি প্যারিস সময় রাত ১টা ৩০ মিনিটে শুরু হয় এবং এর লক্ষ্য ছিল এএফপি ফোরাম প্ল্যাটফর্ম।",
-          "ফ্রান্সের সাইবার নিরাপত্তা প্রধান ভিনসেন্ট স্ট্রুবেল দেশটিতে নজিরবিহীন সাইবার হুমকির কথা জানিয়েছেন।",
-          "পোর্টালটি অফলাইন থাকা অবস্থায় সাবস্ক্রাইবারদের ব্যাকআপ সমাধান দেওয়া হচ্ছে বলে জানানো হয়েছে।"
+          "হামলা ও ভাঙচুরের ঘটনায় বাড়িঘর ও ব্যবসা প্রতিষ্ঠান ক্ষতিগ্রস্ত হয়েছে।",
+          "হামলার শিকার স্থানের মধ্যে এমপিদের বাসভবন, থানা ও হাসপাতাল রয়েছে।",
+          "সরকারি স্থাপনাতেও হামলা, ভাঙচুর ও অগ্নিসংযোগের ঘটনা ঘটেছে।"
         ],
         "bullets_en": [
-          "The attack started at 1:30 am Paris time and targeted the AFP Forum platform.",
-          "France cyber security chief Vincent Strubel warned of an unprecedented level of threats in the country.",
-          "Backup solutions are reportedly being offered to subscribers while the portal remains offline."
+          "Houses and business establishments were damaged in the attacks and vandalism.",
+          "The targeted locations include MPs residences, police stations and hospitals.",
+          "Government establishments also faced attacks, vandalism and arson."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ফ্রান্সের বার্তা সংস্থা এএফপি জানিয়েছে, ক্লায়েন্টদের কন্টেন্ট ব্রাউজ ও ডাউনলোডের মাধ্যম এএফপি ফোরামে এই অনুপ্রবেশ ঘটে। অনুপ্রবেশ শনাক্ত হওয়ার সঙ্গে সঙ্গে নিরাপত্তা দলগুলো তা প্রতিহত করতে কাজ শুরু করে এবং সতর্কতামূলক ব্যবস্থা হিসেবে প্ল্যাটফর্মটি অফলাইনে নেয়। এদিকে সুইজারল্যান্ডের জুরিখে অবস্থিত ফিফাও সাইবার হামলার শিকার হয়েছে এবং অননুমোদিত প্রবেশাধিকারের বিষয়টি নিশ্চিত করেছে।",
-        "details_en": "Management at the France-based international news agency stated that the intrusion targeted AFP Forum, which clients use to browse and download content. Teams moved to contain the intrusion and took the platform offline as a precautionary measure. Meanwhile, Zurich-based FIFA also confirmed that it was the victim of a cyberattack giving unauthorised access to information.",
-        "hook_bn": "নজিরবিহীন সাইবার হুমকির মুখে এএফপির প্ল্যাটফর্ম",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T02:01:41.389066+00:00"
-      }
-    },
-    {
-      "story_id": "d969795e-cd33-5d67-9f83-67ec8d6b0ad4",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#SheikhHasina",
-        "#Bangladesh",
-        "#AwamiLeague"
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fe82/live/56152150-e9af-11f1-a094-5fdc692f3e33.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-27T00:47:43+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.5,
-      "rank_score": 5.2408,
-      "sources": [
-        {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
-          "title": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
-          "snippet": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "শেখ হাসিনা ১৬ ডিসেম্বর বাংলাদেশে ফেরার পরিকল্পনা ঘোষণা করেছেন",
-        "title_en": "Sheikh Hasina plans to return to Bangladesh on 16 December",
-        "summary_bn": "বহিষ্কৃত সাবেক প্রধানমন্ত্রী শেখ হাসিনা ১৬ ডিসেম্বর দেশে ফেরার পরিকল্পনা ঘোষণা করেছেন এবং দিল্লি থেকে বাংলাদেশ সরকারের কাছে একটি বিমান ব্যবস্থার অনুরোধ জানিয়েছেন।",
-        "summary_en": "Ousted former prime minister Sheikh Hasina has announced plans to return to the country on 16 December and wants the Bangladesh government to arrange a flight from Delhi.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T00:47:43+00:00",
-        "lead_bn": "বহিষ্কৃত সাবেক প্রধানমন্ত্রী শেখ হাসিনা ১৬ ডিসেম্বর দেশে ফেরার পরিকল্পনা ঘোষণা করেছেন এবং দিল্লি থেকে বাংলাদেশ সরকারের কাছে একটি বিমান ব্যবস্থার অনুরোধ জানিয়েছেন।",
-        "lead_en": "Ousted former prime minister Sheikh Hasina has announced plans to return to the country on 16 December and wants the Bangladesh government to arrange a flight from Delhi.",
-        "bullets_bn": [
-          "শেখ হাসিনার মুখপাত্র জানান তিনি বাংলাদেশের ১৯৭১ সালের মুক্তিযুদ্ধে পাকিস্তানের বিরুদ্ধে বিজয়ের বার্ষিকীতে ফিরতে চান।",
-          "আবু ওবায়দা আরিন বিবিসিকে জানান যে তিনি এমনকি হেঁটে বাংলাদেশে প্রবেশ করতে প্রস্তুত আছেন।",
-          "বাংলাদেশ সরকার জানিয়েছে তিনি ফিরলে তাকে তাৎক্ষণিকভাবে গ্রেপ্তার করা হবে এবং মৃত্যুদণ্ড কার্যকর করা হবে।"
-        ],
-        "bullets_en": [
-          "Her spokesperson stated she plans to go back on Victory Day, the anniversary of Bangladesh's triumph over Pakistan in the 1971 liberation war.",
-          "Abu Obaidha Arin told the BBC that she is even prepared to walk into Bangladesh.",
-          "The government stated she would be arrested immediately if she returned and has promised to carry out the death sentence."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "৭৯ বছর বয়সী শেখ হাসিনা ছাত্র-নেতৃত্বাধীন অভ্যুত্থানে ১৫ বছরের শাসনের অবসান ঘটার পর ২০২৪ সালের আগস্টে দিল্লিতে পালিয়ে যান। মানবাধিকার লঙ্ঘনের দায়ে অনুপস্থিতিতে বিচারে তাকে মৃত্যুদণ্ড দেওয়া হয় এবং তার দল আওয়ামী লীগকে নিষিদ্ধ করা হয়েছে। জাতিসংঘের মতে নিরাপত্তা বাহিনীর হাতে এই অভ্যুত্থানে প্রায় ১,৪০০ মানুষ নিহত হয়েছেন।",
-        "details_en": "Hasina, 79, fled to Delhi in August 2024 after a student-led uprising ended her 15-year rule. She was sentenced to death after being convicted of crimes against humanity in a trial held in her absence, and her Awami League party is banned. The UN says as many as 1,400 people were killed by security forces during the uprising.",
-        "hook_bn": "তিনি এমনকি হেঁটে বাংলাদেশে প্রবেশ করতে প্রস্তুত আছেন",
-        "kicker_bn": "নতুন তারিখ",
+        "details_bn": "১০ থেকে ২৫ নভেম্বর সময়কালে গোপালগঞ্জে বিভিন্ন স্থানে হামলা, ভাঙচুর ও অগ্নিসংযোগের ঘটনা ঘটে। এর ফলে বাড়িঘর, ব্যবসা প্রতিষ্ঠান, এমপিদের বাসভবন, থানা, হাসপাতাল এবং সরকারি স্থাপনায় ব্যাপক ক্ষয়ক্ষতি হয়েছে। প্রতিবেদনে কোন উপজেলায় কোথায় হামলা এবং কত টাকার ক্ষতি হয়েছে তার বিস্তারিত তুলে ধরা হয়েছে।",
+        "details_en": "Incidents of attacks, vandalism and arson took place at various places in Gopalganj between 10 and 25 November. This caused extensive damage to houses, business establishments, MPs residences, police stations, hospitals and government establishments. The report details where attacks took place in each upazila and the extent of financial loss.",
+        "hook_bn": "গোপালগঞ্জে ব্যাপক হামলা ভাঙচুর অগ্নিসংযোগ",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 7.0,
       "outlet_count": 1,
-      "trending": true,
-      "social_appeal": 8.0,
+      "trending": false,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T02:01:41.389066+00:00"
+        "checked_at": "2026-11-27T03:01:55.990106+00:00"
+      }
+    },
+    {
+      "story_id": "df7189c3-4a50-50de-992a-6479505d2f0f",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1528162841823-9e55a8cc2f58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmZmJTIwbW92ZXMlMjBkb21lc3RpYyUyMGxlYWd1ZSUyMHNwb3J0c3xlbnwxfDB8fHwxNzk1NzQ4NTA0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-27T02:53:06+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5712,
+      "sources": [
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/823208/%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%98%E0%A6%B0%E0%A7%8B%E0%A7%9F%E0%A6%BE-%E0%A6%B2%E0%A6%BF%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9A-%E0%A6%B8%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B2%E0%A7%8B-%E0%A6%AC%E0%A6%BE%E0%A6%AB%E0%A7%81%E0%A6%AB%E0%A7%87",
+          "title": "গোপালগঞ্জ থেকে ঘরোয়া লিগের ম্যাচ সরিয়ে নিলো বাফুফে",
+          "snippet": "গোপালগঞ্জ থেকে ঘরোয়া লিগের ম্যাচ সরিয়ে নিলো বাফুফে"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আইনশৃঙ্খলা উদ্বেগের কারণে গোপালগঞ্জ থেকে ঘরোয়া লিগের ম্যাচ সরিয়ে নিলো বাফুফে।",
+        "title_en": "BFF moves domestic league matches from Gopalganj over law and order concerns.",
+        "summary_bn": "আইনশৃঙ্খলা পরিস্থিতির উদ্বেগের মধ্যে বাংলাদেশ ফুটবল ফেডারেশন গোপালগঞ্জ থেকে ঘরোয়া ফুটবল লিগের ম্যাচ সরিয়ে নিয়েছে।",
+        "summary_en": "Bangladesh football federation moved domestic football league matches from Gopalganj amid law and order concerns.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T02:53:06+00:00",
+        "lead_bn": "আইনশৃঙ্খলা পরিস্থিতির উদ্বেগের মধ্যে বাংলাদেশ ফুটবল ফেডারেশন গোপালগঞ্জ থেকে ঘরোয়া ফুটবল লিগের ম্যাচ সরিয়ে নিয়েছে।",
+        "lead_en": "Bangladesh football federation moved domestic football league matches from Gopalganj amid law and order concerns.",
+        "bullets_bn": [
+          "প্রথম লেগের বাকি ম্যাচগুলো আর গোপালগঞ্জে আয়োজন করা হবে না।",
+          "বাফুফের লিগ কমিটির জরুরি সভায় এ সিদ্ধান্ত নেওয়া হয়েছে।",
+          "ভেন্যু পরিবর্তনের সিদ্ধান্তে নতুন করে ভাবতে হচ্ছে হোম দল ব্রাদার্স ইউনিয়ন ও আরামবাগ ক্রীড়া সংঘকে।"
+        ],
+        "bullets_en": [
+          "The remaining matches of the first leg will no longer be held in Gopalganj.",
+          "The decision was taken in an emergency meeting of the BFF league committee.",
+          "The venue change forces home teams Brothers Union and Arambagh Krira Sangha to rethink."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "আইনশৃঙ্খলা পরিস্থিতি নিয়ে উদ্বেগের মধ্যে বাংলাদেশ ফুটবল ফেডারেশন গোপালগঞ্জ থেকে ঘরোয়া ফুটবল লিগের ম্যাচ সরিয়ে নেওয়ার সিদ্ধান্ত নিয়েছে। প্রথম লেগের বাকি ম্যাচগুলো আর গোপালগঞ্জে আয়োজন করা হবে না। ভেন্যু পরিবর্তনের সিদ্ধান্তে নতুন করে ভাবতে হচ্ছে হোম দল ব্রাদার্স ইউনিয়ন ও আরামবাগ ক্রীড়া সংঘকে। বাফুফের লিগ কমিটির জরুরি সভায় এ সিদ্ধান্ত নেওয়া হয়েছে এবং কমিটির ডেপুটি চেয়ারম্যান জাকির হোসেন।",
+        "details_en": "Amid concerns over the law and order situation, the Bangladesh Football Federation decided to shift domestic football league matches from Gopalganj. The remaining matches of the first leg will not be held in Gopalganj anymore. The venue change forces home teams Brothers Union and Arambagh Krira Sangha to rethink. This decision was made in an emergency meeting of the BFF league committee, with committee deputy chairman Zakir Hossain.",
+        "hook_bn": "গোপালগঞ্জ থেকে ঘরোয়া লিগের ম্যাচ সরিয়ে নিলো বাফুফে",
+        "kicker_bn": "ভোট বা ভেন্যু পরিবর্তন",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-27T03:01:55.990106+00:00"
+      }
+    },
+    {
+      "story_id": "45329a05-2fc3-5313-bd48-fd060e497c8d",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#USStorm",
+        "#Thanksgiving",
+        "#FlightDelays"
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-27T00:52:11+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.5,
+      "rank_score": 2.671,
+      "sources": [
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+          "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+          "snippet": "Major Thanksgiving storm brings flooding, flight delays across US"
+        },
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/major-storm-batters-us-on-thanksgiving-holiday-400-flights-cancelled/article71749233.ece",
+          "title": "Major storm batters U.S. on Thanksgiving holiday; 400 flights cancelled",
+          "snippet": "Major storm batters U.S. on Thanksgiving holiday; 400 flights cancelled"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/823210/%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87-%E0%A6%9D%E0%A7%9C%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A7%AE-%E0%A6%B2%E0%A6%BE%E0%A6%96%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%BF",
+          "title": "যুক্তরাষ্ট্রে ঝড়ে বিদ্যুৎবিচ্ছিন্ন ৮ লাখের বেশি গ্রাহক, বাতিল ৪০০ ফ্লাইট",
+          "snippet": "যুক্তরাষ্ট্রে ঝড়ে বিদ্যুৎবিচ্ছিন্ন ৮ লাখের বেশি গ্রাহক, বাতিল ৪০০ ফ্লাইট"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যুক্তরাষ্ট্রে শক্তিশালী ঝড়ে ফ্লাইট বাতিল ও বিদ্যুৎবিচ্ছিন্ন লাখ লাখ গ্রাহক",
+        "title_en": "Major storm in US causes flight cancellations and widespread power outages",
+        "summary_bn": "যুক্তরাষ্ট্রে থ্যাংকসগিভিং দিবসে শক্তিশালী ঝড়ের কারণে চারশোর বেশি ফ্লাইট বাতিল এবং প্রায় দশ লাখ গ্রাহক বিদ্যুৎহীন হয়ে পড়েছেন।",
+        "summary_en": "A massive storm hitting the US on Thanksgiving has caused over 400 flight cancellations and left nearly one million households without power.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T00:52:11+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রে থ্যাংকসগিভিং দিবসে শক্তিশালী ঝড়ের কারণে চারশোর বেশি ফ্লাইট বাতিল এবং প্রায় দশ লাখ গ্রাহক বিদ্যুৎহীন হয়ে পড়েছেন।",
+        "lead_en": "A massive storm hitting the US on Thanksgiving has caused over 400 flight cancellations and left nearly one million households without power.",
+        "bullets_bn": [
+          "নিউ জার্সি ও নিউ ইয়র্ক সিটিতে জরুরি অবস্থা ঘোষণা করা হয়েছে।",
+          "ফ্লাইটঅ্যাওয়ারের তথ্য অনুযায়ী দেশজুড়ে দুই হাজার দুশোটির বেশি ফ্লাইট বিলম্বিত হয়েছে।",
+          "নিউ ইয়র্ক সিটিতে ম্যাসির থ্যাংকসগিভিং প্যারেড পর্যন্ত স্থগিত করা হয়েছে।"
+        ],
+        "bullets_en": [
+          "States of emergency have been declared in New Jersey and New York City.",
+          "Tracking site FlightAware reported more than 2,200 delayed flights across the country.",
+          "The annual Macy Thanksgiving parade in New York City was postponed to Saturday."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "যুক্তরাষ্ট্রে ঝড়ে বিদ্যুৎবিচ্ছিন্ন লাখ লাখ গ্রাহক",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 3,
+      "trending": true,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-27T03:01:55.990106+00:00"
       }
     }
   ]
