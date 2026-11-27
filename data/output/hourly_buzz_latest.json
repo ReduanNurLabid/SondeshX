@@ -1,291 +1,135 @@
 {
-  "updated_at": "2026-11-27T07:00:47.154296",
-  "total_stories": 6,
+  "updated_at": "2026-11-27T08:00:47.833527",
+  "total_stories": 4,
   "stories": [
     {
-      "story_id": "0673cf3b-e7af-5138-bf6d-5e1ed0810ece",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Wari",
-        "#DhakaMedicalCollegeHospital",
-        "#BangladeshPolice"
-      ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/21/dead_2.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-27T05:40:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.5275,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/hotel-manager-stabbed-death-two-others-injured-wari-1615561",
-          "title": "Hotel manager stabbed to death, two others injured in Wari",
-          "snippet": "Hotel manager stabbed to death, two others injured in Wari"
-        },
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/crime/obrojxnprr",
-          "title": "গভীর রাতে ঢাকার আবাসিক হোটেলে ঢুকে এলোপাতাড়ি ছুরিকাঘাত, ব্যবস্থাপক নিহত, আহত ২",
-          "snippet": "গভীর রাতে ঢাকার আবাসিক হোটেলে ঢুকে এলোপাতাড়ি ছুরিকাঘাত, ব্যবস্থাপক নিহত, আহত ২"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823232/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%95-%E0%A6%B9%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%A2%E0%A7%81%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%AA%E0%A6%95%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A7%81%E0%A6%AA%E0%A6%BF%E0%A7%9F%E0%A7%87",
-          "title": "রাজধানীতে আবাসিক হোটেলে ঢুকে ব্যবস্থাপককে কুপিয়ে হত্যা, আহত ২",
-          "snippet": "রাজধানীতে আবাসিক হোটেলে ঢুকে ব্যবস্থাপককে কুপিয়ে হত্যা, আহত ২"
-        },
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/national/501234",
-          "title": "ওয়ারীতে আবাসিক হোটেলে ঢুকে ম্যানেজারকে কুপিয়ে হত্যা",
-          "snippet": "ওয়ারীতে আবাসিক হোটেলে ঢুকে ম্যানেজারকে কুপিয়ে হত্যা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ওয়ারীতে আবাসিক হোটেলে ম্যানেজারকে কুপিয়ে হত্যা, আহত ২",
-        "title_en": "Hotel manager killed and two injured in Wari attack",
-        "summary_bn": "ঢাকার ওয়ারীর একটি আবাসিক হোটেলে দুই ব্যক্তির হামলায় এক ব্যবস্থাপক নিহত এবং আরও দুজন আহত হয়েছেন।",
-        "summary_en": "A hotel manager was killed and two others were injured in an attack by two men at a Wari residential hotel in Dhaka.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T05:40:00+00:00",
-        "lead_bn": "ঢাকার ওয়ারীর একটি আবাসিক হোটেলে দুই ব্যক্তির হামলায় এক ব্যবস্থাপক নিহত এবং আরও দুজন আহত হয়েছেন।",
-        "lead_en": "A hotel manager was killed and two others were injured in an attack by two men at a Wari residential hotel in Dhaka.",
-        "bullets_bn": [
-          "নিহত নাঈমুর রহমানের বয়স ২৬ বছর এবং আহত দুজন হলেন মহাব্যবস্থাপক আব্দুর রাজ্জাক ও কর্মী মো. হাসান।",
-          "ওয়ারী থানার উপপরিদর্শক মো. আলম মিয়া জানান, হামলাকারীরা দেশীয় অস্ত্র নিয়ে হোটেলে ঢুকে এলোপাতাড়ি কুপিয়েছিল।",
-          "প্রাথমিক তথ্য অনুযায়ী একজন মুরগি ব্যবসায়ী ও তাঁর ছেলে এই হামলা চালিয়েছেন বলে জানিয়েছে পুলিশ।"
-        ],
-        "bullets_en": [
-          "The deceased Naimur Rahman was 26 years old, while the injured are general manager Abdur Razzaque and staff member Md Hasan.",
-          "Wari Police Station Sub-Inspector Md Alam Mia stated that the attackers entered the hotel with locally made weapons and indiscriminately hacked the victims.",
-          "Preliminary information suggests that a poultry trader and his son carried out the attack, according to police."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "২৭ নভেম্বর ভোরে ওয়ারীর জয়কালী মন্দিরের পাশের ওসমানী ইন্টারন্যাশনাল আবাসিক হোটেলে এই হামলার ঘটনা ঘটে। রাত ২টার দিকে দুই ব্যক্তি হোটেলে ঢুকে নাঈমুর রহমানকে এলোপাতাড়ি কুপিয়ে জখম করেন। তাঁর চিৎকার শুনে মহাব্যবস্থাপক আব্দুর রাজ্জাক ও কর্মী হাসান এগিয়ে গেলে তাঁদেরও কুপিয়ে জখম করা হয়। পরে ভোর ৪টার দিকে ঢাকা মেডিকেল কলেজ হাসপাতালের জরুরি বিভাগে নেওয়া হলে চিকিৎসকরা নাঈমুরকে মৃত ঘোষণা করেন। আব্দুর রাজ্জাকের পিঠে এবং হাসানের পেটে আঘাত রয়েছে। হামলার উদ্দেশ্য এখনো নিশ্চিত নয় এবং পুলিশ বিষয়টি তদন্ত করছে।",
-        "details_en": "The attack took place in the early hours of 27 November at the Osmani International Residential Hotel beside Joykali Temple in Wari. Around 2am, two men entered the hotel and indiscriminately hacked Naimur Rahman. When general manager Abdur Razzaque and staff member Hasan rushed to his screams, they were also hacked and injured. The three injured men were taken to the emergency department of Dhaka Medical College Hospital around 4am, where doctors declared Naimur dead. Abdur Razzaque sustained serious injuries to his back and Hasan suffered a stab wound to his abdomen. The motive remains unconfirmed and police are investigating.",
-        "hook_bn": "ওয়ারীতে আবাসিক হোটেলে ম্যানেজারকে কুপিয়ে হত্যা",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 4,
-      "trending": true,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T07:02:34.747040+00:00"
-      }
-    },
-    {
-      "story_id": "1b67ce52-a923-5cc4-94f1-7ef0c34976f7",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#BGMEA",
-        "#Savar",
-        "#Ashulia",
-        "#RMG"
-      ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/merged/merged_47faac2e2f3024e172a0bd93b36287c3.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-27T07:00:56.068236+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5959,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/128-rmg-factories-operate-on-weekly-holiday-to-offset-losses",
-          "title": "128 RMG factories work on weekly holiday to offset losses",
-          "snippet": "128 RMG factories work on weekly holiday to offset losses"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সাভার ও আশুলিয়ায় ক্ষতি পুষিয়ে নিতে ১২৮টি পোশাক কারখানা সচল রয়েছে।",
-        "title_en": "One hundred twenty-eight RMG factories operate on holiday to offset losses in Savar and Ashulia.",
-        "summary_bn": "ক্ষতি পুষিয়ে নিতে সাভার ও আশুলিয়া শিল্পাঞ্চলের অন্তত ১২৮টি পোশাক কারখানা সাপ্তাহিক ছুটির দিনে চালু রাখা হয়েছে।",
-        "summary_en": "At least 128 readymade garment factories in Savar and Ashulia operated on a weekly holiday to make up for losses.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T07:00:56.068236+00:00",
-        "lead_bn": "ক্ষতি পুষিয়ে নিতে সাভার ও আশুলিয়া শিল্পাঞ্চলের অন্তত ১২৮টি পোশাক কারখানা সাপ্তাহিক ছুটির দিনে চালু রাখা হয়েছে।",
-        "lead_en": "At least 128 readymade garment factories in Savar and Ashulia operated on a weekly holiday to make up for losses.",
-        "bullets_bn": [
-          "শ্রম অসন্তোষের কারণে উৎপাদন স্থগিত বা ব্যাহত হওয়ার পর কারখানাগুলো চালু রাখা হয়।",
-          "শিল্প পুলিশ-১ (আশুলিয়া) এর পুলিশ সুপার মোহাম্মদ মমিনুল ইসলাম ভূঁইয়া জানান, শ্রমিকেরা শান্তিপূর্ণভাবে কাজে যোগ দিয়েছেন।",
-          "আন্তর্জাতিক ক্রেতাদের নির্ধারিত চালানের সময়মতো সম্পন্ন করতে কারখানা কর্তৃপক্ষ ছুটির দিনে কাজ করার সিদ্ধান্ত নেয়।"
-        ],
-        "bullets_en": [
-          "The factories operated on Friday following production suspensions or disruptions caused by labour unrest.",
-          "Superintendent of Industrial Police-1 (Ashulia) Mohammad Mominul Islam Bhuiyan stated that workers reported for duty peacefully.",
-          "Factory authorities decided to work on the holiday to ensure timely completion of scheduled shipments to international buyers."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "মজুরি বোর্ডের ভোটাভুটির মাধ্যমে নিম্নতম মাসিক মজুরি ১৭,০০০ টাকা নির্ধারণ এবং গ্রেড চার থেকে একে বেতন ৪,৫০০ টাকা থেকে ৬,৪৬৫ টাকা বাড়ানোর পরও পর্যন্ত অসন্তোষ অব্যাহত ছিল। বিজিএমইএ-র তথ্য অনুযায়ী, ৩৬০টি কারখানা বন্ধ ছিল, যার মধ্যে ১৪৭টি কাজ নাই মজুরি নাই নীতিতে এবং ২২৩টি ঘোষিত ছুটির কারণে বন্ধ ছিল। এছাড়া বিজিএমইএ দাবি করেছে, ১ থেকে ১৮ নভেম্বর পর্যন্ত ৩১৭টি surveyed কারখানায় ৪২৮ মিলিয়ন ডলারের উৎপাদন ক্ষতি হয়েছে এবং ক্রেতারা ২৫৪ মিলিয়ন ডলারের আদেশ অন্য দেশে সরিয়ে নিয়েছে।",
-        "details_en": "The unrest persisted until Thursday even after the Minimum Wage Board fixed the entry-level monthly wage at Tk 17,000 and raised salaries across grades four to one by Tk 4,500 to Tk 6,465. According to BGMEA, 360 factories remained closed 147 under the no work, no pay rule and 223 on a declared holiday. BGMEA also claimed that 317 surveyed factories suffered production losses worth $428 million and buyers shifted orders worth $254 million over 18 days from November 1 to 18.",
-        "hook_bn": "সাভার ও আশুলিয়ায় ১২৮ কারখানা চালু",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": "পোশাক খাতের উৎপাদন স্বাভাবিক রাখতে ছুটির দিনে কাজ করার এই সিদ্ধান্তকে আপনি কীভাবে দেখছেন?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T07:02:34.747040+00:00"
-      }
-    },
-    {
-      "story_id": "a46971e5-c4b0-5025-8af3-7e46675a300f",
+      "story_id": "3d21da9f-3cf2-55f1-99c9-6d9563fc3159",
       "primary_category": "society_education",
       "interest_categories": [
-        "society_education"
+        "society_education",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
         "#NationalAffairs"
       ],
-      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZWR1Y2F0aW9uJTIwdW5pdmVyc2l0eSUyMHN0dWRlbnRzJTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1NzYyOTQyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bXBvJTIwbGlzdGVkJTIwdGVhY2hlcnMlMjBodW5nZXIlMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NTc2NjQ3NXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-27T06:40:54+00:00",
+      "published_at": "2026-11-27T07:05:52+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.0,
-      "rank_score": 3.5272,
+      "rank_score": 3.4133,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1184279",
-          "title": "সিলেটে হাম উপসর্গে আরও ৩ শিশুর মৃত্যু",
-          "snippet": "সিলেটে হাম উপসর্গে আরও ৩ শিশুর মৃত্যু"
+          "url": "https://www.jagonews24.com/education/news/1184287",
+          "title": "বদলির আদেশ জারির দাবিতে শিক্ষকদের আমরণ অনশন",
+          "snippet": "বদলির আদেশ জারির দাবিতে শিক্ষকদের আমরণ অনশন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সিলেটে হাম উপসর্গে আরও তিন শিশুর মৃত্যু হয়েছে।",
-        "title_en": "Three more children died with measles symptoms in Sylhet.",
-        "summary_bn": "সিলেট এমএজি ওসমানী মেডিকেল কলেজ হাসপাতালে চিকিৎসাধীন অবস্থায় গত ২৪ ঘণ্টায় হাম উপসর্গে তিন শিশুর মৃত্যু হয়েছে।",
-        "summary_en": "Three children died with measles symptoms while undergoing treatment at Sylhet MAG Osmani Medical College Hospital in the past 24 hours.",
+        "title_bn": "বদলির আদেশ জারির দাবিতে শিক্ষকদের আমরণ অনশন",
+        "title_en": "MPO-listed teachers are on hunger strike demanding transfer orders",
+        "summary_bn": "এমপিওভুক্ত শিক্ষকদের বদলির চূড়ান্ত আদেশ জারির দাবিতে জাতীয় প্রেস ক্লাবের সামনে আমরণ অনশন করছেন নারী শিক্ষকরা।",
+        "summary_en": "Female teachers are on hunger strike in front of the National Press Club demanding final transfer orders for MPO-listed teachers.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education"
+          "society_education",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T06:40:54+00:00",
-        "lead_bn": "সিলেট এমএজি ওসমানী মেডিকেল কলেজ হাসপাতালে চিকিৎসাধীন অবস্থায় গত ২৪ ঘণ্টায় হাম উপসর্গে তিন শিশুর মৃত্যু হয়েছে।",
-        "lead_en": "Three children died with measles symptoms while undergoing treatment at Sylhet MAG Osmani Medical College Hospital in the past 24 hours.",
+        "published_at": "2026-11-27T07:05:52+00:00",
+        "lead_bn": "এমপিওভুক্ত শিক্ষকদের বদলির চূড়ান্ত আদেশ জারির দাবিতে জাতীয় প্রেস ক্লাবের সামনে আমরণ অনশন করছেন নারী শিক্ষকরা।",
+        "lead_en": "Female teachers are on hunger strike in front of the National Press Club demanding final transfer orders for MPO-listed teachers.",
         "bullets_bn": [
-          "সিলেট এমএজি ওসমানী মেডিকেল কলেজ হাসপাতালে চিকিৎসাধীন অবস্থায় শিশুদের মৃত্যু হয়।",
-          "গত ২৪ ঘণ্টায় সিলেটে হাম উপসর্গে এই তিন শিশুর মৃত্যু হয়েছে।",
-          "হাসপাতালে চিকিৎসাধীন অবস্থায় তাদের মৃত্যু হয়েছে।"
+          "জাতীয় প্রেস ক্লাবের সামনে নারী শিক্ষকরা আমরণ অনশন করছেন।",
+          "এমপিওভুক্ত শিক্ষকদের বদলির চূড়ান্ত আদেশ জারির দাবি জানানো হয়েছে।",
+          "আবেদন করার তিন মাস পরও বদলির ফল প্রকাশ না হওয়ায় তাঁরা ক্ষোভ প্রকাশ করেছেন।"
         ],
         "bullets_en": [
-          "The children died while undergoing treatment at Sylhet MAG Osmani Medical College Hospital.",
-          "The deaths of the three children occurred in Sylhet within the past 24 hours.",
-          "They passed away while receiving medical care at the hospital."
+          "Female teachers are staging a hunger strike in front of the National Press Club.",
+          "The demand has been made to issue final transfer orders for MPO-listed teachers.",
+          "They expressed anger as the transfer results were not published three months after application."
         ],
         "impact_bn": null,
         "impact_en": null,
         "details_bn": null,
         "details_en": null,
-        "hook_bn": "সিলেটে হাম উপসর্গে তিন শিশুর মৃত্যু",
-        "kicker_bn": "সতর্কতা",
+        "hook_bn": "জাতীয় প্রেস ক্লাবের সামনে শিক্ষকদের আমরণ অনশন",
+        "kicker_bn": null,
         "share_value": false,
-        "question_bn": null
+        "question_bn": "শিক্ষকদের বদলি প্রক্রিয়া বিলম্বিত হওয়া নিয়ে আপনার মতামত কী?"
       },
       "desk_importance": 6.0,
       "outlet_count": 1,
       "trending": false,
-      "social_appeal": 6.0,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T07:02:34.747040+00:00"
+        "checked_at": "2026-11-27T08:01:34.019656+00:00"
       }
     },
     {
-      "story_id": "7bcb73d6-6d1a-54f6-b272-2e4ae304d4aa",
+      "story_id": "2035e66e-5fba-52e2-81d2-5224c220aa76",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#BangladeshAgriEntrepreneurshipProject",
-        "#WorldBank",
-        "#DepartmentOfAgriculturalExtension"
+        "#MigrantWelfareNetwork",
+        "#BOESL",
+        "#DHL",
+        "#Malaysia"
       ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/merged/merged_e0354e934caafd4e7813bf6d088a5166.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2023/12/30/migrant_workers.jpg",
       "image_caption": null,
-      "published_at": "2026-11-27T07:00:56.068236+00:00",
+      "published_at": "2026-11-27T06:45:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 5.0,
-      "rank_score": 2.4971,
+      "rank_score": 2.3232,
       "sources": [
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/govt-plans-tk-140-billion-project-for-agriculture-transformation",
-          "title": "Govt plans Tk 140-billion project for agriculture transformation",
-          "snippet": "Govt plans Tk 140-billion project for agriculture transformation"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/mwn-backs-boesl-dhl-zero-cost-recruitment-urges-probe-alleged-irregularities-1615616",
+          "title": "MWN backs BOESL-DHL zero-cost recruitment, urges probe into alleged irregularities",
+          "snippet": "MWN backs BOESL-DHL zero-cost recruitment, urges probe into alleged irregularities"
         }
       ],
       "daily_buzz": {
-        "title_bn": "কৃষি খাত রূপান্তরে ১৪ হাজার কোটি টাকার প্রকল্প পরিকল্পনা সরকারের",
-        "title_en": "Govt plans Tk 140-billion project to transform agriculture sector",
-        "summary_bn": "উৎপাদনভিত্তিক কৃষি খাতকে উদ্যোক্তা ও বাজারমুখী ব্যবস্থায় রূপান্তর করতে ১৪ হাজার কোটি টাকার একটি প্রকল্প হাতে নেওয়ার পরিকল্পনা করছে সরকার।",
-        "summary_en": "The government is planning to undertake a Tk 140-billion project to transform the country's agriculture sector into an entrepreneurship- and market-oriented system.",
+        "title_bn": "অভিবাসী কল্যাণ নেটওয়ার্ক মালয়েশিয়ায় জিরো কস্ট কর্মী নিয়োগকে সমর্থন জানিয়েছে।",
+        "title_en": "Migrant Welfare Network backs zero-cost recruitment for Malaysian jobs.",
+        "summary_bn": "অভিবাসী কল্যাণ নেটওয়ার্ক বিওইএসএল ও ডিএইচএল-এর মাধ্যমে মালয়েশিয়ায় শূন্য খরচে কর্মী নিয়োগের উদ্যোগকে সমর্থন জানিয়েছে।",
+        "summary_en": "The Migrant Welfare Network welcomed the zero-cost recruitment initiative for Malaysian jobs through BOESL and DHL.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T07:00:56.068236+00:00",
-        "lead_bn": "উৎপাদনভিত্তিক কৃষি খাতকে উদ্যোক্তা ও বাজারমুখী ব্যবস্থায় রূপান্তর করতে ১৪ হাজার কোটি টাকার একটি প্রকল্প হাতে নেওয়ার পরিকল্পনা করছে সরকার।",
-        "lead_en": "The government is planning to undertake a Tk 140-billion project to transform the country's agriculture sector into an entrepreneurship- and market-oriented system.",
+        "published_at": "2026-11-27T06:45:00+00:00",
+        "lead_bn": "অভিবাসী কল্যাণ নেটওয়ার্ক বিওইএসএল ও ডিএইচএল-এর মাধ্যমে মালয়েশিয়ায় শূন্য খরচে কর্মী নিয়োগের উদ্যোগকে সমর্থন জানিয়েছে।",
+        "lead_en": "The Migrant Welfare Network welcomed the zero-cost recruitment initiative for Malaysian jobs through BOESL and DHL.",
         "bullets_bn": [
-          "বাংলাদেশ এগ্রি এন্টারপ্রেনারশিপ প্রজেক্ট নামের এই প্রাথমিক পরিকল্পনা তৈরিতে বিশ্বব্যাংক থেকে ১০ কোটি মার্কিন ডলার অর্থায়নের প্রস্তাব রয়েছে।",
-          "প্রকল্পটির প্রধান উদ্দেশ্য হলো কৃষক ও কৃষিভিত্তিক উদ্যোক্তাদের মধ্যে কার্যকর সংযোগ স্থাপনের মাধ্যমে উৎপাদন ও বিপণন ব্যবস্থা শক্তিশালী করা।",
-          "প্রকল্পটি বাস্তবায়নে কৃষি সম্প্রসারণ অধিদপ্তর, প্রাণিসম্পদ অধিদপ্তর এবং মৎস্য অধিদপ্তর যুক্ত থাকবে এবং প্রধান বাস্তবায়নকারী সংস্থা হিসেবে কৃষি সম্প্রসারণ অধিদপ্তর বিবেচিত হচ্ছে।"
+          "নেটওয়ার্কটি বিদেশগামী কর্মী নিয়োগ প্রক্রিয়ায় অধিক স্বচ্ছতা ও জবাবদিহির আহ্বান জানিয়েছে।",
+          "ডিএইচএল-এর কর্মী নিয়োগ প্রক্রিয়া গত এক মাস ধরে পর্যবেক্ষণ করেছে অভিবাসী কল্যাণ নেটওয়ার্ক।",
+          "নির্বাচিত কর্মীরা প্রয়োজনীয় প্রক্রিয়া সম্পন্ন করার পর ২৬ নভেম্বর মালয়েশিয়ায় রওনা হন।"
         ],
         "bullets_en": [
-          "The preliminary plan, titled Bangladesh Agri Entrepreneurship Project, is being prepared with proposed financing of US$100 million from the World Bank.",
-          "Its main objective is to strengthen production and marketing systems by establishing effective linkages among farmers and agri-based entrepreneurs.",
-          "The Department of Agricultural Extension, Department of Livestock Services and Department of Fisheries will be involved, with the DAE considered as lead."
+          "The network called for greater transparency and accountability in overseas recruitment.",
+          "MWN monitored DHL's recruitment process in Bangladesh over the past month.",
+          "Selected workers completed processing and were deployed to Malaysia on 26 November."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বাংলাদেশ কৃষি, প্রাণিসম্পদ, মৎস্য ও বন খাত নিয়ে গঠিত বৃহত্তর কৃষি খাত জিডিপির প্রায় ১১ থেকে ১১ দশমিক ৫ শতাংশ অবদান রাখে এবং প্রায় ৪৫ শতাংশ কর্মসংস্থান নিশ্চিত করার পাশাপাশি খাদ্য নিরাপত্তা ও গ্রামীণ জীবনযাত্রা ধরে রাখে।",
-        "details_en": "The broader agriculture sector, covering crops, livestock, fisheries, and forestry, accounts for roughly 11 per cent -11.5 per cent of GDP and employs around 45 per cent of the workforce, while anchoring food security and rural livelihoods.",
-        "hook_bn": "কৃষি খাত রূপান্তরে ১৪ হাজার কোটি টাকার পরিকল্পনা",
-        "kicker_bn": "নতুন প্রকল্প",
+        "details_bn": "বিওইএসএল-এর মাধ্যমে ডিএইচএল-এ নিয়োগের জন্য ৬ থেকে ৮ নভেম্বর ২০২৬ সালের মধ্যে হাজার হাজার আবেদন জমা পড়েছিল। টেলিভিশন সম্প্রচারের মাধ্যমে লটারির মাধ্যমে প্রাথমিক ৩০০ প্রার্থী বাছাই করা হয় এবং পরবর্তী সময়ে সাক্ষাত্কারের ভিত্তিতে ১১২ জন কর্মীকে মালয়েশিয়ায় কর্মসংস্থানের জন্য নির্বাচিত করা হয়।",
+        "details_en": "Thousands of applications were submitted to BOESL between 6 and 8 November 2026 for recruitment by DHL. BOESL shortlisted 300 candidates through a public lottery, and 112 workers were ultimately selected after interviews by DHL representatives.",
+        "hook_bn": "শূন্য খরচে মালয়েশিয়ায় কর্মী নিয়োগ",
+        "kicker_bn": null,
         "share_value": false,
-        "question_bn": "কৃষি খাতকে উদ্যোক্তামুখী করতে সরকারের এই উদ্যোগ কতটা কার্যকর ভূমিকা রাখবে বলে আপনি মনে করেন?"
+        "question_bn": "শূন্য খরচে বিদেশ যাওয়ার এই প্রক্রিয়াটি নিয়ে আপনার মতামত কী?"
       },
       "desk_importance": 5.0,
       "outlet_count": 1,
@@ -293,151 +137,136 @@
       "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T07:02:34.747040+00:00"
+        "checked_at": "2026-11-27T08:01:34.019656+00:00"
       }
     },
     {
-      "story_id": "a1089dde-f3b3-5372-97ee-9ecdb9554259",
+      "story_id": "4f60fc06-62f9-565a-9024-452c29a1e365",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
+        "world_diplomacy"
       ],
       "region": "international",
       "tags": [
-        "#ICJ",
-        "#Myanmar",
-        "#Rohingya",
-        "#Israel"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://images.unsplash.com/photo-1777289953798-b3dc91e03b5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8aW50ZXJuYXRpb25hbCUyMGNvdXJ0JTIwanVzdGljZSUyMHJ1bGVkJTIwZGlwbG9tYWN5fGVufDF8MHx8fDE3OTU3NjI5NDh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-27%2Ft6xz6t19%2FTrump-2.jpg?rect=0%2C25%2C720%2C378&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-27T05:55:42+00:00",
+      "published_at": "2026-11-27T07:32:31+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 3.9632,
+      "importance_score": 5.0,
+      "rank_score": 2.4319,
       "sources": [
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/opinion/op-ed/425889/what-the-icj%E2%80%99s-landmark-genocide-finding-could",
-          "title": "What the ICJ’s landmark genocide finding could mean for the case against Israel in Gaza",
-          "snippet": "What the ICJ’s landmark genocide finding could mean for the case against Israel in Gaza"
-        },
-        {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/opinion/column/58zddedec3",
-          "title": "রোহিঙ্গা জেনোসাইড নিয়ে রায়ে অস্বস্তিতে ইসরায়েল?",
-          "snippet": "রোহিঙ্গা জেনোসাইড নিয়ে রায়ে অস্বস্তিতে ইসরায়েল?"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1184284",
-          "title": "রোহিঙ্গা গণহত্যার রায় নিয়ে আপত্তি, কিছু নির্দেশনা মানবে না মিয়ানমার",
-          "snippet": "রোহিঙ্গা গণহত্যার রায় নিয়ে আপত্তি, কিছু নির্দেশনা মানবে না মিয়ানমার"
+          "url": "https://www.prothomalo.com/world/middle-east/6belzt2x85",
+          "title": "ইরানের কাছে ইউরোপে আঘাত হানার মতো শক্তিশালী ক্ষেপণাস্ত্র রয়েছে: ট্রাম্প",
+          "snippet": "ইরানের কাছে ইউরোপে আঘাত হানার মতো শক্তিশালী ক্ষেপণাস্ত্র রয়েছে: ট্রাম্প"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মিয়ানমার রোহিঙ্গা গণহত্যায় জড়িত বলে রায় দিয়েছে আন্তর্জাতিক বিচার আদালত।",
-        "title_en": "The International Court of Justice ruled Myanmar committed genocide against Rohingya.",
-        "summary_bn": "আন্তর্জাতিক বিচার আদালত রায় দিয়েছে যে মিয়ানমার রোহিঙ্গা সংখ্যালঘু গোষ্ঠীর বিরুদ্ধে গণহত্যা চালিয়েছে।",
-        "summary_en": "The International Court of Justice ruled that Myanmar committed genocide against the Rohingya minority group.",
+        "title_bn": "ইরানের কাছে ইউরোপে আঘাত হানার মতো ক্ষেপণাস্ত্র রয়েছে বলে দাবি ট্রাম্পের",
+        "title_en": "Trump claims Iran has missiles capable of hitting Europe",
+        "summary_bn": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প দাবি করেছেন যে ইরানের কাছে ইউরোপে আঘাত হানার মতো শক্তিশালী ক্ষেপণাস্ত্র রয়েছে।",
+        "summary_en": "US President Donald Trump claimed that Iran has powerful missiles capable of striking Europe.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T05:55:42+00:00",
-        "lead_bn": "আন্তর্জাতিক বিচার আদালত রায় দিয়েছে যে মিয়ানমার রোহিঙ্গা সংখ্যালঘু গোষ্ঠীর বিরুদ্ধে গণহত্যা চালিয়েছে।",
-        "lead_en": "The International Court of Justice ruled that Myanmar committed genocide against the Rohingya minority group.",
+        "published_at": "2026-11-27T07:32:31+00:00",
+        "lead_bn": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প দাবি করেছেন যে ইরানের কাছে ইউরোপে আঘাত হানার মতো শক্তিশালী ক্ষেপণাস্ত্র রয়েছে।",
+        "lead_en": "US President Donald Trump claimed that Iran has powerful missiles capable of striking Europe.",
         "bullets_bn": [
-          "আদালত বলেছে মিয়ানমার জাতিসংঘ গণহত্যা কনভেনশনের অধীনে গণহত্যা রোধ ও শাস্তির বাধ্যবাধকতা লঙ্ঘন করেছে।",
-          "মিয়ানমারের প্রেসিডেন্ট মিন অং হ্লাইং জানিয়েছেন রায়ের যেসব নির্দেশনা অগ্রহণযোগ্য মনে হবে, সেগুলো মানবে না মিয়ানমার।",
-          "প্রথম আলো জানিয়েছে রোহিঙ্গা জেনোসাইড নিয়ে এই রায়ে ইসরায়েল অস্বস্তিতে পড়েছে।"
+          "ফ্লোরিডার মার-এ-লাগো রিসোর্ট থেকে সামরিক বাহিনীর সদস্যদের সঙ্গে আলাপকালে ট্রাম্প এ মন্তব্য করেন।",
+          "মধ্যপ্রাচ্যে শান্তি না ফিরলে সেখানে পারমাণবিক ধ্বংসযজ্ঞ ঘটে যেতে পারে বলে সতর্ক করেছেন ট্রাম্প।",
+          "ইরানের শীর্ষ নেতাদের উন্মাদ বলে উল্লেখ করে ট্রাম্প বলেছেন তাদের হাতে কোনো পারমাণবিক অস্ত্র যেতে দেওয়া হবে না।"
         ],
         "bullets_en": [
-          "The court found Myanmar breached its obligations under the United Nations genocide convention to prevent and punish genocide.",
-          "Myanmar's President Min Aung Hlaing stated that Myanmar will not follow ICJ genocide rulings deemed unacceptable.",
-          "Prothom Alo reported that Israel is uncomfortable with the Rohingya genocide ruling."
+          "Trump made the remark while speaking with military members from the Mar-a-Lago resort in Florida.",
+          "Trump warned that a nuclear devastation could occur in the Middle East if peace is not established.",
+          "Calling Iran's top leaders insane, Trump stated they will not be allowed to get nuclear weapons."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "আন্তর্জাতিক বিচার আদালত গত সপ্তাহে এই রায় দিয়েছে। আদালত জানায় মিয়ানমার জাতিসংঘ গণহত্যা কনভেনশনের অধীনে গণহত্যা রোধ ও শাস্তির বাধ্যবাধকতা লঙ্ঘন করেছে। এই রায় রোহিঙ্গা ও মিয়ানমারের জন্য গুরুত্বপূর্ণ এবং গাজায় ইসরায়েলের বিরুদ্ধে মামলার ওপরও এর বড় আইনি প্রভাব পড়তে পারে।",
-        "details_en": "The International Court of Justice ruled last week that Myanmar committed genocide against the Rohingya minority group, finding Myanmar breached its obligations under the United Nations genocide convention to prevent and punish genocide. This ruling may also have a significant legal impact on other genocide cases before the court, including the case against Israel in Gaza.",
-        "hook_bn": "রোহিঙ্গা গণহত্যা রায় মানবে না মিয়ানমার",
-        "kicker_bn": "রায় ঘোষণা",
+        "details_bn": "মার্কিন প্রেসিডেন্ট ফ্লোরিডার মার-এ-লাগো রিসোর্ট থেকে থ্যাংকসগিভিং উপলক্ষে মার্কিন সামরিক বাহিনীর সদস্যদের সঙ্গে ফোনে আলাপকালে ইরানের সক্ষমতা ও মধ্যপ্রাচ্যের পরিস্থিতি নিয়ে এই মন্তব্য করেন। তিনি জানান যে মধ্যপ্রাচ্যের তেল যুক্তরাষ্ট্রের দরকার নেই বরং শান্তি প্রয়োজন এবং দেশগুলো নিজেদের রক্ষা করার মতো যথেষ্ট শক্তিশালী না হওয়া পর্যন্ত তাদের সমর্থন দিয়ে যেতে হবে। তবে ইরানের কাছে এখনো কোনো পারমাণবিক অস্ত্র থাকার প্রমাণ পাওয়া যায়নি এবং দেশটি পারমাণবিক অস্ত্র বিস্তার রোধ চুক্তিতে স্বাক্ষরকারী রাষ্ট্র।",
+        "details_en": "The US President made these comments about Iran's capabilities and the Middle East situation during a phone conversation with US military members from the Mar-a-Lago resort in Florida for Thanksgiving. He stated that the US does not need Middle Eastern oil but rather peace, and must support the countries until they are strong enough to defend themselves. However, no proof has been found yet that Iran has nuclear weapons, and the country is a signatory to the nuclear Non-Proliferation Treaty.",
+        "hook_bn": "তারা সত্যিই উন্মাদ",
+        "kicker_bn": "সতর্কতা",
         "share_value": false,
-        "question_bn": "আন্তর্জাতিক আদালতের এই রায় রোহিঙ্গা সংকট সমাধানে কতটা ভূমিকা রাখবে বলে আপনার মনে হয়?"
+        "question_bn": null
       },
-      "desk_importance": 6.0,
-      "outlet_count": 3,
+      "desk_importance": 5.0,
+      "outlet_count": 1,
       "trending": false,
-      "social_appeal": 6.0,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T07:02:34.747040+00:00"
+        "checked_at": "2026-11-27T08:01:34.019656+00:00"
       }
     },
     {
-      "story_id": "160a1a6b-b98a-5bc3-b9ca-7f5167d23a5f",
+      "story_id": "dca69903-21b6-5b67-95e2-e89f479810ab",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
+        "governance_law",
         "economy_business"
       ],
       "region": "international",
       "tags": [
-        "#OPEC",
-        "#US",
-        "#Venezuela",
-        "#Iraq"
+        "#ZakirNaik",
+        "#IslamicResearchFoundation",
+        "#IndiaHomeMinistry"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/02/14/opec_2.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2019/08/14/zakir_naik.jpg",
       "image_caption": null,
-      "published_at": "2026-11-27T06:25:00+00:00",
+      "published_at": "2026-11-27T05:05:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 5.0,
-      "rank_score": 2.4122,
+      "rank_score": 2.11,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/world/global-economy/us-pushed-venezuela-iraq-consider-leaving-opec-sources-1615596",
-          "title": "US pushed Venezuela, Iraq to consider leaving OPEC: Sources",
-          "snippet": "US pushed Venezuela, Iraq to consider leaving OPEC: Sources"
+          "url": "https://www.tbsnews.net/world/south-asia/indian-home-ministry-authorises-states-restrict-access-zakir-naiks-ngo-funds",
+          "title": "Indian home ministry authorises states to restrict access of Zakir Naik’s NGO to funds, premises",
+          "snippet": "Indian home ministry authorises states to restrict access of Zakir Naik’s NGO to funds, premises"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ভেনেজুয়েলা ও ইরাককে ওপেক ত্যাগের জন্য উৎসাহিত করেছে যুক্তরাষ্ট্র।",
-        "title_en": "US pushed Venezuela and Iraq to consider leaving OPEC.",
-        "summary_bn": "ওপেক ছাড়ার কথা বিবেচনা করতে ভেনেজুয়েলা ও ইরাককে উৎসাহিত করেছে ট্রাম্প প্রশাসন এবং ভেনেজুয়েলার সদস্য ফি দেওয়া আটকে রেখেছে।",
-        "summary_en": "The Trump administration encouraged Venezuela and Iraq to consider leaving OPEC and prevented Venezuela from paying its annual membership dues.",
+        "title_bn": "জাকির নায়েকের নিষিদ্ধ এনজিওর তহবিল ও সম্পত্তি নিয়ন্ত্রণে রাজ্যগুলোকে ক্ষমতা দিল ভারত।",
+        "title_en": "India authorises states to restrict Zakir Naik's banned NGO funds and premises.",
+        "summary_bn": "ভারতের স্বরাষ্ট্র মন্ত্রণালয় জাকির নায়েকের নিষিদ্ধ ইসলামিক রিসার্চ ফাউন্ডেশনের তহবিল ও প্রাঙ্গণ নিয়ন্ত্রণে রাজ্যগুলোকে ক্ষমতা দিয়েছে।",
+        "summary_en": "India's federal ministry authorised states and union territories to exercise powers over funds and premises of Zakir Naik's banned NGO.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
+          "governance_law",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T06:25:00+00:00",
-        "lead_bn": "ওপেক ছাড়ার কথা বিবেচনা করতে ভেনেজুয়েলা ও ইরাককে উৎসাহিত করেছে ট্রাম্প প্রশাসন এবং ভেনেজুয়েলার সদস্য ফি দেওয়া আটকে রেখেছে।",
-        "lead_en": "The Trump administration encouraged Venezuela and Iraq to consider leaving OPEC and prevented Venezuela from paying its annual membership dues.",
+        "published_at": "2026-11-27T05:05:00+00:00",
+        "lead_bn": "ভারতের স্বরাষ্ট্র মন্ত্রণালয় জাকির নায়েকের নিষিদ্ধ ইসলামিক রিসার্চ ফাউন্ডেশনের তহবিল ও প্রাঙ্গণ নিয়ন্ত্রণে রাজ্যগুলোকে ক্ষমতা দিয়েছে।",
+        "lead_en": "India's federal ministry authorised states and union territories to exercise powers over funds and premises of Zakir Naik's banned NGO.",
         "bullets_bn": [
-          "মার্কিন চাপের মুখে সৌদি যুবরাজ মোহাম্মদ বিন সালমান এ বিষয়ে ট্রাম্প প্রশাসনকে আর চাপ না দিতে রাজি করান।",
-          "ইরাকের প্রধানমন্ত্রী আলী ফালেহ আল-জায়দি মার্কিন কর্মকর্তাদের সঙ্গে আলোচনার পর সরকার বৈঠকে ওপেক ত্যাগের সম্ভাবনা উত্থাপন করেন।",
-          "ইরাকের তেল মন্ত্রণালয় প্রধানমন্ত্রীকে রাজি করিয়ে গ্রুপে থাকতে এবং উচ্চ উৎপাদন কোটা চাওয়ার কথা বিবেচনা করতে বলে।"
+          "২৬ নভেম্বর ভারতের স্বরাষ্ট্র মন্ত্রণালয় ধারা ৪২ এর অধীনে এই নির্দেশিকা জারি করে।",
+          "আইনের ৭ ও ৮ ধারার অধীনে তহবিল ব্যবহার নিষিদ্ধ এবং প্রাঙ্গণ চিহ্নিত করার ক্ষমতা দেওয়া হয়েছে।",
+          "মহারাষ্ট্রের বাসিন্দা জাকির নায়েক ২০১৬ সাল থেকে মালয়েশিয়ায় বসবাস করছেন।"
         ],
         "bullets_en": [
-          "Saudi Crown Prince Mohammed bin Salman intervened this summer, persuading the Trump administration not to press the issue further.",
-          "Iraq Prime Minister Ali Faleh al-Zaidi raised the possibility of leaving OPEC at a government meeting after discussions with US officials.",
-          "Iraq oil ministry pushed back, persuading al-Zaidi to keep Iraq in the group and consider seeking a higher production quota instead."
+          "The Indian home ministry issued the directive under Section 42 on 26 November.",
+          "Sections 7 and 8 empower authorities to prohibit fund usage and notify premises.",
+          "Naik, a resident of Maharashtra, has been living in Malaysia since 2016."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "মার্কিন কর্মকর্তারা উভয় দেশেই তেল উৎপাদন ও বিনিয়োগ বাড়ানোর জন্য চাপ দিচ্ছিলেন এবং ওপেকের উৎপাদন সীমিতকরণ এই উচ্চাভিলাষ ব্যাহত করতে পারে বলে আশঙ্কা করছিলেন। যুক্তরাষ্ট্রের হাতে উভয় দেশের ওপর শক্তিশালী নিয়ন্ত্রণ রয়েছে, যার মধ্যে ভেনেজুয়েলার রাষ্ট্রীয় তহবিলে প্রবেশাধিকার এবং নিউইয়র্কের ফেডারেল রিজার্ভ ব্যাংকে থাকা ইরাকের তেল রাজস্বের হিসাব অন্তর্ভুক্ত।",
-        "details_en": "US officials were pushing for greater oil production and investment in both countries, worrying OPEC production limits could constrain those ambitions. The United States controls Venezuela access to state funds and holds Iraq oil revenues through an account at the Federal Reserve Bank of New York.",
-        "hook_bn": "ওপেক ছাড়তে ভেনেজুয়েলা ও ইরাককে যুক্তরাষ্ট্রের উৎসাহ",
-        "kicker_bn": "বিশ্ব",
+        "details_bn": "ভারতের কেন্দ্রীয় সরকার ১৩ নভেম্বর আইনের ৩(১) ও ৩(৩) ধারার অধীনে ইসলামিক রিসার্চ ফাউন্ডেশনের ওপর নিষেধাজ্ঞা আরও পাঁচ বছর বাড়ায়। ২০১৬ সালে সরকার প্রথম সংগঠনটিকে নিষিদ্ধ করার সময় জাকির নায়েক বিদেশে একটি সফরে ছিলেন এবং তখন থেকেই তিনি মালয়েশিয়ায় থাকছেন।",
+        "details_en": "The central government extended the ban on the foundation by five more years on 13 November under sections 3(1) and 3(3) of the act. Naik was on a trip abroad when the government first banned his organisation in 2016 and has been living in Malaysia since.",
+        "hook_bn": "জাকির নায়েকের এনজিওর বিরুদ্ধে ভারতের কঠোর পদক্ষেপ",
+        "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
@@ -447,7 +276,7 @@
       "social_appeal": 4.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T07:02:34.747040+00:00"
+        "checked_at": "2026-11-27T08:01:34.019656+00:00"
       }
     }
   ]
