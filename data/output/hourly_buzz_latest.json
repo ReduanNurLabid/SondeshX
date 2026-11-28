@@ -1,247 +1,38 @@
 {
-  "updated_at": "2026-11-28T01:00:49.938656",
-  "total_stories": 5,
+  "updated_at": "2026-11-28T02:00:47.053530",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "2a9e7e93-97bf-5465-8ba9-f7f53f675a33",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/hostel-20261128042012.jpg?cid=501357",
-      "image_caption": null,
-      "published_at": "2026-11-27T22:20:12+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.083,
-      "sources": [
-        {
-          "name": "Dhaka Post",
-          "url": "https://www.dhakapost.com/national/501357",
-          "title": "তিতুমীর কলেজের ছাত্রী হোস্টেলের গেটে দুর্বৃত্তদের ককটেল বিস্ফোরণ",
-          "snippet": "তিতুমীর কলেজের ছাত্রী হোস্টেলের গেটে দুর্বৃত্তদের ককটেল বিস্ফোরণ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সরকারি তিতুমীর কলেজের ছাত্রী হোস্টেলের গেটে ককটেল বিস্ফোরণ",
-        "title_en": "Cocktail explosion at the gate of Govt Titumir College girls hostel",
-        "summary_bn": "রাজধানীর সরকারি তিতুমীর কলেজের ছাত্রী হোস্টেলের গেটে ২৭ নভেম্বর রাত ১০টার দিকে ককটেল বিস্ফোরণের ঘটনা ঘটেছে।",
-        "summary_en": "A cocktail explosion occurred at the gate of the Government Titumir College girls hostel in the capital on November 27 at around 10 pm.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T22:20:12+00:00",
-        "lead_bn": "রাজধানীর সরকারি তিতুমীর কলেজের ছাত্রী হোস্টেলের গেটে ২৭ নভেম্বর রাত ১০টার দিকে ককটেল বিস্ফোরণের ঘটনা ঘটেছে।",
-        "lead_en": "A cocktail explosion occurred at the gate of the Government Titumir College girls hostel in the capital on November 27 at around 10 pm.",
-        "bullets_bn": [
-          "বনানী থানার সরকারি তিতুমীর কলেজের ছাত্রী হোস্টেলের গেটে এই ককটেল বিস্ফোরণের ঘটনা ঘটে।",
-          "এই ঘটনায় কোনো আহতের সংবাদ পাওয়া যায়নি বলে জানিয়েছেন বনানী থানার ভারপ্রাপ্ত কর্মকর্তা ওসি মো. সালাউদ্দিন।",
-          "ঘটনায় যারা জড়িত তাদেরকে দ্রুত আইনের আওতায় আনা হবে বলে জানিয়েছেন ওসি মো. সালাউদ্দিন।"
-        ],
-        "bullets_en": [
-          "The cocktail explosion took place at the gate of the Government Titumir College girls hostel under Banani police station.",
-          "No news of injuries has been received in this incident, according to Banani police station officer-in-charge OC Md Salauddin.",
-          "Those involved in the incident will be brought to justice quickly, stated OC Md Salauddin."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "তিতুমীর কলেজ হোস্টেলের গেটে ককটেল বিস্ফোরণ",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-28T01:01:55.254020+00:00"
-      }
-    },
-    {
-      "story_id": "263afa86-69b3-536a-8c83-a7929edd3ed9",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business"
-      ],
-      "region": "international",
-      "tags": [
-        "#Malaysia",
-        "#Bangladesh",
-        "#BOESL"
-      ],
-      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/merged/merged_75037bddcfc7850f263d9d06b03d4578.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-28T01:00:58.878108+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5991,
-      "sources": [
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/cost-free-migration-to-malaysia-103-of-112-workers-in-first-batch-arrive",
-          "title": "Cost-free migration: 103 workers arrive in Malaysia",
-          "snippet": "Cost-free migration: 103 workers arrive in Malaysia"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মালয়েশিয়ায় পৌঁছেছেন ১০৩ বাংলাদেশি কর্মী",
-        "title_en": "103 Bangladeshi workers arrive in Malaysia",
-        "summary_bn": "প্রায় আড়াই বছরের বিরতির পর মালয়েশিয়ায় কর্মী নিয়োগ চালুর অংশ হিসেবে ১০৩ জন বাংলাদেশি কর্মী কুয়ালালামপুরে পৌঁছেছেন।",
-        "summary_en": "One hundred and three Bangladeshi workers arrived in Malaysia as part of the resumption of recruitment after nearly two and a half years.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-28T01:00:58.878108+00:00",
-        "lead_bn": "প্রায় আড়াই বছরের বিরতির পর মালয়েশিয়ায় কর্মী নিয়োগ চালুর অংশ হিসেবে ১০৩ জন বাংলাদেশি কর্মী কুয়ালালামপুরে পৌঁছেছেন।",
-        "lead_en": "One hundred and three Bangladeshi workers arrived in Malaysia as part of the resumption of recruitment after nearly two and a half years.",
-        "bullets_bn": [
-          "বাংলাদেশ ওভারসিজ এমপ্লয়মেন্ট অ্যান্ড সার্ভিসেস লিমিটেডের মাধ্যমে নির্বাচিত ১১২ জনের মধ্যে ১০৩ জন ভোরে মালয়েশিয়ায় পৌঁছান।",
-          "কাগজপত্র অসম্পূর্ণ থাকায় ৯ জন কর্মী ভ্রমণ করতে পারেননি এবং কাগজপত্র ঠিক হলে তাঁরাও দেশটিতে যাবেন।",
-          "মালয়েশিয়ায় নিযুক্ত বাংলাদেশের হাইকমিশনার মনজুরুল করিম খান চৌধুরী বিমানবন্দরের বাইরে কর্মীদের স্বাগত জানান।"
-        ],
-        "bullets_en": [
-          "Of the 112 workers selected through BOESL, 103 arrived in Malaysia in the early hours of Friday.",
-          "Nine workers could not travel due to incomplete documents, and the high commission said they would travel later.",
-          "Bangladesh High Commissioner to Malaysia Manjurul Karim Khan Chowdhury welcomed the workers at the airport."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বাংলাদেশি কর্মীদের এই দলটি ডিএইচএল সাপ্লাই চেইন মালয়েশিয়ায় কাজ করার জন্য দেশটিতে গেছে। মালয়েশিয়ায় বাংলাদেশের হাইকমিশনার মনজুরুল করিম খান চৌধুরী নতুন কর্মীদের স্থানীয় আইন ও সংস্কৃতি শ্রদ্ধা করার আহ্বান জানিয়েছেন।",
-        "details_en": "The workers arrived to work for DHL Supply Chain Malaysia. Bangladesh High Commissioner Manjurul Karim Khan Chowdhury urged the new workers to respect local laws and culture.",
-        "hook_bn": "'আইন মেনে চলুন'",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-28T01:01:55.254020+00:00"
-      }
-    },
-    {
-      "story_id": "4adbb5fa-41b1-5f15-9e0c-770a24ab960f",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "society_education"
-      ],
-      "region": "international",
-      "tags": [
-        "#CanaryIslands",
-        "#Spain"
-      ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b0a0bec-1795820524.jpg?resize=1920%2C1440",
-      "image_caption": null,
-      "published_at": "2026-11-27T23:57:03+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.3502,
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss",
-          "title": "At least eight found dead on migrant boat off Spain’s Canary Islands",
-          "snippet": "At least eight found dead on migrant boat off Spain’s Canary Islands"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "স্পেনের ক্যানারি দ্বীপপুঞ্জের কাছে অভিবাসী বোঝাই নৌকা থেকে আটটি লাশ উদ্ধার",
-        "title_en": "At least eight dead on migrant boat off Spain's Canary Islands",
-        "summary_bn": "স্পেনের মেরিটাইম রেসকিউ সার্ভিস জানিয়েছে, ক্যানারি দ্বীপপুঞ্জের কাছে প্রায় ১০০ জন অভিবাসী বহনকারী একটি নৌকা থেকে অন্তত আটটি লাশ উদ্ধার করা হয়েছে।",
-        "summary_en": "At least eight migrants have been found dead on a boat carrying about 100 people rescued near Spain’s Canary Islands, the rescue service said.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T23:57:03+00:00",
-        "lead_bn": "স্পেনের মেরিটাইম রেসকিউ সার্ভিস জানিয়েছে, ক্যানারি দ্বীপপুঞ্জের কাছে প্রায় ১০০ জন অভিবাসী বহনকারী একটি নৌকা থেকে অন্তত আটটি লাশ উদ্ধার করা হয়েছে।",
-        "lead_en": "At least eight migrants have been found dead on a boat carrying about 100 people rescued near Spain’s Canary Islands, the rescue service said.",
-        "bullets_bn": [
-          "উদ্ধারকারী সংস্থার তথ্য অনুযায়ী, নৌকাটিতে আট থেকে ১০টি মরদেহ পাওয়া গেছে এবং গুরুতর অবস্থায় ছয়জনকে হাসপাতালে নিয়ে যাওয়া হয়েছে।",
-          "এল হিয়েরো দ্বীপের দক্ষিণ দিক থেকে ৩৯ নটিক্যাল মাইল দূরে নৌকাটি পাওয়া যায় এবং সেটিকে লা এস্তাকা বন্দরের দিকে টেনে নেওয়া হচ্ছিল।",
-          "আরেকটি নৌকা থেকে বেঁচে যাওয়া ৮৪ জন অভিবাসী এল হিয়েরোর প্রধান বন্দর লা রেস্তিংয়ায় তীরে পৌঁছেছেন।"
-        ],
-        "bullets_en": [
-          "Between eight and 10 bodies were found on board and six people were airlifted to hospital in serious condition, the rescue service said.",
-          "The boat was found 39 nautical miles south of the island of El Hierro and was being towed to the port of La Estaca.",
-          "Separately, 84 survivors from another boat came ashore at La Restinga, El Hierro’s main port."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "আটলান্টিক মহাসাগরে উত্তর-পশ্চিম আফ্রিকার উপকূলে অবস্থিত ক্যানারি দ্বীপপুঞ্জ স্পেনের একটি অঞ্চল। এই দ্বীপগুলো পশ্চিম আফ্রিকা থেকে আসা অভিবাসীদের প্রধান প্রবেশপথ। কঠোর নজরদারি এবং উৎপত্তিস্থল ও ট্রানজিট দেশগুলোর সঙ্গে সহযোগিতার কারণে ২০২৪ সালে arrivals রেকর্ড ৪৬ হাজারে পৌঁছানোর পর তা কমে যায়। সেনেগাল, মৌরিতানিয়া ও মরক্কোর টহল দলগুলো অভিবাসনপ্রত্যাশীদের প্রস্থানকে আরও দক্ষিণে গাম্বিয়া, গিনি-বিসাউ ও গিনির দিকে ঠেলে দিয়েছে, যার ফলে এই সমুদ্রযাত্রা দীর্ঘ ও আরও বিপজ্জনক হয়ে উঠেছে। ক্যানারি দ্বীপপুঞ্জে আগমন অক্টোবর মাস থেকে ত্বরান্বিত হয়েছে এবং চলতি সপ্তাহের শুরুর দিকে একদিনেই রেকর্ড ২ হাজার ১০০ মানুষ সেখানে পৌঁছেছে।",
-        "details_en": "The Canary Islands are a Spanish region in the Atlantic Ocean off northwest Africa, making them a main entry point for West African migrants. Arrivals hit a record of more than 46,000 in 2024 before falling due to tighter surveillance and cooperation with origin and transit countries. Patrols off Senegal, Mauritania and Morocco have pushed departures further south to The Gambia, Guinea-Bissau and Guinea, making the crossing longer and more dangerous. Arrivals have accelerated since October, with a record 2,100 people reaching the islands in a single day earlier this week.",
-        "hook_bn": "ক্যানারি দ্বীপপুঞ্জের কাছে নৌকা থেকে আট লাশ উদ্ধার",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-28T01:01:55.254020+00:00"
-      }
-    },
-    {
-      "story_id": "1a71c8a6-41e5-5647-a5ae-3e9859a43298",
+      "story_id": "c41bce44-0629-5c6f-9ba4-ac0535078780",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
         "governance_law"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#PaulMackenzie",
-        "#Kenya",
-        "#GoodNewsInternationalChurch"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b09fbef6bcd-1795816431.jpg?resize=1920%2C1440",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_bengali/375c/live/de995820-ea54-11f1-99b6-a35a62fa4264.jpg",
       "image_caption": null,
-      "published_at": "2026-11-27T22:33:17+00:00",
+      "published_at": "2026-11-28T01:46:04+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.1681,
+      "importance_score": 7.0,
+      "rank_score": 4.8269,
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss",
-          "title": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths",
-          "snippet": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths"
+          "name": "BBC News বাংলা",
+          "url": "https://www.bbc.com/bengali/articles/c6kgde905zeeo?at_medium=RSS&at_campaign=rss",
+          "title": "ভারতে আওয়ামী লীগ নেতারা কেন বাংলাদেশের সাথে সীমান্ত এলাকায় ঘুরে বেড়াচ্ছেন?",
+          "snippet": "ভারতে আওয়ামী লীগ নেতারা কেন বাংলাদেশের সাথে সীমান্ত এলাকায় ঘুরে বেড়াচ্ছেন?"
         }
       ],
       "daily_buzz": {
-        "title_bn": "কেনিয়ায় উপাসক মৃত্যুর ঘটনায় কাল্ট নেতা দোষী সাব্যস্ত",
-        "title_en": "Kenyan cult leader guilty of deaths",
-        "summary_bn": "কেনিয়ার একটি আদালত গুড নিউজ ইন্টারন্যাশনাল চার্চের প্রতিষ্ঠাতা পল ম্যাকেঞ্জিকে ১২৩ জন অনুসারীর মৃত্যুর ঘটনায় দোষী সাব্যস্ত করেছে।",
-        "summary_en": "A Kenyan court found cult leader Paul Mackenzie guilty over the deaths of 123 followers.",
+        "title_bn": "সীমান্ত এলাকায় দেখা গেছে নিষিদ্ধ আওয়ামী লীগ নেতাদের",
+        "title_en": "Banned Awami League leaders spotted near border areas",
+        "summary_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের শীর্ষ নেতারা ভারত-বাংলাদেশ স্থল সীমান্ত পরিদর্শন করেছেন।",
+        "summary_en": "Top leaders of the banned Awami League visited India-Bangladesh land borders.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -249,95 +40,305 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T22:33:17+00:00",
-        "lead_bn": "কেনিয়ার একটি আদালত গুড নিউজ ইন্টারন্যাশনাল চার্চের প্রতিষ্ঠাতা পল ম্যাকেঞ্জিকে ১২৩ জন অনুসারীর মৃত্যুর ঘটনায় দোষী সাব্যস্ত করেছে।",
-        "lead_en": "A Kenyan court found cult leader Paul Mackenzie guilty over the deaths of 123 followers.",
+        "published_at": "2026-11-28T01:46:04+00:00",
+        "lead_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের শীর্ষ নেতারা ভারত-বাংলাদেশ স্থল সীমান্ত পরিদর্শন করেছেন।",
+        "lead_en": "Top leaders of the banned Awami League visited India-Bangladesh land borders.",
         "bullets_bn": [
-          "ম্যাকেঞ্জিকে মোম্বাসা শহরে তার স্ত্রী রোডা মুম্বুয়া সহ ২৯ জন অনুসারীর সাথে দোষী সাব্যস্ত করা হয়।",
-          "ম্যাকেঞ্জি মৃত্যুর জন্য উপবাস করার নির্দেশ দিয়েছিলেন বলে ম্যাজিস্ট্রেট অ্যালেক্স ইথুকু জানান।",
-          "ম্যাকেঞ্জি নভেম্বর মাসে ১৯১ জনের হত্যার মামলায় ২০০ বছরের কারাদণ্ড পেয়েছেন।"
+          "নেতারা গত ২২শে নভেম্বর পেট্রাপোল এবং ২৫শে নভেম্বর আখাউড়া সীমান্তে যান।",
+          "নেতাদের দাবি, শেখ হাসিনার ১৬ই ডিসেম্বর ফেরার ঘোষণার প্রেক্ষিতে পরিকল্পনা তৈরি হয়েছে।",
+          "ত্রিপুরায় অবস্থানরত নিষিদ্ধ দলের নেতাদের সঙ্গে তাদের আলোচনা হয়েছে।"
         ],
         "bullets_en": [
-          "Mackenzie was convicted in Mombasa along with 29 followers including his wife Rhoda Mumbua.",
-          "Magistrate Alex Ithuku said Mackenzie gave the directions to fast to death.",
-          "Mackenzie was previously sentenced to 200 years in prison for the murder of 191 people."
+          "Leaders visited Petrapole on November 22 and Akhaura border on November 25.",
+          "Leaders claim plans are made regarding Sheikh Hasina's December 16 return announcement.",
+          "They held discussions with leaders of the banned party stationed in Tripura."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "পুলিশ ২০২৩ সালে একটি খবরের ভিত্তিতে ম্যাকাঞ্জিকে গ্রেপ্তার করে এবং কর্তৃপক্ষ চারশটিরও বেশি মৃতদেহ উদ্ধার করতে শুরু করে। ম্যাকাঞ্জি শাকাহোলা বনে গুড নিউজ ইন্টারন্যাশনাল চার্চ পরিচালনা করতেন এবং অনুসারীদের পৃথিবীর শেষের আগে যীশুর সাথে দেখা করতে উপবাস করার নির্দেশ দিয়েছিলেন।",
-        "details_en": "Police arrested Mackenzie in 2023 after a tip-off, and authorities began uncovering more than 400 bodies. Mackenzie led the Good News International Church in the Shakahola Forest and told followers to starve themselves to meet Jesus.",
-        "hook_bn": "কেনিয়ায় উপাসক মৃত্যুর ঘটনায় নেতা দোষী",
-        "kicker_bn": "রায় ঘোষণা",
+        "details_bn": "বাংলাদেশে ২০২৪ সালের গণ-অভ্যুত্থানের পর থেকে আওয়ামী লীগের কয়েকজন শীর্ষ নেতা ভারতে অবস্থান করছেন। ত্রিপুরায় সীমান্তে পরিদর্শনে যাওয়া নেতাদের অন্তত দুজন আগেই আগরতলা ছেড়েছেন এবং বাকিদের ফেরার কথা রয়েছে। অন্যদিকে, দলটির কয়েকজন নেতা-কর্মী জানিয়েছেন যে দল ও সহযোগী সংগঠনগুলির কয়েকশ নেতা-কর্মী ভারত থেকে বাংলাদেশে ফিরে গেছেন এবং অনেকে গ্রেফতারের মতো পরিস্থিতির মুখোমুখি হওয়ার মানসিক প্রস্তুতি নিয়েছেন।",
+        "details_en": "Several top leaders of the Awami League have been staying in India since the 2024 mass uprising in Bangladesh. At least two of the leaders who inspected the Tripura border have already left Agartala, and the rest are scheduled to return from Tripura on Friday. Meanwhile, some leaders and activists of the party stated that several hundred leaders and activists of the party and its affiliated organizations have returned to Bangladesh from India, and many have mentally prepared to face situations like arrest.",
+        "hook_bn": "সীমান্ত এলাকায় নিষিদ্ধ আওয়ামী লীগ নেতারা",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
-      "desk_importance": 5.0,
+      "desk_importance": 7.0,
       "outlet_count": 1,
       "trending": false,
-      "social_appeal": 5.0,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-28T01:01:55.254020+00:00"
+        "checked_at": "2026-11-28T02:02:03.852402+00:00"
       }
     },
     {
-      "story_id": "efcc52e0-8a87-55e1-85b3-576264c02684",
-      "primary_category": "world_diplomacy",
+      "story_id": "ecc67e13-6394-568a-bbb6-41625fa95572",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "world_diplomacy",
-        "tech_innovation"
+        "economy_business",
+        "world_diplomacy"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#Taiwan",
-        "#NuclearPower",
-        "#China"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b09705fad-1795780703.jpg?resize=1920%2C1440",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-28%2Fcqg9tbsy%2FUntitled-1.png?rect=0%2C65%2C748%2C393&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-27T23:09:04+00:00",
+      "published_at": "2026-11-28T01:33:41+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.2441,
+      "importance_score": 7.0,
+      "rank_score": 4.7697,
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
-          "title": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
-          "snippet": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/business/economics/qypxtjl85y",
+          "title": "মার্কিন শুল্ক আরোপ হলে চাপে পড়তে পারে দেশের তিন খাত",
+          "snippet": "মার্কিন শুল্ক আরোপ হলে চাপে পড়তে পারে দেশের তিন খাত"
         }
       ],
       "daily_buzz": {
-        "title_bn": "তাইওয়ানে পারমাণবিক শক্তি ফিরিয়ে আনার বিষয়ে গণভোট অনুষ্ঠিত হচ্ছে।",
-        "title_en": "Taiwan is holding a referendum on reviving nuclear power.",
-        "summary_bn": "তাইওয়ানের ভোটারেরা স্থানীয় নির্বাচনের পাশাপাশি পারমাণবিক শক্তিতে ফিরে যাওয়ার বিষয়ে একটি গণভোটে রায় দেবেন।",
-        "summary_en": "Voters in Taiwan are set to decide whether to bring back nuclear power alongside local elections.",
+        "title_bn": "মার্কিন শুল্ক আরোপ হলে চাপে পড়তে পারে বাংলাদেশের তিন রপ্তানি খাত",
+        "title_en": "New US tariffs may pressure three Bangladeshi export sectors",
+        "summary_bn": "মার্কিন বাণিজ্য প্রতিনিধির দপ্তর অতিরিক্ত উৎপাদন সক্ষমতার অভিযোগে বাংলাদেশের পণ্য রপ্তানিতে ১৮ শতাংশ শুল্ক বসানোর প্রস্তাব করেছে।",
+        "summary_en": "The United States Trade Representative proposed an 18 percent tariff on Bangladeshi goods exports over excess production capacity.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-28T01:33:41+00:00",
+        "lead_bn": "মার্কিন বাণিজ্য প্রতিনিধির দপ্তর অতিরিক্ত উৎপাদন সক্ষমতার অভিযোগে বাংলাদেশের পণ্য রপ্তানিতে ১৮ শতাংশ শুল্ক বসানোর প্রস্তাব করেছে।",
+        "lead_en": "The United States Trade Representative proposed an 18 percent tariff on Bangladeshi goods exports over excess production capacity.",
+        "bullets_bn": [
+          "তৈরি পোশাক, জুতা এবং হোম টেক্সটাইল ও টেরিটাওয়েল খাত নতুন মার্কিন শুল্কের কারণে চাপে পড়তে পারে।",
+          "বাংলাদেশ রপ্তানি উন্নয়ন ব্যুরোর তথ্য অনুযায়ী গত অর্থবছরে যুক্তরাষ্ট্রে সবচেয়ে বেশি ৯০৫ কোটি ডলারের পণ্য রপ্তানি হয়।",
+          "আগামী ৫ জানুয়ারির মধ্যে বাংলাদেশ সরকার প্রস্তাবের ওপর লিখিত মতামত দিতে পারবে এবং ২৫ জানুয়ারি ওয়াশিংটনে শুনানি হবে।"
+        ],
+        "bullets_en": [
+          "Ready-made garments, footwear, and home textiles and terry towels may face pressure from the new US tariffs.",
+          "According to the Export Promotion Bureau, shipments to the US reached the highest at 9.05 billion dollars last fiscal year.",
+          "The Bangladesh government can submit written feedback by January 5, and a hearing will be held in Washington on January 25."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "যুক্তরাষ্ট্রের বাণিজ্য আইনের সেকশন ৩০১-এর আওতায় গত মার্চে অতিরিক্ত উৎপাদন সক্ষমতা এবং জোর করে শ্রমে উৎপাদিত পণ্যের ওপর নিষেধাজ্ঞা যথাযথভাবে কার্যকর না করার বিষয়ে দুটি তদন্ত শুরু হয়। এর আগে জুলাই মাসে জোর করে শ্রমে উৎপাদিত পণ্যের ওপর নিষেধাজ্ঞা কার্যকর না করায় বাংলাদেশসহ ৬০ দেশের ওপর ১০ ও সাড়ে ১২ শতাংশ শুল্ক আরোপ করা হয়, যেখানে বাংলাদেশের শুল্ক ছিল ১০ শতাংশ। আলোচনা ও প্রতিশ্রুতি সন্তোষজনক না হলে বর্তমান প্রস্তাবিত শুল্কের হার ২০ শতাংশও হতে পারে।",
+        "details_en": "Under Section 301 of the US trade law, two investigations began last March regarding excess production capacity and the failure to properly enforce bans on goods made with forced labor. Earlier in July, tariffs of 10 and 12.5 percent were imposed on 60 countries including Bangladesh, where Bangladesh faced a 10 percent tariff. If discussions and commitments are not satisfactory, the proposed tariff rate could also become 20 percent.",
+        "hook_bn": "যুক্তরাষ্ট্রের নতুন শুল্কে চাপে তিন খাত",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": "মার্কিন শুল্ক বাড়লে দেশের রপ্তানি আয়ে কেমন প্রভাব পড়তে পারে বলে আপনি মনে করেন?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-28T02:02:03.852402+00:00"
+      }
+    },
+    {
+      "story_id": "b0031199-9b66-5c69-8588-71e2a1439ba2",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1769708046949-108aa733f753?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFubmVkJTIwYXdhbWklMjBsZWFndWUlMjBicmluZ3MlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTU4MzEzMTB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-28T01:00:37+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.5,
+      "rank_score": 3.9838,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1184450",
+          "title": "গোপালগঞ্জে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের মশাল মিছিল",
+          "snippet": "গোপালগঞ্জে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের মশাল মিছিল"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "গোপালগঞ্জে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের মশাল মিছিল",
+        "title_en": "Banned Awami League brings out torch procession in Gopalganj",
+        "summary_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের পক্ষ থেকে গোপালগঞ্জে মশাল মিছিল করা হয়েছে।",
+        "summary_en": "A torch procession has been brought out by the banned Awami League in Gopalganj.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-28T01:00:37+00:00",
+        "lead_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের পক্ষ থেকে গোপালগঞ্জে মশাল মিছিল করা হয়েছে।",
+        "lead_en": "A torch procession has been brought out by the banned Awami League in Gopalganj.",
+        "bullets_bn": [
+          "গোপালগঞ্জ জেলা সদরে মশাল মিছিল হয়েছে।",
+          "টুঙ্গিপাড়া উপজেলায় মশাল মিছিলের কর্মসূচি পালিত হয়েছে।",
+          "কোটালীপাড়া, মুকসুদপুর ও কাশিয়ানীতেও মশাল মিছিল করা হয়েছে।"
+        ],
+        "bullets_en": [
+          "A torch procession took place at the Gopalganj district headquarters.",
+          "The torch procession program was observed in Tungipara upazila.",
+          "Torch processions were also carried out in Kotalipara, Muksudpur and Kashiani."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "গোপালগঞ্জে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের মশাল মিছিল",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": true,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-28T02:02:03.852402+00:00"
+      }
+    },
+    {
+      "story_id": "124f4475-f1c7-55b5-9205-11a85ed1f03b",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#SramikLeague",
+        "#Savar"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1740118125318-7e07c97a13c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8c3JhbWlrJTIwbGVhZ3VlJTIwYWN0aXZpc3RzJTIwYXJyZXN0ZWQlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTU4MzEzMTJ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-28T01:42:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.25,
+      "rank_score": 3.833,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425950/six-sramik-league-activists-arrested-over-alleged",
+          "title": "Six Sramik League activists arrested over alleged arson plot in Savar",
+          "snippet": "Six Sramik League activists arrested over alleged arson plot in Savar"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1184447",
+          "title": "নকল হানিফ পরিবহনে করে বাসে আগুন দিয়ে বেড়াচ্ছিলেন শ্রমিকলীগের নেতারা",
+          "snippet": "নকল হানিফ পরিবহনে করে বাসে আগুন দিয়ে বেড়াচ্ছিলেন শ্রমিকলীগের নেতারা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সাভারে কার্যক্রম নিষিদ্ধ শ্রমিক লীগের ছয় নেতাকর্মী গ্রেফতার",
+        "title_en": "Six Sramik League activists arrested in Savar",
+        "summary_bn": "ঢাকা-আরিচা মহাসড়কের ফুলবাড়িয়া এলাকায় গাড়িতে অগ্নিসংযোগের চেষ্টা ও মশাল মিছিলের প্রস্তুতিকালে কার্যক্রম নিষিদ্ধ শ্রমিক লীগের ছয় নেতাকর্মীকে গ্রেফতার করেছে পুলিশ।",
+        "summary_en": "Police arrested six activists of the banned Sramik League for allegedly attempting to set fire to vehicles and preparing for a torch procession in the Fulbaria area on the Dhaka-Aricha highway.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-28T01:42:00+00:00",
+        "lead_bn": "ঢাকা-আরিচা মহাসড়কের ফুলবাড়িয়া এলাকায় গাড়িতে অগ্নিসংযোগের চেষ্টা ও মশাল মিছিলের প্রস্তুতিকালে কার্যক্রম নিষিদ্ধ শ্রমিক লীগের ছয় নেতাকর্মীকে গ্রেফতার করেছে পুলিশ।",
+        "lead_en": "Police arrested six activists of the banned Sramik League for allegedly attempting to set fire to vehicles and preparing for a torch procession in the Fulbaria area on the Dhaka-Aricha highway.",
+        "bullets_bn": [
+          "ঢাকা-আরিচা মহাসড়কের ফুলবাড়িয়া এলাকায় কার্যক্রম নিষিদ্ধ শ্রমিক লীগের ছয় নেতাকর্মীকে গ্রেফতার করা হয়েছে।",
+          "নকল হানিফ পরিবহনে করে বাসে আগুন দিয়ে বেড়াচ্ছিলেন শ্রমিক লীগের নেতারা।",
+          "রাত প্রায় ১০টা ৩০ মিনিটের দিকে এই গ্রেফতারের ঘটনা ঘটে।"
+        ],
+        "bullets_en": [
+          "Six activists of the banned Sramik League were arrested in the Fulbaria area on the Dhaka-Aricha highway.",
+          "The Sramik League leaders were moving around setting fire to buses using a fake Hanif Paribahan vehicle.",
+          "The arrests were made around 10:30pm on Friday."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "সাভারে বাসে আগুন দেওয়ার চেষ্টার সময় গ্রেফতার ছয়",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-28T02:02:03.852402+00:00"
+      }
+    },
+    {
+      "story_id": "f3b20fa5-df34-502c-9a9c-812e8d832d69",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#Yemen",
+        "#SaudiArabia",
+        "#Houthis",
+        "#Taiz"
+      ],
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/28/yemen_saudi_strike.png",
+      "image_caption": null,
+      "published_at": "2026-11-28T01:30:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.4249,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/worldbiz/middle-east/saudi-strike-kills-11-civilians-yemens-taiz-1616126",
+          "title": "Saudi strike kills 11 civilians in Yemen’s Taiz",
+          "snippet": "Saudi strike kills 11 civilians in Yemen’s Taiz"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইয়েমেনের তাইজে বিমান হামলায় ১১ জন নিহত",
+        "title_en": "Saudi strike kills 11 civilians in Yemen's Taiz",
+        "summary_bn": "ইয়েমেনের তাইজ গভর্নরেটের আল-তুরবাহ এলাকায় আবাসিক ভবনে বিমান হামলায় মূলত শিশুসহ অন্তত ১১ জন বেসামরিক নাগরিক নিহত হয়েছেন।",
+        "summary_en": "At least 11 civilians, mostly children, were killed after alleged Saudi air strikes hit a residential building in al-Turbah, south of Taiz governorate.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "tech_innovation"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T23:09:04+00:00",
-        "lead_bn": "তাইওয়ানের ভোটারেরা স্থানীয় নির্বাচনের পাশাপাশি পারমাণবিক শক্তিতে ফিরে যাওয়ার বিষয়ে একটি গণভোটে রায় দেবেন।",
-        "lead_en": "Voters in Taiwan are set to decide whether to bring back nuclear power alongside local elections.",
+        "published_at": "2026-11-28T01:30:00+00:00",
+        "lead_bn": "ইয়েমেনের তাইজ গভর্নরেটের আল-তুরবাহ এলাকায় আবাসিক ভবনে বিমান হামলায় মূলত শিশুসহ অন্তত ১১ জন বেসামরিক নাগরিক নিহত হয়েছেন।",
+        "lead_en": "At least 11 civilians, mostly children, were killed after alleged Saudi air strikes hit a residential building in al-Turbah, south of Taiz governorate.",
         "bullets_bn": [
-          "এটি আট বছরে তাইওয়ানের চতুর্থ পারমাণবিক শক্তি বিষয়ক ভোট।",
-          "কেএমটি এই গণভোট প্রস্তাব করেছে এবং টিপিপি এটিকে সমর্থন দিচ্ছে।",
-          "ডিপিপি সংসদ সদস্য চেন পেই-ইউ এই গণভোটকে অদরকারী বলে অভিহিত করেছেন।"
+          "উদ্ধারকর্মীরা আটটি মৃতদেহ উদ্ধার করেছেন এবং ধ্বংসস্তূপের নিচে তিনজন নিখোঁজ রয়েছেন।",
+          "সৌদি নেতৃত্বাধীন জোট তাৎক্ষণিকভাবে কোনো মন্তব্য করেনি, তবে পরে রিয়াদমুখী একটি হুথি ড্রোন ধ্বংসের কথা জানিয়েছে।",
+          "নরওয়েজিয়ান রিফিউজি কাউন্সিলের প্রধান জান ইয়েল্যান্ড বেসামরিক নাগরিকদের সুরক্ষা এবং মানবিক সহায়তার দাবি জানিয়েছেন।"
         ],
         "bullets_en": [
-          "It is the island's fourth vote on nuclear power in just eight years.",
-          "The opposition Kuomintang proposed the referendum and the Taiwan People's Party is backing it.",
-          "DPP legislator Chen Pei-yu called the referendum unnecessary."
+          "Rescue teams retrieved eight bodies, while three people remain missing beneath the rubble.",
+          "The Saudi-led coalition did not immediately comment, but later reported destroying a Houthi drone launched toward Riyadh.",
+          "Norwegian Refugee Council Secretary-General Jan Egeland demanded civilian protection, humanitarian access, and responsibility from foreign backers."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "১৮ মাস আগে শেষ সচল চুল্লি বন্ধ হওয়ার পর এই গণভোট অনুষ্ঠিত হচ্ছে। তাইওয়ানের কম্পিউটার চিপ শিল্পে বিদ্যুতের চাহিদা বাড়ায় এবং চীনের সঙ্গে উত্তেজনার মধ্যে এই ভোট হচ্ছে। পাস হতে হলে হ্যাঁ ভোটকে না ভোটের চেয়ে বেশি হতে হবে এবং মোট যোগ্য ভোটারের এক চতুর্থাংশের বেশি হতে হবে।",
-        "details_en": "The vote comes 18 months after the last operational reactor was shut down amid soaring electricity demand for the computer chip industry and tensions with China. To pass, yes votes must outnumber no votes and exceed a quarter of all eligible voters.",
-        "hook_bn": "তাইওয়ানে পারমাণবিক শক্তি নিয়ে গণভোট",
-        "kicker_bn": "গণভোট",
+        "details_bn": "২০২২ সালের যুদ্ধবিরতির পতন এবং আঞ্চলিক সংঘাতের পর সরকারি বাহিনী ও হুথিদের মধ্যে শত্রুতা বৃদ্ধি পায়। বিশ্ব স্বাস্থ্য সংস্থার তথ্য অনুযায়ী, আগস্ট থেকে ১৩ হাজার ৩৪৩ জন নিহত বা আহত হয়েছেন। সংঘাতের কারণে হাজার হাজার মানুষ বাস্তুচ্যুত হয়েছে এবং জরুরি আশ্রয়ের তহবিলে মাত্র ১২ শতাংশ অর্থায়ন রয়েছে।",
+        "details_en": "Hostilities between government forces and Houthis escalated following the collapse of a 2022 ceasefire and broader regional conflicts. According to WHO, 13,343 people have been killed or injured since August. NRC Secretary-General Jan Egeland warned that renewed fighting has displaced thousands amid severe aid shortages, noting emergency shelter funding stands at just 12 percent.",
+        "hook_bn": "তাইজে বিমান হামলায় নিহত ১১",
+        "kicker_bn": "সতর্কতা",
         "share_value": false,
         "question_bn": null
       },
@@ -347,7 +348,76 @@
       "social_appeal": 4.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-28T01:01:55.254020+00:00"
+        "checked_at": "2026-11-28T02:02:03.852402+00:00"
+      }
+    },
+    {
+      "story_id": "e4c626e1-d533-587c-92c4-d1ae2305742f",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1631079250215-525a723f6081?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGVyY2VudCUyMHBlb3BsZSUyMGNvdW50cnklMjBub3QlMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NTgyNzY4Mnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-28T00:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.2021,
+      "sources": [
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/823331/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A6-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%AA%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%A8%E0%A6%BE%C2%A0%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A7%AC%E0%A7%A9-%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%82%E0%A6%B6-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7",
+          "title": "নিরাপদ পানি পাচ্ছে না দেশের ৬৩ শতাংশ মানুষ",
+          "snippet": "নিরাপদ পানি পাচ্ছে না দেশের ৬৩ শতাংশ মানুষ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "দেশের ৬২ দশমিক ৯ শতাংশ মানুষ নিরাপদ পানি পাচ্ছেন না",
+        "title_en": "62.9 percent of people in the country are not getting safe water",
+        "summary_bn": "ইত্তেফাক সূত্রে জানা যায়, দেশের ৯৮ দশমিক ৬ শতাংশ মানুষ মৌলিক পানির সুবিধা পেলেও নিরাপদভাবে ব্যবস্থাপিত পানি পাচ্ছেন মাত্র ৩৭ দশমিক ১ শতাংশ মানুষ।",
+        "summary_en": "According to Ittefaq, while 98.6 percent of people in the country get basic water facilities, only 37.1 percent get safely managed water.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-28T00:00:00+00:00",
+        "lead_bn": "ইত্তেফাক সূত্রে জানা যায়, দেশের ৯৮ দশমিক ৬ শতাংশ মানুষ মৌলিক পানির সুবিধা পেলেও নিরাপদভাবে ব্যবস্থাপিত পানি পাচ্ছেন মাত্র ৩৭ দশমিক ১ শতাংশ মানুষ।",
+        "lead_en": "According to Ittefaq, while 98.6 percent of people in the country get basic water facilities, only 37.1 percent get safely managed water.",
+        "bullets_bn": [
+          "নিরাপদ পানির নির্ধারিত সব শর্ত পূরণ হচ্ছে না ৬২ দশমিক ৯ শতাংশ মানুষের ক্ষেত্রে।",
+          "পরিবারের ব্যবহারের পানিতে ই-কোলাইয়ের উপস্থিতি রয়েছে।",
+          "পানির উৎসে আর্সেনিকের মাত্রা বিশ্ব স্বাস্থ্য সংস্থার নিয়মের কথা বলা হয়েছে।"
+        ],
+        "bullets_en": [
+          "All prescribed conditions for safe water are not met for 62.9 percent of people.",
+          "There is a presence of E. coli in family use water.",
+          "The level of arsenic in water sources mentions World Health Organization rules."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "নিরাপদ পানি পাচ্ছে না ৬৩ শতাংশ মানুষ",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": "আপনার এলাকার পানির উৎসে কি নিরাপদ পানির সংকট রয়েছে?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-28T02:02:03.852402+00:00"
       }
     }
   ]
