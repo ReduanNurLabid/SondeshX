@@ -1,146 +1,283 @@
 {
-  "updated_at": "2026-11-28T03:00:50.690795",
-  "total_stories": 3,
+  "updated_at": "2026-11-28T04:00:55.926741",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "51b231aa-11fd-5631-ad79-d4a77383ef9a",
-      "primary_category": "economy_business",
+      "story_id": "e7a91a22-29a4-5b83-a244-f040ab0f97fb",
+      "primary_category": "climate_environment",
       "interest_categories": [
-        "economy_business",
-        "governance_law"
+        "climate_environment",
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#Climate",
+        "#Environment"
       ],
-      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFuZ2xhZGVzaCUyMHRlYSUyMHdvcmtlcnMlMjB1bmlvbiUyMGJ1c2luZXNzfGVufDF8MHx8fDE3OTU4MzQ4OTV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1583794018021-c841442da0e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8bmF0dXJlJTIwY2xpbWF0ZSUyMGZsb29kJTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1NzcwMDg4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-28T02:56:19+00:00",
+      "published_at": "2026-11-28T03:46:20+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5828,
+      "importance_score": 7.0,
+      "rank_score": 4.8292,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1184463",
-          "title": "চলছে চা শ্রমিক ইউনিয়নের নির্বাচন, বাগানে উৎসবের আমেজ",
-          "snippet": "চলছে চা শ্রমিক ইউনিয়নের নির্বাচন, বাগানে উৎসবের আমেজ"
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/823362/%E0%A7%A7%E0%A7%AA%E0%A7%A6%E0%A7%A9-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%81%E0%A6%A7%E0%A7%87-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87%E0%A6%87-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%A8-%E0%A6%86%E0%A6%A4%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A7%87",
+          "title": "১৪০৩ কোটি টাকার বাঁধে তিন বছরেই ভাঙন, আতঙ্কে পদ্মাপাড়ের মানুষ",
+          "snippet": "১৪০৩ কোটি টাকার বাঁধে তিন বছরেই ভাঙন, আতঙ্কে পদ্মাপাড়ের মানুষ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মৌলভীবাজারের চা বাগানগুলোতে বাংলাদেশ চা শ্রমিক ইউনিয়নের নির্বাচন অনুষ্ঠিত হচ্ছে।",
-        "title_en": "Bangladesh Tea Workers Union election is taking place in Moulvibazar tea gardens.",
-        "summary_bn": "দীর্ঘ আট বছর পর বাংলাদেশ চা শ্রমিক ইউনিয়নের নির্বাচন শুরু হয়েছে, যার ফলে মৌলভীবাজারের চা বাগানগুলোতে উৎসবের আমেজ বিরাজ করছে।",
-        "summary_en": "Bangladesh Tea Workers Union election has started after a long eight years, creating a festive mood in Moulvibazar tea gardens.",
+        "title_bn": "তিন বছরেই পদ্মাতীররক্ষা বাঁধে ভাঙন দেখা দিয়েছে",
+        "title_en": "Breaks appear in Padma embankment within three years",
+        "summary_bn": "১ হাজার ৪০৩ কোটি টাকা ব্যয়ে নির্মিত পদ্মার তীররক্ষা বাঁধের শেষ প্রান্তে নির্মাণকাজ শেষ হওয়ার মাত্র তিন বছরের মাথায় ভাঙন দেখা দিয়েছে।",
+        "summary_en": "Cracks and erosion appeared at the end of the Padma riverbank protection dam within three years of completion.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "governance_law"
+          "climate_environment",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-28T02:56:19+00:00",
-        "lead_bn": "দীর্ঘ আট বছর পর বাংলাদেশ চা শ্রমিক ইউনিয়নের নির্বাচন শুরু হয়েছে, যার ফলে মৌলভীবাজারের চা বাগানগুলোতে উৎসবের আমেজ বিরাজ করছে।",
-        "lead_en": "Bangladesh Tea Workers Union election has started after a long eight years, creating a festive mood in Moulvibazar tea gardens.",
+        "published_at": "2026-11-28T03:46:20+00:00",
+        "lead_bn": "১ হাজার ৪০৩ কোটি টাকা ব্যয়ে নির্মিত পদ্মার তীররক্ষা বাঁধের শেষ প্রান্তে নির্মাণকাজ শেষ হওয়ার মাত্র তিন বছরের মাথায় ভাঙন দেখা দিয়েছে।",
+        "lead_en": "Cracks and erosion appeared at the end of the Padma riverbank protection dam within three years of completion.",
         "bullets_bn": [
-          "নির্বাচনটি ২৮ নভেম্বর অনুষ্ঠিত হচ্ছে।",
-          "নির্বাচন ঘিরে মৌলভীবাজারের চা বাগানগুলোতে উৎসবের আমেজ বিরাজ করছে।",
-          "দীর্ঘ আট বছর পর এই নির্বাচন অনুষ্ঠিত হচ্ছে।"
+          "পদ্মার ভাঙন থেকে জনপদ রক্ষায় ১ হাজার ৪০৩ কোটি টাকা ব্যয়ে তীররক্ষা বাঁধটি নির্মাণ করা হয়েছিল।",
+          "ভাঙন ঠেকাতে জরুরি ভিত্তিতে প্রায় দুই কোটি টাকা ব্যয়ে ৪০ হাজার ৫০০টি বালুভর্তি জিওব্যাগ ফেলা হয়।",
+          "ফেলা জিওব্যাগের বড় অংশ এক মাসের মধ্যে নদীর গভীরে তলিয়ে গেছে।"
         ],
         "bullets_en": [
-          "The election is taking place on 28 November.",
-          "A festive mood is prevailing in the tea gardens of Moulvibazar surrounding the election.",
-          "This election is being held after a long eight years."
+          "The embankment was built at a cost of Tk 1,403 crore to protect localities from Padma erosion.",
+          "About 40,500 sand-filled geobags were dumped urgently at a cost of about Tk 2 crore to prevent erosion.",
+          "A large portion of the dumped geobags sank into the riverbed within one month."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "দীর্ঘ আট বছর পর বাংলাদেশ চা শ্রমিক ইউনিয়নের নির্বাচন অনুষ্ঠিত হচ্ছে। এই নির্বাচনকে কেন্দ্র করে মৌলভীবাজারের চা বাগানগুলোতে ব্যাপক উৎসাহ উদ্দীপনা ও উৎসবের আমেজ লক্ষ্য করা গেছে।",
-        "details_en": "The election of Bangladesh Tea Workers Union is being held after a long eight years. Centering this election, a widespread enthusiasm and festive mood has been observed in the tea gardens of Moulvibazar.",
-        "hook_bn": "চা শ্রমিক ইউনিয়নের নির্বাচন, বাগানে উৎসব",
-        "kicker_bn": "নির্বাচন",
+        "impact_bn": "বাঁধের ভাঙনে শরীয়তপুরের মানুষ চরম ঝুঁকিতে পড়েছে।",
+        "impact_en": "People in Shariatpur face extreme risk due to the embankment erosion.",
+        "details_bn": "পদ্মার ভাঙন থেকে জনপদ রক্ষায় ১ হাজার ৪০৩ কোটি টাকা ব্যয়ে তীররক্ষা বাঁধটি নির্মাণ করা হয়। নির্মাণকাজ শেষ হওয়ার মাত্র তিন বছরের মাথায় বাঁধের শেষ প্রান্তে ভাঙন শুরু হলে এর স্থায়িত্ব নিয়ে নতুন করে প্রশ্ন দেখা দেয়। ভাঙন ঠেকাতে জরুরি ভিত্তিতে প্রায় দুই কোটি টাকা ব্যয়ে ৪০ হাজার ৫০০টি বালুভর্তি জিওব্যাগ ফেলা হলেও তার বড় অংশ এক মাসের মধ্যে নদীর গভীরে তলিয়ে যায়। এতে চরম ঝুঁকিতে পড়েছে শরীয়তপুরের মানুষ।",
+        "details_en": "The embankment was built at a cost of Tk 1,403 crore to protect localities from Padma erosion. Questions arose about its durability when erosion started at the end of the dam just three years after completion. Although 40,500 sand-filled geobags were dumped urgently at a cost of about Tk 2 crore, a large portion of them sank into the river within a month, putting people in Shariatpur at extreme risk.",
+        "hook_bn": "পদ্মা বাঁধে ভাঙন, ঝুঁকিতে শরীয়তপুর",
+        "kicker_bn": "সতর্কতা",
         "share_value": false,
-        "question_bn": "চা শ্রমিক ইউনিয়নের এই নির্বাচন নিয়ে আপনার মতামত কী?"
+        "question_bn": null
       },
-      "desk_importance": 6.0,
+      "desk_importance": 7.0,
       "outlet_count": 1,
       "trending": false,
-      "social_appeal": 5.0,
+      "social_appeal": 8.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-28T03:02:13.253442+00:00"
+        "checked_at": "2026-11-28T04:01:50.890798+00:00"
       }
     },
     {
-      "story_id": "a1cb67cb-1205-566d-93d1-2bf968e033c0",
+      "story_id": "f87c65a9-73e2-577e-91e6-6079e61f199b",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#PrimitekIndustries",
-        "#Mirsarai",
-        "#NationalSpecialEconomicZone"
+        "#MatarbariProject",
+        "#CPGCBL",
+        "#PlanningCommission",
+        "#OCAG"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2025/11/14/nsez.jpg",
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/merged/merged_b37e1b7c06eddecc02677fc90d2194fd.jpg",
       "image_caption": null,
-      "published_at": "2026-11-28T01:15:00+00:00",
+      "published_at": "2026-11-28T04:01:07.511396+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.2568,
+      "importance_score": 6.0,
+      "rank_score": 3.5988,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/economy/industry/primitek-enters-plastic-household-goods-market-targets-tk150cr-monthly-sales",
-          "title": "Primitek enters plastic household goods market, targets Tk150cr monthly sales",
-          "snippet": "Primitek enters plastic household goods market, targets Tk150cr monthly sales"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/matarbari-power-megaproject-found-mired-in-malpractices",
+          "title": "Matarbari power megaproject found mired in malpractices",
+          "snippet": "Matarbari power megaproject found mired in malpractices"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মিরসরাই অর্থনৈতিক অঞ্চলে প্রিমটেক ইন্ডাস্ট্রিজের বাণিজ্যিক উৎপাদন শুরু",
-        "title_en": "Primitek Industries starts commercial production in Mirsarai economic zone",
-        "summary_bn": "প্রিমটেক ইন্ডাস্ট্রিজ লিমিটেড মীরসরাইয়ের ন্যাশনাল স্পেশাল ইকোনমিক জোনে তাদের ত্রিশ একর কারখানায় প্লাস্টিক গৃহস্থালি পণ্যের বাণিজ্যিক উৎপাদন শুরু করেছে।",
-        "summary_en": "Primitek Industries Limited has started commercial production of plastic household goods at its 30-acre factory in the National Special Economic Zone in Mirsarai.",
+        "title_bn": "মাতারবাড়ি বিদ্যুৎ প্রকল্পে ১১৫টি অনিয়ম পেয়েছে সরকারি অডিট।",
+        "title_en": "Government audit finds malpractices in Matarbari power project.",
+        "summary_bn": "সরকারি অডিটে মাতারবাড়ি কয়লাভিত্তিক বিদ্যুৎ মেগাপ্রকল্পে ১১৫টি অনিয়ম ও আর্থিক অসঙ্গতি ধরা পড়েছে।",
+        "summary_en": "A government audit has found 115 observations regarding wrongdoings and financial irregularities in the Matarbari coal-fired power megaproject.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-28T01:15:00+00:00",
-        "lead_bn": "প্রিমটেক ইন্ডাস্ট্রিজ লিমিটেড মীরসরাইয়ের ন্যাশনাল স্পেশাল ইকোনমিক জোনে তাদের ত্রিশ একর কারখানায় প্লাস্টিক গৃহস্থালি পণ্যের বাণিজ্যিক উৎপাদন শুরু করেছে।",
-        "lead_en": "Primitek Industries Limited has started commercial production of plastic household goods at its 30-acre factory in the National Special Economic Zone in Mirsarai.",
+        "published_at": "2026-11-28T04:01:07.511396+00:00",
+        "lead_bn": "সরকারি অডিটে মাতারবাড়ি কয়লাভিত্তিক বিদ্যুৎ মেগাপ্রকল্পে ১১৫টি অনিয়ম ও আর্থিক অসঙ্গতি ধরা পড়েছে।",
+        "lead_en": "A government audit has found 115 observations regarding wrongdoings and financial irregularities in the Matarbari coal-fired power megaproject.",
         "bullets_bn": [
-          "প্রতিষ্ঠানটি এই কারখানায় ৩.৫ মিলিয়ন মার্কিন ডলার বিনিয়োগ করেছে এবং দেড়শ কোটি টাকা মাসিক বিক্রির লক্ষ্যমাত্রা নির্ধারণ করেছে।",
-          "পূর্ণ উৎপাদনে গেলে কারখানাটিতে পাঁচ হাজার মানুষের কর্মসংস্থান হবে বলে জানানো হয়েছে।",
-          "কারখানাটি বর্তমানে প্লাস্টিক চেয়ার ও পাইপ, পিভিসি শিট এবং এসপিসি ফ্লোরিং উৎপাদন করছে।"
+          "অডিটে প্রশ্নবিদ্ধ ব্যয়, অনিয়মিত চুক্তি বাস্তবায়ন, অতিরিক্ত পরিশোধ এবং আর্থিক নিয়ম লঙ্ঘনের ঘটনা পাওয়া গেছে।",
+          "অনিয়মের ফলে প্রকল্পের তৃতীয় সংশোধন প্রস্তাব পরিকল্পনা কমিশনের প্রশ্নের মুখে পড়েছে।",
+          "কোল পাওয়ার জেনারেশন কোম্পানি বাংলাদেশ লিমিটেড প্রকল্পের মেয়াদ এক বছর বাড়ানোর আবেদন করেছে।"
         ],
         "bullets_en": [
-          "The company has invested $3.5 million in the facility and targets monthly sales of Tk150 crore.",
-          "At full capacity, the factory is expected to generate employment for 5,000 people.",
-          "The facility currently produces plastic chairs and pipes, PVC sheets and SPC flooring."
+          "The findings involve questionable expenditure, irregular contract execution, excess payments, and violations of financial rules.",
+          "The audit anomalies have put the proposed 3rd revision of the project under fresh scrutiny by the Planning Commission.",
+          "Coal Power Generation Company Bangladesh Limited has recently sought a one-year extension to finish the project."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "কারখানাটি বর্তমানে প্রায় এক হাজার মানুষকে চাকরি দিচ্ছে এবং ২০২৭ সালে আরও আড়াই হাজার কর্মী নিয়োগের পরিকল্পনা রয়েছে। গ্রিন ফ্যাসিলিটি হিসেবে ডিজাইন করা এই কারখানায় বাসবার ট্রাঙ্কিং সিস্টেম ব্যবহার করা হয়েছে এবং বৃষ্টির পানি সংরক্ষণের ব্যবস্থা রয়েছে। তবে গ্যাস সংকটের কারণে উৎপাদন সম্প্রসারণ ব্যাহত হচ্ছে এবং কোম্পানিকে বিকল্প হিসেবে ডিজেল ব্যবহার করতে হচ্ছে বলে ব্যবস্থাপনা পরিচালক এম এ কাইয়ুম জানিয়েছেন।",
-        "details_en": "The factory currently employs around 1,000 people, with plans to recruit another 2,500 in 2027. Designed as a green facility, it uses a busbar trunking system and has rainwater harvesting provisions. However, Managing Director MA Quieum said gas shortages are hampering production expansion, forcing the company to use diesel as an alternative.",
-        "hook_bn": "মীরসরাইয়ে প্রিমটেকের বাণিজ্যিক উৎপাদন শুরু",
-        "kicker_bn": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "মাতারবাড়ি বিদ্যুৎ প্রকল্পে ১১৫ অনিয়ম",
+        "kicker_bn": "নতুন তারিখ",
         "share_value": false,
-        "question_bn": "দেশে প্লাস্টিক পণ্যের মান ও বাজার সম্পর্কে আপনার মতামত কী?"
+        "question_bn": "মেগাপ্রকল্প বাস্তবায়নে এই ধরনের অনিয়ম রোধে কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
       },
-      "desk_importance": 5.0,
+      "desk_importance": 6.0,
       "outlet_count": 1,
       "trending": false,
-      "social_appeal": 5.0,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-28T03:02:13.253442+00:00"
+        "checked_at": "2026-11-28T04:01:50.890798+00:00"
       }
     },
     {
-      "story_id": "1bee8070-c6a2-56d9-bb82-04fac890e184",
+      "story_id": "12792030-fb7c-5d29-89d9-8e3a26e92e5e",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://media.channelionline.com/2026/11/medical-1.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-11-28T03:48:26+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5551,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/government-medical-seats-increased-270/",
+          "title": "সরকারি মেডিকেলে বাড়ল ২৭০ আসন, ভর্তির তালিকায় নতুন তিন কলেজ",
+          "snippet": "সরকারি মেডিকেলে বাড়ল ২৭০ আসন, ভর্তির তালিকায় নতুন তিন কলেজ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সরকারি মেডিকেলে আসন বাড়ল ২৭০টি",
+        "title_en": "Government medical seats increased by 270",
+        "summary_bn": "দেশের সরকারি মেডিকেল ও ডেন্টাল কলেজে এমবিবিএস কোর্সে ২৭০টি আসন বাড়ানো হয়েছে, ফলে মোট আসনসংখ্যা দাঁড়িয়েছে ৫ হাজার ২৭০টিতে।",
+        "summary_en": "Government medical and dental colleges in the country have increased 270 seats in the MBBS course, bringing the total to 5,270 seats.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-28T03:48:26+00:00",
+        "lead_bn": "দেশের সরকারি মেডিকেল ও ডেন্টাল কলেজে এমবিবিএস কোর্সে ২৭০টি আসন বাড়ানো হয়েছে, ফলে মোট আসনসংখ্যা দাঁড়িয়েছে ৫ হাজার ২৭০টিতে।",
+        "lead_en": "Government medical and dental colleges in the country have increased 270 seats in the MBBS course, bringing the total to 5,270 seats.",
+        "bullets_bn": [
+          "সদ্য অনুমোদন পাওয়া তিনটি নতুন মেডিকেল কলেজেও এবার শিক্ষার্থী ভর্তির সুযোগ রাখা হয়েছে।",
+          "স্বাস্থ্য শিক্ষা অধিদপ্তরের বিজ্ঞপ্তিতে জানানো হয়েছে, এমবিবিএস কোর্সে দেশের ৪০টি সরকারি মেডিকেল কলেজে মোট আসনসংখ্যা ৫ হাজার ২৭০টি।",
+          "এমবিবিএস ও বিডিএস কোর্সে ভর্তির আবেদন ৩ ডিসেম্বর রাত ১১টা ৫৯ মিনিট পর্যন্ত চলবে এবং ভর্তি পরীক্ষা ১৮ ডিসেম্বর অনুষ্ঠিত হবে।"
+        ],
+        "bullets_en": [
+          "Students will also have the opportunity to enroll in three newly approved medical colleges this time.",
+          "According to the notification of the Directorate General of Medical Education, the total number of seats in 40 government medical colleges is 5,270.",
+          "Application for admission to MBBS and BDS courses will continue till December 3 at 11:59 pm and the admission test will be held on December 18."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "সরকারি মেডিকেলে বাড়ল ২৭০ আসন",
+        "kicker_bn": "নতুন আসন",
+        "share_value": true,
+        "question_bn": "সরকারি মেডিকেল কলেজে আসন বৃদ্ধির এই সিদ্ধান্তকে আপনি কীভাবে দেখছেন?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-28T04:01:50.890798+00:00"
+      }
+    },
+    {
+      "story_id": "ae8506dd-5b0a-59c1-9bf9-65b72fd7e14a",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1792783221376-324f170fc1a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8c3R1ZGVudCUyMHBhcmFkZSUyMGRpc3BsYXklMjByZXR1cm4lMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NTgzODUwNHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-28T03:46:47+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5495,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/education/news/1184472",
+          "title": "দুই বছর পর বিজয় দিবসে ফিরছে শিক্ষার্থীদের কুচকাওয়াজ-ডিসপ্লে",
+          "snippet": "দুই বছর পর বিজয় দিবসে ফিরছে শিক্ষার্থীদের কুচকাওয়াজ-ডিসপ্লে"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "দুই বছর পর বিজয় দিবসে ফিরছে শিক্ষার্থীদের কুচকাওয়াজ ও ডিসপ্লে।",
+        "title_en": "Student parade and display return to Victory Day after two years.",
+        "summary_bn": "মহান বিজয় দিবসে শিক্ষার্থীদের অংশগ্রহণে কুচকাওয়াজ ও ডিসপ্লে দুই বছর পর আবার চালু হচ্ছে।",
+        "summary_en": "Student participation in the Victory Day parade and display is resuming after two years.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-28T03:46:47+00:00",
+        "lead_bn": "মহান বিজয় দিবসে শিক্ষার্থীদের অংশগ্রহণে কুচকাওয়াজ ও ডিসপ্লে দুই বছর পর আবার চালু হচ্ছে।",
+        "lead_en": "Student participation in the Victory Day parade and display is resuming after two years.",
+        "bullets_bn": [
+          "অন্তর্বর্তী সরকারের সময়ে টানা দুই বছর এই কুচকাওয়াজ ও ডিসপ্লে বন্ধ ছিল।",
+          "কুচকাওয়াজ ও ডিসপ্লে বন্ধ থাকার কারণে পূর্বে বিস্তর সমালোচনা হয়েছিল।",
+          "কুচকাওয়াজ ও ডিসপ্লের পরিবর্তে পূর্বে বিজয়মেলা আয়োজন করা হয়েছিল।"
+        ],
+        "bullets_en": [
+          "The parade and display were suspended for two consecutive years during the interim government.",
+          "The suspension of the parade and display drew extensive criticism.",
+          "A victory fair was previously organized in place of the parade and display."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "অন্তর্বর্তী সরকারের সময়ে মহান বিজয় দিবসে শিক্ষার্থীদের অংশগ্রহণে কুচকাওয়াজ ও ডিসপ্লে টানা দুই বছর বন্ধ রাখা হয়েছিল। এই সিদ্ধান্ত নিয়ে পূর্বে বিস্তর সমালোচনা হয়েছিল। কুচকাওয়াজ ও ডিসপ্লে না করে তখন বিজয়মেলা আয়োজন করা হয়েছিল।",
+        "details_en": "During the interim government, the student participation parade and display on Victory Day were suspended for two consecutive years. This decision drew extensive criticism at the time. Instead of the parade and display, a victory fair was previously organized.",
+        "hook_bn": "দুই বছর পর ফিরছে শিক্ষার্থীদের কুচকাওয়াজ",
+        "kicker_bn": "বিজয় দিবস",
+        "share_value": false,
+        "question_bn": "বিজয় দিবসে শিক্ষার্থীদের কুচকাওয়াজ ও ডিসপ্লে পুনরায় চালুর সিদ্ধান্তকে আপনি কীভাবে দেখছেন?"
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-28T04:01:50.890798+00:00"
+      }
+    },
+    {
+      "story_id": "24df8e03-c831-5dee-b5bb-b52f5888513f",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
@@ -150,60 +287,143 @@
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": "https://images.unsplash.com/photo-1760872646618-13594fc00567?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Y2FiaW5ldCUyMG1lbWJlcnMlMjBzdGFydCUyMGxpdmluZyUyMGRpcGxvbWFjeXxlbnwxfDB8fHwxNzk1ODM0OTAzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1515920790630-ae39d5617d08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cnVzc2lhbiUyMHByZXNpZGVudCUyMHB1dGluJTIwdW52ZWlsZWQlMjBkaXBsb21hY3l8ZW58MXwwfHx8MTc5NTgzODUwOHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-28T02:50:46+00:00",
+      "published_at": "2026-11-28T03:31:22+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.0,
-      "rank_score": 3.5637,
+      "rank_score": 3.4972,
       "sources": [
         {
           "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823348/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A7%81%E0%A6%AE%E0%A6%95%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%98%E0%A6%BE%E0%A6%81%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A6%B8-%E0%A6%95%E0%A6%B0%E0%A6%9B%E0%A7%87%E0%A6%A8",
-          "title": "ইরানের হুমকির মুখে সামরিক ঘাঁটিতে বসবাস শুরু করেছেন ট্রাম্পের মন্ত্রিসভার সদস্যরা",
-          "snippet": "ইরানের হুমকির মুখে সামরিক ঘাঁটিতে বসবাস শুরু করেছেন ট্রাম্পের মন্ত্রিসভার সদস্যরা"
+          "url": "https://www.ittefaq.com.bd/823360/%E0%A6%B9%E0%A6%BE%E0%A6%87%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%B8%E0%A6%A8%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA%E0%A6%A3%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%A3%E0%A6%AC%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%AE%E0%A7%87%E0%A6%B0%E0%A6%BF%E0%A6%A8",
+          "title": "হাইপারসনিক ক্ষেপণাস্ত্রবাহী পারমাণবিক সাবমেরিন উদ্বোধন করলেন পুতিন",
+          "snippet": "হাইপারসনিক ক্ষেপণাস্ত্রবাহী পারমাণবিক সাবমেরিন উদ্বোধন করলেন পুতিন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইরানের হুমকির মুখে সামরিক ঘাঁটিতে বসবাস শুরু করেছেন মার্কিন মন্ত্রিসভার সদস্যরা",
-        "title_en": "US cabinet members start living in military bases amid Iran threats",
-        "summary_bn": "ইরানের হুমকির মুখে মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের মন্ত্রিসভার প্রায় অর্ধডজন সদস্য সুরক্ষিত সামরিক ঘাঁটিতে বসবাস শুরু করেছেন।",
-        "summary_en": "About half a dozen members of US President Donald Trump's cabinet started living in secure military bases amid threats from Iran.",
+        "title_bn": "রাশিয়ার প্রেসিডেন্ট পুতিন নতুন পারমাণবিক সাবমেরিন উদ্বোধন করেছেন।",
+        "title_en": "Russian President Putin unveiled a new nuclear submarine.",
+        "summary_bn": "রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিন নতুন একটি পারমাণবিক শক্তিচালিত সাবমেরিন উন্মোচন করেছেন।",
+        "summary_en": "Russian President Vladimir Putin unveiled a new nuclear-powered submarine.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-28T02:50:46+00:00",
-        "lead_bn": "ইরানের হুমকির মুখে মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের মন্ত্রিসভার প্রায় অর্ধডজন সদস্য সুরক্ষিত সামরিক ঘাঁটিতে বসবাস শুরু করেছেন।",
-        "lead_en": "About half a dozen members of US President Donald Trump's cabinet started living in secure military bases amid threats from Iran.",
+        "published_at": "2026-11-28T03:31:22+00:00",
+        "lead_bn": "রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিন নতুন একটি পারমাণবিক শক্তিচালিত সাবমেরিন উন্মোচন করেছেন।",
+        "lead_en": "Russian President Vladimir Putin unveiled a new nuclear-powered submarine.",
         "bullets_bn": [
-          "ট্রাম্প প্রশাসনের এই নিরাপত্তা শঙ্কার কথা সিএনএন-এর এক প্রতিবেদনে জানানো হয়।",
-          "জেনারেল ও শীর্ষ সামরিক কর্মকর্তাদের জন্য নির্মিত শতাব্দীপ্রাচীন সামরিক আবাসন ব্যবহার করা হচ্ছে।",
-          "কঠোরভাবে নিয়ন্ত্রিত এসব সামরিক আবাসনে থাকতেই নিজেদের সবচেয়ে নিরাপদ মনে করছেন প্রশাসনের কর্মকর্তারা।"
+          "মস্কো দাবি করেছে এটি রুশ জিরকন হাইপারসনিক ক্ষেপণাস্ত্র সজ্জিত প্রথম সাবমেরিন।",
+          "ক্রেমলিনের প্রকাশিত ভিডিও অনুযায়ী এই সাবমেরিন উন্মোচন করা হয়েছে।",
+          "রাশিয়া ২০৩০ সালের মধ্যে দেশের নৌবহরে আরও পাঁচটি পারমাণবিক সাবমেরিন যুক্ত করার পরিকল্পনা জানিয়েছে।"
         ],
         "bullets_en": [
-          "The security concern of the Trump administration was reported by CNN on Saturday.",
-          "Century-old military housing built for generals and top military officials is being used.",
-          "Administration officials consider themselves safest staying in these strictly controlled military residences."
+          "Moscow claimed this is the first submarine equipped with Russian Zircon hypersonic missiles.",
+          "The submarine was unveiled according to a video published by the Kremlin.",
+          "Russia announced plans to add five more nuclear submarines to its navy by 2030."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ইরানের পক্ষ থেকে আসা হুমকির প্রেক্ষাপটে ট্রাম্প প্রশাসনের নিরাপত্তা শঙ্কার কথা সিএনএন-এর প্রতিবেদনে তুলে ধরা হয়েছে। জেনারেল ও শীর্ষ সামরিক কর্মকর্তাদের জন্য নির্মিত শতাব্দীপ্রাচীন ও কঠোরভাবে নিয়ন্ত্রিত এসব সামরিক আবাসনে নিরাপদে থাকার জন্য প্রশাসন এই পদক্ষেপ নিয়েছে।",
-        "details_en": "CNN's report highlighted the security concerns of the Trump administration in the context of threats from Iran. The administration took this step to stay safely in these century-old and strictly controlled military residences built for generals and top military officials.",
-        "hook_bn": "সামরিক ঘাঁটিতে ট্রাম্পের মন্ত্রীদের বসবাস",
-        "kicker_bn": "সতর্কতা",
+        "details_bn": "২৭ নভেম্বর আল জাজিরার এক প্রতিবেদনে এই খবর জানানো হয়েছে। ক্রেমলিনের প্রকাশিত ভিডিও অনুযায়ী এই নতুন পারমাণবিক শক্তিচালিত সাবমেরিন উন্মোচন করা হয়, যা জিরকন হাইপারসনিক ক্ষেপণাস্ত্র সজ্জিত প্রথম সাবমেরিন বলে দাবি করেছে মস্কো।",
+        "details_en": "This news was reported in an Al Jazeera report on Friday 27 November. According to a video published by the Kremlin, this new nuclear-powered submarine was unveiled, which Moscow claimed is the first submarine equipped with Zircon hypersonic missiles.",
+        "hook_bn": "নতুন পারমাণবিক সাবমেরিন উন্মোচন করলেন পুতিন",
+        "kicker_bn": null,
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 6.0,
       "outlet_count": 1,
       "trending": false,
-      "social_appeal": 5.0,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-28T03:02:13.253442+00:00"
+        "checked_at": "2026-11-28T04:01:50.890798+00:00"
+      }
+    },
+    {
+      "story_id": "c8402998-522c-5c38-9591-53672d3d9127",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "climate_environment"
+      ],
+      "region": "international",
+      "tags": [
+        "#Taiwan",
+        "#China",
+        "#Taipei",
+        "#PumaShen"
+      ],
+      "image_url": "https://th-i.thgim.com/public/incoming/mupmcb/article71753509.ece/alternates/LANDSCAPE_1200/Taiwan_Election_73887.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-28T03:04:20+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.4073,
+      "sources": [
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/taiwan-votes-in-key-local-elections-as-china-looks-on/article71753506.ece",
+          "title": "Taiwan votes in key local elections as China looks on",
+          "snippet": "Taiwan votes in key local elections as China looks on"
+        },
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/polls-open-in-taiwan-s-closely-watched-local-elections/a-80083086?maca=en-rss-en-all-1573-rdf",
+          "title": "Polls open in Taiwan's closely watched local elections",
+          "snippet": "Polls open in Taiwan's closely watched local elections"
+        },
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
+          "title": "Taiwan votes in local elections to choose mayors, other leaders",
+          "snippet": "Taiwan votes in local elections to choose mayors, other leaders"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "তাইওয়ানে মেয়র ও কাউন্টি প্রধান নির্বাচনের ভোটগ্রহণ শুরু",
+        "title_en": "Taiwan votes in local elections to choose mayors and leaders",
+        "summary_bn": "তাইওয়ানের ভোটাররা ২২টি শহর ও কাউন্টিতে মেয়র এবং কাউন্টি প্রধান নির্বাচনের জন্য ভোট দিচ্ছেন।",
+        "summary_en": "Taiwan's voters were choosing mayors and county chiefs in an election across all 22 cities and counties.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-28T03:04:20+00:00",
+        "lead_bn": "তাইওয়ানের ভোটাররা ২২টি শহর ও কাউন্টিতে মেয়র এবং কাউন্টি প্রধান নির্বাচনের জন্য ভোট দিচ্ছেন।",
+        "lead_en": "Taiwan's voters were choosing mayors and county chiefs in an election across all 22 cities and counties.",
+        "bullets_bn": [
+          "স্থানীয় নির্বাচনের প্রচারণায় পরিবহন ও পরিবেশের মতো স্থানীয় বিষয়গুলোতে জোর দেওয়া হয়েছে।",
+          "শাসক দলের তাইপেই মেয়র পদপ্রার্থী পুমা শেনকে বিচ্ছিন্নতাবাদী হিসেবে খুঁজছে চীনা পুলিশ।",
+          "স্থানীয় সময় বিকেল চারটায় ভোটগ্রহণ শেষ হওয়ার পর সন্ধ্যার দিকে ফলাফল ঘোষণা করা হবে।"
+        ],
+        "bullets_en": [
+          "Campaigning in all 22 cities and counties focused on local issues such as transport and the environment.",
+          "China has denounced Puma Shen, the governing Democratic Progressive Party's candidate for mayor of Taipei.",
+          "Polls close at 4 p.m. with results expected in the early evening."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "তাইওয়ানের এই নির্বাচন ২০২৮ সালের রাষ্ট্রপতি নির্বাচনের আগে দলীয় সমর্থন যাচাই করবে। স্বশাসিত এই দ্বীপকে নিজেদের ভূখণ্ড বলে দাবি করে আসছে চীন। তবে নির্বাচনে চীন প্রধান কোনো প্রচারণার বিষয় না হলেও বেইজিং বারবার এ বিষয়ে মন্তব্য করেছে।",
+        "details_en": "The election will gauge party support ahead of the island's 2028 presidential vote. While China claims Taiwan as its own territory and has ramped up pressure, Beijing did not figure as a major campaign issue despite repeatedly weighing in.",
+        "hook_bn": "তাইওয়ানে মেয়র ও কাউন্টি প্রধান নির্বাচনের ভোটগ্রহণ শুরু",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 3,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-28T04:01:50.890798+00:00"
       }
     }
   ]
