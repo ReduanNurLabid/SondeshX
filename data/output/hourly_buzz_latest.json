@@ -1,423 +1,209 @@
 {
-  "updated_at": "2026-11-28T02:00:47.053530",
-  "total_stories": 6,
+  "updated_at": "2026-11-28T03:00:50.690795",
+  "total_stories": 3,
   "stories": [
     {
-      "story_id": "c41bce44-0629-5c6f-9ba4-ac0535078780",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_bengali/375c/live/de995820-ea54-11f1-99b6-a35a62fa4264.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-28T01:46:04+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.8269,
-      "sources": [
-        {
-          "name": "BBC News বাংলা",
-          "url": "https://www.bbc.com/bengali/articles/c6kgde905zeeo?at_medium=RSS&at_campaign=rss",
-          "title": "ভারতে আওয়ামী লীগ নেতারা কেন বাংলাদেশের সাথে সীমান্ত এলাকায় ঘুরে বেড়াচ্ছেন?",
-          "snippet": "ভারতে আওয়ামী লীগ নেতারা কেন বাংলাদেশের সাথে সীমান্ত এলাকায় ঘুরে বেড়াচ্ছেন?"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সীমান্ত এলাকায় দেখা গেছে নিষিদ্ধ আওয়ামী লীগ নেতাদের",
-        "title_en": "Banned Awami League leaders spotted near border areas",
-        "summary_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের শীর্ষ নেতারা ভারত-বাংলাদেশ স্থল সীমান্ত পরিদর্শন করেছেন।",
-        "summary_en": "Top leaders of the banned Awami League visited India-Bangladesh land borders.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-28T01:46:04+00:00",
-        "lead_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের শীর্ষ নেতারা ভারত-বাংলাদেশ স্থল সীমান্ত পরিদর্শন করেছেন।",
-        "lead_en": "Top leaders of the banned Awami League visited India-Bangladesh land borders.",
-        "bullets_bn": [
-          "নেতারা গত ২২শে নভেম্বর পেট্রাপোল এবং ২৫শে নভেম্বর আখাউড়া সীমান্তে যান।",
-          "নেতাদের দাবি, শেখ হাসিনার ১৬ই ডিসেম্বর ফেরার ঘোষণার প্রেক্ষিতে পরিকল্পনা তৈরি হয়েছে।",
-          "ত্রিপুরায় অবস্থানরত নিষিদ্ধ দলের নেতাদের সঙ্গে তাদের আলোচনা হয়েছে।"
-        ],
-        "bullets_en": [
-          "Leaders visited Petrapole on November 22 and Akhaura border on November 25.",
-          "Leaders claim plans are made regarding Sheikh Hasina's December 16 return announcement.",
-          "They held discussions with leaders of the banned party stationed in Tripura."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বাংলাদেশে ২০২৪ সালের গণ-অভ্যুত্থানের পর থেকে আওয়ামী লীগের কয়েকজন শীর্ষ নেতা ভারতে অবস্থান করছেন। ত্রিপুরায় সীমান্তে পরিদর্শনে যাওয়া নেতাদের অন্তত দুজন আগেই আগরতলা ছেড়েছেন এবং বাকিদের ফেরার কথা রয়েছে। অন্যদিকে, দলটির কয়েকজন নেতা-কর্মী জানিয়েছেন যে দল ও সহযোগী সংগঠনগুলির কয়েকশ নেতা-কর্মী ভারত থেকে বাংলাদেশে ফিরে গেছেন এবং অনেকে গ্রেফতারের মতো পরিস্থিতির মুখোমুখি হওয়ার মানসিক প্রস্তুতি নিয়েছেন।",
-        "details_en": "Several top leaders of the Awami League have been staying in India since the 2024 mass uprising in Bangladesh. At least two of the leaders who inspected the Tripura border have already left Agartala, and the rest are scheduled to return from Tripura on Friday. Meanwhile, some leaders and activists of the party stated that several hundred leaders and activists of the party and its affiliated organizations have returned to Bangladesh from India, and many have mentally prepared to face situations like arrest.",
-        "hook_bn": "সীমান্ত এলাকায় নিষিদ্ধ আওয়ামী লীগ নেতারা",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-28T02:02:03.852402+00:00"
-      }
-    },
-    {
-      "story_id": "ecc67e13-6394-568a-bbb6-41625fa95572",
+      "story_id": "51b231aa-11fd-5631-ad79-d4a77383ef9a",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business",
-        "world_diplomacy"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
         "#Economy",
         "#Finance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-28%2Fcqg9tbsy%2FUntitled-1.png?rect=0%2C65%2C748%2C393&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFuZ2xhZGVzaCUyMHRlYSUyMHdvcmtlcnMlMjB1bmlvbiUyMGJ1c2luZXNzfGVufDF8MHx8fDE3OTU4MzQ4OTV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-28T01:33:41+00:00",
+      "published_at": "2026-11-28T02:56:19+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.7697,
+      "importance_score": 6.0,
+      "rank_score": 3.5828,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/business/economics/qypxtjl85y",
-          "title": "মার্কিন শুল্ক আরোপ হলে চাপে পড়তে পারে দেশের তিন খাত",
-          "snippet": "মার্কিন শুল্ক আরোপ হলে চাপে পড়তে পারে দেশের তিন খাত"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1184463",
+          "title": "চলছে চা শ্রমিক ইউনিয়নের নির্বাচন, বাগানে উৎসবের আমেজ",
+          "snippet": "চলছে চা শ্রমিক ইউনিয়নের নির্বাচন, বাগানে উৎসবের আমেজ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মার্কিন শুল্ক আরোপ হলে চাপে পড়তে পারে বাংলাদেশের তিন রপ্তানি খাত",
-        "title_en": "New US tariffs may pressure three Bangladeshi export sectors",
-        "summary_bn": "মার্কিন বাণিজ্য প্রতিনিধির দপ্তর অতিরিক্ত উৎপাদন সক্ষমতার অভিযোগে বাংলাদেশের পণ্য রপ্তানিতে ১৮ শতাংশ শুল্ক বসানোর প্রস্তাব করেছে।",
-        "summary_en": "The United States Trade Representative proposed an 18 percent tariff on Bangladeshi goods exports over excess production capacity.",
+        "title_bn": "মৌলভীবাজারের চা বাগানগুলোতে বাংলাদেশ চা শ্রমিক ইউনিয়নের নির্বাচন অনুষ্ঠিত হচ্ছে।",
+        "title_en": "Bangladesh Tea Workers Union election is taking place in Moulvibazar tea gardens.",
+        "summary_bn": "দীর্ঘ আট বছর পর বাংলাদেশ চা শ্রমিক ইউনিয়নের নির্বাচন শুরু হয়েছে, যার ফলে মৌলভীবাজারের চা বাগানগুলোতে উৎসবের আমেজ বিরাজ করছে।",
+        "summary_en": "Bangladesh Tea Workers Union election has started after a long eight years, creating a festive mood in Moulvibazar tea gardens.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-28T01:33:41+00:00",
-        "lead_bn": "মার্কিন বাণিজ্য প্রতিনিধির দপ্তর অতিরিক্ত উৎপাদন সক্ষমতার অভিযোগে বাংলাদেশের পণ্য রপ্তানিতে ১৮ শতাংশ শুল্ক বসানোর প্রস্তাব করেছে।",
-        "lead_en": "The United States Trade Representative proposed an 18 percent tariff on Bangladeshi goods exports over excess production capacity.",
-        "bullets_bn": [
-          "তৈরি পোশাক, জুতা এবং হোম টেক্সটাইল ও টেরিটাওয়েল খাত নতুন মার্কিন শুল্কের কারণে চাপে পড়তে পারে।",
-          "বাংলাদেশ রপ্তানি উন্নয়ন ব্যুরোর তথ্য অনুযায়ী গত অর্থবছরে যুক্তরাষ্ট্রে সবচেয়ে বেশি ৯০৫ কোটি ডলারের পণ্য রপ্তানি হয়।",
-          "আগামী ৫ জানুয়ারির মধ্যে বাংলাদেশ সরকার প্রস্তাবের ওপর লিখিত মতামত দিতে পারবে এবং ২৫ জানুয়ারি ওয়াশিংটনে শুনানি হবে।"
-        ],
-        "bullets_en": [
-          "Ready-made garments, footwear, and home textiles and terry towels may face pressure from the new US tariffs.",
-          "According to the Export Promotion Bureau, shipments to the US reached the highest at 9.05 billion dollars last fiscal year.",
-          "The Bangladesh government can submit written feedback by January 5, and a hearing will be held in Washington on January 25."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "যুক্তরাষ্ট্রের বাণিজ্য আইনের সেকশন ৩০১-এর আওতায় গত মার্চে অতিরিক্ত উৎপাদন সক্ষমতা এবং জোর করে শ্রমে উৎপাদিত পণ্যের ওপর নিষেধাজ্ঞা যথাযথভাবে কার্যকর না করার বিষয়ে দুটি তদন্ত শুরু হয়। এর আগে জুলাই মাসে জোর করে শ্রমে উৎপাদিত পণ্যের ওপর নিষেধাজ্ঞা কার্যকর না করায় বাংলাদেশসহ ৬০ দেশের ওপর ১০ ও সাড়ে ১২ শতাংশ শুল্ক আরোপ করা হয়, যেখানে বাংলাদেশের শুল্ক ছিল ১০ শতাংশ। আলোচনা ও প্রতিশ্রুতি সন্তোষজনক না হলে বর্তমান প্রস্তাবিত শুল্কের হার ২০ শতাংশও হতে পারে।",
-        "details_en": "Under Section 301 of the US trade law, two investigations began last March regarding excess production capacity and the failure to properly enforce bans on goods made with forced labor. Earlier in July, tariffs of 10 and 12.5 percent were imposed on 60 countries including Bangladesh, where Bangladesh faced a 10 percent tariff. If discussions and commitments are not satisfactory, the proposed tariff rate could also become 20 percent.",
-        "hook_bn": "যুক্তরাষ্ট্রের নতুন শুল্কে চাপে তিন খাত",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": "মার্কিন শুল্ক বাড়লে দেশের রপ্তানি আয়ে কেমন প্রভাব পড়তে পারে বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-28T02:02:03.852402+00:00"
-      }
-    },
-    {
-      "story_id": "b0031199-9b66-5c69-8588-71e2a1439ba2",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1769708046949-108aa733f753?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFubmVkJTIwYXdhbWklMjBsZWFndWUlMjBicmluZ3MlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTU4MzEzMTB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-28T01:00:37+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.5,
-      "rank_score": 3.9838,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1184450",
-          "title": "গোপালগঞ্জে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের মশাল মিছিল",
-          "snippet": "গোপালগঞ্জে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের মশাল মিছিল"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "গোপালগঞ্জে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের মশাল মিছিল",
-        "title_en": "Banned Awami League brings out torch procession in Gopalganj",
-        "summary_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের পক্ষ থেকে গোপালগঞ্জে মশাল মিছিল করা হয়েছে।",
-        "summary_en": "A torch procession has been brought out by the banned Awami League in Gopalganj.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-28T01:00:37+00:00",
-        "lead_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের পক্ষ থেকে গোপালগঞ্জে মশাল মিছিল করা হয়েছে।",
-        "lead_en": "A torch procession has been brought out by the banned Awami League in Gopalganj.",
+        "published_at": "2026-11-28T02:56:19+00:00",
+        "lead_bn": "দীর্ঘ আট বছর পর বাংলাদেশ চা শ্রমিক ইউনিয়নের নির্বাচন শুরু হয়েছে, যার ফলে মৌলভীবাজারের চা বাগানগুলোতে উৎসবের আমেজ বিরাজ করছে।",
+        "lead_en": "Bangladesh Tea Workers Union election has started after a long eight years, creating a festive mood in Moulvibazar tea gardens.",
         "bullets_bn": [
-          "গোপালগঞ্জ জেলা সদরে মশাল মিছিল হয়েছে।",
-          "টুঙ্গিপাড়া উপজেলায় মশাল মিছিলের কর্মসূচি পালিত হয়েছে।",
-          "কোটালীপাড়া, মুকসুদপুর ও কাশিয়ানীতেও মশাল মিছিল করা হয়েছে।"
+          "নির্বাচনটি ২৮ নভেম্বর অনুষ্ঠিত হচ্ছে।",
+          "নির্বাচন ঘিরে মৌলভীবাজারের চা বাগানগুলোতে উৎসবের আমেজ বিরাজ করছে।",
+          "দীর্ঘ আট বছর পর এই নির্বাচন অনুষ্ঠিত হচ্ছে।"
         ],
         "bullets_en": [
-          "A torch procession took place at the Gopalganj district headquarters.",
-          "The torch procession program was observed in Tungipara upazila.",
-          "Torch processions were also carried out in Kotalipara, Muksudpur and Kashiani."
+          "The election is taking place on 28 November.",
+          "A festive mood is prevailing in the tea gardens of Moulvibazar surrounding the election.",
+          "This election is being held after a long eight years."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "গোপালগঞ্জে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের মশাল মিছিল",
-        "kicker_bn": null,
+        "details_bn": "দীর্ঘ আট বছর পর বাংলাদেশ চা শ্রমিক ইউনিয়নের নির্বাচন অনুষ্ঠিত হচ্ছে। এই নির্বাচনকে কেন্দ্র করে মৌলভীবাজারের চা বাগানগুলোতে ব্যাপক উৎসাহ উদ্দীপনা ও উৎসবের আমেজ লক্ষ্য করা গেছে।",
+        "details_en": "The election of Bangladesh Tea Workers Union is being held after a long eight years. Centering this election, a widespread enthusiasm and festive mood has been observed in the tea gardens of Moulvibazar.",
+        "hook_bn": "চা শ্রমিক ইউনিয়নের নির্বাচন, বাগানে উৎসব",
+        "kicker_bn": "নির্বাচন",
         "share_value": false,
-        "question_bn": null
+        "question_bn": "চা শ্রমিক ইউনিয়নের এই নির্বাচন নিয়ে আপনার মতামত কী?"
       },
       "desk_importance": 6.0,
       "outlet_count": 1,
-      "trending": true,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-28T02:02:03.852402+00:00"
-      }
-    },
-    {
-      "story_id": "124f4475-f1c7-55b5-9205-11a85ed1f03b",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#SramikLeague",
-        "#Savar"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1740118125318-7e07c97a13c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8c3JhbWlrJTIwbGVhZ3VlJTIwYWN0aXZpc3RzJTIwYXJyZXN0ZWQlMjBnb3Zlcm5tZW50fGVufDF8MHx8fDE3OTU4MzEzMTJ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-28T01:42:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.833,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/425950/six-sramik-league-activists-arrested-over-alleged",
-          "title": "Six Sramik League activists arrested over alleged arson plot in Savar",
-          "snippet": "Six Sramik League activists arrested over alleged arson plot in Savar"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1184447",
-          "title": "নকল হানিফ পরিবহনে করে বাসে আগুন দিয়ে বেড়াচ্ছিলেন শ্রমিকলীগের নেতারা",
-          "snippet": "নকল হানিফ পরিবহনে করে বাসে আগুন দিয়ে বেড়াচ্ছিলেন শ্রমিকলীগের নেতারা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সাভারে কার্যক্রম নিষিদ্ধ শ্রমিক লীগের ছয় নেতাকর্মী গ্রেফতার",
-        "title_en": "Six Sramik League activists arrested in Savar",
-        "summary_bn": "ঢাকা-আরিচা মহাসড়কের ফুলবাড়িয়া এলাকায় গাড়িতে অগ্নিসংযোগের চেষ্টা ও মশাল মিছিলের প্রস্তুতিকালে কার্যক্রম নিষিদ্ধ শ্রমিক লীগের ছয় নেতাকর্মীকে গ্রেফতার করেছে পুলিশ।",
-        "summary_en": "Police arrested six activists of the banned Sramik League for allegedly attempting to set fire to vehicles and preparing for a torch procession in the Fulbaria area on the Dhaka-Aricha highway.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-28T01:42:00+00:00",
-        "lead_bn": "ঢাকা-আরিচা মহাসড়কের ফুলবাড়িয়া এলাকায় গাড়িতে অগ্নিসংযোগের চেষ্টা ও মশাল মিছিলের প্রস্তুতিকালে কার্যক্রম নিষিদ্ধ শ্রমিক লীগের ছয় নেতাকর্মীকে গ্রেফতার করেছে পুলিশ।",
-        "lead_en": "Police arrested six activists of the banned Sramik League for allegedly attempting to set fire to vehicles and preparing for a torch procession in the Fulbaria area on the Dhaka-Aricha highway.",
-        "bullets_bn": [
-          "ঢাকা-আরিচা মহাসড়কের ফুলবাড়িয়া এলাকায় কার্যক্রম নিষিদ্ধ শ্রমিক লীগের ছয় নেতাকর্মীকে গ্রেফতার করা হয়েছে।",
-          "নকল হানিফ পরিবহনে করে বাসে আগুন দিয়ে বেড়াচ্ছিলেন শ্রমিক লীগের নেতারা।",
-          "রাত প্রায় ১০টা ৩০ মিনিটের দিকে এই গ্রেফতারের ঘটনা ঘটে।"
-        ],
-        "bullets_en": [
-          "Six activists of the banned Sramik League were arrested in the Fulbaria area on the Dhaka-Aricha highway.",
-          "The Sramik League leaders were moving around setting fire to buses using a fake Hanif Paribahan vehicle.",
-          "The arrests were made around 10:30pm on Friday."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "সাভারে বাসে আগুন দেওয়ার চেষ্টার সময় গ্রেফতার ছয়",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
       "trending": false,
-      "social_appeal": 6.0,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-28T02:02:03.852402+00:00"
+        "checked_at": "2026-11-28T03:02:13.253442+00:00"
       }
     },
     {
-      "story_id": "f3b20fa5-df34-502c-9a9c-812e8d832d69",
-      "primary_category": "world_diplomacy",
+      "story_id": "a1cb67cb-1205-566d-93d1-2bf968e033c0",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "world_diplomacy",
         "economy_business"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#Yemen",
-        "#SaudiArabia",
-        "#Houthis",
-        "#Taiz"
+        "#PrimitekIndustries",
+        "#Mirsarai",
+        "#NationalSpecialEconomicZone"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/28/yemen_saudi_strike.png",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2025/11/14/nsez.jpg",
       "image_caption": null,
-      "published_at": "2026-11-28T01:30:00+00:00",
+      "published_at": "2026-11-28T01:15:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 5.0,
-      "rank_score": 2.4249,
+      "rank_score": 2.2568,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/worldbiz/middle-east/saudi-strike-kills-11-civilians-yemens-taiz-1616126",
-          "title": "Saudi strike kills 11 civilians in Yemen’s Taiz",
-          "snippet": "Saudi strike kills 11 civilians in Yemen’s Taiz"
+          "url": "https://www.tbsnews.net/economy/industry/primitek-enters-plastic-household-goods-market-targets-tk150cr-monthly-sales",
+          "title": "Primitek enters plastic household goods market, targets Tk150cr monthly sales",
+          "snippet": "Primitek enters plastic household goods market, targets Tk150cr monthly sales"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইয়েমেনের তাইজে বিমান হামলায় ১১ জন নিহত",
-        "title_en": "Saudi strike kills 11 civilians in Yemen's Taiz",
-        "summary_bn": "ইয়েমেনের তাইজ গভর্নরেটের আল-তুরবাহ এলাকায় আবাসিক ভবনে বিমান হামলায় মূলত শিশুসহ অন্তত ১১ জন বেসামরিক নাগরিক নিহত হয়েছেন।",
-        "summary_en": "At least 11 civilians, mostly children, were killed after alleged Saudi air strikes hit a residential building in al-Turbah, south of Taiz governorate.",
+        "title_bn": "মিরসরাই অর্থনৈতিক অঞ্চলে প্রিমটেক ইন্ডাস্ট্রিজের বাণিজ্যিক উৎপাদন শুরু",
+        "title_en": "Primitek Industries starts commercial production in Mirsarai economic zone",
+        "summary_bn": "প্রিমটেক ইন্ডাস্ট্রিজ লিমিটেড মীরসরাইয়ের ন্যাশনাল স্পেশাল ইকোনমিক জোনে তাদের ত্রিশ একর কারখানায় প্লাস্টিক গৃহস্থালি পণ্যের বাণিজ্যিক উৎপাদন শুরু করেছে।",
+        "summary_en": "Primitek Industries Limited has started commercial production of plastic household goods at its 30-acre factory in the National Special Economic Zone in Mirsarai.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-28T01:30:00+00:00",
-        "lead_bn": "ইয়েমেনের তাইজ গভর্নরেটের আল-তুরবাহ এলাকায় আবাসিক ভবনে বিমান হামলায় মূলত শিশুসহ অন্তত ১১ জন বেসামরিক নাগরিক নিহত হয়েছেন।",
-        "lead_en": "At least 11 civilians, mostly children, were killed after alleged Saudi air strikes hit a residential building in al-Turbah, south of Taiz governorate.",
+        "published_at": "2026-11-28T01:15:00+00:00",
+        "lead_bn": "প্রিমটেক ইন্ডাস্ট্রিজ লিমিটেড মীরসরাইয়ের ন্যাশনাল স্পেশাল ইকোনমিক জোনে তাদের ত্রিশ একর কারখানায় প্লাস্টিক গৃহস্থালি পণ্যের বাণিজ্যিক উৎপাদন শুরু করেছে।",
+        "lead_en": "Primitek Industries Limited has started commercial production of plastic household goods at its 30-acre factory in the National Special Economic Zone in Mirsarai.",
         "bullets_bn": [
-          "উদ্ধারকর্মীরা আটটি মৃতদেহ উদ্ধার করেছেন এবং ধ্বংসস্তূপের নিচে তিনজন নিখোঁজ রয়েছেন।",
-          "সৌদি নেতৃত্বাধীন জোট তাৎক্ষণিকভাবে কোনো মন্তব্য করেনি, তবে পরে রিয়াদমুখী একটি হুথি ড্রোন ধ্বংসের কথা জানিয়েছে।",
-          "নরওয়েজিয়ান রিফিউজি কাউন্সিলের প্রধান জান ইয়েল্যান্ড বেসামরিক নাগরিকদের সুরক্ষা এবং মানবিক সহায়তার দাবি জানিয়েছেন।"
+          "প্রতিষ্ঠানটি এই কারখানায় ৩.৫ মিলিয়ন মার্কিন ডলার বিনিয়োগ করেছে এবং দেড়শ কোটি টাকা মাসিক বিক্রির লক্ষ্যমাত্রা নির্ধারণ করেছে।",
+          "পূর্ণ উৎপাদনে গেলে কারখানাটিতে পাঁচ হাজার মানুষের কর্মসংস্থান হবে বলে জানানো হয়েছে।",
+          "কারখানাটি বর্তমানে প্লাস্টিক চেয়ার ও পাইপ, পিভিসি শিট এবং এসপিসি ফ্লোরিং উৎপাদন করছে।"
         ],
         "bullets_en": [
-          "Rescue teams retrieved eight bodies, while three people remain missing beneath the rubble.",
-          "The Saudi-led coalition did not immediately comment, but later reported destroying a Houthi drone launched toward Riyadh.",
-          "Norwegian Refugee Council Secretary-General Jan Egeland demanded civilian protection, humanitarian access, and responsibility from foreign backers."
+          "The company has invested $3.5 million in the facility and targets monthly sales of Tk150 crore.",
+          "At full capacity, the factory is expected to generate employment for 5,000 people.",
+          "The facility currently produces plastic chairs and pipes, PVC sheets and SPC flooring."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "২০২২ সালের যুদ্ধবিরতির পতন এবং আঞ্চলিক সংঘাতের পর সরকারি বাহিনী ও হুথিদের মধ্যে শত্রুতা বৃদ্ধি পায়। বিশ্ব স্বাস্থ্য সংস্থার তথ্য অনুযায়ী, আগস্ট থেকে ১৩ হাজার ৩৪৩ জন নিহত বা আহত হয়েছেন। সংঘাতের কারণে হাজার হাজার মানুষ বাস্তুচ্যুত হয়েছে এবং জরুরি আশ্রয়ের তহবিলে মাত্র ১২ শতাংশ অর্থায়ন রয়েছে।",
-        "details_en": "Hostilities between government forces and Houthis escalated following the collapse of a 2022 ceasefire and broader regional conflicts. According to WHO, 13,343 people have been killed or injured since August. NRC Secretary-General Jan Egeland warned that renewed fighting has displaced thousands amid severe aid shortages, noting emergency shelter funding stands at just 12 percent.",
-        "hook_bn": "তাইজে বিমান হামলায় নিহত ১১",
-        "kicker_bn": "সতর্কতা",
+        "details_bn": "কারখানাটি বর্তমানে প্রায় এক হাজার মানুষকে চাকরি দিচ্ছে এবং ২০২৭ সালে আরও আড়াই হাজার কর্মী নিয়োগের পরিকল্পনা রয়েছে। গ্রিন ফ্যাসিলিটি হিসেবে ডিজাইন করা এই কারখানায় বাসবার ট্রাঙ্কিং সিস্টেম ব্যবহার করা হয়েছে এবং বৃষ্টির পানি সংরক্ষণের ব্যবস্থা রয়েছে। তবে গ্যাস সংকটের কারণে উৎপাদন সম্প্রসারণ ব্যাহত হচ্ছে এবং কোম্পানিকে বিকল্প হিসেবে ডিজেল ব্যবহার করতে হচ্ছে বলে ব্যবস্থাপনা পরিচালক এম এ কাইয়ুম জানিয়েছেন।",
+        "details_en": "The factory currently employs around 1,000 people, with plans to recruit another 2,500 in 2027. Designed as a green facility, it uses a busbar trunking system and has rainwater harvesting provisions. However, Managing Director MA Quieum said gas shortages are hampering production expansion, forcing the company to use diesel as an alternative.",
+        "hook_bn": "মীরসরাইয়ে প্রিমটেকের বাণিজ্যিক উৎপাদন শুরু",
+        "kicker_bn": null,
         "share_value": false,
-        "question_bn": null
+        "question_bn": "দেশে প্লাস্টিক পণ্যের মান ও বাজার সম্পর্কে আপনার মতামত কী?"
       },
       "desk_importance": 5.0,
       "outlet_count": 1,
       "trending": false,
-      "social_appeal": 4.0,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-28T02:02:03.852402+00:00"
+        "checked_at": "2026-11-28T03:02:13.253442+00:00"
       }
     },
     {
-      "story_id": "e4c626e1-d533-587c-92c4-d1ae2305742f",
-      "primary_category": "society_education",
+      "story_id": "1bee8070-c6a2-56d9-bb82-04fac890e184",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "society_education",
         "world_diplomacy"
       ],
-      "region": "national",
+      "region": "international",
       "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://images.unsplash.com/photo-1631079250215-525a723f6081?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGVyY2VudCUyMHBlb3BsZSUyMGNvdW50cnklMjBub3QlMjBlZHVjYXRpb258ZW58MXwwfHx8MTc5NTgyNzY4Mnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://images.unsplash.com/photo-1760872646618-13594fc00567?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Y2FiaW5ldCUyMG1lbWJlcnMlMjBzdGFydCUyMGxpdmluZyUyMGRpcGxvbWFjeXxlbnwxfDB8fHwxNzk1ODM0OTAzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-28T00:00:00+00:00",
+      "published_at": "2026-11-28T02:50:46+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.0,
-      "rank_score": 3.2021,
+      "rank_score": 3.5637,
       "sources": [
         {
           "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823331/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A6-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%AA%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%A8%E0%A6%BE%C2%A0%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A7%AC%E0%A7%A9-%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%82%E0%A6%B6-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7",
-          "title": "নিরাপদ পানি পাচ্ছে না দেশের ৬৩ শতাংশ মানুষ",
-          "snippet": "নিরাপদ পানি পাচ্ছে না দেশের ৬৩ শতাংশ মানুষ"
+          "url": "https://www.ittefaq.com.bd/823348/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A7%81%E0%A6%AE%E0%A6%95%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%98%E0%A6%BE%E0%A6%81%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A6%B8-%E0%A6%95%E0%A6%B0%E0%A6%9B%E0%A7%87%E0%A6%A8",
+          "title": "ইরানের হুমকির মুখে সামরিক ঘাঁটিতে বসবাস শুরু করেছেন ট্রাম্পের মন্ত্রিসভার সদস্যরা",
+          "snippet": "ইরানের হুমকির মুখে সামরিক ঘাঁটিতে বসবাস শুরু করেছেন ট্রাম্পের মন্ত্রিসভার সদস্যরা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "দেশের ৬২ দশমিক ৯ শতাংশ মানুষ নিরাপদ পানি পাচ্ছেন না",
-        "title_en": "62.9 percent of people in the country are not getting safe water",
-        "summary_bn": "ইত্তেফাক সূত্রে জানা যায়, দেশের ৯৮ দশমিক ৬ শতাংশ মানুষ মৌলিক পানির সুবিধা পেলেও নিরাপদভাবে ব্যবস্থাপিত পানি পাচ্ছেন মাত্র ৩৭ দশমিক ১ শতাংশ মানুষ।",
-        "summary_en": "According to Ittefaq, while 98.6 percent of people in the country get basic water facilities, only 37.1 percent get safely managed water.",
+        "title_bn": "ইরানের হুমকির মুখে সামরিক ঘাঁটিতে বসবাস শুরু করেছেন মার্কিন মন্ত্রিসভার সদস্যরা",
+        "title_en": "US cabinet members start living in military bases amid Iran threats",
+        "summary_bn": "ইরানের হুমকির মুখে মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের মন্ত্রিসভার প্রায় অর্ধডজন সদস্য সুরক্ষিত সামরিক ঘাঁটিতে বসবাস শুরু করেছেন।",
+        "summary_en": "About half a dozen members of US President Donald Trump's cabinet started living in secure military bases amid threats from Iran.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-28T00:00:00+00:00",
-        "lead_bn": "ইত্তেফাক সূত্রে জানা যায়, দেশের ৯৮ দশমিক ৬ শতাংশ মানুষ মৌলিক পানির সুবিধা পেলেও নিরাপদভাবে ব্যবস্থাপিত পানি পাচ্ছেন মাত্র ৩৭ দশমিক ১ শতাংশ মানুষ।",
-        "lead_en": "According to Ittefaq, while 98.6 percent of people in the country get basic water facilities, only 37.1 percent get safely managed water.",
+        "published_at": "2026-11-28T02:50:46+00:00",
+        "lead_bn": "ইরানের হুমকির মুখে মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের মন্ত্রিসভার প্রায় অর্ধডজন সদস্য সুরক্ষিত সামরিক ঘাঁটিতে বসবাস শুরু করেছেন।",
+        "lead_en": "About half a dozen members of US President Donald Trump's cabinet started living in secure military bases amid threats from Iran.",
         "bullets_bn": [
-          "নিরাপদ পানির নির্ধারিত সব শর্ত পূরণ হচ্ছে না ৬২ দশমিক ৯ শতাংশ মানুষের ক্ষেত্রে।",
-          "পরিবারের ব্যবহারের পানিতে ই-কোলাইয়ের উপস্থিতি রয়েছে।",
-          "পানির উৎসে আর্সেনিকের মাত্রা বিশ্ব স্বাস্থ্য সংস্থার নিয়মের কথা বলা হয়েছে।"
+          "ট্রাম্প প্রশাসনের এই নিরাপত্তা শঙ্কার কথা সিএনএন-এর এক প্রতিবেদনে জানানো হয়।",
+          "জেনারেল ও শীর্ষ সামরিক কর্মকর্তাদের জন্য নির্মিত শতাব্দীপ্রাচীন সামরিক আবাসন ব্যবহার করা হচ্ছে।",
+          "কঠোরভাবে নিয়ন্ত্রিত এসব সামরিক আবাসনে থাকতেই নিজেদের সবচেয়ে নিরাপদ মনে করছেন প্রশাসনের কর্মকর্তারা।"
         ],
         "bullets_en": [
-          "All prescribed conditions for safe water are not met for 62.9 percent of people.",
-          "There is a presence of E. coli in family use water.",
-          "The level of arsenic in water sources mentions World Health Organization rules."
+          "The security concern of the Trump administration was reported by CNN on Saturday.",
+          "Century-old military housing built for generals and top military officials is being used.",
+          "Administration officials consider themselves safest staying in these strictly controlled military residences."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "নিরাপদ পানি পাচ্ছে না ৬৩ শতাংশ মানুষ",
+        "details_bn": "ইরানের পক্ষ থেকে আসা হুমকির প্রেক্ষাপটে ট্রাম্প প্রশাসনের নিরাপত্তা শঙ্কার কথা সিএনএন-এর প্রতিবেদনে তুলে ধরা হয়েছে। জেনারেল ও শীর্ষ সামরিক কর্মকর্তাদের জন্য নির্মিত শতাব্দীপ্রাচীন ও কঠোরভাবে নিয়ন্ত্রিত এসব সামরিক আবাসনে নিরাপদে থাকার জন্য প্রশাসন এই পদক্ষেপ নিয়েছে।",
+        "details_en": "CNN's report highlighted the security concerns of the Trump administration in the context of threats from Iran. The administration took this step to stay safely in these century-old and strictly controlled military residences built for generals and top military officials.",
+        "hook_bn": "সামরিক ঘাঁটিতে ট্রাম্পের মন্ত্রীদের বসবাস",
         "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": "আপনার এলাকার পানির উৎসে কি নিরাপদ পানির সংকট রয়েছে?"
+        "share_value": false,
+        "question_bn": null
       },
       "desk_importance": 6.0,
       "outlet_count": 1,
       "trending": false,
-      "social_appeal": 6.0,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-28T02:02:03.852402+00:00"
+        "checked_at": "2026-11-28T03:02:13.253442+00:00"
       }
     }
   ]
