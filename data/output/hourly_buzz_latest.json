@@ -1,223 +1,348 @@
 {
-  "updated_at": "2026-11-28T09:00:47.488570",
-  "total_stories": 6,
+  "updated_at": "2026-11-28T10:00:45.059199",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "90e8680b-6930-5db0-b0de-7623401f57d7",
-      "primary_category": "economy_business",
+      "story_id": "c15ab920-a780-577b-94d8-db56b5430881",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "economy_business",
-        "governance_law"
+        "governance_law",
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-28%2Fpbwa0vds%2FWhatsApp-Image-2026-11-28-at-14.36.35.jpeg?rect=194%2C0%2C1406%2C738&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.channelionline.com/2026/11/Untitled11-12.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-11-28T08:38:10+00:00",
+      "published_at": "2026-11-28T09:51:46+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.75,
-      "rank_score": 5.8725,
+      "importance_score": 7.0,
+      "rank_score": 4.8531,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/business/economics/9d2xbbfndb",
-          "title": "দেশে-বিদেশে যেখানে যাই কাস্টমস ও এনবিআর নিয়ে কথা শুনতে হয়: অর্থমন্ত্রী",
-          "snippet": "দেশে-বিদেশে যেখানে যাই কাস্টমস ও এনবিআর নিয়ে কথা শুনতে হয়: অর্থমন্ত্রী"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/customs-nbr-issues-raised-wherever-i-go-home-and-abroad-finance-minister-1616436",
-          "title": "Customs, NBR issues raised wherever I go at home and abroad: Finance minister",
-          "snippet": "Customs, NBR issues raised wherever I go at home and abroad: Finance minister"
-        },
-        {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/finance-minister-says-he-hears-concerns-about-customs-at-home-and-abroad",
-          "title": "Customs issues raised at home and abroad: Finance Minister",
-          "snippet": "Customs issues raised at home and abroad: Finance Minister"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823414/%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE-%E0%A6%95%E0%A7%8B%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%AE%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%A4-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87%E0%A6%87-%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A6%BE-%E0%A6%86%E0%A6%B8%E0%A6%BE",
-          "title": "বিমা কোম্পানির অনিয়মে হাত দেওয়ার পর থেকেই বাধা আসা শুরু হয়েছে: অর্থমন্ত্রী",
-          "snippet": "বিমা কোম্পানির অনিয়মে হাত দেওয়ার পর থেকেই বাধা আসা শুরু হয়েছে: অর্থমন্ত্রী"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/mizoram-border-three-drones-fired-bgb/",
+          "title": "মিজোরাম সীমান্তে রহস্যময় তিনটি ড্রোন, গুলি ছুড়ল বিজিবি",
+          "snippet": "মিজোরাম সীমান্তে রহস্যময় তিনটি ড্রোন, গুলি ছুড়ল বিজিবি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "দেশে-বিদেশে কাস্টমস ও এনবিআর নিয়ে কথা শুনতে হয়: অর্থমন্ত্রী",
-        "title_en": "Customs and NBR issues raised at home and abroad: Finance Minister",
-        "summary_bn": "অর্থমন্ত্রী আমির খসরু মাহমুদ চৌধুরী জানিয়েছেন, দেশে-বিদেশে যেখানেই যান, আমদানি-রপ্তানি বাণিজ্য নিয়ে কাস্টমস ও এনবিআর নিয়ে কথা শুনতে হয়।",
-        "summary_en": "Finance Minister Amir Khosru Mahmud Chowdhury stated that wherever he goes at home and abroad, he hears complaints about customs and the NBR.",
+        "title_bn": "বাঘাইছড়ি সীমান্তে সন্দেহজনক ড্রোনে বিজিবির গুলি",
+        "title_en": "BGB fires at suspicious drones on Baghaichhari border",
+        "summary_bn": "রাঙ্গামাটির বাঘাইছড়ি উপজেলার ভারত-মিজোরাম সীমান্তে আকাশে সন্দেহজনক তিনটি ড্রোন উড়তে দেখে ১৫ রাউন্ড গুলি ছুড়েছে বর্ডার গার্ড বাংলাদেশ।",
+        "summary_en": "Border Guard Bangladesh fired fifteen rounds after spotting three suspicious drones flying in the sky on the India-Mizoram border in Baghaichhari upazila.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "governance_law"
+          "governance_law",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-28T08:38:10+00:00",
-        "lead_bn": "অর্থমন্ত্রী আমির খসরু মাহমুদ চৌধুরী জানিয়েছেন, দেশে-বিদেশে যেখানেই যান, আমদানি-রপ্তানি বাণিজ্য নিয়ে কাস্টমস ও এনবিআর নিয়ে কথা শুনতে হয়।",
-        "lead_en": "Finance Minister Amir Khosru Mahmud Chowdhury stated that wherever he goes at home and abroad, he hears complaints about customs and the NBR.",
+        "published_at": "2026-11-28T09:51:46+00:00",
+        "lead_bn": "রাঙ্গামাটির বাঘাইছড়ি উপজেলার ভারত-মিজোরাম সীমান্তে আকাশে সন্দেহজনক তিনটি ড্রোন উড়তে দেখে ১৫ রাউন্ড গুলি ছুড়েছে বর্ডার গার্ড বাংলাদেশ।",
+        "lead_en": "Border Guard Bangladesh fired fifteen rounds after spotting three suspicious drones flying in the sky on the India-Mizoram border in Baghaichhari upazila.",
         "bullets_bn": [
-          "অর্থমন্ত্রী জানান, জাপান ও কোরিয়ায় যাওয়ার পরও এনবিআরের বিষয়টি তাঁরা বারবার সামনে নিয়ে এসেছেন।",
-          "তিনি বলেন, বিমা খাতের অবস্থা ব্যাংক খাতের চেয়েও খারাপ এবং বিমা কোম্পানিগুলো দাবি পরিশোধ করছে না।",
-          "বিমা কোম্পানির বিভিন্ন অনিয়মের বিরুদ্ধে অনুসন্ধান শুরুর পর প্রভাবশালী মহল থেকে বাধা আসা শুরু হয়েছে।"
+          "২৭ বিজিবি মারিশ্যা জোনের সদস্যরা ২৭ নভেম্বর রাতে ড্রোনগুলোর দিকে এলএমজি দিয়ে গুলি চালান।",
+          "মেজর সাকিব ইসরাক অপূর্ব জানান যে হেলিপ্যাডের ওপর ড্রোনগুলো দেখতে পেয়ে ক্যাম্পগুলোকে সতর্ক করা হয়েছিল।",
+          "এ ঘটনার পর সীমান্ত এলাকায় নিরাপত্তা ও নজরদারি আরও জোরদার করেছে বিজিবি।"
         ],
         "bullets_en": [
-          "The finance minister stated that even during visits to Japan and Korea, the NBR issue was repeatedly brought up.",
-          "He stated that the insurance sector is in worse condition than the banking sector and companies are not settling claims.",
-          "Obstacles from influential circles began after investigations into various irregularities of insurance companies were initiated."
+          "Members of 27 BGB Marishya zone fired at the drones with LMGs on the night of November 27.",
+          "Major Sakib Israk Apurba stated that camps were alerted after the drones were seen over the helipad.",
+          "Following this incident, BGB has further strengthened security and surveillance in the border area."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "মিরপুরের বাংলাদেশ ব্যাংক ট্রেনিং একাডেমিতে স্থানীয় ঋণপত্রের তথ্য আদান–প্রদানের প্ল্যাটফর্ম ‘বাংলাদেশ রিয়েল-টাইম ট্রেড অ্যারেঞ্জমেন্ট-বার্তা’ উদ্বোধন অনুষ্ঠানে এই বক্তব্য দেন অর্থমন্ত্রী।",
-        "details_en": "The finance minister made these remarks at the inauguration ceremony of the local letter of credit information exchange platform in Mirpur.",
-        "hook_bn": "যেখানেই যাচ্ছি এনবিআরের ব্যাপারটা সামনে নিয়ে আসছে",
+        "details_bn": "সীমান্তের নিরাপত্তা রক্ষা ও অবৈধ অনুপ্রবেশ ঠেকাতে গত কয়েক দিন ধরে সাজেক ও ভারতের মিজোরাম সীমান্তের দুর্গম এলাকায় দিন-রাত টহল পরিচালনা করছে ২৭ বিজিবি মারিশ্যা জোন। জোন কমান্ডার লেফটেন্যান্ট কর্নেল জাহিদুল ইসলাম জাহিদ পিএসসি জানান যে পাহাড়ের বিরাজমান পরিস্থিতির সুযোগ কাজে লাগিয়ে কোনো অদৃশ্য শক্তি বিশৃঙ্খলা সৃষ্টির পায়তারা করছে।",
+        "details_en": "To ensure border security and prevent illegal intrusion, the 27 BGB Marishya zone has been conducting day and night patrols in the remote areas of Sajek and the India-Mizoram border for the past few days. Zone commander Lieutenant Colonel Zahidul Islam Zahid PSC stated that some invisible power is attempting to create chaos by taking advantage of the prevailing situation in the hills.",
+        "hook_bn": "বাঘাইছড়ি সীমান্তে রহস্যময় তিনটি ড্রোন, গুলি ছুড়ল বিজিবি",
         "kicker_bn": "সতর্কতা",
         "share_value": false,
-        "question_bn": "বিমা ও ব্যাংক খাতের অনিয়ম রোধে সরকারের কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
+        "question_bn": null
       },
       "desk_importance": 7.0,
-      "outlet_count": 4,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-28T10:02:16.280616+00:00"
+      }
+    },
+    {
+      "story_id": "d1815a29-be77-5741-ae3d-0f65e3b493b4",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-28%2Fu58g8a74%2FScreenshot-2026-11-28-154239.png?rect=0%2C46%2C641%2C337&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-28T09:46:46+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 7.0,
+      "rank_score": 4.8298,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/opinion/column/gln3jmsaw1",
+          "title": "গঙ্গাচুক্তি না হলে ভারতেরই কেন ক্ষতি বেশি",
+          "snippet": "গঙ্গাচুক্তি না হলে ভারতেরই কেন ক্ষতি বেশি"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আগামী ১২ ডিসেম্বর শেষ হচ্ছে ৩০ বছর মেয়াদি গঙ্গার পানি বণ্টন চুক্তি।",
+        "title_en": "The thirty-year Ganges water sharing treaty expires on December 12.",
+        "summary_bn": "ভারত ও বাংলাদেশের মধ্যে স্বাক্ষরিত ৩০ বছর মেয়াদি গঙ্গার পানি বণ্টন চুক্তির মেয়াদ আগামী ১২ ডিসেম্বর শেষ হতে যাচ্ছে।",
+        "summary_en": "The thirty-year Ganges water sharing treaty signed between India and Bangladesh is set to expire on December 12.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-28T09:46:46+00:00",
+        "lead_bn": "ভারত ও বাংলাদেশের মধ্যে স্বাক্ষরিত ৩০ বছর মেয়াদি গঙ্গার পানি বণ্টন চুক্তির মেয়াদ আগামী ১২ ডিসেম্বর শেষ হতে যাচ্ছে।",
+        "lead_en": "The thirty-year Ganges water sharing treaty signed between India and Bangladesh is set to expire on December 12.",
+        "bullets_bn": [
+          "হাতে সময় থাকলেও চুক্তিটি নবায়নের জন্য আনুষ্ঠানিক আলোচনা এখনো শুরু হয়নি এবং নয়াদিল্লিকে কারিগরি পর্যায়ের আলোচনা ছাড়া খুব একটা তৎপর দেখা যাচ্ছে না।",
+          "বাংলাদেশের পানিসম্পদমন্ত্রী সর্বশেষ ১৭ নভেম্বর একটি চিঠি পাঠিয়েছেন।",
+          "অক্সফামের জন্য সাজিদ করিমের সঙ্গে যৌথভাবে করা এক গবেষণায় হিসাব করা হয়েছে যে পর্যাপ্ত সহযোগিতার অভাবে এ অববাহিকার দেশগুলোর সম্মিলিতভাবে প্রতিবছর অন্তত ১৪ দশমিক ২ বিলিয়ন ডলার ক্ষতি হয়।"
+        ],
+        "bullets_en": [
+          "Despite having little time left, formal discussions to renew the treaty have not yet started, and New Delhi shows little activity beyond technical talks.",
+          "Bangladesh's water resources minister sent a letter most recently on November 17.",
+          "Research conducted jointly with Sajid Karim for Oxfam calculates that inadequate cooperation causes the countries of this basin combined losses of at least 14.2 billion dollars annually."
+        ],
+        "impact_bn": "শুষ্ক মৌসুমে গঙ্গার পানির ওপর কৃষি, মৎস্য, নৌ চলাচল ও ভঙ্গুর বাস্তুতন্ত্র নির্ভর করায় ভাটির দেশ হিসেবে বাংলাদেশ ঝুঁকিতে থাকে।",
+        "impact_en": "Bangladesh remains at risk as a downstream country because agriculture, fisheries, navigation, and a fragile ecosystem depend on Ganges water during the dry season.",
+        "details_bn": "১৯৯৬ সালে ভারতের তৎকালীন প্রধানমন্ত্রী এইচ ডি দেবগৌড়া ও বাংলাদেশের তৎকালীন প্রধানমন্ত্রী শেখ হাসিনার স্বাক্ষরিত চুক্তিটির মাধ্যমে ফারাক্কা বাঁধ নিয়ে দীর্ঘদিনের বিরোধের অবসান ঘটেছিল। চুক্তিটিতে জানুয়ারি থেকে মে পর্যন্ত প্রতি ১০ দিন অন্তর পানি বণ্টনের ব্যবস্থা করা হয়েছিল। তিন দশক পর ফারাক্কা বাঁধে পানির প্রাপ্যতা নিয়ে চুক্তিটির ভিত্তিগত অনুমানগুলো ধরে রাখা ক্রমেই কঠিন হয়ে পড়ছে। সম্প্রসারিত সেচব্যবস্থা, শিল্প খাতের চাহিদা, উজানে পানি প্রত্যাহার এবং জলবায়ু পরিবর্তনের কারণে নদীটির ওপর চাপ বাড়ছে।",
+        "details_en": "The 1996 treaty, signed by then Indian Prime Minister H. D. Deve Gowda and then Bangladeshi Prime Minister Sheikh Hasina, ended long-standing disputes over the Farakka Barrage. The agreement arranged water sharing every ten days from January to May. Three decades later, maintaining the treaty's foundational assumptions about water availability at the Farakka Barrage is becoming increasingly difficult. Expanded irrigation, industrial demand, upstream water withdrawal, and climate change are increasing pressure on the river.",
+        "hook_bn": "১২ ডিসেম্বর শেষ হচ্ছে গঙ্গার পানি চুক্তি",
+        "kicker_bn": "সতর্কতা",
+        "share_value": true,
+        "question_bn": "গঙ্গার পানি বণ্টন চুক্তি নবায়নের বিষয়ে দুই দেশের সরকারের কী ধরনের উদ্যোগ নেওয়া উচিত বলে আপনি মনে করেন?"
+      },
+      "desk_importance": 7.0,
+      "outlet_count": 1,
       "trending": false,
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-28T09:02:03.295340+00:00"
+        "checked_at": "2026-11-28T10:02:16.280616+00:00"
       }
     },
     {
-      "story_id": "7f96aba9-df43-58d4-8ff6-5a8b669e504a",
-      "primary_category": "economy_business",
+      "story_id": "527899b6-9154-50bc-bfec-563219c135df",
+      "primary_category": "society_education",
       "interest_categories": [
-        "economy_business"
+        "society_education",
+        "economy_business",
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#Unesco",
+        "#BangladeshEducation",
+        "#GEMReport"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-28%2Forhpmji1%2FPic.jpeg?rect=0%2C0%2C1331%2C699&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2020/12/26/bd-eng-teachers_0.png",
       "image_caption": null,
-      "published_at": "2026-11-28T08:39:27+00:00",
+      "published_at": "2026-11-28T09:25:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.824,
+      "importance_score": 7.0,
+      "rank_score": 4.7297,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/technology/freelancing/w6rpzjuqej",
-          "title": "বিপিও ও আইটিইএস খাতে ১০ শতাংশ নগদ প্রণোদনার প্রস্তাব বাক্কোর",
-          "snippet": "বিপিও ও আইটিইএস খাতে ১০ শতাংশ নগদ প্রণোদনার প্রস্তাব বাক্কোর"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/technology/news/1184599",
-          "title": "রপ্তানি আয় বাড়াতে বিপিও খাতে প্রণোদনা বাড়ানোর প্রস্তাব বাক্কোর",
-          "snippet": "রপ্তানি আয় বাড়াতে বিপিও খাতে প্রণোদনা বাড়ানোর প্রস্তাব বাক্কোর"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/bangladesh-makes-huge-progress-expanding-education-unesco-1616546",
+          "title": "Bangladesh makes huge progress in expanding education: Unesco",
+          "snippet": "Bangladesh makes huge progress in expanding education: Unesco"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বিপিও ও আইটিইএস খাতে ১০ শতাংশ নগদ প্রণোদনার প্রস্তাব বাক্কোর",
-        "title_en": "BACCO proposes 10 percent cash incentive for BPO and ITES sectors",
-        "summary_bn": "বাংলাদেশ অ্যাসোসিয়েশন অব কন্ট্যাক্ট সেন্টার অ্যান্ড আউটসোর্সিং বিপিও ও তথ্যপ্রযুক্তি সেবা খাতের রপ্তানিতে নগদ প্রণোদনা ৬ থেকে ১০ শতাংশে উন্নীত করার প্রস্তাব দিয়েছে।",
-        "summary_en": "Bangladesh Association of Call Center and Outsourcing proposed increasing cash incentives for BPO and ITES exports from 6 to 10 percent.",
+        "title_bn": "শিক্ষাব্যবস্থা প্রসারে বাংলাদেশের বিশাল অগ্রগতির প্রশংসা ইউনেসকোর",
+        "title_en": "Unesco praises Bangladesh for huge progress in expanding education",
+        "summary_bn": "ইউনেসকোর গ্লোবাল এডুকেশন মনিটরিং রিপোর্ট ২০২৬ অনুযায়ী গত তিন দশকে শিক্ষাব্যবস্থা প্রসারে বিশাল অগ্রগতি অর্জন করেছে বাংলাদেশ।",
+        "summary_en": "Bangladesh has made huge progress in expanding its education system over the past three decades, according to Unesco.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business"
+          "society_education",
+          "economy_business",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-28T08:39:27+00:00",
-        "lead_bn": "বাংলাদেশ অ্যাসোসিয়েশন অব কন্ট্যাক্ট সেন্টার অ্যান্ড আউটসোর্সিং বিপিও ও তথ্যপ্রযুক্তি সেবা খাতের রপ্তানিতে নগদ প্রণোদনা ৬ থেকে ১০ শতাংশে উন্নীত করার প্রস্তাব দিয়েছে।",
-        "lead_en": "Bangladesh Association of Call Center and Outsourcing proposed increasing cash incentives for BPO and ITES exports from 6 to 10 percent.",
+        "published_at": "2026-11-28T09:25:00+00:00",
+        "lead_bn": "ইউনেসকোর গ্লোবাল এডুকেশন মনিটরিং রিপোর্ট ২০২৬ অনুযায়ী গত তিন দশকে শিক্ষাব্যবস্থা প্রসারে বিশাল অগ্রগতি অর্জন করেছে বাংলাদেশ।",
+        "lead_en": "Bangladesh has made huge progress in expanding its education system over the past three decades, according to Unesco.",
         "bullets_bn": [
-          "বাক্কো সভাপতি ফয়সল আলিম ডাক, টেলিযোগাযোগ ও তথ্যপ্রযুক্তিমন্ত্রী ফকির মাহবুব আনামের সঙ্গে সাক্ষাতে এ প্রস্তাব দেন।",
-          "সাক্ষাৎকালে দেশে বিপিও ভিলেজ প্রতিষ্ঠা এবং রপ্তানি সম্প্রসারণ নিয়ে আলোচনা করা হয়।",
-          "মন্ত্রী বিভিন্ন পরিকল্পনা বাস্তবায়নে সরকারের পক্ষ থেকে সর্বাত্মক সহযোগিতার আশ্বাস দেন।"
+          "প্রতিবেদনে বলা হয়, বাংলাদেশ ঝরে পড়ার হার কমানো, জেন্ডার সমতা অর্জন এবং কারিগরি ও বৃত্তিমূলক শিক্ষা প্রসারে বড় সাফল্য দেখিয়েছে।",
+          "২০২৪ সালে প্রাথমিক বিদ্যালয় সমাপ্তির হার বেড়ে ৯০ শতাংশ হয়েছে, যা বৈশ্বিক গড় ৮৮ শতাংশকে ছাড়িয়ে গেছে।",
+          "প্রতিবেদনে উচ্চ মাধ্যমিক সমাপ্তির হার বৃদ্ধি এবং সামগ্রিক শিক্ষার মানোন্নয়নে অধিক মনোযোগ দেওয়ার ওপর জোর দেওয়া হয়েছে।"
         ],
         "bullets_en": [
-          "BACCO President Foysal Alim made the proposal during a meeting with Post, Telecommunications and Information Technology Minister Fakir Mahbub Anam.",
-          "The establishment of a BPO village and export expansion were also discussed during the meeting.",
-          "The minister assured all-out cooperation from the government in implementing various plans."
+          "The report noted that Bangladesh achieved major success in reducing dropout rates, attaining gender parity and expanding technical and vocational education.",
+          "The primary school completion rate jumped to 90% in 2024, surpassing the global average of 88%.",
+          "The report underscored the need for greater focus on increasing upper secondary completion rates and improving overall learning quality."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ডাক, টেলিযোগাযোগ ও তথ্যপ্রযুক্তিমন্ত্রীর সঙ্গে বাক্কোর নবনির্বাচিত কার্যনির্বাহী কমিটির সৌজন্য সাক্ষাৎকালে এ প্রস্তাব দেওয়া হয়। বাক্কো সভাপতি ফয়সল আলিম বিপিও ভিলেজ প্রতিষ্ঠার গুরুত্ব তুলে ধরে জানান, একটি সমন্বিত বিপিও ভিলেজ গড়ে তোলা হলে এ শিল্পের জন্য প্রয়োজনীয় অবকাঠামো, দক্ষ জনবল ও ব্যবসায়িক সেবার সমন্বয়ে একটি কার্যকর ইকোসিস্টেম তৈরি হবে। আসন্ন ফ্রিল্যান্সার সামিট আয়োজনের প্রস্তুতি ও বাক্কোর বিভিন্ন উদ্যোগ সম্পর্কেও মন্ত্রীকে অবহিত করা হয়।",
-        "details_en": "The proposal was made during a courtesy meeting between the newly elected executive committee of BACCO and the Post, Telecommunications and Information Technology Minister. BACCO President Foysal Alim highlighted the importance of establishing a BPO village, stating it would create an effective ecosystem with necessary infrastructure, skilled manpower, and business services. He also briefed the minister about preparations for the upcoming freelancer summit and various initiatives of BACCO.",
-        "hook_bn": "বিপিও খাতে প্রণোদনা বাড়ানোর প্রস্তাব",
-        "kicker_bn": null,
+        "details_bn": "ইউনেসকোর প্রকাশিত 'এক্সেস অ্যান্ড ইক্যুইটি: কাউন্টডাউন টু ২০৩০' শীর্ষক প্রতিবেদনে বাংলাদেশের শিক্ষাব্যবস্থার রূপান্তরকে একটি বিশেষ দেশের কেস স্টাডি হিসেবে তুলে ধরা হয়েছে। এতে বলা হয়েছে, ১৯৯০ সালে প্রাথমিক বিদ্যালয় সমাপ্তির হার ছিল ৩৪ শতাংশ, যা ২০২৪ সালে ৯০ শতাংশে উন্নীত হয়েছে এবং একই সময়ে নিম্ন মাধ্যমিক সমাপ্তির হার ২৩ শতাংশ থেকে বেড়ে ৭৪ শতাংশ হয়েছে।",
+        "details_en": "Titled 'Access and equity: Countdown to 2030', the report featured the transformation of Bangladesh's education system as a special country case study. The primary school completion rate jumped from 34% in 1990 to 90% in 2024, while the lower secondary completion rate increased from 23% to 74% during the same period.",
+        "hook_bn": "শিক্ষাব্যবস্থা প্রসারে বাংলাদেশের বিশাল অগ্রগতি",
+        "kicker_bn": "ইউনেসকো রিপোর্ট",
         "share_value": false,
-        "question_bn": null
+        "question_bn": "আপনার এলাকার শিক্ষাপ্রতিষ্ঠানগুলোতে ঝরে পড়ার হার কমাতে আর কী কী পদক্ষেপ নেওয়া উচিত বলে আপনার মনে হয়?"
       },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
+      "desk_importance": 7.0,
+      "outlet_count": 1,
       "trending": false,
       "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-28T09:02:03.295340+00:00"
+        "checked_at": "2026-11-28T10:02:16.280616+00:00"
       }
     },
     {
-      "story_id": "e2054dc6-b015-5b40-934d-65d040f766d4",
-      "primary_category": "governance_law",
+      "story_id": "0d05053b-bb6b-5b1c-8d45-57ca09a63eca",
+      "primary_category": "society_education",
       "interest_categories": [
+        "society_education",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#PurabiJewellers",
-        "#Dhanmondi",
-        "#Dhaka"
+        "#JuboMohilaLeague",
+        "#GazipurJail",
+        "#Turjo"
       ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Dhanmondi%20Shop.JPG",
+      "image_url": "https://images.unsplash.com/photo-1718440821712-258a1addf2aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8ZGV0YWluZWQlMjBqdWJvJTIwbW9oaWxhJTIwbGVhZ3VlJTIwZWR1Y2F0aW9ufGVufDF8MHx8fDE3OTU4NjAxMjF8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
       "image_caption": null,
-      "published_at": "2026-11-28T08:58:25+00:00",
+      "published_at": "2026-11-28T09:40:09+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5891,
+      "importance_score": 6.75,
+      "rank_score": 4.4625,
       "sources": [
         {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/gold-cash-stolen-dhanmondi-jewellery-shop-4335051",
-          "title": "Gold, cash stolen from Dhanmondi jewellery shop",
-          "snippet": "Gold, cash stolen from Dhanmondi jewellery shop"
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425969/detained-jubo-mohila-league-leader-bids-final",
+          "title": "Detained Jubo Mohila League leader bids final farewell to son at Gazipur jail",
+          "snippet": "Detained Jubo Mohila League leader bids final farewell to son at Gazipur jail"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/jubo-mohila-league-leaders-final-meeting-son-takes-place-prison-gate-1616501",
+          "title": "Jubo Mohila League leader's final meeting with deceased son takes place at prison gate",
+          "snippet": "Jubo Mohila League leader's final meeting with deceased son takes place at prison gate"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ধানমন্ডির শপিং মলে জুয়েলারি দোকানে চুরি, খোয়া গেছে সোনা ও নগদ টাকা",
-        "title_en": "Gold and cash stolen from a jewellery shop in Dhanmondi shopping mall",
-        "summary_bn": "ঢাকার ধানমন্ডির একটি শপিং মলে অবস্থিত পুরবী জুয়েলার্স থেকে প্রায় ২,০০০ ভরি সোনা, রূপা ও হীরা এবং নগদ ১০ থেকে ১২ লাখ টাকা চুরি হয়েছে।",
-        "summary_en": "Nearly 2,000 bhori of gold, silver, and diamond jewellery along with Tk 10-12 lakh in cash were stolen from Purabi Jewellers in Dhaka's Dhanmondi.",
+        "title_bn": "গাজীপুর কারাগারে ছেলের লাশ দেখলেন আটক যুব মহিলা লীগ নেত্রী",
+        "title_en": "Detained Jubo Mohila League leader sees deceased son's body at Gazipur jail",
+        "summary_bn": "আটক যুব মহিলা লীগ নেত্রী শর্মী গাজীপুর কারাগারে তার মৃত ছেলে তুর্জোর শেষ বিদায় জানান।",
+        "summary_en": "Detained Jubo Mohila League leader Shormi bid a final farewell to her deceased son Turjo at Gazipur jail.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "society_education",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-28T08:58:25+00:00",
-        "lead_bn": "ঢাকার ধানমন্ডির একটি শপিং মলে অবস্থিত পুরবী জুয়েলার্স থেকে প্রায় ২,০০০ ভরি সোনা, রূপা ও হীরা এবং নগদ ১০ থেকে ১২ লাখ টাকা চুরি হয়েছে।",
-        "lead_en": "Nearly 2,000 bhori of gold, silver, and diamond jewellery along with Tk 10-12 lakh in cash were stolen from Purabi Jewellers in Dhaka's Dhanmondi.",
+        "published_at": "2026-11-28T09:40:09+00:00",
+        "lead_bn": "আটক যুব মহিলা লীগ নেত্রী শর্মী গাজীপুর কারাগারে তার মৃত ছেলে তুর্জোর শেষ বিদায় জানান।",
+        "lead_en": "Detained Jubo Mohila League leader Shormi bid a final farewell to her deceased son Turjo at Gazipur jail.",
         "bullets_bn": [
-          "দোকানের মালিক অমিত ঘোষ জানিয়েছেন, চুরি যাওয়া পণ্যের মধ্যে সোনা, রূপা ও হীরা এবং নগদ ১০ থেকে ১২ লাখ টাকা রয়েছে।",
-          "রমনা বিভাগের উপ-পুলিশ কমিশনার শেখ জাহিদুল ইসলাম জানিয়েছেন, শপিং মলের দুজন নিরাপত্তাকর্মী পলাতক রয়েছেন এবং চারজনকে জিজ্ঞাসাবাদের জন্য আটক করা হয়েছে।",
-          "সিসিটিভি ফুটেজে দেখা গেছে ৩ থেকে ৫ জন ব্যক্তি চুরি চালিয়েছে এবং নিখোঁজ গার্ডদের একজন বহিরাগতদের ভেতরে ঢুকতে সাহায্য করেছে।"
+          "তুর্জোর লাশ বহনকারী একটি অ্যাম্বুলেন্স সকাল সাড়ে এগারোটার দিকে কারাগারে পৌঁছে।",
+          "শর্মী প্যারোলে মুক্তির আবেদন না করেই ছেলের লাশ দেখার অনুরোধ করেছিলেন।",
+          "কারাগারের গেটে যুব মহিলা লীগ নেত্রীর তার মৃত ছেলের সঙ্গে এই শেষ সাক্ষাৎ হয়।"
         ],
         "bullets_en": [
-          "Shop owner Amit Ghosh said the stolen items included gold, silver and diamond jewellery alongside Tk 10-12 lakh in cash.",
-          "Deputy Commissioner of Police Sheikh Zahidul Islam said two mall security guards were absconding and four others were detained for questioning.",
-          "CCTV footage showed three to five people carrying out the theft and one missing guard helping outsiders enter the shop."
+          "An ambulance carrying Turjo's body arrived at the prison around 11:30am.",
+          "Shormi had requested to see his body without seeking parole.",
+          "The final meeting with her deceased son took place at the prison gate."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ধানমন্ডি ৬/এ এলাকার একটি শপিং মলে অবস্থিত এই দোকানে চুরিটি ঘটে। দোকানটির জ্যেষ্ঠ বিক্রেতা সঞ্জীব শিল্প জানান, জুয়েলারি দোকানের নিজস্ব একজনসহ তিনজন নিরাপত্তাকর্মী নিখোঁজ রয়েছেন এবং দুজন গার্ডকে অজ্ঞাত পদার্থ মিশ্রিত খাবার খাইয়ে অচেতন করা হয়েছিল।",
-        "details_en": "The theft took place at the shop located in Dhanmondi 6/A. Sanjib Shil, a senior salesman, stated that three security guards went missing, including one employed by the shop, and two guards were allegedly given food mixed with an unidentified substance to make them unconscious.",
-        "hook_bn": "ধানমন্ডির জুয়েলারি দোকানে প্রায় দুই হাজার ভরি সোনা চুরি",
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "গাজীপুর কারাগারে ছেলের লাশ দেখলেন নেত্রী",
         "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 2,
+      "trending": true,
+      "social_appeal": 8.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-28T10:02:16.280616+00:00"
+      }
+    },
+    {
+      "story_id": "f786c087-e195-56a1-954d-05de0ef57c4d",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Technology",
+        "#Innovation"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8d3JpdHRlbiUyMHNjcmVlbmluZyUyMHRlc3QlMjB0cmFpbmluZyUyMHRlY2hub2xvZ3l8ZW58MXwwfHx8MTc5NTg2MDEzNnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_caption": null,
+      "published_at": "2026-11-28T08:12:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.239,
+      "sources": [
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/823412/%E0%A7%AC%E0%A7%AA-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%8F%E0%A6%86%E0%A6%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%9B%E0%A6%BE%E0%A6%87-%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A6%A8-%E0%A7%AB%E0%A7%AD",
+          "title": "৬৪ জেলায় এআই প্রশিক্ষণের বাছাই পরীক্ষা, আবেদন ৫৭ হাজার",
+          "snippet": "৬৪ জেলায় এআই প্রশিক্ষণের বাছাই পরীক্ষা, আবেদন ৫৭ হাজার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "এআই প্রশিক্ষণের লিখিত বাছাই পরীক্ষা ৬৪ জেলায় অনুষ্ঠিত হয়েছে",
+        "title_en": "Written screening test for AI training held across 64 districts",
+        "summary_bn": "কৃত্রিম বুদ্ধিমত্তা প্রযুক্তিতে দক্ষতা অর্জনের লক্ষ্যে সরকারের প্রশিক্ষণ কর্মসূচির তৃতীয় ব্যাচে অংশ নিতে প্রায় ৫৭ হাজার তরুণ-তরুণী আবেদন করেছেন।",
+        "summary_en": "Nearly 57,000 young people applied for the third batch of the government training program to gain skills in artificial intelligence technology.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-28T08:12:00+00:00",
+        "lead_bn": "কৃত্রিম বুদ্ধিমত্তা প্রযুক্তিতে দক্ষতা অর্জনের লক্ষ্যে সরকারের প্রশিক্ষণ কর্মসূচির তৃতীয় ব্যাচে অংশ নিতে প্রায় ৫৭ হাজার তরুণ-তরুণী আবেদন করেছেন।",
+        "lead_en": "Nearly 57,000 young people applied for the third batch of the government training program to gain skills in artificial intelligence technology.",
+        "bullets_bn": [
+          "আবেদনকারীদের মধ্য থেকে ১ হাজার ৬০০ প্রশিক্ষণার্থী নির্বাচনের জন্য ২৮ নভেম্বর দেশের ৬৪ জেলায় একযোগে লিখিত বাছাই পরীক্ষা অনুষ্ঠিত হয়েছে।",
+          "সারা দেশে প্রতি আসনের বিপরীতে গড়ে প্রায় ৩৬ জন প্রার্থী রয়েছে।",
+          "ঢাকায় প্রতি আসনের বিপরীতে প্রার্থীর সংখ্যা ৩৪০ জন এবং এই কর্মসূচি যুব ও ক্রীড়া মন্ত্রণালয়ের অধীনে পরিচালিত হচ্ছে।"
+        ],
+        "bullets_en": [
+          "A written screening test was held simultaneously across 64 districts November 28, to select 1,600 trainees from the applicants.",
+          "Across the country, there are an average of about 36 candidates against each seat.",
+          "In Dhaka, the number of candidates per seat is 340, and the program is run under the Ministry of Youth and Sports."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "এআই প্রশিক্ষণের বাছাই পরীক্ষায় ৫৭ হাজার আবেদন",
+        "kicker_bn": "নতুন তারিখ",
         "share_value": false,
         "question_bn": null
       },
@@ -227,227 +352,7 @@
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-28T09:02:03.295340+00:00"
-      }
-    },
-    {
-      "story_id": "f64709e7-c27d-581e-801e-64d8460988a6",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "society_education",
-        "governance_law"
-      ],
-      "region": "international",
-      "tags": [
-        "#Thiruparankundram",
-        "#SupremeCourt",
-        "#TamilNadu",
-        "#India"
-      ],
-      "image_url": "https://static.dw.com/image/80083323_6.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-28T08:19:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.9035,
-      "sources": [
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/india-hindu-lamp-lighting-at-disputed-thiruparankundram-pillar-today/live-80083375?maca=en-rss-en-all-1573-rdf",
-          "title": "India: Hindu lamp lighting at disputed Thiruparankundram pillar today",
-          "snippet": "India: Hindu lamp lighting at disputed Thiruparankundram pillar today"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ভারতের তামিলনাড়ুতে বিরোধপূর্ণ স্তম্ভে হিন্দু প্রদীপ প্রজ্বালনের নির্দেশ সুপ্রিম কোর্টের",
-        "title_en": "Supreme court directs Hindu lamp lighting at disputed Tamil Nadu pillar",
-        "summary_bn": "ভারতের সুপ্রিম কোর্টের নির্দেশে তামিলনাড়ুর একটি বিতর্কিত পাথরের স্তম্ভে একটি হিন্দু অনুষ্ঠান ও প্রদীপ প্রজ্বালন অনুষ্ঠিত হওয়ার কথা রয়েছে।",
-        "summary_en": "A Hindu ceremony and lamp lighting is scheduled to take place at a contentious stone pillar in Tamil Nadu by Supreme Court direction.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-28T08:19:00+00:00",
-        "lead_bn": "ভারতের সুপ্রিম কোর্টের নির্দেশে তামিলনাড়ুর একটি বিতর্কিত পাথরের স্তম্ভে একটি হিন্দু অনুষ্ঠান ও প্রদীপ প্রজ্বালন অনুষ্ঠিত হওয়ার কথা রয়েছে।",
-        "lead_en": "A Hindu ceremony and lamp lighting is scheduled to take place at a contentious stone pillar in Tamil Nadu by Supreme Court direction.",
-        "bullets_bn": [
-          "সুপ্রিম কোর্ট তামিলনাড়ু সরকার ও মাদুরাই জেলা কর্মকর্তাদের বিরুদ্ধে আদেশ অমান্য করার সমালোচনা করে দীপথুনে প্রদীপ জ্বালানোর নির্দেশ দিয়েছে।",
-          "শীর্ষ আদালত সুব্রহ্মণ্য স্বামী মন্দিরের ট্রাস্টি বোর্ড স্থগিত করে এবং মাদ্রাজ হাইকোর্টের দুই অবসরপ্রাপ্ত বিচারপতিকে ট্রাস্টের রিসিভার হিসেবে নিয়োগ করে।",
-          "আদালত প্রদীপ প্রজ্বালনের জন্য নিরাপত্তার দায়িত্ব আধাসামরিক সিআরপিএফকে অর্পণ করেছে এবং সব ভক্তকে অনুমতি দিয়েছে।"
-        ],
-        "bullets_en": [
-          "The Supreme Court criticized officials for defying orders and directed the lamp to be lit at Deepathoon on Saturday.",
-          "The top court suspended the temple's Board of Trustees and appointed two retired Madras High Court judges as receivers.",
-          "The court tasked the paramilitary CRPF with security and permitted every devotee to light the lamp."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "তামিলনাড়ুর একটি পাথরের স্তম্ভকে কেন্দ্র করে আইনি, রাজনৈতিক ও ধর্মীয় বিতর্ক সৃষ্টি হয়েছে। এর আগে শীর্ষ আদালতের প্রদীপ প্রজ্বালনের নির্দেশ মানা হয়নি। সুপ্রিম কোর্ট গত ২০ নভেম্বরের আদেশ অমান্য করার বিষয়ে সরকারের সমালোচনা করে।",
-        "details_en": "A contentious stone pillar in Tamil Nadu has stoked a legal, political and religious controversy. An earlier order by the top court for the ritual lamp lighting was not followed. the Supreme Court criticised officials for wilful defiance of the November 20 order.",
-        "hook_bn": "তামিলনাড়ুর বিতর্কিত স্তম্ভে প্রদীপ প্রজ্বালন",
-        "kicker_bn": "রায় ঘোষণা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": true,
-      "social_appeal": 4.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-28T09:02:03.295340+00:00"
-      }
-    },
-    {
-      "story_id": "d8f1a420-eca5-5ce0-899d-e94e44627d92",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "society_education"
-      ],
-      "region": "international",
-      "tags": [
-        "#Afghanistan",
-        "#Kunar",
-        "#SchoolExplosion"
-      ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/09/WEBMAP_AFGHANISTAN_KUNAR-1756709855.jpg?resize=1200%2C675",
-      "image_caption": null,
-      "published_at": "2026-11-28T07:42:09+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.316,
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss",
-          "title": "At least six students killed in blast beside school in Afghanistan’s Kunar",
-          "snippet": "At least six students killed in blast beside school in Afghanistan’s Kunar"
-        },
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/several-students-reportedly-killed-wounded-in-explosion-at-a-middle-school-in-eastern-afghanistan/article71753929.ece",
-          "title": "Several students reportedly killed, wounded in explosion at a middle school in eastern Afghanistan",
-          "snippet": "Several students reportedly killed, wounded in explosion at a middle school in eastern Afghanistan"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "আফগানিস্তানের কুনারে স্কুলের পাশে বিস্ফোরণে নিহত অন্তত ছয় শিক্ষার্থী।",
-        "title_en": "At least six students killed in blast beside Afghanistan school.",
-        "summary_bn": "পূর্ব আফগানিস্তানের কুনার প্রদেশে একটি স্কুলের পাশে বিস্ফোরণে অন্তত ছয় শিক্ষার্থী নিহত এবং ৯৭ জন আহত হয়েছেন।",
-        "summary_en": "At least six students have been killed and 97 others injured in an explosion next to a school in eastern Afghanistan's Kunar province.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-28T07:42:09+00:00",
-        "lead_bn": "পূর্ব আফগানিস্তানের কুনার প্রদেশে একটি স্কুলের পাশে বিস্ফোরণে অন্তত ছয় শিক্ষার্থী নিহত এবং ৯৭ জন আহত হয়েছেন।",
-        "lead_en": "At least six students have been killed and 97 others injured in an explosion next to a school in eastern Afghanistan's Kunar province.",
-        "bullets_bn": [
-          "আন্দার সার এলাকায় একটি মধ্য বিদ্যালয়ের পাশের বাড়িতে বিস্ফোরণটি ঘটে।",
-          "কুনার প্রাদেশিক হাসপাতালের প্রধান মৌলা দাদ হতাহতের এই সংখ্যা জানান।",
-          "কুনারের তথ্য ও সংস্কৃতি পরিচালক জানান, খনি কাজের সাথে জড়িত ব্যক্তিরা সেখানে ডিনামাইট মজুত করেছিলেন।"
-        ],
-        "bullets_en": [
-          "The explosion occurred in a house beside a middle school in the Andar Ser area.",
-          "Mawla Dad, the head of Kunar Provincial Hospital, provided the casualty figures.",
-          "The house belonged to people involved in mining operations who had stored dynamite there."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "আফগানিস্তানের পূর্বাঞ্চলীয় কুনার প্রদেশে সকাল ১০টার দিকে এই বিস্ফোরণ ঘটে। কুনারের তথ্য ও সংস্কৃতি পরিচালক মাওলানা সামি উল হক জানান, খনি কাজের সঙ্গে যুক্ত ব্যক্তিরা বাড়িটিতে ডিনামাইট মজুত করেছিলেন। কুনার প্রদেশের তদন্ত দলগুলো ঘটনাস্থলে রয়েছে। এর আগে আগস্ট মাসে কাবুলের একটি স্কুল কমপ্লেক্সে গ্রেনেড হামলায় নয় থেকে চৌদ্দ বছর বয়সী ৪০ জনের বেশি শিশু আহত হয়েছিল।",
-        "details_en": "The explosion occurred in a house beside a middle school in the Andar Ser area of Kunar province at about 10am on Saturday. Mawlawi Sami-ul-Haq, the director of Information and Culture in Kunar, stated that the house belonged to people involved in mining operations who had stored dynamite there. Investigative teams from Kunar province were at the scene. In August, a hand grenade attack at a school complex in Kabul wounded more than 40 children aged between nine and 14.",
-        "hook_bn": "আফগানিস্তানে স্কুলের পাশে বিস্ফোরণে নিহত ছয়",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-28T09:02:03.295340+00:00"
-      }
-    },
-    {
-      "story_id": "ca9bb0b3-c2f6-54e2-bc98-50fbf4eaa3b6",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#Uganda",
-        "#Ebola",
-        "#Moderna",
-        "#Vaccine"
-      ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26329472525576-1795846807.jpg?resize=1920%2C1440",
-      "image_caption": null,
-      "published_at": "2026-11-28T07:22:17+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.2721,
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/28/uganda-starts-mrna-ebola-vaccine-trial-in-first-for-africa?traffic_source=rss",
-          "title": "Uganda starts mRNA Ebola vaccine trial in first for Africa",
-          "snippet": "Uganda starts mRNA Ebola vaccine trial in first for Africa"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "উগান্ডায় শুরু হলো আফ্রিকার প্রথম এমআরএনএ ইবোলা টিকার পরীক্ষা।",
-        "title_en": "Uganda starts Africa first clinical trial of an mRNA Ebola vaccine.",
-        "summary_bn": "আফ্রিকার প্রথম ক্লিনিক্যাল ট্রায়াল হিসেবে উগান্ডায় একটি এমআরএনএ ইবোলা টিকার পরীক্ষা শুরু হয়েছে।",
-        "summary_en": "Africa first clinical trial of an mRNA vaccine against Ebola has begun in Uganda.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-28T07:22:17+00:00",
-        "lead_bn": "আফ্রিকার প্রথম ক্লিনিক্যাল ট্রায়াল হিসেবে উগান্ডায় একটি এমআরএনএ ইবোলা টিকার পরীক্ষা শুরু হয়েছে।",
-        "lead_en": "Africa first clinical trial of an mRNA vaccine against Ebola has begun in Uganda.",
-        "bullets_bn": [
-          "মডার্নার সঙ্গে যৌথভাবে রাষ্ট্রীয় প্রতিষ্ঠান উগান্ডা ভাইরাস রিসার্চ ইনস্টিটিউট এই পরীক্ষা শুরু করেছে।",
-          "শিশুরা যেন টিকা পায়, সেজন্য এক বছর বা তার বেশি বয়সী শিশুদের ওপর পরীক্ষা চালানো হচ্ছে।",
-          "ডেমোক্রেটিক রিপাবলিক অব কঙ্গোতে ইবোলার প্রাদুর্ভাব ঘটানো বুন্দিবুগিও স্ট্রেইনের বিরুদ্ধে এই টিকা কাজ করবে।"
-        ],
-        "bullets_en": [
-          "The state-run Uganda Virus Research Institute started the trial in collaboration with Moderna.",
-          "The trial will test safety and immune response in children aged 1 year and above.",
-          "The vaccine targets the Bundibugyo strain behind a deadly Ebola outbreak in the DRC."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "মডার্না এর আগে আগস্ট মাসে কানাডায় ১৮ থেকে ৬৫ বছর বয়সীদের ওপর এই টিকার প্রথম মানব পরীক্ষা শুরু করেছিল। উগান্ডার এই ট্রায়ালে ২২৪ জন স্বেচ্ছাসেবী নিবন্ধনের লক্ষ্য রয়েছে। ভারতের সিরাম ইনস্টিটিউট এবং অক্সফোর্ড বিশ্ববিদ্যালয়ের তৈরি অন্য একটি টিকার পরীক্ষাও কঙ্গোয় শুরু হতে যাচ্ছে।",
-        "details_en": "Moderna began its first human trial of the vaccine in Canada in August targeting adults from 18 to 65 years old. The Ugandan trial aims to enrol 224 volunteers. Another potential candidate vaccine developed by India Serum Institute and the University of Oxford will begin testing in the DRC.",
-        "hook_bn": "উগান্ডায় শুরু হলো ইবোলা টিকার পরীক্ষা",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 4.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-28T09:02:03.295340+00:00"
+        "checked_at": "2026-11-28T10:02:16.280616+00:00"
       }
     }
   ]
