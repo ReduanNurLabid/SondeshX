@@ -1,306 +1,453 @@
 {
-  "updated_at": "2026-11-28T08:00:52.438863",
-  "total_stories": 4,
+  "updated_at": "2026-11-28T09:00:47.488570",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "28164e1a-0251-5cf4-b54a-d9d14cb0cf5f",
-      "primary_category": "world_diplomacy",
+      "story_id": "90e8680b-6930-5db0-b0de-7623401f57d7",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "world_diplomacy",
+        "economy_business",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#SheikhHasina",
-        "#HafizUddinAhmed",
-        "#ICJ",
-        "#BangladeshIndia"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/06/21/speaker.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-28%2Fpbwa0vds%2FWhatsApp-Image-2026-11-28-at-14.36.35.jpeg?rect=194%2C0%2C1406%2C738&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-28T05:10:00+00:00",
+      "published_at": "2026-11-28T08:38:10+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 7.75,
-      "rank_score": 5.0923,
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/politics/bangladesh-considers-moving-icj-sheikh-hasinas-extradition-india-speaker-1616241",
-          "title": "Bangladesh considers moving ICJ for Sheikh Hasina's extradition from India: Speaker",
-          "snippet": "Bangladesh considers moving ICJ for Sheikh Hasina's extradition from India: Speaker"
-        },
-        {
-          "name": "Sarabangla",
-          "url": "https://sarabangla.net/news/post-1226738/",
-          "title": "সিলেটে ৮ বছর পর চা শ্রমিক ইউনিয়ন নির্বাচন, চলছে ভোটগ্রহণ",
-          "snippet": "সিলেটে ৮ বছর পর চা শ্রমিক ইউনিয়ন নির্বাচন, চলছে ভোটগ্রহণ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ভারত শেখ হাসিনাকে প্রত্যর্পণ না করলে আইসিজেতে যাওয়ার কথা ভাবছে ঢাকা",
-        "title_en": "Dhaka may approach ICJ if India does not extradite Sheikh Hasina",
-        "summary_bn": "ভারত সাবেক প্রধানমন্ত্রী শেখ হাসিনাকে প্রত্যর্পণ না করলে বাংলাদেশ আন্তর্জাতিক আদালতে যেতে পারে বলে জানিয়েছেন সংসদ স্পিকার হাফিজ উদ্দিন আহমেদ।",
-        "summary_en": "Bangladesh may approach the International Court of Justice if former prime minister Sheikh Hasina is not extradited by India, said Parliament Speaker Hafiz Uddin Ahmed.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-28T05:10:00+00:00",
-        "lead_bn": "ভারত সাবেক প্রধানমন্ত্রী শেখ হাসিনাকে প্রত্যর্পণ না করলে বাংলাদেশ আন্তর্জাতিক আদালতে যেতে পারে বলে জানিয়েছেন সংসদ স্পিকার হাফিজ উদ্দিন আহমেদ।",
-        "lead_en": "Bangladesh may approach the International Court of Justice if former prime minister Sheikh Hasina is not extradited by India, said Parliament Speaker Hafiz Uddin Ahmed.",
-        "bullets_bn": [
-          "ইসলামাবাদে সাংবাদিকদের সঙ্গে কথা বলার সময় স্পিকার এই মন্তব্য করেন।",
-          "শেখ হাসিনা বাংলাদেশে ফিরে এলে তাকে গ্রেপ্তার করে কারাগারে পাঠানো হবে বলে তিনি জানান।",
-          "শেখ হাসিনার ১৫ বছরের শাসনামলে বাংলাদেশ কার্যকরভাবে ভারতের উপনিবেশে পরিণত হয়েছিল বলে স্পিকার অভিযোগ করেন।"
-        ],
-        "bullets_en": [
-          "The speaker made the remark while speaking to journalists in Islamabad.",
-          "He added that if Hasina returns to Dhaka, she will be arrested and sent to jail.",
-          "The speaker alleged that Bangladesh effectively became a colony of India during Sheikh Hasina's rule."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "পাকিস্তান সফরকালে এই মন্তব্য করেন সংসদ স্পিকার হাফিজ উদ্দিন আহমেদ। সূত্র জানায়, শেখ হাসিনা ১৬ ডিসেম্বরে বাংলাদেশে ফেরার ইচ্ছা প্রকাশ করার পর স্পিকারের এই বক্তব্য এল। এছাড়া তিনি কাশ্মীর সংকট জাতিসংঘ প্রস্তাব অনুযায়ী সমাধানের কথা বলেন।",
-        "details_en": "Parliament Speaker Hafiz Uddin Ahmed made the remarks during his six-day visit to Pakistan. The speaker's comments follow Sheikh Hasina's stated intention to return to Bangladesh on 16 December. He also spoke on the Kashmir issue, stating the dispute should be resolved in accordance with UN resolutions.",
-        "hook_bn": "শেখ হাসিনাকে না ফেরালে আইসিজেতে যাবে ঢাকা",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": "সাবেক প্রধানমন্ত্রীর প্রত্যর্পণ বিষয়ে সরকারের এই অবস্থানকে আপনি কীভাবে দেখছেন?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 2,
-      "trending": true,
-      "social_appeal": 7.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-28T08:02:05.061573+00:00"
-      }
-    },
-    {
-      "story_id": "00cf97d5-a1c2-570c-9d03-d41d18236814",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-28%2F8dx5tyju%2F970365-01-02.jpg?rect=0%2C87%2C2581%2C1355&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-28T07:36:49+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.25,
-      "rank_score": 3.8147,
+      "rank_score": 5.8725,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/sports/cricket/aj5a5h9976",
-          "title": "বুমরা আর বুমরা নেই, জয়সোয়ালের শূন্যের রেকর্ড, ধুঁকছে ভারত",
-          "snippet": "বুমরা আর বুমরা নেই, জয়সোয়ালের শূন্যের রেকর্ড, ধুঁকছে ভারত"
+          "url": "https://www.prothomalo.com/business/economics/9d2xbbfndb",
+          "title": "দেশে-বিদেশে যেখানে যাই কাস্টমস ও এনবিআর নিয়ে কথা শুনতে হয়: অর্থমন্ত্রী",
+          "snippet": "দেশে-বিদেশে যেখানে যাই কাস্টমস ও এনবিআর নিয়ে কথা শুনতে হয়: অর্থমন্ত্রী"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/customs-nbr-issues-raised-wherever-i-go-home-and-abroad-finance-minister-1616436",
+          "title": "Customs, NBR issues raised wherever I go at home and abroad: Finance minister",
+          "snippet": "Customs, NBR issues raised wherever I go at home and abroad: Finance minister"
+        },
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/finance-minister-says-he-hears-concerns-about-customs-at-home-and-abroad",
+          "title": "Customs issues raised at home and abroad: Finance Minister",
+          "snippet": "Customs issues raised at home and abroad: Finance Minister"
         },
         {
           "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823408/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BF%E0%A6%82-%E0%A6%AC%E0%A6%BF%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A7%9F%E0%A7%87-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4-%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9A%E0%A7%87-%E0%A6%89%E0%A7%9C%E0%A6%9B%E0%A7%87",
-          "title": "ব্যাটিং বিপর্যয়ে ভারত, ক্রাইস্টচার্চে উড়ছে নিউজিল্যান্ড",
-          "snippet": "ব্যাটিং বিপর্যয়ে ভারত, ক্রাইস্টচার্চে উড়ছে নিউজিল্যান্ড"
+          "url": "https://www.ittefaq.com.bd/823414/%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE-%E0%A6%95%E0%A7%8B%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%AE%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%A4-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87%E0%A6%87-%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A6%BE-%E0%A6%86%E0%A6%B8%E0%A6%BE",
+          "title": "বিমা কোম্পানির অনিয়মে হাত দেওয়ার পর থেকেই বাধা আসা শুরু হয়েছে: অর্থমন্ত্রী",
+          "snippet": "বিমা কোম্পানির অনিয়মে হাত দেওয়ার পর থেকেই বাধা আসা শুরু হয়েছে: অর্থমন্ত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ক্রাইস্টচার্চ টেস্টের প্রথম ইনিংসে চরম ব্যাটিং বিপর্যয়ে পড়েছে ভারত",
-        "title_en": "India suffers a batting collapse in the first innings of Christchurch test",
-        "summary_bn": "নিউজিল্যান্ডের প্রথম ইনিংসের ৩৫৬ রানের জবাবে ভারত দ্বিতীয় দিন শেষে ৬ উইকেট হারিয়ে ১১৬ রান সংগ্রহ করেছে।",
-        "summary_en": "In reply to New Zealand's first innings total of 356, India reached 116 for 6 wickets at the end of the second day.",
+        "title_bn": "দেশে-বিদেশে কাস্টমস ও এনবিআর নিয়ে কথা শুনতে হয়: অর্থমন্ত্রী",
+        "title_en": "Customs and NBR issues raised at home and abroad: Finance Minister",
+        "summary_bn": "অর্থমন্ত্রী আমির খসরু মাহমুদ চৌধুরী জানিয়েছেন, দেশে-বিদেশে যেখানেই যান, আমদানি-রপ্তানি বাণিজ্য নিয়ে কাস্টমস ও এনবিআর নিয়ে কথা শুনতে হয়।",
+        "summary_en": "Finance Minister Amir Khosru Mahmud Chowdhury stated that wherever he goes at home and abroad, he hears complaints about customs and the NBR.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-28T07:36:49+00:00",
-        "lead_bn": "নিউজিল্যান্ডের প্রথম ইনিংসের ৩৫৬ রানের জবাবে ভারত দ্বিতীয় দিন শেষে ৬ উইকেট হারিয়ে ১১৬ রান সংগ্রহ করেছে।",
-        "lead_en": "In reply to New Zealand's first innings total of 356, India reached 116 for 6 wickets at the end of the second day.",
-        "bullets_bn": [
-          "নিউজিল্যান্ডের চার পেসার ভারতের ছয়টি উইকেটই নিয়েছেন এবং ভারত এখনো ২৪০ রানে পিছিয়ে রয়েছে।",
-          "যশস্বী জয়সোয়াল বিশ্ব টেস্ট চ্যাম্পিয়নশিপে ভারতের ব্যাটসম্যানদের মধ্যে সবচেয়ে বেশিবার শূন্য রানে আউট হওয়ার রেকর্ড গড়েছেন।",
-          "ঋষভ পন্ত একটি ছক্কা মেরে বিশ্ব টেস্ট চ্যাম্পিয়নশিপে ৮৯টি ছক্কার রেকর্ড গড়ে বেন স্টোকসকে পেছনে ফেলেছেন।"
-        ],
-        "bullets_en": [
-          "Four New Zealand pacers took all six Indian wickets, leaving India trailing by 240 runs.",
-          "Yashasvi Jaiswal set an unwanted record for the most ducks by an Indian batsman in the World Test Championship.",
-          "Rishabh Pant hit a six to surpass Ben Stokes with a total of 89 sixes in the World Test Championship."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ক্রাইস্টচার্চ টেস্টে ৫ উইকেটে ২৪৬ রান নিয়ে প্রথম দিন শেষ করা নিউজিল্যান্ড প্রথম ইনিংসে ৩৫৬ রান সংগ্রহ করে। আগের দিন ১৯ ওভার বোলিং করেও উইকেটশূন্য থাকা যশপ্রীত বুমরা আরও ৭ ওভার বোলিং করে কোনো উইকেট পাননি। ভারতের পক্ষে আকাশ দীপ ৫ উইকেট নেন। ভারতের প্রথম ইনিংসে যশস্বী জয়সোয়াল ৬ বল খেলে শূন্য রানে আউট হন এবং লোকেশ রাহুল, দেবদূত পাড়িক্কাল, শুবমান গিল ও ঋষভ পন্ত ভালো শুরু পেলেও ক্রিজে থাকতে পারেননি।",
-        "details_en": "New Zealand, finishing the first day at 246 for 5, posted 356 runs in their first innings. Jasprit Bumrah remained wicketless after bowling another seven overs. Akash Das took five wickets for India. Yashasvi Jaiswal was dismissed for a duck after facing six balls, while Lokesh Rahul, Devdutt Padikkal, Shubman Gill and Rishabh Pant failed to stay at the crease despite getting good starts.",
-        "hook_bn": "ক্রাইস্টচার্চ টেস্টে ব্যাটিং বিপর্যয়ে ভারত",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": "ক্রাইস্টচার্চ টেস্টে ভারতের এই ব্যাটিং বিপর্যয় কি কাটিয়ে ওঠা সম্ভব বলে আপনার মনে হয়?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 2,
-      "trending": false,
-      "social_appeal": 5.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-28T08:02:05.061573+00:00"
-      }
-    },
-    {
-      "story_id": "cce1d655-fafe-5ced-bb89-9749b5895839",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation",
-        "governance_law"
-      ],
-      "region": "international",
-      "tags": [
-        "#Technology",
-        "#Innovation"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-28%2Fdffevakn%2FMusk-Satellite-1.jpg?rect=0%2C0%2C720%2C378&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-11-28T06:01:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.25,
-      "rank_score": 2.4544,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/usa/66172vomkj",
-          "title": "ইলন মাস্ক কেন মহাকাশে ১০ লাখ স্যাটেলাইট ডেটা সেন্টার বসাতে চান",
-          "snippet": "ইলন মাস্ক কেন মহাকাশে ১০ লাখ স্যাটেলাইট ডেটা সেন্টার বসাতে চান"
-        },
-        {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/explainer/what-know-about-spacexs-plan-launch-1m-ai-data-centres-orbit-1616431",
-          "title": "What to know about SpaceX's plan to launch 1m AI data centres into orbit",
-          "snippet": "What to know about SpaceX's plan to launch 1m AI data centres into orbit"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "যুক্তরাষ্ট্র স্পেসএক্সের মহাকাশে ১০ লাখ স্যাটেলাইট ডেটা সেন্টার বসানোর পরিকল্পনা অনুমোদন করেছে",
-        "title_en": "US approves SpaceX plan to place one million satellite data centres in space",
-        "summary_bn": "যুক্তরাষ্ট্র স্পেসএক্সের কক্ষপথে ১০ লাখ স্যাটেলাইট ডেটা সেন্টার বা কম্পিউট মডিউল মোতায়েনের পরিকল্পনা অনুমোদন করেছে।",
-        "summary_en": "The United States has approved SpaceX's plan to deploy one million satellite data centres into orbit.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation",
+          "economy_business",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-28T06:01:00+00:00",
-        "lead_bn": "যুক্তরাষ্ট্র স্পেসএক্সের কক্ষপথে ১০ লাখ স্যাটেলাইট ডেটা সেন্টার বা কম্পিউট মডিউল মোতায়েনের পরিকল্পনা অনুমোদন করেছে।",
-        "lead_en": "The United States has approved SpaceX's plan to deploy one million satellite data centres into orbit.",
+        "published_at": "2026-11-28T08:38:10+00:00",
+        "lead_bn": "অর্থমন্ত্রী আমির খসরু মাহমুদ চৌধুরী জানিয়েছেন, দেশে-বিদেশে যেখানেই যান, আমদানি-রপ্তানি বাণিজ্য নিয়ে কাস্টমস ও এনবিআর নিয়ে কথা শুনতে হয়।",
+        "lead_en": "Finance Minister Amir Khosru Mahmud Chowdhury stated that wherever he goes at home and abroad, he hears complaints about customs and the NBR.",
         "bullets_bn": [
-          "যুক্তরাষ্ট্রের ফেডারেল কমিউনিকেশনস কমিশন বা এফসিসি স্টারমাইন্ড নামের এ পরিকল্পনার অনুমোদন দিয়েছে।",
-          "এফসিসির চেয়ারম্যান ব্রেন্ডন কার জানিয়েছেন, মহাকাশে মোতায়েন হওয়া এসব মডিউল পৃথিবীতে ব্যবহারের জন্য বিপুল পরিমাণ ডেটা প্রক্রিয়াজাত করবে।",
-          "স্পেসএক্স জানিয়েছে, পৃথিবীতে বিদ্যুতের উৎস কমে যাওয়ায় এআই ডেটা সেন্টারের শক্তির উৎস হিসেবে সূর্যকে ব্যবহার করা হবে।"
+          "অর্থমন্ত্রী জানান, জাপান ও কোরিয়ায় যাওয়ার পরও এনবিআরের বিষয়টি তাঁরা বারবার সামনে নিয়ে এসেছেন।",
+          "তিনি বলেন, বিমা খাতের অবস্থা ব্যাংক খাতের চেয়েও খারাপ এবং বিমা কোম্পানিগুলো দাবি পরিশোধ করছে না।",
+          "বিমা কোম্পানির বিভিন্ন অনিয়মের বিরুদ্ধে অনুসন্ধান শুরুর পর প্রভাবশালী মহল থেকে বাধা আসা শুরু হয়েছে।"
         ],
         "bullets_en": [
-          "The United States Federal Communications Commission approved the plan named Starmind.",
-          "FCC Chairman Brendan Carr stated that these modules deployed in space will process massive amounts of data for use on Earth.",
-          "SpaceX stated that the sun will be used as the power source for AI data centres as electricity sources on Earth become scarce."
+          "The finance minister stated that even during visits to Japan and Korea, the NBR issue was repeatedly brought up.",
+          "He stated that the insurance sector is in worse condition than the banking sector and companies are not settling claims.",
+          "Obstacles from influential circles began after investigations into various irregularities of insurance companies were initiated."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "মহাকাশ প্রযুক্তি, মহাকাশ পরিবহন ও কৃত্রিম বুদ্ধিমত্তা প্রতিষ্ঠান স্পেসএক্সের প্রতিষ্ঠাতা ধনকুবের ইলন মাস্কের এ পরিকল্পনা কম খরচে ও উচ্চ ক্ষমতাসম্পন্ন বলে জানিয়েছে কোম্পানিটি। এআই কম্পিউটিংয়ের ক্রমবর্ধমান চাহিদার প্রেক্ষাপটে এবং পৃথিবীতে বিদ্যুতের উৎস খোঁজা কঠিন হয়ে পড়ায় এই বিকল্প উপায়ের তোড়জোড় শুরু হয়েছে।",
-        "details_en": "The company stated that the plan by SpaceX founder Elon Musk is low-cost and high-capacity. This initiative has been pursued as an alternative due to the growing demand for AI computing and the increasing difficulty of finding electricity sources on Earth.",
-        "hook_bn": "মহাকাশে ১০ লাখ স্যাটেলাইট পাঠাবে স্পেসএক্স",
-        "kicker_bn": "নতুন পরিকল্পনা",
+        "details_bn": "মিরপুরের বাংলাদেশ ব্যাংক ট্রেনিং একাডেমিতে স্থানীয় ঋণপত্রের তথ্য আদান–প্রদানের প্ল্যাটফর্ম ‘বাংলাদেশ রিয়েল-টাইম ট্রেড অ্যারেঞ্জমেন্ট-বার্তা’ উদ্বোধন অনুষ্ঠানে এই বক্তব্য দেন অর্থমন্ত্রী।",
+        "details_en": "The finance minister made these remarks at the inauguration ceremony of the local letter of credit information exchange platform in Mirpur.",
+        "hook_bn": "যেখানেই যাচ্ছি এনবিআরের ব্যাপারটা সামনে নিয়ে আসছে",
+        "kicker_bn": "সতর্কতা",
         "share_value": false,
-        "question_bn": "মহাকাশে ডেটা সেন্টার স্থাপন নিয়ে আপনার মতামত কী?"
+        "question_bn": "বিমা ও ব্যাংক খাতের অনিয়ম রোধে সরকারের কী ধরনের পদক্ষেপ নেওয়া উচিত বলে আপনি মনে করেন?"
       },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
+      "desk_importance": 7.0,
+      "outlet_count": 4,
       "trending": false,
-      "social_appeal": 4.0,
+      "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-28T08:02:05.061573+00:00"
+        "checked_at": "2026-11-28T09:02:03.295340+00:00"
       }
     },
     {
-      "story_id": "6c3474e1-1ef4-5f2d-8b9a-5d3d8658d69f",
+      "story_id": "7f96aba9-df43-58d4-8ff6-5a8b669e504a",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#BangladeshBank",
-        "#Barta",
-        "#LC"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/26/bangladesh_bank_0.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-28%2Forhpmji1%2FPic.jpeg?rect=0%2C0%2C1331%2C699&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-28T07:05:00+00:00",
+      "published_at": "2026-11-28T08:39:27+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.25,
-      "rank_score": 3.6996,
+      "rank_score": 3.824,
       "sources": [
         {
-          "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/economy/banking/bb-launches-barta-streamline-local-lc-messaging-save-7m-annually-1616386",
-          "title": "BB launches SWIFT alternative Barta to streamline local LC messaging, saving $7m annually",
-          "snippet": "BB launches SWIFT alternative Barta to streamline local LC messaging, saving $7m annually"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/technology/freelancing/w6rpzjuqej",
+          "title": "বিপিও ও আইটিইএস খাতে ১০ শতাংশ নগদ প্রণোদনার প্রস্তাব বাক্কোর",
+          "snippet": "বিপিও ও আইটিইএস খাতে ১০ শতাংশ নগদ প্রণোদনার প্রস্তাব বাক্কোর"
         },
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/trade/bb-launches-barta-to-streamline-local-lc-messaging",
-          "title": "BB launches ‘BARTA’ to streamline local LC messaging",
-          "snippet": "BB launches ‘BARTA’ to streamline local LC messaging"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/technology/news/1184599",
+          "title": "রপ্তানি আয় বাড়াতে বিপিও খাতে প্রণোদনা বাড়ানোর প্রস্তাব বাক্কোর",
+          "snippet": "রপ্তানি আয় বাড়াতে বিপিও খাতে প্রণোদনা বাড়ানোর প্রস্তাব বাক্কোর"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাংলাদেশ ব্যাংক স্থানীয় এলসি মেসেজিংয়ের জন্য বার্তা প্ল্যাটফর্ম চালু করেছে।",
-        "title_en": "Bangladesh Bank launched the Barta platform for local LC messaging.",
-        "summary_bn": "বাংলাদেশ ব্যাংক ২৮ নভেম্বর বার্তা নামের একটি ডিজিটাল প্ল্যাটফর্ম চালু করেছে যা স্থানীয় লেটার অব ক্রেডিট মেসেজিং দ্রুত ও নিরাপদ করবে।",
-        "summary_en": "Bangladesh Bank launched a digital platform named Barta on 28 November to make local Letter of Credit messaging faster and safer.",
+        "title_bn": "বিপিও ও আইটিইএস খাতে ১০ শতাংশ নগদ প্রণোদনার প্রস্তাব বাক্কোর",
+        "title_en": "BACCO proposes 10 percent cash incentive for BPO and ITES sectors",
+        "summary_bn": "বাংলাদেশ অ্যাসোসিয়েশন অব কন্ট্যাক্ট সেন্টার অ্যান্ড আউটসোর্সিং বিপিও ও তথ্যপ্রযুক্তি সেবা খাতের রপ্তানিতে নগদ প্রণোদনা ৬ থেকে ১০ শতাংশে উন্নীত করার প্রস্তাব দিয়েছে।",
+        "summary_en": "Bangladesh Association of Call Center and Outsourcing proposed increasing cash incentives for BPO and ITES exports from 6 to 10 percent.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-28T07:05:00+00:00",
-        "lead_bn": "বাংলাদেশ ব্যাংক ২৮ নভেম্বর বার্তা নামের একটি ডিজিটাল প্ল্যাটফর্ম চালু করেছে যা স্থানীয় লেটার অব ক্রেডিট মেসেজিং দ্রুত ও নিরাপদ করবে।",
-        "lead_en": "Bangladesh Bank launched a digital platform named Barta on 28 November to make local Letter of Credit messaging faster and safer.",
+        "published_at": "2026-11-28T08:39:27+00:00",
+        "lead_bn": "বাংলাদেশ অ্যাসোসিয়েশন অব কন্ট্যাক্ট সেন্টার অ্যান্ড আউটসোর্সিং বিপিও ও তথ্যপ্রযুক্তি সেবা খাতের রপ্তানিতে নগদ প্রণোদনা ৬ থেকে ১০ শতাংশে উন্নীত করার প্রস্তাব দিয়েছে।",
+        "lead_en": "Bangladesh Association of Call Center and Outsourcing proposed increasing cash incentives for BPO and ITES exports from 6 to 10 percent.",
         "bullets_bn": [
-          "এই প্ল্যাটফর্মের মাধ্যমে ব্যাংকগুলো একক ও তাৎক্ষণিক কেন্দ্রীয় সিস্টেমে স্থানীয় এবং ব্যাক-টু-ব্যাক এলসি মেসেজ আদান-প্রদান করতে পারবে।",
-          "বাংলাদেশ ব্যাংকের প্রেস বিজ্ঞপ্তিতে বলা হয়েছে যে এই পদক্ষেপে বার্ষিক প্রায় ৭ মিলিয়ন মার্কিন ডলার বৈদেশিক মুদ্রা সাশ্রয় হবে।",
-          "বার্তা পুরোপুরি চালু ও স্থিতিশীল হওয়ার পর বিদ্যমান সুইফ্ট সিস্টেমটি ধীরে ধীরে বন্ধ করে দেওয়া হবে।"
+          "বাক্কো সভাপতি ফয়সল আলিম ডাক, টেলিযোগাযোগ ও তথ্যপ্রযুক্তিমন্ত্রী ফকির মাহবুব আনামের সঙ্গে সাক্ষাতে এ প্রস্তাব দেন।",
+          "সাক্ষাৎকালে দেশে বিপিও ভিলেজ প্রতিষ্ঠা এবং রপ্তানি সম্প্রসারণ নিয়ে আলোচনা করা হয়।",
+          "মন্ত্রী বিভিন্ন পরিকল্পনা বাস্তবায়নে সরকারের পক্ষ থেকে সর্বাত্মক সহযোগিতার আশ্বাস দেন।"
         ],
         "bullets_en": [
-          "The platform will allow banks to exchange local and back-to-back LC messages under a single, instant central system.",
-          "According to a Bangladesh Bank press release, this move is expected to save around $7 million annually in foreign currency.",
-          "The existing SWIFT system will be phased out gradually once Barta becomes fully operational and stable."
+          "BACCO President Foysal Alim made the proposal during a meeting with Post, Telecommunications and Information Technology Minister Fakir Mahbub Anam.",
+          "The establishment of a BPO village and export expansion were also discussed during the meeting.",
+          "The minister assured all-out cooperation from the government in implementing various plans."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বার্তা প্ল্যাটফর্মে এপিআই-ভিত্তিক যাচাইকরণ, টোকেন-ভিত্তিক অ্যাক্সেস, এনক্রিপ্টেড ভিপিএন, নেটওয়ার্ক অ্যাড্রেস ট্রান্সলেশন এবং ফায়ারওয়াল যুক্ত রয়েছে। ব্যবহারকারীদের পরিচয় দুই-পদক্ষেপ যাচাইকরণের মাধ্যমে নিশ্চিত করা হবে এবং বাণিজ্যিক ব্যাংক ও কেন্দ্রীয় ব্যাংকের মধ্যে তথ্য আদান-প্রদান ডেডিকেটেড এক্সট্রানেটের মাধ্যমে পরিচালিত হবে। বাংলাদেশ ব্যাংকের ব্যবহারকারীরা কেবল রিড-অঅনলি মনিটরিং অ্যাক্সেস পাবেন এবং এই ব্যবস্থায় প্রতি কমিউনিকেশনে তিন স্তরের অনুমোদন প্রক্রিয়া থাকবে।",
-        "details_en": "The Barta platform incorporates API-based verification, token-based access, encrypted VPN, Network Address Translation, and firewalls. User identities will be verified through two-factor authentication, and data transmission between commercial banks and the central bank will run through a dedicated Extranet with a three-tier approval process. Bangladesh Bank users will hold read-only monitoring access without authority to alter records.",
-        "hook_bn": "এলসি মেসেজিংয়ের জন্য বার্তা প্ল্যাটফর্ম চালু",
-        "kicker_bn": "নতুন প্ল্যাটফর্ম",
+        "details_bn": "ডাক, টেলিযোগাযোগ ও তথ্যপ্রযুক্তিমন্ত্রীর সঙ্গে বাক্কোর নবনির্বাচিত কার্যনির্বাহী কমিটির সৌজন্য সাক্ষাৎকালে এ প্রস্তাব দেওয়া হয়। বাক্কো সভাপতি ফয়সল আলিম বিপিও ভিলেজ প্রতিষ্ঠার গুরুত্ব তুলে ধরে জানান, একটি সমন্বিত বিপিও ভিলেজ গড়ে তোলা হলে এ শিল্পের জন্য প্রয়োজনীয় অবকাঠামো, দক্ষ জনবল ও ব্যবসায়িক সেবার সমন্বয়ে একটি কার্যকর ইকোসিস্টেম তৈরি হবে। আসন্ন ফ্রিল্যান্সার সামিট আয়োজনের প্রস্তুতি ও বাক্কোর বিভিন্ন উদ্যোগ সম্পর্কেও মন্ত্রীকে অবহিত করা হয়।",
+        "details_en": "The proposal was made during a courtesy meeting between the newly elected executive committee of BACCO and the Post, Telecommunications and Information Technology Minister. BACCO President Foysal Alim highlighted the importance of establishing a BPO village, stating it would create an effective ecosystem with necessary infrastructure, skilled manpower, and business services. He also briefed the minister about preparations for the upcoming freelancer summit and various initiatives of BACCO.",
+        "hook_bn": "বিপিও খাতে প্রণোদনা বাড়ানোর প্রস্তাব",
+        "kicker_bn": null,
         "share_value": false,
-        "question_bn": "স্থানীয় এলসি মেসেজিংয়ের জন্য এই নতুন ডিজিটাল ব্যবস্থা চালুর বিষয়ে আপনার মতামত কী?"
+        "question_bn": null
       },
       "desk_importance": 6.0,
       "outlet_count": 2,
       "trending": false,
+      "social_appeal": 6.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-28T09:02:03.295340+00:00"
+      }
+    },
+    {
+      "story_id": "e2054dc6-b015-5b40-934d-65d040f766d4",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#PurabiJewellers",
+        "#Dhanmondi",
+        "#Dhaka"
+      ],
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/Dhanmondi%20Shop.JPG",
+      "image_caption": null,
+      "published_at": "2026-11-28T08:58:25+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5891,
+      "sources": [
+        {
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/gold-cash-stolen-dhanmondi-jewellery-shop-4335051",
+          "title": "Gold, cash stolen from Dhanmondi jewellery shop",
+          "snippet": "Gold, cash stolen from Dhanmondi jewellery shop"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ধানমন্ডির শপিং মলে জুয়েলারি দোকানে চুরি, খোয়া গেছে সোনা ও নগদ টাকা",
+        "title_en": "Gold and cash stolen from a jewellery shop in Dhanmondi shopping mall",
+        "summary_bn": "ঢাকার ধানমন্ডির একটি শপিং মলে অবস্থিত পুরবী জুয়েলার্স থেকে প্রায় ২,০০০ ভরি সোনা, রূপা ও হীরা এবং নগদ ১০ থেকে ১২ লাখ টাকা চুরি হয়েছে।",
+        "summary_en": "Nearly 2,000 bhori of gold, silver, and diamond jewellery along with Tk 10-12 lakh in cash were stolen from Purabi Jewellers in Dhaka's Dhanmondi.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-28T08:58:25+00:00",
+        "lead_bn": "ঢাকার ধানমন্ডির একটি শপিং মলে অবস্থিত পুরবী জুয়েলার্স থেকে প্রায় ২,০০০ ভরি সোনা, রূপা ও হীরা এবং নগদ ১০ থেকে ১২ লাখ টাকা চুরি হয়েছে।",
+        "lead_en": "Nearly 2,000 bhori of gold, silver, and diamond jewellery along with Tk 10-12 lakh in cash were stolen from Purabi Jewellers in Dhaka's Dhanmondi.",
+        "bullets_bn": [
+          "দোকানের মালিক অমিত ঘোষ জানিয়েছেন, চুরি যাওয়া পণ্যের মধ্যে সোনা, রূপা ও হীরা এবং নগদ ১০ থেকে ১২ লাখ টাকা রয়েছে।",
+          "রমনা বিভাগের উপ-পুলিশ কমিশনার শেখ জাহিদুল ইসলাম জানিয়েছেন, শপিং মলের দুজন নিরাপত্তাকর্মী পলাতক রয়েছেন এবং চারজনকে জিজ্ঞাসাবাদের জন্য আটক করা হয়েছে।",
+          "সিসিটিভি ফুটেজে দেখা গেছে ৩ থেকে ৫ জন ব্যক্তি চুরি চালিয়েছে এবং নিখোঁজ গার্ডদের একজন বহিরাগতদের ভেতরে ঢুকতে সাহায্য করেছে।"
+        ],
+        "bullets_en": [
+          "Shop owner Amit Ghosh said the stolen items included gold, silver and diamond jewellery alongside Tk 10-12 lakh in cash.",
+          "Deputy Commissioner of Police Sheikh Zahidul Islam said two mall security guards were absconding and four others were detained for questioning.",
+          "CCTV footage showed three to five people carrying out the theft and one missing guard helping outsiders enter the shop."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ধানমন্ডি ৬/এ এলাকার একটি শপিং মলে অবস্থিত এই দোকানে চুরিটি ঘটে। দোকানটির জ্যেষ্ঠ বিক্রেতা সঞ্জীব শিল্প জানান, জুয়েলারি দোকানের নিজস্ব একজনসহ তিনজন নিরাপত্তাকর্মী নিখোঁজ রয়েছেন এবং দুজন গার্ডকে অজ্ঞাত পদার্থ মিশ্রিত খাবার খাইয়ে অচেতন করা হয়েছিল।",
+        "details_en": "The theft took place at the shop located in Dhanmondi 6/A. Sanjib Shil, a senior salesman, stated that three security guards went missing, including one employed by the shop, and two guards were allegedly given food mixed with an unidentified substance to make them unconscious.",
+        "hook_bn": "ধানমন্ডির জুয়েলারি দোকানে প্রায় দুই হাজার ভরি সোনা চুরি",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-28T09:02:03.295340+00:00"
+      }
+    },
+    {
+      "story_id": "f64709e7-c27d-581e-801e-64d8460988a6",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "society_education",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#Thiruparankundram",
+        "#SupremeCourt",
+        "#TamilNadu",
+        "#India"
+      ],
+      "image_url": "https://static.dw.com/image/80083323_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-28T08:19:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.5,
+      "rank_score": 2.9035,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/india-hindu-lamp-lighting-at-disputed-thiruparankundram-pillar-today/live-80083375?maca=en-rss-en-all-1573-rdf",
+          "title": "India: Hindu lamp lighting at disputed Thiruparankundram pillar today",
+          "snippet": "India: Hindu lamp lighting at disputed Thiruparankundram pillar today"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ভারতের তামিলনাড়ুতে বিরোধপূর্ণ স্তম্ভে হিন্দু প্রদীপ প্রজ্বালনের নির্দেশ সুপ্রিম কোর্টের",
+        "title_en": "Supreme court directs Hindu lamp lighting at disputed Tamil Nadu pillar",
+        "summary_bn": "ভারতের সুপ্রিম কোর্টের নির্দেশে তামিলনাড়ুর একটি বিতর্কিত পাথরের স্তম্ভে একটি হিন্দু অনুষ্ঠান ও প্রদীপ প্রজ্বালন অনুষ্ঠিত হওয়ার কথা রয়েছে।",
+        "summary_en": "A Hindu ceremony and lamp lighting is scheduled to take place at a contentious stone pillar in Tamil Nadu by Supreme Court direction.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-28T08:19:00+00:00",
+        "lead_bn": "ভারতের সুপ্রিম কোর্টের নির্দেশে তামিলনাড়ুর একটি বিতর্কিত পাথরের স্তম্ভে একটি হিন্দু অনুষ্ঠান ও প্রদীপ প্রজ্বালন অনুষ্ঠিত হওয়ার কথা রয়েছে।",
+        "lead_en": "A Hindu ceremony and lamp lighting is scheduled to take place at a contentious stone pillar in Tamil Nadu by Supreme Court direction.",
+        "bullets_bn": [
+          "সুপ্রিম কোর্ট তামিলনাড়ু সরকার ও মাদুরাই জেলা কর্মকর্তাদের বিরুদ্ধে আদেশ অমান্য করার সমালোচনা করে দীপথুনে প্রদীপ জ্বালানোর নির্দেশ দিয়েছে।",
+          "শীর্ষ আদালত সুব্রহ্মণ্য স্বামী মন্দিরের ট্রাস্টি বোর্ড স্থগিত করে এবং মাদ্রাজ হাইকোর্টের দুই অবসরপ্রাপ্ত বিচারপতিকে ট্রাস্টের রিসিভার হিসেবে নিয়োগ করে।",
+          "আদালত প্রদীপ প্রজ্বালনের জন্য নিরাপত্তার দায়িত্ব আধাসামরিক সিআরপিএফকে অর্পণ করেছে এবং সব ভক্তকে অনুমতি দিয়েছে।"
+        ],
+        "bullets_en": [
+          "The Supreme Court criticized officials for defying orders and directed the lamp to be lit at Deepathoon on Saturday.",
+          "The top court suspended the temple's Board of Trustees and appointed two retired Madras High Court judges as receivers.",
+          "The court tasked the paramilitary CRPF with security and permitted every devotee to light the lamp."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "তামিলনাড়ুর একটি পাথরের স্তম্ভকে কেন্দ্র করে আইনি, রাজনৈতিক ও ধর্মীয় বিতর্ক সৃষ্টি হয়েছে। এর আগে শীর্ষ আদালতের প্রদীপ প্রজ্বালনের নির্দেশ মানা হয়নি। সুপ্রিম কোর্ট গত ২০ নভেম্বরের আদেশ অমান্য করার বিষয়ে সরকারের সমালোচনা করে।",
+        "details_en": "A contentious stone pillar in Tamil Nadu has stoked a legal, political and religious controversy. An earlier order by the top court for the ritual lamp lighting was not followed. the Supreme Court criticised officials for wilful defiance of the November 20 order.",
+        "hook_bn": "তামিলনাড়ুর বিতর্কিত স্তম্ভে প্রদীপ প্রজ্বালন",
+        "kicker_bn": "রায় ঘোষণা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": true,
       "social_appeal": 4.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-28T08:02:05.061573+00:00"
+        "checked_at": "2026-11-28T09:02:03.295340+00:00"
+      }
+    },
+    {
+      "story_id": "d8f1a420-eca5-5ce0-899d-e94e44627d92",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "society_education"
+      ],
+      "region": "international",
+      "tags": [
+        "#Afghanistan",
+        "#Kunar",
+        "#SchoolExplosion"
+      ],
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/09/WEBMAP_AFGHANISTAN_KUNAR-1756709855.jpg?resize=1200%2C675",
+      "image_caption": null,
+      "published_at": "2026-11-28T07:42:09+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.316,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss",
+          "title": "At least six students killed in blast beside school in Afghanistan’s Kunar",
+          "snippet": "At least six students killed in blast beside school in Afghanistan’s Kunar"
+        },
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/several-students-reportedly-killed-wounded-in-explosion-at-a-middle-school-in-eastern-afghanistan/article71753929.ece",
+          "title": "Several students reportedly killed, wounded in explosion at a middle school in eastern Afghanistan",
+          "snippet": "Several students reportedly killed, wounded in explosion at a middle school in eastern Afghanistan"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আফগানিস্তানের কুনারে স্কুলের পাশে বিস্ফোরণে নিহত অন্তত ছয় শিক্ষার্থী।",
+        "title_en": "At least six students killed in blast beside Afghanistan school.",
+        "summary_bn": "পূর্ব আফগানিস্তানের কুনার প্রদেশে একটি স্কুলের পাশে বিস্ফোরণে অন্তত ছয় শিক্ষার্থী নিহত এবং ৯৭ জন আহত হয়েছেন।",
+        "summary_en": "At least six students have been killed and 97 others injured in an explosion next to a school in eastern Afghanistan's Kunar province.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-28T07:42:09+00:00",
+        "lead_bn": "পূর্ব আফগানিস্তানের কুনার প্রদেশে একটি স্কুলের পাশে বিস্ফোরণে অন্তত ছয় শিক্ষার্থী নিহত এবং ৯৭ জন আহত হয়েছেন।",
+        "lead_en": "At least six students have been killed and 97 others injured in an explosion next to a school in eastern Afghanistan's Kunar province.",
+        "bullets_bn": [
+          "আন্দার সার এলাকায় একটি মধ্য বিদ্যালয়ের পাশের বাড়িতে বিস্ফোরণটি ঘটে।",
+          "কুনার প্রাদেশিক হাসপাতালের প্রধান মৌলা দাদ হতাহতের এই সংখ্যা জানান।",
+          "কুনারের তথ্য ও সংস্কৃতি পরিচালক জানান, খনি কাজের সাথে জড়িত ব্যক্তিরা সেখানে ডিনামাইট মজুত করেছিলেন।"
+        ],
+        "bullets_en": [
+          "The explosion occurred in a house beside a middle school in the Andar Ser area.",
+          "Mawla Dad, the head of Kunar Provincial Hospital, provided the casualty figures.",
+          "The house belonged to people involved in mining operations who had stored dynamite there."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "আফগানিস্তানের পূর্বাঞ্চলীয় কুনার প্রদেশে সকাল ১০টার দিকে এই বিস্ফোরণ ঘটে। কুনারের তথ্য ও সংস্কৃতি পরিচালক মাওলানা সামি উল হক জানান, খনি কাজের সঙ্গে যুক্ত ব্যক্তিরা বাড়িটিতে ডিনামাইট মজুত করেছিলেন। কুনার প্রদেশের তদন্ত দলগুলো ঘটনাস্থলে রয়েছে। এর আগে আগস্ট মাসে কাবুলের একটি স্কুল কমপ্লেক্সে গ্রেনেড হামলায় নয় থেকে চৌদ্দ বছর বয়সী ৪০ জনের বেশি শিশু আহত হয়েছিল।",
+        "details_en": "The explosion occurred in a house beside a middle school in the Andar Ser area of Kunar province at about 10am on Saturday. Mawlawi Sami-ul-Haq, the director of Information and Culture in Kunar, stated that the house belonged to people involved in mining operations who had stored dynamite there. Investigative teams from Kunar province were at the scene. In August, a hand grenade attack at a school complex in Kabul wounded more than 40 children aged between nine and 14.",
+        "hook_bn": "আফগানিস্তানে স্কুলের পাশে বিস্ফোরণে নিহত ছয়",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-28T09:02:03.295340+00:00"
+      }
+    },
+    {
+      "story_id": "ca9bb0b3-c2f6-54e2-bc98-50fbf4eaa3b6",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#Uganda",
+        "#Ebola",
+        "#Moderna",
+        "#Vaccine"
+      ],
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26329472525576-1795846807.jpg?resize=1920%2C1440",
+      "image_caption": null,
+      "published_at": "2026-11-28T07:22:17+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.2721,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/28/uganda-starts-mrna-ebola-vaccine-trial-in-first-for-africa?traffic_source=rss",
+          "title": "Uganda starts mRNA Ebola vaccine trial in first for Africa",
+          "snippet": "Uganda starts mRNA Ebola vaccine trial in first for Africa"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "উগান্ডায় শুরু হলো আফ্রিকার প্রথম এমআরএনএ ইবোলা টিকার পরীক্ষা।",
+        "title_en": "Uganda starts Africa first clinical trial of an mRNA Ebola vaccine.",
+        "summary_bn": "আফ্রিকার প্রথম ক্লিনিক্যাল ট্রায়াল হিসেবে উগান্ডায় একটি এমআরএনএ ইবোলা টিকার পরীক্ষা শুরু হয়েছে।",
+        "summary_en": "Africa first clinical trial of an mRNA vaccine against Ebola has begun in Uganda.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-28T07:22:17+00:00",
+        "lead_bn": "আফ্রিকার প্রথম ক্লিনিক্যাল ট্রায়াল হিসেবে উগান্ডায় একটি এমআরএনএ ইবোলা টিকার পরীক্ষা শুরু হয়েছে।",
+        "lead_en": "Africa first clinical trial of an mRNA vaccine against Ebola has begun in Uganda.",
+        "bullets_bn": [
+          "মডার্নার সঙ্গে যৌথভাবে রাষ্ট্রীয় প্রতিষ্ঠান উগান্ডা ভাইরাস রিসার্চ ইনস্টিটিউট এই পরীক্ষা শুরু করেছে।",
+          "শিশুরা যেন টিকা পায়, সেজন্য এক বছর বা তার বেশি বয়সী শিশুদের ওপর পরীক্ষা চালানো হচ্ছে।",
+          "ডেমোক্রেটিক রিপাবলিক অব কঙ্গোতে ইবোলার প্রাদুর্ভাব ঘটানো বুন্দিবুগিও স্ট্রেইনের বিরুদ্ধে এই টিকা কাজ করবে।"
+        ],
+        "bullets_en": [
+          "The state-run Uganda Virus Research Institute started the trial in collaboration with Moderna.",
+          "The trial will test safety and immune response in children aged 1 year and above.",
+          "The vaccine targets the Bundibugyo strain behind a deadly Ebola outbreak in the DRC."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মডার্না এর আগে আগস্ট মাসে কানাডায় ১৮ থেকে ৬৫ বছর বয়সীদের ওপর এই টিকার প্রথম মানব পরীক্ষা শুরু করেছিল। উগান্ডার এই ট্রায়ালে ২২৪ জন স্বেচ্ছাসেবী নিবন্ধনের লক্ষ্য রয়েছে। ভারতের সিরাম ইনস্টিটিউট এবং অক্সফোর্ড বিশ্ববিদ্যালয়ের তৈরি অন্য একটি টিকার পরীক্ষাও কঙ্গোয় শুরু হতে যাচ্ছে।",
+        "details_en": "Moderna began its first human trial of the vaccine in Canada in August targeting adults from 18 to 65 years old. The Ugandan trial aims to enrol 224 volunteers. Another potential candidate vaccine developed by India Serum Institute and the University of Oxford will begin testing in the DRC.",
+        "hook_bn": "উগান্ডায় শুরু হলো ইবোলা টিকার পরীক্ষা",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-28T09:02:03.295340+00:00"
       }
     }
   ]
