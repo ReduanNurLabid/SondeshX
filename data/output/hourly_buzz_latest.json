@@ -1,9 +1,217 @@
 {
-  "updated_at": "2026-11-28T00:00:47.507953",
-  "total_stories": 1,
+  "updated_at": "2026-11-28T01:00:49.938656",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "bafd7294-91c3-517e-8189-5c0b4c67cc28",
+      "story_id": "2a9e7e93-97bf-5465-8ba9-f7f53f675a33",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/hostel-20261128042012.jpg?cid=501357",
+      "image_caption": null,
+      "published_at": "2026-11-27T22:20:12+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.083,
+      "sources": [
+        {
+          "name": "Dhaka Post",
+          "url": "https://www.dhakapost.com/national/501357",
+          "title": "তিতুমীর কলেজের ছাত্রী হোস্টেলের গেটে দুর্বৃত্তদের ককটেল বিস্ফোরণ",
+          "snippet": "তিতুমীর কলেজের ছাত্রী হোস্টেলের গেটে দুর্বৃত্তদের ককটেল বিস্ফোরণ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সরকারি তিতুমীর কলেজের ছাত্রী হোস্টেলের গেটে ককটেল বিস্ফোরণ",
+        "title_en": "Cocktail explosion at the gate of Govt Titumir College girls hostel",
+        "summary_bn": "রাজধানীর সরকারি তিতুমীর কলেজের ছাত্রী হোস্টেলের গেটে ২৭ নভেম্বর রাত ১০টার দিকে ককটেল বিস্ফোরণের ঘটনা ঘটেছে।",
+        "summary_en": "A cocktail explosion occurred at the gate of the Government Titumir College girls hostel in the capital on November 27 at around 10 pm.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T22:20:12+00:00",
+        "lead_bn": "রাজধানীর সরকারি তিতুমীর কলেজের ছাত্রী হোস্টেলের গেটে ২৭ নভেম্বর রাত ১০টার দিকে ককটেল বিস্ফোরণের ঘটনা ঘটেছে।",
+        "lead_en": "A cocktail explosion occurred at the gate of the Government Titumir College girls hostel in the capital on November 27 at around 10 pm.",
+        "bullets_bn": [
+          "বনানী থানার সরকারি তিতুমীর কলেজের ছাত্রী হোস্টেলের গেটে এই ককটেল বিস্ফোরণের ঘটনা ঘটে।",
+          "এই ঘটনায় কোনো আহতের সংবাদ পাওয়া যায়নি বলে জানিয়েছেন বনানী থানার ভারপ্রাপ্ত কর্মকর্তা ওসি মো. সালাউদ্দিন।",
+          "ঘটনায় যারা জড়িত তাদেরকে দ্রুত আইনের আওতায় আনা হবে বলে জানিয়েছেন ওসি মো. সালাউদ্দিন।"
+        ],
+        "bullets_en": [
+          "The cocktail explosion took place at the gate of the Government Titumir College girls hostel under Banani police station.",
+          "No news of injuries has been received in this incident, according to Banani police station officer-in-charge OC Md Salauddin.",
+          "Those involved in the incident will be brought to justice quickly, stated OC Md Salauddin."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": null,
+        "details_en": null,
+        "hook_bn": "তিতুমীর কলেজ হোস্টেলের গেটে ককটেল বিস্ফোরণ",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 7.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-28T01:01:55.254020+00:00"
+      }
+    },
+    {
+      "story_id": "263afa86-69b3-536a-8c83-a7929edd3ed9",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#Malaysia",
+        "#Bangladesh",
+        "#BOESL"
+      ],
+      "image_url": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/merged/merged_75037bddcfc7850f263d9d06b03d4578.jpg",
+      "image_caption": null,
+      "published_at": "2026-11-28T01:00:58.878108+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 3.5991,
+      "sources": [
+        {
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/cost-free-migration-to-malaysia-103-of-112-workers-in-first-batch-arrive",
+          "title": "Cost-free migration: 103 workers arrive in Malaysia",
+          "snippet": "Cost-free migration: 103 workers arrive in Malaysia"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মালয়েশিয়ায় পৌঁছেছেন ১০৩ বাংলাদেশি কর্মী",
+        "title_en": "103 Bangladeshi workers arrive in Malaysia",
+        "summary_bn": "প্রায় আড়াই বছরের বিরতির পর মালয়েশিয়ায় কর্মী নিয়োগ চালুর অংশ হিসেবে ১০৩ জন বাংলাদেশি কর্মী কুয়ালালামপুরে পৌঁছেছেন।",
+        "summary_en": "One hundred and three Bangladeshi workers arrived in Malaysia as part of the resumption of recruitment after nearly two and a half years.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-28T01:00:58.878108+00:00",
+        "lead_bn": "প্রায় আড়াই বছরের বিরতির পর মালয়েশিয়ায় কর্মী নিয়োগ চালুর অংশ হিসেবে ১০৩ জন বাংলাদেশি কর্মী কুয়ালালামপুরে পৌঁছেছেন।",
+        "lead_en": "One hundred and three Bangladeshi workers arrived in Malaysia as part of the resumption of recruitment after nearly two and a half years.",
+        "bullets_bn": [
+          "বাংলাদেশ ওভারসিজ এমপ্লয়মেন্ট অ্যান্ড সার্ভিসেস লিমিটেডের মাধ্যমে নির্বাচিত ১১২ জনের মধ্যে ১০৩ জন ভোরে মালয়েশিয়ায় পৌঁছান।",
+          "কাগজপত্র অসম্পূর্ণ থাকায় ৯ জন কর্মী ভ্রমণ করতে পারেননি এবং কাগজপত্র ঠিক হলে তাঁরাও দেশটিতে যাবেন।",
+          "মালয়েশিয়ায় নিযুক্ত বাংলাদেশের হাইকমিশনার মনজুরুল করিম খান চৌধুরী বিমানবন্দরের বাইরে কর্মীদের স্বাগত জানান।"
+        ],
+        "bullets_en": [
+          "Of the 112 workers selected through BOESL, 103 arrived in Malaysia in the early hours of Friday.",
+          "Nine workers could not travel due to incomplete documents, and the high commission said they would travel later.",
+          "Bangladesh High Commissioner to Malaysia Manjurul Karim Khan Chowdhury welcomed the workers at the airport."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বাংলাদেশি কর্মীদের এই দলটি ডিএইচএল সাপ্লাই চেইন মালয়েশিয়ায় কাজ করার জন্য দেশটিতে গেছে। মালয়েশিয়ায় বাংলাদেশের হাইকমিশনার মনজুরুল করিম খান চৌধুরী নতুন কর্মীদের স্থানীয় আইন ও সংস্কৃতি শ্রদ্ধা করার আহ্বান জানিয়েছেন।",
+        "details_en": "The workers arrived to work for DHL Supply Chain Malaysia. Bangladesh High Commissioner Manjurul Karim Khan Chowdhury urged the new workers to respect local laws and culture.",
+        "hook_bn": "'আইন মেনে চলুন'",
+        "kicker_bn": "সতর্কতা",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 6.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-28T01:01:55.254020+00:00"
+      }
+    },
+    {
+      "story_id": "4adbb5fa-41b1-5f15-9e0c-770a24ab960f",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "society_education"
+      ],
+      "region": "international",
+      "tags": [
+        "#CanaryIslands",
+        "#Spain"
+      ],
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b0a0bec-1795820524.jpg?resize=1920%2C1440",
+      "image_caption": null,
+      "published_at": "2026-11-27T23:57:03+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.3502,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss",
+          "title": "At least eight found dead on migrant boat off Spain’s Canary Islands",
+          "snippet": "At least eight found dead on migrant boat off Spain’s Canary Islands"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "স্পেনের ক্যানারি দ্বীপপুঞ্জের কাছে অভিবাসী বোঝাই নৌকা থেকে আটটি লাশ উদ্ধার",
+        "title_en": "At least eight dead on migrant boat off Spain's Canary Islands",
+        "summary_bn": "স্পেনের মেরিটাইম রেসকিউ সার্ভিস জানিয়েছে, ক্যানারি দ্বীপপুঞ্জের কাছে প্রায় ১০০ জন অভিবাসী বহনকারী একটি নৌকা থেকে অন্তত আটটি লাশ উদ্ধার করা হয়েছে।",
+        "summary_en": "At least eight migrants have been found dead on a boat carrying about 100 people rescued near Spain’s Canary Islands, the rescue service said.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T23:57:03+00:00",
+        "lead_bn": "স্পেনের মেরিটাইম রেসকিউ সার্ভিস জানিয়েছে, ক্যানারি দ্বীপপুঞ্জের কাছে প্রায় ১০০ জন অভিবাসী বহনকারী একটি নৌকা থেকে অন্তত আটটি লাশ উদ্ধার করা হয়েছে।",
+        "lead_en": "At least eight migrants have been found dead on a boat carrying about 100 people rescued near Spain’s Canary Islands, the rescue service said.",
+        "bullets_bn": [
+          "উদ্ধারকারী সংস্থার তথ্য অনুযায়ী, নৌকাটিতে আট থেকে ১০টি মরদেহ পাওয়া গেছে এবং গুরুতর অবস্থায় ছয়জনকে হাসপাতালে নিয়ে যাওয়া হয়েছে।",
+          "এল হিয়েরো দ্বীপের দক্ষিণ দিক থেকে ৩৯ নটিক্যাল মাইল দূরে নৌকাটি পাওয়া যায় এবং সেটিকে লা এস্তাকা বন্দরের দিকে টেনে নেওয়া হচ্ছিল।",
+          "আরেকটি নৌকা থেকে বেঁচে যাওয়া ৮৪ জন অভিবাসী এল হিয়েরোর প্রধান বন্দর লা রেস্তিংয়ায় তীরে পৌঁছেছেন।"
+        ],
+        "bullets_en": [
+          "Between eight and 10 bodies were found on board and six people were airlifted to hospital in serious condition, the rescue service said.",
+          "The boat was found 39 nautical miles south of the island of El Hierro and was being towed to the port of La Estaca.",
+          "Separately, 84 survivors from another boat came ashore at La Restinga, El Hierro’s main port."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "আটলান্টিক মহাসাগরে উত্তর-পশ্চিম আফ্রিকার উপকূলে অবস্থিত ক্যানারি দ্বীপপুঞ্জ স্পেনের একটি অঞ্চল। এই দ্বীপগুলো পশ্চিম আফ্রিকা থেকে আসা অভিবাসীদের প্রধান প্রবেশপথ। কঠোর নজরদারি এবং উৎপত্তিস্থল ও ট্রানজিট দেশগুলোর সঙ্গে সহযোগিতার কারণে ২০২৪ সালে arrivals রেকর্ড ৪৬ হাজারে পৌঁছানোর পর তা কমে যায়। সেনেগাল, মৌরিতানিয়া ও মরক্কোর টহল দলগুলো অভিবাসনপ্রত্যাশীদের প্রস্থানকে আরও দক্ষিণে গাম্বিয়া, গিনি-বিসাউ ও গিনির দিকে ঠেলে দিয়েছে, যার ফলে এই সমুদ্রযাত্রা দীর্ঘ ও আরও বিপজ্জনক হয়ে উঠেছে। ক্যানারি দ্বীপপুঞ্জে আগমন অক্টোবর মাস থেকে ত্বরান্বিত হয়েছে এবং চলতি সপ্তাহের শুরুর দিকে একদিনেই রেকর্ড ২ হাজার ১০০ মানুষ সেখানে পৌঁছেছে।",
+        "details_en": "The Canary Islands are a Spanish region in the Atlantic Ocean off northwest Africa, making them a main entry point for West African migrants. Arrivals hit a record of more than 46,000 in 2024 before falling due to tighter surveillance and cooperation with origin and transit countries. Patrols off Senegal, Mauritania and Morocco have pushed departures further south to The Gambia, Guinea-Bissau and Guinea, making the crossing longer and more dangerous. Arrivals have accelerated since October, with a record 2,100 people reaching the islands in a single day earlier this week.",
+        "hook_bn": "ক্যানারি দ্বীপপুঞ্জের কাছে নৌকা থেকে আট লাশ উদ্ধার",
+        "kicker_bn": null,
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 5.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-28T01:01:55.254020+00:00"
+      }
+    },
+    {
+      "story_id": "1a71c8a6-41e5-5647-a5ae-3e9859a43298",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
@@ -11,29 +219,29 @@
       ],
       "region": "international",
       "tags": [
-        "#KennethLaw",
-        "#Canada",
-        "#Ontario"
+        "#PaulMackenzie",
+        "#Kenya",
+        "#GoodNewsInternationalChurch"
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b09fbef6bcd-1795816431.jpg?resize=1920%2C1440",
       "image_caption": null,
-      "published_at": "2026-11-27T22:03:46+00:00",
+      "published_at": "2026-11-27T22:33:17+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.7015,
+      "importance_score": 5.0,
+      "rank_score": 2.1681,
       "sources": [
         {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
-          "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
-          "snippet": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law"
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss",
+          "title": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths",
+          "snippet": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths"
         }
       ],
       "daily_buzz": {
-        "title_bn": "কেন্দ্রে ল’এর ২৫ বছরের কারাদণ্ড চেয়েছেন আইনজীবীরা",
-        "title_en": "Prosecutors seek 25-year prison term for Kenneth Law",
-        "summary_bn": "কানাডার আইনজীবীরা অনলাইন আত্মহত্যার ফোরামে বিষাক্ত রাসায়নিক বিক্রেতা কেনেথ ল’এর জন্য ২৫ বছরের কারাদণ্ড চেয়েছেন।",
-        "summary_en": "Canadian prosecutors are seeking a 25-year prison sentence for Kenneth Law, who sold toxic chemicals through online suicide forums.",
+        "title_bn": "কেনিয়ায় উপাসক মৃত্যুর ঘটনায় কাল্ট নেতা দোষী সাব্যস্ত",
+        "title_en": "Kenyan cult leader guilty of deaths",
+        "summary_bn": "কেনিয়ার একটি আদালত গুড নিউজ ইন্টারন্যাশনাল চার্চের প্রতিষ্ঠাতা পল ম্যাকেঞ্জিকে ১২৩ জন অনুসারীর মৃত্যুর ঘটনায় দোষী সাব্যস্ত করেছে।",
+        "summary_en": "A Kenyan court found cult leader Paul Mackenzie guilty over the deaths of 123 followers.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -41,35 +249,105 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T22:03:46+00:00",
-        "lead_bn": "কানাডার আইনজীবীরা অনলাইন আত্মহত্যার ফোরামে বিষাক্ত রাসায়নিক বিক্রেতা কেনেথ ল’এর জন্য ২৫ বছরের কারাদণ্ড চেয়েছেন।",
-        "lead_en": "Canadian prosecutors are seeking a 25-year prison sentence for Kenneth Law, who sold toxic chemicals through online suicide forums.",
+        "published_at": "2026-11-27T22:33:17+00:00",
+        "lead_bn": "কেনিয়ার একটি আদালত গুড নিউজ ইন্টারন্যাশনাল চার্চের প্রতিষ্ঠাতা পল ম্যাকেঞ্জিকে ১২৩ জন অনুসারীর মৃত্যুর ঘটনায় দোষী সাব্যস্ত করেছে।",
+        "lead_en": "A Kenyan court found cult leader Paul Mackenzie guilty over the deaths of 123 followers.",
         "bullets_bn": [
-          "কেনেথ ল মে মাসে কানাডার অন্টারিওতে ১৪ জনের আত্মহত্যার সহায়তার ১৪টি অভিযোগে দোষ স্বীকার করেছেন।",
-          "ক্রাউন অ্যাটর্নি ক্যাথলিন ডোহ্যার্টি কেনেথ লকে ঝুঁকিপূর্ণ ব্যক্তিদের সুবিধাভোগী শিকারী হিসেবে বর্ণনা করেছেন।",
-          "মে ২০২৩ সালে আটকের পর থেকে কারাগারে কাটানো সময় বাদ দিয়ে ল প্রায় ২০ বছর কারাদণ্ড ভোগ করতে পারেন।"
+          "ম্যাকেঞ্জিকে মোম্বাসা শহরে তার স্ত্রী রোডা মুম্বুয়া সহ ২৯ জন অনুসারীর সাথে দোষী সাব্যস্ত করা হয়।",
+          "ম্যাকেঞ্জি মৃত্যুর জন্য উপবাস করার নির্দেশ দিয়েছিলেন বলে ম্যাজিস্ট্রেট অ্যালেক্স ইথুকু জানান।",
+          "ম্যাকেঞ্জি নভেম্বর মাসে ১৯১ জনের হত্যার মামলায় ২০০ বছরের কারাদণ্ড পেয়েছেন।"
         ],
         "bullets_en": [
-          "Kenneth Law pleaded guilty in May to 14 counts of aiding suicide in Ontario, Canada.",
-          "Crown Attorney Kathleen Doherty described Law as a predator taking advantage of vulnerable people.",
-          "If Law receives the recommended sentence, he would serve just under 20 years after accounting for time served."
+          "Mackenzie was convicted in Mombasa along with 29 followers including his wife Rhoda Mumbua.",
+          "Magistrate Alex Ithuku said Mackenzie gave the directions to fast to death.",
+          "Mackenzie was previously sentenced to 200 years in prison for the murder of 191 people."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "কেনেথ ল যুক্তরাজ্য ও ওয়েলসে ডজনখানেক মৃত্যুর কারণ স্বীকার করলেও যুক্তরাজ্যের কোনো মৃত্যুর জন্য তার বিরুদ্ধে অভিযোগ আনা হবে না। একটি চুক্তির মাধ্যমে কানাডীয় কর্তৃপক্ষ হত্যার আরও গুরুতর অভিযোগ প্রত্যাহার করে নিয়েছে। অন্টারিওর একটি আদালতে শুনানির সময় আইনজীবীরা জানান যে তার অনেক ভুক্তভোগী তরুণ এবং মানসিক কষ্টে ছিলেন।",
-        "details_en": "The 61-year-old will not face charges in the UK or over any British deaths under a plea deal which saw Canadian authorities withdraw more serious charges of murder. During Friday's sentencing hearing, prosecutors stressed that many of his victims were young and struggling with mental distress, while Crown Attorney Kathleen Doherty stated his motives were financial.",
-        "hook_bn": "বিষ ও পণ্যের মৃত্যু",
-        "kicker_bn": null,
+        "details_bn": "পুলিশ ২০২৩ সালে একটি খবরের ভিত্তিতে ম্যাকাঞ্জিকে গ্রেপ্তার করে এবং কর্তৃপক্ষ চারশটিরও বেশি মৃতদেহ উদ্ধার করতে শুরু করে। ম্যাকাঞ্জি শাকাহোলা বনে গুড নিউজ ইন্টারন্যাশনাল চার্চ পরিচালনা করতেন এবং অনুসারীদের পৃথিবীর শেষের আগে যীশুর সাথে দেখা করতে উপবাস করার নির্দেশ দিয়েছিলেন।",
+        "details_en": "Police arrested Mackenzie in 2023 after a tip-off, and authorities began uncovering more than 400 bodies. Mackenzie led the Good News International Church in the Shakahola Forest and told followers to starve themselves to meet Jesus.",
+        "hook_bn": "কেনিয়ায় উপাসক মৃত্যুর ঘটনায় নেতা দোষী",
+        "kicker_bn": "রায় ঘোষণা",
         "share_value": false,
         "question_bn": null
       },
       "desk_importance": 5.0,
       "outlet_count": 1,
-      "trending": true,
-      "social_appeal": 6.0,
+      "trending": false,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-28T00:01:37.125737+00:00"
+        "checked_at": "2026-11-28T01:01:55.254020+00:00"
+      }
+    },
+    {
+      "story_id": "efcc52e0-8a87-55e1-85b3-576264c02684",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "tech_innovation"
+      ],
+      "region": "international",
+      "tags": [
+        "#Taiwan",
+        "#NuclearPower",
+        "#China"
+      ],
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b09705fad-1795780703.jpg?resize=1920%2C1440",
+      "image_caption": null,
+      "published_at": "2026-11-27T23:09:04+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.0,
+      "rank_score": 2.2441,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
+          "title": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
+          "snippet": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "তাইওয়ানে পারমাণবিক শক্তি ফিরিয়ে আনার বিষয়ে গণভোট অনুষ্ঠিত হচ্ছে।",
+        "title_en": "Taiwan is holding a referendum on reviving nuclear power.",
+        "summary_bn": "তাইওয়ানের ভোটারেরা স্থানীয় নির্বাচনের পাশাপাশি পারমাণবিক শক্তিতে ফিরে যাওয়ার বিষয়ে একটি গণভোটে রায় দেবেন।",
+        "summary_en": "Voters in Taiwan are set to decide whether to bring back nuclear power alongside local elections.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-27T23:09:04+00:00",
+        "lead_bn": "তাইওয়ানের ভোটারেরা স্থানীয় নির্বাচনের পাশাপাশি পারমাণবিক শক্তিতে ফিরে যাওয়ার বিষয়ে একটি গণভোটে রায় দেবেন।",
+        "lead_en": "Voters in Taiwan are set to decide whether to bring back nuclear power alongside local elections.",
+        "bullets_bn": [
+          "এটি আট বছরে তাইওয়ানের চতুর্থ পারমাণবিক শক্তি বিষয়ক ভোট।",
+          "কেএমটি এই গণভোট প্রস্তাব করেছে এবং টিপিপি এটিকে সমর্থন দিচ্ছে।",
+          "ডিপিপি সংসদ সদস্য চেন পেই-ইউ এই গণভোটকে অদরকারী বলে অভিহিত করেছেন।"
+        ],
+        "bullets_en": [
+          "It is the island's fourth vote on nuclear power in just eight years.",
+          "The opposition Kuomintang proposed the referendum and the Taiwan People's Party is backing it.",
+          "DPP legislator Chen Pei-yu called the referendum unnecessary."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "১৮ মাস আগে শেষ সচল চুল্লি বন্ধ হওয়ার পর এই গণভোট অনুষ্ঠিত হচ্ছে। তাইওয়ানের কম্পিউটার চিপ শিল্পে বিদ্যুতের চাহিদা বাড়ায় এবং চীনের সঙ্গে উত্তেজনার মধ্যে এই ভোট হচ্ছে। পাস হতে হলে হ্যাঁ ভোটকে না ভোটের চেয়ে বেশি হতে হবে এবং মোট যোগ্য ভোটারের এক চতুর্থাংশের বেশি হতে হবে।",
+        "details_en": "The vote comes 18 months after the last operational reactor was shut down amid soaring electricity demand for the computer chip industry and tensions with China. To pass, yes votes must outnumber no votes and exceed a quarter of all eligible voters.",
+        "hook_bn": "তাইওয়ানে পারমাণবিক শক্তি নিয়ে গণভোট",
+        "kicker_bn": "গণভোট",
+        "share_value": false,
+        "question_bn": null
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 1,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-28T01:01:55.254020+00:00"
       }
     }
   ]
