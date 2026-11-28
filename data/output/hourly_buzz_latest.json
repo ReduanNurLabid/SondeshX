@@ -1,449 +1,306 @@
 {
-  "updated_at": "2026-11-28T07:00:51.341124",
-  "total_stories": 6,
+  "updated_at": "2026-11-28T08:00:52.438863",
+  "total_stories": 4,
   "stories": [
     {
-      "story_id": "a5f76cc9-29ea-56ad-8029-8f87932c59c5",
-      "primary_category": "society_education",
+      "story_id": "28164e1a-0251-5cf4-b54a-d9d14cb0cf5f",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://media.channelionline.com/2026/11/Untitled7-17.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-11-28T06:54:14+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.8646,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/73-lakh-students-get-stipend/",
-          "title": "উপবৃত্তি পাবে ৭৩ লাখ ছাত্রী, সুবিধাভোগী প্রায় ১ কোটি শিক্ষার্থী",
-          "snippet": "উপবৃত্তি পাবে ৭৩ লাখ ছাত্রী, সুবিধাভোগী প্রায় ১ কোটি শিক্ষার্থী"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "দেশের সব ছাত্রীকে উপবৃত্তির আওতায় আনছে সরকার",
-        "title_en": "Government brings all female students across the country under stipend program",
-        "summary_bn": "দেশের স্কুল, কলেজ ও মাদ্রাসার ষষ্ঠ থেকে দ্বাদশ শ্রেণির সব ছাত্রীকে উপবৃত্তির আওতায় আনছে সরকার এবং তারা শিক্ষাপ্রতিষ্ঠানে বিনাবেতনে পড়ার সুযোগ পাবে।",
-        "summary_en": "The government is bringing all female students from class six to twelve in schools, colleges, and madrasahs under stipends and free education.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-28T06:54:14+00:00",
-        "lead_bn": "দেশের স্কুল, কলেজ ও মাদ্রাসার ষষ্ঠ থেকে দ্বাদশ শ্রেণির সব ছাত্রীকে উপবৃত্তির আওতায় আনছে সরকার এবং তারা শিক্ষাপ্রতিষ্ঠানে বিনাবেতনে পড়ার সুযোগ পাবে।",
-        "lead_en": "The government is bringing all female students from class six to twelve in schools, colleges, and madrasahs under stipends and free education.",
-        "bullets_bn": [
-          "মাধ্যমিক ও উচ্চ মাধ্যমিকের ষষ্ঠ থেকে দ্বাদশ শ্রেণির মোট ৭৩ লাখ ২২ হাজার ছাত্রী সর্বজনীনভাবে এ সুবিধা পাবে।",
-          "এর ফলে বর্তমানে উপবৃত্তির সুবিধাভোগী শিক্ষার্থীর সংখ্যা দাঁড়াবে ৯৯ লাখ ৩৪ হাজার বা প্রায় এক কোটি।",
-          "এতে সরকারের সম্ভাব্য ব্যয় ধরা হয়েছে ৪ হাজার ৬৯৮ কোটি ৬৮ লাখ টাকা।"
-        ],
-        "bullets_en": [
-          "A total of 73 lakh 22 thousand female students from class six to twelve in secondary and higher secondary will universally get this facility.",
-          "As a result, the number of beneficiary students will stand at 99 lakh 34 thousand, which is nearly one crore.",
-          "The potential expenditure of the government for this has been fixed at 4 thousand 698 crore 68 lakh taka."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বিএনপির নির্বাচনী ইশতেহারের অঙ্গীকার অনুযায়ী সমন্বিত উপবৃত্তি কর্মসূচি বা হারমোনাইজড স্টাইপেন্ড প্রোগ্রাম-এর পরিধি সম্প্রসারণের মাধ্যমে এই উদ্যোগ বাস্তবায়িত হচ্ছে। এর মূল লক্ষ্য হলো নারী শিক্ষার প্রসার, ঝরে পড়ার হার কমানো, বাল্যবিবাহ রোধ এবং সুবিধাবঞ্চিত ও দরিদ্র শিক্ষার্থীদের আর্থিক সহায়তা জোরদার করা। পাশাপাশি প্রচলিত দারিদ্র্য-ভিত্তিক মূল্যায়নের মাধ্যমে ছাত্ররাও এ সুবিধা পাবে।",
-        "details_en": "This initiative is being implemented through the expansion of the Harmonized Stipend Program according to the pledge in BNP's election manifesto. Its main goals are expanding women's education, reducing dropout rates, preventing child marriage, and strengthening financial support for disadvantaged and poor students. Besides, male students will also get this facility through conventional poverty-based evaluation.",
-        "hook_bn": "৭৩ লাখ ছাত্রীকে উপবৃত্তির আওতায় আনছে সরকার",
-        "kicker_bn": "নতুন সিদ্ধান্ত",
-        "share_value": true,
-        "question_bn": "নারী শিক্ষার প্রসারে এই উপবৃত্তি কর্মসূচি কতটা কার্যকর ভূমিকা রাখবে বলে আপনি মনে করেন?"
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-28T07:02:17.445385+00:00"
-      }
-    },
-    {
-      "story_id": "c085cd9c-bab6-53d2-aa34-eb1fd84fea83",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
+        "world_diplomacy",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Panchagarh",
-        "#TetuliaWeather"
+        "#SheikhHasina",
+        "#HafizUddinAhmed",
+        "#ICJ",
+        "#BangladeshIndia"
       ],
-      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2023/05/02/panchagarh_cold_weather_pic-03.jpg",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/06/21/speaker.jpg",
       "image_caption": null,
-      "published_at": "2026-11-28T06:00:00+00:00",
+      "published_at": "2026-11-28T05:10:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.75,
-      "rank_score": 4.2932,
+      "importance_score": 7.75,
+      "rank_score": 5.0923,
       "sources": [
         {
           "name": "The Business Standard",
-          "url": "https://www.tbsnews.net/bangladesh/environment/panchagarh-braces-colder-days-temperature-drops-13degc-1616316",
-          "title": "Panchagarh braces for colder days as temperature drops to 13°C",
-          "snippet": "Panchagarh braces for colder days as temperature drops to 13°C"
+          "url": "https://www.tbsnews.net/bangladesh/politics/bangladesh-considers-moving-icj-sheikh-hasinas-extradition-india-speaker-1616241",
+          "title": "Bangladesh considers moving ICJ for Sheikh Hasina's extradition from India: Speaker",
+          "snippet": "Bangladesh considers moving ICJ for Sheikh Hasina's extradition from India: Speaker"
         },
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/nation/425953/thick-fog-blankets-panchagarh-as-temperature-drops",
-          "title": "Thick fog blankets Panchagarh as temperature drops to 13.1°C",
-          "snippet": "Thick fog blankets Panchagarh as temperature drops to 13.1°C"
+          "name": "Sarabangla",
+          "url": "https://sarabangla.net/news/post-1226738/",
+          "title": "সিলেটে ৮ বছর পর চা শ্রমিক ইউনিয়ন নির্বাচন, চলছে ভোটগ্রহণ",
+          "snippet": "সিলেটে ৮ বছর পর চা শ্রমিক ইউনিয়ন নির্বাচন, চলছে ভোটগ্রহণ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পঞ্চগড়ে তাপমাত্রা কমে ১৩ ডিগ্রি সেলসিয়াসে নেমেছে",
-        "title_en": "Temperature drops to 13°C as chill grips Panchagarh",
-        "summary_bn": "উত্তুরে বাতাসের কারণে তাপমাত্রা কমে যাওয়ায় পঞ্চগড়ে শীতের আমেজ শুরু হয়েছে।",
-        "summary_en": "A chill has gripped Panchagarh as the temperature continues to fall amid cold northerly winds.",
+        "title_bn": "ভারত শেখ হাসিনাকে প্রত্যর্পণ না করলে আইসিজেতে যাওয়ার কথা ভাবছে ঢাকা",
+        "title_en": "Dhaka may approach ICJ if India does not extradite Sheikh Hasina",
+        "summary_bn": "ভারত সাবেক প্রধানমন্ত্রী শেখ হাসিনাকে প্রত্যর্পণ না করলে বাংলাদেশ আন্তর্জাতিক আদালতে যেতে পারে বলে জানিয়েছেন সংসদ স্পিকার হাফিজ উদ্দিন আহমেদ।",
+        "summary_en": "Bangladesh may approach the International Court of Justice if former prime minister Sheikh Hasina is not extradited by India, said Parliament Speaker Hafiz Uddin Ahmed.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "climate_environment",
+          "world_diplomacy",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-28T06:00:00+00:00",
-        "lead_bn": "উত্তুরে বাতাসের কারণে তাপমাত্রা কমে যাওয়ায় পঞ্চগড়ে শীতের আমেজ শুরু হয়েছে।",
-        "lead_en": "A chill has gripped Panchagarh as the temperature continues to fall amid cold northerly winds.",
+        "published_at": "2026-11-28T05:10:00+00:00",
+        "lead_bn": "ভারত সাবেক প্রধানমন্ত্রী শেখ হাসিনাকে প্রত্যর্পণ না করলে বাংলাদেশ আন্তর্জাতিক আদালতে যেতে পারে বলে জানিয়েছেন সংসদ স্পিকার হাফিজ উদ্দিন আহমেদ।",
+        "lead_en": "Bangladesh may approach the International Court of Justice if former prime minister Sheikh Hasina is not extradited by India, said Parliament Speaker Hafiz Uddin Ahmed.",
         "bullets_bn": [
-          "তেতুলিয়া আবহাওয়া পর্যবেক্ষণ কেন্দ্রের ভারপ্রাপ্ত কর্মকর্তা জিতেন্দ্রনাথ রায় জানান, ২৮ নভেম্বর সকাল নয়টায় তেতুলিয়ায় সর্বনিম্ন তাপমাত্রা রেকর্ড করা হয় ১৩ ডিগ্রি সেলসিয়াস।",
-          "সন্ধ্যা থেকে পরদিন সকাল পর্যন্ত ঠান্ডা বাতাস, শিশির এবং হালকা থেকে ঘন কুয়াশা জেলাটিকে প্রভাবিত করছে।",
-          "দিনের তাপমাত্রা বেশি থাকলেও সূর্যাস্তের পর তাপমাত্রা তীব্রভাবে কমে যায়।"
+          "ইসলামাবাদে সাংবাদিকদের সঙ্গে কথা বলার সময় স্পিকার এই মন্তব্য করেন।",
+          "শেখ হাসিনা বাংলাদেশে ফিরে এলে তাকে গ্রেপ্তার করে কারাগারে পাঠানো হবে বলে তিনি জানান।",
+          "শেখ হাসিনার ১৫ বছরের শাসনামলে বাংলাদেশ কার্যকরভাবে ভারতের উপনিবেশে পরিণত হয়েছিল বলে স্পিকার অভিযোগ করেন।"
         ],
         "bullets_en": [
-          "Jitendranath Roy of the Tetulia Weather Observation Centre stated that the minimum temperature was recorded at 13 degrees Celsius at 9am on 28 November.",
-          "Cold winds, dew and intermittent light to dense fog have been affecting the district from evening until the following morning.",
-          "While daytime temperatures remained high, the mercury dropped sharply after sunset."
+          "The speaker made the remark while speaking to journalists in Islamabad.",
+          "He added that if Hasina returns to Dhaka, she will be arrested and sent to jail.",
+          "The speaker alleged that Bangladesh effectively became a colony of India during Sheikh Hasina's rule."
         ],
-        "impact_bn": "শীত বৃদ্ধির ফলে সাধারণ মানুষ, বিশেষ করে নিম্ন আয়ের মানুষ এবং বাইরে কাজ করা শ্রমিকেরা কষ্টের মুখে পড়েছেন।",
-        "impact_en": "The increasing cold has caused hardship for ordinary people, particularly low-income groups and outdoor workers.",
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "পঞ্চগড়ে তাপমাত্রা কমে ১৩ ডিগ্রি সেলসিয়াস",
-        "kicker_bn": "সতর্কতা",
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "পাকিস্তান সফরকালে এই মন্তব্য করেন সংসদ স্পিকার হাফিজ উদ্দিন আহমেদ। সূত্র জানায়, শেখ হাসিনা ১৬ ডিসেম্বরে বাংলাদেশে ফেরার ইচ্ছা প্রকাশ করার পর স্পিকারের এই বক্তব্য এল। এছাড়া তিনি কাশ্মীর সংকট জাতিসংঘ প্রস্তাব অনুযায়ী সমাধানের কথা বলেন।",
+        "details_en": "Parliament Speaker Hafiz Uddin Ahmed made the remarks during his six-day visit to Pakistan. The speaker's comments follow Sheikh Hasina's stated intention to return to Bangladesh on 16 December. He also spoke on the Kashmir issue, stating the dispute should be resolved in accordance with UN resolutions.",
+        "hook_bn": "শেখ হাসিনাকে না ফেরালে আইসিজেতে যাবে ঢাকা",
+        "kicker_bn": null,
         "share_value": false,
-        "question_bn": "আপনার এলাকায় কি কুয়াশা ও শীতের অনুভূতি শুরু হয়েছে?"
+        "question_bn": "সাবেক প্রধানমন্ত্রীর প্রত্যর্পণ বিষয়ে সরকারের এই অবস্থানকে আপনি কীভাবে দেখছেন?"
       },
-      "desk_importance": 6.0,
+      "desk_importance": 7.0,
       "outlet_count": 2,
       "trending": true,
       "social_appeal": 7.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-28T07:02:17.445385+00:00"
+        "checked_at": "2026-11-28T08:02:05.061573+00:00"
       }
     },
     {
-      "story_id": "16ab01de-c3a9-59dc-ba88-acef61411f3f",
-      "primary_category": "governance_law",
+      "story_id": "00cf97d5-a1c2-570c-9d03-d41d18236814",
+      "primary_category": "sports_fitness",
       "interest_categories": [
-        "governance_law"
+        "sports_fitness",
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Sports",
+        "#BangladeshCricket"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-27%2F5pwfc1kw%2FJamat-Azad-01.jpeg?rect=77%2C0%2C1126%2C591&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-28%2F8dx5tyju%2F970365-01-02.jpg?rect=0%2C87%2C2581%2C1355&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-11-28T04:33:07+00:00",
+      "published_at": "2026-11-28T07:36:49+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.2467,
+      "importance_score": 6.25,
+      "rank_score": 3.8147,
       "sources": [
         {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/feztxjdhdc",
-          "title": "প্রধানমন্ত্রীর সঙ্গে জোটগতভাবে বসতে চায় বিরোধী দল, সরকারও ইতিবাচক",
-          "snippet": "প্রধানমন্ত্রীর সঙ্গে জোটগতভাবে বসতে চায় বিরোধী দল, সরকারও ইতিবাচক"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/sports/cricket/aj5a5h9976",
+          "title": "বুমরা আর বুমরা নেই, জয়সোয়ালের শূন্যের রেকর্ড, ধুঁকছে ভারত",
+          "snippet": "বুমরা আর বুমরা নেই, জয়সোয়ালের শূন্যের রেকর্ড, ধুঁকছে ভারত"
+        },
+        {
+          "name": "ইত্তেফাক",
+          "url": "https://www.ittefaq.com.bd/823408/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BF%E0%A6%82-%E0%A6%AC%E0%A6%BF%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A7%9F%E0%A7%87-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4-%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9A%E0%A7%87-%E0%A6%89%E0%A7%9C%E0%A6%9B%E0%A7%87",
+          "title": "ব্যাটিং বিপর্যয়ে ভারত, ক্রাইস্টচার্চে উড়ছে নিউজিল্যান্ড",
+          "snippet": "ব্যাটিং বিপর্যয়ে ভারত, ক্রাইস্টচার্চে উড়ছে নিউজিল্যান্ড"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জামায়াত প্রধানমন্ত্রীর সঙ্গে জোটগতভাবে আলোচনায় বসতে চায়",
-        "title_en": "Jamaat wants to hold alliance talks with the prime minister",
-        "summary_bn": "জামায়াতে ইসলামী এককভাবে নয়, বরং ১১-দলীয় ঐক্যের পক্ষ থেকে প্রধানমন্ত্রী তারেক রহমানের সঙ্গে আলোচনায় বসতে চায় এবং এই প্রস্তাবে সরকার ইতিবাচক রয়েছে।",
-        "summary_en": "Jamaat-e-Islami wants to hold talks with Prime Minister Tariq Rahman as part of the 11-party alliance rather than individually, and the government is positive about this proposal.",
+        "title_bn": "ক্রাইস্টচার্চ টেস্টের প্রথম ইনিংসে চরম ব্যাটিং বিপর্যয়ে পড়েছে ভারত",
+        "title_en": "India suffers a batting collapse in the first innings of Christchurch test",
+        "summary_bn": "নিউজিল্যান্ডের প্রথম ইনিংসের ৩৫৬ রানের জবাবে ভারত দ্বিতীয় দিন শেষে ৬ উইকেট হারিয়ে ১১৬ রান সংগ্রহ করেছে।",
+        "summary_en": "In reply to New Zealand's first innings total of 356, India reached 116 for 6 wickets at the end of the second day.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "sports_fitness",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-28T04:33:07+00:00",
-        "lead_bn": "জামায়াতে ইসলামী এককভাবে নয়, বরং ১১-দলীয় ঐক্যের পক্ষ থেকে প্রধানমন্ত্রী তারেক রহমানের সঙ্গে আলোচনায় বসতে চায় এবং এই প্রস্তাবে সরকার ইতিবাচক রয়েছে।",
-        "lead_en": "Jamaat-e-Islami wants to hold talks with Prime Minister Tariq Rahman as part of the 11-party alliance rather than individually, and the government is positive about this proposal.",
+        "published_at": "2026-11-28T07:36:49+00:00",
+        "lead_bn": "নিউজিল্যান্ডের প্রথম ইনিংসের ৩৫৬ রানের জবাবে ভারত দ্বিতীয় দিন শেষে ৬ উইকেট হারিয়ে ১১৬ রান সংগ্রহ করেছে।",
+        "lead_en": "In reply to New Zealand's first innings total of 356, India reached 116 for 6 wickets at the end of the second day.",
         "bullets_bn": [
-          "জামায়াতের সহকারী সেক্রেটারি জেনারেল হামিদুর রহমান জানিয়েছেন, জামায়াত ১১ দলের পক্ষ থেকে সংলাপে যেতে চায়।",
-          "বিরোধী জোটের পক্ষ থেকে রাষ্ট্রীয় অতিথি ভবন যমুনা বা ফরেন সার্ভিস একাডেমিতে সংলাপ আয়োজনের প্রস্তাব দেওয়া হয়েছে।",
-          "নভেম্বরের মধ্যেই সংলাপ হতে পারে বলে জামায়াতের এক কেন্দ্রীয় নেতা ধারণা করছেন।"
+          "নিউজিল্যান্ডের চার পেসার ভারতের ছয়টি উইকেটই নিয়েছেন এবং ভারত এখনো ২৪০ রানে পিছিয়ে রয়েছে।",
+          "যশস্বী জয়সোয়াল বিশ্ব টেস্ট চ্যাম্পিয়নশিপে ভারতের ব্যাটসম্যানদের মধ্যে সবচেয়ে বেশিবার শূন্য রানে আউট হওয়ার রেকর্ড গড়েছেন।",
+          "ঋষভ পন্ত একটি ছক্কা মেরে বিশ্ব টেস্ট চ্যাম্পিয়নশিপে ৮৯টি ছক্কার রেকর্ড গড়ে বেন স্টোকসকে পেছনে ফেলেছেন।"
         ],
         "bullets_en": [
-          "Jamaat's assistant secretary general Hamidur Rahman said Jamaat wants to go to the dialogue on behalf of the 11 parties.",
-          "The opposition alliance has proposed holding the dialogue at the State Guest House Jamuna or the Foreign Service Academy.",
-          "A central Jamaat leader expects the dialogue could take place within November."
+          "Four New Zealand pacers took all six Indian wickets, leaving India trailing by 240 runs.",
+          "Yashasvi Jaiswal set an unwanted record for the most ducks by an Indian batsman in the World Test Championship.",
+          "Rishabh Pant hit a six to surpass Ben Stokes with a total of 89 sixes in the World Test Championship."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নাশকতামূলক কার্যক্রমের প্রেক্ষাপটে প্রধানমন্ত্রী তারেক রহমান ফ্যাসিবাদবিরোধী ঐক্যের ডাক দিয়েছেন। জামায়াতের নেতৃত্বাধীন ১১-দলীয় ঐক্য এই ডাকে সাড়া দিতে প্রস্তুত। এর আগে জাতীয় নাগরিক পার্টি (এনসিপি) প্রধানমন্ত্রীর সঙ্গে পৃথকভাবে সচিবালয়ে বৈঠক করেছে, তবে ১১-দলীয় ঐক্য সচিবালয়ে ওইভাবে বসতে চায় না। স্থান ও তারিখ এখনো চূড়ান্ত হয়নি।",
-        "details_en": "In the context of subversive activities by the banned Awami League, Prime Minister Tariq Rahman called for an anti-fascist unity. The Jamaat-led 11-party alliance is ready to respond to this call. Earlier, the National Citizen Party (NCP) held a separate meeting with the prime minister at the secretariat, but the 11-party alliance does not want to sit in that manner at the secretariat. The venue and date have not been finalized yet.",
-        "hook_bn": "জোটগতভাবে বসতে চায় বিরোধী দল",
-        "kicker_bn": "সংলাপ",
+        "details_bn": "ক্রাইস্টচার্চ টেস্টে ৫ উইকেটে ২৪৬ রান নিয়ে প্রথম দিন শেষ করা নিউজিল্যান্ড প্রথম ইনিংসে ৩৫৬ রান সংগ্রহ করে। আগের দিন ১৯ ওভার বোলিং করেও উইকেটশূন্য থাকা যশপ্রীত বুমরা আরও ৭ ওভার বোলিং করে কোনো উইকেট পাননি। ভারতের পক্ষে আকাশ দীপ ৫ উইকেট নেন। ভারতের প্রথম ইনিংসে যশস্বী জয়সোয়াল ৬ বল খেলে শূন্য রানে আউট হন এবং লোকেশ রাহুল, দেবদূত পাড়িক্কাল, শুবমান গিল ও ঋষভ পন্ত ভালো শুরু পেলেও ক্রিজে থাকতে পারেননি।",
+        "details_en": "New Zealand, finishing the first day at 246 for 5, posted 356 runs in their first innings. Jasprit Bumrah remained wicketless after bowling another seven overs. Akash Das took five wickets for India. Yashasvi Jaiswal was dismissed for a duck after facing six balls, while Lokesh Rahul, Devdutt Padikkal, Shubman Gill and Rishabh Pant failed to stay at the crease despite getting good starts.",
+        "hook_bn": "ক্রাইস্টচার্চ টেস্টে ব্যাটিং বিপর্যয়ে ভারত",
+        "kicker_bn": null,
         "share_value": false,
-        "question_bn": "প্রধানমন্ত্রীর সঙ্গে এই জোটগত আলোচনা দেশের রাজনৈতিক পরিস্থিতিতে কী প্রভাব ফেলতে পারে বলে আপনি মনে করেন?"
+        "question_bn": "ক্রাইস্টচার্চ টেস্টে ভারতের এই ব্যাটিং বিপর্যয় কি কাটিয়ে ওঠা সম্ভব বলে আপনার মনে হয়?"
       },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
+      "desk_importance": 6.0,
+      "outlet_count": 2,
       "trending": false,
-      "social_appeal": 7.0,
+      "social_appeal": 5.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-28T07:02:17.445385+00:00"
+        "checked_at": "2026-11-28T08:02:05.061573+00:00"
       }
     },
     {
-      "story_id": "eb8d363a-599f-5893-b38e-1778033b7d05",
+      "story_id": "cce1d655-fafe-5ced-bb89-9749b5895839",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#Technology",
+        "#Innovation"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-11-28%2Fdffevakn%2FMusk-Satellite-1.jpg?rect=0%2C0%2C720%2C378&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-11-28T06:01:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 5.25,
+      "rank_score": 2.4544,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/usa/66172vomkj",
+          "title": "ইলন মাস্ক কেন মহাকাশে ১০ লাখ স্যাটেলাইট ডেটা সেন্টার বসাতে চান",
+          "snippet": "ইলন মাস্ক কেন মহাকাশে ১০ লাখ স্যাটেলাইট ডেটা সেন্টার বসাতে চান"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/explainer/what-know-about-spacexs-plan-launch-1m-ai-data-centres-orbit-1616431",
+          "title": "What to know about SpaceX's plan to launch 1m AI data centres into orbit",
+          "snippet": "What to know about SpaceX's plan to launch 1m AI data centres into orbit"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যুক্তরাষ্ট্র স্পেসএক্সের মহাকাশে ১০ লাখ স্যাটেলাইট ডেটা সেন্টার বসানোর পরিকল্পনা অনুমোদন করেছে",
+        "title_en": "US approves SpaceX plan to place one million satellite data centres in space",
+        "summary_bn": "যুক্তরাষ্ট্র স্পেসএক্সের কক্ষপথে ১০ লাখ স্যাটেলাইট ডেটা সেন্টার বা কম্পিউট মডিউল মোতায়েনের পরিকল্পনা অনুমোদন করেছে।",
+        "summary_en": "The United States has approved SpaceX's plan to deploy one million satellite data centres into orbit.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-11-28T06:01:00+00:00",
+        "lead_bn": "যুক্তরাষ্ট্র স্পেসএক্সের কক্ষপথে ১০ লাখ স্যাটেলাইট ডেটা সেন্টার বা কম্পিউট মডিউল মোতায়েনের পরিকল্পনা অনুমোদন করেছে।",
+        "lead_en": "The United States has approved SpaceX's plan to deploy one million satellite data centres into orbit.",
+        "bullets_bn": [
+          "যুক্তরাষ্ট্রের ফেডারেল কমিউনিকেশনস কমিশন বা এফসিসি স্টারমাইন্ড নামের এ পরিকল্পনার অনুমোদন দিয়েছে।",
+          "এফসিসির চেয়ারম্যান ব্রেন্ডন কার জানিয়েছেন, মহাকাশে মোতায়েন হওয়া এসব মডিউল পৃথিবীতে ব্যবহারের জন্য বিপুল পরিমাণ ডেটা প্রক্রিয়াজাত করবে।",
+          "স্পেসএক্স জানিয়েছে, পৃথিবীতে বিদ্যুতের উৎস কমে যাওয়ায় এআই ডেটা সেন্টারের শক্তির উৎস হিসেবে সূর্যকে ব্যবহার করা হবে।"
+        ],
+        "bullets_en": [
+          "The United States Federal Communications Commission approved the plan named Starmind.",
+          "FCC Chairman Brendan Carr stated that these modules deployed in space will process massive amounts of data for use on Earth.",
+          "SpaceX stated that the sun will be used as the power source for AI data centres as electricity sources on Earth become scarce."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মহাকাশ প্রযুক্তি, মহাকাশ পরিবহন ও কৃত্রিম বুদ্ধিমত্তা প্রতিষ্ঠান স্পেসএক্সের প্রতিষ্ঠাতা ধনকুবের ইলন মাস্কের এ পরিকল্পনা কম খরচে ও উচ্চ ক্ষমতাসম্পন্ন বলে জানিয়েছে কোম্পানিটি। এআই কম্পিউটিংয়ের ক্রমবর্ধমান চাহিদার প্রেক্ষাপটে এবং পৃথিবীতে বিদ্যুতের উৎস খোঁজা কঠিন হয়ে পড়ায় এই বিকল্প উপায়ের তোড়জোড় শুরু হয়েছে।",
+        "details_en": "The company stated that the plan by SpaceX founder Elon Musk is low-cost and high-capacity. This initiative has been pursued as an alternative due to the growing demand for AI computing and the increasing difficulty of finding electricity sources on Earth.",
+        "hook_bn": "মহাকাশে ১০ লাখ স্যাটেলাইট পাঠাবে স্পেসএক্স",
+        "kicker_bn": "নতুন পরিকল্পনা",
+        "share_value": false,
+        "question_bn": "মহাকাশে ডেটা সেন্টার স্থাপন নিয়ে আপনার মতামত কী?"
+      },
+      "desk_importance": 5.0,
+      "outlet_count": 2,
+      "trending": false,
+      "social_appeal": 4.0,
+      "fact_check": {
+        "status": "passed",
+        "checked_at": "2026-11-28T08:02:05.061573+00:00"
+      }
+    },
+    {
+      "story_id": "6c3474e1-1ef4-5f2d-8b9a-5d3d8658d69f",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Expressway",
-        "#BangladeshGovt"
+        "#BangladeshBank",
+        "#Barta",
+        "#LC"
       ],
-      "image_url": "https://images.unsplash.com/photo-1508916319692-80a99da75692?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8Z292dCUyMHBsYW5zJTIwZXhwcmVzc3dheSUyMG5ldHdvcmslMjBidXNpbmVzc3xlbnwxfDB8fHwxNzk1ODQ5MzMyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/26/bangladesh_bank_0.jpg",
       "image_caption": null,
-      "published_at": "2026-11-28T07:01:08.406834+00:00",
+      "published_at": "2026-11-28T07:05:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.25,
-      "rank_score": 3.9039,
+      "rank_score": 3.6996,
       "sources": [
         {
-          "name": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/national/govt-plans-500-km-expressway-network-in-five-years-aims-to-connect-all-districts",
-          "title": "Govt plans 500 km expressway network in five years",
-          "snippet": "Govt plans 500 km expressway network in five years"
+          "name": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/banking/bb-launches-barta-streamline-local-lc-messaging-save-7m-annually-1616386",
+          "title": "BB launches SWIFT alternative Barta to streamline local LC messaging, saving $7m annually",
+          "snippet": "BB launches SWIFT alternative Barta to streamline local LC messaging, saving $7m annually"
         },
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/government-plans-500km-expressway-5-years/",
-          "title": "৫ বছরে ৫০০ কিলোমিটার এক্সপ্রেসওয়ে নির্মাণের পরিকল্পনা সরকারের",
-          "snippet": "৫ বছরে ৫০০ কিলোমিটার এক্সপ্রেসওয়ে নির্মাণের পরিকল্পনা সরকারের"
+          "name": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/trade/bb-launches-barta-to-streamline-local-lc-messaging",
+          "title": "BB launches ‘BARTA’ to streamline local LC messaging",
+          "snippet": "BB launches ‘BARTA’ to streamline local LC messaging"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সরকার পাঁচ বছরে ৫০০ কিলোমিটার এক্সপ্রেসওয়ে নির্মাণের পরিকল্পনা করেছে",
-        "title_en": "Govt plans 500 km expressway network in five years",
-        "summary_bn": "দেশের সড়ক যোগাযোগব্যবস্থার পরিবর্তন, পণ্য ও যাত্রী পরিবহনে গতি আনতে পাঁচ বছরে ৫০০ কিলোমিটার এক্সপ্রেসওয়ে নির্মাণের পরিকল্পনা করেছে সরকার।",
-        "summary_en": "Govt plans to build 500 km of expressways in five years to transform road communication and speed up transport.",
+        "title_bn": "বাংলাদেশ ব্যাংক স্থানীয় এলসি মেসেজিংয়ের জন্য বার্তা প্ল্যাটফর্ম চালু করেছে।",
+        "title_en": "Bangladesh Bank launched the Barta platform for local LC messaging.",
+        "summary_bn": "বাংলাদেশ ব্যাংক ২৮ নভেম্বর বার্তা নামের একটি ডিজিটাল প্ল্যাটফর্ম চালু করেছে যা স্থানীয় লেটার অব ক্রেডিট মেসেজিং দ্রুত ও নিরাপদ করবে।",
+        "summary_en": "Bangladesh Bank launched a digital platform named Barta on 28 November to make local Letter of Credit messaging faster and safer.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-28T07:01:08.406834+00:00",
-        "lead_bn": "দেশের সড়ক যোগাযোগব্যবস্থার পরিবর্তন, পণ্য ও যাত্রী পরিবহনে গতি আনতে পাঁচ বছরে ৫০০ কিলোমিটার এক্সপ্রেসওয়ে নির্মাণের পরিকল্পনা করেছে সরকার।",
-        "lead_en": "Govt plans to build 500 km of expressways in five years to transform road communication and speed up transport.",
+        "published_at": "2026-11-28T07:05:00+00:00",
+        "lead_bn": "বাংলাদেশ ব্যাংক ২৮ নভেম্বর বার্তা নামের একটি ডিজিটাল প্ল্যাটফর্ম চালু করেছে যা স্থানীয় লেটার অব ক্রেডিট মেসেজিং দ্রুত ও নিরাপদ করবে।",
+        "lead_en": "Bangladesh Bank launched a digital platform named Barta on 28 November to make local Letter of Credit messaging faster and safer.",
         "bullets_bn": [
-          "পরিকল্পনায় দেশের গুরুত্বপূর্ণ কয়েকটি সড়ক করিডরকে বিশেষ গুরুত্ব দেওয়া হয়েছে।",
-          "এর মধ্যে রয়েছে ২৩২ কিলোমিটার দীর্ঘ ঢাকা-চট্টগ্রাম সড়ক।",
-          "অন্যান্য রুটের মধ্যে রয়েছে ঢাকার রামপুরা থেকে ডেমরা এবং জয়দেবপুর থেকে ময়মনসিংহ।"
+          "এই প্ল্যাটফর্মের মাধ্যমে ব্যাংকগুলো একক ও তাৎক্ষণিক কেন্দ্রীয় সিস্টেমে স্থানীয় এবং ব্যাক-টু-ব্যাক এলসি মেসেজ আদান-প্রদান করতে পারবে।",
+          "বাংলাদেশ ব্যাংকের প্রেস বিজ্ঞপ্তিতে বলা হয়েছে যে এই পদক্ষেপে বার্ষিক প্রায় ৭ মিলিয়ন মার্কিন ডলার বৈদেশিক মুদ্রা সাশ্রয় হবে।",
+          "বার্তা পুরোপুরি চালু ও স্থিতিশীল হওয়ার পর বিদ্যমান সুইফ্ট সিস্টেমটি ধীরে ধীরে বন্ধ করে দেওয়া হবে।"
         ],
         "bullets_en": [
-          "The plan gives special importance to several important road corridors in the country.",
-          "This includes the 232-kilometre-long Dhaka-Chittagong road.",
-          "Other routes include Dhaka's Rampura to Demra and Joydebpur to Mymensingh."
+          "The platform will allow banks to exchange local and back-to-back LC messages under a single, instant central system.",
+          "According to a Bangladesh Bank press release, this move is expected to save around $7 million annually in foreign currency.",
+          "The existing SWIFT system will be phased out gradually once Barta becomes fully operational and stable."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "দেশের সড়ক যোগাযোগব্যবস্থার আমূল পরিবর্তন, পণ্য ও যাত্রী পরিবহনে গতি আনা এবং যানজট নিরসনে পাঁচ বছরে দেশের বিভিন্ন রুটে ৫০০ কিলোমিটার এক্সপ্রেসওয়ে নির্মাণের পরিকল্পনা নিয়েছে সরকার। পরিকল্পনায় রামপুরা থেকে ডেমরা পর্যন্ত ১৩ কিলোমিটার এবং জয়দেবপুর থেকে ময়মনসিংহ পর্যন্ত ৮৫ কিলোমিটার সড়ক অন্তর্ভুক্ত রয়েছে।",
-        "details_en": "The government has planned to construct a 500-kilometre expressway network on various routes across the country within five years to radically change the road communication system, bring dynamism to freight and passenger transport, and ease traffic congestion. The plan includes the 13-kilometre stretch from Rampura to Demra in Dhaka and 85 kilometres from Joydebpur to Mymensingh.",
-        "hook_bn": "পাঁচ বছরে ৫০০ কিলোমিটার এক্সপ্রেসওয়ে",
-        "kicker_bn": "নতুন পরিকল্পনা",
+        "details_bn": "বার্তা প্ল্যাটফর্মে এপিআই-ভিত্তিক যাচাইকরণ, টোকেন-ভিত্তিক অ্যাক্সেস, এনক্রিপ্টেড ভিপিএন, নেটওয়ার্ক অ্যাড্রেস ট্রান্সলেশন এবং ফায়ারওয়াল যুক্ত রয়েছে। ব্যবহারকারীদের পরিচয় দুই-পদক্ষেপ যাচাইকরণের মাধ্যমে নিশ্চিত করা হবে এবং বাণিজ্যিক ব্যাংক ও কেন্দ্রীয় ব্যাংকের মধ্যে তথ্য আদান-প্রদান ডেডিকেটেড এক্সট্রানেটের মাধ্যমে পরিচালিত হবে। বাংলাদেশ ব্যাংকের ব্যবহারকারীরা কেবল রিড-অঅনলি মনিটরিং অ্যাক্সেস পাবেন এবং এই ব্যবস্থায় প্রতি কমিউনিকেশনে তিন স্তরের অনুমোদন প্রক্রিয়া থাকবে।",
+        "details_en": "The Barta platform incorporates API-based verification, token-based access, encrypted VPN, Network Address Translation, and firewalls. User identities will be verified through two-factor authentication, and data transmission between commercial banks and the central bank will run through a dedicated Extranet with a three-tier approval process. Bangladesh Bank users will hold read-only monitoring access without authority to alter records.",
+        "hook_bn": "এলসি মেসেজিংয়ের জন্য বার্তা প্ল্যাটফর্ম চালু",
+        "kicker_bn": "নতুন প্ল্যাটফর্ম",
         "share_value": false,
-        "question_bn": "নতুন এই এক্সপ্রেসওয়েগুলো চালু হলে আপনার যাতায়াতে কতটা সুবিধা হবে বলে আপনার মনে হয়?"
+        "question_bn": "স্থানীয় এলসি মেসেজিংয়ের জন্য এই নতুন ডিজিটাল ব্যবস্থা চালুর বিষয়ে আপনার মতামত কী?"
       },
       "desk_importance": 6.0,
       "outlet_count": 2,
       "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-28T07:02:17.445385+00:00"
-      }
-    },
-    {
-      "story_id": "521be1a6-3eba-5d28-b17b-719f0eb23622",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "governance_law",
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_bengali/44fd/live/48cde3f0-eae1-11f1-85a1-598efd3aac1f.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-28T04:04:57+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.75,
-      "rank_score": 2.7887,
-      "sources": [
-        {
-          "name": "BBC News বাংলা",
-          "url": "https://www.bbc.com/bengali/articles/c6y80r9m433mo?at_medium=RSS&at_campaign=rss",
-          "title": "ঝড়ে বিপর্যস্ত যুক্তরাষ্ট্র, বিদ্যুৎহীন কয়েক লাখ মানুষ",
-          "snippet": "ঝড়ে বিপর্যস্ত যুক্তরাষ্ট্র, বিদ্যুৎহীন কয়েক লাখ মানুষ"
-        },
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/28/parts-of-us-clean-up-after-thanksgiving-storm-lashes-east-coast?traffic_source=rss",
-          "title": "Parts of US clean up after Thanksgiving storm lashes East Coast",
-          "snippet": "Parts of US clean up after Thanksgiving storm lashes East Coast"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/us-storm-floods-disrupt-life/",
-          "title": "যুক্তরাষ্ট্রে ঝড়-বন্যায় বিপর্যস্ত জনজীবন",
-          "snippet": "যুক্তরাষ্ট্রে ঝড়-বন্যায় বিপর্যস্ত জনজীবন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "যুক্তরাষ্ট্রে শক্তিশালী ঝড়ের তাণ্ডবে বিদ্যুৎহীন লাখ লাখ মানুষ।",
-        "title_en": "Millions lose power as powerful storms lash the US.",
-        "summary_bn": "থ্যাংকসগিভিং ছুটির মধ্যে যুক্তরাষ্ট্রের দুই উপকূলে তীব্র ঝড় আঘাত হানার পর লাখ লাখ মানুষ বিদ্যুৎহীন অবস্থায় রয়েছেন।",
-        "summary_en": "Hundreds of thousands remain without power after severe storms struck both coasts of the US during the Thanksgiving holiday.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "governance_law",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-28T04:04:57+00:00",
-        "lead_bn": "থ্যাংকসগিভিং ছুটির মধ্যে যুক্তরাষ্ট্রের দুই উপকূলে তীব্র ঝড় আঘাত হানার পর লাখ লাখ মানুষ বিদ্যুৎহীন অবস্থায় রয়েছেন।",
-        "lead_en": "Hundreds of thousands remain without power after severe storms struck both coasts of the US during the Thanksgiving holiday.",
-        "bullets_bn": [
-          "শক্তিশালী ওই ঝড়টি যুক্তরাষ্ট্রের পূর্বাنده আঘাত হানে এবং এর ফলে প্রবল বাতাস, ভারী বৃষ্টিপাত ও উপকূলীয় এলাকায় বন্যা দেখা দেয়।",
-          "বিদ্যুৎ বিভ্রাট পর্যবেক্ষণকারী ওয়েবসাইট পাওয়ারআউটরেজ ডট ইউএস-এর তথ্য অনুযায়ী, পেনসিলভানিয়ায় সবচেয়ে বেশি মানুষ বিদ্যুৎহীন ছিল।",
-          "বিমান চলাচলেও বিঘ্ন অব্যাহত ছিল এবং শত শত ফ্লাইট বিলম্বিত ও বাতিল হওয়ার খবর পাওয়া গেছে।"
-        ],
-        "bullets_en": [
-          "The powerful storm struck the eastern US, causing strong winds, heavy rainfall, and coastal flooding.",
-          "According to power outage tracking website PowerOutage.us, Pennsylvania had the highest number of powerless people.",
-          "Flight disruptions continued with hundreds of flights reported delayed and cancelled."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "শক্তিশালী ওই ঝড়টি যুক্তরাষ্ট্রের পূর্বাঞ্চলে আঘাত হানে। এর ফলে যুক্তরাষ্ট্রের অভ্যন্তরীণ, যুক্তরাষ্ট্রগামী ও যুক্তরাষ্ট্র থেকে ছেড়ে যাওয়া ৩ হাজার ৪০০টির বেশি ফ্লাইট বিলম্বিত হয় এবং প্রায় ৬৭০টি বাতিল করা হয়। ফ্লাইটঅ্যাওয়ার ডট কম-এর তথ্য অনুযায়ী, থ্যাংকসগিভিংয়ের দিন যুক্তরাষ্ট্রে ২ হাজার ৫০০টির বেশি ফ্লাইট বিলম্বিত এবং ৪৫০টির বেশি ফ্লাইট বাতিল হয়েছিল। পরিস্থিতি উন্নত হলেও আবহাওয়াবিদরা সতর্ক করেছেন যে স্বাভাবিক অবস্থা ফিরতে আরও কিছুটা সময় লাগবে।",
-        "details_en": "The powerful storm hit the eastern US leading to more than 3,400 domestic, inbound, and outbound flight delays and about 670 cancellations. According to FlightAware.com, over 2,500 flights were delayed and more than 450 cancelled in the US on Thanksgiving. While conditions are improving, meteorologists have warned that it will take some time for normalcy to return.",
-        "hook_bn": "যুক্তরাষ্ট্রে ঝড়ে বিদ্যুৎহীন লাখ লাখ মানুষ",
-        "kicker_bn": "সতর্কতা",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 3,
-      "trending": true,
       "social_appeal": 4.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-28T07:02:17.445385+00:00"
-      }
-    },
-    {
-      "story_id": "97e6e6e5-23e5-58b0-924d-18f207983f58",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business",
-        "society_education"
-      ],
-      "region": "international",
-      "tags": [
-        "#SaudiArabia",
-        "#Houthis",
-        "#Riyadh",
-        "#Yemen"
-      ],
-      "image_url": "https://th-i.thgim.com/public/incoming/fad8zo/article71753610.ece/alternates/LANDSCAPE_1200/Yemen-s-Houthi-GIEGRPO5D.3.jpg.jpg",
-      "image_caption": null,
-      "published_at": "2026-11-28T04:51:09+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 5.5,
-      "rank_score": 2.6675,
-      "sources": [
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/saudi-arabia-houthis-trade-attacks-on-rival-capitals/article71753601.ece",
-          "title": "Saudi Arabia, Houthis trade attacks on rival capitals",
-          "snippet": "Saudi Arabia, Houthis trade attacks on rival capitals"
-        },
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823390/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80-%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%A7%E0%A7%87%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%B8%E0%A6%BE-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA%E0%A6%A3%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A7%E0%A7%8D%E0%A6%AC%E0%A6%82%E0%A6%B8",
-          "title": "রাজধানী রিয়াদের দিকে ধেয়ে আসা ক্ষেপণাস্ত্র ধ্বংস করল সৌদি জোট",
-          "snippet": "রাজধানী রিয়াদের দিকে ধেয়ে আসা ক্ষেপণাস্ত্র ধ্বংস করল সৌদি জোট"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সৌদি জোট রিয়াদের দিকে ধেয়ে আসা ক্রুজ ক্ষেপণাস্ত্র ধ্বংস করেছে",
-        "title_en": "Saudi coalition destroys cruise missile targeting Riyadh",
-        "summary_bn": "সৌদি আরব জানিয়েছে, তারা রাজধানী রিয়াদের দিকে ছোড়া একটি ক্রুজ ক্ষেপণাস্ত্র ধ্বংস করেছে, অন্যদিকে হুথি গণমাধ্যম ইয়েমেনে সৌদি হামলার খবর দিয়েছে।",
-        "summary_en": "Saudi Arabia said it shot down a cruise missile targeting Riyadh, as Houthi media reported Saudi strikes on Yemen.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-28T04:51:09+00:00",
-        "lead_bn": "সৌদি আরব জানিয়েছে, তারা রাজধানী রিয়াদের দিকে ছোড়া একটি ক্রুজ ক্ষেপণাস্ত্র ধ্বংস করেছে, অন্যদিকে হুথি গণমাধ্যম ইয়েমেনে সৌদি হামলার খবর দিয়েছে।",
-        "lead_en": "Saudi Arabia said it shot down a cruise missile targeting Riyadh, as Houthi media reported Saudi strikes on Yemen.",
-        "bullets_bn": [
-          "জোটের মুখপাত্র তুর্কি আল-মালিকি এক্সে জানান, রিয়াদ অঞ্চলের দিকে হুথি মিলিশিয়ার ছোড়া ক্রুজ ক্ষেপণাস্ত্রটি বিমান প্রতিরক্ষা ব্যবস্থা ধ্বংস করেছে।",
-          "হুথিদের বার্তা সংস্থা সাবা জানিয়েছে, সানাখার আল-তাহরির জেলার বীর আবু শামলা এলাকায় সৌদি হামলায় আটটি বাড়ি ও তিনটি দোকান ক্ষতিগ্রস্ত হয়েছে।",
-          "ইয়েমেনের যুদ্ধ পুনরায় শুরু হওয়ার পর থেকে সৌদি নেতৃত্বাধীন জোট হুথি নিয়ন্ত্রিত এলাকায় নিয়মিত বোমা হামলা চালিয়ে আসছে।"
-        ],
-        "bullets_en": [
-          "Coalition spokesperson Turki Al-Malki wrote on X that air defences destroyed a cruise missile launched towards the Riyadh region.",
-          "Houthi news agency Saba reported that Saudi attacks on the Bir Abu Shamlah neighborhood in Sanaa damaged eight homes and three shops.",
-          "The Saudi-led coalition has been regularly bombing Houthi-controlled areas since Yemen's civil war reignited over the summer."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ইয়েমেনের আন্তর্জাতিকভাবে স্বীকৃত সরকারকে সমর্থনকারী সৌদি জোট গ্রীষ্মকালে ইয়েমেনের গৃহযুদ্ধ পুনরায় শুরু হওয়ার পর থেকে ইরান-সমর্থিত গোষ্ঠীর নিয়ন্ত্রিত এলাকায় নিয়মিত বোমা হামলা চালিয়ে আসছে। এর জবাবে হুথি যোদ্ধারা প্রায় প্রতিদিন তেলসমৃদ্ধ দেশটির জ্বালানি স্থাপনা, বিমানবন্দর এবং রিয়াদের আর্থিক জেলাকে লক্ষ্যবস্তু করে আসছে।",
-        "details_en": "A Saudi-led coalition backing Yemen's internationally recognised government has been regularly bombing Houthi-controlled areas since Yemen's civil war reignited over the summer. In response, Houthi fighters have been targeting the oil-rich kingdom almost daily, hitting energy facilities, airports and Riyadh's financial district.",
-        "hook_bn": "রিয়াদের দিকে ছোড়া ক্রুজ ক্ষেপণাস্ত্র ধ্বংস",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 5.0,
-      "outlet_count": 2,
-      "trending": true,
-      "social_appeal": 4.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-28T07:02:17.445385+00:00"
+        "checked_at": "2026-11-28T08:02:05.061573+00:00"
       }
     }
   ]
