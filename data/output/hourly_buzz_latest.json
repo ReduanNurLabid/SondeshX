@@ -1,276 +1,75 @@
 {
-  "updated_at": "2026-11-27T23:00:50.194870",
-  "total_stories": 4,
+  "updated_at": "2026-11-28T00:00:47.507953",
+  "total_stories": 1,
   "stories": [
     {
-      "story_id": "ccfef4a5-f514-5ca1-bc86-6358ae933c81",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1693585172757-b9e057feb878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8cGFybGlhbWVudCUyMGxhdyUyMGNvdXJ0JTIwYmFuZ2xhZGVzaHxlbnwxfDB8fHwxNzk1ODIwNDk3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-27T20:56:11+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.0,
-      "rank_score": 4.3432,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1184443",
-          "title": "চাঁদপুরে মেঘনা এক্সপ্রেসের বগিতে আগুন",
-          "snippet": "চাঁদপুরে মেঘনা এক্সপ্রেসের বগিতে আগুন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "চাঁদপুরে মেঘনা এক্সপ্রেস ট্রেনের বগিতে আগুন",
-        "title_en": "Fire breaks out in Meghna Express train carriage in Chandpur",
-        "summary_bn": "চট্টগ্রাম থেকে ছেড়ে আসা মেঘনা এক্সপ্রেস ট্রেনের একটি বগিতে আগুন দেওয়ার ঘটনা ঘটেছে।",
-        "summary_en": "A fire was set in a carriage of the Meghna Express train coming from Chattogram.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T20:56:11+00:00",
-        "lead_bn": "চট্টগ্রাম থেকে ছেড়ে আসা মেঘনা এক্সপ্রেস ট্রেনের একটি বগিতে আগুন দেওয়ার ঘটনা ঘটেছে।",
-        "lead_en": "A fire was set in a carriage of the Meghna Express train coming from Chattogram.",
-        "bullets_bn": [
-          "চট্টগ্রাম থেকে ছেড়ে আসা মেঘনা এক্সপ্রেস ট্রেনের একটি বগিতে আগুন দেওয়া হয়।",
-          "এই ঘটনায় বগিটির দুটি আসনসহ বেশ কিছু অংশ পুড়ে ক্ষতিগ্রস্ত হয়েছে।",
-          "এই ঘটনায় কোনো হতাহতের ঘটনা ঘটেনি।"
-        ],
-        "bullets_en": [
-          "A fire was set in a carriage of the Meghna Express train coming from Chattogram.",
-          "The incident burned and damaged several parts including two seats of the carriage.",
-          "No casualties were reported in this incident."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "চাঁদপুরে মেঘনা এক্সপ্রেসে আগুন",
-        "kicker_bn": "ব্রেকিং",
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 7.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T23:01:58.714751+00:00"
-      }
-    },
-    {
-      "story_id": "4e7e1765-8bb4-50d0-986b-bebde0ae4f1d",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1774369914755-44d38630c7b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8aHVuZHJlZHMlMjBtb3VuZHMlMjBmYWtlJTIwZGF0ZSUyMGVkdWNhdGlvbnxlbnwxfDB8fHwxNzk1ODIwNTAyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-27T23:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5949,
-      "sources": [
-        {
-          "name": "ইত্তেফাক",
-          "url": "https://www.ittefaq.com.bd/823330/%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%98%E0%A6%BE%E0%A6%9F%E0%A7%87-%E0%A6%B0%E0%A6%B8-%E0%A6%9B%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A6%87-%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A6%BF%C2%A0%E0%A6%B6%E0%A6%A4-%E0%A6%B6%E0%A6%A4-%E0%A6%AE%E0%A6%A3-%E2%80%98%E0%A6%96%E0%A6%BE%E0%A6%81%E0%A6%9F%E0%A6%BF-%E0%A6%97%E0%A7%81%E0%A7%9C%E2%80%99",
-          "title": "চারঘাটে রস ছাড়াই তৈরি শত শত মণ ‘খাঁটি গুড়’!",
-          "snippet": "চারঘাটে রস ছাড়াই তৈরি শত শত মণ ‘খাঁটি গুড়’!"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "চারঘাটে রস ছাড়াই তৈরি হচ্ছে শত মণ খাঁটি গুড়",
-        "title_en": "Hundreds of mounds of fake date molasses are being made in Charghat.",
-        "summary_bn": "রাজশাহীর চারঘাট, বাঘা ও পুঠিয়ায় শীতের শুরুতে কোনো প্রকার খেজুরের রস ছাড়াই তৈরি হচ্ছে শত শত মণ ভেজাল গুড়।",
-        "summary_en": "Hundreds of mounds of adulterated date molasses are being made without any date juice at the start of winter in Charghat, Bagha and Puthia of Rajshahi.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T23:00:00+00:00",
-        "lead_bn": "রাজশাহীর চারঘাট, বাঘা ও পুঠিয়ায় শীতের শুরুতে কোনো প্রকার খেজুরের রস ছাড়াই তৈরি হচ্ছে শত শত মণ ভেজাল গুড়।",
-        "lead_en": "Hundreds of mounds of adulterated date molasses are being made without any date juice at the start of winter in Charghat, Bagha and Puthia of Rajshahi.",
-        "bullets_bn": [
-          "অসাধু চক্র শীতের আগমনের শুরুতেই খেজুরের গুড় তৈরির প্রস্তুতি নিয়েছে।",
-          "উপাদান হিসেবে চিনিকলের চিটাগুড় ও অপরিশোধিত চিনি ব্যবহার করা হচ্ছে।",
-          "মিশ্রণে কাপড়ের রং, আটা, রাসায়নিক পদার্থ ও কৃত্রিম ফ্লেভার দেওয়া হচ্ছে।"
-        ],
-        "bullets_en": [
-          "A dishonest syndicate has become active at the beginning of winter to make date molasses.",
-          "Molasses from sugar mills and crude sugar are being used as ingredients.",
-          "Fabric dye, flour, chemicals and artificial flavor are being added to the mixture."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "শীতের আগমনের শুরুতেই যখন মানুষের আগ্রহ থাকে খেজুরের গুড়ের প্রতি, তখন অসাধু চক্র ভেষজ নির্যাসসহ নানা ক্ষতিকর উপাদান মিশিয়ে রাতারাতি শত শত মণ কৃত্রিম গুড় তৈরি করছে।",
-        "details_en": "When people's interest in date molasses begins with the arrival of winter, a dishonest syndicate makes hundreds of mounds of artificial molasses overnight by mixing various harmful ingredients including herbal extracts.",
-        "hook_bn": "চারঘাটে রস ছাড়াই তৈরি শত শত মণ গুড়",
-        "kicker_bn": "সতর্কতা",
-        "share_value": true,
-        "question_bn": "বাজারে ভেজাল গুড় চেনার উপায় সম্পর্কে আপনার কী জানা আছে?"
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 8.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T23:01:58.714751+00:00"
-      }
-    },
-    {
-      "story_id": "7b23dc59-20c4-5bdf-b129-e50d20d4d9af",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://images.unsplash.com/photo-1621091465602-0b72adb9c6ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA5NTgwfDB8MXxzZWFyY2h8MXx8YmFubmVkJTIwY2hoYXRyYSUyMGxlYWd1ZSUyMGhvbGRzJTIwZ292ZXJubWVudHxlbnwxfDB8fHwxNzk1ODIwNTA1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=dorpon_daily&utm_medium=referral",
-      "image_caption": null,
-      "published_at": "2026-11-27T22:46:42+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 3.5492,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1184445",
-          "title": "লক্ষ্মীপুরে ১৪ স্থানে নিষিদ্ধ ছাত্রলীগের মশাল মিছিল",
-          "snippet": "লক্ষ্মীপুরে ১৪ স্থানে নিষিদ্ধ ছাত্রলীগের মশাল মিছিল"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "লক্ষ্মীপুরে ১৪ স্থানে নিষিদ্ধ ছাত্রলীগের মশাল মিছিল",
-        "title_en": "Banned Chhatra League holds torch processions at 14 spots in Lakshmipur",
-        "summary_bn": "লক্ষ্মীপুরে নিষিদ্ধ সংগঠন ছাত্রলীগের নেতাকর্মীরা ১৪টি স্থানে মশাল জ্বালিয়ে মিছিল করেছেন।",
-        "summary_en": "Leaders and activists of the banned organization Chhatra League carried out torch processions at 14 locations in Lakshmipur.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-11-27T22:46:42+00:00",
-        "lead_bn": "লক্ষ্মীপুরে নিষিদ্ধ সংগঠন ছাত্রলীগের নেতাকর্মীরা ১৪টি স্থানে মশাল জ্বালিয়ে মিছিল করেছেন।",
-        "lead_en": "Leaders and activists of the banned organization Chhatra League carried out torch processions at 14 locations in Lakshmipur.",
-        "bullets_bn": [
-          "প্রত্যেকটি স্থানেই কার্যক্রম নিষিদ্ধ আওয়ামী লীগের ঘোষিত আট দফা দাবি বাস্তবায়নের দাবি জানানো হয়।",
-          "মিছিলগুলোতে অংশগ্রহণকারীরা নিষিদ্ধ ছাত্রলীগের পক্ষে নানা স্লোগান দেন।",
-          "ঘটনাটি লক্ষ্মীপুর জেলার বিভিন্ন স্থানে ঘটেছে।"
-        ],
-        "bullets_en": [
-          "At every location, demands were made to implement the eight-point demands announced by the banned Awami League.",
-          "Participants in the processions chanted various slogans in favor of the banned Chhatra League.",
-          "The incident took place at various places in Lakshmipur district."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "লক্ষ্মীপুরে ১৪ স্থানে নিষিদ্ধ ছাত্রলীগের মশাল মিছিল",
-        "kicker_bn": null,
-        "share_value": false,
-        "question_bn": null
-      },
-      "desk_importance": 6.0,
-      "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 6.0,
-      "fact_check": {
-        "status": "passed",
-        "checked_at": "2026-11-27T23:01:58.714751+00:00"
-      }
-    },
-    {
-      "story_id": "4e2a590f-fbe7-5a45-9ae6-7d080a1ec6e0",
+      "story_id": "bafd7294-91c3-517e-8189-5c0b4c67cc28",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy"
+        "world_diplomacy",
+        "governance_law"
       ],
       "region": "international",
       "tags": [
-        "#Venezuela",
-        "#JorgeRodriguez",
-        "#MariaCorinaMachado"
+        "#KennethLaw",
+        "#Canada",
+        "#Ontario"
       ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b09e7e49444-1795811300.jpg?resize=1920%2C1440",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg",
       "image_caption": null,
-      "published_at": "2026-11-27T20:44:03+00:00",
+      "published_at": "2026-11-27T22:03:46+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.0,
-      "rank_score": 2.1902,
+      "importance_score": 5.5,
+      "rank_score": 2.7015,
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss",
-          "title": "Venezuela to repeal law that bans opposition figures from office",
-          "snippet": "Venezuela to repeal law that bans opposition figures from office"
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+          "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
+          "snippet": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ভেনিজুয়েলা বিরোধী দলের ওপর নিষেধাজ্ঞা সৃষ্টিকারী আইন বাতিল করছে",
-        "title_en": "Venezuela to repeal law that bans opposition figures from office",
-        "summary_bn": "ভেনিজুয়েলার ন্যাশনাল অ্যাসেম্বলির প্রধান হোর্হে রোদ্রিগেজ ঘোষণা করেছেন যে দেশটিতে বিরোধী নেতাদের রাজনৈতিক কার্যালয়ে নিষিদ্ধকারী আইন বাতিল করা হবে।",
-        "summary_en": "National Assembly Chief Jorge Rodriguez announced that Venezuela will repeal a law that prohibits opposition figures from office.",
+        "title_bn": "কেন্দ্রে ল’এর ২৫ বছরের কারাদণ্ড চেয়েছেন আইনজীবীরা",
+        "title_en": "Prosecutors seek 25-year prison term for Kenneth Law",
+        "summary_bn": "কানাডার আইনজীবীরা অনলাইন আত্মহত্যার ফোরামে বিষাক্ত রাসায়নিক বিক্রেতা কেনেথ ল’এর জন্য ২৫ বছরের কারাদণ্ড চেয়েছেন।",
+        "summary_en": "Canadian prosecutors are seeking a 25-year prison sentence for Kenneth Law, who sold toxic chemicals through online suicide forums.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "world_diplomacy",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-11-27T20:44:03+00:00",
-        "lead_bn": "ভেনিজুয়েলার ন্যাশনাল অ্যাসেম্বলির প্রধান হোর্হে রোদ্রিগেজ ঘোষণা করেছেন যে দেশটিতে বিরোধী নেতাদের রাজনৈতিক কার্যালয়ে নিষিদ্ধকারী আইন বাতিল করা হবে।",
-        "lead_en": "National Assembly Chief Jorge Rodriguez announced that Venezuela will repeal a law that prohibits opposition figures from office.",
+        "published_at": "2026-11-27T22:03:46+00:00",
+        "lead_bn": "কানাডার আইনজীবীরা অনলাইন আত্মহত্যার ফোরামে বিষাক্ত রাসায়নিক বিক্রেতা কেনেথ ল’এর জন্য ২৫ বছরের কারাদণ্ড চেয়েছেন।",
+        "lead_en": "Canadian prosecutors are seeking a 25-year prison sentence for Kenneth Law, who sold toxic chemicals through online suicide forums.",
         "bullets_bn": [
-          "২০২৪ সালে অনুমোদিত এই আইনটি এমন ব্যক্তিদের লক্ষ্য করে করা হয়েছিল যারা দেশের ওপর নিষেধাজ্ঞার পক্ষে প্রচার চালিয়েছিলেন।",
-          "হোর্হে রোদ্রিগেজ বলেন যে ওই আইনটি ভেনিজুয়েলার মধ্য দিয়ে যাওয়া একটি নির্দিষ্ট মুহূর্ত ও পরিস্থিতির জবাব ছিল।",
-          "মার্কিন বাহিনী জানুয়ারি মাসে নিকোলাস মাদুরোকে অপসারণ করার পর থেকে ডেলসি রোদ্রিগেজের নেতৃত্বাধীন অন্তর্বর্তীকালীন সরকার দেশ পরিচালনা করছে।"
+          "কেনেথ ল মে মাসে কানাডার অন্টারিওতে ১৪ জনের আত্মহত্যার সহায়তার ১৪টি অভিযোগে দোষ স্বীকার করেছেন।",
+          "ক্রাউন অ্যাটর্নি ক্যাথলিন ডোহ্যার্টি কেনেথ লকে ঝুঁকিপূর্ণ ব্যক্তিদের সুবিধাভোগী শিকারী হিসেবে বর্ণনা করেছেন।",
+          "মে ২০২৩ সালে আটকের পর থেকে কারাগারে কাটানো সময় বাদ দিয়ে ল প্রায় ২০ বছর কারাদণ্ড ভোগ করতে পারেন।"
         ],
         "bullets_en": [
-          "The legislation approved in 2024 targeted those who promoted or supported sanctions against the country.",
-          "Jorge Rodriguez said that the law responded to a very specific moment in a particular situation Venezuela was going through.",
-          "An interim government headed by Delcy Rodriguez has run Venezuela since Maduro was abducted by US forces in January."
+          "Kenneth Law pleaded guilty in May to 14 counts of aiding suicide in Ontario, Canada.",
+          "Crown Attorney Kathleen Doherty described Law as a predator taking advantage of vulnerable people.",
+          "If Law receives the recommended sentence, he would serve just under 20 years after accounting for time served."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": null,
-        "details_en": null,
-        "hook_bn": "বিরোধী নেতাদের নিষিদ্ধের আইন বাতিল করবে ভেনিজুয়েলা",
+        "details_bn": "কেনেথ ল যুক্তরাজ্য ও ওয়েলসে ডজনখানেক মৃত্যুর কারণ স্বীকার করলেও যুক্তরাজ্যের কোনো মৃত্যুর জন্য তার বিরুদ্ধে অভিযোগ আনা হবে না। একটি চুক্তির মাধ্যমে কানাডীয় কর্তৃপক্ষ হত্যার আরও গুরুতর অভিযোগ প্রত্যাহার করে নিয়েছে। অন্টারিওর একটি আদালতে শুনানির সময় আইনজীবীরা জানান যে তার অনেক ভুক্তভোগী তরুণ এবং মানসিক কষ্টে ছিলেন।",
+        "details_en": "The 61-year-old will not face charges in the UK or over any British deaths under a plea deal which saw Canadian authorities withdraw more serious charges of murder. During Friday's sentencing hearing, prosecutors stressed that many of his victims were young and struggling with mental distress, while Crown Attorney Kathleen Doherty stated his motives were financial.",
+        "hook_bn": "বিষ ও পণ্যের মৃত্যু",
         "kicker_bn": null,
         "share_value": false,
-        "question_bn": "বিরোধী রাজনৈতিক নিষেধাজ্ঞা প্রত্যাহার করা হলে ভেনিজুয়েলার রাজনীতিতে কেমন প্রভাব পড়তে পারে বলে আপনার মনে হয়?"
+        "question_bn": null
       },
       "desk_importance": 5.0,
       "outlet_count": 1,
-      "trending": false,
-      "social_appeal": 4.0,
+      "trending": true,
+      "social_appeal": 6.0,
       "fact_check": {
         "status": "passed",
-        "checked_at": "2026-11-27T23:01:58.714751+00:00"
+        "checked_at": "2026-11-28T00:01:37.125737+00:00"
       }
     }
   ]
